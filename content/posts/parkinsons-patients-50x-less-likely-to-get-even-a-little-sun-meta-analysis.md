@@ -3,7 +3,8 @@ title: "Parkinson’s patients 50X less likely to get even a little sun– meta-
 slug: "parkinsons-patients-50x-less-likely-to-get-even-a-little-sun-meta-analysis"
 aliases:
   - "/Parkinsons+patients+50X+less+likely+to+get+even+a+little+sun–+meta-analysis+Jan+2019"
-  - "/tiki-index.php?page_id=10422"
+  - "/10422"
+tiki_page_id: 10422
 date: 2019-01-23
 categories:
   - "Noontime sun and D"

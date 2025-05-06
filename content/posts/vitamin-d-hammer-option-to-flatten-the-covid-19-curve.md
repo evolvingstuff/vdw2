@@ -3,7 +3,8 @@ title: "Vitamin D-hammer option to flatten the COVID-19 curve"
 slug: "vitamin-d-hammer-option-to-flatten-the-covid-19-curve"
 aliases:
   - "/Vitamin+D-hammer+option+to+flatten+the+COVID-19+curve+-+July+22+2021"
-  - "/tiki-index.php?page_id=12761"
+  - "/12761"
+tiki_page_id: 12761
 date: 2021-07-23
 categories:
   - "Top news"

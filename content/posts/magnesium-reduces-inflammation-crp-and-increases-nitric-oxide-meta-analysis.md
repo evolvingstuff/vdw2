@@ -3,7 +3,8 @@ title: "Magnesium reduces inflammation (CRP) and increases nitric oxide – meta
 slug: "magnesium-reduces-inflammation-crp-and-increases-nitric-oxide-meta-analysis"
 aliases:
   - "/Magnesium+reduces+inflammation+CRP+and+increases+nitric+oxide+–+meta-analysis+Feb+2022"
-  - "/tiki-index.php?page_id=13501"
+  - "/13501"
+tiki_page_id: 13501
 date: 2022-04-20
 categories:
   - "Vitamin D and Magnesium"

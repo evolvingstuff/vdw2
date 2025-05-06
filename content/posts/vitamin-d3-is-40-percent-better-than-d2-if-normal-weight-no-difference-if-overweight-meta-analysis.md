@@ -3,7 +3,8 @@ title: "Vitamin D3 is 40% better than D2 if normal weight, no difference if over
 slug: "vitamin-d3-is-40-percent-better-than-d2-if-normal-weight-no-difference-if-overweight-meta-analysis"
 aliases:
   - "/Vitamin+D3+is+40+better+than+D2+if+normal+weight+no+difference+if+overweight+–Meta-analysis+October+2023"
-  - "/tiki-index.php?page_id=14770"
+  - "/14770"
+tiki_page_id: 14770
 date: 2023-10-22
 categories:
   - "Vitamin D3 instead of D2"

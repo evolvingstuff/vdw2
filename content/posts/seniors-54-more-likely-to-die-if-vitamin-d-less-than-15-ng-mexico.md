@@ -3,7 +3,8 @@ title: "Seniors 5.4 more likely to die if Vitamin D less than 15 ng (Mexico)"
 slug: "seniors-54-more-likely-to-die-if-vitamin-d-less-than-15-ng-mexico"
 aliases:
   - "/Seniors+54+more+likely+to+die+if+Vitamin+D+less+than+15+ng+Mexico+–+Aug+2023"
-  - "/tiki-index.php?page_id=14649"
+  - "/14649"
+tiki_page_id: 14649
 date: 2023-08-30
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "High-dose Vitamin D for Multiple Sclerosis is OK while pregnant"
 slug: "high-dose-vitamin-d-for-multiple-sclerosis-is-ok-while-pregnant"
 aliases:
   - "/High-dose+Vitamin+D+for+Multiple+Sclerosis+is+OK+while+pregnant+–+Sept+2019"
-  - "/tiki-index.php?page_id=11144"
+  - "/11144"
+tiki_page_id: 11144
 date: 2019-09-10
 categories:
   - "Pregnancy"

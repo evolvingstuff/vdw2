@@ -3,7 +3,8 @@ title: "Vitamin D is at least 100 X better than Folic Acid"
 slug: "vitamin-d-is-at-least-100-x-better-than-folic-acid"
 aliases:
   - "/Vitamin+D+is+at+least+100+X+better+than+Folic+Acid"
-  - "/tiki-index.php?page_id=9993"
+  - "/9993"
+tiki_page_id: 9993
 date: 2018-08-31
 categories:
   - "Pregnancy"

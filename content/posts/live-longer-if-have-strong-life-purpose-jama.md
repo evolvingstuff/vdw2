@@ -3,7 +3,8 @@ title: "Live longer if have strong life purpose – JAMA"
 slug: "live-longer-if-have-strong-life-purpose-jama"
 aliases:
   - "/Live+longer+if+have+strong+life+purpose+–+JAMA+May+2019"
-  - "/tiki-index.php?page_id=10824"
+  - "/10824"
+tiki_page_id: 10824
 date: 2019-06-03
 categories:
   - "Mortality and D"

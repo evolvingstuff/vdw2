@@ -3,7 +3,8 @@ title: "Vitamin D and Cancer"
 slug: "vitamin-d-and-cancer"
 aliases:
   - "/Vitamin+D+and+Cancer+-+Jan+2024"
-  - "/tiki-index.php?page_id=15019"
+  - "/15019"
+tiki_page_id: 15019
 date: 2024-02-02
 categories:
   - "Cancer"

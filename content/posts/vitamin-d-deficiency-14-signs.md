@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency - 14 signs"
 slug: "vitamin-d-deficiency-14-signs"
 aliases:
   - "/Vitamin+D+Deficiency+-+14+signs+-+March+2023"
-  - "/tiki-index.php?page_id=14322"
+  - "/14322"
+tiki_page_id: 14322
 date: 2023-03-20
 categories:
   - "Deficiency of Vitamin D"

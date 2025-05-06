@@ -3,7 +3,8 @@ title: "The Science of Magnesium and Its Role in Aging and Disease - Patrick"
 slug: "the-science-of-magnesium-and-its-role-in-aging-and-disease-patrick"
 aliases:
   - "/The+Science+of+Magnesium+and+Its+Role+in+Aging+and+Disease+-+Patrick+March+2024"
-  - "/tiki-index.php?page_id=15154"
+  - "/15154"
+tiki_page_id: 15154
 date: 2024-03-19
 categories:
   - "Cancer"

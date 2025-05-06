@@ -3,7 +3,8 @@ title: "Vitamin D reduces viral respiratory infections – editorial"
 slug: "vitamin-d-reduces-viral-respiratory-infections-editorial"
 aliases:
   - "/Vitamin+D+reduces+viral+respiratory+infections+–+editorial+April+18+2020"
-  - "/tiki-index.php?page_id=11734"
+  - "/11734"
+tiki_page_id: 11734
 date: 2020-04-18
 categories:
   - "Breathing"

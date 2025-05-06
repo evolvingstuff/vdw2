@@ -3,7 +3,8 @@ title: "Miscarriage 2.5X more likely if second-hand smoke and low vitamin D"
 slug: "miscarriage-25x-more-likely-if-second-hand-smoke-and-low-vitamin-d"
 aliases:
   - "/Miscarriage+25X+more+likely+if+second-hand+smoke+and+low+vitamin+D+–+Sept+2022"
-  - "/tiki-index.php?page_id=13888"
+  - "/13888"
+tiki_page_id: 13888
 date: 2022-09-06
 categories:
   - "Pregnancy"

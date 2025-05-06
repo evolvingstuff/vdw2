@@ -3,7 +3,8 @@ title: "Dry eye treatment 20 percent better in those getting vitamin D supplemen
 slug: "dry-eye-treatment-20-percent-better-in-those-getting-vitamin-d-supplements"
 aliases:
   - "/Dry+eye+treatment+20+percent+better+in+those+getting+vitamin+D+supplements+–+Dec+2018"
-  - "/tiki-index.php?page_id=10358"
+  - "/10358"
+tiki_page_id: 10358
 date: 2018-12-31
 categories:
   - "Vision"

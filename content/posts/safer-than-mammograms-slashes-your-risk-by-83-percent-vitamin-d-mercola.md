@@ -3,7 +3,8 @@ title: "Safer Than Mammograms, Slashes Your Risk by 83 Percent – Vitamin D, Me
 slug: "safer-than-mammograms-slashes-your-risk-by-83-percent-vitamin-d-mercola"
 aliases:
   - "/Safer+Than+Mammograms+Slashes+Your+Risk+by+83+Percent+–+Vitamin+D+Mercola+–+Oct+2018"
-  - "/tiki-index.php?page_id=10120"
+  - "/10120"
+tiki_page_id: 10120
 date: 2018-10-15
 categories:
   - "Cancer - Breast"

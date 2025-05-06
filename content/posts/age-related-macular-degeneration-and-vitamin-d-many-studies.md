@@ -3,7 +3,8 @@ title: "Age-Related Macular Degeneration and Vitamin D - many studies"
 slug: "age-related-macular-degeneration-and-vitamin-d-many-studies"
 aliases:
   - "/Age-Related+Macular+Degeneration+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=12938"
+  - "/12938"
+tiki_page_id: 12938
 date: 2021-09-29
 categories:
   - "Vision"

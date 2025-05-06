@@ -3,7 +3,8 @@ title: "Atopic Dermatitis not helped by small weekly doses of Vitamin D (8K 2y-6
 slug: "atopic-dermatitis-not-helped-by-small-weekly-doses-of-vitamin-d-8k-2y-6y16k-12y-18y-rct"
 aliases:
   - "/Atopic+Dermatitis+not+helped+by+small+weekly+doses+of+Vitamin+D+8K+2y-6y16K+12y-18y+–+RCT+March+2024"
-  - "/tiki-index.php?page_id=15137"
+  - "/15137"
+tiki_page_id: 15137
 date: 2024-03-14
 categories:
   - "Infant-Child"

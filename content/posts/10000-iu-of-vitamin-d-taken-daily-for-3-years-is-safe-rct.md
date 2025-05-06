@@ -3,7 +3,8 @@ title: "10,000 IU of Vitamin D taken daily for 3 years is safe – RCT"
 slug: "10000-iu-of-vitamin-d-taken-daily-for-3-years-is-safe-rct"
 aliases:
   - "/10000+IU+of+Vitamin+D+taken+daily+for+3+years+is+safe+–+RCT+Nov+2019"
-  - "/tiki-index.php?page_id=11378"
+  - "/11378"
+tiki_page_id: 11378
 date: 2019-11-21
 categories:
   - "How much Vitamin D"

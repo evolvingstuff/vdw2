@@ -3,7 +3,8 @@ title: "COVID-19 ICU survival rate increased 7X by daily Omega-3 – RCT"
 slug: "covid-19-icu-survival-rate-increased-7x-by-daily-omega-3-rct"
 aliases:
   - "/COVID-19+ICU+survival+rate+increased+7X+by+daily+Omega-3+–+RCT+March+2021"
-  - "/tiki-index.php?page_id=12509"
+  - "/12509"
+tiki_page_id: 12509
 date: 2021-04-18
 categories:
   - "Intervention"

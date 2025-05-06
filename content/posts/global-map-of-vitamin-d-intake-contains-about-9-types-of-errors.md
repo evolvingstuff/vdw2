@@ -3,7 +3,8 @@ title: "Global map of vitamin D intake (contains about 9 types of errors)"
 slug: "global-map-of-vitamin-d-intake-contains-about-9-types-of-errors"
 aliases:
   - "/Global+map+of+vitamin+D+intake+contains+about+9+types+of+errors+–+Aug+2021"
-  - "/tiki-index.php?page_id=12872"
+  - "/12872"
+tiki_page_id: 12872
 date: 2021-09-02
 categories:
   - "Fortification with Vitamin D"

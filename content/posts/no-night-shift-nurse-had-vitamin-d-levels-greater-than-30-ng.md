@@ -3,7 +3,8 @@ title: "No night shift nurse had vitamin D levels greater than 30 ng"
 slug: "no-night-shift-nurse-had-vitamin-d-levels-greater-than-30-ng"
 aliases:
   - "/No+night+shift+nurse+had+vitamin+D+levels+greater+than+30+ng+–+Aug+2022"
-  - "/tiki-index.php?page_id=13868"
+  - "/13868"
+tiki_page_id: 13868
 date: 2022-08-27
 categories:
   - "High Risk"

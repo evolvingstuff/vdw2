@@ -3,7 +3,8 @@ title: "COVID maximum downregulation of Vitamin D receptor and CYP27B1 resulted 
 slug: "covid-maximum-downregulation-of-vitamin-d-receptor-and-cyp27b1-resulted-in-death"
 aliases:
   - "/COVID+maximum+downregulation+of+Vitamin+D+receptor+and+CYP27B1+resulted+in+death+-+Feb+2024"
-  - "/tiki-index.php?page_id=15135"
+  - "/15135"
+tiki_page_id: 15135
 date: 2024-03-14
 categories:
   - "Vitamin D Receptor"

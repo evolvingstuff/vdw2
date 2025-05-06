@@ -3,7 +3,8 @@ title: "Anxiety severity reduced if more than 2 grams of Omega-3 – meta-analys
 slug: "anxiety-severity-reduced-if-more-than-2-grams-of-omega-3-meta-analysis"
 aliases:
   - "/Anxiety+severity+reduced+if+more+than+2+grams+of+Omega-3+–+meta-analysis+Sept+2018"
-  - "/tiki-index.php?page_id=10050"
+  - "/10050"
+tiki_page_id: 10050
 date: 2018-09-19
 categories:
   - "Depression"

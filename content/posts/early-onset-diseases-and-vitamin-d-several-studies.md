@@ -3,7 +3,8 @@ title: "Early-Onset diseases and Vitamin D - several studies"
 slug: "early-onset-diseases-and-vitamin-d-several-studies"
 aliases:
   - "/Early-Onset+diseases+and+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=15206"
+  - "/15206"
+tiki_page_id: 15206
 date: 2024-04-10
 categories:
   - "Health"

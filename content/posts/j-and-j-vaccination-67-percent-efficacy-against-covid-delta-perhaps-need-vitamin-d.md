@@ -3,7 +3,8 @@ title: "J and J vaccination 67 percent efficacy against COVID-Delta (perhaps nee
 slug: "j-and-j-vaccination-67-percent-efficacy-against-covid-delta-perhaps-need-vitamin-d"
 aliases:
   - "/J+and+J+vaccination+67+percent+efficacy+against+COVID-Delta+perhaps+need+Vitamin+D+–+July+23+2021"
-  - "/tiki-index.php?page_id=12764"
+  - "/12764"
+tiki_page_id: 12764
 date: 2021-07-23
 categories:
   - "Virus"

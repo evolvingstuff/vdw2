@@ -3,7 +3,8 @@ title: "Innate immune suppression by SARS-CoV-2 mRNA vaccinations"
 slug: "innate-immune-suppression-by-sars-cov-2-mrna-vaccinations"
 aliases:
   - "/Innate+immune+suppression+by+SARS-CoV-2+mRNA+vaccinations+-+April+2022"
-  - "/tiki-index.php?page_id=13506"
+  - "/13506"
+tiki_page_id: 13506
 date: 2022-04-21
 categories:
   - "Immunity"

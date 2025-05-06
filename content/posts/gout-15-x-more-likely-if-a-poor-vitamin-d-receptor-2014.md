@@ -3,7 +3,8 @@ title: "Gout 1.5 X more likely if a poor Vitamin D Receptor – 2014"
 slug: "gout-15-x-more-likely-if-a-poor-vitamin-d-receptor-2014"
 aliases:
   - "/Gout+15+X+more+likely+if+a+poor+Vitamin+D+Receptor+–+2014"
-  - "/tiki-index.php?page_id=13048"
+  - "/13048"
+tiki_page_id: 13048
 date: 2021-11-04
 categories:
   - "Vitamin D Receptor"

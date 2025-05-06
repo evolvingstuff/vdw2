@@ -3,7 +3,8 @@ title: "Vitamin D Workshop in New York"
 slug: "vitamin-d-workshop-in-new-york"
 aliases:
   - "/Vitamin+D+Workshop+in+New+York+–+May+2019"
-  - "/tiki-index.php?page_id=10524"
+  - "/10524"
+tiki_page_id: 10524
 date: 2019-02-25
 categories:
   - "Conference"

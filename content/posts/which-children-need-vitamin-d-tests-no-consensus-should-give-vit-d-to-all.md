@@ -3,7 +3,8 @@ title: "Which children need Vitamin D tests (no consensus, should give Vit D to 
 slug: "which-children-need-vitamin-d-tests-no-consensus-should-give-vit-d-to-all"
 aliases:
   - "/Which+children+need+Vitamin+D+tests+no+consensus+should+give+Vit+D+to+all+–+March+2019"
-  - "/tiki-index.php?page_id=10478"
+  - "/10478"
+tiki_page_id: 10478
 date: 2019-02-11
 categories:
   - "Infant-Child"

@@ -3,7 +3,8 @@ title: "Morbid Obesity is associated with low Vitamin D around the globe - meta-
 slug: "morbid-obesity-is-associated-with-low-vitamin-d-around-the-globe-meta-analysis"
 aliases:
   - "/Morbid+Obesity+is+associated+with+low+Vitamin+D+around+the+globe+-+meta-analysis+Dec+2023"
-  - "/tiki-index.php?page_id=14872"
+  - "/14872"
+tiki_page_id: 14872
 date: 2023-12-08
 categories:
   - "Obesity"

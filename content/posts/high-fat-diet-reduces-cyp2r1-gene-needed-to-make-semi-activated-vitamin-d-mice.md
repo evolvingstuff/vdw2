@@ -3,7 +3,8 @@ title: "High-fat diet reduces CYP2R1 gene needed to make semi-activated vitamin 
 slug: "high-fat-diet-reduces-cyp2r1-gene-needed-to-make-semi-activated-vitamin-d-mice"
 aliases:
   - "/High-fat+diet+reduces+CYP2R1+gene+needed+to+make+semi-activated+vitamin+D+mice+–+Aug+2021"
-  - "/tiki-index.php?page_id=12864"
+  - "/12864"
+tiki_page_id: 12864
 date: 2021-08-28
 categories:
   - "Obesity"

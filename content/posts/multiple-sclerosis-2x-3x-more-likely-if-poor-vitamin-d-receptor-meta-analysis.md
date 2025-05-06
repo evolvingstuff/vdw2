@@ -3,7 +3,8 @@ title: "Multiple Sclerosis 2X-3X more likely if poor Vitamin D Receptor – Meta
 slug: "multiple-sclerosis-2x-3x-more-likely-if-poor-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Multiple+Sclerosis+2X-3X+more+likely+if+poor+Vitamin+D+Receptor+–+Meta-analysis+Feb+2020"
-  - "/tiki-index.php?page_id=11647"
+  - "/11647"
+tiki_page_id: 11647
 date: 2020-02-26
 categories:
   - "Multiple Sclerosis"

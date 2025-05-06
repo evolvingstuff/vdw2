@@ -3,7 +3,8 @@ title: "Diabetic eye wounds healed by topical activated Vitamin D (calcitriol, m
 slug: "diabetic-eye-wounds-healed-by-topical-activated-vitamin-d-calcitriol-mice"
 aliases:
   - "/Diabetic+eye+wounds+healed+by+topical+activated+Vitamin+D+calcitriol+mice+–+June+2021"
-  - "/tiki-index.php?page_id=12667"
+  - "/12667"
+tiki_page_id: 12667
 date: 2021-06-19
 categories:
   - "Calcitriol"

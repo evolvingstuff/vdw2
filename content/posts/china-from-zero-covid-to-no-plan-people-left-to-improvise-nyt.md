@@ -3,7 +3,8 @@ title: "China: From Zero Covid to No Plan - people left to improvise - NYT"
 slug: "china-from-zero-covid-to-no-plan-people-left-to-improvise-nyt"
 aliases:
   - "/China+From+Zero+Covid+to+No+Plan+-+people+left+to+improvise+-+NYT+Dec+19+2022"
-  - "/tiki-index.php?page_id=14159"
+  - "/14159"
+tiki_page_id: 14159
 date: 2022-12-19
 categories:
   - "Virus"

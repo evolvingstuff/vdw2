@@ -3,7 +3,8 @@ title: "Professor Raoult is calling for a moratorium on COVID-19 vaccines"
 slug: "professor-raoult-is-calling-for-a-moratorium-on-covid-19-vaccines"
 aliases:
   - "/Professor+Raoult+is+calling+for+a+moratorium+on+COVID-19+vaccines+-+Jan+2024"
-  - "/tiki-index.php?page_id=15027"
+  - "/15027"
+tiki_page_id: 15027
 date: 2024-02-04
 categories:
   - "Virus"

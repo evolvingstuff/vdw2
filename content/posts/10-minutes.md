@@ -3,7 +3,8 @@ title: "10 minutes"
 slug: "10-minutes"
 aliases:
   - "/10+minutes"
-  - "/tiki-index.php?page_id=15202"
+  - "/15202"
+tiki_page_id: 15202
 date: 2024-04-09
 categories:
   - "Admin Only"

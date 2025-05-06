@@ -3,7 +3,8 @@ title: "Mental health of children: vast majority of studies reviewed found that 
 slug: "mental-health-of-children-vast-majority-of-studies-reviewed-found-that-vitamin-d-helped"
 aliases:
   - "/Mental+health+of+children+vast+majority+of+studies+reviewed+found+that+vitamin+D+helped+–+March+2021"
-  - "/tiki-index.php?page_id=12468"
+  - "/12468"
+tiki_page_id: 12468
 date: 2021-04-03
 categories:
   - "Depression"

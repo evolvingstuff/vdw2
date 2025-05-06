@@ -3,7 +3,8 @@ title: "Vitamin D improves Sinovac vaccine (fast innate response)"
 slug: "vitamin-d-improves-sinovac-vaccine-fast-innate-response"
 aliases:
   - "/Vitamin+D+improves+Sinovac+vaccine+fast+innate+response+-+July+2022"
-  - "/tiki-index.php?page_id=13857"
+  - "/13857"
+tiki_page_id: 13857
 date: 2022-08-24
 categories:
   - "Virus"

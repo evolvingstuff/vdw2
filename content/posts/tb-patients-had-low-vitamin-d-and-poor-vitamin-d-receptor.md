@@ -3,7 +3,8 @@ title: "TB patients had low Vitamin D and poor Vitamin D receptor"
 slug: "tb-patients-had-low-vitamin-d-and-poor-vitamin-d-receptor"
 aliases:
   - "/TB+patients+had+low+Vitamin+D+and+poor+Vitamin+D+receptor+–+June+2019"
-  - "/tiki-index.php?page_id=10943"
+  - "/10943"
+tiki_page_id: 10943
 date: 2019-07-01
 categories:
   - "Tuberculosis"

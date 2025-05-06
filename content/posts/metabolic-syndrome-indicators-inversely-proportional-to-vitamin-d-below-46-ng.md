@@ -3,7 +3,8 @@ title: "Metabolic Syndrome indicators inversely proportional to vitamin D below 
 slug: "metabolic-syndrome-indicators-inversely-proportional-to-vitamin-d-below-46-ng"
 aliases:
   - "/Metabolic+Syndrome+indicators+inversely+proportional+to+vitamin+D+below+46+ng+–+Nov+2018"
-  - "/tiki-index.php?page_id=10210"
+  - "/10210"
+tiki_page_id: 10210
 date: 2018-11-19
 categories:
   - "Metabolic Syndrome"

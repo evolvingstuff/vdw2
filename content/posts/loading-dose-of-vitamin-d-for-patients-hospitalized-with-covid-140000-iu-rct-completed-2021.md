@@ -3,7 +3,8 @@ title: "Loading dose of Vitamin D for patients hospitalized with COVID (140,000 
 slug: "loading-dose-of-vitamin-d-for-patients-hospitalized-with-covid-140000-iu-rct-completed-2021"
 aliases:
   - "/Loading+dose+of+Vitamin+D+for+patients+hospitalized+with+COVID+140000+IU+–+RCT+completed+2021"
-  - "/tiki-index.php?page_id=13581"
+  - "/13581"
+tiki_page_id: 13581
 date: 2022-05-22
 categories:
   - "Loading dose for Vitamin D"

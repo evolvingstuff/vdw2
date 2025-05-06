@@ -3,7 +3,8 @@ title: "Relapses of Acute Lymphoblastic Leukemia (ALL) – 1 in 5 are due to gen
 slug: "relapses-of-acute-lymphoblastic-leukemia-all-1-in-5-are-due-to-genes-mutated-by-chemotherapy"
 aliases:
   - "/Relapses+of+Acute+Lymphoblastic+Leukemia+ALL+–+1+in+5+are+due+to+genes+mutated+by+chemotherapy+–+Nov+2019"
-  - "/tiki-index.php?page_id=11332"
+  - "/11332"
+tiki_page_id: 11332
 date: 2019-11-10
 categories:
   - "Cancer - after diagnosis"

@@ -3,7 +3,8 @@ title: "Sarcopenia (muscle loss) is reduced by vitamin D and many other suppleme
 slug: "sarcopenia-muscle-loss-is-reduced-by-vitamin-d-and-many-other-supplements"
 aliases:
   - "/Sarcopenia+muscle+loss+is+reduced+by+vitamin+D+and+many+other+supplements+-+July+2023"
-  - "/tiki-index.php?page_id=14563"
+  - "/14563"
+tiki_page_id: 14563
 date: 2023-07-28
 ---
 

@@ -3,7 +3,8 @@ title: "Rotator cuff and Vitamin D - several studies"
 slug: "rotator-cuff-and-vitamin-d-several-studies"
 aliases:
   - "/Rotator+cuff+and+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=15092"
+  - "/15092"
+tiki_page_id: 15092
 date: 2024-03-01
 categories:
   - "Trauma and surgery"

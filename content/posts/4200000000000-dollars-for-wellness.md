@@ -3,7 +3,8 @@ title: "4,200,000,000,000 dollars for wellness"
 slug: "4200000000000-dollars-for-wellness"
 aliases:
   - "/4200000000000+dollars+for+wellness+–+Oct+2018"
-  - "/tiki-index.php?page_id=10131"
+  - "/10131"
+tiki_page_id: 10131
 date: 2018-10-17
 categories:
   - "Cost savings with Vitamin D"

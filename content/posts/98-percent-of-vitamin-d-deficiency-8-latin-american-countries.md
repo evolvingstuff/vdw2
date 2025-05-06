@@ -3,7 +3,8 @@ title: "98% of Vitamin D deficiency (8 Latin American countries)"
 slug: "98-percent-of-vitamin-d-deficiency-8-latin-american-countries"
 aliases:
   - "/98+of+Vitamin+D+deficiency+8+Latin+American+countries+-+Dec+2023"
-  - "/tiki-index.php?page_id=14939"
+  - "/14939"
+tiki_page_id: 14939
 date: 2024-01-01
 categories:
   - "Deficiency of Vitamin D"

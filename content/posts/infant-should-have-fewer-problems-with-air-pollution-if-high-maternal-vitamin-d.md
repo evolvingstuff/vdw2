@@ -3,7 +3,8 @@ title: "Infant should have fewer problems with air pollution if high maternal vi
 slug: "infant-should-have-fewer-problems-with-air-pollution-if-high-maternal-vitamin-d"
 aliases:
   - "/Infant+should+have+fewer+problems+with+air+pollution+if+high+maternal+vitamin+D+–+March+2023"
-  - "/tiki-index.php?page_id=14319"
+  - "/14319"
+tiki_page_id: 14319
 date: 2023-03-19
 categories:
   - "Infant-Child"

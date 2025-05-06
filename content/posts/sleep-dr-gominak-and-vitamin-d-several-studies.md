@@ -3,7 +3,8 @@ title: "Sleep, Dr. Gominak and Vitamin D - several studies"
 slug: "sleep-dr-gominak-and-vitamin-d-several-studies"
 aliases:
   - "/Sleep+Dr+Gominak+and+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=14769"
+  - "/14769"
+tiki_page_id: 14769
 date: 2023-10-20
 categories:
   - "Sleep"

@@ -3,7 +3,8 @@ title: "Vitamiin D Does Not Reduce Fractues in seniors (VITAL 2,000 IU D, no Cal
 slug: "vitamiin-d-does-not-reduce-fractues-in-seniors-vital-2000-iu-d-no-calcium"
 aliases:
   - "/Vitamiin+D+Does+Not+Reduce+Fractues+in+seniors+VITAL+2000+IU+D+no+Calcium+-+Dec+2022"
-  - "/tiki-index.php?page_id=14151"
+  - "/14151"
+tiki_page_id: 14151
 date: 2022-12-16
 categories:
   - "Falls and Fractures"

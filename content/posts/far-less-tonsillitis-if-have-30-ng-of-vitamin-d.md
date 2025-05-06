@@ -3,7 +3,8 @@ title: "Far less tonsillitis if have 30 ng of Vitamin D"
 slug: "far-less-tonsillitis-if-have-30-ng-of-vitamin-d"
 aliases:
   - "/Far+less+tonsillitis+if+have+30+ng+of+Vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13767"
+  - "/13767"
+tiki_page_id: 13767
 date: 2022-07-18
 categories:
   - "Immunity"

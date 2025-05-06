@@ -3,7 +3,8 @@ title: "1.7 X less risk of Heart Failure death if previously had taken any amoun
 slug: "17-x-less-risk-of-heart-failure-death-if-previously-had-taken-any-amount-of-vitamin-d"
 aliases:
   - "/17+X+less+risk+of+Heart+Failure+death+if+previously+had+taken+any+amount+of+vitamin+D+-+Jan+2022"
-  - "/tiki-index.php?page_id=13479"
+  - "/13479"
+tiki_page_id: 13479
 date: 2022-04-14
 categories:
   - "Cardiovascular"

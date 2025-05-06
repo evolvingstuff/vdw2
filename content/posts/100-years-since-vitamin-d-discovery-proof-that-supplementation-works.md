@@ -3,7 +3,8 @@ title: "100 years since Vitamin D discovery, proof that supplementation works"
 slug: "100-years-since-vitamin-d-discovery-proof-that-supplementation-works"
 aliases:
   - "/100+years+since+Vitamin+D+discovery+proof+that+supplementation+works+–+June+2022"
-  - "/tiki-index.php?page_id=13629"
+  - "/13629"
+tiki_page_id: 13629
 date: 2022-06-02
 categories:
   - "About D - more info."

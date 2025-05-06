@@ -3,7 +3,8 @@ title: "High altitudes reduce the COVID-19 infection (not a surprise)"
 slug: "high-altitudes-reduce-the-covid-19-infection-not-a-surprise"
 aliases:
   - "/High+altitudes+reduce+the+COVID-19+infection+not+a+surprise+–+April+2022"
-  - "/tiki-index.php?page_id=13471"
+  - "/13471"
+tiki_page_id: 13471
 date: 2022-04-11
 categories:
   - "Virus"

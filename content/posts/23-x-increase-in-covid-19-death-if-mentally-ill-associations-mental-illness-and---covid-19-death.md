@@ -3,7 +3,8 @@ title: "2.3 X increase in COVID-19 death if mentally ill (associations: Mental I
 slug: "23-x-increase-in-covid-19-death-if-mentally-ill-associations-mental-illness-and---covid-19-death"
 aliases:
   - "/23+X+increase+in+COVID-19+death+if+mentally+ill+associations+Mental+Illness+and+Low+Vitamin+D+Low+D+and+COVID-19+death+–+Oct+2+2020"
-  - "/tiki-index.php?page_id=11987"
+  - "/11987"
+tiki_page_id: 11987
 date: 2020-10-04
 categories:
   - "Depression"

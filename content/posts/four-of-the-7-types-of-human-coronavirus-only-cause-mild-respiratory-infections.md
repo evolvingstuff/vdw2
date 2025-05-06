@@ -3,7 +3,8 @@ title: "Four of the 7 types of human Coronavirus only cause mild respiratory inf
 slug: "four-of-the-7-types-of-human-coronavirus-only-cause-mild-respiratory-infections"
 aliases:
   - "/Four+of+the+7+types+of+human+Coronavirus+only+cause+mild+respiratory+infections"
-  - "/tiki-index.php?page_id=11606"
+  - "/11606"
+tiki_page_id: 11606
 date: 2020-02-03
 categories:
   - "Virus"

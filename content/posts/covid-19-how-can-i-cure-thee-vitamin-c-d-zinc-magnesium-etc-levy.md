@@ -3,7 +3,8 @@ title: "COVID-19 - How can I cure thee (Vitamin C, D, Zinc, Magnesium, etc) – 
 slug: "covid-19-how-can-i-cure-thee-vitamin-c-d-zinc-magnesium-etc-levy"
 aliases:
   - "/COVID-19+-+How+can+I+cure+thee+Vitamin+C+D+Zinc+Magnesium+etc+–+Levy+July+2020"
-  - "/tiki-index.php?page_id=11853"
+  - "/11853"
+tiki_page_id: 11853
 date: 2020-07-19
 categories:
   - "Vitamin C"

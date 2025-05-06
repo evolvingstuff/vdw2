@@ -3,7 +3,8 @@ title: "Stroke recovery was aided by vitamin D and Progesterone (in rats)"
 slug: "stroke-recovery-was-aided-by-vitamin-d-and-progesterone-in-rats"
 aliases:
   - "/Stroke+recovery+was+aided+by+vitamin+D+and+Progesterone+in+rats+–+Feb+2019"
-  - "/tiki-index.php?page_id=10467"
+  - "/10467"
+tiki_page_id: 10467
 date: 2019-02-05
 categories:
   - "Stroke"

@@ -3,7 +3,8 @@ title: "400,000 IU of vitamin D 3 days after COVID symptoms reduced 14 day morta
 slug: "400000-iu-of-vitamin-d-3-days-after-covid-symptoms-reduced-14-day-mortality-by-3x-annweiler-rct"
 aliases:
   - "/400000+IU+of+vitamin+D+3+days+after+COVID+symptoms+reduced+14+day+mortality+by+3X+–+Annweiler+RCT+May+2022"
-  - "/tiki-index.php?page_id=13619"
+  - "/13619"
+tiki_page_id: 13619
 date: 2022-05-31
 categories:
   - "Loading dose for Vitamin D"

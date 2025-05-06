@@ -3,7 +3,8 @@ title: "Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT"
 slug: "hay-fever-treated-by-vitamin-d-50000-iu-weekly-rct"
 aliases:
   - "/Hay+Fever+treated+by+Vitamin+D+50000+IU+weekly+–+RCT+July+2019"
-  - "/tiki-index.php?page_id=11018"
+  - "/11018"
+tiki_page_id: 11018
 date: 2019-07-24
 categories:
   - "Breathing"

@@ -3,7 +3,8 @@ title: "Vitamin D deficiency increases risk of Metabolic Syndrome – 1998"
 slug: "vitamin-d-deficiency-increases-risk-of-metabolic-syndrome-1998"
 aliases:
   - "/Vitamin+D+deficiency+increases+risk+of+Metabolic+Syndrome+–+1998"
-  - "/tiki-index.php?page_id=10788"
+  - "/10788"
+tiki_page_id: 10788
 date: 2019-05-18
 categories:
   - "Metabolic Syndrome"

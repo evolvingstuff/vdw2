@@ -3,7 +3,8 @@ title: "Newborn vitamin D level is often lower than maternal, this study says it
 slug: "newborn-vitamin-d-level-is-often-lower-than-maternal-this-study-says-it-is-double"
 aliases:
   - "/Newborn+vitamin+D+level+is+often+lower+than+maternal+this+study+says+it+is+double+–+Aug+2019"
-  - "/tiki-index.php?page_id=11052"
+  - "/11052"
+tiki_page_id: 11052
 date: 2019-08-08
 categories:
   - "Infant-Child"

@@ -3,7 +3,8 @@ title: "The Real Story on Vitamin D:  interview and transcript – Grant"
 slug: "the-real-story-on-vitamin-d-interview-and-transcript-grant"
 aliases:
   - "/The+Real+Story+on+Vitamin+D+interview+and+transcript+–+Grant+Dec+2022"
-  - "/tiki-index.php?page_id=14141"
+  - "/14141"
+tiki_page_id: 14141
 date: 2022-12-10
 categories:
   - "Books, videos on Vitamin D"

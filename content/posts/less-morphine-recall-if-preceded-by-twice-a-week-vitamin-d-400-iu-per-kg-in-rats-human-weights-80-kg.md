@@ -3,7 +3,8 @@ title: "Less morphine recall if preceded by twice a week Vitamin D (400 IU per k
 slug: "less-morphine-recall-if-preceded-by-twice-a-week-vitamin-d-400-iu-per-kg-in-rats-human-weights-80-kg"
 aliases:
   - "/Less+morphine+recall+if+preceded+by+twice+a+week+Vitamin+D+400+IU+per+kg+in+rats+human+weights+80+kg+–+Aug+2023"
-  - "/tiki-index.php?page_id=14612"
+  - "/14612"
+tiki_page_id: 14612
 date: 2023-08-15
 categories:
   - "Pain - chronic"

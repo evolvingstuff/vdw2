@@ -3,7 +3,8 @@ title: "Chronic Kidney not helped much by little vitamin D (none got to a 75 nmo
 slug: "chronic-kidney-not-helped-much-by-little-vitamin-d-none-got-to-a-75-nmol-level-meta-analysis"
 aliases:
   - "/Chronic+Kidney+not+helped+much+by+little+vitamin+D+none+got+to+a+75+nmol+level+–+meta-analysis+Sept+2023"
-  - "/tiki-index.php?page_id=14841"
+  - "/14841"
+tiki_page_id: 14841
 date: 2023-11-25
 categories:
   - "Kidney"

@@ -3,7 +3,8 @@ title: "Metastatic Melanoma survived 2X longer if adequate level of Vitamin D"
 slug: "metastatic-melanoma-survived-2x-longer-if-adequate-level-of-vitamin-d"
 aliases:
   - "/Metastatic+Melanoma+survived+2X+longer+if+adequate+level+of+Vitamin+D+–+July+2023"
-  - "/tiki-index.php?page_id=14583"
+  - "/14583"
+tiki_page_id: 14583
 date: 2023-08-03
 categories:
   - "Cancer - Skin"

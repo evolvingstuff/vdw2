@@ -3,7 +3,8 @@ title: "Long-COVID fatigue reduced by Vitamin C and l-Arginine in one month– R
 slug: "long-covid-fatigue-reduced-by-vitamin-c-and-l-arginine-in-one-month-rct"
 aliases:
   - "/Long-COVID+fatigue+reduced+by+Vitamin+C+and+l-Arginine+in+one+month–+RCT+Nov+2022"
-  - "/tiki-index.php?page_id=14104"
+  - "/14104"
+tiki_page_id: 14104
 date: 2022-11-23
 categories:
   - "Virus"

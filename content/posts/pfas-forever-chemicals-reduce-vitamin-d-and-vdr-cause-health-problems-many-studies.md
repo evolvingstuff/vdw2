@@ -3,7 +3,8 @@ title: "PFAS (forever chemicals) reduce Vitamin D and VDR, cause health problems
 slug: "pfas-forever-chemicals-reduce-vitamin-d-and-vdr-cause-health-problems-many-studies"
 aliases:
   - "/PFAS+forever+chemicals+reduce+Vitamin+D+and+VDR+cause+health+problems+-+many+studies"
-  - "/tiki-index.php?page_id=11220"
+  - "/11220"
+tiki_page_id: 11220
 date: 2019-10-10
 categories:
   - "Interactions with Vitamin D"

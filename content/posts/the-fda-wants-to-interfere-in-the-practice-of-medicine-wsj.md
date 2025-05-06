@@ -3,7 +3,8 @@ title: "The FDA Wants to Interfere in the Practice of Medicine - WSJ"
 slug: "the-fda-wants-to-interfere-in-the-practice-of-medicine-wsj"
 aliases:
   - "/The+FDA+Wants+to+Interfere+in+the+Practice+of+Medicine+-+WSJ+Jan+12+2023"
-  - "/tiki-index.php?page_id=14244"
+  - "/14244"
+tiki_page_id: 14244
 date: 2023-02-04
 categories:
   - "Virus"

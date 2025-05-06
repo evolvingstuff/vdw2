@@ -3,7 +3,8 @@ title: "The only independent predictor of aerobic power: Vitamin D - 2021"
 slug: "the-only-independent-predictor-of-aerobic-power-vitamin-d-2021"
 aliases:
   - "/The+only+independent+predictor+of+aerobic+power+Vitamin+D+-+2021"
-  - "/tiki-index.php?page_id=13394"
+  - "/13394"
+tiki_page_id: 13394
 date: 2022-03-13
 categories:
   - "Sports and Vitamin D"

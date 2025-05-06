@@ -3,7 +3,8 @@ title: "Light improves health by more than just Vitamin D"
 slug: "light-improves-health-by-more-than-just-vitamin-d"
 aliases:
   - "/Light+improves+health+by+more+than+just+Vitamin+D+-+April+2022"
-  - "/tiki-index.php?page_id=14383"
+  - "/14383"
+tiki_page_id: 14383
 date: 2023-04-16
 categories:
   - "Noontime sun and D"

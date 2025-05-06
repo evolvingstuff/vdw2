@@ -3,7 +3,8 @@ title: "Live 24 years longer if have 8 habits (survey of 700,000 veterans)"
 slug: "live-24-years-longer-if-have-8-habits-survey-of-700000-veterans"
 aliases:
   - "/Live+24+years+longer+if+have+8+habits+survey+of+700000+veterans+-+July+2023"
-  - "/tiki-index.php?page_id=14754"
+  - "/14754"
+tiki_page_id: 14754
 date: 2023-10-16
 categories:
   - "Health"

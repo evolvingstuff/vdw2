@@ -3,7 +3,8 @@ title: "Vitamin D is indispensable for the health of women - editorial"
 slug: "vitamin-d-is-indispensable-for-the-health-of-women-editorial"
 aliases:
   - "/Vitamin+D+is+indispensable+for+the+health+of+women+-+editorial+June+2022"
-  - "/tiki-index.php?page_id=13658"
+  - "/13658"
+tiki_page_id: 13658
 date: 2022-06-10
 categories:
   - "Women"

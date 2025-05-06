@@ -3,7 +3,8 @@ title: "Magnesium: intake decreased, difficult to measure in body"
 slug: "magnesium-intake-decreased-difficult-to-measure-in-body"
 aliases:
   - "/Magnesium+intake+decreased+difficult+to+measure+in+body+–+Sept+2018"
-  - "/tiki-index.php?page_id=13628"
+  - "/13628"
+tiki_page_id: 13628
 date: 2022-06-02
 categories:
   - "Vitamin D and Magnesium"

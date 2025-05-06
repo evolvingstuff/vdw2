@@ -3,7 +3,8 @@ title: "Asthma may be treated by Vitamin D if more than 40 ng for 12 months"
 slug: "asthma-may-be-treated-by-vitamin-d-if-more-than-40-ng-for-12-months"
 aliases:
   - "/Asthma+may+be+treated+by+Vitamin+D+if+more+than+40+ng+for+12+months+–+Sept+2018"
-  - "/tiki-index.php?page_id=10181"
+  - "/10181"
+tiki_page_id: 10181
 date: 2018-11-03
 categories:
   - "Breathing"

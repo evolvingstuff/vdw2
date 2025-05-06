@@ -3,7 +3,8 @@ title: "Oral cancers might be prevented and treated by Vitamin D (VDR may be imp
 slug: "oral-cancers-might-be-prevented-and-treated-by-vitamin-d-vdr-may-be-important-review"
 aliases:
   - "/Oral+cancers+might+be+prevented+and+treated+by+Vitamin+D+VDR+may+be+important+–+Review+May+2023"
-  - "/tiki-index.php?page_id=14451"
+  - "/14451"
+tiki_page_id: 14451
 date: 2023-05-27
 categories:
   - "Cancer - Other"

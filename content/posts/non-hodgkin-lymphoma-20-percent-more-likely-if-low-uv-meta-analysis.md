@@ -3,7 +3,8 @@ title: "Non-Hodgkin Lymphoma 20 percent more likely if low UV – meta-analysis"
 slug: "non-hodgkin-lymphoma-20-percent-more-likely-if-low-uv-meta-analysis"
 aliases:
   - "/Non-Hodgkin+Lymphoma+20+percent+more+likely+if+low+UV+–+meta-analysis+April+2019"
-  - "/tiki-index.php?page_id=10719"
+  - "/10719"
+tiki_page_id: 10719
 date: 2019-04-29
 categories:
   - "UV and Vitamin D"

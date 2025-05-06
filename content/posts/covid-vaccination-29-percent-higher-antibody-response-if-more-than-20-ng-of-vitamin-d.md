@@ -3,7 +3,8 @@ title: "COVID vaccination: 29 percent higher antibody response if more than 20 n
 slug: "covid-vaccination-29-percent-higher-antibody-response-if-more-than-20-ng-of-vitamin-d"
 aliases:
   - "/COVID+vaccination+29+percent+higher+antibody+response+if+more+than+20+ng+of+vitamin+D+–+March+2022"
-  - "/tiki-index.php?page_id=13423"
+  - "/13423"
+tiki_page_id: 13423
 date: 2022-03-22
 ---
 

@@ -3,7 +3,8 @@ title: "‘Long haul’ COVID rehab worse than cancer rehab, CDC"
 slug: "long-haul-covid-rehab-worse-than-cancer-rehab-cdc"
 aliases:
   - "/Long+haul+COVID+rehab+worse+than+cancer+rehab+CDC+–+July+2021"
-  - "/tiki-index.php?page_id=12735"
+  - "/12735"
+tiki_page_id: 12735
 date: 2021-07-12
 categories:
   - "Virus"

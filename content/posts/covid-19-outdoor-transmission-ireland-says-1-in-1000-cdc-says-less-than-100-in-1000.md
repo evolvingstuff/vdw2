@@ -3,7 +3,8 @@ title: "COVID-19 outdoor transmission: Ireland says 1 in 1000, CDC says less tha
 slug: "covid-19-outdoor-transmission-ireland-says-1-in-1000-cdc-says-less-than-100-in-1000"
 aliases:
   - "/COVID-19+outdoor+transmission+Ireland+says+1+in+1000+CDC+says+less+than+100+in+1000+–+May+2021"
-  - "/tiki-index.php?page_id=12635"
+  - "/12635"
+tiki_page_id: 12635
 date: 2021-06-04
 categories:
   - "Virus"

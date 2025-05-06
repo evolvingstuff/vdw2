@@ -3,7 +3,8 @@ title: "Omega-3 index of 5 greatly decreases the risk of an early preterm birth"
 slug: "omega-3-index-of-5-greatly-decreases-the-risk-of-an-early-preterm-birth"
 aliases:
   - "/Omega-3+index+of+5+greatly+decreases+the+risk+of+an+early+preterm+birth+–+Dec+2018"
-  - "/tiki-index.php?page_id=10366"
+  - "/10366"
+tiki_page_id: 10366
 date: 2019-01-04
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Alzheimer's 3X higher risk in countries with high meat consumption - 201
 slug: "alzheimers-3x-higher-risk-in-countries-with-high-meat-consumption-2016"
 aliases:
   - "/Alzheimers+3X+higher+risk+in+countries+with+high+meat+consumption+-+2016"
-  - "/tiki-index.php?page_id=13309"
+  - "/13309"
+tiki_page_id: 13309
 date: 2022-02-01
 categories:
   - "Cognitive"

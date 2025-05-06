@@ -3,7 +3,8 @@ title: "Colin Powell died of COVID-19 (he had 4 risk factors for low vitamin D)"
 slug: "colin-powell-died-of-covid-19-he-had-4-risk-factors-for-low-vitamin-d"
 aliases:
   - "/Colin+Powell+died+of+COVID-19+he+had+4+risk+factors+for+low+vitamin+D+–+Oct+18+2021"
-  - "/tiki-index.php?page_id=13003"
+  - "/13003"
+tiki_page_id: 13003
 date: 2021-10-18
 categories:
   - "Virus"

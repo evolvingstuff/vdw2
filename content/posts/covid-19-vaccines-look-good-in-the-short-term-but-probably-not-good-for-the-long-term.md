@@ -3,7 +3,8 @@ title: "COVID-19 vaccines look good in the short term, but probably not good for
 slug: "covid-19-vaccines-look-good-in-the-short-term-but-probably-not-good-for-the-long-term"
 aliases:
   - "/COVID-19+vaccines+look+good+in+the+short+term+but+probably+not+good+for+the+long+term"
-  - "/tiki-index.php?page_id=12538"
+  - "/12538"
+tiki_page_id: 12538
 date: 2021-04-25
 categories:
   - "Virus"

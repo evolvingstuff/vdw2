@@ -3,7 +3,8 @@ title: "Prediction of low Vitamin D not helped by improperly used Machine Learni
 slug: "prediction-of-low-vitamin-d-not-helped-by-improperly-used-machine-learning"
 aliases:
   - "/Prediction+of+low+Vitamin+D+not+helped+by+improperly+used+Machine+Learning+–+Sept+2022"
-  - "/tiki-index.php?page_id=13957"
+  - "/13957"
+tiki_page_id: 13957
 date: 2022-09-30
 categories:
   - "Predict Vitamin D"

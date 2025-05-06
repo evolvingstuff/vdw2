@@ -3,7 +3,8 @@ title: "Overweight children are 3.4 X more likely to have low Vitamin D"
 slug: "overweight-children-are-34-x-more-likely-to-have-low-vitamin-d"
 aliases:
   - "/Overweight+children+are+34+X+more+likely+to+have+low+Vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10546"
+  - "/10546"
+tiki_page_id: 10546
 date: 2019-03-04
 categories:
   - "Obesity"

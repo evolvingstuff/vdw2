@@ -3,7 +3,8 @@ title: "Omega-3 – only 5 percent of US physicians have recommended amount"
 slug: "omega-3-only-5-percent-of-us-physicians-have-recommended-amount"
 aliases:
   - "/Omega-3+–+only+5+percent+of+US+physicians+have+recommended+amount+–+Dec+2017"
-  - "/tiki-index.php?page_id=10396"
+  - "/10396"
+tiki_page_id: 10396
 date: 2019-01-13
 categories:
   - "Vitamin D and Omega-3"

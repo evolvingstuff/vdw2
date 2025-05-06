@@ -3,7 +3,8 @@ title: "Rheumatic Diseases often treated by Vitamin D, may need 40-60 ng"
 slug: "rheumatic-diseases-often-treated-by-vitamin-d-may-need-40-60-ng"
 aliases:
   - "/Rheumatic+Diseases+often+treated+by+Vitamin+D+may+need+40-60+ng+–+Oct+2021"
-  - "/tiki-index.php?page_id=12946"
+  - "/12946"
+tiki_page_id: 12946
 date: 2021-10-01
 categories:
   - "Lupus"

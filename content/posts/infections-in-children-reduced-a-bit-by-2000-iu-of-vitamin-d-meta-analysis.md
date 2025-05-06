@@ -3,7 +3,8 @@ title: "Infections in children reduced a bit by 2,000 IU of vitamin D - meta-ana
 slug: "infections-in-children-reduced-a-bit-by-2000-iu-of-vitamin-d-meta-analysis"
 aliases:
   - "/Infections+in+children+reduced+a+bit+by+2000+IU+of+vitamin+D+-+meta-analysis+July+2023"
-  - "/tiki-index.php?page_id=14734"
+  - "/14734"
+tiki_page_id: 14734
 date: 2023-10-08
 categories:
   - "Immunity"

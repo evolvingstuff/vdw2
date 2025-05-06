@@ -3,7 +3,8 @@ title: "IBD in children might be associated with low sun exposure"
 slug: "ibd-in-children-might-be-associated-with-low-sun-exposure"
 aliases:
   - "/IBD+in+children+might+be+associated+with+low+sun+exposure"
-  - "/tiki-index.php?page_id=9989"
+  - "/9989"
+tiki_page_id: 9989
 date: 2018-08-30
 categories:
   - "Gut"

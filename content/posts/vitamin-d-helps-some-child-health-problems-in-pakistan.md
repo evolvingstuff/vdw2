@@ -3,7 +3,8 @@ title: "Vitamin D helps some child health problems in Pakistan"
 slug: "vitamin-d-helps-some-child-health-problems-in-pakistan"
 aliases:
   - "/Vitamin+D+helps+some+child+health+problems+in+Pakistan+–+May+2022"
-  - "/tiki-index.php?page_id=13550"
+  - "/13550"
+tiki_page_id: 13550
 date: 2022-05-07
 categories:
   - "Middle East"

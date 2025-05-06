@@ -3,7 +3,8 @@ title: "Oxidative stress and inflammation associated with low vitamin D in child
 slug: "oxidative-stress-and-inflammation-associated-with-low-vitamin-d-in-children-review"
 aliases:
   - "/Oxidative+stress+and+inflammation+associated+with+low+vitamin+D+in+children+–+review+Dec+2018"
-  - "/tiki-index.php?page_id=10415"
+  - "/10415"
+tiki_page_id: 10415
 date: 2019-01-21
 categories:
   - "Infant-Child"

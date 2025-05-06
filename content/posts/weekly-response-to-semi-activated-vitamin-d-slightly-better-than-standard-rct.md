@@ -3,7 +3,8 @@ title: "Weekly response to semi-activated vitamin D slightly better than standar
 slug: "weekly-response-to-semi-activated-vitamin-d-slightly-better-than-standard-rct"
 aliases:
   - "/Weekly+response+to+semi-activated+vitamin+D+slightly+better+than+standard+–+RCT+Nov+2019"
-  - "/tiki-index.php?page_id=12246"
+  - "/12246"
+tiki_page_id: 12246
 date: 2021-01-21
 categories:
   - "Intervention"

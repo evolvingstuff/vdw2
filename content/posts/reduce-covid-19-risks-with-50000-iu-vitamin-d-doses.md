@@ -3,7 +3,8 @@ title: "Reduce COVID-19 risks with 50,000 IU Vitamin D doses"
 slug: "reduce-covid-19-risks-with-50000-iu-vitamin-d-doses"
 aliases:
   - "/Reduce+COVID-19+risks+with+50000+IU+Vitamin+D+doses"
-  - "/tiki-index.php?page_id=12357"
+  - "/12357"
+tiki_page_id: 12357
 date: 2021-02-27
 categories:
   - "Optimum"

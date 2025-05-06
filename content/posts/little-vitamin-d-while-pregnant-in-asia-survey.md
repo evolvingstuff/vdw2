@@ -3,7 +3,8 @@ title: "Little Vitamin D while pregnant in Asia – survey"
 slug: "little-vitamin-d-while-pregnant-in-asia-survey"
 aliases:
   - "/Little+Vitamin+D+while+pregnant+in+Asia+–+survey+Nov+2023"
-  - "/tiki-index.php?page_id=14854"
+  - "/14854"
+tiki_page_id: 14854
 date: 2023-12-01
 categories:
   - "Pregnancy"

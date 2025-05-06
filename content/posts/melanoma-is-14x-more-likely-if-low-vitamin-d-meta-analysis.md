@@ -3,7 +3,8 @@ title: "Melanoma is 1.4X more-likely if low Vitamin D – meta-analysis"
 slug: "melanoma-is-14x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Melanoma+is+14X+more-likely+if+low+Vitamin+D+–+meta-analysis+May+2023"
-  - "/tiki-index.php?page_id=14432"
+  - "/14432"
+tiki_page_id: 14432
 date: 2023-05-18
 categories:
   - "Cancer - Skin"

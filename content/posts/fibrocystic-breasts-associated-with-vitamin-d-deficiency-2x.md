@@ -3,7 +3,8 @@ title: "Fibrocystic breasts associated with Vitamin D deficiency (2X)"
 slug: "fibrocystic-breasts-associated-with-vitamin-d-deficiency-2x"
 aliases:
   - "/Fibrocystic+breasts+associated+with+Vitamin+D+deficiency+2X+–+June+2023"
-  - "/tiki-index.php?page_id=14498"
+  - "/14498"
+tiki_page_id: 14498
 date: 2023-06-26
 categories:
   - "Women"

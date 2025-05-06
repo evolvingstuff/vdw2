@@ -3,7 +3,8 @@ title: "Similar number of US deaths were associated with vaccinations as COVID-1
 slug: "similar-number-of-us-deaths-were-associated-with-vaccinations-as-covid-19-infect-e-previous-week"
 aliases:
   - "/Similar+number+of+US+deaths+were+associated+with+vaccinations+as+COVID-19+infections+in+the+previous+week–+July+12+2021"
-  - "/tiki-index.php?page_id=12747"
+  - "/12747"
+tiki_page_id: 12747
 date: 2021-07-18
 categories:
   - "Virus"

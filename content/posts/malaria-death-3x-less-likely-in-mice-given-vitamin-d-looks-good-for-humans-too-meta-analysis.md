@@ -3,7 +3,8 @@ title: "Malaria death 3X less likely in mice given vitamin D (looks good for hum
 slug: "malaria-death-3x-less-likely-in-mice-given-vitamin-d-looks-good-for-humans-too-meta-analysis"
 aliases:
   - "/Malaria+death+3X+less+likely+in+mice+given+vitamin+D+looks+good+for+humans+too+–+meta-analysis+June+2023"
-  - "/tiki-index.php?page_id=14472"
+  - "/14472"
+tiki_page_id: 14472
 date: 2023-06-06
 categories:
   - "Immunity"

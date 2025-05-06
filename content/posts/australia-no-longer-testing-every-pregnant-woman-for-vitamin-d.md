@@ -3,7 +3,8 @@ title: "Australia no longer testing every pregnant woman for vitamin D"
 slug: "australia-no-longer-testing-every-pregnant-woman-for-vitamin-d"
 aliases:
   - "/Australia+no+longer+testing+every+pregnant+woman+for+vitamin+D+-+Nov+2018"
-  - "/tiki-index.php?page_id=10186"
+  - "/10186"
+tiki_page_id: 10186
 date: 2018-11-05
 categories:
   - "Pregnancy"

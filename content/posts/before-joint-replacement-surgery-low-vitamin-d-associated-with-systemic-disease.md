@@ -3,7 +3,8 @@ title: "Before joint replacement surgery low Vitamin D associated with systemic 
 slug: "before-joint-replacement-surgery-low-vitamin-d-associated-with-systemic-disease"
 aliases:
   - "/Before+joint+replacement+surgery+low+Vitamin+D+associated+with+systemic+disease+–+Aug+2018"
-  - "/tiki-index.php?page_id=10160"
+  - "/10160"
+tiki_page_id: 10160
 date: 2018-10-27
 categories:
   - "Trauma and surgery"

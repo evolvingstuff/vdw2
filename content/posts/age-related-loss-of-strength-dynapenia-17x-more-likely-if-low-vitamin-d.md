@@ -3,7 +3,8 @@ title: "Age-related loss of strength (Dynapenia) 1.7X more likely if low Vitamin
 slug: "age-related-loss-of-strength-dynapenia-17x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Age-related+loss+of+strength+Dynapenia+17X+more+likely+if+low+Vitamin+D+–+Sept+2022"
-  - "/tiki-index.php?page_id=13917"
+  - "/13917"
+tiki_page_id: 13917
 date: 2022-09-16
 categories:
   - "Seniors"

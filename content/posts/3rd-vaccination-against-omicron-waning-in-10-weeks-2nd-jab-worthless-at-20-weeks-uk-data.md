@@ -3,7 +3,8 @@ title: "3rd vaccination against Omicron waning in 10 weeks (2nd jab worthless at
 slug: "3rd-vaccination-against-omicron-waning-in-10-weeks-2nd-jab-worthless-at-20-weeks-uk-data"
 aliases:
   - "/3rd+vaccination+against+Omicron+waning+in+10+weeks+2nd+jab+worthless+at+20+weeks+-+UK+data+-+Dec+23+2021"
-  - "/tiki-index.php?page_id=13221"
+  - "/13221"
+tiki_page_id: 13221
 date: 2021-12-27
 categories:
   - "Virus"

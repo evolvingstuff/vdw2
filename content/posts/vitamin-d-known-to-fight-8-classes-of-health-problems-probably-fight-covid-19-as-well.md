@@ -3,7 +3,8 @@ title: "Vitamin D known to fight 8 classes of health problems, probably fight CO
 slug: "vitamin-d-known-to-fight-8-classes-of-health-problems-probably-fight-covid-19-as-well"
 aliases:
   - "/Vitamin+D+known+to+fight+8+classes+of+health+problems+probably+fight+COVID-19+as+well+–+July+2021"
-  - "/tiki-index.php?page_id=12768"
+  - "/12768"
+tiki_page_id: 12768
 date: 2021-07-24
 categories:
   - "Top news"

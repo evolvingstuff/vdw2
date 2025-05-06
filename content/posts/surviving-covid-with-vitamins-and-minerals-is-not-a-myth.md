@@ -3,7 +3,8 @@ title: "Surviving COVID with vitamins and minerals is not a myth"
 slug: "surviving-covid-with-vitamins-and-minerals-is-not-a-myth"
 aliases:
   - "/Surviving+COVID+with+vitamins+and+minerals+is+not+a+myth+–+June+2022"
-  - "/tiki-index.php?page_id=13632"
+  - "/13632"
+tiki_page_id: 13632
 date: 2022-06-03
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Low Mortality if more than 20 ng of Vitamin D (UK Biobank)"
 slug: "low-mortality-if-more-than-20-ng-of-vitamin-d-uk-biobank"
 aliases:
   - "/Low+Mortality+if+more+than+20+ng+of+Vitamin+D+UK+Biobank+–+Oct+2020"
-  - "/tiki-index.php?page_id=13834"
+  - "/13834"
+tiki_page_id: 13834
 date: 2022-08-09
 categories:
   - "Mortality and D"

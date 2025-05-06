@@ -3,7 +3,8 @@ title: "Very low Vitamin D in Indian pregnancies– 1 in 3 women not even have 2
 slug: "very-low-vitamin-d-in-indian-pregnancies-1-in-3-women-not-even-have-20-ng-meta-analysis"
 aliases:
   - "/Very+low+Vitamin+D+in+Indian+pregnancies–+1+in+3+women+not+even+have+20+ng+–+meta-analysis+June+2021"
-  - "/tiki-index.php?page_id=12708"
+  - "/12708"
+tiki_page_id: 12708
 date: 2021-06-30
 categories:
   - "Pregnancy"

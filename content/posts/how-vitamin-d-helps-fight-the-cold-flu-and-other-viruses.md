@@ -3,7 +3,8 @@ title: "How Vitamin D helps fight the cold, flu and other viruses"
 slug: "how-vitamin-d-helps-fight-the-cold-flu-and-other-viruses"
 aliases:
   - "/How+Vitamin+D+helps+fight+the+cold+flu+and+other+viruses+-+June+2019"
-  - "/tiki-index.php?page_id=10823"
+  - "/10823"
+tiki_page_id: 10823
 date: 2019-06-03
 categories:
   - "Cost savings with Vitamin D"

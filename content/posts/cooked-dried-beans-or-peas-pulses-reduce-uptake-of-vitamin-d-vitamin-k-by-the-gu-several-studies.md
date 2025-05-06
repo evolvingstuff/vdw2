@@ -3,7 +3,8 @@ title: "Cooked dried beans or peas (pulses) reduce uptake of Vitamin D, Vitamin 
 slug: "cooked-dried-beans-or-peas-pulses-reduce-uptake-of-vitamin-d-vitamin-k-by-the-gu-several-studies"
 aliases:
   - "/Cooked+dried+beans+or+peas+pulses+reduce+uptake+of+Vitamin+D+Vitamin+K+by+the+gut+by+half+–+several+studies"
-  - "/tiki-index.php?page_id=10630"
+  - "/10630"
+tiki_page_id: 10630
 date: 2019-03-29
 categories:
   - "Interactions with Vitamin D"

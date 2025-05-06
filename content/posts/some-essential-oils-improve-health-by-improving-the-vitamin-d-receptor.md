@@ -3,7 +3,8 @@ title: "Some essential oils improve health by improving the vitamin D receptor"
 slug: "some-essential-oils-improve-health-by-improving-the-vitamin-d-receptor"
 aliases:
   - "/Some+essential+oils+improve+health+by+improving+the+vitamin+D+receptor"
-  - "/tiki-index.php?page_id=10389"
+  - "/10389"
+tiki_page_id: 10389
 date: 2019-01-10
 categories:
   - "Vitamin D Receptor"

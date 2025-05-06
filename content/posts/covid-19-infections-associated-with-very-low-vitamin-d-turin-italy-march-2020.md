@@ -3,7 +3,8 @@ title: "COVID-19 infections associated with very low vitamin D – Turin Italy �
 slug: "covid-19-infections-associated-with-very-low-vitamin-d-turin-italy-march-2020"
 aliases:
   - "/COVID-19+infections+associated+with+very+low+vitamin+D+–+Turin+Italy+–+March+2020"
-  - "/tiki-index.php?page_id=11705"
+  - "/11705"
+tiki_page_id: 11705
 date: 2020-03-30
 categories:
   - "Virus"

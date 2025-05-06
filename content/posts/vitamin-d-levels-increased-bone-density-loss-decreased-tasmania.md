@@ -3,7 +3,8 @@ title: "Vitamin D levels increased, Bone Density Loss decreased (Tasmania)"
 slug: "vitamin-d-levels-increased-bone-density-loss-decreased-tasmania"
 aliases:
   - "/Vitamin+D+levels+increased+Bone+Density+Loss+decreased+Tasmania+–+March+2021"
-  - "/tiki-index.php?page_id=12453"
+  - "/12453"
+tiki_page_id: 12453
 date: 2021-03-30
 categories:
   - "Bone - Health"

@@ -3,7 +3,8 @@ title: "Accutane for acne associated with birth defects, abortions"
 slug: "accutane-for-acne-associated-with-birth-defects-abortions"
 aliases:
   - "/Accutane+for+acne+associated+with+birth+defects+abortions+-+April+2024"
-  - "/tiki-index.php?page_id=15184"
+  - "/15184"
+tiki_page_id: 15184
 date: 2024-04-02
 categories:
   - "Skin"

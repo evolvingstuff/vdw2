@@ -3,7 +3,8 @@ title: "Vitamin D is Dr. Marik's top repurposed drug for Cancer treatment"
 slug: "vitamin-d-is-dr-mariks-top-repurposed-drug-for-cancer-treatment"
 aliases:
   - "/Vitamin+D+is+Dr+Mariks+top+repurposed+drug+for+Cancer+treatment+–+Aug+2023"
-  - "/tiki-index.php?page_id=15078"
+  - "/15078"
+tiki_page_id: 15078
 date: 2024-02-26
 categories:
   - "Cancer - after diagnosis"

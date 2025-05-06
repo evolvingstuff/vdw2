@@ -3,7 +3,8 @@ title: "Long-distance truck drivers more likely to get COVID-19 (perhaps UVA)"
 slug: "long-distance-truck-drivers-more-likely-to-get-covid-19-perhaps-uva"
 aliases:
   - "/Long-distance+truck+drivers+more+likely+to+get+COVID-19+perhaps+UVA-+July+2020"
-  - "/tiki-index.php?page_id=11846"
+  - "/11846"
+tiki_page_id: 11846
 date: 2020-07-17
 categories:
   - "Virus"

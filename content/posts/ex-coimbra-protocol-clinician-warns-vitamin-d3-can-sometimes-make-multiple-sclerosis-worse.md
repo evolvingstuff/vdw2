@@ -3,7 +3,8 @@ title: "Ex Coimbra Protocol Clinician Warns Vitamin D3 Can Sometimes Make Multip
 slug: "ex-coimbra-protocol-clinician-warns-vitamin-d3-can-sometimes-make-multiple-sclerosis-worse"
 aliases:
   - "/Ex+Coimbra+Protocol+Clinician+Warns+Vitamin+D3+Can+Sometimes+Make+Multiple+Sclerosis+Worse+-+July+2019"
-  - "/tiki-index.php?page_id=11046"
+  - "/11046"
+tiki_page_id: 11046
 date: 2019-08-06
 categories:
   - "old name"

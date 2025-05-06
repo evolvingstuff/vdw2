@@ -3,7 +3,8 @@ title: "Death rate in nursing home cut in half by just discontinuing unneeded me
 slug: "death-rate-in-nursing-home-cut-in-half-by-just-discontinuing-unneeded-medications-trial"
 aliases:
   - "/Death+rate+in+nursing+home+cut+in+half+by+just+discontinuing+unneeded+medications+–+trial+June+2007"
-  - "/tiki-index.php?page_id=14686"
+  - "/14686"
+tiki_page_id: 14686
 date: 2023-09-16
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Vitamin D predicts good health and long life in seniors, review of 20 co
 slug: "vitamin-d-predicts-good-health-and-long-life-in-seniors-review-of-20-cohort-studies"
 aliases:
   - "/Vitamin+D+predicts+good+health+and+long+life+in+seniors+review+of+20+cohort+studies+–+Oct+2019"
-  - "/tiki-index.php?page_id=11210"
+  - "/11210"
+tiki_page_id: 11210
 date: 2019-10-06
 categories:
   - "Seniors"

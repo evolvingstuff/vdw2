@@ -3,7 +3,8 @@ title: "Dementia reduced 26 percent after pollution was reduced a decade earlier
 slug: "dementia-reduced-26-percent-after-pollution-was-reduced-a-decade-earlier-probably-higher-vitamin-d"
 aliases:
   - "/Dementia+reduced+26+percent+after+pollution+was+reduced+a+decade+earlier+probably+higher+Vitamin+D+–+Aug+2021"
-  - "/tiki-index.php?page_id=12836"
+  - "/12836"
+tiki_page_id: 12836
 date: 2021-08-19
 categories:
   - "Cognitive"

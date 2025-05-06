@@ -3,7 +3,8 @@ title: "Take Vitamin D to prevent prediabetes from progressing into diabetes –
 slug: "take-vitamin-d-to-prevent-prediabetes-from-progressing-into-diabetes-american-di-ssociation-2024"
 aliases:
   - "/Take+Vitamin+D+to+prevent+prediabetes+from+progressing+into+diabetes+–+American+Diabetic+Association+–+2024"
-  - "/tiki-index.php?page_id=15241"
+  - "/15241"
+tiki_page_id: 15241
 date: 2024-04-27
 categories:
   - "Diabetes"

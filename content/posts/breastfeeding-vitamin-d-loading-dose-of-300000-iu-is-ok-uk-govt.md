@@ -3,7 +3,8 @@ title: "Breastfeeding Vitamin D loading dose of 300,000 IU is OK - UK govt."
 slug: "breastfeeding-vitamin-d-loading-dose-of-300000-iu-is-ok-uk-govt"
 aliases:
   - "/Breastfeeding+Vitamin+D+loading+dose+of+300000+IU+is+OK+-+UK+govt+Dec+2023"
-  - "/tiki-index.php?page_id=14893"
+  - "/14893"
+tiki_page_id: 14893
 date: 2023-12-17
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Best supplements for hay fever (Quercetin, which activates the Vitamin D
 slug: "best-supplements-for-hay-fever-quercetin-which-activates-the-vitamin-d-receptor"
 aliases:
   - "/Best+supplements+for+hay+fever+Quercetin+which+activates+the+Vitamin+D+receptor+-+June+2019"
-  - "/tiki-index.php?page_id=10836"
+  - "/10836"
+tiki_page_id: 10836
 date: 2019-06-05
 categories:
   - "Breathing"

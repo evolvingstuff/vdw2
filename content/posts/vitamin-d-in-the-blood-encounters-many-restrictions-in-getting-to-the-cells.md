@@ -3,7 +3,8 @@ title: "Vitamin D in the blood encounters many restrictions in getting to the ce
 slug: "vitamin-d-in-the-blood-encounters-many-restrictions-in-getting-to-the-cells"
 aliases:
   - "/Vitamin+D+in+the+blood+encounters+many+restrictions+in+getting+to+the+cells+–+Sept+2020"
-  - "/tiki-index.php?page_id=11947"
+  - "/11947"
+tiki_page_id: 11947
 date: 2020-09-11
 categories:
   - "Vitamin D Receptor"

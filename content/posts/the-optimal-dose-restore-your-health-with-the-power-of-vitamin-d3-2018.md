@@ -3,7 +3,8 @@ title: "The Optimal Dose - Restore Your Health With the Power of Vitamin D3 - 20
 slug: "the-optimal-dose-restore-your-health-with-the-power-of-vitamin-d3-2018"
 aliases:
   - "/The+Optimal+Dose+-+Restore+Your+Health+With+the+Power+of+Vitamin+D3+-+2018"
-  - "/tiki-index.php?page_id=10434"
+  - "/10434"
+tiki_page_id: 10434
 date: 2019-01-29
 categories:
   - "Obesity"

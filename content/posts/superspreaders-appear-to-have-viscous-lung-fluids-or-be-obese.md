@@ -3,7 +3,8 @@ title: "Superspreaders appear to have viscous lung fluids or be obese"
 slug: "superspreaders-appear-to-have-viscous-lung-fluids-or-be-obese"
 aliases:
   - "/Superspreaders+appear+to+have+viscous+lung+fluids+or+be+obese"
-  - "/tiki-index.php?page_id=12038"
+  - "/12038"
+tiki_page_id: 12038
 date: 2020-10-31
 categories:
   - "Breathing"

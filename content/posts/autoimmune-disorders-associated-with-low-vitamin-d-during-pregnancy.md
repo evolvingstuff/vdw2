@@ -3,7 +3,8 @@ title: "Autoimmune disorders associated with low vitamin D during pregnancy"
 slug: "autoimmune-disorders-associated-with-low-vitamin-d-during-pregnancy"
 aliases:
   - "/Autoimmune+disorders+associated+with+low+vitamin+D+during+pregnancy+–+Nov+2019"
-  - "/tiki-index.php?page_id=11444"
+  - "/11444"
+tiki_page_id: 11444
 date: 2019-12-12
 categories:
   - "Pregnancy"

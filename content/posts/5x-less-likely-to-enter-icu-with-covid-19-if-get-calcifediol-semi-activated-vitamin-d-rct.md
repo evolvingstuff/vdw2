@@ -3,7 +3,8 @@ title: "5X less likely to enter ICU with COVID-19 if get Calcifediol (semi-activ
 slug: "5x-less-likely-to-enter-icu-with-covid-19-if-get-calcifediol-semi-activated-vitamin-d-rct"
 aliases:
   - "/5X+less+likely+to+enter+ICU+with+COVID-19+if+get+Calcifediol+semi-activated+vitamin+D+-+RCT+Feb+19+2021"
-  - "/tiki-index.php?page_id=12316"
+  - "/12316"
+tiki_page_id: 12316
 date: 2021-02-12
 categories:
   - "Intervention"

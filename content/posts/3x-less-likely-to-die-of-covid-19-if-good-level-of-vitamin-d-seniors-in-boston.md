@@ -3,7 +3,8 @@ title: "3X less likely to die of COVID-19 if good level of vitamin D (seniors in
 slug: "3x-less-likely-to-die-of-covid-19-if-good-level-of-vitamin-d-seniors-in-boston"
 aliases:
   - "/3X+less+likely+to+die+of+COVID-19+if+good+level+of+vitamin+D+seniors+in+Boston–+March+8+2021"
-  - "/tiki-index.php?page_id=12393"
+  - "/12393"
+tiki_page_id: 12393
 date: 2021-03-09
 categories:
   - "Virus"

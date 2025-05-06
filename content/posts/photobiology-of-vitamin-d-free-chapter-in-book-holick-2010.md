@@ -3,7 +3,8 @@ title: "Photobiology of Vitamin D – free chapter in book – Holick 2010"
 slug: "photobiology-of-vitamin-d-free-chapter-in-book-holick-2010"
 aliases:
   - "/Photobiology+of+Vitamin+D+–+free+chapter+in+book+–+Holick+2010"
-  - "/tiki-index.php?page_id=10205"
+  - "/10205"
+tiki_page_id: 10205
 date: 2018-11-17
 categories:
   - "UV and Vitamin D"

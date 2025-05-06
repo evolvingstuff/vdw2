@@ -3,7 +3,8 @@ title: "UK (NHS) now provides blood taking at home (Vitamin D, panel, etc.)"
 slug: "uk-nhs-now-provides-blood-taking-at-home-vitamin-d-panel-etc"
 aliases:
   - "/UK+NHS+now+provides+blood+taking+at+home+Vitamin+D+panel+etc+–+June+2019"
-  - "/tiki-index.php?page_id=10841"
+  - "/10841"
+tiki_page_id: 10841
 date: 2019-06-07
 categories:
   - "Tests for Vitamin D"

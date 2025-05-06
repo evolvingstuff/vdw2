@@ -3,7 +3,8 @@ title: "Calcium Supplementation is OK provided you also take Vitamin K"
 slug: "calcium-supplementation-is-ok-provided-you-also-take-vitamin-k"
 aliases:
   - "/Calcium+Supplementation+is+OK+provided+you+also+take+Vitamin+K+–+Feb+2019"
-  - "/tiki-index.php?page_id=10695"
+  - "/10695"
+tiki_page_id: 10695
 date: 2019-04-26
 categories:
   - "Bone - Health"

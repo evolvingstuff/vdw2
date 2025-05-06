@@ -3,7 +3,8 @@ title: "Vitamin D in Pakistan: 105,000 tested, of the 300 with more than 150 ng,
 slug: "vitamin-d-in-pakistan-105000-tested-of-the-300-with-more-than-150-ng-no-problems"
 aliases:
   - "/Vitamin+D+in+Pakistan+105000+tested+of+the+300+with+more+than+150+ng+no+problems+-+Jan+2022"
-  - "/tiki-index.php?page_id=13288"
+  - "/13288"
+tiki_page_id: 13288
 date: 2022-01-26
 categories:
   - "Toxicity of Vitamin D"

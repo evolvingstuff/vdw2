@@ -3,7 +3,8 @@ title: "4X reduction in bone fractures following Kidney Transplant with monthly 
 slug: "4x-reduction-in-bone-fractures-following-kidney-transplant-with-monthly-vitamin-d-100000-iu-rct"
 aliases:
   - "/4X+reduction+in+bone+fractures+following+Kidney+Transplant+with+monthly+Vitamin+D+100000+IU+-+RCT+June+2019"
-  - "/tiki-index.php?page_id=10890"
+  - "/10890"
+tiki_page_id: 10890
 date: 2019-06-17
 categories:
   - "Kidney"

@@ -3,7 +3,8 @@ title: "Bariatric Surgery in Adolescents: 41% vitamin D deficient - meta-analysi
 slug: "bariatric-surgery-in-adolescents-41-percent-vitamin-d-deficient-meta-analysis"
 aliases:
   - "/Bariatric+Surgery+in+Adolescents+41+vitamin+D+deficient+-+meta-analysis+Nov+2023"
-  - "/tiki-index.php?page_id=14832"
+  - "/14832"
+tiki_page_id: 14832
 date: 2023-11-22
 categories:
   - "Gut"

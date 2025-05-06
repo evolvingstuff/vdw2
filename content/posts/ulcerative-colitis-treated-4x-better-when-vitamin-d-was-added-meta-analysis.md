@@ -3,7 +3,8 @@ title: "Ulcerative Colitis treated 4X better when Vitamin D was added –  Meta-
 slug: "ulcerative-colitis-treated-4x-better-when-vitamin-d-was-added-meta-analysis"
 aliases:
   - "/Ulcerative+Colitis+treated+4X+better+when+Vitamin+D+was+added+–+Meta-Analysis+–+July+2022"
-  - "/tiki-index.php?page_id=13809"
+  - "/13809"
+tiki_page_id: 13809
 date: 2022-08-01
 categories:
   - "Gut"

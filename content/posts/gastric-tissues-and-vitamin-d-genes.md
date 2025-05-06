@@ -3,7 +3,8 @@ title: "Gastric Tissues and Vitamin D Genes"
 slug: "gastric-tissues-and-vitamin-d-genes"
 aliases:
   - "/Gastric+Tissues+and+Vitamin+D+Genes+–+Aug+2019"
-  - "/tiki-index.php?page_id=11051"
+  - "/11051"
+tiki_page_id: 11051
 date: 2019-08-08
 categories:
   - "Vitamin D Receptor"

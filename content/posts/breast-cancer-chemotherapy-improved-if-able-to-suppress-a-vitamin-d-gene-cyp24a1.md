@@ -3,7 +3,8 @@ title: "Breast Cancer chemotherapy improved if able to suppress a vitamin D gene
 slug: "breast-cancer-chemotherapy-improved-if-able-to-suppress-a-vitamin-d-gene-cyp24a1"
 aliases:
   - "/Breast+Cancer+chemotherapy+improved+if+able+to+suppress+a+vitamin+D+gene+CYP24A1+–+May+2023"
-  - "/tiki-index.php?page_id=14316"
+  - "/14316"
+tiki_page_id: 14316
 date: 2023-03-18
 categories:
   - "Cancer - Breast"

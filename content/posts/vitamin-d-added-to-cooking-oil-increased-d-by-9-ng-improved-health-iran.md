@@ -3,7 +3,8 @@ title: "Vitamin D added to cooking oil increased D by 9 ng improved health (Iran
 slug: "vitamin-d-added-to-cooking-oil-increased-d-by-9-ng-improved-health-iran"
 aliases:
   - "/Vitamin+D+added+to+cooking+oil+increased+D+by+9+ng+improved+health+Iran+–+Oct+2019"
-  - "/tiki-index.php?page_id=11226"
+  - "/11226"
+tiki_page_id: 11226
 date: 2019-10-12
 categories:
   - "Middle East"

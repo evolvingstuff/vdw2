@@ -3,7 +3,8 @@ title: "Less sun, more back pain (low vitamin D)"
 slug: "less-sun-more-back-pain-low-vitamin-d"
 aliases:
   - "/Less+sun+more+back+pain+low+vitamin+D+–+Sept+2018"
-  - "/tiki-index.php?page_id=10931"
+  - "/10931"
+tiki_page_id: 10931
 date: 2019-06-29
 categories:
   - "Noontime sun and D"

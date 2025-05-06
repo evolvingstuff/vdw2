@@ -3,7 +3,8 @@ title: "Oxidative stress to DNA prevented by Vitamin D (H2O2, rats)"
 slug: "oxidative-stress-to-dna-prevented-by-vitamin-d-h2o2-rats"
 aliases:
   - "/Oxidative+stress+to+DNA+prevented+by+Vitamin+D+H2O2+rats+–+Jan+2019"
-  - "/tiki-index.php?page_id=10521"
+  - "/10521"
+tiki_page_id: 10521
 date: 2019-02-24
 categories:
   - "Inflammation"

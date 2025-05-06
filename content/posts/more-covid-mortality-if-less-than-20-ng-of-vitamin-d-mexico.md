@@ -3,7 +3,8 @@ title: "More COVID mortality if less than 20 ng of Vitamin D (Mexico)"
 slug: "more-covid-mortality-if-less-than-20-ng-of-vitamin-d-mexico"
 aliases:
   - "/More+COVID+mortality+if+less+than+20+ng+of+Vitamin+D+Mexico+–+May+2022"
-  - "/tiki-index.php?page_id=13599"
+  - "/13599"
+tiki_page_id: 13599
 date: 2022-05-27
 categories:
   - "Mortality and D"

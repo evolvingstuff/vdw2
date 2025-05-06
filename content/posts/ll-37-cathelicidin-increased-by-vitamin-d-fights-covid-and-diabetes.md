@@ -3,7 +3,8 @@ title: "LL-37 (Cathelicidin, increased by Vitamin D) fights COVID and Diabetes"
 slug: "ll-37-cathelicidin-increased-by-vitamin-d-fights-covid-and-diabetes"
 aliases:
   - "/LL-37+Cathelicidin+increased+by+Vitamin+D+fights+COVID+and+Diabetes+–+May+2022"
-  - "/tiki-index.php?page_id=13618"
+  - "/13618"
+tiki_page_id: 13618
 date: 2022-05-31
 categories:
   - "Virus"

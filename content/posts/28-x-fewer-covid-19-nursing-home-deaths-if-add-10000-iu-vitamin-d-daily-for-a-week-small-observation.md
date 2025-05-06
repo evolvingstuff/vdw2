@@ -3,7 +3,8 @@ title: "2.8 X fewer COVID-19 nursing home deaths if add 10,000 IU Vitamin D dail
 slug: "28-x-fewer-covid-19-nursing-home-deaths-if-add-10000-iu-vitamin-d-daily-for-a-week-small-observation"
 aliases:
   - "/28+X+fewer+COVID-19+nursing+home+deaths+if+add+10000+IU+Vitamin+D+daily+for+a+week+small+observation-+Jan+2021"
-  - "/tiki-index.php?page_id=12210"
+  - "/12210"
+tiki_page_id: 12210
 date: 2021-01-09
 categories:
   - "Mortality and D"

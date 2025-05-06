@@ -3,7 +3,8 @@ title: "Number needed to vaccinate to prevent 1 Omicron death: 30,000 for age 60
 slug: "number-needed-to-vaccinate-to-prevent-1-omicron-death-30000-for-age-60-70"
 aliases:
   - "/Number+needed+to+vaccinate+to+prevent+1+Omicron+death+30000+for+age+60-70+-+Sept+2022"
-  - "/tiki-index.php?page_id=13954"
+  - "/13954"
+tiki_page_id: 13954
 date: 2022-09-29
 categories:
   - "Mortality and D"

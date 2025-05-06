@@ -3,7 +3,8 @@ title: "Most Profitable Pill in Medical History Is Based on Flawed Science (Stat
 slug: "most-profitable-pill-in-medical-history-is-based-on-flawed-science-statins"
 aliases:
   - "/Most+Profitable+Pill+in+Medical+History+Is+Based+on+Flawed+Science+Statins+May+2019"
-  - "/tiki-index.php?page_id=10819"
+  - "/10819"
+tiki_page_id: 10819
 date: 2019-06-02
 categories:
   - "Cholesterol"

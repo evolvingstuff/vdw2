@@ -3,7 +3,8 @@ title: "Deaths due to falls doubled in just a decade (age-adjusted, perhaps decr
 slug: "deaths-due-to-falls-doubled-in-just-a-decade-age-adjusted-perhaps-decreased-vitamin-d"
 aliases:
   - "/Deaths+due+to+falls+doubled+in+just+a+decade+age-adjusted+perhaps+decreased+vitamin+D+–+June+2019"
-  - "/tiki-index.php?page_id=10833"
+  - "/10833"
+tiki_page_id: 10833
 date: 2019-06-04
 categories:
   - "Mortality and D"

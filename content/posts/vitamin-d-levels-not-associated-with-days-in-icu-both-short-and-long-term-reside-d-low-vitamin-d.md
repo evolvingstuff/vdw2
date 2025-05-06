@@ -3,7 +3,8 @@ title: "Vitamin D levels not associated with days in ICU (both short and long te
 slug: "vitamin-d-levels-not-associated-with-days-in-icu-both-short-and-long-term-reside-d-low-vitamin-d"
 aliases:
   - "/Vitamin+D+levels+not+associated+with+days+in+ICU+both+short+and+long+term+residents+had+low+vitamin+D+–+May+2019"
-  - "/tiki-index.php?page_id=10740"
+  - "/10740"
+tiki_page_id: 10740
 date: 2019-05-07
 categories:
   - "Trauma and surgery"

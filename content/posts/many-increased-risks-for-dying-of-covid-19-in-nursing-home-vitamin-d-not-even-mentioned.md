@@ -3,7 +3,8 @@ title: "Many increased risks for dying of COVID-19 in nursing home (Vitamin D no
 slug: "many-increased-risks-for-dying-of-covid-19-in-nursing-home-vitamin-d-not-even-mentioned"
 aliases:
   - "/Many+increased+risks+for+dying+of+COVID-19+in+nursing+home+Vitamin+D+not+even+mentioned+-+Jan+6+2021"
-  - "/tiki-index.php?page_id=12216"
+  - "/12216"
+tiki_page_id: 12216
 date: 2021-01-11
 categories:
   - "Virus"

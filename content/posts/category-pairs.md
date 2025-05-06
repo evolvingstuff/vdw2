@@ -3,7 +3,8 @@ title: "Category Pairs"
 slug: "category-pairs"
 aliases:
   - "/Category+Pairs"
-  - "/tiki-index.php?page_id=11513"
+  - "/11513"
+tiki_page_id: 11513
 date: 2019-12-30
 ---
 

@@ -3,7 +3,8 @@ title: "Anesthesia can cause cognitive problems in elderly with low vitamin D - 
 slug: "anesthesia-can-cause-cognitive-problems-in-elderly-with-low-vitamin-d-many-studies"
 aliases:
   - "/Anesthesia+can+cause+cognitive+problems+in+elderly+with+low+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=10105"
+  - "/10105"
+tiki_page_id: 10105
 date: 2018-10-10
 categories:
   - "Trauma and surgery"

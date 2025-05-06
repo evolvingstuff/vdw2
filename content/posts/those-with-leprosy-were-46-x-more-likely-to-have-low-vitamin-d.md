@@ -3,7 +3,8 @@ title: "Those with Leprosy were 4.6 X more likely to have low vitamin D"
 slug: "those-with-leprosy-were-46-x-more-likely-to-have-low-vitamin-d"
 aliases:
   - "/Those+with+Leprosy+were+46+X+more+likely+to+have+low+vitamin+D+–+Feb+2021"
-  - "/tiki-index.php?page_id=12326"
+  - "/12326"
+tiki_page_id: 12326
 date: 2021-02-17
 ---
 

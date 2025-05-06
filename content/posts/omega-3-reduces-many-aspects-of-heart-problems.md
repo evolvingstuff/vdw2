@@ -3,7 +3,8 @@ title: "Omega-3 reduces many aspects of heart problems"
 slug: "omega-3-reduces-many-aspects-of-heart-problems"
 aliases:
   - "/Omega-3+reduces+many+aspects+of+heart+problems+-+Jan+2024"
-  - "/tiki-index.php?page_id=15024"
+  - "/15024"
+tiki_page_id: 15024
 date: 2024-02-02
 categories:
   - "Cardiovascular"

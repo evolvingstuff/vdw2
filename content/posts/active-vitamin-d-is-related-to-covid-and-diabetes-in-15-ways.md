@@ -3,7 +3,8 @@ title: "Active vitamin D is related to COVID and Diabetes in 15 ways"
 slug: "active-vitamin-d-is-related-to-covid-and-diabetes-in-15-ways"
 aliases:
   - "/Active+vitamin+D+is+related+to+COVID+and+Diabetes+in+15+ways+–+Dec+2022"
-  - "/tiki-index.php?page_id=14161"
+  - "/14161"
+tiki_page_id: 14161
 date: 2022-12-20
 categories:
   - "Diabetes"

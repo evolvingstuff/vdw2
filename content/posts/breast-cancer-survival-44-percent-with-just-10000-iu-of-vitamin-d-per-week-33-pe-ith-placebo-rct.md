@@ -3,7 +3,8 @@ title: "Breast Cancer survival: 44% with just 10,000 IU of vitamin D per week, 3
 slug: "breast-cancer-survival-44-percent-with-just-10000-iu-of-vitamin-d-per-week-33-pe-ith-placebo-rct"
 aliases:
   - "/Breast+Cancer+survival+44+with+just+10000+IU+of+vitamin+D+per+week+33+with+placebo+–+RCT+Dec+2023"
-  - "/tiki-index.php?page_id=14610"
+  - "/14610"
+tiki_page_id: 14610
 date: 2023-08-13
 categories:
   - "Cancer - Breast"

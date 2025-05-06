@@ -3,7 +3,8 @@ title: "Obese responded to weekly vitamin D better than non-obese – RCT"
 slug: "obese-responded-to-weekly-vitamin-d-better-than-non-obese-rct"
 aliases:
   - "/Obese+responded+to+weekly+vitamin+D+better+than+non-obese+–+RCT+March+2018"
-  - "/tiki-index.php?page_id=10732"
+  - "/10732"
+tiki_page_id: 10732
 date: 2019-05-02
 categories:
   - "Obesity"

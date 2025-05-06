@@ -3,7 +3,8 @@ title: "COVID-19 and variants are here to stay (he fails to mention that vitamin
 slug: "covid-19-and-variants-are-here-to-stay-he-fails-to-mention-that-vitamin-d-might-help"
 aliases:
   - "/COVID-19+and+variants+are+here+to+stay+he+fails+to+mention+that+vitamin+D+might+help+-+June+2021"
-  - "/tiki-index.php?page_id=12654"
+  - "/12654"
+tiki_page_id: 12654
 date: 2021-06-13
 categories:
   - "Top news"

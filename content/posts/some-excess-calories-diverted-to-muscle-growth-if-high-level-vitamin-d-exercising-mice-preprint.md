@@ -3,7 +3,8 @@ title: "Some excess calories diverted to muscle growth if high level vitamin D (
 slug: "some-excess-calories-diverted-to-muscle-growth-if-high-level-vitamin-d-exercising-mice-preprint"
 aliases:
   - "/Some+excess+calories+diverted+to+muscle+growth+if+high+level+vitamin+D+exercising+mice+–+preprint+May+2022"
-  - "/tiki-index.php?page_id=14465"
+  - "/14465"
+tiki_page_id: 14465
 date: 2023-06-02
 categories:
   - "Sports and Vitamin D"

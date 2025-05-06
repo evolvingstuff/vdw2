@@ -3,7 +3,8 @@ title: "Immune system is capable of producing 1 Quadrillion unique antibodies"
 slug: "immune-system-is-capable-of-producing-1-quadrillion-unique-antibodies"
 aliases:
   - "/Immune+system+is+capable+of+producing+1+Quadrillion+unique+antibodies+-+Jan+2019"
-  - "/tiki-index.php?page_id=11700"
+  - "/11700"
+tiki_page_id: 11700
 date: 2020-03-25
 categories:
   - "Immunity"

@@ -3,7 +3,8 @@ title: "COVID-19 more severe if low Vitamin D (1.8X for pregnancy)"
 slug: "covid-19-more-severe-if-low-vitamin-d-18x-for-pregnancy"
 aliases:
   - "/COVID-19+more+severe+if+low+Vitamin+D+18X+for+pregnancy+–+Nov+2021"
-  - "/tiki-index.php?page_id=13109"
+  - "/13109"
+tiki_page_id: 13109
 date: 2021-11-24
 categories:
   - "Pregnancy"

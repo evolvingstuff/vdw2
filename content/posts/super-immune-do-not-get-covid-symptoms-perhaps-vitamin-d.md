@@ -3,7 +3,8 @@ title: "Super-immune do not get COVID symptoms (perhaps Vitamin D)"
 slug: "super-immune-do-not-get-covid-symptoms-perhaps-vitamin-d"
 aliases:
   - "/Super-immune+do+not+get+COVID+symptoms+perhaps+Vitamin+D+-+Aug+2022"
-  - "/tiki-index.php?page_id=13823"
+  - "/13823"
+tiki_page_id: 13823
 date: 2022-08-03
 categories:
   - "Virus"

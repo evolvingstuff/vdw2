@@ -3,7 +3,8 @@ title: "24 Vitamin D global guidelines for children, huge diversity"
 slug: "24-vitamin-d-global-guidelines-for-children-huge-diversity"
 aliases:
   - "/24+Vitamin+D+global+guidelines+for+children+huge+diversity+–+Sept+2022"
-  - "/tiki-index.php?page_id=14012"
+  - "/14012"
+tiki_page_id: 14012
 date: 2022-10-14
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Cancer is leading cause of death - Vitamin D and Receptor activators hel
 slug: "cancer-is-leading-cause-of-death-vitamin-d-and-receptor-activators-help"
 aliases:
   - "/Cancer+is+leading+cause+of+death+-+Vitamin+D+and+Receptor+activators+help"
-  - "/tiki-index.php?page_id=11327"
+  - "/11327"
+tiki_page_id: 11327
 date: 2019-11-08
 categories:
   - "Mortality and D"

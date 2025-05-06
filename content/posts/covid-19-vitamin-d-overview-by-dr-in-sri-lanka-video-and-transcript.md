@@ -3,7 +3,8 @@ title: "COVID-19 Vitamin D: Overview by Dr. in Sri Lanka (Video and transcript)"
 slug: "covid-19-vitamin-d-overview-by-dr-in-sri-lanka-video-and-transcript"
 aliases:
   - "/COVID-19+Vitamin+D+Overview+by+Dr+in+Sri+Lanka+Video+and+transcript+-+Dec+8+2020"
-  - "/tiki-index.php?page_id=12142"
+  - "/12142"
+tiki_page_id: 12142
 date: 2020-12-14
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Young women are healthier than those 15 years older (Somali in Sweden in
 slug: "young-women-are-healthier-than-those-15-years-older-somali-in-sweden-in-this-case"
 aliases:
   - "/Young+women+are+healthier+than+those+15+years+older+Somali+in+Sweden+in+this+case+–+May+2019"
-  - "/tiki-index.php?page_id=10737"
+  - "/10737"
+tiki_page_id: 10737
 date: 2019-05-07
 categories:
   - "Women"

@@ -3,7 +3,8 @@ title: "53 Multiple Sclerosis patients somewhat helped by 10,000 IU of vitamin D
 slug: "53-multiple-sclerosis-patients-somewhat-helped-by-10000-iu-of-vitamin-d-vs-30000--by-10x-as-much"
 aliases:
   - "/53+Multiple+Sclerosis+patients+somewhat+helped+by+10000+IU+of+vitamin+D+vs+30000+virtually+cured+by+10X+as+much+–+Jan+2020"
-  - "/tiki-index.php?page_id=11589"
+  - "/11589"
+tiki_page_id: 11589
 date: 2020-01-25
 categories:
   - "Multiple Sclerosis"

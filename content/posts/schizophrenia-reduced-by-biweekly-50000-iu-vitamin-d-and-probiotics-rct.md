@@ -3,7 +3,8 @@ title: "Schizophrenia reduced by biweekly 50,000 IU Vitamin D and probiotics –
 slug: "schizophrenia-reduced-by-biweekly-50000-iu-vitamin-d-and-probiotics-rct"
 aliases:
   - "/Schizophrenia+reduced+by+biweekly+50000+IU+Vitamin+D+and+probiotics+–+RCT+Feb+2019"
-  - "/tiki-index.php?page_id=10509"
+  - "/10509"
+tiki_page_id: 10509
 date: 2019-02-21
 categories:
   - "Intervention"

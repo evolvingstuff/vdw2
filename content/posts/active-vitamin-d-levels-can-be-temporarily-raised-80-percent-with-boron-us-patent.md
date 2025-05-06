@@ -3,7 +3,8 @@ title: "Active vitamin D levels can be temporarily raised 80 percent with Boron 
 slug: "active-vitamin-d-levels-can-be-temporarily-raised-80-percent-with-boron-us-patent"
 aliases:
   - "/Active+vitamin+D+levels+can+be+temporarily+raised+80+percent+with+Boron+–+US+Patent+Mar+2016"
-  - "/tiki-index.php?page_id=11333"
+  - "/11333"
+tiki_page_id: 11333
 date: 2019-11-10
 categories:
   - "Vitamin D and Boron"

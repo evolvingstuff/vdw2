@@ -3,7 +3,8 @@ title: "Boron For Vitamin D Deficiency"
 slug: "boron-for-vitamin-d-deficiency"
 aliases:
   - "/Boron+For+Vitamin+D+Deficiency+-+Jan+2024"
-  - "/tiki-index.php?page_id=15103"
+  - "/15103"
+tiki_page_id: 15103
 date: 2024-03-04
 categories:
   - "Vitamin D and Boron"

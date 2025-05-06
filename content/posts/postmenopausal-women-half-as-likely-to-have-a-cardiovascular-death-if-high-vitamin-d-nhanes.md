@@ -3,7 +3,8 @@ title: "Postmenopausal women half as likely to have a cardiovascular death if hi
 slug: "postmenopausal-women-half-as-likely-to-have-a-cardiovascular-death-if-high-vitamin-d-nhanes"
 aliases:
   - "/Postmenopausal+women+half+as+likely+to+have+a+cardiovascular+death+if+high+vitamin+D+NHANES+–+Dec+2023"
-  - "/tiki-index.php?page_id=14883"
+  - "/14883"
+tiki_page_id: 14883
 date: 2023-12-13
 ---
 

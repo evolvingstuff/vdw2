@@ -3,7 +3,8 @@ title: "Children with COVID 4X more likely to have poor Vitamin D Receptors (Not
 slug: "children-with-covid-4x-more-likely-to-have-poor-vitamin-d-receptors-note-covid-deactivates-vdr"
 aliases:
   - "/Children+with+COVID+4X+more+likely+to+have+poor+Vitamin+D+Receptors+Note+COVID+deactivates+VDR+–+April+2023"
-  - "/tiki-index.php?page_id=14403"
+  - "/14403"
+tiki_page_id: 14403
 date: 2023-04-29
 categories:
   - "Vitamin D Receptor"

@@ -3,7 +3,8 @@ title: "French recommended 200,000 IU of Vitamin D to stop COVID-19"
 slug: "french-recommended-200000-iu-of-vitamin-d-to-stop-covid-19"
 aliases:
   - "/French+recommended+200000+IU+of+Vitamin+D+to+stop+COVID-19+-+Jan+2021"
-  - "/tiki-index.php?page_id=13015"
+  - "/13015"
+tiki_page_id: 13015
 date: 2021-10-24
 categories:
   - "Loading dose for Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D, COVID - Campbell and Davis (Video with transcript)"
 slug: "vitamin-d-covid-campbell-and-davis-video-with-transcript"
 aliases:
   - "/Vitamin+D+COVID+-+Campbell+and+Davis+Video+with+transcript+-+Jan+18+2021"
-  - "/tiki-index.php?page_id=12238"
+  - "/12238"
+tiki_page_id: 12238
 date: 2021-01-19
 categories:
   - "Books, videos on Vitamin D"

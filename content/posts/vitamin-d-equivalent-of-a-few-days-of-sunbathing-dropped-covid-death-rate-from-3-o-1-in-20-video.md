@@ -3,7 +3,8 @@ title: "Vitamin D equivalent of a few days of sunbathing dropped COVID death rat
 slug: "vitamin-d-equivalent-of-a-few-days-of-sunbathing-dropped-covid-death-rate-from-3-o-1-in-20-video"
 aliases:
   - "/Vitamin+D+equivalent+of+a+few+days+of+sunbathing+dropped+COVID+death+rate+from+3+in+20+to+1+in+20+-+video+Dec+2021"
-  - "/tiki-index.php?page_id=13203"
+  - "/13203"
+tiki_page_id: 13203
 date: 2021-12-20
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D is important to health"
 slug: "vitamin-d-is-important-to-health"
 aliases:
   - "/Vitamin+D+is+important+to+health+–+Feb+2021"
-  - "/tiki-index.php?page_id=12339"
+  - "/12339"
+tiki_page_id: 12339
 date: 2021-02-21
 categories:
   - "Health"

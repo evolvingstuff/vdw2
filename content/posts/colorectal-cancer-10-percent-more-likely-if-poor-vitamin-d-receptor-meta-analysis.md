@@ -3,7 +3,8 @@ title: "Colorectal Cancer 10 percent more likely if poor Vitamin D Receptor – 
 slug: "colorectal-cancer-10-percent-more-likely-if-poor-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Colorectal+Cancer+10+percent+more+likely+if+poor+Vitamin+D+Receptor+–+meta-analysis+Jan+2023"
-  - "/tiki-index.php?page_id=14203"
+  - "/14203"
+tiki_page_id: 14203
 date: 2023-01-08
 categories:
   - "Cancer - Colon"

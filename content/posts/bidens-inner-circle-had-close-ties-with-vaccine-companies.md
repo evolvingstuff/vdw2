@@ -3,7 +3,8 @@ title: "Biden's Inner circle had close ties with Vaccine companies"
 slug: "bidens-inner-circle-had-close-ties-with-vaccine-companies"
 aliases:
   - "/Bidens+Inner+circle+had+close+ties+with+Vaccine+companies+-+March+2021"
-  - "/tiki-index.php?page_id=13314"
+  - "/13314"
+tiki_page_id: 13314
 date: 2022-02-03
 categories:
   - "Virus"

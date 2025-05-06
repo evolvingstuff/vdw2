@@ -3,7 +3,8 @@ title: "Interview of Dr. Coimbra: MS, Autoimmune, Vitamin D, B2, Ca, Mg, PTH etc
 slug: "interview-of-dr-coimbra-ms-autoimmune-vitamin-d-b2-ca-mg-pth-etc-perhaps-2018"
 aliases:
   - "/Interview+of+Dr+Coimbra+MS+Autoimmune+Vitamin+D+B2+Ca+Mg+PTH+etc+–+perhaps+2018"
-  - "/tiki-index.php?page_id=10261"
+  - "/10261"
+tiki_page_id: 10261
 date: 2018-12-02
 categories:
   - "Multiple Sclerosis"

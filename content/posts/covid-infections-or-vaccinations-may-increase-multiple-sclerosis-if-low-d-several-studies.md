@@ -3,7 +3,8 @@ title: "COVID infections or vaccinations may increase Multiple Sclerosis (if low
 slug: "covid-infections-or-vaccinations-may-increase-multiple-sclerosis-if-low-d-several-studies"
 aliases:
   - "/COVID+infections+or+vaccinations+may+increase+Multiple+Sclerosis+if+low+D+-+several+studies"
-  - "/tiki-index.php?page_id=14835"
+  - "/14835"
+tiki_page_id: 14835
 date: 2023-11-23
 categories:
   - "Multiple Sclerosis"

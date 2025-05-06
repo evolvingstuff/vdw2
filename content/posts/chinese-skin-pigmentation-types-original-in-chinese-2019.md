@@ -3,7 +3,8 @@ title: "Chinese Skin Pigmentation Types (original in Chinese) - 2019"
 slug: "chinese-skin-pigmentation-types-original-in-chinese-2019"
 aliases:
   - "/Chinese+Skin+Pigmentation+Types+original+in+Chinese+-+2019"
-  - "/tiki-index.php?page_id=11598"
+  - "/11598"
+tiki_page_id: 11598
 date: 2020-01-28
 categories:
   - "Skin"

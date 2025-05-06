@@ -3,7 +3,8 @@ title: "Doctors Still Struggle to Diagnose a Condition That Kills More Than Stro
 slug: "doctors-still-struggle-to-diagnose-a-condition-that-kills-more-than-stroke-sepsis-vitamin-d-helps"
 aliases:
   - "/Doctors+Still+Struggle+to+Diagnose+a+Condition+That+Kills+More+Than+Stroke+Sepsis+Vitamin+D+helps+Oct+2022"
-  - "/tiki-index.php?page_id=14014"
+  - "/14014"
+tiki_page_id: 14014
 date: 2022-10-16
 ---
 

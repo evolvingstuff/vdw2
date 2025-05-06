@@ -3,7 +3,8 @@ title: "Autism risky if low vitamin D during pregnancy and early life (mice, fec
 slug: "autism-risky-if-low-vitamin-d-during-pregnancy-and-early-life-mice-fecal-transplant-reversed-it"
 aliases:
   - "/Autism+risky+if+low+vitamin+D+during+pregnancy+and+early+life+mice+fecal+transplant+reversed+it+–+March+2024"
-  - "/tiki-index.php?page_id=15176"
+  - "/15176"
+tiki_page_id: 15176
 date: 2024-03-27
 categories:
   - "Autism"

@@ -3,7 +3,8 @@ title: "Low vitamin D resulted in reduced genes to make muscles (in rats)"
 slug: "low-vitamin-d-resulted-in-reduced-genes-to-make-muscles-in-rats"
 aliases:
   - "/Low+vitamin+D+resulted+in+reduced+genes+to+make+muscles+in+rats+–+Nov+2019"
-  - "/tiki-index.php?page_id=11335"
+  - "/11335"
+tiki_page_id: 11335
 date: 2019-11-11
 categories:
   - "Sports and Vitamin D"

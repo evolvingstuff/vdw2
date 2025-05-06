@@ -3,7 +3,8 @@ title: "Thinner Cingulate Cortex if lower vitamin D"
 slug: "thinner-cingulate-cortex-if-lower-vitamin-d"
 aliases:
   - "/Thinner+Cingulate+Cortex+if+lower+vitamin+D+–+Nov+2019"
-  - "/tiki-index.php?page_id=11358"
+  - "/11358"
+tiki_page_id: 11358
 date: 2019-11-16
 ---
 

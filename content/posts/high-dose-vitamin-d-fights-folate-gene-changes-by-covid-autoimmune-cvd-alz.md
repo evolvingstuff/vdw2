@@ -3,7 +3,8 @@ title: "High dose vitamin D fights Folate gene changes by COVID, autoimmune, CVD
 slug: "high-dose-vitamin-d-fights-folate-gene-changes-by-covid-autoimmune-cvd-alz"
 aliases:
   - "/High+dose+vitamin+D+fights+Folate+gene+changes+by+COVID+autoimmune+CVD+ALZ+–+Oct+2022"
-  - "/tiki-index.php?page_id=13984"
+  - "/13984"
+tiki_page_id: 13984
 date: 2022-10-06
 categories:
   - "Cardiovascular"

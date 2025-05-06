@@ -3,7 +3,8 @@ title: "Pregnant women in Australia to take Omega-3 when told of reduction in pr
 slug: "pregnant-women-in-australia-to-take-omega-3-when-told-of-reduction-in-preterm-births"
 aliases:
   - "/Pregnant+women+in+Australia+to+take+Omega-3+when+told+of+reduction+in+preterm+births+–+Dec+2019"
-  - "/tiki-index.php?page_id=11371"
+  - "/11371"
+tiki_page_id: 11371
 date: 2019-11-19
 categories:
   - "Pregnancy"

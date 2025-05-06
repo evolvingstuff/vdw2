@@ -3,7 +3,8 @@ title: "PICU layoffs due to pandemic lulls, but children are now getting 3 years
 slug: "picu-layoffs-due-to-pandemic-lulls-but-children-are-now-getting-3-years-of-viral-ion-all-at-once"
 aliases:
   - "/PICU+layoffs+due+to+pandemic+lulls+but+children+are+now+getting+3+years+of+viral+infection+all+at+once+–+Oct+2022"
-  - "/tiki-index.php?page_id=14064"
+  - "/14064"
+tiki_page_id: 14064
 date: 2022-10-31
 categories:
   - "Infant-Child"

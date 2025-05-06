@@ -3,7 +3,8 @@ title: "15 studies indicating that Vitamin D fights COVID-19 - Dr. Grimes"
 slug: "15-studies-indicating-that-vitamin-d-fights-covid-19-dr-grimes"
 aliases:
   - "/15+studies+indicating+that+Vitamin+D+fights+COVID-19+-+Dr+Grimes+Oct+9+2020"
-  - "/tiki-index.php?page_id=12004"
+  - "/12004"
+tiki_page_id: 12004
 date: 2020-10-10
 categories:
   - "Virus"

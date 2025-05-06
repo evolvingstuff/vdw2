@@ -3,7 +3,8 @@ title: "Morning Sickness might be eliminated by Vitamin D"
 slug: "morning-sickness-might-be-eliminated-by-vitamin-d"
 aliases:
   - "/Morning+Sickness+might+be+eliminated+by+Vitamin+D"
-  - "/tiki-index.php?page_id=15230"
+  - "/15230"
+tiki_page_id: 15230
 date: 2024-04-21
 categories:
   - "Pregnancy"

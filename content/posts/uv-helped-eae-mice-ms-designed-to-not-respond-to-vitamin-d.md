@@ -3,7 +3,8 @@ title: "UV helped EAE mice (MS) designed to not respond to Vitamin D"
 slug: "uv-helped-eae-mice-ms-designed-to-not-respond-to-vitamin-d"
 aliases:
   - "/UV+helped+EAE+mice+MS+designed+to+not+respond+to+Vitamin+D+–+Oct+2019"
-  - "/tiki-index.php?page_id=11261"
+  - "/11261"
+tiki_page_id: 11261
 date: 2019-10-23
 categories:
   - "UV and Vitamin D"

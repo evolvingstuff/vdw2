@@ -3,7 +3,8 @@ title: "Mortality Risk increased by 25% if low vitamin D (in 14 years)"
 slug: "mortality-risk-increased-by-25-percent-if-low-vitamin-d-in-14-years"
 aliases:
   - "/Mortality+Risk+increased+by+25+if+low+vitamin+D+in+14+years–+Nov+2022"
-  - "/tiki-index.php?page_id=14643"
+  - "/14643"
+tiki_page_id: 14643
 date: 2023-08-29
 ---
 

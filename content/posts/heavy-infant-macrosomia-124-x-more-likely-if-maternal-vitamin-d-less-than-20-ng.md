@@ -3,7 +3,8 @@ title: "Heavy infant (macrosomia) 1.24 X more likely if maternal vitamin D less 
 slug: "heavy-infant-macrosomia-124-x-more-likely-if-maternal-vitamin-d-less-than-20-ng"
 aliases:
   - "/Heavy+infant+macrosomia+124+X+more+likely+if+maternal+vitamin+D+less+than+20+ng+–+Nov+2022"
-  - "/tiki-index.php?page_id=14106"
+  - "/14106"
+tiki_page_id: 14106
 date: 2022-11-24
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Magnesium helps bones a bit – meta-analysis"
 slug: "magnesium-helps-bones-a-bit-meta-analysis"
 aliases:
   - "/Magnesium+helps+bones+a+bit+–+meta-analysis+Jan+2022"
-  - "/tiki-index.php?page_id=13638"
+  - "/13638"
+tiki_page_id: 13638
 date: 2022-06-05
 categories:
   - "Bone - Health"

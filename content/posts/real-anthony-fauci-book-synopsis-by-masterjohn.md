@@ -3,7 +3,8 @@ title: "Real Anthony Fauci - book synopsis by Masterjohn"
 slug: "real-anthony-fauci-book-synopsis-by-masterjohn"
 aliases:
   - "/Real+Anthony+Fauci+-+book+synopsis+by+Masterjohn+Dec+3+2021"
-  - "/tiki-index.php?page_id=13144"
+  - "/13144"
+tiki_page_id: 13144
 date: 2021-12-04
 categories:
   - "Virus"

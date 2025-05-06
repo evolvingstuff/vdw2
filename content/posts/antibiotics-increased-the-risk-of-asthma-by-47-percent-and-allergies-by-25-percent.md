@@ -3,7 +3,8 @@ title: "Antibiotics increased the risk of asthma by 47%, and allergies by 25%"
 slug: "antibiotics-increased-the-risk-of-asthma-by-47-percent-and-allergies-by-25-percent"
 aliases:
   - "/Antibiotics+increased+the+risk+of+asthma+by+47+and+allergies+by+25+-+Dec+2019"
-  - "/tiki-index.php?page_id=11520"
+  - "/11520"
+tiki_page_id: 11520
 date: 2019-12-31
 categories:
   - "Autoimmune"

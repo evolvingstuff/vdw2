@@ -3,7 +3,8 @@ title: "Vitamin D and COVID-19 - VitaminD3World"
 slug: "vitamin-d-and-covid-19-vitamind3world"
 aliases:
   - "/Vitamin+D+and+COVID-19+-+VitaminD3World+-+July+2020"
-  - "/tiki-index.php?page_id=11833"
+  - "/11833"
+tiki_page_id: 11833
 date: 2020-07-07
 categories:
   - "Virus"

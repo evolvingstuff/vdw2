@@ -3,7 +3,8 @@ title: "Women wearing hijab in tropics need at least 1 hour noon sun daily in su
 slug: "women-wearing-hijab-in-tropics-need-at-least-1-hour-noon-sun-daily-in-summer"
 aliases:
   - "/Women+wearing+hijab+in+tropics+need+at+least+1+hour+noon+sun+daily+in+summer+–+June+2019"
-  - "/tiki-index.php?page_id=11190"
+  - "/11190"
+tiki_page_id: 11190
 date: 2019-10-02
 categories:
   - "UV and Vitamin D"

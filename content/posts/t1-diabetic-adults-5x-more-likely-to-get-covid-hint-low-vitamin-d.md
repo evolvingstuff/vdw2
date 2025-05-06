@@ -3,7 +3,8 @@ title: "T1 Diabetic adults 5X more likely to get COVID (hint low vitamin D)"
 slug: "t1-diabetic-adults-5x-more-likely-to-get-covid-hint-low-vitamin-d"
 aliases:
   - "/T1+Diabetic+adults+5X+more+likely+to+get+COVID+hint+low+vitamin+D–+Nov+2022"
-  - "/tiki-index.php?page_id=14098"
+  - "/14098"
+tiki_page_id: 14098
 date: 2022-11-19
 categories:
   - "Diabetes"

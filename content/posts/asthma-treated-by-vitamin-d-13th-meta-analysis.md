@@ -3,7 +3,8 @@ title: "Asthma treated by Vitamin D - 13th Meta-analysis"
 slug: "asthma-treated-by-vitamin-d-13th-meta-analysis"
 aliases:
   - "/Asthma+treated+by+Vitamin+D+-+13th+Meta-analysis+–+July+2022"
-  - "/tiki-index.php?page_id=13738"
+  - "/13738"
+tiki_page_id: 13738
 date: 2022-07-08
 categories:
   - "Breathing"

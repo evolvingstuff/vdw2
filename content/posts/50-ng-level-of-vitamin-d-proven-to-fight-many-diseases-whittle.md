@@ -3,7 +3,8 @@ title: "50 ng level of Vitamin D proven to fight many diseases - Whittle"
 slug: "50-ng-level-of-vitamin-d-proven-to-fight-many-diseases-whittle"
 aliases:
   - "/50+ng+level+of+Vitamin+D+proven+to+fight+many+diseases+-+Whittle+May+2023"
-  - "/tiki-index.php?page_id=14430"
+  - "/14430"
+tiki_page_id: 14430
 date: 2023-05-17
 ---
 

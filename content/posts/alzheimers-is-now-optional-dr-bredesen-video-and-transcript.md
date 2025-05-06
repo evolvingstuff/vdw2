@@ -3,7 +3,8 @@ title: "Alzheimer’s Is Now Optional - Dr. Bredesen video and transcript"
 slug: "alzheimers-is-now-optional-dr-bredesen-video-and-transcript"
 aliases:
   - "/Alzheimers+Is+Now+Optional+-+Dr+Bredesen+video+and+transcript+Sept+2023"
-  - "/tiki-index.php?page_id=14676"
+  - "/14676"
+tiki_page_id: 14676
 date: 2023-09-11
 categories:
   - "Cognitive"

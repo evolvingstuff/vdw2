@@ -3,7 +3,8 @@ title: "100 years since the discovery of Vitamin D - 23 studies - 2022, 2023"
 slug: "100-years-since-the-discovery-of-vitamin-d-23-studies-2022-2023"
 aliases:
   - "/100+years+since+the+discovery+of+Vitamin+D+-+23+studies+-+2022+2023"
-  - "/tiki-index.php?page_id=14365"
+  - "/14365"
+tiki_page_id: 14365
 date: 2023-04-08
 categories:
   - "Bone - Health"

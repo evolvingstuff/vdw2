@@ -3,7 +3,8 @@ title: "Employers should give night shift workers free vitamin D – GMB Union"
 slug: "employers-should-give-night-shift-workers-free-vitamin-d-gmb-union"
 aliases:
   - "/Employers+should+give+night+shift+workers+free+vitamin+D+–+GMB+Union+June+2019"
-  - "/tiki-index.php?page_id=10854"
+  - "/10854"
+tiki_page_id: 10854
 date: 2019-06-11
 categories:
   - "Cost savings with Vitamin D"

@@ -3,7 +3,8 @@ title: "Cervical Cancer is prevented by Vitamin D, and treated if caught early (
 slug: "cervical-cancer-is-prevented-by-vitamin-d-and-treated-if-caught-early-genes-are-important"
 aliases:
   - "/Cervical+Cancer+is+prevented+by+Vitamin+D+and+treated+if+caught+early+genes+are+important+–+May+2023"
-  - "/tiki-index.php?page_id=14450"
+  - "/14450"
+tiki_page_id: 14450
 date: 2023-05-27
 categories:
   - "Genetics"

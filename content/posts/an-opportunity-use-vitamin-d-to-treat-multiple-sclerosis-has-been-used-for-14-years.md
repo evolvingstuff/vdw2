@@ -3,7 +3,8 @@ title: "An opportunity - use Vitamin D to treat Multiple Sclerosis (has been use
 slug: "an-opportunity-use-vitamin-d-to-treat-multiple-sclerosis-has-been-used-for-14-years"
 aliases:
   - "/An+opportunity+-+use+Vitamin+D+to+treat+Multiple+Sclerosis+has+been+used+for+14+years+-+Feb+2022"
-  - "/tiki-index.php?page_id=13329"
+  - "/13329"
+tiki_page_id: 13329
 date: 2022-02-11
 categories:
   - "Multiple Sclerosis"

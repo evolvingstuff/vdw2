@@ -3,7 +3,8 @@ title: "Hospital has banned Dr. Holick due to testifying in cases of infants wit
 slug: "hospital-has-banned-dr-holick-due-to-testifying-in-cases-of-infants-with-broken-bones-august-2021"
 aliases:
   - "/Hospital+has+banned+Dr+Holick+due+to+testifying+in+cases+of+infants+with+broken+bones-+August+2021"
-  - "/tiki-index.php?page_id=12802"
+  - "/12802"
+tiki_page_id: 12802
 date: 2021-08-03
 categories:
   - "Bone - Health"

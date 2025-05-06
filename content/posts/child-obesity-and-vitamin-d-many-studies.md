@@ -3,7 +3,8 @@ title: "Child Obesity and Vitamin D - many studies"
 slug: "child-obesity-and-vitamin-d-many-studies"
 aliases:
   - "/Child+Obesity+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14205"
+  - "/14205"
+tiki_page_id: 14205
 date: 2023-01-09
 categories:
   - "Obesity"

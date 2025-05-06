@@ -3,7 +3,8 @@ title: "Severe COVID 2.6 X less likely if supplement with Vitamin D – 26th met
 slug: "severe-covid-26-x-less-likely-if-supplement-with-vitamin-d-26th-meta-analysis"
 aliases:
   - "/Severe+COVID+26+X+less+likely+if+supplement+with+Vitamin+D+–+26th+meta-analysis+-+July+2022"
-  - "/tiki-index.php?page_id=13734"
+  - "/13734"
+tiki_page_id: 13734
 date: 2022-07-06
 categories:
   - "Meta-analysis of Vitamin D"

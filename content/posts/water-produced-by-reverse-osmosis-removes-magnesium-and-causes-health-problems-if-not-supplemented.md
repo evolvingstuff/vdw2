@@ -3,7 +3,8 @@ title: "Water produced by reverse osmosis removes Magnesium and causes health pr
 slug: "water-produced-by-reverse-osmosis-removes-magnesium-and-causes-health-problems-if-not-supplemented"
 aliases:
   - "/Water+produced+by+reverse+osmosis+removes+Magnesium+and+causes+health+problems+if+not+supplemented+–+March+2023"
-  - "/tiki-index.php?page_id=14338"
+  - "/14338"
+tiki_page_id: 14338
 date: 2023-03-28
 categories:
   - "Vitamin D and Magnesium"

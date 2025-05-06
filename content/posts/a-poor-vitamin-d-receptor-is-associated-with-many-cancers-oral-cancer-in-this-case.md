@@ -3,7 +3,8 @@ title: "A poor Vitamin D Receptor is associated with many cancers (oral cancer i
 slug: "a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-case"
 aliases:
   - "/A+poor+Vitamin+D+Receptor+is+associated+with+many+cancers+oral+cancer+in+this+case+–+Jan+2019"
-  - "/tiki-index.php?page_id=10617"
+  - "/10617"
+tiki_page_id: 10617
 date: 2019-03-26
 categories:
   - "Cancer"

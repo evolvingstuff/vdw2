@@ -3,7 +3,8 @@ title: "Survey: Sunlight always bad (80 pcnt in Great Britain)"
 slug: "survey-sunlight-always-bad-80-pcnt-in-great-britain"
 aliases:
   - "/Survey+Sunlight+always+bad+80+pcnt+in+Great+Britain+-+Sept+2020"
-  - "/tiki-index.php?page_id=11969"
+  - "/11969"
+tiki_page_id: 11969
 date: 2020-09-22
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "2 Australian eggs might provide all of your daily Vitamin D needs"
 slug: "2-australian-eggs-might-provide-all-of-your-daily-vitamin-d-needs"
 aliases:
   - "/2+Australian+eggs+might+provide+all+of+your+daily+Vitamin+D+needs+–+May+2019"
-  - "/tiki-index.php?page_id=10742"
+  - "/10742"
+tiki_page_id: 10742
 date: 2019-05-07
 categories:
   - "Food sources for Vitamin D"

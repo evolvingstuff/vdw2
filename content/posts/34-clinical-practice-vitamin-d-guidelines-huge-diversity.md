@@ -3,7 +3,8 @@ title: "34 clinical practice Vitamin D guidelines, huge diversity"
 slug: "34-clinical-practice-vitamin-d-guidelines-huge-diversity"
 aliases:
   - "/34+clinical+practice+Vitamin+D+guidelines+huge+diversity+–+Nov+2021"
-  - "/tiki-index.php?page_id=12880"
+  - "/12880"
+tiki_page_id: 12880
 date: 2021-09-06
 categories:
   - "How much Vitamin D"

@@ -3,7 +3,8 @@ title: "Natural activators of the Vitamin D Receptor - some immune cells"
 slug: "natural-activators-of-the-vitamin-d-receptor-some-immune-cells"
 aliases:
   - "/Natural+activators+of+the+Vitamin+D+Receptor+-+some+immune+cells+-+April+2023"
-  - "/tiki-index.php?page_id=14215"
+  - "/14215"
+tiki_page_id: 14215
 date: 2023-01-20
 categories:
   - "Vitamin D Receptor"

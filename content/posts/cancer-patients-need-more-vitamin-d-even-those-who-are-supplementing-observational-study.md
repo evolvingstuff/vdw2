@@ -3,7 +3,8 @@ title: "Cancer patients need more vitamin D, even those who are supplementing â€
 slug: "cancer-patients-need-more-vitamin-d-even-those-who-are-supplementing-observational-study"
 aliases:
   - "/Cancer+patients+need+more+vitamin+D+even+those+who+are+supplementing+â€“+observational+study+June+2021"
-  - "/tiki-index.php?page_id=12661"
+  - "/12661"
+tiki_page_id: 12661
 date: 2021-06-16
 categories:
   - "Cancer - after diagnosis"

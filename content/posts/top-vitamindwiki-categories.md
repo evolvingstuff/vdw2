@@ -3,7 +3,8 @@ title: "Top VitaminDWiki categories"
 slug: "top-vitamindwiki-categories"
 aliases:
   - "/Top+VitaminDWiki+categories-+Jan+2019"
-  - "/tiki-index.php?page_id=10408"
+  - "/10408"
+tiki_page_id: 10408
 date: 2019-01-17
 categories:
   - "Z"

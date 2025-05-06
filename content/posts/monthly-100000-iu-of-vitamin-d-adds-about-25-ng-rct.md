@@ -3,7 +3,8 @@ title: "Monthly 100,000 IU of Vitamin D  adds about 25 ng  - RCT"
 slug: "monthly-100000-iu-of-vitamin-d-adds-about-25-ng-rct"
 aliases:
   - "/Monthly+100000+IU+of+Vitamin+D+adds+about+25+ng+-+RCT+April+2020"
-  - "/tiki-index.php?page_id=11835"
+  - "/11835"
+tiki_page_id: 11835
 date: 2020-07-09
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Snippits of VitaminDWiki"
 slug: "snippits-of-vitamindwiki"
 aliases:
   - "/Snippits+of+VitaminDWiki"
-  - "/tiki-index.php?page_id=14709"
+  - "/14709"
+tiki_page_id: 14709
 date: 2023-09-28
 ---
 

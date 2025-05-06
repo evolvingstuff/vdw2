@@ -3,7 +3,8 @@ title: "Preterm Births - promising preventions – anti-oxidants, Vitamin D, Ome
 slug: "preterm-births-promising-preventions-anti-oxidants-vitamin-d-omega-3-zinc-etc"
 aliases:
   - "/Preterm+Births+-+promising+preventions+–+anti-oxidants+Vitamin+D+Omega-3+Zinc+etc+–+Jan+2019"
-  - "/tiki-index.php?page_id=10547"
+  - "/10547"
+tiki_page_id: 10547
 date: 2019-03-04
 categories:
   - "Pregnancy"

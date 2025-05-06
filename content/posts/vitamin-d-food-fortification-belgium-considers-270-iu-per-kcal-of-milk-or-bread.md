@@ -3,7 +3,8 @@ title: "Vitamin D food fortification, Belgium considers 270 IU per kcal of milk 
 slug: "vitamin-d-food-fortification-belgium-considers-270-iu-per-kcal-of-milk-or-bread"
 aliases:
   - "/Vitamin+D+food+fortification+Belgium+considers+270+IU+per+kcal+of+milk+or+bread–+June+2019"
-  - "/tiki-index.php?page_id=10894"
+  - "/10894"
+tiki_page_id: 10894
 date: 2019-06-18
 categories:
   - "Top news"

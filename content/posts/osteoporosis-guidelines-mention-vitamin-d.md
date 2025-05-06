@@ -3,7 +3,8 @@ title: "Osteoporosis guidelines mention vitamin D"
 slug: "osteoporosis-guidelines-mention-vitamin-d"
 aliases:
   - "/Osteoporosis+guidelines+mention+vitamin+D+-+Jan+2023"
-  - "/tiki-index.php?page_id=14201"
+  - "/14201"
+tiki_page_id: 14201
 date: 2023-01-08
 categories:
   - "Osteoporosis"

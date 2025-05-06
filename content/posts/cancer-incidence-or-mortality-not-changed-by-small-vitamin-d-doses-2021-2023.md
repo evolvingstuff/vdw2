@@ -3,7 +3,8 @@ title: "Cancer incidence or mortality not changed by small Vitamin D doses:  202
 slug: "cancer-incidence-or-mortality-not-changed-by-small-vitamin-d-doses-2021-2023"
 aliases:
   - "/Cancer+incidence+or+mortality+not+changed+by+small+Vitamin+D+doses+2021-2023"
-  - "/tiki-index.php?page_id=14077"
+  - "/14077"
+tiki_page_id: 14077
 date: 2022-11-08
 categories:
   - "Mortality and D"

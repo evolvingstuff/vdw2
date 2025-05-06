@@ -3,7 +3,8 @@ title: "Risk of Major Depressive Disorder increased 2.2 X by a poor Vitamin D re
 slug: "risk-of-major-depressive-disorder-increased-22-x-by-a-poor-vitamin-d-receptor"
 aliases:
   - "/Risk+of+Major+Depressive+Disorder+increased+22+X+by+a+poor+Vitamin+D+receptor+–+Oct+2020"
-  - "/tiki-index.php?page_id=12003"
+  - "/12003"
+tiki_page_id: 12003
 date: 2020-10-10
 categories:
   - "Depression"

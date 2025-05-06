@@ -3,7 +3,8 @@ title: "2800 IU of Vitamin D in late pregnancy resulted in 3X fewer fractures, 4
 slug: "2800-iu-of-vitamin-d-in-late-pregnancy-resulted-in-3x-fewer-fractures-4x-fewer-e-n-offspring-rct"
 aliases:
   - "/2800+IU+of+Vitamin+D+in+late+pregnancy+resulted+in+3X+fewer+fractures+4X+fewer+enamel+defects+in+offspring+–+RCT+Jan+2024"
-  - "/tiki-index.php?page_id=15044"
+  - "/15044"
+tiki_page_id: 15044
 date: 2024-02-12
 categories:
   - "Bone - Health"

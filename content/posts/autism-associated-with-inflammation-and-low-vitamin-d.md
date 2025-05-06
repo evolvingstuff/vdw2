@@ -3,7 +3,8 @@ title: "Autism associated with inflammation and low vitamin D"
 slug: "autism-associated-with-inflammation-and-low-vitamin-d"
 aliases:
   - "/Autism+associated+with+inflammation+and+low+vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13796"
+  - "/13796"
+tiki_page_id: 13796
 date: 2022-07-26
 categories:
   - "Autism"

@@ -3,7 +3,8 @@ title: "Compulsory COVID Interventions do not work (400 studies - GreenMed Info)
 slug: "compulsory-covid-interventions-do-not-work-400-studies-greenmed-info"
 aliases:
   - "/Compulsory+COVID+Interventions+do+not+work+400+studies+-+GreenMed+Info+Dec+1+2021"
-  - "/tiki-index.php?page_id=13138"
+  - "/13138"
+tiki_page_id: 13138
 date: 2021-12-02
 categories:
   - "Virus"

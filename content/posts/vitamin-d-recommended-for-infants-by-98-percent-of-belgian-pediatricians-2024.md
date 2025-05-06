@@ -3,7 +3,8 @@ title: "Vitamin D recommended for infants by 98% of Belgian pediatricians - 2024
 slug: "vitamin-d-recommended-for-infants-by-98-percent-of-belgian-pediatricians-2024"
 aliases:
   - "/Vitamin+D+recommended+for+infants+by+98+of+Belgian+pediatricians+-+2024"
-  - "/tiki-index.php?page_id=14945"
+  - "/14945"
+tiki_page_id: 14945
 date: 2024-01-04
 categories:
   - "Deficiency of Vitamin D"

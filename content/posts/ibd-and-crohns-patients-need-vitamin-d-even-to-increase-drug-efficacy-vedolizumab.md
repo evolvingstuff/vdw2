@@ -3,7 +3,8 @@ title: "IBD and Crohn's  patients need Vitamin D, even to increase drug efficacy
 slug: "ibd-and-crohns-patients-need-vitamin-d-even-to-increase-drug-efficacy-vedolizumab"
 aliases:
   - "/IBD+and+Crohns+patients+need+Vitamin+D+even+to+increase+drug+efficacy+Vedolizumab+June+2021"
-  - "/tiki-index.php?page_id=12703"
+  - "/12703"
+tiki_page_id: 12703
 date: 2021-06-29
 categories:
   - "Gut"

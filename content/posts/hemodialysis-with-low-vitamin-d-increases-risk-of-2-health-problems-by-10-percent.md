@@ -3,7 +3,8 @@ title: "Hemodialysis with low vitamin D increases risk of 2 health problems by 1
 slug: "hemodialysis-with-low-vitamin-d-increases-risk-of-2-health-problems-by-10-percent"
 aliases:
   - "/Hemodialysis+with+low+vitamin+D+increases+risk+of+2+health+problems+by+10+percent+–+Aug+2020"
-  - "/tiki-index.php?page_id=11886"
+  - "/11886"
+tiki_page_id: 11886
 date: 2020-08-06
 categories:
   - "Kidney"

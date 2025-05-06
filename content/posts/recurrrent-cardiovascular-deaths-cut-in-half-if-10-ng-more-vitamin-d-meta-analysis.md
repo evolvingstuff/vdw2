@@ -3,7 +3,8 @@ title: "Recurrrent Cardiovascular deaths cut in half if 10 ng more Vitamin D –
 slug: "recurrrent-cardiovascular-deaths-cut-in-half-if-10-ng-more-vitamin-d-meta-analysis"
 aliases:
   - "/Recurrrent+Cardiovascular+deaths+cut+in+half+if+10+ng+more+Vitamin+D+–+meta-analysis+Sept+2021"
-  - "/tiki-index.php?page_id=13002"
+  - "/13002"
+tiki_page_id: 13002
 date: 2021-10-18
 categories:
   - "Cardiovascular"

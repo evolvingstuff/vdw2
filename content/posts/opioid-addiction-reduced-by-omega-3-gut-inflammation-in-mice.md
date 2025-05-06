@@ -3,7 +3,8 @@ title: "Opioid addiction reduced by Omega-3 (gut inflammation in mice)"
 slug: "opioid-addiction-reduced-by-omega-3-gut-inflammation-in-mice"
 aliases:
   - "/Opioid+addiction+reduced+by+Omega-3+gut+inflammation+in+mice+–+Aug+2019"
-  - "/tiki-index.php?page_id=11453"
+  - "/11453"
+tiki_page_id: 11453
 date: 2019-12-15
 categories:
   - "Pain - chronic"

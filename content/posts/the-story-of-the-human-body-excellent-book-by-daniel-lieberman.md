@@ -3,7 +3,8 @@ title: "The story of the Human Body -excellent book by Daniel Lieberman"
 slug: "the-story-of-the-human-body-excellent-book-by-daniel-lieberman"
 aliases:
   - "/The+story+of+the+Human+Body+-excellent+book+by+Daniel+Lieberman"
-  - "/tiki-index.php?page_id=11275"
+  - "/11275"
+tiki_page_id: 11275
 date: 2019-10-25
 categories:
   - "Genetics"

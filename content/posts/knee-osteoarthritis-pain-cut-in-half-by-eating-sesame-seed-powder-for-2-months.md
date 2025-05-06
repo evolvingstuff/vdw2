@@ -3,7 +3,8 @@ title: "Knee Osteoarthritis pain cut in half by eating sesame seed powder for 2 
 slug: "knee-osteoarthritis-pain-cut-in-half-by-eating-sesame-seed-powder-for-2-months"
 aliases:
   - "/Knee+Osteoarthritis+pain+cut+in+half+by+eating+sesame+seed+powder+for+2+months+-+Oct+2019"
-  - "/tiki-index.php?page_id=11271"
+  - "/11271"
+tiki_page_id: 11271
 date: 2019-10-24
 ---
 

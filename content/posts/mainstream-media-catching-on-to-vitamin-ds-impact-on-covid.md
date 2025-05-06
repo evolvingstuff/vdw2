@@ -3,7 +3,8 @@ title: "Mainstream Media Catching on to Vitamin D’s Impact on COVID"
 slug: "mainstream-media-catching-on-to-vitamin-ds-impact-on-covid"
 aliases:
   - "/Mainstream+Media+Catching+on+to+Vitamin+Ds+Impact+on+COVID+-+Aug+17+2020"
-  - "/tiki-index.php?page_id=11908"
+  - "/11908"
+tiki_page_id: 11908
 date: 2020-08-17
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Depression treated by 50K IU Vitamin D weekly (but not 1,000 IU daily) â
 slug: "depression-treated-by-50k-iu-vitamin-d-weekly-but-not-1000-iu-daily-meta-analysis"
 aliases:
   - "/Depression+treated+by+50K+IU+Vitamin+D+weekly+but+not+1000+IU+daily+â€“+meta-analysis+Jan+2021"
-  - "/tiki-index.php?page_id=12534"
+  - "/12534"
+tiki_page_id: 12534
 date: 2021-04-24
 categories:
   - "Depression"

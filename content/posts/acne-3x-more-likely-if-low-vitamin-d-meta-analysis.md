@@ -3,7 +3,8 @@ title: "Acne 3X more likely if low Vitamin D – meta-analysis"
 slug: "acne-3x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Acne+3X+more+likely+if+low+Vitamin+D+–+meta-analysis+Oct+2019"
-  - "/tiki-index.php?page_id=11272"
+  - "/11272"
+tiki_page_id: 11272
 date: 2019-10-24
 categories:
   - "Meta-analysis of Vitamin D"

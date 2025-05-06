@@ -3,7 +3,8 @@ title: "COVID recovery 1.6X faster after 200,000 IU of Vitamin D RCT"
 slug: "covid-recovery-16x-faster-after-200000-iu-of-vitamin-d-rct"
 aliases:
   - "/COVID+recovery+16X+faster+after+200000+IU+of+Vitamin+D+RCT+–+Feb+2023"
-  - "/tiki-index.php?page_id=14275"
+  - "/14275"
+tiki_page_id: 14275
 date: 2023-02-21
 categories:
   - "Loading dose for Vitamin D"

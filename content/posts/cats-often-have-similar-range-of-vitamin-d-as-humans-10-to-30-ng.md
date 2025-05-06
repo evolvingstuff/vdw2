@@ -3,7 +3,8 @@ title: "Cats often have similar range of Vitamin D as humans - 10 to 30 ng"
 slug: "cats-often-have-similar-range-of-vitamin-d-as-humans-10-to-30-ng"
 aliases:
   - "/Cats+often+have+similar+range+of+Vitamin+D+as+humans+-+10+to+30+ng+-+Jan+2024"
-  - "/tiki-index.php?page_id=15003"
+  - "/15003"
+tiki_page_id: 15003
 date: 2024-01-26
 categories:
   - "Veterinary and Vitamin D"

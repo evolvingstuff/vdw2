@@ -3,7 +3,8 @@ title: "Mask  wearing slightly increased COVID deaths (Vitamin D decreased them)
 slug: "mask-wearing-slightly-increased-covid-deaths-vitamin-d-decreased-them"
 aliases:
   - "/Mask+wearing+slightly+increased+COVID+deaths+Vitamin+D+decreased+them+-+April+2022"
-  - "/tiki-index.php?page_id=13528"
+  - "/13528"
+tiki_page_id: 13528
 date: 2022-04-28
 categories:
   - "Virus"

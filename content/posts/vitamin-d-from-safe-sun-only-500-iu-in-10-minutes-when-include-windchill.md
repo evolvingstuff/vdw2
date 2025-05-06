@@ -3,7 +3,8 @@ title: "Vitamin D from safe sun: only 500 IU in 10 minutes when include windchil
 slug: "vitamin-d-from-safe-sun-only-500-iu-in-10-minutes-when-include-windchill"
 aliases:
   - "/Vitamin+D+from+safe+sun+only+500+IU+in+10+minutes+when+include+windchill+–+Jan+2018"
-  - "/tiki-index.php?page_id=9999"
+  - "/9999"
+tiki_page_id: 9999
 date: 2018-09-03
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "Ulcerative Colitis (new) associated with lower free and bioavailable Vit
 slug: "ulcerative-colitis-new-associated-with-lower-free-and-bioavailable-vitamin-d-but-not-total"
 aliases:
   - "/Ulcerative+Colitis+new+associated+with+lower+free+and+bioavailable+Vitamin+D+but+not+total+–+Feb+2019"
-  - "/tiki-index.php?page_id=10757"
+  - "/10757"
+tiki_page_id: 10757
 date: 2019-05-10
 categories:
   - "Gut"

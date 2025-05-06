@@ -3,7 +3,8 @@ title: "Ovarian Cancer 37 percent less likely if high vitamin D – meta-analysi
 slug: "ovarian-cancer-37-percent-less-likely-if-high-vitamin-d-meta-analysis"
 aliases:
   - "/Ovarian+Cancer+37+percent+less+likely+if+high+vitamin+D+–+meta-analysis+March+2023"
-  - "/tiki-index.php?page_id=14314"
+  - "/14314"
+tiki_page_id: 14314
 date: 2023-03-18
 categories:
   - "Meta-analysis of Vitamin D"

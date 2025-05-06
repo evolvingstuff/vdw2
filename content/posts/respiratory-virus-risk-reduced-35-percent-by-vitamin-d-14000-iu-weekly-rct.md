@@ -3,7 +3,8 @@ title: "Respiratory Virus risk reduced 35 percent by Vitamin D (14,000 IU weekly
 slug: "respiratory-virus-risk-reduced-35-percent-by-vitamin-d-14000-iu-weekly-rct"
 aliases:
   - "/Respiratory+Virus+risk+reduced+35+percent+by+Vitamin+D+14000+IU+weekly+–+RCT+Oct+2018"
-  - "/tiki-index.php?page_id=10137"
+  - "/10137"
+tiki_page_id: 10137
 date: 2018-10-18
 categories:
   - "Breathing"

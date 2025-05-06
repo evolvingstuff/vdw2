@@ -3,7 +3,8 @@ title: "Myopia not related to Vitamin D if assume same D generated any time of t
 slug: "myopia-not-related-to-vitamin-d-if-assume-same-d-generated-any-time-of-the-day"
 aliases:
   - "/Myopia+not+related+to+Vitamin+D+if+assume+same+D+generated+any+time+of+the+day+-+Sept+2023"
-  - "/tiki-index.php?page_id=14653"
+  - "/14653"
+tiki_page_id: 14653
 date: 2023-09-01
 categories:
   - "UV and Vitamin D"

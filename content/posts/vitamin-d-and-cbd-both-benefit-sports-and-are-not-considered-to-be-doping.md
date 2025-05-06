@@ -3,7 +3,8 @@ title: "Vitamin D and CBD both benefit sports and are not considered to be dopin
 slug: "vitamin-d-and-cbd-both-benefit-sports-and-are-not-considered-to-be-doping"
 aliases:
   - "/Vitamin+D+and+CBD+both+benefit+sports+and+are+not+considered+to+be+doping+–+Sept+2019"
-  - "/tiki-index.php?page_id=11173"
+  - "/11173"
+tiki_page_id: 11173
 date: 2019-09-27
 categories:
   - "Sports and Vitamin D"

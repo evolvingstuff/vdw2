@@ -3,7 +3,8 @@ title: "Multiple Sclerosis is again not fought by 5,000 IU vitamin D daily (need
 slug: "multiple-sclerosis-is-again-not-fought-by-5000-iu-vitamin-d-daily-need-at-least-10x-more-rct"
 aliases:
   - "/Multiple+Sclerosis+is+again+not+fought+by+5000+IU+vitamin+D+daily+need+at+least+10X+more+–+RCT+May+2023"
-  - "/tiki-index.php?page_id=14405"
+  - "/14405"
+tiki_page_id: 14405
 date: 2023-05-01
 categories:
   - "Multiple Sclerosis"

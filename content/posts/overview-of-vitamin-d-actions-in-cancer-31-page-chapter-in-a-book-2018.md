@@ -3,7 +3,8 @@ title: "Overview of Vitamin D Actions in Cancer – 31 page chapter in a book �
 slug: "overview-of-vitamin-d-actions-in-cancer-31-page-chapter-in-a-book-2018"
 aliases:
   - "/Overview+of+Vitamin+D+Actions+in+Cancer+–+31+page+chapter+in+a+book+–+2018"
-  - "/tiki-index.php?page_id=10569"
+  - "/10569"
+tiki_page_id: 10569
 date: 2019-03-14
 categories:
   - "Books, videos on Vitamin D"

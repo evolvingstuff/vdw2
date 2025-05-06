@@ -3,7 +3,8 @@ title: "3% fewer respiratory problems in children if single 100K vitamin D in 3r
 slug: "3-percent-fewer-respiratory-problems-in-children-if-single-100k-vitamin-d-in-3rd-trimester"
 aliases:
   - "/3+fewer+respiratory+problems+in+children+if+single+100K+vitamin+D+in+3rd+trimester+–+May+2023"
-  - "/tiki-index.php?page_id=14449"
+  - "/14449"
+tiki_page_id: 14449
 date: 2023-05-27
 categories:
   - "Breathing"

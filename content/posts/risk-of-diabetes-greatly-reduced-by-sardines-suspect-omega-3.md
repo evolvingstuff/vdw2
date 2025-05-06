@@ -3,7 +3,8 @@ title: "Risk of diabetes greatly reduced by sardines (suspect Omega-3)"
 slug: "risk-of-diabetes-greatly-reduced-by-sardines-suspect-omega-3"
 aliases:
   - "/Risk+of+diabetes+greatly+reduced+by+sardines+suspect+Omega-3+–+May+2021"
-  - "/tiki-index.php?page_id=12581"
+  - "/12581"
+tiki_page_id: 12581
 date: 2021-05-13
 categories:
   - "Diabetes"

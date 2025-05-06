@@ -3,7 +3,8 @@ title: "Recurrent Tonsillitis 4 X more likely if low vitamin D – meta-analysis
 slug: "recurrent-tonsillitis-4-x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Recurrent+Tonsillitis+4+X+more+likely+if+low+vitamin+D+–+meta-analysis+July+2020"
-  - "/tiki-index.php?page_id=11858"
+  - "/11858"
+tiki_page_id: 11858
 date: 2020-07-22
 categories:
   - "Immunity"

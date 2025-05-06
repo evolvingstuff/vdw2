@@ -3,7 +3,8 @@ title: "Vitamin D3 Patch - expensive, many available"
 slug: "vitamin-d3-patch-expensive-many-available"
 aliases:
   - "/Vitamin+D3+Patch+-+expensive+many+available"
-  - "/tiki-index.php?page_id=10288"
+  - "/10288"
+tiki_page_id: 10288
 date: 2018-12-07
 categories:
   - "Forms of Vitamin D"

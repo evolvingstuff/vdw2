@@ -3,7 +3,8 @@ title: "Vitamin D (10,000 IU) changes bacteria in the gut – RCT"
 slug: "vitamin-d-10000-iu-changes-bacteria-in-the-gut-rct"
 aliases:
   - "/Vitamin+D+10000+IU+changes+bacteria+in+the+gut+–+RCT+Jan+2020"
-  - "/tiki-index.php?page_id=12140"
+  - "/12140"
+tiki_page_id: 12140
 date: 2020-12-13
 ---
 

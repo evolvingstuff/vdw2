@@ -3,7 +3,8 @@ title: "Uterine Fibroids cut in half in group taking 1,000 IU of Vitamin D - RCT
 slug: "uterine-fibroids-cut-in-half-in-group-taking-1000-iu-of-vitamin-d-rct"
 aliases:
   - "/Uterine+Fibroids+cut+in+half+in+group+taking+1000+IU+of+Vitamin+D+-+RCT+Jan+2022"
-  - "/tiki-index.php?page_id=13297"
+  - "/13297"
+tiki_page_id: 13297
 date: 2022-01-30
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Vitamin D should reduce hospital-acquired infections – Grant"
 slug: "vitamin-d-should-reduce-hospital-acquired-infections-grant"
 aliases:
   - "/Vitamin+D+should+reduce+hospital-acquired+infections+–+Grant+Dec+2012"
-  - "/tiki-index.php?page_id=14140"
+  - "/14140"
+tiki_page_id: 14140
 date: 2022-12-09
 categories:
   - "Trauma and surgery"

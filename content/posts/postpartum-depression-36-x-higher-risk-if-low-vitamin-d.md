@@ -3,7 +3,8 @@ title: "Postpartum depression 3.6 X higher risk if low vitamin D"
 slug: "postpartum-depression-36-x-higher-risk-if-low-vitamin-d"
 aliases:
   - "/Postpartum+depression+36+X+higher+risk+if+low+vitamin+D+–+Jan+2022"
-  - "/tiki-index.php?page_id=13290"
+  - "/13290"
+tiki_page_id: 13290
 date: 2022-01-27
 categories:
   - "Pregnancy"

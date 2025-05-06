@@ -3,7 +3,8 @@ title: "Vitamin D fights autism - trying to figure out how and why"
 slug: "vitamin-d-fights-autism-trying-to-figure-out-how-and-why"
 aliases:
   - "/Vitamin+D+fights+autism+-+trying+to+figure+out+how+and+why+–+May+2022"
-  - "/tiki-index.php?page_id=13598"
+  - "/13598"
+tiki_page_id: 13598
 date: 2022-05-27
 categories:
   - "Autism"

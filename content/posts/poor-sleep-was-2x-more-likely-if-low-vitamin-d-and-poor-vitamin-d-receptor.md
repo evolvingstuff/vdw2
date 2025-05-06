@@ -3,7 +3,8 @@ title: "Poor sleep was 2X more likely if low Vitamin D and poor Vitamin D recept
 slug: "poor-sleep-was-2x-more-likely-if-low-vitamin-d-and-poor-vitamin-d-receptor"
 aliases:
   - "/Poor+sleep+was+2X+more+likely+if+low+Vitamin+D+and+poor+Vitamin+D+receptor+–+April+2024"
-  - "/tiki-index.php?page_id=15198"
+  - "/15198"
+tiki_page_id: 15198
 date: 2024-04-08
 categories:
   - "Sleep"

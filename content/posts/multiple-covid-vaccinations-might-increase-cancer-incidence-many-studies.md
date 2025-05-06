@@ -3,7 +3,8 @@ title: "Multiple COVID vaccinations might increase Cancer Incidence - many studi
 slug: "multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies"
 aliases:
   - "/Multiple+COVID+vaccinations+might+increase+Cancer+Incidence+-+many+studies"
-  - "/tiki-index.php?page_id=14713"
+  - "/14713"
+tiki_page_id: 14713
 date: 2023-09-29
 categories:
   - "Cancer"

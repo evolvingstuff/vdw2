@@ -3,7 +3,8 @@ title: "Calcifediol (semi-activated Vitamin D) might treat Respiratory Diseases 
 slug: "calcifediol-semi-activated-vitamin-d-might-treat-respiratory-diseases-such-as-covid"
 aliases:
   - "/Calcifediol+semi-activated+Vitamin+D+might+treat+Respiratory+Diseases+such+as+COVID+-+July+2022"
-  - "/tiki-index.php?page_id=13771"
+  - "/13771"
+tiki_page_id: 13771
 date: 2022-07-19
 categories:
   - "Breathing"

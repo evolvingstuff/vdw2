@@ -3,7 +3,8 @@ title: "Dr. McCullough on COVID-19: vaccine problems, home treatment – video, 
 slug: "dr-mccullough-on-covid-19-vaccine-problems-home-treatment-video-slides-transcript-oct-and"
 aliases:
   - "/Dr+McCullough+on+COVID-19+vaccine+problems+home+treatment+–+video+slides+transcript+–+Oct+and+Dec+2021"
-  - "/tiki-index.php?page_id=12961"
+  - "/12961"
+tiki_page_id: 12961
 date: 2021-10-07
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Breast Cancer again associated with low vitamin D – 15th meta-analysis
 slug: "breast-cancer-again-associated-with-low-vitamin-d-15th-meta-analysis"
 aliases:
   - "/Breast+Cancer+again+associated+with+low+vitamin+D+–+15th+meta-analysis+Sept+2020"
-  - "/tiki-index.php?page_id=11984"
+  - "/11984"
+tiki_page_id: 11984
 date: 2020-10-02
 categories:
   - "Cancer - Breast"

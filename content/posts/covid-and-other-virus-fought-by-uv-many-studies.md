@@ -3,7 +3,8 @@ title: "COVID and other Virus fought by UV - many studies"
 slug: "covid-and-other-virus-fought-by-uv-many-studies"
 aliases:
   - "/COVID+and+other+Virus+fought+by+UV+-+many+studies"
-  - "/tiki-index.php?page_id=14292"
+  - "/14292"
+tiki_page_id: 14292
 date: 2023-03-03
 categories:
   - "UV and Vitamin D"

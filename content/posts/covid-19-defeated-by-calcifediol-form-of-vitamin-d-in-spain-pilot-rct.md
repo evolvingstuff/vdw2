@@ -3,7 +3,8 @@ title: "COVID-19 defeated by calcifediol form of Vitamin D in Spain - pilot RCT"
 slug: "covid-19-defeated-by-calcifediol-form-of-vitamin-d-in-spain-pilot-rct"
 aliases:
   - "/COVID-19+defeated+by+calcifediol+form+of+Vitamin+D+in+Spain+-+pilot+RCT+Aug+29+2020"
-  - "/tiki-index.php?page_id=11941"
+  - "/11941"
+tiki_page_id: 11941
 date: 2020-09-07
 categories:
   - "Intervention"

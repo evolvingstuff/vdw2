@@ -3,7 +3,8 @@ title: "Cognition improved in 5 ways after Vitamin D increased to 32 ng (50,000 
 slug: "cognition-improved-in-5-ways-after-vitamin-d-increased-to-32-ng-50000-weekly"
 aliases:
   - "/Cognition+improved+in+5+ways+after+Vitamin+D+increased+to+32+ng+50000+weekly+–+June+2023"
-  - "/tiki-index.php?page_id=14512"
+  - "/14512"
+tiki_page_id: 14512
 date: 2023-07-03
 categories:
   - "Cognitive"

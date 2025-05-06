@@ -3,7 +3,8 @@ title: "Vitamin D helps pregnancies sometimes (10 things wrong with the review)"
 slug: "vitamin-d-helps-pregnancies-sometimes-10-things-wrong-with-the-review"
 aliases:
   - "/Vitamin+D+helps+pregnancies+sometimes+10+things+wrong+with+the+review+–+Jan+2020"
-  - "/tiki-index.php?page_id=11577"
+  - "/11577"
+tiki_page_id: 11577
 date: 2020-01-21
 categories:
   - "Pregnancy"

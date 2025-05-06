@@ -3,7 +3,8 @@ title: "Why dementia gets more severe in the winter"
 slug: "why-dementia-gets-more-severe-in-the-winter"
 aliases:
   - "/Why+dementia+gets+more+severe+in+the+winter+–+Jan+2019"
-  - "/tiki-index.php?page_id=10398"
+  - "/10398"
+tiki_page_id: 10398
 date: 2019-01-14
 categories:
   - "Cognitive"

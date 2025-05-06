@@ -3,7 +3,8 @@ title: "Vitamin K2 fights Breast and some other cancers - many studies"
 slug: "vitamin-k2-fights-breast-and-some-other-cancers-many-studies"
 aliases:
   - "/Vitamin+K2+fights+Breast+and+some+other+cancers+-+many+studies"
-  - "/tiki-index.php?page_id=14368"
+  - "/14368"
+tiki_page_id: 14368
 date: 2023-04-09
 categories:
   - "Cancer"

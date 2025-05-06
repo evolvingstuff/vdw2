@@ -3,7 +3,8 @@ title: "14 Signs You Might Have a Vitamin D Deficiency - Mercola"
 slug: "14-signs-you-might-have-a-vitamin-d-deficiency-mercola"
 aliases:
   - "/14+Signs+You+Might+Have+a+Vitamin+D+Deficiency+-+Mercola+March+2021"
-  - "/tiki-index.php?page_id=12366"
+  - "/12366"
+tiki_page_id: 12366
 date: 2021-03-02
 categories:
   - "Deficiency of Vitamin D"

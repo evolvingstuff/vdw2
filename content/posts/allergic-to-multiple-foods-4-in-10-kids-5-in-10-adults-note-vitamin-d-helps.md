@@ -3,7 +3,8 @@ title: "Allergic to multiple foods: 4 in 10 kids, 5 in 10 adults (note: Vitamin 
 slug: "allergic-to-multiple-foods-4-in-10-kids-5-in-10-adults-note-vitamin-d-helps"
 aliases:
   - "/Allergic+to+multiple+foods+4+in+10+kids+5+in+10+adults+note+Vitamin+D+helps+-+Dec+2022"
-  - "/tiki-index.php?page_id=14195"
+  - "/14195"
+tiki_page_id: 14195
 date: 2023-01-06
 categories:
   - "Virus"

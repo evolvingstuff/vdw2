@@ -3,7 +3,8 @@ title: "Less High Myopia if high vitamin D (Korea)"
 slug: "less-high-myopia-if-high-vitamin-d-korea"
 aliases:
   - "/Less+High+Myopia+if+high+vitamin+D+Korea+–+Jan+2019"
-  - "/tiki-index.php?page_id=10428"
+  - "/10428"
+tiki_page_id: 10428
 date: 2019-01-25
 categories:
   - "Vision"

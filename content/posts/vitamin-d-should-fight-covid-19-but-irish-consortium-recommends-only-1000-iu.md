@@ -3,7 +3,8 @@ title: "Vitamin D should fight COVID-19 (but Irish Consortium recommends only 1,
 slug: "vitamin-d-should-fight-covid-19-but-irish-consortium-recommends-only-1000-iu"
 aliases:
   - "/Vitamin+D+should+fight+COVID-19+but+Irish+Consortium+recommends+only+1000+IU+–+Nov+21+2020"
-  - "/tiki-index.php?page_id=12078"
+  - "/12078"
+tiki_page_id: 12078
 date: 2020-11-21
 categories:
   - "Virus"

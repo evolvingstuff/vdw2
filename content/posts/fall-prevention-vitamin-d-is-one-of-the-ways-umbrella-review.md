@@ -3,7 +3,8 @@ title: "Fall prevention - Vitamin D is one of the ways - umbrella review"
 slug: "fall-prevention-vitamin-d-is-one-of-the-ways-umbrella-review"
 aliases:
   - "/Fall+prevention+-+Vitamin+D+is+one+of+the+ways+-+umbrella+review+Jan+2024"
-  - "/tiki-index.php?page_id=14987"
+  - "/14987"
+tiki_page_id: 14987
 date: 2024-01-20
 categories:
   - "Falls and Fractures"

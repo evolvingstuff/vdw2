@@ -3,7 +3,8 @@ title: "Hospital patients with Vitamin D Deficiency: estimates per 100 vary from
 slug: "hospital-patients-with-vitamin-d-deficiency-estimates-per-100-vary-from-59-to-91-nepal"
 aliases:
   - "/Hospital+patients+with+Vitamin+D+Deficiency+estimates+per+100+vary+from+59+to+91+Nepal"
-  - "/tiki-index.php?page_id=13607"
+  - "/13607"
+tiki_page_id: 13607
 date: 2022-05-28
 categories:
   - "Deficiency of Vitamin D"

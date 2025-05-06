@@ -3,7 +3,8 @@ title: "Lockdown lunacy: The Thinking Person’s Guide"
 slug: "lockdown-lunacy-the-thinking-persons-guide"
 aliases:
   - "/Lockdown+lunacy+The+Thinking+Persons+Guide+–+June+04+2020"
-  - "/tiki-index.php?page_id=11799"
+  - "/11799"
+tiki_page_id: 11799
 date: 2020-06-10
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Air pollution if less of a problem in hypertensives having higher Vitami
 slug: "air-pollution-if-less-of-a-problem-in-hypertensives-having-higher-vitamin-d-levels-uk-biobank"
 aliases:
   - "/Air+pollution+if+less+of+a+problem+in+hypertensives+having+higher+Vitamin+D+levels+UK+Biobank+–+Nov+2022"
-  - "/tiki-index.php?page_id=14160"
+  - "/14160"
+tiki_page_id: 14160
 date: 2022-12-20
 ---
 

@@ -3,7 +3,8 @@ title: "T1 Diabetes increased by 27% by second year of COVID – meta-analysis"
 slug: "t1-diabetes-increased-by-27-percent-by-second-year-of-covid-meta-analysis"
 aliases:
   - "/T1+Diabetes+increased+by+27+by+second+year+of+COVID+–+meta-analysis+June+2023"
-  - "/tiki-index.php?page_id=14506"
+  - "/14506"
+tiki_page_id: 14506
 date: 2023-07-01
 categories:
   - "Diabetes"

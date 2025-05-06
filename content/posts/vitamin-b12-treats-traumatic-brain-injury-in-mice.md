@@ -3,7 +3,8 @@ title: "Vitamin B12 treats Traumatic Brain Injury in mice"
 slug: "vitamin-b12-treats-traumatic-brain-injury-in-mice"
 aliases:
   - "/Vitamin+B12+treats+Traumatic+Brain+Injury+in+mice+–+April+2019"
-  - "/tiki-index.php?page_id=10799"
+  - "/10799"
+tiki_page_id: 10799
 date: 2019-05-21
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Autism 2X more likely if poor Vitamin D Receptor (yet again) – meta-an
 slug: "autism-2x-more-likely-if-poor-vitamin-d-receptor-yet-again-meta-analysis"
 aliases:
   - "/Autism+2X+more+likely+if+poor+Vitamin+D+Receptor+yet+again+–+meta-analysis+Jan+2020"
-  - "/tiki-index.php?page_id=11527"
+  - "/11527"
+tiki_page_id: 11527
 date: 2020-01-05
 categories:
   - "Autism"

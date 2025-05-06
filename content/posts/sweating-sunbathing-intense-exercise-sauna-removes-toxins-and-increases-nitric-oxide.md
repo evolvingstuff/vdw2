@@ -3,7 +3,8 @@ title: "Sweating (sunbathing, intense exercise, sauna) removes toxins and increa
 slug: "sweating-sunbathing-intense-exercise-sauna-removes-toxins-and-increases-nitric-oxide"
 aliases:
   - "/Sweating+sunbathing+intense+exercise+sauna+removes+toxins+and+increases+Nitric+Oxide"
-  - "/tiki-index.php?page_id=10079"
+  - "/10079"
+tiki_page_id: 10079
 date: 2018-09-28
 categories:
   - "Off Topic"

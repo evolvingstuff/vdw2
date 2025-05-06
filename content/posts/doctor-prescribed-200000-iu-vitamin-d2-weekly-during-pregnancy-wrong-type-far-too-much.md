@@ -3,7 +3,8 @@ title: "Doctor prescribed 200,000 IU Vitamin D2 weekly during pregnancy (wrong t
 slug: "doctor-prescribed-200000-iu-vitamin-d2-weekly-during-pregnancy-wrong-type-far-too-much"
 aliases:
   - "/Doctor+prescribed+200000+IU+Vitamin+D2+weekly+during+pregnancy+wrong+type+far+too+much+–+Jan+2019"
-  - "/tiki-index.php?page_id=10369"
+  - "/10369"
+tiki_page_id: 10369
 date: 2019-01-04
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Overview of reviews of COVID-19 and vitamin D, etc."
 slug: "overview-of-reviews-of-covid-19-and-vitamin-d-etc"
 aliases:
   - "/Overview+of+reviews+of+COVID-19+and+vitamin+D+etc+–+April+2021"
-  - "/tiki-index.php?page_id=12488"
+  - "/12488"
+tiki_page_id: 12488
 date: 2021-04-12
 categories:
   - "Deficiency of Vitamin D"

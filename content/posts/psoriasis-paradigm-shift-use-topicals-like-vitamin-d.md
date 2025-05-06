@@ -3,7 +3,8 @@ title: "Psoriasis paradigm shift – use topicals, like Vitamin D"
 slug: "psoriasis-paradigm-shift-use-topicals-like-vitamin-d"
 aliases:
   - "/Psoriasis+paradigm+shift+–+use+topicals+like+Vitamin+D+–+Aug+2021"
-  - "/tiki-index.php?page_id=12845"
+  - "/12845"
+tiki_page_id: 12845
 date: 2021-08-21
 categories:
   - "Psoriasis"

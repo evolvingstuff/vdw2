@@ -3,7 +3,8 @@ title: "Childhood colds reduced 25 percent by weekly Vitamin D – RCT"
 slug: "childhood-colds-reduced-25-percent-by-weekly-vitamin-d-rct"
 aliases:
   - "/Childhood+colds+reduced+25+percent+by+weekly+Vitamin+D+–+RCT+Jan+2019"
-  - "/tiki-index.php?page_id=10375"
+  - "/10375"
+tiki_page_id: 10375
 date: 2019-01-05
 categories:
   - "Breathing"

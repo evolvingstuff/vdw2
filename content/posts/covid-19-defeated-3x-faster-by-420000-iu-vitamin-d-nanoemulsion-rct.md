@@ -3,7 +3,8 @@ title: "COVID-19 defeated 3x faster by 420,000 IU Vitamin D nanoemulsion – RCT
 slug: "covid-19-defeated-3x-faster-by-420000-iu-vitamin-d-nanoemulsion-rct"
 aliases:
   - "/COVID-19+defeated+3x+faster+by+420000+IU+Vitamin+D+nanoemulsion+–+RCT+Nov+12+2020"
-  - "/tiki-index.php?page_id=12064"
+  - "/12064"
+tiki_page_id: 12064
 date: 2020-11-13
 categories:
   - "Loading dose for Vitamin D"

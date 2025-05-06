@@ -3,7 +3,8 @@ title: "Immune system is better fortified by nano forms of Vitamin D, Vit C, Vit
 slug: "immune-system-is-better-fortified-by-nano-forms-of-vitamin-d-vit-c-vit-b12-omega-3-resveratrol-etc"
 aliases:
   - "/Immune+system+is+better+fortified+by+nano+forms+of+Vitamin+D+Vit+C+Vit+B12+Omega-3+resveratrol+etc+-+March+2021"
-  - "/tiki-index.php?page_id=12412"
+  - "/12412"
+tiki_page_id: 12412
 date: 2021-03-16
 categories:
   - "Immunity"

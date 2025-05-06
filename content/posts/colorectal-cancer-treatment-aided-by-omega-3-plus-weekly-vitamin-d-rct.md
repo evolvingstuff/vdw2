@@ -3,7 +3,8 @@ title: "Colorectal Cancer treatment aided by omega-3 plus weekly Vitamin D – R
 slug: "colorectal-cancer-treatment-aided-by-omega-3-plus-weekly-vitamin-d-rct"
 aliases:
   - "/Colorectal+Cancer+treatment+aided+by+omega-3+plus+weekly+Vitamin+D+–+RCT+Sept+2019"
-  - "/tiki-index.php?page_id=11130"
+  - "/11130"
+tiki_page_id: 11130
 date: 2019-09-06
 categories:
   - "Cancer - Colon"

@@ -3,7 +3,8 @@ title: "COVID Virus kept mutating for 154 days in an immunocompromised person"
 slug: "covid-virus-kept-mutating-for-154-days-in-an-immunocompromised-person"
 aliases:
   - "/COVID+Virus+kept+mutating+for+154+days+in+an+immunocompromised+person+–+Dec+2020"
-  - "/tiki-index.php?page_id=13116"
+  - "/13116"
+tiki_page_id: 13116
 date: 2021-11-27
 categories:
   - "Virus"

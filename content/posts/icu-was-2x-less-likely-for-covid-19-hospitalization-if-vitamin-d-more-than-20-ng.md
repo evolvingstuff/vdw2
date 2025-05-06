@@ -3,7 +3,8 @@ title: "ICU was 2X less likely for COVID-19 hospitalization if Vitamin D more th
 slug: "icu-was-2x-less-likely-for-covid-19-hospitalization-if-vitamin-d-more-than-20-ng"
 aliases:
   - "/ICU+was+2X+less+likely+for+COVID-19+hospitalization+if+Vitamin+D+more+than+20+ng+–+July+2020"
-  - "/tiki-index.php?page_id=11827"
+  - "/11827"
+tiki_page_id: 11827
 date: 2020-07-06
 categories:
   - "Trauma and surgery"

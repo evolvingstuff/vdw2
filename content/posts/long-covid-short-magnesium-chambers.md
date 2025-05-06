@@ -3,7 +3,8 @@ title: "Long Covid, Short Magnesium - Chambers"
 slug: "long-covid-short-magnesium-chambers"
 aliases:
   - "/Long+Covid+Short+Magnesium+-+Chambers+April+2022"
-  - "/tiki-index.php?page_id=13452"
+  - "/13452"
+tiki_page_id: 13452
 date: 2022-04-05
 categories:
   - "Vitamin D and Magnesium"

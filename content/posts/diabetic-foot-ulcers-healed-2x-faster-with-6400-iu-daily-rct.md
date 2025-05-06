@@ -3,7 +3,8 @@ title: "Diabetic foot ulcers healed 2X faster with 6,400 IU daily - RCT"
 slug: "diabetic-foot-ulcers-healed-2x-faster-with-6400-iu-daily-rct"
 aliases:
   - "/Diabetic+foot+ulcers+healed+2X+faster+with+6400+IU+daily+-+RCT+June+2021"
-  - "/tiki-index.php?page_id=12726"
+  - "/12726"
+tiki_page_id: 12726
 date: 2021-07-08
 ---
 

@@ -3,7 +3,8 @@ title: "Many Neurological Diseases fought by Vitamin D"
 slug: "many-neurological-diseases-fought-by-vitamin-d"
 aliases:
   - "/Many+Neurological+Diseases+fought+by+Vitamin+D+-+Dec+2022"
-  - "/tiki-index.php?page_id=14786"
+  - "/14786"
+tiki_page_id: 14786
 date: 2023-10-26
 categories:
   - "Multiple Sclerosis"

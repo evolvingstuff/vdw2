@@ -3,7 +3,8 @@ title: "4.8 X more likely to die within 28 days of ICU if low Vitamin D"
 slug: "48-x-more-likely-to-die-within-28-days-of-icu-if-low-vitamin-d"
 aliases:
   - "/48+X+more+likely+to+die+within+28+days+of+ICU+if+low+Vitamin+D+-+Jan+2024"
-  - "/tiki-index.php?page_id=14958"
+  - "/14958"
+tiki_page_id: 14958
 date: 2024-01-10
 categories:
   - "Mortality and D"

@@ -3,7 +3,8 @@ title: "COVID Long-Haul NYT"
 slug: "covid-long-haul-nyt"
 aliases:
   - "/COVID+Long-Haul+NYT+-+Feb+2022"
-  - "/tiki-index.php?page_id=13345"
+  - "/13345"
+tiki_page_id: 13345
 date: 2022-02-19
 categories:
   - "Virus"

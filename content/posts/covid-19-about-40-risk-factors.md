@@ -3,7 +3,8 @@ title: "COVID-19 - about 40 risk factors"
 slug: "covid-19-about-40-risk-factors"
 aliases:
   - "/COVID-19+-+about+40+risk+factors+-+March+2021"
-  - "/tiki-index.php?page_id=12413"
+  - "/12413"
+tiki_page_id: 12413
 date: 2021-03-16
 categories:
   - "Top news"

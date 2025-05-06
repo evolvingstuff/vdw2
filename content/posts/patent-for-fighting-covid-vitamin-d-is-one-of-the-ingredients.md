@@ -3,7 +3,8 @@ title: "Patent for fighting COVID - Vitamin D is one of the ingredients"
 slug: "patent-for-fighting-covid-vitamin-d-is-one-of-the-ingredients"
 aliases:
   - "/Patent+for+fighting+COVID+-+Vitamin+D+is+one+of+the+ingredients+-+Nov+2022"
-  - "/tiki-index.php?page_id=14732"
+  - "/14732"
+tiki_page_id: 14732
 date: 2023-10-07
 categories:
   - "Patent"

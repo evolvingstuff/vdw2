@@ -3,7 +3,8 @@ title: "Pesticides 8 X less likely to result in female infertility if take vitam
 slug: "pesticides-8-x-less-likely-to-result-in-female-infertility-if-take-vitamin-d"
 aliases:
   - "/Pesticides+8+X+less+likely+to+result+in+female+infertility+if+take+vitamin+D+–+Sept+2023"
-  - "/tiki-index.php?page_id=14680"
+  - "/14680"
+tiki_page_id: 14680
 date: 2023-09-13
 categories:
   - "Interactions with Vitamin D"

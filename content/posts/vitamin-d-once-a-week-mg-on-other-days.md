@@ -3,7 +3,8 @@ title: "Vitamin D once a week, Mg on other days"
 slug: "vitamin-d-once-a-week-mg-on-other-days"
 aliases:
   - "/Vitamin+D+once+a+week+Mg+on+other+days"
-  - "/tiki-index.php?page_id=14120"
+  - "/14120"
+tiki_page_id: 14120
 date: 2022-11-29
 categories:
   - "Admin Only"

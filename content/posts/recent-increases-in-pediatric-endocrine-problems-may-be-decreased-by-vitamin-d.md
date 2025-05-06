@@ -3,7 +3,8 @@ title: "Recent increases in pediatric endocrine problems may be decreased by Vit
 slug: "recent-increases-in-pediatric-endocrine-problems-may-be-decreased-by-vitamin-d"
 aliases:
   - "/Recent+increases+in+pediatric+endocrine+problems+may+be+decreased+by+Vitamin+D+–+Aug+2022"
-  - "/tiki-index.php?page_id=13852"
+  - "/13852"
+tiki_page_id: 13852
 date: 2022-08-22
 categories:
   - "Obesity"

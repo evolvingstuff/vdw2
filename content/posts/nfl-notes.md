@@ -3,7 +3,8 @@ title: "NFL notes"
 slug: "nfl-notes"
 aliases:
   - "/NFL+notes"
-  - "/tiki-index.php?page_id=11962"
+  - "/11962"
+tiki_page_id: 11962
 date: 2020-09-19
 categories:
   - "Admin Only"

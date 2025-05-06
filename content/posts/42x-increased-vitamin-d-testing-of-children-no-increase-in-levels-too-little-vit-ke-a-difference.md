@@ -3,7 +3,8 @@ title: "42X increased vitamin D testing of children, no increase in levels (too 
 slug: "42x-increased-vitamin-d-testing-of-children-no-increase-in-levels-too-little-vit-ke-a-difference"
 aliases:
   - "/42X+increased+vitamin+D+testing+of+children+no+increase+in+levels+too+little+vitamin+D+prescribed+to+make+a+difference+–+July+2021"
-  - "/tiki-index.php?page_id=12759"
+  - "/12759"
+tiki_page_id: 12759
 date: 2021-07-23
 categories:
   - "Tests for Vitamin D"

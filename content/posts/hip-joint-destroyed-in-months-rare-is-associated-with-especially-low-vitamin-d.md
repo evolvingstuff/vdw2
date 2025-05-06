@@ -3,7 +3,8 @@ title: "Hip joint destroyed in months (rare) is associated with especially low V
 slug: "hip-joint-destroyed-in-months-rare-is-associated-with-especially-low-vitamin-d"
 aliases:
   - "/Hip+joint+destroyed+in+months+rare+is+associated+with+especially+low+Vitamin+D+–+Feb+2024"
-  - "/tiki-index.php?page_id=15089"
+  - "/15089"
+tiki_page_id: 15089
 date: 2024-02-29
 categories:
   - "Osteoporosis"

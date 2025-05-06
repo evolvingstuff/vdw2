@@ -3,7 +3,8 @@ title: "Dementia 1.35 X more-likely if poor diet"
 slug: "dementia-135-x-more-likely-if-poor-diet"
 aliases:
   - "/Dementia+135+X+more-likely+if+poor+diet+–+Oct+2022"
-  - "/tiki-index.php?page_id=14008"
+  - "/14008"
+tiki_page_id: 14008
 date: 2022-10-13
 categories:
   - "Cognitive"

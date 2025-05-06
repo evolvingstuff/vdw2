@@ -3,7 +3,8 @@ title: "250,000 FREE bottles of vitamin D to fight COVID-19 by Dr. Murray at iHe
 slug: "250000-free-bottles-of-vitamin-d-to-fight-covid-19-by-dr-murray-at-iherb"
 aliases:
   - "/250000+FREE+bottles+of+vitamin+D+to+fight+COVID-19+by+Dr+Murray+at+iHerb+–+March+3+2021"
-  - "/tiki-index.php?page_id=12374"
+  - "/12374"
+tiki_page_id: 12374
 date: 2021-03-03
 categories:
   - "Virus"

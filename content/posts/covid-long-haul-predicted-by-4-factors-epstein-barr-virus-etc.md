@@ -3,7 +3,8 @@ title: "COVID Long-Haul predicted by 4 factors (Epstein-Barr virus, etc)"
 slug: "covid-long-haul-predicted-by-4-factors-epstein-barr-virus-etc"
 aliases:
   - "/COVID+Long-Haul+predicted+by+4+factors+Epstein-Barr+virus+etc+–+Jan+24+2022"
-  - "/tiki-index.php?page_id=13286"
+  - "/13286"
+tiki_page_id: 13286
 date: 2022-01-26
 categories:
   - "Virus"

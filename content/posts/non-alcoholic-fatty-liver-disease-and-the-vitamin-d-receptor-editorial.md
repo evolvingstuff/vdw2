@@ -3,7 +3,8 @@ title: "Non-alcoholic fatty liver disease and the Vitamin D Receptor – editori
 slug: "non-alcoholic-fatty-liver-disease-and-the-vitamin-d-receptor-editorial"
 aliases:
   - "/Non-alcoholic+fatty+liver+disease+and+the+Vitamin+D+Receptor+–+editorial+Sept+2019"
-  - "/tiki-index.php?page_id=11180"
+  - "/11180"
+tiki_page_id: 11180
 date: 2019-09-29
 categories:
   - "Liver"

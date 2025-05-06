@@ -3,7 +3,8 @@ title: "Preemies with pneumonia infection have especially low vitamin D levels (
 slug: "preemies-with-pneumonia-infection-have-especially-low-vitamin-d-levels-12-ng"
 aliases:
   - "/Preemies+with+pneumonia+infection+have+especially+low+vitamin+D+levels+12+ng+–+May+2023"
-  - "/tiki-index.php?page_id=14441"
+  - "/14441"
+tiki_page_id: 14441
 date: 2023-05-23
 categories:
   - "Infant-Child"

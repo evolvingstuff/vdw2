@@ -3,7 +3,8 @@ title: "Fast responses to Vitamin D – loading dose, nanoemulsion and Calcifedi
 slug: "fast-responses-to-vitamin-d-loading-dose-nanoemulsion-and-calcifediol"
 aliases:
   - "/Fast+responses+to+Vitamin+D+–+loading+dose+nanoemulsion+and+Calcifediol+–+April+2023"
-  - "/tiki-index.php?page_id=14382"
+  - "/14382"
+tiki_page_id: 14382
 date: 2023-04-15
 categories:
   - "Calcidiol"

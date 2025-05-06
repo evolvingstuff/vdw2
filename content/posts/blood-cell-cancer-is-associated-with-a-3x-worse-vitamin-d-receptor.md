@@ -3,7 +3,8 @@ title: "Blood cell cancer is associated with a 3X worse Vitamin D Receptor"
 slug: "blood-cell-cancer-is-associated-with-a-3x-worse-vitamin-d-receptor"
 aliases:
   - "/Blood+cell+cancer+is+associated+with+a+3X+worse+Vitamin+D+Receptor+–+June+2019"
-  - "/tiki-index.php?page_id=10867"
+  - "/10867"
+tiki_page_id: 10867
 date: 2019-06-13
 categories:
   - "Cancer - Other"

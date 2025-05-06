@@ -3,7 +3,8 @@ title: "COVID-19 inflammation extinguished by 60,000 IU of vitamin D nanoemulsio
 slug: "covid-19-inflammation-extinguished-by-60000-iu-of-vitamin-d-nanoemulsion-daily-for-a-week-rct"
 aliases:
   - "/COVID-19+inflammation+extinguished+by+60000+IU+of+vitamin+D+nanoemulsion+daily+for+a+week+–+RCT+May+2021"
-  - "/tiki-index.php?page_id=12596"
+  - "/12596"
+tiki_page_id: 12596
 date: 2021-05-22
 categories:
   - "Deficiency of Vitamin D"

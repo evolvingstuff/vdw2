@@ -3,7 +3,8 @@ title: "Breast cancer 36 percent less likely for each 4 ng increase in vitamin D
 slug: "breast-cancer-36-percent-less-likely-for-each-4-ng-increase-in-vitamin-d"
 aliases:
   - "/Breast+cancer+36+percent+less+likely+for+each+4+ng+increase+in+vitamin+D+–+Sept+2018"
-  - "/tiki-index.php?page_id=10123"
+  - "/10123"
+tiki_page_id: 10123
 date: 2018-10-15
 categories:
   - "Cancer - Breast"

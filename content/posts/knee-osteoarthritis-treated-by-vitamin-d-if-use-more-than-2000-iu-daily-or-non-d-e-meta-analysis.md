@@ -3,7 +3,8 @@ title: "Knee Osteoarthritis treated by vitamin D if use more than 2,000 IU daily
 slug: "knee-osteoarthritis-treated-by-vitamin-d-if-use-more-than-2000-iu-daily-or-non-d-e-meta-analysis"
 aliases:
   - "/Knee+Osteoarthritis+treated+by+vitamin+D+if+use+more+than+2000+IU+daily+or+non-daily+high+dose+–+meta-analysis+Aug+2023"
-  - "/tiki-index.php?page_id=14624"
+  - "/14624"
+tiki_page_id: 14624
 date: 2023-08-21
 categories:
   - "Meta-analysis of Vitamin D"

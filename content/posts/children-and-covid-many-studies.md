@@ -3,7 +3,8 @@ title: "Children and COVID - many studies"
 slug: "children-and-covid-many-studies"
 aliases:
   - "/Children+and+COVID+-+many+studies"
-  - "/tiki-index.php?page_id=12903"
+  - "/12903"
+tiki_page_id: 12903
 date: 2021-09-19
 categories:
   - "Infant-Child"

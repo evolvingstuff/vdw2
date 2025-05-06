@@ -3,7 +3,8 @@ title: "Nature deficiency leads to disease (less sun, less Vitamin d)"
 slug: "nature-deficiency-leads-to-disease-less-sun-less-vitamin-d"
 aliases:
   - "/Nature+deficiency+leads+to+disease+less+sun+less+Vitamin+d+–+Feb+2019"
-  - "/tiki-index.php?page_id=10505"
+  - "/10505"
+tiki_page_id: 10505
 date: 2019-02-20
 categories:
   - "Noontime sun and D"

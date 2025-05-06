@@ -3,7 +3,8 @@ title: "Need 2X Vitamin D and other micronutrients if eat 2X more calories"
 slug: "need-2x-vitamin-d-and-other-micronutrients-if-eat-2x-more-calories"
 aliases:
   - "/Need+2X+Vitamin+D+and+other+micronutrients+if+eat+2X+more+calories+–+Jan+2024"
-  - "/tiki-index.php?page_id=14915"
+  - "/14915"
+tiki_page_id: 14915
 date: 2023-12-24
 categories:
   - "How, when to take Vit. D"

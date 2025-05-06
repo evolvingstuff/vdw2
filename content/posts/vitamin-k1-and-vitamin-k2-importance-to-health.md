@@ -3,7 +3,8 @@ title: "Vitamin K1 and Vitamin K2 importance to health"
 slug: "vitamin-k1-and-vitamin-k2-importance-to-health"
 aliases:
   - "/Vitamin+K1+and+Vitamin+K2+importance+to+health+–+Feb+2019"
-  - "/tiki-index.php?page_id=10518"
+  - "/10518"
+tiki_page_id: 10518
 date: 2019-02-23
 categories:
   - "Vitamin D and Vitamin K"

@@ -3,7 +3,8 @@ title: "Hair loss is increased by stress: example 4X increase by COVID (hint: Vi
 slug: "hair-loss-is-increased-by-stress-example-4x-increase-by-covid-hint-vitamin-d"
 aliases:
   - "/Hair+loss+is+increased+by+stress+example+4X+increase+by+COVID+hint+Vitamin+D+–+Sept+2022"
-  - "/tiki-index.php?page_id=13958"
+  - "/13958"
+tiki_page_id: 13958
 date: 2022-09-30
 categories:
   - "Virus"

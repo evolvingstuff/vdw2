@@ -3,7 +3,8 @@ title: "Test code vs custom Search"
 slug: "test-code-vs-custom-search"
 aliases:
   - "/Test+code+vs+custom+Search"
-  - "/tiki-index.php?page_id=10926"
+  - "/10926"
+tiki_page_id: 10926
 date: 2019-06-26
 categories:
   - "Admin Only"

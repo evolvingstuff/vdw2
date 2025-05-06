@@ -3,7 +3,8 @@ title: "Telomeres and Vitamin D - many studies"
 slug: "telomeres-and-vitamin-d-many-studies"
 aliases:
   - "/Telomeres+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14555"
+  - "/14555"
+tiki_page_id: 14555
 date: 2023-07-24
 categories:
   - "Genetics"

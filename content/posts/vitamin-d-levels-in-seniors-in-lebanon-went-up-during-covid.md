@@ -3,7 +3,8 @@ title: "Vitamin D levels in seniors in Lebanon went up during COVID"
 slug: "vitamin-d-levels-in-seniors-in-lebanon-went-up-during-covid"
 aliases:
   - "/Vitamin+D+levels+in+seniors+in+Lebanon+went+up+during+COVID+–+Aug+2023"
-  - "/tiki-index.php?page_id=14621"
+  - "/14621"
+tiki_page_id: 14621
 date: 2023-08-20
 ---
 

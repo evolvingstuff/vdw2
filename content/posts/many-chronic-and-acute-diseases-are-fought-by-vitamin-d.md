@@ -3,7 +3,8 @@ title: "Many chronic and acute diseases are fought by Vitamin D"
 slug: "many-chronic-and-acute-diseases-are-fought-by-vitamin-d"
 aliases:
   - "/Many+chronic+and+acute+diseases+are+fought+by+Vitamin+D+–+June+2022"
-  - "/tiki-index.php?page_id=13646"
+  - "/13646"
+tiki_page_id: 13646
 date: 2022-06-07
 ---
 

@@ -3,7 +3,8 @@ title: "2 Vaccinations provided no protection against Omicron infection 6 months
 slug: "2-vaccinations-provided-no-protection-against-omicron-infection-6-months-later-n-d-j-of-medicine"
 aliases:
   - "/2+Vaccinations+provided+no+protection+against+Omicron+infection+6+months+later+–+New+England+J+of+Medicine+–+June+2022"
-  - "/tiki-index.php?page_id=13710"
+  - "/13710"
+tiki_page_id: 13710
 date: 2022-06-24
 categories:
   - "Virus"

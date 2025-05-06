@@ -3,7 +3,8 @@ title: "Senior Cognition not improved by 2,000 IU Vitamin D avg.- RCT"
 slug: "senior-cognition-not-improved-by-2000-iu-vitamin-d-avg-rct"
 aliases:
   - "/Senior+Cognition+not+improved+by+2000+IU+Vitamin+D+avg-+RCT+Aug+2023"
-  - "/tiki-index.php?page_id=14635"
+  - "/14635"
+tiki_page_id: 14635
 date: 2023-08-26
 categories:
   - "Seniors"

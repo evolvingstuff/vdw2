@@ -3,7 +3,8 @@ title: "Depression in seniors greatly reduced by Vitamin D (e.g. 50,000 IU) – 
 slug: "depression-in-seniors-greatly-reduced-by-vitamin-d-eg-50000-iu-meta-analysis"
 aliases:
   - "/Depression+in+seniors+greatly+reduced+by+Vitamin+D+eg+50000+IU+–+meta-analysis+June+2023"
-  - "/tiki-index.php?page_id=14522"
+  - "/14522"
+tiki_page_id: 14522
 date: 2023-07-07
 categories:
   - "Seniors"

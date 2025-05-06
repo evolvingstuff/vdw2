@@ -3,7 +3,8 @@ title: "Newsweek editorial on Excess Deaths and Disabilities - Oct, 2023"
 slug: "newsweek-editorial-on-excess-deaths-and-disabilities-oct-2023"
 aliases:
   - "/Newsweek+editorial+on+Excess+Deaths+and+Disabilities+-+Oct+2023"
-  - "/tiki-index.php?page_id=14788"
+  - "/14788"
+tiki_page_id: 14788
 date: 2023-10-27
 categories:
   - "Virus"

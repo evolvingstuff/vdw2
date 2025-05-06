@@ -3,7 +3,8 @@ title: "The Role of Vitamin D in Supporting Health in the COVID-19 Era"
 slug: "the-role-of-vitamin-d-in-supporting-health-in-the-covid-19-era"
 aliases:
   - "/The+Role+of+Vitamin+D+in+Supporting+Health+in+the+COVID-19+Era+–+March+25+2022"
-  - "/tiki-index.php?page_id=13431"
+  - "/13431"
+tiki_page_id: 13431
 date: 2022-03-25
 categories:
   - "Virus"

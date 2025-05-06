@@ -3,7 +3,8 @@ title: "Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis
 slug: "asthma-occurrence-rate-reduced-3x-by-vitamin-d-8-study-meta-analysis"
 aliases:
   - "/Asthma+occurrence+rate+reduced+3X+by+Vitamin+D+–+8+study+meta-analysis+-+Aug+2021"
-  - "/tiki-index.php?page_id=12809"
+  - "/12809"
+tiki_page_id: 12809
 date: 2021-08-06
 categories:
   - "Breathing"

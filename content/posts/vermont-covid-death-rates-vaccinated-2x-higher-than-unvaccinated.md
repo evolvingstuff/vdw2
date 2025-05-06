@@ -3,7 +3,8 @@ title: "Vermont COVID death rates: vaccinated 2X higher than unvaccinated"
 slug: "vermont-covid-death-rates-vaccinated-2x-higher-than-unvaccinated"
 aliases:
   - "/Vermont+COVID+death+rates+vaccinated+2X+higher+than+unvaccinated+-+Dec+2021"
-  - "/tiki-index.php?page_id=13175"
+  - "/13175"
+tiki_page_id: 13175
 date: 2021-12-12
 categories:
   - "Virus"

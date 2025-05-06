@@ -3,7 +3,8 @@ title: "Giving Vitamin D often reduced COVID Mortality– Review of 11 studies"
 slug: "giving-vitamin-d-often-reduced-covid-mortality-review-of-11-studies"
 aliases:
   - "/Giving+Vitamin+D+often+reduced+COVID+Mortality–+Review+of+11+studies+–+March+2022"
-  - "/tiki-index.php?page_id=13390"
+  - "/13390"
+tiki_page_id: 13390
 date: 2022-03-12
 ---
 

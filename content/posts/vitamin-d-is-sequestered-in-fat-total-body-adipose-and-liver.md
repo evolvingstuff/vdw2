@@ -3,7 +3,8 @@ title: "Vitamin D is sequestered in Fat: total body, adipose, and liver"
 slug: "vitamin-d-is-sequestered-in-fat-total-body-adipose-and-liver"
 aliases:
   - "/Vitamin+D+is+sequestered+in+Fat+total+body+adipose+and+liver+–+Dec+2018"
-  - "/tiki-index.php?page_id=10397"
+  - "/10397"
+tiki_page_id: 10397
 date: 2019-01-13
 categories:
   - "Liver"

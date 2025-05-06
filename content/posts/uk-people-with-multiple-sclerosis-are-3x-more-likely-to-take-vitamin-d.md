@@ -3,7 +3,8 @@ title: "UK people with Multiple Sclerosis are 3X more likely to take Vitamin D"
 slug: "uk-people-with-multiple-sclerosis-are-3x-more-likely-to-take-vitamin-d"
 aliases:
   - "/UK+people+with+Multiple+Sclerosis+are+3X+more+likely+to+take+Vitamin+D+-+Oct+2020"
-  - "/tiki-index.php?page_id=12014"
+  - "/12014"
+tiki_page_id: 12014
 date: 2020-10-18
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "Coronavirus Variant Tracker"
 slug: "coronavirus-variant-tracker"
 aliases:
   - "/Coronavirus+Variant+Tracker"
-  - "/tiki-index.php?page_id=12467"
+  - "/12467"
+tiki_page_id: 12467
 date: 2021-04-02
 categories:
   - "Virus"

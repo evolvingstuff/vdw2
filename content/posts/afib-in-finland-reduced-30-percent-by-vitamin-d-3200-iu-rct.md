@@ -3,7 +3,8 @@ title: "Afib in Finland reduced 30% by Vitamin D (3200 IU) – RCT"
 slug: "afib-in-finland-reduced-30-percent-by-vitamin-d-3200-iu-rct"
 aliases:
   - "/Afib+in+Finland+reduced+30+by+Vitamin+D+3200+IU+–+RCT+June+2023"
-  - "/tiki-index.php?page_id=14502"
+  - "/14502"
+tiki_page_id: 14502
 date: 2023-06-30
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Low Vitamin D Levels Worsen COVID-19: Facts and Imperatives - Pfleger"
 slug: "low-vitamin-d-levels-worsen-covid-19-facts-and-imperatives-pfleger"
 aliases:
   - "/Low+Vitamin+D+Levels+Worsen+COVID-19+Facts+and+Imperatives+-+Pfleger+July+2020"
-  - "/tiki-index.php?page_id=11867"
+  - "/11867"
+tiki_page_id: 11867
 date: 2020-07-27
 categories:
   - "Virus"

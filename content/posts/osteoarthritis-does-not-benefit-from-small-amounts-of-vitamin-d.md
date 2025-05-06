@@ -3,7 +3,8 @@ title: "Osteoarthritis does not benefit from small amounts of vitamin D"
 slug: "osteoarthritis-does-not-benefit-from-small-amounts-of-vitamin-d"
 aliases:
   - "/Osteoarthritis+does+not+benefit+from+small+amounts+of+vitamin+D"
-  - "/tiki-index.php?page_id=10653"
+  - "/10653"
+tiki_page_id: 10653
 date: 2019-04-10
 categories:
   - "Osteoarthritis"

@@ -3,7 +3,8 @@ title: "Influenza infection 5X less likely if got vitamin D – small RCT"
 slug: "influenza-infection-5x-less-likely-if-got-vitamin-d-small-rct"
 aliases:
   - "/Influenza+infection+5X+less+likely+if+got+vitamin+D+–+small+RCT+Feb+2022"
-  - "/tiki-index.php?page_id=13537"
+  - "/13537"
+tiki_page_id: 13537
 date: 2022-05-02
 categories:
   - "Virus"

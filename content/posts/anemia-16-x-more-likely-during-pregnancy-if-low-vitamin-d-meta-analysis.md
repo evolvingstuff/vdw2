@@ -3,7 +3,8 @@ title: "Anemia 1.6 X more likely during pregnancy if low Vitamin D – meta-anal
 slug: "anemia-16-x-more-likely-during-pregnancy-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Anemia+16+X+more+likely+during+pregnancy+if+low+Vitamin+D+–+meta-analysis+Dec+2021"
-  - "/tiki-index.php?page_id=13236"
+  - "/13236"
+tiki_page_id: 13236
 date: 2022-01-02
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "My Life as a Vitamin D Researcher – Dr. Grant"
 slug: "my-life-as-a-vitamin-d-researcher-dr-grant"
 aliases:
   - "/My+Life+as+a+Vitamin+D+Researcher+–+Dr+Grant+Feb+2023"
-  - "/tiki-index.php?page_id=14273"
+  - "/14273"
+tiki_page_id: 14273
 date: 2023-02-18
 ---
 

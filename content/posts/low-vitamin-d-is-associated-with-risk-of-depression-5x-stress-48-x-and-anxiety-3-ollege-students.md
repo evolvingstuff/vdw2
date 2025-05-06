@@ -3,7 +3,8 @@ title: "Low Vitamin D is associated with risk of Depression 5X, Stress 4.8 X, an
 slug: "low-vitamin-d-is-associated-with-risk-of-depression-5x-stress-48-x-and-anxiety-3-ollege-students"
 aliases:
   - "/Low+Vitamin+D+is+associated+with+risk+of+Depression+5X+Stress+48+X+and+Anxiety+39+X+Saudi+Arabia+college+students+–+July+2023"
-  - "/tiki-index.php?page_id=14570"
+  - "/14570"
+tiki_page_id: 14570
 date: 2023-07-29
 categories:
   - "Depression"

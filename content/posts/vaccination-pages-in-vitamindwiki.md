@@ -3,7 +3,8 @@ title: "Vaccination pages in VitaminDWiki"
 slug: "vaccination-pages-in-vitamindwiki"
 aliases:
   - "/Vaccination+pages+in+VitaminDWiki"
-  - "/tiki-index.php?page_id=13851"
+  - "/13851"
+tiki_page_id: 13851
 date: 2022-08-21
 categories:
   - "Virus"

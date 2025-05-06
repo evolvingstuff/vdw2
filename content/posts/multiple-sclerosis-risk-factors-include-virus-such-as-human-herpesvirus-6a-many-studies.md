@@ -3,7 +3,8 @@ title: "Multiple Sclerosis Risk factors include virus such as Human Herpesvirus 
 slug: "multiple-sclerosis-risk-factors-include-virus-such-as-human-herpesvirus-6a-many-studies"
 aliases:
   - "/Multiple+Sclerosis+Risk+factors+include+virus+such+as+Human+Herpesvirus+6A+–+many+studies"
-  - "/tiki-index.php?page_id=13359"
+  - "/13359"
+tiki_page_id: 13359
 date: 2022-02-28
 categories:
   - "Multiple Sclerosis"

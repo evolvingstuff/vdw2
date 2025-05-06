@@ -3,7 +3,8 @@ title: "9X COVID-19 survival in nursing home if had 80,000 IU dose of vitamin D 
 slug: "9x-covid-19-survival-in-nursing-home-if-had-80000-iu-dose-of-vitamin-d-in-previous-month"
 aliases:
   - "/9X+COVID-19+survival+in+nursing+home+if+had+80000+IU+dose+of+vitamin+D+in+previous+month+–+Oct+2020"
-  - "/tiki-index.php?page_id=12010"
+  - "/12010"
+tiki_page_id: 12010
 date: 2020-10-16
 categories:
   - "Seniors"

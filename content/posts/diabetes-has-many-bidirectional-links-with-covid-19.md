@@ -3,7 +3,8 @@ title: "Diabetes has many bidirectional links with COVID-19"
 slug: "diabetes-has-many-bidirectional-links-with-covid-19"
 aliases:
   - "/Diabetes+has+many+bidirectional+links+with+COVID-19+–+March+2021"
-  - "/tiki-index.php?page_id=12452"
+  - "/12452"
+tiki_page_id: 12452
 date: 2021-03-30
 categories:
   - "Diabetes"

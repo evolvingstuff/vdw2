@@ -3,7 +3,8 @@ title: "Children 41X more likely to be vitamin D deficient if both parents were 
 slug: "children-41x-more-likely-to-be-vitamin-d-deficient-if-both-parents-were-deficient"
 aliases:
   - "/Children+41X+more+likely+to+be+vitamin+D+deficient+if+both+parents+were+deficient+–+Dec+2018"
-  - "/tiki-index.php?page_id=11069"
+  - "/11069"
+tiki_page_id: 11069
 date: 2019-08-14
 categories:
   - "High Risk"

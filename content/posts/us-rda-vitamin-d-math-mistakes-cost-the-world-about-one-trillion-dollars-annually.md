@@ -3,7 +3,8 @@ title: "US RDA Vitamin D math mistakes cost the world about one Trillion dollars
 slug: "us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually"
 aliases:
   - "/US+RDA+Vitamin+D+math+mistakes+cost+the+world+about+one+Trillion+dollars+annually"
-  - "/tiki-index.php?page_id=15149"
+  - "/15149"
+tiki_page_id: 15149
 date: 2024-03-18
 categories:
   - "How much Vitamin D"

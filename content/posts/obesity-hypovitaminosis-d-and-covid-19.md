@@ -3,7 +3,8 @@ title: "Obesity, Hypovitaminosis D, and COVID-19"
 slug: "obesity-hypovitaminosis-d-and-covid-19"
 aliases:
   - "/Obesity+Hypovitaminosis+D+and+COVID-19+–+April+2022"
-  - "/tiki-index.php?page_id=13461"
+  - "/13461"
+tiki_page_id: 13461
 date: 2022-04-08
 categories:
   - "Obesity"

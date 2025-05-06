@@ -3,7 +3,8 @@ title: "Some clinical trials should change due to COVID-19 (cancer in this case)
 slug: "some-clinical-trials-should-change-due-to-covid-19-cancer-in-this-case"
 aliases:
   - "/Some+clinical+trials+should+change+due+to+COVID-19+cancer+in+this+case+–+April+2020"
-  - "/tiki-index.php?page_id=11724"
+  - "/11724"
+tiki_page_id: 11724
 date: 2020-04-10
 ---
 

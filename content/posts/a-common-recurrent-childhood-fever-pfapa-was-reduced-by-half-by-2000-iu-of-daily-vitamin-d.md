@@ -3,7 +3,8 @@ title: "A common recurrent childhood fever (PFAPA) was reduced by half by 2000 I
 slug: "a-common-recurrent-childhood-fever-pfapa-was-reduced-by-half-by-2000-iu-of-daily-vitamin-d"
 aliases:
   - "/A+common+recurrent+childhood+fever+PFAPA+was+reduced+by+half+by+2000+IU+of+daily+vitamin+D+–+Oct+2023"
-  - "/tiki-index.php?page_id=14776"
+  - "/14776"
+tiki_page_id: 14776
 date: 2023-10-23
 categories:
   - "Infant-Child"

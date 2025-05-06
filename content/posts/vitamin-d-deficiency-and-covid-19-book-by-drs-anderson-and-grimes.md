@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency and Covid-19: Book by Drs Anderson and Grimes"
 slug: "vitamin-d-deficiency-and-covid-19-book-by-drs-anderson-and-grimes"
 aliases:
   - "/Vitamin+D+Deficiency+and+Covid-19+Book+by+Drs+Anderson+and+Grimes+-+July+2020"
-  - "/tiki-index.php?page_id=12381"
+  - "/12381"
+tiki_page_id: 12381
 date: 2021-03-06
 categories:
   - "Deficiency of Vitamin D"

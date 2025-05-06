@@ -3,7 +3,8 @@ title: "Vitamin D and Immune Regulation: Antibacterial, Antiviral, Anti-Inflamma
 slug: "vitamin-d-and-immune-regulation-antibacterial-antiviral-anti-inflammatory"
 aliases:
   - "/Vitamin+D+and+Immune+Regulation+Antibacterial+Antiviral+Anti-Inflammatory+–+Jan+2021"
-  - "/tiki-index.php?page_id=12394"
+  - "/12394"
+tiki_page_id: 12394
 date: 2021-03-09
 categories:
   - "Immunity"

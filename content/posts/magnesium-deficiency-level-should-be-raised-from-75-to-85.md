@@ -3,7 +3,8 @@ title: "Magnesium deficiency level should be raised from .75 to .85"
 slug: "magnesium-deficiency-level-should-be-raised-from-75-to-85"
 aliases:
   - "/Magnesium+deficiency+level+should+be+raised+from+75+to+85+–+April+2021"
-  - "/tiki-index.php?page_id=13637"
+  - "/13637"
+tiki_page_id: 13637
 date: 2022-06-05
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Vitamin D sales up 40 percent in Dec"
 slug: "vitamin-d-sales-up-40-percent-in-dec"
 aliases:
   - "/Vitamin+D+sales+up+40+percent+in+Dec"
-  - "/tiki-index.php?page_id=12218"
+  - "/12218"
+tiki_page_id: 12218
 date: 2021-01-11
 categories:
   - "Admin Only"

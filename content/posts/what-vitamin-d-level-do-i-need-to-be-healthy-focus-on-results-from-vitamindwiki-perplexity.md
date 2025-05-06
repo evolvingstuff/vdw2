@@ -3,7 +3,8 @@ title: "What vitamin D level do I need to be healthy - focus on results from Vit
 slug: "what-vitamin-d-level-do-i-need-to-be-healthy-focus-on-results-from-vitamindwiki-perplexity"
 aliases:
   - "/What+vitamin+D+level+do+I+need+to+be+healthy+-+focus+on+results+from+VitaminDWiki+-+Perplexity+March+2024"
-  - "/tiki-index.php?page_id=15119"
+  - "/15119"
+tiki_page_id: 15119
 date: 2024-03-10
 categories:
   - "AI"

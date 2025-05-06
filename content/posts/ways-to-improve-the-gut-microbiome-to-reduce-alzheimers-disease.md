@@ -3,7 +3,8 @@ title: "Ways to improve the gut microbiome to reduce Alzheimer's disease"
 slug: "ways-to-improve-the-gut-microbiome-to-reduce-alzheimers-disease"
 aliases:
   - "/Ways+to+improve+the+gut+microbiome+to+reduce+Alzheimers+disease+–+Feb+2023"
-  - "/tiki-index.php?page_id=14249"
+  - "/14249"
+tiki_page_id: 14249
 date: 2023-02-08
 categories:
   - "Cognitive"

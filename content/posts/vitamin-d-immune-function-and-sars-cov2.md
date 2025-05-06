@@ -3,7 +3,8 @@ title: "Vitamin D, Immune function, and SARS-CoV2"
 slug: "vitamin-d-immune-function-and-sars-cov2"
 aliases:
   - "/Vitamin+D+Immune+function+and+SARS-CoV2+–+May+2022"
-  - "/tiki-index.php?page_id=13541"
+  - "/13541"
+tiki_page_id: 13541
 date: 2022-05-04
 categories:
   - "Immunity"

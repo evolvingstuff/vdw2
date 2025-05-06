@@ -3,7 +3,8 @@ title: "Infections and low vitamin D"
 slug: "infections-and-low-vitamin-d"
 aliases:
   - "/Infections+and+low+vitamin+D"
-  - "/tiki-index.php?page_id=11218"
+  - "/11218"
+tiki_page_id: 11218
 date: 2019-10-08
 categories:
   - "Immunity"

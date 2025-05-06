@@ -3,7 +3,8 @@ title: "1.4 X more likely to die if both vitamin D and vitamin K are low"
 slug: "14-x-more-likely-to-die-if-both-vitamin-d-and-vitamin-k-are-low"
 aliases:
   - "/14+X+more+likely+to+die+if+both+vitamin+D+and+vitamin+K+are+low+-+Aug+2020"
-  - "/tiki-index.php?page_id=13321"
+  - "/13321"
+tiki_page_id: 13321
 date: 2022-02-07
 categories:
   - "Mortality and D"

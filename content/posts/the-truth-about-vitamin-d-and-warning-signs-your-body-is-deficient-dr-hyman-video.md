@@ -3,7 +3,8 @@ title: "The Truth About Vitamin D and Warning Signs Your Body Is Deficient - Dr.
 slug: "the-truth-about-vitamin-d-and-warning-signs-your-body-is-deficient-dr-hyman-video"
 aliases:
   - "/The+Truth+About+Vitamin+D+and+Warning+Signs+Your+Body+Is+Deficient+-+Dr+Hyman+video+Dec+2023"
-  - "/tiki-index.php?page_id=14889"
+  - "/14889"
+tiki_page_id: 14889
 date: 2023-12-15
 categories:
   - "Books, videos on Vitamin D"

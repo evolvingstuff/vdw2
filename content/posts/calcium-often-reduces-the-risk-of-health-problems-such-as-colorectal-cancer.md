@@ -3,7 +3,8 @@ title: "Calcium often reduces the risk of health problems such as Colorectal Can
 slug: "calcium-often-reduces-the-risk-of-health-problems-such-as-colorectal-cancer"
 aliases:
   - "/Calcium+often+reduces+the+risk+of+health+problems+such+as+Colorectal+Cancer+–+March+2024"
-  - "/tiki-index.php?page_id=15117"
+  - "/15117"
+tiki_page_id: 15117
 date: 2024-03-09
 categories:
   - "Cancer - Colon"

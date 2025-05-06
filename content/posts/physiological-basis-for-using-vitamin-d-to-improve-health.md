@@ -3,7 +3,8 @@ title: "Physiological Basis for Using Vitamin D to Improve Health"
 slug: "physiological-basis-for-using-vitamin-d-to-improve-health"
 aliases:
   - "/Physiological+Basis+for+Using+Vitamin+D+to+Improve+Health+-+May+2023"
-  - "/tiki-index.php?page_id=14454"
+  - "/14454"
+tiki_page_id: 14454
 date: 2023-05-28
 ---
 

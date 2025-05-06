@@ -3,7 +3,8 @@ title: "Childhood Cancer survivors – only 1 in 25 had consumed Vitamin D RDA"
 slug: "childhood-cancer-survivors-only-1-in-25-had-consumed-vitamin-d-rda"
 aliases:
   - "/Childhood+Cancer+survivors+–+only+1+in+25+had+consumed+Vitamin+D+RDA+–+Oct+2019"
-  - "/tiki-index.php?page_id=11259"
+  - "/11259"
+tiki_page_id: 11259
 date: 2019-10-22
 categories:
   - "Cancer"

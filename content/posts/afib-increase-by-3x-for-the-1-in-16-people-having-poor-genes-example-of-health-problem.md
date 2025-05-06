@@ -3,7 +3,8 @@ title: "Afib increase by 3X for the 1 in 16 people having poor genes (example of
 slug: "afib-increase-by-3x-for-the-1-in-16-people-having-poor-genes-example-of-health-problem"
 aliases:
   - "/Afib+increase+by+3X+for+the+1+in+16+people+having+poor+genes+example+of+health+problem+–+Aug+2018"
-  - "/tiki-index.php?page_id=10117"
+  - "/10117"
+tiki_page_id: 10117
 date: 2018-10-14
 categories:
   - "Cardiovascular"

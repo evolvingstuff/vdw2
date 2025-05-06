@@ -3,7 +3,8 @@ title: "Vitamin deficiency D 2.0"
 slug: "vitamin-deficiency-d-20"
 aliases:
   - "/Vitamin+deficiency+D+20+–+Jan+2020"
-  - "/tiki-index.php?page_id=11575"
+  - "/11575"
+tiki_page_id: 11575
 date: 2020-01-20
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D Health problems can run in families (epigenetics, they miss ot
 slug: "vitamin-d-health-problems-can-run-in-families-epigenetics-they-miss-other-reasons-june-2023"
 aliases:
   - "/Vitamin+D+Health+problems+can+run+in+families+epigenetics+they+miss+other+reasons+–+June+2023"
-  - "/tiki-index.php?page_id=14486"
+  - "/14486"
+tiki_page_id: 14486
 date: 2023-06-16
 categories:
   - "Genetics"

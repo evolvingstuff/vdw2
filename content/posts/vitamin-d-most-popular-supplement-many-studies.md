@@ -3,7 +3,8 @@ title: "Vitamin D most popular supplement - many studies"
 slug: "vitamin-d-most-popular-supplement-many-studies"
 aliases:
   - "/Vitamin+D+most+popular+supplement+-+many+studies"
-  - "/tiki-index.php?page_id=10412"
+  - "/10412"
+tiki_page_id: 10412
 date: 2019-01-18
 categories:
   - "Vitamin D in Europe"

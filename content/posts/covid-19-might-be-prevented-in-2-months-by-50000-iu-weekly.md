@@ -3,7 +3,8 @@ title: "COVID-19 might be prevented in 2 months by 50,000 IU weekly"
 slug: "covid-19-might-be-prevented-in-2-months-by-50000-iu-weekly"
 aliases:
   - "/COVID-19+might+be+prevented+in+2+months+by+50000+IU+weekly+–+May+12+2020"
-  - "/tiki-index.php?page_id=11763"
+  - "/11763"
+tiki_page_id: 11763
 date: 2020-05-12
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "COVID senior pneumonia deaths: 50% if low Vitamin D and unvaccinated vs 
 slug: "covid-senior-pneumonia-deaths-50-percent-if-low-vitamin-d-and-unvaccinated-vs-16-d-or-vaccinated"
 aliases:
   - "/COVID+senior+pneumonia+deaths+50+if+low+Vitamin+D+and+unvaccinated+vs+16+if+Vitamin+D+or+vaccinated+–+June+2023"
-  - "/tiki-index.php?page_id=15084"
+  - "/15084"
+tiki_page_id: 15084
 date: 2024-02-28
 categories:
   - "Seniors"

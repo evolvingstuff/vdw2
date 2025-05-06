@@ -3,7 +3,8 @@ title: "Excellent on-going analysis of Vitamin D and COVID-19 publications"
 slug: "excellent-on-going-analysis-of-vitamin-d-and-covid-19-publications"
 aliases:
   - "/Excellent+on-going+analysis+of+Vitamin+D+and+COVID-19+publications"
-  - "/tiki-index.php?page_id=12146"
+  - "/12146"
+tiki_page_id: 12146
 date: 2020-12-15
 categories:
   - "Virus"

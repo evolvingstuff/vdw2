@@ -3,7 +3,8 @@ title: "Hashimoto's thyroiditis helped by weekly 50,000 IU of vitamin D – RCT"
 slug: "hashimotos-thyroiditis-helped-by-weekly-50000-iu-of-vitamin-d-rct"
 aliases:
   - "/Hashimotos+thyroiditis+helped+by+weekly+50000+IU+of+vitamin+D+–+RCT+May+2019"
-  - "/tiki-index.php?page_id=11143"
+  - "/11143"
+tiki_page_id: 11143
 date: 2019-09-10
 categories:
   - "Thyroid and parathyroid"

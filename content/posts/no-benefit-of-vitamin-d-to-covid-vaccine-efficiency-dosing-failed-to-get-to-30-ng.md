@@ -3,7 +3,8 @@ title: "No benefit of Vitamin D to COVID vaccine efficiency (dosing failed to ge
 slug: "no-benefit-of-vitamin-d-to-covid-vaccine-efficiency-dosing-failed-to-get-to-30-ng"
 aliases:
   - "/No+benefit+of+Vitamin+D+to+COVID+vaccine+efficiency+dosing+failed+to+get+to+30+ng+-+Oct+2022"
-  - "/tiki-index.php?page_id=13997"
+  - "/13997"
+tiki_page_id: 13997
 date: 2022-10-08
 categories:
   - "Virus"

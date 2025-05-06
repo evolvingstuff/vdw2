@@ -3,7 +3,8 @@ title: "Vitamin D Not Reduce Short-Term All-Cause Mortality (if less than 2000 I
 slug: "vitamin-d-not-reduce-short-term-all-cause-mortality-if-less-than-2000-iu-etc"
 aliases:
   - "/Vitamin+D+Not+Reduce+Short-Term+All-Cause+Mortality+if+less+than+2000+IU+etc+Sept+2019"
-  - "/tiki-index.php?page_id=11145"
+  - "/11145"
+tiki_page_id: 11145
 date: 2019-09-11
 categories:
   - "Mortality and D"

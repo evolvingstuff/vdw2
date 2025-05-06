@@ -3,7 +3,8 @@ title: "Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle r
 slug: "muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab"
 aliases:
   - "/Muscular+Dystrophy+probably+treated+by+high-dose+Vitamin+D+plus+muscle+rehab"
-  - "/tiki-index.php?page_id=11075"
+  - "/11075"
+tiki_page_id: 11075
 date: 2019-08-15
 categories:
   - "Health"

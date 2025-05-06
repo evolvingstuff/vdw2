@@ -3,7 +3,8 @@ title: "PMS reduced by 50,000 IU every two weeks - RCT"
 slug: "pms-reduced-by-50000-iu-every-two-weeks-rct"
 aliases:
   - "/PMS+reduced+by+50000+IU+every+two+weeks+-+RCT+Jan+2024"
-  - "/tiki-index.php?page_id=14974"
+  - "/14974"
+tiki_page_id: 14974
 date: 2024-01-15
 categories:
   - "Intervention"

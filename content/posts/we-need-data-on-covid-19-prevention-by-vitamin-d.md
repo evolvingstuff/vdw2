@@ -3,7 +3,8 @@ title: "We need data on COVID-19 prevention by Vitamin D"
 slug: "we-need-data-on-covid-19-prevention-by-vitamin-d"
 aliases:
   - "/We+need+data+on+COVID-19+prevention+by+Vitamin+D"
-  - "/tiki-index.php?page_id=11872"
+  - "/11872"
+tiki_page_id: 11872
 date: 2020-07-29
 categories:
   - "Admin Only"

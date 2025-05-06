@@ -3,7 +3,8 @@ title: "Diabetes, Metabolic Syndrome and Magnesium - many studies"
 slug: "diabetes-metabolic-syndrome-and-magnesium-many-studies"
 aliases:
   - "/Diabetes+Metabolic+Syndrome+and+Magnesium+-+many+studies"
-  - "/tiki-index.php?page_id=14208"
+  - "/14208"
+tiki_page_id: 14208
 date: 2023-01-13
 categories:
   - "Diabetes"

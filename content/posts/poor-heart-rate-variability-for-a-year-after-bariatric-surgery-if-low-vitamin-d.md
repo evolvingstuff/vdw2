@@ -3,7 +3,8 @@ title: "Poor heart rate variability for a year after Bariatric surgery if low vi
 slug: "poor-heart-rate-variability-for-a-year-after-bariatric-surgery-if-low-vitamin-d"
 aliases:
   - "/Poor+heart+rate+variability+for+a+year+after+Bariatric+surgery+if+low+vitamin+D+–+Nov+2022"
-  - "/tiki-index.php?page_id=14076"
+  - "/14076"
+tiki_page_id: 14076
 date: 2022-11-08
 categories:
   - "Cardiovascular"

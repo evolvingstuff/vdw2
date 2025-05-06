@@ -3,7 +3,8 @@ title: "Resveratrol and Cardiovascular Diseases"
 slug: "resveratrol-and-cardiovascular-diseases"
 aliases:
   - "/Resveratrol+and+Cardiovascular+Diseases+–+May+2016"
-  - "/tiki-index.php?page_id=10702"
+  - "/10702"
+tiki_page_id: 10702
 date: 2019-04-27
 categories:
   - "Cardiovascular"

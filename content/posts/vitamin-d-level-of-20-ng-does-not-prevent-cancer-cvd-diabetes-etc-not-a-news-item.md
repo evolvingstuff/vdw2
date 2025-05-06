@@ -3,7 +3,8 @@ title: "Vitamin D level of 20 ng does not prevent cancer, CVD, Diabetes, etc (no
 slug: "vitamin-d-level-of-20-ng-does-not-prevent-cancer-cvd-diabetes-etc-not-a-news-item"
 aliases:
   - "/Vitamin+D+level+of+20+ng+does+not+prevent+cancer+CVD+Diabetes+etc+not+a+news+item+–+Nov+2021"
-  - "/tiki-index.php?page_id=13110"
+  - "/13110"
+tiki_page_id: 13110
 date: 2021-11-24
 categories:
   - "Deficiency of Vitamin D"

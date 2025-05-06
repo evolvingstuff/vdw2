@@ -3,7 +3,8 @@ title: "50,000 IU of Vitamin D weekly greatly decreased bone loss from prostate 
 slug: "50000-iu-of-vitamin-d-weekly-greatly-decreased-bone-loss-from-prostate-cancer-therapy-rct"
 aliases:
   - "/50000+IU+of+Vitamin+D+weekly+greatly+decreased+bone+loss+from+prostate+cancer+therapy+-+RCT+March+2024"
-  - "/tiki-index.php?page_id=15166"
+  - "/15166"
+tiki_page_id: 15166
 date: 2024-03-24
 categories:
   - "Bone - Health"

@@ -3,7 +3,8 @@ title: "Cancer stem cells and Vitamin D - many studies"
 slug: "cancer-stem-cells-and-vitamin-d-many-studies"
 aliases:
   - "/Cancer+stem+cells+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=10627"
+  - "/10627"
+tiki_page_id: 10627
 date: 2019-03-28
 categories:
   - "Health"

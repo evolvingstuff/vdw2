@@ -3,7 +3,8 @@ title: "75 articles indicate that Vitamin D should fight COVID-19 – Evidence R
 slug: "75-articles-indicate-that-vitamin-d-should-fight-covid-19-evidence-review"
 aliases:
   - "/75+articles+indicate+that+Vitamin+D+should+fight+COVID-19+–+Evidence+Review+Dec+10+2020"
-  - "/tiki-index.php?page_id=12136"
+  - "/12136"
+tiki_page_id: 12136
 date: 2020-12-12
 categories:
   - "Virus"

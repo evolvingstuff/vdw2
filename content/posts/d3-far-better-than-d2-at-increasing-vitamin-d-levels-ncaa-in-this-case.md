@@ -3,7 +3,8 @@ title: "D3 far better than D2 at increasing Vitamin D levels (NCAA in this case)
 slug: "d3-far-better-than-d2-at-increasing-vitamin-d-levels-ncaa-in-this-case"
 aliases:
   - "/D3+far+better+than+D2+at+increasing+Vitamin+D+levels+NCAA+in+this+case+Jan+2021"
-  - "/tiki-index.php?page_id=12854"
+  - "/12854"
+tiki_page_id: 12854
 date: 2021-08-24
 categories:
   - "Vitamin D3 instead of D2"

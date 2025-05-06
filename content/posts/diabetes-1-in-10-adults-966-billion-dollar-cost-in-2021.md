@@ -3,7 +3,8 @@ title: "Diabetes - 1 in 10 adults, 966 billion dollar cost in 2021"
 slug: "diabetes-1-in-10-adults-966-billion-dollar-cost-in-2021"
 aliases:
   - "/Diabetes+-+1+in+10+adults+966+billion+dollar+cost+in+2021"
-  - "/tiki-index.php?page_id=13172"
+  - "/13172"
+tiki_page_id: 13172
 date: 2021-12-12
 categories:
   - "Diabetes"

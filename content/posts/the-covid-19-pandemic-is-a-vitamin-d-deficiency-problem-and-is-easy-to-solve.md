@@ -3,7 +3,8 @@ title: "The Covid-19 pandemic is a Vitamin D Deficiency problem and is easy to s
 slug: "the-covid-19-pandemic-is-a-vitamin-d-deficiency-problem-and-is-easy-to-solve"
 aliases:
   - "/The+Covid-19+pandemic+is+a+Vitamin+D+Deficiency+problem+and+is+easy+to+solve+–+June+2020"
-  - "/tiki-index.php?page_id=11910"
+  - "/11910"
+tiki_page_id: 11910
 date: 2020-08-17
 categories:
   - "Virus"

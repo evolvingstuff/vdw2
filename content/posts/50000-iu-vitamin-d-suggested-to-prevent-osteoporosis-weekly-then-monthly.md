@@ -3,7 +3,8 @@ title: "50,000 IU vitamin D suggested to prevent osteoporosis (weekly then month
 slug: "50000-iu-vitamin-d-suggested-to-prevent-osteoporosis-weekly-then-monthly"
 aliases:
   - "/50000+IU+vitamin+D+suggested+to+prevent+osteoporosis+weekly+then+monthly–+April+2019"
-  - "/tiki-index.php?page_id=10807"
+  - "/10807"
+tiki_page_id: 10807
 date: 2019-05-24
 ---
 

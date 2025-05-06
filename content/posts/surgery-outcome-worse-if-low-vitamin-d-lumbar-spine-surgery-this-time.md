@@ -3,7 +3,8 @@ title: "Surgery outcome worse if low vitamin D (lumbar spine surgery this time)"
 slug: "surgery-outcome-worse-if-low-vitamin-d-lumbar-spine-surgery-this-time"
 aliases:
   - "/Surgery+outcome+worse+if+low+vitamin+D+lumbar+spine+surgery+this+time+–+Nov+2019"
-  - "/tiki-index.php?page_id=11397"
+  - "/11397"
+tiki_page_id: 11397
 date: 2019-11-26
 categories:
   - "Trauma and surgery"

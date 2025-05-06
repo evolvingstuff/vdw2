@@ -3,7 +3,8 @@ title: "Those getting an injection of 300,000 IU Vitamin D got out of the ICU a 
 slug: "those-getting-an-injection-of-300000-iu-vitamin-d-got-out-of-the-icu-a-week-sooner-rct"
 aliases:
   - "/Those+getting+an+injection+of+300000+IU+Vitamin+D+got+out+of+the+ICU+a+week+sooner+–+RCT+Dec+2020"
-  - "/tiki-index.php?page_id=12200"
+  - "/12200"
+tiki_page_id: 12200
 date: 2021-01-06
 categories:
   - "Trauma and surgery"

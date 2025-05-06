@@ -3,7 +3,8 @@ title: "Vitamins regulate some human genes"
 slug: "vitamins-regulate-some-human-genes"
 aliases:
   - "/Vitamins+regulate+some+human+genes+–+Feb+2020"
-  - "/tiki-index.php?page_id=11613"
+  - "/11613"
+tiki_page_id: 11613
 date: 2020-02-06
 categories:
   - "Genetics"

@@ -3,7 +3,8 @@ title: "Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews"
 slug: "is-50-ng-of-vitamin-d-enough-to-fight-covid-trialsitenews"
 aliases:
   - "/Is+50+ng+of+Vitamin+D+enough+to+fight+COVID+-+TrialSiteNews+-+Jan+2024"
-  - "/tiki-index.php?page_id=15010"
+  - "/15010"
+tiki_page_id: 15010
 date: 2024-01-30
 categories:
   - "Virus"

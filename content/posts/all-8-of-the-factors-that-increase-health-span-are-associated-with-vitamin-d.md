@@ -3,7 +3,8 @@ title: "All 8 of the factors that increase health span are associated with Vitam
 slug: "all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d"
 aliases:
   - "/All+8+of+the+factors+that+increase+health+span+are+associated+with+Vitamin+D+-+March+2023"
-  - "/tiki-index.php?page_id=14935"
+  - "/14935"
+tiki_page_id: 14935
 date: 2023-12-31
 categories:
   - "Quality of Life"

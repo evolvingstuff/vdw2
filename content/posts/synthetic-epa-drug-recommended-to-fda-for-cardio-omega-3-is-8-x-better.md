@@ -3,7 +3,8 @@ title: "Synthetic EPA drug recommended to FDA for Cardio (Omega-3 is 8 X better)
 slug: "synthetic-epa-drug-recommended-to-fda-for-cardio-omega-3-is-8-x-better"
 aliases:
   - "/Synthetic+EPA+drug+recommended+to+FDA+for+Cardio+Omega-3+is+8+X+better+–+Nov+2019"
-  - "/tiki-index.php?page_id=11554"
+  - "/11554"
+tiki_page_id: 11554
 date: 2020-01-12
 categories:
   - "Cardiovascular"

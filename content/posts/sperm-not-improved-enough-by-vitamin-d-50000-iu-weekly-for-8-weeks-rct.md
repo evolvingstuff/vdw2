@@ -3,7 +3,8 @@ title: "Sperm not improved enough by Vitamin D - 50,000 IU weekly  for 8 weeks -
 slug: "sperm-not-improved-enough-by-vitamin-d-50000-iu-weekly-for-8-weeks-rct"
 aliases:
   - "/Sperm+not+improved+enough+by+Vitamin+D+-+50000+IU+weekly+for+8+weeks+-+RCT+Aug+2020"
-  - "/tiki-index.php?page_id=11922"
+  - "/11922"
+tiki_page_id: 11922
 date: 2020-08-27
 categories:
   - "Fertility and sperm"

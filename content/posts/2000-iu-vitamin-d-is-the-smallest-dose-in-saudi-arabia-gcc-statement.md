@@ -3,7 +3,8 @@ title: "2,000 IU vitamin D is the smallest dose in Saudi Arabia (GCC statement)"
 slug: "2000-iu-vitamin-d-is-the-smallest-dose-in-saudi-arabia-gcc-statement"
 aliases:
   - "/2000+IU+vitamin+D+is+the+smallest+dose+in+Saudi+Arabia+GCC+statement+–+March+2020"
-  - "/tiki-index.php?page_id=11659"
+  - "/11659"
+tiki_page_id: 11659
 date: 2020-03-04
 categories:
   - "Middle East"

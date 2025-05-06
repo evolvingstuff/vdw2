@@ -3,7 +3,8 @@ title: "Osteosarcopenia 4.5X more likely if low vitamin D"
 slug: "osteosarcopenia-45x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Osteosarcopenia+45X+more+likely+if+low+vitamin+D+-+Dec+2023"
-  - "/tiki-index.php?page_id=14875"
+  - "/14875"
+tiki_page_id: 14875
 date: 2023-12-08
 categories:
   - "Osteoporosis"

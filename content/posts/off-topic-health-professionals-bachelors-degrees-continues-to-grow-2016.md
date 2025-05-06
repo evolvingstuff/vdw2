@@ -3,7 +3,8 @@ title: "Off topic: Health Professionals bachelors degrees continues to grow – 
 slug: "off-topic-health-professionals-bachelors-degrees-continues-to-grow-2016"
 aliases:
   - "/Off+topic+Health+Professionals+bachelors+degrees+continues+to+grow+–+2016"
-  - "/tiki-index.php?page_id=10596"
+  - "/10596"
+tiki_page_id: 10596
 date: 2019-03-21
 categories:
   - "Off Topic"

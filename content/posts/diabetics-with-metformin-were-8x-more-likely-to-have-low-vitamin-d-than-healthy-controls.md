@@ -3,7 +3,8 @@ title: "Diabetics (with metformin) were 8X more likely to have low vitamin D tha
 slug: "diabetics-with-metformin-were-8x-more-likely-to-have-low-vitamin-d-than-healthy-controls"
 aliases:
   - "/Diabetics+with+metformin+were+8X+more+likely+to+have+low+vitamin+D+than+healthy+controls+–+May+2019"
-  - "/tiki-index.php?page_id=10789"
+  - "/10789"
+tiki_page_id: 10789
 date: 2019-05-18
 ---
 

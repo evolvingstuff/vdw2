@@ -3,7 +3,8 @@ title: "Weekly oral Vitamin D recommended before surgery (Bariatric in this case
 slug: "weekly-oral-vitamin-d-recommended-before-surgery-bariatric-in-this-case-rct"
 aliases:
   - "/Weekly+oral+Vitamin+D+recommended+before+surgery+Bariatric+in+this+case+–+RCT+June+2019"
-  - "/tiki-index.php?page_id=10855"
+  - "/10855"
+tiki_page_id: 10855
 date: 2019-06-12
 categories:
   - "Intervention"

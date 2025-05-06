@@ -3,7 +3,8 @@ title: "Breast Cancer not prevented by 1,000 IU of Vitamin D (no surprise) – R
 slug: "breast-cancer-not-prevented-by-1000-iu-of-vitamin-d-no-surprise-rct"
 aliases:
   - "/Breast+Cancer+not+prevented+by+1000+IU+of+Vitamin+D+no+surprise+–+RCT+Aug+2021"
-  - "/tiki-index.php?page_id=12869"
+  - "/12869"
+tiki_page_id: 12869
 date: 2021-08-31
 categories:
   - "Cancer - Breast"

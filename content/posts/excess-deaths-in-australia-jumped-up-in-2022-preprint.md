@@ -3,7 +3,8 @@ title: "Excess Deaths in Australia jumped up in 2022– preprint"
 slug: "excess-deaths-in-australia-jumped-up-in-2022-preprint"
 aliases:
   - "/Excess+Deaths+in+Australia+jumped+up+in+2022–+preprint+Feb+2023"
-  - "/tiki-index.php?page_id=14274"
+  - "/14274"
+tiki_page_id: 14274
 date: 2023-02-19
 categories:
   - "Mortality and D"

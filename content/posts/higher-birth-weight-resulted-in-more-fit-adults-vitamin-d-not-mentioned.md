@@ -3,7 +3,8 @@ title: "Higher birth weight resulted in more fit adults (Vitamin D not mentioned
 slug: "higher-birth-weight-resulted-in-more-fit-adults-vitamin-d-not-mentioned"
 aliases:
   - "/Higher+birth+weight+resulted+in+more+fit+adults+Vitamin+D+not+mentioned+–+Jan+2020"
-  - "/tiki-index.php?page_id=11608"
+  - "/11608"
+tiki_page_id: 11608
 date: 2020-02-04
 categories:
   - "Pregnancy"

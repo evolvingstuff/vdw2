@@ -3,7 +3,8 @@ title: "Magnesium, Vitamin D, Omega-3, TSH - importance and testing - Dean and B
 slug: "magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly"
 aliases:
   - "/Magnesium+Vitamin+D+Omega-3+TSH+-+importance+and+testing+-+Dean+and+Baggerly+-+Oct+2019"
-  - "/tiki-index.php?page_id=11297"
+  - "/11297"
+tiki_page_id: 11297
 date: 2019-10-30
 categories:
   - "Tests for Vitamin D"

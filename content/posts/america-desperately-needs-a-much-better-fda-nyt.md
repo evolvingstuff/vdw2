@@ -3,7 +3,8 @@ title: "America Desperately Needs a Much Better FDA - NYT"
 slug: "america-desperately-needs-a-much-better-fda-nyt"
 aliases:
   - "/America+Desperately+Needs+a+Much+Better+FDA+-+NYT+Sept+2+2021"
-  - "/tiki-index.php?page_id=12883"
+  - "/12883"
+tiki_page_id: 12883
 date: 2021-09-07
 ---
 

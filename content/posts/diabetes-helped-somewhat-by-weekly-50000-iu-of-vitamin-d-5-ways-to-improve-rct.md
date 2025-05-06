@@ -3,7 +3,8 @@ title: "Diabetes helped somewhat by weekly 50,000 IU of vitamin D (5 ways to imp
 slug: "diabetes-helped-somewhat-by-weekly-50000-iu-of-vitamin-d-5-ways-to-improve-rct"
 aliases:
   - "/Diabetes+helped+somewhat+by+weekly+50000+IU+of+vitamin+D+5+ways+to+improve+–+RCT+Aug+2021"
-  - "/tiki-index.php?page_id=12835"
+  - "/12835"
+tiki_page_id: 12835
 date: 2021-08-19
 categories:
   - "Diabetes"

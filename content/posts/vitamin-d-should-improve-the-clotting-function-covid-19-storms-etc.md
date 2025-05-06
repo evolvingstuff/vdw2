@@ -3,7 +3,8 @@ title: "Vitamin D should improve the clotting function (COVID-19 storms, etc.)"
 slug: "vitamin-d-should-improve-the-clotting-function-covid-19-storms-etc"
 aliases:
   - "/Vitamin+D+should+improve+the+clotting+function+COVID-19+storms+etc+–+Feb+2021"
-  - "/tiki-index.php?page_id=12337"
+  - "/12337"
+tiki_page_id: 12337
 date: 2021-02-20
 categories:
   - "Virus"

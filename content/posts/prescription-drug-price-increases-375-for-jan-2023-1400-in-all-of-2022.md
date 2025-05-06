@@ -3,7 +3,8 @@ title: "Prescription drug price increases: 375 for Jan 2023, 1,400 in all of 202
 slug: "prescription-drug-price-increases-375-for-jan-2023-1400-in-all-of-2022"
 aliases:
   - "/Prescription+drug+price+increases+375+for+Jan+2023+1400+in+all+of+2022"
-  - "/tiki-index.php?page_id=14200"
+  - "/14200"
+tiki_page_id: 14200
 date: 2023-01-07
 ---
 

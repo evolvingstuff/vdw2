@@ -3,7 +3,8 @@ title: "The More COVID Shots You Get, the More Likely You’ll Get COVID (discov
 slug: "the-more-covid-shots-you-get-the-more-likely-youll-get-covid-discovered-60-years-ago"
 aliases:
   - "/The+More+COVID+Shots+You+Get+the+More+Likely+Youll+Get+COVID+discovered+60+years+ago+-+Oct+2022"
-  - "/tiki-index.php?page_id=13968"
+  - "/13968"
+tiki_page_id: 13968
 date: 2022-10-02
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Two thirds of South Asians have low Vitamin D (less than 20 ng) – meta
 slug: "two-thirds-of-south-asians-have-low-vitamin-d-less-than-20-ng-meta-analysis"
 aliases:
   - "/Two+thirds+of+South+Asians+have+low+Vitamin+D+less+than+20+ng+–+meta-analysis+Oct+2021"
-  - "/tiki-index.php?page_id=12970"
+  - "/12970"
+tiki_page_id: 12970
 date: 2021-10-11
 categories:
   - "Deficiency of Vitamin D"

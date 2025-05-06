@@ -3,7 +3,8 @@ title: "Fibromyalgia and Musculoskeletal Pain treated by raised Vitamin D levels
 slug: "fibromyalgia-and-musculoskeletal-pain-treated-by-raised-vitamin-d-levels"
 aliases:
   - "/Fibromyalgia+and+Musculoskeletal+Pain+treated+by+raised+Vitamin+D+levels+–+July+2022"
-  - "/tiki-index.php?page_id=13787"
+  - "/13787"
+tiki_page_id: 13787
 date: 2022-07-23
 categories:
   - "Pain - chronic"

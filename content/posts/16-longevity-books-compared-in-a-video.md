@@ -3,7 +3,8 @@ title: "16 Longevity books compared in a video"
 slug: "16-longevity-books-compared-in-a-video"
 aliases:
   - "/16+Longevity+books+compared+in+a+video+-+Dec+2023"
-  - "/tiki-index.php?page_id=14900"
+  - "/14900"
+tiki_page_id: 14900
 date: 2023-12-20
 categories:
   - "Sports and Vitamin D"

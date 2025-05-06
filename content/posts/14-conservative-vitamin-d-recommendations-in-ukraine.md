@@ -3,7 +3,8 @@ title: "14 Conservative Vitamin D recommendations in Ukraine"
 slug: "14-conservative-vitamin-d-recommendations-in-ukraine"
 aliases:
   - "/14+Conservative+Vitamin+D+recommendations+in+Ukraine+–+Jan+2024"
-  - "/tiki-index.php?page_id=14994"
+  - "/14994"
+tiki_page_id: 14994
 date: 2024-01-23
 categories:
   - "Deficiency of Vitamin D"

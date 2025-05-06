@@ -3,7 +3,8 @@ title: "COVID-19 mortality for Blacks is 5X that for whites in 2 LA Hospitals"
 slug: "covid-19-mortality-for-blacks-is-5x-that-for-whites-in-2-la-hospitals"
 aliases:
   - "/COVID-19+mortality+for+Blacks+is+5X+that+for+whites+in+2+LA+Hospitals+-+July+2021"
-  - "/tiki-index.php?page_id=12794"
+  - "/12794"
+tiki_page_id: 12794
 date: 2021-07-31
 categories:
   - "Skin - Dark"

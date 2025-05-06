@@ -3,7 +3,8 @@ title: "Multiple Sclerosis increases risk of Psoriasis by 1.9X (both associated 
 slug: "multiple-sclerosis-increases-risk-of-psoriasis-by-19x-both-associated-with-low-v-d-meta-analysis"
 aliases:
   - "/Multiple+Sclerosis+increases+risk+of+Psoriasis+by+19X+both+associated+with+low+vitamin+D+–+meta-analysis+Oct+2018"
-  - "/tiki-index.php?page_id=10312"
+  - "/10312"
+tiki_page_id: 10312
 date: 2018-12-13
 categories:
   - "Multiple Sclerosis"

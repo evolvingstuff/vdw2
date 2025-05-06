@@ -3,7 +3,8 @@ title: "Eye vitamin D may not be associated with blood VitD, but is associated w
 slug: "eye-vitamin-d-may-not-be-associated-with-blood-vitd-but-is-associated-with-cyp27b1-and-cyp24a1"
 aliases:
   - "/Eye+vitamin+D+may+not+be+associated+with+blood+VitD+but+is+associated+with+CYP27B1+and+CYP24A1+–+Nov+2019"
-  - "/tiki-index.php?page_id=11365"
+  - "/11365"
+tiki_page_id: 11365
 date: 2019-11-18
 categories:
   - "Vision"

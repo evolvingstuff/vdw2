@@ -3,7 +3,8 @@ title: "Vitamin D for skin anti-aging – liposomal base is probably 1.6X better
 slug: "vitamin-d-for-skin-anti-aging-liposomal-base-is-probably-16x-better-than-oil-base-in-rats"
 aliases:
   - "/Vitamin+D+for+skin+anti-aging+–+liposomal+base+is+probably+16X+better+than+oil+base+in+rats+–+July+2019"
-  - "/tiki-index.php?page_id=10952"
+  - "/10952"
+tiki_page_id: 10952
 date: 2019-07-03
 categories:
   - "Forms of Vitamin D"

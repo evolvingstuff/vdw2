@@ -3,7 +3,8 @@ title: "COVID 2.6 X more likely if low Vitamin D (during pregnancy in this case)
 slug: "covid-26-x-more-likely-if-low-vitamin-d-during-pregnancy-in-this-case"
 aliases:
   - "/COVID+26+X+more+likely+if+low+Vitamin+D+during+pregnancy+in+this+case+–+March+2022"
-  - "/tiki-index.php?page_id=13432"
+  - "/13432"
+tiki_page_id: 13432
 date: 2022-03-26
 categories:
   - "Pregnancy"

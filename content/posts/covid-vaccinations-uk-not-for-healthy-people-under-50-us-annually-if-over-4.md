@@ -3,7 +3,8 @@ title: "COVID Vaccinations: UK not for healthy people under 50 , US annually if 
 slug: "covid-vaccinations-uk-not-for-healthy-people-under-50-us-annually-if-over-4"
 aliases:
   - "/COVID+Vaccinations+UK+not+for+healthy+people+under+50+US+annually+if+over+4+-+Jan+2023"
-  - "/tiki-index.php?page_id=14236"
+  - "/14236"
+tiki_page_id: 14236
 date: 2023-01-28
 categories:
   - "Virus"

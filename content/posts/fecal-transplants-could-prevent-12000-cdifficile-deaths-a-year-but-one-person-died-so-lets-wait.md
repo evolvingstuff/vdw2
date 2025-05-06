@@ -3,7 +3,8 @@ title: "Fecal transplants could prevent 12,000 C.difficile deaths a year, but on
 slug: "fecal-transplants-could-prevent-12000-cdifficile-deaths-a-year-but-one-person-died-so-lets-wait"
 aliases:
   - "/Fecal+transplants+could+prevent+12000+Cdifficile+deaths+a+year+but+one+person+died+so+lets+wait+–+July+2019"
-  - "/tiki-index.php?page_id=11038"
+  - "/11038"
+tiki_page_id: 11038
 date: 2019-08-01
 ---
 

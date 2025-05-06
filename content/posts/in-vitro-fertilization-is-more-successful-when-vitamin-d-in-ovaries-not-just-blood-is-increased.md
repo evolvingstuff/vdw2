@@ -3,7 +3,8 @@ title: "In vitro fertilization is more successful when vitamin D in ovaries, not
 slug: "in-vitro-fertilization-is-more-successful-when-vitamin-d-in-ovaries-not-just-blood-is-increased"
 aliases:
   - "/In+vitro+fertilization+is+more+successful+when+vitamin+D+in+ovaries+not+just+blood+is+increased+–+April+2022"
-  - "/tiki-index.php?page_id=13522"
+  - "/13522"
+tiki_page_id: 13522
 date: 2022-04-27
 categories:
   - "Fertility and sperm"

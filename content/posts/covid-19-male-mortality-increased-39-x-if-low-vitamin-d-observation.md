@@ -3,7 +3,8 @@ title: "COVID-19 male mortality increased 3.9 X if low vitamin D – observation
 slug: "covid-19-male-mortality-increased-39-x-if-low-vitamin-d-observation"
 aliases:
   - "/COVID-19+male+mortality+increased+39+X+if+low+vitamin+D+–+observation+Nov+25+2020"
-  - "/tiki-index.php?page_id=12090"
+  - "/12090"
+tiki_page_id: 12090
 date: 2020-11-26
 categories:
   - "Virus"

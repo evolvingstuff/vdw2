@@ -3,7 +3,8 @@ title: "International Covid and Vaccination Summit III - European Parliament Vid
 slug: "international-covid-and-vaccination-summit-iii-european-parliament-video"
 aliases:
   - "/International+Covid+and+Vaccination+Summit+III+-+European+Parliament+Video+May+2023"
-  - "/tiki-index.php?page_id=14431"
+  - "/14431"
+tiki_page_id: 14431
 date: 2023-05-17
 categories:
   - "Virus"

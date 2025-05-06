@@ -3,7 +3,8 @@ title: "Vitamin D also provides COVID Neuroprotection"
 slug: "vitamin-d-also-provides-covid-neuroprotection"
 aliases:
   - "/Vitamin+D+also+provides+COVID+Neuroprotection+–+April+2022"
-  - "/tiki-index.php?page_id=13651"
+  - "/13651"
+tiki_page_id: 13651
 date: 2022-06-08
 categories:
   - "Cognitive"

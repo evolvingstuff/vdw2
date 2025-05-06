@@ -3,7 +3,8 @@ title: "Vitamin D fights Tuberculosis by reducing Calcium"
 slug: "vitamin-d-fights-tuberculosis-by-reducing-calcium"
 aliases:
   - "/Vitamin+D+fights+Tuberculosis+by+reducing+Calcium+–+March+2022"
-  - "/tiki-index.php?page_id=13358"
+  - "/13358"
+tiki_page_id: 13358
 date: 2022-02-28
 categories:
   - "Tuberculosis"

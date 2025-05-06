@@ -3,7 +3,8 @@ title: "Perhaps reduce asthma exacerbations with Vitamin D"
 slug: "perhaps-reduce-asthma-exacerbations-with-vitamin-d"
 aliases:
   - "/Perhaps+reduce+asthma+exacerbations+with+Vitamin+D+–+April+2019"
-  - "/tiki-index.php?page_id=10708"
+  - "/10708"
+tiki_page_id: 10708
 date: 2019-04-28
 categories:
   - "Breathing"

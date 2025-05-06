@@ -3,7 +3,8 @@ title: "5 X less COVID infection of health care workers who took lots of vitamin
 slug: "5-x-less-covid-infection-of-health-care-workers-who-took-lots-of-vitamin-d-meta-analysis"
 aliases:
   - "/5+X+less+COVID+infection+of+health+care+workers+who+took+lots+of+vitamin+D+–+meta-analysis+Feb+2024"
-  - "/tiki-index.php?page_id=15083"
+  - "/15083"
+tiki_page_id: 15083
 date: 2024-02-28
 categories:
   - "Intervention"

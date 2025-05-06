@@ -3,7 +3,8 @@ title: "COVID surge in Europe: A preview of what’s ahead for the U.S"
 slug: "covid-surge-in-europe-a-preview-of-whats-ahead-for-the-us"
 aliases:
   - "/COVID+surge+in+Europe+A+preview+of+whats+ahead+for+the+US+-+Nov+22+2021"
-  - "/tiki-index.php?page_id=13106"
+  - "/13106"
+tiki_page_id: 13106
 date: 2021-11-22
 categories:
   - "Virus"

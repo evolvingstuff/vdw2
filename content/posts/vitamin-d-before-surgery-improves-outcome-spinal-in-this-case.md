@@ -3,7 +3,8 @@ title: "Vitamin D before surgery improves outcome (spinal in this case)"
 slug: "vitamin-d-before-surgery-improves-outcome-spinal-in-this-case"
 aliases:
   - "/Vitamin+D+before+surgery+improves+outcome+spinal+in+this+case+–+Dec+2022"
-  - "/tiki-index.php?page_id=14164"
+  - "/14164"
+tiki_page_id: 14164
 date: 2022-12-20
 categories:
   - "Trauma and surgery"

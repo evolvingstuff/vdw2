@@ -3,7 +3,8 @@ title: "Vitamin D and schizophrenia: 20 years on"
 slug: "vitamin-d-and-schizophrenia-20-years-on"
 aliases:
   - "/Vitamin+D+and+schizophrenia+20+years+on+–+Jan+2021"
-  - "/tiki-index.php?page_id=12266"
+  - "/12266"
+tiki_page_id: 12266
 date: 2021-01-26
 categories:
   - "Cognitive"

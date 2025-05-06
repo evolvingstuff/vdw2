@@ -3,7 +3,8 @@ title: "High-altitude Cusco, Peru has far lower rate of COVID-19 than others (hi
 slug: "high-altitude-cusco-peru-has-far-lower-rate-of-covid-19-than-others-high-uvb-and-vitamin-d"
 aliases:
   - "/High-altitude+Cusco+Peru+has+far+lower+rate+of+COVID-19+than+others+high+UVB+and+Vitamin+D+-+June+2020"
-  - "/tiki-index.php?page_id=11817"
+  - "/11817"
+tiki_page_id: 11817
 date: 2020-06-27
 categories:
   - "UV and Vitamin D"

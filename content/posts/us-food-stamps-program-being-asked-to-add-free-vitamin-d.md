@@ -3,7 +3,8 @@ title: "US Food stamps program being asked to add free Vitamin D"
 slug: "us-food-stamps-program-being-asked-to-add-free-vitamin-d"
 aliases:
   - "/US+Food+stamps+program+being+asked+to+add+free+Vitamin+D+-+June+2023"
-  - "/tiki-index.php?page_id=14662"
+  - "/14662"
+tiki_page_id: 14662
 date: 2023-09-06
 ---
 

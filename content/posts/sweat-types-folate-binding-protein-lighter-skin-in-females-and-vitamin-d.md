@@ -3,7 +3,8 @@ title: "Sweat types, folate, binding protein, lighter skin in females and Vitami
 slug: "sweat-types-folate-binding-protein-lighter-skin-in-females-and-vitamin-d"
 aliases:
   - "/Sweat+types+folate+binding+protein+lighter+skin+in+females+and+Vitamin+D+–+Jan+2020"
-  - "/tiki-index.php?page_id=11571"
+  - "/11571"
+tiki_page_id: 11571
 date: 2020-01-19
 categories:
   - "Skin - Dark"

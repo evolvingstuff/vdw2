@@ -3,7 +3,8 @@ title: "Vitamin D prevents and treats cancer in many ways"
 slug: "vitamin-d-prevents-and-treats-cancer-in-many-ways"
 aliases:
   - "/Vitamin+D+prevents+and+treats+cancer+in+many+ways+–+May+2021"
-  - "/tiki-index.php?page_id=12549"
+  - "/12549"
+tiki_page_id: 12549
 date: 2021-04-29
 categories:
   - "Cancer"

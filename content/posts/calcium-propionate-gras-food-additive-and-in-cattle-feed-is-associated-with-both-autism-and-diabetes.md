@@ -3,7 +3,8 @@ title: "Calcium Propionate (GRAS food additive and in cattle feed) is associated
 slug: "calcium-propionate-gras-food-additive-and-in-cattle-feed-is-associated-with-both-autism-and-diabetes"
 aliases:
   - "/Calcium+Propionate+GRAS+food+additive+and+in+cattle+feed+is+associated+with+both+autism+and+Diabetes+–+May+2019"
-  - "/tiki-index.php?page_id=10803"
+  - "/10803"
+tiki_page_id: 10803
 date: 2019-05-22
 ---
 

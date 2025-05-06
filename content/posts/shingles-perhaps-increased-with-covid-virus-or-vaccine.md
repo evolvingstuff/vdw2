@@ -3,7 +3,8 @@ title: "Shingles perhaps increased with COVID virus or vaccine"
 slug: "shingles-perhaps-increased-with-covid-virus-or-vaccine"
 aliases:
   - "/Shingles+perhaps+increased+with+COVID+virus+or+vaccine+-+Nov+2021"
-  - "/tiki-index.php?page_id=13085"
+  - "/13085"
+tiki_page_id: 13085
 date: 2021-11-16
 categories:
   - "Virus"

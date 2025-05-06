@@ -3,7 +3,8 @@ title: "The fear of the coronavirus is more dangerous than the virus itself"
 slug: "the-fear-of-the-coronavirus-is-more-dangerous-than-the-virus-itself"
 aliases:
   - "/The+fear+of+the+coronavirus+is+more+dangerous+than+the+virus+itself+-+March+2020"
-  - "/tiki-index.php?page_id=14349"
+  - "/14349"
+tiki_page_id: 14349
 date: 2023-04-01
 categories:
   - "Virus"

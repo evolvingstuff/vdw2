@@ -3,7 +3,8 @@ title: "More autoimmune disease if higher pollution or lower UVB"
 slug: "more-autoimmune-disease-if-higher-pollution-or-lower-uvb"
 aliases:
   - "/More+autoimmune+disease+if+higher+pollution+or+lower+UVB+-+Feb+2023"
-  - "/tiki-index.php?page_id=14257"
+  - "/14257"
+tiki_page_id: 14257
 date: 2023-02-11
 ---
 

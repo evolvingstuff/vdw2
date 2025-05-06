@@ -3,7 +3,8 @@ title: "The COVID supplement with the most publications: Vitamin D"
 slug: "the-covid-supplement-with-the-most-publications-vitamin-d"
 aliases:
   - "/The+COVID+supplement+with+the+most+publications+Vitamin+D+–+Nov+2022"
-  - "/tiki-index.php?page_id=14128"
+  - "/14128"
+tiki_page_id: 14128
 date: 2022-12-05
 categories:
   - "Top news"

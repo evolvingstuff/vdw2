@@ -3,7 +3,8 @@ title: "UK COVID-19 increased in early October (too much James Bond or too littl
 slug: "uk-covid-19-increased-in-early-october-too-much-james-bond-or-too-little-sun"
 aliases:
   - "/UK+COVID-19+increased+in+early+October+too+much+James+Bond+or+too+little+sun+–+Oct+11+2021"
-  - "/tiki-index.php?page_id=12975"
+  - "/12975"
+tiki_page_id: 12975
 date: 2021-10-12
 categories:
   - "Vitamin D in Europe"

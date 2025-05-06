@@ -3,7 +3,8 @@ title: "Folate in VitaminDWiki - many studies"
 slug: "folate-in-vitamindwiki-many-studies"
 aliases:
   - "/Folate+in+VitaminDWiki+-+many+studies"
-  - "/tiki-index.php?page_id=14526"
+  - "/14526"
+tiki_page_id: 14526
 date: 2023-07-08
 categories:
   - "Supplement"

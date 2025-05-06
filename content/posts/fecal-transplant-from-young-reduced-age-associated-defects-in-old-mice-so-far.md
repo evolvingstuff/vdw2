@@ -3,7 +3,8 @@ title: "Fecal transplant from young reduced age-associated defects in old (mice 
 slug: "fecal-transplant-from-young-reduced-age-associated-defects-in-old-mice-so-far"
 aliases:
   - "/Fecal+transplant+from+young+reduced+age-associated+defects+in+old+mice+so+far+–+Aug+2021"
-  - "/tiki-index.php?page_id=12863"
+  - "/12863"
+tiki_page_id: 12863
 date: 2021-08-27
 categories:
   - "Seniors"

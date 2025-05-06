@@ -3,7 +3,8 @@ title: "Estrogen supplements may cut COVID-19 deaths by half (no surprise - more
 slug: "estrogen-supplements-may-cut-covid-19-deaths-by-half-no-surprise-more-e-more-vitamin-d"
 aliases:
   - "/Estrogen+supplements+may+cut+COVID-19+deaths+by+half+no+surprise+-+more+E+more+Vitamin+D+-+Feb+2022"
-  - "/tiki-index.php?page_id=13340"
+  - "/13340"
+tiki_page_id: 13340
 date: 2022-02-15
 categories:
   - "Women"

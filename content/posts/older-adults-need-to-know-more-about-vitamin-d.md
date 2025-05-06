@@ -3,7 +3,8 @@ title: "Older adults need to know more about Vitamin D"
 slug: "older-adults-need-to-know-more-about-vitamin-d"
 aliases:
   - "/Older+adults+need+to+know+more+about+Vitamin+D+–+June+2018"
-  - "/tiki-index.php?page_id=10687"
+  - "/10687"
+tiki_page_id: 10687
 date: 2019-04-24
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "20,000 COVID-19 infections at Amazon (far less than US average of 34,000
 slug: "20000-covid-19-infections-at-amazon-far-less-than-us-average-of-34000"
 aliases:
   - "/20000+COVID-19+infections+at+Amazon+far+less+than+US+average+of+34000+–+Oct+1+2020"
-  - "/tiki-index.php?page_id=11983"
+  - "/11983"
+tiki_page_id: 11983
 date: 2020-10-01
 categories:
   - "Virus"

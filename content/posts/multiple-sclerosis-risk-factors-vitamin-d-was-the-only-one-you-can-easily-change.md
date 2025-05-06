@@ -3,7 +3,8 @@ title: "Multiple Sclerosis risk factors - Vitamin D was the only one you can eas
 slug: "multiple-sclerosis-risk-factors-vitamin-d-was-the-only-one-you-can-easily-change"
 aliases:
   - "/Multiple+Sclerosis+risk+factors+-+Vitamin+D+was+the+only+one+you+can+easily+change+-+Sept+2023"
-  - "/tiki-index.php?page_id=14675"
+  - "/14675"
+tiki_page_id: 14675
 date: 2023-09-11
 categories:
   - "Multiple Sclerosis"

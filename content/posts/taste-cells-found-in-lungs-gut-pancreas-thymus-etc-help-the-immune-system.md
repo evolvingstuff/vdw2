@@ -3,7 +3,8 @@ title: "“Taste cells” found in lungs, gut, pancreas, thymus, etc help the im
 slug: "taste-cells-found-in-lungs-gut-pancreas-thymus-etc-help-the-immune-system"
 aliases:
   - "/Taste+cells+found+in+lungs+gut+pancreas+thymus+etc+help+the+immune+system+–+Nov+2019"
-  - "/tiki-index.php?page_id=11369"
+  - "/11369"
+tiki_page_id: 11369
 date: 2019-11-18
 ---
 

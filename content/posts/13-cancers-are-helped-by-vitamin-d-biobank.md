@@ -3,7 +3,8 @@ title: "13 Cancers are helped by Vitamin D – Biobank"
 slug: "13-cancers-are-helped-by-vitamin-d-biobank"
 aliases:
   - "/13+Cancers+are+helped+by+Vitamin+D+–+Biobank+July+2023"
-  - "/tiki-index.php?page_id=14543"
+  - "/14543"
+tiki_page_id: 14543
 date: 2023-07-19
 categories:
   - "Cancer - Colon"

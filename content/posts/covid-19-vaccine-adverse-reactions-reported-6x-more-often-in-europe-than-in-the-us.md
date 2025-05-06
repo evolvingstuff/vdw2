@@ -3,7 +3,8 @@ title: "COVID-19 vaccine adverse reactions reported 6X more often in Europe than
 slug: "covid-19-vaccine-adverse-reactions-reported-6x-more-often-in-europe-than-in-the-us"
 aliases:
   - "/COVID-19+vaccine+adverse+reactions+reported+6X+more+often+in+Europe+than+in+the+US+–+March+29+2021"
-  - "/tiki-index.php?page_id=12457"
+  - "/12457"
+tiki_page_id: 12457
 date: 2021-03-31
 categories:
   - "Virus"

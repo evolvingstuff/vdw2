@@ -3,7 +3,8 @@ title: "Liver transplants in children more likely to be rejected if insufficient
 slug: "liver-transplants-in-children-more-likely-to-be-rejected-if-insufficient-vitamin-d"
 aliases:
   - "/Liver+transplants+in+children+more+likely+to+be+rejected+if+insufficient+vitamin+D+–+Aug+2021"
-  - "/tiki-index.php?page_id=12810"
+  - "/12810"
+tiki_page_id: 12810
 date: 2021-08-06
 categories:
   - "Liver"

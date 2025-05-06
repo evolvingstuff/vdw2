@@ -3,7 +3,8 @@ title: "Falls and frailty associated with low levels of both vitamins B12 and D3
 slug: "falls-and-frailty-associated-with-low-levels-of-both-vitamins-b12-and-d3"
 aliases:
   - "/Falls+and+frailty+associated+with+low+levels+of+both+vitamins+B12+and+D3+–+June+2023"
-  - "/tiki-index.php?page_id=14462"
+  - "/14462"
+tiki_page_id: 14462
 date: 2023-06-01
 categories:
   - "Falls and Fractures"

@@ -3,7 +3,8 @@ title: "Vitamin D is needed before most surgeries – many studies and RCTs"
 slug: "vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts"
 aliases:
   - "/Vitamin+D+is+needed+before+most+surgeries+–+many+studies+and+RCTs"
-  - "/tiki-index.php?page_id=14083"
+  - "/14083"
+tiki_page_id: 14083
 date: 2022-11-13
 categories:
   - "Trauma and surgery"

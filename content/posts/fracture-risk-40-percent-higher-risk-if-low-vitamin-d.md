@@ -3,7 +3,8 @@ title: "Fracture risk 40 percent higher risk if low Vitamin D"
 slug: "fracture-risk-40-percent-higher-risk-if-low-vitamin-d"
 aliases:
   - "/Fracture+risk+40+percent+higher+risk+if+low+Vitamin+D+-+June+2019"
-  - "/tiki-index.php?page_id=11104"
+  - "/11104"
+tiki_page_id: 11104
 date: 2019-08-27
 categories:
   - "Falls and Fractures"

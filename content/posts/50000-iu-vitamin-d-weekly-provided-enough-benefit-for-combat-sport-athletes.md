@@ -3,7 +3,8 @@ title: "50,000 IU Vitamin D weekly provided enough benefit for combat sport athl
 slug: "50000-iu-vitamin-d-weekly-provided-enough-benefit-for-combat-sport-athletes"
 aliases:
   - "/50000+IU+Vitamin+D+weekly+provided+enough+benefit+for+combat+sport+athletes+–+March+2020"
-  - "/tiki-index.php?page_id=11690"
+  - "/11690"
+tiki_page_id: 11690
 date: 2020-03-21
 categories:
   - "Sports and Vitamin D"

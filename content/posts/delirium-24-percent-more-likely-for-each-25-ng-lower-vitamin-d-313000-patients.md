@@ -3,7 +3,8 @@ title: "Delirium 24 percent more likely for each 2.5 ng lower vitamin D (313,000
 slug: "delirium-24-percent-more-likely-for-each-25-ng-lower-vitamin-d-313000-patients"
 aliases:
   - "/Delirium+24+percent+more+likely+for+each+25+ng+lower+vitamin+D+313000+patients+–+Feb+2019"
-  - "/tiki-index.php?page_id=10495"
+  - "/10495"
+tiki_page_id: 10495
 date: 2019-02-17
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Cancer in children (Leukemia) more likely to recur if 20-30 ng of vitami
 slug: "cancer-in-children-leukemia-more-likely-to-recur-if-20-30-ng-of-vitamin-d"
 aliases:
   - "/Cancer+in+children+Leukemia+more+likely+to+recur+if+20-30+ng+of+vitamin+D+–+Nov+2022"
-  - "/tiki-index.php?page_id=14107"
+  - "/14107"
+tiki_page_id: 14107
 date: 2022-11-25
 categories:
   - "Infant-Child"

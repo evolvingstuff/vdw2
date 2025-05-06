@@ -3,7 +3,8 @@ title: "V-safe - 7% had emergency medical after vaccination - CDC response, canc
 slug: "v-safe-7-percent-had-emergency-medical-after-vaccination-cdc-response-cancel-v-safe"
 aliases:
   - "/V-safe+-+7+had+emergency+medical+after+vaccination+-+CDC+response+cancel+V-safe+-+Sept+2023"
-  - "/tiki-index.php?page_id=14667"
+  - "/14667"
+tiki_page_id: 14667
 date: 2023-09-07
 categories:
   - "Virus"

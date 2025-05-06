@@ -3,7 +3,8 @@ title: "COVID-19 and Vitamin D: Health Authorities do not understand risk-reward
 slug: "covid-19-and-vitamin-d-health-authorities-do-not-understand-risk-reward"
 aliases:
   - "/COVID-19+and+Vitamin+D+Health+Authorities+do+not+understand+risk-reward+–+Nov+2020"
-  - "/tiki-index.php?page_id=12096"
+  - "/12096"
+tiki_page_id: 12096
 date: 2020-11-29
 categories:
   - "Virus"

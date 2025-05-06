@@ -3,7 +3,8 @@ title: "Vitamin D levels in a nursing home (Austria)"
 slug: "vitamin-d-levels-in-a-nursing-home-austria"
 aliases:
   - "/Vitamin+D+levels+in+a+nursing+home+Austria+–+Oct+2023"
-  - "/tiki-index.php?page_id=14699"
+  - "/14699"
+tiki_page_id: 14699
 date: 2023-09-24
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Behavior disorders reduced with Magnesium, Omega-3, and Zinc"
 slug: "behavior-disorders-reduced-with-magnesium-omega-3-and-zinc"
 aliases:
   - "/Behavior+disorders+reduced+with+Magnesium+Omega-3+and+Zinc"
-  - "/tiki-index.php?page_id=11081"
+  - "/11081"
+tiki_page_id: 11081
 date: 2019-08-16
 categories:
   - "Vitamin D and Magnesium"

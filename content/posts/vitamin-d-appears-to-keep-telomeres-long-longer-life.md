@@ -3,7 +3,8 @@ title: "Vitamin D appears to keep telomeres long (longer life)"
 slug: "vitamin-d-appears-to-keep-telomeres-long-longer-life"
 aliases:
   - "/Vitamin+D+appears+to+keep+telomeres+long+longer+life+–+Jan+2021"
-  - "/tiki-index.php?page_id=12153"
+  - "/12153"
+tiki_page_id: 12153
 date: 2020-12-18
 categories:
   - "Mortality and D"

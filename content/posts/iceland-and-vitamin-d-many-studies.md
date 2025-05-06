@@ -3,7 +3,8 @@ title: "Iceland and Vitamin D - many studies"
 slug: "iceland-and-vitamin-d-many-studies"
 aliases:
   - "/Iceland+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14044"
+  - "/14044"
+tiki_page_id: 14044
 date: 2022-10-27
 categories:
   - "Vitamin D Far from equator"

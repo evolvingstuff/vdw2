@@ -3,7 +3,8 @@ title: "4.1 X higher risk of Lymph node metastasis if low vitamin D (Thyroid Can
 slug: "41-x-higher-risk-of-lymph-node-metastasis-if-low-vitamin-d-thyroid-cancer"
 aliases:
   - "/41+X+higher+risk+of+Lymph+node+metastasis+if+low+vitamin+D+Thyroid+Cancer+–+Dec+2021"
-  - "/tiki-index.php?page_id=13147"
+  - "/13147"
+tiki_page_id: 13147
 date: 2021-12-06
 categories:
   - "Cancer - after diagnosis"

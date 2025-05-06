@@ -3,7 +3,8 @@ title: "Doctors want to prescribe alternative COVID treatments and not give vacc
 slug: "doctors-want-to-prescribe-alternative-covid-treatments-and-not-give-vaccines-needlessly-summit"
 aliases:
   - "/Doctors+want+to+prescribe+alternative+COVID+treatments+and+not+give+vaccines+needlessly+-+Summit+Nov+6+2021"
-  - "/tiki-index.php?page_id=13057"
+  - "/13057"
+tiki_page_id: 13057
 date: 2021-11-06
 categories:
   - "Virus"

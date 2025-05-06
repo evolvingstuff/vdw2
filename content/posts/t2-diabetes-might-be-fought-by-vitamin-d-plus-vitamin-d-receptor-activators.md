@@ -3,7 +3,8 @@ title: "T2 Diabetes might be fought by Vitamin D plus Vitamin D Receptor activat
 slug: "t2-diabetes-might-be-fought-by-vitamin-d-plus-vitamin-d-receptor-activators"
 aliases:
   - "/T2+Diabetes+might+be+fought+by+Vitamin+D+plus+Vitamin+D+Receptor+activators+–+April+2023"
-  - "/tiki-index.php?page_id=14400"
+  - "/14400"
+tiki_page_id: 14400
 date: 2023-04-28
 categories:
   - "Diabetes"

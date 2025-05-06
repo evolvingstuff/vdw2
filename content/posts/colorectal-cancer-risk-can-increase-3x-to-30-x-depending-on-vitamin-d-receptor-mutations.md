@@ -3,7 +3,8 @@ title: "Colorectal Cancer risk can increase 3X  to 30 X, depending on Vitamin D 
 slug: "colorectal-cancer-risk-can-increase-3x-to-30-x-depending-on-vitamin-d-receptor-mutations"
 aliases:
   - "/Colorectal+Cancer+risk+can+increase+3X+to+30+X+depending+on+Vitamin+D+Receptor+mutations+–+Jan+2021"
-  - "/tiki-index.php?page_id=15095"
+  - "/15095"
+tiki_page_id: 15095
 date: 2024-03-02
 ---
 

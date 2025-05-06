@@ -3,7 +3,8 @@ title: "COVID death 5.2X more likely if Vitamin D deficient"
 slug: "covid-death-52x-more-likely-if-vitamin-d-deficient"
 aliases:
   - "/COVID+death+52X+more+likely+if+Vitamin+D+deficient+–+May+2022"
-  - "/tiki-index.php?page_id=13539"
+  - "/13539"
+tiki_page_id: 13539
 date: 2022-05-03
 categories:
   - "Mortality and D"

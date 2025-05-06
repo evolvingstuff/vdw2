@@ -3,7 +3,8 @@ title: "US Healthcare professionals make a lot of money"
 slug: "us-healthcare-professionals-make-a-lot-of-money"
 aliases:
   - "/US+Healthcare+professionals+make+a+lot+of+money+–+Nov+2019"
-  - "/tiki-index.php?page_id=11367"
+  - "/11367"
+tiki_page_id: 11367
 date: 2019-11-18
 ---
 

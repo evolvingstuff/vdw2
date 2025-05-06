@@ -3,7 +3,8 @@ title: "Neuromyelitis optica spectrum disorder (a rare nerve inflammation)  24X 
 slug: "neuromyelitis-optica-spectrum-disorder-a-rare-nerve-inflammation-24x-more-likely-t-meta-analysis"
 aliases:
   - "/Neuromyelitis+optica+spectrum+disorder+a+rare+nerve+inflammation+24X+more+likely+to+be+vitamin+D+deficient+–+meta-analysis+Dec+2023"
-  - "/tiki-index.php?page_id=14899"
+  - "/14899"
+tiki_page_id: 14899
 date: 2023-12-20
 categories:
   - "Autoimmune"

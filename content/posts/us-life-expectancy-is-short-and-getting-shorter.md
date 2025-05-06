@@ -3,7 +3,8 @@ title: "US Life expectancy is short and getting shorter"
 slug: "us-life-expectancy-is-short-and-getting-shorter"
 aliases:
   - "/US+Life+expectancy+is+short+and+getting+shorter"
-  - "/tiki-index.php?page_id=14336"
+  - "/14336"
+tiki_page_id: 14336
 date: 2023-03-27
 ---
 

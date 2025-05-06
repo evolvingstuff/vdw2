@@ -3,7 +3,8 @@ title: "Vitamin D insufficiency in child 15X more likely if father is Vitamin D 
 slug: "vitamin-d-insufficiency-in-child-15x-more-likely-if-father-is-vitamin-d-insufficient"
 aliases:
   - "/Vitamin+D+insufficiency+in+child+15X+more+likely+if+father+is+Vitamin+D+insufficient+–+June+2021"
-  - "/tiki-index.php?page_id=12643"
+  - "/12643"
+tiki_page_id: 12643
 date: 2021-06-09
 categories:
   - "Infant-Child"

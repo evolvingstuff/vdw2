@@ -3,7 +3,8 @@ title: "Study Finds Another Condition That Vitamin D Pills Do Not Help - NYT"
 slug: "study-finds-another-condition-that-vitamin-d-pills-do-not-help-nyt"
 aliases:
   - "/Study+Finds+Another+Condition+That+Vitamin+D+Pills+Do+Not+Help+-+NYT+July+2022"
-  - "/tiki-index.php?page_id=13802"
+  - "/13802"
+tiki_page_id: 13802
 date: 2022-07-27
 categories:
   - "Falls and Fractures"

@@ -3,7 +3,8 @@ title: "Natural immunity to SARS (at least 10 months SARS-2, 200 months SARS-1) 
 slug: "natural-immunity-to-sars-at-least-10-months-sars-2-200-months-sars-1-lancet"
 aliases:
   - "/Natural+immunity+to+SARS+at+least+10+months+SARS-2+200+months+SARS-1+-+Lancet+Nov+8+2021"
-  - "/tiki-index.php?page_id=13068"
+  - "/13068"
+tiki_page_id: 13068
 date: 2021-11-10
 categories:
   - "Virus"

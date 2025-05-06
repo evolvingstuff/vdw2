@@ -3,7 +3,8 @@ title: "Low Vitamin D 2X more likely in power-sport athletes"
 slug: "low-vitamin-d-2x-more-likely-in-power-sport-athletes"
 aliases:
   - "/Low+Vitamin+D+2X+more+likely+in+power-sport+athletes+–+June+2022"
-  - "/tiki-index.php?page_id=13768"
+  - "/13768"
+tiki_page_id: 13768
 date: 2022-07-18
 categories:
   - "Sports and Vitamin D"

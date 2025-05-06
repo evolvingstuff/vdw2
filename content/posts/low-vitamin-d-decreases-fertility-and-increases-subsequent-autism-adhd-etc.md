@@ -3,7 +3,8 @@ title: "Low Vitamin D decreases fertility and increases subsequent autism, ADHD,
 slug: "low-vitamin-d-decreases-fertility-and-increases-subsequent-autism-adhd-etc"
 aliases:
   - "/Low+Vitamin+D+decreases+fertility+and+increases+subsequent+autism+ADHD+etc+–+Feb+2018"
-  - "/tiki-index.php?page_id=12689"
+  - "/12689"
+tiki_page_id: 12689
 date: 2021-06-27
 categories:
   - "Fertility and sperm"

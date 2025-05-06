@@ -3,7 +3,8 @@ title: "How obesity reduces the ability of vitamin D to fight health problems su
 slug: "how-obesity-reduces-the-ability-of-vitamin-d-to-fight-health-problems-such-as-covid"
 aliases:
   - "/How+obesity+reduces+the+ability+of+vitamin+D+to+fight+health+problems+such+as+COVID+-+Nov+2021"
-  - "/tiki-index.php?page_id=13119"
+  - "/13119"
+tiki_page_id: 13119
 date: 2021-11-27
 categories:
   - "Obesity"

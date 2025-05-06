@@ -3,7 +3,8 @@ title: "Vitamin D and its’ role in Parkinson’s disease patients with COVID"
 slug: "vitamin-d-and-its-role-in-parkinsons-disease-patients-with-covid"
 aliases:
   - "/Vitamin+D+and+its+role+in+Parkinsons+disease+patients+with+COVID+-+Jan+2022"
-  - "/tiki-index.php?page_id=13253"
+  - "/13253"
+tiki_page_id: 13253
 date: 2022-01-12
 categories:
   - "Parkinson"

@@ -3,7 +3,8 @@ title: "More Cancer if less sun – model adding climate helps (need additional 
 slug: "more-cancer-if-less-sun-model-adding-climate-helps-need-additional-factors"
 aliases:
   - "/More+Cancer+if+less+sun+–+model+adding+climate+helps+need+additional+factors+–+Nov+2019"
-  - "/tiki-index.php?page_id=11515"
+  - "/11515"
+tiki_page_id: 11515
 date: 2019-12-30
 ---
 

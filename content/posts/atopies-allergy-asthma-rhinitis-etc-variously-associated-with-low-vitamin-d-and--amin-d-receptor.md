@@ -3,7 +3,8 @@ title: "Atopies (allergy, asthma, rhinitis, etc.) variously associated with low 
 slug: "atopies-allergy-asthma-rhinitis-etc-variously-associated-with-low-vitamin-d-and--amin-d-receptor"
 aliases:
   - "/Atopies+allergy+asthma+rhinitis+etc+variously+associated+with+low+Vitamin+D+and+poor+Vitamin+D+Receptor+–+Aug+2021"
-  - "/tiki-index.php?page_id=12803"
+  - "/12803"
+tiki_page_id: 12803
 date: 2021-08-03
 categories:
   - "Breathing"

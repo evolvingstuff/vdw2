@@ -3,7 +3,8 @@ title: "Type 1 Diabetes (Autoimmune) and Vitamin D, Vitamin D Receptor and Cathe
 slug: "type-1-diabetes-autoimmune-and-vitamin-d-vitamin-d-receptor-and-cathelicidin"
 aliases:
   - "/Type+1+Diabetes+Autoimmune+and+Vitamin+D+Vitamin+D+Receptor+and+Cathelicidin+-+Dec+2020"
-  - "/tiki-index.php?page_id=12109"
+  - "/12109"
+tiki_page_id: 12109
 date: 2020-12-03
 categories:
   - "Diabetes"

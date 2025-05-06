@@ -3,7 +3,8 @@ title: "Autistic symptoms reduced by Vitamin D and or Omega-3 – RCT"
 slug: "autistic-symptoms-reduced-by-vitamin-d-and-or-omega-3-rct"
 aliases:
   - "/Autistic+symptoms+reduced+by+Vitamin+D+and+or+Omega-3+–+RCT+March+2019"
-  - "/tiki-index.php?page_id=10657"
+  - "/10657"
+tiki_page_id: 10657
 date: 2019-04-11
 categories:
   - "Autism"

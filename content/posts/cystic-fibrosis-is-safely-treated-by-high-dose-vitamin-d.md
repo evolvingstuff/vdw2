@@ -3,7 +3,8 @@ title: "Cystic Fibrosis is safely treated by high-dose Vitamin D"
 slug: "cystic-fibrosis-is-safely-treated-by-high-dose-vitamin-d"
 aliases:
   - "/Cystic+Fibrosis+is+safely+treated+by+high-dose+Vitamin+D+–+Sept+2019"
-  - "/tiki-index.php?page_id=11391"
+  - "/11391"
+tiki_page_id: 11391
 date: 2019-11-25
 categories:
   - "Cystic Fibrosis"

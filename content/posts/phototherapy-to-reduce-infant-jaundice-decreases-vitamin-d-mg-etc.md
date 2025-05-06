@@ -3,7 +3,8 @@ title: "Phototherapy to reduce infant Jaundice decreases Vitamin D, Mg, etc."
 slug: "phototherapy-to-reduce-infant-jaundice-decreases-vitamin-d-mg-etc"
 aliases:
   - "/Phototherapy+to+reduce+infant+Jaundice+decreases+Vitamin+D+Mg+etc+Nov+2022"
-  - "/tiki-index.php?page_id=14096"
+  - "/14096"
+tiki_page_id: 14096
 date: 2022-11-18
 categories:
   - "Pregnancy"

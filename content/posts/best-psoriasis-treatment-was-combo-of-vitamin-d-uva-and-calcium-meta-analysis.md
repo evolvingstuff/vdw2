@@ -3,7 +3,8 @@ title: "Best psoriasis treatment was combo of Vitamin D,  UVA, and Calcium – m
 slug: "best-psoriasis-treatment-was-combo-of-vitamin-d-uva-and-calcium-meta-analysis"
 aliases:
   - "/Best+psoriasis+treatment+was+combo+of+Vitamin+D+UVA+and+Calcium+–+meta-analysis+Jan+2022"
-  - "/tiki-index.php?page_id=13993"
+  - "/13993"
+tiki_page_id: 13993
 date: 2022-10-07
 categories:
   - "UV and Vitamin D"

@@ -3,7 +3,8 @@ title: "Less cognitive decline in older blacks getting 2,000 IU of vitamin D dai
 slug: "less-cognitive-decline-in-older-blacks-getting-2000-iu-of-vitamin-d-daily-for-ye-st-analysis-rct"
 aliases:
   - "/Less+cognitive+decline+in+older+blacks+getting+2000+IU+of+vitamin+D+daily+for+years+VITAL+etc+post+analysis+–+RCT+Dec+2021"
-  - "/tiki-index.php?page_id=13136"
+  - "/13136"
+tiki_page_id: 13136
 date: 2021-12-02
 categories:
   - "Skin - Dark"

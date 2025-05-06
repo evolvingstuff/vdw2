@@ -3,7 +3,8 @@ title: "Large dose Vitamin D before surgery was found to help by 35 studies"
 slug: "large-dose-vitamin-d-before-surgery-was-found-to-help-by-35-studies"
 aliases:
   - "/Large+dose+Vitamin+D+before+surgery+was+found+to+help+by+35+studies"
-  - "/tiki-index.php?page_id=14412"
+  - "/14412"
+tiki_page_id: 14412
 date: 2023-05-07
 categories:
   - "Pain - chronic"

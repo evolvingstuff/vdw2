@@ -3,7 +3,8 @@ title: "Menopause delayed and symptoms decreased by Vitamin D - many studies"
 slug: "menopause-delayed-and-symptoms-decreased-by-vitamin-d-many-studies"
 aliases:
   - "/Menopause+delayed+and+symptoms+decreased+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14800"
+  - "/14800"
+tiki_page_id: 14800
 date: 2023-10-31
 categories:
   - "Seniors"

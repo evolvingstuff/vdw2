@@ -3,7 +3,8 @@ title: "Pfizer trial vaccinated 22,000: 1 COVID death prevented, but 4 died of h
 slug: "pfizer-trial-vaccinated-22000-1-covid-death-prevented-but-4-died-of-heart-attacks"
 aliases:
   - "/Pfizer+trial+vaccinated+22000+1+COVID+death+prevented+but+4+died+of+heart+attacks+-+Nov+2021"
-  - "/tiki-index.php?page_id=13097"
+  - "/13097"
+tiki_page_id: 13097
 date: 2021-11-20
 categories:
   - "Virus"

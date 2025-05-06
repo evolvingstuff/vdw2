@@ -3,7 +3,8 @@ title: "Half of Cystic Fibrosis patients have low Magnesium levels"
 slug: "half-of-cystic-fibrosis-patients-have-low-magnesium-levels"
 aliases:
   - "/Half+of+Cystic+Fibrosis+patients+have+low+Magnesium+levels+–+April+2022"
-  - "/tiki-index.php?page_id=13517"
+  - "/13517"
+tiki_page_id: 13517
 date: 2022-04-25
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "CDC forced to release 780,000 COVID-19 problems not previously reported"
 slug: "cdc-forced-to-release-780000-covid-19-problems-not-previously-reported"
 aliases:
   - "/CDC+forced+to+release+780000+COVID-19+problems+not+previously+reported+-+April+2024"
-  - "/tiki-index.php?page_id=15191"
+  - "/15191"
+tiki_page_id: 15191
 date: 2024-04-05
 categories:
   - "Virus"

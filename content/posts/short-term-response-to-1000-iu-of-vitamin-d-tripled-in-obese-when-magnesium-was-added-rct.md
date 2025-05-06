@@ -3,7 +3,8 @@ title: "Short-term response to 1,000 IU of Vitamin D tripled in obese when Magne
 slug: "short-term-response-to-1000-iu-of-vitamin-d-tripled-in-obese-when-magnesium-was-added-rct"
 aliases:
   - "/Short-term+response+to+1000+IU+of+Vitamin+D+tripled+in+obese+when+Magnesium+was+added+–+RCT+April+2022"
-  - "/tiki-index.php?page_id=13451"
+  - "/13451"
+tiki_page_id: 13451
 date: 2022-04-05
 categories:
   - "Vitamin D and Magnesium"

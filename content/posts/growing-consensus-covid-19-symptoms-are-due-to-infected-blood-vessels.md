@@ -3,7 +3,8 @@ title: "Growing consensus: COVID-19 symptoms are due to infected blood vessels"
 slug: "growing-consensus-covid-19-symptoms-are-due-to-infected-blood-vessels"
 aliases:
   - "/Growing+consensus+COVID-19+symptoms+are+due+to+infected+blood+vessels+-+April+2021"
-  - "/tiki-index.php?page_id=12558"
+  - "/12558"
+tiki_page_id: 12558
 date: 2021-05-01
 categories:
   - "Cardiovascular"

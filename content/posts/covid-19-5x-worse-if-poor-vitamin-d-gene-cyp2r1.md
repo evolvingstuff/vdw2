@@ -3,7 +3,8 @@ title: "COVID-19 5X worse if poor Vitamin D gene (CYP2R1)"
 slug: "covid-19-5x-worse-if-poor-vitamin-d-gene-cyp2r1"
 aliases:
   - "/COVID-19+5X+worse+if+poor+Vitamin+D+gene+CYP2R1+–+June+2021"
-  - "/tiki-index.php?page_id=12673"
+  - "/12673"
+tiki_page_id: 12673
 date: 2021-06-21
 categories:
   - "Genetics"

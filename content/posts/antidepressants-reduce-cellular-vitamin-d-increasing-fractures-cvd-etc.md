@@ -3,7 +3,8 @@ title: "Antidepressants reduce cellular Vitamin D, increasing fractures, CVD, et
 slug: "antidepressants-reduce-cellular-vitamin-d-increasing-fractures-cvd-etc"
 aliases:
   - "/Antidepressants+reduce+cellular+Vitamin+D+increasing+fractures+CVD+etc+-+Oct+2022"
-  - "/tiki-index.php?page_id=14015"
+  - "/14015"
+tiki_page_id: 14015
 date: 2022-10-16
 ---
 

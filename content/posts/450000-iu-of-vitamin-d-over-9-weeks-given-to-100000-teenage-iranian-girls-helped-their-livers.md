@@ -3,7 +3,8 @@ title: "450,000 IU of vitamin D over 9 weeks given to 100,000 teenage Iranian gi
 slug: "450000-iu-of-vitamin-d-over-9-weeks-given-to-100000-teenage-iranian-girls-helped-their-livers"
 aliases:
   - "/450000+IU+of+vitamin+D+over+9+weeks+given+to+100000+teenage+Iranian+girls+helped+their+livers+–+Feb+2019"
-  - "/tiki-index.php?page_id=10489"
+  - "/10489"
+tiki_page_id: 10489
 date: 2019-02-14
 categories:
   - "Liver"

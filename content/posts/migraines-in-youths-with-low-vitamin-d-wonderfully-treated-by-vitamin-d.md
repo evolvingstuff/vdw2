@@ -3,7 +3,8 @@ title: "Migraines in youths with low Vitamin D wonderfully treated by Vitamin D"
 slug: "migraines-in-youths-with-low-vitamin-d-wonderfully-treated-by-vitamin-d"
 aliases:
   - "/Migraines+in+youths+with+low+Vitamin+D+wonderfully+treated+by+Vitamin+D+–+June+2019"
-  - "/tiki-index.php?page_id=10979"
+  - "/10979"
+tiki_page_id: 10979
 date: 2019-07-12
 categories:
   - "Headache"

@@ -3,7 +3,8 @@ title: "19X fewer COVID-19 infections if innate immune system activated – tria
 slug: "19x-fewer-covid-19-infections-if-innate-immune-system-activated-trial"
 aliases:
   - "/19X+fewer+COVID-19+infections+if+innate+immune+system+activated+–+trial+Oct+21+2020"
-  - "/tiki-index.php?page_id=12019"
+  - "/12019"
+tiki_page_id: 12019
 date: 2020-10-21
 categories:
   - "Immunity"

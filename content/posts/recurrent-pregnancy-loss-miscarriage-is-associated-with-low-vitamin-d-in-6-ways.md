@@ -3,7 +3,8 @@ title: "Recurrent pregnancy loss (miscarriage) is associated with low vitamin D 
 slug: "recurrent-pregnancy-loss-miscarriage-is-associated-with-low-vitamin-d-in-6-ways"
 aliases:
   - "/Recurrent+pregnancy+loss+miscarriage+is+associated+with+low+vitamin+D+in+6+ways+–+March+2021"
-  - "/tiki-index.php?page_id=12432"
+  - "/12432"
+tiki_page_id: 12432
 date: 2021-03-24
 categories:
   - "Pregnancy"

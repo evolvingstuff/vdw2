@@ -3,7 +3,8 @@ title: "VitaminDWiki: Your Go-To Vitamin D Website - 2019"
 slug: "vitamindwiki-your-go-to-vitamin-d-website-2019"
 aliases:
   - "/VitaminDWiki+Your+Go-To+Vitamin+D+Website+-+2019"
-  - "/tiki-index.php?page_id=10567"
+  - "/10567"
+tiki_page_id: 10567
 date: 2019-03-14
 categories:
   - "About D - introduction"

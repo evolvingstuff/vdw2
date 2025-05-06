@@ -3,7 +3,8 @@ title: "COVID and low vitamin D (Ireland this time)"
 slug: "covid-and-low-vitamin-d-ireland-this-time"
 aliases:
   - "/COVID+and+low+vitamin+D+Ireland+this+time+-+March+2022"
-  - "/tiki-index.php?page_id=13373"
+  - "/13373"
+tiki_page_id: 13373
 date: 2022-03-05
 categories:
   - "Deficiency of Vitamin D"

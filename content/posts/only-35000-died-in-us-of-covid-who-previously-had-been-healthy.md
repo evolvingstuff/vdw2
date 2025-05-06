@@ -3,7 +3,8 @@ title: "Only 35,000 died in US of COVID who previously had been healthy"
 slug: "only-35000-died-in-us-of-covid-who-previously-had-been-healthy"
 aliases:
   - "/Only+35000+died+in+US+of+COVID+who+previously+had+been+healthy"
-  - "/tiki-index.php?page_id=13071"
+  - "/13071"
+tiki_page_id: 13071
 date: 2021-11-11
 categories:
   - "Seniors"

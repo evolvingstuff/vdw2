@@ -3,7 +3,8 @@ title: "Bariatric surgery increases risk of bone fracture (less vitamin D adsorb
 slug: "bariatric-surgery-increases-risk-of-bone-fracture-less-vitamin-d-adsorbed"
 aliases:
   - "/Bariatric+surgery+increases+risk+of+bone+fracture+less+vitamin+D+adsorbed+-+June+2023"
-  - "/tiki-index.php?page_id=14477"
+  - "/14477"
+tiki_page_id: 14477
 date: 2023-06-09
 categories:
   - "Obesity"

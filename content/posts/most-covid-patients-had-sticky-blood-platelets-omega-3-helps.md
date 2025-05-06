@@ -3,7 +3,8 @@ title: "Most COVID patients had sticky blood platelets (Omega-3 helps)"
 slug: "most-covid-patients-had-sticky-blood-platelets-omega-3-helps"
 aliases:
   - "/Most+COVID+patients+had+sticky+blood+platelets+Omega-3+helps+-+Dec+2021"
-  - "/tiki-index.php?page_id=13190"
+  - "/13190"
+tiki_page_id: 13190
 date: 2021-12-14
 categories:
   - "Stroke"

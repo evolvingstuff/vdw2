@@ -3,7 +3,8 @@ title: "Hip fractures are predicted by 10 factors – low Vitamin D is the bigge
 slug: "hip-fractures-are-predicted-by-10-factors-low-vitamin-d-is-the-biggest"
 aliases:
   - "/Hip+fractures+are+predicted+by+10+factors+–+low+Vitamin+D+is+the+biggest+–+Aug+2023"
-  - "/tiki-index.php?page_id=14603"
+  - "/14603"
+tiki_page_id: 14603
 date: 2023-08-11
 categories:
   - "Falls and Fractures"

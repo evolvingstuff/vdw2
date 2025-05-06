@@ -3,7 +3,8 @@ title: "Pregnancies helped by Vitamin D in many ways – 27th meta-analysis"
 slug: "pregnancies-helped-by-vitamin-d-in-many-ways-27th-meta-analysis"
 aliases:
   - "/Pregnancies+helped+by+Vitamin+D+in+many+ways+–+27th+meta-analysis+Jan+2019"
-  - "/tiki-index.php?page_id=10429"
+  - "/10429"
+tiki_page_id: 10429
 date: 2019-01-25
 categories:
   - "Pregnancy"

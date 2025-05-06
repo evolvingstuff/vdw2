@@ -3,7 +3,8 @@ title: "Sarcopenia with obesity is more likely if dark skin, diabetes, OR COPD (
 slug: "sarcopenia-with-obesity-is-more-likely-if-dark-skin-diabetes-or-copd-all-associa-h-low-vitamin-d"
 aliases:
   - "/Sarcopenia+with+obesity+is+more+likely+if+dark+skin+diabetes+OR+COPD+all+associated+with+low+vitamin+D"
-  - "/tiki-index.php?page_id=12995"
+  - "/12995"
+tiki_page_id: 12995
 date: 2021-10-16
 categories:
   - "Skin - Dark"

@@ -3,7 +3,8 @@ title: "Depression is treated by 2,000 IU of Vitamin D – 2 meta-analyses"
 slug: "depression-is-treated-by-2000-iu-of-vitamin-d-2-meta-analyses"
 aliases:
   - "/Depression+is+treated+by+2000+IU+of+Vitamin+D+–+2+meta-analyses+July+2022"
-  - "/tiki-index.php?page_id=13748"
+  - "/13748"
+tiki_page_id: 13748
 date: 2022-07-11
 categories:
   - "Depression"

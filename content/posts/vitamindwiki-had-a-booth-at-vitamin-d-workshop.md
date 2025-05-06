@@ -3,7 +3,8 @@ title: "VitaminDWiki had a booth at Vitamin D Workshop"
 slug: "vitamindwiki-had-a-booth-at-vitamin-d-workshop"
 aliases:
   - "/VitaminDWiki+had+a+booth+at+Vitamin+D+Workshop+May+2019"
-  - "/tiki-index.php?page_id=10818"
+  - "/10818"
+tiki_page_id: 10818
 date: 2019-06-01
 categories:
   - "Top news"

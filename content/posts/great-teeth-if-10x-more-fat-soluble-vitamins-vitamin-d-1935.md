@@ -3,7 +3,8 @@ title: "Great Teeth if 10X more fat-soluble vitamins (Vitamin D) - 1935"
 slug: "great-teeth-if-10x-more-fat-soluble-vitamins-vitamin-d-1935"
 aliases:
   - "/Great+Teeth+if+10X+more+fat-soluble+vitamins+Vitamin+D+-+1935"
-  - "/tiki-index.php?page_id=10316"
+  - "/10316"
+tiki_page_id: 10316
 date: 2018-12-14
 categories:
   - "Dental"

@@ -3,7 +3,8 @@ title: "Pulmonary Fibrosis (lung scaring) and Vitamin D – several studies"
 slug: "pulmonary-fibrosis-lung-scaring-and-vitamin-d-several-studies"
 aliases:
   - "/Pulmonary+Fibrosis+lung+scaring+and+Vitamin+D+–+several+studies"
-  - "/tiki-index.php?page_id=11562"
+  - "/11562"
+tiki_page_id: 11562
 date: 2020-01-15
 categories:
   - "Breathing"

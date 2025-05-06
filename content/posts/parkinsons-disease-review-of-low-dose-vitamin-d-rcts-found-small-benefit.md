@@ -3,7 +3,8 @@ title: "Parkinson’s disease: Review of low-dose vitamin D RCTs found small ben
 slug: "parkinsons-disease-review-of-low-dose-vitamin-d-rcts-found-small-benefit"
 aliases:
   - "/Parkinsons+disease+Review+of+low-dose+vitamin+D+RCTs+found+small+benefit+–+Sept+2023"
-  - "/tiki-index.php?page_id=14731"
+  - "/14731"
+tiki_page_id: 14731
 date: 2023-10-06
 categories:
   - "Parkinson"

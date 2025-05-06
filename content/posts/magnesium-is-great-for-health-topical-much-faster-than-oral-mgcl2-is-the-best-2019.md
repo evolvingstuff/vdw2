@@ -3,7 +3,8 @@ title: "Magnesium is great for health, topical much faster than oral, MgCl2 is t
 slug: "magnesium-is-great-for-health-topical-much-faster-than-oral-mgcl2-is-the-best-2019"
 aliases:
   - "/Magnesium+is+great+for+health+topical+much+faster+than+oral+MgCl2+is+the+best+–+2019"
-  - "/tiki-index.php?page_id=10893"
+  - "/10893"
+tiki_page_id: 10893
 date: 2019-06-17
 categories:
   - "Vitamin D and Magnesium"

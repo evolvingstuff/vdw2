@@ -3,7 +3,8 @@ title: "Risk of heart failure increased 1.4X if low vitamin D – meta-analysis"
 slug: "risk-of-heart-failure-increased-14x-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Risk+of+heart+failure+increased+14X+if+low+vitamin+D+–+meta-analysis+Dec+2022"
-  - "/tiki-index.php?page_id=14174"
+  - "/14174"
+tiki_page_id: 14174
 date: 2022-12-28
 categories:
   - "Cardiovascular"

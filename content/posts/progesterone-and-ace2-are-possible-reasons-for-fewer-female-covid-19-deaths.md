@@ -3,7 +3,8 @@ title: "Progesterone and ACE2 are possible reasons for fewer female COVID-19 dea
 slug: "progesterone-and-ace2-are-possible-reasons-for-fewer-female-covid-19-deaths"
 aliases:
   - "/Progesterone+and+ACE2+are+possible+reasons+for+fewer+female+COVID-19+deaths"
-  - "/tiki-index.php?page_id=11898"
+  - "/11898"
+tiki_page_id: 11898
 date: 2020-08-09
 categories:
   - "Women"

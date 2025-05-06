@@ -3,7 +3,8 @@ title: "Test the find function"
 slug: "test-the-find-function"
 aliases:
   - "/Test+the+find+function"
-  - "/tiki-index.php?page_id=11525"
+  - "/11525"
+tiki_page_id: 11525
 date: 2020-01-03
 categories:
   - "Admin Only"

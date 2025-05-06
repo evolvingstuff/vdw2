@@ -3,7 +3,8 @@ title: "All COVID-19 patients had low vitamin D, the lowest were more likely to 
 slug: "all-covid-19-patients-had-low-vitamin-d-the-lowest-were-more-likely-to-die"
 aliases:
   - "/All+COVID-19+patients+had+low+vitamin+D+the+lowest+were+more+likely+to+die+–+Feb+18+2021"
-  - "/tiki-index.php?page_id=12331"
+  - "/12331"
+tiki_page_id: 12331
 date: 2021-02-19
 categories:
   - "Deficiency of Vitamin D"

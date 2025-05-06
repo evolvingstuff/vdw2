@@ -3,7 +3,8 @@ title: "World Arthritis Day - Children who suffer with arthritis are lacking Vit
 slug: "world-arthritis-day-children-who-suffer-with-arthritis-are-lacking-vitamin-d"
 aliases:
   - "/World+Arthritis+Day+-+Children+who+suffer+with+arthritis+are+lacking+Vitamin+D+-+Oct+2019"
-  - "/tiki-index.php?page_id=11227"
+  - "/11227"
+tiki_page_id: 11227
 date: 2019-10-12
 ---
 

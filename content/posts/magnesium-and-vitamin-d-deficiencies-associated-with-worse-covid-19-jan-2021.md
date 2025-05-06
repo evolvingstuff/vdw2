@@ -3,7 +3,8 @@ title: "Magnesium and Vitamin D deficiencies associated with worse COVID-19 – 
 slug: "magnesium-and-vitamin-d-deficiencies-associated-with-worse-covid-19-jan-2021"
 aliases:
   - "/Magnesium+and+Vitamin+D+deficiencies+associated+with+worse+COVID-19+–+Jan+2021"
-  - "/tiki-index.php?page_id=12287"
+  - "/12287"
+tiki_page_id: 12287
 date: 2021-02-01
 categories:
   - "Vitamin D and Magnesium"

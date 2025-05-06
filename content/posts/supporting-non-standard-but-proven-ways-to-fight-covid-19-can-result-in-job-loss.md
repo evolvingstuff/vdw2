@@ -3,7 +3,8 @@ title: "Supporting non-standard but proven ways to fight COVID-19 can result in 
 slug: "supporting-non-standard-but-proven-ways-to-fight-covid-19-can-result-in-job-loss"
 aliases:
   - "/Supporting+non-standard+but+proven+ways+to+fight+COVID-19+can+result+in+job+loss+–+March+2021"
-  - "/tiki-index.php?page_id=12399"
+  - "/12399"
+tiki_page_id: 12399
 date: 2021-03-11
 categories:
   - "Top news"

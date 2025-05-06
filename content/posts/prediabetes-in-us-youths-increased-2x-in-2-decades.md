@@ -3,7 +3,8 @@ title: "Prediabetes in US youths increased 2X in 2 decades"
 slug: "prediabetes-in-us-youths-increased-2x-in-2-decades"
 aliases:
   - "/Prediabetes+in+US+youths+increased+2X+in+2+decades+-+March+2022"
-  - "/tiki-index.php?page_id=13444"
+  - "/13444"
+tiki_page_id: 13444
 date: 2022-04-03
 categories:
   - "Diabetes"

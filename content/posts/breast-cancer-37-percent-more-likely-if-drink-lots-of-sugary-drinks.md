@@ -3,7 +3,8 @@ title: "Breast Cancer 37 percent more likely if drink lots of sugary drinks"
 slug: "breast-cancer-37-percent-more-likely-if-drink-lots-of-sugary-drinks"
 aliases:
   - "/Breast+Cancer+37+percent+more+likely+if+drink+lots+of+sugary+drinks+–+July+2019"
-  - "/tiki-index.php?page_id=10970"
+  - "/10970"
+tiki_page_id: 10970
 date: 2019-07-10
 categories:
   - "Cancer - Breast"

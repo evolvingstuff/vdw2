@@ -3,7 +3,8 @@ title: "Major reduction allergies and asthma if the child was born in a sunny se
 slug: "major-reduction-allergies-and-asthma-if-the-child-was-born-in-a-sunny-season-in-paris-in-this-case"
 aliases:
   - "/Major+reduction+allergies+and+asthma+if+the+child+was+born+in+a+sunny+season+in+Paris+in+this+case+–+April+2024"
-  - "/tiki-index.php?page_id=15225"
+  - "/15225"
+tiki_page_id: 15225
 date: 2024-04-19
 categories:
   - "Breathing"

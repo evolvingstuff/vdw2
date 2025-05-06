@@ -3,7 +3,8 @@ title: "Adding UVB and heat to fish waste found to produce Vitamin D"
 slug: "adding-uvb-and-heat-to-fish-waste-found-to-produce-vitamin-d"
 aliases:
   - "/Adding+UVB+and+heat+to+fish+waste+found+to+produce+Vitamin+D+–+April+2024"
-  - "/tiki-index.php?page_id=15207"
+  - "/15207"
+tiki_page_id: 15207
 date: 2024-04-11
 categories:
   - "UV and Vitamin D"

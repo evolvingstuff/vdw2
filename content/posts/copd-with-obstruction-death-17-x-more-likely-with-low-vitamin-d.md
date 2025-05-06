@@ -3,7 +3,8 @@ title: "COPD with obstruction: Death 1.7 X more likely with low vitamin D"
 slug: "copd-with-obstruction-death-17-x-more-likely-with-low-vitamin-d"
 aliases:
   - "/COPD+with+obstruction+Death+17+X+more+likely+with+low+vitamin+D+–+Sept+2018"
-  - "/tiki-index.php?page_id=10036"
+  - "/10036"
+tiki_page_id: 10036
 date: 2018-09-13
 categories:
   - "Seniors"

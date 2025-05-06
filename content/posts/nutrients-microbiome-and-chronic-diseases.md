@@ -3,7 +3,8 @@ title: "Nutrients, Microbiome, and Chronic Diseases"
 slug: "nutrients-microbiome-and-chronic-diseases"
 aliases:
   - "/Nutrients+Microbiome+and+Chronic+Diseases+-+April+2023"
-  - "/tiki-index.php?page_id=14334"
+  - "/14334"
+tiki_page_id: 14334
 date: 2023-03-26
 categories:
   - "Gut"

@@ -3,7 +3,8 @@ title: "17% of US currently depressed (Vitamin D etc. can reduce it)"
 slug: "17-percent-of-us-currently-depressed-vitamin-d-etc-can-reduce-it"
 aliases:
   - "/17+of+US+currently+depressed+Vitamin+D+etc+can+reduce+it+–+May+2023"
-  - "/tiki-index.php?page_id=14433"
+  - "/14433"
+tiki_page_id: 14433
 date: 2023-05-18
 categories:
   - "Depression"

@@ -3,7 +3,8 @@ title: "7 Facts about Vitamin D You Never Knew (references VitaminDWiki) - video
 slug: "7-facts-about-vitamin-d-you-never-knew-references-vitamindwiki-video"
 aliases:
   - "/7+Facts+about+Vitamin+D+You+Never+Knew+references+VitaminDWiki+-+video+March+2023"
-  - "/tiki-index.php?page_id=14337"
+  - "/14337"
+tiki_page_id: 14337
 date: 2023-03-28
 categories:
   - "Books, videos on Vitamin D"

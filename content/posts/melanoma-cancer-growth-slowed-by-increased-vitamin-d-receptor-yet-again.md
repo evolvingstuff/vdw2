@@ -3,7 +3,8 @@ title: "Melanoma cancer growth slowed by increased Vitamin D Receptor (yet again
 slug: "melanoma-cancer-growth-slowed-by-increased-vitamin-d-receptor-yet-again"
 aliases:
   - "/Melanoma+cancer+growth+slowed+by+increased+Vitamin+D+Receptor+yet+again+–+Oct+2019"
-  - "/tiki-index.php?page_id=11315"
+  - "/11315"
+tiki_page_id: 11315
 date: 2019-11-06
 categories:
   - "Cancer - Skin"

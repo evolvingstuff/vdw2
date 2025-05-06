@@ -3,7 +3,8 @@ title: "Almost everyone with COVID-19 in a Louisiana ICU had low vitamin D"
 slug: "almost-everyone-with-covid-19-in-a-louisiana-icu-had-low-vitamin-d"
 aliases:
   - "/Almost+everyone+with+COVID-19+in+a+Louisiana+ICU+had+low+vitamin+D+–+April+29+2020"
-  - "/tiki-index.php?page_id=11752"
+  - "/11752"
+tiki_page_id: 11752
 date: 2020-04-29
 categories:
   - "Trauma and surgery"

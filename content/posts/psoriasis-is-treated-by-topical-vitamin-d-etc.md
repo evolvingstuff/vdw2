@@ -3,7 +3,8 @@ title: "Psoriasis is treated by topical Vitamin D, etc."
 slug: "psoriasis-is-treated-by-topical-vitamin-d-etc"
 aliases:
   - "/Psoriasis+is+treated+by+topical+Vitamin+D+etc+–+May+2023"
-  - "/tiki-index.php?page_id=14448"
+  - "/14448"
+tiki_page_id: 14448
 date: 2023-05-26
 ---
 

@@ -3,7 +3,8 @@ title: "IBD and UV dissertation - 2019"
 slug: "ibd-and-uv-dissertation-2019"
 aliases:
   - "/IBD+and+UV+dissertation+-+2019"
-  - "/tiki-index.php?page_id=11138"
+  - "/11138"
+tiki_page_id: 11138
 date: 2019-09-10
 categories:
   - "UV and Vitamin D"

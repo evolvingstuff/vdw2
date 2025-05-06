@@ -3,7 +3,8 @@ title: "Vitamin D at very very low cost (when it is on sale)"
 slug: "vitamin-d-at-very-very-low-cost-when-it-is-on-sale"
 aliases:
   - "/Vitamin+D+at+very+very+low+cost+when+it+is+on+sale"
-  - "/tiki-index.php?page_id=10204"
+  - "/10204"
+tiki_page_id: 10204
 date: 2018-11-16
 ---
 

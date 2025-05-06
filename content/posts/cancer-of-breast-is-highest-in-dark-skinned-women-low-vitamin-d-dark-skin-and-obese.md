@@ -3,7 +3,8 @@ title: "Cancer of breast is highest in dark-skinned women (low Vitamin D: dark s
 slug: "cancer-of-breast-is-highest-in-dark-skinned-women-low-vitamin-d-dark-skin-and-obese"
 aliases:
   - "/Cancer+of+breast+is+highest+in+dark-skinned+women+low+Vitamin+D+dark+skin+and+obese+-+Feb+2022"
-  - "/tiki-index.php?page_id=13330"
+  - "/13330"
+tiki_page_id: 13330
 date: 2022-02-12
 categories:
   - "Skin - Dark"

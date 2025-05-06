@@ -3,7 +3,8 @@ title: "94 X increase in Vitamin D testing in Australia (2000-2010, then they sh
 slug: "94-x-increase-in-vitamin-d-testing-in-australia-2000-2010-then-they-shut-it-down"
 aliases:
   - "/94+X+increase+in+Vitamin+D+testing+in+Australia+2000-2010+then+they+shut+it+down+–+Dec+2019"
-  - "/tiki-index.php?page_id=11430"
+  - "/11430"
+tiki_page_id: 11430
 date: 2019-12-06
 categories:
   - "Tests for Vitamin D"

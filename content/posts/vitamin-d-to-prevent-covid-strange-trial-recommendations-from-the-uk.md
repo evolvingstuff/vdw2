@@ -3,7 +3,8 @@ title: "Vitamin D to prevent COVID-  strange trial recommendations from the UK"
 slug: "vitamin-d-to-prevent-covid-strange-trial-recommendations-from-the-uk"
 aliases:
   - "/Vitamin+D+to+prevent+COVID-+strange+trial+recommendations+from+the+UK+–+Jan+2021"
-  - "/tiki-index.php?page_id=12233"
+  - "/12233"
+tiki_page_id: 12233
 date: 2021-01-17
 categories:
   - "Virus"

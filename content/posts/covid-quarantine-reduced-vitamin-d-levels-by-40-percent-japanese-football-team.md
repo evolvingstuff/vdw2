@@ -3,7 +3,8 @@ title: "COVID quarantine reduced vitamin D levels by 40 percent (Japanese footba
 slug: "covid-quarantine-reduced-vitamin-d-levels-by-40-percent-japanese-football-team"
 aliases:
   - "/COVID+quarantine+reduced+vitamin+D+levels+by+40+percent+Japanese+football+team+–+Oct+2020"
-  - "/tiki-index.php?page_id=13113"
+  - "/13113"
+tiki_page_id: 13113
 date: 2021-11-25
 categories:
   - "Sports and Vitamin D"

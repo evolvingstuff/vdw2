@@ -3,7 +3,8 @@ title: "Senior women having low vitamin D were 2X more likely to die"
 slug: "senior-women-having-low-vitamin-d-were-2x-more-likely-to-die"
 aliases:
   - "/Senior+women+having+low+vitamin+D+were+2X+more+likely+to+die+-+Sept+2023"
-  - "/tiki-index.php?page_id=14909"
+  - "/14909"
+tiki_page_id: 14909
 date: 2023-12-23
 categories:
   - "Mortality and D"

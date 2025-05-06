@@ -3,7 +3,8 @@ title: "Female preemies become women with low hand grip strength"
 slug: "female-preemies-become-women-with-low-hand-grip-strength"
 aliases:
   - "/Female+preemies+become+women+with+low+hand+grip+strength+-+Dec+2023"
-  - "/tiki-index.php?page_id=14913"
+  - "/14913"
+tiki_page_id: 14913
 date: 2023-12-23
 categories:
   - "Pregnancy"

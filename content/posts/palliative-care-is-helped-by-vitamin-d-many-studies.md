@@ -3,7 +3,8 @@ title: "Palliative care is helped by Vitamin D - many studies"
 slug: "palliative-care-is-helped-by-vitamin-d-many-studies"
 aliases:
   - "/Palliative+care+is+helped+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=12680"
+  - "/12680"
+tiki_page_id: 12680
 date: 2021-06-24
 categories:
   - "Cancer - after diagnosis"

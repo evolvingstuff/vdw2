@@ -3,7 +3,8 @@ title: "Nutrients etc, which fight viruses and fortify the immune system"
 slug: "nutrients-etc-which-fight-viruses-and-fortify-the-immune-system"
 aliases:
   - "/Nutrients+etc+which+fight+viruses+and+fortify+the+immune+system"
-  - "/tiki-index.php?page_id=11891"
+  - "/11891"
+tiki_page_id: 11891
 date: 2020-08-08
 categories:
   - "Immunity"

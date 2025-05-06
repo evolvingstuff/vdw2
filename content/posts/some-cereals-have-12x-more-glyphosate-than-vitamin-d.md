@@ -3,7 +3,8 @@ title: "Some cereals have 12X more Glyphosate than Vitamin D"
 slug: "some-cereals-have-12x-more-glyphosate-than-vitamin-d"
 aliases:
   - "/Some+cereals+have+12X+more+Glyphosate+than+Vitamin+D+-+Oct+2018"
-  - "/tiki-index.php?page_id=10175"
+  - "/10175"
+tiki_page_id: 10175
 date: 2018-11-01
 categories:
   - "Fortification with Vitamin D"

@@ -3,7 +3,8 @@ title: "Virus mutations (BA: .2, .4, .5, .2.12.1) can be more infectious and ign
 slug: "virus-mutations-ba-2-4-5-2121-can-be-more-infectious-and-ignore-previous-immunity"
 aliases:
   - "/Virus+mutations+BA+2+4+5+2121+can+be+more+infectious+and+ignore+previous+immunity+–+May+1+2022"
-  - "/tiki-index.php?page_id=13536"
+  - "/13536"
+tiki_page_id: 13536
 date: 2022-05-02
 categories:
   - "Virus"

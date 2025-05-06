@@ -3,7 +3,8 @@ title: "Why Do Multiple Sclerosis and Migraine Coexist"
 slug: "why-do-multiple-sclerosis-and-migraine-coexist"
 aliases:
   - "/Why+Do+Multiple+Sclerosis+and+Migraine+Coexist+–+Jan+2020"
-  - "/tiki-index.php?page_id=11594"
+  - "/11594"
+tiki_page_id: 11594
 date: 2020-01-27
 categories:
   - "Multiple Sclerosis"

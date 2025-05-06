@@ -3,7 +3,8 @@ title: "Vaccines were effective, important - PCP survey of"
 slug: "vaccines-were-effective-important-pcp-survey-of"
 aliases:
   - "/Vaccines+were+effective+important+-+PCP+survey+of+May+2021"
-  - "/tiki-index.php?page_id=13481"
+  - "/13481"
+tiki_page_id: 13481
 date: 2022-04-14
 categories:
   - "Virus"

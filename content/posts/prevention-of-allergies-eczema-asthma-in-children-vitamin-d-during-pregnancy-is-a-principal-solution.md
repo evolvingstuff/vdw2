@@ -3,7 +3,8 @@ title: "Prevention of allergies, eczema, asthma, in children – Vitamin D durin
 slug: "prevention-of-allergies-eczema-asthma-in-children-vitamin-d-during-pregnancy-is-a-principal-solution"
 aliases:
   - "/Prevention+of+allergies+eczema+asthma+in+children+–+Vitamin+D+during+pregnancy+is+a+principal+solution+–+July+2023"
-  - "/tiki-index.php?page_id=14547"
+  - "/14547"
+tiki_page_id: 14547
 date: 2023-07-20
 categories:
   - "Breathing"

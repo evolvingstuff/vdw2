@@ -3,7 +3,8 @@ title: "After stroke, 40% less likely to die if 400 mg of Magnesium daily"
 slug: "after-stroke-40-percent-less-likely-to-die-if-400-mg-of-magnesium-daily"
 aliases:
   - "/After+stroke+40+less+likely+to+die+if+400+mg+of+Magnesium+daily+-+Oct+2023"
-  - "/tiki-index.php?page_id=14950"
+  - "/14950"
+tiki_page_id: 14950
 date: 2024-01-05
 categories:
   - "Mortality and D"

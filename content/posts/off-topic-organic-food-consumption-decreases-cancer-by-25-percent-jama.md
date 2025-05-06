@@ -3,7 +3,8 @@ title: "Off Topic: Organic food consumption decreases cancer by 25 percent – J
 slug: "off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama"
 aliases:
   - "/Off+Topic+Organic+food+consumption+decreases+cancer+by+25+percent+–+JAMA+Oct+2018"
-  - "/tiki-index.php?page_id=10151"
+  - "/10151"
+tiki_page_id: 10151
 date: 2018-10-23
 categories:
   - "Off Topic"

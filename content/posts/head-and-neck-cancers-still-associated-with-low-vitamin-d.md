@@ -3,7 +3,8 @@ title: "Head and Neck Cancers still associated with low Vitamin D"
 slug: "head-and-neck-cancers-still-associated-with-low-vitamin-d"
 aliases:
   - "/Head+and+Neck+Cancers+still+associated+with+low+Vitamin+D+–+Nov+2020"
-  - "/tiki-index.php?page_id=12076"
+  - "/12076"
+tiki_page_id: 12076
 date: 2020-11-20
 categories:
   - "Cancer - Other"

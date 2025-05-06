@@ -3,7 +3,8 @@ title: "Am I low on Vitamin D"
 slug: "am-i-low-on-vitamin-d"
 aliases:
   - "/Am+I+low+on+Vitamin+D"
-  - "/tiki-index.php?page_id=15163"
+  - "/15163"
+tiki_page_id: 15163
 date: 2024-03-23
 categories:
   - "Deficiency of Vitamin D"

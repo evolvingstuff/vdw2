@@ -3,7 +3,8 @@ title: "Pandemic Vitamin D levels dropped by 3.3 ng (perhaps less D, more health
 slug: "pandemic-vitamin-d-levels-dropped-by-33-ng-perhaps-less-d-more-health-problems"
 aliases:
   - "/Pandemic+Vitamin+D+levels+dropped+by+33+ng+perhaps+less+D+more+health+problems+–+May+2022"
-  - "/tiki-index.php?page_id=13590"
+  - "/13590"
+tiki_page_id: 13590
 date: 2022-05-25
 categories:
   - "Youth"

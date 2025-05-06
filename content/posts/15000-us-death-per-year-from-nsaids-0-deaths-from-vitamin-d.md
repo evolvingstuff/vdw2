@@ -3,7 +3,8 @@ title: "15,000 US death per year from NSAIDs (0 deaths from Vitamin D)"
 slug: "15000-us-death-per-year-from-nsaids-0-deaths-from-vitamin-d"
 aliases:
   - "/15000+US+death+per+year+from+NSAIDs+0+deaths+from+Vitamin+D"
-  - "/tiki-index.php?page_id=12644"
+  - "/12644"
+tiki_page_id: 12644
 date: 2021-06-10
 categories:
   - "Pain - chronic"

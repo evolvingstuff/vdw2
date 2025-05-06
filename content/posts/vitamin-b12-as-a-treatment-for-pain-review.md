@@ -3,7 +3,8 @@ title: "Vitamin B12 as a Treatment for Pain – review"
 slug: "vitamin-b12-as-a-treatment-for-pain-review"
 aliases:
   - "/Vitamin+B12+as+a+Treatment+for+Pain+–+review+Jan+2019"
-  - "/tiki-index.php?page_id=10465"
+  - "/10465"
+tiki_page_id: 10465
 date: 2019-02-05
 categories:
   - "Pain - chronic"

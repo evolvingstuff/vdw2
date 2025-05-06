@@ -3,7 +3,8 @@ title: "Vitamin D fights many health problems – an umbrella review of 508 stud
 slug: "vitamin-d-fights-many-health-problems-an-umbrella-review-of-508-studies"
 aliases:
   - "/Vitamin+D+fights+many+health+problems+–+an+umbrella+review+of+508+studies+–+July+2022"
-  - "/tiki-index.php?page_id=13815"
+  - "/13815"
+tiki_page_id: 13815
 date: 2022-08-02
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "Over 1,000 Studies Published in Peer-Reviewed Medical Journals Say the V
 slug: "over-1000-studies-published-in-peer-reviewed-medical-journals-say-the-vaccines-are-dangerous"
 aliases:
   - "/Over+1000+Studies+Published+in+Peer-Reviewed+Medical+Journals+Say+the+Vaccines+Are+Dangerous+-+Jan+5+2022"
-  - "/tiki-index.php?page_id=13250"
+  - "/13250"
+tiki_page_id: 13250
 date: 2022-01-11
 categories:
   - "Virus"

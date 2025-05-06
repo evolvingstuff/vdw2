@@ -3,7 +3,8 @@ title: "Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses â
 slug: "respiratory-tract-infection-risk-reduced-2x-by-vitamin-d-loading-doses-meta-analysis"
 aliases:
   - "/Respiratory+Tract+Infection+risk+reduced+2X+by+Vitamin+D+loading+doses+â€“+meta-analysis+Jan+2021"
-  - "/tiki-index.php?page_id=12252"
+  - "/12252"
+tiki_page_id: 12252
 date: 2021-01-22
 categories:
   - "Breathing"

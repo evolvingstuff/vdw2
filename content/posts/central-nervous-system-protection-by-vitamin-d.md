@@ -3,7 +3,8 @@ title: "Central Nervous System protection by Vitamin D"
 slug: "central-nervous-system-protection-by-vitamin-d"
 aliases:
   - "/Central+Nervous+System+protection+by+Vitamin+D+-+Dec+2023"
-  - "/tiki-index.php?page_id=14902"
+  - "/14902"
+tiki_page_id: 14902
 date: 2023-12-21
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "MATH plus protocol for COVID-19 includes Calcifediol or Vitamin D"
 slug: "math-plus-protocol-for-covid-19-includes-calcifediol-or-vitamin-d"
 aliases:
   - "/MATH+plus+protocol+for+COVID-19+includes+Calcifediol+or+Vitamin+D+-+Jan+2021"
-  - "/tiki-index.php?page_id=12261"
+  - "/12261"
+tiki_page_id: 12261
 date: 2021-01-26
 categories:
   - "Virus"

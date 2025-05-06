@@ -3,7 +3,8 @@ title: "Some drugs change potency when Vitamin D is increased (increase in a hor
 slug: "some-drugs-change-potency-when-vitamin-d-is-increased-increase-in-a-hormone"
 aliases:
   - "/Some+drugs+change+potency+when+Vitamin+D+is+increased+increase+in+a+hormone"
-  - "/tiki-index.php?page_id=10084"
+  - "/10084"
+tiki_page_id: 10084
 date: 2018-10-02
 categories:
   - "Interactions with Vitamin D"

@@ -3,7 +3,8 @@ title: "COVID-19 lung death 4X more likely in Iran if less than 25 ng of vitamin
 slug: "covid-19-lung-death-4x-more-likely-in-iran-if-less-than-25-ng-of-vitamin-d"
 aliases:
   - "/COVID-19+lung+death+4X+more+likely+in+Iran+if+less+than+25+ng+of+vitamin+D+–+Oct+30+2020"
-  - "/tiki-index.php?page_id=12035"
+  - "/12035"
+tiki_page_id: 12035
 date: 2020-10-30
 categories:
   - "Breathing"

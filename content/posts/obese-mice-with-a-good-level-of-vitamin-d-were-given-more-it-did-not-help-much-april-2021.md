@@ -3,7 +3,8 @@ title: "Obese mice with a good level of vitamin D were given more – it did not
 slug: "obese-mice-with-a-good-level-of-vitamin-d-were-given-more-it-did-not-help-much-april-2021"
 aliases:
   - "/Obese+mice+with+a+good+level+of+vitamin+D+were+given+more+–+it+did+not+help+much+–+April+2021"
-  - "/tiki-index.php?page_id=12499"
+  - "/12499"
+tiki_page_id: 12499
 date: 2021-04-14
 categories:
   - "Obesity"

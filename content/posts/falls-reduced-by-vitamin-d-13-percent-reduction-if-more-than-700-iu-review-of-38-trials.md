@@ -3,7 +3,8 @@ title: "Falls reduced by Vitamin D: 13 percent reduction if more than 700 IU –
 slug: "falls-reduced-by-vitamin-d-13-percent-reduction-if-more-than-700-iu-review-of-38-trials"
 aliases:
   - "/Falls+reduced+by+Vitamin+D+13+percent+reduction+if+more+than+700+IU+–+review+of+38+trials+–+Aug+2022"
-  - "/tiki-index.php?page_id=13836"
+  - "/13836"
+tiki_page_id: 13836
 date: 2022-08-10
 categories:
   - "Falls and Fractures"

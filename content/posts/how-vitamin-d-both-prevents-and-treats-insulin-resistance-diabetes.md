@@ -3,7 +3,8 @@ title: "How Vitamin D both prevents and treats insulin resistance (Diabetes)"
 slug: "how-vitamin-d-both-prevents-and-treats-insulin-resistance-diabetes"
 aliases:
   - "/How+Vitamin+D+both+prevents+and+treats+insulin+resistance+Diabetes+–+April+2019"
-  - "/tiki-index.php?page_id=11506"
+  - "/11506"
+tiki_page_id: 11506
 date: 2019-12-29
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "329 COVID-19 vaccine deaths reported to CDC in a month"
 slug: "329-covid-19-vaccine-deaths-reported-to-cdc-in-a-month"
 aliases:
   - "/329+COVID-19+vaccine+deaths+reported+to+CDC+in+a+month+–+Jan+22+2021"
-  - "/tiki-index.php?page_id=12285"
+  - "/12285"
+tiki_page_id: 12285
 date: 2021-02-01
 categories:
   - "Virus"

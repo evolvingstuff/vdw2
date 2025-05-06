@@ -3,7 +3,8 @@ title: "Migraines have low vitamin D, Migraines plus Restless Leg have far lower
 slug: "migraines-have-low-vitamin-d-migraines-plus-restless-leg-have-far-lower-vitamin-d-no-surprise"
 aliases:
   - "/Migraines+have+low+vitamin+D+Migraines+plus+Restless+Leg+have+far+lower+vitamin+D+no+surprise+–+Dec+2021"
-  - "/tiki-index.php?page_id=13149"
+  - "/13149"
+tiki_page_id: 13149
 date: 2021-12-06
 categories:
   - "Headache"

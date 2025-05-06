@@ -3,7 +3,8 @@ title: "Depression reduced in Diabetics with 3 months of 4,000 IU of vitamin D â
 slug: "depression-reduced-in-diabetics-with-3-months-of-4000-iu-of-vitamin-d-rct"
 aliases:
   - "/Depression+reduced+in+Diabetics+with+3+months+of+4000+IU+of+vitamin+D+â€“+RCT+July+2019"
-  - "/tiki-index.php?page_id=10965"
+  - "/10965"
+tiki_page_id: 10965
 date: 2019-07-10
 categories:
   - "Diabetes"

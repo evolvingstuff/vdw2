@@ -3,7 +3,8 @@ title: "Improve your health BEFORE surgery (prehabilitation) helps your recovery
 slug: "improve-your-health-before-surgery-prehabilitation-helps-your-recovery-2018"
 aliases:
   - "/Improve+your+health+BEFORE+surgery+prehabilitation+helps+your+recovery+-+2018"
-  - "/tiki-index.php?page_id=10015"
+  - "/10015"
+tiki_page_id: 10015
 date: 2018-09-08
 categories:
   - "Trauma and surgery"

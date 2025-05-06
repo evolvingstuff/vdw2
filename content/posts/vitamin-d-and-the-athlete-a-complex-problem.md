@@ -3,7 +3,8 @@ title: "Vitamin D and the Athlete – a complex problem"
 slug: "vitamin-d-and-the-athlete-a-complex-problem"
 aliases:
   - "/Vitamin+D+and+the+Athlete+–+a+complex+problem+–+June+2019"
-  - "/tiki-index.php?page_id=10832"
+  - "/10832"
+tiki_page_id: 10832
 date: 2019-06-04
 categories:
   - "Sports and Vitamin D"

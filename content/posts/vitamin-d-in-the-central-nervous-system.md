@@ -3,7 +3,8 @@ title: "Vitamin D in the Central Nervous System"
 slug: "vitamin-d-in-the-central-nervous-system"
 aliases:
   - "/Vitamin+D+in+the+Central+Nervous+System+–+Oct+2019"
-  - "/tiki-index.php?page_id=11268"
+  - "/11268"
+tiki_page_id: 11268
 date: 2019-10-24
 categories:
   - "Cognitive"

@@ -3,7 +3,8 @@ title: "Longevity experts take Vitamin D, Omega-3, and Magnesium - Patrick video
 slug: "longevity-experts-take-vitamin-d-omega-3-and-magnesium-patrick-video"
 aliases:
   - "/Longevity+experts+take+Vitamin+D+Omega-3+and+Magnesium+-+Patrick+video+Sept+2023"
-  - "/tiki-index.php?page_id=14706"
+  - "/14706"
+tiki_page_id: 14706
 date: 2023-09-27
 categories:
   - "Mortality and D"

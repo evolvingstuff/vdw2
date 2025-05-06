@@ -3,7 +3,8 @@ title: "Poor prognosis of solid childhood cancers 14.7 X more likely with a poor
 slug: "poor-prognosis-of-solid-childhood-cancers-147-x-more-likely-with-a-poor-vitamin-d-receptor"
 aliases:
   - "/Poor+prognosis+of+solid+childhood+cancers+147+X+more+likely+with+a+poor+Vitamin+D+Receptor+–+July+2022"
-  - "/tiki-index.php?page_id=13800"
+  - "/13800"
+tiki_page_id: 13800
 date: 2022-07-27
 categories:
   - "Cancer"

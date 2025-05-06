@@ -3,7 +3,8 @@ title: "Vitamin D is one of the alternate COPD therapies"
 slug: "vitamin-d-is-one-of-the-alternate-copd-therapies"
 aliases:
   - "/Vitamin+D+is+one+of+the+alternate+COPD+therapies+–+March+2021"
-  - "/tiki-index.php?page_id=12469"
+  - "/12469"
+tiki_page_id: 12469
 date: 2021-04-04
 categories:
   - "Seniors"

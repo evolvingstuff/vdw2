@@ -3,7 +3,8 @@ title: "Preventing a COVID-19 pandemic with Vitamin D – Grant"
 slug: "preventing-a-covid-19-pandemic-with-vitamin-d-grant"
 aliases:
   - "/Preventing+a+COVID-19+pandemic+with+Vitamin+D+–+Grant+April+2020"
-  - "/tiki-index.php?page_id=11707"
+  - "/11707"
+tiki_page_id: 11707
 date: 2020-04-01
 categories:
   - "Virus"

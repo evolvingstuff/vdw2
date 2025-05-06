@@ -3,7 +3,8 @@ title: "Immune system degrades with age (perhaps Vitamin D can help)"
 slug: "immune-system-degrades-with-age-perhaps-vitamin-d-can-help"
 aliases:
   - "/Immune+system+degrades+with+age+perhaps+Vitamin+D+can+help+-+Jan+2022"
-  - "/tiki-index.php?page_id=13293"
+  - "/13293"
+tiki_page_id: 13293
 date: 2022-01-29
 categories:
   - "Seniors"

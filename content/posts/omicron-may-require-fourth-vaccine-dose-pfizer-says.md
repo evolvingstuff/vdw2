@@ -3,7 +3,8 @@ title: "Omicron may require fourth vaccine dose, Pfizer says"
 slug: "omicron-may-require-fourth-vaccine-dose-pfizer-says"
 aliases:
   - "/Omicron+may+require+fourth+vaccine+dose+Pfizer+says+-+Dec+10+2021"
-  - "/tiki-index.php?page_id=13167"
+  - "/13167"
+tiki_page_id: 13167
 date: 2021-12-10
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Salmon dinners (400 IU Vitamin D daily) not enough to stop winter declin
 slug: "salmon-dinners-400-iu-vitamin-d-daily-not-enough-to-stop-winter-decline-norway-rct"
 aliases:
   - "/Salmon+dinners+400+IU+Vitamin+D+daily+not+enough+to+stop+winter+decline+Norway+–+RCT+Nov+2019"
-  - "/tiki-index.php?page_id=11392"
+  - "/11392"
+tiki_page_id: 11392
 date: 2019-11-26
 categories:
   - "Food sources for Vitamin D"

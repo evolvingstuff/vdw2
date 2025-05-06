@@ -3,7 +3,8 @@ title: "1,000 IU of Vitamin D provided no benefit (Royal Ballet in this case) â€
 slug: "1000-iu-of-vitamin-d-provided-no-benefit-royal-ballet-in-this-case-rct"
 aliases:
   - "/1000+IU+of+Vitamin+D+provided+no+benefit+Royal+Ballet+in+this+case+â€“+RCT+Sept+2019"
-  - "/tiki-index.php?page_id=11146"
+  - "/11146"
+tiki_page_id: 11146
 date: 2019-09-12
 ---
 

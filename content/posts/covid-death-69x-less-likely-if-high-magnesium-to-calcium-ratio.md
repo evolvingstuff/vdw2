@@ -3,7 +3,8 @@ title: "COVID death 6.9X less likely if high Magnesium to Calcium ratio"
 slug: "covid-death-69x-less-likely-if-high-magnesium-to-calcium-ratio"
 aliases:
   - "/COVID+death+69X+less+likely+if+high+Magnesium+to+Calcium+ratio+–+April+2022"
-  - "/tiki-index.php?page_id=13500"
+  - "/13500"
+tiki_page_id: 13500
 date: 2022-04-20
 categories:
   - "Vitamin D and Magnesium"

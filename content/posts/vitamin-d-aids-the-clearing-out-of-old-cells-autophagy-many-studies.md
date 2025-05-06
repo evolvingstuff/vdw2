@@ -3,7 +3,8 @@ title: "Vitamin D aids the clearing out of old cells (autophagy) – many studie
 slug: "vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies"
 aliases:
   - "/Vitamin+D+aids+the+clearing+out+of+old+cells+autophagy+–+many+studies"
-  - "/tiki-index.php?page_id=12832"
+  - "/12832"
+tiki_page_id: 12832
 date: 2021-08-18
 categories:
   - "Immunity"

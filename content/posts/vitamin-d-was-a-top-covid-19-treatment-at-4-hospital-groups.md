@@ -3,7 +3,8 @@ title: "Vitamin D was a top COVID-19 treatment at 4 hospital groups"
 slug: "vitamin-d-was-a-top-covid-19-treatment-at-4-hospital-groups"
 aliases:
   - "/Vitamin+D+was+a+top+COVID-19+treatment+at+4+hospital+groups+-+May+2021"
-  - "/tiki-index.php?page_id=12969"
+  - "/12969"
+tiki_page_id: 12969
 date: 2021-10-10
 categories:
   - "Top news"

@@ -3,7 +3,8 @@ title: "Clinical trials are proving that Vitamin D fights COVID-19 in hospitals"
 slug: "clinical-trials-are-proving-that-vitamin-d-fights-covid-19-in-hospitals"
 aliases:
   - "/Clinical+trials+are+proving+that+Vitamin+D+fights+COVID-19+in+hospitals"
-  - "/tiki-index.php?page_id=12079"
+  - "/12079"
+tiki_page_id: 12079
 date: 2020-11-22
 categories:
   - "Virus"

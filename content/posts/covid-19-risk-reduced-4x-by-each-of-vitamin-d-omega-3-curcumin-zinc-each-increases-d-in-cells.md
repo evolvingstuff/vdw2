@@ -3,7 +3,8 @@ title: "COVID-19 risk reduced 4X by each of: Vitamin D, Omega-3, Curcumin, Zinc 
 slug: "covid-19-risk-reduced-4x-by-each-of-vitamin-d-omega-3-curcumin-zinc-each-increases-d-in-cells"
 aliases:
   - "/COVID-19+risk+reduced+4X+by+each+of+Vitamin+D+Omega-3+Curcumin+Zinc+each+increases+D+in+cells"
-  - "/tiki-index.php?page_id=12898"
+  - "/12898"
+tiki_page_id: 12898
 date: 2021-09-15
 categories:
   - "Vitamin D and Omega-3"

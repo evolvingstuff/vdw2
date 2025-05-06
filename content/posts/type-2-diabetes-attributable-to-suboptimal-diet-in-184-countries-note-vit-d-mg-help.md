@@ -3,7 +3,8 @@ title: "Type 2 diabetes attributable to suboptimal diet in 184 countries (note: 
 slug: "type-2-diabetes-attributable-to-suboptimal-diet-in-184-countries-note-vit-d-mg-help"
 aliases:
   - "/Type+2+diabetes+attributable+to+suboptimal+diet+in+184+countries+note+Vit+D+Mg+help+–+April+2023"
-  - "/tiki-index.php?page_id=14390"
+  - "/14390"
+tiki_page_id: 14390
 date: 2023-04-21
 categories:
   - "Diabetes"

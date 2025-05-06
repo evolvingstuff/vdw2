@@ -3,7 +3,8 @@ title: "Arsenic in water is associated with lung problems if low vitamin D - 201
 slug: "arsenic-in-water-is-associated-with-lung-problems-if-low-vitamin-d-2019"
 aliases:
   - "/Arsenic+in+water+is+associated+with+lung+problems+if+low+vitamin+D+-+2019"
-  - "/tiki-index.php?page_id=11137"
+  - "/11137"
+tiki_page_id: 11137
 date: 2019-09-10
 categories:
   - "Interactions with Vitamin D"

@@ -3,7 +3,8 @@ title: "Innocent Dietary Imbalance Hardens and Narrows Your Arteries (Omega-3 in
 slug: "innocent-dietary-imbalance-hardens-and-narrows-your-arteries-omega-3-index"
 aliases:
   - "/Innocent+Dietary+Imbalance+Hardens+and+Narrows+Your+Arteries+Omega-3+index+–+Dec+2018"
-  - "/tiki-index.php?page_id=10302"
+  - "/10302"
+tiki_page_id: 10302
 date: 2018-12-10
 categories:
   - "Vitamin D and Omega-3"

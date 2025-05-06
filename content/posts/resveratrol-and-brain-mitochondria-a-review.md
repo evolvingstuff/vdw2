@@ -3,7 +3,8 @@ title: "Resveratrol and Brain Mitochondria: a Review"
 slug: "resveratrol-and-brain-mitochondria-a-review"
 aliases:
   - "/Resveratrol+and+Brain+Mitochondria+a+Review+–+March+2018"
-  - "/tiki-index.php?page_id=10705"
+  - "/10705"
+tiki_page_id: 10705
 date: 2019-04-27
 categories:
   - "Cognitive"

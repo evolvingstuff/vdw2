@@ -3,7 +3,8 @@ title: "COVID-19 associated with low Vitamin D in China in the Spring"
 slug: "covid-19-associated-with-low-vitamin-d-in-china-in-the-spring"
 aliases:
   - "/COVID-19+associated+with+low+Vitamin+D+in+China+in+the+Spring+-+Sept+2020"
-  - "/tiki-index.php?page_id=12013"
+  - "/12013"
+tiki_page_id: 12013
 date: 2020-10-18
 categories:
   - "Virus"

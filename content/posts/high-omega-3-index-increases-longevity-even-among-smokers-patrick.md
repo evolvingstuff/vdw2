@@ -3,7 +3,8 @@ title: "High Omega-3 index increases longevity, even among smokers - Patrick"
 slug: "high-omega-3-index-increases-longevity-even-among-smokers-patrick"
 aliases:
   - "/High+Omega-3+index+increases+longevity+even+among+smokers+-+Patrick+Jan+2024"
-  - "/tiki-index.php?page_id=14977"
+  - "/14977"
+tiki_page_id: 14977
 date: 2024-01-17
 categories:
   - "Mortality and D"

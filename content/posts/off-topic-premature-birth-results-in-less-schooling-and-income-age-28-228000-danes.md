@@ -3,7 +3,8 @@ title: "Off Topic: Premature birth results in less schooling and income (age 28,
 slug: "off-topic-premature-birth-results-in-less-schooling-and-income-age-28-228000-danes"
 aliases:
   - "/Off+Topic+Premature+birth+results+in+less+schooling+and+income+age+28+228000+Danes+–+Dec+2018"
-  - "/tiki-index.php?page_id=10317"
+  - "/10317"
+tiki_page_id: 10317
 date: 2018-12-15
 categories:
   - "Pregnancy"

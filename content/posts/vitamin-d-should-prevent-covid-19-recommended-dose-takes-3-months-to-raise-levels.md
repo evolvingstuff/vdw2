@@ -3,7 +3,8 @@ title: "Vitamin D should prevent COVID-19 (recommended dose takes 3 months to ra
 slug: "vitamin-d-should-prevent-covid-19-recommended-dose-takes-3-months-to-raise-levels"
 aliases:
   - "/Vitamin+D+should+prevent+COVID-19+recommended+dose+takes+3+months+to+raise+levels+-+April+2020"
-  - "/tiki-index.php?page_id=11709"
+  - "/11709"
+tiki_page_id: 11709
 date: 2020-04-03
 categories:
   - "Virus"

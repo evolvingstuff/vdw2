@@ -3,7 +3,8 @@ title: "T2 diabetes complications increased 35-52 percent if low vitamin D"
 slug: "t2-diabetes-complications-increased-35-52-percent-if-low-vitamin-d"
 aliases:
   - "/T2+diabetes+complications+increased+35-52+percent+if+low+vitamin+D+–+Sept+2022"
-  - "/tiki-index.php?page_id=13953"
+  - "/13953"
+tiki_page_id: 13953
 date: 2022-09-29
 categories:
   - "Diabetes"

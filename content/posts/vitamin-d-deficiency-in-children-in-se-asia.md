@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency in children in SE Asia"
 slug: "vitamin-d-deficiency-in-children-in-se-asia"
 aliases:
   - "/Vitamin+D+Deficiency+in+children+in+SE+Asia+–+Oct+2022"
-  - "/tiki-index.php?page_id=14027"
+  - "/14027"
+tiki_page_id: 14027
 date: 2022-10-20
 categories:
   - "Deficiency of Vitamin D"

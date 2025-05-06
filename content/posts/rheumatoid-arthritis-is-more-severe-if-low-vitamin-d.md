@@ -3,7 +3,8 @@ title: "Rheumatoid Arthritis is more severe if low vitamin D"
 slug: "rheumatoid-arthritis-is-more-severe-if-low-vitamin-d"
 aliases:
   - "/Rheumatoid+Arthritis+is+more+severe+if+low+vitamin+D+–+July+2023"
-  - "/tiki-index.php?page_id=14530"
+  - "/14530"
+tiki_page_id: 14530
 date: 2023-07-12
 categories:
   - "Rheumatoid Arthritis"

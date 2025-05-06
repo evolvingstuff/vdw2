@@ -3,7 +3,8 @@ title: "Childhood allergies (Atopy) 4.8 X more likely if low vitamin D in early 
 slug: "childhood-allergies-atopy-48-x-more-likely-if-low-vitamin-d-in-early-pregnancy"
 aliases:
   - "/Childhood+allergies+Atopy+48+X+more+likely+if+low+vitamin+D+in+early+pregnancy+–+Aug+2019"
-  - "/tiki-index.php?page_id=11111"
+  - "/11111"
+tiki_page_id: 11111
 date: 2019-08-29
 categories:
   - "Pregnancy"

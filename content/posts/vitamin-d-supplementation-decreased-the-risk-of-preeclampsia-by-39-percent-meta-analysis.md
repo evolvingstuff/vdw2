@@ -3,7 +3,8 @@ title: "Vitamin D supplementation decreased the risk of preeclampsia by 39% – 
 slug: "vitamin-d-supplementation-decreased-the-risk-of-preeclampsia-by-39-percent-meta-analysis"
 aliases:
   - "/Vitamin+D+supplementation+decreased+the+risk+of+preeclampsia+by+39+–+meta-analysis+Feb+2024"
-  - "/tiki-index.php?page_id=15109"
+  - "/15109"
+tiki_page_id: 15109
 date: 2024-03-07
 categories:
   - "Pregnancy"

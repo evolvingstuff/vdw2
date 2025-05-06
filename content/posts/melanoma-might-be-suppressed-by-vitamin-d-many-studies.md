@@ -3,7 +3,8 @@ title: "Melanoma might be suppressed by Vitamin D - many studies"
 slug: "melanoma-might-be-suppressed-by-vitamin-d-many-studies"
 aliases:
   - "/Melanoma+might+be+suppressed+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=13263"
+  - "/13263"
+tiki_page_id: 13263
 date: 2022-01-17
 categories:
   - "Cancer - Skin"

@@ -3,7 +3,8 @@ title: "Vitamin D testing accuracies, including dried blood spot"
 slug: "vitamin-d-testing-accuracies-including-dried-blood-spot"
 aliases:
   - "/Vitamin+D+testing+accuracies+including+dried+blood+spot+–+Jan+2020"
-  - "/tiki-index.php?page_id=11532"
+  - "/11532"
+tiki_page_id: 11532
 date: 2020-01-07
 categories:
   - "Tests for Vitamin D"

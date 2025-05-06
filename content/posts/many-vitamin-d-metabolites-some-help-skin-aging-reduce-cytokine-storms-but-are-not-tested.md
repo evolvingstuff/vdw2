@@ -3,7 +3,8 @@ title: "Many Vitamin D metabolites: some help skin aging, reduce Cytokine storms
 slug: "many-vitamin-d-metabolites-some-help-skin-aging-reduce-cytokine-storms-but-are-not-tested"
 aliases:
   - "/Many+Vitamin+D+metabolites+some+help+skin+aging+reduce+Cytokine+storms+but+are+not+tested+–+Aug+2021"
-  - "/tiki-index.php?page_id=12859"
+  - "/12859"
+tiki_page_id: 12859
 date: 2021-08-27
 categories:
   - "Genetics"

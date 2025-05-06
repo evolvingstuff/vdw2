@@ -3,7 +3,8 @@ title: "Interview with transcript of Dr. Grant on Vitamin D and Cancer by Dr. Mo
 slug: "interview-with-transcript-of-dr-grant-on-vitamin-d-and-cancer-by-dr-moss"
 aliases:
   - "/Interview+with+transcript+of+Dr+Grant+on+Vitamin+D+and+Cancer+by+Dr+Moss+-+June+2022"
-  - "/tiki-index.php?page_id=13693"
+  - "/13693"
+tiki_page_id: 13693
 date: 2022-06-22
 categories:
   - "Books, videos on Vitamin D"

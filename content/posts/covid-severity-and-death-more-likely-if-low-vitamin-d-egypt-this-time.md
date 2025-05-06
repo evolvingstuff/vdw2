@@ -3,7 +3,8 @@ title: "COVID severity and death more likely if low vitamin D (Egypt this time)"
 slug: "covid-severity-and-death-more-likely-if-low-vitamin-d-egypt-this-time"
 aliases:
   - "/COVID+severity+and+death+more+likely+if+low+vitamin+D+Egypt+this+time+-+March+2022"
-  - "/tiki-index.php?page_id=13372"
+  - "/13372"
+tiki_page_id: 13372
 date: 2022-03-05
 categories:
   - "Mortality and D"

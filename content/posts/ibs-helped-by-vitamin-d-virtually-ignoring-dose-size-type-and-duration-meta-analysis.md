@@ -3,7 +3,8 @@ title: "IBS helped by vitamin D (virtually ignoring dose size, type and duration
 slug: "ibs-helped-by-vitamin-d-virtually-ignoring-dose-size-type-and-duration-meta-analysis"
 aliases:
   - "/IBS+helped+by+vitamin+D+virtually+ignoring+dose+size+type+and+duration+–+meta-analysis+June+2022"
-  - "/tiki-index.php?page_id=13742"
+  - "/13742"
+tiki_page_id: 13742
 date: 2022-07-09
 categories:
   - "Meta-analysis of Vitamin D"

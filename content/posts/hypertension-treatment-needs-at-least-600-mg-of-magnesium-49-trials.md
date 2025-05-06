@@ -3,7 +3,8 @@ title: "Hypertension treatment needs at least 600 mg of Magnesium (49 trials)"
 slug: "hypertension-treatment-needs-at-least-600-mg-of-magnesium-49-trials"
 aliases:
   - "/Hypertension+treatment+needs+at+least+600+mg+of+Magnesium+49+trials+–+Jan+2021"
-  - "/tiki-index.php?page_id=13627"
+  - "/13627"
+tiki_page_id: 13627
 date: 2022-06-02
 categories:
   - "Vitamin D and Magnesium"

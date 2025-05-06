@@ -3,7 +3,8 @@ title: "Less radiation-induced intestinal injury if activate the Vitamin D recep
 slug: "less-radiation-induced-intestinal-injury-if-activate-the-vitamin-d-receptor-mice"
 aliases:
   - "/Less+radiation-induced+intestinal+injury+if+activate+the+Vitamin+D+receptor+mice+–+Dec+2022"
-  - "/tiki-index.php?page_id=14177"
+  - "/14177"
+tiki_page_id: 14177
 date: 2022-12-29
 categories:
   - "Cancer - after diagnosis"

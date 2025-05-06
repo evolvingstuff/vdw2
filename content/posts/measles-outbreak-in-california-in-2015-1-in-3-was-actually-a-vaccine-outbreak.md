@@ -3,7 +3,8 @@ title: "Measles outbreak in California in 2015 – 1 in 3 was actually a Vaccine
 slug: "measles-outbreak-in-california-in-2015-1-in-3-was-actually-a-vaccine-outbreak"
 aliases:
   - "/Measles+outbreak+in+California+in+2015+–+1+in+3+was+actually+a+Vaccine+outbreak+–+March+2019"
-  - "/tiki-index.php?page_id=10549"
+  - "/10549"
+tiki_page_id: 10549
 date: 2019-03-05
 categories:
   - "Virus"

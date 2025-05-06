@@ -3,7 +3,8 @@ title: "24% lower risk of Autism for every 4 ng higher level of vitamin D during
 slug: "24-percent-lower-risk-of-autism-for-every-4-ng-higher-level-of-vitamin-d-during-pregnancy"
 aliases:
   - "/24+lower+risk+of+Autism+for+every+4+ng+higher+level+of+vitamin+D+during+pregnancy+–+Feb+2024"
-  - "/tiki-index.php?page_id=15111"
+  - "/15111"
+tiki_page_id: 15111
 date: 2024-03-07
 categories:
   - "Pregnancy"

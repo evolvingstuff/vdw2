@@ -3,7 +3,8 @@ title: "Inflammation (C-reactive protein) associated with low vitamin D in 22 di
 slug: "inflammation-c-reactive-protein-associated-with-low-vitamin-d-in-22-diseases"
 aliases:
   - "/Inflammation+C-reactive+protein+associated+with+low+vitamin+D+in+22+diseases+–+April+2020"
-  - "/tiki-index.php?page_id=12900"
+  - "/12900"
+tiki_page_id: 12900
 date: 2021-09-19
 categories:
   - "Inflammation"

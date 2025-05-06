@@ -3,7 +3,8 @@ title: "Obese get less benefit from vaccines: influenza, hepatitis B, rabies and
 slug: "obese-get-less-benefit-from-vaccines-influenza-hepatitis-b-rabies-and-now-covid-19"
 aliases:
   - "/Obese+get+less+benefit+from+vaccines+influenza+hepatitis+B+rabies+and+now+COVID-19+-+March+2021"
-  - "/tiki-index.php?page_id=12378"
+  - "/12378"
+tiki_page_id: 12378
 date: 2021-03-06
 categories:
   - "Obesity"

@@ -3,7 +3,8 @@ title: "The number 1 Deficiency behind All Autoimmune Diseases (Vitamin D) video
 slug: "the-number-1-deficiency-behind-all-autoimmune-diseases-vitamin-d-video"
 aliases:
   - "/The+number+1+Deficiency+behind+All+Autoimmune+Diseases+Vitamin+D+video+-+Dec+2023"
-  - "/tiki-index.php?page_id=14890"
+  - "/14890"
+tiki_page_id: 14890
 date: 2023-12-15
 categories:
   - "Books, videos on Vitamin D"

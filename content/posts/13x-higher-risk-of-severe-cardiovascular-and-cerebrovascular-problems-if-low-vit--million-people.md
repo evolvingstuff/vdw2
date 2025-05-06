@@ -3,7 +3,8 @@ title: "1.3X higher risk of severe Cardiovascular and Cerebrovascular problems i
 slug: "13x-higher-risk-of-severe-cardiovascular-and-cerebrovascular-problems-if-low-vit--million-people"
 aliases:
   - "/13X+higher+risk+of+severe+Cardiovascular+and+Cerebrovascular+problems+if+low+Vitamin+D+50+million+people+–+Dec+2020"
-  - "/tiki-index.php?page_id=12111"
+  - "/12111"
+tiki_page_id: 12111
 date: 2020-12-04
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Vitamin D fails to prevent Type 2 Diabetes (unaware of 8 proven ways)"
 slug: "vitamin-d-fails-to-prevent-type-2-diabetes-unaware-of-8-proven-ways"
 aliases:
   - "/Vitamin+D+fails+to+prevent+Type+2+Diabetes+unaware+of+8+proven+ways+June+2019"
-  - "/tiki-index.php?page_id=10843"
+  - "/10843"
+tiki_page_id: 10843
 date: 2019-06-07
 categories:
   - "Diabetes"

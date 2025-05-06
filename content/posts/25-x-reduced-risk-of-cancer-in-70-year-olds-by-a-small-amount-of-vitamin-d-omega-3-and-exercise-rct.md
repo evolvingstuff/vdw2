@@ -3,7 +3,8 @@ title: "2.5 X reduced risk of cancer in 70 year-olds by a small amount of Vitami
 slug: "25-x-reduced-risk-of-cancer-in-70-year-olds-by-a-small-amount-of-vitamin-d-omega-3-and-exercise-rct"
 aliases:
   - "/25+X+reduced+risk+of+cancer+in+70+year-olds+by+a+small+amount+of+Vitamin+D+Omega-3+and+exercise+–+RCT+April+2022"
-  - "/tiki-index.php?page_id=13516"
+  - "/13516"
+tiki_page_id: 13516
 date: 2022-04-25
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Bone resorption during pregnancy reduced by weekly 28,000 IU of Vitamin 
 slug: "bone-resorption-during-pregnancy-reduced-by-weekly-28000-iu-of-vitamin-d"
 aliases:
   - "/Bone+resorption+during+pregnancy+reduced+by+weekly+28000+IU+of+Vitamin+D+–+March+2024"
-  - "/tiki-index.php?page_id=15185"
+  - "/15185"
+tiki_page_id: 15185
 date: 2024-04-02
 categories:
   - "Bone - Health"

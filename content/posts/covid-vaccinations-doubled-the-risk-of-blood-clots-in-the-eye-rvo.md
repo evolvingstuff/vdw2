@@ -3,7 +3,8 @@ title: "COVID vaccinations doubled the risk of blood clots in the eye (RVO)"
 slug: "covid-vaccinations-doubled-the-risk-of-blood-clots-in-the-eye-rvo"
 aliases:
   - "/COVID+vaccinations+doubled+the+risk+of+blood+clots+in+the+eye+RVO+–+May+2023"
-  - "/tiki-index.php?page_id=14424"
+  - "/14424"
+tiki_page_id: 14424
 date: 2023-05-14
 categories:
   - "Vision"

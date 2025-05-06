@@ -3,7 +3,8 @@ title: "Obesity also increases the risk of mental health problems (probably Vita
 slug: "obesity-also-increases-the-risk-of-mental-health-problems-probably-vitamin-d"
 aliases:
   - "/Obesity+also+increases+the+risk+of+mental+health+problems+probably+Vitamin+D+-+June+2023"
-  - "/tiki-index.php?page_id=14470"
+  - "/14470"
+tiki_page_id: 14470
 date: 2023-06-04
 ---
 

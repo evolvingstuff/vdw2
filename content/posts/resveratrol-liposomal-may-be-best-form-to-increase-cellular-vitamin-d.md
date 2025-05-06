@@ -3,7 +3,8 @@ title: "Resveratrol - liposomal may be best form to increase cellular Vitamin D"
 slug: "resveratrol-liposomal-may-be-best-form-to-increase-cellular-vitamin-d"
 aliases:
   - "/Resveratrol+-+liposomal+may+be+best+form+to+increase+cellular+Vitamin+D+-+Feb+2023"
-  - "/tiki-index.php?page_id=14516"
+  - "/14516"
+tiki_page_id: 14516
 date: 2023-07-04
 categories:
   - "Vitamin D Receptor"

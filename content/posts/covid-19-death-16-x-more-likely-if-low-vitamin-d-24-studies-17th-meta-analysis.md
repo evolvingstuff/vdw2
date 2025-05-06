@@ -3,7 +3,8 @@ title: "COVID-19 death 1.6 X more likely if low vitamin D (24 studies) – 17th 
 slug: "covid-19-death-16-x-more-likely-if-low-vitamin-d-24-studies-17th-meta-analysis"
 aliases:
   - "/COVID-19+death+16+X+more+likely+if+low+vitamin+D+24+studies+–+17th+meta-analysis+Aug+2021"
-  - "/tiki-index.php?page_id=12870"
+  - "/12870"
+tiki_page_id: 12870
 date: 2021-09-01
 categories:
   - "Meta-analysis of Vitamin D"

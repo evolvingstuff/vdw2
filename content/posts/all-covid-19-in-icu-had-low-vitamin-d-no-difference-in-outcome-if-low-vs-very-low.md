@@ -3,7 +3,8 @@ title: "All COVID-19 in ICU had low vitamin D, no difference in outcome if low v
 slug: "all-covid-19-in-icu-had-low-vitamin-d-no-difference-in-outcome-if-low-vs-very-low"
 aliases:
   - "/All+COVID-19+in+ICU+had+low+vitamin+D+no+difference+in+outcome+if+low+vs+very+low+–+Feb+2021"
-  - "/tiki-index.php?page_id=12346"
+  - "/12346"
+tiki_page_id: 12346
 date: 2021-02-23
 categories:
   - "Virus"

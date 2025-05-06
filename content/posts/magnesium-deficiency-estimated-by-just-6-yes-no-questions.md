@@ -3,7 +3,8 @@ title: "Magnesium deficiency estimated by just 6 Yes No questions"
 slug: "magnesium-deficiency-estimated-by-just-6-yes-no-questions"
 aliases:
   - "/Magnesium+deficiency+estimated+by+just+6+Yes+No+questions+-+Dec+2019"
-  - "/tiki-index.php?page_id=11445"
+  - "/11445"
+tiki_page_id: 11445
 date: 2019-12-12
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Model of Vitamin D and metabolites reaction to 5,000 IU daily"
 slug: "model-of-vitamin-d-and-metabolites-reaction-to-5000-iu-daily"
 aliases:
   - "/Model+of+Vitamin+D+and+metabolites+reaction+to+5000+IU+daily+–+Sept+2022"
-  - "/tiki-index.php?page_id=13885"
+  - "/13885"
+tiki_page_id: 13885
 date: 2022-09-04
 ---
 

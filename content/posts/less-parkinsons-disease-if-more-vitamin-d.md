@@ -3,7 +3,8 @@ title: "Less Parkinson’s Disease if more vitamin D"
 slug: "less-parkinsons-disease-if-more-vitamin-d"
 aliases:
   - "/Less+Parkinsons+Disease+if+more+vitamin+D+–+June+2022"
-  - "/tiki-index.php?page_id=13680"
+  - "/13680"
+tiki_page_id: 13680
 date: 2022-06-17
 categories:
   - "Parkinson"

@@ -3,7 +3,8 @@ title: "Many T1 diabetics in Finland are self-treating with more than 1200 IU of
 slug: "many-t1-diabetics-in-finland-are-self-treating-with-more-than-1200-iu-of-vitamin-d-daily"
 aliases:
   - "/Many+T1+diabetics+in+Finland+are+self-treating+with+more+than+1200+IU+of+Vitamin+D+daily+–+Feb+2024"
-  - "/tiki-index.php?page_id=15053"
+  - "/15053"
+tiki_page_id: 15053
 date: 2024-02-15
 categories:
   - "Diabetes"

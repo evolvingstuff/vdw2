@@ -3,7 +3,8 @@ title: "Vitamin D activation is mainly done by the tissues, not the Liver and Ki
 slug: "vitamin-d-activation-is-mainly-done-by-the-tissues-not-the-liver-and-kidneys"
 aliases:
   - "/Vitamin+D+activation+is+mainly+done+by+the+tissues+not+the+Liver+and+Kidneys"
-  - "/tiki-index.php?page_id=11405"
+  - "/11405"
+tiki_page_id: 11405
 date: 2019-11-28
 categories:
   - "Kidney"

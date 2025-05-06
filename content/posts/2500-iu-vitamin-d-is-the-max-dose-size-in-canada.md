@@ -3,7 +3,8 @@ title: "2,500 IU Vitamin D is the max dose size in Canada"
 slug: "2500-iu-vitamin-d-is-the-max-dose-size-in-canada"
 aliases:
   - "/2500+IU+Vitamin+D+is+the+max+dose+size+in+Canada"
-  - "/tiki-index.php?page_id=13257"
+  - "/13257"
+tiki_page_id: 13257
 date: 2022-01-15
 categories:
   - "Vitamin D in Canada"

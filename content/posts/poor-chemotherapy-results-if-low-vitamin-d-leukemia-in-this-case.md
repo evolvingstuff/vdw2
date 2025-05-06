@@ -3,7 +3,8 @@ title: "Poor chemotherapy results if low vitamin D (leukemia in this case)"
 slug: "poor-chemotherapy-results-if-low-vitamin-d-leukemia-in-this-case"
 aliases:
   - "/Poor+chemotherapy+results+if+low+vitamin+D+leukemia+in+this+case+–+May+2022"
-  - "/tiki-index.php?page_id=13844"
+  - "/13844"
+tiki_page_id: 13844
 date: 2022-08-17
 categories:
   - "Cancer - after diagnosis"

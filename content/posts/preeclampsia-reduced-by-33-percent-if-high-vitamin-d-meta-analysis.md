@@ -3,7 +3,8 @@ title: "Preeclampsia reduced by 33 percent if high vitamin D – meta-analysis"
 slug: "preeclampsia-reduced-by-33-percent-if-high-vitamin-d-meta-analysis"
 aliases:
   - "/Preeclampsia+reduced+by+33+percent+if+high+vitamin+D+–+meta-analysis+Feb+2023"
-  - "/tiki-index.php?page_id=14279"
+  - "/14279"
+tiki_page_id: 14279
 date: 2023-02-22
 categories:
   - "Pregnancy"

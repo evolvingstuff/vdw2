@@ -3,7 +3,8 @@ title: "Vitamin D books – new and soon to be published"
 slug: "vitamin-d-books-new-and-soon-to-be-published"
 aliases:
   - "/Vitamin+D+books+–+new+and+soon+to+be+published+–+Feb+2019"
-  - "/tiki-index.php?page_id=10513"
+  - "/10513"
+tiki_page_id: 10513
 date: 2019-02-22
 categories:
   - "Books, videos on Vitamin D"

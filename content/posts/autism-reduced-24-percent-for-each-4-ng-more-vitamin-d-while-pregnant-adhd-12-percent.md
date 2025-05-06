@@ -3,7 +3,8 @@ title: "Autism reduced 24% for each 4 ng more Vitamin D while pregnant ( ADHD 12
 slug: "autism-reduced-24-percent-for-each-4-ng-more-vitamin-d-while-pregnant-adhd-12-percent"
 aliases:
   - "/Autism+reduced+24+for+each+4+ng+more+Vitamin+D+while+pregnant+ADHD+12+–+Feb+2024"
-  - "/tiki-index.php?page_id=15029"
+  - "/15029"
+tiki_page_id: 15029
 date: 2024-02-05
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Digestive tract cancer death rates reduced a bit by a bit of vitamin D â
 slug: "digestive-tract-cancer-death-rates-reduced-a-bit-by-a-bit-of-vitamin-d-rct"
 aliases:
   - "/Digestive+tract+cancer+death+rates+reduced+a+bit+by+a+bit+of+vitamin+D+â€“+RCT+April+2019"
-  - "/tiki-index.php?page_id=10650"
+  - "/10650"
+tiki_page_id: 10650
 date: 2019-04-09
 categories:
   - "Cancer - Colon"

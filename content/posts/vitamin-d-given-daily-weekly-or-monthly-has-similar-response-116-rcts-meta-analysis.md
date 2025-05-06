@@ -3,7 +3,8 @@ title: "Vitamin D given daily, weekly, or monthly has similar response (116 RCTs
 slug: "vitamin-d-given-daily-weekly-or-monthly-has-similar-response-116-rcts-meta-analysis"
 aliases:
   - "/Vitamin+D+given+daily+weekly+or+monthly+has+similar+response+116+RCTs+–+meta-analysis+Aug+2023"
-  - "/tiki-index.php?page_id=14652"
+  - "/14652"
+tiki_page_id: 14652
 date: 2023-08-31
 categories:
   - "Meta-analysis of Vitamin D"

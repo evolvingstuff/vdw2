@@ -3,7 +3,8 @@ title: "Each COVID reinfection causes more severe disease in miltary veterans (i
 slug: "each-covid-reinfection-causes-more-severe-disease-in-miltary-veterans-independant-of-vaccination"
 aliases:
   - "/Each+COVID+reinfection+causes+more+severe+disease+in+miltary+veterans+independant+of+vaccination+-+July+2022"
-  - "/tiki-index.php?page_id=13745"
+  - "/13745"
+tiki_page_id: 13745
 date: 2022-07-10
 categories:
   - "Seniors"

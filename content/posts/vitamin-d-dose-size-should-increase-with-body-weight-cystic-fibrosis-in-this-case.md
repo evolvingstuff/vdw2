@@ -3,7 +3,8 @@ title: "Vitamin D dose size should increase with body weight (Cystic Fibrosis in
 slug: "vitamin-d-dose-size-should-increase-with-body-weight-cystic-fibrosis-in-this-case"
 aliases:
   - "/Vitamin+D+dose+size+should+increase+with+body+weight+Cystic+Fibrosis+in+this+case+–+Nov+2018"
-  - "/tiki-index.php?page_id=10206"
+  - "/10206"
+tiki_page_id: 10206
 date: 2018-11-18
 categories:
   - "How much Vitamin D"

@@ -3,7 +3,8 @@ title: "Low-cost Ivermectin and Vitamin D fight COVID-19 – Marik video 1 hr"
 slug: "low-cost-ivermectin-and-vitamin-d-fight-covid-19-marik-video-1-hr"
 aliases:
   - "/Low-cost+Ivermectin+and+Vitamin+D+fight+COVID-19+–+Marik+video+1+hr+–+Feb+18+2021"
-  - "/tiki-index.php?page_id=12343"
+  - "/12343"
+tiki_page_id: 12343
 date: 2021-02-22
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Preterm Births decreased by Omega-3 (analysis of 184 countries)"
 slug: "preterm-births-decreased-by-omega-3-analysis-of-184-countries"
 aliases:
   - "/Preterm+Births+decreased+by+Omega-3+analysis+of+184+countries+–+April+2019"
-  - "/tiki-index.php?page_id=10698"
+  - "/10698"
+tiki_page_id: 10698
 date: 2019-04-27
 categories:
   - "Pregnancy"

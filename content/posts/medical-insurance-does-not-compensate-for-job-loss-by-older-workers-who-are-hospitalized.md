@@ -3,7 +3,8 @@ title: "Medical insurance does not compensate for job loss by older workers who 
 slug: "medical-insurance-does-not-compensate-for-job-loss-by-older-workers-who-are-hospitalized"
 aliases:
   - "/Medical+insurance+does+not+compensate+for+job+loss+by+older+workers+who+are+hospitalized+–+Sept+2016"
-  - "/tiki-index.php?page_id=10016"
+  - "/10016"
+tiki_page_id: 10016
 date: 2018-09-09
 categories:
   - "Cost savings with Vitamin D"

@@ -3,7 +3,8 @@ title: "Obese children had less gene methylation (gene not work as well)"
 slug: "obese-children-had-less-gene-methylation-gene-not-work-as-well"
 aliases:
   - "/Obese+children+had+less+gene+methylation+gene+not+work+as+well+–+March+2024"
-  - "/tiki-index.php?page_id=15157"
+  - "/15157"
+tiki_page_id: 15157
 date: 2024-03-20
 categories:
   - "Obesity"

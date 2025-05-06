@@ -3,7 +3,8 @@ title: "How vitamins A, B, C, D, E, F (Omega), K fight COVID"
 slug: "how-vitamins-a-b-c-d-e-f-omega-k-fight-covid"
 aliases:
   - "/How+vitamins+A+B+C+D+E+F+Omega+K+fight+COVID+-+Feb+2022"
-  - "/tiki-index.php?page_id=13334"
+  - "/13334"
+tiki_page_id: 13334
 date: 2022-02-13
 categories:
   - "Vitamin D and Vitamin K"

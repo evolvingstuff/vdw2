@@ -3,7 +3,8 @@ title: "More UV during first trimester, less Osteoporosis in offspring"
 slug: "more-uv-during-first-trimester-less-osteoporosis-in-offspring"
 aliases:
   - "/More+UV+during+first+trimester+less+Osteoporosis+in+offspring+–+June+2019"
-  - "/tiki-index.php?page_id=10903"
+  - "/10903"
+tiki_page_id: 10903
 date: 2019-06-20
 categories:
   - "UV and Vitamin D"

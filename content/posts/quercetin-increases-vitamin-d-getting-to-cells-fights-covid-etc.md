@@ -3,7 +3,8 @@ title: "Quercetin increases Vitamin D getting to cells (fights COVID, etc)"
 slug: "quercetin-increases-vitamin-d-getting-to-cells-fights-covid-etc"
 aliases:
   - "/Quercetin+increases+Vitamin+D+getting+to+cells+fights+COVID+etc"
-  - "/tiki-index.php?page_id=12982"
+  - "/12982"
+tiki_page_id: 12982
 date: 2021-10-14
 categories:
   - "Vitamin D Receptor"

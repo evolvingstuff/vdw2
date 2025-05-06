@@ -3,7 +3,8 @@ title: "Endometriosis: 2.7 X more likely if with low vitamin D (trend of 9 studi
 slug: "endometriosis-27-x-more-likely-if-with-low-vitamin-d-trend-of-9-studies-meta-analysis"
 aliases:
   - "/Endometriosis+27+X+more+likely+if+with+low+vitamin+D+trend+of+9+studies–+meta-analysis+May+2020"
-  - "/tiki-index.php?page_id=11774"
+  - "/11774"
+tiki_page_id: 11774
 date: 2020-05-20
 categories:
   - "Meta-analysis of Vitamin D"

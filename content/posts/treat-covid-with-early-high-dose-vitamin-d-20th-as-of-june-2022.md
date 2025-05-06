@@ -3,7 +3,8 @@ title: "Treat COVID with early high-dose Vitamin D (20th as of June 2022)"
 slug: "treat-covid-with-early-high-dose-vitamin-d-20th-as-of-june-2022"
 aliases:
   - "/Treat+COVID+with+early+high-dose+Vitamin+D+20th+as+of+June+2022"
-  - "/tiki-index.php?page_id=13674"
+  - "/13674"
+tiki_page_id: 13674
 date: 2022-06-14
 categories:
   - "Loading dose for Vitamin D"

@@ -3,7 +3,8 @@ title: "Thin Choroid (eye lining) in children thickened by 300,000 IU of Vitamin
 slug: "thin-choroid-eye-lining-in-children-thickened-by-300000-iu-of-vitamin-d"
 aliases:
   - "/Thin+Choroid+eye+lining+in+children+thickened+by+300000+IU+of+Vitamin+D+–+July+2023"
-  - "/tiki-index.php?page_id=14514"
+  - "/14514"
+tiki_page_id: 14514
 date: 2023-07-03
 categories:
   - "Vision"

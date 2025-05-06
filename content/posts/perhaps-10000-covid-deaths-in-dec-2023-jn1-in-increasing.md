@@ -3,7 +3,8 @@ title: "Perhaps 10,000 COVID deaths in Dec 2023 (JN.1 in increasing)"
 slug: "perhaps-10000-covid-deaths-in-dec-2023-jn1-in-increasing"
 aliases:
   - "/Perhaps+10000+COVID+deaths+in+Dec+2023+JN1+in+increasing"
-  - "/tiki-index.php?page_id=14965"
+  - "/14965"
+tiki_page_id: 14965
 date: 2024-01-12
 categories:
   - "Virus"

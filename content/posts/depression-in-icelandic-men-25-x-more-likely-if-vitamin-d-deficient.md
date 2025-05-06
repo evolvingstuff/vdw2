@@ -3,7 +3,8 @@ title: "Depression in Icelandic men 2.5 X more likely if vitamin D deficient"
 slug: "depression-in-icelandic-men-25-x-more-likely-if-vitamin-d-deficient"
 aliases:
   - "/Depression+in+Icelandic+men+25+X+more+likely+if+vitamin+D+deficient+–+Nov+2015"
-  - "/tiki-index.php?page_id=14370"
+  - "/14370"
+tiki_page_id: 14370
 date: 2023-04-09
 categories:
   - "Depression"

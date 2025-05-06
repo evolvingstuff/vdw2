@@ -3,7 +3,8 @@ title: "Poor Receptor predicts sepsis death (restricts Vitamin D from getting to
 slug: "poor-receptor-predicts-sepsis-death-restricts-vitamin-d-from-getting-to-cells"
 aliases:
   - "/Poor+Receptor+predicts+sepsis+death+restricts+Vitamin+D+from+getting+to+cells+–+Aug+2021"
-  - "/tiki-index.php?page_id=12830"
+  - "/12830"
+tiki_page_id: 12830
 date: 2021-08-16
 categories:
   - "Mortality and D"

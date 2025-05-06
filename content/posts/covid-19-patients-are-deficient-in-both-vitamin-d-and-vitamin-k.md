@@ -3,7 +3,8 @@ title: "COVID-19 patients are deficient in both Vitamin D and Vitamin K"
 slug: "covid-19-patients-are-deficient-in-both-vitamin-d-and-vitamin-k"
 aliases:
   - "/COVID-19+patients+are+deficient+in+both+Vitamin+D+and+Vitamin+K+–+Oct+2021"
-  - "/tiki-index.php?page_id=12981"
+  - "/12981"
+tiki_page_id: 12981
 date: 2021-10-14
 categories:
   - "Vitamin D and Vitamin K"

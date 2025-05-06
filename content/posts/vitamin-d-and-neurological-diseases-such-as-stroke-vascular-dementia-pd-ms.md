@@ -3,7 +3,8 @@ title: "Vitamin D and neurological diseases such as stroke, Vascular Dementia, P
 slug: "vitamin-d-and-neurological-diseases-such-as-stroke-vascular-dementia-pd-ms"
 aliases:
   - "/Vitamin+D+and+neurological+diseases+such+as+stroke+Vascular+Dementia+PD+MS+-+July+2018"
-  - "/tiki-index.php?page_id=10277"
+  - "/10277"
+tiki_page_id: 10277
 date: 2018-12-06
 categories:
   - "Multiple Sclerosis"

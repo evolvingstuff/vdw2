@@ -3,7 +3,8 @@ title: "The Role of Resveratrol in Cancer Therapy"
 slug: "the-role-of-resveratrol-in-cancer-therapy"
 aliases:
   - "/The+Role+of+Resveratrol+in+Cancer+Therapy+–+Dec+2017"
-  - "/tiki-index.php?page_id=10701"
+  - "/10701"
+tiki_page_id: 10701
 date: 2019-04-27
 categories:
   - "Cancer"

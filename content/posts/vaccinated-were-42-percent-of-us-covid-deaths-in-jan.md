@@ -3,7 +3,8 @@ title: "Vaccinated were 42 percent of US COVID Deaths in Jan-Feb 2022"
 slug: "vaccinated-were-42-percent-of-us-covid-deaths-in-jan"
 aliases:
   - "/Vaccinated+were+42+percent+of+US+COVID+Deaths+in+Jan-Feb+2022+–+April+29+2022"
-  - "/tiki-index.php?page_id=13538"
+  - "/13538"
+tiki_page_id: 13538
 date: 2022-05-02
 categories:
   - "Virus"

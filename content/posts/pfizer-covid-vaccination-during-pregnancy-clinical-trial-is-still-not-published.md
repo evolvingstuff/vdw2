@@ -3,7 +3,8 @@ title: "Pfizer COVID vaccination during pregnancy clinical trial is still not pu
 slug: "pfizer-covid-vaccination-during-pregnancy-clinical-trial-is-still-not-published"
 aliases:
   - "/Pfizer+COVID+vaccination+during+pregnancy+clinical+trial+is+still+not+published+-+Feb+2023"
-  - "/tiki-index.php?page_id=14287"
+  - "/14287"
+tiki_page_id: 14287
 date: 2023-02-25
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "What if we paid doctors to keep people healthy - TedTalk 2017"
 slug: "what-if-we-paid-doctors-to-keep-people-healthy-tedtalk-2017"
 aliases:
   - "/What+if+we+paid+doctors+to+keep+people+healthy+-+TedTalk+2017"
-  - "/tiki-index.php?page_id=14629"
+  - "/14629"
+tiki_page_id: 14629
 date: 2023-08-23
 categories:
   - "Off Topic"

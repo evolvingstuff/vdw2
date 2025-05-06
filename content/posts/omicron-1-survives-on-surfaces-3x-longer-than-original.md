@@ -3,7 +3,8 @@ title: "Omicron-1 survives on surfaces 3X longer than original"
 slug: "omicron-1-survives-on-surfaces-3x-longer-than-original"
 aliases:
   - "/Omicron-1+survives+on+surfaces+3X+longer+than+original+-+March+18+2022"
-  - "/tiki-index.php?page_id=13414"
+  - "/13414"
+tiki_page_id: 13414
 date: 2022-03-18
 categories:
   - "Virus"

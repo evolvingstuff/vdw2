@@ -3,7 +3,8 @@ title: "Worse COVID-19 if very low vitamin D"
 slug: "worse-covid-19-if-very-low-vitamin-d"
 aliases:
   - "/Worse+COVID-19+if+very+low+vitamin+D+–+Jan+29+2021"
-  - "/tiki-index.php?page_id=12273"
+  - "/12273"
+tiki_page_id: 12273
 date: 2021-01-30
 categories:
   - "Deficiency of Vitamin D"

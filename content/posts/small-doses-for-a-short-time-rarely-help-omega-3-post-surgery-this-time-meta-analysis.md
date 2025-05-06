@@ -3,7 +3,8 @@ title: "Small doses for a short time rarely help (Omega-3, post surgery this tim
 slug: "small-doses-for-a-short-time-rarely-help-omega-3-post-surgery-this-time-meta-analysis"
 aliases:
   - "/Small+doses+for+a+short+time+rarely+help+Omega-3+post+surgery+this+time+–+meta-analysis+Nov+2023"
-  - "/tiki-index.php?page_id=14844"
+  - "/14844"
+tiki_page_id: 14844
 date: 2023-11-27
 categories:
   - "Meta-analysis of Vitamin D"

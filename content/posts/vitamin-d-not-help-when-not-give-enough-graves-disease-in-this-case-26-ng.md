@@ -3,7 +3,8 @@ title: "Vitamin D not help when not give enough (Graves Disease in this case –
 slug: "vitamin-d-not-help-when-not-give-enough-graves-disease-in-this-case-26-ng"
 aliases:
   - "/Vitamin+D+not+help+when+not+give+enough+Graves+Disease+in+this+case+–+26+ng+–+Jan+2020"
-  - "/tiki-index.php?page_id=11536"
+  - "/11536"
+tiki_page_id: 11536
 date: 2020-01-08
 categories:
   - "Autoimmune"

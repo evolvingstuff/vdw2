@@ -3,7 +3,8 @@ title: "Need at least 6,000 IU daily while breastfeeding to eliminate Vitamin D 
 slug: "need-at-least-6000-iu-daily-while-breastfeeding-to-eliminate-vitamin-d-deficiency-meta-analysis"
 aliases:
   - "/Need+at+least+6000+IU+daily+while+breastfeeding+to+eliminate+Vitamin+D+deficiency+–+meta-analysis+Oct+2021"
-  - "/tiki-index.php?page_id=13038"
+  - "/13038"
+tiki_page_id: 13038
 date: 2021-11-01
 categories:
   - "Pregnancy"

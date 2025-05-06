@@ -3,7 +3,8 @@ title: "Cardiovascular problems reduced by Omega-3 - many studies"
 slug: "cardiovascular-problems-reduced-by-omega-3-many-studies"
 aliases:
   - "/Cardiovascular+problems+reduced+by+Omega-3+-+many+studies"
-  - "/tiki-index.php?page_id=14833"
+  - "/14833"
+tiki_page_id: 14833
 date: 2023-11-22
 categories:
   - "Cardiovascular"

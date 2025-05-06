@@ -3,7 +3,8 @@ title: "FLCCC COVID guidelines now include vitamin D loading doses"
 slug: "flccc-covid-guidelines-now-include-vitamin-d-loading-doses"
 aliases:
   - "/FLCCC+COVID+guidelines+now+include+vitamin+D+loading+doses+-+Jan+2022"
-  - "/tiki-index.php?page_id=13271"
+  - "/13271"
+tiki_page_id: 13271
 date: 2022-01-19
 categories:
   - "Loading dose for Vitamin D"

@@ -3,7 +3,8 @@ title: "Weekly 50,000 IU of vitamin D is again found to be good – RCT"
 slug: "weekly-50000-iu-of-vitamin-d-is-again-found-to-be-good-rct"
 aliases:
   - "/Weekly+50000+IU+of+vitamin+D+is+again+found+to+be+good+–+RCT+May+2020"
-  - "/tiki-index.php?page_id=11784"
+  - "/11784"
+tiki_page_id: 11784
 date: 2020-05-27
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Vitamin D interacts with more than genes (mitochondria, etc)"
 slug: "vitamin-d-interacts-with-more-than-genes-mitochondria-etc"
 aliases:
   - "/Vitamin+D+interacts+with+more+than+genes+mitochondria+etc+–+Dec+2022"
-  - "/tiki-index.php?page_id=14125"
+  - "/14125"
+tiki_page_id: 14125
 date: 2022-12-01
 ---
 

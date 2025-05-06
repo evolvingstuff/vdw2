@@ -3,7 +3,8 @@ title: "Fewer COVID deaths in countries with more sunshine"
 slug: "fewer-covid-deaths-in-countries-with-more-sunshine"
 aliases:
   - "/Fewer+COVID+deaths+in+countries+with+more+sunshine+-+April+2024"
-  - "/tiki-index.php?page_id=15234"
+  - "/15234"
+tiki_page_id: 15234
 date: 2024-04-22
 categories:
   - "Noontime sun and D"

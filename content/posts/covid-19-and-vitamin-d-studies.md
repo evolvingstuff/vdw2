@@ -3,7 +3,8 @@ title: "COVID-19 and Vitamin D studies"
 slug: "covid-19-and-vitamin-d-studies"
 aliases:
   - "/COVID-19+and+Vitamin+D+studies+-+Dec+2021"
-  - "/tiki-index.php?page_id=11963"
+  - "/11963"
+tiki_page_id: 11963
 date: 2020-09-20
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D in the gut is slow to get to the blood - must go thru the lymp
 slug: "vitamin-d-in-the-gut-is-slow-to-get-to-the-blood-must-go-thru-the-lymph-system"
 aliases:
   - "/Vitamin+D+in+the+gut+is+slow+to+get+to+the+blood+-+must+go+thru+the+lymph+system"
-  - "/tiki-index.php?page_id=15070"
+  - "/15070"
+tiki_page_id: 15070
 date: 2024-02-22
 categories:
   - "AI"

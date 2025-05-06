@@ -3,7 +3,8 @@ title: "Parkinson’s Disease Summer School – therapies included 60-80 ng of V
 slug: "parkinsons-disease-summer-school-therapies-included-60-80-ng-of-vitamin-d"
 aliases:
   - "/Parkinsons+Disease+Summer+School+–+therapies+included+60-80+ng+of+Vitamin+D+–+Sept+2019"
-  - "/tiki-index.php?page_id=11125"
+  - "/11125"
+tiki_page_id: 11125
 date: 2019-09-05
 categories:
   - "Parkinson"

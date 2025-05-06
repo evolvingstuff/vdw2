@@ -3,7 +3,8 @@ title: "Periodontal Health helped a bit by small amounts of vitamin D for short 
 slug: "periodontal-health-helped-a-bit-by-small-amounts-of-vitamin-d-for-short-duration-ew-of-4-studies"
 aliases:
   - "/Periodontal+Health+helped+a+bit+by+small+amounts+of+vitamin+D+for+short+durations+–+review+of+4+studies+Oct+2023"
-  - "/tiki-index.php?page_id=14796"
+  - "/14796"
+tiki_page_id: 14796
 date: 2023-10-30
 categories:
   - "Dental"

@@ -3,7 +3,8 @@ title: "Polio vaccine absolute risk reduction was only 0.01 percent - 2022"
 slug: "polio-vaccine-absolute-risk-reduction-was-only-001-percent-2022"
 aliases:
   - "/Polio+vaccine+absolute+risk+reduction+was+only+001+percent+-+2022"
-  - "/tiki-index.php?page_id=14003"
+  - "/14003"
+tiki_page_id: 14003
 date: 2022-10-10
 categories:
   - "Virus"

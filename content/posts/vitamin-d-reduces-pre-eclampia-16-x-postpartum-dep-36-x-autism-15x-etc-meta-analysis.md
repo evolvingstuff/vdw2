@@ -3,7 +3,8 @@ title: "Vitamin D reduces: pre-eclampia 1.6 X, postpartum dep. 3.6 X, autism 1.5
 slug: "vitamin-d-reduces-pre-eclampia-16-x-postpartum-dep-36-x-autism-15x-etc-meta-analysis"
 aliases:
   - "/Vitamin+D+reduces+pre-eclampia+16+X+postpartum+dep+36+X+autism+15X+etc+-+meta-analysis+March+2024"
-  - "/tiki-index.php?page_id=15123"
+  - "/15123"
+tiki_page_id: 15123
 date: 2024-03-11
 categories:
   - "Meta-analysis of Vitamin D"

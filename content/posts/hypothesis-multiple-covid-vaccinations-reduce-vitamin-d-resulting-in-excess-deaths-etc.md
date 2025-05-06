@@ -3,7 +3,8 @@ title: "Hypothesis: Multiple COVID vaccinations reduce Vitamin D, resulting in E
 slug: "hypothesis-multiple-covid-vaccinations-reduce-vitamin-d-resulting-in-excess-deaths-etc"
 aliases:
   - "/Hypothesis+Multiple+COVID+vaccinations+reduce+Vitamin+D+resulting+in+Excess+Deaths+etc+-+Oct+2023"
-  - "/tiki-index.php?page_id=14793"
+  - "/14793"
+tiki_page_id: 14793
 date: 2023-10-29
 categories:
   - "Virus"

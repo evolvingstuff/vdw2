@@ -3,7 +3,8 @@ title: "Larger doses to those who were more insufficient, got all to 34 ng of Vi
 slug: "larger-doses-to-those-who-were-more-insufficient-got-all-to-34-ng-of-vitamin-d"
 aliases:
   - "/Larger+doses+to+those+who+were+more+insufficient+got+all+to+34+ng+of+Vitamin+D+–+Oct+2018"
-  - "/tiki-index.php?page_id=10420"
+  - "/10420"
+tiki_page_id: 10420
 date: 2019-01-23
 categories:
   - "How much Vitamin D"

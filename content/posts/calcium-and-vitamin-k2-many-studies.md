@@ -3,7 +3,8 @@ title: "Calcium and Vitamin K2 - many studies"
 slug: "calcium-and-vitamin-k2-many-studies"
 aliases:
   - "/Calcium+and+Vitamin+K2+-+many+studies"
-  - "/tiki-index.php?page_id=14372"
+  - "/14372"
+tiki_page_id: 14372
 date: 2023-04-11
 categories:
   - "Vitamin D and Calcium"

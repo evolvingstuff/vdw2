@@ -3,7 +3,8 @@ title: "Vitamin D deficiency predicted with 91% accuracy ( AI, age, paywall)"
 slug: "vitamin-d-deficiency-predicted-with-91-percent-accuracy-ai-age-paywall"
 aliases:
   - "/Vitamin+D+deficiency+predicted+with+91+accuracy+AI+age+paywall+-+April+2024"
-  - "/tiki-index.php?page_id=15161"
+  - "/15161"
+tiki_page_id: 15161
 date: 2024-03-22
 categories:
   - "Predict Vitamin D"

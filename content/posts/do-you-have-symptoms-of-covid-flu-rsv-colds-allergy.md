@@ -3,7 +3,8 @@ title: "Do you have symptoms of COVID, Flu , RSV,  Colds, Allergy"
 slug: "do-you-have-symptoms-of-covid-flu-rsv-colds-allergy"
 aliases:
   - "/Do+you+have+symptoms+of+COVID+Flu+RSV+Colds+Allergy+-+Oct+2022"
-  - "/tiki-index.php?page_id=14050"
+  - "/14050"
+tiki_page_id: 14050
 date: 2022-10-28
 categories:
   - "Virus"

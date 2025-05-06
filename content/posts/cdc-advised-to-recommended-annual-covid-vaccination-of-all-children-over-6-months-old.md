@@ -3,7 +3,8 @@ title: "CDC advised to recommended annual COVID vaccination of all children over
 slug: "cdc-advised-to-recommended-annual-covid-vaccination-of-all-children-over-6-months-old"
 aliases:
   - "/CDC+advised+to+recommended+annual+COVID+vaccination+of+all+children+over+6+months+old+–+Oct+20+2022"
-  - "/tiki-index.php?page_id=14028"
+  - "/14028"
+tiki_page_id: 14028
 date: 2022-10-20
 categories:
   - "Infant-Child"

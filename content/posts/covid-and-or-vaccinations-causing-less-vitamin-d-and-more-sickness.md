@@ -3,7 +3,8 @@ title: "COVID and or vaccinations causing less Vitamin D and more sickness"
 slug: "covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness"
 aliases:
   - "/COVID+and+or+vaccinations+causing+less+Vitamin+D+and+more+sickness+-+Jan+2024"
-  - "/tiki-index.php?page_id=14985"
+  - "/14985"
+tiki_page_id: 14985
 date: 2024-01-20
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D Receptor synonyms"
 slug: "vitamin-d-receptor-synonyms"
 aliases:
   - "/Vitamin+D+Receptor+synonyms"
-  - "/tiki-index.php?page_id=10878"
+  - "/10878"
+tiki_page_id: 10878
 date: 2019-06-14
 categories:
   - "Vitamin D Receptor"

@@ -3,7 +3,8 @@ title: "Vitamin D might help critically ill patients (if enough is given quickly
 slug: "vitamin-d-might-help-critically-ill-patients-if-enough-is-given-quickly"
 aliases:
   - "/Vitamin+D+might+help+critically+ill+patients+if+enough+is+given+quickly+–+Nov+2022"
-  - "/tiki-index.php?page_id=14075"
+  - "/14075"
+tiki_page_id: 14075
 date: 2022-11-07
 categories:
   - "Trauma and surgery"

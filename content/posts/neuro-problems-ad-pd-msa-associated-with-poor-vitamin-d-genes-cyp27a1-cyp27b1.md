@@ -3,7 +3,8 @@ title: "Neuro problems (AD, PD, MSA) associated with poor vitamin D genes (CYP27
 slug: "neuro-problems-ad-pd-msa-associated-with-poor-vitamin-d-genes-cyp27a1-cyp27b1"
 aliases:
   - "/Neuro+problems+AD+PD+MSA+associated+with+poor+vitamin+D+genes+CYP27A1+CYP27B1+–+Sept+2022"
-  - "/tiki-index.php?page_id=13895"
+  - "/13895"
+tiki_page_id: 13895
 date: 2022-09-08
 categories:
   - "Parkinson"

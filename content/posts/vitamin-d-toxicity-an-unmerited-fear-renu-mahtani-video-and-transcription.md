@@ -3,7 +3,8 @@ title: "Vitamin D Toxicity - an unmerited fear - Renu Mahtani video and transcri
 slug: "vitamin-d-toxicity-an-unmerited-fear-renu-mahtani-video-and-transcription"
 aliases:
   - "/Vitamin+D+Toxicity+-+an+unmerited+fear+-+Renu+Mahtani+video+and+transcription+-+Oct+2020"
-  - "/tiki-index.php?page_id=12002"
+  - "/12002"
+tiki_page_id: 12002
 date: 2020-10-10
 categories:
   - "Books, videos on Vitamin D"

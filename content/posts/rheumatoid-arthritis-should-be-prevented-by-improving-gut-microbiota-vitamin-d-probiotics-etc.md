@@ -3,7 +3,8 @@ title: "Rheumatoid Arthritis should be prevented by improving gut microbiota (Vi
 slug: "rheumatoid-arthritis-should-be-prevented-by-improving-gut-microbiota-vitamin-d-probiotics-etc"
 aliases:
   - "/Rheumatoid+Arthritis+should+be+prevented+by+improving+gut+microbiota+Vitamin+D+probiotics+etc+–+March+2023"
-  - "/tiki-index.php?page_id=14315"
+  - "/14315"
+tiki_page_id: 14315
 date: 2023-03-18
 categories:
   - "Rheumatoid Arthritis"

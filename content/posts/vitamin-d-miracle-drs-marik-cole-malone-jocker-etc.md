@@ -3,7 +3,8 @@ title: "Vitamin D Miracle: Dr.'s Marik, Cole,  Malone, Jocker, etc."
 slug: "vitamin-d-miracle-drs-marik-cole-malone-jocker-etc"
 aliases:
   - "/Vitamin+D+Miracle+Drs+Marik+Cole+Malone+Jocker+etc+-+Sept+2023"
-  - "/tiki-index.php?page_id=14944"
+  - "/14944"
+tiki_page_id: 14944
 date: 2024-01-04
 categories:
   - "Books, videos on Vitamin D"

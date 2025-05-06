@@ -3,7 +3,8 @@ title: "COVID in hospital fought by Vitamin D (25,000 IU daily for 4 days, then 
 slug: "covid-in-hospital-fought-by-vitamin-d-25000-iu-daily-for-4-days-then-25k-weekly-rct"
 aliases:
   - "/COVID+in+hospital+fought+by+Vitamin+D+25000+IU+daily+for+4+days+then+25K+weekly+-+RCT+–+July+2022"
-  - "/tiki-index.php?page_id=13961"
+  - "/13961"
+tiki_page_id: 13961
 date: 2022-10-01
 categories:
   - "Intervention"

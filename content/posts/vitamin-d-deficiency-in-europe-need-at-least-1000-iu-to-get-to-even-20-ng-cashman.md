@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency in Europe- need at least 1000 IU to get to even 20 
 slug: "vitamin-d-deficiency-in-europe-need-at-least-1000-iu-to-get-to-even-20-ng-cashman"
 aliases:
   - "/Vitamin+D+Deficiency+in+Europe-+need+at+least+1000+IU+to+get+to+even+20+ng+–+Cashman+April+2019"
-  - "/tiki-index.php?page_id=10756"
+  - "/10756"
+tiki_page_id: 10756
 date: 2019-05-10
 categories:
   - "Vitamin D in Europe"

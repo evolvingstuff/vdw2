@@ -3,7 +3,8 @@ title: "Peripheral diabetic neuropathy helped by weekly 50,000 IU vitamin D"
 slug: "peripheral-diabetic-neuropathy-helped-by-weekly-50000-iu-vitamin-d"
 aliases:
   - "/Peripheral+diabetic+neuropathy+helped+by+weekly+50000+IU+vitamin+D+–+Jan+2019"
-  - "/tiki-index.php?page_id=10365"
+  - "/10365"
+tiki_page_id: 10365
 date: 2019-01-03
 categories:
   - "Diabetes"

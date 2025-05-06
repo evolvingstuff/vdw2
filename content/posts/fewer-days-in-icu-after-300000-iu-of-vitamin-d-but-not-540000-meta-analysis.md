@@ -3,7 +3,8 @@ title: "Fewer days in ICU after 300,000 IU of vitamin D, but not 540,000 – met
 slug: "fewer-days-in-icu-after-300000-iu-of-vitamin-d-but-not-540000-meta-analysis"
 aliases:
   - "/Fewer+days+in+ICU+after+300000+IU+of+vitamin+D+but+not+540000+–+meta-analysis+Aug+2020"
-  - "/tiki-index.php?page_id=11932"
+  - "/11932"
+tiki_page_id: 11932
 date: 2020-09-02
 categories:
   - "Trauma and surgery"

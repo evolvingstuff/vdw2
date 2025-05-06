@@ -3,7 +3,8 @@ title: "Depression more likely if low vitamin D (3.5 X prediabetic women in this
 slug: "depression-more-likely-if-low-vitamin-d-35-x-prediabetic-women-in-this-case"
 aliases:
   - "/Depression+more+likely+if+low+vitamin+D+35+X+prediabetic+women+in+this+case+–+Oct+2022"
-  - "/tiki-index.php?page_id=14038"
+  - "/14038"
+tiki_page_id: 14038
 date: 2022-10-25
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "Cardiac syndrome X (Microvascular angina, a type of chest pain in women)
 slug: "cardiac-syndrome-x-microvascular-angina-a-type-of-chest-pain-in-women"
 aliases:
   - "/Cardiac+syndrome+X+Microvascular+angina+a+type+of+chest+pain+in+women+–+Oct+2022"
-  - "/tiki-index.php?page_id=14090"
+  - "/14090"
+tiki_page_id: 14090
 date: 2022-11-16
 categories:
   - "Cardiovascular"

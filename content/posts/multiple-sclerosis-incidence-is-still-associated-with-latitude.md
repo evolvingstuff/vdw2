@@ -3,7 +3,8 @@ title: "Multiple Sclerosis incidence is still associated with latitude"
 slug: "multiple-sclerosis-incidence-is-still-associated-with-latitude"
 aliases:
   - "/Multiple+Sclerosis+incidence+is+still+associated+with+latitude+–+Nov+2019"
-  - "/tiki-index.php?page_id=11476"
+  - "/11476"
+tiki_page_id: 11476
 date: 2019-12-19
 categories:
   - "Multiple Sclerosis"

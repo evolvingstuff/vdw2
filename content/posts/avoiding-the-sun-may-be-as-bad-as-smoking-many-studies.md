@@ -3,7 +3,8 @@ title: "Avoiding the sun may be as bad as smoking - many studies"
 slug: "avoiding-the-sun-may-be-as-bad-as-smoking-many-studies"
 aliases:
   - "/Avoiding+the+sun+may+be+as+bad+as+smoking+-+many+studies"
-  - "/tiki-index.php?page_id=11025"
+  - "/11025"
+tiki_page_id: 11025
 date: 2019-07-29
 categories:
   - "Noontime sun and D"

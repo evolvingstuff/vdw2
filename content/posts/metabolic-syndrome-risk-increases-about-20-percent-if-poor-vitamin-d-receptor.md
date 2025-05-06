@@ -3,7 +3,8 @@ title: "Metabolic Syndrome risk increases about 20 percent if poor Vitamin D Rec
 slug: "metabolic-syndrome-risk-increases-about-20-percent-if-poor-vitamin-d-receptor"
 aliases:
   - "/Metabolic+Syndrome+risk+increases+about+20+percent+if+poor+Vitamin+D+Receptor+–+Aug+2020"
-  - "/tiki-index.php?page_id=11900"
+  - "/11900"
+tiki_page_id: 11900
 date: 2020-08-10
 categories:
   - "Metabolic Syndrome"

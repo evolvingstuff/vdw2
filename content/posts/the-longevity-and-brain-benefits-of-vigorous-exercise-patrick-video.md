@@ -3,7 +3,8 @@ title: "The Longevity and Brain Benefits of Vigorous Exercise - Patrick video"
 slug: "the-longevity-and-brain-benefits-of-vigorous-exercise-patrick-video"
 aliases:
   - "/The+Longevity+and+Brain+Benefits+of+Vigorous+Exercise+-+Patrick+video+Dec+2023"
-  - "/tiki-index.php?page_id=14866"
+  - "/14866"
+tiki_page_id: 14866
 date: 2023-12-05
 categories:
   - "AI"

@@ -3,7 +3,8 @@ title: "Vitamin D during lactation – range from 4,000 IU daily to 150,000 IU m
 slug: "vitamin-d-during-lactation-range-from-4000-iu-daily-to-150000-iu-monthly"
 aliases:
   - "/Vitamin+D+during+lactation+–+range+from+4000+IU+daily+to+150000+IU+monthly+–+Sept+2018"
-  - "/tiki-index.php?page_id=10064"
+  - "/10064"
+tiki_page_id: 10064
 date: 2018-09-24
 categories:
   - "Pregnancy"

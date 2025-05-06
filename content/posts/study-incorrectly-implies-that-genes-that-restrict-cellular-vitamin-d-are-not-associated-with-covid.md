@@ -3,7 +3,8 @@ title: "Study incorrectly implies that genes that restrict cellular Vitamin D ar
 slug: "study-incorrectly-implies-that-genes-that-restrict-cellular-vitamin-d-are-not-associated-with-covid"
 aliases:
   - "/Study+incorrectly+implies+that+genes+that+restrict+cellular+Vitamin+D+are+not+associated+with+COVID+–+Nov+2022"
-  - "/tiki-index.php?page_id=14093"
+  - "/14093"
+tiki_page_id: 14093
 date: 2022-11-17
 ---
 

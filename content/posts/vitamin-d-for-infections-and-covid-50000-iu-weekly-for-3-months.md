@@ -3,7 +3,8 @@ title: "Vitamin D for infections and COVID (50,000 IU weekly for 3 months)"
 slug: "vitamin-d-for-infections-and-covid-50000-iu-weekly-for-3-months"
 aliases:
   - "/Vitamin+D+for+infections+and+COVID+50000+IU+weekly+for+3+months+–+July+2021"
-  - "/tiki-index.php?page_id=12797"
+  - "/12797"
+tiki_page_id: 12797
 date: 2021-08-02
 categories:
   - "Immunity"

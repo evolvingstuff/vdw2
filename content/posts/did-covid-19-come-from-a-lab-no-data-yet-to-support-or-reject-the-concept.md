@@ -3,7 +3,8 @@ title: "Did COVID-19 come from a lab - no data yet to support or reject the conc
 slug: "did-covid-19-come-from-a-lab-no-data-yet-to-support-or-reject-the-concept"
 aliases:
   - "/Did+COVID-19+come+from+a+lab+-+no+data+yet+to+support+or+reject+the+concept+-+May+25+2021"
-  - "/tiki-index.php?page_id=12605"
+  - "/12605"
+tiki_page_id: 12605
 date: 2021-05-25
 categories:
   - "Virus"

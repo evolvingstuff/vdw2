@@ -3,7 +3,8 @@ title: "A year after 2nd COVID vaccination, stems cells not available to fetus i
 slug: "a-year-after-2nd-covid-vaccination-stems-cells-not-available-to-fetus-immune-system"
 aliases:
   - "/A+year+after+2nd+COVID+vaccination+stems+cells+not+available+to+fetus+immune+system+–+Nov+2022"
-  - "/tiki-index.php?page_id=14087"
+  - "/14087"
+tiki_page_id: 14087
 date: 2022-11-14
 categories:
   - "Immunity"

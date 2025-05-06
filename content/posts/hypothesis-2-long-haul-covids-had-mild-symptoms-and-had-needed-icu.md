@@ -3,7 +3,8 @@ title: "Hypothesis: 2 long-haul COVIDs: had mild symptoms and had needed ICU"
 slug: "hypothesis-2-long-haul-covids-had-mild-symptoms-and-had-needed-icu"
 aliases:
   - "/Hypothesis+2+long-haul+COVIDs+had+mild+symptoms+and+had+needed+ICU+-+April+2022"
-  - "/tiki-index.php?page_id=13487"
+  - "/13487"
+tiki_page_id: 13487
 date: 2022-04-15
 categories:
   - "Vitamin D and Magnesium"

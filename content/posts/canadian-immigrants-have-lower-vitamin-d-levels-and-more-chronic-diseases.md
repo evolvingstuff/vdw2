@@ -3,7 +3,8 @@ title: "Canadian immigrants have lower vitamin D levels and more chronic disease
 slug: "canadian-immigrants-have-lower-vitamin-d-levels-and-more-chronic-diseases"
 aliases:
   - "/Canadian+immigrants+have+lower+vitamin+D+levels+and+more+chronic+diseases+–+April+2022"
-  - "/tiki-index.php?page_id=13508"
+  - "/13508"
+tiki_page_id: 13508
 date: 2022-04-22
 categories:
   - "Vitamin D Far from equator"

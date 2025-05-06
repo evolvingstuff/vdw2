@@ -3,7 +3,8 @@ title: "Coronary Artery Disease Chest Pain, Anxiety, and Fatigue associated with
 slug: "coronary-artery-disease-chest-pain-anxiety-and-fatigue-associated-with-low-vitamin-d"
 aliases:
   - "/Coronary+Artery+Disease+Chest+Pain+Anxiety+and+Fatigue+associated+with+low+vitamin+D+–+Oct+2022"
-  - "/tiki-index.php?page_id=13989"
+  - "/13989"
+tiki_page_id: 13989
 date: 2022-10-07
 categories:
   - "Cardiovascular"

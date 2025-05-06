@@ -3,7 +3,8 @@ title: "Take 50,000 IU of Vitamin D weekly for 2-4 months, then get a test"
 slug: "take-50000-iu-of-vitamin-d-weekly-for-2-4-months-then-get-a-test"
 aliases:
   - "/Take+50000+IU+of+Vitamin+D+weekly+for+2-4+months+then+get+a+test+-+Dec+2021"
-  - "/tiki-index.php?page_id=13268"
+  - "/13268"
+tiki_page_id: 13268
 date: 2022-01-18
 categories:
   - "How much Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D testing and supplementation would improve health – Grant"
 slug: "vitamin-d-testing-and-supplementation-would-improve-health-grant"
 aliases:
   - "/Vitamin+D+testing+and+supplementation+would+improve+health+–+Grant+Jan+2020"
-  - "/tiki-index.php?page_id=14726"
+  - "/14726"
+tiki_page_id: 14726
 date: 2023-10-04
 ---
 

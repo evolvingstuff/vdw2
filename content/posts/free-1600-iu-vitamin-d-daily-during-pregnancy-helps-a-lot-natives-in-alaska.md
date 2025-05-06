@@ -3,7 +3,8 @@ title: "Free 1,600 IU Vitamin D daily during pregnancy helps a lot (natives in A
 slug: "free-1600-iu-vitamin-d-daily-during-pregnancy-helps-a-lot-natives-in-alaska"
 aliases:
   - "/Free+1600+IU+Vitamin+D+daily+during+pregnancy+helps+a+lot+natives+in+Alaska+–+Sept+2022"
-  - "/tiki-index.php?page_id=13930"
+  - "/13930"
+tiki_page_id: 13930
 date: 2022-09-22
 categories:
   - "Pregnancy"

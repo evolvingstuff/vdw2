@@ -3,7 +3,8 @@ title: "The FDA, CDC and most other Western govt. regulators only approve patent
 slug: "the-fda-cdc-and-most-other-western-govt-regulators-only-approve-patented-profita-d-19-treatments"
 aliases:
   - "/The+FDA+CDC+and+most+other+Western+govt+regulators+only+approve+patented+profitable+COVID-19+treatments+-+June+2022"
-  - "/tiki-index.php?page_id=13955"
+  - "/13955"
+tiki_page_id: 13955
 date: 2022-09-29
 categories:
   - "Virus"

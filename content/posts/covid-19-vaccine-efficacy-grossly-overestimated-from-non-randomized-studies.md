@@ -3,7 +3,8 @@ title: "COVID-19 Vaccine Efficacy Grossly Overestimated from Non-Randomized Stud
 slug: "covid-19-vaccine-efficacy-grossly-overestimated-from-non-randomized-studies"
 aliases:
   - "/COVID-19+Vaccine+Efficacy+Grossly+Overestimated+from+Non-Randomized+Studies+-+Mar+2023"
-  - "/tiki-index.php?page_id=14342"
+  - "/14342"
+tiki_page_id: 14342
 date: 2023-03-31
 categories:
   - "Virus"

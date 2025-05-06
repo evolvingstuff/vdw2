@@ -3,7 +3,8 @@ title: "COVID-19 increase much faster in red than blue states"
 slug: "covid-19-increase-much-faster-in-red-than-blue-states"
 aliases:
   - "/COVID-19+increase+much+faster+in+red+than+blue+states+-+July+2021"
-  - "/tiki-index.php?page_id=12781"
+  - "/12781"
+tiki_page_id: 12781
 date: 2021-07-29
 ---
 

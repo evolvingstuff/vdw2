@@ -3,7 +3,8 @@ title: "Low vitamin D associated with COVID-19 problems in NYC hospitals"
 slug: "low-vitamin-d-associated-with-covid-19-problems-in-nyc-hospitals"
 aliases:
   - "/Low+vitamin+D+associated+with+COVID-19+problems+in+NYC+hospitals+–+Feb+2021"
-  - "/tiki-index.php?page_id=12336"
+  - "/12336"
+tiki_page_id: 12336
 date: 2021-02-20
 categories:
   - "Virus"

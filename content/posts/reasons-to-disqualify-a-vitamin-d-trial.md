@@ -3,7 +3,8 @@ title: "Reasons to disqualify a Vitamin D trial"
 slug: "reasons-to-disqualify-a-vitamin-d-trial"
 aliases:
   - "/Reasons+to+disqualify+a+Vitamin+D+trial"
-  - "/tiki-index.php?page_id=10201"
+  - "/10201"
+tiki_page_id: 10201
 date: 2018-11-15
 categories:
   - "Intervention"

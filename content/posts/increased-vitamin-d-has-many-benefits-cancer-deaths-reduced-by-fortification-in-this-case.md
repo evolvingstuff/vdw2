@@ -3,7 +3,8 @@ title: "Increased Vitamin D has many benefits (Cancer deaths reduced by fortific
 slug: "increased-vitamin-d-has-many-benefits-cancer-deaths-reduced-by-fortification-in-this-case"
 aliases:
   - "/Increased+Vitamin+D+has+many+benefits+Cancer+deaths+reduced+by+fortification+in+this+case+–+Nov+2021"
-  - "/tiki-index.php?page_id=13065"
+  - "/13065"
+tiki_page_id: 13065
 date: 2021-11-09
 categories:
   - "Fortification with Vitamin D"

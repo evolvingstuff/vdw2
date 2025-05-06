@@ -3,7 +3,8 @@ title: "Gingivitis (inflammation of the gums) substantially reduced by Vitamin D
 slug: "gingivitis-inflammation-of-the-gums-substantially-reduced-by-vitamin-d-rct"
 aliases:
   - "/Gingivitis+inflammation+of+the+gums+substantially+reduced+by+Vitamin+D+–+RCT+July+2023"
-  - "/tiki-index.php?page_id=14690"
+  - "/14690"
+tiki_page_id: 14690
 date: 2023-09-19
 categories:
   - "Dental"

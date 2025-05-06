@@ -3,7 +3,8 @@ title: "Trivial difference between vaccinated and unvaccinated for cases, hospit
 slug: "trivial-difference-between-vaccinated-and-unvaccinated-for-cases-hospitalizations-and-death"
 aliases:
   - "/Trivial+difference+between+vaccinated+and+unvaccinated+for+cases+hospitalizations+and+death+-+Nov+2022"
-  - "/tiki-index.php?page_id=14073"
+  - "/14073"
+tiki_page_id: 14073
 date: 2022-11-07
 categories:
   - "Virus"

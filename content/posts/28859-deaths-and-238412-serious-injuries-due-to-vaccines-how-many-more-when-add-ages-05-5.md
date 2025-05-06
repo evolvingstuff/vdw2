@@ -3,7 +3,8 @@ title: "28,859 deaths and 238,412 serious injuries due to vaccines, how many mor
 slug: "28859-deaths-and-238412-serious-injuries-due-to-vaccines-how-many-more-when-add-ages-05-5"
 aliases:
   - "/28859+deaths+and+238412+serious+injuries+due+to+vaccines+how+many+more+when+add+ages+05+-+5+–+June+2022"
-  - "/tiki-index.php?page_id=13691"
+  - "/13691"
+tiki_page_id: 13691
 date: 2022-06-21
 categories:
   - "Infant-Child"

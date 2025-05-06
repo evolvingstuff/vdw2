@@ -3,7 +3,8 @@ title: "People with a poor ability to taste bitter were later 10X more likely to
 slug: "people-with-a-poor-ability-to-taste-bitter-were-later-10x-more-likely-to-get-covid-19"
 aliases:
   - "/People+with+a+poor+ability+to+taste+bitter+were+later+10X+more+likely+to+get+COVID-19+-+May+2021"
-  - "/tiki-index.php?page_id=12614"
+  - "/12614"
+tiki_page_id: 12614
 date: 2021-05-29
 categories:
   - "Virus"

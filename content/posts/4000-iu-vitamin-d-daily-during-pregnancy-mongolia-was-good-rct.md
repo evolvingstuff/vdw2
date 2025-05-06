@@ -3,7 +3,8 @@ title: "4,000 IU Vitamin D daily during pregnancy (Mongolia) was good – RCT"
 slug: "4000-iu-vitamin-d-daily-during-pregnancy-mongolia-was-good-rct"
 aliases:
   - "/4000+IU+Vitamin+D+daily+during+pregnancy+Mongolia+was+good+–+RCT+Dec+2018"
-  - "/tiki-index.php?page_id=10314"
+  - "/10314"
+tiki_page_id: 10314
 date: 2018-12-13
 categories:
   - "Pregnancy"

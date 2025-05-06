@@ -3,7 +3,8 @@ title: "People with Osteoarthritis who took a lot of vitamin D had a nice side-e
 slug: "people-with-osteoarthritis-who-took-a-lot-of-vitamin-d-had-a-nice-side-effect-half-the-death-rate"
 aliases:
   - "/People+with+Osteoarthritis+who+took+a+lot+of+vitamin+D+had+a+nice+side-effect+–+half+the+death+rate+–+Sept+2022"
-  - "/tiki-index.php?page_id=13931"
+  - "/13931"
+tiki_page_id: 13931
 date: 2022-09-22
 categories:
   - "Mortality and D"

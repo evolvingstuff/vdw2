@@ -3,7 +3,8 @@ title: "Vitamin D and Aging: Central Role of Immunocompetence – Carlberg"
 slug: "vitamin-d-and-aging-central-role-of-immunocompetence-carlberg"
 aliases:
   - "/Vitamin+D+and+Aging+Central+Role+of+Immunocompetence+–+Carlberg+Jan+2024"
-  - "/tiki-index.php?page_id=15160"
+  - "/15160"
+tiki_page_id: 15160
 date: 2024-03-21
 categories:
   - "Seniors"

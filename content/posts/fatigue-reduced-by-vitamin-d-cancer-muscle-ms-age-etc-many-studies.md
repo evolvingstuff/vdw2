@@ -3,7 +3,8 @@ title: "Fatigue reduced by Vitamin D (Cancer, muscle, MS, age, etc) - many studi
 slug: "fatigue-reduced-by-vitamin-d-cancer-muscle-ms-age-etc-many-studies"
 aliases:
   - "/Fatigue+reduced+by+Vitamin+D+Cancer+muscle+MS+age+etc+-+many+studies"
-  - "/tiki-index.php?page_id=14819"
+  - "/14819"
+tiki_page_id: 14819
 date: 2023-11-11
 ---
 

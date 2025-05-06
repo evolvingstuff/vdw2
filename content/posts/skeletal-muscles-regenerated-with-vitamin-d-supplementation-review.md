@@ -3,7 +3,8 @@ title: "Skeletal Muscles regenerated with Vitamin D supplementation – review"
 slug: "skeletal-muscles-regenerated-with-vitamin-d-supplementation-review"
 aliases:
   - "/Skeletal+Muscles+regenerated+with+Vitamin+D+supplementation+–+review+Oct+2023"
-  - "/tiki-index.php?page_id=14792"
+  - "/14792"
+tiki_page_id: 14792
 date: 2023-10-29
 categories:
   - "Sports and Vitamin D"

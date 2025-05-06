@@ -3,7 +3,8 @@ title: "Long-Haul more prevalent among seniors - June - 2022"
 slug: "long-haul-more-prevalent-among-seniors-june-2022"
 aliases:
   - "/Long-Haul+more+prevalent+among+seniors+-+June+-+2022"
-  - "/tiki-index.php?page_id=13712"
+  - "/13712"
+tiki_page_id: 13712
 date: 2022-06-26
 categories:
   - "Seniors"

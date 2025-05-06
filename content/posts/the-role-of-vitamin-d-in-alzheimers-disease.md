@@ -3,7 +3,8 @@ title: ".The Role of Vitamin D in Alzheimer's disease"
 slug: "the-role-of-vitamin-d-in-alzheimers-disease"
 aliases:
   - "/The+Role+of+Vitamin+D+in+Alzheimers+disease+–+May+2023"
-  - "/tiki-index.php?page_id=14457"
+  - "/14457"
+tiki_page_id: 14457
 date: 2023-05-29
 categories:
   - "Cognitive"

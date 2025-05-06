@@ -3,7 +3,8 @@ title: "Individualized – RCT"
 slug: "individualized-rct"
 aliases:
   - "/Individualized+–+RCT+Nov+2023"
-  - "/tiki-index.php?page_id=14840"
+  - "/14840"
+tiki_page_id: 14840
 date: 2023-11-24
 categories:
   - "Sports and Vitamin D"

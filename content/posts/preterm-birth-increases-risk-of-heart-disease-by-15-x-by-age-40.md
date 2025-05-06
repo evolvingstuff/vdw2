@@ -3,7 +3,8 @@ title: "Preterm birth increases risk of heart disease by 1.5 X by age 40"
 slug: "preterm-birth-increases-risk-of-heart-disease-by-15-x-by-age-40"
 aliases:
   - "/Preterm+birth+increases+risk+of+heart+disease+by+15+X+by+age+40+–+June+2019"
-  - "/tiki-index.php?page_id=11048"
+  - "/11048"
+tiki_page_id: 11048
 date: 2019-08-06
 categories:
   - "Pregnancy"

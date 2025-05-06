@@ -3,7 +3,8 @@ title: "Recurrent RTI treatment success: Conventional 71 pcnt, Vitamin D 96 pcnt
 slug: "recurrent-rti-treatment-success-conventional-71-pcnt-vitamin-d-96-pcnt"
 aliases:
   - "/Recurrent+RTI+treatment+success+Conventional+71+pcnt+Vitamin+D+96+pcnt+–+March+2021"
-  - "/tiki-index.php?page_id=12490"
+  - "/12490"
+tiki_page_id: 12490
 date: 2021-04-12
 categories:
   - "Breathing"

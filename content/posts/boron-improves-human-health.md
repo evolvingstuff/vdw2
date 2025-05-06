@@ -3,7 +3,8 @@ title: "Boron improves Human Health"
 slug: "boron-improves-human-health"
 aliases:
   - "/Boron+improves+Human+Health"
-  - "/tiki-index.php?page_id=15101"
+  - "/15101"
+tiki_page_id: 15101
 date: 2024-03-04
 categories:
   - "Vitamin D and Boron"

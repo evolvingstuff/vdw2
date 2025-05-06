@@ -3,7 +3,8 @@ title: "COVID and CVD deadly pandemics share a risk factor: low vitamin D"
 slug: "covid-and-cvd-deadly-pandemics-share-a-risk-factor-low-vitamin-d"
 aliases:
   - "/COVID+and+CVD+deadly+pandemics+share+a+risk+factor+low+vitamin+D+-+April+2022"
-  - "/tiki-index.php?page_id=13492"
+  - "/13492"
+tiki_page_id: 13492
 date: 2022-04-17
 categories:
   - "Cardiovascular"

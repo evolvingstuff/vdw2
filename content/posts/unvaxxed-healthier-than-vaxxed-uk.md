@@ -3,7 +3,8 @@ title: "Unvaxxed Healthier Than Vaxxed (UK)"
 slug: "unvaxxed-healthier-than-vaxxed-uk"
 aliases:
   - "/Unvaxxed+Healthier+Than+Vaxxed+UK+-+July+2023"
-  - "/tiki-index.php?page_id=14568"
+  - "/14568"
+tiki_page_id: 14568
 date: 2023-07-29
 categories:
   - "Virus"

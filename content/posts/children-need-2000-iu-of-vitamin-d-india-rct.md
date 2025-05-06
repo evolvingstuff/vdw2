@@ -3,7 +3,8 @@ title: "Children need 2000 IU of Vitamin D (India) - RCT"
 slug: "children-need-2000-iu-of-vitamin-d-india-rct"
 aliases:
   - "/Children+need+2000+IU+of+Vitamin+D+India+-+RCT+May+2019"
-  - "/tiki-index.php?page_id=10794"
+  - "/10794"
+tiki_page_id: 10794
 date: 2019-05-19
 categories:
   - "Intervention"

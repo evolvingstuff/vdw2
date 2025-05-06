@@ -3,7 +3,8 @@ title: "18,000 schoolchildren in Canada to be suspended for not being vaccinated
 slug: "18000-schoolchildren-in-canada-to-be-suspended-for-not-being-vaccinated"
 aliases:
   - "/18000+schoolchildren+in+Canada+to+be+suspended+for+not+being+vaccinated+-+Feb+2024"
-  - "/tiki-index.php?page_id=15081"
+  - "/15081"
+tiki_page_id: 15081
 date: 2024-02-27
 categories:
   - "Infant-Child"

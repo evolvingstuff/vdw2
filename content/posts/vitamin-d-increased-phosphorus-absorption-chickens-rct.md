@@ -3,7 +3,8 @@ title: "Vitamin D increased Phosphorus absorption (chickens) – RCT"
 slug: "vitamin-d-increased-phosphorus-absorption-chickens-rct"
 aliases:
   - "/Vitamin+D+increased+Phosphorus+absorption+chickens+–+RCT+Oct+2018"
-  - "/tiki-index.php?page_id=10166"
+  - "/10166"
+tiki_page_id: 10166
 date: 2018-10-30
 categories:
   - "Veterinary and Vitamin D"

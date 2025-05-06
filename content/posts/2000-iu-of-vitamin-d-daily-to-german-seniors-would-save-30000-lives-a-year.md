@@ -3,7 +3,8 @@ title: "2,000 IU of Vitamin D daily to German Seniors would save 30,000 lives a 
 slug: "2000-iu-of-vitamin-d-daily-to-german-seniors-would-save-30000-lives-a-year"
 aliases:
   - "/2000+IU+of+Vitamin+D+daily+to+German+Seniors+would+save+30000+lives+a+year+–+March+2021"
-  - "/tiki-index.php?page_id=12390"
+  - "/12390"
+tiki_page_id: 12390
 date: 2021-03-08
 categories:
   - "Mortality and D"

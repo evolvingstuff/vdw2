@@ -3,7 +3,8 @@ title: "Curing Polio with Magnesium"
 slug: "curing-polio-with-magnesium"
 aliases:
   - "/Curing+Polio+with+Magnesium+-+May+2019"
-  - "/tiki-index.php?page_id=10821"
+  - "/10821"
+tiki_page_id: 10821
 date: 2019-06-02
 categories:
   - "Vitamin D and Magnesium"

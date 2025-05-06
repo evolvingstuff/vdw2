@@ -3,7 +3,8 @@ title: "Problem with vitamin C if high dose Vitamin D for MS and have gene probl
 slug: "problem-with-vitamin-c-if-high-dose-vitamin-d-for-ms-and-have-gene-problem"
 aliases:
   - "/Problem+with+vitamin+C+if+high+dose+Vitamin+D+for+MS+and+have+gene+problem+–+Sept+2018"
-  - "/tiki-index.php?page_id=10011"
+  - "/10011"
+tiki_page_id: 10011
 date: 2018-09-06
 categories:
   - "Multiple Sclerosis"

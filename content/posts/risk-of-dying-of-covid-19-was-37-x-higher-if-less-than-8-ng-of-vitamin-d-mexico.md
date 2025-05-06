@@ -3,7 +3,8 @@ title: "Risk of dying of COVID-19 was 3.7 X higher if less than 8 ng of VItamin 
 slug: "risk-of-dying-of-covid-19-was-37-x-higher-if-less-than-8-ng-of-vitamin-d-mexico"
 aliases:
   - "/Risk+of+dying+of+COVID-19+was+37+X+higher+if+less+than+8+ng+of+VItamin+D+-+Mexico+May+2020"
-  - "/tiki-index.php?page_id=11828"
+  - "/11828"
+tiki_page_id: 11828
 date: 2020-07-06
 categories:
   - "Virus"

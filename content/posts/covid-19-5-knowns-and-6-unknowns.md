@@ -3,7 +3,8 @@ title: "COVID-19: 5 Knowns and 6 Unknowns"
 slug: "covid-19-5-knowns-and-6-unknowns"
 aliases:
   - "/COVID-19+5+Knowns+and+6+Unknowns+–+Aug+15+2021"
-  - "/tiki-index.php?page_id=12841"
+  - "/12841"
+tiki_page_id: 12841
 date: 2021-08-20
 categories:
   - "Virus"

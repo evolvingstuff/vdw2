@@ -3,7 +3,8 @@ title: "Vitamin D fighting COVID-19 meets all Bradford Hill Criteria"
 slug: "vitamin-d-fighting-covid-19-meets-all-bradford-hill-criteria"
 aliases:
   - "/Vitamin+D+fighting+COVID-19+meets+all+Bradford+Hill+Criteria+-+Nov+2020"
-  - "/tiki-index.php?page_id=12050"
+  - "/12050"
+tiki_page_id: 12050
 date: 2020-11-08
 categories:
   - "Top news"

@@ -3,7 +3,8 @@ title: "COVID-19 was the third-leading cause of death in the US, especially in t
 slug: "covid-19-was-the-third-leading-cause-of-death-in-the-us-especially-in-those-with-dark-skins"
 aliases:
   - "/COVID-19+was+the+third-leading+cause+of+death+in+the+US+especially+in+those+with+dark+skins+-+April+1+2021"
-  - "/tiki-index.php?page_id=12464"
+  - "/12464"
+tiki_page_id: 12464
 date: 2021-04-01
 categories:
   - "Skin - Dark"

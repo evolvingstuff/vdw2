@@ -3,7 +3,8 @@ title: "Depression and Anxiety treatment with Vitamin D - probable molecular pat
 slug: "depression-and-anxiety-treatment-with-vitamin-d-probable-molecular-pathways"
 aliases:
   - "/Depression+and+Anxiety+treatment+with+Vitamin+D+-+probable+molecular+pathways+-+June+2022"
-  - "/tiki-index.php?page_id=14165"
+  - "/14165"
+tiki_page_id: 14165
 date: 2022-12-21
 categories:
   - "Depression"

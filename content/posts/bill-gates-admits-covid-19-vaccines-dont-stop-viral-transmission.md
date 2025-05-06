@@ -3,7 +3,8 @@ title: "Bill Gates admits COVID-19 vaccines don't stop viral transmission"
 slug: "bill-gates-admits-covid-19-vaccines-dont-stop-viral-transmission"
 aliases:
   - "/Bill+Gates+admits+COVID-19+vaccines+dont+stop+viral+transmission+-+Nov+5+2021"
-  - "/tiki-index.php?page_id=13082"
+  - "/13082"
+tiki_page_id: 13082
 date: 2021-11-14
 categories:
   - "Virus"

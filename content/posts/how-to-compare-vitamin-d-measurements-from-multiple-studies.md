@@ -3,7 +3,8 @@ title: "How to compare Vitamin D measurements from multiple studies"
 slug: "how-to-compare-vitamin-d-measurements-from-multiple-studies"
 aliases:
   - "/How+to+compare+Vitamin+D+measurements+from+multiple+studies+–+July+2021"
-  - "/tiki-index.php?page_id=12722"
+  - "/12722"
+tiki_page_id: 12722
 date: 2021-07-07
 categories:
   - "Tests for Vitamin D"

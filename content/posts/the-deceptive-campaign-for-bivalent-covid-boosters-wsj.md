@@ -3,7 +3,8 @@ title: "The Deceptive Campaign for Bivalent Covid Boosters - WSJ"
 slug: "the-deceptive-campaign-for-bivalent-covid-boosters-wsj"
 aliases:
   - "/The+Deceptive+Campaign+for+Bivalent+Covid+Boosters+-+WSJ+Jan+2023"
-  - "/tiki-index.php?page_id=14228"
+  - "/14228"
+tiki_page_id: 14228
 date: 2023-01-23
 categories:
   - "Virus"

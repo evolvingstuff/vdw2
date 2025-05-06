@@ -3,7 +3,8 @@ title: "Opioids leading cause of poisoning deaths in young children"
 slug: "opioids-leading-cause-of-poisoning-deaths-in-young-children"
 aliases:
   - "/Opioids+leading+cause+of+poisoning+deaths+in+young+children+-+Oct+2022"
-  - "/tiki-index.php?page_id=14006"
+  - "/14006"
+tiki_page_id: 14006
 date: 2022-10-13
 categories:
   - "Infant-Child"

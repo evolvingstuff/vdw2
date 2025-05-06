@@ -3,7 +3,8 @@ title: "Irish supplements had not been taxed, will soon have 23 percent tax"
 slug: "irish-supplements-had-not-been-taxed-will-soon-have-23-percent-tax"
 aliases:
   - "/Irish+supplements+had+not+been+taxed+will+soon+have+23+percent+tax+–+Feb+2019"
-  - "/tiki-index.php?page_id=10484"
+  - "/10484"
+tiki_page_id: 10484
 date: 2019-02-12
 categories:
   - "Vitamin D in Europe"

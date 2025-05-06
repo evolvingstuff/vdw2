@@ -3,7 +3,8 @@ title: "Black death of 1330 killed 5 million in Wuhan province, and spread to Ir
 slug: "black-death-of-1330-killed-5-million-in-wuhan-province-and-spread-to-iran-italy-europe-etc"
 aliases:
   - "/Black+death+of+1330+killed+5+million+in+Wuhan+province+and+spread+to+Iran+Italy+Europe+etc+–+Feb+2020"
-  - "/tiki-index.php?page_id=11652"
+  - "/11652"
+tiki_page_id: 11652
 date: 2020-02-28
 categories:
   - "Virus"

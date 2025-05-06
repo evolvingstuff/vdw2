@@ -3,7 +3,8 @@ title: "Vitamin D and it’s related genes regulate the immune system"
 slug: "vitamin-d-and-its-related-genes-regulate-the-immune-system"
 aliases:
   - "/Vitamin+D+and+its+related+genes+regulate+the+immune+system+–+Aug+2023"
-  - "/tiki-index.php?page_id=14607"
+  - "/14607"
+tiki_page_id: 14607
 date: 2023-08-13
 categories:
   - "Autoimmune"

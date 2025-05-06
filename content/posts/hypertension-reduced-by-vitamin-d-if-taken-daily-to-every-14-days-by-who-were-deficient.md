@@ -3,7 +3,8 @@ title: "Hypertension reduced by Vitamin D if taken daily to every 14 days by who
 slug: "hypertension-reduced-by-vitamin-d-if-taken-daily-to-every-14-days-by-who-were-deficient"
 aliases:
   - "/Hypertension+reduced+by+Vitamin+D+if+taken+daily+to+every+14+days+by+who+were+deficient+–+June+2022"
-  - "/tiki-index.php?page_id=13703"
+  - "/13703"
+tiki_page_id: 13703
 date: 2022-06-23
 categories:
   - "Hypertension"

@@ -3,7 +3,8 @@ title: "More than 30 ng of vitamin D is needed for many diseases"
 slug: "more-than-30-ng-of-vitamin-d-is-needed-for-many-diseases"
 aliases:
   - "/More+than+30+ng+of+vitamin+D+is+needed+for+many+diseases+-+Feb+2022"
-  - "/tiki-index.php?page_id=13324"
+  - "/13324"
+tiki_page_id: 13324
 date: 2022-02-09
 categories:
   - "Optimum"

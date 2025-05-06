@@ -3,7 +3,8 @@ title: "COPD results in bone loss and osteopenia, Vitamin D should reduce both"
 slug: "copd-results-in-bone-loss-and-osteopenia-vitamin-d-should-reduce-both"
 aliases:
   - "/COPD+results+in+bone+loss+and+osteopenia+Vitamin+D+should+reduce+both+–+May+2019"
-  - "/tiki-index.php?page_id=10778"
+  - "/10778"
+tiki_page_id: 10778
 date: 2019-05-16
 categories:
   - "Breathing"

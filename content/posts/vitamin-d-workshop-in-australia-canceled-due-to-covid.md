@@ -3,7 +3,8 @@ title: "Vitamin D Workshop in Australia - canceled due to COVID"
 slug: "vitamin-d-workshop-in-australia-canceled-due-to-covid"
 aliases:
   - "/Vitamin+D+Workshop+in+Australia+-+canceled+due+to+COVID+-+Aug+2020"
-  - "/tiki-index.php?page_id=11029"
+  - "/11029"
+tiki_page_id: 11029
 date: 2019-07-29
 categories:
   - "Conference"

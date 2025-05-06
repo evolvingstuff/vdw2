@@ -3,7 +3,8 @@ title: "Muscle pain in obese women reduced by aerobic exercise plus 50,000 IU Vi
 slug: "muscle-pain-in-obese-women-reduced-by-aerobic-exercise-plus-50000-iu-vitamin-d-rct"
 aliases:
   - "/Muscle+pain+in+obese+women+reduced+by+aerobic+exercise+plus+50000+IU+Vitamin+D+-+RCT+May+2021"
-  - "/tiki-index.php?page_id=14538"
+  - "/14538"
+tiki_page_id: 14538
 date: 2023-07-15
 categories:
   - "Obesity"

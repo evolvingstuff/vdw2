@@ -3,7 +3,8 @@ title: "Inflammation of small blood vessels in the brain is associated with low 
 slug: "inflammation-of-small-blood-vessels-in-the-brain-is-associated-with-low-vitamin-d"
 aliases:
   - "/Inflammation+of+small+blood+vessels+in+the+brain+is+associated+with+low+vitamin+D+-+April+2023"
-  - "/tiki-index.php?page_id=14354"
+  - "/14354"
+tiki_page_id: 14354
 date: 2023-04-04
 categories:
   - "Cognitive"

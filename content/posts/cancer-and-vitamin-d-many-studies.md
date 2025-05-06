@@ -3,7 +3,8 @@ title: "Cancer and Vitamin D - many studies"
 slug: "cancer-and-vitamin-d-many-studies"
 aliases:
   - "/Cancer+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14041"
+  - "/14041"
+tiki_page_id: 14041
 date: 2022-10-26
 categories:
   - "Cancer"

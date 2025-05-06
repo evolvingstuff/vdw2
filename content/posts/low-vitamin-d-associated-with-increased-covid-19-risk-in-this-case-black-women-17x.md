@@ -3,7 +3,8 @@ title: "Low vitamin D associated with increased COVID-19 risk (in this case blac
 slug: "low-vitamin-d-associated-with-increased-covid-19-risk-in-this-case-black-women-17x"
 aliases:
   - "/Low+vitamin+D+associated+with+increased+COVID-19+risk+in+this+case+black+women+17X+–+July+2021"
-  - "/tiki-index.php?page_id=12776"
+  - "/12776"
+tiki_page_id: 12776
 date: 2021-07-27
 categories:
   - "Skin - Dark"

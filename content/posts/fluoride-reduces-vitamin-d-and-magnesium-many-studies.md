@@ -3,7 +3,8 @@ title: "Fluoride reduces Vitamin D and Magnesium - many studies"
 slug: "fluoride-reduces-vitamin-d-and-magnesium-many-studies"
 aliases:
   - "/Fluoride+reduces+Vitamin+D+and+Magnesium+-+many+studies"
-  - "/tiki-index.php?page_id=14674"
+  - "/14674"
+tiki_page_id: 14674
 date: 2023-09-11
 categories:
   - "Interactions with Vitamin D"

@@ -3,7 +3,8 @@ title: "Grinding teeth while sleeping (sleep bruxism) 6 X more likely if low vit
 slug: "grinding-teeth-while-sleeping-sleep-bruxism-6-x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Grinding+teeth+while+sleeping+sleep+bruxism+6+X+more+likely+if+low+vitamin+D+–+Jan+2021"
-  - "/tiki-index.php?page_id=12208"
+  - "/12208"
+tiki_page_id: 12208
 date: 2021-01-09
 categories:
   - "Dental"

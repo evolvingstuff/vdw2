@@ -3,7 +3,8 @@ title: "Malocclusions 5X higher risk if poor Vitamin D Receptor or low Vitamin D
 slug: "malocclusions-5x-higher-risk-if-poor-vitamin-d-receptor-or-low-vitamin-d"
 aliases:
   - "/Malocclusions+5X+higher+risk+if+poor+Vitamin+D+Receptor+or+low+Vitamin+D+-+Feb+2024"
-  - "/tiki-index.php?page_id=15052"
+  - "/15052"
+tiki_page_id: 15052
 date: 2024-02-14
 categories:
   - "Dental"

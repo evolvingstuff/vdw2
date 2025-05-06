@@ -3,7 +3,8 @@ title: "10,000 IU Vitamin D raised basketball player levels (more than 50 ng nee
 slug: "10000-iu-vitamin-d-raised-basketball-player-levels-more-than-50-ng-need-to-improve-performance"
 aliases:
   - "/10000+IU+Vitamin+D+raised+basketball+player+levels+more+than+50+ng+need+to+improve+performance+–+June+2022"
-  - "/tiki-index.php?page_id=13810"
+  - "/13810"
+tiki_page_id: 13810
 date: 2022-08-01
 categories:
   - "Sports and Vitamin D"

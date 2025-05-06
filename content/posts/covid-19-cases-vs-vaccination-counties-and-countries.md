@@ -3,7 +3,8 @@ title: "COVID-19 cases vs. vaccination (counties and countries)"
 slug: "covid-19-cases-vs-vaccination-counties-and-countries"
 aliases:
   - "/COVID-19+cases+vs+vaccination+counties+and+countries+-+Sept+2021"
-  - "/tiki-index.php?page_id=12951"
+  - "/12951"
+tiki_page_id: 12951
 date: 2021-10-04
 categories:
   - "Virus"

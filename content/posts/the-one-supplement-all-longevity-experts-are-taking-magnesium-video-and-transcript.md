@@ -3,7 +3,8 @@ title: "The ONE Supplement All Longevity Experts Are Taking (Magnesium) - video 
 slug: "the-one-supplement-all-longevity-experts-are-taking-magnesium-video-and-transcript"
 aliases:
   - "/The+ONE+Supplement+All+Longevity+Experts+Are+Taking+Magnesium+-+video+and+transcript+Dec+2023"
-  - "/tiki-index.php?page_id=14859"
+  - "/14859"
+tiki_page_id: 14859
 date: 2023-12-03
 categories:
   - "Books, videos on Vitamin D"

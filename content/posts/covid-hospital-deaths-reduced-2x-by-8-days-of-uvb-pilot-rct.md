@@ -3,7 +3,8 @@ title: "COVID hospital deaths reduced 2X by 8 days of UVB – pilot RCT"
 slug: "covid-hospital-deaths-reduced-2x-by-8-days-of-uvb-pilot-rct"
 aliases:
   - "/COVID+hospital+deaths+reduced+2X+by+8+days+of+UVB+–+pilot+RCT+May+2022"
-  - "/tiki-index.php?page_id=13640"
+  - "/13640"
+tiki_page_id: 13640
 date: 2022-06-05
 categories:
   - "UV and Vitamin D"

@@ -3,7 +3,8 @@ title: "Skin Helath improved by Vitamin D and 12 other supplements"
 slug: "skin-helath-improved-by-vitamin-d-and-12-other-supplements"
 aliases:
   - "/Skin+Helath+improved+by+Vitamin+D+and+12+other+supplements+-+Jan+2024"
-  - "/tiki-index.php?page_id=14998"
+  - "/14998"
+tiki_page_id: 14998
 date: 2024-01-24
 categories:
   - "Skin"

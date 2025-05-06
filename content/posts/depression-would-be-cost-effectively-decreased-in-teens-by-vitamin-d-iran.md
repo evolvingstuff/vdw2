@@ -3,7 +3,8 @@ title: "Depression would be cost-effectively decreased in teens by Vitamin D (Ir
 slug: "depression-would-be-cost-effectively-decreased-in-teens-by-vitamin-d-iran"
 aliases:
   - "/Depression+would+be+cost-effectively+decreased+in+teens+by+Vitamin+D+Iran+–+July+2023"
-  - "/tiki-index.php?page_id=14550"
+  - "/14550"
+tiki_page_id: 14550
 date: 2023-07-21
 categories:
   - "Depression"

@@ -3,7 +3,8 @@ title: "Hay fever decreases productivity, Vitamin D can help - many studies"
 slug: "hay-fever-decreases-productivity-vitamin-d-can-help-many-studies"
 aliases:
   - "/Hay+fever+decreases+productivity+Vitamin+D+can+help+-+many+studies"
-  - "/tiki-index.php?page_id=11040"
+  - "/11040"
+tiki_page_id: 11040
 date: 2019-08-02
 categories:
   - "Breathing"

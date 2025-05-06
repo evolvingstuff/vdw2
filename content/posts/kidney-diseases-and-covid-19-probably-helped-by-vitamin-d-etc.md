@@ -3,7 +3,8 @@ title: "Kidney diseases and COVID-19 – probably helped by Vitamin D etc."
 slug: "kidney-diseases-and-covid-19-probably-helped-by-vitamin-d-etc"
 aliases:
   - "/Kidney+diseases+and+COVID-19+–+probably+helped+by+Vitamin+D+etc+–+Jan+19+2021"
-  - "/tiki-index.php?page_id=12303"
+  - "/12303"
+tiki_page_id: 12303
 date: 2021-02-05
 categories:
   - "Kidney"

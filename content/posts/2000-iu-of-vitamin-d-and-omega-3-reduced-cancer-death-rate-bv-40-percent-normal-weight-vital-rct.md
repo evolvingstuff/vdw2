@@ -3,7 +3,8 @@ title: "2,000 IU of vitamin D and Omega-3 reduced Cancer death rate bv 40% (norm
 slug: "2000-iu-of-vitamin-d-and-omega-3-reduced-cancer-death-rate-bv-40-percent-normal-weight-vital-rct"
 aliases:
   - "/2000+IU+of+vitamin+D+and+Omega-3+reduced+Cancer+death+rate+bv+40+normal+weight+–+VITAL+RCT+Nov+2020"
-  - "/tiki-index.php?page_id=12107"
+  - "/12107"
+tiki_page_id: 12107
 date: 2020-12-02
 categories:
   - "Cancer"

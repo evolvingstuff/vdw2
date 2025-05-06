@@ -3,7 +3,8 @@ title: "Test link with underscore"
 slug: "test-link-with-underscore"
 aliases:
   - "/Test+link+with+underscore"
-  - "/tiki-index.php?page_id=10244"
+  - "/10244"
+tiki_page_id: 10244
 date: 2018-11-28
 categories:
   - "Admin Only"

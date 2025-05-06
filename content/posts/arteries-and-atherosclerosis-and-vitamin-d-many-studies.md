@@ -3,7 +3,8 @@ title: "Arteries and Atherosclerosis and Vitamin D - many studies"
 slug: "arteries-and-atherosclerosis-and-vitamin-d-many-studies"
 aliases:
   - "/Arteries+and+Atherosclerosis+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14509"
+  - "/14509"
+tiki_page_id: 14509
 date: 2023-07-03
 categories:
   - "Cardiovascular"

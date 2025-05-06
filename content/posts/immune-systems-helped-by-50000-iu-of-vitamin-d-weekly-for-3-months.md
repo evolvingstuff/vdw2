@@ -3,7 +3,8 @@ title: "Immune systems helped by 50,000 IU of vitamin D (weekly for 3 months)"
 slug: "immune-systems-helped-by-50000-iu-of-vitamin-d-weekly-for-3-months"
 aliases:
   - "/Immune+systems+helped+by+50000+IU+of+vitamin+D+weekly+for+3+months+–+May+2021"
-  - "/tiki-index.php?page_id=12631"
+  - "/12631"
+tiki_page_id: 12631
 date: 2021-06-03
 categories:
   - "Immunity"

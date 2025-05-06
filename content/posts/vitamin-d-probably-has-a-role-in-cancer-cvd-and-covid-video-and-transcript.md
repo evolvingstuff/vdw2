@@ -3,7 +3,8 @@ title: "Vitamin D probably has a Role in Cancer, CVD, and COVID - video and tran
 slug: "vitamin-d-probably-has-a-role-in-cancer-cvd-and-covid-video-and-transcript"
 aliases:
   - "/Vitamin+D+probably+has+a+Role+in+Cancer+CVD+and+COVID+-+video+and+transcript+Dec+1+2021"
-  - "/tiki-index.php?page_id=13133"
+  - "/13133"
+tiki_page_id: 13133
 date: 2021-12-02
 categories:
   - "Cardiovascular"

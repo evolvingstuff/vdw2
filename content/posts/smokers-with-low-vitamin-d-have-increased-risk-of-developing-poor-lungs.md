@@ -3,7 +3,8 @@ title: "Smokers with low vitamin D have increased risk of developing poor lungs"
 slug: "smokers-with-low-vitamin-d-have-increased-risk-of-developing-poor-lungs"
 aliases:
   - "/Smokers+with+low+vitamin+D+have+increased+risk+of+developing+poor+lungs+–+June+2021"
-  - "/tiki-index.php?page_id=12569"
+  - "/12569"
+tiki_page_id: 12569
 date: 2021-05-07
 ---
 

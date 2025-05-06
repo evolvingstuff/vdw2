@@ -3,7 +3,8 @@ title: "Vitamin D being used by sports teams to avoid injuries and improve perfo
 slug: "vitamin-d-being-used-by-sports-teams-to-avoid-injuries-and-improve-performance-wsj"
 aliases:
   - "/Vitamin+D+being+used+by+sports+teams+to+avoid+injuries+and+improve+performance+–+WSJ+Jan+2016"
-  - "/tiki-index.php?page_id=10930"
+  - "/10930"
+tiki_page_id: 10930
 date: 2019-06-28
 categories:
   - "Sports and Vitamin D"

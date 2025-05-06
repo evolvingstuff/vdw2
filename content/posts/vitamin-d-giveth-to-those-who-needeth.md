@@ -3,7 +3,8 @@ title: "Vitamin D: Giveth to Those Who Needeth"
 slug: "vitamin-d-giveth-to-those-who-needeth"
 aliases:
   - "/Vitamin+D+Giveth+to+Those+Who+Needeth+–+Jan+2020"
-  - "/tiki-index.php?page_id=11579"
+  - "/11579"
+tiki_page_id: 11579
 date: 2020-01-21
 categories:
   - "Deficiency of Vitamin D"

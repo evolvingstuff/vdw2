@@ -3,7 +3,8 @@ title: "CYP2R1 gene reduces response to Vitamin D - many studies"
 slug: "cyp2r1-gene-reduces-response-to-vitamin-d-many-studies"
 aliases:
   - "/CYP2R1+gene+reduces+response+to+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14254"
+  - "/14254"
+tiki_page_id: 14254
 date: 2023-02-10
 categories:
   - "Genetics"

@@ -3,7 +3,8 @@ title: "Vitamin D entries in Wikipedia"
 slug: "vitamin-d-entries-in-wikipedia"
 aliases:
   - "/Vitamin+D+entries+in+Wikipedia+-+March+2021"
-  - "/tiki-index.php?page_id=12364"
+  - "/12364"
+tiki_page_id: 12364
 date: 2021-03-01
 ---
 

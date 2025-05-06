@@ -3,7 +3,8 @@ title: "Inflammation is reduced by each of the following: Vitamin D, Omega-3, Di
 slug: "inflammation-is-reduced-by-each-of-the-following-vitamin-d-omega-3-diet"
 aliases:
   - "/Inflammation+is+reduced+by+each+of+the+following+Vitamin+D+Omega-3+Diet"
-  - "/tiki-index.php?page_id=10944"
+  - "/10944"
+tiki_page_id: 10944
 date: 2019-07-01
 categories:
   - "Vitamin D and Omega-3"

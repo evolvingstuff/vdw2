@@ -3,7 +3,8 @@ title: "Children with IBD are treated with Vitamin D (Australia and NZ)"
 slug: "children-with-ibd-are-treated-with-vitamin-d-australia-and-nz"
 aliases:
   - "/Children+with+IBD+are+treated+with+Vitamin+D+Australia+and+NZ+–+March+2024"
-  - "/tiki-index.php?page_id=15106"
+  - "/15106"
+tiki_page_id: 15106
 date: 2024-03-06
 categories:
   - "Gut"

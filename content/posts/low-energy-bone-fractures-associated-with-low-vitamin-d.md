@@ -3,7 +3,8 @@ title: "Low energy bone fractures associated with low vitamin D"
 slug: "low-energy-bone-fractures-associated-with-low-vitamin-d"
 aliases:
   - "/Low+energy+bone+fractures+associated+with+low+vitamin+D+–+Dec+2022"
-  - "/tiki-index.php?page_id=14169"
+  - "/14169"
+tiki_page_id: 14169
 date: 2022-12-25
 categories:
   - "Infant-Child"

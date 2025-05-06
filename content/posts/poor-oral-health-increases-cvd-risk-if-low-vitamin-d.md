@@ -3,7 +3,8 @@ title: "Poor oral health increases CVD risk if low Vitamin D"
 slug: "poor-oral-health-increases-cvd-risk-if-low-vitamin-d"
 aliases:
   - "/Poor+oral+health+increases+CVD+risk+if+low+Vitamin+D+–+June+2023"
-  - "/tiki-index.php?page_id=14471"
+  - "/14471"
+tiki_page_id: 14471
 date: 2023-06-05
 categories:
   - "Cardiovascular"

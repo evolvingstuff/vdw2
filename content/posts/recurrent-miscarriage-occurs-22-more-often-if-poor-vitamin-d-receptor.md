@@ -3,7 +3,8 @@ title: "Recurrent miscarriage occurs 2.2 more often if poor Vitamin D Receptor"
 slug: "recurrent-miscarriage-occurs-22-more-often-if-poor-vitamin-d-receptor"
 aliases:
   - "/Recurrent+miscarriage+occurs+22+more+often+if+poor+Vitamin+D+Receptor+–+Aug+2019"
-  - "/tiki-index.php?page_id=11118"
+  - "/11118"
+tiki_page_id: 11118
 date: 2019-09-02
 categories:
   - "Pregnancy"

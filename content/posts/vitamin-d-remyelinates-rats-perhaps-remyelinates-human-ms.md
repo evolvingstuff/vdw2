@@ -3,7 +3,8 @@ title: "Vitamin D remyelinates rats (perhaps remyelinates human MS)"
 slug: "vitamin-d-remyelinates-rats-perhaps-remyelinates-human-ms"
 aliases:
   - "/Vitamin+D+remyelinates+rats+perhaps+remyelinates+human+MS+–+Dec+2019"
-  - "/tiki-index.php?page_id=11454"
+  - "/11454"
+tiki_page_id: 11454
 date: 2019-12-15
 categories:
   - "Multiple Sclerosis"

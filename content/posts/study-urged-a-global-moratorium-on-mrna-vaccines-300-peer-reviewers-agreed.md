@@ -3,7 +3,8 @@ title: "Study urged a global moratorium on mRNA vaccines (300 peer reviewers agr
 slug: "study-urged-a-global-moratorium-on-mrna-vaccines-300-peer-reviewers-agreed"
 aliases:
   - "/Study+urged+a+global+moratorium+on+mRNA+vaccines+300+peer+reviewers+agreed+–+Jan+2024"
-  - "/tiki-index.php?page_id=15057"
+  - "/15057"
+tiki_page_id: 15057
 date: 2024-02-16
 categories:
   - "Virus"

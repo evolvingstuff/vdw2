@@ -3,7 +3,8 @@ title: "Boys who were born Small for Gestational age are 1.9X more likely to be 
 slug: "boys-who-were-born-small-for-gestational-age-are-19x-more-likely-to-be-infertile"
 aliases:
   - "/Boys+who+were+born+Small+for+Gestational+age+are+19X+more+likely+to+be+infertile+–+Dec+2019"
-  - "/tiki-index.php?page_id=11478"
+  - "/11478"
+tiki_page_id: 11478
 date: 2019-12-19
 categories:
   - "Pregnancy"

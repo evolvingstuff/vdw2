@@ -3,7 +3,8 @@ title: "Vitamin D treats Gestational Diabetes, decreases hospitalization and new
 slug: "vitamin-d-treats-gestational-diabetes-decreases-hospitalization-and-newborn-comp-s-meta-analysis"
 aliases:
   - "/Vitamin+D+treats+Gestational+Diabetes+decreases+hospitalization+and+newborn+complications+–+meta-analysis+March+2019"
-  - "/tiki-index.php?page_id=10605"
+  - "/10605"
+tiki_page_id: 10605
 date: 2019-03-23
 categories:
   - "Pregnancy"

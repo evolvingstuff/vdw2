@@ -3,7 +3,8 @@ title: "Breast Cancer risk factor is a virus in dairy products"
 slug: "breast-cancer-risk-factor-is-a-virus-in-dairy-products"
 aliases:
   - "/Breast+Cancer+risk+factor+is+a+virus+in+dairy+products+-+March+2022"
-  - "/tiki-index.php?page_id=13375"
+  - "/13375"
+tiki_page_id: 13375
 date: 2022-03-07
 categories:
   - "Cancer - Breast"

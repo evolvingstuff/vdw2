@@ -3,7 +3,8 @@ title: "T2 Diabetes is also fought by Vitamin K2 – several studies"
 slug: "t2-diabetes-is-also-fought-by-vitamin-k2-several-studies"
 aliases:
   - "/T2+Diabetes+is+also+fought+by+Vitamin+K2+–+several+studies"
-  - "/tiki-index.php?page_id=14862"
+  - "/14862"
+tiki_page_id: 14862
 date: 2023-12-05
 categories:
   - "Diabetes"

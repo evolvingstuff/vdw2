@@ -3,7 +3,8 @@ title: "Vitamin D testers have different test results if there is chronic kidney
 slug: "vitamin-d-testers-have-different-test-results-if-there-is-chronic-kidney-disease"
 aliases:
   - "/Vitamin+D+testers+have+different+test+results+if+there+is+chronic+kidney+disease+–+Sept+2019"
-  - "/tiki-index.php?page_id=11411"
+  - "/11411"
+tiki_page_id: 11411
 date: 2019-12-02
 categories:
   - "Kidney"

@@ -3,7 +3,8 @@ title: "14 cancers increasing - obsolete page"
 slug: "14-cancers-increasing-obsolete-page"
 aliases:
   - "/14+cancers+increasing+-+obsolete+page"
-  - "/tiki-index.php?page_id=13983"
+  - "/13983"
+tiki_page_id: 13983
 date: 2022-10-05
 ---
 

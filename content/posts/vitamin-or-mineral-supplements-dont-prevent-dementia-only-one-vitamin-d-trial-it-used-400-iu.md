@@ -3,7 +3,8 @@ title: "Vitamin or Mineral Supplements Don’t Prevent Dementia (only one Vitami
 slug: "vitamin-or-mineral-supplements-dont-prevent-dementia-only-one-vitamin-d-trial-it-used-400-iu"
 aliases:
   - "/Vitamin+or+Mineral+Supplements+Dont+Prevent+Dementia+only+one+Vitamin+D+trial+it+used+400+IU+–+Feb+2019"
-  - "/tiki-index.php?page_id=10463"
+  - "/10463"
+tiki_page_id: 10463
 date: 2019-02-04
 categories:
   - "Seniors"

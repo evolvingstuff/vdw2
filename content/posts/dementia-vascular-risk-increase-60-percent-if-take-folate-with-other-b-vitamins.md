@@ -3,7 +3,8 @@ title: "Dementia (vascular) risk increase 60% if take Folate with other B vitami
 slug: "dementia-vascular-risk-increase-60-percent-if-take-folate-with-other-b-vitamins"
 aliases:
   - "/Dementia+vascular+risk+increase+60+if+take+Folate+with+other+B+vitamins+-+Dec+2023"
-  - "/tiki-index.php?page_id=14873"
+  - "/14873"
+tiki_page_id: 14873
 date: 2023-12-08
 categories:
   - "Cognitive"

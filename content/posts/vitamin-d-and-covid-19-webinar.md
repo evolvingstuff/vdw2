@@ -3,7 +3,8 @@ title: "Vitamin D and COVID-19 webinar"
 slug: "vitamin-d-and-covid-19-webinar"
 aliases:
   - "/Vitamin+D+and+COVID-19+webinar+-+Feb+24+2021"
-  - "/tiki-index.php?page_id=12372"
+  - "/12372"
+tiki_page_id: 12372
 date: 2021-03-03
 categories:
   - "Books, videos on Vitamin D"

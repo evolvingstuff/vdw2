@@ -3,7 +3,8 @@ title: "Out-of-Pocket health care costs and employer Health Insurance - 2017"
 slug: "out-of-pocket-health-care-costs-and-employer-health-insurance-2017"
 aliases:
   - "/Out-of-Pocket+health+care+costs+and+employer+Health+Insurance+-+2017"
-  - "/tiki-index.php?page_id=10075"
+  - "/10075"
+tiki_page_id: 10075
 date: 2018-09-27
 categories:
   - "Cost savings with Vitamin D"

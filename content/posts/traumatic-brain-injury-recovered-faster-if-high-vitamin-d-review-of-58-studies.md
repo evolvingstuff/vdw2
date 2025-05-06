@@ -3,7 +3,8 @@ title: "Traumatic Brain Injury recovered faster if high vitamin D (review of 58 
 slug: "traumatic-brain-injury-recovered-faster-if-high-vitamin-d-review-of-58-studies"
 aliases:
   - "/Traumatic+Brain+Injury+recovered+faster+if+high+vitamin+D+review+of+58+studies+–+April+2021"
-  - "/tiki-index.php?page_id=12560"
+  - "/12560"
+tiki_page_id: 12560
 date: 2021-05-04
 categories:
   - "Trauma and surgery"

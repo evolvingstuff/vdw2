@@ -3,7 +3,8 @@ title: "Autism risk reduced 2X by prenatal vitamins (Vitamin D or Folic)"
 slug: "autism-risk-reduced-2x-by-prenatal-vitamins-vitamin-d-or-folic"
 aliases:
   - "/Autism+risk+reduced+2X+by+prenatal+vitamins+Vitamin+D+or+Folic+–+Feb+2019"
-  - "/tiki-index.php?page_id=10531"
+  - "/10531"
+tiki_page_id: 10531
 date: 2019-02-28
 categories:
   - "Pregnancy"

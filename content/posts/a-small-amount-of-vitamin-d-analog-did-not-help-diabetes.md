@@ -3,7 +3,8 @@ title: "A small amount of Vitamin D analog did not help diabetes"
 slug: "a-small-amount-of-vitamin-d-analog-did-not-help-diabetes"
 aliases:
   - "/A+small+amount+of+Vitamin+D+analog+did+not+help+diabetes+-+May+2022"
-  - "/tiki-index.php?page_id=13595"
+  - "/13595"
+tiki_page_id: 13595
 date: 2022-05-26
 categories:
   - "Diabetes"

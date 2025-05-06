@@ -3,7 +3,8 @@ title: "Extreme Heat Events increase congenital heart defects (perhaps low vitam
 slug: "extreme-heat-events-increase-congenital-heart-defects-perhaps-low-vitamin-d"
 aliases:
   - "/Extreme+Heat+Events+increase+congenital+heart+defects+perhaps+low+vitamin+D+-+Jan+2019"
-  - "/tiki-index.php?page_id=10448"
+  - "/10448"
+tiki_page_id: 10448
 date: 2019-02-01
 categories:
   - "Cardiovascular"

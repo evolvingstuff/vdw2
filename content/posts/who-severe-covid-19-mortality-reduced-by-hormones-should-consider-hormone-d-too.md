@@ -3,7 +3,8 @@ title: "WHO – Severe COVID-19 mortality reduced by hormones (should consider h
 slug: "who-severe-covid-19-mortality-reduced-by-hormones-should-consider-hormone-d-too"
 aliases:
   - "/WHO+–+Severe+COVID-19+mortality+reduced+by+hormones+should+consider+hormone+D+too+-+Sept+2020"
-  - "/tiki-index.php?page_id=11935"
+  - "/11935"
+tiki_page_id: 11935
 date: 2020-09-03
 categories:
   - "Virus"

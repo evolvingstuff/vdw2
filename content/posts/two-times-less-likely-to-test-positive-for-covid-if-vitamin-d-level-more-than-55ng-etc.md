@@ -3,7 +3,8 @@ title: "Two times less likely to test positive for COVID if vitamin D level more
 slug: "two-times-less-likely-to-test-positive-for-covid-if-vitamin-d-level-more-than-55ng-etc"
 aliases:
   - "/Two+times+less+likely+to+test+positive+for+COVID+if+vitamin+D+level+more+than+55ng+etc+–+Dec+31+2021"
-  - "/tiki-index.php?page_id=13233"
+  - "/13233"
+tiki_page_id: 13233
 date: 2021-12-31
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Trump counties are 3X more likely die of COVID than Biden counties (vacc
 slug: "trump-counties-are-3x-more-likely-die-of-covid-than-biden-counties-vaccination-mask"
 aliases:
   - "/Trump+counties+are+3X+more+likely+die+of+COVID+than+Biden+counties+vaccination+mask+-+Nov+2021"
-  - "/tiki-index.php?page_id=13067"
+  - "/13067"
+tiki_page_id: 13067
 date: 2021-11-09
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "COVID ARDS deaths 2X more likely if less than 10 ng of Vitamin D"
 slug: "covid-ards-deaths-2x-more-likely-if-less-than-10-ng-of-vitamin-d"
 aliases:
   - "/COVID+ARDS+deaths+2X+more+likely+if+less+than+10+ng+of+Vitamin+D+–+Aug+8+2020"
-  - "/tiki-index.php?page_id=11901"
+  - "/11901"
+tiki_page_id: 11901
 date: 2020-08-10
 categories:
   - "Breathing"

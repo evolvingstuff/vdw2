@@ -3,7 +3,8 @@ title: "Red meat consumption increases risk of Diabetes - many studies"
 slug: "red-meat-consumption-increases-risk-of-diabetes-many-studies"
 aliases:
   - "/Red+meat+consumption+increases+risk+of+Diabetes+-+many+studies"
-  - "/tiki-index.php?page_id=14001"
+  - "/14001"
+tiki_page_id: 14001
 date: 2022-10-09
 categories:
   - "Diabetes"

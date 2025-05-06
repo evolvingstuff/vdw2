@@ -3,7 +3,8 @@ title: "36% of Multiple Sclerosis patients got worse after mild to severe COVID"
 slug: "36-percent-of-multiple-sclerosis-patients-got-worse-after-mild-to-severe-covid"
 aliases:
   - "/36+of+Multiple+Sclerosis+patients+got+worse+after+mild+to+severe+COVID–+June+2022"
-  - "/tiki-index.php?page_id=13679"
+  - "/13679"
+tiki_page_id: 13679
 date: 2022-06-17
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "Nutrient consumption – only 7% of recommended DRV of Vitamin D (German
 slug: "nutrient-consumption-only-7-percent-of-recommended-drv-of-vitamin-d-german-children-in-this-case"
 aliases:
   - "/Nutrient+consumption+–+only+7+of+recommended+DRV+of+Vitamin+D+German+Children+in+this+case+–+Jan+2024"
-  - "/tiki-index.php?page_id=15036"
+  - "/15036"
+tiki_page_id: 15036
 date: 2024-02-07
 categories:
   - "Deficiency of Vitamin D"

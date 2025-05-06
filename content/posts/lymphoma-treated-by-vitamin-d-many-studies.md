@@ -3,7 +3,8 @@ title: "Lymphoma treated by Vitamin D - many studies"
 slug: "lymphoma-treated-by-vitamin-d-many-studies"
 aliases:
   - "/Lymphoma+treated+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14874"
+  - "/14874"
+tiki_page_id: 14874
 date: 2023-12-08
 categories:
   - "Cancer - Lymphoma"

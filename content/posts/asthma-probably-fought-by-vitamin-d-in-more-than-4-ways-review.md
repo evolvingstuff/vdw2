@@ -3,7 +3,8 @@ title: "Asthma probably fought by Vitamin D in more than 4 ways – review"
 slug: "asthma-probably-fought-by-vitamin-d-in-more-than-4-ways-review"
 aliases:
   - "/Asthma+probably+fought+by+Vitamin+D+in+more+than+4+ways+–+review+May+2023"
-  - "/tiki-index.php?page_id=14483"
+  - "/14483"
+tiki_page_id: 14483
 date: 2023-06-13
 categories:
   - "Breathing"

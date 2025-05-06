@@ -3,7 +3,8 @@ title: "Micronutrients for COVID-19: Vitamin D, Vitamin C, Melatonin, Zinc, Se, 
 slug: "micronutrients-for-covid-19-vitamin-d-vitamin-c-melatonin-zinc-se-etc"
 aliases:
   - "/Micronutrients+for+COVID-19+Vitamin+D+Vitamin+C+Melatonin+Zinc+Se+etc+-+Dec+2020"
-  - "/tiki-index.php?page_id=12165"
+  - "/12165"
+tiki_page_id: 12165
 date: 2020-12-21
 categories:
   - "Virus"

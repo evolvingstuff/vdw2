@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency in South America - meta-analysis"
 slug: "vitamin-d-deficiency-in-south-america-meta-analysis"
 aliases:
   - "/Vitamin+D+Deficiency+in+South+America+-+meta-analysis+March+2023"
-  - "/tiki-index.php?page_id=14305"
+  - "/14305"
+tiki_page_id: 14305
 date: 2023-03-08
 categories:
   - "Deficiency of Vitamin D"

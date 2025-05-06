@@ -3,7 +3,8 @@ title: "Longevity and healthspan increased by Vitamin D - many studies"
 slug: "longevity-and-healthspan-increased-by-vitamin-d-many-studies"
 aliases:
   - "/Longevity+and+healthspan+increased+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14099"
+  - "/14099"
+tiki_page_id: 14099
 date: 2022-11-20
 categories:
   - "Seniors"

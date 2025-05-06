@@ -3,7 +3,8 @@ title: "Early puberty during pandemic (low vitamin D) - several studies"
 slug: "early-puberty-during-pandemic-low-vitamin-d-several-studies"
 aliases:
   - "/Early+puberty+during+pandemic+low+vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=13928"
+  - "/13928"
+tiki_page_id: 13928
 date: 2022-09-20
 categories:
   - "Infant-Child"

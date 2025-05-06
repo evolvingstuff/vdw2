@@ -3,7 +3,8 @@ title: "COVID-19 treated by Vitamin D (example: ICU reduced by 5X) – 20th meta
 slug: "covid-19-treated-by-vitamin-d-example-icu-reduced-by-5x-20th-meta-analysis"
 aliases:
   - "/COVID-19+treated+by+Vitamin+D+example+ICU+reduced+by+5X+–+20th+meta-analysis+Oct+13+2021"
-  - "/tiki-index.php?page_id=12979"
+  - "/12979"
+tiki_page_id: 12979
 date: 2021-10-13
 categories:
   - "Meta-analysis of Vitamin D"

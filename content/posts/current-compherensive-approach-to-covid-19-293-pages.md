@@ -3,7 +3,8 @@ title: "Current Compherensive Approach to COVID-19 (293 pages)"
 slug: "current-compherensive-approach-to-covid-19-293-pages"
 aliases:
   - "/Current+Compherensive+Approach+to+COVID-19+293+pages+-+July+2022"
-  - "/tiki-index.php?page_id=13801"
+  - "/13801"
+tiki_page_id: 13801
 date: 2022-07-27
 categories:
   - "Books, videos on Vitamin D"

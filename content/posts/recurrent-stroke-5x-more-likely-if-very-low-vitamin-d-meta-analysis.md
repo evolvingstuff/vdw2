@@ -3,7 +3,8 @@ title: "Recurrent Stroke 5X more-likely if very low vitamin D - meta-analysis"
 slug: "recurrent-stroke-5x-more-likely-if-very-low-vitamin-d-meta-analysis"
 aliases:
   - "/Recurrent+Stroke+5X+more-likely+if+very+low+vitamin+D+-+meta-analysis+Feb+2023"
-  - "/tiki-index.php?page_id=14259"
+  - "/14259"
+tiki_page_id: 14259
 date: 2023-02-11
 categories:
   - "Meta-analysis of Vitamin D"

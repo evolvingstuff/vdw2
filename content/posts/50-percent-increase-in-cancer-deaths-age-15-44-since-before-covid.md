@@ -3,7 +3,8 @@ title: "50% increase in Cancer deaths (age 15-44) since before COVID"
 slug: "50-percent-increase-in-cancer-deaths-age-15-44-since-before-covid"
 aliases:
   - "/50+increase+in+Cancer+deaths+age+15-44+since+before+COVID+-+Nov+2023"
-  - "/tiki-index.php?page_id=14828"
+  - "/14828"
+tiki_page_id: 14828
 date: 2023-11-21
 categories:
   - "Virus"

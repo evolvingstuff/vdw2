@@ -3,7 +3,8 @@ title: "FAQ for Large Vitamin D Trial"
 slug: "faq-for-large-vitamin-d-trial"
 aliases:
   - "/FAQ+for+Large+Vitamin+D+Trial"
-  - "/tiki-index.php?page_id=14190"
+  - "/14190"
+tiki_page_id: 14190
 date: 2023-01-04
 categories:
   - "Admin Only"

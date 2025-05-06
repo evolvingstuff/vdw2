@@ -3,7 +3,8 @@ title: "Hypertension reduced by Magnesium plus 3,000 IU of vitamin D for 12 week
 slug: "hypertension-reduced-by-magnesium-plus-3000-iu-of-vitamin-d-for-12-weeks-rct"
 aliases:
   - "/Hypertension+reduced+by+Magnesium+plus+3000+IU+of+vitamin+D+for+12+weeks+–+RCT+July+2022"
-  - "/tiki-index.php?page_id=13668"
+  - "/13668"
+tiki_page_id: 13668
 date: 2022-06-12
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Cardiovascular disease 2.3 X more-likely if poor Vitamin D Receptor"
 slug: "cardiovascular-disease-23-x-more-likely-if-poor-vitamin-d-receptor"
 aliases:
   - "/Cardiovascular+disease+23+X+more-likely+if+poor+Vitamin+D+Receptor+–+Aug+2022"
-  - "/tiki-index.php?page_id=13824"
+  - "/13824"
+tiki_page_id: 13824
 date: 2022-08-04
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "COVID vaccination increases risk of senior sudden hearing loss by 2X"
 slug: "covid-vaccination-increases-risk-of-senior-sudden-hearing-loss-by-2x"
 aliases:
   - "/COVID+vaccination+increases+risk+of+senior+sudden+hearing+loss+by+2X+-+Dec+2022"
-  - "/tiki-index.php?page_id=14162"
+  - "/14162"
+tiki_page_id: 14162
 date: 2022-12-20
 categories:
   - "Seniors"

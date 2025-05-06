@@ -3,7 +3,8 @@ title: "COVID infection (without hospitalization) – 1.7X more likely to die in
 slug: "covid-infection-without-hospitalization-17x-more-likely-to-die-in-6-months-if-low-vitamin-d"
 aliases:
   - "/COVID+infection+without+hospitalization+–+17X+more+likely+to+die+in+6+months+if+low+Vitamin+D+–+March+2024"
-  - "/tiki-index.php?page_id=15087"
+  - "/15087"
+tiki_page_id: 15087
 date: 2024-02-29
 categories:
   - "Mortality and D"

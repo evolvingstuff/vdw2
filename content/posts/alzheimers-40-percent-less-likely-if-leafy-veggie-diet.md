@@ -3,7 +3,8 @@ title: "Alzheimer's 40 percent less likely if leafy veggie diet"
 slug: "alzheimers-40-percent-less-likely-if-leafy-veggie-diet"
 aliases:
   - "/Alzheimers+40+percent+less+likely+if+leafy+veggie+diet+-+March+2023"
-  - "/tiki-index.php?page_id=14313"
+  - "/14313"
+tiki_page_id: 14313
 date: 2023-03-17
 categories:
   - "Cognitive"

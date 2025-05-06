@@ -3,7 +3,8 @@ title: "Evolution and Vitamin D, Omega-3, obesity, mito. DNA, etc."
 slug: "evolution-and-vitamin-d-omega-3-obesity-mito-dna-etc"
 aliases:
   - "/Evolution+and+Vitamin+D+Omega-3+obesity+mito+DNA+etc+–+Feb+2019"
-  - "/tiki-index.php?page_id=10501"
+  - "/10501"
+tiki_page_id: 10501
 date: 2019-02-19
 ---
 

@@ -3,7 +3,8 @@ title: "CDC funded study: 1.3 X Asthma risk if vaccination contained aluminum"
 slug: "cdc-funded-study-13-x-asthma-risk-if-vaccination-contained-aluminum"
 aliases:
   - "/CDC+funded+study+13+X+Asthma+risk+if+vaccination+contained+aluminum+–+Sept+2022"
-  - "/tiki-index.php?page_id=13951"
+  - "/13951"
+tiki_page_id: 13951
 date: 2022-09-28
 categories:
   - "Autism"

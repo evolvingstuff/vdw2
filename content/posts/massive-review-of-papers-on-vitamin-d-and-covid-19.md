@@ -3,7 +3,8 @@ title: "Massive Review of papers on Vitamin D and COVID-19"
 slug: "massive-review-of-papers-on-vitamin-d-and-covid-19"
 aliases:
   - "/Massive+Review+of+papers+on+Vitamin+D+and+COVID-19+-+July+3+2020"
-  - "/tiki-index.php?page_id=11850"
+  - "/11850"
+tiki_page_id: 11850
 date: 2020-07-17
 categories:
   - "Top news"

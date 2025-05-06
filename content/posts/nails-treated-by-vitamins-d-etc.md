@@ -3,7 +3,8 @@ title: "Nails treated by Vitamins (D etc.)"
 slug: "nails-treated-by-vitamins-d-etc"
 aliases:
   - "/Nails+treated+by+Vitamins+D+etc+-+Nov+2023"
-  - "/tiki-index.php?page_id=15190"
+  - "/15190"
+tiki_page_id: 15190
 date: 2024-04-04
 categories:
   - "Skin"

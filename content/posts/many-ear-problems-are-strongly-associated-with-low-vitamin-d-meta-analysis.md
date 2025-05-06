@@ -3,7 +3,8 @@ title: "Many ear problems are strongly associated with low vitamin D – meta-an
 slug: "many-ear-problems-are-strongly-associated-with-low-vitamin-d-meta-analysis"
 aliases:
   - "/Many+ear+problems+are+strongly+associated+with+low+vitamin+D+–+meta-analysis+Feb+2022"
-  - "/tiki-index.php?page_id=13991"
+  - "/13991"
+tiki_page_id: 13991
 date: 2022-10-07
 categories:
   - "Infant-Child"

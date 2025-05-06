@@ -3,7 +3,8 @@ title: "Cancers reduced by Vitamin D (Skin cancer in this review)"
 slug: "cancers-reduced-by-vitamin-d-skin-cancer-in-this-review"
 aliases:
   - "/Cancers+reduced+by+Vitamin+D+Skin+cancer+in+this+review+–+Dec+2022"
-  - "/tiki-index.php?page_id=14172"
+  - "/14172"
+tiki_page_id: 14172
 date: 2022-12-27
 categories:
   - "Cancer - Skin"

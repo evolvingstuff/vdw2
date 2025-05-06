@@ -3,7 +3,8 @@ title: "BPA is a possible cause of obesity epidemic - Dr. Greger"
 slug: "bpa-is-a-possible-cause-of-obesity-epidemic-dr-greger"
 aliases:
   - "/BPA+is+a+possible+cause+of+obesity+epidemic+-+Dr+Greger+June+2019"
-  - "/tiki-index.php?page_id=10897"
+  - "/10897"
+tiki_page_id: 10897
 date: 2019-06-18
 categories:
   - "Obesity"

@@ -3,7 +3,8 @@ title: "Longevity expert (Sinclair) supplements include Vitamin D, Vitamin K, an
 slug: "longevity-expert-sinclair-supplements-include-vitamin-d-vitamin-k-and-resveratrol"
 aliases:
   - "/Longevity+expert+Sinclair+supplements+include+Vitamin+D+Vitamin+K+and+Resveratrol+–+Sept+2019"
-  - "/tiki-index.php?page_id=11183"
+  - "/11183"
+tiki_page_id: 11183
 date: 2019-09-30
 categories:
   - "Mortality and D"

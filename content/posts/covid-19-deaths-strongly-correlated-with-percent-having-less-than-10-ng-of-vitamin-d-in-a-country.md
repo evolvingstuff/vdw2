@@ -3,7 +3,8 @@ title: "COVID-19 deaths strongly correlated with percent having less than 10 ng 
 slug: "covid-19-deaths-strongly-correlated-with-percent-having-less-than-10-ng-of-vitamin-d-in-a-country"
 aliases:
   - "/COVID-19+deaths+strongly+correlated+with+percent+having+less+than+10+ng+of+Vitamin+D+in+a+country–+July+1+2020"
-  - "/tiki-index.php?page_id=11823"
+  - "/11823"
+tiki_page_id: 11823
 date: 2020-07-01
 categories:
   - "Virus"

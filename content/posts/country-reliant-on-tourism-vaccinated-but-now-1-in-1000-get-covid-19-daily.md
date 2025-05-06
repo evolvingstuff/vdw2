@@ -3,7 +3,8 @@ title: "Country reliant on tourism vaccinated, but now 1 in 1,000 get COVID-19 d
 slug: "country-reliant-on-tourism-vaccinated-but-now-1-in-1000-get-covid-19-daily"
 aliases:
   - "/Country+reliant+on+tourism+vaccinated+but+now+1+in+1000+get+COVID-19+daily+-+May+2021"
-  - "/tiki-index.php?page_id=12574"
+  - "/12574"
+tiki_page_id: 12574
 date: 2021-05-08
 categories:
   - "Virus"

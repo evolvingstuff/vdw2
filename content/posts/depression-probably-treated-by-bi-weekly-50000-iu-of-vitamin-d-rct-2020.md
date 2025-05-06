@@ -3,7 +3,8 @@ title: "Depression probably treated by bi-weekly 50,000 IU of vitamin D - RCT 20
 slug: "depression-probably-treated-by-bi-weekly-50000-iu-of-vitamin-d-rct-2020"
 aliases:
   - "/Depression+probably+treated+by+bi-weekly+50000+IU+of+vitamin+D+-+RCT+2020"
-  - "/tiki-index.php?page_id=10270"
+  - "/10270"
+tiki_page_id: 10270
 date: 2018-12-05
 categories:
   - "Depression"

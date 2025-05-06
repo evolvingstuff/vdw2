@@ -3,7 +3,8 @@ title: "Psoriasis treatment often needs more than 100 ng of Vitamin D (oral, top
 slug: "psoriasis-treatment-often-needs-more-than-100-ng-of-vitamin-d-oral-topical-or-uv--and-discussion"
 aliases:
   - "/Psoriasis+treatment+often+needs+more+than+100+ng+of+Vitamin+D+oral+topical+or+UVB+–+review+and+discussion+April+2021"
-  - "/tiki-index.php?page_id=14493"
+  - "/14493"
+tiki_page_id: 14493
 date: 2023-06-23
 categories:
   - "Psoriasis"

@@ -3,7 +3,8 @@ title: "AI: Exciting opportunity for Vitamin D Researchers"
 slug: "ai-exciting-opportunity-for-vitamin-d-researchers"
 aliases:
   - "/AI+Exciting+opportunity+for+Vitamin+D+Researchers"
-  - "/tiki-index.php?page_id=10562"
+  - "/10562"
+tiki_page_id: 10562
 date: 2019-03-11
 categories:
   - "Predict Vitamin D"

@@ -3,7 +3,8 @@ title: "COVID treatment patent applied for - using Rutin, Vitamin D, Vitamin C, 
 slug: "covid-treatment-patent-applied-for-using-rutin-vitamin-d-vitamin-c-magnesium-etc"
 aliases:
   - "/COVID+treatment+patent+applied+for+-+using+Rutin+Vitamin+D+Vitamin+C+Magnesium+etc+–+April+2022"
-  - "/tiki-index.php?page_id=13533"
+  - "/13533"
+tiki_page_id: 13533
 date: 2022-04-30
 categories:
   - "Vitamin D and Calcium"

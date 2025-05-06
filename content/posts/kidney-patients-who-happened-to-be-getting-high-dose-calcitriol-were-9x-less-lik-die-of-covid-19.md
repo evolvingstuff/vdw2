@@ -3,7 +3,8 @@ title: "Kidney patients who happened to be getting high-dose Calcitriol were 9X 
 slug: "kidney-patients-who-happened-to-be-getting-high-dose-calcitriol-were-9x-less-lik-die-of-covid-19"
 aliases:
   - "/Kidney+patients+who+happened+to+be+getting+high-dose+Calcitriol+were+9X+less+likely+to+die+of+COVID-19+-+April+6+2021"
-  - "/tiki-index.php?page_id=12491"
+  - "/12491"
+tiki_page_id: 12491
 date: 2021-04-12
 categories:
   - "Kidney"

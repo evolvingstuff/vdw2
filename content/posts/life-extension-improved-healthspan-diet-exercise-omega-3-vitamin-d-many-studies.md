@@ -3,7 +3,8 @@ title: "Life-extension, improved healthspan: Diet, Exercise, Omega-3, Vitamin D 
 slug: "life-extension-improved-healthspan-diet-exercise-omega-3-vitamin-d-many-studies"
 aliases:
   - "/Life-extension+improved+healthspan+Diet+Exercise+Omega-3+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14876"
+  - "/14876"
+tiki_page_id: 14876
 date: 2023-12-09
 ---
 

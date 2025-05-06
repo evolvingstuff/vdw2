@@ -3,7 +3,8 @@ title: "Mechanisms of Autoimmunity – video and transcript – Beltran"
 slug: "mechanisms-of-autoimmunity-video-and-transcript-beltran"
 aliases:
   - "/Mechanisms+of+Autoimmunity+–+video+and+transcript+–+Beltran+Nov+2022"
-  - "/tiki-index.php?page_id=14183"
+  - "/14183"
+tiki_page_id: 14183
 date: 2023-01-01
 categories:
   - "Books, videos on Vitamin D"

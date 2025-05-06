@@ -3,7 +3,8 @@ title: "Dengue viral production decreased 1000X if activate Vitamin D Receptor (
 slug: "dengue-viral-production-decreased-1000x-if-activate-vitamin-d-receptor-in-lab"
 aliases:
   - "/Dengue+viral+production+decreased+1000X+if+activate+Vitamin+D+Receptor+in+lab+–+July+2020"
-  - "/tiki-index.php?page_id=11826"
+  - "/11826"
+tiki_page_id: 11826
 date: 2020-07-04
 categories:
   - "Vitamin D Receptor"

@@ -3,7 +3,8 @@ title: "Chicken bones, eggs, and activated vitamin D in eggs increased with 2 ho
 slug: "chicken-bones-eggs-and-activated-vitamin-d-in-eggs-increased-with-2-hours-of-daily-uvb"
 aliases:
   - "/Chicken+bones+eggs+and+activated+vitamin+D+in+eggs+increased+with+2+hours+of+daily+UVB+–+Dec+2019"
-  - "/tiki-index.php?page_id=11486"
+  - "/11486"
+tiki_page_id: 11486
 date: 2019-12-22
 categories:
   - "Veterinary and Vitamin D"

@@ -3,7 +3,8 @@ title: "Metabolic Syndrome and Vitamin D - review of 33 studies"
 slug: "metabolic-syndrome-and-vitamin-d-review-of-33-studies"
 aliases:
   - "/Metabolic+Syndrome+and+Vitamin+D+-+review+of+33+studies+-+March+2021"
-  - "/tiki-index.php?page_id=12370"
+  - "/12370"
+tiki_page_id: 12370
 date: 2021-03-03
 categories:
   - "Metabolic Syndrome"

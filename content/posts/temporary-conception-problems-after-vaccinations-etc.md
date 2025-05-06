@@ -3,7 +3,8 @@ title: "Temporary conception problems after vaccinations, etc."
 slug: "temporary-conception-problems-after-vaccinations-etc"
 aliases:
   - "/Temporary+conception+problems+after+vaccinations+etc+-+July+2022"
-  - "/tiki-index.php?page_id=13733"
+  - "/13733"
+tiki_page_id: 13733
 date: 2022-07-06
 categories:
   - "Pregnancy"

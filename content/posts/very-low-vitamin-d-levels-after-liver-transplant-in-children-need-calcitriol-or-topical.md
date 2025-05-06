@@ -3,7 +3,8 @@ title: "Very low Vitamin D levels after Liver transplant in children (need Calci
 slug: "very-low-vitamin-d-levels-after-liver-transplant-in-children-need-calcitriol-or-topical"
 aliases:
   - "/Very+low+Vitamin+D+levels+after+Liver+transplant+in+children+need+Calcitriol+or+topical+–+May+2021"
-  - "/tiki-index.php?page_id=12630"
+  - "/12630"
+tiki_page_id: 12630
 date: 2021-06-03
 categories:
   - "Liver"

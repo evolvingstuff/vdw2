@@ -3,7 +3,8 @@ title: "Endocrine Disrupting Chemicals - book"
 slug: "endocrine-disrupting-chemicals-book"
 aliases:
   - "/Endocrine+Disrupting+Chemicals+-+book+April+2019"
-  - "/tiki-index.php?page_id=10638"
+  - "/10638"
+tiki_page_id: 10638
 date: 2019-04-01
 categories:
   - "Interactions with Vitamin D"

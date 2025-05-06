@@ -3,7 +3,8 @@ title: "Vaccinated children had more chronic diseases"
 slug: "vaccinated-children-had-more-chronic-diseases"
 aliases:
   - "/Vaccinated+children+had+more+chronic+diseases+-+Sept+2018"
-  - "/tiki-index.php?page_id=10006"
+  - "/10006"
+tiki_page_id: 10006
 date: 2018-09-06
 categories:
   - "Autism"

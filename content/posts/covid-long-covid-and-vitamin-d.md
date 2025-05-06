@@ -3,7 +3,8 @@ title: "COVID, Long COVID, and Vitamin D"
 slug: "covid-long-covid-and-vitamin-d"
 aliases:
   - "/COVID+Long+COVID+and+Vitamin+D+–+May+2023"
-  - "/tiki-index.php?page_id=14411"
+  - "/14411"
+tiki_page_id: 14411
 date: 2023-05-06
 categories:
   - "Virus"

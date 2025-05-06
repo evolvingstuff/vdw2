@@ -3,7 +3,8 @@ title: "Vitamin D – to supplement or not to supplement - comment on Lancet art
 slug: "vitamin-d-to-supplement-or-not-to-supplement-comment-on-lancet-article"
 aliases:
   - "/Vitamin+D+–+to+supplement+or+not+to+supplement+-+comment+on+Lancet+article+-+Oct+2018"
-  - "/tiki-index.php?page_id=10110"
+  - "/10110"
+tiki_page_id: 10110
 date: 2018-10-11
 ---
 

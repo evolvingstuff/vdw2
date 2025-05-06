@@ -3,7 +3,8 @@ title: "Estradiol, vitamin D, Omega-3 – RCT"
 slug: "estradiol-vitamin-d-omega-3-rct"
 aliases:
   - "/Estradiol+vitamin+D+Omega-3+–+RCT+Feb+2019"
-  - "/tiki-index.php?page_id=10464"
+  - "/10464"
+tiki_page_id: 10464
 date: 2019-02-04
 categories:
   - "Women"

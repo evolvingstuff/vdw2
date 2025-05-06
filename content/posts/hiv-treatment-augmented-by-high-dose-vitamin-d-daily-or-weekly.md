@@ -3,7 +3,8 @@ title: "HIV treatment augmented by high-dose vitamin D, daily or weekly"
 slug: "hiv-treatment-augmented-by-high-dose-vitamin-d-daily-or-weekly"
 aliases:
   - "/HIV+treatment+augmented+by+high-dose+vitamin+D+daily+or+weekly+–+Dec+2021"
-  - "/tiki-index.php?page_id=13299"
+  - "/13299"
+tiki_page_id: 13299
 date: 2022-01-30
 categories:
   - "Intervention"

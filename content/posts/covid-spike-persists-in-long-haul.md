@@ -3,7 +3,8 @@ title: "COVID Spike persists in Long Haul"
 slug: "covid-spike-persists-in-long-haul"
 aliases:
   - "/COVID+Spike+persists+in+Long+Haul+-+June+2022"
-  - "/tiki-index.php?page_id=13684"
+  - "/13684"
+tiki_page_id: 13684
 date: 2022-06-18
 categories:
   - "Virus"

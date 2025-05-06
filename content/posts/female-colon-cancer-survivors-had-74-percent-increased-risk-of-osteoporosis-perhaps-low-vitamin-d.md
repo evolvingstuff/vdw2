@@ -3,7 +3,8 @@ title: "Female Colon Cancer survivors had 74 percent increased risk of osteoporo
 slug: "female-colon-cancer-survivors-had-74-percent-increased-risk-of-osteoporosis-perhaps-low-vitamin-d"
 aliases:
   - "/Female+Colon+Cancer+survivors+had+74+percent+increased+risk+of+osteoporosis+perhaps+low+vitamin+D+–+July+2019"
-  - "/tiki-index.php?page_id=11023"
+  - "/11023"
+tiki_page_id: 11023
 date: 2019-07-29
 categories:
   - "Cancer - Colon"

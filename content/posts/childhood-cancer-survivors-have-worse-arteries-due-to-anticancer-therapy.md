@@ -3,7 +3,8 @@ title: "Childhood Cancer Survivors have worse arteries due to anticancer therapy
 slug: "childhood-cancer-survivors-have-worse-arteries-due-to-anticancer-therapy"
 aliases:
   - "/Childhood+Cancer+Survivors+have+worse+arteries+due+to+anticancer+therapy+–+May+2023"
-  - "/tiki-index.php?page_id=14460"
+  - "/14460"
+tiki_page_id: 14460
 date: 2023-05-30
 categories:
   - "Cardiovascular"

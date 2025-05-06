@@ -3,7 +3,8 @@ title: "Cancers reduced after 2 years of 2000 IU Vitamin D daily (2nd RCT) – R
 slug: "cancers-reduced-after-2-years-of-2000-iu-vitamin-d-daily-2nd-rct-rct-aug"
 aliases:
   - "/Cancers+reduced+after+2+years+of+2000+IU+Vitamin+D+daily+2nd+RCT+–+RCT+Aug"
-  - "/tiki-index.php?page_id=14808"
+  - "/14808"
+tiki_page_id: 14808
 date: 2023-11-03
 categories:
   - "Cancer"

@@ -3,7 +3,8 @@ title: "Chance of moderately severe COVID 3X less likely if plant-based diet"
 slug: "chance-of-moderately-severe-covid-3x-less-likely-if-plant-based-diet"
 aliases:
   - "/Chance+of+moderately+severe+COVID+3X+less+likely+if+plant-based+diet+–+April+2021"
-  - "/tiki-index.php?page_id=14421"
+  - "/14421"
+tiki_page_id: 14421
 date: 2023-05-11
 categories:
   - "Virus"

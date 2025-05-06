@@ -3,7 +3,8 @@ title: "Intensive Care (ICU) helped by Vitamin D – review of past and on-going
 slug: "intensive-care-icu-helped-by-vitamin-d-review-of-past-and-on-going-studies"
 aliases:
   - "/Intensive+Care+ICU+helped+by+Vitamin+D+–+review+of+past+and+on-going+studies+–+Dec+2018"
-  - "/tiki-index.php?page_id=10877"
+  - "/10877"
+tiki_page_id: 10877
 date: 2019-06-14
 categories:
   - "Trauma and surgery"

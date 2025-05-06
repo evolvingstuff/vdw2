@@ -3,7 +3,8 @@ title: "Vitamin D Myths - OTHER"
 slug: "vitamin-d-myths-other"
 aliases:
   - "/Vitamin+D+Myths+-+OTHER"
-  - "/tiki-index.php?page_id=10793"
+  - "/10793"
+tiki_page_id: 10793
 date: 2019-05-18
 categories:
   - "Food sources for Vitamin D"

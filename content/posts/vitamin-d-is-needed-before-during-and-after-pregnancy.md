@@ -3,7 +3,8 @@ title: "Vitamin D is needed before, during and after Pregnancy"
 slug: "vitamin-d-is-needed-before-during-and-after-pregnancy"
 aliases:
   - "/Vitamin+D+is+needed+before+during+and+after+Pregnancy+–+May+2022"
-  - "/tiki-index.php?page_id=13535"
+  - "/13535"
+tiki_page_id: 13535
 date: 2022-05-01
 categories:
   - "Pregnancy"

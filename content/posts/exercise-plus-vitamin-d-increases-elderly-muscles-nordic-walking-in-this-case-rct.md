@@ -3,7 +3,8 @@ title: "Exercise plus vitamin D increases elderly muscles (Nordic walking in thi
 slug: "exercise-plus-vitamin-d-increases-elderly-muscles-nordic-walking-in-this-case-rct"
 aliases:
   - "/Exercise+plus+vitamin+D+increases+elderly+muscles+Nordic+walking+in+this+case+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10035"
+  - "/10035"
+tiki_page_id: 10035
 date: 2018-09-13
 categories:
   - "Seniors"

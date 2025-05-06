@@ -3,7 +3,8 @@ title: "Better survival of many cancers if higher level of vitamin D"
 slug: "better-survival-of-many-cancers-if-higher-level-of-vitamin-d"
 aliases:
   - "/Better+survival+of+many+cancers+if+higher+level+of+vitamin+D+-+June+2020"
-  - "/tiki-index.php?page_id=14932"
+  - "/14932"
+tiki_page_id: 14932
 date: 2023-12-29
 categories:
   - "Cancer - after diagnosis"

@@ -3,7 +3,8 @@ title: "Obese children have poor vitamin D genes (CYP27A1, CYP2R1, CYP27B1)"
 slug: "obese-children-have-poor-vitamin-d-genes-cyp27a1-cyp2r1-cyp27b1"
 aliases:
   - "/Obese+children+have+poor+vitamin+D+genes+CYP27A1+CYP2R1+CYP27B1+–+March+2024"
-  - "/tiki-index.php?page_id=15181"
+  - "/15181"
+tiki_page_id: 15181
 date: 2024-03-31
 categories:
   - "Obesity"

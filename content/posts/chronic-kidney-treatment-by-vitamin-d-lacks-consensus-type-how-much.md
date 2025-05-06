@@ -3,7 +3,8 @@ title: "Chronic kidney treatment by Vitamin D lacks consensus: type, how much"
 slug: "chronic-kidney-treatment-by-vitamin-d-lacks-consensus-type-how-much"
 aliases:
   - "/Chronic+kidney+treatment+by+Vitamin+D+lacks+consensus+type+how+much+–+Sept+2018"
-  - "/tiki-index.php?page_id=10088"
+  - "/10088"
+tiki_page_id: 10088
 date: 2018-10-03
 categories:
   - "Kidney"

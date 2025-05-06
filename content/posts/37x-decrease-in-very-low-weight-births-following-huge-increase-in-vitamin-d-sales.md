@@ -3,7 +3,8 @@ title: "3.7X decrease in Very Low Weight Births (following huge increase in Vita
 slug: "37x-decrease-in-very-low-weight-births-following-huge-increase-in-vitamin-d-sales"
 aliases:
   - "/37X+decrease+in+Very+Low+Weight+Births+following+huge+increase+in+Vitamin+D+sales+-+June+2020"
-  - "/tiki-index.php?page_id=11795"
+  - "/11795"
+tiki_page_id: 11795
 date: 2020-06-07
 categories:
   - "Pregnancy"

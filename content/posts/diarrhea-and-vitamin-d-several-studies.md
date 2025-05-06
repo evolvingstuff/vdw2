@@ -3,7 +3,8 @@ title: "Diarrhea and Vitamin D - several studies"
 slug: "diarrhea-and-vitamin-d-several-studies"
 aliases:
   - "/Diarrhea+and+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=15061"
+  - "/15061"
+tiki_page_id: 15061
 date: 2024-02-18
 categories:
   - "Gut"

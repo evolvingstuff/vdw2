@@ -3,7 +3,8 @@ title: "Stem cell transplant (HSCT). death 28 percent less likely for each 10ng 
 slug: "stem-cell-transplant-hsct-death-28-percent-less-likely-for-each-10ng-higher-vitamin-d-level"
 aliases:
   - "/Stem+cell+transplant+HSCT+death+28+percent+less+likely+for+each+10ng+higher+vitamin+D+level+–+Oct+2019"
-  - "/tiki-index.php?page_id=11264"
+  - "/11264"
+tiki_page_id: 11264
 date: 2019-10-23
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Calcifediol (semi-activated vitamin D, generally by prescription)"
 slug: "calcifediol-semi-activated-vitamin-d-generally-by-prescription"
 aliases:
   - "/Calcifediol+semi-activated+vitamin+D+generally+by+prescription+–+Oct+2023"
-  - "/tiki-index.php?page_id=14768"
+  - "/14768"
+tiki_page_id: 14768
 date: 2023-10-20
 categories:
   - "Calcidiol"

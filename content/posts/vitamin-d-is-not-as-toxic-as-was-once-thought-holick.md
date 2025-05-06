@@ -3,7 +3,8 @@ title: "Vitamin D Is Not as Toxic as Was Once Thought – Holick"
 slug: "vitamin-d-is-not-as-toxic-as-was-once-thought-holick"
 aliases:
   - "/Vitamin+D+Is+Not+as+Toxic+as+Was+Once+Thought+–+Holick+May+2015"
-  - "/tiki-index.php?page_id=12422"
+  - "/12422"
+tiki_page_id: 12422
 date: 2021-03-20
 categories:
   - "Toxicity of Vitamin D"

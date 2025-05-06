@@ -3,7 +3,8 @@ title: "40 cents of Vitamin D given once during pregnancy reduced respiratory pr
 slug: "40-cents-of-vitamin-d-given-once-during-pregnancy-reduced-respiratory-problems-by-3-percent"
 aliases:
   - "/40+cents+of+Vitamin+D+given+once+during+pregnancy+reduced+respiratory+problems+by+3+–+May+2023"
-  - "/tiki-index.php?page_id=15085"
+  - "/15085"
+tiki_page_id: 15085
 date: 2024-02-28
 categories:
   - "Breathing"

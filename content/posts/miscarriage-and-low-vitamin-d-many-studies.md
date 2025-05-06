@@ -3,7 +3,8 @@ title: "Miscarriage and low Vitamin D – many studies"
 slug: "miscarriage-and-low-vitamin-d-many-studies"
 aliases:
   - "/Miscarriage+and+low+Vitamin+D+–+many+studies"
-  - "/tiki-index.php?page_id=13211"
+  - "/13211"
+tiki_page_id: 13211
 date: 2021-12-24
 categories:
   - "Pregnancy"

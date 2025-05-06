@@ -3,7 +3,8 @@ title: "Warning - mass vaccinations typically create mutations that are vaccine 
 slug: "warning-mass-vaccinations-typically-create-mutations-that-are-vaccine-resistant"
 aliases:
   - "/Warning+-+mass+vaccinations+typically+create+mutations+that+are+vaccine+resistant+-+July+29+2021"
-  - "/tiki-index.php?page_id=12792"
+  - "/12792"
+tiki_page_id: 12792
 date: 2021-07-31
 categories:
   - "Top news"

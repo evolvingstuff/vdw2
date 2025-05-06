@@ -3,7 +3,8 @@ title: "A poor infographic of Vitamin D for children"
 slug: "a-poor-infographic-of-vitamin-d-for-children"
 aliases:
   - "/A+poor+infographic+of+Vitamin+D+for+children+–+Sept+2021"
-  - "/tiki-index.php?page_id=12888"
+  - "/12888"
+tiki_page_id: 12888
 date: 2021-09-09
 categories:
   - "Infant-Child"

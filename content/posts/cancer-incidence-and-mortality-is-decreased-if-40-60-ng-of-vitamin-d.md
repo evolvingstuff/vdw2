@@ -3,7 +3,8 @@ title: "Cancer incidence and mortality is decreased if 40-60 ng of Vitamin D"
 slug: "cancer-incidence-and-mortality-is-decreased-if-40-60-ng-of-vitamin-d"
 aliases:
   - "/Cancer+incidence+and+mortality+is+decreased+if+40-60+ng+of+Vitamin+D+–+April+2019"
-  - "/tiki-index.php?page_id=10736"
+  - "/10736"
+tiki_page_id: 10736
 date: 2019-05-06
 categories:
   - "Mortality and D"

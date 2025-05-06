@@ -3,7 +3,8 @@ title: "Off Topic: Xylitol reduces cavities, preterm births, osteoporosis, RTI, 
 slug: "off-topic-xylitol-reduces-cavities-preterm-births-osteoporosis-rti-obesity-diabe-several-studies"
 aliases:
   - "/Off+Topic+Xylitol+reduces+cavities+preterm+births+osteoporosis+RTI+obesity+diabetes+etc+-+several+studies"
-  - "/tiki-index.php?page_id=14938"
+  - "/14938"
+tiki_page_id: 14938
 date: 2024-01-01
 categories:
   - "Dental"

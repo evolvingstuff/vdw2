@@ -3,7 +3,8 @@ title: "Parkinson's Disease 25 percent more likely if air pollution (likely lowe
 slug: "parkinsons-disease-25-percent-more-likely-if-air-pollution-likely-lower-vitamin-d"
 aliases:
   - "/Parkinsons+Disease+25+percent+more+likely+if+air+pollution+likely+lower+Vitamin+D+-+April+2023"
-  - "/tiki-index.php?page_id=14374"
+  - "/14374"
+tiki_page_id: 14374
 date: 2023-04-11
 categories:
   - "Parkinson"

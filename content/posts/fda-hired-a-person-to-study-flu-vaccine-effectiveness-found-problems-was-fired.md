@@ -3,7 +3,8 @@ title: "FDA hired a person to study flu vaccine effectiveness, found problems, w
 slug: "fda-hired-a-person-to-study-flu-vaccine-effectiveness-found-problems-was-fired"
 aliases:
   - "/FDA+hired+a+person+to+study+flu+vaccine+effectiveness+found+problems+was+fired"
-  - "/tiki-index.php?page_id=14775"
+  - "/14775"
+tiki_page_id: 14775
 date: 2023-10-23
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Benefits of Omega-3s - video and transcript - Patrick"
 slug: "benefits-of-omega-3s-video-and-transcript-patrick"
 aliases:
   - "/Benefits+of+Omega-3s+-+video+and+transcript+-+Patrick+-+Nov+2023"
-  - "/tiki-index.php?page_id=14845"
+  - "/14845"
+tiki_page_id: 14845
 date: 2023-11-27
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Infants getting an additional 800 IU of vitamin D for 2 years had 60% fe
 slug: "infants-getting-an-additional-800-iu-of-vitamin-d-for-2-years-had-60-percent-few-ms-at-age-7-rct"
 aliases:
   - "/Infants+getting+an+additional+800+IU+of+vitamin+D+for+2+years+had+60+fewer+psychiatric+symptoms+at+age+7+–+RCT+May+2023"
-  - "/tiki-index.php?page_id=14434"
+  - "/14434"
+tiki_page_id: 14434
 date: 2023-05-19
 categories:
   - "Depression"

@@ -3,7 +3,8 @@ title: "Calcitriol (activated Vitamin D) increases dementia (however, regular D 
 slug: "calcitriol-activated-vitamin-d-increases-dementia-however-regular-d-decreases-it"
 aliases:
   - "/Calcitriol+activated+Vitamin+D+increases+dementia+however+regular+D+decreases+it+–+June+2022"
-  - "/tiki-index.php?page_id=13753"
+  - "/13753"
+tiki_page_id: 13753
 date: 2022-07-13
 categories:
   - "Cognitive"

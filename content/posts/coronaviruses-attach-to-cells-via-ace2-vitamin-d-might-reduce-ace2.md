@@ -3,7 +3,8 @@ title: "Coronaviruses attach to cells via ACE2, Vitamin D might reduce ACE2"
 slug: "coronaviruses-attach-to-cells-via-ace2-vitamin-d-might-reduce-ace2"
 aliases:
   - "/Coronaviruses+attach+to+cells+via+ACE2+Vitamin+D+might+reduce+ACE2"
-  - "/tiki-index.php?page_id=11609"
+  - "/11609"
+tiki_page_id: 11609
 date: 2020-02-04
 categories:
   - "Virus"

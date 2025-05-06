@@ -3,7 +3,8 @@ title: "Doctors are incentivised to prescribe medicines, not improve health"
 slug: "doctors-are-incentivised-to-prescribe-medicines-not-improve-health"
 aliases:
   - "/Doctors+are+incentivised+to+prescribe+medicines+not+improve+health+-+Oct+2023"
-  - "/tiki-index.php?page_id=14760"
+  - "/14760"
+tiki_page_id: 14760
 date: 2023-10-17
 categories:
   - "Health"

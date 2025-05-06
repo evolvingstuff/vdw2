@@ -3,7 +3,8 @@ title: "Diabetic Neuropathy 2.8X higher risk if low vitamin D – meta-analysis"
 slug: "diabetic-neuropathy-28x-higher-risk-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Diabetic+Neuropathy+28X+higher+risk+if+low+vitamin+D+–+meta-analysis+May+2021"
-  - "/tiki-index.php?page_id=12601"
+  - "/12601"
+tiki_page_id: 12601
 date: 2021-05-24
 categories:
   - "Diabetes"

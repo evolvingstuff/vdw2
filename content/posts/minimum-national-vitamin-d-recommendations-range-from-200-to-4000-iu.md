@@ -3,7 +3,8 @@ title: "Minimum National Vitamin D recommendations range from 200 to 4,000 IU"
 slug: "minimum-national-vitamin-d-recommendations-range-from-200-to-4000-iu"
 aliases:
   - "/Minimum+National+Vitamin+D+recommendations+range+from+200+to+4000+IU+–+July+2021"
-  - "/tiki-index.php?page_id=12741"
+  - "/12741"
+tiki_page_id: 12741
 date: 2021-07-15
 categories:
   - "Consensus"

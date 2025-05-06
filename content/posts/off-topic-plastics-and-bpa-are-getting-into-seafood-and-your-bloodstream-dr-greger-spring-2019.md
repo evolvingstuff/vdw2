@@ -3,7 +3,8 @@ title: "Off topic: Plastics and BPA are getting into seafood and your bloodstrea
 slug: "off-topic-plastics-and-bpa-are-getting-into-seafood-and-your-bloodstream-dr-greger-spring-2019"
 aliases:
   - "/Off+topic+Plastics+and+BPA+are+getting+into+seafood+and+your+bloodstream+–+Dr+Greger+Spring+2019"
-  - "/tiki-index.php?page_id=10688"
+  - "/10688"
+tiki_page_id: 10688
 date: 2019-04-24
 categories:
   - "Interactions with Vitamin D"

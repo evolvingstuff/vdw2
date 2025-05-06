@@ -3,7 +3,8 @@ title: "Vitamin D deficiency - Ghana 43 percent"
 slug: "vitamin-d-deficiency-ghana-43-percent"
 aliases:
   - "/Vitamin+D+deficiency+-+Ghana+43+percent+-+June+2021"
-  - "/tiki-index.php?page_id=12718"
+  - "/12718"
+tiki_page_id: 12718
 date: 2021-07-05
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Periodontitis with low Vitamin D increases risk of Diabetes by 2.8 X"
 slug: "periodontitis-with-low-vitamin-d-increases-risk-of-diabetes-by-28-x"
 aliases:
   - "/Periodontitis+with+low+Vitamin+D+increases+risk+of+Diabetes+by+28+X+–+July+2018"
-  - "/tiki-index.php?page_id=10051"
+  - "/10051"
+tiki_page_id: 10051
 date: 2018-09-20
 categories:
   - "Dental"

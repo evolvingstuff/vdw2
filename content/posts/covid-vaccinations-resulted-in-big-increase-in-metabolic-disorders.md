@@ -3,7 +3,8 @@ title: "COVID vaccinations resulted in big increase in metabolic disorders"
 slug: "covid-vaccinations-resulted-in-big-increase-in-metabolic-disorders"
 aliases:
   - "/COVID+vaccinations+resulted+in+big+increase+in+metabolic+disorders+-+Nov+2023"
-  - "/tiki-index.php?page_id=14830"
+  - "/14830"
+tiki_page_id: 14830
 date: 2023-11-22
 categories:
   - "Metabolic Syndrome"

@@ -3,7 +3,8 @@ title: "Down syndrome people have even lower D levels if have additional Vitamin
 slug: "down-syndrome-people-have-even-lower-d-levels-if-have-additional-vitamin-d-diseases"
 aliases:
   - "/Down+syndrome+people+have+even+lower+D+levels+if+have+additional+Vitamin+D+diseases+–+Oct+2023"
-  - "/tiki-index.php?page_id=14783"
+  - "/14783"
+tiki_page_id: 14783
 date: 2023-10-26
 categories:
   - "Health"

@@ -3,7 +3,8 @@ title: "In Vitro Fertilization clinical trial using 50,000 IU of Vitamin D bi-we
 slug: "in-vitro-fertilization-clinical-trial-using-50000-iu-of-vitamin-d-bi-weekly"
 aliases:
   - "/In+Vitro+Fertilization+clinical+trial+using+50000+IU+of+Vitamin+D+bi-weekly+–+Dec+2024"
-  - "/tiki-index.php?page_id=11953"
+  - "/11953"
+tiki_page_id: 11953
 date: 2020-09-14
 categories:
   - "Fertility and sperm"

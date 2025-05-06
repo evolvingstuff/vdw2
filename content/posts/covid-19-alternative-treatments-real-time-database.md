@@ -3,7 +3,8 @@ title: "COVID-19 alternative treatments - real-time database"
 slug: "covid-19-alternative-treatments-real-time-database"
 aliases:
   - "/COVID-19+alternative+treatments+-+real-time+database"
-  - "/tiki-index.php?page_id=12489"
+  - "/12489"
+tiki_page_id: 12489
 date: 2021-04-12
 categories:
   - "Virus"

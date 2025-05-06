@@ -3,7 +3,8 @@ title: "Less COVID-19 at high altitude due to more Vitamin D or other possible r
 slug: "less-covid-19-at-high-altitude-due-to-more-vitamin-d-or-other-possible-reasons"
 aliases:
   - "/Less+COVID-19+at+high+altitude+due+to+more+Vitamin+D+or+other+possible+reasons+–+July+2020"
-  - "/tiki-index.php?page_id=11916"
+  - "/11916"
+tiki_page_id: 11916
 date: 2020-08-22
 categories:
   - "UV and Vitamin D"

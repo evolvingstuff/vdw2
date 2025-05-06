@@ -3,7 +3,8 @@ title: "COVID could have been stopped in Wuhan – book"
 slug: "covid-could-have-been-stopped-in-wuhan-book"
 aliases:
   - "/COVID+could+have+been+stopped+in+Wuhan+–+book+March+2024"
-  - "/tiki-index.php?page_id=15107"
+  - "/15107"
+tiki_page_id: 15107
 date: 2024-03-06
 categories:
   - "Virus"

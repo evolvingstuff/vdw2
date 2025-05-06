@@ -3,7 +3,8 @@ title: "More post-operative pain if low vitamin D before ( 2.4 X for Thoracoscop
 slug: "more-post-operative-pain-if-low-vitamin-d-before-24-x-for-thoracoscopic"
 aliases:
   - "/More+post-operative+pain+if+low+vitamin+D+before+24+X+for+Thoracoscopic+–+Oct+2022"
-  - "/tiki-index.php?page_id=14023"
+  - "/14023"
+tiki_page_id: 14023
 date: 2022-10-19
 categories:
   - "Pain - chronic"

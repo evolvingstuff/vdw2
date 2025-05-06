@@ -3,7 +3,8 @@ title: "Gestational Diabetes Mellitus 10X more-likely if low vitamin D in first 
 slug: "gestational-diabetes-mellitus-10x-more-likely-if-low-vitamin-d-in-first-trimester"
 aliases:
   - "/Gestational+Diabetes+Mellitus+10X+more-likely+if+low+vitamin+D+in+first+trimester+–+July+2022"
-  - "/tiki-index.php?page_id=13828"
+  - "/13828"
+tiki_page_id: 13828
 date: 2022-08-06
 categories:
   - "Pregnancy"

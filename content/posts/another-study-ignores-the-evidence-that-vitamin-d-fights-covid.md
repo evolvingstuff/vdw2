@@ -3,7 +3,8 @@ title: "Another study ignores the evidence that Vitamin D fights COVID"
 slug: "another-study-ignores-the-evidence-that-vitamin-d-fights-covid"
 aliases:
   - "/Another+study+ignores+the+evidence+that+Vitamin+D+fights+COVID+-+Dec+2023"
-  - "/tiki-index.php?page_id=14908"
+  - "/14908"
+tiki_page_id: 14908
 date: 2023-12-23
 ---
 

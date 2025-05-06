@@ -3,7 +3,8 @@ title: "Severely Obese not helped much by 50,000 IU of vitamin D weekly for 8 we
 slug: "severely-obese-not-helped-much-by-50000-iu-of-vitamin-d-weekly-for-8-weeks-rct"
 aliases:
   - "/Severely+Obese+not+helped+much+by+50000+IU+of+vitamin+D+weekly+for+8+weeks+–+RCT+June+2019"
-  - "/tiki-index.php?page_id=11068"
+  - "/11068"
+tiki_page_id: 11068
 date: 2019-08-14
 categories:
   - "Obesity"

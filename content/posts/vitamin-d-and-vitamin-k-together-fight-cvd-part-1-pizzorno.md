@@ -3,7 +3,8 @@ title: "Vitamin D and Vitamin K together fight CVD Part 1- Pizzorno"
 slug: "vitamin-d-and-vitamin-k-together-fight-cvd-part-1-pizzorno"
 aliases:
   - "/Vitamin+D+and+Vitamin+K+together+fight+CVD+Part+1-+Pizzorno"
-  - "/tiki-index.php?page_id=9983"
+  - "/9983"
+tiki_page_id: 9983
 date: 2018-08-27
 categories:
   - "Cardiovascular"

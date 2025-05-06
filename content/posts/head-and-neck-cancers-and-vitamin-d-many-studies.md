@@ -3,7 +3,8 @@ title: "Head and neck cancers and vitamin D - many studies"
 slug: "head-and-neck-cancers-and-vitamin-d-many-studies"
 aliases:
   - "/Head+and+neck+cancers+and+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14479"
+  - "/14479"
+tiki_page_id: 14479
 date: 2023-06-10
 categories:
   - "Cancer - Other"

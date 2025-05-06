@@ -3,7 +3,8 @@ title: "COVID-19 and gut problems"
 slug: "covid-19-and-gut-problems"
 aliases:
   - "/COVID-19+and+gut+problems"
-  - "/tiki-index.php?page_id=11739"
+  - "/11739"
+tiki_page_id: 11739
 date: 2020-04-19
 categories:
   - "Gut"

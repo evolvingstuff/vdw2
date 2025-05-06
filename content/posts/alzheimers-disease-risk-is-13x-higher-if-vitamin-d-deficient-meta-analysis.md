@@ -3,7 +3,8 @@ title: "Alzheimer’s Disease risk is 1.3X higher if Vitamin D deficient – met
 slug: "alzheimers-disease-risk-is-13x-higher-if-vitamin-d-deficient-meta-analysis"
 aliases:
   - "/Alzheimers+Disease+risk+is+13X+higher+if+Vitamin+D+deficient+–+meta-analysis+Nov+2019"
-  - "/tiki-index.php?page_id=11359"
+  - "/11359"
+tiki_page_id: 11359
 date: 2019-11-16
 categories:
   - "Meta-analysis of Vitamin D"

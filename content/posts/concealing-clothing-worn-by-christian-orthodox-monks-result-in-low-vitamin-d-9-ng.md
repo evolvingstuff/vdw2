@@ -3,7 +3,8 @@ title: "Concealing clothing worn by Christian Orthodox monks result in low vitam
 slug: "concealing-clothing-worn-by-christian-orthodox-monks-result-in-low-vitamin-d-9-ng"
 aliases:
   - "/Concealing+clothing+worn+by+Christian+Orthodox+monks+result+in+low+vitamin+D+9+ng+–+Nov+2018"
-  - "/tiki-index.php?page_id=10199"
+  - "/10199"
+tiki_page_id: 10199
 date: 2018-11-14
 categories:
   - "High Risk"

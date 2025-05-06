@@ -3,7 +3,8 @@ title: "COVID-19 will continue thru the summer - yes, no, maybe"
 slug: "covid-19-will-continue-thru-the-summer-yes-no-maybe"
 aliases:
   - "/COVID-19+will+continue+thru+the+summer+-+yes+no+maybe"
-  - "/tiki-index.php?page_id=11722"
+  - "/11722"
+tiki_page_id: 11722
 date: 2020-04-09
 categories:
   - "Virus"

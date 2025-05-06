@@ -3,7 +3,8 @@ title: "Many Vaccine definitions now allow Vitamin D - CDC, NIH, etc."
 slug: "many-vaccine-definitions-now-allow-vitamin-d-cdc-nih-etc"
 aliases:
   - "/Many+Vaccine+definitions+now+allow+Vitamin+D+-+CDC+NIH+etc+–+Jan+2023"
-  - "/tiki-index.php?page_id=14185"
+  - "/14185"
+tiki_page_id: 14185
 date: 2023-01-03
 categories:
   - "Virus"

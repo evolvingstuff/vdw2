@@ -3,7 +3,8 @@ title: "COVID-19 attaches to tumor tissue better than normal tissue"
 slug: "covid-19-attaches-to-tumor-tissue-better-than-normal-tissue"
 aliases:
   - "/COVID-19+attaches+to+tumor+tissue+better+than+normal+tissue+-+Aug+2020"
-  - "/tiki-index.php?page_id=11950"
+  - "/11950"
+tiki_page_id: 11950
 date: 2020-09-12
 ---
 

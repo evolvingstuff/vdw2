@@ -3,7 +3,8 @@ title: "Epstein-Barr Virus may be a prerequisite for Multiple Sclerosis"
 slug: "epstein-barr-virus-may-be-a-prerequisite-for-multiple-sclerosis"
 aliases:
   - "/Epstein-Barr+Virus+may+be+a+prerequisite+for+Multiple+Sclerosis+-+July+2023"
-  - "/tiki-index.php?page_id=14602"
+  - "/14602"
+tiki_page_id: 14602
 date: 2023-08-10
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "Small vitamin D doses while pregnant do not decrease infant allergies â€
 slug: "small-vitamin-d-doses-while-pregnant-do-not-decrease-infant-allergies-meta-analysis"
 aliases:
   - "/Small+vitamin+D+doses+while+pregnant+do+not+decrease+infant+allergies+â€“+meta-analysis+Feb+2022"
-  - "/tiki-index.php?page_id=13313"
+  - "/13313"
+tiki_page_id: 13313
 date: 2022-02-03
 categories:
   - "Pregnancy"

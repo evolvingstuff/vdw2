@@ -3,7 +3,8 @@ title: "Dementia 4.1 X high risk in those with low Vitamin D, Omega-3, etc.2 dec
 slug: "dementia-41-x-high-risk-in-those-with-low-vitamin-d-omega-3-etc2-decades-before-behind-paywall"
 aliases:
   - "/Dementia+41+X+high+risk+in+those+with+low+Vitamin+D+Omega-3+etc2+decades+before+behind+paywall+–+Nov+2021"
-  - "/tiki-index.php?page_id=13103"
+  - "/13103"
+tiki_page_id: 13103
 date: 2021-11-22
 categories:
   - "Cognitive"

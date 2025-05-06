@@ -3,7 +3,8 @@ title: "Asthma reduced by Vitamin D, even for those using corticosteroids - meta
 slug: "asthma-reduced-by-vitamin-d-even-for-those-using-corticosteroids-meta-analysis-2021"
 aliases:
   - "/Asthma+reduced+by+Vitamin+D+even+for+those+using+corticosteroids+-+meta-analysis+2021"
-  - "/tiki-index.php?page_id=12801"
+  - "/12801"
+tiki_page_id: 12801
 date: 2021-08-03
 categories:
   - "Breathing"

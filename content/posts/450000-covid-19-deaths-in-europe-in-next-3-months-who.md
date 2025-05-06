@@ -3,7 +3,8 @@ title: "450,000 COVID-19 deaths in Europe in next 3 months – WHO"
 slug: "450000-covid-19-deaths-in-europe-in-next-3-months-who"
 aliases:
   - "/450000+COVID-19+deaths+in+Europe+in+next+3+months+–+WHO+Nov+4+2021"
-  - "/tiki-index.php?page_id=13050"
+  - "/13050"
+tiki_page_id: 13050
 date: 2021-11-04
 categories:
   - "Virus"

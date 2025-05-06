@@ -3,7 +3,8 @@ title: "Traumatic Brain Injuries treated by Vitamin D etc (US patent) – interv
 slug: "traumatic-brain-injuries-treated-by-vitamin-d-etc-us-patent-interview"
 aliases:
   - "/Traumatic+Brain+Injuries+treated+by+Vitamin+D+etc+US+patent+–+interview+Dec+2019"
-  - "/tiki-index.php?page_id=11495"
+  - "/11495"
+tiki_page_id: 11495
 date: 2019-12-24
 categories:
   - "Books, videos on Vitamin D"

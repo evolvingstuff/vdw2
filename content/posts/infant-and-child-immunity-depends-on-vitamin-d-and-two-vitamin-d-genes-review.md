@@ -3,7 +3,8 @@ title: "Infant and child immunity depends on Vitamin D and two Vitamin D genes â
 slug: "infant-and-child-immunity-depends-on-vitamin-d-and-two-vitamin-d-genes-review"
 aliases:
   - "/Infant+and+child+immunity+depends+on+Vitamin+D+and+two+Vitamin+D+genes+â€“+Review+April+2020"
-  - "/tiki-index.php?page_id=11747"
+  - "/11747"
+tiki_page_id: 11747
 date: 2020-04-27
 categories:
   - "Immunity"

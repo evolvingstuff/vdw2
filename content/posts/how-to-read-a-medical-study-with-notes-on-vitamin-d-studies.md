@@ -3,7 +3,8 @@ title: "How to read a medical study (with notes on Vitamin D studies)"
 slug: "how-to-read-a-medical-study-with-notes-on-vitamin-d-studies"
 aliases:
   - "/How+to+read+a+medical+study+with+notes+on+Vitamin+D+studies+–+Oct+2019"
-  - "/tiki-index.php?page_id=11283"
+  - "/11283"
+tiki_page_id: 11283
 date: 2019-10-28
 categories:
   - "Meta-analysis of Vitamin D"

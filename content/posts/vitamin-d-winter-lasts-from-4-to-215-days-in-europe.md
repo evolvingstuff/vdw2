@@ -3,7 +3,8 @@ title: "Vitamin D winter lasts from 4 to 215 days in Europe"
 slug: "vitamin-d-winter-lasts-from-4-to-215-days-in-europe"
 aliases:
   - "/Vitamin+D+winter+lasts+from+4+to+215+days+in+Europe+–+Dec+2022"
-  - "/tiki-index.php?page_id=14133"
+  - "/14133"
+tiki_page_id: 14133
 date: 2022-12-06
 categories:
   - "UV and Vitamin D"

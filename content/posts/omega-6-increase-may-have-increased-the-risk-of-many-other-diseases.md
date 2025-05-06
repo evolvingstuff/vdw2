@@ -3,7 +3,8 @@ title: "Omega-6 increase may have increased the risk of many other diseases"
 slug: "omega-6-increase-may-have-increased-the-risk-of-many-other-diseases"
 aliases:
   - "/Omega-6+increase+may+have+increased+the+risk+of+many+other+diseases+-+Jan+2022"
-  - "/tiki-index.php?page_id=13318"
+  - "/13318"
+tiki_page_id: 13318
 date: 2022-02-04
 categories:
   - "Vitamin D and Omega-3"

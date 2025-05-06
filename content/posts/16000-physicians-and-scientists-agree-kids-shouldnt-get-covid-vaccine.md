@@ -3,7 +3,8 @@ title: "16,000 Physicians and Scientists Agree Kids Shouldn’t Get COVID Vaccin
 slug: "16000-physicians-and-scientists-agree-kids-shouldnt-get-covid-vaccine"
 aliases:
   - "/16000+Physicians+and+Scientists+Agree+Kids+Shouldnt+Get+COVID+Vaccine+-+Dec+15+2021"
-  - "/tiki-index.php?page_id=13194"
+  - "/13194"
+tiki_page_id: 13194
 date: 2021-12-16
 categories:
   - "Top news"

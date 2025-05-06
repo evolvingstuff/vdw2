@@ -3,7 +3,8 @@ title: "COPD in Asians twice as likely if poor Vitamin D Binding Protein – met
 slug: "copd-in-asians-twice-as-likely-if-poor-vitamin-d-binding-protein-meta-analysis"
 aliases:
   - "/COPD+in+Asians+twice+as+likely+if+poor+Vitamin+D+Binding+Protein+–+meta-analysis+May+2019"
-  - "/tiki-index.php?page_id=10886"
+  - "/10886"
+tiki_page_id: 10886
 date: 2019-06-16
 categories:
   - "Breathing"

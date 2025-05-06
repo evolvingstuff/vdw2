@@ -3,7 +3,8 @@ title: "Warning - High intake of Vitamin B12 and B6 found to increase risk of hi
 slug: "warning-high-intake-of-vitamin-b12-and-b6-found-to-increase-risk-of-hip-fracture-by-47-percent-2019"
 aliases:
   - "/Warning+-+High+intake+of+Vitamin+B12+and+B6+found+to+increase+risk+of+hip+fracture+by+47+percent+-+2019"
-  - "/tiki-index.php?page_id=10795"
+  - "/10795"
+tiki_page_id: 10795
 date: 2019-05-19
 categories:
   - "Falls and Fractures"

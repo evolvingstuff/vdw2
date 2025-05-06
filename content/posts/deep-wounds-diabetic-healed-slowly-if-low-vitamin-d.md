@@ -3,7 +3,8 @@ title: "Deep wounds (Diabetic) healed slowly if low vitamin D"
 slug: "deep-wounds-diabetic-healed-slowly-if-low-vitamin-d"
 aliases:
   - "/Deep+wounds+Diabetic+healed+slowly+if+low+vitamin+D+–+June+2019"
-  - "/tiki-index.php?page_id=10872"
+  - "/10872"
+tiki_page_id: 10872
 date: 2019-06-14
 categories:
   - "Diabetes"

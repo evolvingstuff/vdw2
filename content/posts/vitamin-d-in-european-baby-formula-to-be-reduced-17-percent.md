@@ -3,7 +3,8 @@ title: "Vitamin D in European baby formula to be reduced 17 percent"
 slug: "vitamin-d-in-european-baby-formula-to-be-reduced-17-percent"
 aliases:
   - "/Vitamin+D+in+European+baby+formula+to+be+reduced+17+percent+–+May+2019"
-  - "/tiki-index.php?page_id=10861"
+  - "/10861"
+tiki_page_id: 10861
 date: 2019-06-13
 categories:
   - "Infant-Child"

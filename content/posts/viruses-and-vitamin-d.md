@@ -3,7 +3,8 @@ title: "Viruses and Vitamin D"
 slug: "viruses-and-vitamin-d"
 aliases:
   - "/Viruses+and+Vitamin+D"
-  - "/tiki-index.php?page_id=11604"
+  - "/11604"
+tiki_page_id: 11604
 date: 2020-02-02
 categories:
   - "Admin Only"

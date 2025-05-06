@@ -3,7 +3,8 @@ title: "Preterm Births reduced by Omega-3, Zinc, and Vitamin D"
 slug: "preterm-births-reduced-by-omega-3-zinc-and-vitamin-d"
 aliases:
   - "/Preterm+Births+reduced+by+Omega-3+Zinc+and+Vitamin+D+–+Aug+2019"
-  - "/tiki-index.php?page_id=11056"
+  - "/11056"
+tiki_page_id: 11056
 date: 2019-08-09
 categories:
   - "Pregnancy"

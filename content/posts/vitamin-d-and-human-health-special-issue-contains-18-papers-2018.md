@@ -3,7 +3,8 @@ title: "Vitamin D and Human Health – Special Issue contains 18 papers – 2018
 slug: "vitamin-d-and-human-health-special-issue-contains-18-papers-2018"
 aliases:
   - "/Vitamin+D+and+Human+Health+–+Special+Issue+contains+18+papers+–+2018"
-  - "/tiki-index.php?page_id=10371"
+  - "/10371"
+tiki_page_id: 10371
 date: 2019-01-04
 ---
 

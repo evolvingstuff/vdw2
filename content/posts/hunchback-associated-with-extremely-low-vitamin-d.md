@@ -3,7 +3,8 @@ title: "Hunchback associated with extremely low vitamin D"
 slug: "hunchback-associated-with-extremely-low-vitamin-d"
 aliases:
   - "/Hunchback+associated+with+extremely+low+vitamin+D+–+Oct+2013"
-  - "/tiki-index.php?page_id=10711"
+  - "/10711"
+tiki_page_id: 10711
 date: 2019-04-28
 ---
 

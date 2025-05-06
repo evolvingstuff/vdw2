@@ -3,7 +3,8 @@ title: "Why Vitamin D is Useless without This Critical Nutrient (Magnesium)"
 slug: "why-vitamin-d-is-useless-without-this-critical-nutrient-magnesium"
 aliases:
   - "/Why+Vitamin+D+is+Useless+without+This+Critical+Nutrient+Magnesium+-+Jan+2019"
-  - "/tiki-index.php?page_id=10414"
+  - "/10414"
+tiki_page_id: 10414
 date: 2019-01-19
 categories:
   - "Vitamin D and Magnesium"

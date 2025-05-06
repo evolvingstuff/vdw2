@@ -3,7 +3,8 @@ title: "Feldman and Pike’s Vitamin D book - 5th Edition"
 slug: "feldman-and-pikes-vitamin-d-book-5th-edition"
 aliases:
   - "/Feldman+and+Pikes+Vitamin+D+book+-+5th+Edition+Oct+2023"
-  - "/tiki-index.php?page_id=14839"
+  - "/14839"
+tiki_page_id: 14839
 date: 2023-11-24
 categories:
   - "Books, videos on Vitamin D"

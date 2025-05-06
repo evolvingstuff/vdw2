@@ -3,7 +3,8 @@ title: "3X less risk of Atherosclerotic Disease if good level of Vitamin D (Japa
 slug: "3x-less-risk-of-atherosclerotic-disease-if-good-level-of-vitamin-d-japan"
 aliases:
   - "/3X+less+risk+of+Atherosclerotic+Disease+if+good+level+of+Vitamin+D+Japan+–+June+2023"
-  - "/tiki-index.php?page_id=14513"
+  - "/14513"
+tiki_page_id: 14513
 date: 2023-07-03
 categories:
   - "Cardiovascular"

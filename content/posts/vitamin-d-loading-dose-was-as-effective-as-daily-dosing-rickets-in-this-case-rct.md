@@ -3,7 +3,8 @@ title: "Vitamin D loading dose was as effective as daily dosing (rickets in this
 slug: "vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct"
 aliases:
   - "/Vitamin+D+loading+dose+was+as+effective+as+daily+dosing+rickets+in+this+case+–+RCT+July+2021"
-  - "/tiki-index.php?page_id=12748"
+  - "/12748"
+tiki_page_id: 12748
 date: 2021-07-19
 categories:
   - "Rickets"

@@ -3,7 +3,8 @@ title: "Esophageal Cancer surgery helped by 300,000 IU of Vitamin D – RCT"
 slug: "esophageal-cancer-surgery-helped-by-300000-iu-of-vitamin-d-rct"
 aliases:
   - "/Esophageal+Cancer+surgery+helped+by+300000+IU+of+Vitamin+D+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10044"
+  - "/10044"
+tiki_page_id: 10044
 date: 2018-09-18
 categories:
   - "Trauma and surgery"

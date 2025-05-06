@@ -3,7 +3,8 @@ title: "Irritable Bowel Syndrome and Vitamin D - many studies"
 slug: "irritable-bowel-syndrome-and-vitamin-d-many-studies"
 aliases:
   - "/Irritable+Bowel+Syndrome+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14504"
+  - "/14504"
+tiki_page_id: 14504
 date: 2023-06-30
 categories:
   - "Gut"

@@ -3,7 +3,8 @@ title: "Stroke in young adult increases risk of death by 5X during next 15 years
 slug: "stroke-in-young-adult-increases-risk-of-death-by-5x-during-next-15-years"
 aliases:
   - "/Stroke+in+young+adult+increases+risk+of+death+by+5X+during+next+15+years+–+May+2019"
-  - "/tiki-index.php?page_id=10834"
+  - "/10834"
+tiki_page_id: 10834
 date: 2019-06-04
 ---
 

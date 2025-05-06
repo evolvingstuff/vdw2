@@ -3,7 +3,8 @@ title: "Many diseases increase with latitude (low UV, Vitamin D)"
 slug: "many-diseases-increase-with-latitude-low-uv-vitamin-d"
 aliases:
   - "/Many+diseases+increase+with+latitude+low+UV+Vitamin+D"
-  - "/tiki-index.php?page_id=10769"
+  - "/10769"
+tiki_page_id: 10769
 date: 2019-05-14
 categories:
   - "Vitamin D Far from equator"

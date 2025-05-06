@@ -3,7 +3,8 @@ title: "NIH scientists get personal, non-documented kickbacks from NIH funded co
 slug: "nih-scientists-get-personal-non-documented-kickbacks-from-nih-funded-companies-2-ent-to-dr-fauci"
 aliases:
   - "/NIH+scientists+get+personal+non-documented+kickbacks+from+NIH+funded+companies+23+payments+went+to+Dr+Fauci"
-  - "/tiki-index.php?page_id=13559"
+  - "/13559"
+tiki_page_id: 13559
 date: 2022-05-14
 ---
 

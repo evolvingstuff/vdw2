@@ -3,7 +3,8 @@ title: "4th COVID vaccination resulted in no decreased deaths (Austria)"
 slug: "4th-covid-vaccination-resulted-in-no-decreased-deaths-austria"
 aliases:
   - "/4th+COVID+vaccination+resulted+in+no+decreased+deaths+Austria+-+Nov+2023"
-  - "/tiki-index.php?page_id=14882"
+  - "/14882"
+tiki_page_id: 14882
 date: 2023-12-13
 categories:
   - "Virus"

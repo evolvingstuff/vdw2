@@ -3,7 +3,8 @@ title: "FADE test"
 slug: "fade-test"
 aliases:
   - "/FADE+test"
-  - "/tiki-index.php?page_id=12275"
+  - "/12275"
+tiki_page_id: 12275
 date: 2021-01-30
 categories:
   - "Admin Only"

@@ -3,7 +3,8 @@ title: "Hip fracture risk was reduced by 4 times when Vitamin D was added to SER
 slug: "hip-fracture-risk-was-reduced-by-4-times-when-vitamin-d-was-added-to-serms"
 aliases:
   - "/Hip+fracture+risk+was+reduced+by+4+times+when+Vitamin+D+was+added+to+SERMS+-+Jan+2024"
-  - "/tiki-index.php?page_id=14991"
+  - "/14991"
+tiki_page_id: 14991
 date: 2024-01-22
 categories:
   - "Falls and Fractures"

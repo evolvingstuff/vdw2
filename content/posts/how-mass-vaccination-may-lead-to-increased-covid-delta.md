@@ -3,7 +3,8 @@ title: "How mass vaccination may lead to increased COVID-Delta"
 slug: "how-mass-vaccination-may-lead-to-increased-covid-delta"
 aliases:
   - "/How+mass+vaccination+may+lead+to+increased+COVID-Delta"
-  - "/tiki-index.php?page_id=12745"
+  - "/12745"
+tiki_page_id: 12745
 date: 2021-07-17
 categories:
   - "Virus"

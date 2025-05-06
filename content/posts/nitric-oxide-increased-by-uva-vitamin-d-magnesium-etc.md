@@ -3,7 +3,8 @@ title: "Nitric oxide increased by UVA, Vitamin D, Magnesium, etc,"
 slug: "nitric-oxide-increased-by-uva-vitamin-d-magnesium-etc"
 aliases:
   - "/Nitric+oxide+increased+by+UVA+Vitamin+D+Magnesium+etc"
-  - "/tiki-index.php?page_id=13531"
+  - "/13531"
+tiki_page_id: 13531
 date: 2022-04-29
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "AI is examining 170,000 potential COVID-19 treatments, Vitamin D is one 
 slug: "ai-is-examining-170000-potential-covid-19-treatments-vitamin-d-is-one-of-only-6-found"
 aliases:
   - "/AI+is+examining+170000+potential+COVID-19+treatments+Vitamin+D+is+one+of+only+6+found+–+Sept+4+2020"
-  - "/tiki-index.php?page_id=12007"
+  - "/12007"
+tiki_page_id: 12007
 date: 2020-10-11
 categories:
   - "Top news"

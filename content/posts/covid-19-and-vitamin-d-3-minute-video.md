@@ -3,7 +3,8 @@ title: "COVID-19 and Vitamin D – 3 minute video"
 slug: "covid-19-and-vitamin-d-3-minute-video"
 aliases:
   - "/COVID-19+and+Vitamin+D+–+3+minute+video+-+Sept+2020"
-  - "/tiki-index.php?page_id=11940"
+  - "/11940"
+tiki_page_id: 11940
 date: 2020-09-07
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Headaches decreased by Vitamin D, Magnesium etc. – Review"
 slug: "headaches-decreased-by-vitamin-d-magnesium-etc-review"
 aliases:
   - "/Headaches+decreased+by+Vitamin+D+Magnesium+etc+–+Review+March+2022"
-  - "/tiki-index.php?page_id=13378"
+  - "/13378"
+tiki_page_id: 13378
 date: 2022-03-07
 categories:
   - "Vitamin D and Magnesium"

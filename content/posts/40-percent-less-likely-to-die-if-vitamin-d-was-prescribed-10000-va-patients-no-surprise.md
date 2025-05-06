@@ -3,7 +3,8 @@ title: "40 percent less likely to die if vitamin D was prescribed (10,000 VA pat
 slug: "40-percent-less-likely-to-die-if-vitamin-d-was-prescribed-10000-va-patients-no-surprise"
 aliases:
   - "/40+percent+less+likely+to+die+if+vitamin+D+was+prescribed+10000+VA+patients+no+surprise+–+Oct+2021"
-  - "/tiki-index.php?page_id=12828"
+  - "/12828"
+tiki_page_id: 12828
 date: 2021-08-16
 categories:
   - "Seniors"

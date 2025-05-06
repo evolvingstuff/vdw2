@@ -3,7 +3,8 @@ title: "Response to Vitamin D - many studies"
 slug: "response-to-vitamin-d-many-studies"
 aliases:
   - "/Response+to+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14175"
+  - "/14175"
+tiki_page_id: 14175
 date: 2022-12-28
 categories:
   - "Genetics"

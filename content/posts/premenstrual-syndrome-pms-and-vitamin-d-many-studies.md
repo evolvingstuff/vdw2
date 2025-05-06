@@ -3,7 +3,8 @@ title: "Premenstrual Syndrome (PMS) and Vitamin D - many studies"
 slug: "premenstrual-syndrome-pms-and-vitamin-d-many-studies"
 aliases:
   - "/Premenstrual+Syndrome+PMS+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=12916"
+  - "/12916"
+tiki_page_id: 12916
 date: 2021-09-23
 categories:
   - "Women"

@@ -3,7 +3,8 @@ title: "Doctors in NY cannot opt out of COVID boosters for children"
 slug: "doctors-in-ny-cannot-opt-out-of-covid-boosters-for-children"
 aliases:
   - "/Doctors+in+NY+cannot+opt+out+of+COVID+boosters+for+children+-+Oct+2023"
-  - "/tiki-index.php?page_id=14718"
+  - "/14718"
+tiki_page_id: 14718
 date: 2023-10-02
 categories:
   - "Infant-Child"

@@ -3,7 +3,8 @@ title: "People with various health problems need vitamin D to prevent COVID-19 (
 slug: "people-with-various-health-problems-need-vitamin-d-to-prevent-covid-19-psychiatric-in-this-case"
 aliases:
   - "/People+with+various+health+problems+need+vitamin+D+to+prevent+COVID-19+psychiatric+in+this+case+–+March+2021"
-  - "/tiki-index.php?page_id=12474"
+  - "/12474"
+tiki_page_id: 12474
 date: 2021-04-06
 categories:
   - "Virus"

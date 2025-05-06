@@ -3,7 +3,8 @@ title: "More Cognitive Impairment after some types of stroke if low vitamin D - 
 slug: "more-cognitive-impairment-after-some-types-of-stroke-if-low-vitamin-d-many-studies"
 aliases:
   - "/More+Cognitive+Impairment+after+some+types+of+stroke+if+low+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=10336"
+  - "/10336"
+tiki_page_id: 10336
 date: 2018-12-25
 categories:
   - "Cognitive"

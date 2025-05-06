@@ -3,7 +3,8 @@ title: "CDC recommends 100 vaccinations by age 18"
 slug: "cdc-recommends-100-vaccinations-by-age-18"
 aliases:
   - "/CDC+recommends+100+vaccinations+by+age+18+–+Feb+2024"
-  - "/tiki-index.php?page_id=15054"
+  - "/15054"
+tiki_page_id: 15054
 date: 2024-02-15
 categories:
   - "Virus"

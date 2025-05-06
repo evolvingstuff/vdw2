@@ -3,7 +3,8 @@ title: "Dengue Fever decimated by Vitamin D - many studies"
 slug: "dengue-fever-decimated-by-vitamin-d-many-studies"
 aliases:
   - "/Dengue+Fever+decimated+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14221"
+  - "/14221"
+tiki_page_id: 14221
 date: 2023-01-21
 categories:
   - "Vitamin D Receptor"

@@ -3,7 +3,8 @@ title: "Osteoporosis risk due to HIV gut and HIV drugs (gut-friendly Vit D can h
 slug: "osteoporosis-risk-due-to-hiv-gut-and-hiv-drugs-gut-friendly-vit-d-can-help"
 aliases:
   - "/Osteoporosis+risk+due+to+HIV+gut+and+HIV+drugs+gut-friendly+Vit+D+can+help-+Jan+2022"
-  - "/tiki-index.php?page_id=13304"
+  - "/13304"
+tiki_page_id: 13304
 date: 2022-01-31
 categories:
   - "Osteoporosis"

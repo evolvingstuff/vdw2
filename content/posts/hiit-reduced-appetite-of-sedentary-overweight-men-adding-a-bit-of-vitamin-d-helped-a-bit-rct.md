@@ -3,7 +3,8 @@ title: "HIIT reduced appetite of sedentary overweight men, adding a bit of vitam
 slug: "hiit-reduced-appetite-of-sedentary-overweight-men-adding-a-bit-of-vitamin-d-helped-a-bit-rct"
 aliases:
   - "/HIIT+reduced+appetite+of+sedentary+overweight+men+adding+a+bit+of+vitamin+D+helped+a+bit+–+RCT+Feb+2022"
-  - "/tiki-index.php?page_id=13350"
+  - "/13350"
+tiki_page_id: 13350
 date: 2022-02-24
 categories:
   - "Seniors"

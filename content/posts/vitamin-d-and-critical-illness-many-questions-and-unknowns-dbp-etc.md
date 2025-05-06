@@ -3,7 +3,8 @@ title: "Vitamin D and critical illness – many questions and unknowns (DBP etc)
 slug: "vitamin-d-and-critical-illness-many-questions-and-unknowns-dbp-etc"
 aliases:
   - "/Vitamin+D+and+critical+illness+–+many+questions+and+unknowns+DBP+etc–+Dec+2018"
-  - "/tiki-index.php?page_id=10357"
+  - "/10357"
+tiki_page_id: 10357
 date: 2018-12-31
 categories:
   - "Trauma and surgery"

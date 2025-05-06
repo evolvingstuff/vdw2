@@ -3,7 +3,8 @@ title: "COVID virus alters the activation of 100 vitamin D related genes in the 
 slug: "covid-virus-alters-the-activation-of-100-vitamin-d-related-genes-in-the-lung"
 aliases:
   - "/COVID+virus+alters+the+activation+of+100+vitamin+D+related+genes+in+the+lung+–+April+2021"
-  - "/tiki-index.php?page_id=12541"
+  - "/12541"
+tiki_page_id: 12541
 date: 2021-04-26
 categories:
   - "Genetics"

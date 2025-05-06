@@ -3,7 +3,8 @@ title: "US nursing homes are epicenters for COVID deaths (200,000)"
 slug: "us-nursing-homes-are-epicenters-for-covid-deaths-200000"
 aliases:
   - "/US+nursing+homes+are+epicenters+for+COVID+deaths+200000+-+Feb+2022"
-  - "/tiki-index.php?page_id=13361"
+  - "/13361"
+tiki_page_id: 13361
 date: 2022-02-28
 categories:
   - "Mortality and D"

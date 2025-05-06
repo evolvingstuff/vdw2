@@ -3,7 +3,8 @@ title: "3 ocular diseases are associated with low vitamin D – review"
 slug: "3-ocular-diseases-are-associated-with-low-vitamin-d-review"
 aliases:
   - "/3+ocular+diseases+are+associated+with+low+vitamin+D+–+review+April+2022"
-  - "/tiki-index.php?page_id=13472"
+  - "/13472"
+tiki_page_id: 13472
 date: 2022-04-11
 categories:
   - "Vision"

@@ -3,7 +3,8 @@ title: "Childhood BMI decreased when add a little Vitamin D – meta-analysis"
 slug: "childhood-bmi-decreased-when-add-a-little-vitamin-d-meta-analysis"
 aliases:
   - "/Childhood+BMI+decreased+when+add+a+little+Vitamin+D+–+meta-analysis+March+2023"
-  - "/tiki-index.php?page_id=14291"
+  - "/14291"
+tiki_page_id: 14291
 date: 2023-03-02
 categories:
   - "Obesity"

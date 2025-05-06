@@ -3,7 +3,8 @@ title: "Vitamin D fortification could eliminate 1 in 10 Cancer deaths in the EU"
 slug: "vitamin-d-fortification-could-eliminate-1-in-10-cancer-deaths-in-the-eu"
 aliases:
   - "/Vitamin+D+fortification+could+eliminate+1+in+10+Cancer+deaths+in+the+EU+–+May+2022"
-  - "/tiki-index.php?page_id=13547"
+  - "/13547"
+tiki_page_id: 13547
 date: 2022-05-07
 categories:
   - "Cancer"

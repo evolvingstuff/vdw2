@@ -3,7 +3,8 @@ title: "90% in US have chlormequat chloride in urine – which is linked to redu
 slug: "90-percent-in-us-have-chlormequat-chloride-in-urine-which-is-linked-to-reduced-fertility"
 aliases:
   - "/90+in+US+have+chlormequat+chloride+in+urine+–+which+is+linked+to+reduced+fertility+–+Feb+2024"
-  - "/tiki-index.php?page_id=15080"
+  - "/15080"
+tiki_page_id: 15080
 date: 2024-02-26
 categories:
   - "Interactions with Vitamin D"

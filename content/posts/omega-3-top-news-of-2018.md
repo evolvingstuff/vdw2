@@ -3,7 +3,8 @@ title: "Omega-3 top news of 2018"
 slug: "omega-3-top-news-of-2018"
 aliases:
   - "/Omega-3+top+news+of+2018"
-  - "/tiki-index.php?page_id=10367"
+  - "/10367"
+tiki_page_id: 10367
 date: 2019-01-04
 categories:
   - "Vitamin D and Omega-3"

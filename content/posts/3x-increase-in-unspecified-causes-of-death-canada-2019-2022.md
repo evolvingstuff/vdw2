@@ -3,7 +3,8 @@ title: "3X increase in unspecified causes of Death (Canada 2019-2022)"
 slug: "3x-increase-in-unspecified-causes-of-death-canada-2019-2022"
 aliases:
   - "/3X+increase+in+unspecified+causes+of+Death+Canada+2019-2022+-+Dec+2023"
-  - "/tiki-index.php?page_id=14884"
+  - "/14884"
+tiki_page_id: 14884
 date: 2023-12-13
 categories:
   - "Mortality and D"

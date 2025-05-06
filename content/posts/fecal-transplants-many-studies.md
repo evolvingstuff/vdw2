@@ -3,7 +3,8 @@ title: "Fecal transplants - many studies"
 slug: "fecal-transplants-many-studies"
 aliases:
   - "/Fecal+transplants+-+many+studies"
-  - "/tiki-index.php?page_id=14398"
+  - "/14398"
+tiki_page_id: 14398
 date: 2023-04-26
 categories:
   - "Microbiome"

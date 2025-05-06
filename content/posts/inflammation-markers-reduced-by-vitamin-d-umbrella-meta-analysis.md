@@ -3,7 +3,8 @@ title: "Inflammation markers reduced by Vitamin D - umbrella meta-analysis"
 slug: "inflammation-markers-reduced-by-vitamin-d-umbrella-meta-analysis"
 aliases:
   - "/Inflammation+markers+reduced+by+Vitamin+D+-+umbrella+meta-analysis+Oct+2022"
-  - "/tiki-index.php?page_id=13994"
+  - "/13994"
+tiki_page_id: 13994
 date: 2022-10-08
 categories:
   - "Meta-analysis of Vitamin D"

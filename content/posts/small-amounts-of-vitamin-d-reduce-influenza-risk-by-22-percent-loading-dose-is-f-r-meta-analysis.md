@@ -3,7 +3,8 @@ title: "Small amounts of Vitamin D reduce Influenza risk by 22 percent (loading 
 slug: "small-amounts-of-vitamin-d-reduce-influenza-risk-by-22-percent-loading-dose-is-f-r-meta-analysis"
 aliases:
   - "/Small+amounts+of+Vitamin+D+reduce+Influenza+risk+by+22+percent+loading+dose+is+far+better+–+meta-analysis+Jan+2022"
-  - "/tiki-index.php?page_id=13283"
+  - "/13283"
+tiki_page_id: 13283
 date: 2022-01-24
 categories:
   - "Breathing"

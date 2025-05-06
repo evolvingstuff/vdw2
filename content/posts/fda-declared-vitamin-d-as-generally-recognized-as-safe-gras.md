@@ -3,7 +3,8 @@ title: "FDA declared Vitamin D as Generally Recognized as Safe (GRAS)"
 slug: "fda-declared-vitamin-d-as-generally-recognized-as-safe-gras"
 aliases:
   - "/FDA+declared+Vitamin+D+as+Generally+Recognized+as+Safe+GRAS+-+Jan+2023"
-  - "/tiki-index.php?page_id=14663"
+  - "/14663"
+tiki_page_id: 14663
 date: 2023-09-06
 categories:
   - "Fortification with Vitamin D"

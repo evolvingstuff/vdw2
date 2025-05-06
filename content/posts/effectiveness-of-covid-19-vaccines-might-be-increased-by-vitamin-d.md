@@ -3,7 +3,8 @@ title: "Effectiveness of COVID-19 vaccines might be increased by Vitamin D"
 slug: "effectiveness-of-covid-19-vaccines-might-be-increased-by-vitamin-d"
 aliases:
   - "/Effectiveness+of+COVID-19+vaccines+might+be+increased+by+Vitamin+D+–+Aug+2021"
-  - "/tiki-index.php?page_id=12837"
+  - "/12837"
+tiki_page_id: 12837
 date: 2021-08-20
 categories:
   - "Virus"

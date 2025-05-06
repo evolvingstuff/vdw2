@@ -3,7 +3,8 @@ title: "Cognitive impairment 5 percent less likely for each ng more of Vitamin D
 slug: "cognitive-impairment-5-percent-less-likely-for-each-ng-more-of-vitamin-d-parkinsons"
 aliases:
   - "/Cognitive+impairment+5+percent+less+likely+for+each+ng+more+of+Vitamin+D+Parkinsons+–+May+2022"
-  - "/tiki-index.php?page_id=13534"
+  - "/13534"
+tiki_page_id: 13534
 date: 2022-05-01
 categories:
   - "Parkinson"

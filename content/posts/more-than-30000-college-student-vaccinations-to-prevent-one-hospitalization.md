@@ -3,7 +3,8 @@ title: "More than 30,000  college student vaccinations to prevent one hospitaliz
 slug: "more-than-30000-college-student-vaccinations-to-prevent-one-hospitalization"
 aliases:
   - "/More+than+30000+college+student+vaccinations+to+prevent+one+hospitalization+-+Dec+2022"
-  - "/tiki-index.php?page_id=14147"
+  - "/14147"
+tiki_page_id: 14147
 date: 2022-12-14
 categories:
   - "Virus"

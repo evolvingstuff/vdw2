@@ -3,7 +3,8 @@ title: "Chronic Periodontitis reduced by Vitamin D (60,000 IU weekly for 8 weeks
 slug: "chronic-periodontitis-reduced-by-vitamin-d-60000-iu-weekly-for-8-weeks-rct"
 aliases:
   - "/Chronic+Periodontitis+reduced+by+Vitamin+D+60000+IU+weekly+for+8+weeks+–+RCT+July+2023"
-  - "/tiki-index.php?page_id=14657"
+  - "/14657"
+tiki_page_id: 14657
 date: 2023-09-01
 categories:
   - "Dental"

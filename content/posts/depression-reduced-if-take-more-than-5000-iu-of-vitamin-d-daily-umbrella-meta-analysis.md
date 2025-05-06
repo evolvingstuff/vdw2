@@ -3,7 +3,8 @@ title: "Depression reduced if take more than 5,000 IU of vitamin D daily – umb
 slug: "depression-reduced-if-take-more-than-5000-iu-of-vitamin-d-daily-umbrella-meta-analysis"
 aliases:
   - "/Depression+reduced+if+take+more+than+5000+IU+of+vitamin+D+daily+–+umbrella+meta-analysis+–+Jan+2023"
-  - "/tiki-index.php?page_id=14197"
+  - "/14197"
+tiki_page_id: 14197
 date: 2023-01-06
 categories:
   - "Depression"

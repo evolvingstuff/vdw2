@@ -3,7 +3,8 @@ title: "Oral Vitamin D, the lung microbiome and Tuberculosis"
 slug: "oral-vitamin-d-the-lung-microbiome-and-tuberculosis"
 aliases:
   - "/Oral+Vitamin+D+the+lung+microbiome+and+Tuberculosis+–+June+2019"
-  - "/tiki-index.php?page_id=10665"
+  - "/10665"
+tiki_page_id: 10665
 date: 2019-04-13
 categories:
   - "Tuberculosis"

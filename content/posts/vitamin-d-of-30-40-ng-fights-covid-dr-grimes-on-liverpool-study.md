@@ -3,7 +3,8 @@ title: "Vitamin D of 30-40 ng fights COVID, Dr. Grimes on Liverpool Study"
 slug: "vitamin-d-of-30-40-ng-fights-covid-dr-grimes-on-liverpool-study"
 aliases:
   - "/Vitamin+D+of+30-40+ng+fights+COVID+Dr+Grimes+on+Liverpool+Study+-+March+2022"
-  - "/tiki-index.php?page_id=13387"
+  - "/13387"
+tiki_page_id: 13387
 date: 2022-03-12
 categories:
   - "Virus"

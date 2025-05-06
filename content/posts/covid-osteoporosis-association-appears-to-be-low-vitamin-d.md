@@ -3,7 +3,8 @@ title: "COVID-Osteoporosis association appears to be low Vitamin D"
 slug: "covid-osteoporosis-association-appears-to-be-low-vitamin-d"
 aliases:
   - "/COVID-Osteoporosis+association+appears+to+be+low+Vitamin+D+–+Oct+2022"
-  - "/tiki-index.php?page_id=14053"
+  - "/14053"
+tiki_page_id: 14053
 date: 2022-10-29
 categories:
   - "Osteoporosis"

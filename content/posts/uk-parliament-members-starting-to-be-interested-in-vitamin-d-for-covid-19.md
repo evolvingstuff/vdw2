@@ -3,7 +3,8 @@ title: "UK parliament members starting to be interested in Vitamin D for COVID-1
 slug: "uk-parliament-members-starting-to-be-interested-in-vitamin-d-for-covid-19"
 aliases:
   - "/UK+parliament+members+starting+to+be+interested+in+Vitamin+D+for+COVID-19+–+Oct+10+2020"
-  - "/tiki-index.php?page_id=12000"
+  - "/12000"
+tiki_page_id: 12000
 date: 2020-10-08
 categories:
   - "Vitamin D in Europe"

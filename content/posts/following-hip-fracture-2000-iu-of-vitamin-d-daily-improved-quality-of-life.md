@@ -3,7 +3,8 @@ title: "Following hip fracture 2,000 IU of vitamin D daily improved quality of l
 slug: "following-hip-fracture-2000-iu-of-vitamin-d-daily-improved-quality-of-life"
 aliases:
   - "/Following+hip+fracture+2000+IU+of+vitamin+D+daily+improved+quality+of+life+–+Feb+2019"
-  - "/tiki-index.php?page_id=10609"
+  - "/10609"
+tiki_page_id: 10609
 date: 2019-03-23
 categories:
   - "Falls and Fractures"

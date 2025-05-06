@@ -3,7 +3,8 @@ title: "Sleep disorders and Autism, TB, etc. (all have low vitamin D)"
 slug: "sleep-disorders-and-autism-tb-etc-all-have-low-vitamin-d"
 aliases:
   - "/Sleep+disorders+and+Autism+TB+etc+all+have+low+vitamin+D+–+March+2018"
-  - "/tiki-index.php?page_id=10017"
+  - "/10017"
+tiki_page_id: 10017
 date: 2018-09-09
 categories:
   - "Tuberculosis"

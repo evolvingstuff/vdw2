@@ -3,7 +3,8 @@ title: "Sleep improved a bit by adding a bit of vitamin D – meta-anaysis"
 slug: "sleep-improved-a-bit-by-adding-a-bit-of-vitamin-d-meta-anaysis"
 aliases:
   - "/Sleep+improved+a+bit+by+adding+a+bit+of+vitamin+D+–+meta-anaysis+March+2022"
-  - "/tiki-index.php?page_id=13364"
+  - "/13364"
+tiki_page_id: 13364
 date: 2022-03-03
 categories:
   - "Meta-analysis of Vitamin D"

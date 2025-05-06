@@ -3,7 +3,8 @@ title: "Vitamin D may be a COVID-19 Game-changer - BMJ"
 slug: "vitamin-d-may-be-a-covid-19-game-changer-bmj"
 aliases:
   - "/Vitamin+D+may+be+a+COVID-19+Game-changer+-+BMJ+April+6+2020"
-  - "/tiki-index.php?page_id=11717"
+  - "/11717"
+tiki_page_id: 11717
 date: 2020-04-07
 categories:
   - "Virus"

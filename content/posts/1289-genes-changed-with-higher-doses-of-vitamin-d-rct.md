@@ -3,7 +3,8 @@ title: "1289 genes changed with higher doses of Vitamin D - RCT"
 slug: "1289-genes-changed-with-higher-doses-of-vitamin-d-rct"
 aliases:
   - "/1289+genes+changed+with+higher+doses+of+Vitamin+D+-+RCT+Dec+2019"
-  - "/tiki-index.php?page_id=11432"
+  - "/11432"
+tiki_page_id: 11432
 date: 2019-12-07
 categories:
   - "Genetics"

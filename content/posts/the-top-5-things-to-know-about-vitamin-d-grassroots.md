@@ -3,7 +3,8 @@ title: "The Top 5 Things to Know About Vitamin D - Grassroots"
 slug: "the-top-5-things-to-know-about-vitamin-d-grassroots"
 aliases:
   - "/The+Top+5+Things+to+Know+About+Vitamin+D+-+Grassroots+July+2019"
-  - "/tiki-index.php?page_id=10991"
+  - "/10991"
+tiki_page_id: 10991
 date: 2019-07-15
 categories:
   - "About D - introduction"

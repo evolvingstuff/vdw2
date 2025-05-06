@@ -3,7 +3,8 @@ title: "Good gut diversity if Ultraviolet Light or if supplement with Vitamin D"
 slug: "good-gut-diversity-if-ultraviolet-light-or-if-supplement-with-vitamin-d"
 aliases:
   - "/Good+gut+diversity+if+Ultraviolet+Light+or+if+supplement+with+Vitamin+D–+Oct+2019"
-  - "/tiki-index.php?page_id=11276"
+  - "/11276"
+tiki_page_id: 11276
 date: 2019-10-26
 categories:
   - "UV and Vitamin D"

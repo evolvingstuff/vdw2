@@ -3,7 +3,8 @@ title: "American College of Nurse‐Midwives continues to state that 600 IU Vita
 slug: "american-college-of-nursemidwives-continues-to-state-that-600-iu-vitamin-d-is-enough"
 aliases:
   - "/American+College+of+NurseMidwives+continues+to+state+that+600+IU+Vitamin+D+is+enough+–+March+2019"
-  - "/tiki-index.php?page_id=10571"
+  - "/10571"
+tiki_page_id: 10571
 date: 2019-03-15
 categories:
   - "Pregnancy"

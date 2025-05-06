@@ -3,7 +3,8 @@ title: "Vitamin D, Quercetin, and Estradiol all increase vitamin D in cells and 
 slug: "vitamin-d-quercetin-and-estradiol-all-increase-vitamin-d-in-cells-and-increase-g-reduce-covid-19"
 aliases:
   - "/Vitamin+D+Quercetin+and+Estradiol+all+increase+vitamin+D+in+cells+and+increase+genes+which+reduce+COVID-19+–+May+21+2020"
-  - "/tiki-index.php?page_id=11776"
+  - "/11776"
+tiki_page_id: 11776
 date: 2020-05-21
 categories:
   - "Vitamin D Receptor"

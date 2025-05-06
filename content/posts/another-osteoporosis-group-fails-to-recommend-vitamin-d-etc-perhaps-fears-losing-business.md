@@ -3,7 +3,8 @@ title: "Another Osteoporosis group fails to recommend Vitamin D, etc. (perhaps f
 slug: "another-osteoporosis-group-fails-to-recommend-vitamin-d-etc-perhaps-fears-losing-business"
 aliases:
   - "/Another+Osteoporosis+group+fails+to+recommend+Vitamin+D+etc+perhaps+fears+losing+business+-+Oct+2022"
-  - "/tiki-index.php?page_id=13986"
+  - "/13986"
+tiki_page_id: 13986
 date: 2022-10-06
 categories:
   - "Osteoporosis"

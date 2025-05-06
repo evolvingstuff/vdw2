@@ -3,7 +3,8 @@ title: "Miscarriage (Recurrent Spontaneous) associated with poor CYP27B1 gene"
 slug: "miscarriage-recurrent-spontaneous-associated-with-poor-cyp27b1-gene"
 aliases:
   - "/Miscarriage+Recurrent+Spontaneous+associated+with+poor+CYP27B1+gene+-+Jan+2024"
-  - "/tiki-index.php?page_id=15014"
+  - "/15014"
+tiki_page_id: 15014
 date: 2024-02-01
 categories:
   - "Pregnancy"

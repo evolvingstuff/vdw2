@@ -3,7 +3,8 @@ title: "Many health risks associated with low Vit D or poor Vitamin D Receptor �
 slug: "many-health-risks-associated-with-low-vit-d-or-poor-vitamin-d-receptor-more-rct-needed"
 aliases:
   - "/Many+health+risks+associated+with+low+Vit+D+or+poor+Vitamin+D+Receptor+–+more+RCT+needed+–+March+2018"
-  - "/tiki-index.php?page_id=10048"
+  - "/10048"
+tiki_page_id: 10048
 date: 2018-09-18
 categories:
   - "Vitamin D Receptor"

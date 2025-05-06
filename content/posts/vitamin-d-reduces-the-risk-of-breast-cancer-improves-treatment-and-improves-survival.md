@@ -3,7 +3,8 @@ title: "Vitamin D reduces the risk of Breast Cancer, improves treatment, and imp
 slug: "vitamin-d-reduces-the-risk-of-breast-cancer-improves-treatment-and-improves-survival"
 aliases:
   - "/Vitamin+D+reduces+the+risk+of+Breast+Cancer+improves+treatment+and+improves+survival"
-  - "/tiki-index.php?page_id=10022"
+  - "/10022"
+tiki_page_id: 10022
 date: 2018-09-09
 categories:
   - "Mortality and D"

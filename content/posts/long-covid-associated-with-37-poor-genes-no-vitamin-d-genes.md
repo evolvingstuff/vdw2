@@ -3,7 +3,8 @@ title: "Long-COVID associated with 37 poor genes (no Vitamin D genes)"
 slug: "long-covid-associated-with-37-poor-genes-no-vitamin-d-genes"
 aliases:
   - "/Long-COVID+associated+with+37+poor+genes+no+Vitamin+D+genes+–+July+2023"
-  - "/tiki-index.php?page_id=14582"
+  - "/14582"
+tiki_page_id: 14582
 date: 2023-08-03
 categories:
   - "Genetics"

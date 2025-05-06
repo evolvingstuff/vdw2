@@ -3,7 +3,8 @@ title: "Ultra-processed foods associated with worse health and lower Vitamin D -
 slug: "ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-several-studies"
 aliases:
   - "/Ultra-processed+foods+associated+with+worse+health+and+lower+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=15091"
+  - "/15091"
+tiki_page_id: 15091
 date: 2024-03-01
 categories:
   - "Health"

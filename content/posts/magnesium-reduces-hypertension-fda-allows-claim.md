@@ -3,7 +3,8 @@ title: "Magnesium reduces hypertension - FDA allows claim"
 slug: "magnesium-reduces-hypertension-fda-allows-claim"
 aliases:
   - "/Magnesium+reduces+hypertension+-+FDA+allows+claim+-+Jan+2022"
-  - "/tiki-index.php?page_id=13948"
+  - "/13948"
+tiki_page_id: 13948
 date: 2022-09-28
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "NAFLD somewhat treated in children with 2,000 IU Vitamin D daily – RCT
 slug: "nafld-somewhat-treated-in-children-with-2000-iu-vitamin-d-daily-rct"
 aliases:
   - "/NAFLD+somewhat+treated+in+children+with+2000+IU+Vitamin+D+daily+–+RCT+Aug+2021"
-  - "/tiki-index.php?page_id=12867"
+  - "/12867"
+tiki_page_id: 12867
 date: 2021-08-30
 categories:
   - "Liver"

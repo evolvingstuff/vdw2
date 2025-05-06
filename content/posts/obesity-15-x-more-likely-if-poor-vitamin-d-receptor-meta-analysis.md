@@ -3,7 +3,8 @@ title: "Obesity 1.5 X more likely if poor Vitamin D Receptor – meta-analysis"
 slug: "obesity-15-x-more-likely-if-poor-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Obesity+15+X+more+likely+if+poor+Vitamin+D+Receptor+–+meta-analysis+Nov+2019"
-  - "/tiki-index.php?page_id=11310"
+  - "/11310"
+tiki_page_id: 11310
 date: 2019-11-05
 categories:
   - "Obesity"

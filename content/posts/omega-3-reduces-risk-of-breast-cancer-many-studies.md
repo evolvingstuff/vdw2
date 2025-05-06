@@ -3,7 +3,8 @@ title: "Omega-3 Reduces risk of Breast Cancer - many studies"
 slug: "omega-3-reduces-risk-of-breast-cancer-many-studies"
 aliases:
   - "/Omega-3+Reduces+risk+of+Breast+Cancer+-+many+studies"
-  - "/tiki-index.php?page_id=10811"
+  - "/10811"
+tiki_page_id: 10811
 date: 2019-05-24
 categories:
   - "Cancer - Breast"

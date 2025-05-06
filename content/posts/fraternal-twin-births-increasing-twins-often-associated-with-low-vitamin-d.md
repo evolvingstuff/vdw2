@@ -3,7 +3,8 @@ title: "Fraternal twin births increasing (twins often associated with low vitami
 slug: "fraternal-twin-births-increasing-twins-often-associated-with-low-vitamin-d"
 aliases:
   - "/Fraternal+twin+births+increasing+twins+often+associated+with+low+vitamin+D+–+March+2022"
-  - "/tiki-index.php?page_id=13435"
+  - "/13435"
+tiki_page_id: 13435
 date: 2022-03-26
 categories:
   - "Pregnancy"

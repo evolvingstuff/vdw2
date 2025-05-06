@@ -3,7 +3,8 @@ title: "Comparing Vitamin D Randomized controlled Trials and Observational studi
 slug: "comparing-vitamin-d-randomized-controlled-trials-and-observational-studies"
 aliases:
   - "/Comparing+Vitamin+D+Randomized+controlled+Trials+and+Observational+studies+–+Sept+2022"
-  - "/tiki-index.php?page_id=13915"
+  - "/13915"
+tiki_page_id: 13915
 date: 2022-09-15
 ---
 

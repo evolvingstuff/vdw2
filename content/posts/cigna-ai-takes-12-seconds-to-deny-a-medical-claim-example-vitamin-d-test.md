@@ -3,7 +3,8 @@ title: "Cigna AI takes 1.2 seconds to deny a medical claim (example: Vitamin D t
 slug: "cigna-ai-takes-12-seconds-to-deny-a-medical-claim-example-vitamin-d-test"
 aliases:
   - "/Cigna+AI+takes+12+seconds+to+deny+a+medical+claim+example+Vitamin+D+test+-+Aug+2023"
-  - "/tiki-index.php?page_id=14594"
+  - "/14594"
+tiki_page_id: 14594
 date: 2023-08-07
 ---
 

@@ -3,7 +3,8 @@ title: "Osteoporosis treatment with Vitamin D – far healthier and 10X fewer af
 slug: "osteoporosis-treatment-with-vitamin-d-far-healthier-and-10x-fewer-afib-events-vs-bisphosphonates"
 aliases:
   - "/Osteoporosis+treatment+with+Vitamin+D+–+far+healthier+and+10X+fewer+afib+events+vs+bisphosphonates+–+Oct+2018"
-  - "/tiki-index.php?page_id=10168"
+  - "/10168"
+tiki_page_id: 10168
 date: 2018-10-30
 categories:
   - "Osteoporosis"

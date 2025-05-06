@@ -3,7 +3,8 @@ title: "Yet another reason to take Vitamin D while pregnant – fight COVID - me
 slug: "yet-another-reason-to-take-vitamin-d-while-pregnant-fight-covid-meta-analysis"
 aliases:
   - "/Yet+another+reason+to+take+Vitamin+D+while+pregnant+–+fight+COVID+-+meta-analysis+May+2023"
-  - "/tiki-index.php?page_id=14478"
+  - "/14478"
+tiki_page_id: 14478
 date: 2023-06-10
 categories:
   - "Pregnancy"

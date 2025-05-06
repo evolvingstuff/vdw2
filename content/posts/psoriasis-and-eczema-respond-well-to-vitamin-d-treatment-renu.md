@@ -3,7 +3,8 @@ title: "Psoriasis and Eczema Respond Well to Vitamin D Treatment - Renu"
 slug: "psoriasis-and-eczema-respond-well-to-vitamin-d-treatment-renu"
 aliases:
   - "/Psoriasis+and+Eczema+Respond+Well+to+Vitamin+D+Treatment+-+Renu+Oct+2023"
-  - "/tiki-index.php?page_id=14799"
+  - "/14799"
+tiki_page_id: 14799
 date: 2023-10-31
 categories:
   - "Psoriasis"

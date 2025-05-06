@@ -3,7 +3,8 @@ title: "Diabetics with high vitamin D have 40 pcnt less all-cause mortality"
 slug: "diabetics-with-high-vitamin-d-have-40-pcnt-less-all-cause-mortality"
 aliases:
   - "/Diabetics+with+high+vitamin+D+have+40+pcnt+less+all-cause+mortality+–+Nov+2020"
-  - "/tiki-index.php?page_id=12058"
+  - "/12058"
+tiki_page_id: 12058
 date: 2020-11-11
 categories:
   - "Diabetes"

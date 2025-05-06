@@ -3,7 +3,8 @@ title: "Premature births predicted in office by 2024 - Bill Gates (vs. reduce pr
 slug: "premature-births-predicted-in-office-by-2024-bill-gates-vs-reduce-preemies-by-ha--with-vitamin-d"
 aliases:
   - "/Premature+births+predicted+in+office+by+2024+-+Bill+Gates+vs+reduce+preemies+by+half+now+with+Vitamin+D+-+Feb+2019"
-  - "/tiki-index.php?page_id=10530"
+  - "/10530"
+tiki_page_id: 10530
 date: 2019-02-27
 categories:
   - "Pregnancy"

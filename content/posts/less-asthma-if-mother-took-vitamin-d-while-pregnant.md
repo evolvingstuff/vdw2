@@ -3,7 +3,8 @@ title: "Less Asthma if mother took vitamin D while pregnant"
 slug: "less-asthma-if-mother-took-vitamin-d-while-pregnant"
 aliases:
   - "/Less+Asthma+if+mother+took+vitamin+D+while+pregnant+–+Oct+2023"
-  - "/tiki-index.php?page_id=14887"
+  - "/14887"
+tiki_page_id: 14887
 date: 2023-12-14
 categories:
   - "Pregnancy"

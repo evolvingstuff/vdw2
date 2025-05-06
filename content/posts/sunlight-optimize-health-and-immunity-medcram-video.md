@@ -3,7 +3,8 @@ title: "Sunlight: Optimize Health and Immunity - Medcram video"
 slug: "sunlight-optimize-health-and-immunity-medcram-video"
 aliases:
   - "/Sunlight+Optimize+Health+and+Immunity+-+Medcram+video+Jan+2022"
-  - "/tiki-index.php?page_id=13474"
+  - "/13474"
+tiki_page_id: 13474
 date: 2022-04-12
 categories:
   - "Books, videos on Vitamin D"

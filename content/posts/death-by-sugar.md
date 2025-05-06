@@ -3,7 +3,8 @@ title: "Death by Sugar"
 slug: "death-by-sugar"
 aliases:
   - "/Death+by+Sugar"
-  - "/tiki-index.php?page_id=10763"
+  - "/10763"
+tiki_page_id: 10763
 date: 2019-05-12
 categories:
   - "Diabetes"

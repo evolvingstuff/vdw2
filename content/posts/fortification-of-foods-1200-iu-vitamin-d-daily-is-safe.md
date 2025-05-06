@@ -3,7 +3,8 @@ title: "Fortification of foods: 1200 IU Vitamin D daily is safe"
 slug: "fortification-of-foods-1200-iu-vitamin-d-daily-is-safe"
 aliases:
   - "/Fortification+of+foods+1200+IU+Vitamin+D+daily+is+safe+–+Dec+2022"
-  - "/tiki-index.php?page_id=14139"
+  - "/14139"
+tiki_page_id: 14139
 date: 2022-12-08
 categories:
   - "Vitamin D in Europe"

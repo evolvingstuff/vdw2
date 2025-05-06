@@ -3,7 +3,8 @@ title: "Premature ejaculation associated with low vitamin D – 2018, 2019"
 slug: "premature-ejaculation-associated-with-low-vitamin-d-2018-2019"
 aliases:
   - "/Premature+ejaculation+associated+with+low+vitamin+D+–+2018+2019"
-  - "/tiki-index.php?page_id=9986"
+  - "/9986"
+tiki_page_id: 9986
 date: 2018-08-28
 categories:
   - "Fertility and sperm"

@@ -3,7 +3,8 @@ title: "Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID,
 slug: "consensus-60000-iu-of-vitamin-d-weekly-for-2-6-months-can-fight-covid-etc-india"
 aliases:
   - "/Consensus+60000+IU+of+Vitamin+D+weekly+for+2-6+months+can+fight+COVID+etc+–+India+April+2022"
-  - "/tiki-index.php?page_id=14745"
+  - "/14745"
+tiki_page_id: 14745
 date: 2023-10-13
 categories:
   - "Consensus"

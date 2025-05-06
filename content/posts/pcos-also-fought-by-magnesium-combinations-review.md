@@ -3,7 +3,8 @@ title: "PCOS also fought by Magnesium combinations – review"
 slug: "pcos-also-fought-by-magnesium-combinations-review"
 aliases:
   - "/PCOS+also+fought+by+Magnesium+combinations+–+review+Aug+2022"
-  - "/tiki-index.php?page_id=13853"
+  - "/13853"
+tiki_page_id: 13853
 date: 2022-08-22
 categories:
   - "Vitamin D and Magnesium"

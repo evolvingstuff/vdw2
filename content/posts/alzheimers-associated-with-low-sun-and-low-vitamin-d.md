@@ -3,7 +3,8 @@ title: "Alzheimer’s associated with low sun and low vitamin D"
 slug: "alzheimers-associated-with-low-sun-and-low-vitamin-d"
 aliases:
   - "/Alzheimers+associated+with+low+sun+and+low+vitamin+D+–+Sept+2018"
-  - "/tiki-index.php?page_id=10043"
+  - "/10043"
+tiki_page_id: 10043
 date: 2018-09-18
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "Proton pump inhibitors decrease Vitamin D and Magnesium"
 slug: "proton-pump-inhibitors-decrease-vitamin-d-and-magnesium"
 aliases:
   - "/Proton+pump+inhibitors+decrease+Vitamin+D+and+Magnesium+–+Dec+2018"
-  - "/tiki-index.php?page_id=10342"
+  - "/10342"
+tiki_page_id: 10342
 date: 2018-12-27
 categories:
   - "Interactions with Vitamin D"

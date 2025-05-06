@@ -3,7 +3,8 @@ title: "Omega-3 supplements taken before and after surgery actually helped – R
 slug: "omega-3-supplements-taken-before-and-after-surgery-actually-helped-rct"
 aliases:
   - "/Omega-3+supplements+taken+before+and+after+surgery+actually+helped+–+RCT+Nov+2018"
-  - "/tiki-index.php?page_id=10300"
+  - "/10300"
+tiki_page_id: 10300
 date: 2018-12-09
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "COVID-19 Coronavirus can most likely be fought by Vitamin D"
 slug: "covid-19-coronavirus-can-most-likely-be-fought-by-vitamin-d"
 aliases:
   - "/COVID-19+Coronavirus+can+most+likely+be+fought+by+Vitamin+D"
-  - "/tiki-index.php?page_id=11580"
+  - "/11580"
+tiki_page_id: 11580
 date: 2020-01-21
 categories:
   - "Virus"

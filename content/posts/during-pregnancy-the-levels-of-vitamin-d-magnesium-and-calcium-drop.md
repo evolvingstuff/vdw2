@@ -3,7 +3,8 @@ title: "During pregnancy the levels of Vitamin D, Magnesium, and Calcium drop"
 slug: "during-pregnancy-the-levels-of-vitamin-d-magnesium-and-calcium-drop"
 aliases:
   - "/During+pregnancy+the+levels+of+Vitamin+D+Magnesium+and+Calcium+drop+–+Nov+2022"
-  - "/tiki-index.php?page_id=14124"
+  - "/14124"
+tiki_page_id: 14124
 date: 2022-12-01
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Preterm babies have low vitamin D, but recover in 6 weeks with 800 IU su
 slug: "preterm-babies-have-low-vitamin-d-but-recover-in-6-weeks-with-800-iu-supplementation"
 aliases:
   - "/Preterm+babies+have+low+vitamin+D+but+recover+in+6+weeks+with+800+IU+supplementation+–+Jan+2019"
-  - "/tiki-index.php?page_id=10362"
+  - "/10362"
+tiki_page_id: 10362
 date: 2019-01-01
 categories:
   - "Intervention"

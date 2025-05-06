@@ -3,7 +3,8 @@ title: "Vitamin D levels have dropped in breast milk too (1989-2016)"
 slug: "vitamin-d-levels-have-dropped-in-breast-milk-too-1989-2016"
 aliases:
   - "/Vitamin+D+levels+have+dropped+in+breast+milk+too+1989-2016+–+Feb+2021"
-  - "/tiki-index.php?page_id=12321"
+  - "/12321"
+tiki_page_id: 12321
 date: 2021-02-13
 ---
 

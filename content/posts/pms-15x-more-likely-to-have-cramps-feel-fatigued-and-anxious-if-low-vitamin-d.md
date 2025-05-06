@@ -3,7 +3,8 @@ title: "PMS: 1.5X more likely to have cramps, feel fatigued and anxious if low v
 slug: "pms-15x-more-likely-to-have-cramps-feel-fatigued-and-anxious-if-low-vitamin-d"
 aliases:
   - "/PMS+15X+more+likely+to+have+cramps+feel+fatigued+and+anxious+if+low+vitamin+D+–+Sept+2018"
-  - "/tiki-index.php?page_id=9998"
+  - "/9998"
+tiki_page_id: 9998
 date: 2018-09-02
 categories:
   - "Women"

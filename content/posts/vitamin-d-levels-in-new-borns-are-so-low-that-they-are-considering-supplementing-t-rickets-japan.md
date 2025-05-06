@@ -3,7 +3,8 @@ title: "Vitamin D levels in new borns are so low that they are considering suppl
 slug: "vitamin-d-levels-in-new-borns-are-so-low-that-they-are-considering-supplementing-t-rickets-japan"
 aliases:
   - "/Vitamin+D+levels+in+new+borns+are+so+low+that+they+are+considering+supplementing+to+prevent+Rickets+Japan+–+July+2022"
-  - "/tiki-index.php?page_id=13756"
+  - "/13756"
+tiki_page_id: 13756
 date: 2022-07-14
 categories:
   - "Deficiency of Vitamin D"

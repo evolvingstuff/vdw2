@@ -3,7 +3,8 @@ title: "Pain not reduced by 60,000 IU monthly vitamin D (need 50,000 IU weekly) 
 slug: "pain-not-reduced-by-60000-iu-monthly-vitamin-d-need-50000-iu-weekly-rct"
 aliases:
   - "/Pain+not+reduced+by+60000+IU+monthly+vitamin+D+need+50000+IU+weekly+–+RCT+Aug+2023"
-  - "/tiki-index.php?page_id=14551"
+  - "/14551"
+tiki_page_id: 14551
 date: 2023-07-22
 categories:
   - "Pain - chronic"

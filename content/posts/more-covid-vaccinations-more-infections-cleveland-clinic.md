@@ -3,7 +3,8 @@ title: "More COVID vaccinations, more infections - Cleveland Clinic"
 slug: "more-covid-vaccinations-more-infections-cleveland-clinic"
 aliases:
   - "/More+COVID+vaccinations+more+infections+-+Cleveland+Clinic+-+Dec+2022"
-  - "/tiki-index.php?page_id=14191"
+  - "/14191"
+tiki_page_id: 14191
 date: 2023-01-05
 categories:
   - "Virus"

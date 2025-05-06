@@ -3,7 +3,8 @@ title: "Less vitamin D from the sun if it is too hot to be outside (now noticed 
 slug: "less-vitamin-d-from-the-sun-if-it-is-too-hot-to-be-outside-now-noticed-in-china"
 aliases:
   - "/Less+vitamin+D+from+the+sun+if+it+is+too+hot+to+be+outside+now+noticed+in+China+-+March+2023"
-  - "/tiki-index.php?page_id=14332"
+  - "/14332"
+tiki_page_id: 14332
 date: 2023-03-25
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "Severe COVID-19 risk similarly reduced by Vitamin D and plant-based diet
 slug: "severe-covid-19-risk-similarly-reduced-by-vitamin-d-and-plant-based-diets"
 aliases:
   - "/Severe+COVID-19+risk+similarly+reduced+by+Vitamin+D+and+plant-based+diets+–+June+2021"
-  - "/tiki-index.php?page_id=12779"
+  - "/12779"
+tiki_page_id: 12779
 date: 2021-07-29
 categories:
   - "Virus"

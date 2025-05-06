@@ -3,7 +3,8 @@ title: "Risk of severe ADHD increased 2X if multiple pesticides in urine while p
 slug: "risk-of-severe-adhd-increased-2x-if-multiple-pesticides-in-urine-while-pregnant"
 aliases:
   - "/Risk+of+severe+ADHD+increased+2X+if+multiple+pesticides+in+urine+while+pregnant+–+June+2019"
-  - "/tiki-index.php?page_id=10962"
+  - "/10962"
+tiki_page_id: 10962
 date: 2019-07-09
 categories:
   - "Interactions with Vitamin D"

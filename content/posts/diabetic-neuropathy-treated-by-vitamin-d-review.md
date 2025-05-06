@@ -3,7 +3,8 @@ title: "Diabetic Neuropathy treated by Vitamin D – review"
 slug: "diabetic-neuropathy-treated-by-vitamin-d-review"
 aliases:
   - "/Diabetic+Neuropathy+treated+by+Vitamin+D+–+review+April+2022"
-  - "/tiki-index.php?page_id=13490"
+  - "/13490"
+tiki_page_id: 13490
 date: 2022-04-16
 categories:
   - "Diabetes"

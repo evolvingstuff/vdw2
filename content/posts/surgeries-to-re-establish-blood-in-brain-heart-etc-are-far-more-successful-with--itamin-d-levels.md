@@ -3,7 +3,8 @@ title: "Surgeries to re-establish blood in brain, heart, etc. are far more succe
 slug: "surgeries-to-re-establish-blood-in-brain-heart-etc-are-far-more-successful-with--itamin-d-levels"
 aliases:
   - "/Surgeries+to+re-establish+blood+in+brain+heart+etc+are+far+more+successful+with+high+Vitamin+D+levels+–+March+2022"
-  - "/tiki-index.php?page_id=13992"
+  - "/13992"
+tiki_page_id: 13992
 date: 2022-10-07
 categories:
   - "Cardiovascular"

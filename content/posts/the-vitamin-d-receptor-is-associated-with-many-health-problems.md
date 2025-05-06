@@ -3,7 +3,8 @@ title: "The Vitamin D Receptor is associated with many health problems"
 slug: "the-vitamin-d-receptor-is-associated-with-many-health-problems"
 aliases:
   - "/The+Vitamin+D+Receptor+is+associated+with+many+health+problems"
-  - "/tiki-index.php?page_id=13213"
+  - "/13213"
+tiki_page_id: 13213
 date: 2021-12-24
 categories:
   - "Vitamin D Receptor"

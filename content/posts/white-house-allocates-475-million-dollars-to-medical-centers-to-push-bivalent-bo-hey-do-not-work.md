@@ -3,7 +3,8 @@ title: "White House allocates 475 million dollars to medical centers to push biv
 slug: "white-house-allocates-475-million-dollars-to-medical-centers-to-push-bivalent-bo-hey-do-not-work"
 aliases:
   - "/White+House+allocates+475+million+dollars+to+medical+centers+to+push+bivalent+boosters+but+they+do+not+work+-+Nov+2022"
-  - "/tiki-index.php?page_id=14103"
+  - "/14103"
+tiki_page_id: 14103
 date: 2022-11-23
 categories:
   - "Virus"

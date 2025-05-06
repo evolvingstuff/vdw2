@@ -3,7 +3,8 @@ title: "2017 Flu in Australia was bad and 79,000 died in US, 2019 Flu in Austral
 slug: "2017-flu-in-australia-was-bad-and-79000-died-in-us-2019-flu-in-australia-was-wor-t-and-vitamin-d"
 aliases:
   - "/2017+Flu+in+Australia+was+bad+and+79000+died+in+US+2019+Flu+in+Australia+was+worse+get+flu+shot+AND+Vitamin+D"
-  - "/tiki-index.php?page_id=11204"
+  - "/11204"
+tiki_page_id: 11204
 date: 2019-10-04
 categories:
   - "Top news"

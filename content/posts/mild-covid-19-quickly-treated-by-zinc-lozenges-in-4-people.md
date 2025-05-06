@@ -3,7 +3,8 @@ title: "Mild COVID-19 quickly treated by Zinc lozenges in 4 people"
 slug: "mild-covid-19-quickly-treated-by-zinc-lozenges-in-4-people"
 aliases:
   - "/Mild+COVID-19+quickly+treated+by+Zinc+lozenges+in+4+people+–+June+6+2020"
-  - "/tiki-index.php?page_id=11805"
+  - "/11805"
+tiki_page_id: 11805
 date: 2020-06-14
 categories:
   - "Immunity"

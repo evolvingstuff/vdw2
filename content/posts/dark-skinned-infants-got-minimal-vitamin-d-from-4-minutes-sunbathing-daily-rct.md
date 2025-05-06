@@ -3,7 +3,8 @@ title: "Dark-skinned infants got minimal vitamin D from 4 minutes sunbathing dai
 slug: "dark-skinned-infants-got-minimal-vitamin-d-from-4-minutes-sunbathing-daily-rct"
 aliases:
   - "/Dark-skinned+infants+got+minimal+vitamin+D+from+4+minutes+sunbathing+daily+–+RCT+Nov+2022"
-  - "/tiki-index.php?page_id=14089"
+  - "/14089"
+tiki_page_id: 14089
 date: 2022-11-16
 categories:
   - "Noontime sun and D"

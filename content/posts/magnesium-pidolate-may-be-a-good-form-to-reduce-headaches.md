@@ -3,7 +3,8 @@ title: "Magnesium Pidolate may be a good form to reduce headaches"
 slug: "magnesium-pidolate-may-be-a-good-form-to-reduce-headaches"
 aliases:
   - "/Magnesium+Pidolate+may+be+a+good+form+to+reduce+headaches+–+Aug+2020"
-  - "/tiki-index.php?page_id=15065"
+  - "/15065"
+tiki_page_id: 15065
 date: 2024-02-20
 categories:
   - "Vitamin D and Magnesium"

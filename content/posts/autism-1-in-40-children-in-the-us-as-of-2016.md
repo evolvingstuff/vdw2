@@ -3,7 +3,8 @@ title: "Autism – 1 in 40 children in the US (as of 2016)"
 slug: "autism-1-in-40-children-in-the-us-as-of-2016"
 aliases:
   - "/Autism+–+1+in+40+children+in+the+US+as+of+2016+–+Nov+2018"
-  - "/tiki-index.php?page_id=10238"
+  - "/10238"
+tiki_page_id: 10238
 date: 2018-11-26
 categories:
   - "Autism"

@@ -3,7 +3,8 @@ title: "Recurrent pregnancy loss – Low Vitamin D is a suspected risk factor"
 slug: "recurrent-pregnancy-loss-low-vitamin-d-is-a-suspected-risk-factor"
 aliases:
   - "/Recurrent+pregnancy+loss+–+Low+Vitamin+D+is+a+suspected+risk+factor+–+Sept+2018"
-  - "/tiki-index.php?page_id=10061"
+  - "/10061"
+tiki_page_id: 10061
 date: 2018-09-24
 categories:
   - "Pregnancy"

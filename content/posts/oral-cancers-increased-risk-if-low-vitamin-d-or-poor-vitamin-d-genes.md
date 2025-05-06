@@ -3,7 +3,8 @@ title: "Oral Cancers - increased risk if low vitamin D or poor vitamin D genes"
 slug: "oral-cancers-increased-risk-if-low-vitamin-d-or-poor-vitamin-d-genes"
 aliases:
   - "/Oral+Cancers+-+increased+risk+if+low+vitamin+D+or+poor+vitamin+D+genes"
-  - "/tiki-index.php?page_id=12251"
+  - "/12251"
+tiki_page_id: 12251
 date: 2021-01-22
 categories:
   - "Genetics"

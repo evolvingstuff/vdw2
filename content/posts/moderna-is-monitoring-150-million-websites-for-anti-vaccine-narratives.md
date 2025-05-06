@@ -3,7 +3,8 @@ title: "Moderna is monitoring 150 million websites for ‘Anti-Vaccine’ Narrat
 slug: "moderna-is-monitoring-150-million-websites-for-anti-vaccine-narratives"
 aliases:
   - "/Moderna+is+monitoring+150+million+websites+for+Anti-Vaccine+Narratives+-+Nov+2023"
-  - "/tiki-index.php?page_id=14827"
+  - "/14827"
+tiki_page_id: 14827
 date: 2023-11-21
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Emergency treatments if get COVID-19 symptoms"
 slug: "emergency-treatments-if-get-covid-19-symptoms"
 aliases:
   - "/Emergency+treatments+if+get+COVID-19+symptoms+-+Oct+2021"
-  - "/tiki-index.php?page_id=12944"
+  - "/12944"
+tiki_page_id: 12944
 date: 2021-10-01
 categories:
   - "Virus"

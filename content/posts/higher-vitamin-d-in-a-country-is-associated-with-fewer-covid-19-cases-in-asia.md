@@ -3,7 +3,8 @@ title: "Higher vitamin D in a country is associated with fewer COVID-19 cases (i
 slug: "higher-vitamin-d-in-a-country-is-associated-with-fewer-covid-19-cases-in-asia"
 aliases:
   - "/Higher+vitamin+D+in+a+country+is+associated+with+fewer+COVID-19+cases+in+Asia+Feb+3+2021"
-  - "/tiki-index.php?page_id=12292"
+  - "/12292"
+tiki_page_id: 12292
 date: 2021-02-03
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D given slowly in hospital did not fight COVID-19 much"
 slug: "vitamin-d-given-slowly-in-hospital-did-not-fight-covid-19-much"
 aliases:
   - "/Vitamin+D+given+slowly+in+hospital+did+not+fight+COVID-19+much+-+Nov+2021"
-  - "/tiki-index.php?page_id=13077"
+  - "/13077"
+tiki_page_id: 13077
 date: 2021-11-12
 categories:
   - "Intervention"

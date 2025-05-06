@@ -3,7 +3,8 @@ title: "Allergic Rhinitis in infants treated by 1,000 IU vitamin D daily"
 slug: "allergic-rhinitis-in-infants-treated-by-1000-iu-vitamin-d-daily"
 aliases:
   - "/Allergic+Rhinitis+in+infants+treated+by+1000+IU+vitamin+D+daily+–+June+2019"
-  - "/tiki-index.php?page_id=10941"
+  - "/10941"
+tiki_page_id: 10941
 date: 2019-06-30
 categories:
   - "Deficiency of Vitamin D"

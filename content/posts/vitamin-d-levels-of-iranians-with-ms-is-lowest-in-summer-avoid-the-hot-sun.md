@@ -3,7 +3,8 @@ title: "Vitamin D levels of Iranians with MS is lowest in summer (avoid the hot 
 slug: "vitamin-d-levels-of-iranians-with-ms-is-lowest-in-summer-avoid-the-hot-sun"
 aliases:
   - "/Vitamin+D+levels+of+Iranians+with+MS+is+lowest+in+summer+avoid+the+hot+sun+–+Aug+2019"
-  - "/tiki-index.php?page_id=11203"
+  - "/11203"
+tiki_page_id: 11203
 date: 2019-10-04
 ---
 

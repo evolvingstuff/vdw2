@@ -3,7 +3,8 @@ title: "Colorectal cancer in young adults increased 80% in 2 decades - Sept. 202
 slug: "colorectal-cancer-in-young-adults-increased-80-percent-in-2-decades-sept-2023"
 aliases:
   - "/Colorectal+cancer+in+young+adults+increased+80+in+2+decades+-+Sept+2023"
-  - "/tiki-index.php?page_id=14725"
+  - "/14725"
+tiki_page_id: 14725
 date: 2023-10-04
 categories:
   - "Cancer - Colon"

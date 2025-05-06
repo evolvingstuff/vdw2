@@ -3,7 +3,8 @@ title: "Giving vitamin D stopped bone loss, stopping vitamin D let the bone loss
 slug: "giving-vitamin-d-stopped-bone-loss-stopping-vitamin-d-let-the-bone-loss-continue-rct"
 aliases:
   - "/Giving+vitamin+D+stopped+bone+loss+stopping+vitamin+D+let+the+bone+loss+continue+–+RCT+–+Feb+2021"
-  - "/tiki-index.php?page_id=12359"
+  - "/12359"
+tiki_page_id: 12359
 date: 2021-02-28
 ---
 

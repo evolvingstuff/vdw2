@@ -3,7 +3,8 @@ title: "Why So Much Of The Nutritional Medicine Research Is Flawed"
 slug: "why-so-much-of-the-nutritional-medicine-research-is-flawed"
 aliases:
   - "/Why+So+Much+Of+The+Nutritional+Medicine+Research+Is+Flawed+–+Feb+2019"
-  - "/tiki-index.php?page_id=10933"
+  - "/10933"
+tiki_page_id: 10933
 date: 2019-06-30
 categories:
   - "Supplement"

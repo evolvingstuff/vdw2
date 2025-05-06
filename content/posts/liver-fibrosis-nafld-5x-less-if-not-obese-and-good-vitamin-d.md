@@ -3,7 +3,8 @@ title: "Liver Fibrosis (NAFLD) 5X less if not obese and good Vitamin D"
 slug: "liver-fibrosis-nafld-5x-less-if-not-obese-and-good-vitamin-d"
 aliases:
   - "/Liver+Fibrosis+NAFLD+5X+less+if+not+obese+and+good+Vitamin+D+-+Oct+2023"
-  - "/tiki-index.php?page_id=14773"
+  - "/14773"
+tiki_page_id: 14773
 date: 2023-10-23
 categories:
   - "Liver"

@@ -3,7 +3,8 @@ title: "Potassium helps bones by increasing the absorption of both Calcium and V
 slug: "potassium-helps-bones-by-increasing-the-absorption-of-both-calcium-and-vitamin-d"
 aliases:
   - "/Potassium+helps+bones+by+increasing+the+absorption+of+both+Calcium+and+Vitamin+D+–+Feb+2024"
-  - "/tiki-index.php?page_id=15046"
+  - "/15046"
+tiki_page_id: 15046
 date: 2024-02-13
 categories:
   - "Bone - Health"

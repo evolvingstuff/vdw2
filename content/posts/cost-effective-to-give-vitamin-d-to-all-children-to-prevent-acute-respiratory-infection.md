@@ -3,7 +3,8 @@ title: "Cost-effective to give Vitamin D to all children to prevent acute respir
 slug: "cost-effective-to-give-vitamin-d-to-all-children-to-prevent-acute-respiratory-infection"
 aliases:
   - "/Cost-effective+to+give+Vitamin+D+to+all+children+to+prevent+acute+respiratory+infection+–+April+2023"
-  - "/tiki-index.php?page_id=14363"
+  - "/14363"
+tiki_page_id: 14363
 date: 2023-04-07
 categories:
   - "Infant-Child"

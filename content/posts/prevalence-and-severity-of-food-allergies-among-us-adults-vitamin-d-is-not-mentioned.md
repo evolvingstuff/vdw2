@@ -3,7 +3,8 @@ title: "Prevalence and Severity of Food Allergies Among US Adults (vitamin D is 
 slug: "prevalence-and-severity-of-food-allergies-among-us-adults-vitamin-d-is-not-mentioned"
 aliases:
   - "/Prevalence+and+Severity+of+Food+Allergies+Among+US+Adults+vitamin+D+is+not+mentioned+–+Jan+2019"
-  - "/tiki-index.php?page_id=10615"
+  - "/10615"
+tiki_page_id: 10615
 date: 2019-03-24
 ---
 

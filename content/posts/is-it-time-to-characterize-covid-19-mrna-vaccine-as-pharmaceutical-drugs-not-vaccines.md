@@ -3,7 +3,8 @@ title: "Is it Time to Characterize COVID-19 mRNA Vaccine as Pharmaceutical Drugs
 slug: "is-it-time-to-characterize-covid-19-mrna-vaccine-as-pharmaceutical-drugs-not-vaccines"
 aliases:
   - "/Is+it+Time+to+Characterize+COVID-19+mRNA+Vaccine+as+Pharmaceutical+Drugs+NOT+Vaccines+-+Oct+2022"
-  - "/tiki-index.php?page_id=14013"
+  - "/14013"
+tiki_page_id: 14013
 date: 2022-10-16
 categories:
   - "Virus"

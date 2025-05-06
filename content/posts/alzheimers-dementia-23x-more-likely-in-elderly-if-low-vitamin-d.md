@@ -3,7 +3,8 @@ title: "Alzheimer’s Dementia 2.3X more likely in elderly if low vitamin D"
 slug: "alzheimers-dementia-23x-more-likely-in-elderly-if-low-vitamin-d"
 aliases:
   - "/Alzheimers+Dementia+23X+more+likely+in+elderly+if+low+vitamin+D+–+Dec+2022"
-  - "/tiki-index.php?page_id=14193"
+  - "/14193"
+tiki_page_id: 14193
 date: 2023-01-06
 categories:
   - "Cognitive"

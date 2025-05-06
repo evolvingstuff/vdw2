@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency a Brain Disruptor - Spring 2019"
 slug: "vitamin-d-deficiency-a-brain-disruptor-spring-2019"
 aliases:
   - "/Vitamin+D+Deficiency+a+Brain+Disruptor+-+Spring+2019"
-  - "/tiki-index.php?page_id=10875"
+  - "/10875"
+tiki_page_id: 10875
 date: 2019-06-14
 categories:
   - "Cognitive"

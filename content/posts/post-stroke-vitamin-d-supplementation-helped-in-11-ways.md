@@ -3,7 +3,8 @@ title: "Post-stroke Vitamin D supplementation helped in 11 ways"
 slug: "post-stroke-vitamin-d-supplementation-helped-in-11-ways"
 aliases:
   - "/Post-stroke+Vitamin+D+supplementation+helped+in+11+ways+–+May+2023"
-  - "/tiki-index.php?page_id=14418"
+  - "/14418"
+tiki_page_id: 14418
 date: 2023-05-11
 categories:
   - "Evidence for D"

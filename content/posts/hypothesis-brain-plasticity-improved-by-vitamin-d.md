@@ -3,7 +3,8 @@ title: "Hypothesis – Brain plasticity improved by Vitamin D"
 slug: "hypothesis-brain-plasticity-improved-by-vitamin-d"
 aliases:
   - "/Hypothesis+–+Brain+plasticity+improved+by+Vitamin+D+–+Feb+2019"
-  - "/tiki-index.php?page_id=10504"
+  - "/10504"
+tiki_page_id: 10504
 date: 2019-02-20
 categories:
   - "Depression"

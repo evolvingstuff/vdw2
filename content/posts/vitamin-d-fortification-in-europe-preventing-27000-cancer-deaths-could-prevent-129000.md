@@ -3,7 +3,8 @@ title: "Vitamin D fortification in Europe preventing 27,000 Cancer deaths, could
 slug: "vitamin-d-fortification-in-europe-preventing-27000-cancer-deaths-could-prevent-129000"
 aliases:
   - "/Vitamin+D+fortification+in+Europe+preventing+27000+Cancer+deaths+could+prevent+129000+–+May+2022"
-  - "/tiki-index.php?page_id=14641"
+  - "/14641"
+tiki_page_id: 14641
 date: 2023-08-28
 categories:
   - "Cancer"

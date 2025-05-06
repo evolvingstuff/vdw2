@@ -3,7 +3,8 @@ title: "Genes evolve to adapt to excess or low vitamin D (Eskimo, Reindeer, etc.
 slug: "genes-evolve-to-adapt-to-excess-or-low-vitamin-d-eskimo-reindeer-etc"
 aliases:
   - "/Genes+evolve+to+adapt+to+excess+or+low+vitamin+D+Eskimo+Reindeer+etc+–+June+2019"
-  - "/tiki-index.php?page_id=10909"
+  - "/10909"
+tiki_page_id: 10909
 date: 2019-06-21
 categories:
   - "Vitamin D Far from equator"

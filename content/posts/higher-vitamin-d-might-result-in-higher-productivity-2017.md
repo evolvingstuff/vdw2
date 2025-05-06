@@ -3,7 +3,8 @@ title: "Higher vitamin D might result in higher productivity – 2017"
 slug: "higher-vitamin-d-might-result-in-higher-productivity-2017"
 aliases:
   - "/Higher+vitamin+D+might+result+in+higher+productivity+–+2017"
-  - "/tiki-index.php?page_id=10159"
+  - "/10159"
+tiki_page_id: 10159
 date: 2018-10-26
 categories:
   - "Cost savings with Vitamin D"

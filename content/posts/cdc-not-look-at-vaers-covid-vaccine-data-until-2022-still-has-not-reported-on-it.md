@@ -3,7 +3,8 @@ title: "CDC not look at VAERS COVID vaccine data until 2022, still has not repor
 slug: "cdc-not-look-at-vaers-covid-vaccine-data-until-2022-still-has-not-reported-on-it"
 aliases:
   - "/CDC+not+look+at+VAERS+COVID+vaccine+data+until+2022+still+has+not+reported+on+it+-+Jan+2023"
-  - "/tiki-index.php?page_id=14199"
+  - "/14199"
+tiki_page_id: 14199
 date: 2023-01-07
 categories:
   - "Virus"

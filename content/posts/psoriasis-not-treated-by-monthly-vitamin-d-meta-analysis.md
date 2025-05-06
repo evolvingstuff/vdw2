@@ -3,7 +3,8 @@ title: "Psoriasis not treated by monthly Vitamin D -meta-analysis"
 slug: "psoriasis-not-treated-by-monthly-vitamin-d-meta-analysis"
 aliases:
   - "/Psoriasis+not+treated+by+monthly+Vitamin+D+-meta-analysis+July+2023"
-  - "/tiki-index.php?page_id=14580"
+  - "/14580"
+tiki_page_id: 14580
 date: 2023-08-02
 categories:
   - "Psoriasis"

@@ -3,7 +3,8 @@ title: "Long-haul fatigue, etc. common after viral infections (SARS1,2, MERS, Sw
 slug: "long-haul-fatigue-etc-common-after-viral-infections-sars12-mers-swine-1918"
 aliases:
   - "/Long-haul+fatigue+etc+common+after+viral+infections+SARS12+MERS+Swine+1918"
-  - "/tiki-index.php?page_id=11925"
+  - "/11925"
+tiki_page_id: 11925
 date: 2020-08-29
 categories:
   - "Virus"

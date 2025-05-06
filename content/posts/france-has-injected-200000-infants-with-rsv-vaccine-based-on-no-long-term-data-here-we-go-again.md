@@ -3,7 +3,8 @@ title: "France has injected 200,000 infants with RSV vaccine, based on no long-t
 slug: "france-has-injected-200000-infants-with-rsv-vaccine-based-on-no-long-term-data-here-we-go-again"
 aliases:
   - "/France+has+injected+200000+infants+with+RSV+vaccine+based+on+no+long-term+data+-+Here+we+go+again+-+Dec+2023"
-  - "/tiki-index.php?page_id=14925"
+  - "/14925"
+tiki_page_id: 14925
 date: 2023-12-27
 categories:
   - "Breathing"

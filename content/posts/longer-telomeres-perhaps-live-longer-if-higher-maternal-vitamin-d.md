@@ -3,7 +3,8 @@ title: "Longer telomeres (perhaps live longer) if higher maternal vitamin D"
 slug: "longer-telomeres-perhaps-live-longer-if-higher-maternal-vitamin-d"
 aliases:
   - "/Longer+telomeres+perhaps+live+longer+if+higher+maternal+vitamin+D+–+May+2022"
-  - "/tiki-index.php?page_id=13575"
+  - "/13575"
+tiki_page_id: 13575
 date: 2022-05-19
 categories:
   - "Genetics"

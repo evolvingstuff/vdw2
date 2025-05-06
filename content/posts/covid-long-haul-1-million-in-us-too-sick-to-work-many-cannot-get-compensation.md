@@ -3,7 +3,8 @@ title: "COVID long-haul: 1 million in US too sick to work, many cannot get compe
 slug: "covid-long-haul-1-million-in-us-too-sick-to-work-many-cannot-get-compensation"
 aliases:
   - "/COVID+long-haul+1+million+in+US+too+sick+to+work+many+cannot+get+compensation+-+March+2021"
-  - "/tiki-index.php?page_id=13380"
+  - "/13380"
+tiki_page_id: 13380
 date: 2022-03-09
 categories:
   - "Virus"

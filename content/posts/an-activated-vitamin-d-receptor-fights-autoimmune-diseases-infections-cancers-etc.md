@@ -3,7 +3,8 @@ title: "An activated Vitamin D Receptor fights Autoimmune Diseases, Infections, 
 slug: "an-activated-vitamin-d-receptor-fights-autoimmune-diseases-infections-cancers-etc"
 aliases:
   - "/An+activated+Vitamin+D+Receptor+fights+Autoimmune+Diseases+Infections+Cancers+etc+–+Dec+2023"
-  - "/tiki-index.php?page_id=14968"
+  - "/14968"
+tiki_page_id: 14968
 date: 2024-01-13
 categories:
   - "Autoimmune"

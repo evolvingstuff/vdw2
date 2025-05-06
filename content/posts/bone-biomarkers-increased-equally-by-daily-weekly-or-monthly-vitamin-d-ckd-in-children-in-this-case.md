@@ -3,7 +3,8 @@ title: "Bone biomarkers increased equally by daily, weekly, or monthly Vitamin D
 slug: "bone-biomarkers-increased-equally-by-daily-weekly-or-monthly-vitamin-d-ckd-in-children-in-this-case"
 aliases:
   - "/Bone+biomarkers+increased+equally+by+daily+weekly+or+monthly+Vitamin+D+CKD+in+children+in+this+case+–+Nov+2022"
-  - "/tiki-index.php?page_id=14066"
+  - "/14066"
+tiki_page_id: 14066
 date: 2022-11-02
 categories:
   - "Bone - Health"

@@ -3,7 +3,8 @@ title: "COVID worse if lower Vitamin C, but not Vitamin D in this study"
 slug: "covid-worse-if-lower-vitamin-c-but-not-vitamin-d-in-this-study"
 aliases:
   - "/COVID+worse+if+lower+Vitamin+C+but+not+Vitamin+D+in+this+study+–+Aug+2022"
-  - "/tiki-index.php?page_id=13866"
+  - "/13866"
+tiki_page_id: 13866
 date: 2022-08-26
 categories:
   - "Virus"

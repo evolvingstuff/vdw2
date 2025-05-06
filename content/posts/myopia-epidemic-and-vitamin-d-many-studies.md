@@ -3,7 +3,8 @@ title: "Myopia epidemic and Vitamin D - many studies"
 slug: "myopia-epidemic-and-vitamin-d-many-studies"
 aliases:
   - "/Myopia+epidemic+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14515"
+  - "/14515"
+tiki_page_id: 14515
 date: 2023-07-03
 categories:
   - "Vision"

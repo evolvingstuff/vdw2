@@ -3,7 +3,8 @@ title: "Women with Breast Cancer were 16.9 times more likely to have a poor Vita
 slug: "women-with-breast-cancer-were-169-times-more-likely-to-have-a-poor-vitamin-d-receptor"
 aliases:
   - "/Women+with+Breast+Cancer+were+169+times+more+likely+to+have+a+poor+Vitamin+D+Receptor+–+Jan+2019"
-  - "/tiki-index.php?page_id=10432"
+  - "/10432"
+tiki_page_id: 10432
 date: 2019-01-27
 categories:
   - "Cancer - Breast"

@@ -3,7 +3,8 @@ title: "10,000 IU of Vitamin D for 3 years found to help bone by two measurement
 slug: "10000-iu-of-vitamin-d-for-3-years-found-to-help-bone-by-two-measurement-methods-rct"
 aliases:
   - "/10000+IU+of+Vitamin+D+for+3+years+found+to+help+bone+by+two+measurement+methods+–+RCT+Feb+2022"
-  - "/tiki-index.php?page_id=13357"
+  - "/13357"
+tiki_page_id: 13357
 date: 2022-02-27
 categories:
   - "Bone - Health"

@@ -3,7 +3,8 @@ title: "CDC and UK data reveal the COVID vaccines do not prevent cases, transmis
 slug: "cdc-and-uk-data-reveal-the-covid-vaccines-do-not-prevent-cases-transmission-severe-illness-or-deaths"
 aliases:
   - "/CDC+and+UK+data+reveal+the+COVID+vaccines+do+not+prevent+cases+transmission+severe+illness+or+deaths+-+April+3+2022"
-  - "/tiki-index.php?page_id=13450"
+  - "/13450"
+tiki_page_id: 13450
 date: 2022-04-04
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Temporary hair loss (Telogen Effluvium) treated by Vitamin D (200,000 IU
 slug: "temporary-hair-loss-telogen-effluvium-treated-by-vitamin-d-200000-iu-twice-a-month"
 aliases:
   - "/Temporary+hair+loss+Telogen+Effluvium+treated+by+Vitamin+D+200000+IU+twice+a+month+-+March+2021"
-  - "/tiki-index.php?page_id=12373"
+  - "/12373"
+tiki_page_id: 12373
 date: 2021-03-03
 categories:
   - "Autoimmune"

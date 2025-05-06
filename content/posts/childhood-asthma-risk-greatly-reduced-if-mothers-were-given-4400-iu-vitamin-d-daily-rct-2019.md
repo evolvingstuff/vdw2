@@ -3,7 +3,8 @@ title: "Childhood Asthma risk greatly reduced if mothers were given 4,400 IU Vit
 slug: "childhood-asthma-risk-greatly-reduced-if-mothers-were-given-4400-iu-vitamin-d-daily-rct-2019"
 aliases:
   - "/Childhood+Asthma+risk+greatly+reduced+if+mothers+were+given+4400+IU+Vitamin+D+daily+–+RCT+2019"
-  - "/tiki-index.php?page_id=10376"
+  - "/10376"
+tiki_page_id: 10376
 date: 2019-01-05
 categories:
   - "Breathing"

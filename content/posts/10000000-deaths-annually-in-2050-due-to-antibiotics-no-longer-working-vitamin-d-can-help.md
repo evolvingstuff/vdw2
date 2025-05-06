@@ -3,7 +3,8 @@ title: "10,000,000 deaths annually in 2050 due to antibiotics no longer working 
 slug: "10000000-deaths-annually-in-2050-due-to-antibiotics-no-longer-working-vitamin-d-can-help"
 aliases:
   - "/10000000+deaths+annually+in+2050+due+to+antibiotics+no+longer+working+vitamin+D+can+help"
-  - "/tiki-index.php?page_id=12681"
+  - "/12681"
+tiki_page_id: 12681
 date: 2021-06-24
 categories:
   - "Immunity"

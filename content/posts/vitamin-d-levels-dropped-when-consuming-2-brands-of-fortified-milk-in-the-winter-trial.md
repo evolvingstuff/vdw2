@@ -3,7 +3,8 @@ title: "Vitamin D levels dropped when consuming 2 brands of fortified milk in th
 slug: "vitamin-d-levels-dropped-when-consuming-2-brands-of-fortified-milk-in-the-winter-trial"
 aliases:
   - "/Vitamin+D+levels+dropped+when+consuming+2+brands+of+fortified+milk+in+the+winter–+trial+June+2018"
-  - "/tiki-index.php?page_id=10664"
+  - "/10664"
+tiki_page_id: 10664
 date: 2019-04-13
 categories:
   - "Fortification with Vitamin D"

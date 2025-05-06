@@ -3,7 +3,8 @@ title: "Large dose Vitamin D taken in 32 long trials –adverse events were rare
 slug: "large-dose-vitamin-d-taken-in-32-long-trials-adverse-events-were-rare"
 aliases:
   - "/Large+dose+Vitamin+D+taken+in+32+long+trials+–adverse+events+were+rare+-+Dec+2018"
-  - "/tiki-index.php?page_id=10303"
+  - "/10303"
+tiki_page_id: 10303
 date: 2018-12-11
 categories:
   - "Toxicity of Vitamin D"

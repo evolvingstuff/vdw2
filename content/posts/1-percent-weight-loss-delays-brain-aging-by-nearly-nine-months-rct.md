@@ -3,7 +3,8 @@ title: "1 % weight loss delays brain aging by nearly nine months - RCT"
 slug: "1-percent-weight-loss-delays-brain-aging-by-nearly-nine-months-rct"
 aliases:
   - "/1+weight+loss+delays+brain+aging+by+nearly+nine+months+-+RCT+April+2023"
-  - "/tiki-index.php?page_id=14560"
+  - "/14560"
+tiki_page_id: 14560
 date: 2023-07-28
 ---
 

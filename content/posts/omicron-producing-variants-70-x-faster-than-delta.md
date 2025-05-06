@@ -3,7 +3,8 @@ title: "Omicron producing variants 70 X faster than Delta"
 slug: "omicron-producing-variants-70-x-faster-than-delta"
 aliases:
   - "/Omicron+producing+variants+70+X+faster+than+Delta+-+May+2022"
-  - "/tiki-index.php?page_id=13563"
+  - "/13563"
+tiki_page_id: 13563
 date: 2022-05-16
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Surgical Site Infection 4X more likely if low vitamin D"
 slug: "surgical-site-infection-4x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Surgical+Site+Infection+4X+more+likely+if+low+vitamin+D+–+Aug+2019"
-  - "/tiki-index.php?page_id=11086"
+  - "/11086"
+tiki_page_id: 11086
 date: 2019-08-20
 categories:
   - "Trauma and surgery"

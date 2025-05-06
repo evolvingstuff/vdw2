@@ -3,7 +3,8 @@ title: "Fertility is a function of vitamin D around each egg (follicular fluid) 
 slug: "fertility-is-a-function-of-vitamin-d-around-each-egg-follicular-fluid-many-studies"
 aliases:
   - "/Fertility+is+a+function+of+vitamin+D+around+each+egg+follicular+fluid+–+many+studies"
-  - "/tiki-index.php?page_id=13716"
+  - "/13716"
+tiki_page_id: 13716
 date: 2022-06-27
 categories:
   - "Fertility and sperm"

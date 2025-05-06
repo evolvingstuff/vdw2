@@ -3,7 +3,8 @@ title: "Hearing loss in seniors 2X more likely if low vitamin D"
 slug: "hearing-loss-in-seniors-2x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Hearing+loss+in+seniors+2X+more+likely+if+low+vitamin+D+–+Nov+2020"
-  - "/tiki-index.php?page_id=12095"
+  - "/12095"
+tiki_page_id: 12095
 date: 2020-11-29
 categories:
   - "Seniors"

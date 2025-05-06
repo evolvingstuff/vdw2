@@ -3,7 +3,8 @@ title: "Ivermectin and COVID-19 - many studies"
 slug: "ivermectin-and-covid-19-many-studies"
 aliases:
   - "/Ivermectin+and+COVID-19+-+many+studies"
-  - "/tiki-index.php?page_id=12259"
+  - "/12259"
+tiki_page_id: 12259
 date: 2021-01-25
 categories:
   - "Virus"

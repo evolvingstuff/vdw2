@@ -3,7 +3,8 @@ title: "Gestational diabetes risk reduced 1.5X by Vitamin D – meta-analysis"
 slug: "gestational-diabetes-risk-reduced-15x-by-vitamin-d-meta-analysis"
 aliases:
   - "/Gestational+diabetes+risk+reduced+15X+by+Vitamin+D+–+meta-analysis+March+2021"
-  - "/tiki-index.php?page_id=12425"
+  - "/12425"
+tiki_page_id: 12425
 date: 2021-03-22
 categories:
   - "Pregnancy"

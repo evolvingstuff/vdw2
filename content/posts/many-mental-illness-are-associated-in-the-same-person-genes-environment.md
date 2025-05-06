@@ -3,7 +3,8 @@ title: "Many mental illness are associated in the same person (genes, environmen
 slug: "many-mental-illness-are-associated-in-the-same-person-genes-environment"
 aliases:
   - "/Many+mental+illness+are+associated+in+the+same+person+genes+environment+–+March+2024"
-  - "/tiki-index.php?page_id=15104"
+  - "/15104"
+tiki_page_id: 15104
 date: 2024-03-05
 categories:
   - "Cognitive"

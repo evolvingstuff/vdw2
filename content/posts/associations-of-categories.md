@@ -3,7 +3,8 @@ title: "Associations of categories"
 slug: "associations-of-categories"
 aliases:
   - "/Associations+of+categories"
-  - "/tiki-index.php?page_id=13614"
+  - "/13614"
+tiki_page_id: 13614
 date: 2022-05-30
 categories:
   - "Category"

@@ -3,7 +3,8 @@ title: "Neurodegenerative diseases (AD, PD, MS, Dementia, etc.) fought by Vitami
 slug: "neurodegenerative-diseases-ad-pd-ms-dementia-etc-fought-by-vitamin-d-in-rodents"
 aliases:
   - "/Neurodegenerative+diseases+AD+PD+MS+Dementia+etc+fought+by+Vitamin+D+in+rodents+–+Jan+2023"
-  - "/tiki-index.php?page_id=14284"
+  - "/14284"
+tiki_page_id: 14284
 date: 2023-02-24
 ---
 

@@ -3,7 +3,8 @@ title: "Vitamin D dosing - many studies"
 slug: "vitamin-d-dosing-many-studies"
 aliases:
   - "/Vitamin+D+dosing+-+many+studies"
-  - "/tiki-index.php?page_id=15093"
+  - "/15093"
+tiki_page_id: 15093
 date: 2024-03-01
 ---
 

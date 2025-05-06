@@ -3,7 +3,8 @@ title: "COVID fought by Vitamin D: 2.3X less likely to die of COVID if supplemen
 slug: "covid-fought-by-vitamin-d-23x-less-likely-to-die-of-covid-if-supplemented-19-x-l-d-meta-analysis"
 aliases:
   - "/COVID+fought+by+Vitamin+D+23X+less+likely+to+die+of+COVID+if+supplemented+19+X+less+likely+to+become+infected+–+meta-analysis+March+2024"
-  - "/tiki-index.php?page_id=15182"
+  - "/15182"
+tiki_page_id: 15182
 date: 2024-03-31
 categories:
   - "Meta-analysis of Vitamin D"

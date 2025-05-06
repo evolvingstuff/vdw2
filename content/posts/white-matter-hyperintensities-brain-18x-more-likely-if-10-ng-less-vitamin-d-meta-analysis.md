@@ -3,7 +3,8 @@ title: "White Matter Hyperintensities (brain) 1.8X more likely if 10 ng less vit
 slug: "white-matter-hyperintensities-brain-18x-more-likely-if-10-ng-less-vitamin-d-meta-analysis"
 aliases:
   - "/White+Matter+Hyperintensities+brain+18X+more+likely+if+10+ng+less+vitamin+D+-+meta-analysis+Jan+2022"
-  - "/tiki-index.php?page_id=13306"
+  - "/13306"
+tiki_page_id: 13306
 date: 2022-01-31
 categories:
   - "Multiple Sclerosis"

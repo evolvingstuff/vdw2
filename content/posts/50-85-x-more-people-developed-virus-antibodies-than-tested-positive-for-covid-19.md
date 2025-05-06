@@ -3,7 +3,8 @@ title: "50-85 X more people developed virus antibodies than tested positive for 
 slug: "50-85-x-more-people-developed-virus-antibodies-than-tested-positive-for-covid-19"
 aliases:
   - "/50-85+X+more+people+developed+virus+antibodies+than+tested+positive+for+COVID-19+–+April+11+2020"
-  - "/tiki-index.php?page_id=11732"
+  - "/11732"
+tiki_page_id: 11732
 date: 2020-04-17
 categories:
   - "Virus"

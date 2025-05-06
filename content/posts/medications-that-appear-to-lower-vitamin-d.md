@@ -3,7 +3,8 @@ title: "Medications that appear to lower Vitamin D"
 slug: "medications-that-appear-to-lower-vitamin-d"
 aliases:
   - "/Medications+that+appear+to+lower+Vitamin+D+–+Aug+2021"
-  - "/tiki-index.php?page_id=14116"
+  - "/14116"
+tiki_page_id: 14116
 date: 2022-11-28
 categories:
   - "Interactions with Vitamin D"

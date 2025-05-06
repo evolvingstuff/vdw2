@@ -3,7 +3,8 @@ title: "Health problems running in family may be due to poor vitamin D (hyperten
 slug: "health-problems-running-in-family-may-be-due-to-poor-vitamin-d-hypertension-vdr-in-this-case"
 aliases:
   - "/Health+problems+running+in+family+may+be+due+to+poor+vitamin+D+hypertension+VDR+in+this+case+Sept+2022"
-  - "/tiki-index.php?page_id=13889"
+  - "/13889"
+tiki_page_id: 13889
 date: 2022-09-06
 categories:
   - "Hypertension"

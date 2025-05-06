@@ -3,7 +3,8 @@ title: "Lack of COVID-19 symptoms is 3X more likely if a specific HLA gene mutat
 slug: "lack-of-covid-19-symptoms-is-3x-more-likely-if-a-specific-hla-gene-mutation-hla--immune-diseases"
 aliases:
   - "/Lack+of+COVID-19+symptoms+is+3X+more+likely+if+a+specific+HLA+gene+mutation+HLA+is+related+to+autoimmune+diseases+–+June+2021"
-  - "/tiki-index.php?page_id=12639"
+  - "/12639"
+tiki_page_id: 12639
 date: 2021-06-06
 categories:
   - "Autoimmune"

@@ -3,7 +3,8 @@ title: "Low vitamin D newborns getting cows milk formula more likely to get alle
 slug: "low-vitamin-d-newborns-getting-cows-milk-formula-more-likely-to-get-allergies-rct"
 aliases:
   - "/Low+vitamin+D+newborns+getting+cows+milk+formula+more+likely+to+get+allergies+–+RCT+Oct+2019"
-  - "/tiki-index.php?page_id=11255"
+  - "/11255"
+tiki_page_id: 11255
 date: 2019-10-21
 ---
 

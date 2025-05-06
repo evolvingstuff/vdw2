@@ -3,7 +3,8 @@ title: "Kids play outdoors 12 minutes a day, outdoor play improves of health of 
 slug: "kids-play-outdoors-12-minutes-a-day-outdoor-play-improves-of-health-of-child-and-later-as-adult"
 aliases:
   - "/Kids+play+outdoors+12+minutes+a+day+outdoor+play+improves+of+health+of+child+and+later+as+adult–+July+2019"
-  - "/tiki-index.php?page_id=10984"
+  - "/10984"
+tiki_page_id: 10984
 date: 2019-07-13
 categories:
   - "Noontime sun and D"

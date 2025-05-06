@@ -3,7 +3,8 @@ title: "Vaccines increased your risk of dying of COVID in NZ - official data"
 slug: "vaccines-increased-your-risk-of-dying-of-covid-in-nz-official-data"
 aliases:
   - "/Vaccines+increased+your+risk+of+dying+of+COVID+in+NZ+-+official+data+-+Feb+2024"
-  - "/tiki-index.php?page_id=15062"
+  - "/15062"
+tiki_page_id: 15062
 date: 2024-02-19
 categories:
   - "Mortality and D"

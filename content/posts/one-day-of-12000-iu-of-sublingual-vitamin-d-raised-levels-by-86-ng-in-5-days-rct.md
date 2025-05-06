@@ -3,7 +3,8 @@ title: "One day of 12,000 IU of sublingual Vitamin D raised levels by 8.6 ng in 
 slug: "one-day-of-12000-iu-of-sublingual-vitamin-d-raised-levels-by-86-ng-in-5-days-rct"
 aliases:
   - "/One+day+of+12000+IU+of+sublingual+Vitamin+D+raised+levels+by+86+ng+in+5+days+–+RCT+July+2022"
-  - "/tiki-index.php?page_id=13902"
+  - "/13902"
+tiki_page_id: 13902
 date: 2022-09-11
 categories:
   - "Intervention"

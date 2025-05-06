@@ -3,7 +3,8 @@ title: "If ANY of these vaccination problems occur, the US will not accomplish h
 slug: "if-any-of-these-vaccination-problems-occur-the-us-will-not-accomplish-herd-immunity"
 aliases:
   - "/If+ANY+of+these+vaccination+problems+occur+the+US+will+not+accomplish+herd+immunity"
-  - "/tiki-index.php?page_id=12434"
+  - "/12434"
+tiki_page_id: 12434
 date: 2021-03-25
 categories:
   - "Top news"

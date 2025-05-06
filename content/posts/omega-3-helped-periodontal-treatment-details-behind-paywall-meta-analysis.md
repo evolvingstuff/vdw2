@@ -3,7 +3,8 @@ title: "Omega-3 helped periodontal treatment (details behind paywall) - meta-ana
 slug: "omega-3-helped-periodontal-treatment-details-behind-paywall-meta-analysis"
 aliases:
   - "/Omega-3+helped+periodontal+treatment+details+behind+paywall+-+meta-analysis+Dec+2023"
-  - "/tiki-index.php?page_id=14861"
+  - "/14861"
+tiki_page_id: 14861
 date: 2023-12-05
 categories:
   - "Dental"

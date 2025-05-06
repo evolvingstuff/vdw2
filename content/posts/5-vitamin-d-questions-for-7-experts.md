@@ -3,7 +3,8 @@ title: "5 Vitamin D questions for 7 experts"
 slug: "5-vitamin-d-questions-for-7-experts"
 aliases:
   - "/5+Vitamin+D+questions+for+7+experts+–+Jan+2024"
-  - "/tiki-index.php?page_id=15018"
+  - "/15018"
+tiki_page_id: 15018
 date: 2024-02-02
 ---
 

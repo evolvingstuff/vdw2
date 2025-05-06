@@ -3,7 +3,8 @@ title: "Caffeine decreases Vitamin D in blood and cells - many studies"
 slug: "caffeine-decreases-vitamin-d-in-blood-and-cells-many-studies"
 aliases:
   - "/Caffeine+decreases+Vitamin+D+in+blood+and+cells+-+many+studies"
-  - "/tiki-index.php?page_id=14622"
+  - "/14622"
+tiki_page_id: 14622
 date: 2023-08-20
 categories:
   - "Deficiency of Vitamin D"

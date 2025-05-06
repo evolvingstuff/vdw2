@@ -3,7 +3,8 @@ title: "Benefits of Omega-3 plus Vitamin D were additive – RCT"
 slug: "benefits-of-omega-3-plus-vitamin-d-were-additive-rct"
 aliases:
   - "/Benefits+of+Omega-3+plus+Vitamin+D+were+additive+–+RCT+Sept+2021"
-  - "/tiki-index.php?page_id=12926"
+  - "/12926"
+tiki_page_id: 12926
 date: 2021-09-27
 categories:
   - "Depression"

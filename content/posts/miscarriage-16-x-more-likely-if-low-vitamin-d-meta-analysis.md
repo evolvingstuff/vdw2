@@ -3,7 +3,8 @@ title: "Miscarriage 1.6 X more likely if low vitamin D – meta-analysis"
 slug: "miscarriage-16-x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Miscarriage+16+X+more+likely+if+low+vitamin+D+–+meta-analysis+May+2022"
-  - "/tiki-index.php?page_id=13645"
+  - "/13645"
+tiki_page_id: 13645
 date: 2022-06-07
 categories:
   - "Pregnancy"

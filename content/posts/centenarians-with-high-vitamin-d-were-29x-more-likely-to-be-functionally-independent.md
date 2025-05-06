@@ -3,7 +3,8 @@ title: "Centenarians with high vitamin D were 2.9X more likely to be functionall
 slug: "centenarians-with-high-vitamin-d-were-29x-more-likely-to-be-functionally-independent"
 aliases:
   - "/Centenarians+with+high+vitamin+D+were+29X+more+likely+to+be+functionally+independent+–+Oct+2018"
-  - "/tiki-index.php?page_id=10144"
+  - "/10144"
+tiki_page_id: 10144
 date: 2018-10-20
 categories:
   - "Seniors"

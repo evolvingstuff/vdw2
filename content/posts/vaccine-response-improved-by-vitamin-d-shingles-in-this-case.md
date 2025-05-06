@@ -3,7 +3,8 @@ title: "Vaccine response improved by Vitamin D (Shingles in this case)"
 slug: "vaccine-response-improved-by-vitamin-d-shingles-in-this-case"
 aliases:
   - "/Vaccine+response+improved+by+Vitamin+D+Shingles+in+this+case+–+Jan+2021"
-  - "/tiki-index.php?page_id=12566"
+  - "/12566"
+tiki_page_id: 12566
 date: 2021-05-06
 categories:
   - "Seniors"

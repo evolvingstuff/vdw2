@@ -3,7 +3,8 @@ title: "Coronavirus travels on air pollution - many studies"
 slug: "coronavirus-travels-on-air-pollution-many-studies"
 aliases:
   - "/Coronavirus+travels+on+air+pollution+-+many+studies"
-  - "/tiki-index.php?page_id=11703"
+  - "/11703"
+tiki_page_id: 11703
 date: 2020-03-28
 categories:
   - "Virus"

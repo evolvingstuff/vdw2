@@ -3,7 +3,8 @@ title: "Chronic Kidney disease 15 X more likely if Vitamin D deficient (Chinese 
 slug: "chronic-kidney-disease-15-x-more-likely-if-vitamin-d-deficient-chinese-males"
 aliases:
   - "/Chronic+Kidney+disease+15+X+more+likely+if+Vitamin+D+deficient+Chinese+males+–+Sept+2023"
-  - "/tiki-index.php?page_id=14684"
+  - "/14684"
+tiki_page_id: 14684
 date: 2023-09-16
 categories:
   - "Kidney"

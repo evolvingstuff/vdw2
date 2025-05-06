@@ -3,7 +3,8 @@ title: "Vitamin D deficiency and co-morbidities in COVID-19 patients – A fatal
 slug: "vitamin-d-deficiency-and-co-morbidities-in-covid-19-patients-a-fatal-relationship"
 aliases:
   - "/Vitamin+D+deficiency+and+co-morbidities+in+COVID-19+patients+–+A+fatal+relationship+–+June+7+2020"
-  - "/tiki-index.php?page_id=11807"
+  - "/11807"
+tiki_page_id: 11807
 date: 2020-06-18
 categories:
   - "Virus"

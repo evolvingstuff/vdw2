@@ -3,7 +3,8 @@ title: "Long-COVID symptoms in 10 Percent of women 3 months after infection (22 
 slug: "long-covid-symptoms-in-10-percent-of-women-3-months-after-infection-22-countries"
 aliases:
   - "/Long-COVID+symptoms+in+10+Percent+of+women+3+months+after+infection+22+countries+–+Oct+2022"
-  - "/tiki-index.php?page_id=14055"
+  - "/14055"
+tiki_page_id: 14055
 date: 2022-10-29
 categories:
   - "Virus"

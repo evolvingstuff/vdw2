@@ -3,7 +3,8 @@ title: "Some Foot and ankle problems are treated by Vitamin D – many studies"
 slug: "some-foot-and-ankle-problems-are-treated-by-vitamin-d-many-studies"
 aliases:
   - "/Some+Foot+and+ankle+problems+are+treated+by+Vitamin+D+–+many+studies"
-  - "/tiki-index.php?page_id=11217"
+  - "/11217"
+tiki_page_id: 11217
 date: 2019-10-08
 categories:
   - "Bone - Health"

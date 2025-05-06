@@ -3,7 +3,8 @@ title: "Coimbra protocol using high-dose Vitamin D is safe"
 slug: "coimbra-protocol-using-high-dose-vitamin-d-is-safe"
 aliases:
   - "/Coimbra+protocol+using+high-dose+Vitamin+D+is+safe+–+April+2022"
-  - "/tiki-index.php?page_id=13466"
+  - "/13466"
+tiki_page_id: 13466
 date: 2022-04-10
 categories:
   - "Multiple Sclerosis"

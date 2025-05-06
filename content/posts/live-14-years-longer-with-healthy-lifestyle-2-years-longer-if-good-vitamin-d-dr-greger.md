@@ -3,7 +3,8 @@ title: "Live 14 years longer with healthy lifestyle (2 years longer if good vita
 slug: "live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger"
 aliases:
   - "/Live+14+years+longer+with+healthy+lifestyle+2+years+longer+if+good+vitamin+D+–+Dr+Greger+Oct+2019"
-  - "/tiki-index.php?page_id=11274"
+  - "/11274"
+tiki_page_id: 11274
 date: 2019-10-25
 categories:
   - "Greger"

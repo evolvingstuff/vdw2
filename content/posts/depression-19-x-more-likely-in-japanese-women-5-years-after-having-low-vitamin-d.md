@@ -3,7 +3,8 @@ title: "Depression 1.9 X more likely in Japanese women 5 years after having low 
 slug: "depression-19-x-more-likely-in-japanese-women-5-years-after-having-low-vitamin-d"
 aliases:
   - "/Depression+19+X+more+likely+in+Japanese+women+5+years+after+having+low+vitamin+D+-+March+2023"
-  - "/tiki-index.php?page_id=14263"
+  - "/14263"
+tiki_page_id: 14263
 date: 2023-02-14
 ---
 

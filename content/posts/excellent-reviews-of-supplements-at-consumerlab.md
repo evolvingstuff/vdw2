@@ -3,7 +3,8 @@ title: "Excellent reviews of supplements at ConsumerLab"
 slug: "excellent-reviews-of-supplements-at-consumerlab"
 aliases:
   - "/Excellent+reviews+of+supplements+at+ConsumerLab"
-  - "/tiki-index.php?page_id=13493"
+  - "/13493"
+tiki_page_id: 13493
 date: 2022-04-17
 categories:
   - "Supplement"

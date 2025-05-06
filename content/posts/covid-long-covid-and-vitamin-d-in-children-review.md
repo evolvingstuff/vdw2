@@ -3,7 +3,8 @@ title: "COVID, Long-COVID and Vitamin D in children - Review"
 slug: "covid-long-covid-and-vitamin-d-in-children-review"
 aliases:
   - "/COVID+Long-COVID+and+Vitamin+D+in+children+-+Review+April+2023"
-  - "/tiki-index.php?page_id=14528"
+  - "/14528"
+tiki_page_id: 14528
 date: 2023-07-09
 categories:
   - "Infant-Child"

@@ -3,7 +3,8 @@ title: "High levels of Selenium while pregnant associated with 21 percent more V
 slug: "high-levels-of-selenium-while-pregnant-associated-with-21-percent-more-vitamin-d"
 aliases:
   - "/High+levels+of+Selenium+while+pregnant+associated+with+21+percent+more+Vitamin+D+-+April+2022"
-  - "/tiki-index.php?page_id=13558"
+  - "/13558"
+tiki_page_id: 13558
 date: 2022-05-14
 ---
 

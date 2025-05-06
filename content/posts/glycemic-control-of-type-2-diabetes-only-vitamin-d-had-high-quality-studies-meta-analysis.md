@@ -3,7 +3,8 @@ title: "Glycemic control of type 2 diabetes – only Vitamin D had high quality 
 slug: "glycemic-control-of-type-2-diabetes-only-vitamin-d-had-high-quality-studies-meta-analysis"
 aliases:
   - "/Glycemic+control+of+type+2+diabetes+–+only+Vitamin+D+had+high+quality+studies+–+meta-analysis+Sept+2022"
-  - "/tiki-index.php?page_id=13909"
+  - "/13909"
+tiki_page_id: 13909
 date: 2022-09-13
 categories:
   - "Diabetes"

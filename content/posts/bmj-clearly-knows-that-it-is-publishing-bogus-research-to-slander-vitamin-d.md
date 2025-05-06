@@ -3,7 +3,8 @@ title: "BMJ clearly knows that it is publishing bogus research to slander vitami
 slug: "bmj-clearly-knows-that-it-is-publishing-bogus-research-to-slander-vitamin-d"
 aliases:
   - "/BMJ+clearly+knows+that+it+is+publishing+bogus+research+to+slander+vitamin+D+-+July+2023"
-  - "/tiki-index.php?page_id=14507"
+  - "/14507"
+tiki_page_id: 14507
 date: 2023-07-01
 ---
 

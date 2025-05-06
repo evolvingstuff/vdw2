@@ -3,7 +3,8 @@ title: "Instantly translate any VitaminDWiki page into any of 100 languages"
 slug: "instantly-translate-any-vitamindwiki-page-into-any-of-100-languages"
 aliases:
   - "/Instantly+translate+any+VitaminDWiki+page+into+any+of+100+languages"
-  - "/tiki-index.php?page_id=10579"
+  - "/10579"
+tiki_page_id: 10579
 date: 2019-03-17
 ---
 

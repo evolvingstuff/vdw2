@@ -3,7 +3,8 @@ title: "Small doses of vitamin D do not reduce risk of Acute Respiratory Infecti
 slug: "small-doses-of-vitamin-d-do-not-reduce-risk-of-acute-respiratory-infection-meta-analysis"
 aliases:
   - "/Small+doses+of+vitamin+D+do+not+reduce+risk+of+Acute+Respiratory+Infection+-+meta-analysis+Feb+2022"
-  - "/tiki-index.php?page_id=13336"
+  - "/13336"
+tiki_page_id: 13336
 date: 2022-02-15
 categories:
   - "Breathing"

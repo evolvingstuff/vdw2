@@ -3,7 +3,8 @@ title: "The FDA should consider vitamin D as a pharmaceutical agent for COVID"
 slug: "the-fda-should-consider-vitamin-d-as-a-pharmaceutical-agent-for-covid"
 aliases:
   - "/The+FDA+should+consider+vitamin+D+as+a+pharmaceutical+agent+for+COVID+-+Dec+21+2020"
-  - "/tiki-index.php?page_id=12166"
+  - "/12166"
+tiki_page_id: 12166
 date: 2020-12-21
 categories:
   - "Virus"

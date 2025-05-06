@@ -3,7 +3,8 @@ title: "10,000 COVID infections: Hospitalization 2.4X more likely if low vitamin
 slug: "10000-covid-infections-hospitalization-24x-more-likely-if-low-vitamin-d"
 aliases:
   - "/10000+COVID+infections+Hospitalization+24X+more+likely+if+low+vitamin+D+-+Oct+2022"
-  - "/tiki-index.php?page_id=14051"
+  - "/14051"
+tiki_page_id: 14051
 date: 2022-10-28
 categories:
   - "Virus"

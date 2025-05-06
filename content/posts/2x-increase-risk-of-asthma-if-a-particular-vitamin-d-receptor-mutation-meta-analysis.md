@@ -3,7 +3,8 @@ title: "2X increase risk of Asthma if a particular Vitamin D Receptor mutation â
 slug: "2x-increase-risk-of-asthma-if-a-particular-vitamin-d-receptor-mutation-meta-analysis"
 aliases:
   - "/2X+increase+risk+of+Asthma+if+a+particular+Vitamin+D+Receptor+mutation+â€“+meta-analysis+Feb+2022"
-  - "/tiki-index.php?page_id=13384"
+  - "/13384"
+tiki_page_id: 13384
 date: 2022-03-10
 categories:
   - "Breathing"

@@ -3,7 +3,8 @@ title: "Vitamin D fortification of the innate immune system can be limited by 15
 slug: "vitamin-d-fortification-of-the-innate-immune-system-can-be-limited-by-15-genes"
 aliases:
   - "/Vitamin+D+fortification+of+the+innate+immune+system+can+be+limited+by+15+genes+–+April+2020"
-  - "/tiki-index.php?page_id=11738"
+  - "/11738"
+tiki_page_id: 11738
 date: 2020-04-19
 ---
 

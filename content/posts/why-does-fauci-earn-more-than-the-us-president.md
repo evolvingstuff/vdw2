@@ -3,7 +3,8 @@ title: "Why does Fauci earn more than the US president"
 slug: "why-does-fauci-earn-more-than-the-us-president"
 aliases:
   - "/Why+does+Fauci+earn+more+than+the+US+president"
-  - "/tiki-index.php?page_id=13080"
+  - "/13080"
+tiki_page_id: 13080
 date: 2021-11-14
 categories:
   - "Virus"

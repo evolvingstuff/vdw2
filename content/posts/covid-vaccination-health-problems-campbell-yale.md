@@ -3,7 +3,8 @@ title: "COVID vaccination health problems - Campbell, Yale"
 slug: "covid-vaccination-health-problems-campbell-yale"
 aliases:
   - "/COVID+vaccination+health+problems+-+Campbell+Yale+Nov+2023"
-  - "/tiki-index.php?page_id=14825"
+  - "/14825"
+tiki_page_id: 14825
 date: 2023-11-19
 categories:
   - "Virus"

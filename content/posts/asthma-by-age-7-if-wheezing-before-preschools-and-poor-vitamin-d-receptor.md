@@ -3,7 +3,8 @@ title: "Asthma by age 7 if wheezing before preschools and poor vitamin D Recepto
 slug: "asthma-by-age-7-if-wheezing-before-preschools-and-poor-vitamin-d-receptor"
 aliases:
   - "/Asthma+by+age+7+if+wheezing+before+preschools+and+poor+vitamin+D+Receptor+-+May+2023"
-  - "/tiki-index.php?page_id=14455"
+  - "/14455"
+tiki_page_id: 14455
 date: 2023-05-29
 categories:
   - "Breathing"

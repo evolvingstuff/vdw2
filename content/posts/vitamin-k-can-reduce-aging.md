@@ -3,7 +3,8 @@ title: "Vitamin K can reduce aging"
 slug: "vitamin-k-can-reduce-aging"
 aliases:
   - "/Vitamin+K+can+reduce+aging+-+April+2021"
-  - "/tiki-index.php?page_id=14920"
+  - "/14920"
+tiki_page_id: 14920
 date: 2023-12-25
 categories:
   - "Vitamin D and Vitamin K"

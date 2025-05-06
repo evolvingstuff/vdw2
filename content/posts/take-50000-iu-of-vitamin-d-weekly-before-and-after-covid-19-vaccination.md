@@ -3,7 +3,8 @@ title: "Take 50,000 IU of Vitamin D weekly before and after COVID-19 vaccination
 slug: "take-50000-iu-of-vitamin-d-weekly-before-and-after-covid-19-vaccination"
 aliases:
   - "/Take+50000+IU+of+Vitamin+D+weekly+before+and+after+COVID-19+vaccination"
-  - "/tiki-index.php?page_id=12161"
+  - "/12161"
+tiki_page_id: 12161
 date: 2020-12-21
 categories:
   - "Virus"

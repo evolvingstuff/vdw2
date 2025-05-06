@@ -3,7 +3,8 @@ title: "Parkinson’s Disease, low vitamin D and Vit. D genetics"
 slug: "parkinsons-disease-low-vitamin-d-and-vit-d-genetics"
 aliases:
   - "/Parkinsons+Disease+low+vitamin+D+and+Vit+D+genetics+–+Jan+2023"
-  - "/tiki-index.php?page_id=14264"
+  - "/14264"
+tiki_page_id: 14264
 date: 2023-02-14
 categories:
   - "Parkinson"

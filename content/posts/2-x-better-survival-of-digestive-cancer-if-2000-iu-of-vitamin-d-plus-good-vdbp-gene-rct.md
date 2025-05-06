@@ -3,7 +3,8 @@ title: "2 X better survival of digestive cancer if 2,000 IU of Vitamin D plus go
 slug: "2-x-better-survival-of-digestive-cancer-if-2000-iu-of-vitamin-d-plus-good-vdbp-gene-rct"
 aliases:
   - "/2+X+better+survival+of+digestive+cancer+if+2000+IU+of+Vitamin+D+plus+good+VDBP+gene+–+RCT+Feb+2020"
-  - "/tiki-index.php?page_id=11607"
+  - "/11607"
+tiki_page_id: 11607
 date: 2020-02-04
 categories:
   - "Cancer - Colon"

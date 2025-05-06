@@ -3,7 +3,8 @@ title: "Small vitamin D doses provide small benefits for acute respiratory infec
 slug: "small-vitamin-d-doses-provide-small-benefits-for-acute-respiratory-infections-meta-analysis"
 aliases:
   - "/Small+vitamin+D+doses+provide+small+benefits+for+acute+respiratory+infections+–+Meta-analysis+March+2021"
-  - "/tiki-index.php?page_id=12456"
+  - "/12456"
+tiki_page_id: 12456
 date: 2021-03-31
 categories:
   - "Breathing"

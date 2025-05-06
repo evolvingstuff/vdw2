@@ -3,7 +3,8 @@ title: "Low Vitamin D is one reason for shorter lifespan amoung the poor"
 slug: "low-vitamin-d-is-one-reason-for-shorter-lifespan-amoung-the-poor"
 aliases:
   - "/Low+Vitamin+D+is+one+reason+for+shorter+lifespan+amoung+the+poor+-+Dec+2023"
-  - "/tiki-index.php?page_id=14928"
+  - "/14928"
+tiki_page_id: 14928
 date: 2023-12-28
 categories:
   - "Mortality and D"

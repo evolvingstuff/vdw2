@@ -3,7 +3,8 @@ title: "Men with High Omega-3 ratio 3 times less likely to have high grade prost
 slug: "men-with-high-omega-3-ratio-3-times-less-likely-to-have-high-grade-prostate-cancer"
 aliases:
   - "/Men+with+High+Omega-3+ratio+3+times+less+likely+to+have+high+grade+prostate+cancer+–+July+2019"
-  - "/tiki-index.php?page_id=11009"
+  - "/11009"
+tiki_page_id: 11009
 date: 2019-07-20
 categories:
   - "Cancer - Prostate"

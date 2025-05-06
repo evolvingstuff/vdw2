@@ -3,7 +3,8 @@ title: "Some breast cancers may prevented by VDR"
 slug: "some-breast-cancers-may-prevented-by-vdr"
 aliases:
   - "/Some+breast+cancers+may+prevented+by+VDR+–+March+2022"
-  - "/tiki-index.php?page_id=13429"
+  - "/13429"
+tiki_page_id: 13429
 date: 2022-03-25
 categories:
   - "Cancer - Breast"

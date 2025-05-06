@@ -3,7 +3,8 @@ title: "The interplay between vitamin D and viral infections"
 slug: "the-interplay-between-vitamin-d-and-viral-infections"
 aliases:
   - "/The+interplay+between+vitamin+D+and+viral+infections+–+Jan+2019"
-  - "/tiki-index.php?page_id=10498"
+  - "/10498"
+tiki_page_id: 10498
 date: 2019-02-17
 categories:
   - "Virus"

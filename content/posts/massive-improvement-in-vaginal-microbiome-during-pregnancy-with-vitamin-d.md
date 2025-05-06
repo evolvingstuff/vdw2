@@ -3,7 +3,8 @@ title: "Massive improvement in vaginal microbiome during pregnancy with Vitamin 
 slug: "massive-improvement-in-vaginal-microbiome-during-pregnancy-with-vitamin-d"
 aliases:
   - "/Massive+improvement+in+vaginal+microbiome+during+pregnancy+with+Vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10624"
+  - "/10624"
+tiki_page_id: 10624
 date: 2019-03-27
 categories:
   - "Pregnancy"

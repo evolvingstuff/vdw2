@@ -3,7 +3,8 @@ title: "Russia and Vitamin D - many studies"
 slug: "russia-and-vitamin-d-many-studies"
 aliases:
   - "/Russia+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14047"
+  - "/14047"
+tiki_page_id: 14047
 date: 2022-10-27
 categories:
   - "Vitamin D Far from equator"

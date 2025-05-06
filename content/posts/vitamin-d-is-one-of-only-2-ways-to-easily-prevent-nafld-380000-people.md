@@ -3,7 +3,8 @@ title: "Vitamin D is one of only 2 ways to easily prevent NAFLD (380,000 people)
 slug: "vitamin-d-is-one-of-only-2-ways-to-easily-prevent-nafld-380000-people"
 aliases:
   - "/Vitamin+D+is+one+of+only+2+ways+to+easily+prevent+NAFLD+380000+people+–+Oct+2021"
-  - "/tiki-index.php?page_id=12955"
+  - "/12955"
+tiki_page_id: 12955
 date: 2021-10-05
 categories:
   - "Liver"

@@ -3,7 +3,8 @@ title: "Better lipid and diabetic profiles if higher level of vitamin D"
 slug: "better-lipid-and-diabetic-profiles-if-higher-level-of-vitamin-d"
 aliases:
   - "/Better+lipid+and+diabetic+profiles+if+higher+level+of+vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10647"
+  - "/10647"
+tiki_page_id: 10647
 date: 2019-04-07
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "Reasons why some Respiratory Allergy studies find  that Vitamin D does n
 slug: "reasons-why-some-respiratory-allergy-studies-find-that-vitamin-d-does-not-help-much"
 aliases:
   - "/Reasons+why+some+Respiratory+Allergy+studies+find+that+Vitamin+D+does+not+help+much+–+June+2020"
-  - "/tiki-index.php?page_id=11811"
+  - "/11811"
+tiki_page_id: 11811
 date: 2020-06-21
 ---
 

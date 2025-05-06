@@ -3,7 +3,8 @@ title: "Preconception checkups being considered in Japan – recommends vitamin 
 slug: "preconception-checkups-being-considered-in-japan-recommends-vitamin-d-above-30-n-rcent-are-above"
 aliases:
   - "/Preconception+checkups+being+considered+in+Japan+–+recommends+vitamin+D+above+30+ng+only+2+are+above+–+April+2024"
-  - "/tiki-index.php?page_id=15244"
+  - "/15244"
+tiki_page_id: 15244
 date: 2024-04-29
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Vitamin D as get older: more D and less deficiency (UK Health Care worke
 slug: "vitamin-d-as-get-older-more-d-and-less-deficiency-uk-health-care-workers"
 aliases:
   - "/Vitamin+D+as+get+older+more+D+and+less+deficiency+UK+Health+Care+workers+-+April+2024"
-  - "/tiki-index.php?page_id=15218"
+  - "/15218"
+tiki_page_id: 15218
 date: 2024-04-17
 categories:
   - "Deficiency of Vitamin D"

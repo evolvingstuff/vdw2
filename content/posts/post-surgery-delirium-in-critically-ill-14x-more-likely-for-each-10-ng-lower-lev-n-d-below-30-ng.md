@@ -3,7 +3,8 @@ title: "Post-surgery delirium in critically ill 1.4X more likely for each 10 ng 
 slug: "post-surgery-delirium-in-critically-ill-14x-more-likely-for-each-10-ng-lower-lev-n-d-below-30-ng"
 aliases:
   - "/Post-surgery+delirium+in+critically+ill+14X+more+likely+for+each+10+ng+lower+level+of+vitamin+D+below+30+ng+–+July+2021"
-  - "/tiki-index.php?page_id=12712"
+  - "/12712"
+tiki_page_id: 12712
 date: 2021-07-01
 categories:
   - "Trauma and surgery"

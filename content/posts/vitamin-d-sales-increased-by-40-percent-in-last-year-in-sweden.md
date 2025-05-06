@@ -3,7 +3,8 @@ title: "Vitamin D sales increased by 40 percent in last year in Sweden"
 slug: "vitamin-d-sales-increased-by-40-percent-in-last-year-in-sweden"
 aliases:
   - "/Vitamin+D+sales+increased+by+40+percent+in+last+year+in+Sweden+-+Feb+2021"
-  - "/tiki-index.php?page_id=12312"
+  - "/12312"
+tiki_page_id: 12312
 date: 2021-02-10
 categories:
   - "Virus"

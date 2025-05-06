@@ -3,7 +3,8 @@ title: "Mild Obstructive Sleep Apnea decreased by 50,000 IU weekly vitamin D"
 slug: "mild-obstructive-sleep-apnea-decreased-by-50000-iu-weekly-vitamin-d"
 aliases:
   - "/Mild+Obstructive+Sleep+Apnea+decreased+by+50000+IU+weekly+vitamin+D+–+June+2021"
-  - "/tiki-index.php?page_id=12691"
+  - "/12691"
+tiki_page_id: 12691
 date: 2021-06-27
 categories:
   - "Intervention"

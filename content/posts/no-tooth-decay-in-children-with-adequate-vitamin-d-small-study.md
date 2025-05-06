@@ -3,7 +3,8 @@ title: "No tooth decay in children with adequate Vitamin D (small study)"
 slug: "no-tooth-decay-in-children-with-adequate-vitamin-d-small-study"
 aliases:
   - "/No+tooth+decay+in+children+with+adequate+Vitamin+D+small+study+–+June+2018"
-  - "/tiki-index.php?page_id=9977"
+  - "/9977"
+tiki_page_id: 9977
 date: 2018-08-27
 categories:
   - "Dental"

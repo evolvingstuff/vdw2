@@ -3,7 +3,8 @@ title: "Vitamin D effects on over 300 genes varies with genetics and levels"
 slug: "vitamin-d-effects-on-over-300-genes-varies-with-genetics-and-levels"
 aliases:
   - "/Vitamin+D+effects+on+over+300+genes+varies+with+genetics+and+levels+–+Dec+2020"
-  - "/tiki-index.php?page_id=12116"
+  - "/12116"
+tiki_page_id: 12116
 date: 2020-12-05
 categories:
   - "Genetics"

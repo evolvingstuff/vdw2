@@ -3,7 +3,8 @@ title: "Vaccinated were 28 percent of cases, 23 percent of deaths (waning)- CDC"
 slug: "vaccinated-were-28-percent-of-cases-23-percent-of-deaths-waning-cdc"
 aliases:
   - "/Vaccinated+were+28+percent+of+cases+23+percent+of+deaths+waning-+CDC+Sept+2021"
-  - "/tiki-index.php?page_id=13127"
+  - "/13127"
+tiki_page_id: 13127
 date: 2021-11-30
 categories:
   - "Virus"

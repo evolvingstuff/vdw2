@@ -3,7 +3,8 @@ title: "Asthma 3X more likely if have Multiple Sclerosis (both have low Vitamin 
 slug: "asthma-3x-more-likely-if-have-multiple-sclerosis-both-have-low-vitamin-d"
 aliases:
   - "/Asthma+3X+more+likely+if+have+Multiple+Sclerosis+both+have+low+Vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10555"
+  - "/10555"
+tiki_page_id: 10555
 date: 2019-03-08
 categories:
   - "Breathing"

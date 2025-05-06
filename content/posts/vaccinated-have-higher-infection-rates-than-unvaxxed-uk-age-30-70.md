@@ -3,7 +3,8 @@ title: "Vaccinated have HIGHER infection rates than unvaxxed (UK age 30-70)"
 slug: "vaccinated-have-higher-infection-rates-than-unvaxxed-uk-age-30-70"
 aliases:
   - "/Vaccinated+have+HIGHER+infection+rates+than+unvaxxed+UK+age+30-70+-+Dec+9+2021"
-  - "/tiki-index.php?page_id=13162"
+  - "/13162"
+tiki_page_id: 13162
 date: 2021-12-10
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitiligo associated with low vitamin D (Note: Vit. D and UV has treated 
 slug: "vitiligo-associated-with-low-vitamin-d-note-vit-d-and-uv-has-treated-it-for-over-e-meta-analysis"
 aliases:
   - "/Vitiligo+associated+with+low+vitamin+D+Note+Vit+D+and+UV+has+treated+it+for+over+a+decade+–+meta-analysis+March+2021"
-  - "/tiki-index.php?page_id=12516"
+  - "/12516"
+tiki_page_id: 12516
 date: 2021-04-20
 categories:
   - "UV and Vitamin D"

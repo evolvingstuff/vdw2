@@ -3,7 +3,8 @@ title: "500 mg of Magnesium for 8 weeks increased Vitamin D by 4 ng"
 slug: "500-mg-of-magnesium-for-8-weeks-increased-vitamin-d-by-4-ng"
 aliases:
   - "/500+mg+of+Magnesium+for+8+weeks+increased+Vitamin+D+by+4+ng+–+July+2020"
-  - "/tiki-index.php?page_id=13544"
+  - "/13544"
+tiki_page_id: 13544
 date: 2022-05-06
 categories:
   - "Vitamin D and Magnesium"

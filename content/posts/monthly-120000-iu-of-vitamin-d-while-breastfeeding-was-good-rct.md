@@ -3,7 +3,8 @@ title: "Monthly 120,000 IU of Vitamin D while breastfeeding was good – RCT"
 slug: "monthly-120000-iu-of-vitamin-d-while-breastfeeding-was-good-rct"
 aliases:
   - "/Monthly+120000+IU+of+Vitamin+D+while+breastfeeding+was+good+–+RCT+Jan+2022"
-  - "/tiki-index.php?page_id=13251"
+  - "/13251"
+tiki_page_id: 13251
 date: 2022-01-11
 categories:
   - "Intervention"

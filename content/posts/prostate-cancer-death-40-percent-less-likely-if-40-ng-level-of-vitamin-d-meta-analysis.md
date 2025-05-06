@@ -3,7 +3,8 @@ title: "Prostate Cancer death 40 percent less likely if 40 ng level of vitamin D
 slug: "prostate-cancer-death-40-percent-less-likely-if-40-ng-level-of-vitamin-d-meta-analysis"
 aliases:
   - "/Prostate+Cancer+death+40+percent+less+likely+if+40+ng+level+of+vitamin+D+–+Meta-analysis+Oct+2018"
-  - "/tiki-index.php?page_id=10114"
+  - "/10114"
+tiki_page_id: 10114
 date: 2018-10-13
 categories:
   - "Mortality and D"

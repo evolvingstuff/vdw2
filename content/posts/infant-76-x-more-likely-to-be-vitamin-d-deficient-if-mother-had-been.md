@@ -3,7 +3,8 @@ title: "Infant 7.6 X more likely to be Vitamin D deficient if mother had been"
 slug: "infant-76-x-more-likely-to-be-vitamin-d-deficient-if-mother-had-been"
 aliases:
   - "/Infant+76+X+more+likely+to+be+Vitamin+D+deficient+if+mother+had+been+–+Nov+2019"
-  - "/tiki-index.php?page_id=11407"
+  - "/11407"
+tiki_page_id: 11407
 date: 2019-11-30
 categories:
   - "Pregnancy"

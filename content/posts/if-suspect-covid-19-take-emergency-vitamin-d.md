@@ -3,7 +3,8 @@ title: "If suspect COVID-19, take emergency Vitamin D"
 slug: "if-suspect-covid-19-take-emergency-vitamin-d"
 aliases:
   - "/If+suspect+COVID-19+take+emergency+Vitamin+D"
-  - "/tiki-index.php?page_id=13029"
+  - "/13029"
+tiki_page_id: 13029
 date: 2021-10-28
 categories:
   - "Virus"

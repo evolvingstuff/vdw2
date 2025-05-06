@@ -3,7 +3,8 @@ title: "2.7 X more likely to die COVID-19 if too much Sodium (associated with lo
 slug: "27-x-more-likely-to-die-covid-19-if-too-much-sodium-associated-with-low-vitamin-d"
 aliases:
   - "/27+X+more+likely+to+die+COVID-19+if+too+much+Sodium+associated+with+low+vitamin+D+-+March+2021"
-  - "/tiki-index.php?page_id=12400"
+  - "/12400"
+tiki_page_id: 12400
 date: 2021-03-11
 categories:
   - "Hypertension"

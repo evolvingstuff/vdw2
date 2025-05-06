@@ -3,7 +3,8 @@ title: "Biggest barrier to Vitamin D supplementation: health sector focus on tre
 slug: "biggest-barrier-to-vitamin-d-supplementation-health-sector-focus-on-treatment"
 aliases:
   - "/Biggest+barrier+to+Vitamin+D+supplementation+health+sector+focus+on+treatment+–+Aug+2023"
-  - "/tiki-index.php?page_id=14638"
+  - "/14638"
+tiki_page_id: 14638
 date: 2023-08-27
 ---
 

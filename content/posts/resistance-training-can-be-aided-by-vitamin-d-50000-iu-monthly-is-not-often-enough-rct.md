@@ -3,7 +3,8 @@ title: "Resistance training can be aided by Vitamin D, 50,000 IU monthly is not 
 slug: "resistance-training-can-be-aided-by-vitamin-d-50000-iu-monthly-is-not-often-enough-rct"
 aliases:
   - "/Resistance+training+can+be+aided+by+Vitamin+D+50000+IU+monthly+is+not+often+enough+–+RCT+Dec+2021"
-  - "/tiki-index.php?page_id=13247"
+  - "/13247"
+tiki_page_id: 13247
 date: 2022-01-11
 categories:
   - "Seniors"

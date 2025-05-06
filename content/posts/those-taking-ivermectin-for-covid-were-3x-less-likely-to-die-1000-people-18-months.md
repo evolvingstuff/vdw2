@@ -3,7 +3,8 @@ title: "Those taking Ivermectin for COVID were 3X less likely to die (1,000 peop
 slug: "those-taking-ivermectin-for-covid-were-3x-less-likely-to-die-1000-people-18-months"
 aliases:
   - "/Those+taking+Ivermectin+for+COVID+were+3X+less+likely+to+die+1000+people+18+months+–+March+2022"
-  - "/tiki-index.php?page_id=13376"
+  - "/13376"
+tiki_page_id: 13376
 date: 2022-03-07
 categories:
   - "Virus"

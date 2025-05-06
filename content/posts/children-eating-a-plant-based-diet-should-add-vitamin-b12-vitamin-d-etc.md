@@ -3,7 +3,8 @@ title: "Children eating a plant-based diet should add Vitamin B12, Vitamin D, et
 slug: "children-eating-a-plant-based-diet-should-add-vitamin-b12-vitamin-d-etc"
 aliases:
   - "/Children+eating+a+plant-based+diet+should+add+Vitamin+B12+Vitamin+D+etc+–+March+2024"
-  - "/tiki-index.php?page_id=15134"
+  - "/15134"
+tiki_page_id: 15134
 date: 2024-03-14
 categories:
   - "Infant-Child"

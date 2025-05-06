@@ -3,7 +3,8 @@ title: "SciAm - No benefit from more than 20 ng of Vitamin D (nope)"
 slug: "sciam-no-benefit-from-more-than-20-ng-of-vitamin-d-nope"
 aliases:
   - "/SciAm+-+No+benefit+from+more+than+20+ng+of+Vitamin+D+nope+-+Jan+2024"
-  - "/tiki-index.php?page_id=14905"
+  - "/14905"
+tiki_page_id: 14905
 date: 2023-12-22
 categories:
   - "How much Vitamin D"

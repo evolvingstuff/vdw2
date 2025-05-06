@@ -3,7 +3,8 @@ title: "Spanish landing page test"
 slug: "spanish-landing-page-test"
 aliases:
   - "/Spanish+landing+page+test"
-  - "/tiki-index.php?page_id=12398"
+  - "/12398"
+tiki_page_id: 12398
 date: 2021-03-10
 categories:
   - "Admin Only"

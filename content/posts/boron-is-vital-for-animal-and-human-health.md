@@ -3,7 +3,8 @@ title: "Boron is vital for animal (and human) health"
 slug: "boron-is-vital-for-animal-and-human-health"
 aliases:
   - "/Boron+is+vital+for+animal+and+human+health+–+Dec+2018"
-  - "/tiki-index.php?page_id=10127"
+  - "/10127"
+tiki_page_id: 10127
 date: 2018-10-16
 categories:
   - "Veterinary and Vitamin D"

@@ -3,7 +3,8 @@ title: "Italians entering hospital for breathing problems had low vitamin D (wit
 slug: "italians-entering-hospital-for-breathing-problems-had-low-vitamin-d-with-and-wit-n-d-should-help"
 aliases:
   - "/Italians+entering+hospital+for+breathing+problems+had+low+vitamin+D+with+and+without+COVID+Vitamin+D+should+help+–+Nov+2021"
-  - "/tiki-index.php?page_id=13058"
+  - "/13058"
+tiki_page_id: 13058
 date: 2021-11-06
 categories:
   - "Breathing"

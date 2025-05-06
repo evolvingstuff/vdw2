@@ -3,7 +3,8 @@ title: "Doctors for COVID Ethics"
 slug: "doctors-for-covid-ethics"
 aliases:
   - "/Doctors+for+COVID+Ethics"
-  - "/tiki-index.php?page_id=14565"
+  - "/14565"
+tiki_page_id: 14565
 date: 2023-07-28
 categories:
   - "Virus"

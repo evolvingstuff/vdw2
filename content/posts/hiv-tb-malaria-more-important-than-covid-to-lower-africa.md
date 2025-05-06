@@ -3,7 +3,8 @@ title: "HIV, TB, Malaria more important than COVID to lower Africa"
 slug: "hiv-tb-malaria-more-important-than-covid-to-lower-africa"
 aliases:
   - "/HIV+TB+Malaria+more+important+than+COVID+to+lower+Africa+-+Dec+2021"
-  - "/tiki-index.php?page_id=13204"
+  - "/13204"
+tiki_page_id: 13204
 date: 2021-12-21
 categories:
   - "Tuberculosis"

@@ -3,7 +3,8 @@ title: "Dr. Coimbra on Coronavirus and Vitamin D (English transcript)"
 slug: "dr-coimbra-on-coronavirus-and-vitamin-d-english-transcript"
 aliases:
   - "/Dr+Coimbra+on+Coronavirus+and+Vitamin+D+English+transcript+-+Jan+2020"
-  - "/tiki-index.php?page_id=11596"
+  - "/11596"
+tiki_page_id: 11596
 date: 2020-01-28
 categories:
   - "Virus"

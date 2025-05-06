@@ -3,7 +3,8 @@ title: "Off topic: In 1854 a medical journal proposed that Diabetes would be tre
 slug: "off-topic-in-1854-a-medical-journal-proposed-that-diabetes-would-be-treated-by-brewers-yeast"
 aliases:
   - "/Off+topic+In+1854+a+medical+journal+proposed+that+Diabetes+would+be+treated+by+Brewers+Yeast"
-  - "/tiki-index.php?page_id=12446"
+  - "/12446"
+tiki_page_id: 12446
 date: 2021-03-27
 categories:
   - "Diabetes"

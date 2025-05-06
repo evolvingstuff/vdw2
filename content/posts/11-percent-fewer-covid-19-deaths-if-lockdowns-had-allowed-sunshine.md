@@ -3,7 +3,8 @@ title: "11 percent fewer COVID-19 deaths if lockdowns had allowed sunshine"
 slug: "11-percent-fewer-covid-19-deaths-if-lockdowns-had-allowed-sunshine"
 aliases:
   - "/11+percent+fewer+COVID-19+deaths+if+lockdowns+had+allowed+sunshine+–+Nov+2021"
-  - "/tiki-index.php?page_id=13112"
+  - "/13112"
+tiki_page_id: 13112
 date: 2021-11-25
 categories:
   - "UV and Vitamin D"

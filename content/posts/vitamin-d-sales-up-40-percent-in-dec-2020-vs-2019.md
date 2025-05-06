@@ -3,7 +3,8 @@ title: "Vitamin D sales up 40 percent in Dec (2020 vs 2019)"
 slug: "vitamin-d-sales-up-40-percent-in-dec-2020-vs-2019"
 aliases:
   - "/Vitamin+D+sales+up+40+percent+in+Dec+2020+vs+2019"
-  - "/tiki-index.php?page_id=12215"
+  - "/12215"
+tiki_page_id: 12215
 date: 2021-01-11
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D may reduce autism by increasing nitric oxide"
 slug: "vitamin-d-may-reduce-autism-by-increasing-nitric-oxide"
 aliases:
   - "/Vitamin+D+may+reduce+autism+by+increasing+nitric+oxide+–+June+2022"
-  - "/tiki-index.php?page_id=13688"
+  - "/13688"
+tiki_page_id: 13688
 date: 2022-06-20
 categories:
   - "Autism"

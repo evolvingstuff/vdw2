@@ -3,7 +3,8 @@ title: "Several rheumatic diseases treated by high-dose vitamin D, but made wors
 slug: "several-rheumatic-diseases-treated-by-high-dose-vitamin-d-but-made-worse-if-calcium-was-added"
 aliases:
   - "/Several+rheumatic+diseases+treated+by+high-dose+vitamin+D+but+made+worse+if+Calcium+was+added+–+April+2022"
-  - "/tiki-index.php?page_id=13438"
+  - "/13438"
+tiki_page_id: 13438
 date: 2022-03-28
 categories:
   - "Rheumatoid Arthritis"

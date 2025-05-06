@@ -3,7 +3,8 @@ title: "Vitamin D Workshop presentations and posters"
 slug: "vitamin-d-workshop-presentations-and-posters"
 aliases:
   - "/Vitamin+D+Workshop+presentations+and+posters+-+Sept+2022"
-  - "/tiki-index.php?page_id=13900"
+  - "/13900"
+tiki_page_id: 13900
 date: 2022-09-10
 categories:
   - "Conference"

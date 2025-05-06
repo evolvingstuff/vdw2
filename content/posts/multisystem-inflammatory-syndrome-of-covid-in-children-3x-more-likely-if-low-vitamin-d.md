@@ -3,7 +3,8 @@ title: "Multisystem Inflammatory Syndrome of COVID in Children 3X more likely if
 slug: "multisystem-inflammatory-syndrome-of-covid-in-children-3x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Multisystem+Inflammatory+Syndrome+of+COVID+in+Children+3X+more+likely+if+low+Vitamin+D+–+Feb+2023"
-  - "/tiki-index.php?page_id=14270"
+  - "/14270"
+tiki_page_id: 14270
 date: 2023-02-16
 categories:
   - "Infant-Child"

@@ -3,7 +3,8 @@ title: "Senior cognition improved in 4 ways by Vitamin D (50,000 IU weekly for 8
 slug: "senior-cognition-improved-in-4-ways-by-vitamin-d-50000-iu-weekly-for-8-weeks"
 aliases:
   - "/Senior+cognition+improved+in+4+ways+by+Vitamin+D+50000+IU+weekly+for+8+weeks+–+Sept+2023"
-  - "/tiki-index.php?page_id=14661"
+  - "/14661"
+tiki_page_id: 14661
 date: 2023-09-06
 categories:
   - "Intervention"

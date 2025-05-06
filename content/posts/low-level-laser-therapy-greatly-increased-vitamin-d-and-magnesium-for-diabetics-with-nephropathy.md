@@ -3,7 +3,8 @@ title: "Low Level Laser Therapy greatly increased Vitamin D and Magnesium (for d
 slug: "low-level-laser-therapy-greatly-increased-vitamin-d-and-magnesium-for-diabetics-with-nephropathy"
 aliases:
   - "/Low+Level+Laser+Therapy+greatly+increased+Vitamin+D+and+Magnesium+for+diabetics+with+nephropathy+–+March+2019"
-  - "/tiki-index.php?page_id=10475"
+  - "/10475"
+tiki_page_id: 10475
 date: 2019-02-08
 categories:
   - "Diabetes"

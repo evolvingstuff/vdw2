@@ -3,7 +3,8 @@ title: "COVID-19 infection risk 2X higher in vaccinated than previously infected
 slug: "covid-19-infection-risk-2x-higher-in-vaccinated-than-previously-infected-28000-i-rlands-preprint"
 aliases:
   - "/COVID-19+infection+risk+2X+higher+in+vaccinated+than+previously+infected+28000+in+Netherlands+–+preprint+Nov+24+2021"
-  - "/tiki-index.php?page_id=13137"
+  - "/13137"
+tiki_page_id: 13137
 date: 2021-12-02
 categories:
   - "Virus"

@@ -1,271 +1,393 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tests for Vitamin D on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/tests-for-vitamin-d/</link>
-    <description>Recent content in Tests for Vitamin D on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/tests-for-vitamin-d/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Testing vitamin D in urine may be possible</title>
-      <link>http://localhost:1313/posts/testing-vitamin-d-in-urine-may-be-possible/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/testing-vitamin-d-in-urine-may-be-possible/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the news release from VitaminDWiki &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Analysis of vitamin D metabolites in biological samples using a nanoluc-based vitamin D receptor ligand sensing system: NLucVDR  Oct 2023 - DOI: 10.1016/j.jsbmb.2023.106367&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;March 2024 - comparing vitamin D levels in urine with that in blood&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Unstated linearity, repeatability, accuracy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;They are hoping a low-cost test can be made which could be taken annually&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D is increasing in Greece: testing, supplementation, and levels</title>
-      <link>http://localhost:1313/posts/vitamin-d-is-increasing-in-greece-testing-supplementation-and-levels/</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-is-increasing-in-greece-testing-supplementation-and-levels/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#intense-testing-and-use-of-vitamin-d-supplements-leads-to-slow-improvement-in-vitamin-d-adequacy-rates-a-cross-sectional-analysis-of-real-world-data&#34;&gt;Intense Testing and Use of Vitamin D Supplements Leads to Slow Improvement in Vitamin D Adequacy Rates: A Cross-Sectional Analysis of Real-World Data&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#doctors-often-prescribe-too-small-of-doses&#34;&gt;Doctors often prescribe too small of doses&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#doctors-rarely-aware-that-some-people-need-larger-doses&#34;&gt;Doctors rarely aware that some people need larger doses&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#doctors-rarely-aware-that-some-people-need-a-different-form-of-vitamin-d&#34;&gt;Doctors rarely aware that some people need a different form of vitamin D&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;intense-testing-and-use-of-vitamin-d-supplements-leads-to-slow-improvement-in-vitamin-d-adequacy-rates-a-cross-sectional-analysis-of-real-world-data&#34;&gt;Intense Testing and Use of Vitamin D Supplements Leads to Slow Improvement in Vitamin D Adequacy Rates: A Cross-Sectional Analysis of Real-World Data&lt;/h4&gt;&#xA;&lt;p&gt;Nutrients 2024,16, 111. &lt;a href=&#34;https://doi.org/10.3390/&#34;&gt;https://doi.org/10.3390/&lt;/a&gt; nu16010111&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chair-side vitamin D test for 80 nmol</title>
-      <link>http://localhost:1313/posts/chair-side-vitamin-d-test-for-80-nmol/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chair-side-vitamin-d-test-for-80-nmol/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#estimation-of-vitamin-d-levels-using-a-chairside-diagnostic-test-kit-in-patients-with-gingivitis-and-periodontitis-a-cross-sectional-study&#34;&gt;Estimation of vitamin D levels using a chairside diagnostic test kit in patients with gingivitis and periodontitis: A cross-sectional study&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#1-million-of-the-10-minute-testers-have-been-sold&#34;&gt;&amp;gt;1 million of the 10-minute testers have been sold&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#see-also-vitamindwiki&#34;&gt;See also VitaminDWiki&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;estimation-of-vitamin-d-levels-using-a-chairside-diagnostic-test-kit-in-patients-with-gingivitis-and-periodontitis-a-cross-sectional-study&#34;&gt;Estimation of vitamin D levels using a chairside diagnostic test kit in patients with gingivitis and periodontitis: A cross-sectional study&lt;/h4&gt;&#xA;&lt;p&gt;J. of International Society of Preventive and Community Dentistry 13(5):p 402-409, Sept 2023. 10.4103/jispcd.JISPCD_50_23&lt;/p&gt;&#xA;&lt;p&gt;Koppolu, Pradeep1; Alshahrani, Abdullah M A2; Ghawas, Mohammad A Y2; Almuqbil, Mohammed S A2; Swapna, Lingam A3; Almuhaydib, Abdulmalik K H2&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D tests using smartphone, etc. - 2022</title>
-      <link>http://localhost:1313/posts/vitamin-d-tests-using-smartphone-etc-2022/</link>
-      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-tests-using-smartphone-etc-2022/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Some companies provide quantitative results by looking at a vitamin D test strip&lt;br&gt;&#xA;The cost of the test strip is about 1/2 the cost of a dried blood spot test&lt;br&gt;&#xA;The in-home or in-office method gives results in 15 minutes&lt;br&gt;&#xA;The dried blood spot test gives results in 3-5 days (mail-in and email back)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;preventis-smartphone--medical-professionals-only-preventishttpspreventiscomenproduktesmartest-vitamin-d-home&#34;&gt;Preventis smartphone- medical professionals only &lt;a href=&#34;https://preventis.com/en/produkte/smartest-vitamin-d-home&#34;&gt;Preventis&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;kiweno-smartphone-39-euro-kiwenohttpskiwenocomenpvitamin-d-rapid-test&#34;&gt;Kiweno smartphone 39 Euro &lt;a href=&#34;https://kiweno.com/en/p/vitamin-d-rapid-test/&#34;&gt;Kiweno&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;nanospeed-diagnostics-with-cube-reader-nanospeedhttpsnanospeedcatest4d&#34;&gt;Nanospeed Diagnostics with Cube Reader &lt;a href=&#34;https://nanospeed.ca/test4d/&#34;&gt;Nanospeed&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Detection range: 3 to 100 ng/mL; 94% correlation with LC/MS blood tests&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test Vitamin D, get a tiny dose, no benefit, conclusion: should not have tested (Australia this time)</title>
-      <link>http://localhost:1313/posts/test-vitamin-d-get-a-tiny-dose-no-benefit-conclusion-should-not-have-tested-australia-this-time/</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-vitamin-d-get-a-tiny-dose-no-benefit-conclusion-should-not-have-tested-australia-this-time/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#health-financial-and-environmental-impacts-of-unnecessary-vitamin-d-testing-a-triple-bottom-line-assessment-adapted-for-healthcare&#34;&gt;Health, financial and environmental impacts of unnecessary vitamin D testing: a triple bottom line assessment adapted for healthcare&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#australia-considered-vitamin-d-rda--200-iu-adding-200-iu-has-never-been-proven-to-help-anything&#34;&gt;Australia considered Vitamin D RDA = 200 IU (adding 200 IU has never been proven to help anything)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#australia-considers-20ng-to-be-adequate-so-many-summer-tests-were-worthless&#34;&gt;Australia considers &amp;gt;20ng to be adequate, so many summer tests were worthless&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#process-should-be-1-vitamin-d-loading-dose-2-see-how-it-feels-in-the-next-4-weeks&#34;&gt;Process should be: 1) Vitamin D loading dose, 2) See how it feels in the next 4 weeks&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#history-of-us-vitamin-d-rda-200-400-600-and-now-1200-iu-for-average-male&#34;&gt;History of US Vitamin D RDA: 200, 400, 600, and now 1200 IU for average male&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#see-related-in-vitamindwiki&#34;&gt;See related in VitaminDWiki&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#rapid-response-vitamin-d-testing-should-be-aimed-at-raising-vitamin-d-levels-to-optimal-values-dr-grant&#34;&gt;Rapid response: Vitamin D testing should be aimed at raising vitamin D levels to optimal values (Dr. Grant)&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;health-financial-and-environmental-impacts-of-unnecessary-vitamin-d-testing-a-triple-bottom-line-assessment-adapted-for-healthcare&#34;&gt;Health, financial and environmental impacts of unnecessary vitamin D testing: a triple bottom line assessment adapted for healthcare&lt;/h4&gt;&#xA;&lt;p&gt;BMJ Open 2022;12:e056997. doi:10.1136/ bmjopen-2021-056997&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Clinical Review of vitamin D</title>
-      <link>http://localhost:1313/posts/clinical-review-of-vitamin-d/</link>
-      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/clinical-review-of-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-sources-physiological-role-biokinetics-deficiency-therapeutic-use-toxicity-and-overview-of-analytical-methods-for-detection-of-vitamin-d-and-its-metabolites&#34;&gt;Vitamin D: sources, physiological role, biokinetics, deficiency, therapeutic use, toxicity, and overview of analytical methods for detection of vitamin D and its metabolites&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-sources-physiological-role-biokinetics-deficiency-therapeutic-use-toxicity-and-overview-of-analytical-methods-for-detection-of-vitamin-d-and-its-metabolites&#34;&gt;Vitamin D: sources, physiological role, biokinetics, deficiency, therapeutic use, toxicity, and overview of analytical methods for detection of vitamin D and its metabolites&lt;/h4&gt;&#xA;&lt;p&gt;CRITICAL REVIEWS IN CLINICAL LABORATORY SCIENCES &lt;a href=&#34;https://doi.org/10.1080/10408363.2022.2070595&#34;&gt;https://doi.org/10.1080/10408363.2022.2070595&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jira Janouseka d , Veronika Pilarov ab&#x9;, Katerina Macakova a&#x9;, Anderson Nomura c,d, Jessica Veiga-Matos c,d, Diana Dias da Silva c,d,e, Fernando Remiaoc,d ( , Luciano Sasof 0, Katerina Mala-Ladovag ©, Josef Malyg 0 Lucie Novakovab  and Premysl Mladenkah 0&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Skin impedance might be a rough measure of Vitamin D</title>
-      <link>http://localhost:1313/posts/skin-impedance-might-be-a-rough-measure-of-vitamin-d/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/skin-impedance-might-be-a-rough-measure-of-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#a-novel-biosensor-and-algorithm-to-predict-vitamin-d-status-by-measuring-skin-impedance&#34;&gt;A Novel Biosensor and Algorithm to Predict Vitamin D Status by Measuring Skin Impedance&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#observations-by-founder-of-vitamindwiki-formerly-an-instrumentation-engineer&#34;&gt;Observations by Founder of VitaminDWiki (formerly an Instrumentation Engineer)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-estimation-using-machine-learning--one-of-the-references&#34;&gt;Vitamin D estimation using Machine Learning  (One of the references)&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;a-novel-biosensor-and-algorithm-to-predict-vitamin-d-status-by-measuring-skin-impedance&#34;&gt;A Novel Biosensor and Algorithm to Predict Vitamin D Status by Measuring Skin Impedance&lt;/h4&gt;&#xA;&lt;p&gt;Sensors 2021, 21(23), 8118; &lt;a href=&#34;https://doi.org/10.3390/s21238118&#34;&gt;https://doi.org/10.3390/s21238118&lt;/a&gt; by Jin-Chul Heo 1,Doyoon Kim 2,Hyunsoo An 2ORCID,Chang-Sik Son 3ORCID,Sangwoo Cho 4 andJong-Ha Lee 1,*ORCID&lt;/p&gt;&#xA;&lt;p&gt;1 Department of Biomedical Engineering, School of Medicine, Keimyung University, Daegu 42601, Korea&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>42X increased vitamin D testing of children, no increase in levels (too little vitamin D prescribed to make a difference)</title>
-      <link>http://localhost:1313/posts/42x-increased-vitamin-d-testing-of-children-no-increase-in-levels-too-little-vit-ke-a-difference/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/42x-increased-vitamin-d-testing-of-children-no-increase-in-levels-too-little-vit-ke-a-difference/</guid>
-      <description>&lt;h4 id=&#34;stable-rates-of-low-vitamin-d-status-among-children-despite-increase-in-testing-a-population-based-study&#34;&gt;Stable Rates of Low Vitamin D Status Among Children Despite Increase in Testing: A Population-Based Study&lt;/h4&gt;&#xA;&lt;p&gt;J Pediatr. 2021 Jul 19;S0022-3476(21)00704-6. &lt;a href=&#34;https://doi.org/10.1016/j.jpeds.2021.07.037&#34;&gt;doi: 10.1016/j.jpeds.2021.07.037&lt;/a&gt;   PDF costs $36&lt;/p&gt;&#xA;&lt;p&gt;Alyssa A Kerber 1, Mitchell M Pitlick 2, Anna E Kellund 1, Amy L Weaver 3, Seema Kumar 4, Avni Y Joshi 5&lt;/p&gt;&#xA;&lt;p&gt;Objective: To determine the trends in testing and incidence of vitamin D deficiency/insufficiency in Olmsted County, Minnesota over a 16 year period.&lt;/p&gt;&#xA;&lt;p&gt;Study design: The Rochester Epidemiology Project (REP) was used to identify Olmsted County, Minnesota residents &amp;lt;19 years of age who had 25-hydroxyvitamin D (25(OH)D) levels measured between January 2, 2002 and December 31, 2017. Using each patient&amp;rsquo;s first 25(OH)D measurement during this period, patients were categorized into 3 groups: &amp;lt;20ng/ml, 20-50ng/ml, or &amp;gt;50 ng/mL. Vitamin D deficiency/insufficiency was defined as a total 25(OH)D level of &amp;lt;20 ng/mL.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to compare Vitamin D measurements from multiple studies</title>
-      <link>http://localhost:1313/posts/how-to-compare-vitamin-d-measurements-from-multiple-studies/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-to-compare-vitamin-d-measurements-from-multiple-studies/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/4-popular-vitamin-d-testers-gave-very-different-results-no-surprise&#34;&gt;4 popular vitamin D testers gave very different results (no surprise) – June 2021&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-testing-accuracies-including-dried-blood-spot&#34;&gt;Vitamin D testing accuracies, including dried blood spot – Jan 2020&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/problems-with-vitamin-d-testing-chapter&#34;&gt;Problems with Vitamin D Testing – chapter – Aug 2019&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-deficiency-of-a-group-15-pcnt-to-48-pcnt-depends-on-tester-used&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Vitamin D deficiency of a group - 15 pcnt to 48 pcnt (depends on tester used) - Nov 2017&#34;&gt;Vitamin D deficiency of a group - 15 pcnt to 48 pcnt (depends on tester used) - Nov 2017&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>4 popular vitamin D testers gave very different results (no surprise)</title>
-      <link>http://localhost:1313/posts/4-popular-vitamin-d-testers-gave-very-different-results-no-surprise/</link>
-      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-popular-vitamin-d-testers-gave-very-different-results-no-surprise/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Note: For many years there has been an attempt at standardizing Vitamin D measurments used for research&lt;br&gt;&#xA;It appears that most hospitals/testing facilities are not &amp;ldquo;standardized&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the Standarization PDF from VitaminDWiki &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Background: To compare four automated immunoassays for the measurement of 25(OH)-vitamin D (25-OHD) and to assess the impact on the results obtained from a healthy population.&lt;/p&gt;&#xA;&lt;p&gt;Methods: We analysed 100 serum samples on Unicel DxI 800 (Beckman Coulter), Architect i1000 (Abbott), Cobas e411 (Roche) and Liaison XL (DiaSorin). Passing-Bablok regression and Bland-Altman plots were used for method comparison. In order to categorise the obtained values, results were categorised into the following groups: 0-25 nmol/L, 25-50 nmol/L, 50-75 nmol/L and above 75 nmol/L and compared. The percentage of samples below 75 nmol/L, and below 50 nmol/L was then calculated for every method.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D tester based on villi absorption in intestines found to be extremely sensitive</title>
-      <link>http://localhost:1313/posts/vitamin-d-tester-based-on-villi-absorption-in-intestines-found-to-be-extremely-sensitive/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-tester-based-on-villi-absorption-in-intestines-found-to-be-extremely-sensitive/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;This Raman Tester for Vitamin D appears to be very expensive and with low prcision&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fuzzy chart in PDF via Google images&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;800&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Developed a bio-inspired AgNV-based aptasensor for detection of 25OHD3.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The LOD of the AgNV-based aptasensor was 0.001 ng/mL with human serum solution.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The AgNV-based aptasensor could selectively detect 25OHD3 from other vitamins.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;This method can shed light on the development of SERS-based vitamin sensors.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Abstract&lt;/p&gt;&#xA;&lt;p&gt;Vitamin D has been identified as an essential biomarker for various diseases such as rheumatoid arthritis, cancer, and cardiovascular diseases. Recently, many reports have demonstrated a potential link between vitamin D and systemic infections, including coronavirus disease 2019. The villi of the small intestine increase the surface area of the intestinal walls, demonstrating exceptionally efficient absorption of nutrients in the lumen and adding digestive secretions. In this study, based on the villi structure, we developed a bio-inspired silver nanovilli-based sandwich-type surface enhanced  &lt;strong&gt;Raman scattering&lt;/strong&gt;  aptasensor for the ultrasensitive and selective detection of 25-hydroxy vitamin D3. The densely packed nanovilli structure enhanced the Raman signal, forming hotspots owing to its large surface area. Using experiments and electromagnetic simulations, we optimized the nanovilli structure as a SERS sensor. The sandwich-type aptasensor was designed using an aptamer and 4-Phenyl-1,2,4-triazoline-3,5-dione-methylene blue complex. The nanovilli-based aptasensor could sensitively detect various concentrations of 25-hydroxy vitamin D3, ranging from those found in deficient to excess conditions.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Instant, low-cost Vitamin D test kits available - UK Amazon</title>
-      <link>http://localhost:1313/posts/instant-low-cost-vitamin-d-test-kits-available-uk-amazon/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/instant-low-cost-vitamin-d-test-kits-available-uk-amazon/</guid>
-      <description>&lt;h4 id=&#34;4-testers-as-of-aprilhttpswwwamazoncoukskvitamindhometestrefnb_sb_noss_2&#34;&gt;&lt;a href=&#34;https://www.amazon.co.uk/s?k=vitamin+d+home+test&amp;amp;ref=nb_sb_noss_2&#34;&gt;4 testers as of April&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;300&#34;&gt;&#xA;&lt;h4 id=&#34;notes&#34;&gt;Notes&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;This test indicates if your vitamin D level &amp;gt;35 ng&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Amazon rarely ships health products outside of their country&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Amazons in Germany, India, and Canada do not stock it.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I believe that over 1 million of these testers are been sold around the world&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;As of April 2021 this test has still not been approved by the FDA for sale in the US&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;a-hrefpostsinstant-vitamin-d-yes-no-test-now-available-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-instant-vitamin-d-yes-no-test-now-availableinstant-vitamin-d-yes-no-test-now-availablea-2014&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/instant-vitamin-d-yes-no-test-now-available&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Instant vitamin D Yes-No test now available&#34;&gt;Instant vitamin D Yes-No test now available&lt;/a&gt; (2014)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructions made by VitaminDWiki for Test4D&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Excessive lipids in blood can result in very low vitamin D test results</title>
-      <link>http://localhost:1313/posts/excessive-lipids-in-blood-can-result-in-very-low-vitamin-d-test-results/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/excessive-lipids-in-blood-can-result-in-very-low-vitamin-d-test-results/</guid>
-      <description>&lt;h4 id=&#34;the-role-of-interferences-in-the-increasing-incidence-of-vitamin-d-deficiency&#34;&gt;The Role of Interferences in the Increasing Incidence of Vitamin D Deficiency&lt;/h4&gt;&#xA;&lt;p&gt;Endocrine, Metabolic &amp;amp; Immune Disorders - Drug Targets, Volume 20 , Issue 8 , 2020.DOI : 10.2174/1871530320666200604160208&lt;/p&gt;&#xA;&lt;p&gt;Ataman Gonel*, Idris Kirhan, Ismail Koyuncu, Nihayet Bayraktar, Mujgan Ercan Karadag, Mehmet Karadag&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;Summary: 21% of the 100 people with high lipids had a false reading of 10 ng,&lt;/p&gt;&#xA;&lt;p&gt;    untill the blood was dilluted 10X, when the reading became 39 ng&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Huge variation in Vitamin D test results between 4 testers for 8 people – 2013</title>
-      <link>http://localhost:1313/posts/huge-variation-in-vitamin-d-test-results-between-4-testers-for-8-people-2013/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/huge-variation-in-vitamin-d-test-results-between-4-testers-for-8-people-2013/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Several governments have restricted Vitamin D testing (hard to associate low D with COVID-19)</title>
-      <link>http://localhost:1313/posts/several-governments-have-restricted-vitamin-d-testing-hard-to-associate-low-d-with-covid-19/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/several-governments-have-restricted-vitamin-d-testing-hard-to-associate-low-d-with-covid-19/</guid>
-      <description>&lt;h5 id=&#34;vitamin-d-testing-impact-of-changes-to-testing-guidelines-on-detection-of-patients-at-risk-of-vitamin-d-deficiency&#34;&gt;Vitamin D testing: Impact of changes to testing guidelines on detection of patients at risk of vitamin D deficiency&lt;/h5&gt;&#xA;&lt;p&gt;Ann Clin Biochem . 2021 Jan 14;4563220987589. &lt;a href=&#34;https://doi.org/10.1177/0004563220987589&#34;&gt;doi: 10.1177/0004563220987589&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Andrew St John 1, Howard Morris 2, Alice Richardson 3, Brett Lidbury 3, Greg Ward 4, Tony Badrick 5&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Governments &lt;span style=&#34;color:#F00;&#34;&gt;AGAINST&lt;/span&gt; testing (too many doctors and patients were asking for tests)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-tests-for-canadian-bc-adults-can-only-be-ordered-by-specialists&#34;&gt;Vitamin D tests for Canadian BC adults can only be ordered by specialists – Oct 2019&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Greatly improved Vitamin D testing repeatability</title>
-      <link>http://localhost:1313/posts/greatly-improved-vitamin-d-testing-repeatability/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/greatly-improved-vitamin-d-testing-repeatability/</guid>
-      <description>&lt;h4 id=&#34;improved-repeatability-of-a-vitamin-d-assay-in-plasma-samples-obtained-from-mechanical-separator-tubes&#34;&gt;Improved Repeatability of a Vitamin D Assay in Plasma Samples Obtained From Mechanical Separator Tubes&lt;/h4&gt;&#xA;&lt;p&gt;J Appl Lab Med. 2020 Mar 1;5(2):423-425. &lt;a href=&#34;https://doi.org/10.1093/jalm/jfz011.&#34;&gt;doi: 10.1093/jalm/jfz011.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Anne L Bruinen 1, Marcel J W Janssen 1&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Have seen no indication that these separator tubes are in wide-spread use&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thee were no citations of this study as of June 2021&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-testing-accuracies-including-dried-blood-spot&#34;&gt;Vitamin D testing accuracies, including dried blood spot – Jan 2020&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-deficiency-of-a-group-15-pcnt-to-48-pcnt-depends-on-tester-used&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Vitamin D deficiency of a group - 15 pcnt to 48 pcnt (depends on tester used) - Nov 2017&#34;&gt;Vitamin D deficiency of a group - 15 pcnt to 48 pcnt (depends on tester used) - Nov 2017&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Epimers of Vitamin D: A Review</title>
-      <link>http://localhost:1313/posts/epimers-of-vitamin-d-a-review/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/epimers-of-vitamin-d-a-review/</guid>
-      <description>&lt;p&gt;Int. J. Mol. Sci. 2020, 21(2), 470; &lt;a href=&#34;https://doi.org/10.3390/ijms21020470&#34;&gt;https://doi.org/10.3390/ijms21020470&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;by Bashar Al-Zohily 1,Asma Al-Menhali 2,*,Salah Gariballa 3,Afrozul Haq 4 andI ltaf Shah 1,&lt;/p&gt;&#xA;&lt;p&gt;1 Department of Chemistry, College of Science, United Arab Emirates University, Al Ain 15551, UAE&lt;/p&gt;&#xA;&lt;p&gt;2 Department of Biology, College of Science, United Arab Emirates University, Al Ain 15551, UAE&lt;/p&gt;&#xA;&lt;p&gt;3 Internal Medicine, Faculty of Medicine &amp;amp; Health Sciences, United Arab Emirates University, Al Ain 15551, UAE&lt;/p&gt;&#xA;&lt;p&gt;4 Department of Food Technology, School of Interdisciplinary Sciences and Technology, Jamia Hamdard University, New Delhi-110062, India&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D tests for Canadian BC adults can only be ordered by specialists</title>
-      <link>http://localhost:1313/posts/vitamin-d-tests-for-canadian-bc-adults-can-only-be-ordered-by-specialists/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-tests-for-canadian-bc-adults-can-only-be-ordered-by-specialists/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vitamin D testing accuracies, including dried blood spot</title>
-      <link>http://localhost:1313/posts/vitamin-d-testing-accuracies-including-dried-blood-spot/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-testing-accuracies-including-dried-blood-spot/</guid>
-      <description>&lt;h4 id=&#34;00f-vitamin-d-blood-test-misses-a-lot-categoriesgenetics&#34;&gt;&lt;a href=&#34;http://localhost:1313/categories/genetics&#34;&gt;~~#00F: Vitamin D blood test misses a lot ~~&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;359&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;see-also-web&#34;&gt;See also web&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Vitamin D Measurement, the Debates Continue, New Analytes Have Emerged, Developments Have Variable Outcomes - Nov 2019, Free PDF &lt;a href=&#34;DOI:%2010.1007/s00223-019-00620-2&#34;&gt;DOI: 10.1007/s00223-019-00620-2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Expect the blood test result to be +- ~10%&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;p&gt;Vitamin D deficiency and insufficiency has become a pandemic health problem with a consequent increase of requests for determining circulating levels of 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt;. However, the analytical performance of these immunoassays, including radioimmunoassay and ELISA, is highly variable, and even mass spectrometric methods, which nowadays serves as the gold standard for the quantitatively determination of 25(OH)D, do not necessarily produce comparable results, creating limitations for the definition of normal vitamin D status ranges. To solve this problem, great efforts have been made to promote standardization of laboratory assays, which is important to achieve comparable results across different methods and manufacturers. In this review, we performed a systematic analysis evaluating critically the advantages and limits of the current assays available for the measure of vitamin D status, i.e., circulating 25(OH)D and its metabolites, making suggestions that could be used in the clinical practice. Moreover, we also suggest the use of alternatives to blood test, including standardized surveys that may be of value in alerting health-care professionals about the vitamin D status of their patients.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>94 X increase in Vitamin D testing in Australia (2000-2010, then they shut it down)</title>
-      <link>http://localhost:1313/posts/94-x-increase-in-vitamin-d-testing-in-australia-2000-2010-then-they-shut-it-down/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/94-x-increase-in-vitamin-d-testing-in-australia-2000-2010-then-they-shut-it-down/</guid>
-      <description>&lt;h4 id=&#34;oral-presentation-vitamin-d-test-ordering-practices-of-australian-general-practitioners-between-2007-and-2017-evidence-from-electronic-health-records&#34;&gt;(Oral Presentation)  Vitamin D test ordering practices of australian general practitioners between 2007 and 2017: evidence from electronic health records&lt;/h4&gt;&#xA;&lt;p&gt;BMJ Evidence Based Medicine &lt;a href=&#34;http://dx.doi.org/10.1136/bmjebm-2019-POD.43&#34;&gt;http://dx.doi.org/10.1136/bmjebm-2019-POD.43&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Gorkem Sezgin, Andrew Georgiou&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/australians-paying-for-most-vitamin-d-tests-40-percent-deficient-in-winter&#34;&gt;Australians paying for most Vitamin D tests, 40 percent deficient in winter - March 2019&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/80-x-increase-in-vitamin-d-testing-in-australia-in-a-decade&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: 80 X increase in Vitamin D testing in Australia in a decade - June 2013&#34;&gt;80 X increase in Vitamin D testing in Australia in a decade - June 2013&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D testers have different test results if there is chronic kidney disease</title>
-      <link>http://localhost:1313/posts/vitamin-d-testers-have-different-test-results-if-there-is-chronic-kidney-disease/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-testers-have-different-test-results-if-there-is-chronic-kidney-disease/</guid>
-      <description>&lt;h4 id=&#34;chronic-kidney-disease-is-a-main-confounding-factor-for-25-vitamin-d-measurement&#34;&gt;Chronic kidney disease is a main confounding factor for 25-vitamin D measurement&lt;/h4&gt;&#xA;&lt;p&gt;J Bras Nefrol. 2019 Sep 26.  &lt;a href=&#34;https://doi.org/10.1590/2175-8239-JBN-2019-0053.&#34;&gt;doi: 10.1590/2175-8239-JBN-2019-0053.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hanna Karla Andrade Guapyassú Machado, Carolina Steller Wagner Martins, Vanda Jorgetti, Rosilene Motta Elias, Rosa Maria Affonso Moysés&lt;/p&gt;&#xA;&lt;p&gt;Jornal Brasileiro de Nefrologia: ʹorgão Oficial de Sociedades Brasileira e Latino-Americana de Nefrologia&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;The founder of VitaminDWiki does not recall seeing this before&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng&#34;&gt;More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Low trauma bone fractures in seniors – considering Vitamin D loading dose for all, without testing</title>
-      <link>http://localhost:1313/posts/low-trauma-bone-fractures-in-seniors-considering-vitamin-d-loading-dose-for-all-without-testing/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/low-trauma-bone-fractures-in-seniors-considering-vitamin-d-loading-dose-for-all-without-testing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Magnesium, Vitamin D, Omega-3, TSH - importance and testing - Dean and Baggerly</title>
-      <link>http://localhost:1313/posts/magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#overview--before-radio-broadcast-oct-28-2019httpsdrcarolyndeanlivecom20191028tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show&#34;&gt;&lt;a href=&#34;https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/&#34;&gt;Overview  before radio broadcast, Oct 28, 2019&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#introduction---first-hour-of-transcript&#34;&gt;Introduction - first hour of transcript&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#carole-baggerly-introduction&#34;&gt;Carole Baggerly introduction&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#magnesium&#34;&gt;Magnesium&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#tsh&#34;&gt;TSH&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#second-hour---with-phone-in-questions-and-answers&#34;&gt;Second Hour - with phone-in questions and answers&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#serum-level-not-dose&#34;&gt;Serum level not dose&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#some-grh-kit-tests---nov-2019&#34;&gt;Some GRH Kit tests-  Nov 2019&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/&#34;&gt;Click here to listen to hours 1 and/or 2&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;overview--before-radio-broadcast-oct-28-2019httpsdrcarolyndeanlivecom20191028tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show&#34;&gt;&lt;a href=&#34;https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/&#34;&gt;Overview  before radio broadcast, Oct 28, 2019&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;This weeks radio show is an introduction to GrassrootsHealth, a nutrient research portal for the lay public. We are partnering with this company in order to analyze your supplement intake, your health improvements, and validate them with your blood tests. The tests that  &lt;strong&gt;Grassrootshealth&lt;/strong&gt;  makes available are in-home, finger-stick, blood smears on specially treated cardboard strips. **** The Blood Analysis Kit that we are endorsing covers Magnesium RBC, Vitamin D, Omega-3 fatty acids, and TSH. **As you’ll hear and come to understand from listening to the archive, we have found a way to work closely with one blood testing lab and use uniquely designed questionnaires that document supplements, symptoms, and results that people are achieving on our protocols. It’s the type of nutrient research that I’ve always wanted to do and that’s never been done before.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Body impedance can estimate body fat, and perhaps Vitamin D</title>
-      <link>http://localhost:1313/posts/body-impedance-can-estimate-body-fat-and-perhaps-vitamin-d/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/body-impedance-can-estimate-body-fat-and-perhaps-vitamin-d/</guid>
-      <description>&lt;p&gt;Since the 1990s body impedance  has been used to estimate human body fat&lt;/p&gt;&#xA;&lt;p&gt;As of 2019 there are &amp;gt; 100 weight scales on &lt;a href=&#34;https://www.amazon.com/slp/most-accurate-body-fat-scale/xtu4ytj78hqr7q5%20&#34;&gt;Amazon&lt;/a&gt; can estimate body fat&lt;/p&gt;&#xA;&lt;p&gt;They range in cost from about $30 to $90&lt;/p&gt;&#xA;&lt;p&gt;The outputs are typically one of the following: visual, wifi, and Bluetooth&lt;/p&gt;&#xA;&lt;p&gt;Estimate, not measure: Fairly repeatable, but accuracies are about 30%&lt;/p&gt;&#xA;&lt;p&gt;Estimation varies with age, male/female, hydration, etc. etc.&lt;/p&gt;&#xA;&lt;p&gt;Note - only one of the Amazon devices measure upper-body impedance (with a device you hold in your hands)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D levels observed to vary by 20 percent during a day</title>
-      <link>http://localhost:1313/posts/vitamin-d-levels-observed-to-vary-by-20-percent-during-a-day/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-levels-observed-to-vary-by-20-percent-during-a-day/</guid>
-      <description>&lt;h4 id=&#34;25-hydroxyvitamin-d-variability-within-person-due-to-diurnal-rhythm-and-illness-a-case-report&#34;&gt;25-Hydroxyvitamin D variability within-person due to diurnal rhythm and illness: a case report&lt;/h4&gt;&#xA;&lt;p&gt;Journal of Medical Case Reports volume 13, February 2019&lt;/p&gt;&#xA;&lt;p&gt;Christine B. French, Sharon L. McDonnell &amp;amp; Reinhold Vieth&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;#### Note: A 10% change in Vitamin D level is meaningless&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-measurements-vary-with-the-same-sample-of-blood&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Vitamin D measurements vary with the same sample of blood – March 2014&#34;&gt;Vitamin D measurements vary with the same sample of blood – March 2014&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Problems with Vitamin D Testing – chapter</title>
-      <link>http://localhost:1313/posts/problems-with-vitamin-d-testing-chapter/</link>
-      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/problems-with-vitamin-d-testing-chapter/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Vitamin D Testing in Clinical Settings: Methodologies, Accuracy and Standardization&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chapter 1 in Book: Vitamin D Deficiency: Causes &amp;amp;Treatments&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;FakhriBSaida ; Chong Yuan &lt;a href=&#34;mailto:chong.yuan@diazyme.com&#34;&gt;chong.yuan@diazyme.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;1Diazyme Laboratories Inc., Poway, CA&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Great description of problems of Vitamin D testing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some testers do not account properly for Vitamin D Binding protein (varies from 90-1000 ug/ml)&lt;/p&gt;&#xA;&lt;p&gt;Some testers do not distinguish between D3 and D2+D3&lt;/p&gt;&#xA;&lt;p&gt;Some testers do not distinguish between D3 and its epimers (important for infants)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Instant Vitamin D testing aided by a smartphone has 90 percent accuracy</title>
-      <link>http://localhost:1313/posts/instant-vitamin-d-testing-aided-by-a-smartphone-has-90-percent-accuracy/</link>
-      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/instant-vitamin-d-testing-aided-by-a-smartphone-has-90-percent-accuracy/</guid>
-      <description>&lt;h4 id=&#34;a-quantitative-point-of-need-assay-for-the-assessment-of-vitamin-d3-deficiency&#34;&gt;A Quantitative Point-of-Need Assay for the Assessment of Vitamin D3 Deficiency&lt;/h4&gt;&#xA;&lt;p&gt;Sci Rep. 2017; 7: 14142.  &lt;a href=&#34;https://doi.org/10.1038/s41598-017-13044-5&#34;&gt;doi: 10.1038/s41598-017-13044-5&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;S. Vemulapati,1 E. Rey,1 D. O’Dell,2 S. Mehta, &lt;a href=&#34;mailto:smehta@cornell.edu&#34;&gt;smehta@cornell.edu&lt;/a&gt;) or D.E. &lt;a href=&#34;mailto:de54@cornell.edu&#34;&gt;de54@cornell.edu&lt;/a&gt;. 3,4 and D. Erickson &lt;a href=&#34;mailto:smehta@cornell.edu&#34;&gt;smehta@cornell.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;900&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;Vitamin D is necessary for the healthy growth and development of bone and muscle. Vitamin D deficiency, which is present in 42% of the US population, is often undiagnosed as symptoms may not manifest for several years and long-term deficiency has been linked to osteoporosis, diabetes and cancer. Currently the majority of vitamin D testing is performed in large-scale commercial laboratories which have high operational costs and long times-to-result. Development of a low-cost point-of-need assay could be transformative to deficiency analysis in limited-resource settings. The best biomarker of vitamin D status, 25hydroxyvitamin D3 (25(OH)D3), however, is particularly challenging to measure in such a format due to complexities involved in sample preparation, including the need to separate the marker from its binding protein. Here we present a rapid diagnostic test for the accurate, quantitative assessment of 25(OH)D3 in finger-stick blood. The assay is accompanied by a smartphone-assisted portable imaging device that can autonomously perform the necessary image processing. To achieve accurate quantification of 25(OH)D3, we also demonstrate a novel elution buffer that separates 25(OH)D3 from its binding protein in situ, eliminating the need for sample preparation. In human trials, the accuracy of our platform is 90.5%.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D levels vary across the brain, what about other body tissues</title>
-      <link>http://localhost:1313/posts/vitamin-d-levels-vary-across-the-brain-what-about-other-body-tissues/</link>
-      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-levels-vary-across-the-brain-what-about-other-body-tissues/</guid>
-      <description>&lt;h4 id=&#34;determination-of-vitamin-d-and-its-metabolites-in-human-brain-using-an-ultra-pressure-lctandem-mass-spectra-method&#34;&gt;Determination of Vitamin D and Its Metabolites in Human Brain Using an Ultra-Pressure LC–Tandem Mass Spectra Method&lt;/h4&gt;&#xA;&lt;p&gt;Current Developments in Nutrition, Vol 3, Issue 7, July 2019, &lt;a href=&#34;https://doi.org/10.1093/cdn/nzz074&#34;&gt;https://doi.org/10.1093/cdn/nzz074&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Xueyan Fu  Gregory G Dolnikowski  William B Patterson Bess Dawson-Hughes  Tong Zheng  Martha C Morris Thomas M Holland  Sarah L Booth&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learned from Drew Makowski at the Vitamin D Workshop in New York City, June 2019&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.heartlandassays.com/services/vitamin-d-analysis&#34;&gt;Heartland Assays&lt;/a&gt; - $200 to test for Vitamin D inside of Tissues&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>UK (NHS) now provides blood taking at home (Vitamin D, panel, etc.)</title>
-      <link>http://localhost:1313/posts/uk-nhs-now-provides-blood-taking-at-home-vitamin-d-panel-etc/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uk-nhs-now-provides-blood-taking-at-home-vitamin-d-panel-etc/</guid>
-      <description>&lt;h4 id=&#34;montor-my-healthhttpsmonitormyhealthorguk&#34;&gt;&lt;a href=&#34;https://monitormyhealth.org.uk/#&#34;&gt;Montor my Health&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Order your own test and sample your blood at home&lt;/p&gt;&#xA;&lt;p&gt;Get results in approximately 2 days&lt;/p&gt;&#xA;&lt;p&gt;Results can optionally be shared with your doctor&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;0163&lt;/del&gt; 29  Vitamin D&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;0163&lt;/del&gt; 47  Panel:  Diabetes, Vitamin D, Cholesterol, Thyroid&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vitamin D Reference ranges (UK)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Deficient - Less than 10 nmol/L&lt;/p&gt;&#xA;&lt;p&gt;Insufficient - 10 - 35 nmol/L&lt;/p&gt;&#xA;&lt;p&gt;Adequate - 36 - 60 nmol/L&lt;/p&gt;&#xA;&lt;p&gt;Optimal - Greater than 60 nmol/L&lt;/p&gt;&#xA;&lt;p&gt;Needs more blood than a bloodspot test – perhaps 1 teaspoon of blood&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Saliva and Vitamin D – many studies</title>
-      <link>http://localhost:1313/posts/saliva-and-vitamin-d-many-studies/</link>
-      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/saliva-and-vitamin-d-many-studies/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#saliva-and-vitamin-d-in-keywords-2017&#34;&gt;Saliva and Vitamin D in keywords 2017&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#saliva-dental-caries-and-immune-peptide-rct-jan-2018--with-pdf&#34;&gt;Saliva, Dental Caries and Immune peptide RCT Jan 2018 – with PDF&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-in-saliva-not-correlate-with-recurrent-aphthous-stomatitis-and-healthy-individuals--dec-2018---with-pdf&#34;&gt;Vitamin D in saliva not correlate with Recurrent Aphthous Stomatitis and Healthy Individuals – Dec 2018  – with PDF&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#no-correlation-between-vitamin-d-levels-in-saliva-and-blood--jan-1987-free-pdf-online&#34;&gt;No correlation between Vitamin D levels in saliva and blood – Jan 1987 free PDF online&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#chewing-increasing-vitamin-d-levels-in-saliva--dec-2013&#34;&gt;Chewing increasing Vitamin D levels in saliva – Dec 2013&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#dried-blood-spot-and-dried-saliva-both-used-for-home-vitamin-d-sampling--april-2015-pdf-on-vitamindwiki&#34;&gt;Dried blood spot and dried saliva both used for home Vitamin D sampling – April 2015, PDF on VitaminDWiki&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#perhaps-only-8-nanomolml--of-vitamin-d-in-saliva--1983&#34;&gt;Perhaps only 8 nanomol/ml  of Vitamin D in Saliva – 1983&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;h4 id=&#34;saliva-and-vitamin-d-in-keywords-2017&#34;&gt;Saliva and Vitamin D in keywords 2017&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vitamin D Testing-Where Are We and What Is on the Horizon?&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D compliance 3X higher when children with fractures actually knew their low vitamin D level</title>
-      <link>http://localhost:1313/posts/vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level/</guid>
-      <description>&lt;h4 id=&#34;obtaining-vitamin-d-levels-in-children-with-fractures-improves-supplementation-compliance&#34;&gt;Obtaining Vitamin D Levels in Children With Fractures Improves Supplementation Compliance&lt;/h4&gt;&#xA;&lt;p&gt;Journal of Pediatric Orthopaedics: March 06, 2019 – &lt;a href=&#34;https://doi.org/10.1097/BPO.0000000000001363&#34;&gt;doi: 10.1097/BPO.0000000000001363&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Minkowitz, Barbara, MD*; Nadel, Leah, BA†; McDermott, Meghan, BA†; Cherna, Zachary, BS*; Ristic, Jennifer, PA-C, MMSc*; Chiu, Stephanie, MPH‡ AHS Bone Health Compliance Group&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Compliance = take at least 4 out of 7 days&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note: Study did not even consider the increased compliance from&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Less frequent dosing&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Starting with a loading dose so the benefits can be felt in days instead of months&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Australians paying for most Vitamin D tests, 40 percent deficient in winter</title>
-      <link>http://localhost:1313/posts/australians-paying-for-most-vitamin-d-tests-40-percent-deficient-in-winter/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/australians-paying-for-most-vitamin-d-tests-40-percent-deficient-in-winter/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/uk-considers-vitamin-d-tests-appropriate-for-only-4-existing-health-problems&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: UK considers Vitamin D tests appropriate for only 4 existing health problems, – June 2018&#34;&gt;UK considers Vitamin D tests appropriate for only 4 existing health problems, – June 2018&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/mandatory-vitamin-d-screening-for-all-patients-vitamin-d-conference-in-middle-east&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Mandatory Vitamin D screening for all patients – vitamin D conference in Middle East – March 2017&#34;&gt;Mandatory Vitamin D screening for all patients – vitamin D conference in Middle East – March 2017&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D home tester wanted – 50, 000 dollar prize offered by Nestlé</title>
-      <link>http://localhost:1313/posts/vitamin-d-home-tester-wanted-50-000-dollar-prize-offered-by-nestle/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-home-tester-wanted-50-000-dollar-prize-offered-by-nestle/</guid>
-      <description>&lt;h4 id=&#34;nestlé-offers-us50000-for-tackling-vitamin-d-deficiencieshttpexecutive-bulletincomhealthnestle-offers-us50000-for-tackling-vitamin-d-deficiencies&#34;&gt;&lt;a href=&#34;http://executive-bulletin.com/health/nestle-offers-us50000-for-tackling-vitamin-d-deficiencies&#34;&gt;Nestlé Offers US$50,000 For Tackling Vitamin D Deficiencies&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;“… offering US$50,000 to the winning applicant who develops a simple and economic method for checking daily levels, and creates an app that stores results and provides professional advice on how to improve them”&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Details at &lt;a href=&#34;https://www.henri.nestle.com/&#34;&gt;https://www.henri.nestle.com/&lt;/a&gt;     The deadline for responses is 17th March 2019.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;observation-by-henry-lahore-founder-of-vitamindwiki&#34;&gt;Observation by Henry Lahore, founder of VitaminDWiki&lt;/h4&gt;&#xA;&lt;p&gt;I have been tracking simple Vitamin D testers for over 4 years&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Health Insurance (UnitedHealth) restricting Vitamin D payments to only a few diseases</title>
-      <link>http://localhost:1313/posts/health-insurance-unitedhealth-restricting-vitamin-d-payments-to-only-a-few-diseases/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/health-insurance-unitedhealth-restricting-vitamin-d-payments-to-only-a-few-diseases/</guid>
-      <description>&lt;h4 id=&#34;unitedhealthcare-community-plan-of-california-changing-its-vitamin-d-testing-reimbursement-policyhttpswwwxifincomresourcesindustry-news201812unitedhealthcare-community-plan-california-changing-its-vitamin-d&#34;&gt;&lt;a href=&#34;https://www.xifin.com/resources/industry-news/201812/unitedhealthcare-community-plan-california-changing-its-vitamin-d&#34;&gt;UnitedHealthCare Community Plan of California Changing its Vitamin D Testing Reimbursement Policy&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;h4 id=&#34;also-recently-changed-michigan-missouri-ny-ohio-floridahttpswwwuhcprovidercomenhealth-plans-by-statevirginia-health-plansva-comm-plan-homeva-cp-payment-policy-notificationshtml&#34;&gt;Also recently changed &lt;a href=&#34;https://www.uhcprovider.com/en/health-plans-by-state/virginia-health-plans/va-comm-plan-home/va-cp-payment-policy-notifications.html&#34;&gt;Michigan, Missouri, NY, Ohio, Florida&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;I was unable to find the list of approved diseases in 30 minutes of hunting on their website or the Endocrinology Publication&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;“American Association of Clinical Endocrinologists and The American College of Endocrinology, “Reasonable approaches to vitamin D assessment and treatment include an initial measurement of 25(OH)D in patients at risk of deficiency, or alternatively, vitamin D supplementation and subsequent 25(OH)D measurement 3-4 months later to assess dose adequacy”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Child died in hospital, death due to low vitamin D, mother is suing hospital</title>
-      <link>http://localhost:1313/posts/child-died-in-hospital-death-due-to-low-vitamin-d-mother-is-suing-hospital/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/child-died-in-hospital-death-due-to-low-vitamin-d-mother-is-suing-hospital/</guid>
-      <description>&lt;h4 id=&#34;simple-test-could-have-saved-my-baby-tragic-mother-suing-walsall-hospitalhttpswwwexpressandstarcomnewshealth20181119simple-test-could-have-saved-my-baby-tragic-mother-suing-walsall-hospital&#34;&gt;&lt;a href=&#34;https://www.expressandstar.com/news/health/2018/11/19/simple-test-could-have-saved-my-baby-tragic-mother-suing-walsall-hospital/&#34;&gt;&amp;lsquo;Simple test could have saved my baby’: Tragic mother suing Walsall hospital&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“One-year-old Dataeo Scully died at Walsall Manor Hospital in March. An investigation carried revealed the cause of death was a lack of Vitamin D.”&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“They told me it is not protocol to check Vitamin D but it is important and there is not much out there about it. I want to raise awareness by telling Dataeo’s story.”&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;300&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.dailymail.co.uk/news/article-6410465/Heartbroken-mother-launches-legal-action-against-hospital-son-dies-Vitamin-D-deficiency.html&#34;&gt;UK Daily Mail&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D testing at home – for as little as 50 dollars on Amazon</title>
-      <link>http://localhost:1313/posts/vitamin-d-testing-at-home-for-as-little-as-50-dollars-on-amazon/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-testing-at-home-for-as-little-as-50-dollars-on-amazon/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;There were 10+ home test kits on Amazon (US) as of Oct 2018&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Generally home test kits are only a little less accurate than those in labs.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;home tests are generally within 5 nanograms of a lab measurement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Cost of home testing is often 3X lower cost than hospital testing&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Cost of home testing is similar to costs of tests from Life Extension&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;which require driving to a lab – which can be 10-300 miles away&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;some-low-cost-examples&#34;&gt;Some low-cost examples&lt;/h2&gt;&#xA;&lt;h4 id=&#34;50&#34;&gt;$50&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;h4 id=&#34;60&#34;&gt;$60&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;900&#34;&gt;&#xA;&lt;h4 id=&#34;58&#34;&gt;$58&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;p&gt;I happened to have used this one - when it was on sale&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Some employers offer vitamin D testing, some doctors reduce doses, even if deficient</title>
-      <link>http://localhost:1313/posts/some-employers-offer-vitamin-d-testing-some-doctors-reduce-doses-even-if-deficient/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/some-employers-offer-vitamin-d-testing-some-doctors-reduce-doses-even-if-deficient/</guid>
-      <description>&lt;p&gt;Vitamin D Status and Supplementation in Employer-Sponsored Wellness Program&lt;/p&gt;&#xA;&lt;p&gt;Am J Health Promot. 2018 Jul;32(6):1383-1385. &lt;a href=&#34;https://doi.org/10.1177/0890117117710353.&#34;&gt;doi: 10.1177/0890117117710353.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kaufman HW1, Chen Z1.&lt;/p&gt;&#xA;&lt;p&gt;1 Quest Diagnostics, Madison, NJ, USA. &lt;a href=&#34;mailto:harvey.w.kaufman@questdiagnostics.com&#34;&gt;harvey.w.kaufman@questdiagnostics.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Some employer-sponsored wellness programs apparently now offer free Vitamin D tests&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Expect that only a fraction of the employees will take the time and effort needed to get a Vitamin D test&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;No indication if free Vitamin D is also provided to the employees&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tests for Vitamin D on VitaminDWiki</title><link>//localhost:1313/categories/tests-for-vitamin-d.html</link><description>Recent content in Tests for Vitamin D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/tests-for-vitamin-d/index.xml" rel="self" type="application/rss+xml"/><item><title>Testing vitamin D in urine may be possible</title><link>//localhost:1313/posts/testing-vitamin-d-in-urine-may-be-possible.html</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/testing-vitamin-d-in-urine-may-be-possible.html</guid><description>&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the news release from VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Analysis of vitamin D metabolites in biological samples using a nanoluc-based vitamin D receptor ligand sensing system: NLucVDR Oct 2023 - DOI: 10.1016/j.jsbmb.2023.106367&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>March 2024 - comparing vitamin D levels in urine with that in blood&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Unstated linearity, repeatability, accuracy&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>They are hoping a low-cost test can be made which could be taken annually&lt;/strong>&lt;/p></description></item><item><title>Vitamin D is increasing in Greece: testing, supplementation, and levels</title><link>//localhost:1313/posts/vitamin-d-is-increasing-in-greece-testing-supplementation-and-levels.html</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-is-increasing-in-greece-testing-supplementation-and-levels.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#intense-testing-and-use-of-vitamin-d-supplements-leads-to-slow-improvement-in-vitamin-d-adequacy-rates-a-cross-sectional-analysis-of-real-world-data">Intense Testing and Use of Vitamin D Supplements Leads to Slow Improvement in Vitamin D Adequacy Rates: A Cross-Sectional Analysis of Real-World Data&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#doctors-often-prescribe-too-small-of-doses">Doctors often prescribe too small of doses&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#doctors-rarely-aware-that-some-people-need-larger-doses">Doctors rarely aware that some people need larger doses&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#doctors-rarely-aware-that-some-people-need-a-different-form-of-vitamin-d">Doctors rarely aware that some people need a different form of vitamin D&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="intense-testing-and-use-of-vitamin-d-supplements-leads-to-slow-improvement-in-vitamin-d-adequacy-rates-a-cross-sectional-analysis-of-real-world-data">Intense Testing and Use of Vitamin D Supplements Leads to Slow Improvement in Vitamin D Adequacy Rates: A Cross-Sectional Analysis of Real-World Data&lt;/h4>
+&lt;p>Nutrients 2024,16, 111. &lt;a href="https://doi.org/10.3390/">https://doi.org/10.3390/&lt;/a> nu16010111&lt;/p></description></item><item><title>Chair-side vitamin D test for 80 nmol</title><link>//localhost:1313/posts/chair-side-vitamin-d-test-for-80-nmol.html</link><pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/chair-side-vitamin-d-test-for-80-nmol.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#estimation-of-vitamin-d-levels-using-a-chairside-diagnostic-test-kit-in-patients-with-gingivitis-and-periodontitis-a-cross-sectional-study">Estimation of vitamin D levels using a chairside diagnostic test kit in patients with gingivitis and periodontitis: A cross-sectional study&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#1-million-of-the-10-minute-testers-have-been-sold">&amp;gt;1 million of the 10-minute testers have been sold&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="estimation-of-vitamin-d-levels-using-a-chairside-diagnostic-test-kit-in-patients-with-gingivitis-and-periodontitis-a-cross-sectional-study">Estimation of vitamin D levels using a chairside diagnostic test kit in patients with gingivitis and periodontitis: A cross-sectional study&lt;/h4>
+&lt;p>J. of International Society of Preventive and Community Dentistry 13(5):p 402-409, Sept 2023. 10.4103/jispcd.JISPCD_50_23&lt;/p>
+&lt;p>Koppolu, Pradeep1; Alshahrani, Abdullah M A2; Ghawas, Mohammad A Y2; Almuqbil, Mohammed S A2; Swapna, Lingam A3; Almuhaydib, Abdulmalik K H2&lt;/p></description></item><item><title>Vitamin D tests using smartphone, etc. - 2022</title><link>//localhost:1313/posts/vitamin-d-tests-using-smartphone-etc-2022.html</link><pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-tests-using-smartphone-etc-2022.html</guid><description>&lt;p>&lt;strong>Some companies provide quantitative results by looking at a vitamin D test strip&lt;br>
+The cost of the test strip is about 1/2 the cost of a dried blood spot test&lt;br>
+The in-home or in-office method gives results in 15 minutes&lt;br>
+The dried blood spot test gives results in 3-5 days (mail-in and email back)&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h4 id="preventis-smartphone--medical-professionals-only-preventishttpspreventiscomenproduktesmartest-vitamin-d-home">Preventis smartphone- medical professionals only &lt;a href="https://preventis.com/en/produkte/smartest-vitamin-d-home">Preventis&lt;/a>&lt;/h4>
+&lt;hr>
+&lt;h4 id="kiweno-smartphone-39-euro-kiwenohttpskiwenocomenpvitamin-d-rapid-test">Kiweno smartphone 39 Euro &lt;a href="https://kiweno.com/en/p/vitamin-d-rapid-test/">Kiweno&lt;/a>&lt;/h4>
+&lt;hr>
+&lt;h4 id="nanospeed-diagnostics-with-cube-reader-nanospeedhttpsnanospeedcatest4d">Nanospeed Diagnostics with Cube Reader &lt;a href="https://nanospeed.ca/test4d/">Nanospeed&lt;/a>&lt;/h4>
+&lt;p>Detection range: 3 to 100 ng/mL; 94% correlation with LC/MS blood tests&lt;/p></description></item><item><title>Test Vitamin D, get a tiny dose, no benefit, conclusion: should not have tested (Australia this time)</title><link>//localhost:1313/posts/test-vitamin-d-get-a-tiny-dose-no-benefit-conclusion-should-not-have-tested-australia-this-time.html</link><pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/test-vitamin-d-get-a-tiny-dose-no-benefit-conclusion-should-not-have-tested-australia-this-time.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#health-financial-and-environmental-impacts-of-unnecessary-vitamin-d-testing-a-triple-bottom-line-assessment-adapted-for-healthcare">Health, financial and environmental impacts of unnecessary vitamin D testing: a triple bottom line assessment adapted for healthcare&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#australia-considered-vitamin-d-rda--200-iu-adding-200-iu-has-never-been-proven-to-help-anything">Australia considered Vitamin D RDA = 200 IU (adding 200 IU has never been proven to help anything)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#australia-considers-20ng-to-be-adequate-so-many-summer-tests-were-worthless">Australia considers &amp;gt;20ng to be adequate, so many summer tests were worthless&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#process-should-be-1-vitamin-d-loading-dose-2-see-how-it-feels-in-the-next-4-weeks">Process should be: 1) Vitamin D loading dose, 2) See how it feels in the next 4 weeks&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#history-of-us-vitamin-d-rda-200-400-600-and-now-1200-iu-for-average-male">History of US Vitamin D RDA: 200, 400, 600, and now 1200 IU for average male&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-related-in-vitamindwiki">See related in VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#rapid-response-vitamin-d-testing-should-be-aimed-at-raising-vitamin-d-levels-to-optimal-values-dr-grant">Rapid response: Vitamin D testing should be aimed at raising vitamin D levels to optimal values (Dr. Grant)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="health-financial-and-environmental-impacts-of-unnecessary-vitamin-d-testing-a-triple-bottom-line-assessment-adapted-for-healthcare">Health, financial and environmental impacts of unnecessary vitamin D testing: a triple bottom line assessment adapted for healthcare&lt;/h4>
+&lt;p>BMJ Open 2022;12:e056997. doi:10.1136/ bmjopen-2021-056997&lt;/p></description></item><item><title>Clinical Review of vitamin D</title><link>//localhost:1313/posts/clinical-review-of-vitamin-d.html</link><pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/clinical-review-of-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-sources-physiological-role-biokinetics-deficiency-therapeutic-use-toxicity-and-overview-of-analytical-methods-for-detection-of-vitamin-d-and-its-metabolites">Vitamin D: sources, physiological role, biokinetics, deficiency, therapeutic use, toxicity, and overview of analytical methods for detection of vitamin D and its metabolites&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-sources-physiological-role-biokinetics-deficiency-therapeutic-use-toxicity-and-overview-of-analytical-methods-for-detection-of-vitamin-d-and-its-metabolites">Vitamin D: sources, physiological role, biokinetics, deficiency, therapeutic use, toxicity, and overview of analytical methods for detection of vitamin D and its metabolites&lt;/h4>
+&lt;p>CRITICAL REVIEWS IN CLINICAL LABORATORY SCIENCES &lt;a href="https://doi.org/10.1080/10408363.2022.2070595">https://doi.org/10.1080/10408363.2022.2070595&lt;/a>&lt;/p>
+&lt;p>Jira Janouseka d , Veronika Pilarov ab	, Katerina Macakova a	, Anderson Nomura c,d, Jessica Veiga-Matos c,d, Diana Dias da Silva c,d,e, Fernando Remiaoc,d ( , Luciano Sasof 0, Katerina Mala-Ladovag ©, Josef Malyg 0 Lucie Novakovab and Premysl Mladenkah 0&lt;/p></description></item><item><title>Skin impedance might be a rough measure of Vitamin D</title><link>//localhost:1313/posts/skin-impedance-might-be-a-rough-measure-of-vitamin-d.html</link><pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/skin-impedance-might-be-a-rough-measure-of-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#a-novel-biosensor-and-algorithm-to-predict-vitamin-d-status-by-measuring-skin-impedance">A Novel Biosensor and Algorithm to Predict Vitamin D Status by Measuring Skin Impedance&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#observations-by-founder-of-vitamindwiki-formerly-an-instrumentation-engineer">Observations by Founder of VitaminDWiki (formerly an Instrumentation Engineer)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-estimation-using-machine-learning--one-of-the-references">Vitamin D estimation using Machine Learning (One of the references)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="a-novel-biosensor-and-algorithm-to-predict-vitamin-d-status-by-measuring-skin-impedance">A Novel Biosensor and Algorithm to Predict Vitamin D Status by Measuring Skin Impedance&lt;/h4>
+&lt;p>Sensors 2021, 21(23), 8118; &lt;a href="https://doi.org/10.3390/s21238118">https://doi.org/10.3390/s21238118&lt;/a> by Jin-Chul Heo 1,Doyoon Kim 2,Hyunsoo An 2ORCID,Chang-Sik Son 3ORCID,Sangwoo Cho 4 andJong-Ha Lee 1,*ORCID&lt;/p>
+&lt;p>1 Department of Biomedical Engineering, School of Medicine, Keimyung University, Daegu 42601, Korea&lt;/p></description></item><item><title>42X increased vitamin D testing of children, no increase in levels (too little vitamin D prescribed to make a difference)</title><link>//localhost:1313/posts/42x-increased-vitamin-d-testing-of-children-no-increase-in-levels-too-little-vit-ke-a-difference.html</link><pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/42x-increased-vitamin-d-testing-of-children-no-increase-in-levels-too-little-vit-ke-a-difference.html</guid><description>&lt;h4 id="stable-rates-of-low-vitamin-d-status-among-children-despite-increase-in-testing-a-population-based-study">Stable Rates of Low Vitamin D Status Among Children Despite Increase in Testing: A Population-Based Study&lt;/h4>
+&lt;p>J Pediatr. 2021 Jul 19;S0022-3476(21)00704-6. &lt;a href="https://doi.org/10.1016/j.jpeds.2021.07.037">doi: 10.1016/j.jpeds.2021.07.037&lt;/a>   PDF costs $36&lt;/p>
+&lt;p>Alyssa A Kerber 1, Mitchell M Pitlick 2, Anna E Kellund 1, Amy L Weaver 3, Seema Kumar 4, Avni Y Joshi 5&lt;/p>
+&lt;p>Objective: To determine the trends in testing and incidence of vitamin D deficiency/insufficiency in Olmsted County, Minnesota over a 16 year period.&lt;/p>
+&lt;p>Study design: The Rochester Epidemiology Project (REP) was used to identify Olmsted County, Minnesota residents &amp;lt;19 years of age who had 25-hydroxyvitamin D (25(OH)D) levels measured between January 2, 2002 and December 31, 2017. Using each patient&amp;rsquo;s first 25(OH)D measurement during this period, patients were categorized into 3 groups: &amp;lt;20ng/ml, 20-50ng/ml, or &amp;gt;50 ng/mL. Vitamin D deficiency/insufficiency was defined as a total 25(OH)D level of &amp;lt;20 ng/mL.&lt;/p></description></item><item><title>How to compare Vitamin D measurements from multiple studies</title><link>//localhost:1313/posts/how-to-compare-vitamin-d-measurements-from-multiple-studies.html</link><pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/how-to-compare-vitamin-d-measurements-from-multiple-studies.html</guid><description>&lt;nav id="TableOfContents">&lt;/nav>
+&lt;hr>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/4-popular-vitamin-d-testers-gave-very-different-results-no-surprise">4 popular vitamin D testers gave very different results (no surprise) – June 2021&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamin-d-testing-accuracies-including-dried-blood-spot">Vitamin D testing accuracies, including dried blood spot – Jan 2020&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/problems-with-vitamin-d-testing-chapter">Problems with Vitamin D Testing – chapter – Aug 2019&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamin-d-deficiency-of-a-group-15-pcnt-to-48-pcnt-depends-on-tester-used" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D deficiency of a group - 15 pcnt to 48 pcnt (depends on tester used) - Nov 2017">Vitamin D deficiency of a group - 15 pcnt to 48 pcnt (depends on tester used) - Nov 2017&lt;/a>&lt;/p></description></item><item><title>4 popular vitamin D testers gave very different results (no surprise)</title><link>//localhost:1313/posts/4-popular-vitamin-d-testers-gave-very-different-results-no-surprise.html</link><pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/4-popular-vitamin-d-testers-gave-very-different-results-no-surprise.html</guid><description>&lt;p>&lt;strong>Note: For many years there has been an attempt at standardizing Vitamin D measurments used for research&lt;br>
+It appears that most hospitals/testing facilities are not &amp;ldquo;standardized&amp;rdquo;&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the Standarization PDF from VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;/div>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Background: To compare four automated immunoassays for the measurement of 25(OH)-vitamin D (25-OHD) and to assess the impact on the results obtained from a healthy population.&lt;/p>
+&lt;p>Methods: We analysed 100 serum samples on Unicel DxI 800 (Beckman Coulter), Architect i1000 (Abbott), Cobas e411 (Roche) and Liaison XL (DiaSorin). Passing-Bablok regression and Bland-Altman plots were used for method comparison. In order to categorise the obtained values, results were categorised into the following groups: 0-25 nmol/L, 25-50 nmol/L, 50-75 nmol/L and above 75 nmol/L and compared. The percentage of samples below 75 nmol/L, and below 50 nmol/L was then calculated for every method.&lt;/p></description></item><item><title>Vitamin D tester based on villi absorption in intestines found to be extremely sensitive</title><link>//localhost:1313/posts/vitamin-d-tester-based-on-villi-absorption-in-intestines-found-to-be-extremely-sensitive.html</link><pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-tester-based-on-villi-absorption-in-intestines-found-to-be-extremely-sensitive.html</guid><description>&lt;p>&lt;strong>This Raman Tester for Vitamin D appears to be very expensive and with low prcision&lt;/strong>&lt;/p>
+&lt;/div>
+&lt;p>&lt;strong>Fuzzy chart in PDF via Google images&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="800">
+&lt;p>&lt;strong>Highlights&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Developed a bio-inspired AgNV-based aptasensor for detection of 25OHD3.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The LOD of the AgNV-based aptasensor was 0.001 ng/mL with human serum solution.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The AgNV-based aptasensor could selectively detect 25OHD3 from other vitamins.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>This method can shed light on the development of SERS-based vitamin sensors.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Abstract&lt;/p>
+&lt;p>Vitamin D has been identified as an essential biomarker for various diseases such as rheumatoid arthritis, cancer, and cardiovascular diseases. Recently, many reports have demonstrated a potential link between vitamin D and systemic infections, including coronavirus disease 2019. The villi of the small intestine increase the surface area of the intestinal walls, demonstrating exceptionally efficient absorption of nutrients in the lumen and adding digestive secretions. In this study, based on the villi structure, we developed a bio-inspired silver nanovilli-based sandwich-type surface enhanced &lt;strong>Raman scattering&lt;/strong> aptasensor for the ultrasensitive and selective detection of 25-hydroxy vitamin D3. The densely packed nanovilli structure enhanced the Raman signal, forming hotspots owing to its large surface area. Using experiments and electromagnetic simulations, we optimized the nanovilli structure as a SERS sensor. The sandwich-type aptasensor was designed using an aptamer and 4-Phenyl-1,2,4-triazoline-3,5-dione-methylene blue complex. The nanovilli-based aptasensor could sensitively detect various concentrations of 25-hydroxy vitamin D3, ranging from those found in deficient to excess conditions.&lt;/p></description></item><item><title>Instant, low-cost Vitamin D test kits available - UK Amazon</title><link>//localhost:1313/posts/instant-low-cost-vitamin-d-test-kits-available-uk-amazon.html</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/instant-low-cost-vitamin-d-test-kits-available-uk-amazon.html</guid><description>&lt;h4 id="4-testers-as-of-aprilhttpswwwamazoncoukskvitamindhometestrefnb_sb_noss_2">&lt;a href="https://www.amazon.co.uk/s?k=vitamin+d+home+test&amp;amp;ref=nb_sb_noss_2">4 testers as of April&lt;/a>&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="300">
+&lt;h4 id="notes">Notes&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>This test indicates if your vitamin D level &amp;gt;35 ng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Amazon rarely ships health products outside of their country&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Amazons in Germany, India, and Canada do not stock it.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I believe that over 1 million of these testers are been sold around the world&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>As of April 2021 this test has still not been approved by the FDA for sale in the US&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h4 id="a-hrefpostsinstant-vitamin-d-yes-no-test-now-available-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-instant-vitamin-d-yes-no-test-now-availableinstant-vitamin-d-yes-no-test-now-availablea-2014">&lt;a href="//localhost:1313/posts/instant-vitamin-d-yes-no-test-now-available" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Instant vitamin D Yes-No test now available">Instant vitamin D Yes-No test now available&lt;/a> (2014)&lt;/h4>
+&lt;p>&lt;strong>Instructions made by VitaminDWiki for Test4D&lt;/strong>&lt;/p></description></item><item><title>Excessive lipids in blood can result in very low vitamin D test results</title><link>//localhost:1313/posts/excessive-lipids-in-blood-can-result-in-very-low-vitamin-d-test-results.html</link><pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/excessive-lipids-in-blood-can-result-in-very-low-vitamin-d-test-results.html</guid><description>&lt;h4 id="the-role-of-interferences-in-the-increasing-incidence-of-vitamin-d-deficiency">The Role of Interferences in the Increasing Incidence of Vitamin D Deficiency&lt;/h4>
+&lt;p>Endocrine, Metabolic &amp;amp; Immune Disorders - Drug Targets, Volume 20 , Issue 8 , 2020.DOI : 10.2174/1871530320666200604160208&lt;/p>
+&lt;p>Ataman Gonel*, Idris Kirhan, Ismail Koyuncu, Nihayet Bayraktar, Mujgan Ercan Karadag, Mehmet Karadag&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>Summary: 21% of the 100 people with high lipids had a false reading of 10 ng,&lt;/p>
+&lt;p>    untill the blood was dilluted 10X, when the reading became 39 ng&lt;/p></description></item><item><title>Huge variation in Vitamin D test results between 4 testers for 8 people – 2013</title><link>//localhost:1313/posts/huge-variation-in-vitamin-d-test-results-between-4-testers-for-8-people-2013.html</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/huge-variation-in-vitamin-d-test-results-between-4-testers-for-8-people-2013.html</guid><description/></item><item><title>Several governments have restricted Vitamin D testing (hard to associate low D with COVID-19)</title><link>//localhost:1313/posts/several-governments-have-restricted-vitamin-d-testing-hard-to-associate-low-d-with-covid-19.html</link><pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/several-governments-have-restricted-vitamin-d-testing-hard-to-associate-low-d-with-covid-19.html</guid><description>&lt;h5 id="vitamin-d-testing-impact-of-changes-to-testing-guidelines-on-detection-of-patients-at-risk-of-vitamin-d-deficiency">Vitamin D testing: Impact of changes to testing guidelines on detection of patients at risk of vitamin D deficiency&lt;/h5>
+&lt;p>Ann Clin Biochem . 2021 Jan 14;4563220987589. &lt;a href="https://doi.org/10.1177/0004563220987589">doi: 10.1177/0004563220987589&lt;/a>&lt;/p>
+&lt;p>Andrew St John 1, Howard Morris 2, Alice Richardson 3, Brett Lidbury 3, Greg Ward 4, Tony Badrick 5&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>Governments &lt;span style="color:#F00;">AGAINST&lt;/span> testing (too many doctors and patients were asking for tests)&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamin-d-tests-for-canadian-bc-adults-can-only-be-ordered-by-specialists">Vitamin D tests for Canadian BC adults can only be ordered by specialists – Oct 2019&lt;/a>&lt;/p></description></item><item><title>Greatly improved Vitamin D testing repeatability</title><link>//localhost:1313/posts/greatly-improved-vitamin-d-testing-repeatability.html</link><pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/greatly-improved-vitamin-d-testing-repeatability.html</guid><description>&lt;h4 id="improved-repeatability-of-a-vitamin-d-assay-in-plasma-samples-obtained-from-mechanical-separator-tubes">Improved Repeatability of a Vitamin D Assay in Plasma Samples Obtained From Mechanical Separator Tubes&lt;/h4>
+&lt;p>J Appl Lab Med. 2020 Mar 1;5(2):423-425. &lt;a href="https://doi.org/10.1093/jalm/jfz011.">doi: 10.1093/jalm/jfz011.&lt;/a>&lt;/p>
+&lt;p>Anne L Bruinen 1, Marcel J W Janssen 1&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>Have seen no indication that these separator tubes are in wide-spread use&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Thee were no citations of this study as of June 2021&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamin-d-testing-accuracies-including-dried-blood-spot">Vitamin D testing accuracies, including dried blood spot – Jan 2020&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamin-d-deficiency-of-a-group-15-pcnt-to-48-pcnt-depends-on-tester-used" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D deficiency of a group - 15 pcnt to 48 pcnt (depends on tester used) - Nov 2017">Vitamin D deficiency of a group - 15 pcnt to 48 pcnt (depends on tester used) - Nov 2017&lt;/a>&lt;/p></description></item><item><title>Epimers of Vitamin D: A Review</title><link>//localhost:1313/posts/epimers-of-vitamin-d-a-review.html</link><pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/epimers-of-vitamin-d-a-review.html</guid><description>&lt;p>Int. J. Mol. Sci. 2020, 21(2), 470; &lt;a href="https://doi.org/10.3390/ijms21020470">https://doi.org/10.3390/ijms21020470&lt;/a>&lt;/p>
+&lt;p>by Bashar Al-Zohily 1,Asma Al-Menhali 2,*,Salah Gariballa 3,Afrozul Haq 4 andI ltaf Shah 1,&lt;/p>
+&lt;p>1 Department of Chemistry, College of Science, United Arab Emirates University, Al Ain 15551, UAE&lt;/p>
+&lt;p>2 Department of Biology, College of Science, United Arab Emirates University, Al Ain 15551, UAE&lt;/p>
+&lt;p>3 Internal Medicine, Faculty of Medicine &amp;amp; Health Sciences, United Arab Emirates University, Al Ain 15551, UAE&lt;/p>
+&lt;p>4 Department of Food Technology, School of Interdisciplinary Sciences and Technology, Jamia Hamdard University, New Delhi-110062, India&lt;/p></description></item><item><title>Vitamin D tests for Canadian BC adults can only be ordered by specialists</title><link>//localhost:1313/posts/vitamin-d-tests-for-canadian-bc-adults-can-only-be-ordered-by-specialists.html</link><pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-tests-for-canadian-bc-adults-can-only-be-ordered-by-specialists.html</guid><description/></item><item><title>Vitamin D testing accuracies, including dried blood spot</title><link>//localhost:1313/posts/vitamin-d-testing-accuracies-including-dried-blood-spot.html</link><pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-testing-accuracies-including-dried-blood-spot.html</guid><description>&lt;h4 id="00f-vitamin-d-blood-test-misses-a-lot-categoriesgenetics">&lt;a href="//localhost:1313/categories/genetics">~~#00F: Vitamin D blood test misses a lot ~~&lt;/a>&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="359">
+&lt;hr>
+&lt;h4 id="see-also-web">See also web&lt;/h4>
+&lt;ul>
+&lt;li>Vitamin D Measurement, the Debates Continue, New Analytes Have Emerged, Developments Have Variable Outcomes - Nov 2019, Free PDF &lt;a href="DOI:%2010.1007/s00223-019-00620-2">DOI: 10.1007/s00223-019-00620-2&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Expect the blood test result to be +- ~10%&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;p>Vitamin D deficiency and insufficiency has become a pandemic health problem with a consequent increase of requests for determining circulating levels of 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span>. However, the analytical performance of these immunoassays, including radioimmunoassay and ELISA, is highly variable, and even mass spectrometric methods, which nowadays serves as the gold standard for the quantitatively determination of 25(OH)D, do not necessarily produce comparable results, creating limitations for the definition of normal vitamin D status ranges. To solve this problem, great efforts have been made to promote standardization of laboratory assays, which is important to achieve comparable results across different methods and manufacturers. In this review, we performed a systematic analysis evaluating critically the advantages and limits of the current assays available for the measure of vitamin D status, i.e., circulating 25(OH)D and its metabolites, making suggestions that could be used in the clinical practice. Moreover, we also suggest the use of alternatives to blood test, including standardized surveys that may be of value in alerting health-care professionals about the vitamin D status of their patients.&lt;/p></description></item><item><title>94 X increase in Vitamin D testing in Australia (2000-2010, then they shut it down)</title><link>//localhost:1313/posts/94-x-increase-in-vitamin-d-testing-in-australia-2000-2010-then-they-shut-it-down.html</link><pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/94-x-increase-in-vitamin-d-testing-in-australia-2000-2010-then-they-shut-it-down.html</guid><description>&lt;h4 id="oral-presentation-vitamin-d-test-ordering-practices-of-australian-general-practitioners-between-2007-and-2017-evidence-from-electronic-health-records">(Oral Presentation)  Vitamin D test ordering practices of australian general practitioners between 2007 and 2017: evidence from electronic health records&lt;/h4>
+&lt;p>BMJ Evidence Based Medicine &lt;a href="http://dx.doi.org/10.1136/bmjebm-2019-POD.43">http://dx.doi.org/10.1136/bmjebm-2019-POD.43&lt;/a>&lt;/p>
+&lt;p>Gorkem Sezgin, Andrew Georgiou&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/australians-paying-for-most-vitamin-d-tests-40-percent-deficient-in-winter">Australians paying for most Vitamin D tests, 40 percent deficient in winter - March 2019&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/80-x-increase-in-vitamin-d-testing-in-australia-in-a-decade" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 80 X increase in Vitamin D testing in Australia in a decade - June 2013">80 X increase in Vitamin D testing in Australia in a decade - June 2013&lt;/a>&lt;/p></description></item><item><title>Vitamin D testers have different test results if there is chronic kidney disease</title><link>//localhost:1313/posts/vitamin-d-testers-have-different-test-results-if-there-is-chronic-kidney-disease.html</link><pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-testers-have-different-test-results-if-there-is-chronic-kidney-disease.html</guid><description>&lt;h4 id="chronic-kidney-disease-is-a-main-confounding-factor-for-25-vitamin-d-measurement">Chronic kidney disease is a main confounding factor for 25-vitamin D measurement&lt;/h4>
+&lt;p>J Bras Nefrol. 2019 Sep 26. &lt;a href="https://doi.org/10.1590/2175-8239-JBN-2019-0053.">doi: 10.1590/2175-8239-JBN-2019-0053.&lt;/a>&lt;/p>
+&lt;p>Hanna Karla Andrade Guapyassú Machado, Carolina Steller Wagner Martins, Vanda Jorgetti, Rosilene Motta Elias, Rosa Maria Affonso Moysés&lt;/p>
+&lt;p>Jornal Brasileiro de Nefrologia: ʹorgão Oficial de Sociedades Brasileira e Latino-Americana de Nefrologia&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>The founder of VitaminDWiki does not recall seeing this before&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng">More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019&lt;/a>&lt;/p></description></item><item><title>Low trauma bone fractures in seniors – considering Vitamin D loading dose for all, without testing</title><link>//localhost:1313/posts/low-trauma-bone-fractures-in-seniors-considering-vitamin-d-loading-dose-for-all-without-testing.html</link><pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/low-trauma-bone-fractures-in-seniors-considering-vitamin-d-loading-dose-for-all-without-testing.html</guid><description/></item><item><title>Magnesium, Vitamin D, Omega-3, TSH - importance and testing - Dean and Baggerly</title><link>//localhost:1313/posts/magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly.html</link><pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#overview--before-radio-broadcast-oct-28-2019httpsdrcarolyndeanlivecom20191028tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show">&lt;a href="https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/">Overview before radio broadcast, Oct 28, 2019&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#introduction---first-hour-of-transcript">Introduction - first hour of transcript&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#carole-baggerly-introduction">Carole Baggerly introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#magnesium">Magnesium&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tsh">TSH&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#second-hour---with-phone-in-questions-and-answers">Second Hour - with phone-in questions and answers&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#serum-level-not-dose">Serum level not dose&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#some-grh-kit-tests---nov-2019">Some GRH Kit tests- Nov 2019&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>&lt;strong>&lt;a href="https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/">Click here to listen to hours 1 and/or 2&lt;/a>&lt;/strong>&lt;/p>
+&lt;h4 id="overview--before-radio-broadcast-oct-28-2019httpsdrcarolyndeanlivecom20191028tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show">&lt;a href="https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/">Overview before radio broadcast, Oct 28, 2019&lt;/a>&lt;/h4>
+&lt;p>This weeks radio show is an introduction to GrassrootsHealth, a nutrient research portal for the lay public. We are partnering with this company in order to analyze your supplement intake, your health improvements, and validate them with your blood tests. The tests that &lt;strong>Grassrootshealth&lt;/strong> makes available are in-home, finger-stick, blood smears on specially treated cardboard strips. **** The Blood Analysis Kit that we are endorsing covers Magnesium RBC, Vitamin D, Omega-3 fatty acids, and TSH. **As you’ll hear and come to understand from listening to the archive, we have found a way to work closely with one blood testing lab and use uniquely designed questionnaires that document supplements, symptoms, and results that people are achieving on our protocols. It’s the type of nutrient research that I’ve always wanted to do and that’s never been done before.&lt;/p></description></item><item><title>Body impedance can estimate body fat, and perhaps Vitamin D</title><link>//localhost:1313/posts/body-impedance-can-estimate-body-fat-and-perhaps-vitamin-d.html</link><pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/body-impedance-can-estimate-body-fat-and-perhaps-vitamin-d.html</guid><description>&lt;p>Since the 1990s body impedance has been used to estimate human body fat&lt;/p>
+&lt;p>As of 2019 there are &amp;gt; 100 weight scales on &lt;a href="https://www.amazon.com/slp/most-accurate-body-fat-scale/xtu4ytj78hqr7q5%20">Amazon&lt;/a> can estimate body fat&lt;/p>
+&lt;p>They range in cost from about $30 to $90&lt;/p>
+&lt;p>The outputs are typically one of the following: visual, wifi, and Bluetooth&lt;/p>
+&lt;p>Estimate, not measure: Fairly repeatable, but accuracies are about 30%&lt;/p>
+&lt;p>Estimation varies with age, male/female, hydration, etc. etc.&lt;/p>
+&lt;p>Note - only one of the Amazon devices measure upper-body impedance (with a device you hold in your hands)&lt;/p></description></item><item><title>Vitamin D levels observed to vary by 20 percent during a day</title><link>//localhost:1313/posts/vitamin-d-levels-observed-to-vary-by-20-percent-during-a-day.html</link><pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-levels-observed-to-vary-by-20-percent-during-a-day.html</guid><description>&lt;h4 id="25-hydroxyvitamin-d-variability-within-person-due-to-diurnal-rhythm-and-illness-a-case-report">25-Hydroxyvitamin D variability within-person due to diurnal rhythm and illness: a case report&lt;/h4>
+&lt;p>Journal of Medical Case Reports volume 13, February 2019&lt;/p>
+&lt;p>Christine B. French, Sharon L. McDonnell &amp;amp; Reinhold Vieth&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+#### Note: A 10% change in Vitamin D level is meaningless
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamin-d-measurements-vary-with-the-same-sample-of-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D measurements vary with the same sample of blood – March 2014">Vitamin D measurements vary with the same sample of blood – March 2014&lt;/a>&lt;/p></description></item><item><title>Problems with Vitamin D Testing – chapter</title><link>//localhost:1313/posts/problems-with-vitamin-d-testing-chapter.html</link><pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/problems-with-vitamin-d-testing-chapter.html</guid><description>&lt;p>&lt;strong>Vitamin D Testing in Clinical Settings: Methodologies, Accuracy and Standardization&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Chapter 1 in Book: Vitamin D Deficiency: Causes &amp;amp;Treatments&lt;/strong>&lt;/p>
+&lt;p>FakhriBSaida ; Chong Yuan &lt;a href="mailto:chong.yuan@diazyme.com">chong.yuan@diazyme.com&lt;/a>&lt;/p>
+&lt;p>1Diazyme Laboratories Inc., Poway, CA&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>Great description of problems of Vitamin D testing&lt;/strong>&lt;/p>
+&lt;p>Some testers do not account properly for Vitamin D Binding protein (varies from 90-1000 ug/ml)&lt;/p>
+&lt;p>Some testers do not distinguish between D3 and D2+D3&lt;/p>
+&lt;p>Some testers do not distinguish between D3 and its epimers (important for infants)&lt;/p></description></item><item><title>Instant Vitamin D testing aided by a smartphone has 90 percent accuracy</title><link>//localhost:1313/posts/instant-vitamin-d-testing-aided-by-a-smartphone-has-90-percent-accuracy.html</link><pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/instant-vitamin-d-testing-aided-by-a-smartphone-has-90-percent-accuracy.html</guid><description>&lt;h4 id="a-quantitative-point-of-need-assay-for-the-assessment-of-vitamin-d3-deficiency">A Quantitative Point-of-Need Assay for the Assessment of Vitamin D3 Deficiency&lt;/h4>
+&lt;p>Sci Rep. 2017; 7: 14142. &lt;a href="https://doi.org/10.1038/s41598-017-13044-5">doi: 10.1038/s41598-017-13044-5&lt;/a>&lt;/p>
+&lt;p>S. Vemulapati,1 E. Rey,1 D. O’Dell,2 S. Mehta, &lt;a href="mailto:smehta@cornell.edu">smehta@cornell.edu&lt;/a>) or D.E. &lt;a href="mailto:de54@cornell.edu">de54@cornell.edu&lt;/a>. 3,4 and D. Erickson &lt;a href="mailto:smehta@cornell.edu">smehta@cornell.edu&lt;/a>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="900">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>Vitamin D is necessary for the healthy growth and development of bone and muscle. Vitamin D deficiency, which is present in 42% of the US population, is often undiagnosed as symptoms may not manifest for several years and long-term deficiency has been linked to osteoporosis, diabetes and cancer. Currently the majority of vitamin D testing is performed in large-scale commercial laboratories which have high operational costs and long times-to-result. Development of a low-cost point-of-need assay could be transformative to deficiency analysis in limited-resource settings. The best biomarker of vitamin D status, 25hydroxyvitamin D3 (25(OH)D3), however, is particularly challenging to measure in such a format due to complexities involved in sample preparation, including the need to separate the marker from its binding protein. Here we present a rapid diagnostic test for the accurate, quantitative assessment of 25(OH)D3 in finger-stick blood. The assay is accompanied by a smartphone-assisted portable imaging device that can autonomously perform the necessary image processing. To achieve accurate quantification of 25(OH)D3, we also demonstrate a novel elution buffer that separates 25(OH)D3 from its binding protein in situ, eliminating the need for sample preparation. In human trials, the accuracy of our platform is 90.5%.&lt;/p></description></item><item><title>Vitamin D levels vary across the brain, what about other body tissues</title><link>//localhost:1313/posts/vitamin-d-levels-vary-across-the-brain-what-about-other-body-tissues.html</link><pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-levels-vary-across-the-brain-what-about-other-body-tissues.html</guid><description>&lt;h4 id="determination-of-vitamin-d-and-its-metabolites-in-human-brain-using-an-ultra-pressure-lctandem-mass-spectra-method">Determination of Vitamin D and Its Metabolites in Human Brain Using an Ultra-Pressure LC–Tandem Mass Spectra Method&lt;/h4>
+&lt;p>Current Developments in Nutrition, Vol 3, Issue 7, July 2019, &lt;a href="https://doi.org/10.1093/cdn/nzz074">https://doi.org/10.1093/cdn/nzz074&lt;/a>&lt;/p>
+&lt;p>Xueyan Fu Gregory G Dolnikowski William B Patterson Bess Dawson-Hughes Tong Zheng Martha C Morris Thomas M Holland Sarah L Booth&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Learned from Drew Makowski at the Vitamin D Workshop in New York City, June 2019&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="http://www.heartlandassays.com/services/vitamin-d-analysis">Heartland Assays&lt;/a> - $200 to test for Vitamin D inside of Tissues&lt;/p></description></item><item><title>UK (NHS) now provides blood taking at home (Vitamin D, panel, etc.)</title><link>//localhost:1313/posts/uk-nhs-now-provides-blood-taking-at-home-vitamin-d-panel-etc.html</link><pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/uk-nhs-now-provides-blood-taking-at-home-vitamin-d-panel-etc.html</guid><description>&lt;h4 id="montor-my-healthhttpsmonitormyhealthorguk">&lt;a href="https://monitormyhealth.org.uk/#">Montor my Health&lt;/a>&lt;/h4>
+&lt;p>Order your own test and sample your blood at home&lt;/p>
+&lt;p>Get results in approximately 2 days&lt;/p>
+&lt;p>Results can optionally be shared with your doctor&lt;/p>
+&lt;p>&lt;del>0163&lt;/del> 29 Vitamin D&lt;/p>
+&lt;p>&lt;del>0163&lt;/del> 47 Panel: Diabetes, Vitamin D, Cholesterol, Thyroid&lt;/p>
+&lt;p>&lt;strong>Vitamin D Reference ranges (UK)&lt;/strong>&lt;/p>
+&lt;p>Deficient - Less than 10 nmol/L&lt;/p>
+&lt;p>Insufficient - 10 - 35 nmol/L&lt;/p>
+&lt;p>Adequate - 36 - 60 nmol/L&lt;/p>
+&lt;p>Optimal - Greater than 60 nmol/L&lt;/p>
+&lt;p>Needs more blood than a bloodspot test – perhaps 1 teaspoon of blood&lt;/p></description></item><item><title>Saliva and Vitamin D – many studies</title><link>//localhost:1313/posts/saliva-and-vitamin-d-many-studies.html</link><pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/saliva-and-vitamin-d-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#saliva-and-vitamin-d-in-keywords-2017">Saliva and Vitamin D in keywords 2017&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#saliva-dental-caries-and-immune-peptide-rct-jan-2018--with-pdf">Saliva, Dental Caries and Immune peptide RCT Jan 2018 – with PDF&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-in-saliva-not-correlate-with-recurrent-aphthous-stomatitis-and-healthy-individuals--dec-2018---with-pdf">Vitamin D in saliva not correlate with Recurrent Aphthous Stomatitis and Healthy Individuals – Dec 2018 – with PDF&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#no-correlation-between-vitamin-d-levels-in-saliva-and-blood--jan-1987-free-pdf-online">No correlation between Vitamin D levels in saliva and blood – Jan 1987 free PDF online&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chewing-increasing-vitamin-d-levels-in-saliva--dec-2013">Chewing increasing Vitamin D levels in saliva – Dec 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dried-blood-spot-and-dried-saliva-both-used-for-home-vitamin-d-sampling--april-2015-pdf-on-vitamindwiki">Dried blood spot and dried saliva both used for home Vitamin D sampling – April 2015, PDF on VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#perhaps-only-8-nanomolml--of-vitamin-d-in-saliva--1983">Perhaps only 8 nanomol/ml of Vitamin D in Saliva – 1983&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h4 id="saliva-and-vitamin-d-in-keywords-2017">Saliva and Vitamin D in keywords 2017&lt;/h4>
+&lt;p>&lt;strong>Vitamin D Testing-Where Are We and What Is on the Horizon?&lt;/strong>&lt;/p></description></item><item><title>Vitamin D compliance 3X higher when children with fractures actually knew their low vitamin D level</title><link>//localhost:1313/posts/vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level.html</link><pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level.html</guid><description>&lt;h4 id="obtaining-vitamin-d-levels-in-children-with-fractures-improves-supplementation-compliance">Obtaining Vitamin D Levels in Children With Fractures Improves Supplementation Compliance&lt;/h4>
+&lt;p>Journal of Pediatric Orthopaedics: March 06, 2019 – &lt;a href="https://doi.org/10.1097/BPO.0000000000001363">doi: 10.1097/BPO.0000000000001363&lt;/a>&lt;/p>
+&lt;p>Minkowitz, Barbara, MD*; Nadel, Leah, BA†; McDermott, Meghan, BA†; Cherna, Zachary, BS*; Ristic, Jennifer, PA-C, MMSc*; Chiu, Stephanie, MPH‡ AHS Bone Health Compliance Group&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Compliance = take at least 4 out of 7 days&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Note: Study did not even consider the increased compliance from&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Less frequent dosing&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Starting with a loading dose so the benefits can be felt in days instead of months&lt;/p></description></item><item><title>Australians paying for most Vitamin D tests, 40 percent deficient in winter</title><link>//localhost:1313/posts/australians-paying-for-most-vitamin-d-tests-40-percent-deficient-in-winter.html</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/australians-paying-for-most-vitamin-d-tests-40-percent-deficient-in-winter.html</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/uk-considers-vitamin-d-tests-appropriate-for-only-4-existing-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UK considers Vitamin D tests appropriate for only 4 existing health problems, – June 2018">UK considers Vitamin D tests appropriate for only 4 existing health problems, – June 2018&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/mandatory-vitamin-d-screening-for-all-patients-vitamin-d-conference-in-middle-east" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mandatory Vitamin D screening for all patients – vitamin D conference in Middle East – March 2017">Mandatory Vitamin D screening for all patients – vitamin D conference in Middle East – March 2017&lt;/a>&lt;/p></description></item><item><title>Vitamin D home tester wanted – 50, 000 dollar prize offered by Nestlé</title><link>//localhost:1313/posts/vitamin-d-home-tester-wanted-50-000-dollar-prize-offered-by-nestle.html</link><pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-home-tester-wanted-50-000-dollar-prize-offered-by-nestle.html</guid><description>&lt;h4 id="nestlé-offers-us50000-for-tackling-vitamin-d-deficiencieshttpexecutive-bulletincomhealthnestle-offers-us50000-for-tackling-vitamin-d-deficiencies">&lt;a href="http://executive-bulletin.com/health/nestle-offers-us50000-for-tackling-vitamin-d-deficiencies">Nestlé Offers US$50,000 For Tackling Vitamin D Deficiencies&lt;/a>&lt;/h4>
+&lt;ul>
+&lt;li>“… offering US$50,000 to the winning applicant who develops a simple and economic method for checking daily levels, and creates an app that stores results and provides professional advice on how to improve them”&lt;/li>
+&lt;/ul>
+&lt;p>Details at &lt;a href="https://www.henri.nestle.com/">https://www.henri.nestle.com/&lt;/a>     The deadline for responses is 17th March 2019.&lt;/p>
+&lt;hr>
+&lt;h4 id="observation-by-henry-lahore-founder-of-vitamindwiki">Observation by Henry Lahore, founder of VitaminDWiki&lt;/h4>
+&lt;p>I have been tracking simple Vitamin D testers for over 4 years&lt;/p></description></item><item><title>Health Insurance (UnitedHealth) restricting Vitamin D payments to only a few diseases</title><link>//localhost:1313/posts/health-insurance-unitedhealth-restricting-vitamin-d-payments-to-only-a-few-diseases.html</link><pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/health-insurance-unitedhealth-restricting-vitamin-d-payments-to-only-a-few-diseases.html</guid><description>&lt;h4 id="unitedhealthcare-community-plan-of-california-changing-its-vitamin-d-testing-reimbursement-policyhttpswwwxifincomresourcesindustry-news201812unitedhealthcare-community-plan-california-changing-its-vitamin-d">&lt;a href="https://www.xifin.com/resources/industry-news/201812/unitedhealthcare-community-plan-california-changing-its-vitamin-d">UnitedHealthCare Community Plan of California Changing its Vitamin D Testing Reimbursement Policy&lt;/a>&lt;/h4>
+&lt;h4 id="also-recently-changed-michigan-missouri-ny-ohio-floridahttpswwwuhcprovidercomenhealth-plans-by-statevirginia-health-plansva-comm-plan-homeva-cp-payment-policy-notificationshtml">Also recently changed &lt;a href="https://www.uhcprovider.com/en/health-plans-by-state/virginia-health-plans/va-comm-plan-home/va-cp-payment-policy-notifications.html">Michigan, Missouri, NY, Ohio, Florida&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>I was unable to find the list of approved diseases in 30 minutes of hunting on their website or the Endocrinology Publication&lt;/strong>&lt;/p>
+&lt;p>“American Association of Clinical Endocrinologists and The American College of Endocrinology, “Reasonable approaches to vitamin D assessment and treatment include an initial measurement of 25(OH)D in patients at risk of deficiency, or alternatively, vitamin D supplementation and subsequent 25(OH)D measurement 3-4 months later to assess dose adequacy”&lt;/p></description></item><item><title>Child died in hospital, death due to low vitamin D, mother is suing hospital</title><link>//localhost:1313/posts/child-died-in-hospital-death-due-to-low-vitamin-d-mother-is-suing-hospital.html</link><pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/child-died-in-hospital-death-due-to-low-vitamin-d-mother-is-suing-hospital.html</guid><description>&lt;h4 id="simple-test-could-have-saved-my-baby-tragic-mother-suing-walsall-hospitalhttpswwwexpressandstarcomnewshealth20181119simple-test-could-have-saved-my-baby-tragic-mother-suing-walsall-hospital">&lt;a href="https://www.expressandstar.com/news/health/2018/11/19/simple-test-could-have-saved-my-baby-tragic-mother-suing-walsall-hospital/">&amp;lsquo;Simple test could have saved my baby’: Tragic mother suing Walsall hospital&lt;/a>&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>“One-year-old Dataeo Scully died at Walsall Manor Hospital in March. An investigation carried revealed the cause of death was a lack of Vitamin D.”&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“They told me it is not protocol to check Vitamin D but it is important and there is not much out there about it. I want to raise awareness by telling Dataeo’s story.”&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="300">
+&lt;p>&lt;strong>&lt;a href="https://www.dailymail.co.uk/news/article-6410465/Heartbroken-mother-launches-legal-action-against-hospital-son-dies-Vitamin-D-deficiency.html">UK Daily Mail&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Vitamin D testing at home – for as little as 50 dollars on Amazon</title><link>//localhost:1313/posts/vitamin-d-testing-at-home-for-as-little-as-50-dollars-on-amazon.html</link><pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-testing-at-home-for-as-little-as-50-dollars-on-amazon.html</guid><description>&lt;ul>
+&lt;li>
+&lt;p>There were 10+ home test kits on Amazon (US) as of Oct 2018&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Generally home test kits are only a little less accurate than those in labs.&lt;/p>
+&lt;ul>
+&lt;li>home tests are generally within 5 nanograms of a lab measurement&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Cost of home testing is often 3X lower cost than hospital testing&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Cost of home testing is similar to costs of tests from Life Extension&lt;/p>
+&lt;ul>
+&lt;li>which require driving to a lab – which can be 10-300 miles away&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="some-low-cost-examples">Some low-cost examples&lt;/h2>
+&lt;h4 id="50">$50&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;h4 id="60">$60&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="900">
+&lt;h4 id="58">$58&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;p>I happened to have used this one - when it was on sale&lt;/p></description></item><item><title>Some employers offer vitamin D testing, some doctors reduce doses, even if deficient</title><link>//localhost:1313/posts/some-employers-offer-vitamin-d-testing-some-doctors-reduce-doses-even-if-deficient.html</link><pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/some-employers-offer-vitamin-d-testing-some-doctors-reduce-doses-even-if-deficient.html</guid><description>&lt;p>Vitamin D Status and Supplementation in Employer-Sponsored Wellness Program&lt;/p>
+&lt;p>Am J Health Promot. 2018 Jul;32(6):1383-1385. &lt;a href="https://doi.org/10.1177/0890117117710353.">doi: 10.1177/0890117117710353.&lt;/a>&lt;/p>
+&lt;p>Kaufman HW1, Chen Z1.&lt;/p>
+&lt;p>1 Quest Diagnostics, Madison, NJ, USA. &lt;a href="mailto:harvey.w.kaufman@questdiagnostics.com">harvey.w.kaufman@questdiagnostics.com&lt;/a>&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;ul>
+&lt;li>
+&lt;p>Some employer-sponsored wellness programs apparently now offer free Vitamin D tests&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Expect that only a fraction of the employees will take the time and effort needed to get a Vitamin D test&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>No indication if free Vitamin D is also provided to the employees&lt;/p></description></item></channel></rss>

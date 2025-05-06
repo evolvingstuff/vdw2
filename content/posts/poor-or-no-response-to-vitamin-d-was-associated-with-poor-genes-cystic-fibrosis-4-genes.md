@@ -3,7 +3,8 @@ title: "Poor or no response to vitamin D was associated with poor genes (cystic 
 slug: "poor-or-no-response-to-vitamin-d-was-associated-with-poor-genes-cystic-fibrosis-4-genes"
 aliases:
   - "/Poor+or+no+response+to+vitamin+D+was+associated+with+poor+genes+cystic+fibrosis+4+genes+Sept+2022"
-  - "/tiki-index.php?page_id=13891"
+  - "/13891"
+tiki_page_id: 13891
 date: 2022-09-07
 categories:
   - "Cystic Fibrosis"

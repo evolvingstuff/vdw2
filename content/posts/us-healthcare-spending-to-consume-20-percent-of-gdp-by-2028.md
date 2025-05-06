@@ -3,7 +3,8 @@ title: "US Healthcare spending to consume 20% of GDP by 2028"
 slug: "us-healthcare-spending-to-consume-20-percent-of-gdp-by-2028"
 aliases:
   - "/US+Healthcare+spending+to+consume+20+of+GDP+by+2028"
-  - "/tiki-index.php?page_id=14738"
+  - "/14738"
+tiki_page_id: 14738
 date: 2023-10-10
 categories:
   - "Health"

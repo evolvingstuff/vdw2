@@ -3,7 +3,8 @@ title: "Better visual memory if more vitamin D"
 slug: "better-visual-memory-if-more-vitamin-d"
 aliases:
   - "/Better+visual+memory+if+more+vitamin+D+–+April+2023"
-  - "/tiki-index.php?page_id=14366"
+  - "/14366"
+tiki_page_id: 14366
 date: 2023-04-08
 categories:
   - "Youth"

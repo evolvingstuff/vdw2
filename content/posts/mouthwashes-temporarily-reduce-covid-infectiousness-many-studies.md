@@ -3,7 +3,8 @@ title: "Mouthwashes temporarily reduce COVID infectiousness - many studies"
 slug: "mouthwashes-temporarily-reduce-covid-infectiousness-many-studies"
 aliases:
   - "/Mouthwashes+temporarily+reduce+COVID+infectiousness+-+many+studies"
-  - "/tiki-index.php?page_id=13262"
+  - "/13262"
+tiki_page_id: 13262
 date: 2022-01-16
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Instant, low-cost Vitamin D test kits available - UK Amazon"
 slug: "instant-low-cost-vitamin-d-test-kits-available-uk-amazon"
 aliases:
   - "/Instant+low-cost+Vitamin+D+test+kits+available+-+UK+Amazon+-+April+2021"
-  - "/tiki-index.php?page_id=12475"
+  - "/12475"
+tiki_page_id: 12475
 date: 2021-04-06
 categories:
   - "Tests for Vitamin D"

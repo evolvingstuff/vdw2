@@ -3,7 +3,8 @@ title: "Rotator cuff repair treatments – all but Vitamin D need a prescription
 slug: "rotator-cuff-repair-treatments-all-but-vitamin-d-need-a-prescription"
 aliases:
   - "/Rotator+cuff+repair+treatments+–+all+but+Vitamin+D+need+a+prescription+–+Sept+2022"
-  - "/tiki-index.php?page_id=13894"
+  - "/13894"
+tiki_page_id: 13894
 date: 2022-09-08
 categories:
   - "Trauma and surgery"

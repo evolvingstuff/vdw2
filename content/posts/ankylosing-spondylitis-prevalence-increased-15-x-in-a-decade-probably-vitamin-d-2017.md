@@ -3,7 +3,8 @@ title: "Ankylosing spondylitis prevalence increased 1.5 X in a decade (probably 
 slug: "ankylosing-spondylitis-prevalence-increased-15-x-in-a-decade-probably-vitamin-d-2017"
 aliases:
   - "/Ankylosing+spondylitis+prevalence+increased+15+X+in+a+decade+probably+Vitamin+D+2017"
-  - "/tiki-index.php?page_id=10164"
+  - "/10164"
+tiki_page_id: 10164
 date: 2018-10-29
 categories:
   - "Bone - Health"

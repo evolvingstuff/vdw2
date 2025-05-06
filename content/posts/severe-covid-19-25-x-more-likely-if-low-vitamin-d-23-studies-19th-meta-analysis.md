@@ -3,7 +3,8 @@ title: "Severe COVID-19 2.5 X more likely if low vitamin D (23 studies) – 19th
 slug: "severe-covid-19-25-x-more-likely-if-low-vitamin-d-23-studies-19th-meta-analysis"
 aliases:
   - "/Severe+COVID-19+25+X+more+likely+if+low+vitamin+D+23+studies+–+19th+meta-analysis+Oct+2021"
-  - "/tiki-index.php?page_id=12952"
+  - "/12952"
+tiki_page_id: 12952
 date: 2021-10-05
 categories:
   - "Meta-analysis of Vitamin D"

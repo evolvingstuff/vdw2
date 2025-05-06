@@ -3,7 +3,8 @@ title: "Better handgrip strength if some good vitamin D genes (or if supplement)
 slug: "better-handgrip-strength-if-some-good-vitamin-d-genes-or-if-supplement"
 aliases:
   - "/Better+handgrip+strength+if+some+good+vitamin+D+genes+or+if+supplement+–+April+2022"
-  - "/tiki-index.php?page_id=13464"
+  - "/13464"
+tiki_page_id: 13464
 date: 2022-04-09
 categories:
   - "Sports and Vitamin D"

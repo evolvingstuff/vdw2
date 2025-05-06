@@ -3,7 +3,8 @@ title: "Leishmaniasis (from sand flea) might be fought by Vitamin D - several st
 slug: "leishmaniasis-from-sand-flea-might-be-fought-by-vitamin-d-several-studies"
 aliases:
   - "/Leishmaniasis+from+sand+flea+might+be+fought+by+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=14901"
+  - "/14901"
+tiki_page_id: 14901
 date: 2023-12-21
 categories:
   - "Immunity"

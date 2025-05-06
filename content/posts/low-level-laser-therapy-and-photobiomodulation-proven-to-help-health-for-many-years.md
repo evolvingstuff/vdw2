@@ -3,7 +3,8 @@ title: "Low Level Laser therapy and photobiomodulation proven to help health for
 slug: "low-level-laser-therapy-and-photobiomodulation-proven-to-help-health-for-many-years"
 aliases:
   - "/Low+Level+Laser+therapy+and+photobiomodulation+proven+to+help+health+for+many+years+–+May+2020"
-  - "/tiki-index.php?page_id=11785"
+  - "/11785"
+tiki_page_id: 11785
 date: 2020-05-29
 categories:
   - "Off Topic"

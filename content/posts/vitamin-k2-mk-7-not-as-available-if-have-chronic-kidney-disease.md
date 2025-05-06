@@ -3,7 +3,8 @@ title: "Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease"
 slug: "vitamin-k2-mk-7-not-as-available-if-have-chronic-kidney-disease"
 aliases:
   - "/Vitamin+K2+MK-+7+not+as+available+if+have+Chronic+Kidney+Disease+-+Nov+2021"
-  - "/tiki-index.php?page_id=13073"
+  - "/13073"
+tiki_page_id: 13073
 date: 2021-11-11
 categories:
   - "Kidney"

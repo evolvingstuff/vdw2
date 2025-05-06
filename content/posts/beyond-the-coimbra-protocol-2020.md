@@ -3,7 +3,8 @@ title: "Beyond the Coimbra Protocol - 2020"
 slug: "beyond-the-coimbra-protocol-2020"
 aliases:
   - "/Beyond+the+Coimbra+Protocol+-+2020"
-  - "/tiki-index.php?page_id=13421"
+  - "/13421"
+tiki_page_id: 13421
 date: 2022-03-22
 categories:
   - "Multiple Sclerosis"

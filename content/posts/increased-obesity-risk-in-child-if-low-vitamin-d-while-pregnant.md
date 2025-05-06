@@ -3,7 +3,8 @@ title: "Increased obesity risk in child if low vitamin D while pregnant"
 slug: "increased-obesity-risk-in-child-if-low-vitamin-d-while-pregnant"
 aliases:
   - "/Increased+obesity+risk+in+child+if+low+vitamin+D+while+pregnant+-+Feb+2023"
-  - "/tiki-index.php?page_id=14258"
+  - "/14258"
+tiki_page_id: 14258
 date: 2023-02-11
 categories:
   - "Pregnancy"

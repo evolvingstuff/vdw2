@@ -3,7 +3,8 @@ title: "Seniors taking vitamin D were 40% less likely to get dementia"
 slug: "seniors-taking-vitamin-d-were-40-percent-less-likely-to-get-dementia"
 aliases:
   - "/Seniors+taking+vitamin+D+were+40+less+likely+to+get+dementia+-+Jan+2023"
-  - "/tiki-index.php?page_id=14561"
+  - "/14561"
+tiki_page_id: 14561
 date: 2023-07-28
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "COVID: more than 33 lineages and vaccines"
 slug: "covid-more-than-33-lineages-and-vaccines"
 aliases:
   - "/COVID+more+than+33+lineages+and+vaccines+–+Nov+2022"
-  - "/tiki-index.php?page_id=14004"
+  - "/14004"
+tiki_page_id: 14004
 date: 2022-10-10
 categories:
   - "Virus"

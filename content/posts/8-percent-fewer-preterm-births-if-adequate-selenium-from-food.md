@@ -3,7 +3,8 @@ title: "8 percent fewer preterm births if adequate Selenium from food"
 slug: "8-percent-fewer-preterm-births-if-adequate-selenium-from-food"
 aliases:
   - "/8+percent+fewer+preterm+births+if+adequate+Selenium+from+food+–+Aug+2019"
-  - "/tiki-index.php?page_id=11492"
+  - "/11492"
+tiki_page_id: 11492
 date: 2019-12-24
 categories:
   - "Pregnancy"

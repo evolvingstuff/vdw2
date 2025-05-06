@@ -3,7 +3,8 @@ title: "15,000,000 excess deaths in 2 years"
 slug: "15000000-excess-deaths-in-2-years"
 aliases:
   - "/15000000+excess+deaths+in+2+years+-+May+2022"
-  - "/tiki-index.php?page_id=13548"
+  - "/13548"
+tiki_page_id: 13548
 date: 2022-05-07
 categories:
   - "Mortality and D"

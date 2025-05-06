@@ -3,7 +3,8 @@ title: "Higher conscientiousness, extraversion related to higher vitamin D in se
 slug: "higher-conscientiousness-extraversion-related-to-higher-vitamin-d-in-seniors"
 aliases:
   - "/Higher+conscientiousness+extraversion+related+to+higher+vitamin+D+in+seniors+–+Feb+2023"
-  - "/tiki-index.php?page_id=14277"
+  - "/14277"
+tiki_page_id: 14277
 date: 2023-02-22
 categories:
   - "Seniors"

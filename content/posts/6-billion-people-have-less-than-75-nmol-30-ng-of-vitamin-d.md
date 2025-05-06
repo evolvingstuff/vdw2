@@ -3,7 +3,8 @@ title: "6 billion people have less than 75 nmol (30 ng) of Vitamin D"
 slug: "6-billion-people-have-less-than-75-nmol-30-ng-of-vitamin-d"
 aliases:
   - "/6+billion+people+have+less+than+75+nmol+30+ng+of+Vitamin+D+–+March+2023"
-  - "/tiki-index.php?page_id=14351"
+  - "/14351"
+tiki_page_id: 14351
 date: 2023-04-03
 categories:
   - "Deficiency of Vitamin D"

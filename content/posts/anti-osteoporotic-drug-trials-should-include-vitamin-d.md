@@ -3,7 +3,8 @@ title: "Anti-osteoporotic drug trials should include Vitamin D"
 slug: "anti-osteoporotic-drug-trials-should-include-vitamin-d"
 aliases:
   - "/Anti-osteoporotic+drug+trials+should+include+Vitamin+D+–+Oct+2023"
-  - "/tiki-index.php?page_id=14740"
+  - "/14740"
+tiki_page_id: 14740
 date: 2023-10-10
 ---
 

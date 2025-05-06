@@ -1,341 +1,601 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Stroke on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/stroke/</link>
-    <description>Recent content in Stroke on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/stroke/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ischemic Stroke is 18% more likely if poor Vitamin D genes (unless take more Vitamin D)</title>
-      <link>http://localhost:1313/posts/ischemic-stroke-is-18-percent-more-likely-if-poor-vitamin-d-genes-unless-take-more-vitamin-d/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ischemic-stroke-is-18-percent-more-likely-if-poor-vitamin-d-genes-unless-take-more-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#causal-effect-of-serum-25-hydroxyvitamin-d-concentration-on-cardioembolic-stroke-evidence-from-two-sample-mendelian-randomization&#34;&gt;Causal effect of serum 25 hydroxyvitamin D concentration on cardioembolic stroke: Evidence from two-sample Mendelian randomization&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;causal-effect-of-serum-25-hydroxyvitamin-d-concentration-on-cardioembolic-stroke-evidence-from-two-sample-mendelian-randomization&#34;&gt;Causal effect of serum 25 hydroxyvitamin D concentration on cardioembolic stroke: Evidence from two-sample Mendelian randomization&lt;/h4&gt;&#xA;&lt;p&gt;Nutrition, Metabolism, and Cardiovascular Disease :&lt;a href=&#34;https://doi.org/10.1016/j.numecd.2024.02.013&#34;&gt;https://doi.org/10.1016/j.numecd.2024.02.013&lt;/a&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;It seems that there are two groups of genes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Genetically predicted serum 25 hydroxyvitamin D concentration is associated with the risk of cardioembolic stroke.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mendelian Randomization analysis provides suggestive evidence that increased 25(OH)D levels may play a protective role in the development of cardioembolic stroke.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke 3 times more likely if dark skin woman has Hypertension before age 35</title>
-      <link>http://localhost:1313/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#hypertension-before-35-tied-to-triple-stroke-risk-inmidlife&#34;&gt;Hypertension Before 35 Tied to Triple Stroke Risk in Midlife&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;hypertension-before-35-tied-to-triple-stroke-risk-inmidlife&#34;&gt;Hypertension Before 35 Tied to Triple Stroke Risk in Midlife&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;From: &lt;a href=&#34;https://www.mdedge.com/cardiology/article/267662/hypertension/hypertension-35-tied-triple-stroke-risk-midlife?ecd=WNL_EVE_240202_mdedge&#34;&gt;MD Edge&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Black women who develop high blood pressure before age 35 have a threefold increased risk of having a midlife stroke, new observational data suggested.&lt;/p&gt;&#xA;&lt;p&gt;The Black Women’s Health Study, which has followed 59,000 participants in the United States since the 1990s, also showed that those who develop hypertension before age 45 have twice the risk of suffering a stroke.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D is the best Vitamin to prevent a stroke - meta-analysis</title>
-      <link>http://localhost:1313/posts/vitamin-d-is-the-best-vitamin-to-prevent-a-stroke-meta-analysis/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-is-the-best-vitamin-to-prevent-a-stroke-meta-analysis/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#from-a-to-e-uniting-vitamins-against-stroke-risk-a-systematic-review-and-network-meta-analysis&#34;&gt;From A to E: Uniting vitamins against stroke risk-A systematic review and network meta-analysis&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;from-a-to-e-uniting-vitamins-against-stroke-risk-a-systematic-review-and-network-meta-analysis&#34;&gt;From A to E: Uniting vitamins against stroke risk-A systematic review and network meta-analysis&lt;/h4&gt;&#xA;&lt;p&gt;Eur J Clin Invest. 2024 Jan 30:e14165. &lt;a href=&#34;https://doi.org/10.1111/eci.14165&#34;&gt;doi: 10.1111/eci.14165&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Shashank Tripathi 1, Manabesh Nath 1, Shubham Misra 2, Pradeep Kumar 3&lt;/p&gt;&#xA;&lt;p&gt;Background and aim: Stroke represents a significant public health challenge, necessitating the exploration of preventive measures. This network meta-analysis aimed to assess the efficacy of different vitamin treatments compared to a placebo in preventing stroke.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Low Vitamin D associated with CHD, stroke, death, etc, (Mendelian analhysis)</title>
-      <link>http://localhost:1313/posts/low-vitamin-d-associated-with-chd-stroke-death-etc-mendelian-analhysis/</link>
-      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/low-vitamin-d-associated-with-chd-stroke-death-etc-mendelian-analhysis/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#estimating-dose-response-relationships-for-vitamin-d-with-coronary-heart-disease-stroke-and-all-cause-mortality-observational-and-mendelian-randomisation-analyses&#34;&gt;Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;estimating-dose-response-relationships-for-vitamin-d-with-coronary-heart-disease-stroke-and-all-cause-mortality-observational-and-mendelian-randomisation-analyses&#34;&gt;Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lancet Diabetes Endocrinol 2021; 9: 837-46  &lt;a href=&#34;http://doi.org/10.1016/&#34;&gt;http://doi.org/10.1016/&lt;/a&gt; S2213-8587(21)00263-1&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;900&#34;&gt;&#xA;&lt;p&gt;Background Randomised trials of vitamin D supplementation for cardiovascular disease and all-cause mortality have generally reported null findings. However, generalisability of results to individuals with low vitamin D status is unclear. We aimed to characterise dose-response relationships between 25-hydroxyvitamin D (25&lt;span&gt;[OH]&lt;/span&gt;D) concentrations and risk of coronary heart disease, stroke, and all-cause mortality in observational and Mendelian randomisation frameworks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>After stroke, 40% less likely to die if 400 mg of Magnesium daily</title>
-      <link>http://localhost:1313/posts/after-stroke-40-percent-less-likely-to-die-if-400-mg-of-magnesium-daily/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/after-stroke-40-percent-less-likely-to-die-if-400-mg-of-magnesium-daily/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#magnesium-intake-and-all-cause-mortality-after-stroke-a-cohort-study&#34;&gt;Magnesium intake and all-cause mortality after stroke: a cohort study&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;magnesium-intake-and-all-cause-mortality-after-stroke-a-cohort-study&#34;&gt;Magnesium intake and all-cause mortality after stroke: a cohort study&lt;/h4&gt;&#xA;&lt;p&gt;Nutrition Journal volume 22, Article number: 54 (2023)&lt;/p&gt;&#xA;&lt;p&gt;Mengyan Wang, Jianhong Peng, Caili Yang, Wenyuan Zhang, Zicheng Cheng &amp;amp; Haibin Zheng&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note: Adults often consume 2,000 calories/day, so Q4 would be ~400 mg of Magnesium&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Background&lt;/p&gt;&#xA;&lt;p&gt;Population-based studies have shown that adequate magnesium intake is associated with a lower risk of stroke and all-cause mortality. Whether adequate magnesium intake is important for reducing all-cause mortality risk after stroke remains unclear.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>High Omega-3 reduced risk of Ischemic stroke by 18%</title>
-      <link>http://localhost:1313/posts/high-omega-3-reduced-risk-of-ischemic-stroke-by-18-percent/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/high-omega-3-reduced-risk-of-ischemic-stroke-by-18-percent/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#omega-3-blood-levels-and-stroke-risk-a-pooled-and-harmonized-analysis-of-183291-participants-from-29-prospective-studies&#34;&gt;Omega-3 Blood Levels and Stroke Risk: A Pooled and Harmonized Analysis of 183 291 Participants From 29 Prospective Studies&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#see-discussion-at-grassrootshealthhttpsmyemailconstantcontactcomhigher-omega-3-levels-associated-with-lower-risk-of-strokehtmlsoid1102722411090aid5fvae0gurd8&#34;&gt;See discussion at &lt;a href=&#34;https://myemail.constantcontact.com/Higher-Omega-3-Levels-Associated-with-Lower-Risk-of-Stroke.html?soid=1102722411090&amp;amp;aid=5FVAE0Gurd8&#34;&gt;Grassrootshealth&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;omega-3-blood-levels-and-stroke-risk-a-pooled-and-harmonized-analysis-of-183291-participants-from-29-prospective-studies&#34;&gt;Omega-3 Blood Levels and Stroke Risk: A Pooled and Harmonized Analysis of 183 291 Participants From 29 Prospective Studies&lt;/h4&gt;&#xA;&lt;p&gt;Stroke. 2024;55:50–58 &lt;a href=&#34;https://doi.org/10.1161/STROKEAHA.123.044281&#34;&gt;https://doi.org/10.1161/STROKEAHA.123.044281&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;James H. O’Keefe, Nathan L. Tintle, William S. Harris, Evan L. O’Keefe, Aleix Sala-Vila, John Attia, G. Manohar Garg, Alexis Hure, …&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;BACKGROUND:&lt;/p&gt;&#xA;&lt;p&gt;The effect of marine omega-3 PUFAs on risk of stroke remains unclear.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>8X increased risk of stroke if COVID vaccinated and catch COVID within 3 weeks</title>
-      <link>http://localhost:1313/posts/8x-increased-risk-of-stroke-if-covid-vaccinated-and-catch-covid-within-3-weeks/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/8x-increased-risk-of-stroke-if-covid-vaccinated-and-catch-covid-within-3-weeks/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#factors-associated-with-stroke-after-covid-19-vaccination-a-statewide-analysis&#34;&gt;Factors associated with stroke after COVID-19 vaccination: a statewide analysis&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#see-also-v-safe---7-had-emergency-medical-after-vaccination---cdc-response-cancel-v-safe---sept-2023postsv-safe-7-percent-had-emergency-medical-after-vaccination-cdc-response-cancel-v-safe&#34;&gt;See also: &lt;a href=&#34;http://localhost:1313/posts/v-safe-7-percent-had-emergency-medical-after-vaccination-cdc-response-cancel-v-safe&#34;&gt;V-safe - 7% had emergency medical after vaccination - CDC response, cancel V-safe - Sept 2023&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;factors-associated-with-stroke-after-covid-19-vaccination-a-statewide-analysis&#34;&gt;Factors associated with stroke after COVID-19 vaccination: a statewide analysis&lt;/h4&gt;&#xA;&lt;p&gt;Front Neurol. 2023 Jun 28;14:1199745. &lt;a href=&#34;https://doi.org/10.3389/fneur.2023.1199745&#34;&gt;doi: 10.3389/fneur.2023.1199745&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fadi Nahab 1, Rana Bayakly 2, Mary Elizabeth Sexton 3, Manet Lemuel-Clarke 4, Laura Henriquez 4, Srikant Rangaraju 4, Moges Ido 2&lt;/p&gt;&#xA;&lt;p&gt;Background: The objective of our study was to evaluate vaccine type, COVID-19 infection, and their association with stroke soon after COVID-19 vaccination.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin K, cardiovascular health, and stroke - many studies</title>
-      <link>http://localhost:1313/posts/vitamin-k-cardiovascular-health-and-stroke-many-studies/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-k-cardiovascular-health-and-stroke-many-studies/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-k-intake-in-chronic-stroke-implications-for-dietary-recommendations---oct-2020&#34;&gt;Vitamin K Intake in Chronic Stroke: Implications for Dietary Recommendations - Oct 2020&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-k2a-neglected-player-in-cardiovascular-health-a-narrative-review---oct-2021&#34;&gt;Vitamin K2—a neglected player in cardiovascular health: a narrative review - Oct 2021&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#quantifying-dietary-vitamin-k-and-its-link-to-cardiovascular-health-a-narrative-review--2020&#34;&gt;Quantifying dietary vitamin K and its link to cardiovascular health: a narrative review&#x9;- 2020&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-k-intake-in-chronic-stroke-implications-for-dietary-recommendations---oct-2020&#34;&gt;Vitamin K Intake in Chronic Stroke: Implications for Dietary Recommendations - Oct 2020&lt;/h4&gt;&#xA;&lt;p&gt;Nutrients 2020, 12(10), 3059; &lt;a href=&#34;https://doi.org/10.3390/nu12103059&#34;&gt;https://doi.org/10.3390/nu12103059&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;by Chad Wessinger,Charlene Hafer-Macko andAlice S. Ryan *&lt;/p&gt;&#xA;&lt;p&gt;VA Research Service, Department of Medicine, Division of Gerontology and Geriatric Medicine at the University of Maryland School of Medicine, and the Baltimore VA Medical Center Geriatric Research, Education and Clinical Center (GRECC), VA Maryland Health Care System, Baltimore, MD 21201, USA&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post-stroke Vitamin D supplementation helped in 11 ways</title>
-      <link>http://localhost:1313/posts/post-stroke-vitamin-d-supplementation-helped-in-11-ways/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-stroke-vitamin-d-supplementation-helped-in-11-ways/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#a-systematic-review-examining-the-effect-of-vitamin-d-supplementation-on-functional-outcomes-post-stroke&#34;&gt;A systematic review examining the effect of vitamin D supplementation on functional outcomes post-stroke&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;a-systematic-review-examining-the-effect-of-vitamin-d-supplementation-on-functional-outcomes-post-stroke&#34;&gt;A systematic review examining the effect of vitamin D supplementation on functional outcomes post-stroke&lt;/h4&gt;&#xA;&lt;p&gt;Clin Rehabil. 2023 May 11 &lt;a href=&#34;https://doi.org/10.1177/02692155231174599&#34;&gt;doi: 10.1177/02692155231174599&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jamie L Fleet 1 2 3, Amanda McIntyre 3 4, Shannon Janzen 3, Marcus Saikaley 3, Michael Qaqish 5, Robert Cianfarani 5, Alexandra Papaioannou 5 6 7&lt;/p&gt;&#xA;&lt;p&gt;Objective: The objective of this systematic review was to explore the effect of vitamin D supplementation on functional outcomes (motor function, mobility, activities of daily living and stroke impairment) among individuals post-stroke (PROSPERO CRD42022296462).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Inflammation of small blood vessels in the brain is associated with low vitamin D</title>
-      <link>http://localhost:1313/posts/inflammation-of-small-blood-vessels-in-the-brain-is-associated-with-low-vitamin-d/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inflammation-of-small-blood-vessels-in-the-brain-is-associated-with-low-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#low-vitamin-d-status-is-associated-with-inflammatory-response-in-older-patients-with-cerebral-small-vessel-disease&#34;&gt;Low vitamin D status is associated with inflammatory response in older patients with cerebral small vessel disease&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#gtp-4-description-of-cerebral-small-vessel-disease-april-2023&#34;&gt;GTP-4 description of cerebral small vessel disease (April 2023)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#see-also-web&#34;&gt;See also web&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---brain-and-vitamin-d---many-studiespostsbrain-and-vitamin-d-many-studies--94-as-of-march-2023&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/brain-and-vitamin-d-many-studies&#34;&gt;Brain and Vitamin D - many studies&lt;/a&gt;  94 as of March 2023&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;low-vitamin-d-status-is-associated-with-inflammatory-response-in-older-patients-with-cerebral-small-vessel-disease&#34;&gt;Low vitamin D status is associated with inflammatory response in older patients with cerebral small vessel disease&lt;/h4&gt;&#xA;&lt;p&gt;J Neuroimmunol . 2023 Apr 15;377:578057. &lt;a href=&#34;https://doi.org/10.1016/j.jneuroim.2023.578057&#34;&gt;doi: 10.1016/j.jneuroim.2023.578057&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;  (behind a paywall), free access to citations&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Recurrent Stroke 5X more-likely if very low vitamin D - meta-analysis</title>
-      <link>http://localhost:1313/posts/recurrent-stroke-5x-more-likely-if-very-low-vitamin-d-meta-analysis/</link>
-      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/recurrent-stroke-5x-more-likely-if-very-low-vitamin-d-meta-analysis/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#25-hydroxy-vitamin-d-and-risk-of-recurrent-stroke-a-dose-response-meta-analysis&#34;&gt;25-Hydroxy-Vitamin D and Risk of Recurrent Stroke: A Dose Response Meta-Analysis&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;25-hydroxy-vitamin-d-and-risk-of-recurrent-stroke-a-dose-response-meta-analysis&#34;&gt;25-Hydroxy-Vitamin D and Risk of Recurrent Stroke: A Dose Response Meta-Analysis&lt;/h4&gt;&#xA;&lt;p&gt;Nutrients  . 2023 Jan 18;15(3):512. &lt;a href=&#34;https://doi.org/10.3390/nu15030512.&#34;&gt;doi: 10.3390/nu15030512.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Anita Vergatti 1, Veronica Abate 1, Aquilino Flavio Zarrella 1, Fiore Manganelli 2, Stefano Tozza 2, Rosa Iodice 2, Gianpaolo De Filippo 3, Lanfranco D&amp;rsquo;Elia 1, Pasquale Strazzullo 4, Domenico Rendina 1&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;700&#34;&gt;&#xA;&lt;p&gt;Stroke recurrence significantly improves the prognosis quoad vitam et valetudinem of patients with a first ischemic or haemorrhagic stroke. Other than in bone and skeletal metabolism, vitamin D is involved in the pathogenesis of cardiovascular disorders. This meta-analysis was performed to evaluate the relationship between 25OH-vitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; levels at the first stroke and the stroke recurrence. To 31 July 2022, four prospective studies were identified. The potential non-linear relationship was evaluated by modelling 25(OH)D, using restricted cubic splines of 25(OH)D distribution. The pooled estimated risk (and 95% CI) of the recurrence of stroke, comparing the highest and the lowest levels, was assessed using a random-effect model. A non-linear association was found by dose-response analysis. This study found that 25(OH)D levels at the first stroke ≥9.3 ng/mL were associated with a lower risk of stroke recurrence, compared with 25(OH)D levels ≤8.5 ng/mL. In the pooled analysis, higher 25(OH)D levels at the first stroke significantly reduce the risk of stroke recurrence, with a significant heterogeneity among studies. In conclusion, 25(OH)D levels ≤8.5 ng/mL at the first stroke are significantly associated with a higher risk of recurrent stroke.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CYP2R1 gene reduces response to Vitamin D - many studies</title>
-      <link>http://localhost:1313/posts/cyp2r1-gene-reduces-response-to-vitamin-d-many-studies/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cyp2r1-gene-reduces-response-to-vitamin-d-many-studies/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;People with a poor CYP2R1 genes are poor Vitamin D responders&lt;br&gt;&#xA;    Possible solution: take larger doses of Vitamin D&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---geneticscategoriesgenetics-chart-shows-the-vitamin-d-genes&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/categories/genetics&#34;&gt;Genetics&lt;/a&gt; chart shows the vitamin D genes&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#genes-and-other-reasons-for-poor-blood-response-to-vitamin-d-supplementation&#34;&gt;Genes and other reasons for poor blood response to Vitamin D supplementation&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#cyp2r1-was-the-gene-most-associated-with-increased-risk-of-ischemic-stroke---feb-2023&#34;&gt;CYP2R1 was the gene most associated with increased risk of Ischemic Stroke - Feb 2023&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki---geneticscategoriesgenetics-chart-shows-the-vitamin-d-genes&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/categories/genetics&#34;&gt;Genetics&lt;/a&gt; chart shows the vitamin D genes&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;300&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;genes-and-other-reasons-for-poor-blood-response-to-vitamin-d-supplementation&#34;&gt;Genes and other reasons for poor blood response to Vitamin D supplementation&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/poor-or-no-response-to-vitamin-d-was-associated-with-poor-genes-cystic-fibrosis-4-genes&#34;&gt;Poor or no response to vitamin D was associated with poor genes (cystic fibrosis, 4 genes) Sept 2022&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ignoring dose size etc, meta-analysis concludes that Vitamin D does not help (stroke risk in this case)</title>
-      <link>http://localhost:1313/posts/ignoring-dose-size-etc-meta-analysis-concludes-that-vitamin-d-does-not-help-stroke-risk-in-this-case/</link>
-      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ignoring-dose-size-etc-meta-analysis-concludes-that-vitamin-d-does-not-help-stroke-risk-in-this-case/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-supplementation-and-risk-of-stroke-a-meta-analysis-of-randomized-controlled-trials&#34;&gt;Vitamin D supplementation and risk of stroke: A meta-analysis of randomized controlled trials&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#10-types-of-problems-with-some-meta-analyses&#34;&gt;10+ types of problems with some meta-analyses:&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-supplementation-and-risk-of-stroke-a-meta-analysis-of-randomized-controlled-trials&#34;&gt;Vitamin D supplementation and risk of stroke: A meta-analysis of randomized controlled trials&lt;/h4&gt;&#xA;&lt;p&gt;Front Neurol. 2022 Aug 18;13:970111 &lt;a href=&#34;https://doi.org/10.3389/fneur.2022.970111&#34;&gt;doi: 10.3389/fneur.2022.970111&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jia Fu  1 , Junfang Sun  2 , Chao Zhang  3&lt;/p&gt;&#xA;&lt;p&gt;Background: Previous observational studies have supported the hypothesis that vitamin D supplementation protects against stroke. However, several current intervention studies contradict this observation. Therefore, we conducted a meta-analysis to investigate further the association between vitamin D supplementation and the risk of stroke.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sleep quality 6X worse after stroke if low vitamin D</title>
-      <link>http://localhost:1313/posts/sleep-quality-6x-worse-after-stroke-if-low-vitamin-d/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sleep-quality-6x-worse-after-stroke-if-low-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#reduced-serum-vitamin-d-levels-are-associated-with-poor-sleep-quality-in-early-stroke-patients&#34;&gt;Reduced serum vitamin D levels are associated with poor sleep quality in early stroke patients&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#note-many-health-problems-are-associated-with-low-vitamin-d-and-poor-sleep&#34;&gt;Note: Many health problems are associated with low vitamin D and poor sleep&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;reduced-serum-vitamin-d-levels-are-associated-with-poor-sleep-quality-in-early-stroke-patients&#34;&gt;Reduced serum vitamin D levels are associated with poor sleep quality in early stroke patients&lt;/h4&gt;&#xA;&lt;p&gt;Front Nutr. 2022 Jul 22 &lt;a href=&#34;https://doi.org/10.3389/fnut.2022.937867&#34;&gt;doi: 10.3389/fnut.2022.937867&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Guiqian Huang  1 , Jiahao Chen  1 , Luqian Zhan  1 , Jingfang Long  1 , Yisi Lin  1 , Beilei Zhu  1 , Jincai He  1&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke prevention and rehabilitation with vitamin D</title>
-      <link>http://localhost:1313/posts/stroke-prevention-and-rehabilitation-with-vitamin-d/</link>
-      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-prevention-and-rehabilitation-with-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-role-of-vitamin-d-in-stroke-prevention-and-the-effects-of-its-supplementation-for-post-stroke-rehabilitation-a-narrative-review&#34;&gt;The Role of Vitamin D in Stroke Prevention and the Effects of Its Supplementation for Post-Stroke Rehabilitation: A Narrative Review&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#200k-iu-wait-4-weeks-then-50k-weekly-for-8-weeks-may-be-better-than-a-600k-injection&#34;&gt;200K IU, wait 4 weeks, then 50K weekly for 8 weeks may be better than a 600K injection&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;the-role-of-vitamin-d-in-stroke-prevention-and-the-effects-of-its-supplementation-for-post-stroke-rehabilitation-a-narrative-review&#34;&gt;The Role of Vitamin D in Stroke Prevention and the Effects of Its Supplementation for Post-Stroke Rehabilitation: A Narrative Review&lt;/h4&gt;&#xA;&lt;p&gt;Nutrients . 2022 Jul 4;14(13):2761.  &lt;a href=&#34;https://doi.org/10.3390/nu14132761.&#34;&gt;doi: 10.3390/nu14132761.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Klaudia Marek 1, Natalia Cichoń 2, Joanna Saluk-Bijak 3, Michał Bijak 2, Elżbieta Miller 1&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D also provides COVID Neuroprotection</title>
-      <link>http://localhost:1313/posts/vitamin-d-also-provides-covid-neuroprotection/</link>
-      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-also-provides-covid-neuroprotection/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-and-its-possible-relationship-to-neuroprotection-in-covid-19-evidence-in-the-literature&#34;&gt;Vitamin D and its Possible Relationship to Neuroprotection in COVID-19: Evidence in the Literature&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#chart-of-vitamin-d-metabolism-and-genes&#34;&gt;Chart of Vitamin D metabolism and genes&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-and-its-possible-relationship-to-neuroprotection-in-covid-19-evidence-in-the-literature&#34;&gt;Vitamin D and its Possible Relationship to Neuroprotection in COVID-19: Evidence in the Literature&lt;/h4&gt;&#xA;&lt;p&gt;Current Topics in Medicinal Chemistry 2022 Apr 1 DOI: 10.2174/1568026622666220401140737&lt;/p&gt;&#xA;&lt;p&gt;Saray Quintero-Fabián1’#, Cindy Bandala2,3’#, Luz Adriana Pichardo-Macías4, Itzel Jatziri Contreras- García5, Saúl Gómez-Manzo6, Beatriz Hernández-Ochoa7, José Arturo Martínez-Orozco8, Iván Ignacio- Mejía1,,l! and Noemí Cárdenas-Rodríguez9,í&lt;/p&gt;&#xA;&lt;p&gt;1Laboratorio de Medicina Traslacional, Escuela Militar de Graduados de Sanidad, UDEFA, Mexico City, 11200, Mexico; 2Division de Neurociencias, Instituto Nacional de Rehabilitación, Secretaría de Salud, Mexico City, 14389, Mexico; 3Escuela Superior de Medicina, Instituto Politécnico Nacional, Mexico City, 11340, Mexico; 4Departamento de Fisiología, Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Mexico City, 07738, Mexi- co;5Laboratorio de Fisiología, Escuela Militar de Graduados de Sanidad, UDEFA, Mexico City, 11200, Mexico; 6Laboratorio de Bioquímica Genética, Instituto Nacional de Pediatría, Secretaría de Salud, Mexico City, 04530, Mexico; 7Laboratorio de Inmunoquímica, Hospital Infantil de México Federico Gómez, Secretaría de Salud, Mexico City, 06720, Mexico; 8Departmento de Infectología, Instituto Nacional de Enfermedades Respiratorias, Ismael Cosío Villegas, Secretaría de Salud, Mexico City, 14080, Mexico; 9Laboratorio de Neurociencias, Instituto Nacional de Pediatría, Secretaría de Salud, Mexico City, 04530, Mexico&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>COVID and CVD deadly pandemics share a risk factor: low vitamin D</title>
-      <link>http://localhost:1313/posts/covid-and-cvd-deadly-pandemics-share-a-risk-factor-low-vitamin-d/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/covid-and-cvd-deadly-pandemics-share-a-risk-factor-low-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-the-missing-nutrient-behind-the-two-deadly-pandemics-covid-19-and-cardiovascular-diseases&#34;&gt;Vitamin D: The Missing Nutrient Behind the Two Deadly Pandemics, COVID-19 and Cardiovascular Diseases&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-the-missing-nutrient-behind-the-two-deadly-pandemics-covid-19-and-cardiovascular-diseases&#34;&gt;Vitamin D: The Missing Nutrient Behind the Two Deadly Pandemics, COVID-19 and Cardiovascular Diseases&lt;/h4&gt;&#xA;&lt;p&gt;Cureus 14(4): e24133. doi:10.7759/cureus.24133&lt;/p&gt;&#xA;&lt;p&gt;Abhishek Singh, Anusha Chidharla, Kriti Agarwal, Priyanka Singh, Nidhi Jain, Gashaw Hassen, Salwa Abdelwahed, Renu Bhandari, Kajal Patel, Sachin Gupta, Thoyaja Koritala, Rizwan Rabbani&lt;/p&gt;&#xA;&lt;p&gt;The coronavirus (COVID-19) pandemic is claiming millions of lives and creating an additional burden on health care, which is already affected by the rise of non-communicable diseases (NCDs). The scientific community, on the other side, is enormously engaged with studies to best identify the characteristics of the virus and minimize its effect while supporting the fight to contain NCDs, mainly cardiovascular diseases (CVDs), which are contributing hugely to the global death toll. Hence, the roles of vitamin D in COVID-19 immunity and cardiovascular health are gaining traction recently.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Vitamin D can fight cerebrovascular diseases (stroke, TIA, aneurysm)</title>
-      <link>http://localhost:1313/posts/how-vitamin-d-can-fight-cerebrovascular-diseases-stroke-tia-aneurysm/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-vitamin-d-can-fight-cerebrovascular-diseases-stroke-tia-aneurysm/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-as-therapeutic-modulator-in-cerebrovascular-diseases-a-mechanistic-perspectives&#34;&gt;Vitamin D as therapeutic modulator in cerebrovascular diseases: a mechanistic perspectives&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-as-therapeutic-modulator-in-cerebrovascular-diseases-a-mechanistic-perspectives&#34;&gt;Vitamin D as therapeutic modulator in cerebrovascular diseases: a mechanistic perspectives&lt;/h4&gt;&#xA;&lt;p&gt;Critical Reviews in Food Science and Nutrition, 14 Mar 2022,&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1080/10408398.2022.2050349&#34;&gt;https://doi.org/10.1080/10408398.2022.2050349&lt;/a&gt; behind paywall&lt;/p&gt;&#xA;&lt;p&gt;Vivek Rihal,Heena Khan,Amarjot Kaur &amp;amp;Thakur Gurjeet Singh&lt;/p&gt;&#xA;&lt;p&gt;Vitamin D deficiency has been linked to several major chronic diseases, such as cardiovascular and neurodegenerative diseases, diabetes, and cancer, linked to oxidative stress, inflammation, and aging. Vitamin D deficiency appears to be particularly harmful to the cardiovascular system, as it can cause endothelial dysfunctioning and vascular abnormalities through the modulation of various downstream mechanisms. As a result, new research indicates that therapeutic approaches targeting vitamin D inadequacies or its significant downstream effects, such as impaired autophagy, abnormal pro-inflammatory and pro-oxidant reactions, may delay the onset and severity of major cerebrovascular disorders such as stroke and neurologic malformations. Vitamin D modulates the various molecular pathways, i.e., Nitric Oxide, PI3K-Akt Pathway, cAMP pathway, NF-kB Pathway, Sirtuin 1, Nrf2, FOXO, in cerebrovascular disorder. The current review shows evidence for vitamin D’s mitigating or slowing the progression of these cerebrovascular disorders, which are significant causes of disability and death worldwide.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Most COVID patients had sticky blood platelets (Omega-3 helps)</title>
-      <link>http://localhost:1313/posts/most-covid-patients-had-sticky-blood-platelets-omega-3-helps/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/most-covid-patients-had-sticky-blood-platelets-omega-3-helps/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#massive-image-based-single-cell-profiling-reveals-high-levels-of-circulating-platelet-aggregates-in-patients-with-covid-19&#34;&gt;Massive image-based single-cell profiling reveals high levels of circulating platelet aggregates in patients with COVID-19&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#platelet-aggregates-a-marker-of-severe-covid-19-disease---oct-2020&#34;&gt;Platelet aggregates, a marker of severe COVID-19 disease - Oct 2020&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#omega-3-reduces-platelet-aggregation-many-studies&#34;&gt;Omega-3 reduces Platelet aggregation (many studies)&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;massive-image-based-single-cell-profiling-reveals-high-levels-of-circulating-platelet-aggregates-in-patients-with-covid-19&#34;&gt;Massive image-based single-cell profiling reveals high levels of circulating platelet aggregates in patients with COVID-19&lt;/h4&gt;&#xA;&lt;p&gt;Nature Communications volume 12, Article number: 7135 (2021)&lt;/p&gt;&#xA;&lt;p&gt;Masako Nishikawa, Hiroshi Kanno, Yuqi Zhou, Ting-Hui Xiao, Takuma Suzuki, Yuma Ibayashi, Jeffrey Harmon, Shigekazu Takizawa, Kotaro Hiramatsu, Nao Nitta, Risako Kameyama, Walker Peterson, Jun Takiguchi, Mohammad Shifat-E-Rabbi, Yan Zhuang, Xuwang Yin, Abu Hasnat Mohammad Rubaiyat, Yunjie Deng, Hongqian Zhang, Shigeki Miyata, Gustavo K. Rohde, Wataru Iwasaki, Yutaka Yatomi &amp;amp; Keisuke Goda&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elderly vaccinated for COVID were 2X more likely to die of ischemic stroke (2930 vs 1180 deaths)</title>
-      <link>http://localhost:1313/posts/elderly-vaccinated-for-covid-were-2x-more-likely-to-die-of-ischemic-stroke-2930-vs-1180-deaths/</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/elderly-vaccinated-for-covid-were-2x-more-likely-to-die-of-ischemic-stroke-2930-vs-1180-deaths/</guid>
-      <description>&lt;h4 id=&#34;myocardial-infarction-stroke-and-pulmonary-embolism-after-bnt162b2-mrna-covid-19-vaccine-in-people-aged-75-years-or-older&#34;&gt;Myocardial Infarction, Stroke, and Pulmonary Embolism After BNT162b2 mRNA COVID-19 Vaccine in People Aged 75 Years or Older&lt;/h4&gt;&#xA;&lt;p&gt;JAMA Research Letter. doi:10.1001/jama.2021.21699&lt;/p&gt;&#xA;&lt;p&gt;Marie Joelle Jabagi, PharmD, PhD1; Jérémie Botton, PharmD, PhD1; Marion Bertrand, MSc1; et alAlain Weill, MD1; Paddy Farrington, PhD2; Mahmoud Zureik, MD, PhD1; Rosemary Dray-Spira, MD, PhD1&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;#### April 2021 data seems to be statistically significant&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;350&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/3900-deaths-within-2-weeks-of-2nd-vaccination-in-sweden&#34;&gt;3,900 deaths within 2 weeks of 2nd vaccination in Sweden - Nov 18, 2021&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post-stroke fatigue cut in half by Vitamin D (just 600 IU daily in 3 months)</title>
-      <link>http://localhost:1313/posts/post-stroke-fatigue-cut-in-half-by-vitamin-d-just-600-iu-daily-in-3-months/</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-stroke-fatigue-cut-in-half-by-vitamin-d-just-600-iu-daily-in-3-months/</guid>
-      <description>&lt;h4 id=&#34;effect-of-vitamin-d-supplementation-on-the-prognosis-of-post-stroke-fatigue-a-retrospective-cohort-study&#34;&gt;Effect of Vitamin D Supplementation on the Prognosis of Post-stroke Fatigue: A Retrospective Cohort Study&lt;/h4&gt;&#xA;&lt;p&gt;Front Neurol. 2021 Nov 5;12:690969. &lt;a href=&#34;https://doi.org/10.3389/fneur.2021.690969.&#34;&gt;doi: 10.3389/fneur.2021.690969.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Long Wang 1 2, Xue-Min Zhao 2, Fu-Yu Wang 3, Jun-Cang Wu 1, Yu Wang 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fatigue Severity Scale&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Vitamin D&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;Objective: We aimed to evaluate the effect of vitamin D supplementation in post-stroke fatigue (PSF) patients with vitamin D deficiency on fatigue symptoms and outcomes. Methods: Patients with primary acute ischemic stroke (AIS) were recruited consecutively from July 2016 to June 2018. Post-stroke fatigue patients were screened out with the  &lt;strong&gt;Fatigue Severity Scale (FSS)&lt;/strong&gt;  questionnaire, serum concentrations of 25-hydroxyvitamin D &lt;span&gt;[25-(OH)-D]&lt;/span&gt; were assessed with enzyme-linked immunosorbent assay (ELISA), and neurological function was evaluated with FSS and modified Rankin Scale (mRS) scoring criteria. Post-stroke fatigue patients with vitamin D deficiency were divided into two groups: a study group in which patients received vitamin D supplementation (cholecalciferol,  &lt;strong&gt;600 IU/day&lt;/strong&gt; ) along with usual care, and a control group in which patients received usual care alone. At the end of 1 and 3 months after treatment, all PSE patients accepted re-measurement of serum vitamin D and re-evaluation of fatigue and neurological function.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post-stroke depression not reduced by 2,000 IU of vitamin D (not a surprise)</title>
-      <link>http://localhost:1313/posts/post-stroke-depression-not-reduced-by-2000-iu-of-vitamin-d-not-a-surprise/</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-stroke-depression-not-reduced-by-2000-iu-of-vitamin-d-not-a-surprise/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-role-of-rehabilitation-and-vitamin-d-supplementation-on-motor-and-psychological-outcomes-in-poststroke-patients&#34;&gt;The role of rehabilitation and vitamin D supplementation on motor and psychological outcomes in poststroke patients&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#vitamindwiki&#34;&gt;VitaminDWiki&lt;/a&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#probably-far-less-depression-if-had-started-with-a-loading-dose&#34;&gt;Probably far less depression if had started with a loading dose&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#a-few-relevant-stroke-studies&#34;&gt;A few relevant stroke studies&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;the-role-of-rehabilitation-and-vitamin-d-supplementation-on-motor-and-psychological-outcomes-in-poststroke-patients&#34;&gt;The role of rehabilitation and vitamin D supplementation on motor and psychological outcomes in poststroke patients&lt;/h4&gt;&#xA;&lt;p&gt;Medicine: November 12, 2021 - Volume 100 - Issue 45 - p e27747 &lt;a href=&#34;https://doi.org/10.1097/MD.0000000000027747&#34;&gt;doi: 10.1097/MD.0000000000027747&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Torrisi, Michele Psy D; Bonanno, Lilla MSc, PhD∗; Formica, Caterina Psy D; Arcadi, Francesca Antonia MD; Cardile, Davide Psy D; Cimino, Vincenzo MD; Bramanti, Placido MD; Morini, Elisabetta MD&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke 22 percent more likely if low Vitamin D – meta-analysis</title>
-      <link>http://localhost:1313/posts/stroke-22-percent-more-likely-if-low-vitamin-d-meta-analysis/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-22-percent-more-likely-if-low-vitamin-d-meta-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stroke patients getting weekly 50,000 IU Vitamin D did better – trial</title>
-      <link>http://localhost:1313/posts/stroke-patients-getting-weekly-50000-iu-vitamin-d-did-better-trial/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-patients-getting-weekly-50000-iu-vitamin-d-did-better-trial/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>1.3X higher risk of severe Cardiovascular and Cerebrovascular problems if low Vitamin D (50 million people)</title>
-      <link>http://localhost:1313/posts/13x-higher-risk-of-severe-cardiovascular-and-cerebrovascular-problems-if-low-vit--million-people/</link>
-      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/13x-higher-risk-of-severe-cardiovascular-and-cerebrovascular-problems-if-low-vit--million-people/</guid>
-      <description>&lt;h4 id=&#34;prevalence-and-outcomes-associated-with-vitamin-d-deficiency-among-indexed-hospitalizations-with-cardiovascular-disease-and-cerebrovascular-disorder-a-nationwide-study&#34;&gt;Prevalence and Outcomes Associated with Vitamin D Deficiency among Indexed Hospitalizations with Cardiovascular Disease and Cerebrovascular Disorder-A Nationwide Study&lt;/h4&gt;&#xA;&lt;p&gt;Medicines (Basel). 2020 Nov 22;7(11):E72. &lt;a href=&#34;https://doi.org/10.3390/medicines7110072.&#34;&gt;doi: 10.3390/medicines7110072.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Urvish Patel 1, Salma Yousuf 1, Komal Lakhani 2, Payu Raval 3 4, Nirmaljot Kaur 5, Toochukwu Okafor 6, Chail Shah 7 8, Harmandeep Singh 5, Mehwish Martin 1, Chika Nwodika 9, Angelina Yogarajah 10, Jigisha Rakholiya 11, Maitree Patel 12, Raja Chandra Chakinala 13, Shamik Shah 14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D deficiency associated with increased risk of many health problems in 58,000,000 Americans</title>
-      <link>http://localhost:1313/posts/vitamin-d-deficiency-associated-with-increased-risk-of-many-health-problems-in-58000000-americans/</link>
-      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-deficiency-associated-with-increased-risk-of-many-health-problems-in-58000000-americans/</guid>
-      <description>&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;It is fine do regression analysis on independant variables, but not on dependant variables as this study did&lt;/p&gt;&#xA;&lt;p&gt;Most of the results of this study, following regression analysis dealth with variables having strong associations to Vitamin D&lt;/p&gt;&#xA;&lt;p&gt;    e.g. smoking, hypertension, race, diabetes, obesity, kidney failure, age, dark skin, etc&lt;/p&gt;&#xA;&lt;p&gt;Only the portions of the study in the PDF dealing with no regressed data are shown on this page&lt;/p&gt;&#xA;&lt;p&gt;The study does not appear to define Vitamin D deficiency&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Inhaling Vitamin D nanoemulsion through nose gets lots more to the brain (mice)</title>
-      <link>http://localhost:1313/posts/inhaling-vitamin-d-nanoemulsion-through-nose-gets-lots-more-to-the-brain-mice/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inhaling-vitamin-d-nanoemulsion-through-nose-gets-lots-more-to-the-brain-mice/</guid>
-      <description>&lt;h4 id=&#34;enhancement-in-brain-uptake-of-vitamin-d3-nanoemulsion-for-treatment-of-cerebral-ischemia-formulation-gamma-scintigraphy-and-efficacy-study-in-transient-middle-cerebral-artery-occlusion-rat-models&#34;&gt;Enhancement in brain uptake of Vitamin D3 nanoemulsion for treatment of cerebral ischemia: Formulation, Gamma scintigraphy and efficacy study in transient middle cerebral artery occlusion rat models&lt;/h4&gt;&#xA;&lt;p&gt;Journal of Microencapsulation  &lt;a href=&#34;https://doi.org/10.1080/02652048.2020.1801870&#34;&gt;https://doi.org/10.1080/02652048.2020.1801870&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mukesh Kumar,Dhruv Kumar Nishad,Anoop kumar,Aseem Bhatnagar,Ritu Karwasra,Kushagra Khanna, show all&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:#00F;&#34;&gt;The study used radioactive Vitamin D&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/mucosal-membranes-mouth-lungs-nose-intestines-etc-can-activate-vitamin-d&#34;&gt;Mucosal membranes (mouth, lungs, nose, intestines, etc) can activate Vitamin D – July 2020&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Increased Vitamin D to the brain might help prevent/treat:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>UVB phototherapy (which increases Vitamin D and VDR) decreased risk of many heart and stroke problems</title>
-      <link>http://localhost:1313/posts/uvb-phototherapy-which-increases-vitamin-d-and-vdr-decreased-risk-of-many-heart-and-stroke-problems/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uvb-phototherapy-which-increases-vitamin-d-and-vdr-decreased-risk-of-many-heart-and-stroke-problems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resveratrol fights Parkinson, Alzheimers, Diabetes, Cardiovascular, ALS, Stroke, etc.</title>
-      <link>http://localhost:1313/posts/resveratrol-fights-parkinson-alzheimers-diabetes-cardiovascular-als-stroke-etc/</link>
-      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/resveratrol-fights-parkinson-alzheimers-diabetes-cardiovascular-als-stroke-etc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stroke rehabilitation (and prevention) requires Vitamin D actually getting to cells</title>
-      <link>http://localhost:1313/posts/stroke-rehabilitation-and-prevention-requires-vitamin-d-actually-getting-to-cells/</link>
-      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-rehabilitation-and-prevention-requires-vitamin-d-actually-getting-to-cells/</guid>
-      <description>&lt;h4 id=&#34;vitamin-d-and-rehabilitation-after-stroke-status-of-art&#34;&gt;Vitamin D and Rehabilitation after Stroke: Status of Art&lt;/h4&gt;&#xA;&lt;p&gt;Appl. Sci. 2020, 10(6), 1973; &lt;a href=&#34;https://doi.org/10.3390/app10061973&#34;&gt;https://doi.org/10.3390/app10061973&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;by Mariacristina Siotto,Massimo Santoro *OrcID andIrene Aprile&lt;/p&gt;&#xA;&lt;p&gt;IRCCS, Fondazione Don Carlo Gnocchi, 20121 Milan, Italy&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-stroke-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Stroke and vitamin D&#34;&gt;Overview Stroke and vitamin D&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d&#34;&gt;Stroke outcome at 3 months was 3X worse if bad stroke and low vitamin D – Jan 2020&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/stroke-risks-increased-if-low-vitamin-d-death-36-x-recurrence-55-x-meta-analysis&#34;&gt;Stroke risks increased if low Vitamin D: Death 3.6 X, recurrence 5.5 X – Meta-analysis Nov 2019&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke outcome at 3 months was 3X worse if bad stroke and low vitamin D</title>
-      <link>http://localhost:1313/posts/stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d/</link>
-      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d/</guid>
-      <description>&lt;h4 id=&#34;impact-of-25-hydroxyvitamin-d-on-the-prognosis-of-acute-ischemic-stroke-machine-learning-approach&#34;&gt;Impact of 25-Hydroxyvitamin D on the Prognosis of Acute Ischemic Stroke: Machine Learning Approach.&lt;/h4&gt;&#xA;&lt;p&gt;Front Neurol. 2020 Jan 31;11:37. &lt;a href=&#34;https://doi.org/10.3389/fneur.2020.00037.&#34;&gt;doi: 10.3389/fneur.2020.00037.&lt;/a&gt; eCollection 2020.&lt;/p&gt;&#xA;&lt;p&gt;Kim C1,2, Lee SH1, Lim JS3, Kim Y4, Jang MU5, Oh MS3, Jung S6, Lee JH4, Yu KH3, Lee BC3.&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Machine learning was used to find the most relevant variable - NIHSS (initial indication of stroke severity)&lt;br&gt;&#xA;NIHSS = (National Institute of Health Stroke Scale&lt;br&gt;&#xA;Best model adjustment found by Machine Learning was NIHSS * (1+ Vitamin D)&lt;br&gt;&#xA;&lt;span style=&#34;color:#F00;&#34;&gt;Plain English – If you have a &amp;ldquo;bad&amp;rdquo; stroke you especially need to add Vitamin D&lt;/span&gt;&lt;br&gt;&#xA; &lt;br&gt;&#xA;Note by founder of VitaminDWiki&lt;br&gt;&#xA;This could have been found 30 years ago by Machine Learning.&lt;br&gt;&#xA;I had proposed giving a talk at the Vitamin D Workshop in 2019 on what modern ML can do&lt;br&gt;&#xA;    but it was rejected&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke not prevented by just 2,000 IU of vitamin D plus 840 mg Omega-3 (VITAL)</title>
-      <link>http://localhost:1313/posts/stroke-not-prevented-by-just-2000-iu-of-vitamin-d-plus-840-mg-omega-3-vital/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-not-prevented-by-just-2000-iu-of-vitamin-d-plus-840-mg-omega-3-vital/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/autoimmune-risk-decreased-30-percent-by-small-amount-of-vitamin-d-and-or-omega-3-vital&#34;&gt;Autoimmune risk decreased 30 percent by small amount of vitamin D and or Omega-3 – ViTAL Nov 7 2021&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Introduction: Low serum 25-hydroxyvitamin D (25(OH)D) and low marine omega-3 fatty acid (n-3) intake are associated with increased stroke risk in observational studies. Among stroke patients, low serum 25(OH)D at admission predicts poor outcomes and animal studies suggest that higher n-3 intake may diminish brain damage in ischemic stroke. However, few studies have examined effects of vitamin D or n-3 supplements on stroke outcomes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Poor Ischemic stroke outcome (END) 2.6 X worse if low vitamin D</title>
-      <link>http://localhost:1313/posts/poor-ischemic-stroke-outcome-end-26-x-worse-if-low-vitamin-d/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/poor-ischemic-stroke-outcome-end-26-x-worse-if-low-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#decreasing-serum-25-hydroxyvitamin-d-levels-and-risk-of-early-neurological-deterioration-in-patients-with-ischemic-stroke&#34;&gt;Decreasing serum 25-hydroxyvitamin D levels and risk of early neurological deterioration in patients with ischemic stroke.&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;decreasing-serum-25-hydroxyvitamin-d-levels-and-risk-of-early-neurological-deterioration-in-patients-with-ischemic-stroke&#34;&gt;Decreasing serum 25-hydroxyvitamin D levels and risk of early neurological deterioration in patients with ischemic stroke.&lt;/h4&gt;&#xA;&lt;p&gt;Brain Behav. 2019 Mar;9(3):e01227. &lt;a href=&#34;https://doi.org/10.1002/brb3.1227&#34;&gt;doi: 10.1002/brb3.1227&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hu W1, Liu D2, Li Q3, Wang L1, Tang Q1, Wang G1.&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;BACKGROUND AND AIMS:&lt;/p&gt;&#xA;&lt;p&gt;Vitamin D deficiency has been linked to a higher risk of ischemic stroke. We therefore explored the relationship between serum 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; levels and early neurological deterioration (END) after acute ischemic stroke in a hospital-based prospective study.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke risks increased if low Vitamin D: Death 3.6 X, recurrence 5.5 X – Meta-analysis</title>
-      <link>http://localhost:1313/posts/stroke-risks-increased-if-low-vitamin-d-death-36-x-recurrence-55-x-meta-analysis/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-risks-increased-if-low-vitamin-d-death-36-x-recurrence-55-x-meta-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blood clotting (Thrombosis) is associated with low Vitamin D (yet again)</title>
-      <link>http://localhost:1313/posts/blood-clotting-thrombosis-is-associated-with-low-vitamin-d-yet-again/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/blood-clotting-thrombosis-is-associated-with-low-vitamin-d-yet-again/</guid>
-      <description>&lt;p&gt;From the web:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;A thrombotic stroke occurs when a blood clot (thrombus) forms in one of the arteries that supply blood to your brain. A clot may be caused by fatty deposits (plaque) that build up in arteries and cause reduced blood flow (atherosclerosis) or other artery conditions.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://www.texasheart.org/heart-health/heart-information-center/topics/types-of-strokes/&#34;&gt;There are 2 kinds of ischemic stroke: thrombotic stroke (the most common type) and embolic stroke&lt;/a&gt;&amp;rdquo;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#emerging-role-of-vitamin-d-and-its-associated-molecules-in-pathways-related-to-pathogenesis-of-thrombosis--oct-2019&#34;&gt;Emerging Role of Vitamin D and its Associated Molecules in Pathways Related to Pathogenesis of Thrombosis – Oct 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#a-few-references-from-2019-study&#34;&gt;A few references from 2019 study&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#reduced-clotting-after-300000-iu-vitamin-d-loading-dose---oct-2019&#34;&gt;Reduced clotting after 300,000 IU Vitamin D loading dose - Oct 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#deep-vein-thrombosis-during-stroke-rehab-was-47-x-more-likely-if-low-vitamin-d--july-2018&#34;&gt;Deep Vein Thrombosis during stroke rehab was 4.7 X more likely if low vitamin D – July 2018&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#low-vitamin-d-is-associated-with-thrombosis-in-systemic-lupus-erythematosus---2018&#34;&gt;Low vitamin d is associated with thrombosis in systemic lupus erythematosus - 2018&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-relationship-between-vitamin-d-status-and-idiopathic-lower-extremity-deep-vein-thrombosis---june-2014&#34;&gt;The relationship between vitamin D status and idiopathic lower-extremity deep vein thrombosis - June 2014&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#thrombosis-leads-to-stroke-worse-with-low-vitamin-d--nov-2013&#34;&gt;Thrombosis (leads to stroke) worse with low vitamin D – Nov 2013&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;emerging-role-of-vitamin-d-and-its-associated-molecules-in-pathways-related-to-pathogenesis-of-thrombosis--oct-2019&#34;&gt;Emerging Role of Vitamin D and its Associated Molecules in Pathways Related to Pathogenesis of Thrombosis – Oct 2019&lt;/h4&gt;&#xA;&lt;p&gt;by Syed Mohammad, Aastha Mishra and Mohammad Zahid Ashraf *&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke incidence not associated with low Vitamin D (but stroke outcome is)</title>
-      <link>http://localhost:1313/posts/stroke-incidence-not-associated-with-low-vitamin-d-but-stroke-outcome-is/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-incidence-not-associated-with-low-vitamin-d-but-stroke-outcome-is/</guid>
-      <description>&lt;h4 id=&#34;vitamin-d-status-and-risk-of-stroke--the-rotterdam-study&#34;&gt;Vitamin D Status and Risk of Stroke -The Rotterdam Study&lt;/h4&gt;&#xA;&lt;p&gt;Stroke. 2019;50:2293–2298, &lt;a href=&#34;https://doi.org/10.1161/STROKEAHA.119.025449&#34;&gt;https://doi.org/10.1161/STROKEAHA.119.025449&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Brian P. Berghout , Lana Fani , Alis Heshmatollah , Peter J. Koudstaal , M. Arfan Ikram , M. Carola Zillikens , M. Kamran Ikram&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d&#34;&gt;Stroke outcome at 3 months was 3X worse if bad stroke and low vitamin D – Jan 2020&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d&#34;&gt;Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vitamin D – May 2019&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke patients need more than 2,000 IU of vitamin D (found this time in Japan) – RCT</title>
-      <link>http://localhost:1313/posts/stroke-patients-need-more-than-2000-iu-of-vitamin-d-found-this-time-in-japan-rct/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-patients-need-more-than-2000-iu-of-vitamin-d-found-this-time-in-japan-rct/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Increased health problems in blacks is similar to that of low vitamin D whites (John Singleton Stroke)</title>
-      <link>http://localhost:1313/posts/increased-health-problems-in-blacks-is-similar-to-that-of-low-vitamin-d-whites-john-singleton-stroke/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/increased-health-problems-in-blacks-is-similar-to-that-of-low-vitamin-d-whites-john-singleton-stroke/</guid>
-      <description>&lt;h4 id=&#34;race-matters-to-the-health-of-african-american-menhttpsblogsscientificamericancomvoicesrace-matters-to-the-health-of-african-american-men-scientific-american-june-2019&#34;&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/voices/race-matters-to-the-health-of-african-american-men/&#34;&gt;Race Matters to the Health of African American Men&lt;/a&gt; Scientific American June 2019&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;The recent, premature death of director John Singleton is a tragic case in point&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;200&#34;&gt;&#xA;&lt;p&gt;by &lt;span&gt;[Janice_Phillips@rush.edu]&lt;/span&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;200&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Singleton died at age 51 after having a stroke on April 29&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;&amp;hellip;African Americans, who have the highest prevalence of hypertension in the world.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;In general, black men have the lowest life expectancy, living 7.1 years less than other ethnic groups&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Strokes result in many years of disability (Vitamin D can help) GBD</title>
-      <link>http://localhost:1313/posts/strokes-result-in-many-years-of-disability-vitamin-d-can-help-gbd/</link>
-      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/strokes-result-in-many-years-of-disability-vitamin-d-can-help-gbd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vitamin D</title>
-      <link>http://localhost:1313/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#severity-of-vitamin-d-deficiency-predicts-mortality-in-ischemic-stroke-patients&#34;&gt;Severity of Vitamin D Deficiency Predicts Mortality in Ischemic Stroke Patients&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;severity-of-vitamin-d-deficiency-predicts-mortality-in-ischemic-stroke-patients&#34;&gt;Severity of Vitamin D Deficiency Predicts Mortality in Ischemic Stroke Patients&lt;/h4&gt;&#xA;&lt;p&gt;Disease Markers, Volume 2019, 10 pages, &lt;a href=&#34;https://doi.org/10.1155/2019/3652894&#34;&gt;https://doi.org/10.1155/2019/3652894&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jarosław Wajda,1 Maciej Świat,2,3 Aleksander J. Owczarek,4 Aniceta Brzozowska,5 Magdalena Olszanecka-Glinianowicz,5 and Jerzy Chudek6,7&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;300&#34;&gt;&#xA;&lt;p&gt;Background. Vitamin D (VD) deficiency is considered an independent risk factor for death due to cardiovascular events including ischemic stroke (IS). We assessed the hypothesis that decreased levels of 25-hydroxyvitamin D (25-OH-D) are associated with increased risk of mortality in patients with IS.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Half the number of bleeding strokes if have lots of vitamin D (male rats)</title>
-      <link>http://localhost:1313/posts/half-the-number-of-bleeding-strokes-if-have-lots-of-vitamin-d-male-rats/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/half-the-number-of-bleeding-strokes-if-have-lots-of-vitamin-d-male-rats/</guid>
-      <description>&lt;h4 id=&#34;roles-of-vitamin-d-deficiency-in-the-development-of-intracranial-aneurysm-rupture&#34;&gt;Roles of Vitamin D Deficiency in the Development of Intracranial Aneurysm Rupture&lt;/h4&gt;&#xA;&lt;p&gt;INTERNATIONAL STROKE CONFERENCE 2019 POSTER ABSTRACTS&lt;/p&gt;&#xA;&lt;p&gt;SESSION TITLE: ANEURYSM POSTERS  &lt;a href=&#34;https://doi.org/10.1161/str.50.suppl_1.WP118Stroke&#34;&gt;https://doi.org/10.1161/str.50.suppl_1.WP118Stroke&lt;/a&gt;. 2019;50:AWP118&lt;/p&gt;&#xA;&lt;p&gt;Tetsuro Kimura , Daisuke Kudo , Takeshi Miyamoto , Hiroki Sato , Taichi Ikedo , Michael Lawton , Tomoki Hashimoto&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Most of the Vitamin D stueids are not for Hemorrhagic Stroke&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/large-vessel-ischemic-stroke-13-x-more-likely-if-low-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Large vessel Ischemic Stroke 13 X more likely if low vitamin D – Nov 2017&#34;&gt;Large vessel Ischemic Stroke 13 X more likely if low vitamin D – Nov 2017&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stroke recovery was aided by vitamin D and Progesterone (in rats)</title>
-      <link>http://localhost:1313/posts/stroke-recovery-was-aided-by-vitamin-d-and-progesterone-in-rats/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stroke-recovery-was-aided-by-vitamin-d-and-progesterone-in-rats/</guid>
-      <description>&lt;h4 id=&#34;stroke-outcomes-in-vitamin-d-deficient-conditions-modulatory-role-of-progesterone-and-vitamin-d&#34;&gt;Stroke Outcomes in Vitamin D-Deficient Conditions: Modulatory Role of Progesterone and Vitamin D&lt;/h4&gt;&#xA;&lt;p&gt;INTERNATIONAL STROKE CONFERENCE 2019 POSTER ABSTRACTS&lt;/p&gt;&#xA;&lt;p&gt;SESSION TITLE: ACUTE ENDOVASCULAR TREATMENT POSTERS I Abstract WP8:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1161/str.50.suppl_1.WP8Stroke&#34;&gt;https://doi.org/10.1161/str.50.suppl_1.WP8Stroke&lt;/a&gt;. 2019;50:AWP8&lt;/p&gt;&#xA;&lt;p&gt;Seema Yousuf , Fahim Atif , Claudia Espinosa Garcia , Donald Stein&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/traumatic-brain-injury-treated-by-vitamin-d-progesterone-omega-3-and-glutamine&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Traumatic brain injury treated by Vitamin D Progesterone Omega-3 and glutamine – May 2013&#34;&gt;Traumatic brain injury treated by Vitamin D Progesterone Omega-3 and glutamine – May 2013&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More Cognitive Impairment after some types of stroke if low vitamin D - many studies</title>
-      <link>http://localhost:1313/posts/more-cognitive-impairment-after-some-types-of-stroke-if-low-vitamin-d-many-studies/</link>
-      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/more-cognitive-impairment-after-some-types-of-stroke-if-low-vitamin-d-many-studies/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#5x-increased-risk-of-poor-cognition-after-minor-stroke-if-low-vitamin-d---aug-2023&#34;&gt;5X increased risk of poor cognition after minor stroke if low vitamin D - Aug 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#association-between-vitamin-d-status-and-cognitive-impairment-in-acute-ischemic-stroke-patients-a-prospective-cohort-study---2018&#34;&gt;Association between vitamin D status and cognitive impairment in acute ischemic stroke patients: a prospective cohort study - 2018&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#see-also-in-vitamindwiki&#34;&gt;See also in VitaminDWiki&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;5x-increased-risk-of-poor-cognition-after-minor-stroke-if-low-vitamin-d---aug-2023&#34;&gt;5X increased risk of poor cognition after minor stroke if low vitamin D - Aug 2023&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lower 25-hydroxyvitamin D is associated with severer white matter hyperintensity and cognitive function in patients with non-disabling ischemic cerebrovascular events&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Poor blood-brain barrier following stroke if low vitamin D (in rats) – RCT</title>
-      <link>http://localhost:1313/posts/poor-blood-brain-barrier-following-stroke-if-low-vitamin-d-in-rats-rct/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/poor-blood-brain-barrier-following-stroke-if-low-vitamin-d-in-rats-rct/</guid>
-      <description>&lt;h4 id=&#34;vitamin-d-deficiency-increases-blood-brain-barrier-dysfunction-after-ischemic-stroke-in-male-rats&#34;&gt;Vitamin D deficiency increases blood-brain barrier dysfunction after ischemic stroke in male rats&lt;/h4&gt;&#xA;&lt;p&gt;Experimental Neurology, Vol 312, Feb 2019, pg 63-71, &lt;a href=&#34;https://doi.org/10.1016/j.expneurol.2018.11.005&#34;&gt;https://doi.org/10.1016/j.expneurol.2018.11.005&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Having no Vitamin D in chow ==&amp;gt; 1/4 the vitamin D level in blood&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-stroke-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Stroke and vitamin D&#34;&gt;Overview Stroke and vitamin D&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/stroke-or-coronary-heart-disease-deaths-30-percent-less-likely-if-had-taken-more-0-patient-years&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Stroke or coronary heart disease deaths 30% less likely if had taken more than 440 IU of vitamin D (900,000 patient years) – Jan 2018&#34;&gt;Stroke or coronary heart disease deaths 30% less likely if had taken more than 440 IU of vitamin D (900,000 patient years) – Jan 2018&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Depression is associated with stroke if low vitamin D or winter</title>
-      <link>http://localhost:1313/posts/depression-is-associated-with-stroke-if-low-vitamin-d-or-winter/</link>
-      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/depression-is-associated-with-stroke-if-low-vitamin-d-or-winter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Depression following a stroke is 2.7 X more likely if low vitamin D</title>
-      <link>http://localhost:1313/posts/depression-following-a-stroke-is-27-x-more-likely-if-low-vitamin-d/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/depression-following-a-stroke-is-27-x-more-likely-if-low-vitamin-d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resveratrol improves health (Vitamin D receptor, etc.)</title>
-      <link>http://localhost:1313/posts/resveratrol-improves-health-vitamin-d-receptor-etc/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/resveratrol-improves-health-vitamin-d-receptor-etc/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#influence-of-resveratrol-on-the-immune-response-nothing-about-vitamin-d--april-2019&#34;&gt;Influence of Resveratrol on the Immune Response (Nothing about Vitamin D)- April 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#multiplicity-of-effects-and-health-benefits-of-resveratrol--april-2015&#34;&gt;Multiplicity of effects and health benefits of resveratrol – April 2015&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#pubmed&#34;&gt;PubMed&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#web&#34;&gt;Web&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#found-my-fitness--dr-patrick-on-reseveratrol&#34;&gt;Found My Fitness ( Dr. Patrick) on Reseveratrol&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#resveratrol-rewriting-the-science-oct-2018-by-bill-sardi&#34;&gt;RESVERATROL: REWRITING THE SCIENCE, Oct, 2018: by Bill Sardi&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#chart-of-resveratrol-benefits---natural-biology&#34;&gt;Chart of Resveratrol benefits - Natural Biology&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#resveratrol-being-a-phytoestrogen-decreased-breast-cancer-survival-by-19---nov-2019&#34;&gt;Resveratrol, being a phytoestrogen, DECREASED Breast Cancer survival by 19% - Nov 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#resveratrol-oral-and-topical-forms-that-are-more-bio-available&#34;&gt;Resveratrol oral and topical forms that are more bio-available&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#asked-chatgpt-what-are-the-downsides-to-taking-resveratrol---dec-2023&#34;&gt;Asked ChatGPT: What are the downsides to taking Resveratrol - Dec 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#turmeric-is-as-effective-as-14-drugs-turmeric-also-increases-vdr-activation---march-2021&#34;&gt;Turmeric is as Effective as 14 Drugs (Turmeric also increases VDR activation) - March 2021&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;influence-of-resveratrol-on-the-immune-response-nothing-about-vitamin-d--april-2019&#34;&gt;Influence of Resveratrol on the Immune Response (Nothing about Vitamin D)- April 2019&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stroke on VitaminDWiki</title><link>//localhost:1313/categories/stroke.html</link><description>Recent content in Stroke on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/stroke/index.xml" rel="self" type="application/rss+xml"/><item><title>Ischemic Stroke is 18% more likely if poor Vitamin D genes (unless take more Vitamin D)</title><link>//localhost:1313/posts/ischemic-stroke-is-18-percent-more-likely-if-poor-vitamin-d-genes-unless-take-more-vitamin-d.html</link><pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/ischemic-stroke-is-18-percent-more-likely-if-poor-vitamin-d-genes-unless-take-more-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#causal-effect-of-serum-25-hydroxyvitamin-d-concentration-on-cardioembolic-stroke-evidence-from-two-sample-mendelian-randomization">Causal effect of serum 25 hydroxyvitamin D concentration on cardioembolic stroke: Evidence from two-sample Mendelian randomization&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="causal-effect-of-serum-25-hydroxyvitamin-d-concentration-on-cardioembolic-stroke-evidence-from-two-sample-mendelian-randomization">Causal effect of serum 25 hydroxyvitamin D concentration on cardioembolic stroke: Evidence from two-sample Mendelian randomization&lt;/h4>
+&lt;p>Nutrition, Metabolism, and Cardiovascular Disease :&lt;a href="https://doi.org/10.1016/j.numecd.2024.02.013">https://doi.org/10.1016/j.numecd.2024.02.013&lt;/a>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;p>&lt;strong>It seems that there are two groups of genes&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>&lt;strong>Highlights&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Genetically predicted serum 25 hydroxyvitamin D concentration is associated with the risk of cardioembolic stroke.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mendelian Randomization analysis provides suggestive evidence that increased 25(OH)D levels may play a protective role in the development of cardioembolic stroke.&lt;/p></description></item><item><title>Stroke 3 times more likely if dark skin woman has Hypertension before age 35</title><link>//localhost:1313/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35.html</link><pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#hypertension-before-35-tied-to-triple-stroke-risk-inmidlife">Hypertension Before 35 Tied to Triple Stroke Risk in Midlife&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="hypertension-before-35-tied-to-triple-stroke-risk-inmidlife">Hypertension Before 35 Tied to Triple Stroke Risk in Midlife&lt;/h4>
+&lt;p>&lt;strong>From: &lt;a href="https://www.mdedge.com/cardiology/article/267662/hypertension/hypertension-35-tied-triple-stroke-risk-midlife?ecd=WNL_EVE_240202_mdedge">MD Edge&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Black women who develop high blood pressure before age 35 have a threefold increased risk of having a midlife stroke, new observational data suggested.&lt;/p>
+&lt;p>The Black Women’s Health Study, which has followed 59,000 participants in the United States since the 1990s, also showed that those who develop hypertension before age 45 have twice the risk of suffering a stroke.&lt;/p></description></item><item><title>Vitamin D is the best Vitamin to prevent a stroke - meta-analysis</title><link>//localhost:1313/posts/vitamin-d-is-the-best-vitamin-to-prevent-a-stroke-meta-analysis.html</link><pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-is-the-best-vitamin-to-prevent-a-stroke-meta-analysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#from-a-to-e-uniting-vitamins-against-stroke-risk-a-systematic-review-and-network-meta-analysis">From A to E: Uniting vitamins against stroke risk-A systematic review and network meta-analysis&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="from-a-to-e-uniting-vitamins-against-stroke-risk-a-systematic-review-and-network-meta-analysis">From A to E: Uniting vitamins against stroke risk-A systematic review and network meta-analysis&lt;/h4>
+&lt;p>Eur J Clin Invest. 2024 Jan 30:e14165. &lt;a href="https://doi.org/10.1111/eci.14165">doi: 10.1111/eci.14165&lt;/a>&lt;/p>
+&lt;p>Shashank Tripathi 1, Manabesh Nath 1, Shubham Misra 2, Pradeep Kumar 3&lt;/p>
+&lt;p>Background and aim: Stroke represents a significant public health challenge, necessitating the exploration of preventive measures. This network meta-analysis aimed to assess the efficacy of different vitamin treatments compared to a placebo in preventing stroke.&lt;/p></description></item><item><title>Low Vitamin D associated with CHD, stroke, death, etc, (Mendelian analhysis)</title><link>//localhost:1313/posts/low-vitamin-d-associated-with-chd-stroke-death-etc-mendelian-analhysis.html</link><pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/low-vitamin-d-associated-with-chd-stroke-death-etc-mendelian-analhysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#estimating-dose-response-relationships-for-vitamin-d-with-coronary-heart-disease-stroke-and-all-cause-mortality-observational-and-mendelian-randomisation-analyses">Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="estimating-dose-response-relationships-for-vitamin-d-with-coronary-heart-disease-stroke-and-all-cause-mortality-observational-and-mendelian-randomisation-analyses">Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses&lt;/h4>
+&lt;p>&lt;strong>Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration&lt;/strong>&lt;/p>
+&lt;p>Lancet Diabetes Endocrinol 2021; 9: 837-46 &lt;a href="http://doi.org/10.1016/">http://doi.org/10.1016/&lt;/a> S2213-8587(21)00263-1&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="900">
+&lt;p>Background Randomised trials of vitamin D supplementation for cardiovascular disease and all-cause mortality have generally reported null findings. However, generalisability of results to individuals with low vitamin D status is unclear. We aimed to characterise dose-response relationships between 25-hydroxyvitamin D (25&lt;span>[OH]&lt;/span>D) concentrations and risk of coronary heart disease, stroke, and all-cause mortality in observational and Mendelian randomisation frameworks.&lt;/p></description></item><item><title>After stroke, 40% less likely to die if 400 mg of Magnesium daily</title><link>//localhost:1313/posts/after-stroke-40-percent-less-likely-to-die-if-400-mg-of-magnesium-daily.html</link><pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/after-stroke-40-percent-less-likely-to-die-if-400-mg-of-magnesium-daily.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#magnesium-intake-and-all-cause-mortality-after-stroke-a-cohort-study">Magnesium intake and all-cause mortality after stroke: a cohort study&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="magnesium-intake-and-all-cause-mortality-after-stroke-a-cohort-study">Magnesium intake and all-cause mortality after stroke: a cohort study&lt;/h4>
+&lt;p>Nutrition Journal volume 22, Article number: 54 (2023)&lt;/p>
+&lt;p>Mengyan Wang, Jianhong Peng, Caili Yang, Wenyuan Zhang, Zicheng Cheng &amp;amp; Haibin Zheng&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>&lt;strong>Note: Adults often consume 2,000 calories/day, so Q4 would be ~400 mg of Magnesium&lt;/strong>&lt;/p>
+&lt;p>Background&lt;/p>
+&lt;p>Population-based studies have shown that adequate magnesium intake is associated with a lower risk of stroke and all-cause mortality. Whether adequate magnesium intake is important for reducing all-cause mortality risk after stroke remains unclear.&lt;/p></description></item><item><title>High Omega-3 reduced risk of Ischemic stroke by 18%</title><link>//localhost:1313/posts/high-omega-3-reduced-risk-of-ischemic-stroke-by-18-percent.html</link><pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/high-omega-3-reduced-risk-of-ischemic-stroke-by-18-percent.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#omega-3-blood-levels-and-stroke-risk-a-pooled-and-harmonized-analysis-of-183291-participants-from-29-prospective-studies">Omega-3 Blood Levels and Stroke Risk: A Pooled and Harmonized Analysis of 183 291 Participants From 29 Prospective Studies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-discussion-at-grassrootshealthhttpsmyemailconstantcontactcomhigher-omega-3-levels-associated-with-lower-risk-of-strokehtmlsoid1102722411090aid5fvae0gurd8">See discussion at &lt;a href="https://myemail.constantcontact.com/Higher-Omega-3-Levels-Associated-with-Lower-Risk-of-Stroke.html?soid=1102722411090&amp;amp;aid=5FVAE0Gurd8">Grassrootshealth&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="omega-3-blood-levels-and-stroke-risk-a-pooled-and-harmonized-analysis-of-183291-participants-from-29-prospective-studies">Omega-3 Blood Levels and Stroke Risk: A Pooled and Harmonized Analysis of 183 291 Participants From 29 Prospective Studies&lt;/h4>
+&lt;p>Stroke. 2024;55:50–58 &lt;a href="https://doi.org/10.1161/STROKEAHA.123.044281">https://doi.org/10.1161/STROKEAHA.123.044281&lt;/a>&lt;/p>
+&lt;p>James H. O’Keefe, Nathan L. Tintle, William S. Harris, Evan L. O’Keefe, Aleix Sala-Vila, John Attia, G. Manohar Garg, Alexis Hure, …&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>The effect of marine omega-3 PUFAs on risk of stroke remains unclear.&lt;/p></description></item><item><title>8X increased risk of stroke if COVID vaccinated and catch COVID within 3 weeks</title><link>//localhost:1313/posts/8x-increased-risk-of-stroke-if-covid-vaccinated-and-catch-covid-within-3-weeks.html</link><pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/8x-increased-risk-of-stroke-if-covid-vaccinated-and-catch-covid-within-3-weeks.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#factors-associated-with-stroke-after-covid-19-vaccination-a-statewide-analysis">Factors associated with stroke after COVID-19 vaccination: a statewide analysis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-v-safe---7-had-emergency-medical-after-vaccination---cdc-response-cancel-v-safe---sept-2023postsv-safe-7-percent-had-emergency-medical-after-vaccination-cdc-response-cancel-v-safe">See also: &lt;a href="//localhost:1313/posts/v-safe-7-percent-had-emergency-medical-after-vaccination-cdc-response-cancel-v-safe">V-safe - 7% had emergency medical after vaccination - CDC response, cancel V-safe - Sept 2023&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="factors-associated-with-stroke-after-covid-19-vaccination-a-statewide-analysis">Factors associated with stroke after COVID-19 vaccination: a statewide analysis&lt;/h4>
+&lt;p>Front Neurol. 2023 Jun 28;14:1199745. &lt;a href="https://doi.org/10.3389/fneur.2023.1199745">doi: 10.3389/fneur.2023.1199745&lt;/a>&lt;/p>
+&lt;p>Fadi Nahab 1, Rana Bayakly 2, Mary Elizabeth Sexton 3, Manet Lemuel-Clarke 4, Laura Henriquez 4, Srikant Rangaraju 4, Moges Ido 2&lt;/p>
+&lt;p>Background: The objective of our study was to evaluate vaccine type, COVID-19 infection, and their association with stroke soon after COVID-19 vaccination.&lt;/p></description></item><item><title>Vitamin K, cardiovascular health, and stroke - many studies</title><link>//localhost:1313/posts/vitamin-k-cardiovascular-health-and-stroke-many-studies.html</link><pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-k-cardiovascular-health-and-stroke-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-k-intake-in-chronic-stroke-implications-for-dietary-recommendations---oct-2020">Vitamin K Intake in Chronic Stroke: Implications for Dietary Recommendations - Oct 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-k2a-neglected-player-in-cardiovascular-health-a-narrative-review---oct-2021">Vitamin K2—a neglected player in cardiovascular health: a narrative review - Oct 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#quantifying-dietary-vitamin-k-and-its-link-to-cardiovascular-health-a-narrative-review--2020">Quantifying dietary vitamin K and its link to cardiovascular health: a narrative review	- 2020&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-k-intake-in-chronic-stroke-implications-for-dietary-recommendations---oct-2020">Vitamin K Intake in Chronic Stroke: Implications for Dietary Recommendations - Oct 2020&lt;/h4>
+&lt;p>Nutrients 2020, 12(10), 3059; &lt;a href="https://doi.org/10.3390/nu12103059">https://doi.org/10.3390/nu12103059&lt;/a>&lt;/p>
+&lt;p>by Chad Wessinger,Charlene Hafer-Macko andAlice S. Ryan *&lt;/p>
+&lt;p>VA Research Service, Department of Medicine, Division of Gerontology and Geriatric Medicine at the University of Maryland School of Medicine, and the Baltimore VA Medical Center Geriatric Research, Education and Clinical Center (GRECC), VA Maryland Health Care System, Baltimore, MD 21201, USA&lt;/p></description></item><item><title>Post-stroke Vitamin D supplementation helped in 11 ways</title><link>//localhost:1313/posts/post-stroke-vitamin-d-supplementation-helped-in-11-ways.html</link><pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/post-stroke-vitamin-d-supplementation-helped-in-11-ways.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#a-systematic-review-examining-the-effect-of-vitamin-d-supplementation-on-functional-outcomes-post-stroke">A systematic review examining the effect of vitamin D supplementation on functional outcomes post-stroke&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="a-systematic-review-examining-the-effect-of-vitamin-d-supplementation-on-functional-outcomes-post-stroke">A systematic review examining the effect of vitamin D supplementation on functional outcomes post-stroke&lt;/h4>
+&lt;p>Clin Rehabil. 2023 May 11 &lt;a href="https://doi.org/10.1177/02692155231174599">doi: 10.1177/02692155231174599&lt;/a>&lt;/p>
+&lt;p>Jamie L Fleet 1 2 3, Amanda McIntyre 3 4, Shannon Janzen 3, Marcus Saikaley 3, Michael Qaqish 5, Robert Cianfarani 5, Alexandra Papaioannou 5 6 7&lt;/p>
+&lt;p>Objective: The objective of this systematic review was to explore the effect of vitamin D supplementation on functional outcomes (motor function, mobility, activities of daily living and stroke impairment) among individuals post-stroke (PROSPERO CRD42022296462).&lt;/p></description></item><item><title>Inflammation of small blood vessels in the brain is associated with low vitamin D</title><link>//localhost:1313/posts/inflammation-of-small-blood-vessels-in-the-brain-is-associated-with-low-vitamin-d.html</link><pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/inflammation-of-small-blood-vessels-in-the-brain-is-associated-with-low-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#low-vitamin-d-status-is-associated-with-inflammatory-response-in-older-patients-with-cerebral-small-vessel-disease">Low vitamin D status is associated with inflammatory response in older patients with cerebral small vessel disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#gtp-4-description-of-cerebral-small-vessel-disease-april-2023">GTP-4 description of cerebral small vessel disease (April 2023)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---brain-and-vitamin-d---many-studiespostsbrain-and-vitamin-d-many-studies--94-as-of-march-2023">VitaminDWiki - &lt;a href="//localhost:1313/posts/brain-and-vitamin-d-many-studies">Brain and Vitamin D - many studies&lt;/a> 94 as of March 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="low-vitamin-d-status-is-associated-with-inflammatory-response-in-older-patients-with-cerebral-small-vessel-disease">Low vitamin D status is associated with inflammatory response in older patients with cerebral small vessel disease&lt;/h4>
+&lt;p>J Neuroimmunol . 2023 Apr 15;377:578057. &lt;a href="https://doi.org/10.1016/j.jneuroim.2023.578057">doi: 10.1016/j.jneuroim.2023.578057&lt;/a>&lt;/p>
+&lt;p>  (behind a paywall), free access to citations&lt;/p></description></item><item><title>Recurrent Stroke 5X more-likely if very low vitamin D - meta-analysis</title><link>//localhost:1313/posts/recurrent-stroke-5x-more-likely-if-very-low-vitamin-d-meta-analysis.html</link><pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/recurrent-stroke-5x-more-likely-if-very-low-vitamin-d-meta-analysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#25-hydroxy-vitamin-d-and-risk-of-recurrent-stroke-a-dose-response-meta-analysis">25-Hydroxy-Vitamin D and Risk of Recurrent Stroke: A Dose Response Meta-Analysis&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="25-hydroxy-vitamin-d-and-risk-of-recurrent-stroke-a-dose-response-meta-analysis">25-Hydroxy-Vitamin D and Risk of Recurrent Stroke: A Dose Response Meta-Analysis&lt;/h4>
+&lt;p>Nutrients . 2023 Jan 18;15(3):512. &lt;a href="https://doi.org/10.3390/nu15030512.">doi: 10.3390/nu15030512.&lt;/a>&lt;/p>
+&lt;p>Anita Vergatti 1, Veronica Abate 1, Aquilino Flavio Zarrella 1, Fiore Manganelli 2, Stefano Tozza 2, Rosa Iodice 2, Gianpaolo De Filippo 3, Lanfranco D&amp;rsquo;Elia 1, Pasquale Strazzullo 4, Domenico Rendina 1&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="700">
+&lt;p>Stroke recurrence significantly improves the prognosis quoad vitam et valetudinem of patients with a first ischemic or haemorrhagic stroke. Other than in bone and skeletal metabolism, vitamin D is involved in the pathogenesis of cardiovascular disorders. This meta-analysis was performed to evaluate the relationship between 25OH-vitamin D &lt;span>[25(OH)D]&lt;/span> levels at the first stroke and the stroke recurrence. To 31 July 2022, four prospective studies were identified. The potential non-linear relationship was evaluated by modelling 25(OH)D, using restricted cubic splines of 25(OH)D distribution. The pooled estimated risk (and 95% CI) of the recurrence of stroke, comparing the highest and the lowest levels, was assessed using a random-effect model. A non-linear association was found by dose-response analysis. This study found that 25(OH)D levels at the first stroke ≥9.3 ng/mL were associated with a lower risk of stroke recurrence, compared with 25(OH)D levels ≤8.5 ng/mL. In the pooled analysis, higher 25(OH)D levels at the first stroke significantly reduce the risk of stroke recurrence, with a significant heterogeneity among studies. In conclusion, 25(OH)D levels ≤8.5 ng/mL at the first stroke are significantly associated with a higher risk of recurrent stroke.&lt;/p></description></item><item><title>CYP2R1 gene reduces response to Vitamin D - many studies</title><link>//localhost:1313/posts/cyp2r1-gene-reduces-response-to-vitamin-d-many-studies.html</link><pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/cyp2r1-gene-reduces-response-to-vitamin-d-many-studies.html</guid><description>&lt;p>&lt;strong>People with a poor CYP2R1 genes are poor Vitamin D responders&lt;br>
+    Possible solution: take larger doses of Vitamin D&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamindwiki---geneticscategoriesgenetics-chart-shows-the-vitamin-d-genes">VitaminDWiki - &lt;a href="//localhost:1313/categories/genetics">Genetics&lt;/a> chart shows the vitamin D genes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#genes-and-other-reasons-for-poor-blood-response-to-vitamin-d-supplementation">Genes and other reasons for poor blood response to Vitamin D supplementation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cyp2r1-was-the-gene-most-associated-with-increased-risk-of-ischemic-stroke---feb-2023">CYP2R1 was the gene most associated with increased risk of Ischemic Stroke - Feb 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamindwiki---geneticscategoriesgenetics-chart-shows-the-vitamin-d-genes">VitaminDWiki - &lt;a href="//localhost:1313/categories/genetics">Genetics&lt;/a> chart shows the vitamin D genes&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="300">
+&lt;hr>
+&lt;h4 id="genes-and-other-reasons-for-poor-blood-response-to-vitamin-d-supplementation">Genes and other reasons for poor blood response to Vitamin D supplementation&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/poor-or-no-response-to-vitamin-d-was-associated-with-poor-genes-cystic-fibrosis-4-genes">Poor or no response to vitamin D was associated with poor genes (cystic fibrosis, 4 genes) Sept 2022&lt;/a>&lt;/p></description></item><item><title>Ignoring dose size etc, meta-analysis concludes that Vitamin D does not help (stroke risk in this case)</title><link>//localhost:1313/posts/ignoring-dose-size-etc-meta-analysis-concludes-that-vitamin-d-does-not-help-stroke-risk-in-this-case.html</link><pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/ignoring-dose-size-etc-meta-analysis-concludes-that-vitamin-d-does-not-help-stroke-risk-in-this-case.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-and-risk-of-stroke-a-meta-analysis-of-randomized-controlled-trials">Vitamin D supplementation and risk of stroke: A meta-analysis of randomized controlled trials&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#10-types-of-problems-with-some-meta-analyses">10+ types of problems with some meta-analyses:&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-supplementation-and-risk-of-stroke-a-meta-analysis-of-randomized-controlled-trials">Vitamin D supplementation and risk of stroke: A meta-analysis of randomized controlled trials&lt;/h4>
+&lt;p>Front Neurol. 2022 Aug 18;13:970111 &lt;a href="https://doi.org/10.3389/fneur.2022.970111">doi: 10.3389/fneur.2022.970111&lt;/a>&lt;/p>
+&lt;p>Jia Fu 1 , Junfang Sun 2 , Chao Zhang 3&lt;/p>
+&lt;p>Background: Previous observational studies have supported the hypothesis that vitamin D supplementation protects against stroke. However, several current intervention studies contradict this observation. Therefore, we conducted a meta-analysis to investigate further the association between vitamin D supplementation and the risk of stroke.&lt;/p></description></item><item><title>Sleep quality 6X worse after stroke if low vitamin D</title><link>//localhost:1313/posts/sleep-quality-6x-worse-after-stroke-if-low-vitamin-d.html</link><pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/sleep-quality-6x-worse-after-stroke-if-low-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#reduced-serum-vitamin-d-levels-are-associated-with-poor-sleep-quality-in-early-stroke-patients">Reduced serum vitamin D levels are associated with poor sleep quality in early stroke patients&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#note-many-health-problems-are-associated-with-low-vitamin-d-and-poor-sleep">Note: Many health problems are associated with low vitamin D and poor sleep&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="reduced-serum-vitamin-d-levels-are-associated-with-poor-sleep-quality-in-early-stroke-patients">Reduced serum vitamin D levels are associated with poor sleep quality in early stroke patients&lt;/h4>
+&lt;p>Front Nutr. 2022 Jul 22 &lt;a href="https://doi.org/10.3389/fnut.2022.937867">doi: 10.3389/fnut.2022.937867&lt;/a>&lt;/p>
+&lt;p>Guiqian Huang 1 , Jiahao Chen 1 , Luqian Zhan 1 , Jingfang Long 1 , Yisi Lin 1 , Beilei Zhu 1 , Jincai He 1&lt;/p></description></item><item><title>Stroke prevention and rehabilitation with vitamin D</title><link>//localhost:1313/posts/stroke-prevention-and-rehabilitation-with-vitamin-d.html</link><pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-prevention-and-rehabilitation-with-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-role-of-vitamin-d-in-stroke-prevention-and-the-effects-of-its-supplementation-for-post-stroke-rehabilitation-a-narrative-review">The Role of Vitamin D in Stroke Prevention and the Effects of Its Supplementation for Post-Stroke Rehabilitation: A Narrative Review&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#200k-iu-wait-4-weeks-then-50k-weekly-for-8-weeks-may-be-better-than-a-600k-injection">200K IU, wait 4 weeks, then 50K weekly for 8 weeks may be better than a 600K injection&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-role-of-vitamin-d-in-stroke-prevention-and-the-effects-of-its-supplementation-for-post-stroke-rehabilitation-a-narrative-review">The Role of Vitamin D in Stroke Prevention and the Effects of Its Supplementation for Post-Stroke Rehabilitation: A Narrative Review&lt;/h4>
+&lt;p>Nutrients . 2022 Jul 4;14(13):2761. &lt;a href="https://doi.org/10.3390/nu14132761.">doi: 10.3390/nu14132761.&lt;/a>&lt;/p>
+&lt;p>Klaudia Marek 1, Natalia Cichoń 2, Joanna Saluk-Bijak 3, Michał Bijak 2, Elżbieta Miller 1&lt;/p></description></item><item><title>Vitamin D also provides COVID Neuroprotection</title><link>//localhost:1313/posts/vitamin-d-also-provides-covid-neuroprotection.html</link><pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-also-provides-covid-neuroprotection.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-its-possible-relationship-to-neuroprotection-in-covid-19-evidence-in-the-literature">Vitamin D and its Possible Relationship to Neuroprotection in COVID-19: Evidence in the Literature&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chart-of-vitamin-d-metabolism-and-genes">Chart of Vitamin D metabolism and genes&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-and-its-possible-relationship-to-neuroprotection-in-covid-19-evidence-in-the-literature">Vitamin D and its Possible Relationship to Neuroprotection in COVID-19: Evidence in the Literature&lt;/h4>
+&lt;p>Current Topics in Medicinal Chemistry 2022 Apr 1 DOI: 10.2174/1568026622666220401140737&lt;/p>
+&lt;p>Saray Quintero-Fabián1’#, Cindy Bandala2,3’#, Luz Adriana Pichardo-Macías4, Itzel Jatziri Contreras- García5, Saúl Gómez-Manzo6, Beatriz Hernández-Ochoa7, José Arturo Martínez-Orozco8, Iván Ignacio- Mejía1,,l! and Noemí Cárdenas-Rodríguez9,í&lt;/p>
+&lt;p>1Laboratorio de Medicina Traslacional, Escuela Militar de Graduados de Sanidad, UDEFA, Mexico City, 11200, Mexico; 2Division de Neurociencias, Instituto Nacional de Rehabilitación, Secretaría de Salud, Mexico City, 14389, Mexico; 3Escuela Superior de Medicina, Instituto Politécnico Nacional, Mexico City, 11340, Mexico; 4Departamento de Fisiología, Instituto Politécnico Nacional, Escuela Nacional de Ciencias Biológicas, Mexico City, 07738, Mexi- co;5Laboratorio de Fisiología, Escuela Militar de Graduados de Sanidad, UDEFA, Mexico City, 11200, Mexico; 6Laboratorio de Bioquímica Genética, Instituto Nacional de Pediatría, Secretaría de Salud, Mexico City, 04530, Mexico; 7Laboratorio de Inmunoquímica, Hospital Infantil de México Federico Gómez, Secretaría de Salud, Mexico City, 06720, Mexico; 8Departmento de Infectología, Instituto Nacional de Enfermedades Respiratorias, Ismael Cosío Villegas, Secretaría de Salud, Mexico City, 14080, Mexico; 9Laboratorio de Neurociencias, Instituto Nacional de Pediatría, Secretaría de Salud, Mexico City, 04530, Mexico&lt;/p></description></item><item><title>COVID and CVD deadly pandemics share a risk factor: low vitamin D</title><link>//localhost:1313/posts/covid-and-cvd-deadly-pandemics-share-a-risk-factor-low-vitamin-d.html</link><pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/covid-and-cvd-deadly-pandemics-share-a-risk-factor-low-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-the-missing-nutrient-behind-the-two-deadly-pandemics-covid-19-and-cardiovascular-diseases">Vitamin D: The Missing Nutrient Behind the Two Deadly Pandemics, COVID-19 and Cardiovascular Diseases&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-the-missing-nutrient-behind-the-two-deadly-pandemics-covid-19-and-cardiovascular-diseases">Vitamin D: The Missing Nutrient Behind the Two Deadly Pandemics, COVID-19 and Cardiovascular Diseases&lt;/h4>
+&lt;p>Cureus 14(4): e24133. doi:10.7759/cureus.24133&lt;/p>
+&lt;p>Abhishek Singh, Anusha Chidharla, Kriti Agarwal, Priyanka Singh, Nidhi Jain, Gashaw Hassen, Salwa Abdelwahed, Renu Bhandari, Kajal Patel, Sachin Gupta, Thoyaja Koritala, Rizwan Rabbani&lt;/p>
+&lt;p>The coronavirus (COVID-19) pandemic is claiming millions of lives and creating an additional burden on health care, which is already affected by the rise of non-communicable diseases (NCDs). The scientific community, on the other side, is enormously engaged with studies to best identify the characteristics of the virus and minimize its effect while supporting the fight to contain NCDs, mainly cardiovascular diseases (CVDs), which are contributing hugely to the global death toll. Hence, the roles of vitamin D in COVID-19 immunity and cardiovascular health are gaining traction recently.&lt;/p></description></item><item><title>How Vitamin D can fight cerebrovascular diseases (stroke, TIA, aneurysm)</title><link>//localhost:1313/posts/how-vitamin-d-can-fight-cerebrovascular-diseases-stroke-tia-aneurysm.html</link><pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/how-vitamin-d-can-fight-cerebrovascular-diseases-stroke-tia-aneurysm.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-as-therapeutic-modulator-in-cerebrovascular-diseases-a-mechanistic-perspectives">Vitamin D as therapeutic modulator in cerebrovascular diseases: a mechanistic perspectives&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-as-therapeutic-modulator-in-cerebrovascular-diseases-a-mechanistic-perspectives">Vitamin D as therapeutic modulator in cerebrovascular diseases: a mechanistic perspectives&lt;/h4>
+&lt;p>Critical Reviews in Food Science and Nutrition, 14 Mar 2022,&lt;/p>
+&lt;p>&lt;a href="https://doi.org/10.1080/10408398.2022.2050349">https://doi.org/10.1080/10408398.2022.2050349&lt;/a> behind paywall&lt;/p>
+&lt;p>Vivek Rihal,Heena Khan,Amarjot Kaur &amp;amp;Thakur Gurjeet Singh&lt;/p>
+&lt;p>Vitamin D deficiency has been linked to several major chronic diseases, such as cardiovascular and neurodegenerative diseases, diabetes, and cancer, linked to oxidative stress, inflammation, and aging. Vitamin D deficiency appears to be particularly harmful to the cardiovascular system, as it can cause endothelial dysfunctioning and vascular abnormalities through the modulation of various downstream mechanisms. As a result, new research indicates that therapeutic approaches targeting vitamin D inadequacies or its significant downstream effects, such as impaired autophagy, abnormal pro-inflammatory and pro-oxidant reactions, may delay the onset and severity of major cerebrovascular disorders such as stroke and neurologic malformations. Vitamin D modulates the various molecular pathways, i.e., Nitric Oxide, PI3K-Akt Pathway, cAMP pathway, NF-kB Pathway, Sirtuin 1, Nrf2, FOXO, in cerebrovascular disorder. The current review shows evidence for vitamin D’s mitigating or slowing the progression of these cerebrovascular disorders, which are significant causes of disability and death worldwide.&lt;/p></description></item><item><title>Most COVID patients had sticky blood platelets (Omega-3 helps)</title><link>//localhost:1313/posts/most-covid-patients-had-sticky-blood-platelets-omega-3-helps.html</link><pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/most-covid-patients-had-sticky-blood-platelets-omega-3-helps.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#massive-image-based-single-cell-profiling-reveals-high-levels-of-circulating-platelet-aggregates-in-patients-with-covid-19">Massive image-based single-cell profiling reveals high levels of circulating platelet aggregates in patients with COVID-19&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#platelet-aggregates-a-marker-of-severe-covid-19-disease---oct-2020">Platelet aggregates, a marker of severe COVID-19 disease - Oct 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#omega-3-reduces-platelet-aggregation-many-studies">Omega-3 reduces Platelet aggregation (many studies)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="massive-image-based-single-cell-profiling-reveals-high-levels-of-circulating-platelet-aggregates-in-patients-with-covid-19">Massive image-based single-cell profiling reveals high levels of circulating platelet aggregates in patients with COVID-19&lt;/h4>
+&lt;p>Nature Communications volume 12, Article number: 7135 (2021)&lt;/p>
+&lt;p>Masako Nishikawa, Hiroshi Kanno, Yuqi Zhou, Ting-Hui Xiao, Takuma Suzuki, Yuma Ibayashi, Jeffrey Harmon, Shigekazu Takizawa, Kotaro Hiramatsu, Nao Nitta, Risako Kameyama, Walker Peterson, Jun Takiguchi, Mohammad Shifat-E-Rabbi, Yan Zhuang, Xuwang Yin, Abu Hasnat Mohammad Rubaiyat, Yunjie Deng, Hongqian Zhang, Shigeki Miyata, Gustavo K. Rohde, Wataru Iwasaki, Yutaka Yatomi &amp;amp; Keisuke Goda&lt;/p></description></item><item><title>Elderly vaccinated for COVID were 2X more likely to die of ischemic stroke (2930 vs 1180 deaths)</title><link>//localhost:1313/posts/elderly-vaccinated-for-covid-were-2x-more-likely-to-die-of-ischemic-stroke-2930-vs-1180-deaths.html</link><pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/elderly-vaccinated-for-covid-were-2x-more-likely-to-die-of-ischemic-stroke-2930-vs-1180-deaths.html</guid><description>&lt;h4 id="myocardial-infarction-stroke-and-pulmonary-embolism-after-bnt162b2-mrna-covid-19-vaccine-in-people-aged-75-years-or-older">Myocardial Infarction, Stroke, and Pulmonary Embolism After BNT162b2 mRNA COVID-19 Vaccine in People Aged 75 Years or Older&lt;/h4>
+&lt;p>JAMA Research Letter. doi:10.1001/jama.2021.21699&lt;/p>
+&lt;p>Marie Joelle Jabagi, PharmD, PhD1; Jérémie Botton, PharmD, PhD1; Marion Bertrand, MSc1; et alAlain Weill, MD1; Paddy Farrington, PhD2; Mahmoud Zureik, MD, PhD1; Rosemary Dray-Spira, MD, PhD1&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+#### April 2021 data seems to be statistically significant
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="350">
+&lt;hr>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/3900-deaths-within-2-weeks-of-2nd-vaccination-in-sweden">3,900 deaths within 2 weeks of 2nd vaccination in Sweden - Nov 18, 2021&lt;/a>&lt;/p></description></item><item><title>Post-stroke fatigue cut in half by Vitamin D (just 600 IU daily in 3 months)</title><link>//localhost:1313/posts/post-stroke-fatigue-cut-in-half-by-vitamin-d-just-600-iu-daily-in-3-months.html</link><pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/post-stroke-fatigue-cut-in-half-by-vitamin-d-just-600-iu-daily-in-3-months.html</guid><description>&lt;h4 id="effect-of-vitamin-d-supplementation-on-the-prognosis-of-post-stroke-fatigue-a-retrospective-cohort-study">Effect of Vitamin D Supplementation on the Prognosis of Post-stroke Fatigue: A Retrospective Cohort Study&lt;/h4>
+&lt;p>Front Neurol. 2021 Nov 5;12:690969. &lt;a href="https://doi.org/10.3389/fneur.2021.690969.">doi: 10.3389/fneur.2021.690969.&lt;/a>&lt;/p>
+&lt;p>Long Wang 1 2, Xue-Min Zhao 2, Fu-Yu Wang 3, Jun-Cang Wu 1, Yu Wang 4&lt;/p>
+&lt;p>&lt;strong>Fatigue Severity Scale&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>&lt;strong>Levels of Vitamin D&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>Objective: We aimed to evaluate the effect of vitamin D supplementation in post-stroke fatigue (PSF) patients with vitamin D deficiency on fatigue symptoms and outcomes. Methods: Patients with primary acute ischemic stroke (AIS) were recruited consecutively from July 2016 to June 2018. Post-stroke fatigue patients were screened out with the &lt;strong>Fatigue Severity Scale (FSS)&lt;/strong> questionnaire, serum concentrations of 25-hydroxyvitamin D &lt;span>[25-(OH)-D]&lt;/span> were assessed with enzyme-linked immunosorbent assay (ELISA), and neurological function was evaluated with FSS and modified Rankin Scale (mRS) scoring criteria. Post-stroke fatigue patients with vitamin D deficiency were divided into two groups: a study group in which patients received vitamin D supplementation (cholecalciferol, &lt;strong>600 IU/day&lt;/strong> ) along with usual care, and a control group in which patients received usual care alone. At the end of 1 and 3 months after treatment, all PSE patients accepted re-measurement of serum vitamin D and re-evaluation of fatigue and neurological function.&lt;/p></description></item><item><title>Post-stroke depression not reduced by 2,000 IU of vitamin D (not a surprise)</title><link>//localhost:1313/posts/post-stroke-depression-not-reduced-by-2000-iu-of-vitamin-d-not-a-surprise.html</link><pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/post-stroke-depression-not-reduced-by-2000-iu-of-vitamin-d-not-a-surprise.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-role-of-rehabilitation-and-vitamin-d-supplementation-on-motor-and-psychological-outcomes-in-poststroke-patients">The role of rehabilitation and vitamin D supplementation on motor and psychological outcomes in poststroke patients&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki">VitaminDWiki&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#probably-far-less-depression-if-had-started-with-a-loading-dose">Probably far less depression if had started with a loading dose&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#a-few-relevant-stroke-studies">A few relevant stroke studies&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-role-of-rehabilitation-and-vitamin-d-supplementation-on-motor-and-psychological-outcomes-in-poststroke-patients">The role of rehabilitation and vitamin D supplementation on motor and psychological outcomes in poststroke patients&lt;/h4>
+&lt;p>Medicine: November 12, 2021 - Volume 100 - Issue 45 - p e27747 &lt;a href="https://doi.org/10.1097/MD.0000000000027747">doi: 10.1097/MD.0000000000027747&lt;/a>&lt;/p>
+&lt;p>Torrisi, Michele Psy D; Bonanno, Lilla MSc, PhD∗; Formica, Caterina Psy D; Arcadi, Francesca Antonia MD; Cardile, Davide Psy D; Cimino, Vincenzo MD; Bramanti, Placido MD; Morini, Elisabetta MD&lt;/p></description></item><item><title>Stroke 22 percent more likely if low Vitamin D – meta-analysis</title><link>//localhost:1313/posts/stroke-22-percent-more-likely-if-low-vitamin-d-meta-analysis.html</link><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-22-percent-more-likely-if-low-vitamin-d-meta-analysis.html</guid><description/></item><item><title>Stroke patients getting weekly 50,000 IU Vitamin D did better – trial</title><link>//localhost:1313/posts/stroke-patients-getting-weekly-50000-iu-vitamin-d-did-better-trial.html</link><pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-patients-getting-weekly-50000-iu-vitamin-d-did-better-trial.html</guid><description/></item><item><title>1.3X higher risk of severe Cardiovascular and Cerebrovascular problems if low Vitamin D (50 million people)</title><link>//localhost:1313/posts/13x-higher-risk-of-severe-cardiovascular-and-cerebrovascular-problems-if-low-vit--million-people.html</link><pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/13x-higher-risk-of-severe-cardiovascular-and-cerebrovascular-problems-if-low-vit--million-people.html</guid><description>&lt;h4 id="prevalence-and-outcomes-associated-with-vitamin-d-deficiency-among-indexed-hospitalizations-with-cardiovascular-disease-and-cerebrovascular-disorder-a-nationwide-study">Prevalence and Outcomes Associated with Vitamin D Deficiency among Indexed Hospitalizations with Cardiovascular Disease and Cerebrovascular Disorder-A Nationwide Study&lt;/h4>
+&lt;p>Medicines (Basel). 2020 Nov 22;7(11):E72. &lt;a href="https://doi.org/10.3390/medicines7110072.">doi: 10.3390/medicines7110072.&lt;/a>&lt;/p>
+&lt;p>Urvish Patel 1, Salma Yousuf 1, Komal Lakhani 2, Payu Raval 3 4, Nirmaljot Kaur 5, Toochukwu Okafor 6, Chail Shah 7 8, Harmandeep Singh 5, Mehwish Martin 1, Chika Nwodika 9, Angelina Yogarajah 10, Jigisha Rakholiya 11, Maitree Patel 12, Raja Chandra Chakinala 13, Shamik Shah 14&lt;/p></description></item><item><title>Vitamin D deficiency associated with increased risk of many health problems in 58,000,000 Americans</title><link>//localhost:1313/posts/vitamin-d-deficiency-associated-with-increased-risk-of-many-health-problems-in-58000000-americans.html</link><pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-deficiency-associated-with-increased-risk-of-many-health-problems-in-58000000-americans.html</guid><description>&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>It is fine do regression analysis on independant variables, but not on dependant variables as this study did&lt;/p>
+&lt;p>Most of the results of this study, following regression analysis dealth with variables having strong associations to Vitamin D&lt;/p>
+&lt;p>    e.g. smoking, hypertension, race, diabetes, obesity, kidney failure, age, dark skin, etc&lt;/p>
+&lt;p>Only the portions of the study in the PDF dealing with no regressed data are shown on this page&lt;/p>
+&lt;p>The study does not appear to define Vitamin D deficiency&lt;/p></description></item><item><title>Inhaling Vitamin D nanoemulsion through nose gets lots more to the brain (mice)</title><link>//localhost:1313/posts/inhaling-vitamin-d-nanoemulsion-through-nose-gets-lots-more-to-the-brain-mice.html</link><pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/inhaling-vitamin-d-nanoemulsion-through-nose-gets-lots-more-to-the-brain-mice.html</guid><description>&lt;h4 id="enhancement-in-brain-uptake-of-vitamin-d3-nanoemulsion-for-treatment-of-cerebral-ischemia-formulation-gamma-scintigraphy-and-efficacy-study-in-transient-middle-cerebral-artery-occlusion-rat-models">Enhancement in brain uptake of Vitamin D3 nanoemulsion for treatment of cerebral ischemia: Formulation, Gamma scintigraphy and efficacy study in transient middle cerebral artery occlusion rat models&lt;/h4>
+&lt;p>Journal of Microencapsulation &lt;a href="https://doi.org/10.1080/02652048.2020.1801870">https://doi.org/10.1080/02652048.2020.1801870&lt;/a>&lt;/p>
+&lt;p>Mukesh Kumar,Dhruv Kumar Nishad,Anoop kumar,Aseem Bhatnagar,Ritu Karwasra,Kushagra Khanna, show all&lt;/p>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">The study used radioactive Vitamin D&lt;/span>&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>&lt;a href="//localhost:1313/posts/mucosal-membranes-mouth-lungs-nose-intestines-etc-can-activate-vitamin-d">Mucosal membranes (mouth, lungs, nose, intestines, etc) can activate Vitamin D – July 2020&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Increased Vitamin D to the brain might help prevent/treat:&lt;/p></description></item><item><title>UVB phototherapy (which increases Vitamin D and VDR) decreased risk of many heart and stroke problems</title><link>//localhost:1313/posts/uvb-phototherapy-which-increases-vitamin-d-and-vdr-decreased-risk-of-many-heart-and-stroke-problems.html</link><pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/uvb-phototherapy-which-increases-vitamin-d-and-vdr-decreased-risk-of-many-heart-and-stroke-problems.html</guid><description/></item><item><title>Resveratrol fights Parkinson, Alzheimers, Diabetes, Cardiovascular, ALS, Stroke, etc.</title><link>//localhost:1313/posts/resveratrol-fights-parkinson-alzheimers-diabetes-cardiovascular-als-stroke-etc.html</link><pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/resveratrol-fights-parkinson-alzheimers-diabetes-cardiovascular-als-stroke-etc.html</guid><description/></item><item><title>Stroke rehabilitation (and prevention) requires Vitamin D actually getting to cells</title><link>//localhost:1313/posts/stroke-rehabilitation-and-prevention-requires-vitamin-d-actually-getting-to-cells.html</link><pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-rehabilitation-and-prevention-requires-vitamin-d-actually-getting-to-cells.html</guid><description>&lt;h4 id="vitamin-d-and-rehabilitation-after-stroke-status-of-art">Vitamin D and Rehabilitation after Stroke: Status of Art&lt;/h4>
+&lt;p>Appl. Sci. 2020, 10(6), 1973; &lt;a href="https://doi.org/10.3390/app10061973">https://doi.org/10.3390/app10061973&lt;/a>&lt;/p>
+&lt;p>by Mariacristina Siotto,Massimo Santoro *OrcID andIrene Aprile&lt;/p>
+&lt;p>IRCCS, Fondazione Don Carlo Gnocchi, 20121 Milan, Italy&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d">Stroke outcome at 3 months was 3X worse if bad stroke and low vitamin D – Jan 2020&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/stroke-risks-increased-if-low-vitamin-d-death-36-x-recurrence-55-x-meta-analysis">Stroke risks increased if low Vitamin D: Death 3.6 X, recurrence 5.5 X – Meta-analysis Nov 2019&lt;/a>&lt;/p></description></item><item><title>Stroke outcome at 3 months was 3X worse if bad stroke and low vitamin D</title><link>//localhost:1313/posts/stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d.html</link><pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d.html</guid><description>&lt;h4 id="impact-of-25-hydroxyvitamin-d-on-the-prognosis-of-acute-ischemic-stroke-machine-learning-approach">Impact of 25-Hydroxyvitamin D on the Prognosis of Acute Ischemic Stroke: Machine Learning Approach.&lt;/h4>
+&lt;p>Front Neurol. 2020 Jan 31;11:37. &lt;a href="https://doi.org/10.3389/fneur.2020.00037.">doi: 10.3389/fneur.2020.00037.&lt;/a> eCollection 2020.&lt;/p>
+&lt;p>Kim C1,2, Lee SH1, Lim JS3, Kim Y4, Jang MU5, Oh MS3, Jung S6, Lee JH4, Yu KH3, Lee BC3.&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>Machine learning was used to find the most relevant variable - NIHSS (initial indication of stroke severity)&lt;br>
+NIHSS = (National Institute of Health Stroke Scale&lt;br>
+Best model adjustment found by Machine Learning was NIHSS * (1+ Vitamin D)&lt;br>
+&lt;span style="color:#F00;">Plain English – If you have a &amp;ldquo;bad&amp;rdquo; stroke you especially need to add Vitamin D&lt;/span>&lt;br>
+ &lt;br>
+Note by founder of VitaminDWiki&lt;br>
+This could have been found 30 years ago by Machine Learning.&lt;br>
+I had proposed giving a talk at the Vitamin D Workshop in 2019 on what modern ML can do&lt;br>
+    but it was rejected&lt;/strong>&lt;/p></description></item><item><title>Stroke not prevented by just 2,000 IU of vitamin D plus 840 mg Omega-3 (VITAL)</title><link>//localhost:1313/posts/stroke-not-prevented-by-just-2000-iu-of-vitamin-d-plus-840-mg-omega-3-vital.html</link><pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-not-prevented-by-just-2000-iu-of-vitamin-d-plus-840-mg-omega-3-vital.html</guid><description>&lt;ul>
+&lt;li>&lt;a href="//localhost:1313/posts/autoimmune-risk-decreased-30-percent-by-small-amount-of-vitamin-d-and-or-omega-3-vital">Autoimmune risk decreased 30 percent by small amount of vitamin D and or Omega-3 – ViTAL Nov 7 2021&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>Introduction: Low serum 25-hydroxyvitamin D (25(OH)D) and low marine omega-3 fatty acid (n-3) intake are associated with increased stroke risk in observational studies. Among stroke patients, low serum 25(OH)D at admission predicts poor outcomes and animal studies suggest that higher n-3 intake may diminish brain damage in ischemic stroke. However, few studies have examined effects of vitamin D or n-3 supplements on stroke outcomes.&lt;/p></description></item><item><title>Poor Ischemic stroke outcome (END) 2.6 X worse if low vitamin D</title><link>//localhost:1313/posts/poor-ischemic-stroke-outcome-end-26-x-worse-if-low-vitamin-d.html</link><pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/poor-ischemic-stroke-outcome-end-26-x-worse-if-low-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#decreasing-serum-25-hydroxyvitamin-d-levels-and-risk-of-early-neurological-deterioration-in-patients-with-ischemic-stroke">Decreasing serum 25-hydroxyvitamin D levels and risk of early neurological deterioration in patients with ischemic stroke.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="decreasing-serum-25-hydroxyvitamin-d-levels-and-risk-of-early-neurological-deterioration-in-patients-with-ischemic-stroke">Decreasing serum 25-hydroxyvitamin D levels and risk of early neurological deterioration in patients with ischemic stroke.&lt;/h4>
+&lt;p>Brain Behav. 2019 Mar;9(3):e01227. &lt;a href="https://doi.org/10.1002/brb3.1227">doi: 10.1002/brb3.1227&lt;/a>&lt;/p>
+&lt;p>Hu W1, Liu D2, Li Q3, Wang L1, Tang Q1, Wang G1.&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>BACKGROUND AND AIMS:&lt;/p>
+&lt;p>Vitamin D deficiency has been linked to a higher risk of ischemic stroke. We therefore explored the relationship between serum 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> levels and early neurological deterioration (END) after acute ischemic stroke in a hospital-based prospective study.&lt;/p></description></item><item><title>Stroke risks increased if low Vitamin D: Death 3.6 X, recurrence 5.5 X – Meta-analysis</title><link>//localhost:1313/posts/stroke-risks-increased-if-low-vitamin-d-death-36-x-recurrence-55-x-meta-analysis.html</link><pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-risks-increased-if-low-vitamin-d-death-36-x-recurrence-55-x-meta-analysis.html</guid><description/></item><item><title>Blood clotting (Thrombosis) is associated with low Vitamin D (yet again)</title><link>//localhost:1313/posts/blood-clotting-thrombosis-is-associated-with-low-vitamin-d-yet-again.html</link><pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/blood-clotting-thrombosis-is-associated-with-low-vitamin-d-yet-again.html</guid><description>&lt;p>From the web:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&amp;ldquo;A thrombotic stroke occurs when a blood clot (thrombus) forms in one of the arteries that supply blood to your brain. A clot may be caused by fatty deposits (plaque) that build up in arteries and cause reduced blood flow (atherosclerosis) or other artery conditions.&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&amp;ldquo;&lt;a href="https://www.texasheart.org/heart-health/heart-information-center/topics/types-of-strokes/">There are 2 kinds of ischemic stroke: thrombotic stroke (the most common type) and embolic stroke&lt;/a>&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#emerging-role-of-vitamin-d-and-its-associated-molecules-in-pathways-related-to-pathogenesis-of-thrombosis--oct-2019">Emerging Role of Vitamin D and its Associated Molecules in Pathways Related to Pathogenesis of Thrombosis – Oct 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#a-few-references-from-2019-study">A few references from 2019 study&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#reduced-clotting-after-300000-iu-vitamin-d-loading-dose---oct-2019">Reduced clotting after 300,000 IU Vitamin D loading dose - Oct 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#deep-vein-thrombosis-during-stroke-rehab-was-47-x-more-likely-if-low-vitamin-d--july-2018">Deep Vein Thrombosis during stroke rehab was 4.7 X more likely if low vitamin D – July 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#low-vitamin-d-is-associated-with-thrombosis-in-systemic-lupus-erythematosus---2018">Low vitamin d is associated with thrombosis in systemic lupus erythematosus - 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-relationship-between-vitamin-d-status-and-idiopathic-lower-extremity-deep-vein-thrombosis---june-2014">The relationship between vitamin D status and idiopathic lower-extremity deep vein thrombosis - June 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#thrombosis-leads-to-stroke-worse-with-low-vitamin-d--nov-2013">Thrombosis (leads to stroke) worse with low vitamin D – Nov 2013&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="emerging-role-of-vitamin-d-and-its-associated-molecules-in-pathways-related-to-pathogenesis-of-thrombosis--oct-2019">Emerging Role of Vitamin D and its Associated Molecules in Pathways Related to Pathogenesis of Thrombosis – Oct 2019&lt;/h4>
+&lt;p>by Syed Mohammad, Aastha Mishra and Mohammad Zahid Ashraf *&lt;/p></description></item><item><title>Stroke incidence not associated with low Vitamin D (but stroke outcome is)</title><link>//localhost:1313/posts/stroke-incidence-not-associated-with-low-vitamin-d-but-stroke-outcome-is.html</link><pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-incidence-not-associated-with-low-vitamin-d-but-stroke-outcome-is.html</guid><description>&lt;h4 id="vitamin-d-status-and-risk-of-stroke--the-rotterdam-study">Vitamin D Status and Risk of Stroke -The Rotterdam Study&lt;/h4>
+&lt;p>Stroke. 2019;50:2293–2298, &lt;a href="https://doi.org/10.1161/STROKEAHA.119.025449">https://doi.org/10.1161/STROKEAHA.119.025449&lt;/a>&lt;/p>
+&lt;p>Brian P. Berghout , Lana Fani , Alis Heshmatollah , Peter J. Koudstaal , M. Arfan Ikram , M. Carola Zillikens , M. Kamran Ikram&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d">Stroke outcome at 3 months was 3X worse if bad stroke and low vitamin D – Jan 2020&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d">Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vitamin D – May 2019&lt;/a>&lt;/p></description></item><item><title>Stroke patients need more than 2,000 IU of vitamin D (found this time in Japan) – RCT</title><link>//localhost:1313/posts/stroke-patients-need-more-than-2000-iu-of-vitamin-d-found-this-time-in-japan-rct.html</link><pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-patients-need-more-than-2000-iu-of-vitamin-d-found-this-time-in-japan-rct.html</guid><description/></item><item><title>Increased health problems in blacks is similar to that of low vitamin D whites (John Singleton Stroke)</title><link>//localhost:1313/posts/increased-health-problems-in-blacks-is-similar-to-that-of-low-vitamin-d-whites-john-singleton-stroke.html</link><pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/increased-health-problems-in-blacks-is-similar-to-that-of-low-vitamin-d-whites-john-singleton-stroke.html</guid><description>&lt;h4 id="race-matters-to-the-health-of-african-american-menhttpsblogsscientificamericancomvoicesrace-matters-to-the-health-of-african-american-men-scientific-american-june-2019">&lt;a href="https://blogs.scientificamerican.com/voices/race-matters-to-the-health-of-african-american-men/">Race Matters to the Health of African American Men&lt;/a> Scientific American June 2019&lt;/h4>
+&lt;p>&lt;strong>The recent, premature death of director John Singleton is a tragic case in point&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="200">
+&lt;p>by &lt;span>[Janice_Phillips@rush.edu]&lt;/span>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="200">
+&lt;ul>
+&lt;li>
+&lt;p>Singleton died at age 51 after having a stroke on April 29&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&amp;ldquo;&amp;hellip;African Americans, who have the highest prevalence of hypertension in the world.&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&amp;ldquo;In general, black men have the lowest life expectancy, living 7.1 years less than other ethnic groups&amp;rdquo;&lt;/p></description></item><item><title>Strokes result in many years of disability (Vitamin D can help) GBD</title><link>//localhost:1313/posts/strokes-result-in-many-years-of-disability-vitamin-d-can-help-gbd.html</link><pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/strokes-result-in-many-years-of-disability-vitamin-d-can-help-gbd.html</guid><description/></item><item><title>Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vitamin D</title><link>//localhost:1313/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d.html</link><pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#severity-of-vitamin-d-deficiency-predicts-mortality-in-ischemic-stroke-patients">Severity of Vitamin D Deficiency Predicts Mortality in Ischemic Stroke Patients&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="severity-of-vitamin-d-deficiency-predicts-mortality-in-ischemic-stroke-patients">Severity of Vitamin D Deficiency Predicts Mortality in Ischemic Stroke Patients&lt;/h4>
+&lt;p>Disease Markers, Volume 2019, 10 pages, &lt;a href="https://doi.org/10.1155/2019/3652894">https://doi.org/10.1155/2019/3652894&lt;/a>&lt;/p>
+&lt;p>Jarosław Wajda,1 Maciej Świat,2,3 Aleksander J. Owczarek,4 Aniceta Brzozowska,5 Magdalena Olszanecka-Glinianowicz,5 and Jerzy Chudek6,7&lt;/p>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="300">
+&lt;p>Background. Vitamin D (VD) deficiency is considered an independent risk factor for death due to cardiovascular events including ischemic stroke (IS). We assessed the hypothesis that decreased levels of 25-hydroxyvitamin D (25-OH-D) are associated with increased risk of mortality in patients with IS.&lt;/p></description></item><item><title>Half the number of bleeding strokes if have lots of vitamin D (male rats)</title><link>//localhost:1313/posts/half-the-number-of-bleeding-strokes-if-have-lots-of-vitamin-d-male-rats.html</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/half-the-number-of-bleeding-strokes-if-have-lots-of-vitamin-d-male-rats.html</guid><description>&lt;h4 id="roles-of-vitamin-d-deficiency-in-the-development-of-intracranial-aneurysm-rupture">Roles of Vitamin D Deficiency in the Development of Intracranial Aneurysm Rupture&lt;/h4>
+&lt;p>INTERNATIONAL STROKE CONFERENCE 2019 POSTER ABSTRACTS&lt;/p>
+&lt;p>SESSION TITLE: ANEURYSM POSTERS &lt;a href="https://doi.org/10.1161/str.50.suppl_1.WP118Stroke">https://doi.org/10.1161/str.50.suppl_1.WP118Stroke&lt;/a>. 2019;50:AWP118&lt;/p>
+&lt;p>Tetsuro Kimura , Daisuke Kudo , Takeshi Miyamoto , Hiroki Sato , Taichi Ikedo , Michael Lawton , Tomoki Hashimoto&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Most of the Vitamin D stueids are not for Hemorrhagic Stroke&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/large-vessel-ischemic-stroke-13-x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Large vessel Ischemic Stroke 13 X more likely if low vitamin D – Nov 2017">Large vessel Ischemic Stroke 13 X more likely if low vitamin D – Nov 2017&lt;/a>&lt;/p></description></item><item><title>Stroke recovery was aided by vitamin D and Progesterone (in rats)</title><link>//localhost:1313/posts/stroke-recovery-was-aided-by-vitamin-d-and-progesterone-in-rats.html</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-recovery-was-aided-by-vitamin-d-and-progesterone-in-rats.html</guid><description>&lt;h4 id="stroke-outcomes-in-vitamin-d-deficient-conditions-modulatory-role-of-progesterone-and-vitamin-d">Stroke Outcomes in Vitamin D-Deficient Conditions: Modulatory Role of Progesterone and Vitamin D&lt;/h4>
+&lt;p>INTERNATIONAL STROKE CONFERENCE 2019 POSTER ABSTRACTS&lt;/p>
+&lt;p>SESSION TITLE: ACUTE ENDOVASCULAR TREATMENT POSTERS I Abstract WP8:&lt;/p>
+&lt;p>&lt;a href="https://doi.org/10.1161/str.50.suppl_1.WP8Stroke">https://doi.org/10.1161/str.50.suppl_1.WP8Stroke&lt;/a>. 2019;50:AWP8&lt;/p>
+&lt;p>Seema Yousuf , Fahim Atif , Claudia Espinosa Garcia , Donald Stein&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/traumatic-brain-injury-treated-by-vitamin-d-progesterone-omega-3-and-glutamine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Traumatic brain injury treated by Vitamin D Progesterone Omega-3 and glutamine – May 2013">Traumatic brain injury treated by Vitamin D Progesterone Omega-3 and glutamine – May 2013&lt;/a>&lt;/p></description></item><item><title>More Cognitive Impairment after some types of stroke if low vitamin D - many studies</title><link>//localhost:1313/posts/more-cognitive-impairment-after-some-types-of-stroke-if-low-vitamin-d-many-studies.html</link><pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/more-cognitive-impairment-after-some-types-of-stroke-if-low-vitamin-d-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#5x-increased-risk-of-poor-cognition-after-minor-stroke-if-low-vitamin-d---aug-2023">5X increased risk of poor cognition after minor stroke if low vitamin D - Aug 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#association-between-vitamin-d-status-and-cognitive-impairment-in-acute-ischemic-stroke-patients-a-prospective-cohort-study---2018">Association between vitamin D status and cognitive impairment in acute ischemic stroke patients: a prospective cohort study - 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-in-vitamindwiki">See also in VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="5x-increased-risk-of-poor-cognition-after-minor-stroke-if-low-vitamin-d---aug-2023">5X increased risk of poor cognition after minor stroke if low vitamin D - Aug 2023&lt;/h4>
+&lt;p>&lt;strong>Lower 25-hydroxyvitamin D is associated with severer white matter hyperintensity and cognitive function in patients with non-disabling ischemic cerebrovascular events&lt;/strong>&lt;/p></description></item><item><title>Poor blood-brain barrier following stroke if low vitamin D (in rats) – RCT</title><link>//localhost:1313/posts/poor-blood-brain-barrier-following-stroke-if-low-vitamin-d-in-rats-rct.html</link><pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/poor-blood-brain-barrier-following-stroke-if-low-vitamin-d-in-rats-rct.html</guid><description>&lt;h4 id="vitamin-d-deficiency-increases-blood-brain-barrier-dysfunction-after-ischemic-stroke-in-male-rats">Vitamin D deficiency increases blood-brain barrier dysfunction after ischemic stroke in male rats&lt;/h4>
+&lt;p>Experimental Neurology, Vol 312, Feb 2019, pg 63-71, &lt;a href="https://doi.org/10.1016/j.expneurol.2018.11.005">https://doi.org/10.1016/j.expneurol.2018.11.005&lt;/a>&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Having no Vitamin D in chow ==&amp;gt; 1/4 the vitamin D level in blood&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/stroke-or-coronary-heart-disease-deaths-30-percent-less-likely-if-had-taken-more-0-patient-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stroke or coronary heart disease deaths 30% less likely if had taken more than 440 IU of vitamin D (900,000 patient years) – Jan 2018">Stroke or coronary heart disease deaths 30% less likely if had taken more than 440 IU of vitamin D (900,000 patient years) – Jan 2018&lt;/a>&lt;/p></description></item><item><title>Depression is associated with stroke if low vitamin D or winter</title><link>//localhost:1313/posts/depression-is-associated-with-stroke-if-low-vitamin-d-or-winter.html</link><pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/depression-is-associated-with-stroke-if-low-vitamin-d-or-winter.html</guid><description/></item><item><title>Depression following a stroke is 2.7 X more likely if low vitamin D</title><link>//localhost:1313/posts/depression-following-a-stroke-is-27-x-more-likely-if-low-vitamin-d.html</link><pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/depression-following-a-stroke-is-27-x-more-likely-if-low-vitamin-d.html</guid><description/></item><item><title>Resveratrol improves health (Vitamin D receptor, etc.)</title><link>//localhost:1313/posts/resveratrol-improves-health-vitamin-d-receptor-etc.html</link><pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/resveratrol-improves-health-vitamin-d-receptor-etc.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#influence-of-resveratrol-on-the-immune-response-nothing-about-vitamin-d--april-2019">Influence of Resveratrol on the Immune Response (Nothing about Vitamin D)- April 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#multiplicity-of-effects-and-health-benefits-of-resveratrol--april-2015">Multiplicity of effects and health benefits of resveratrol – April 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pubmed">PubMed&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#web">Web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#found-my-fitness--dr-patrick-on-reseveratrol">Found My Fitness ( Dr. Patrick) on Reseveratrol&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#resveratrol-rewriting-the-science-oct-2018-by-bill-sardi">RESVERATROL: REWRITING THE SCIENCE, Oct, 2018: by Bill Sardi&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chart-of-resveratrol-benefits---natural-biology">Chart of Resveratrol benefits - Natural Biology&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#resveratrol-being-a-phytoestrogen-decreased-breast-cancer-survival-by-19---nov-2019">Resveratrol, being a phytoestrogen, DECREASED Breast Cancer survival by 19% - Nov 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#resveratrol-oral-and-topical-forms-that-are-more-bio-available">Resveratrol oral and topical forms that are more bio-available&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#asked-chatgpt-what-are-the-downsides-to-taking-resveratrol---dec-2023">Asked ChatGPT: What are the downsides to taking Resveratrol - Dec 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#turmeric-is-as-effective-as-14-drugs-turmeric-also-increases-vdr-activation---march-2021">Turmeric is as Effective as 14 Drugs (Turmeric also increases VDR activation) - March 2021&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="influence-of-resveratrol-on-the-immune-response-nothing-about-vitamin-d--april-2019">Influence of Resveratrol on the Immune Response (Nothing about Vitamin D)- April 2019&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item></channel></rss>

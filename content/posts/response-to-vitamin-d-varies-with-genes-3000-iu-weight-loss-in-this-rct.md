@@ -3,7 +3,8 @@ title: "Response to Vitamin D varies with genes (3,000 IU, weight loss in this R
 slug: "response-to-vitamin-d-varies-with-genes-3000-iu-weight-loss-in-this-rct"
 aliases:
   - "/Response+to+Vitamin+D+varies+with+genes+3000+IU+weight+loss+in+this+RCT+–+March+2022"
-  - "/tiki-index.php?page_id=13422"
+  - "/13422"
+tiki_page_id: 13422
 date: 2022-03-22
 categories:
   - "Obesity"

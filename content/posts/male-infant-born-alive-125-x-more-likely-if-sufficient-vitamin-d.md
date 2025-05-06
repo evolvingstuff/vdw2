@@ -3,7 +3,8 @@ title: "Male infant born alive 1.25 X more likely if sufficient Vitamin D"
 slug: "male-infant-born-alive-125-x-more-likely-if-sufficient-vitamin-d"
 aliases:
   - "/Male+infant+born+alive+125+X+more+likely+if+sufficient+Vitamin+D+-+Oct+2019"
-  - "/tiki-index.php?page_id=11330"
+  - "/11330"
+tiki_page_id: 11330
 date: 2019-11-09
 categories:
   - "Pregnancy"

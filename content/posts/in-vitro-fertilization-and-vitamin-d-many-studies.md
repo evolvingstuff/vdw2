@@ -3,7 +3,8 @@ title: "In vitro fertilization and Vitamin D – many studies"
 slug: "in-vitro-fertilization-and-vitamin-d-many-studies"
 aliases:
   - "/In+vitro+fertilization+and+Vitamin+D+–+many+studies"
-  - "/tiki-index.php?page_id=15224"
+  - "/15224"
+tiki_page_id: 15224
 date: 2024-04-19
 categories:
   - "Fertility and sperm"

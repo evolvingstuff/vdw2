@@ -3,7 +3,8 @@ title: "Ultra-low UV LED added to office desk lamp would add 7 ng to winter Vita
 slug: "ultra-low-uv-led-added-to-office-desk-lamp-would-add-7-ng-to-winter-vitamin-d-levels-rct"
 aliases:
   - "/Ultra-low+UV+LED+added+to+office+desk+lamp+would+add+7+ng+to+winter+Vitamin+D+levels+–+RCT+Oct+2022"
-  - "/tiki-index.php?page_id=13979"
+  - "/13979"
+tiki_page_id: 13979
 date: 2022-10-04
 categories:
   - "UV and Vitamin D"

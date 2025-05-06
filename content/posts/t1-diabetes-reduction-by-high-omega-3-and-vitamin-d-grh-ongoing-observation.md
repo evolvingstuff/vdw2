@@ -3,7 +3,8 @@ title: "T1 Diabetes reduction by high Omega-3 and Vitamin D – GRH ongoing obse
 slug: "t1-diabetes-reduction-by-high-omega-3-and-vitamin-d-grh-ongoing-observation"
 aliases:
   - "/T1+Diabetes+reduction+by+high+Omega-3+and+Vitamin+D+–+GRH+ongoing+observation"
-  - "/tiki-index.php?page_id=11147"
+  - "/11147"
+tiki_page_id: 11147
 date: 2019-09-12
 categories:
   - "Diabetes"

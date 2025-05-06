@@ -3,7 +3,8 @@ title: "Vitamin K2-7 helps bone, blood vessels, cancer, diabetes, etc."
 slug: "vitamin-k2-7-helps-bone-blood-vessels-cancer-diabetes-etc"
 aliases:
   - "/Vitamin+K2-7+helps+bone+blood+vessels+cancer+diabetes+etc+–+June+2022"
-  - "/tiki-index.php?page_id=13727"
+  - "/13727"
+tiki_page_id: 13727
 date: 2022-07-01
 categories:
   - "Bone - Health"

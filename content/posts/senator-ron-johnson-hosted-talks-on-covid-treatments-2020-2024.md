@@ -3,7 +3,8 @@ title: "Senator Ron Johnson hosted talks on COVID treatments - 2020 - 2024"
 slug: "senator-ron-johnson-hosted-talks-on-covid-treatments-2020-2024"
 aliases:
   - "/Senator+Ron+Johnson+hosted+talks+on+COVID+treatments+-+2020+-+2024"
-  - "/tiki-index.php?page_id=15090"
+  - "/15090"
+tiki_page_id: 15090
 date: 2024-02-29
 categories:
   - "Virus"

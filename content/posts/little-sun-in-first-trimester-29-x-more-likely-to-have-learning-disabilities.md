@@ -3,7 +3,8 @@ title: "Little sun in first trimester, 2.9 X more likely to have learning disabi
 slug: "little-sun-in-first-trimester-29-x-more-likely-to-have-learning-disabilities"
 aliases:
   - "/Little+sun+in+first+trimester+29+X+more+likely+to+have+learning+disabilities+–+June+2019"
-  - "/tiki-index.php?page_id=10932"
+  - "/10932"
+tiki_page_id: 10932
 date: 2019-06-29
 categories:
   - "Noontime sun and D"

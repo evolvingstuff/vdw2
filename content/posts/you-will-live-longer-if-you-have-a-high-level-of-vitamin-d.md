@@ -3,7 +3,8 @@ title: "You will live longer if you have a high level of vitamin D"
 slug: "you-will-live-longer-if-you-have-a-high-level-of-vitamin-d"
 aliases:
   - "/You+will+live+longer+if+you+have+a+high+level+of+vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10593"
+  - "/10593"
+tiki_page_id: 10593
 date: 2019-03-21
 categories:
   - "Mortality and D"

@@ -3,7 +3,8 @@ title: "Race changes the risk of various health problems, but many questions rem
 slug: "race-changes-the-risk-of-various-health-problems-but-many-questions-remain"
 aliases:
   - "/Race+changes+the+risk+of+various+health+problems+but+many+questions+remain+–+Sept+2018"
-  - "/tiki-index.php?page_id=10031"
+  - "/10031"
+tiki_page_id: 10031
 date: 2018-09-12
 categories:
   - "Skin - Dark"

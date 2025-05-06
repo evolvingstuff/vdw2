@@ -3,7 +3,8 @@ title: "Traumatic Brain Injury treated by Vitamin D - many studies"
 slug: "traumatic-brain-injury-treated-by-vitamin-d-many-studies"
 aliases:
   - "/Traumatic+Brain+Injury+treated+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=13791"
+  - "/13791"
+tiki_page_id: 13791
 date: 2022-07-25
 categories:
   - "Trauma and surgery"

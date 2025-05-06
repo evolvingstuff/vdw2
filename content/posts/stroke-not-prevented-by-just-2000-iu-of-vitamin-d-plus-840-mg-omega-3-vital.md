@@ -3,7 +3,8 @@ title: "Stroke not prevented by just 2,000 IU of vitamin D plus 840 mg Omega-3 (
 slug: "stroke-not-prevented-by-just-2000-iu-of-vitamin-d-plus-840-mg-omega-3-vital"
 aliases:
   - "/Stroke+not+prevented+by+just+2000+IU+of+vitamin+D+plus+840+mg+Omega-3+VITAL+–+Feb+2020"
-  - "/tiki-index.php?page_id=11630"
+  - "/11630"
+tiki_page_id: 11630
 date: 2020-02-16
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Hip surgery with multiple doses of 50,000 IU of vitamin D weekly both be
 slug: "hip-surgery-with-multiple-doses-of-50000-iu-of-vitamin-d-weekly-both-before-and-after-rct-2023"
 aliases:
   - "/Hip+surgery+with+multiple+doses+of+50000+IU+of+vitamin+D+weekly+both+before+and+after+–+RCT+2023"
-  - "/tiki-index.php?page_id=11564"
+  - "/11564"
+tiki_page_id: 11564
 date: 2020-01-16
 categories:
   - "Trauma and surgery"

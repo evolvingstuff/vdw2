@@ -3,7 +3,8 @@ title: "COVID-19 Infographic"
 slug: "covid-19-infographic"
 aliases:
   - "/COVID-19+Infographic+-+March+24+2020"
-  - "/tiki-index.php?page_id=11721"
+  - "/11721"
+tiki_page_id: 11721
 date: 2020-04-08
 categories:
   - "Virus"

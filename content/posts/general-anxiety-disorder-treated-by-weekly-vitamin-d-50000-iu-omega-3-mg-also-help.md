@@ -3,7 +3,8 @@ title: "General Anxiety Disorder treated by weekly Vitamin D (50,000 IU -Omega-3
 slug: "general-anxiety-disorder-treated-by-weekly-vitamin-d-50000-iu-omega-3-mg-also-help"
 aliases:
   - "/General+Anxiety+Disorder+treated+by+weekly+Vitamin+D+50000+IU+-Omega-3+Mg+also+help+–+Sept+2019"
-  - "/tiki-index.php?page_id=11115"
+  - "/11115"
+tiki_page_id: 11115
 date: 2019-09-02
 categories:
   - "Depression"

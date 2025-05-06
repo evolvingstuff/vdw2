@@ -3,7 +3,8 @@ title: "Some Religious dietary practices may result in low iron, B12, vitamin D,
 slug: "some-religious-dietary-practices-may-result-in-low-iron-b12-vitamin-d-zinc-etc"
 aliases:
   - "/Some+Religious+dietary+practices+may+result+in+low+iron+B12+vitamin+D+Zinc+etc"
-  - "/tiki-index.php?page_id=12099"
+  - "/12099"
+tiki_page_id: 12099
 date: 2020-11-29
 categories:
   - "Deficiency of Vitamin D"

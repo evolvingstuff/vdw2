@@ -3,7 +3,8 @@ title: "Long-haul, VAERS, Ivermectin, vaccines, etc. Drs. Seheult, Patrick: Vide
 slug: "long-haul-vaers-ivermectin-vaccines-etc-drs-seheult-patrick-video-with-table-of-contents"
 aliases:
   - "/Long-haul+VAERS+Ivermectin+vaccines+etc+Drs+Seheult+Patrick+Video+with+table+of+contents+-+Sept+17+2021"
-  - "/tiki-index.php?page_id=12907"
+  - "/12907"
+tiki_page_id: 12907
 date: 2021-09-20
 categories:
   - "Books, videos on Vitamin D"

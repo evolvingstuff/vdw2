@@ -3,7 +3,8 @@ title: "My balance significantly improved at age 73 (perhaps Vitamin D, B12, or 
 slug: "my-balance-significantly-improved-at-age-73-perhaps-vitamin-d-b12-or-omega-3"
 aliases:
   - "/My+balance+significantly+improved+at+age+73+perhaps+Vitamin+D+B12+or+Omega-3+–+Jan+2020"
-  - "/tiki-index.php?page_id=11584"
+  - "/11584"
+tiki_page_id: 11584
 date: 2020-01-23
 categories:
   - "Seniors"

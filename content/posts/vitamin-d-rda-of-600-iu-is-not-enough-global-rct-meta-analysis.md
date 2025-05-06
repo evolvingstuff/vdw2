@@ -3,7 +3,8 @@ title: "Vitamin D RDA of 600 IU is not enough - global RCT meta-analysis"
 slug: "vitamin-d-rda-of-600-iu-is-not-enough-global-rct-meta-analysis"
 aliases:
   - "/Vitamin+D+RDA+of+600+IU+is+not+enough+-+global+RCT+meta-analysis+March+2019"
-  - "/tiki-index.php?page_id=10575"
+  - "/10575"
+tiki_page_id: 10575
 date: 2019-03-16
 categories:
   - "How, when to take Vit. D"

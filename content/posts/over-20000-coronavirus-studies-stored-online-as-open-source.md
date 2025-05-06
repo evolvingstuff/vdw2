@@ -3,7 +3,8 @@ title: "Over 20,000 Coronavirus studies stored online as open source"
 slug: "over-20000-coronavirus-studies-stored-online-as-open-source"
 aliases:
   - "/Over+20000+Coronavirus+studies+stored+online+as+open+source"
-  - "/tiki-index.php?page_id=11687"
+  - "/11687"
+tiki_page_id: 11687
 date: 2020-03-18
 categories:
   - "Virus"

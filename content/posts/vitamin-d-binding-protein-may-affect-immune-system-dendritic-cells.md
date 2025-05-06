@@ -3,7 +3,8 @@ title: "Vitamin D Binding Protein may affect immune system dendritic cells"
 slug: "vitamin-d-binding-protein-may-affect-immune-system-dendritic-cells"
 aliases:
   - "/Vitamin+D+Binding+Protein+may+affect+immune+system+dendritic+cells+–+March+2022"
-  - "/tiki-index.php?page_id=13392"
+  - "/13392"
+tiki_page_id: 13392
 date: 2022-03-13
 categories:
   - "Immunity"

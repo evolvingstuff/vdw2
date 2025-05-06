@@ -3,7 +3,8 @@ title: "Personalized Vitamin D treatment of Multiple Sclerosis - Michael Cawley"
 slug: "personalized-vitamin-d-treatment-of-multiple-sclerosis-michael-cawley"
 aliases:
   - "/Personalized+Vitamin+D+treatment+of+Multiple+Sclerosis+-+Michael+Cawley"
-  - "/tiki-index.php?page_id=10628"
+  - "/10628"
+tiki_page_id: 10628
 date: 2019-03-28
 categories:
   - "Multiple Sclerosis"

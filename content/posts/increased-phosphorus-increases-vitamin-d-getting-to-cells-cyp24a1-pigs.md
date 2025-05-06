@@ -3,7 +3,8 @@ title: "Increased Phosphorus increases Vitamin D getting to cells (CYP24A1, pigs
 slug: "increased-phosphorus-increases-vitamin-d-getting-to-cells-cyp24a1-pigs"
 aliases:
   - "/Increased+Phosphorus+increases+Vitamin+D+getting+to+cells+CYP24A1+pigs+-+Aug+2022"
-  - "/tiki-index.php?page_id=13862"
+  - "/13862"
+tiki_page_id: 13862
 date: 2022-08-25
 categories:
   - "Diabetes"

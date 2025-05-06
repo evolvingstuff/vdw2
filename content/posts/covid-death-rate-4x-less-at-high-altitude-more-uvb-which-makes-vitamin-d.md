@@ -3,7 +3,8 @@ title: "COVID death rate 4X less at high altitude (more UVB which makes Vitamin 
 slug: "covid-death-rate-4x-less-at-high-altitude-more-uvb-which-makes-vitamin-d"
 aliases:
   - "/COVID+death+rate+4X+less+at+high+altitude+more+UVB+which+makes+Vitamin+D+-+Oct+2023"
-  - "/tiki-index.php?page_id=14764"
+  - "/14764"
+tiki_page_id: 14764
 date: 2023-10-19
 categories:
   - "Virus"

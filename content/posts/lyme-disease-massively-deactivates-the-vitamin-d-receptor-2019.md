@@ -3,7 +3,8 @@ title: "Lyme disease massively deactivates the Vitamin D Receptor - 2019"
 slug: "lyme-disease-massively-deactivates-the-vitamin-d-receptor-2019"
 aliases:
   - "/Lyme+disease+massively+deactivates+the+Vitamin+D+Receptor+-+2019"
-  - "/tiki-index.php?page_id=10842"
+  - "/10842"
+tiki_page_id: 10842
 date: 2019-06-07
 categories:
   - "Vitamin D Receptor"

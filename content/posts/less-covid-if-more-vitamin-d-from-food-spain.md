@@ -3,7 +3,8 @@ title: "Less COVID if more vitamin D from food (Spain)"
 slug: "less-covid-if-more-vitamin-d-from-food-spain"
 aliases:
   - "/Less+COVID+if+more+vitamin+D+from+food+Spain+–+May+2022"
-  - "/tiki-index.php?page_id=13603"
+  - "/13603"
+tiki_page_id: 13603
 date: 2022-05-27
 categories:
   - "Virus"

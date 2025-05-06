@@ -3,7 +3,8 @@ title: "Vitamin D dosing - weekly may be better than daily – video"
 slug: "vitamin-d-dosing-weekly-may-be-better-than-daily-video"
 aliases:
   - "/Vitamin+D+dosing+-+weekly+may+be+better+than+daily+–+video+Aug+2018"
-  - "/tiki-index.php?page_id=9994"
+  - "/9994"
+tiki_page_id: 9994
 date: 2018-09-01
 categories:
   - "Books, videos on Vitamin D"

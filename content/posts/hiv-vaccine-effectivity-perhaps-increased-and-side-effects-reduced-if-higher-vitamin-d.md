@@ -3,7 +3,8 @@ title: "HIV vaccine effectivity perhaps increased and side effects reduced if hi
 slug: "hiv-vaccine-effectivity-perhaps-increased-and-side-effects-reduced-if-higher-vitamin-d"
 aliases:
   - "/HIV+vaccine+effectivity+perhaps+increased+and+side+effects+reduced+if+higher+Vitamin+D+-+Dec+2021"
-  - "/tiki-index.php?page_id=13187"
+  - "/13187"
+tiki_page_id: 13187
 date: 2021-12-14
 categories:
   - "HIV"

@@ -3,7 +3,8 @@ title: "Number of people with long COVID could be vastly underestimated"
 slug: "number-of-people-with-long-covid-could-be-vastly-underestimated"
 aliases:
   - "/Number+of+people+with+long+COVID+could+be+vastly+underestimated+-+Aug+2023"
-  - "/tiki-index.php?page_id=14654"
+  - "/14654"
+tiki_page_id: 14654
 date: 2023-09-01
 categories:
   - "Virus"

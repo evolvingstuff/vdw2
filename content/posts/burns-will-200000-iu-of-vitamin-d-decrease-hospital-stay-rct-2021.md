@@ -3,7 +3,8 @@ title: "Burns - will 200,000 IU of vitamin D decrease hospital stay - RCT 2021"
 slug: "burns-will-200000-iu-of-vitamin-d-decrease-hospital-stay-rct-2021"
 aliases:
   - "/Burns+-+will+200000+IU+of+vitamin+D+decrease+hospital+stay+-+RCT+2021"
-  - "/tiki-index.php?page_id=10595"
+  - "/10595"
+tiki_page_id: 10595
 date: 2019-03-21
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Infertile women had less Vitamin D (Baghdad in this case)"
 slug: "infertile-women-had-less-vitamin-d-baghdad-in-this-case"
 aliases:
   - "/Infertile+women+had+less+Vitamin+D+Baghdad+in+this+case+–+June+2023"
-  - "/tiki-index.php?page_id=14495"
+  - "/14495"
+tiki_page_id: 14495
 date: 2023-06-24
 categories:
   - "Fertility and sperm"

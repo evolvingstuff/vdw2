@@ -3,7 +3,8 @@ title: "COVID and Magnesium - hypothesis, clinical trials, Long-Haul"
 slug: "covid-and-magnesium-hypothesis-clinical-trials-long-haul"
 aliases:
   - "/COVID+and+Magnesium+-+hypothesis+clinical+trials+Long-Haul+-+Oct+2021"
-  - "/tiki-index.php?page_id=13656"
+  - "/13656"
+tiki_page_id: 13656
 date: 2022-06-09
 categories:
   - "Vitamin D and Magnesium"

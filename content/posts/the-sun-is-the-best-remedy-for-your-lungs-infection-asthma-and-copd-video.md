@@ -3,7 +3,8 @@ title: "The Sun is the best remedy for Your Lungs (Infection, Asthma and COPD) -
 slug: "the-sun-is-the-best-remedy-for-your-lungs-infection-asthma-and-copd-video"
 aliases:
   - "/The+Sun+is+the+best+remedy+for+Your+Lungs+Infection+Asthma+and+COPD+-+video+June+2022"
-  - "/tiki-index.php?page_id=13714"
+  - "/13714"
+tiki_page_id: 13714
 date: 2022-06-26
 categories:
   - "Breathing"

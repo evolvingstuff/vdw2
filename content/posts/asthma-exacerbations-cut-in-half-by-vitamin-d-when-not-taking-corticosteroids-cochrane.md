@@ -3,7 +3,8 @@ title: "Asthma exacerbations cut in half by Vitamin D when not taking corticoste
 slug: "asthma-exacerbations-cut-in-half-by-vitamin-d-when-not-taking-corticosteroids-cochrane"
 aliases:
   - "/Asthma+exacerbations+cut+in+half+by+Vitamin+D+when+not+taking+corticosteroids+-+Cochrane+–+Feb+2023"
-  - "/tiki-index.php?page_id=14246"
+  - "/14246"
+tiki_page_id: 14246
 date: 2023-02-06
 ---
 

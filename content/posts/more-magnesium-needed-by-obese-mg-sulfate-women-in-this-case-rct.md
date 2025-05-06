@@ -3,7 +3,8 @@ title: "More Magnesium needed by obese (Mg Sulfate, women in this case) – RCT"
 slug: "more-magnesium-needed-by-obese-mg-sulfate-women-in-this-case-rct"
 aliases:
   - "/More+Magnesium+needed+by+obese+Mg+Sulfate+women+in+this+case+–+RCT+Dec+2021"
-  - "/tiki-index.php?page_id=12368"
+  - "/12368"
+tiki_page_id: 12368
 date: 2021-03-02
 categories:
   - "Obesity"

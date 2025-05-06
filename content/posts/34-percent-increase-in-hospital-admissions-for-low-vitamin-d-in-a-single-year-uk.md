@@ -3,7 +3,8 @@ title: "34 percent increase in hospital admissions for low vitamin D in a single
 slug: "34-percent-increase-in-hospital-admissions-for-low-vitamin-d-in-a-single-year-uk"
 aliases:
   - "/34+percent+increase+in+hospital+admissions+for+low+vitamin+D+in+a+single+year+UK+–+Feb+2019"
-  - "/tiki-index.php?page_id=10525"
+  - "/10525"
+tiki_page_id: 10525
 date: 2019-02-25
 categories:
   - "Vitamin D in Europe"

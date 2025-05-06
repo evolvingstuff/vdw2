@@ -3,7 +3,8 @@ title: "Microbiomes of both gut and airway are affected by Vitamin D and Vitamin
 slug: "microbiomes-of-both-gut-and-airway-are-affected-by-vitamin-d-and-vitamin-d-receptor"
 aliases:
   - "/Microbiomes+of+both+gut+and+airway+are+affected+by+Vitamin+D+and+Vitamin+D+Receptor+–+Nov+2018"
-  - "/tiki-index.php?page_id=11357"
+  - "/11357"
+tiki_page_id: 11357
 date: 2019-11-16
 categories:
   - "Breathing"

@@ -3,7 +3,8 @@ title: "Long-Haul COVID is somewhat less of a problem if vaccinated"
 slug: "long-haul-covid-is-somewhat-less-of-a-problem-if-vaccinated"
 aliases:
   - "/Long-Haul+COVID+is+somewhat+less+of+a+problem+if+vaccinated+–+Nov+2021"
-  - "/tiki-index.php?page_id=13107"
+  - "/13107"
+tiki_page_id: 13107
 date: 2021-11-23
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Chronic Hypoparathyroidism typically uses daily Calcium, alternate day i
 slug: "chronic-hypoparathyroidism-typically-uses-daily-calcium-alternate-day-is-7x-better"
 aliases:
   - "/Chronic+Hypoparathyroidism+typically+uses+daily+Calcium+alternate+day+is+7X+better+–+Jan+2019"
-  - "/tiki-index.php?page_id=11528"
+  - "/11528"
+tiki_page_id: 11528
 date: 2020-01-05
 categories:
   - "Vitamin D and Calcium"

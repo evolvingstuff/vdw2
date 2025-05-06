@@ -3,7 +3,8 @@ title: "High fluoride in water: 5X more likely to be Vitamin D deficient"
 slug: "high-fluoride-in-water-5x-more-likely-to-be-vitamin-d-deficient"
 aliases:
   - "/High+fluoride+in+water+5X+more+likely+to+be+Vitamin+D+deficient+–+Jan+2023"
-  - "/tiki-index.php?page_id=14234"
+  - "/14234"
+tiki_page_id: 14234
 date: 2023-01-27
 categories:
   - "Diabetes"

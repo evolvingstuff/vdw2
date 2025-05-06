@@ -3,7 +3,8 @@ title: "Teens more obese if lower Vitamin D as infant (1.3 more BMI points per 1
 slug: "teens-more-obese-if-lower-vitamin-d-as-infant-13-more-bmi-points-per-10-ng"
 aliases:
   - "/Teens+more+obese+if+lower+Vitamin+D+as+infant+13+more+BMI+points+per+10+ng+–+Oct+2020"
-  - "/tiki-index.php?page_id=11995"
+  - "/11995"
+tiki_page_id: 11995
 date: 2020-10-07
 categories:
   - "Obesity"

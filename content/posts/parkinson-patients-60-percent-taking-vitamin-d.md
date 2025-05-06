@@ -3,7 +3,8 @@ title: "Parkinson patients: 60 % taking Vitamin D"
 slug: "parkinson-patients-60-percent-taking-vitamin-d"
 aliases:
   - "/Parkinson+patients+60+taking+Vitamin+D+–+Dec+2019"
-  - "/tiki-index.php?page_id=11423"
+  - "/11423"
+tiki_page_id: 11423
 date: 2019-12-05
 categories:
   - "Parkinson"

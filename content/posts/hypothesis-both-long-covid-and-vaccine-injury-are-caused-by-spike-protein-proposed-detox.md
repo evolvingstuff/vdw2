@@ -3,7 +3,8 @@ title: "Hypothesis: Both Long COVID and Vaccine Injury are caused by Spike Prote
 slug: "hypothesis-both-long-covid-and-vaccine-injury-are-caused-by-spike-protein-proposed-detox"
 aliases:
   - "/Hypothesis+Both+Long+COVID+and+Vaccine+Injury+are+caused+by+Spike+Protein+proposed+detox+–+Nov+2023"
-  - "/tiki-index.php?page_id=14838"
+  - "/14838"
+tiki_page_id: 14838
 date: 2023-11-24
 categories:
   - "Virus"

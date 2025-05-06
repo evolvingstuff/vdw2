@@ -3,7 +3,8 @@ title: "Seniors inability to hear conversations 1.5 more-likely if low vitamin D
 slug: "seniors-inability-to-hear-conversations-15-more-likely-if-low-vitamin-d"
 aliases:
   - "/Seniors+inability+to+hear+conversations+15+more-likely+if+low+vitamin+D+–+May+2022"
-  - "/tiki-index.php?page_id=13655"
+  - "/13655"
+tiki_page_id: 13655
 date: 2022-06-09
 categories:
   - "Seniors"

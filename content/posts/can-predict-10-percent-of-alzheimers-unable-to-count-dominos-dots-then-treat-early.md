@@ -3,7 +3,8 @@ title: "Can predict 10% of Alzheimer’s – unable to count dominos dots (then 
 slug: "can-predict-10-percent-of-alzheimers-unable-to-count-dominos-dots-then-treat-early"
 aliases:
   - "/Can+predict+10+of+Alzheimers+–+unable+to+count+dominos+dots+then+treat+early+–+Jan+2024"
-  - "/tiki-index.php?page_id=14993"
+  - "/14993"
+tiki_page_id: 14993
 date: 2024-01-23
 categories:
   - "Cognitive"

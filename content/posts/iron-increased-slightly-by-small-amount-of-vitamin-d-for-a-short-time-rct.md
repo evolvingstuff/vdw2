@@ -3,7 +3,8 @@ title: "Iron increased slightly by small amount of Vitamin D for a short time â€
 slug: "iron-increased-slightly-by-small-amount-of-vitamin-d-for-a-short-time-rct"
 aliases:
   - "/Iron+increased+slightly+by+small+amount+of+Vitamin+D+for+a+short+time+â€“+RCT+Feb+2019"
-  - "/tiki-index.php?page_id=10540"
+  - "/10540"
+tiki_page_id: 10540
 date: 2019-03-02
 categories:
   - "Women"

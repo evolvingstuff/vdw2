@@ -3,7 +3,8 @@ title: "Vitamin D loading dose of 30,000 IU twice a week is safe and effective â
 slug: "vitamin-d-loading-dose-of-30000-iu-twice-a-week-is-safe-and-effective-rct"
 aliases:
   - "/Vitamin+D+loading+dose+of+30000+IU+twice+a+week+is+safe+and+effective+â€“+RCT+July+2023"
-  - "/tiki-index.php?page_id=14907"
+  - "/14907"
+tiki_page_id: 14907
 date: 2023-12-22
 categories:
   - "Loading dose for Vitamin D"

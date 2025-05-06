@@ -3,7 +3,8 @@ title: "Autoimmune diseases caused in first day after COVID Vaccination"
 slug: "autoimmune-diseases-caused-in-first-day-after-covid-vaccination"
 aliases:
   - "/Autoimmune+diseases+caused+in+first+day+after+COVID+Vaccination+-+Oct+2023"
-  - "/tiki-index.php?page_id=14759"
+  - "/14759"
+tiki_page_id: 14759
 date: 2023-10-17
 categories:
   - "Multiple Sclerosis"

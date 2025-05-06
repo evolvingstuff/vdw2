@@ -3,7 +3,8 @@ title: "The pharmaceutical industry and govts. made COVID worse in at least 13 w
 slug: "the-pharmaceutical-industry-and-govts-made-covid-worse-in-at-least-13-ways"
 aliases:
   - "/The+pharmaceutical+industry+and+govts+made+COVID+worse+in+at+least+13+ways+–+Oct+2022"
-  - "/tiki-index.php?page_id=14109"
+  - "/14109"
+tiki_page_id: 14109
 date: 2022-11-25
 categories:
   - "Virus"

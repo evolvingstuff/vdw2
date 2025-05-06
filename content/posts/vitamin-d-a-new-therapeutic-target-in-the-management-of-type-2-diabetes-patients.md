@@ -3,7 +3,8 @@ title: "Vitamin D-A New Therapeutic Target in the Management of Type 2 Diabetes 
 slug: "vitamin-d-a-new-therapeutic-target-in-the-management-of-type-2-diabetes-patients"
 aliases:
   - "/Vitamin+D-A+New+Therapeutic+Target+in+the+Management+of+Type+2+Diabetes+Patients+–+Feb+2024"
-  - "/tiki-index.php?page_id=15205"
+  - "/15205"
+tiki_page_id: 15205
 date: 2024-04-10
 categories:
   - "Diabetes"

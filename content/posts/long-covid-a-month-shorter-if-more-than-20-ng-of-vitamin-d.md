@@ -3,7 +3,8 @@ title: "Long-COVID a month shorter if more than 20 ng of Vitamin D"
 slug: "long-covid-a-month-shorter-if-more-than-20-ng-of-vitamin-d"
 aliases:
   - "/Long-COVID+a+month+shorter+if+more+than+20+ng+of+Vitamin+D+-+Jan+2024"
-  - "/tiki-index.php?page_id=14975"
+  - "/14975"
+tiki_page_id: 14975
 date: 2024-01-16
 categories:
   - "Virus"

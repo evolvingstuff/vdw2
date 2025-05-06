@@ -3,7 +3,8 @@ title: "Phytochemicals (Quercetin, Resveratrol, Tumeric, etc.) plus Vitamin D"
 slug: "phytochemicals-quercetin-resveratrol-tumeric-etc-plus-vitamin-d"
 aliases:
   - "/Phytochemicals+Quercetin+Resveratrol+Tumeric+etc+plus+Vitamin+D+–+July+2023"
-  - "/tiki-index.php?page_id=14606"
+  - "/14606"
+tiki_page_id: 14606
 date: 2023-08-13
 categories:
   - "Vitamin D Receptor"

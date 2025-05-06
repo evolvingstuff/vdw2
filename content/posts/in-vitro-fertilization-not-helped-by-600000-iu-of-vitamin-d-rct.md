@@ -3,7 +3,8 @@ title: "In vitro fertilization NOT helped by 600,000 IU of vitamin D – RCT"
 slug: "in-vitro-fertilization-not-helped-by-600000-iu-of-vitamin-d-rct"
 aliases:
   - "/In+vitro+fertilization+NOT+helped+by+600000+IU+of+vitamin+D+–+RCT+Sept+2021"
-  - "/tiki-index.php?page_id=13298"
+  - "/13298"
+tiki_page_id: 13298
 date: 2022-01-30
 categories:
   - "Fertility and sperm"

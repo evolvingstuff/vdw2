@@ -3,7 +3,8 @@ title: "US Law Forbids the Medicinal Use of Natural Substances"
 slug: "us-law-forbids-the-medicinal-use-of-natural-substances"
 aliases:
   - "/US+Law+Forbids+the+Medicinal+Use+of+Natural+Substances+–+Sept+2019"
-  - "/tiki-index.php?page_id=11121"
+  - "/11121"
+tiki_page_id: 11121
 date: 2019-09-03
 ---
 

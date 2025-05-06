@@ -3,7 +3,8 @@ title: "Obese are 50% more likely to develop or have severe MS (Vitamin D not me
 slug: "obese-are-50-percent-more-likely-to-develop-or-have-severe-ms-vitamin-d-not-mentioned"
 aliases:
   - "/Obese+are+50+more+likely+to+develop+or+have+severe+MS+Vitamin+D+not+mentioned+-+Oct+2023"
-  - "/tiki-index.php?page_id=14749"
+  - "/14749"
+tiki_page_id: 14749
 date: 2023-10-14
 categories:
   - "Multiple Sclerosis"

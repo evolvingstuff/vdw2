@@ -3,7 +3,8 @@ title: "High-dose vitamin D forum – for Multiple Sclerosis and many other dise
 slug: "high-dose-vitamin-d-forum-for-multiple-sclerosis-and-many-other-diseases"
 aliases:
   - "/High-dose+vitamin+D+forum+–+for+Multiple+Sclerosis+and+many+other+diseases+–+Jan+2019"
-  - "/tiki-index.php?page_id=10372"
+  - "/10372"
+tiki_page_id: 10372
 date: 2019-01-04
 categories:
   - "Multiple Sclerosis"

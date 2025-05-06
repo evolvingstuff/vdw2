@@ -3,7 +3,8 @@ title: "UV provides the best explanation of COVID-19 variation in Italy (74 pcnt
 slug: "uv-provides-the-best-explanation-of-covid-19-variation-in-italy-74-pcnt"
 aliases:
   - "/UV+provides+the+best+explanation+of+COVID-19+variation+in+Italy+74+pcnt+–+Nov+2020"
-  - "/tiki-index.php?page_id=12123"
+  - "/12123"
+tiki_page_id: 12123
 date: 2020-12-05
 categories:
   - "UV and Vitamin D"

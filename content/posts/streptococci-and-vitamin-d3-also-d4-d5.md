@@ -3,7 +3,8 @@ title: "Streptococci and Vitamin D3 (also D4, D5)"
 slug: "streptococci-and-vitamin-d3-also-d4-d5"
 aliases:
   - "/Streptococci+and+Vitamin+D3+also+D4+D5+-+Sept+2020"
-  - "/tiki-index.php?page_id=12097"
+  - "/12097"
+tiki_page_id: 12097
 date: 2020-11-29
 categories:
   - "Immunity"

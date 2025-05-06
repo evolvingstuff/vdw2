@@ -3,7 +3,8 @@ title: "Cystic Fibrosis vitamin D recommendations are not enough"
 slug: "cystic-fibrosis-vitamin-d-recommendations-are-not-enough"
 aliases:
   - "/Cystic+Fibrosis+vitamin+D+recommendations+are+not+enough+-+Dec+2021"
-  - "/tiki-index.php?page_id=13160"
+  - "/13160"
+tiki_page_id: 13160
 date: 2021-12-09
 categories:
   - "Cystic Fibrosis"

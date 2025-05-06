@@ -3,7 +3,8 @@ title: "Obese asthmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT
 slug: "obese-asthmatic-children-vitamin-d-50000-iu-then-8000-iu-daily-rct"
 aliases:
   - "/Obese+asthmatic+children+Vitamin+D+-+50000+IU+then+8000+IU+daily+-+RCT+Jan+2024"
-  - "/tiki-index.php?page_id=14999"
+  - "/14999"
+tiki_page_id: 14999
 date: 2024-01-24
 categories:
   - "Breathing"

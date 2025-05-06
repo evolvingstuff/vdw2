@@ -3,7 +3,8 @@ title: "3.3 X more likely to die if infected with SARS-Cov-2 plus a second patho
 slug: "33-x-more-likely-to-die-if-infected-with-sars-cov-2-plus-a-second-pathogen-meta-analysis"
 aliases:
   - "/33+X+more+likely+to+die+if+infected+with+SARS-Cov-2+plus+a+second+pathogen+–+meta-analysis+May+2021"
-  - "/tiki-index.php?page_id=13092"
+  - "/13092"
+tiki_page_id: 13092
 date: 2021-11-17
 categories:
   - "Virus"

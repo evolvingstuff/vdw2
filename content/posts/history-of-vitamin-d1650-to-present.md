@@ -3,7 +3,8 @@ title: "History of Vitamin D:1650 to present"
 slug: "history-of-vitamin-d1650-to-present"
 aliases:
   - "/History+of+Vitamin+D1650+to+present+-+March+2022"
-  - "/tiki-index.php?page_id=13371"
+  - "/13371"
+tiki_page_id: 13371
 date: 2022-03-04
 categories:
   - "Z"

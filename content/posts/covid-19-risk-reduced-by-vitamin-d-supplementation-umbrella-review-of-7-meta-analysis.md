@@ -3,7 +3,8 @@ title: "COVID-19 risk reduced by vitamin D supplementation – umbrella review o
 slug: "covid-19-risk-reduced-by-vitamin-d-supplementation-umbrella-review-of-7-meta-analysis"
 aliases:
   - "/COVID-19+risk+reduced+by+vitamin+D+supplementation+–+umbrella+review+of+7+meta-analysis+–+Oct+2021"
-  - "/tiki-index.php?page_id=13054"
+  - "/13054"
+tiki_page_id: 13054
 date: 2021-11-06
 categories:
   - "Meta-analysis of Vitamin D"

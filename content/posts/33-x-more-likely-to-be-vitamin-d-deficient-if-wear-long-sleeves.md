@@ -3,7 +3,8 @@ title: "3.3 X more likely to be Vitamin D deficient if wear long-sleeves"
 slug: "33-x-more-likely-to-be-vitamin-d-deficient-if-wear-long-sleeves"
 aliases:
   - "/33+X+more+likely+to+be+Vitamin+D+deficient+if+wear+long-sleeves+–+Oct+2022"
-  - "/tiki-index.php?page_id=13990"
+  - "/13990"
+tiki_page_id: 13990
 date: 2022-10-07
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "100,000 IU Vitamin D weekly for 4 weeks is safe and effective for childr
 slug: "100000-iu-vitamin-d-weekly-for-4-weeks-is-safe-and-effective-for-children"
 aliases:
   - "/100000+IU+Vitamin+D+weekly+for+4+weeks+is+safe+and+effective+for+children+–+May+2019"
-  - "/tiki-index.php?page_id=10871"
+  - "/10871"
+tiki_page_id: 10871
 date: 2019-06-14
 categories:
   - "Loading dose for Vitamin D"

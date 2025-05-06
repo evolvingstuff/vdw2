@@ -3,7 +3,8 @@ title: "Weight loss and Vitamin D - many studies"
 slug: "weight-loss-and-vitamin-d-many-studies"
 aliases:
   - "/Weight+loss+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14620"
+  - "/14620"
+tiki_page_id: 14620
 date: 2023-08-20
 categories:
   - "Obesity"

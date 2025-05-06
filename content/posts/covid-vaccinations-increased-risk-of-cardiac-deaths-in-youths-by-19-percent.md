@@ -3,7 +3,8 @@ title: "COVID Vaccinations increased risk of cardiac deaths in youths by 19%"
 slug: "covid-vaccinations-increased-risk-of-cardiac-deaths-in-youths-by-19-percent"
 aliases:
   - "/COVID+Vaccinations+increased+risk+of+cardiac+deaths+in+youths+by+19+-+Aug+2023"
-  - "/tiki-index.php?page_id=14597"
+  - "/14597"
+tiki_page_id: 14597
 date: 2023-08-09
 categories:
   - "Cardiovascular"

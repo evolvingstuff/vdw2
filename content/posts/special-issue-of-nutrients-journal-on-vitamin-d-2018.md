@@ -3,7 +3,8 @@ title: "Special Issue of Nutrients Journal on Vitamin D - 2018"
 slug: "special-issue-of-nutrients-journal-on-vitamin-d-2018"
 aliases:
   - "/Special+Issue+of+Nutrients+Journal+on+Vitamin+D+-+2018"
-  - "/tiki-index.php?page_id=10214"
+  - "/10214"
+tiki_page_id: 10214
 date: 2018-11-20
 ---
 

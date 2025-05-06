@@ -3,7 +3,8 @@ title: "Hard bones, soft arteries, rather than vice versa (Vitamin D and Vitamin
 slug: "hard-bones-soft-arteries-rather-than-vice-versa-vitamin-d-and-vitamin-k"
 aliases:
   - "/Hard+bones+soft+arteries+rather+than+vice+versa+Vitamin+D+and+Vitamin+K+–+March+2016"
-  - "/tiki-index.php?page_id=10694"
+  - "/10694"
+tiki_page_id: 10694
 date: 2019-04-26
 categories:
   - "Bone - Health"

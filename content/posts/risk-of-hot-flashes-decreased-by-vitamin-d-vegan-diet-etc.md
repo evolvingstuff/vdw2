@@ -3,7 +3,8 @@ title: "Risk of hot flashes decreased by vitamin D, vegan diet, etc."
 slug: "risk-of-hot-flashes-decreased-by-vitamin-d-vegan-diet-etc"
 aliases:
   - "/Risk+of+hot+flashes+decreased+by+vitamin+D+vegan+diet+etc"
-  - "/tiki-index.php?page_id=11841"
+  - "/11841"
+tiki_page_id: 11841
 date: 2020-07-14
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Nutrional supplements to prevent COVID - Orthomolecular"
 slug: "nutrional-supplements-to-prevent-covid-orthomolecular"
 aliases:
   - "/Nutrional+supplements+to+prevent+COVID+-+Orthomolecular+Nov+2022"
-  - "/tiki-index.php?page_id=14088"
+  - "/14088"
+tiki_page_id: 14088
 date: 2022-11-15
 categories:
   - "Virus"

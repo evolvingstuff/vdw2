@@ -3,7 +3,8 @@ title: "You are probably unaware that health needs a Ca-Mg ratio of 2"
 slug: "you-are-probably-unaware-that-health-needs-a-ca-mg-ratio-of-2"
 aliases:
   - "/You+are+probably+unaware+that+health+needs+a+Ca-Mg+ratio+of+2+–+Sept+2022"
-  - "/tiki-index.php?page_id=13939"
+  - "/13939"
+tiki_page_id: 13939
 date: 2022-09-26
 categories:
   - "Vitamin D and Calcium"

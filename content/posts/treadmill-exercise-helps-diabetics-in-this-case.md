@@ -3,7 +3,8 @@ title: "Treadmill exercise helps (Diabetics in this case)"
 slug: "treadmill-exercise-helps-diabetics-in-this-case"
 aliases:
   - "/Treadmill+exercise+helps+Diabetics+in+this+case+-+Jan+2022"
-  - "/tiki-index.php?page_id=13301"
+  - "/13301"
+tiki_page_id: 13301
 date: 2022-01-30
 categories:
   - "Diabetes"

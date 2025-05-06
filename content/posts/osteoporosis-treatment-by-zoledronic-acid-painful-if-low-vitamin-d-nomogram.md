@@ -3,7 +3,8 @@ title: "Osteoporosis treatment by zoledronic acid painful if low vitamin D (nomo
 slug: "osteoporosis-treatment-by-zoledronic-acid-painful-if-low-vitamin-d-nomogram"
 aliases:
   - "/Osteoporosis+treatment+by+zoledronic+acid+painful+if+low+vitamin+D+nomogram+–+Oct+2023"
-  - "/tiki-index.php?page_id=14789"
+  - "/14789"
+tiki_page_id: 14789
 date: 2023-10-28
 categories:
   - "Osteoporosis"

@@ -3,7 +3,8 @@ title: "Vitamin D: Viral infections, Infectious diseases, EBV and MS, Virus and 
 slug: "vitamin-d-viral-infections-infectious-diseases-ebv-and-ms-virus-and-cancers-grant"
 aliases:
   - "/Vitamin+D+Viral+infections+Infectious+diseases+EBV+and+MS+Virus+and+Cancers+–+Grant+March+2024"
-  - "/tiki-index.php?page_id=15098"
+  - "/15098"
+tiki_page_id: 15098
 date: 2024-03-03
 categories:
   - "Autoimmune"

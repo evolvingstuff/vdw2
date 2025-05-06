@@ -3,7 +3,8 @@ title: "FDA allows 2 specific Vitamin D and 2 Omega-3 health claims - 2019"
 slug: "fda-allows-2-specific-vitamin-d-and-2-omega-3-health-claims-2019"
 aliases:
   - "/FDA+allows+2+specific+Vitamin+D+and+2+Omega-3+health+claims+-+2019"
-  - "/tiki-index.php?page_id=10953"
+  - "/10953"
+tiki_page_id: 10953
 date: 2019-07-03
 categories:
   - "Vitamin D and Omega-3"

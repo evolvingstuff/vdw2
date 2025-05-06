@@ -3,7 +3,8 @@ title: "Cluster Headaches treated by high-dose Vitamin D, etc. (interview and tr
 slug: "cluster-headaches-treated-by-high-dose-vitamin-d-etc-interview-and-transcript"
 aliases:
   - "/Cluster+Headaches+treated+by+high-dose+Vitamin+D+etc+interview+and+transcript+-+Feb+2022"
-  - "/tiki-index.php?page_id=13348"
+  - "/13348"
+tiki_page_id: 13348
 date: 2022-02-22
 categories:
   - "Vitamin D and Magnesium"

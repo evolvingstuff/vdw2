@@ -3,7 +3,8 @@ title: "Strategy to increase health of many people"
 slug: "strategy-to-increase-health-of-many-people"
 aliases:
   - "/Strategy+to+increase+health+of+many+people"
-  - "/tiki-index.php?page_id=10000"
+  - "/10000"
+tiki_page_id: 10000
 date: 2018-09-03
 categories:
   - "Admin Only"

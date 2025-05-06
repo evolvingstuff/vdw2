@@ -3,7 +3,8 @@ title: "T1 Diabetes 6.5 X more likely in South African Blacks if poor Vitamin D 
 slug: "t1-diabetes-65-x-more-likely-in-south-african-blacks-if-poor-vitamin-d-binding-protein"
 aliases:
   - "/T1+Diabetes+65+X+more+likely+in+South+African+Blacks+if+poor+Vitamin+D+Binding+Protein+–+July+2022"
-  - "/tiki-index.php?page_id=13766"
+  - "/13766"
+tiki_page_id: 13766
 date: 2022-07-18
 categories:
   - "Skin - Dark"

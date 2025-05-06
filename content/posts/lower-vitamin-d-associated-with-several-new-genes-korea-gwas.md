@@ -3,7 +3,8 @@ title: "Lower vitamin D associated with several new genes (Korea GWAS)"
 slug: "lower-vitamin-d-associated-with-several-new-genes-korea-gwas"
 aliases:
   - "/Lower+vitamin+D+associated+with+several+new+genes+Korea+GWAS+–+Dec+2021"
-  - "/tiki-index.php?page_id=13132"
+  - "/13132"
+tiki_page_id: 13132
 date: 2021-12-02
 categories:
   - "Genetics"

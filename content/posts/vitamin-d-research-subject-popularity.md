@@ -3,7 +3,8 @@ title: "Vitamin D research subject popularity"
 slug: "vitamin-d-research-subject-popularity"
 aliases:
   - "/Vitamin+D+research+subject+popularity+–+Jan+2019"
-  - "/tiki-index.php?page_id=10421"
+  - "/10421"
+tiki_page_id: 10421
 date: 2019-01-23
 ---
 

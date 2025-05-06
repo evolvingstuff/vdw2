@@ -3,7 +3,8 @@ title: "COVID asymptomatic rarely infectious or low Vitamin D"
 slug: "covid-asymptomatic-rarely-infectious-or-low-vitamin-d"
 aliases:
   - "/COVID+asymptomatic+rarely+infectious+or+low+Vitamin+D+-+May+2023"
-  - "/tiki-index.php?page_id=14422"
+  - "/14422"
+tiki_page_id: 14422
 date: 2023-05-12
 categories:
   - "Virus"

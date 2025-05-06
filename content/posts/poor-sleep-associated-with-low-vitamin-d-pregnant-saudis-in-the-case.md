@@ -3,7 +3,8 @@ title: "Poor sleep associated with low Vitamin D (pregnant Saudis in the case)"
 slug: "poor-sleep-associated-with-low-vitamin-d-pregnant-saudis-in-the-case"
 aliases:
   - "/Poor+sleep+associated+with+low+Vitamin+D+pregnant+Saudis+in+the+case+–+Jun+2022"
-  - "/tiki-index.php?page_id=13741"
+  - "/13741"
+tiki_page_id: 13741
 date: 2022-07-09
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "IBD strongly associated with low Vitamin D"
 slug: "ibd-strongly-associated-with-low-vitamin-d"
 aliases:
   - "/IBD+strongly+associated+with+low+Vitamin+D+–+Jan+2022"
-  - "/tiki-index.php?page_id=13243"
+  - "/13243"
+tiki_page_id: 13243
 date: 2022-01-09
 categories:
   - "Gut"

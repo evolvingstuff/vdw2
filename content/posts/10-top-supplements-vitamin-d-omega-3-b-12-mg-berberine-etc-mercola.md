@@ -3,7 +3,8 @@ title: "10 top supplements: Vitamin D, Omega-3, B-12, Mg, Berberine, etc. - Merc
 slug: "10-top-supplements-vitamin-d-omega-3-b-12-mg-berberine-etc-mercola"
 aliases:
   - "/10+top+supplements+Vitamin+D+Omega-3+B-12+Mg+Berberine+etc+-+Mercola+Jan+2024"
-  - "/tiki-index.php?page_id=14942"
+  - "/14942"
+tiki_page_id: 14942
 date: 2024-01-03
 ---
 

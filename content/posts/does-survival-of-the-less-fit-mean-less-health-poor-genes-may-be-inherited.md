@@ -3,7 +3,8 @@ title: "Does survival of the less fit mean less health (poor genes may be inheri
 slug: "does-survival-of-the-less-fit-mean-less-health-poor-genes-may-be-inherited"
 aliases:
   - "/Does+survival+of+the+less+fit+mean+less+health+poor+genes+may+be+inherited"
-  - "/tiki-index.php?page_id=11481"
+  - "/11481"
+tiki_page_id: 11481
 date: 2019-12-20
 categories:
   - "Genetics"

@@ -3,7 +3,8 @@ title: "Low Vitamin D is worse for your health than smoking"
 slug: "low-vitamin-d-is-worse-for-your-health-than-smoking"
 aliases:
   - "/Low+Vitamin+D+is+worse+for+your+health+than+smoking"
-  - "/tiki-index.php?page_id=10231"
+  - "/10231"
+tiki_page_id: 10231
 date: 2018-11-24
 categories:
   - "Deficiency of Vitamin D"

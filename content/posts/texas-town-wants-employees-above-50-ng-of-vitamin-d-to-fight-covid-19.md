@@ -3,7 +3,8 @@ title: "Texas town wants employees above 50 ng of Vitamin D to fight COVID-19"
 slug: "texas-town-wants-employees-above-50-ng-of-vitamin-d-to-fight-covid-19"
 aliases:
   - "/Texas+town+wants+employees+above+50+ng+of+Vitamin+D+to+fight+COVID-19+-+Dec+24+2020"
-  - "/tiki-index.php?page_id=12174"
+  - "/12174"
+tiki_page_id: 12174
 date: 2020-12-25
 categories:
   - "Virus"

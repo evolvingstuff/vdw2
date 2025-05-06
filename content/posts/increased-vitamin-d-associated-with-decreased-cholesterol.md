@@ -3,7 +3,8 @@ title: "Increased Vitamin D associated with decreased Cholesterol"
 slug: "increased-vitamin-d-associated-with-decreased-cholesterol"
 aliases:
   - "/Increased+Vitamin+D+associated+with+decreased+Cholesterol+–+Nov+2021"
-  - "/tiki-index.php?page_id=13060"
+  - "/13060"
+tiki_page_id: 13060
 date: 2021-11-08
 categories:
   - "Cholesterol"

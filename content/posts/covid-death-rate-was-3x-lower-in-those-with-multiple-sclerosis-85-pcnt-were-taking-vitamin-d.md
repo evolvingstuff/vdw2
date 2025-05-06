@@ -3,7 +3,8 @@ title: "COVID death rate was 3X lower in those with Multiple Sclerosis (85 pcnt 
 slug: "covid-death-rate-was-3x-lower-in-those-with-multiple-sclerosis-85-pcnt-were-taking-vitamin-d"
 aliases:
   - "/COVID+death+rate+was+3X+lower+in+those+with+Multiple+Sclerosis+85+pcnt+were+taking+Vitamin+D+-+Jan+2022"
-  - "/tiki-index.php?page_id=13252"
+  - "/13252"
+tiki_page_id: 13252
 date: 2022-01-12
 categories:
   - "Multiple Sclerosis"

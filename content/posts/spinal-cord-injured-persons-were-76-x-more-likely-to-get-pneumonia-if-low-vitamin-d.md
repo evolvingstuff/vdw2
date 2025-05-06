@@ -3,7 +3,8 @@ title: "Spinal Cord Injured persons were 7.6 X more likely to get pneumonia if l
 slug: "spinal-cord-injured-persons-were-76-x-more-likely-to-get-pneumonia-if-low-vitamin-d"
 aliases:
   - "/Spinal+Cord+Injured+persons+were+76+X+more+likely+to+get+pneumonia+if+low+vitamin+D+–+Jan+2020"
-  - "/tiki-index.php?page_id=11568"
+  - "/11568"
+tiki_page_id: 11568
 date: 2020-01-18
 categories:
   - "Breathing"

@@ -3,7 +3,8 @@ title: "Infants sometimes lack Oxygen – 1,000 IU Vitamin D daily helps"
 slug: "infants-sometimes-lack-oxygen-1000-iu-vitamin-d-daily-helps"
 aliases:
   - "/Infants+sometimes+lack+Oxygen+–+1000+IU+Vitamin+D+daily+helps+–+Dec+2018"
-  - "/tiki-index.php?page_id=10278"
+  - "/10278"
+tiki_page_id: 10278
 date: 2018-12-06
 categories:
   - "Infant-Child"

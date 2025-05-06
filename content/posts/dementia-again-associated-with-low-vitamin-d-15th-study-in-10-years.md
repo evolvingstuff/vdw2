@@ -3,7 +3,8 @@ title: "Dementia again associated with low Vitamin D – 15th study in 10 years"
 slug: "dementia-again-associated-with-low-vitamin-d-15th-study-in-10-years"
 aliases:
   - "/Dementia+again+associated+with+low+Vitamin+D+–+15th+study+in+10+years+–+Jan+2023"
-  - "/tiki-index.php?page_id=14290"
+  - "/14290"
+tiki_page_id: 14290
 date: 2023-03-02
 categories:
   - "Cognitive"

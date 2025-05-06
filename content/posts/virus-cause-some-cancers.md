@@ -3,7 +3,8 @@ title: "Virus cause some cancers"
 slug: "virus-cause-some-cancers"
 aliases:
   - "/Virus+cause+some+cancers"
-  - "/tiki-index.php?page_id=12865"
+  - "/12865"
+tiki_page_id: 12865
 date: 2021-08-28
 categories:
   - "Cancer"

@@ -3,7 +3,8 @@ title: "Metabolic Syndrome 11X more likely if have a poor Vitamin D Receptor –
 slug: "metabolic-syndrome-11x-more-likely-if-have-a-poor-vitamin-d-receptor-2018"
 aliases:
   - "/Metabolic+Syndrome+11X+more+likely+if+have+a+poor+Vitamin+D+Receptor+–+2018"
-  - "/tiki-index.php?page_id=11141"
+  - "/11141"
+tiki_page_id: 11141
 date: 2019-09-10
 categories:
   - "Metabolic Syndrome"

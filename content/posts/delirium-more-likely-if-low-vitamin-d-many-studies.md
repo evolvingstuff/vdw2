@@ -3,7 +3,8 @@ title: "Delirium more likely if low vitamin D - many studies"
 slug: "delirium-more-likely-if-low-vitamin-d-many-studies"
 aliases:
   - "/Delirium+more+likely+if+low+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14250"
+  - "/14250"
+tiki_page_id: 14250
 date: 2023-02-08
 categories:
   - "Cognitive"

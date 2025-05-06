@@ -3,7 +3,8 @@ title: "CYP27B1"
 slug: "cyp27b1"
 aliases:
   - "/CYP27B1"
-  - "/tiki-index.php?page_id=11213"
+  - "/11213"
+tiki_page_id: 11213
 date: 2019-10-07
 categories:
   - "Category"

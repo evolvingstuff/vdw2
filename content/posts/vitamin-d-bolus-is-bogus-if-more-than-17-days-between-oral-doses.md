@@ -3,7 +3,8 @@ title: "Vitamin D: Bolus is Bogus (if more than 17 days between oral doses)"
 slug: "vitamin-d-bolus-is-bogus-if-more-than-17-days-between-oral-doses"
 aliases:
   - "/Vitamin+D+Bolus+is+Bogus+if+more+than+17+days+between+oral+doses+–+Oct+2021"
-  - "/tiki-index.php?page_id=12984"
+  - "/12984"
+tiki_page_id: 12984
 date: 2021-10-14
 categories:
   - "Better than daily"

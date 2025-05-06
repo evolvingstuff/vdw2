@@ -3,7 +3,8 @@ title: "A healthy gut needs Vitamin D and a good vitamin D receptor"
 slug: "a-healthy-gut-needs-vitamin-d-and-a-good-vitamin-d-receptor"
 aliases:
   - "/A+healthy+gut+needs+Vitamin+D+and+a+good+vitamin+D+receptor+–+Sept+2022"
-  - "/tiki-index.php?page_id=13927"
+  - "/13927"
+tiki_page_id: 13927
 date: 2022-09-20
 categories:
   - "Gut"

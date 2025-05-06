@@ -3,7 +3,8 @@ title: "Poor oral bacteria associated with poor Vitamin D Receptor"
 slug: "poor-oral-bacteria-associated-with-poor-vitamin-d-receptor"
 aliases:
   - "/Poor+oral+bacteria+associated+with+poor+Vitamin+D+Receptor+-+June+2022"
-  - "/tiki-index.php?page_id=13707"
+  - "/13707"
+tiki_page_id: 13707
 date: 2022-06-24
 categories:
   - "Dental"

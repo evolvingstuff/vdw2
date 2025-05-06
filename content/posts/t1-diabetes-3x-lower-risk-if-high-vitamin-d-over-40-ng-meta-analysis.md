@@ -3,7 +3,8 @@ title: "T1 Diabetes 3X lower risk if high vitamin D (over 40 ng) – Meta-analys
 slug: "t1-diabetes-3x-lower-risk-if-high-vitamin-d-over-40-ng-meta-analysis"
 aliases:
   - "/T1+Diabetes+3X+lower+risk+if+high+vitamin+D+over+40+ng+–+Meta-analysis+Nov+2020"
-  - "/tiki-index.php?page_id=12101"
+  - "/12101"
+tiki_page_id: 12101
 date: 2020-11-30
 categories:
   - "Diabetes"

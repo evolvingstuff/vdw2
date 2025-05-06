@@ -3,7 +3,8 @@ title: "Anemia is assocated with both very low and very high vitamin D (Mexican 
 slug: "anemia-is-assocated-with-both-very-low-and-very-high-vitamin-d-mexican-seniors"
 aliases:
   - "/Anemia+is+assocated+with+both+very+low+and+very+high+vitamin+D+Mexican+seniors+–+Oct+2021"
-  - "/tiki-index.php?page_id=13123"
+  - "/13123"
+tiki_page_id: 13123
 date: 2021-11-28
 categories:
   - "Vitamin D and Iron"

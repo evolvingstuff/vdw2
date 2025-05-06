@@ -3,7 +3,8 @@ title: "Breast Cancer risk reduced 12 percent if recently used some amount of Vi
 slug: "breast-cancer-risk-reduced-12-percent-if-recently-used-some-amount-of-vitamin-d"
 aliases:
   - "/Breast+Cancer+risk+reduced+12+percent+if+recently+used+some+amount+of+Vitamin+D+–+Jan+2022"
-  - "/tiki-index.php?page_id=13128"
+  - "/13128"
+tiki_page_id: 13128
 date: 2021-11-30
 categories:
   - "Cancer - Breast"

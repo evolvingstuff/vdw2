@@ -3,7 +3,8 @@ title: "Vitamin D and COVID-19: a narrative review - Holick"
 slug: "vitamin-d-and-covid-19-a-narrative-review-holick"
 aliases:
   - "/Vitamin+D+and+COVID-19+a+narrative+review+-+Holick+-+Jan+4+2022"
-  - "/tiki-index.php?page_id=13244"
+  - "/13244"
+tiki_page_id: 13244
 date: 2022-01-10
 categories:
   - "Virus"

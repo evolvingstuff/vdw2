@@ -3,7 +3,8 @@ title: "Asthma 3.7X higher risk of poor Vitamin D Receptor (teens in Taiwan in t
 slug: "asthma-37x-higher-risk-of-poor-vitamin-d-receptor-teens-in-taiwan-in-this-case"
 aliases:
   - "/Asthma+37X+higher+risk+of+poor+Vitamin+D+Receptor+teens+in+Taiwan+in+this+case+–+Nov+2019"
-  - "/tiki-index.php?page_id=11316"
+  - "/11316"
+tiki_page_id: 11316
 date: 2019-11-06
 categories:
   - "Breathing"

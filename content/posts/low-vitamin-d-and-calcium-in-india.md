@@ -3,7 +3,8 @@ title: "Low Vitamin D and Calcium in India"
 slug: "low-vitamin-d-and-calcium-in-india"
 aliases:
   - "/Low+Vitamin+D+and+Calcium+in+India+–+Aug+2019"
-  - "/tiki-index.php?page_id=11055"
+  - "/11055"
+tiki_page_id: 11055
 date: 2019-08-09
 ---
 

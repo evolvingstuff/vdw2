@@ -3,7 +3,8 @@ title: "Many pregnant women are deficient when taking the recommended amount of 
 slug: "many-pregnant-women-are-deficient-when-taking-the-recommended-amount-of-vitamin-d"
 aliases:
   - "/Many+pregnant+women+are+deficient+when+taking+the+recommended+amount+of+Vitamin+D+–+Jan+2023"
-  - "/tiki-index.php?page_id=14229"
+  - "/14229"
+tiki_page_id: 14229
 date: 2023-01-23
 categories:
   - "Pregnancy"

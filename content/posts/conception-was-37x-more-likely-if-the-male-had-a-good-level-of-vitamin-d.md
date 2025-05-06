@@ -3,7 +3,8 @@ title: "Conception was 3.7X more likely if the male had a good level of Vitamin 
 slug: "conception-was-37x-more-likely-if-the-male-had-a-good-level-of-vitamin-d"
 aliases:
   - "/Conception+was+37X+more+likely+if+the+male+had+a+good+level+of+Vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13797"
+  - "/13797"
+tiki_page_id: 13797
 date: 2022-07-26
 categories:
   - "Fertility and sperm"

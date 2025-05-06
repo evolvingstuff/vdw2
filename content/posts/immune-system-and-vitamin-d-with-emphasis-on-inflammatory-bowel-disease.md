@@ -3,7 +3,8 @@ title: "Immune system and vitamin D, with emphasis on Inflammatory Bowel Disease
 slug: "immune-system-and-vitamin-d-with-emphasis-on-inflammatory-bowel-disease"
 aliases:
   - "/Immune+system+and+vitamin+D+with+emphasis+on+Inflammatory+Bowel+Disease+–+May+2022"
-  - "/tiki-index.php?page_id=13611"
+  - "/13611"
+tiki_page_id: 13611
 date: 2022-05-29
 categories:
   - "Immunity"

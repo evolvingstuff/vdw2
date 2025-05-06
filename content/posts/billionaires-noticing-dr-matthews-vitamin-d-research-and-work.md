@@ -3,7 +3,8 @@ title: "Billionaires Noticing Dr. Matthews Vitamin D Research and Work"
 slug: "billionaires-noticing-dr-matthews-vitamin-d-research-and-work"
 aliases:
   - "/Billionaires+Noticing+Dr+Matthews+Vitamin+D+Research+and+Work+-+May+2019"
-  - "/tiki-index.php?page_id=10891"
+  - "/10891"
+tiki_page_id: 10891
 date: 2019-06-17
 ---
 

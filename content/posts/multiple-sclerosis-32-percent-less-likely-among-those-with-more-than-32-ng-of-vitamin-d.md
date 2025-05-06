@@ -3,7 +3,8 @@ title: "Multiple Sclerosis 32 percent less likely among those with more than 32 
 slug: "multiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d"
 aliases:
   - "/Multiple+Sclerosis+32+percent+less+likely+among+those+with+more+than+32+ng+of+vitamin+D+–+Dec+2019"
-  - "/tiki-index.php?page_id=11431"
+  - "/11431"
+tiki_page_id: 11431
 date: 2019-12-07
 categories:
   - "Multiple Sclerosis"

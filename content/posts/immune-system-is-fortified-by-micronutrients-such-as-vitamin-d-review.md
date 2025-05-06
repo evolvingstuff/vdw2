@@ -3,7 +3,8 @@ title: "Immune system is fortified by micronutrients such as vitamin D – Revie
 slug: "immune-system-is-fortified-by-micronutrients-such-as-vitamin-d-review"
 aliases:
   - "/Immune+system+is+fortified+by+micronutrients+such+as+vitamin+D+–+Review+Jan+2020"
-  - "/tiki-index.php?page_id=11663"
+  - "/11663"
+tiki_page_id: 11663
 date: 2020-03-06
 categories:
   - "Immunity"

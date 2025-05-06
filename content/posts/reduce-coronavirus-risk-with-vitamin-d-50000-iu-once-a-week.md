@@ -3,7 +3,8 @@ title: "Reduce Coronavirus risk with Vitamin D (50,000 IU once a week)"
 slug: "reduce-coronavirus-risk-with-vitamin-d-50000-iu-once-a-week"
 aliases:
   - "/Reduce+Coronavirus+risk+with+Vitamin+D+50000+IU+once+a+week"
-  - "/tiki-index.php?page_id=11682"
+  - "/11682"
+tiki_page_id: 11682
 date: 2020-03-15
 categories:
   - "Virus"

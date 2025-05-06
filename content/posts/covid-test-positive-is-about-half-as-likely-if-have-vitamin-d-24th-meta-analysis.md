@@ -3,7 +3,8 @@ title: "COVID test positive is about half as likely if have Vitamin D – 24th m
 slug: "covid-test-positive-is-about-half-as-likely-if-have-vitamin-d-24th-meta-analysis"
 aliases:
   - "/COVID+test+positive+is+about+half+as+likely+if+have+Vitamin+D+–+24th+meta-analysis+-+Jan+2022"
-  - "/tiki-index.php?page_id=13291"
+  - "/13291"
+tiki_page_id: 13291
 date: 2022-01-28
 categories:
   - "Meta-analysis of Vitamin D"

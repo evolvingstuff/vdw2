@@ -3,7 +3,8 @@ title: "COVID Long-Haul prevalence increases with time: 50% at 4 months - meta"
 slug: "covid-long-haul-prevalence-increases-with-time-50-percent-at-4-months-meta"
 aliases:
   - "/COVID+Long-Haul+prevalence+increases+with+time+50+at+4+months+-+meta+June+2022"
-  - "/tiki-index.php?page_id=13678"
+  - "/13678"
+tiki_page_id: 13678
 date: 2022-06-16
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "CDC listed health problems at increased risk of COVID-19 (all are associ
 slug: "cdc-listed-health-problems-at-increased-risk-of-covid-19-all-are-associated-with-low-vitamin-d"
 aliases:
   - "/CDC+listed+health+problems+at+increased+risk+of+COVID-19+all+are+associated+with+low+Vitamin+D+-+Dec+1+2020"
-  - "/tiki-index.php?page_id=12168"
+  - "/12168"
+tiki_page_id: 12168
 date: 2020-12-22
 categories:
   - "Virus"

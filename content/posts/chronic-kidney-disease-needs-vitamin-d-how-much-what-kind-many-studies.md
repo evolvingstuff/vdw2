@@ -3,7 +3,8 @@ title: "Chronic Kidney Disease needs Vitamin D: how much, what kind - many studi
 slug: "chronic-kidney-disease-needs-vitamin-d-how-much-what-kind-many-studies"
 aliases:
   - "/Chronic+Kidney+Disease+needs+Vitamin+D+how+much+what+kind+-+many+studies"
-  - "/tiki-index.php?page_id=14385"
+  - "/14385"
+tiki_page_id: 14385
 date: 2023-04-18
 categories:
   - "Kidney"

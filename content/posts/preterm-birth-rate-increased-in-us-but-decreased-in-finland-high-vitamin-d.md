@@ -3,7 +3,8 @@ title: "Preterm birth rate increased in US but decreased in Finland (high Vitami
 slug: "preterm-birth-rate-increased-in-us-but-decreased-in-finland-high-vitamin-d"
 aliases:
   - "/Preterm+birth+rate+increased+in+US+but+decreased+in+Finland+high+Vitamin+D+-+Jan+2024"
-  - "/tiki-index.php?page_id=15038"
+  - "/15038"
+tiki_page_id: 15038
 date: 2024-02-08
 categories:
   - "Pregnancy"

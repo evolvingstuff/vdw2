@@ -3,7 +3,8 @@ title: "Omega-6 blocks Omega-3 etc. -many studies"
 slug: "omega-6-blocks-omega-3-etc-many-studies"
 aliases:
   - "/Omega-6+blocks+Omega-3+etc+-many+studies"
-  - "/tiki-index.php?page_id=14541"
+  - "/14541"
+tiki_page_id: 14541
 date: 2023-07-17
 categories:
   - "Vitamin D and Omega-3"

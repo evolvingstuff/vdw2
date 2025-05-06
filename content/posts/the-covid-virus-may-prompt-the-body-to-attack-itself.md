@@ -3,7 +3,8 @@ title: "The COVID Virus May Prompt the Body to Attack Itself"
 slug: "the-covid-virus-may-prompt-the-body-to-attack-itself"
 aliases:
   - "/The+COVID+Virus+May+Prompt+the+Body+to+Attack+Itself+-+Jan+29+2021"
-  - "/tiki-index.php?page_id=12289"
+  - "/12289"
+tiki_page_id: 12289
 date: 2021-02-01
 categories:
   - "Autoimmune"

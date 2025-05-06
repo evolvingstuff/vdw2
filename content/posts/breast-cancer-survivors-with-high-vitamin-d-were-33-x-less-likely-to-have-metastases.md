@@ -3,7 +3,8 @@ title: "Breast Cancer survivors with high vitamin D were 3.3 X less likely to ha
 slug: "breast-cancer-survivors-with-high-vitamin-d-were-33-x-less-likely-to-have-metastases"
 aliases:
   - "/Breast+Cancer+survivors+with+high+vitamin+D+were+33+X+less+likely+to+have+metastases+–+May+2023"
-  - "/tiki-index.php?page_id=14413"
+  - "/14413"
+tiki_page_id: 14413
 date: 2023-05-07
 categories:
   - "Cancer - Breast"

@@ -3,7 +3,8 @@ title: "Childhood and youth obesity – more than 4,000 IU vitamin D average dai
 slug: "childhood-and-youth-obesity-more-than-4000-iu-vitamin-d-average-daily-would-help-meta-analysis"
 aliases:
   - "/Childhood+and+youth+obesity+–+more+than+4000+IU+vitamin+D+average+daily+would+help+–+meta-analysis+Jan+2023"
-  - "/tiki-index.php?page_id=14206"
+  - "/14206"
+tiki_page_id: 14206
 date: 2023-01-12
 categories:
   - "Meta-analysis of Vitamin D"

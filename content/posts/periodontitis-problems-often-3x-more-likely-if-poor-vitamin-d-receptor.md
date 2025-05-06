@@ -3,7 +3,8 @@ title: "Periodontitis problems often 3X more likely if poor Vitamin D receptor"
 slug: "periodontitis-problems-often-3x-more-likely-if-poor-vitamin-d-receptor"
 aliases:
   - "/Periodontitis+problems+often+3X+more+likely+if+poor+Vitamin+D+receptor+–+May+2022"
-  - "/tiki-index.php?page_id=13458"
+  - "/13458"
+tiki_page_id: 13458
 date: 2022-04-07
 categories:
   - "Dental"

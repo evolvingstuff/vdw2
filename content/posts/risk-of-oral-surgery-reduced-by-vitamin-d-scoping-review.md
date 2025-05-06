@@ -3,7 +3,8 @@ title: "Risk of Oral Surgery reduced by Vitamin D – scoping review"
 slug: "risk-of-oral-surgery-reduced-by-vitamin-d-scoping-review"
 aliases:
   - "/Risk+of+Oral+Surgery+reduced+by+Vitamin+D+–+scoping+review+Nov+2021"
-  - "/tiki-index.php?page_id=13043"
+  - "/13043"
+tiki_page_id: 13043
 date: 2021-11-02
 categories:
   - "Dental"

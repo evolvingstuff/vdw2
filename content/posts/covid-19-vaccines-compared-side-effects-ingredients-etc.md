@@ -3,7 +3,8 @@ title: "COVID-19 Vaccines compared: side effects, ingredients, etc."
 slug: "covid-19-vaccines-compared-side-effects-ingredients-etc"
 aliases:
   - "/COVID-19+Vaccines+compared+side+effects+ingredients+etc+-+March+2021"
-  - "/tiki-index.php?page_id=12429"
+  - "/12429"
+tiki_page_id: 12429
 date: 2021-03-24
 categories:
   - "Virus"

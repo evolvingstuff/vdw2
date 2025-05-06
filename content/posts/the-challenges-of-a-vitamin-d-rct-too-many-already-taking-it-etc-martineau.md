@@ -3,7 +3,8 @@ title: "The challenges of a Vitamin D RCT – too many already taking it, etc. �
 slug: "the-challenges-of-a-vitamin-d-rct-too-many-already-taking-it-etc-martineau"
 aliases:
   - "/The+challenges+of+a+Vitamin+D+RCT+–+too+many+already+taking+it+etc+–+Martineau+Sept+2022"
-  - "/tiki-index.php?page_id=13906"
+  - "/13906"
+tiki_page_id: 13906
 date: 2022-09-13
 categories:
   - "Intervention"

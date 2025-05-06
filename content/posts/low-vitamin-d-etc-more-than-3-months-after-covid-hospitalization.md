@@ -3,7 +3,8 @@ title: "Low Vitamin D etc. more than 3 months after COVID hospitalization"
 slug: "low-vitamin-d-etc-more-than-3-months-after-covid-hospitalization"
 aliases:
   - "/Low+Vitamin+D+etc+more+than+3+months+after+COVID+hospitalization+–+Sept+2021"
-  - "/tiki-index.php?page_id=13083"
+  - "/13083"
+tiki_page_id: 13083
 date: 2021-11-15
 categories:
   - "Virus"

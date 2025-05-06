@@ -3,7 +3,8 @@ title: "Doctors have a lot to learn about Vitamin D (Polish doctors in this case
 slug: "doctors-have-a-lot-to-learn-about-vitamin-d-polish-doctors-in-this-case"
 aliases:
   - "/Doctors+have+a+lot+to+learn+about+Vitamin+D+Polish+doctors+in+this+case+–+July+2021"
-  - "/tiki-index.php?page_id=12755"
+  - "/12755"
+tiki_page_id: 12755
 date: 2021-07-21
 categories:
   - "Overview for doctors"

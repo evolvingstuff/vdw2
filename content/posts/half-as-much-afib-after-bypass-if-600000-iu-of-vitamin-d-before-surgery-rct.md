@@ -3,7 +3,8 @@ title: "Half as much AFIB after bypass if 600,000 IU of vitamin D before surgery
 slug: "half-as-much-afib-after-bypass-if-600000-iu-of-vitamin-d-before-surgery-rct"
 aliases:
   - "/Half+as+much+AFIB+after+bypass+if+600000+IU+of+vitamin+D+before+surgery+–+RCT+April+2022"
-  - "/tiki-index.php?page_id=13521"
+  - "/13521"
+tiki_page_id: 13521
 date: 2022-04-26
 categories:
   - "Trauma and surgery"

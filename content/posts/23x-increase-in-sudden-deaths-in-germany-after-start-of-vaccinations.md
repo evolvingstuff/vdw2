@@ -3,7 +3,8 @@ title: "2.3X increase in sudden deaths in Germany after start of vaccinations"
 slug: "23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations"
 aliases:
   - "/23X+increase+in+sudden+deaths+in+Germany+after+start+of+vaccinations+-+Dec+2022"
-  - "/tiki-index.php?page_id=14146"
+  - "/14146"
+tiki_page_id: 14146
 date: 2022-12-13
 categories:
   - "Top news"

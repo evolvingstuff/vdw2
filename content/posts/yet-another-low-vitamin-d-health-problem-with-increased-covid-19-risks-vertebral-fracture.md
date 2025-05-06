@@ -3,7 +3,8 @@ title: "Yet another low Vitamin D health problem with increased COVID-19 risks (
 slug: "yet-another-low-vitamin-d-health-problem-with-increased-covid-19-risks-vertebral-fracture"
 aliases:
   - "/Yet+another+low+Vitamin+D+health+problem+with+increased+COVID-19+risks+Vertebral+Fracture+–+Oct+2020"
-  - "/tiki-index.php?page_id=12160"
+  - "/12160"
+tiki_page_id: 12160
 date: 2020-12-21
 categories:
   - "Falls and Fractures"

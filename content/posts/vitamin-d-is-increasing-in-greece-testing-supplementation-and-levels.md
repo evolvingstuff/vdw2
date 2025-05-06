@@ -3,7 +3,8 @@ title: "Vitamin D is increasing in Greece: testing, supplementation, and levels"
 slug: "vitamin-d-is-increasing-in-greece-testing-supplementation-and-levels"
 aliases:
   - "/Vitamin+D+is+increasing+in+Greece+testing+supplementation+and+levels+–+Jan+2024"
-  - "/tiki-index.php?page_id=14960"
+  - "/14960"
+tiki_page_id: 14960
 date: 2024-01-11
 categories:
   - "Tests for Vitamin D"

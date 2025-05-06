@@ -3,7 +3,8 @@ title: "400 IU of Vitamin D helped breastfed infants, need more – RCT"
 slug: "400-iu-of-vitamin-d-helped-breastfed-infants-need-more-rct"
 aliases:
   - "/400+IU+of+Vitamin+D+helped+breastfed+infants+need+more+–+RCT+Sept+2021"
-  - "/tiki-index.php?page_id=12871"
+  - "/12871"
+tiki_page_id: 12871
 date: 2021-09-01
 categories:
   - "Intervention"

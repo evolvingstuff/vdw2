@@ -3,7 +3,8 @@ title: "Depression decreased by Vitamin D (12th study in VitaminDWiki) – RCT"
 slug: "depression-decreased-by-vitamin-d-12th-study-in-vitamindwiki-rct"
 aliases:
   - "/Depression+decreased+by+Vitamin+D+12th+study+in+VitaminDWiki+–+RCT+Nov+2022"
-  - "/tiki-index.php?page_id=14081"
+  - "/14081"
+tiki_page_id: 14081
 date: 2022-11-12
 categories:
   - "Depression"

@@ -3,7 +3,8 @@ title: "Vitamin C may treat COVID-19 (several studies)"
 slug: "vitamin-c-may-treat-covid-19-several-studies"
 aliases:
   - "/Vitamin+C+may+treat+COVID-19+several+studies"
-  - "/tiki-index.php?page_id=12032"
+  - "/12032"
+tiki_page_id: 12032
 date: 2020-10-29
 categories:
   - "Virus"

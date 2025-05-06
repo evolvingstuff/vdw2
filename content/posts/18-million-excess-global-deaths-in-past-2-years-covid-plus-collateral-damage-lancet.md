@@ -3,7 +3,8 @@ title: "18 million excess global deaths in past 2 years: COVID plus collateral d
 slug: "18-million-excess-global-deaths-in-past-2-years-covid-plus-collateral-damage-lancet"
 aliases:
   - "/18+million+excess+global+deaths+in+past+2+years+COVID+plus+collateral+damage+-+Lancet+March+2022"
-  - "/tiki-index.php?page_id=13389"
+  - "/13389"
+tiki_page_id: 13389
 date: 2022-03-12
 categories:
   - "Mortality and D"

@@ -3,7 +3,8 @@ title: "Age-Related Macular Degeneration - Diet, bionome, Vitamin D, CBD, Avasti
 slug: "age-related-macular-degeneration-diet-bionome-vitamin-d-cbd-avastin-etc"
 aliases:
   - "/Age-Related+Macular+Degeneration+-+Diet+bionome+Vitamin+D+CBD+Avastin+etc"
-  - "/tiki-index.php?page_id=10576"
+  - "/10576"
+tiki_page_id: 10576
 date: 2019-03-16
 categories:
   - "Vision"

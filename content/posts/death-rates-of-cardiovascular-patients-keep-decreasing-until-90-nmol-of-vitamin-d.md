@@ -3,7 +3,8 @@ title: "Death rates of Cardiovascular patients keep decreasing until 90 nmol of 
 slug: "death-rates-of-cardiovascular-patients-keep-decreasing-until-90-nmol-of-vitamin-d"
 aliases:
   - "/Death+rates+of+Cardiovascular+patients+keep+decreasing+until+90+nmol+of+Vitamin+D+-+May+2023"
-  - "/tiki-index.php?page_id=14414"
+  - "/14414"
+tiki_page_id: 14414
 date: 2023-05-08
 categories:
   - "Cardiovascular"

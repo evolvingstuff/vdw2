@@ -3,7 +3,8 @@ title: "Melanoma 2.1 X more likely if low vitamin D – meta-analysis"
 slug: "melanoma-21-x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Melanoma+21+X+more+likely+if+low+vitamin+D+–+meta-analysis+Jan+2020"
-  - "/tiki-index.php?page_id=11548"
+  - "/11548"
+tiki_page_id: 11548
 date: 2020-01-11
 categories:
   - "Cancer - Skin"

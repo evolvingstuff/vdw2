@@ -3,7 +3,8 @@ title: "VITAMIN D AND COVID-19: IT IS TIME TO ACT"
 slug: "vitamin-d-and-covid-19-it-is-time-to-act"
 aliases:
   - "/VITAMIN+D+AND+COVID-19+IT+IS+TIME+TO+ACT+–+Oct+4+2020"
-  - "/tiki-index.php?page_id=11990"
+  - "/11990"
+tiki_page_id: 11990
 date: 2020-10-06
 categories:
   - "Virus"

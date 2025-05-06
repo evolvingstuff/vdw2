@@ -3,7 +3,8 @@ title: "Swine flu not prevented by 2,000 IU of vitamin D daily (the upper limit 
 slug: "swine-flu-not-prevented-by-2000-iu-of-vitamin-d-daily-the-upper-limit-at-the-time-rct-2014"
 aliases:
   - "/Swine+flu+not+prevented+by+2000+IU+of+vitamin+D+daily+the+upper+limit+at+the+time+–+RCT+2014"
-  - "/tiki-index.php?page_id=11927"
+  - "/11927"
+tiki_page_id: 11927
 date: 2020-08-30
 categories:
   - "Youth"

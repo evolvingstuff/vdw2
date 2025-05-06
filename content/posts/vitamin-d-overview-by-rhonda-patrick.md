@@ -3,7 +3,8 @@ title: "Vitamin D overview by Rhonda Patrick"
 slug: "vitamin-d-overview-by-rhonda-patrick"
 aliases:
   - "/Vitamin+D+overview+by+Rhonda+Patrick+–+Oct+2022"
-  - "/tiki-index.php?page_id=13988"
+  - "/13988"
+tiki_page_id: 13988
 date: 2022-10-07
 categories:
   - "About D - introduction"

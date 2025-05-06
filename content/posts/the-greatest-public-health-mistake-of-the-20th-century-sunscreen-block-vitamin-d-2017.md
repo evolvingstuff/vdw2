@@ -3,7 +3,8 @@ title: "The Greatest Public Health Mistake of the 20th Century (sunscreen block 
 slug: "the-greatest-public-health-mistake-of-the-20th-century-sunscreen-block-vitamin-d-2017"
 aliases:
   - "/The+Greatest+Public+Health+Mistake+of+the+20th+Century+sunscreen+block+Vitamin+D+-+2017"
-  - "/tiki-index.php?page_id=10292"
+  - "/10292"
+tiki_page_id: 10292
 date: 2018-12-08
 categories:
   - "Noontime sun and D"

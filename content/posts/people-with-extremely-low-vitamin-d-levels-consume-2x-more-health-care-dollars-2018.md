@@ -3,7 +3,8 @@ title: "People with extremely low vitamin D levels consume 2X more health care d
 slug: "people-with-extremely-low-vitamin-d-levels-consume-2x-more-health-care-dollars-2018"
 aliases:
   - "/People+with+extremely+low+vitamin+D+levels+consume+2X+more+health+care+dollars+–+2018"
-  - "/tiki-index.php?page_id=14588"
+  - "/14588"
+tiki_page_id: 14588
 date: 2023-08-05
 categories:
   - "Cost savings with Vitamin D"

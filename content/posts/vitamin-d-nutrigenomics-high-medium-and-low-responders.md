@@ -3,7 +3,8 @@ title: "Vitamin D Nutrigenomics - High, Medium, and Low Responders"
 slug: "vitamin-d-nutrigenomics-high-medium-and-low-responders"
 aliases:
   - "/Vitamin+D+Nutrigenomics+-+High+Medium+and+Low+Responders+-+March+2019"
-  - "/tiki-index.php?page_id=10601"
+  - "/10601"
+tiki_page_id: 10601
 date: 2019-03-22
 categories:
   - "Genetics"

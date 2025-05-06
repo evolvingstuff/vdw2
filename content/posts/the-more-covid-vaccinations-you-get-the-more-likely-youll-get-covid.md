@@ -3,7 +3,8 @@ title: "The more COVID vaccinations you get, the More Likely you’ll get COVID"
 slug: "the-more-covid-vaccinations-you-get-the-more-likely-youll-get-covid"
 aliases:
   - "/The+more+COVID+vaccinations+you+get+the+More+Likely+youll+get+COVID+-+Oct+2022"
-  - "/tiki-index.php?page_id=13969"
+  - "/13969"
+tiki_page_id: 13969
 date: 2022-10-02
 categories:
   - "Virus"

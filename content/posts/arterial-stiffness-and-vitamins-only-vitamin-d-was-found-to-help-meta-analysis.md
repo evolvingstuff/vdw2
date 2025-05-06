@@ -3,7 +3,8 @@ title: "Arterial Stiffness and Vitamins – only Vitamin D was found to help –
 slug: "arterial-stiffness-and-vitamins-only-vitamin-d-was-found-to-help-meta-analysis"
 aliases:
   - "/Arterial+Stiffness+and+Vitamins+–+only+Vitamin+D+was+found+to+help+–+meta-analysis+Feb+2022"
-  - "/tiki-index.php?page_id=13355"
+  - "/13355"
+tiki_page_id: 13355
 date: 2022-02-27
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "COVID-19 Vitamin D: Overview of Evidence by Dr. Seheult (Video and trans
 slug: "covid-19-vitamin-d-overview-of-evidence-by-dr-seheult-video-and-transcript"
 aliases:
   - "/COVID-19+Vitamin+D+Overview+of+Evidence+by+Dr+Seheult+Video+and+transcript+-+Dec+10+2020"
-  - "/tiki-index.php?page_id=12141"
+  - "/12141"
+tiki_page_id: 12141
 date: 2020-12-14
 categories:
   - "Books, videos on Vitamin D"

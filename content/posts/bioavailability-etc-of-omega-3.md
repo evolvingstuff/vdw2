@@ -3,7 +3,8 @@ title: "Bioavailability etc. of Omega-3"
 slug: "bioavailability-etc-of-omega-3"
 aliases:
   - "/Bioavailability+etc+of+Omega-3+–+Nov+2018"
-  - "/tiki-index.php?page_id=10196"
+  - "/10196"
+tiki_page_id: 10196
 date: 2018-11-11
 categories:
   - "Vitamin D and Omega-3"

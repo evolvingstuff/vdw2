@@ -3,7 +3,8 @@ title: "Resveratrol treats Multiple Sclerosis and other autoimmune diseases – 
 slug: "resveratrol-treats-multiple-sclerosis-and-other-autoimmune-diseases-many-studies"
 aliases:
   - "/Resveratrol+treats+Multiple+Sclerosis+and+other+autoimmune+diseases+–+many+studies"
-  - "/tiki-index.php?page_id=11439"
+  - "/11439"
+tiki_page_id: 11439
 date: 2019-12-09
 categories:
   - "Multiple Sclerosis"

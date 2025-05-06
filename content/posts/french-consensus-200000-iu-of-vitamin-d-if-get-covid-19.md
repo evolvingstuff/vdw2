@@ -3,7 +3,8 @@ title: "French Consensus – 200,000 IU of Vitamin D if get COVID-19"
 slug: "french-consensus-200000-iu-of-vitamin-d-if-get-covid-19"
 aliases:
   - "/French+Consensus+–+200000+IU+of+Vitamin+D+if+get+COVID-19+–+Dec+22+2020"
-  - "/tiki-index.php?page_id=12170"
+  - "/12170"
+tiki_page_id: 12170
 date: 2020-12-22
 categories:
   - "Virus"

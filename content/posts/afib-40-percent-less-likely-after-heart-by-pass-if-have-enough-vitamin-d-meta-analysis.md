@@ -3,7 +3,8 @@ title: "Afib 40% less likely after heart by-pass if have enough Vitamin D – me
 slug: "afib-40-percent-less-likely-after-heart-by-pass-if-have-enough-vitamin-d-meta-analysis"
 aliases:
   - "/Afib+40+less+likely+after+heart+by-pass+if+have+enough+Vitamin+D+–+meta-analysis+May+2023"
-  - "/tiki-index.php?page_id=14452"
+  - "/14452"
+tiki_page_id: 14452
 date: 2023-05-27
 categories:
   - "Cardiovascular"

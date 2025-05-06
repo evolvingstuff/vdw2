@@ -3,7 +3,8 @@ title: "Tic disorder reduced by Vitamin D supplementation"
 slug: "tic-disorder-reduced-by-vitamin-d-supplementation"
 aliases:
   - "/Tic+disorder+reduced+by+Vitamin+D+supplementation+–+Aug+2019"
-  - "/tiki-index.php?page_id=11102"
+  - "/11102"
+tiki_page_id: 11102
 date: 2019-08-26
 categories:
   - "Intervention"

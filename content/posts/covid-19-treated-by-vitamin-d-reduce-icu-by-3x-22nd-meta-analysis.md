@@ -3,7 +3,8 @@ title: "COVID-19 treated by Vitamin D (reduce ICU by 3X) - 22nd meta-analysis"
 slug: "covid-19-treated-by-vitamin-d-reduce-icu-by-3x-22nd-meta-analysis"
 aliases:
   - "/COVID-19+treated+by+Vitamin+D+reduce+ICU+by+3X+-+22nd+meta-analysis+-+Dec+29+2021"
-  - "/tiki-index.php?page_id=13231"
+  - "/13231"
+tiki_page_id: 13231
 date: 2021-12-29
 categories:
   - "Meta-analysis of Vitamin D"

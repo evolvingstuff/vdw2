@@ -3,7 +3,8 @@ title: "Bath with Magnesium Chloride probably better than Epsom Salts"
 slug: "bath-with-magnesium-chloride-probably-better-than-epsom-salts"
 aliases:
   - "/Bath+with+Magnesium+Chloride+probably+better+than+Epsom+Salts"
-  - "/tiki-index.php?page_id=10471"
+  - "/10471"
+tiki_page_id: 10471
 date: 2019-02-06
 categories:
   - "Pain - chronic"

@@ -3,7 +3,8 @@ title: "Not a single case of multiple sclerosis in 15,000,000 people (plant-base
 slug: "not-a-single-case-of-multiple-sclerosis-in-15000000-people-plant-based-diets"
 aliases:
   - "/Not+a+single+case+of+multiple+sclerosis+in+15000000+people+plant-based+diets"
-  - "/tiki-index.php?page_id=11509"
+  - "/11509"
+tiki_page_id: 11509
 date: 2019-12-29
 categories:
   - "Multiple Sclerosis"

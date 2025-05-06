@@ -3,7 +3,8 @@ title: "Your Brain on Covid-19 Long-Haul,  Dr. Galland  video and transcript"
 slug: "your-brain-on-covid-19-long-haul-dr-galland-video-and-transcript"
 aliases:
   - "/Your+Brain+on+Covid-19+Long-Haul+Dr+Galland+video+and+transcript+-+Aug+1+2021"
-  - "/tiki-index.php?page_id=12812"
+  - "/12812"
+tiki_page_id: 12812
 date: 2021-08-07
 categories:
   - "Cognitive"

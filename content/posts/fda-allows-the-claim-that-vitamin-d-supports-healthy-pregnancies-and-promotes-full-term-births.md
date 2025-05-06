@@ -3,7 +3,8 @@ title: "FDA allows the claim that Vitamin D “supports healthy pregnancies and 
 slug: "fda-allows-the-claim-that-vitamin-d-supports-healthy-pregnancies-and-promotes-full-term-births"
 aliases:
   - "/FDA+allows+the+claim+that+Vitamin+D+supports+healthy+pregnancies+and+promotes+full-term+births+–+Oct+2019"
-  - "/tiki-index.php?page_id=11225"
+  - "/11225"
+tiki_page_id: 11225
 date: 2019-10-11
 categories:
   - "Pregnancy"

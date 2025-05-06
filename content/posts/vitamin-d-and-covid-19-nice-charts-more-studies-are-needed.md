@@ -3,7 +3,8 @@ title: "Vitamin D and COVID-19 - nice charts, more studies are needed"
 slug: "vitamin-d-and-covid-19-nice-charts-more-studies-are-needed"
 aliases:
   - "/Vitamin+D+and+COVID-19+-+nice+charts+more+studies+are+needed+–+Oct+2023"
-  - "/tiki-index.php?page_id=14795"
+  - "/14795"
+tiki_page_id: 14795
 date: 2023-10-30
 categories:
   - "Virus"

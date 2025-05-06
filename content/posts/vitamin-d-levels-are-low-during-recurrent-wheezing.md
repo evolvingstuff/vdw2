@@ -3,7 +3,8 @@ title: "Vitamin D levels are low during Recurrent Wheezing"
 slug: "vitamin-d-levels-are-low-during-recurrent-wheezing"
 aliases:
   - "/Vitamin+D+levels+are+low+during+Recurrent+Wheezing+-+Feb+2024"
-  - "/tiki-index.php?page_id=15075"
+  - "/15075"
+tiki_page_id: 15075
 date: 2024-02-24
 categories:
   - "Breathing"

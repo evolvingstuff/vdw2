@@ -3,7 +3,8 @@ title: "Paxlovid trial was done before Omicron on UNvaccinated people"
 slug: "paxlovid-trial-was-done-before-omicron-on-unvaccinated-people"
 aliases:
   - "/Paxlovid+trial+was+done+before+Omicron+on+UNvaccinated+people+-+Aug+2022"
-  - "/tiki-index.php?page_id=13817"
+  - "/13817"
+tiki_page_id: 13817
 date: 2022-08-02
 categories:
   - "Virus"

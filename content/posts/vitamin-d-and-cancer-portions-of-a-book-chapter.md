@@ -3,7 +3,8 @@ title: "Vitamin D and Cancer (portions of a book chapter)"
 slug: "vitamin-d-and-cancer-portions-of-a-book-chapter"
 aliases:
   - "/Vitamin+D+and+Cancer+portions+of+a+book+chapter+-+Jan+2024"
-  - "/tiki-index.php?page_id=15005"
+  - "/15005"
+tiki_page_id: 15005
 date: 2024-01-27
 categories:
   - "Cancer"

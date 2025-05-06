@@ -3,7 +3,8 @@ title: "Vitamin D and the Critically Ill - meta-analysis"
 slug: "vitamin-d-and-the-critically-ill-meta-analysis"
 aliases:
   - "/Vitamin+D+and+the+Critically+Ill+-+meta-analysis+–+April+2022"
-  - "/tiki-index.php?page_id=13643"
+  - "/13643"
+tiki_page_id: 13643
 date: 2022-06-07
 categories:
   - "Trauma and surgery"

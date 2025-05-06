@@ -3,7 +3,8 @@ title: "8X increased risk of stroke if COVID vaccinated and catch COVID within 3
 slug: "8x-increased-risk-of-stroke-if-covid-vaccinated-and-catch-covid-within-3-weeks"
 aliases:
   - "/8X+increased+risk+of+stroke+if+COVID+vaccinated+and+catch+COVID+within+3+weeks+–+June+2023"
-  - "/tiki-index.php?page_id=14552"
+  - "/14552"
+tiki_page_id: 14552
 date: 2023-07-23
 categories:
   - "Stroke"

@@ -3,7 +3,8 @@ title: "COVID-19 associated with low Vitamin D in more than 20 studies"
 slug: "covid-19-associated-with-low-vitamin-d-in-more-than-20-studies"
 aliases:
   - "/COVID-19+associated+with+low+Vitamin+D+in+more+than+20+studies+–+May+21+2020"
-  - "/tiki-index.php?page_id=11777"
+  - "/11777"
+tiki_page_id: 11777
 date: 2020-05-22
 categories:
   - "Virus"

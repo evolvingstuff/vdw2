@@ -3,7 +3,8 @@ title: "The Vagus Nerve is helped by \"vitamin d\""
 slug: "the-vagus-nerve-is-helped-by-vitamin-d"
 aliases:
   - "/The+Vagus+Nerve+is+helped+by+vitamin+d"
-  - "/tiki-index.php?page_id=15073"
+  - "/15073"
+tiki_page_id: 15073
 date: 2024-02-23
 categories:
   - "AI"

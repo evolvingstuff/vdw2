@@ -3,7 +3,8 @@ title: "1.5X more likely to be Vitamin D deficient if drink lots of coffee"
 slug: "15x-more-likely-to-be-vitamin-d-deficient-if-drink-lots-of-coffee"
 aliases:
   - "/15X+more+likely+to+be+Vitamin+D+deficient+if+drink+lots+of+coffee+–+Sept+2021"
-  - "/tiki-index.php?page_id=12904"
+  - "/12904"
+tiki_page_id: 12904
 date: 2021-09-20
 categories:
   - "Interactions with Vitamin D"

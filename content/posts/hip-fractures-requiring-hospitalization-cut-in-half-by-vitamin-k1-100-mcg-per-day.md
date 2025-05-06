@@ -3,7 +3,8 @@ title: "Hip fractures requiring hospitalization cut in half by Vitamin K1 (100 m
 slug: "hip-fractures-requiring-hospitalization-cut-in-half-by-vitamin-k1-100-mcg-per-day"
 aliases:
   - "/Hip+fractures+requiring+hospitalization+cut+in+half+by+Vitamin+K1+100+mcg+per+day+–+Sept+2022"
-  - "/tiki-index.php?page_id=14154"
+  - "/14154"
+tiki_page_id: 14154
 date: 2022-12-16
 categories:
   - "Vitamin D and Vitamin K"

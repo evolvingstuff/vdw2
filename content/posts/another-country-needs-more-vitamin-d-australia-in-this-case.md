@@ -3,7 +3,8 @@ title: "Another country needs more vitamin D (Australia in this case)"
 slug: "another-country-needs-more-vitamin-d-australia-in-this-case"
 aliases:
   - "/Another+country+needs+more+vitamin+D+Australia+in+this+case+–+March+2022"
-  - "/tiki-index.php?page_id=13377"
+  - "/13377"
+tiki_page_id: 13377
 date: 2022-03-07
 categories:
   - "Deficiency of Vitamin D"

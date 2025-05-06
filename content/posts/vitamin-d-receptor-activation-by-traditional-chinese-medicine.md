@@ -3,7 +3,8 @@ title: "Vitamin D Receptor activation by Traditional Chinese Medicine"
 slug: "vitamin-d-receptor-activation-by-traditional-chinese-medicine"
 aliases:
   - "/Vitamin+D+Receptor+activation+by+Traditional+Chinese+Medicine+–+Jan+2024"
-  - "/tiki-index.php?page_id=15032"
+  - "/15032"
+tiki_page_id: 15032
 date: 2024-02-06
 categories:
   - "Vitamin D Receptor"

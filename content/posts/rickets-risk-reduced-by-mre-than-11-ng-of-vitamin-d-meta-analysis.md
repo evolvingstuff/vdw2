@@ -3,7 +3,8 @@ title: "Rickets risk reduced by  mre than 11 ng of Vitamin D - meta-analysis"
 slug: "rickets-risk-reduced-by-mre-than-11-ng-of-vitamin-d-meta-analysis"
 aliases:
   - "/Rickets+risk+reduced+by+mre+than+11+ng+of+Vitamin+D+-+meta-analysis+Jan+2024"
-  - "/tiki-index.php?page_id=15006"
+  - "/15006"
+tiki_page_id: 15006
 date: 2024-01-28
 categories:
   - "Rickets"

@@ -3,7 +3,8 @@ title: "Blood–brain barrier dysfunction in multiple sclerosis (improved by vit
 slug: "bloodbrain-barrier-dysfunction-in-multiple-sclerosis-improved-by-vitamin-d-etc"
 aliases:
   - "/Blood–brain+barrier+dysfunction+in+multiple+sclerosis+improved+by+vitamin+D+etc+–+Jan+2024"
-  - "/tiki-index.php?page_id=14891"
+  - "/14891"
+tiki_page_id: 14891
 date: 2023-12-16
 categories:
   - "Multiple Sclerosis"

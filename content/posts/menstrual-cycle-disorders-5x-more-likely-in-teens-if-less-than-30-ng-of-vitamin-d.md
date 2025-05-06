@@ -3,7 +3,8 @@ title: "Menstrual cycle disorders 5X more likely in teens if less than 30 ng of 
 slug: "menstrual-cycle-disorders-5x-more-likely-in-teens-if-less-than-30-ng-of-vitamin-d"
 aliases:
   - "/Menstrual+cycle+disorders+5X+more+likely+in+teens+if+less+than+30+ng+of+Vitamin+D+–+Nov+2018"
-  - "/tiki-index.php?page_id=10294"
+  - "/10294"
+tiki_page_id: 10294
 date: 2018-12-08
 categories:
   - "Women"

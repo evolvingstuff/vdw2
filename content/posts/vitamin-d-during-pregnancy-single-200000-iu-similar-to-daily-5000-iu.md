@@ -3,7 +3,8 @@ title: "Vitamin D during pregnancy – single 200,000 IU similar to daily 5,000 
 slug: "vitamin-d-during-pregnancy-single-200000-iu-similar-to-daily-5000-iu"
 aliases:
   - "/Vitamin+D+during+pregnancy+–+single+200000+IU+similar+to+daily+5000+IU+–+April+2020"
-  - "/tiki-index.php?page_id=11847"
+  - "/11847"
+tiki_page_id: 11847
 date: 2020-07-17
 categories:
   - "Pregnancy"

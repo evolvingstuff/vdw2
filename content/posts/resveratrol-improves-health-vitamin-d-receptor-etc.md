@@ -3,7 +3,8 @@ title: "Resveratrol improves health (Vitamin D receptor, etc.)"
 slug: "resveratrol-improves-health-vitamin-d-receptor-etc"
 aliases:
   - "/Resveratrol+improves+health+Vitamin+D+receptor+etc"
-  - "/tiki-index.php?page_id=10058"
+  - "/10058"
+tiki_page_id: 10058
 date: 2018-09-22
 categories:
   - "Diabetes"

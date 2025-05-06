@@ -3,7 +3,8 @@ title: "94 percent of children with Chronic Neurological Diseases had low vitami
 slug: "94-percent-of-children-with-chronic-neurological-diseases-had-low-vitamin-d"
 aliases:
   - "/94+percent+of+children+with+Chronic+Neurological+Diseases+had+low+vitamin+D+–+April+2023"
-  - "/tiki-index.php?page_id=14397"
+  - "/14397"
+tiki_page_id: 14397
 date: 2023-04-25
 categories:
   - "Deficiency of Vitamin D"

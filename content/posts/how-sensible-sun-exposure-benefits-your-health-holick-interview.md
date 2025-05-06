@@ -3,7 +3,8 @@ title: "How Sensible Sun Exposure Benefits Your Health -Holick interview"
 slug: "how-sensible-sun-exposure-benefits-your-health-holick-interview"
 aliases:
   - "/How+Sensible+Sun+Exposure+Benefits+Your+Health+-Holick+interview+May+2022"
-  - "/tiki-index.php?page_id=13615"
+  - "/13615"
+tiki_page_id: 13615
 date: 2022-05-30
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "Recurrent miscarriages decreased by increased Vitamin D levels"
 slug: "recurrent-miscarriages-decreased-by-increased-vitamin-d-levels"
 aliases:
   - "/Recurrent+miscarriages+decreased+by+increased+Vitamin+D+levels+-+Jan+2024"
-  - "/tiki-index.php?page_id=15008"
+  - "/15008"
+tiki_page_id: 15008
 date: 2024-01-29
 categories:
   - "Pregnancy"

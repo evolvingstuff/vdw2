@@ -3,7 +3,8 @@ title: "Vitamin D is associated with 6 genes, 7 receptors, and a new book"
 slug: "vitamin-d-is-associated-with-6-genes-7-receptors-and-a-new-book"
 aliases:
   - "/Vitamin+D+is+associated+with+6+genes+7+receptors+and+a+new+book+-+Oct+2023"
-  - "/tiki-index.php?page_id=14741"
+  - "/14741"
+tiki_page_id: 14741
 date: 2023-10-11
 categories:
   - "Genetics"

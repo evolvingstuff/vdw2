@@ -3,7 +3,8 @@ title: "Pregnancy problems (LBW, PTB, SGA) associated with low vitamin D, 42nd m
 slug: "pregnancy-problems-lbw-ptb-sga-associated-with-low-vitamin-d-42nd-meta-analysis"
 aliases:
   - "/Pregnancy+problems+LBW+PTB+SGA+associated+with+low+vitamin+D+42nd+meta-analysis+–+March+2022"
-  - "/tiki-index.php?page_id=13428"
+  - "/13428"
+tiki_page_id: 13428
 date: 2022-03-24
 categories:
   - "Pregnancy"

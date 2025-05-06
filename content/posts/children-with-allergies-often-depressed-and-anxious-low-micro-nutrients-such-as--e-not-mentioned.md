@@ -3,7 +3,8 @@ title: "Children with allergies often depressed and anxious (low micro-nutrients
 slug: "children-with-allergies-often-depressed-and-anxious-low-micro-nutrients-such-as--e-not-mentioned"
 aliases:
   - "/Children+with+allergies+often+depressed+and+anxious+low+micro-nutrients+such+as+vitamin+D+were+not+mentioned+–+July+2019"
-  - "/tiki-index.php?page_id=10967"
+  - "/10967"
+tiki_page_id: 10967
 date: 2019-07-10
 categories:
   - "Depression"

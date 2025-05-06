@@ -3,7 +3,8 @@ title: "Sudden Infant Deaths (SIDS) soon after vaccination - several studies"
 slug: "sudden-infant-deaths-sids-soon-after-vaccination-several-studies"
 aliases:
   - "/Sudden+Infant+Deaths+SIDS+soon+after+vaccination+-+several+studies"
-  - "/tiki-index.php?page_id=12727"
+  - "/12727"
+tiki_page_id: 12727
 date: 2021-07-08
 categories:
   - "Infant-Child"

@@ -3,7 +3,8 @@ title: "After 57 years FDA is declaring NAC to be a drug (note: 16 trials are in
 slug: "after-57-years-fda-is-declaring-nac-to-be-a-drug-note-16-trials-are-investigatin--fight-covid-19"
 aliases:
   - "/After+57+years+FDA+is+declaring+NAC+to+be+a+drug+note+16+trials+are+investigating+NAC+ability+to+fight+COVID-19+–+June+2021"
-  - "/tiki-index.php?page_id=12664"
+  - "/12664"
+tiki_page_id: 12664
 date: 2021-06-17
 categories:
   - "Virus"

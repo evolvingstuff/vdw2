@@ -3,7 +3,8 @@ title: "Human Leukocyte Antigen (HLA) gene problem is associated with Autism, Vi
 slug: "human-leukocyte-antigen-hla-gene-problem-is-associated-with-autism-vitiligo-t1-diabetes-celiac-etc"
 aliases:
   - "/Human+Leukocyte+Antigen+HLA+gene+problem+is+associated+with+Autism+Vitiligo+T1+Diabetes+Celiac+etc"
-  - "/tiki-index.php?page_id=11368"
+  - "/11368"
+tiki_page_id: 11368
 date: 2019-11-18
 categories:
   - "Autoimmune"

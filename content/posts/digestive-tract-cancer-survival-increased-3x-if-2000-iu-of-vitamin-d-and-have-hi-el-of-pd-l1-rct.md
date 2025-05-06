@@ -3,7 +3,8 @@ title: "Digestive Tract Cancer survival increased 3X if 2,000 IU of vitamin D an
 slug: "digestive-tract-cancer-survival-increased-3x-if-2000-iu-of-vitamin-d-and-have-hi-el-of-pd-l1-rct"
 aliases:
   - "/Digestive+Tract+Cancer+survival+increased+3X+if+2000+IU+of+vitamin+D+and+have+high+level+of+PD-L1+–+RCT+June+2021"
-  - "/tiki-index.php?page_id=12704"
+  - "/12704"
+tiki_page_id: 12704
 date: 2021-06-29
 categories:
   - "Cancer - Colon"

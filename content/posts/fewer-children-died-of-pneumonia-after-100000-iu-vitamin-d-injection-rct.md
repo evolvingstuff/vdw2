@@ -3,7 +3,8 @@ title: "Fewer children died of pneumonia after 100,000 IU Vitamin D injection â€
 slug: "fewer-children-died-of-pneumonia-after-100000-iu-vitamin-d-injection-rct"
 aliases:
   - "/Fewer+children+died+of+pneumonia+after+100000+IU+Vitamin+D+injection+â€“+RCT+March+2021"
-  - "/tiki-index.php?page_id=12462"
+  - "/12462"
+tiki_page_id: 12462
 date: 2021-03-31
 categories:
   - "Immunity"

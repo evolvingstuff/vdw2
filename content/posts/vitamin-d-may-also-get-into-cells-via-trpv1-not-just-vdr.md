@@ -3,7 +3,8 @@ title: "Vitamin D may also get into cells via TRPV1 (not just VDR)"
 slug: "vitamin-d-may-also-get-into-cells-via-trpv1-not-just-vdr"
 aliases:
   - "/Vitamin+D+may+also+get+into+cells+via+TRPV1+not+just+VDR+–+April+2021"
-  - "/tiki-index.php?page_id=12480"
+  - "/12480"
+tiki_page_id: 12480
 date: 2021-04-07
 categories:
   - "Vitamin D Receptor"

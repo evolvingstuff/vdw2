@@ -3,7 +3,8 @@ title: "COVID-19 risk reduction by Vitamin D, etc. - Grassroots Health"
 slug: "covid-19-risk-reduction-by-vitamin-d-etc-grassroots-health"
 aliases:
   - "/COVID-19+risk+reduction+by+Vitamin+D+etc+-+Grassroots+Health+Nov+29+2021"
-  - "/tiki-index.php?page_id=13125"
+  - "/13125"
+tiki_page_id: 13125
 date: 2021-11-29
 categories:
   - "Virus"

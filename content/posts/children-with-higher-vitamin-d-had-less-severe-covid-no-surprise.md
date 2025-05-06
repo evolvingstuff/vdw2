@@ -3,7 +3,8 @@ title: "Children with higher Vitamin D had less severe COVID (no surprise)"
 slug: "children-with-higher-vitamin-d-had-less-severe-covid-no-surprise"
 aliases:
   - "/Children+with+higher+Vitamin+D+had+less+severe+COVID+no+surprise+–+April+2022"
-  - "/tiki-index.php?page_id=13504"
+  - "/13504"
+tiki_page_id: 13504
 date: 2022-04-20
 categories:
   - "Infant-Child"

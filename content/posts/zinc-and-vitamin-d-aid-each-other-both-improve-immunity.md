@@ -3,7 +3,8 @@ title: "Zinc and Vitamin D aid each other, both improve immunity"
 slug: "zinc-and-vitamin-d-aid-each-other-both-improve-immunity"
 aliases:
   - "/Zinc+and+Vitamin+D+aid+each+other+both+improve+immunity+–+May+2022"
-  - "/tiki-index.php?page_id=13545"
+  - "/13545"
+tiki_page_id: 13545
 date: 2022-05-06
 categories:
   - "Zinc"

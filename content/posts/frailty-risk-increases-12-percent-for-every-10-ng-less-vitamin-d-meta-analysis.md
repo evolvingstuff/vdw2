@@ -3,7 +3,8 @@ title: "Frailty risk increases 12 percent for every 10 ng less vitamin D – met
 slug: "frailty-risk-increases-12-percent-for-every-10-ng-less-vitamin-d-meta-analysis"
 aliases:
   - "/Frailty+risk+increases+12+percent+for+every+10+ng+less+vitamin+D+–+meta-analysis+Sept+2018"
-  - "/tiki-index.php?page_id=10010"
+  - "/10010"
+tiki_page_id: 10010
 date: 2018-09-06
 categories:
   - "Seniors"

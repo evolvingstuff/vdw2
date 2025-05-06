@@ -3,7 +3,8 @@ title: "COVID-19 has hit populist-lead countries hard (India, Brazil, US, UK, Me
 slug: "covid-19-has-hit-populist-lead-countries-hard-india-brazil-us-uk-mexico"
 aliases:
   - "/COVID-19+has+hit+populist-lead+countries+hard+India+Brazil+US+UK+Mexico+–+May+2021"
-  - "/tiki-index.php?page_id=12575"
+  - "/12575"
+tiki_page_id: 12575
 date: 2021-05-09
 categories:
   - "Virus"

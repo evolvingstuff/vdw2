@@ -3,7 +3,8 @@ title: "Discussion of COVID and 50 ng of Vitamin D (video and transcript)– Dr.
 slug: "discussion-of-covid-and-50-ng-of-vitamin-d-video-and-transcript-dr-campbell"
 aliases:
   - "/Discussion+of+COVID+and+50+ng+of+Vitamin+D+video+and+transcript–+Dr+Campbell+Nov+17+2021"
-  - "/tiki-index.php?page_id=13093"
+  - "/13093"
+tiki_page_id: 13093
 date: 2021-11-18
 categories:
   - "Books, videos on Vitamin D"

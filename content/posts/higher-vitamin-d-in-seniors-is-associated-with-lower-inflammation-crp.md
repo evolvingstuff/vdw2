@@ -3,7 +3,8 @@ title: "Higher Vitamin D in seniors is associated with lower Inflammation (CRP)"
 slug: "higher-vitamin-d-in-seniors-is-associated-with-lower-inflammation-crp"
 aliases:
   - "/Higher+Vitamin+D+in+seniors+is+associated+with+lower+Inflammation+CRP+–+June+2023"
-  - "/tiki-index.php?page_id=14505"
+  - "/14505"
+tiki_page_id: 14505
 date: 2023-07-01
 categories:
   - "Inflammation"

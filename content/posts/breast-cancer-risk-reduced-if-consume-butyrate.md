@@ -3,7 +3,8 @@ title: "Breast Cancer risk reduced if consume butyrate"
 slug: "breast-cancer-risk-reduced-if-consume-butyrate"
 aliases:
   - "/Breast+Cancer+risk+reduced+if+consume+butyrate+-+Dec+2023"
-  - "/tiki-index.php?page_id=14953"
+  - "/14953"
+tiki_page_id: 14953
 date: 2024-01-06
 categories:
   - "Cancer - Breast"

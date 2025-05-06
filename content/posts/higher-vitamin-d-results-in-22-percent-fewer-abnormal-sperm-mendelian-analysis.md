@@ -3,7 +3,8 @@ title: "Higher vitamin D results in 22% fewer abnormal sperm (Mendelian analysis
 slug: "higher-vitamin-d-results-in-22-percent-fewer-abnormal-sperm-mendelian-analysis"
 aliases:
   - "/Higher+vitamin+D+results+in+22+fewer+abnormal+sperm+Mendelian+analysis+–+May+2024"
-  - "/tiki-index.php?page_id=15236"
+  - "/15236"
+tiki_page_id: 15236
 date: 2024-04-24
 categories:
   - "Fertility and sperm"

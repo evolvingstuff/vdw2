@@ -3,7 +3,8 @@ title: "Low Vitamin D is associated with ill health for seniors – review"
 slug: "low-vitamin-d-is-associated-with-ill-health-for-seniors-review"
 aliases:
   - "/Low+Vitamin+D+is+associated+with+ill+health+for+seniors+–+review+Oct+2019"
-  - "/tiki-index.php?page_id=11490"
+  - "/11490"
+tiki_page_id: 11490
 date: 2019-12-23
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Increased incidence of 7 cancers if live far from equator (if not take v
 slug: "increased-incidence-of-7-cancers-if-live-far-from-equator-if-not-take-vitamin-d"
 aliases:
   - "/Increased+incidence+of+7+cancers+if+live+far+from+equator+if+not+take+vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10566"
+  - "/10566"
+tiki_page_id: 10566
 date: 2019-03-14
 categories:
   - "Cancer - Colon"

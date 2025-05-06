@@ -3,7 +3,8 @@ title: "Vitamin D levels from lowest to highest: Middle East, China. India, S EU
 slug: "vitamin-d-levels-from-lowest-to-highest-middle-east-china-india-s-eu-n-eu"
 aliases:
   - "/Vitamin+D+levels+from+lowest+to+highest+Middle+East+China+India+S+EU+N+EU+–+Dec+2019"
-  - "/tiki-index.php?page_id=11413"
+  - "/11413"
+tiki_page_id: 11413
 date: 2019-12-02
 categories:
   - "Deficiency of Vitamin D"

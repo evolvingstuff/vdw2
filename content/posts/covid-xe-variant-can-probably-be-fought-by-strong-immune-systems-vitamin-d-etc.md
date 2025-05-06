@@ -3,7 +3,8 @@ title: "COVID-XE variant can probably be fought by strong immune systems (Vitami
 slug: "covid-xe-variant-can-probably-be-fought-by-strong-immune-systems-vitamin-d-etc"
 aliases:
   - "/COVID-XE+variant+can+probably+be+fought+by+strong+immune+systems+Vitamin+D+etc+-+April+2022"
-  - "/tiki-index.php?page_id=13449"
+  - "/13449"
+tiki_page_id: 13449
 date: 2022-04-04
 categories:
   - "Virus"

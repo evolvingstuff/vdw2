@@ -3,7 +3,8 @@ title: "Depression less likely if more Vitamin D (12 percent per 10 ng) – meta
 slug: "depression-less-likely-if-more-vitamin-d-12-percent-per-10-ng-meta-analysis"
 aliases:
   - "/Depression+less+likely+if+more+Vitamin+D+12+percent+per+10+ng+–+meta-analysis+July+2019"
-  - "/tiki-index.php?page_id=10999"
+  - "/10999"
+tiki_page_id: 10999
 date: 2019-07-17
 categories:
   - "Depression"

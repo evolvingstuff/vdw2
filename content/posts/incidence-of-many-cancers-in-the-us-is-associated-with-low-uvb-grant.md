@@ -3,7 +3,8 @@ title: "Incidence of many cancers in the US is associated with low UVB - Grant"
 slug: "incidence-of-many-cancers-in-the-us-is-associated-with-low-uvb-grant"
 aliases:
   - "/Incidence+of+many+cancers+in+the+US+is+associated+with+low+UVB+-+Grant+April+2024"
-  - "/tiki-index.php?page_id=15238"
+  - "/15238"
+tiki_page_id: 15238
 date: 2024-04-24
 categories:
   - "UV and Vitamin D"

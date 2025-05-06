@@ -3,7 +3,8 @@ title: "US COVID variants (including XBB.1.5)"
 slug: "us-covid-variants-including-xbb15"
 aliases:
   - "/US+COVID+variants+including+XBB15+-+Jan+2022"
-  - "/tiki-index.php?page_id=14186"
+  - "/14186"
+tiki_page_id: 14186
 date: 2023-01-03
 categories:
   - "Virus"

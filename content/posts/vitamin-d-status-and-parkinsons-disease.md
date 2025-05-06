@@ -3,7 +3,8 @@ title: "Vitamin D Status and Parkinson’s Disease"
 slug: "vitamin-d-status-and-parkinsons-disease"
 aliases:
   - "/Vitamin+D+Status+and+Parkinsons+Disease+-+June+2022"
-  - "/tiki-index.php?page_id=14168"
+  - "/14168"
+tiki_page_id: 14168
 date: 2022-12-24
 categories:
   - "Parkinson"

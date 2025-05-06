@@ -3,7 +3,8 @@ title: "Bone worse after COVID - several studies"
 slug: "bone-worse-after-covid-several-studies"
 aliases:
   - "/Bone+worse+after+COVID+-+several+studies"
-  - "/tiki-index.php?page_id=14829"
+  - "/14829"
+tiki_page_id: 14829
 date: 2023-11-22
 categories:
   - "Bone - Health"

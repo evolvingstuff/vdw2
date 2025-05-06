@@ -3,7 +3,8 @@ title: "COVID-19 cases increased in 26 countries soon after vaccinations - April
 slug: "covid-19-cases-increased-in-26-countries-soon-after-vaccinations-april"
 aliases:
   - "/COVID-19+cases+increased+in+26+countries+soon+after+vaccinations+-+April+May+2021"
-  - "/tiki-index.php?page_id=12542"
+  - "/12542"
+tiki_page_id: 12542
 date: 2021-04-27
 categories:
   - "Virus"

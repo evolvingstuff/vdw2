@@ -3,7 +3,8 @@ title: "Childhood Dental Caries about 2X more likely if Vitamin D is less than 2
 slug: "childhood-dental-caries-about-2x-more-likely-if-vitamin-d-is-less-than-20-ng-review"
 aliases:
   - "/Childhood+Dental+Caries+about+2X+more+likely+if+Vitamin+D+is+less+than+20+ng+–+review+April+2024"
-  - "/tiki-index.php?page_id=15237"
+  - "/15237"
+tiki_page_id: 15237
 date: 2024-04-24
 categories:
   - "Dental"

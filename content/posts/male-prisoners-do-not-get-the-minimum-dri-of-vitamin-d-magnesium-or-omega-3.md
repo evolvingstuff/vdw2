@@ -3,7 +3,8 @@ title: "Male prisoners do not get the minimum DRI of Vitamin D, Magnesium, or Om
 slug: "male-prisoners-do-not-get-the-minimum-dri-of-vitamin-d-magnesium-or-omega-3"
 aliases:
   - "/Male+prisoners+do+not+get+the+minimum+DRI+of+Vitamin+D+Magnesium+or+Omega-3+-+Aug+2022"
-  - "/tiki-index.php?page_id=13818"
+  - "/13818"
+tiki_page_id: 13818
 date: 2022-08-02
 ---
 

@@ -3,7 +3,8 @@ title: "Off Topic: 43 anti-science things in pandemic era"
 slug: "off-topic-43-anti-science-things-in-pandemic-era"
 aliases:
   - "/Off+Topic+43+anti-science+things+in+pandemic+era"
-  - "/tiki-index.php?page_id=14007"
+  - "/14007"
+tiki_page_id: 14007
 date: 2022-10-13
 categories:
   - "Off Topic"

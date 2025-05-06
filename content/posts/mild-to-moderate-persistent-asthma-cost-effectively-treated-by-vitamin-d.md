@@ -3,7 +3,8 @@ title: "Mild to moderate persistent asthma cost-effectively treated by Vitamin D
 slug: "mild-to-moderate-persistent-asthma-cost-effectively-treated-by-vitamin-d"
 aliases:
   - "/Mild+to+moderate+persistent+asthma+cost-effectively+treated+by+Vitamin+D+–+Aug+2022"
-  - "/tiki-index.php?page_id=13820"
+  - "/13820"
+tiki_page_id: 13820
 date: 2022-08-03
 categories:
   - "Breathing"

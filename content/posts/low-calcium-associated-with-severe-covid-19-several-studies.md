@@ -3,7 +3,8 @@ title: "Low Calcium associated with severe COVID-19 – several studies"
 slug: "low-calcium-associated-with-severe-covid-19-several-studies"
 aliases:
   - "/Low+Calcium+associated+with+severe+COVID-19+–+several+studies"
-  - "/tiki-index.php?page_id=12498"
+  - "/12498"
+tiki_page_id: 12498
 date: 2021-04-14
 categories:
   - "Vitamin D and Calcium"

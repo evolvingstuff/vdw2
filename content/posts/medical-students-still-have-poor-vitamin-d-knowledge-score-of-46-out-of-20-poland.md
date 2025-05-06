@@ -3,7 +3,8 @@ title: "Medical students still have poor Vitamin D knowledge (score of 4.6 out o
 slug: "medical-students-still-have-poor-vitamin-d-knowledge-score-of-46-out-of-20-poland"
 aliases:
   - "/Medical+students+still+have+poor+Vitamin+D+knowledge+score+of+46+out+of+20+–+Poland+–+Sept+2018"
-  - "/tiki-index.php?page_id=10145"
+  - "/10145"
+tiki_page_id: 10145
 date: 2018-10-20
 categories:
   - "Overview for doctors"

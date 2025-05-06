@@ -3,7 +3,8 @@ title: "Parkinson’s disease 1.6X more likely if a poor Vitamin D Receptor – 
 slug: "parkinsons-disease-16x-more-likely-if-a-poor-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Parkinsons+disease+16X+more+likely+if+a+poor+Vitamin+D+Receptor+–+meta-analysis+Jan+2020"
-  - "/tiki-index.php?page_id=11595"
+  - "/11595"
+tiki_page_id: 11595
 date: 2020-01-28
 categories:
   - "Parkinson"

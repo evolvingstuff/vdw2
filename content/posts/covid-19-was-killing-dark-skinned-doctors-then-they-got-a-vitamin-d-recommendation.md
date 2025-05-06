@@ -3,7 +3,8 @@ title: "COVID-19 was killing dark-skinned doctors, then they got a Vitamin D rec
 slug: "covid-19-was-killing-dark-skinned-doctors-then-they-got-a-vitamin-d-recommendation"
 aliases:
   - "/COVID-19+was+killing+dark-skinned+doctors+then+they+got+a+Vitamin+D+recommendation"
-  - "/tiki-index.php?page_id=12025"
+  - "/12025"
+tiki_page_id: 12025
 date: 2020-10-27
 categories:
   - "Skin - Dark"

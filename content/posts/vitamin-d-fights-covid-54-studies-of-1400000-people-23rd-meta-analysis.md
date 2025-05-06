@@ -3,7 +3,8 @@ title: "Vitamin D fights COVID (54 studies of 1,400,000 people) – 23rd meta-an
 slug: "vitamin-d-fights-covid-54-studies-of-1400000-people-23rd-meta-analysis"
 aliases:
   - "/Vitamin+D+fights+COVID+54+studies+of+1400000+people+–+23rd+meta-analysis+-+Dec+2021"
-  - "/tiki-index.php?page_id=13245"
+  - "/13245"
+tiki_page_id: 13245
 date: 2022-01-10
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "Oldest Chinese with low Vitamin D were more likely to die"
 slug: "oldest-chinese-with-low-vitamin-d-were-more-likely-to-die"
 aliases:
   - "/Oldest+Chinese+with+low+Vitamin+D+were+more+likely+to+die+–+Oct+2021"
-  - "/tiki-index.php?page_id=12957"
+  - "/12957"
+tiki_page_id: 12957
 date: 2021-10-06
 categories:
   - "Seniors"

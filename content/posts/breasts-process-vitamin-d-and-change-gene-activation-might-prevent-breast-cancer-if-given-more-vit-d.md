@@ -3,7 +3,8 @@ title: "Breasts process Vitamin D and change gene activation, might prevent brea
 slug: "breasts-process-vitamin-d-and-change-gene-activation-might-prevent-breast-cancer-if-given-more-vit-d"
 aliases:
   - "/Breasts+process+Vitamin+D+and+change+gene+activation+might+prevent+breast+cancer+if+given+more+Vit+D+–+July+2021"
-  - "/tiki-index.php?page_id=12731"
+  - "/12731"
+tiki_page_id: 12731
 date: 2021-07-10
 categories:
   - "Cancer - Breast"

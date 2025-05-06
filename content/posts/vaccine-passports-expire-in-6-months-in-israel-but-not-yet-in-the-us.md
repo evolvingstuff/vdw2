@@ -3,7 +3,8 @@ title: "Vaccine passports expire in 6 months in Israel, but not (yet) in the US"
 slug: "vaccine-passports-expire-in-6-months-in-israel-but-not-yet-in-the-us"
 aliases:
   - "/Vaccine+passports+expire+in+6+months+in+Israel+but+not+yet+in+the+US+-+Oct+2021"
-  - "/tiki-index.php?page_id=13064"
+  - "/13064"
+tiki_page_id: 13064
 date: 2021-11-09
 categories:
   - "Top news"

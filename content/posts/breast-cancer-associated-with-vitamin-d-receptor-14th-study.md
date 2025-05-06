@@ -3,7 +3,8 @@ title: "Breast cancer associated with Vitamin D Receptor (14th study)"
 slug: "breast-cancer-associated-with-vitamin-d-receptor-14th-study"
 aliases:
   - "/Breast+cancer+associated+with+Vitamin+D+Receptor+14th+study+–+Oct+2019"
-  - "/tiki-index.php?page_id=11249"
+  - "/11249"
+tiki_page_id: 11249
 date: 2019-10-19
 categories:
   - "Cancer - Breast"

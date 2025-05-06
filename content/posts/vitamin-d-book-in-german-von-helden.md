@@ -3,7 +3,8 @@ title: "Vitamin D book in German - Von Helden"
 slug: "vitamin-d-book-in-german-von-helden"
 aliases:
   - "/Vitamin+D+book+in+German+-+Von+Helden+Feb+2020"
-  - "/tiki-index.php?page_id=11592"
+  - "/11592"
+tiki_page_id: 11592
 date: 2020-01-26
 categories:
   - "Books, videos on Vitamin D"

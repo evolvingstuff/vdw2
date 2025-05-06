@@ -3,7 +3,8 @@ title: "Vitamin D reduces RTI, Omega-3 reduces wheezing or asthma"
 slug: "vitamin-d-reduces-rti-omega-3-reduces-wheezing-or-asthma"
 aliases:
   - "/Vitamin+D+reduces+RTI+Omega-3+reduces+wheezing+or+asthma+–+March+2022"
-  - "/tiki-index.php?page_id=13470"
+  - "/13470"
+tiki_page_id: 13470
 date: 2022-04-11
 categories:
   - "Breathing"

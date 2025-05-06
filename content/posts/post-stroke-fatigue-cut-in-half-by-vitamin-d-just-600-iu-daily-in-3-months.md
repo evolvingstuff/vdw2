@@ -3,7 +3,8 @@ title: "Post-stroke fatigue cut in half by Vitamin D (just 600 IU daily in 3 mon
 slug: "post-stroke-fatigue-cut-in-half-by-vitamin-d-just-600-iu-daily-in-3-months"
 aliases:
   - "/Post-stroke+fatigue+cut+in+half+by+Vitamin+D+just+600+IU+daily+in+3+months+–+Nov+2021"
-  - "/tiki-index.php?page_id=13104"
+  - "/13104"
+tiki_page_id: 13104
 date: 2021-11-22
 categories:
   - "Intervention"

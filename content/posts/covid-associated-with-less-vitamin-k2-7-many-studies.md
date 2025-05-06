@@ -3,7 +3,8 @@ title: "COVID associated with less Vitamin K2-7 - many studies"
 slug: "covid-associated-with-less-vitamin-k2-7-many-studies"
 aliases:
   - "/COVID+associated+with+less+Vitamin+K2-7+-+many+studies"
-  - "/tiki-index.php?page_id=14863"
+  - "/14863"
+tiki_page_id: 14863
 date: 2023-12-05
 categories:
   - "Vitamin D and Vitamin K"

@@ -3,7 +3,8 @@ title: "Poor blood-brain barrier following stroke if low vitamin D (in rats) –
 slug: "poor-blood-brain-barrier-following-stroke-if-low-vitamin-d-in-rats-rct"
 aliases:
   - "/Poor+blood-brain+barrier+following+stroke+if+low+vitamin+D+in+rats+–+RCT+Feb+2019"
-  - "/tiki-index.php?page_id=10256"
+  - "/10256"
+tiki_page_id: 10256
 date: 2018-12-01
 categories:
   - "Stroke"

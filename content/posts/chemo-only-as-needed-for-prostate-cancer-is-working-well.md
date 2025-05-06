@@ -3,7 +3,8 @@ title: "Chemo only as needed for Prostate Cancer is working well"
 slug: "chemo-only-as-needed-for-prostate-cancer-is-working-well"
 aliases:
   - "/Chemo+only+as+needed+for+Prostate+Cancer+is+working+well+-+March+2019"
-  - "/tiki-index.php?page_id=10626"
+  - "/10626"
+tiki_page_id: 10626
 date: 2019-03-28
 categories:
   - "Cancer - Prostate"

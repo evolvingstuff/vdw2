@@ -3,7 +3,8 @@ title: "1 in 3 have a Postpartum health problem (many are associated with low Vi
 slug: "1-in-3-have-a-postpartum-health-problem-many-are-associated-with-low-vitamin-d"
 aliases:
   - "/1+in+3+have+a+Postpartum+health+problem+many+are+associated+with+low+Vitamin+D+-+Dec+2023"
-  - "/tiki-index.php?page_id=14931"
+  - "/14931"
+tiki_page_id: 14931
 date: 2023-12-29
 ---
 

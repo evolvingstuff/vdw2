@@ -3,7 +3,8 @@ title: "Bone STRENGTH improved by 2800 IU of Vitamin D (not bone density) – RC
 slug: "bone-strength-improved-by-2800-iu-of-vitamin-d-not-bone-density-rct"
 aliases:
   - "/Bone+STRENGTH+improved+by+2800+IU+of+Vitamin+D+not+bone+density+–+RCT+Oct+2018"
-  - "/tiki-index.php?page_id=10092"
+  - "/10092"
+tiki_page_id: 10092
 date: 2018-10-06
 categories:
   - "Bone - Health"

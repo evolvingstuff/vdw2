@@ -3,7 +3,8 @@ title: "7X less likely to go to ICU if COVID-19 ward gave calcifediol (semi-acti
 slug: "7x-less-likely-to-go-to-icu-if-covid-19-ward-gave-calcifediol-semi-activated-vitamin-d"
 aliases:
   - "/7X+less+likely+to+go+to+ICU+if+COVID-19+ward+gave+calcifediol+semi-activated+Vitamin+D+–+July+2021"
-  - "/tiki-index.php?page_id=12723"
+  - "/12723"
+tiki_page_id: 12723
 date: 2021-07-07
 categories:
   - "Virus"

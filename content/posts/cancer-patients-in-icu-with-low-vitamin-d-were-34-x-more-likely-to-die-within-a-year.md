@@ -3,7 +3,8 @@ title: "Cancer patients in ICU with low vitamin D were 3.4 X more likely to die 
 slug: "cancer-patients-in-icu-with-low-vitamin-d-were-34-x-more-likely-to-die-within-a-year"
 aliases:
   - "/Cancer+patients+in+ICU+with+low+vitamin+D+were+34+X+more+likely+to+die+within+a+year+–+Dec+2020"
-  - "/tiki-index.php?page_id=12187"
+  - "/12187"
+tiki_page_id: 12187
 date: 2020-12-31
 categories:
   - "Mortality and D"

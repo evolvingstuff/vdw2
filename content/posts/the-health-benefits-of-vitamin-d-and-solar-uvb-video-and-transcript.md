@@ -3,7 +3,8 @@ title: "The Health Benefits of Vitamin D and Solar UVB (video and transcript)"
 slug: "the-health-benefits-of-vitamin-d-and-solar-uvb-video-and-transcript"
 aliases:
   - "/The+Health+Benefits+of+Vitamin+D+and+Solar+UVB+video+and+transcript+-+March+2021"
-  - "/tiki-index.php?page_id=12417"
+  - "/12417"
+tiki_page_id: 12417
 date: 2021-03-17
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "100 facts about Vitamin D (deficiency, health problems, D helps)"
 slug: "100-facts-about-vitamin-d-deficiency-health-problems-d-helps"
 aliases:
   - "/100+facts+about+Vitamin+D+deficiency+health+problems+D+helps+-+July+2022"
-  - "/tiki-index.php?page_id=13839"
+  - "/13839"
+tiki_page_id: 13839
 date: 2022-08-12
 ---
 

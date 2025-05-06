@@ -3,7 +3,8 @@ title: "Vitamin D videos at Grassroots Health"
 slug: "vitamin-d-videos-at-grassroots-health"
 aliases:
   - "/Vitamin+D+videos+at+Grassroots+Health"
-  - "/tiki-index.php?page_id=12466"
+  - "/12466"
+tiki_page_id: 12466
 date: 2021-04-02
 categories:
   - "Books, videos on Vitamin D"

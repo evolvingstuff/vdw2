@@ -3,7 +3,8 @@ title: "Calcidiol quickly raises vitamin D level in pigs, but does not appear to
 slug: "calcidiol-quickly-raises-vitamin-d-level-in-pigs-but-does-not-appear-to-provide-any-benefits"
 aliases:
   - "/Calcidiol+quickly+raises+vitamin+D+level+in+pigs+but+does+not+appear+to+provide+any+benefits+–+Aug+2022"
-  - "/tiki-index.php?page_id=13882"
+  - "/13882"
+tiki_page_id: 13882
 date: 2022-09-01
 categories:
   - "Calcidiol"

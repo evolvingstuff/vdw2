@@ -3,7 +3,8 @@ title: "Prostate cancer patients in Jamaica were 5X more likely to die of PC if 
 slug: "prostate-cancer-patients-in-jamaica-were-5x-more-likely-to-die-of-pc-if-low-vitamin-d"
 aliases:
   - "/Prostate+cancer+patients+in+Jamaica+were+5X+more+likely+to+die+of+PC+if+low+vitamin+D+-+Sept+2022"
-  - "/tiki-index.php?page_id=13960"
+  - "/13960"
+tiki_page_id: 13960
 date: 2022-10-01
 categories:
   - "Skin - Dark"

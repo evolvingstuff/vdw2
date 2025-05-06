@@ -3,7 +3,8 @@ title: "Off topic: Skin aging reversed with by oral collagen – trials and revi
 slug: "off-topic-skin-aging-reversed-with-by-oral-collagen-trials-and-reviews"
 aliases:
   - "/Off+topic+Skin+aging+reversed+with+by+oral+collagen+–+trials+and+reviews"
-  - "/tiki-index.php?page_id=10559"
+  - "/10559"
+tiki_page_id: 10559
 date: 2019-03-10
 categories:
   - "Off Topic"

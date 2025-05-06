@@ -3,7 +3,8 @@ title: "Vitamin D and Vitamin K intervention trials - many studies"
 slug: "vitamin-d-and-vitamin-k-intervention-trials-many-studies"
 aliases:
   - "/Vitamin+D+and+Vitamin+K+intervention+trials+-+many+studies"
-  - "/tiki-index.php?page_id=13952"
+  - "/13952"
+tiki_page_id: 13952
 date: 2022-09-29
 categories:
   - "Intervention"

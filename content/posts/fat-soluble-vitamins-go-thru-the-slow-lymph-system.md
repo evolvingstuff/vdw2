@@ -3,7 +3,8 @@ title: "Fat-soluble Vitamins go thru the slow lymph system"
 slug: "fat-soluble-vitamins-go-thru-the-slow-lymph-system"
 aliases:
   - "/Fat-soluble+Vitamins+go+thru+the+slow+lymph+system"
-  - "/tiki-index.php?page_id=15200"
+  - "/15200"
+tiki_page_id: 15200
 date: 2024-04-09
 categories:
   - "Forms of Vitamin D"

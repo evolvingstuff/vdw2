@@ -3,7 +3,8 @@ title: "UVB Kiosk used for 10 weeks raised Vitamin D level the same as a 25 cent
 slug: "uvb-kiosk-used-for-10-weeks-raised-vitamin-d-level-the-same-as-a-25-cents-pill"
 aliases:
   - "/UVB+Kiosk+used+for+10+weeks+raised+Vitamin+D+level+the+same+as+a+25+cents+pill+-+Jan+2021"
-  - "/tiki-index.php?page_id=12268"
+  - "/12268"
+tiki_page_id: 12268
 date: 2021-01-27
 categories:
   - "UV and Vitamin D"

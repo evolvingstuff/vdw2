@@ -3,7 +3,8 @@ title: "Dietary Recommendations for COVID Long-Haul"
 slug: "dietary-recommendations-for-covid-long-haul"
 aliases:
   - "/Dietary+Recommendations+for+COVID+Long-Haul+–+March+2022"
-  - "/tiki-index.php?page_id=13417"
+  - "/13417"
+tiki_page_id: 13417
 date: 2022-03-20
 categories:
   - "Virus"

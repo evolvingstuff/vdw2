@@ -3,7 +3,8 @@ title: "Those with Parkinson's disease should take vitamin D to reduce COVID-19 
 slug: "those-with-parkinsons-disease-should-take-vitamin-d-to-reduce-covid-19-risk"
 aliases:
   - "/Those+with+Parkinsons+disease+should+take+vitamin+D+to+reduce+COVID-19+risk+-+June+2021"
-  - "/tiki-index.php?page_id=12648"
+  - "/12648"
+tiki_page_id: 12648
 date: 2021-06-11
 categories:
   - "Parkinson"

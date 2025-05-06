@@ -3,7 +3,8 @@ title: "Why Mendelian randomization fails with Vitamin D"
 slug: "why-mendelian-randomization-fails-with-vitamin-d"
 aliases:
   - "/Why+Mendelian+randomization+fails+with+Vitamin+D+–+March+2021"
-  - "/tiki-index.php?page_id=12444"
+  - "/12444"
+tiki_page_id: 12444
 date: 2021-03-26
 categories:
   - "Genetics"

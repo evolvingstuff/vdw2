@@ -3,7 +3,8 @@ title: "US IRS now favors drugs over wellness"
 slug: "us-irs-now-favors-drugs-over-wellness"
 aliases:
   - "/US+IRS+now+favors+drugs+over+wellness+-+March+2024"
-  - "/tiki-index.php?page_id=15152"
+  - "/15152"
+tiki_page_id: 15152
 date: 2024-03-19
 categories:
   - "Health"

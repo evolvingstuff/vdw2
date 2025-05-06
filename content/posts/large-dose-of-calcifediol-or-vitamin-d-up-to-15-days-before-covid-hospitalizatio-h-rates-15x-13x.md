@@ -3,7 +3,8 @@ title: "Large dose of calcifediol or vitamin D up to 15 days before COVID hospit
 slug: "large-dose-of-calcifediol-or-vitamin-d-up-to-15-days-before-covid-hospitalizatio-h-rates-15x-13x"
 aliases:
   - "/Large+dose+of+calcifediol+or+vitamin+D+up+to+15+days+before+COVID+hospitalization+reduced+death+rates+15X+13X+–+Dec+2021"
-  - "/tiki-index.php?page_id=13142"
+  - "/13142"
+tiki_page_id: 13142
 date: 2021-12-04
 categories:
   - "Virus"

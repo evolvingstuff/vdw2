@@ -3,7 +3,8 @@ title: "COVID kids were more likely to have a poor VDR (4.3 X), than low Vitamin
 slug: "covid-kids-were-more-likely-to-have-a-poor-vdr-43-x-than-low-vitamin-d-26-x"
 aliases:
   - "/COVID+kids+were+more+likely+to+have+a+poor+VDR+43+X+than+low+Vitamin+D+26+X+–+Sept+2022"
-  - "/tiki-index.php?page_id=13901"
+  - "/13901"
+tiki_page_id: 13901
 date: 2022-09-11
 categories:
   - "Infant-Child"

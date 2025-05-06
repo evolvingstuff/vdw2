@@ -3,7 +3,8 @@ title: "Cardiovascular Disease is treated by Vitamin D - many studies"
 slug: "cardiovascular-disease-is-treated-by-vitamin-d-many-studies"
 aliases:
   - "/Cardiovascular+Disease+is+treated+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=12983"
+  - "/12983"
+tiki_page_id: 12983
 date: 2021-10-14
 categories:
   - "Cardiovascular"

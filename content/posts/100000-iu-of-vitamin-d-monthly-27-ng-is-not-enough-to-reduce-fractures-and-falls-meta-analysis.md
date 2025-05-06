@@ -3,7 +3,8 @@ title: "100,000 IU of Vitamin D monthly (27 ng) is not enough to reduce fracture
 slug: "100000-iu-of-vitamin-d-monthly-27-ng-is-not-enough-to-reduce-fractures-and-falls-meta-analysis"
 aliases:
   - "/100000+IU+of+Vitamin+D+monthly+27+ng+is+not+enough+to+reduce+fractures+and+falls+–+meta-analysis+April+2024"
-  - "/tiki-index.php?page_id=15212"
+  - "/15212"
+tiki_page_id: 15212
 date: 2024-04-14
 categories:
   - "Meta-analysis of Vitamin D"

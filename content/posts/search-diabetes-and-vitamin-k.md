@@ -3,7 +3,8 @@ title: "Search Diabetes and Vitamin K"
 slug: "search-diabetes-and-vitamin-k"
 aliases:
   - "/Search+Diabetes+and+Vitamin+K"
-  - "/tiki-index.php?page_id=11049"
+  - "/11049"
+tiki_page_id: 11049
 date: 2019-08-07
 ---
 

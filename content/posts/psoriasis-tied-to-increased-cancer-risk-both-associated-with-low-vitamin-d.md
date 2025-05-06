@@ -3,7 +3,8 @@ title: "Psoriasis Tied to Increased Cancer Risk (both associated with Low Vitami
 slug: "psoriasis-tied-to-increased-cancer-risk-both-associated-with-low-vitamin-d"
 aliases:
   - "/Psoriasis+Tied+to+Increased+Cancer+Risk+both+associated+with+Low+Vitamin+d+-+Oct+2019"
-  - "/tiki-index.php?page_id=11238"
+  - "/11238"
+tiki_page_id: 11238
 date: 2019-10-16
 categories:
   - "Psoriasis"

@@ -3,7 +3,8 @@ title: "COVID 3X less likely if Xyilotol nasal spray 3X per day – RCT"
 slug: "covid-3x-less-likely-if-xyilotol-nasal-spray-3x-per-day-rct"
 aliases:
   - "/COVID+3X+less+likely+if+Xyilotol+nasal+spray+3X+per+day+–+RCT+Dec+2022"
-  - "/tiki-index.php?page_id=14285"
+  - "/14285"
+tiki_page_id: 14285
 date: 2023-02-24
 categories:
   - "Virus"

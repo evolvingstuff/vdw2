@@ -3,7 +3,8 @@ title: "Type 2 Diabetes treated by Vitamin D (often 50,000 IU weekly) – meta-a
 slug: "type-2-diabetes-treated-by-vitamin-d-often-50000-iu-weekly-meta-analysis"
 aliases:
   - "/Type+2+Diabetes+treated+by+Vitamin+D+often+50000+IU+weekly+–+meta-analysis+July+2023"
-  - "/tiki-index.php?page_id=14623"
+  - "/14623"
+tiki_page_id: 14623
 date: 2023-08-21
 categories:
   - "Diabetes"

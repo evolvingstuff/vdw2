@@ -3,7 +3,8 @@ title: "Low Vitamin D may be associated with 90 percent of COVID-19 Deaths (comm
 slug: "low-vitamin-d-may-be-associated-with-90-percent-of-covid-19-deaths-comment-on-german-study"
 aliases:
   - "/Low+Vitamin+D+may+be+associated+with+90+percent+of+COVID-19+Deaths+comment+on+German+study+–+Nov+2020"
-  - "/tiki-index.php?page_id=12092"
+  - "/12092"
+tiki_page_id: 12092
 date: 2020-11-27
 categories:
   - "Virus"

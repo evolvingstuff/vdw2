@@ -3,7 +3,8 @@ title: "COVID-19 prognostic indicators in plasma extrapolate to zero if Vitamin 
 slug: "covid-19-prognostic-indicators-in-plasma-extrapolate-to-zero-if-vitamin-d-is-40-to-80-ng"
 aliases:
   - "/COVID-19+prognostic+indicators+in+plasma+extrapolate+to+zero+if+Vitamin+D+is+40+to+80+ng+–+March+2021"
-  - "/tiki-index.php?page_id=12416"
+  - "/12416"
+tiki_page_id: 12416
 date: 2021-03-17
 categories:
   - "Virus"

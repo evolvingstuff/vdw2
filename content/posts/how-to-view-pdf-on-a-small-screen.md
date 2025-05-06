@@ -3,7 +3,8 @@ title: "How to view PDF on a small screen"
 slug: "how-to-view-pdf-on-a-small-screen"
 aliases:
   - "/How+to+view+PDF+on+a+small+screen"
-  - "/tiki-index.php?page_id=12449"
+  - "/12449"
+tiki_page_id: 12449
 date: 2021-03-28
 categories:
   - "Z"

@@ -3,7 +3,8 @@ title: "Higher Cardiovascular fitness (VO2) if higher Vitamin D"
 slug: "higher-cardiovascular-fitness-vo2-if-higher-vitamin-d"
 aliases:
   - "/Higher+Cardiovascular+fitness+VO2+if+higher+Vitamin+D+–+Oct+2018"
-  - "/tiki-index.php?page_id=10247"
+  - "/10247"
+tiki_page_id: 10247
 date: 2018-11-29
 categories:
   - "Breathing"

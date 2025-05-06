@@ -3,7 +3,8 @@ title: "Vitamin D reduces autoimmune disease - Dr. Campbell video and transcript
 slug: "vitamin-d-reduces-autoimmune-disease-dr-campbell-video-and-transcript"
 aliases:
   - "/Vitamin+D+reduces+autoimmune+disease+-+Dr+Campbell+video+and+transcript+-+May+2022"
-  - "/tiki-index.php?page_id=13613"
+  - "/13613"
+tiki_page_id: 13613
 date: 2022-05-29
 categories:
   - "Books, videos on Vitamin D"

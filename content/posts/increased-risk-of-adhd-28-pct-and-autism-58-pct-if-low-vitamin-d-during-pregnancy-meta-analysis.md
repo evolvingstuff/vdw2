@@ -3,7 +3,8 @@ title: "Increased risk of ADHD (28 pct.) and Autism (58 pct.) if low vitamin D d
 slug: "increased-risk-of-adhd-28-pct-and-autism-58-pct-if-low-vitamin-d-during-pregnancy-meta-analysis"
 aliases:
   - "/Increased+risk+of+ADHD+28+pct+and+Autism+58+pct+if+low+vitamin+D+during+pregnancy+–+meta-analysis+Jan+2019"
-  - "/tiki-index.php?page_id=10437"
+  - "/10437"
+tiki_page_id: 10437
 date: 2019-01-29
 categories:
   - "Autism"

@@ -3,7 +3,8 @@ title: "Stroke outcome at 3 months was 3X worse if bad stroke and low vitamin D"
 slug: "stroke-outcome-at-3-months-was-3x-worse-if-bad-stroke-and-low-vitamin-d"
 aliases:
   - "/Stroke+outcome+at+3+months+was+3X+worse+if+bad+stroke+and+low+vitamin+D+–+Jan+2020"
-  - "/tiki-index.php?page_id=11643"
+  - "/11643"
+tiki_page_id: 11643
 date: 2020-02-23
 categories:
   - "Stroke"

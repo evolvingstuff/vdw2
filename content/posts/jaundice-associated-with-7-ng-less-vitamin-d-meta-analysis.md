@@ -3,7 +3,8 @@ title: "Jaundice associated with 7 ng less vitamin D – Meta-analysis"
 slug: "jaundice-associated-with-7-ng-less-vitamin-d-meta-analysis"
 aliases:
   - "/Jaundice+associated+with+7+ng+less+vitamin+D+–+Meta-analysis+May+2021"
-  - "/tiki-index.php?page_id=12615"
+  - "/12615"
+tiki_page_id: 12615
 date: 2021-05-29
 categories:
   - "Infant-Child"

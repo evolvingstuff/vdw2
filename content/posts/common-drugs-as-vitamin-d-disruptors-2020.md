@@ -3,7 +3,8 @@ title: "Common drugs as vitamin D disruptors – 2020"
 slug: "common-drugs-as-vitamin-d-disruptors-2020"
 aliases:
   - "/Common+drugs+as+vitamin+D+disruptors+–+2020"
-  - "/tiki-index.php?page_id=13974"
+  - "/13974"
+tiki_page_id: 13974
 date: 2022-10-03
 categories:
   - "Interactions with Vitamin D"

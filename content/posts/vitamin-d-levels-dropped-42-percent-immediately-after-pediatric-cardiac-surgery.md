@@ -3,7 +3,8 @@ title: "Vitamin D levels dropped 42 percent immediately after pediatric cardiac 
 slug: "vitamin-d-levels-dropped-42-percent-immediately-after-pediatric-cardiac-surgery"
 aliases:
   - "/Vitamin+D+levels+dropped+42+percent+immediately+after+pediatric+cardiac+surgery+–+Dec+2019"
-  - "/tiki-index.php?page_id=11497"
+  - "/11497"
+tiki_page_id: 11497
 date: 2019-12-25
 categories:
   - "Cardiovascular"

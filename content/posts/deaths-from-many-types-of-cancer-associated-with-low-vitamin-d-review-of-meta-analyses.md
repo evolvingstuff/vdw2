@@ -3,7 +3,8 @@ title: "Deaths from many types of Cancer associated with low vitamin D- review o
 slug: "deaths-from-many-types-of-cancer-associated-with-low-vitamin-d-review-of-meta-analyses"
 aliases:
   - "/Deaths+from+many+types+of+Cancer+associated+with+low+vitamin+D-+review+of+meta-analyses+Sept+2020"
-  - "/tiki-index.php?page_id=12054"
+  - "/12054"
+tiki_page_id: 12054
 date: 2020-11-09
 categories:
   - "Mortality and D"

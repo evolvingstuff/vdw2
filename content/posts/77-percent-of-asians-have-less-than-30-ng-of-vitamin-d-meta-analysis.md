@@ -3,7 +3,8 @@ title: "77% of Asians have less than 30 ng of Vitamin D – meta-analysis"
 slug: "77-percent-of-asians-have-less-than-30-ng-of-vitamin-d-meta-analysis"
 aliases:
   - "/77+of+Asians+have+less+than+30+ng+of+Vitamin+D+–+meta-analysis+June+2023"
-  - "/tiki-index.php?page_id=14510"
+  - "/14510"
+tiki_page_id: 14510
 date: 2023-07-03
 ---
 

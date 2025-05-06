@@ -3,7 +3,8 @@ title: "Vitamin D Reduces Cancer Risk - Why Scientists Accept It but Physicians 
 slug: "vitamin-d-reduces-cancer-risk-why-scientists-accept-it-but-physicians-do-not"
 aliases:
   - "/Vitamin+D+Reduces+Cancer+Risk+-+Why+Scientists+Accept+It+but+Physicians+Do+Not+-+Feb+2019"
-  - "/tiki-index.php?page_id=10469"
+  - "/10469"
+tiki_page_id: 10469
 date: 2019-02-06
 categories:
   - "Cancer"

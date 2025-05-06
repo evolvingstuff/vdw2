@@ -3,7 +3,8 @@ title: "Risk of Cardiovascular death decreased 5X (lowest to highest Vitamin D l
 slug: "risk-of-cardiovascular-death-decreased-5x-lowest-to-highest-vitamin-d-level"
 aliases:
   - "/Risk+of+Cardiovascular+death+decreased+5X+lowest+to+highest+Vitamin+D+level-+Feb+2024"
-  - "/tiki-index.php?page_id=15063"
+  - "/15063"
+tiki_page_id: 15063
 date: 2024-02-19
 categories:
   - "Cardiovascular"

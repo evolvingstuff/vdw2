@@ -3,7 +3,8 @@ title: "Vitamin D Workshop near Seattle"
 slug: "vitamin-d-workshop-near-seattle"
 aliases:
   - "/Vitamin+D+Workshop+near+Seattle+-+Jan+20+2019"
-  - "/tiki-index.php?page_id=10326"
+  - "/10326"
+tiki_page_id: 10326
 date: 2018-12-19
 categories:
   - "Virus"

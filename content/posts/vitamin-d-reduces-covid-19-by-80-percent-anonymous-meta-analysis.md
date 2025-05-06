@@ -3,7 +3,8 @@ title: "Vitamin D reduces COVID-19 by 80 percent - anonymous meta-analysis"
 slug: "vitamin-d-reduces-covid-19-by-80-percent-anonymous-meta-analysis"
 aliases:
   - "/Vitamin+D+reduces+COVID-19+by+80+percent+-+anonymous+meta-analysis+-+Jan+5+2021"
-  - "/tiki-index.php?page_id=12195"
+  - "/12195"
+tiki_page_id: 12195
 date: 2021-01-05
 categories:
   - "Meta-analysis of Vitamin D"

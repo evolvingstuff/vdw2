@@ -3,7 +3,8 @@ title: "Evidence Supports a Causal Model for Vitamin D in COVID-19 Outcomes"
 slug: "evidence-supports-a-causal-model-for-vitamin-d-in-covid-19-outcomes"
 aliases:
   - "/Evidence+Supports+a+Causal+Model+for+Vitamin+D+in+COVID-19+Outcomes+–+June+3+2020"
-  - "/tiki-index.php?page_id=11797"
+  - "/11797"
+tiki_page_id: 11797
 date: 2020-06-09
 categories:
   - "Virus"

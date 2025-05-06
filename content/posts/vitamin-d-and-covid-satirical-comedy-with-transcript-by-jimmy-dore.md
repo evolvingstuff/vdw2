@@ -3,7 +3,8 @@ title: "Vitamin D and COVID - satirical comedy (with transcript) by Jimmy Dore"
 slug: "vitamin-d-and-covid-satirical-comedy-with-transcript-by-jimmy-dore"
 aliases:
   - "/Vitamin+D+and+COVID+-+satirical+comedy+with+transcript+by+Jimmy+Dore+-+Aug+2022"
-  - "/tiki-index.php?page_id=13831"
+  - "/13831"
+tiki_page_id: 13831
 date: 2022-08-08
 categories:
   - "Books, videos on Vitamin D"

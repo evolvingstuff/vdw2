@@ -3,7 +3,8 @@ title: "Maternal vitamin D deficiency can result in problems 1 or 2 decades late
 slug: "maternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later"
 aliases:
   - "/Maternal+vitamin+D+deficiency+can+result+in+problems+1+or+2+decades+later+-+May+2023"
-  - "/tiki-index.php?page_id=14903"
+  - "/14903"
+tiki_page_id: 14903
 date: 2023-12-21
 categories:
   - "Pregnancy"

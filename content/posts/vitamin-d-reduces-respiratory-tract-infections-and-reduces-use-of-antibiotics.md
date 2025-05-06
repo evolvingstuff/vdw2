@@ -3,7 +3,8 @@ title: "Vitamin D reduces Respiratory Tract Infections and reduces use of antibi
 slug: "vitamin-d-reduces-respiratory-tract-infections-and-reduces-use-of-antibiotics"
 aliases:
   - "/Vitamin+D+reduces+Respiratory+Tract+Infections+and+reduces+use+of+antibiotics+–+March+2021"
-  - "/tiki-index.php?page_id=12500"
+  - "/12500"
+tiki_page_id: 12500
 date: 2021-04-14
 categories:
   - "Breathing"

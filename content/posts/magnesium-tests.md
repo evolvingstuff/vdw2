@@ -3,7 +3,8 @@ title: "Magnesium tests"
 slug: "magnesium-tests"
 aliases:
   - "/Magnesium+tests"
-  - "/tiki-index.php?page_id=13413"
+  - "/13413"
+tiki_page_id: 13413
 date: 2022-03-18
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Tuberculosis not prevented by a tiny amount of vitamin D (equiv to 1,400
 slug: "tuberculosis-not-prevented-by-a-tiny-amount-of-vitamin-d-equiv-to-1400-iu-daily-rct"
 aliases:
   - "/Tuberculosis+not+prevented+by+a+tiny+amount+of+vitamin+D+equiv+to+1400+IU+daily+–+RCT+May+2023"
-  - "/tiki-index.php?page_id=14436"
+  - "/14436"
+tiki_page_id: 14436
 date: 2023-05-22
 categories:
   - "Tuberculosis"

@@ -3,7 +3,8 @@ title: "Another verdict: Roundup caused cancer, 11,200 more cases to be tried"
 slug: "another-verdict-roundup-caused-cancer-11200-more-cases-to-be-tried"
 aliases:
   - "/Another+verdict+Roundup+caused+cancer+11200+more+cases+to+be+tried+–+March+2019"
-  - "/tiki-index.php?page_id=10590"
+  - "/10590"
+tiki_page_id: 10590
 date: 2019-03-20
 categories:
   - "Glyphosate"

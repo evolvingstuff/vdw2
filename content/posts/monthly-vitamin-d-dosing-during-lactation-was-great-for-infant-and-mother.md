@@ -3,7 +3,8 @@ title: "Monthly vitamin D dosing during lactation was great for infant and mothe
 slug: "monthly-vitamin-d-dosing-during-lactation-was-great-for-infant-and-mother"
 aliases:
   - "/Monthly+vitamin+D+dosing+during+lactation+was+great+for+infant+and+mother+-+April+2020"
-  - "/tiki-index.php?page_id=14853"
+  - "/14853"
+tiki_page_id: 14853
 date: 2023-11-30
 categories:
   - "Infant-Child"

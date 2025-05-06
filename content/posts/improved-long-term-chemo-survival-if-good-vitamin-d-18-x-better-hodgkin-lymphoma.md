@@ -3,7 +3,8 @@ title: "Improved long-term chemo survival if good Vitamin D (1.8 X better - Hodg
 slug: "improved-long-term-chemo-survival-if-good-vitamin-d-18-x-better-hodgkin-lymphoma"
 aliases:
   - "/Improved+long-term+chemo+survival+if+good+Vitamin+D+18+X+better+-+Hodgkin+Lymphoma+–+Oct+2019"
-  - "/tiki-index.php?page_id=11258"
+  - "/11258"
+tiki_page_id: 11258
 date: 2019-10-22
 categories:
   - "Cancer - after diagnosis"

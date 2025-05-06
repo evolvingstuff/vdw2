@@ -3,7 +3,8 @@ title: "1 in 8 Recovered COVID-19 Patients Die Within 5 Months"
 slug: "1-in-8-recovered-covid-19-patients-die-within-5-months"
 aliases:
   - "/1+in+8+Recovered+COVID-19+Patients+Die+Within+5+Months+-+Jan+18+2021"
-  - "/tiki-index.php?page_id=12242"
+  - "/12242"
+tiki_page_id: 12242
 date: 2021-01-20
 categories:
   - "Virus"

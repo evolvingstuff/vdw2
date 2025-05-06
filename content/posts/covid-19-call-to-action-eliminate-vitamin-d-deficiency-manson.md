@@ -3,7 +3,8 @@ title: "COVID-19 Call to Action – eliminate Vitamin D deficiency – Manson"
 slug: "covid-19-call-to-action-eliminate-vitamin-d-deficiency-manson"
 aliases:
   - "/COVID-19+Call+to+Action+–+eliminate+Vitamin+D+deficiency+–+Manson+Sept+1+2020"
-  - "/tiki-index.php?page_id=11934"
+  - "/11934"
+tiki_page_id: 11934
 date: 2020-09-02
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Just 4,000 IU of vitamin D was not enough to halt senior falls"
 slug: "just-4000-iu-of-vitamin-d-was-not-enough-to-halt-senior-falls"
 aliases:
   - "/Just+4000+IU+of+vitamin+D+was+not+enough+to+halt+senior+falls+–+July+2023"
-  - "/tiki-index.php?page_id=14542"
+  - "/14542"
+tiki_page_id: 14542
 date: 2023-07-19
 categories:
   - "Falls and Fractures"

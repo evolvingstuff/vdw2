@@ -3,7 +3,8 @@ title: "2.5 million IU of vitamin D caused hypercalcemia in some seniors (had fa
 slug: "25-million-iu-of-vitamin-d-caused-hypercalcemia-in-some-seniors-had-failed-to-re--calcium-intake"
 aliases:
   - "/25+million+IU+of+vitamin+D+caused+hypercalcemia+in+some+seniors+had+failed+to+reduce+their+Calcium+intake+–+Dec+2022"
-  - "/tiki-index.php?page_id=14216"
+  - "/14216"
+tiki_page_id: 14216
 date: 2023-01-20
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Blood test plus AI better than food questionare at detecting meat and gr
 slug: "blood-test-plus-ai-better-than-food-questionare-at-detecting-meat-and-grain"
 aliases:
   - "/Blood+test+plus+AI+better+than+food+questionare+at+detecting+meat+and+grain+-+Dec+2022"
-  - "/tiki-index.php?page_id=14163"
+  - "/14163"
+tiki_page_id: 14163
 date: 2022-12-20
 ---
 

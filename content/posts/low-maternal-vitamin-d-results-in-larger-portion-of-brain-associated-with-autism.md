@@ -3,7 +3,8 @@ title: "Low maternal Vitamin D results in larger portion of brain associated wit
 slug: "low-maternal-vitamin-d-results-in-larger-portion-of-brain-associated-with-autism"
 aliases:
   - "/Low+maternal+Vitamin+D+results+in+larger+portion+of+brain+associated+with+autism+–+Jan+2020"
-  - "/tiki-index.php?page_id=11530"
+  - "/11530"
+tiki_page_id: 11530
 date: 2020-01-07
 categories:
   - "Pregnancy"

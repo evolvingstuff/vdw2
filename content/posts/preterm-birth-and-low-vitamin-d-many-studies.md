@@ -3,7 +3,8 @@ title: "Preterm birth and low Vitamin D - many studies"
 slug: "preterm-birth-and-low-vitamin-d-many-studies"
 aliases:
   - "/Preterm+birth+and+low+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14440"
+  - "/14440"
+tiki_page_id: 14440
 date: 2023-05-23
 categories:
   - "Pregnancy"

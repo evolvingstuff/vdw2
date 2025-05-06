@@ -3,7 +3,8 @@ title: "1.4X less risk of COVID-19 if had taken some Vitamin D (a US yes-no surv
 slug: "14x-less-risk-of-covid-19-if-had-taken-some-vitamin-d-a-us-yes-no-survey"
 aliases:
   - "/14X+less+risk+of+COVID-19+if+had+taken+some+Vitamin+D+a+US+yes-no+survey+–+Nov+30+2020"
-  - "/tiki-index.php?page_id=12103"
+  - "/12103"
+tiki_page_id: 12103
 date: 2020-12-01
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D can also fight COVID induced brain problems (behind paywall)"
 slug: "vitamin-d-can-also-fight-covid-induced-brain-problems-behind-paywall"
 aliases:
   - "/Vitamin+D+can+also+fight+COVID+induced+brain+problems+behind+paywall+–+April+2022"
-  - "/tiki-index.php?page_id=13445"
+  - "/13445"
+tiki_page_id: 13445
 date: 2022-04-04
 categories:
   - "Cognitive"

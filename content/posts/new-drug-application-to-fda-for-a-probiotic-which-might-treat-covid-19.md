@@ -3,7 +3,8 @@ title: "New drug application to FDA for a probiotic which might treat COVID-19"
 slug: "new-drug-application-to-fda-for-a-probiotic-which-might-treat-covid-19"
 aliases:
   - "/New+drug+application+to+FDA+for+a+probiotic+which+might+treat+COVID-19+–+Nov+19+2020"
-  - "/tiki-index.php?page_id=12074"
+  - "/12074"
+tiki_page_id: 12074
 date: 2020-11-19
 categories:
   - "Virus"

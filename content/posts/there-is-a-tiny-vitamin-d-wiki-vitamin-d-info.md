@@ -3,7 +3,8 @@ title: "There is a tiny Vitamin D Wiki: Vitamin-D Info"
 slug: "there-is-a-tiny-vitamin-d-wiki-vitamin-d-info"
 aliases:
   - "/There+is+a+tiny+Vitamin+D+Wiki+Vitamin-D+Info"
-  - "/tiki-index.php?page_id=14719"
+  - "/14719"
+tiki_page_id: 14719
 date: 2023-10-02
 ---
 

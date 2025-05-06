@@ -3,7 +3,8 @@ title: "Low Vitamin D increased chance of COVID-19, unless supplement"
 slug: "low-vitamin-d-increased-chance-of-covid-19-unless-supplement"
 aliases:
   - "/Low+Vitamin+D+increased+chance+of+COVID-19+unless+supplement+–+May+13+2020"
-  - "/tiki-index.php?page_id=11767"
+  - "/11767"
+tiki_page_id: 11767
 date: 2020-05-14
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D supplementation increases strength of lower muscles – Meta-a
 slug: "vitamin-d-supplementation-increases-strength-of-lower-muscles-meta-analysis"
 aliases:
   - "/Vitamin+D+supplementation+increases+strength+of+lower+muscles+–+Meta-analysis+April+2019"
-  - "/tiki-index.php?page_id=10723"
+  - "/10723"
+tiki_page_id: 10723
 date: 2019-05-01
 categories:
   - "Sports and Vitamin D"

@@ -3,7 +3,8 @@ title: "Colorectal Cancer Patients 2.4 X more likely to have poor Vitamin D rece
 slug: "colorectal-cancer-patients-24-x-more-likely-to-have-poor-vitamin-d-receptors-less-d-to-cells"
 aliases:
   - "/Colorectal+Cancer+Patients+24+X+more+likely+to+have+poor+Vitamin+D+receptors+less+D+to+cells+–+April+2020"
-  - "/tiki-index.php?page_id=11755"
+  - "/11755"
+tiki_page_id: 11755
 date: 2020-05-02
 categories:
   - "Cancer - Colon"

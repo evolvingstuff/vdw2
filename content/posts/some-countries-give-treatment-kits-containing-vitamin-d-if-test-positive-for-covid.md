@@ -3,7 +3,8 @@ title: "Some countries give treatment kits containing vitamin D if test positive
 slug: "some-countries-give-treatment-kits-containing-vitamin-d-if-test-positive-for-covid"
 aliases:
   - "/Some+countries+give+treatment+kits+containing+vitamin+D+if+test+positive+for+COVID+-+July+2022"
-  - "/tiki-index.php?page_id=13785"
+  - "/13785"
+tiki_page_id: 13785
 date: 2022-07-22
 categories:
   - "Top news"

@@ -3,7 +3,8 @@ title: "Obesity decreases BOTH Vitamin D levels and Vitamin D Receptor activatio
 slug: "obesity-decreases-both-vitamin-d-levels-and-vitamin-d-receptor-activation"
 aliases:
   - "/Obesity+decreases+BOTH+Vitamin+D+levels+and+Vitamin+D+Receptor+activation+–+Oct+2023"
-  - "/tiki-index.php?page_id=14762"
+  - "/14762"
+tiki_page_id: 14762
 date: 2023-10-18
 categories:
   - "Obesity"

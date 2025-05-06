@@ -3,7 +3,8 @@ title: "Vaccine effectiveness may drop to only 16% in 6 months if time between j
 slug: "vaccine-effectiveness-may-drop-to-only-16-percent-in-6-months-if-time-between-jabs-was-only-3-weeks"
 aliases:
   - "/Vaccine+effectiveness+may+drop+to+only+16+in+6+months+if+time+between+jabs+was+only+3+weeks+–+July+2021"
-  - "/tiki-index.php?page_id=12773"
+  - "/12773"
+tiki_page_id: 12773
 date: 2021-07-26
 categories:
   - "Top news"

@@ -3,7 +3,8 @@ title: "YouTube removed 1,000,000 videos on Vaccine Safety or Efficacy as of"
 slug: "youtube-removed-1000000-videos-on-vaccine-safety-or-efficacy-as-of"
 aliases:
   - "/YouTube+removed+1000000+videos+on+Vaccine+Safety+or+Efficacy+as+of+Sept+2022"
-  - "/tiki-index.php?page_id=14672"
+  - "/14672"
+tiki_page_id: 14672
 date: 2023-09-10
 categories:
   - "Virus"

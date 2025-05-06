@@ -3,7 +3,8 @@ title: "6 months after COVID-19 hospitalization 76 percent still had at least on
 slug: "6-months-after-covid-19-hospitalization-76-percent-still-had-at-least-one-symptom"
 aliases:
   - "/6+months+after+COVID-19+hospitalization+76+percent+still+had+at+least+one+symptom+–+Jan+8+2021"
-  - "/tiki-index.php?page_id=12206"
+  - "/12206"
+tiki_page_id: 12206
 date: 2021-01-08
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Best thing since sliced bread (vitamin D bread was patented and baked in
 slug: "best-thing-since-sliced-bread-vitamin-d-bread-was-patented-and-baked-in-1929"
 aliases:
   - "/Best+thing+since+sliced+bread+vitamin+D+bread+was+patented+and+baked+in+1929"
-  - "/tiki-index.php?page_id=10925"
+  - "/10925"
+tiki_page_id: 10925
 date: 2019-06-25
 categories:
   - "Fortification with Vitamin D"

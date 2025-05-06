@@ -3,7 +3,8 @@ title: "Unknown cause (idopathic) for male Infertility appears to be low vitamin
 slug: "unknown-cause-idopathic-for-male-infertility-appears-to-be-low-vitamin-d-9-x"
 aliases:
   - "/Unknown+cause+idopathic+for+male+Infertility+appears+to+be+low+vitamin+D+9+X+–+Sept+2022"
-  - "/tiki-index.php?page_id=13910"
+  - "/13910"
+tiki_page_id: 13910
 date: 2022-09-14
 categories:
   - "Fertility and sperm"

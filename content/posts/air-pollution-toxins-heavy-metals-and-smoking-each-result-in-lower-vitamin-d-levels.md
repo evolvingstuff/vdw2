@@ -3,7 +3,8 @@ title: "Air pollution, toxins, heavy metals and smoking each result in lower Vit
 slug: "air-pollution-toxins-heavy-metals-and-smoking-each-result-in-lower-vitamin-d-levels"
 aliases:
   - "/Air+pollution+toxins+heavy+metals+and+smoking+each+result+in+lower+Vitamin+D+levels+–+Nov+2018"
-  - "/tiki-index.php?page_id=10265"
+  - "/10265"
+tiki_page_id: 10265
 date: 2018-12-04
 categories:
   - "Deficiency of Vitamin D"

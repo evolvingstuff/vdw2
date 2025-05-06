@@ -3,7 +3,8 @@ title: "10,000 IU of Vitamin D is too much if you also take Calcium supplements 
 slug: "10000-iu-of-vitamin-d-is-too-much-if-you-also-take-calcium-supplements-rct"
 aliases:
   - "/10000+IU+of+Vitamin+D+is+too+much+if+you+also+take+Calcium+supplements+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10005"
+  - "/10005"
+tiki_page_id: 10005
 date: 2018-09-05
 categories:
   - "Vitamin D and Calcium"

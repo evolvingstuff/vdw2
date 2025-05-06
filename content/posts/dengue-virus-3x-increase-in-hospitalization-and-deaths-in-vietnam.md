@@ -3,7 +3,8 @@ title: "Dengue virus: 3X increase in hospitalization and deaths in Vietnam"
 slug: "dengue-virus-3x-increase-in-hospitalization-and-deaths-in-vietnam"
 aliases:
   - "/Dengue+virus+3X+increase+in+hospitalization+and+deaths+in+Vietnam+-+July+2022"
-  - "/tiki-index.php?page_id=13772"
+  - "/13772"
+tiki_page_id: 13772
 date: 2022-07-19
 categories:
   - "Virus"

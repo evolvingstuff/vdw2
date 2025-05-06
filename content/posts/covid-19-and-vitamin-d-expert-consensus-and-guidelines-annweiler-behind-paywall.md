@@ -3,7 +3,8 @@ title: "COVID-19 and Vitamin D – expert consensus and guidelines (Annweiler, b
 slug: "covid-19-and-vitamin-d-expert-consensus-and-guidelines-annweiler-behind-paywall"
 aliases:
   - "/COVID-19+and+Vitamin+D+–+expert+consensus+and+guidelines+Annweiler+behind+paywall+–+Oct+2021"
-  - "/tiki-index.php?page_id=12960"
+  - "/12960"
+tiki_page_id: 12960
 date: 2021-10-07
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Virtually all infants in Poland got 400 IU of Vitamin D daily (not enoug
 slug: "virtually-all-infants-in-poland-got-400-iu-of-vitamin-d-daily-not-enough-non-daily-is-better"
 aliases:
   - "/Virtually+all+infants+in+Poland+got+400+IU+of+Vitamin+D+daily+not+enough+non-daily+is+better+–+April+2021"
-  - "/tiki-index.php?page_id=12701"
+  - "/12701"
+tiki_page_id: 12701
 date: 2021-06-29
 categories:
   - "Dental"

@@ -3,7 +3,8 @@ title: "Excessive lipids in blood (dyslipidemia) is 1.5 X more likely if low vit
 slug: "excessive-lipids-in-blood-dyslipidemia-is-15-x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Excessive+lipids+in+blood+dyslipidemia+is+15+X+more+likely+if+low+vitamin+D+–+June+2019"
-  - "/tiki-index.php?page_id=11729"
+  - "/11729"
+tiki_page_id: 11729
 date: 2020-04-15
 categories:
   - "Cholesterol"

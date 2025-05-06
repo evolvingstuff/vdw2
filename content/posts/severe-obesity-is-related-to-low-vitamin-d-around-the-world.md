@@ -3,7 +3,8 @@ title: "Severe obesity is related to low vitamin D around the world"
 slug: "severe-obesity-is-related-to-low-vitamin-d-around-the-world"
 aliases:
   - "/Severe+obesity+is+related+to+low+vitamin+D+around+the+world+–+Aug+2023"
-  - "/tiki-index.php?page_id=14644"
+  - "/14644"
+tiki_page_id: 14644
 date: 2023-08-29
 ---
 

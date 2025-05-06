@@ -3,7 +3,8 @@ title: "5,000 or 10,000 IU Vitamin D for 7 years both safe and effective (4700 p
 slug: "5000-or-10000-iu-vitamin-d-for-7-years-both-safe-and-effective-4700-patients-8-months-to-plateau"
 aliases:
   - "/5000+or+10000+IU+Vitamin+D+for+7+years+both+safe+and+effective+4700+patients+8+months+to+plateau+–+Jan+2019"
-  - "/tiki-index.php?page_id=10379"
+  - "/10379"
+tiki_page_id: 10379
 date: 2019-01-07
 categories:
   - "How much Vitamin D"

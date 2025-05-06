@@ -3,7 +3,8 @@ title: "Radiation therapy, used to treat some cancers, causes less damage if use
 slug: "radiation-therapy-used-to-treat-some-cancers-causes-less-damage-if-use-vitamin-d-or-melatonin"
 aliases:
   - "/Radiation+therapy+used+to+treat+some+cancers+causes+less+damage+if+use+Vitamin+D+or+Melatonin+–+Aug+2022"
-  - "/tiki-index.php?page_id=14517"
+  - "/14517"
+tiki_page_id: 14517
 date: 2023-07-04
 categories:
   - "Cancer - after diagnosis"

@@ -3,7 +3,8 @@ title: "Role of Vitamin D in Alzheimer's disease (paywalled)"
 slug: "role-of-vitamin-d-in-alzheimers-disease-paywalled"
 aliases:
   - "/Role+of+Vitamin+D+in+Alzheimers+disease+paywalled+-+May+2023"
-  - "/tiki-index.php?page_id=14458"
+  - "/14458"
+tiki_page_id: 14458
 date: 2023-05-29
 categories:
   - "Cognitive"

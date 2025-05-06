@@ -3,7 +3,8 @@ title: "RNA viruses mutate quickly, COVID-19 is an RNA virus"
 slug: "rna-viruses-mutate-quickly-covid-19-is-an-rna-virus"
 aliases:
   - "/RNA+viruses+mutate+quickly+COVID-19+is+an+RNA+virus+-+Feb+2023"
-  - "/tiki-index.php?page_id=14243"
+  - "/14243"
+tiki_page_id: 14243
 date: 2023-02-04
 categories:
   - "Virus"

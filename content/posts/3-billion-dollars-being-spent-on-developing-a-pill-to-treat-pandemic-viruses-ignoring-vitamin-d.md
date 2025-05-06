@@ -3,7 +3,8 @@ title: "3 billion dollars being spent on developing a pill to treat pandemic vir
 slug: "3-billion-dollars-being-spent-on-developing-a-pill-to-treat-pandemic-viruses-ignoring-vitamin-d"
 aliases:
   - "/3+billion+dollars+being+spent+on+developing+a+pill+to+treat+pandemic+viruses+ignoring+Vitamin+D"
-  - "/tiki-index.php?page_id=12666"
+  - "/12666"
+tiki_page_id: 12666
 date: 2021-06-18
 categories:
   - "Virus"

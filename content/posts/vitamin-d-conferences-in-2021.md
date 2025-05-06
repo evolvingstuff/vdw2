@@ -3,7 +3,8 @@ title: "Vitamin D Conferences in 2021"
 slug: "vitamin-d-conferences-in-2021"
 aliases:
   - "/Vitamin+D+Conferences+in+2021"
-  - "/tiki-index.php?page_id=12702"
+  - "/12702"
+tiki_page_id: 12702
 date: 2021-06-29
 categories:
   - "Conference"

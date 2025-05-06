@@ -3,7 +3,8 @@ title: "Vitamin D is one of 14 ways proven to treat COVID-19"
 slug: "vitamin-d-is-one-of-14-ways-proven-to-treat-covid-19"
 aliases:
   - "/Vitamin+D+is+one+of+14+ways+proven+to+treat+COVID-19+–+July+2021"
-  - "/tiki-index.php?page_id=12750"
+  - "/12750"
+tiki_page_id: 12750
 date: 2021-07-20
 categories:
   - "Top news"

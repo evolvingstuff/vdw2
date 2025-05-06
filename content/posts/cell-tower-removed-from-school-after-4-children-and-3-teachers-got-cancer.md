@@ -3,7 +3,8 @@ title: "Cell tower removed from school after 4 children and 3 teachers got cance
 slug: "cell-tower-removed-from-school-after-4-children-and-3-teachers-got-cancer"
 aliases:
   - "/Cell+tower+removed+from+school+after+4+children+and+3+teachers+got+cancer+–+March+2019"
-  - "/tiki-index.php?page_id=10644"
+  - "/10644"
+tiki_page_id: 10644
 date: 2019-04-04
 categories:
   - "Interactions with Vitamin D"

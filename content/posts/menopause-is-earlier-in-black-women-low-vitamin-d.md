@@ -3,7 +3,8 @@ title: "Menopause is earlier in black women (low vitamin D)"
 slug: "menopause-is-earlier-in-black-women-low-vitamin-d"
 aliases:
   - "/Menopause+is+earlier+in+black+women+low+vitamin+D+-+Aug+2023"
-  - "/tiki-index.php?page_id=14631"
+  - "/14631"
+tiki_page_id: 14631
 date: 2023-08-25
 categories:
   - "Skin - Dark"

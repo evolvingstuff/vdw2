@@ -3,7 +3,8 @@ title: "Parkinson’s Disease and Vitamin D – review of 52 studies"
 slug: "parkinsons-disease-and-vitamin-d-review-of-52-studies"
 aliases:
   - "/Parkinsons+Disease+and+Vitamin+D+–+review+of+52+studies+–+May+2022"
-  - "/tiki-index.php?page_id=14415"
+  - "/14415"
+tiki_page_id: 14415
 date: 2023-05-10
 categories:
   - "Parkinson"

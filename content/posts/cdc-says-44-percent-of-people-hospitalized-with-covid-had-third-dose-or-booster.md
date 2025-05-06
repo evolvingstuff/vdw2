@@ -3,7 +3,8 @@ title: "CDC says 44 percent of people hospitalized with COVID had third dose or 
 slug: "cdc-says-44-percent-of-people-hospitalized-with-covid-had-third-dose-or-booster"
 aliases:
   - "/CDC+says+44+percent+of+people+hospitalized+with+COVID+had+third+dose+or+booster+-+Sept+2022"
-  - "/tiki-index.php?page_id=13899"
+  - "/13899"
+tiki_page_id: 13899
 date: 2022-09-09
 categories:
   - "Virus"

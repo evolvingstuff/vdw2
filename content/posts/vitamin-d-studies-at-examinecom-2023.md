@@ -3,7 +3,8 @@ title: "Vitamin D studies at Examine.com - 2023"
 slug: "vitamin-d-studies-at-examinecom-2023"
 aliases:
   - "/Vitamin+D+studies+at+Examinecom+-+2023"
-  - "/tiki-index.php?page_id=14614"
+  - "/14614"
+tiki_page_id: 14614
 date: 2023-08-16
 ---
 

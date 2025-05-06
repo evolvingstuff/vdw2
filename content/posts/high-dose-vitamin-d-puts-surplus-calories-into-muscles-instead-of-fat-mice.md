@@ -3,7 +3,8 @@ title: "High-Dose Vitamin D puts surplus calories into muscles instead of fat (m
 slug: "high-dose-vitamin-d-puts-surplus-calories-into-muscles-instead-of-fat-mice"
 aliases:
   - "/High-Dose+Vitamin+D+puts+surplus+calories+into+muscles+instead+of+fat+mice+–+May+2022"
-  - "/tiki-index.php?page_id=13577"
+  - "/13577"
+tiki_page_id: 13577
 date: 2022-05-20
 categories:
   - "Sports and Vitamin D"

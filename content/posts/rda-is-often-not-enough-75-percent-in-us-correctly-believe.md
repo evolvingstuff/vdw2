@@ -3,7 +3,8 @@ title: "RDA is often not enough – 75 percent in US correctly believe"
 slug: "rda-is-often-not-enough-75-percent-in-us-correctly-believe"
 aliases:
   - "/RDA+is+often+not+enough+–+75+percent+in+US+correctly+believe+–+April+2019"
-  - "/tiki-index.php?page_id=10717"
+  - "/10717"
+tiki_page_id: 10717
 date: 2019-04-29
 categories:
   - "Supplement"

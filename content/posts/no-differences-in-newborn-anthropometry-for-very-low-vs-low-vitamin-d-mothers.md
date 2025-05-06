@@ -3,7 +3,8 @@ title: "No differences in newborn anthropometry for very low vs. low vitamin D m
 slug: "no-differences-in-newborn-anthropometry-for-very-low-vs-low-vitamin-d-mothers"
 aliases:
   - "/No+differences+in+newborn+anthropometry+for+very+low+vs+low+vitamin+D+mothers+–+Jan+2020"
-  - "/tiki-index.php?page_id=11593"
+  - "/11593"
+tiki_page_id: 11593
 date: 2020-01-27
 categories:
   - "Pregnancy"

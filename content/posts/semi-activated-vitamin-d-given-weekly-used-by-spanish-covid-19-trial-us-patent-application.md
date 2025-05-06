@@ -3,7 +3,8 @@ title: "Semi-activated Vitamin D given weekly (used by Spanish COVID-19 trial) â
 slug: "semi-activated-vitamin-d-given-weekly-used-by-spanish-covid-19-trial-us-patent-application"
 aliases:
   - "/Semi-activated+Vitamin+D+given+weekly+used+by+Spanish+COVID-19+trial+â€“+US+patent+application+Sept+2020"
-  - "/tiki-index.php?page_id=11973"
+  - "/11973"
+tiki_page_id: 11973
 date: 2020-09-23
 categories:
   - "Patent"

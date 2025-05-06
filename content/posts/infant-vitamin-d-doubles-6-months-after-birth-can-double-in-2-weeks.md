@@ -3,7 +3,8 @@ title: "Infant Vitamin D doubles 6 months after birth (can double in 2 weeks)"
 slug: "infant-vitamin-d-doubles-6-months-after-birth-can-double-in-2-weeks"
 aliases:
   - "/Infant+Vitamin+D+doubles+6+months+after+birth+can+double+in+2+weeks–+Oct+2019"
-  - "/tiki-index.php?page_id=11250"
+  - "/11250"
+tiki_page_id: 11250
 date: 2019-10-19
 categories:
   - "Loading dose for Vitamin D"

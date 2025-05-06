@@ -3,7 +3,8 @@ title: "Sugary drinks associated with 5X worse Multiple Sclerosis (reduces vitam
 slug: "sugary-drinks-associated-with-5x-worse-multiple-sclerosis-reduces-vitamin-d-levels"
 aliases:
   - "/Sugary+drinks+associated+with+5X+worse+Multiple+Sclerosis+reduces+vitamin+D+levels–+March+2019"
-  - "/tiki-index.php?page_id=10551"
+  - "/10551"
+tiki_page_id: 10551
 date: 2019-03-05
 categories:
   - "Multiple Sclerosis"

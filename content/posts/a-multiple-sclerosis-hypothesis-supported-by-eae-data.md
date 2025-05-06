@@ -3,7 +3,8 @@ title: "A Multiple Sclerosis hypothesis supported by EAE data"
 slug: "a-multiple-sclerosis-hypothesis-supported-by-eae-data"
 aliases:
   - "/A+Multiple+Sclerosis+hypothesis+supported+by+EAE+data+–+Oct+2018"
-  - "/tiki-index.php?page_id=11184"
+  - "/11184"
+tiki_page_id: 11184
 date: 2019-10-01
 categories:
   - "Multiple Sclerosis"

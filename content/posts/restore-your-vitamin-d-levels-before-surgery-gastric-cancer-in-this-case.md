@@ -3,7 +3,8 @@ title: "Restore your Vitamin D levels before surgery (Gastric Cancer in this cas
 slug: "restore-your-vitamin-d-levels-before-surgery-gastric-cancer-in-this-case"
 aliases:
   - "/Restore+your+Vitamin+D+levels+before+surgery+Gastric+Cancer+in+this+case+-+Jan+2023"
-  - "/tiki-index.php?page_id=14219"
+  - "/14219"
+tiki_page_id: 14219
 date: 2023-01-20
 categories:
   - "Cancer"

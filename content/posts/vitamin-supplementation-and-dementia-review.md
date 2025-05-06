@@ -3,7 +3,8 @@ title: "Vitamin Supplementation and Dementia - Review"
 slug: "vitamin-supplementation-and-dementia-review"
 aliases:
   - "/Vitamin+Supplementation+and+Dementia+-+Review+May+2022"
-  - "/tiki-index.php?page_id=13552"
+  - "/13552"
+tiki_page_id: 13552
 date: 2022-05-11
 categories:
   - "Cognitive"

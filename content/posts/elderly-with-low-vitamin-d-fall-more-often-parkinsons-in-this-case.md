@@ -3,7 +3,8 @@ title: "Elderly with low vitamin D fall more often (Parkinson’s in this case)"
 slug: "elderly-with-low-vitamin-d-fall-more-often-parkinsons-in-this-case"
 aliases:
   - "/Elderly+with+low+vitamin+D+fall+more+often+Parkinsons+in+this+case+–+Aug+2019"
-  - "/tiki-index.php?page_id=11109"
+  - "/11109"
+tiki_page_id: 11109
 date: 2019-08-29
 categories:
   - "Parkinson"

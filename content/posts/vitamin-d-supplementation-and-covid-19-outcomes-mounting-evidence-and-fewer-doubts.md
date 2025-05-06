@@ -3,7 +3,8 @@ title: "Vitamin D Supplementation and COVID-19 Outcomes: Mounting Evidence and F
 slug: "vitamin-d-supplementation-and-covid-19-outcomes-mounting-evidence-and-fewer-doubts"
 aliases:
   - "/Vitamin+D+Supplementation+and+COVID-19+Outcomes+Mounting+Evidence+and+Fewer+Doubts+-+Aug+2022"
-  - "/tiki-index.php?page_id=13880"
+  - "/13880"
+tiki_page_id: 13880
 date: 2022-08-31
 categories:
   - "Top news"

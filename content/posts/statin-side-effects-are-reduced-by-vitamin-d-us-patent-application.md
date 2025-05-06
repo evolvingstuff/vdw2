@@ -3,7 +3,8 @@ title: "Statin side-effects are reduced by Vitamin D – US patent Application"
 slug: "statin-side-effects-are-reduced-by-vitamin-d-us-patent-application"
 aliases:
   - "/Statin+side-effects+are+reduced+by+Vitamin+D+–+US+patent+Application+–+April+2019"
-  - "/tiki-index.php?page_id=11012"
+  - "/11012"
+tiki_page_id: 11012
 date: 2019-07-21
 categories:
   - "Cardiovascular"

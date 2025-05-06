@@ -3,7 +3,8 @@ title: "Children in hospital: those with COVID had lower Vitamin D, Iron, etc."
 slug: "children-in-hospital-those-with-covid-had-lower-vitamin-d-iron-etc"
 aliases:
   - "/Children+in+hospital+those+with+COVID+had+lower+Vitamin+D+Iron+etc+–+April+2024"
-  - "/tiki-index.php?page_id=15228"
+  - "/15228"
+tiki_page_id: 15228
 date: 2024-04-20
 categories:
   - "Infant-Child"

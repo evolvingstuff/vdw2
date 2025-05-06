@@ -3,7 +3,8 @@ title: "Increase in non-COVID deaths (ages 18-64) in Indiana, India, etc."
 slug: "increase-in-non-covid-deaths-ages-18-64-in-indiana-india-etc"
 aliases:
   - "/Increase+in+non-COVID+deaths+ages+18-64+in+Indiana+India+etc+-+Jan+5+2022"
-  - "/tiki-index.php?page_id=13240"
+  - "/13240"
+tiki_page_id: 13240
 date: 2022-01-05
 categories:
   - "Mortality and D"

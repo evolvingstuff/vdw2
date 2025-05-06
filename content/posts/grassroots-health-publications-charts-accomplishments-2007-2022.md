@@ -3,7 +3,8 @@ title: "Grassroots Health publications, charts, accomplishments: 2007-2022"
 slug: "grassroots-health-publications-charts-accomplishments-2007-2022"
 aliases:
   - "/Grassroots+Health+publications+charts+accomplishments+2007-2022"
-  - "/tiki-index.php?page_id=13804"
+  - "/13804"
+tiki_page_id: 13804
 date: 2022-07-28
 ---
 

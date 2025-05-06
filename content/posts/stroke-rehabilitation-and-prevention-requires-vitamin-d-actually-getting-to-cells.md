@@ -3,7 +3,8 @@ title: "Stroke rehabilitation (and prevention) requires Vitamin D actually getti
 slug: "stroke-rehabilitation-and-prevention-requires-vitamin-d-actually-getting-to-cells"
 aliases:
   - "/Stroke+rehabilitation+and+prevention+requires+Vitamin+D+actually+getting+to+cells+–+March+2020"
-  - "/tiki-index.php?page_id=11679"
+  - "/11679"
+tiki_page_id: 11679
 date: 2020-03-13
 categories:
   - "Stroke"

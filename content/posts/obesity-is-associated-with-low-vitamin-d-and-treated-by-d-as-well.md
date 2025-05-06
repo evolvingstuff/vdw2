@@ -3,7 +3,8 @@ title: "Obesity is associated with low Vitamin D (and treated by D as well)"
 slug: "obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well"
 aliases:
   - "/Obesity+is+associated+with+low+Vitamin+D+and+treated+by+D+as+well+–+Aug+2019"
-  - "/tiki-index.php?page_id=11058"
+  - "/11058"
+tiki_page_id: 11058
 date: 2019-08-09
 categories:
   - "Obesity"

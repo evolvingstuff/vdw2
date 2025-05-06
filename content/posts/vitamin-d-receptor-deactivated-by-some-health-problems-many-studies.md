@@ -3,7 +3,8 @@ title: "Vitamin D Receptor deactivated by some health problems - many studies"
 slug: "vitamin-d-receptor-deactivated-by-some-health-problems-many-studies"
 aliases:
   - "/Vitamin+D+Receptor+deactivated+by+some+health+problems+-+many+studies"
-  - "/tiki-index.php?page_id=15126"
+  - "/15126"
+tiki_page_id: 15126
 date: 2024-03-12
 ---
 

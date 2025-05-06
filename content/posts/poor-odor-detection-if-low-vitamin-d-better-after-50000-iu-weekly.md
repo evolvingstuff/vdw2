@@ -3,7 +3,8 @@ title: "Poor odor detection if low Vitamin D, better after 50,000 IU weekly"
 slug: "poor-odor-detection-if-low-vitamin-d-better-after-50000-iu-weekly"
 aliases:
   - "/Poor+odor+detection+if+low+Vitamin+D+better+after+50000+IU+weekly+-+July+2021"
-  - "/tiki-index.php?page_id=13278"
+  - "/13278"
+tiki_page_id: 13278
 date: 2022-01-23
 categories:
   - "Health"

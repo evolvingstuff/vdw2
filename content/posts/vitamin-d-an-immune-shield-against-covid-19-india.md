@@ -3,7 +3,8 @@ title: "Vitamin-D: An Immune Shield Against COVID-19 – India"
 slug: "vitamin-d-an-immune-shield-against-covid-19-india"
 aliases:
   - "/Vitamin-D+An+Immune+Shield+Against+COVID-19+–+India+May+21+2020"
-  - "/tiki-index.php?page_id=11778"
+  - "/11778"
+tiki_page_id: 11778
 date: 2020-05-22
 ---
 

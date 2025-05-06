@@ -3,7 +3,8 @@ title: "Increased cancer risk from night shift (and many others- low vitamin D)"
 slug: "increased-cancer-risk-from-night-shift-and-many-others-low-vitamin-d"
 aliases:
   - "/Increased+cancer+risk+from+night+shift+and+many+others-+low+vitamin+D+-+April+2021"
-  - "/tiki-index.php?page_id=12484"
+  - "/12484"
+tiki_page_id: 12484
 date: 2021-04-08
 categories:
   - "Cancer"

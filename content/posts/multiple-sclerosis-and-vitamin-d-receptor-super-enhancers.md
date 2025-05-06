@@ -3,7 +3,8 @@ title: "Multiple Sclerosis and Vitamin D Receptor super enhancers"
 slug: "multiple-sclerosis-and-vitamin-d-receptor-super-enhancers"
 aliases:
   - "/Multiple+Sclerosis+and+Vitamin+D+Receptor+super+enhancers+–+March+2019"
-  - "/tiki-index.php?page_id=10804"
+  - "/10804"
+tiki_page_id: 10804
 date: 2019-05-22
 categories:
   - "Multiple Sclerosis"

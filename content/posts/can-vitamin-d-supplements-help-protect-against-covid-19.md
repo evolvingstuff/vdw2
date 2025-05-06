@@ -3,7 +3,8 @@ title: "Can vitamin D supplements help protect against COVID-19"
 slug: "can-vitamin-d-supplements-help-protect-against-covid-19"
 aliases:
   - "/Can+vitamin+D+supplements+help+protect+against+COVID-19+-+Oct+1+2020"
-  - "/tiki-index.php?page_id=11981"
+  - "/11981"
+tiki_page_id: 11981
 date: 2020-10-01
 categories:
   - "Virus"

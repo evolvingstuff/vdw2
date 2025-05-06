@@ -3,7 +3,8 @@ title: "COVID in seniors 5X less likely to be severe if vegetarian (small study)
 slug: "covid-in-seniors-5x-less-likely-to-be-severe-if-vegetarian-small-study"
 aliases:
   - "/COVID+in+seniors+5X+less+likely+to+be+severe+if+vegetarian+small+study+–+April+2022"
-  - "/tiki-index.php?page_id=13562"
+  - "/13562"
+tiki_page_id: 13562
 date: 2022-05-16
 categories:
   - "Seniors"

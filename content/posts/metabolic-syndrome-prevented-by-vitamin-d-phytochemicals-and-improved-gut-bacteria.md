@@ -3,7 +3,8 @@ title: "Metabolic Syndrome prevented by Vitamin D, Phytochemicals and improved g
 slug: "metabolic-syndrome-prevented-by-vitamin-d-phytochemicals-and-improved-gut-bacteria"
 aliases:
   - "/Metabolic+Syndrome+prevented+by+Vitamin+D+Phytochemicals+and+improved+gut+bacteria+-+Feb+2023"
-  - "/tiki-index.php?page_id=14261"
+  - "/14261"
+tiki_page_id: 14261
 date: 2023-02-11
 categories:
   - "Metabolic Syndrome"

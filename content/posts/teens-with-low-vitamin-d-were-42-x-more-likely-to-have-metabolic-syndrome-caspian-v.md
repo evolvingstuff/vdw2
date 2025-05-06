@@ -3,7 +3,8 @@ title: "Teens with low vitamin D were 4.2 X more likely to have metabolic syndro
 slug: "teens-with-low-vitamin-d-were-42-x-more-likely-to-have-metabolic-syndrome-caspian-v"
 aliases:
   - "/Teens+with+low+vitamin+D+were+42+X+more+likely+to+have+metabolic+syndrome+–+CASPIAN-V+Nov+2021"
-  - "/tiki-index.php?page_id=13090"
+  - "/13090"
+tiki_page_id: 13090
 date: 2021-11-17
 categories:
   - "Youth"

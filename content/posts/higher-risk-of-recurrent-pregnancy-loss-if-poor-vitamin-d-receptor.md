@@ -3,7 +3,8 @@ title: "Higher risk of Recurrent Pregnancy Loss if poor Vitamin D Receptor"
 slug: "higher-risk-of-recurrent-pregnancy-loss-if-poor-vitamin-d-receptor"
 aliases:
   - "/Higher+risk+of+Recurrent+Pregnancy+Loss+if+poor+Vitamin+D+Receptor+–+Feb+2021"
-  - "/tiki-index.php?page_id=12125"
+  - "/12125"
+tiki_page_id: 12125
 date: 2020-12-06
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Low Vitamin D if little UVB, supplementation helps (Antarctica) – meta
 slug: "low-vitamin-d-if-little-uvb-supplementation-helps-antarctica-meta-analysis"
 aliases:
   - "/Low+Vitamin+D+if+little+UVB+supplementation+helps+Antarctica+–+meta-analysis+Dec+2021"
-  - "/tiki-index.php?page_id=12582"
+  - "/12582"
+tiki_page_id: 12582
 date: 2021-05-13
 categories:
   - "UV and Vitamin D"

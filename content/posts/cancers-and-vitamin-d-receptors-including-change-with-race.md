@@ -3,7 +3,8 @@ title: "Cancers and Vitamin D Receptors, including change with race"
 slug: "cancers-and-vitamin-d-receptors-including-change-with-race"
 aliases:
   - "/Cancers+and+Vitamin+D+Receptors+including+change+with+race+–+Feb+2021"
-  - "/tiki-index.php?page_id=13012"
+  - "/13012"
+tiki_page_id: 13012
 date: 2021-10-21
 categories:
   - "Skin - Dark"

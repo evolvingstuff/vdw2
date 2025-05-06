@@ -3,7 +3,8 @@ title: "Prudent to consider that Vitamin D has a role in COVID-19 – meta-analy
 slug: "prudent-to-consider-that-vitamin-d-has-a-role-in-covid-19-meta-analysis"
 aliases:
   - "/Prudent+to+consider+that+Vitamin+D+has+a+role+in+COVID-19+–+meta-analysis+–+Aug+7+2020"
-  - "/tiki-index.php?page_id=11896"
+  - "/11896"
+tiki_page_id: 11896
 date: 2020-08-09
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "Australia’s COVID Response resulted in 31 X more life years lost than 
 slug: "australias-covid-response-resulted-in-31-x-more-life-years-lost-than-were-saved"
 aliases:
   - "/Australias+COVID+Response+resulted+in+31+X+more+life+years+lost+than+were+saved+-+Sept+2022"
-  - "/tiki-index.php?page_id=13941"
+  - "/13941"
+tiki_page_id: 13941
 date: 2022-09-26
 categories:
   - "Vitamin D in Australia and New Zealand"

@@ -3,7 +3,8 @@ title: "66 percent of COVID Omicron patients in Ontario hospitals are vaccinated
 slug: "66-percent-of-covid-omicron-patients-in-ontario-hospitals-are-vaccinated"
 aliases:
   - "/66+percent+of+COVID+Omicron+patients+in+Ontario+hospitals+are+vaccinated+-+Jan+23+2022"
-  - "/tiki-index.php?page_id=13279"
+  - "/13279"
+tiki_page_id: 13279
 date: 2022-01-23
 categories:
   - "Virus"

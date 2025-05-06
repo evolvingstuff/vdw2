@@ -3,7 +3,8 @@ title: "Parkinson's Disease and gut microbiome - several studies"
 slug: "parkinsons-disease-and-gut-microbiome-several-studies"
 aliases:
   - "/Parkinsons+Disease+and+gut+microbiome+-+several+studies"
-  - "/tiki-index.php?page_id=14214"
+  - "/14214"
+tiki_page_id: 14214
 date: 2023-01-19
 categories:
   - "Parkinson"

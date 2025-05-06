@@ -3,7 +3,8 @@ title: "Vitamin D not help fractures and falls if not vitamin D deficient – me
 slug: "vitamin-d-not-help-fractures-and-falls-if-not-vitamin-d-deficient-meta-analysis"
 aliases:
   - "/Vitamin+D+not+help+fractures+and+falls+if+not+vitamin+D+deficient+–+meta-analysis+Oct+2018"
-  - "/tiki-index.php?page_id=10091"
+  - "/10091"
+tiki_page_id: 10091
 date: 2018-10-05
 categories:
   - "Meta-analysis of Vitamin D"

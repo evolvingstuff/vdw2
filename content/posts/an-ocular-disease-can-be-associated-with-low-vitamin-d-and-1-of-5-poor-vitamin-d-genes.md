@@ -3,7 +3,8 @@ title: "An ocular disease can be associated with low vitamin D and 1 of 5 poor v
 slug: "an-ocular-disease-can-be-associated-with-low-vitamin-d-and-1-of-5-poor-vitamin-d-genes"
 aliases:
   - "/An+ocular+disease+can+be+associated+with+low+vitamin+D+and+1+of+5+poor+vitamin+D+genes+–+June+2022"
-  - "/tiki-index.php?page_id=13788"
+  - "/13788"
+tiki_page_id: 13788
 date: 2022-07-23
 categories:
   - "Vision"

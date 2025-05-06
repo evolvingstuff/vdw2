@@ -3,7 +3,8 @@ title: "Low Magnesium associated with severe COVID – many studies"
 slug: "low-magnesium-associated-with-severe-covid-many-studies"
 aliases:
   - "/Low+Magnesium+associated+with+severe+COVID+–+many+studies"
-  - "/tiki-index.php?page_id=14052"
+  - "/14052"
+tiki_page_id: 14052
 date: 2022-10-28
 categories:
   - "Vitamin D and Magnesium"

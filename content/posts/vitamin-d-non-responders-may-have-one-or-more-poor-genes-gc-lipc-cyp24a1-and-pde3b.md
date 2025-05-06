@@ -3,7 +3,8 @@ title: "Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP2
 slug: "vitamin-d-non-responders-may-have-one-or-more-poor-genes-gc-lipc-cyp24a1-and-pde3b"
 aliases:
   - "/Vitamin+D+non-responders+may+have+one+or+more+poor+genes+GC+LIPC+CYP24A1+and+PDE3B+–+Oct+2022"
-  - "/tiki-index.php?page_id=13976"
+  - "/13976"
+tiki_page_id: 13976
 date: 2022-10-03
 categories:
   - "Cystic Fibrosis"

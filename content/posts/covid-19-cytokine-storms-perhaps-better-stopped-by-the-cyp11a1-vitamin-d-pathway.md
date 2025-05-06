@@ -3,7 +3,8 @@ title: "COVID-19 cytokine storms perhaps better stopped by the CYP11A1 Vitamin D
 slug: "covid-19-cytokine-storms-perhaps-better-stopped-by-the-cyp11a1-vitamin-d-pathway"
 aliases:
   - "/COVID-19+cytokine+storms+perhaps+better+stopped+by+the+CYP11A1+Vitamin+D+pathway+–+Aug+11+2020"
-  - "/tiki-index.php?page_id=11903"
+  - "/11903"
+tiki_page_id: 11903
 date: 2020-08-12
 categories:
   - "Genetics"

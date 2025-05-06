@@ -3,7 +3,8 @@ title: "Infectious diseases in the UK so far this year: Omicron, H5 bird flu, La
 slug: "infectious-diseases-in-the-uk-so-far-this-year-omicron-h5-bird-flu-lassa-fever-h-eypox-and-polio"
 aliases:
   - "/Infectious+diseases+in+the+UK+so+far+this+year+Omicron+H5+bird+flu+Lassa+fever+haemorrhagic+fever+monkeypox+and+polio+–+June+2022"
-  - "/tiki-index.php?page_id=13718"
+  - "/13718"
+tiki_page_id: 13718
 date: 2022-06-28
 categories:
   - "Virus"

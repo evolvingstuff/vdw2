@@ -3,7 +3,8 @@ title: "Vitamin D Supplements Don’t Reduce COVID-19 Risk (used only 3,200 IU d
 slug: "vitamin-d-supplements-dont-reduce-covid-19-risk-used-only-3200-iu-daily"
 aliases:
   - "/Vitamin+D+Supplements+Dont+Reduce+COVID-19+Risk+used+only+3200+IU+daily+-+Oct+2022"
-  - "/tiki-index.php?page_id=14040"
+  - "/14040"
+tiki_page_id: 14040
 date: 2022-10-26
 categories:
   - "Intervention"

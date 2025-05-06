@@ -3,7 +3,8 @@ title: "COVID survival in Europe in 2020 best predicted by population-level Vita
 slug: "covid-survival-in-europe-in-2020-best-predicted-by-population-level-vitamin-d-of-13-variables"
 aliases:
   - "/COVID+survival+in+Europe+in+2020+best+predicted+by+population-level+Vitamin+D+of+13+variables+–+July+2022"
-  - "/tiki-index.php?page_id=13841"
+  - "/13841"
+tiki_page_id: 13841
 date: 2022-08-15
 categories:
   - "Mortality and D"

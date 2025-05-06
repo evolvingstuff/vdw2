@@ -3,7 +3,8 @@ title: "Interaction of drugs with Vitamin D, Magnesium, Vitamin B12, Selenium, e
 slug: "interaction-of-drugs-with-vitamin-d-magnesium-vitamin-b12-selenium-etc"
 aliases:
   - "/Interaction+of+drugs+with+Vitamin+D+Magnesium+Vitamin+B12+Selenium+etc+–+Dec+2018"
-  - "/tiki-index.php?page_id=10338"
+  - "/10338"
+tiki_page_id: 10338
 date: 2018-12-25
 categories:
   - "Vitamin D and Magnesium"

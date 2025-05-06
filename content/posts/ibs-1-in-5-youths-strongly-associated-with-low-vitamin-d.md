@@ -3,7 +3,8 @@ title: "IBS (1 in 5 youths) strongly associated with low vitamin D"
 slug: "ibs-1-in-5-youths-strongly-associated-with-low-vitamin-d"
 aliases:
   - "/IBS+1+in+5+youths+strongly+associated+with+low+vitamin+D+–+Dec+2018"
-  - "/tiki-index.php?page_id=10253"
+  - "/10253"
+tiki_page_id: 10253
 date: 2018-12-01
 categories:
   - "Youth"

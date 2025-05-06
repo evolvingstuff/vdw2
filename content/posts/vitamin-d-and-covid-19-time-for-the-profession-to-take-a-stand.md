@@ -3,7 +3,8 @@ title: "Vitamin-D and COVID-19: time for the profession to take a stand"
 slug: "vitamin-d-and-covid-19-time-for-the-profession-to-take-a-stand"
 aliases:
   - "/Vitamin-D+and+COVID-19+time+for+the+profession+to+take+a+stand+–+Jan+20+2021"
-  - "/tiki-index.php?page_id=12288"
+  - "/12288"
+tiki_page_id: 12288
 date: 2021-02-01
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Nursing homes could reduce risk of COVID-19 with Vitamin D"
 slug: "nursing-homes-could-reduce-risk-of-covid-19-with-vitamin-d"
 aliases:
   - "/Nursing+homes+could+reduce+risk+of+COVID-19+with+Vitamin+D+–+June+30+2020"
-  - "/tiki-index.php?page_id=11821"
+  - "/11821"
+tiki_page_id: 11821
 date: 2020-07-01
 categories:
   - "Seniors"

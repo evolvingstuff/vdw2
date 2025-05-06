@@ -3,7 +3,8 @@ title: "Common sense COVID-19 risk reduction - masks, social distancing, vitamin
 slug: "common-sense-covid-19-risk-reduction-masks-social-distancing-vitamin-d"
 aliases:
   - "/Common+sense+COVID-19+risk+reduction+-+masks+social+distancing+vitamin+D+-+Oct+2020"
-  - "/tiki-index.php?page_id=12052"
+  - "/12052"
+tiki_page_id: 12052
 date: 2020-11-08
 categories:
   - "Vitamin D Receptor"

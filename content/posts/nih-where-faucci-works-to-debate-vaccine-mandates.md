@@ -3,7 +3,8 @@ title: "NIH (where Faucci works) to debate vaccine mandates"
 slug: "nih-where-faucci-works-to-debate-vaccine-mandates"
 aliases:
   - "/NIH+where+Faucci+works+to+debate+vaccine+mandates+-+Dec+1+2021"
-  - "/tiki-index.php?page_id=13070"
+  - "/13070"
+tiki_page_id: 13070
 date: 2021-11-11
 categories:
   - "Virus"

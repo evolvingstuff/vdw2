@@ -3,7 +3,8 @@ title: "COVID-19, dark skin, pregnancy - Dr. Grimes, etc."
 slug: "covid-19-dark-skin-pregnancy-dr-grimes-etc"
 aliases:
   - "/COVID-19+dark+skin+pregnancy+-+Dr+Grimes+etc+-+May+2021"
-  - "/tiki-index.php?page_id=12606"
+  - "/12606"
+tiki_page_id: 12606
 date: 2021-05-26
 categories:
   - "Pregnancy"

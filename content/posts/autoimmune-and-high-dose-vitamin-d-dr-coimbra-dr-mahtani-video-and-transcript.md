@@ -3,7 +3,8 @@ title: "Autoimmune and high-dose vitamin D (Dr. Coimbra) - Dr. Mahtani video and
 slug: "autoimmune-and-high-dose-vitamin-d-dr-coimbra-dr-mahtani-video-and-transcript"
 aliases:
   - "/Autoimmune+and+high-dose+vitamin+D+Dr+Coimbra+-+Dr+Mahtani+video+and+transcript+-+Nov+2020"
-  - "/tiki-index.php?page_id=12487"
+  - "/12487"
+tiki_page_id: 12487
 date: 2021-04-11
 categories:
   - "Multiple Sclerosis"

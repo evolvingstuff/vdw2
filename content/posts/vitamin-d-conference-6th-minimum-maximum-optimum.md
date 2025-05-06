@@ -3,7 +3,8 @@ title: "Vitamin D Conference - 6th Minimum, Maximum, Optimum"
 slug: "vitamin-d-conference-6th-minimum-maximum-optimum"
 aliases:
   - "/Vitamin+D+Conference+-+6th+Minimum+Maximum+Optimum+-+Sept+2023"
-  - "/tiki-index.php?page_id=14723"
+  - "/14723"
+tiki_page_id: 14723
 date: 2023-10-04
 categories:
   - "Vitamin D in Europe"

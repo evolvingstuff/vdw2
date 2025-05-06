@@ -3,7 +3,8 @@ title: "Vitamin D prevented brain damage by High Fructose corn syrup (in rats)"
 slug: "vitamin-d-prevented-brain-damage-by-high-fructose-corn-syrup-in-rats"
 aliases:
   - "/Vitamin+D+prevented+brain+damage+by+High+Fructose+corn+syrup+in+rats+–+Feb+2024"
-  - "/tiki-index.php?page_id=14869"
+  - "/14869"
+tiki_page_id: 14869
 date: 2023-12-06
 categories:
   - "Cognitive"

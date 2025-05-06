@@ -3,7 +3,8 @@ title: "People with Cancer having more than 30 ng of Vitamin D are 40% less like
 slug: "people-with-cancer-having-more-than-30-ng-of-vitamin-d-are-40-percent-less-likel-ie-of-any-cause"
 aliases:
   - "/People+with+Cancer+having+more+than+30+ng+of+Vitamin+D+are+40+less+likely+to+die+of+any+cause+–+Nov+2023"
-  - "/tiki-index.php?page_id=14834"
+  - "/14834"
+tiki_page_id: 14834
 date: 2023-11-23
 categories:
   - "Mortality and D"

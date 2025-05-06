@@ -3,7 +3,8 @@ title: "Breast Cancer increased 2.3 X with high Phosphate in diet if not increas
 slug: "breast-cancer-increased-23-x-with-high-phosphate-in-diet-if-not-increase-vitamin-d"
 aliases:
   - "/Breast+Cancer+increased+23+X+with+high+Phosphate+in+diet+if+not+increase+vitamin+D+-+Aug+2023"
-  - "/tiki-index.php?page_id=14636"
+  - "/14636"
+tiki_page_id: 14636
 date: 2023-08-26
 categories:
   - "Cancer - Breast"

@@ -3,7 +3,8 @@ title: "Vitamin D, Zinc, Magnesium etc. are needed to fight COVID"
 slug: "vitamin-d-zinc-magnesium-etc-are-needed-to-fight-covid"
 aliases:
   - "/Vitamin+D+Zinc+Magnesium+etc+are+needed+to+fight+COVID+–+April+2022"
-  - "/tiki-index.php?page_id=13462"
+  - "/13462"
+tiki_page_id: 13462
 date: 2022-04-09
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Beyond vitamin D - book of testimonials on high-dose Coimbra Protocol - 
 slug: "beyond-vitamin-d-book-of-testimonials-on-high-dose-coimbra-protocol-aug-2021"
 aliases:
   - "/Beyond+vitamin+D+-+book+of+testimonials+on+high-dose+Coimbra+Protocol+-+Aug+2021"
-  - "/tiki-index.php?page_id=13339"
+  - "/13339"
+tiki_page_id: 13339
 date: 2022-02-15
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D separately helps X or COVID, should help X with COVID (example
 slug: "vitamin-d-separately-helps-x-or-covid-should-help-x-with-covid-example-diabetes"
 aliases:
   - "/Vitamin+D+separately+helps+X+or+COVID+should+help+X+with+COVID+example+diabetes+–+March+2022"
-  - "/tiki-index.php?page_id=13374"
+  - "/13374"
+tiki_page_id: 13374
 date: 2022-03-06
 categories:
   - "Diabetes"

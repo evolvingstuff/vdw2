@@ -3,7 +3,8 @@ title: "Vaccine trials excluded pregnancies, but it is OK to be vaccinated while
 slug: "vaccine-trials-excluded-pregnancies-but-it-is-ok-to-be-vaccinated-while-pregnant"
 aliases:
   - "/Vaccine+trials+excluded+pregnancies+but+it+is+OK+to+be+vaccinated+while+pregnant"
-  - "/tiki-index.php?page_id=12310"
+  - "/12310"
+tiki_page_id: 12310
 date: 2021-02-08
 categories:
   - "Pregnancy"

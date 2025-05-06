@@ -3,7 +3,8 @@ title: "Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - m
 slug: "nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies"
 aliases:
   - "/Nitric+oxide+from+sun+Mg+Vit+D+etc+reduces+some+health+problems+-+many+studies"
-  - "/tiki-index.php?page_id=14033"
+  - "/14033"
+tiki_page_id: 14033
 date: 2022-10-21
 categories:
   - "AI"

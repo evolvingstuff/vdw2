@@ -3,7 +3,8 @@ title: "Pregnancy recommendations – huge differences in Vitamin D, Mg, iron, I
 slug: "pregnancy-recommendations-huge-differences-in-vitamin-d-mg-iron-iodine-dha-etc"
 aliases:
   - "/Pregnancy+recommendations+–+huge+differences+in+Vitamin+D+Mg+iron+Iodine+DHA+etc+–+April+2021"
-  - "/tiki-index.php?page_id=12492"
+  - "/12492"
+tiki_page_id: 12492
 date: 2021-04-13
 categories:
   - "Pregnancy"

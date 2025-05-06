@@ -3,7 +3,8 @@ title: "COVID death 12X more likely if poor Vitamin D Receptor (less D gets to c
 slug: "covid-death-12x-more-likely-if-poor-vitamin-d-receptor-less-d-gets-to-cells-many-studies"
 aliases:
   - "/COVID+death+12X+more+likely+if+poor+Vitamin+D+Receptor+less+D+gets+to+cells+-+many+studies"
-  - "/tiki-index.php?page_id=13401"
+  - "/13401"
+tiki_page_id: 13401
 date: 2022-03-14
 categories:
   - "Vitamin D Receptor"

@@ -3,7 +3,8 @@ title: "How silicosis is fought by Vitamin D (in mice) - several studies"
 slug: "how-silicosis-is-fought-by-vitamin-d-in-mice-several-studies"
 aliases:
   - "/How+silicosis+is+fought+by+Vitamin+D+in+mice+-+several+studies"
-  - "/tiki-index.php?page_id=13932"
+  - "/13932"
+tiki_page_id: 13932
 date: 2022-09-22
 categories:
   - "Breathing"

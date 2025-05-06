@@ -3,7 +3,8 @@ title: "Soccer improved in children by a single 200,000 IU dose of Vitamin D –
 slug: "soccer-improved-in-children-by-a-single-200000-iu-dose-of-vitamin-d-rct"
 aliases:
   - "/Soccer+improved+in+children+by+a+single+200000+IU+dose+of+Vitamin+D+–+RCT+Oct+2019"
-  - "/tiki-index.php?page_id=11221"
+  - "/11221"
+tiki_page_id: 11221
 date: 2019-10-10
 ---
 

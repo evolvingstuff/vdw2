@@ -3,7 +3,8 @@ title: "Vitamin D does not help when most are not deficient (cataract surgery in
 slug: "vitamin-d-does-not-help-when-most-are-not-deficient-cataract-surgery-in-this-case-rct"
 aliases:
   - "/Vitamin+D+does+not+help+when+most+are+not+deficient+cataract+surgery+in+this+case+–+RCT+Sept+2022"
-  - "/tiki-index.php?page_id=13956"
+  - "/13956"
+tiki_page_id: 13956
 date: 2022-09-30
 categories:
   - "Vision"

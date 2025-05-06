@@ -3,7 +3,8 @@ title: "Vitamin D2 not help – again ( T1 diabetes– which has been helped by 
 slug: "vitamin-d2-not-help-again-t1-diabetes-which-has-been-helped-by-d3"
 aliases:
   - "/Vitamin+D2+not+help+–+again+T1+diabetes–+which+has+been+helped+by+D3+–+Jan+2022"
-  - "/tiki-index.php?page_id=13197"
+  - "/13197"
+tiki_page_id: 13197
 date: 2021-12-17
 categories:
   - "Diabetes"

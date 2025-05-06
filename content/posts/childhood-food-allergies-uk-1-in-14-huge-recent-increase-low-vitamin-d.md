@@ -3,7 +3,8 @@ title: "Childhood Food Allergies (UK 1 in 14) – huge recent increase (low vita
 slug: "childhood-food-allergies-uk-1-in-14-huge-recent-increase-low-vitamin-d"
 aliases:
   - "/Childhood+Food+Allergies+UK+1+in+14+–+huge+recent+increase+low+vitamin+D+-+Dec+2018"
-  - "/tiki-index.php?page_id=10262"
+  - "/10262"
+tiki_page_id: 10262
 date: 2018-12-03
 categories:
   - "Autoimmune"

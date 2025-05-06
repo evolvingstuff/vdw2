@@ -3,7 +3,8 @@ title: "Cystic Fibrosis appears associated with poor Vitamin D genes (radioactiv
 slug: "cystic-fibrosis-appears-associated-with-poor-vitamin-d-genes-radioactive-tracing"
 aliases:
   - "/Cystic+Fibrosis+appears+associated+with+poor+Vitamin+D+genes+radioactive+tracing+–+May+2023"
-  - "/tiki-index.php?page_id=14439"
+  - "/14439"
+tiki_page_id: 14439
 date: 2023-05-23
 categories:
   - "Cystic Fibrosis"

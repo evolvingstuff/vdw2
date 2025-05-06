@@ -3,7 +3,8 @@ title: "Prefer 40 – 60 ng of Vitamin D to minimize COVID-19"
 slug: "prefer-40-60-ng-of-vitamin-d-to-minimize-covid-19"
 aliases:
   - "/Prefer+40+–+60+ng+of+Vitamin+D+to+minimize+COVID-19+–+March+17+2021"
-  - "/tiki-index.php?page_id=12419"
+  - "/12419"
+tiki_page_id: 12419
 date: 2021-03-19
 categories:
   - "Skin - Dark"

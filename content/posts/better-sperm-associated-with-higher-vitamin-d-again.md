@@ -3,7 +3,8 @@ title: "Better sperm associated with higher vitamin D (again)"
 slug: "better-sperm-associated-with-higher-vitamin-d-again"
 aliases:
   - "/Better+sperm+associated+with+higher+vitamin+D+again+–+April+2022"
-  - "/tiki-index.php?page_id=13762"
+  - "/13762"
+tiki_page_id: 13762
 date: 2022-07-16
 categories:
   - "Fertility and sperm"

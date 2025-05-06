@@ -3,7 +3,8 @@ title: "Vitamin C"
 slug: "vitamin-c"
 aliases:
   - "/Vitamin+C"
-  - "/tiki-index.php?page_id=12319"
+  - "/12319"
+tiki_page_id: 12319
 date: 2021-02-13
 categories:
   - "Category"

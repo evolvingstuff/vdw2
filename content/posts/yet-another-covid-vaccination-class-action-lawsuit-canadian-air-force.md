@@ -3,7 +3,8 @@ title: "Yet another COVID Vaccination class action lawsuit (Canadian Air Force)"
 slug: "yet-another-covid-vaccination-class-action-lawsuit-canadian-air-force"
 aliases:
   - "/Yet+another+COVID+Vaccination+class+action+lawsuit+Canadian+Air+Force"
-  - "/tiki-index.php?page_id=14721"
+  - "/14721"
+tiki_page_id: 14721
 date: 2023-10-03
 ---
 

@@ -3,7 +3,8 @@ title: "Full-fat dairy reduced heart disease by 22 percent and stroke by 34 perc
 slug: "full-fat-dairy-reduced-heart-disease-by-22-percent-and-stroke-by-34-percent-136000-people-9-years"
 aliases:
   - "/Full-fat+dairy+reduced+heart+disease+by+22+percent+and+stroke+by+34+percent+136000+people+9+years+–+Sept+2018"
-  - "/tiki-index.php?page_id=10029"
+  - "/10029"
+tiki_page_id: 10029
 date: 2018-09-11
 categories:
   - "Fortification with Vitamin D"

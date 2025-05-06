@@ -3,7 +3,8 @@ title: "In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 
 slug: "in-vitro-fertilization-costs-at-least-10000-dollars-vitamin-d-costs-5-dollars"
 aliases:
   - "/In-vitro+Fertilization+costs+at+least+10000+dollars+Vitamin+D+costs+5+dollars"
-  - "/tiki-index.php?page_id=11174"
+  - "/11174"
+tiki_page_id: 11174
 date: 2019-09-27
 categories:
   - "Fertility and sperm"

@@ -3,7 +3,8 @@ title: "Vitamin D, mast cells, bones, and allergies"
 slug: "vitamin-d-mast-cells-bones-and-allergies"
 aliases:
   - "/Vitamin+D+mast+cells+bones+and+allergies+-+Aug+2022"
-  - "/tiki-index.php?page_id=15015"
+  - "/15015"
+tiki_page_id: 15015
 date: 2024-02-01
 ---
 

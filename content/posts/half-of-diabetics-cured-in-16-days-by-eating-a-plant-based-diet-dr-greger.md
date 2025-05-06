@@ -3,7 +3,8 @@ title: "Half of Diabetics cured in 16 days by eating a plant-based diet – Dr. 
 slug: "half-of-diabetics-cured-in-16-days-by-eating-a-plant-based-diet-dr-greger"
 aliases:
   - "/Half+of+Diabetics+cured+in+16+days+by+eating+a+plant-based+diet+–+Dr+Greger+Sept+2019"
-  - "/tiki-index.php?page_id=11219"
+  - "/11219"
+tiki_page_id: 11219
 date: 2019-10-08
 categories:
   - "Diabetes"

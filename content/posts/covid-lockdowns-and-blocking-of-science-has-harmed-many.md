@@ -3,7 +3,8 @@ title: "COVID lockdowns and blocking of science has harmed many"
 slug: "covid-lockdowns-and-blocking-of-science-has-harmed-many"
 aliases:
   - "/COVID+lockdowns+and+blocking+of+science+has+harmed+many+-+Oct+21+2021"
-  - "/tiki-index.php?page_id=13042"
+  - "/13042"
+tiki_page_id: 13042
 date: 2021-11-02
 categories:
   - "Virus"

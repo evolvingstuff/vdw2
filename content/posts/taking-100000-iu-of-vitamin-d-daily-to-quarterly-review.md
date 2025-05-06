@@ -3,7 +3,8 @@ title: "Taking 100,000 IU of Vitamin D daily to quarterly - review"
 slug: "taking-100000-iu-of-vitamin-d-daily-to-quarterly-review"
 aliases:
   - "/Taking+100000+IU+of+Vitamin+D+daily+to+quarterly+-+review+Jan+2024"
-  - "/tiki-index.php?page_id=14995"
+  - "/14995"
+tiki_page_id: 14995
 date: 2024-01-24
 categories:
   - "How, when to take Vit. D"

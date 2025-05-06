@@ -3,7 +3,8 @@ title: "More UVB results in more Vitamin D (chimps in zoos in this case)"
 slug: "more-uvb-results-in-more-vitamin-d-chimps-in-zoos-in-this-case"
 aliases:
   - "/More+UVB+results+in+more+Vitamin+D+chimps+in+zoos+in+this+case+–+Oct+2022"
-  - "/tiki-index.php?page_id=14031"
+  - "/14031"
+tiki_page_id: 14031
 date: 2022-10-21
 categories:
   - "Veterinary and Vitamin D"

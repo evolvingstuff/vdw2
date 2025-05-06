@@ -3,7 +3,8 @@ title: "After HIV infection, Vitamin D levels drop for years (not a surprise)"
 slug: "after-hiv-infection-vitamin-d-levels-drop-for-years-not-a-surprise"
 aliases:
   - "/After+HIV+infection+Vitamin+D+levels+drop+for+years+not+a+surprise–+Oct+2021"
-  - "/tiki-index.php?page_id=13019"
+  - "/13019"
+tiki_page_id: 13019
 date: 2021-10-26
 categories:
   - "HIV"

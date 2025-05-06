@@ -3,7 +3,8 @@ title: "Vitamins and Metals needed by the Immune System"
 slug: "vitamins-and-metals-needed-by-the-immune-system"
 aliases:
   - "/Vitamins+and+Metals+needed+by+the+Immune+System+–+Jan+2020"
-  - "/tiki-index.php?page_id=11586"
+  - "/11586"
+tiki_page_id: 11586
 date: 2020-01-23
 categories:
   - "Supplement"

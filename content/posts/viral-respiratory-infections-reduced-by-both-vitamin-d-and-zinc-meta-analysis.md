@@ -3,7 +3,8 @@ title: "Viral respiratory infections reduced by both Vitamin D and Zinc – meta
 slug: "viral-respiratory-infections-reduced-by-both-vitamin-d-and-zinc-meta-analysis"
 aliases:
   - "/Viral+respiratory+infections+reduced+by+both+Vitamin+D+and+Zinc+–+meta-analysis+-Oct+2021"
-  - "/tiki-index.php?page_id=12971"
+  - "/12971"
+tiki_page_id: 12971
 date: 2021-10-11
 ---
 

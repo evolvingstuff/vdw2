@@ -3,7 +3,8 @@ title: "Exercise and Vitamin D are synergistic - many studies"
 slug: "exercise-and-vitamin-d-are-synergistic-many-studies"
 aliases:
   - "/Exercise+and+Vitamin+D+are+synergistic+-+many+studies"
-  - "/tiki-index.php?page_id=14367"
+  - "/14367"
+tiki_page_id: 14367
 date: 2023-04-09
 ---
 

@@ -3,7 +3,8 @@ title: "Asthmatic children 5X more likely to have a poor Vitamin D Receptor"
 slug: "asthmatic-children-5x-more-likely-to-have-a-poor-vitamin-d-receptor"
 aliases:
   - "/Asthmatic+children+5X+more+likely+to+have+a+poor+Vitamin+D+Receptor+–+June+2019"
-  - "/tiki-index.php?page_id=10922"
+  - "/10922"
+tiki_page_id: 10922
 date: 2019-06-25
 categories:
   - "Breathing"

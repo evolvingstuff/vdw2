@@ -3,7 +3,8 @@ title: "Observations that Vitamin D, Zinc, and Selenium separately reduce COVID-
 slug: "observations-that-vitamin-d-zinc-and-selenium-separately-reduce-covid-19"
 aliases:
   - "/Observations+that+Vitamin+D+Zinc+and+Selenium+separately+reduce+COVID-19+–+Aug+7+2020"
-  - "/tiki-index.php?page_id=11887"
+  - "/11887"
+tiki_page_id: 11887
 date: 2020-08-07
 categories:
   - "Virus"

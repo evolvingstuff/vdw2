@@ -3,7 +3,8 @@ title: "COVID US survey: 43% not expect to ever return to normal – Gallup"
 slug: "covid-us-survey-43-percent-not-expect-to-ever-return-to-normal-gallup"
 aliases:
   - "/COVID+US+survey+43+not+expect+to+ever+return+to+normal+–+Gallup+March+2024"
-  - "/tiki-index.php?page_id=15156"
+  - "/15156"
+tiki_page_id: 15156
 date: 2024-03-20
 categories:
   - "Virus"

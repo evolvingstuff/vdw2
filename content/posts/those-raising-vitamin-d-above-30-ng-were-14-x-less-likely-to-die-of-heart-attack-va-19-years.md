@@ -3,7 +3,8 @@ title: "Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Hea
 slug: "those-raising-vitamin-d-above-30-ng-were-14-x-less-likely-to-die-of-heart-attack-va-19-years"
 aliases:
   - "/Those+raising+Vitamin+D+above+30+ng+were+14+X+less+likely+to+die+of+Heart+Attack+VA+19+years+–+Oct+2021"
-  - "/tiki-index.php?page_id=13026"
+  - "/13026"
+tiki_page_id: 13026
 date: 2021-10-27
 categories:
   - "Cardiovascular"

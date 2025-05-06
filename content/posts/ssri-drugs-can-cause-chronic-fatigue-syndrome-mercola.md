@@ -3,7 +3,8 @@ title: "SSRI Drugs Can Cause Chronic Fatigue Syndrome - Mercola"
 slug: "ssri-drugs-can-cause-chronic-fatigue-syndrome-mercola"
 aliases:
   - "/SSRI+Drugs+Can+Cause+Chronic+Fatigue+Syndrome+-+Mercola+April+2024"
-  - "/tiki-index.php?page_id=15222"
+  - "/15222"
+tiki_page_id: 15222
 date: 2024-04-19
 categories:
   - "Depression"

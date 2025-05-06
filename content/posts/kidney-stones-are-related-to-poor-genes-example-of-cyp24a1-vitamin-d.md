@@ -3,7 +3,8 @@ title: "Kidney Stones are related to poor genes – example of CYP24A1 (Vitamin 
 slug: "kidney-stones-are-related-to-poor-genes-example-of-cyp24a1-vitamin-d"
 aliases:
   - "/Kidney+Stones+are+related+to+poor+genes+–+example+of+CYP24A1+Vitamin+D+–+Nov+2019"
-  - "/tiki-index.php?page_id=11356"
+  - "/11356"
+tiki_page_id: 11356
 date: 2019-11-16
 categories:
   - "Genetics"

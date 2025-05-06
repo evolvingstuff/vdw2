@@ -3,7 +3,8 @@ title: "Asthma: some aspects reduced by Vitamin D"
 slug: "asthma-some-aspects-reduced-by-vitamin-d"
 aliases:
   - "/Asthma+some+aspects+reduced+by+Vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13798"
+  - "/13798"
+tiki_page_id: 13798
 date: 2022-07-26
 categories:
   - "Breathing"

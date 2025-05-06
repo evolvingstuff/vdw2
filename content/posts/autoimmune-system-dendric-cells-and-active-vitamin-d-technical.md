@@ -3,7 +3,8 @@ title: "Autoimmune system, Dendric cells and active Vitamin D (technical)"
 slug: "autoimmune-system-dendric-cells-and-active-vitamin-d-technical"
 aliases:
   - "/Autoimmune+system+Dendric+cells+and+active+Vitamin+D+technical+March+2019"
-  - "/tiki-index.php?page_id=10674"
+  - "/10674"
+tiki_page_id: 10674
 date: 2019-04-16
 categories:
   - "Autoimmune"

@@ -3,7 +3,8 @@ title: "Omega-3 may reduce weight gain and maintain weight loss"
 slug: "omega-3-may-reduce-weight-gain-and-maintain-weight-loss"
 aliases:
   - "/Omega-3+may+reduce+weight+gain+and+maintain+weight+loss+–+Aug+2018"
-  - "/tiki-index.php?page_id=10180"
+  - "/10180"
+tiki_page_id: 10180
 date: 2018-11-03
 categories:
   - "Obesity"

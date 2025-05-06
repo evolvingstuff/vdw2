@@ -3,7 +3,8 @@ title: "Vitamin D is linked to metabolic syndrome and obesity"
 slug: "vitamin-d-is-linked-to-metabolic-syndrome-and-obesity"
 aliases:
   - "/Vitamin+D+is+linked+to+metabolic+syndrome+and+obesity+–+Aug+2019"
-  - "/tiki-index.php?page_id=11077"
+  - "/11077"
+tiki_page_id: 11077
 date: 2019-08-16
 categories:
   - "Obesity"

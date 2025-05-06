@@ -3,7 +3,8 @@ title: "Half of the residents had COVID-19 antibodies, very few had symptoms"
 slug: "half-of-the-residents-had-covid-19-antibodies-very-few-had-symptoms"
 aliases:
   - "/Half+of+the+residents+had+COVID-19+antibodies+very+few+had+symptoms"
-  - "/tiki-index.php?page_id=11913"
+  - "/11913"
+tiki_page_id: 11913
 date: 2020-08-21
 categories:
   - "Virus"

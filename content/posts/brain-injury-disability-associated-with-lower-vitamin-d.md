@@ -3,7 +3,8 @@ title: "Brain injury disability associated with lower vitamin D"
 slug: "brain-injury-disability-associated-with-lower-vitamin-d"
 aliases:
   - "/Brain+injury+disability+associated+with+lower+vitamin+D+–+Oct+2018"
-  - "/tiki-index.php?page_id=10142"
+  - "/10142"
+tiki_page_id: 10142
 date: 2018-10-20
 categories:
   - "Trauma and surgery"

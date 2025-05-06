@@ -3,7 +3,8 @@ title: "11,321 Breakthru COVID cases in Massachusetts last week (fully vaccinate
 slug: "11321-breakthru-covid-cases-in-massachusetts-last-week-fully-vaccinated"
 aliases:
   - "/11321+Breakthru+COVID+cases+in+Massachusetts+last+week+fully+vaccinated+-+Dec+7+2021"
-  - "/tiki-index.php?page_id=13157"
+  - "/13157"
+tiki_page_id: 13157
 date: 2021-12-08
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Long-haul after breakthrough COVID"
 slug: "long-haul-after-breakthrough-covid"
 aliases:
   - "/Long-haul+after+breakthrough+COVID+–+Nov+2021"
-  - "/tiki-index.php?page_id=13170"
+  - "/13170"
+tiki_page_id: 13170
 date: 2021-12-11
 categories:
   - "Virus"

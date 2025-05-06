@@ -3,7 +3,8 @@ title: "Folate and Vitamin B6 decrease mortality"
 slug: "folate-and-vitamin-b6-decrease-mortality"
 aliases:
   - "/Folate+and+Vitamin+B6+decrease+mortality+–+May+2022"
-  - "/tiki-index.php?page_id=13602"
+  - "/13602"
+tiki_page_id: 13602
 date: 2022-05-27
 ---
 

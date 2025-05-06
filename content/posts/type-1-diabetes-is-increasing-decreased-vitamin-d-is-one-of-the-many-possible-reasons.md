@@ -3,7 +3,8 @@ title: "Type 1 Diabetes is increasing – decreased vitamin D is one of the many
 slug: "type-1-diabetes-is-increasing-decreased-vitamin-d-is-one-of-the-many-possible-reasons"
 aliases:
   - "/Type+1+Diabetes+is+increasing+–+decreased+vitamin+D+is+one+of+the+many+possible+reasons+–+Sept+2018"
-  - "/tiki-index.php?page_id=10034"
+  - "/10034"
+tiki_page_id: 10034
 date: 2018-09-13
 categories:
   - "Diabetes"

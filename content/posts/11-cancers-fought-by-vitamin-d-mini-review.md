@@ -3,7 +3,8 @@ title: "11 cancers fought by Vitamin D - mini review"
 slug: "11-cancers-fought-by-vitamin-d-mini-review"
 aliases:
   - "/11+cancers+fought+by+Vitamin+D+-+mini+review+April+2023"
-  - "/tiki-index.php?page_id=14389"
+  - "/14389"
+tiki_page_id: 14389
 date: 2023-04-21
 categories:
   - "Cancer"

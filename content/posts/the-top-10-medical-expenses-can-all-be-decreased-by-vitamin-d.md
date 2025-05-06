@@ -3,7 +3,8 @@ title: "The top 10 medical expenses can all be decreased by vitamin D"
 slug: "the-top-10-medical-expenses-can-all-be-decreased-by-vitamin-d"
 aliases:
   - "/The+top+10+medical+expenses+can+all+be+decreased+by+vitamin+D"
-  - "/tiki-index.php?page_id=14182"
+  - "/14182"
+tiki_page_id: 14182
 date: 2022-12-30
 categories:
   - "Health"

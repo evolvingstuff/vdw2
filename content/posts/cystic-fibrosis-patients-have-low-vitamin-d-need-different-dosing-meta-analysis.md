@@ -3,7 +3,8 @@ title: "Cystic Fibrosis patients have low vitamin D (need different dosing) – 
 slug: "cystic-fibrosis-patients-have-low-vitamin-d-need-different-dosing-meta-analysis"
 aliases:
   - "/Cystic+Fibrosis+patients+have+low+vitamin+D+need+different+dosing+–+meta-analysis+Jan+2024"
-  - "/tiki-index.php?page_id=14978"
+  - "/14978"
+tiki_page_id: 14978
 date: 2024-01-18
 categories:
   - "Cystic Fibrosis"

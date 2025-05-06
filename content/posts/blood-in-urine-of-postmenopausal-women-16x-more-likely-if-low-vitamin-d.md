@@ -3,7 +3,8 @@ title: "Blood in urine of postmenopausal women 1.6X more likely if low vitamin D
 slug: "blood-in-urine-of-postmenopausal-women-16x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Blood+in+urine+of+postmenopausal+women+16X+more+likely+if+low+vitamin+D+–+May+2019"
-  - "/tiki-index.php?page_id=10812"
+  - "/10812"
+tiki_page_id: 10812
 date: 2019-05-24
 categories:
   - "Women"

@@ -3,7 +3,8 @@ title: "Poor Vitamin D response 4X more likely if poor Vitamin D binding protein
 slug: "poor-vitamin-d-response-4x-more-likely-if-poor-vitamin-d-binding-proteins"
 aliases:
   - "/Poor+Vitamin+D+response+4X+more+likely+if+poor+Vitamin+D+binding+proteins+-+July+2019"
-  - "/tiki-index.php?page_id=10649"
+  - "/10649"
+tiki_page_id: 10649
 date: 2019-04-09
 categories:
   - "Top news"

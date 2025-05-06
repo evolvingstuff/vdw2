@@ -3,7 +3,8 @@ title: "Avoid excess Vitamin D - 1 person accidentally given 10,000 more than pr
 slug: "avoid-excess-vitamin-d-1-person-accidentally-given-10000-more-than-prescribed"
 aliases:
   - "/Avoid+excess+Vitamin+D+-+1+person+accidentally+given+10000+more+than+prescribed+-+Feb+2022"
-  - "/tiki-index.php?page_id=13343"
+  - "/13343"
+tiki_page_id: 13343
 date: 2022-02-16
 categories:
   - "Toxicity of Vitamin D"

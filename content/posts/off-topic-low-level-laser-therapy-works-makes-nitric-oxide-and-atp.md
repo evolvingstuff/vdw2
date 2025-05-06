@@ -3,7 +3,8 @@ title: "Off topic: Low Level Laser Therapy works - makes Nitric Oxide and ATP"
 slug: "off-topic-low-level-laser-therapy-works-makes-nitric-oxide-and-atp"
 aliases:
   - "/Off+topic+Low+Level+Laser+Therapy+works+-+makes+Nitric+Oxide+and+ATP"
-  - "/tiki-index.php?page_id=10018"
+  - "/10018"
+tiki_page_id: 10018
 date: 2018-09-09
 categories:
   - "Off Topic"

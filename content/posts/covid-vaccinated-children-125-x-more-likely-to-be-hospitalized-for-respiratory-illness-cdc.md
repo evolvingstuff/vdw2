@@ -3,7 +3,8 @@ title: "COVID Vaccinated Children 1.25 X More Likely to Be Hospitalized for Resp
 slug: "covid-vaccinated-children-125-x-more-likely-to-be-hospitalized-for-respiratory-illness-cdc"
 aliases:
   - "/COVID+Vaccinated+Children+125+X+More+Likely+to+Be+Hospitalized+for+Respiratory+Illness+-+CDC+Jan+2024"
-  - "/tiki-index.php?page_id=14963"
+  - "/14963"
+tiki_page_id: 14963
 date: 2024-01-11
 categories:
   - "Infant-Child"

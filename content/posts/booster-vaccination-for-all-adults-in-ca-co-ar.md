@@ -3,7 +3,8 @@ title: "Booster vaccination for all adults in CA, CO, AR"
 slug: "booster-vaccination-for-all-adults-in-ca-co-ar"
 aliases:
   - "/Booster+vaccination+for+all+adults+in+CA+CO+AR+-+Nov+2021"
-  - "/tiki-index.php?page_id=13074"
+  - "/13074"
+tiki_page_id: 13074
 date: 2021-11-11
 categories:
   - "Virus"

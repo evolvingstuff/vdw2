@@ -3,7 +3,8 @@ title: "Consensus recommends at least 20 ng of Vitamin D for childhood cancer (n
 slug: "consensus-recommends-at-least-20-ng-of-vitamin-d-for-childhood-cancer-not-nearly-enough"
 aliases:
   - "/Consensus+recommends+at+least+20+ng+of+Vitamin+D+for+childhood+cancer+not+nearly+enough+–+June+2021"
-  - "/tiki-index.php?page_id=12641"
+  - "/12641"
+tiki_page_id: 12641
 date: 2021-06-08
 categories:
   - "Cancer"

@@ -3,7 +3,8 @@ title: "4X reduction in prediabetes progressing to T2D if more than 50 ng of vit
 slug: "4x-reduction-in-prediabetes-progressing-to-t2d-if-more-than-50-ng-of-vitamin-d-rct"
 aliases:
   - "/4X+reduction+in+prediabetes+progressing+to+T2D+if+more+than+50+ng+of+vitamin+D+–+RCT+March+2023"
-  - "/tiki-index.php?page_id=14407"
+  - "/14407"
+tiki_page_id: 14407
 date: 2023-05-01
 categories:
   - "Diabetes"

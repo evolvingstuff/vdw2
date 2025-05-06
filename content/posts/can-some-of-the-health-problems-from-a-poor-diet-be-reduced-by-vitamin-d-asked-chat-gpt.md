@@ -3,7 +3,8 @@ title: "Can some of the health problems from a poor diet be reduced by Vitamin D
 slug: "can-some-of-the-health-problems-from-a-poor-diet-be-reduced-by-vitamin-d-asked-chat-gpt"
 aliases:
   - "/Can+some+of+the+health+problems+from+a+poor+diet+be+reduced+by+Vitamin+D+-+asked+Chat-GPT+Jan+2024"
-  - "/tiki-index.php?page_id=14937"
+  - "/14937"
+tiki_page_id: 14937
 date: 2024-01-01
 categories:
   - "AI"

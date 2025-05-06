@@ -3,7 +3,8 @@ title: "A Simple Protocol Is Stopping the Progression of MS"
 slug: "a-simple-protocol-is-stopping-the-progression-of-ms"
 aliases:
   - "/A+Simple+Protocol+Is+Stopping+the+Progression+of+MS+-+Aug+2022"
-  - "/tiki-index.php?page_id=13876"
+  - "/13876"
+tiki_page_id: 13876
 date: 2022-08-29
 categories:
   - "Multiple Sclerosis"

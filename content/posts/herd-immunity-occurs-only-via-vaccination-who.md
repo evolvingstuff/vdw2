@@ -3,7 +3,8 @@ title: "Herd immunity occurs only via vaccination - W.H.O."
 slug: "herd-immunity-occurs-only-via-vaccination-who"
 aliases:
   - "/Herd+immunity+occurs+only+via+vaccination+-+WHO+Oct+2020"
-  - "/tiki-index.php?page_id=12223"
+  - "/12223"
+tiki_page_id: 12223
 date: 2021-01-15
 categories:
   - "Virus"

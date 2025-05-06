@@ -3,7 +3,8 @@ title: "Vitamin D presentation charts"
 slug: "vitamin-d-presentation-charts"
 aliases:
   - "/Vitamin+D+presentation+charts+-+March+2023"
-  - "/tiki-index.php?page_id=14265"
+  - "/14265"
+tiki_page_id: 14265
 date: 2023-02-14
 ---
 

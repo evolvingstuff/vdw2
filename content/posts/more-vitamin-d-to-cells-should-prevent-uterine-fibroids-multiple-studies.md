@@ -3,7 +3,8 @@ title: "More Vitamin D to cells should prevent Uterine Fibroids – multiple stu
 slug: "more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies"
 aliases:
   - "/More+Vitamin+D+to+cells+should+prevent+Uterine+Fibroids+–+multiple+studies"
-  - "/tiki-index.php?page_id=12118"
+  - "/12118"
+tiki_page_id: 12118
 date: 2020-12-05
 categories:
   - "Women"

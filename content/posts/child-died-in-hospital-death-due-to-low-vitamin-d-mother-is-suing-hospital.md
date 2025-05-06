@@ -3,7 +3,8 @@ title: "Child died in hospital, death due to low vitamin D, mother is suing hosp
 slug: "child-died-in-hospital-death-due-to-low-vitamin-d-mother-is-suing-hospital"
 aliases:
   - "/Child+died+in+hospital+death+due+to+low+vitamin+D+mother+is+suing+hospital+–+Nov+2018"
-  - "/tiki-index.php?page_id=10216"
+  - "/10216"
+tiki_page_id: 10216
 date: 2018-11-20
 categories:
   - "Tests for Vitamin D"

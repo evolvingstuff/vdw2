@@ -3,7 +3,8 @@ title: "Bad effects of fructose diet offset by Vitamin D supplementation (mice)"
 slug: "bad-effects-of-fructose-diet-offset-by-vitamin-d-supplementation-mice"
 aliases:
   - "/Bad+effects+of+fructose+diet+offset+by+Vitamin+D+supplementation+mice+-+June+2019"
-  - "/tiki-index.php?page_id=10846"
+  - "/10846"
+tiki_page_id: 10846
 date: 2019-06-09
 ---
 

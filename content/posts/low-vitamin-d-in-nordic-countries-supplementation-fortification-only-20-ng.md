@@ -3,7 +3,8 @@ title: "Low Vitamin D in Nordic countries – supplementation, fortification, on
 slug: "low-vitamin-d-in-nordic-countries-supplementation-fortification-only-20-ng"
 aliases:
   - "/Low+Vitamin+D+in+Nordic+countries+–+supplementation+fortification+only+20+ng+–+Jan+2020"
-  - "/tiki-index.php?page_id=11547"
+  - "/11547"
+tiki_page_id: 11547
 date: 2020-01-10
 categories:
   - "Skin - Dark"

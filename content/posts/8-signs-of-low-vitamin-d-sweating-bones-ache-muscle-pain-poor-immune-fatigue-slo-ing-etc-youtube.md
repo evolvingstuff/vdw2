@@ -3,7 +3,8 @@ title: "8 Signs of Low Vitamin D - sweating, bones ache, muscle pain, poor immun
 slug: "8-signs-of-low-vitamin-d-sweating-bones-ache-muscle-pain-poor-immune-fatigue-slo-ing-etc-youtube"
 aliases:
   - "/8+Signs+of+Low+Vitamin+D+-+sweating+bones+ache+muscle+pain+poor+immune+fatigue+slow+healing+etc+–+YouTube+Dec+2018"
-  - "/tiki-index.php?page_id=11043"
+  - "/11043"
+tiki_page_id: 11043
 date: 2019-08-04
 categories:
   - "Pain - chronic"

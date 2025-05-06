@@ -3,7 +3,8 @@ title: "COVID case undercounting by at least 5X (little central testing in US)"
 slug: "covid-case-undercounting-by-at-least-5x-little-central-testing-in-us"
 aliases:
   - "/COVID+case+undercounting+by+at+least+5X+little+central+testing+in+US+–+May+29+2022"
-  - "/tiki-index.php?page_id=13608"
+  - "/13608"
+tiki_page_id: 13608
 date: 2022-05-29
 categories:
   - "Virus"

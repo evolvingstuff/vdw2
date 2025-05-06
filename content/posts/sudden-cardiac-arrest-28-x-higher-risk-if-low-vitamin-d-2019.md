@@ -3,7 +3,8 @@ title: "Sudden Cardiac Arrest – 2.8 X higher risk if low vitamin D – 2019"
 slug: "sudden-cardiac-arrest-28-x-higher-risk-if-low-vitamin-d-2019"
 aliases:
   - "/Sudden+Cardiac+Arrest+–+28+X+higher+risk+if+low+vitamin+D+–+2019"
-  - "/tiki-index.php?page_id=11501"
+  - "/11501"
+tiki_page_id: 11501
 date: 2019-12-26
 categories:
   - "Cardiovascular"

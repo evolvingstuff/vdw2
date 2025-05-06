@@ -3,7 +3,8 @@ title: "Magnesium (which increases vitamin D) may fight COVID-19"
 slug: "magnesium-which-increases-vitamin-d-may-fight-covid-19"
 aliases:
   - "/Magnesium+which+increases+vitamin+D+may+fight+COVID-19+-+Oct+2020"
-  - "/tiki-index.php?page_id=12021"
+  - "/12021"
+tiki_page_id: 12021
 date: 2020-10-23
 categories:
   - "Vitamin D and Magnesium"

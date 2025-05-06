@@ -3,7 +3,8 @@ title: "Fast-acting vitamin D to be produced for humans (not just animals)"
 slug: "fast-acting-vitamin-d-to-be-produced-for-humans-not-just-animals"
 aliases:
   - "/Fast-acting+vitamin+D+to+be+produced+for+humans+not+just+animals+–+Jan+2021"
-  - "/tiki-index.php?page_id=12231"
+  - "/12231"
+tiki_page_id: 12231
 date: 2021-01-16
 categories:
   - "Calcidiol"

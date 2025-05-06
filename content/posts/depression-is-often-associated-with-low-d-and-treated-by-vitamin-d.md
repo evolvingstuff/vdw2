@@ -3,7 +3,8 @@ title: "Depression is often associated with low D and treated by Vitamin D"
 slug: "depression-is-often-associated-with-low-d-and-treated-by-vitamin-d"
 aliases:
   - "/Depression+is+often+associated+with+low+D+and+treated+by+Vitamin+D+–+April+2022"
-  - "/tiki-index.php?page_id=13620"
+  - "/13620"
+tiki_page_id: 13620
 date: 2022-06-01
 categories:
   - "Depression"

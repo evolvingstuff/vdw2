@@ -3,7 +3,8 @@ title: "2 reasons doctors not aware of post-vaccination myocarditis (2.5% of jab
 slug: "2-reasons-doctors-not-aware-of-post-vaccination-myocarditis-25-percent-of-jabs"
 aliases:
   - "/2+reasons+doctors+not+aware+of+post-vaccination+myocarditis+25+of+jabs+-+Nov+2023"
-  - "/tiki-index.php?page_id=14849"
+  - "/14849"
+tiki_page_id: 14849
 date: 2023-11-28
 categories:
   - "Cardiovascular"

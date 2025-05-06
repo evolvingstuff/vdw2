@@ -3,7 +3,8 @@ title: "Autism risk if toxins, heavy metals, microplastics, etc during pregnancy
 slug: "autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d"
 aliases:
   - "/Autism+risk+if+toxins+heavy+metals+microplastics+etc+during+pregnancy+unless+add+Vitamin+D+–+Feb+2024"
-  - "/tiki-index.php?page_id=15110"
+  - "/15110"
+tiki_page_id: 15110
 date: 2024-03-07
 categories:
   - "Pregnancy"

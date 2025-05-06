@@ -3,7 +3,8 @@ title: "Aging of the Immune system (Immunosenescence): micronutrients and gut mi
 slug: "aging-of-the-immune-system-immunosenescence-micronutrients-and-gut-microbiota"
 aliases:
   - "/Aging+of+the+Immune+system+Immunosenescence+micronutrients+and+gut+microbiota+–+Oct+2022"
-  - "/tiki-index.php?page_id=13970"
+  - "/13970"
+tiki_page_id: 13970
 date: 2022-10-02
 categories:
   - "Seniors"

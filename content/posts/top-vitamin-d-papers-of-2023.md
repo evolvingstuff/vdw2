@@ -3,7 +3,8 @@ title: "Top Vitamin D papers of 2023"
 slug: "top-vitamin-d-papers-of-2023"
 aliases:
   - "/Top+Vitamin+D+papers+of+2023"
-  - "/tiki-index.php?page_id=15097"
+  - "/15097"
+tiki_page_id: 15097
 date: 2024-03-02
 ---
 

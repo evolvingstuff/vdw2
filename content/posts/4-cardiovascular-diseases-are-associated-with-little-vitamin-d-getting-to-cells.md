@@ -3,7 +3,8 @@ title: "4 Cardiovascular diseases are associated with little vitamin D getting t
 slug: "4-cardiovascular-diseases-are-associated-with-little-vitamin-d-getting-to-cells"
 aliases:
   - "/4+Cardiovascular+diseases+are+associated+with+little+vitamin+D+getting+to+cells+–+May+2023"
-  - "/tiki-index.php?page_id=14474"
+  - "/14474"
+tiki_page_id: 14474
 date: 2023-06-07
 categories:
   - "Cardiovascular"

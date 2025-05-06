@@ -3,7 +3,8 @@ title: "Vitamin D metabolism and genes as of"
 slug: "vitamin-d-metabolism-and-genes-as-of"
 aliases:
   - "/Vitamin+D+metabolism+and+genes+as+of+Nov+2019"
-  - "/tiki-index.php?page_id=13672"
+  - "/13672"
+tiki_page_id: 13672
 date: 2022-06-13
 categories:
   - "Genetics"

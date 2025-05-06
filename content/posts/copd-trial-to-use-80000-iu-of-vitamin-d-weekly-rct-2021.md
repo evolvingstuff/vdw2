@@ -3,7 +3,8 @@ title: "COPD trial to use 80,000 IU of vitamin D weekly – RCT 2021"
 slug: "copd-trial-to-use-80000-iu-of-vitamin-d-weekly-rct-2021"
 aliases:
   - "/COPD+trial+to+use+80000+IU+of+vitamin+D+weekly+–+RCT+2021"
-  - "/tiki-index.php?page_id=10964"
+  - "/10964"
+tiki_page_id: 10964
 date: 2019-07-09
 categories:
   - "Breathing"

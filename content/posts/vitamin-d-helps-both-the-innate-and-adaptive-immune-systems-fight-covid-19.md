@@ -3,7 +3,8 @@ title: "Vitamin D helps both the innate and adaptive immune systems fight COVID-
 slug: "vitamin-d-helps-both-the-innate-and-adaptive-immune-systems-fight-covid-19"
 aliases:
   - "/Vitamin+D+helps+both+the+innate+and+adaptive+immune+systems+fight+COVID-19+–+Jan+2022"
-  - "/tiki-index.php?page_id=13292"
+  - "/13292"
+tiki_page_id: 13292
 date: 2022-01-29
 categories:
   - "Immunity"

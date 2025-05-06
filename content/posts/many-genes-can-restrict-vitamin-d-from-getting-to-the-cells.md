@@ -3,7 +3,8 @@ title: "Many genes can restrict Vitamin D from getting to the cells"
 slug: "many-genes-can-restrict-vitamin-d-from-getting-to-the-cells"
 aliases:
   - "/Many+genes+can+restrict+Vitamin+D+from+getting+to+the+cells+–+Aug+2023"
-  - "/tiki-index.php?page_id=14645"
+  - "/14645"
+tiki_page_id: 14645
 date: 2023-08-29
 categories:
   - "Genetics"

@@ -3,7 +3,8 @@ title: "1 in 5 Canadians have inadequate Vitamin D (less than 16 ng), far more i
 slug: "1-in-5-canadians-have-inadequate-vitamin-d-less-than-16-ng-far-more-if-dark-skinned-canada"
 aliases:
   - "/1+in+5+Canadians+have+inadequate+Vitamin+D+less+than+16+ng+far+more+if+dark+skinned+–+Canada+April+2023"
-  - "/tiki-index.php?page_id=14386"
+  - "/14386"
+tiki_page_id: 14386
 date: 2023-04-19
 categories:
   - "Skin - Dark"

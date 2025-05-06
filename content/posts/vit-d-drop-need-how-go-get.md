@@ -3,7 +3,8 @@ title: "Vit D drop, need, how go get"
 slug: "vit-d-drop-need-how-go-get"
 aliases:
   - "/Vit+D+drop+need+how+go+get"
-  - "/tiki-index.php?page_id=11540"
+  - "/11540"
+tiki_page_id: 11540
 date: 2020-01-09
 categories:
   - "Admin Only"

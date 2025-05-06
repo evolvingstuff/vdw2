@@ -3,7 +3,8 @@ title: "People with new fecal incontinence are 1.9 X more likely to have low Vit
 slug: "people-with-new-fecal-incontinence-are-19-x-more-likely-to-have-low-vitamin-d"
 aliases:
   - "/People+with+new+fecal+incontinence+are+19+X+more+likely+to+have+low+Vitamin+D+–+Feb+2024"
-  - "/tiki-index.php?page_id=15033"
+  - "/15033"
+tiki_page_id: 15033
 date: 2024-02-06
 categories:
   - "Gut"

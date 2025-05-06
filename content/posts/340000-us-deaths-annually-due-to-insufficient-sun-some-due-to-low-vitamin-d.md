@@ -3,7 +3,8 @@ title: "340,000 US deaths annually due to insufficient sun (some due to low vita
 slug: "340000-us-deaths-annually-due-to-insufficient-sun-some-due-to-low-vitamin-d"
 aliases:
   - "/340000+US+deaths+annually+due+to+insufficient+sun+some+due+to+low+vitamin+D+–+July+2020"
-  - "/tiki-index.php?page_id=12619"
+  - "/12619"
+tiki_page_id: 12619
 date: 2021-05-31
 categories:
   - "Noontime sun and D"

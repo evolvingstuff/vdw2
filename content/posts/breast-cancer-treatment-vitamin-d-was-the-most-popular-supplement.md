@@ -3,7 +3,8 @@ title: "Breast Cancer treatment – Vitamin D was the most-popular supplement"
 slug: "breast-cancer-treatment-vitamin-d-was-the-most-popular-supplement"
 aliases:
   - "/Breast+Cancer+treatment+–+Vitamin+D+was+the+most-popular+supplement+–+Jan+2023"
-  - "/tiki-index.php?page_id=14503"
+  - "/14503"
+tiki_page_id: 14503
 date: 2023-06-30
 categories:
   - "Cancer - Breast"

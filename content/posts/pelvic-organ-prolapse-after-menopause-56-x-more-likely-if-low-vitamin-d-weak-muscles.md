@@ -3,7 +3,8 @@ title: "Pelvic Organ Prolapse after menopause 5.6 X more likely if low Vitamin D
 slug: "pelvic-organ-prolapse-after-menopause-56-x-more-likely-if-low-vitamin-d-weak-muscles"
 aliases:
   - "/Pelvic+Organ+Prolapse+after+menopause+56+X+more+likely+if+low+Vitamin+D+weak+muscles+–+Oct+2023"
-  - "/tiki-index.php?page_id=14717"
+  - "/14717"
+tiki_page_id: 14717
 date: 2023-10-02
 categories:
   - "Seniors"

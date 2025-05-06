@@ -3,7 +3,8 @@ title: "Bird flu possible pandemic - many studies"
 slug: "bird-flu-possible-pandemic-many-studies"
 aliases:
   - "/Bird+flu+possible+pandemic+-+many+studies"
-  - "/tiki-index.php?page_id=13008"
+  - "/13008"
+tiki_page_id: 13008
 date: 2021-10-20
 categories:
   - "Virus"

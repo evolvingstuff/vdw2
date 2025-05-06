@@ -3,7 +3,8 @@ title: "COVID-19 variants are assigned Greek letters by WHO"
 slug: "covid-19-variants-are-assigned-greek-letters-by-who"
 aliases:
   - "/COVID-19+variants+are+assigned+Greek+letters+by+WHO+-+May+2021"
-  - "/tiki-index.php?page_id=12622"
+  - "/12622"
+tiki_page_id: 12622
 date: 2021-05-31
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "COVID-19  in Indonesia - suspected data fraud"
 slug: "covid-19-in-indonesia-suspected-data-fraud"
 aliases:
   - "/COVID-19+in+Indonesia+-+suspected+data+fraud+-+May+2020"
-  - "/tiki-index.php?page_id=11788"
+  - "/11788"
+tiki_page_id: 11788
 date: 2020-06-01
 ---
 

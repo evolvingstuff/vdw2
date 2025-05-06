@@ -3,7 +3,8 @@ title: "Multiple Sclerosis prevention with high-dose vitamin D (in rats in this 
 slug: "multiple-sclerosis-prevention-with-high-dose-vitamin-d-in-rats-in-this-case"
 aliases:
   - "/Multiple+Sclerosis+prevention+with+high-dose+vitamin+D+in+rats+in+this+case+-+July+2023"
-  - "/tiki-index.php?page_id=14595"
+  - "/14595"
+tiki_page_id: 14595
 date: 2023-08-08
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "3,400 peer-reviewed studies found COVID Vaccination problems as of"
 slug: "3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of"
 aliases:
   - "/3400+peer-reviewed+studies+found+COVID+Vaccination+problems+as+of+April+2023"
-  - "/tiki-index.php?page_id=14402"
+  - "/14402"
+tiki_page_id: 14402
 date: 2023-04-28
 categories:
   - "Virus"

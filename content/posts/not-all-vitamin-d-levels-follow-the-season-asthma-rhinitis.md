@@ -3,7 +3,8 @@ title: "Not all Vitamin D levels follow the season – Asthma, Rhinitis, …"
 slug: "not-all-vitamin-d-levels-follow-the-season-asthma-rhinitis"
 aliases:
   - "/Not+all+Vitamin+D+levels+follow+the+season+–+Asthma+Rhinitis+–+March+2019"
-  - "/tiki-index.php?page_id=10634"
+  - "/10634"
+tiki_page_id: 10634
 date: 2019-03-31
 categories:
   - "Predict Vitamin D"

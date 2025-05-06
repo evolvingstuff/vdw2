@@ -3,7 +3,8 @@ title: "Fluoride lowers IQ in Children (It blocks Vitamin D and Magnesium)"
 slug: "fluoride-lowers-iq-in-children-it-blocks-vitamin-d-and-magnesium"
 aliases:
   - "/Fluoride+lowers+IQ+in+Children+It+blocks+Vitamin+D+and+Magnesium+-+March+2023"
-  - "/tiki-index.php?page_id=14310"
+  - "/14310"
+tiki_page_id: 14310
 date: 2023-03-16
 categories:
   - "Interactions with Vitamin D"

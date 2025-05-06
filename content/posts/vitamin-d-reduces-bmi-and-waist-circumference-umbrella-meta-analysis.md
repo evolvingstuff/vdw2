@@ -3,7 +3,8 @@ title: "Vitamin D reduces BMI and waist circumference – umbrella meta-analysis
 slug: "vitamin-d-reduces-bmi-and-waist-circumference-umbrella-meta-analysis"
 aliases:
   - "/Vitamin+D+reduces+BMI+and+waist+circumference+–+umbrella+meta-analysis+–+Sept+2022"
-  - "/tiki-index.php?page_id=13943"
+  - "/13943"
+tiki_page_id: 13943
 date: 2022-09-26
 categories:
   - "Obesity"

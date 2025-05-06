@@ -3,7 +3,8 @@ title: "Vitamin D-fortified bread: Systematic review"
 slug: "vitamin-d-fortified-bread-systematic-review"
 aliases:
   - "/Vitamin+D-fortified+bread+Systematic+review+–+March+2022"
-  - "/tiki-index.php?page_id=13455"
+  - "/13455"
+tiki_page_id: 13455
 date: 2022-04-06
 categories:
   - "Fortification with Vitamin D"

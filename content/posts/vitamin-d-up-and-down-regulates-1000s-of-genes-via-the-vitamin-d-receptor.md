@@ -3,7 +3,8 @@ title: "Vitamin D up and down regulates 1,000’s of genes via the Vitamin D Rec
 slug: "vitamin-d-up-and-down-regulates-1000s-of-genes-via-the-vitamin-d-receptor"
 aliases:
   - "/Vitamin+D+up+and+down+regulates+1000s+of+genes+via+the+Vitamin+D+Receptor+–+March+2022"
-  - "/tiki-index.php?page_id=13425"
+  - "/13425"
+tiki_page_id: 13425
 date: 2022-03-24
 categories:
   - "Genetics"

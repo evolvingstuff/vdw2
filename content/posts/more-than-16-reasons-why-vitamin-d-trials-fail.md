@@ -3,7 +3,8 @@ title: "More than 16 reasons why Vitamin D trials fail"
 slug: "more-than-16-reasons-why-vitamin-d-trials-fail"
 aliases:
   - "/More+than+16+reasons+why+Vitamin+D+trials+fail+–+Oct+2020"
-  - "/tiki-index.php?page_id=12017"
+  - "/12017"
+tiki_page_id: 12017
 date: 2020-10-20
 categories:
   - "Deficiency of Vitamin D"

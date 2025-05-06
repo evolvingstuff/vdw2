@@ -3,7 +3,8 @@ title: "Cerebral malaria deaths prevented by loading dose of vitamin D (mice)"
 slug: "cerebral-malaria-deaths-prevented-by-loading-dose-of-vitamin-d-mice"
 aliases:
   - "/Cerebral+malaria+deaths+prevented+by+loading+dose+of+vitamin+D+mice+–+Sept+2018"
-  - "/tiki-index.php?page_id=10059"
+  - "/10059"
+tiki_page_id: 10059
 date: 2018-09-23
 categories:
   - "Loading dose for Vitamin D"

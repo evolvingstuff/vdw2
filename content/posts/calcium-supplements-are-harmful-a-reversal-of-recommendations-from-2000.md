@@ -3,7 +3,8 @@ title: "Calcium supplements are HARMFUL – a reversal of recommendations from 2
 slug: "calcium-supplements-are-harmful-a-reversal-of-recommendations-from-2000"
 aliases:
   - "/Calcium+supplements+are+HARMFUL+–+a+reversal+of+recommendations+from+2000+–+Nov+2015"
-  - "/tiki-index.php?page_id=14379"
+  - "/14379"
+tiki_page_id: 14379
 date: 2023-04-13
 categories:
   - "Vitamin D and Calcium"

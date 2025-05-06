@@ -3,7 +3,8 @@ title: "COVID-19 risk reduced 5X by glasses, face shield, or mask"
 slug: "covid-19-risk-reduced-5x-by-glasses-face-shield-or-mask"
 aliases:
   - "/COVID-19+risk+reduced+5X+by+glasses+face+shield+or+mask+–+Sept+16+2020"
-  - "/tiki-index.php?page_id=11966"
+  - "/11966"
+tiki_page_id: 11966
 date: 2020-09-20
 categories:
   - "Virus"

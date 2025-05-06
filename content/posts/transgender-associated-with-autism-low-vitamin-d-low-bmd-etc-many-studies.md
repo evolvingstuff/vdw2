@@ -3,7 +3,8 @@ title: "Transgender associated with autism, low vitamin D, low BMD, etc. - many 
 slug: "transgender-associated-with-autism-low-vitamin-d-low-bmd-etc-many-studies"
 aliases:
   - "/Transgender+associated+with+autism+low+vitamin+D+low+BMD+etc+-+many+studies"
-  - "/tiki-index.php?page_id=14355"
+  - "/14355"
+tiki_page_id: 14355
 date: 2023-04-04
 categories:
   - "Autism"

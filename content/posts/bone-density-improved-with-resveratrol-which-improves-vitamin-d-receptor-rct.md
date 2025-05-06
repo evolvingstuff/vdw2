@@ -3,7 +3,8 @@ title: "Bone density improved with resveratrol (which improves Vitamin D Recepto
 slug: "bone-density-improved-with-resveratrol-which-improves-vitamin-d-receptor-rct"
 aliases:
   - "/Bone+density+improved+with+resveratrol+which+improves+Vitamin+D+Receptor+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10057"
+  - "/10057"
+tiki_page_id: 10057
 date: 2018-09-22
 categories:
   - "Bone - Health"

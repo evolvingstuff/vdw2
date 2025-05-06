@@ -3,7 +3,8 @@ title: "Fewer neurons in males born from COVID-19 vaccinated mothers (rats)"
 slug: "fewer-neurons-in-males-born-from-covid-19-vaccinated-mothers-rats"
 aliases:
   - "/Fewer+neurons+in+males+born+from+COVID-19+vaccinated+mothers+rats+-+Jan+2024"
-  - "/tiki-index.php?page_id=14986"
+  - "/14986"
+tiki_page_id: 14986
 date: 2024-01-20
 categories:
   - "Autism"

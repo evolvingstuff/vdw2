@@ -3,7 +3,8 @@ title: "How AI can help diagnose your medical problems"
 slug: "how-ai-can-help-diagnose-your-medical-problems"
 aliases:
   - "/How+AI+can+help+diagnose+your+medical+problems"
-  - "/tiki-index.php?page_id=14979"
+  - "/14979"
+tiki_page_id: 14979
 date: 2024-01-18
 categories:
   - "AI"

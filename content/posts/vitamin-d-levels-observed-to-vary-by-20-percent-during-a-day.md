@@ -3,7 +3,8 @@ title: "Vitamin D levels observed to vary by 20 percent during a day"
 slug: "vitamin-d-levels-observed-to-vary-by-20-percent-during-a-day"
 aliases:
   - "/Vitamin+D+levels+observed+to+vary+by+20+percent+during+a+day+–+Feb+2019"
-  - "/tiki-index.php?page_id=11171"
+  - "/11171"
+tiki_page_id: 11171
 date: 2019-09-26
 categories:
   - "Tests for Vitamin D"

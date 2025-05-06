@@ -3,7 +3,8 @@ title: "Some cancer rates are reduced when live at high altitude, but other canc
 slug: "some-cancer-rates-are-reduced-when-live-at-high-altitude-but-other-cancers-incre-few-generations"
 aliases:
   - "/Some+cancer+rates+are+reduced+when+live+at+high+altitude+but+other+cancers+increase+after+a+few+generations+–+March+2021"
-  - "/tiki-index.php?page_id=12443"
+  - "/12443"
+tiki_page_id: 12443
 date: 2021-03-26
 categories:
   - "UV and Vitamin D"

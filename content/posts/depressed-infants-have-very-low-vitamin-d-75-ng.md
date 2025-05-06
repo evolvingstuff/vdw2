@@ -3,7 +3,8 @@ title: "Depressed infants have very low Vitamin D (7.5 ng)"
 slug: "depressed-infants-have-very-low-vitamin-d-75-ng"
 aliases:
   - "/Depressed+infants+have+very+low+Vitamin+D+75+ng+–+June+2023"
-  - "/tiki-index.php?page_id=14511"
+  - "/14511"
+tiki_page_id: 14511
 date: 2023-07-03
 categories:
   - "Deficiency of Vitamin D"

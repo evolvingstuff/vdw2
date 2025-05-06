@@ -3,7 +3,8 @@ title: "600,000 IU of Vitamin D helped 26 out of 28 COVID-19 patients in ICU (Br
 slug: "600000-iu-of-vitamin-d-helped-26-out-of-28-covid-19-patients-in-icu-brazil-and-bolivia"
 aliases:
   - "/600000+IU+of+Vitamin+D+helped+26+out+of+28+COVID-19+patients+in+ICU+Brazil+and+Bolivia+June+2021"
-  - "/tiki-index.php?page_id=12672"
+  - "/12672"
+tiki_page_id: 12672
 date: 2021-06-20
 categories:
   - "Loading dose for Vitamin D"

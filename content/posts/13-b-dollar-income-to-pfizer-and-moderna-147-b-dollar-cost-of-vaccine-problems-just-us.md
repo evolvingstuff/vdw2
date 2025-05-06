@@ -3,7 +3,8 @@ title: "13 B dollar income to Pfizer and Moderna, 147 B dollar cost of vaccine p
 slug: "13-b-dollar-income-to-pfizer-and-moderna-147-b-dollar-cost-of-vaccine-problems-just-us"
 aliases:
   - "/13+B+dollar+income+to+Pfizer+and+Moderna+147+B+dollar+cost+of+vaccine+problems+just+US+-+March+2023"
-  - "/tiki-index.php?page_id=14437"
+  - "/14437"
+tiki_page_id: 14437
 date: 2023-05-22
 categories:
   - "Virus"

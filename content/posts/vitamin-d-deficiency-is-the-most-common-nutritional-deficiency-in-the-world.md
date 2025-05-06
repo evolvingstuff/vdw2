@@ -3,7 +3,8 @@ title: "Vitamin D deficiency is the most common nutritional deficiency in the wo
 slug: "vitamin-d-deficiency-is-the-most-common-nutritional-deficiency-in-the-world"
 aliases:
   - "/Vitamin+D+deficiency+is+the+most+common+nutritional+deficiency+in+the+world+–+July+2022"
-  - "/tiki-index.php?page_id=13689"
+  - "/13689"
+tiki_page_id: 13689
 date: 2022-06-21
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D Therapy Market to Witness Huge Growth by 2027 Covid-19 Analysi
 slug: "vitamin-d-therapy-market-to-witness-huge-growth-by-2027-covid-19-analysis"
 aliases:
   - "/Vitamin+D+Therapy+Market+to+Witness+Huge+Growth+by+2027+Covid-19+Analysis+-+July+2021"
-  - "/tiki-index.php?page_id=12753"
+  - "/12753"
+tiki_page_id: 12753
 date: 2021-07-21
 ---
 

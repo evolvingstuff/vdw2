@@ -3,7 +3,8 @@ title: "Big Pharma penalties in dollars: Pfizer 10 billion, J-J 24 billion, Merc
 slug: "big-pharma-penalties-in-dollars-pfizer-10-billion-j-j-24-billion-merck-10-billion-gsk-9-billion"
 aliases:
   - "/Big+Pharma+penalties+in+dollars+Pfizer+10+billion+J-J+24+billion+Merck+10+billion+GSK+9+billion+–+April+2024"
-  - "/tiki-index.php?page_id=15186"
+  - "/15186"
+tiki_page_id: 15186
 date: 2024-04-02
 ---
 

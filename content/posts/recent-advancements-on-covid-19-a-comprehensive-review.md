@@ -3,7 +3,8 @@ title: "Recent Advancements on COVID-19: A Comprehensive Review"
 slug: "recent-advancements-on-covid-19-a-comprehensive-review"
 aliases:
   - "/Recent+Advancements+on+COVID-19+A+Comprehensive+Review+-+Dec+2021"
-  - "/tiki-index.php?page_id=13217"
+  - "/13217"
+tiki_page_id: 13217
 date: 2021-12-26
 categories:
   - "Virus"

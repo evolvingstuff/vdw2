@@ -3,7 +3,8 @@ title: "Berberine: an antioxidant that activates the Vitamin D Receptor - many s
 slug: "berberine-an-antioxidant-that-activates-the-vitamin-d-receptor-many-studies"
 aliases:
   - "/Berberine+an+antioxidant+that+activates+the+Vitamin+D+Receptor+-+many+studies"
-  - "/tiki-index.php?page_id=14758"
+  - "/14758"
+tiki_page_id: 14758
 date: 2023-10-17
 categories:
   - "Vitamin D Receptor"

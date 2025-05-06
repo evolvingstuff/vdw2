@@ -3,7 +3,8 @@ title: "Sucrosomia Vitamin D appears to be 2 X more bio-available– RCT"
 slug: "sucrosomia-vitamin-d-appears-to-be-2-x-more-bio-available-rct"
 aliases:
   - "/Sucrosomia+Vitamin+D+appears+to+be+2+X+more+bio-available–+RCT+Aug+2023"
-  - "/tiki-index.php?page_id=15177"
+  - "/15177"
+tiki_page_id: 15177
 date: 2024-03-28
 categories:
   - "Forms of Vitamin D"

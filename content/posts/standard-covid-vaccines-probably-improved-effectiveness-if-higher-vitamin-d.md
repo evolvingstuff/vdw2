@@ -3,7 +3,8 @@ title: "Standard COVID vaccines probably improved effectiveness if higher vitami
 slug: "standard-covid-vaccines-probably-improved-effectiveness-if-higher-vitamin-d"
 aliases:
   - "/Standard+COVID+vaccines+probably+improved+effectiveness+if+higher+vitamin+D–+Sept+2021"
-  - "/tiki-index.php?page_id=12897"
+  - "/12897"
+tiki_page_id: 12897
 date: 2021-09-15
 categories:
   - "Virus"

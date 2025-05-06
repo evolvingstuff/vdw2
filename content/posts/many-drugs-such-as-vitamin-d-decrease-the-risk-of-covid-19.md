@@ -3,7 +3,8 @@ title: "Many drugs, such as Vitamin D, decrease the risk of COVID-19"
 slug: "many-drugs-such-as-vitamin-d-decrease-the-risk-of-covid-19"
 aliases:
   - "/Many+drugs+such+as+Vitamin+D+decrease+the+risk+of+COVID-19+–+July+2021"
-  - "/tiki-index.php?page_id=12775"
+  - "/12775"
+tiki_page_id: 12775
 date: 2021-07-27
 categories:
   - "Virus"

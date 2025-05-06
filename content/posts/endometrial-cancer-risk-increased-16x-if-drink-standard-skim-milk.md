@@ -3,7 +3,8 @@ title: "Endometrial Cancer risk increased 1.6X if drink standard skim milk"
 slug: "endometrial-cancer-risk-increased-16x-if-drink-standard-skim-milk"
 aliases:
   - "/Endometrial+Cancer+risk+increased+16X+if+drink+standard+skim+milk+-+Sept+2019"
-  - "/tiki-index.php?page_id=11168"
+  - "/11168"
+tiki_page_id: 11168
 date: 2019-09-25
 ---
 

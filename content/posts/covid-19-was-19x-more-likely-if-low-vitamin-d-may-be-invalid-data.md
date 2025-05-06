@@ -3,7 +3,8 @@ title: "COVID-19 was 19X more likely if low vitamin D (may be invalid data)"
 slug: "covid-19-was-19x-more-likely-if-low-vitamin-d-may-be-invalid-data"
 aliases:
   - "/COVID-19+was+19X+more+likely+if+low+vitamin+D+may+be+invalid+data–+April+2020"
-  - "/tiki-index.php?page_id=11736"
+  - "/11736"
+tiki_page_id: 11736
 date: 2020-04-18
 categories:
   - "Virus"

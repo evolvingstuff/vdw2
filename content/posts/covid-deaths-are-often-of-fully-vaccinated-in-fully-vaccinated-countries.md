@@ -3,7 +3,8 @@ title: "COVID deaths are often of fully vaccinated in fully vaccinated countries
 slug: "covid-deaths-are-often-of-fully-vaccinated-in-fully-vaccinated-countries"
 aliases:
   - "/COVID+deaths+are+often+of+fully+vaccinated+in+fully+vaccinated+countries+–+June+2022"
-  - "/tiki-index.php?page_id=13720"
+  - "/13720"
+tiki_page_id: 13720
 date: 2022-06-29
 categories:
   - "Virus"

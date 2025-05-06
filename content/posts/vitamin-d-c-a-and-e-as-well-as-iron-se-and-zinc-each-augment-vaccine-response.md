@@ -3,7 +3,8 @@ title: "Vitamin D, C, A, and E, as well as Iron, Se, and Zinc each augment vacci
 slug: "vitamin-d-c-a-and-e-as-well-as-iron-se-and-zinc-each-augment-vaccine-response"
 aliases:
   - "/Vitamin+D+C+A+and+E+as+well+as+Iron+Se+and+Zinc+each+augment+vaccine+response+–+July+2021"
-  - "/tiki-index.php?page_id=12751"
+  - "/12751"
+tiki_page_id: 12751
 date: 2021-07-20
 categories:
   - "Vitamin D and Vitamin A"

@@ -3,7 +3,8 @@ title: "COVID-19 patients getting 300,000 IU of Vitamin D were 5X less likely to
 slug: "covid-19-patients-getting-300000-iu-of-vitamin-d-were-5x-less-likely-to-die"
 aliases:
   - "/COVID-19+patients+getting+300000+IU+of+Vitamin+D+were+5X+less+likely+to+die+–+Sept+2021"
-  - "/tiki-index.php?page_id=12933"
+  - "/12933"
+tiki_page_id: 12933
 date: 2021-09-27
 categories:
   - "Mortality and D"

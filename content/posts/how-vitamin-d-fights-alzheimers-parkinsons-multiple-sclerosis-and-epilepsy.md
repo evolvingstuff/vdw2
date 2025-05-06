@@ -3,7 +3,8 @@ title: "How Vitamin D fights Alzheimer’s, Parkinson’s, Multiple Sclerosis an
 slug: "how-vitamin-d-fights-alzheimers-parkinsons-multiple-sclerosis-and-epilepsy"
 aliases:
   - "/How+Vitamin+D+fights+Alzheimers+Parkinsons+Multiple+Sclerosis+and+Epilepsy+–+June+2023"
-  - "/tiki-index.php?page_id=14393"
+  - "/14393"
+tiki_page_id: 14393
 date: 2023-04-22
 categories:
   - "Multiple Sclerosis"

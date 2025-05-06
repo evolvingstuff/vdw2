@@ -3,7 +3,8 @@ title: "Flu may be much worse this year (already bad in Australia)"
 slug: "flu-may-be-much-worse-this-year-already-bad-in-australia"
 aliases:
   - "/Flu+may+be+much+worse+this+year+already+bad+in+Australia+-+July+2022"
-  - "/tiki-index.php?page_id=13751"
+  - "/13751"
+tiki_page_id: 13751
 date: 2022-07-12
 categories:
   - "Virus"

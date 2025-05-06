@@ -3,7 +3,8 @@ title: "Lockdowns were worse than useless"
 slug: "lockdowns-were-worse-than-useless"
 aliases:
   - "/Lockdowns+were+worse+than+useless+-+Sept+2023"
-  - "/tiki-index.php?page_id=14664"
+  - "/14664"
+tiki_page_id: 14664
 date: 2023-09-06
 categories:
   - "Virus"

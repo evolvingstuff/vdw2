@@ -3,7 +3,8 @@ title: "Hill's Criteria indicates that COVID-19 will be treated by Vitamin D - A
 slug: "hills-criteria-indicates-that-covid-19-will-be-treated-by-vitamin-d-annweiler"
 aliases:
   - "/Hills+Criteria+indicates+that+COVID-19+will+be+treated+by+Vitamin+D+-+Annweiler+June+8+2020"
-  - "/tiki-index.php?page_id=11819"
+  - "/11819"
+tiki_page_id: 11819
 date: 2020-06-29
 categories:
   - "Virus"

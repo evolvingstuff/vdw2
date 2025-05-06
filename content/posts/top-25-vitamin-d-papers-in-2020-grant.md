@@ -3,7 +3,8 @@ title: "Top 25 Vitamin D papers in 2020 - Grant"
 slug: "top-25-vitamin-d-papers-in-2020-grant"
 aliases:
   - "/Top+25+Vitamin+D+papers+in+2020+-+Grant"
-  - "/tiki-index.php?page_id=12214"
+  - "/12214"
+tiki_page_id: 12214
 date: 2021-01-10
 ---
 

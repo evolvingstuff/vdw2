@@ -3,7 +3,8 @@ title: "Vitamin D 100,000 IU loading dose and stem cell transplants – RCT"
 slug: "vitamin-d-100000-iu-loading-dose-and-stem-cell-transplants-rct"
 aliases:
   - "/Vitamin+D+100000+IU+loading+dose+and+stem+cell+transplants+–+RCT+Oct+2023"
-  - "/tiki-index.php?page_id=14798"
+  - "/14798"
+tiki_page_id: 14798
 date: 2023-10-31
 categories:
   - "Loading dose for Vitamin D"

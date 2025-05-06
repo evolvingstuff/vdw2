@@ -3,7 +3,8 @@ title: "High Selenium intake cuts risk of Osteoporosis in half - meta-analysis"
 slug: "high-selenium-intake-cuts-risk-of-osteoporosis-in-half-meta-analysis"
 aliases:
   - "/High+Selenium+intake+cuts+risk+of+Osteoporosis+in+half+-+meta-analysis+-+July+2023"
-  - "/tiki-index.php?page_id=14701"
+  - "/14701"
+tiki_page_id: 14701
 date: 2023-09-25
 categories:
   - "Osteoporosis"

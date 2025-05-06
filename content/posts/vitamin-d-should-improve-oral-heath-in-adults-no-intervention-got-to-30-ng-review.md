@@ -3,7 +3,8 @@ title: "Vitamin D should improve oral heath in adults (no intervention got to 30
 slug: "vitamin-d-should-improve-oral-heath-in-adults-no-intervention-got-to-30-ng-review"
 aliases:
   - "/Vitamin+D+should+improve+oral+heath+in+adults+no+intervention+got+to+30+ng+–+Review+April+2022"
-  - "/tiki-index.php?page_id=13496"
+  - "/13496"
+tiki_page_id: 13496
 date: 2022-04-18
 ---
 

@@ -3,7 +3,8 @@ title: "Metabolic Syndrome far less likely if high Vitamin D – 3 meta-analyses
 slug: "metabolic-syndrome-far-less-likely-if-high-vitamin-d-3-meta-analyses-2021"
 aliases:
   - "/Metabolic+Syndrome+far+less+likely+if+high+Vitamin+D+–+3+meta-analyses+2021"
-  - "/tiki-index.php?page_id=12483"
+  - "/12483"
+tiki_page_id: 12483
 date: 2021-04-08
 categories:
   - "Meta-analysis of Vitamin D"

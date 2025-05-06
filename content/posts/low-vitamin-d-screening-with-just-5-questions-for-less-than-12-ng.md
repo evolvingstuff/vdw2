@@ -3,7 +3,8 @@ title: "Low Vitamin D screening with just 5 questions (for less than 12 ng)"
 slug: "low-vitamin-d-screening-with-just-5-questions-for-less-than-12-ng"
 aliases:
   - "/Low+Vitamin+D+screening+with+just+5+questions+for+less+than+12+ng+–+June+2022"
-  - "/tiki-index.php?page_id=13605"
+  - "/13605"
+tiki_page_id: 13605
 date: 2022-05-28
 categories:
   - "Women"

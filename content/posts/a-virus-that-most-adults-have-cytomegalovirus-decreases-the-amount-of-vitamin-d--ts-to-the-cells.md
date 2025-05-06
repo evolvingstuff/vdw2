@@ -3,7 +3,8 @@ title: "A virus that most adults have (Cytomegalovirus) decreases the amount of 
 slug: "a-virus-that-most-adults-have-cytomegalovirus-decreases-the-amount-of-vitamin-d--ts-to-the-cells"
 aliases:
   - "/A+virus+that+most+adults+have+Cytomegalovirus+decreases+the+amount+of+Vitamin+D+which+gets+to+the+cells+–+Jan+2017"
-  - "/tiki-index.php?page_id=12589"
+  - "/12589"
+tiki_page_id: 12589
 date: 2021-05-18
 categories:
   - "Vitamin D Receptor"

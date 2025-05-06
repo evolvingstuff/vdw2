@@ -3,7 +3,8 @@ title: "Melasma (pregnancy mask) treated by Vitamin D, Vitamin B12, Vitamin C, e
 slug: "melasma-pregnancy-mask-treated-by-vitamin-d-vitamin-b12-vitamin-c-etc"
 aliases:
   - "/Melasma+pregnancy+mask+treated+by+Vitamin+D+Vitamin+B12+Vitamin+C+etc"
-  - "/tiki-index.php?page_id=10259"
+  - "/10259"
+tiki_page_id: 10259
 date: 2018-12-01
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Vitamin D levels vary across the brain, what about other body tissues"
 slug: "vitamin-d-levels-vary-across-the-brain-what-about-other-body-tissues"
 aliases:
   - "/Vitamin+D+levels+vary+across+the+brain+what+about+other+body+tissues+–+July+2019"
-  - "/tiki-index.php?page_id=11002"
+  - "/11002"
+tiki_page_id: 11002
 date: 2019-07-17
 categories:
   - "Tests for Vitamin D"

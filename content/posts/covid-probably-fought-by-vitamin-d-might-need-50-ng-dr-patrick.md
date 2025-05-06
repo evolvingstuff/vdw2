@@ -3,7 +3,8 @@ title: "COVID probably fought by Vitamin D, might need 50 ng - Dr. Patrick"
 slug: "covid-probably-fought-by-vitamin-d-might-need-50-ng-dr-patrick"
 aliases:
   - "/COVID+probably+fought+by+Vitamin+D+might+need+50+ng+-+Dr+Patrick+Nov+8+2021"
-  - "/tiki-index.php?page_id=13062"
+  - "/13062"
+tiki_page_id: 13062
 date: 2021-11-08
 categories:
   - "Virus"

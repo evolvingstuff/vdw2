@@ -3,7 +3,8 @@ title: "Asthma is 20 percent more likely with a poor Vitamin D Receptor gene –
 slug: "asthma-is-20-percent-more-likely-with-a-poor-vitamin-d-receptor-gene-meta-analysis"
 aliases:
   - "/Asthma+is+20+percent+more+likely+with+a+poor+Vitamin+D+Receptor+gene+–+meta-analysis+Oct+2019"
-  - "/tiki-index.php?page_id=11266"
+  - "/11266"
+tiki_page_id: 11266
 date: 2019-10-23
 categories:
   - "Breathing"

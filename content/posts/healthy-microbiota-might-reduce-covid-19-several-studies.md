@@ -3,7 +3,8 @@ title: "Healthy microbiota might reduce COVID-19 – several studies"
 slug: "healthy-microbiota-might-reduce-covid-19-several-studies"
 aliases:
   - "/Healthy+microbiota+might+reduce+COVID-19+–+several+studies"
-  - "/tiki-index.php?page_id=12352"
+  - "/12352"
+tiki_page_id: 12352
 date: 2021-02-25
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "5X more likely to test positive for COVID-19 if low vitamin D in previou
 slug: "5x-more-likely-to-test-positive-for-covid-19-if-low-vitamin-d-in-previous-5-years-900000-people"
 aliases:
   - "/5X+more+likely+to+test+positive+for+COVID-19+if+low+vitamin+D+in+previous+5+years+900000+people+-+Dec+4+2020"
-  - "/tiki-index.php?page_id=12126"
+  - "/12126"
+tiki_page_id: 12126
 date: 2020-12-08
 categories:
   - "Virus"

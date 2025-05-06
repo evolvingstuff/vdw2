@@ -3,7 +3,8 @@ title: "Most Japanese seniors with bone fractures have less than 10 ng of vitami
 slug: "most-japanese-seniors-with-bone-fractures-have-less-than-10-ng-of-vitamin-d"
 aliases:
   - "/Most+Japanese+seniors+with+bone+fractures+have+less+than+10+ng+of+vitamin+D+-+Jan+2024"
-  - "/tiki-index.php?page_id=14941"
+  - "/14941"
+tiki_page_id: 14941
 date: 2024-01-03
 categories:
   - "Falls and Fractures"

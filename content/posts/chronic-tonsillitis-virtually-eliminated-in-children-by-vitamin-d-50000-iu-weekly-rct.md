@@ -3,7 +3,8 @@ title: "Chronic tonsillitis virtually eliminated in children by Vitamin D (50,00
 slug: "chronic-tonsillitis-virtually-eliminated-in-children-by-vitamin-d-50000-iu-weekly-rct"
 aliases:
   - "/Chronic+tonsillitis+virtually+eliminated+in+children+by+Vitamin+D+50000+IU+weekly+–+RCT+May+2023"
-  - "/tiki-index.php?page_id=14435"
+  - "/14435"
+tiki_page_id: 14435
 date: 2023-05-20
 categories:
   - "Breathing"

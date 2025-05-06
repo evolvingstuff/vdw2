@@ -3,7 +3,8 @@ title: "Thyroidectomy and Vitamin D - many studies"
 slug: "thyroidectomy-and-vitamin-d-many-studies"
 aliases:
   - "/Thyroidectomy+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14282"
+  - "/14282"
+tiki_page_id: 14282
 date: 2023-02-24
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Alaska recommends more vitamin D: Infancy 800 IU, Pregnancy 1400 IU (avo
 slug: "alaska-recommends-more-vitamin-d-infancy-800-iu-pregnancy-1400-iu-avoid-rickets"
 aliases:
   - "/Alaska+recommends+more+vitamin+D+Infancy+800+IU+Pregnancy+1400+IU+avoid+rickets+Sept+2018"
-  - "/tiki-index.php?page_id=10037"
+  - "/10037"
+tiki_page_id: 10037
 date: 2018-09-15
 categories:
   - "How much Vitamin D"

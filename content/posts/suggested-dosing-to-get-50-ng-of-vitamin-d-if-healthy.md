@@ -3,7 +3,8 @@ title: "Suggested dosing to get 50 ng of Vitamin D (if healthy)"
 slug: "suggested-dosing-to-get-50-ng-of-vitamin-d-if-healthy"
 aliases:
   - "/Suggested+dosing+to+get+50+ng+of+Vitamin+D+if+healthy+-+July+2022"
-  - "/tiki-index.php?page_id=13770"
+  - "/13770"
+tiki_page_id: 13770
 date: 2022-07-19
 ---
 

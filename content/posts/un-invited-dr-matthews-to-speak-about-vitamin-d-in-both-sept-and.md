@@ -3,7 +3,8 @@ title: "UN invited Dr. Matthews to speak about Vitamin D in both Sept and"
 slug: "un-invited-dr-matthews-to-speak-about-vitamin-d-in-both-sept-and"
 aliases:
   - "/UN+invited+Dr+Matthews+to+speak+about+Vitamin+D+in+both+Sept+and+Oct+2018"
-  - "/tiki-index.php?page_id=9979"
+  - "/9979"
+tiki_page_id: 9979
 date: 2018-08-27
 categories:
   - "Top news"

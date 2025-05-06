@@ -3,7 +3,8 @@ title: "Less scarring (hypertrophic) if supplementation with Vitamin D got above
 slug: "less-scarring-hypertrophic-if-supplementation-with-vitamin-d-got-above-25-ng-rct"
 aliases:
   - "/Less+scarring+hypertrophic+if+supplementation+with+Vitamin+D+got+above+25+ng+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10030"
+  - "/10030"
+tiki_page_id: 10030
 date: 2018-09-12
 categories:
   - "Skin"

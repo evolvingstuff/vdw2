@@ -3,7 +3,8 @@ title: "Gout, cholera, scarlet fever, TB all increasing in the UK (low vitamin D
 slug: "gout-cholera-scarlet-fever-tb-all-increasing-in-the-uk-low-vitamin-d"
 aliases:
   - "/Gout+cholera+scarlet+fever+TB+all+increasing+in+the+UK+low+vitamin+D+–+Feb+2019"
-  - "/tiki-index.php?page_id=10455"
+  - "/10455"
+tiki_page_id: 10455
 date: 2019-02-03
 categories:
   - "Tuberculosis"

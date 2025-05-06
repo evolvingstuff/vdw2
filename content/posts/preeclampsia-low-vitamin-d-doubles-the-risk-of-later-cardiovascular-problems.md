@@ -3,7 +3,8 @@ title: "Preeclampsia (low vitamin D) doubles the risk of later cardiovascular pr
 slug: "preeclampsia-low-vitamin-d-doubles-the-risk-of-later-cardiovascular-problems"
 aliases:
   - "/Preeclampsia+low+vitamin+D+doubles+the+risk+of+later+cardiovascular+problems+–+Sept+2019"
-  - "/tiki-index.php?page_id=11214"
+  - "/11214"
+tiki_page_id: 11214
 date: 2019-10-07
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "COVID-19 harms Mitochondria, Vitamin D normalizes Mitochondria, etc."
 slug: "covid-19-harms-mitochondria-vitamin-d-normalizes-mitochondria-etc"
 aliases:
   - "/COVID-19+harms+Mitochondria+Vitamin+D+normalizes+Mitochondria+etc-+Sept+2020"
-  - "/tiki-index.php?page_id=11968"
+  - "/11968"
+tiki_page_id: 11968
 date: 2020-09-21
 categories:
   - "Virus"

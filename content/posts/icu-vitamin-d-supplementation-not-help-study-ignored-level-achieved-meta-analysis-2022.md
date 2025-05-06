@@ -3,7 +3,8 @@ title: "ICU Vitamin D supplementation not help (study ignored level achieved)  â
 slug: "icu-vitamin-d-supplementation-not-help-study-ignored-level-achieved-meta-analysis-2022"
 aliases:
   - "/ICU+Vitamin+D+supplementation+not+help+study+ignored+level+achieved+â€“+meta-analysis+2022"
-  - "/tiki-index.php?page_id=14137"
+  - "/14137"
+tiki_page_id: 14137
 date: 2022-12-07
 categories:
   - "Trauma and surgery"

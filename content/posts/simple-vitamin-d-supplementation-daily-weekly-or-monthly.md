@@ -3,7 +3,8 @@ title: "Simple vitamin D supplementation - daily, weekly, or monthly"
 slug: "simple-vitamin-d-supplementation-daily-weekly-or-monthly"
 aliases:
   - "/Simple+vitamin+D+supplementation+-+daily+weekly+or+monthly+-+Sept+2023"
-  - "/tiki-index.php?page_id=14722"
+  - "/14722"
+tiki_page_id: 14722
 date: 2023-10-03
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Fat-soluble vitamins critical for conception, pregnancy and breast feedi
 slug: "fat-soluble-vitamins-critical-for-conception-pregnancy-and-breast-feeding-pigs"
 aliases:
   - "/Fat-soluble+vitamins+critical+for+conception+pregnancy+and+breast+feeding+pigs+–+Sept+2019"
-  - "/tiki-index.php?page_id=11117"
+  - "/11117"
+tiki_page_id: 11117
 date: 2019-09-02
 categories:
   - "Veterinary and Vitamin D"

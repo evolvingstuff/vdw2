@@ -3,7 +3,8 @@ title: "Women have more problems with COVID-19 vaccines (perhaps due to lower vi
 slug: "women-have-more-problems-with-covid-19-vaccines-perhaps-due-to-lower-vitamin-d"
 aliases:
   - "/Women+have+more+problems+with+COVID-19+vaccines+perhaps+due+to+lower+vitamin+D+–+March+2021"
-  - "/tiki-index.php?page_id=12389"
+  - "/12389"
+tiki_page_id: 12389
 date: 2021-03-08
 categories:
   - "Women"

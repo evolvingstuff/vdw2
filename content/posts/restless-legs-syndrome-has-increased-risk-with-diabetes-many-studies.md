@@ -3,7 +3,8 @@ title: "Restless Legs Syndrome has increased risk with diabetes – many studies
 slug: "restless-legs-syndrome-has-increased-risk-with-diabetes-many-studies"
 aliases:
   - "/Restless+Legs+Syndrome+has+increased+risk+with+diabetes+–+many+studies"
-  - "/tiki-index.php?page_id=11503"
+  - "/11503"
+tiki_page_id: 11503
 date: 2019-12-28
 categories:
   - "Diabetes"

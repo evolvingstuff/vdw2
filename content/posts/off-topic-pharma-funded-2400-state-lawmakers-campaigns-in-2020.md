@@ -3,7 +3,8 @@ title: "Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020"
 slug: "off-topic-pharma-funded-2400-state-lawmakers-campaigns-in-2020"
 aliases:
   - "/Off+Topic+Pharma+Funded+2400+State+Lawmakers+Campaigns+in+2020+-+July+2021"
-  - "/tiki-index.php?page_id=12724"
+  - "/12724"
+tiki_page_id: 12724
 date: 2021-07-08
 categories:
   - "Off Topic"

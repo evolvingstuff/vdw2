@@ -3,7 +3,8 @@ title: "The Vitamin That Cuts Cancer Risk 13 Percent"
 slug: "the-vitamin-that-cuts-cancer-risk-13-percent"
 aliases:
   - "/The+Vitamin+That+Cuts+Cancer+Risk+13+Percent+-+July+2019"
-  - "/tiki-index.php?page_id=10975"
+  - "/10975"
+tiki_page_id: 10975
 date: 2019-07-11
 categories:
   - "Cancer"

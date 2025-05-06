@@ -3,7 +3,8 @@ title: "COVID children helped by Vitamin D, trial terminated: unethical to not g
 slug: "covid-children-helped-by-vitamin-d-trial-terminated-unethical-to-not-give-vitamin-d-to-all-rct"
 aliases:
   - "/COVID+children+helped+by+Vitamin+D+trial+terminated+unethical+to+not+give+Vitamin+D+to+all+–+RCT+July+2022"
-  - "/tiki-index.php?page_id=13790"
+  - "/13790"
+tiki_page_id: 13790
 date: 2022-07-25
 categories:
   - "Intervention"

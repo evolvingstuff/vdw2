@@ -3,7 +3,8 @@ title: "Chronic Fatigue Syndrome and long-haul COVID-19"
 slug: "chronic-fatigue-syndrome-and-long-haul-covid-19"
 aliases:
   - "/Chronic+Fatigue+Syndrome+and+long-haul+COVID-19"
-  - "/tiki-index.php?page_id=12407"
+  - "/12407"
+tiki_page_id: 12407
 date: 2021-03-13
 categories:
   - "Virus"

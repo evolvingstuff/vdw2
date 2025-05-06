@@ -3,7 +3,8 @@ title: "Reduce aging with Vitamin D, Omega-3, Magnesium and Exercise (Patrick vi
 slug: "reduce-aging-with-vitamin-d-omega-3-magnesium-and-exercise-patrick-video"
 aliases:
   - "/Reduce+aging+with+Vitamin+D+Omega-3+Magnesium+and+Exercise+Patrick+video+-+March+2024"
-  - "/tiki-index.php?page_id=15105"
+  - "/15105"
+tiki_page_id: 15105
 date: 2024-03-06
 categories:
   - "Books, videos on Vitamin D"

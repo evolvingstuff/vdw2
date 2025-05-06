@@ -3,7 +3,8 @@ title: "Calcifediol (Calcidiol) is far less cost-effective and available than Vi
 slug: "calcifediol-calcidiol-is-far-less-cost-effective-and-available-than-vitamin-d-rct"
 aliases:
   - "/Calcifediol+Calcidiol+is+far+less+cost-effective+and+available+than+Vitamin+D+–+RCT+June+2021"
-  - "/tiki-index.php?page_id=12876"
+  - "/12876"
+tiki_page_id: 12876
 date: 2021-09-04
 categories:
   - "Calcidiol"

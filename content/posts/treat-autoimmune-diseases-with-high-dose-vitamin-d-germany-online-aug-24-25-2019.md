@@ -3,7 +3,8 @@ title: "Treat autoimmune diseases with high-dose vitamin D – Germany online Au
 slug: "treat-autoimmune-diseases-with-high-dose-vitamin-d-germany-online-aug-24-25-2019"
 aliases:
   - "/Treat+autoimmune+diseases+with+high-dose+vitamin+D+–+Germany+online+Aug+24+25+2019"
-  - "/tiki-index.php?page_id=11084"
+  - "/11084"
+tiki_page_id: 11084
 date: 2019-08-17
 categories:
   - "Autoimmune"

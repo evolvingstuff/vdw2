@@ -3,7 +3,8 @@ title: "Type 1 diabetes trial having problems getting participants – too many 
 slug: "type-1-diabetes-trial-having-problems-getting-participants-too-many-taking-vitamin-d-or-omega-3"
 aliases:
   - "/Type+1+diabetes+trial+having+problems+getting+participants+–+too+many+taking+Vitamin+D+or+Omega-3+–+Aug+2019"
-  - "/tiki-index.php?page_id=11196"
+  - "/11196"
+tiki_page_id: 11196
 date: 2019-10-03
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "Opiate addiction 2.4 X more likely if vitamin D deficient before surgery
 slug: "opiate-addiction-24-x-more-likely-if-vitamin-d-deficient-before-surgery"
 aliases:
   - "/Opiate+addiction+24+X+more+likely+if+vitamin+D+deficient+before+surgery+–+June+2020"
-  - "/tiki-index.php?page_id=11815"
+  - "/11815"
+tiki_page_id: 11815
 date: 2020-06-26
 categories:
   - "Pain - chronic"

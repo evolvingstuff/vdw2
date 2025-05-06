@@ -3,7 +3,8 @@ title: "Off topic: HIV drug developed and patented by US govt costs 1780 dollars
 slug: "off-topic-hiv-drug-developed-and-patented-by-us-govt-costs-1780-dollars-but-only-8-in-australia"
 aliases:
   - "/Off+topic+HIV+drug+developed+and+patented+by+US+govt+costs+1780+dollars+but+only+8+in+Australia+-+May+2019"
-  - "/tiki-index.php?page_id=10791"
+  - "/10791"
+tiki_page_id: 10791
 date: 2019-05-18
 categories:
   - "Cost savings with Vitamin D"

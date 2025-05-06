@@ -3,7 +3,8 @@ title: "Two highly-rated guidelines for people with Multiple Sclerosis include V
 slug: "two-highly-rated-guidelines-for-people-with-multiple-sclerosis-include-vitamin-d"
 aliases:
   - "/Two+highly-rated+guidelines+for+people+with+Multiple+Sclerosis+include+Vitamin+D+–+Jan+2022"
-  - "/tiki-index.php?page_id=13270"
+  - "/13270"
+tiki_page_id: 13270
 date: 2022-01-19
 categories:
   - "Multiple Sclerosis"

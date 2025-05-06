@@ -3,7 +3,8 @@ title: "COVID-19 deaths would not have been even noticed 150 years ago"
 slug: "covid-19-deaths-would-not-have-been-even-noticed-150-years-ago"
 aliases:
   - "/COVID-19+deaths+would+not+have+been+even+noticed+150+years+ago"
-  - "/tiki-index.php?page_id=12324"
+  - "/12324"
+tiki_page_id: 12324
 date: 2021-02-14
 categories:
   - "Virus"

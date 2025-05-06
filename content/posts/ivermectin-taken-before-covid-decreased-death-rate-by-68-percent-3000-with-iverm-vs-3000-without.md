@@ -3,7 +3,8 @@ title: "Ivermectin taken before COVID decreased death rate by 68 percent (3,000 
 slug: "ivermectin-taken-before-covid-decreased-death-rate-by-68-percent-3000-with-iverm-vs-3000-without"
 aliases:
   - "/Ivermectin+taken+before+COVID+decreased+death+rate+by+68+percent+3000+with+Ivermectin+vs+3000+without+-+Dec+24+2021"
-  - "/tiki-index.php?page_id=13241"
+  - "/13241"
+tiki_page_id: 13241
 date: 2022-01-05
 categories:
   - "Mortality and D"

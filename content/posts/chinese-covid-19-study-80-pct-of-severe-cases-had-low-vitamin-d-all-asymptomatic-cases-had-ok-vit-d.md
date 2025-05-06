@@ -3,7 +3,8 @@ title: "Chinese COVID-19 study – 80 pct of severe cases had low Vitamin D, all
 slug: "chinese-covid-19-study-80-pct-of-severe-cases-had-low-vitamin-d-all-asymptomatic-cases-had-ok-vit-d"
 aliases:
   - "/Chinese+COVID-19+study+–+80+pct+of+severe+cases+had+low+Vitamin+D+all+asymptomatic+cases+had+OK+Vit+D+–+Oct+13+2020"
-  - "/tiki-index.php?page_id=12046"
+  - "/12046"
+tiki_page_id: 12046
 date: 2020-11-04
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "60,000 IU of vitamin D monthly is healthy and safe – RCT"
 slug: "60000-iu-of-vitamin-d-monthly-is-healthy-and-safe-rct"
 aliases:
   - "/60000+IU+of+vitamin+D+monthly+is+healthy+and+safe+–+RCT+Aug+2022"
-  - "/tiki-index.php?page_id=13847"
+  - "/13847"
+tiki_page_id: 13847
 date: 2022-08-19
 categories:
   - "Optimum"

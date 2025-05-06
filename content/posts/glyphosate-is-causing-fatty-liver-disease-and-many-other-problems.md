@@ -3,7 +3,8 @@ title: "Glyphosate Is Causing Fatty Liver Disease and many other problems"
 slug: "glyphosate-is-causing-fatty-liver-disease-and-many-other-problems"
 aliases:
   - "/Glyphosate+Is+Causing+Fatty+Liver+Disease+and+many+other+problems+-+May+2019"
-  - "/tiki-index.php?page_id=10870"
+  - "/10870"
+tiki_page_id: 10870
 date: 2019-06-14
 categories:
   - "Liver"

@@ -3,7 +3,8 @@ title: "93 percent of US children had less than 40 ng of vitamin D a decade ago"
 slug: "93-percent-of-us-children-had-less-than-40-ng-of-vitamin-d-a-decade-ago"
 aliases:
   - "/93+percent+of+US+children+had+less+than+40+ng+of+vitamin+D+a+decade+ago+–+Oct+2021"
-  - "/tiki-index.php?page_id=12950"
+  - "/12950"
+tiki_page_id: 12950
 date: 2021-10-04
 categories:
   - "Deficiency of Vitamin D"

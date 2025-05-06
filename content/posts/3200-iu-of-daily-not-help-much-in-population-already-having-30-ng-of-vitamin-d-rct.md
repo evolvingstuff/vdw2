@@ -3,7 +3,8 @@ title: "3,200 IU of daily not help much in population already having 30 ng of Vi
 slug: "3200-iu-of-daily-not-help-much-in-population-already-having-30-ng-of-vitamin-d-rct"
 aliases:
   - "/3200+IU+of+daily+not+help+much+in+population+already+having+30+ng+of+Vitamin+D+–+RCT+Jan+2022"
-  - "/tiki-index.php?page_id=13942"
+  - "/13942"
+tiki_page_id: 13942
 date: 2022-09-26
 categories:
   - "Cardiovascular"

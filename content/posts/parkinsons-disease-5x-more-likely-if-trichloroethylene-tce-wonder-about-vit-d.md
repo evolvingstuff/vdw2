@@ -3,7 +3,8 @@ title: "Parkinson's Disease 5X more likely if Trichloroethylene (TCE, wonder abo
 slug: "parkinsons-disease-5x-more-likely-if-trichloroethylene-tce-wonder-about-vit-d"
 aliases:
   - "/Parkinsons+Disease+5X+more+likely+if+Trichloroethylene+TCE+wonder+about+Vit+D+-+March+2023"
-  - "/tiki-index.php?page_id=14330"
+  - "/14330"
+tiki_page_id: 14330
 date: 2023-03-24
 categories:
   - "Interactions with Vitamin D"

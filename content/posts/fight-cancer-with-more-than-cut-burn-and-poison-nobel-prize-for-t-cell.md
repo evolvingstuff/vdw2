@@ -3,7 +3,8 @@ title: "Fight Cancer with more than cut, burn, and poison – Nobel prize for T-
 slug: "fight-cancer-with-more-than-cut-burn-and-poison-nobel-prize-for-t-cell"
 aliases:
   - "/Fight+Cancer+with+more+than+cut+burn+and+poison+–+Nobel+prize+for+T-Cell+–+Oct+2018"
-  - "/tiki-index.php?page_id=10148"
+  - "/10148"
+tiki_page_id: 10148
 date: 2018-10-22
 categories:
   - "Immunity"

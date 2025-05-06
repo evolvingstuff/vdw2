@@ -3,7 +3,8 @@ title: "Heavier offspring if mothers had more sunlight (sheep in this case)"
 slug: "heavier-offspring-if-mothers-had-more-sunlight-sheep-in-this-case"
 aliases:
   - "/Heavier+offspring+if+mothers+had+more+sunlight+sheep+in+this+case+–+Feb+2019"
-  - "/tiki-index.php?page_id=10470"
+  - "/10470"
+tiki_page_id: 10470
 date: 2019-02-06
 categories:
   - "Veterinary and Vitamin D"

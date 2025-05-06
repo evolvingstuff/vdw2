@@ -3,7 +3,8 @@ title: "UV reduces cardiovascular and metabolic problems– Vitamin D plus Nitri
 slug: "uv-reduces-cardiovascular-and-metabolic-problems-vitamin-d-plus-nitric-oxide"
 aliases:
   - "/UV+reduces+cardiovascular+and+metabolic+problems–+Vitamin+D+plus+Nitric+oxide+–+Sept+2023"
-  - "/tiki-index.php?page_id=14695"
+  - "/14695"
+tiki_page_id: 14695
 date: 2023-09-21
 categories:
   - "UV and Vitamin D"

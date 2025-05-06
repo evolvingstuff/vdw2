@@ -3,7 +3,8 @@ title: "Soy associated with food allergies in mice (perhaps Roundup)"
 slug: "soy-associated-with-food-allergies-in-mice-perhaps-roundup"
 aliases:
   - "/Soy+associated+with+food+allergies+in+mice+perhaps+Roundup+–+Nov+2018"
-  - "/tiki-index.php?page_id=10218"
+  - "/10218"
+tiki_page_id: 10218
 date: 2018-11-21
 categories:
   - "Autoimmune"

@@ -3,7 +3,8 @@ title: "Poor vaccine batches associated with adverse events"
 slug: "poor-vaccine-batches-associated-with-adverse-events"
 aliases:
   - "/Poor+vaccine+batches+associated+with+adverse+events+-+March+2023"
-  - "/tiki-index.php?page_id=14378"
+  - "/14378"
+tiki_page_id: 14378
 date: 2023-04-13
 categories:
   - "Virus"

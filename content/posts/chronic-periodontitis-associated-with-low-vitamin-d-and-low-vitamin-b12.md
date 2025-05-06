@@ -3,7 +3,8 @@ title: "Chronic periodontitis associated with low vitamin D and low vitamin B12"
 slug: "chronic-periodontitis-associated-with-low-vitamin-d-and-low-vitamin-b12"
 aliases:
   - "/Chronic+periodontitis+associated+with+low+vitamin+D+and+low+vitamin+B12+–+May+2023"
-  - "/tiki-index.php?page_id=14464"
+  - "/14464"
+tiki_page_id: 14464
 date: 2023-06-02
 categories:
   - "Dental"

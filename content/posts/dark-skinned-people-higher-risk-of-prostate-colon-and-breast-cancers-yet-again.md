@@ -3,7 +3,8 @@ title: "Dark skinned people: higher risk of Prostate, Colon, and Breast Cancers 
 slug: "dark-skinned-people-higher-risk-of-prostate-colon-and-breast-cancers-yet-again"
 aliases:
   - "/Dark+skinned+people+higher+risk+of+Prostate+Colon+and+Breast+Cancers+yet+again+-+April+2024"
-  - "/tiki-index.php?page_id=15211"
+  - "/15211"
+tiki_page_id: 15211
 date: 2024-04-14
 categories:
   - "Skin - Dark"

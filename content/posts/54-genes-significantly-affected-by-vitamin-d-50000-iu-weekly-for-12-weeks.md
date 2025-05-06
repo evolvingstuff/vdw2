@@ -3,7 +3,8 @@ title: "54 genes significantly affected by Vitamin D (50,000 IU weekly for 12 we
 slug: "54-genes-significantly-affected-by-vitamin-d-50000-iu-weekly-for-12-weeks"
 aliases:
   - "/54+genes+significantly+affected+by+Vitamin+D+50000+IU+weekly+for+12+weeks+–+May+2021"
-  - "/tiki-index.php?page_id=12576"
+  - "/12576"
+tiki_page_id: 12576
 date: 2021-05-10
 categories:
   - "Intervention"

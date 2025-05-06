@@ -3,7 +3,8 @@ title: "Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS
 slug: "vitamin-d-supplementation-could-prevent-and-treat-influenza-coronavirus-and-pneumonia-infections"
 aliases:
   - "/Vitamin+D+supplementation+could+prevent+and+treat+influenza+CORONAVIRUS+and+pneumonia+infections+-+March+2020"
-  - "/tiki-index.php?page_id=11681"
+  - "/11681"
+tiki_page_id: 11681
 date: 2020-03-15
 categories:
   - "Virus"

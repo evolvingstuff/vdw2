@@ -3,7 +3,8 @@ title: "Diseases arising from depletion are cured by repletion - Hippocrates 400
 slug: "diseases-arising-from-depletion-are-cured-by-repletion-hippocrates-400-bc"
 aliases:
   - "/Diseases+arising+from+depletion+are+cured+by+repletion+-+Hippocrates+400+BC"
-  - "/tiki-index.php?page_id=13173"
+  - "/13173"
+tiki_page_id: 13173
 date: 2021-12-12
 categories:
   - "Deficiency of Vitamin D"

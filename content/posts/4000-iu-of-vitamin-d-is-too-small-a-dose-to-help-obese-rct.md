@@ -3,7 +3,8 @@ title: "4,000 IU of Vitamin D is too small a dose to help Obese - RCT"
 slug: "4000-iu-of-vitamin-d-is-too-small-a-dose-to-help-obese-rct"
 aliases:
   - "/4000+IU+of+Vitamin+D+is+too+small+a+dose+to+help+Obese+-+RCT+Feb+2022"
-  - "/tiki-index.php?page_id=13325"
+  - "/13325"
+tiki_page_id: 13325
 date: 2022-02-09
 categories:
   - "Obesity"

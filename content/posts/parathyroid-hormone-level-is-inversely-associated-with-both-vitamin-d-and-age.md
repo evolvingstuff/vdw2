@@ -3,7 +3,8 @@ title: "Parathyroid hormone level is inversely associated with both Vitamin D an
 slug: "parathyroid-hormone-level-is-inversely-associated-with-both-vitamin-d-and-age"
 aliases:
   - "/Parathyroid+hormone+level+is+inversely+associated+with+both+Vitamin+D+and+age+–+April+2021"
-  - "/tiki-index.php?page_id=12583"
+  - "/12583"
+tiki_page_id: 12583
 date: 2021-05-17
 categories:
   - "Thyroid and parathyroid"

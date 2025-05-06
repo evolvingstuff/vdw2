@@ -1,250 +1,893 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Health on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/health/</link>
-    <description>Recent content in Health on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/health/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prescription drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital</title>
-      <link>http://localhost:1313/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital/</guid>
-      <description>&lt;h4 id=&#34;prescription-drugs-are-the-leading-cause-of-death&#34;&gt;Prescription Drugs Are the Leading Cause of Death&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Brownstone&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;37,309 drug deaths were reported to the FDA in 2006 and&lt;br&gt;&#xA;123,927 ten years later, which is 3.3 times as many&amp;rdquo;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Early-Onset diseases and Vitamin D - several studies</title>
-      <link>http://localhost:1313/posts/early-onset-diseases-and-vitamin-d-several-studies/</link>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/early-onset-diseases-and-vitamin-d-several-studies/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Candidate causes include:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Low vitamin D&lt;/td&gt;&#xA;          &lt;td&gt;(which can be fought by Vitamin D)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;((Microplastics now causing problems in most life forms - many studies&lt;/td&gt;&#xA;          &lt;td&gt;Microplastics))&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;((Ultra-processed foods associated with worse health and lower Vitamin D - several studies&lt;/td&gt;&#xA;          &lt;td&gt;Ultra-processed foods))&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;((Air Pollution reduces Vitamin D&lt;/td&gt;&#xA;          &lt;td&gt;Air pollution))&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;((DDT and other pesticides decrease vitamin D&lt;/td&gt;&#xA;          &lt;td&gt;Pesticides))&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#why-are-so-many-young-people-getting-cancer---april-2024&#34;&gt;Why are so many young people getting cancer? - April 2024&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#40700-studies-had-early-onset-in-their-title-as-of-april-2024&#34;&gt;40,700 studies had EARLY-ONSET in their title as of April 2024&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;why-are-so-many-young-people-getting-cancer---april-2024&#34;&gt;Why are so many young people getting cancer? - April 2024&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.vox.com/the-highlight/24093360/early-cancer-young-adults-colon-stomach-research&#34;&gt;VOX&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US)</title>
-      <link>http://localhost:1313/posts/5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#quote-from-flccc-email---march-2024&#34;&gt;Quote from FLCCC email - March 2024&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---longevity-and-healthspan-increased-by-vitamin-d---many-studiespostslongevity-and-healthspan-increased-by-vitamin-d-many-studies&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&#34;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annuallypostsus-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually&#34;&gt;US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital---april-2024postsprescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital&#34;&gt;Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;quote-from-flccc-email---march-2024&#34;&gt;Quote from FLCCC email - March 2024&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;800&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the email PDF from VitaminDWiki &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki---longevity-and-healthspan-increased-by-vitamin-d---many-studiespostslongevity-and-healthspan-increased-by-vitamin-d-many-studies&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&#34;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki---us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annuallypostsus-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually&#34;&gt;US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki---prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital---april-2024postsprescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital&#34;&gt;Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024&lt;/a&gt;&lt;/h4&gt;</description>
-    </item>
-    <item>
-      <title>US IRS now favors drugs over wellness</title>
-      <link>http://localhost:1313/posts/us-irs-now-favors-drugs-over-wellness/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/us-irs-now-favors-drugs-over-wellness/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#irs-cracks-down-on-deductions-for-healthy-food-exercise-as-childhood-chronic-disease-epidemic-explodes&#34;&gt;IRS Cracks Down on Deductions for Healthy Food, Exercise as Childhood Chronic Disease Epidemic Explodes&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---why-big-pharma-is-terrified-of-vitamin-d---dr-korry-march-2024postswhy-big-pharma-is-terrified-of-vitamin-d-dr-korry&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/why-big-pharma-is-terrified-of-vitamin-d-dr-korry&#34;&gt;Why Big Pharma is ‘TERRIFIED’ of Vitamin D - Dr. Korry March 2024&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---5-of-the-world-consumes-55-of-the-prescription-medications-while-lifespan-is-decreasing-us--march-2024posts5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us&#34;&gt;5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;irs-cracks-down-on-deductions-for-healthy-food-exercise-as-childhood-chronic-disease-epidemic-explodes&#34;&gt;IRS Cracks Down on Deductions for Healthy Food, Exercise as Childhood Chronic Disease Epidemic Explodes&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://childrenshealthdefense.org/defender/calley-means-irs-prioritize-pharma-drugs-over-childrens-health-rfk-jr-podcast/?utm_source=luminate&amp;amp;utm_medium=email&amp;amp;utm_campaign=defender&amp;amp;utm_id=20240319&#34;&gt;ChildrenHealthDefense&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Includes a link to the 40 minute podcast&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ultra-processed foods associated with worse health and lower Vitamin D - several studies</title>
-      <link>http://localhost:1313/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-several-studies/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-several-studies/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#ultra-processed-food-and-adverse-health-outcomes--bmj-meta-analysis-jan-2024&#34;&gt;Ultra-processed food and adverse health outcomes – BMJ meta-analysis Jan 2024&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-perils-of-ultra-processed-foods-article-and-book---july-2023&#34;&gt;The Perils of Ultra-processed foods (article and book) - July 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency--dec-2023postsultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency&#34;&gt;Ultra-processed food consumption: 2X increased risk of vitamin D deficiency – Dec 2023&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#ultra-processed-foods-increase-the-risk-of-metabolic-syndromes---jan-2024&#34;&gt;Ultra-processed foods increase the risk of metabolic syndromes - Jan 2024&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#increased-ultra-processed-foods-increase-risks-of-cancer-and-cvd-by-9---lancet-dec-2023&#34;&gt;Increased Ultra-processed foods increase risks of Cancer and CVD by 9% - Lancet Dec 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#ultra-processed-foods-can-be-as-addictive-as-cocaine-or-smoking---feb-2024&#34;&gt;Ultra-processed foods can be as addictive as cocaine or smoking - Feb 2024&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#perplexity-ai-on-ultra-processed-foods---march-2024&#34;&gt;Perplexity AI on ultra-processed foods - March 2024&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;ultra-processed-food-and-adverse-health-outcomes--bmj-meta-analysis-jan-2024&#34;&gt;Ultra-processed food and adverse health outcomes – BMJ meta-analysis Jan 2024&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Credible increased risk of 9 health problems (a subset of table)&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Which health problems take more than 10 years to develop - Chat-GPT</title>
-      <link>http://localhost:1313/posts/which-health-problems-take-more-than-10-years-to-develop-chat-gpt/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/which-health-problems-take-more-than-10-years-to-develop-chat-gpt/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#chat-gpt-answer&#34;&gt;Chat-GPT answer&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---maternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later---may-2023postsmaternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/maternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later&#34;&gt;Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;chat-gpt-answer&#34;&gt;Chat-GPT answer&lt;/h4&gt;&#xA;&lt;p&gt;Several health conditions can take more than 10 years to develop, often due to a combination of genetic, lifestyle, and environmental factors. Here&amp;rsquo;s a list of some notable conditions that typically have a long development period:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cardiovascular Diseases&lt;/strong&gt; : Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>16 Longevity books compared in a video</title>
-      <link>http://localhost:1313/posts/16-longevity-books-compared-in-a-video/</link>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/16-longevity-books-compared-in-a-video/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#peter-attias-longevity-book-outlive-the-best-or-worst-longevitybook&#34;&gt;Peter Attia&amp;rsquo;s Longevity Book Outlive: The BEST or WORST longevity book?&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---longevity-and-healthspan-increased-by-vitamin-d---many-studiespostslongevity-and-healthspan-increased-by-vitamin-d-many-studies&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&#34;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---how-not-to-age-book-diet-exercise-supplements-dr-greger---dec-2023postshow-not-to-age-book-diet-exercise-supplements-dr-greger&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger&#34;&gt;How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;peter-attias-longevity-book-outlive-the-best-or-worst-longevitybook&#34;&gt;Peter Attia&amp;rsquo;s Longevity Book Outlive: The BEST or WORST longevity book?&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;amp;ab_channel=PlantChompers&#34;&gt;YouTube 35 minutes&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;800&#34;&gt;&#xA;&lt;h5 id=&#34;books&#34;&gt;Books&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Outlive: The Science and Art of Longevity by Peter Attia&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The Longevity Project: Surprising Discoveries for Health and Long Life from the Landmark Eight-Decade Study&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chronic Health Conditions: 27% of Americans have more than 1 of the top 10 - CDC 2018</title>
-      <link>http://localhost:1313/posts/chronic-health-conditions-27-percent-of-americans-have-more-than-1-of-the-top-10-cdc-2018/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chronic-health-conditions-27-percent-of-americans-have-more-than-1-of-the-top-10-cdc-2018/</guid>
-      <description>&lt;h4 id=&#34;prevalence-of-multiple-chronic-conditions-among-us-adults-2018&#34;&gt;Prevalence of Multiple Chronic Conditions Among US Adults, 2018&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.cdc.gov/pcd/issues/2020/20_0130.htm?ck_subscriber_id=19612225&#34;&gt;CDC Sept 2020&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;top-10-chronic-conditionsbefore-covid-and-long-covid&#34;&gt;Top 10 chronic conditions(before COVID and Long-COVID)&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;arthritis,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;cancer,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;chronic obstructive pulmonary disease (COPD),&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;coronary heart disease,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;current asthma,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;diabetes,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;hepatitis,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;hypertension,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;stroke, and&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;weak or failing kidney&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/health-problems-and-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Health Problems and D&#34;&gt;&lt;del&gt;#00F:All of the above are prevented/treated by Vitamin D&lt;/del&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki---many-chronic-health-diseases-and-infections-can-controlled-by-40-ng-of-vitamin-d--aug-2023postsmany-chronic-health-diseases-and-infections-can-controlled-by-40-ng-of-vitamin-d&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/many-chronic-health-diseases-and-infections-can-controlled-by-40-ng-of-vitamin-d&#34;&gt;Many Chronic Health Diseases and Infections can controlled by 40 ng of Vitamin D – Aug 2023&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;!-- ~tc~ (alias(Chronic Health Condition:  27% of Americans have more than 1 - CDC 2018)) ~/tc~ --&gt;&#xA;&lt;!-- ~tc~ (alias(Chronic Health Conditions:  27% of Americans have more than 1 of the top 10 - CDC 2018)) ~/tc~ --&gt;</description>
-    </item>
-    <item>
-      <title>Stem cells and Vitamin D - many studies</title>
-      <link>http://localhost:1313/posts/stem-cells-and-vitamin-d-many-studies/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stem-cells-and-vitamin-d-many-studies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Down syndrome people have even lower D levels if have additional Vitamin D diseases</title>
-      <link>http://localhost:1313/posts/down-syndrome-people-have-even-lower-d-levels-if-have-additional-vitamin-d-diseases/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/down-syndrome-people-have-even-lower-d-levels-if-have-additional-vitamin-d-diseases/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#hypovitaminosis-d-in-persons-with-down-syndrome-and-autism-spectrum-disorder&#34;&gt;Hypovitaminosis D in persons with Down syndrome and autism spectrum disorder&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---a-hrefpostsdown-syndrome-and-low-vitamin-d-several-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-down-syndrome-and-low-vitamin-d---several-studiesdown-syndrome-and-low-vitamin-d---several-studiesa&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/down-syndrome-and-low-vitamin-d-several-studies&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Down syndrome and low vitamin D - several studies&#34;&gt;Down syndrome and low vitamin D - several studies&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;hypovitaminosis-d-in-persons-with-down-syndrome-and-autism-spectrum-disorder&#34;&gt;Hypovitaminosis D in persons with Down syndrome and autism spectrum disorder&lt;/h4&gt;&#xA;&lt;p&gt;J Neurodev Disord . 2023 Oct 25;15(1):35. &lt;a href=&#34;https://doi.org/10.1186/s11689-023-09503-y.&#34;&gt;doi: 10.1186/s11689-023-09503-y.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Natalie K Boyd 1, Julia Nguyen 2, Mellad M Khoshnood 1, Timothy Jiang 1, Lina Nguyen 1, Lorena Mendez 1, Noemi A Spinazzi 3, Melanie A Manning 4, Michael S Rafii 5 6, Jonathan D Santoro 7 8&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Doctors are incentivised to prescribe medicines, not improve health</title>
-      <link>http://localhost:1313/posts/doctors-are-incentivised-to-prescribe-medicines-not-improve-health/</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/doctors-are-incentivised-to-prescribe-medicines-not-improve-health/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#how-pcps-are-penalized-for-positive-outcomes-from-lifestyle-change&#34;&gt;How PCPs are penalized for positive outcomes from lifestyle change&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;how-pcps-are-penalized-for-positive-outcomes-from-lifestyle-change&#34;&gt;How PCPs are penalized for positive outcomes from lifestyle change&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.mdedge.com/familymedicine/article/265926/business-medicine/how-pcps-are-penalized-positive-outcomes-lifestyle/page/0/1?ecd=WNL_EVE_231016_mdedge&#34;&gt;MD Edge&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;One example: Dr. reduced diabetes by lifestyle changes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;However, the CMS 5-Star Rating System assigned the primary care physician a grade of C rather than A, which put the physician›s 5-star rating at risk. Why? Because the system  &lt;strong&gt;bases its score largely on medication compliance&lt;/strong&gt; . The physician was penalized despite achieving the optimal health outcome, and at a lower cost than with medication. &amp;quot;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Medicare incentivizes disease management, not disease reversal&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Live 24 years longer if have 8 habits (survey of 700,000 veterans)</title>
-      <link>http://localhost:1313/posts/live-24-years-longer-if-have-8-habits-survey-of-700000-veterans/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/live-24-years-longer-if-have-8-habits-survey-of-700000-veterans/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-eight-habits-researchers-recommend-to-lengthen-life-expectancy&#34;&gt;The eight habits researchers recommend to lengthen life expectancy&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#what-habits-will-extend-life-expectancy&#34;&gt;What habits will extend life expectancy?&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#see-also-longevity-and-healthspan-increased-by-vitamin-d---many-studiespostslongevity-and-healthspan-increased-by-vitamin-d-many-studies-80-studies&#34;&gt;See also: &lt;a href=&#34;http://localhost:1313/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&#34;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt; 80+ studies&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#see-also-ways-to-improve-healthpostsways-to-improve-health&#34;&gt;See also: &lt;a href=&#34;http://localhost:1313/posts/ways-to-improve-health&#34;&gt;Ways to improve health&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;the-eight-habits-researchers-recommend-to-lengthen-life-expectancy&#34;&gt;The eight habits researchers recommend to lengthen life expectancy&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.openaccessgovernment.org/eight-habits-could-lengthen-your-life-expectancy-by-decades/164200/&#34;&gt;URL&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits.&lt;br&gt;&#xA;For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>US Healthcare spending to consume 20% of GDP by 2028</title>
-      <link>http://localhost:1313/posts/us-healthcare-spending-to-consume-20-percent-of-gdp-by-2028/</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/us-healthcare-spending-to-consume-20-percent-of-gdp-by-2028/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#modern-healthcarehttpswwwmodernhealthcarecomhealthcare-economicshealthcare-spending-consume-20-gdp-2028textas20a20result2c20the20healthcarewhich20was201772520of20gdp-march-2022&#34;&gt;&lt;a href=&#34;https://www.modernhealthcare.com/healthcare-economics/healthcare-spending-consume-20-gdp-2028#:~:text=As%20a%20result%2C%20the%20healthcare,which%20was%2017.7%25%20of%20GDP.&#34;&gt;Modern HealthCare&lt;/a&gt; March 2022&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#it-appears-that-vitamin-d-can-cut-the-cost-of-healthcare-in-half&#34;&gt;It appears that Vitamin D can cut the cost of healthcare in half&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;modern-healthcarehttpswwwmodernhealthcarecomhealthcare-economicshealthcare-spending-consume-20-gdp-2028textas20a20result2c20the20healthcarewhich20was201772520of20gdp-march-2022&#34;&gt;&lt;a href=&#34;https://www.modernhealthcare.com/healthcare-economics/healthcare-spending-consume-20-gdp-2028#:~:text=As%20a%20result%2C%20the%20healthcare,which%20was%2017.7%25%20of%20GDP.&#34;&gt;Modern HealthCare&lt;/a&gt; March 2022&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;it-appears-that-vitamin-d-can-cut-the-cost-of-healthcare-in-half&#34;&gt;It appears that Vitamin D can cut the cost of healthcare in half&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hope to have a demonstration with 5,000 people in 2024 getting 50,0000 IU weekly&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) - 2023</title>
-      <link>http://localhost:1313/posts/rare-diseases-1-in-10-americans-some-are-helped-by-vitamin-d-2023/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rare-diseases-1-in-10-americans-some-are-helped-by-vitamin-d-2023/</guid>
-      <description>&lt;p&gt;There are more than 10,000 known rare diseases.&lt;/p&gt;&#xA;&lt;p&gt;Approximately 80% of rare diseases are estimated to have a genetic origin.&lt;/p&gt;&#xA;&lt;p&gt;Of those, 70% start in childhood.  (56% of rare diseases start in childhood)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;In the United States, about half of the people with a rare disease are children. Many of these diseases are chronic and worsen over time.&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;The US defines incidence of a &amp;ldquo;rare disease&amp;rdquo; as being 1 in every 1,500 people&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The top 10 medical expenses can all be decreased by vitamin D</title>
-      <link>http://localhost:1313/posts/the-top-10-medical-expenses-can-all-be-decreased-by-vitamin-d/</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-top-10-medical-expenses-can-all-be-decreased-by-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-health-problems--expenses-webmd-nov-2021httpswwwwebmdcomhealthy-agingssslideshow-top-11-medical-expenses&#34;&gt;The health problems &amp;amp; expenses &lt;a href=&#34;https://www.webmd.com/healthy-aging/ss/slideshow-top-11-medical-expenses&#34;&gt;WebMD Nov 2021&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;the-health-problems--expenses-webmd-nov-2021httpswwwwebmdcomhealthy-agingssslideshow-top-11-medical-expenses&#34;&gt;The health problems &amp;amp; expenses &lt;a href=&#34;https://www.webmd.com/healthy-aging/ss/slideshow-top-11-medical-expenses&#34;&gt;WebMD Nov 2021&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Problem&lt;/td&gt;&#xA;          &lt;td&gt;Cost&lt;/td&gt;&#xA;          &lt;td&gt;VitaminDWiki&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Heart Conditions:&lt;/td&gt;&#xA;          &lt;td&gt;$555 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-cardiovascular-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Cardiovascular and vitamin D&#34;&gt;Overview Cardiovascular and vitamin D&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Diabetes:&lt;/td&gt;&#xA;          &lt;td&gt;$245 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-diabetes-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Diabetes and vitamin D&#34;&gt;Overview Diabetes and vitamin D&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cancer:&lt;/td&gt;&#xA;          &lt;td&gt;$225 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-cancer-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Cancer and vitamin D&#34;&gt;Overview Cancer and vitamin D&lt;/a&gt; and 17+ subcategories&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Obesity:&lt;/td&gt;&#xA;          &lt;td&gt;$190 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-obesity-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Obesity and Vitamin D&#34;&gt;Overview Obesity and Vitamin D&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;COPD and Asthma: Between&lt;/td&gt;&#xA;          &lt;td&gt;$100-290 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/copd-fought-by-vitamin-d-many-studies&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: COPD fought by Vitamin D - many studies&#34;&gt;COPD fought by Vitamin D - many studies&lt;/a&gt; &lt;br&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-asthma-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Asthma and Vitamin D&#34;&gt;Overview Asthma and Vitamin D&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Traffic Injuries:&lt;/td&gt;&#xA;          &lt;td&gt;$99 Billion&lt;/td&gt;&#xA;          &lt;td&gt;((Vitamin D is needed before most surgeries – many studies and RCTs&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mental Disorders:&lt;/td&gt;&#xA;          &lt;td&gt;$89 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-alzheimers-cognition-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&#34;&gt;Overview Alzheimer&amp;rsquo;s-Cognition and Vitamin D&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;http://localhost:1313/categories/depression&#34;&gt;Depression&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;http://localhost:1313/posts/brain-and-vitamin-d-many-studies&#34;&gt;Brain and Vitamin D - many studies&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Low Back and Neck Problems:&lt;/td&gt;&#xA;          &lt;td&gt;$87 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/categories/back-pain&#34;&gt;Back Pain&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Joint Disorders:&lt;/td&gt;&#xA;          &lt;td&gt;$80 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-osteoporosis-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Osteoporosis and vitamin D&#34;&gt;Overview Osteoporosis and vitamin D&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;High Blood Pressure:&lt;/td&gt;&#xA;          &lt;td&gt;$46 Billion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-hypertension-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Hypertension and Vitamin D&#34;&gt;Overview Hypertension and Vitamin D&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;strong&gt;Heart Conditions,  Diabetes,  Cancer,  Obesity,  COPD and Asthma,   Traffic Injuries,  Mental Disorders,  Depression; Brain, Low Back and Neck Problems,   Joint Disorders,   High Blood Pressure,&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Off-topic: Depression gone after participating in 5 day Tony Robins event</title>
-      <link>http://localhost:1313/posts/off-topic-depression-gone-after-participating-in-5-day-tony-robins-event/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/off-topic-depression-gone-after-participating-in-5-day-tony-robins-event/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-exciting-emergence-of-regenerative-medicine---mercola-may2022&#34;&gt;The Exciting Emergence of Regenerative Medicine - Mercola May 2022&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#2022-book-life-force-by-robins---with-table-ofcontents&#34;&gt;2022 Book: Life Force by Robins - with Table of Contents&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#2022-video-of-t-robbins-pdiamandis-and-r-patrick-on-lifeextension&#34;&gt;2022 video of T. Robbins, P. Diamandis and R. Patrick on Life extension&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;the-exciting-emergence-of-regenerative-medicine---mercola-may2022&#34;&gt;The Exciting Emergence of Regenerative Medicine - Mercola May 2022&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;A Stanford clinical research study of Robbins’ “Date With Destiny” program found 100% of participants with clinical depression were symptom-free 30 days after completion of the five-and-a-half-day course&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Poor odor detection if low Vitamin D, better after 50,000 IU weekly</title>
-      <link>http://localhost:1313/posts/poor-odor-detection-if-low-vitamin-d-better-after-50000-iu-weekly/</link>
-      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/poor-odor-detection-if-low-vitamin-d-better-after-50000-iu-weekly/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#effect-of-vitamin-d-on-olfactory-function&#34;&gt;Effect of vitamin D on olfactory function&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#this-study--concerns-the-ability-to-detect-a-smell-not-the-loss-of-smell&#34;&gt;This study  concerns the ability to detect a smell, NOT the loss of smell&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#loss-of-smell-is-associated-with-covid-long-haul-andl-low-zinc&#34;&gt;Loss of smell is associated with COVID, Long-Haul, andl Low Zinc&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---perhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain--march-2018postsperhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/perhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain&#34;&gt;Perhaps drugs such as inhaled vitamin D can get directly to the brain – March 2018&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;effect-of-vitamin-d-on-olfactory-function&#34;&gt;Effect of vitamin D on olfactory function&lt;/h4&gt;&#xA;&lt;p&gt;B-ENT 2021; 17(2): 86-91 ALLERGY AND RHINOLOGY DOI: 10.5152/B-ENT.2021.21041&lt;/p&gt;&#xA;&lt;p&gt;Ahmet Baki1 © Muhammet Yildiz2 G, Sel$uk Gundogar3 ©&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D is important to health</title>
-      <link>http://localhost:1313/posts/vitamin-d-is-important-to-health/</link>
-      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-is-important-to-health/</guid>
-      <description>&lt;h4 id=&#34;non-musculoskeletal-benefits-of-vitamin-d-beyond-the-musculoskeletal-system&#34;&gt;Non-Musculoskeletal Benefits of Vitamin D beyond the Musculoskeletal System&lt;/h4&gt;&#xA;&lt;p&gt;Int. J. Mol. Sci. 2021, 22(4), 2128; &lt;a href=&#34;https://doi.org/10.3390/ijms22042128&#34;&gt;https://doi.org/10.3390/ijms22042128&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sicheng Zhang, Duane D. Miller andWei Li &lt;a href=&#34;mailto:wli@uthsc.edu&#34;&gt;wli@uthsc.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Department of Pharmaceutical Sciences, College of Pharmacy, The University of Tennessee Health Science Center, Memphis, TN 38163, USA&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;450&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Calcium and Phosphorus&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;700&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Metabolism&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;700&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Immune System&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;700&#34;&gt;&#xA;&lt;p&gt;Vitamin D, a fat-soluble prohormone, is endogenously synthesized in response to sunlight or taken from dietary supplements. Since vitamin D receptors are present in most tissues and cells in the body, the mounting understanding of the role of vitamin D in humans indicates that it does not only play an important role in the musculoskeletal system, but has beneficial effects elsewhere as well.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Live 7 years longer free of major disease if eat well, not smoke, not obese, moderate drink and exercise (100,000 people)</title>
-      <link>http://localhost:1313/posts/live-7-years-longer-free-of-major-disease-if-eat-well-not-smoke-not-obese-modera-e-100000-people/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/live-7-years-longer-free-of-major-disease-if-eat-well-not-smoke-not-obese-modera-e-100000-people/</guid>
-      <description>&lt;h4 id=&#34;healthy-lifestyle-and-life-expectancy-free-of-cancer-cardiovascular-disease-and-type-2-diabetes-prospective-cohort-study&#34;&gt;Healthy lifestyle and life expectancy free of cancer, cardiovascular disease, and type 2 diabetes: prospective cohort study&lt;/h4&gt;&#xA;&lt;p&gt;BMJ 2020; 368 &lt;a href=&#34;https://doi.org/https&#34;&gt;doi: https&lt;/a&gt;://doi.org/10.1136/bmj.l6669&lt;/p&gt;&#xA;&lt;h4 id=&#34;7-years-longer-without-cancer-cvd-diabetes-if-follow-4-of-the-following-5-lifestyle-factors&#34;&gt;7 years longer without Cancer, CVD, Diabetes if follow 4 of the following 5 lifestyle factors&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;900&#34;&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/ways-to-improve-health&#34;&gt;Vitamin D is the 3rd most important contributor to health&lt;/a&gt;,&lt;br&gt;&#xA;    and the lowest-cost way to improve health&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This study does not mention Vitamin D, which is not as effctive but is far lower cost and easier&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Millennials (1981-1999) are sicker and dying faster than previous generations (Vitamin D can help)</title>
-      <link>http://localhost:1313/posts/millennials-1981-1999-are-sicker-and-dying-faster-than-previous-generations-vitamin-d-can-help/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/millennials-1981-1999-are-sicker-and-dying-faster-than-previous-generations-vitamin-d-can-help/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#millennials-will-get-sick-and-die-faster-than-the-previous-generationhttpswwwvicecomen_usarticleevj98kmillennials-will-get-sick-and-die-faster-than-the-previous-generationutm_sourcepocketutm_mediumemailutm_campaignpockethits&#34;&gt;&lt;a href=&#34;https://www.vice.com/en_us/article/evj98k/millennials-will-get-sick-and-die-faster-than-the-previous-generation?utm_source=pocket&amp;amp;utm_medium=email&amp;amp;utm_campaign=pockethits&#34;&gt;Millennials Will Get Sick and Die Faster Than the Previous Generation&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#fewer-accidents-with-vitamin-d&#34;&gt;Fewer Accidents with Vitamin D&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-risk-of-span-stylecolorf0044-span-diseases-at-least-double-with-poor-vitamin-d-receptorcategoriesvitamin-d-receptor-as-of-oct-2019&#34;&gt;The risk of &lt;span style=&#34;color:#F00;&#34;&gt;44 &lt;/span&gt; diseases at least double with poor &lt;a href=&#34;http://localhost:1313/categories/vitamin-d-receptor&#34;&gt;Vitamin D Receptor&lt;/a&gt; as of Oct 2019&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;millennials-will-get-sick-and-die-faster-than-the-previous-generationhttpswwwvicecomen_usarticleevj98kmillennials-will-get-sick-and-die-faster-than-the-previous-generationutm_sourcepocketutm_mediumemailutm_campaignpockethits&#34;&gt;&lt;a href=&#34;https://www.vice.com/en_us/article/evj98k/millennials-will-get-sick-and-die-faster-than-the-previous-generation?utm_source=pocket&amp;amp;utm_medium=email&amp;amp;utm_campaign=pockethits&#34;&gt;Millennials Will Get Sick and Die Faster Than the Previous Generation&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the Blue Cross Blue Shield PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This study will tend to not notice health problems of those who do not have Health Insurance&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Patients believe that doctors do not properly recognize and treat 7 of the top 10 chronic illnesses</title>
-      <link>http://localhost:1313/posts/patients-believe-that-doctors-do-not-properly-recognize-and-treat-7-of-the-top-10-chronic-illnesses/</link>
-      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/patients-believe-that-doctors-do-not-properly-recognize-and-treat-7-of-the-top-10-chronic-illnesses/</guid>
-      <description>&lt;h4 id=&#34;no-future-for-medicinehttpsdrcarolyndeancom201910no-future-for-medicine-dr-dean&#34;&gt;&lt;a href=&#34;https://drcarolyndean.com/2019/10/no-future-for-medicine/&#34;&gt;No Future for Medicine&lt;/a&gt; Dr. Dean&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Asthma&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Obesity&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Osteoarthritis&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hearing loss&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Eczema&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Insomnia&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Anxiety&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;OK FOR&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hypothyroidism&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Diabetes&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hypertension&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Article shows how many of the problems are treated by  &lt;strong&gt;Magnesium&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;VitaminDWiki also has many studies on how each problem is treated by  &lt;strong&gt;Vitamin D&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;    See the left hand column of any page in VitaminDWiki&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference was a survey&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Patient-Physician Agreement in Reporting and Prioritizing Existing Chronic Conditions Sept 2019&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab</title>
-      <link>http://localhost:1313/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/muscular-dystrophies-low-vitamin-d-might-be-associated-with-all-9-types&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018&#34;&gt;Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#muscular-dystrophy-treated-by-high-dose-coimbra-protocol-facebook-aug-2019&#34;&gt;Muscular Dystrophy treated by high-dose Coimbra Protocol (Facebook Aug 2019)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#fracture-in-duchenne-muscular-dystrophy-natural-history-and-vitamin-d-deficiency--2016&#34;&gt;Fracture in Duchenne Muscular Dystrophy: Natural History and Vitamin D Deficiency – 2016&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#people-with-dmd-need-more-vitamin-d---meta-analysis-oct-2023&#34;&gt;People with DMD need more Vitamin D - meta-analysis Oct 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#need-3x-more-vitamin-d-if-dmd---2019&#34;&gt;Need 3X more vitamin D if DMD - 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#limb-girdle-muscular-dystrophy---perhaps-caused-by-a-poor-gene---a-treatment-in-2023&#34;&gt;Limb-girdle muscular dystrophy - perhaps caused by a poor gene - a treatment in 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#muscular-dystrophy-and-genes&#34;&gt;Muscular Dystrophy and genes&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#people-with-dmd-have-poor-response-to-vitamin-d---2017-thesis&#34;&gt;People with DMD have poor response to Vitamin D - 2017 thesis&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#mechanisms-in-sarcopenia-and-muscular-dystrophy---aug-2015&#34;&gt;Mechanisms in Sarcopenia and Muscular Dystrophy - Aug 2015&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---a-hrefpostsmultiple-sclerosis-and-vitamin-d-50000-facebook-members-in-13-languages-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-multiple-sclerosis-and-vitamin-d--50000-facebook-members-in-13-languages--jan-2017multiple-sclerosis-and-vitamin-d--50000-facebook-members-in-13-languages--jan-2017a&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/multiple-sclerosis-and-vitamin-d-50000-facebook-members-in-13-languages&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Multiple Sclerosis and Vitamin D ~ 50,000 Facebook members in 13 languages – Jan 2017&#34;&gt;Multiple Sclerosis and Vitamin D ~ 50,000 Facebook members in 13 languages – Jan 2017&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#life-extension-magazine-overview-of-muscular-dystrophy---dec-2020httpswwwlifeextensioncomprotocolsneurologicalmuscular-dystrophy&#34;&gt;Life Extension Magazine &lt;a href=&#34;https://www.lifeextension.com/protocols/neurological/muscular-dystrophy&#34;&gt;Overview of Muscular Dystrophy - Dec 2020&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#95-of-md-patients-had-low-vitamin-d---2019&#34;&gt;95% of MD patients had low Vitamin D - 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#10x-increase-in-dmd-in-16-years---2020&#34;&gt;10X increase in DMD in 16 years - 2020&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-k2-a-cure-for-muscular-dystrophy--video-july-2022httpswwwyoutubecomwatchvdsl-e9aqw_cab_channelagwresearch&#34;&gt;Vitamin K2: A Cure for Muscular Dystrophy?- &lt;a href=&#34;https://www.youtube.com/watch?v=dsl-E9AQw_c&amp;amp;ab_channel=AGWResearch&#34;&gt;Video July 2022&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#overview-of-muscular-dystrophies-glucocorticoids-decrease-vitamin-d-getting-to-cells---sept-2023&#34;&gt;Overview of muscular dystrophies (Glucocorticoids decrease Vitamin D getting to cells) - Sept 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#new--duchenne-md-drug---fewer-side-effects-than-corticosteroids---oct-2023&#34;&gt;New $$$ Duchenne MD drug - fewer side effects than Corticosteroids - Oct 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#fda-approved-duvyzat-it-reduced-the-decline-of-speed-of-md-children-to-climb-stairs-over-18-months---march-2024&#34;&gt;FDA approved Duvyzat (it reduced the decline of speed of MD children to climb stairs over 18 months) - March 2024&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;muscular-dystrophy-treated-by-high-dose-coimbra-protocol-facebook-aug-2019&#34;&gt;Muscular Dystrophy treated by high-dose Coimbra Protocol (Facebook Aug 2019)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.facebook.com/protocolocoimbrabrasil/photos/a.355234424634473/1346608032163769/?type=3&amp;amp;theater&amp;amp;ifg=1&#34;&gt;Facebooktranslated&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D appears to fight Diabetes, MS, RA, Lupus, IBD, Hepatitis, Cancer, Psoriasis, Food allergy, etc</title>
-      <link>http://localhost:1313/posts/vitamin-d-appears-to-fight-diabetes-ms-ra-lupus-ibd-hepatitis-cancer-psoriasis-food-allergy-etc/</link>
-      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-appears-to-fight-diabetes-ms-ra-lupus-ibd-hepatitis-cancer-psoriasis-food-allergy-etc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Health Care is a Human Right in a most countries, but not the US</title>
-      <link>http://localhost:1313/posts/health-care-is-a-human-right-in-a-most-countries-but-not-the-us/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/health-care-is-a-human-right-in-a-most-countries-but-not-the-us/</guid>
-      <description>&lt;h4 id=&#34;what-it-means-for-health-care-to-be-a-human-righthttpswwwtheatlanticcomhealtharchive201906health-care-human-right592357utm_sourcefeed-the-atlantic-june-2019&#34;&gt;&lt;a href=&#34;https://www.theatlantic.com/health/archive/2019/06/health-care-human-right/592357/?utm_source=feed&#34;&gt;What It Means for Health Care to Be a Human Right&lt;/a&gt; The Atlantic June 2019&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;“ &lt;strong&gt;More than half the world’s countries have &lt;a href=&#34;https://www.sciencedaily.com/releases/2013/07/130719104927.htm%20&#34;&gt;pledged to protect their citizens’ right to health care&lt;/a&gt;, either through national laws or international human-rights agreements&lt;/strong&gt; ”&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/only-8-percent-of-us-adults-get-all-high-priority-screening-even-fewer-get-prevention&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Only 8 percent of US adults get all high-priority Screening (even fewer get Prevention) – June 2018&#34;&gt;Only 8 percent of US adults get all high-priority Screening (even fewer get Prevention) – June 2018&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>35 benefits of Vitamin D – Self-Hacked</title>
-      <link>http://localhost:1313/posts/35-benefits-of-vitamin-d-self-hacked/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/35-benefits-of-vitamin-d-self-hacked/</guid>
-      <description>&lt;h4 id=&#34;self-hackedhttpsselfhackedcomblog35proven-health-benefits-vitamin-d-part-1&#34;&gt;&lt;a href=&#34;https://selfhacked.com/blog/35proven-health-benefits-vitamin-d-part-1/&#34;&gt;Self-Hacked&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;By Maja Stanojevic, MD&lt;br&gt;&#xA;Has lots of references with hyperlinks&lt;br&gt;&#xA;These and many more are in the left-hand column of this page&lt;br&gt;&#xA;The following are just the titles.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Crucial to Bone Health&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Prevents Rickets and Osteomalacia&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Prevents Osteoporosis and Fractures&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;Can Improve Physical Performance&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;5&#34;&gt;&#xA;&lt;li&gt;May Protect Against Cancer&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;6&#34;&gt;&#xA;&lt;li&gt;Beneficial for Brain Development and Function&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;7&#34;&gt;&#xA;&lt;li&gt;Improves Cognitive Functions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;8&#34;&gt;&#xA;&lt;li&gt;Reduces Depression&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;9&#34;&gt;&#xA;&lt;li&gt;Reduces the Risk of Parkinson’s Disease&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;10&#34;&gt;&#xA;&lt;li&gt;Plays a Role in Alzheimer’s Disease&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;11&#34;&gt;&#xA;&lt;li&gt;Beneficial in Multiple Sclerosis&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;12&#34;&gt;&#xA;&lt;li&gt;Improves Sleep Quality&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;13&#34;&gt;&#xA;&lt;li&gt;Reduces the Risk of Cardiovascular Disease&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;14&#34;&gt;&#xA;&lt;li&gt;Reduces Blood Pressure&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;15&#34;&gt;&#xA;&lt;li&gt;May Decrease the Risk of Type 1 and Type 2 Diabetes&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;16&#34;&gt;&#xA;&lt;li&gt;Prevents Obesity and Metabolic Syndrome&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;17&#34;&gt;&#xA;&lt;li&gt;Anti-Inflammatory&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;18&#34;&gt;&#xA;&lt;li&gt;May Be Beneficial For Inflammatory Bowel Disease and Celiac Disease&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;19&#34;&gt;&#xA;&lt;li&gt;Plays a Role in Cystic Fibrosis&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;20&#34;&gt;&#xA;&lt;li&gt;Beneficial in Atopic Dermatitis&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;21&#34;&gt;&#xA;&lt;li&gt;Effective Therapy for Psoriasis Patients&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;22&#34;&gt;&#xA;&lt;li&gt;May Benefit Thyroid Dysfunction&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;23&#34;&gt;&#xA;&lt;li&gt;Reduces the Severity of Asthma&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;24&#34;&gt;&#xA;&lt;li&gt;Affects Chronic Obstructive Pulmonary Disease&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;25&#34;&gt;&#xA;&lt;li&gt;Reduces Risk of Tuberculosis&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;26&#34;&gt;&#xA;&lt;li&gt;Has a Negative Effect on Sarcoidosis&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;27&#34;&gt;&#xA;&lt;li&gt;Decreases the Risk of Respiratory Tract Infections&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;28&#34;&gt;&#xA;&lt;li&gt;Plays a Role in Systemic Lupus Erythematosus&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;29&#34;&gt;&#xA;&lt;li&gt;Beneficial in Rheumatoid Arthritis&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;30&#34;&gt;&#xA;&lt;li&gt;Protects Kidney Function&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;31&#34;&gt;&#xA;&lt;li&gt;Beneficial in HIV Disease&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;32&#34;&gt;&#xA;&lt;li&gt;Affects Male Fertility&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;33&#34;&gt;&#xA;&lt;li&gt;Beneficial in Pregnancy and Lactation&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;34&#34;&gt;&#xA;&lt;li&gt;Improves Clinical Manifestations of Polycystic Ovary Syndrome&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;35&#34;&gt;&#xA;&lt;li&gt;Influences Hair Loss&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Double digit increases in many health problems for those aged 21-36 in just 4 years</title>
-      <link>http://localhost:1313/posts/double-digit-increases-in-many-health-problems-for-those-aged-21-36-in-just-4-years/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/double-digit-increases-in-many-health-problems-for-those-aged-21-36-in-just-4-years/</guid>
-      <description>&lt;h4 id=&#34;the-health-of-millennialshttpswwwbcbscomthe-health-of-americareportsthe-health-of-millennials-bluecross-blueshield&#34;&gt;&lt;a href=&#34;https://www.bcbs.com/the-health-of-america/reports/the-health-of-millennials&#34;&gt;The Health of Millennials&lt;/a&gt; BlueCross, BlueShield]&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;This report focuses on the 55 million millennial Americans that are commercially insured”&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;900&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;“The BCBS  &lt;strong&gt;Health Index&lt;/strong&gt;  assigns U.S. populations a score between 0 and 100. A score of ‘100’ represents optimal health—a population’s potential lifespan, absent of disability and increased risk of death. The higher the score, the closer a population is to achieving optimal health. The lower the score, the more a population has been adversely impacted by certain health conditions.”&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;800&#34;&gt;</description>
-    </item>
-    <item>
-      <title>Cancer stem cells and Vitamin D - many studies</title>
-      <link>http://localhost:1313/posts/cancer-stem-cells-and-vitamin-d-many-studies/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cancer-stem-cells-and-vitamin-d-many-studies/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#repurposing-vitamin-d-for-treatment-of-human-malignancies-via-targeting-tumor-microenvironment--march-2019&#34;&gt;Repurposing vitamin D for treatment of human malignancies via targeting tumor microenvironment – March 2019&lt;/a&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#mechanisms-of-anticancer-action-of-vitamin-d-within-tumor-microenvironment&#34;&gt;Mechanisms of anticancer action of vitamin D within tumor microenvironment&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#32-cancer-stem-cells&#34;&gt;3.2 Cancer stem cells&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#role-of-vitamin-d-in-targeting-cancer-and-cancer-stem-cell-populations-and-its-therapeutic-implications----oct-2022&#34;&gt;Role of vitamin D in targeting cancer and cancer stem cell populations and its therapeutic implications  - Oct 2022&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#a-guide-to-cancer-stem-cell-markers-gastric-bladder-brain-liver-etc---march-2022&#34;&gt;A Guide to Cancer Stem Cell Markers (Gastric, Bladder. Brain, Liver, etc) - March 2022&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#vitamin-d-compounds-and-cancer-stem-cells-in-cancer-prevention---april-2020&#34;&gt;Vitamin D Compounds and Cancer Stem Cells in Cancer Prevention - April 2020&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#cancer-stem-cells-revisited---oct-2017&#34;&gt;Cancer stem cells revisited - Oct 2017&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#stem-cells---what-are-they-and-why-are-they-important-to-multiple-sclerosis-2019&#34;&gt;Stem Cells - What are they and why are they important (to Multiple Sclerosis) 2019?&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#vitamin-d-can-be-used-as-a-supplement_against-cancer-stem-cells---sept-2018&#34;&gt;Vitamin D can be used as a supplement_against cancer stem cells - Sept 2018&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#boosting-the-effects-of-vitamin-d-to-tackle-diabetes---may-2018--stem-cells-portal&#34;&gt;Boosting the effects of vitamin D to tackle diabetes - May 2018  Stem Cells Portal&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#how-vitamin-d-stops-cancer-stem-cells---2016&#34;&gt;How Vitamin D Stops Cancer Stem Cells - 2016?&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#see-also-vitamindwiki&#34;&gt;See also VitaminDWiki&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;repurposing-vitamin-d-for-treatment-of-human-malignancies-via-targeting-tumor-microenvironment--march-2019&#34;&gt;Repurposing vitamin D for treatment of human malignancies via targeting tumor microenvironment – March 2019&lt;/h3&gt;&#xA;&lt;p&gt;Acta Pharmaceutica Sinica B, Vol 9, Issue 2, March 2019, Pages 203-219. &lt;a href=&#34;https://doi.org/10.1016/j.apsb.2018.09.002&#34;&gt;https://doi.org/10.1016/j.apsb.2018.09.002&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Searching for Vitamin D studies – AllMEDx is a superset of PubMed</title>
-      <link>http://localhost:1313/posts/searching-for-vitamin-d-studies-allmedx-is-a-superset-of-pubmed/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/searching-for-vitamin-d-studies-allmedx-is-a-superset-of-pubmed/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://allmedx.com/&#34;&gt;https://allmedx.com/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sources-of-information&#34;&gt;Sources of information&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#can-subsort-a-search-on&#34;&gt;Can subsort a search on&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#also-includes-subtopics&#34;&gt;Also includes subtopics&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#does-not-include-non-human-preclinical-studies-nor-studies-10-years-old&#34;&gt;Does not include non-human, preclinical studies, nor studies &amp;gt;10 years old&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#unfortunately-puts--in-long-titles-making-them-hard-to-understand&#34;&gt;Unfortunately puts &amp;hellip;&amp;hellip; in long titles, making them hard to understand&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#unable-to-search-for-word-in-title&#34;&gt;Unable to search for word in title&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#supported-by-advertising&#34;&gt;Supported by advertising&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;sources-of-information&#34;&gt;Sources of information&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Centers for Disease Control (CDC): thousands of articles and alerts from the nation’s health protection agency&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Cleveland Clinic: free full text of hundreds of Patient Education handouts&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ways to improve health</title>
-      <link>http://localhost:1313/posts/ways-to-improve-health/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ways-to-improve-health/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;My opinion - which is based on reading &amp;gt;20,000 related studies&lt;/p&gt;&#xA;&lt;p&gt;I would love to see attempts at quantifying this&lt;/p&gt;&#xA;&lt;p&gt;    Henry Lahore, founder of VitaminDWiki,   2019&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#a-2013-report-on-the-state-of-us-health-identified-dietary-factors-as-the-single-most-significant-risk-factor-for-disability-and-premature-death&#34;&gt;&amp;ldquo;A 2013 report on the state of US health identified dietary factors as the single most significant risk factor for disability and premature death&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#half-of-diabetics-cured-in-16-days-by-eating-a-plant-based-diet--dr-greger-sept-2019postshalf-of-diabetics-cured-in-16-days-by-eating-a-plant-based-diet-dr-greger&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/half-of-diabetics-cured-in-16-days-by-eating-a-plant-based-diet-dr-greger&#34;&gt;Half of Diabetics cured in 16 days by eating a plant-based diet – Dr. Greger Sept 2019&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d--dr-greger-oct-2019postslive-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger&#34;&gt;Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#cost-effective-for-us-medicaremedicaid-to-give-a-30-discount-on-healthy-food---march-2019&#34;&gt;Cost effective for US Medicare/Medicaid to give a 30% discount on healthy food - March 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#live-longer---data-basedhttpsinformationisbeautifulnetvisualizationswhat-could-really-increase-life-expectancy-lifespan-and-longevity-2019&#34;&gt;&lt;a href=&#34;https://informationisbeautiful.net/visualizations/what-could-really-increase-life-expectancy-lifespan-and-longevity/&#34;&gt;Live Longer - data-based&lt;/a&gt; 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#yet-again-review-of-poor-nutrition-education-for-doctors---jama-march-2019&#34;&gt;Yet again, review of poor nutrition education for doctors - JAMA March 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#exercise&#34;&gt;Exercise&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#ultraprocessed-foods---an-excellent-article-describing-a-book---july-2023&#34;&gt;Ultraprocessed foods - an excellent article describing a book - July 2023&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;a-2013-report-on-the-state-of-us-health-identified-dietary-factors-as-the-single-most-significant-risk-factor-for-disability-and-premature-death&#34;&gt;&amp;ldquo;A 2013 report on the state of US health identified dietary factors as the single most significant risk factor for disability and premature death&amp;rdquo;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Increased incidence of health problems if iow Vitamin D</title>
-      <link>http://localhost:1313/posts/increased-incidence-of-health-problems-if-iow-vitamin-d/</link>
-      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/increased-incidence-of-health-problems-if-iow-vitamin-d/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;4X higher risk&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Age-Related Macular Degeneration - wet&lt;/p&gt;&#xA;&lt;p&gt;Cancer - advanced-stage&lt;/p&gt;&#xA;&lt;p&gt;Childhood asthma&lt;/p&gt;&#xA;&lt;p&gt;Cognitive Impairment&lt;/p&gt;&#xA;&lt;p&gt;Diabetes T1&lt;/p&gt;&#xA;&lt;p&gt;Frail when old&lt;/p&gt;&#xA;&lt;p&gt;Increased risk of death if n ICU for 2 days&lt;/p&gt;&#xA;&lt;p&gt;Lung disease - non-TB&lt;/p&gt;&#xA;&lt;p&gt;Metabolic syndrome&lt;/p&gt;&#xA;&lt;p&gt;Multiple sclerosis&lt;/p&gt;&#xA;&lt;p&gt;Pneumonia acquired in hospital ==&amp;gt; death&lt;/p&gt;&#xA;&lt;p&gt;Pregnancy - C-section, Preeclampsia&lt;/p&gt;&#xA;&lt;p&gt;Psychiatric disorders as a teen&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;5X more likely&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Allergic rhinitis&lt;/p&gt;&#xA;&lt;p&gt;Childhood Cancer&lt;/p&gt;&#xA;&lt;p&gt;Coronary Artery Disease&lt;/p&gt;&#xA;&lt;p&gt;Coronary bypass ==&amp;gt;  death&lt;/p&gt;&#xA;&lt;p&gt;Hip Fracture ==&amp;gt; bad outcome&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Far healthier and stronger at age 72 due to supplements</title>
-      <link>http://localhost:1313/posts/far-healthier-and-stronger-at-age-72-due-to-supplements/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/far-healthier-and-stronger-at-age-72-due-to-supplements/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;700&#34;&gt;&#xA;&lt;h4 id=&#34;personal-observation-by-the-founder-of-vitamindwiki&#34;&gt;Personal observation by the founder of VitaminDWiki&lt;/h4&gt;&#xA;&lt;p&gt;I noticed my health improve with each added supplement&lt;/p&gt;&#xA;&lt;p&gt;Vitamin D for 8+ years (~100 ng)&lt;/p&gt;&#xA;&lt;p&gt;Good intake of Magnesium and Vitamin K for 6 years&lt;/p&gt;&#xA;&lt;p&gt;Vectomega brand of Omega-3 for 4+ years (tested)- previously had taken Coromega brand for a decade&lt;/p&gt;&#xA;&lt;p&gt;        While my health had improved a lot, I felt that I was not getting the full vitamin D benefit&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A poor Vitamin D Receptor will limit the benefits of Vitamin D&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Healthspan is more important than Lifespan – JAMA</title>
-      <link>http://localhost:1313/posts/healthspan-is-more-important-than-lifespan-jama/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/healthspan-is-more-important-than-lifespan-jama/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#from-lifespan-to-healthspan---2018&#34;&gt;From Lifespan to Healthspan - 2018&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#might-be-able-to-square-the-curve-with-vitamin-d&#34;&gt;Might be able to “square the curve” with Vitamin D&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#193-studies-cited-this-study-as-of-dec-2023&#34;&gt;193 studies cited this study as of Dec 2023&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;from-lifespan-to-healthspan---2018&#34;&gt;From Lifespan to Healthspan - 2018&lt;/h4&gt;&#xA;&lt;p&gt;JAMA. 2018;320(13):1323-1324. doi:10.1001/jama.2018.12621&lt;/p&gt;&#xA;&lt;p&gt;S. Jay Olshansky, PhD1&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;#### Chart from PDF&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;1900&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Many deaths before age 3&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Adult death rates inacreas at age 20, short lifetimes, peak at age 71&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;2016&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Adult death rates increase at age 50, long lifetimes, peak at age 90&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exercise</title>
-      <link>http://localhost:1313/posts/what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#let-us-assume-for-argument-that-they-result-in-similar-health-benefits&#34;&gt;Let us assume, for argument, that they result in similar health benefits&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#ways-to-improve-healthpostsways-to-improve-health-has-a-venn-diagram-of-food-exercise-and-supplements&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/ways-to-improve-health&#34;&gt;Ways to improve health&lt;/a&gt; has a venn diagram of food, exercise and supplements&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency--dec-2023postsultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency&#34;&gt;Ultra-processed food consumption: 2X increased risk of vitamin D deficiency – Dec 2023&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;let-us-assume-for-argument-that-they-result-in-similar-health-benefits&#34;&gt;Let us assume, for argument, that they result in similar health benefits&lt;/h4&gt;&#xA;&lt;h5 id=&#34;now-let-us-estimate-the-monthly-costs-and-time-for-each&#34;&gt;Now let us estimate the monthly costs and time for each.&lt;/h5&gt;&#xA;&lt;p&gt;Does include: purchase, preparation, use, and cleanup&lt;/p&gt;&#xA;&lt;p&gt;Does not include travel (time or cost)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Peroxynitrite – possible cause of increases in many health problems</title>
-      <link>http://localhost:1313/posts/peroxynitrite-possible-cause-of-increases-in-many-health-problems/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/peroxynitrite-possible-cause-of-increases-in-many-health-problems/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-root-cause-in-the-dramatic-rise-of-chronic-disease--draft-jan-2018&#34;&gt;The Root Cause in the dramatic rise of Chronic Disease – draft Jan 2018&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#growth-of-chronic-disease&#34;&gt;Growth of Chronic Disease&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#observations-by-vitamindwiki-on--peroxynitrite-and-vitamin-d&#34;&gt;Observations by VitaminDWiki on  Peroxynitrite and Vitamin D&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#increases-in-25-years&#34;&gt;Increases in 25 years&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#huge-increases-in-some-diseases-peroxynitrite-vitamin-d-toxins-or-what&#34;&gt;Huge increases in some diseases: peroxynitrite, Vitamin D, toxins, or what?&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;the-root-cause-in-the-dramatic-rise-of-chronic-disease--draft-jan-2018&#34;&gt;The Root Cause in the dramatic rise of Chronic Disease – draft Jan 2018&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;First page of PDF&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;NOTE to Readers: I am seeking one or two scientists to take the following research and paper forward. There are really two papers here. One is a paper that strengthens the scientific connection between peroxynitrite and at least forty fast-growing chronic diseases. The second paper is a translation of the science that can be offered to the American people, who remain unaware of the root cause of the dramatic increase of chronic disease and conditions in the US. More than 170 million Americans are currently suffering from diseases and conditions that can be vastly improved or even reversed by reducing levels of peroxynitrite through moderate changes in lifestyle, the immediate environment and diet plus nonprescription supplementation. While scientists recognize the pivotal role of peroxynitrite in disease, few policy makers and physicians are aware of the opportunity they have to heal a nation suffering from chronic diseases. The annual cost of just forty fast-growing diseases is more than $2.5 trillion. With increased awareness and action this cost to society can be reduced to a fraction by simply implementing the knowledge we already have.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Health on VitaminDWiki</title><link>//localhost:1313/categories/health.html</link><description>Recent content in Health on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/health/index.xml" rel="self" type="application/rss+xml"/><item><title>Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital</title><link>//localhost:1313/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital.html</link><pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital.html</guid><description>&lt;h4 id="prescription-drugs-are-the-leading-cause-of-death">Prescription Drugs Are the Leading Cause of Death&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;amp;utm_medium=email">Brownstone&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&amp;ldquo;37,309 drug deaths were reported to the FDA in 2006 and&lt;br>
+123,927 ten years later, which is 3.3 times as many&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&amp;ldquo;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&amp;rdquo;&lt;/p></description></item><item><title>Early-Onset diseases and Vitamin D - several studies</title><link>//localhost:1313/posts/early-onset-diseases-and-vitamin-d-several-studies.html</link><pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/early-onset-diseases-and-vitamin-d-several-studies.html</guid><description>&lt;p>&lt;strong>Candidate causes include:&lt;/strong>&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Low vitamin D&lt;/td>
+ &lt;td>(which can be fought by Vitamin D)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Microplastics now causing problems in most life forms - many studies&lt;/td>
+ &lt;td>Microplastics))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Ultra-processed foods associated with worse health and lower Vitamin D - several studies&lt;/td>
+ &lt;td>Ultra-processed foods))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Air Pollution reduces Vitamin D&lt;/td>
+ &lt;td>Air pollution))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((DDT and other pesticides decrease vitamin D&lt;/td>
+ &lt;td>Pesticides))&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#why-are-so-many-young-people-getting-cancer---april-2024">Why are so many young people getting cancer? - April 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#40700-studies-had-early-onset-in-their-title-as-of-april-2024">40,700 studies had EARLY-ONSET in their title as of April 2024&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="why-are-so-many-young-people-getting-cancer---april-2024">Why are so many young people getting cancer? - April 2024&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.vox.com/the-highlight/24093360/early-cancer-young-adults-colon-stomach-research">VOX&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US)</title><link>//localhost:1313/posts/5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us.html</link><pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#quote-from-flccc-email---march-2024">Quote from FLCCC email - March 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---longevity-and-healthspan-increased-by-vitamin-d---many-studiespostslongevity-and-healthspan-increased-by-vitamin-d-many-studies">VitaminDWiki - &lt;a href="//localhost:1313/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies">Longevity and healthspan increased by Vitamin D - many studies&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annuallypostsus-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually">VitaminDWiki - &lt;a href="//localhost:1313/posts/us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually">US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital---april-2024postsprescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital">VitaminDWiki - &lt;a href="//localhost:1313/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital">Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="quote-from-flccc-email---march-2024">Quote from FLCCC email - March 2024&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="800">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the email PDF from VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h4 id="vitamindwiki---longevity-and-healthspan-increased-by-vitamin-d---many-studiespostslongevity-and-healthspan-increased-by-vitamin-d-many-studies">VitaminDWiki - &lt;a href="//localhost:1313/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies">Longevity and healthspan increased by Vitamin D - many studies&lt;/a>&lt;/h4>
+&lt;hr>
+&lt;h4 id="vitamindwiki---us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annuallypostsus-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually">VitaminDWiki - &lt;a href="//localhost:1313/posts/us-rda-vitamin-d-math-mistakes-cost-the-world-about-one-trillion-dollars-annually">US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually&lt;/a>&lt;/h4>
+&lt;hr>
+&lt;h4 id="vitamindwiki---prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital---april-2024postsprescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital">VitaminDWiki - &lt;a href="//localhost:1313/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital">Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024&lt;/a>&lt;/h4></description></item><item><title>US IRS now favors drugs over wellness</title><link>//localhost:1313/posts/us-irs-now-favors-drugs-over-wellness.html</link><pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/us-irs-now-favors-drugs-over-wellness.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#irs-cracks-down-on-deductions-for-healthy-food-exercise-as-childhood-chronic-disease-epidemic-explodes">IRS Cracks Down on Deductions for Healthy Food, Exercise as Childhood Chronic Disease Epidemic Explodes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---why-big-pharma-is-terrified-of-vitamin-d---dr-korry-march-2024postswhy-big-pharma-is-terrified-of-vitamin-d-dr-korry">VitaminDWiki - &lt;a href="//localhost:1313/posts/why-big-pharma-is-terrified-of-vitamin-d-dr-korry">Why Big Pharma is ‘TERRIFIED’ of Vitamin D - Dr. Korry March 2024&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---5-of-the-world-consumes-55-of-the-prescription-medications-while-lifespan-is-decreasing-us--march-2024posts5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us">VitaminDWiki - &lt;a href="//localhost:1313/posts/5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us">5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="irs-cracks-down-on-deductions-for-healthy-food-exercise-as-childhood-chronic-disease-epidemic-explodes">IRS Cracks Down on Deductions for Healthy Food, Exercise as Childhood Chronic Disease Epidemic Explodes&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://childrenshealthdefense.org/defender/calley-means-irs-prioritize-pharma-drugs-over-childrens-health-rfk-jr-podcast/?utm_source=luminate&amp;amp;utm_medium=email&amp;amp;utm_campaign=defender&amp;amp;utm_id=20240319">ChildrenHealthDefense&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Includes a link to the 40 minute podcast&lt;/strong>&lt;/p></description></item><item><title>Ultra-processed foods associated with worse health and lower Vitamin D - several studies</title><link>//localhost:1313/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-several-studies.html</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-several-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#ultra-processed-food-and-adverse-health-outcomes--bmj-meta-analysis-jan-2024">Ultra-processed food and adverse health outcomes – BMJ meta-analysis Jan 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-perils-of-ultra-processed-foods-article-and-book---july-2023">The Perils of Ultra-processed foods (article and book) - July 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency--dec-2023postsultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency">VitaminDWiki - &lt;a href="//localhost:1313/posts/ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency">Ultra-processed food consumption: 2X increased risk of vitamin D deficiency – Dec 2023&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ultra-processed-foods-increase-the-risk-of-metabolic-syndromes---jan-2024">Ultra-processed foods increase the risk of metabolic syndromes - Jan 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#increased-ultra-processed-foods-increase-risks-of-cancer-and-cvd-by-9---lancet-dec-2023">Increased Ultra-processed foods increase risks of Cancer and CVD by 9% - Lancet Dec 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ultra-processed-foods-can-be-as-addictive-as-cocaine-or-smoking---feb-2024">Ultra-processed foods can be as addictive as cocaine or smoking - Feb 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#perplexity-ai-on-ultra-processed-foods---march-2024">Perplexity AI on ultra-processed foods - March 2024&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="ultra-processed-food-and-adverse-health-outcomes--bmj-meta-analysis-jan-2024">Ultra-processed food and adverse health outcomes – BMJ meta-analysis Jan 2024&lt;/h4>
+&lt;p>&lt;strong>Credible increased risk of 9 health problems (a subset of table)&lt;/strong>&lt;/p></description></item><item><title>Which health problems take more than 10 years to develop - Chat-GPT</title><link>//localhost:1313/posts/which-health-problems-take-more-than-10-years-to-develop-chat-gpt.html</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/which-health-problems-take-more-than-10-years-to-develop-chat-gpt.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#chat-gpt-answer">Chat-GPT answer&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---maternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later---may-2023postsmaternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later">VitaminDWiki - &lt;a href="//localhost:1313/posts/maternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later">Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="chat-gpt-answer">Chat-GPT answer&lt;/h4>
+&lt;p>Several health conditions can take more than 10 years to develop, often due to a combination of genetic, lifestyle, and environmental factors. Here&amp;rsquo;s a list of some notable conditions that typically have a long development period:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Cardiovascular Diseases&lt;/strong> : Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.&lt;/p></description></item><item><title>16 Longevity books compared in a video</title><link>//localhost:1313/posts/16-longevity-books-compared-in-a-video.html</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/16-longevity-books-compared-in-a-video.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#peter-attias-longevity-book-outlive-the-best-or-worst-longevitybook">Peter Attia&amp;rsquo;s Longevity Book Outlive: The BEST or WORST longevity book?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---longevity-and-healthspan-increased-by-vitamin-d---many-studiespostslongevity-and-healthspan-increased-by-vitamin-d-many-studies">VitaminDWiki - &lt;a href="//localhost:1313/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies">Longevity and healthspan increased by Vitamin D - many studies&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---how-not-to-age-book-diet-exercise-supplements-dr-greger---dec-2023postshow-not-to-age-book-diet-exercise-supplements-dr-greger">VitaminDWiki - &lt;a href="//localhost:1313/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger">How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="peter-attias-longevity-book-outlive-the-best-or-worst-longevitybook">Peter Attia&amp;rsquo;s Longevity Book Outlive: The BEST or WORST longevity book?&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;amp;ab_channel=PlantChompers">YouTube 35 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="800">
+&lt;h5 id="books">Books&lt;/h5>
+&lt;ol>
+&lt;li>
+&lt;p>Outlive: The Science and Art of Longevity by Peter Attia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The Longevity Project: Surprising Discoveries for Health and Long Life from the Landmark Eight-Decade Study&lt;/p></description></item><item><title>Chronic Health Conditions: 27% of Americans have more than 1 of the top 10 - CDC 2018</title><link>//localhost:1313/posts/chronic-health-conditions-27-percent-of-americans-have-more-than-1-of-the-top-10-cdc-2018.html</link><pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/chronic-health-conditions-27-percent-of-americans-have-more-than-1-of-the-top-10-cdc-2018.html</guid><description>&lt;h4 id="prevalence-of-multiple-chronic-conditions-among-us-adults-2018">Prevalence of Multiple Chronic Conditions Among US Adults, 2018&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.cdc.gov/pcd/issues/2020/20_0130.htm?ck_subscriber_id=19612225">CDC Sept 2020&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;h5 id="top-10-chronic-conditionsbefore-covid-and-long-covid">Top 10 chronic conditions(before COVID and Long-COVID)&lt;/h5>
+&lt;ol>
+&lt;li>
+&lt;p>arthritis,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>cancer,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>chronic obstructive pulmonary disease (COPD),&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>coronary heart disease,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>current asthma,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>diabetes,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>hepatitis,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>hypertension,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>stroke, and&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>weak or failing kidney&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/health-problems-and-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health Problems and D">&lt;del>#00F:All of the above are prevented/treated by Vitamin D&lt;/del>&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h4 id="vitamindwiki---many-chronic-health-diseases-and-infections-can-controlled-by-40-ng-of-vitamin-d--aug-2023postsmany-chronic-health-diseases-and-infections-can-controlled-by-40-ng-of-vitamin-d">VitaminDWiki - &lt;a href="//localhost:1313/posts/many-chronic-health-diseases-and-infections-can-controlled-by-40-ng-of-vitamin-d">Many Chronic Health Diseases and Infections can controlled by 40 ng of Vitamin D – Aug 2023&lt;/a>&lt;/h4>
+&lt;!-- ~tc~ (alias(Chronic Health Condition: 27% of Americans have more than 1 - CDC 2018)) ~/tc~ -->
+&lt;!-- ~tc~ (alias(Chronic Health Conditions: 27% of Americans have more than 1 of the top 10 - CDC 2018)) ~/tc~ --></description></item><item><title>Stem cells and Vitamin D - many studies</title><link>//localhost:1313/posts/stem-cells-and-vitamin-d-many-studies.html</link><pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stem-cells-and-vitamin-d-many-studies.html</guid><description/></item><item><title>Down syndrome people have even lower D levels if have additional Vitamin D diseases</title><link>//localhost:1313/posts/down-syndrome-people-have-even-lower-d-levels-if-have-additional-vitamin-d-diseases.html</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/down-syndrome-people-have-even-lower-d-levels-if-have-additional-vitamin-d-diseases.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#hypovitaminosis-d-in-persons-with-down-syndrome-and-autism-spectrum-disorder">Hypovitaminosis D in persons with Down syndrome and autism spectrum disorder&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---a-hrefpostsdown-syndrome-and-low-vitamin-d-several-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-down-syndrome-and-low-vitamin-d---several-studiesdown-syndrome-and-low-vitamin-d---several-studiesa">VitaminDWiki - &lt;a href="//localhost:1313/posts/down-syndrome-and-low-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Down syndrome and low vitamin D - several studies">Down syndrome and low vitamin D - several studies&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="hypovitaminosis-d-in-persons-with-down-syndrome-and-autism-spectrum-disorder">Hypovitaminosis D in persons with Down syndrome and autism spectrum disorder&lt;/h4>
+&lt;p>J Neurodev Disord . 2023 Oct 25;15(1):35. &lt;a href="https://doi.org/10.1186/s11689-023-09503-y.">doi: 10.1186/s11689-023-09503-y.&lt;/a>&lt;/p>
+&lt;p>Natalie K Boyd 1, Julia Nguyen 2, Mellad M Khoshnood 1, Timothy Jiang 1, Lina Nguyen 1, Lorena Mendez 1, Noemi A Spinazzi 3, Melanie A Manning 4, Michael S Rafii 5 6, Jonathan D Santoro 7 8&lt;/p></description></item><item><title>Doctors are incentivised to prescribe medicines, not improve health</title><link>//localhost:1313/posts/doctors-are-incentivised-to-prescribe-medicines-not-improve-health.html</link><pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/doctors-are-incentivised-to-prescribe-medicines-not-improve-health.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#how-pcps-are-penalized-for-positive-outcomes-from-lifestyle-change">How PCPs are penalized for positive outcomes from lifestyle change&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="how-pcps-are-penalized-for-positive-outcomes-from-lifestyle-change">How PCPs are penalized for positive outcomes from lifestyle change&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.mdedge.com/familymedicine/article/265926/business-medicine/how-pcps-are-penalized-positive-outcomes-lifestyle/page/0/1?ecd=WNL_EVE_231016_mdedge">MD Edge&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>One example: Dr. reduced diabetes by lifestyle changes&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>However, the CMS 5-Star Rating System assigned the primary care physician a grade of C rather than A, which put the physician›s 5-star rating at risk. Why? Because the system &lt;strong>bases its score largely on medication compliance&lt;/strong> . The physician was penalized despite achieving the optimal health outcome, and at a lower cost than with medication. &amp;quot;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Medicare incentivizes disease management, not disease reversal&lt;/strong>&lt;/p></description></item><item><title>Live 24 years longer if have 8 habits (survey of 700,000 veterans)</title><link>//localhost:1313/posts/live-24-years-longer-if-have-8-habits-survey-of-700000-veterans.html</link><pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/live-24-years-longer-if-have-8-habits-survey-of-700000-veterans.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-eight-habits-researchers-recommend-to-lengthen-life-expectancy">The eight habits researchers recommend to lengthen life expectancy&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-habits-will-extend-life-expectancy">What habits will extend life expectancy?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-longevity-and-healthspan-increased-by-vitamin-d---many-studiespostslongevity-and-healthspan-increased-by-vitamin-d-many-studies-80-studies">See also: &lt;a href="//localhost:1313/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies">Longevity and healthspan increased by Vitamin D - many studies&lt;/a> 80+ studies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-ways-to-improve-healthpostsways-to-improve-health">See also: &lt;a href="//localhost:1313/posts/ways-to-improve-health">Ways to improve health&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-eight-habits-researchers-recommend-to-lengthen-life-expectancy">The eight habits researchers recommend to lengthen life expectancy&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.openaccessgovernment.org/eight-habits-could-lengthen-your-life-expectancy-by-decades/164200/">URL&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits.&lt;br>
+For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.&lt;/strong>&lt;/p></description></item><item><title>US Healthcare spending to consume 20% of GDP by 2028</title><link>//localhost:1313/posts/us-healthcare-spending-to-consume-20-percent-of-gdp-by-2028.html</link><pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/us-healthcare-spending-to-consume-20-percent-of-gdp-by-2028.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#modern-healthcarehttpswwwmodernhealthcarecomhealthcare-economicshealthcare-spending-consume-20-gdp-2028textas20a20result2c20the20healthcarewhich20was201772520of20gdp-march-2022">&lt;a href="https://www.modernhealthcare.com/healthcare-economics/healthcare-spending-consume-20-gdp-2028#:~:text=As%20a%20result%2C%20the%20healthcare,which%20was%2017.7%25%20of%20GDP.">Modern HealthCare&lt;/a> March 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#it-appears-that-vitamin-d-can-cut-the-cost-of-healthcare-in-half">It appears that Vitamin D can cut the cost of healthcare in half&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="modern-healthcarehttpswwwmodernhealthcarecomhealthcare-economicshealthcare-spending-consume-20-gdp-2028textas20a20result2c20the20healthcarewhich20was201772520of20gdp-march-2022">&lt;a href="https://www.modernhealthcare.com/healthcare-economics/healthcare-spending-consume-20-gdp-2028#:~:text=As%20a%20result%2C%20the%20healthcare,which%20was%2017.7%25%20of%20GDP.">Modern HealthCare&lt;/a> March 2022&lt;/h4>
+&lt;hr>
+&lt;h4 id="it-appears-that-vitamin-d-can-cut-the-cost-of-healthcare-in-half">It appears that Vitamin D can cut the cost of healthcare in half&lt;/h4>
+&lt;p>&lt;strong>Hope to have a demonstration with 5,000 people in 2024 getting 50,0000 IU weekly&lt;/strong>&lt;/p></description></item><item><title>Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) - 2023</title><link>//localhost:1313/posts/rare-diseases-1-in-10-americans-some-are-helped-by-vitamin-d-2023.html</link><pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/rare-diseases-1-in-10-americans-some-are-helped-by-vitamin-d-2023.html</guid><description>&lt;p>There are more than 10,000 known rare diseases.&lt;/p>
+&lt;p>Approximately 80% of rare diseases are estimated to have a genetic origin.&lt;/p>
+&lt;p>Of those, 70% start in childhood. (56% of rare diseases start in childhood)&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;In the United States, about half of the people with a rare disease are children. Many of these diseases are chronic and worsen over time.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>The US defines incidence of a &amp;ldquo;rare disease&amp;rdquo; as being 1 in every 1,500 people&lt;/strong>&lt;/p></description></item><item><title>The top 10 medical expenses can all be decreased by vitamin D</title><link>//localhost:1313/posts/the-top-10-medical-expenses-can-all-be-decreased-by-vitamin-d.html</link><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/the-top-10-medical-expenses-can-all-be-decreased-by-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-health-problems--expenses-webmd-nov-2021httpswwwwebmdcomhealthy-agingssslideshow-top-11-medical-expenses">The health problems &amp;amp; expenses &lt;a href="https://www.webmd.com/healthy-aging/ss/slideshow-top-11-medical-expenses">WebMD Nov 2021&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-health-problems--expenses-webmd-nov-2021httpswwwwebmdcomhealthy-agingssslideshow-top-11-medical-expenses">The health problems &amp;amp; expenses &lt;a href="https://www.webmd.com/healthy-aging/ss/slideshow-top-11-medical-expenses">WebMD Nov 2021&lt;/a>&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Problem&lt;/td>
+ &lt;td>Cost&lt;/td>
+ &lt;td>VitaminDWiki&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Heart Conditions:&lt;/td>
+ &lt;td>$555 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Diabetes:&lt;/td>
+ &lt;td>$245 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Cancer:&lt;/td>
+ &lt;td>$225 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D&lt;/a> and 17+ subcategories&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Obesity:&lt;/td>
+ &lt;td>$190 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>COPD and Asthma: Between&lt;/td>
+ &lt;td>$100-290 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/posts/copd-fought-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD fought by Vitamin D - many studies">COPD fought by Vitamin D - many studies&lt;/a> &lt;br>&lt;a href="//localhost:1313/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Traffic Injuries:&lt;/td>
+ &lt;td>$99 Billion&lt;/td>
+ &lt;td>((Vitamin D is needed before most surgeries – many studies and RCTs&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Mental Disorders:&lt;/td>
+ &lt;td>$89 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer&amp;rsquo;s-Cognition and Vitamin D&lt;/a>&lt;br>&lt;a href="//localhost:1313/categories/depression">Depression&lt;/a>&lt;br>&lt;a href="//localhost:1313/posts/brain-and-vitamin-d-many-studies">Brain and Vitamin D - many studies&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Low Back and Neck Problems:&lt;/td>
+ &lt;td>$87 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/categories/back-pain">Back Pain&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Joint Disorders:&lt;/td>
+ &lt;td>$80 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>High Blood Pressure:&lt;/td>
+ &lt;td>$46 Billion&lt;/td>
+ &lt;td>&lt;a href="//localhost:1313/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Heart Conditions, Diabetes, Cancer, Obesity, COPD and Asthma, Traffic Injuries, Mental Disorders, Depression; Brain, Low Back and Neck Problems, Joint Disorders, High Blood Pressure,&lt;/strong>&lt;/p></description></item><item><title>Off-topic: Depression gone after participating in 5 day Tony Robins event</title><link>//localhost:1313/posts/off-topic-depression-gone-after-participating-in-5-day-tony-robins-event.html</link><pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/off-topic-depression-gone-after-participating-in-5-day-tony-robins-event.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-exciting-emergence-of-regenerative-medicine---mercola-may2022">The Exciting Emergence of Regenerative Medicine - Mercola May 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2022-book-life-force-by-robins---with-table-ofcontents">2022 Book: Life Force by Robins - with Table of Contents&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2022-video-of-t-robbins-pdiamandis-and-r-patrick-on-lifeextension">2022 video of T. Robbins, P. Diamandis and R. Patrick on Life extension&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-exciting-emergence-of-regenerative-medicine---mercola-may2022">The Exciting Emergence of Regenerative Medicine - Mercola May 2022&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&amp;ldquo;A Stanford clinical research study of Robbins’ “Date With Destiny” program found 100% of participants with clinical depression were symptom-free 30 days after completion of the five-and-a-half-day course&amp;rdquo;&lt;/p></description></item><item><title>Poor odor detection if low Vitamin D, better after 50,000 IU weekly</title><link>//localhost:1313/posts/poor-odor-detection-if-low-vitamin-d-better-after-50000-iu-weekly.html</link><pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/poor-odor-detection-if-low-vitamin-d-better-after-50000-iu-weekly.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#effect-of-vitamin-d-on-olfactory-function">Effect of vitamin D on olfactory function&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#this-study--concerns-the-ability-to-detect-a-smell-not-the-loss-of-smell">This study concerns the ability to detect a smell, NOT the loss of smell&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#loss-of-smell-is-associated-with-covid-long-haul-andl-low-zinc">Loss of smell is associated with COVID, Long-Haul, andl Low Zinc&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---perhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain--march-2018postsperhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain">VitaminDWiki - &lt;a href="//localhost:1313/posts/perhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain">Perhaps drugs such as inhaled vitamin D can get directly to the brain – March 2018&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="effect-of-vitamin-d-on-olfactory-function">Effect of vitamin D on olfactory function&lt;/h4>
+&lt;p>B-ENT 2021; 17(2): 86-91 ALLERGY AND RHINOLOGY DOI: 10.5152/B-ENT.2021.21041&lt;/p>
+&lt;p>Ahmet Baki1 © Muhammet Yildiz2 G, Sel$uk Gundogar3 ©&lt;/p></description></item><item><title>Vitamin D is important to health</title><link>//localhost:1313/posts/vitamin-d-is-important-to-health.html</link><pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-is-important-to-health.html</guid><description>&lt;h4 id="non-musculoskeletal-benefits-of-vitamin-d-beyond-the-musculoskeletal-system">Non-Musculoskeletal Benefits of Vitamin D beyond the Musculoskeletal System&lt;/h4>
+&lt;p>Int. J. Mol. Sci. 2021, 22(4), 2128; &lt;a href="https://doi.org/10.3390/ijms22042128">https://doi.org/10.3390/ijms22042128&lt;/a>&lt;/p>
+&lt;p>Sicheng Zhang, Duane D. Miller andWei Li &lt;a href="mailto:wli@uthsc.edu">wli@uthsc.edu&lt;/a>&lt;/p>
+&lt;p>Department of Pharmaceutical Sciences, College of Pharmacy, The University of Tennessee Health Science Center, Memphis, TN 38163, USA&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;/div>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Table of Contents&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="450">
+&lt;p>&lt;strong>Calcium and Phosphorus&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="700">
+&lt;p>&lt;strong>Metabolism&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="700">
+&lt;p>&lt;strong>Immune System&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="700">
+&lt;p>Vitamin D, a fat-soluble prohormone, is endogenously synthesized in response to sunlight or taken from dietary supplements. Since vitamin D receptors are present in most tissues and cells in the body, the mounting understanding of the role of vitamin D in humans indicates that it does not only play an important role in the musculoskeletal system, but has beneficial effects elsewhere as well.&lt;/p></description></item><item><title>Live 7 years longer free of major disease if eat well, not smoke, not obese, moderate drink and exercise (100,000 people)</title><link>//localhost:1313/posts/live-7-years-longer-free-of-major-disease-if-eat-well-not-smoke-not-obese-modera-e-100000-people.html</link><pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/live-7-years-longer-free-of-major-disease-if-eat-well-not-smoke-not-obese-modera-e-100000-people.html</guid><description>&lt;h4 id="healthy-lifestyle-and-life-expectancy-free-of-cancer-cardiovascular-disease-and-type-2-diabetes-prospective-cohort-study">Healthy lifestyle and life expectancy free of cancer, cardiovascular disease, and type 2 diabetes: prospective cohort study&lt;/h4>
+&lt;p>BMJ 2020; 368 &lt;a href="https://doi.org/https">doi: https&lt;/a>://doi.org/10.1136/bmj.l6669&lt;/p>
+&lt;h4 id="7-years-longer-without-cancer-cvd-diabetes-if-follow-4-of-the-following-5-lifestyle-factors">7 years longer without Cancer, CVD, Diabetes if follow 4 of the following 5 lifestyle factors&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="900">
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/ways-to-improve-health">Vitamin D is the 3rd most important contributor to health&lt;/a>,&lt;br>
+    and the lowest-cost way to improve health&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400"> &lt;/p>
+&lt;p>&lt;strong>This study does not mention Vitamin D, which is not as effctive but is far lower cost and easier&lt;/strong>&lt;/p></description></item><item><title>Millennials (1981-1999) are sicker and dying faster than previous generations (Vitamin D can help)</title><link>//localhost:1313/posts/millennials-1981-1999-are-sicker-and-dying-faster-than-previous-generations-vitamin-d-can-help.html</link><pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/millennials-1981-1999-are-sicker-and-dying-faster-than-previous-generations-vitamin-d-can-help.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#millennials-will-get-sick-and-die-faster-than-the-previous-generationhttpswwwvicecomen_usarticleevj98kmillennials-will-get-sick-and-die-faster-than-the-previous-generationutm_sourcepocketutm_mediumemailutm_campaignpockethits">&lt;a href="https://www.vice.com/en_us/article/evj98k/millennials-will-get-sick-and-die-faster-than-the-previous-generation?utm_source=pocket&amp;amp;utm_medium=email&amp;amp;utm_campaign=pockethits">Millennials Will Get Sick and Die Faster Than the Previous Generation&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#fewer-accidents-with-vitamin-d">Fewer Accidents with Vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-risk-of-span-stylecolorf0044-span-diseases-at-least-double-with-poor-vitamin-d-receptorcategoriesvitamin-d-receptor-as-of-oct-2019">The risk of &lt;span style="color:#F00;">44 &lt;/span> diseases at least double with poor &lt;a href="//localhost:1313/categories/vitamin-d-receptor">Vitamin D Receptor&lt;/a> as of Oct 2019&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="millennials-will-get-sick-and-die-faster-than-the-previous-generationhttpswwwvicecomen_usarticleevj98kmillennials-will-get-sick-and-die-faster-than-the-previous-generationutm_sourcepocketutm_mediumemailutm_campaignpockethits">&lt;a href="https://www.vice.com/en_us/article/evj98k/millennials-will-get-sick-and-die-faster-than-the-previous-generation?utm_source=pocket&amp;amp;utm_medium=email&amp;amp;utm_campaign=pockethits">Millennials Will Get Sick and Die Faster Than the Previous Generation&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the Blue Cross Blue Shield PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>This study will tend to not notice health problems of those who do not have Health Insurance&lt;/p></description></item><item><title>Patients believe that doctors do not properly recognize and treat 7 of the top 10 chronic illnesses</title><link>//localhost:1313/posts/patients-believe-that-doctors-do-not-properly-recognize-and-treat-7-of-the-top-10-chronic-illnesses.html</link><pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/patients-believe-that-doctors-do-not-properly-recognize-and-treat-7-of-the-top-10-chronic-illnesses.html</guid><description>&lt;h4 id="no-future-for-medicinehttpsdrcarolyndeancom201910no-future-for-medicine-dr-dean">&lt;a href="https://drcarolyndean.com/2019/10/no-future-for-medicine/">No Future for Medicine&lt;/a> Dr. Dean&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Asthma&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Obesity&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Osteoarthritis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hearing loss&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Eczema&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Insomnia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anxiety&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>OK FOR&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Hypothyroidism&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Diabetes&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hypertension&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Article shows how many of the problems are treated by &lt;strong>Magnesium&lt;/strong>&lt;/p>
+&lt;p>VitaminDWiki also has many studies on how each problem is treated by &lt;strong>Vitamin D&lt;/strong>&lt;/p>
+&lt;p>    See the left hand column of any page in VitaminDWiki&lt;/p>
+&lt;p>&lt;strong>Reference was a survey&lt;/strong>&lt;/p>
+&lt;p>Patient-Physician Agreement in Reporting and Prioritizing Existing Chronic Conditions Sept 2019&lt;/p>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab</title><link>//localhost:1313/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab.html</link><pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab.html</guid><description>&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/muscular-dystrophies-low-vitamin-d-might-be-associated-with-all-9-types" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018">Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018&lt;/a>&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#muscular-dystrophy-treated-by-high-dose-coimbra-protocol-facebook-aug-2019">Muscular Dystrophy treated by high-dose Coimbra Protocol (Facebook Aug 2019)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#fracture-in-duchenne-muscular-dystrophy-natural-history-and-vitamin-d-deficiency--2016">Fracture in Duchenne Muscular Dystrophy: Natural History and Vitamin D Deficiency – 2016&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#people-with-dmd-need-more-vitamin-d---meta-analysis-oct-2023">People with DMD need more Vitamin D - meta-analysis Oct 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#need-3x-more-vitamin-d-if-dmd---2019">Need 3X more vitamin D if DMD - 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#limb-girdle-muscular-dystrophy---perhaps-caused-by-a-poor-gene---a-treatment-in-2023">Limb-girdle muscular dystrophy - perhaps caused by a poor gene - a treatment in 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#muscular-dystrophy-and-genes">Muscular Dystrophy and genes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#people-with-dmd-have-poor-response-to-vitamin-d---2017-thesis">People with DMD have poor response to Vitamin D - 2017 thesis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mechanisms-in-sarcopenia-and-muscular-dystrophy---aug-2015">Mechanisms in Sarcopenia and Muscular Dystrophy - Aug 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---a-hrefpostsmultiple-sclerosis-and-vitamin-d-50000-facebook-members-in-13-languages-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-multiple-sclerosis-and-vitamin-d--50000-facebook-members-in-13-languages--jan-2017multiple-sclerosis-and-vitamin-d--50000-facebook-members-in-13-languages--jan-2017a">VitaminDWiki - &lt;a href="//localhost:1313/posts/multiple-sclerosis-and-vitamin-d-50000-facebook-members-in-13-languages" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis and Vitamin D ~ 50,000 Facebook members in 13 languages – Jan 2017">Multiple Sclerosis and Vitamin D ~ 50,000 Facebook members in 13 languages – Jan 2017&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#life-extension-magazine-overview-of-muscular-dystrophy---dec-2020httpswwwlifeextensioncomprotocolsneurologicalmuscular-dystrophy">Life Extension Magazine &lt;a href="https://www.lifeextension.com/protocols/neurological/muscular-dystrophy">Overview of Muscular Dystrophy - Dec 2020&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#95-of-md-patients-had-low-vitamin-d---2019">95% of MD patients had low Vitamin D - 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#10x-increase-in-dmd-in-16-years---2020">10X increase in DMD in 16 years - 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-k2-a-cure-for-muscular-dystrophy--video-july-2022httpswwwyoutubecomwatchvdsl-e9aqw_cab_channelagwresearch">Vitamin K2: A Cure for Muscular Dystrophy?- &lt;a href="https://www.youtube.com/watch?v=dsl-E9AQw_c&amp;amp;ab_channel=AGWResearch">Video July 2022&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#overview-of-muscular-dystrophies-glucocorticoids-decrease-vitamin-d-getting-to-cells---sept-2023">Overview of muscular dystrophies (Glucocorticoids decrease Vitamin D getting to cells) - Sept 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#new--duchenne-md-drug---fewer-side-effects-than-corticosteroids---oct-2023">New $$$ Duchenne MD drug - fewer side effects than Corticosteroids - Oct 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#fda-approved-duvyzat-it-reduced-the-decline-of-speed-of-md-children-to-climb-stairs-over-18-months---march-2024">FDA approved Duvyzat (it reduced the decline of speed of MD children to climb stairs over 18 months) - March 2024&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="muscular-dystrophy-treated-by-high-dose-coimbra-protocol-facebook-aug-2019">Muscular Dystrophy treated by high-dose Coimbra Protocol (Facebook Aug 2019)&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.facebook.com/protocolocoimbrabrasil/photos/a.355234424634473/1346608032163769/?type=3&amp;amp;theater&amp;amp;ifg=1">Facebooktranslated&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Vitamin D appears to fight Diabetes, MS, RA, Lupus, IBD, Hepatitis, Cancer, Psoriasis, Food allergy, etc</title><link>//localhost:1313/posts/vitamin-d-appears-to-fight-diabetes-ms-ra-lupus-ibd-hepatitis-cancer-psoriasis-food-allergy-etc.html</link><pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-appears-to-fight-diabetes-ms-ra-lupus-ibd-hepatitis-cancer-psoriasis-food-allergy-etc.html</guid><description/></item><item><title>Health Care is a Human Right in a most countries, but not the US</title><link>//localhost:1313/posts/health-care-is-a-human-right-in-a-most-countries-but-not-the-us.html</link><pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/health-care-is-a-human-right-in-a-most-countries-but-not-the-us.html</guid><description>&lt;h4 id="what-it-means-for-health-care-to-be-a-human-righthttpswwwtheatlanticcomhealtharchive201906health-care-human-right592357utm_sourcefeed-the-atlantic-june-2019">&lt;a href="https://www.theatlantic.com/health/archive/2019/06/health-care-human-right/592357/?utm_source=feed">What It Means for Health Care to Be a Human Right&lt;/a> The Atlantic June 2019&lt;/h4>
+&lt;ul>
+&lt;li>“ &lt;strong>More than half the world’s countries have &lt;a href="https://www.sciencedaily.com/releases/2013/07/130719104927.htm%20">pledged to protect their citizens’ right to health care&lt;/a>, either through national laws or international human-rights agreements&lt;/strong> ”&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/only-8-percent-of-us-adults-get-all-high-priority-screening-even-fewer-get-prevention" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Only 8 percent of US adults get all high-priority Screening (even fewer get Prevention) – June 2018">Only 8 percent of US adults get all high-priority Screening (even fewer get Prevention) – June 2018&lt;/a>&lt;/p></description></item><item><title>35 benefits of Vitamin D – Self-Hacked</title><link>//localhost:1313/posts/35-benefits-of-vitamin-d-self-hacked.html</link><pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/35-benefits-of-vitamin-d-self-hacked.html</guid><description>&lt;h4 id="self-hackedhttpsselfhackedcomblog35proven-health-benefits-vitamin-d-part-1">&lt;a href="https://selfhacked.com/blog/35proven-health-benefits-vitamin-d-part-1/">Self-Hacked&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>By Maja Stanojevic, MD&lt;br>
+Has lots of references with hyperlinks&lt;br>
+These and many more are in the left-hand column of this page&lt;br>
+The following are just the titles.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;ol>
+&lt;li>Crucial to Bone Health&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="2">
+&lt;li>Prevents Rickets and Osteomalacia&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="3">
+&lt;li>Prevents Osteoporosis and Fractures&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="4">
+&lt;li>Can Improve Physical Performance&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="5">
+&lt;li>May Protect Against Cancer&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="6">
+&lt;li>Beneficial for Brain Development and Function&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="7">
+&lt;li>Improves Cognitive Functions&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="8">
+&lt;li>Reduces Depression&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="9">
+&lt;li>Reduces the Risk of Parkinson’s Disease&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="10">
+&lt;li>Plays a Role in Alzheimer’s Disease&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="11">
+&lt;li>Beneficial in Multiple Sclerosis&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="12">
+&lt;li>Improves Sleep Quality&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="13">
+&lt;li>Reduces the Risk of Cardiovascular Disease&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="14">
+&lt;li>Reduces Blood Pressure&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="15">
+&lt;li>May Decrease the Risk of Type 1 and Type 2 Diabetes&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="16">
+&lt;li>Prevents Obesity and Metabolic Syndrome&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="17">
+&lt;li>Anti-Inflammatory&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="18">
+&lt;li>May Be Beneficial For Inflammatory Bowel Disease and Celiac Disease&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="19">
+&lt;li>Plays a Role in Cystic Fibrosis&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="20">
+&lt;li>Beneficial in Atopic Dermatitis&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="21">
+&lt;li>Effective Therapy for Psoriasis Patients&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="22">
+&lt;li>May Benefit Thyroid Dysfunction&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="23">
+&lt;li>Reduces the Severity of Asthma&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="24">
+&lt;li>Affects Chronic Obstructive Pulmonary Disease&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="25">
+&lt;li>Reduces Risk of Tuberculosis&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="26">
+&lt;li>Has a Negative Effect on Sarcoidosis&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="27">
+&lt;li>Decreases the Risk of Respiratory Tract Infections&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="28">
+&lt;li>Plays a Role in Systemic Lupus Erythematosus&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="29">
+&lt;li>Beneficial in Rheumatoid Arthritis&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="30">
+&lt;li>Protects Kidney Function&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="31">
+&lt;li>Beneficial in HIV Disease&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="32">
+&lt;li>Affects Male Fertility&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="33">
+&lt;li>Beneficial in Pregnancy and Lactation&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="34">
+&lt;li>Improves Clinical Manifestations of Polycystic Ovary Syndrome&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="35">
+&lt;li>Influences Hair Loss&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul></description></item><item><title>Double digit increases in many health problems for those aged 21-36 in just 4 years</title><link>//localhost:1313/posts/double-digit-increases-in-many-health-problems-for-those-aged-21-36-in-just-4-years.html</link><pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/double-digit-increases-in-many-health-problems-for-those-aged-21-36-in-just-4-years.html</guid><description>&lt;h4 id="the-health-of-millennialshttpswwwbcbscomthe-health-of-americareportsthe-health-of-millennials-bluecross-blueshield">&lt;a href="https://www.bcbs.com/the-health-of-america/reports/the-health-of-millennials">The Health of Millennials&lt;/a> BlueCross, BlueShield]&lt;/h4>
+&lt;p>&lt;strong>This report focuses on the 55 million millennial Americans that are commercially insured”&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="900">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;ul>
+&lt;li>“The BCBS &lt;strong>Health Index&lt;/strong> assigns U.S. populations a score between 0 and 100. A score of ‘100’ represents optimal health—a population’s potential lifespan, absent of disability and increased risk of death. The higher the score, the closer a population is to achieving optimal health. The lower the score, the more a population has been adversely impacted by certain health conditions.”&lt;/li>
+&lt;/ul>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="800"></description></item><item><title>Cancer stem cells and Vitamin D - many studies</title><link>//localhost:1313/posts/cancer-stem-cells-and-vitamin-d-many-studies.html</link><pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/cancer-stem-cells-and-vitamin-d-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#repurposing-vitamin-d-for-treatment-of-human-malignancies-via-targeting-tumor-microenvironment--march-2019">Repurposing vitamin D for treatment of human malignancies via targeting tumor microenvironment – March 2019&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#mechanisms-of-anticancer-action-of-vitamin-d-within-tumor-microenvironment">Mechanisms of anticancer action of vitamin D within tumor microenvironment&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#32-cancer-stem-cells">3.2 Cancer stem cells&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#role-of-vitamin-d-in-targeting-cancer-and-cancer-stem-cell-populations-and-its-therapeutic-implications----oct-2022">Role of vitamin D in targeting cancer and cancer stem cell populations and its therapeutic implications - Oct 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#a-guide-to-cancer-stem-cell-markers-gastric-bladder-brain-liver-etc---march-2022">A Guide to Cancer Stem Cell Markers (Gastric, Bladder. Brain, Liver, etc) - March 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-compounds-and-cancer-stem-cells-in-cancer-prevention---april-2020">Vitamin D Compounds and Cancer Stem Cells in Cancer Prevention - April 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cancer-stem-cells-revisited---oct-2017">Cancer stem cells revisited - Oct 2017&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#stem-cells---what-are-they-and-why-are-they-important-to-multiple-sclerosis-2019">Stem Cells - What are they and why are they important (to Multiple Sclerosis) 2019?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-can-be-used-as-a-supplement_against-cancer-stem-cells---sept-2018">Vitamin D can be used as a supplement_against cancer stem cells - Sept 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#boosting-the-effects-of-vitamin-d-to-tackle-diabetes---may-2018--stem-cells-portal">Boosting the effects of vitamin D to tackle diabetes - May 2018 Stem Cells Portal&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#how-vitamin-d-stops-cancer-stem-cells---2016">How Vitamin D Stops Cancer Stem Cells - 2016?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h3 id="repurposing-vitamin-d-for-treatment-of-human-malignancies-via-targeting-tumor-microenvironment--march-2019">Repurposing vitamin D for treatment of human malignancies via targeting tumor microenvironment – March 2019&lt;/h3>
+&lt;p>Acta Pharmaceutica Sinica B, Vol 9, Issue 2, March 2019, Pages 203-219. &lt;a href="https://doi.org/10.1016/j.apsb.2018.09.002">https://doi.org/10.1016/j.apsb.2018.09.002&lt;/a>&lt;/p></description></item><item><title>Searching for Vitamin D studies – AllMEDx is a superset of PubMed</title><link>//localhost:1313/posts/searching-for-vitamin-d-studies-allmedx-is-a-superset-of-pubmed.html</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/searching-for-vitamin-d-studies-allmedx-is-a-superset-of-pubmed.html</guid><description>&lt;p>&lt;strong>&lt;a href="https://allmedx.com/">https://allmedx.com/&lt;/a>&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#sources-of-information">Sources of information&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#can-subsort-a-search-on">Can subsort a search on&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#also-includes-subtopics">Also includes subtopics&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#does-not-include-non-human-preclinical-studies-nor-studies-10-years-old">Does not include non-human, preclinical studies, nor studies &amp;gt;10 years old&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#unfortunately-puts--in-long-titles-making-them-hard-to-understand">Unfortunately puts &amp;hellip;&amp;hellip; in long titles, making them hard to understand&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#unable-to-search-for-word-in-title">Unable to search for word in title&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#supported-by-advertising">Supported by advertising&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="sources-of-information">Sources of information&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Centers for Disease Control (CDC): thousands of articles and alerts from the nation’s health protection agency&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Cleveland Clinic: free full text of hundreds of Patient Education handouts&lt;/p></description></item><item><title>Ways to improve health</title><link>//localhost:1313/posts/ways-to-improve-health.html</link><pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/ways-to-improve-health.html</guid><description>&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>My opinion - which is based on reading &amp;gt;20,000 related studies&lt;/p>
+&lt;p>I would love to see attempts at quantifying this&lt;/p>
+&lt;p>    Henry Lahore, founder of VitaminDWiki,   2019&lt;/p>
+&lt;hr>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#a-2013-report-on-the-state-of-us-health-identified-dietary-factors-as-the-single-most-significant-risk-factor-for-disability-and-premature-death">&amp;ldquo;A 2013 report on the state of US health identified dietary factors as the single most significant risk factor for disability and premature death&amp;rdquo;&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#half-of-diabetics-cured-in-16-days-by-eating-a-plant-based-diet--dr-greger-sept-2019postshalf-of-diabetics-cured-in-16-days-by-eating-a-plant-based-diet-dr-greger">&lt;a href="//localhost:1313/posts/half-of-diabetics-cured-in-16-days-by-eating-a-plant-based-diet-dr-greger">Half of Diabetics cured in 16 days by eating a plant-based diet – Dr. Greger Sept 2019&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d--dr-greger-oct-2019postslive-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger">&lt;a href="//localhost:1313/posts/live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger">Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cost-effective-for-us-medicaremedicaid-to-give-a-30-discount-on-healthy-food---march-2019">Cost effective for US Medicare/Medicaid to give a 30% discount on healthy food - March 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#live-longer---data-basedhttpsinformationisbeautifulnetvisualizationswhat-could-really-increase-life-expectancy-lifespan-and-longevity-2019">&lt;a href="https://informationisbeautiful.net/visualizations/what-could-really-increase-life-expectancy-lifespan-and-longevity/">Live Longer - data-based&lt;/a> 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#yet-again-review-of-poor-nutrition-education-for-doctors---jama-march-2019">Yet again, review of poor nutrition education for doctors - JAMA March 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#exercise">Exercise&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ultraprocessed-foods---an-excellent-article-describing-a-book---july-2023">Ultraprocessed foods - an excellent article describing a book - July 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="a-2013-report-on-the-state-of-us-health-identified-dietary-factors-as-the-single-most-significant-risk-factor-for-disability-and-premature-death">&amp;ldquo;A 2013 report on the state of US health identified dietary factors as the single most significant risk factor for disability and premature death&amp;rdquo;&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Increased incidence of health problems if iow Vitamin D</title><link>//localhost:1313/posts/increased-incidence-of-health-problems-if-iow-vitamin-d.html</link><pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/increased-incidence-of-health-problems-if-iow-vitamin-d.html</guid><description>&lt;p>&lt;strong>4X higher risk&lt;/strong>&lt;/p>
+&lt;p>Age-Related Macular Degeneration - wet&lt;/p>
+&lt;p>Cancer - advanced-stage&lt;/p>
+&lt;p>Childhood asthma&lt;/p>
+&lt;p>Cognitive Impairment&lt;/p>
+&lt;p>Diabetes T1&lt;/p>
+&lt;p>Frail when old&lt;/p>
+&lt;p>Increased risk of death if n ICU for 2 days&lt;/p>
+&lt;p>Lung disease - non-TB&lt;/p>
+&lt;p>Metabolic syndrome&lt;/p>
+&lt;p>Multiple sclerosis&lt;/p>
+&lt;p>Pneumonia acquired in hospital ==&amp;gt; death&lt;/p>
+&lt;p>Pregnancy - C-section, Preeclampsia&lt;/p>
+&lt;p>Psychiatric disorders as a teen&lt;/p>
+&lt;p>&lt;strong>5X more likely&lt;/strong>&lt;/p>
+&lt;p>Allergic rhinitis&lt;/p>
+&lt;p>Childhood Cancer&lt;/p>
+&lt;p>Coronary Artery Disease&lt;/p>
+&lt;p>Coronary bypass ==&amp;gt; death&lt;/p>
+&lt;p>Hip Fracture ==&amp;gt; bad outcome&lt;/p></description></item><item><title>Far healthier and stronger at age 72 due to supplements</title><link>//localhost:1313/posts/far-healthier-and-stronger-at-age-72-due-to-supplements.html</link><pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/far-healthier-and-stronger-at-age-72-due-to-supplements.html</guid><description>&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="700">
+&lt;h4 id="personal-observation-by-the-founder-of-vitamindwiki">Personal observation by the founder of VitaminDWiki&lt;/h4>
+&lt;p>I noticed my health improve with each added supplement&lt;/p>
+&lt;p>Vitamin D for 8+ years (~100 ng)&lt;/p>
+&lt;p>Good intake of Magnesium and Vitamin K for 6 years&lt;/p>
+&lt;p>Vectomega brand of Omega-3 for 4+ years (tested)- previously had taken Coromega brand for a decade&lt;/p>
+&lt;p>        While my health had improved a lot, I felt that I was not getting the full vitamin D benefit&lt;/p>
+&lt;p>&lt;strong>A poor Vitamin D Receptor will limit the benefits of Vitamin D&lt;/strong>&lt;/p></description></item><item><title>Healthspan is more important than Lifespan – JAMA</title><link>//localhost:1313/posts/healthspan-is-more-important-than-lifespan-jama.html</link><pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/healthspan-is-more-important-than-lifespan-jama.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#from-lifespan-to-healthspan---2018">From Lifespan to Healthspan - 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#might-be-able-to-square-the-curve-with-vitamin-d">Might be able to “square the curve” with Vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#193-studies-cited-this-study-as-of-dec-2023">193 studies cited this study as of Dec 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="from-lifespan-to-healthspan---2018">From Lifespan to Healthspan - 2018&lt;/h4>
+&lt;p>JAMA. 2018;320(13):1323-1324. doi:10.1001/jama.2018.12621&lt;/p>
+&lt;p>S. Jay Olshansky, PhD1&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+#### Chart from PDF
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;p>&lt;strong>1900&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Many deaths before age 3&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Adult death rates inacreas at age 20, short lifetimes, peak at age 71&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2016&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Adult death rates increase at age 50, long lifetimes, peak at age 90&lt;/p></description></item><item><title>What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exercise</title><link>//localhost:1313/posts/what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise.html</link><pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#let-us-assume-for-argument-that-they-result-in-similar-health-benefits">Let us assume, for argument, that they result in similar health benefits&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ways-to-improve-healthpostsways-to-improve-health-has-a-venn-diagram-of-food-exercise-and-supplements">&lt;a href="//localhost:1313/posts/ways-to-improve-health">Ways to improve health&lt;/a> has a venn diagram of food, exercise and supplements&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency--dec-2023postsultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency">VitaminDWiki - &lt;a href="//localhost:1313/posts/ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency">Ultra-processed food consumption: 2X increased risk of vitamin D deficiency – Dec 2023&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="let-us-assume-for-argument-that-they-result-in-similar-health-benefits">Let us assume, for argument, that they result in similar health benefits&lt;/h4>
+&lt;h5 id="now-let-us-estimate-the-monthly-costs-and-time-for-each">Now let us estimate the monthly costs and time for each.&lt;/h5>
+&lt;p>Does include: purchase, preparation, use, and cleanup&lt;/p>
+&lt;p>Does not include travel (time or cost)&lt;/p></description></item><item><title>Peroxynitrite – possible cause of increases in many health problems</title><link>//localhost:1313/posts/peroxynitrite-possible-cause-of-increases-in-many-health-problems.html</link><pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/peroxynitrite-possible-cause-of-increases-in-many-health-problems.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-root-cause-in-the-dramatic-rise-of-chronic-disease--draft-jan-2018">The Root Cause in the dramatic rise of Chronic Disease – draft Jan 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#growth-of-chronic-disease">Growth of Chronic Disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#observations-by-vitamindwiki-on--peroxynitrite-and-vitamin-d">Observations by VitaminDWiki on Peroxynitrite and Vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#increases-in-25-years">Increases in 25 years&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#huge-increases-in-some-diseases-peroxynitrite-vitamin-d-toxins-or-what">Huge increases in some diseases: peroxynitrite, Vitamin D, toxins, or what?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-root-cause-in-the-dramatic-rise-of-chronic-disease--draft-jan-2018">The Root Cause in the dramatic rise of Chronic Disease – draft Jan 2018&lt;/h4>
+&lt;p>&lt;strong>First page of PDF&lt;/strong>&lt;/p>
+&lt;p>NOTE to Readers: I am seeking one or two scientists to take the following research and paper forward. There are really two papers here. One is a paper that strengthens the scientific connection between peroxynitrite and at least forty fast-growing chronic diseases. The second paper is a translation of the science that can be offered to the American people, who remain unaware of the root cause of the dramatic increase of chronic disease and conditions in the US. More than 170 million Americans are currently suffering from diseases and conditions that can be vastly improved or even reversed by reducing levels of peroxynitrite through moderate changes in lifestyle, the immediate environment and diet plus nonprescription supplementation. While scientists recognize the pivotal role of peroxynitrite in disease, few policy makers and physicians are aware of the opportunity they have to heal a nation suffering from chronic diseases. The annual cost of just forty fast-growing diseases is more than $2.5 trillion. With increased awareness and action this cost to society can be reduced to a fraction by simply implementing the knowledge we already have.&lt;/p></description></item></channel></rss>

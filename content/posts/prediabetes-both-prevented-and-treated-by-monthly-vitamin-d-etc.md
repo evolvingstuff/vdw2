@@ -3,7 +3,8 @@ title: "Prediabetes both prevented and treated by monthly Vitamin D, etc."
 slug: "prediabetes-both-prevented-and-treated-by-monthly-vitamin-d-etc"
 aliases:
   - "/Prediabetes+both+prevented+and+treated+by+monthly+Vitamin+D+etc"
-  - "/tiki-index.php?page_id=10520"
+  - "/10520"
+tiki_page_id: 10520
 date: 2019-02-24
 categories:
   - "Diabetes"

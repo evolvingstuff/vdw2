@@ -3,7 +3,8 @@ title: "Pandemics are now every few years, next might be in 2025 (Vitamin D leve
 slug: "pandemics-are-now-every-few-years-next-might-be-in-2025-vitamin-d-levels-have-crashed"
 aliases:
   - "/Pandemics+are+now+every+few+years+next+might+be+in+2025+Vitamin+D+levels+have+crashed+–+June+2021"
-  - "/tiki-index.php?page_id=12686"
+  - "/12686"
+tiki_page_id: 12686
 date: 2021-06-25
 categories:
   - "Deficiency of Vitamin D"

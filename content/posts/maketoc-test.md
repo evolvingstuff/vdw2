@@ -3,7 +3,8 @@ title: "Maketoc Test"
 slug: "maketoc-test"
 aliases:
   - "/Maketoc+Test"
-  - "/tiki-index.php?page_id=10629"
+  - "/10629"
+tiki_page_id: 10629
 date: 2019-03-29
 ---
 

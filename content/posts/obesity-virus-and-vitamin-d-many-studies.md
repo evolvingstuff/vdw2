@@ -3,7 +3,8 @@ title: "Obesity, Virus, and Vitamin D - many studies"
 slug: "obesity-virus-and-vitamin-d-many-studies"
 aliases:
   - "/Obesity+Virus+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14049"
+  - "/14049"
+tiki_page_id: 14049
 date: 2022-10-28
 categories:
   - "Obesity"

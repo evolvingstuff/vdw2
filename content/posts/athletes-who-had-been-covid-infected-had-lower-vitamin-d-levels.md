@@ -3,7 +3,8 @@ title: "Athletes who had been COVID infected had lower Vitamin D levels"
 slug: "athletes-who-had-been-covid-infected-had-lower-vitamin-d-levels"
 aliases:
   - "/Athletes+who+had+been+COVID+infected+had+lower+Vitamin+D+levels+–+July+2023"
-  - "/tiki-index.php?page_id=14571"
+  - "/14571"
+tiki_page_id: 14571
 date: 2023-07-29
 categories:
   - "Sports and Vitamin D"

@@ -3,7 +3,8 @@ title: "Blood pressure reduced if take more than 4.5 grams of Omega-3 daily– u
 slug: "blood-pressure-reduced-if-take-more-than-45-grams-of-omega-3-daily-umbrella-meta-analysis"
 aliases:
   - "/Blood+pressure+reduced+if+take+more+than+45+grams+of+Omega-3+daily–+umbrella+meta-analysis+Aug+2022"
-  - "/tiki-index.php?page_id=13935"
+  - "/13935"
+tiki_page_id: 13935
 date: 2022-09-23
 categories:
   - "Meta-analysis of Vitamin D"

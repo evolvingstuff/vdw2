@@ -3,7 +3,8 @@ title: "Parathyroid – Vitamin D inflection points might be at both 16 and 32 n
 slug: "parathyroid-vitamin-d-inflection-points-might-be-at-both-16-and-32-ng"
 aliases:
   - "/Parathyroid+–+Vitamin+D+inflection+points+might+be+at+both+16+and+32+ng+–+Oct+2019"
-  - "/tiki-index.php?page_id=11202"
+  - "/11202"
+tiki_page_id: 11202
 date: 2019-10-04
 categories:
   - "Thyroid and parathyroid"

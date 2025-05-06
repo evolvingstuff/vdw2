@@ -3,7 +3,8 @@ title: "Off Topic: Heavy metals (e.g. lead) eliminated by plants with their phyt
 slug: "off-topic-heavy-metals-eg-lead-eliminated-by-plants-with-their-phytochelatins"
 aliases:
   - "/Off+Topic+Heavy+metals+eg+lead+eliminated+by+plants+with+their+phytochelatins"
-  - "/tiki-index.php?page_id=11946"
+  - "/11946"
+tiki_page_id: 11946
 date: 2020-09-10
 categories:
   - "Off Topic"

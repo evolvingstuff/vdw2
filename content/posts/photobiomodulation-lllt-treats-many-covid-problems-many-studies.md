@@ -3,7 +3,8 @@ title: "Photobiomodulation (LLLT) treats many COVID problems - many studies"
 slug: "photobiomodulation-lllt-treats-many-covid-problems-many-studies"
 aliases:
   - "/Photobiomodulation+LLLT+treats+many+COVID+problems+-+many+studies"
-  - "/tiki-index.php?page_id=13122"
+  - "/13122"
+tiki_page_id: 13122
 date: 2021-11-27
 categories:
   - "Virus"

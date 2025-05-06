@@ -3,7 +3,8 @@ title: "The Evidence is strong: Air pollution seems to cause dementia (perhaps l
 slug: "the-evidence-is-strong-air-pollution-seems-to-cause-dementia-perhaps-low-vitamin-d"
 aliases:
   - "/The+Evidence+is+strong+Air+pollution+seems+to+cause+dementia+perhaps+low+Vitamin+D+–+May+2019"
-  - "/tiki-index.php?page_id=10750"
+  - "/10750"
+tiki_page_id: 10750
 date: 2019-05-09
 ---
 

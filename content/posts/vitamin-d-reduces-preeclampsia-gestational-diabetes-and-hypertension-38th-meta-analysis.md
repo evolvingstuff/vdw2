@@ -3,7 +3,8 @@ title: "Vitamin D reduces preeclampsia, gestational diabetes and hypertension - 
 slug: "vitamin-d-reduces-preeclampsia-gestational-diabetes-and-hypertension-38th-meta-analysis"
 aliases:
   - "/Vitamin+D+reduces+preeclampsia+gestational+diabetes+and+hypertension+-+38th+meta-analysis+Dec+2021"
-  - "/tiki-index.php?page_id=13143"
+  - "/13143"
+tiki_page_id: 13143
 date: 2021-12-04
 categories:
   - "Pregnancy"

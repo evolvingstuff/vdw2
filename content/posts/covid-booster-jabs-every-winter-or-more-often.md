@@ -3,7 +3,8 @@ title: "COVID booster jabs every winter (or more often)"
 slug: "covid-booster-jabs-every-winter-or-more-often"
 aliases:
   - "/COVID+booster+jabs+every+winter+or+more+often+-+Nov+2021"
-  - "/tiki-index.php?page_id=13087"
+  - "/13087"
+tiki_page_id: 13087
 date: 2021-11-16
 categories:
   - "Virus"

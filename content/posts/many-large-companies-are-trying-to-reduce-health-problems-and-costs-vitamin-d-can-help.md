@@ -3,7 +3,8 @@ title: "Many large companies are trying to reduce health problems and costs (Vit
 slug: "many-large-companies-are-trying-to-reduce-health-problems-and-costs-vitamin-d-can-help"
 aliases:
   - "/Many+large+companies+are+trying+to+reduce+health+problems+and+costs+Vitamin+D+can+help"
-  - "/tiki-index.php?page_id=10049"
+  - "/10049"
+tiki_page_id: 10049
 date: 2018-09-18
 categories:
   - "Cost savings with Vitamin D"

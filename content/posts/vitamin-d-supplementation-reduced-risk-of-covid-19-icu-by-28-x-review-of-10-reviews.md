@@ -3,7 +3,8 @@ title: "Vitamin D supplementation reduced risk of COVID-19 ICU by 2.8 X – revi
 slug: "vitamin-d-supplementation-reduced-risk-of-covid-19-icu-by-28-x-review-of-10-reviews"
 aliases:
   - "/Vitamin+D+supplementation+reduced+risk+of+COVID-19+ICU+by+28+X+–+review+of+10+reviews+Feb+2022"
-  - "/tiki-index.php?page_id=13342"
+  - "/13342"
+tiki_page_id: 13342
 date: 2022-02-16
 categories:
   - "Virus"

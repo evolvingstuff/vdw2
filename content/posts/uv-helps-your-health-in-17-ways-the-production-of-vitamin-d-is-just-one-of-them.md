@@ -3,7 +3,8 @@ title: "UV helps your health in 17 ways, the production of Vitamin D is just one
 slug: "uv-helps-your-health-in-17-ways-the-production-of-vitamin-d-is-just-one-of-them"
 aliases:
   - "/UV+helps+your+health+in+17+ways+the+production+of+Vitamin+D+is+just+one+of+them+–+March+2024"
-  - "/tiki-index.php?page_id=15140"
+  - "/15140"
+tiki_page_id: 15140
 date: 2024-03-15
 categories:
   - "UV and Vitamin D"

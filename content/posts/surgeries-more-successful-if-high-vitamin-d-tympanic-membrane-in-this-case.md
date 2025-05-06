@@ -3,7 +3,8 @@ title: "Surgeries more successful if high vitamin D (tympanic membrane in this c
 slug: "surgeries-more-successful-if-high-vitamin-d-tympanic-membrane-in-this-case"
 aliases:
   - "/Surgeries+more+successful+if+high+vitamin+D+tympanic+membrane+in+this+case+–+Nov+2022"
-  - "/tiki-index.php?page_id=14080"
+  - "/14080"
+tiki_page_id: 14080
 date: 2022-11-11
 categories:
   - "Trauma and surgery"

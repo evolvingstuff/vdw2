@@ -3,7 +3,8 @@ title: "Ageing faster and  more knee pain are associated with low vitamin D"
 slug: "ageing-faster-and-more-knee-pain-are-associated-with-low-vitamin-d"
 aliases:
   - "/Ageing+faster+and+more+knee+pain+are+associated+with+low+vitamin+D+–+March+2022"
-  - "/tiki-index.php?page_id=13379"
+  - "/13379"
+tiki_page_id: 13379
 date: 2022-03-08
 categories:
   - "Pain - chronic"

@@ -3,7 +3,8 @@ title: "Several governments have restricted Vitamin D testing (hard to associate
 slug: "several-governments-have-restricted-vitamin-d-testing-hard-to-associate-low-d-with-covid-19"
 aliases:
   - "/Several+governments+have+restricted+Vitamin+D+testing+hard+to+associate+low+D+with+COVID-19+-+Jan+2021"
-  - "/tiki-index.php?page_id=12278"
+  - "/12278"
+tiki_page_id: 12278
 date: 2021-01-30
 categories:
   - "Tests for Vitamin D"

@@ -3,7 +3,8 @@ title: "Graphic warnings on cigarette packages in 118 countries, US FDA trying a
 slug: "graphic-warnings-on-cigarette-packages-in-118-countries-us-fda-trying-again"
 aliases:
   - "/Graphic+warnings+on+cigarette+packages+in+118+countries+US+FDA+trying+again+–+Aug+2019"
-  - "/tiki-index.php?page_id=11073"
+  - "/11073"
+tiki_page_id: 11073
 date: 2019-08-15
 categories:
   - "Interactions with Vitamin D"

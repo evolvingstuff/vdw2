@@ -3,7 +3,8 @@ title: "Even after a Cancer diagnosis Vitamin D improves survival – meta-analy
 slug: "even-after-a-cancer-diagnosis-vitamin-d-improves-survival-meta-analysis"
 aliases:
   - "/Even+after+a+Cancer+diagnosis+Vitamin+D+improves+survival+–+meta-analysis+Aug+2022"
-  - "/tiki-index.php?page_id=13849"
+  - "/13849"
+tiki_page_id: 13849
 date: 2022-08-19
 categories:
   - "Cancer - after diagnosis"

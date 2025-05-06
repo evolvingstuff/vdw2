@@ -3,7 +3,8 @@ title: "Vitamin D improves the immune system (cows in this case)"
 slug: "vitamin-d-improves-the-immune-system-cows-in-this-case"
 aliases:
   - "/Vitamin+D+improves+the+immune+system+cows+in+this+case+–+April+2022"
-  - "/tiki-index.php?page_id=13507"
+  - "/13507"
+tiki_page_id: 13507
 date: 2022-04-22
 ---
 

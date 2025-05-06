@@ -3,7 +3,8 @@ title: "Resveratrol, which increased Vitamin D in the cell, improves vision"
 slug: "resveratrol-which-increased-vitamin-d-in-the-cell-improves-vision"
 aliases:
   - "/Resveratrol+which+increased+Vitamin+D+in+the+cell+improves+vision+–+July+2022"
-  - "/tiki-index.php?page_id=13973"
+  - "/13973"
+tiki_page_id: 13973
 date: 2022-10-03
 categories:
   - "Vision"

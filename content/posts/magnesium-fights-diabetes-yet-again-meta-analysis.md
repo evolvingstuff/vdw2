@@ -3,7 +3,8 @@ title: "Magnesium fights diabetes (yet again)– meta-analysis"
 slug: "magnesium-fights-diabetes-yet-again-meta-analysis"
 aliases:
   - "/Magnesium+fights+diabetes+yet+again–+meta-analysis+Nov+2021"
-  - "/tiki-index.php?page_id=13502"
+  - "/13502"
+tiki_page_id: 13502
 date: 2022-04-20
 categories:
   - "Diabetes"

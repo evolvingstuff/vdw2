@@ -3,7 +3,8 @@ title: "Lower IQ among Autistic Black children (5 in 10) than White (3 in 10)"
 slug: "lower-iq-among-autistic-black-children-5-in-10-than-white-3-in-10"
 aliases:
   - "/Lower+IQ+among+Autistic+Black+children+5+in+10+than+White+3+in+10+-+Dec+2021"
-  - "/tiki-index.php?page_id=13145"
+  - "/13145"
+tiki_page_id: 13145
 date: 2021-12-05
 categories:
   - "Autism"

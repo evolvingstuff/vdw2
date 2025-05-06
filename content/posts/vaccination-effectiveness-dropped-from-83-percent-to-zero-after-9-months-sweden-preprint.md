@@ -3,7 +3,8 @@ title: "Vaccination effectiveness dropped from 83 percent to ZERO after 9 months
 slug: "vaccination-effectiveness-dropped-from-83-percent-to-zero-after-9-months-sweden-preprint"
 aliases:
   - "/Vaccination+effectiveness+dropped+from+83+percent+to+ZERO+after+9+months+Sweden+preprint+–+Oct+2021"
-  - "/tiki-index.php?page_id=13033"
+  - "/13033"
+tiki_page_id: 13033
 date: 2021-10-29
 categories:
   - "Virus"

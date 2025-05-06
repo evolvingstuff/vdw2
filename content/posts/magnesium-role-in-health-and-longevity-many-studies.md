@@ -3,7 +3,8 @@ title: "Magnesium Role in Health and Longevity - many studies"
 slug: "magnesium-role-in-health-and-longevity-many-studies"
 aliases:
   - "/Magnesium+Role+in+Health+and+Longevity+-+many+studies"
-  - "/tiki-index.php?page_id=13713"
+  - "/13713"
+tiki_page_id: 13713
 date: 2022-06-26
 categories:
   - "Mortality and D"

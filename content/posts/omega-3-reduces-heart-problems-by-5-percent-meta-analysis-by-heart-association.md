@@ -3,7 +3,8 @@ title: "Omega-3 reduces heart problems by ~5 percent – meta-analysis by Heart 
 slug: "omega-3-reduces-heart-problems-by-5-percent-meta-analysis-by-heart-association"
 aliases:
   - "/Omega-3+reduces+heart+problems+by+5+percent+–+meta-analysis+by+Heart+Association+Oct+2019"
-  - "/tiki-index.php?page_id=11193"
+  - "/11193"
+tiki_page_id: 11193
 date: 2019-10-02
 categories:
   - "Cardiovascular"

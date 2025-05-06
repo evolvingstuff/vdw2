@@ -3,7 +3,8 @@ title: "4 Reasons why Vitamin D levels are crashing"
 slug: "4-reasons-why-vitamin-d-levels-are-crashing"
 aliases:
   - "/4+Reasons+why+Vitamin+D+levels+are+crashing"
-  - "/tiki-index.php?page_id=11523"
+  - "/11523"
+tiki_page_id: 11523
 date: 2020-01-02
 categories:
   - "Deficiency of Vitamin D"

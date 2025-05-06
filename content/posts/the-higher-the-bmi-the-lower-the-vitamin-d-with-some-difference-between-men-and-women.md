@@ -3,7 +3,8 @@ title: "The higher the BMI, the lower the Vitamin D, with some difference betwee
 slug: "the-higher-the-bmi-the-lower-the-vitamin-d-with-some-difference-between-men-and-women"
 aliases:
   - "/The+higher+the+BMI+the+lower+the+Vitamin+D+with+some+difference+between+men+and+women+–+Dec+2019"
-  - "/tiki-index.php?page_id=11514"
+  - "/11514"
+tiki_page_id: 11514
 date: 2019-12-30
 categories:
   - "Obesity"

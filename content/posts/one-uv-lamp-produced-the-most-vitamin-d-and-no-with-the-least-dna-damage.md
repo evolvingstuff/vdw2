@@ -3,7 +3,8 @@ title: "One UV lamp produced the most vitamin D and NO with the least DNA damage
 slug: "one-uv-lamp-produced-the-most-vitamin-d-and-no-with-the-least-dna-damage"
 aliases:
   - "/One+UV+lamp+produced+the+most+vitamin+D+and+NO+with+the+least+DNA+damage+–+Jan+2020"
-  - "/tiki-index.php?page_id=11552"
+  - "/11552"
+tiki_page_id: 11552
 date: 2020-01-12
 categories:
   - "UV and Vitamin D"

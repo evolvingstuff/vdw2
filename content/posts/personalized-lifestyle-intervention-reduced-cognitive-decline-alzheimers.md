@@ -3,7 +3,8 @@ title: "Personalized Lifestyle Intervention reduced cognitive decline (Alzheimer
 slug: "personalized-lifestyle-intervention-reduced-cognitive-decline-alzheimers"
 aliases:
   - "/Personalized+Lifestyle+Intervention+reduced+cognitive+decline+Alzheimers-+Aug+2023"
-  - "/tiki-index.php?page_id=14618"
+  - "/14618"
+tiki_page_id: 14618
 date: 2023-08-19
 categories:
   - "Cognitive"

@@ -3,7 +3,8 @@ title: "Colorectal cancer 14 percent less likely if 10 ng more Vitamin D – 22n
 slug: "colorectal-cancer-14-percent-less-likely-if-10-ng-more-vitamin-d-22nd-meta-analysis"
 aliases:
   - "/Colorectal+cancer+14+percent+less+likely+if+10+ng+more+Vitamin+D+–+22nd+meta-analysis+–+Sept+2022"
-  - "/tiki-index.php?page_id=13905"
+  - "/13905"
+tiki_page_id: 13905
 date: 2022-09-13
 categories:
   - "Cancer - Colon"

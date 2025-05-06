@@ -3,7 +3,8 @@ title: "Children's Cancer hospital now testing vitamin D frequently and suppleme
 slug: "childrens-cancer-hospital-now-testing-vitamin-d-frequently-and-supplementing-weekly"
 aliases:
   - "/Childrens+Cancer+hospital+now+testing+vitamin+D+frequently+and+supplementing+weekly+–+July+2021"
-  - "/tiki-index.php?page_id=12754"
+  - "/12754"
+tiki_page_id: 12754
 date: 2021-07-21
 categories:
   - "Cancer"

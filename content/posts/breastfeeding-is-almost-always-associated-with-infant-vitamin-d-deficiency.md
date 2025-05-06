@@ -3,7 +3,8 @@ title: "Breastfeeding is almost always associated with infant vitamin D deficien
 slug: "breastfeeding-is-almost-always-associated-with-infant-vitamin-d-deficiency"
 aliases:
   - "/Breastfeeding+is+almost+always+associated+with+infant+vitamin+D+deficiency+–+Dec+2021"
-  - "/tiki-index.php?page_id=13184"
+  - "/13184"
+tiki_page_id: 13184
 date: 2021-12-14
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "High-Dose"
 slug: "high-dose"
 aliases:
   - "/High-Dose"
-  - "/tiki-index.php?page_id=14213"
+  - "/14213"
+tiki_page_id: 14213
 date: 2023-01-18
 categories:
   - "Category"

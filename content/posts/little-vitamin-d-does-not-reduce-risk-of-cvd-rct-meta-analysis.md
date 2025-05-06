@@ -3,7 +3,8 @@ title: "Little Vitamin D does not reduce risk of CVD  – RCT meta-analysis"
 slug: "little-vitamin-d-does-not-reduce-risk-of-cvd-rct-meta-analysis"
 aliases:
   - "/Little+Vitamin+D+does+not+reduce+risk+of+CVD+–+RCT+meta-analysis+Dec+2023"
-  - "/tiki-index.php?page_id=15037"
+  - "/15037"
+tiki_page_id: 15037
 date: 2024-02-08
 categories:
   - "Cardiovascular"

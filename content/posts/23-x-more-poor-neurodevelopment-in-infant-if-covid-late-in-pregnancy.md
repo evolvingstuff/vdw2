@@ -3,7 +3,8 @@ title: "2.3 X more poor Neurodevelopment in infant if COVID late in pregnancy"
 slug: "23-x-more-poor-neurodevelopment-in-infant-if-covid-late-in-pregnancy"
 aliases:
   - "/23+X+more+poor+Neurodevelopment+in+infant+if+COVID+late+in+pregnancy+–+June+2022"
-  - "/tiki-index.php?page_id=13664"
+  - "/13664"
+tiki_page_id: 13664
 date: 2022-06-11
 categories:
   - "Pregnancy"

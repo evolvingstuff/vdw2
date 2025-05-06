@@ -3,7 +3,8 @@ title: "Covid-19 protocol includes Vitamin D and aspirin"
 slug: "covid-19-protocol-includes-vitamin-d-and-aspirin"
 aliases:
   - "/Covid-19+protocol+includes+Vitamin+D+and+aspirin+-+Nov+27+2020"
-  - "/tiki-index.php?page_id=12119"
+  - "/12119"
+tiki_page_id: 12119
 date: 2020-12-05
 categories:
   - "Virus"

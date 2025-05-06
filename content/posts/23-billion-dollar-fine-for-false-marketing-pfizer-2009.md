@@ -3,7 +3,8 @@ title: "2.3 billion dollar fine for false marketing - Pfizer 2009"
 slug: "23-billion-dollar-fine-for-false-marketing-pfizer-2009"
 aliases:
   - "/23+billion+dollar+fine+for+false+marketing+-+Pfizer+2009"
-  - "/tiki-index.php?page_id=14145"
+  - "/14145"
+tiki_page_id: 14145
 date: 2022-12-13
 categories:
   - "Virus"

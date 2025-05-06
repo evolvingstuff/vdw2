@@ -3,7 +3,8 @@ title: "Use of Tenofovir disoproxil fumarate (Hepatitis-B, AIDS) requires more v
 slug: "use-of-tenofovir-disoproxil-fumarate-hepatitis-b-aids-requires-more-vitamin-d"
 aliases:
   - "/Use+of+Tenofovir+disoproxil+fumarate+Hepatitis-B+AIDS+requires+more+vitamin+D+–+Sept+2018"
-  - "/tiki-index.php?page_id=10077"
+  - "/10077"
+tiki_page_id: 10077
 date: 2018-09-28
 categories:
   - "Interactions with Vitamin D"

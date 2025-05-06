@@ -3,7 +3,8 @@ title: "Dementia 2X more likely after ICU (suspect low Vitamin D)"
 slug: "dementia-2x-more-likely-after-icu-suspect-low-vitamin-d"
 aliases:
   - "/Dementia+2X+more+likely+after+ICU+suspect+low+Vitamin+D+-+Aug+2022"
-  - "/tiki-index.php?page_id=13811"
+  - "/13811"
+tiki_page_id: 13811
 date: 2022-08-01
 categories:
   - "Cognitive"

@@ -3,7 +3,8 @@ title: "Some Vitamin D papers  - derived from Nutrients Journal"
 slug: "some-vitamin-d-papers-derived-from-nutrients-journal"
 aliases:
   - "/Some+Vitamin+D+papers+-+derived+from+Nutrients+Journal"
-  - "/tiki-index.php?page_id=13726"
+  - "/13726"
+tiki_page_id: 13726
 date: 2022-07-01
 ---
 

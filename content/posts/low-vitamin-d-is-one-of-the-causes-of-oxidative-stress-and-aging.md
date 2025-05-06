@@ -3,7 +3,8 @@ title: "Low Vitamin D is one of the causes of oxidative stress and aging"
 slug: "low-vitamin-d-is-one-of-the-causes-of-oxidative-stress-and-aging"
 aliases:
   - "/Low+Vitamin+D+is+one+of+the+causes+of+oxidative+stress+and+aging+–+March+2019"
-  - "/tiki-index.php?page_id=10639"
+  - "/10639"
+tiki_page_id: 10639
 date: 2019-04-01
 categories:
   - "Interactions with Vitamin D"

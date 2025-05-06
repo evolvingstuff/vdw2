@@ -3,7 +3,8 @@ title: "FDA drug section gets 75% of its income from Big Pharma"
 slug: "fda-drug-section-gets-75-percent-of-its-income-from-big-pharma"
 aliases:
   - "/FDA+drug+section+gets+75+of+its+income+from+Big+Pharma+-+Oct+2022"
-  - "/tiki-index.php?page_id=13971"
+  - "/13971"
+tiki_page_id: 13971
 date: 2022-10-03
 ---
 

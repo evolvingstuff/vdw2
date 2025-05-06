@@ -3,7 +3,8 @@ title: "1250 peer-reviewed COVID Vaccine problems"
 slug: "1250-peer-reviewed-covid-vaccine-problems"
 aliases:
   - "/1250+peer-reviewed+COVID+Vaccine+problems+-+March+2023"
-  - "/tiki-index.php?page_id=14347"
+  - "/14347"
+tiki_page_id: 14347
 date: 2023-03-31
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Nutritional supplementation during COVID hospitalization helped - RCT"
 slug: "nutritional-supplementation-during-covid-hospitalization-helped-rct"
 aliases:
   - "/Nutritional+supplementation+during+COVID+hospitalization+helped+-+RCT+-+Jan+2022"
-  - "/tiki-index.php?page_id=13296"
+  - "/13296"
+tiki_page_id: 13296
 date: 2022-01-29
 categories:
   - "Vitamin D and Magnesium"

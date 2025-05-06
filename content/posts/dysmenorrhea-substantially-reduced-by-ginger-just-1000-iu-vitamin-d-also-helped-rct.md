@@ -3,7 +3,8 @@ title: "Dysmenorrhea substantially reduced by Ginger, just 1,000 IU Vitamin D al
 slug: "dysmenorrhea-substantially-reduced-by-ginger-just-1000-iu-vitamin-d-also-helped-rct"
 aliases:
   - "/Dysmenorrhea+substantially+reduced+by+Ginger+just+1000+IU+Vitamin+D+also+helped+–+RCT+Nov+2019"
-  - "/tiki-index.php?page_id=11410"
+  - "/11410"
+tiki_page_id: 11410
 date: 2019-12-01
 categories:
   - "Pain - chronic"

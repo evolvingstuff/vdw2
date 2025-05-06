@@ -3,7 +3,8 @@ title: "Vitamin D Workshop sessions"
 slug: "vitamin-d-workshop-sessions"
 aliases:
   - "/Vitamin+D+Workshop+sessions-+Oct+13+2021"
-  - "/tiki-index.php?page_id=12973"
+  - "/12973"
+tiki_page_id: 12973
 date: 2021-10-11
 categories:
   - "Conference"

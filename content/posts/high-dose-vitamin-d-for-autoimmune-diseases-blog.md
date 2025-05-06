@@ -3,7 +3,8 @@ title: "High Dose Vitamin D for autoimmune diseases -blog"
 slug: "high-dose-vitamin-d-for-autoimmune-diseases-blog"
 aliases:
   - "/High+Dose+Vitamin+D+for+autoimmune+diseases+-blog+June+13+2021"
-  - "/tiki-index.php?page_id=12669"
+  - "/12669"
+tiki_page_id: 12669
 date: 2021-06-19
 categories:
   - "Autoimmune"

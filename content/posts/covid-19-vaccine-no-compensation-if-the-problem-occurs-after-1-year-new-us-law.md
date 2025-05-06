@@ -3,7 +3,8 @@ title: "COVID-19 vaccine – no compensation if the problem occurs after 1 year 
 slug: "covid-19-vaccine-no-compensation-if-the-problem-occurs-after-1-year-new-us-law"
 aliases:
   - "/COVID-19+vaccine+–+no+compensation+if+the+problem+occurs+after+1+year+new+US+law+–+Feb+2021"
-  - "/tiki-index.php?page_id=12385"
+  - "/12385"
+tiki_page_id: 12385
 date: 2021-03-08
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Psoriasis is most strongly associated with low vitamin D (15 things were
 slug: "psoriasis-is-most-strongly-associated-with-low-vitamin-d-15-things-were-evaluated"
 aliases:
   - "/Psoriasis+is+most+strongly+associated+with+low+vitamin+D+15+things+were+evaluated+–+July+2022"
-  - "/tiki-index.php?page_id=13758"
+  - "/13758"
+tiki_page_id: 13758
 date: 2022-07-14
 categories:
   - "Psoriasis"

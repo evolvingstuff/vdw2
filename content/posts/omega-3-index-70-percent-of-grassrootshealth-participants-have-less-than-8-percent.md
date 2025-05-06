@@ -3,7 +3,8 @@ title: "Omega-3 index: 70% of Grassrootshealth participants have less than 8%"
 slug: "omega-3-index-70-percent-of-grassrootshealth-participants-have-less-than-8-percent"
 aliases:
   - "/Omega-3+index+70+of+Grassrootshealth+participants+have+less+than+8+-+Dec+2023"
-  - "/tiki-index.php?page_id=14916"
+  - "/14916"
+tiki_page_id: 14916
 date: 2023-12-25
 categories:
   - "Vitamin D and Omega-3"

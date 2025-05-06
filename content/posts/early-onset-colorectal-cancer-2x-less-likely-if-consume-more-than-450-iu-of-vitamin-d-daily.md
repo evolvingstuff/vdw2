@@ -3,7 +3,8 @@ title: "Early-Onset Colorectal Cancer 2X less likely if consume more than 450 IU
 slug: "early-onset-colorectal-cancer-2x-less-likely-if-consume-more-than-450-iu-of-vitamin-d-daily"
 aliases:
   - "/Early-Onset+Colorectal+Cancer+2X+less+likely+if+consume+more+than+450+IU+of+Vitamin+D+daily+–+Aug+2021"
-  - "/tiki-index.php?page_id=12833"
+  - "/12833"
+tiki_page_id: 12833
 date: 2021-08-18
 categories:
   - "Cancer - Colon"

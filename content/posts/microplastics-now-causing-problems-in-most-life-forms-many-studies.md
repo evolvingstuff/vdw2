@@ -3,7 +3,8 @@ title: "Microplastics now causing problems in most life forms - many studies"
 slug: "microplastics-now-causing-problems-in-most-life-forms-many-studies"
 aliases:
   - "/Microplastics+now+causing+problems+in+most+life+forms+-+many+studies"
-  - "/tiki-index.php?page_id=10858"
+  - "/10858"
+tiki_page_id: 10858
 date: 2019-06-12
 categories:
   - "Interactions with Vitamin D"

@@ -3,7 +3,8 @@ title: "We had an inexpensive life-saving solution both before and during the pa
 slug: "we-had-an-inexpensive-life-saving-solution-both-before-and-during-the-pandemic-vitamin-d-malone"
 aliases:
   - "/We+had+an+inexpensive+life-saving+solution+both+before+and+during+the+pandemic+Vitamin+D+-+Malone+May+2022"
-  - "/tiki-index.php?page_id=13950"
+  - "/13950"
+tiki_page_id: 13950
 date: 2022-09-28
 categories:
   - "Top news"

@@ -3,7 +3,8 @@ title: "For COVID-19: Vitamin C use might cause kidney stones, but Vitamin D wil
 slug: "for-covid-19-vitamin-c-use-might-cause-kidney-stones-but-vitamin-d-will-not"
 aliases:
   - "/For+COVID-19+Vitamin+C+use+might+cause+kidney+stones+but+Vitamin+D+will+not–+Aug+8+2020"
-  - "/tiki-index.php?page_id=11897"
+  - "/11897"
+tiki_page_id: 11897
 date: 2020-08-09
 categories:
   - "Kidney Stones"

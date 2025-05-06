@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency Pandemic – Campbell and Anderson video"
 slug: "vitamin-d-deficiency-pandemic-campbell-and-anderson-video"
 aliases:
   - "/Vitamin+D+Deficiency+Pandemic+–+Campbell+and+Anderson+video+–+Feb+2024"
-  - "/tiki-index.php?page_id=15074"
+  - "/15074"
+tiki_page_id: 15074
 date: 2024-02-23
 ---
 

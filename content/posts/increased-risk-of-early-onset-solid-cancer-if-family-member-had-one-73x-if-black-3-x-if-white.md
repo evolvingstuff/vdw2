@@ -3,7 +3,8 @@ title: "Increased risk of early-onset Solid Cancer if family member had one: 7.3
 slug: "increased-risk-of-early-onset-solid-cancer-if-family-member-had-one-73x-if-black-3-x-if-white"
 aliases:
   - "/Increased+risk+of+early-onset+Solid+Cancer+if+family+member+had+one+73X+if+black+3+X+if+white+–+June+2021"
-  - "/tiki-index.php?page_id=15136"
+  - "/15136"
+tiki_page_id: 15136
 date: 2024-03-14
 categories:
   - "Cancer"

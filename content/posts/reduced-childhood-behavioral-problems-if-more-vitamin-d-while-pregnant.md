@@ -3,7 +3,8 @@ title: "Reduced Childhood Behavioral Problems if more Vitamin D while pregnant"
 slug: "reduced-childhood-behavioral-problems-if-more-vitamin-d-while-pregnant"
 aliases:
   - "/Reduced+Childhood+Behavioral+Problems+if+more+Vitamin+D+while+pregnant–+April+2023"
-  - "/tiki-index.php?page_id=14360"
+  - "/14360"
+tiki_page_id: 14360
 date: 2023-04-06
 categories:
   - "ADHD"

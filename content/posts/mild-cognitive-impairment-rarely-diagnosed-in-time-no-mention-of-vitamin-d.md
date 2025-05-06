@@ -3,7 +3,8 @@ title: "Mild Cognitive Impairment rarely diagnosed in time (no mention of Vitami
 slug: "mild-cognitive-impairment-rarely-diagnosed-in-time-no-mention-of-vitamin-d"
 aliases:
   - "/Mild+Cognitive+Impairment+rarely+diagnosed+in+time+no+mention+of+Vitamin+D+-+Nov+2023"
-  - "/tiki-index.php?page_id=14821"
+  - "/14821"
+tiki_page_id: 14821
 date: 2023-11-13
 ---
 

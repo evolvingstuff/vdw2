@@ -3,7 +3,8 @@ title: "Using natural experimental studies to guide public health action, not RC
 slug: "using-natural-experimental-studies-to-guide-public-health-action-not-rcts"
 aliases:
   - "/Using+natural+experimental+studies+to+guide+public+health+action+not+RCTs+–+Nov+2019"
-  - "/tiki-index.php?page_id=11379"
+  - "/11379"
+tiki_page_id: 11379
 date: 2019-11-21
 categories:
   - "Evidence for D"

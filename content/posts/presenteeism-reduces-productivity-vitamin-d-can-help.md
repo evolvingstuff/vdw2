@@ -3,7 +3,8 @@ title: "Presenteeism reduces productivity (Vitamin D can help)"
 slug: "presenteeism-reduces-productivity-vitamin-d-can-help"
 aliases:
   - "/Presenteeism+reduces+productivity+Vitamin+D+can+help"
-  - "/tiki-index.php?page_id=10174"
+  - "/10174"
+tiki_page_id: 10174
 date: 2018-10-31
 categories:
   - "Cost savings with Vitamin D"

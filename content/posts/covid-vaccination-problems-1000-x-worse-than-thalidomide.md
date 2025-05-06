@@ -3,7 +3,8 @@ title: "COVID vaccination problems 1000 X worse than Thalidomide"
 slug: "covid-vaccination-problems-1000-x-worse-than-thalidomide"
 aliases:
   - "/COVID+vaccination+problems+1000+X+worse+than+Thalidomide+-+Dec+2023"
-  - "/tiki-index.php?page_id=14855"
+  - "/14855"
+tiki_page_id: 14855
 date: 2023-12-02
 categories:
   - "Virus"

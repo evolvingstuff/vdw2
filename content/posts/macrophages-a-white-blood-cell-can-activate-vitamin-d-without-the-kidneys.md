@@ -3,7 +3,8 @@ title: "Macrophages (a white blood cell) can activate Vitamin D without the kidn
 slug: "macrophages-a-white-blood-cell-can-activate-vitamin-d-without-the-kidneys"
 aliases:
   - "/Macrophages+a+white+blood+cell+can+activate+Vitamin+D+without+the+kidneys–+Sept+2021"
-  - "/tiki-index.php?page_id=12966"
+  - "/12966"
+tiki_page_id: 12966
 date: 2021-10-09
 categories:
   - "Immunity"

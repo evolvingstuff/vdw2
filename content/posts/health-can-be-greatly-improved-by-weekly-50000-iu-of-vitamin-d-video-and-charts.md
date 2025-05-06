@@ -3,7 +3,8 @@ title: "Health can be greatly improved by weekly 50,000 IU of Vitamin D - video 
 slug: "health-can-be-greatly-improved-by-weekly-50000-iu-of-vitamin-d-video-and-charts"
 aliases:
   - "/Health+can+be+greatly+improved+by+weekly+50000+IU+of+Vitamin+D+-+video+and+charts+-+March+2023"
-  - "/tiki-index.php?page_id=14346"
+  - "/14346"
+tiki_page_id: 14346
 date: 2023-03-31
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Magnesium reference ranges – 43 now, suggest a low of 0.85 nmol (2.07 
 slug: "magnesium-reference-ranges-43-now-suggest-a-low-of-085-nmol-207-mg"
 aliases:
   - "/Magnesium+reference+ranges+–+43+now+suggest+a+low+of+085+nmol+207+mg+–+July+2022"
-  - "/tiki-index.php?page_id=13822"
+  - "/13822"
+tiki_page_id: 13822
 date: 2022-08-03
 categories:
   - "Vitamin D and Magnesium"

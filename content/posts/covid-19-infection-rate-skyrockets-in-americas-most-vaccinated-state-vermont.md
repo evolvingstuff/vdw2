@@ -3,7 +3,8 @@ title: "COVID-19 Infection Rate Skyrockets in America’s Most Vaccinated State:
 slug: "covid-19-infection-rate-skyrockets-in-americas-most-vaccinated-state-vermont"
 aliases:
   - "/COVID-19+Infection+Rate+Skyrockets+in+Americas+Most+Vaccinated+State+Vermont+-+Nov+14+2021"
-  - "/tiki-index.php?page_id=13081"
+  - "/13081"
+tiki_page_id: 13081
 date: 2021-11-14
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Breastfed Infants need more than an daily average of 800 IU of Vitamin D
 slug: "breastfed-infants-need-more-than-an-daily-average-of-800-iu-of-vitamin-d-rct"
 aliases:
   - "/Breastfed+Infants+need+more+than+an+daily+average+of+800+IU+of+Vitamin+D+–+RCT+June+2022"
-  - "/tiki-index.php?page_id=13690"
+  - "/13690"
+tiki_page_id: 13690
 date: 2022-06-21
 categories:
   - "Intervention"

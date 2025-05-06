@@ -3,7 +3,8 @@ title: "COVID, Cancer, etc. are Vitamin D low-hanging-fruit – Editorial"
 slug: "covid-cancer-etc-are-vitamin-d-low-hanging-fruit-editorial"
 aliases:
   - "/COVID+Cancer+etc+are+Vitamin+D+low-hanging-fruit+–+Editorial+June+2022"
-  - "/tiki-index.php?page_id=13735"
+  - "/13735"
+tiki_page_id: 13735
 date: 2022-07-06
 categories:
   - "Cancer"

@@ -3,7 +3,8 @@ title: "Vitamin C helps COVID-19 (IV and oral) – review of 12 studies"
 slug: "vitamin-c-helps-covid-19-iv-and-oral-review-of-12-studies"
 aliases:
   - "/Vitamin+C+helps+COVID-19+IV+and+oral+–+review+of+12+studies+Oct+2021"
-  - "/tiki-index.php?page_id=13039"
+  - "/13039"
+tiki_page_id: 13039
 date: 2021-11-01
 categories:
   - "Virus"

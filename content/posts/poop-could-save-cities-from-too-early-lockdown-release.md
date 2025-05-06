@@ -3,7 +3,8 @@ title: "Poop could save cities from too-early lockdown release"
 slug: "poop-could-save-cities-from-too-early-lockdown-release"
 aliases:
   - "/Poop+could+save+cities+from+too-early+lockdown+release"
-  - "/tiki-index.php?page_id=11730"
+  - "/11730"
+tiki_page_id: 11730
 date: 2020-04-15
 categories:
   - "Virus"

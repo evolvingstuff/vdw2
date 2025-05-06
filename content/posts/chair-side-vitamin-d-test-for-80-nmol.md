@@ -3,7 +3,8 @@ title: "Chair-side vitamin D test for 80 nmol"
 slug: "chair-side-vitamin-d-test-for-80-nmol"
 aliases:
   - "/Chair-side+vitamin+D+test+for+80+nmol+-+Sept+2023"
-  - "/tiki-index.php?page_id=14906"
+  - "/14906"
+tiki_page_id: 14906
 date: 2023-12-22
 categories:
   - "Dental"

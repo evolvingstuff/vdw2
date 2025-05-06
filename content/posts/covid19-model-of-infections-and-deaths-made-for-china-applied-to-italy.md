@@ -3,7 +3,8 @@ title: "COVID19 model of infections and deaths made for China applied to Italy"
 slug: "covid19-model-of-infections-and-deaths-made-for-china-applied-to-italy"
 aliases:
   - "/COVID19+model+of+infections+and+deaths+made+for+China+applied+to+Italy+–+March+15+2020"
-  - "/tiki-index.php?page_id=11696"
+  - "/11696"
+tiki_page_id: 11696
 date: 2020-03-23
 categories:
   - "Virus"

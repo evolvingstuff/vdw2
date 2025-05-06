@@ -3,7 +3,8 @@ title: "Bone marrow fat is suppressed by Vitamin D"
 slug: "bone-marrow-fat-is-suppressed-by-vitamin-d"
 aliases:
   - "/Bone+marrow+fat+is+suppressed+by+Vitamin+D+–+Nov+2019"
-  - "/tiki-index.php?page_id=11375"
+  - "/11375"
+tiki_page_id: 11375
 date: 2019-11-20
 categories:
   - "Bone - Health"

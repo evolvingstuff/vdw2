@@ -3,7 +3,8 @@ title: "Alzheimer’s patients have less Magnesium – meta-analysis"
 slug: "alzheimers-patients-have-less-magnesium-meta-analysis"
 aliases:
   - "/Alzheimers+patients+have+less+Magnesium+–+meta-analysis+Jan+2022"
-  - "/tiki-index.php?page_id=13459"
+  - "/13459"
+tiki_page_id: 13459
 date: 2022-04-07
 categories:
   - "Vitamin D and Magnesium"

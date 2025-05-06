@@ -3,7 +3,8 @@ title: "Long-haul COVID-19 - another hint that Vitamin D should help"
 slug: "long-haul-covid-19-another-hint-that-vitamin-d-should-help"
 aliases:
   - "/Long-haul+COVID-19+-+another+hint+that+Vitamin+D+should+help+-+Dec+2020"
-  - "/tiki-index.php?page_id=12504"
+  - "/12504"
+tiki_page_id: 12504
 date: 2021-04-16
 categories:
   - "Immunity"

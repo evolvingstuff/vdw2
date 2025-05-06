@@ -3,7 +3,8 @@ title: "Fatigue and other long-haul problems appear to be associated with low Ma
 slug: "fatigue-and-other-long-haul-problems-appear-to-be-associated-with-low-magnesium-chambers"
 aliases:
   - "/Fatigue+and+other+long-haul+problems+appear+to+be+associated+with+low+Magnesium+-+Chambers+Oct+2022"
-  - "/tiki-index.php?page_id=14060"
+  - "/14060"
+tiki_page_id: 14060
 date: 2022-10-30
 categories:
   - "Vitamin D and Magnesium"

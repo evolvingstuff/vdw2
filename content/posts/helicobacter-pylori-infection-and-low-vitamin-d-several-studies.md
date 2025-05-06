@@ -3,7 +3,8 @@ title: "Helicobacter pylori infection and low vitamin D – several studies"
 slug: "helicobacter-pylori-infection-and-low-vitamin-d-several-studies"
 aliases:
   - "/Helicobacter+pylori+infection+and+low+vitamin+D+–+several+studies"
-  - "/tiki-index.php?page_id=11072"
+  - "/11072"
+tiki_page_id: 11072
 date: 2019-08-15
 categories:
   - "Immunity"

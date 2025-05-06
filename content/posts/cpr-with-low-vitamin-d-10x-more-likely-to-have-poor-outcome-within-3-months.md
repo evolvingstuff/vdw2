@@ -3,7 +3,8 @@ title: "CPR with low vitamin D – 10X more likely to have poor outcome within 3
 slug: "cpr-with-low-vitamin-d-10x-more-likely-to-have-poor-outcome-within-3-months"
 aliases:
   - "/CPR+with+low+vitamin+D+–+10X+more+likely+to+have+poor+outcome+within+3+months+–+Jan+2022"
-  - "/tiki-index.php?page_id=13289"
+  - "/13289"
+tiki_page_id: 13289
 date: 2022-01-26
 categories:
   - "Cardiovascular"

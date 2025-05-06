@@ -3,7 +3,8 @@ title: "How to identify and limit potential superspreaders"
 slug: "how-to-identify-and-limit-potential-superspreaders"
 aliases:
   - "/How+to+identify+and+limit+potential+superspreaders"
-  - "/tiki-index.php?page_id=12057"
+  - "/12057"
+tiki_page_id: 12057
 date: 2020-11-10
 categories:
   - "Virus"

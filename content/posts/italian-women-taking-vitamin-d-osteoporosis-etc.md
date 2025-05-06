@@ -3,7 +3,8 @@ title: "Italian women taking Vitamin D (Osteoporosis, etc)"
 slug: "italian-women-taking-vitamin-d-osteoporosis-etc"
 aliases:
   - "/Italian+women+taking+Vitamin+D+Osteoporosis+etc+-+Dec+2022"
-  - "/tiki-index.php?page_id=14202"
+  - "/14202"
+tiki_page_id: 14202
 date: 2023-01-08
 categories:
   - "Osteoporosis"

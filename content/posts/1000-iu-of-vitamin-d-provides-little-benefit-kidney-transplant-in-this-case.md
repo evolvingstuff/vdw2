@@ -3,7 +3,8 @@ title: "1,000 IU of vitamin D provides little benefit (Kidney transplant in this
 slug: "1000-iu-of-vitamin-d-provides-little-benefit-kidney-transplant-in-this-case"
 aliases:
   - "/1000+IU+of+vitamin+D+provides+little+benefit+Kidney+transplant+in+this+case+–+April+2021"
-  - "/tiki-index.php?page_id=12527"
+  - "/12527"
+tiki_page_id: 12527
 date: 2021-04-22
 categories:
   - "Kidney"

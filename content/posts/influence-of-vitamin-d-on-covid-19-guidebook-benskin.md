@@ -3,7 +3,8 @@ title: "Influence of Vitamin D on COVID-19 (Guidebook) - Benskin"
 slug: "influence-of-vitamin-d-on-covid-19-guidebook-benskin"
 aliases:
   - "/Influence+of+Vitamin+D+on+COVID-19+Guidebook+-+Benskin+Sept+2021"
-  - "/tiki-index.php?page_id=12879"
+  - "/12879"
+tiki_page_id: 12879
 date: 2021-09-06
 categories:
   - "Books, videos on Vitamin D"

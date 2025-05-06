@@ -3,7 +3,8 @@ title: "Better neurodevelpment at age 2 if high Vitamin D during all phases of p
 slug: "better-neurodevelpment-at-age-2-if-high-vitamin-d-during-all-phases-of-pregnancy"
 aliases:
   - "/Better+neurodevelpment+at+age+2+if+high+Vitamin+D+during+all+phases+of+pregnancy+–+March+2023"
-  - "/tiki-index.php?page_id=14335"
+  - "/14335"
+tiki_page_id: 14335
 date: 2023-03-27
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Daily aspirin reduced chance of heart problems by 0.4 percent (but 50X m
 slug: "daily-aspirin-reduced-chance-of-heart-problems-by-04-percent-but-50x-more-reduct-d-meta-analysis"
 aliases:
   - "/Daily+aspirin+reduced+chance+of+heart+problems+by+04+percent+but+50X+more+reduction+if+Vitamin+D+–+Meta-analysis+Jan+2019"
-  - "/tiki-index.php?page_id=10442"
+  - "/10442"
+tiki_page_id: 10442
 date: 2019-01-30
 categories:
   - "Cardiovascular"

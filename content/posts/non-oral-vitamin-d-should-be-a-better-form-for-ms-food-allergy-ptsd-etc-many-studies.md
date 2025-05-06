@@ -3,7 +3,8 @@ title: "Non-oral Vitamin D should be a better form for MS, food allergy, PTSD, e
 slug: "non-oral-vitamin-d-should-be-a-better-form-for-ms-food-allergy-ptsd-etc-many-studies"
 aliases:
   - "/Non-oral+Vitamin+D+should+be+a+better+form+for+MS+food+allergy+PTSD+etc+–+many+studies"
-  - "/tiki-index.php?page_id=15004"
+  - "/15004"
+tiki_page_id: 15004
 date: 2024-01-26
 categories:
   - "Vit D Binding Protein"

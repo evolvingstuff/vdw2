@@ -3,7 +3,8 @@ title: "Growing Evidence: Autoimmune Diseases are associated with low Vitamin D"
 slug: "growing-evidence-autoimmune-diseases-are-associated-with-low-vitamin-d"
 aliases:
   - "/Growing+Evidence+Autoimmune+Diseases+are+associated+with+low+Vitamin+D+–+Nov+2023"
-  - "/tiki-index.php?page_id=14843"
+  - "/14843"
+tiki_page_id: 14843
 date: 2023-11-25
 ---
 

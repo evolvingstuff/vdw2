@@ -3,7 +3,8 @@ title: "4,000 IU of Vitamin D is OK - 19 organizations agree - 2018"
 slug: "4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018"
 aliases:
   - "/4000+IU+of+Vitamin+D+is+OK+-+19+organizations+agree+-+2018"
-  - "/tiki-index.php?page_id=10001"
+  - "/10001"
+tiki_page_id: 10001
 date: 2018-09-03
 categories:
   - "Top news"

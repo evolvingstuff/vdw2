@@ -3,7 +3,8 @@ title: "Boron and Metabolic Disorders"
 slug: "boron-and-metabolic-disorders"
 aliases:
   - "/Boron+and+Metabolic+Disorders+-+June+2022"
-  - "/tiki-index.php?page_id=15099"
+  - "/15099"
+tiki_page_id: 15099
 date: 2024-03-04
 categories:
   - "Metabolic Syndrome"

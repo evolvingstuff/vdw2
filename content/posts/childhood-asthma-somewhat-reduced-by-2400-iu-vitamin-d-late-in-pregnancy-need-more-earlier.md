@@ -3,7 +3,8 @@ title: "Childhood Asthma somewhat reduced by 2400 IU vitamin D late in pregnancy
 slug: "childhood-asthma-somewhat-reduced-by-2400-iu-vitamin-d-late-in-pregnancy-need-more-earlier"
 aliases:
   - "/Childhood+Asthma+somewhat+reduced+by+2400+IU+vitamin+D+late+in+pregnancy+need+more+earlier+March+2019"
-  - "/tiki-index.php?page_id=10565"
+  - "/10565"
+tiki_page_id: 10565
 date: 2019-03-12
 categories:
   - "Breathing"

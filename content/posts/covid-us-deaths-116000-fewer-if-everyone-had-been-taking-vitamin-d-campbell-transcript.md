@@ -3,7 +3,8 @@ title: "COVID US deaths: 116,000 fewer if everyone had been taking Vitamin D –
 slug: "covid-us-deaths-116000-fewer-if-everyone-had-been-taking-vitamin-d-campbell-transcript"
 aliases:
   - "/COVID+US+deaths+116000+fewer+if+everyone+had+been+taking+Vitamin+D+–+Campbell+transcript+Nov+2022"
-  - "/tiki-index.php?page_id=14084"
+  - "/14084"
+tiki_page_id: 14084
 date: 2022-11-13
 categories:
   - "Top news"

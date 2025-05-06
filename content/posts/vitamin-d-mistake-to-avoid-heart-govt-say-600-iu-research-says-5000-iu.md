@@ -3,7 +3,8 @@ title: "Vitamin D Mistake to Avoid (Heart: Govt say 600 IU, research says 5,000 
 slug: "vitamin-d-mistake-to-avoid-heart-govt-say-600-iu-research-says-5000-iu"
 aliases:
   - "/Vitamin+D+Mistake+to+Avoid+Heart+Govt+say+600+IU+research+says+5000+IU+-+Dec+2023"
-  - "/tiki-index.php?page_id=14856"
+  - "/14856"
+tiki_page_id: 14856
 date: 2023-12-03
 categories:
   - "Cardiovascular"

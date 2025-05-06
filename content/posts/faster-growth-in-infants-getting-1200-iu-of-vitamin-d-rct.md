@@ -3,7 +3,8 @@ title: "Faster growth in infants getting 1200 IU of Vitamin D – RCT"
 slug: "faster-growth-in-infants-getting-1200-iu-of-vitamin-d-rct"
 aliases:
   - "/Faster+growth+in+infants+getting+1200+IU+of+Vitamin+D+–+RCT+July+2022"
-  - "/tiki-index.php?page_id=13761"
+  - "/13761"
+tiki_page_id: 13761
 date: 2022-07-15
 categories:
   - "Bone - Health"

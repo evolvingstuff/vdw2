@@ -3,7 +3,8 @@ title: "Willow Bark Extract and Aspirin have many health benefits (Vitamin D mig
 slug: "willow-bark-extract-and-aspirin-have-many-health-benefits-vitamin-d-might-be-better"
 aliases:
   - "/Willow+Bark+Extract+and+Aspirin+have+many+health+benefits+Vitamin+D+might+be+better+-+Dec+2023"
-  - "/tiki-index.php?page_id=14926"
+  - "/14926"
+tiki_page_id: 14926
 date: 2023-12-27
 categories:
   - "Pain - chronic"

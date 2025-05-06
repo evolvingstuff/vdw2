@@ -3,7 +3,8 @@ title: "High dose vitamin D for Autoimmune diseases - Portuguese - 2019"
 slug: "high-dose-vitamin-d-for-autoimmune-diseases-portuguese-2019"
 aliases:
   - "/High+dose+vitamin+D+for+Autoimmune+diseases+-+Portuguese+-+2019"
-  - "/tiki-index.php?page_id=12670"
+  - "/12670"
+tiki_page_id: 12670
 date: 2021-06-19
 categories:
   - "Autoimmune"

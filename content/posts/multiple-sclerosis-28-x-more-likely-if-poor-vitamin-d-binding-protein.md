@@ -3,7 +3,8 @@ title: "Multiple Sclerosis 2.8 X more likely if poor Vitamin D Binding Protein"
 slug: "multiple-sclerosis-28-x-more-likely-if-poor-vitamin-d-binding-protein"
 aliases:
   - "/Multiple+Sclerosis+28+X+more+likely+if+poor+Vitamin+D+Binding+Protein+–+May+2022"
-  - "/tiki-index.php?page_id=13569"
+  - "/13569"
+tiki_page_id: 13569
 date: 2022-05-18
 categories:
   - "Multiple Sclerosis"

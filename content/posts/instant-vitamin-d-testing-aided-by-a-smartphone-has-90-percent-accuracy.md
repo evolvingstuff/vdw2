@@ -3,7 +3,8 @@ title: "Instant Vitamin D testing aided by a smartphone has 90 percent accuracy"
 slug: "instant-vitamin-d-testing-aided-by-a-smartphone-has-90-percent-accuracy"
 aliases:
   - "/Instant+Vitamin+D+testing+aided+by+a+smartphone+has+90+percent+accuracy+–+Oct+2017"
-  - "/tiki-index.php?page_id=10997"
+  - "/10997"
+tiki_page_id: 10997
 date: 2019-07-17
 categories:
   - "Tests for Vitamin D"

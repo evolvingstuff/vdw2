@@ -3,7 +3,8 @@ title: "Eat eggs to get of good level of vitamin D (need to eat 35 daily)"
 slug: "eat-eggs-to-get-of-good-level-of-vitamin-d-need-to-eat-35-daily"
 aliases:
   - "/Eat+eggs+to+get+of+good+level+of+vitamin+D+need+to+eat+35+daily+–+Jan+2019"
-  - "/tiki-index.php?page_id=10405"
+  - "/10405"
+tiki_page_id: 10405
 date: 2019-01-16
 categories:
   - "Food sources for Vitamin D"

@@ -3,7 +3,8 @@ title: "Autism 1.75X more likely if BOTH maternal and infant vitamin D levels we
 slug: "autism-175x-more-likely-if-both-maternal-and-infant-vitamin-d-levels-were-low"
 aliases:
   - "/Autism+175X+more+likely+if+BOTH+maternal+and+infant+vitamin+D+levels+were+low+–+Nov+2019"
-  - "/tiki-index.php?page_id=11320"
+  - "/11320"
+tiki_page_id: 11320
 date: 2019-11-07
 categories:
   - "Autism"

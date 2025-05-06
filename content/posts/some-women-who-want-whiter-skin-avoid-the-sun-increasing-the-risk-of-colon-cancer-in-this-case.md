@@ -3,7 +3,8 @@ title: "Some women who want whiter skin avoid the sun – increasing the risk of
 slug: "some-women-who-want-whiter-skin-avoid-the-sun-increasing-the-risk-of-colon-cancer-in-this-case"
 aliases:
   - "/Some+women+who+want+whiter+skin+avoid+the+sun+–+increasing+the+risk+of+colon+cancer+in+this+case+–+June+2022"
-  - "/tiki-index.php?page_id=13711"
+  - "/13711"
+tiki_page_id: 13711
 date: 2022-06-25
 categories:
   - "Cancer - Colon"

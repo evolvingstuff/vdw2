@@ -3,7 +3,8 @@ title: "Only 1 in 7 cancers are found by screening (but 2 in 7 are prevented by 
 slug: "only-1-in-7-cancers-are-found-by-screening-but-2-in-7-are-prevented-by-vitamin-d"
 aliases:
   - "/Only+1+in+7+cancers+are+found+by+screening+but+2+in+7+are+prevented+by+Vitamin+D+–+Dec+2022"
-  - "/tiki-index.php?page_id=14181"
+  - "/14181"
+tiki_page_id: 14181
 date: 2022-12-30
 categories:
   - "Cancer"

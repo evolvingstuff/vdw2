@@ -3,7 +3,8 @@ title: "Health Care is a Human Right in a most countries, but not the US"
 slug: "health-care-is-a-human-right-in-a-most-countries-but-not-the-us"
 aliases:
   - "/Health+Care+is+a+Human+Right+in+a+most+countries+but+not+the+US"
-  - "/tiki-index.php?page_id=10918"
+  - "/10918"
+tiki_page_id: 10918
 date: 2019-06-24
 categories:
   - "Health"

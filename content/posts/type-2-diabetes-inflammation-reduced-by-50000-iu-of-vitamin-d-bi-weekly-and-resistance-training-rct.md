@@ -3,7 +3,8 @@ title: "Type 2 Diabetes inflammation reduced by 50,000 IU of Vitamin D bi-weekly
 slug: "type-2-diabetes-inflammation-reduced-by-50000-iu-of-vitamin-d-bi-weekly-and-resistance-training-rct"
 aliases:
   - "/Type+2+Diabetes+inflammation+reduced+by+50000+IU+of+Vitamin+D+bi-weekly+and+resistance+training+–+RCT+–+June+2019"
-  - "/tiki-index.php?page_id=10946"
+  - "/10946"
+tiki_page_id: 10946
 date: 2019-07-01
 categories:
   - "Diabetes"

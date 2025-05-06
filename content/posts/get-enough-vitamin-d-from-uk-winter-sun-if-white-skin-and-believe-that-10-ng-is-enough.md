@@ -3,7 +3,8 @@ title: "Get enough Vitamin D from UK winter sun (if white skin and believe that 
 slug: "get-enough-vitamin-d-from-uk-winter-sun-if-white-skin-and-believe-that-10-ng-is-enough"
 aliases:
   - "/Get+enough+Vitamin+D+from+UK+winter+sun+if+white+skin+and+believe+that+10+ng+is+enough+-+Aug+2018"
-  - "/tiki-index.php?page_id=10452"
+  - "/10452"
+tiki_page_id: 10452
 date: 2019-02-02
 categories:
   - "Noontime sun and D"

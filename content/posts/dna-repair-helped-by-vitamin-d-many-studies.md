@@ -3,7 +3,8 @@ title: "DNA repair helped by Vitamin D - many studies"
 slug: "dna-repair-helped-by-vitamin-d-many-studies"
 aliases:
   - "/DNA+repair+helped+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=13846"
+  - "/13846"
+tiki_page_id: 13846
 date: 2022-08-18
 ---
 

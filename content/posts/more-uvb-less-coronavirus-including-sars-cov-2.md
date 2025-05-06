@@ -3,7 +3,8 @@ title: "More UVB, less Coronavirus – including SARS-CoV-2"
 slug: "more-uvb-less-coronavirus-including-sars-cov-2"
 aliases:
   - "/More+UVB+less+Coronavirus+–+including+SARS-CoV-2+–+Aug+2020"
-  - "/tiki-index.php?page_id=11926"
+  - "/11926"
+tiki_page_id: 11926
 date: 2020-08-30
 categories:
   - "UV and Vitamin D"

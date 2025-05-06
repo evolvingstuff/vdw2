@@ -3,7 +3,8 @@ title: "The Myopia Generation (Hint - sunshine and vitamin D)"
 slug: "the-myopia-generation-hint-sunshine-and-vitamin-d"
 aliases:
   - "/The+Myopia+Generation+Hint+-+sunshine+and+vitamin+D+-+Sept+2022"
-  - "/tiki-index.php?page_id=13907"
+  - "/13907"
+tiki_page_id: 13907
 date: 2022-09-13
 categories:
   - "Vision"

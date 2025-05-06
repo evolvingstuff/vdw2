@@ -3,7 +3,8 @@ title: "Women with diabetes 60 percent more likely to get Cancer (perhaps low vi
 slug: "women-with-diabetes-60-percent-more-likely-to-get-cancer-perhaps-low-vitamin-d"
 aliases:
   - "/Women+with+diabetes+60+percent+more+likely+to+get+Cancer+perhaps+low+vitamin+D+–+May+2019"
-  - "/tiki-index.php?page_id=10780"
+  - "/10780"
+tiki_page_id: 10780
 date: 2019-05-16
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "COVID is also associated with low Vitamin K - many studies"
 slug: "covid-is-also-associated-with-low-vitamin-k-many-studies"
 aliases:
   - "/COVID+is+also+associated+with+low+Vitamin+K+-+many+studies"
-  - "/tiki-index.php?page_id=13150"
+  - "/13150"
+tiki_page_id: 13150
 date: 2021-12-07
 categories:
   - "Vitamin D and Vitamin K"

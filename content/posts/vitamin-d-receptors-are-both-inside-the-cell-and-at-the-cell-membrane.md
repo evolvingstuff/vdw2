@@ -3,7 +3,8 @@ title: "Vitamin D Receptors are both inside the cell and at the cell membrane"
 slug: "vitamin-d-receptors-are-both-inside-the-cell-and-at-the-cell-membrane"
 aliases:
   - "/Vitamin+D+Receptors+are+both+inside+the+cell+and+at+the+cell+membrane+–+July+2020"
-  - "/tiki-index.php?page_id=13833"
+  - "/13833"
+tiki_page_id: 13833
 date: 2022-08-08
 categories:
   - "Vitamin D Receptor"

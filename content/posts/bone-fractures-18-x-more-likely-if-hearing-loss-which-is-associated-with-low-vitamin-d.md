@@ -3,7 +3,8 @@ title: "Bone fractures 1.8 X more likely if hearing loss (which is associated wi
 slug: "bone-fractures-18-x-more-likely-if-hearing-loss-which-is-associated-with-low-vitamin-d"
 aliases:
   - "/Bone+fractures+18+X+more+likely+if+hearing+loss+which+is+associated+with+low+vitamin+D+–+Nov+2019"
-  - "/tiki-index.php?page_id=11346"
+  - "/11346"
+tiki_page_id: 11346
 date: 2019-11-14
 categories:
   - "Ear"

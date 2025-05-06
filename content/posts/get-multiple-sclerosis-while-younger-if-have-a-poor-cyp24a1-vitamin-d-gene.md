@@ -3,7 +3,8 @@ title: "Get Multiple Sclerosis while younger if have a poor CYP24A1 vitamin D ge
 slug: "get-multiple-sclerosis-while-younger-if-have-a-poor-cyp24a1-vitamin-d-gene"
 aliases:
   - "/Get+Multiple+Sclerosis+while+younger+if+have+a+poor+CYP24A1+vitamin+D+gene+–+May+2023"
-  - "/tiki-index.php?page_id=14426"
+  - "/14426"
+tiki_page_id: 14426
 date: 2023-05-16
 categories:
   - "Multiple Sclerosis"

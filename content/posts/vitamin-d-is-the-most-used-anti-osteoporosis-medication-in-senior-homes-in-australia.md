@@ -3,7 +3,8 @@ title: "Vitamin D is the most used anti-osteoporosis medication in senior homes 
 slug: "vitamin-d-is-the-most-used-anti-osteoporosis-medication-in-senior-homes-in-australia"
 aliases:
   - "/Vitamin+D+is+the+most+used+anti-osteoporosis+medication+in+senior+homes+in+Australia+–+June+2019"
-  - "/tiki-index.php?page_id=10898"
+  - "/10898"
+tiki_page_id: 10898
 date: 2019-06-19
 categories:
   - "Osteoporosis"

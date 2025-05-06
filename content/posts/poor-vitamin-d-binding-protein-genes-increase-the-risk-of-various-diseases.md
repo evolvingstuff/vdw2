@@ -3,7 +3,8 @@ title: "Poor Vitamin D Binding Protein Genes increase the risk of various diseas
 slug: "poor-vitamin-d-binding-protein-genes-increase-the-risk-of-various-diseases"
 aliases:
   - "/Poor+Vitamin+D+Binding+Protein+Genes+increase+the+risk+of+various+diseases+–+Jan+2022"
-  - "/tiki-index.php?page_id=13276"
+  - "/13276"
+tiki_page_id: 13276
 date: 2022-01-21
 categories:
   - "Vit D Binding Protein"

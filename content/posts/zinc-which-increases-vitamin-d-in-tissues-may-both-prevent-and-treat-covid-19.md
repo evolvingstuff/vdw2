@@ -3,7 +3,8 @@ title: "Zinc (which increases vitamin D in tissues) may both prevent and treat C
 slug: "zinc-which-increases-vitamin-d-in-tissues-may-both-prevent-and-treat-covid-19"
 aliases:
   - "/Zinc+which+increases+vitamin+D+in+tissues+may+both+prevent+and+treat+COVID-19"
-  - "/tiki-index.php?page_id=12023"
+  - "/12023"
+tiki_page_id: 12023
 date: 2020-10-26
 categories:
   - "Virus"

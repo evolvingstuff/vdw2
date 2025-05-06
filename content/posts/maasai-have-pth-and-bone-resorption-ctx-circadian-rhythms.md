@@ -3,7 +3,8 @@ title: "Maasai have PTH and bone resorption (CTX) circadian rhythms"
 slug: "maasai-have-pth-and-bone-resorption-ctx-circadian-rhythms"
 aliases:
   - "/Maasai+have+PTH+and+bone+resorption+CTX+circadian+rhythms+–+April+2022"
-  - "/tiki-index.php?page_id=13529"
+  - "/13529"
+tiki_page_id: 13529
 date: 2022-04-29
 categories:
   - "Bone - Health"

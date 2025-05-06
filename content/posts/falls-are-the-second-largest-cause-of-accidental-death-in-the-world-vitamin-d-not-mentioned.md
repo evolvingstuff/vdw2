@@ -3,7 +3,8 @@ title: "Falls are the second largest cause of accidental death in the world (Vit
 slug: "falls-are-the-second-largest-cause-of-accidental-death-in-the-world-vitamin-d-not-mentioned"
 aliases:
   - "/Falls+are+the+second+largest+cause+of+accidental+death+in+the+world+Vitamin+D+not+mentioned+–+Oct+2020"
-  - "/tiki-index.php?page_id=11999"
+  - "/11999"
+tiki_page_id: 11999
 date: 2020-10-08
 categories:
   - "Falls and Fractures"

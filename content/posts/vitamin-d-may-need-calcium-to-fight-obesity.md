@@ -3,7 +3,8 @@ title: "Vitamin D may need Calcium to fight obesity"
 slug: "vitamin-d-may-need-calcium-to-fight-obesity"
 aliases:
   - "/Vitamin+D+may+need+Calcium+to+fight+obesity+–+Aug+2022"
-  - "/tiki-index.php?page_id=13819"
+  - "/13819"
+tiki_page_id: 13819
 date: 2022-08-03
 categories:
   - "Obesity"

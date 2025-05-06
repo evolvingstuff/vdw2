@@ -3,7 +3,8 @@ title: "Vitamin D levels in Europe (some consume a lot of vitamin D)"
 slug: "vitamin-d-levels-in-europe-some-consume-a-lot-of-vitamin-d"
 aliases:
   - "/Vitamin+D+levels+in+Europe+some+consume+a+lot+of+vitamin+D+–+Dec+2021"
-  - "/tiki-index.php?page_id=13206"
+  - "/13206"
+tiki_page_id: 13206
 date: 2021-12-22
 categories:
   - "Vitamin D in Europe"

@@ -3,7 +3,8 @@ title: "High-dose Omega-3 fought COVID in 2 hospital trials (6x reduction in ICU
 slug: "high-dose-omega-3-fought-covid-in-2-hospital-trials-6x-reduction-in-icu-reduced-time-masterjohn"
 aliases:
   - "/High-dose+Omega-3+fought+COVID+in+2+hospital+trials+6x+reduction+in+ICU+reduced+time+–+Masterjohn+Oct+2021"
-  - "/tiki-index.php?page_id=12985"
+  - "/12985"
+tiki_page_id: 12985
 date: 2021-10-14
 categories:
   - "Top news"

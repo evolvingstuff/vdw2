@@ -3,7 +3,8 @@ title: "Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies"
 slug: "calcifediol-calcidiol-semiactivated-vitamin-d-many-studies"
 aliases:
   - "/Calcifediol+Calcidiol+semiactivated+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=13670"
+  - "/13670"
+tiki_page_id: 13670
 date: 2022-06-13
 categories:
   - "Top news"

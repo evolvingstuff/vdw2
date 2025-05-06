@@ -3,7 +3,8 @@ title: "Excessive lipids in blood can result in very low vitamin D test results"
 slug: "excessive-lipids-in-blood-can-result-in-very-low-vitamin-d-test-results"
 aliases:
   - "/Excessive+lipids+in+blood+can+result+in+very+low+vitamin+D+test+results+–+Oct+2020"
-  - "/tiki-index.php?page_id=12451"
+  - "/12451"
+tiki_page_id: 12451
 date: 2021-03-30
 categories:
   - "Obesity"

@@ -3,7 +3,8 @@ title: "Bone loss reduced in women by vitamin D supplementation - Meta-analysis"
 slug: "bone-loss-reduced-in-women-by-vitamin-d-supplementation-meta-analysis"
 aliases:
   - "/Bone+loss+reduced+in+women+by+vitamin+D+supplementation+-+Meta-analysis+Jan+2024"
-  - "/tiki-index.php?page_id=14973"
+  - "/14973"
+tiki_page_id: 14973
 date: 2024-01-15
 categories:
   - "Bone - Health"

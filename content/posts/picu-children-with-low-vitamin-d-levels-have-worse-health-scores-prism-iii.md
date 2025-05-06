@@ -3,7 +3,8 @@ title: "PICU children with low vitamin D levels have worse health scores (PRISM-
 slug: "picu-children-with-low-vitamin-d-levels-have-worse-health-scores-prism-iii"
 aliases:
   - "/PICU+children+with+low+vitamin+D+levels+have+worse+health+scores+PRISM-III+–+Feb+2020"
-  - "/tiki-index.php?page_id=11653"
+  - "/11653"
+tiki_page_id: 11653
 date: 2020-02-28
 categories:
   - "Trauma and surgery"

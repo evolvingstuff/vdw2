@@ -3,7 +3,8 @@ title: "Pfizer knew of 290 kinds of COVID vaccine problems"
 slug: "pfizer-knew-of-290-kinds-of-covid-vaccine-problems"
 aliases:
   - "/Pfizer+knew+of+290+kinds+of+COVID+vaccine+problems"
-  - "/tiki-index.php?page_id=13161"
+  - "/13161"
+tiki_page_id: 13161
 date: 2021-12-10
 categories:
   - "Virus"

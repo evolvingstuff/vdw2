@@ -3,7 +3,8 @@ title: "Workplace benefts VP likes Vitamin D"
 slug: "workplace-benefts-vp-likes-vitamin-d"
 aliases:
   - "/Workplace+benefts+VP+likes+Vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10545"
+  - "/10545"
+tiki_page_id: 10545
 date: 2019-03-03
 categories:
   - "Cost savings with Vitamin D"

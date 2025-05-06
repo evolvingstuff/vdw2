@@ -3,7 +3,8 @@ title: "Miscarriage 32 percent more likely if work night shift (probably low Vit
 slug: "miscarriage-32-percent-more-likely-if-work-night-shift-probably-low-vitamin-d"
 aliases:
   - "/Miscarriage+32+percent+more+likely+if+work+night+shift+probably+low+Vitamin+D+–+April+2019"
-  - "/tiki-index.php?page_id=10645"
+  - "/10645"
+tiki_page_id: 10645
 date: 2019-04-05
 categories:
   - "Pregnancy"

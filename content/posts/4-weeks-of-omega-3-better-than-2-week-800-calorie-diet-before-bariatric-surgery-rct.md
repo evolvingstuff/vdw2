@@ -3,7 +3,8 @@ title: "4 weeks of Omega-3 better than 2 week 800 calorie diet before Bariatric 
 slug: "4-weeks-of-omega-3-better-than-2-week-800-calorie-diet-before-bariatric-surgery-rct"
 aliases:
   - "/4+weeks+of+Omega-3+better+than+2+week+800+calorie+diet+before+Bariatric+Surgery+–+RCT+March+2019"
-  - "/tiki-index.php?page_id=10607"
+  - "/10607"
+tiki_page_id: 10607
 date: 2019-03-23
 categories:
   - "Obesity"

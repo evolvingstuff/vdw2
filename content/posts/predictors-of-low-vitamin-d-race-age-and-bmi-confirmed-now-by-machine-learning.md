@@ -3,7 +3,8 @@ title: "Predictors of low vitamin D: race, age, and BMI (confirmed now by Machin
 slug: "predictors-of-low-vitamin-d-race-age-and-bmi-confirmed-now-by-machine-learning"
 aliases:
   - "/Predictors+of+low+vitamin+D+race+age+and+BMI+confirmed+now+by+Machine+Learning+–+Feb+2024"
-  - "/tiki-index.php?page_id=15108"
+  - "/15108"
+tiki_page_id: 15108
 date: 2024-03-07
 categories:
   - "Skin - Dark"

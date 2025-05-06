@@ -3,7 +3,8 @@ title: "12% larger pupils in children who are Vitamin D deficient"
 slug: "12-percent-larger-pupils-in-children-who-are-vitamin-d-deficient"
 aliases:
   - "/12+larger+pupils+in+children+who+are+Vitamin+D+deficient+–+Feb+2024"
-  - "/tiki-index.php?page_id=15086"
+  - "/15086"
+tiki_page_id: 15086
 date: 2024-02-28
 categories:
   - "Vision"

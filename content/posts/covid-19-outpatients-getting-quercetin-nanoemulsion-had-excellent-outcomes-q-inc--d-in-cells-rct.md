@@ -3,7 +3,8 @@ title: "COVID-19 outpatients getting Quercetin nanoemulsion had excellent outcom
 slug: "covid-19-outpatients-getting-quercetin-nanoemulsion-had-excellent-outcomes-q-inc--d-in-cells-rct"
 aliases:
   - "/COVID-19+outpatients+getting+Quercetin+nanoemulsion+had+excellent+outcomes+Q+increased+Vitamin+D+in+cells+–+RCT+–+June+2021"
-  - "/tiki-index.php?page_id=12782"
+  - "/12782"
+tiki_page_id: 12782
 date: 2021-07-29
 categories:
   - "Intervention"

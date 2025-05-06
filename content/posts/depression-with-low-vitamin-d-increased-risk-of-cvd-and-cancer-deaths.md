@@ -3,7 +3,8 @@ title: "Depression with low vitamin D increased risk of CVD and Cancer deaths"
 slug: "depression-with-low-vitamin-d-increased-risk-of-cvd-and-cancer-deaths"
 aliases:
   - "/Depression+with+low+vitamin+D+increased+risk+of+CVD+and+Cancer+deaths+–+Jan+2024"
-  - "/tiki-index.php?page_id=15042"
+  - "/15042"
+tiki_page_id: 15042
 date: 2024-02-11
 categories:
   - "Depression"

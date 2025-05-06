@@ -3,7 +3,8 @@ title: "Sweden had banned selling more than 4,000 IU of vitamin D, Supreme Court
 slug: "sweden-had-banned-selling-more-than-4000-iu-of-vitamin-d-supreme-court-canceled-it"
 aliases:
   - "/Sweden+had+banned+selling+more+than+4000+IU+of+vitamin+D+Supreme+Court+canceled+it+–+Dec+2018"
-  - "/tiki-index.php?page_id=10263"
+  - "/10263"
+tiki_page_id: 10263
 date: 2018-12-03
 categories:
   - "Toxicity of Vitamin D"

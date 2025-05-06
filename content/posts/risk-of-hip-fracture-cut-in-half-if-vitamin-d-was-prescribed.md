@@ -3,7 +3,8 @@ title: "Risk of Hip fracture cut in half if Vitamin D was prescribed"
 slug: "risk-of-hip-fracture-cut-in-half-if-vitamin-d-was-prescribed"
 aliases:
   - "/Risk+of+Hip+fracture+cut+in+half+if+Vitamin+D+was+prescribed+-+Aug+2023"
-  - "/tiki-index.php?page_id=14600"
+  - "/14600"
+tiki_page_id: 14600
 date: 2023-08-10
 categories:
   - "Falls and Fractures"

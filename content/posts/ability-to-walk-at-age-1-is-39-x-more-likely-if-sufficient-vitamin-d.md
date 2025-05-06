@@ -3,7 +3,8 @@ title: "Ability to walk at age 1 is 3.9 X more likely if sufficient vitamin D"
 slug: "ability-to-walk-at-age-1-is-39-x-more-likely-if-sufficient-vitamin-d"
 aliases:
   - "/Ability+to+walk+at+age+1+is+39+X+more+likely+if+sufficient+vitamin+D+–+July+2019"
-  - "/tiki-index.php?page_id=11016"
+  - "/11016"
+tiki_page_id: 11016
 date: 2019-07-23
 categories:
   - "Infant-Child"

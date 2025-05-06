@@ -3,7 +3,8 @@ title: "Treating herpes reduced incidence of senile dementia by 10 X (HSV1 reduc
 slug: "treating-herpes-reduced-incidence-of-senile-dementia-by-10-x-hsv1-reduces-vdr-by-8x-2018"
 aliases:
   - "/Treating+herpes+reduced+incidence+of+senile+dementia+by+10+X+HSV1+reduces+VDR+by+8X+–+2018"
-  - "/tiki-index.php?page_id=10407"
+  - "/10407"
+tiki_page_id: 10407
 date: 2019-01-17
 categories:
   - "Cognitive"

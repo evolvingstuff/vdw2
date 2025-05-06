@@ -3,7 +3,8 @@ title: "First trimester problems if very low vitamin D"
 slug: "first-trimester-problems-if-very-low-vitamin-d"
 aliases:
   - "/First+trimester+problems+if+very+low+vitamin+D+–+Dec+2021"
-  - "/tiki-index.php?page_id=13214"
+  - "/13214"
+tiki_page_id: 13214
 date: 2021-12-25
 ---
 

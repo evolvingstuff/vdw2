@@ -3,7 +3,8 @@ title: "276,000 IU of Vitamin D daily was too much"
 slug: "276000-iu-of-vitamin-d-daily-was-too-much"
 aliases:
   - "/276000+IU+of+Vitamin+D+daily+was+too+much+–+April+2021"
-  - "/tiki-index.php?page_id=12588"
+  - "/12588"
+tiki_page_id: 12588
 date: 2021-05-18
 categories:
   - "Toxicity of Vitamin D"

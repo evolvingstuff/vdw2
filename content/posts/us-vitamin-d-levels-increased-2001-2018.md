@@ -3,7 +3,8 @@ title: "US Vitamin D levels increased 2001-2018"
 slug: "us-vitamin-d-levels-increased-2001-2018"
 aliases:
   - "/US+Vitamin+D+levels+increased+2001-2018+–+Oct+2022"
-  - "/tiki-index.php?page_id=14025"
+  - "/14025"
+tiki_page_id: 14025
 date: 2022-10-20
 categories:
   - "Skin - Dark"

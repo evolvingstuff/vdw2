@@ -3,7 +3,8 @@ title: "Dutch doctors still have a lot to learn about Vitamin D – survey"
 slug: "dutch-doctors-still-have-a-lot-to-learn-about-vitamin-d-survey"
 aliases:
   - "/Dutch+doctors+still+have+a+lot+to+learn+about+Vitamin+D+–+survey+Dec+2018"
-  - "/tiki-index.php?page_id=10334"
+  - "/10334"
+tiki_page_id: 10334
 date: 2018-12-25
 ---
 

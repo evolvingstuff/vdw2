@@ -3,7 +3,8 @@ title: "Vitamin D levels crash after various surgeries (cardiac in this case)"
 slug: "vitamin-d-levels-crash-after-various-surgeries-cardiac-in-this-case"
 aliases:
   - "/Vitamin+D+levels+crash+after+various+surgeries+cardiac+in+this+case+–+Nov+2021"
-  - "/tiki-index.php?page_id=13151"
+  - "/13151"
+tiki_page_id: 13151
 date: 2021-12-07
 categories:
   - "Trauma and surgery"

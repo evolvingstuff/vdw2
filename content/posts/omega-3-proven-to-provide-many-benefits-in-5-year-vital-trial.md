@@ -3,7 +3,8 @@ title: "Omega-3 proven to provide many benefits in 5 year VITAL trial"
 slug: "omega-3-proven-to-provide-many-benefits-in-5-year-vital-trial"
 aliases:
   - "/Omega-3+proven+to+provide+many+benefits+in+5+year+VITAL+trial+-+Nov+2018"
-  - "/tiki-index.php?page_id=10251"
+  - "/10251"
+tiki_page_id: 10251
 date: 2018-11-30
 categories:
   - "Vitamin D and Omega-3"

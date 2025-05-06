@@ -3,7 +3,8 @@ title: "NIH employees got 1.4 billion dollars in big-pharma royalties in 12 year
 slug: "nih-employees-got-14-billion-dollars-in-big-pharma-royalties-in-12-years"
 aliases:
   - "/NIH+employees+got+14+billion+dollars+in+big-pharma+royalties+in+12+years+-+Jan+2023"
-  - "/tiki-index.php?page_id=14226"
+  - "/14226"
+tiki_page_id: 14226
 date: 2023-01-22
 ---
 

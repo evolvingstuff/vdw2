@@ -3,7 +3,8 @@ title: "2,000 IU of Vitamin D is safe and somewhat effective for all adults"
 slug: "2000-iu-of-vitamin-d-is-safe-and-somewhat-effective-for-all-adults"
 aliases:
   - "/2000+IU+of+Vitamin+D+is+safe+and+somewhat+effective+for+all+adults+–+Jan+2024"
-  - "/tiki-index.php?page_id=15034"
+  - "/15034"
+tiki_page_id: 15034
 date: 2024-02-07
 categories:
   - "Consensus"

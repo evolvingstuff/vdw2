@@ -3,7 +3,8 @@ title: "Osteoporosis fought by Vitamin D and Testosterone in Caucasian men"
 slug: "osteoporosis-fought-by-vitamin-d-and-testosterone-in-caucasian-men"
 aliases:
   - "/Osteoporosis+fought+by+Vitamin+D+and+Testosterone+in+Caucasian+men+–+March+2023"
-  - "/tiki-index.php?page_id=14392"
+  - "/14392"
+tiki_page_id: 14392
 date: 2023-04-22
 categories:
   - "Osteoporosis"

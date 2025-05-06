@@ -3,7 +3,8 @@ title: "Vitamin D might reduce Multisystem Inflammatory Syndrome in children"
 slug: "vitamin-d-might-reduce-multisystem-inflammatory-syndrome-in-children"
 aliases:
   - "/Vitamin+D+might+reduce+Multisystem+Inflammatory+Syndrome+in+children+–+March+2021"
-  - "/tiki-index.php?page_id=12435"
+  - "/12435"
+tiki_page_id: 12435
 date: 2021-03-25
 categories:
   - "Infant-Child"

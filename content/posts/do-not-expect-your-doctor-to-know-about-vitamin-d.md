@@ -3,7 +3,8 @@ title: "Do not expect your doctor to know about vitamin D"
 slug: "do-not-expect-your-doctor-to-know-about-vitamin-d"
 aliases:
   - "/Do+not+expect+your+doctor+to+know+about+vitamin+D"
-  - "/tiki-index.php?page_id=10146"
+  - "/10146"
+tiki_page_id: 10146
 date: 2018-10-20
 categories:
   - "Top news"

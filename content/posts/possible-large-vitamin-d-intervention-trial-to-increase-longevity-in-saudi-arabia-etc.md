@@ -3,7 +3,8 @@ title: "Possible large Vitamin D intervention trial to increase longevity in Sau
 slug: "possible-large-vitamin-d-intervention-trial-to-increase-longevity-in-saudi-arabia-etc"
 aliases:
   - "/Possible+large+Vitamin+D+intervention+trial+to+increase+longevity+in+Saudi+Arabia+etc"
-  - "/tiki-index.php?page_id=13764"
+  - "/13764"
+tiki_page_id: 13764
 date: 2022-07-16
 categories:
   - "Virus"

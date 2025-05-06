@@ -3,7 +3,8 @@ title: "Hyperparathyroidism resulting from CKD eliminated by 8,000 IU of vitamin
 slug: "hyperparathyroidism-resulting-from-ckd-eliminated-by-8000-iu-of-vitamin-d-daily---weeks-rct-2018"
 aliases:
   - "/Hyperparathyroidism+resulting+from+CKD+eliminated+by+8000+IU+of+vitamin+D+daily+for+12+weeks–+RCT+2018"
-  - "/tiki-index.php?page_id=14143"
+  - "/14143"
+tiki_page_id: 14143
 date: 2022-12-12
 categories:
   - "Kidney"

@@ -3,7 +3,8 @@ title: "Backpain relief – low evidence that drugs or NSAIDS help – Meta-anal
 slug: "backpain-relief-low-evidence-that-drugs-or-nsaids-help-meta-analysis"
 aliases:
   - "/Backpain+relief+–+low+evidence+that+drugs+or+NSAIDS+help+–+Meta-analysis+March+2023"
-  - "/tiki-index.php?page_id=14339"
+  - "/14339"
+tiki_page_id: 14339
 date: 2023-03-28
 categories:
   - "Meta-analysis of Vitamin D"

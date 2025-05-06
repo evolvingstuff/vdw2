@@ -3,7 +3,8 @@ title: "Lifespan and healthspan extension by resveratrol"
 slug: "lifespan-and-healthspan-extension-by-resveratrol"
 aliases:
   - "/Lifespan+and+healthspan+extension+by+resveratrol+-+Jan+2015"
-  - "/tiki-index.php?page_id=10704"
+  - "/10704"
+tiki_page_id: 10704
 date: 2019-04-27
 categories:
   - "Mortality and D"

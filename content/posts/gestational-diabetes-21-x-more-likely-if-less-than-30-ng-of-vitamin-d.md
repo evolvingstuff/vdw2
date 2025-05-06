@@ -3,7 +3,8 @@ title: "Gestational Diabetes 2.1 X more likely if less than 30 ng of Vitamin D"
 slug: "gestational-diabetes-21-x-more-likely-if-less-than-30-ng-of-vitamin-d"
 aliases:
   - "/Gestational+Diabetes+21+X+more+likely+if+less+than+30+ng+of+Vitamin+D+-+July+2022"
-  - "/tiki-index.php?page_id=13757"
+  - "/13757"
+tiki_page_id: 13757
 date: 2022-07-14
 categories:
   - "Pregnancy"

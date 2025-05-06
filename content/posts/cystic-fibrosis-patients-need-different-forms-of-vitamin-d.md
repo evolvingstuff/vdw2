@@ -3,7 +3,8 @@ title: "Cystic Fibrosis patients need different forms of Vitamin D"
 slug: "cystic-fibrosis-patients-need-different-forms-of-vitamin-d"
 aliases:
   - "/Cystic+Fibrosis+patients+need+different+forms+of+Vitamin+D+–+Nov+2021"
-  - "/tiki-index.php?page_id=13111"
+  - "/13111"
+tiki_page_id: 13111
 date: 2021-11-24
 categories:
   - "Cystic Fibrosis"

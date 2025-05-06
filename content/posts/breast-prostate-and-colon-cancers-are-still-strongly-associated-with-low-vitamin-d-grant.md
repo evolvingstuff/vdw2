@@ -3,7 +3,8 @@ title: "Breast, Prostate and Colon Cancers are still strongly associated with lo
 slug: "breast-prostate-and-colon-cancers-are-still-strongly-associated-with-low-vitamin-d-grant"
 aliases:
   - "/Breast+Prostate+and+Colon+Cancers+are+still+strongly+associated+with+low+Vitamin+D+–+Grant+Jan+2020"
-  - "/tiki-index.php?page_id=11521"
+  - "/11521"
+tiki_page_id: 11521
 date: 2019-12-31
 categories:
   - "Cancer - Colon"

@@ -3,7 +3,8 @@ title: "Treating pre-diabetes with Magnesium Chloride should be cost effective"
 slug: "treating-pre-diabetes-with-magnesium-chloride-should-be-cost-effective"
 aliases:
   - "/Treating+pre-diabetes+with+Magnesium+Chloride+should+be+cost+effective+–+June+2022"
-  - "/tiki-index.php?page_id=13639"
+  - "/13639"
+tiki_page_id: 13639
 date: 2022-06-05
 categories:
   - "Diabetes"

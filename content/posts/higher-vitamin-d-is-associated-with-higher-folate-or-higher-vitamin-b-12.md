@@ -3,7 +3,8 @@ title: "Higher vitamin D is associated with higher Folate or higher Vitamin B-12
 slug: "higher-vitamin-d-is-associated-with-higher-folate-or-higher-vitamin-b-12"
 aliases:
   - "/Higher+vitamin+D+is+associated+with+higher+Folate+or+higher+Vitamin+B-12+–+June+2020"
-  - "/tiki-index.php?page_id=11839"
+  - "/11839"
+tiki_page_id: 11839
 date: 2020-07-13
 categories:
   - "Vitamin B12"

@@ -3,7 +3,8 @@ title: "Debunking Misinformation About Vitamin D - Grant podcast and transcript"
 slug: "debunking-misinformation-about-vitamin-d-grant-podcast-and-transcript"
 aliases:
   - "/Debunking+Misinformation+About+Vitamin+D+-+Grant+podcast+and+transcript+-+Sept+2022"
-  - "/tiki-index.php?page_id=13929"
+  - "/13929"
+tiki_page_id: 13929
 date: 2022-09-21
 categories:
   - "Books, videos on Vitamin D"

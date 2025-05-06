@@ -3,7 +3,8 @@ title: "There may be a bias against Vitamin C in Mainstream Medicine"
 slug: "there-may-be-a-bias-against-vitamin-c-in-mainstream-medicine"
 aliases:
   - "/There+may+be+a+bias+against+Vitamin+C+in+Mainstream+Medicine+–+Jan+2022"
-  - "/tiki-index.php?page_id=13728"
+  - "/13728"
+tiki_page_id: 13728
 date: 2022-07-02
 categories:
   - "Vitamin C"

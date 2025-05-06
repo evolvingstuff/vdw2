@@ -3,7 +3,8 @@ title: "2.4 X fewer lower respiratory track infections in infants getting 400 IU
 slug: "24-x-fewer-lower-respiratory-track-infections-in-infants-getting-400-iu-of-vitamin-d"
 aliases:
   - "/24+X+fewer+lower+respiratory+track+infections+in+infants+getting+400+IU+of+Vitamin+D+–+May+2022"
-  - "/tiki-index.php?page_id=13585"
+  - "/13585"
+tiki_page_id: 13585
 date: 2022-05-24
 categories:
   - "Immunity"

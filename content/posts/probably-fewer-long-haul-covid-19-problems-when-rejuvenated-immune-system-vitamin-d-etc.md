@@ -3,7 +3,8 @@ title: "Probably fewer long-haul COVID-19 problems when rejuvenated immune syste
 slug: "probably-fewer-long-haul-covid-19-problems-when-rejuvenated-immune-system-vitamin-d-etc"
 aliases:
   - "/Probably+fewer+long-haul+COVID-19+problems+when+rejuvenated+immune+system+Vitamin+D+etc–+Dec+2020"
-  - "/tiki-index.php?page_id=12340"
+  - "/12340"
+tiki_page_id: 12340
 date: 2021-02-21
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Surgical Site Infection (Cesarean) twice as likely if low Vitamin D"
 slug: "surgical-site-infection-cesarean-twice-as-likely-if-low-vitamin-d"
 aliases:
   - "/Surgical+Site+Infection+Cesarean+twice+as+likely+if+low+Vitamin+D+-+Jan+2024"
-  - "/tiki-index.php?page_id=15022"
+  - "/15022"
+tiki_page_id: 15022
 date: 2024-02-02
 categories:
   - "Trauma and surgery"

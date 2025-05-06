@@ -3,7 +3,8 @@ title: "Pfizer: silence govts, throttle supply, shift risk, and maximize profits
 slug: "pfizer-silence-govts-throttle-supply-shift-risk-and-maximize-profits"
 aliases:
   - "/Pfizer+silence+govts+throttle+supply+shift+risk+and+maximize+profits+-+Jan+2023"
-  - "/tiki-index.php?page_id=14184"
+  - "/14184"
+tiki_page_id: 14184
 date: 2023-01-02
 categories:
   - "Virus"

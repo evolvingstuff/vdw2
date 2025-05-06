@@ -3,7 +3,8 @@ title: "Lung Cancer is up to 7 X more deadly if poor vitamin D genes"
 slug: "lung-cancer-is-up-to-7-x-more-deadly-if-poor-vitamin-d-genes"
 aliases:
   - "/Lung+Cancer+is+up+to+7+X+more+deadly+if+poor+vitamin+D+genes+–+Oct+2021"
-  - "/tiki-index.php?page_id=13017"
+  - "/13017"
+tiki_page_id: 13017
 date: 2021-10-25
 categories:
   - "Genetics"

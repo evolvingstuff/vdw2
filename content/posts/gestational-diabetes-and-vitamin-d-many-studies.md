@@ -3,7 +3,8 @@ title: "Gestational Diabetes and Vitamin D - many studies"
 slug: "gestational-diabetes-and-vitamin-d-many-studies"
 aliases:
   - "/Gestational+Diabetes+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14350"
+  - "/14350"
+tiki_page_id: 14350
 date: 2023-04-02
 categories:
   - "Pregnancy"

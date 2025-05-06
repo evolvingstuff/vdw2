@@ -3,7 +3,8 @@ title: "COVID in hospital stopped by Vitamin D Receptor activators (curcumin, qu
 slug: "covid-in-hospital-stopped-by-vitamin-d-receptor-activators-curcumin-quercetin-rct"
 aliases:
   - "/COVID+in+hospital+stopped+by+Vitamin+D+Receptor+activators+curcumin+quercetin+–+RCT+June+2023"
-  - "/tiki-index.php?page_id=14497"
+  - "/14497"
+tiki_page_id: 14497
 date: 2023-06-25
 categories:
   - "Intervention"

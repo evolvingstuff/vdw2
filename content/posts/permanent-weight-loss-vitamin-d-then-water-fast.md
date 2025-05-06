@@ -3,7 +3,8 @@ title: "Permanent Weight Loss - Vitamin D then water-fast"
 slug: "permanent-weight-loss-vitamin-d-then-water-fast"
 aliases:
   - "/Permanent+Weight+Loss+-+Vitamin+D+then+water-fast+-+July+2023"
-  - "/tiki-index.php?page_id=14553"
+  - "/14553"
+tiki_page_id: 14553
 date: 2023-07-23
 categories:
   - "Obesity"

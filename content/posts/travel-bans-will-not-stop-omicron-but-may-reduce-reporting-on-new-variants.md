@@ -3,7 +3,8 @@ title: "Travel bans will not stop omicron, but may reduce reporting on new varia
 slug: "travel-bans-will-not-stop-omicron-but-may-reduce-reporting-on-new-variants"
 aliases:
   - "/Travel+bans+will+not+stop+omicron+but+may+reduce+reporting+on+new+variants+-+Dec+3+2021"
-  - "/tiki-index.php?page_id=13140"
+  - "/13140"
+tiki_page_id: 13140
 date: 2021-12-03
 categories:
   - "Virus"

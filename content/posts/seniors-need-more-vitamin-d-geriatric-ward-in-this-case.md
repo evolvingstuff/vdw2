@@ -3,7 +3,8 @@ title: "Seniors need more Vitamin D (Geriatric Ward in this case)"
 slug: "seniors-need-more-vitamin-d-geriatric-ward-in-this-case"
 aliases:
   - "/Seniors+need+more+Vitamin+D+Geriatric+Ward+in+this+case+-+Jan+2024"
-  - "/tiki-index.php?page_id=14997"
+  - "/14997"
+tiki_page_id: 14997
 date: 2024-01-24
 categories:
   - "Deficiency of Vitamin D"

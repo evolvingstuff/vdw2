@@ -3,7 +3,8 @@ title: "Risk of Frailty reduced 4X by 4,000 IU of vitamin D – RCT"
 slug: "risk-of-frailty-reduced-4x-by-4000-iu-of-vitamin-d-rct"
 aliases:
   - "/Risk+of+Frailty+reduced+4X+by+4000+IU+of+vitamin+D+–+RCT+April+2022"
-  - "/tiki-index.php?page_id=13467"
+  - "/13467"
+tiki_page_id: 13467
 date: 2022-04-10
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Vaccine injury claims paid: Thailand 45 million dollars, US 0 dollars"
 slug: "vaccine-injury-claims-paid-thailand-45-million-dollars-us-0-dollars"
 aliases:
   - "/Vaccine+injury+claims+paid+Thailand+45+million+dollars+US+0+dollars+-+March+15+2022"
-  - "/tiki-index.php?page_id=13404"
+  - "/13404"
+tiki_page_id: 13404
 date: 2022-03-15
 categories:
   - "Virus"

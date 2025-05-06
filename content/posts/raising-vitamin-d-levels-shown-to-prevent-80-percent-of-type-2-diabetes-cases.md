@@ -3,7 +3,8 @@ title: "Raising vitamin D levels shown to prevent 80% of type 2 diabetes cases"
 slug: "raising-vitamin-d-levels-shown-to-prevent-80-percent-of-type-2-diabetes-cases"
 aliases:
   - "/Raising+vitamin+D+levels+shown+to+prevent+80+of+type+2+diabetes+cases+-+Oct+2018"
-  - "/tiki-index.php?page_id=10134"
+  - "/10134"
+tiki_page_id: 10134
 date: 2018-10-18
 categories:
   - "Diabetes"

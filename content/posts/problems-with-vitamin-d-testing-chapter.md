@@ -3,7 +3,8 @@ title: "Problems with Vitamin D Testing – chapter"
 slug: "problems-with-vitamin-d-testing-chapter"
 aliases:
   - "/Problems+with+Vitamin+D+Testing+–+chapter+–+Aug+2019"
-  - "/tiki-index.php?page_id=11096"
+  - "/11096"
+tiki_page_id: 11096
 date: 2019-08-23
 categories:
   - "Tests for Vitamin D"

@@ -3,7 +3,8 @@ title: "Depression is especially reduced by large intermittent doses of vitamin 
 slug: "depression-is-especially-reduced-by-large-intermittent-doses-of-vitamin-d-meta-analysis"
 aliases:
   - "/Depression+is+especially+reduced+by+large+intermittent+doses+of+vitamin+D+–+meta-analysis+–+April+2023"
-  - "/tiki-index.php?page_id=14239"
+  - "/14239"
+tiki_page_id: 14239
 date: 2023-02-01
 categories:
   - "Depression"

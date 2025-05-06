@@ -3,7 +3,8 @@ title: "Infectious for 2 to 9 days after been given COVID"
 slug: "infectious-for-2-to-9-days-after-been-given-covid"
 aliases:
   - "/Infectious+for+2+to+9+days+after+been+given+COVID+-+Feb+2022"
-  - "/tiki-index.php?page_id=13311"
+  - "/13311"
+tiki_page_id: 13311
 date: 2022-02-03
 categories:
   - "Virus"

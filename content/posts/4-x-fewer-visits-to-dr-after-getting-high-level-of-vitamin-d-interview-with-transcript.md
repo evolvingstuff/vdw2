@@ -3,7 +3,8 @@ title: "4 X fewer visits to Dr. after getting high level of vitamin D (Interview
 slug: "4-x-fewer-visits-to-dr-after-getting-high-level-of-vitamin-d-interview-with-transcript"
 aliases:
   - "/4+X+fewer+visits+to+Dr+after+getting+high+level+of+vitamin+D+Interview+with+transcript+-+Jan+3+2022"
-  - "/tiki-index.php?page_id=13237"
+  - "/13237"
+tiki_page_id: 13237
 date: 2022-01-04
 categories:
   - "Books, videos on Vitamin D"

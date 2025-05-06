@@ -3,7 +3,8 @@ title: "Vitamin D trial for COVID-19 – using their patented slow-release form"
 slug: "vitamin-d-trial-for-covid-19-using-their-patented-slow-release-form"
 aliases:
   - "/Vitamin+D+trial+for+COVID-19+–+using+their+patented+slow-release+form+–+Aug+2021"
-  - "/tiki-index.php?page_id=12878"
+  - "/12878"
+tiki_page_id: 12878
 date: 2021-09-05
 categories:
   - "Intervention"

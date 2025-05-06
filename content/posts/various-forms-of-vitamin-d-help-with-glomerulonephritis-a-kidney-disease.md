@@ -3,7 +3,8 @@ title: "Various forms of Vitamin D help with Glomerulonephritis (a kidney diseas
 slug: "various-forms-of-vitamin-d-help-with-glomerulonephritis-a-kidney-disease"
 aliases:
   - "/Various+forms+of+Vitamin+D+help+with+Glomerulonephritis+a+kidney+disease+–+Feb+2021"
-  - "/tiki-index.php?page_id=12380"
+  - "/12380"
+tiki_page_id: 12380
 date: 2021-03-06
 categories:
   - "Kidney"

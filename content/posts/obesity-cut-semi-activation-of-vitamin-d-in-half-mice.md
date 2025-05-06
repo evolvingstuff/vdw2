@@ -3,7 +3,8 @@ title: "Obesity cut semi-activation of Vitamin D in half (mice)"
 slug: "obesity-cut-semi-activation-of-vitamin-d-in-half-mice"
 aliases:
   - "/Obesity+cut+semi-activation+of+Vitamin+D+in+half+mice+–+Jan+2019"
-  - "/tiki-index.php?page_id=10511"
+  - "/10511"
+tiki_page_id: 10511
 date: 2019-02-22
 categories:
   - "Obesity"

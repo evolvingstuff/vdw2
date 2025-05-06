@@ -3,7 +3,8 @@ title: "Preterm infants need Vitamin D"
 slug: "preterm-infants-need-vitamin-d"
 aliases:
   - "/Preterm+infants+need+Vitamin+D"
-  - "/tiki-index.php?page_id=12805"
+  - "/12805"
+tiki_page_id: 12805
 date: 2021-08-04
 categories:
   - "Infant-Child"

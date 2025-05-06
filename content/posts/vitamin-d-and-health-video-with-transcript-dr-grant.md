@@ -3,7 +3,8 @@ title: "Vitamin D and Health video with transcript - Dr. Grant"
 slug: "vitamin-d-and-health-video-with-transcript-dr-grant"
 aliases:
   - "/Vitamin+D+and+Health+video+with+transcript+-+Dr+Grant+Sept+2021"
-  - "/tiki-index.php?page_id=12889"
+  - "/12889"
+tiki_page_id: 12889
 date: 2021-09-10
 categories:
   - "Books, videos on Vitamin D"

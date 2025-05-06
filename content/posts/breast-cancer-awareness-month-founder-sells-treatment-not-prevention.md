@@ -3,7 +3,8 @@ title: "Breast Cancer Awareness Month founder sells treatment, not prevention"
 slug: "breast-cancer-awareness-month-founder-sells-treatment-not-prevention"
 aliases:
   - "/Breast+Cancer+Awareness+Month+founder+sells+treatment+not+prevention"
-  - "/tiki-index.php?page_id=11254"
+  - "/11254"
+tiki_page_id: 11254
 date: 2019-10-21
 categories:
   - "Cancer - Breast"

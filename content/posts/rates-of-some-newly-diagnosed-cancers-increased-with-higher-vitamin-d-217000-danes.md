@@ -3,7 +3,8 @@ title: "Rates of some newly diagnosed Cancers increased with higher Vitamin D (2
 slug: "rates-of-some-newly-diagnosed-cancers-increased-with-higher-vitamin-d-217000-danes"
 aliases:
   - "/Rates+of+some+newly+diagnosed+Cancers+increased+with+higher+Vitamin+D+217000+Danes+–+Jan+2019"
-  - "/tiki-index.php?page_id=10383"
+  - "/10383"
+tiki_page_id: 10383
 date: 2019-01-08
 categories:
   - "Cancer - Prostate"

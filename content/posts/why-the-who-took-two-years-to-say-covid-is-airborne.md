@@ -3,7 +3,8 @@ title: "Why the WHO took two years to say COVID is airborne"
 slug: "why-the-who-took-two-years-to-say-covid-is-airborne"
 aliases:
   - "/Why+the+WHO+took+two+years+to+say+COVID+is+airborne+-+April+2022"
-  - "/tiki-index.php?page_id=13465"
+  - "/13465"
+tiki_page_id: 13465
 date: 2022-04-09
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Perhaps 4X more likely to die of COVID-19 if take ACE inhibitors (reduce
 slug: "perhaps-4x-more-likely-to-die-of-covid-19-if-take-ace-inhibitors-reduce-blood-pressure"
 aliases:
   - "/Perhaps+4X+more+likely+to+die+of+COVID-19+if+take+ACE+inhibitors+reduce+blood+pressure+-+March+2020"
-  - "/tiki-index.php?page_id=11693"
+  - "/11693"
+tiki_page_id: 11693
 date: 2020-03-22
 categories:
   - "Virus"

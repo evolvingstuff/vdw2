@@ -3,7 +3,8 @@ title: "Cancers are sometimes associated with poor CYP24A1 gene (Vitamin D) (Bla
 slug: "cancers-are-sometimes-associated-with-poor-cyp24a1-gene-vitamin-d-bladder-cancer-in-this-case"
 aliases:
   - "/Cancers+are+sometimes+associated+with+poor+CYP24A1+gene+Vitamin+D+Bladder+Cancer+in+this+case+–+April+2024"
-  - "/tiki-index.php?page_id=15235"
+  - "/15235"
+tiki_page_id: 15235
 date: 2024-04-23
 categories:
   - "Cancer - Bladder"

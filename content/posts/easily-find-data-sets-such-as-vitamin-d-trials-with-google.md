@@ -3,7 +3,8 @@ title: "Easily find data sets, such as Vitamin D trials, with Google"
 slug: "easily-find-data-sets-such-as-vitamin-d-trials-with-google"
 aliases:
   - "/Easily+find+data+sets+such+as+Vitamin+D+trials+with+Google+–+Oct+2018"
-  - "/tiki-index.php?page_id=10149"
+  - "/10149"
+tiki_page_id: 10149
 date: 2018-10-22
 categories:
   - "Evidence for D"

@@ -3,7 +3,8 @@ title: "Is low Vitamin D just a marker of disease"
 slug: "is-low-vitamin-d-just-a-marker-of-disease"
 aliases:
   - "/Is+low+Vitamin+D+just+a+marker+of+disease+-+March+2023"
-  - "/tiki-index.php?page_id=14302"
+  - "/14302"
+tiki_page_id: 14302
 date: 2023-03-05
 categories:
   - "Consensus"

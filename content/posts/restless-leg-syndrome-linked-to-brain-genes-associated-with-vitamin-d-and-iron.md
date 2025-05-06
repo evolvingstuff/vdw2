@@ -3,7 +3,8 @@ title: "Restless Leg Syndrome linked to brain genes associated with Vitamin D an
 slug: "restless-leg-syndrome-linked-to-brain-genes-associated-with-vitamin-d-and-iron"
 aliases:
   - "/Restless+Leg+Syndrome+linked+to+brain+genes+associated+with+Vitamin+D+and+Iron+–+Nov+2019"
-  - "/tiki-index.php?page_id=11350"
+  - "/11350"
+tiki_page_id: 11350
 date: 2019-11-15
 categories:
   - "Sleep"

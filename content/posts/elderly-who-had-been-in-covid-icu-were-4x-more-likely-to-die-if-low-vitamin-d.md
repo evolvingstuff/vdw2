@@ -3,7 +3,8 @@ title: "Elderly who had been in COVID ICU were 4X more likely to die if low vita
 slug: "elderly-who-had-been-in-covid-icu-were-4x-more-likely-to-die-if-low-vitamin-d"
 aliases:
   - "/Elderly+who+had+been+in+COVID+ICU+were+4X+more+likely+to+die+if+low+vitamin+D+–+Nov+2022"
-  - "/tiki-index.php?page_id=13786"
+  - "/13786"
+tiki_page_id: 13786
 date: 2022-07-23
 categories:
   - "Mortality and D"

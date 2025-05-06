@@ -3,7 +3,8 @@ title: "Call to Action: Eliminate Vitamin D Deficiency during COVID-19 (7 reason
 slug: "call-to-action-eliminate-vitamin-d-deficiency-during-covid-19-7-reasons-manson"
 aliases:
   - "/Call+to+Action+Eliminate+Vitamin+D+Deficiency+during+COVID-19+7+reasons+–+Manson+July+23+2020"
-  - "/tiki-index.php?page_id=11870"
+  - "/11870"
+tiki_page_id: 11870
 date: 2020-07-28
 categories:
   - "Consensus"

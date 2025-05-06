@@ -3,7 +3,8 @@ title: "Restoring Vitamin D levels to health cows did not change immune biomarke
 slug: "restoring-vitamin-d-levels-to-health-cows-did-not-change-immune-biomarkers-in-30-days"
 aliases:
   - "/Restoring+Vitamin+D+levels+to+health+cows+did+not+change+immune+biomarkers+in+30+days+–+Sept+2018"
-  - "/tiki-index.php?page_id=10033"
+  - "/10033"
+tiki_page_id: 10033
 date: 2018-09-13
 categories:
   - "Veterinary and Vitamin D"

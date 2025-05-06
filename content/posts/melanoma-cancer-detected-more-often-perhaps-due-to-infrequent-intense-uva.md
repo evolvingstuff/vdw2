@@ -3,7 +3,8 @@ title: "Melanoma Cancer detected more often (perhaps due to infrequent intense U
 slug: "melanoma-cancer-detected-more-often-perhaps-due-to-infrequent-intense-uva"
 aliases:
   - "/Melanoma+Cancer+detected+more+often+perhaps+due+to+infrequent+intense+UVA+–+Oct+2022"
-  - "/tiki-index.php?page_id=13985"
+  - "/13985"
+tiki_page_id: 13985
 date: 2022-10-06
 categories:
   - "Cancer - Skin"

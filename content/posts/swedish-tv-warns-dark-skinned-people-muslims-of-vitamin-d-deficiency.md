@@ -3,7 +3,8 @@ title: "Swedish TV Warns 'Dark-Skinned' People, Muslims of Vitamin D Deficiency"
 slug: "swedish-tv-warns-dark-skinned-people-muslims-of-vitamin-d-deficiency"
 aliases:
   - "/Swedish+TV+Warns+Dark-Skinned+People+Muslims+of+Vitamin+D+Deficiency+-+Dec+2018"
-  - "/tiki-index.php?page_id=10339"
+  - "/10339"
+tiki_page_id: 10339
 date: 2018-12-25
 categories:
   - "Skin - Dark"

@@ -3,7 +3,8 @@ title: "Vitamin D and muscle"
 slug: "vitamin-d-and-muscle"
 aliases:
   - "/Vitamin+D+and+muscle+–+April+2019"
-  - "/tiki-index.php?page_id=10283"
+  - "/10283"
+tiki_page_id: 10283
 date: 2018-12-07
 categories:
   - "Sports and Vitamin D"

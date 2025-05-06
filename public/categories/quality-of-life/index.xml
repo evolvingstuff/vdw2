@@ -1,61 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Quality of Life on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/quality-of-life/</link>
-    <description>Recent content in Quality of Life on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/quality-of-life/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>All 8 of the factors that increase health span are associated with Vitamin D</title>
-      <link>http://localhost:1313/posts/all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#lifes-essential-8-higher-scores-extend-health-span&#34;&gt;Life’s Essential 8: Higher scores extend health span&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#8-related-items-in-vitamindwiki&#34;&gt;8 related items in VitaminDWiki&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;lifes-essential-8-higher-scores-extend-health-span&#34;&gt;Life’s Essential 8: Higher scores extend health span&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.mdedge.com/obgyn/article/262061/preventive-care/lifes-essential-8-higher-scores-extend-health-span?ecd=WNL_EVE_231231_mdedge&#34;&gt;MDEdge&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;based on Association of Cardiovascular Health With Life Expectancy Free of Cardiovascular Disease, Diabetes, Cancer, and Dementia in UK Adults - JAMA Intern Med. 2023;183(4):340-349. doi:10.1001/jamainternmed.2023.0015 &lt;a href=&#34;https://www.deepdyve.com/lp/american-medical-association/association-of-cardiovascular-health-with-life-expectancy-free-of-tE1hGRwDi4?articleList=%2Fsearch%3Fquery%3D%2522Association%2Bof%2BCardiovascular%2BHealth%2BWith%2BLife%2BExpectancy%2BFree%2Bof%2BCardiovascular%2BDisease%252C%2BDiabetes%252C%2BCancer%252C%2Band%2BDementia%2Bin%2BUK%2BAdults%2522&#34;&gt;Can be read at DeepDyve&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Not smoking&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;    &lt;a href=&#34;http://localhost:1313/posts/smoking-reduces-vitamin-d-many-studies&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Smoking reduces vitamin D - many studies&#34;&gt;Stopping smoking increases Vitamin D&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Extending Health Span is a better goal than extending Lifespan</title>
-      <link>http://localhost:1313/posts/extending-health-span-is-a-better-goal-than-extending-lifespan/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/extending-health-span-is-a-better-goal-than-extending-lifespan/</guid>
-      <description>&lt;h4 id=&#34;the-economic-value-of-targeting-aging&#34;&gt;The economic value of targeting aging&lt;/h4&gt;&#xA;&lt;p&gt;Nature Aging volume 1, pages 616–623 (2021)&lt;/p&gt;&#xA;&lt;p&gt;Andrew J. Scott, Martin Ellison &amp;amp; David A. Sinclair&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;Developments in life expectancy and the growing emphasis on biological and ‘healthy’ aging raise a number of important questions for health scientists and economists alike. Is it preferable to make lives healthier by compressing morbidity, or longer by extending life? What are the gains from targeting aging itself compared to efforts to eradicate specific diseases? Here we analyze existing data to evaluate the economic value of increases in life expectancy, improvements in health and treatments that target aging.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SciAm - No benefit from more than 20 ng of Vitamin D (nope)</title>
-      <link>http://localhost:1313/posts/sciam-no-benefit-from-more-than-20-ng-of-vitamin-d-nope/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sciam-no-benefit-from-more-than-20-ng-of-vitamin-d-nope/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the Scientific American PDF from VitaminDWiki &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;National population sampling showed that most people were already getting enough of the vitamin&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;&amp;hellip;most people probably don&amp;rsquo;t need supplements&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;&amp;hellip;noting that the majority of the population is just fine at 16 ng/ml.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;&amp;hellip;Levels have actually risen since &lt;sup&gt;[2010]&lt;/sup&gt;&amp;rdquo;  Actually, levels &lt;a href=&#34;http://localhost:1313/posts/4-reasons-why-vitamin-d-levels-are-crashing&#34;&gt;have fallen&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Describes the failure of 4 trials that used too little vitamin D&lt;/p&gt;&#xA;&lt;p&gt;Does not mention the &amp;gt;700 successful Vitamin D Randomized Controled Trials (see below)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Happiest country on earth has a high Vitamin D level (Finland, with little sun)</title>
-      <link>http://localhost:1313/posts/happiest-country-on-earth-has-a-high-vitamin-d-level-finland-with-little-sun/</link>
-      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/happiest-country-on-earth-has-a-high-vitamin-d-level-finland-with-little-sun/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#is-finland-really-the-happiest-country-in-the-world-finns-weighin&#34;&gt;Is Finland really the happiest country in the world? Finns weigh in.&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;is-finland-really-the-happiest-country-in-the-world-finns-weighin&#34;&gt;Is Finland really the happiest country in the world? Finns weigh in.&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.washingtonpost.com/travel/2022/03/31/finland-happiest-country/?utm_campaign=wp_the_optimist&amp;amp;utm_medium=email&amp;amp;utm_source=newsletter&amp;amp;wpisrc=nl_optimist&amp;amp;carta-url=https://s2.washingtonpost.com/car-ln-tr/367ed8e/624b2f3279d9d21aa11a33be/596bdb5f9bbc0f403f990f33/35/54/624b2f3279d9d21aa11a33be&#34;&gt;Washington Post&lt;/a&gt; March 31. 2022&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;For the fifth year in a row, Finland has been named the happiest country in the world by the United Nations-sponsored &lt;a href=&#34;https://happiness-report.s3.amazonaws.com/2022/WHR%2022.pdf&#34;&gt;World Happiness Report&lt;/a&gt;.&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note: Most of the top 10 happiest countries are in Europe and supplement or fortify with vitamin D&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Asian men often smoke then die of lung cancer (if you must smoke, take Vitamin D) – meta-analysis</title>
-      <link>http://localhost:1313/posts/asian-men-often-smoke-then-die-of-lung-cancer-if-you-must-smoke-take-vitamin-d-meta-analysis/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/asian-men-often-smoke-then-die-of-lung-cancer-if-you-must-smoke-take-vitamin-d-meta-analysis/</guid>
-      <description>&lt;h4 id=&#34;tobacco-smoking-and-mortality-in-asia-a-pooled-meta-analysis&#34;&gt;Tobacco Smoking and Mortality in Asia. A Pooled Meta-analysis&lt;/h4&gt;&#xA;&lt;p&gt;JAMA Netw Open. 2019;2(3):e191474. doi:10.1001/jamanetworkopen.2019.1474&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;1,000,000 participants in 20 cohort studies in this Asian meta-analysis&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/low-vitamin-d-is-worse-for-your-health-than-smoking&#34;&gt;Low Vitamin D is worse for your health than smoking&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/each-ng-extra-vitamin-d-associated-with-better-breathing-and-2x-better-for-smokers&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Each ng extra vitamin D associated with better breathing (and 2X better for smokers) – March 2018&#34;&gt;Each ng extra vitamin D associated with better breathing (and 2X better for smokers) – March 2018&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Following hip fracture 2,000 IU of vitamin D daily improved quality of life</title>
-      <link>http://localhost:1313/posts/following-hip-fracture-2000-iu-of-vitamin-d-daily-improved-quality-of-life/</link>
-      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/following-hip-fracture-2000-iu-of-vitamin-d-daily-improved-quality-of-life/</guid>
-      <description>&lt;h4 id=&#34;effects-of-a-simple-home-exercise-program-and-vitamin-d-supplementation-on-health-related-quality-of-life-after-a-hip-fracture-a-randomized-controlled-trial&#34;&gt;Effects of a simple home exercise program and vitamin D supplementation on health-related quality of life after a hip fracture: a randomized controlled trial&lt;/h4&gt;&#xA;&lt;p&gt;Qual Life Res (2019). &lt;a href=&#34;https://doi.org/10.1007/s11136-019-02100-4&#34;&gt;https://doi.org/10.1007/s11136-019-02100-4&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;K. Renerts K. Fischer B. Dawson-Hughes E. J. Orav G. FreystaetterH.-P. Simmen H.-C. Pape A. Egli R. TheilerH. A. Bischoff-Ferrari&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;Note: Daily vitamin D takes many months to achieve a level which provides a benefit&lt;/p&gt;&#xA;&lt;p&gt;Note: This study did not notice a benefit until 6 months&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Healthspan is more important than Lifespan – JAMA</title>
-      <link>http://localhost:1313/posts/healthspan-is-more-important-than-lifespan-jama/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/healthspan-is-more-important-than-lifespan-jama/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#from-lifespan-to-healthspan---2018&#34;&gt;From Lifespan to Healthspan - 2018&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#might-be-able-to-square-the-curve-with-vitamin-d&#34;&gt;Might be able to “square the curve” with Vitamin D&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#193-studies-cited-this-study-as-of-dec-2023&#34;&gt;193 studies cited this study as of Dec 2023&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;from-lifespan-to-healthspan---2018&#34;&gt;From Lifespan to Healthspan - 2018&lt;/h4&gt;&#xA;&lt;p&gt;JAMA. 2018;320(13):1323-1324. doi:10.1001/jama.2018.12621&lt;/p&gt;&#xA;&lt;p&gt;S. Jay Olshansky, PhD1&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;#### Chart from PDF&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;1900&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Many deaths before age 3&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Adult death rates inacreas at age 20, short lifetimes, peak at age 71&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;2016&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Adult death rates increase at age 50, long lifetimes, peak at age 90&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quality of Life on VitaminDWiki</title><link>//localhost:1313/categories/quality-of-life.html</link><description>Recent content in Quality of Life on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/quality-of-life/index.xml" rel="self" type="application/rss+xml"/><item><title>All 8 of the factors that increase health span are associated with Vitamin D</title><link>//localhost:1313/posts/all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d.html</link><pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#lifes-essential-8-higher-scores-extend-health-span">Life’s Essential 8: Higher scores extend health span&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#8-related-items-in-vitamindwiki">8 related items in VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="lifes-essential-8-higher-scores-extend-health-span">Life’s Essential 8: Higher scores extend health span&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.mdedge.com/obgyn/article/262061/preventive-care/lifes-essential-8-higher-scores-extend-health-span?ecd=WNL_EVE_231231_mdedge">MDEdge&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>based on Association of Cardiovascular Health With Life Expectancy Free of Cardiovascular Disease, Diabetes, Cancer, and Dementia in UK Adults - JAMA Intern Med. 2023;183(4):340-349. doi:10.1001/jamainternmed.2023.0015 &lt;a href="https://www.deepdyve.com/lp/american-medical-association/association-of-cardiovascular-health-with-life-expectancy-free-of-tE1hGRwDi4?articleList=%2Fsearch%3Fquery%3D%2522Association%2Bof%2BCardiovascular%2BHealth%2BWith%2BLife%2BExpectancy%2BFree%2Bof%2BCardiovascular%2BDisease%252C%2BDiabetes%252C%2BCancer%252C%2Band%2BDementia%2Bin%2BUK%2BAdults%2522">Can be read at DeepDyve&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Not smoking&lt;/strong>&lt;/p>
+&lt;p>    &lt;a href="//localhost:1313/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Stopping smoking increases Vitamin D&lt;/a>&lt;/p></description></item><item><title>Extending Health Span is a better goal than extending Lifespan</title><link>//localhost:1313/posts/extending-health-span-is-a-better-goal-than-extending-lifespan.html</link><pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/extending-health-span-is-a-better-goal-than-extending-lifespan.html</guid><description>&lt;h4 id="the-economic-value-of-targeting-aging">The economic value of targeting aging&lt;/h4>
+&lt;p>Nature Aging volume 1, pages 616–623 (2021)&lt;/p>
+&lt;p>Andrew J. Scott, Martin Ellison &amp;amp; David A. Sinclair&lt;/p>
+&lt;p>&lt;strong>Table of Contents&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>Developments in life expectancy and the growing emphasis on biological and ‘healthy’ aging raise a number of important questions for health scientists and economists alike. Is it preferable to make lives healthier by compressing morbidity, or longer by extending life? What are the gains from targeting aging itself compared to efforts to eradicate specific diseases? Here we analyze existing data to evaluate the economic value of increases in life expectancy, improvements in health and treatments that target aging.&lt;/p></description></item><item><title>SciAm - No benefit from more than 20 ng of Vitamin D (nope)</title><link>//localhost:1313/posts/sciam-no-benefit-from-more-than-20-ng-of-vitamin-d-nope.html</link><pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/sciam-no-benefit-from-more-than-20-ng-of-vitamin-d-nope.html</guid><description>&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the Scientific American PDF from VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&amp;ldquo;National population sampling showed that most people were already getting enough of the vitamin&amp;rdquo;&lt;/p>
+&lt;p>&amp;ldquo;&amp;hellip;most people probably don&amp;rsquo;t need supplements&amp;rdquo;&lt;/p>
+&lt;p>&amp;ldquo;&amp;hellip;noting that the majority of the population is just fine at 16 ng/ml.&amp;rdquo;&lt;/p>
+&lt;p>&amp;ldquo;&amp;hellip;Levels have actually risen since &lt;sup>[2010]&lt;/sup>&amp;rdquo; Actually, levels &lt;a href="//localhost:1313/posts/4-reasons-why-vitamin-d-levels-are-crashing">have fallen&lt;/a>&lt;/p>
+&lt;p>Describes the failure of 4 trials that used too little vitamin D&lt;/p>
+&lt;p>Does not mention the &amp;gt;700 successful Vitamin D Randomized Controled Trials (see below)&lt;/p></description></item><item><title>Happiest country on earth has a high Vitamin D level (Finland, with little sun)</title><link>//localhost:1313/posts/happiest-country-on-earth-has-a-high-vitamin-d-level-finland-with-little-sun.html</link><pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/happiest-country-on-earth-has-a-high-vitamin-d-level-finland-with-little-sun.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#is-finland-really-the-happiest-country-in-the-world-finns-weighin">Is Finland really the happiest country in the world? Finns weigh in.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="is-finland-really-the-happiest-country-in-the-world-finns-weighin">Is Finland really the happiest country in the world? Finns weigh in.&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.washingtonpost.com/travel/2022/03/31/finland-happiest-country/?utm_campaign=wp_the_optimist&amp;amp;utm_medium=email&amp;amp;utm_source=newsletter&amp;amp;wpisrc=nl_optimist&amp;amp;carta-url=https://s2.washingtonpost.com/car-ln-tr/367ed8e/624b2f3279d9d21aa11a33be/596bdb5f9bbc0f403f990f33/35/54/624b2f3279d9d21aa11a33be">Washington Post&lt;/a> March 31. 2022&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;For the fifth year in a row, Finland has been named the happiest country in the world by the United Nations-sponsored &lt;a href="https://happiness-report.s3.amazonaws.com/2022/WHR%2022.pdf">World Happiness Report&lt;/a>.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note: Most of the top 10 happiest countries are in Europe and supplement or fortify with vitamin D&lt;/strong>&lt;/p></description></item><item><title>Asian men often smoke then die of lung cancer (if you must smoke, take Vitamin D) – meta-analysis</title><link>//localhost:1313/posts/asian-men-often-smoke-then-die-of-lung-cancer-if-you-must-smoke-take-vitamin-d-meta-analysis.html</link><pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/asian-men-often-smoke-then-die-of-lung-cancer-if-you-must-smoke-take-vitamin-d-meta-analysis.html</guid><description>&lt;h4 id="tobacco-smoking-and-mortality-in-asia-a-pooled-meta-analysis">Tobacco Smoking and Mortality in Asia. A Pooled Meta-analysis&lt;/h4>
+&lt;p>JAMA Netw Open. 2019;2(3):e191474. doi:10.1001/jamanetworkopen.2019.1474&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>1,000,000 participants in 20 cohort studies in this Asian meta-analysis&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/low-vitamin-d-is-worse-for-your-health-than-smoking">Low Vitamin D is worse for your health than smoking&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/each-ng-extra-vitamin-d-associated-with-better-breathing-and-2x-better-for-smokers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Each ng extra vitamin D associated with better breathing (and 2X better for smokers) – March 2018">Each ng extra vitamin D associated with better breathing (and 2X better for smokers) – March 2018&lt;/a>&lt;/p></description></item><item><title>Following hip fracture 2,000 IU of vitamin D daily improved quality of life</title><link>//localhost:1313/posts/following-hip-fracture-2000-iu-of-vitamin-d-daily-improved-quality-of-life.html</link><pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/following-hip-fracture-2000-iu-of-vitamin-d-daily-improved-quality-of-life.html</guid><description>&lt;h4 id="effects-of-a-simple-home-exercise-program-and-vitamin-d-supplementation-on-health-related-quality-of-life-after-a-hip-fracture-a-randomized-controlled-trial">Effects of a simple home exercise program and vitamin D supplementation on health-related quality of life after a hip fracture: a randomized controlled trial&lt;/h4>
+&lt;p>Qual Life Res (2019). &lt;a href="https://doi.org/10.1007/s11136-019-02100-4">https://doi.org/10.1007/s11136-019-02100-4&lt;/a>&lt;/p>
+&lt;p>K. Renerts K. Fischer B. Dawson-Hughes E. J. Orav G. FreystaetterH.-P. Simmen H.-C. Pape A. Egli R. TheilerH. A. Bischoff-Ferrari&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>Note: Daily vitamin D takes many months to achieve a level which provides a benefit&lt;/p>
+&lt;p>Note: This study did not notice a benefit until 6 months&lt;/p></description></item><item><title>Healthspan is more important than Lifespan – JAMA</title><link>//localhost:1313/posts/healthspan-is-more-important-than-lifespan-jama.html</link><pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/healthspan-is-more-important-than-lifespan-jama.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#from-lifespan-to-healthspan---2018">From Lifespan to Healthspan - 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#might-be-able-to-square-the-curve-with-vitamin-d">Might be able to “square the curve” with Vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#193-studies-cited-this-study-as-of-dec-2023">193 studies cited this study as of Dec 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="from-lifespan-to-healthspan---2018">From Lifespan to Healthspan - 2018&lt;/h4>
+&lt;p>JAMA. 2018;320(13):1323-1324. doi:10.1001/jama.2018.12621&lt;/p>
+&lt;p>S. Jay Olshansky, PhD1&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+#### Chart from PDF
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;p>&lt;strong>1900&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Many deaths before age 3&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Adult death rates inacreas at age 20, short lifetimes, peak at age 71&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2016&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Adult death rates increase at age 50, long lifetimes, peak at age 90&lt;/p></description></item></channel></rss>

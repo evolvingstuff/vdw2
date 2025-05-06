@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency (for medical professionals with CME test)"
 slug: "vitamin-d-deficiency-for-medical-professionals-with-cme-test"
 aliases:
   - "/Vitamin+D+Deficiency+for+medical+professionals+with+CME+test+–+Oct+2018"
-  - "/tiki-index.php?page_id=10139"
+  - "/10139"
+tiki_page_id: 10139
 date: 2018-10-19
 categories:
   - "Overview for doctors"

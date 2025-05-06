@@ -3,7 +3,8 @@ title: "1170 vaccinations to prevent 1 severe COVID-19 case , vs 1.2 vaccination
 slug: "1170-vaccinations-to-prevent-1-severe-covid-19-case-vs-12-vaccinations-to-prevent-1-case-of-measles"
 aliases:
   - "/1170+vaccinations+to+prevent+1+severe+COVID-19+case+vs+12+vaccinations+to+prevent+1+case+of+Measles"
-  - "/tiki-index.php?page_id=12245"
+  - "/12245"
+tiki_page_id: 12245
 date: 2021-01-20
 categories:
   - "Virus"

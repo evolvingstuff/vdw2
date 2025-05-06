@@ -3,7 +3,8 @@ title: "ADHD risk factors include low Zinc, Vitamin D, Magnesium and Omega-3 (um
 slug: "adhd-risk-factors-include-low-zinc-vitamin-d-magnesium-and-omega-3-umbrella-review"
 aliases:
   - "/ADHD+risk+factors+include+low+Zinc+Vitamin+D+Magnesium+and+Omega-3+umbrella+review+–+Oct+2020"
-  - "/tiki-index.php?page_id=12016"
+  - "/12016"
+tiki_page_id: 12016
 date: 2020-10-20
 categories:
   - "Vitamin D and Magnesium"

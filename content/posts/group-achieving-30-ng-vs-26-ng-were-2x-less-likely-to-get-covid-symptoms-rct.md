@@ -3,7 +3,8 @@ title: "Group achieving 30 ng (vs 26 ng) were 2X less likely to get COVID sympto
 slug: "group-achieving-30-ng-vs-26-ng-were-2x-less-likely-to-get-covid-symptoms-rct"
 aliases:
   - "/Group+achieving+30+ng+vs+26+ng+were+2X+less+likely+to+get+COVID+symptoms+-+RCT+Jan+2022"
-  - "/tiki-index.php?page_id=13303"
+  - "/13303"
+tiki_page_id: 13303
 date: 2022-01-30
 categories:
   - "Intervention"

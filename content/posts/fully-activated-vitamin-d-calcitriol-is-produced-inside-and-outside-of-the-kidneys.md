@@ -3,7 +3,8 @@ title: "Fully-activated Vitamin D (Calcitriol) is produced inside and outside of
 slug: "fully-activated-vitamin-d-calcitriol-is-produced-inside-and-outside-of-the-kidneys"
 aliases:
   - "/Fully-activated+Vitamin+D+Calcitriol+is+produced+inside+and+outside+of+the+kidneys+–+July+2020"
-  - "/tiki-index.php?page_id=12894"
+  - "/12894"
+tiki_page_id: 12894
 date: 2021-09-13
 categories:
   - "Kidney"

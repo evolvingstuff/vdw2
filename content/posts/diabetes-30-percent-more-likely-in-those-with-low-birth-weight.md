@@ -3,7 +3,8 @@ title: "Diabetes 30% more likely in those with low birth weight"
 slug: "diabetes-30-percent-more-likely-in-those-with-low-birth-weight"
 aliases:
   - "/Diabetes+30+more+likely+in+those+with+low+birth+weight+-+June+2023"
-  - "/tiki-index.php?page_id=14488"
+  - "/14488"
+tiki_page_id: 14488
 date: 2023-06-18
 categories:
   - "Pregnancy"

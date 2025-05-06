@@ -3,7 +3,8 @@ title: "Vitamin D reduced COVID-19 inflammation (60,000 IU daily for 8 days) - R
 slug: "vitamin-d-reduced-covid-19-inflammation-60000-iu-daily-for-8-days-rct"
 aliases:
   - "/Vitamin+D+reduced+COVID-19+inflammation+60000+IU+daily+for+8+days+-+RCT+Feb+2021"
-  - "/tiki-index.php?page_id=12347"
+  - "/12347"
+tiki_page_id: 12347
 date: 2021-02-24
 ---
 

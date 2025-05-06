@@ -3,7 +3,8 @@ title: "Critically ill trauma patients - virtually none had even 30 ng of Vitami
 slug: "critically-ill-trauma-patients-virtually-none-had-even-30-ng-of-vitamin-d"
 aliases:
   - "/Critically+ill+trauma+patients+-+virtually+none+had+even+30+ng+of+Vitamin+D+-+Dec+2023"
-  - "/tiki-index.php?page_id=14877"
+  - "/14877"
+tiki_page_id: 14877
 date: 2023-12-10
 categories:
   - "Trauma and surgery"

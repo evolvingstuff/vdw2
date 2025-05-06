@@ -3,7 +3,8 @@ title: "Vitamin D might also help the Long-COVID older adult"
 slug: "vitamin-d-might-also-help-the-long-covid-older-adult"
 aliases:
   - "/Vitamin+D+might+also+help+the+Long-COVID+older+adult+–+Jan+2023"
-  - "/tiki-index.php?page_id=14198"
+  - "/14198"
+tiki_page_id: 14198
 date: 2023-01-07
 categories:
   - "Seniors"

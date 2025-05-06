@@ -3,7 +3,8 @@ title: "Problems after childhood vaccinations - many studies"
 slug: "problems-after-childhood-vaccinations-many-studies"
 aliases:
   - "/Problems+after+childhood+vaccinations+-+many+studies"
-  - "/tiki-index.php?page_id=13586"
+  - "/13586"
+tiki_page_id: 13586
 date: 2022-05-24
 categories:
   - "Top news"

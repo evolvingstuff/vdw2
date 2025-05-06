@@ -3,7 +3,8 @@ title: "Discover overlapping clusters of people with similar vitamin D relations
 slug: "discover-overlapping-clusters-of-people-with-similar-vitamin-d-relationships-via--mixture-models"
 aliases:
   - "/Discover+overlapping+clusters+of+people+with+similar+vitamin+D+relationships+via+finite+mixture+models+–+Dec+2021"
-  - "/tiki-index.php?page_id=13130"
+  - "/13130"
+tiki_page_id: 13130
 date: 2021-12-01
 ---
 

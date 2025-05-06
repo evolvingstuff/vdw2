@@ -3,7 +3,8 @@ title: "Poor genes (DBP, CYP24A1, CYP2R, etc.) restrict Vitamin D to cells, incr
 slug: "poor-genes-dbp-cyp24a1-cyp2r-etc-restrict-vitamin-d-to-cells-increasing-covid-hospitalization"
 aliases:
   - "/Poor+genes+DBP+CYP24A1+CYP2R+etc+restrict+Vitamin+D+to+cells+increasing+COVID+hospitalization+–+May+2022"
-  - "/tiki-index.php?page_id=13568"
+  - "/13568"
+tiki_page_id: 13568
 date: 2022-05-18
 categories:
   - "Genetics"

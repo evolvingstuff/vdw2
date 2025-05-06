@@ -3,7 +3,8 @@ title: "Dental Caries 2.2 X more likely if low Vitamin D (NHANES)"
 slug: "dental-caries-22-x-more-likely-if-low-vitamin-d-nhanes"
 aliases:
   - "/Dental+Caries+22+X+more+likely+if+low+Vitamin+D+NHANES+–+Feb+2024"
-  - "/tiki-index.php?page_id=15058"
+  - "/15058"
+tiki_page_id: 15058
 date: 2024-02-17
 categories:
   - "Dental"

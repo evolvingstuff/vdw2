@@ -3,7 +3,8 @@ title: "Vitamin B12 in addition to Foliate is needed to reduce neural tube defec
 slug: "vitamin-b12-in-addition-to-foliate-is-needed-to-reduce-neural-tube-defects"
 aliases:
   - "/Vitamin+B12+in+addition+to+Foliate+is+needed+to+reduce+neural+tube+defects+–+July+2018"
-  - "/tiki-index.php?page_id=10089"
+  - "/10089"
+tiki_page_id: 10089
 date: 2018-10-03
 categories:
   - "Pregnancy"

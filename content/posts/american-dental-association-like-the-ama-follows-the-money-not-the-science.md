@@ -3,7 +3,8 @@ title: "American Dental Association, like the AMA, follows the money not the sci
 slug: "american-dental-association-like-the-ama-follows-the-money-not-the-science"
 aliases:
   - "/American+Dental+Association+like+the+AMA+follows+the+money+not+the+science+–+March+2019"
-  - "/tiki-index.php?page_id=11289"
+  - "/11289"
+tiki_page_id: 11289
 date: 2019-10-29
 categories:
   - "Dental"

@@ -3,7 +3,8 @@ title: "Antibiotics found in many rivers"
 slug: "antibiotics-found-in-many-rivers"
 aliases:
   - "/Antibiotics+found+in+many+rivers+–+June+2019"
-  - "/tiki-index.php?page_id=10853"
+  - "/10853"
+tiki_page_id: 10853
 date: 2019-06-11
 categories:
   - "Antibiotics, probiotics"

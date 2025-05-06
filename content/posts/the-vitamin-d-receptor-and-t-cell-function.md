@@ -3,7 +3,8 @@ title: "The vitamin d receptor and T cell function"
 slug: "the-vitamin-d-receptor-and-t-cell-function"
 aliases:
   - "/The+vitamin+d+receptor+and+T+cell+function-+June+2013"
-  - "/tiki-index.php?page_id=12806"
+  - "/12806"
+tiki_page_id: 12806
 date: 2021-08-04
 categories:
   - "Immunity"

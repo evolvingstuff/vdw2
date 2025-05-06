@@ -3,7 +3,8 @@ title: "Boosting Immunity with Vitamin D to reduce COVID-19 risks"
 slug: "boosting-immunity-with-vitamin-d-to-reduce-covid-19-risks"
 aliases:
   - "/Boosting+Immunity+with+Vitamin+D+to+reduce+COVID-19+risks+-+Aug+2021"
-  - "/tiki-index.php?page_id=12807"
+  - "/12807"
+tiki_page_id: 12807
 date: 2021-08-06
 categories:
   - "Top news"

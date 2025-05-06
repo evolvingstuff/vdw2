@@ -3,7 +3,8 @@ title: "Better response 6 months after Pfizer vaccinations if higher vitamin D"
 slug: "better-response-6-months-after-pfizer-vaccinations-if-higher-vitamin-d"
 aliases:
   - "/Better+response+6+months+after+Pfizer+vaccinations+if+higher+vitamin+D+–+Aug+2022"
-  - "/tiki-index.php?page_id=13870"
+  - "/13870"
+tiki_page_id: 13870
 date: 2022-08-27
 ---
 

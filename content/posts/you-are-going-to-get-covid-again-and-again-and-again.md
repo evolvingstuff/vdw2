@@ -3,7 +3,8 @@ title: "You Are Going to Get COVID Again … and Again … and Again"
 slug: "you-are-going-to-get-covid-again-and-again-and-again"
 aliases:
   - "/You+Are+Going+to+Get+COVID+Again+and+Again+and+Again"
-  - "/tiki-index.php?page_id=13601"
+  - "/13601"
+tiki_page_id: 13601
 date: 2022-05-27
 categories:
   - "Virus"

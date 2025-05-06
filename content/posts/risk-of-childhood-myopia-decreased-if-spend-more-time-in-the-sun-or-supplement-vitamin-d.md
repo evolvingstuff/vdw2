@@ -3,7 +3,8 @@ title: "Risk of childhood myopia decreased if spend more time in the sun (or sup
 slug: "risk-of-childhood-myopia-decreased-if-spend-more-time-in-the-sun-or-supplement-vitamin-d"
 aliases:
   - "/Risk+of+childhood+myopia+decreased+if+spend+more+time+in+the+sun+or+supplement+vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10739"
+  - "/10739"
+tiki_page_id: 10739
 date: 2019-05-07
 ---
 

@@ -3,7 +3,8 @@ title: "COVID cases and excess deaths exploding in parts of Asia"
 slug: "covid-cases-and-excess-deaths-exploding-in-parts-of-asia"
 aliases:
   - "/COVID+cases+and+excess+deaths+exploding+in+parts+of+Asia+-+April+2022"
-  - "/tiki-index.php?page_id=13463"
+  - "/13463"
+tiki_page_id: 13463
 date: 2022-04-09
 categories:
   - "Virus"

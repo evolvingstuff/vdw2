@@ -3,7 +3,8 @@ title: "Vitamin D reduces CVD by reducing Manganese and Cadmium in blood"
 slug: "vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood"
 aliases:
   - "/Vitamin+D+reduces+CVD+by+reducing+Manganese+and+Cadmium+in+blood+–+Feb+2024"
-  - "/tiki-index.php?page_id=15067"
+  - "/15067"
+tiki_page_id: 15067
 date: 2024-02-22
 categories:
   - "Cardiovascular"

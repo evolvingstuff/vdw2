@@ -3,7 +3,8 @@ title: "4th highest county in the US has a very low COVID-19 rate (high UV, high
 slug: "4th-highest-county-in-the-us-has-a-very-low-covid-19-rate-high-uv-high-vitamin-d"
 aliases:
   - "/4th+highest+county+in+the+US+has+a+very+low+COVID-19+rate+high+UV+high+vitamin+D"
-  - "/tiki-index.php?page_id=12939"
+  - "/12939"
+tiki_page_id: 12939
 date: 2021-09-29
 categories:
   - "UV and Vitamin D"

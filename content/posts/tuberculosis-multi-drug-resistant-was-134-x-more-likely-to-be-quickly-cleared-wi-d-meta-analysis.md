@@ -3,7 +3,8 @@ title: "Tuberculosis (multi-drug resistant) was 13.4 X more likely to be quickly
 slug: "tuberculosis-multi-drug-resistant-was-134-x-more-likely-to-be-quickly-cleared-wi-d-meta-analysis"
 aliases:
   - "/Tuberculosis+multi-drug+resistant+was+134+X+more+likely+to+be+quickly+cleared+with+Vitamin+D+-+Meta-analysis+Feb+2019"
-  - "/tiki-index.php?page_id=10473"
+  - "/10473"
+tiki_page_id: 10473
 date: 2019-02-07
 categories:
   - "Tuberculosis"

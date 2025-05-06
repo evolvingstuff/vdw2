@@ -3,7 +3,8 @@ title: "Bone mineral density improvement by Vitamin D plus fluoride is augmented
 slug: "bone-mineral-density-improvement-by-vitamin-d-plus-fluoride-is-augmented-by-laser-acupuncture-rct"
 aliases:
   - "/Bone+mineral+density+improvement+by+Vitamin+D+plus+fluoride+is+augmented+by+laser+acupuncture+–+RCT+March+2023"
-  - "/tiki-index.php?page_id=14325"
+  - "/14325"
+tiki_page_id: 14325
 date: 2023-03-21
 categories:
   - "Osteoporosis"

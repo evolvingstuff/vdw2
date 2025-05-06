@@ -3,7 +3,8 @@ title: "Hundred's of studies prove that Vitamin D works"
 slug: "hundreds-of-studies-prove-that-vitamin-d-works"
 aliases:
   - "/Hundreds+of+studies+prove+that+Vitamin+D+works"
-  - "/tiki-index.php?page_id=14886"
+  - "/14886"
+tiki_page_id: 14886
 date: 2023-12-14
 categories:
   - "About D - introduction"

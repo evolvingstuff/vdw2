@@ -3,7 +3,8 @@ title: "Magnesium supplementation prevents recurrence of renal stones – 2019"
 slug: "magnesium-supplementation-prevents-recurrence-of-renal-stones-2019"
 aliases:
   - "/Magnesium+supplementation+prevents+recurrence+of+renal+stones+–+2019"
-  - "/tiki-index.php?page_id=13641"
+  - "/13641"
+tiki_page_id: 13641
 date: 2022-06-06
 categories:
   - "Vitamin D and Magnesium"

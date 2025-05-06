@@ -3,7 +3,8 @@ title: "Childhood cancers – give Vitamin D loading dose if low"
 slug: "childhood-cancers-give-vitamin-d-loading-dose-if-low"
 aliases:
   - "/Childhood+cancers+–+give+Vitamin+D+loading+dose+if+low+–+Oct+2021"
-  - "/tiki-index.php?page_id=13023"
+  - "/13023"
+tiki_page_id: 13023
 date: 2021-10-27
 categories:
   - "Loading dose for Vitamin D"

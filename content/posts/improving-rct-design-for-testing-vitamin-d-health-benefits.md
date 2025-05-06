@@ -3,7 +3,8 @@ title: "Improving RCT design for testing Vitamin D health benefits"
 slug: "improving-rct-design-for-testing-vitamin-d-health-benefits"
 aliases:
   - "/Improving+RCT+design+for+testing+Vitamin+D+health+benefits+-+April+2019"
-  - "/tiki-index.php?page_id=10693"
+  - "/10693"
+tiki_page_id: 10693
 date: 2019-04-25
 ---
 

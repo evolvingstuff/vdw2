@@ -3,7 +3,8 @@ title: "Birth defects about 15 percent more likely if low vitamin D while pregna
 slug: "birth-defects-about-15-percent-more-likely-if-low-vitamin-d-while-pregnant"
 aliases:
   - "/Birth+defects+about+15+percent+more+likely+if+low+vitamin+D+while+pregnant+–+Oct+2022"
-  - "/tiki-index.php?page_id=14029"
+  - "/14029"
+tiki_page_id: 14029
 date: 2022-10-21
 categories:
   - "Pregnancy"

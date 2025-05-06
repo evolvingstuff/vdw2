@@ -3,7 +3,8 @@ title: "Vitamin D while in COVID-19 ICU does not help (no surprise)"
 slug: "vitamin-d-while-in-covid-19-icu-does-not-help-no-surprise"
 aliases:
   - "/Vitamin+D+while+in+COVID-19+ICU+does+not+help+no+surprise+–+July+2021"
-  - "/tiki-index.php?page_id=12762"
+  - "/12762"
+tiki_page_id: 12762
 date: 2021-07-23
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Increased pregnancy problems with COVID-19 – meta-analysis and letter 
 slug: "increased-pregnancy-problems-with-covid-19-meta-analysis-and-letter-to-editor"
 aliases:
   - "/Increased+pregnancy+problems+with+COVID-19+–+meta-analysis+and+letter+to+editor+–+April+2021"
-  - "/tiki-index.php?page_id=12586"
+  - "/12586"
+tiki_page_id: 12586
 date: 2021-05-18
 categories:
   - "Pregnancy"

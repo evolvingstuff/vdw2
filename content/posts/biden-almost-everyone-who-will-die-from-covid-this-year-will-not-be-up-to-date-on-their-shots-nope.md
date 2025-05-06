@@ -3,7 +3,8 @@ title: "BIDEN: \"Almost everyone who will die from COVID this year will not be u
 slug: "biden-almost-everyone-who-will-die-from-covid-this-year-will-not-be-up-to-date-on-their-shots-nope"
 aliases:
   - "/BIDEN+Almost+everyone+who+will+die+from+COVID+this+year+will+not+be+up+to+date+on+their+shots+nope+-+Oct+2022"
-  - "/tiki-index.php?page_id=14043"
+  - "/14043"
+tiki_page_id: 14043
 date: 2022-10-26
 categories:
   - "Virus"

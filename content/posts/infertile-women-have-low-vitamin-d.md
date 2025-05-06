@@ -3,7 +3,8 @@ title: "Infertile women have low vitamin D"
 slug: "infertile-women-have-low-vitamin-d"
 aliases:
   - "/Infertile+women+have+low+vitamin+D+–+Sept+2023"
-  - "/tiki-index.php?page_id=14750"
+  - "/14750"
+tiki_page_id: 14750
 date: 2023-10-14
 categories:
   - "Fertility and sperm"

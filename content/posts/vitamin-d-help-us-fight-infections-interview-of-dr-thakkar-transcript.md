@@ -3,7 +3,8 @@ title: "Vitamin D Help Us Fight Infections - interview of Dr. Thakkar (transcrip
 slug: "vitamin-d-help-us-fight-infections-interview-of-dr-thakkar-transcript"
 aliases:
   - "/Vitamin+D+Help+Us+Fight+Infections+-+interview+of+Dr+Thakkar+transcript+Jan+20+2021"
-  - "/tiki-index.php?page_id=12250"
+  - "/12250"
+tiki_page_id: 12250
 date: 2021-01-21
 categories:
   - "Admin Only"

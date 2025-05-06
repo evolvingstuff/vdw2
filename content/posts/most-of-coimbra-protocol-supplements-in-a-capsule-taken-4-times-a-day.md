@@ -3,7 +3,8 @@ title: "Most of Coimbra Protocol supplements in a capsule taken 4 times a day"
 slug: "most-of-coimbra-protocol-supplements-in-a-capsule-taken-4-times-a-day"
 aliases:
   - "/Most+of+Coimbra+Protocol+supplements+in+a+capsule+taken+4+times+a+day+–+June+2019"
-  - "/tiki-index.php?page_id=10883"
+  - "/10883"
+tiki_page_id: 10883
 date: 2019-06-15
 categories:
   - "Multiple Sclerosis"

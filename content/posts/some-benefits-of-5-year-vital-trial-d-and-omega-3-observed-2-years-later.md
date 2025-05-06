@@ -3,7 +3,8 @@ title: "Some benefits of 5 year VITAL trial  (D and Omega-3) observed 2 years la
 slug: "some-benefits-of-5-year-vital-trial-d-and-omega-3-observed-2-years-later"
 aliases:
   - "/Some+benefits+of+5+year+VITAL+trial+D+and+Omega-3+observed+2+years+later+-+Jan+2024"
-  - "/tiki-index.php?page_id=15009"
+  - "/15009"
+tiki_page_id: 15009
 date: 2024-01-29
 categories:
   - "Autoimmune"

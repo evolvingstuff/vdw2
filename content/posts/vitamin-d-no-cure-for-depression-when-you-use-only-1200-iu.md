@@ -3,7 +3,8 @@ title: "Vitamin D - no cure for depression (when you use only 1200 IU)"
 slug: "vitamin-d-no-cure-for-depression-when-you-use-only-1200-iu"
 aliases:
   - "/Vitamin+D+-+no+cure+for+depression+when+you+use+only+1200+IU+–+Aug+2019"
-  - "/tiki-index.php?page_id=11112"
+  - "/11112"
+tiki_page_id: 11112
 date: 2019-08-31
 categories:
   - "Depression"

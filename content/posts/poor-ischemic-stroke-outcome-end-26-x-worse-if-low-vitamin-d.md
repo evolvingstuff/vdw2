@@ -3,7 +3,8 @@ title: "Poor Ischemic stroke outcome (END) 2.6 X worse if low vitamin D"
 slug: "poor-ischemic-stroke-outcome-end-26-x-worse-if-low-vitamin-d"
 aliases:
   - "/Poor+Ischemic+stroke+outcome+END+26+X+worse+if+low+vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=11393"
+  - "/11393"
+tiki_page_id: 11393
 date: 2019-11-26
 categories:
   - "Stroke"

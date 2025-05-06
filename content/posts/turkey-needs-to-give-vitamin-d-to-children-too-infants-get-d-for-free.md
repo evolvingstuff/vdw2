@@ -3,7 +3,8 @@ title: "Turkey needs to give Vitamin D to children too (infants get D for free)"
 slug: "turkey-needs-to-give-vitamin-d-to-children-too-infants-get-d-for-free"
 aliases:
   - "/Turkey+needs+to+give+Vitamin+D+to+children+too+infants+get+D+for+free+–+June+2019"
-  - "/tiki-index.php?page_id=11472"
+  - "/11472"
+tiki_page_id: 11472
 date: 2019-12-18
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Older adults 2.3 X more likely to die if low Vitamin D with high CRP"
 slug: "older-adults-23-x-more-likely-to-die-if-low-vitamin-d-with-high-crp"
 aliases:
   - "/Older+adults+23+X+more+likely+to+die+if+low+Vitamin+D+with+high+CRP+-+Feb+2024"
-  - "/tiki-index.php?page_id=15028"
+  - "/15028"
+tiki_page_id: 15028
 date: 2024-02-05
 categories:
   - "Mortality and D"

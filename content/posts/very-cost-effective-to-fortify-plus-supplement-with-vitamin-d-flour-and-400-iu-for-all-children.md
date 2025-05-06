@@ -3,7 +3,8 @@ title: "Very cost-effective to fortify plus supplement with Vitamin D (flour and
 slug: "very-cost-effective-to-fortify-plus-supplement-with-vitamin-d-flour-and-400-iu-for-all-children"
 aliases:
   - "/Very+cost-effective+to+fortify+plus+supplement+with+Vitamin+D+flour+and+400+IU+for+all+children+–+Aug+2019"
-  - "/tiki-index.php?page_id=11087"
+  - "/11087"
+tiki_page_id: 11087
 date: 2019-08-20
 categories:
   - "Fortification with Vitamin D"

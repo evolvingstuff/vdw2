@@ -3,7 +3,8 @@ title: "Vitamin D Heritability: twin studies – 20 percent to 85 percent, GWAS 
 slug: "vitamin-d-heritability-twin-studies-20-percent-to-85-percent-gwas-5-percent"
 aliases:
   - "/Vitamin+D+Heritability+twin+studies+–+20+percent+to+85+percent+GWAS+5+percent+–+Oct+2018"
-  - "/tiki-index.php?page_id=10119"
+  - "/10119"
+tiki_page_id: 10119
 date: 2018-10-15
 categories:
   - "Genetics"

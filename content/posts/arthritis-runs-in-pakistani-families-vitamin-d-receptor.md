@@ -3,7 +3,8 @@ title: "Arthritis runs in Pakistani families (Vitamin D Receptor)"
 slug: "arthritis-runs-in-pakistani-families-vitamin-d-receptor"
 aliases:
   - "/Arthritis+runs+in+Pakistani+families+Vitamin+D+Receptor+–+March+2019"
-  - "/tiki-index.php?page_id=10581"
+  - "/10581"
+tiki_page_id: 10581
 date: 2019-03-18
 categories:
   - "Rheumatoid Arthritis"

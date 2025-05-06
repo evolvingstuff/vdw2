@@ -3,7 +3,8 @@ title: "Exercise improves bone strength (good), but not bone mineral density (ca
 slug: "exercise-improves-bone-strength-good-but-not-bone-mineral-density-can-be-measured-rct"
 aliases:
   - "/Exercise+improves+bone+strength+good+but+not+bone+mineral+density+can+be+measured+–+RCT+Oct+2021"
-  - "/tiki-index.php?page_id=12962"
+  - "/12962"
+tiki_page_id: 12962
 date: 2021-10-07
 categories:
   - "Osteoporosis"

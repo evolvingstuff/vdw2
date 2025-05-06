@@ -3,7 +3,8 @@ title: "Hemodialysis and Vitamin D - many studies"
 slug: "hemodialysis-and-vitamin-d-many-studies"
 aliases:
   - "/Hemodialysis+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14217"
+  - "/14217"
+tiki_page_id: 14217
 date: 2023-01-20
 categories:
   - "Kidney"

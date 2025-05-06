@@ -3,7 +3,8 @@ title: "FDA proposal: Healthy cereal can have 1 g of fat, 230 mg of sodium and 2
 slug: "fda-proposal-healthy-cereal-can-have-1-g-of-fat-230-mg-of-sodium-and-25-g-of-add-ars-per-serving"
 aliases:
   - "/FDA+proposal+Healthy+cereal+can+have+1+g+of+fat+230+mg+of+sodium+and+25+g+of+added+sugars+per+serving+-+Sept+2022"
-  - "/tiki-index.php?page_id=13949"
+  - "/13949"
+tiki_page_id: 13949
 date: 2022-09-28
 ---
 

@@ -3,7 +3,8 @@ title: "Ivermectin can now be prescribed in Nebraska for COVID-19"
 slug: "ivermectin-can-now-be-prescribed-in-nebraska-for-covid-19"
 aliases:
   - "/Ivermectin+can+now+be+prescribed+in+Nebraska+for+COVID-19+-+Oct+15+2021"
-  - "/tiki-index.php?page_id=13035"
+  - "/13035"
+tiki_page_id: 13035
 date: 2021-10-31
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Pneumonia 6X more likely if very low vitamin D – meta-analysis"
 slug: "pneumonia-6x-more-likely-if-very-low-vitamin-d-meta-analysis"
 aliases:
   - "/Pneumonia+6X+more+likely+if+very+low+vitamin+D+–+meta-analysis+Sept+2019"
-  - "/tiki-index.php?page_id=11246"
+  - "/11246"
+tiki_page_id: 11246
 date: 2019-10-18
 categories:
   - "Breathing"

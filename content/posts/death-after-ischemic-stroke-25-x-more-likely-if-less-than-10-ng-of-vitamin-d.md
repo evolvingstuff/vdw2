@@ -3,7 +3,8 @@ title: "Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vita
 slug: "death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d"
 aliases:
   - "/Death+after+Ischemic+Stroke+25+X+more+likely+if+less+than+10+ng+of+Vitamin+D+–+May+2019"
-  - "/tiki-index.php?page_id=10728"
+  - "/10728"
+tiki_page_id: 10728
 date: 2019-05-02
 categories:
   - "Mortality and D"

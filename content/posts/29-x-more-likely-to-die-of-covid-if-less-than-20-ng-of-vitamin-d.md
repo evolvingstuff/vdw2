@@ -3,7 +3,8 @@ title: "29 X more likely to die of COVID if less than 20 ng of Vitamin D"
 slug: "29-x-more-likely-to-die-of-covid-if-less-than-20-ng-of-vitamin-d"
 aliases:
   - "/29+X+more+likely+to+die+of+COVID+if+less+than+20+ng+of+Vitamin+D+-+March+2022"
-  - "/tiki-index.php?page_id=13486"
+  - "/13486"
+tiki_page_id: 13486
 date: 2022-04-15
 categories:
   - "Mortality and D"

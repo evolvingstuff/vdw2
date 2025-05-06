@@ -3,7 +3,8 @@ title: "COVID-19 Disease and Vitamin D: A Mini-Review"
 slug: "covid-19-disease-and-vitamin-d-a-mini-review"
 aliases:
   - "/COVID-19+Disease+and+Vitamin+D+A+Mini-Review+–+Dec+15+2020"
-  - "/tiki-index.php?page_id=12207"
+  - "/12207"
+tiki_page_id: 12207
 date: 2021-01-09
 categories:
   - "Virus"

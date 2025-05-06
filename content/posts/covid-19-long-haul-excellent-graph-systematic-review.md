@@ -3,7 +3,8 @@ title: "COVID-19 Long haul - excellent graph - systematic review"
 slug: "covid-19-long-haul-excellent-graph-systematic-review"
 aliases:
   - "/COVID-19+Long+haul+-+excellent+graph+-+systematic+review+May+26+2021"
-  - "/tiki-index.php?page_id=12607"
+  - "/12607"
+tiki_page_id: 12607
 date: 2021-05-26
 categories:
   - "Virus"

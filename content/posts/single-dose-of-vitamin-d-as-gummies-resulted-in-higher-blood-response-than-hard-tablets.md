@@ -3,7 +3,8 @@ title: "Single dose of Vitamin D as gummies resulted in higher blood response th
 slug: "single-dose-of-vitamin-d-as-gummies-resulted-in-higher-blood-response-than-hard-tablets"
 aliases:
   - "/Single+dose+of+Vitamin+D+as+gummies+resulted+in+higher+blood+response+than+hard+tablets+–+May+2019"
-  - "/tiki-index.php?page_id=10738"
+  - "/10738"
+tiki_page_id: 10738
 date: 2019-05-07
 categories:
   - "Forms of Vitamin D"

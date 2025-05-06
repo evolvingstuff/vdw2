@@ -3,7 +3,8 @@ title: "Tested positive for COVID, taking probiotics stopped symptoms 5 days soo
 slug: "tested-positive-for-covid-taking-probiotics-stopped-symptoms-5-days-sooner-rct"
 aliases:
   - "/Tested+positive+for+COVID+taking+probiotics+stopped+symptoms+5+days+sooner+-+RCT+Jan+2022"
-  - "/tiki-index.php?page_id=13265"
+  - "/13265"
+tiki_page_id: 13265
 date: 2022-01-18
 categories:
   - "Intervention"

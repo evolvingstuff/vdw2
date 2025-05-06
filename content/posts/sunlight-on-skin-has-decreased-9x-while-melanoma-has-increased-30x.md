@@ -3,7 +3,8 @@ title: "Sunlight on skin has decreased 9X while melanoma has increased 30X"
 slug: "sunlight-on-skin-has-decreased-9x-while-melanoma-has-increased-30x"
 aliases:
   - "/Sunlight+on+skin+has+decreased+9X+while+melanoma+has+increased+30X+–+Feb+2020"
-  - "/tiki-index.php?page_id=11636"
+  - "/11636"
+tiki_page_id: 11636
 date: 2020-02-20
 categories:
   - "Noontime sun and D"

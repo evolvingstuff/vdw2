@@ -3,7 +3,8 @@ title: "Hepatitis normally rare in children: huge increase after lockdown (Adeno
 slug: "hepatitis-normally-rare-in-children-huge-increase-after-lockdown-adenovirus-low-vitamin-d"
 aliases:
   - "/Hepatitis+normally+rare+in+children+huge+increase+after+lockdown+Adenovirus+low+Vitamin+D+-+April+2022"
-  - "/tiki-index.php?page_id=13509"
+  - "/13509"
+tiki_page_id: 13509
 date: 2022-04-22
 categories:
   - "Liver"

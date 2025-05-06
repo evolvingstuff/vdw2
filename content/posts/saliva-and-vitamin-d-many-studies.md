@@ -3,7 +3,8 @@ title: "Saliva and Vitamin D – many studies"
 slug: "saliva-and-vitamin-d-many-studies"
 aliases:
   - "/Saliva+and+Vitamin+D+–+many+studies"
-  - "/tiki-index.php?page_id=10796"
+  - "/10796"
+tiki_page_id: 10796
 date: 2019-05-19
 categories:
   - "Tests for Vitamin D"

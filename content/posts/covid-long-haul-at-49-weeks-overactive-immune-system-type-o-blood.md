@@ -3,7 +3,8 @@ title: "COVID Long-Haul at 49 weeks: overactive immune system, type O blood"
 slug: "covid-long-haul-at-49-weeks-overactive-immune-system-type-o-blood"
 aliases:
   - "/COVID+Long-Haul+at+49+weeks+overactive+immune+system+type+O+blood+-+March+2022"
-  - "/tiki-index.php?page_id=13457"
+  - "/13457"
+tiki_page_id: 13457
 date: 2022-04-07
 categories:
   - "Virus"

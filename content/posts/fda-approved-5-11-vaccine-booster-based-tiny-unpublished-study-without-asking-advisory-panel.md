@@ -3,7 +3,8 @@ title: "FDA approved 5-11 vaccine booster (based tiny unpublished study without 
 slug: "fda-approved-5-11-vaccine-booster-based-tiny-unpublished-study-without-asking-advisory-panel"
 aliases:
   - "/FDA+approved+5-11+vaccine+booster+based+tiny+unpublished+study+without+asking+advisory+panel+May+2022"
-  - "/tiki-index.php?page_id=13566"
+  - "/13566"
+tiki_page_id: 13566
 date: 2022-05-17
 categories:
   - "Infant-Child"

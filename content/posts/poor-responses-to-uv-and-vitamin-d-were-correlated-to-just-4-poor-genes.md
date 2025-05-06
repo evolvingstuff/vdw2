@@ -3,7 +3,8 @@ title: "Poor responses to UV and Vitamin D were correlated to just 4 poor genes"
 slug: "poor-responses-to-uv-and-vitamin-d-were-correlated-to-just-4-poor-genes"
 aliases:
   - "/Poor+responses+to+UV+and+Vitamin+D+were+correlated+to+just+4+poor+genes+–+June+2019"
-  - "/tiki-index.php?page_id=10839"
+  - "/10839"
+tiki_page_id: 10839
 date: 2019-06-06
 categories:
   - "UV and Vitamin D"

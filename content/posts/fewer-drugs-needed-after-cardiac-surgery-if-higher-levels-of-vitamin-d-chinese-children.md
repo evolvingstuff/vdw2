@@ -3,7 +3,8 @@ title: "Fewer drugs needed after cardiac surgery if higher levels of vitamin D (
 slug: "fewer-drugs-needed-after-cardiac-surgery-if-higher-levels-of-vitamin-d-chinese-children"
 aliases:
   - "/Fewer+drugs+needed+after+cardiac+surgery+if+higher+levels+of+vitamin+D+Chinese+children+–+July+2021"
-  - "/tiki-index.php?page_id=12829"
+  - "/12829"
+tiki_page_id: 12829
 date: 2021-08-16
 categories:
   - "Trauma and surgery"

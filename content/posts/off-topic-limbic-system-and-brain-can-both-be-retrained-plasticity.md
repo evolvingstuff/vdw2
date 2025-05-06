@@ -3,7 +3,8 @@ title: "Off topic: Limbic System and Brain can both be retrained (plasticity)"
 slug: "off-topic-limbic-system-and-brain-can-both-be-retrained-plasticity"
 aliases:
   - "/Off+topic+Limbic+System+and+Brain+can+both+be+retrained+plasticity+–+March+2019"
-  - "/tiki-index.php?page_id=10578"
+  - "/10578"
+tiki_page_id: 10578
 date: 2019-03-17
 ---
 

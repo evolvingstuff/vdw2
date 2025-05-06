@@ -3,7 +3,8 @@ title: "Four Magnesium Deficiency Questionnaires for women"
 slug: "four-magnesium-deficiency-questionnaires-for-women"
 aliases:
   - "/Four+Magnesium+Deficiency+Questionnaires+for+women+-+July+2020"
-  - "/tiki-index.php?page_id=13624"
+  - "/13624"
+tiki_page_id: 13624
 date: 2022-06-01
 categories:
   - "Vitamin D and Magnesium"

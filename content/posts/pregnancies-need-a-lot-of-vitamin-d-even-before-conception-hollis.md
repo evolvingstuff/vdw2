@@ -3,7 +3,8 @@ title: "Pregnancies need a lot of vitamin D, even before conception - Hollis"
 slug: "pregnancies-need-a-lot-of-vitamin-d-even-before-conception-hollis"
 aliases:
   - "/Pregnancies+need+a+lot+of+vitamin+D+even+before+conception+-+Hollis+Dec+2018"
-  - "/tiki-index.php?page_id=10330"
+  - "/10330"
+tiki_page_id: 10330
 date: 2018-12-22
 categories:
   - "Pregnancy"

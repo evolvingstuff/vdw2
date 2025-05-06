@@ -3,7 +3,8 @@ title: "Many doctors continue to believe 2,000 IU of vitamin D is max (Hungary i
 slug: "many-doctors-continue-to-believe-2000-iu-of-vitamin-d-is-max-hungary-in-this-case"
 aliases:
   - "/Many+doctors+continue+to+believe+2000+IU+of+vitamin+D+is+max+Hungary+in+this+case–+Dec+2021"
-  - "/tiki-index.php?page_id=13152"
+  - "/13152"
+tiki_page_id: 13152
 date: 2021-12-07
 categories:
   - "Deficiency of Vitamin D"

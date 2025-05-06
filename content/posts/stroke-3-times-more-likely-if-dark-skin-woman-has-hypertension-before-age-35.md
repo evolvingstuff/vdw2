@@ -3,7 +3,8 @@ title: "Stroke 3 times more likely if dark skin woman has Hypertension before ag
 slug: "stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35"
 aliases:
   - "/Stroke+3+times+more+likely+if+dark+skin+woman+has+Hypertension+before+age+35+-+Feb+2024"
-  - "/tiki-index.php?page_id=15023"
+  - "/15023"
+tiki_page_id: 15023
 date: 2024-02-02
 categories:
   - "Skin - Dark"

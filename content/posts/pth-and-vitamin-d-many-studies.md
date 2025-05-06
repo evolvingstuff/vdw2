@@ -3,7 +3,8 @@ title: "PTH and Vitamin D - many studies"
 slug: "pth-and-vitamin-d-many-studies"
 aliases:
   - "/PTH+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14180"
+  - "/14180"
+tiki_page_id: 14180
 date: 2022-12-29
 categories:
   - "Genetics"

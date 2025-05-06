@@ -3,7 +3,8 @@ title: "Polio incident in London - virus detected in sewer"
 slug: "polio-incident-in-london-virus-detected-in-sewer"
 aliases:
   - "/Polio+incident+in+London+-+virus+detected+in+sewer+-+June+2022"
-  - "/tiki-index.php?page_id=13696"
+  - "/13696"
+tiki_page_id: 13696
 date: 2022-06-22
 categories:
   - "Vitamin D in Europe"

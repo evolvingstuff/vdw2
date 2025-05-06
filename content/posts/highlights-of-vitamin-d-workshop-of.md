@@ -3,7 +3,8 @@ title: "Highlights of Vitamin D Workshop of"
 slug: "highlights-of-vitamin-d-workshop-of"
 aliases:
   - "/Highlights+of+Vitamin+D+Workshop+of+May+2018"
-  - "/tiki-index.php?page_id=10633"
+  - "/10633"
+tiki_page_id: 10633
 date: 2019-03-31
 categories:
   - "Conference"

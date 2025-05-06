@@ -3,7 +3,8 @@ title: "10,000 IU of Vitamin D for 7 years with no excessive Calcium in 4,800 pa
 slug: "10000-iu-of-vitamin-d-for-7-years-with-no-excessive-calcium-in-4800-patients"
 aliases:
   - "/10000+IU+of+Vitamin+D+for+7+years+with+no+excessive+Calcium+in+4800+patients+–+Dec+2018"
-  - "/tiki-index.php?page_id=10765"
+  - "/10765"
+tiki_page_id: 10765
 date: 2019-05-12
 categories:
   - "How much Vitamin D"

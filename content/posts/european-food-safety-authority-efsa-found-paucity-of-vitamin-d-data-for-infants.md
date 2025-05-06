@@ -3,7 +3,8 @@ title: "European Food Safety Authority (EFSA) found “paucity” of Vitamin D d
 slug: "european-food-safety-authority-efsa-found-paucity-of-vitamin-d-data-for-infants"
 aliases:
   - "/European+Food+Safety+Authority+EFSA+found+paucity+of+Vitamin+D+data+for+infants+–+Nov+2019"
-  - "/tiki-index.php?page_id=11382"
+  - "/11382"
+tiki_page_id: 11382
 date: 2019-11-21
 categories:
   - "Vitamin D in Europe"

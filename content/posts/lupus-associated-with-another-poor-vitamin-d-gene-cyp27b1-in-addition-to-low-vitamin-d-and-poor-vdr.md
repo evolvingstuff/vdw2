@@ -3,7 +3,8 @@ title: "Lupus associated with another poor vitamin D gene (CYP27B1 – in additi
 slug: "lupus-associated-with-another-poor-vitamin-d-gene-cyp27b1-in-addition-to-low-vitamin-d-and-poor-vdr"
 aliases:
   - "/Lupus+associated+with+another+poor+vitamin+D+gene+CYP27B1+–+in+addition+to+low+Vitamin+D+and+poor+VDR+–+Aug+2022"
-  - "/tiki-index.php?page_id=14067"
+  - "/14067"
+tiki_page_id: 14067
 date: 2022-11-04
 categories:
   - "Lupus"

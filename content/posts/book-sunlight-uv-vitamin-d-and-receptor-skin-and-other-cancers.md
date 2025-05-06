@@ -3,7 +3,8 @@ title: "Book: Sunlight, UV, Vitamin D and Receptor, Skin and other Cancers"
 slug: "book-sunlight-uv-vitamin-d-and-receptor-skin-and-other-cancers"
 aliases:
   - "/Book+Sunlight+UV+Vitamin+D+and+Receptor+Skin+and+other+Cancers+-+Dec+2020"
-  - "/tiki-index.php?page_id=12128"
+  - "/12128"
+tiki_page_id: 12128
 date: 2020-12-09
 categories:
   - "Noontime sun and D"

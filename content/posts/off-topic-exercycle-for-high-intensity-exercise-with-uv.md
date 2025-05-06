@@ -3,7 +3,8 @@ title: "Off Topic: Exercycle for high-intensity exercise with UV"
 slug: "off-topic-exercycle-for-high-intensity-exercise-with-uv"
 aliases:
   - "/Off+Topic+Exercycle+for+high-intensity+exercise+with+UV"
-  - "/tiki-index.php?page_id=13168"
+  - "/13168"
+tiki_page_id: 13168
 date: 2021-12-10
 categories:
   - "Sports and Vitamin D"

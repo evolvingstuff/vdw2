@@ -3,7 +3,8 @@ title: "More fertility associated with higher vitamin D"
 slug: "more-fertility-associated-with-higher-vitamin-d"
 aliases:
   - "/More+fertility+associated+with+higher+vitamin+D+-+Dec+2023"
-  - "/tiki-index.php?page_id=14922"
+  - "/14922"
+tiki_page_id: 14922
 date: 2023-12-26
 categories:
   - "Fertility and sperm"

@@ -3,7 +3,8 @@ title: "How tooth decay due to vitamin D deficiency  came to be treated with Flu
 slug: "how-tooth-decay-due-to-vitamin-d-deficiency-came-to-be-treated-with-fluoride"
 aliases:
   - "/How+tooth+decay+due+to+vitamin+D+deficiency+came+to+be+treated+with+Fluoride+-+Dec+2021"
-  - "/tiki-index.php?page_id=13165"
+  - "/13165"
+tiki_page_id: 13165
 date: 2021-12-10
 categories:
   - "Dental"

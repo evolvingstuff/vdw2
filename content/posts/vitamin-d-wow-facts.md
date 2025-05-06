@@ -3,7 +3,8 @@ title: "Vitamin D WOW facts"
 slug: "vitamin-d-wow-facts"
 aliases:
   - "/Vitamin+D+WOW+facts"
-  - "/tiki-index.php?page_id=11714"
+  - "/11714"
+tiki_page_id: 11714
 date: 2020-04-05
 ---
 

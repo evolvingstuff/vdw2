@@ -3,7 +3,8 @@ title: "Cancer mortality reduced 40 pcnt by 2000 IU Vitamin D daily if normal we
 slug: "cancer-mortality-reduced-40-pcnt-by-2000-iu-vitamin-d-daily-if-normal-weight-meta-analysis"
 aliases:
   - "/Cancer+mortality+reduced+40+pcnt+by+2000+IU+Vitamin+D+daily+if+normal+weight+–+Meta-analysis+June+2022"
-  - "/tiki-index.php?page_id=13729"
+  - "/13729"
+tiki_page_id: 13729
 date: 2022-07-03
 categories:
   - "Mortality and D"

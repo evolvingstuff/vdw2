@@ -3,7 +3,8 @@ title: "High Blood Pressure reduced by Vitamin D supplementation in seniors and 
 slug: "high-blood-pressure-reduced-by-vitamin-d-supplementation-in-seniors-and-obese-meta-analysis"
 aliases:
   - "/High+Blood+Pressure+reduced+by+Vitamin+D+supplementation+in+seniors+and+obese+–+meta-analysis+May+2019"
-  - "/tiki-index.php?page_id=10773"
+  - "/10773"
+tiki_page_id: 10773
 date: 2019-05-15
 categories:
   - "Meta-analysis of Vitamin D"

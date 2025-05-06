@@ -3,7 +3,8 @@ title: "After reaching Vitamin D plateau we need to evaluate response"
 slug: "after-reaching-vitamin-d-plateau-we-need-to-evaluate-response"
 aliases:
   - "/After+reaching+Vitamin+D+plateau+we+need+to+evaluate+response"
-  - "/tiki-index.php?page_id=14688"
+  - "/14688"
+tiki_page_id: 14688
 date: 2023-09-18
 categories:
   - "Admin Only"

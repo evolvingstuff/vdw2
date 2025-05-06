@@ -3,7 +3,8 @@ title: "COVID-19 treatment outside of hospital – Vitamin D, zinc, etc."
 slug: "covid-19-treatment-outside-of-hospital-vitamin-d-zinc-etc"
 aliases:
   - "/COVID-19+treatment+outside+of+hospital+–+Vitamin+D+zinc+etc+–+May+2021"
-  - "/tiki-index.php?page_id=12578"
+  - "/12578"
+tiki_page_id: 12578
 date: 2021-05-12
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Passengers from Uganda now screened for Ebola (Vitamin D should help)"
 slug: "passengers-from-uganda-now-screened-for-ebola-vitamin-d-should-help"
 aliases:
   - "/Passengers+from+Uganda+now+screened+for+Ebola+Vitamin+D+should+help+-+Oct+7+2022"
-  - "/tiki-index.php?page_id=13987"
+  - "/13987"
+tiki_page_id: 13987
 date: 2022-10-07
 categories:
   - "Virus"

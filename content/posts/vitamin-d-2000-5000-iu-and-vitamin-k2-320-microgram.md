@@ -3,7 +3,8 @@ title: "Vitamin D 2000-5,000 IU and Vitamin K2 320 microgram"
 slug: "vitamin-d-2000-5000-iu-and-vitamin-k2-320-microgram"
 aliases:
   - "/Vitamin+D+2000-5000+IU+and+Vitamin+K2+320+microgram+–+June+2018"
-  - "/tiki-index.php?page_id=10255"
+  - "/10255"
+tiki_page_id: 10255
 date: 2018-12-01
 categories:
   - "Vitamin D and Vitamin K"

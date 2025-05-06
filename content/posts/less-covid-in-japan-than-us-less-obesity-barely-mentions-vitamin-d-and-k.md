@@ -3,7 +3,8 @@ title: "Less COVID in Japan than US: less obesity (barely mentions Vitamin D and
 slug: "less-covid-in-japan-than-us-less-obesity-barely-mentions-vitamin-d-and-k"
 aliases:
   - "/Less+COVID+in+Japan+than+US+less+obesity+barely+mentions+Vitamin+D+and+K+-+Feb+2022"
-  - "/tiki-index.php?page_id=13332"
+  - "/13332"
+tiki_page_id: 13332
 date: 2022-02-12
 categories:
   - "Obesity"

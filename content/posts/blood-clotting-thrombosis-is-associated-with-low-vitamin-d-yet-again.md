@@ -3,7 +3,8 @@ title: "Blood clotting (Thrombosis) is associated with low Vitamin D (yet again)
 slug: "blood-clotting-thrombosis-is-associated-with-low-vitamin-d-yet-again"
 aliases:
   - "/Blood+clotting+Thrombosis+is+associated+with+low+Vitamin+D+yet+again"
-  - "/tiki-index.php?page_id=11269"
+  - "/11269"
+tiki_page_id: 11269
 date: 2019-10-24
 categories:
   - "Stroke"

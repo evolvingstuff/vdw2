@@ -3,7 +3,8 @@ title: "Most Diabetics getting 40,000 IU of vitamin D weekly did not get to 30 n
 slug: "most-diabetics-getting-40000-iu-of-vitamin-d-weekly-did-not-get-to-30-ng-needed--iendly-form-rct"
 aliases:
   - "/Most+Diabetics+getting+40000+IU+of+vitamin+D+weekly+did+not+get+to+30+ng+needed+gut-friendly+form+-+RCT+June+2020"
-  - "/tiki-index.php?page_id=13126"
+  - "/13126"
+tiki_page_id: 13126
 date: 2021-11-30
 categories:
   - "Diabetes"

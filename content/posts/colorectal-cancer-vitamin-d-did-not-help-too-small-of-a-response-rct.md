@@ -3,7 +3,8 @@ title: "Colorectal Cancer – vitamin D did not help (too small of a response) �
 slug: "colorectal-cancer-vitamin-d-did-not-help-too-small-of-a-response-rct"
 aliases:
   - "/Colorectal+Cancer+–+vitamin+D+did+not+help+too+small+of+a+response+–+RCT+Oct+2022"
-  - "/tiki-index.php?page_id=14054"
+  - "/14054"
+tiki_page_id: 14054
 date: 2022-10-29
 categories:
   - "Cancer - Colon"

@@ -3,7 +3,8 @@ title: "Breast Cancer Trial using monotherapy vitamin D will probably fail"
 slug: "breast-cancer-trial-using-monotherapy-vitamin-d-will-probably-fail"
 aliases:
   - "/Breast+Cancer+Trial+using+monotherapy+vitamin+D+will+probably+fail+–+Nov+2021"
-  - "/tiki-index.php?page_id=13044"
+  - "/13044"
+tiki_page_id: 13044
 date: 2021-11-02
 categories:
   - "Cancer - Breast"

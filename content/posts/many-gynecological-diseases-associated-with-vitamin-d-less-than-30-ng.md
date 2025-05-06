@@ -3,7 +3,8 @@ title: "Many gynecological diseases associated with Vitamin D less than 30 ng"
 slug: "many-gynecological-diseases-associated-with-vitamin-d-less-than-30-ng"
 aliases:
   - "/Many+gynecological+diseases+associated+with+Vitamin+D+less+than+30+ng+–+Nov+2021"
-  - "/tiki-index.php?page_id=13063"
+  - "/13063"
+tiki_page_id: 13063
 date: 2021-11-08
 categories:
   - "Women"

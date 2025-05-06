@@ -3,7 +3,8 @@ title: "Indoor athletes have 4.5 ng less Vitamin D (Asia in this case) – meta-
 slug: "indoor-athletes-have-45-ng-less-vitamin-d-asia-in-this-case-meta-analysis"
 aliases:
   - "/Indoor+athletes+have+45+ng+less+Vitamin+D+Asia+in+this+case+–+meta-analysis+April+2023"
-  - "/tiki-index.php?page_id=14401"
+  - "/14401"
+tiki_page_id: 14401
 date: 2023-04-28
 categories:
   - "Sports and Vitamin D"

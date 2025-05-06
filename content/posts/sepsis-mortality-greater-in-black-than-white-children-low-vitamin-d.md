@@ -3,7 +3,8 @@ title: "Sepsis mortality greater in Black than White children (low vitamin D)"
 slug: "sepsis-mortality-greater-in-black-than-white-children-low-vitamin-d"
 aliases:
   - "/Sepsis+mortality+greater+in+Black+than+White+children+low+vitamin+D+-+Dec+2023"
-  - "/tiki-index.php?page_id=14857"
+  - "/14857"
+tiki_page_id: 14857
 date: 2023-12-03
 categories:
   - "Skin - Dark"

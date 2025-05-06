@@ -3,7 +3,8 @@ title: "Mucosal membranes (mouth, lungs, nose, intestines, etc) can activate Vit
 slug: "mucosal-membranes-mouth-lungs-nose-intestines-etc-can-activate-vitamin-d"
 aliases:
   - "/Mucosal+membranes+mouth+lungs+nose+intestines+etc+can+activate+Vitamin+D+–+July+2020"
-  - "/tiki-index.php?page_id=11952"
+  - "/11952"
+tiki_page_id: 11952
 date: 2020-09-13
 categories:
   - "Vitamin D Receptor"

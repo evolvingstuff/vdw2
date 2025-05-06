@@ -3,7 +3,8 @@ title: "Pfizer Vaccine efficacy drops to 84 pcnt after 6 months (Delta not menti
 slug: "pfizer-vaccine-efficacy-drops-to-84-pcnt-after-6-months-delta-not-mentioned"
 aliases:
   - "/Pfizer+Vaccine+efficacy+drops+to+84+pcnt+after+6+months+Delta+not+mentioned+-+July+28+2021"
-  - "/tiki-index.php?page_id=12814"
+  - "/12814"
+tiki_page_id: 12814
 date: 2021-08-07
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Air pollution decreases Vitamin D levels (while pregnant in this case)"
 slug: "air-pollution-decreases-vitamin-d-levels-while-pregnant-in-this-case"
 aliases:
   - "/Air+pollution+decreases+Vitamin+D+levels+while+pregnant+in+this+case+–+July+2022"
-  - "/tiki-index.php?page_id=13576"
+  - "/13576"
+tiki_page_id: 13576
 date: 2022-05-20
 categories:
   - "Deficiency of Vitamin D"

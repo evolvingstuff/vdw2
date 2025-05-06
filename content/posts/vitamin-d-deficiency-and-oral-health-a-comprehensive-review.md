@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency and Oral Health: A Comprehensive Review"
 slug: "vitamin-d-deficiency-and-oral-health-a-comprehensive-review"
 aliases:
   - "/Vitamin+D+Deficiency+and+Oral+Health+A+Comprehensive+Review+–+May+2020"
-  - "/tiki-index.php?page_id=12189"
+  - "/12189"
+tiki_page_id: 12189
 date: 2021-01-02
 categories:
   - "Dental"

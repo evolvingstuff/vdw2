@@ -3,7 +3,8 @@ title: "How Multiple Sclerosis might be prevented by Vitamin D"
 slug: "how-multiple-sclerosis-might-be-prevented-by-vitamin-d"
 aliases:
   - "/How+Multiple+Sclerosis+might+be+prevented+by+Vitamin+D+-June+2023"
-  - "/tiki-index.php?page_id=14536"
+  - "/14536"
+tiki_page_id: 14536
 date: 2023-07-15
 categories:
   - "Multiple Sclerosis"

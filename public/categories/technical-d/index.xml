@@ -1,26 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Technical D on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/technical-d/</link>
-    <description>Recent content in Technical D on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/technical-d/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The effects of vitamin D on different types of cells</title>
-      <link>http://localhost:1313/posts/the-effects-of-vitamin-d-on-different-types-of-cells/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-effects-of-vitamin-d-on-different-types-of-cells/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-effects-of-vitamin-d-on-different-types-of-cells&#34;&gt;The effects of vitamin D on different types of cells&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#portion-of-the-graphical-abstract&#34;&gt;Portion of the graphical abstract&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#note-there-are-5300-types-of-cells-in-the-mouse-brain-as-of-dec-2023&#34;&gt;Note: There are 5,300 types of cells in the mouse brain as of Dec 2023&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;the-effects-of-vitamin-d-on-different-types-of-cells&#34;&gt;The effects of vitamin D on different types of cells&lt;/h4&gt;&#xA;&lt;p&gt;Journal Steroids  December 2023, &lt;a href=&#34;https://doi.org/10.1016/j.steroids.2023.109350&#34;&gt;https://doi.org/10.1016/j.steroids.2023.109350&lt;/a&gt; PDF is behind paywall&lt;/p&gt;&#xA;&lt;p&gt;Mária Janubová, Ingrid Žitňanová&lt;/p&gt;&#xA;&lt;p&gt;Vitamin D is necessary for regulation of calcium and phosphorus metabolism in bones, affects immunity, the cardiovascular system, muscles, skin, epithelium, extracellular matrix, the central nervous system, and plays a role in prevention of aging-associated diseases. Vitamin D receptor is expressed in almost all types of cells and its activation leads to modulation of different signaling pathways. In this review, we have analysed the current knowledge of 1,25-dihydroxyvitamin D3 or 25-hydroxyvitamin D3 effects on metabolism of cells important for the function of the&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Clinical Review of vitamin D</title>
-      <link>http://localhost:1313/posts/clinical-review-of-vitamin-d/</link>
-      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/clinical-review-of-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-sources-physiological-role-biokinetics-deficiency-therapeutic-use-toxicity-and-overview-of-analytical-methods-for-detection-of-vitamin-d-and-its-metabolites&#34;&gt;Vitamin D: sources, physiological role, biokinetics, deficiency, therapeutic use, toxicity, and overview of analytical methods for detection of vitamin D and its metabolites&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-sources-physiological-role-biokinetics-deficiency-therapeutic-use-toxicity-and-overview-of-analytical-methods-for-detection-of-vitamin-d-and-its-metabolites&#34;&gt;Vitamin D: sources, physiological role, biokinetics, deficiency, therapeutic use, toxicity, and overview of analytical methods for detection of vitamin D and its metabolites&lt;/h4&gt;&#xA;&lt;p&gt;CRITICAL REVIEWS IN CLINICAL LABORATORY SCIENCES &lt;a href=&#34;https://doi.org/10.1080/10408363.2022.2070595&#34;&gt;https://doi.org/10.1080/10408363.2022.2070595&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jira Janouseka d , Veronika Pilarov ab&#x9;, Katerina Macakova a&#x9;, Anderson Nomura c,d, Jessica Veiga-Matos c,d, Diana Dias da Silva c,d,e, Fernando Remiaoc,d ( , Luciano Sasof 0, Katerina Mala-Ladovag ©, Josef Malyg 0 Lucie Novakovab  and Premysl Mladenkah 0&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technical D on VitaminDWiki</title><link>//localhost:1313/categories/technical-d.html</link><description>Recent content in Technical D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/technical-d/index.xml" rel="self" type="application/rss+xml"/><item><title>The effects of vitamin D on different types of cells</title><link>//localhost:1313/posts/the-effects-of-vitamin-d-on-different-types-of-cells.html</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/the-effects-of-vitamin-d-on-different-types-of-cells.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-effects-of-vitamin-d-on-different-types-of-cells">The effects of vitamin D on different types of cells&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#portion-of-the-graphical-abstract">Portion of the graphical abstract&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#note-there-are-5300-types-of-cells-in-the-mouse-brain-as-of-dec-2023">Note: There are 5,300 types of cells in the mouse brain as of Dec 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-effects-of-vitamin-d-on-different-types-of-cells">The effects of vitamin D on different types of cells&lt;/h4>
+&lt;p>Journal Steroids December 2023, &lt;a href="https://doi.org/10.1016/j.steroids.2023.109350">https://doi.org/10.1016/j.steroids.2023.109350&lt;/a> PDF is behind paywall&lt;/p>
+&lt;p>Mária Janubová, Ingrid Žitňanová&lt;/p>
+&lt;p>Vitamin D is necessary for regulation of calcium and phosphorus metabolism in bones, affects immunity, the cardiovascular system, muscles, skin, epithelium, extracellular matrix, the central nervous system, and plays a role in prevention of aging-associated diseases. Vitamin D receptor is expressed in almost all types of cells and its activation leads to modulation of different signaling pathways. In this review, we have analysed the current knowledge of 1,25-dihydroxyvitamin D3 or 25-hydroxyvitamin D3 effects on metabolism of cells important for the function of the&lt;/p></description></item><item><title>Clinical Review of vitamin D</title><link>//localhost:1313/posts/clinical-review-of-vitamin-d.html</link><pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/clinical-review-of-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-sources-physiological-role-biokinetics-deficiency-therapeutic-use-toxicity-and-overview-of-analytical-methods-for-detection-of-vitamin-d-and-its-metabolites">Vitamin D: sources, physiological role, biokinetics, deficiency, therapeutic use, toxicity, and overview of analytical methods for detection of vitamin D and its metabolites&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-sources-physiological-role-biokinetics-deficiency-therapeutic-use-toxicity-and-overview-of-analytical-methods-for-detection-of-vitamin-d-and-its-metabolites">Vitamin D: sources, physiological role, biokinetics, deficiency, therapeutic use, toxicity, and overview of analytical methods for detection of vitamin D and its metabolites&lt;/h4>
+&lt;p>CRITICAL REVIEWS IN CLINICAL LABORATORY SCIENCES &lt;a href="https://doi.org/10.1080/10408363.2022.2070595">https://doi.org/10.1080/10408363.2022.2070595&lt;/a>&lt;/p>
+&lt;p>Jira Janouseka d , Veronika Pilarov ab	, Katerina Macakova a	, Anderson Nomura c,d, Jessica Veiga-Matos c,d, Diana Dias da Silva c,d,e, Fernando Remiaoc,d ( , Luciano Sasof 0, Katerina Mala-Ladovag ©, Josef Malyg 0 Lucie Novakovab and Premysl Mladenkah 0&lt;/p></description></item></channel></rss>

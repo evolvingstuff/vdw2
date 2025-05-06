@@ -3,7 +3,8 @@ title: "Prisoners have low Vitamin D - many studies"
 slug: "prisoners-have-low-vitamin-d-many-studies"
 aliases:
   - "/Prisoners+have+low+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14494"
+  - "/14494"
+tiki_page_id: 14494
 date: 2023-06-23
 ---
 

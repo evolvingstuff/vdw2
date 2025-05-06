@@ -3,7 +3,8 @@ title: "Vitamin D Myths - DOSE"
 slug: "vitamin-d-myths-dose"
 aliases:
   - "/Vitamin+D+Myths+-+DOSE"
-  - "/tiki-index.php?page_id=10792"
+  - "/10792"
+tiki_page_id: 10792
 date: 2019-05-18
 categories:
   - "Top news"

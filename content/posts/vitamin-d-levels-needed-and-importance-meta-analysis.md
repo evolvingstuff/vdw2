@@ -3,7 +3,8 @@ title: "Vitamin D levels needed and importance - meta-analysis"
 slug: "vitamin-d-levels-needed-and-importance-meta-analysis"
 aliases:
   - "/Vitamin+D+levels+needed+and+importance+-+meta-analysis+March+2021"
-  - "/tiki-index.php?page_id=12471"
+  - "/12471"
+tiki_page_id: 12471
 date: 2021-04-04
 categories:
   - "Meta-analysis of Vitamin D"

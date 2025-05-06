@@ -3,7 +3,8 @@ title: "Annweiler recommendations for Vitamin D for COVID-19, etc. often start w
 slug: "annweiler-recommendations-for-vitamin-d-for-covid-19-etc-often-start-with-200000"
 aliases:
   - "/Annweiler+recommendations+for+Vitamin+D+for+COVID-19+etc+often+start+with+200000+-+June+2021"
-  - "/tiki-index.php?page_id=12678"
+  - "/12678"
+tiki_page_id: 12678
 date: 2021-06-22
 categories:
   - "Virus"

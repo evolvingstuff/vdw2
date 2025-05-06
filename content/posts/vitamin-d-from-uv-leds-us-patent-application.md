@@ -3,7 +3,8 @@ title: "Vitamin D from UV LEDs – US patent application"
 slug: "vitamin-d-from-uv-leds-us-patent-application"
 aliases:
   - "/Vitamin+D+from+UV+LEDs+–+US+patent+application+–+Oct+2019"
-  - "/tiki-index.php?page_id=11235"
+  - "/11235"
+tiki_page_id: 11235
 date: 2019-10-15
 categories:
   - "UV and Vitamin D"

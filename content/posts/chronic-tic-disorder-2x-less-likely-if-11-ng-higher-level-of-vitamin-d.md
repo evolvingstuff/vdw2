@@ -3,7 +3,8 @@ title: "Chronic tic disorder 2X less likely if 11 ng higher level of vitamin D"
 slug: "chronic-tic-disorder-2x-less-likely-if-11-ng-higher-level-of-vitamin-d"
 aliases:
   - "/Chronic+tic+disorder+2X+less+likely+if+11+ng+higher+level+of+vitamin+D+–+April+2021"
-  - "/tiki-index.php?page_id=12496"
+  - "/12496"
+tiki_page_id: 12496
 date: 2021-04-14
 categories:
   - "Infant-Child"

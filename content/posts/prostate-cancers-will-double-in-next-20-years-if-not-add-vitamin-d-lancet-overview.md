@@ -3,7 +3,8 @@ title: "Prostate Cancers will double in next 20 years (if not add vitamin D) –
 slug: "prostate-cancers-will-double-in-next-20-years-if-not-add-vitamin-d-lancet-overview"
 aliases:
   - "/Prostate+Cancers+will+double+in+next+20+years+if+not+add+vitamin+D+–+Lancet+overview+April+2024"
-  - "/tiki-index.php?page_id=15221"
+  - "/15221"
+tiki_page_id: 15221
 date: 2024-04-19
 ---
 

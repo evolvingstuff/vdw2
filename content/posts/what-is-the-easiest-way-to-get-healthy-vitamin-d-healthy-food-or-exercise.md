@@ -3,7 +3,8 @@ title: "What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exer
 slug: "what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise"
 aliases:
   - "/What+is+the+easiest+way+to+get+healthy+Vitamin+D+Healthy+Food+or+Exercise"
-  - "/tiki-index.php?page_id=10042"
+  - "/10042"
+tiki_page_id: 10042
 date: 2018-09-16
 categories:
   - "Health"

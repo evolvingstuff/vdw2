@@ -3,7 +3,8 @@ title: "Worse COVID during 3Q pregnancy if 2.5 ng lower Vitamin D – meta-analy
 slug: "worse-covid-during-3q-pregnancy-if-25-ng-lower-vitamin-d-meta-analysis"
 aliases:
   - "/Worse+COVID+during+3Q+pregnancy+if+25+ng+lower+Vitamin+D+–+meta-analysis+Sept+2022"
-  - "/tiki-index.php?page_id=13904"
+  - "/13904"
+tiki_page_id: 13904
 date: 2022-09-13
 categories:
   - "Pregnancy"

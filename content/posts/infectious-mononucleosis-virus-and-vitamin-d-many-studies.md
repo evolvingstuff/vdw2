@@ -3,7 +3,8 @@ title: "Infectious Mononucleosis (virus) and Vitamin D - many studies"
 slug: "infectious-mononucleosis-virus-and-vitamin-d-many-studies"
 aliases:
   - "/Infectious+Mononucleosis+virus+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=12472"
+  - "/12472"
+tiki_page_id: 12472
 date: 2021-04-04
 categories:
   - "Loading dose for Vitamin D"

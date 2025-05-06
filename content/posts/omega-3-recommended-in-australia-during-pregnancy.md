@@ -3,7 +3,8 @@ title: "Omega-3 recommended  in Australia during pregnancy"
 slug: "omega-3-recommended-in-australia-during-pregnancy"
 aliases:
   - "/Omega-3+recommended+in+Australia+during+pregnancy+-+April+2021"
-  - "/tiki-index.php?page_id=12494"
+  - "/12494"
+tiki_page_id: 12494
 date: 2021-04-14
 categories:
   - "Pregnancy"

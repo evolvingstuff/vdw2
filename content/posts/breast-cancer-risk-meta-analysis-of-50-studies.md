@@ -3,7 +3,8 @@ title: "Breast Cancer risk - meta-analysis of 50 studies"
 slug: "breast-cancer-risk-meta-analysis-of-50-studies"
 aliases:
   - "/Breast+Cancer+risk+-+meta-analysis+of+50+studies+-+Dec+2019"
-  - "/tiki-index.php?page_id=14331"
+  - "/14331"
+tiki_page_id: 14331
 date: 2023-03-24
 categories:
   - "Cancer - Breast"

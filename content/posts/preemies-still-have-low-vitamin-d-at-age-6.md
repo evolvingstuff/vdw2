@@ -3,7 +3,8 @@ title: "Preemies still have low vitamin D at age 6"
 slug: "preemies-still-have-low-vitamin-d-at-age-6"
 aliases:
   - "/Preemies+still+have+low+vitamin+D+at+age+6+–+Oct+2019"
-  - "/tiki-index.php?page_id=11294"
+  - "/11294"
+tiki_page_id: 11294
 date: 2019-10-30
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Evidence Regarding Vitamin D and Risk of COVID-19 and its Severity"
 slug: "evidence-regarding-vitamin-d-and-risk-of-covid-19-and-its-severity"
 aliases:
   - "/Evidence+Regarding+Vitamin+D+and+Risk+of+COVID-19+and+its+Severity+-+Oct+27+2020"
-  - "/tiki-index.php?page_id=12031"
+  - "/12031"
+tiki_page_id: 12031
 date: 2020-10-29
 categories:
   - "Virus"

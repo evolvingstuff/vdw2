@@ -3,7 +3,8 @@ title: "Vitamin D and Human health, 23 publications in a special issue from 2013
 slug: "vitamin-d-and-human-health-23-publications-in-a-special-issue-from-2013"
 aliases:
   - "/Vitamin+D+and+Human+health+23+publications+in+a+special+issue+from+2013"
-  - "/tiki-index.php?page_id=11239"
+  - "/11239"
+tiki_page_id: 11239
 date: 2019-10-16
 categories:
   - "About D - more info."

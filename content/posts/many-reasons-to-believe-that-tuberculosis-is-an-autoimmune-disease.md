@@ -3,7 +3,8 @@ title: "Many reasons to believe that Tuberculosis is an Autoimmune disease"
 slug: "many-reasons-to-believe-that-tuberculosis-is-an-autoimmune-disease"
 aliases:
   - "/Many+reasons+to+believe+that+Tuberculosis+is+an+Autoimmune+disease+–+June+2022"
-  - "/tiki-index.php?page_id=13704"
+  - "/13704"
+tiki_page_id: 13704
 date: 2022-06-23
 categories:
   - "Tuberculosis"

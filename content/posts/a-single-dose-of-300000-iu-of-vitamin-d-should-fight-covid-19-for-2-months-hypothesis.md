@@ -3,7 +3,8 @@ title: "A single dose of 300,000 IU of vitamin D should fight COVID-19 for 2 mon
 slug: "a-single-dose-of-300000-iu-of-vitamin-d-should-fight-covid-19-for-2-months-hypothesis"
 aliases:
   - "/A+single+dose+of+300000+IU+of+vitamin+D+should+fight+COVID-19+for+2+months+-+Hypothesis+-+Aug+21+2020"
-  - "/tiki-index.php?page_id=11914"
+  - "/11914"
+tiki_page_id: 11914
 date: 2020-08-21
 categories:
   - "Virus"

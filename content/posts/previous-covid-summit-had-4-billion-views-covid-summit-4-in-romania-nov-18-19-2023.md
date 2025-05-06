@@ -3,7 +3,8 @@ title: "Previous COVID Summit had 4 billion views, COVID Summit 4 in Romania Nov
 slug: "previous-covid-summit-had-4-billion-views-covid-summit-4-in-romania-nov-18-19-2023"
 aliases:
   - "/Previous+COVID+Summit+had+4+billion+views+COVID+Summit+4+in+Romania+Nov+18-19+2023"
-  - "/tiki-index.php?page_id=14756"
+  - "/14756"
+tiki_page_id: 14756
 date: 2023-10-16
 categories:
   - "Virus"

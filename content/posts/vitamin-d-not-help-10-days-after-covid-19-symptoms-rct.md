@@ -3,7 +3,8 @@ title: "Vitamin D not help 10 days after COVID-19 symptoms - RCT"
 slug: "vitamin-d-not-help-10-days-after-covid-19-symptoms-rct"
 aliases:
   - "/Vitamin+D+not+help+10+days+after+COVID-19+symptoms+-+RCT+March+2021"
-  - "/tiki-index.php?page_id=12329"
+  - "/12329"
+tiki_page_id: 12329
 date: 2021-02-17
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Multiple Sclerosis: 10 percent fewer relapses for each 10 ng higher leve
 slug: "multiple-sclerosis-10-percent-fewer-relapses-for-each-10-ng-higher-level-of-vitamin-d-meta-analysis"
 aliases:
   - "/Multiple+Sclerosis+10+percent+fewer+relapses+for+each+10+ng+higher+level+of+vitamin+D+–+Meta-analysis+April+2020"
-  - "/tiki-index.php?page_id=11599"
+  - "/11599"
+tiki_page_id: 11599
 date: 2020-01-30
 categories:
   - "Multiple Sclerosis"

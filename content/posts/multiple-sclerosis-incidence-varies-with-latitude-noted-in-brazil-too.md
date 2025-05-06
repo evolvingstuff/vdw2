@@ -3,7 +3,8 @@ title: "Multiple Sclerosis incidence varies with latitude (noted in Brazil too)"
 slug: "multiple-sclerosis-incidence-varies-with-latitude-noted-in-brazil-too"
 aliases:
   - "/Multiple+Sclerosis+incidence+varies+with+latitude+noted+in+Brazil+too+–+Nov+2015"
-  - "/tiki-index.php?page_id=10286"
+  - "/10286"
+tiki_page_id: 10286
 date: 2018-12-07
 categories:
   - "Multiple Sclerosis"

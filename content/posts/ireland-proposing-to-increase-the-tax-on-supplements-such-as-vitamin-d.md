@@ -3,7 +3,8 @@ title: "Ireland proposing to increase the tax on supplements - such as Vitamin D
 slug: "ireland-proposing-to-increase-the-tax-on-supplements-such-as-vitamin-d"
 aliases:
   - "/Ireland+proposing+to+increase+the+tax+on+supplements+-+such+as+Vitamin+D+-+Nov+2018"
-  - "/tiki-index.php?page_id=10245"
+  - "/10245"
+tiki_page_id: 10245
 date: 2018-11-28
 categories:
   - "Vitamin D in Europe"

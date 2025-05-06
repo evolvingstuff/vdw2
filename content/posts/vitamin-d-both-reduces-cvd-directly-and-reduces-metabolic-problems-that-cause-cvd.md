@@ -3,7 +3,8 @@ title: "Vitamin D both reduces CVD directly and reduces metabolic problems that 
 slug: "vitamin-d-both-reduces-cvd-directly-and-reduces-metabolic-problems-that-cause-cvd"
 aliases:
   - "/Vitamin+D+both+reduces+CVD+directly+and+reduces+metabolic+problems+that+cause+CVD+–+May+2023"
-  - "/tiki-index.php?page_id=14446"
+  - "/14446"
+tiki_page_id: 14446
 date: 2023-05-26
 categories:
   - "Cardiovascular"

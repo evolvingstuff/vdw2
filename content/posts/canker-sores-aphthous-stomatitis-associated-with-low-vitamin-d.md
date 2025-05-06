@@ -3,7 +3,8 @@ title: "Canker sores (Aphthous Stomatitis) associated with low vitamin D"
 slug: "canker-sores-aphthous-stomatitis-associated-with-low-vitamin-d"
 aliases:
   - "/Canker+sores+Aphthous+Stomatitis+associated+with+low+vitamin+D+–+Oct+2019"
-  - "/tiki-index.php?page_id=11257"
+  - "/11257"
+tiki_page_id: 11257
 date: 2019-10-22
 ---
 

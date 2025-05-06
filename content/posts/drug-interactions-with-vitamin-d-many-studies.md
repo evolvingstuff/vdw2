@@ -3,7 +3,8 @@ title: "Drug interactions with Vitamin D - many studies"
 slug: "drug-interactions-with-vitamin-d-many-studies"
 aliases:
   - "/Drug+interactions+with+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=15060"
+  - "/15060"
+tiki_page_id: 15060
 date: 2024-02-18
 ---
 

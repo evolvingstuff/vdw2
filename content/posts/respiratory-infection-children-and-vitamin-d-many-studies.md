@@ -3,7 +3,8 @@ title: "Respiratory infection, children and Vitamin D - many studies"
 slug: "respiratory-infection-children-and-vitamin-d-many-studies"
 aliases:
   - "/Respiratory+infection+children+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14521"
+  - "/14521"
+tiki_page_id: 14521
 date: 2023-07-06
 categories:
   - "Deficiency of Vitamin D"

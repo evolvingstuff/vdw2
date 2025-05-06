@@ -3,7 +3,8 @@ title: "Chicken meat with lots of Omega-3 – available, US patent applied for"
 slug: "chicken-meat-with-lots-of-omega-3-available-us-patent-applied-for"
 aliases:
   - "/Chicken+meat+with+lots+of+Omega-3+–+available+US+patent+applied+for+–+Aug+2019"
-  - "/tiki-index.php?page_id=11083"
+  - "/11083"
+tiki_page_id: 11083
 date: 2019-08-17
 categories:
   - "Veterinary and Vitamin D"

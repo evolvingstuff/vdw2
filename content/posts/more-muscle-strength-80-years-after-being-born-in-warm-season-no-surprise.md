@@ -3,7 +3,8 @@ title: "More muscle strength 80 years after being born in warm season (no surpri
 slug: "more-muscle-strength-80-years-after-being-born-in-warm-season-no-surprise"
 aliases:
   - "/More+muscle+strength+80+years+after+being+born+in+warm+season+no+surprise+–+Nov+2022"
-  - "/tiki-index.php?page_id=14110"
+  - "/14110"
+tiki_page_id: 14110
 date: 2022-11-26
 categories:
   - "Seniors"

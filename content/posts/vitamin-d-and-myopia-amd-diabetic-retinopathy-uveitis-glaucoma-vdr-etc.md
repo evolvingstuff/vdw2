@@ -3,7 +3,8 @@ title: "Vitamin D and Myopia, AMD, Diabetic Retinopathy, Uveitis, Glaucoma, VDR 
 slug: "vitamin-d-and-myopia-amd-diabetic-retinopathy-uveitis-glaucoma-vdr-etc"
 aliases:
   - "/Vitamin+D+and+Myopia+AMD+Diabetic+Retinopathy+Uveitis+Glaucoma+VDR+etc+–+May+2015"
-  - "/tiki-index.php?page_id=11366"
+  - "/11366"
+tiki_page_id: 11366
 date: 2019-11-18
 categories:
   - "Vision"

@@ -1,82 +1,364 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Associations on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/associations/</link>
-    <description>Recent content in Associations on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/associations/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vitamin D meta-analyses for different health problems</title>
-      <link>http://localhost:1313/posts/vitamin-d-meta-analyses-for-different-health-problems/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-meta-analyses-for-different-health-problems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meta-analyses of vitamin D, etc, sorted by associated category</title>
-      <link>http://localhost:1313/posts/meta-analyses-of-vitamin-d-etc-sorted-by-associated-category/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meta-analyses-of-vitamin-d-etc-sorted-by-associated-category/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Meta-analyses as of Sept 2022&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;{SPLIT(fixedsize=&amp;ldquo;y&amp;rdquo; colsize=&amp;ldquo;200px|200px|200px&amp;rdquo;)}&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Concern&lt;/td&gt;&#xA;          &lt;td&gt;#&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Pregnancy&lt;/td&gt;&#xA;          &lt;td&gt;47&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Vitamin D Receptor&lt;/td&gt;&#xA;          &lt;td&gt;37&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Diabetes&lt;/td&gt;&#xA;          &lt;td&gt;36&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cardiovascular&lt;/td&gt;&#xA;          &lt;td&gt;35&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Breathing&lt;/td&gt;&#xA;          &lt;td&gt;34&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Virus&lt;/td&gt;&#xA;          &lt;td&gt;29&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mortality&lt;/td&gt;&#xA;          &lt;td&gt;27&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cancers&lt;/td&gt;&#xA;          &lt;td&gt;#&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;  Cancer - Colon&lt;/td&gt;&#xA;          &lt;td&gt;23&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;  Cancer - Breast&lt;/td&gt;&#xA;          &lt;td&gt;22&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;  Cancer&lt;/td&gt;&#xA;          &lt;td&gt;16&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;  Cancer - Prostate&lt;/td&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;  Cancer - Lung&lt;/td&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;  Cancer - Liver&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;  Cancer - Bladder&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;  Cancer - Lymphoma&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Concern&lt;/td&gt;&#xA;          &lt;td&gt;#&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Falls and Fractures&lt;/td&gt;&#xA;          &lt;td&gt;23&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cognitive&lt;/td&gt;&#xA;          &lt;td&gt;21&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hypertension&lt;/td&gt;&#xA;          &lt;td&gt;21&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Omega-3&lt;/td&gt;&#xA;          &lt;td&gt;20&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Infant-Child&lt;/td&gt;&#xA;          &lt;td&gt;17&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Trauma and surgery&lt;/td&gt;&#xA;          &lt;td&gt;16&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Depression&lt;/td&gt;&#xA;          &lt;td&gt;15&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tuberculosis&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Multiple Sclerosis&lt;/td&gt;&#xA;          &lt;td&gt;13&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Seniors&lt;/td&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Parkinson&lt;/td&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Kidney&lt;/td&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sports&lt;/td&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Magnesium&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Calcium&lt;/td&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Concern&lt;/td&gt;&#xA;          &lt;td&gt;#&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Bone - Health&lt;/td&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Skin&lt;/td&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Osteoporosis&lt;/td&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Loading dose&lt;/td&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Gut&lt;/td&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Intervention&lt;/td&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Stroke&lt;/td&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Rheumatoid Arthritis&lt;/td&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Vision&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Vitamin D3 not D2&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Psoriasis&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;ADHD&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Autism&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Obesity&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Optimum&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D is indispensable for the health of women - editorial</title>
-      <link>http://localhost:1313/posts/vitamin-d-is-indispensable-for-the-health-of-women-editorial/</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-is-indispensable-for-the-health-of-women-editorial/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-for-clinical-diseases-in-women-an-indispensable-factor-in-medicine-and-dentistry&#34;&gt;Vitamin D for Clinical Diseases in Women: An Indispensable Factor in Medicine and Dentistry&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-for-clinical-diseases-in-women-an-indispensable-factor-in-medicine-and-dentistry&#34;&gt;Vitamin D for Clinical Diseases in Women: An Indispensable Factor in Medicine and Dentistry&lt;/h4&gt;&#xA;&lt;p&gt;J. Clin. Med. 2022, 11, 3104. &lt;a href=&#34;https://doi.org/10.3390/jcm11113104&#34;&gt;https://doi.org/10.3390/jcm11113104&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dario Calafiore  * , Leonzio Fortunato 2© and Mario Migliario 3,*&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Physical Medicine and Rehabilitation Unit, Department of Neurosciences, ASST Carlo Poma, 46100 Mantova, Italy&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dentistry Unit, Department of Health Sciences, University of Catanzaro &amp;ldquo;Magna Graecia&amp;rdquo;,88100 Catanzaro, Italy; &lt;a href=&#34;mailto:leo@unicz.it&#34;&gt;leo@unicz.it&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D fights Coronary Artery Disease in many ways – when will it be used in therapy</title>
-      <link>http://localhost:1313/posts/vitamin-d-fights-coronary-artery-disease-in-many-ways-when-will-it-be-used-in-therapy/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-fights-coronary-artery-disease-in-many-ways-when-will-it-be-used-in-therapy/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#low-levels-of-vitamin-d-and-coronary-artery-disease-is-it-time-for-therapy&#34;&gt;Low levels of vitamin D and coronary artery disease: Is it time for therapy?&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;low-levels-of-vitamin-d-and-coronary-artery-disease-is-it-time-for-therapy&#34;&gt;Low levels of vitamin D and coronary artery disease: Is it time for therapy?&lt;/h4&gt;&#xA;&lt;p&gt;Kardiol Pol. 2022;80(4):409-416. &lt;a href=&#34;https://doi.org/10.33963/KP.a2022.0079.&#34;&gt;doi: 10.33963/KP.a2022.0079.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Monica Verdoia 1 2, Rocco Gioscia 1, Matteo Nardin 3, Andrea Rognoni 1 2, Giuseppe De Luca 4&lt;/p&gt;&#xA;&lt;h5 id=&#34;vitamin-d-and-atherosclerosis-mechanistic-links&#34;&gt;Vitamin D and atherosclerosis: mechanistic links&lt;/h5&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;The association between vitamin D and the prevalence and severity of coronary artery disease (CAD), major established cardiovascular risk factors, and acute ischemic events has been consistently demonstrated in large-scale observational studies and meta-analyses, with relevant prognostic implications. The rise in prevalence of hypovitaminosis D in recent years, reaching pandemic pro-portions, has pointed to the importance of the identification and optimization of the indications and strategies for the therapeutic use of vitamin D, with particular relevance for cardiovascular health. However, vitamin D supplementation has provided so far inconsistent results in primary prevention, with even fewer data reported in patients with established CAD. The present review aims to provide an updated overview of the available evidence and potential therapeutic applications of vitaminD in patients with CAD.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Role of Magnesium in the Pathogenesis of Metabolic Disorders</title>
-      <link>http://localhost:1313/posts/the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders/</link>
-      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders&#34;&gt;The Role of Magnesium in the Pathogenesis of Metabolic Disorders&lt;/a&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#chart-magnesium-and-metabolic-disorders&#34;&gt;Chart Magnesium and metabolic disorders&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#magnesium-and-high-cholesterol-meta-analyses&#34;&gt;Magnesium and High Cholesterol Meta-analyses&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders&#34;&gt;The Role of Magnesium in the Pathogenesis of Metabolic Disorders&lt;/h3&gt;&#xA;&lt;p&gt;Nutrients 2022, 14(9), 1714; &lt;a href=&#34;https://doi.org/10.3390/nu14091714&#34;&gt;https://doi.org/10.3390/nu14091714&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;by Marta Pelczyńska *ORCID,Małgorzata MoszakORCID and Paweł BogdańskiORCID&lt;/p&gt;&#xA;&lt;p&gt;Department of Treatment of Obesity, Metabolic Disorders and Clinical Dietetics, Poznań University of Medical Sciences, 84 Szamarzewskiego Street, 60-569 Poznań, Poland&lt;/p&gt;&#xA;&lt;p&gt;Magnesium (Mg) is an essential nutrient for maintaining vital physiological functions. It is involved in many fundamental processes, and Mg deficiency is often correlated with negative health outcomes. On the one hand, most western civilizations consume less than the recommended daily allowance of Mg. On the other hand, a growing body of evidence has indicated that chronic hypomagnesemia may be implicated in the pathogenesis of various metabolic disorders such as&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Associations of VIRUS category to others in VitaminDWiki</title>
-      <link>http://localhost:1313/posts/associations-of-virus-category-to-others-in-vitamindwiki/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/associations-of-virus-category-to-others-in-vitamindwiki/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Magnesium fights diabetes (yet again)– meta-analysis</title>
-      <link>http://localhost:1313/posts/magnesium-fights-diabetes-yet-again-meta-analysis/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/magnesium-fights-diabetes-yet-again-meta-analysis/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#oral-magnesium-supplementation-for-treating-glucose-metabolism-parameters-in-people-with-or-at-risk-of-diabetes-a-systematic-review-and-meta-analysis-of-double-blind-randomized-controlled-trials&#34;&gt;Oral Magnesium Supplementation for Treating Glucose Metabolism Parameters in People with or at Risk of Diabetes: A Systematic Review and Meta-Analysis of Double-Blind Randomized Controlled Trials&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;oral-magnesium-supplementation-for-treating-glucose-metabolism-parameters-in-people-with-or-at-risk-of-diabetes-a-systematic-review-and-meta-analysis-of-double-blind-randomized-controlled-trials&#34;&gt;Oral Magnesium Supplementation for Treating Glucose Metabolism Parameters in People with or at Risk of Diabetes: A Systematic Review and Meta-Analysis of Double-Blind Randomized Controlled Trials&lt;/h4&gt;&#xA;&lt;p&gt;Nutrients 2021, 13(11), 4074; &lt;a href=&#34;https://doi.org/10.3390/nu13114074&#34;&gt;https://doi.org/10.3390/nu13114074&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;by Nicola Veronese 1,*ORCID,Ligia J. Dominguez 1,2,Damiano Pizzol 3ORCID,Jacopo Demurtas 4,5ORCID,Lee Smith 6ORCID andMario Barbagallo 1ORCID&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>VitaminD and Omega TEST</title>
-      <link>http://localhost:1313/posts/vitamind-and-omega-test/</link>
-      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamind-and-omega-test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vitamin C</title>
-      <link>http://localhost:1313/posts/vitamin-c/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-c/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;It appears that taking vitamin C orally many times a day&lt;br&gt;&#xA;is similar to getting high dose vitamin C via injections&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-c-needed-to-precent-and-treat-cancer----march-2024&#34;&gt;Vitamin C needed to precent and treat Cancer -  March 2024&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-csources-physiological-role-kinetics-deficiency-use-toxicity-and-determination---feb-2021&#34;&gt;Vitamin C—Sources, Physiological Role, Kinetics, Deficiency, Use, Toxicity, and Determination - Feb 2021&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#neuroprotective-properties-of-vitamin-c-a-scoping-review-of-pre-clinical-and-clinical-studies---feb-2021&#34;&gt;Neuroprotective properties of vitamin C: A Scoping Review of pre-clinical and clinical studies - Feb 2021&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-role-of-vitamin-c-in-two-distinct-physiological-states-physical-activity-and-sleep---dec-2020&#34;&gt;The Role of Vitamin C in Two Distinct Physiological States: Physical Activity and Sleep - Dec 2020&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#mortality-in-septic-patients-treated-with-vitamin-c-a-systematic-meta-analysis-jan-2021&#34;&gt;Mortality in septic patients treated with vitamin C: a systematic meta-analysis Jan 2021&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-c-and-immune-function---nov-2017&#34;&gt;Vitamin C and Immune Function - Nov 2017&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#special-issue-on-vitamin-c-in-nutrients---2017--15-studies&#34;&gt;Special issue on Vitamin C in Nutrients - 2017  (15 studies)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-c-consumption-has-decreased&#34;&gt;Vitamin C consumption has decreased&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-c-books-have-not-looked-at-them&#34;&gt;Vitamin C books (have not looked at them)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-ultimate-vitamin-c-crash-course---collagen-hormones-chemistry--more---video-aug-2019&#34;&gt;The Ultimate Vitamin C Crash Course - Collagen, Hormones, Chemistry &amp;amp; More - video Aug 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-c-category-is-associated-with-virus-25-zinc-20-magnesium-11-vitamin-k-9-vitamin-a-8-resveratrol-8-supplement-7-vitamin-b12-7-boron-6-omega-3-6-calcium-6-iron-4-iodine-4-curcumin-4&#34;&gt;Vitamin C category is associated with: Virus 25, Zinc 20, Magnesium, 11, Vitamin K 9, Vitamin A 8, Resveratrol 8, Supplement 7, Vitamin B12 7, Boron, 6, Omega-3 6, Calcium 6, Iron 4, Iodine 4, Curcumin 4&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-c-needed-to-precent-and-treat-cancer----march-2024&#34;&gt;Vitamin C needed to precent and treat Cancer -  March 2024&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://walterstanley.substack.com/p/cancer-prevention-and-treatment?utm_source=post-email-title&amp;amp;publication_id=1870924&amp;amp;post_id=142308753&amp;amp;utm_campaign=email-post-title&amp;amp;isFreemail=true&amp;amp;r=ofo3r&amp;amp;triedRedirect=true&amp;amp;utm_medium=email&#34;&gt;WALTER STANLEY Substack&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Better than Daily</title>
-      <link>http://localhost:1313/posts/better-than-daily/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/better-than-daily/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki--weekly-monthly-vitamin-d-are-typically-better-than-daily---many-studiespostsweekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies&#34;&gt;VitaminDWiki – &lt;a href=&#34;http://localhost:1313/posts/weekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies&#34;&gt;Weekly, Monthly Vitamin D are typically better than daily - many studies&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---a-hrefpoststake-vitamin-d3-daily-weekly-or-bi-weekly-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-take-vitamin-d3-daily-weekly-or-bi-weeklytake-vitamin-d3-daily-weekly-or-bi-weeklya---many-studies&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/take-vitamin-d3-daily-weekly-or-bi-weekly&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly&#34;&gt;Take vitamin D3 daily, weekly, or bi-weekly&lt;/a&gt; - many studies&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#examples-of-non-daily-vitamin-d-studies-does-not-include-loading-dose&#34;&gt;Examples of non-daily vitamin D studies (does not include loading dose)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#some-people-mistakenly-believe-that-the-body-cannot-store-vitamin-d-so-must-be-taken-daily&#34;&gt;Some people mistakenly believe that the body cannot store vitamin D, so must be taken daily&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki--weekly-monthly-vitamin-d-are-typically-better-than-daily---many-studiespostsweekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies&#34;&gt;VitaminDWiki – &lt;a href=&#34;http://localhost:1313/posts/weekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies&#34;&gt;Weekly, Monthly Vitamin D are typically better than daily - many studies&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki---a-hrefpoststake-vitamin-d3-daily-weekly-or-bi-weekly-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-take-vitamin-d3-daily-weekly-or-bi-weeklytake-vitamin-d3-daily-weekly-or-bi-weeklya---many-studies&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/take-vitamin-d3-daily-weekly-or-bi-weekly&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly&#34;&gt;Take vitamin D3 daily, weekly, or bi-weekly&lt;/a&gt; - many studies&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;The &lt;a href=&#34;http://localhost:1313/categories/vitamin-d-receptor&#34;&gt;Vitamin D Receptor&lt;/a&gt; is activated by high concentration gradient and 13+ other things&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Associations on VitaminDWiki</title><link>//localhost:1313/categories/associations.html</link><description>Recent content in Associations on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/associations/index.xml" rel="self" type="application/rss+xml"/><item><title>Vitamin D meta-analyses for different health problems</title><link>//localhost:1313/posts/vitamin-d-meta-analyses-for-different-health-problems.html</link><pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-meta-analyses-for-different-health-problems.html</guid><description/></item><item><title>Meta-analyses of vitamin D, etc, sorted by associated category</title><link>//localhost:1313/posts/meta-analyses-of-vitamin-d-etc-sorted-by-associated-category.html</link><pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/meta-analyses-of-vitamin-d-etc-sorted-by-associated-category.html</guid><description>&lt;p>&lt;strong>Meta-analyses as of Sept 2022&lt;/strong>&lt;/p>
+&lt;p>{SPLIT(fixedsize=&amp;ldquo;y&amp;rdquo; colsize=&amp;ldquo;200px|200px|200px&amp;rdquo;)}&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Concern&lt;/td>
+ &lt;td>#&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Pregnancy&lt;/td>
+ &lt;td>47&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vitamin D Receptor&lt;/td>
+ &lt;td>37&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Diabetes&lt;/td>
+ &lt;td>36&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Cardiovascular&lt;/td>
+ &lt;td>35&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Breathing&lt;/td>
+ &lt;td>34&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Virus&lt;/td>
+ &lt;td>29&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Mortality&lt;/td>
+ &lt;td>27&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cancers&lt;/td>
+ &lt;td>#&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>  Cancer - Colon&lt;/td>
+ &lt;td>23&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>  Cancer - Breast&lt;/td>
+ &lt;td>22&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>  Cancer&lt;/td>
+ &lt;td>16&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>  Cancer - Prostate&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>  Cancer - Lung&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>  Cancer - Liver&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>  Cancer - Bladder&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>  Cancer - Lymphoma&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Concern&lt;/td>
+ &lt;td>#&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Falls and Fractures&lt;/td>
+ &lt;td>23&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Cognitive&lt;/td>
+ &lt;td>21&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Hypertension&lt;/td>
+ &lt;td>21&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Omega-3&lt;/td>
+ &lt;td>20&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Infant-Child&lt;/td>
+ &lt;td>17&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Trauma and surgery&lt;/td>
+ &lt;td>16&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Depression&lt;/td>
+ &lt;td>15&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tuberculosis&lt;/td>
+ &lt;td>14&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Multiple Sclerosis&lt;/td>
+ &lt;td>13&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Seniors&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Parkinson&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Kidney&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Sports&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Magnesium&lt;/td>
+ &lt;td>9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Calcium&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Concern&lt;/td>
+ &lt;td>#&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Bone - Health&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Skin&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Osteoporosis&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Loading dose&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Gut&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Intervention&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Stroke&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Rheumatoid Arthritis&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vision&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vitamin D3 not D2&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Psoriasis&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ADHD&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Autism&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Obesity&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Optimum&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Vitamin D is indispensable for the health of women - editorial</title><link>//localhost:1313/posts/vitamin-d-is-indispensable-for-the-health-of-women-editorial.html</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-is-indispensable-for-the-health-of-women-editorial.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-for-clinical-diseases-in-women-an-indispensable-factor-in-medicine-and-dentistry">Vitamin D for Clinical Diseases in Women: An Indispensable Factor in Medicine and Dentistry&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-for-clinical-diseases-in-women-an-indispensable-factor-in-medicine-and-dentistry">Vitamin D for Clinical Diseases in Women: An Indispensable Factor in Medicine and Dentistry&lt;/h4>
+&lt;p>J. Clin. Med. 2022, 11, 3104. &lt;a href="https://doi.org/10.3390/jcm11113104">https://doi.org/10.3390/jcm11113104&lt;/a>&lt;/p>
+&lt;p>Dario Calafiore * , Leonzio Fortunato 2© and Mario Migliario 3,*&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Physical Medicine and Rehabilitation Unit, Department of Neurosciences, ASST Carlo Poma, 46100 Mantova, Italy&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dentistry Unit, Department of Health Sciences, University of Catanzaro &amp;ldquo;Magna Graecia&amp;rdquo;,88100 Catanzaro, Italy; &lt;a href="mailto:leo@unicz.it">leo@unicz.it&lt;/a>&lt;/p></description></item><item><title>Vitamin D fights Coronary Artery Disease in many ways – when will it be used in therapy</title><link>//localhost:1313/posts/vitamin-d-fights-coronary-artery-disease-in-many-ways-when-will-it-be-used-in-therapy.html</link><pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-fights-coronary-artery-disease-in-many-ways-when-will-it-be-used-in-therapy.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#low-levels-of-vitamin-d-and-coronary-artery-disease-is-it-time-for-therapy">Low levels of vitamin D and coronary artery disease: Is it time for therapy?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="low-levels-of-vitamin-d-and-coronary-artery-disease-is-it-time-for-therapy">Low levels of vitamin D and coronary artery disease: Is it time for therapy?&lt;/h4>
+&lt;p>Kardiol Pol. 2022;80(4):409-416. &lt;a href="https://doi.org/10.33963/KP.a2022.0079.">doi: 10.33963/KP.a2022.0079.&lt;/a>&lt;/p>
+&lt;p>Monica Verdoia 1 2, Rocco Gioscia 1, Matteo Nardin 3, Andrea Rognoni 1 2, Giuseppe De Luca 4&lt;/p>
+&lt;h5 id="vitamin-d-and-atherosclerosis-mechanistic-links">Vitamin D and atherosclerosis: mechanistic links&lt;/h5>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>The association between vitamin D and the prevalence and severity of coronary artery disease (CAD), major established cardiovascular risk factors, and acute ischemic events has been consistently demonstrated in large-scale observational studies and meta-analyses, with relevant prognostic implications. The rise in prevalence of hypovitaminosis D in recent years, reaching pandemic pro-portions, has pointed to the importance of the identification and optimization of the indications and strategies for the therapeutic use of vitamin D, with particular relevance for cardiovascular health. However, vitamin D supplementation has provided so far inconsistent results in primary prevention, with even fewer data reported in patients with established CAD. The present review aims to provide an updated overview of the available evidence and potential therapeutic applications of vitaminD in patients with CAD.&lt;/p></description></item><item><title>The Role of Magnesium in the Pathogenesis of Metabolic Disorders</title><link>//localhost:1313/posts/the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders.html</link><pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders">The Role of Magnesium in the Pathogenesis of Metabolic Disorders&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#chart-magnesium-and-metabolic-disorders">Chart Magnesium and metabolic disorders&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#magnesium-and-high-cholesterol-meta-analyses">Magnesium and High Cholesterol Meta-analyses&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h3 id="the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders">The Role of Magnesium in the Pathogenesis of Metabolic Disorders&lt;/h3>
+&lt;p>Nutrients 2022, 14(9), 1714; &lt;a href="https://doi.org/10.3390/nu14091714">https://doi.org/10.3390/nu14091714&lt;/a>&lt;/p>
+&lt;p>by Marta Pelczyńska *ORCID,Małgorzata MoszakORCID and Paweł BogdańskiORCID&lt;/p>
+&lt;p>Department of Treatment of Obesity, Metabolic Disorders and Clinical Dietetics, Poznań University of Medical Sciences, 84 Szamarzewskiego Street, 60-569 Poznań, Poland&lt;/p>
+&lt;p>Magnesium (Mg) is an essential nutrient for maintaining vital physiological functions. It is involved in many fundamental processes, and Mg deficiency is often correlated with negative health outcomes. On the one hand, most western civilizations consume less than the recommended daily allowance of Mg. On the other hand, a growing body of evidence has indicated that chronic hypomagnesemia may be implicated in the pathogenesis of various metabolic disorders such as&lt;/p></description></item><item><title>Associations of VIRUS category to others in VitaminDWiki</title><link>//localhost:1313/posts/associations-of-virus-category-to-others-in-vitamindwiki.html</link><pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/associations-of-virus-category-to-others-in-vitamindwiki.html</guid><description/></item><item><title>Magnesium fights diabetes (yet again)– meta-analysis</title><link>//localhost:1313/posts/magnesium-fights-diabetes-yet-again-meta-analysis.html</link><pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/magnesium-fights-diabetes-yet-again-meta-analysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#oral-magnesium-supplementation-for-treating-glucose-metabolism-parameters-in-people-with-or-at-risk-of-diabetes-a-systematic-review-and-meta-analysis-of-double-blind-randomized-controlled-trials">Oral Magnesium Supplementation for Treating Glucose Metabolism Parameters in People with or at Risk of Diabetes: A Systematic Review and Meta-Analysis of Double-Blind Randomized Controlled Trials&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="oral-magnesium-supplementation-for-treating-glucose-metabolism-parameters-in-people-with-or-at-risk-of-diabetes-a-systematic-review-and-meta-analysis-of-double-blind-randomized-controlled-trials">Oral Magnesium Supplementation for Treating Glucose Metabolism Parameters in People with or at Risk of Diabetes: A Systematic Review and Meta-Analysis of Double-Blind Randomized Controlled Trials&lt;/h4>
+&lt;p>Nutrients 2021, 13(11), 4074; &lt;a href="https://doi.org/10.3390/nu13114074">https://doi.org/10.3390/nu13114074&lt;/a>&lt;/p>
+&lt;p>by Nicola Veronese 1,*ORCID,Ligia J. Dominguez 1,2,Damiano Pizzol 3ORCID,Jacopo Demurtas 4,5ORCID,Lee Smith 6ORCID andMario Barbagallo 1ORCID&lt;/p></description></item><item><title>VitaminD and Omega TEST</title><link>//localhost:1313/posts/vitamind-and-omega-test.html</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamind-and-omega-test.html</guid><description/></item><item><title>Vitamin C</title><link>//localhost:1313/posts/vitamin-c.html</link><pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-c.html</guid><description>&lt;p>&lt;strong>It appears that taking vitamin C orally many times a day&lt;br>
+is similar to getting high dose vitamin C via injections&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-c-needed-to-precent-and-treat-cancer----march-2024">Vitamin C needed to precent and treat Cancer - March 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-csources-physiological-role-kinetics-deficiency-use-toxicity-and-determination---feb-2021">Vitamin C—Sources, Physiological Role, Kinetics, Deficiency, Use, Toxicity, and Determination - Feb 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#neuroprotective-properties-of-vitamin-c-a-scoping-review-of-pre-clinical-and-clinical-studies---feb-2021">Neuroprotective properties of vitamin C: A Scoping Review of pre-clinical and clinical studies - Feb 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-role-of-vitamin-c-in-two-distinct-physiological-states-physical-activity-and-sleep---dec-2020">The Role of Vitamin C in Two Distinct Physiological States: Physical Activity and Sleep - Dec 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mortality-in-septic-patients-treated-with-vitamin-c-a-systematic-meta-analysis-jan-2021">Mortality in septic patients treated with vitamin C: a systematic meta-analysis Jan 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-c-and-immune-function---nov-2017">Vitamin C and Immune Function - Nov 2017&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#special-issue-on-vitamin-c-in-nutrients---2017--15-studies">Special issue on Vitamin C in Nutrients - 2017 (15 studies)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-c-consumption-has-decreased">Vitamin C consumption has decreased&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-c-books-have-not-looked-at-them">Vitamin C books (have not looked at them)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-ultimate-vitamin-c-crash-course---collagen-hormones-chemistry--more---video-aug-2019">The Ultimate Vitamin C Crash Course - Collagen, Hormones, Chemistry &amp;amp; More - video Aug 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-c-category-is-associated-with-virus-25-zinc-20-magnesium-11-vitamin-k-9-vitamin-a-8-resveratrol-8-supplement-7-vitamin-b12-7-boron-6-omega-3-6-calcium-6-iron-4-iodine-4-curcumin-4">Vitamin C category is associated with: Virus 25, Zinc 20, Magnesium, 11, Vitamin K 9, Vitamin A 8, Resveratrol 8, Supplement 7, Vitamin B12 7, Boron, 6, Omega-3 6, Calcium 6, Iron 4, Iodine 4, Curcumin 4&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-c-needed-to-precent-and-treat-cancer----march-2024">Vitamin C needed to precent and treat Cancer - March 2024&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://walterstanley.substack.com/p/cancer-prevention-and-treatment?utm_source=post-email-title&amp;amp;publication_id=1870924&amp;amp;post_id=142308753&amp;amp;utm_campaign=email-post-title&amp;amp;isFreemail=true&amp;amp;r=ofo3r&amp;amp;triedRedirect=true&amp;amp;utm_medium=email">WALTER STANLEY Substack&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Better than Daily</title><link>//localhost:1313/posts/better-than-daily.html</link><pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/better-than-daily.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamindwiki--weekly-monthly-vitamin-d-are-typically-better-than-daily---many-studiespostsweekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies">VitaminDWiki – &lt;a href="//localhost:1313/posts/weekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies">Weekly, Monthly Vitamin D are typically better than daily - many studies&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---a-hrefpoststake-vitamin-d3-daily-weekly-or-bi-weekly-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-take-vitamin-d3-daily-weekly-or-bi-weeklytake-vitamin-d3-daily-weekly-or-bi-weeklya---many-studies">VitaminDWiki - &lt;a href="//localhost:1313/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly&lt;/a> - many studies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#examples-of-non-daily-vitamin-d-studies-does-not-include-loading-dose">Examples of non-daily vitamin D studies (does not include loading dose)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#some-people-mistakenly-believe-that-the-body-cannot-store-vitamin-d-so-must-be-taken-daily">Some people mistakenly believe that the body cannot store vitamin D, so must be taken daily&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamindwiki--weekly-monthly-vitamin-d-are-typically-better-than-daily---many-studiespostsweekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies">VitaminDWiki – &lt;a href="//localhost:1313/posts/weekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies">Weekly, Monthly Vitamin D are typically better than daily - many studies&lt;/a>&lt;/h4>
+&lt;hr>
+&lt;h4 id="vitamindwiki---a-hrefpoststake-vitamin-d3-daily-weekly-or-bi-weekly-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-take-vitamin-d3-daily-weekly-or-bi-weeklytake-vitamin-d3-daily-weekly-or-bi-weeklya---many-studies">VitaminDWiki - &lt;a href="//localhost:1313/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly&lt;/a> - many studies&lt;/h4>
+&lt;p>&lt;strong>The &lt;a href="//localhost:1313/categories/vitamin-d-receptor">Vitamin D Receptor&lt;/a> is activated by high concentration gradient and 13+ other things&lt;/strong>&lt;/p></description></item></channel></rss>

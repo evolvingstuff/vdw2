@@ -3,7 +3,8 @@ title: "Only 1 in 20 Australians get more than 400 IU of vitamin D from food"
 slug: "only-1-in-20-australians-get-more-than-400-iu-of-vitamin-d-from-food"
 aliases:
   - "/Only+1+in+20+Australians+get+more+than+400+IU+of+vitamin+D+from+food+–+March+2022"
-  - "/tiki-index.php?page_id=14278"
+  - "/14278"
+tiki_page_id: 14278
 date: 2023-02-22
 ---
 

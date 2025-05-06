@@ -3,7 +3,8 @@ title: "Dr. Fauci takes 6,000 IU of Vitamin D daily"
 slug: "dr-fauci-takes-6000-iu-of-vitamin-d-daily"
 aliases:
   - "/Dr+Fauci+takes+6000+IU+of+Vitamin+D+daily+–+Sept+2020"
-  - "/tiki-index.php?page_id=11974"
+  - "/11974"
+tiki_page_id: 11974
 date: 2020-09-24
 categories:
   - "Virus"

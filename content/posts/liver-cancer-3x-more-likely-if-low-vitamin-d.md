@@ -3,7 +3,8 @@ title: "Liver Cancer 3X more likely if low Vitamin D"
 slug: "liver-cancer-3x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Liver+Cancer+3X+more+likely+if+low+Vitamin+D+–+Feb+2019"
-  - "/tiki-index.php?page_id=10508"
+  - "/10508"
+tiki_page_id: 10508
 date: 2019-02-21
 categories:
   - "Top news"

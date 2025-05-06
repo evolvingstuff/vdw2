@@ -3,7 +3,8 @@ title: "Acute rheumatic fever associated with lower vitamin D"
 slug: "acute-rheumatic-fever-associated-with-lower-vitamin-d"
 aliases:
   - "/Acute+rheumatic+fever+associated+with+lower+vitamin+D+–+July+2017"
-  - "/tiki-index.php?page_id=10689"
+  - "/10689"
+tiki_page_id: 10689
 date: 2019-04-25
 categories:
   - "Autoimmune"

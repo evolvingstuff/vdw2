@@ -3,7 +3,8 @@ title: "Adding just a little vitamin D does not help (muscle mass in this case) 
 slug: "adding-just-a-little-vitamin-d-does-not-help-muscle-mass-in-this-case-meta-analysis"
 aliases:
   - "/Adding+just+a+little+vitamin+D+does+not+help+muscle+mass+in+this+case+–+meta-analysis+Jan+2021"
-  - "/tiki-index.php?page_id=12307"
+  - "/12307"
+tiki_page_id: 12307
 date: 2021-02-06
 categories:
   - "Seniors"

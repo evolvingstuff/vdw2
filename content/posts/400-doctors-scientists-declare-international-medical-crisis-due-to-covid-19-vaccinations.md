@@ -3,7 +3,8 @@ title: "400 doctors, scientists declare “international medical crisis” due t
 slug: "400-doctors-scientists-declare-international-medical-crisis-due-to-covid-19-vaccinations"
 aliases:
   - "/400+doctors+scientists+declare+international+medical+crisis+due+to+COVID-19+vaccinations+-+Sept+2022"
-  - "/tiki-index.php?page_id=13965"
+  - "/13965"
+tiki_page_id: 13965
 date: 2022-10-02
 categories:
   - "Virus"

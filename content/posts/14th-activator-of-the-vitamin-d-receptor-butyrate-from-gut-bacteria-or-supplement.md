@@ -3,7 +3,8 @@ title: "14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria
 slug: "14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement"
 aliases:
   - "/14th+activator+of+the+Vitamin+D+Receptor+–+Butyrate+from+gut+bacteria+or+supplement"
-  - "/tiki-index.php?page_id=13717"
+  - "/13717"
+tiki_page_id: 13717
 date: 2022-06-28
 categories:
   - "Cancer - Colon"

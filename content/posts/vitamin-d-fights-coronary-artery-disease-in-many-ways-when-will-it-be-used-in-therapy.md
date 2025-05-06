@@ -3,7 +3,8 @@ title: "Vitamin D fights Coronary Artery Disease in many ways – when will it b
 slug: "vitamin-d-fights-coronary-artery-disease-in-many-ways-when-will-it-be-used-in-therapy"
 aliases:
   - "/Vitamin+D+fights+Coronary+Artery+Disease+in+many+ways+–+when+will+it+be+used+in+therapy+–+May+2022"
-  - "/tiki-index.php?page_id=13556"
+  - "/13556"
+tiki_page_id: 13556
 date: 2022-05-13
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Immature lungs in immature newborns – Vitamin D helps"
 slug: "immature-lungs-in-immature-newborns-vitamin-d-helps"
 aliases:
   - "/Immature+lungs+in+immature+newborns+–+Vitamin+D+helps+–+Sept+2018"
-  - "/tiki-index.php?page_id=10161"
+  - "/10161"
+tiki_page_id: 10161
 date: 2018-10-27
 categories:
   - "Breathing"

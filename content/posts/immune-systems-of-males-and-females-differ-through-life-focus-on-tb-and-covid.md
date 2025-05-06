@@ -3,7 +3,8 @@ title: "Immune systems of males and females differ through life – focus on TB 
 slug: "immune-systems-of-males-and-females-differ-through-life-focus-on-tb-and-covid"
 aliases:
   - "/Immune+systems+of+males+and+females+differ+through+life+–+focus+on+TB+and+COVID+–+Feb+2023"
-  - "/tiki-index.php?page_id=14252"
+  - "/14252"
+tiki_page_id: 14252
 date: 2023-02-09
 categories:
   - "Immunity"

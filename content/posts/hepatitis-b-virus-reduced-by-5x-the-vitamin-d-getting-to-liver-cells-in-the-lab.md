@@ -3,7 +3,8 @@ title: "Hepatitis B virus reduced by 5X the Vitamin D getting to liver cells in 
 slug: "hepatitis-b-virus-reduced-by-5x-the-vitamin-d-getting-to-liver-cells-in-the-lab"
 aliases:
   - "/Hepatitis+B+virus+reduced+by+5X+the+Vitamin+D+getting+to+liver+cells+in+the+lab+–+Oct+2018"
-  - "/tiki-index.php?page_id=10141"
+  - "/10141"
+tiki_page_id: 10141
 date: 2018-10-20
 categories:
   - "Liver"

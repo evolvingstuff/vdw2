@@ -3,7 +3,8 @@ title: "Florida A.G. recommends Vitamin D, Zinc, Quercetin, etc. to reduce risk 
 slug: "florida-ag-recommends-vitamin-d-zinc-quercetin-etc-to-reduce-risk-of-covid"
 aliases:
   - "/Florida+AG+recommends+Vitamin+D+Zinc+Quercetin+etc+to+reduce+risk+of+COVID+-+Dec+12+2021"
-  - "/tiki-index.php?page_id=13177"
+  - "/13177"
+tiki_page_id: 13177
 date: 2021-12-13
 categories:
   - "Top news"

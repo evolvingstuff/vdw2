@@ -3,7 +3,8 @@ title: "Lupus can progress to effect brain and nerves"
 slug: "lupus-can-progress-to-effect-brain-and-nerves"
 aliases:
   - "/Lupus+can+progress+to+effect+brain+and+nerves+-+Jan+2024"
-  - "/tiki-index.php?page_id=14947"
+  - "/14947"
+tiki_page_id: 14947
 date: 2024-01-04
 categories:
   - "Lupus"

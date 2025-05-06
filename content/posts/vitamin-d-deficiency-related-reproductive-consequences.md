@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency-Related Reproductive Consequences"
 slug: "vitamin-d-deficiency-related-reproductive-consequences"
 aliases:
   - "/Vitamin+D+Deficiency-Related+Reproductive+Consequences+–+April+2019"
-  - "/tiki-index.php?page_id=10908"
+  - "/10908"
+tiki_page_id: 10908
 date: 2019-06-21
 categories:
   - "Pregnancy"

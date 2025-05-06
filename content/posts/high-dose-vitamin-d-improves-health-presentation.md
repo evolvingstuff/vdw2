@@ -3,7 +3,8 @@ title: "High-dose vitamin D improves health (presentation)"
 slug: "high-dose-vitamin-d-improves-health-presentation"
 aliases:
   - "/High-dose+vitamin+D+improves+health+presentation+-+Aug+30+2021"
-  - "/tiki-index.php?page_id=12866"
+  - "/12866"
+tiki_page_id: 12866
 date: 2021-08-29
 categories:
   - "Conference"

@@ -3,7 +3,8 @@ title: "Vitamin D - Dr. McCullough videos and transcript"
 slug: "vitamin-d-dr-mccullough-videos-and-transcript"
 aliases:
   - "/Vitamin+D+-+Dr+McCullough+videos+and+transcript+Aug+2023"
-  - "/tiki-index.php?page_id=14812"
+  - "/14812"
+tiki_page_id: 14812
 date: 2023-11-09
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Statin muscle problems decreased in 4 out of 5 patients when vitamin D w
 slug: "statin-muscle-problems-decreased-in-4-out-of-5-patients-when-vitamin-d-was-added"
 aliases:
   - "/Statin+muscle+problems+decreased+in+4+out+of+5+patients+when+vitamin+D+was+added+–+June+2022"
-  - "/tiki-index.php?page_id=13724"
+  - "/13724"
+tiki_page_id: 13724
 date: 2022-06-30
 categories:
   - "Cholesterol"

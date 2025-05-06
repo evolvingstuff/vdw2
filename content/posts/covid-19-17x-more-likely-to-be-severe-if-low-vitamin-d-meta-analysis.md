@@ -3,7 +3,8 @@ title: "COVID-19 1.7X more likely to be severe if low Vitamin D - meta-analysis"
 slug: "covid-19-17x-more-likely-to-be-severe-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/COVID-19+17X+more+likely+to+be+severe+if+low+Vitamin+D+-+meta-analysis+Oct+2020"
-  - "/tiki-index.php?page_id=12047"
+  - "/12047"
+tiki_page_id: 12047
 date: 2020-11-05
 categories:
   - "Meta-analysis of Vitamin D"

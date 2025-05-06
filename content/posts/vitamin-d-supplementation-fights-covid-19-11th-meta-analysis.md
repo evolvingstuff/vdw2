@@ -3,7 +3,8 @@ title: "Vitamin D supplementation fights COVID-19 – 11th meta-analysis"
 slug: "vitamin-d-supplementation-fights-covid-19-11th-meta-analysis"
 aliases:
   - "/Vitamin+D+supplementation+fights+COVID-19+–+11th+meta-analysis+Jan+24+2021"
-  - "/tiki-index.php?page_id=12262"
+  - "/12262"
+tiki_page_id: 12262
 date: 2021-01-26
 categories:
   - "Meta-analysis of Vitamin D"

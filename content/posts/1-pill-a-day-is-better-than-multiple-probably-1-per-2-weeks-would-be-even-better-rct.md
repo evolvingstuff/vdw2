@@ -3,7 +3,8 @@ title: "1 pill a day is better than multiple (probably 1 per 2 weeks would be ev
 slug: "1-pill-a-day-is-better-than-multiple-probably-1-per-2-weeks-would-be-even-better-rct"
 aliases:
   - "/1+pill+a+day+is+better+than+multiple+probably+1+per+2+weeks+would+be+even+better+-+RCT+Aug+2022"
-  - "/tiki-index.php?page_id=13865"
+  - "/13865"
+tiki_page_id: 13865
 date: 2022-08-26
 ---
 

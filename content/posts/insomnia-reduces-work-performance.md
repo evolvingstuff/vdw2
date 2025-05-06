@@ -3,7 +3,8 @@ title: "Insomnia reduces work performance"
 slug: "insomnia-reduces-work-performance"
 aliases:
   - "/Insomnia+reduces+work+performance"
-  - "/tiki-index.php?page_id=10172"
+  - "/10172"
+tiki_page_id: 10172
 date: 2018-10-31
 categories:
   - "Sleep"

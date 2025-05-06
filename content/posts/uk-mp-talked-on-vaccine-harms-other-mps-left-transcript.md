@@ -3,7 +3,8 @@ title: "UK MP talked on vaccine harms, other MPs left – transcript"
 slug: "uk-mp-talked-on-vaccine-harms-other-mps-left-transcript"
 aliases:
   - "/UK+MP+talked+on+vaccine+harms+other+MPs+left+–+transcript+Mar+17+2023"
-  - "/tiki-index.php?page_id=14320"
+  - "/14320"
+tiki_page_id: 14320
 date: 2023-03-19
 categories:
   - "Virus"

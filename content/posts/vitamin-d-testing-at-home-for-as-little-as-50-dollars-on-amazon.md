@@ -3,7 +3,8 @@ title: "Vitamin D testing at home – for as little as 50 dollars on Amazon"
 slug: "vitamin-d-testing-at-home-for-as-little-as-50-dollars-on-amazon"
 aliases:
   - "/Vitamin+D+testing+at+home+–+for+as+little+as+50+dollars+on+Amazon"
-  - "/tiki-index.php?page_id=10129"
+  - "/10129"
+tiki_page_id: 10129
 date: 2018-10-17
 categories:
   - "Tests for Vitamin D"

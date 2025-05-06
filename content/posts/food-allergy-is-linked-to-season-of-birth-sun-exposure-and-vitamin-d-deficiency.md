@@ -3,7 +3,8 @@ title: "Food allergy is linked to season of birth, sun exposure, and vitamin D d
 slug: "food-allergy-is-linked-to-season-of-birth-sun-exposure-and-vitamin-d-deficiency"
 aliases:
   - "/Food+allergy+is+linked+to+season+of+birth+sun+exposure+and+vitamin+D+deficiency+–+Jan+2019"
-  - "/tiki-index.php?page_id=10423"
+  - "/10423"
+tiki_page_id: 10423
 date: 2019-01-24
 categories:
   - "Autoimmune"

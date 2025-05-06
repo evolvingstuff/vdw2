@@ -3,7 +3,8 @@ title: "Call to action – more Vitamin D for pregnancies, loading doses are OK 
 slug: "call-to-action-more-vitamin-d-for-pregnancies-loading-doses-are-ok-holick"
 aliases:
   - "/Call+to+action+–+more+Vitamin+D+for+pregnancies+loading+doses+are+OK+–+Holick+Aug+2019"
-  - "/tiki-index.php?page_id=10920"
+  - "/10920"
+tiki_page_id: 10920
 date: 2019-06-24
 categories:
   - "Pregnancy"

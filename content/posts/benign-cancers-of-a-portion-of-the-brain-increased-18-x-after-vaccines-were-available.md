@@ -3,7 +3,8 @@ title: "Benign Cancers of a portion of the brain increased 1.8 X after vaccines 
 slug: "benign-cancers-of-a-portion-of-the-brain-increased-18-x-after-vaccines-were-available"
 aliases:
   - "/Benign+Cancers+of+a+portion+of+the+brain+increased+18+X+after+vaccines+were+available+-+March+2024"
-  - "/tiki-index.php?page_id=15168"
+  - "/15168"
+tiki_page_id: 15168
 date: 2024-03-24
 categories:
   - "Cancer - Other"

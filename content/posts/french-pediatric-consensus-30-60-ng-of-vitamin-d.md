@@ -3,7 +3,8 @@ title: "French pediatric consensus: 30 – 60 ng of Vitamin D"
 slug: "french-pediatric-consensus-30-60-ng-of-vitamin-d"
 aliases:
   - "/French+pediatric+consensus+30+–+60+ng+of+Vitamin+D+–+Feb+2022"
-  - "/tiki-index.php?page_id=13419"
+  - "/13419"
+tiki_page_id: 13419
 date: 2022-03-21
 categories:
   - "Youth"

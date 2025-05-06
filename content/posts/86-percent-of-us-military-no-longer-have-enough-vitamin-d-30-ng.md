@@ -3,7 +3,8 @@ title: "86 percent of US military no longer have enough Vitamin D (30 ng)"
 slug: "86-percent-of-us-military-no-longer-have-enough-vitamin-d-30-ng"
 aliases:
   - "/86+percent+of+US+military+no+longer+have+enough+Vitamin+D+30+ng+–+Dec+2020"
-  - "/tiki-index.php?page_id=12185"
+  - "/12185"
+tiki_page_id: 12185
 date: 2020-12-31
 categories:
   - "Deficiency of Vitamin D"

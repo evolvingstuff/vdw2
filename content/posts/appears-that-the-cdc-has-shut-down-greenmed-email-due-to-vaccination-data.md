@@ -3,7 +3,8 @@ title: "Appears that the CDC has shut down GreenMed email due to vaccination dat
 slug: "appears-that-the-cdc-has-shut-down-greenmed-email-due-to-vaccination-data"
 aliases:
   - "/Appears+that+the+CDC+has+shut+down+GreenMed+email+due+to+vaccination+data+–+June+2019"
-  - "/tiki-index.php?page_id=10905"
+  - "/10905"
+tiki_page_id: 10905
 date: 2019-06-20
 categories:
   - "Virus"

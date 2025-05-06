@@ -3,7 +3,8 @@ title: "Pregnancy loss 9X more likely if male had less than 20 ng of Vitamin D"
 slug: "pregnancy-loss-9x-more-likely-if-male-had-less-than-20-ng-of-vitamin-d"
 aliases:
   - "/Pregnancy+loss+9X+more+likely+if+male+had+less+than+20+ng+of+Vitamin+D+–+July+2021"
-  - "/tiki-index.php?page_id=12757"
+  - "/12757"
+tiki_page_id: 12757
 date: 2021-07-22
 categories:
   - "Pregnancy"

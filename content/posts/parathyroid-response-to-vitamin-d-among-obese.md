@@ -3,7 +3,8 @@ title: "Parathyroid response to Vitamin D among obese"
 slug: "parathyroid-response-to-vitamin-d-among-obese"
 aliases:
   - "/Parathyroid+response+to+Vitamin+D+among+obese"
-  - "/tiki-index.php?page_id=12693"
+  - "/12693"
+tiki_page_id: 12693
 date: 2021-06-27
 categories:
   - "Obesity"

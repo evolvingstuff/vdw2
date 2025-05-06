@@ -3,7 +3,8 @@ title: "The sun appears to generate Co-Q10 in our bodies when we eat our greens 
 slug: "the-sun-appears-to-generate-co-q10-in-our-bodies-when-we-eat-our-greens-greger"
 aliases:
   - "/The+sun+appears+to+generate+Co-Q10+in+our+bodies+when+we+eat+our+greens+–+Greger+April+2016"
-  - "/tiki-index.php?page_id=10731"
+  - "/10731"
+tiki_page_id: 10731
 date: 2019-05-02
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "Hemodialysis associated with very poor mRNA response (wonder if low vita
 slug: "hemodialysis-associated-with-very-poor-mrna-response-wonder-if-low-vitamin-d"
 aliases:
   - "/Hemodialysis+associated+with+very+poor+mRNA+response+wonder+if+low+vitamin+D+–+March+26+2021"
-  - "/tiki-index.php?page_id=12455"
+  - "/12455"
+tiki_page_id: 12455
 date: 2021-03-31
 categories:
   - "Kidney"

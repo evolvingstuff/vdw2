@@ -3,7 +3,8 @@ title: "Preterm birth might be prevented by Vitamin D, Omega-3, etc. (Internatio
 slug: "preterm-birth-might-be-prevented-by-vitamin-d-omega-3-etc-international-survey"
 aliases:
   - "/Preterm+birth+might+be+prevented+by+Vitamin+D+Omega-3+etc+International+survey+–+Jan+2019"
-  - "/tiki-index.php?page_id=10462"
+  - "/10462"
+tiki_page_id: 10462
 date: 2019-02-04
 categories:
   - "Pregnancy"

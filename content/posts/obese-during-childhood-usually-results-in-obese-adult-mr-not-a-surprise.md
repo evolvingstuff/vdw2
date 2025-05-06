@@ -3,7 +3,8 @@ title: "Obese during childhood usually results in obese adult (M.R., not a surpr
 slug: "obese-during-childhood-usually-results-in-obese-adult-mr-not-a-surprise"
 aliases:
   - "/Obese+during+childhood+usually+results+in+obese+adult+MR+not+a+surprise+-+Aug+2022"
-  - "/tiki-index.php?page_id=13832"
+  - "/13832"
+tiki_page_id: 13832
 date: 2022-08-08
 categories:
   - "Obesity"

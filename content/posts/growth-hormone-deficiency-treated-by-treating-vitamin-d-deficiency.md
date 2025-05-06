@@ -3,7 +3,8 @@ title: "Growth Hormone Deficiency treated by treating Vitamin D Deficiency"
 slug: "growth-hormone-deficiency-treated-by-treating-vitamin-d-deficiency"
 aliases:
   - "/Growth+Hormone+Deficiency+treated+by+treating+Vitamin+D+Deficiency+–+March+2019"
-  - "/tiki-index.php?page_id=10582"
+  - "/10582"
+tiki_page_id: 10582
 date: 2019-03-18
 categories:
   - "Infant-Child"

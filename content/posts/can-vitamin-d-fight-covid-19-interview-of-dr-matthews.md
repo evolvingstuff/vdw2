@@ -3,7 +3,8 @@ title: "Can vitamin D fight COVID-19 - interview of Dr. Matthews"
 slug: "can-vitamin-d-fight-covid-19-interview-of-dr-matthews"
 aliases:
   - "/Can+vitamin+D+fight+COVID-19+-+interview+of+Dr+Matthews+Oct+2020"
-  - "/tiki-index.php?page_id=12024"
+  - "/12024"
+tiki_page_id: 12024
 date: 2020-10-26
 categories:
   - "Books, videos on Vitamin D"

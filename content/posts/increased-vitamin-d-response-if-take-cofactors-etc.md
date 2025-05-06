@@ -3,7 +3,8 @@ title: "Increased Vitamin D response if take cofactors, etc"
 slug: "increased-vitamin-d-response-if-take-cofactors-etc"
 aliases:
   - "/Increased+Vitamin+D+response+if+take+cofactors+etc"
-  - "/tiki-index.php?page_id=11307"
+  - "/11307"
+tiki_page_id: 11307
 date: 2019-11-04
 categories:
   - "How much Vitamin D"

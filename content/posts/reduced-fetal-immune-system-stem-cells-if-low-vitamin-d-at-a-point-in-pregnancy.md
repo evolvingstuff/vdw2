@@ -3,7 +3,8 @@ title: "Reduced fetal immune system stem cells if low Vitamin D at a point in pr
 slug: "reduced-fetal-immune-system-stem-cells-if-low-vitamin-d-at-a-point-in-pregnancy"
 aliases:
   - "/Reduced+fetal+immune+system+stem+cells+if+low+Vitamin+D+at+a+point+in+pregnancy+–+Sept+2023"
-  - "/tiki-index.php?page_id=14700"
+  - "/14700"
+tiki_page_id: 14700
 date: 2023-09-25
 categories:
   - "Pregnancy"

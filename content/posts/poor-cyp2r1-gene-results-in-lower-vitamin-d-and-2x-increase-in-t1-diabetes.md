@@ -3,7 +3,8 @@ title: "Poor CYP2R1 gene results in lower vitamin D and 2X increase in T1 Diabet
 slug: "poor-cyp2r1-gene-results-in-lower-vitamin-d-and-2x-increase-in-t1-diabetes"
 aliases:
   - "/Poor+CYP2R1+gene+results+in+lower+vitamin+D+and+2X+increase+in+T1+Diabetes+–+Sept+2019"
-  - "/tiki-index.php?page_id=11770"
+  - "/11770"
+tiki_page_id: 11770
 date: 2020-05-16
 categories:
   - "Diabetes"

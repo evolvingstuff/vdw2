@@ -3,7 +3,8 @@ title: "COVID-19 severity associated with 3 vitamin D genes"
 slug: "covid-19-severity-associated-with-3-vitamin-d-genes"
 aliases:
   - "/COVID-19+severity+associated+with+3+vitamin+D+genes+–+Oct+2021"
-  - "/tiki-index.php?page_id=13007"
+  - "/13007"
+tiki_page_id: 13007
 date: 2021-10-20
 categories:
   - "Genetics"

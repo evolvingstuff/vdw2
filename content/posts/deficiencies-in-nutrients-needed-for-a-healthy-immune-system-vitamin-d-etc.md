@@ -3,7 +3,8 @@ title: "Deficiencies in nutrients needed for a healthy immune system (Vitamin D,
 slug: "deficiencies-in-nutrients-needed-for-a-healthy-immune-system-vitamin-d-etc"
 aliases:
   - "/Deficiencies+in+nutrients+needed+for+a+healthy+immune+system+Vitamin+D+etc+–+June+2020"
-  - "/tiki-index.php?page_id=11803"
+  - "/11803"
+tiki_page_id: 11803
 date: 2020-06-14
 categories:
   - "Supplement"

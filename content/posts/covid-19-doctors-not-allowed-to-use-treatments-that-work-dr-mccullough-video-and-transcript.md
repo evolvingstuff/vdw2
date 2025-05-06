@@ -3,7 +3,8 @@ title: "COVID-19 doctors not allowed to use treatments that work - Dr McCullough
 slug: "covid-19-doctors-not-allowed-to-use-treatments-that-work-dr-mccullough-video-and-transcript"
 aliases:
   - "/COVID-19+doctors+not+allowed+to+use+treatments+that+work+-+Dr+McCullough+Video+and+transcript+May+2021"
-  - "/tiki-index.php?page_id=12616"
+  - "/12616"
+tiki_page_id: 12616
 date: 2021-05-29
 categories:
   - "Books, videos on Vitamin D"

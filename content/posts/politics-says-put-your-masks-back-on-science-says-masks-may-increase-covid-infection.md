@@ -3,7 +3,8 @@ title: "Politics says put your masks back on, Science says masks may INCREASE CO
 slug: "politics-says-put-your-masks-back-on-science-says-masks-may-increase-covid-infection"
 aliases:
   - "/Politics+says+put+your+masks+back+on+Science+says+masks+may+INCREASE+COVID+infection+-+Aug+2023"
-  - "/tiki-index.php?page_id=14633"
+  - "/14633"
+tiki_page_id: 14633
 date: 2023-08-25
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Testing vitamin D in urine may be possible"
 slug: "testing-vitamin-d-in-urine-may-be-possible"
 aliases:
   - "/Testing+vitamin+D+in+urine+may+be+possible+-+March+2024"
-  - "/tiki-index.php?page_id=15139"
+  - "/15139"
+tiki_page_id: 15139
 date: 2024-03-15
 categories:
   - "Tests for Vitamin D"

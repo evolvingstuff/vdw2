@@ -3,7 +3,8 @@ title: "Dementia 10X lower in a group who are outdoors a lot and eat unprocessed
 slug: "dementia-10x-lower-in-a-group-who-are-outdoors-a-lot-and-eat-unprocessed-foods"
 aliases:
   - "/Dementia+10X+lower+in+a+group+who+are+outdoors+a+lot+and+eat+unprocessed+foods+-+March+2022"
-  - "/tiki-index.php?page_id=13400"
+  - "/13400"
+tiki_page_id: 13400
 date: 2022-03-14
 categories:
   - "Cognitive"

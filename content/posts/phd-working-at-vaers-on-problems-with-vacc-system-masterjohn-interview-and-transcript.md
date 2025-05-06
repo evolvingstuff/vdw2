@@ -3,7 +3,8 @@ title: "PhD working at VAERS on problems with vacc system - Masterjohn interview
 slug: "phd-working-at-vaers-on-problems-with-vacc-system-masterjohn-interview-and-transcript"
 aliases:
   - "/PhD+working+at+VAERS+on+problems+with+vacc+system+-+Masterjohn+interview+and+transcript-+Dec+27+2021"
-  - "/tiki-index.php?page_id=13222"
+  - "/13222"
+tiki_page_id: 13222
 date: 2021-12-27
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "33 percent of recent anticancer drugs did not have randomized controlled
 slug: "33-percent-of-recent-anticancer-drugs-did-not-have-randomized-controlled-trials"
 aliases:
   - "/33+percent+of+recent+anticancer+drugs+did+not+have+randomized+controlled+trials+–+June+2020"
-  - "/tiki-index.php?page_id=11806"
+  - "/11806"
+tiki_page_id: 11806
 date: 2020-06-15
 categories:
   - "Off Topic"

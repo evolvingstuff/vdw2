@@ -3,7 +3,8 @@ title: "Male infant 23 percent more likely if preconception vitamin D was high (
 slug: "male-infant-23-percent-more-likely-if-preconception-vitamin-d-was-high-after-prior-preg-loss"
 aliases:
   - "/Male+infant+23+percent+more+likely+if+preconception+vitamin+D+was+high+after+prior+preg+loss+–+June+2019"
-  - "/tiki-index.php?page_id=10910"
+  - "/10910"
+tiki_page_id: 10910
 date: 2019-06-21
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Long-COVID: often had  not been hospitalized"
 slug: "long-covid-often-had-not-been-hospitalized"
 aliases:
   - "/Long-COVID+often+had+not+been+hospitalized+-+May+2022"
-  - "/tiki-index.php?page_id=13570"
+  - "/13570"
+tiki_page_id: 13570
 date: 2022-05-18
 categories:
   - "Virus"

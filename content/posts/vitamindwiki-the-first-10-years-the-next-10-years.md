@@ -3,7 +3,8 @@ title: "VitaminDWiki: the first 10 years, the next 10 years"
 slug: "vitamindwiki-the-first-10-years-the-next-10-years"
 aliases:
   - "/VitaminDWiki+the+first+10+years+the+next+10+years+–+Jan+2020"
-  - "/tiki-index.php?page_id=11458"
+  - "/11458"
+tiki_page_id: 11458
 date: 2019-12-16
 categories:
   - "Top news"

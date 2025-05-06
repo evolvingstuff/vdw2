@@ -3,7 +3,8 @@ title: "Child abuse fractures – 96 percent were associated with poor bones (lo
 slug: "child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc"
 aliases:
   - "/Child+abuse+fractures+–+96+percent+were+associated+with+poor+bones+low+vitamin+D+etc+–+Oct+2019"
-  - "/tiki-index.php?page_id=11223"
+  - "/11223"
+tiki_page_id: 11223
 date: 2019-10-11
 categories:
   - "Bone - Health"

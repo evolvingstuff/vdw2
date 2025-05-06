@@ -3,7 +3,8 @@ title: "Childhood Cancers - Vitamin D can help - many studies"
 slug: "childhood-cancers-vitamin-d-can-help-many-studies"
 aliases:
   - "/Childhood+Cancers+-+Vitamin+D+can+help+-+many+studies"
-  - "/tiki-index.php?page_id=14988"
+  - "/14988"
+tiki_page_id: 14988
 date: 2024-01-20
 categories:
   - "Cancer"

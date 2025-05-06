@@ -3,7 +3,8 @@ title: "Gastric Cancer, Vitamin D, VDR, UV - many studies"
 slug: "gastric-cancer-vitamin-d-vdr-uv-many-studies"
 aliases:
   - "/Gastric+Cancer+Vitamin+D+VDR+UV+-+many+studies"
-  - "/tiki-index.php?page_id=12929"
+  - "/12929"
+tiki_page_id: 12929
 date: 2021-09-27
 categories:
   - "UV and Vitamin D"

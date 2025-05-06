@@ -3,7 +3,8 @@ title: "US young adults – 24 percent have prediabetes (many low-cost ways to t
 slug: "us-young-adults-24-percent-have-prediabetes-many-low-cost-ways-to-treat"
 aliases:
   - "/US+young+adults+–+24+percent+have+prediabetes+many+low-cost+ways+to+treat–+Jan+2020"
-  - "/tiki-index.php?page_id=11546"
+  - "/11546"
+tiki_page_id: 11546
 date: 2020-01-10
 categories:
   - "Diabetes"

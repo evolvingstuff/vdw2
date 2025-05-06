@@ -3,7 +3,8 @@ title: "Following COVID vaccination 31% had neurological problems (Italy)"
 slug: "following-covid-vaccination-31-percent-had-neurological-problems-italy"
 aliases:
   - "/Following+COVID+vaccination+31+had+neurological+problems+Italy+–+Oct+2023"
-  - "/tiki-index.php?page_id=14790"
+  - "/14790"
+tiki_page_id: 14790
 date: 2023-10-28
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Air pollution decreases the amount of vitamin D from the sun (Mendelian 
 slug: "air-pollution-decreases-the-amount-of-vitamin-d-from-the-sun-mendelian-analysis-this-time"
 aliases:
   - "/Air+pollution+decreases+the+amount+of+vitamin+D+from+the+sun+Mendelian+analysis+this+time+–+May+2024"
-  - "/tiki-index.php?page_id=15217"
+  - "/15217"
+tiki_page_id: 15217
 date: 2024-04-17
 ---
 

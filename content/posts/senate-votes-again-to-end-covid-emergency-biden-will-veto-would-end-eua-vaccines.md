@@ -3,7 +3,8 @@ title: "Senate votes again to end COVID emergency, Biden will veto (would end EU
 slug: "senate-votes-again-to-end-covid-emergency-biden-will-veto-would-end-eua-vaccines"
 aliases:
   - "/Senate+votes+again+to+end+COVID+emergency+Biden+will+veto+would+end+EUA+vaccines+-+Nov+2022"
-  - "/tiki-index.php?page_id=14101"
+  - "/14101"
+tiki_page_id: 14101
 date: 2022-11-22
 categories:
   - "Virus"

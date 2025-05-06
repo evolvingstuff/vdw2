@@ -3,7 +3,8 @@ title: "Infertile women 10 percent more likely to die (perhaps due disease assoc
 slug: "infertile-women-10-percent-more-likely-to-die-perhaps-due-disease-associated-with-low-vitamin-d"
 aliases:
   - "/Infertile+women+10+percent+more+likely+to+die+perhaps+due+disease+associated+with+low+vitamin+D+–+Nov+2017"
-  - "/tiki-index.php?page_id=10606"
+  - "/10606"
+tiki_page_id: 10606
 date: 2019-03-23
 categories:
   - "Diabetes"

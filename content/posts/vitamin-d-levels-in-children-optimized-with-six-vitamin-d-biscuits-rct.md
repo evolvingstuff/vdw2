@@ -3,7 +3,8 @@ title: "Vitamin D levels in children optimized with six Vitamin D biscuits – R
 slug: "vitamin-d-levels-in-children-optimized-with-six-vitamin-d-biscuits-rct"
 aliases:
   - "/Vitamin+D+levels+in+children+optimized+with+six+Vitamin+D+biscuits+–+RCT+Nov+2018"
-  - "/tiki-index.php?page_id=11185"
+  - "/11185"
+tiki_page_id: 11185
 date: 2019-10-01
 categories:
   - "Loading dose for Vitamin D"

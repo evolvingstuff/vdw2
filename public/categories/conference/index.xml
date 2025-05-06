@@ -1,145 +1,442 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Conference on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/conference/</link>
-    <description>Recent content in Conference on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/conference/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vitamin D Conference - 6th Minimum, Maximum, Optimum</title>
-      <link>http://localhost:1313/posts/vitamin-d-conference-6th-minimum-maximum-optimum/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-conference-6th-minimum-maximum-optimum/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#introductory-lecture-vitamin-d--for-health-of-the-individual-does-it-also-influence-the-public-health&#34;&gt;Introductory lecture: Vitamin D – for health of the individual, does it also influence the public health?&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#session-i-nutritional-rickets&#34;&gt;Session I. Nutritional rickets&lt;/a&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#nutritional-rickets-an-overview&#34;&gt;Nutritional rickets: an overview&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#ukrainian-recommendations-on-preventing-and-treating-nutritional-rickets&#34;&gt;Ukrainian recommendations on preventing and treating nutritional rickets&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#rickets-types-and-treatment-with-vitamin-d-and-analogues&#34;&gt;Rickets types and treatment with vitamin D and analogues&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#session-ii-updated-guidelines-for-vitamin-d-in-poland-2023&#34;&gt;Session II. Updated guidelines for Vitamin D in Poland, 2023&lt;/a&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#general-overview-and-introduction-to-the-main-recommendations&#34;&gt;General overview and introduction to the main recommendations&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#guidelines-for-newborns-premature-neonates-infants-and-pregnant-women&#34;&gt;Guidelines for newborns, premature neonates, infants and pregnant women&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#guidelines-for-children-and-adolescents&#34;&gt;Guidelines for children and adolescents&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#guidelines-for-adult-population&#34;&gt;Guidelines for adult population&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#guidelines-for-seniors-and-oldest-olds&#34;&gt;Guidelines for seniors and oldest olds&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#special-lecture-why-is-germany-so-conservative-in-vitamin-d-recommendations&#34;&gt;Special lecture: Why is Germany so conservative in vitamin D recommendations?&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#session-iii-central-european-and-eastern-european-guidelines&#34;&gt;Session III. Central European and Eastern European Guidelines&lt;/a&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#fragility-fractures-and-vitamin-d&#34;&gt;Fragility, fractures and vitamin D&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#pleiotropic-actions-of-vitamin-d&#34;&gt;Pleiotropic actions of vitamin D&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#central-and-eastern-european-guidelines-ad-2022&#34;&gt;Central and Eastern European Guidelines AD 2022&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#ukrainian-guidelines-in-2023&#34;&gt;Ukrainian Guidelines in 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#special-lecture-sources-of-vitamin-d-and-calcifediol--natural-and-artificialman-made-a-celebration-of-the-last-day-of-skin-synthesis&#34;&gt;Special lecture: Sources of vitamin D and calcifediol – natural and artificial/man-made: a celebration of the last day of skin synthesis&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#special-lecture-epigenetic-and-genomic-view-on-vitamin-d-a-celebration-of-the-first-day-of-autumn--first-day-of-the-lack-of-skin-synthesis&#34;&gt;Special lecture: Epigenetic and genomic view on vitamin D: a “celebration” of the first day of autumn / first day of the lack of skin synthesis&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#session-iv-pleiotropic-action-of-vitamin-d-part-1&#34;&gt;Session IV. Pleiotropic action of vitamin D (Part 1)&lt;/a&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#periodontal-disease-as-the-canary-in-the-coal-mine&#34;&gt;Periodontal disease as the canary in the coal mine&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-deficiency-and-cardiovascular-disease-current-knowledge&#34;&gt;Vitamin D deficiency and cardiovascular disease: current knowledge&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#25-hydroxyvitamin-d-serum-concentration-and-covid-19-severity-and-outcomes--a-romanian-experience&#34;&gt;25 Hydroxyvitamin D serum concentration and COVID-19 severity and outcomes – a Romanian experience&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-in-endocrine-diseases&#34;&gt;Vitamin D in endocrine diseases&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#effect-of-vitamin-d-deficiency-on-trabecular-and-cortical-bone-compartments--the-3d-dxa-modelling-approach&#34;&gt;Effect of vitamin D deficiency on trabecular and cortical bone compartments – the 3D DXA modelling approach&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#relationship-of-vitamin-d-deficiency-with-insulin-resistance&#34;&gt;Relationship of vitamin D deficiency with insulin resistance&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#risk-groups-for-low-vitamin-d-changing-the-paradigm-in-clinical-practice&#34;&gt;Risk groups for low vitamin D: changing the paradigm in clinical practice&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#special-lecture-calcifediol-a-review-of-its-pharmacological-characteristics-and-clinical-use-in-correcting-vitamin-d-deficiency&#34;&gt;Special Lecture: Calcifediol: a review of its pharmacological characteristics and clinical use in correcting vitamin D deficiency&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#session-v-pleiotropic-actions-of-vitamin-d-part-2&#34;&gt;Session V. Pleiotropic actions of vitamin D (Part 2)&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-and-brain&#34;&gt;Vitamin D and brain&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-in-overweight-and-obesity---trivial-or-significant-problem&#34;&gt;Vitamin D in overweight and obesity - trivial or significant problem?&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#assessment-of-vitamin-d-deficiency-in-patients-with-metabolic-syndrome-in-chronic-stress-conditions&#34;&gt;Assessment of vitamin D deficiency in patients with metabolic syndrome in chronic stress conditions&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#mitochondria-as-a-target-for-vitamin-d&#34;&gt;Mitochondria as a target for vitamin D&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-status-of-patients-with-diabetic-chronic-kidney-disease-and-prevention-of-its-progression&#34;&gt;Vitamin D status of patients with diabetic chronic kidney disease and prevention of its progression&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#session-vi-pleiotropic-actions-of-vitamin-d-incl-young-investigators-session&#34;&gt;Session VI. Pleiotropic actions of vitamin D (incl. Young Investigators Session)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#extending-the-vitamin-d-response-index-concept-based-on-cohorts-from-saudi-arabia&#34;&gt;Extending the vitamin D response index concept based on cohorts from Saudi Arabia&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#could-vitamin-d-be-a-disease-modifying-antirheumatic-drug-dmard&#34;&gt;Could vitamin D be a Disease-Modifying Antirheumatic Drug (DMARD)?&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-and-markers-of-subclinical-inflammation-in-patients-with-chronic-coronary-syndrome&#34;&gt;Vitamin D and markers of subclinical inflammation in patients with chronic coronary syndrome&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#in-vivo-changes-of-the-epigenome-of-human-immune-cells-after-vitamin-d-challenge&#34;&gt;In vivo changes of the epigenome of human immune cells after vitamin D challenge&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-status-in-children-and-adolescents---data-from-the-childrens-memorial-health-institute-in-warsaw&#34;&gt;Vitamin D status in children and adolescents - data from The Children’s Memorial Health Institute in Warsaw&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;introductory-lecture-vitamin-d--for-health-of-the-individual-does-it-also-influence-the-public-health&#34;&gt;Introductory lecture: Vitamin D – for health of the individual, does it also influence the public health?&lt;/h4&gt;&#xA;&lt;p&gt;Prof. Andrzej M. Fal (Dept of Allergy, Lung Diseases and Internal Medicine, Central Clinical Hospital, Ministry of Interior, Warsaw, Poland)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mortality reduced if Vitamin D levels raised to 30 ng ( Middle East this time) - Grant</title>
-      <link>http://localhost:1313/posts/mortality-reduced-if-vitamin-d-levels-raised-to-30-ng-middle-east-this-time-grant/</link>
-      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mortality-reduced-if-vitamin-d-levels-raised-to-30-ng-middle-east-this-time-grant/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#reducing-incidence-and-mortality-rates-in-the-uae-and-related-countries-by-raising-serum-25ohd-above-30-ngml&#34;&gt;Reducing incidence and mortality rates in the UAE and related countries by raising serum 25(OH)D above 30 ng/mL&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;reducing-incidence-and-mortality-rates-in-the-uae-and-related-countries-by-raising-serum-25ohd-above-30-ngml&#34;&gt;Reducing incidence and mortality rates in the UAE and related countries by raising serum 25(OH)D above 30 ng/mL&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presented at &lt;a href=&#34;http://localhost:1313/posts/vitamin-d-conference-9th-abu-dhabi&#34;&gt;Vitamin D Conference – 9th Abu Dhabi – Oct 2022&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;600&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note by VitaminDWiki: #7 for Saudi Arabia needs Magnesium (none in de-salinated water)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the entire PDF from VitaminDWiki &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D Conference – 9th Abu Dhabi</title>
-      <link>http://localhost:1313/posts/vitamin-d-conference-9th-abu-dhabi/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-conference-9th-abu-dhabi/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Conference Brochure as of Oct 8 - on VitaminDWiki &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Virtual Conference, Scientific Agenda Oct 7-8 2022  &lt;a href=&#34;https://www.menaconference.com/events/conf.brochure.php?id=232&#34;&gt;URL&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cost for non-doctors 400 UAE = $110&lt;/p&gt;&#xA;&lt;p&gt;Note; the following list is from the original, not updated brochure&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;KEYNOTE: Vitamin D and Immunity: Current State of the Field - Prof. Dr. John H. White&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The role of Vitamin D in respiratory infection - Prof. Peter Kvietys&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The Relation between Self-Tolerance and Vitamin D through Regulatory T cells (Tregs) Prof. Peter Kvietys Dr. Gianina Elena Statache&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D Workshop presentations and posters</title>
-      <link>http://localhost:1313/posts/vitamin-d-workshop-presentations-and-posters/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-workshop-presentations-and-posters/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Full program PDF&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#presentations&#34;&gt;Presentations&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#plenary-posters&#34;&gt;Plenary Posters&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;presentations&#34;&gt;Presentations&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;George Georgiou (UT-Austin) - Molecular level decomposition of the identity, dynamics and function of the constituent antibodies comprising the serum antibody repertoire in response to infection or vaccination.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;John White (McGill University) Recent updates on the role of vitamin D signaling in innate and adaptive immunity.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Lori Plum (University of Wisconsin, Madison) Antibody production does not require vitamin D or its receptor.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D Workshop in Austin Texas - Sept 6-9 2022</title>
-      <link>http://localhost:1313/posts/vitamin-d-workshop-in-austin-texas-sept-6-9-2022/</link>
-      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-workshop-in-austin-texas-sept-6-9-2022/</guid>
-      <description>&lt;h4 id=&#34;abstacts-will-be-listed-after-june-1httpsvitamindworkshoporghome&#34;&gt;&lt;a href=&#34;https://vitamindworkshop.org/home&#34;&gt;Abstacts will be listed after June 1&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;24th since 1973 (none in 2020 and 2021?)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;!-- ~tc~ (alias(Vitamin D Workshop Austin Texas - Sept 6-9 2022)) ~/tc~ --&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D Workshop sessions</title>
-      <link>http://localhost:1313/posts/vitamin-d-workshop-sessions/</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-workshop-sessions/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://virtual.keystonesymposia.org/ks/live/888/page/9683&#34;&gt;Vitamin D Workshop&lt;/a&gt; Oct 13-14&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;200&#34;&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#calcium-and-bone&#34;&gt;Calcium and Bone&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#immunity-and-infectious-disease-covid&#34;&gt;Immunity and Infectious Disease (COVID)&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#norman-award-winners&#34;&gt;Norman Award Winners&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#horst-award-winners---flash-talks&#34;&gt;Horst Award Winners - Flash Talks&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#metabolic-diseases&#34;&gt;Metabolic Diseases&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#cancer-biology&#34;&gt;Cancer Biology&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#non-classical&#34;&gt;Non-Classical&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-metabolism-and-methods&#34;&gt;Vitamin D Metabolism and Methods&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#development-and-life-course&#34;&gt;Development and Life Course&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Welcoming Remarks (7am Denver/Mountain Time Start)&lt;/p&gt;&#xA;&lt;p&gt;JoEllen Welsh, State University of New York at Albany, USA James C. Fleet, University of Texas at Austin, USA&lt;/p&gt;&#xA;&lt;h4 id=&#34;calcium-and-bone&#34;&gt;Calcium and Bone&lt;/h4&gt;&#xA;&lt;p&gt;(7:05am Denver/Mountain Time Start)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sylvia Christakos, Rutgers New Jersey Medical School, USA JoEllen Welsh, State University of New York at Albany, USA&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Philip R. Fischer, Mayo Clinic, USA&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>High-dose vitamin D improves health (presentation)</title>
-      <link>http://localhost:1313/posts/high-dose-vitamin-d-improves-health-presentation/</link>
-      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/high-dose-vitamin-d-improves-health-presentation/</guid>
-      <description>&lt;h4 id=&#34;high-dose-vitamin-d-supplementation-improves-health-presented-in-rome-august-30-2021&#34;&gt;High-dose Vitamin D Supplementation Improves Health (Presented in Rome, August 30, 2021)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.aicgroup.it/iv-international-vitamin-d-mediterranean-congress-rome-30-31-august-2021&#34;&gt;IV International Vitamin D Mediterranean Congress Grand hotel Flora, Rome&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dr. Grant&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Some of the titles&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;In June some Europeans get more solar UVB than others. In December no European gets enough UVB to make vitamin D.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Solar UVB as a Source of Vitamin D&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Breast Cancer Mortality Rates, 1995-77 &lt;span&gt;[Garland, 1992]&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;VITAL Vitamin D RCT, Harvard &lt;span&gt;[Manson, NEJM, 2019]&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D Conferences in 2021</title>
-      <link>http://localhost:1313/posts/vitamin-d-conferences-in-2021/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-conferences-in-2021/</guid>
-      <description>&lt;h4 id=&#34;iv-international-vitamin-d-mediterranean-congress---rome-30-31-august-2021httpswwwaicgroupitiv-international-vitamin-d-mediterranean-congress-rome-30-31-august-2021&#34;&gt;&lt;a href=&#34;https://www.aicgroup.it/iv-international-vitamin-d-mediterranean-congress-rome-30-31-august-2021&#34;&gt;IV International Vitamin D Mediterranean Congress - Rome, 30-31 August 2021&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;9.30 Opening Lecture - Chair: S. Minisola&lt;/p&gt;&#xA;&lt;p&gt;“Vitamin D in 2021” - M.F. Holick&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Session I: Preclinical data Chair: A. Teti&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Histological aspects of vitamin D insufficiency and deficiency - A. Corsi&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vitamin D receptor polymorphism among Emirati females: exploring the link with osteoporosis in the context of genomics and biomechanics - F. Ai Anouti&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Update on the role of vitamin D in intestinal health - H. Fakhoury&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Controversies and consensus in Vitamin D – 3rd Conference</title>
-      <link>http://localhost:1313/posts/controversies-and-consensus-in-vitamin-d-3rd-conference/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/controversies-and-consensus-in-vitamin-d-3rd-conference/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Controversies in Vitamin D: A Statement From the Third International Conference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;F1&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;700&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;T1&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;T2&lt;/strong&gt; &lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;F3&lt;/strong&gt; _&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#f5f5f5;padding:15px;margin:10px 0;border-radius:5px;width:600px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;The many topics not discussed include&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;% activation of vitamin D in the cells rather than in the liver &amp;amp; kidneys&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;When are loading doses better than daily&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The many months to plateau the response to a new supplementation level&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Efficacy of other forms for Vitamin D, such as nanoemulsion&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Including gut-friendly forms of vitamin D&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Higher Vitamin D thresholds for some diseases&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Treat autoimmune diseases with high-dose vitamin D – Germany online Aug 24, 25 2019</title>
-      <link>http://localhost:1313/posts/treat-autoimmune-diseases-with-high-dose-vitamin-d-germany-online-aug-24-25-2019/</link>
-      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/treat-autoimmune-diseases-with-high-dose-vitamin-d-germany-online-aug-24-25-2019/</guid>
-      <description>&lt;h4 id=&#34;free-registration-for-online-eventhttpsdigitaleweltspitzen-praeventioncomkmm-autoimmunonline-eventutm_campaignfacebook-ads&#34;&gt;&lt;a href=&#34;https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/online-event/?utm_campaign=facebook-ads&#34;&gt;Free registration for Online Event&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presentations (some % are re-runs of 2018)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Overview autoimmune diseases&lt;/td&gt;&#xA;          &lt;td&gt;Prof. Dr. King, Magdeburg&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Vitamin D and Immune System (ENGLISH - repeat of 2018)&lt;/td&gt;&#xA;          &lt;td&gt;Dr. Holick, Boston - USA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Vitamin D receptor functions and vitamin D sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;Prof. Dr. Carlsberg, Kuopio - Finland&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;High doses vitamin D therapy - Protocol and results&lt;br&gt; (ENGLISH - ((Vitamin D has treated Multiple Sclerosis and autoimmune diseases for 16 years – Coimbra April 2018&lt;/td&gt;&#xA;          &lt;td&gt;repeat of 2018)) )&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Implementation of Coimbra protocol for patients&lt;/td&gt;&#xA;          &lt;td&gt;Chr. Kiening, Gräfelfing&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Autoimmune diseases and the second evolution of man&lt;/td&gt;&#xA;          &lt;td&gt;Prof. Dr. med. Spitz, Schlangenbad / Wiesbaden&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Integrative therapy for autoimmune diseases&lt;/td&gt;&#xA;          &lt;td&gt;Prof. Dr. Ionescu, Neukirchen&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Autoimmune diseases of the skin&lt;/td&gt;&#xA;          &lt;td&gt;Prof. Dr. Amon, Hohenstadt&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Therapeutic alternatives in autoimmune diseases&lt;/td&gt;&#xA;          &lt;td&gt;Dr. Lemke, Heidelberg&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Laboratory methods for autoimmune diseases&lt;/td&gt;&#xA;          &lt;td&gt;PD Bender, Munich&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Micronutrients in autoimmune diseases&lt;/td&gt;&#xA;          &lt;td&gt;Uwe Gröber, eating&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hashimoto&amp;rsquo;s thyroiditis as autoimmune systemic disease&lt;/td&gt;&#xA;          &lt;td&gt;Prof. Dr. Schomburg, Berlin&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Eco-Psychosomatics: The influence of the forest on our immune system&lt;/td&gt;&#xA;          &lt;td&gt;Dipl.-Ing. Arvay, Vienna - Austria&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Stress and autoimmunity&lt;/td&gt;&#xA;          &lt;td&gt;Prof. Dr. med. Wolf, Ulm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Physical activity and immune system&lt;/td&gt;&#xA;          &lt;td&gt;Dr. Dr. Rooms, Cologne&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Autoimmune diseases of the bowel / fecal; transplantation&lt;/td&gt;&#xA;          &lt;td&gt;Dr. Vehreschild, Cologne&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;The effect of singing and music on the immune system&lt;/td&gt;&#xA;          &lt;td&gt;Dipl.-Psych. Wunnenberg, Scheidegg&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Omega 3 fatty acids in autoimmune diseases&lt;/td&gt;&#xA;          &lt;td&gt;Dr. med. Schmiedel, Baar - Switzerland&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Synopsis and Prospects&lt;/td&gt;&#xA;          &lt;td&gt;Prof. Dr. med. Spitz, Schlangenbad&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h4 id=&#34;registration-gives-the-following&#34;&gt;Registration gives the following&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Continuous streaming access to lectures with all bonus materials&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D Workshop in Australia - canceled due to COVID</title>
-      <link>http://localhost:1313/posts/vitamin-d-workshop-in-australia-canceled-due-to-covid/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-workshop-in-australia-canceled-due-to-covid/</guid>
-      <description>&lt;h4 id=&#34;httpsvitamindworkshoporgaustralia-2020&#34;&gt;[https://vitamindworkshop.org/australia-2020&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;PLANNING FOR NEXT MEETING IS ON HOLD (March 25, 2020)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;PLEASE NOTE the Covid-19 pandemic has impacted planning for the 2020 Vitamin D Workshop. Australia has prohibited flights in/out of the country until the end of May and also banned large gatherings for 6 months. It is therefore impossible for the August conference to proceed as planned. The involved societies (VDW, ANZBMS and MEPSA) are conferring with the meeting planner ASN and the Gold Coast Convention Center to explore options for postponement, although cancellation is also a possibility.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D and light conference</title>
-      <link>http://localhost:1313/posts/vitamin-d-and-light-conference/</link>
-      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-and-light-conference/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>VitaminDWiki had a booth at Vitamin D Workshop</title>
-      <link>http://localhost:1313/posts/vitamindwiki-had-a-booth-at-vitamin-d-workshop/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamindwiki-had-a-booth-at-vitamin-d-workshop/</guid>
-      <description>&lt;h3 id=&#34;25-charts-shown-at-the-booth---some-are-text-which-are-updated-and-translatable&#34;&gt;25 charts shown at the booth - some are text which are updated and translatable&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download all 25 original charts&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/categories/meta-analysis-of-vitamin-d&#34;&gt;Details at VitaminDWiki page&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Function will be available for all categories on VitaminDWiki in by Aug 2019&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/ways-to-improve-health&#34;&gt;Details at VitaminDWiki page&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;650&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/getting-vitamin-d-into-your-body&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Getting Vitamin D into your body&#34;&gt;Details at VitaminDWiki page&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/categories/vitamin-d-receptor&#34;&gt;Details at VitaminDWiki page&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;500&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/categories/vitamin-d-receptor&#34;&gt;Details at VitaminDWiki page&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;700&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/variety-of-evidence-that-vitamin-d-helps-the-brain&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014&#34;&gt;Details at VitaminDWiki page&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review of “Vitamin D - Minimum, Maximum, Optimum” conference of 2017</title>
-      <link>http://localhost:1313/posts/review-of-vitamin-d-minimum-maximum-optimum-conference-of-2017/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/review-of-vitamin-d-minimum-maximum-optimum-conference-of-2017/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vitamin D congress on pregnancy and childhood diseases</title>
-      <link>http://localhost:1313/posts/vitamin-d-congress-on-pregnancy-and-childhood-diseases/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-congress-on-pregnancy-and-childhood-diseases/</guid>
-      <description>&lt;h4 id=&#34;two-days-of-vitamin-d-presentations-in-frankfort-germanyhttpsspitzen-praeventioncomveranstaltungkongress-fuer-menschliche-medizin-update-2019-schwangerschaft&#34;&gt;&lt;a href=&#34;https://spitzen-praevention.com/veranstaltung/kongress-fuer-menschliche-medizin-update-2019-schwangerschaft/&#34;&gt;Two days of Vitamin D presentations in Frankfort Germany&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;25% of presentations in English with German subtitles&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://amm.cleeng.com/kongress-fur-menschliche-medizin-2019-tatort-schwangerschaft/E602590609_DE%20&#34;&gt;Streaming video&lt;/a&gt; – some the video was pre-recorded&lt;/p&gt;&#xA;&lt;p&gt;Costs 50 € - 268 € to attend the event and ask questions of the presenters . But basically sold out&lt;/p&gt;&#xA;&lt;p&gt;Videos will also be available for purchase after the conference&lt;/p&gt;&#xA;&lt;p&gt;   - perhaps the English presentations will be able to be purchased separately&lt;/p&gt;&#xA;&lt;p&gt;Website: &lt;a href=&#34;https://www.spitzen-praevention.com&#34;&gt;www.spitzen-praevention.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Talks - primarily in German&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Highlights of Vitamin D Workshop of</title>
-      <link>http://localhost:1313/posts/highlights-of-vitamin-d-workshop-of/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/highlights-of-vitamin-d-workshop-of/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Highlights from the 21st Workshop on Vitamin D in Barcelona, May 2018&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Journal of Steroid Biochemistry and Molecular Biology, &lt;a href=&#34;https://doi.org/10.1016/jjsbmb.2019.03.026&#34;&gt;https://doi.org/10.1016/jjsbmb.2019.03.026&lt;/a&gt;   &lt;strong&gt;Published April 2019&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-workshop-in-new-york&#34;&gt;Next Vitamin D Workshop  New York, May 2019&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Founder of VitaminDWiki expects to attend 2019 Workshop and may be permitted to make 2 presentations&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/ai-exciting-opportunity-for-vitamin-d-researchers&#34;&gt;AI: Exciting opportunity for Vitamin D Researchers&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamindwiki-your-go-to-vitamin-d-website-2019&#34;&gt;VitaminDWiki: Your Go-To Vitamin D Website - 2019&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from Sci-Hub via VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>International Conference on Vitamin D Deficiency – 8th Abu Dhabi</title>
-      <link>http://localhost:1313/posts/international-conference-on-vitamin-d-deficiency-8th-abu-dhabi/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/international-conference-on-vitamin-d-deficiency-8th-abu-dhabi/</guid>
-      <description>&lt;h4 id=&#34;schedule-for-april-12-2019httpswwwvitaminaeschedules&#34;&gt;&lt;a href=&#34;https://www.vitamin.ae/schedules/&#34;&gt;Schedule for April 12 2019&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;“The World’s largest conference on Vitamin D”&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vitamin D and Adolescents’ Health&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Low Protein Diet and Vitamin D Supplements in Chronic Kidney Disease (CKD) Patients&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vitamin D and Liver Diseases: Update and Overview&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;New Insights into the Role of Vitamin D in the Immune System&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vitamin D Deficiency Rickets in Children: Not a Disease from the Past&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Difficult Diagnoses in Rickets&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vitamin D Deficiency in Riyadh: A Decade of an Epidemic (2008-2018)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D Workshop in New York</title>
-      <link>http://localhost:1313/posts/vitamin-d-workshop-in-new-york/</link>
-      <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-workshop-in-new-york/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://vitamindworkshop.org/home&#34;&gt;Workshop 2019&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;CROWNE PLAZA TIMES SQUARE, 1605 BROADWAY, NYC&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Henry Lahore, founder of VitaminDWiki,&lt;br&gt;&#xA;is going again, submitted abstracts for 2 talks&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/ai-exciting-opportunity-for-vitamin-d-researchers&#34;&gt;AI: Exciting opportunity for Vitamin D Researchers&lt;/a&gt; - not accepted&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamindwiki-your-go-to-vitamin-d-website-2019&#34;&gt;VitaminDWiki: Your Go-To Vitamin D Website - 2019&lt;/a&gt; - not accepted for talk&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamindwiki-had-a-booth-at-vitamin-d-workshop&#34;&gt;VitaminDWiki had a booth at Vitamin D Workshop May 2019&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-is-treating-and-preventing-leprosy-in-myanmar&#34;&gt;Vitamin D is treating and preventing Leprosy in Myanmar&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#some-interesting-posters&#34;&gt;Some interesting posters&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sesson-ii&#34;&gt;Sesson Ii&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sesson-iii&#34;&gt;Sesson III&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sesson-iv&#34;&gt;Sesson IV&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sesson-vi&#34;&gt;Sesson VI&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sesson-vii&#34;&gt;Sesson VII&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sesson-viii&#34;&gt;Sesson VIII&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sesson-ix&#34;&gt;Sesson IX&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#sesson-xi--xii&#34;&gt;Sesson XI &amp;amp; XII&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-is-treating-and-preventing-leprosy-in-myanmar&#34;&gt;Vitamin D is treating and preventing Leprosy in Myanmar&lt;/h4&gt;&#xA;&lt;p&gt;Met a retired doctor at workshop. Have made a webpage for documenting her time and effort&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>International Congress on Vitamin D (VitaminD Workshop) – NY</title>
-      <link>http://localhost:1313/posts/international-congress-on-vitamin-d-vitamind-workshop-ny/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/international-congress-on-vitamin-d-vitamind-workshop-ny/</guid>
-      <description>&lt;h4 id=&#34;2019-detailshttpsvitamindworkshoporgnyc-2019-home&#34;&gt;&lt;a href=&#34;https://vitamindworkshop.org/nyc-2019-home&#34;&gt;2019 details&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;h4 id=&#34;vitamin-d-workshop-in-new-york--may-2019postsvitamin-d-workshop-in-new-york--on-vitamindwiki&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-workshop-in-new-york&#34;&gt;Vitamin D Workshop in New York – May 2019&lt;/a&gt;  on VitaminDWiki&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Workshop has been held since 1973&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:600px&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;250&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Some previous Workshops&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/21st-workshop-on-vitamin-d-spain&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: 21st Workshop on Vitamin D - Spain May 2018&#34;&gt;21st Workshop on Vitamin D - Spain May 2018&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://grassrootshealth.net/blog/2017-vitamin-d-workshop-summary/&#34;&gt;2017 Worksup summary by Grassroots Health&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-workshop-boston&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Vitamin D Workshop - Boston March 2016&#34;&gt;Vitamin D Workshop - Boston March 2016&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conference on VitaminDWiki</title><link>//localhost:1313/categories/conference.html</link><description>Recent content in Conference on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/conference/index.xml" rel="self" type="application/rss+xml"/><item><title>Vitamin D Conference - 6th Minimum, Maximum, Optimum</title><link>//localhost:1313/posts/vitamin-d-conference-6th-minimum-maximum-optimum.html</link><pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-conference-6th-minimum-maximum-optimum.html</guid><description>&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#introductory-lecture-vitamin-d--for-health-of-the-individual-does-it-also-influence-the-public-health">Introductory lecture: Vitamin D – for health of the individual, does it also influence the public health?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#session-i-nutritional-rickets">Session I. Nutritional rickets&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#nutritional-rickets-an-overview">Nutritional rickets: an overview&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ukrainian-recommendations-on-preventing-and-treating-nutritional-rickets">Ukrainian recommendations on preventing and treating nutritional rickets&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#rickets-types-and-treatment-with-vitamin-d-and-analogues">Rickets types and treatment with vitamin D and analogues&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#session-ii-updated-guidelines-for-vitamin-d-in-poland-2023">Session II. Updated guidelines for Vitamin D in Poland, 2023&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#general-overview-and-introduction-to-the-main-recommendations">General overview and introduction to the main recommendations&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#guidelines-for-newborns-premature-neonates-infants-and-pregnant-women">Guidelines for newborns, premature neonates, infants and pregnant women&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#guidelines-for-children-and-adolescents">Guidelines for children and adolescents&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#guidelines-for-adult-population">Guidelines for adult population&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#guidelines-for-seniors-and-oldest-olds">Guidelines for seniors and oldest olds&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#special-lecture-why-is-germany-so-conservative-in-vitamin-d-recommendations">Special lecture: Why is Germany so conservative in vitamin D recommendations?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#session-iii-central-european-and-eastern-european-guidelines">Session III. Central European and Eastern European Guidelines&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#fragility-fractures-and-vitamin-d">Fragility, fractures and vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pleiotropic-actions-of-vitamin-d">Pleiotropic actions of vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#central-and-eastern-european-guidelines-ad-2022">Central and Eastern European Guidelines AD 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ukrainian-guidelines-in-2023">Ukrainian Guidelines in 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#special-lecture-sources-of-vitamin-d-and-calcifediol--natural-and-artificialman-made-a-celebration-of-the-last-day-of-skin-synthesis">Special lecture: Sources of vitamin D and calcifediol – natural and artificial/man-made: a celebration of the last day of skin synthesis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#special-lecture-epigenetic-and-genomic-view-on-vitamin-d-a-celebration-of-the-first-day-of-autumn--first-day-of-the-lack-of-skin-synthesis">Special lecture: Epigenetic and genomic view on vitamin D: a “celebration” of the first day of autumn / first day of the lack of skin synthesis&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#session-iv-pleiotropic-action-of-vitamin-d-part-1">Session IV. Pleiotropic action of vitamin D (Part 1)&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#periodontal-disease-as-the-canary-in-the-coal-mine">Periodontal disease as the canary in the coal mine&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-cardiovascular-disease-current-knowledge">Vitamin D deficiency and cardiovascular disease: current knowledge&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#25-hydroxyvitamin-d-serum-concentration-and-covid-19-severity-and-outcomes--a-romanian-experience">25 Hydroxyvitamin D serum concentration and COVID-19 severity and outcomes – a Romanian experience&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-in-endocrine-diseases">Vitamin D in endocrine diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effect-of-vitamin-d-deficiency-on-trabecular-and-cortical-bone-compartments--the-3d-dxa-modelling-approach">Effect of vitamin D deficiency on trabecular and cortical bone compartments – the 3D DXA modelling approach&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#relationship-of-vitamin-d-deficiency-with-insulin-resistance">Relationship of vitamin D deficiency with insulin resistance&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#risk-groups-for-low-vitamin-d-changing-the-paradigm-in-clinical-practice">Risk groups for low vitamin D: changing the paradigm in clinical practice&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#special-lecture-calcifediol-a-review-of-its-pharmacological-characteristics-and-clinical-use-in-correcting-vitamin-d-deficiency">Special Lecture: Calcifediol: a review of its pharmacological characteristics and clinical use in correcting vitamin D deficiency&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#session-v-pleiotropic-actions-of-vitamin-d-part-2">Session V. Pleiotropic actions of vitamin D (Part 2)&lt;/a>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-brain">Vitamin D and brain&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-in-overweight-and-obesity---trivial-or-significant-problem">Vitamin D in overweight and obesity - trivial or significant problem?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#assessment-of-vitamin-d-deficiency-in-patients-with-metabolic-syndrome-in-chronic-stress-conditions">Assessment of vitamin D deficiency in patients with metabolic syndrome in chronic stress conditions&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mitochondria-as-a-target-for-vitamin-d">Mitochondria as a target for vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-of-patients-with-diabetic-chronic-kidney-disease-and-prevention-of-its-progression">Vitamin D status of patients with diabetic chronic kidney disease and prevention of its progression&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#session-vi-pleiotropic-actions-of-vitamin-d-incl-young-investigators-session">Session VI. Pleiotropic actions of vitamin D (incl. Young Investigators Session)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#extending-the-vitamin-d-response-index-concept-based-on-cohorts-from-saudi-arabia">Extending the vitamin D response index concept based on cohorts from Saudi Arabia&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#could-vitamin-d-be-a-disease-modifying-antirheumatic-drug-dmard">Could vitamin D be a Disease-Modifying Antirheumatic Drug (DMARD)?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-markers-of-subclinical-inflammation-in-patients-with-chronic-coronary-syndrome">Vitamin D and markers of subclinical inflammation in patients with chronic coronary syndrome&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#in-vivo-changes-of-the-epigenome-of-human-immune-cells-after-vitamin-d-challenge">In vivo changes of the epigenome of human immune cells after vitamin D challenge&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-in-children-and-adolescents---data-from-the-childrens-memorial-health-institute-in-warsaw">Vitamin D status in children and adolescents - data from The Children’s Memorial Health Institute in Warsaw&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="introductory-lecture-vitamin-d--for-health-of-the-individual-does-it-also-influence-the-public-health">Introductory lecture: Vitamin D – for health of the individual, does it also influence the public health?&lt;/h4>
+&lt;p>Prof. Andrzej M. Fal (Dept of Allergy, Lung Diseases and Internal Medicine, Central Clinical Hospital, Ministry of Interior, Warsaw, Poland)&lt;/p></description></item><item><title>Mortality reduced if Vitamin D levels raised to 30 ng ( Middle East this time) - Grant</title><link>//localhost:1313/posts/mortality-reduced-if-vitamin-d-levels-raised-to-30-ng-middle-east-this-time-grant.html</link><pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/mortality-reduced-if-vitamin-d-levels-raised-to-30-ng-middle-east-this-time-grant.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#reducing-incidence-and-mortality-rates-in-the-uae-and-related-countries-by-raising-serum-25ohd-above-30-ngml">Reducing incidence and mortality rates in the UAE and related countries by raising serum 25(OH)D above 30 ng/mL&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="reducing-incidence-and-mortality-rates-in-the-uae-and-related-countries-by-raising-serum-25ohd-above-30-ngml">Reducing incidence and mortality rates in the UAE and related countries by raising serum 25(OH)D above 30 ng/mL&lt;/h4>
+&lt;p>&lt;strong>Presented at &lt;a href="//localhost:1313/posts/vitamin-d-conference-9th-abu-dhabi">Vitamin D Conference – 9th Abu Dhabi – Oct 2022&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>&lt;strong>Note by VitaminDWiki: #7 for Saudi Arabia needs Magnesium (none in de-salinated water)&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the entire PDF from VitaminDWiki &lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Vitamin D Conference – 9th Abu Dhabi</title><link>//localhost:1313/posts/vitamin-d-conference-9th-abu-dhabi.html</link><pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-conference-9th-abu-dhabi.html</guid><description>&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Conference Brochure as of Oct 8 - on VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Virtual Conference, Scientific Agenda Oct 7-8 2022  &lt;a href="https://www.menaconference.com/events/conf.brochure.php?id=232">URL&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Cost for non-doctors 400 UAE = $110&lt;/p>
+&lt;p>Note; the following list is from the original, not updated brochure&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>KEYNOTE: Vitamin D and Immunity: Current State of the Field - Prof. Dr. John H. White&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The role of Vitamin D in respiratory infection - Prof. Peter Kvietys&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The Relation between Self-Tolerance and Vitamin D through Regulatory T cells (Tregs) Prof. Peter Kvietys Dr. Gianina Elena Statache&lt;/p></description></item><item><title>Vitamin D Workshop presentations and posters</title><link>//localhost:1313/posts/vitamin-d-workshop-presentations-and-posters.html</link><pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-workshop-presentations-and-posters.html</guid><description>&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Full program PDF&lt;/a>&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#presentations">Presentations&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#plenary-posters">Plenary Posters&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="presentations">Presentations&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>George Georgiou (UT-Austin) - Molecular level decomposition of the identity, dynamics and function of the constituent antibodies comprising the serum antibody repertoire in response to infection or vaccination.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>John White (McGill University) Recent updates on the role of vitamin D signaling in innate and adaptive immunity.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Lori Plum (University of Wisconsin, Madison) Antibody production does not require vitamin D or its receptor.&lt;/p></description></item><item><title>Vitamin D Workshop in Austin Texas - Sept 6-9 2022</title><link>//localhost:1313/posts/vitamin-d-workshop-in-austin-texas-sept-6-9-2022.html</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-workshop-in-austin-texas-sept-6-9-2022.html</guid><description>&lt;h4 id="abstacts-will-be-listed-after-june-1httpsvitamindworkshoporghome">&lt;a href="https://vitamindworkshop.org/home">Abstacts will be listed after June 1&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>24th since 1973 (none in 2020 and 2021?)&lt;/strong>&lt;/p>
+&lt;!-- ~tc~ (alias(Vitamin D Workshop Austin Texas - Sept 6-9 2022)) ~/tc~ --></description></item><item><title>Vitamin D Workshop sessions</title><link>//localhost:1313/posts/vitamin-d-workshop-sessions.html</link><pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-workshop-sessions.html</guid><description>&lt;p>&lt;strong>&lt;a href="https://virtual.keystonesymposia.org/ks/live/888/page/9683">Vitamin D Workshop&lt;/a> Oct 13-14&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="200">
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#calcium-and-bone">Calcium and Bone&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#immunity-and-infectious-disease-covid">Immunity and Infectious Disease (COVID)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#norman-award-winners">Norman Award Winners&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#horst-award-winners---flash-talks">Horst Award Winners - Flash Talks&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#metabolic-diseases">Metabolic Diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cancer-biology">Cancer Biology&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#non-classical">Non-Classical&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-metabolism-and-methods">Vitamin D Metabolism and Methods&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#development-and-life-course">Development and Life Course&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;p>Welcoming Remarks (7am Denver/Mountain Time Start)&lt;/p>
+&lt;p>JoEllen Welsh, State University of New York at Albany, USA James C. Fleet, University of Texas at Austin, USA&lt;/p>
+&lt;h4 id="calcium-and-bone">Calcium and Bone&lt;/h4>
+&lt;p>(7:05am Denver/Mountain Time Start)&lt;/p>
+&lt;ul>
+&lt;li>Sylvia Christakos, Rutgers New Jersey Medical School, USA JoEllen Welsh, State University of New York at Albany, USA&lt;/li>
+&lt;/ul>
+&lt;p>Philip R. Fischer, Mayo Clinic, USA&lt;/p></description></item><item><title>High-dose vitamin D improves health (presentation)</title><link>//localhost:1313/posts/high-dose-vitamin-d-improves-health-presentation.html</link><pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/high-dose-vitamin-d-improves-health-presentation.html</guid><description>&lt;h4 id="high-dose-vitamin-d-supplementation-improves-health-presented-in-rome-august-30-2021">High-dose Vitamin D Supplementation Improves Health (Presented in Rome, August 30, 2021)&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.aicgroup.it/iv-international-vitamin-d-mediterranean-congress-rome-30-31-august-2021">IV International Vitamin D Mediterranean Congress Grand hotel Flora, Rome&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Dr. Grant&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Some of the titles&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>In June some Europeans get more solar UVB than others. In December no European gets enough UVB to make vitamin D.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Solar UVB as a Source of Vitamin D&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Breast Cancer Mortality Rates, 1995-77 &lt;span>[Garland, 1992]&lt;/span>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>VITAL Vitamin D RCT, Harvard &lt;span>[Manson, NEJM, 2019]&lt;/span>&lt;/p></description></item><item><title>Vitamin D Conferences in 2021</title><link>//localhost:1313/posts/vitamin-d-conferences-in-2021.html</link><pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-conferences-in-2021.html</guid><description>&lt;h4 id="iv-international-vitamin-d-mediterranean-congress---rome-30-31-august-2021httpswwwaicgroupitiv-international-vitamin-d-mediterranean-congress-rome-30-31-august-2021">&lt;a href="https://www.aicgroup.it/iv-international-vitamin-d-mediterranean-congress-rome-30-31-august-2021">IV International Vitamin D Mediterranean Congress - Rome, 30-31 August 2021&lt;/a>&lt;/h4>
+&lt;p>9.30 Opening Lecture - Chair: S. Minisola&lt;/p>
+&lt;p>“Vitamin D in 2021” - M.F. Holick&lt;/p>
+&lt;p>&lt;strong>Session I: Preclinical data Chair: A. Teti&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Histological aspects of vitamin D insufficiency and deficiency - A. Corsi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vitamin D receptor polymorphism among Emirati females: exploring the link with osteoporosis in the context of genomics and biomechanics - F. Ai Anouti&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Update on the role of vitamin D in intestinal health - H. Fakhoury&lt;/p></description></item><item><title>Controversies and consensus in Vitamin D – 3rd Conference</title><link>//localhost:1313/posts/controversies-and-consensus-in-vitamin-d-3rd-conference.html</link><pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/controversies-and-consensus-in-vitamin-d-3rd-conference.html</guid><description>&lt;p>&lt;strong>Controversies in Vitamin D: A Statement From the Third International Conference&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>F1&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="700">
+&lt;p>&lt;strong>T1&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>&lt;strong>T2&lt;/strong> &lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image">&lt;/p>
+&lt;p>&lt;strong>F3&lt;/strong> _&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;div class="border" style="background-color:#f5f5f5;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;p>&lt;strong>The many topics not discussed include&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>% activation of vitamin D in the cells rather than in the liver &amp;amp; kidneys&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When are loading doses better than daily&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The many months to plateau the response to a new supplementation level&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Efficacy of other forms for Vitamin D, such as nanoemulsion&lt;/p>
+&lt;ul>
+&lt;li>Including gut-friendly forms of vitamin D&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Higher Vitamin D thresholds for some diseases&lt;/p></description></item><item><title>Treat autoimmune diseases with high-dose vitamin D – Germany online Aug 24, 25 2019</title><link>//localhost:1313/posts/treat-autoimmune-diseases-with-high-dose-vitamin-d-germany-online-aug-24-25-2019.html</link><pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/treat-autoimmune-diseases-with-high-dose-vitamin-d-germany-online-aug-24-25-2019.html</guid><description>&lt;h4 id="free-registration-for-online-eventhttpsdigitaleweltspitzen-praeventioncomkmm-autoimmunonline-eventutm_campaignfacebook-ads">&lt;a href="https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/online-event/?utm_campaign=facebook-ads">Free registration for Online Event&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>Presentations (some % are re-runs of 2018)&lt;/strong>&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Overview autoimmune diseases&lt;/td>
+ &lt;td>Prof. Dr. King, Magdeburg&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vitamin D and Immune System (ENGLISH - repeat of 2018)&lt;/td>
+ &lt;td>Dr. Holick, Boston - USA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vitamin D receptor functions and vitamin D sensitivity&lt;/td>
+ &lt;td>Prof. Dr. Carlsberg, Kuopio - Finland&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>High doses vitamin D therapy - Protocol and results&lt;br> (ENGLISH - ((Vitamin D has treated Multiple Sclerosis and autoimmune diseases for 16 years – Coimbra April 2018&lt;/td>
+ &lt;td>repeat of 2018)) )&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Implementation of Coimbra protocol for patients&lt;/td>
+ &lt;td>Chr. Kiening, Gräfelfing&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Autoimmune diseases and the second evolution of man&lt;/td>
+ &lt;td>Prof. Dr. med. Spitz, Schlangenbad / Wiesbaden&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Integrative therapy for autoimmune diseases&lt;/td>
+ &lt;td>Prof. Dr. Ionescu, Neukirchen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Autoimmune diseases of the skin&lt;/td>
+ &lt;td>Prof. Dr. Amon, Hohenstadt&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Therapeutic alternatives in autoimmune diseases&lt;/td>
+ &lt;td>Dr. Lemke, Heidelberg&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Laboratory methods for autoimmune diseases&lt;/td>
+ &lt;td>PD Bender, Munich&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Micronutrients in autoimmune diseases&lt;/td>
+ &lt;td>Uwe Gröber, eating&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Hashimoto&amp;rsquo;s thyroiditis as autoimmune systemic disease&lt;/td>
+ &lt;td>Prof. Dr. Schomburg, Berlin&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Eco-Psychosomatics: The influence of the forest on our immune system&lt;/td>
+ &lt;td>Dipl.-Ing. Arvay, Vienna - Austria&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Stress and autoimmunity&lt;/td>
+ &lt;td>Prof. Dr. med. Wolf, Ulm&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Physical activity and immune system&lt;/td>
+ &lt;td>Dr. Dr. Rooms, Cologne&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Autoimmune diseases of the bowel / fecal; transplantation&lt;/td>
+ &lt;td>Dr. Vehreschild, Cologne&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>The effect of singing and music on the immune system&lt;/td>
+ &lt;td>Dipl.-Psych. Wunnenberg, Scheidegg&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Omega 3 fatty acids in autoimmune diseases&lt;/td>
+ &lt;td>Dr. med. Schmiedel, Baar - Switzerland&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Synopsis and Prospects&lt;/td>
+ &lt;td>Prof. Dr. med. Spitz, Schlangenbad&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h4 id="registration-gives-the-following">Registration gives the following&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>Continuous streaming access to lectures with all bonus materials&lt;/p></description></item><item><title>Vitamin D Workshop in Australia - canceled due to COVID</title><link>//localhost:1313/posts/vitamin-d-workshop-in-australia-canceled-due-to-covid.html</link><pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-workshop-in-australia-canceled-due-to-covid.html</guid><description>&lt;h4 id="httpsvitamindworkshoporgaustralia-2020">[https://vitamindworkshop.org/australia-2020&lt;/h4>
+&lt;p>&lt;strong>PLANNING FOR NEXT MEETING IS ON HOLD (March 25, 2020)&lt;/strong>&lt;/p>
+&lt;p>PLEASE NOTE the Covid-19 pandemic has impacted planning for the 2020 Vitamin D Workshop. Australia has prohibited flights in/out of the country until the end of May and also banned large gatherings for 6 months. It is therefore impossible for the August conference to proceed as planned. The involved societies (VDW, ANZBMS and MEPSA) are conferring with the meeting planner ASN and the Gold Coast Convention Center to explore options for postponement, although cancellation is also a possibility.&lt;/p></description></item><item><title>Vitamin D and light conference</title><link>//localhost:1313/posts/vitamin-d-and-light-conference.html</link><pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-and-light-conference.html</guid><description/></item><item><title>VitaminDWiki had a booth at Vitamin D Workshop</title><link>//localhost:1313/posts/vitamindwiki-had-a-booth-at-vitamin-d-workshop.html</link><pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamindwiki-had-a-booth-at-vitamin-d-workshop.html</guid><description>&lt;h3 id="25-charts-shown-at-the-booth---some-are-text-which-are-updated-and-translatable">25 charts shown at the booth - some are text which are updated and translatable&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download all 25 original charts&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/categories/meta-analysis-of-vitamin-d">Details at VitaminDWiki page&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>&lt;strong>Function will be available for all categories on VitaminDWiki in by Aug 2019&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/ways-to-improve-health">Details at VitaminDWiki page&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="650">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Details at VitaminDWiki page&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/categories/vitamin-d-receptor">Details at VitaminDWiki page&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/categories/vitamin-d-receptor">Details at VitaminDWiki page&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="700">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/variety-of-evidence-that-vitamin-d-helps-the-brain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014">Details at VitaminDWiki page&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Review of “Vitamin D - Minimum, Maximum, Optimum” conference of 2017</title><link>//localhost:1313/posts/review-of-vitamin-d-minimum-maximum-optimum-conference-of-2017.html</link><pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/review-of-vitamin-d-minimum-maximum-optimum-conference-of-2017.html</guid><description/></item><item><title>Vitamin D congress on pregnancy and childhood diseases</title><link>//localhost:1313/posts/vitamin-d-congress-on-pregnancy-and-childhood-diseases.html</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-congress-on-pregnancy-and-childhood-diseases.html</guid><description>&lt;h4 id="two-days-of-vitamin-d-presentations-in-frankfort-germanyhttpsspitzen-praeventioncomveranstaltungkongress-fuer-menschliche-medizin-update-2019-schwangerschaft">&lt;a href="https://spitzen-praevention.com/veranstaltung/kongress-fuer-menschliche-medizin-update-2019-schwangerschaft/">Two days of Vitamin D presentations in Frankfort Germany&lt;/a>&lt;/h4>
+&lt;p>25% of presentations in English with German subtitles&lt;/p>
+&lt;p>&lt;a href="https://amm.cleeng.com/kongress-fur-menschliche-medizin-2019-tatort-schwangerschaft/E602590609_DE%20">Streaming video&lt;/a> – some the video was pre-recorded&lt;/p>
+&lt;p>Costs 50 € - 268 € to attend the event and ask questions of the presenters . But basically sold out&lt;/p>
+&lt;p>Videos will also be available for purchase after the conference&lt;/p>
+&lt;p>   - perhaps the English presentations will be able to be purchased separately&lt;/p>
+&lt;p>Website: &lt;a href="https://www.spitzen-praevention.com">www.spitzen-praevention.com&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Talks - primarily in German&lt;/strong>&lt;/p></description></item><item><title>Highlights of Vitamin D Workshop of</title><link>//localhost:1313/posts/highlights-of-vitamin-d-workshop-of.html</link><pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/highlights-of-vitamin-d-workshop-of.html</guid><description>&lt;p>&lt;strong>Highlights from the 21st Workshop on Vitamin D in Barcelona, May 2018&lt;/strong>&lt;/p>
+&lt;p>Journal of Steroid Biochemistry and Molecular Biology, &lt;a href="https://doi.org/10.1016/jjsbmb.2019.03.026">https://doi.org/10.1016/jjsbmb.2019.03.026&lt;/a> &lt;strong>Published April 2019&lt;/strong>&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/vitamin-d-workshop-in-new-york">Next Vitamin D Workshop New York, May 2019&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Founder of VitaminDWiki expects to attend 2019 Workshop and may be permitted to make 2 presentations&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/ai-exciting-opportunity-for-vitamin-d-researchers">AI: Exciting opportunity for Vitamin D Researchers&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamindwiki-your-go-to-vitamin-d-website-2019">VitaminDWiki: Your Go-To Vitamin D Website - 2019&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from Sci-Hub via VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>International Conference on Vitamin D Deficiency – 8th Abu Dhabi</title><link>//localhost:1313/posts/international-conference-on-vitamin-d-deficiency-8th-abu-dhabi.html</link><pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/international-conference-on-vitamin-d-deficiency-8th-abu-dhabi.html</guid><description>&lt;h4 id="schedule-for-april-12-2019httpswwwvitaminaeschedules">&lt;a href="https://www.vitamin.ae/schedules/">Schedule for April 12 2019&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>“The World’s largest conference on Vitamin D”&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Vitamin D and Adolescents’ Health&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Low Protein Diet and Vitamin D Supplements in Chronic Kidney Disease (CKD) Patients&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vitamin D and Liver Diseases: Update and Overview&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>New Insights into the Role of Vitamin D in the Immune System&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vitamin D Deficiency Rickets in Children: Not a Disease from the Past&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Difficult Diagnoses in Rickets&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vitamin D Deficiency in Riyadh: A Decade of an Epidemic (2008-2018)&lt;/p></description></item><item><title>Vitamin D Workshop in New York</title><link>//localhost:1313/posts/vitamin-d-workshop-in-new-york.html</link><pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-workshop-in-new-york.html</guid><description>&lt;p>&lt;strong>&lt;a href="https://vitamindworkshop.org/home">Workshop 2019&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>CROWNE PLAZA TIMES SQUARE, 1605 BROADWAY, NYC&lt;/p>
+&lt;p>&lt;strong>Henry Lahore, founder of VitaminDWiki,&lt;br>
+is going again, submitted abstracts for 2 talks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/ai-exciting-opportunity-for-vitamin-d-researchers">AI: Exciting opportunity for Vitamin D Researchers&lt;/a> - not accepted&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamindwiki-your-go-to-vitamin-d-website-2019">VitaminDWiki: Your Go-To Vitamin D Website - 2019&lt;/a> - not accepted for talk&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="//localhost:1313/posts/vitamindwiki-had-a-booth-at-vitamin-d-workshop">VitaminDWiki had a booth at Vitamin D Workshop May 2019&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-is-treating-and-preventing-leprosy-in-myanmar">Vitamin D is treating and preventing Leprosy in Myanmar&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#some-interesting-posters">Some interesting posters&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sesson-ii">Sesson Ii&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sesson-iii">Sesson III&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sesson-iv">Sesson IV&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sesson-vi">Sesson VI&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sesson-vii">Sesson VII&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sesson-viii">Sesson VIII&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sesson-ix">Sesson IX&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sesson-xi--xii">Sesson XI &amp;amp; XII&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-is-treating-and-preventing-leprosy-in-myanmar">Vitamin D is treating and preventing Leprosy in Myanmar&lt;/h4>
+&lt;p>Met a retired doctor at workshop. Have made a webpage for documenting her time and effort&lt;/p></description></item><item><title>International Congress on Vitamin D (VitaminD Workshop) – NY</title><link>//localhost:1313/posts/international-congress-on-vitamin-d-vitamind-workshop-ny.html</link><pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/international-congress-on-vitamin-d-vitamind-workshop-ny.html</guid><description>&lt;h4 id="2019-detailshttpsvitamindworkshoporgnyc-2019-home">&lt;a href="https://vitamindworkshop.org/nyc-2019-home">2019 details&lt;/a>&lt;/h4>
+&lt;h4 id="vitamin-d-workshop-in-new-york--may-2019postsvitamin-d-workshop-in-new-york--on-vitamindwiki">&lt;a href="//localhost:1313/posts/vitamin-d-workshop-in-new-york">Vitamin D Workshop in New York – May 2019&lt;/a> on VitaminDWiki&lt;/h4>
+&lt;p>&lt;strong>Workshop has been held since 1973&lt;/strong>&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="250">
+&lt;p>&lt;strong>Some previous Workshops&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/21st-workshop-on-vitamin-d-spain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 21st Workshop on Vitamin D - Spain May 2018">21st Workshop on Vitamin D - Spain May 2018&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://grassrootshealth.net/blog/2017-vitamin-d-workshop-summary/">2017 Worksup summary by Grassroots Health&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamin-d-workshop-boston" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Workshop - Boston March 2016">Vitamin D Workshop - Boston March 2016&lt;/a>&lt;/p></description></item></channel></rss>

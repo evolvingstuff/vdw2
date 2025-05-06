@@ -3,7 +3,8 @@ title: "BPH increased risk if poor Vitamin D Receptor in Asians – meta-analysi
 slug: "bph-increased-risk-if-poor-vitamin-d-receptor-in-asians-meta-analysis"
 aliases:
   - "/BPH+increased+risk+if+poor+Vitamin+D+Receptor+in+Asians+–+meta-analysis+April+2022"
-  - "/tiki-index.php?page_id=13453"
+  - "/13453"
+tiki_page_id: 13453
 date: 2022-04-06
 categories:
   - "Meta-analysis of Vitamin D"

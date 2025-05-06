@@ -3,7 +3,8 @@ title: "800x Higher Incidence of Myocardial Injury After Booster Vaccination"
 slug: "800x-higher-incidence-of-myocardial-injury-after-booster-vaccination"
 aliases:
   - "/800x+Higher+Incidence+of+Myocardial+Injury+After+Booster+Vaccination+-+July+2023"
-  - "/tiki-index.php?page_id=14566"
+  - "/14566"
+tiki_page_id: 14566
 date: 2023-07-28
 categories:
   - "Cardiovascular"

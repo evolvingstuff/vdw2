@@ -3,7 +3,8 @@ title: "U.S. healthcare system (and its investors) are really good at monetizing
 slug: "us-healthcare-system-and-its-investors-are-really-good-at-monetizing-illness-but-not-wellness"
 aliases:
   - "/US+healthcare+system+and+its+investors+are+really+good+at+monetizing+illness+but+not+wellness+–+May+2019"
-  - "/tiki-index.php?page_id=10783"
+  - "/10783"
+tiki_page_id: 10783
 date: 2019-05-16
 categories:
   - "Genetics"

@@ -3,7 +3,8 @@ title: "How We can fix this pandemic in a month (Vitamin D: 20K IU for 14 days)"
 slug: "how-we-can-fix-this-pandemic-in-a-month-vitamin-d-20k-iu-for-14-days"
 aliases:
   - "/How+We+can+fix+this+pandemic+in+a+month+Vitamin+D+20K+IU+for+14+days+–+June+22+2020"
-  - "/tiki-index.php?page_id=11813"
+  - "/11813"
+tiki_page_id: 11813
 date: 2020-06-22
 categories:
   - "Virus"

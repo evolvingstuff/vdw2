@@ -3,7 +3,8 @@ title: "Vitamin D, trauma, and blacks - Dr. Matthews interview with transcript"
 slug: "vitamin-d-trauma-and-blacks-dr-matthews-interview-with-transcript"
 aliases:
   - "/Vitamin+D+trauma+and+blacks+-+Dr+Matthews+interview+with+transcript+-+Jan+2019"
-  - "/tiki-index.php?page_id=10409"
+  - "/10409"
+tiki_page_id: 10409
 date: 2019-01-17
 categories:
   - "Skin - Dark"

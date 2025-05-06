@@ -3,7 +3,8 @@ title: "Poor ovarian response (poor IVF) associated with low vitamin D"
 slug: "poor-ovarian-response-poor-ivf-associated-with-low-vitamin-d"
 aliases:
   - "/Poor+ovarian+response+poor+IVF+associated+with+low+vitamin+D+–+Sept+2019"
-  - "/tiki-index.php?page_id=11177"
+  - "/11177"
+tiki_page_id: 11177
 date: 2019-09-28
 categories:
   - "Fertility and sperm"

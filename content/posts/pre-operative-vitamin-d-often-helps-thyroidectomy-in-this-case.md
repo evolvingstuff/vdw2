@@ -3,7 +3,8 @@ title: "Pre-operative Vitamin D often helps (thyroidectomy in this case)"
 slug: "pre-operative-vitamin-d-often-helps-thyroidectomy-in-this-case"
 aliases:
   - "/Pre-operative+Vitamin+D+often+helps+thyroidectomy+in+this+case+–+June+2021"
-  - "/tiki-index.php?page_id=12657"
+  - "/12657"
+tiki_page_id: 12657
 date: 2021-06-14
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Seniors raised Vitamin D levels, more COVID survivors, less CKD (Slovaki
 slug: "seniors-raised-vitamin-d-levels-more-covid-survivors-less-ckd-slovakia"
 aliases:
   - "/Seniors+raised+Vitamin+D+levels+more+COVID+survivors+less+CKD+Slovakia+–+Feb+2023"
-  - "/tiki-index.php?page_id=14286"
+  - "/14286"
+tiki_page_id: 14286
 date: 2023-02-25
 categories:
   - "Virus"

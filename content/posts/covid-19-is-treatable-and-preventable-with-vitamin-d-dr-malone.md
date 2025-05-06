@@ -3,7 +3,8 @@ title: "COVID-19 Is Treatable and Preventable With Vitamin D: Dr. Malone"
 slug: "covid-19-is-treatable-and-preventable-with-vitamin-d-dr-malone"
 aliases:
   - "/COVID-19+Is+Treatable+and+Preventable+With+Vitamin+D+Dr+Malone+-+May+24+2022"
-  - "/tiki-index.php?page_id=13612"
+  - "/13612"
+tiki_page_id: 13612
 date: 2022-05-29
 categories:
   - "Virus"

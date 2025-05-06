@@ -3,7 +3,8 @@ title: "Vitamin D Emulsions - nano 2X better than coarse"
 slug: "vitamin-d-emulsions-nano-2x-better-than-coarse"
 aliases:
   - "/Vitamin+D+Emulsions+-+nano+2X+better+than+coarse+–+Dec+2017"
-  - "/tiki-index.php?page_id=10542"
+  - "/10542"
+tiki_page_id: 10542
 date: 2019-03-02
 categories:
   - "Forms of Vitamin D"

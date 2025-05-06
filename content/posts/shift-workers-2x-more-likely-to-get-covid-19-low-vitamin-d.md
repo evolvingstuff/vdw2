@@ -3,7 +3,8 @@ title: "Shift workers 2X more likely to get COVID-19 (low Vitamin D)"
 slug: "shift-workers-2x-more-likely-to-get-covid-19-low-vitamin-d"
 aliases:
   - "/Shift+workers+2X+more+likely+to+get+COVID-19+low+Vitamin+D+-+Dec+2020"
-  - "/tiki-index.php?page_id=12156"
+  - "/12156"
+tiki_page_id: 12156
 date: 2020-12-19
 categories:
   - "Skin - Dark"

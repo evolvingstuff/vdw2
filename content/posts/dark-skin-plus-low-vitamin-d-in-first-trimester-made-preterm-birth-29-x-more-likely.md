@@ -3,7 +3,8 @@ title: "Dark-skin plus low vitamin D in first trimester made preterm birth 2.9 X
 slug: "dark-skin-plus-low-vitamin-d-in-first-trimester-made-preterm-birth-29-x-more-likely"
 aliases:
   - "/Dark-skin+plus+low+vitamin+D+in+first+trimester+made+preterm+birth+29+X+more+likely+–+Dec+2019"
-  - "/tiki-index.php?page_id=11510"
+  - "/11510"
+tiki_page_id: 11510
 date: 2019-12-29
 ---
 

@@ -3,7 +3,8 @@ title: "Vitamin D does not help gain muscle mass (when only use small doses)"
 slug: "vitamin-d-does-not-help-gain-muscle-mass-when-only-use-small-doses"
 aliases:
   - "/Vitamin+D+does+not+help+gain+muscle+mass+when+only+use+small+doses+–+March+2019"
-  - "/tiki-index.php?page_id=10543"
+  - "/10543"
+tiki_page_id: 10543
 date: 2019-03-03
 categories:
   - "Sports and Vitamin D"

@@ -3,7 +3,8 @@ title: "3X more Omega-3 in eggs if pasture raised"
 slug: "3x-more-omega-3-in-eggs-if-pasture-raised"
 aliases:
   - "/3X+more+Omega-3+in+eggs+if+pasture+raised+-+Dec+2023"
-  - "/tiki-index.php?page_id=14892"
+  - "/14892"
+tiki_page_id: 14892
 date: 2023-12-16
 categories:
   - "Vitamin D and Omega-3"

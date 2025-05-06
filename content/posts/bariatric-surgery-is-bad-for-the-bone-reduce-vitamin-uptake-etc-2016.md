@@ -3,7 +3,8 @@ title: "Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 20
 slug: "bariatric-surgery-is-bad-for-the-bone-reduce-vitamin-uptake-etc-2016"
 aliases:
   - "/Bariatric+Surgery+is+Bad+for+the+Bone+reduce+vitamin+uptake+etc–+2016"
-  - "/tiki-index.php?page_id=11304"
+  - "/11304"
+tiki_page_id: 11304
 date: 2019-11-03
 categories:
   - "Bone - Health"

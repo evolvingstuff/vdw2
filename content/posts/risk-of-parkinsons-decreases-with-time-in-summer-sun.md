@@ -3,7 +3,8 @@ title: "Risk of Parkinson’s decreases with time in summer sun"
 slug: "risk-of-parkinsons-decreases-with-time-in-summer-sun"
 aliases:
   - "/Risk+of+Parkinsons+decreases+with+time+in+summer+sun+-+Jan+2024"
-  - "/tiki-index.php?page_id=14948"
+  - "/14948"
+tiki_page_id: 14948
 date: 2024-01-04
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "Depression: Low vitamin D in the strongest of 11 risk factors"
 slug: "depression-low-vitamin-d-in-the-strongest-of-11-risk-factors"
 aliases:
   - "/Depression+Low+vitamin+D+in+the+strongest+of+11+risk+factors+–+Jan+2023"
-  - "/tiki-index.php?page_id=14235"
+  - "/14235"
+tiki_page_id: 14235
 date: 2023-01-28
 categories:
   - "Depression"

@@ -3,7 +3,8 @@ title: "Confirmed: Diet influences colorectal cancer risk"
 slug: "confirmed-diet-influences-colorectal-cancer-risk"
 aliases:
   - "/Confirmed+Diet+influences+colorectal+cancer+risk+-+March+2021"
-  - "/tiki-index.php?page_id=12377"
+  - "/12377"
+tiki_page_id: 12377
 date: 2021-03-06
 categories:
   - "Cancer - Colon"

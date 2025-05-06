@@ -3,7 +3,8 @@ title: "3,200 IU of Vitamin D for 3 weeks before colon cancer surgery helped a b
 slug: "3200-iu-of-vitamin-d-for-3-weeks-before-colon-cancer-surgery-helped-a-bit-higher--be-much-better"
 aliases:
   - "/3200+IU+of+Vitamin+D+for+3+weeks+before+colon+cancer+surgery+helped+a+bit+higher+or+loading+dose+would+be+much+better+–+March+2023"
-  - "/tiki-index.php?page_id=14345"
+  - "/14345"
+tiki_page_id: 14345
 date: 2023-03-31
 categories:
   - "Cancer - Colon"

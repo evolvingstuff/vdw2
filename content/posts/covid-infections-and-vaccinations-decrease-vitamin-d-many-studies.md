@@ -3,7 +3,8 @@ title: "COVID infections and vaccinations decrease Vitamin D – many studies"
 slug: "covid-infections-and-vaccinations-decrease-vitamin-d-many-studies"
 aliases:
   - "/COVID+infections+and+vaccinations+decrease+Vitamin+D+–+many+studies"
-  - "/tiki-index.php?page_id=14831"
+  - "/14831"
+tiki_page_id: 14831
 date: 2023-11-22
 categories:
   - "Virus"

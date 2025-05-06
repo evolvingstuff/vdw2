@@ -3,7 +3,8 @@ title: "Graves' disease 2X more likely if poor Vitamin D Receptor (like many oth
 slug: "graves-disease-2x-more-likely-if-poor-vitamin-d-receptor-like-many-other-autoimmune-diseases"
 aliases:
   - "/Graves+disease+2X+more+likely+if+poor+Vitamin+D+Receptor+like+many+other+autoimmune+diseases+–+May+2021"
-  - "/tiki-index.php?page_id=12629"
+  - "/12629"
+tiki_page_id: 12629
 date: 2021-06-03
 categories:
   - "Autoimmune"

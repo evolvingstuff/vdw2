@@ -3,7 +3,8 @@ title: "Autism increased 53 percent between 2017 and 2020"
 slug: "autism-increased-53-percent-between-2017-and-2020"
 aliases:
   - "/Autism+increased+53+percent+between+2017+and+2020+-+July+2022"
-  - "/tiki-index.php?page_id=13759"
+  - "/13759"
+tiki_page_id: 13759
 date: 2022-07-14
 categories:
   - "Autism"

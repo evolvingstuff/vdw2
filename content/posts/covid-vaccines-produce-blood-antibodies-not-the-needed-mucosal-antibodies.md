@@ -3,7 +3,8 @@ title: "COVID vaccines produce blood antibodies, not the needed mucosal antibodi
 slug: "covid-vaccines-produce-blood-antibodies-not-the-needed-mucosal-antibodies"
 aliases:
   - "/COVID+vaccines+produce+blood+antibodies+not+the+needed+mucosal+antibodies+-+Dec+7+2021"
-  - "/tiki-index.php?page_id=13156"
+  - "/13156"
+tiki_page_id: 13156
 date: 2021-12-08
 categories:
   - "Books, videos on Vitamin D"

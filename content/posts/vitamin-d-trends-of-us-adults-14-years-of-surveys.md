@@ -3,7 +3,8 @@ title: "Vitamin D trends of US adults - 14 years of surveys"
 slug: "vitamin-d-trends-of-us-adults-14-years-of-surveys"
 aliases:
   - "/Vitamin+D+trends+of+US+adults+-+14+years+of+surveys+-+Jan+2022"
-  - "/tiki-index.php?page_id=13305"
+  - "/13305"
+tiki_page_id: 13305
 date: 2022-01-31
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Increase in COVID Omicron deaths among vaccinated (CA this time)"
 slug: "increase-in-covid-omicron-deaths-among-vaccinated-ca-this-time"
 aliases:
   - "/Increase+in+COVID+Omicron+deaths+among+vaccinated+CA+this+time+-+March+2022"
-  - "/tiki-index.php?page_id=13436"
+  - "/13436"
+tiki_page_id: 13436
 date: 2022-03-27
 categories:
   - "Virus"

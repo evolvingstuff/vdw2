@@ -3,7 +3,8 @@ title: "COPD increases risk of bone fracture by 4.7 X (low vitamin D)"
 slug: "copd-increases-risk-of-bone-fracture-by-47-x-low-vitamin-d"
 aliases:
   - "/COPD+increases+risk+of+bone+fracture+by+47+X+low+vitamin+D+–+Dec+2019"
-  - "/tiki-index.php?page_id=11435"
+  - "/11435"
+tiki_page_id: 11435
 date: 2019-12-08
 categories:
   - "Breathing"

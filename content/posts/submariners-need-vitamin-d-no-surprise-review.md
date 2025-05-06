@@ -3,7 +3,8 @@ title: "Submariners need Vitamin D (no surprise) – Review"
 slug: "submariners-need-vitamin-d-no-surprise-review"
 aliases:
   - "/Submariners+need+Vitamin+D+no+surprise+–+Review+March+2023"
-  - "/tiki-index.php?page_id=14353"
+  - "/14353"
+tiki_page_id: 14353
 date: 2023-04-04
 categories:
   - "High Risk"

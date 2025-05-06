@@ -3,7 +3,8 @@ title: "Multiple Sclerosis - Coimbra Protocol (high-dose Vitamin D) - by one of 
 slug: "multiple-sclerosis-coimbra-protocol-high-dose-vitamin-d-by-one-of-the-120-doctors-of-20000-patients"
 aliases:
   - "/Multiple+Sclerosis+-+Coimbra+Protocol+high-dose+Vitamin+D+-+by+one+of+the+120+doctors+of+20000+patients+-+Dec+2018"
-  - "/tiki-index.php?page_id=10285"
+  - "/10285"
+tiki_page_id: 10285
 date: 2018-12-07
 categories:
   - "Multiple Sclerosis"

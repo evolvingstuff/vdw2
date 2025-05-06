@@ -3,7 +3,8 @@ title: "Vitamin D Myths - SUN"
 slug: "vitamin-d-myths-sun"
 aliases:
   - "/Vitamin+D+Myths+-+SUN"
-  - "/tiki-index.php?page_id=10747"
+  - "/10747"
+tiki_page_id: 10747
 date: 2019-05-08
 categories:
   - "Noontime sun and D"

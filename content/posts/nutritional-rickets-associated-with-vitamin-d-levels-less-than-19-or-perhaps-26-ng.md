@@ -3,7 +3,8 @@ title: "Nutritional Rickets associated with vitamin D levels less than 19 or per
 slug: "nutritional-rickets-associated-with-vitamin-d-levels-less-than-19-or-perhaps-26-ng"
 aliases:
   - "/Nutritional+Rickets+associated+with+vitamin+D+levels+less+than+19+or+perhaps+26+ng+–+April+2021"
-  - "/tiki-index.php?page_id=12517"
+  - "/12517"
+tiki_page_id: 12517
 date: 2021-04-20
 categories:
   - "Rickets"

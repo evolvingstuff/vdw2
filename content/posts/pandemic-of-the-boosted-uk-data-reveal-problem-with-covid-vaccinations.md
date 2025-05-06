@@ -3,7 +3,8 @@ title: "Pandemic of the Boosted: UK Data Reveal Problem With COVID Vaccinations"
 slug: "pandemic-of-the-boosted-uk-data-reveal-problem-with-covid-vaccinations"
 aliases:
   - "/Pandemic+of+the+Boosted+UK+Data+Reveal+Problem+With+COVID+Vaccinations+-+July+2022"
-  - "/tiki-index.php?page_id=13782"
+  - "/13782"
+tiki_page_id: 13782
 date: 2022-07-21
 categories:
   - "Virus"

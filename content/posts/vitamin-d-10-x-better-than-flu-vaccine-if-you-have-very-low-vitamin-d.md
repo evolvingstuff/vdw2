@@ -3,7 +3,8 @@ title: "Vitamin D 10 x better than Flu Vaccine if you have very low vitamin D"
 slug: "vitamin-d-10-x-better-than-flu-vaccine-if-you-have-very-low-vitamin-d"
 aliases:
   - "/Vitamin+D+10+x+better+than+Flu+Vaccine+if+you+have+very+low+vitamin+D+–+Feb+2017"
-  - "/tiki-index.php?page_id=10457"
+  - "/10457"
+tiki_page_id: 10457
 date: 2019-02-03
 categories:
   - "Virus"

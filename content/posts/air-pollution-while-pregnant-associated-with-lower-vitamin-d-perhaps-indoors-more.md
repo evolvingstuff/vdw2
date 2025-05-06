@@ -3,7 +3,8 @@ title: "Air pollution while pregnant associated with lower vitamin D (perhaps in
 slug: "air-pollution-while-pregnant-associated-with-lower-vitamin-d-perhaps-indoors-more"
 aliases:
   - "/Air+pollution+while+pregnant+associated+with+lower+vitamin+D+perhaps+indoors+more+–+March+2019"
-  - "/tiki-index.php?page_id=10598"
+  - "/10598"
+tiki_page_id: 10598
 date: 2019-03-22
 categories:
   - "Pregnancy"

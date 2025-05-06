@@ -3,7 +3,8 @@ title: "Fibromyalgia Syndrome correlated with poor Vitamin D Receptor (less D to
 slug: "fibromyalgia-syndrome-correlated-with-poor-vitamin-d-receptor-less-d-to-cells-in-a-small-study"
 aliases:
   - "/Fibromyalgia+Syndrome+correlated+with+poor+Vitamin+D+Receptor+less+D+to+cells+in+a+small+study+–+July+2022"
-  - "/tiki-index.php?page_id=13858"
+  - "/13858"
+tiki_page_id: 13858
 date: 2022-08-24
 categories:
   - "Pain - chronic"

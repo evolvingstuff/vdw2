@@ -3,7 +3,8 @@ title: "Dental problems if low Vitamin D (Hill's, Global Rec.) - Grant"
 slug: "dental-problems-if-low-vitamin-d-hills-global-rec-grant"
 aliases:
   - "/Dental+problems+if+low+Vitamin+D+Hills+Global+Rec+-+Grant+June+2023"
-  - "/tiki-index.php?page_id=14579"
+  - "/14579"
+tiki_page_id: 14579
 date: 2023-08-02
 categories:
   - "Dental"

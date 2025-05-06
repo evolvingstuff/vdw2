@@ -3,7 +3,8 @@ title: "Review of Early Treatments of COVID-19 (within a few days of symptoms)"
 slug: "review-of-early-treatments-of-covid-19-within-a-few-days-of-symptoms"
 aliases:
   - "/Review+of+Early+Treatments+of+COVID-19+within+a+few+days+of+symptoms"
-  - "/tiki-index.php?page_id=13053"
+  - "/13053"
+tiki_page_id: 13053
 date: 2021-11-06
 categories:
   - "Virus"

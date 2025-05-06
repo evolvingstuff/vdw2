@@ -3,7 +3,8 @@ title: "Risk of preeclampsia should drop to nearly zero at 60 ng of Vitamin D"
 slug: "risk-of-preeclampsia-should-drop-to-nearly-zero-at-60-ng-of-vitamin-d"
 aliases:
   - "/Risk+of+preeclampsia+should+drop+to+nearly+zero+at+60+ng+of+Vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13783"
+  - "/13783"
+tiki_page_id: 13783
 date: 2022-07-22
 categories:
   - "Pregnancy"

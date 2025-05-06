@@ -3,7 +3,8 @@ title: "Low vitamin D is big problem during pregnancies (Saudi Arabia in this ca
 slug: "low-vitamin-d-is-big-problem-during-pregnancies-saudi-arabia-in-this-case"
 aliases:
   - "/Low+vitamin+D+is+big+problem+during+pregnancies+Saudi+Arabia+in+this+case+–+Aug+2022"
-  - "/tiki-index.php?page_id=13793"
+  - "/13793"
+tiki_page_id: 13793
 date: 2022-07-25
 categories:
   - "Pregnancy"

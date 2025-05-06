@@ -3,7 +3,8 @@ title: "Knee osteoarthritis: Vitamin D is the 4th best treatment – meta-analys
 slug: "knee-osteoarthritis-vitamin-d-is-the-4th-best-treatment-meta-analysis"
 aliases:
   - "/Knee+osteoarthritis+Vitamin+D+is+the+4th+best+treatment+–+meta-analysis+Oct+2020"
-  - "/tiki-index.php?page_id=12018"
+  - "/12018"
+tiki_page_id: 12018
 date: 2020-10-21
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D and Calcium for Osteroporosis in France increased by 4X: 2007-
 slug: "vitamin-d-and-calcium-for-osteroporosis-in-france-increased-by-4x-2007-2016"
 aliases:
   - "/Vitamin+D+and+Calcium+for+Osteroporosis+in+France+increased+by+4X+2007-2016"
-  - "/tiki-index.php?page_id=13075"
+  - "/13075"
+tiki_page_id: 13075
 date: 2021-11-12
 categories:
   - "Osteoporosis"

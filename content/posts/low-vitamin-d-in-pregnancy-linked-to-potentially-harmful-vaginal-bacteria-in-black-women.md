@@ -3,7 +3,8 @@ title: "Low vitamin D in pregnancy linked to potentially harmful vaginal bacteri
 slug: "low-vitamin-d-in-pregnancy-linked-to-potentially-harmful-vaginal-bacteria-in-black-women"
 aliases:
   - "/Low+vitamin+D+in+pregnancy+linked+to+potentially+harmful+vaginal+bacteria+in+black+women+-+May+2019"
-  - "/tiki-index.php?page_id=10837"
+  - "/10837"
+tiki_page_id: 10837
 date: 2019-06-05
 categories:
   - "Skin - Dark"

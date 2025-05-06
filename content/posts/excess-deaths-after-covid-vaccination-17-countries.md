@@ -3,7 +3,8 @@ title: "Excess deaths after COVID vaccination - 17 countries"
 slug: "excess-deaths-after-covid-vaccination-17-countries"
 aliases:
   - "/Excess+deaths+after+COVID+vaccination+-+17+countries+-+Sept+2023"
-  - "/tiki-index.php?page_id=14724"
+  - "/14724"
+tiki_page_id: 14724
 date: 2023-10-04
 categories:
   - "Mortality and D"

@@ -3,7 +3,8 @@ title: "1 Million similar molecules are possibly like DNA"
 slug: "1-million-similar-molecules-are-possibly-like-dna"
 aliases:
   - "/1+Million+similar+molecules+are+possibly+like+DNA"
-  - "/tiki-index.php?page_id=11364"
+  - "/11364"
+tiki_page_id: 11364
 date: 2019-11-17
 categories:
   - "Z-section"

@@ -3,7 +3,8 @@ title: "Greatly improved Vitamin D testing repeatability"
 slug: "greatly-improved-vitamin-d-testing-repeatability"
 aliases:
   - "/Greatly+improved+Vitamin+D+testing+repeatability+–+May+2020"
-  - "/tiki-index.php?page_id=11781"
+  - "/11781"
+tiki_page_id: 11781
 date: 2020-05-24
 categories:
   - "Tests for Vitamin D"

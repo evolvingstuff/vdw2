@@ -3,7 +3,8 @@ title: "Fibromyalgia associated with low vitamin D, more studies needed – revi
 slug: "fibromyalgia-associated-with-low-vitamin-d-more-studies-needed-review"
 aliases:
   - "/Fibromyalgia+associated+with+low+vitamin+D+more+studies+needed+–+review+Dec+2018"
-  - "/tiki-index.php?page_id=10122"
+  - "/10122"
+tiki_page_id: 10122
 date: 2018-10-15
 ---
 

@@ -3,7 +3,8 @@ title: "Vitamin D is low in Europe – 40 percent have less than 20 ng – ODEN"
 slug: "vitamin-d-is-low-in-europe-40-percent-have-less-than-20-ng-oden"
 aliases:
   - "/Vitamin+D+is+low+in+Europe+–+40+percent+have+less+than+20+ng+–+ODEN+Oct+2018"
-  - "/tiki-index.php?page_id=10152"
+  - "/10152"
+tiki_page_id: 10152
 date: 2018-10-24
 categories:
   - "Deficiency of Vitamin D"

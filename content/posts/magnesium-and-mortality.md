@@ -3,7 +3,8 @@ title: "Magnesium and Mortality"
 slug: "magnesium-and-mortality"
 aliases:
   - "/Magnesium+and+Mortality+–+June+2020"
-  - "/tiki-index.php?page_id=13625"
+  - "/13625"
+tiki_page_id: 13625
 date: 2022-06-01
 categories:
   - "Mortality and D"

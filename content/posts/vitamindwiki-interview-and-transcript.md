@@ -3,7 +3,8 @@ title: "VitaminDWiki interview and transcript"
 slug: "vitamindwiki-interview-and-transcript"
 aliases:
   - "/VitaminDWiki+interview+and+transcript+-+Jan+2022"
-  - "/tiki-index.php?page_id=13269"
+  - "/13269"
+tiki_page_id: 13269
 date: 2022-01-19
 categories:
   - "Books, videos on Vitamin D"

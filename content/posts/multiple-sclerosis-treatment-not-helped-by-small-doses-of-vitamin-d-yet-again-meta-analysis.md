@@ -3,7 +3,8 @@ title: "Multiple Sclerosis treatment not helped by small doses of vitamin D (yet
 slug: "multiple-sclerosis-treatment-not-helped-by-small-doses-of-vitamin-d-yet-again-meta-analysis"
 aliases:
   - "/Multiple+Sclerosis+treatment+not+helped+by+small+doses+of+vitamin+D+yet+again+–+meta-analysis+Jan+2024"
-  - "/tiki-index.php?page_id=14966"
+  - "/14966"
+tiki_page_id: 14966
 date: 2024-01-12
 categories:
   - "Multiple Sclerosis"

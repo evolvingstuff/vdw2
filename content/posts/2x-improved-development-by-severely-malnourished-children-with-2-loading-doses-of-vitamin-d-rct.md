@@ -3,7 +3,8 @@ title: "2X improved development by severely malnourished children with 2 loading
 slug: "2x-improved-development-by-severely-malnourished-children-with-2-loading-doses-of-vitamin-d-rct"
 aliases:
   - "/2X+improved+development+by+severely+malnourished+children+with+2+loading+doses+of+vitamin+D+–+RCT+May+2018"
-  - "/tiki-index.php?page_id=11007"
+  - "/11007"
+tiki_page_id: 11007
 date: 2019-07-19
 categories:
   - "Loading dose for Vitamin D"

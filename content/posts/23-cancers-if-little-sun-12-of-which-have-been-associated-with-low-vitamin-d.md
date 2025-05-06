@@ -3,7 +3,8 @@ title: "23 Cancers if little sun, 12 of which have been associated with low vita
 slug: "23-cancers-if-little-sun-12-of-which-have-been-associated-with-low-vitamin-d"
 aliases:
   - "/23+Cancers+if+little+sun+12+of+which+have+been+associated+with+low+vitamin+D+–+March+2022"
-  - "/tiki-index.php?page_id=13441"
+  - "/13441"
+tiki_page_id: 13441
 date: 2022-03-30
 categories:
   - "Noontime sun and D"

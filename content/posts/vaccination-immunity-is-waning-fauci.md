@@ -3,7 +3,8 @@ title: "Vaccination immunity is waning - Fauci"
 slug: "vaccination-immunity-is-waning-fauci"
 aliases:
   - "/Vaccination+immunity+is+waning+-+Fauci+-+Nov+14+2021"
-  - "/tiki-index.php?page_id=13084"
+  - "/13084"
+tiki_page_id: 13084
 date: 2021-11-15
 categories:
   - "Virus"

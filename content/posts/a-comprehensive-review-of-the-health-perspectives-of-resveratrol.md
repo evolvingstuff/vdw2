@@ -3,7 +3,8 @@ title: "A comprehensive review of the health perspectives of resveratrol"
 slug: "a-comprehensive-review-of-the-health-perspectives-of-resveratrol"
 aliases:
   - "/A+comprehensive+review+of+the+health+perspectives+of+resveratrol+–+Dec+2017"
-  - "/tiki-index.php?page_id=10709"
+  - "/10709"
+tiki_page_id: 10709
 date: 2019-04-28
 categories:
   - "Resveratrol"

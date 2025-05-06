@@ -3,7 +3,8 @@ title: "Drink Water Reminder - there's an app for that"
 slug: "drink-water-reminder-theres-an-app-for-that"
 aliases:
   - "/Drink+Water+Reminder+-+theres+an+app+for+that"
-  - "/tiki-index.php?page_id=10276"
+  - "/10276"
+tiki_page_id: 10276
 date: 2018-12-06
 categories:
   - "Toxicity of Vitamin D"

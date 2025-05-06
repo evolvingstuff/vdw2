@@ -3,7 +3,8 @@ title: "Breast Cancer, Vitamin D, and genes – Welsh"
 slug: "breast-cancer-vitamin-d-and-genes-welsh"
 aliases:
   - "/Breast+Cancer+Vitamin+D+and+genes+–+Welsh+Nov+2021"
-  - "/tiki-index.php?page_id=13089"
+  - "/13089"
+tiki_page_id: 13089
 date: 2021-11-17
 categories:
   - "Cancer - Breast"

@@ -3,7 +3,8 @@ title: "Prisoners Get More Time Outdoors Than Children"
 slug: "prisoners-get-more-time-outdoors-than-children"
 aliases:
   - "/Prisoners+Get+More+Time+Outdoors+Than+Children+-+Feb+2019"
-  - "/tiki-index.php?page_id=10450"
+  - "/10450"
+tiki_page_id: 10450
 date: 2019-02-01
 categories:
   - "Noontime sun and D"

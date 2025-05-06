@@ -3,7 +3,8 @@ title: "Hypothesis: Placentas cause more autoimmune diseases in females"
 slug: "hypothesis-placentas-cause-more-autoimmune-diseases-in-females"
 aliases:
   - "/Hypothesis+Placentas+cause+more+autoimmune+diseases+in+females+–+July+2019"
-  - "/tiki-index.php?page_id=10895"
+  - "/10895"
+tiki_page_id: 10895
 date: 2019-06-18
 categories:
   - "Autoimmune"

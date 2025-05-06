@@ -3,7 +3,8 @@ title: "Long-Haul COVID-19 occurred to 1 in 20 who had been asymptomatic (a stud
 slug: "long-haul-covid-19-occurred-to-1-in-20-who-had-been-asymptomatic-a-study-of-2-million-with-covid-19"
 aliases:
   - "/Long-Haul+COVID-19+occurred+to+1+in+20+who+had+been+asymptomatic+a+study+of+2+million+with+COVID-19+–+June+2021"
-  - "/tiki-index.php?page_id=12659"
+  - "/12659"
+tiki_page_id: 12659
 date: 2021-06-15
 categories:
   - "Virus"

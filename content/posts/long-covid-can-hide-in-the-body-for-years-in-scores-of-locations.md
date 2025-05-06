@@ -3,7 +3,8 @@ title: "Long-COVID can hide in the body for years in scores of locations"
 slug: "long-covid-can-hide-in-the-body-for-years-in-scores-of-locations"
 aliases:
   - "/Long-COVID+can+hide+in+the+body+for+years+in+scores+of+locations+–+Sept+2023"
-  - "/tiki-index.php?page_id=14669"
+  - "/14669"
+tiki_page_id: 14669
 date: 2023-09-09
 categories:
   - "Virus"

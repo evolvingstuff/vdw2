@@ -3,7 +3,8 @@ title: "1.9 million excess Chinese employee deaths in Jan-Feb 2023"
 slug: "19-million-excess-chinese-employee-deaths-in-jan"
 aliases:
   - "/19+million+excess+Chinese+employee+deaths+in+Jan-Feb+2023+-+Aug+2023"
-  - "/tiki-index.php?page_id=14630"
+  - "/14630"
+tiki_page_id: 14630
 date: 2023-08-25
 ---
 

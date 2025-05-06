@@ -3,7 +3,8 @@ title: "Cochrane Reviews might be influenced by big Pharma – 5 board members l
 slug: "cochrane-reviews-might-be-influenced-by-big-pharma-5-board-members-leave-in-1-day"
 aliases:
   - "/Cochrane+Reviews+might+be+influenced+by+big+Pharma+–+5+board+members+leave+in+1+day+–+Sept+2018"
-  - "/tiki-index.php?page_id=10072"
+  - "/10072"
+tiki_page_id: 10072
 date: 2018-09-26
 ---
 

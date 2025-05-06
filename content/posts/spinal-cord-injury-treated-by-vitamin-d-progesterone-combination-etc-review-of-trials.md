@@ -3,7 +3,8 @@ title: "Spinal Cord Injury treated by Vitamin D progesterone combination, etc. �
 slug: "spinal-cord-injury-treated-by-vitamin-d-progesterone-combination-etc-review-of-trials"
 aliases:
   - "/Spinal+Cord+Injury+treated+by+Vitamin+D+progesterone+combination+etc+–+review+of+trials+–+Aug+2019"
-  - "/tiki-index.php?page_id=11067"
+  - "/11067"
+tiki_page_id: 11067
 date: 2019-08-14
 categories:
   - "Trauma and surgery"

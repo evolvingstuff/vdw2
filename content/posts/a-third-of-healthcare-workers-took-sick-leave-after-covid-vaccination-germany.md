@@ -3,7 +3,8 @@ title: "A third of healthcare workers took sick leave after Covid vaccination (G
 slug: "a-third-of-healthcare-workers-took-sick-leave-after-covid-vaccination-germany"
 aliases:
   - "/A+third+of+healthcare+workers+took+sick+leave+after+Covid+vaccination+Germany+-+April+2022"
-  - "/tiki-index.php?page_id=13697"
+  - "/13697"
+tiki_page_id: 13697
 date: 2022-06-22
 categories:
   - "Virus"

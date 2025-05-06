@@ -3,7 +3,8 @@ title: "Grip strength following wrist fracture increased by 50,000 IU Vitamin D 
 slug: "grip-strength-following-wrist-fracture-increased-by-50000-iu-vitamin-d-monthly"
 aliases:
   - "/Grip+strength+following+wrist+fracture+increased+by+50000+IU+Vitamin+D+monthly+–+May+2019"
-  - "/tiki-index.php?page_id=10751"
+  - "/10751"
+tiki_page_id: 10751
 date: 2019-05-09
 categories:
   - "Intervention"

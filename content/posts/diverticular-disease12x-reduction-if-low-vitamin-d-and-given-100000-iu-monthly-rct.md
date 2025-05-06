@@ -3,7 +3,8 @@ title: "Diverticular disease:12X reduction if low Vitamin D and given 100,000 IU
 slug: "diverticular-disease12x-reduction-if-low-vitamin-d-and-given-100000-iu-monthly-rct"
 aliases:
   - "/Diverticular+disease12X+reduction+if+low+Vitamin+D+and+given+100000+IU+monthly+–+RCT+Aug+2020"
-  - "/tiki-index.php?page_id=11930"
+  - "/11930"
+tiki_page_id: 11930
 date: 2020-09-01
 categories:
   - "Gut"

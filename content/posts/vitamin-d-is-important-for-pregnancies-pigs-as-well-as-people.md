@@ -3,7 +3,8 @@ title: "Vitamin D is important for pregnancies (pigs as well as people)"
 slug: "vitamin-d-is-important-for-pregnancies-pigs-as-well-as-people"
 aliases:
   - "/Vitamin+D+is+important+for+pregnancies+pigs+as+well+as+people–+Sept+2022"
-  - "/tiki-index.php?page_id=13925"
+  - "/13925"
+tiki_page_id: 13925
 date: 2022-09-20
 categories:
   - "Veterinary and Vitamin D"

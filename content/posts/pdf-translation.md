@@ -3,7 +3,8 @@ title: "PDF translation"
 slug: "pdf-translation"
 aliases:
   - "/PDF+translation"
-  - "/tiki-index.php?page_id=12448"
+  - "/12448"
+tiki_page_id: 12448
 date: 2021-03-28
 categories:
   - "Z"

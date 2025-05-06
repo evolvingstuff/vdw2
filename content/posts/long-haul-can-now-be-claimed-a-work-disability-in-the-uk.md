@@ -3,7 +3,8 @@ title: "Long-Haul can now be claimed a work disability in the UK"
 slug: "long-haul-can-now-be-claimed-a-work-disability-in-the-uk"
 aliases:
   - "/Long-Haul+can+now+be+claimed+a+work+disability+in+the+UK+–+June+2022"
-  - "/tiki-index.php?page_id=13709"
+  - "/13709"
+tiki_page_id: 13709
 date: 2022-06-24
 categories:
   - "Virus"

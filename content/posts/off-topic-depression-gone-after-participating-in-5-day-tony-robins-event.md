@@ -3,7 +3,8 @@ title: "Off-topic: Depression gone after participating in 5 day Tony Robins even
 slug: "off-topic-depression-gone-after-participating-in-5-day-tony-robins-event"
 aliases:
   - "/Off-topic+Depression+gone+after+participating+in+5+day+Tony+Robins+event+-+May+2022"
-  - "/tiki-index.php?page_id=13561"
+  - "/13561"
+tiki_page_id: 13561
 date: 2022-05-15
 categories:
   - "Health"

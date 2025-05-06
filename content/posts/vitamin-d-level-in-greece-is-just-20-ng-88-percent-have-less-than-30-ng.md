@@ -3,7 +3,8 @@ title: "Vitamin D level in Greece is just 20 ng, 88 percent have less than 30 ng
 slug: "vitamin-d-level-in-greece-is-just-20-ng-88-percent-have-less-than-30-ng"
 aliases:
   - "/Vitamin+D+level+in+Greece+is+just+20+ng+88+percent+have+less+than+30+ng+–+Oct+2018"
-  - "/tiki-index.php?page_id=10130"
+  - "/10130"
+tiki_page_id: 10130
 date: 2018-10-17
 categories:
   - "Vitamin D in Europe"

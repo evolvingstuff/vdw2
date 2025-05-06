@@ -3,7 +3,8 @@ title: "Ovarian Cancer treated by Vitamin D, but fear hypercalcemia (why not jus
 slug: "ovarian-cancer-treated-by-vitamin-d-but-fear-hypercalcemia-why-not-just-take-less-calcium"
 aliases:
   - "/Ovarian+Cancer+treated+by+Vitamin+D+but+fear+hypercalcemia+why+not+just+take+less+Calcium+–+Sept+2022"
-  - "/tiki-index.php?page_id=13923"
+  - "/13923"
+tiki_page_id: 13923
 date: 2022-09-19
 categories:
   - "Cancer - Ovarian"

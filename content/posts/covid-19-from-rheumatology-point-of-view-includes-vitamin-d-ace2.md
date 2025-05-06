@@ -3,7 +3,8 @@ title: "COVID-19 from Rheumatology point of view (includes Vitamin D, ACE2)"
 slug: "covid-19-from-rheumatology-point-of-view-includes-vitamin-d-ace2"
 aliases:
   - "/COVID-19+from+Rheumatology+point+of+view+includes+Vitamin+D+ACE2+–+April+2020"
-  - "/tiki-index.php?page_id=11725"
+  - "/11725"
+tiki_page_id: 11725
 date: 2020-04-12
 categories:
   - "Rheumatoid Arthritis"

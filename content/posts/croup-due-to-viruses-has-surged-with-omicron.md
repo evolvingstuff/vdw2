@@ -3,7 +3,8 @@ title: "Croup (due to viruses) has surged with Omicron"
 slug: "croup-due-to-viruses-has-surged-with-omicron"
 aliases:
   - "/Croup+due+to+viruses+has+surged+with+Omicron+-+March+2022"
-  - "/tiki-index.php?page_id=13420"
+  - "/13420"
+tiki_page_id: 13420
 date: 2022-03-21
 categories:
   - "Breathing"

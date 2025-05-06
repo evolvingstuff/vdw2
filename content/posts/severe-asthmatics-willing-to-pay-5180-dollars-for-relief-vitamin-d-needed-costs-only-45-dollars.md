@@ -3,7 +3,8 @@ title: "Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D need
 slug: "severe-asthmatics-willing-to-pay-5180-dollars-for-relief-vitamin-d-needed-costs-only-45-dollars"
 aliases:
   - "/Severe+asthmatics+willing+to+pay+5180+dollars+for+relief+Vitamin+D+needed+costs+only+45+dollars+–+Sept+2023"
-  - "/tiki-index.php?page_id=14608"
+  - "/14608"
+tiki_page_id: 14608
 date: 2023-08-13
 categories:
   - "Breathing"

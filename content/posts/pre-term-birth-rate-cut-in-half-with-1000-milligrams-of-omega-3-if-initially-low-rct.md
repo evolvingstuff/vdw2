@@ -3,7 +3,8 @@ title: "Pre-term birth rate cut in half with 1000 milligrams of Omega-3 (if init
 slug: "pre-term-birth-rate-cut-in-half-with-1000-milligrams-of-omega-3-if-initially-low-rct"
 aliases:
   - "/Pre-term+birth+rate+cut+in+half+with+1000+milligrams+of+Omega-3+if+initially+low+–+RCT+May+2021"
-  - "/tiki-index.php?page_id=12636"
+  - "/12636"
+tiki_page_id: 12636
 date: 2021-06-04
 categories:
   - "Pregnancy"

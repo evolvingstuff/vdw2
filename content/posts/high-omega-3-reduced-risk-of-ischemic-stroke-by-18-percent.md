@@ -3,7 +3,8 @@ title: "High Omega-3 reduced risk of Ischemic stroke by 18%"
 slug: "high-omega-3-reduced-risk-of-ischemic-stroke-by-18-percent"
 aliases:
   - "/High+Omega-3+reduced+risk+of+Ischemic+stroke+by+18+-+Dec+2023"
-  - "/tiki-index.php?page_id=14949"
+  - "/14949"
+tiki_page_id: 14949
 date: 2024-01-05
 categories:
   - "Stroke"

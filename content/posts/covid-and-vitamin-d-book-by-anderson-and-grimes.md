@@ -3,7 +3,8 @@ title: "COVID and Vitamin D book by Anderson and Grimes"
 slug: "covid-and-vitamin-d-book-by-anderson-and-grimes"
 aliases:
   - "/COVID+and+Vitamin+D+book+by+Anderson+and+Grimes+-+Sept+2023"
-  - "/tiki-index.php?page_id=14696"
+  - "/14696"
+tiki_page_id: 14696
 date: 2023-09-22
 categories:
   - "Books, videos on Vitamin D"

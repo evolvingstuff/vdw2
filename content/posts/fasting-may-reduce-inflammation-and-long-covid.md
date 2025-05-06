@@ -3,7 +3,8 @@ title: "Fasting may reduce inflammation and long-COVID"
 slug: "fasting-may-reduce-inflammation-and-long-covid"
 aliases:
   - "/Fasting+may+reduce+inflammation+and+long-COVID+-+June+2023"
-  - "/tiki-index.php?page_id=14480"
+  - "/14480"
+tiki_page_id: 14480
 date: 2023-06-11
 categories:
   - "Inflammation"

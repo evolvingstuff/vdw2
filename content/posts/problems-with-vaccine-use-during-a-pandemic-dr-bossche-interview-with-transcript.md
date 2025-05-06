@@ -3,7 +3,8 @@ title: "Problems with vaccine use during a pandemic - Dr. Bossche interview with
 slug: "problems-with-vaccine-use-during-a-pandemic-dr-bossche-interview-with-transcript"
 aliases:
   - "/Problems+with+vaccine+use+during+a+pandemic+-+Dr+Bossche+interview+with+transcript+-+April+22+2021"
-  - "/tiki-index.php?page_id=12548"
+  - "/12548"
+tiki_page_id: 12548
 date: 2021-04-28
 categories:
   - "Virus"

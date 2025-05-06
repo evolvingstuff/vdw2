@@ -3,7 +3,8 @@ title: "Yet another form of Vitamin D – micellized"
 slug: "yet-another-form-of-vitamin-d-micellized"
 aliases:
   - "/Yet+another+form+of+Vitamin+D+–+micellized"
-  - "/tiki-index.php?page_id=10592"
+  - "/10592"
+tiki_page_id: 10592
 date: 2019-03-20
 categories:
   - "Forms of Vitamin D"

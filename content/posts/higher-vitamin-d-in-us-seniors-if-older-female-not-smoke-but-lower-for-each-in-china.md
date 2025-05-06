@@ -3,7 +3,8 @@ title: "Higher Vitamin D in US seniors if older, female, not smoke, but LOWER fo
 slug: "higher-vitamin-d-in-us-seniors-if-older-female-not-smoke-but-lower-for-each-in-china"
 aliases:
   - "/Higher+Vitamin+D+in+US+seniors+if+older+female+not+smoke+but+LOWER+for+each+in+China+–+Dec+2019"
-  - "/tiki-index.php?page_id=11558"
+  - "/11558"
+tiki_page_id: 11558
 date: 2020-01-14
 categories:
   - "Deficiency of Vitamin D"

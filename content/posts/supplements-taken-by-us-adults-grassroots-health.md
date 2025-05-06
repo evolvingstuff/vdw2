@@ -3,7 +3,8 @@ title: "Supplements taken by US Adults, Grassroots Health"
 slug: "supplements-taken-by-us-adults-grassroots-health"
 aliases:
   - "/Supplements+taken+by+US+Adults+Grassroots+Health+–+March+2019"
-  - "/tiki-index.php?page_id=10583"
+  - "/10583"
+tiki_page_id: 10583
 date: 2019-03-19
 categories:
   - "Supplement"

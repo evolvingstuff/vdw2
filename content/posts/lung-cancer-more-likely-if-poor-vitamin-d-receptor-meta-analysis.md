@@ -3,7 +3,8 @@ title: "Lung Cancer more likely if poor Vitamin D Receptor – meta-analysis"
 slug: "lung-cancer-more-likely-if-poor-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Lung+Cancer+more+likely+if+poor+Vitamin+D+Receptor+–+meta-analysis+June+2019"
-  - "/tiki-index.php?page_id=10860"
+  - "/10860"
+tiki_page_id: 10860
 date: 2019-06-13
 categories:
   - "Meta-analysis of Vitamin D"

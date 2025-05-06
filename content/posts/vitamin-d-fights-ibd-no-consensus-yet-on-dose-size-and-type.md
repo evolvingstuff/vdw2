@@ -3,7 +3,8 @@ title: "Vitamin D fights IBD, no consensus yet on dose size and type"
 slug: "vitamin-d-fights-ibd-no-consensus-yet-on-dose-size-and-type"
 aliases:
   - "/Vitamin+D+fights+IBD+no+consensus+yet+on+dose+size+and+type+–+Aug+2022"
-  - "/tiki-index.php?page_id=13863"
+  - "/13863"
+tiki_page_id: 13863
 date: 2022-08-26
 categories:
   - "Gut"

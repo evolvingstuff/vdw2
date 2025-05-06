@@ -3,7 +3,8 @@ title: "Vitamin D: 100 year anniversary of discovery – Holick"
 slug: "vitamin-d-100-year-anniversary-of-discovery-holick"
 aliases:
   - "/Vitamin+D+100+year+anniversary+of+discovery+–+Holick+Jan+2023"
-  - "/tiki-index.php?page_id=14227"
+  - "/14227"
+tiki_page_id: 14227
 date: 2023-01-23
 ---
 

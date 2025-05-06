@@ -3,7 +3,8 @@ title: "Osteoporosis treatment – Vitamin D is the most cost-effective"
 slug: "osteoporosis-treatment-vitamin-d-is-the-most-cost-effective"
 aliases:
   - "/Osteoporosis+treatment+–+Vitamin+D+is+the+most+cost-effective+–+April+2019"
-  - "/tiki-index.php?page_id=10679"
+  - "/10679"
+tiki_page_id: 10679
 date: 2019-04-21
 categories:
   - "Osteoporosis"

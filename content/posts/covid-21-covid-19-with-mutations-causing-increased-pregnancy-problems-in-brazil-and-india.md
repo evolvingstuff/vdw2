@@ -3,7 +3,8 @@ title: "COVID-21 (COVID-19 with mutations) causing increased pregnancy problems 
 slug: "covid-21-covid-19-with-mutations-causing-increased-pregnancy-problems-in-brazil-and-india"
 aliases:
   - "/COVID-21+COVID-19+with+mutations+causing+increased+pregnancy+problems+in+Brazil+and+India+–+May+2021"
-  - "/tiki-index.php?page_id=12610"
+  - "/12610"
+tiki_page_id: 12610
 date: 2021-05-27
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Graves disease 1.7 X more likely if poor genes"
 slug: "graves-disease-17-x-more-likely-if-poor-genes"
 aliases:
   - "/Graves+disease+17+X+more+likely+if+poor+genes+-+Aug+2022"
-  - "/tiki-index.php?page_id=13848"
+  - "/13848"
+tiki_page_id: 13848
 date: 2022-08-19
 ---
 

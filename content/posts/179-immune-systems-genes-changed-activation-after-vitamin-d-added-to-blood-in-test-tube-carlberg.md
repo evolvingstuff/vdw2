@@ -3,7 +3,8 @@ title: "179 immune systems genes changed activation after Vitamin D added to blo
 slug: "179-immune-systems-genes-changed-activation-after-vitamin-d-added-to-blood-in-test-tube-carlberg"
 aliases:
   - "/179+immune+systems+genes+changed+activation+after+Vitamin+D+added+to+blood+in+test+tube+-+Carlberg+Jan+2022"
-  - "/tiki-index.php?page_id=13255"
+  - "/13255"
+tiki_page_id: 13255
 date: 2022-01-14
 categories:
   - "Genetics"

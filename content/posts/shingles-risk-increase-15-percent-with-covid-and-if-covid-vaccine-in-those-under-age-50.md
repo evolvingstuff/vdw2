@@ -3,7 +3,8 @@ title: "Shingles risk increase 15% with COVID and if COVID vaccine in those unde
 slug: "shingles-risk-increase-15-percent-with-covid-and-if-covid-vaccine-in-those-under-age-50"
 aliases:
   - "/Shingles+risk+increase+15+with+COVID+and+if+COVID+vaccine+in+those+under+age+50+–+Jan+2023"
-  - "/tiki-index.php?page_id=14189"
+  - "/14189"
+tiki_page_id: 14189
 date: 2023-01-04
 categories:
   - "Virus"

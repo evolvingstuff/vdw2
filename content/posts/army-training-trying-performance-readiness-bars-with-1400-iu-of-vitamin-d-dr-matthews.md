@@ -3,7 +3,8 @@ title: "Army Training trying performance readiness bars with 1400 IU of Vitamin 
 slug: "army-training-trying-performance-readiness-bars-with-1400-iu-of-vitamin-d-dr-matthews"
 aliases:
   - "/Army+Training+trying+performance+readiness+bars+with+1400+IU+of+Vitamin+D+Dr+Matthews+–+Sept+2018"
-  - "/tiki-index.php?page_id=10074"
+  - "/10074"
+tiki_page_id: 10074
 date: 2018-09-27
 categories:
   - "Bone - Health"

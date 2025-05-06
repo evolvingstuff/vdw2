@@ -3,7 +3,8 @@ title: "Reasons why the virus might mutate and become immune to the COVID-19 vac
 slug: "reasons-why-the-virus-might-mutate-and-become-immune-to-the-covid-19-vaccine"
 aliases:
   - "/Reasons+why+the+virus+might+mutate+and+become+immune+to+the+COVID-19+vaccine+–+Nov+2020"
-  - "/tiki-index.php?page_id=12267"
+  - "/12267"
+tiki_page_id: 12267
 date: 2021-01-27
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "NAFLD not reduced by 1680 IU of vitamin D plus Omega-3 (no surprise) –
 slug: "nafld-not-reduced-by-1680-iu-of-vitamin-d-plus-omega-3-no-surprise-rct"
 aliases:
   - "/NAFLD+not+reduced+by+1680+IU+of+vitamin+D+plus+Omega-3+no+surprise+–+RCT+Jan+2022"
-  - "/tiki-index.php?page_id=13282"
+  - "/13282"
+tiki_page_id: 13282
 date: 2022-01-24
 categories:
   - "Liver"

@@ -3,7 +3,8 @@ title: "Full-fat diary healthier than skim (perhaps better Vitamin D and Vitamin
 slug: "full-fat-diary-healthier-than-skim-perhaps-better-vitamin-d-and-vitamin-k-bioavailability"
 aliases:
   - "/Full-fat+diary+healthier+than+skim+perhaps+better+Vitamin+D+and+Vitamin+K+bioavailability+–+Sept+2019"
-  - "/tiki-index.php?page_id=11152"
+  - "/11152"
+tiki_page_id: 11152
 date: 2019-09-14
 ---
 

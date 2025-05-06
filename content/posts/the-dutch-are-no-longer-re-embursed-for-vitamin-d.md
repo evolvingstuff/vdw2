@@ -3,7 +3,8 @@ title: "The Dutch are no longer re-embursed  for Vitamin D"
 slug: "the-dutch-are-no-longer-re-embursed-for-vitamin-d"
 aliases:
   - "/The+Dutch+are+no+longer+re-embursed+for+Vitamin+D+-+April+2024"
-  - "/tiki-index.php?page_id=15188"
+  - "/15188"
+tiki_page_id: 15188
 date: 2024-04-04
 categories:
   - "Cost savings with Vitamin D"

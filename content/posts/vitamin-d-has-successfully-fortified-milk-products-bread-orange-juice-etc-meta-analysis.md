@@ -3,7 +3,8 @@ title: "Vitamin D has successfully fortified milk products, bread, orange juice,
 slug: "vitamin-d-has-successfully-fortified-milk-products-bread-orange-juice-etc-meta-analysis"
 aliases:
   - "/Vitamin+D+has+successfully+fortified+milk+products+bread+orange+juice+etc+–+meta-analysis+Dec+2023"
-  - "/tiki-index.php?page_id=14914"
+  - "/14914"
+tiki_page_id: 14914
 date: 2023-12-24
 categories:
   - "Fortification with Vitamin D"

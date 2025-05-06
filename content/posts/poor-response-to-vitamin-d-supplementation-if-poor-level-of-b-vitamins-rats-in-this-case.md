@@ -3,7 +3,8 @@ title: "Poor response to vitamin D supplementation if poor level of B Vitamins (
 slug: "poor-response-to-vitamin-d-supplementation-if-poor-level-of-b-vitamins-rats-in-this-case"
 aliases:
   - "/Poor+response+to+vitamin+D+supplementation+if+poor+level+of+B+Vitamins+rats+in+this+case+March+2021"
-  - "/tiki-index.php?page_id=12595"
+  - "/12595"
+tiki_page_id: 12595
 date: 2021-05-22
 categories:
   - "Predict Vitamin D"

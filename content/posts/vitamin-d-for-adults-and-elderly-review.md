@@ -3,7 +3,8 @@ title: "Vitamin D for adults and elderly – review"
 slug: "vitamin-d-for-adults-and-elderly-review"
 aliases:
   - "/Vitamin+D+for+adults+and+elderly+–+review+Oct+2018"
-  - "/tiki-index.php?page_id=10125"
+  - "/10125"
+tiki_page_id: 10125
 date: 2018-10-16
 categories:
   - "Seniors"

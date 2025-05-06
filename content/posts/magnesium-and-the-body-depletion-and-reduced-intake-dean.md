@@ -3,7 +3,8 @@ title: "Magnesium and the body - depletion and reduced intake - Dean"
 slug: "magnesium-and-the-body-depletion-and-reduced-intake-dean"
 aliases:
   - "/Magnesium+and+the+body+-+depletion+and+reduced+intake+-+Dean+Oct+2019"
-  - "/tiki-index.php?page_id=11233"
+  - "/11233"
+tiki_page_id: 11233
 date: 2019-10-14
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Vitamin D treatment of Chronic Kidney Disease: monthly better than daily
 slug: "vitamin-d-treatment-of-chronic-kidney-disease-monthly-better-than-daily-rct"
 aliases:
   - "/Vitamin+D+treatment+of+Chronic+Kidney+Disease+monthly+better+than+daily+–+RCT+May+2022"
-  - "/tiki-index.php?page_id=13661"
+  - "/13661"
+tiki_page_id: 13661
 date: 2022-06-10
 categories:
   - "Skin - Dark"

@@ -3,7 +3,8 @@ title: "Knee osteoarthritis treated by Vitamin D - many studies"
 slug: "knee-osteoarthritis-treated-by-vitamin-d-many-studies"
 aliases:
   - "/Knee+osteoarthritis+treated+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14170"
+  - "/14170"
+tiki_page_id: 14170
 date: 2022-12-26
 categories:
   - "Pain - chronic"

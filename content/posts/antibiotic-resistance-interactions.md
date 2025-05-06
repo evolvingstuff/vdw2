@@ -3,7 +3,8 @@ title: "Antibiotic resistance interactions"
 slug: "antibiotic-resistance-interactions"
 aliases:
   - "/Antibiotic+resistance+interactions+–+Oct+2015"
-  - "/tiki-index.php?page_id=12683"
+  - "/12683"
+tiki_page_id: 12683
 date: 2021-06-24
 categories:
   - "Antibiotics, probiotics"

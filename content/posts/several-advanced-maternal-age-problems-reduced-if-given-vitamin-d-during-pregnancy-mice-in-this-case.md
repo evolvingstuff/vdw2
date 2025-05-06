@@ -3,7 +3,8 @@ title: "Several advanced-maternal-age problems reduced if given Vitamin D during
 slug: "several-advanced-maternal-age-problems-reduced-if-given-vitamin-d-during-pregnancy-mice-in-this-case"
 aliases:
   - "/Several+advanced-maternal-age+problems+reduced+if+given+Vitamin+D+during+pregnancy+mice+in+this+case+–+July+2021"
-  - "/tiki-index.php?page_id=12819"
+  - "/12819"
+tiki_page_id: 12819
 date: 2021-08-11
 categories:
   - "Veterinary and Vitamin D"

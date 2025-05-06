@@ -3,7 +3,8 @@ title: "The worse the Periodontitis, the lower the Vitamin D"
 slug: "the-worse-the-periodontitis-the-lower-the-vitamin-d"
 aliases:
   - "/The+worse+the+Periodontitis+the+lower+the+Vitamin+D+–+April+2022"
-  - "/tiki-index.php?page_id=13520"
+  - "/13520"
+tiki_page_id: 13520
 date: 2022-04-26
 categories:
   - "Dental"

@@ -3,7 +3,8 @@ title: "Low Vitamin D associated 1.8X increased risk of COVID-19 death in hospit
 slug: "low-vitamin-d-associated-18x-increased-risk-of-covid-19-death-in-hospital-meta-analysis"
 aliases:
   - "/Low+Vitamin+D+associated+18X+increased+risk+of+COVID-19+death+in+hospital+–+meta-analysis+Nov+4+2020"
-  - "/tiki-index.php?page_id=12037"
+  - "/12037"
+tiki_page_id: 12037
 date: 2020-10-30
 categories:
   - "Meta-analysis of Vitamin D"

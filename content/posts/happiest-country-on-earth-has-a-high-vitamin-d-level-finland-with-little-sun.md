@@ -3,7 +3,8 @@ title: "Happiest country on earth has a high Vitamin D level (Finland, with litt
 slug: "happiest-country-on-earth-has-a-high-vitamin-d-level-finland-with-little-sun"
 aliases:
   - "/Happiest+country+on+earth+has+a+high+Vitamin+D+level+Finland+with+little+sun+–+March+2022"
-  - "/tiki-index.php?page_id=13448"
+  - "/13448"
+tiki_page_id: 13448
 date: 2022-04-04
 categories:
   - "Vitamin D Far from equator"

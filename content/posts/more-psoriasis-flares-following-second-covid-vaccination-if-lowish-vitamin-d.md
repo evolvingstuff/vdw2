@@ -3,7 +3,8 @@ title: "More psoriasis flares following second COVID vaccination if lowish Vitam
 slug: "more-psoriasis-flares-following-second-covid-vaccination-if-lowish-vitamin-d"
 aliases:
   - "/More+psoriasis+flares+following+second+COVID+vaccination+if+lowish+Vitamin+D+–+May+2023"
-  - "/tiki-index.php?page_id=14481"
+  - "/14481"
+tiki_page_id: 14481
 date: 2023-06-12
 categories:
   - "Psoriasis"

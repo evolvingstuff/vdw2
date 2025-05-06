@@ -3,7 +3,8 @@ title: "Multiple Sclerosis risk increased if both Epstein-Bar Virus and low sun 
 slug: "multiple-sclerosis-risk-increased-if-both-epstein-bar-virus-and-low-sun-vitamin-d"
 aliases:
   - "/Multiple+Sclerosis+risk+increased+if+both+Epstein-Bar+Virus+and+low+sun+vitamin+D+–+Aug+2021"
-  - "/tiki-index.php?page_id=12858"
+  - "/12858"
+tiki_page_id: 12858
 date: 2021-08-26
 categories:
   - "Multiple Sclerosis"

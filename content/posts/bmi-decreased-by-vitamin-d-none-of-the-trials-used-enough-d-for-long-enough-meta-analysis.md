@@ -3,7 +3,8 @@ title: "BMI decreased by Vitamin D (none of the trials used enough D for long en
 slug: "bmi-decreased-by-vitamin-d-none-of-the-trials-used-enough-d-for-long-enough-meta-analysis"
 aliases:
   - "/BMI+decreased+by+Vitamin+D+none+of+the+trials+used+enough+D+for+long+enough+–+meta-analysis+July+2019"
-  - "/tiki-index.php?page_id=10978"
+  - "/10978"
+tiki_page_id: 10978
 date: 2019-07-12
 ---
 

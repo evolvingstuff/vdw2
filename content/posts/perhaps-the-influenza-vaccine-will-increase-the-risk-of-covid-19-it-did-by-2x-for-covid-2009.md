@@ -3,7 +3,8 @@ title: "Perhaps the influenza vaccine will increase the risk of COVID-19 (it did
 slug: "perhaps-the-influenza-vaccine-will-increase-the-risk-of-covid-19-it-did-by-2x-for-covid-2009"
 aliases:
   - "/Perhaps+the+influenza+vaccine+will+increase+the+risk+of+COVID-19+it+did+by+2X+for+COVID-2009+-+Sept+2020"
-  - "/tiki-index.php?page_id=11942"
+  - "/11942"
+tiki_page_id: 11942
 date: 2020-09-08
 categories:
   - "Virus"

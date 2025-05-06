@@ -3,7 +3,8 @@ title: "Vitamin D Answers website"
 slug: "vitamin-d-answers-website"
 aliases:
   - "/Vitamin+D+Answers+website"
-  - "/tiki-index.php?page_id=14272"
+  - "/14272"
+tiki_page_id: 14272
 date: 2023-02-16
 ---
 

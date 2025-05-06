@@ -3,7 +3,8 @@ title: "Osteoporosis Risk varies with Vitamin D Receptor – three meta-analyses
 slug: "osteoporosis-risk-varies-with-vitamin-d-receptor-three-meta-analyses-in-2020"
 aliases:
   - "/Osteoporosis+Risk+varies+with+Vitamin+D+Receptor+–+three+meta-analyses+in+2020"
-  - "/tiki-index.php?page_id=11830"
+  - "/11830"
+tiki_page_id: 11830
 date: 2020-07-07
 categories:
   - "Osteoporosis"

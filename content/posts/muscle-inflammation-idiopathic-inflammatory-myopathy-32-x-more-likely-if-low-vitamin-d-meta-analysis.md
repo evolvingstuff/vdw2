@@ -3,7 +3,8 @@ title: "Muscle Inflammation (idiopathic inflammatory myopathy) 3.2 X more likely
 slug: "muscle-inflammation-idiopathic-inflammatory-myopathy-32-x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Muscle+Inflammation+idiopathic+inflammatory+myopathy+32+X+more+likely+if+low+Vitamin+D+–+meta-analysis+Feb+2024"
-  - "/tiki-index.php?page_id=15088"
+  - "/15088"
+tiki_page_id: 15088
 date: 2024-02-29
 categories:
   - "Sports and Vitamin D"

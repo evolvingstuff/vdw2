@@ -3,7 +3,8 @@ title: "A Revolution In Our Understanding of Vitamin D - Hoffman, Cannell podcas
 slug: "a-revolution-in-our-understanding-of-vitamin-d-hoffman-cannell-podcast"
 aliases:
   - "/A+Revolution+In+Our+Understanding+of+Vitamin+D+-+Hoffman+Cannell+podcast+-+Oct+2018"
-  - "/tiki-index.php?page_id=10112"
+  - "/10112"
+tiki_page_id: 10112
 date: 2018-10-11
 categories:
   - "Books, videos on Vitamin D"

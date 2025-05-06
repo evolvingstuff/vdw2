@@ -3,7 +3,8 @@ title: "Initial efficacy of 3 vaccines against COVID-19 variants"
 slug: "initial-efficacy-of-3-vaccines-against-covid-19-variants"
 aliases:
   - "/Initial+efficacy+of+3+vaccines+against+COVID-19+variants+-+July+31+2021"
-  - "/tiki-index.php?page_id=12789"
+  - "/12789"
+tiki_page_id: 12789
 date: 2021-07-31
 categories:
   - "Virus"

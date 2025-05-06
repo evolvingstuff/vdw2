@@ -3,7 +3,8 @@ title: "Vitamin D Conference – 9th Abu Dhabi"
 slug: "vitamin-d-conference-9th-abu-dhabi"
 aliases:
   - "/Vitamin+D+Conference+–+9th+Abu+Dhabi+–+Oct+2022"
-  - "/tiki-index.php?page_id=13933"
+  - "/13933"
+tiki_page_id: 13933
 date: 2022-09-23
 categories:
   - "Middle East"

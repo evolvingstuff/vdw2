@@ -3,7 +3,8 @@ title: "Liver transplant failure 2.7X more-likely if low vitamin D"
 slug: "liver-transplant-failure-27x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Liver+transplant+failure+27X+more-likely+if+low+vitamin+D+-+Nov+2023"
-  - "/tiki-index.php?page_id=14851"
+  - "/14851"
+tiki_page_id: 14851
 date: 2023-11-30
 categories:
   - "Liver"

@@ -3,7 +3,8 @@ title: "Vitamin D for better sleep video"
 slug: "vitamin-d-for-better-sleep-video"
 aliases:
   - "/Vitamin+D+for+better+sleep+video+-+Dec+2021"
-  - "/tiki-index.php?page_id=13159"
+  - "/13159"
+tiki_page_id: 13159
 date: 2021-12-09
 categories:
   - "Books, videos on Vitamin D"

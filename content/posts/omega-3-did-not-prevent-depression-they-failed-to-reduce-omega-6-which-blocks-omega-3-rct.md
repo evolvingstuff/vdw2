@@ -3,7 +3,8 @@ title: "Omega-3 did not prevent depression (they failed to reduce Omega-6, which
 slug: "omega-3-did-not-prevent-depression-they-failed-to-reduce-omega-6-which-blocks-omega-3-rct"
 aliases:
   - "/Omega-3+did+not+prevent+depression+they+failed+to+reduce+Omega-6+which+blocks+Omega-3+–+RCT+Dec+2021"
-  - "/tiki-index.php?page_id=13207"
+  - "/13207"
+tiki_page_id: 13207
 date: 2021-12-22
 categories:
   - "Depression"

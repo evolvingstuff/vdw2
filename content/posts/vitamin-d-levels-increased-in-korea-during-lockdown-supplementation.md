@@ -3,7 +3,8 @@ title: "Vitamin D levels INCREASED in Korea during lockdown (supplementation)"
 slug: "vitamin-d-levels-increased-in-korea-during-lockdown-supplementation"
 aliases:
   - "/Vitamin+D+levels+INCREASED+in+Korea+during+lockdown+supplementation+–+Nov+2022"
-  - "/tiki-index.php?page_id=14136"
+  - "/14136"
+tiki_page_id: 14136
 date: 2022-12-07
 categories:
   - "Orient"

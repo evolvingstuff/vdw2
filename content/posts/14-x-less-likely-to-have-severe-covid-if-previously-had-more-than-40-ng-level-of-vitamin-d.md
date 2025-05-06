@@ -3,7 +3,8 @@ title: "14 X less likely to have severe COVID if previously had more than 40 ng 
 slug: "14-x-less-likely-to-have-severe-covid-if-previously-had-more-than-40-ng-level-of-vitamin-d"
 aliases:
   - "/14+X+less+likely+to+have+severe+COVID+if+previously+had+more+than+40+ng+level+of+Vitamin+D+–+Feb+2022"
-  - "/tiki-index.php?page_id=13315"
+  - "/13315"
+tiki_page_id: 13315
 date: 2022-02-03
 categories:
   - "Top news"

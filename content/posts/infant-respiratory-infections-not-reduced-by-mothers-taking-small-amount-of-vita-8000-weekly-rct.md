@@ -3,7 +3,8 @@ title: "Infant Respiratory Infections not reduced by mothers taking small amount
 slug: "infant-respiratory-infections-not-reduced-by-mothers-taking-small-amount-of-vita-8000-weekly-rct"
 aliases:
   - "/Infant+Respiratory+Infections+not+reduced+by+mothers+taking+small+amount+of+vitamin+D+28000+weekly–+RCT+July+2021"
-  - "/tiki-index.php?page_id=12716"
+  - "/12716"
+tiki_page_id: 12716
 date: 2021-07-03
 categories:
   - "Breathing"

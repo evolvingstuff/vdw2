@@ -3,7 +3,8 @@ title: "Vitamin D, immune System, Infection, and COVID- Video"
 slug: "vitamin-d-immune-system-infection-and-covid-video"
 aliases:
   - "/Vitamin+D+immune+System+Infection+and+COVID-+Video+Oct+2022"
-  - "/tiki-index.php?page_id=14082"
+  - "/14082"
+tiki_page_id: 14082
 date: 2022-11-12
 categories:
   - "Books, videos on Vitamin D"

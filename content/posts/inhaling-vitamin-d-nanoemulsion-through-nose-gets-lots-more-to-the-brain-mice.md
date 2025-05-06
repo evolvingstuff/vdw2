@@ -3,7 +3,8 @@ title: "Inhaling Vitamin D nanoemulsion through nose gets lots more to the brain
 slug: "inhaling-vitamin-d-nanoemulsion-through-nose-gets-lots-more-to-the-brain-mice"
 aliases:
   - "/Inhaling+Vitamin+D+nanoemulsion+through+nose+gets+lots+more+to+the+brain+mice+–+July+2020"
-  - "/tiki-index.php?page_id=11874"
+  - "/11874"
+tiki_page_id: 11874
 date: 2020-07-29
 categories:
   - "Forms of Vitamin D"

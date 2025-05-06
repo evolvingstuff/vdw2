@@ -3,7 +3,8 @@ title: "Skin scars (Keloids) more likely if low vitamin D, poor Vitamin D recept
 slug: "skin-scars-keloids-more-likely-if-low-vitamin-d-poor-vitamin-d-receptor-or-dark-skin"
 aliases:
   - "/Skin+scars+Keloids+more+likely+if+low+vitamin+D+poor+Vitamin+D+receptor+or+dark+skin+–+Aug+2021"
-  - "/tiki-index.php?page_id=12893"
+  - "/12893"
+tiki_page_id: 12893
 date: 2021-09-13
 categories:
   - "Skin - Dark"

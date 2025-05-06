@@ -3,7 +3,8 @@ title: "Vitamin D levels continue to rise in the US"
 slug: "vitamin-d-levels-continue-to-rise-in-the-us"
 aliases:
   - "/Vitamin+D+levels+continue+to+rise+in+the+US+-+April+2019"
-  - "/tiki-index.php?page_id=10686"
+  - "/10686"
+tiki_page_id: 10686
 date: 2019-04-24
 categories:
   - "Top news"

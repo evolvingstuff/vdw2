@@ -3,7 +3,8 @@ title: "22% of children (0-5y) are stunted, Vitamin D deficiency is a primary ca
 slug: "22-percent-of-children-0-5y-are-stunted-vitamin-d-deficiency-is-a-primary-cause-several-studies"
 aliases:
   - "/22+of+children+0-5y+are+stunted+Vitamin+D+deficiency+is+a+primary+cause+–+several+studies"
-  - "/tiki-index.php?page_id=15138"
+  - "/15138"
+tiki_page_id: 15138
 date: 2024-03-15
 categories:
   - "Pregnancy"

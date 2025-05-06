@@ -3,7 +3,8 @@ title: "All preteen aged girls in India taking 2,000 IU of vitamin D got levels 
 slug: "all-preteen-aged-girls-in-india-taking-2000-iu-of-vitamin-d-got-levels-above-20-ng-rct"
 aliases:
   - "/All+preteen+aged+girls+in+India+taking+2000+IU+of+vitamin+D+got+levels+above+20+ng+–+RCT+Nov+2018"
-  - "/tiki-index.php?page_id=10264"
+  - "/10264"
+tiki_page_id: 10264
 date: 2018-12-04
 categories:
   - "Skin - Dark"

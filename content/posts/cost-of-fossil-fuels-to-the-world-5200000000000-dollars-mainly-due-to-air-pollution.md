@@ -3,7 +3,8 @@ title: "Cost of fossil fuels to the world 5,200,000,000,000 dollars (mainly due 
 slug: "cost-of-fossil-fuels-to-the-world-5200000000000-dollars-mainly-due-to-air-pollution"
 aliases:
   - "/Cost+of+fossil+fuels+to+the+world+5200000000000+dollars+mainly+due+to+air+pollution+–+May+2019"
-  - "/tiki-index.php?page_id=10752"
+  - "/10752"
+tiki_page_id: 10752
 date: 2019-05-09
 ---
 

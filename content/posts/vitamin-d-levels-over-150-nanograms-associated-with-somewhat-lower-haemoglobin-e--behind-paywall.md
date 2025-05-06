@@ -3,7 +3,8 @@ title: "Vitamin D levels over 150 nanograms associated with somewhat lower haemo
 slug: "vitamin-d-levels-over-150-nanograms-associated-with-somewhat-lower-haemoglobin-e--behind-paywall"
 aliases:
   - "/Vitamin+D+levels+over+150+nanograms+associated+with+somewhat+lower+haemoglobin+etc+details+behind+paywall+–+Nov+2021"
-  - "/tiki-index.php?page_id=13115"
+  - "/13115"
+tiki_page_id: 13115
 date: 2021-11-26
 categories:
   - "Vitamin D and Iron"

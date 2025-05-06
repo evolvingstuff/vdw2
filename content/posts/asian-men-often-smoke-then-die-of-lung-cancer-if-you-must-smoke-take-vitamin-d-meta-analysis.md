@@ -3,7 +3,8 @@ title: "Asian men often smoke then die of lung cancer (if you must smoke, take V
 slug: "asian-men-often-smoke-then-die-of-lung-cancer-if-you-must-smoke-take-vitamin-d-meta-analysis"
 aliases:
   - "/Asian+men+often+smoke+then+die+of+lung+cancer+if+you+must+smoke+take+Vitamin+D+–+meta-analysis+March+2019"
-  - "/tiki-index.php?page_id=10648"
+  - "/10648"
+tiki_page_id: 10648
 date: 2019-04-08
 categories:
   - "Interactions with Vitamin D"

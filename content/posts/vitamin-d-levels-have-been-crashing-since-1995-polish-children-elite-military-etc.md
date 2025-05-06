@@ -3,7 +3,8 @@ title: "Vitamin D levels have been crashing since 1995 (Polish Children, Elite M
 slug: "vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc"
 aliases:
   - "/Vitamin+D+levels+have+been+crashing+since+1995+Polish+Children+Elite+Military+etc"
-  - "/tiki-index.php?page_id=10189"
+  - "/10189"
+tiki_page_id: 10189
 date: 2018-11-08
 categories:
   - "Deficiency of Vitamin D"

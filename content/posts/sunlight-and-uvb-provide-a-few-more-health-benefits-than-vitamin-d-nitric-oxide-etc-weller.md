@@ -3,7 +3,8 @@ title: "Sunlight and UVB provide a few more health benefits than Vitamin D (Nitr
 slug: "sunlight-and-uvb-provide-a-few-more-health-benefits-than-vitamin-d-nitric-oxide-etc-weller"
 aliases:
   - "/Sunlight+and+UVB+provide+a+few+more+health+benefits+than+Vitamin+D+Nitric+Oxide+etc+–+Weller+April+2024"
-  - "/tiki-index.php?page_id=15240"
+  - "/15240"
+tiki_page_id: 15240
 date: 2024-04-26
 categories:
   - "Noontime sun and D"

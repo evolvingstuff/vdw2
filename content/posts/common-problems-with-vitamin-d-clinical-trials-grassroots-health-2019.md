@@ -3,7 +3,8 @@ title: "Common problems with Vitamin D clinical trials – Grassroots Health –
 slug: "common-problems-with-vitamin-d-clinical-trials-grassroots-health-2019"
 aliases:
   - "/Common+problems+with+Vitamin+D+clinical+trials+–+Grassroots+Health+–+2019"
-  - "/tiki-index.php?page_id=10584"
+  - "/10584"
+tiki_page_id: 10584
 date: 2019-03-19
 categories:
   - "Intervention"

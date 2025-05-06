@@ -3,7 +3,8 @@ title: "COVID-19 precautions made 2020 the year without the flu - what about 202
 slug: "covid-19-precautions-made-2020-the-year-without-the-flu-what-about-2021"
 aliases:
   - "/COVID-19+precautions+made+2020+the+year+without+the+flu+-+what+about+2021"
-  - "/tiki-index.php?page_id=12414"
+  - "/12414"
+tiki_page_id: 12414
 date: 2021-03-17
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Most US dietitians take supplements daily"
 slug: "most-us-dietitians-take-supplements-daily"
 aliases:
   - "/Most+US+dietitians+take+supplements+daily+–+Feb+2019"
-  - "/tiki-index.php?page_id=10528"
+  - "/10528"
+tiki_page_id: 10528
 date: 2019-02-26
 ---
 

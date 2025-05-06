@@ -3,7 +3,8 @@ title: "Vitamin D and neurocognitive function – Holick"
 slug: "vitamin-d-and-neurocognitive-function-holick"
 aliases:
   - "/Vitamin+D+and+neurocognitive+function+–+Holick+Oct+2022"
-  - "/tiki-index.php?page_id=14032"
+  - "/14032"
+tiki_page_id: 14032
 date: 2022-10-21
 ---
 

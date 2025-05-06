@@ -3,7 +3,8 @@ title: "4X less of one chemo needed after vitamin D receptor activation"
 slug: "4x-less-of-one-chemo-needed-after-vitamin-d-receptor-activation"
 aliases:
   - "/4X+less+of+one+chemo+needed+after+vitamin+D+receptor+activation+-+June+2020"
-  - "/tiki-index.php?page_id=11789"
+  - "/11789"
+tiki_page_id: 11789
 date: 2020-06-02
 categories:
   - "Cancer - after diagnosis"

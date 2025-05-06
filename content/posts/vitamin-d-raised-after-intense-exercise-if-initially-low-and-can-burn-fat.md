@@ -3,7 +3,8 @@ title: "Vitamin D raised after intense exercise if initially low and can burn fa
 slug: "vitamin-d-raised-after-intense-exercise-if-initially-low-and-can-burn-fat"
 aliases:
   - "/Vitamin+D+raised+after+intense+exercise+if+initially+low+and+can+burn+fat+–+June+2022"
-  - "/tiki-index.php?page_id=13715"
+  - "/13715"
+tiki_page_id: 13715
 date: 2022-06-27
 categories:
   - "Sports and Vitamin D"

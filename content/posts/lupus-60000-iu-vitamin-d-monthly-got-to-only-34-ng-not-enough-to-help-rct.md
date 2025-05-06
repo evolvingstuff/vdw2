@@ -3,7 +3,8 @@ title: "Lupus: 60,000 IU Vitamin D monthly got to only 34 ng, not enough to help
 slug: "lupus-60000-iu-vitamin-d-monthly-got-to-only-34-ng-not-enough-to-help-rct"
 aliases:
   - "/Lupus+60000+IU+Vitamin+D+monthly+got+to+only+34+ng+not+enough+to+help+–+RCT+Jan+2023"
-  - "/tiki-index.php?page_id=14188"
+  - "/14188"
+tiki_page_id: 14188
 date: 2023-01-04
 categories:
   - "Lupus"

@@ -3,7 +3,8 @@ title: "Australians paying for most Vitamin D tests, 40 percent deficient in win
 slug: "australians-paying-for-most-vitamin-d-tests-40-percent-deficient-in-winter"
 aliases:
   - "/Australians+paying+for+most+Vitamin+D+tests+40+percent+deficient+in+winter+-+March+2019"
-  - "/tiki-index.php?page_id=10557"
+  - "/10557"
+tiki_page_id: 10557
 date: 2019-03-09
 categories:
   - "Tests for Vitamin D"

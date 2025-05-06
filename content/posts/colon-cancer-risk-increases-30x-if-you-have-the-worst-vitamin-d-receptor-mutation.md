@@ -3,7 +3,8 @@ title: "Colon cancer risk increases 30X if you have the worst vitamin D receptor
 slug: "colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation"
 aliases:
   - "/Colon+cancer+risk+increases+30X+if+you+have+the+worst+vitamin+D+receptor+mutation+–+Jan+2021"
-  - "/tiki-index.php?page_id=12226"
+  - "/12226"
+tiki_page_id: 12226
 date: 2021-01-15
 categories:
   - "Cancer - Colon"

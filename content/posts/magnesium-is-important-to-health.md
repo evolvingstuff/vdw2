@@ -3,7 +3,8 @@ title: "Magnesium is important to health"
 slug: "magnesium-is-important-to-health"
 aliases:
   - "/Magnesium+is+important+to+health+–+March+2021"
-  - "/tiki-index.php?page_id=13623"
+  - "/13623"
+tiki_page_id: 13623
 date: 2022-06-01
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "3X less Septic Shock in children with sepsis getting 150,000 IU of Vitam
 slug: "3x-less-septic-shock-in-children-with-sepsis-getting-150000-iu-of-vitamin-d-rct"
 aliases:
   - "/3X+less+Septic+Shock+in+children+with+sepsis+getting+150000+IU+of+Vitamin+D+-+RCT+June+2020"
-  - "/tiki-index.php?page_id=11790"
+  - "/11790"
+tiki_page_id: 11790
 date: 2020-06-03
 categories:
   - "Pain - chronic"

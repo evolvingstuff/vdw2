@@ -3,7 +3,8 @@ title: "Food allergies associated with low Vitamin D - many studies"
 slug: "food-allergies-associated-with-low-vitamin-d-many-studies"
 aliases:
   - "/Food+allergies+associated+with+low+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14501"
+  - "/14501"
+tiki_page_id: 14501
 date: 2023-06-30
 ---
 

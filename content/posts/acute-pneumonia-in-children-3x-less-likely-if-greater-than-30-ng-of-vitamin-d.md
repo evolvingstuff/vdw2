@@ -3,7 +3,8 @@ title: "Acute pneumonia in children 3X less likely if greater than 30 ng of vita
 slug: "acute-pneumonia-in-children-3x-less-likely-if-greater-than-30-ng-of-vitamin-d"
 aliases:
   - "/Acute+pneumonia+in+children+3X+less+likely+if+greater+than+30+ng+of+vitamin+D+–+Jan+2021"
-  - "/tiki-index.php?page_id=12420"
+  - "/12420"
+tiki_page_id: 12420
 date: 2021-03-20
 categories:
   - "Breathing"

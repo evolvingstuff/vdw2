@@ -3,7 +3,8 @@ title: "Response to vitamin D increased 30 percent with Magnesium"
 slug: "response-to-vitamin-d-increased-30-percent-with-magnesium"
 aliases:
   - "/Response+to+vitamin+D+increased+30+percent+with+Magnesium+-+Nov+2018"
-  - "/tiki-index.php?page_id=10178"
+  - "/10178"
+tiki_page_id: 10178
 date: 2018-11-01
 categories:
   - "Vitamin D and Magnesium"

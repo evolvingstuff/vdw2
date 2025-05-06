@@ -3,7 +3,8 @@ title: "Hypothesis – dinosaur extinction due to low vitamin D (fewer eggs hatc
 slug: "hypothesis-dinosaur-extinction-due-to-low-vitamin-d-fewer-eggs-hatched"
 aliases:
   - "/Hypothesis+–+dinosaur+extinction+due+to+low+vitamin+D+fewer+eggs+hatched+–+March+2019"
-  - "/tiki-index.php?page_id=10574"
+  - "/10574"
+tiki_page_id: 10574
 date: 2019-03-16
 categories:
   - "Veterinary and Vitamin D"

@@ -3,7 +3,8 @@ title: "10 Groups Are More Prone To Vitamin D Deficiency - 2017"
 slug: "10-groups-are-more-prone-to-vitamin-d-deficiency-2017"
 aliases:
   - "/10+Groups+Are+More+Prone+To+Vitamin+D+Deficiency+-+2017"
-  - "/tiki-index.php?page_id=14326"
+  - "/14326"
+tiki_page_id: 14326
 date: 2023-03-22
 categories:
   - "Deficiency of Vitamin D"

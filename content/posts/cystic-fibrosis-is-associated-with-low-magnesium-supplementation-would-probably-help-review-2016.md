@@ -3,7 +3,8 @@ title: "Cystic Fibrosis is associated with low Magnesium, supplementation would 
 slug: "cystic-fibrosis-is-associated-with-low-magnesium-supplementation-would-probably-help-review-2016"
 aliases:
   - "/Cystic+Fibrosis+is+associated+with+low+Magnesium+supplementation+would+probably+help+-review+2016"
-  - "/tiki-index.php?page_id=13898"
+  - "/13898"
+tiki_page_id: 13898
 date: 2022-09-09
 categories:
   - "Vitamin D and Magnesium"

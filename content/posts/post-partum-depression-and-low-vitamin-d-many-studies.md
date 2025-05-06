@@ -3,7 +3,8 @@ title: "Post-partum depression and low Vitamin D - many studies"
 slug: "post-partum-depression-and-low-vitamin-d-many-studies"
 aliases:
   - "/Post-partum+depression+and+low+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14357"
+  - "/14357"
+tiki_page_id: 14357
 date: 2023-04-06
 categories:
   - "Pregnancy"

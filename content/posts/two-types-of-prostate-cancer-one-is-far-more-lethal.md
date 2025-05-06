@@ -3,7 +3,8 @@ title: "Two types of Prostate Cancer – one is far more lethal"
 slug: "two-types-of-prostate-cancer-one-is-far-more-lethal"
 aliases:
   - "/Two+types+of+Prostate+Cancer+–+one+is+far+more+lethal+–+March+2024"
-  - "/tiki-index.php?page_id=15132"
+  - "/15132"
+tiki_page_id: 15132
 date: 2024-03-14
 categories:
   - "Cancer - Prostate"

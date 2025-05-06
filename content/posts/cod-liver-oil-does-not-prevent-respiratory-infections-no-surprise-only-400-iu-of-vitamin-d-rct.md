@@ -3,7 +3,8 @@ title: "Cod liver oil does not prevent Respiratory Infections (no surprise, only
 slug: "cod-liver-oil-does-not-prevent-respiratory-infections-no-surprise-only-400-iu-of-vitamin-d-rct"
 aliases:
   - "/Cod+liver+oil+does+not+prevent+Respiratory+Infections+no+surprise+only+400+IU+of+vitamin+D+RCT+–+Sept+2022"
-  - "/tiki-index.php?page_id=13896"
+  - "/13896"
+tiki_page_id: 13896
 date: 2022-09-08
 categories:
   - "Breathing"

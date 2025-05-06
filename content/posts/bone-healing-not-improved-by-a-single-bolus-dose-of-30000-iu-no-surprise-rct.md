@@ -3,7 +3,8 @@ title: "Bone healing not improved by a single bolus dose of 30,000 IU (no surpri
 slug: "bone-healing-not-improved-by-a-single-bolus-dose-of-30000-iu-no-surprise-rct"
 aliases:
   - "/Bone+healing+not+improved+by+a+single+bolus+dose+of+30000+IU+no+surprise+–+RCT+April+2021"
-  - "/tiki-index.php?page_id=12545"
+  - "/12545"
+tiki_page_id: 12545
 date: 2021-04-28
 categories:
   - "Falls and Fractures"

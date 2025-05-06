@@ -3,7 +3,8 @@ title: "Possible asthma bio-markers (miRNA) which show risk vs vitamin D level"
 slug: "possible-asthma-bio-markers-mirna-which-show-risk-vs-vitamin-d-level"
 aliases:
   - "/Possible+asthma+bio-markers+miRNA+which+show+risk+vs+vitamin+D+level+–+March+2024"
-  - "/tiki-index.php?page_id=15125"
+  - "/15125"
+tiki_page_id: 15125
 date: 2024-03-12
 ---
 

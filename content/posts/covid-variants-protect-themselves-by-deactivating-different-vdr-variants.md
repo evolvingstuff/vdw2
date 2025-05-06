@@ -3,7 +3,8 @@ title: "COVID variants protect themselves by deactivating different VDR variants
 slug: "covid-variants-protect-themselves-by-deactivating-different-vdr-variants"
 aliases:
   - "/COVID+variants+protect+themselves+by+deactivating+different+VDR+variants–+March+2023"
-  - "/tiki-index.php?page_id=14371"
+  - "/14371"
+tiki_page_id: 14371
 date: 2023-04-10
 categories:
   - "Vitamin D Receptor"

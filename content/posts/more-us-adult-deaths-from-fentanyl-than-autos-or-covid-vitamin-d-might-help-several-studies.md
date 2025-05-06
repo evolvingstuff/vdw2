@@ -3,7 +3,8 @@ title: "More US adult deaths from Fentanyl than autos or COVID (Vitamin D might 
 slug: "more-us-adult-deaths-from-fentanyl-than-autos-or-covid-vitamin-d-might-help-several-studies"
 aliases:
   - "/More+US+adult+deaths+from+Fentanyl+than+autos+or+COVID+Vitamin+D+might+help+-+several+studies"
-  - "/tiki-index.php?page_id=14533"
+  - "/14533"
+tiki_page_id: 14533
 date: 2023-07-14
 ---
 

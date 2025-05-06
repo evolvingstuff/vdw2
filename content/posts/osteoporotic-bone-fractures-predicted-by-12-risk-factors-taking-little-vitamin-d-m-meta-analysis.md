@@ -3,7 +3,8 @@ title: "Osteoporotic bone fractures predicted by 12 risk factors - taking little
 slug: "osteoporotic-bone-fractures-predicted-by-12-risk-factors-taking-little-vitamin-d-m-meta-analysis"
 aliases:
   - "/Osteoporotic+bone+fractures+predicted+by+12+risk+factors+-+taking+little+Vitamin+D+is+one+of+them+–+meta-analysis+Aug+2023"
-  - "/tiki-index.php?page_id=14589"
+  - "/14589"
+tiki_page_id: 14589
 date: 2023-08-06
 ---
 

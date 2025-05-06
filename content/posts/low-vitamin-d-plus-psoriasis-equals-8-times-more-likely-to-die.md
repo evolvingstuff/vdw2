@@ -3,7 +3,8 @@ title: "Low Vitamin D plus psoriasis equals 8 times more likely to die"
 slug: "low-vitamin-d-plus-psoriasis-equals-8-times-more-likely-to-die"
 aliases:
   - "/Low+Vitamin+D+plus+psoriasis+equals+8+times+more+likely+to+die+–+Dec+2020"
-  - "/tiki-index.php?page_id=12175"
+  - "/12175"
+tiki_page_id: 12175
 date: 2020-12-25
 categories:
   - "Psoriasis"

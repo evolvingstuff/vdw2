@@ -3,7 +3,8 @@ title: "Coronaviruses evolve faster with vaccinations, expect more beyond Omicro
 slug: "coronaviruses-evolve-faster-with-vaccinations-expect-more-beyond-omicron"
 aliases:
   - "/Coronaviruses+evolve+faster+with+vaccinations+expect+more+beyond+Omicron+-+Nov+30+2021"
-  - "/tiki-index.php?page_id=13155"
+  - "/13155"
+tiki_page_id: 13155
 date: 2021-12-08
 categories:
   - "Virus"

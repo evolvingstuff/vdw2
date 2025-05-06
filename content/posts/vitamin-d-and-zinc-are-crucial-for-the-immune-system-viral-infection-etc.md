@@ -3,7 +3,8 @@ title: "Vitamin D and Zinc are crucial for the immune system (viral infection, e
 slug: "vitamin-d-and-zinc-are-crucial-for-the-immune-system-viral-infection-etc"
 aliases:
   - "/Vitamin+D+and+Zinc+are+crucial+for+the+immune+system+viral+infection+etc+–+March+2024"
-  - "/tiki-index.php?page_id=15112"
+  - "/15112"
+tiki_page_id: 15112
 date: 2024-03-08
 categories:
   - "Immunity"

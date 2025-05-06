@@ -3,7 +3,8 @@ title: "COVID 20X lower death rate in nursing homes if early Ivermectin etc. (Co
 slug: "covid-20x-lower-death-rate-in-nursing-homes-if-early-ivermectin-etc-columbia"
 aliases:
   - "/COVID+20X+lower+death+rate+in+nursing+homes+if+early+Ivermectin+etc+Columbia+-+April+2024"
-  - "/tiki-index.php?page_id=15233"
+  - "/15233"
+tiki_page_id: 15233
 date: 2024-04-22
 categories:
   - "Seniors"

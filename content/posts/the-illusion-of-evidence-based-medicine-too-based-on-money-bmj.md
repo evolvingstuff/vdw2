@@ -3,7 +3,8 @@ title: "The illusion of evidence based medicine (too based on money) - BMJ"
 slug: "the-illusion-of-evidence-based-medicine-too-based-on-money-bmj"
 aliases:
   - "/The+illusion+of+evidence+based+medicine+too+based+on+money+-+BMJ+March+2022"
-  - "/tiki-index.php?page_id=13437"
+  - "/13437"
+tiki_page_id: 13437
 date: 2022-03-27
 categories:
   - "Off Topic"

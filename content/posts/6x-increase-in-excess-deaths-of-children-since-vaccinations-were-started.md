@@ -3,7 +3,8 @@ title: "6X increase in excess deaths of children since vaccinations were started
 slug: "6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started"
 aliases:
   - "/6X+increase+in+excess+deaths+of+children+since+vaccinations+were+started+-+Oct+2022"
-  - "/tiki-index.php?page_id=13964"
+  - "/13964"
+tiki_page_id: 13964
 date: 2022-10-02
 categories:
   - "Infant-Child"

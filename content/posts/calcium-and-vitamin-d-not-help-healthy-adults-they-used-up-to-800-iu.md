@@ -3,7 +3,8 @@ title: "Calcium and vitamin D not help healthy adults (they used up to 800 IU)"
 slug: "calcium-and-vitamin-d-not-help-healthy-adults-they-used-up-to-800-iu"
 aliases:
   - "/Calcium+and+vitamin+D+not+help+healthy+adults+they+used+up+to+800+IU+–+Nov+2019"
-  - "/tiki-index.php?page_id=11406"
+  - "/11406"
+tiki_page_id: 11406
 date: 2019-11-29
 ---
 

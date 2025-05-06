@@ -3,7 +3,8 @@ title: "Mortality reduced if Vitamin D levels raised to 30 ng ( Middle East this
 slug: "mortality-reduced-if-vitamin-d-levels-raised-to-30-ng-middle-east-this-time-grant"
 aliases:
   - "/Mortality+reduced+if+Vitamin+D+levels+raised+to+30+ng+Middle+East+this+time+-+Grant+Oct+2022"
-  - "/tiki-index.php?page_id=13998"
+  - "/13998"
+tiki_page_id: 13998
 date: 2022-10-08
 categories:
   - "Mortality and D"

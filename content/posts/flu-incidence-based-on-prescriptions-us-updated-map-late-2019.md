@@ -3,7 +3,8 @@ title: "Flu incidence based on prescriptions – US updated map – Late 2019"
 slug: "flu-incidence-based-on-prescriptions-us-updated-map-late-2019"
 aliases:
   - "/Flu+incidence+based+on+prescriptions+–+US+updated+map+–+Late+2019"
-  - "/tiki-index.php?page_id=11338"
+  - "/11338"
+tiki_page_id: 11338
 date: 2019-11-11
 ---
 

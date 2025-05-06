@@ -3,7 +3,8 @@ title: "Dementia 1.7X higher risk if diabetic and low vitamin D"
 slug: "dementia-17x-higher-risk-if-diabetic-and-low-vitamin-d"
 aliases:
   - "/Dementia+17X+higher+risk+if+diabetic+and+low+vitamin+D+-+Jan+2022"
-  - "/tiki-index.php?page_id=13259"
+  - "/13259"
+tiki_page_id: 13259
 date: 2022-01-16
 categories:
   - "Diabetes"

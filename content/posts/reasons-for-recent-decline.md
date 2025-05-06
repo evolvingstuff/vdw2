@@ -3,7 +3,8 @@ title: "Reasons for recent decline"
 slug: "reasons-for-recent-decline"
 aliases:
   - "/Reasons+for+recent+decline"
-  - "/tiki-index.php?page_id=10223"
+  - "/10223"
+tiki_page_id: 10223
 date: 2018-11-22
 categories:
   - "Admin Only"

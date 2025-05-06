@@ -3,7 +3,8 @@ title: "Vitamin D trials: constant dose vs. minimum concentration, number of par
 slug: "vitamin-d-trials-constant-dose-vs-minimum-concentration-number-of-participants-needed"
 aliases:
   - "/Vitamin+D+trials+constant+dose+vs+minimum+concentration+number+of+participants+needed+–+May+2021"
-  - "/tiki-index.php?page_id=12603"
+  - "/12603"
+tiki_page_id: 12603
 date: 2021-05-25
 ---
 

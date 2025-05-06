@@ -3,7 +3,8 @@ title: "Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes"
 slug: "magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes"
 aliases:
   - "/Magnesium+in+Obesity+Metabolic+Syndrome+and+Type+2+Diabetes+-+Jan+2021"
-  - "/tiki-index.php?page_id=13626"
+  - "/13626"
+tiki_page_id: 13626
 date: 2022-06-02
 categories:
   - "Diabetes"

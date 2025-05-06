@@ -3,7 +3,8 @@ title: "International Conference on Vitamin D Deficiency – 8th Abu Dhabi"
 slug: "international-conference-on-vitamin-d-deficiency-8th-abu-dhabi"
 aliases:
   - "/International+Conference+on+Vitamin+D+Deficiency+–+8th+Abu+Dhabi+–+April+2019"
-  - "/tiki-index.php?page_id=10636"
+  - "/10636"
+tiki_page_id: 10636
 date: 2019-03-31
 categories:
   - "Middle East"

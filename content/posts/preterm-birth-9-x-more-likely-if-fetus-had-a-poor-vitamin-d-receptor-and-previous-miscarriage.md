@@ -3,7 +3,8 @@ title: "Preterm birth 9 X more likely if fetus had a poor Vitamin D Receptor and
 slug: "preterm-birth-9-x-more-likely-if-fetus-had-a-poor-vitamin-d-receptor-and-previous-miscarriage"
 aliases:
   - "/Preterm+birth+9+X+more+likely+if+fetus+had+a+poor+Vitamin+D+Receptor+and+previous+miscarriage+–+Aug+2017"
-  - "/tiki-index.php?page_id=11342"
+  - "/11342"
+tiki_page_id: 11342
 date: 2019-11-12
 categories:
   - "Pregnancy"

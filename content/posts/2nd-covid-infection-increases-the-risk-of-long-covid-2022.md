@@ -3,7 +3,8 @@ title: "2nd COVID infection increases the risk of Long-COVID - 2022"
 slug: "2nd-covid-infection-increases-the-risk-of-long-covid-2022"
 aliases:
   - "/2nd+COVID+infection+increases+the+risk+of+Long-COVID+-+2022"
-  - "/tiki-index.php?page_id=14223"
+  - "/14223"
+tiki_page_id: 14223
 date: 2023-01-22
 categories:
   - "Virus"

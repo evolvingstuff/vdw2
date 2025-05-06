@@ -3,7 +3,8 @@ title: "Poor sleep 1.5 X more likely if less than 20 ng of Vitamin D"
 slug: "poor-sleep-15-x-more-likely-if-less-than-20-ng-of-vitamin-d"
 aliases:
   - "/Poor+sleep+15+X+more+likely+if+less+than+20+ng+of+Vitamin+D+–+Feb+2019"
-  - "/tiki-index.php?page_id=10673"
+  - "/10673"
+tiki_page_id: 10673
 date: 2019-04-15
 categories:
   - "Sleep"

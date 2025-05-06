@@ -3,7 +3,8 @@ title: "Employers gain 10 dollars in productivity for every dollar spent on givi
 slug: "employers-gain-10-dollars-in-productivity-for-every-dollar-spent-on-giving-vitamin-d-for-free"
 aliases:
   - "/Employers+gain+10+dollars+in+productivity+for+every+dollar+spent+on+giving+Vitamin+D+for+free"
-  - "/tiki-index.php?page_id=12743"
+  - "/12743"
+tiki_page_id: 12743
 date: 2021-07-15
 categories:
   - "Cost savings with Vitamin D"

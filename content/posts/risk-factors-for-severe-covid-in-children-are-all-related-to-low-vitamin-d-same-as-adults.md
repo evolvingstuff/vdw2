@@ -3,7 +3,8 @@ title: "Risk factors for severe COVID in children are all related to low vitamin
 slug: "risk-factors-for-severe-covid-in-children-are-all-related-to-low-vitamin-d-same-as-adults"
 aliases:
   - "/Risk+factors+for+severe+COVID+in+children+are+all+related+to+low+vitamin+D+same+as+adults+-+April+2022"
-  - "/tiki-index.php?page_id=13523"
+  - "/13523"
+tiki_page_id: 13523
 date: 2022-04-27
 categories:
   - "Infant-Child"

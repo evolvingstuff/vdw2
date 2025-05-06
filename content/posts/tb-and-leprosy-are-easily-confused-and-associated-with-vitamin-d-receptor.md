@@ -3,7 +3,8 @@ title: "TB and Leprosy are easily confused and associated with Vitamin D Recepto
 slug: "tb-and-leprosy-are-easily-confused-and-associated-with-vitamin-d-receptor"
 aliases:
   - "/TB+and+Leprosy+are+easily+confused+and+associated+with+Vitamin+D+Receptor"
-  - "/tiki-index.php?page_id=10850"
+  - "/10850"
+tiki_page_id: 10850
 date: 2019-06-10
 categories:
   - "Tuberculosis"

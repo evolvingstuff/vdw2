@@ -3,7 +3,8 @@ title: "Half of Mongolian schoolchildren have less than 10 ng of vitamin D"
 slug: "half-of-mongolian-schoolchildren-have-less-than-10-ng-of-vitamin-d"
 aliases:
   - "/Half+of+Mongolian+schoolchildren+have+less+than+10+ng+of+vitamin+D+–+Nov+2021"
-  - "/tiki-index.php?page_id=13100"
+  - "/13100"
+tiki_page_id: 13100
 date: 2021-11-21
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Some COVID-19 infection become COVID Long-Haul"
 slug: "some-covid-19-infection-become-covid-long-haul"
 aliases:
   - "/Some+COVID-19+infection+become+COVID+Long-Haul+-+Nov+2020"
-  - "/tiki-index.php?page_id=12043"
+  - "/12043"
+tiki_page_id: 12043
 date: 2020-11-02
 categories:
   - "Virus"

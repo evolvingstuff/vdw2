@@ -3,7 +3,8 @@ title: "Elevated Intraocular Pressure (leads to glaucoma) risk cut in half with 
 slug: "elevated-intraocular-pressure-leads-to-glaucoma-risk-cut-in-half-with-lots-of-vitamin-d"
 aliases:
   - "/Elevated+Intraocular+Pressure+leads+to+glaucoma+risk+cut+in+half+with+lots+of+vitamin+D+-+Jan+2023"
-  - "/tiki-index.php?page_id=14222"
+  - "/14222"
+tiki_page_id: 14222
 date: 2023-01-22
 categories:
   - "Vision"

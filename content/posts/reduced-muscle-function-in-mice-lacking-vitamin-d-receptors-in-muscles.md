@@ -3,7 +3,8 @@ title: "Reduced muscle function in mice lacking Vitamin D Receptors in muscles"
 slug: "reduced-muscle-function-in-mice-lacking-vitamin-d-receptors-in-muscles"
 aliases:
   - "/Reduced+muscle+function+in+mice+lacking+Vitamin+D+Receptors+in+muscles+–+June+2019"
-  - "/tiki-index.php?page_id=11343"
+  - "/11343"
+tiki_page_id: 11343
 date: 2019-11-13
 ---
 

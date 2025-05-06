@@ -3,7 +3,8 @@ title: "Cancer with low Vitamin D increases Mortality by 13 percent – meta-ana
 slug: "cancer-with-low-vitamin-d-increases-mortality-by-13-percent-meta-analysis"
 aliases:
   - "/Cancer+with+low+Vitamin+D+increases+Mortality+by+13+percent+–+meta-analysis+Feb+2019"
-  - "/tiki-index.php?page_id=10519"
+  - "/10519"
+tiki_page_id: 10519
 date: 2019-02-24
 categories:
   - "Mortality and D"

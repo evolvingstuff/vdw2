@@ -3,7 +3,8 @@ title: "Signs of Vitamin D Deficiency - many studies"
 slug: "signs-of-vitamin-d-deficiency-many-studies"
 aliases:
   - "/Signs+of+Vitamin+D+Deficiency+-+many+studies"
-  - "/tiki-index.php?page_id=14545"
+  - "/14545"
+tiki_page_id: 14545
 date: 2023-07-19
 categories:
   - "Deficiency of Vitamin D"

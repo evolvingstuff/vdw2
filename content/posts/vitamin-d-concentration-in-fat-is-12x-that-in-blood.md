@@ -3,7 +3,8 @@ title: "Vitamin D concentration in fat is 12X that in blood"
 slug: "vitamin-d-concentration-in-fat-is-12x-that-in-blood"
 aliases:
   - "/Vitamin+D+concentration+in+fat+is+12X+that+in+blood+–+March+2008"
-  - "/tiki-index.php?page_id=11792"
+  - "/11792"
+tiki_page_id: 11792
 date: 2020-06-04
 categories:
   - "Obesity"

@@ -3,7 +3,8 @@ title: "End of Alzheimer's video and transcript"
 slug: "end-of-alzheimers-video-and-transcript"
 aliases:
   - "/End+of+Alzheimers+video+and+transcript+-+Oct+2021"
-  - "/tiki-index.php?page_id=13066"
+  - "/13066"
+tiki_page_id: 13066
 date: 2021-11-09
 categories:
   - "Top news"

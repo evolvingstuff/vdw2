@@ -3,7 +3,8 @@ title: "Fight COVID-19 without drugs or vaccines, Vitamin D is the single most-s
 slug: "fight-covid-19-without-drugs-or-vaccines-vitamin-d-is-the-single-most-studied-way"
 aliases:
   - "/Fight+COVID-19+without+drugs+or+vaccines+Vitamin+D+is+the+single+most-studied+way+–+Nov+2020"
-  - "/tiki-index.php?page_id=12083"
+  - "/12083"
+tiki_page_id: 12083
 date: 2020-11-24
 ---
 

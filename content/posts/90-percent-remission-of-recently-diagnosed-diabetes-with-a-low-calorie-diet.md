@@ -3,7 +3,8 @@ title: "90 percent remission of recently diagnosed diabetes with a low-calorie d
 slug: "90-percent-remission-of-recently-diagnosed-diabetes-with-a-low-calorie-diet"
 aliases:
   - "/90+percent+remission+of+recently+diagnosed+diabetes+with+a+low-calorie+diet"
-  - "/tiki-index.php?page_id=11206"
+  - "/11206"
+tiki_page_id: 11206
 date: 2019-10-05
 categories:
   - "Diabetes"

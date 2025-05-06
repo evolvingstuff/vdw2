@@ -3,7 +3,8 @@ title: "Patients believe that doctors do not properly recognize and treat 7 of t
 slug: "patients-believe-that-doctors-do-not-properly-recognize-and-treat-7-of-the-top-10-chronic-illnesses"
 aliases:
   - "/Patients+believe+that+doctors+do+not+properly+recognize+and+treat+7+of+the+top+10+chronic+illnesses+–+Oct+2019"
-  - "/tiki-index.php?page_id=11230"
+  - "/11230"
+tiki_page_id: 11230
 date: 2019-10-13
 categories:
   - "Health"

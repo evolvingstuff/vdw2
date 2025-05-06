@@ -3,7 +3,8 @@ title: "Bradford Hill Criteria applied to COVID Vaccinations"
 slug: "bradford-hill-criteria-applied-to-covid-vaccinations"
 aliases:
   - "/Bradford+Hill+Criteria+applied+to+COVID+Vaccinations+-+Oct+2022"
-  - "/tiki-index.php?page_id=14069"
+  - "/14069"
+tiki_page_id: 14069
 date: 2022-11-06
 categories:
   - "Virus"

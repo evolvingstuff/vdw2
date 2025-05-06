@@ -3,7 +3,8 @@ title: "Excess deaths in 34 countries (probably due to COVID vaccination) – pr
 slug: "excess-deaths-in-34-countries-probably-due-to-covid-vaccination-preprint"
 aliases:
   - "/Excess+deaths+in+34+countries+probably+due+to+COVID+vaccination+–+preprint+Aug+2023"
-  - "/tiki-index.php?page_id=14729"
+  - "/14729"
+tiki_page_id: 14729
 date: 2023-10-05
 categories:
   - "Virus"

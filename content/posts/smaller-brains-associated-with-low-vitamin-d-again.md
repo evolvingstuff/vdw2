@@ -3,7 +3,8 @@ title: "Smaller brains associated with low vitamin D (again)"
 slug: "smaller-brains-associated-with-low-vitamin-d-again"
 aliases:
   - "/Smaller+brains+associated+with+low+vitamin+D+again+–+Dec+2022"
-  - "/tiki-index.php?page_id=14085"
+  - "/14085"
+tiki_page_id: 14085
 date: 2022-11-14
 categories:
   - "Cognitive"

@@ -3,7 +3,8 @@ title: "Ignoring dose size etc, meta-analysis concludes that Vitamin D does not 
 slug: "ignoring-dose-size-etc-meta-analysis-concludes-that-vitamin-d-does-not-help-stroke-risk-in-this-case"
 aliases:
   - "/Ignoring+dose+size+etc+meta-analysis+concludes+that+Vitamin+D+does+not+help+stroke+risk+in+this+case+–+Aug+2022"
-  - "/tiki-index.php?page_id=13886"
+  - "/13886"
+tiki_page_id: 13886
 date: 2022-09-05
 categories:
   - "Meta-analysis of Vitamin D"

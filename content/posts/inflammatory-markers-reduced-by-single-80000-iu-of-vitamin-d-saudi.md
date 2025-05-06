@@ -3,7 +3,8 @@ title: "Inflammatory markers reduced by single 80,000 IU of vitamin D (Saudi)"
 slug: "inflammatory-markers-reduced-by-single-80000-iu-of-vitamin-d-saudi"
 aliases:
   - "/Inflammatory+markers+reduced+by+single+80000+IU+of+vitamin+D+Saudi+–+Sept+2022"
-  - "/tiki-index.php?page_id=13937"
+  - "/13937"
+tiki_page_id: 13937
 date: 2022-09-24
 categories:
   - "Loading dose for Vitamin D"

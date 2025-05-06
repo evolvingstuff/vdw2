@@ -3,7 +3,8 @@ title: "Diabetes 3X more likely if had COVID ICU (VDR was deactivated)"
 slug: "diabetes-3x-more-likely-if-had-covid-icu-vdr-was-deactivated"
 aliases:
   - "/Diabetes+3X+more+likely+if+had+COVID+ICU+VDR+was+deactivated+-+April+2023"
-  - "/tiki-index.php?page_id=14391"
+  - "/14391"
+tiki_page_id: 14391
 date: 2023-04-21
 categories:
   - "Diabetes"

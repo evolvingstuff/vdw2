@@ -3,7 +3,8 @@ title: "Many in US can no longer afford the total cost of health care - Kaiser 2
 slug: "many-in-us-can-no-longer-afford-the-total-cost-of-health-care-kaiser-2019"
 aliases:
   - "/Many+in+US+can+no+longer+afford+the+total+cost+of+health+care+-+Kaiser+2019"
-  - "/tiki-index.php?page_id=11169"
+  - "/11169"
+tiki_page_id: 11169
 date: 2019-09-25
 categories:
   - "Cost savings with Vitamin D"

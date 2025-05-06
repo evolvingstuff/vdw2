@@ -3,7 +3,8 @@ title: "95 percent of pregnant women in Finland took vitamin D – PHD Dissertat
 slug: "95-percent-of-pregnant-women-in-finland-took-vitamin-d-phd-dissertation"
 aliases:
   - "/95+percent+of+pregnant+women+in+Finland+took+vitamin+D+–+PHD+Dissertation+Dec+2019"
-  - "/tiki-index.php?page_id=11637"
+  - "/11637"
+tiki_page_id: 11637
 date: 2020-02-20
 categories:
   - "Pregnancy"

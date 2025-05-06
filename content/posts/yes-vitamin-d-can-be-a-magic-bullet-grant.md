@@ -3,7 +3,8 @@ title: "Yes, Vitamin D can be a magic bullet - Grant"
 slug: "yes-vitamin-d-can-be-a-magic-bullet-grant"
 aliases:
   - "/Yes+Vitamin+D+can+be+a+magic+bullet+-+Grant+March+2020"
-  - "/tiki-index.php?page_id=14577"
+  - "/14577"
+tiki_page_id: 14577
 date: 2023-08-01
 ---
 

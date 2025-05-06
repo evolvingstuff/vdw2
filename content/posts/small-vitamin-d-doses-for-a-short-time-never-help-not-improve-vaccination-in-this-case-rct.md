@@ -3,7 +3,8 @@ title: "Small Vitamin D doses for a short time never help (not improve vaccinati
 slug: "small-vitamin-d-doses-for-a-short-time-never-help-not-improve-vaccination-in-this-case-rct"
 aliases:
   - "/Small+Vitamin+D+doses+for+a+short+time+never+help+not+improve+vaccination+in+this+case+–+RCT+Sept+2022"
-  - "/tiki-index.php?page_id=13936"
+  - "/13936"
+tiki_page_id: 13936
 date: 2022-09-24
 categories:
   - "Intervention"

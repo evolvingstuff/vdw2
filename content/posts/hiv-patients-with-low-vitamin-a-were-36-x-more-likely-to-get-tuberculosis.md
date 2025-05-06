@@ -3,7 +3,8 @@ title: "HIV patients with low Vitamin A were 3.6 X more likely to get Tuberculos
 slug: "hiv-patients-with-low-vitamin-a-were-36-x-more-likely-to-get-tuberculosis"
 aliases:
   - "/HIV+patients+with+low+Vitamin+A+were+36+X+more+likely+to+get+Tuberculosis+–+Dec+2022"
-  - "/tiki-index.php?page_id=14158"
+  - "/14158"
+tiki_page_id: 14158
 date: 2022-12-19
 categories:
   - "Tuberculosis"

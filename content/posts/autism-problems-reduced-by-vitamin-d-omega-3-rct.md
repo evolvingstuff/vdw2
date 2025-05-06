@@ -3,7 +3,8 @@ title: "Autism problems reduced by Vitamin D, Omega-3 – RCT"
 slug: "autism-problems-reduced-by-vitamin-d-omega-3-rct"
 aliases:
   - "/Autism+problems+reduced+by+Vitamin+D+Omega-3+–+RCT+Oct+2018"
-  - "/tiki-index.php?page_id=10167"
+  - "/10167"
+tiki_page_id: 10167
 date: 2018-10-30
 categories:
   - "Autism"

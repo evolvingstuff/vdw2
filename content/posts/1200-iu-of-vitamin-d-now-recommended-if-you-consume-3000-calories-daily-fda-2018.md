@@ -3,7 +3,8 @@ title: "1,200 IU of Vitamin D now recommended if you consume 3,000 calories dail
 slug: "1200-iu-of-vitamin-d-now-recommended-if-you-consume-3000-calories-daily-fda-2018"
 aliases:
   - "/1200+IU+of+Vitamin+D+now+recommended+if+you+consume+3000+calories+daily+FDA+–+2018"
-  - "/tiki-index.php?page_id=10165"
+  - "/10165"
+tiki_page_id: 10165
 date: 2018-10-29
 categories:
   - "How much Vitamin D"

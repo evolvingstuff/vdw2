@@ -3,7 +3,8 @@ title: "Cardiovascular Disorders – 31 recent Vitamin D studies"
 slug: "cardiovascular-disorders-31-recent-vitamin-d-studies"
 aliases:
   - "/Cardiovascular+Disorders+–+31+recent+Vitamin+D+studies+–+May+2023"
-  - "/tiki-index.php?page_id=14461"
+  - "/14461"
+tiki_page_id: 14461
 date: 2023-05-31
 ---
 

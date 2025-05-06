@@ -3,7 +3,8 @@ title: "Frailty is related to many things, such as low vitamin D"
 slug: "frailty-is-related-to-many-things-such-as-low-vitamin-d"
 aliases:
   - "/Frailty+is+related+to+many+things+such+as+low+vitamin+D+–+Sept+2018"
-  - "/tiki-index.php?page_id=10025"
+  - "/10025"
+tiki_page_id: 10025
 date: 2018-09-11
 categories:
   - "Seniors"

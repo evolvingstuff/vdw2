@@ -3,7 +3,8 @@ title: "Vitamin D trial with COVID-19 in Sri Lanka - interview"
 slug: "vitamin-d-trial-with-covid-19-in-sri-lanka-interview"
 aliases:
   - "/Vitamin+D+trial+with+COVID-19+in+Sri+Lanka+-+interview+May+16"
-  - "/tiki-index.php?page_id=11771"
+  - "/11771"
+tiki_page_id: 11771
 date: 2020-05-18
 categories:
   - "Virus"

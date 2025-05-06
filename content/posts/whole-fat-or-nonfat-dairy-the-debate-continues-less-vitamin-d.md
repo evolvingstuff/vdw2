@@ -3,7 +3,8 @@ title: "Whole-Fat or Nonfat Dairy -The Debate Continues (less vitamin D)"
 slug: "whole-fat-or-nonfat-dairy-the-debate-continues-less-vitamin-d"
 aliases:
   - "/Whole-Fat+or+Nonfat+Dairy+-The+Debate+Continues+less+vitamin+D+-+Dec+2018"
-  - "/tiki-index.php?page_id=10271"
+  - "/10271"
+tiki_page_id: 10271
 date: 2018-12-05
 categories:
   - "Fortification with Vitamin D"

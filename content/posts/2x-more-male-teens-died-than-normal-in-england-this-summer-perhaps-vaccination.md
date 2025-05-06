@@ -3,7 +3,8 @@ title: "2X more male teens died than normal in England this summer (perhaps vacc
 slug: "2x-more-male-teens-died-than-normal-in-england-this-summer-perhaps-vaccination"
 aliases:
   - "/2X+more+male+teens+died+than+normal+in+England+this+summer+perhaps+vaccination+-+Oct+2021"
-  - "/tiki-index.php?page_id=13069"
+  - "/13069"
+tiki_page_id: 13069
 date: 2021-11-10
 categories:
   - "Virus"

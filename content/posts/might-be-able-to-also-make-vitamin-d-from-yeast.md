@@ -3,7 +3,8 @@ title: "Might be able to also make vitamin D from yeast"
 slug: "might-be-able-to-also-make-vitamin-d-from-yeast"
 aliases:
   - "/Might+be+able+to+also+make+vitamin+D+from+yeast+-+May+2022"
-  - "/tiki-index.php?page_id=13567"
+  - "/13567"
+tiki_page_id: 13567
 date: 2022-05-18
 ---
 

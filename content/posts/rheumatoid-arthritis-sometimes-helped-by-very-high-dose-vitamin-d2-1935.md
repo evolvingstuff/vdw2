@@ -3,7 +3,8 @@ title: "Rheumatoid Arthritis sometimes helped by very high dose vitamin D2 – 1
 slug: "rheumatoid-arthritis-sometimes-helped-by-very-high-dose-vitamin-d2-1935"
 aliases:
   - "/Rheumatoid+Arthritis+sometimes+helped+by+very+high+dose+vitamin+D2+–+1935"
-  - "/tiki-index.php?page_id=11291"
+  - "/11291"
+tiki_page_id: 11291
 date: 2019-10-29
 categories:
   - "Rheumatoid Arthritis"

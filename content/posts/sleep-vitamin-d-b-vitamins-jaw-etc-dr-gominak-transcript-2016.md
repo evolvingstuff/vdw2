@@ -3,7 +3,8 @@ title: "Sleep, Vitamin D, B Vitamins, jaw, etc. Dr. Gominak transcript - 2016"
 slug: "sleep-vitamin-d-b-vitamins-jaw-etc-dr-gominak-transcript-2016"
 aliases:
   - "/Sleep+Vitamin+D+B+Vitamins+jaw+etc+Dr+Gominak+transcript+-+2016"
-  - "/tiki-index.php?page_id=10443"
+  - "/10443"
+tiki_page_id: 10443
 date: 2019-01-31
 categories:
   - "Sleep"

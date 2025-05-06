@@ -3,7 +3,8 @@ title: "Spinal cord injury - test Vitamin D bi-annually - 2022"
 slug: "spinal-cord-injury-test-vitamin-d-bi-annually-2022"
 aliases:
   - "/Spinal+cord+injury+-+test+Vitamin+D+bi-annually+-+2022"
-  - "/tiki-index.php?page_id=13845"
+  - "/13845"
+tiki_page_id: 13845
 date: 2022-08-18
 categories:
   - "Spinal Cord"

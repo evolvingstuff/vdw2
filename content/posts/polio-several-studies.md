@@ -3,7 +3,8 @@ title: "Polio - several studies"
 slug: "polio-several-studies"
 aliases:
   - "/Polio+-+several+studies"
-  - "/tiki-index.php?page_id=14061"
+  - "/14061"
+tiki_page_id: 14061
 date: 2022-10-30
 ---
 

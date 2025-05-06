@@ -3,7 +3,8 @@ title: "Mutiple Sclerosis half as likely in children spending 30 to 60 minutes p
 slug: "mutiple-sclerosis-half-as-likely-in-children-spending-30-to-60-minutes-per-day-in-the-sun"
 aliases:
   - "/Mutiple+Sclerosis+half+as+likely+in+children+spending+30+to+60+minutes+per+day+in+the+sun+–+Dec+2021"
-  - "/tiki-index.php?page_id=13166"
+  - "/13166"
+tiki_page_id: 13166
 date: 2021-12-10
 categories:
   - "Noontime sun and D"

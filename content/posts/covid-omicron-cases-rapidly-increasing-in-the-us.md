@@ -3,7 +3,8 @@ title: "Covid-Omicron cases rapidly increasing in the US"
 slug: "covid-omicron-cases-rapidly-increasing-in-the-us"
 aliases:
   - "/Covid-Omicron+cases+rapidly+increasing+in+the+US+-+Dec+27+2021"
-  - "/tiki-index.php?page_id=13224"
+  - "/13224"
+tiki_page_id: 13224
 date: 2021-12-27
 categories:
   - "Virus"

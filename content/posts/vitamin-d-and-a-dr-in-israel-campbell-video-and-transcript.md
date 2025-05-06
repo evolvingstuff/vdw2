@@ -3,7 +3,8 @@ title: "Vitamin D and a Dr. in Israel - Campbell video and transcript"
 slug: "vitamin-d-and-a-dr-in-israel-campbell-video-and-transcript"
 aliases:
   - "/Vitamin+D+and+a+Dr+in+Israel+-+Campbell+video+and+transcript+-+Dec+11+2021"
-  - "/tiki-index.php?page_id=13179"
+  - "/13179"
+tiki_page_id: 13179
 date: 2021-12-13
 categories:
   - "Books, videos on Vitamin D"

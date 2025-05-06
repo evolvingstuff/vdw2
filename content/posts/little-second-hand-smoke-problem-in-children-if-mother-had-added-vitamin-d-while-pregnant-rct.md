@@ -3,7 +3,8 @@ title: "Little second-hand smoke problem in children if mother had added Vitamin
 slug: "little-second-hand-smoke-problem-in-children-if-mother-had-added-vitamin-d-while-pregnant-rct"
 aliases:
   - "/Little+second-hand+smoke+problem+in+children+if+mother+had+added+Vitamin+D+while+pregnant+-+RCT+Feb+2023"
-  - "/tiki-index.php?page_id=14445"
+  - "/14445"
+tiki_page_id: 14445
 date: 2023-05-25
 categories:
   - "Infant-Child"

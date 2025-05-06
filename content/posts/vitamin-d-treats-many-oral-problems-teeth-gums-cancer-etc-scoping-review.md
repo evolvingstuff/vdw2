@@ -3,7 +3,8 @@ title: "Vitamin D treats many oral problems (teeth, gums, cancer, etc.) – Scop
 slug: "vitamin-d-treats-many-oral-problems-teeth-gums-cancer-etc-scoping-review"
 aliases:
   - "/Vitamin+D+treats+many+oral+problems+teeth+gums+cancer+etc+–+Scoping+review+Nov+2021"
-  - "/tiki-index.php?page_id=13114"
+  - "/13114"
+tiki_page_id: 13114
 date: 2021-11-25
 categories:
   - "Dental"

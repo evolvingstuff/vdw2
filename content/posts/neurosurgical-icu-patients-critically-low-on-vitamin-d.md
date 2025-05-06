@@ -3,7 +3,8 @@ title: "Neurosurgical ICU patients critically low on Vitamin D"
 slug: "neurosurgical-icu-patients-critically-low-on-vitamin-d"
 aliases:
   - "/Neurosurgical+ICU+patients+critically+low+on+Vitamin+D+–+Feb+2018"
-  - "/tiki-index.php?page_id=10028"
+  - "/10028"
+tiki_page_id: 10028
 date: 2018-09-11
 categories:
   - "Vitamin D and Magnesium"

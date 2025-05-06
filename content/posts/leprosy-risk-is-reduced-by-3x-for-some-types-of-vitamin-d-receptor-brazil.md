@@ -3,7 +3,8 @@ title: "Leprosy risk is reduced by 3X for some types of Vitamin D Receptor (Braz
 slug: "leprosy-risk-is-reduced-by-3x-for-some-types-of-vitamin-d-receptor-brazil"
 aliases:
   - "/Leprosy+risk+is+reduced+by+3X+for+some+types+of+Vitamin+D+Receptor+Brazil+–+Sept+2019"
-  - "/tiki-index.php?page_id=11149"
+  - "/11149"
+tiki_page_id: 11149
 date: 2019-09-13
 categories:
   - "Skin"

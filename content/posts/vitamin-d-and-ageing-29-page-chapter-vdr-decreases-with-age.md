@@ -3,7 +3,8 @@ title: "Vitamin D and Ageing (29 page chapter, VDR decreases with age)"
 slug: "vitamin-d-and-ageing-29-page-chapter-vdr-decreases-with-age"
 aliases:
   - "/Vitamin+D+and+Ageing+29+page+chapter+VDR+decreases+with+age+–+Feb+2019"
-  - "/tiki-index.php?page_id=10514"
+  - "/10514"
+tiki_page_id: 10514
 date: 2019-02-23
 categories:
   - "Seniors"

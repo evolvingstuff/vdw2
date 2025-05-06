@@ -3,7 +3,8 @@ title: "Preeclampsia reduced by Vitamin D - many studies"
 slug: "preeclampsia-reduced-by-vitamin-d-many-studies"
 aliases:
   - "/Preeclampsia+reduced+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=13028"
+  - "/13028"
+tiki_page_id: 13028
 date: 2021-10-28
 categories:
   - "Pregnancy"

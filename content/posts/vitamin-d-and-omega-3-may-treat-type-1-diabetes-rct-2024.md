@@ -3,7 +3,8 @@ title: "Vitamin D and Omega-3 may treat Type 1 Diabetes – RCT 2024"
 slug: "vitamin-d-and-omega-3-may-treat-type-1-diabetes-rct-2024"
 aliases:
   - "/Vitamin+D+and+Omega-3+may+treat+Type+1+Diabetes+–+RCT+2024"
-  - "/tiki-index.php?page_id=10228"
+  - "/10228"
+tiki_page_id: 10228
 date: 2018-11-23
 categories:
   - "Diabetes"

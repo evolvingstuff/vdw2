@@ -3,7 +3,8 @@ title: "Chronic Kidney Disease (stage 3) slowed by 30 ng of Vitamin D and Calcit
 slug: "chronic-kidney-disease-stage-3-slowed-by-30-ng-of-vitamin-d-and-calcitriol"
 aliases:
   - "/Chronic+Kidney+Disease+stage+3+slowed+by+30+ng+of+Vitamin+D+and+Calcitriol+–+Dec+2019"
-  - "/tiki-index.php?page_id=11424"
+  - "/11424"
+tiki_page_id: 11424
 date: 2019-12-05
 categories:
   - "Kidney"

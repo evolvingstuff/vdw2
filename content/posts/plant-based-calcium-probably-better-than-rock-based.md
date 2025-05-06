@@ -3,7 +3,8 @@ title: "Plant-based Calcium probably better than rock-based"
 slug: "plant-based-calcium-probably-better-than-rock-based"
 aliases:
   - "/Plant-based+Calcium+probably+better+than+rock-based"
-  - "/tiki-index.php?page_id=12996"
+  - "/12996"
+tiki_page_id: 12996
 date: 2021-10-16
 categories:
   - "Vitamin D and Calcium"

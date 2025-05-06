@@ -3,7 +3,8 @@ title: "Immune systems of overweight black women improved by monthly 60,000 IU V
 slug: "immune-systems-of-overweight-black-women-improved-by-monthly-60000-iu-vitamin-d-rct"
 aliases:
   - "/Immune+systems+of+overweight+black+women+improved+by+monthly+60000+IU+Vitamin+D+–+RCT+Oct+2022"
-  - "/tiki-index.php?page_id=14011"
+  - "/14011"
+tiki_page_id: 14011
 date: 2022-10-14
 categories:
   - "Skin - Dark"

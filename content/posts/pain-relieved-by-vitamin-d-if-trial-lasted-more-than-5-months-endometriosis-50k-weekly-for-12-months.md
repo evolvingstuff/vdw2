@@ -3,7 +3,8 @@ title: "Pain relieved by Vitamin D if trial lasted more than 5 months (endometri
 slug: "pain-relieved-by-vitamin-d-if-trial-lasted-more-than-5-months-endometriosis-50k-weekly-for-12-months"
 aliases:
   - "/Pain+relieved+by+Vitamin+D+if+trial+lasted+more+than+5+months+endometriosis+50K+weekly+for+12+months+–+Aug+2023"
-  - "/tiki-index.php?page_id=14648"
+  - "/14648"
+tiki_page_id: 14648
 date: 2023-08-30
 categories:
   - "Pain - chronic"

@@ -3,7 +3,8 @@ title: "Low Magnesium increases stress, and stress decreases Magnesium (Vicious 
 slug: "low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle"
 aliases:
   - "/Low+Magnesium+increases+stress+and+stress+decreases+Magnesium+Vicious+Circle+–+Nov+2020"
-  - "/tiki-index.php?page_id=15162"
+  - "/15162"
+tiki_page_id: 15162
 date: 2024-03-22
 categories:
   - "Vitamin D and Magnesium"

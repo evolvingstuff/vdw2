@@ -3,7 +3,8 @@ title: "Controversies and consensus in Vitamin D – 3rd Conference"
 slug: "controversies-and-consensus-in-vitamin-d-3rd-conference"
 aliases:
   - "/Controversies+and+consensus+in+Vitamin+D+–+3rd+Conference+Sept+2019"
-  - "/tiki-index.php?page_id=12059"
+  - "/12059"
+tiki_page_id: 12059
 date: 2020-11-11
 categories:
   - "Overview for doctors"

@@ -3,7 +3,8 @@ title: "Lawsuit against Pfizer (adverse event secrecy)"
 slug: "lawsuit-against-pfizer-adverse-event-secrecy"
 aliases:
   - "/Lawsuit+against+Pfizer+adverse+event+secrecy+-+Dec+7+2021"
-  - "/tiki-index.php?page_id=13185"
+  - "/13185"
+tiki_page_id: 13185
 date: 2021-12-14
 categories:
   - "Virus"

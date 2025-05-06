@@ -3,7 +3,8 @@ title: "Vitamin D - Legal doping for sports professionals, amateurs and their fa
 slug: "vitamin-d-legal-doping-for-sports-professionals-amateurs-and-their-families-book-in-german-2020"
 aliases:
   - "/Vitamin+D+-+Legal+doping+for+sports+professionals+amateurs+and+their+families+book+in+German+2020"
-  - "/tiki-index.php?page_id=12677"
+  - "/12677"
+tiki_page_id: 12677
 date: 2021-06-22
 categories:
   - "Sports and Vitamin D"

@@ -3,7 +3,8 @@ title: "2 Vitamin D pills per month may be as good as 10 hours of exercise"
 slug: "2-vitamin-d-pills-per-month-may-be-as-good-as-10-hours-of-exercise"
 aliases:
   - "/2+Vitamin+D+pills+per+month+may+be+as+good+as+10+hours+of+exercise+-+Nov+2018"
-  - "/tiki-index.php?page_id=10197"
+  - "/10197"
+tiki_page_id: 10197
 date: 2018-11-12
 categories:
   - "How much Vitamin D"

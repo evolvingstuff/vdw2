@@ -3,7 +3,8 @@ title: "Every one of top 10 female health problems is associated with low Vitami
 slug: "every-one-of-top-10-female-health-problems-is-associated-with-low-vitamin-d"
 aliases:
   - "/Every+one+of+top+10+female+health+problems+is+associated+with+low+Vitamin+D"
-  - "/tiki-index.php?page_id=10385"
+  - "/10385"
+tiki_page_id: 10385
 date: 2019-01-08
 categories:
   - "Women"

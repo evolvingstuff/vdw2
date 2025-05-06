@@ -3,7 +3,8 @@ title: "CRISPER-edited tomato leaves have 8,000 IU of vitamin D3 per gram"
 slug: "crisper-edited-tomato-leaves-have-8000-iu-of-vitamin-d3-per-gram"
 aliases:
   - "/CRISPER-edited+tomato+leaves+have+8000+IU+of+vitamin+D3+per+gram+-+May+2022"
-  - "/tiki-index.php?page_id=14233"
+  - "/14233"
+tiki_page_id: 14233
 date: 2023-01-25
 categories:
   - "Food sources for Vitamin D"

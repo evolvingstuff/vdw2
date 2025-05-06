@@ -3,7 +3,8 @@ title: "Long-COVID is now the biggest COVID concern - many studies"
 slug: "long-covid-is-now-the-biggest-covid-concern-many-studies"
 aliases:
   - "/Long-COVID+is+now+the+biggest+COVID+concern+-+many+studies"
-  - "/tiki-index.php?page_id=13765"
+  - "/13765"
+tiki_page_id: 13765
 date: 2022-07-17
 categories:
   - "Top news"

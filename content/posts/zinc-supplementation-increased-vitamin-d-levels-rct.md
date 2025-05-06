@@ -3,7 +3,8 @@ title: "Zinc supplementation increased Vitamin D levels – RCT"
 slug: "zinc-supplementation-increased-vitamin-d-levels-rct"
 aliases:
   - "/Zinc+supplementation+increased+Vitamin+D+levels+–+RCT+Feb+2021"
-  - "/tiki-index.php?page_id=12335"
+  - "/12335"
+tiki_page_id: 12335
 date: 2021-02-20
 categories:
   - "Zinc"

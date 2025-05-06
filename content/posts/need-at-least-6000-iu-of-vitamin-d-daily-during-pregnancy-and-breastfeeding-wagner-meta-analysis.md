@@ -3,7 +3,8 @@ title: "Need at least 6,000 IU of Vitamin D daily during pregnancy and breastfee
 slug: "need-at-least-6000-iu-of-vitamin-d-daily-during-pregnancy-and-breastfeeding-wagner-meta-analysis"
 aliases:
   - "/Need+at+least+6000+IU+of+Vitamin+D+daily+during+pregnancy+and+breastfeeding+Wagner+–+meta-analysis+March+2022"
-  - "/tiki-index.php?page_id=13482"
+  - "/13482"
+tiki_page_id: 13482
 date: 2022-04-15
 categories:
   - "Pregnancy"

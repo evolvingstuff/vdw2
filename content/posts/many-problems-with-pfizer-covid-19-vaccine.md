@@ -3,7 +3,8 @@ title: "Many problems with Pfizer COVID-19 vaccine"
 slug: "many-problems-with-pfizer-covid-19-vaccine"
 aliases:
   - "/Many+problems+with+Pfizer+COVID-19+vaccine+–+Nov+9+2020"
-  - "/tiki-index.php?page_id=12055"
+  - "/12055"
+tiki_page_id: 12055
 date: 2020-11-09
 categories:
   - "Virus"

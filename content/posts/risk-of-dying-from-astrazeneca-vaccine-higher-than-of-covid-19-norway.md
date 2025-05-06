@@ -3,7 +3,8 @@ title: "Risk of dying from AstraZeneca vaccine higher than of COVID-19 - Norway"
 slug: "risk-of-dying-from-astrazeneca-vaccine-higher-than-of-covid-19-norway"
 aliases:
   - "/Risk+of+dying+from+AstraZeneca+vaccine+higher+than+of+COVID-19+-+Norway+April+23+2021"
-  - "/tiki-index.php?page_id=12543"
+  - "/12543"
+tiki_page_id: 12543
 date: 2021-04-27
 categories:
   - "Virus"

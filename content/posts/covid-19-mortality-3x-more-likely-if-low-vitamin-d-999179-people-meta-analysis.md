@@ -3,7 +3,8 @@ title: "COVID-19 mortality 3X more likely if low vitamin D (999,179 people) – 
 slug: "covid-19-mortality-3x-more-likely-if-low-vitamin-d-999179-people-meta-analysis"
 aliases:
   - "/COVID-19+mortality+3X+more+likely+if+low+vitamin+D+999179+people+–+meta-analysis+March+29+2021"
-  - "/tiki-index.php?page_id=12450"
+  - "/12450"
+tiki_page_id: 12450
 date: 2021-03-29
 categories:
   - "Deficiency of Vitamin D"

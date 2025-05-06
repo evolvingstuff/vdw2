@@ -3,7 +3,8 @@ title: "Microcephaly patients have both poor Vitamin D levels and Receptors"
 slug: "microcephaly-patients-have-both-poor-vitamin-d-levels-and-receptors"
 aliases:
   - "/Microcephaly+patients+have+both+poor+Vitamin+D+levels+and+Receptors+-+Sept+2023"
-  - "/tiki-index.php?page_id=14704"
+  - "/14704"
+tiki_page_id: 14704
 date: 2023-09-27
 categories:
   - "Vitamin D Receptor"

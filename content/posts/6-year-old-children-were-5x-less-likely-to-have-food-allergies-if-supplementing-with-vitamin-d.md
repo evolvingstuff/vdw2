@@ -3,7 +3,8 @@ title: "6 year-old children were 5X less likely to have food allergies if supple
 slug: "6-year-old-children-were-5x-less-likely-to-have-food-allergies-if-supplementing-with-vitamin-d"
 aliases:
   - "/6+year-old+children+were+5X+less+likely+to+have+food+allergies+if+supplementing+with+vitamin+D+–+July+2019"
-  - "/tiki-index.php?page_id=11019"
+  - "/11019"
+tiki_page_id: 11019
 date: 2019-07-24
 categories:
   - "Infant-Child"

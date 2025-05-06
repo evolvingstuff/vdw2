@@ -3,7 +3,8 @@ title: "Vaccinated children have more health problems"
 slug: "vaccinated-children-have-more-health-problems"
 aliases:
   - "/Vaccinated+children+have+more+health+problems"
-  - "/tiki-index.php?page_id=14656"
+  - "/14656"
+tiki_page_id: 14656
 date: 2023-09-01
 categories:
   - "Virus"

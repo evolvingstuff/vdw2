@@ -3,7 +3,8 @@ title: "Amyloid brain plaque both prevented and removed by high vitamin D (in mi
 slug: "amyloid-brain-plaque-both-prevented-and-removed-by-high-vitamin-d-in-mice"
 aliases:
   - "/Amyloid+brain+plaque+both+prevented+and+removed+by+high+vitamin+D+in+mice+–+Aug+2018"
-  - "/tiki-index.php?page_id=10226"
+  - "/10226"
+tiki_page_id: 10226
 date: 2018-11-23
 categories:
   - "Intervention"

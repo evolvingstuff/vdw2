@@ -3,7 +3,8 @@ title: "Vitamin D deficiency increases risk of Dementia by 1.4 X and Alzheimerâ€
 slug: "vitamin-d-deficiency-increases-risk-of-dementia-by-14-x-and-alzheimers-by-15-x-meta-analysis"
 aliases:
   - "/Vitamin+D+deficiency+increases+risk+of+Dementia+by+14+X+and+Alzheimers+by+15+X+â€“+Meta-analysis+March+2024"
-  - "/tiki-index.php?page_id=15121"
+  - "/15121"
+tiki_page_id: 15121
 date: 2024-03-10
 categories:
   - "Cognitive"

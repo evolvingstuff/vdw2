@@ -3,7 +3,8 @@ title: "Employees back pain costs an average of 440 dollars (not counting lost p
 slug: "employees-back-pain-costs-an-average-of-440-dollars-not-counting-lost-productivity-2017"
 aliases:
   - "/Employees+back+pain+costs+an+average+of+440+dollars+not+counting+lost+productivity+–+2017"
-  - "/tiki-index.php?page_id=10940"
+  - "/10940"
+tiki_page_id: 10940
 date: 2019-06-30
 categories:
   - "Back pain"

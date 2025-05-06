@@ -3,7 +3,8 @@ title: "Crohn’s Disease associated with lower Vitamin D - meta-analysis"
 slug: "crohns-disease-associated-with-lower-vitamin-d-meta-analysis"
 aliases:
   - "/Crohns+Disease+associated+with+lower+Vitamin+D+-+meta-analysis+Sept+2019"
-  - "/tiki-index.php?page_id=11176"
+  - "/11176"
+tiki_page_id: 11176
 date: 2019-09-28
 categories:
   - "Meta-analysis of Vitamin D"

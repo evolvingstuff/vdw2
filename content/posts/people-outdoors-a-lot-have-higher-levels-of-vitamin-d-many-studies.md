@@ -3,7 +3,8 @@ title: "People outdoors a lot have higher levels of Vitamin D – many studies"
 slug: "people-outdoors-a-lot-have-higher-levels-of-vitamin-d-many-studies"
 aliases:
   - "/People+outdoors+a+lot+have+higher+levels+of+Vitamin+D+–+many+studies"
-  - "/tiki-index.php?page_id=15082"
+  - "/15082"
+tiki_page_id: 15082
 date: 2024-02-28
 ---
 

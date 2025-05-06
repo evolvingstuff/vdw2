@@ -3,7 +3,8 @@ title: "COVID-19 plus pneumonia in ICU with low vitamin D equaled Death"
 slug: "covid-19-plus-pneumonia-in-icu-with-low-vitamin-d-equaled-death"
 aliases:
   - "/COVID-19+plus+pneumonia+in+ICU+with+low+vitamin+D+equaled+Death+-+Dec+2020"
-  - "/tiki-index.php?page_id=12148"
+  - "/12148"
+tiki_page_id: 12148
 date: 2020-12-16
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Inflammation associated with Cancer reduced by Vitamin D – meta-analys
 slug: "inflammation-associated-with-cancer-reduced-by-vitamin-d-meta-analysis"
 aliases:
   - "/Inflammation+associated+with+Cancer+reduced+by+Vitamin+D+–+meta-analysis+May+2023"
-  - "/tiki-index.php?page_id=14453"
+  - "/14453"
+tiki_page_id: 14453
 date: 2023-05-28
 categories:
   - "Cancer"

@@ -3,7 +3,8 @@ title: "Supplement usage - US 50 percent, China 0.7 percent - 2018"
 slug: "supplement-usage-us-50-percent-china-07-percent-2018"
 aliases:
   - "/Supplement+usage+-+US+50+percent+China+07+percent+-+2018"
-  - "/tiki-index.php?page_id=11627"
+  - "/11627"
+tiki_page_id: 11627
 date: 2020-02-14
 categories:
   - "Supplement"

@@ -3,7 +3,8 @@ title: "8 Chapters on Vitamin D topics - 2017"
 slug: "8-chapters-on-vitamin-d-topics-2017"
 aliases:
   - "/8+Chapters+on+Vitamin+D+topics+-+2017"
-  - "/tiki-index.php?page_id=10564"
+  - "/10564"
+tiki_page_id: 10564
 date: 2019-03-12
 categories:
   - "Books, videos on Vitamin D"

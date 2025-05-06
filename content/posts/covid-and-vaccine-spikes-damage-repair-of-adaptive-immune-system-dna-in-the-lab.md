@@ -3,7 +3,8 @@ title: "COVID and vaccine spikes damage repair of adaptive immune system DNA (in
 slug: "covid-and-vaccine-spikes-damage-repair-of-adaptive-immune-system-dna-in-the-lab"
 aliases:
   - "/COVID+and+vaccine+spikes+damage+repair+of+adaptive+immune+system+DNA+in+the+lab+-+Oct+2021"
-  - "/tiki-index.php?page_id=13205"
+  - "/13205"
+tiki_page_id: 13205
 date: 2021-12-21
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Breast Cancers with the lowest Vitamin D levels were more likely to meta
 slug: "breast-cancers-with-the-lowest-vitamin-d-levels-were-more-likely-to-metastasize"
 aliases:
   - "/Breast+Cancers+with+the+lowest+Vitamin+D+levels+were+more+likely+to+metastasize+–+Sept+2022"
-  - "/tiki-index.php?page_id=13947"
+  - "/13947"
+tiki_page_id: 13947
 date: 2022-09-27
 categories:
   - "Cancer - Breast"

@@ -3,7 +3,8 @@ title: "IBS - Vitamin D was the only micronutrient under DRV - meta-analysis"
 slug: "ibs-vitamin-d-was-the-only-micronutrient-under-drv-meta-analysis"
 aliases:
   - "/IBS+-+Vitamin+D+was+the+only+micronutrient+under+DRV+-+meta-analysis+Oct+2023"
-  - "/tiki-index.php?page_id=14801"
+  - "/14801"
+tiki_page_id: 14801
 date: 2023-10-31
 categories:
   - "Meta-analysis of Vitamin D"

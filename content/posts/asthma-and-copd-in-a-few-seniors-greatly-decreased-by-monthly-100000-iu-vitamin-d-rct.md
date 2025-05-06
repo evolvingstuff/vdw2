@@ -3,7 +3,8 @@ title: "Asthma and COPD in a few seniors greatly decreased by monthly 100,000 IU
 slug: "asthma-and-copd-in-a-few-seniors-greatly-decreased-by-monthly-100000-iu-vitamin-d-rct"
 aliases:
   - "/Asthma+and+COPD+in+a+few+seniors+greatly+decreased+by+monthly+100000+IU+Vitamin+D+–+RCT+Feb+2021"
-  - "/tiki-index.php?page_id=12695"
+  - "/12695"
+tiki_page_id: 12695
 date: 2021-06-28
 categories:
   - "Seniors"

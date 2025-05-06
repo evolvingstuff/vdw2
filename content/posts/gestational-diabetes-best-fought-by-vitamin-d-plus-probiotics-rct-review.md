@@ -3,7 +3,8 @@ title: "Gestational Diabetes best fought by Vitamin D plus probiotics – RCT re
 slug: "gestational-diabetes-best-fought-by-vitamin-d-plus-probiotics-rct-review"
 aliases:
   - "/Gestational+Diabetes+best+fought+by+Vitamin+D+plus+probiotics+–+RCT+review+Dec+2023"
-  - "/tiki-index.php?page_id=14961"
+  - "/14961"
+tiki_page_id: 14961
 date: 2024-01-11
 categories:
   - "Pregnancy"

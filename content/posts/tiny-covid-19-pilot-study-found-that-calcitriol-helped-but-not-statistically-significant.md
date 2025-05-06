@@ -3,7 +3,8 @@ title: "Tiny COVID-19 pilot study found that Calcitriol helped – but not stati
 slug: "tiny-covid-19-pilot-study-found-that-calcitriol-helped-but-not-statistically-significant"
 aliases:
   - "/Tiny+COVID-19+pilot+study+found+that+Calcitriol+helped+–+but+not+statistically+significant+-+Jan+2022"
-  - "/tiki-index.php?page_id=13238"
+  - "/13238"
+tiki_page_id: 13238
 date: 2022-01-04
 categories:
   - "Calcitriol"

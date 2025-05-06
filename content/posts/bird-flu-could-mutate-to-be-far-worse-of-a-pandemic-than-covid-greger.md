@@ -3,7 +3,8 @@ title: "Bird flu could mutate to be far worse of a pandemic than COVID - Greger"
 slug: "bird-flu-could-mutate-to-be-far-worse-of-a-pandemic-than-covid-greger"
 aliases:
   - "/Bird+flu+could+mutate+to+be+far+worse+of+a+pandemic+than+COVID+-+Greger+Aug+2020"
-  - "/tiki-index.php?page_id=11982"
+  - "/11982"
+tiki_page_id: 11982
 date: 2020-10-01
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Why You Need More Vitamin D - Pure North - 2016"
 slug: "why-you-need-more-vitamin-d-pure-north-2016"
 aliases:
   - "/Why+You+Need+More+Vitamin+D+-+Pure+North+-+2016"
-  - "/tiki-index.php?page_id=11845"
+  - "/11845"
+tiki_page_id: 11845
 date: 2020-07-15
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "There are 2 concurrent pandemics – COVID-19 and Vitamin D deficiency"
 slug: "there-are-2-concurrent-pandemics-covid-19-and-vitamin-d-deficiency"
 aliases:
   - "/There+are+2+concurrent+pandemics+–+COVID-19+and+Vitamin+D+deficiency+–+May+13+2020"
-  - "/tiki-index.php?page_id=11765"
+  - "/11765"
+tiki_page_id: 11765
 date: 2020-05-13
 categories:
   - "Virus"

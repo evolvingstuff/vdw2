@@ -3,7 +3,8 @@ title: "Vitamin D Receptor activators (Resveratrol, Curcumin ,Quercetin) all imp
 slug: "vitamin-d-receptor-activators-resveratrol-curcumin-quercetin-all-improve-bone-review"
 aliases:
   - "/Vitamin+D+Receptor+activators+Resveratrol+Curcumin+Quercetin+all+improve+bone+–+Review+Aug+2022"
-  - "/tiki-index.php?page_id=13972"
+  - "/13972"
+tiki_page_id: 13972
 date: 2022-10-03
 categories:
   - "Bone - Health"

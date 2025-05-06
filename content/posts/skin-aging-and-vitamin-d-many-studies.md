@@ -3,7 +3,8 @@ title: "Skin Aging and Vitamin D - many studies"
 slug: "skin-aging-and-vitamin-d-many-studies"
 aliases:
   - "/Skin+Aging+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=13320"
+  - "/13320"
+tiki_page_id: 13320
 date: 2022-02-07
 categories:
   - "Noontime sun and D"

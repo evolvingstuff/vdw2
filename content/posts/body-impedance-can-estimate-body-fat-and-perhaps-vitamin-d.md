@@ -3,7 +3,8 @@ title: "Body impedance can estimate body fat, and perhaps Vitamin D"
 slug: "body-impedance-can-estimate-body-fat-and-perhaps-vitamin-d"
 aliases:
   - "/Body+impedance+can+estimate+body+fat+and+perhaps+Vitamin+D+–+Sept+2019"
-  - "/tiki-index.php?page_id=11215"
+  - "/11215"
+tiki_page_id: 11215
 date: 2019-10-07
 categories:
   - "Tests for Vitamin D"

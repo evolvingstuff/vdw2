@@ -3,7 +3,8 @@ title: "How healthy innate immune systems adapt to viral mutations"
 slug: "how-healthy-innate-immune-systems-adapt-to-viral-mutations"
 aliases:
   - "/How+healthy+innate+immune+systems+adapt+to+viral+mutations+-+Feb+2021"
-  - "/tiki-index.php?page_id=12463"
+  - "/12463"
+tiki_page_id: 12463
 date: 2021-03-31
 categories:
   - "Immunity"

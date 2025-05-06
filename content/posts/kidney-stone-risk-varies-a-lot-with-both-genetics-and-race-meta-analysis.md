@@ -3,7 +3,8 @@ title: "Kidney stone risk varies a lot with both genetics and race – meta-anal
 slug: "kidney-stone-risk-varies-a-lot-with-both-genetics-and-race-meta-analysis"
 aliases:
   - "/Kidney+stone+risk+varies+a+lot+with+both+genetics+and+race+–+meta-analysis+May+2021"
-  - "/tiki-index.php?page_id=12568"
+  - "/12568"
+tiki_page_id: 12568
 date: 2021-05-07
 categories:
   - "Genetics"

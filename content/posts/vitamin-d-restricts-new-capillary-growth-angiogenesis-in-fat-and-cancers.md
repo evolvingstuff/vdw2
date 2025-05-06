@@ -3,7 +3,8 @@ title: "Vitamin D restricts new capillary growth (angiogenesis) in fat and cance
 slug: "vitamin-d-restricts-new-capillary-growth-angiogenesis-in-fat-and-cancers"
 aliases:
   - "/Vitamin+D+restricts+new+capillary+growth+angiogenesis+in+fat+and+cancers"
-  - "/tiki-index.php?page_id=14558"
+  - "/14558"
+tiki_page_id: 14558
 date: 2023-07-27
 categories:
   - "Obesity"

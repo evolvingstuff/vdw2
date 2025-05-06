@@ -3,7 +3,8 @@ title: "COVID virus persists in most body tissues (Long-COVID) - 2022"
 slug: "covid-virus-persists-in-most-body-tissues-long-covid-2022"
 aliases:
   - "/COVID+virus+persists+in+most+body+tissues+Long-COVID+-+2022"
-  - "/tiki-index.php?page_id=13855"
+  - "/13855"
+tiki_page_id: 13855
 date: 2022-08-23
 categories:
   - "Virus"

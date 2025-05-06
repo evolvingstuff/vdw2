@@ -3,7 +3,8 @@ title: "The four viruses that are increasing at an ‘exponential rate’ (are a
 slug: "the-four-viruses-that-are-increasing-at-an-exponential-rate-are-all-fought-by-vitamin-d"
 aliases:
   - "/The+four+viruses+that+are+increasing+at+an+exponential+rate+are+all+fought+by+Vitamin+D+–+Nov+2023"
-  - "/tiki-index.php?page_id=14810"
+  - "/14810"
+tiki_page_id: 14810
 date: 2023-11-04
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "COVID-19 Scoping Review of Vitamin D finds lots of evidence, protocol to
 slug: "covid-19-scoping-review-of-vitamin-d-finds-lots-of-evidence-protocol-to-be-used-is-unclear"
 aliases:
   - "/COVID-19+Scoping+Review+of+Vitamin+D+finds+lots+of+evidence+protocol+to+be+used+is+unclear+-+Nov+26+2020"
-  - "/tiki-index.php?page_id=12121"
+  - "/12121"
+tiki_page_id: 12121
 date: 2020-12-05
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Some vitamin D is stored in skeletal muscles – multiple studies"
 slug: "some-vitamin-d-is-stored-in-skeletal-muscles-multiple-studies"
 aliases:
   - "/Some+vitamin+D+is+stored+in+skeletal+muscles+–+multiple+studies"
-  - "/tiki-index.php?page_id=13219"
+  - "/13219"
+tiki_page_id: 13219
 date: 2021-12-26
 ---
 

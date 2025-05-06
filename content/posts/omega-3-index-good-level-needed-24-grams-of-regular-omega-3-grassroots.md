@@ -3,7 +3,8 @@ title: "Omega-3 index - good level needed 2.4 grams of regular Omega-3 - Grassro
 slug: "omega-3-index-good-level-needed-24-grams-of-regular-omega-3-grassroots"
 aliases:
   - "/Omega-3+index+-+good+level+needed+24+grams+of+regular+Omega-3+-+Grassroots+Nov+2018"
-  - "/tiki-index.php?page_id=10243"
+  - "/10243"
+tiki_page_id: 10243
 date: 2018-11-28
 categories:
   - "Vitamin D and Omega-3"

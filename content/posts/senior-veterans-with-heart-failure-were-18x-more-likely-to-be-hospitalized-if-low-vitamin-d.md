@@ -3,7 +3,8 @@ title: "Senior veterans with Heart Failure were 1.8X more likely to be hospitali
 slug: "senior-veterans-with-heart-failure-were-18x-more-likely-to-be-hospitalized-if-low-vitamin-d"
 aliases:
   - "/Senior+veterans+with+Heart+Failure+were+18X+more+likely+to+be+hospitalized+if+low+vitamin+D+–+Feb+2020"
-  - "/tiki-index.php?page_id=11518"
+  - "/11518"
+tiki_page_id: 11518
 date: 2019-12-31
 categories:
   - "Seniors"

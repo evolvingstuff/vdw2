@@ -3,7 +3,8 @@ title: "Vitamin D food fortification during pregnancy reduced gestational diabet
 slug: "vitamin-d-food-fortification-during-pregnancy-reduced-gestational-diabetes-in-da-s-by-13-percent"
 aliases:
   - "/Vitamin+D+food+fortification+during+pregnancy+reduced+gestational+diabetes+in+daughters+by+13+percent+–+Nov+2018"
-  - "/tiki-index.php?page_id=10873"
+  - "/10873"
+tiki_page_id: 10873
 date: 2019-06-14
 categories:
   - "Pregnancy"

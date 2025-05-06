@@ -3,7 +3,8 @@ title: "Vitamin D doubled from 400 to 800 IU in Ireland during pandemic (need 5X
 slug: "vitamin-d-doubled-from-400-to-800-iu-in-ireland-during-pandemic-need-5x-more"
 aliases:
   - "/Vitamin+D+doubled+from+400+to+800+IU+in+Ireland+during+pandemic+need+5X+more+-+Aug+2022"
-  - "/tiki-index.php?page_id=13825"
+  - "/13825"
+tiki_page_id: 13825
 date: 2022-08-04
 categories:
   - "Vitamin D in Europe"

@@ -3,7 +3,8 @@ title: "Teeth alignment completed faster if good levels of vitamin D – RCT"
 slug: "teeth-alignment-completed-faster-if-good-levels-of-vitamin-d-rct"
 aliases:
   - "/Teeth+alignment+completed+faster+if+good+levels+of+vitamin+D+–+RCT+Feb+2022"
-  - "/tiki-index.php?page_id=13352"
+  - "/13352"
+tiki_page_id: 13352
 date: 2022-02-24
 categories:
   - "Dental"

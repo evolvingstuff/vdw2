@@ -3,7 +3,8 @@ title: "Severe depression while pregnant reduces Vitamin D by 62 %, resulting in
 slug: "severe-depression-while-pregnant-reduces-vitamin-d-by-62-percent-resulting-in-ma-blems-in-infant"
 aliases:
   - "/Severe+depression+while+pregnant+reduces+Vitamin+D+by+62+resulting+in+many+problems+in+infant+–+June+2023"
-  - "/tiki-index.php?page_id=14490"
+  - "/14490"
+tiki_page_id: 14490
 date: 2023-06-19
 ---
 

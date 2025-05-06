@@ -3,7 +3,8 @@ title: "COVID etc. prevented and treated with 50,000 IU Vitamin D capsules"
 slug: "covid-etc-prevented-and-treated-with-50000-iu-vitamin-d-capsules"
 aliases:
   - "/COVID+etc+prevented+and+treated+with+50000+IU+Vitamin+D+capsules+-+July+2022"
-  - "/tiki-index.php?page_id=13780"
+  - "/13780"
+tiki_page_id: 13780
 date: 2022-07-21
 categories:
   - "Virus"

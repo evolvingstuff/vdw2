@@ -3,7 +3,8 @@ title: "Cancers are associated with low vitamin D, poor vaccination response and
 slug: "cancers-are-associated-with-low-vitamin-d-poor-vaccination-response-and-perhaps-poor-vdr"
 aliases:
   - "/Cancers+are+associated+with+low+vitamin+D+poor+vaccination+response+and+perhaps+poor+VDR+–+July+2022"
-  - "/tiki-index.php?page_id=13842"
+  - "/13842"
+tiki_page_id: 13842
 date: 2022-08-15
 categories:
   - "Cancer"

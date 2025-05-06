@@ -3,7 +3,8 @@ title: "COVID-19: Vitamin D, Melatonin, meditation may be better than  Remdesivi
 slug: "covid-19-vitamin-d-melatonin-meditation-may-be-better-than-remdesivir-etc"
 aliases:
   - "/COVID-19+Vitamin+D+Melatonin+meditation+may+be+better+than+Remdesivir+etc+-+Sept+2021"
-  - "/tiki-index.php?page_id=12914"
+  - "/12914"
+tiki_page_id: 12914
 date: 2021-09-22
 categories:
   - "Virus"

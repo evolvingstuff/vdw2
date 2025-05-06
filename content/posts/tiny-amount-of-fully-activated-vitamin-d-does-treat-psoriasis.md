@@ -3,7 +3,8 @@ title: "Tiny amount of fully activated Vitamin D does treat psoriasis"
 slug: "tiny-amount-of-fully-activated-vitamin-d-does-treat-psoriasis"
 aliases:
   - "/Tiny+amount+of+fully+activated+Vitamin+D+does+treat+psoriasis+–+Jan+2020"
-  - "/tiki-index.php?page_id=12211"
+  - "/12211"
+tiki_page_id: 12211
 date: 2021-01-10
 categories:
   - "Psoriasis"

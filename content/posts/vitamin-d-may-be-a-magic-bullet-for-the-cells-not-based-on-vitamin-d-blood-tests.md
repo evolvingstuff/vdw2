@@ -3,7 +3,8 @@ title: "Vitamin D may be a magic bullet for the cells (not based on Vitamin D bl
 slug: "vitamin-d-may-be-a-magic-bullet-for-the-cells-not-based-on-vitamin-d-blood-tests"
 aliases:
   - "/Vitamin+D+may+be+a+magic+bullet+for+the+cells+not+based+on+Vitamin+D+blood+tests+–+Jan+2020"
-  - "/tiki-index.php?page_id=11551"
+  - "/11551"
+tiki_page_id: 11551
 date: 2020-01-11
 categories:
   - "Genetics"

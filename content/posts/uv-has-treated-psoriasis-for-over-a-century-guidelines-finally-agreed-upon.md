@@ -3,7 +3,8 @@ title: "UV has treated psoriasis for over a century, guidelines finally agreed u
 slug: "uv-has-treated-psoriasis-for-over-a-century-guidelines-finally-agreed-upon"
 aliases:
   - "/UV+has+treated+psoriasis+for+over+a+century+guidelines+finally+agreed+upon+–+Aug+2019"
-  - "/tiki-index.php?page_id=11070"
+  - "/11070"
+tiki_page_id: 11070
 date: 2019-08-14
 categories:
   - "UV and Vitamin D"

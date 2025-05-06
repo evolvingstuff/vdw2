@@ -3,7 +3,8 @@ title: "Metabolic Syndromes fought by Vitamin D in 6 ways"
 slug: "metabolic-syndromes-fought-by-vitamin-d-in-6-ways"
 aliases:
   - "/Metabolic+Syndromes+fought+by+Vitamin+D+in+6+ways+–+Oct+2023"
-  - "/tiki-index.php?page_id=14761"
+  - "/14761"
+tiki_page_id: 14761
 date: 2023-10-18
 categories:
   - "Cardiovascular"

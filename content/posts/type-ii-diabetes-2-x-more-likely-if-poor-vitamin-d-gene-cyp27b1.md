@@ -3,7 +3,8 @@ title: "Type II diabetes 2 X more likely if poor Vitamin D Gene (CYP27B1)"
 slug: "type-ii-diabetes-2-x-more-likely-if-poor-vitamin-d-gene-cyp27b1"
 aliases:
   - "/Type+II+diabetes+2+X+more+likely+if+poor+Vitamin+D+Gene+CYP27B1+–+Oct+2019"
-  - "/tiki-index.php?page_id=11211"
+  - "/11211"
+tiki_page_id: 11211
 date: 2019-10-06
 categories:
   - "Diabetes"

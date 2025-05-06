@@ -3,7 +3,8 @@ title: "Breastfeeding a child without adding vitamin D increases risk of many fo
 slug: "breastfeeding-a-child-without-adding-vitamin-d-increases-risk-of-many-food-aller-es-in-this-case"
 aliases:
   - "/Breastfeeding+a+child+without+adding+vitamin+D+increases+risk+of+many+food+allergies+egg+whites+in+this+case+–+Jan+2020"
-  - "/tiki-index.php?page_id=11553"
+  - "/11553"
+tiki_page_id: 11553
 date: 2020-01-12
 categories:
   - "Autoimmune"

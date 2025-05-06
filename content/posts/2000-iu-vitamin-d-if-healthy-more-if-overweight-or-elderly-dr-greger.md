@@ -3,7 +3,8 @@ title: "2,000 IU Vitamin D if healthy. More if overweight or elderly - Dr. Grege
 slug: "2000-iu-vitamin-d-if-healthy-more-if-overweight-or-elderly-dr-greger"
 aliases:
   - "/2000+IU+Vitamin+D+if+healthy+More+if+overweight+or+elderly+-+Dr+Greger+April+2019"
-  - "/tiki-index.php?page_id=10697"
+  - "/10697"
+tiki_page_id: 10697
 date: 2019-04-26
 categories:
   - "How much Vitamin D"

@@ -3,7 +3,8 @@ title: "Millennials (1981-1999) are sicker and dying faster than previous genera
 slug: "millennials-1981-1999-are-sicker-and-dying-faster-than-previous-generations-vitamin-d-can-help"
 aliases:
   - "/Millennials+1981-1999+are+sicker+and+dying+faster+than+previous+generations+Vitamin+D+can+help+–+Nov+2019"
-  - "/tiki-index.php?page_id=11344"
+  - "/11344"
+tiki_page_id: 11344
 date: 2019-11-13
 categories:
   - "Health"

@@ -3,7 +3,8 @@ title: "US COVID vaccinations: 52 K disabled, 28 K deaths, 14K heart attacks, et
 slug: "us-covid-vaccinations-52-k-disabled-28-k-deaths-14k-heart-attacks-etc"
 aliases:
   - "/US+COVID+vaccinations+52+K+disabled+28+K+deaths+14K+heart+attacks+etc+-+May+6+2022"
-  - "/tiki-index.php?page_id=13572"
+  - "/13572"
+tiki_page_id: 13572
 date: 2022-05-19
 ---
 

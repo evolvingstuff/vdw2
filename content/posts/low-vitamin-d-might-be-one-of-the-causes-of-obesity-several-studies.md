@@ -3,7 +3,8 @@ title: "Low vitamin D might be one of the causes of obesity – several studies"
 slug: "low-vitamin-d-might-be-one-of-the-causes-of-obesity-several-studies"
 aliases:
   - "/Low+vitamin+D+might+be+one+of+the+causes+of+obesity+–+several+studies"
-  - "/tiki-index.php?page_id=14848"
+  - "/14848"
+tiki_page_id: 14848
 date: 2023-11-28
 categories:
   - "Obesity"

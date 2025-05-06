@@ -3,7 +3,8 @@ title: "Colorectal cancer 40 percent less likely if 1000 IU more Vitamin D – 2
 slug: "colorectal-cancer-40-percent-less-likely-if-1000-iu-more-vitamin-d-21st-meta-analysis"
 aliases:
   - "/Colorectal+cancer+40+percent+less+likely+if+1000+IU+more+Vitamin+D+–+21st+meta-analysis+–+Oct+2021"
-  - "/tiki-index.php?page_id=13030"
+  - "/13030"
+tiki_page_id: 13030
 date: 2021-10-28
 categories:
   - "Cancer - Colon"

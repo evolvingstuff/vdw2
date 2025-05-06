@@ -3,7 +3,8 @@ title: "How Not To Age book (diet, exercise, supplements) Dr. Greger"
 slug: "how-not-to-age-book-diet-exercise-supplements-dr-greger"
 aliases:
   - "/How+Not+To+Age+book+diet+exercise+supplements+Dr+Greger+-+Dec+2023"
-  - "/tiki-index.php?page_id=14864"
+  - "/14864"
+tiki_page_id: 14864
 date: 2023-12-05
 categories:
   - "Books, videos on Vitamin D"

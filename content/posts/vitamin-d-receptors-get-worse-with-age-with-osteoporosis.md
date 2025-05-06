@@ -3,7 +3,8 @@ title: "Vitamin D receptors get worse with age with osteoporosis"
 slug: "vitamin-d-receptors-get-worse-with-age-with-osteoporosis"
 aliases:
   - "/Vitamin+D+receptors+get+worse+with+age+with+osteoporosis+–+Dec+2018"
-  - "/tiki-index.php?page_id=10350"
+  - "/10350"
+tiki_page_id: 10350
 date: 2018-12-30
 categories:
   - "Osteoporosis"

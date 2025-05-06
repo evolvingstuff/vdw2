@@ -3,7 +3,8 @@ title: "All died of COVID with standard vitamin D, 25% survived if 10X more vita
 slug: "all-died-of-covid-with-standard-vitamin-d-25-percent-survived-if-10x-more-vitamin-d-mice"
 aliases:
   - "/All+died+of+COVID+with+standard+vitamin+D+25+survived+if+10X+more+vitamin+D+mice+–+Dec+2023"
-  - "/tiki-index.php?page_id=14911"
+  - "/14911"
+tiki_page_id: 14911
 date: 2023-12-23
 categories:
   - "Virus"

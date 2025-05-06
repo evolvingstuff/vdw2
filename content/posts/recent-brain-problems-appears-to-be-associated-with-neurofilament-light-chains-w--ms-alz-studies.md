@@ -3,7 +3,8 @@ title: "Recent brain problems appears to be associated with neurofilament light 
 slug: "recent-brain-problems-appears-to-be-associated-with-neurofilament-light-chains-w--ms-alz-studies"
 aliases:
   - "/Recent+brain+problems+appears+to+be+associated+with+neurofilament+light+chains+would+aide+Vitamin+D+MS+Alz+studies+–+June+2019"
-  - "/tiki-index.php?page_id=10985"
+  - "/10985"
+tiki_page_id: 10985
 date: 2019-07-13
 categories:
   - "Multiple Sclerosis"

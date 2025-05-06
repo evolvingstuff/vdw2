@@ -3,7 +3,8 @@ title: "COVID severity, ICU, and mortality all associated with poor vitamin D re
 slug: "covid-severity-icu-and-mortality-all-associated-with-poor-vitamin-d-receptor-but-ryone-had-low-d"
 aliases:
   - "/COVID+severity+ICU+and+mortality+all+associated+with+poor+vitamin+D+receptor+but+not+D+everyone+had+low+D+-Dec+2021"
-  - "/tiki-index.php?page_id=13212"
+  - "/13212"
+tiki_page_id: 13212
 date: 2021-12-24
 categories:
   - "Vitamin D Receptor"

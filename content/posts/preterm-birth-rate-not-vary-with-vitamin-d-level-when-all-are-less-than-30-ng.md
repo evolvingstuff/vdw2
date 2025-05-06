@@ -3,7 +3,8 @@ title: "Preterm birth rate not vary with vitamin D level (when all are less than
 slug: "preterm-birth-rate-not-vary-with-vitamin-d-level-when-all-are-less-than-30-ng"
 aliases:
   - "/Preterm+birth+rate+not+vary+with+vitamin+D+level+when+all+are+less+than+30+ng+–+Oct+2019"
-  - "/tiki-index.php?page_id=11243"
+  - "/11243"
+tiki_page_id: 11243
 date: 2019-10-17
 categories:
   - "Pregnancy"

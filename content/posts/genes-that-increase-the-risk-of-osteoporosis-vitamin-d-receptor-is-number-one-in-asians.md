@@ -3,7 +3,8 @@ title: "Genes that increase the risk of Osteoporosis: Vitamin D Receptor is numb
 slug: "genes-that-increase-the-risk-of-osteoporosis-vitamin-d-receptor-is-number-one-in-asians"
 aliases:
   - "/Genes+that+increase+the+risk+of+Osteoporosis+Vitamin+D+Receptor+is+number+one+in+Asians–+April+2022"
-  - "/tiki-index.php?page_id=13510"
+  - "/13510"
+tiki_page_id: 13510
 date: 2022-04-22
 categories:
   - "Osteoporosis"

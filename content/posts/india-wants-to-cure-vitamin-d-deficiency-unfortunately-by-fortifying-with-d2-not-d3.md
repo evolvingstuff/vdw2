@@ -3,7 +3,8 @@ title: "India wants to cure Vitamin D Deficiency, unfortunately by fortifying wi
 slug: "india-wants-to-cure-vitamin-d-deficiency-unfortunately-by-fortifying-with-d2-not-d3"
 aliases:
   - "/India+wants+to+cure+Vitamin+D+Deficiency+unfortunately+by+fortifying+with+D2+not+D3+–+Jan+2019"
-  - "/tiki-index.php?page_id=10403"
+  - "/10403"
+tiki_page_id: 10403
 date: 2019-01-16
 categories:
   - "Vitamin D3 instead of D2"

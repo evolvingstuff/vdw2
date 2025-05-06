@@ -3,7 +3,8 @@ title: "Vitamin D dosing varies with genes, PTH, Mg, Vit K, etc – video and tr
 slug: "vitamin-d-dosing-varies-with-genes-pth-mg-vit-k-etc-video-and-transcript"
 aliases:
   - "/Vitamin+D+dosing+varies+with+genes+PTH+Mg+Vit+K+etc+–+video+and+transcript+Sept+2022"
-  - "/tiki-index.php?page_id=14179"
+  - "/14179"
+tiki_page_id: 14179
 date: 2022-12-29
 ---
 

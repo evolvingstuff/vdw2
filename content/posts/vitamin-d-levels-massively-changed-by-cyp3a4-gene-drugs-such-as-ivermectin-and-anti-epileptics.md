@@ -3,7 +3,8 @@ title: "Vitamin D levels massively changed by CYP3A4 gene (drugs such as Ivermec
 slug: "vitamin-d-levels-massively-changed-by-cyp3a4-gene-drugs-such-as-ivermectin-and-anti-epileptics"
 aliases:
   - "/Vitamin+D+levels+massively+changed+by+CYP3A4+gene+drugs+such+as+Ivermectin+and+anti-epileptics"
-  - "/tiki-index.php?page_id=12624"
+  - "/12624"
+tiki_page_id: 12624
 date: 2021-06-01
 categories:
   - "Genetics"

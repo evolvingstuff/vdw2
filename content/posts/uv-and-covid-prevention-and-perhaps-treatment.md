@@ -3,7 +3,8 @@ title: "UV and COVID: Prevention and perhaps treatment"
 slug: "uv-and-covid-prevention-and-perhaps-treatment"
 aliases:
   - "/UV+and+COVID+Prevention+and+perhaps+treatment"
-  - "/tiki-index.php?page_id=13616"
+  - "/13616"
+tiki_page_id: 13616
 date: 2022-05-30
 categories:
   - "UV and Vitamin D"

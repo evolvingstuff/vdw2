@@ -3,7 +3,8 @@ title: "Vitamin D deficiency is associated with 35 genes, only 7 of are commerci
 slug: "vitamin-d-deficiency-is-associated-with-35-genes-only-7-of-are-commercially-tested"
 aliases:
   - "/Vitamin+D+deficiency+is+associated+with+35+genes+only+7+of+are+commercially+tested+–+Nov+2019"
-  - "/tiki-index.php?page_id=11308"
+  - "/11308"
+tiki_page_id: 11308
 date: 2019-11-04
 categories:
   - "Genetics"

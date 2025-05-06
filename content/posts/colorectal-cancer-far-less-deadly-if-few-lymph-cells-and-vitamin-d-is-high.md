@@ -3,7 +3,8 @@ title: "Colorectal cancer far less deadly if few lymph cells and Vitamin D is hi
 slug: "colorectal-cancer-far-less-deadly-if-few-lymph-cells-and-vitamin-d-is-high"
 aliases:
   - "/Colorectal+cancer+far+less+deadly+if+few+lymph+cells+and+Vitamin+D+is+high+–+Nov+2018"
-  - "/tiki-index.php?page_id=10062"
+  - "/10062"
+tiki_page_id: 10062
 date: 2018-09-24
 categories:
   - "Cancer - Colon"

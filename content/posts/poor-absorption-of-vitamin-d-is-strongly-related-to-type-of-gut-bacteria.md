@@ -3,7 +3,8 @@ title: "Poor absorption of Vitamin D is strongly related to type of gut bacteria
 slug: "poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria"
 aliases:
   - "/Poor+absorption+of+Vitamin+D+is+strongly+related+to+type+of+gut+bacteria+–+Dec+2020"
-  - "/tiki-index.php?page_id=12130"
+  - "/12130"
+tiki_page_id: 12130
 date: 2020-12-11
 categories:
   - "Predict Vitamin D"

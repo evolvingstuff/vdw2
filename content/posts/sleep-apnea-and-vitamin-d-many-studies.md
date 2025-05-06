@@ -3,7 +3,8 @@ title: "Sleep Apnea and Vitamin D - many studies"
 slug: "sleep-apnea-and-vitamin-d-many-studies"
 aliases:
   - "/Sleep+Apnea+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14681"
+  - "/14681"
+tiki_page_id: 14681
 date: 2023-09-14
 categories:
   - "Breathing"

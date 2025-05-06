@@ -3,7 +3,8 @@ title: "Bio-engineered Salmon raised in tanks can be sold in US restaurants"
 slug: "bio-engineered-salmon-raised-in-tanks-can-be-sold-in-us-restaurants"
 aliases:
   - "/Bio-engineered+Salmon+raised+in+tanks+can+be+sold+in+US+restaurants+–+July+2019"
-  - "/tiki-index.php?page_id=10973"
+  - "/10973"
+tiki_page_id: 10973
 date: 2019-07-11
 categories:
   - "Food sources for Vitamin D"

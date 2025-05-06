@@ -3,7 +3,8 @@ title: "One in five people with long COVID can no longer work (Doctors in this c
 slug: "one-in-five-people-with-long-covid-can-no-longer-work-doctors-in-this-case"
 aliases:
   - "/One+in+five+people+with+long+COVID+can+no+longer+work+Doctors+in+this+case+-+Sept+2023"
-  - "/tiki-index.php?page_id=14658"
+  - "/14658"
+tiki_page_id: 14658
 date: 2023-09-02
 categories:
   - "Virus"

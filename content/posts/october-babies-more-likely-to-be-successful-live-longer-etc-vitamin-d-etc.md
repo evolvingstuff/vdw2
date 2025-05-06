@@ -3,7 +3,8 @@ title: "October Babies more likely to be successful, live longer, etc (Vitamin D
 slug: "october-babies-more-likely-to-be-successful-live-longer-etc-vitamin-d-etc"
 aliases:
   - "/October+Babies+more+likely+to+be+successful+live+longer+etc+Vitamin+D+etc+Oct+2019"
-  - "/tiki-index.php?page_id=11192"
+  - "/11192"
+tiki_page_id: 11192
 date: 2019-10-02
 categories:
   - "Season of Birth"

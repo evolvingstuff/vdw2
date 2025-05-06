@@ -3,7 +3,8 @@ title: "Senior women need slightly more Vitamin D than senior men (24 ng vs 21 n
 slug: "senior-women-need-slightly-more-vitamin-d-than-senior-men-24-ng-vs-21-ng"
 aliases:
   - "/Senior+women+need+slightly+more+Vitamin+D+than+senior+men+24+ng+vs+21+ng+–+April+2021"
-  - "/tiki-index.php?page_id=12479"
+  - "/12479"
+tiki_page_id: 12479
 date: 2021-04-07
 categories:
   - "Seniors"

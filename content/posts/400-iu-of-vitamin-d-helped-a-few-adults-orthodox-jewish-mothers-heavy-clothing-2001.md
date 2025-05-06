@@ -3,7 +3,8 @@ title: "400 IU of vitamin D helped a few adults (Orthodox Jewish mothers - heavy
 slug: "400-iu-of-vitamin-d-helped-a-few-adults-orthodox-jewish-mothers-heavy-clothing-2001"
 aliases:
   - "/400+IU+of+vitamin+D+helped+a+few+adults+Orthodox+Jewish+mothers+-+heavy+clothing+–+2001"
-  - "/tiki-index.php?page_id=13164"
+  - "/13164"
+tiki_page_id: 13164
 date: 2021-12-10
 categories:
   - "Pregnancy"

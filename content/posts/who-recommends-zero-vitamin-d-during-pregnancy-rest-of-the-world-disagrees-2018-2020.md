@@ -3,7 +3,8 @@ title: "WHO recommends zero vitamin D during pregnancy, rest of the world disagr
 slug: "who-recommends-zero-vitamin-d-during-pregnancy-rest-of-the-world-disagrees-2018-2020"
 aliases:
   - "/WHO+recommends+zero+vitamin+D+during+pregnancy+rest+of+the+world+disagrees+–+2018+2020"
-  - "/tiki-index.php?page_id=10359"
+  - "/10359"
+tiki_page_id: 10359
 date: 2018-12-31
 categories:
   - "Pregnancy"

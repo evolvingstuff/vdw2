@@ -3,7 +3,8 @@ title: "Sepsis is fought by Vitamin D in 9 ways"
 slug: "sepsis-is-fought-by-vitamin-d-in-9-ways"
 aliases:
   - "/Sepsis+is+fought+by+Vitamin+D+in+9+ways+–+Feb+2023"
-  - "/tiki-index.php?page_id=14262"
+  - "/14262"
+tiki_page_id: 14262
 date: 2023-02-13
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Majority of pregnant women do not get 400 IU of Vitamin D daily"
 slug: "majority-of-pregnant-women-do-not-get-400-iu-of-vitamin-d-daily"
 aliases:
   - "/Majority+of+pregnant+women+do+not+get+400+IU+of+Vitamin+D+daily+–+July+2023"
-  - "/tiki-index.php?page_id=14569"
+  - "/14569"
+tiki_page_id: 14569
 date: 2023-07-29
 categories:
   - "Pregnancy"

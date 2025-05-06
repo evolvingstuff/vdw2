@@ -3,7 +3,8 @@ title: "COVID-19 3.2X more likely to be severe if vitamin D deficient (80 patien
 slug: "covid-19-32x-more-likely-to-be-severe-if-vitamin-d-deficient-80-patients"
 aliases:
   - "/COVID-19+32X+more+likely+to+be+severe+if+vitamin+D+deficient+80+patients+–+Sept+22+2020"
-  - "/tiki-index.php?page_id=11971"
+  - "/11971"
+tiki_page_id: 11971
 date: 2020-09-23
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Inhibiting Interleukin-6 to improve health (Vitamin D, etc.)"
 slug: "inhibiting-interleukin-6-to-improve-health-vitamin-d-etc"
 aliases:
   - "/Inhibiting+Interleukin-6+to+improve+health+Vitamin+D+etc+-+May+2020"
-  - "/tiki-index.php?page_id=11818"
+  - "/11818"
+tiki_page_id: 11818
 date: 2020-06-28
 categories:
   - "Inflammation"

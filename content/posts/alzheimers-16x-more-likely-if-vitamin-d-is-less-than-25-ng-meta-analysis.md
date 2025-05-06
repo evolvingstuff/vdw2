@@ -3,7 +3,8 @@ title: "Alzheimer’s 1.6X more likely if vitamin D is less than 25 ng – meta-
 slug: "alzheimers-16x-more-likely-if-vitamin-d-is-less-than-25-ng-meta-analysis"
 aliases:
   - "/Alzheimers+16X+more+likely+if+vitamin+D+is+less+than+25+ng+–+meta-analysis+July+2023"
-  - "/tiki-index.php?page_id=14544"
+  - "/14544"
+tiki_page_id: 14544
 date: 2023-07-19
 categories:
   - "Meta-analysis of Vitamin D"

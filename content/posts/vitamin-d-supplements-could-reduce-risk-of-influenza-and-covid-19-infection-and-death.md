@@ -3,7 +3,8 @@ title: "Vitamin D Supplements Could Reduce Risk of Influenza and COVID-19 Infect
 slug: "vitamin-d-supplements-could-reduce-risk-of-influenza-and-covid-19-infection-and-death"
 aliases:
   - "/Vitamin+D+Supplements+Could+Reduce+Risk+of+Influenza+and+COVID-19+Infection+and+Death+-+April+9+2020"
-  - "/tiki-index.php?page_id=11718"
+  - "/11718"
+tiki_page_id: 11718
 date: 2020-04-07
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Following Bariatric surgery, weekly 50,000 IU of standard Vitamin D is n
 slug: "following-bariatric-surgery-weekly-50000-iu-of-standard-vitamin-d-is-not-enough"
 aliases:
   - "/Following+Bariatric+surgery+weekly+50000+IU+of+standard+Vitamin+D+is+not+enough+–+Jan+2024"
-  - "/tiki-index.php?page_id=14964"
+  - "/14964"
+tiki_page_id: 14964
 date: 2024-01-12
 categories:
   - "Obesity"

@@ -3,7 +3,8 @@ title: "Cardiovascular events – need more than monthly 60,000 IU vitamin D to 
 slug: "cardiovascular-events-need-more-than-monthly-60000-iu-vitamin-d-to-prevent-other-than-infarction"
 aliases:
   - "/Cardiovascular+events+–+need+more+than+monthly+60000+IU+vitamin+D+to+prevent+other+than+infarction+–+June+2023"
-  - "/tiki-index.php?page_id=14532"
+  - "/14532"
+tiki_page_id: 14532
 date: 2023-07-13
 categories:
   - "Cardiovascular"

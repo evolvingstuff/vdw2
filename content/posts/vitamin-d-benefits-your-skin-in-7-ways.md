@@ -3,7 +3,8 @@ title: "Vitamin D benefits your skin in 7 ways"
 slug: "vitamin-d-benefits-your-skin-in-7-ways"
 aliases:
   - "/Vitamin+D+benefits+your+skin+in+7+ways"
-  - "/tiki-index.php?page_id=14640"
+  - "/14640"
+tiki_page_id: 14640
 date: 2023-08-27
 categories:
   - "Skin"

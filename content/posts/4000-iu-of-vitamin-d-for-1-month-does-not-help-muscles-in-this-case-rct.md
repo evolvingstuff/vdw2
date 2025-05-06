@@ -3,7 +3,8 @@ title: "4,000 IU of vitamin D for 1 month does not help (muscles in this case) â
 slug: "4000-iu-of-vitamin-d-for-1-month-does-not-help-muscles-in-this-case-rct"
 aliases:
   - "/4000+IU+of+vitamin+D+for+1+month+does+not+help+muscles+in+this+case+â€“+RCT+Jan+2020"
-  - "/tiki-index.php?page_id=11588"
+  - "/11588"
+tiki_page_id: 11588
 date: 2020-01-24
 categories:
   - "Sports and Vitamin D"

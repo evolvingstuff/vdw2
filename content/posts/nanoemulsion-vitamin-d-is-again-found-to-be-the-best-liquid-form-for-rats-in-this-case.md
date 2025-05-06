@@ -3,7 +3,8 @@ title: "Nanoemulsion vitamin D is again found to be the best liquid form (for ra
 slug: "nanoemulsion-vitamin-d-is-again-found-to-be-the-best-liquid-form-for-rats-in-this-case"
 aliases:
   - "/Nanoemulsion+vitamin+D+is+again+found+to+be+the+best+liquid+form+for+rats+in+this+case+–+June+2019"
-  - "/tiki-index.php?page_id=11479"
+  - "/11479"
+tiki_page_id: 11479
 date: 2019-12-20
 categories:
   - "Forms of Vitamin D"

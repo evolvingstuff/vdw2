@@ -3,7 +3,8 @@ title: "Boron appears to increase Vitamin D by inhibiting a gene - 2004"
 slug: "boron-appears-to-increase-vitamin-d-by-inhibiting-a-gene-2004"
 aliases:
   - "/Boron+appears+to+increase+Vitamin+D+by+inhibiting+a+gene+-+2004"
-  - "/tiki-index.php?page_id=15100"
+  - "/15100"
+tiki_page_id: 15100
 date: 2024-03-04
 categories:
   - "Vitamin D and Boron"

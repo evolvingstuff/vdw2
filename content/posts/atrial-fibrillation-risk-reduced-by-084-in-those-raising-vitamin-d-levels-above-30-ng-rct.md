@@ -3,7 +3,8 @@ title: "Atrial Fibrillation risk reduced by 0.84 in those raising Vitamin D leve
 slug: "atrial-fibrillation-risk-reduced-by-084-in-those-raising-vitamin-d-levels-above-30-ng-rct"
 aliases:
   - "/Atrial+Fibrillation+risk+reduced+by+084+in+those+raising+Vitamin+D+levels+above+30+ng+–+RCT+April+2022"
-  - "/tiki-index.php?page_id=13446"
+  - "/13446"
+tiki_page_id: 13446
 date: 2022-04-04
 categories:
   - "Cardiovascular"

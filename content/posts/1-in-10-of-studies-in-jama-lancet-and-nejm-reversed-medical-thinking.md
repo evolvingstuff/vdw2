@@ -3,7 +3,8 @@ title: "1 in 10 of studies in JAMA, Lancet, and NEJM reversed medical thinking"
 slug: "1-in-10-of-studies-in-jama-lancet-and-nejm-reversed-medical-thinking"
 aliases:
   - "/1+in+10+of+studies+in+JAMA+Lancet+and+NEJM+reversed+medical+thinking+–+July+2019"
-  - "/tiki-index.php?page_id=10945"
+  - "/10945"
+tiki_page_id: 10945
 date: 2019-07-01
 ---
 

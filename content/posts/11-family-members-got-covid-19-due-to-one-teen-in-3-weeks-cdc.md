@@ -3,7 +3,8 @@ title: "11 family members got COVID-19 due to one teen in 3 weeks – CDC"
 slug: "11-family-members-got-covid-19-due-to-one-teen-in-3-weeks-cdc"
 aliases:
   - "/11+family+members+got+COVID-19+due+to+one+teen+in+3+weeks+–+CDC+Oct+5+2020"
-  - "/tiki-index.php?page_id=11992"
+  - "/11992"
+tiki_page_id: 11992
 date: 2020-10-06
 categories:
   - "Youth"

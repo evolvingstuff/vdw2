@@ -3,7 +3,8 @@ title: "Ulcerative Colitis significantly reduced by 480,000 IU loading dose of n
 slug: "ulcerative-colitis-significantly-reduced-by-480000-iu-loading-dose-of-nano-vitamin-d-rct"
 aliases:
   - "/Ulcerative+Colitis+significantly+reduced+by+480000+IU+loading+dose+of+nano+Vitamin+D+–+RCT+July+2019"
-  - "/tiki-index.php?page_id=11031"
+  - "/11031"
+tiki_page_id: 11031
 date: 2019-07-30
 categories:
   - "Forms of Vitamin D"

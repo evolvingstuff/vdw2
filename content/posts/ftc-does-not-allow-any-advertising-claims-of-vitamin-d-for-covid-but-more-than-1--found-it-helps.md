@@ -3,7 +3,8 @@ title: "FTC does not allow any advertising claims of Vitamin D for COVID (but mo
 slug: "ftc-does-not-allow-any-advertising-claims-of-vitamin-d-for-covid-but-more-than-1--found-it-helps"
 aliases:
   - "/FTC+does+not+allow+any+advertising+claims+of+Vitamin+D+for+COVID+but+more+than+100+studies+have+found+it+helps+–+July+2021"
-  - "/tiki-index.php?page_id=12760"
+  - "/12760"
+tiki_page_id: 12760
 date: 2021-07-23
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Conception within 6 months 3X more likely if high vitamin D"
 slug: "conception-within-6-months-3x-more-likely-if-high-vitamin-d"
 aliases:
   - "/Conception+within+6+months+3X+more+likely+if+high+vitamin+D+–+Oct+2019"
-  - "/tiki-index.php?page_id=11298"
+  - "/11298"
+tiki_page_id: 11298
 date: 2019-10-31
 categories:
   - "Fertility and sperm"

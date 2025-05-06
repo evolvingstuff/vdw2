@@ -3,7 +3,8 @@ title: "Periodontitis reduced by Vitamin D - many studies"
 slug: "periodontitis-reduced-by-vitamin-d-many-studies"
 aliases:
   - "/Periodontitis+reduced+by+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=12525"
+  - "/12525"
+tiki_page_id: 12525
 date: 2021-04-21
 categories:
   - "Dental"

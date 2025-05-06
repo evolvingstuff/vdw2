@@ -3,7 +3,8 @@ title: "Omega-3 index - many studies"
 slug: "omega-3-index-many-studies"
 aliases:
   - "/Omega-3+index+-+many+studies"
-  - "/tiki-index.php?page_id=11134"
+  - "/11134"
+tiki_page_id: 11134
 date: 2019-09-09
 categories:
   - "Vitamin D and Omega-3"

@@ -3,7 +3,8 @@ title: "Sunscreen and Vitamin D - many studies"
 slug: "sunscreen-and-vitamin-d-many-studies"
 aliases:
   - "/Sunscreen+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=15050"
+  - "/15050"
+tiki_page_id: 15050
 date: 2024-02-14
 ---
 

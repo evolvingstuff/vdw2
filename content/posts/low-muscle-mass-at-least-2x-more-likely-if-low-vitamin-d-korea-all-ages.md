@@ -3,7 +3,8 @@ title: "Low muscle mass at least 2X more likely if low Vitamin D (Korea, all age
 slug: "low-muscle-mass-at-least-2x-more-likely-if-low-vitamin-d-korea-all-ages"
 aliases:
   - "/Low+muscle+mass+at+least+2X+more+likely+if+low+Vitamin+D+Korea+all+ages+–+Dec+2020"
-  - "/tiki-index.php?page_id=12192"
+  - "/12192"
+tiki_page_id: 12192
 date: 2021-01-04
 categories:
   - "Sports and Vitamin D"

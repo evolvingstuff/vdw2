@@ -3,7 +3,8 @@ title: "Parkinson’s Disease 3 X more likely if a poor Vitamin D Receptor – M
 slug: "parkinsons-disease-3-x-more-likely-if-a-poor-vitamin-d-receptor-may-2022"
 aliases:
   - "/Parkinsons+Disease+3+X+more+likely+if+a+poor+Vitamin+D+Receptor+–+May+–+2022"
-  - "/tiki-index.php?page_id=13543"
+  - "/13543"
+tiki_page_id: 13543
 date: 2022-05-06
 categories:
   - "Parkinson"

@@ -3,7 +3,8 @@ title: "Vitamin D does not reduce blood pressure in healthy people (no hypertens
 slug: "vitamin-d-does-not-reduce-blood-pressure-in-healthy-people-no-hypertension-etc-meta-analysis"
 aliases:
   - "/Vitamin+D+does+not+reduce+blood+pressure+in+healthy+people+no+hypertension+etc+–+Meta-analysis+Jan+2020"
-  - "/tiki-index.php?page_id=11542"
+  - "/11542"
+tiki_page_id: 11542
 date: 2020-01-09
 categories:
   - "Meta-analysis of Vitamin D"

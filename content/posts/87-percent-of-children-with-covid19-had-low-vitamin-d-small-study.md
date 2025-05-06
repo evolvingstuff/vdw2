@@ -3,7 +3,8 @@ title: "87 percent of children with COVID–19 had low vitamin D (small study)"
 slug: "87-percent-of-children-with-covid19-had-low-vitamin-d-small-study"
 aliases:
   - "/87+percent+of+children+with+COVID–19+had+low+vitamin+D+small+study+–+Feb+2021"
-  - "/tiki-index.php?page_id=12315"
+  - "/12315"
+tiki_page_id: 12315
 date: 2021-02-12
 categories:
   - "Infant-Child"

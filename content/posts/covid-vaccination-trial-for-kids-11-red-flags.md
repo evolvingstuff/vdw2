@@ -3,7 +3,8 @@ title: "COVID Vaccination trial for kids: 11 red flags"
 slug: "covid-vaccination-trial-for-kids-11-red-flags"
 aliases:
   - "/COVID+Vaccination+trial+for+kids+11+red+flags+-+Oct+25+2021"
-  - "/tiki-index.php?page_id=13018"
+  - "/13018"
+tiki_page_id: 13018
 date: 2021-10-25
 categories:
   - "Infant-Child"

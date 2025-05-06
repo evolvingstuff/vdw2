@@ -3,7 +3,8 @@ title: "COVID-19 test positive 4.5 X more likely if had low vitamin D test withi
 slug: "covid-19-test-positive-45-x-more-likely-if-had-low-vitamin-d-test-within-4-years"
 aliases:
   - "/COVID-19+test+positive+45+X+more+likely+if+had+low+vitamin+D+test+within+4+years+–+Jan+6+2021"
-  - "/tiki-index.php?page_id=12198"
+  - "/12198"
+tiki_page_id: 12198
 date: 2021-01-06
 categories:
   - "Virus"

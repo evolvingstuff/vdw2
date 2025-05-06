@@ -3,7 +3,8 @@ title: "3 weeks of Vitamin D can not help much (Breast Cancer surgery in this ca
 slug: "3-weeks-of-vitamin-d-can-not-help-much-breast-cancer-surgery-in-this-case-rct"
 aliases:
   - "/3+weeks+of+Vitamin+D+can+not+help+much+Breast+Cancer+surgery+in+this+case+–+RCT+Aug+2019"
-  - "/tiki-index.php?page_id=11064"
+  - "/11064"
+tiki_page_id: 11064
 date: 2019-08-11
 ---
 

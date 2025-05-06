@@ -3,7 +3,8 @@ title: "The effects of vitamin D on different types of cells"
 slug: "the-effects-of-vitamin-d-on-different-types-of-cells"
 aliases:
   - "/The+effects+of+vitamin+D+on+different+types+of+cells+–+Dec+2023"
-  - "/tiki-index.php?page_id=14888"
+  - "/14888"
+tiki_page_id: 14888
 date: 2023-12-15
 categories:
   - "Technical D"

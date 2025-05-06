@@ -3,7 +3,8 @@ title: "COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with
 slug: "covid-influenza-hepatitis-b-measles-etc-vaccine-responses-vary-with-vitamin-d-and-its-receptor"
 aliases:
   - "/COVID+influenza+hepatitis+B+measles+etc+vaccine+responses+vary+with+Vitamin+D+and+its+receptor"
-  - "/tiki-index.php?page_id=13079"
+  - "/13079"
+tiki_page_id: 13079
 date: 2021-11-13
 categories:
   - "Top news"

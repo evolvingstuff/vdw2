@@ -3,7 +3,8 @@ title: "Respiratory Disease exacerbations (Asthma, CF, COPD) may be treated by V
 slug: "respiratory-disease-exacerbations-asthma-cf-copd-may-be-treated-by-vitamin-d"
 aliases:
   - "/Respiratory+Disease+exacerbations+Asthma+CF+COPD+may+be+treated+by+Vitamin+D+–+July+2019"
-  - "/tiki-index.php?page_id=11390"
+  - "/11390"
+tiki_page_id: 11390
 date: 2019-11-25
 categories:
   - "Breathing"

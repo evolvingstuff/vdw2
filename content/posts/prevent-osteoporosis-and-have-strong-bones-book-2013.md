@@ -3,7 +3,8 @@ title: "Prevent Osteoporosis and Have Strong Bones - book 2013"
 slug: "prevent-osteoporosis-and-have-strong-bones-book-2013"
 aliases:
   - "/Prevent+Osteoporosis+and+Have+Strong+Bones+-+book+2013"
-  - "/tiki-index.php?page_id=11303"
+  - "/11303"
+tiki_page_id: 11303
 date: 2019-11-03
 categories:
   - "Bone - Health"

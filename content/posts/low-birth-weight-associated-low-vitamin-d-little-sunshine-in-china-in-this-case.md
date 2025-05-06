@@ -3,7 +3,8 @@ title: "Low birth weight associated low Vitamin D (little sunshine in China in t
 slug: "low-birth-weight-associated-low-vitamin-d-little-sunshine-in-china-in-this-case"
 aliases:
   - "/Low+birth+weight+associated+low+Vitamin+D+little+sunshine+in+China+in+this+case+-+Dec+2019"
-  - "/tiki-index.php?page_id=11574"
+  - "/11574"
+tiki_page_id: 11574
 date: 2020-01-20
 categories:
   - "Noontime sun and D"

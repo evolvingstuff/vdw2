@@ -3,7 +3,8 @@ title: "COVID fought by Vitamin D: OBSERVATIONS: YES, RCTs: NO"
 slug: "covid-fought-by-vitamin-d-observations-yes-rcts-no"
 aliases:
   - "/COVID+fought+by+Vitamin+D+OBSERVATIONS+YES+RCTs+NO+-+Dec+2023"
-  - "/tiki-index.php?page_id=14956"
+  - "/14956"
+tiki_page_id: 14956
 date: 2024-01-07
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Small doses of Vitamin D do not reduce childhood breathing allergies  â€
 slug: "small-doses-of-vitamin-d-do-not-reduce-childhood-breathing-allergies-meta-analysis"
 aliases:
   - "/Small+doses+of+Vitamin+D+do+not+reduce+childhood+breathing+allergies+â€“+meta-analysis+Oct+2022"
-  - "/tiki-index.php?page_id=14018"
+  - "/14018"
+tiki_page_id: 14018
 date: 2022-10-17
 categories:
   - "Breathing"

@@ -3,7 +3,8 @@ title: "Take lots of Vitamin D at first signs of COVID"
 slug: "take-lots-of-vitamin-d-at-first-signs-of-covid"
 aliases:
   - "/Take+lots+of+Vitamin+D+at+first+signs+of+COVID"
-  - "/tiki-index.php?page_id=13239"
+  - "/13239"
+tiki_page_id: 13239
 date: 2022-01-05
 categories:
   - "Loading dose for Vitamin D"

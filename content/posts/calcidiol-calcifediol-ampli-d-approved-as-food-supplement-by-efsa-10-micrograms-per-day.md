@@ -3,7 +3,8 @@ title: "Calcidiol (Calcifediol, ampli-D) approved as food supplement by EFSA –
 slug: "calcidiol-calcifediol-ampli-d-approved-as-food-supplement-by-efsa-10-micrograms-per-day"
 aliases:
   - "/Calcidiol+Calcifediol+ampli-D+approved+as+food+supplement+by+EFSA+–+10+micrograms+per+day+–+July+2021"
-  - "/tiki-index.php?page_id=12736"
+  - "/12736"
+tiki_page_id: 12736
 date: 2021-07-13
 categories:
   - "Fortification with Vitamin D"

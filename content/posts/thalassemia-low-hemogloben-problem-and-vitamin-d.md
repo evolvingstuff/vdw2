@@ -3,7 +3,8 @@ title: "Thalassemia (low hemogloben problem) and Vitamin D"
 slug: "thalassemia-low-hemogloben-problem-and-vitamin-d"
 aliases:
   - "/Thalassemia+low+hemogloben+problem+and+Vitamin+D"
-  - "/tiki-index.php?page_id=12330"
+  - "/12330"
+tiki_page_id: 12330
 date: 2021-02-18
 categories:
   - "Cardiovascular"

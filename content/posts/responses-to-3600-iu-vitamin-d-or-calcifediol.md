@@ -3,7 +3,8 @@ title: "Responses to 3600 IU Vitamin D or Calcifediol"
 slug: "responses-to-3600-iu-vitamin-d-or-calcifediol"
 aliases:
   - "/Responses+to+3600+IU+Vitamin+D+or+Calcifediol+–+Oct+2022"
-  - "/tiki-index.php?page_id=13980"
+  - "/13980"
+tiki_page_id: 13980
 date: 2022-10-04
 categories:
   - "Calcidiol"

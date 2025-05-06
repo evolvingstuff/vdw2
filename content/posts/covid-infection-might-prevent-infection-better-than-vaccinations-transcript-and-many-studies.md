@@ -3,7 +3,8 @@ title: "COVID infection might prevent infection better than vaccinations - trans
 slug: "covid-infection-might-prevent-infection-better-than-vaccinations-transcript-and-many-studies"
 aliases:
   - "/COVID+infection+might+prevent+infection+better+than+vaccinations+-+transcript+and+many+studies"
-  - "/tiki-index.php?page_id=13344"
+  - "/13344"
+tiki_page_id: 13344
 date: 2022-02-16
 categories:
   - "Books, videos on Vitamin D"

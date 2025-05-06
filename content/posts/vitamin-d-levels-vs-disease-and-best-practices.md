@@ -3,7 +3,8 @@ title: "Vitamin D levels vs disease and Best Practices"
 slug: "vitamin-d-levels-vs-disease-and-best-practices"
 aliases:
   - "/Vitamin+D+levels+vs+disease+and+Best+Practices+-+May+2023"
-  - "/tiki-index.php?page_id=14957"
+  - "/14957"
+tiki_page_id: 14957
 date: 2024-01-08
 ---
 

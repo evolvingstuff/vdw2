@@ -3,7 +3,8 @@ title: "Found again – 400 IU of Vitamin D rarely provides any benefit (infant 
 slug: "found-again-400-iu-of-vitamin-d-rarely-provides-any-benefit-infant-allergy-in-this-case-rct"
 aliases:
   - "/Found+again+–+400+IU+of+Vitamin+D+rarely+provides+any+benefit+infant+allergy+in+this+case+–+RCT+June+2020"
-  - "/tiki-index.php?page_id=11800"
+  - "/11800"
+tiki_page_id: 11800
 date: 2020-06-11
 ---
 

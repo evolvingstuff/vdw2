@@ -3,7 +3,8 @@ title: "How Vitamin D, Magnesium, Omega-3 and Zinc prevent and treat COVID-19 an
 slug: "how-vitamin-d-magnesium-omega-3-and-zinc-prevent-and-treat-covid-19-and-many-other-health-problems"
 aliases:
   - "/How+Vitamin+D+Magnesium+Omega-3+and+Zinc+prevent+and+treat+COVID-19+and+many+other+health+problems+–+June+2021"
-  - "/tiki-index.php?page_id=12634"
+  - "/12634"
+tiki_page_id: 12634
 date: 2021-06-04
 categories:
   - "Vitamin D and Magnesium"

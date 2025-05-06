@@ -3,7 +3,8 @@ title: "Vitamin B12 – great improvements with nano forms"
 slug: "vitamin-b12-great-improvements-with-nano-forms"
 aliases:
   - "/Vitamin+B12+–+great+improvements+with+nano+forms+–+March+2021"
-  - "/tiki-index.php?page_id=12411"
+  - "/12411"
+tiki_page_id: 12411
 date: 2021-03-16
 categories:
   - "Vitamin B12"

@@ -3,7 +3,8 @@ title: "COVID-19 and Vitamin D Misinformation on YouTube as of Dec 2020"
 slug: "covid-19-and-vitamin-d-misinformation-on-youtube-as-of"
 aliases:
   - "/COVID-19+and+Vitamin+D+Misinformation+on+YouTube+as+of+Dec+2020+-+March+2022"
-  - "/tiki-index.php?page_id=13415"
+  - "/13415"
+tiki_page_id: 13415
 date: 2022-03-18
 categories:
   - "Books, videos on Vitamin D"

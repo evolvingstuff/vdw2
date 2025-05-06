@@ -3,7 +3,8 @@ title: "Orthopaedic surgeries need Vitamin D – many studies"
 slug: "orthopaedic-surgeries-need-vitamin-d-many-studies"
 aliases:
   - "/Orthopaedic+surgeries+need+Vitamin+D+–+many+studies"
-  - "/tiki-index.php?page_id=10669"
+  - "/10669"
+tiki_page_id: 10669
 date: 2019-04-14
 categories:
   - "Bone - Health"

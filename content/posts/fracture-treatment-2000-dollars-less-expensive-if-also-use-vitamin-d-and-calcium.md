@@ -3,7 +3,8 @@ title: "Fracture treatment 2000 dollars less expensive if also use Vitamin D and
 slug: "fracture-treatment-2000-dollars-less-expensive-if-also-use-vitamin-d-and-calcium"
 aliases:
   - "/Fracture+treatment+2000+dollars+less+expensive+if+also+use+Vitamin+D+and+Calcium+–+Feb+2023"
-  - "/tiki-index.php?page_id=14369"
+  - "/14369"
+tiki_page_id: 14369
 date: 2023-04-09
 categories:
   - "Falls and Fractures"

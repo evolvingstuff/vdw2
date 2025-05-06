@@ -3,7 +3,8 @@ title: "Antibiotics in children associated with low Vitamin D and short height (
 slug: "antibiotics-in-children-associated-with-low-vitamin-d-and-short-height-ethiopia"
 aliases:
   - "/Antibiotics+in+children+associated+with+low+Vitamin+D+and+short+height+Ethiopia+–+March+2019"
-  - "/tiki-index.php?page_id=11026"
+  - "/11026"
+tiki_page_id: 11026
 date: 2019-07-29
 categories:
   - "Antibiotics, probiotics"

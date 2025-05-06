@@ -3,7 +3,8 @@ title: "Treatment of neonate sepsis greatly aided by Vitamin D – RCT"
 slug: "treatment-of-neonate-sepsis-greatly-aided-by-vitamin-d-rct"
 aliases:
   - "/Treatment+of+neonate+sepsis+greatly+aided+by+Vitamin+D+–+RCT+June+2019"
-  - "/tiki-index.php?page_id=10927"
+  - "/10927"
+tiki_page_id: 10927
 date: 2019-06-27
 categories:
   - "Immunity"

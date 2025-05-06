@@ -3,7 +3,8 @@ title: "Infertility not associated with vitamin D (virtually none had more than 
 slug: "infertility-not-associated-with-vitamin-d-virtually-none-had-more-than-30-ng"
 aliases:
   - "/Infertility+not+associated+with+vitamin+D+virtually+none+had+more+than+30+ng+-+Dec+2023"
-  - "/tiki-index.php?page_id=14912"
+  - "/14912"
+tiki_page_id: 14912
 date: 2023-12-23
 categories:
   - "Fertility and sperm"

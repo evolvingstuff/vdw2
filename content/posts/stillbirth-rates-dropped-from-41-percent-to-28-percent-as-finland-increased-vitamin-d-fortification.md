@@ -3,7 +3,8 @@ title: "Stillbirth rates dropped from 4.1% to 2.8% as Finland increased Vitamin 
 slug: "stillbirth-rates-dropped-from-41-percent-to-28-percent-as-finland-increased-vitamin-d-fortification"
 aliases:
   - "/Stillbirth+rates+dropped+from+41+to+28+as+Finland+increased+Vitamin+D+fortification+–+May+2022"
-  - "/tiki-index.php?page_id=15242"
+  - "/15242"
+tiki_page_id: 15242
 date: 2024-04-28
 categories:
   - "Pregnancy"

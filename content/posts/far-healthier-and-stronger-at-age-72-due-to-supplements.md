@@ -3,7 +3,8 @@ title: "Far healthier and stronger at age 72 due to supplements"
 slug: "far-healthier-and-stronger-at-age-72-due-to-supplements"
 aliases:
   - "/Far+healthier+and+stronger+at+age+72+due+to+supplements"
-  - "/tiki-index.php?page_id=10246"
+  - "/10246"
+tiki_page_id: 10246
 date: 2018-11-29
 categories:
   - "Seniors"

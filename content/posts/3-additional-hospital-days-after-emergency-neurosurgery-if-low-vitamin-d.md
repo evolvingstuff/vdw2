@@ -3,7 +3,8 @@ title: "3 additional hospital days after emergency neurosurgery if low vitamin D
 slug: "3-additional-hospital-days-after-emergency-neurosurgery-if-low-vitamin-d"
 aliases:
   - "/3+additional+hospital+days+after+emergency+neurosurgery+if+low+vitamin+D+–+Nov+2019"
-  - "/tiki-index.php?page_id=11362"
+  - "/11362"
+tiki_page_id: 11362
 date: 2019-11-16
 categories:
   - "Trauma and surgery"

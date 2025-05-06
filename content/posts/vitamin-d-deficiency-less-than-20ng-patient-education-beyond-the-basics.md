@@ -3,7 +3,8 @@ title: "Vitamin D Deficiency (less than 20ng) - Patient education - Beyond the B
 slug: "vitamin-d-deficiency-less-than-20ng-patient-education-beyond-the-basics"
 aliases:
   - "/Vitamin+D+Deficiency+less+than+20ng+-+Patient+education+-+Beyond+the+Basics"
-  - "/tiki-index.php?page_id=14785"
+  - "/14785"
+tiki_page_id: 14785
 date: 2023-10-26
 categories:
   - "Deficiency of Vitamin D"

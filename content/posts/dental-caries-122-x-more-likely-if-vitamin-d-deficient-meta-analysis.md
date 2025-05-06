@@ -3,7 +3,8 @@ title: "Dental caries 1.22 X more likely if Vitamin D Deficient – meta-analysi
 slug: "dental-caries-122-x-more-likely-if-vitamin-d-deficient-meta-analysis"
 aliases:
   - "/Dental+caries+122+X+more+likely+if+Vitamin+D+Deficient+–+meta-analysis+Oct+2023"
-  - "/tiki-index.php?page_id=14767"
+  - "/14767"
+tiki_page_id: 14767
 date: 2023-10-20
 categories:
   - "Dental"

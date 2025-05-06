@@ -3,7 +3,8 @@ title: "Diabetes, immune system and Vitamin D – book chapter – 2019"
 slug: "diabetes-immune-system-and-vitamin-d-book-chapter-2019"
 aliases:
   - "/Diabetes+immune+system+and+Vitamin+D+–+book+chapter+–+2019"
-  - "/tiki-index.php?page_id=11475"
+  - "/11475"
+tiki_page_id: 11475
 date: 2019-12-18
 categories:
   - "Diabetes"

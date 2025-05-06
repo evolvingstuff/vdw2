@@ -3,7 +3,8 @@ title: "Vitamin D does not treat colon cancer (when you only use 1,000 IU) – R
 slug: "vitamin-d-does-not-treat-colon-cancer-when-you-only-use-1000-iu-rct"
 aliases:
   - "/Vitamin+D+does+not+treat+colon+cancer+when+you+only+use+1000+IU+–+RCT+April+2019"
-  - "/tiki-index.php?page_id=10662"
+  - "/10662"
+tiki_page_id: 10662
 date: 2019-04-13
 categories:
   - "Cancer - Colon"

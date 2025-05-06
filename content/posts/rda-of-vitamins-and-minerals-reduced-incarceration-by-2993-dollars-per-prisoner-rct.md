@@ -3,7 +3,8 @@ title: "RDA of Vitamins and minerals reduced incarceration by 2,993 dollars per 
 slug: "rda-of-vitamins-and-minerals-reduced-incarceration-by-2993-dollars-per-prisoner-rct"
 aliases:
   - "/RDA+of+Vitamins+and+minerals+reduced+incarceration+by+2993+dollars+per+prisoner+–+RCT+Jan+2021"
-  - "/tiki-index.php?page_id=12301"
+  - "/12301"
+tiki_page_id: 12301
 date: 2021-02-05
 categories:
   - "Shut-in"

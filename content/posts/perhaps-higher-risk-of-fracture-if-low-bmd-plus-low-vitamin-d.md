@@ -3,7 +3,8 @@ title: "Perhaps higher risk of fracture if low BMD plus low vitamin D"
 slug: "perhaps-higher-risk-of-fracture-if-low-bmd-plus-low-vitamin-d"
 aliases:
   - "/Perhaps+higher+risk+of+fracture+if+low+BMD+plus+low+vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13737"
+  - "/13737"
+tiki_page_id: 13737
 date: 2022-07-08
 categories:
   - "Osteoporosis"

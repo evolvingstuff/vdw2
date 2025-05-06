@@ -3,7 +3,8 @@ title: "COVID-19 decreased risk if add Vitamin D, A, C, NAC, Se, Zn, or Omega-3"
 slug: "covid-19-decreased-risk-if-add-vitamin-d-a-c-nac-se-zn-or-omega-3"
 aliases:
   - "/COVID-19+decreased+risk+if+add+Vitamin+D+A+C+NAC+Se+Zn+or+Omega-3+–+Dec+2021"
-  - "/tiki-index.php?page_id=13037"
+  - "/13037"
+tiki_page_id: 13037
 date: 2021-10-31
 categories:
   - "Vitamin D and Vitamin A"

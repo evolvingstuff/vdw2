@@ -3,7 +3,8 @@ title: "COVID existed in the second half of 2019 - several studies"
 slug: "covid-existed-in-the-second-half-of-2019-several-studies"
 aliases:
   - "/COVID+existed+in+the+second+half+of+2019+-+several+studies"
-  - "/tiki-index.php?page_id=14068"
+  - "/14068"
+tiki_page_id: 14068
 date: 2022-11-05
 categories:
   - "Virus"

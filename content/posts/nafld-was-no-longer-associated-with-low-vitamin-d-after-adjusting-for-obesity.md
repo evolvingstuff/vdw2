@@ -3,7 +3,8 @@ title: "NAFLD was no longer associated with low vitamin D after “adjusting’ 
 slug: "nafld-was-no-longer-associated-with-low-vitamin-d-after-adjusting-for-obesity"
 aliases:
   - "/NAFLD+was+no+longer+associated+with+low+vitamin+D+after+adjusting+for+obesity+–+May+2021"
-  - "/tiki-index.php?page_id=13041"
+  - "/13041"
+tiki_page_id: 13041
 date: 2021-11-02
 ---
 

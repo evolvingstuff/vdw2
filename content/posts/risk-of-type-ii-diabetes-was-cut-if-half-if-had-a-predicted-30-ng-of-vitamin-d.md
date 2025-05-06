@@ -3,7 +3,8 @@ title: "Risk of Type II Diabetes was cut if half if had a predicted 30 ng of vit
 slug: "risk-of-type-ii-diabetes-was-cut-if-half-if-had-a-predicted-30-ng-of-vitamin-d"
 aliases:
   - "/Risk+of+Type+II+Diabetes+was+cut+if+half+if+had+a+predicted+30+ng+of+vitamin+D+–+March+2024"
-  - "/tiki-index.php?page_id=15116"
+  - "/15116"
+tiki_page_id: 15116
 date: 2024-03-09
 categories:
   - "Diabetes"

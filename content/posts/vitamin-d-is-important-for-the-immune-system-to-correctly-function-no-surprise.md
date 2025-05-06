@@ -3,7 +3,8 @@ title: "Vitamin D is important for the immune system to correctly function (no s
 slug: "vitamin-d-is-important-for-the-immune-system-to-correctly-function-no-surprise"
 aliases:
   - "/Vitamin+D+is+important+for+the+immune+system+to+correctly+function+no+surprise+–+Jan+2024"
-  - "/tiki-index.php?page_id=15114"
+  - "/15114"
+tiki_page_id: 15114
 date: 2024-03-09
 categories:
   - "Autoimmune"

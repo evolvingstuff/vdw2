@@ -3,7 +3,8 @@ title: "Delirium or cognitive problems after surgery 1.5X more likely if low vit
 slug: "delirium-or-cognitive-problems-after-surgery-15x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Delirium+or+cognitive+problems+after+surgery+15X+more+likely+if+low+vitamin+D+–meta-analysis+Aug+2022"
-  - "/tiki-index.php?page_id=13367"
+  - "/13367"
+tiki_page_id: 13367
 date: 2022-03-04
 categories:
   - "Trauma and surgery"

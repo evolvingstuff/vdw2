@@ -3,7 +3,8 @@ title: "Jaw joint (TMJ)  needs 30-50 ng of Vitamin D and a good VDR"
 slug: "jaw-joint-tmj-needs-30-50-ng-of-vitamin-d-and-a-good-vdr"
 aliases:
   - "/Jaw+joint+TMJ+needs+30-50+ng+of+Vitamin+D+and+a+good+VDR+–+April+2021"
-  - "/tiki-index.php?page_id=12495"
+  - "/12495"
+tiki_page_id: 12495
 date: 2021-04-14
 categories:
   - "Osteoarthritis"

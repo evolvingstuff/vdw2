@@ -3,7 +3,8 @@ title: "Consequences of Italy’s decision to restrict Vitamin D reimbursement f
 slug: "consequences-of-italys-decision-to-restrict-vitamin-d-reimbursement-for-osteoporosis-prevention"
 aliases:
   - "/Consequences+of+Italys+decision+to+restrict+Vitamin+D+reimbursement+for+Osteoporosis+prevention+–+April+2022"
-  - "/tiki-index.php?page_id=13530"
+  - "/13530"
+tiki_page_id: 13530
 date: 2022-04-29
 categories:
   - "Osteoporosis"

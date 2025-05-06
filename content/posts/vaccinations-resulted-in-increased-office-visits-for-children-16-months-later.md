@@ -3,7 +3,8 @@ title: "Vaccinations resulted in increased office visits for children 16 months 
 slug: "vaccinations-resulted-in-increased-office-visits-for-children-16-months-later"
 aliases:
   - "/Vaccinations+resulted+in+increased+office+visits+for+children+16+months+later+-+Nov+2020"
-  - "/tiki-index.php?page_id=12149"
+  - "/12149"
+tiki_page_id: 12149
 date: 2020-12-17
 categories:
   - "Autism"

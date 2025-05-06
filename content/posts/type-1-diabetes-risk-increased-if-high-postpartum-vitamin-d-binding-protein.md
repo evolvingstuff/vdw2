@@ -3,7 +3,8 @@ title: "Type 1 Diabetes risk increased if high postpartum Vitamin D binding prot
 slug: "type-1-diabetes-risk-increased-if-high-postpartum-vitamin-d-binding-protein"
 aliases:
   - "/Type+1+Diabetes+risk+increased+if+high+postpartum+Vitamin+D+binding+protein+–+Jan+2019"
-  - "/tiki-index.php?page_id=10612"
+  - "/10612"
+tiki_page_id: 10612
 date: 2019-03-24
 categories:
   - "Pregnancy"

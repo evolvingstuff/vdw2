@@ -3,7 +3,8 @@ title: "Migraine headaches cut in half by 4,000 IU of vitamin D – RCT"
 slug: "migraine-headaches-cut-in-half-by-4000-iu-of-vitamin-d-rct"
 aliases:
   - "/Migraine+headaches+cut+in+half+by+4000+IU+of+vitamin+D+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10009"
+  - "/10009"
+tiki_page_id: 10009
 date: 2018-09-06
 categories:
   - "Vitamin D and Magnesium"

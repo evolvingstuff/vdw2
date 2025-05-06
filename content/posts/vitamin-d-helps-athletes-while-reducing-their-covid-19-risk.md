@@ -3,7 +3,8 @@ title: "Vitamin D helps athletes while reducing their COVID-19 risk"
 slug: "vitamin-d-helps-athletes-while-reducing-their-covid-19-risk"
 aliases:
   - "/Vitamin+D+helps+athletes+while+reducing+their+COVID-19+risk+-+Dec+4+2020"
-  - "/tiki-index.php?page_id=12113"
+  - "/12113"
+tiki_page_id: 12113
 date: 2020-12-04
 categories:
   - "Sports and Vitamin D"

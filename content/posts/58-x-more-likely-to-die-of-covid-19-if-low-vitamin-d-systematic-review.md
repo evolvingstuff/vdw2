@@ -3,7 +3,8 @@ title: "5.8 X more likely to die of COVID-19 if low vitamin D - Systematic Revie
 slug: "58-x-more-likely-to-die-of-covid-19-if-low-vitamin-d-systematic-review"
 aliases:
   - "/58+X+more+likely+to+die+of+COVID-19+if+low+vitamin+D+-+Systematic+Review+Dec+3+2020"
-  - "/tiki-index.php?page_id=12112"
+  - "/12112"
+tiki_page_id: 12112
 date: 2020-12-04
 categories:
   - "Virus"

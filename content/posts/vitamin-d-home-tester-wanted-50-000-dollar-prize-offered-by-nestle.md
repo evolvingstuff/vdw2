@@ -3,7 +3,8 @@ title: "Vitamin D home tester wanted – 50, 000 dollar prize offered by Nestlé
 slug: "vitamin-d-home-tester-wanted-50-000-dollar-prize-offered-by-nestle"
 aliases:
   - "/Vitamin+D+home+tester+wanted+–+50+000+dollar+prize+offered+by+Nestle+–+Feb+2019"
-  - "/tiki-index.php?page_id=10479"
+  - "/10479"
+tiki_page_id: 10479
 date: 2019-02-11
 categories:
   - "Tests for Vitamin D"

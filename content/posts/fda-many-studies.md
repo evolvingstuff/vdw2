@@ -3,7 +3,8 @@ title: "FDA - many studies"
 slug: "fda-many-studies"
 aliases:
   - "/FDA+-+many+studies"
-  - "/tiki-index.php?page_id=14639"
+  - "/14639"
+tiki_page_id: 14639
 date: 2023-08-27
 ---
 

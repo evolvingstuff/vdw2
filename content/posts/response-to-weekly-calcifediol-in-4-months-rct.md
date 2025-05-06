@@ -3,7 +3,8 @@ title: "Response to weekly Calcifediol in 4 months - RCT"
 slug: "response-to-weekly-calcifediol-in-4-months-rct"
 aliases:
   - "/Response+to+weekly+Calcifediol+in+4+months+-+RCT+Aug+2022"
-  - "/tiki-index.php?page_id=12294"
+  - "/12294"
+tiki_page_id: 12294
 date: 2021-02-03
 categories:
   - "Calcidiol"

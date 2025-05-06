@@ -3,7 +3,8 @@ title: "Neural tube defect and Vitamin D - many studies"
 slug: "neural-tube-defect-and-vitamin-d-many-studies"
 aliases:
   - "/Neural+tube+defect+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14428"
+  - "/14428"
+tiki_page_id: 14428
 date: 2023-05-16
 categories:
   - "Pregnancy"

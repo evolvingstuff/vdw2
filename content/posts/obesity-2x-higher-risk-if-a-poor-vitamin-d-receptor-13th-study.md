@@ -3,7 +3,8 @@ title: "Obesity 2X higher risk if a poor Vitamin D Receptor (13th study)"
 slug: "obesity-2x-higher-risk-if-a-poor-vitamin-d-receptor-13th-study"
 aliases:
   - "/Obesity+2X+higher+risk+if+a+poor+Vitamin+D+Receptor+13th+study+–+Dec+2019"
-  - "/tiki-index.php?page_id=11437"
+  - "/11437"
+tiki_page_id: 11437
 date: 2019-12-09
 categories:
   - "Obesity"

@@ -3,7 +3,8 @@ title: "People allergic to Lanolin should not be allergic to vegan Vitamin D"
 slug: "people-allergic-to-lanolin-should-not-be-allergic-to-vegan-vitamin-d"
 aliases:
   - "/People+allergic+to+Lanolin+should+not+be+allergic+to+vegan+Vitamin+D"
-  - "/tiki-index.php?page_id=14323"
+  - "/14323"
+tiki_page_id: 14323
 date: 2023-03-20
 categories:
   - "Forms of Vitamin D"

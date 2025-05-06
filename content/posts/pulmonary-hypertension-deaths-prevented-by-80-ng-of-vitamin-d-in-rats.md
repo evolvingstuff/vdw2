@@ -3,7 +3,8 @@ title: "Pulmonary Hypertension deaths prevented by 80 ng of Vitamin D (in rats)"
 slug: "pulmonary-hypertension-deaths-prevented-by-80-ng-of-vitamin-d-in-rats"
 aliases:
   - "/Pulmonary+Hypertension+deaths+prevented+by+80+ng+of+Vitamin+D+in+rats+–+July+2017"
-  - "/tiki-index.php?page_id=11493"
+  - "/11493"
+tiki_page_id: 11493
 date: 2019-12-24
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Skin impedance might be a rough measure of Vitamin D"
 slug: "skin-impedance-might-be-a-rough-measure-of-vitamin-d"
 aliases:
   - "/Skin+impedance+might+be+a+rough+measure+of+Vitamin+D+–+Dec+2021"
-  - "/tiki-index.php?page_id=13141"
+  - "/13141"
+tiki_page_id: 13141
 date: 2021-12-04
 categories:
   - "Tests for Vitamin D"

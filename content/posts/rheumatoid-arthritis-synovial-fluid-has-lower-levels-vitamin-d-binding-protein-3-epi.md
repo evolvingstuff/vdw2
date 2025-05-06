@@ -3,7 +3,8 @@ title: "Rheumatoid Arthritis synovial fluid has lower levels Vitamin D binding p
 slug: "rheumatoid-arthritis-synovial-fluid-has-lower-levels-vitamin-d-binding-protein-3-epi"
 aliases:
   - "/Rheumatoid+Arthritis+synovial+fluid+has+lower+levels+Vitamin+D+binding+protein+3-epi+–+Jan+2019"
-  - "/tiki-index.php?page_id=10488"
+  - "/10488"
+tiki_page_id: 10488
 date: 2019-02-13
 categories:
   - "Rheumatoid Arthritis"

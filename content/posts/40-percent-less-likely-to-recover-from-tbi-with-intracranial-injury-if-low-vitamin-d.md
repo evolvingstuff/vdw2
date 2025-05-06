@@ -3,7 +3,8 @@ title: "40% less likely to recover from TBI with Intracranial Injury if low vita
 slug: "40-percent-less-likely-to-recover-from-tbi-with-intracranial-injury-if-low-vitamin-d"
 aliases:
   - "/40+less+likely+to+recover+from+TBI+with+Intracranial+Injury+if+low+vitamin+D+–+June+2022"
-  - "/tiki-index.php?page_id=13652"
+  - "/13652"
+tiki_page_id: 13652
 date: 2022-06-09
 categories:
   - "Trauma and surgery"

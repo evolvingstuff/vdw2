@@ -3,7 +3,8 @@ title: "The Role of Magnesium in the Pathogenesis of Metabolic Disorders"
 slug: "the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders"
 aliases:
   - "/The+Role+of+Magnesium+in+the+Pathogenesis+of+Metabolic+Disorders+–+April+2022"
-  - "/tiki-index.php?page_id=13511"
+  - "/13511"
+tiki_page_id: 13511
 date: 2022-04-23
 categories:
   - "Diabetes"

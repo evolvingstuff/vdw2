@@ -3,7 +3,8 @@ title: "COVID vitamin D publications - bibliometric analysis"
 slug: "covid-vitamin-d-publications-bibliometric-analysis"
 aliases:
   - "/COVID+vitamin+D+publications+-+bibliometric+analysis+-+July+2022"
-  - "/tiki-index.php?page_id=13739"
+  - "/13739"
+tiki_page_id: 13739
 date: 2022-07-08
 categories:
   - "Virus"

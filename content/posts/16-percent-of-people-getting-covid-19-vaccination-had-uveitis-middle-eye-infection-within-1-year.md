@@ -3,7 +3,8 @@ title: "16% of people getting COVID-19 vaccination had Uveitis (middle eye infec
 slug: "16-percent-of-people-getting-covid-19-vaccination-had-uveitis-middle-eye-infection-within-1-year"
 aliases:
   - "/16+of+people+getting+COVID-19+vaccination+had+Uveitis+middle+eye+infection+within+1+year+–+April+2024"
-  - "/tiki-index.php?page_id=15243"
+  - "/15243"
+tiki_page_id: 15243
 date: 2024-04-29
 categories:
   - "Vision"

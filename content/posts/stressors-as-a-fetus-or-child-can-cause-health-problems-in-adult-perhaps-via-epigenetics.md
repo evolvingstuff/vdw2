@@ -3,7 +3,8 @@ title: "Stressors as a fetus or child can cause health problems in adult (perhap
 slug: "stressors-as-a-fetus-or-child-can-cause-health-problems-in-adult-perhaps-via-epigenetics"
 aliases:
   - "/Stressors+as+a+fetus+or+child+can+cause+health+problems+in+adult+perhaps+via+epigenetics+–+Dec+2017"
-  - "/tiki-index.php?page_id=10116"
+  - "/10116"
+tiki_page_id: 10116
 date: 2018-10-14
 categories:
   - "Pregnancy"

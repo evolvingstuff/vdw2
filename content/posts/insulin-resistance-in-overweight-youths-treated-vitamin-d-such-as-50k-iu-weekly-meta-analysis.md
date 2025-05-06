@@ -3,7 +3,8 @@ title: "Insulin resistance in overweight youths treated Vitamin D (such as 50K I
 slug: "insulin-resistance-in-overweight-youths-treated-vitamin-d-such-as-50k-iu-weekly-meta-analysis"
 aliases:
   - "/Insulin+resistance+in+overweight+youths+treated+Vitamin+D+such+as+50K+IU+weekly+–+meta-analysis+April+2024"
-  - "/tiki-index.php?page_id=15155"
+  - "/15155"
+tiki_page_id: 15155
 date: 2024-03-20
 categories:
   - "Obesity"

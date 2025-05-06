@@ -3,7 +3,8 @@ title: "Acute respiratory tract infections not reduced by Vitamin D if already h
 slug: "acute-respiratory-tract-infections-not-reduced-by-vitamin-d-if-already-have-a-good-level"
 aliases:
   - "/Acute+respiratory+tract+infections+not+reduced+by+Vitamin+D+if+already+have+a+good+level+–+Jan+2021"
-  - "/tiki-index.php?page_id=12225"
+  - "/12225"
+tiki_page_id: 12225
 date: 2021-01-15
 categories:
   - "Seniors"

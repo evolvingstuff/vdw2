@@ -3,7 +3,8 @@ title: "Not all Viruses are bad"
 slug: "not-all-viruses-are-bad"
 aliases:
   - "/Not+all+Viruses+are+bad"
-  - "/tiki-index.php?page_id=11677"
+  - "/11677"
+tiki_page_id: 11677
 date: 2020-03-12
 categories:
   - "Virus"

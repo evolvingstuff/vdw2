@@ -3,7 +3,8 @@ title: "Shift work associated with lower Vitamin D in 12 of 13 studies – meta-
 slug: "shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis"
 aliases:
   - "/Shift+work+associated+with+lower+Vitamin+D+in+12+of+13+studies+–+meta-analysis+July+2022"
-  - "/tiki-index.php?page_id=13784"
+  - "/13784"
+tiki_page_id: 13784
 date: 2022-07-22
 categories:
   - "High Risk"

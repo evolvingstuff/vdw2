@@ -3,7 +3,8 @@ title: "Atrial Fibrillation decreased by Vitamin D or Magnesium - many studies"
 slug: "atrial-fibrillation-decreased-by-vitamin-d-or-magnesium-many-studies"
 aliases:
   - "/Atrial+Fibrillation+decreased+by+Vitamin+D+or+Magnesium+-+many+studies"
-  - "/tiki-index.php?page_id=12919"
+  - "/12919"
+tiki_page_id: 12919
 date: 2021-09-23
 categories:
   - "Cardiovascular"

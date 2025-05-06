@@ -3,7 +3,8 @@ title: "Does a vaccine increase the risk of Autism"
 slug: "does-a-vaccine-increase-the-risk-of-autism"
 aliases:
   - "/Does+a+vaccine+increase+the+risk+of+Autism+–+March+2019"
-  - "/tiki-index.php?page_id=10552"
+  - "/10552"
+tiki_page_id: 10552
 date: 2019-03-05
 categories:
   - "Autism"

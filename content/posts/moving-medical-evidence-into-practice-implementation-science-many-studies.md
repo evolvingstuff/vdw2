@@ -3,7 +3,8 @@ title: "Moving medical evidence into practice: Implementation Science - many stu
 slug: "moving-medical-evidence-into-practice-implementation-science-many-studies"
 aliases:
   - "/Moving+medical+evidence+into+practice+Implementation+Science+-+many+studies"
-  - "/tiki-index.php?page_id=13722"
+  - "/13722"
+tiki_page_id: 13722
 date: 2022-06-30
 categories:
   - "Overview for doctors"

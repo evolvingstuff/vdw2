@@ -1,61 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cholesterol on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/cholesterol/</link>
-    <description>Recent content in Cholesterol on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/cholesterol/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Autoimmune RA, SLE, SSc, genes and Vitamin D</title>
-      <link>http://localhost:1313/posts/autoimmune-ra-sle-ssc-genes-and-vitamin-d/</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/autoimmune-ra-sle-ssc-genes-and-vitamin-d/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#involvement-of-the-secosteroid-vitamin-d-in-autoimmune-rheumatic-diseases-and-covid-19&#34;&gt;Involvement of the secosteroid vitamin D in autoimmune rheumatic diseases and COVID-19&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki--a-hrefpostslow-vitamin-d-strongly-associated-with-systemic-sclerosis-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-low-vitamin-d-strongly-associated-with-systemic-sclerosis---many-studieslow-vitamin-d-strongly-associated-with-systemic-sclerosis---many-studiesa&#34;&gt;VitaminDWiki – &lt;a href=&#34;http://localhost:1313/posts/low-vitamin-d-strongly-associated-with-systemic-sclerosis-many-studies&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Low Vitamin D strongly associated with Systemic Sclerosis - many studies&#34;&gt;Low Vitamin D strongly associated with Systemic Sclerosis - many studies&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;involvement-of-the-secosteroid-vitamin-d-in-autoimmune-rheumatic-diseases-and-covid-19&#34;&gt;Involvement of the secosteroid vitamin D in autoimmune rheumatic diseases and COVID-19&lt;/h4&gt;&#xA;&lt;p&gt;nature reviews rheumatology &lt;a href=&#34;https://doi.org/10.1038/s41584-023-00944-2&#34;&gt;https://doi.org/10.1038/s41584-023-00944-2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Maurizio Cutolo®1 S, Vanessa Smith®2, Sabrina Paolino®1 &amp;amp; Emanuele Gotelli®1 Abstract&lt;/p&gt;&#xA;&lt;p&gt;’Laboratory of Experimental Rheumatology and Academic Division of Clinical Rheumatology, Department of Internal Medicine and Specialties (DiMI), University of Genova-IRCCS San Martino Polyclinic Hospital, Genoa, Italy. 2Department of Internal Medicine, Department of Rheumatology, University Hospital Ghent, Ghent, Belgium. e-mail: &lt;a href=&#34;mailto:tolo@unige.it&#34;&gt;tolo@unige.it&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Statin muscle problems decreased in 4 out of 5 patients when vitamin D was added</title>
-      <link>http://localhost:1313/posts/statin-muscle-problems-decreased-in-4-out-of-5-patients-when-vitamin-d-was-added/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/statin-muscle-problems-decreased-in-4-out-of-5-patients-when-vitamin-d-was-added/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#association-between-vitamin-d-supplementation-and-statin-associated-muscle-symptoms-a-systematic-review&#34;&gt;Association Between Vitamin D Supplementation and Statin-Associated Muscle Symptoms: A Systematic Review&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;association-between-vitamin-d-supplementation-and-statin-associated-muscle-symptoms-a-systematic-review&#34;&gt;Association Between Vitamin D Supplementation and Statin-Associated Muscle Symptoms: A Systematic Review&lt;/h4&gt;&#xA;&lt;p&gt;High Blood Press Cardiovasc Prev . 2022 Jun 29. &lt;a href=&#34;https://doi.org/10.1007/s40292-022-00526-5&#34;&gt;doi: 10.1007/s40292-022-00526-5&lt;/a&gt;  &lt;strong&gt;PDF behind paywall&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chong Boon Teo # 1, Pek Yan Tan # 1, Ryan Yong Kiat Tay # 1, Joan Khoo 2, Gerald F Watts 3 4, Wann Jia Loh 5&lt;/p&gt;&#xA;&lt;p&gt;\Introduction: Although low vitamin D levels are associated with statin-associated muscle symptoms (SAMS), it remains unclear if vitamin D supplementation leads to symptom improvement.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Role of Magnesium in the Pathogenesis of Metabolic Disorders</title>
-      <link>http://localhost:1313/posts/the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders/</link>
-      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders&#34;&gt;The Role of Magnesium in the Pathogenesis of Metabolic Disorders&lt;/a&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#chart-magnesium-and-metabolic-disorders&#34;&gt;Chart Magnesium and metabolic disorders&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#magnesium-and-high-cholesterol-meta-analyses&#34;&gt;Magnesium and High Cholesterol Meta-analyses&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders&#34;&gt;The Role of Magnesium in the Pathogenesis of Metabolic Disorders&lt;/h3&gt;&#xA;&lt;p&gt;Nutrients 2022, 14(9), 1714; &lt;a href=&#34;https://doi.org/10.3390/nu14091714&#34;&gt;https://doi.org/10.3390/nu14091714&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;by Marta Pelczyńska *ORCID,Małgorzata MoszakORCID and Paweł BogdańskiORCID&lt;/p&gt;&#xA;&lt;p&gt;Department of Treatment of Obesity, Metabolic Disorders and Clinical Dietetics, Poznań University of Medical Sciences, 84 Szamarzewskiego Street, 60-569 Poznań, Poland&lt;/p&gt;&#xA;&lt;p&gt;Magnesium (Mg) is an essential nutrient for maintaining vital physiological functions. It is involved in many fundamental processes, and Mg deficiency is often correlated with negative health outcomes. On the one hand, most western civilizations consume less than the recommended daily allowance of Mg. On the other hand, a growing body of evidence has indicated that chronic hypomagnesemia may be implicated in the pathogenesis of various metabolic disorders such as&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Increased Vitamin D associated with decreased Cholesterol</title>
-      <link>http://localhost:1313/posts/increased-vitamin-d-associated-with-decreased-cholesterol/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/increased-vitamin-d-associated-with-decreased-cholesterol/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#association-of-changes-in-lipid-levels-with-changes-in-vitamin-d-levels-in-a-real-world-setting&#34;&gt;Association of changes in lipid levels with changes in vitamin D levels in a real-world setting&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#note-there-appears-to-be-no-consensus-on-the-direction-of-the-association&#34;&gt;Note: There appears to be no consensus on the direction of the association&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#chart-of-data-by-grassroots-health&#34;&gt;Chart of data by Grassroots Health&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;association-of-changes-in-lipid-levels-with-changes-in-vitamin-d-levels-in-a-real-world-setting&#34;&gt;Association of changes in lipid levels with changes in vitamin D levels in a real-world setting&lt;/h4&gt;&#xA;&lt;p&gt;Scientific Reports volume 11, Article number: 21536 (2021) &lt;a href=&#34;https://doi.org/10.1038/s41598-021-01064-1&#34;&gt;https://doi.org/10.1038/s41598-021-01064-1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Yonghong Li, Carmen H. Tong, Charles M. Rowland, Jeff Radcliff, Lance A. Bare, Michael J. McPhaul &amp;amp; James J. Devlin&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Excessive lipids in blood (dyslipidemia) is 1.5 X more likely if low vitamin D</title>
-      <link>http://localhost:1313/posts/excessive-lipids-in-blood-dyslipidemia-is-15-x-more-likely-if-low-vitamin-d/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/excessive-lipids-in-blood-dyslipidemia-is-15-x-more-likely-if-low-vitamin-d/</guid>
-      <description>&lt;h4 id=&#34;vitamin-d-deficiency-is-associated-with-dyslipidemia-a-cross-sectional-study-in-3788-subjects&#34;&gt;Vitamin D Deficiency Is Associated With Dyslipidemia: A Cross-Sectional Study in 3788 Subjects&lt;/h4&gt;&#xA;&lt;p&gt;Curr Med Res Opin. 2019 Jun;35(6):1059-1063. &lt;a href=&#34;https://doi.org/10.1080/03007995.2018.1552849&#34;&gt;doi: 10.1080/03007995.2018.1552849&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Xiongjing Jiang 1, Meng Peng 1 2, Shuohua Chen 3, Shouling Wu 4, Weiguo Zhang 5&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-cholesterol-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Cholesterol and vitamin D&#34;&gt;Overview Cholesterol and vitamin D&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/most-profitable-pill-in-medical-history-is-based-on-flawed-science-statins&#34;&gt;Most Profitable Pill in Medical History Is Based on Flawed Science (Statins) May 2019&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/vitamin-d-levels-are-again-associated-with-hdl-cholesterol-levels&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Vitamin D levels are (again) associated with HDL cholesterol levels – Feb 2018&#34;&gt;Vitamin D levels are (again) associated with HDL cholesterol levels – Feb 2018&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Most Profitable Pill in Medical History Is Based on Flawed Science (Statins)</title>
-      <link>http://localhost:1313/posts/most-profitable-pill-in-medical-history-is-based-on-flawed-science-statins/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/most-profitable-pill-in-medical-history-is-based-on-flawed-science-statins/</guid>
-      <description>&lt;h4 id=&#34;statin-nation--how-millions-are-damaged-in-a-post-health-world-statin-nationhttpsarticlesmercolacomsitesarticlesarchive20190602a-statin-nationaspxutm_sourcednlutm_mediumemailutm_contentart1utm_campaign20190602z1et_ciddm292374et_rid629836285-mercola&#34;&gt;&lt;a href=&#34;https://articles.mercola.com/sites/articles/archive/2019/06/02/a-statin-nation.aspx?utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20190602Z1&amp;amp;et_cid=DM292374&amp;amp;et_rid=629836285&#34;&gt;Statin Nation — How Millions Are Damaged in a Post-Health World Statin Nation&lt;/a&gt; Mercola&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights of book and interview of author with transcript&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.amazon.com/Statin-Nation-Damaging-Millions-Post-Health-ebook/dp/B07F98K1SZ/ref=sr_1_1?keywords=A+Statin+Nation%3A+Damaging+Millions+in+a+Brave+New+Post-Health+World&amp;amp;qid=1559465504&amp;amp;s=books&amp;amp;sr=1-1&#34;&gt;A Statin Nation: Damaging Millions in a Brave New Post-Health World,&lt;/a&gt;” written by Dr. Malcolm Kendrick,&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dec 2018, Amazon $6&lt;/p&gt;&#xA;&lt;h4 id=&#34;authors-previous-books&#34;&gt;Author’s previous books:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:#00F;&#34;&gt;Doctoring Data: How to Sort Out Medical Advice From Medical Nonsense&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:#00F;&#34;&gt;A Statin Nation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Of the 9 the committee, there were  &lt;strong&gt;124 conflicts of interest with companies making statins or other cholesterol-lowering agents.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Full-fat dairy reduced heart disease by 22 percent and stroke by 34 percent (136,000 people, 9 years)</title>
-      <link>http://localhost:1313/posts/full-fat-dairy-reduced-heart-disease-by-22-percent-and-stroke-by-34-percent-136000-people-9-years/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/full-fat-dairy-reduced-heart-disease-by-22-percent-and-stroke-by-34-percent-136000-people-9-years/</guid>
-      <description>&lt;h4 id=&#34;is-whole-fat-dairy-good-for-the-hearthttpswwwnytimescom20180911welleatis-whole-fat-dairy-good-for-the-hearthtml-new-york-times&#34;&gt;&lt;a href=&#34;https://www.nytimes.com/2018/09/11/well/eat/is-whole-fat-dairy-good-for-the-heart.html&#34;&gt;Is Whole-Fat Dairy Good for the Heart?&lt;/a&gt; New York Times&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“The study, published in Lancet, included 136,384 people in 21 countries followed for an average of nine years.”&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“Total intake of two or more servings of full-fat dairy food was associated with a 22 percent lower risk of heart disease, a 34 percent lower risk of stroke, and a 23 percent lower risk of death from cardiovascular disease.”&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;From&lt;/strong&gt;  Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study 10.1016/S0140-6736(18)31812-9&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cholesterol on VitaminDWiki</title><link>//localhost:1313/categories/cholesterol.html</link><description>Recent content in Cholesterol on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/cholesterol/index.xml" rel="self" type="application/rss+xml"/><item><title>Autoimmune RA, SLE, SSc, genes and Vitamin D</title><link>//localhost:1313/posts/autoimmune-ra-sle-ssc-genes-and-vitamin-d.html</link><pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/autoimmune-ra-sle-ssc-genes-and-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#involvement-of-the-secosteroid-vitamin-d-in-autoimmune-rheumatic-diseases-and-covid-19">Involvement of the secosteroid vitamin D in autoimmune rheumatic diseases and COVID-19&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki--a-hrefpostslow-vitamin-d-strongly-associated-with-systemic-sclerosis-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-low-vitamin-d-strongly-associated-with-systemic-sclerosis---many-studieslow-vitamin-d-strongly-associated-with-systemic-sclerosis---many-studiesa">VitaminDWiki – &lt;a href="//localhost:1313/posts/low-vitamin-d-strongly-associated-with-systemic-sclerosis-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Vitamin D strongly associated with Systemic Sclerosis - many studies">Low Vitamin D strongly associated with Systemic Sclerosis - many studies&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="involvement-of-the-secosteroid-vitamin-d-in-autoimmune-rheumatic-diseases-and-covid-19">Involvement of the secosteroid vitamin D in autoimmune rheumatic diseases and COVID-19&lt;/h4>
+&lt;p>nature reviews rheumatology &lt;a href="https://doi.org/10.1038/s41584-023-00944-2">https://doi.org/10.1038/s41584-023-00944-2&lt;/a>&lt;/p>
+&lt;p>Maurizio Cutolo®1 S, Vanessa Smith®2, Sabrina Paolino®1 &amp;amp; Emanuele Gotelli®1 Abstract&lt;/p>
+&lt;p>’Laboratory of Experimental Rheumatology and Academic Division of Clinical Rheumatology, Department of Internal Medicine and Specialties (DiMI), University of Genova-IRCCS San Martino Polyclinic Hospital, Genoa, Italy. 2Department of Internal Medicine, Department of Rheumatology, University Hospital Ghent, Ghent, Belgium. e-mail: &lt;a href="mailto:tolo@unige.it">tolo@unige.it&lt;/a>&lt;/p></description></item><item><title>Statin muscle problems decreased in 4 out of 5 patients when vitamin D was added</title><link>//localhost:1313/posts/statin-muscle-problems-decreased-in-4-out-of-5-patients-when-vitamin-d-was-added.html</link><pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/statin-muscle-problems-decreased-in-4-out-of-5-patients-when-vitamin-d-was-added.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#association-between-vitamin-d-supplementation-and-statin-associated-muscle-symptoms-a-systematic-review">Association Between Vitamin D Supplementation and Statin-Associated Muscle Symptoms: A Systematic Review&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="association-between-vitamin-d-supplementation-and-statin-associated-muscle-symptoms-a-systematic-review">Association Between Vitamin D Supplementation and Statin-Associated Muscle Symptoms: A Systematic Review&lt;/h4>
+&lt;p>High Blood Press Cardiovasc Prev . 2022 Jun 29. &lt;a href="https://doi.org/10.1007/s40292-022-00526-5">doi: 10.1007/s40292-022-00526-5&lt;/a> &lt;strong>PDF behind paywall&lt;/strong>&lt;/p>
+&lt;p>Chong Boon Teo # 1, Pek Yan Tan # 1, Ryan Yong Kiat Tay # 1, Joan Khoo 2, Gerald F Watts 3 4, Wann Jia Loh 5&lt;/p>
+&lt;p>\Introduction: Although low vitamin D levels are associated with statin-associated muscle symptoms (SAMS), it remains unclear if vitamin D supplementation leads to symptom improvement.&lt;/p></description></item><item><title>The Role of Magnesium in the Pathogenesis of Metabolic Disorders</title><link>//localhost:1313/posts/the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders.html</link><pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders">The Role of Magnesium in the Pathogenesis of Metabolic Disorders&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#chart-magnesium-and-metabolic-disorders">Chart Magnesium and metabolic disorders&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#magnesium-and-high-cholesterol-meta-analyses">Magnesium and High Cholesterol Meta-analyses&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h3 id="the-role-of-magnesium-in-the-pathogenesis-of-metabolic-disorders">The Role of Magnesium in the Pathogenesis of Metabolic Disorders&lt;/h3>
+&lt;p>Nutrients 2022, 14(9), 1714; &lt;a href="https://doi.org/10.3390/nu14091714">https://doi.org/10.3390/nu14091714&lt;/a>&lt;/p>
+&lt;p>by Marta Pelczyńska *ORCID,Małgorzata MoszakORCID and Paweł BogdańskiORCID&lt;/p>
+&lt;p>Department of Treatment of Obesity, Metabolic Disorders and Clinical Dietetics, Poznań University of Medical Sciences, 84 Szamarzewskiego Street, 60-569 Poznań, Poland&lt;/p>
+&lt;p>Magnesium (Mg) is an essential nutrient for maintaining vital physiological functions. It is involved in many fundamental processes, and Mg deficiency is often correlated with negative health outcomes. On the one hand, most western civilizations consume less than the recommended daily allowance of Mg. On the other hand, a growing body of evidence has indicated that chronic hypomagnesemia may be implicated in the pathogenesis of various metabolic disorders such as&lt;/p></description></item><item><title>Increased Vitamin D associated with decreased Cholesterol</title><link>//localhost:1313/posts/increased-vitamin-d-associated-with-decreased-cholesterol.html</link><pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/increased-vitamin-d-associated-with-decreased-cholesterol.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#association-of-changes-in-lipid-levels-with-changes-in-vitamin-d-levels-in-a-real-world-setting">Association of changes in lipid levels with changes in vitamin D levels in a real-world setting&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#note-there-appears-to-be-no-consensus-on-the-direction-of-the-association">Note: There appears to be no consensus on the direction of the association&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chart-of-data-by-grassroots-health">Chart of data by Grassroots Health&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="association-of-changes-in-lipid-levels-with-changes-in-vitamin-d-levels-in-a-real-world-setting">Association of changes in lipid levels with changes in vitamin D levels in a real-world setting&lt;/h4>
+&lt;p>Scientific Reports volume 11, Article number: 21536 (2021) &lt;a href="https://doi.org/10.1038/s41598-021-01064-1">https://doi.org/10.1038/s41598-021-01064-1&lt;/a>&lt;/p>
+&lt;p>Yonghong Li, Carmen H. Tong, Charles M. Rowland, Jeff Radcliff, Lance A. Bare, Michael J. McPhaul &amp;amp; James J. Devlin&lt;/p></description></item><item><title>Excessive lipids in blood (dyslipidemia) is 1.5 X more likely if low vitamin D</title><link>//localhost:1313/posts/excessive-lipids-in-blood-dyslipidemia-is-15-x-more-likely-if-low-vitamin-d.html</link><pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/excessive-lipids-in-blood-dyslipidemia-is-15-x-more-likely-if-low-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-deficiency-is-associated-with-dyslipidemia-a-cross-sectional-study-in-3788-subjects">Vitamin D Deficiency Is Associated With Dyslipidemia: A Cross-Sectional Study in 3788 Subjects&lt;/h4>
+&lt;p>Curr Med Res Opin. 2019 Jun;35(6):1059-1063. &lt;a href="https://doi.org/10.1080/03007995.2018.1552849">doi: 10.1080/03007995.2018.1552849&lt;/a>&lt;/p>
+&lt;p>Xiongjing Jiang 1, Meng Peng 1 2, Shuohua Chen 3, Shouling Wu 4, Weiguo Zhang 5&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cholesterol and vitamin D">Overview Cholesterol and vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/most-profitable-pill-in-medical-history-is-based-on-flawed-science-statins">Most Profitable Pill in Medical History Is Based on Flawed Science (Statins) May 2019&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/vitamin-d-levels-are-again-associated-with-hdl-cholesterol-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels are (again) associated with HDL cholesterol levels – Feb 2018">Vitamin D levels are (again) associated with HDL cholesterol levels – Feb 2018&lt;/a>&lt;/p></description></item><item><title>Most Profitable Pill in Medical History Is Based on Flawed Science (Statins)</title><link>//localhost:1313/posts/most-profitable-pill-in-medical-history-is-based-on-flawed-science-statins.html</link><pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/most-profitable-pill-in-medical-history-is-based-on-flawed-science-statins.html</guid><description>&lt;h4 id="statin-nation--how-millions-are-damaged-in-a-post-health-world-statin-nationhttpsarticlesmercolacomsitesarticlesarchive20190602a-statin-nationaspxutm_sourcednlutm_mediumemailutm_contentart1utm_campaign20190602z1et_ciddm292374et_rid629836285-mercola">&lt;a href="https://articles.mercola.com/sites/articles/archive/2019/06/02/a-statin-nation.aspx?utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20190602Z1&amp;amp;et_cid=DM292374&amp;amp;et_rid=629836285">Statin Nation — How Millions Are Damaged in a Post-Health World Statin Nation&lt;/a> Mercola&lt;/h4>
+&lt;p>&lt;strong>Highlights of book and interview of author with transcript&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="https://www.amazon.com/Statin-Nation-Damaging-Millions-Post-Health-ebook/dp/B07F98K1SZ/ref=sr_1_1?keywords=A+Statin+Nation%3A+Damaging+Millions+in+a+Brave+New+Post-Health+World&amp;amp;qid=1559465504&amp;amp;s=books&amp;amp;sr=1-1">A Statin Nation: Damaging Millions in a Brave New Post-Health World,&lt;/a>” written by Dr. Malcolm Kendrick,&lt;/strong>&lt;/p>
+&lt;p>Dec 2018, Amazon $6&lt;/p>
+&lt;h4 id="authors-previous-books">Author’s previous books:&lt;/h4>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">Doctoring Data: How to Sort Out Medical Advice From Medical Nonsense&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">A Statin Nation&lt;/span>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Of the 9 the committee, there were &lt;strong>124 conflicts of interest with companies making statins or other cholesterol-lowering agents.&lt;/strong>&lt;/p></description></item><item><title>Full-fat dairy reduced heart disease by 22 percent and stroke by 34 percent (136,000 people, 9 years)</title><link>//localhost:1313/posts/full-fat-dairy-reduced-heart-disease-by-22-percent-and-stroke-by-34-percent-136000-people-9-years.html</link><pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/full-fat-dairy-reduced-heart-disease-by-22-percent-and-stroke-by-34-percent-136000-people-9-years.html</guid><description>&lt;h4 id="is-whole-fat-dairy-good-for-the-hearthttpswwwnytimescom20180911welleatis-whole-fat-dairy-good-for-the-hearthtml-new-york-times">&lt;a href="https://www.nytimes.com/2018/09/11/well/eat/is-whole-fat-dairy-good-for-the-heart.html">Is Whole-Fat Dairy Good for the Heart?&lt;/a> New York Times&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>“The study, published in Lancet, included 136,384 people in 21 countries followed for an average of nine years.”&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“Total intake of two or more servings of full-fat dairy food was associated with a 22 percent lower risk of heart disease, a 34 percent lower risk of stroke, and a 23 percent lower risk of death from cardiovascular disease.”&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>From&lt;/strong> Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study 10.1016/S0140-6736(18)31812-9&lt;/p></description></item></channel></rss>

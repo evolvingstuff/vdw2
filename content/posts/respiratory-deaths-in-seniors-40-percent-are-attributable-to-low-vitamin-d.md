@@ -3,7 +3,8 @@ title: "Respiratory deaths in seniors – 40 percent are attributable to low vit
 slug: "respiratory-deaths-in-seniors-40-percent-are-attributable-to-low-vitamin-d"
 aliases:
   - "/Respiratory+deaths+in+seniors+–+40+percent+are+attributable+to+low+vitamin+D+–+Aug+2020"
-  - "/tiki-index.php?page_id=11911"
+  - "/11911"
+tiki_page_id: 11911
 date: 2020-08-18
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Most Common Cancers per country"
 slug: "most-common-cancers-per-country"
 aliases:
   - "/Most+Common+Cancers+per+country"
-  - "/tiki-index.php?page_id=15141"
+  - "/15141"
+tiki_page_id: 15141
 date: 2024-03-16
 categories:
   - "Cancer"

@@ -3,7 +3,8 @@ title: "Vitamin D less costly if give 100,000 IU monthly (but 50,000 IU biweekly
 slug: "vitamin-d-less-costly-if-give-100000-iu-monthly-but-50000-iu-biweekly-should-save-more-money"
 aliases:
   - "/Vitamin+D+less+costly+if+give+100000+IU+monthly+but+50000+IU+biweekly+should+save+more+money+–+July+2019"
-  - "/tiki-index.php?page_id=10994"
+  - "/10994"
+tiki_page_id: 10994
 date: 2019-07-16
 categories:
   - "How, when to take Vit. D"

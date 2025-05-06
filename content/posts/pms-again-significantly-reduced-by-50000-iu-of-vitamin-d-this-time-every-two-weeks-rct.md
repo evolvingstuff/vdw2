@@ -3,7 +3,8 @@ title: "PMS again significantly reduced by 50,000 IU of vitamin D (This time, ev
 slug: "pms-again-significantly-reduced-by-50000-iu-of-vitamin-d-this-time-every-two-weeks-rct"
 aliases:
   - "/PMS+again+significantly+reduced+by+50000+IU+of+vitamin+D+This+time+every+two+weeks+–+RCT+Oct+2019"
-  - "/tiki-index.php?page_id=11248"
+  - "/11248"
+tiki_page_id: 11248
 date: 2019-10-19
 categories:
   - "Intervention"

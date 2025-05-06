@@ -3,7 +3,8 @@ title: "TB treatment helped by the addition of Vitamin D (100,000 IU bi-weekly) 
 slug: "tb-treatment-helped-by-the-addition-of-vitamin-d-100000-iu-bi-weekly-rct"
 aliases:
   - "/TB+treatment+helped+by+the+addition+of+Vitamin+D+100000+IU+bi-weekly+–+RCT+April+2024"
-  - "/tiki-index.php?page_id=15199"
+  - "/15199"
+tiki_page_id: 15199
 date: 2024-04-09
 categories:
   - "Tuberculosis"

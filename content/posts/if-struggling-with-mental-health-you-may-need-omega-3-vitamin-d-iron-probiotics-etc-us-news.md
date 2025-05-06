@@ -3,7 +3,8 @@ title: "If struggling with mental health you may need Omega-3, Vitamin D. Iron, 
 slug: "if-struggling-with-mental-health-you-may-need-omega-3-vitamin-d-iron-probiotics-etc-us-news"
 aliases:
   - "/If+struggling+with+mental+health+you+may+need+Omega-3+Vitamin+D+Iron+Probiotics+etc+–+US+News+Sept+2018"
-  - "/tiki-index.php?page_id=10024"
+  - "/10024"
+tiki_page_id: 10024
 date: 2018-09-11
 categories:
   - "Depression"

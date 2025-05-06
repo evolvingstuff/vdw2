@@ -3,7 +3,8 @@ title: "Similar death rates for Vaccination and COVID-19 in Denmark (retracted)"
 slug: "similar-death-rates-for-vaccination-and-covid-19-in-denmark-retracted"
 aliases:
   - "/Similar+death+rates+for+Vaccination+and+COVID-19+in+Denmark+retracted+–+June+2021"
-  - "/tiki-index.php?page_id=12698"
+  - "/12698"
+tiki_page_id: 12698
 date: 2021-06-29
 categories:
   - "Virus"

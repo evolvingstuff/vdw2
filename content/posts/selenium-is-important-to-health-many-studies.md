@@ -3,7 +3,8 @@ title: "Selenium is important to health - many studies"
 slug: "selenium-is-important-to-health-many-studies"
 aliases:
   - "/Selenium+is+important+to+health+-+many+studies"
-  - "/tiki-index.php?page_id=14016"
+  - "/14016"
+tiki_page_id: 14016
 date: 2022-10-17
 categories:
   - "Supplement"

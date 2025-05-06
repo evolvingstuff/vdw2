@@ -3,7 +3,8 @@ title: "UK adults who took Vitamin D were 10 percent less likely to die"
 slug: "uk-adults-who-took-vitamin-d-were-10-percent-less-likely-to-die"
 aliases:
   - "/UK+adults+who+took+Vitamin+D+were+10+percent+less+likely+to+die+–+Oct+2022"
-  - "/tiki-index.php?page_id=13999"
+  - "/13999"
+tiki_page_id: 13999
 date: 2022-10-08
 categories:
   - "Mortality and D"

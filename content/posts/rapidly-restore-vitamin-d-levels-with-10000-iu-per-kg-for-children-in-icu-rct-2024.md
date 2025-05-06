@@ -3,7 +3,8 @@ title: "Rapidly restore Vitamin D levels with 10,000 IU per kg for children in I
 slug: "rapidly-restore-vitamin-d-levels-with-10000-iu-per-kg-for-children-in-icu-rct-2024"
 aliases:
   - "/Rapidly+restore+Vitamin+D+levels+with+10000+IU+per+kg+for+children+in+ICU+–+RCT+2024"
-  - "/tiki-index.php?page_id=10200"
+  - "/10200"
+tiki_page_id: 10200
 date: 2018-11-15
 categories:
   - "Trauma and surgery"

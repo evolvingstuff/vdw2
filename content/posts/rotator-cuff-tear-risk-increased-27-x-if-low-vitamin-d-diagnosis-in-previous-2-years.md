@@ -3,7 +3,8 @@ title: "Rotator Cuff Tear risk increased 2.7 X if low vitamin D diagnosis in pre
 slug: "rotator-cuff-tear-risk-increased-27-x-if-low-vitamin-d-diagnosis-in-previous-2-years"
 aliases:
   - "/Rotator+Cuff+Tear+risk+increased+27+X+if+low+vitamin+D+diagnosis+in+previous+2+years+–+Oct+2023"
-  - "/tiki-index.php?page_id=14784"
+  - "/14784"
+tiki_page_id: 14784
 date: 2023-10-26
 ---
 

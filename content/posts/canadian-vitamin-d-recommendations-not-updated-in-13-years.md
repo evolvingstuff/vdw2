@@ -3,7 +3,8 @@ title: "Canadian Vitamin D recommendations not updated in 13 years"
 slug: "canadian-vitamin-d-recommendations-not-updated-in-13-years"
 aliases:
   - "/Canadian+Vitamin+D+recommendations+not+updated+in+13+years+-+March+2023"
-  - "/tiki-index.php?page_id=14317"
+  - "/14317"
+tiki_page_id: 14317
 date: 2023-03-18
 categories:
   - "How much Vitamin D"

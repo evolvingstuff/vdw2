@@ -3,7 +3,8 @@ title: "1.5X more likely to die of Prostate Cancer if low vitamin D when initial
 slug: "15x-more-likely-to-die-of-prostate-cancer-if-low-vitamin-d-when-initially-diagnosed-meta-analysis"
 aliases:
   - "/15X+more+likely+to+die+of+Prostate+Cancer+if+low+vitamin+D+when+initially+diagnosed+–+meta-analysis+March+2024"
-  - "/tiki-index.php?page_id=15129"
+  - "/15129"
+tiki_page_id: 15129
 date: 2024-03-13
 categories:
   - "Cancer - Prostate"

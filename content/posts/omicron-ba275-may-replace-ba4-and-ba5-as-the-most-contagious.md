@@ -3,7 +3,8 @@ title: "Omicron BA.2.75 may replace BA.4 and BA.5 as the most contagious"
 slug: "omicron-ba275-may-replace-ba4-and-ba5-as-the-most-contagious"
 aliases:
   - "/Omicron+BA275+may+replace+BA4+and+BA5+as+the+most+contagious+-+July+8+2022"
-  - "/tiki-index.php?page_id=13744"
+  - "/13744"
+tiki_page_id: 13744
 date: 2022-07-10
 categories:
   - "Virus"

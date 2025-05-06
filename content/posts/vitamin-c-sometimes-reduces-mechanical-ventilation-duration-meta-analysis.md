@@ -3,7 +3,8 @@ title: "Vitamin C sometimes reduces mechanical ventilation duration – meta-ana
 slug: "vitamin-c-sometimes-reduces-mechanical-ventilation-duration-meta-analysis"
 aliases:
   - "/Vitamin+C+sometimes+reduces+mechanical+ventilation+duration+–+meta-analysis+Feb+2020"
-  - "/tiki-index.php?page_id=11683"
+  - "/11683"
+tiki_page_id: 11683
 date: 2020-03-16
 categories:
   - "Breathing"

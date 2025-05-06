@@ -3,7 +3,8 @@ title: "Prediction: Vitamin D levels will continue dropping for decades"
 slug: "prediction-vitamin-d-levels-will-continue-dropping-for-decades"
 aliases:
   - "/Prediction+Vitamin+D+levels+will+continue+dropping+for+decades"
-  - "/tiki-index.php?page_id=11033"
+  - "/11033"
+tiki_page_id: 11033
 date: 2019-07-30
 categories:
   - "Deficiency of Vitamin D"

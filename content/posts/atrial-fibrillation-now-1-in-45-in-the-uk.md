@@ -3,7 +3,8 @@ title: "Atrial Fibrillation - now 1 in 45 in the UK"
 slug: "atrial-fibrillation-now-1-in-45-in-the-uk"
 aliases:
   - "/Atrial+Fibrillation+-+now+1+in+45+in+the+UK+-+May+2023"
-  - "/tiki-index.php?page_id=14447"
+  - "/14447"
+tiki_page_id: 14447
 date: 2023-05-26
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Low vitamin D in Malaysia (85 percent less than 30 ng) – meta-analysis
 slug: "low-vitamin-d-in-malaysia-85-percent-less-than-30-ng-meta-analysis"
 aliases:
   - "/Low+vitamin+D+in+Malaysia+85+percent+less+than+30+ng+–+meta-analysis+Nov+2022"
-  - "/tiki-index.php?page_id=14129"
+  - "/14129"
+tiki_page_id: 14129
 date: 2022-12-05
 categories:
   - "Deficiency of Vitamin D"

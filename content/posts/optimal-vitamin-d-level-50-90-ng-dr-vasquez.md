@@ -3,7 +3,8 @@ title: "Optimal Vitamin D level: 50-90 ng - Dr. Vasquez"
 slug: "optimal-vitamin-d-level-50-90-ng-dr-vasquez"
 aliases:
   - "/Optimal+Vitamin+D+level+50-90+ng+-+Dr+Vasquez"
-  - "/tiki-index.php?page_id=13408"
+  - "/13408"
+tiki_page_id: 13408
 date: 2022-03-17
 categories:
   - "Optimum"

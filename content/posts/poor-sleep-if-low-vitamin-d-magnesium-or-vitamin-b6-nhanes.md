@@ -3,7 +3,8 @@ title: "Poor sleep if low Vitamin D, Magnesium, or Vitamin B6 (NHANES)"
 slug: "poor-sleep-if-low-vitamin-d-magnesium-or-vitamin-b6-nhanes"
 aliases:
   - "/Poor+sleep+if+low+Vitamin+D+Magnesium+or+Vitamin+B6+NHANES+–+June+2019"
-  - "/tiki-index.php?page_id=10912"
+  - "/10912"
+tiki_page_id: 10912
 date: 2019-06-22
 ---
 

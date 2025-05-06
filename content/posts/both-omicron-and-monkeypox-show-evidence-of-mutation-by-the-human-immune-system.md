@@ -3,7 +3,8 @@ title: "Both Omicron and Monkeypox show evidence of mutation by the human immune
 slug: "both-omicron-and-monkeypox-show-evidence-of-mutation-by-the-human-immune-system"
 aliases:
   - "/Both+Omicron+and+Monkeypox+show+evidence+of+mutation+by+the+human+immune+system+–+June+2022"
-  - "/tiki-index.php?page_id=13708"
+  - "/13708"
+tiki_page_id: 13708
 date: 2022-06-24
 categories:
   - "Virus"

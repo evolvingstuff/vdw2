@@ -3,7 +3,8 @@ title: "COVID, like influenza, may be able to mutate to avoid vaccines for decad
 slug: "covid-like-influenza-may-be-able-to-mutate-to-avoid-vaccines-for-decades"
 aliases:
   - "/COVID+like+influenza+may+be+able+to+mutate+to+avoid+vaccines+for+decades+-+March+2022"
-  - "/tiki-index.php?page_id=13440"
+  - "/13440"
+tiki_page_id: 13440
 date: 2022-03-29
 categories:
   - "Virus"

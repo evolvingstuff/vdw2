@@ -3,7 +3,8 @@ title: "Poor bone health is a ‘robust’ dementia risk factor (both associated
 slug: "poor-bone-health-is-a-robust-dementia-risk-factor-both-associated-with-low-vitamin-d"
 aliases:
   - "/Poor+bone+health+is+a+robust+dementia+risk+factor+both+associated+with+Low+vitamin+D+-+March+2023"
-  - "/tiki-index.php?page_id=14343"
+  - "/14343"
+tiki_page_id: 14343
 date: 2023-03-31
 categories:
   - "Cognitive"

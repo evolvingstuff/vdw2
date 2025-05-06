@@ -3,7 +3,8 @@ title: "Vitamin K1 or Vitamin K2 may decrease COVID-19 deaths"
 slug: "vitamin-k1-or-vitamin-k2-may-decrease-covid-19-deaths"
 aliases:
   - "/Vitamin+K1+or+Vitamin+K2+may+decrease+COVID-19+deaths+-+Feb+2021"
-  - "/tiki-index.php?page_id=12506"
+  - "/12506"
+tiki_page_id: 12506
 date: 2021-04-16
 categories:
   - "Vitamin D and Vitamin K"

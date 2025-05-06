@@ -3,7 +3,8 @@ title: "Covid was vanishing last Memorial Day. Cases are five times higher now"
 slug: "covid-was-vanishing-last-memorial-day-cases-are-five-times-higher-now"
 aliases:
   - "/Covid+was+vanishing+last+Memorial+Day+Cases+are+five+times+higher+now+-+May+28+2022"
-  - "/tiki-index.php?page_id=13606"
+  - "/13606"
+tiki_page_id: 13606
 date: 2022-05-28
 categories:
   - "Virus"

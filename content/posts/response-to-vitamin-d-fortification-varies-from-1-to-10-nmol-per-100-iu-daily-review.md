@@ -3,7 +3,8 @@ title: "Response to Vitamin D fortification varies from 1 to 10 nmol per 100 IU 
 slug: "response-to-vitamin-d-fortification-varies-from-1-to-10-nmol-per-100-iu-daily-review"
 aliases:
   - "/Response+to+Vitamin+D+fortification+varies+from+1+to+10+nmol+per+100+IU+daily+–+review+Aug+2023"
-  - "/tiki-index.php?page_id=14646"
+  - "/14646"
+tiki_page_id: 14646
 date: 2023-08-29
 categories:
   - "Fortification with Vitamin D"

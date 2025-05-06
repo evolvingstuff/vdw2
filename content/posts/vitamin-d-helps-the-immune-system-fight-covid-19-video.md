@@ -3,7 +3,8 @@ title: "Vitamin D helps the immune system fight COVID-19 – video"
 slug: "vitamin-d-helps-the-immune-system-fight-covid-19-video"
 aliases:
   - "/Vitamin+D+helps+the+immune+system+fight+COVID-19+–+video+Jan+21+2021"
-  - "/tiki-index.php?page_id=12258"
+  - "/12258"
+tiki_page_id: 12258
 date: 2021-01-25
 categories:
   - "Books, videos on Vitamin D"

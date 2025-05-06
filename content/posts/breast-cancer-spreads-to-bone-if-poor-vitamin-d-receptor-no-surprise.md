@@ -3,7 +3,8 @@ title: "Breast cancer spreads to bone if poor vitamin D Receptor (no surprise)"
 slug: "breast-cancer-spreads-to-bone-if-poor-vitamin-d-receptor-no-surprise"
 aliases:
   - "/Breast+cancer+spreads+to+bone+if+poor+vitamin+D+Receptor+no+surprise+–+Oct+2022"
-  - "/tiki-index.php?page_id=14062"
+  - "/14062"
+tiki_page_id: 14062
 date: 2022-10-31
 categories:
   - "Cancer - Breast"

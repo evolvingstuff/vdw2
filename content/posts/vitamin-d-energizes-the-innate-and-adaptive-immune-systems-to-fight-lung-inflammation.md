@@ -3,7 +3,8 @@ title: "Vitamin D energizes the innate and adaptive immune systems to fight lung
 slug: "vitamin-d-energizes-the-innate-and-adaptive-immune-systems-to-fight-lung-inflammation"
 aliases:
   - "/Vitamin+D+energizes+the+innate+and+adaptive+immune+systems+to+fight+lung+inflammation+–+Sept+2022"
-  - "/tiki-index.php?page_id=13920"
+  - "/13920"
+tiki_page_id: 13920
 date: 2022-09-19
 categories:
   - "Breathing"

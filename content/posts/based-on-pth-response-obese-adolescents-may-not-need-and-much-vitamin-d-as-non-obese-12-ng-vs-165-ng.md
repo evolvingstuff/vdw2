@@ -3,7 +3,8 @@ title: "Based on PTH response, obese adolescents may not need and much vitamin D
 slug: "based-on-pth-response-obese-adolescents-may-not-need-and-much-vitamin-d-as-non-obese-12-ng-vs-165-ng"
 aliases:
   - "/Based+on+PTH+response+obese+adolescents+may+not+need+and+much+vitamin+D+as+non-obese+12+ng+vs+165+ng+–+June+2021"
-  - "/tiki-index.php?page_id=12652"
+  - "/12652"
+tiki_page_id: 12652
 date: 2021-06-12
 categories:
   - "Obesity"

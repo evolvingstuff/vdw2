@@ -3,7 +3,8 @@ title: "NCAA trainers are getting on board the Vitamin D train (40-50 ng)"
 slug: "ncaa-trainers-are-getting-on-board-the-vitamin-d-train-40-50-ng"
 aliases:
   - "/NCAA+trainers+are+getting+on+board+the+Vitamin+D+train+40-50+ng–+Nov+2019"
-  - "/tiki-index.php?page_id=11353"
+  - "/11353"
+tiki_page_id: 11353
 date: 2019-11-16
 categories:
   - "Sports and Vitamin D"

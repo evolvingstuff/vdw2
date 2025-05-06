@@ -3,7 +3,8 @@ title: "Death after pre-hypertension 4X more likely if very low Vitamin D"
 slug: "death-after-pre-hypertension-4x-more-likely-if-very-low-vitamin-d"
 aliases:
   - "/Death+after+pre-hypertension+4X+more+likely+if+very+low+Vitamin+D+–+Feb+2024"
-  - "/tiki-index.php?page_id=15035"
+  - "/15035"
+tiki_page_id: 15035
 date: 2024-02-07
 categories:
   - "Hypertension"

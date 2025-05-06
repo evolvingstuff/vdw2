@@ -3,7 +3,8 @@ title: "If smoke, try Vitamin D - reduce damage or help quit - 2012"
 slug: "if-smoke-try-vitamin-d-reduce-damage-or-help-quit-2012"
 aliases:
   - "/If+smoke+try+Vitamin+D+-+reduce+damage+or+help+quit+-+2012"
-  - "/tiki-index.php?page_id=10182"
+  - "/10182"
+tiki_page_id: 10182
 date: 2018-11-03
 categories:
   - "Breathing"

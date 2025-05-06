@@ -3,7 +3,8 @@ title: "Vitamin D-disease associations vary with the type of study – RCT, Obse
 slug: "vitamin-d-disease-associations-vary-with-the-type-of-study-rct-observational-mr"
 aliases:
   - "/Vitamin+D-disease+associations+vary+with+the+type+of+study+–+RCT+Observational+MR+-+July+2022"
-  - "/tiki-index.php?page_id=14466"
+  - "/14466"
+tiki_page_id: 14466
 date: 2023-06-03
 categories:
   - "Meta-analysis of Vitamin D"

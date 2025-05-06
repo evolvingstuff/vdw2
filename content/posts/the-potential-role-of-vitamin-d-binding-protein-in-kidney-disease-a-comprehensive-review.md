@@ -3,7 +3,8 @@ title: "The potential role of vitamin D binding protein in kidney disease: a com
 slug: "the-potential-role-of-vitamin-d-binding-protein-in-kidney-disease-a-comprehensive-review"
 aliases:
   - "/The+potential+role+of+vitamin+D+binding+protein+in+kidney+disease+a+comprehensive+review+–+Jan+2024"
-  - "/tiki-index.php?page_id=15020"
+  - "/15020"
+tiki_page_id: 15020
 date: 2024-02-02
 categories:
   - "Kidney"

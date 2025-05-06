@@ -3,7 +3,8 @@ title: "Omega-3 decreases heart disease and COVID: Harris and Patrick, video and
 slug: "omega-3-decreases-heart-disease-and-covid-harris-and-patrick-video-and-transcript"
 aliases:
   - "/Omega-3+decreases+heart+disease+and+COVID+Harris+and+Patrick+video+and+transcript+-+Dec+2021"
-  - "/tiki-index.php?page_id=13153"
+  - "/13153"
+tiki_page_id: 13153
 date: 2021-12-07
 categories:
   - "Cardiovascular"

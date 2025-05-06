@@ -3,7 +3,8 @@ title: "Severe COVID 1.8 X more likely in pregnant women with less than 15 ng of
 slug: "severe-covid-18-x-more-likely-in-pregnant-women-with-less-than-15-ng-of-vitamin-d"
 aliases:
   - "/Severe+COVID+18+X+more+likely+in+pregnant+women+with+less+than+15+ng+of+vitamin+D+–+Nov+2022"
-  - "/tiki-index.php?page_id=14105"
+  - "/14105"
+tiki_page_id: 14105
 date: 2022-11-24
 ---
 

@@ -3,7 +3,8 @@ title: "Vitamin D and COVID-19: Video and PDF by Dr. Grant (includes recommendat
 slug: "vitamin-d-and-covid-19-video-and-pdf-by-dr-grant-includes-recommendations"
 aliases:
   - "/Vitamin+D+and+COVID-19+Video+and+PDF+by+Dr+Grant+includes+recommendations-+Nov+25+2020"
-  - "/tiki-index.php?page_id=12088"
+  - "/12088"
+tiki_page_id: 12088
 date: 2020-11-25
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Osteoporosis consensus includes Vitamin D and Calcium (Ecuador)"
 slug: "osteoporosis-consensus-includes-vitamin-d-and-calcium-ecuador"
 aliases:
   - "/Osteoporosis+consensus+includes+Vitamin+D+and+Calcium+Ecuador+–+June+2023"
-  - "/tiki-index.php?page_id=14485"
+  - "/14485"
+tiki_page_id: 14485
 date: 2023-06-15
 categories:
   - "Osteoporosis"

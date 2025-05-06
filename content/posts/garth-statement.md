@@ -3,7 +3,8 @@ title: "Garth statement"
 slug: "garth-statement"
 aliases:
   - "/Garth+statement"
-  - "/tiki-index.php?page_id=12020"
+  - "/12020"
+tiki_page_id: 12020
 date: 2020-10-22
 categories:
   - "Admin Only"

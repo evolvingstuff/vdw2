@@ -3,7 +3,8 @@ title: "Zinc therapy for COVID-19"
 slug: "zinc-therapy-for-covid-19"
 aliases:
   - "/Zinc+therapy+for+COVID-19+–+Feb+2021"
-  - "/tiki-index.php?page_id=12515"
+  - "/12515"
+tiki_page_id: 12515
 date: 2021-04-18
 categories:
   - "Virus"

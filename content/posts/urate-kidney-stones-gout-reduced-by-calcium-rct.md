@@ -3,7 +3,8 @@ title: "Urate (kidney stones, gout) reduced by Calcium – RCT"
 slug: "urate-kidney-stones-gout-reduced-by-calcium-rct"
 aliases:
   - "/Urate+kidney+stones+gout+reduced+by+Calcium+–+RCT+June+2022"
-  - "/tiki-index.php?page_id=13609"
+  - "/13609"
+tiki_page_id: 13609
 date: 2022-05-29
 categories:
   - "Vitamin D and Calcium"

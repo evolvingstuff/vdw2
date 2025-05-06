@@ -3,7 +3,8 @@ title: "Immune system - great 11-minute animated video"
 slug: "immune-system-great-11-minute-animated-video"
 aliases:
   - "/Immune+system+-+great+11-minute+animated+video+-+Aug+2021"
-  - "/tiki-index.php?page_id=12825"
+  - "/12825"
+tiki_page_id: 12825
 date: 2021-08-14
 categories:
   - "Books, videos on Vitamin D"

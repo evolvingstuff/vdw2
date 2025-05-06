@@ -3,7 +3,8 @@ title: "Omega-3 improves pregnancies – Meta-analysis"
 slug: "omega-3-improves-pregnancies-meta-analysis"
 aliases:
   - "/Omega-3+improves+pregnancies+–+Meta-analysis+May+2022"
-  - "/tiki-index.php?page_id=13554"
+  - "/13554"
+tiki_page_id: 13554
 date: 2022-05-12
 categories:
   - "Pregnancy"

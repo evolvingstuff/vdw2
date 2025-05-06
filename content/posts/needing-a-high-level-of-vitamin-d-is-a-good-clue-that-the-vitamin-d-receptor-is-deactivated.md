@@ -3,7 +3,8 @@ title: "Needing a high level of vitamin D is a good clue that the Vitamin D Rece
 slug: "needing-a-high-level-of-vitamin-d-is-a-good-clue-that-the-vitamin-d-receptor-is-deactivated"
 aliases:
   - "/Needing+a+high+level+of+vitamin+D+is+a+good+clue+that+the+Vitamin+D+Receptor+is+deactivated"
-  - "/tiki-index.php?page_id=13000"
+  - "/13000"
+tiki_page_id: 13000
 date: 2021-10-17
 categories:
   - "Cancer"

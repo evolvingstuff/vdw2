@@ -3,7 +3,8 @@ title: "Nausea and vomiting while pregnant associated with low Vitamin D"
 slug: "nausea-and-vomiting-while-pregnant-associated-with-low-vitamin-d"
 aliases:
   - "/Nausea+and+vomiting+while+pregnant+associated+with+low+Vitamin+D"
-  - "/tiki-index.php?page_id=14774"
+  - "/14774"
+tiki_page_id: 14774
 date: 2023-10-23
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Inflammation causes low iron, which triggers long-COVID"
 slug: "inflammation-causes-low-iron-which-triggers-long-covid"
 aliases:
   - "/Inflammation+causes+low+iron+which+triggers+long-COVID+–+March+2024"
-  - "/tiki-index.php?page_id=15189"
+  - "/15189"
+tiki_page_id: 15189
 date: 2024-04-04
 categories:
   - "Vitamin D and Iron"

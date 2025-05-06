@@ -3,7 +3,8 @@ title: "Epstein Barr Virus and Chronic Fatigue Syndrome"
 slug: "epstein-barr-virus-and-chronic-fatigue-syndrome"
 aliases:
   - "/Epstein+Barr+Virus+and+Chronic+Fatigue+Syndrome"
-  - "/tiki-index.php?page_id=13176"
+  - "/13176"
+tiki_page_id: 13176
 date: 2021-12-12
 categories:
   - "Pain - chronic"

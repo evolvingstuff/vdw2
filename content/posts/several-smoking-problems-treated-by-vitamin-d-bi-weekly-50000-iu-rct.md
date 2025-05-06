@@ -3,7 +3,8 @@ title: "Several smoking problems treated by Vitamin D (bi-weekly, 50,000 IU) - R
 slug: "several-smoking-problems-treated-by-vitamin-d-bi-weekly-50000-iu-rct"
 aliases:
   - "/Several+smoking+problems+treated+by+Vitamin+D+bi-weekly+50000+IU+-+RCT+Dec+2021"
-  - "/tiki-index.php?page_id=13228"
+  - "/13228"
+tiki_page_id: 13228
 date: 2021-12-29
 categories:
   - "Breathing"

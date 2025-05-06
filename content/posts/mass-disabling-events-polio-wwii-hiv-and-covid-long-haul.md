@@ -3,7 +3,8 @@ title: "Mass disabling events: Polio, WWII, HIV, and COVID Long-Haul"
 slug: "mass-disabling-events-polio-wwii-hiv-and-covid-long-haul"
 aliases:
   - "/Mass+disabling+events+Polio+WWII+HIV+and+COVID+Long-Haul+-+June+2022"
-  - "/tiki-index.php?page_id=13642"
+  - "/13642"
+tiki_page_id: 13642
 date: 2022-06-06
 categories:
   - "Virus"

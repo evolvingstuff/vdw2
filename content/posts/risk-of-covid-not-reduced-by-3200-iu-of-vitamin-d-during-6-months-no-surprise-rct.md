@@ -3,7 +3,8 @@ title: "Risk of COVID not reduced by 3,200 IU of vitamin D during 6 months (no s
 slug: "risk-of-covid-not-reduced-by-3200-iu-of-vitamin-d-during-6-months-no-surprise-rct"
 aliases:
   - "/Risk+of+COVID+not+reduced+by+3200+IU+of+vitamin+D+during+6+months+no+surprise+–+RCT+March+2022"
-  - "/tiki-index.php?page_id=13426"
+  - "/13426"
+tiki_page_id: 13426
 date: 2022-03-24
 categories:
   - "Intervention"

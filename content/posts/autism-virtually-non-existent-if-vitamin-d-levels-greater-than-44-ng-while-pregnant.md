@@ -3,7 +3,8 @@ title: "Autism virtually non-existent if vitamin D levels greater than 44 ng whi
 slug: "autism-virtually-non-existent-if-vitamin-d-levels-greater-than-44-ng-while-pregnant"
 aliases:
   - "/Autism+virtually+non-existent+if+vitamin+D+levels+greater+than+44+ng+while+pregnant+-+Dec+2023"
-  - "/tiki-index.php?page_id=14880"
+  - "/14880"
+tiki_page_id: 14880
 date: 2023-12-11
 ---
 

@@ -3,7 +3,8 @@ title: "More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng)"
 slug: "more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng"
 aliases:
   - "/More+than+30+ng+of+vitamin+D+is+sometimes+needed+Kidney+needs+50+ng+–+March+2019"
-  - "/tiki-index.php?page_id=11305"
+  - "/11305"
+tiki_page_id: 11305
 date: 2019-11-03
 categories:
   - "Kidney"

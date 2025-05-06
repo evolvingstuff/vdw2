@@ -3,7 +3,8 @@ title: "Shorter reproductive livespan in women is 1.5X more likely if low vitami
 slug: "shorter-reproductive-livespan-in-women-is-15x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Shorter+reproductive+livespan+in+women+is+15X+more+likely+if+low+vitamin+D+–+Oct+2023"
-  - "/tiki-index.php?page_id=14677"
+  - "/14677"
+tiki_page_id: 14677
 date: 2023-09-12
 categories:
   - "Women"

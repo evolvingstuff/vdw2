@@ -3,7 +3,8 @@ title: "Anemia 8X more likely in infants if low vitamin D"
 slug: "anemia-8x-more-likely-in-infants-if-low-vitamin-d"
 aliases:
   - "/Anemia+8X+more+likely+in+infants+if+low+vitamin+D+–+Sept+2023"
-  - "/tiki-index.php?page_id=14668"
+  - "/14668"
+tiki_page_id: 14668
 date: 2023-09-07
 categories:
   - "Infant-Child"

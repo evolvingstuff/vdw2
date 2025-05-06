@@ -3,7 +3,8 @@ title: "Peanut and Food allergies prevented by Vitamin D"
 slug: "peanut-and-food-allergies-prevented-by-vitamin-d"
 aliases:
   - "/Peanut+and+Food+allergies+prevented+by+Vitamin+D"
-  - "/tiki-index.php?page_id=10919"
+  - "/10919"
+tiki_page_id: 10919
 date: 2019-06-24
 categories:
   - "Autoimmune"

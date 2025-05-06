@@ -3,7 +3,8 @@ title: "Vitamin D can provide HEALTH immunity to fight the Corona virus this fal
 slug: "vitamin-d-can-provide-health-immunity-to-fight-the-corona-virus-this-fall"
 aliases:
   - "/Vitamin+D+can+provide+HEALTH+immunity+to+fight+the+Corona+virus+this+fall+-+Aug+2022"
-  - "/tiki-index.php?page_id=13835"
+  - "/13835"
+tiki_page_id: 13835
 date: 2022-08-09
 categories:
   - "Virus"

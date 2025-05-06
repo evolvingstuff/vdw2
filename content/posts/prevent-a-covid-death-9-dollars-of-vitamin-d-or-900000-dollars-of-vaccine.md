@@ -3,7 +3,8 @@ title: "Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vacc
 slug: "prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine"
 aliases:
   - "/Prevent+a+COVID+death+9+dollars+of+Vitamin+D+or+900000+dollars+of+vaccine+-+Aug+2023"
-  - "/tiki-index.php?page_id=14092"
+  - "/14092"
+tiki_page_id: 14092
 date: 2022-11-17
 categories:
   - "Mortality and D"

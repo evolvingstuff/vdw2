@@ -3,7 +3,8 @@ title: "Fasting and Diabetes both reduce Vitamin D activation (CYP2R1 in rodents
 slug: "fasting-and-diabetes-both-reduce-vitamin-d-activation-cyp2r1-in-rodents"
 aliases:
   - "/Fasting+and+Diabetes+both+reduce+Vitamin+D+activation+CYP2R1+in+rodents+–+May+2019"
-  - "/tiki-index.php?page_id=11370"
+  - "/11370"
+tiki_page_id: 11370
 date: 2019-11-19
 categories:
   - "Diabetes"

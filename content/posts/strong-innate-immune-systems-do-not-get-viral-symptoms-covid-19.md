@@ -3,7 +3,8 @@ title: "Strong innate immune systems do not get viral symptoms (COVID-19)"
 slug: "strong-innate-immune-systems-do-not-get-viral-symptoms-covid-19"
 aliases:
   - "/Strong+innate+immune+systems+do+not+get+viral+symptoms+COVID-19+–+April+2021"
-  - "/tiki-index.php?page_id=12482"
+  - "/12482"
+tiki_page_id: 12482
 date: 2021-04-08
 categories:
   - "Immunity"

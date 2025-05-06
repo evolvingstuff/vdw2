@@ -3,7 +3,8 @@ title: "LONG-COVID may be permanent in 1 in 200 of people infected"
 slug: "long-covid-may-be-permanent-in-1-in-200-of-people-infected"
 aliases:
   - "/LONG-COVID+may+be+permanent+in+1+in+200+of+people+infected+–+July+2022"
-  - "/tiki-index.php?page_id=13826"
+  - "/13826"
+tiki_page_id: 13826
 date: 2022-08-06
 categories:
   - "Virus"

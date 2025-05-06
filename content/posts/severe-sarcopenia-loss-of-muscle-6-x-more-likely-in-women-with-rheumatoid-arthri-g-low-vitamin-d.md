@@ -3,7 +3,8 @@ title: "Severe sarcopenia (loss of muscle) 6 X more likely in women with rheumat
 slug: "severe-sarcopenia-loss-of-muscle-6-x-more-likely-in-women-with-rheumatoid-arthri-g-low-vitamin-d"
 aliases:
   - "/Severe+sarcopenia+loss+of+muscle+6+X+more+likely+in+women+with+rheumatoid+arthritis+having+low+vitamin+D+–+Oct+2021"
-  - "/tiki-index.php?page_id=12994"
+  - "/12994"
+tiki_page_id: 12994
 date: 2021-10-16
 categories:
   - "Rheumatoid Arthritis"

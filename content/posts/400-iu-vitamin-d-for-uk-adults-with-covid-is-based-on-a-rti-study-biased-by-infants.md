@@ -3,7 +3,8 @@ title: "400 IU Vitamin D for UK adults with COVID is based on a RTI study biased
 slug: "400-iu-vitamin-d-for-uk-adults-with-covid-is-based-on-a-rti-study-biased-by-infants"
 aliases:
   - "/400+IU+Vitamin+D+for+UK+adults+with+COVID+is+based+on+a+RTI+study+biased+by+infants+-+Jan+2021"
-  - "/tiki-index.php?page_id=12180"
+  - "/12180"
+tiki_page_id: 12180
 date: 2020-12-29
 categories:
   - "Virus"

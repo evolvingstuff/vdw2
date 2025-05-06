@@ -3,7 +3,8 @@ title: "Psoriasis increases risk of Obstructive Sleep Apnea by 1.4X (vitamin D n
 slug: "psoriasis-increases-risk-of-obstructive-sleep-apnea-by-14x-vitamin-d-not-mentioned"
 aliases:
   - "/Psoriasis+increases+risk+of+Obstructive+Sleep+Apnea+by+14X+vitamin+D+not+mentioned+-+Dec+2023"
-  - "/tiki-index.php?page_id=14867"
+  - "/14867"
+tiki_page_id: 14867
 date: 2023-12-05
 categories:
   - "Psoriasis"

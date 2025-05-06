@@ -3,7 +3,8 @@ title: "Vitamin D Receptor summary"
 slug: "vitamin-d-receptor-summary"
 aliases:
   - "/Vitamin+D+Receptor+summary"
-  - "/tiki-index.php?page_id=10786"
+  - "/10786"
+tiki_page_id: 10786
 date: 2019-05-17
 categories:
   - "Vitamin D Receptor"

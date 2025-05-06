@@ -3,7 +3,8 @@ title: "Antibody response to COVID vaccination appears independent of Vitamin D 
 slug: "antibody-response-to-covid-vaccination-appears-independent-of-vitamin-d-levels"
 aliases:
   - "/Antibody+response+to+COVID+vaccination+appears+independent+of+Vitamin+D+levels+–+Nov+2021"
-  - "/tiki-index.php?page_id=13118"
+  - "/13118"
+tiki_page_id: 13118
 date: 2021-11-27
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "The more COVID vaccine jabs, the more Omicron infections"
 slug: "the-more-covid-vaccine-jabs-the-more-omicron-infections"
 aliases:
   - "/The+more+COVID+vaccine+jabs+the+more+Omicron+infections+-+Dec+16+2021"
-  - "/tiki-index.php?page_id=13198"
+  - "/13198"
+tiki_page_id: 13198
 date: 2021-12-17
 categories:
   - "Virus"

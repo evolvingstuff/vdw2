@@ -3,7 +3,8 @@ title: "Large Toronto Study on Paxlovid vaccination: 62% had Adverse Events"
 slug: "large-toronto-study-on-paxlovid-vaccination-62-percent-had-adverse-events"
 aliases:
   - "/Large+Toronto+Study+on+Paxlovid+vaccination+62+had+Adverse+Events+-+Oct+2023"
-  - "/tiki-index.php?page_id=14772"
+  - "/14772"
+tiki_page_id: 14772
 date: 2023-10-23
 categories:
   - "Virus"

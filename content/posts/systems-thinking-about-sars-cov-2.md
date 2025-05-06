@@ -3,7 +3,8 @@ title: "Systems Thinking About SARS-CoV-2"
 slug: "systems-thinking-about-sars-cov-2"
 aliases:
   - "/Systems+Thinking+About+SARS-CoV-2+-+Oct+2020"
-  - "/tiki-index.php?page_id=12033"
+  - "/12033"
+tiki_page_id: 12033
 date: 2020-10-29
 categories:
   - "Virus"

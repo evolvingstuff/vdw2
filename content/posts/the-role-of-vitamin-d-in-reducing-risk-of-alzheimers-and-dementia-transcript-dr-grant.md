@@ -3,7 +3,8 @@ title: "The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - t
 slug: "the-role-of-vitamin-d-in-reducing-risk-of-alzheimers-and-dementia-transcript-dr-grant"
 aliases:
   - "/The+Role+of+Vitamin+D+in+Reducing+Risk+of+Alzheimers+and+Dementia+-+transcript+Dr+Grant+March+2023"
-  - "/tiki-index.php?page_id=14306"
+  - "/14306"
+tiki_page_id: 14306
 date: 2023-03-12
 categories:
   - "Cognitive"

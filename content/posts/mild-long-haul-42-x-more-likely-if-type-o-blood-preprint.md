@@ -3,7 +3,8 @@ title: "Mild Long-Haul 4.2 X more likely if type O blood - preprint"
 slug: "mild-long-haul-42-x-more-likely-if-type-o-blood-preprint"
 aliases:
   - "/Mild+Long-Haul+42+X+more+likely+if+type+O+blood+-+preprint+March+16+2022"
-  - "/tiki-index.php?page_id=13418"
+  - "/13418"
+tiki_page_id: 13418
 date: 2022-03-20
 categories:
   - "Virus"

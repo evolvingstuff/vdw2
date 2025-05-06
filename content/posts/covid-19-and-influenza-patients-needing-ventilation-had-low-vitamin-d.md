@@ -3,7 +3,8 @@ title: "COVID-19 and Influenza patients needing ventilation had low Vitamin D"
 slug: "covid-19-and-influenza-patients-needing-ventilation-had-low-vitamin-d"
 aliases:
   - "/COVID-19+and+Influenza+patients+needing+ventilation+had+low+Vitamin+D+–+Oct+2021"
-  - "/tiki-index.php?page_id=13013"
+  - "/13013"
+tiki_page_id: 13013
 date: 2021-10-22
 categories:
   - "Virus"

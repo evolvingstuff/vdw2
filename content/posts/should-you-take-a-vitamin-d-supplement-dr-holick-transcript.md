@@ -3,7 +3,8 @@ title: "Should You Take A Vitamin D Supplement - Dr Holick transcript"
 slug: "should-you-take-a-vitamin-d-supplement-dr-holick-transcript"
 aliases:
   - "/Should+You+Take+A+Vitamin+D+Supplement+-+Dr+Holick+transcript+Oct+2022"
-  - "/tiki-index.php?page_id=14847"
+  - "/14847"
+tiki_page_id: 14847
 date: 2023-11-27
 ---
 

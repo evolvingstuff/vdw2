@@ -3,7 +3,8 @@ title: "Country noticed that their youths need more Vitamin D (Norway this time)
 slug: "country-noticed-that-their-youths-need-more-vitamin-d-norway-this-time"
 aliases:
   - "/Country+noticed+that+their+youths+need+more+Vitamin+D+Norway+this+time+–+Feb+2024"
-  - "/tiki-index.php?page_id=15049"
+  - "/15049"
+tiki_page_id: 15049
 date: 2024-02-13
 categories:
   - "Deficiency of Vitamin D"

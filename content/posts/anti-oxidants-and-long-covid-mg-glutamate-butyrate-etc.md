@@ -3,7 +3,8 @@ title: "Anti-oxidants and Long-Covid (Mg, Glutamate, Butyrate, etc)"
 slug: "anti-oxidants-and-long-covid-mg-glutamate-butyrate-etc"
 aliases:
   - "/Anti-oxidants+and+Long-Covid+Mg+Glutamate+Butyrate+etc+–+Sept+2022"
-  - "/tiki-index.php?page_id=13966"
+  - "/13966"
+tiki_page_id: 13966
 date: 2022-10-02
 categories:
   - "Virus"

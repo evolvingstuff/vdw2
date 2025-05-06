@@ -3,7 +3,8 @@ title: "Vitamin D level of outdoor workers in India was only 18 ng"
 slug: "vitamin-d-level-of-outdoor-workers-in-india-was-only-18-ng"
 aliases:
   - "/Vitamin+D+level+of+outdoor+workers+in+India+was+only+18+ng–+May+2019"
-  - "/tiki-index.php?page_id=10777"
+  - "/10777"
+tiki_page_id: 10777
 date: 2019-05-16
 categories:
   - "Skin - Dark"

@@ -3,7 +3,8 @@ title: "Far better sperm in fertility clinic if more than 30 ng of Vitamin D"
 slug: "far-better-sperm-in-fertility-clinic-if-more-than-30-ng-of-vitamin-d"
 aliases:
   - "/Far+better+sperm+in+fertility+clinic+if+more+than+30+ng+of+Vitamin+D+-+June+2022"
-  - "/tiki-index.php?page_id=13677"
+  - "/13677"
+tiki_page_id: 13677
 date: 2022-06-15
 categories:
   - "Fertility and sperm"

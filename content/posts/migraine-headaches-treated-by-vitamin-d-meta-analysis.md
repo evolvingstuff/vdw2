@@ -3,7 +3,8 @@ title: "Migraine headaches treated by Vitamin D – meta-analysis"
 slug: "migraine-headaches-treated-by-vitamin-d-meta-analysis"
 aliases:
   - "/Migraine+headaches+treated+by+Vitamin+D+–+meta-analysis+Jan+2021"
-  - "/tiki-index.php?page_id=12230"
+  - "/12230"
+tiki_page_id: 12230
 date: 2021-01-16
 categories:
   - "Headache"

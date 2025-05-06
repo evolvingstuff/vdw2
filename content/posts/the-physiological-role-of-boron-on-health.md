@@ -3,7 +3,8 @@ title: "The Physiological Role of Boron on Health"
 slug: "the-physiological-role-of-boron-on-health"
 aliases:
   - "/The+Physiological+Role+of+Boron+on+Health+–+Nov+2018"
-  - "/tiki-index.php?page_id=10293"
+  - "/10293"
+tiki_page_id: 10293
 date: 2018-12-08
 categories:
   - "Bone - Health"

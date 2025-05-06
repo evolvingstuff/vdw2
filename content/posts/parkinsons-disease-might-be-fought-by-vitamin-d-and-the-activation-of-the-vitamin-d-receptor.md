@@ -3,7 +3,8 @@ title: "Parkinson’s Disease might be fought by Vitamin D and the activation of
 slug: "parkinsons-disease-might-be-fought-by-vitamin-d-and-the-activation-of-the-vitamin-d-receptor"
 aliases:
   - "/Parkinsons+Disease+might+be+fought+by+Vitamin+D+and+the+activation+of+the+Vitamin+D+Receptor+–+March+2022"
-  - "/tiki-index.php?page_id=13396"
+  - "/13396"
+tiki_page_id: 13396
 date: 2022-03-14
 categories:
   - "Parkinson"

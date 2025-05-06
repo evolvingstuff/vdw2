@@ -3,7 +3,8 @@ title: "Poor food, little intense exercise again associated with low Vitamin D (
 slug: "poor-food-little-intense-exercise-again-associated-with-low-vitamin-d-and-more-covid-19-in-this-case"
 aliases:
   - "/Poor+food+little+intense+exercise+again+associated+with+low+Vitamin+D+and+more+COVID-19+in+this+case+–+July+2021"
-  - "/tiki-index.php?page_id=12720"
+  - "/12720"
+tiki_page_id: 12720
 date: 2021-07-07
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Fully Vaccinated Are COVID 'Superspreaders,' says Inventor of mRNA Techn
 slug: "fully-vaccinated-are-covid-superspreaders-says-inventor-of-mrna-technology"
 aliases:
   - "/Fully+Vaccinated+Are+COVID+Superspreaders+says+Inventor+of+mRNA+Technology+-+Oct+13+2021"
-  - "/tiki-index.php?page_id=12991"
+  - "/12991"
+tiki_page_id: 12991
 date: 2021-10-15
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "12 UK MPs listened to COVID problems"
 slug: "12-uk-mps-listened-to-covid-problems"
 aliases:
   - "/12+UK+MPs+listened+to+COVID+problems+-+Dec+4+2023"
-  - "/tiki-index.php?page_id=14865"
+  - "/14865"
+tiki_page_id: 14865
 date: 2023-12-05
 categories:
   - "Virus"

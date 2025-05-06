@@ -3,7 +3,8 @@ title: "Vitamin D Receptor - activation and deactivation- self-hacked"
 slug: "vitamin-d-receptor-activation-and-deactivation-self-hacked"
 aliases:
   - "/Vitamin+D+Receptor+-+activation+and+deactivation-+self-hacked+June+2019"
-  - "/tiki-index.php?page_id=10988"
+  - "/10988"
+tiki_page_id: 10988
 date: 2019-07-14
 categories:
   - "Vitamin D Receptor"

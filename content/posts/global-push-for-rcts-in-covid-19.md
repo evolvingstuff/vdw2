@@ -3,7 +3,8 @@ title: "Global Push for RCTs in COVID-19"
 slug: "global-push-for-rcts-in-covid-19"
 aliases:
   - "/Global+Push+for+RCTs+in+COVID-19+-+April+4+2020"
-  - "/tiki-index.php?page_id=11716"
+  - "/11716"
+tiki_page_id: 11716
 date: 2020-04-06
 categories:
   - "Virus"

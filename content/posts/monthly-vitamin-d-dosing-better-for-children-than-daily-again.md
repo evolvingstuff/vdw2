@@ -3,7 +3,8 @@ title: "Monthly vitamin D dosing better for children than daily (again)"
 slug: "monthly-vitamin-d-dosing-better-for-children-than-daily-again"
 aliases:
   - "/Monthly+vitamin+D+dosing+better+for+children+than+daily+again+-+Oct+2023"
-  - "/tiki-index.php?page_id=14822"
+  - "/14822"
+tiki_page_id: 14822
 date: 2023-11-15
 categories:
   - "Intervention"

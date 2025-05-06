@@ -3,7 +3,8 @@ title: "COVID-19 deaths are proportional to previous interleukin-6 levels, Vitam
 slug: "covid-19-deaths-are-proportional-to-previous-interleukin-6-levels-vitamin-d-lowers-them"
 aliases:
   - "/COVID-19+deaths+are+proportional+to+previous+interleukin-6+levels+Vitamin+D+lowers+them+–+Nov+2020"
-  - "/tiki-index.php?page_id=12065"
+  - "/12065"
+tiki_page_id: 12065
 date: 2020-11-14
 categories:
   - "Inflammation"

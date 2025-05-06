@@ -3,7 +3,8 @@ title: "Low-energy fractures in children with low vitamin D - many studies"
 slug: "low-energy-fractures-in-children-with-low-vitamin-d-many-studies"
 aliases:
   - "/Low-energy+fractures+in+children+with+low+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14251"
+  - "/14251"
+tiki_page_id: 14251
 date: 2023-02-09
 categories:
   - "Infant-Child"

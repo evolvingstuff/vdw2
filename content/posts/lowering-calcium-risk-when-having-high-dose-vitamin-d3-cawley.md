@@ -3,7 +3,8 @@ title: "Lowering Calcium Risk when having High Dose Vitamin D3 – Cawley"
 slug: "lowering-calcium-risk-when-having-high-dose-vitamin-d3-cawley"
 aliases:
   - "/Lowering+Calcium+Risk+when+having+High+Dose+Vitamin+D3+–+Cawley+Dec+2019"
-  - "/tiki-index.php?page_id=11467"
+  - "/11467"
+tiki_page_id: 11467
 date: 2019-12-17
 categories:
   - "Kidney"

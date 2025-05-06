@@ -3,7 +3,8 @@ title: "Vitamin D Receptors in muscles decrease with age in those with Osteoporo
 slug: "vitamin-d-receptors-in-muscles-decrease-with-age-in-those-with-osteoporosis-2018"
 aliases:
   - "/Vitamin+D+Receptors+in+muscles+decrease+with+age+in+those+with+Osteoporosis+-+2018"
-  - "/tiki-index.php?page_id=14619"
+  - "/14619"
+tiki_page_id: 14619
 date: 2023-08-20
 categories:
   - "Seniors"

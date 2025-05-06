@@ -3,7 +3,8 @@ title: "Candida infections in PICU reduced by Vitamin D in yogurt – RCT"
 slug: "candida-infections-in-picu-reduced-by-vitamin-d-in-yogurt-rct"
 aliases:
   - "/Candida+infections+in+PICU+reduced+by+Vitamin+D+in+yogurt+–+RCT+Feb+2019"
-  - "/tiki-index.php?page_id=10502"
+  - "/10502"
+tiki_page_id: 10502
 date: 2019-02-20
 categories:
   - "Trauma and surgery"

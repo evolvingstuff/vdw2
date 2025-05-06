@@ -3,7 +3,8 @@ title: "Epstein-Barr Virus increases the risk of many health problems – many s
 slug: "epstein-barr-virus-increases-the-risk-of-many-health-problems-many-studies"
 aliases:
   - "/Epstein-Barr+Virus+increases+the+risk+of+many+health+problems+–+many+studies"
-  - "/tiki-index.php?page_id=13346"
+  - "/13346"
+tiki_page_id: 13346
 date: 2022-02-19
 categories:
   - "Virus"

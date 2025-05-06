@@ -3,7 +3,8 @@ title: "Nanoemulsion Vitamin D is faster and better - many studies"
 slug: "nanoemulsion-vitamin-d-is-faster-and-better-many-studies"
 aliases:
   - "/Nanoemulsion+Vitamin+D+is+faster+and+better+-+many+studies"
-  - "/tiki-index.php?page_id=12598"
+  - "/12598"
+tiki_page_id: 12598
 date: 2021-05-23
 categories:
   - "Forms of Vitamin D"

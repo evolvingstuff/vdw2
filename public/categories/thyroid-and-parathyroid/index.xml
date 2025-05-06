@@ -1,145 +1,182 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Thyroid and Parathyroid on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/thyroid-and-parathyroid/</link>
-    <description>Recent content in Thyroid and Parathyroid on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/thyroid-and-parathyroid/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Thyroidectomy and Vitamin D - many studies</title>
-      <link>http://localhost:1313/posts/thyroidectomy-and-vitamin-d-many-studies/</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/thyroidectomy-and-vitamin-d-many-studies/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery&lt;br&gt;&#xA;See &lt;a href=&#34;http://localhost:1313/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts&#34;&gt;Vitamin D is needed before most surgeries – many studies and RCTs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-status-in-patients-before-thyroidectomy---feb-2023&#34;&gt;Vitamin D Status in Patients before Thyroidectomy - Feb 2023&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#93000-thyroidectomies-in-us-annually---2020&#34;&gt;93,000 thyroidectomies in US annually - 2020&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-status-in-patients-before-thyroidectomy---feb-2023&#34;&gt;Vitamin D Status in Patients before Thyroidectomy - Feb 2023&lt;/h4&gt;&#xA;&lt;p&gt;Int. J. Mol. Sci. 2023, 24(4), 3228; &lt;a href=&#34;https://doi.org/10.3390/ijms24043228&#34;&gt;https://doi.org/10.3390/ijms24043228&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;by Dominika Maciejewska-Markiewicz 1ORCID,Joanna Kochman 1ORCID,Karolina Jakubczyk 1ORCID,Piotr Bargiel 2,*,Zbigniew Szlosser 2ORCID,Ewa Stachowska 1ORCID,Marta Markowska 2,Anna Bucka 3,Norbert Czapla 2,Jan Petriczko 2ORCID,Anna Surówka 2,Sonia Hertman 2,Piotr Puchalski 2 and Piotr Prowans 2&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PTH and Vitamin D - many studies</title>
-      <link>http://localhost:1313/posts/pth-and-vitamin-d-many-studies/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pth-and-vitamin-d-many-studies/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The decrease in PTH (&lt;span style=&#34;color:#F00;&#34;&gt;P&lt;/span&gt;ara&lt;span style=&#34;color:#F00;&#34;&gt;t&lt;/span&gt;hyroid &lt;span style=&#34;color:#F00;&#34;&gt;H&lt;/span&gt;ormone) is a good (only?) indicator that Vitamin D is actually getting into the cells&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#what-is-the-difference-between-the-intact-parathyroid-hormone-and-the-parathyroid-hormone-asked-ai&#34;&gt;What is the difference between the Intact Parathyroid Hormone and the Parathyroid Hormone (asked AI)&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;what-is-the-difference-between-the-intact-parathyroid-hormone-and-the-parathyroid-hormone-asked-ai&#34;&gt;What is the difference between the Intact Parathyroid Hormone and the Parathyroid Hormone (asked AI)&lt;/h4&gt;&#xA;&lt;p&gt;The difference between Intact Parathyroid Hormone (iPTH) and Parathyroid Hormone (PTH) primarily lies in the specific forms of the hormone that each assay measures and their clinical utility.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hashimoto&#39;s thyroiditis: Vitamin D was the most important of 11 variables</title>
-      <link>http://localhost:1313/posts/hashimotos-thyroiditis-vitamin-d-was-the-most-important-of-11-variables/</link>
-      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hashimotos-thyroiditis-vitamin-d-was-the-most-important-of-11-variables/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#prediction-models-constructed-for-hashimotos-thyroiditis-risk-based-on-clinical-and-laboratory-factors&#34;&gt;Prediction models constructed for Hashimoto&amp;rsquo;s thyroiditis risk based on clinical and laboratory factors&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;prediction-models-constructed-for-hashimotos-thyroiditis-risk-based-on-clinical-and-laboratory-factors&#34;&gt;Prediction models constructed for Hashimoto&amp;rsquo;s thyroiditis risk based on clinical and laboratory factors&lt;/h4&gt;&#xA;&lt;p&gt;Front Endocrinol (Lausanne) . 2022 Aug 8;13:886953. &lt;a href=&#34;https://doi.org/10.3389/fendo.2022.886953&#34;&gt;doi: 10.3389/fendo.2022.886953&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Peng Li  1 , Fang Liu  2 , Minsu Zhao  3 , Shaokai Xu  1 , Ping Li  1 , Jingang Cao  1 , Dongming Tian  1 , Yaopeng Tan  1 , Lina Zheng  2 , Xia Cao  2 , Yingxia Pan  4   5 , Hui Tang  4   5 , Yuanyuan Wu  4   5 , Yi Sun  1&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Maasai have PTH and bone resorption (CTX) circadian rhythms</title>
-      <link>http://localhost:1313/posts/maasai-have-pth-and-bone-resorption-ctx-circadian-rhythms/</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/maasai-have-pth-and-bone-resorption-ctx-circadian-rhythms/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#the-circadian-rhythm-of-calcium-and-bone-homeostasis-in-maasai&#34;&gt;The circadian rhythm of calcium and bone homeostasis in Maasai&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;the-circadian-rhythm-of-calcium-and-bone-homeostasis-in-maasai&#34;&gt;The circadian rhythm of calcium and bone homeostasis in Maasai&lt;/h4&gt;&#xA;&lt;p&gt;Am J Hum Biol. 2022 Apr 28;e23756. &lt;a href=&#34;https://doi.org/10.1002/ajhb.23756&#34;&gt;doi: 10.1002/ajhb.23756&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Anne Schou 1 2, Niklas Rye Jørgensen 3 4, Venance Phillip Maro 5, Kajiru Kilonzo 5, Kaushik Ramaiya 6, Joseph Sironga 5 7, Andreas Kryger Jensen 2 4, Dirk Lund Christensen 2 4, Peter Schwarz 1 4&lt;/p&gt;&#xA;&lt;p&gt;Objectives: Ethnic groups differ in prevalence of calcium-related diseases. Differences in the physiology and the endogenous circadian rhythm (CR) of calcium and bone homeostasis may play a role. Thus, we aimed to investigate details of CR pattern in calcium and bone homeostasis in East African Maasai.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vitamin D cannot distinguish between thyroid cancer and other thyroid problems – all have low levels</title>
-      <link>http://localhost:1313/posts/vitamin-d-cannot-distinguish-between-thyroid-cancer-and-other-thyroid-problems-all-have-low-levels/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-cannot-distinguish-between-thyroid-cancer-and-other-thyroid-problems-all-have-low-levels/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#serum-25-hydroxyvitamin-d-level-is-unreliable-as-a-risk-factor-and-prognostic-marker-in-papillary-thyroid-cancer&#34;&gt;Serum 25-hydroxyvitamin D level is unreliable as a risk factor and prognostic marker in papillary thyroid cancer&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;serum-25-hydroxyvitamin-d-level-is-unreliable-as-a-risk-factor-and-prognostic-marker-in-papillary-thyroid-cancer&#34;&gt;Serum 25-hydroxyvitamin D level is unreliable as a risk factor and prognostic marker in papillary thyroid cancer&lt;/h4&gt;&#xA;&lt;p&gt;Ann Transl Med. 2022 Feb;10(4):193. &lt;a href=&#34;https://doi.org/10.21037/atm-22-10.&#34;&gt;doi: 10.21037/atm-22-10.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jie Kuang # 1 2, Zhijian Jin # 1 2, Lingxie Chen # 1 2, Qiwu Zhao 1 2, Haiyan Huang 1 2, Zhuoran Liu 1 2, Weiping Yang 1 2, Haoran Feng 1 2, Zheyu Yang 1 2, Juan J Díez 3, Marc Pusztaszeri 4, Jung Min Kim 5, Elena Bonati 6, Xi Cheng 1 2, Jiqi Yan 1 2, Weihua Qiu 1 2&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>High Vitamin D associated with 3.4 X less risk of possibly Cancerous Thyroid Nodules</title>
-      <link>http://localhost:1313/posts/high-vitamin-d-associated-with-34-x-less-risk-of-possibly-cancerous-thyroid-nodules/</link>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/high-vitamin-d-associated-with-34-x-less-risk-of-possibly-cancerous-thyroid-nodules/</guid>
-      <description>&lt;h4 id=&#34;thyroid-nodules-and-its-association-with-vitamin-d-in-centenarians&#34;&gt;Thyroid nodules and its association with vitamin D in centenarians&lt;/h4&gt;&#xA;&lt;p&gt;Exp Gerontol. 2022 Feb 5;111730. &lt;a href=&#34;https://doi.org/10.1016/j.exger.2022.111730&#34;&gt;doi: 10.1016/j.exger.2022.111730&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jinzhuo Fan 1, Shihui Fu 2, Xianghui Chen 3, Yulong Li 4, Yali Zhao 5, Faqin Lv 6, Yao Yao 7&lt;/p&gt;&#xA;&lt;p&gt;Objectives: Thyroid Nodules (TNs) and hypovitaminosis D are common conditions in old people. Our objective was to determine the prevalence of benign and malignant thyroid nodules in centenarians and to examine their associations with serum vitamin D levels.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1.8 X more heart medicines needed by children after heart surgery if low Vitamin D</title>
-      <link>http://localhost:1313/posts/18-x-more-heart-medicines-needed-by-children-after-heart-surgery-if-low-vitamin-d/</link>
-      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/18-x-more-heart-medicines-needed-by-children-after-heart-surgery-if-low-vitamin-d/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/taking-vitamin-d-just-before-and-after-surgery-helps-open-heart-in-this-case-rct&#34;&gt;Taking Vitamin D just before and after surgery helps (open-heart in this case) – RCT Feb 2021&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/improve-your-health-before-surgery-prehabilitation-helps-your-recovery-2018&#34;&gt;Improve your health BEFORE surgery (prehabilitation) helps your recovery - 2018&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/pre-operative-vitamin-d-often-helps-thyroidectomy-in-this-case&#34;&gt;Pre-operative Vitamin D often helps (thyroidectomy in this case) – June 2021&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The relationship between vitamin D and cardiovascular health in children remains unclear. Vitamin D deficiency (VDD) is supposed to be a potential risk factor associated with poorer outcomes after congenital heart disease (CHD) surgery. The maximum vasoactive-inotropic use after cardiac surgery is considered to be a good predictor of adverse outcomes. We aimed to assess the correlation between preoperative VDD and the maximum vasoactive-inotropic score (VISmax) at 24 h postoperatively. Nine hundred children with CHD were enrolled in this study, and preoperative total serum 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; concentrations were measured by liquid chromatography-tandem mass spectrometry. Related demographic and clinical characteristics were collected. A total of 490 boys (54.4%) and 410 girls (45.6%) with a mean age of 1 year (range: 6 months-3 years) were enrolled. The median 25(OH)D level was 24.0 ng/mL, with 32.6% of patients having VDD &lt;a href=&#34;25(OH)D%20%3C%2020%20ng/mL&#34;&gt;25(OH)D &amp;lt; 20 ng/mL&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Parathyroid response to Vitamin D among obese</title>
-      <link>http://localhost:1313/posts/parathyroid-response-to-vitamin-d-among-obese/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/parathyroid-response-to-vitamin-d-among-obese/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Usually, as vitamin D levels are increased the parathyroid levels are decreased&lt;br&gt;&#xA;May not be the case for obese&lt;br&gt;&#xA;&lt;span style=&#34;color:#00F;&#34;&gt;Trying to figure out what this mean&lt;/span&gt;s&lt;br&gt;&#xA;This relationship between increased Vitamin D and decreased PTH&lt;br&gt;&#xA;    is a good indication that increased Vitamin d is actually getting to the cells, not just to the blood&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#pth-decreased-with-1000-iu-but-no-more-with-4000-iu-in-obese-blacks---2020&#34;&gt;PTH decreased with 1,000 IU, but no more with 4,000 IU in obese blacks - 2020&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#different-threshold-for-obese-adolescents---2021&#34;&gt;Different threshold for obese adolescents - 2021&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#perhaps-bioavailable-ia-a-better-measure-than-total-for-obese-children---2021&#34;&gt;Perhaps bioavailable ia a better measure than total for Obese Children - 2021&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#pth-children-obesity---2019&#34;&gt;PTH, Children, Obesity - 2019&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#39-pth-studies-in-vitamindwiki&#34;&gt;39 PTH studies in VitaminDWiki&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;pth-decreased-with-1000-iu-but-no-more-with-4000-iu-in-obese-blacks---2020&#34;&gt;PTH decreased with 1,000 IU, but no more with 4,000 IU in obese blacks - 2020&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Obesity and efficacy of vitamin D 3 supplementation in healthy black adults&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Parathyroid hormone level is inversely associated with both Vitamin D and age</title>
-      <link>http://localhost:1313/posts/parathyroid-hormone-level-is-inversely-associated-with-both-vitamin-d-and-age/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/parathyroid-hormone-level-is-inversely-associated-with-both-vitamin-d-and-age/</guid>
-      <description>&lt;h4 id=&#34;combined-effects-of-vitamin-d-status-renal-function-and-age-on-serum-parathyroid-hormone-levels&#34;&gt;Combined Effects of Vitamin D Status, Renal Function and Age on Serum Parathyroid Hormone Levels&lt;/h4&gt;&#xA;&lt;p&gt;Front Endocrinol (Lausanne) . 2021 Apr 30; &lt;a href=&#34;https://doi.org/10.3389/fendo.2021.657991.&#34;&gt;doi: 10.3389/fendo.2021.657991.&lt;/a&gt; eCollection 2021.&lt;/p&gt;&#xA;&lt;p&gt;Dan Alexandru Niculescu 1 2, Laura Georgiana Deacu 2, Andra Caragheorgheopol 3, Nicoleta Popescu 4, Adina Ghemigian 5, Camelia Procopiuc 6, Roxana Rosca 7, Catalina Poiana 1 2&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;800&#34;&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/parathyroid-increase-with-age-associated-with-worsening-vitamin-d-genes&#34;&gt;Parathyroid increase with age associated with worsening Vitamin D genes – April 2020&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/pth-failed-to-decrease-with-vitamin-d-if-overweight-and-had-low-magnesium&#34;&gt;PTH failed to decrease with Vitamin D if overweight and had low Magnesium – Aug 2019&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Half as many problems if take Vitamin D (300,000 IU) before thyroidectomy – RCT</title>
-      <link>http://localhost:1313/posts/half-as-many-problems-if-take-vitamin-d-300000-iu-before-thyroidectomy-rct/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/half-as-many-problems-if-take-vitamin-d-300000-iu-before-thyroidectomy-rct/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parathyroid increase with age associated with worsening Vitamin D genes</title>
-      <link>http://localhost:1313/posts/parathyroid-increase-with-age-associated-with-worsening-vitamin-d-genes/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/parathyroid-increase-with-age-associated-with-worsening-vitamin-d-genes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vitamin D not help when not give enough (Graves Disease in this case – 26 ng)</title>
-      <link>http://localhost:1313/posts/vitamin-d-not-help-when-not-give-enough-graves-disease-in-this-case-26-ng/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-not-help-when-not-give-enough-graves-disease-in-this-case-26-ng/</guid>
-      <description>&lt;h4 id=&#34;see-also&#34;&gt;See also&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Back to the Drawing Board? Effects of High-Dose Vitamin D Supplementation in Graves&amp;rsquo; Disease on Muscle Strength, Lean Mass Gain, and Quality of Life&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Leonidas H Duntas 1, Thyroid,  2020 Mar 2[ PMID: 32122259 DOI: 10.1089/thy.2020.0162&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/attachments/d3.mock.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34; style=&#34;margin-right: 0.3em;&#34;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;dose-size-was-not-large-enough-to-get-a-statistically-significant-reduction-in-recurrence&#34;&gt;Dose size was not large enough to get a statistically significant reduction in recurrence&lt;/h4&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;400&#34;&gt;&#xA;&lt;p&gt;Recent literature has reported a higher prevalence of vitamin D deficiency among people with Graves’ disease. No study has examined the effect of vitamin D supplementation on the clinical outcomes of Graves’ disease. We aimed to evaluate whether daily vitamin D supplementation reduces Graves’ disease recurrence. We enrolled 210 subjects with Graves’ disease and vitamin D deficiency and followed them for at least one year after anti-thyroid drug (ATD) discontinuation. Among 210 individuals, 60 (29%) were amenable to taking vitamin D supplements, resulting in sufficient vitamin D levels (from 10.6 to 25.7 ng/mL), whereas the mean vitamin D level was 11.6 ng/mL in the 150 patients who did not take vitamin D supplements. The recurrence rate was similar in both groups (38% vs. 49%, P = 0.086). However, recurrence occurred earlier in the latter group (7 months vs. 5 months, P = 0.016). In the multivariate analysis, vitamin D levels and TSH-binding inhibitory immunoglobulin (TBII) titers at ATD discontinuation remained significant factors for recurrence. Vitamin D levels and TBII titers at ATD discontinuation exhibited a weak negative correlation (R = −0.143, P = 0.041). Vitamin D supplementation might have a protective effect against Graves’ disease recurrence with a borderline significant recurrence rate reduction.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chronic Hypoparathyroidism typically uses daily Calcium, alternate day is 7X better</title>
-      <link>http://localhost:1313/posts/chronic-hypoparathyroidism-typically-uses-daily-calcium-alternate-day-is-7x-better/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chronic-hypoparathyroidism-typically-uses-daily-calcium-alternate-day-is-7x-better/</guid>
-      <description>&lt;h4 id=&#34;alternate-day-calcium-dosing-may-be-an-effective-treatment-option-for-chronic-hypoparathyroidism&#34;&gt;Alternate-day Calcium Dosing May Be an Effective Treatment Option for Chronic Hypoparathyroidism&lt;/h4&gt;&#xA;&lt;p&gt;J Endocrinol Invest,  2020 Jan 3, PMID: 31900832 DOI: 10.1007/s40618-019-01173-9&lt;/p&gt;&#xA;&lt;p&gt;T Akkan 1, M Dagdeviren 2, A O Koca 2, D T Ertugrul 2, M Altay 2&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/hypothyroidism-risk-reduced-32-percent-in-those-getting-vitamin-d-levels-above-50-ng&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Hypothyroidism risk reduced 32 percent in those getting vitamin D levels above 50 ng – Oct 2017&#34;&gt;Hypothyroidism risk reduced 32 percent in those getting vitamin D levels above 50 ng – Oct 2017&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PTH failed to decrease with Vitamin D if overweight and had low Magnesium</title>
-      <link>http://localhost:1313/posts/pth-failed-to-decrease-with-vitamin-d-if-overweight-and-had-low-magnesium/</link>
-      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pth-failed-to-decrease-with-vitamin-d-if-overweight-and-had-low-magnesium/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Magnesium, Vitamin D, Omega-3, TSH - importance and testing - Dean and Baggerly</title>
-      <link>http://localhost:1313/posts/magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#overview--before-radio-broadcast-oct-28-2019httpsdrcarolyndeanlivecom20191028tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show&#34;&gt;&lt;a href=&#34;https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/&#34;&gt;Overview  before radio broadcast, Oct 28, 2019&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#introduction---first-hour-of-transcript&#34;&gt;Introduction - first hour of transcript&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#carole-baggerly-introduction&#34;&gt;Carole Baggerly introduction&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#magnesium&#34;&gt;Magnesium&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#tsh&#34;&gt;TSH&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#second-hour---with-phone-in-questions-and-answers&#34;&gt;Second Hour - with phone-in questions and answers&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#serum-level-not-dose&#34;&gt;Serum level not dose&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#some-grh-kit-tests---nov-2019&#34;&gt;Some GRH Kit tests-  Nov 2019&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/&#34;&gt;Click here to listen to hours 1 and/or 2&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;overview--before-radio-broadcast-oct-28-2019httpsdrcarolyndeanlivecom20191028tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show&#34;&gt;&lt;a href=&#34;https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/&#34;&gt;Overview  before radio broadcast, Oct 28, 2019&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;This weeks radio show is an introduction to GrassrootsHealth, a nutrient research portal for the lay public. We are partnering with this company in order to analyze your supplement intake, your health improvements, and validate them with your blood tests. The tests that  &lt;strong&gt;Grassrootshealth&lt;/strong&gt;  makes available are in-home, finger-stick, blood smears on specially treated cardboard strips. **** The Blood Analysis Kit that we are endorsing covers Magnesium RBC, Vitamin D, Omega-3 fatty acids, and TSH. **As you’ll hear and come to understand from listening to the archive, we have found a way to work closely with one blood testing lab and use uniquely designed questionnaires that document supplements, symptoms, and results that people are achieving on our protocols. It’s the type of nutrient research that I’ve always wanted to do and that’s never been done before.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Parathyroid – Vitamin D inflection points might be at both 16 and 32 ng</title>
-      <link>http://localhost:1313/posts/parathyroid-vitamin-d-inflection-points-might-be-at-both-16-and-32-ng/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/parathyroid-vitamin-d-inflection-points-might-be-at-both-16-and-32-ng/</guid>
-      <description>&lt;h4 id=&#34;inverse-relationship-between-25-hydroxy-vitamin-d-and-parathormone-are-there-two-inflection-points&#34;&gt;Inverse relationship between 25 hydroxy Vitamin D and parathormone: Are there two inflection points?&lt;/h4&gt;&#xA;&lt;p&gt;Indian Journal of Endocrinology and Medicine   Page : 422-427, DOI: 10.4103/ijem.IJEM_322_19&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-hyperparathyroidism-and-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Hyperparathyroidism and vitamin D&#34;&gt;Overview Hyperparathyroidism and vitamin D&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/patent-to-treat-secondary-hyperparathyroidism-with-30-ng-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Patent to treat secondary hyperparathyroidism with 30 ng Vitamin D – March 2018&#34;&gt;Patent to treat secondary hyperparathyroidism with 30 ng Vitamin D – March 2018&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hashimoto&#39;s thyroiditis helped by weekly 50,000 IU of vitamin D – RCT</title>
-      <link>http://localhost:1313/posts/hashimotos-thyroiditis-helped-by-weekly-50000-iu-of-vitamin-d-rct/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hashimotos-thyroiditis-helped-by-weekly-50000-iu-of-vitamin-d-rct/</guid>
-      <description>&lt;h4 id=&#34;can-supplementation-with-vitamin-d-modify-thyroid-autoantibodies-anti-tpo-ab-anti-tg-ab-and-thyroid-profile-t3-t4-tsh-in-hashimotos-thyroiditis-a-double-blind-randomized-clinical-trial&#34;&gt;Can Supplementation with Vitamin D Modify Thyroid Autoantibodies (Anti-TPO Ab, Anti-Tg Ab) and Thyroid Profile (T3, T4, TSH) in Hashimoto&amp;rsquo;s Thyroiditis? A Double Blind, Randomized Clinical Trial.&lt;/h4&gt;&#xA;&lt;p&gt;Horm Metab Res. 2019 May;51(5):296-301. &lt;a href=&#34;https://doi.org/10.1055/a-0856-1044.&#34;&gt;doi: 10.1055/a-0856-1044.&lt;/a&gt; Epub 2019 May 9.&lt;/p&gt;&#xA;&lt;p&gt;Chahardoli R1, Saboor-Yaraghi AA2, Amouzegar A3, Khalili D3, Vakili AZ3, Azizi F3.&lt;/p&gt;&#xA;&lt;p&gt;1 School of Advanced Technologies in Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran.&lt;/p&gt;&#xA;&lt;p&gt;2 Department of Immunology, School of Public Health Tehran University of Medical Science, Tehran, Iran.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hashimoto&#39;s thyroiditis 3.2 X more likely if low vitamin D – meta-analysis</title>
-      <link>http://localhost:1313/posts/hashimotos-thyroiditis-32-x-more-likely-if-low-vitamin-d-meta-analysis/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hashimotos-thyroiditis-32-x-more-likely-if-low-vitamin-d-meta-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Graves&#39; disease 1.4 X more likely if poor Vitamin D Receptor</title>
-      <link>http://localhost:1313/posts/graves-disease-14-x-more-likely-if-poor-vitamin-d-receptor/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/graves-disease-14-x-more-likely-if-poor-vitamin-d-receptor/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thyroid and Parathyroid on VitaminDWiki</title><link>//localhost:1313/categories/thyroid-and-parathyroid.html</link><description>Recent content in Thyroid and Parathyroid on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/thyroid-and-parathyroid/index.xml" rel="self" type="application/rss+xml"/><item><title>Thyroidectomy and Vitamin D - many studies</title><link>//localhost:1313/posts/thyroidectomy-and-vitamin-d-many-studies.html</link><pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/thyroidectomy-and-vitamin-d-many-studies.html</guid><description>&lt;p>&lt;strong>Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery&lt;br>
+See &lt;a href="//localhost:1313/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts">Vitamin D is needed before most surgeries – many studies and RCTs&lt;/a>&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-status-in-patients-before-thyroidectomy---feb-2023">Vitamin D Status in Patients before Thyroidectomy - Feb 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#93000-thyroidectomies-in-us-annually---2020">93,000 thyroidectomies in US annually - 2020&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-status-in-patients-before-thyroidectomy---feb-2023">Vitamin D Status in Patients before Thyroidectomy - Feb 2023&lt;/h4>
+&lt;p>Int. J. Mol. Sci. 2023, 24(4), 3228; &lt;a href="https://doi.org/10.3390/ijms24043228">https://doi.org/10.3390/ijms24043228&lt;/a>&lt;/p>
+&lt;p>by Dominika Maciejewska-Markiewicz 1ORCID,Joanna Kochman 1ORCID,Karolina Jakubczyk 1ORCID,Piotr Bargiel 2,*,Zbigniew Szlosser 2ORCID,Ewa Stachowska 1ORCID,Marta Markowska 2,Anna Bucka 3,Norbert Czapla 2,Jan Petriczko 2ORCID,Anna Surówka 2,Sonia Hertman 2,Piotr Puchalski 2 and Piotr Prowans 2&lt;/p></description></item><item><title>PTH and Vitamin D - many studies</title><link>//localhost:1313/posts/pth-and-vitamin-d-many-studies.html</link><pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/pth-and-vitamin-d-many-studies.html</guid><description>&lt;p>&lt;strong>The decrease in PTH (&lt;span style="color:#F00;">P&lt;/span>ara&lt;span style="color:#F00;">t&lt;/span>hyroid &lt;span style="color:#F00;">H&lt;/span>ormone) is a good (only?) indicator that Vitamin D is actually getting into the cells&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#what-is-the-difference-between-the-intact-parathyroid-hormone-and-the-parathyroid-hormone-asked-ai">What is the difference between the Intact Parathyroid Hormone and the Parathyroid Hormone (asked AI)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="what-is-the-difference-between-the-intact-parathyroid-hormone-and-the-parathyroid-hormone-asked-ai">What is the difference between the Intact Parathyroid Hormone and the Parathyroid Hormone (asked AI)&lt;/h4>
+&lt;p>The difference between Intact Parathyroid Hormone (iPTH) and Parathyroid Hormone (PTH) primarily lies in the specific forms of the hormone that each assay measures and their clinical utility.&lt;/p></description></item><item><title>Hashimoto's thyroiditis: Vitamin D was the most important of 11 variables</title><link>//localhost:1313/posts/hashimotos-thyroiditis-vitamin-d-was-the-most-important-of-11-variables.html</link><pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/hashimotos-thyroiditis-vitamin-d-was-the-most-important-of-11-variables.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#prediction-models-constructed-for-hashimotos-thyroiditis-risk-based-on-clinical-and-laboratory-factors">Prediction models constructed for Hashimoto&amp;rsquo;s thyroiditis risk based on clinical and laboratory factors&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="prediction-models-constructed-for-hashimotos-thyroiditis-risk-based-on-clinical-and-laboratory-factors">Prediction models constructed for Hashimoto&amp;rsquo;s thyroiditis risk based on clinical and laboratory factors&lt;/h4>
+&lt;p>Front Endocrinol (Lausanne) . 2022 Aug 8;13:886953. &lt;a href="https://doi.org/10.3389/fendo.2022.886953">doi: 10.3389/fendo.2022.886953&lt;/a>&lt;/p>
+&lt;p>Peng Li 1 , Fang Liu 2 , Minsu Zhao 3 , Shaokai Xu 1 , Ping Li 1 , Jingang Cao 1 , Dongming Tian 1 , Yaopeng Tan 1 , Lina Zheng 2 , Xia Cao 2 , Yingxia Pan 4 5 , Hui Tang 4 5 , Yuanyuan Wu 4 5 , Yi Sun 1&lt;/p></description></item><item><title>Maasai have PTH and bone resorption (CTX) circadian rhythms</title><link>//localhost:1313/posts/maasai-have-pth-and-bone-resorption-ctx-circadian-rhythms.html</link><pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/maasai-have-pth-and-bone-resorption-ctx-circadian-rhythms.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-circadian-rhythm-of-calcium-and-bone-homeostasis-in-maasai">The circadian rhythm of calcium and bone homeostasis in Maasai&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-circadian-rhythm-of-calcium-and-bone-homeostasis-in-maasai">The circadian rhythm of calcium and bone homeostasis in Maasai&lt;/h4>
+&lt;p>Am J Hum Biol. 2022 Apr 28;e23756. &lt;a href="https://doi.org/10.1002/ajhb.23756">doi: 10.1002/ajhb.23756&lt;/a>&lt;/p>
+&lt;p>Anne Schou 1 2, Niklas Rye Jørgensen 3 4, Venance Phillip Maro 5, Kajiru Kilonzo 5, Kaushik Ramaiya 6, Joseph Sironga 5 7, Andreas Kryger Jensen 2 4, Dirk Lund Christensen 2 4, Peter Schwarz 1 4&lt;/p>
+&lt;p>Objectives: Ethnic groups differ in prevalence of calcium-related diseases. Differences in the physiology and the endogenous circadian rhythm (CR) of calcium and bone homeostasis may play a role. Thus, we aimed to investigate details of CR pattern in calcium and bone homeostasis in East African Maasai.&lt;/p></description></item><item><title>Vitamin D cannot distinguish between thyroid cancer and other thyroid problems – all have low levels</title><link>//localhost:1313/posts/vitamin-d-cannot-distinguish-between-thyroid-cancer-and-other-thyroid-problems-all-have-low-levels.html</link><pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-cannot-distinguish-between-thyroid-cancer-and-other-thyroid-problems-all-have-low-levels.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#serum-25-hydroxyvitamin-d-level-is-unreliable-as-a-risk-factor-and-prognostic-marker-in-papillary-thyroid-cancer">Serum 25-hydroxyvitamin D level is unreliable as a risk factor and prognostic marker in papillary thyroid cancer&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="serum-25-hydroxyvitamin-d-level-is-unreliable-as-a-risk-factor-and-prognostic-marker-in-papillary-thyroid-cancer">Serum 25-hydroxyvitamin D level is unreliable as a risk factor and prognostic marker in papillary thyroid cancer&lt;/h4>
+&lt;p>Ann Transl Med. 2022 Feb;10(4):193. &lt;a href="https://doi.org/10.21037/atm-22-10.">doi: 10.21037/atm-22-10.&lt;/a>&lt;/p>
+&lt;p>Jie Kuang # 1 2, Zhijian Jin # 1 2, Lingxie Chen # 1 2, Qiwu Zhao 1 2, Haiyan Huang 1 2, Zhuoran Liu 1 2, Weiping Yang 1 2, Haoran Feng 1 2, Zheyu Yang 1 2, Juan J Díez 3, Marc Pusztaszeri 4, Jung Min Kim 5, Elena Bonati 6, Xi Cheng 1 2, Jiqi Yan 1 2, Weihua Qiu 1 2&lt;/p></description></item><item><title>High Vitamin D associated with 3.4 X less risk of possibly Cancerous Thyroid Nodules</title><link>//localhost:1313/posts/high-vitamin-d-associated-with-34-x-less-risk-of-possibly-cancerous-thyroid-nodules.html</link><pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/high-vitamin-d-associated-with-34-x-less-risk-of-possibly-cancerous-thyroid-nodules.html</guid><description>&lt;h4 id="thyroid-nodules-and-its-association-with-vitamin-d-in-centenarians">Thyroid nodules and its association with vitamin D in centenarians&lt;/h4>
+&lt;p>Exp Gerontol. 2022 Feb 5;111730. &lt;a href="https://doi.org/10.1016/j.exger.2022.111730">doi: 10.1016/j.exger.2022.111730&lt;/a>&lt;/p>
+&lt;p>Jinzhuo Fan 1, Shihui Fu 2, Xianghui Chen 3, Yulong Li 4, Yali Zhao 5, Faqin Lv 6, Yao Yao 7&lt;/p>
+&lt;p>Objectives: Thyroid Nodules (TNs) and hypovitaminosis D are common conditions in old people. Our objective was to determine the prevalence of benign and malignant thyroid nodules in centenarians and to examine their associations with serum vitamin D levels.&lt;/p></description></item><item><title>1.8 X more heart medicines needed by children after heart surgery if low Vitamin D</title><link>//localhost:1313/posts/18-x-more-heart-medicines-needed-by-children-after-heart-surgery-if-low-vitamin-d.html</link><pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/18-x-more-heart-medicines-needed-by-children-after-heart-surgery-if-low-vitamin-d.html</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/taking-vitamin-d-just-before-and-after-surgery-helps-open-heart-in-this-case-rct">Taking Vitamin D just before and after surgery helps (open-heart in this case) – RCT Feb 2021&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/improve-your-health-before-surgery-prehabilitation-helps-your-recovery-2018">Improve your health BEFORE surgery (prehabilitation) helps your recovery - 2018&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/pre-operative-vitamin-d-often-helps-thyroidectomy-in-this-case">Pre-operative Vitamin D often helps (thyroidectomy in this case) – June 2021&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>The relationship between vitamin D and cardiovascular health in children remains unclear. Vitamin D deficiency (VDD) is supposed to be a potential risk factor associated with poorer outcomes after congenital heart disease (CHD) surgery. The maximum vasoactive-inotropic use after cardiac surgery is considered to be a good predictor of adverse outcomes. We aimed to assess the correlation between preoperative VDD and the maximum vasoactive-inotropic score (VISmax) at 24 h postoperatively. Nine hundred children with CHD were enrolled in this study, and preoperative total serum 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> concentrations were measured by liquid chromatography-tandem mass spectrometry. Related demographic and clinical characteristics were collected. A total of 490 boys (54.4%) and 410 girls (45.6%) with a mean age of 1 year (range: 6 months-3 years) were enrolled. The median 25(OH)D level was 24.0 ng/mL, with 32.6% of patients having VDD &lt;a href="25(OH)D%20%3C%2020%20ng/mL">25(OH)D &amp;lt; 20 ng/mL&lt;/a>.&lt;/p></description></item><item><title>Parathyroid response to Vitamin D among obese</title><link>//localhost:1313/posts/parathyroid-response-to-vitamin-d-among-obese.html</link><pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/parathyroid-response-to-vitamin-d-among-obese.html</guid><description>&lt;p>&lt;strong>Usually, as vitamin D levels are increased the parathyroid levels are decreased&lt;br>
+May not be the case for obese&lt;br>
+&lt;span style="color:#00F;">Trying to figure out what this mean&lt;/span>s&lt;br>
+This relationship between increased Vitamin D and decreased PTH&lt;br>
+    is a good indication that increased Vitamin d is actually getting to the cells, not just to the blood&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#pth-decreased-with-1000-iu-but-no-more-with-4000-iu-in-obese-blacks---2020">PTH decreased with 1,000 IU, but no more with 4,000 IU in obese blacks - 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#different-threshold-for-obese-adolescents---2021">Different threshold for obese adolescents - 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#perhaps-bioavailable-ia-a-better-measure-than-total-for-obese-children---2021">Perhaps bioavailable ia a better measure than total for Obese Children - 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pth-children-obesity---2019">PTH, Children, Obesity - 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#39-pth-studies-in-vitamindwiki">39 PTH studies in VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="pth-decreased-with-1000-iu-but-no-more-with-4000-iu-in-obese-blacks---2020">PTH decreased with 1,000 IU, but no more with 4,000 IU in obese blacks - 2020&lt;/h4>
+&lt;p>&lt;strong>Obesity and efficacy of vitamin D 3 supplementation in healthy black adults&lt;/strong>&lt;/p></description></item><item><title>Parathyroid hormone level is inversely associated with both Vitamin D and age</title><link>//localhost:1313/posts/parathyroid-hormone-level-is-inversely-associated-with-both-vitamin-d-and-age.html</link><pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/parathyroid-hormone-level-is-inversely-associated-with-both-vitamin-d-and-age.html</guid><description>&lt;h4 id="combined-effects-of-vitamin-d-status-renal-function-and-age-on-serum-parathyroid-hormone-levels">Combined Effects of Vitamin D Status, Renal Function and Age on Serum Parathyroid Hormone Levels&lt;/h4>
+&lt;p>Front Endocrinol (Lausanne) . 2021 Apr 30; &lt;a href="https://doi.org/10.3389/fendo.2021.657991.">doi: 10.3389/fendo.2021.657991.&lt;/a> eCollection 2021.&lt;/p>
+&lt;p>Dan Alexandru Niculescu 1 2, Laura Georgiana Deacu 2, Andra Caragheorgheopol 3, Nicoleta Popescu 4, Adina Ghemigian 5, Camelia Procopiuc 6, Roxana Rosca 7, Catalina Poiana 1 2&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="800">
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/parathyroid-increase-with-age-associated-with-worsening-vitamin-d-genes">Parathyroid increase with age associated with worsening Vitamin D genes – April 2020&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/pth-failed-to-decrease-with-vitamin-d-if-overweight-and-had-low-magnesium">PTH failed to decrease with Vitamin D if overweight and had low Magnesium – Aug 2019&lt;/a>&lt;/p></description></item><item><title>Half as many problems if take Vitamin D (300,000 IU) before thyroidectomy – RCT</title><link>//localhost:1313/posts/half-as-many-problems-if-take-vitamin-d-300000-iu-before-thyroidectomy-rct.html</link><pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/half-as-many-problems-if-take-vitamin-d-300000-iu-before-thyroidectomy-rct.html</guid><description/></item><item><title>Parathyroid increase with age associated with worsening Vitamin D genes</title><link>//localhost:1313/posts/parathyroid-increase-with-age-associated-with-worsening-vitamin-d-genes.html</link><pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/parathyroid-increase-with-age-associated-with-worsening-vitamin-d-genes.html</guid><description/></item><item><title>Vitamin D not help when not give enough (Graves Disease in this case – 26 ng)</title><link>//localhost:1313/posts/vitamin-d-not-help-when-not-give-enough-graves-disease-in-this-case-26-ng.html</link><pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-not-help-when-not-give-enough-graves-disease-in-this-case-26-ng.html</guid><description>&lt;h4 id="see-also">See also&lt;/h4>
+&lt;p>&lt;strong>Back to the Drawing Board? Effects of High-Dose Vitamin D Supplementation in Graves&amp;rsquo; Disease on Muscle Strength, Lean Mass Gain, and Quality of Life&lt;/strong>&lt;/p>
+&lt;p>Leonidas H Duntas 1, Thyroid, 2020 Mar 2[ PMID: 32122259 DOI: 10.1089/thy.2020.0162&lt;/p>
+&lt;/div>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/attachments/d3.mock.pdf">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;h4 id="dose-size-was-not-large-enough-to-get-a-statistically-significant-reduction-in-recurrence">Dose size was not large enough to get a statistically significant reduction in recurrence&lt;/h4>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="400">
+&lt;p>Recent literature has reported a higher prevalence of vitamin D deficiency among people with Graves’ disease. No study has examined the effect of vitamin D supplementation on the clinical outcomes of Graves’ disease. We aimed to evaluate whether daily vitamin D supplementation reduces Graves’ disease recurrence. We enrolled 210 subjects with Graves’ disease and vitamin D deficiency and followed them for at least one year after anti-thyroid drug (ATD) discontinuation. Among 210 individuals, 60 (29%) were amenable to taking vitamin D supplements, resulting in sufficient vitamin D levels (from 10.6 to 25.7 ng/mL), whereas the mean vitamin D level was 11.6 ng/mL in the 150 patients who did not take vitamin D supplements. The recurrence rate was similar in both groups (38% vs. 49%, P = 0.086). However, recurrence occurred earlier in the latter group (7 months vs. 5 months, P = 0.016). In the multivariate analysis, vitamin D levels and TSH-binding inhibitory immunoglobulin (TBII) titers at ATD discontinuation remained significant factors for recurrence. Vitamin D levels and TBII titers at ATD discontinuation exhibited a weak negative correlation (R = −0.143, P = 0.041). Vitamin D supplementation might have a protective effect against Graves’ disease recurrence with a borderline significant recurrence rate reduction.&lt;/p></description></item><item><title>Chronic Hypoparathyroidism typically uses daily Calcium, alternate day is 7X better</title><link>//localhost:1313/posts/chronic-hypoparathyroidism-typically-uses-daily-calcium-alternate-day-is-7x-better.html</link><pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/chronic-hypoparathyroidism-typically-uses-daily-calcium-alternate-day-is-7x-better.html</guid><description>&lt;h4 id="alternate-day-calcium-dosing-may-be-an-effective-treatment-option-for-chronic-hypoparathyroidism">Alternate-day Calcium Dosing May Be an Effective Treatment Option for Chronic Hypoparathyroidism&lt;/h4>
+&lt;p>J Endocrinol Invest, 2020 Jan 3, PMID: 31900832 DOI: 10.1007/s40618-019-01173-9&lt;/p>
+&lt;p>T Akkan 1, M Dagdeviren 2, A O Koca 2, D T Ertugrul 2, M Altay 2&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/hypothyroidism-risk-reduced-32-percent-in-those-getting-vitamin-d-levels-above-50-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothyroidism risk reduced 32 percent in those getting vitamin D levels above 50 ng – Oct 2017">Hypothyroidism risk reduced 32 percent in those getting vitamin D levels above 50 ng – Oct 2017&lt;/a>&lt;/p></description></item><item><title>PTH failed to decrease with Vitamin D if overweight and had low Magnesium</title><link>//localhost:1313/posts/pth-failed-to-decrease-with-vitamin-d-if-overweight-and-had-low-magnesium.html</link><pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/pth-failed-to-decrease-with-vitamin-d-if-overweight-and-had-low-magnesium.html</guid><description/></item><item><title>Magnesium, Vitamin D, Omega-3, TSH - importance and testing - Dean and Baggerly</title><link>//localhost:1313/posts/magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly.html</link><pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/magnesium-vitamin-d-omega-3-tsh-importance-and-testing-dean-and-baggerly.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#overview--before-radio-broadcast-oct-28-2019httpsdrcarolyndeanlivecom20191028tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show">&lt;a href="https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/">Overview before radio broadcast, Oct 28, 2019&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#introduction---first-hour-of-transcript">Introduction - first hour of transcript&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#carole-baggerly-introduction">Carole Baggerly introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#magnesium">Magnesium&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tsh">TSH&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#second-hour---with-phone-in-questions-and-answers">Second Hour - with phone-in questions and answers&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#serum-level-not-dose">Serum level not dose&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#some-grh-kit-tests---nov-2019">Some GRH Kit tests- Nov 2019&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>&lt;strong>&lt;a href="https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/">Click here to listen to hours 1 and/or 2&lt;/a>&lt;/strong>&lt;/p>
+&lt;h4 id="overview--before-radio-broadcast-oct-28-2019httpsdrcarolyndeanlivecom20191028tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show">&lt;a href="https://drcarolyndeanlive.com/2019/10/28/tonights-special-guest-carole-baggerly-grass-roots-health-carolyn-dean-live-radio-show/">Overview before radio broadcast, Oct 28, 2019&lt;/a>&lt;/h4>
+&lt;p>This weeks radio show is an introduction to GrassrootsHealth, a nutrient research portal for the lay public. We are partnering with this company in order to analyze your supplement intake, your health improvements, and validate them with your blood tests. The tests that &lt;strong>Grassrootshealth&lt;/strong> makes available are in-home, finger-stick, blood smears on specially treated cardboard strips. **** The Blood Analysis Kit that we are endorsing covers Magnesium RBC, Vitamin D, Omega-3 fatty acids, and TSH. **As you’ll hear and come to understand from listening to the archive, we have found a way to work closely with one blood testing lab and use uniquely designed questionnaires that document supplements, symptoms, and results that people are achieving on our protocols. It’s the type of nutrient research that I’ve always wanted to do and that’s never been done before.&lt;/p></description></item><item><title>Parathyroid – Vitamin D inflection points might be at both 16 and 32 ng</title><link>//localhost:1313/posts/parathyroid-vitamin-d-inflection-points-might-be-at-both-16-and-32-ng.html</link><pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/parathyroid-vitamin-d-inflection-points-might-be-at-both-16-and-32-ng.html</guid><description>&lt;h4 id="inverse-relationship-between-25-hydroxy-vitamin-d-and-parathormone-are-there-two-inflection-points">Inverse relationship between 25 hydroxy Vitamin D and parathormone: Are there two inflection points?&lt;/h4>
+&lt;p>Indian Journal of Endocrinology and Medicine Page : 422-427, DOI: 10.4103/ijem.IJEM_322_19&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/overview-hyperparathyroidism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hyperparathyroidism and vitamin D">Overview Hyperparathyroidism and vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/patent-to-treat-secondary-hyperparathyroidism-with-30-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Patent to treat secondary hyperparathyroidism with 30 ng Vitamin D – March 2018">Patent to treat secondary hyperparathyroidism with 30 ng Vitamin D – March 2018&lt;/a>&lt;/p></description></item><item><title>Hashimoto's thyroiditis helped by weekly 50,000 IU of vitamin D – RCT</title><link>//localhost:1313/posts/hashimotos-thyroiditis-helped-by-weekly-50000-iu-of-vitamin-d-rct.html</link><pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/hashimotos-thyroiditis-helped-by-weekly-50000-iu-of-vitamin-d-rct.html</guid><description>&lt;h4 id="can-supplementation-with-vitamin-d-modify-thyroid-autoantibodies-anti-tpo-ab-anti-tg-ab-and-thyroid-profile-t3-t4-tsh-in-hashimotos-thyroiditis-a-double-blind-randomized-clinical-trial">Can Supplementation with Vitamin D Modify Thyroid Autoantibodies (Anti-TPO Ab, Anti-Tg Ab) and Thyroid Profile (T3, T4, TSH) in Hashimoto&amp;rsquo;s Thyroiditis? A Double Blind, Randomized Clinical Trial.&lt;/h4>
+&lt;p>Horm Metab Res. 2019 May;51(5):296-301. &lt;a href="https://doi.org/10.1055/a-0856-1044.">doi: 10.1055/a-0856-1044.&lt;/a> Epub 2019 May 9.&lt;/p>
+&lt;p>Chahardoli R1, Saboor-Yaraghi AA2, Amouzegar A3, Khalili D3, Vakili AZ3, Azizi F3.&lt;/p>
+&lt;p>1 School of Advanced Technologies in Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran.&lt;/p>
+&lt;p>2 Department of Immunology, School of Public Health Tehran University of Medical Science, Tehran, Iran.&lt;/p></description></item><item><title>Hashimoto's thyroiditis 3.2 X more likely if low vitamin D – meta-analysis</title><link>//localhost:1313/posts/hashimotos-thyroiditis-32-x-more-likely-if-low-vitamin-d-meta-analysis.html</link><pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/hashimotos-thyroiditis-32-x-more-likely-if-low-vitamin-d-meta-analysis.html</guid><description/></item><item><title>Graves' disease 1.4 X more likely if poor Vitamin D Receptor</title><link>//localhost:1313/posts/graves-disease-14-x-more-likely-if-poor-vitamin-d-receptor.html</link><pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/graves-disease-14-x-more-likely-if-poor-vitamin-d-receptor.html</guid><description/></item></channel></rss>

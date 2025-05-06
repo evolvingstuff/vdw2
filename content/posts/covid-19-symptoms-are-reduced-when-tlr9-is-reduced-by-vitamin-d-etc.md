@@ -3,7 +3,8 @@ title: "COVID-19 symptoms are reduced when TLR9 is reduced (by Vitamin D, etc.)"
 slug: "covid-19-symptoms-are-reduced-when-tlr9-is-reduced-by-vitamin-d-etc"
 aliases:
   - "/COVID-19+symptoms+are+reduced+when+TLR9+is+reduced+by+Vitamin+D+etc+–+Jan+2021"
-  - "/tiki-index.php?page_id=12270"
+  - "/12270"
+tiki_page_id: 12270
 date: 2021-01-29
 categories:
   - "Virus"

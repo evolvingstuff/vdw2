@@ -3,7 +3,8 @@ title: "Anxiety, depression, and suicide have recently surged (Note: Vitamin D, 
 slug: "anxiety-depression-and-suicide-have-recently-surged-note-vitamin-d-omega-3-and-magnesium-help"
 aliases:
   - "/Anxiety+depression+and+suicide+have+recently+surged+Note+Vitamin+D+Omega-3+and+Magnesium+help+–+May+2022"
-  - "/tiki-index.php?page_id=13610"
+  - "/13610"
+tiki_page_id: 13610
 date: 2022-05-29
 categories:
   - "Depression"

@@ -3,7 +3,8 @@ title: "Obesity of 9,000 US adults: DEXA said 72% were obese, BMI said 42% were 
 slug: "obesity-of-9000-us-adults-dexa-said-72-percent-were-obese-bmi-said-42-percent-were-obese"
 aliases:
   - "/Obesity+of+9000+US+adults+DEXA+said+72+were+obese+BMI+said+42+were+obese+–+June+2023"
-  - "/tiki-index.php?page_id=14491"
+  - "/14491"
+tiki_page_id: 14491
 date: 2023-06-20
 categories:
   - "Obesity"

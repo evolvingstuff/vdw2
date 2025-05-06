@@ -3,7 +3,8 @@ title: "US maternal death rate increasing (low D not mentioned)"
 slug: "us-maternal-death-rate-increasing-low-d-not-mentioned"
 aliases:
   - "/US+maternal+death+rate+increasing+low+D+not+mentioned+-+March+2023"
-  - "/tiki-index.php?page_id=14311"
+  - "/14311"
+tiki_page_id: 14311
 date: 2023-03-17
 categories:
   - "Skin - Dark"

@@ -3,7 +3,8 @@ title: "Alzheimer's risk 2X less if good diet (and less risk by Omega-3 and or V
 slug: "alzheimers-risk-2x-less-if-good-diet-and-less-risk-by-omega-3-and-or-vitamin-d"
 aliases:
   - "/Alzheimers+risk+2X+less+if+good+diet+and+less+risk+by+Omega-3+and+or+Vitamin+D+-+Nov+2023"
-  - "/tiki-index.php?page_id=14811"
+  - "/14811"
+tiki_page_id: 14811
 date: 2023-11-07
 ---
 

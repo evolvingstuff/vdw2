@@ -3,7 +3,8 @@ title: "Those with TB were 3.2 X more likely to have low vitamin D – 13th meta
 slug: "those-with-tb-were-32-x-more-likely-to-have-low-vitamin-d-13th-meta-analysis"
 aliases:
   - "/Those+with+TB+were+32+X+more+likely+to+have+low+vitamin+D+–+13th+meta-analysis+Sept+2021"
-  - "/tiki-index.php?page_id=13006"
+  - "/13006"
+tiki_page_id: 13006
 date: 2021-10-20
 categories:
   - "Tuberculosis"

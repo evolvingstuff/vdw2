@@ -3,7 +3,8 @@ title: "High Vitamin D may prevent or treat COVID-19"
 slug: "high-vitamin-d-may-prevent-or-treat-covid-19"
 aliases:
   - "/High+Vitamin+D+may+prevent+or+treat+COVID-19+-+April+23+2020"
-  - "/tiki-index.php?page_id=11775"
+  - "/11775"
+tiki_page_id: 11775
 date: 2020-05-20
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Respiratory infections in children 6 X more likely if low Vitamin D (avg
 slug: "respiratory-infections-in-children-6-x-more-likely-if-low-vitamin-d-avg-of-2-studies"
 aliases:
   - "/Respiratory+infections+in+children+6+X+more+likely+if+low+Vitamin+D+avg+of+2+studies+-+Aug+2023"
-  - "/tiki-index.php?page_id=14628"
+  - "/14628"
+tiki_page_id: 14628
 date: 2023-08-22
 categories:
   - "Breathing"

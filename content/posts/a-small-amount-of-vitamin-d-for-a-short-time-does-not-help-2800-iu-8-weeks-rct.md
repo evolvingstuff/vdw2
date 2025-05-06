@@ -3,7 +3,8 @@ title: "A small amount of Vitamin D for a short time does not  help (2800 IU, 8 
 slug: "a-small-amount-of-vitamin-d-for-a-short-time-does-not-help-2800-iu-8-weeks-rct"
 aliases:
   - "/A+small+amount+of+Vitamin+D+for+a+short+time+does+not+help+2800+IU+8+weeks+–+RCT+Oct+2021"
-  - "/tiki-index.php?page_id=12974"
+  - "/12974"
+tiki_page_id: 12974
 date: 2021-10-12
 categories:
   - "Intervention"

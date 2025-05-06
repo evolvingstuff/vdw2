@@ -3,7 +3,8 @@ title: "Iron deficiency estimated by Smartphone photo"
 slug: "iron-deficiency-estimated-by-smartphone-photo"
 aliases:
   - "/Iron+deficiency+estimated+by+Smartphone+photo+-+Nov+2018"
-  - "/tiki-index.php?page_id=10267"
+  - "/10267"
+tiki_page_id: 10267
 date: 2018-12-04
 categories:
   - "Vitamin D and Iron"

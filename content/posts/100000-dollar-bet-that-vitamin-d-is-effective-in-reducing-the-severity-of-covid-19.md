@@ -3,7 +3,8 @@ title: "100,000 dollar bet that Vitamin D is effective in reducing the severity 
 slug: "100000-dollar-bet-that-vitamin-d-is-effective-in-reducing-the-severity-of-covid-19"
 aliases:
   - "/100000+dollar+bet+that+Vitamin+D+is+effective+in+reducing+the+severity+of+Covid-19+-+Sept+23+2020"
-  - "/tiki-index.php?page_id=11975"
+  - "/11975"
+tiki_page_id: 11975
 date: 2020-09-25
 categories:
   - "Virus"

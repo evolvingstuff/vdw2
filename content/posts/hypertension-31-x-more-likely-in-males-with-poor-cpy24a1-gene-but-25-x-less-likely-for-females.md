@@ -3,7 +3,8 @@ title: "Hypertension 3.1 X more likely in males with poor CPY24A1 gene (but 2.5 
 slug: "hypertension-31-x-more-likely-in-males-with-poor-cpy24a1-gene-but-25-x-less-likely-for-females"
 aliases:
   - "/Hypertension+31+X+more+likely+in+males+with+poor+CPY24A1+gene+but+25+X+less+likely+for+females+–+May+2019"
-  - "/tiki-index.php?page_id=10779"
+  - "/10779"
+tiki_page_id: 10779
 date: 2019-05-16
 categories:
   - "Genetics"

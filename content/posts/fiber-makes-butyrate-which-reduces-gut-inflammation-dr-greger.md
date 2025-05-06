@@ -3,7 +3,8 @@ title: "Fiber makes Butyrate, which reduces gut inflammation – Dr. Greger"
 slug: "fiber-makes-butyrate-which-reduces-gut-inflammation-dr-greger"
 aliases:
   - "/Fiber+makes+Butyrate+which+reduces+gut+inflammation+–+Dr+Greger+Aug+2019"
-  - "/tiki-index.php?page_id=11282"
+  - "/11282"
+tiki_page_id: 11282
 date: 2019-10-27
 categories:
   - "Gut"

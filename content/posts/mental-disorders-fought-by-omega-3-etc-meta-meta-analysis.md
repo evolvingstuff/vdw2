@@ -3,7 +3,8 @@ title: "Mental disorders fought by Omega-3 etc. - meta-meta-analysis"
 slug: "mental-disorders-fought-by-omega-3-etc-meta-meta-analysis"
 aliases:
   - "/Mental+disorders+fought+by+Omega-3+etc+-+meta-meta-analysis+Oct+2019"
-  - "/tiki-index.php?page_id=11150"
+  - "/11150"
+tiki_page_id: 11150
 date: 2019-09-13
 categories:
   - "Depression"

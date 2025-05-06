@@ -3,7 +3,8 @@ title: "Metabolic Syndrome with low vitamin D increases CVD mortality by 1.7 X"
 slug: "metabolic-syndrome-with-low-vitamin-d-increases-cvd-mortality-by-17-x"
 aliases:
   - "/Metabolic+Syndrome+with+low+vitamin+D+increases+CVD+mortality+by+17+X+–+July+2022"
-  - "/tiki-index.php?page_id=13945"
+  - "/13945"
+tiki_page_id: 13945
 date: 2022-09-27
 categories:
   - "Cardiovascular"

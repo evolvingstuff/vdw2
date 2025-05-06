@@ -3,7 +3,8 @@ title: "Increased health problems in blacks is similar to that of low vitamin D 
 slug: "increased-health-problems-in-blacks-is-similar-to-that-of-low-vitamin-d-whites-john-singleton-stroke"
 aliases:
   - "/Increased+health+problems+in+blacks+is+similar+to+that+of+low+vitamin+D+whites+John+Singleton+Stroke"
-  - "/tiki-index.php?page_id=10859"
+  - "/10859"
+tiki_page_id: 10859
 date: 2019-06-13
 categories:
   - "Skin - Dark"

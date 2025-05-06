@@ -3,7 +3,8 @@ title: "Digestive track Cancer (poorly differentiated) death 4X less likely if 2
 slug: "digestive-track-cancer-poorly-differentiated-death-4x-less-likely-if-2000-iu-of-vitamin-d-rct"
 aliases:
   - "/Digestive+track+Cancer+poorly+differentiated+death+4X+less+likely+if+2000+IU+of+vitamin+D+–+RCT+Oct+2019"
-  - "/tiki-index.php?page_id=11285"
+  - "/11285"
+tiki_page_id: 11285
 date: 2019-10-28
 categories:
   - "Cancer - Other"

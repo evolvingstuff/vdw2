@@ -3,7 +3,8 @@ title: "Prediabetics had different gut bacteria"
 slug: "prediabetics-had-different-gut-bacteria"
 aliases:
   - "/Prediabetics+had+different+gut+bacteria+–+April+2018"
-  - "/tiki-index.php?page_id=11517"
+  - "/11517"
+tiki_page_id: 11517
 date: 2019-12-30
 categories:
   - "Diabetes"

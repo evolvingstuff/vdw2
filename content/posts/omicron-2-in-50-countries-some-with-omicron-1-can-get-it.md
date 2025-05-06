@@ -3,7 +3,8 @@ title: "Omicron-2: in 50 countries, some with Omicron-1 can get it"
 slug: "omicron-2-in-50-countries-some-with-omicron-1-can-get-it"
 aliases:
   - "/Omicron-2+in+50+countries+some+with+Omicron-1+can+get+it+-+Jan+29+2022"
-  - "/tiki-index.php?page_id=13285"
+  - "/13285"
+tiki_page_id: 13285
 date: 2022-01-25
 categories:
   - "Virus"

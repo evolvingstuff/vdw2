@@ -3,7 +3,8 @@ title: "Breast Cancer not prevented by vitamin D when use small doses or for jus
 slug: "breast-cancer-not-prevented-by-vitamin-d-when-use-small-doses-or-for-just-a-short-time-meta-analysis"
 aliases:
   - "/Breast+Cancer+not+prevented+by+vitamin+D+when+use+small+doses+or+for+just+a+short+time+–+Meta-analysis+April+2023"
-  - "/tiki-index.php?page_id=14420"
+  - "/14420"
+tiki_page_id: 14420
 date: 2023-05-11
 categories:
   - "Cancer - Breast"

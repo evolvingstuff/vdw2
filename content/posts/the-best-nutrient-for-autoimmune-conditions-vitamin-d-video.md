@@ -3,7 +3,8 @@ title: "The BEST Nutrient for Autoimmune Conditions (Vitamin D) - video"
 slug: "the-best-nutrient-for-autoimmune-conditions-vitamin-d-video"
 aliases:
   - "/The+BEST+Nutrient+for+Autoimmune+Conditions+Vitamin+D+-+video+May+2022"
-  - "/tiki-index.php?page_id=14846"
+  - "/14846"
+tiki_page_id: 14846
 date: 2023-11-27
 categories:
   - "Autoimmune"

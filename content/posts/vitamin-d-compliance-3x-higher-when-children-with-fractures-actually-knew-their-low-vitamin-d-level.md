@@ -3,7 +3,8 @@ title: "Vitamin D compliance 3X higher when children with fractures actually kne
 slug: "vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level"
 aliases:
   - "/Vitamin+D+compliance+3X+higher+when+children+with+fractures+actually+knew+their+low+vitamin+D+level+–+March+2019"
-  - "/tiki-index.php?page_id=10656"
+  - "/10656"
+tiki_page_id: 10656
 date: 2019-04-10
 categories:
   - "Tests for Vitamin D"

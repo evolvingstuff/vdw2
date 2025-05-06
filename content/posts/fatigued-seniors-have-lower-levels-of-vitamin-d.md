@@ -3,7 +3,8 @@ title: "Fatigued seniors have lower levels of Vitamin D"
 slug: "fatigued-seniors-have-lower-levels-of-vitamin-d"
 aliases:
   - "/Fatigued+seniors+have+lower+levels+of+Vitamin+D+–+Oct+2019"
-  - "/tiki-index.php?page_id=11253"
+  - "/11253"
+tiki_page_id: 11253
 date: 2019-10-20
 categories:
   - "Seniors"

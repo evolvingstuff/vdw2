@@ -3,7 +3,8 @@ title: "More Vitamin D studies than total of Omega-3 and Vitamins A, C, E, K –
 slug: "more-vitamin-d-studies-than-total-of-omega-3-and-vitamins-a-c-e-k-as-of-2021"
 aliases:
   - "/More+Vitamin+D+studies+than+total+of+Omega-3+and+Vitamins+A+C+E+K+–+as+of+2021"
-  - "/tiki-index.php?page_id=13692"
+  - "/13692"
+tiki_page_id: 13692
 date: 2022-06-21
 categories:
   - "About D - more info."

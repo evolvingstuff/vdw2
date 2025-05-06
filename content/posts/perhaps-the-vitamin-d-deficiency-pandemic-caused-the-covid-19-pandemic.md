@@ -3,7 +3,8 @@ title: "Perhaps the Vitamin D deficiency pandemic caused the COVID-19 pandemic"
 slug: "perhaps-the-vitamin-d-deficiency-pandemic-caused-the-covid-19-pandemic"
 aliases:
   - "/Perhaps+the+Vitamin+D+deficiency+pandemic+caused+the+COVID-19+pandemic+-+Aug+17+2020"
-  - "/tiki-index.php?page_id=11909"
+  - "/11909"
+tiki_page_id: 11909
 date: 2020-08-17
 categories:
   - "Virus"

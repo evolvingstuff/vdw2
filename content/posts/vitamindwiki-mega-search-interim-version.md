@@ -3,7 +3,8 @@ title: "VitaminDWiki Mega-Search (Interim Version)"
 slug: "vitamindwiki-mega-search-interim-version"
 aliases:
   - "/VitaminDWiki+Mega-Search+Interim+Version"
-  - "/tiki-index.php?page_id=14592"
+  - "/14592"
+tiki_page_id: 14592
 date: 2023-08-07
 ---
 

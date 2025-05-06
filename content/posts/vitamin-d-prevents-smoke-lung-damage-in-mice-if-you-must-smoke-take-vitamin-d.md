@@ -3,7 +3,8 @@ title: "Vitamin D prevents smoke lung damage in mice (If you must smoke, take vi
 slug: "vitamin-d-prevents-smoke-lung-damage-in-mice-if-you-must-smoke-take-vitamin-d"
 aliases:
   - "/Vitamin+D+prevents+smoke+lung+damage+in+mice+If+you+must+smoke+take+vitamin+D+–+Nov+2019"
-  - "/tiki-index.php?page_id=11385"
+  - "/11385"
+tiki_page_id: 11385
 date: 2019-11-23
 ---
 

@@ -3,7 +3,8 @@ title: "Vitamin D could knock out COVID-19 in 3 months – Dr. Matthews intervie
 slug: "vitamin-d-could-knock-out-covid-19-in-3-months-dr-matthews-interview"
 aliases:
   - "/Vitamin+D+could+knock+out+COVID-19+in+3+months+–+Dr+Matthews+interview+Oct+2020"
-  - "/tiki-index.php?page_id=11998"
+  - "/11998"
+tiki_page_id: 11998
 date: 2020-10-08
 categories:
   - "Skin - Dark"

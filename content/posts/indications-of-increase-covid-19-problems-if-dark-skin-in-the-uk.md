@@ -3,7 +3,8 @@ title: "Indications of increase COVID-19 problems if dark skin in the UK"
 slug: "indications-of-increase-covid-19-problems-if-dark-skin-in-the-uk"
 aliases:
   - "/Indications+of+increase+COVID-19+problems+if+dark+skin+in+the+UK-+April+3+2020"
-  - "/tiki-index.php?page_id=11710"
+  - "/11710"
+tiki_page_id: 11710
 date: 2020-04-03
 categories:
   - "Skin - Dark"

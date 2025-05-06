@@ -3,7 +3,8 @@ title: "Should increase Vitamin K when increasing Vitamin D – RCT"
 slug: "should-increase-vitamin-k-when-increasing-vitamin-d-rct"
 aliases:
   - "/Should+increase+Vitamin+K+when+increasing+Vitamin+D+–+RCT+Jan+2019"
-  - "/tiki-index.php?page_id=10418"
+  - "/10418"
+tiki_page_id: 10418
 date: 2019-01-22
 categories:
   - "Vitamin D and Vitamin K"

@@ -3,7 +3,8 @@ title: "Rheumatoid Arthritis pain is reduced by Vitamin D, high doses also reduc
 slug: "rheumatoid-arthritis-pain-is-reduced-by-vitamin-d-high-doses-also-reduced-inflam-p-meta-analysis"
 aliases:
   - "/Rheumatoid+Arthritis+pain+is+reduced+by+Vitamin+D+high+doses+also+reduced+inflammation+CRP+–+Meta-analysis+July+2023"
-  - "/tiki-index.php?page_id=14531"
+  - "/14531"
+tiki_page_id: 14531
 date: 2023-07-13
 categories:
   - "Rheumatoid Arthritis"

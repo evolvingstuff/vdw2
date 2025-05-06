@@ -3,7 +3,8 @@ title: "Lots of Biotonin needed sometimes (excess protein, etc.) - Masterjohn"
 slug: "lots-of-biotonin-needed-sometimes-excess-protein-etc-masterjohn"
 aliases:
   - "/Lots+of+Biotonin+needed+sometimes+excess+protein+etc+-+Masterjohn+Jan+2023"
-  - "/tiki-index.php?page_id=14218"
+  - "/14218"
+tiki_page_id: 14218
 date: 2023-01-20
 ---
 

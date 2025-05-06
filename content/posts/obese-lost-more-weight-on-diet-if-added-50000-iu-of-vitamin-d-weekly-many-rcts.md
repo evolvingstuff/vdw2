@@ -3,7 +3,8 @@ title: "Obese lost more weight on diet if added 50,000 IU of vitamin D weekly â€
 slug: "obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts"
 aliases:
   - "/Obese+lost+more+weight+on+diet+if+added+50000+IU+of+vitamin+D+weekly+â€“+many+RCTs"
-  - "/tiki-index.php?page_id=10066"
+  - "/10066"
+tiki_page_id: 10066
 date: 2018-09-25
 categories:
   - "Obesity"

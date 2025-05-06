@@ -3,7 +3,8 @@ title: "Vitamin D Danger - Women need 70 ng for optimal Estrogen - video and tra
 slug: "vitamin-d-danger-women-need-70-ng-for-optimal-estrogen-video-and-transcript"
 aliases:
   - "/Vitamin+D+Danger+-+Women+need+70+ng+for+optimal+Estrogen+-+video+and+transcript+Dec+2023"
-  - "/tiki-index.php?page_id=14951"
+  - "/14951"
+tiki_page_id: 14951
 date: 2024-01-06
 categories:
   - "Books, videos on Vitamin D"

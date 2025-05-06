@@ -3,7 +3,8 @@ title: "Vitamin D fortification of beverages – Review"
 slug: "vitamin-d-fortification-of-beverages-review"
 aliases:
   - "/Vitamin+D+fortification+of+beverages+–+Review+March+2022"
-  - "/tiki-index.php?page_id=13430"
+  - "/13430"
+tiki_page_id: 13430
 date: 2022-03-25
 categories:
   - "Fortification with Vitamin D"

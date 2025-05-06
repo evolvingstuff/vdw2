@@ -3,7 +3,8 @@ title: "Congress members demand FDA Investigate COVID-19 Vaccine Injuries"
 slug: "congress-members-demand-fda-investigate-covid-19-vaccine-injuries"
 aliases:
   - "/Congress+members+demand+FDA+Investigate+COVID-19+Vaccine+Injuries+–+Sept+2022"
-  - "/tiki-index.php?page_id=13940"
+  - "/13940"
+tiki_page_id: 13940
 date: 2022-09-26
 categories:
   - "Virus"

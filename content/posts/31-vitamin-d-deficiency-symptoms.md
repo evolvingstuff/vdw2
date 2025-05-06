@@ -3,7 +3,8 @@ title: "31 Vitamin D Deficiency Symptoms"
 slug: "31-vitamin-d-deficiency-symptoms"
 aliases:
   - "/31+Vitamin+D+Deficiency+Symptoms+-+Oct+2023"
-  - "/tiki-index.php?page_id=14781"
+  - "/14781"
+tiki_page_id: 14781
 date: 2023-10-25
 ---
 

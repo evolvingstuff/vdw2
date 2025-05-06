@@ -3,7 +3,8 @@ title: "The clinician's guide to prevention and treatment of osteoporosis (vitam
 slug: "the-clinicians-guide-to-prevention-and-treatment-of-osteoporosis-vitamin-d-is-mentioned"
 aliases:
   - "/The+clinicians+guide+to+prevention+and+treatment+of+osteoporosis+vitamin+D+is+mentioned+–+April+2022"
-  - "/tiki-index.php?page_id=13527"
+  - "/13527"
+tiki_page_id: 13527
 date: 2022-04-28
 categories:
   - "Osteoporosis"

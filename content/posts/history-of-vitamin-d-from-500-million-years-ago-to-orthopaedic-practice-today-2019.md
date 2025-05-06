@@ -3,7 +3,8 @@ title: "History of Vitamin D from 500 million years ago to orthopaedic practice 
 slug: "history-of-vitamin-d-from-500-million-years-ago-to-orthopaedic-practice-today-2019"
 aliases:
   - "/History+of+Vitamin+D+from+500+million+years+ago+to+orthopaedic+practice+today+–+2019"
-  - "/tiki-index.php?page_id=10725"
+  - "/10725"
+tiki_page_id: 10725
 date: 2019-05-01
 categories:
   - "Bone - Health"

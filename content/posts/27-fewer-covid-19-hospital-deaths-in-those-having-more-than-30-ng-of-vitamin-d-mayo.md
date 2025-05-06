@@ -3,7 +3,8 @@ title: "2.7 fewer COVID-19 hospital deaths in those having more than 30 ng of vi
 slug: "27-fewer-covid-19-hospital-deaths-in-those-having-more-than-30-ng-of-vitamin-d-mayo"
 aliases:
   - "/27+fewer+COVID-19+hospital+deaths+in+those+having+more+than+30+ng+of+vitamin+D+–+Mayo+Jan+9+2021"
-  - "/tiki-index.php?page_id=12254"
+  - "/12254"
+tiki_page_id: 12254
 date: 2021-01-24
 categories:
   - "Mortality and D"

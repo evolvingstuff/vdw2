@@ -3,7 +3,8 @@ title: "Vaccine holdouts aren't Republicans, but those under age 60 where percei
 slug: "vaccine-holdouts-arent-republicans-but-those-under-age-60-where-perceived-risk-is-worse-than-covid"
 aliases:
   - "/Vaccine+holdouts+arent+Republicans+but+those+under+age+60+where+perceived+risk+is+worse+than+COVID+–+Dec+2021"
-  - "/tiki-index.php?page_id=13220"
+  - "/13220"
+tiki_page_id: 13220
 date: 2021-12-27
 categories:
   - "Virus"

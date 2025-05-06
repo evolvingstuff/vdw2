@@ -3,7 +3,8 @@ title: "Congressional Black Caucus Foundation (Wash D.C) invited Dr. Matthews to
 slug: "congressional-black-caucus-foundation-wash-dc-invited-dr-matthews-to-speak-to-them-on-vitamin-d"
 aliases:
   - "/Congressional+Black+Caucus+Foundation+Wash+DC+invited+Dr+Matthews+to+speak+to+them+on+Vitamin+D+–+Sept+2018"
-  - "/tiki-index.php?page_id=10008"
+  - "/10008"
+tiki_page_id: 10008
 date: 2018-09-06
 categories:
   - "Skin - Dark"

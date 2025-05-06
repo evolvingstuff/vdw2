@@ -3,7 +3,8 @@ title: "Vitality recaptured with Vitamin D (stories of Swedish immigrant women i
 slug: "vitality-recaptured-with-vitamin-d-stories-of-swedish-immigrant-women-in-this-case"
 aliases:
   - "/Vitality+recaptured+with+Vitamin+D+stories+of+Swedish+immigrant+women+in+this+case+–+Dec+2019"
-  - "/tiki-index.php?page_id=11232"
+  - "/11232"
+tiki_page_id: 11232
 date: 2019-10-14
 categories:
   - "Skin - Dark"

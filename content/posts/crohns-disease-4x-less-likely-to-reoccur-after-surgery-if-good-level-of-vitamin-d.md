@@ -3,7 +3,8 @@ title: "Crohn's Disease 4X less likely to reoccur after surgery if good level of
 slug: "crohns-disease-4x-less-likely-to-reoccur-after-surgery-if-good-level-of-vitamin-d"
 aliases:
   - "/Crohns+Disease+4X+less+likely+to+reoccur+after+surgery+if+good+level+of+vitamin+D+–+Feb+2021"
-  - "/tiki-index.php?page_id=12311"
+  - "/12311"
+tiki_page_id: 12311
 date: 2021-02-09
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Clinical Review of vitamin D"
 slug: "clinical-review-of-vitamin-d"
 aliases:
   - "/Clinical+Review+of+vitamin+D+–+May+2022"
-  - "/tiki-index.php?page_id=13749"
+  - "/13749"
+tiki_page_id: 13749
 date: 2022-07-11
 categories:
   - "Tests for Vitamin D"

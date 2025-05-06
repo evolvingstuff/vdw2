@@ -3,7 +3,8 @@ title: "More people with Chronic Kidney Disease are now getting Vitamin D prescr
 slug: "more-people-with-chronic-kidney-disease-are-now-getting-vitamin-d-prescriptions-india"
 aliases:
   - "/More+people+with+Chronic+Kidney+Disease+are+now+getting+Vitamin+D+prescriptions+India+–+Sept+2021"
-  - "/tiki-index.php?page_id=12877"
+  - "/12877"
+tiki_page_id: 12877
 date: 2021-09-05
 categories:
   - "Kidney"

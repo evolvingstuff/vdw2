@@ -3,7 +3,8 @@ title: "COVID variants in US evade bivalent vaccination by 3X to 13X – Cell"
 slug: "covid-variants-in-us-evade-bivalent-vaccination-by-3x-to-13x-cell"
 aliases:
   - "/COVID+variants+in+US+evade+bivalent+vaccination+by+3X+to+13X+–+Cell+Dec+13+2022"
-  - "/tiki-index.php?page_id=14155"
+  - "/14155"
+tiki_page_id: 14155
 date: 2022-12-17
 categories:
   - "Virus"

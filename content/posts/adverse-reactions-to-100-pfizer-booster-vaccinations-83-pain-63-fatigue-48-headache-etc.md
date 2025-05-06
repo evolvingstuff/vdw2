@@ -3,7 +3,8 @@ title: "Adverse reactions to 100 Pfizer booster vaccinations: 83 pain, 63 fatigu
 slug: "adverse-reactions-to-100-pfizer-booster-vaccinations-83-pain-63-fatigue-48-headache-etc"
 aliases:
   - "/Adverse+reactions+to+100+Pfizer+booster+vaccinations+83+pain+63+fatigue+48+headache+etc+-+Sept+2021"
-  - "/tiki-index.php?page_id=12980"
+  - "/12980"
+tiki_page_id: 12980
 date: 2021-10-13
 categories:
   - "Virus"

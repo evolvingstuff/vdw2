@@ -3,7 +3,8 @@ title: "Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith"
 slug: "vitamin-d-daily-evolution-4000-iu-government-800-iu-veith"
 aliases:
   - "/Vitamin+D+daily+-+Evolution+4000+IU+Government+800+IU–+Veith+Oct+2022"
-  - "/tiki-index.php?page_id=14048"
+  - "/14048"
+tiki_page_id: 14048
 date: 2022-10-28
 categories:
   - "How, when to take Vit. D"

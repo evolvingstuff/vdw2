@@ -3,7 +3,8 @@ title: "Vitamin D was the only supplement that fought COVID-19 (out of 6)"
 slug: "vitamin-d-was-the-only-supplement-that-fought-covid-19-out-of-6"
 aliases:
   - "/Vitamin+D+was+the+only+supplement+that+fought+COVID-19+out+of+6+–+Oct+2021"
-  - "/tiki-index.php?page_id=13004"
+  - "/13004"
+tiki_page_id: 13004
 date: 2021-10-18
 categories:
   - "Supplement"

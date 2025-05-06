@@ -3,7 +3,8 @@ title: "Male brains age faster if low vitamin D (perhaps male-pattern baldness f
 slug: "male-brains-age-faster-if-low-vitamin-d-perhaps-male-pattern-baldness-fights-this"
 aliases:
   - "/Male+brains+age+faster+if+low+vitamin+D+perhaps+male-pattern+baldness+fights+this+-+Oct+2022"
-  - "/tiki-index.php?page_id=14063"
+  - "/14063"
+tiki_page_id: 14063
 date: 2022-10-31
 categories:
   - "Cognitive"

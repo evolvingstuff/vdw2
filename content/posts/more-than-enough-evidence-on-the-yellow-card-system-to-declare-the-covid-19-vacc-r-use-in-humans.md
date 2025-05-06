@@ -3,7 +3,8 @@ title: "More than enough evidence on the Yellow Card system to declare the COVID
 slug: "more-than-enough-evidence-on-the-yellow-card-system-to-declare-the-covid-19-vacc-r-use-in-humans"
 aliases:
   - "/More+than+enough+evidence+on+the+Yellow+Card+system+to+declare+the+COVID-19+vaccines+unsafe+for+use+in+humans+-+June+9+2021"
-  - "/tiki-index.php?page_id=12646"
+  - "/12646"
+tiki_page_id: 12646
 date: 2021-06-10
 categories:
   - "Top news"

@@ -3,7 +3,8 @@ title: "Vitamin D and the skin"
 slug: "vitamin-d-and-the-skin"
 aliases:
   - "/Vitamin+D+and+the+skin+–+July+2023"
-  - "/tiki-index.php?page_id=14615"
+  - "/14615"
+tiki_page_id: 14615
 date: 2023-08-16
 categories:
   - "Skin"

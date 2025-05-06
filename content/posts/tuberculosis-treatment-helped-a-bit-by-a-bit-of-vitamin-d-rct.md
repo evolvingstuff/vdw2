@@ -3,7 +3,8 @@ title: "Tuberculosis treatment helped a bit by a bit of Vitamin D - RCT"
 slug: "tuberculosis-treatment-helped-a-bit-by-a-bit-of-vitamin-d-rct"
 aliases:
   - "/Tuberculosis+treatment+helped+a+bit+by+a+bit+of+Vitamin+D+-+RCT+Feb+2022"
-  - "/tiki-index.php?page_id=13351"
+  - "/13351"
+tiki_page_id: 13351
 date: 2022-02-24
 categories:
   - "Tuberculosis"

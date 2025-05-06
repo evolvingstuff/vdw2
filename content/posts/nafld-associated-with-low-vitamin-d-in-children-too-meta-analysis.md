@@ -3,7 +3,8 @@ title: "NAFLD associated with low vitamin D (in children too) – meta-analysis"
 slug: "nafld-associated-with-low-vitamin-d-in-children-too-meta-analysis"
 aliases:
   - "/NAFLD+associated+with+low+vitamin+D+in+children+too+–+meta-analysis+Aug+2019"
-  - "/tiki-index.php?page_id=11045"
+  - "/11045"
+tiki_page_id: 11045
 date: 2019-08-06
 categories:
   - "Liver"

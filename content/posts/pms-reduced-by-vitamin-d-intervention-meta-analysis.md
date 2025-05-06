@@ -3,7 +3,8 @@ title: "PMS reduced by Vitamin D intervention - meta-analysis"
 slug: "pms-reduced-by-vitamin-d-intervention-meta-analysis"
 aliases:
   - "/PMS+reduced+by+Vitamin+D+intervention+-+meta-analysis+May+2019"
-  - "/tiki-index.php?page_id=10761"
+  - "/10761"
+tiki_page_id: 10761
 date: 2019-05-11
 categories:
   - "Meta-analysis of Vitamin D"

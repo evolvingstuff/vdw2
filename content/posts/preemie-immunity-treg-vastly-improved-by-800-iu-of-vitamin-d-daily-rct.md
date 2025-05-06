@@ -3,7 +3,8 @@ title: "Preemie immunity (Treg) vastly improved by 800 IU of Vitamin D daily –
 slug: "preemie-immunity-treg-vastly-improved-by-800-iu-of-vitamin-d-daily-rct"
 aliases:
   - "/Preemie+immunity+Treg+vastly+improved+by+800+IU+of+Vitamin+D+daily+–+RCT+July+2019"
-  - "/tiki-index.php?page_id=11017"
+  - "/11017"
+tiki_page_id: 11017
 date: 2019-07-24
 categories:
   - "Immunity"

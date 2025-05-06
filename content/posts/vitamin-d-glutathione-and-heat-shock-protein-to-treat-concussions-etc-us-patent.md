@@ -3,7 +3,8 @@ title: "Vitamin D, glutathione, and heat shock protein to treat concussions, etc
 slug: "vitamin-d-glutathione-and-heat-shock-protein-to-treat-concussions-etc-us-patent"
 aliases:
   - "/Vitamin+D+glutathione+and+heat+shock+protein+to+treat+concussions+etc+–+US+Patent+Dec+2019"
-  - "/tiki-index.php?page_id=11494"
+  - "/11494"
+tiki_page_id: 11494
 date: 2019-12-24
 categories:
   - "Trauma and surgery"

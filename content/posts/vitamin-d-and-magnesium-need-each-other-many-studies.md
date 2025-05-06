@@ -3,7 +3,8 @@ title: "Vitamin D and Magnesium need each other - many studies"
 slug: "vitamin-d-and-magnesium-need-each-other-many-studies"
 aliases:
   - "/Vitamin+D+and+Magnesium+need+each+other+-+many+studies"
-  - "/tiki-index.php?page_id=13391"
+  - "/13391"
+tiki_page_id: 13391
 date: 2022-03-12
 categories:
   - "Deficiency of Vitamin D"

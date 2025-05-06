@@ -3,7 +3,8 @@ title: "Omega-3 paused Alzheimer's decline - RCT"
 slug: "omega-3-paused-alzheimers-decline-rct"
 aliases:
   - "/Omega-3+paused+Alzheimers+decline+-+RCT+Sept+2021"
-  - "/tiki-index.php?page_id=12890"
+  - "/12890"
+tiki_page_id: 12890
 date: 2021-09-11
 categories:
   - "Cognitive"

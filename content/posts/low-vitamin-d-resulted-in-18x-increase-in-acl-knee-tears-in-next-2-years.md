@@ -3,7 +3,8 @@ title: "Low Vitamin D resulted in 1.8X increase in ACL knee tears in next 2 year
 slug: "low-vitamin-d-resulted-in-18x-increase-in-acl-knee-tears-in-next-2-years"
 aliases:
   - "/Low+Vitamin+D+resulted+in+18X+increase+in+ACL+knee+tears+in+next+2+years+–+April+2023"
-  - "/tiki-index.php?page_id=14409"
+  - "/14409"
+tiki_page_id: 14409
 date: 2023-05-02
 categories:
   - "Sports and Vitamin D"

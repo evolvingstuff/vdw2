@@ -3,7 +3,8 @@ title: "Vitamin D accumulation in 1 in 300 people due to gene (CYP24A1) can caus
 slug: "vitamin-d-accumulation-in-1-in-300-people-due-to-gene-cyp24a1-can-cause-calcium-problems"
 aliases:
   - "/Vitamin+D+accumulation+in+1+in+300+people+due+to+gene+CYP24A1+can+cause+Calcium+problems+–+June+2018"
-  - "/tiki-index.php?page_id=10355"
+  - "/10355"
+tiki_page_id: 10355
 date: 2018-12-30
 categories:
   - "Toxicity of Vitamin D"

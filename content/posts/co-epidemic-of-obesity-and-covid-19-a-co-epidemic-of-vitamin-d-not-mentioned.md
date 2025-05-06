@@ -3,7 +3,8 @@ title: "Co-Epidemic of Obesity and COVID-19 (a co-epidemic of Vitamin D not ment
 slug: "co-epidemic-of-obesity-and-covid-19-a-co-epidemic-of-vitamin-d-not-mentioned"
 aliases:
   - "/Co-Epidemic+of+Obesity+and+COVID-19+a+co-epidemic+of+Vitamin+D+not+mentioned+–+April+2021"
-  - "/tiki-index.php?page_id=12547"
+  - "/12547"
+tiki_page_id: 12547
 date: 2021-04-28
 categories:
   - "Obesity"

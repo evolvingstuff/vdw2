@@ -3,7 +3,8 @@ title: "Emergency use of vaccine only if \"No adequate, approved, and available 
 slug: "emergency-use-of-vaccine-only-if-no-adequate-approved-and-available-alternative-such-as-vitamin-d"
 aliases:
   - "/Emergency+use+of+vaccine+only+if+No+adequate+approved+and+available+alternative+such+as+vitamin+D-+May+2021"
-  - "/tiki-index.php?page_id=12632"
+  - "/12632"
+tiki_page_id: 12632
 date: 2021-06-03
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Pfizer vaccine half as effective as Moderna after 6 months (fading or De
 slug: "pfizer-vaccine-half-as-effective-as-moderna-after-6-months-fading-or-delta-mayo-preprint"
 aliases:
   - "/Pfizer+vaccine+half+as+effective+as+Moderna+after+6+months+fading+or+Delta+-+Mayo+preprint+Aug+2021"
-  - "/tiki-index.php?page_id=12953"
+  - "/12953"
+tiki_page_id: 12953
 date: 2021-10-05
 categories:
   - "Virus"

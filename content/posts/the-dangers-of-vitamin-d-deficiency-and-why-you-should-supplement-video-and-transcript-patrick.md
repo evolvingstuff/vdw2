@@ -3,7 +3,8 @@ title: "The Dangers of Vitamin D Deficiency (and why you should supplement), Vid
 slug: "the-dangers-of-vitamin-d-deficiency-and-why-you-should-supplement-video-and-transcript-patrick"
 aliases:
   - "/The+Dangers+of+Vitamin+D+Deficiency+and+why+you+should+supplement+Video+and+transcript+Patrick+-+Nov+2023"
-  - "/tiki-index.php?page_id=14850"
+  - "/14850"
+tiki_page_id: 14850
 date: 2023-11-28
 categories:
   - "Books, videos on Vitamin D"

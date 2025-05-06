@@ -3,7 +3,8 @@ title: "Hemodialysis deaths less likely if take vitamin D, especially if highest
 slug: "hemodialysis-deaths-less-likely-if-take-vitamin-d-especially-if-highest-dose-vitamin-d"
 aliases:
   - "/Hemodialysis+deaths+less+likely+if+take+vitamin+D+especially+if+highest+dose+vitamin+D+–+Nov+2018"
-  - "/tiki-index.php?page_id=10192"
+  - "/10192"
+tiki_page_id: 10192
 date: 2018-11-10
 categories:
   - "Kidney"

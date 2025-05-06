@@ -3,7 +3,8 @@ title: "Pregnant while black increases chance of death – mothers 3X, infants 2
 slug: "pregnant-while-black-increases-chance-of-death-mothers-3x-infants-2x-low-vitamin-d"
 aliases:
   - "/Pregnant+while+black+increases+chance+of+death+–+mothers+3X+infants+2X+low+Vitamin+D+–+Feb+2019"
-  - "/tiki-index.php?page_id=10500"
+  - "/10500"
+tiki_page_id: 10500
 date: 2019-02-19
 categories:
   - "Skin - Dark"

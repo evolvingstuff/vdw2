@@ -3,7 +3,8 @@ title: "Gut and airway bionome are affected by Vitamin D and Vitamin D Receptor"
 slug: "gut-and-airway-bionome-are-affected-by-vitamin-d-and-vitamin-d-receptor"
 aliases:
   - "/Gut+and+airway+bionome+are+affected+by+Vitamin+D+and+Vitamin+D+Receptor+–+Nov+2018"
-  - "/tiki-index.php?page_id=10320"
+  - "/10320"
+tiki_page_id: 10320
 date: 2018-12-16
 categories:
   - "Breathing"

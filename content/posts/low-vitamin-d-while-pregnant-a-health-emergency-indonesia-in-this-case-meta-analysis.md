@@ -3,7 +3,8 @@ title: "Low vitamin D while pregnant – a health emergency (Indonesia in this c
 slug: "low-vitamin-d-while-pregnant-a-health-emergency-indonesia-in-this-case-meta-analysis"
 aliases:
   - "/Low+vitamin+D+while+pregnant+–+a+health+emergency+Indonesia+in+this+case+–+meta-analysis+May+2023"
-  - "/tiki-index.php?page_id=14473"
+  - "/14473"
+tiki_page_id: 14473
 date: 2023-06-06
 categories:
   - "Skin - Dark"

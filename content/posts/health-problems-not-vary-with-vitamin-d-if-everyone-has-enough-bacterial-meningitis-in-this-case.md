@@ -3,7 +3,8 @@ title: "Health problems not vary with vitamin D if everyone has enough (bacteria
 slug: "health-problems-not-vary-with-vitamin-d-if-everyone-has-enough-bacterial-meningitis-in-this-case"
 aliases:
   - "/Health+problems+not+vary+with+vitamin+D+if+everyone+has+enough+bacterial+meningitis+in+this+case+–+June+2018"
-  - "/tiki-index.php?page_id=12350"
+  - "/12350"
+tiki_page_id: 12350
 date: 2021-02-24
 ---
 

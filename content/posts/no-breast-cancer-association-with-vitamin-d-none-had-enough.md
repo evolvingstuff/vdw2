@@ -3,7 +3,8 @@ title: "No Breast Cancer association with Vitamin D (none had enough)"
 slug: "no-breast-cancer-association-with-vitamin-d-none-had-enough"
 aliases:
   - "/No+Breast+Cancer+association+with+Vitamin+D+none+had+enough+–+Jan+2023"
-  - "/tiki-index.php?page_id=14230"
+  - "/14230"
+tiki_page_id: 14230
 date: 2023-01-25
 categories:
   - "Cancer - Breast"

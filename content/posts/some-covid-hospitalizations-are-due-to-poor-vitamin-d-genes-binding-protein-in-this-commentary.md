@@ -3,7 +3,8 @@ title: "Some COVID hospitalizations are due to poor Vitamin D genes (Binding Pro
 slug: "some-covid-hospitalizations-are-due-to-poor-vitamin-d-genes-binding-protein-in-this-commentary"
 aliases:
   - "/Some+COVID+hospitalizations+are+due+to+poor+Vitamin+D+genes+Binding+Protein+in+this+commentary+–+June+2022"
-  - "/tiki-index.php?page_id=13736"
+  - "/13736"
+tiki_page_id: 13736
 date: 2022-07-07
 categories:
   - "Vit D Binding Protein"

@@ -3,7 +3,8 @@ title: "Preterm birth risk increased 16 pcnt if heat wave (perhaps outside less)
 slug: "preterm-birth-risk-increased-16-pcnt-if-heat-wave-perhaps-outside-less"
 aliases:
   - "/Preterm+birth+risk+increased+16+pcnt+if+heat+wave+perhaps+outside+less+-+Nov+2020"
-  - "/tiki-index.php?page_id=12070"
+  - "/12070"
+tiki_page_id: 12070
 date: 2020-11-16
 categories:
   - "Pregnancy"

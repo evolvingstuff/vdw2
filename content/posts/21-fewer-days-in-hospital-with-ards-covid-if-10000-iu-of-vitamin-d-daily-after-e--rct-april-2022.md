@@ -3,7 +3,8 @@ title: "21 fewer days in hospital with ARDS (COVID) if 10,000 IU of Vitamin D da
 slug: "21-fewer-days-in-hospital-with-ards-covid-if-10000-iu-of-vitamin-d-daily-after-e--rct-april-2022"
 aliases:
   - "/21+fewer+days+in+hospital+with+ARDS+COVID+if+10000+IU+of+Vitamin+D+daily+after+enter+hospital+–+RCT+April+2022"
-  - "/tiki-index.php?page_id=13495"
+  - "/13495"
+tiki_page_id: 13495
 date: 2022-04-18
 categories:
   - "Intervention"

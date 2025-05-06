@@ -3,7 +3,8 @@ title: "Vitamin D is a team player – needs Ca, Mg, K2 - Pizzorno"
 slug: "vitamin-d-is-a-team-player-needs-ca-mg-k2-pizzorno"
 aliases:
   - "/Vitamin+D+is+a+team+player+–+needs+Ca+Mg+K2+-+Pizzorno+Sept+2022"
-  - "/tiki-index.php?page_id=14211"
+  - "/14211"
+tiki_page_id: 14211
 date: 2023-01-17
 ---
 

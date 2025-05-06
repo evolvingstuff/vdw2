@@ -3,7 +3,8 @@ title: "TB again not prevented by a small amount of Vitamin D – RCT"
 slug: "tb-again-not-prevented-by-a-small-amount-of-vitamin-d-rct"
 aliases:
   - "/TB+again+not+prevented+by+a+small+amount+of+Vitamin+D+–+RCT+Aug+2023"
-  - "/tiki-index.php?page_id=14601"
+  - "/14601"
+tiki_page_id: 14601
 date: 2023-08-10
 categories:
   - "Tuberculosis"

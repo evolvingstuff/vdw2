@@ -3,7 +3,8 @@ title: "Vitamin D: not one size, type, form, route for all"
 slug: "vitamin-d-not-one-size-type-form-route-for-all"
 aliases:
   - "/Vitamin+D+not+one+size+type+form+route+for+all+-+Jan+2022"
-  - "/tiki-index.php?page_id=13295"
+  - "/13295"
+tiki_page_id: 13295
 date: 2022-01-29
 categories:
   - "How much Vitamin D"

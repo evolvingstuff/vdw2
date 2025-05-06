@@ -3,7 +3,8 @@ title: "COVID-19 antibodies 2.6 X more likely if had symptoms and low vitamin D 
 slug: "covid-19-antibodies-26-x-more-likely-if-had-symptoms-and-low-vitamin-d-uk-hospital-staff"
 aliases:
   - "/COVID-19+antibodies+26+X+more+likely+if+had+symptoms+and+low+vitamin+D+UK+hospital+staff–+Oct+5+2020"
-  - "/tiki-index.php?page_id=12006"
+  - "/12006"
+tiki_page_id: 12006
 date: 2020-10-11
 categories:
   - "Skin - Dark"

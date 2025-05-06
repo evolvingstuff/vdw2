@@ -3,7 +3,8 @@ title: "COVID-19 increased 3.5 X if Ultra-Orthodox (cloth) Sept, 2020"
 slug: "covid-19-increased-35-x-if-ultra-orthodox-cloth-sept-2020"
 aliases:
   - "/COVID-19+increased+35+X+if+Ultra-Orthodox+cloth+Sept+2020"
-  - "/tiki-index.php?page_id=11938"
+  - "/11938"
+tiki_page_id: 11938
 date: 2020-09-07
 categories:
   - "Skin - Dark"

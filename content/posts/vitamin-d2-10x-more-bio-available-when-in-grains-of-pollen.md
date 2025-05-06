@@ -3,7 +3,8 @@ title: "Vitamin D2 10X more bio-available when in grains of pollen"
 slug: "vitamin-d2-10x-more-bio-available-when-in-grains-of-pollen"
 aliases:
   - "/Vitamin+D2+10X+more+bio-available+when+in+grains+of+pollen+–+Oct+2022"
-  - "/tiki-index.php?page_id=13893"
+  - "/13893"
+tiki_page_id: 13893
 date: 2022-09-07
 categories:
   - "Forms of Vitamin D"

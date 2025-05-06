@@ -3,7 +3,8 @@ title: "Following brain surgery Vitamin D injections did not raise blood levels 
 slug: "following-brain-surgery-vitamin-d-injections-did-not-raise-blood-levels-much-rct"
 aliases:
   - "/Following+brain+surgery+Vitamin+D+injections+did+not+raise+blood+levels+much+–+RCT+June+2019"
-  - "/tiki-index.php?page_id=10851"
+  - "/10851"
+tiki_page_id: 10851
 date: 2019-06-11
 categories:
   - "Trauma and surgery"

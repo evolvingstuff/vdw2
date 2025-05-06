@@ -3,7 +3,8 @@ title: "Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer CO
 slug: "residents-of-a-nursing-home-who-choose-monthly-vitamin-d-had-4x-fewer-covid-19-deaths"
 aliases:
   - "/Residents+of+a+Nursing+Home+who+choose+monthly+Vitamin+D+had+4X+fewer+COVID-19+deaths+–+Nov+2+2020"
-  - "/tiki-index.php?page_id=12044"
+  - "/12044"
+tiki_page_id: 12044
 date: 2020-11-02
 categories:
   - "Loading dose for Vitamin D"

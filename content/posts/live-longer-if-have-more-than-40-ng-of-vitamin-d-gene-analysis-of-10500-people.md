@@ -3,7 +3,8 @@ title: "Live longer if have more than 40 ng of Vitamin D (gene analysis of 10,50
 slug: "live-longer-if-have-more-than-40-ng-of-vitamin-d-gene-analysis-of-10500-people"
 aliases:
   - "/Live+longer+if+have+more+than+40+ng+of+Vitamin+D+gene+analysis+of+10500+people+–+Jan+2019"
-  - "/tiki-index.php?page_id=10377"
+  - "/10377"
+tiki_page_id: 10377
 date: 2019-01-06
 categories:
   - "Mortality and D"

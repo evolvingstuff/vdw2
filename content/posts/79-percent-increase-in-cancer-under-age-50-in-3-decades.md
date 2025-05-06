@@ -3,7 +3,8 @@ title: "79% increase in cancer under age 50 in 3 decades"
 slug: "79-percent-increase-in-cancer-under-age-50-in-3-decades"
 aliases:
   - "/79+increase+in+cancer+under+age+50+in+3+decades+-+Sept+2023"
-  - "/tiki-index.php?page_id=14836"
+  - "/14836"
+tiki_page_id: 14836
 date: 2023-11-23
 categories:
   - "Cancer"

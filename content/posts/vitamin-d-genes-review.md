@@ -3,7 +3,8 @@ title: "Vitamin D genes – Review"
 slug: "vitamin-d-genes-review"
 aliases:
   - "/Vitamin+D+genes+–+Review+June+2022"
-  - "/tiki-index.php?page_id=13725"
+  - "/13725"
+tiki_page_id: 13725
 date: 2022-06-30
 categories:
   - "Genetics"

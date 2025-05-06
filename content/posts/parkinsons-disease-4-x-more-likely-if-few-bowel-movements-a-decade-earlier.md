@@ -3,7 +3,8 @@ title: "Parkinsons disease 4 X more likely if few bowel movements a decade earli
 slug: "parkinsons-disease-4-x-more-likely-if-few-bowel-movements-a-decade-earlier"
 aliases:
   - "/Parkinsons+disease+4+X+more+likely+if+few+bowel+movements+a+decade+earlier+–+Aug+2001"
-  - "/tiki-index.php?page_id=10753"
+  - "/10753"
+tiki_page_id: 10753
 date: 2019-05-09
 ---
 

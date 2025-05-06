@@ -3,7 +3,8 @@ title: "Muscle strength improved with Calfidediol (a form of vitamin D) - meta-a
 slug: "muscle-strength-improved-with-calfidediol-a-form-of-vitamin-d-meta-analysis"
 aliases:
   - "/Muscle+strength+improved+with+Calfidediol+a+form+of+vitamin+D+-+meta-analysis+May+2022"
-  - "/tiki-index.php?page_id=13565"
+  - "/13565"
+tiki_page_id: 13565
 date: 2022-05-17
 categories:
   - "Sports and Vitamin D"

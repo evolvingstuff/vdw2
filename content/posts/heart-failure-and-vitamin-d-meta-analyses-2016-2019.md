@@ -3,7 +3,8 @@ title: "Heart Failure and Vitamin D meta-analyses - 2016, 2019"
 slug: "heart-failure-and-vitamin-d-meta-analyses-2016-2019"
 aliases:
   - "/Heart+Failure+and+Vitamin+D+meta-analyses+-+2016+2019"
-  - "/tiki-index.php?page_id=10399"
+  - "/10399"
+tiki_page_id: 10399
 date: 2019-01-14
 categories:
   - "Cardiovascular"

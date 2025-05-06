@@ -3,7 +3,8 @@ title: "Vitamin D and allergy, asthma, atopic dermatitis, food allergy, autoimmu
 slug: "vitamin-d-and-allergy-asthma-atopic-dermatitis-food-allergy-autoimmune-145-slides-2017"
 aliases:
   - "/Vitamin+D+and+allergy+asthma+atopic+dermatitis+food+allergy+autoimmune+145+slides-+2017"
-  - "/tiki-index.php?page_id=10354"
+  - "/10354"
+tiki_page_id: 10354
 date: 2018-12-30
 categories:
   - "Breathing"

@@ -3,7 +3,8 @@ title: "12 Vitamin D genes (Most are not noticed by blood test)"
 slug: "12-vitamin-d-genes-most-are-not-noticed-by-blood-test"
 aliases:
   - "/12+Vitamin+D+genes+Most+are+not+noticed+by+blood+test+–+Sept+2021"
-  - "/tiki-index.php?page_id=14539"
+  - "/14539"
+tiki_page_id: 14539
 date: 2023-07-15
 categories:
   - "Genetics"

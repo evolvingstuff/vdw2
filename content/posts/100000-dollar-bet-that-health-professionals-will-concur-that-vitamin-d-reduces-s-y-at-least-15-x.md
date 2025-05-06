@@ -3,7 +3,8 @@ title: "100,000 dollar bet that health professionals will concur that vitamin D 
 slug: "100000-dollar-bet-that-health-professionals-will-concur-that-vitamin-d-reduces-s-y-at-least-15-x"
 aliases:
   - "/100000+dollar+bet+that+health+professionals+will+concur+that+vitamin+D+reduces+severe+CoVID-19+by+at+least+15+X+–+Sept+2020"
-  - "/tiki-index.php?page_id=12349"
+  - "/12349"
+tiki_page_id: 12349
 date: 2021-02-24
 categories:
   - "Virus"

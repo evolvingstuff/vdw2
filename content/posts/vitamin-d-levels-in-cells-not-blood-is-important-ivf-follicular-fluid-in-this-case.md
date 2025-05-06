@@ -3,7 +3,8 @@ title: "Vitamin D levels in cells, not blood, is important (IVF follicular fluid
 slug: "vitamin-d-levels-in-cells-not-blood-is-important-ivf-follicular-fluid-in-this-case"
 aliases:
   - "/Vitamin+D+levels+in+cells+not+blood+is+important+IVF+follicular+fluid+in+this+case+–+Aug+2021"
-  - "/tiki-index.php?page_id=12817"
+  - "/12817"
+tiki_page_id: 12817
 date: 2021-08-10
 categories:
   - "Fertility and sperm"

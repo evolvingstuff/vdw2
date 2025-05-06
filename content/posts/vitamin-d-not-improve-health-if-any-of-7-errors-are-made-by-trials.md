@@ -3,7 +3,8 @@ title: "Vitamin D not improve health if any of 7 errors are made by trials"
 slug: "vitamin-d-not-improve-health-if-any-of-7-errors-are-made-by-trials"
 aliases:
   - "/Vitamin+D+not+improve+health+if+any+of+7+errors+are+made+by+trials+–+April+2023"
-  - "/tiki-index.php?page_id=14376"
+  - "/14376"
+tiki_page_id: 14376
 date: 2023-04-12
 categories:
   - "Cardiovascular"

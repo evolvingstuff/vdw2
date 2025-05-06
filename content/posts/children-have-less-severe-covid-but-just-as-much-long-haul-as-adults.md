@@ -3,7 +3,8 @@ title: "Children have less severe COVID, but just as much long-haul as adults"
 slug: "children-have-less-severe-covid-but-just-as-much-long-haul-as-adults"
 aliases:
   - "/Children+have+less+severe+COVID+but+just+as+much+long-haul+as+adults+-+April+2022"
-  - "/tiki-index.php?page_id=13454"
+  - "/13454"
+tiki_page_id: 13454
 date: 2022-04-06
 categories:
   - "Infant-Child"

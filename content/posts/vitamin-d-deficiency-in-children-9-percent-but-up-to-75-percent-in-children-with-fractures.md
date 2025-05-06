@@ -3,7 +3,8 @@ title: "Vitamin D deficiency in children: 9%, but up to 75% in children with fra
 slug: "vitamin-d-deficiency-in-children-9-percent-but-up-to-75-percent-in-children-with-fractures"
 aliases:
   - "/Vitamin+D+deficiency+in+children+9+but+up+to+75+in+children+with+fractures+–+April+2024"
-  - "/tiki-index.php?page_id=15194"
+  - "/15194"
+tiki_page_id: 15194
 date: 2024-04-06
 categories:
   - "Bone - Health"

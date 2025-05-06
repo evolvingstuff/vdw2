@@ -3,7 +3,8 @@ title: "Complement system (part of innate immunity) needs Vitamin D (50 ng is go
 slug: "complement-system-part-of-innate-immunity-needs-vitamin-d-50-ng-is-good"
 aliases:
   - "/Complement+system+part+of+innate+immunity+needs+Vitamin+D+50+ng+is+good+–+Sept+2022"
-  - "/tiki-index.php?page_id=13959"
+  - "/13959"
+tiki_page_id: 13959
 date: 2022-09-30
 categories:
   - "Immunity"

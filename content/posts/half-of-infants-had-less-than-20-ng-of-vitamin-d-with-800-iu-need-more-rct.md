@@ -3,7 +3,8 @@ title: "Half of infants had less than 20 ng of Vitamin D with 800 IU (need more)
 slug: "half-of-infants-had-less-than-20-ng-of-vitamin-d-with-800-iu-need-more-rct"
 aliases:
   - "/Half+of+infants+had+less+than+20+ng+of+Vitamin+D+with+800+IU+need+more+–+RCT+Sept+2022"
-  - "/tiki-index.php?page_id=13860"
+  - "/13860"
+tiki_page_id: 13860
 date: 2022-08-25
 categories:
   - "Deficiency of Vitamin D"

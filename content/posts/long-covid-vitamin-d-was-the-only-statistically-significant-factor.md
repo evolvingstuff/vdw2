@@ -3,7 +3,8 @@ title: "Long-COVID: Vitamin D was the only statistically significant factor"
 slug: "long-covid-vitamin-d-was-the-only-statistically-significant-factor"
 aliases:
   - "/Long-COVID+Vitamin+D+was+the+only+statistically+significant+factor+-+Oct+2023"
-  - "/tiki-index.php?page_id=14803"
+  - "/14803"
+tiki_page_id: 14803
 date: 2023-10-31
 ---
 

@@ -3,7 +3,8 @@ title: "Periodontal Inflammation in seniors ceases to increase when Vitamin D is
 slug: "periodontal-inflammation-in-seniors-ceases-to-increase-when-vitamin-d-is-higher-than-27-ng"
 aliases:
   - "/Periodontal+Inflammation+in+seniors+ceases+to+increase+when+Vitamin+D+is+higher+than+27+ng+–+Sept+2023"
-  - "/tiki-index.php?page_id=14617"
+  - "/14617"
+tiki_page_id: 14617
 date: 2023-08-19
 categories:
   - "Dental"

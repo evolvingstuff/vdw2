@@ -3,7 +3,8 @@ title: "Omega-3 reduces risk of COVID-19 - many studies"
 slug: "omega-3-reduces-risk-of-covid-19-many-studies"
 aliases:
   - "/Omega-3+reduces+risk+of+COVID-19+-+many+studies"
-  - "/tiki-index.php?page_id=12896"
+  - "/12896"
+tiki_page_id: 12896
 date: 2021-09-15
 categories:
   - "Vitamin D and Omega-3"

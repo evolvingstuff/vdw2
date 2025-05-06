@@ -3,7 +3,8 @@ title: "Low Vitamin D is a causal factor for Multiple Sclerosis (Mendelian analy
 slug: "low-vitamin-d-is-a-causal-factor-for-multiple-sclerosis-mendelian-analysis"
 aliases:
   - "/Low+Vitamin+D+is+a+causal+factor+for+Multiple+Sclerosis+Mendelian+analysis+–+Jan+2020"
-  - "/tiki-index.php?page_id=11565"
+  - "/11565"
+tiki_page_id: 11565
 date: 2020-01-16
 categories:
   - "Multiple Sclerosis"

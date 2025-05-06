@@ -3,7 +3,8 @@ title: "Vitamin D is a biomarker for autoimmune,  neurological and psychiatric d
 slug: "vitamin-d-is-a-biomarker-for-autoimmune-neurological-and-psychiatric-diseases"
 aliases:
   - "/Vitamin+D+is+a+biomarker+for+autoimmune+neurological+and+psychiatric+diseases+-+Jan+2022"
-  - "/tiki-index.php?page_id=13307"
+  - "/13307"
+tiki_page_id: 13307
 date: 2022-01-31
 categories:
   - "Multiple Sclerosis"

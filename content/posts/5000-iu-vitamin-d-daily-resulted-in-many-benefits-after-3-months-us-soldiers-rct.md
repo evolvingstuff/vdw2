@@ -3,7 +3,8 @@ title: "5,000 IU Vitamin D daily resulted in many benefits after 3 months (US so
 slug: "5000-iu-vitamin-d-daily-resulted-in-many-benefits-after-3-months-us-soldiers-rct"
 aliases:
   - "/5000+IU+Vitamin+D+daily+resulted+in+many+benefits+after+3+months+US+soldiers+–+RCT+March+2019"
-  - "/tiki-index.php?page_id=10996"
+  - "/10996"
+tiki_page_id: 10996
 date: 2019-07-16
 categories:
   - "Intervention"

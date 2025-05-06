@@ -3,7 +3,8 @@ title: "Evolution of human skin color – Jablonski"
 slug: "evolution-of-human-skin-color-jablonski"
 aliases:
   - "/Evolution+of+human+skin+color+–+Jablonski+April+2021"
-  - "/tiki-index.php?page_id=12481"
+  - "/12481"
+tiki_page_id: 12481
 date: 2021-04-07
 categories:
   - "Skin - Dark"

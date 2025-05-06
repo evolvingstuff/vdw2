@@ -3,7 +3,8 @@ title: "Alzheimer's disease 9X more likely in females with a poor Vitamin D Rece
 slug: "alzheimers-disease-9x-more-likely-in-females-with-a-poor-vitamin-d-receptor"
 aliases:
   - "/Alzheimers+disease+9X+more+likely+in+females+with+a+poor+Vitamin+D+Receptor+–+Sept+2022"
-  - "/tiki-index.php?page_id=13872"
+  - "/13872"
+tiki_page_id: 13872
 date: 2022-08-27
 ---
 

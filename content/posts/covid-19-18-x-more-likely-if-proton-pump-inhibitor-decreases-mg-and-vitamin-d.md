@@ -3,7 +3,8 @@ title: "COVID-19 1.8 X more likely if proton pump inhibitor (decreases Mg and Vi
 slug: "covid-19-18-x-more-likely-if-proton-pump-inhibitor-decreases-mg-and-vitamin-d"
 aliases:
   - "/COVID-19+18+X+more+likely+if+proton+pump+inhibitor+decreases+Mg+and+Vitamin+D+–+Aug+2020"
-  - "/tiki-index.php?page_id=11889"
+  - "/11889"
+tiki_page_id: 11889
 date: 2020-08-07
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Radiation therapy for cancer should be helped by Vitamin D"
 slug: "radiation-therapy-for-cancer-should-be-helped-by-vitamin-d"
 aliases:
   - "/Radiation+therapy+for+cancer+should+be+helped+by+Vitamin+D+–+April+2021"
-  - "/tiki-index.php?page_id=12556"
+  - "/12556"
+tiki_page_id: 12556
 date: 2021-04-30
 categories:
   - "Cancer - after diagnosis"

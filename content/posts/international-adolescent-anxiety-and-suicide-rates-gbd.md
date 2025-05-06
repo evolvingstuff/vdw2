@@ -3,7 +3,8 @@ title: "International Adolescent Anxiety and suicide rates - GBD"
 slug: "international-adolescent-anxiety-and-suicide-rates-gbd"
 aliases:
   - "/International+Adolescent+Anxiety+and+suicide+rates+-+GBD+April+2024"
-  - "/tiki-index.php?page_id=15195"
+  - "/15195"
+tiki_page_id: 15195
 date: 2024-04-07
 categories:
   - "Depression"

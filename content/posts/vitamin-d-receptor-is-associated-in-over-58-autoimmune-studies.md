@@ -3,7 +3,8 @@ title: "Vitamin D Receptor is associated in over 58 autoimmune studies"
 slug: "vitamin-d-receptor-is-associated-in-over-58-autoimmune-studies"
 aliases:
   - "/Vitamin+D+Receptor+is+associated+in+over+58+autoimmune+studies"
-  - "/tiki-index.php?page_id=11433"
+  - "/11433"
+tiki_page_id: 11433
 date: 2019-12-07
 categories:
   - "Autoimmune"

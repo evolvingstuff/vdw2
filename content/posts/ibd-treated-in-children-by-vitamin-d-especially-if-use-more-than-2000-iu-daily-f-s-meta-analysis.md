@@ -3,7 +3,8 @@ title: "IBD treated in children by Vitamin D, especially if use more than 2,000 
 slug: "ibd-treated-in-children-by-vitamin-d-especially-if-use-more-than-2000-iu-daily-f-s-meta-analysis"
 aliases:
   - "/IBD+treated+in+children+by+Vitamin+D+especially+if+use+more+than+2000+IU+daily+for+12+weeks+–+meta-analysis+–+Sept+2022"
-  - "/tiki-index.php?page_id=13912"
+  - "/13912"
+tiki_page_id: 13912
 date: 2022-09-14
 categories:
   - "Meta-analysis of Vitamin D"

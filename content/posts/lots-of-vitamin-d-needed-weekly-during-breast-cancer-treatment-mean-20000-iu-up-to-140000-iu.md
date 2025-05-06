@@ -3,7 +3,8 @@ title: "Lots of Vitamin D needed weekly during Breast Cancer Treatment (mean 20,
 slug: "lots-of-vitamin-d-needed-weekly-during-breast-cancer-treatment-mean-20000-iu-up-to-140000-iu"
 aliases:
   - "/Lots+of+Vitamin+D+needed+weekly+during+Breast+Cancer+Treatment+mean+20000+IU+up+to+140000+IU+–+March+2024"
-  - "/tiki-index.php?page_id=15178"
+  - "/15178"
+tiki_page_id: 15178
 date: 2024-03-29
 categories:
   - "Cancer - Breast"

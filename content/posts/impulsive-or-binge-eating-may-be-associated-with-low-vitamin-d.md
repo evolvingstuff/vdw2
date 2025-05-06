@@ -3,7 +3,8 @@ title: "Impulsive or binge eating may be associated with low vitamin D"
 slug: "impulsive-or-binge-eating-may-be-associated-with-low-vitamin-d"
 aliases:
   - "/Impulsive+or+binge+eating+may+be+associated+with+low+vitamin+D+–+Nov+2018"
-  - "/tiki-index.php?page_id=10215"
+  - "/10215"
+tiki_page_id: 10215
 date: 2018-11-20
 categories:
   - "Obesity"

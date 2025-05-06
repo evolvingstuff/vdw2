@@ -3,7 +3,8 @@ title: "Out-of-pocket costs for COVID-19 hospitalization at least 1500 dollars"
 slug: "out-of-pocket-costs-for-covid-19-hospitalization-at-least-1500-dollars"
 aliases:
   - "/Out-of-pocket+costs+for+COVID-19+hospitalization+at+least+1500+dollars+–+Sept+2021"
-  - "/tiki-index.php?page_id=12901"
+  - "/12901"
+tiki_page_id: 12901
 date: 2021-09-19
 categories:
   - "Virus"

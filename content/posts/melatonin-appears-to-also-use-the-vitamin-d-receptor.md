@@ -3,7 +3,8 @@ title: "Melatonin appears to also use the Vitamin D Receptor"
 slug: "melatonin-appears-to-also-use-the-vitamin-d-receptor"
 aliases:
   - "/Melatonin+appears+to+also+use+the+Vitamin+D+Receptor+–+Oct+2019"
-  - "/tiki-index.php?page_id=11256"
+  - "/11256"
+tiki_page_id: 11256
 date: 2019-10-22
 ---
 

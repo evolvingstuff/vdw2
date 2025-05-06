@@ -3,7 +3,8 @@ title: "Vitamin D and COVID-19 - observational studies found it helps, never hur
 slug: "vitamin-d-and-covid-19-observational-studies-found-it-helps-never-hurts-campbell"
 aliases:
   - "/Vitamin+D+and+COVID-19+-+observational+studies+found+it+helps+never+hurts+-+Campbell+Oct+31+2020"
-  - "/tiki-index.php?page_id=12039"
+  - "/12039"
+tiki_page_id: 12039
 date: 2020-11-01
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D reduces childhood allergic airway diseases (confirmed by metab
 slug: "vitamin-d-reduces-childhood-allergic-airway-diseases-confirmed-by-metabolomics-this-time"
 aliases:
   - "/Vitamin+D+reduces+childhood+allergic+airway+diseases+confirmed+by+metabolomics+this+time+–+May+2022"
-  - "/tiki-index.php?page_id=13596"
+  - "/13596"
+tiki_page_id: 13596
 date: 2022-05-26
 categories:
   - "Breathing"

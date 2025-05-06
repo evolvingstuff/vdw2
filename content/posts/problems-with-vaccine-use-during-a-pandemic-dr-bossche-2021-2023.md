@@ -3,7 +3,8 @@ title: "Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023"
 slug: "problems-with-vaccine-use-during-a-pandemic-dr-bossche-2021-2023"
 aliases:
   - "/Problems+with+vaccine+use+during+a+pandemic+-+Dr+Bossche+2021+-+2023"
-  - "/tiki-index.php?page_id=13096"
+  - "/13096"
+tiki_page_id: 13096
 date: 2021-11-19
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Allergy medications may be improved by Vitamin D (6X for birch pollen in
 slug: "allergy-medications-may-be-improved-by-vitamin-d-6x-for-birch-pollen-in-this-case"
 aliases:
   - "/Allergy+medications+may+be+improved+by+Vitamin+D+6X+for+birch+pollen+in+this+case+–+Aug+2021"
-  - "/tiki-index.php?page_id=12827"
+  - "/12827"
+tiki_page_id: 12827
 date: 2021-08-15
 categories:
   - "Breathing"

@@ -3,7 +3,8 @@ title: "Mortality reduction needs more than monthly 60,000 IU of Vitamin D - RCT
 slug: "mortality-reduction-needs-more-than-monthly-60000-iu-of-vitamin-d-rct"
 aliases:
   - "/Mortality+reduction+needs+more+than+monthly+60000+IU+of+Vitamin+D+-+RCT+Jan+2022"
-  - "/tiki-index.php?page_id=13248"
+  - "/13248"
+tiki_page_id: 13248
 date: 2022-01-11
 categories:
   - "Mortality and D"

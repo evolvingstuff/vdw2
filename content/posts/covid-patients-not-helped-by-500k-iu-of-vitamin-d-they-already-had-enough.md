@@ -3,7 +3,8 @@ title: "COVID patients not helped by 500K IU of Vitamin D (they already had enou
 slug: "covid-patients-not-helped-by-500k-iu-of-vitamin-d-they-already-had-enough"
 aliases:
   - "/COVID+patients+not+helped+by+500K+IU+of+Vitamin+D+they+already+had+enough+–+May+2022"
-  - "/tiki-index.php?page_id=13604"
+  - "/13604"
+tiki_page_id: 13604
 date: 2022-05-27
 categories:
   - "Loading dose for Vitamin D"

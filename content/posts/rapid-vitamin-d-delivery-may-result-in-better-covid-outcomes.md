@@ -3,7 +3,8 @@ title: "Rapid Vitamin D Delivery May Result in Better COVID Outcomes"
 slug: "rapid-vitamin-d-delivery-may-result-in-better-covid-outcomes"
 aliases:
   - "/Rapid+Vitamin+D+Delivery+May+Result+in+Better+COVID+Outcomes+-+Dec+9+2021"
-  - "/tiki-index.php?page_id=13158"
+  - "/13158"
+tiki_page_id: 13158
 date: 2021-12-09
 categories:
   - "Loading dose for Vitamin D"

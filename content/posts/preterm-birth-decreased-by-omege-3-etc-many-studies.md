@@ -3,7 +3,8 @@ title: "Preterm birth decreased by Omege-3, etc. - many studies"
 slug: "preterm-birth-decreased-by-omege-3-etc-many-studies"
 aliases:
   - "/Preterm+birth+decreased+by+Omege-3+etc+-+many+studies"
-  - "/tiki-index.php?page_id=14030"
+  - "/14030"
+tiki_page_id: 14030
 date: 2022-10-21
 categories:
   - "Pregnancy"

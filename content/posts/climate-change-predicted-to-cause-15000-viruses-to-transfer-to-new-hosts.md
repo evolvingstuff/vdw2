@@ -3,7 +3,8 @@ title: "Climate change predicted to cause 15,000 viruses to transfer to new host
 slug: "climate-change-predicted-to-cause-15000-viruses-to-transfer-to-new-hosts"
 aliases:
   - "/Climate+change+predicted+to+cause+15000+viruses+to+transfer+to+new+hosts+–+April+2022"
-  - "/tiki-index.php?page_id=13525"
+  - "/13525"
+tiki_page_id: 13525
 date: 2022-04-28
 categories:
   - "Virus"

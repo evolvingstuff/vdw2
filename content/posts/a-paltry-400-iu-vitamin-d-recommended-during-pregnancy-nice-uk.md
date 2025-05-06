@@ -3,7 +3,8 @@ title: "A paltry 400 IU Vitamin D recommended during pregnancy - NICE UK"
 slug: "a-paltry-400-iu-vitamin-d-recommended-during-pregnancy-nice-uk"
 aliases:
   - "/A+paltry+400+IU+Vitamin+D+recommended+during+pregnancy+-+NICE+UK+Dec+2018"
-  - "/tiki-index.php?page_id=10321"
+  - "/10321"
+tiki_page_id: 10321
 date: 2018-12-16
 categories:
   - "Pregnancy"

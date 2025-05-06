@@ -3,7 +3,8 @@ title: "Multiple Sclerosis treated equally by UVB and weekly 50,000 IU of Vitami
 slug: "multiple-sclerosis-treated-equally-by-uvb-and-weekly-50000-iu-of-vitamin-d-rct"
 aliases:
   - "/Multiple+Sclerosis+treated+equally+by+UVB+and+weekly+50000+IU+of+Vitamin+D+–+RCT+July+2023"
-  - "/tiki-index.php?page_id=14489"
+  - "/14489"
+tiki_page_id: 14489
 date: 2023-06-18
 categories:
   - "UV and Vitamin D"

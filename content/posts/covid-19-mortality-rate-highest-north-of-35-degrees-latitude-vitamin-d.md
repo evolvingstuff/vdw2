@@ -3,7 +3,8 @@ title: "COVID-19 mortality rate highest North of 35 degrees latitude (Vitamin D)
 slug: "covid-19-mortality-rate-highest-north-of-35-degrees-latitude-vitamin-d"
 aliases:
   - "/COVID-19+mortality+rate+highest+North+of+35+degrees+latitude+Vitamin+D+–+April+20+2020"
-  - "/tiki-index.php?page_id=11740"
+  - "/11740"
+tiki_page_id: 11740
 date: 2020-04-21
 categories:
   - "Mortality and D"

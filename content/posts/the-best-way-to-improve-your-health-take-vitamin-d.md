@@ -3,7 +3,8 @@ title: "The best way to improve your health - take Vitamin D"
 slug: "the-best-way-to-improve-your-health-take-vitamin-d"
 aliases:
   - "/The+best+way+to+improve+your+health+-+take+Vitamin+D"
-  - "/tiki-index.php?page_id=14242"
+  - "/14242"
+tiki_page_id: 14242
 date: 2023-02-03
 ---
 

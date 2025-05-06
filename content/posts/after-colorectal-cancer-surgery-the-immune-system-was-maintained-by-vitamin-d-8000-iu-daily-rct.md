@@ -3,7 +3,8 @@ title: "After Colorectal Cancer Surgery the immune system was maintained by Vita
 slug: "after-colorectal-cancer-surgery-the-immune-system-was-maintained-by-vitamin-d-8000-iu-daily-rct"
 aliases:
   - "/After+Colorectal+Cancer+Surgery+the+immune+system+was+maintained+by+Vitamin+D+8000+IU+daily+–+RCT+Jan+2023"
-  - "/tiki-index.php?page_id=14187"
+  - "/14187"
+tiki_page_id: 14187
 date: 2023-01-03
 categories:
   - "Cancer - Colon"

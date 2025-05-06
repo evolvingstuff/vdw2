@@ -3,7 +3,8 @@ title: "Quercetin and Vitamin D - Allies Against COVID-19"
 slug: "quercetin-and-vitamin-d-allies-against-covid-19"
 aliases:
   - "/Quercetin+and+Vitamin+D+-+Allies+Against+COVID-19"
-  - "/tiki-index.php?page_id=11684"
+  - "/11684"
+tiki_page_id: 11684
 date: 2020-03-16
 categories:
   - "Vitamin D Receptor"

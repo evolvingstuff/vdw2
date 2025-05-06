@@ -3,7 +3,8 @@ title: "Increased risk of many neuro problems after COVID (1.4 X youths, 1.2X se
 slug: "increased-risk-of-many-neuro-problems-after-covid-14-x-youths-12x-seniors"
 aliases:
   - "/Increased+risk+of+many+neuro+problems+after+COVID+14+X+youths+12X+seniors+–+Aug+2022"
-  - "/tiki-index.php?page_id=13861"
+  - "/13861"
+tiki_page_id: 13861
 date: 2022-08-25
 categories:
   - "Seniors"

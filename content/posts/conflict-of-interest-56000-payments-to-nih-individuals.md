@@ -3,7 +3,8 @@ title: "Conflict of Interest - 56,000 payments to NIH individuals"
 slug: "conflict-of-interest-56000-payments-to-nih-individuals"
 aliases:
   - "/Conflict+of+Interest+-+56000+payments+to+NIH+individuals+-+Aug+2023"
-  - "/tiki-index.php?page_id=14604"
+  - "/14604"
+tiki_page_id: 14604
 date: 2023-08-11
 ---
 

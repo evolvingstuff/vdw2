@@ -3,7 +3,8 @@ title: "23 COVID mitigation strategies: at least 6 of which increase Vitamin D i
 slug: "23-covid-mitigation-strategies-at-least-6-of-which-increase-vitamin-d-in-cells"
 aliases:
   - "/23+COVID+mitigation+strategies+at+least+6+of+which+increase+Vitamin+D+in+cells+-+Sept+2022"
-  - "/tiki-index.php?page_id=14126"
+  - "/14126"
+tiki_page_id: 14126
 date: 2022-12-02
 categories:
   - "Top news"

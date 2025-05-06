@@ -3,7 +3,8 @@ title: "Health Insurance (UnitedHealth) restricting Vitamin D payments to only a
 slug: "health-insurance-unitedhealth-restricting-vitamin-d-payments-to-only-a-few-diseases"
 aliases:
   - "/Health+Insurance+UnitedHealth+restricting+Vitamin+D+payments+to+only+a+few+diseases+–+Dec+2018"
-  - "/tiki-index.php?page_id=10280"
+  - "/10280"
+tiki_page_id: 10280
 date: 2018-12-06
 categories:
   - "Tests for Vitamin D"

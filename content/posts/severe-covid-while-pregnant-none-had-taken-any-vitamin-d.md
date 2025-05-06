@@ -3,7 +3,8 @@ title: "Severe COVID while pregnant - none had taken any vitamin D"
 slug: "severe-covid-while-pregnant-none-had-taken-any-vitamin-d"
 aliases:
   - "/Severe+COVID+while+pregnant+-+none+had+taken+any+vitamin+D+–+Oct+2021"
-  - "/tiki-index.php?page_id=13532"
+  - "/13532"
+tiki_page_id: 13532
 date: 2022-04-30
 categories:
   - "Pregnancy"

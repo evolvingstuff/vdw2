@@ -3,7 +3,8 @@ title: "Chart of excess deaths and vaccination in the Netherlands - for 2022"
 slug: "chart-of-excess-deaths-and-vaccination-in-the-netherlands-for-2022"
 aliases:
   - "/Chart+of+excess+deaths+and+vaccination+in+the+Netherlands+-+for+2022"
-  - "/tiki-index.php?page_id=14156"
+  - "/14156"
+tiki_page_id: 14156
 date: 2022-12-17
 categories:
   - "Virus"

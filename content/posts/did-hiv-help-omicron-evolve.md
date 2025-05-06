@@ -3,7 +3,8 @@ title: "Did HIV help Omicron evolve"
 slug: "did-hiv-help-omicron-evolve"
 aliases:
   - "/Did+HIV+help+Omicron+evolve+-+Dec+10+2021"
-  - "/tiki-index.php?page_id=13183"
+  - "/13183"
+tiki_page_id: 13183
 date: 2021-12-13
 categories:
   - "Virus"

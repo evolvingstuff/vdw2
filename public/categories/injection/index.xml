@@ -1,117 +1,98 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Injection on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/injection/</link>
-    <description>Recent content in Injection on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/injection/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vitamin D: not one size, type, form, route for all</title>
-      <link>http://localhost:1313/posts/vitamin-d-not-one-size-type-form-route-for-all/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-not-one-size-type-form-route-for-all/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-dosing-levels-form-and-route-of-administration-does-one-approach-fit-all&#34;&gt;Vitamin D: Dosing, levels, form, and route of administration: Does one approach fit all?&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#study-says-vitamin-d-needed-varies-with&#34;&gt;Study says vitamin D needed varies with&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-iu-needed-varies-with&#34;&gt;Vitamin D IU needed varies with&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki---personalized-treatment-of-vitamin-dpostspersonalized-treatment-of-vitamin-d&#34;&gt;VitaminDWiki - &lt;a href=&#34;http://localhost:1313/posts/personalized-treatment-of-vitamin-d&#34;&gt;Personalized treatment of Vitamin D&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-dosing-levels-form-and-route-of-administration-does-one-approach-fit-all&#34;&gt;Vitamin D: Dosing, levels, form, and route of administration: Does one approach fit all?&lt;/h4&gt;&#xA;&lt;p&gt;Reviews in Endocrine and Metabolic Disorders (2021) 22:1201-1218 &lt;a href=&#34;https://doi.org/10.1007/s11154-021-09693-7&#34;&gt;https://doi.org/10.1007/s11154-021-09693-7&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;John P. Bilezikian  • Anna Maria Formenti • Robert A. Adler • Neil Binkley • Roger Bouillon Marise Lazaretti-Castro • Claudio Marcocci • Nicola Napoli8 • Rene Rizzoli9 • Andrea Giustina2 Division of Endocrinology, Escola Paulista de Medicina - Universidade Federal de Sao Paulo (EPM-UNIFESP), Sao Paulo, Brazil&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Oral Vitamin D much better than injection (after Knee Arthroplasty in this case)</title>
-      <link>http://localhost:1313/posts/oral-vitamin-d-much-better-than-injection-after-knee-arthroplasty-in-this-case/</link>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/oral-vitamin-d-much-better-than-injection-after-knee-arthroplasty-in-this-case/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vitamin D injections should not be used if fast response is needed (COVID-19 in this case)</title>
-      <link>http://localhost:1313/posts/vitamin-d-injections-should-not-be-used-if-fast-response-is-needed-covid-19-in-this-case/</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-injections-should-not-be-used-if-fast-response-is-needed-covid-19-in-this-case/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ICU mortality reduced by non-oral vitamin D – meta-analysis</title>
-      <link>http://localhost:1313/posts/icu-mortality-reduced-by-non-oral-vitamin-d-meta-analysis/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/icu-mortality-reduced-by-non-oral-vitamin-d-meta-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fewer children died of pneumonia after 100,000 IU Vitamin D injection – RCT</title>
-      <link>http://localhost:1313/posts/fewer-children-died-of-pneumonia-after-100000-iu-vitamin-d-injection-rct/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fewer-children-died-of-pneumonia-after-100000-iu-vitamin-d-injection-rct/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamin-d-supplementation-and-improvement-of-pneumonic-children-at-a-tertiary-pediatric-hospital-in-egypt-a-randomized-controlled-trial&#34;&gt;Vitamin D supplementation and improvement of pneumonic children at a tertiary pediatric hospital in Egypt: A randomized controlled trial&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#probably-fewer-deaths-if-had-gotten-an-oral-loading-dose-before-hospital&#34;&gt;Probably fewer deaths if had gotten an oral loading dose BEFORE hospital&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-supplementation-and-improvement-of-pneumonic-children-at-a-tertiary-pediatric-hospital-in-egypt-a-randomized-controlled-trial&#34;&gt;Vitamin D supplementation and improvement of pneumonic children at a tertiary pediatric hospital in Egypt: A randomized controlled trial&lt;/h4&gt;&#xA;&lt;p&gt;Medicine (Baltimore). 2021 Apr 2;100(13):e25011. &lt;a href=&#34;https://doi.org/10.1097/MD.0000000000025011&#34;&gt;doi: 10.1097/MD.0000000000025011&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;John Rene Labib 1, Sally Kamal Ibrahem 1, Mohamed M Ismail 1, Shaimaa A M Abd El Fatah 2, Amal Samir Sedrak 2, Mona Adel Soliman Attia 2, Hadeel Mohammad El-Hanafi 3, Mai Hamed Kamel 3&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fewer days in hospital if 300,000 IU of vitamin D before brain surgery - RCT</title>
-      <link>http://localhost:1313/posts/fewer-days-in-hospital-if-300000-iu-of-vitamin-d-before-brain-surgery-rct/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fewer-days-in-hospital-if-300000-iu-of-vitamin-d-before-brain-surgery-rct/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ICU Vitamin D injection (300,000 IU) helped - RCT</title>
-      <link>http://localhost:1313/posts/icu-vitamin-d-injection-300000-iu-helped-rct/</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/icu-vitamin-d-injection-300000-iu-helped-rct/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#high-dose-vitamin-d-improves-total-serum-antioxidant-capacity-and-icu-outcome-in-critically-ill-patients---a-randomized-double-blind-clinical-trial&#34;&gt;High dose vitamin D improves total serum antioxidant capacity and ICU outcome in critically ill patients - A randomized, double-blind clinical trial&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;high-dose-vitamin-d-improves-total-serum-antioxidant-capacity-and-icu-outcome-in-critically-ill-patients---a-randomized-double-blind-clinical-trial&#34;&gt;High dose vitamin D improves total serum antioxidant capacity and ICU outcome in critically ill patients - A randomized, double-blind clinical trial&lt;/h4&gt;&#xA;&lt;p&gt;European Journal of Integrative Medicine Volume 42, February 2021, &lt;a href=&#34;https://doi.org/10.1016/j.eujim.2020.101271&#34;&gt;https://doi.org/10.1016/j.eujim.2020.101271&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mohammad Sistanizad a b, Mehran Kouchek c, MirMohammad Miri c, Sara Salarian c, Seyedpouzhia Shojaei c, Fatemeh Moeini Vasegh a, Hossein Seifi Kafshgari d, Roja Qobadighadikolaei e&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Those getting an injection of 300,000 IU Vitamin D got out of the ICU a week sooner – RCT</title>
-      <link>http://localhost:1313/posts/those-getting-an-injection-of-300000-iu-vitamin-d-got-out-of-the-icu-a-week-sooner-rct/</link>
-      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/those-getting-an-injection-of-300000-iu-vitamin-d-got-out-of-the-icu-a-week-sooner-rct/</guid>
-      <description>&lt;h4 id=&#34;span-stylecolor00fnote-injections-take-several-days-longer-to-restore-vitamin-d-levels-than-other-formsspan&#34;&gt;&lt;span style=&#34;color:#00F;&#34;&gt;Note: Injections take several days longer to restore Vitamin D levels than other forms&lt;/span&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;It seems that oral would be preffered over injection if the person could swallow and had a functioning gut&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Muscosal vitamin D (under the tongue) would be much faster than both oral and injection&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;it-is-probably-better-to-get-vitamin-d-levels-restored-as-soon-as-possible-and-perhaps-eliminate-the-icu&#34;&gt;It is probably better to get Vitamin D levels restored as soon as possible, and perhaps eliminate the ICU&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/improve-your-health-before-surgery-prehabilitation-helps-your-recovery-2018&#34;&gt;Improve your health BEFORE surgery (prehabilitation) helps your recovery - 2018&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Child movement disorders reduced in 1 week by Vitamin D injection (China)</title>
-      <link>http://localhost:1313/posts/child-movement-disorders-reduced-in-1-week-by-vitamin-d-injection-china/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/child-movement-disorders-reduced-in-1-week-by-vitamin-d-injection-china/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>10 fewer days of ICU Mechanical Ventilation 300,000 IU injection of vitamin D – RCT</title>
-      <link>http://localhost:1313/posts/10-fewer-days-of-icu-mechanical-ventilation-300000-iu-injection-of-vitamin-d-rct/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/10-fewer-days-of-icu-mechanical-ventilation-300000-iu-injection-of-vitamin-d-rct/</guid>
-      <description>&lt;h4 id=&#34;important-icu-considerations---by-vitamindwiki&#34;&gt;Important ICU Considerations - by VitaminDWiki&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Start the Vitamin Dosing  before the surgery if at all possible&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Outcomes will be far better&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Add vitamin D if &amp;lt; 30 ng, not just &amp;lt; 12 ng&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Surgery/trauma reduces the vitamin D levels in a few days&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Use a gut-compatible form of vitamin D if there is a chance that the patient has poor gut (~30% of patients)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Allocate some of the Vitamin D loading dose to very fast response type - inside the cheek or under the tongue&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Breast Cancer chemo reduces Bone Mineral Density, injecting Vitamin D increases it</title>
-      <link>http://localhost:1313/posts/breast-cancer-chemo-reduces-bone-mineral-density-injecting-vitamin-d-increases-it/</link>
-      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/breast-cancer-chemo-reduces-bone-mineral-density-injecting-vitamin-d-increases-it/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vitamin D nanoemulsion etc. for fortification, pills, injections, topical and cancer</title>
-      <link>http://localhost:1313/posts/vitamin-d-nanoemulsion-etc-for-fortification-pills-injections-topical-and-cancer/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-nanoemulsion-etc-for-fortification-pills-injections-topical-and-cancer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Weekly oral Vitamin D recommended before surgery (Bariatric in this case) – RCT</title>
-      <link>http://localhost:1313/posts/weekly-oral-vitamin-d-recommended-before-surgery-bariatric-in-this-case-rct/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/weekly-oral-vitamin-d-recommended-before-surgery-bariatric-in-this-case-rct/</guid>
-      <description>&lt;h4 id=&#34;severe-obesity-and-vitamin-d-deficiency-treatment-options-before-the-bariatric-surgery-a-randomized-clinical-trial&#34;&gt;Severe Obesity and Vitamin D Deficiency Treatment Options before the Bariatric Surgery: A Randomized Clinical Trial&lt;/h4&gt;&#xA;&lt;p&gt;Surgery for Obesity and Related Diseases &lt;a href=&#34;https://doi.org/10.1016/j.soard.2019.05.033&#34;&gt;https://doi.org/10.1016/j.soard.2019.05.033&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Masoud Sayadi Shahraki M.D.Noushin KhaliliM.D Shadi Yousefvand M.D Erfan Sheikhbahaei Shahab Shahabi Shahmiri M.D. MPH.&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Comment: Oral Vitamin D is known to be far lower cost and act more quickly than injection&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/following-brain-surgery-vitamin-d-injections-did-not-raise-blood-levels-much-rct&#34;&gt;Following brain surgery Vitamin D injections did not raise blood levels much – RCT June 2019&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Following brain surgery Vitamin D injections did not raise blood levels much – RCT</title>
-      <link>http://localhost:1313/posts/following-brain-surgery-vitamin-d-injections-did-not-raise-blood-levels-much-rct/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/following-brain-surgery-vitamin-d-injections-did-not-raise-blood-levels-much-rct/</guid>
-      <description>&lt;h4 id=&#34;effect-of-vitamin-d-supplementation-on-post-craniotomy-pain-after-brain-tumor-surgery-a-randomized-clinical-trial&#34;&gt;Effect of Vitamin D Supplementation on Post Craniotomy Pain after Brain Tumor Surgery: a Randomized Clinical Trial&lt;/h4&gt;&#xA;&lt;p&gt;MelikaHMI-KetabforoushMSc1 Mohammadreza Shahmohammadi MD 2 BatoulKhoundabiPh.D3 Zahra Vahdat ShariatpanahiMD, Ph.D1&lt;/p&gt;&#xA;&lt;p&gt;World Neurosurgery, &lt;a href=&#34;https://doi.org/10.1016/j.wneu.2019.05.250&#34;&gt;https://doi.org/10.1016/j.wneu.2019.05.250&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;300,000 IU injection only raised blood levels from 16 ng ==&amp;gt; 23 ng&lt;/p&gt;&#xA;&lt;p&gt;Generally no benefit is found in any kind of study when blood levels are less than 30 ng&lt;/p&gt;&#xA;&lt;p&gt;Oral vitamin D is about 20X less expensive and results in 5X faster response - wonder why they used injection&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Traumatic Brain Injury recovery helped by injection of 100,000 IU of Vitamin D</title>
-      <link>http://localhost:1313/posts/traumatic-brain-injury-recovery-helped-by-injection-of-100000-iu-of-vitamin-d/</link>
-      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/traumatic-brain-injury-recovery-helped-by-injection-of-100000-iu-of-vitamin-d/</guid>
-      <description>&lt;h4 id=&#34;the-effect-of-vitamin-d-supplementation-in-patients-with-acute-traumatic-brain-injury&#34;&gt;The Effect of Vitamin D Supplementation in Patients with Acute Traumatic Brain Injury&lt;/h4&gt;&#xA;&lt;p&gt;World Neurosurgery, online 20 March 2019, &lt;a href=&#34;https://doi.org/10.1016/j.wneu.2019.02.244&#34;&gt;https://doi.org/10.1016/j.wneu.2019.02.244&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;This study used just a small injection of Vitamin D&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Suspect they injected regular vitamin D into muscle or fat tissue&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Expect faster response from injecting semiactivated or fully activated Vitamin D into the blood&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;100,000 IU of Vitamin D will raise the blood level a little bit&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-loading-of-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Loading of vitamin D&#34;&gt;Loading doses&lt;/a&gt; of 400,000 and 600,000 IU of Vitamin D have been used &amp;gt;1 million times&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Injection on VitaminDWiki</title><link>//localhost:1313/categories/injection.html</link><description>Recent content in Injection on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/injection/index.xml" rel="self" type="application/rss+xml"/><item><title>Vitamin D: not one size, type, form, route for all</title><link>//localhost:1313/posts/vitamin-d-not-one-size-type-form-route-for-all.html</link><pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-not-one-size-type-form-route-for-all.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-dosing-levels-form-and-route-of-administration-does-one-approach-fit-all">Vitamin D: Dosing, levels, form, and route of administration: Does one approach fit all?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#study-says-vitamin-d-needed-varies-with">Study says vitamin D needed varies with&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-iu-needed-varies-with">Vitamin D IU needed varies with&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki---personalized-treatment-of-vitamin-dpostspersonalized-treatment-of-vitamin-d">VitaminDWiki - &lt;a href="//localhost:1313/posts/personalized-treatment-of-vitamin-d">Personalized treatment of Vitamin D&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-dosing-levels-form-and-route-of-administration-does-one-approach-fit-all">Vitamin D: Dosing, levels, form, and route of administration: Does one approach fit all?&lt;/h4>
+&lt;p>Reviews in Endocrine and Metabolic Disorders (2021) 22:1201-1218 &lt;a href="https://doi.org/10.1007/s11154-021-09693-7">https://doi.org/10.1007/s11154-021-09693-7&lt;/a>&lt;/p>
+&lt;p>John P. Bilezikian • Anna Maria Formenti • Robert A. Adler • Neil Binkley • Roger Bouillon Marise Lazaretti-Castro • Claudio Marcocci • Nicola Napoli8 • Rene Rizzoli9 • Andrea Giustina2 Division of Endocrinology, Escola Paulista de Medicina - Universidade Federal de Sao Paulo (EPM-UNIFESP), Sao Paulo, Brazil&lt;/p></description></item><item><title>Oral Vitamin D much better than injection (after Knee Arthroplasty in this case)</title><link>//localhost:1313/posts/oral-vitamin-d-much-better-than-injection-after-knee-arthroplasty-in-this-case.html</link><pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/oral-vitamin-d-much-better-than-injection-after-knee-arthroplasty-in-this-case.html</guid><description/></item><item><title>Vitamin D injections should not be used if fast response is needed (COVID-19 in this case)</title><link>//localhost:1313/posts/vitamin-d-injections-should-not-be-used-if-fast-response-is-needed-covid-19-in-this-case.html</link><pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-injections-should-not-be-used-if-fast-response-is-needed-covid-19-in-this-case.html</guid><description/></item><item><title>ICU mortality reduced by non-oral vitamin D – meta-analysis</title><link>//localhost:1313/posts/icu-mortality-reduced-by-non-oral-vitamin-d-meta-analysis.html</link><pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/icu-mortality-reduced-by-non-oral-vitamin-d-meta-analysis.html</guid><description/></item><item><title>Fewer children died of pneumonia after 100,000 IU Vitamin D injection – RCT</title><link>//localhost:1313/posts/fewer-children-died-of-pneumonia-after-100000-iu-vitamin-d-injection-rct.html</link><pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/fewer-children-died-of-pneumonia-after-100000-iu-vitamin-d-injection-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-and-improvement-of-pneumonic-children-at-a-tertiary-pediatric-hospital-in-egypt-a-randomized-controlled-trial">Vitamin D supplementation and improvement of pneumonic children at a tertiary pediatric hospital in Egypt: A randomized controlled trial&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#probably-fewer-deaths-if-had-gotten-an-oral-loading-dose-before-hospital">Probably fewer deaths if had gotten an oral loading dose BEFORE hospital&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-supplementation-and-improvement-of-pneumonic-children-at-a-tertiary-pediatric-hospital-in-egypt-a-randomized-controlled-trial">Vitamin D supplementation and improvement of pneumonic children at a tertiary pediatric hospital in Egypt: A randomized controlled trial&lt;/h4>
+&lt;p>Medicine (Baltimore). 2021 Apr 2;100(13):e25011. &lt;a href="https://doi.org/10.1097/MD.0000000000025011">doi: 10.1097/MD.0000000000025011&lt;/a>&lt;/p>
+&lt;p>John Rene Labib 1, Sally Kamal Ibrahem 1, Mohamed M Ismail 1, Shaimaa A M Abd El Fatah 2, Amal Samir Sedrak 2, Mona Adel Soliman Attia 2, Hadeel Mohammad El-Hanafi 3, Mai Hamed Kamel 3&lt;/p></description></item><item><title>Fewer days in hospital if 300,000 IU of vitamin D before brain surgery - RCT</title><link>//localhost:1313/posts/fewer-days-in-hospital-if-300000-iu-of-vitamin-d-before-brain-surgery-rct.html</link><pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/fewer-days-in-hospital-if-300000-iu-of-vitamin-d-before-brain-surgery-rct.html</guid><description/></item><item><title>ICU Vitamin D injection (300,000 IU) helped - RCT</title><link>//localhost:1313/posts/icu-vitamin-d-injection-300000-iu-helped-rct.html</link><pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/icu-vitamin-d-injection-300000-iu-helped-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#high-dose-vitamin-d-improves-total-serum-antioxidant-capacity-and-icu-outcome-in-critically-ill-patients---a-randomized-double-blind-clinical-trial">High dose vitamin D improves total serum antioxidant capacity and ICU outcome in critically ill patients - A randomized, double-blind clinical trial&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="high-dose-vitamin-d-improves-total-serum-antioxidant-capacity-and-icu-outcome-in-critically-ill-patients---a-randomized-double-blind-clinical-trial">High dose vitamin D improves total serum antioxidant capacity and ICU outcome in critically ill patients - A randomized, double-blind clinical trial&lt;/h4>
+&lt;p>European Journal of Integrative Medicine Volume 42, February 2021, &lt;a href="https://doi.org/10.1016/j.eujim.2020.101271">https://doi.org/10.1016/j.eujim.2020.101271&lt;/a>&lt;/p>
+&lt;p>Mohammad Sistanizad a b, Mehran Kouchek c, MirMohammad Miri c, Sara Salarian c, Seyedpouzhia Shojaei c, Fatemeh Moeini Vasegh a, Hossein Seifi Kafshgari d, Roja Qobadighadikolaei e&lt;/p></description></item><item><title>Those getting an injection of 300,000 IU Vitamin D got out of the ICU a week sooner – RCT</title><link>//localhost:1313/posts/those-getting-an-injection-of-300000-iu-vitamin-d-got-out-of-the-icu-a-week-sooner-rct.html</link><pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/those-getting-an-injection-of-300000-iu-vitamin-d-got-out-of-the-icu-a-week-sooner-rct.html</guid><description>&lt;h4 id="span-stylecolor00fnote-injections-take-several-days-longer-to-restore-vitamin-d-levels-than-other-formsspan">&lt;span style="color:#00F;">Note: Injections take several days longer to restore Vitamin D levels than other forms&lt;/span>&lt;/h4>
+&lt;p>&lt;strong>It seems that oral would be preffered over injection if the person could swallow and had a functioning gut&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Muscosal vitamin D (under the tongue) would be much faster than both oral and injection&lt;/strong>&lt;/p>
+&lt;h4 id="it-is-probably-better-to-get-vitamin-d-levels-restored-as-soon-as-possible-and-perhaps-eliminate-the-icu">It is probably better to get Vitamin D levels restored as soon as possible, and perhaps eliminate the ICU&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/improve-your-health-before-surgery-prehabilitation-helps-your-recovery-2018">Improve your health BEFORE surgery (prehabilitation) helps your recovery - 2018&lt;/a>&lt;/p></description></item><item><title>Child movement disorders reduced in 1 week by Vitamin D injection (China)</title><link>//localhost:1313/posts/child-movement-disorders-reduced-in-1-week-by-vitamin-d-injection-china.html</link><pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/child-movement-disorders-reduced-in-1-week-by-vitamin-d-injection-china.html</guid><description/></item><item><title>10 fewer days of ICU Mechanical Ventilation 300,000 IU injection of vitamin D – RCT</title><link>//localhost:1313/posts/10-fewer-days-of-icu-mechanical-ventilation-300000-iu-injection-of-vitamin-d-rct.html</link><pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/10-fewer-days-of-icu-mechanical-ventilation-300000-iu-injection-of-vitamin-d-rct.html</guid><description>&lt;h4 id="important-icu-considerations---by-vitamindwiki">Important ICU Considerations - by VitaminDWiki&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Start the Vitamin Dosing before the surgery if at all possible&lt;/p>
+&lt;ul>
+&lt;li>Outcomes will be far better&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Add vitamin D if &amp;lt; 30 ng, not just &amp;lt; 12 ng&lt;/p>
+&lt;ul>
+&lt;li>Surgery/trauma reduces the vitamin D levels in a few days&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Use a gut-compatible form of vitamin D if there is a chance that the patient has poor gut (~30% of patients)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Allocate some of the Vitamin D loading dose to very fast response type - inside the cheek or under the tongue&lt;/p></description></item><item><title>Breast Cancer chemo reduces Bone Mineral Density, injecting Vitamin D increases it</title><link>//localhost:1313/posts/breast-cancer-chemo-reduces-bone-mineral-density-injecting-vitamin-d-increases-it.html</link><pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/breast-cancer-chemo-reduces-bone-mineral-density-injecting-vitamin-d-increases-it.html</guid><description/></item><item><title>Vitamin D nanoemulsion etc. for fortification, pills, injections, topical and cancer</title><link>//localhost:1313/posts/vitamin-d-nanoemulsion-etc-for-fortification-pills-injections-topical-and-cancer.html</link><pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-nanoemulsion-etc-for-fortification-pills-injections-topical-and-cancer.html</guid><description/></item><item><title>Weekly oral Vitamin D recommended before surgery (Bariatric in this case) – RCT</title><link>//localhost:1313/posts/weekly-oral-vitamin-d-recommended-before-surgery-bariatric-in-this-case-rct.html</link><pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/weekly-oral-vitamin-d-recommended-before-surgery-bariatric-in-this-case-rct.html</guid><description>&lt;h4 id="severe-obesity-and-vitamin-d-deficiency-treatment-options-before-the-bariatric-surgery-a-randomized-clinical-trial">Severe Obesity and Vitamin D Deficiency Treatment Options before the Bariatric Surgery: A Randomized Clinical Trial&lt;/h4>
+&lt;p>Surgery for Obesity and Related Diseases &lt;a href="https://doi.org/10.1016/j.soard.2019.05.033">https://doi.org/10.1016/j.soard.2019.05.033&lt;/a>&lt;/p>
+&lt;p>Masoud Sayadi Shahraki M.D.Noushin KhaliliM.D Shadi Yousefvand M.D Erfan Sheikhbahaei Shahab Shahabi Shahmiri M.D. MPH.&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Comment: Oral Vitamin D is known to be far lower cost and act more quickly than injection&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/following-brain-surgery-vitamin-d-injections-did-not-raise-blood-levels-much-rct">Following brain surgery Vitamin D injections did not raise blood levels much – RCT June 2019&lt;/a>&lt;/p></description></item><item><title>Following brain surgery Vitamin D injections did not raise blood levels much – RCT</title><link>//localhost:1313/posts/following-brain-surgery-vitamin-d-injections-did-not-raise-blood-levels-much-rct.html</link><pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/following-brain-surgery-vitamin-d-injections-did-not-raise-blood-levels-much-rct.html</guid><description>&lt;h4 id="effect-of-vitamin-d-supplementation-on-post-craniotomy-pain-after-brain-tumor-surgery-a-randomized-clinical-trial">Effect of Vitamin D Supplementation on Post Craniotomy Pain after Brain Tumor Surgery: a Randomized Clinical Trial&lt;/h4>
+&lt;p>MelikaHMI-KetabforoushMSc1 Mohammadreza Shahmohammadi MD 2 BatoulKhoundabiPh.D3 Zahra Vahdat ShariatpanahiMD, Ph.D1&lt;/p>
+&lt;p>World Neurosurgery, &lt;a href="https://doi.org/10.1016/j.wneu.2019.05.250">https://doi.org/10.1016/j.wneu.2019.05.250&lt;/a>&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>300,000 IU injection only raised blood levels from 16 ng ==&amp;gt; 23 ng&lt;/p>
+&lt;p>Generally no benefit is found in any kind of study when blood levels are less than 30 ng&lt;/p>
+&lt;p>Oral vitamin D is about 20X less expensive and results in 5X faster response - wonder why they used injection&lt;/p></description></item><item><title>Traumatic Brain Injury recovery helped by injection of 100,000 IU of Vitamin D</title><link>//localhost:1313/posts/traumatic-brain-injury-recovery-helped-by-injection-of-100000-iu-of-vitamin-d.html</link><pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/traumatic-brain-injury-recovery-helped-by-injection-of-100000-iu-of-vitamin-d.html</guid><description>&lt;h4 id="the-effect-of-vitamin-d-supplementation-in-patients-with-acute-traumatic-brain-injury">The Effect of Vitamin D Supplementation in Patients with Acute Traumatic Brain Injury&lt;/h4>
+&lt;p>World Neurosurgery, online 20 March 2019, &lt;a href="https://doi.org/10.1016/j.wneu.2019.02.244">https://doi.org/10.1016/j.wneu.2019.02.244&lt;/a>&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>This study used just a small injection of Vitamin D&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Suspect they injected regular vitamin D into muscle or fat tissue&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Expect faster response from injecting semiactivated or fully activated Vitamin D into the blood&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>100,000 IU of Vitamin D will raise the blood level a little bit&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Loading doses&lt;/a> of 400,000 and 600,000 IU of Vitamin D have been used &amp;gt;1 million times&lt;/strong>&lt;/p></description></item></channel></rss>

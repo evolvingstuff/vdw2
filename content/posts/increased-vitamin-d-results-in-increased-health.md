@@ -3,7 +3,8 @@ title: "Increased Vitamin D results in increased health"
 slug: "increased-vitamin-d-results-in-increased-health"
 aliases:
   - "/Increased+Vitamin+D+results+in+increased+health"
-  - "/tiki-index.php?page_id=12585"
+  - "/12585"
+tiki_page_id: 12585
 date: 2021-05-17
 categories:
   - "Admin Only"

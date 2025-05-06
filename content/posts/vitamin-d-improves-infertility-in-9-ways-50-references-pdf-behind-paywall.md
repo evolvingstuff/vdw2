@@ -3,7 +3,8 @@ title: "Vitamin D improves Infertility in 9 ways (50 references, PDF behind payw
 slug: "vitamin-d-improves-infertility-in-9-ways-50-references-pdf-behind-paywall"
 aliases:
   - "/Vitamin+D+improves+Infertility+in+9+ways+50+references+PDF+behind+paywall+–+May+2023"
-  - "/tiki-index.php?page_id=14463"
+  - "/14463"
+tiki_page_id: 14463
 date: 2023-06-02
 categories:
   - "Fertility and sperm"

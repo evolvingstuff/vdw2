@@ -3,7 +3,8 @@ title: "High levels of Vitamin D and low rates of skin cancer among commercial f
 slug: "high-levels-of-vitamin-d-and-low-rates-of-skin-cancer-among-commercial-fishermen"
 aliases:
   - "/High+levels+of+Vitamin+D+and+low+rates+of+skin+cancer+among+commercial+fishermen+–+July+2019"
-  - "/tiki-index.php?page_id=11037"
+  - "/11037"
+tiki_page_id: 11037
 date: 2019-08-01
 categories:
   - "Noontime sun and D"

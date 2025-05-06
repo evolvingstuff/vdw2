@@ -3,7 +3,8 @@ title: "12 billion dollars paid by medical companies to US Physicians in a decad
 slug: "12-billion-dollars-paid-by-medical-companies-to-us-physicians-in-a-decade-pdf-behind-paywall-jama"
 aliases:
   - "/12+billion+dollars+paid+by+medical+companies+to+US+Physicians+in+a+decade+PDF+behind+paywall+–+JAMA+March+2024"
-  - "/tiki-index.php?page_id=15179"
+  - "/15179"
+tiki_page_id: 15179
 date: 2024-03-29
 ---
 

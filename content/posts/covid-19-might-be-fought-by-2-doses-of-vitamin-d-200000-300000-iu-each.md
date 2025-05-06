@@ -3,7 +3,8 @@ title: "COVID-19 might be fought by 2 doses of Vitamin D (200,000-300,000 IU eac
 slug: "covid-19-might-be-fought-by-2-doses-of-vitamin-d-200000-300000-iu-each"
 aliases:
   - "/COVID-19+might+be+fought+by+2+doses+of+Vitamin+D+200000-300000+IU+each+–+Feb+2020"
-  - "/tiki-index.php?page_id=11695"
+  - "/11695"
+tiki_page_id: 11695
 date: 2020-03-23
 categories:
   - "Virus"

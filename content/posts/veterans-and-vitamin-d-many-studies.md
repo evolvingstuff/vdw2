@@ -3,7 +3,8 @@ title: "Veterans and Vitamin D - many studies"
 slug: "veterans-and-vitamin-d-many-studies"
 aliases:
   - "/Veterans+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14358"
+  - "/14358"
+tiki_page_id: 14358
 date: 2023-04-06
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Vitamin D is aided by probiotics (review of RCTs)"
 slug: "vitamin-d-is-aided-by-probiotics-review-of-rcts"
 aliases:
   - "/Vitamin+D+is+aided+by+probiotics+review+of+RCTs+–+Dec+2020"
-  - "/tiki-index.php?page_id=12184"
+  - "/12184"
+tiki_page_id: 12184
 date: 2020-12-30
 categories:
   - "Gut"

@@ -3,7 +3,8 @@ title: "COPD treated by Vitamin D – meta-analysis"
 slug: "copd-treated-by-vitamin-d-meta-analysis"
 aliases:
   - "/COPD+treated+by+Vitamin+D+–+meta-analysis+March+2022"
-  - "/tiki-index.php?page_id=13388"
+  - "/13388"
+tiki_page_id: 13388
 date: 2022-03-12
 categories:
   - "Breathing"

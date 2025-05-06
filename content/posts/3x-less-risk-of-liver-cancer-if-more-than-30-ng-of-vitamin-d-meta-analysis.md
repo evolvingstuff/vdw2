@@ -3,7 +3,8 @@ title: "3X less risk of Liver cancer if more than 30 ng of vitamin D – meta-an
 slug: "3x-less-risk-of-liver-cancer-if-more-than-30-ng-of-vitamin-d-meta-analysis"
 aliases:
   - "/3X+less+risk+of+Liver+cancer+if+more+than+30+ng+of+vitamin+D+–+meta-analysis+July+2020"
-  - "/tiki-index.php?page_id=11868"
+  - "/11868"
+tiki_page_id: 11868
 date: 2020-07-28
 categories:
   - "Meta-analysis of Vitamin D"

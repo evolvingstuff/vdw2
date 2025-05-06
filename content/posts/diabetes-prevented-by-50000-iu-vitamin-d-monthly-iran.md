@@ -3,7 +3,8 @@ title: "Diabetes prevented by 50,000 IU vitamin D monthly (Iran)"
 slug: "diabetes-prevented-by-50000-iu-vitamin-d-monthly-iran"
 aliases:
   - "/Diabetes+prevented+by+50000+IU+vitamin+D+monthly+Iran+–+Jan+2022"
-  - "/tiki-index.php?page_id=13397"
+  - "/13397"
+tiki_page_id: 13397
 date: 2022-03-14
 categories:
   - "Diabetes"

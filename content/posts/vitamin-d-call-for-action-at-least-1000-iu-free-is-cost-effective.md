@@ -3,7 +3,8 @@ title: "Vitamin D Call for Action: at least 1,000 IU (free is cost-effective)"
 slug: "vitamin-d-call-for-action-at-least-1000-iu-free-is-cost-effective"
 aliases:
   - "/Vitamin+D+Call+for+Action+at+least+1000+IU+free+is+cost-effective+-+Oct+2022"
-  - "/tiki-index.php?page_id=13978"
+  - "/13978"
+tiki_page_id: 13978
 date: 2022-10-04
 ---
 

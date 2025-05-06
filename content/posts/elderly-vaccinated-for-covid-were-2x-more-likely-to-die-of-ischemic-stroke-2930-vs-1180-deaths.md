@@ -3,7 +3,8 @@ title: "Elderly vaccinated for COVID were 2X more likely to die of ischemic stro
 slug: "elderly-vaccinated-for-covid-were-2x-more-likely-to-die-of-ischemic-stroke-2930-vs-1180-deaths"
 aliases:
   - "/Elderly+vaccinated+for+COVID+were+2X+more+likely+to+die+of+ischemic+stroke+2930+vs+1180+deaths–+Nov+2021"
-  - "/tiki-index.php?page_id=13105"
+  - "/13105"
+tiki_page_id: 13105
 date: 2021-11-22
 categories:
   - "Stroke"

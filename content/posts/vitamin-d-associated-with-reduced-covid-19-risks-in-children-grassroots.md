@@ -3,7 +3,8 @@ title: "Vitamin D associated with reduced COVID-19 risks in children - Grassroot
 slug: "vitamin-d-associated-with-reduced-covid-19-risks-in-children-grassroots"
 aliases:
   - "/Vitamin+D+associated+with+reduced+COVID-19+risks+in+children+-+Grassroots+Nov+2020"
-  - "/tiki-index.php?page_id=12100"
+  - "/12100"
+tiki_page_id: 12100
 date: 2020-11-30
 categories:
   - "Infant-Child"

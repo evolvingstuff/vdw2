@@ -3,7 +3,8 @@ title: "Hip fractures 60% more likely in people who drank a lot of milk - Greger
 slug: "hip-fractures-60-percent-more-likely-in-people-who-drank-a-lot-of-milk-greger"
 aliases:
   - "/Hip+fractures+60+more+likely+in+people+who+drank+a+lot+of+milk+-+Greger+Feb+2024"
-  - "/tiki-index.php?page_id=15051"
+  - "/15051"
+tiki_page_id: 15051
 date: 2024-02-14
 categories:
   - "Falls and Fractures"

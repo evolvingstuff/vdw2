@@ -3,7 +3,8 @@ title: "Beneficial action of resveratrol: How and why (BNDF, etc.)"
 slug: "beneficial-action-of-resveratrol-how-and-why-bndf-etc"
 aliases:
   - "/Beneficial+action+of+resveratrol+How+and+why+BNDF+etc–+Feb+2016"
-  - "/tiki-index.php?page_id=10700"
+  - "/10700"
+tiki_page_id: 10700
 date: 2019-04-27
 categories:
   - "Resveratrol"

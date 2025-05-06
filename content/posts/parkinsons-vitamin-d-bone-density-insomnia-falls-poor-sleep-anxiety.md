@@ -3,7 +3,8 @@ title: "Parkinson’s – Vitamin D, bone density, insomnia, falls, poor sleep, 
 slug: "parkinsons-vitamin-d-bone-density-insomnia-falls-poor-sleep-anxiety"
 aliases:
   - "/Parkinsons+–+Vitamin+D+bone+density+insomnia+falls+poor+sleep+anxiety+–+March+2019"
-  - "/tiki-index.php?page_id=14416"
+  - "/14416"
+tiki_page_id: 14416
 date: 2023-05-10
 ---
 

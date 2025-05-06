@@ -3,7 +3,8 @@ title: "Asthma, Fractures,  Prostate Cancer, Lupus, etc associated with low Vita
 slug: "asthma-fractures-prostate-cancer-lupus-etc-associated-with-low-vitamin-d-umbrella-review"
 aliases:
   - "/Asthma+Fractures+Prostate+Cancer+Lupus+etc+associated+with+low+Vitamin+D+–+umbrella+review+Nov+2021"
-  - "/tiki-index.php?page_id=13249"
+  - "/13249"
+tiki_page_id: 13249
 date: 2022-01-11
 categories:
   - "Deficiency of Vitamin D"

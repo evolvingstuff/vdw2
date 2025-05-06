@@ -3,7 +3,8 @@ title: "Next COVID Litigation conference (includes vaccination)"
 slug: "next-covid-litigation-conference-includes-vaccination"
 aliases:
   - "/Next+COVID+Litigation+conference+includes+vaccination+-+March+2024"
-  - "/tiki-index.php?page_id=14739"
+  - "/14739"
+tiki_page_id: 14739
 date: 2023-10-10
 categories:
   - "Virus"

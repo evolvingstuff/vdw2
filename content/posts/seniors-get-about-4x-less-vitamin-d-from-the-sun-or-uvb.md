@@ -3,7 +3,8 @@ title: "Seniors get about 4X less vitamin D from the sun or UVB"
 slug: "seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb"
 aliases:
   - "/Seniors+get+about+4X+less+vitamin+D+from+the+sun+or+UVB"
-  - "/tiki-index.php?page_id=15069"
+  - "/15069"
+tiki_page_id: 15069
 date: 2024-02-22
 categories:
   - "Seniors"

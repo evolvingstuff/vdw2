@@ -3,7 +3,8 @@ title: "Allergic reactions to Insect sting decreased by topical Vitamin D (frequ
 slug: "allergic-reactions-to-insect-sting-decreased-by-topical-vitamin-d-frequent"
 aliases:
   - "/Allergic+reactions+to+Insect+sting+decreased+by+topical+Vitamin+D+frequent"
-  - "/tiki-index.php?page_id=11057"
+  - "/11057"
+tiki_page_id: 11057
 date: 2019-08-09
 categories:
   - "Inflammation"

@@ -3,7 +3,8 @@ title: "Colorectal cancer fought by Vitamin D via 10 molecular pathways (include
 slug: "colorectal-cancer-fought-by-vitamin-d-via-10-molecular-pathways-includes-vit-d-and-crc-history"
 aliases:
   - "/Colorectal+cancer+fought+by+Vitamin+D+via+10+molecular+pathways+includes+Vit+D+and+CRC+history+-+Sept+2023"
-  - "/tiki-index.php?page_id=14679"
+  - "/14679"
+tiki_page_id: 14679
 date: 2023-09-13
 categories:
   - "Cancer - Colon"

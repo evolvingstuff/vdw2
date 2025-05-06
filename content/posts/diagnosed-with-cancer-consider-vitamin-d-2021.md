@@ -3,7 +3,8 @@ title: "Diagnosed with Cancer - consider vitamin D - 2021"
 slug: "diagnosed-with-cancer-consider-vitamin-d-2021"
 aliases:
   - "/Diagnosed+with+Cancer+-+consider+vitamin+D+-+2021"
-  - "/tiki-index.php?page_id=14896"
+  - "/14896"
+tiki_page_id: 14896
 date: 2023-12-19
 categories:
   - "Cancer - after diagnosis"

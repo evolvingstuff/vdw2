@@ -3,7 +3,8 @@ title: "Vitamin D levels are correlated with 6 environmental variables in China"
 slug: "vitamin-d-levels-are-correlated-with-6-environmental-variables-in-china"
 aliases:
   - "/Vitamin+D+levels+are+correlated+with+6+environmental+variables+in+China+–+July+2022"
-  - "/tiki-index.php?page_id=13803"
+  - "/13803"
+tiki_page_id: 13803
 date: 2022-07-28
 categories:
   - "Orient"

@@ -3,7 +3,8 @@ title: "Dengue virus prevented by a small amount of Vitamin D – RCT"
 slug: "dengue-virus-prevented-by-a-small-amount-of-vitamin-d-rct"
 aliases:
   - "/Dengue+virus+prevented+by+a+small+amount+of+Vitamin+D+–+RCT+Nov+2019"
-  - "/tiki-index.php?page_id=11398"
+  - "/11398"
+tiki_page_id: 11398
 date: 2019-11-26
 categories:
   - "Intervention"

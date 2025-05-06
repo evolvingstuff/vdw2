@@ -3,7 +3,8 @@ title: "Vitamin D appears to drop while fighting COVID but recover later"
 slug: "vitamin-d-appears-to-drop-while-fighting-covid-but-recover-later"
 aliases:
   - "/Vitamin+D+appears+to+drop+while+fighting+COVID+but+recover+later+–+Nov+2021"
-  - "/tiki-index.php?page_id=13117"
+  - "/13117"
+tiki_page_id: 13117
 date: 2021-11-27
 categories:
   - "Virus"

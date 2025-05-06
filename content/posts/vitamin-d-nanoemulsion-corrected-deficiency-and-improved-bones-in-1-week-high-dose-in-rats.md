@@ -3,7 +3,8 @@ title: "Vitamin D nanoemulsion corrected deficiency and improved bones in 1 week
 slug: "vitamin-d-nanoemulsion-corrected-deficiency-and-improved-bones-in-1-week-high-dose-in-rats"
 aliases:
   - "/Vitamin+D+nanoemulsion+corrected+deficiency+and+improved+bones+in+1+week+high+dose+in+rats+–+Jan+2019"
-  - "/tiki-index.php?page_id=10364"
+  - "/10364"
+tiki_page_id: 10364
 date: 2019-01-02
 categories:
   - "Forms of Vitamin D"

@@ -3,7 +3,8 @@ title: "36X more likely for an infant to be low vitamin D if exclusively breastf
 slug: "36x-more-likely-for-an-infant-to-be-low-vitamin-d-if-exclusively-breastfed-hong-kong"
 aliases:
   - "/36X+more+likely+for+an+infant+to+be+low+vitamin+D+if+exclusively+breastfed+Hong+Kong+–+March+2021"
-  - "/tiki-index.php?page_id=12770"
+  - "/12770"
+tiki_page_id: 12770
 date: 2021-07-26
 categories:
   - "Top news"

@@ -3,7 +3,8 @@ title: "Coronavirus: How Bad Is It - Wimalawansa"
 slug: "coronavirus-how-bad-is-it-wimalawansa"
 aliases:
   - "/Coronavirus+How+Bad+Is+It+-+Wimalawansa+Feb+9+2020"
-  - "/tiki-index.php?page_id=11620"
+  - "/11620"
+tiki_page_id: 11620
 date: 2020-02-11
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D resistant genes (CYP24A1, SMRT, SNAIL)"
 slug: "vitamin-d-resistant-genes-cyp24a1-smrt-snail"
 aliases:
   - "/Vitamin+D+resistant+genes+CYP24A1+SMRT+SNAIL+–+July+2022"
-  - "/tiki-index.php?page_id=13777"
+  - "/13777"
+tiki_page_id: 13777
 date: 2022-07-20
 categories:
   - "Genetics"

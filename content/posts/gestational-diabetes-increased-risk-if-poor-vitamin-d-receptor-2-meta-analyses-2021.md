@@ -3,7 +3,8 @@ title: "Gestational Diabetes – increased risk if poor Vitamin D Receptor – 2
 slug: "gestational-diabetes-increased-risk-if-poor-vitamin-d-receptor-2-meta-analyses-2021"
 aliases:
   - "/Gestational+Diabetes+–+increased+risk+if+poor+Vitamin+D+Receptor+–+2+Meta-Analyses+2021"
-  - "/tiki-index.php?page_id=12182"
+  - "/12182"
+tiki_page_id: 12182
 date: 2020-12-29
 categories:
   - "Pregnancy"

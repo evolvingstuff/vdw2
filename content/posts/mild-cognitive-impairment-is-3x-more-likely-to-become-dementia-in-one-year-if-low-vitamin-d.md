@@ -3,7 +3,8 @@ title: "Mild cognitive impairment is 3X more likely to become dementia in one ye
 slug: "mild-cognitive-impairment-is-3x-more-likely-to-become-dementia-in-one-year-if-low-vitamin-d"
 aliases:
   - "/Mild+cognitive+impairment+is+3X+more+likely+to+become+dementia+in+one+year+if+low+vitamin+D+–+March+2022"
-  - "/tiki-index.php?page_id=13456"
+  - "/13456"
+tiki_page_id: 13456
 date: 2022-04-07
 categories:
   - "Cognitive"

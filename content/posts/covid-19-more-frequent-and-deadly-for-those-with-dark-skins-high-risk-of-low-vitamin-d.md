@@ -3,7 +3,8 @@ title: "COVID-19 more frequent and deadly for those with dark skins (high risk o
 slug: "covid-19-more-frequent-and-deadly-for-those-with-dark-skins-high-risk-of-low-vitamin-d"
 aliases:
   - "/COVID-19+more+frequent+and+deadly+for+those+with+dark+skins+high+risk+of+low+vitamin+D"
-  - "/tiki-index.php?page_id=11727"
+  - "/11727"
+tiki_page_id: 11727
 date: 2020-04-14
 categories:
   - "Skin - Dark"

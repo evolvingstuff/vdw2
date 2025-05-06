@@ -3,7 +3,8 @@ title: "Multiple Sclerosis Coimbra Protocol stories on Facebook"
 slug: "multiple-sclerosis-coimbra-protocol-stories-on-facebook"
 aliases:
   - "/Multiple+Sclerosis+Coimbra+Protocol+stories+on+Facebook"
-  - "/tiki-index.php?page_id=9992"
+  - "/9992"
+tiki_page_id: 9992
 date: 2018-08-31
 categories:
   - "Multiple Sclerosis"

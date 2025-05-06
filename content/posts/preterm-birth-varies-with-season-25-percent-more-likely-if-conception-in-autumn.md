@@ -3,7 +3,8 @@ title: "Preterm birth varies with season: 25 percent more likely if conception i
 slug: "preterm-birth-varies-with-season-25-percent-more-likely-if-conception-in-autumn"
 aliases:
   - "/Preterm+birth+varies+with+season+25+percent+more+likely+if+conception+in+autumn+–+Feb+2022"
-  - "/tiki-index.php?page_id=13317"
+  - "/13317"
+tiki_page_id: 13317
 date: 2022-02-04
 categories:
   - "Pregnancy"

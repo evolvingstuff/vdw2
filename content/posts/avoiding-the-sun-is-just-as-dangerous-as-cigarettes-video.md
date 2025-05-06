@@ -3,7 +3,8 @@ title: "Avoiding the Sun is Just as Dangerous as Cigarettes - video"
 slug: "avoiding-the-sun-is-just-as-dangerous-as-cigarettes-video"
 aliases:
   - "/Avoiding+the+Sun+is+Just+as+Dangerous+as+Cigarettes+-+video+March+2024"
-  - "/tiki-index.php?page_id=15118"
+  - "/15118"
+tiki_page_id: 15118
 date: 2024-03-10
 categories:
   - "Interactions with Vitamin D"

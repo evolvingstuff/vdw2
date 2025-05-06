@@ -3,7 +3,8 @@ title: "Role of Vitamin K in Bones and Muscles"
 slug: "role-of-vitamin-k-in-bones-and-muscles"
 aliases:
   - "/Role+of+Vitamin+K+in+Bones+and+Muscles+-+Feb+2022"
-  - "/tiki-index.php?page_id=13333"
+  - "/13333"
+tiki_page_id: 13333
 date: 2022-02-13
 categories:
   - "Bone - Health"

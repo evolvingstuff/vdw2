@@ -3,7 +3,8 @@ title: "IBS reduced by 50,000 IU of Vitamin D (weekly or bi-weekly) – Meta-ana
 slug: "ibs-reduced-by-50000-iu-of-vitamin-d-weekly-or-bi-weekly-meta-analysis"
 aliases:
   - "/IBS+reduced+by+50000+IU+of+Vitamin+D+weekly+or+bi-weekly+–+Meta-analysis+July+2023"
-  - "/tiki-index.php?page_id=14613"
+  - "/14613"
+tiki_page_id: 14613
 date: 2023-08-16
 categories:
   - "Meta-analysis of Vitamin D"

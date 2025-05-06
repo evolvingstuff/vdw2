@@ -3,7 +3,8 @@ title: "450,000 IU of Vitamin D daily too much for a cat"
 slug: "450000-iu-of-vitamin-d-daily-too-much-for-a-cat"
 aliases:
   - "/450000+IU+of+Vitamin+D+daily+too+much+for+a+cat+-+Aug+2021"
-  - "/tiki-index.php?page_id=12834"
+  - "/12834"
+tiki_page_id: 12834
 date: 2021-08-18
 categories:
   - "Veterinary and Vitamin D"

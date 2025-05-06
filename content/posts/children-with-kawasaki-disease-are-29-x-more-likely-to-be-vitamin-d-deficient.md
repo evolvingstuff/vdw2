@@ -3,7 +3,8 @@ title: "Children with Kawasaki disease are 29 X more likely to be Vitamin D defi
 slug: "children-with-kawasaki-disease-are-29-x-more-likely-to-be-vitamin-d-deficient"
 aliases:
   - "/Children+with+Kawasaki+disease+are+29+X+more+likely+to+be+Vitamin+D+deficient+–+Jan+2022"
-  - "/tiki-index.php?page_id=13755"
+  - "/13755"
+tiki_page_id: 13755
 date: 2022-07-14
 categories:
   - "Infant-Child"

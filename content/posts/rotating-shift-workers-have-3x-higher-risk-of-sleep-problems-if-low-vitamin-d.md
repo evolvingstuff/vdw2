@@ -3,7 +3,8 @@ title: "Rotating shift workers have 3X higher risk of sleep problems if low Vita
 slug: "rotating-shift-workers-have-3x-higher-risk-of-sleep-problems-if-low-vitamin-d"
 aliases:
   - "/Rotating+shift+workers+have+3X+higher+risk+of+sleep+problems+if+low+Vitamin+D+-+April+2023"
-  - "/tiki-index.php?page_id=15232"
+  - "/15232"
+tiki_page_id: 15232
 date: 2024-04-22
 categories:
   - "High Risk"

@@ -3,7 +3,8 @@ title: "Rheumatoid Arthritis pain reduced by monthly 100,000 IU of Vitamin D"
 slug: "rheumatoid-arthritis-pain-reduced-by-monthly-100000-iu-of-vitamin-d"
 aliases:
   - "/Rheumatoid+Arthritis+pain+reduced+by+monthly+100000+IU+of+Vitamin+D+–+Oct+2018"
-  - "/tiki-index.php?page_id=10090"
+  - "/10090"
+tiki_page_id: 10090
 date: 2018-10-05
 categories:
   - "Pain - chronic"

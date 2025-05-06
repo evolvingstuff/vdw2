@@ -3,7 +3,8 @@ title: "Hypertension during pregnancy: low Vitamin D, poor Vit. D genes"
 slug: "hypertension-during-pregnancy-low-vitamin-d-poor-vit-d-genes"
 aliases:
   - "/Hypertension+during+pregnancy+low+Vitamin+D+poor+Vit+D+genes+–+June+2022"
-  - "/tiki-index.php?page_id=13657"
+  - "/13657"
+tiki_page_id: 13657
 date: 2022-06-10
 categories:
   - "Pregnancy"

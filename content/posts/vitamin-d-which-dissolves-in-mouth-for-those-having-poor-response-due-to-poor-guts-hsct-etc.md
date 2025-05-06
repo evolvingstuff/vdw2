@@ -3,7 +3,8 @@ title: "Vitamin D which dissolves in mouth for those having poor response due to
 slug: "vitamin-d-which-dissolves-in-mouth-for-those-having-poor-response-due-to-poor-guts-hsct-etc"
 aliases:
   - "/Vitamin+D+which+dissolves+in+mouth+for+those+having+poor+response+due+to+poor+guts+HSCT+etc-+June+2023"
-  - "/tiki-index.php?page_id=14475"
+  - "/14475"
+tiki_page_id: 14475
 date: 2023-06-08
 categories:
   - "Forms of Vitamin D"

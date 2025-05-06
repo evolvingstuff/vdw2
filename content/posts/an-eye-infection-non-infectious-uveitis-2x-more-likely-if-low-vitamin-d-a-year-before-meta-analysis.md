@@ -3,7 +3,8 @@ title: "An eye infection (non-infectious uveitis) 2X more likely if low vitamin 
 slug: "an-eye-infection-non-infectious-uveitis-2x-more-likely-if-low-vitamin-d-a-year-before-meta-analysis"
 aliases:
   - "/An+eye+infection+non-infectious+uveitis+2X+more+likely+if+low+vitamin+D+a+year+before+–+Meta-analysis+Dec+2023"
-  - "/tiki-index.php?page_id=14868"
+  - "/14868"
+tiki_page_id: 14868
 date: 2023-12-06
 categories:
   - "Vision"

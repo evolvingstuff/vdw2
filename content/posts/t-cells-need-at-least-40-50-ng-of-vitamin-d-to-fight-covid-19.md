@@ -3,7 +3,8 @@ title: "T-cells need at least 40-50 ng of Vitamin D to fight COVID-19"
 slug: "t-cells-need-at-least-40-50-ng-of-vitamin-d-to-fight-covid-19"
 aliases:
   - "/T-cells+need+at+least+40-50+ng+of+Vitamin+D+to+fight+COVID-19+-+June+2021"
-  - "/tiki-index.php?page_id=12625"
+  - "/12625"
+tiki_page_id: 12625
 date: 2021-06-01
 categories:
   - "Immunity"

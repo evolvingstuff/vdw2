@@ -3,7 +3,8 @@ title: "Have We Gotten Sunscreen Totally Wrong"
 slug: "have-we-gotten-sunscreen-totally-wrong"
 aliases:
   - "/Have+We+Gotten+Sunscreen+Totally+Wrong+-+Jan+2019"
-  - "/tiki-index.php?page_id=10394"
+  - "/10394"
+tiki_page_id: 10394
 date: 2019-01-12
 categories:
   - "Noontime sun and D"

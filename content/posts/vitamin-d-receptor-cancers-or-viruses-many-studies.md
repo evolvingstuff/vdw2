@@ -3,7 +3,8 @@ title: "Vitamin D Receptor (Cancers OR Viruses) - many studies"
 slug: "vitamin-d-receptor-cancers-or-viruses-many-studies"
 aliases:
   - "/Vitamin+D+Receptor+Cancers+OR+Viruses+-+many+studies"
-  - "/tiki-index.php?page_id=12327"
+  - "/12327"
+tiki_page_id: 12327
 date: 2021-02-17
 categories:
   - "Cancer"

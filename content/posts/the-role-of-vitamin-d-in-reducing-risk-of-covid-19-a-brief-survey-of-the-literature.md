@@ -3,7 +3,8 @@ title: "The role of vitamin D in reducing risk of COVID-19: a brief survey of th
 slug: "the-role-of-vitamin-d-in-reducing-risk-of-covid-19-a-brief-survey-of-the-literature"
 aliases:
   - "/The+role+of+vitamin+D+in+reducing+risk+of+COVID-19+a+brief+survey+of+the+literature+-+June+9+2020"
-  - "/tiki-index.php?page_id=11798"
+  - "/11798"
+tiki_page_id: 11798
 date: 2020-06-10
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Gynecological cancers and atherosclerosis (perhaps a Vitamin D associati
 slug: "gynecological-cancers-and-atherosclerosis-perhaps-a-vitamin-d-association"
 aliases:
   - "/Gynecological+cancers+and+atherosclerosis+perhaps+a+Vitamin+D+association+-+Dec+2023"
-  - "/tiki-index.php?page_id=15007"
+  - "/15007"
+tiki_page_id: 15007
 date: 2024-01-29
 categories:
   - "Cancer - Other"

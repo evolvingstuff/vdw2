@@ -3,7 +3,8 @@ title: "Menstrual pain reduced by Vitamin D (50,000 weekly or 300,000 monthly) â
 slug: "menstrual-pain-reduced-by-vitamin-d-50000-weekly-or-300000-monthly-meta-analyses"
 aliases:
   - "/Menstrual+pain+reduced+by+Vitamin+D+50000+weekly+or+300000+monthly+â€“+meta-analyses"
-  - "/tiki-index.php?page_id=14535"
+  - "/14535"
+tiki_page_id: 14535
 date: 2023-07-15
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "Health problems at high risk of COVID-19"
 slug: "health-problems-at-high-risk-of-covid-19"
 aliases:
   - "/Health+problems+at+high+risk+of+COVID-19"
-  - "/tiki-index.php?page_id=11865"
+  - "/11865"
+tiki_page_id: 11865
 date: 2020-07-25
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Autumn Covid wave officially kicks off: Virus hospital admissions in Eng
 slug: "autumn-covid-wave-officially-kicks-off-virus-hospital-admissions-in-england-jump-by-half-in-a-week"
 aliases:
   - "/Autumn+Covid+wave+officially+kicks+off+Virus+hospital+admissions+in+England+jump+by+half+in+a+week+-+Sept+30+2022"
-  - "/tiki-index.php?page_id=13967"
+  - "/13967"
+tiki_page_id: 13967
 date: 2022-10-02
 categories:
   - "Virus"

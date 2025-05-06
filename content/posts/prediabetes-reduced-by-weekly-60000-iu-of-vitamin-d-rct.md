@@ -3,7 +3,8 @@ title: "Prediabetes reduced by weekly 60,000 IU of Vitamin D – RCT"
 slug: "prediabetes-reduced-by-weekly-60000-iu-of-vitamin-d-rct"
 aliases:
   - "/Prediabetes+reduced+by+weekly+60000+IU+of+Vitamin+D+–+RCT+Jan+2021"
-  - "/tiki-index.php?page_id=12237"
+  - "/12237"
+tiki_page_id: 12237
 date: 2021-01-18
 categories:
   - "Diabetes"

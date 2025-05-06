@@ -3,7 +3,8 @@ title: "Vitamin D survey in Scotland, only a few take 400 IU daily"
 slug: "vitamin-d-survey-in-scotland-only-a-few-take-400-iu-daily"
 aliases:
   - "/Vitamin+D+survey+in+Scotland+only+a+few+take+400+IU+daily+–+March+2024"
-  - "/tiki-index.php?page_id=15147"
+  - "/15147"
+tiki_page_id: 15147
 date: 2024-03-18
 categories:
   - "Vitamin D in Europe"

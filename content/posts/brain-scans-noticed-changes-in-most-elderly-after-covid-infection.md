@@ -3,7 +3,8 @@ title: "Brain scans noticed changes in most elderly after COVID infection"
 slug: "brain-scans-noticed-changes-in-most-elderly-after-covid-infection"
 aliases:
   - "/Brain+scans+noticed+changes+in+most+elderly+after+COVID+infection+–+March+2022"
-  - "/tiki-index.php?page_id=13383"
+  - "/13383"
+tiki_page_id: 13383
 date: 2022-03-10
 categories:
   - "Top news"

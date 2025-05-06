@@ -3,7 +3,8 @@ title: "Prolonged sitting might be worse than smoking"
 slug: "prolonged-sitting-might-be-worse-than-smoking"
 aliases:
   - "/Prolonged+sitting+might+be+worse+than+smoking+-+Jan+2024"
-  - "/tiki-index.php?page_id=14967"
+  - "/14967"
+tiki_page_id: 14967
 date: 2024-01-12
 ---
 

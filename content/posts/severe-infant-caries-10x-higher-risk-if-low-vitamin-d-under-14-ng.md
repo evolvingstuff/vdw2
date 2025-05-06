@@ -3,7 +3,8 @@ title: "Severe infant caries 10X higher risk if low vitamin D (under 14 ng)"
 slug: "severe-infant-caries-10x-higher-risk-if-low-vitamin-d-under-14-ng"
 aliases:
   - "/Severe+infant+caries+10X+higher+risk+if+low+vitamin+D+under+14+ng+-+Dec+2021"
-  - "/tiki-index.php?page_id=13186"
+  - "/13186"
+tiki_page_id: 13186
 date: 2021-12-14
 categories:
   - "Dental"

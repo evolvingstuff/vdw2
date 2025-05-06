@@ -3,7 +3,8 @@ title: "Diseases treated by high-dose Vitamin D - many studies"
 slug: "diseases-treated-by-high-dose-vitamin-d-many-studies"
 aliases:
   - "/Diseases+treated+by+high-dose+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14127"
+  - "/14127"
+tiki_page_id: 14127
 date: 2022-12-04
 categories:
   - "Multiple Sclerosis"

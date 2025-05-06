@@ -3,7 +3,8 @@ title: "Vitamin D recommended to fight COVID-19 by 2 groups"
 slug: "vitamin-d-recommended-to-fight-covid-19-by-2-groups"
 aliases:
   - "/Vitamin+D+recommended+to+fight+COVID-19+by+2+groups+–+Dec+7+2020"
-  - "/tiki-index.php?page_id=12129"
+  - "/12129"
+tiki_page_id: 12129
 date: 2020-12-10
 categories:
   - "Virus"

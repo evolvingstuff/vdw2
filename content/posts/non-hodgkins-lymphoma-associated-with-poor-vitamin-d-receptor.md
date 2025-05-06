@@ -3,7 +3,8 @@ title: "Non-Hodgkin’s lymphoma associated with poor Vitamin D receptor"
 slug: "non-hodgkins-lymphoma-associated-with-poor-vitamin-d-receptor"
 aliases:
   - "/Non-Hodgkins+lymphoma+associated+with+poor+Vitamin+D+receptor+–+Feb+2021"
-  - "/tiki-index.php?page_id=12318"
+  - "/12318"
+tiki_page_id: 12318
 date: 2021-02-13
 categories:
   - "Cancer - Lymphoma"

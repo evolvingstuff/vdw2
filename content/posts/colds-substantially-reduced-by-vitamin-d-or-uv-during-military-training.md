@@ -3,7 +3,8 @@ title: "Colds substantially reduced by Vitamin D or UV during military training"
 slug: "colds-substantially-reduced-by-vitamin-d-or-uv-during-military-training"
 aliases:
   - "/Colds+substantially+reduced+by+Vitamin+D+or+UV+during+military+training+–+Jan+2021"
-  - "/tiki-index.php?page_id=12256"
+  - "/12256"
+tiki_page_id: 12256
 date: 2021-01-24
 categories:
   - "Breathing"

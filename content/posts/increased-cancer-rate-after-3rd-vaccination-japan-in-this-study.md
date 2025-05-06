@@ -3,7 +3,8 @@ title: "Increased cancer rate after 3rd vaccination (Japan in this study)"
 slug: "increased-cancer-rate-after-3rd-vaccination-japan-in-this-study"
 aliases:
   - "/Increased+cancer+rate+after+3rd+vaccination+Japan+in+this+study+-+April+2024"
-  - "/tiki-index.php?page_id=15208"
+  - "/15208"
+tiki_page_id: 15208
 date: 2024-04-11
 categories:
   - "Virus"

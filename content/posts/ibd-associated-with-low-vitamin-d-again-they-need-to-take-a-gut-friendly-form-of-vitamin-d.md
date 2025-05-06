@@ -3,7 +3,8 @@ title: "IBD associated with low vitamin D again (they need to take a gut-friendl
 slug: "ibd-associated-with-low-vitamin-d-again-they-need-to-take-a-gut-friendly-form-of-vitamin-d"
 aliases:
   - "/IBD+associated+with+low+vitamin+D+again+they+need+to+take+a+gut-friendly+form+of+Vitamin+D+–+Oct+2023"
-  - "/tiki-index.php?page_id=14751"
+  - "/14751"
+tiki_page_id: 14751
 date: 2023-10-14
 categories:
   - "Gut"

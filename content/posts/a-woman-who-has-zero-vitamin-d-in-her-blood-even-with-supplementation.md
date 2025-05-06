@@ -3,7 +3,8 @@ title: "A woman who has ZERO Vitamin D in her blood, even with supplementation"
 slug: "a-woman-who-has-zero-vitamin-d-in-her-blood-even-with-supplementation"
 aliases:
   - "/A+woman+who+has+ZERO+Vitamin+D+in+her+blood+even+with+supplementation+–+March+2019"
-  - "/tiki-index.php?page_id=10782"
+  - "/10782"
+tiki_page_id: 10782
 date: 2019-05-16
 categories:
   - "Vit D Binding Protein"

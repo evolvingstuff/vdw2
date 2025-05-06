@@ -3,7 +3,8 @@ title: "COVID predicted to be a pandemic that could be stopped by high dose vita
 slug: "covid-predicted-to-be-a-pandemic-that-could-be-stopped-by-high-dose-vitamin-d"
 aliases:
   - "/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020"
-  - "/tiki-index.php?page_id=14333"
+  - "/14333"
+tiki_page_id: 14333
 date: 2023-03-25
 categories:
   - "Virus"

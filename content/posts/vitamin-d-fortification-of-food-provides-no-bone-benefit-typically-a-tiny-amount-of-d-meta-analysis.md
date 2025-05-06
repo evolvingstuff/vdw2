@@ -3,7 +3,8 @@ title: "Vitamin D fortification of food provides no bone benefit (typically a ti
 slug: "vitamin-d-fortification-of-food-provides-no-bone-benefit-typically-a-tiny-amount-of-d-meta-analysis"
 aliases:
   - "/Vitamin+D+fortification+of+food+provides+no+bone+benefit+typically+a+tiny+amount+of+D+-+meta-analysis+July+2022"
-  - "/tiki-index.php?page_id=13794"
+  - "/13794"
+tiki_page_id: 13794
 date: 2022-07-25
 categories:
   - "Bone - Health"

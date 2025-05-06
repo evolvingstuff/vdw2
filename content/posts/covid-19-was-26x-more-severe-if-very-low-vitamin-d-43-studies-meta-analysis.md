@@ -3,7 +3,8 @@ title: "COVID-19 was 2.6X more severe if very low Vitamin D (43 studies) – met
 slug: "covid-19-was-26x-more-severe-if-very-low-vitamin-d-43-studies-meta-analysis"
 aliases:
   - "/COVID-19+was+26X+more+severe+if+very+low+Vitamin+D+43+studies+–+meta-analysis+March+26+2021"
-  - "/tiki-index.php?page_id=12445"
+  - "/12445"
+tiki_page_id: 12445
 date: 2021-03-27
 categories:
   - "Deficiency of Vitamin D"

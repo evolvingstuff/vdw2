@@ -3,7 +3,8 @@ title: "How vitamins D, C, Zinc, and Selenium  might fight COVID"
 slug: "how-vitamins-d-c-zinc-and-selenium-might-fight-covid"
 aliases:
   - "/How+vitamins+D+C+Zinc+and+Selenium+might+fight+COVID+-+Dec+2021"
-  - "/tiki-index.php?page_id=13300"
+  - "/13300"
+tiki_page_id: 13300
 date: 2022-01-30
 categories:
   - "Virus"

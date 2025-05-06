@@ -3,7 +3,8 @@ title: "The US believes you have long-COVID if you have more than 12 points (no 
 slug: "the-us-believes-you-have-long-covid-if-you-have-more-than-12-points-no-treatment-yet"
 aliases:
   - "/The+US+believes+you+have+long-COVID+if+you+have+more+than+12+points+no+treatment+yet+-+May+2023"
-  - "/tiki-index.php?page_id=14444"
+  - "/14444"
+tiki_page_id: 14444
 date: 2023-05-25
 categories:
   - "Virus"

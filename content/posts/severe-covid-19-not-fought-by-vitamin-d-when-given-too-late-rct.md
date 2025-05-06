@@ -3,7 +3,8 @@ title: "Severe COVID-19 not fought by vitamin D when given too late - RCT"
 slug: "severe-covid-19-not-fought-by-vitamin-d-when-given-too-late-rct"
 aliases:
   - "/Severe+COVID-19+not+fought+by+vitamin+D+when+given+too+late+-+RCT+Nov+18+2020"
-  - "/tiki-index.php?page_id=12072"
+  - "/12072"
+tiki_page_id: 12072
 date: 2020-11-18
 categories:
   - "Loading dose for Vitamin D"

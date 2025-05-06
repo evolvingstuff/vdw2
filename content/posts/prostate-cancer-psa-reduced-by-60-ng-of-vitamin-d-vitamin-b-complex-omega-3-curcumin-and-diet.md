@@ -3,7 +3,8 @@ title: "Prostate Cancer PSA reduced by 60 ng of Vitamin D, Vitamin B complex, Om
 slug: "prostate-cancer-psa-reduced-by-60-ng-of-vitamin-d-vitamin-b-complex-omega-3-curcumin-and-diet"
 aliases:
   - "/Prostate+Cancer+PSA+reduced+by+60+ng+of+Vitamin+D+Vitamin+B+complex+Omega-3+Curcumin+and+diet+–+June+2021"
-  - "/tiki-index.php?page_id=12671"
+  - "/12671"
+tiki_page_id: 12671
 date: 2021-06-20
 categories:
   - "Cancer - Prostate"

@@ -3,7 +3,8 @@ title: "Cluster and Migraine headache treatment protocol"
 slug: "cluster-and-migraine-headache-treatment-protocol"
 aliases:
   - "/Cluster+and+Migraine+headache+treatment+protocol+-+Sept+2023"
-  - "/tiki-index.php?page_id=14708"
+  - "/14708"
+tiki_page_id: 14708
 date: 2023-09-27
 categories:
   - "Headache"

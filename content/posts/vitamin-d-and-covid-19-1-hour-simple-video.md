@@ -3,7 +3,8 @@ title: "Vitamin D and COVID-19: 1 hour simple video"
 slug: "vitamin-d-and-covid-19-1-hour-simple-video"
 aliases:
   - "/Vitamin+D+and+COVID-19+1+hour+simple+video+-+Jan+31+2021"
-  - "/tiki-index.php?page_id=12298"
+  - "/12298"
+tiki_page_id: 12298
 date: 2021-02-04
 categories:
   - "Books, videos on Vitamin D"

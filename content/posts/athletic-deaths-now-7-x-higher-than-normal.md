@@ -3,7 +3,8 @@ title: "Athletic deaths now 7 X higher than normal"
 slug: "athletic-deaths-now-7-x-higher-than-normal"
 aliases:
   - "/Athletic+deaths+now+7+X+higher+than+normal+-+Dec+2022"
-  - "/tiki-index.php?page_id=14196"
+  - "/14196"
+tiki_page_id: 14196
 date: 2023-01-06
 categories:
   - "Sports and Vitamin D"

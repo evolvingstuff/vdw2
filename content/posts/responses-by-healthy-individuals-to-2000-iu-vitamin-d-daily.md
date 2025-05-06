@@ -3,7 +3,8 @@ title: "Responses by healthy individuals to 2,000 IU vitamin D daily"
 slug: "responses-by-healthy-individuals-to-2000-iu-vitamin-d-daily"
 aliases:
   - "/Responses+by+healthy+individuals+to+2000+IU+vitamin+D+daily+–+Feb+2022"
-  - "/tiki-index.php?page_id=13312"
+  - "/13312"
+tiki_page_id: 13312
 date: 2022-02-03
 categories:
   - "Intervention"

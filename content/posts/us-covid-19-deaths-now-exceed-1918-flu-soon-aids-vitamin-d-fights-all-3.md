@@ -3,7 +3,8 @@ title: "US COVID-19 deaths now exceed 1918 flu, soon AIDS (Vitamin D fights all 
 slug: "us-covid-19-deaths-now-exceed-1918-flu-soon-aids-vitamin-d-fights-all-3"
 aliases:
   - "/US+COVID-19+deaths+now+exceed+1918+flu+soon+AIDS+Vitamin+D+fights+all+3+-+Sept+19+2021"
-  - "/tiki-index.php?page_id=12912"
+  - "/12912"
+tiki_page_id: 12912
 date: 2021-09-21
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Fractures 1.5 X more-likely if low serum Magnesium – meta-analysis"
 slug: "fractures-15-x-more-likely-if-low-serum-magnesium-meta-analysis"
 aliases:
   - "/Fractures+15+X+more-likely+if+low+serum+Magnesium+–+meta-analysis+March+2023"
-  - "/tiki-index.php?page_id=14304"
+  - "/14304"
+tiki_page_id: 14304
 date: 2023-03-08
 categories:
   - "Vitamin D and Magnesium"

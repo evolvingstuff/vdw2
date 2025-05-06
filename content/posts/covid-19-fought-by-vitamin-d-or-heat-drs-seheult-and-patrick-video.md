@@ -3,7 +3,8 @@ title: "COVID-19 fought by Vitamin D or Heat - Drs Seheult and Patrick video"
 slug: "covid-19-fought-by-vitamin-d-or-heat-drs-seheult-and-patrick-video"
 aliases:
   - "/COVID-19+fought+by+Vitamin+D+or+Heat+-+Drs+Seheult+and+Patrick+video+-+March+3+2021"
-  - "/tiki-index.php?page_id=12382"
+  - "/12382"
+tiki_page_id: 12382
 date: 2021-03-06
 categories:
   - "Books, videos on Vitamin D"

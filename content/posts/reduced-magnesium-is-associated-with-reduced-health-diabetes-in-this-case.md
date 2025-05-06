@@ -3,7 +3,8 @@ title: "Reduced Magnesium is associated with reduced health (Diabetes in this ca
 slug: "reduced-magnesium-is-associated-with-reduced-health-diabetes-in-this-case"
 aliases:
   - "/Reduced+Magnesium+is+associated+with+reduced+health+Diabetes+in+this+case+-+April+2022"
-  - "/tiki-index.php?page_id=13650"
+  - "/13650"
+tiki_page_id: 13650
 date: 2022-06-08
 categories:
   - "Diabetes"

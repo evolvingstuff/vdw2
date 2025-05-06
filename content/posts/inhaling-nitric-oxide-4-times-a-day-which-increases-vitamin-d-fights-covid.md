@@ -3,7 +3,8 @@ title: "Inhaling Nitric Oxide 4 times a day (which increases Vitamin D) fights C
 slug: "inhaling-nitric-oxide-4-times-a-day-which-increases-vitamin-d-fights-covid"
 aliases:
   - "/Inhaling+Nitric+Oxide+4+times+a+day+which+increases+Vitamin+D+fights+COVID+-+May+2022"
-  - "/tiki-index.php?page_id=13555"
+  - "/13555"
+tiki_page_id: 13555
 date: 2022-05-13
 categories:
   - "Virus"

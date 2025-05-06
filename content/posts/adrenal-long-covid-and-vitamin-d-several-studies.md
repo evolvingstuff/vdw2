@@ -3,7 +3,8 @@ title: "Adrenal, Long-COVID and Vitamin D - several studies"
 slug: "adrenal-long-covid-and-vitamin-d-several-studies"
 aliases:
   - "/Adrenal+Long-COVID+and+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=13873"
+  - "/13873"
+tiki_page_id: 13873
 date: 2022-08-27
 categories:
   - "Virus"

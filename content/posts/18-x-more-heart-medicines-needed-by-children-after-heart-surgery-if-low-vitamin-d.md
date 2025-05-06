@@ -3,7 +3,8 @@ title: "1.8 X more heart medicines needed by children after heart surgery if low
 slug: "18-x-more-heart-medicines-needed-by-children-after-heart-surgery-if-low-vitamin-d"
 aliases:
   - "/18+X+more+heart+medicines+needed+by+children+after+heart+surgery+if+low+Vitamin+D+–+July+2021"
-  - "/tiki-index.php?page_id=12777"
+  - "/12777"
+tiki_page_id: 12777
 date: 2021-07-28
 categories:
   - "Thyroid and parathyroid"

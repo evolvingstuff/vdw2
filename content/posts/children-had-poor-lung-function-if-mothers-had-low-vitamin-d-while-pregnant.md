@@ -3,7 +3,8 @@ title: "Children had poor lung function if mothers had low vitamin D while pregn
 slug: "children-had-poor-lung-function-if-mothers-had-low-vitamin-d-while-pregnant"
 aliases:
   - "/Children+had+poor+lung+function+if+mothers+had+low+vitamin+D+while+pregnant+–+Nov+2022"
-  - "/tiki-index.php?page_id=14097"
+  - "/14097"
+tiki_page_id: 14097
 date: 2022-11-19
 categories:
   - "Breathing"

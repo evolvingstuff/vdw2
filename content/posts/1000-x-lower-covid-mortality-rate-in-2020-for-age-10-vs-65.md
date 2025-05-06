@@ -3,7 +3,8 @@ title: "1,000 X lower COVID mortality rate in 2020 for age 10 vs 65"
 slug: "1000-x-lower-covid-mortality-rate-in-2020-for-age-10-vs-65"
 aliases:
   - "/1000+X+lower+COVID+mortality+rate+in+2020+for+age+10+vs+65+–+Oct+2022"
-  - "/tiki-index.php?page_id=14021"
+  - "/14021"
+tiki_page_id: 14021
 date: 2022-10-18
 categories:
   - "Virus"

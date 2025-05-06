@@ -3,7 +3,8 @@ title: "Vitamin D: (The D Stands for Dentist)"
 slug: "vitamin-d-the-d-stands-for-dentist"
 aliases:
   - "/Vitamin+D+The+D+Stands+for+Dentist+-+July+2018"
-  - "/tiki-index.php?page_id=10353"
+  - "/10353"
+tiki_page_id: 10353
 date: 2018-12-30
 categories:
   - "Dental"

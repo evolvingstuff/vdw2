@@ -3,7 +3,8 @@ title: "Those with Psoriasis were 7X more likely to have 20-30 ng levels of Vita
 slug: "those-with-psoriasis-were-7x-more-likely-to-have-20-30-ng-levels-of-vitamin-d"
 aliases:
   - "/Those+with+Psoriasis+were+7X+more+likely+to+have+20-30+ng+levels+of+Vitamin+D+-+Oct+2022"
-  - "/tiki-index.php?page_id=14026"
+  - "/14026"
+tiki_page_id: 14026
 date: 2022-10-20
 categories:
   - "Psoriasis"

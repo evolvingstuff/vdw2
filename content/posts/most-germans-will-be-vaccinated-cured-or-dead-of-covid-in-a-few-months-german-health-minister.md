@@ -3,7 +3,8 @@ title: "Most Germans will be vaccinated, cured or dead of COVID in a few months 
 slug: "most-germans-will-be-vaccinated-cured-or-dead-of-covid-in-a-few-months-german-health-minister"
 aliases:
   - "/Most+Germans+will+be+vaccinated+cured+or+dead+of+COVID+in+a+few+months+German+Health+Minister+-+Nov+21+2021"
-  - "/tiki-index.php?page_id=13102"
+  - "/13102"
+tiki_page_id: 13102
 date: 2021-11-22
 categories:
   - "Virus"

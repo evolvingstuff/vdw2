@@ -3,7 +3,8 @@ title: "Glyphosate use in nearby farm increased chance of death by Parkinson’s
 slug: "glyphosate-use-in-nearby-farm-increased-chance-of-death-by-parkinsons-patients-by-a-third"
 aliases:
   - "/Glyphosate+use+in+nearby+farm+increased+chance+of+death+by+Parkinsons+patients+by+a+third–+Dec+2018"
-  - "/tiki-index.php?page_id=10424"
+  - "/10424"
+tiki_page_id: 10424
 date: 2019-01-24
 categories:
   - "Glyphosate"

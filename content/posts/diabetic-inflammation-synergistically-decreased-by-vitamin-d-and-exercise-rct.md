@@ -3,7 +3,8 @@ title: "Diabetic inflammation synergistically decreased by Vitamin D and exercis
 slug: "diabetic-inflammation-synergistically-decreased-by-vitamin-d-and-exercise-rct"
 aliases:
   - "/Diabetic+inflammation+synergistically+decreased+by+Vitamin+D+and+exercise+–+RCT+June+2022"
-  - "/tiki-index.php?page_id=13699"
+  - "/13699"
+tiki_page_id: 13699
 date: 2022-06-23
 categories:
   - "Sports and Vitamin D"

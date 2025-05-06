@@ -3,7 +3,8 @@ title: "Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly â
 slug: "diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct"
 aliases:
   - "/Diabetic+nephropathy+Kidney+treated+by+50000+IU+of+vitamin+D+weekly+â€“+RCT+Jan+2019"
-  - "/tiki-index.php?page_id=10069"
+  - "/10069"
+tiki_page_id: 10069
 date: 2018-09-26
 categories:
   - "Kidney"

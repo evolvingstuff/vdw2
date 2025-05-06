@@ -3,7 +3,8 @@ title: "Vitamin D entry in Nutrahacker"
 slug: "vitamin-d-entry-in-nutrahacker"
 aliases:
   - "/Vitamin+D+entry+in+Nutrahacker+-+Feb+2024"
-  - "/tiki-index.php?page_id=15055"
+  - "/15055"
+tiki_page_id: 15055
 date: 2024-02-16
 ---
 

@@ -3,7 +3,8 @@ title: "VitaminDWiki pages having WOUND or BURN in the title"
 slug: "vitamindwiki-pages-having-wound-or-burn-in-the-title"
 aliases:
   - "/VitaminDWiki+pages+having+WOUND+or+BURN+in+the+title"
-  - "/tiki-index.php?page_id=13229"
+  - "/13229"
+tiki_page_id: 13229
 date: 2021-12-29
 categories:
   - "Skin"

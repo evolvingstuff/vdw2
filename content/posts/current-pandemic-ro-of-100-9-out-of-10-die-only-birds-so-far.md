@@ -3,7 +3,8 @@ title: "Current pandemic - Ro of 100, 9 out of 10 die (only birds, so far)"
 slug: "current-pandemic-ro-of-100-9-out-of-10-die-only-birds-so-far"
 aliases:
   - "/Current+pandemic+-+Ro+of+100+9+out+of+10+die+only+birds+so+far+-+Nov+2022"
-  - "/tiki-index.php?page_id=14078"
+  - "/14078"
+tiki_page_id: 14078
 date: 2022-11-08
 categories:
   - "Virus"

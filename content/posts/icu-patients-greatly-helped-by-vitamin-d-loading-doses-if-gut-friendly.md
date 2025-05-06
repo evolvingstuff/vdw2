@@ -3,7 +3,8 @@ title: "ICU patients greatly helped by Vitamin D loading doses – if gut-friend
 slug: "icu-patients-greatly-helped-by-vitamin-d-loading-doses-if-gut-friendly"
 aliases:
   - "/ICU+patients+greatly+helped+by+Vitamin+D+loading+doses+–+if+gut-friendly+–+Oct+2020"
-  - "/tiki-index.php?page_id=12015"
+  - "/12015"
+tiki_page_id: 12015
 date: 2020-10-18
 categories:
   - "Trauma and surgery"

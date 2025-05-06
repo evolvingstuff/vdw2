@@ -3,7 +3,8 @@ title: "Protect your immune system from COVID-19, flu, colds, etc with 10,000 IU
 slug: "protect-your-immune-system-from-covid-19-flu-colds-etc-with-10000-iu-of-vitamin-d-etc"
 aliases:
   - "/Protect+your+immune+system+from+COVID-19+flu+colds+etc+with+10000+IU+of+vitamin+D+etc+-+Nov+2020"
-  - "/tiki-index.php?page_id=12122"
+  - "/12122"
+tiki_page_id: 12122
 date: 2020-12-05
 categories:
   - "Immunity"

@@ -3,7 +3,8 @@ title: "What to do if you catch COVID - Dr. McCullough"
 slug: "what-to-do-if-you-catch-covid-dr-mccullough"
 aliases:
   - "/What+to+do+if+you+catch+COVID+-+Dr+McCullough+Sept+2023"
-  - "/tiki-index.php?page_id=14694"
+  - "/14694"
+tiki_page_id: 14694
 date: 2023-09-20
 categories:
   - "Virus"

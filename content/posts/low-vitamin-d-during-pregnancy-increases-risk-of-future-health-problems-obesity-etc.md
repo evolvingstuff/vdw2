@@ -3,7 +3,8 @@ title: "Low vitamin D during pregnancy increases risk of future health problems 
 slug: "low-vitamin-d-during-pregnancy-increases-risk-of-future-health-problems-obesity-etc"
 aliases:
   - "/Low+vitamin+D+during+pregnancy+increases+risk+of+future+health+problems+obesity+etc+–+May+2022"
-  - "/tiki-index.php?page_id=13553"
+  - "/13553"
+tiki_page_id: 13553
 date: 2022-05-12
 categories:
   - "Pregnancy"

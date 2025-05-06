@@ -3,7 +3,8 @@ title: "Should We Tax Meat and Dairy Like We Do Cigarettes – Greger"
 slug: "should-we-tax-meat-and-dairy-like-we-do-cigarettes-greger"
 aliases:
   - "/Should+We+Tax+Meat+and+Dairy+Like+We+Do+Cigarettes+–+Greger+Jan+2020"
-  - "/tiki-index.php?page_id=11602"
+  - "/11602"
+tiki_page_id: 11602
 date: 2020-01-30
 categories:
   - "Greger"

@@ -3,7 +3,8 @@ title: "Hip fractures not prevented by Vitamin D (800 IU daily or large quarterl
 slug: "hip-fractures-not-prevented-by-vitamin-d-800-iu-daily-or-large-quarterly-or-annu-s-meta-analysis"
 aliases:
   - "/Hip+fractures+not+prevented+by+Vitamin+D+800+IU+daily+or+large+quarterly+or+annual+doses+–+meta-analysis+–+Dec+2019"
-  - "/tiki-index.php?page_id=11482"
+  - "/11482"
+tiki_page_id: 11482
 date: 2019-12-20
 categories:
   - "Meta-analysis of Vitamin D"

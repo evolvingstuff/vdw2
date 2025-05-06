@@ -3,7 +3,8 @@ title: "Vitamins C and D being considered as Coronavirus Treatments"
 slug: "vitamins-c-and-d-being-considered-as-coronavirus-treatments"
 aliases:
   - "/Vitamins+C+and+D+being+considered+as+Coronavirus+Treatments+-+April+7+2020"
-  - "/tiki-index.php?page_id=11720"
+  - "/11720"
+tiki_page_id: 11720
 date: 2020-04-07
 categories:
   - "Virus"

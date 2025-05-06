@@ -3,7 +3,8 @@ title: "Vitamin D might fight COVID-19 (lists 7 reasons)"
 slug: "vitamin-d-might-fight-covid-19-lists-7-reasons"
 aliases:
   - "/Vitamin+D+might+fight+COVID-19+lists+7+reasons+March+8+2021"
-  - "/tiki-index.php?page_id=12386"
+  - "/12386"
+tiki_page_id: 12386
 date: 2021-03-08
 categories:
   - "Top news"

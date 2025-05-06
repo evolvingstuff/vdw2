@@ -3,7 +3,8 @@ title: "Stress Fractures and Vitamin D – narrative review"
 slug: "stress-fractures-and-vitamin-d-narrative-review"
 aliases:
   - "/Stress+Fractures+and+Vitamin+D+–+narrative+review+March+2021"
-  - "/tiki-index.php?page_id=12470"
+  - "/12470"
+tiki_page_id: 12470
 date: 2021-04-04
 categories:
   - "Bone - Health"

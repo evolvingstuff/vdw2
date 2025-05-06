@@ -3,7 +3,8 @@ title: "COVID length of stay: The best predictor was Vitamin D (of 70 parameters
 slug: "covid-length-of-stay-the-best-predictor-was-vitamin-d-of-70-parameters"
 aliases:
   - "/COVID+length+of+stay+The+best+predictor+was+Vitamin+D+of+70+parameters+–+March+2022"
-  - "/tiki-index.php?page_id=13410"
+  - "/13410"
+tiki_page_id: 13410
 date: 2022-03-18
 categories:
   - "Virus"

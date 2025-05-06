@@ -3,7 +3,8 @@ title: "Vitamin D decreases oxidative stress – meta-analysis"
 slug: "vitamin-d-decreases-oxidative-stress-meta-analysis"
 aliases:
   - "/Vitamin+D+decreases+oxidative+stress+–+meta-analysis+Nov+2018"
-  - "/tiki-index.php?page_id=10207"
+  - "/10207"
+tiki_page_id: 10207
 date: 2018-11-18
 categories:
   - "Immunity"

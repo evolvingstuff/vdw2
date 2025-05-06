@@ -3,7 +3,8 @@ title: "Every Parkinson’s brain had a gene modification that limited how much 
 slug: "every-parkinsons-brain-had-a-gene-modification-that-limited-how-much-vitamin-d-was-available-cyp27b1"
 aliases:
   - "/Every+Parkinsons+brain+had+a+gene+modification+that+limited+how+much+vitamin+D+was+available+CYP27B1+–+Feb+2022"
-  - "/tiki-index.php?page_id=13337"
+  - "/13337"
+tiki_page_id: 13337
 date: 2022-02-15
 categories:
   - "Cognitive"

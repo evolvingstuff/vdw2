@@ -3,7 +3,8 @@ title: "Coronary plaque associated with poor gut bacteria (Might vitamin D or K 
 slug: "coronary-plaque-associated-with-poor-gut-bacteria-might-vitamin-d-or-k-help"
 aliases:
   - "/Coronary+plaque+associated+with+poor+gut+bacteria+Might+vitamin+D+or+K+help+–+July+2023"
-  - "/tiki-index.php?page_id=14546"
+  - "/14546"
+tiki_page_id: 14546
 date: 2023-07-20
 ---
 

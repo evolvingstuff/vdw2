@@ -3,7 +3,8 @@ title: "Omicron mutations to avoid vaccinations may get much worse – Bossche"
 slug: "omicron-mutations-to-avoid-vaccinations-may-get-much-worse-bossche"
 aliases:
   - "/Omicron+mutations+to+avoid+vaccinations+may+get+much+worse+–+Bossche+June+2022"
-  - "/tiki-index.php?page_id=13683"
+  - "/13683"
+tiki_page_id: 13683
 date: 2022-06-18
 categories:
   - "Virus"

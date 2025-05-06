@@ -3,7 +3,8 @@ title: "The Vitamin That Quadruples Weight Loss"
 slug: "the-vitamin-that-quadruples-weight-loss"
 aliases:
   - "/The+Vitamin+That+Quadruples+Weight+Loss+-+Oct+2019"
-  - "/tiki-index.php?page_id=11279"
+  - "/11279"
+tiki_page_id: 11279
 date: 2019-10-26
 categories:
   - "Obesity"

@@ -3,7 +3,8 @@ title: "Vitamin D fights some viral infections"
 slug: "vitamin-d-fights-some-viral-infections"
 aliases:
   - "/Vitamin+D+fights+some+viral+infections+–+Jan+2019"
-  - "/tiki-index.php?page_id=13188"
+  - "/13188"
+tiki_page_id: 13188
 date: 2021-12-14
 categories:
   - "Virus"

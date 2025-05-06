@@ -3,7 +3,8 @@ title: "Canada, like New Zealand, may regulate Vitamin D and other supplements"
 slug: "canada-like-new-zealand-may-regulate-vitamin-d-and-other-supplements"
 aliases:
   - "/Canada+like+New+Zealand+may+regulate+Vitamin+D+and+other+supplements+-+March+2023"
-  - "/tiki-index.php?page_id=14344"
+  - "/14344"
+tiki_page_id: 14344
 date: 2023-03-31
 categories:
   - "Vitamin D in Canada"

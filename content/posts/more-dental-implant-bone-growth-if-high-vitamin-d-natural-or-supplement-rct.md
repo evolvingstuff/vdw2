@@ -3,7 +3,8 @@ title: "More dental implant bone growth if high vitamin D (natural or supplement
 slug: "more-dental-implant-bone-growth-if-high-vitamin-d-natural-or-supplement-rct"
 aliases:
   - "/More+dental+implant+bone+growth+if+high+vitamin+D+natural+or+supplement+–+RCT+Feb+2021"
-  - "/tiki-index.php?page_id=12291"
+  - "/12291"
+tiki_page_id: 12291
 date: 2021-02-02
 categories:
   - "Dental"

@@ -3,7 +3,8 @@ title: "Lower Vitamin D if less food from the sea (Greenland in this case)"
 slug: "lower-vitamin-d-if-less-food-from-the-sea-greenland-in-this-case"
 aliases:
   - "/Lower+Vitamin+D+if+less+food+from+the+sea+Greenland+in+this+case+–+Oct+2019"
-  - "/tiki-index.php?page_id=11195"
+  - "/11195"
+tiki_page_id: 11195
 date: 2019-10-03
 categories:
   - "Food sources for Vitamin D"

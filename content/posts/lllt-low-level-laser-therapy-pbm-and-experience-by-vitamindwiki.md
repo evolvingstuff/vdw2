@@ -3,7 +3,8 @@ title: "LLLT,  Low Level Laser Therapy, PBM and experience by VitaminDWiki"
 slug: "lllt-low-level-laser-therapy-pbm-and-experience-by-vitamindwiki"
 aliases:
   - "/LLLT+Low+Level+Laser+Therapy+PBM+and+experience+by+VitaminDWiki"
-  - "/tiki-index.php?page_id=11666"
+  - "/11666"
+tiki_page_id: 11666
 date: 2020-03-07
 categories:
   - "Off Topic"

@@ -3,7 +3,8 @@ title: "Admission to COVID-19 ICU 1.7X more likely to have less than 20 ng of vi
 slug: "admission-to-covid-19-icu-17x-more-likely-to-have-less-than-20-ng-of-vitamin-d"
 aliases:
   - "/Admission+to+COVID-19+ICU+17X+more+likely+to+have+less+than+20+ng+of+vitamin+D+–+Sept+2020"
-  - "/tiki-index.php?page_id=11959"
+  - "/11959"
+tiki_page_id: 11959
 date: 2020-09-17
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Osteoporosis has no symptoms until a bone breaks"
 slug: "osteoporosis-has-no-symptoms-until-a-bone-breaks"
 aliases:
   - "/Osteoporosis+has+no+symptoms+until+a+bone+breaks"
-  - "/tiki-index.php?page_id=10762"
+  - "/10762"
+tiki_page_id: 10762
 date: 2019-05-12
 categories:
   - "Bone - Health"

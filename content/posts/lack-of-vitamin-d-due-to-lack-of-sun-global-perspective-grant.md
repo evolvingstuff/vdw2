@@ -3,7 +3,8 @@ title: "Lack of Vitamin D due to lack of Sun, global perspective - Grant"
 slug: "lack-of-vitamin-d-due-to-lack-of-sun-global-perspective-grant"
 aliases:
   - "/Lack+of+Vitamin+D+due+to+lack+of+Sun+global+perspective+-+Grant+Jan+2024"
-  - "/tiki-index.php?page_id=14959"
+  - "/14959"
+tiki_page_id: 14959
 date: 2024-01-10
 categories:
   - "Noontime sun and D"

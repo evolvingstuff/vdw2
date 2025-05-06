@@ -3,7 +3,8 @@ title: "Bariatric Surgery and Vitamin D - many studies"
 slug: "bariatric-surgery-and-vitamin-d-many-studies"
 aliases:
   - "/Bariatric+Surgery+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14404"
+  - "/14404"
+tiki_page_id: 14404
 date: 2023-04-30
 categories:
   - "Obesity"

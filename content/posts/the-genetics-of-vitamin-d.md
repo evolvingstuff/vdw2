@@ -3,7 +3,8 @@ title: "The genetics of vitamin D"
 slug: "the-genetics-of-vitamin-d"
 aliases:
   - "/The+genetics+of+vitamin+D+–+Oct+2018"
-  - "/tiki-index.php?page_id=11591"
+  - "/11591"
+tiki_page_id: 11591
 date: 2020-01-25
 categories:
   - "Genetics"

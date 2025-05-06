@@ -3,7 +3,8 @@ title: "Long duration Hormone Deficiency therapy can result in dental problems, 
 slug: "long-duration-hormone-deficiency-therapy-can-result-in-dental-problems-need-more-low-vitamin-d"
 aliases:
   - "/Long+duration+Hormone+Deficiency+therapy+can+result+in+dental+problems+need+more+low+vitamin+D+–+Jan+2019"
-  - "/tiki-index.php?page_id=10460"
+  - "/10460"
+tiki_page_id: 10460
 date: 2019-02-03
 categories:
   - "Dental"

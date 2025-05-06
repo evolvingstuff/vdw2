@@ -3,7 +3,8 @@ title: "Far fewer COVID-19 deaths in the summer (Europe, Canada)"
 slug: "far-fewer-covid-19-deaths-in-the-summer-europe-canada"
 aliases:
   - "/Far+fewer+COVID-19+deaths+in+the+summer+Europe+Canada"
-  - "/tiki-index.php?page_id=11912"
+  - "/11912"
+tiki_page_id: 11912
 date: 2020-08-20
 categories:
   - "UV and Vitamin D"

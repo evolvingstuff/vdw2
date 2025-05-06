@@ -3,7 +3,8 @@ title: "More postpartum infections if low vitamin D (in winter)"
 slug: "more-postpartum-infections-if-low-vitamin-d-in-winter"
 aliases:
   - "/More+postpartum+infections+if+low+vitamin+D+in+winter+-+Dec+2019"
-  - "/tiki-index.php?page_id=11477"
+  - "/11477"
+tiki_page_id: 11477
 date: 2019-12-19
 categories:
   - "Pregnancy"

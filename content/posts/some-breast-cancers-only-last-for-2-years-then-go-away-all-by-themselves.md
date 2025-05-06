@@ -3,7 +3,8 @@ title: "Some Breast Cancers only last for 2 years, then go away all by themselve
 slug: "some-breast-cancers-only-last-for-2-years-then-go-away-all-by-themselves"
 aliases:
   - "/Some+Breast+Cancers+only+last+for+2+years+then+go+away+all+by+themselves+-+Jan+2019"
-  - "/tiki-index.php?page_id=10388"
+  - "/10388"
+tiki_page_id: 10388
 date: 2019-01-09
 categories:
   - "Cancer - Breast"

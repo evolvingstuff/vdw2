@@ -3,7 +3,8 @@ title: "Allergic rhinitis sublingual therapy was 22X more successful if good lev
 slug: "allergic-rhinitis-sublingual-therapy-was-22x-more-successful-if-good-level-of-vitamin-d"
 aliases:
   - "/Allergic+rhinitis+sublingual+therapy+was+22X+more+successful+if+good+level+of+Vitamin+D+–+Feb+2023"
-  - "/tiki-index.php?page_id=14307"
+  - "/14307"
+tiki_page_id: 14307
 date: 2023-03-14
 categories:
   - "Interactions with Vitamin D"

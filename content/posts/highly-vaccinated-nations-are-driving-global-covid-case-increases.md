@@ -3,7 +3,8 @@ title: "Highly Vaccinated Nations Are Driving Global COVID Case Increases"
 slug: "highly-vaccinated-nations-are-driving-global-covid-case-increases"
 aliases:
   - "/Highly+Vaccinated+Nations+Are+Driving+Global+COVID+Case+Increases+-+March+14+2022"
-  - "/tiki-index.php?page_id=13416"
+  - "/13416"
+tiki_page_id: 13416
 date: 2022-03-19
 categories:
   - "Virus"

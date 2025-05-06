@@ -3,7 +3,8 @@ title: "Investigation of segregated patient groups may be more effective than cl
 slug: "investigation-of-segregated-patient-groups-may-be-more-effective-than-classical--d-rcts-carlberg"
 aliases:
   - "/Investigation+of+segregated+patient+groups+may+be+more+effective+than+classical+vitamin+D+RCTs+-+Carlberg+July+2023"
-  - "/tiki-index.php?page_id=14605"
+  - "/14605"
+tiki_page_id: 14605
 date: 2023-08-12
 ---
 

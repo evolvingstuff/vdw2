@@ -3,7 +3,8 @@ title: "Vitiligo (spotty skin) and Vitamin D, UVB - many studies"
 slug: "vitiligo-spotty-skin-and-vitamin-d-uvb-many-studies"
 aliases:
   - "/Vitiligo+spotty+skin+and+Vitamin+D+UVB+-+many+studies"
-  - "/tiki-index.php?page_id=14818"
+  - "/14818"
+tiki_page_id: 14818
 date: 2023-11-11
 categories:
   - "Skin"

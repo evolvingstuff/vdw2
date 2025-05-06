@@ -3,7 +3,8 @@ title: "The INSANE BENEFITS of Vitamin D and How To Get It SAFELY - video and tr
 slug: "the-insane-benefits-of-vitamin-d-and-how-to-get-it-safely-video-and-transcript"
 aliases:
   - "/The+INSANE+BENEFITS+of+Vitamin+D+and+How+To+Get+It+SAFELY+-+video+and+transcript+July+2023"
-  - "/tiki-index.php?page_id=14564"
+  - "/14564"
+tiki_page_id: 14564
 date: 2023-07-28
 categories:
   - "Books, videos on Vitamin D"

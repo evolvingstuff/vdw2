@@ -3,7 +3,8 @@ title: "Vitamin D levels in teens restored with 150,000 IU monthly for 3 months 
 slug: "vitamin-d-levels-in-teens-restored-with-150000-iu-monthly-for-3-months-mean-33-ng"
 aliases:
   - "/Vitamin+D+levels+in+teens+restored+with+150000+IU+monthly+for+3+months+mean+33+ng+–+Oct+2021"
-  - "/tiki-index.php?page_id=13031"
+  - "/13031"
+tiki_page_id: 13031
 date: 2021-10-29
 categories:
   - "Youth"

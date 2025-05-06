@@ -3,7 +3,8 @@ title: "Severe fatigue and headache in 4 pct of vaccinated, age 16-25"
 slug: "severe-fatigue-and-headache-in-4-pct-of-vaccinated-age-16-25"
 aliases:
   - "/Severe+fatigue+and+headache+in+4+pct+of+vaccinated+age+16-25+-+Oct+2021"
-  - "/tiki-index.php?page_id=13022"
+  - "/13022"
+tiki_page_id: 13022
 date: 2021-10-27
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Is Vitamin D an antioxidant – more studies needed"
 slug: "is-vitamin-d-an-antioxidant-more-studies-needed"
 aliases:
   - "/Is+Vitamin+D+an+antioxidant+–+more+studies+needed+–+Oct+2018"
-  - "/tiki-index.php?page_id=10135"
+  - "/10135"
+tiki_page_id: 10135
 date: 2018-10-18
 categories:
   - "Inflammation"

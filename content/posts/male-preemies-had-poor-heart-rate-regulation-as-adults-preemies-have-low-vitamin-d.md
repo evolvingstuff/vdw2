@@ -3,7 +3,8 @@ title: "Male preemies had poor heart rate regulation as adults (preemies have lo
 slug: "male-preemies-had-poor-heart-rate-regulation-as-adults-preemies-have-low-vitamin-d"
 aliases:
   - "/Male+preemies+had+poor+heart+rate+regulation+as+adults+preemies+have+low+vitamin+D+–+Dec+2023"
-  - "/tiki-index.php?page_id=14921"
+  - "/14921"
+tiki_page_id: 14921
 date: 2023-12-25
 categories:
   - "Pregnancy"

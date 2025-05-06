@@ -3,7 +3,8 @@ title: "Melatonin and Vitamin D - many studies"
 slug: "melatonin-and-vitamin-d-many-studies"
 aliases:
   - "/Melatonin+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=13806"
+  - "/13806"
+tiki_page_id: 13806
 date: 2022-07-31
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Urgency Urinary Incontinence in senior black women decreased 40 percent 
 slug: "urgency-urinary-incontinence-in-senior-black-women-decreased-40-percent-by-weekl-u-vitamin-d-rct"
 aliases:
   - "/Urgency+Urinary+Incontinence+in+senior+black+women+decreased+40+percent+by+weekly+50000+IU+vitamin+D+–+RCT+Dec+2018"
-  - "/tiki-index.php?page_id=10335"
+  - "/10335"
+tiki_page_id: 10335
 date: 2018-12-25
 categories:
   - "Skin - Dark"

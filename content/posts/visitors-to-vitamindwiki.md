@@ -3,7 +3,8 @@ title: "Visitors to VitaminDWiki"
 slug: "visitors-to-vitamindwiki"
 aliases:
   - "/Visitors+to+VitaminDWiki+-+Nov+2018"
-  - "/tiki-index.php?page_id=10269"
+  - "/10269"
+tiki_page_id: 10269
 date: 2018-12-05
 ---
 

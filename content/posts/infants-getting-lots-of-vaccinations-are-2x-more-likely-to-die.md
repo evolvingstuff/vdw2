@@ -3,7 +3,8 @@ title: "Infants getting lots of vaccinations are 2X more likely to die"
 slug: "infants-getting-lots-of-vaccinations-are-2x-more-likely-to-die"
 aliases:
   - "/Infants+getting+lots+of+vaccinations+are+2X+more+likely+to+die+-+July+2023"
-  - "/tiki-index.php?page_id=14586"
+  - "/14586"
+tiki_page_id: 14586
 date: 2023-08-04
 categories:
   - "Infant-Child"

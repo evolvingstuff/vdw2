@@ -3,7 +3,8 @@ title: "“Black Patients Matter”: US Blacks 2X more likely to die of COVID-19
 slug: "black-patients-matter-us-blacks-2x-more-likely-to-die-of-covid-19-than-whites"
 aliases:
   - "/Black+Patients+Matter+US+Blacks+2X+more+likely+to+die+of+COVID-19+than+whites+–+Sept+29+2021"
-  - "/tiki-index.php?page_id=12940"
+  - "/12940"
+tiki_page_id: 12940
 date: 2021-09-29
 categories:
   - "Skin - Dark"

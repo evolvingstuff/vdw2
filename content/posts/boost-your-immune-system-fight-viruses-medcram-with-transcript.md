@@ -3,7 +3,8 @@ title: "Boost Your Immune System, Fight Viruses - Medcram with transcript"
 slug: "boost-your-immune-system-fight-viruses-medcram-with-transcript"
 aliases:
   - "/Boost+Your+Immune+System+Fight+Viruses+-+Medcram+with+transcript+-+Oct+29+2021"
-  - "/tiki-index.php?page_id=13193"
+  - "/13193"
+tiki_page_id: 13193
 date: 2021-12-15
 categories:
   - "Books, videos on Vitamin D"

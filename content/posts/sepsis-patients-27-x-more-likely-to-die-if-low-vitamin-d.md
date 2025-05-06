@@ -3,7 +3,8 @@ title: "Sepsis patients 2.7 X more likely to die if low Vitamin D"
 slug: "sepsis-patients-27-x-more-likely-to-die-if-low-vitamin-d"
 aliases:
   - "/Sepsis+patients+27+X+more+likely+to+die+if+low+Vitamin+D+–+Aug+2022"
-  - "/tiki-index.php?page_id=13837"
+  - "/13837"
+tiki_page_id: 13837
 date: 2022-08-11
 categories:
   - "Trauma and surgery"

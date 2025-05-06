@@ -3,7 +3,8 @@ title: "High PTH plus low Vitamin D is not good (5X more likely for COPD to need
 slug: "high-pth-plus-low-vitamin-d-is-not-good-5x-more-likely-for-copd-to-need-hospital"
 aliases:
   - "/High+PTH+plus+low+Vitamin+D+is+not+good+5X+more+likely+for+COPD+to+need+hospital+–+April+2021"
-  - "/tiki-index.php?page_id=12536"
+  - "/12536"
+tiki_page_id: 12536
 date: 2021-04-25
 ---
 

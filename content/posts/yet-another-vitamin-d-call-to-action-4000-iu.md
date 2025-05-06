@@ -3,7 +3,8 @@ title: "Yet another Vitamin D call-to-action (4000 IU)"
 slug: "yet-another-vitamin-d-call-to-action-4000-iu"
 aliases:
   - "/Yet+another+Vitamin+D+call-to-action+4000+IU+-+Feb+2022"
-  - "/tiki-index.php?page_id=13354"
+  - "/13354"
+tiki_page_id: 13354
 date: 2022-02-27
 ---
 

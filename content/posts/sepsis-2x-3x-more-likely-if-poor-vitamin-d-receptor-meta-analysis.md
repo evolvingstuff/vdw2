@@ -3,7 +3,8 @@ title: "Sepsis 2X-3X more likely if poor Vitamin D Receptor – meta-analysis"
 slug: "sepsis-2x-3x-more-likely-if-poor-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Sepsis+2X-3X+more+likely+if+poor+Vitamin+D+Receptor+–+meta-analysis+Sept+2023"
-  - "/tiki-index.php?page_id=14707"
+  - "/14707"
+tiki_page_id: 14707
 date: 2023-09-27
 categories:
   - "Trauma and surgery"

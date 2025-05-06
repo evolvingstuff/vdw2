@@ -3,7 +3,8 @@ title: "50,000 IU capsules of Vitamin D can be obtained everywhere"
 slug: "50000-iu-capsules-of-vitamin-d-can-be-obtained-everywhere"
 aliases:
   - "/50000+IU+capsules+of+Vitamin+D+can+be+obtained+everywhere+-+Jan+2022"
-  - "/tiki-index.php?page_id=13287"
+  - "/13287"
+tiki_page_id: 13287
 date: 2022-01-26
 categories:
   - "About D - introduction"

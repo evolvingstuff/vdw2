@@ -3,7 +3,8 @@ title: "Vitamin D associated with 60 percent better assisted reproduction succes
 slug: "vitamin-d-associated-with-60-percent-better-assisted-reproduction-success"
 aliases:
   - "/Vitamin+D+associated+with+60+percent+better+assisted+reproduction+success+–+Dec+2019"
-  - "/tiki-index.php?page_id=11175"
+  - "/11175"
+tiki_page_id: 11175
 date: 2019-09-27
 categories:
   - "Fertility and sperm"

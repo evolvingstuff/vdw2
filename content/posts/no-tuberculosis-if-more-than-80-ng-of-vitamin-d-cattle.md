@@ -3,7 +3,8 @@ title: "No tuberculosis if more than 80 ng of vitamin D (cattle)"
 slug: "no-tuberculosis-if-more-than-80-ng-of-vitamin-d-cattle"
 aliases:
   - "/No+tuberculosis+if+more+than+80+ng+of+vitamin+D+cattle+-+Jan+2022"
-  - "/tiki-index.php?page_id=13261"
+  - "/13261"
+tiki_page_id: 13261
 date: 2022-01-16
 categories:
   - "Veterinary and Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D and COVID - Davies, Benskin (Dark Horse video with transcript)
 slug: "vitamin-d-and-covid-davies-benskin-dark-horse-video-with-transcript"
 aliases:
   - "/Vitamin+D+and+COVID+-+Davies+Benskin+Dark+Horse+video+with+transcript+-+Dec+27+2021"
-  - "/tiki-index.php?page_id=13225"
+  - "/13225"
+tiki_page_id: 13225
 date: 2021-12-28
 categories:
   - "Books, videos on Vitamin D"

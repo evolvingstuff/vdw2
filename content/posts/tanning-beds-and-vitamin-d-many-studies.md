@@ -3,7 +3,8 @@ title: "Tanning beds and Vitamin D - many studies"
 slug: "tanning-beds-and-vitamin-d-many-studies"
 aliases:
   - "/Tanning+beds+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=15223"
+  - "/15223"
+tiki_page_id: 15223
 date: 2024-04-19
 categories:
   - "Noontime sun and D"

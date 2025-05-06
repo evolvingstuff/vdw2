@@ -3,7 +3,8 @@ title: "Psoriasis risk in Caucasians is 1.3 X higher if poor Vitamin D Receptor 
 slug: "psoriasis-risk-in-caucasians-is-13-x-higher-if-poor-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Psoriasis+risk+in+Caucasians+is+13+X+higher+if+poor+Vitamin+D+Receptor+–+meta-analysis+Nov+2018"
-  - "/tiki-index.php?page_id=10241"
+  - "/10241"
+tiki_page_id: 10241
 date: 2018-11-27
 categories:
   - "Psoriasis"

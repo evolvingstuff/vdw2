@@ -3,7 +3,8 @@ title: "Parkinson's disease prevented by Vitamin D, but small doses do not treat
 slug: "parkinsons-disease-prevented-by-vitamin-d-but-small-doses-do-not-treat-it"
 aliases:
   - "/Parkinsons+disease+prevented+by+Vitamin+D+but+small+doses+do+not+treat+it+-+Aug+2023"
-  - "/tiki-index.php?page_id=14598"
+  - "/14598"
+tiki_page_id: 14598
 date: 2023-08-09
 categories:
   - "Parkinson"

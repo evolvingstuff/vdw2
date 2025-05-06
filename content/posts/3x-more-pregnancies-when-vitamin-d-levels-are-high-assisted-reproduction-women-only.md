@@ -3,7 +3,8 @@ title: "3X more pregnancies when Vitamin D levels are high (assisted reproductio
 slug: "3x-more-pregnancies-when-vitamin-d-levels-are-high-assisted-reproduction-women-only"
 aliases:
   - "/3X+more+pregnancies+when+Vitamin+D+levels+are+high+assisted+reproduction+women+only+–+Oct+2021"
-  - "/tiki-index.php?page_id=13196"
+  - "/13196"
+tiki_page_id: 13196
 date: 2021-12-17
 categories:
   - "Fertility and sperm"

@@ -3,7 +3,8 @@ title: "Regional Excess Deaths strongly associated with COVID vaccination rate (
 slug: "regional-excess-deaths-strongly-associated-with-covid-vaccination-rate-uk"
 aliases:
   - "/Regional+Excess+Deaths+strongly+associated+with+COVID+vaccination+rate+UK+–+Sept+2022"
-  - "/tiki-index.php?page_id=13897"
+  - "/13897"
+tiki_page_id: 13897
 date: 2022-09-08
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Bone fractures of children not reduced if given little vitamin D, no Cal
 slug: "bone-fractures-of-children-not-reduced-if-given-little-vitamin-d-no-calcium-etc-rct"
 aliases:
   - "/Bone+fractures+of+children+not+reduced+if+given+little+vitamin+D+no+Calcium+etc+–+RCT+May+2023"
-  - "/tiki-index.php?page_id=14476"
+  - "/14476"
+tiki_page_id: 14476
 date: 2023-06-09
 categories:
   - "Bone - Health"

@@ -3,7 +3,8 @@ title: "Sunlight – a hero, then a villain, now a hero again"
 slug: "sunlight-a-hero-then-a-villain-now-a-hero-again"
 aliases:
   - "/Sunlight+–+a+hero+then+a+villain+now+a+hero+again+–+July+2019"
-  - "/tiki-index.php?page_id=11387"
+  - "/11387"
+tiki_page_id: 11387
 date: 2019-11-24
 ---
 

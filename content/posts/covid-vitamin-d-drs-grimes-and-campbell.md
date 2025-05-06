@@ -3,7 +3,8 @@ title: "COVID, Vitamin D, Drs. Grimes and Campbell"
 slug: "covid-vitamin-d-drs-grimes-and-campbell"
 aliases:
   - "/COVID+Vitamin+D+Drs+Grimes+and+Campbell+-+Jan+2024"
-  - "/tiki-index.php?page_id=14972"
+  - "/14972"
+tiki_page_id: 14972
 date: 2024-01-15
 categories:
   - "Books, videos on Vitamin D"

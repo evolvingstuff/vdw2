@@ -3,7 +3,8 @@ title: "Smoke Inflammation reduced by vitamin D (COPD in lab)"
 slug: "smoke-inflammation-reduced-by-vitamin-d-copd-in-lab"
 aliases:
   - "/Smoke+Inflammation+reduced+by+vitamin+D+COPD+in+lab+–+Sept+2019"
-  - "/tiki-index.php?page_id=11128"
+  - "/11128"
+tiki_page_id: 11128
 date: 2019-09-06
 categories:
   - "Inflammation"

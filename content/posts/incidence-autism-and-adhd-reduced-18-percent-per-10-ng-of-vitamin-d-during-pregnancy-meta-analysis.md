@@ -3,7 +3,8 @@ title: "Incidence Autism and ADHD reduced 18 percent per 10 ng of Vitamin D duri
 slug: "incidence-autism-and-adhd-reduced-18-percent-per-10-ng-of-vitamin-d-during-pregnancy-meta-analysis"
 aliases:
   - "/Incidence+Autism+and+ADHD+reduced+18+percent+per+10+ng+of+Vitamin+D+during+pregnancy+–+meta-analysis+Jan+2022"
-  - "/tiki-index.php?page_id=14131"
+  - "/14131"
+tiki_page_id: 14131
 date: 2022-12-05
 categories:
   - "Autism"

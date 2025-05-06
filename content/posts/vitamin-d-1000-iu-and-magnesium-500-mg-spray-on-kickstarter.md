@@ -3,7 +3,8 @@ title: "Vitamin D (1000 IU) and Magnesium (500 mg) spray on Kickstarter"
 slug: "vitamin-d-1000-iu-and-magnesium-500-mg-spray-on-kickstarter"
 aliases:
   - "/Vitamin+D+1000+IU+and+Magnesium+500+mg+spray+on+Kickstarter+-+Nov+2018"
-  - "/tiki-index.php?page_id=10179"
+  - "/10179"
+tiki_page_id: 10179
 date: 2018-11-02
 categories:
   - "Forms of Vitamin D"

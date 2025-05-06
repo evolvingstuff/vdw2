@@ -3,7 +3,8 @@ title: "Respiratory viral infection (RSV) and low vitamin D - many studies"
 slug: "respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies"
 aliases:
   - "/Respiratory+viral+infection+RSV+and+low+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=11825"
+  - "/11825"
+tiki_page_id: 11825
 date: 2020-07-03
 categories:
   - "Deficiency of Vitamin D"

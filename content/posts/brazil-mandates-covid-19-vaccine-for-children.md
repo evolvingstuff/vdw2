@@ -3,7 +3,8 @@ title: "Brazil mandates COVID-19 vaccine for children"
 slug: "brazil-mandates-covid-19-vaccine-for-children"
 aliases:
   - "/Brazil+mandates+COVID-19+vaccine+for+children+-+Nov+2023"
-  - "/tiki-index.php?page_id=14814"
+  - "/14814"
+tiki_page_id: 14814
 date: 2023-11-10
 categories:
   - "Infant-Child"

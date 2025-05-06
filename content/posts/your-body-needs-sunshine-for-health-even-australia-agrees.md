@@ -3,7 +3,8 @@ title: "Your body needs sunshine for health - even Australia agrees"
 slug: "your-body-needs-sunshine-for-health-even-australia-agrees"
 aliases:
   - "/Your+body+needs+sunshine+for+health+-+even+Australia+agrees"
-  - "/tiki-index.php?page_id=15201"
+  - "/15201"
+tiki_page_id: 15201
 date: 2024-04-09
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "COVID-19 death increased 2X if low Vitamin D (less than 10 to less than 
 slug: "covid-19-death-increased-2x-if-low-vitamin-d-less-than-10-to-less-than-30-ng-21st-meta-analysis"
 aliases:
   - "/COVID-19+death+increased+2X+if+low+Vitamin+D+less+than+10+to+less+than+30+ng+–+21st+meta-analysis+Dec+2021"
-  - "/tiki-index.php?page_id=13189"
+  - "/13189"
+tiki_page_id: 13189
 date: 2021-12-14
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "Asthmatics less able to breathe if low vitamin D – meta-analysis"
 slug: "asthmatics-less-able-to-breathe-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Asthmatics+less+able+to+breathe+if+low+vitamin+D+–+meta-analysis+Nov+2019"
-  - "/tiki-index.php?page_id=11348"
+  - "/11348"
+tiki_page_id: 11348
 date: 2019-11-14
 categories:
   - "Breathing"

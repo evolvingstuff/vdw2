@@ -3,7 +3,8 @@ title: "Schizophrenia 44 percent more likely if low vitamin D at birth (8 ng)"
 slug: "schizophrenia-44-percent-more-likely-if-low-vitamin-d-at-birth-8-ng"
 aliases:
   - "/Schizophrenia+44+percent+more+likely+if+low+vitamin+D+at+birth+8+ng+–+Dec+2018"
-  - "/tiki-index.php?page_id=10273"
+  - "/10273"
+tiki_page_id: 10273
 date: 2018-12-06
 categories:
   - "Cognitive"

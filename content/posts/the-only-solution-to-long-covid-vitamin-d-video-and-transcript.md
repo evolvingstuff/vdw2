@@ -3,7 +3,8 @@ title: "The ONLY Solution to Long COVID (Vitamin D) - video and transcript"
 slug: "the-only-solution-to-long-covid-vitamin-d-video-and-transcript"
 aliases:
   - "/The+ONLY+Solution+to+Long+COVID+Vitamin+D+-+video+and+transcript+Sept+2023"
-  - "/tiki-index.php?page_id=14678"
+  - "/14678"
+tiki_page_id: 14678
 date: 2023-09-12
 categories:
   - "Virus"

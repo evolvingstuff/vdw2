@@ -3,7 +3,8 @@ title: "COVID-19 leaves its mark on the brain, dropping in IQs"
 slug: "covid-19-leaves-its-mark-on-the-brain-dropping-in-iqs"
 aliases:
   - "/COVID-19+leaves+its+mark+on+the+brain+dropping+in+IQs+-+March+2024"
-  - "/tiki-index.php?page_id=15153"
+  - "/15153"
+tiki_page_id: 15153
 date: 2024-03-19
 categories:
   - "Cognitive"

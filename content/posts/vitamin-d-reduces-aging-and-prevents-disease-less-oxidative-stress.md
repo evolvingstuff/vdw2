@@ -3,7 +3,8 @@ title: "Vitamin D reduces aging and prevents disease (less oxidative stress)"
 slug: "vitamin-d-reduces-aging-and-prevents-disease-less-oxidative-stress"
 aliases:
   - "/Vitamin+D+reduces+aging+and+prevents+disease+less+oxidative+stress+-+Dec+2022"
-  - "/tiki-index.php?page_id=14134"
+  - "/14134"
+tiki_page_id: 14134
 date: 2022-12-06
 ---
 

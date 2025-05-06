@@ -3,7 +3,8 @@ title: "Warning signs that you have a Vitamin D Deficiency - videos"
 slug: "warning-signs-that-you-have-a-vitamin-d-deficiency-videos"
 aliases:
   - "/Warning+signs+that+you+have+a+Vitamin+D+Deficiency+-+videos+Nov+2019"
-  - "/tiki-index.php?page_id=11443"
+  - "/11443"
+tiki_page_id: 11443
 date: 2019-12-10
 categories:
   - "Deficiency of Vitamin D"

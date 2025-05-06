@@ -3,7 +3,8 @@ title: "Test Vitamin D, get a tiny dose, no benefit, conclusion: should not have
 slug: "test-vitamin-d-get-a-tiny-dose-no-benefit-conclusion-should-not-have-tested-australia-this-time"
 aliases:
   - "/Test+Vitamin+D+get+a+tiny+dose+no+benefit+conclusion+should+not+have+tested+Australia+this+time+–+Aug+2022"
-  - "/tiki-index.php?page_id=13856"
+  - "/13856"
+tiki_page_id: 13856
 date: 2022-08-23
 categories:
   - "Tests for Vitamin D"

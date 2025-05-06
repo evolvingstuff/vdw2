@@ -3,7 +3,8 @@ title: "Following Digestive Cancer 2,000 IU of Vitamin D were given. Those whose
 slug: "following-digestive-cancer-2000-iu-of-vitamin-d-were-given-those-whose-omega-3-l-er-problems-rct"
 aliases:
   - "/Following+Digestive+Cancer+2000+IU+of+Vitamin+D+were+given+Those+whose+Omega-3+levels+rose+had+fewer+Cancer+problems+–+RCT+March+2024"
-  - "/tiki-index.php?page_id=15172"
+  - "/15172"
+tiki_page_id: 15172
 date: 2024-03-25
 categories:
   - "Cancer - after diagnosis"

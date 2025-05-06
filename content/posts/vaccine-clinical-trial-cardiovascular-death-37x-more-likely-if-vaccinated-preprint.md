@@ -3,7 +3,8 @@ title: "Vaccine Clinical Trial - cardiovascular death 3.7X more likely if vaccin
 slug: "vaccine-clinical-trial-cardiovascular-death-37x-more-likely-if-vaccinated-preprint"
 aliases:
   - "/Vaccine+Clinical+Trial+-+cardiovascular+death+37X+more+likely+if+vaccinated+-+preprint+Sept+2023"
-  - "/tiki-index.php?page_id=14665"
+  - "/14665"
+tiki_page_id: 14665
 date: 2023-09-06
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "COVID vaccines are highly effective in reducing non-COVID deaths in olde
 slug: "covid-vaccines-are-highly-effective-in-reducing-non-covid-deaths-in-older-australians-not"
 aliases:
   - "/COVID+vaccines+are+highly+effective+in+reducing+non-COVID+deaths+in+older+Australians+not+-+Nov+2023"
-  - "/tiki-index.php?page_id=14837"
+  - "/14837"
+tiki_page_id: 14837
 date: 2023-11-23
 categories:
   - "Vitamin D in Australia and New Zealand"

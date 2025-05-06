@@ -3,7 +3,8 @@ title: "Depression after childbirth 5 X less likely if good Omega-3 index"
 slug: "depression-after-childbirth-5-x-less-likely-if-good-omega-3-index"
 aliases:
   - "/Depression+after+childbirth+5+X+less+likely+if+good+Omega-3+index+–+April+2019"
-  - "/tiki-index.php?page_id=11041"
+  - "/11041"
+tiki_page_id: 11041
 date: 2019-08-03
 categories:
   - "Pregnancy"

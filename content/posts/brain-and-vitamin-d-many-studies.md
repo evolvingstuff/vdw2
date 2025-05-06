@@ -3,7 +3,8 @@ title: "Brain and Vitamin D - many studies"
 slug: "brain-and-vitamin-d-many-studies"
 aliases:
   - "/Brain+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14019"
+  - "/14019"
+tiki_page_id: 14019
 date: 2022-10-18
 categories:
   - "Multiple Sclerosis"

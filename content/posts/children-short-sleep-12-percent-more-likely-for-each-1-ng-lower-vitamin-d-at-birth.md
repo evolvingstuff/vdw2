@@ -3,7 +3,8 @@ title: "Children short sleep 12 percent more likely for each 1 ng lower vitamin 
 slug: "children-short-sleep-12-percent-more-likely-for-each-1-ng-lower-vitamin-d-at-birth"
 aliases:
   - "/Children+short+sleep+12+percent+more+likely+for+each+1+ng+lower+vitamin+D+at+birth+–+Oct+2018"
-  - "/tiki-index.php?page_id=10121"
+  - "/10121"
+tiki_page_id: 10121
 date: 2018-10-15
 categories:
   - "Sleep"

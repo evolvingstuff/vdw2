@@ -3,7 +3,8 @@ title: "Vitamin D associated with Parkinson’s Disease in 55 studies, more stud
 slug: "vitamin-d-associated-with-parkinsons-disease-in-55-studies-more-studies-needed"
 aliases:
   - "/Vitamin+D+associated+with+Parkinsons+Disease+in+55+studies+more+studies+needed-+March+2022"
-  - "/tiki-index.php?page_id=13433"
+  - "/13433"
+tiki_page_id: 13433
 date: 2022-03-26
 categories:
   - "Parkinson"

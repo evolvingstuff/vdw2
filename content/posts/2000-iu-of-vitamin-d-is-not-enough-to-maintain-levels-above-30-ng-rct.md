@@ -3,7 +3,8 @@ title: "2,000 IU of Vitamin D is not enough to maintain levels above 30 ng – R
 slug: "2000-iu-of-vitamin-d-is-not-enough-to-maintain-levels-above-30-ng-rct"
 aliases:
   - "/2000+IU+of+Vitamin+D+is+not+enough+to+maintain+levels+above+30+ng+–+RCT+Aug+2018"
-  - "/tiki-index.php?page_id=10056"
+  - "/10056"
+tiki_page_id: 10056
 date: 2018-09-22
 categories:
   - "How much Vitamin D"

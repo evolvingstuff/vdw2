@@ -3,7 +3,8 @@ title: "Sexual disfunction treated by 300,000 IU of Vitamin D – RCT"
 slug: "sexual-disfunction-treated-by-300000-iu-of-vitamin-d-rct"
 aliases:
   - "/Sexual+disfunction+treated+by+300000+IU+of+Vitamin+D+–+RCT+Nov+2018"
-  - "/tiki-index.php?page_id=10363"
+  - "/10363"
+tiki_page_id: 10363
 date: 2019-01-01
 categories:
   - "Fertility and sperm"

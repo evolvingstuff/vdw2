@@ -3,7 +3,8 @@ title: "Daily, monthly Vitamin D had similar great benefits, more than 6 months 
 slug: "daily-monthly-vitamin-d-had-similar-great-benefits-more-than-6-months-needed-rct"
 aliases:
   - "/Daily+monthly+Vitamin+D+had+similar+great+benefits+more+than+6+months+needed+–+RCT+Dec+2018"
-  - "/tiki-index.php?page_id=10272"
+  - "/10272"
+tiki_page_id: 10272
 date: 2018-12-06
 categories:
   - "Obesity"

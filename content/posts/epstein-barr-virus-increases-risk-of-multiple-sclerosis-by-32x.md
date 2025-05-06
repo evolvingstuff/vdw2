@@ -3,7 +3,8 @@ title: "Epstein-Barr virus increases risk of Multiple Sclerosis by 32X"
 slug: "epstein-barr-virus-increases-risk-of-multiple-sclerosis-by-32x"
 aliases:
   - "/Epstein-Barr+virus+increases+risk+of+Multiple+Sclerosis+by+32X+-+Jan+2022"
-  - "/tiki-index.php?page_id=13256"
+  - "/13256"
+tiki_page_id: 13256
 date: 2022-01-15
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "35 benefits of Vitamin D – Self-Hacked"
 slug: "35-benefits-of-vitamin-d-self-hacked"
 aliases:
   - "/35+benefits+of+Vitamin+D+–+Self-Hacked+June+2019"
-  - "/tiki-index.php?page_id=10889"
+  - "/10889"
+tiki_page_id: 10889
 date: 2019-06-17
 categories:
   - "Health"

@@ -3,7 +3,8 @@ title: "Pascal's wager applied to Vitamin D"
 slug: "pascals-wager-applied-to-vitamin-d"
 aliases:
   - "/Pascals+wager+applied+to+Vitamin+D"
-  - "/tiki-index.php?page_id=11976"
+  - "/11976"
+tiki_page_id: 11976
 date: 2020-09-26
 categories:
   - "Virus"

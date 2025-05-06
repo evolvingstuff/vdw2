@@ -3,7 +3,8 @@ title: "11 Diabetes problems are associated with low Vitamin D – review"
 slug: "11-diabetes-problems-are-associated-with-low-vitamin-d-review"
 aliases:
   - "/11+Diabetes+problems+are+associated+with+low+Vitamin+D+–+review+May+2023"
-  - "/tiki-index.php?page_id=14427"
+  - "/14427"
+tiki_page_id: 14427
 date: 2023-05-16
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "I have a PhD in immunology and this is how I keep my daughter from getti
 slug: "i-have-a-phd-in-immunology-and-this-is-how-i-keep-my-daughter-from-getting-sick-during-the-winter"
 aliases:
   - "/I+have+a+PhD+in+immunology+and+this+is+how+I+keep+my+daughter+from+getting+sick+during+the+winter"
-  - "/tiki-index.php?page_id=11361"
+  - "/11361"
+tiki_page_id: 11361
 date: 2019-11-16
 categories:
   - "Supplement"

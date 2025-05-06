@@ -3,7 +3,8 @@ title: "COVID 3X more likely if a poor Receptor (cells get less Vitamin D from t
 slug: "covid-3x-more-likely-if-a-poor-receptor-cells-get-less-vitamin-d-from-the-blood"
 aliases:
   - "/COVID+3X+more+likely+if+a+poor+Receptor+cells+get+less+Vitamin+D+from+the+blood+–+July+2022"
-  - "/tiki-index.php?page_id=13779"
+  - "/13779"
+tiki_page_id: 13779
 date: 2022-07-21
 categories:
   - "Middle East"

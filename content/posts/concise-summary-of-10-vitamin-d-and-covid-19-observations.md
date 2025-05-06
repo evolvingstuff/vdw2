@@ -3,7 +3,8 @@ title: "Concise summary of 10 Vitamin D and COVID-19 observations"
 slug: "concise-summary-of-10-vitamin-d-and-covid-19-observations"
 aliases:
   - "/Concise+summary+of+10+Vitamin+D+and+COVID-19+observations+-+Oct+27+2020"
-  - "/tiki-index.php?page_id=12028"
+  - "/12028"
+tiki_page_id: 12028
 date: 2020-10-28
 categories:
   - "Virus"

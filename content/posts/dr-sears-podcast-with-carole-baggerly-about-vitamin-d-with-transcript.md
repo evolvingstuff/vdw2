@@ -3,7 +3,8 @@ title: "Dr. Sears podcast with Carole Baggerly about Vitamin D (with transcript)
 slug: "dr-sears-podcast-with-carole-baggerly-about-vitamin-d-with-transcript"
 aliases:
   - "/Dr+Sears+podcast+with+Carole+Baggerly+about+Vitamin+D+with+transcript+-+July+2019"
-  - "/tiki-index.php?page_id=10954"
+  - "/10954"
+tiki_page_id: 10954
 date: 2019-07-04
 categories:
   - "Pregnancy"

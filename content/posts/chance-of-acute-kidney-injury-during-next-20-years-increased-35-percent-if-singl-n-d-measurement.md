@@ -3,7 +3,8 @@ title: "Chance of Acute Kidney Injury during next 20 years increased 35 percent 
 slug: "chance-of-acute-kidney-injury-during-next-20-years-increased-35-percent-if-singl-n-d-measurement"
 aliases:
   - "/Chance+of+Acute+Kidney+Injury+during+next+20+years+increased+35+percent+if+single+low+Vitamin+D+measurement+–+May+2021"
-  - "/tiki-index.php?page_id=12590"
+  - "/12590"
+tiki_page_id: 12590
 date: 2021-05-20
 categories:
   - "Kidney"

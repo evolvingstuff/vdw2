@@ -3,7 +3,8 @@ title: "Diabetes: 1 in 10 people have it, but half do not know it"
 slug: "diabetes-1-in-10-people-have-it-but-half-do-not-know-it"
 aliases:
   - "/Diabetes+1+in+10+people+have+it+but+half+do+not+know+it+–+Nov+2019"
-  - "/tiki-index.php?page_id=13398"
+  - "/13398"
+tiki_page_id: 13398
 date: 2022-03-14
 categories:
   - "Diabetes"

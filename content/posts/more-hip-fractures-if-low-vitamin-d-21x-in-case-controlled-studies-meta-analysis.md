@@ -3,7 +3,8 @@ title: "More hip fractures if low vitamin D (2.1X in case-controlled studies)  â
 slug: "more-hip-fractures-if-low-vitamin-d-21x-in-case-controlled-studies-meta-analysis"
 aliases:
   - "/More+hip+fractures+if+low+vitamin+D+21X+in+case-controlled+studies+â€“+meta-analysis+May+2022"
-  - "/tiki-index.php?page_id=13622"
+  - "/13622"
+tiki_page_id: 13622
 date: 2022-06-01
 categories:
   - "Falls and Fractures"

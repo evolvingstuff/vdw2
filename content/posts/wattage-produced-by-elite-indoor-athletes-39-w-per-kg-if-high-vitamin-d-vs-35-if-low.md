@@ -3,7 +3,8 @@ title: "Wattage produced by Elite indoor athletes: 3.9 W per kg if high Vitamin 
 slug: "wattage-produced-by-elite-indoor-athletes-39-w-per-kg-if-high-vitamin-d-vs-35-if-low"
 aliases:
   - "/Wattage+produced+by+Elite+indoor+athletes+39+W+per+kg+if+high+Vitamin+D+vs+35+if+low+–+Oct+2021"
-  - "/tiki-index.php?page_id=12987"
+  - "/12987"
+tiki_page_id: 12987
 date: 2021-10-14
 categories:
   - "Sports and Vitamin D"

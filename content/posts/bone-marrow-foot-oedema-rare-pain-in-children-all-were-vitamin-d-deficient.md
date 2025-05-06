@@ -3,7 +3,8 @@ title: "Bone marrow foot oedema (rare pain in children, all were Vitamin D defic
 slug: "bone-marrow-foot-oedema-rare-pain-in-children-all-were-vitamin-d-deficient"
 aliases:
   - "/Bone+marrow+foot+oedema+rare+pain+in+children+all+were+Vitamin+D+deficient+–+May+2019"
-  - "/tiki-index.php?page_id=10820"
+  - "/10820"
+tiki_page_id: 10820
 date: 2019-06-02
 categories:
   - "Osteoporosis"

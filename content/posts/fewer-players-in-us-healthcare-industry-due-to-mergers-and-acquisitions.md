@@ -3,7 +3,8 @@ title: "Fewer players in US healthcare industry due to Mergers and Acquisitions"
 slug: "fewer-players-in-us-healthcare-industry-due-to-mergers-and-acquisitions"
 aliases:
   - "/Fewer+players+in+US+healthcare+industry+due+to+Mergers+and+Acquisitions+-+April+2019"
-  - "/tiki-index.php?page_id=10696"
+  - "/10696"
+tiki_page_id: 10696
 date: 2019-04-26
 ---
 

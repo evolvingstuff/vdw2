@@ -3,7 +3,8 @@ title: "4X less likely to get COVID following 4,000 IU daily for a month – RCT
 slug: "4x-less-likely-to-get-covid-following-4000-iu-daily-for-a-month-rct"
 aliases:
   - "/4X+less+likely+to+get+COVID+following+4000+IU+daily+for+a+month+–+RCT+April+2022"
-  - "/tiki-index.php?page_id=13494"
+  - "/13494"
+tiki_page_id: 13494
 date: 2022-04-18
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Covid-19, T cells, and Vitamin D"
 slug: "covid-19-t-cells-and-vitamin-d"
 aliases:
   - "/Covid-19+T+cells+and+Vitamin+D"
-  - "/tiki-index.php?page_id=11840"
+  - "/11840"
+tiki_page_id: 11840
 date: 2020-07-13
 categories:
   - "Immunity"

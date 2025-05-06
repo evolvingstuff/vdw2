@@ -3,7 +3,8 @@ title: "After hip surgery Vitamin D levels dropped by 32 percent"
 slug: "after-hip-surgery-vitamin-d-levels-dropped-by-32-percent"
 aliases:
   - "/After+hip+surgery+Vitamin+D+levels+dropped+by+32+percent+–+Sept+2018"
-  - "/tiki-index.php?page_id=10071"
+  - "/10071"
+tiki_page_id: 10071
 date: 2018-09-26
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "The use of Vitamin D to prevent prostate cancer doubled in a decade"
 slug: "the-use-of-vitamin-d-to-prevent-prostate-cancer-doubled-in-a-decade"
 aliases:
   - "/The+use+of+Vitamin+D+to+prevent+prostate+cancer+doubled+in+a+decade+–+May+2019"
-  - "/tiki-index.php?page_id=10775"
+  - "/10775"
+tiki_page_id: 10775
 date: 2019-05-16
 categories:
   - "Cancer - Prostate"

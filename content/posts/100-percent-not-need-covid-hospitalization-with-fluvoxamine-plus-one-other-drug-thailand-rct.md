@@ -3,7 +3,8 @@ title: "100% not need COVID hospitalization with fluvoxamine plus one other drug
 slug: "100-percent-not-need-covid-hospitalization-with-fluvoxamine-plus-one-other-drug-thailand-rct"
 aliases:
   - "/100+not+need+COVID+hospitalization+with+fluvoxamine+plus+one+other+drug+–+Thailand+RCT+April+2024"
-  - "/tiki-index.php?page_id=15142"
+  - "/15142"
+tiki_page_id: 15142
 date: 2024-03-16
 categories:
   - "Virus"

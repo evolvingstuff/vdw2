@@ -3,7 +3,8 @@ title: "Vitamin D deficiency in Russia – treatment and prevention"
 slug: "vitamin-d-deficiency-in-russia-treatment-and-prevention"
 aliases:
   - "/Vitamin+D+deficiency+in+Russia+–+treatment+and+prevention+–+Sept+2021"
-  - "/tiki-index.php?page_id=12932"
+  - "/12932"
+tiki_page_id: 12932
 date: 2021-09-27
 categories:
   - "Deficiency of Vitamin D"

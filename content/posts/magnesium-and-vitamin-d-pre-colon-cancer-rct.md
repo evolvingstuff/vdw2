@@ -3,7 +3,8 @@ title: "Magnesium and Vitamin D - pre-colon cancer – RCT"
 slug: "magnesium-and-vitamin-d-pre-colon-cancer-rct"
 aliases:
   - "/Magnesium+and+Vitamin+D+-+pre-colon+cancer+–+RCT+Dec+2018"
-  - "/tiki-index.php?page_id=10310"
+  - "/10310"
+tiki_page_id: 10310
 date: 2018-12-12
 categories:
   - "Cancer - Colon"

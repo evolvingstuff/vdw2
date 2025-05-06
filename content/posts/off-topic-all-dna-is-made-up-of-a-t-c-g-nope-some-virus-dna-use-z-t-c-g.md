@@ -3,7 +3,8 @@ title: "Off topic: All DNA is made up of A T C G – nope, some virus DNA use Z 
 slug: "off-topic-all-dna-is-made-up-of-a-t-c-g-nope-some-virus-dna-use-z-t-c-g"
 aliases:
   - "/Off+topic+All+DNA+is+made+up+of+A+T+C+G+–+nope+some+virus+DNA+use+Z+T+C+G+–+July+2021"
-  - "/tiki-index.php?page_id=12769"
+  - "/12769"
+tiki_page_id: 12769
 date: 2021-07-25
 categories:
   - "Off Topic"

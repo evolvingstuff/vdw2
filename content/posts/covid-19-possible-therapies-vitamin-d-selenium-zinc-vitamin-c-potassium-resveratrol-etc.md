@@ -3,7 +3,8 @@ title: "COVID-19 possible therapies: Vitamin D, Selenium, Zinc, Vitamin C, Potas
 slug: "covid-19-possible-therapies-vitamin-d-selenium-zinc-vitamin-c-potassium-resveratrol-etc"
 aliases:
   - "/COVID-19+possible+therapies+Vitamin+D+Selenium+Zinc+Vitamin+C+Potassium+Resveratrol+etc–+Aug+5+2020"
-  - "/tiki-index.php?page_id=11895"
+  - "/11895"
+tiki_page_id: 11895
 date: 2020-08-09
 categories:
   - "Virus"

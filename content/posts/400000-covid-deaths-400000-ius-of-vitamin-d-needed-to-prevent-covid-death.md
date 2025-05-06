@@ -3,7 +3,8 @@ title: "400,000 COVID deaths, 400,000 IUs of Vitamin D needed to prevent COVID d
 slug: "400000-covid-deaths-400000-ius-of-vitamin-d-needed-to-prevent-covid-death"
 aliases:
   - "/400000+COVID+deaths+400000+IUs+of+Vitamin+D+needed+to+prevent+COVID+death+-+Jan+2021"
-  - "/tiki-index.php?page_id=12232"
+  - "/12232"
+tiki_page_id: 12232
 date: 2021-01-17
 categories:
   - "Virus"

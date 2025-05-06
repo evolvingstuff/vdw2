@@ -3,7 +3,8 @@ title: "Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studie
 slug: "epstein-barr-virus-probably-causes-long-covid-cfs-and-ms-many-studies"
 aliases:
   - "/Epstein-Barr+Virus+probably+causes+Long-COVID+CFS+and+MS+-+many+studies"
-  - "/tiki-index.php?page_id=12857"
+  - "/12857"
+tiki_page_id: 12857
 date: 2021-08-26
 categories:
   - "Virus"

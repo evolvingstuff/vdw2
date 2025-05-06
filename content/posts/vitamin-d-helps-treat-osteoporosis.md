@@ -3,7 +3,8 @@ title: "Vitamin D helps treat Osteoporosis"
 slug: "vitamin-d-helps-treat-osteoporosis"
 aliases:
   - "/Vitamin+D+helps+treat+Osteoporosis+–+Sept+2018"
-  - "/tiki-index.php?page_id=10169"
+  - "/10169"
+tiki_page_id: 10169
 date: 2018-10-30
 categories:
   - "Osteoporosis"

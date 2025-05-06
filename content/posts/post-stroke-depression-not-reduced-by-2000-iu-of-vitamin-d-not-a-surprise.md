@@ -3,7 +3,8 @@ title: "Post-stroke depression not reduced by 2,000 IU of vitamin D (not a surpr
 slug: "post-stroke-depression-not-reduced-by-2000-iu-of-vitamin-d-not-a-surprise"
 aliases:
   - "/Post-stroke+depression+not+reduced+by+2000+IU+of+vitamin+D+not+a+surprise+–+Nov+2021"
-  - "/tiki-index.php?page_id=13078"
+  - "/13078"
+tiki_page_id: 13078
 date: 2021-11-12
 categories:
   - "Depression"

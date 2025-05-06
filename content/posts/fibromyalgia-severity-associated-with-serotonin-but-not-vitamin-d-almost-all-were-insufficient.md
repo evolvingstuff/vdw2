@@ -3,7 +3,8 @@ title: "Fibromyalgia severity associated with serotonin but not Vitamin D (almos
 slug: "fibromyalgia-severity-associated-with-serotonin-but-not-vitamin-d-almost-all-were-insufficient"
 aliases:
   - "/Fibromyalgia+severity+associated+with+serotonin+but+not+Vitamin+D+almost+all+were+insufficient+–+May+2019"
-  - "/tiki-index.php?page_id=10816"
+  - "/10816"
+tiki_page_id: 10816
 date: 2019-05-27
 categories:
   - "Pain - chronic"

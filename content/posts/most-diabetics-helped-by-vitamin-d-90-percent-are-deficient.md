@@ -3,7 +3,8 @@ title: "Most Diabetics helped by Vitamin D (90 percent are deficient)"
 slug: "most-diabetics-helped-by-vitamin-d-90-percent-are-deficient"
 aliases:
   - "/Most+Diabetics+helped+by+Vitamin+D+90+percent+are+deficient+–+Nov+2019"
-  - "/tiki-index.php?page_id=11306"
+  - "/11306"
+tiki_page_id: 11306
 date: 2019-11-04
 categories:
   - "Diabetes"

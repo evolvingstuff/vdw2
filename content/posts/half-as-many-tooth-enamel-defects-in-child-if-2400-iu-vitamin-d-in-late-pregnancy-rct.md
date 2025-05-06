@@ -3,7 +3,8 @@ title: "Half as many tooth enamel defects in child if 2400 IU Vitamin D in late 
 slug: "half-as-many-tooth-enamel-defects-in-child-if-2400-iu-vitamin-d-in-late-pregnancy-rct"
 aliases:
   - "/Half+as+many+tooth+enamel+defects+in+child+if+2400+IU+Vitamin+D+in+late+pregnancy+–+RCT+Aug+2019"
-  - "/tiki-index.php?page_id=11044"
+  - "/11044"
+tiki_page_id: 11044
 date: 2019-08-06
 categories:
   - "Pregnancy"

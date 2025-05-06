@@ -3,7 +3,8 @@ title: "COVID-19 patients who happened to be taking Vitamin D did much better"
 slug: "covid-19-patients-who-happened-to-be-taking-vitamin-d-did-much-better"
 aliases:
   - "/COVID-19+patients+who+happened+to+be+taking+Vitamin+D+did+much+better+–+Oct+272020"
-  - "/tiki-index.php?page_id=12026"
+  - "/12026"
+tiki_page_id: 12026
 date: 2020-10-27
 categories:
   - "Virus"

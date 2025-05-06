@@ -3,7 +3,8 @@ title: "Kellogg got the FDA to allow a tiny amount more Vitamin D in cereals and
 slug: "kellogg-got-the-fda-to-allow-a-tiny-amount-more-vitamin-d-in-cereals-and-bars"
 aliases:
   - "/Kellogg+got+the+FDA+to+allow+a+tiny+amount+more+Vitamin+D+in+cereals+and+bars+–+Dec+2022"
-  - "/tiki-index.php?page_id=11129"
+  - "/11129"
+tiki_page_id: 11129
 date: 2019-09-06
 categories:
   - "Fortification with Vitamin D"

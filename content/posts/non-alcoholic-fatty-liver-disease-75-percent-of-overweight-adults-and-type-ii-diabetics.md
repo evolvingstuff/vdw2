@@ -3,7 +3,8 @@ title: "Non-alcoholic fatty liver disease: 75 percent of overweight adults and t
 slug: "non-alcoholic-fatty-liver-disease-75-percent-of-overweight-adults-and-type-ii-diabetics"
 aliases:
   - "/Non-alcoholic+fatty+liver+disease+75+percent+of+overweight+adults+and+type+II+diabetics+–+Aug+2022"
-  - "/tiki-index.php?page_id=13763"
+  - "/13763"
+tiki_page_id: 13763
 date: 2022-07-16
 categories:
   - "Liver"

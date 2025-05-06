@@ -3,7 +3,8 @@ title: "No correlation found between hypercalcemia and high level of vitamin D"
 slug: "no-correlation-found-between-hypercalcemia-and-high-level-of-vitamin-d"
 aliases:
   - "/No+correlation+found+between+hypercalcemia+and+high+level+of+vitamin+D+–+March+2021"
-  - "/tiki-index.php?page_id=12431"
+  - "/12431"
+tiki_page_id: 12431
 date: 2021-03-24
 categories:
   - "Vitamin D and Calcium"

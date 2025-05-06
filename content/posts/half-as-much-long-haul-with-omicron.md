@@ -3,7 +3,8 @@ title: "Half as much Long-Haul with Omicron"
 slug: "half-as-much-long-haul-with-omicron"
 aliases:
   - "/Half+as+much+Long-Haul+with+Omicron+-+June+2022"
-  - "/tiki-index.php?page_id=13686"
+  - "/13686"
+tiki_page_id: 13686
 date: 2022-06-19
 categories:
   - "Virus"

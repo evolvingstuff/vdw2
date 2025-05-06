@@ -3,7 +3,8 @@ title: "Colon Cancer protects itself by changing the VDR and CYP3A4 genes"
 slug: "colon-cancer-protects-itself-by-changing-the-vdr-and-cyp3a4-genes"
 aliases:
   - "/Colon+Cancer+protects+itself+by+changing+the+VDR+and+CYP3A4+genes+–+Dec+2022"
-  - "/tiki-index.php?page_id=14130"
+  - "/14130"
+tiki_page_id: 14130
 date: 2022-12-05
 categories:
   - "Cancer - Colon"

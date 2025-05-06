@@ -3,7 +3,8 @@ title: "Celiac Disease: Vitamin D levels do not change with season (not outdoors
 slug: "celiac-disease-vitamin-d-levels-do-not-change-with-season-not-outdoors-much"
 aliases:
   - "/Celiac+Disease+Vitamin+D+levels+do+not+change+with+season+not+outdoors+much+–+March+2024"
-  - "/tiki-index.php?page_id=15128"
+  - "/15128"
+tiki_page_id: 15128
 date: 2024-03-13
 categories:
   - "Gut"

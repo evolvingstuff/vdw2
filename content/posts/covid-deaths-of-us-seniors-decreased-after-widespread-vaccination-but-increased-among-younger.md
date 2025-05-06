@@ -3,7 +3,8 @@ title: "COVID deaths of US seniors decreased after widespread vaccination, but I
 slug: "covid-deaths-of-us-seniors-decreased-after-widespread-vaccination-but-increased-among-younger"
 aliases:
   - "/COVID+deaths+of+US+seniors+decreased+after+widespread+vaccination+but+INCREASED+among+younger+–+Dec+28+2021"
-  - "/tiki-index.php?page_id=13227"
+  - "/13227"
+tiki_page_id: 13227
 date: 2021-12-28
 categories:
   - "Virus"

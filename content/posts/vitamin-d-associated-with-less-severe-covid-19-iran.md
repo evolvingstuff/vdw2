@@ -3,7 +3,8 @@ title: "Vitamin D associated with less severe COVID-19 (Iran)"
 slug: "vitamin-d-associated-with-less-severe-covid-19-iran"
 aliases:
   - "/Vitamin+D+associated+with+less+severe+COVID-19+Iran+-+Aug+28+2020"
-  - "/tiki-index.php?page_id=11929"
+  - "/11929"
+tiki_page_id: 11929
 date: 2020-09-01
 categories:
   - "Virus"

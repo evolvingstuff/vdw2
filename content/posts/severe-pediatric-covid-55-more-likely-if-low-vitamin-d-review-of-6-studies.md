@@ -3,7 +3,8 @@ title: "Severe pediatric COVID 5.5 more likely if low vitamin D (review of 6 stu
 slug: "severe-pediatric-covid-55-more-likely-if-low-vitamin-d-review-of-6-studies"
 aliases:
   - "/Severe+pediatric+COVID+55+more+likely+if+low+vitamin+D+review+of+6+studies+-July+2021"
-  - "/tiki-index.php?page_id=12744"
+  - "/12744"
+tiki_page_id: 12744
 date: 2021-07-16
 categories:
   - "Infant-Child"

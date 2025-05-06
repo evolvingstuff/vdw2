@@ -3,7 +3,8 @@ title: "COVID appears to be treated by many antioxidants (Vitamins D, C, E, K, a
 slug: "covid-appears-to-be-treated-by-many-antioxidants-vitamins-d-c-e-k-and-quercetin-curcumin-etc"
 aliases:
   - "/COVID+appears+to+be+treated+by+many+antioxidants+Vitamins+D+C+E+K+and+Quercetin+Curcumin+etc+–+Jan+2023"
-  - "/tiki-index.php?page_id=14238"
+  - "/14238"
+tiki_page_id: 14238
 date: 2023-02-01
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Age of menopause increases if add vitamin D or UVB"
 slug: "age-of-menopause-increases-if-add-vitamin-d-or-uvb"
 aliases:
   - "/Age+of+menopause+increases+if+add+vitamin+D+or+UVB"
-  - "/tiki-index.php?page_id=11590"
+  - "/11590"
+tiki_page_id: 11590
 date: 2020-01-25
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Elderly with low vitamin D were depressed, anxious, or stressed (Saudi A
 slug: "elderly-with-low-vitamin-d-were-depressed-anxious-or-stressed-saudi-arabia"
 aliases:
   - "/Elderly+with+low+vitamin+D+were+depressed+anxious+or+stressed+Saudi+Arabia+–+March+2024"
-  - "/tiki-index.php?page_id=15171"
+  - "/15171"
+tiki_page_id: 15171
 date: 2024-03-24
 categories:
   - "Seniors"

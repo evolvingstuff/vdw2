@@ -3,7 +3,8 @@ title: "Vitamin D Sulfate (found in breast milk) - several studies"
 slug: "vitamin-d-sulfate-found-in-breast-milk-several-studies"
 aliases:
   - "/Vitamin+D+Sulfate+found+in+breast+milk+-+several+studies"
-  - "/tiki-index.php?page_id=11013"
+  - "/11013"
+tiki_page_id: 11013
 date: 2019-07-21
 categories:
   - "Forms of Vitamin D"

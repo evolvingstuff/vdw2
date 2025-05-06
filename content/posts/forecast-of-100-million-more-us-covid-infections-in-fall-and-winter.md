@@ -3,7 +3,8 @@ title: "Forecast of 100 million more US COVID infections in fall and winter"
 slug: "forecast-of-100-million-more-us-covid-infections-in-fall-and-winter"
 aliases:
   - "/Forecast+of+100+million+more+US+COVID+infections+in+fall+and+winter+-+May+2022"
-  - "/tiki-index.php?page_id=13549"
+  - "/13549"
+tiki_page_id: 13549
 date: 2022-05-07
 categories:
   - "Virus"

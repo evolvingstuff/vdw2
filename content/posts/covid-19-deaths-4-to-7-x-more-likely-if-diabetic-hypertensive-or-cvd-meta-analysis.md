@@ -3,7 +3,8 @@ title: "COVID-19 deaths 4 to 7 X more likely if Diabetic, Hypertensive, or CVD -
 slug: "covid-19-deaths-4-to-7-x-more-likely-if-diabetic-hypertensive-or-cvd-meta-analysis"
 aliases:
   - "/COVID-19+deaths+4+to+7+X+more+likely+if+Diabetic+Hypertensive+or+CVD+-+meta-analysis+March+2020"
-  - "/tiki-index.php?page_id=11698"
+  - "/11698"
+tiki_page_id: 11698
 date: 2020-03-24
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Those with Asthma or COPD had half the response to Vitamin D"
 slug: "those-with-asthma-or-copd-had-half-the-response-to-vitamin-d"
 aliases:
   - "/Those+with+Asthma+or+COPD+had+half+the+response+to+Vitamin+D+–+March+2020"
-  - "/tiki-index.php?page_id=11689"
+  - "/11689"
+tiki_page_id: 11689
 date: 2020-03-19
 categories:
   - "Breathing"

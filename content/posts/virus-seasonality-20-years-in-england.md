@@ -3,7 +3,8 @@ title: "Virus seasonality (20 years in England)"
 slug: "virus-seasonality-20-years-in-england"
 aliases:
   - "/Virus+seasonality+20+years+in+England+-+Oct+2021"
-  - "/tiki-index.php?page_id=13034"
+  - "/13034"
+tiki_page_id: 13034
 date: 2021-10-30
 categories:
   - "Virus"

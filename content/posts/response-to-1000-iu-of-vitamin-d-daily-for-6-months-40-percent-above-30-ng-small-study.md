@@ -3,7 +3,8 @@ title: "Response to 1,000 IU of vitamin D daily for 6 months – 40 percent abov
 slug: "response-to-1000-iu-of-vitamin-d-daily-for-6-months-40-percent-above-30-ng-small-study"
 aliases:
   - "/Response+to+1000+IU+of+vitamin+D+daily+for+6+months+–+40+percent+above+30+ng+small+study+–+Feb+2022"
-  - "/tiki-index.php?page_id=13519"
+  - "/13519"
+tiki_page_id: 13519
 date: 2022-04-26
 categories:
   - "How much Vitamin D"

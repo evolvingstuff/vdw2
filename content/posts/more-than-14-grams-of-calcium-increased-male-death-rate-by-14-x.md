@@ -3,7 +3,8 @@ title: "More than 1.4 grams of Calcium increased male death rate by 1.4 X"
 slug: "more-than-14-grams-of-calcium-increased-male-death-rate-by-14-x"
 aliases:
   - "/More+than+14+grams+of+Calcium+increased+male+death+rate+by+14+X+–+Sept+2018"
-  - "/tiki-index.php?page_id=10067"
+  - "/10067"
+tiki_page_id: 10067
 date: 2018-09-25
 categories:
   - "Mortality and D"

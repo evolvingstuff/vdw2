@@ -3,7 +3,8 @@ title: "The Role of Vitamin D in Brain Health: A Mini Literature Review"
 slug: "the-role-of-vitamin-d-in-brain-health-a-mini-literature-review"
 aliases:
   - "/The+Role+of+Vitamin+D+in+Brain+Health+A+Mini+Literature+Review+–+Sept+2018"
-  - "/tiki-index.php?page_id=10039"
+  - "/10039"
+tiki_page_id: 10039
 date: 2018-09-15
 categories:
   - "Cognitive"

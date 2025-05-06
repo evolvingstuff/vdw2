@@ -3,7 +3,8 @@ title: "Alemtuzumab treatment of autoimmune diseases has many side effects, Vita
 slug: "alemtuzumab-treatment-of-autoimmune-diseases-has-many-side-effects-vitamin-d-sho-nt-most-of-them"
 aliases:
   - "/Alemtuzumab+treatment+of+autoimmune+diseases+has+many+side+effects+Vitamin+D+should+prevent+most+of+them+–+June+2019"
-  - "/tiki-index.php?page_id=10983"
+  - "/10983"
+tiki_page_id: 10983
 date: 2019-07-13
 categories:
   - "Multiple Sclerosis"

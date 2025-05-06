@@ -3,7 +3,8 @@ title: "Peripheral neuropathy pain associated with low vitamin D"
 slug: "peripheral-neuropathy-pain-associated-with-low-vitamin-d"
 aliases:
   - "/Peripheral+neuropathy+pain+associated+with+low+vitamin+D+–+Aug+2018"
-  - "/tiki-index.php?page_id=9987"
+  - "/9987"
+tiki_page_id: 9987
 date: 2018-08-28
 categories:
   - "Diabetes"

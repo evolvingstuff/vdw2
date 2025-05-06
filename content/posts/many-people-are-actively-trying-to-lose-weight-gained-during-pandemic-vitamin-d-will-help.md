@@ -3,7 +3,8 @@ title: "Many people are actively trying to lose weight gained during pandemic - 
 slug: "many-people-are-actively-trying-to-lose-weight-gained-during-pandemic-vitamin-d-will-help"
 aliases:
   - "/Many+people+are+actively+trying+to+lose+weight+gained+during+pandemic+-+Vitamin+D+will+help"
-  - "/tiki-index.php?page_id=13174"
+  - "/13174"
+tiki_page_id: 13174
 date: 2021-12-12
 categories:
   - "Obesity"

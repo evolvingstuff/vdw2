@@ -3,7 +3,8 @@ title: "Cancer Metabolism might be fought by many things – such as vitamin D"
 slug: "cancer-metabolism-might-be-fought-by-many-things-such-as-vitamin-d"
 aliases:
   - "/Cancer+Metabolism+might+be+fought+by+many+things+–+such+as+vitamin+D+–+Oct+2023"
-  - "/tiki-index.php?page_id=14714"
+  - "/14714"
+tiki_page_id: 14714
 date: 2023-10-01
 categories:
   - "Cancer"

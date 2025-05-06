@@ -3,7 +3,8 @@ title: "Handgrip and Vitamin D - many studies"
 slug: "handgrip-and-vitamin-d-many-studies"
 aliases:
   - "/Handgrip+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=15064"
+  - "/15064"
+tiki_page_id: 15064
 date: 2024-02-20
 ---
 

@@ -3,7 +3,8 @@ title: "Immune systems not improved with 1,000 IU of vitamin D daily (not a surp
 slug: "immune-systems-not-improved-with-1000-iu-of-vitamin-d-daily-not-a-surprise"
 aliases:
   - "/Immune+systems+not+improved+with+1000+IU+of+vitamin+D+daily+not+a+surprise+–+Nov+2022"
-  - "/tiki-index.php?page_id=14094"
+  - "/14094"
+tiki_page_id: 14094
 date: 2022-11-17
 categories:
   - "Immunity"

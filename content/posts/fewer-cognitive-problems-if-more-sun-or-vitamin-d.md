@@ -3,7 +3,8 @@ title: "Fewer cognitive problems if more sun or Vitamin D"
 slug: "fewer-cognitive-problems-if-more-sun-or-vitamin-d"
 aliases:
   - "/Fewer+cognitive+problems+if+more+sun+or+Vitamin+D"
-  - "/tiki-index.php?page_id=10774"
+  - "/10774"
+tiki_page_id: 10774
 date: 2019-05-15
 categories:
   - "Noontime sun and D"

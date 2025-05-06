@@ -3,7 +3,8 @@ title: "Cancers fought by Garlic, Onion, and Sulfur - several studies"
 slug: "cancers-fought-by-garlic-onion-and-sulfur-several-studies"
 aliases:
   - "/Cancers+fought+by+Garlic+Onion+and+Sulfur+-+several+studies"
-  - "/tiki-index.php?page_id=14167"
+  - "/14167"
+tiki_page_id: 14167
 date: 2022-12-23
 categories:
   - "Cancer - Breast"

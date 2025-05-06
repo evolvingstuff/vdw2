@@ -3,7 +3,8 @@ title: "Dr. Coimbra interview covering Vitamin D, Magnesium, Folate, Vaccines"
 slug: "dr-coimbra-interview-covering-vitamin-d-magnesium-folate-vaccines"
 aliases:
   - "/Dr+Coimbra+interview+covering+Vitamin+D+Magnesium+Folate+Vaccines+-+Oct+2018"
-  - "/tiki-index.php?page_id=10233"
+  - "/10233"
+tiki_page_id: 10233
 date: 2018-11-24
 categories:
   - "Books, videos on Vitamin D"

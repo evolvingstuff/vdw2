@@ -3,7 +3,8 @@ title: "Vitamin D might increase lifespan – clinical trial with 5,000 mice"
 slug: "vitamin-d-might-increase-lifespan-clinical-trial-with-5000-mice"
 aliases:
   - "/Vitamin+D+might+increase+lifespan+–+clinical+trial+with+5000+mice+-+June+2021"
-  - "/tiki-index.php?page_id=12638"
+  - "/12638"
+tiki_page_id: 12638
 date: 2021-06-05
 categories:
   - "Mortality and D"

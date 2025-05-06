@@ -3,7 +3,8 @@ title: "Pop quiz: What is the percentage decrease in deaths by a Vitamin D incre
 slug: "pop-quiz-what-is-the-percentage-decrease-in-deaths-by-a-vitamin-d-increase-of-10-nmol"
 aliases:
   - "/Pop+quiz+What+is+the+percentage+decrease+in+deaths+by+a+Vitamin+D+increase+of+10+nmol"
-  - "/tiki-index.php?page_id=13163"
+  - "/13163"
+tiki_page_id: 13163
 date: 2021-12-10
 categories:
   - "Mortality and D"

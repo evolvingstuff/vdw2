@@ -3,7 +3,8 @@ title: "International Congress on Vitamin D (VitaminD Workshop) – NY"
 slug: "international-congress-on-vitamin-d-vitamind-workshop-ny"
 aliases:
   - "/International+Congress+on+Vitamin+D+VitaminD+Workshop+–+NY+May+2019"
-  - "/tiki-index.php?page_id=10183"
+  - "/10183"
+tiki_page_id: 10183
 date: 2018-11-03
 categories:
   - "Conference"

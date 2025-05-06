@@ -3,7 +3,8 @@ title: "How Vitamin D prevents Insulin Resistance"
 slug: "how-vitamin-d-prevents-insulin-resistance"
 aliases:
   - "/How+Vitamin+D+prevents+Insulin+Resistance+–+Sept+2020"
-  - "/tiki-index.php?page_id=11955"
+  - "/11955"
+tiki_page_id: 11955
 date: 2020-09-17
 categories:
   - "Diabetes"

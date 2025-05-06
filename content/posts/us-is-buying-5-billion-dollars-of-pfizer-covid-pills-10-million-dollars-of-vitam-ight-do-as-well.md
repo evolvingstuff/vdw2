@@ -3,7 +3,8 @@ title: "US is buying 5 billion dollars of Pfizer COVID pills (10 million dollars
 slug: "us-is-buying-5-billion-dollars-of-pfizer-covid-pills-10-million-dollars-of-vitam-ight-do-as-well"
 aliases:
   - "/US+is+buying+5+billion+dollars+of+Pfizer+COVID+pills+10+million+dollars+of+Vitamin+D+might+do+as+well+-+Nov+2021"
-  - "/tiki-index.php?page_id=13088"
+  - "/13088"
+tiki_page_id: 13088
 date: 2021-11-16
 categories:
   - "Virus"

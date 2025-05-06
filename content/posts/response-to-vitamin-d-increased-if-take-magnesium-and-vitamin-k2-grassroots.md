@@ -3,7 +3,8 @@ title: "Response to Vitamin D increased if take Magnesium and Vitamin K2 – Gra
 slug: "response-to-vitamin-d-increased-if-take-magnesium-and-vitamin-k2-grassroots"
 aliases:
   - "/Response+to+Vitamin+D+increased+if+take+Magnesium+and+Vitamin+K2+–+Grassroots+March+2020"
-  - "/tiki-index.php?page_id=11672"
+  - "/11672"
+tiki_page_id: 11672
 date: 2020-03-10
 categories:
   - "Vitamin D and Magnesium"

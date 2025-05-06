@@ -3,7 +3,8 @@ title: "Power Of Vitamin D3 Book: Understand About Vitamin D3"
 slug: "power-of-vitamin-d3-book-understand-about-vitamin-d3"
 aliases:
   - "/Power+Of+Vitamin+D3+Book+Understand+About+Vitamin+D3+-+Jan+2022"
-  - "/tiki-index.php?page_id=13338"
+  - "/13338"
+tiki_page_id: 13338
 date: 2022-02-15
 categories:
   - "Books, videos on Vitamin D"

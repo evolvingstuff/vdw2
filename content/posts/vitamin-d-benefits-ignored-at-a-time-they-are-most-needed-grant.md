@@ -3,7 +3,8 @@ title: "Vitamin D benefits ignored at a time they are most needed - Grant"
 slug: "vitamin-d-benefits-ignored-at-a-time-they-are-most-needed-grant"
 aliases:
   - "/Vitamin+D+benefits+ignored+at+a+time+they+are+most+needed+-+Grant+Jan+9+2022"
-  - "/tiki-index.php?page_id=13242"
+  - "/13242"
+tiki_page_id: 13242
 date: 2022-01-09
 categories:
   - "Virus"

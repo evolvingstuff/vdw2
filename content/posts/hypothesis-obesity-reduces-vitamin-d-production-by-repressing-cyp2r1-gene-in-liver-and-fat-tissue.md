@@ -3,7 +3,8 @@ title: "Hypothesis: Obesity  reduces Vitamin D production by repressing CYP2R1 g
 slug: "hypothesis-obesity-reduces-vitamin-d-production-by-repressing-cyp2r1-gene-in-liver-and-fat-tissue"
 aliases:
   - "/Hypothesis+Obesity+reduces+Vitamin+D+production+by+repressing+CYP2R1+gene+in+liver+and+fat+tissue+–+July+2020"
-  - "/tiki-index.php?page_id=11855"
+  - "/11855"
+tiki_page_id: 11855
 date: 2020-07-21
 categories:
   - "Obesity"

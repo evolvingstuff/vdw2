@@ -3,7 +3,8 @@ title: "Death from Colon Cancer 8 X less likely if good level of vitamin D"
 slug: "death-from-colon-cancer-8-x-less-likely-if-good-level-of-vitamin-d"
 aliases:
   - "/Death+from+Colon+Cancer+8+X+less+likely+if+good+level+of+vitamin+D+–+Nov+2018"
-  - "/tiki-index.php?page_id=10234"
+  - "/10234"
+tiki_page_id: 10234
 date: 2018-11-25
 categories:
   - "Cancer - Colon"

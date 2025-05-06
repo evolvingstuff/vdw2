@@ -3,7 +3,8 @@ title: "Higher air pollution associated with more fractures and lower levels of 
 slug: "higher-air-pollution-associated-with-more-fractures-and-lower-levels-of-vitamin-d"
 aliases:
   - "/Higher+air+pollution+associated+with+more+fractures+and+lower+levels+of+vitamin+D+–+June+2023"
-  - "/tiki-index.php?page_id=14492"
+  - "/14492"
+tiki_page_id: 14492
 date: 2023-06-21
 categories:
   - "Falls and Fractures"

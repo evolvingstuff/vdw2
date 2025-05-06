@@ -3,7 +3,8 @@ title: "Majority of postmenopausal women have less than 30 ng of Vitamin D - Rev
 slug: "majority-of-postmenopausal-women-have-less-than-30-ng-of-vitamin-d-review"
 aliases:
   - "/Majority+of+postmenopausal+women+have+less+than+30+ng+of+Vitamin+D+-+Review+June+2019"
-  - "/tiki-index.php?page_id=10840"
+  - "/10840"
+tiki_page_id: 10840
 date: 2019-06-06
 categories:
   - "Deficiency of Vitamin D"

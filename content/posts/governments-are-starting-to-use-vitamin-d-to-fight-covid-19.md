@@ -3,7 +3,8 @@ title: "Governments are starting to use vitamin D to fight COVID-19"
 slug: "governments-are-starting-to-use-vitamin-d-to-fight-covid-19"
 aliases:
   - "/Governments+are+starting+to+use+vitamin+D+to+fight+COVID-19"
-  - "/tiki-index.php?page_id=12067"
+  - "/12067"
+tiki_page_id: 12067
 date: 2020-11-14
 categories:
   - "Virus"

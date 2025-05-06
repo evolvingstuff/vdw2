@@ -3,7 +3,8 @@ title: "Sleep quality 6X worse after stroke if low vitamin D"
 slug: "sleep-quality-6x-worse-after-stroke-if-low-vitamin-d"
 aliases:
   - "/Sleep+quality+6X+worse+after+stroke+if+low+vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13830"
+  - "/13830"
+tiki_page_id: 13830
 date: 2022-08-08
 categories:
   - "Sleep"

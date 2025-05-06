@@ -3,7 +3,8 @@ title: "5% of the world consumes 55% of the prescription medications while lifes
 slug: "5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us"
 aliases:
   - "/5+of+the+world+consumes+55+of+the+prescription+medications+while+lifespan+is+decreasing+US+–+March+2024"
-  - "/tiki-index.php?page_id=15150"
+  - "/15150"
+tiki_page_id: 15150
 date: 2024-03-19
 categories:
   - "Health"

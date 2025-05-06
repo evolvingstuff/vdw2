@@ -3,7 +3,8 @@ title: "Vitamin D genes may be more important than (25(OH)D) to orthopedics – 
 slug: "vitamin-d-genes-may-be-more-important-than-25ohd-to-orthopedics-review"
 aliases:
   - "/Vitamin+D+genes+may+be+more+important+than+25OHD+to+orthopedics+–+Review+Dec+2022"
-  - "/tiki-index.php?page_id=14138"
+  - "/14138"
+tiki_page_id: 14138
 date: 2022-12-08
 categories:
   - "Genetics"

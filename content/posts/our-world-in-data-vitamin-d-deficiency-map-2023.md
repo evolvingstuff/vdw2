@@ -3,7 +3,8 @@ title: "Our World in Data - Vitamin D deficiency map - 2023"
 slug: "our-world-in-data-vitamin-d-deficiency-map-2023"
 aliases:
   - "/Our+World+in+Data+-+Vitamin+D+deficiency+map+-+2023"
-  - "/tiki-index.php?page_id=15245"
+  - "/15245"
+tiki_page_id: 15245
 date: 2024-04-30
 categories:
   - "Deficiency of Vitamin D"

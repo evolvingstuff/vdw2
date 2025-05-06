@@ -3,7 +3,8 @@ title: "Nursing homes and Vitamin D - many studies"
 slug: "nursing-homes-and-vitamin-d-many-studies"
 aliases:
   - "/Nursing+homes+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14356"
+  - "/14356"
+tiki_page_id: 14356
 date: 2023-04-05
 categories:
   - "Seniors"

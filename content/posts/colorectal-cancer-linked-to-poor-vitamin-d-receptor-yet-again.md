@@ -3,7 +3,8 @@ title: "Colorectal cancer linked to poor Vitamin D Receptor (yet again)"
 slug: "colorectal-cancer-linked-to-poor-vitamin-d-receptor-yet-again"
 aliases:
   - "/Colorectal+cancer+linked+to+poor+Vitamin+D+Receptor+yet+again+–+Jan+2020"
-  - "/tiki-index.php?page_id=11581"
+  - "/11581"
+tiki_page_id: 11581
 date: 2020-01-22
 categories:
   - "Cancer - Colon"

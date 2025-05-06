@@ -3,7 +3,8 @@ title: "Perhaps drugs such as inhaled vitamin D can get directly to the brain"
 slug: "perhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain"
 aliases:
   - "/Perhaps+drugs+such+as+inhaled+vitamin+D+can+get+directly+to+the+brain+–+March+2018"
-  - "/tiki-index.php?page_id=10208"
+  - "/10208"
+tiki_page_id: 10208
 date: 2018-11-18
 categories:
   - "Forms of Vitamin D"

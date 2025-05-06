@@ -3,7 +3,8 @@ title: "South Koreans - half take supplements, Vitamin D levels dropping, COVID-
 slug: "south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19"
 aliases:
   - "/South+Koreans+-+half+take+supplements+Vitamin+D+levels+dropping+COVID-19"
-  - "/tiki-index.php?page_id=11633"
+  - "/11633"
+tiki_page_id: 11633
 date: 2020-02-16
 categories:
   - "Supplement"

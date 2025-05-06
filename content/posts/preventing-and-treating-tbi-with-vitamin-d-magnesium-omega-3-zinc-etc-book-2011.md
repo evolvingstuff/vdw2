@@ -3,7 +3,8 @@ title: "Preventing and treating TBI with Vitamin D, Magnesium Omega-3, Zinc, etc
 slug: "preventing-and-treating-tbi-with-vitamin-d-magnesium-omega-3-zinc-etc-book-2011"
 aliases:
   - "/Preventing+and+treating+TBI+with+Vitamin+D+Magnesium+Omega-3+Zinc+etc+–+book+2011"
-  - "/tiki-index.php?page_id=10800"
+  - "/10800"
+tiki_page_id: 10800
 date: 2019-05-21
 ---
 

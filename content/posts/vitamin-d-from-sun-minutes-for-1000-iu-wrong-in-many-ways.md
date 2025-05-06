@@ -3,7 +3,8 @@ title: "Vitamin D from sun - minutes for 1000 IU (wrong in many ways)"
 slug: "vitamin-d-from-sun-minutes-for-1000-iu-wrong-in-many-ways"
 aliases:
   - "/Vitamin+D+from+sun+-+minutes+for+1000+IU+wrong+in+many+ways+–+April+2019"
-  - "/tiki-index.php?page_id=10675"
+  - "/10675"
+tiki_page_id: 10675
 date: 2019-04-16
 categories:
   - "Noontime sun and D"

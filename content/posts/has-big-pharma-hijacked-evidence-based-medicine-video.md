@@ -3,7 +3,8 @@ title: "Has Big Pharma Hijacked Evidence Based Medicine - Video"
 slug: "has-big-pharma-hijacked-evidence-based-medicine-video"
 aliases:
   - "/Has+Big+Pharma+Hijacked+Evidence+Based+Medicine+-+Video+Nov+2022"
-  - "/tiki-index.php?page_id=14119"
+  - "/14119"
+tiki_page_id: 14119
 date: 2022-11-29
 categories:
   - "Books, videos on Vitamin D"

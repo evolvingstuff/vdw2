@@ -3,7 +3,8 @@ title: "Poor Vitamin D receptor reduced vitamin D levels -meta-analysis"
 slug: "poor-vitamin-d-receptor-reduced-vitamin-d-levels-meta-analysis"
 aliases:
   - "/Poor+Vitamin+D+receptor+reduced+vitamin+D+levels+-meta-analysis+Jan+2022"
-  - "/tiki-index.php?page_id=13277"
+  - "/13277"
+tiki_page_id: 13277
 date: 2022-01-23
 categories:
   - "Meta-analysis of Vitamin D"

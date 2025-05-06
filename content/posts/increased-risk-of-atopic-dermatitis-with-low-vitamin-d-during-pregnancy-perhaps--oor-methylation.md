@@ -3,7 +3,8 @@ title: "Increased risk of atopic dermatitis with low vitamin D during pregnancy 
 slug: "increased-risk-of-atopic-dermatitis-with-low-vitamin-d-during-pregnancy-perhaps--oor-methylation"
 aliases:
   - "/Increased+risk+of+atopic+dermatitis+with+low+vitamin+D+during+pregnancy+perhaps+due+to+poor+methylation+–+Oct+2018"
-  - "/tiki-index.php?page_id=10153"
+  - "/10153"
+tiki_page_id: 10153
 date: 2018-10-24
 categories:
   - "Pregnancy"

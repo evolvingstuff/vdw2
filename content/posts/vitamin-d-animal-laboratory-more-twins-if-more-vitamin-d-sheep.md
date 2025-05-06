@@ -3,7 +3,8 @@ title: "Vitamin D Animal Laboratory - more twins if more vitamin D (sheep)"
 slug: "vitamin-d-animal-laboratory-more-twins-if-more-vitamin-d-sheep"
 aliases:
   - "/Vitamin+D+Animal+Laboratory+-+more+twins+if+more+vitamin+D+sheep"
-  - "/tiki-index.php?page_id=10257"
+  - "/10257"
+tiki_page_id: 10257
 date: 2018-12-01
 categories:
   - "Veterinary and Vitamin D"

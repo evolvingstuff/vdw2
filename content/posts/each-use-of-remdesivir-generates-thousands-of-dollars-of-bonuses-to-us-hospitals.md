@@ -3,7 +3,8 @@ title: "Each use of Remdesivir generates thousands of dollars of bonuses to US h
 slug: "each-use-of-remdesivir-generates-thousands-of-dollars-of-bonuses-to-us-hospitals"
 aliases:
   - "/Each+use+of+Remdesivir+generates+thousands+of+dollars+of+bonuses+to+US+hospitals+–+Nov+2022"
-  - "/tiki-index.php?page_id=14095"
+  - "/14095"
+tiki_page_id: 14095
 date: 2022-11-18
 categories:
   - "Virus"

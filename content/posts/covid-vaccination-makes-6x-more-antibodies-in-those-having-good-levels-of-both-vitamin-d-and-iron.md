@@ -3,7 +3,8 @@ title: "COVID vaccination makes 6X more antibodies in those having good levels o
 slug: "covid-vaccination-makes-6x-more-antibodies-in-those-having-good-levels-of-both-vitamin-d-and-iron"
 aliases:
   - "/COVID+vaccination+makes+6X+more+antibodies+in+those+having+good+levels+of+both+vitamin+D+and+Iron+–+June+2021"
-  - "/tiki-index.php?page_id=13331"
+  - "/13331"
+tiki_page_id: 13331
 date: 2022-02-12
 categories:
   - "Virus"

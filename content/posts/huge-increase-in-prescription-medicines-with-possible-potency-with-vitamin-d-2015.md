@@ -3,7 +3,8 @@ title: "Huge increase in prescription medicines (with possible potency with Vita
 slug: "huge-increase-in-prescription-medicines-with-possible-potency-with-vitamin-d-2015"
 aliases:
   - "/Huge+increase+in+prescription+medicines+with+possible+potency+with+Vitamin+D+–+2015"
-  - "/tiki-index.php?page_id=10133"
+  - "/10133"
+tiki_page_id: 10133
 date: 2018-10-17
 categories:
   - "Interactions with Vitamin D"

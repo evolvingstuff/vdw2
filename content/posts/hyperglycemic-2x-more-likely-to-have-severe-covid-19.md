@@ -3,7 +3,8 @@ title: "Hyperglycemic 2X more likely to have severe COVID-19"
 slug: "hyperglycemic-2x-more-likely-to-have-severe-covid-19"
 aliases:
   - "/Hyperglycemic+2X+more+likely+to+have+severe+COVID-19+-+Nov+2020"
-  - "/tiki-index.php?page_id=12105"
+  - "/12105"
+tiki_page_id: 12105
 date: 2020-12-02
 categories:
   - "Diabetes"

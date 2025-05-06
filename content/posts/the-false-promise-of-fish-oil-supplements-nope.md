@@ -3,7 +3,8 @@ title: "The False Promise of Fish Oil Supplements (nope)"
 slug: "the-false-promise-of-fish-oil-supplements-nope"
 aliases:
   - "/The+False+Promise+of+Fish+Oil+Supplements+nope+Aug+2019"
-  - "/tiki-index.php?page_id=11092"
+  - "/11092"
+tiki_page_id: 11092
 date: 2019-08-22
 categories:
   - "Vitamin D and Omega-3"

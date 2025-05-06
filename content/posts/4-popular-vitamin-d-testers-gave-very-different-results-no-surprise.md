@@ -3,7 +3,8 @@ title: "4 popular vitamin D testers gave very different results (no surprise)"
 slug: "4-popular-vitamin-d-testers-gave-very-different-results-no-surprise"
 aliases:
   - "/4+popular+vitamin+D+testers+gave+very+different+results+no+surprise+–+June+2021"
-  - "/tiki-index.php?page_id=12696"
+  - "/12696"
+tiki_page_id: 12696
 date: 2021-06-28
 categories:
   - "Tests for Vitamin D"

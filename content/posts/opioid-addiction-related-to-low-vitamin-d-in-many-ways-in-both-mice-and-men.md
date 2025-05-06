@@ -3,7 +3,8 @@ title: "Opioid addiction related to low vitamin D in many ways (in both mice and
 slug: "opioid-addiction-related-to-low-vitamin-d-in-many-ways-in-both-mice-and-men"
 aliases:
   - "/Opioid+addiction+related+to+low+vitamin+D+in+many+ways+in+both+mice+and+men+–+June+2021"
-  - "/tiki-index.php?page_id=12651"
+  - "/12651"
+tiki_page_id: 12651
 date: 2021-06-12
 categories:
   - "Pain - chronic"

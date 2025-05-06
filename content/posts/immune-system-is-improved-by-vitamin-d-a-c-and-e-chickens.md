@@ -3,7 +3,8 @@ title: "Immune system is improved by Vitamin D, A, C, and E (chickens)"
 slug: "immune-system-is-improved-by-vitamin-d-a-c-and-e-chickens"
 aliases:
   - "/Immune+system+is+improved+by+Vitamin+D+A+C+and+E+chickens+–+Feb+2021"
-  - "/tiki-index.php?page_id=12341"
+  - "/12341"
+tiki_page_id: 12341
 date: 2021-02-21
 categories:
   - "Veterinary and Vitamin D"

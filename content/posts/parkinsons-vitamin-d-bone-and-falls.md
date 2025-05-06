@@ -3,7 +3,8 @@ title: "Parkinson’s – Vitamin D, bone and falls"
 slug: "parkinsons-vitamin-d-bone-and-falls"
 aliases:
   - "/Parkinsons+–+Vitamin+D+bone+and+falls+–+Aug+2022"
-  - "/tiki-index.php?page_id=14417"
+  - "/14417"
+tiki_page_id: 14417
 date: 2023-05-10
 categories:
   - "Bone - Health"

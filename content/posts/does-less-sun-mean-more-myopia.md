@@ -3,7 +3,8 @@ title: "Does less sun mean more Myopia"
 slug: "does-less-sun-mean-more-myopia"
 aliases:
   - "/Does+less+sun+mean+more+Myopia+-+June+2022"
-  - "/tiki-index.php?page_id=13698"
+  - "/13698"
+tiki_page_id: 13698
 date: 2022-06-22
 categories:
   - "Vision"

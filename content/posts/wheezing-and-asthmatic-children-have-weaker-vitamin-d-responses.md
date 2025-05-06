@@ -3,7 +3,8 @@ title: "Wheezing and asthmatic children have weaker Vitamin D responses"
 slug: "wheezing-and-asthmatic-children-have-weaker-vitamin-d-responses"
 aliases:
   - "/Wheezing+and+asthmatic+children+have+weaker+Vitamin+D+responses+-+May+2022"
-  - "/tiki-index.php?page_id=13573"
+  - "/13573"
+tiki_page_id: 13573
 date: 2022-05-19
 categories:
   - "Breathing"

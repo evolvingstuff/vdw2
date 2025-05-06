@@ -3,7 +3,8 @@ title: "COVID spread appears to not be stopped by vaccination, yet US wants to g
 slug: "covid-spread-appears-to-not-be-stopped-by-vaccination-yet-us-wants-to-get-all-vaccinated-by-jan"
 aliases:
   - "/COVID+spread+appears+to+not+be+stopped+by+vaccination+yet+US+wants+to+get+all+vaccinated+by+Jan+–+Nov+4+2021"
-  - "/tiki-index.php?page_id=13047"
+  - "/13047"
+tiki_page_id: 13047
 date: 2021-11-04
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "2 X more likely to die early if low vitamin D (80 year old Chinese)"
 slug: "2-x-more-likely-to-die-early-if-low-vitamin-d-80-year-old-chinese"
 aliases:
   - "/2+X+more+likely+to+die+early+if+low+vitamin+D+80+year+old+Chinese+–+April+2019"
-  - "/tiki-index.php?page_id=10646"
+  - "/10646"
+tiki_page_id: 10646
 date: 2019-04-06
 categories:
   - "Seniors"

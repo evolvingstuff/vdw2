@@ -3,7 +3,8 @@ title: "Vitamin D: A Potential Star for Treating Chronic Pancreatitis"
 slug: "vitamin-d-a-potential-star-for-treating-chronic-pancreatitis"
 aliases:
   - "/Vitamin+D+A+Potential+Star+for+Treating+Chronic+Pancreatitis+–+June+2022"
-  - "/tiki-index.php?page_id=13701"
+  - "/13701"
+tiki_page_id: 13701
 date: 2022-06-23
 categories:
   - "Inflammation"

@@ -3,7 +3,8 @@ title: "Variety of views on optional vitamin fortification of food (Olive oil in
 slug: "variety-of-views-on-optional-vitamin-fortification-of-food-olive-oil-in-italy-in-this-case"
 aliases:
   - "/Variety+of+views+on+optional+vitamin+fortification+of+food+Olive+oil+in+Italy+in+this+case+–+April+2022"
-  - "/tiki-index.php?page_id=13483"
+  - "/13483"
+tiki_page_id: 13483
 date: 2022-04-15
 categories:
   - "Fortification with Vitamin D"

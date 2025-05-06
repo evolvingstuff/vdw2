@@ -3,7 +3,8 @@ title: "Vitamin D response independent of dosing interval – meta-analysis"
 slug: "vitamin-d-response-independent-of-dosing-interval-meta-analysis"
 aliases:
   - "/Vitamin+D+response+independent+of+dosing+interval+–+meta-analysis+July+2023"
-  - "/tiki-index.php?page_id=14584"
+  - "/14584"
+tiki_page_id: 14584
 date: 2023-08-03
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "Roll Call of Credible Experts Advocating Vitamin D for COVID-19"
 slug: "roll-call-of-credible-experts-advocating-vitamin-d-for-covid-19"
 aliases:
   - "/Roll+Call+of+Credible+Experts+Advocating+Vitamin+D+for+COVID-19+-+Jan+26+2021"
-  - "/tiki-index.php?page_id=12271"
+  - "/12271"
+tiki_page_id: 12271
 date: 2021-01-29
 categories:
   - "Virus"

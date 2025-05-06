@@ -3,7 +3,8 @@ title: "History of Vitamin D - many studies"
 slug: "history-of-vitamin-d-many-studies"
 aliases:
   - "/History+of+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14742"
+  - "/14742"
+tiki_page_id: 14742
 date: 2023-10-11
 ---
 

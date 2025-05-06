@@ -3,7 +3,8 @@ title: "Omega-3 index of 8 to 11 is optimal (German)"
 slug: "omega-3-index-of-8-to-11-is-optimal-german"
 aliases:
   - "/Omega-3+index+of+8+to+11+is+optimal+German+-+Oct+2019"
-  - "/tiki-index.php?page_id=11236"
+  - "/11236"
+tiki_page_id: 11236
 date: 2019-10-15
 categories:
   - "Vitamin D and Omega-3"

@@ -3,7 +3,8 @@ title: "Vitamin D can be inside of a “trojan horse” nanoball made of folate,
 slug: "vitamin-d-can-be-inside-of-a-trojan-horse-nanoball-made-of-folate-cancer-cells-attrack-folate"
 aliases:
   - "/Vitamin+D+can+be+inside+of+a+trojan+horse+nanoball+made+of+folate+Cancer+cells+attrack+folate+–+April+2024"
-  - "/tiki-index.php?page_id=15227"
+  - "/15227"
+tiki_page_id: 15227
 date: 2024-04-20
 categories:
   - "Cancer"

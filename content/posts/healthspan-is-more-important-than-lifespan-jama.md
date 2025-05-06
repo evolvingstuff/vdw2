@@ -3,7 +3,8 @@ title: "Healthspan is more important than Lifespan – JAMA"
 slug: "healthspan-is-more-important-than-lifespan-jama"
 aliases:
   - "/Healthspan+is+more+important+than+Lifespan+–+JAMA+Oct+2018"
-  - "/tiki-index.php?page_id=10085"
+  - "/10085"
+tiki_page_id: 10085
 date: 2018-10-02
 categories:
   - "Health"

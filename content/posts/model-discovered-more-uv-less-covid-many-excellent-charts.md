@@ -3,7 +3,8 @@ title: "Model discovered: More UV, less COVID (many excellent charts)"
 slug: "model-discovered-more-uv-less-covid-many-excellent-charts"
 aliases:
   - "/Model+discovered+More+UV+less+COVID+many+excellent+charts+–+Sept+2022"
-  - "/tiki-index.php?page_id=13903"
+  - "/13903"
+tiki_page_id: 13903
 date: 2022-09-11
 categories:
   - "UV and Vitamin D"

@@ -3,7 +3,8 @@ title: "US Health Insurance now 24,000 a year - up 7% in a year"
 slug: "us-health-insurance-now-24000-a-year-up-7-percent-in-a-year"
 aliases:
   - "/US+Health+Insurance+now+24000+a+year+-+up+7+in+a+year+-+Oct+2023"
-  - "/tiki-index.php?page_id=14765"
+  - "/14765"
+tiki_page_id: 14765
 date: 2023-10-19
 ---
 

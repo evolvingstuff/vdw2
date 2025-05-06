@@ -3,7 +3,8 @@ title: "Vitamin D consensus for Italian children, 30 ng needed, up to 4,000 IU i
 slug: "vitamin-d-consensus-for-italian-children-30-ng-needed-up-to-4000-iu-if-over-age-10"
 aliases:
   - "/Vitamin+D+consensus+for+Italian+children+30+ng+needed+up+to+4000+IU+if+over+age+10+–+May+2018"
-  - "/tiki-index.php?page_id=10203"
+  - "/10203"
+tiki_page_id: 10203
 date: 2018-11-16
 categories:
   - "Youth"

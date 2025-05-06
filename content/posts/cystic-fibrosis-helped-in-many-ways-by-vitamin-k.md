@@ -3,7 +3,8 @@ title: "Cystic Fibrosis helped in many ways by Vitamin K"
 slug: "cystic-fibrosis-helped-in-many-ways-by-vitamin-k"
 aliases:
   - "/Cystic+Fibrosis+helped+in+many+ways+by+Vitamin+K+–+July+2019"
-  - "/tiki-index.php?page_id=11027"
+  - "/11027"
+tiki_page_id: 11027
 date: 2019-07-29
 categories:
   - "Cystic Fibrosis"

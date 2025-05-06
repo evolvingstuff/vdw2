@@ -3,7 +3,8 @@ title: "Moderna report: their COVID vax caused \"only\" 17,751 deaths"
 slug: "moderna-report-their-covid-vax-caused-only-17751-deaths"
 aliases:
   - "/Moderna+report+their+COVID+vax+caused+only+17751+deaths+-+April+2024"
-  - "/tiki-index.php?page_id=15209"
+  - "/15209"
+tiki_page_id: 15209
 date: 2024-04-11
 categories:
   - "Mortality and D"

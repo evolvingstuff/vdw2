@@ -3,7 +3,8 @@ title: "Doggie dementia 6.5X more likely if not get exercise (probably low vitam
 slug: "doggie-dementia-65x-more-likely-if-not-get-exercise-probably-low-vitamin-d"
 aliases:
   - "/Doggie+dementia+65X+more+likely+if+not+get+exercise+probably+low+vitamin+D+-+Aug+2022"
-  - "/tiki-index.php?page_id=13867"
+  - "/13867"
+tiki_page_id: 13867
 date: 2022-08-26
 categories:
   - "Veterinary and Vitamin D"

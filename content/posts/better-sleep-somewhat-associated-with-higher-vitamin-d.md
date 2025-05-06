@@ -3,7 +3,8 @@ title: "Better sleep somewhat associated with higher vitamin D"
 slug: "better-sleep-somewhat-associated-with-higher-vitamin-d"
 aliases:
   - "/Better+sleep+somewhat+associated+with+higher+vitamin+D+–+July+2019"
-  - "/tiki-index.php?page_id=10956"
+  - "/10956"
+tiki_page_id: 10956
 date: 2019-07-06
 categories:
   - "Sleep"

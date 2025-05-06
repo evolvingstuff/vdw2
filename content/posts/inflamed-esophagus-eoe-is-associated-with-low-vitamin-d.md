@@ -3,7 +3,8 @@ title: "Inflamed Esophagus (EoE) is associated with low Vitamin D"
 slug: "inflamed-esophagus-eoe-is-associated-with-low-vitamin-d"
 aliases:
   - "/Inflamed+Esophagus+EoE+is+associated+with+low+Vitamin+D+–+Jan+2024"
-  - "/tiki-index.php?page_id=15021"
+  - "/15021"
+tiki_page_id: 15021
 date: 2024-02-02
 ---
 

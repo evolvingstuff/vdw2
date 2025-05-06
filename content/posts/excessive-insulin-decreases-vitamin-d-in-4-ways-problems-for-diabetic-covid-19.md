@@ -3,7 +3,8 @@ title: "Excessive insulin decreases vitamin D in 4 ways – problems for diabeti
 slug: "excessive-insulin-decreases-vitamin-d-in-4-ways-problems-for-diabetic-covid-19"
 aliases:
   - "/Excessive+insulin+decreases+vitamin+D+in+4+ways+–+problems+for+diabetic+COVID-19+–+Dec+2020"
-  - "/tiki-index.php?page_id=12139"
+  - "/12139"
+tiki_page_id: 12139
 date: 2020-12-12
 categories:
   - "Diabetes"

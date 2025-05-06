@@ -3,7 +3,8 @@ title: "Ways to improve health"
 slug: "ways-to-improve-health"
 aliases:
   - "/Ways+to+improve+health"
-  - "/tiki-index.php?page_id=10426"
+  - "/10426"
+tiki_page_id: 10426
 date: 2019-01-24
 categories:
   - "Supplement"

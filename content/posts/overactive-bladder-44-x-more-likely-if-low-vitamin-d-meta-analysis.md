@@ -3,7 +3,8 @@ title: "Overactive bladder 4.4 X more likely if low vitamin D – meta-analysis"
 slug: "overactive-bladder-44-x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Overactive+bladder+44+X+more+likely+if+low+vitamin+D+–+meta-analysis+Feb+2024"
-  - "/tiki-index.php?page_id=15066"
+  - "/15066"
+tiki_page_id: 15066
 date: 2024-02-21
 categories:
   - "Seniors"

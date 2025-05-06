@@ -3,7 +3,8 @@ title: "Enlarged Prostate (BPH) and Vitamin D - several studies"
 slug: "enlarged-prostate-bph-and-vitamin-d-several-studies"
 aliases:
   - "/Enlarged+Prostate+BPH+and+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=15096"
+  - "/15096"
+tiki_page_id: 15096
 date: 2024-03-02
 ---
 

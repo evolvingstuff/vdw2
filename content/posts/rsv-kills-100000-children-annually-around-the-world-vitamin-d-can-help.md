@@ -3,7 +3,8 @@ title: "RSV kills 100,000 children annually around the world (Vitamin D can help
 slug: "rsv-kills-100000-children-annually-around-the-world-vitamin-d-can-help"
 aliases:
   - "/RSV+kills+100000+children+annually+around+the+world+Vitamin+D+can+help–+May+2022"
-  - "/tiki-index.php?page_id=14035"
+  - "/14035"
+tiki_page_id: 14035
 date: 2022-10-23
 categories:
   - "Breathing"

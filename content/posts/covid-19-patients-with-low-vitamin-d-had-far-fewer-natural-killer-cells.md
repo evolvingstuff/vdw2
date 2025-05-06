@@ -3,7 +3,8 @@ title: "COVID-19 patients with low vitamin D had far fewer natural killer cells"
 slug: "covid-19-patients-with-low-vitamin-d-had-far-fewer-natural-killer-cells"
 aliases:
   - "/COVID-19+patients+with+low+vitamin+D+had+far+fewer+natural+killer+cells+–+Dec+2020"
-  - "/tiki-index.php?page_id=12144"
+  - "/12144"
+tiki_page_id: 12144
 date: 2020-12-15
 categories:
   - "Immunity"

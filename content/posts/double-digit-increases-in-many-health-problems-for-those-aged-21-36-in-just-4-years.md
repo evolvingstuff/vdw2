@@ -3,7 +3,8 @@ title: "Double digit increases in many health problems for those aged 21-36 in j
 slug: "double-digit-increases-in-many-health-problems-for-those-aged-21-36-in-just-4-years"
 aliases:
   - "/Double+digit+increases+in+many+health+problems+for+those+aged+21-36+in+just+4+years+-+April+2019"
-  - "/tiki-index.php?page_id=10844"
+  - "/10844"
+tiki_page_id: 10844
 date: 2019-06-08
 categories:
   - "Health"

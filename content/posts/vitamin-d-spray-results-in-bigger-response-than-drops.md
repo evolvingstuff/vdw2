@@ -3,7 +3,8 @@ title: "Vitamin D spray results in bigger response than drops"
 slug: "vitamin-d-spray-results-in-bigger-response-than-drops"
 aliases:
   - "/Vitamin+D+spray+results+in+bigger+response+than+drops+–+Jan+2021"
-  - "/tiki-index.php?page_id=14135"
+  - "/14135"
+tiki_page_id: 14135
 date: 2022-12-06
 categories:
   - "Forms of Vitamin D"

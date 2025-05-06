@@ -3,7 +3,8 @@ title: "Predicted US Cancer statistics for 2024"
 slug: "predicted-us-cancer-statistics-for-2024"
 aliases:
   - "/Predicted+US+Cancer+statistics+for+2024+-+Feb+2024"
-  - "/tiki-index.php?page_id=15077"
+  - "/15077"
+tiki_page_id: 15077
 date: 2024-02-25
 categories:
   - "Cancer"

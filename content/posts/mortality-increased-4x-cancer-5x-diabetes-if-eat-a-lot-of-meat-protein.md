@@ -3,7 +3,8 @@ title: "Mortality increased: 4X Cancer, 5X Diabetes if eat a lot of meat protein
 slug: "mortality-increased-4x-cancer-5x-diabetes-if-eat-a-lot-of-meat-protein"
 aliases:
   - "/Mortality+increased+4X+Cancer+5X+Diabetes+if+eat+a+lot+of+meat+protein+–+March+2014"
-  - "/tiki-index.php?page_id=10974"
+  - "/10974"
+tiki_page_id: 10974
 date: 2019-07-11
 categories:
   - "Diabetes"

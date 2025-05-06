@@ -3,7 +3,8 @@ title: "Intracellular Magnesium and Vitamin D - a few studies"
 slug: "intracellular-magnesium-and-vitamin-d-a-few-studies"
 aliases:
   - "/Intracellular+Magnesium+and+Vitamin+D+-+a+few+studies"
-  - "/tiki-index.php?page_id=13706"
+  - "/13706"
+tiki_page_id: 13706
 date: 2022-06-23
 categories:
   - "Vitamin D and Magnesium"

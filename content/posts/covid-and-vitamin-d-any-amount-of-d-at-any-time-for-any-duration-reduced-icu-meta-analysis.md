@@ -3,7 +3,8 @@ title: "COVID and Vitamin D: any amount of D, at any time, for any duration redu
 slug: "covid-and-vitamin-d-any-amount-of-d-at-any-time-for-any-duration-reduced-icu-meta-analysis"
 aliases:
   - "/COVID+and+Vitamin+D+any+amount+of+D+at+any+time+for+any+duration+reduced+ICU+-+meta-analysis+Dec+2022"
-  - "/tiki-index.php?page_id=14148"
+  - "/14148"
+tiki_page_id: 14148
 date: 2022-12-14
 categories:
   - "Meta-analysis of Vitamin D"

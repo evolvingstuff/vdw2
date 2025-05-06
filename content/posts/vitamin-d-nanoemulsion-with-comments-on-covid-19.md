@@ -3,7 +3,8 @@ title: "Vitamin D nanoemulsion, with comments on COVID-19"
 slug: "vitamin-d-nanoemulsion-with-comments-on-covid-19"
 aliases:
   - "/Vitamin+D+nanoemulsion+with+comments+on+COVID-19+–+June+2+2020"
-  - "/tiki-index.php?page_id=11791"
+  - "/11791"
+tiki_page_id: 11791
 date: 2020-06-03
 categories:
   - "Forms of Vitamin D"

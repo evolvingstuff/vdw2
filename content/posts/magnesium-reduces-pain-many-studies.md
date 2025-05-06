@@ -3,7 +3,8 @@ title: "Magnesium reduces pain - many studies"
 slug: "magnesium-reduces-pain-many-studies"
 aliases:
   - "/Magnesium+reduces+pain+-+many+studies"
-  - "/tiki-index.php?page_id=13571"
+  - "/13571"
+tiki_page_id: 13571
 date: 2022-05-19
 ---
 

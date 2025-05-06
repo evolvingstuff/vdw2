@@ -3,7 +3,8 @@ title: "Falls reduced by a third if achieved 40 ng level vitamin D– RCT"
 slug: "falls-reduced-by-a-third-if-achieved-40-ng-level-vitamin-d-rct"
 aliases:
   - "/Falls+reduced+by+a+third+if+achieved+40+ng+level+vitamin+D–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10073"
+  - "/10073"
+tiki_page_id: 10073
 date: 2018-09-27
 categories:
   - "Top news"

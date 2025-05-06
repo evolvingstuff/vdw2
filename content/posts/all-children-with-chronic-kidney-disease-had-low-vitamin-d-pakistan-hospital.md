@@ -3,7 +3,8 @@ title: "All children with Chronic Kidney Disease had low Vitamin D (Pakistan hos
 slug: "all-children-with-chronic-kidney-disease-had-low-vitamin-d-pakistan-hospital"
 aliases:
   - "/All+children+with+Chronic+Kidney+Disease+had+low+Vitamin+D+Pakistan+hospital+Jan+2023"
-  - "/tiki-index.php?page_id=14245"
+  - "/14245"
+tiki_page_id: 14245
 date: 2023-02-06
 categories:
   - "Kidney"

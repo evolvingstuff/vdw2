@@ -3,7 +3,8 @@ title: "Colorectal Cancer risk increases when genes reduce the vitamin D levels"
 slug: "colorectal-cancer-risk-increases-when-genes-reduce-the-vitamin-d-levels"
 aliases:
   - "/Colorectal+Cancer+risk+increases+when+genes+reduce+the+vitamin+D+levels+–+Aug+2019"
-  - "/tiki-index.php?page_id=11094"
+  - "/11094"
+tiki_page_id: 11094
 date: 2019-08-23
 categories:
   - "Cancer - Colon"

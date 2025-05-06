@@ -3,7 +3,8 @@ title: "The Risk of Skin Cancer From Sun Exposure Is Overblown"
 slug: "the-risk-of-skin-cancer-from-sun-exposure-is-overblown"
 aliases:
   - "/The+Risk+of+Skin+Cancer+From+Sun+Exposure+Is+Overblown+-+May+2019"
-  - "/tiki-index.php?page_id=10743"
+  - "/10743"
+tiki_page_id: 10743
 date: 2019-05-07
 categories:
   - "Cancer - Skin"

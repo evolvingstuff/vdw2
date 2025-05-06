@@ -3,7 +3,8 @@ title: "Immunological effects of vitamin D and their relations to autoimmunity"
 slug: "immunological-effects-of-vitamin-d-and-their-relations-to-autoimmunity"
 aliases:
   - "/Immunological+effects+of+vitamin+D+and+their+relations+to+autoimmunity+–+March+2019"
-  - "/tiki-index.php?page_id=10585"
+  - "/10585"
+tiki_page_id: 10585
 date: 2019-03-19
 categories:
   - "Multiple Sclerosis"

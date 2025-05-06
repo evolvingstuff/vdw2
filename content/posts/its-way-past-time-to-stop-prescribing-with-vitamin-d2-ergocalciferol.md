@@ -3,7 +3,8 @@ title: "It’s (way past) time to stop prescribing with Vitamin D2 (ergocalcifer
 slug: "its-way-past-time-to-stop-prescribing-with-vitamin-d2-ergocalciferol"
 aliases:
   - "/Its+way+past+time+to+stop+prescribing+with+Vitamin+D2+ergocalciferol+–+Oct+2018"
-  - "/tiki-index.php?page_id=10093"
+  - "/10093"
+tiki_page_id: 10093
 date: 2018-10-06
 categories:
   - "Vitamin D3 instead of D2"

@@ -3,7 +3,8 @@ title: "3,900 deaths within 2 weeks of 2nd vaccination in Sweden"
 slug: "3900-deaths-within-2-weeks-of-2nd-vaccination-in-sweden"
 aliases:
   - "/3900+deaths+within+2+weeks+of+2nd+vaccination+in+Sweden+-+Nov+18+2021"
-  - "/tiki-index.php?page_id=13094"
+  - "/13094"
+tiki_page_id: 13094
 date: 2021-11-19
 categories:
   - "Virus"

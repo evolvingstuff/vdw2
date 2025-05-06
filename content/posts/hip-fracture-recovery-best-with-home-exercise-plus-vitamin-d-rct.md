@@ -3,7 +3,8 @@ title: "Hip fracture recovery best with home exercise plus Vitamin D – RCT"
 slug: "hip-fracture-recovery-best-with-home-exercise-plus-vitamin-d-rct"
 aliases:
   - "/Hip+fracture+recovery+best+with+home+exercise+plus+Vitamin+D+–+RCT+Dec+2018"
-  - "/tiki-index.php?page_id=10307"
+  - "/10307"
+tiki_page_id: 10307
 date: 2018-12-11
 categories:
   - "Intervention"

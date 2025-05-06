@@ -3,7 +3,8 @@ title: "Reasons for Low Vitamin D and what to do"
 slug: "reasons-for-low-vitamin-d-and-what-to-do"
 aliases:
   - "/Reasons+for+Low+Vitamin+D+and+what+to+do"
-  - "/tiki-index.php?page_id=10154"
+  - "/10154"
+tiki_page_id: 10154
 date: 2018-10-24
 categories:
   - "Deficiency of Vitamin D"

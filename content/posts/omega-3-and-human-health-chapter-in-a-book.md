@@ -3,7 +3,8 @@ title: "Omega-3 and Human Health: chapter in a book"
 slug: "omega-3-and-human-health-chapter-in-a-book"
 aliases:
   - "/Omega-3+and+Human+Health+chapter+in+a+book+–+Oct+2018"
-  - "/tiki-index.php?page_id=10136"
+  - "/10136"
+tiki_page_id: 10136
 date: 2018-10-18
 categories:
   - "Vitamin D and Omega-3"

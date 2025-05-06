@@ -3,7 +3,8 @@ title: "COVID 19 Video - Drs. Seheult and Campbell"
 slug: "covid-19-video-drs-seheult-and-campbell"
 aliases:
   - "/COVID+19+Video+-+Drs+Seheult+and+Campbell+-+Jan+2021"
-  - "/tiki-index.php?page_id=12194"
+  - "/12194"
+tiki_page_id: 12194
 date: 2021-01-04
 categories:
   - "Books, videos on Vitamin D"

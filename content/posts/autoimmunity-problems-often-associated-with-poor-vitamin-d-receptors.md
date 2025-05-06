@@ -3,7 +3,8 @@ title: "Autoimmunity problems often associated with poor Vitamin D Receptors"
 slug: "autoimmunity-problems-often-associated-with-poor-vitamin-d-receptors"
 aliases:
   - "/Autoimmunity+problems+often+associated+with+poor+Vitamin+D+Receptors+–+March+2019"
-  - "/tiki-index.php?page_id=11035"
+  - "/11035"
+tiki_page_id: 11035
 date: 2019-07-31
 categories:
   - "Autoimmune"

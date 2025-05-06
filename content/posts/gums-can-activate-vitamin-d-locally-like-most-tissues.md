@@ -3,7 +3,8 @@ title: "Gums can activate Vitamin D locally (like most tissues)"
 slug: "gums-can-activate-vitamin-d-locally-like-most-tissues"
 aliases:
   - "/Gums+can+activate+Vitamin+D+locally+like+most+tissues+–+Feb+2019"
-  - "/tiki-index.php?page_id=10541"
+  - "/10541"
+tiki_page_id: 10541
 date: 2019-03-02
 categories:
   - "Dental"

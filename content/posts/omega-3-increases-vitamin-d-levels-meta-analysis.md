@@ -3,7 +3,8 @@ title: "Omega-3 increases Vitamin D levels – Meta-analysis"
 slug: "omega-3-increases-vitamin-d-levels-meta-analysis"
 aliases:
   - "/Omega-3+increases+Vitamin+D+levels+–+Meta-analysis+May+2022"
-  - "/tiki-index.php?page_id=13578"
+  - "/13578"
+tiki_page_id: 13578
 date: 2022-05-20
 categories:
   - "Meta-analysis of Vitamin D"

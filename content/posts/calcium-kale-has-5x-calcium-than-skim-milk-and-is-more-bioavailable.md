@@ -3,7 +3,8 @@ title: "Calcium  - Kale has 5X Calcium than skim milk, and is more bioavailable"
 slug: "calcium-kale-has-5x-calcium-than-skim-milk-and-is-more-bioavailable"
 aliases:
   - "/Calcium+-+Kale+has+5X+Calcium+than+skim+milk+and+is+more+bioavailable+-+Jan+2024"
-  - "/tiki-index.php?page_id=15011"
+  - "/15011"
+tiki_page_id: 15011
 date: 2024-01-31
 categories:
   - "Vitamin D and Calcium"

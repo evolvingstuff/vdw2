@@ -3,7 +3,8 @@ title: "Hospital-acquired pneumonia treated by vitamin D if person was deficient
 slug: "hospital-acquired-pneumonia-treated-by-vitamin-d-if-person-was-deficient-rct"
 aliases:
   - "/Hospital-acquired+pneumonia+treated+by+vitamin+D+if+person+was+deficient+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10041"
+  - "/10041"
+tiki_page_id: 10041
 date: 2018-09-16
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "How Vitamin D can fight cerebrovascular diseases (stroke, TIA, aneurysm)
 slug: "how-vitamin-d-can-fight-cerebrovascular-diseases-stroke-tia-aneurysm"
 aliases:
   - "/How+Vitamin+D+can+fight+cerebrovascular+diseases+stroke+TIA+aneurysm+–+March+2022"
-  - "/tiki-index.php?page_id=13399"
+  - "/13399"
+tiki_page_id: 13399
 date: 2022-03-14
 categories:
   - "Stroke"

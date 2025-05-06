@@ -3,7 +3,8 @@ title: "COVID Ventilation 2X less likely if 200,000 IU of Vitamin D when enter h
 slug: "covid-ventilation-2x-less-likely-if-200000-iu-of-vitamin-d-when-enter-hospital"
 aliases:
   - "/COVID+Ventilation+2X+less+likely+if+200000+IU+of+Vitamin+D+when+enter+hospital+–+May+2022"
-  - "/tiki-index.php?page_id=13580"
+  - "/13580"
+tiki_page_id: 13580
 date: 2022-05-22
 categories:
   - "Loading dose for Vitamin D"

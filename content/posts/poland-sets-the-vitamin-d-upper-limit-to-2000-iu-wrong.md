@@ -3,7 +3,8 @@ title: "Poland sets the Vitamin D upper limit to 2,000 IU (wrong)"
 slug: "poland-sets-the-vitamin-d-upper-limit-to-2000-iu-wrong"
 aliases:
   - "/Poland+sets+the+Vitamin+D+upper+limit+to+2000+IU+wrong+-+Aug+2019"
-  - "/tiki-index.php?page_id=11107"
+  - "/11107"
+tiki_page_id: 11107
 date: 2019-08-27
 categories:
   - "How much Vitamin D"

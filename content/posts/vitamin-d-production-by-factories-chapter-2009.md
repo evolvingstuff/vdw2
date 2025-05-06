@@ -3,7 +3,8 @@ title: "Vitamin D production by factories - chapter - 2009"
 slug: "vitamin-d-production-by-factories-chapter-2009"
 aliases:
   - "/Vitamin+D+production+by+factories+-+chapter+-+2009"
-  - "/tiki-index.php?page_id=12053"
+  - "/12053"
+tiki_page_id: 12053
 date: 2020-11-08
 categories:
   - "About D - more info."

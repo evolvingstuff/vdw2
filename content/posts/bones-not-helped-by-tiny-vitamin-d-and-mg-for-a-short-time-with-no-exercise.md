@@ -3,7 +3,8 @@ title: "Bones not helped by tiny Vitamin D and Mg, for a short time with no exer
 slug: "bones-not-helped-by-tiny-vitamin-d-and-mg-for-a-short-time-with-no-exercise"
 aliases:
   - "/Bones+not+helped+by+tiny+Vitamin+D+and+Mg+for+a+short+time+with+no+exercise+-+Feb+2023"
-  - "/tiki-index.php?page_id=14255"
+  - "/14255"
+tiki_page_id: 14255
 date: 2023-02-11
 categories:
   - "Bone - Health"

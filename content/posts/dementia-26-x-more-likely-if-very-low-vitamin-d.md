@@ -3,7 +3,8 @@ title: "Dementia 2.6 X more likely if very low Vitamin D"
 slug: "dementia-26-x-more-likely-if-very-low-vitamin-d"
 aliases:
   - "/Dementia+26+X+more+likely+if+very+low+Vitamin+D+–+March+2023"
-  - "/tiki-index.php?page_id=14318"
+  - "/14318"
+tiki_page_id: 14318
 date: 2023-03-18
 categories:
   - "Cognitive"

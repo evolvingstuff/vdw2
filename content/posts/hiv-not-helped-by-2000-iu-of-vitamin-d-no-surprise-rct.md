@@ -3,7 +3,8 @@ title: "HIV not helped by 2,000 IU of Vitamin D (no surprise) – RCT"
 slug: "hiv-not-helped-by-2000-iu-of-vitamin-d-no-surprise-rct"
 aliases:
   - "/HIV+not+helped+by+2000+IU+of+Vitamin+D+no+surprise+–+RCT+April+2022"
-  - "/tiki-index.php?page_id=13515"
+  - "/13515"
+tiki_page_id: 13515
 date: 2022-04-24
 categories:
   - "HIV"

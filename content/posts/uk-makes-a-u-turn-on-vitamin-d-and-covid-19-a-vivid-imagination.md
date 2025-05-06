@@ -3,7 +3,8 @@ title: "UK makes a U-turn on Vitamin D and COVID-19 - a vivid imagination"
 slug: "uk-makes-a-u-turn-on-vitamin-d-and-covid-19-a-vivid-imagination"
 aliases:
   - "/UK+makes+a+U-turn+on+Vitamin+D+and+COVID-19+-+a+vivid+imagination"
-  - "/tiki-index.php?page_id=11760"
+  - "/11760"
+tiki_page_id: 11760
 date: 2020-05-08
 categories:
   - "Virus"

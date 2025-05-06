@@ -3,7 +3,8 @@ title: "Cognitive function of adult women improved in 3 months of 50,000 IU week
 slug: "cognitive-function-of-adult-women-improved-in-3-months-of-50000-iu-weekly-vitamin-d"
 aliases:
   - "/Cognitive+function+of+adult+women+improved+in+3+months+of+50000+IU+weekly+Vitamin+D+–+Jan+2019"
-  - "/tiki-index.php?page_id=10490"
+  - "/10490"
+tiki_page_id: 10490
 date: 2019-02-14
 categories:
   - "Intervention"

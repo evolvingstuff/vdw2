@@ -3,7 +3,8 @@ title: "Infection and vitamin D studies – huge increase in publications (then 
 slug: "infection-and-vitamin-d-studies-huge-increase-in-publications-then-covid-hit"
 aliases:
   - "/Infection+and+vitamin+D+studies+–+huge+increase+in+publications+then+COVID+hit+–+Aug+2022"
-  - "/tiki-index.php?page_id=13854"
+  - "/13854"
+tiki_page_id: 13854
 date: 2022-08-22
 categories:
   - "Immunity"

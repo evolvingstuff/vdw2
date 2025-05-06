@@ -3,7 +3,8 @@ title: "Overweight needed more EPA (4 grams) to fight depression – RCT"
 slug: "overweight-needed-more-epa-4-grams-to-fight-depression-rct"
 aliases:
   - "/Overweight+needed+more+EPA+4+grams+to+fight+depression+–+RCT+Aug+2022"
-  - "/tiki-index.php?page_id=13877"
+  - "/13877"
+tiki_page_id: 13877
 date: 2022-08-30
 categories:
   - "Obesity"

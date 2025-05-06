@@ -3,7 +3,8 @@ title: "Cancer Treatments - vitamin D is one of the 30 alternatives"
 slug: "cancer-treatments-vitamin-d-is-one-of-the-30-alternatives"
 aliases:
   - "/Cancer+Treatments+-+vitamin+D+is+one+of+the+30+alternatives+-+June+2023"
-  - "/tiki-index.php?page_id=14484"
+  - "/14484"
+tiki_page_id: 14484
 date: 2023-06-14
 categories:
   - "Cancer"

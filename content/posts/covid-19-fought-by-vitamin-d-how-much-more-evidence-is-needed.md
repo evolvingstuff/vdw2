@@ -3,7 +3,8 @@ title: "COVID-19 fought by Vitamin D, how much more evidence is needed"
 slug: "covid-19-fought-by-vitamin-d-how-much-more-evidence-is-needed"
 aliases:
   - "/COVID-19+fought+by+Vitamin+D+how+much+more+evidence+is+needed+-May+2021"
-  - "/tiki-index.php?page_id=12612"
+  - "/12612"
+tiki_page_id: 12612
 date: 2021-05-28
 categories:
   - "Virus"

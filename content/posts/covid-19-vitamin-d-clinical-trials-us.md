@@ -3,7 +3,8 @@ title: "COVID-19 Vitamin D Clinical Trials - US"
 slug: "covid-19-vitamin-d-clinical-trials-us"
 aliases:
   - "/COVID-19+Vitamin+D+Clinical+Trials+-+US+Sept+15+2021"
-  - "/tiki-index.php?page_id=12910"
+  - "/12910"
+tiki_page_id: 12910
 date: 2021-09-21
 categories:
   - "Virus"

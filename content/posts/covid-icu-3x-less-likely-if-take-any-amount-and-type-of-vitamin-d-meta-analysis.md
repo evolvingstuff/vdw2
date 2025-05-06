@@ -3,7 +3,8 @@ title: "COVID ICU 3X less-likely if take any amount and type of Vitamin D – me
 slug: "covid-icu-3x-less-likely-if-take-any-amount-and-type-of-vitamin-d-meta-analysis"
 aliases:
   - "/COVID+ICU+3X+less-likely+if+take+any+amount+and+type+of+Vitamin+D+–+meta-analysis+Jan+2023"
-  - "/tiki-index.php?page_id=14225"
+  - "/14225"
+tiki_page_id: 14225
 date: 2023-01-22
 categories:
   - "Meta-analysis of Vitamin D"

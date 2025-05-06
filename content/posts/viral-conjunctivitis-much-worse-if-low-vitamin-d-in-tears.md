@@ -3,7 +3,8 @@ title: "Viral conjunctivitis much worse if low vitamin D in tears"
 slug: "viral-conjunctivitis-much-worse-if-low-vitamin-d-in-tears"
 aliases:
   - "/Viral+conjunctivitis+much+worse+if+low+vitamin+D+in+tears+–+April+2024"
-  - "/tiki-index.php?page_id=15226"
+  - "/15226"
+tiki_page_id: 15226
 date: 2024-04-19
 categories:
   - "Vision"

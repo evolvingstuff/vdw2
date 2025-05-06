@@ -3,7 +3,8 @@ title: "Asthma is poorly controlled if have 4 ng less Vitamin D"
 slug: "asthma-is-poorly-controlled-if-have-4-ng-less-vitamin-d"
 aliases:
   - "/Asthma+is+poorly+controlled+if+have+4+ng+less+Vitamin+D+–+April+2019"
-  - "/tiki-index.php?page_id=10813"
+  - "/10813"
+tiki_page_id: 10813
 date: 2019-05-25
 categories:
   - "Breathing"

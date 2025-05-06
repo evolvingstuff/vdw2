@@ -3,7 +3,8 @@ title: "Chemotherapy hair loss – prevented or treated by Vitamin D, US patent 
 slug: "chemotherapy-hair-loss-prevented-or-treated-by-vitamin-d-us-patent-application"
 aliases:
   - "/Chemotherapy+hair+loss+–+prevented+or+treated+by+Vitamin+D+US+patent+application+–+Nov+2019"
-  - "/tiki-index.php?page_id=11388"
+  - "/11388"
+tiki_page_id: 11388
 date: 2019-11-24
 categories:
   - "Cancer - after diagnosis"

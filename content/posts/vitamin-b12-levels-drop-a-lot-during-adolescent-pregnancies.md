@@ -3,7 +3,8 @@ title: "Vitamin B12 levels drop a lot during adolescent pregnancies"
 slug: "vitamin-b12-levels-drop-a-lot-during-adolescent-pregnancies"
 aliases:
   - "/Vitamin+B12+levels+drop+a+lot+during+adolescent+pregnancies+–+Feb+2019"
-  - "/tiki-index.php?page_id=10487"
+  - "/10487"
+tiki_page_id: 10487
 date: 2019-02-13
 categories:
   - "Pregnancy"

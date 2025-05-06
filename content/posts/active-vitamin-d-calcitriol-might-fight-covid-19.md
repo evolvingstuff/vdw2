@@ -3,7 +3,8 @@ title: "Active vitamin D (calcitriol) might fight COVID-19"
 slug: "active-vitamin-d-calcitriol-might-fight-covid-19"
 aliases:
   - "/Active+vitamin+D+calcitriol+might+fight+COVID-19+–+Jan+5+2021"
-  - "/tiki-index.php?page_id=12217"
+  - "/12217"
+tiki_page_id: 12217
 date: 2021-01-11
 categories:
   - "Calcitriol"

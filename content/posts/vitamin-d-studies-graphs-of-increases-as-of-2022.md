@@ -3,7 +3,8 @@ title: "Vitamin D studies -graphs of increases as of 2022"
 slug: "vitamin-d-studies-graphs-of-increases-as-of-2022"
 aliases:
   - "/Vitamin+D+studies+-graphs+of+increases+as+of+2022"
-  - "/tiki-index.php?page_id=14210"
+  - "/14210"
+tiki_page_id: 14210
 date: 2023-01-15
 categories:
   - "About D - more info."

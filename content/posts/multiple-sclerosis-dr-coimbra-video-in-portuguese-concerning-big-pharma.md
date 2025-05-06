@@ -3,7 +3,8 @@ title: "Multiple sclerosis - Dr. Coimbra Video in Portuguese concerning big phar
 slug: "multiple-sclerosis-dr-coimbra-video-in-portuguese-concerning-big-pharma"
 aliases:
   - "/Multiple+sclerosis+-+Dr+Coimbra+Video+in+Portuguese+concerning+big+pharma+-+May+2019"
-  - "/tiki-index.php?page_id=10758"
+  - "/10758"
+tiki_page_id: 10758
 date: 2019-05-10
 ---
 

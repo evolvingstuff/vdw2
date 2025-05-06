@@ -3,7 +3,8 @@ title: "60,000 IU dose of VItamin D (weekly, monthly) is popular in India"
 slug: "60000-iu-dose-of-vitamin-d-weekly-monthly-is-popular-in-india"
 aliases:
   - "/60000+IU+dose+of+VItamin+D+weekly+monthly+is+popular+in+India"
-  - "/tiki-index.php?page_id=12071"
+  - "/12071"
+tiki_page_id: 12071
 date: 2020-11-17
 categories:
   - "How much Vitamin D"

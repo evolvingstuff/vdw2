@@ -3,7 +3,8 @@ title: "Vitamin D was the most popular nutraceutical to avoid COVID – 41 perce
 slug: "vitamin-d-was-the-most-popular-nutraceutical-to-avoid-covid-41-percent-of-dentists-in-brazil"
 aliases:
   - "/Vitamin+D+was+the+most+popular+nutraceutical+to+avoid+COVID+–+41+percent+of+dentists+in+Brazil+–+Oct+2022"
-  - "/tiki-index.php?page_id=13982"
+  - "/13982"
+tiki_page_id: 13982
 date: 2022-10-05
 ---
 

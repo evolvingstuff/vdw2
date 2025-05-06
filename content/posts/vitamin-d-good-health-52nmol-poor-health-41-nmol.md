@@ -3,7 +3,8 @@ title: "Vitamin D – Good health: 52nmol, Poor health: 41 nmol"
 slug: "vitamin-d-good-health-52nmol-poor-health-41-nmol"
 aliases:
   - "/Vitamin+D+–+Good+health+52nmol+Poor+health+41+nmol+–+Nov+2021"
-  - "/tiki-index.php?page_id=13095"
+  - "/13095"
+tiki_page_id: 13095
 date: 2021-11-19
 categories:
   - "Deficiency of Vitamin D"

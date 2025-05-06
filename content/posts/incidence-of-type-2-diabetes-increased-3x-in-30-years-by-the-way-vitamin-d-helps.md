@@ -3,7 +3,8 @@ title: "Incidence of Type-2 Diabetes increased 3X in 30 years (by the way, Vitam
 slug: "incidence-of-type-2-diabetes-increased-3x-in-30-years-by-the-way-vitamin-d-helps"
 aliases:
   - "/Incidence+of+Type-2+Diabetes+increased+3X+in+30+years+by+the+way+Vitamin+D+helps+–+July+2022"
-  - "/tiki-index.php?page_id=13778"
+  - "/13778"
+tiki_page_id: 13778
 date: 2022-07-20
 categories:
   - "Diabetes"

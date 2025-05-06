@@ -3,7 +3,8 @@ title: "How I am reminded to take my Vitamin D once every 4 days"
 slug: "how-i-am-reminded-to-take-my-vitamin-d-once-every-4-days"
 aliases:
   - "/How+I+am+reminded+to+take+my+Vitamin+D+once+every+4+days"
-  - "/tiki-index.php?page_id=11529"
+  - "/11529"
+tiki_page_id: 11529
 date: 2020-01-05
 categories:
   - "How much Vitamin D"

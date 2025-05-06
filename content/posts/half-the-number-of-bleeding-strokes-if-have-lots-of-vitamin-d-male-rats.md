@@ -3,7 +3,8 @@ title: "Half the number of bleeding strokes if have lots of vitamin D (male rats
 slug: "half-the-number-of-bleeding-strokes-if-have-lots-of-vitamin-d-male-rats"
 aliases:
   - "/Half+the+number+of+bleeding+strokes+if+have+lots+of+vitamin+D+male+rats+–+Feb+2019"
-  - "/tiki-index.php?page_id=10468"
+  - "/10468"
+tiki_page_id: 10468
 date: 2019-02-05
 categories:
   - "Stroke"

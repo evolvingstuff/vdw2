@@ -3,7 +3,8 @@ title: "COVID Long-Haul fought by probiotics"
 slug: "covid-long-haul-fought-by-probiotics"
 aliases:
   - "/COVID+Long-Haul+fought+by+probiotics+-+Jan+2022"
-  - "/tiki-index.php?page_id=13294"
+  - "/13294"
+tiki_page_id: 13294
 date: 2022-01-29
 categories:
   - "Antibiotics, probiotics"

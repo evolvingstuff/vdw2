@@ -3,7 +3,8 @@ title: "10,000 years of gene changes: increasing many health problems, 2 Vitamin
 slug: "10000-years-of-gene-changes-increasing-many-health-problems-2-vitamin-d-changes"
 aliases:
   - "/10000+years+of+gene+changes+increasing+many+health+problems+2+Vitamin+D+changes+–+Aug+2022"
-  - "/tiki-index.php?page_id=13883"
+  - "/13883"
+tiki_page_id: 13883
 date: 2022-09-02
 categories:
   - "Genetics"

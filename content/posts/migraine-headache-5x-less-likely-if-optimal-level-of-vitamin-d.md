@@ -3,7 +3,8 @@ title: "Migraine headache 5X less likely if optimal level of vitamin D"
 slug: "migraine-headache-5x-less-likely-if-optimal-level-of-vitamin-d"
 aliases:
   - "/Migraine+headache+5X+less+likely+if+optimal+level+of+vitamin+D+–+Oct+2018"
-  - "/tiki-index.php?page_id=10147"
+  - "/10147"
+tiki_page_id: 10147
 date: 2018-10-21
 categories:
   - "Headache"

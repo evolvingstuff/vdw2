@@ -3,7 +3,8 @@ title: "Low vitamin D at ICU admission is associated with cancer, infections, ac
 slug: "low-vitamin-d-at-icu-admission-is-associated-with-cancer-infections-acute-respir-d-liver-failure"
 aliases:
   - "/Low+vitamin+D+at+ICU+admission+is+associated+with+cancer+infections+acute+respiratory+insufficiency+and+liver+failure+–+Oct+2018"
-  - "/tiki-index.php?page_id=10162"
+  - "/10162"
+tiki_page_id: 10162
 date: 2018-10-27
 categories:
   - "Trauma and surgery"

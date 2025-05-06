@@ -3,7 +3,8 @@ title: "Phosphate, Phosphatonins and Vitamin D - many studies"
 slug: "phosphate-phosphatonins-and-vitamin-d-many-studies"
 aliases:
   - "/Phosphate+Phosphatonins+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14002"
+  - "/14002"
+tiki_page_id: 14002
 date: 2022-10-10
 ---
 

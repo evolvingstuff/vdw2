@@ -3,7 +3,8 @@ title: "Prescription drugs are the 3rd cause of all US deaths, 4th  cause of  de
 slug: "prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital"
 aliases:
   - "/Prescription+drugs+are+the+3rd+cause+of+all+US+deaths+4th+cause+of+deaths+in+hospital+-+April+2024"
-  - "/tiki-index.php?page_id=15220"
+  - "/15220"
+tiki_page_id: 15220
 date: 2024-04-18
 categories:
   - "Health"

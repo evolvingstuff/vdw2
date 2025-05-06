@@ -3,7 +3,8 @@ title: "Cancer incidence and death reduced by both Vitamin D and UVB – Grant"
 slug: "cancer-incidence-and-death-reduced-by-both-vitamin-d-and-uvb-grant"
 aliases:
   - "/Cancer+incidence+and+death+reduced+by+both+Vitamin+D+and+UVB+–+Grant+Oct+2021"
-  - "/tiki-index.php?page_id=12989"
+  - "/12989"
+tiki_page_id: 12989
 date: 2021-10-15
 categories:
   - "Mortality and D"

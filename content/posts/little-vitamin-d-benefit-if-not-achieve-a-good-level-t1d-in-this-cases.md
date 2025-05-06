@@ -3,7 +3,8 @@ title: "Little Vitamin D benefit if not achieve a good level (T1D in this cases)
 slug: "little-vitamin-d-benefit-if-not-achieve-a-good-level-t1d-in-this-cases"
 aliases:
   - "/Little+Vitamin+D+benefit+if+not+achieve+a+good+level+T1D+in+this+cases+–+Jan+2021"
-  - "/tiki-index.php?page_id=12354"
+  - "/12354"
+tiki_page_id: 12354
 date: 2021-02-26
 categories:
   - "Diabetes"

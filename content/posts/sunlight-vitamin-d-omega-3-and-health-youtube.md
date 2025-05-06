@@ -3,7 +3,8 @@ title: "Sunlight, Vitamin D, Omega-3 and health – YouTube"
 slug: "sunlight-vitamin-d-omega-3-and-health-youtube"
 aliases:
   - "/Sunlight+Vitamin+D+Omega-3+and+health+–+YouTube+April+2019"
-  - "/tiki-index.php?page_id=11042"
+  - "/11042"
+tiki_page_id: 11042
 date: 2019-08-04
 categories:
   - "Noontime sun and D"

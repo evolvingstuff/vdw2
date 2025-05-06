@@ -3,7 +3,8 @@ title: "Infants getting 800 IU more vitamin D daily got no neuro benefit (virtua
 slug: "infants-getting-800-iu-more-vitamin-d-daily-got-no-neuro-benefit-virtually-all-f--sufficient-rct"
 aliases:
   - "/Infants+getting+800+IU+more+vitamin+D+daily+got+no+neuro+benefit+virtually+all+Fins+were+sufficient+–+RCT+Sept+2021"
-  - "/tiki-index.php?page_id=12887"
+  - "/12887"
+tiki_page_id: 12887
 date: 2021-09-08
 categories:
   - "Infant-Child"

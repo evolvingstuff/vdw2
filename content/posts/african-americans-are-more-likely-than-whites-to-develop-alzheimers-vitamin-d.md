@@ -3,7 +3,8 @@ title: "African Americans are more likely than whites to develop Alzheimer’s (
 slug: "african-americans-are-more-likely-than-whites-to-develop-alzheimers-vitamin-d"
 aliases:
   - "/African+Americans+are+more+likely+than+whites+to+develop+Alzheimers+Vitamin+D"
-  - "/tiki-index.php?page_id=10438"
+  - "/10438"
+tiki_page_id: 10438
 date: 2019-01-29
 categories:
   - "Skin - Dark"

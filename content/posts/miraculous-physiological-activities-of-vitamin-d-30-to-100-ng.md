@@ -3,7 +3,8 @@ title: "Miraculous Physiological Activities of Vitamin D (30 to 100 ng)"
 slug: "miraculous-physiological-activities-of-vitamin-d-30-to-100-ng"
 aliases:
   - "/Miraculous+Physiological+Activities+of+Vitamin+D+30+to+100+ng+–+Dec+2019"
-  - "/tiki-index.php?page_id=11442"
+  - "/11442"
+tiki_page_id: 11442
 date: 2019-12-10
 categories:
   - "About D - introduction"

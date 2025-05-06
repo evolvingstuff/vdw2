@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Follow-Thru on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/follow-thru/</link>
-    <description>Recent content in Follow-Thru on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/follow-thru/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vitamin D compliance 3X higher when children with fractures actually knew their low vitamin D level</title>
-      <link>http://localhost:1313/posts/vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level/</guid>
-      <description>&lt;h4 id=&#34;obtaining-vitamin-d-levels-in-children-with-fractures-improves-supplementation-compliance&#34;&gt;Obtaining Vitamin D Levels in Children With Fractures Improves Supplementation Compliance&lt;/h4&gt;&#xA;&lt;p&gt;Journal of Pediatric Orthopaedics: March 06, 2019 – &lt;a href=&#34;https://doi.org/10.1097/BPO.0000000000001363&#34;&gt;doi: 10.1097/BPO.0000000000001363&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Minkowitz, Barbara, MD*; Nadel, Leah, BA†; McDermott, Meghan, BA†; Cherna, Zachary, BS*; Ristic, Jennifer, PA-C, MMSc*; Chiu, Stephanie, MPH‡ AHS Bone Health Compliance Group&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Compliance = take at least 4 out of 7 days&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note: Study did not even consider the increased compliance from&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Less frequent dosing&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Starting with a loading dose so the benefits can be felt in days instead of months&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Follow-Thru on VitaminDWiki</title><link>//localhost:1313/categories/follow-thru.html</link><description>Recent content in Follow-Thru on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/follow-thru/index.xml" rel="self" type="application/rss+xml"/><item><title>Vitamin D compliance 3X higher when children with fractures actually knew their low vitamin D level</title><link>//localhost:1313/posts/vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level.html</link><pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-compliance-3x-higher-when-children-with-fractures-actually-knew-their-low-vitamin-d-level.html</guid><description>&lt;h4 id="obtaining-vitamin-d-levels-in-children-with-fractures-improves-supplementation-compliance">Obtaining Vitamin D Levels in Children With Fractures Improves Supplementation Compliance&lt;/h4>
+&lt;p>Journal of Pediatric Orthopaedics: March 06, 2019 – &lt;a href="https://doi.org/10.1097/BPO.0000000000001363">doi: 10.1097/BPO.0000000000001363&lt;/a>&lt;/p>
+&lt;p>Minkowitz, Barbara, MD*; Nadel, Leah, BA†; McDermott, Meghan, BA†; Cherna, Zachary, BS*; Ristic, Jennifer, PA-C, MMSc*; Chiu, Stephanie, MPH‡ AHS Bone Health Compliance Group&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Compliance = take at least 4 out of 7 days&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Note: Study did not even consider the increased compliance from&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Less frequent dosing&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Starting with a loading dose so the benefits can be felt in days instead of months&lt;/p></description></item></channel></rss>

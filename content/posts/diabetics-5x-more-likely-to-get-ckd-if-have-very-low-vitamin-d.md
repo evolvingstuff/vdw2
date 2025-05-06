@@ -3,7 +3,8 @@ title: "Diabetics 5X more-likely to get CKD if have very low Vitamin D"
 slug: "diabetics-5x-more-likely-to-get-ckd-if-have-very-low-vitamin-d"
 aliases:
   - "/Diabetics+5X+more-likely+to+get+CKD+if+have+very+low+Vitamin+D+–+June+2022"
-  - "/tiki-index.php?page_id=13723"
+  - "/13723"
+tiki_page_id: 13723
 date: 2022-06-30
 categories:
   - "Kidney"

@@ -3,7 +3,8 @@ title: "Mortality reduced by 35 percent if everyone had 50 ng of vitamin D - Gra
 slug: "mortality-reduced-by-35-percent-if-everyone-had-50-ng-of-vitamin-d-grant"
 aliases:
   - "/Mortality+reduced+by+35+percent+if+everyone+had+50+ng+of+vitamin+D+-+Grant+Oct+2021"
-  - "/tiki-index.php?page_id=12988"
+  - "/12988"
+tiki_page_id: 12988
 date: 2021-10-14
 categories:
   - "Mortality and D"

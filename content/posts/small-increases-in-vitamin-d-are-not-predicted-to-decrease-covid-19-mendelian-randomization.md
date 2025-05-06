@@ -3,7 +3,8 @@ title: "Small increases in Vitamin D are not predicted to decrease COVID-19 (Men
 slug: "small-increases-in-vitamin-d-are-not-predicted-to-decrease-covid-19-mendelian-randomization"
 aliases:
   - "/Small+increases+in+Vitamin+D+are+not+predicted+to+decrease+COVID-19+Mendelian+randomization+–+June+2021"
-  - "/tiki-index.php?page_id=12626"
+  - "/12626"
+tiki_page_id: 12626
 date: 2021-06-02
 categories:
   - "Virus"

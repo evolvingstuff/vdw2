@@ -3,7 +3,8 @@ title: "Need more than 2,000 IU daily to get obese people to 30 ng level of vita
 slug: "need-more-than-2000-iu-daily-to-get-obese-people-to-30-ng-level-of-vitamin-d-not-a-surprise-review"
 aliases:
   - "/Need+more+than+2000+IU+daily+to+get+obese+people+to+30+ng+level+of+vitamin+D+not+a+surprise+–+review+Jan+2022"
-  - "/tiki-index.php?page_id=13148"
+  - "/13148"
+tiki_page_id: 13148
 date: 2021-12-06
 categories:
   - "Obesity"

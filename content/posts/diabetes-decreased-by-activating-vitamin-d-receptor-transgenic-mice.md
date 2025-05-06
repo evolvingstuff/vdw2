@@ -3,7 +3,8 @@ title: "Diabetes decreased by activating Vitamin D Receptor (transgenic mice)"
 slug: "diabetes-decreased-by-activating-vitamin-d-receptor-transgenic-mice"
 aliases:
   - "/Diabetes+decreased+by+activating+Vitamin+D+Receptor+transgenic+mice+–+Feb+2020"
-  - "/tiki-index.php?page_id=11639"
+  - "/11639"
+tiki_page_id: 11639
 date: 2020-02-22
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "Low  vitamin D is a risk factor for obesity in adults and elderly - Revi
 slug: "low-vitamin-d-is-a-risk-factor-for-obesity-in-adults-and-elderly-review"
 aliases:
   - "/Low+vitamin+D+is+a+risk+factor+for+obesity+in+adults+and+elderly+-+Review+Jan+2021"
-  - "/tiki-index.php?page_id=12249"
+  - "/12249"
+tiki_page_id: 12249
 date: 2021-01-21
 categories:
   - "Obesity"

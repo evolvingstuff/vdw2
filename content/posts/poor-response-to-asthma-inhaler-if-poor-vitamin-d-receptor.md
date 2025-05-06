@@ -3,7 +3,8 @@ title: "Poor response to Asthma inhaler if poor Vitamin D Receptor"
 slug: "poor-response-to-asthma-inhaler-if-poor-vitamin-d-receptor"
 aliases:
   - "/Poor+response+to+Asthma+inhaler+if+poor+Vitamin+D+Receptor+–+Dec+2019"
-  - "/tiki-index.php?page_id=11502"
+  - "/11502"
+tiki_page_id: 11502
 date: 2019-12-26
 categories:
   - "Breathing"

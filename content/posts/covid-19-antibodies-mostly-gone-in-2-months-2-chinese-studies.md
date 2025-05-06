@@ -3,7 +3,8 @@ title: "COVID-19 antibodies mostly gone in 2 months (2 Chinese studies)"
 slug: "covid-19-antibodies-mostly-gone-in-2-months-2-chinese-studies"
 aliases:
   - "/COVID-19+antibodies+mostly+gone+in+2+months+2+Chinese+studies+–+June+2020"
-  - "/tiki-index.php?page_id=11842"
+  - "/11842"
+tiki_page_id: 11842
 date: 2020-07-14
 categories:
   - "Virus"

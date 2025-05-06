@@ -3,7 +3,8 @@ title: "Global Vitamin D recommendations - summer 2018"
 slug: "global-vitamin-d-recommendations-summer-2018"
 aliases:
   - "/Global+Vitamin+D+recommendations+-+summer+2018"
-  - "/tiki-index.php?page_id=9991"
+  - "/9991"
+tiki_page_id: 9991
 date: 2018-08-30
 categories:
   - "Top news"

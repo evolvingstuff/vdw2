@@ -3,7 +3,8 @@ title: "Fat accumulates in legs or arms if low vitamin D"
 slug: "fat-accumulates-in-legs-or-arms-if-low-vitamin-d"
 aliases:
   - "/Fat+accumulates+in+legs+or+arms+if+low+vitamin+D+-+Jan+2024"
-  - "/tiki-index.php?page_id=14871"
+  - "/14871"
+tiki_page_id: 14871
 date: 2023-12-08
 categories:
   - "Obesity"

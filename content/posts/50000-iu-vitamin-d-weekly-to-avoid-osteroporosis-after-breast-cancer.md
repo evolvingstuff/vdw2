@@ -3,7 +3,8 @@ title: "50,000 IU vitamin D weekly to avoid Osteroporosis after Breast Cancer"
 slug: "50000-iu-vitamin-d-weekly-to-avoid-osteroporosis-after-breast-cancer"
 aliases:
   - "/50000+IU+vitamin+D+weekly+to+avoid+Osteroporosis+after+Breast+Cancer+-+May+2020"
-  - "/tiki-index.php?page_id=12089"
+  - "/12089"
+tiki_page_id: 12089
 date: 2020-11-25
 categories:
   - "How much Vitamin D"

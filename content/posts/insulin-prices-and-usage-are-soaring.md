@@ -3,7 +3,8 @@ title: "Insulin prices and usage are soaring"
 slug: "insulin-prices-and-usage-are-soaring"
 aliases:
   - "/Insulin+prices+and+usage+are+soaring"
-  - "/tiki-index.php?page_id=10642"
+  - "/10642"
+tiki_page_id: 10642
 date: 2019-04-02
 categories:
   - "Diabetes"

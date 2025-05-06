@@ -3,7 +3,8 @@ title: "Autoimmune RA, SLE, SSc, genes and Vitamin D"
 slug: "autoimmune-ra-sle-ssc-genes-and-vitamin-d"
 aliases:
   - "/Autoimmune+RA+SLE+SSc+genes+and+Vitamin+D+–+March+2023"
-  - "/tiki-index.php?page_id=14340"
+  - "/14340"
+tiki_page_id: 14340
 date: 2023-03-29
 categories:
   - "Lupus"

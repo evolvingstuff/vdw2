@@ -3,7 +3,8 @@ title: "Monkeypox - many items in 2022"
 slug: "monkeypox-many-items-in-2022"
 aliases:
   - "/Monkeypox+-+many+items+in+2022"
-  - "/tiki-index.php?page_id=13775"
+  - "/13775"
+tiki_page_id: 13775
 date: 2022-07-19
 categories:
   - "Virus"

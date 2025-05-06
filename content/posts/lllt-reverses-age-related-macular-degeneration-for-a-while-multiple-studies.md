@@ -3,7 +3,8 @@ title: "LLLT reverses Age-related Macular Degeneration for a while - multiple st
 slug: "lllt-reverses-age-related-macular-degeneration-for-a-while-multiple-studies"
 aliases:
   - "/LLLT+reverses+Age-related+Macular+Degeneration+for+a+while+-+multiple+studies"
-  - "/tiki-index.php?page_id=10641"
+  - "/10641"
+tiki_page_id: 10641
 date: 2019-04-02
 categories:
   - "Vision"

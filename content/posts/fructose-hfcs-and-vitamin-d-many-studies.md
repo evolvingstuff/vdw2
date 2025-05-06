@@ -3,7 +3,8 @@ title: "Fructose, HFCS and Vitamin D - many studies"
 slug: "fructose-hfcs-and-vitamin-d-many-studies"
 aliases:
   - "/Fructose+HFCS+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14779"
+  - "/14779"
+tiki_page_id: 14779
 date: 2023-10-24
 categories:
   - "Interactions with Vitamin D"

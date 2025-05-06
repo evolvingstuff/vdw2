@@ -3,7 +3,8 @@ title: "Response to infant 2,000 IU Vitamin D daily was in 194 ng, monthly dosin
 slug: "response-to-infant-2000-iu-vitamin-d-daily-was-in-194-ng-monthly-dosing-was-20-percent-less-rct"
 aliases:
   - "/Response+to+infant+2000+IU+Vitamin+D+daily+was+in+194+ng+monthly+dosing+was+20+less+–+RCT+May+2023"
-  - "/tiki-index.php?page_id=14429"
+  - "/14429"
+tiki_page_id: 14429
 date: 2023-05-17
 categories:
   - "Intervention"

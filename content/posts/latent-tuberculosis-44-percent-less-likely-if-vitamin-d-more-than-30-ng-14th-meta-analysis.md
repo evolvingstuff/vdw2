@@ -3,7 +3,8 @@ title: "Latent Tuberculosis 44 percent less likely if Vitamin D more than 30 ng 
 slug: "latent-tuberculosis-44-percent-less-likely-if-vitamin-d-more-than-30-ng-14th-meta-analysis"
 aliases:
   - "/Latent+Tuberculosis+44+percent+less+likely+if+Vitamin+D+more+than+30+ng+-+14th+meta-analysis+Jan+2022"
-  - "/tiki-index.php?page_id=13308"
+  - "/13308"
+tiki_page_id: 13308
 date: 2022-01-31
 categories:
   - "Tuberculosis"

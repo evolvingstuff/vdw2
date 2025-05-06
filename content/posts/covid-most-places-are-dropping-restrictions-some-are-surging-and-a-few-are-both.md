@@ -3,7 +3,8 @@ title: "COVID: most places are dropping restrictions, some are surging, and a fe
 slug: "covid-most-places-are-dropping-restrictions-some-are-surging-and-a-few-are-both"
 aliases:
   - "/COVID+most+places+are+dropping+restrictions+some+are+surging+and+a+few+are+both+-+March+15+2022"
-  - "/tiki-index.php?page_id=13405"
+  - "/13405"
+tiki_page_id: 13405
 date: 2022-03-16
 categories:
   - "Virus"

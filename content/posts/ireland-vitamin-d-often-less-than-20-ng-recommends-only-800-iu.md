@@ -3,7 +3,8 @@ title: "Ireland - Vitamin D often less than 20 ng, recommends only 800 IU"
 slug: "ireland-vitamin-d-often-less-than-20-ng-recommends-only-800-iu"
 aliases:
   - "/Ireland+-+Vitamin+D+often+less+than+20+ng+recommends+only+800+IU+-+April+2021"
-  - "/tiki-index.php?page_id=12485"
+  - "/12485"
+tiki_page_id: 12485
 date: 2021-04-08
 categories:
   - "Vitamin D in Europe"

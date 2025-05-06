@@ -3,7 +3,8 @@ title: "Towards a COVID-19 vaccine - France"
 slug: "towards-a-covid-19-vaccine-france"
 aliases:
   - "/Towards+a+COVID-19+vaccine+-+France+April+142020"
-  - "/tiki-index.php?page_id=11741"
+  - "/11741"
+tiki_page_id: 11741
 date: 2020-04-21
 categories:
   - "Virus"

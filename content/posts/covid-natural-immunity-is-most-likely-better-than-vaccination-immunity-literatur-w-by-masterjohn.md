@@ -3,7 +3,8 @@ title: "COVID natural Immunity is most likely better than vaccination immunity- 
 slug: "covid-natural-immunity-is-most-likely-better-than-vaccination-immunity-literatur-w-by-masterjohn"
 aliases:
   - "/COVID+natural+Immunity+is+most+likely+better+than+vaccination+immunity-+literature+review+by+Masterjohn+-+Oct+2021"
-  - "/tiki-index.php?page_id=13016"
+  - "/13016"
+tiki_page_id: 13016
 date: 2021-10-24
 categories:
   - "Virus"

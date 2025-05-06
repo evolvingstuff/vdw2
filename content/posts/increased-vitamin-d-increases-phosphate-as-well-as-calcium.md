@@ -3,7 +3,8 @@ title: "Increased Vitamin D increases Phosphate as well as Calcium"
 slug: "increased-vitamin-d-increases-phosphate-as-well-as-calcium"
 aliases:
   - "/Increased+Vitamin+D+increases+Phosphate+as+well+as+Calcium+–+Dec+2020"
-  - "/tiki-index.php?page_id=12157"
+  - "/12157"
+tiki_page_id: 12157
 date: 2020-12-19
 categories:
   - "Bone - Health"

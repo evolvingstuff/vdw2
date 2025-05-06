@@ -3,7 +3,8 @@ title: "Typical stress fracture during US Navy training cost 14,953 dollars, mos
 slug: "typical-stress-fracture-during-us-navy-training-cost-14953-dollars-most-had-less-40-ng-vitamin-d"
 aliases:
   - "/Typical+stress+fracture+during+US+Navy+training+cost+14953+dollars+most+had+less+than+40+ng+Vitamin+D+-+June+2022"
-  - "/tiki-index.php?page_id=13805"
+  - "/13805"
+tiki_page_id: 13805
 date: 2022-07-28
 categories:
   - "Bone - Health"

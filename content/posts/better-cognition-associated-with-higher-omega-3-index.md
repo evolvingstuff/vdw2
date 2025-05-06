@@ -3,7 +3,8 @@ title: "Better cognition associated with higher Omega-3 index"
 slug: "better-cognition-associated-with-higher-omega-3-index"
 aliases:
   - "/Better+cognition+associated+with+higher+Omega-3+index+–+Sept+2023"
-  - "/tiki-index.php?page_id=14804"
+  - "/14804"
+tiki_page_id: 14804
 date: 2023-11-01
 categories:
   - "Cognitive"

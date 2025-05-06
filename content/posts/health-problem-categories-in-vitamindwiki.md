@@ -3,7 +3,8 @@ title: "Health Problem categories in VitaminDWiki"
 slug: "health-problem-categories-in-vitamindwiki"
 aliases:
   - "/Health+Problem+categories+in+VitaminDWiki+Jan+2019"
-  - "/tiki-index.php?page_id=10380"
+  - "/10380"
+tiki_page_id: 10380
 date: 2019-01-07
 ---
 

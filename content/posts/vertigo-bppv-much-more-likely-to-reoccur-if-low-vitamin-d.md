@@ -3,7 +3,8 @@ title: "Vertigo (BPPV) much more likely to reoccur if low Vitamin D"
 slug: "vertigo-bppv-much-more-likely-to-reoccur-if-low-vitamin-d"
 aliases:
   - "/Vertigo+BPPV+much+more+likely+to+reoccur+if+low+Vitamin+D+–+Feb+2019"
-  - "/tiki-index.php?page_id=10533"
+  - "/10533"
+tiki_page_id: 10533
 date: 2019-03-01
 categories:
   - "Seniors"

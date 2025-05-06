@@ -3,7 +3,8 @@ title: "2.9 X less risk of COVID ICU if seniors had supplemented with Vitamin D 
 slug: "29-x-less-risk-of-covid-icu-if-seniors-had-supplemented-with-vitamin-d-any-amount"
 aliases:
   - "/29+X+less+risk+of+COVID+ICU+if+seniors+had+supplemented+with+Vitamin+D+any+amount+–+April+2022"
-  - "/tiki-index.php?page_id=13478"
+  - "/13478"
+tiki_page_id: 13478
 date: 2022-04-14
 categories:
   - "Seniors"

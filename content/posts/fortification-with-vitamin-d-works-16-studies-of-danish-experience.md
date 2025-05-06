@@ -3,7 +3,8 @@ title: "Fortification with Vitamin D works – 16 studies of Danish experience"
 slug: "fortification-with-vitamin-d-works-16-studies-of-danish-experience"
 aliases:
   - "/Fortification+with+Vitamin+D+works+–+16+studies+of+Danish+experience+–+July+2021"
-  - "/tiki-index.php?page_id=12790"
+  - "/12790"
+tiki_page_id: 12790
 date: 2021-07-31
 categories:
   - "Top news"

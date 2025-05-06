@@ -3,7 +3,8 @@ title: "COVID cost the US 18,000 dollars per survivor, and many excess deaths"
 slug: "covid-cost-the-us-18000-dollars-per-survivor-and-many-excess-deaths"
 aliases:
   - "/COVID+cost+the+US+18000+dollars+per+survivor+and+many+excess+deaths+-+July+2023"
-  - "/tiki-index.php?page_id=14527"
+  - "/14527"
+tiki_page_id: 14527
 date: 2023-07-09
 categories:
   - "Virus"

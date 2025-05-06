@@ -3,7 +3,8 @@ title: "Estimated cost savings of getting most Canadians to 40 ng of Vitamin D -
 slug: "estimated-cost-savings-of-getting-most-canadians-to-40-ng-of-vitamin-d-2016"
 aliases:
   - "/Estimated+cost+savings+of+getting+most+Canadians+to+40+ng+of+Vitamin+D+-+2016"
-  - "/tiki-index.php?page_id=14637"
+  - "/14637"
+tiki_page_id: 14637
 date: 2023-08-26
 categories:
   - "Cost savings with Vitamin D"

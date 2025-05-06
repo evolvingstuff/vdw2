@@ -3,7 +3,8 @@ title: "Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More 
 slug: "infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better"
 aliases:
   - "/Infants+have+gotten+free+400+IU+of+vitamin+D+in+Turkey+since+2005+More+for+longer+would+be+even+better+–+Feb+2022"
-  - "/tiki-index.php?page_id=13316"
+  - "/13316"
+tiki_page_id: 13316
 date: 2022-02-04
 categories:
   - "Middle East"

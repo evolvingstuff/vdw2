@@ -3,7 +3,8 @@ title: "An mRNA therapy kills 99 percent of COVID-19 virus (lungs of Australian 
 slug: "an-mrna-therapy-kills-99-percent-of-covid-19-virus-lungs-of-australian-mice"
 aliases:
   - "/An+mRNA+therapy+kills+99+percent+of+COVID-19+virus+lungs+of+Australian+mice+–+May+18+2021"
-  - "/tiki-index.php?page_id=12587"
+  - "/12587"
+tiki_page_id: 12587
 date: 2021-05-18
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "COVID-19 and high-dose Vitamin D - Video interview of Dr. Coimbra"
 slug: "covid-19-and-high-dose-vitamin-d-video-interview-of-dr-coimbra"
 aliases:
   - "/COVID-19+and+high-dose+Vitamin+D+-+Video+interview+of+Dr+Coimbra+-+May+2020"
-  - "/tiki-index.php?page_id=11761"
+  - "/11761"
+tiki_page_id: 11761
 date: 2020-05-09
 categories:
   - "Books, videos on Vitamin D"

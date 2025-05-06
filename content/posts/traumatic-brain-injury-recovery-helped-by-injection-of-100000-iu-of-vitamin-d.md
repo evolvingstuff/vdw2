@@ -3,7 +3,8 @@ title: "Traumatic Brain Injury recovery helped by injection of 100,000 IU of Vit
 slug: "traumatic-brain-injury-recovery-helped-by-injection-of-100000-iu-of-vitamin-d"
 aliases:
   - "/Traumatic+Brain+Injury+recovery+helped+by+injection+of+100000+IU+of+Vitamin+D+–+March+2019"
-  - "/tiki-index.php?page_id=10767"
+  - "/10767"
+tiki_page_id: 10767
 date: 2019-05-13
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Low birth weight far more likely if African-American (low vitamin D) –
 slug: "low-birth-weight-far-more-likely-if-african-american-low-vitamin-d-1997"
 aliases:
   - "/Low+birth+weight+far+more+likely+if+African-American+low+vitamin+D+–+1997+Aug+2018"
-  - "/tiki-index.php?page_id=10236"
+  - "/10236"
+tiki_page_id: 10236
 date: 2018-11-26
 categories:
   - "Skin - Dark"

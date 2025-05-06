@@ -3,7 +3,8 @@ title: "Rate of COVID-19 test positive is 40 pcnt lower if high vitamin D (192,0
 slug: "rate-of-covid-19-test-positive-is-40-pcnt-lower-if-high-vitamin-d-192000-people-holick"
 aliases:
   - "/Rate+of+COVID-19+test+positive+is+40+pcnt+lower+if+high+vitamin+D+192000+people+-+Holick+Sept+2020"
-  - "/tiki-index.php?page_id=11958"
+  - "/11958"
+tiki_page_id: 11958
 date: 2020-09-17
 categories:
   - "Skin - Dark"

@@ -3,7 +3,8 @@ title: "An apple a day keeps the doctor away (reduces all-cause mortality by 35%
 slug: "an-apple-a-day-keeps-the-doctor-away-reduces-all-cause-mortality-by-35-percent"
 aliases:
   - "/An+apple+a+day+keeps+the+doctor+away+reduces+all-cause+mortality+by+35+–+July+2023"
-  - "/tiki-index.php?page_id=14575"
+  - "/14575"
+tiki_page_id: 14575
 date: 2023-07-31
 categories:
   - "Greger"

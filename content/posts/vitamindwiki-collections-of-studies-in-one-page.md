@@ -3,7 +3,8 @@ title: "VitaminDWiki collections of studies in one page"
 slug: "vitamindwiki-collections-of-studies-in-one-page"
 aliases:
   - "/VitaminDWiki+collections+of+studies+in+one+page"
-  - "/tiki-index.php?page_id=14858"
+  - "/14858"
+tiki_page_id: 14858
 date: 2023-12-03
 ---
 

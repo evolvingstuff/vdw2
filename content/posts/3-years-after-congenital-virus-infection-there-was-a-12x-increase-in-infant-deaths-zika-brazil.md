@@ -3,7 +3,8 @@ title: "3 years after congenital virus infection there was a 12X increase in inf
 slug: "3-years-after-congenital-virus-infection-there-was-a-12x-increase-in-infant-deaths-zika-brazil"
 aliases:
   - "/3+years+after+congenital+virus+infection+there+was+a+12X+increase+in+infant+deaths+Zika+Brazil+-+Feb+2022"
-  - "/tiki-index.php?page_id=13356"
+  - "/13356"
+tiki_page_id: 13356
 date: 2022-02-27
 categories:
   - "Pregnancy"

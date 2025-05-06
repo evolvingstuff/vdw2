@@ -3,7 +3,8 @@ title: "Melanoma risk reduced by Vitamin D and other nutrients - many studies"
 slug: "melanoma-risk-reduced-by-vitamin-d-and-other-nutrients-many-studies"
 aliases:
   - "/Melanoma+risk+reduced+by+Vitamin+D+and+other+nutrients+-+many+studies"
-  - "/tiki-index.php?page_id=14780"
+  - "/14780"
+tiki_page_id: 14780
 date: 2023-10-24
 categories:
   - "Cancer - Skin"

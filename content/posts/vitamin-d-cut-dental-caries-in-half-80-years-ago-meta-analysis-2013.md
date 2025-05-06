@@ -3,7 +3,8 @@ title: "Vitamin D cut dental caries in half 80 years ago – meta-analysis 2013"
 slug: "vitamin-d-cut-dental-caries-in-half-80-years-ago-meta-analysis-2013"
 aliases:
   - "/Vitamin+D+cut+dental+caries+in+half+80+years+ago+–+meta-analysis+2013"
-  - "/tiki-index.php?page_id=11287"
+  - "/11287"
+tiki_page_id: 11287
 date: 2019-10-29
 categories:
   - "Dental"

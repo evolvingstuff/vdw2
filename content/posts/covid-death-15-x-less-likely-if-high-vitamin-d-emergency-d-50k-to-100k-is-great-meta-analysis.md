@@ -3,7 +3,8 @@ title: "COVID death 1.5 X less likely if high vitamin D, emergency D (50K to 100
 slug: "covid-death-15-x-less-likely-if-high-vitamin-d-emergency-d-50k-to-100k-is-great-meta-analysis"
 aliases:
   - "/COVID+death+15+X+less+likely+if+high+vitamin+D+emergency+D+50K+to+100K+is+great+–+meta-analysis+March+2023"
-  - "/tiki-index.php?page_id=14364"
+  - "/14364"
+tiki_page_id: 14364
 date: 2023-04-08
 categories:
   - "Meta-analysis of Vitamin D"

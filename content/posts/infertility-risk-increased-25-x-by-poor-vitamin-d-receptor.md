@@ -3,7 +3,8 @@ title: "Infertility risk increased 2.5 X by poor Vitamin D Receptor"
 slug: "infertility-risk-increased-25-x-by-poor-vitamin-d-receptor"
 aliases:
   - "/Infertility+risk+increased+25+X+by+poor+Vitamin+D+Receptor+–+July+2023"
-  - "/tiki-index.php?page_id=14562"
+  - "/14562"
+tiki_page_id: 14562
 date: 2023-07-28
 categories:
   - "Fertility and sperm"

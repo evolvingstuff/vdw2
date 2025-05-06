@@ -3,7 +3,8 @@ title: "Cancer Immunotherapy is enhanced by a Vitamin D loading dose"
 slug: "cancer-immunotherapy-is-enhanced-by-a-vitamin-d-loading-dose"
 aliases:
   - "/Cancer+Immunotherapy+is+enhanced+by+a+Vitamin+D+loading+dose+-+Aug+2023"
-  - "/tiki-index.php?page_id=14929"
+  - "/14929"
+tiki_page_id: 14929
 date: 2023-12-29
 categories:
   - "Cancer - after diagnosis"

@@ -3,7 +3,8 @@ title: "Fetus conceived by slender mom grown by obese mom is more likely will be
 slug: "fetus-conceived-by-slender-mom-grown-by-obese-mom-is-more-likely-will-become-obese"
 aliases:
   - "/Fetus+conceived+by+slender+mom+grown+by+obese+mom+is+more+likely+will+become+obese+-+Sept+2020"
-  - "/tiki-index.php?page_id=11980"
+  - "/11980"
+tiki_page_id: 11980
 date: 2020-10-01
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Vitamin D and COVID papers - top authors and organizations"
 slug: "vitamin-d-and-covid-papers-top-authors-and-organizations"
 aliases:
   - "/Vitamin+D+and+COVID+papers+-+top+authors+and+organizations+-+Dec+2021"
-  - "/tiki-index.php?page_id=13178"
+  - "/13178"
+tiki_page_id: 13178
 date: 2021-12-13
 categories:
   - "Virus"

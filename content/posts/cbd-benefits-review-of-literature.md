@@ -3,7 +3,8 @@ title: "CBD benefits - review of literature"
 slug: "cbd-benefits-review-of-literature"
 aliases:
   - "/CBD+benefits+-+review+of+literature+April+2019"
-  - "/tiki-index.php?page_id=10678"
+  - "/10678"
+tiki_page_id: 10678
 date: 2019-04-20
 ---
 

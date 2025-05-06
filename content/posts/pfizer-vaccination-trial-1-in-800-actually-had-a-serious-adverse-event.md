@@ -3,7 +3,8 @@ title: "Pfizer vaccination trial – 1 in 800 actually had a serious adverse eve
 slug: "pfizer-vaccination-trial-1-in-800-actually-had-a-serious-adverse-event"
 aliases:
   - "/Pfizer+vaccination+trial+–+1+in+800+actually+had+a+serious+adverse+event+–+Sept+2022"
-  - "/tiki-index.php?page_id=13916"
+  - "/13916"
+tiki_page_id: 13916
 date: 2022-09-15
 categories:
   - "Virus"

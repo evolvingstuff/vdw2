@@ -3,7 +3,8 @@ title: "Pigs used to get the flu only in the winter ( had got Vitamin D in the s
 slug: "pigs-used-to-get-the-flu-only-in-the-winter-had-got-vitamin-d-in-the-summer"
 aliases:
   - "/Pigs+used+to+get+the+flu+only+in+the+winter+had+got+Vitamin+D+in+the+summer+-+Nov+2018"
-  - "/tiki-index.php?page_id=10184"
+  - "/10184"
+tiki_page_id: 10184
 date: 2018-11-04
 categories:
   - "Veterinary and Vitamin D"

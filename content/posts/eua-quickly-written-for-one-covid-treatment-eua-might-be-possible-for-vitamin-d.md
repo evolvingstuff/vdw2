@@ -3,7 +3,8 @@ title: "EUA quickly written for one COVID treatment, EUA might be possible for V
 slug: "eua-quickly-written-for-one-covid-treatment-eua-might-be-possible-for-vitamin-d"
 aliases:
   - "/EUA+quickly+written+for+one+COVID+treatment+EUA+might+be+possible+for+Vitamin+D+-+Dec+30+2021"
-  - "/tiki-index.php?page_id=13232"
+  - "/13232"
+tiki_page_id: 13232
 date: 2021-12-30
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "COVID increased seniors risk of Alzheimer's by 1.7X in the next year"
 slug: "covid-increased-seniors-risk-of-alzheimers-by-17x-in-the-next-year"
 aliases:
   - "/COVID+increased+seniors+risk+of+Alzheimers+by+17X+in+the+next+year-+Sept+2022"
-  - "/tiki-index.php?page_id=13918"
+  - "/13918"
+tiki_page_id: 13918
 date: 2022-09-16
 categories:
   - "Cognitive"

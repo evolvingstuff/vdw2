@@ -3,7 +3,8 @@ title: "CAD patients with low vitamin D were 1.6 X more likely to die – 27th m
 slug: "cad-patients-with-low-vitamin-d-were-16-x-more-likely-to-die-27th-meta-analysis"
 aliases:
   - "/CAD+patients+with+low+vitamin+D+were+16+X+more+likely+to+die+–+27th+meta-analysis+Aug+2022"
-  - "/tiki-index.php?page_id=13875"
+  - "/13875"
+tiki_page_id: 13875
 date: 2022-08-29
 categories:
   - "Cardiovascular"

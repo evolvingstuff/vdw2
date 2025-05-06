@@ -3,7 +3,8 @@ title: "Vitamin D WOW stories"
 slug: "vitamin-d-wow-stories"
 aliases:
   - "/Vitamin+D+WOW+stories"
-  - "/tiki-index.php?page_id=11713"
+  - "/11713"
+tiki_page_id: 11713
 date: 2020-04-05
 ---
 

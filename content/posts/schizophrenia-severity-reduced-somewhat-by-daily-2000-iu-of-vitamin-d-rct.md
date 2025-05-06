@@ -3,7 +3,8 @@ title: "Schizophrenia severity reduced somewhat by daily 2,000 IU of Vitamin D â
 slug: "schizophrenia-severity-reduced-somewhat-by-daily-2000-iu-of-vitamin-d-rct"
 aliases:
   - "/Schizophrenia+severity+reduced+somewhat+by+daily+2000+IU+of+Vitamin+D+â€“+RCT+Aug+2023"
-  - "/tiki-index.php?page_id=14593"
+  - "/14593"
+tiki_page_id: 14593
 date: 2023-08-07
 categories:
   - "Cognitive"

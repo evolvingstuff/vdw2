@@ -3,7 +3,8 @@ title: "Overactive bladder 32 X more likely if very low vitamin D"
 slug: "overactive-bladder-32-x-more-likely-if-very-low-vitamin-d"
 aliases:
   - "/Overactive+bladder+32+X+more+likely+if+very+low+vitamin+D+–+April+2019"
-  - "/tiki-index.php?page_id=10960"
+  - "/10960"
+tiki_page_id: 10960
 date: 2019-07-07
 categories:
   - "Seniors"

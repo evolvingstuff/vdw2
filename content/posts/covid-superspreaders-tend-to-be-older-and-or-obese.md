@@ -3,7 +3,8 @@ title: "COVID Superspreaders tend to be older and or obese"
 slug: "covid-superspreaders-tend-to-be-older-and-or-obese"
 aliases:
   - "/COVID+Superspreaders+tend+to+be+older+and+or+obese+–+Feb+2021"
-  - "/tiki-index.php?page_id=13098"
+  - "/13098"
+tiki_page_id: 13098
 date: 2021-11-20
 ---
 

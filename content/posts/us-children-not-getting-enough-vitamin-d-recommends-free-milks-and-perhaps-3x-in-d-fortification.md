@@ -3,7 +3,8 @@ title: "US children not getting enough vitamin D, recommends free milks and perh
 slug: "us-children-not-getting-enough-vitamin-d-recommends-free-milks-and-perhaps-3x-in-d-fortification"
 aliases:
   - "/US+children+not+getting+enough+vitamin+D+recommends+free+milks+and+perhaps+3X+increased+fortification+–+Sept+2022"
-  - "/tiki-index.php?page_id=13963"
+  - "/13963"
+tiki_page_id: 13963
 date: 2022-10-02
 categories:
   - "Infant-Child"

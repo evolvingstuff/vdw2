@@ -3,7 +3,8 @@ title: "Many viral infections can be fought by Vitamin D (Astronaut’s in this 
 slug: "many-viral-infections-can-be-fought-by-vitamin-d-astronauts-in-this-case"
 aliases:
   - "/Many+viral+infections+can+be+fought+by+Vitamin+D+Astronauts+in+this+case–+Aug+2022"
-  - "/tiki-index.php?page_id=13878"
+  - "/13878"
+tiki_page_id: 13878
 date: 2022-08-30
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "COVID winter is coming again in Northern US, Canada, Europe, Russia"
 slug: "covid-winter-is-coming-again-in-northern-us-canada-europe-russia"
 aliases:
   - "/COVID+winter+is+coming+again+in+Northern+US+Canada+Europe+Russia+-+Nov+2021"
-  - "/tiki-index.php?page_id=13010"
+  - "/13010"
+tiki_page_id: 13010
 date: 2021-10-20
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Time-release of Vitamin D near bone"
 slug: "time-release-of-vitamin-d-near-bone"
 aliases:
   - "/Time-release+of+Vitamin+D+near+bone+-+Dec+2021"
-  - "/tiki-index.php?page_id=13192"
+  - "/13192"
+tiki_page_id: 13192
 date: 2021-12-15
 categories:
   - "Forms of Vitamin D"

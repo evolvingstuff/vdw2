@@ -3,7 +3,8 @@ title: "Stoss (loading) dose of vitamin D resulted in bigger response at 30 days
 slug: "stoss-loading-dose-of-vitamin-d-resulted-in-bigger-response-at-30-days-again-rct"
 aliases:
   - "/Stoss+loading+dose+of+vitamin+D+resulted+in+bigger+response+at+30+days+again+–+RCT+April+2021"
-  - "/tiki-index.php?page_id=12518"
+  - "/12518"
+tiki_page_id: 12518
 date: 2021-04-20
 categories:
   - "Loading dose for Vitamin D"

@@ -3,7 +3,8 @@ title: "Many sleep problems are associated with low Vitamin D (children in this 
 slug: "many-sleep-problems-are-associated-with-low-vitamin-d-children-in-this-case"
 aliases:
   - "/Many+sleep+problems+are+associated+with+low+Vitamin+D+children+in+this+case+-+Jan+2022"
-  - "/tiki-index.php?page_id=13302"
+  - "/13302"
+tiki_page_id: 13302
 date: 2022-01-30
 categories:
   - "Sleep"

@@ -3,7 +3,8 @@ title: "Low muscle strength predicts low vitamin D level in elderly"
 slug: "low-muscle-strength-predicts-low-vitamin-d-level-in-elderly"
 aliases:
   - "/Low+muscle+strength+predicts+low+vitamin+D+level+in+elderly+–+March+2021"
-  - "/tiki-index.php?page_id=12564"
+  - "/12564"
+tiki_page_id: 12564
 date: 2021-05-06
 categories:
   - "Seniors"

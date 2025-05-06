@@ -3,7 +3,8 @@ title: "Celiac Disease associated with deficiencies of Zinc etc"
 slug: "celiac-disease-associated-with-deficiencies-of-zinc-etc"
 aliases:
   - "/Celiac+Disease+associated+with+deficiencies+of+Zinc+etc+–+July+2019"
-  - "/tiki-index.php?page_id=10966"
+  - "/10966"
+tiki_page_id: 10966
 date: 2019-07-10
 categories:
   - "Gut"

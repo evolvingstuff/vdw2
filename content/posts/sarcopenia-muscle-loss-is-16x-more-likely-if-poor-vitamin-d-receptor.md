@@ -3,7 +3,8 @@ title: "Sarcopenia (muscle loss) is 1.6X more likely if poor Vitamin D receptor"
 slug: "sarcopenia-muscle-loss-is-16x-more-likely-if-poor-vitamin-d-receptor"
 aliases:
   - "/Sarcopenia+muscle+loss+is+16X+more+likely+if+poor+Vitamin+D+receptor+–+July+2020"
-  - "/tiki-index.php?page_id=11860"
+  - "/11860"
+tiki_page_id: 11860
 date: 2020-07-23
 categories:
   - "Seniors"

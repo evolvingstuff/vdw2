@@ -3,7 +3,8 @@ title: "Knee osteoarthritis helped by Low Level Laser Therapy"
 slug: "knee-osteoarthritis-helped-by-low-level-laser-therapy"
 aliases:
   - "/Knee+osteoarthritis+helped+by+Low+Level+Laser+Therapy"
-  - "/tiki-index.php?page_id=11309"
+  - "/11309"
+tiki_page_id: 11309
 date: 2019-11-04
 categories:
   - "Osteoarthritis"

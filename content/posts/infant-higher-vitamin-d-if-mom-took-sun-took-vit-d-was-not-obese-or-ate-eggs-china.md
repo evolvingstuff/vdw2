@@ -3,7 +3,8 @@ title: "Infant higher Vitamin D if mom took sun, took Vit D, was not obese, or a
 slug: "infant-higher-vitamin-d-if-mom-took-sun-took-vit-d-was-not-obese-or-ate-eggs-china"
 aliases:
   - "/Infant+higher+Vitamin+D+if+mom+took+sun+took+Vit+D+was+not+obese+or+ate+eggs+China+–+Feb+2019"
-  - "/tiki-index.php?page_id=10483"
+  - "/10483"
+tiki_page_id: 10483
 date: 2019-02-12
 categories:
   - "Pregnancy"

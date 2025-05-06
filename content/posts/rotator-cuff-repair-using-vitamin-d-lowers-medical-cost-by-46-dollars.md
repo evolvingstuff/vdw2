@@ -3,7 +3,8 @@ title: "Rotator Cuff repair using Vitamin D lowers medical cost by 46 dollars"
 slug: "rotator-cuff-repair-using-vitamin-d-lowers-medical-cost-by-46-dollars"
 aliases:
   - "/Rotator+Cuff+repair+using+Vitamin+D+lowers+medical+cost+by+46+dollars+–+June+2023"
-  - "/tiki-index.php?page_id=14482"
+  - "/14482"
+tiki_page_id: 14482
 date: 2023-06-13
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Poor Vitamin D Receptor increases the risk of Multiple Sclerosis in peop
 slug: "poor-vitamin-d-receptor-increases-the-risk-of-multiple-sclerosis-in-people-of-european-descent"
 aliases:
   - "/Poor+Vitamin+D+Receptor+increases+the+risk+of+Multiple+Sclerosis+in+people+of+European+descent+–+Feb+2024"
-  - "/tiki-index.php?page_id=15045"
+  - "/15045"
+tiki_page_id: 15045
 date: 2024-02-12
 categories:
   - "Multiple Sclerosis"

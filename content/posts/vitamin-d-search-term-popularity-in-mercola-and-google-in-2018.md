@@ -3,7 +3,8 @@ title: "Vitamin D search term popularity in Mercola and Google in 2018"
 slug: "vitamin-d-search-term-popularity-in-mercola-and-google-in-2018"
 aliases:
   - "/Vitamin+D+search+term+popularity+in+Mercola+and+Google+in+2018"
-  - "/tiki-index.php?page_id=10331"
+  - "/10331"
+tiki_page_id: 10331
 date: 2018-12-24
 categories:
   - "Vitamin D and Omega-3"

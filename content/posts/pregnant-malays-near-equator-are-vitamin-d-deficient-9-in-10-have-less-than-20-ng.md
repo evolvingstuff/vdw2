@@ -3,7 +3,8 @@ title: "Pregnant Malays near equator are vitamin D deficient (9 in 10 have less 
 slug: "pregnant-malays-near-equator-are-vitamin-d-deficient-9-in-10-have-less-than-20-ng"
 aliases:
   - "/Pregnant+Malays+near+equator+are+vitamin+D+deficient+9+in+10+have+less+than+20+ng+–+Sept+2018"
-  - "/tiki-index.php?page_id=10007"
+  - "/10007"
+tiki_page_id: 10007
 date: 2018-09-06
 categories:
   - "Pregnancy"

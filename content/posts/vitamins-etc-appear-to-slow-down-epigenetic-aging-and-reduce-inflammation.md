@@ -3,7 +3,8 @@ title: "Vitamins etc, appear to slow down epigenetic aging and reduce inflammati
 slug: "vitamins-etc-appear-to-slow-down-epigenetic-aging-and-reduce-inflammation"
 aliases:
   - "/Vitamins+etc+appear+to+slow+down+epigenetic+aging+and+reduce+inflammation+–+March+2024"
-  - "/tiki-index.php?page_id=15174"
+  - "/15174"
+tiki_page_id: 15174
 date: 2024-03-26
 categories:
   - "Inflammation"

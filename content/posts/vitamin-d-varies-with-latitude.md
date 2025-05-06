@@ -3,7 +3,8 @@ title: "Vitamin D varies with latitude"
 slug: "vitamin-d-varies-with-latitude"
 aliases:
   - "/Vitamin+D+varies+with+latitude"
-  - "/tiki-index.php?page_id=10512"
+  - "/10512"
+tiki_page_id: 10512
 date: 2019-02-22
 categories:
   - "Vitamin D Far from equator"

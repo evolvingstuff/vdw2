@@ -3,7 +3,8 @@ title: "Stroke incidence not associated with low Vitamin D (but stroke outcome i
 slug: "stroke-incidence-not-associated-with-low-vitamin-d-but-stroke-outcome-is"
 aliases:
   - "/Stroke+incidence+not+associated+with+low+Vitamin+D+but+stroke+outcome+is+–+Aug+2019"
-  - "/tiki-index.php?page_id=11108"
+  - "/11108"
+tiki_page_id: 11108
 date: 2019-08-28
 categories:
   - "Stroke"

@@ -3,7 +3,8 @@ title: "Is a senior Vitamin D insufficient - a 2 minute questionnaire is 85 perc
 slug: "is-a-senior-vitamin-d-insufficient-a-2-minute-questionnaire-is-85-percent-accurate"
 aliases:
   - "/Is+a+senior+Vitamin+D+insufficient+-+a+2+minute+questionnaire+is+85+percent+accurate+–+Nov+2019"
-  - "/tiki-index.php?page_id=11360"
+  - "/11360"
+tiki_page_id: 11360
 date: 2019-11-16
 categories:
   - "Seniors"

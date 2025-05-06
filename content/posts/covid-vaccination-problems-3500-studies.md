@@ -3,7 +3,8 @@ title: "COVID Vaccination problems - 3,500 studies"
 slug: "covid-vaccination-problems-3500-studies"
 aliases:
   - "/COVID+Vaccination+problems+-+3500+studies+-+Oct+2023"
-  - "/tiki-index.php?page_id=14805"
+  - "/14805"
+tiki_page_id: 14805
 date: 2023-11-01
 ---
 

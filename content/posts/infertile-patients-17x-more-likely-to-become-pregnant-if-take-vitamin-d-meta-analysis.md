@@ -3,7 +3,8 @@ title: "Infertile patients 1.7X more-likely to become pregnant if take Vitamin D
 slug: "infertile-patients-17x-more-likely-to-become-pregnant-if-take-vitamin-d-meta-analysis"
 aliases:
   - "/Infertile+patients+17X+more-likely+to+become+pregnant+if+take+Vitamin+D+–+meta-analysis+Feb+2023"
-  - "/tiki-index.php?page_id=14247"
+  - "/14247"
+tiki_page_id: 14247
 date: 2023-02-06
 categories:
   - "Fertility and sperm"

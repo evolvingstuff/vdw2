@@ -3,7 +3,8 @@ title: "No response to vitamin D 7X more likely if poor CYP24A1 or VDBP genes"
 slug: "no-response-to-vitamin-d-7x-more-likely-if-poor-cyp24a1-or-vdbp-genes"
 aliases:
   - "/No+response+to+vitamin+D+7X+more+likely+if+poor+CYP24A1+or+VDBP+genes+-+Feb+2023"
-  - "/tiki-index.php?page_id=14256"
+  - "/14256"
+tiki_page_id: 14256
 date: 2023-02-11
 ---
 

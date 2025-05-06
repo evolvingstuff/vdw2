@@ -3,7 +3,8 @@ title: "Vaccines are plan A for COVID-19 Immunity (no plan B )"
 slug: "vaccines-are-plan-a-for-covid-19-immunity-no-plan-b"
 aliases:
   - "/Vaccines+are+plan+A+for+COVID-19+Immunity+no+plan+B+-+Sept+11+2020"
-  - "/tiki-index.php?page_id=12005"
+  - "/12005"
+tiki_page_id: 12005
 date: 2020-10-10
 categories:
   - "Virus"

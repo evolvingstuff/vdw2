@@ -3,7 +3,8 @@ title: "CDC reduced quarentine to 5 days - too many not able to work"
 slug: "cdc-reduced-quarentine-to-5-days-too-many-not-able-to-work"
 aliases:
   - "/CDC+reduced+quarentine+to+5+days+-+too+many+not+able+to+work+-+Dec+29+2021"
-  - "/tiki-index.php?page_id=13230"
+  - "/13230"
+tiki_page_id: 13230
 date: 2021-12-29
 categories:
   - "Virus"

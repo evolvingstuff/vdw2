@@ -3,7 +3,8 @@ title: "UVB not help chickens much (no surprise – shined on feathers, not legs
 slug: "uvb-not-help-chickens-much-no-surprise-shined-on-feathers-not-legs"
 aliases:
   - "/UVB+not+help+chickens+much+no+surprise+–+shined+on+feathers+not+legs+–+March+2023"
-  - "/tiki-index.php?page_id=14324"
+  - "/14324"
+tiki_page_id: 14324
 date: 2023-03-21
 categories:
   - "Veterinary and Vitamin D"

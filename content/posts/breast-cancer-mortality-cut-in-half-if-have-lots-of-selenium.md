@@ -3,7 +3,8 @@ title: "Breast Cancer mortality cut in half if have lots of Selenium"
 slug: "breast-cancer-mortality-cut-in-half-if-have-lots-of-selenium"
 aliases:
   - "/Breast+Cancer+mortality+cut+in+half+if+have+lots+of+Selenium+-+Oct+2021"
-  - "/tiki-index.php?page_id=12992"
+  - "/12992"
+tiki_page_id: 12992
 date: 2021-10-15
 categories:
   - "Cancer - Breast"

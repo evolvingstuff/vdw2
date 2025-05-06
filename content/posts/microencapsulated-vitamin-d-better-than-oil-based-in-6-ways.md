@@ -3,7 +3,8 @@ title: "Microencapsulated Vitamin D better than oil-based in 6 ways"
 slug: "microencapsulated-vitamin-d-better-than-oil-based-in-6-ways"
 aliases:
   - "/Microencapsulated+Vitamin+D+better+than+oil-based+in+6+ways+–+Sept+2023"
-  - "/tiki-index.php?page_id=15204"
+  - "/15204"
+tiki_page_id: 15204
 date: 2024-04-09
 categories:
   - "Forms of Vitamin D"

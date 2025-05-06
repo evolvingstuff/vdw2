@@ -3,7 +3,8 @@ title: "Ulcerative Colitis and Vitamin D - many studies"
 slug: "ulcerative-colitis-and-vitamin-d-many-studies"
 aliases:
   - "/Ulcerative+Colitis+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=12633"
+  - "/12633"
+tiki_page_id: 12633
 date: 2021-06-03
 categories:
   - "Gut"

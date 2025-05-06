@@ -3,7 +3,8 @@ title: "Very low levels  of vitamin D in the Arctic (only 1% of teens have 30 ng
 slug: "very-low-levels-of-vitamin-d-in-the-arctic-only-1-percent-of-teens-have-30-ng-level"
 aliases:
   - "/Very+low+levels+of+vitamin+D+in+the+Arctic+only+1+of+teens+have+30+ng+level+–+Oct+2023"
-  - "/tiki-index.php?page_id=14787"
+  - "/14787"
+tiki_page_id: 14787
 date: 2023-10-27
 categories:
   - "Vitamin D Far from equator"

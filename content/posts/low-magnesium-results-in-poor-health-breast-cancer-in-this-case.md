@@ -3,7 +3,8 @@ title: "Low Magnesium results in poor health (Breast Cancer in this case)"
 slug: "low-magnesium-results-in-poor-health-breast-cancer-in-this-case"
 aliases:
   - "/Low+Magnesium+results+in+poor+health+Breast+Cancer+in+this+case+–+Nov+2019"
-  - "/tiki-index.php?page_id=11301"
+  - "/11301"
+tiki_page_id: 11301
 date: 2019-11-01
 categories:
   - "Cancer - Breast"

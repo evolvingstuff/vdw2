@@ -3,7 +3,8 @@ title: "1.8 X more likely to have additional Dental Implant Failure if poor Vita
 slug: "18-x-more-likely-to-have-additional-dental-implant-failure-if-poor-vitamin-d-receptor"
 aliases:
   - "/18+X+more+likely+to+have+additional+Dental+Implant+Failure+if+poor+Vitamin+D+Receptor+–+Dec+2019"
-  - "/tiki-index.php?page_id=11473"
+  - "/11473"
+tiki_page_id: 11473
 date: 2019-12-18
 categories:
   - "Dental"

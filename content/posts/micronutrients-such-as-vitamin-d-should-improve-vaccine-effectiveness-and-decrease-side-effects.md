@@ -3,7 +3,8 @@ title: "Micronutrients such as vitamin D should improve vaccine effectiveness (a
 slug: "micronutrients-such-as-vitamin-d-should-improve-vaccine-effectiveness-and-decrease-side-effects"
 aliases:
   - "/Micronutrients+such+as+vitamin+D+should+improve+vaccine+effectiveness+and+decrease+side+effects+–+April+2022"
-  - "/tiki-index.php?page_id=13475"
+  - "/13475"
+tiki_page_id: 13475
 date: 2022-04-12
 categories:
   - "Virus"

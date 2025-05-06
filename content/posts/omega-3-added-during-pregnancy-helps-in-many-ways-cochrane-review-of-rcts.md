@@ -3,7 +3,8 @@ title: "Omega-3 added during pregnancy helps in many ways – Cochrane Review of
 slug: "omega-3-added-during-pregnancy-helps-in-many-ways-cochrane-review-of-rcts"
 aliases:
   - "/Omega-3+added+during+pregnancy+helps+in+many+ways+–+Cochrane+Review+of+RCTs+Nov+2018"
-  - "/tiki-index.php?page_id=10211"
+  - "/10211"
+tiki_page_id: 10211
 date: 2018-11-19
 categories:
   - "Pregnancy"

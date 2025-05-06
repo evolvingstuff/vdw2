@@ -3,7 +3,8 @@ title: "Dermatology's Disastrous War Against The Sun"
 slug: "dermatologys-disastrous-war-against-the-sun"
 aliases:
   - "/Dermatologys+Disastrous+War+Against+The+Sun+-+April+2024"
-  - "/tiki-index.php?page_id=15231"
+  - "/15231"
+tiki_page_id: 15231
 date: 2024-04-21
 categories:
   - "Noontime sun and D"

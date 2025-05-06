@@ -3,7 +3,8 @@ title: "Trends in vitamin D status around the world"
 slug: "trends-in-vitamin-d-status-around-the-world"
 aliases:
   - "/Trends+in+vitamin+D+status+around+the+world+–+Nov+2021"
-  - "/tiki-index.php?page_id=13108"
+  - "/13108"
+tiki_page_id: 13108
 date: 2021-11-24
 categories:
   - "Deficiency of Vitamin D"

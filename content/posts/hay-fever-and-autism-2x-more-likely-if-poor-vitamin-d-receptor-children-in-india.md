@@ -3,7 +3,8 @@ title: "Hay fever and autism 2X more likely if poor Vitamin D Receptor (children
 slug: "hay-fever-and-autism-2x-more-likely-if-poor-vitamin-d-receptor-children-in-india"
 aliases:
   - "/Hay+fever+and+autism+2X+more+likely+if+poor+Vitamin+D+Receptor+children+in+India+-+Jan+2024"
-  - "/tiki-index.php?page_id=14952"
+  - "/14952"
+tiki_page_id: 14952
 date: 2024-01-06
 categories:
   - "Infant-Child"

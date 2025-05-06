@@ -3,7 +3,8 @@ title: "Half as much chronic kidney disease infection if supplement with Vitamin
 slug: "half-as-much-chronic-kidney-disease-infection-if-supplement-with-vitamin-d-2018"
 aliases:
   - "/Half+as+much+chronic+kidney+disease+infection+if+supplement+with+Vitamin+D+–+2018"
-  - "/tiki-index.php?page_id=10570"
+  - "/10570"
+tiki_page_id: 10570
 date: 2019-03-15
 categories:
   - "Kidney"

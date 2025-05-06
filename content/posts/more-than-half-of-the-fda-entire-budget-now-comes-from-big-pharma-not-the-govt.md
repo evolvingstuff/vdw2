@@ -3,7 +3,8 @@ title: "More than half of the FDA entire budget now comes from Big Pharma, not t
 slug: "more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt"
 aliases:
   - "/More+than+half+of+the+FDA+entire+budget+now+comes+from+Big+Pharma+not+the+govt+–+Sept+2018"
-  - "/tiki-index.php?page_id=10078"
+  - "/10078"
+tiki_page_id: 10078
 date: 2018-09-28
 categories:
   - "Off Topic"

@@ -3,7 +3,8 @@ title: "Hard-to-heal Wounds associated with low vitamin D – review"
 slug: "hard-to-heal-wounds-associated-with-low-vitamin-d-review"
 aliases:
   - "/Hard-to-heal+Wounds+associated+with+low+vitamin+D+–+review+June+2021"
-  - "/tiki-index.php?page_id=12656"
+  - "/12656"
+tiki_page_id: 12656
 date: 2021-06-14
 categories:
   - "Trauma and surgery"

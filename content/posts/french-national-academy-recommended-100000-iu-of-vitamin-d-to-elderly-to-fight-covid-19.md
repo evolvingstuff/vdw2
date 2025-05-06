@@ -3,7 +3,8 @@ title: "French National Academy recommended 100,000 IU of Vitamin D to elderly t
 slug: "french-national-academy-recommended-100000-iu-of-vitamin-d-to-elderly-to-fight-covid-19"
 aliases:
   - "/French+National+Academy+recommended+100000+IU+of+Vitamin+D+to+elderly+to+fight+COVID-19+-+May+2020"
-  - "/tiki-index.php?page_id=12051"
+  - "/12051"
+tiki_page_id: 12051
 date: 2020-11-08
 categories:
   - "Loading dose for Vitamin D"

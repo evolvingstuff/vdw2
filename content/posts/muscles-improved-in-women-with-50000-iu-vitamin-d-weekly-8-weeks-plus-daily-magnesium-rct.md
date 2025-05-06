@@ -3,7 +3,8 @@ title: "Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus
 slug: "muscles-improved-in-women-with-50000-iu-vitamin-d-weekly-8-weeks-plus-daily-magnesium-rct"
 aliases:
   - "/Muscles+improved+in+women+with+50000+IU+vitamin+D+weekly+8+weeks+plus+daily+Magnesium+–+RCT+Sept+2020"
-  - "/tiki-index.php?page_id=14685"
+  - "/14685"
+tiki_page_id: 14685
 date: 2023-09-16
 categories:
   - "Vitamin D and Magnesium"

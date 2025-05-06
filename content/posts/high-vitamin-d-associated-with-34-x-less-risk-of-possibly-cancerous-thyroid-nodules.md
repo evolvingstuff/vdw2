@@ -3,7 +3,8 @@ title: "High Vitamin D associated with 3.4 X less risk of possibly Cancerous Thy
 slug: "high-vitamin-d-associated-with-34-x-less-risk-of-possibly-cancerous-thyroid-nodules"
 aliases:
   - "/High+Vitamin+D+associated+with+34+X+less+risk+of+possibly+Cancerous+Thyroid+Nodules+-+Feb+2022"
-  - "/tiki-index.php?page_id=13326"
+  - "/13326"
+tiki_page_id: 13326
 date: 2022-02-09
 categories:
   - "Thyroid and parathyroid"

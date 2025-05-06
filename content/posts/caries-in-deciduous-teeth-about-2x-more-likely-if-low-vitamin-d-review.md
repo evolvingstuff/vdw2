@@ -3,7 +3,8 @@ title: "Caries in deciduous teeth about 2X more likely if low vitamin D – Revi
 slug: "caries-in-deciduous-teeth-about-2x-more-likely-if-low-vitamin-d-review"
 aliases:
   - "/Caries+in+deciduous+teeth+about+2X+more+likely+if+low+vitamin+D+–+Review+Nov+2023"
-  - "/tiki-index.php?page_id=14842"
+  - "/14842"
+tiki_page_id: 14842
 date: 2023-11-25
 categories:
   - "Dental"

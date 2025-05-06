@@ -3,7 +3,8 @@ title: "After Heart Failure Blacks are 45 percent more likely to re-enter the ho
 slug: "after-heart-failure-blacks-are-45-percent-more-likely-to-re-enter-the-hospital-in-a-month"
 aliases:
   - "/After+Heart+Failure+Blacks+are+45+percent+more+likely+to+re-enter+the+hospital+in+a+month+–+Oct+2020"
-  - "/tiki-index.php?page_id=12001"
+  - "/12001"
+tiki_page_id: 12001
 date: 2020-10-09
 categories:
   - "Skin - Dark"

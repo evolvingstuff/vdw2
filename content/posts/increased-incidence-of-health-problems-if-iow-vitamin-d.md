@@ -3,7 +3,8 @@ title: "Increased incidence of health problems if iow Vitamin D"
 slug: "increased-incidence-of-health-problems-if-iow-vitamin-d"
 aliases:
   - "/Increased+incidence+of+health+problems+if+iow+Vitamin+D"
-  - "/tiki-index.php?page_id=10384"
+  - "/10384"
+tiki_page_id: 10384
 date: 2019-01-08
 categories:
   - "Health"

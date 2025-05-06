@@ -3,7 +3,8 @@ title: "Many doctors believe that high dose vitamin D can fight COVID-19 – BMJ
 slug: "many-doctors-believe-that-high-dose-vitamin-d-can-fight-covid-19-bmj"
 aliases:
   - "/Many+doctors+believe+that+high+dose+vitamin+D+can+fight+COVID-19+–+BMJ+April+2020"
-  - "/tiki-index.php?page_id=11726"
+  - "/11726"
+tiki_page_id: 11726
 date: 2020-04-13
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D is needed during Dialysis – initially only 29 pcnt tested, e
 slug: "vitamin-d-is-needed-during-dialysis-initially-only-29-pcnt-tested-extensive-educ-d-it-to-32-pcnt"
 aliases:
   - "/Vitamin+D+is+needed+during+Dialysis+–+initially+only+29+pcnt+tested+extensive+education+raised+it+to+32+pcnt+–+May+2020"
-  - "/tiki-index.php?page_id=12360"
+  - "/12360"
+tiki_page_id: 12360
 date: 2021-02-28
 categories:
   - "Kidney"

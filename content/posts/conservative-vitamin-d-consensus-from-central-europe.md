@@ -3,7 +3,8 @@ title: "Conservative Vitamin D Consensus from Central Europe"
 slug: "conservative-vitamin-d-consensus-from-central-europe"
 aliases:
   - "/Conservative+Vitamin+D+Consensus+from+Central+Europe+-+April+2022"
-  - "/tiki-index.php?page_id=13443"
+  - "/13443"
+tiki_page_id: 13443
 date: 2022-04-02
 categories:
   - "Consensus"

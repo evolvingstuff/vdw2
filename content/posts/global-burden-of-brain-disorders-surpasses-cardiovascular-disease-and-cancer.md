@@ -3,7 +3,8 @@ title: "Global burden of brain disorders surpasses cardiovascular disease and ca
 slug: "global-burden-of-brain-disorders-surpasses-cardiovascular-disease-and-cancer"
 aliases:
   - "/Global+burden+of+brain+disorders+surpasses+cardiovascular+disease+and+cancer+-+July+2023"
-  - "/tiki-index.php?page_id=14537"
+  - "/14537"
+tiki_page_id: 14537
 date: 2023-07-15
 categories:
   - "Cardiovascular"

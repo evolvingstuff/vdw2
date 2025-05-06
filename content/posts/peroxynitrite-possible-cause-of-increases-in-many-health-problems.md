@@ -3,7 +3,8 @@ title: "Peroxynitrite – possible cause of increases in many health problems"
 slug: "peroxynitrite-possible-cause-of-increases-in-many-health-problems"
 aliases:
   - "/Peroxynitrite+–+possible+cause+of+increases+in+many+health+problems+–+Jan+2018"
-  - "/tiki-index.php?page_id=9996"
+  - "/9996"
+tiki_page_id: 9996
 date: 2018-09-02
 categories:
   - "Health"

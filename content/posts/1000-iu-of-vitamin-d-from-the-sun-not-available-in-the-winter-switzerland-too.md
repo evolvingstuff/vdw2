@@ -3,7 +3,8 @@ title: "1,000 IU of vitamin D from the sun not available in the winter (Switzerl
 slug: "1000-iu-of-vitamin-d-from-the-sun-not-available-in-the-winter-switzerland-too"
 aliases:
   - "/1000+IU+of+vitamin+D+from+the+sun+not+available+in+the+winter+Switzerland+too+–+April+2019"
-  - "/tiki-index.php?page_id=10766"
+  - "/10766"
+tiki_page_id: 10766
 date: 2019-05-13
 categories:
   - "Noontime sun and D"

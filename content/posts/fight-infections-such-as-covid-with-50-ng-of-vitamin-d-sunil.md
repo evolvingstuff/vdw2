@@ -3,7 +3,8 @@ title: "Fight infections such as COVID with 50 ng of Vitamin D – Sunil"
 slug: "fight-infections-such-as-covid-with-50-ng-of-vitamin-d-sunil"
 aliases:
   - "/Fight+infections+such+as+COVID+with+50+ng+of+Vitamin+D+–+Sunil+Dec+2022"
-  - "/tiki-index.php?page_id=14150"
+  - "/14150"
+tiki_page_id: 14150
 date: 2022-12-16
 categories:
   - "Immunity"

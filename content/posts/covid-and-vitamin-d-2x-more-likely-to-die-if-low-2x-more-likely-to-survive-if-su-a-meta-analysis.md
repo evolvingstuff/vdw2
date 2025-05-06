@@ -3,7 +3,8 @@ title: "COVID and Vitamin D: 2X more likely to die if low, 2X more likely to sur
 slug: "covid-and-vitamin-d-2x-more-likely-to-die-if-low-2x-more-likely-to-survive-if-su-a-meta-analysis"
 aliases:
   - "/COVID+and+Vitamin+D+2X+more+likely+to+die+if+low+2X+more+likely+to+survive+if+supplement+–+umbrella+meta-analysis+April+2024"
-  - "/tiki-index.php?page_id=15239"
+  - "/15239"
+tiki_page_id: 15239
 date: 2024-04-24
 categories:
   - "Mortality and D"

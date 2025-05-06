@@ -3,7 +3,8 @@ title: "Different Vitamin D Receptor problems cause different COVID problems"
 slug: "different-vitamin-d-receptor-problems-cause-different-covid-problems"
 aliases:
   - "/Different+Vitamin+D+Receptor+problems+cause+different+COVID+problems+-+Dec+2021"
-  - "/tiki-index.php?page_id=13200"
+  - "/13200"
+tiki_page_id: 13200
 date: 2021-12-17
 categories:
   - "Vitamin D Receptor"

@@ -3,7 +3,8 @@ title: "Stronger rowers have higher levels of Vitamin D"
 slug: "stronger-rowers-have-higher-levels-of-vitamin-d"
 aliases:
   - "/Stronger+rowers+have+higher+levels+of+Vitamin+D+-+Jan+2024"
-  - "/tiki-index.php?page_id=14970"
+  - "/14970"
+tiki_page_id: 14970
 date: 2024-01-13
 categories:
   - "Sports and Vitamin D"

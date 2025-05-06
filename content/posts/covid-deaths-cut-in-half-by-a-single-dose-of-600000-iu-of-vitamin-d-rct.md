@@ -3,7 +3,8 @@ title: "COVID deaths cut in half by a single dose of 600,000 IU of Vitamin D - R
 slug: "covid-deaths-cut-in-half-by-a-single-dose-of-600000-iu-of-vitamin-d-rct"
 aliases:
   - "/COVID+deaths+cut+in+half+by+a+single+dose+of+600000+IU+of+Vitamin+D+-+RCT+Jan+2024"
-  - "/tiki-index.php?page_id=15012"
+  - "/15012"
+tiki_page_id: 15012
 date: 2024-01-31
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Personalized treatment of Vitamin D"
 slug: "personalized-treatment-of-vitamin-d"
 aliases:
   - "/Personalized+treatment+of+Vitamin+D"
-  - "/tiki-index.php?page_id=15115"
+  - "/15115"
+tiki_page_id: 15115
 date: 2024-03-09
 categories:
   - "How much Vitamin D"

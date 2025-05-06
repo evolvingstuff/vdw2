@@ -3,7 +3,8 @@ title: "Several eye problems can be treated by Vitamin D"
 slug: "several-eye-problems-can-be-treated-by-vitamin-d"
 aliases:
   - "/Several+eye+problems+can+be+treated+by+Vitamin+D+–+April+2023"
-  - "/tiki-index.php?page_id=14362"
+  - "/14362"
+tiki_page_id: 14362
 date: 2023-04-07
 categories:
   - "Vision"

@@ -3,7 +3,8 @@ title: "Herpes virus and vitamin D - many studies"
 slug: "herpes-virus-and-vitamin-d-many-studies"
 aliases:
   - "/Herpes+virus+and+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14086"
+  - "/14086"
+tiki_page_id: 14086
 date: 2022-11-14
 categories:
   - "Virus"

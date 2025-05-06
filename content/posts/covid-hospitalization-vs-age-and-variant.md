@@ -3,7 +3,8 @@ title: "COVID Hospitalization vs age and variant"
 slug: "covid-hospitalization-vs-age-and-variant"
 aliases:
   - "/COVID+Hospitalization+vs+age+and+variant+-+Dec+10+2021"
-  - "/tiki-index.php?page_id=13169"
+  - "/13169"
+tiki_page_id: 13169
 date: 2021-12-11
 categories:
   - "Seniors"

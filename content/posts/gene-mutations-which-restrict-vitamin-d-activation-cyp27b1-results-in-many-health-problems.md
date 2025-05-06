@@ -3,7 +3,8 @@ title: "Gene mutations which restrict Vitamin D activation (CYP27B1) results in 
 slug: "gene-mutations-which-restrict-vitamin-d-activation-cyp27b1-results-in-many-health-problems"
 aliases:
   - "/Gene+mutations+which+restrict+Vitamin+D+activation+CYP27B1+results+in+many+health+problems+–+March+2020"
-  - "/tiki-index.php?page_id=11691"
+  - "/11691"
+tiki_page_id: 11691
 date: 2020-03-22
 categories:
   - "Top news"

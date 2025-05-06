@@ -3,7 +3,8 @@ title: "Sudden Deafness (SSNHL) treatment always works if high vitamin D, but on
 slug: "sudden-deafness-ssnhl-treatment-always-works-if-high-vitamin-d-but-only-1-in-8-if-low-d"
 aliases:
   - "/Sudden+Deafness+SSNHL+treatment+always+works+if+high+vitamin+D+but+only+1+in+8+if+low+D+–+Nov+2019"
-  - "/tiki-index.php?page_id=11347"
+  - "/11347"
+tiki_page_id: 11347
 date: 2019-11-14
 categories:
   - "Ear"

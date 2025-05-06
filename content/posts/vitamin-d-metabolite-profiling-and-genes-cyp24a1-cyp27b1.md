@@ -3,7 +3,8 @@ title: "Vitamin D Metabolite Profiling and genes (CYP24A1, CYP27B1)"
 slug: "vitamin-d-metabolite-profiling-and-genes-cyp24a1-cyp27b1"
 aliases:
   - "/Vitamin+D+Metabolite+Profiling+and+genes+CYP24A1+CYP27B1–+Nov+2021"
-  - "/tiki-index.php?page_id=13154"
+  - "/13154"
+tiki_page_id: 13154
 date: 2021-12-08
 categories:
   - "Genetics"

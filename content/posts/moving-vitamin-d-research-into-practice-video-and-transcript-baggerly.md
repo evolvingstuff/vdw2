@@ -3,7 +3,8 @@ title: "Moving Vitamin D Research into Practice - Video and transcript - Baggerl
 slug: "moving-vitamin-d-research-into-practice-video-and-transcript-baggerly"
 aliases:
   - "/Moving+Vitamin+D+Research+into+Practice+-+Video+and+transcript+-+Baggerly+-+Oct+2021"
-  - "/tiki-index.php?page_id=14005"
+  - "/14005"
+tiki_page_id: 14005
 date: 2022-10-11
 categories:
   - "Books, videos on Vitamin D"

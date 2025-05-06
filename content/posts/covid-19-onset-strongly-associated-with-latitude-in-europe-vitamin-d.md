@@ -3,7 +3,8 @@ title: "COVID-19 onset strongly associated with latitude in Europe (Vitamin D)"
 slug: "covid-19-onset-strongly-associated-with-latitude-in-europe-vitamin-d"
 aliases:
   - "/COVID-19+onset+strongly+associated+with+latitude+in+Europe+Vitamin+D–+Jan+21+2021"
-  - "/tiki-index.php?page_id=12253"
+  - "/12253"
+tiki_page_id: 12253
 date: 2021-01-22
 categories:
   - "UV and Vitamin D"

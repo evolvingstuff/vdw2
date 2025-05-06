@@ -3,7 +3,8 @@ title: "Long COVID with Neuro-Cognitive symptoms had especially low vitamin D le
 slug: "long-covid-with-neuro-cognitive-symptoms-had-especially-low-vitamin-d-levels"
 aliases:
   - "/Long+COVID+with+Neuro-Cognitive+symptoms+had+especially+low+vitamin+D+levels+–+Sept+2023"
-  - "/tiki-index.php?page_id=14689"
+  - "/14689"
+tiki_page_id: 14689
 date: 2023-09-19
 categories:
   - "Virus"

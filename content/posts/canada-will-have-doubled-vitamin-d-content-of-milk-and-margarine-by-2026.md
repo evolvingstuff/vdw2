@@ -3,7 +3,8 @@ title: "Canada will have doubled Vitamin D content of milk and margarine by 2026
 slug: "canada-will-have-doubled-vitamin-d-content-of-milk-and-margarine-by-2026"
 aliases:
   - "/Canada+will+have+doubled+Vitamin+D+content+of+milk+and+margarine+by+2026"
-  - "/tiki-index.php?page_id=15079"
+  - "/15079"
+tiki_page_id: 15079
 date: 2024-02-26
 categories:
   - "Fortification with Vitamin D"

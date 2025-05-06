@@ -3,7 +3,8 @@ title: "Spinal curvature (Idiopathic Scoliosis) associated with low vitamin D"
 slug: "spinal-curvature-idiopathic-scoliosis-associated-with-low-vitamin-d"
 aliases:
   - "/Spinal+curvature+Idiopathic+Scoliosis+associated+with+low+vitamin+D"
-  - "/tiki-index.php?page_id=11879"
+  - "/11879"
+tiki_page_id: 11879
 date: 2020-08-01
 categories:
   - "Bone - Health"

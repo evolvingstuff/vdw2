@@ -3,7 +3,8 @@ title: "Additional Vitamin D not help – infants previously had 35 ng of vitami
 slug: "additional-vitamin-d-not-help-infants-previously-had-35-ng-of-vitamin-d-rct"
 aliases:
   - "/Additional+Vitamin+D+not+help+–+infants+previously+had+35+ng+of+vitamin+D+–+RCT+Sept+2021"
-  - "/tiki-index.php?page_id=13001"
+  - "/13001"
+tiki_page_id: 13001
 date: 2021-10-18
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Vitamin D cuts pregnancy risks in half – low birth weight, preeclampsi
 slug: "vitamin-d-cuts-pregnancy-risks-in-half-low-birth-weight-preeclampsia-gestational-diabetes-cochrane"
 aliases:
   - "/Vitamin+D+cuts+pregnancy+risks+in+half+–+low+birth+weight+preeclampsia+gestational+diabetes+–+Cochrane+July+2019"
-  - "/tiki-index.php?page_id=11148"
+  - "/11148"
+tiki_page_id: 11148
 date: 2019-09-12
 categories:
   - "Pregnancy"

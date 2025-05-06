@@ -3,7 +3,8 @@ title: "Vitamin D cannot distinguish between thyroid cancer and other thyroid pr
 slug: "vitamin-d-cannot-distinguish-between-thyroid-cancer-and-other-thyroid-problems-all-have-low-levels"
 aliases:
   - "/Vitamin+D+cannot+distinguish+between+thyroid+cancer+and+other+thyroid+problems+–+all+have+low+levels+–+Feb+2022"
-  - "/tiki-index.php?page_id=13402"
+  - "/13402"
+tiki_page_id: 13402
 date: 2022-03-15
 categories:
   - "Thyroid and parathyroid"

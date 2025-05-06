@@ -3,7 +3,8 @@ title: "ADHD significantly treated by daily Magnesium plus weekly Vitamin D – 
 slug: "adhd-significantly-treated-by-daily-magnesium-plus-weekly-vitamin-d-rct"
 aliases:
   - "/ADHD+significantly+treated+by+daily+Magnesium+plus+weekly+Vitamin+D+–+RCT+April+2021"
-  - "/tiki-index.php?page_id=14121"
+  - "/14121"
+tiki_page_id: 14121
 date: 2022-11-29
 categories:
   - "Vitamin D and Magnesium"

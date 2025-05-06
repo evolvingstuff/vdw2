@@ -3,7 +3,8 @@ title: "Mask studies for viral infection: 104 studies: ineffective, 61 studies: 
 slug: "mask-studies-for-viral-infection-104-studies-ineffective-61-studies-harmful"
 aliases:
   - "/Mask+studies+for+viral+infection+104+studies+ineffective+61+studies+harmful+-+Sept+2023"
-  - "/tiki-index.php?page_id=14687"
+  - "/14687"
+tiki_page_id: 14687
 date: 2023-09-16
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Excess Uric Acid associated with low vitamin D"
 slug: "excess-uric-acid-associated-with-low-vitamin-d"
 aliases:
   - "/Excess+Uric+Acid+associated+with+low+vitamin+D"
-  - "/tiki-index.php?page_id=10611"
+  - "/10611"
+tiki_page_id: 10611
 date: 2019-03-23
 categories:
   - "Diabetes"

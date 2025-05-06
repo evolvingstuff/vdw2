@@ -3,7 +3,8 @@ title: "COVID not prevented by 2,200 IU daily vitamin D (no surprise)"
 slug: "covid-not-prevented-by-2200-iu-daily-vitamin-d-no-surprise"
 aliases:
   - "/COVID+not+prevented+by+2200+IU+daily+vitamin+D+no+surprise+-+March+2023"
-  - "/tiki-index.php?page_id=14303"
+  - "/14303"
+tiki_page_id: 14303
 date: 2023-03-06
 categories:
   - "Virus"

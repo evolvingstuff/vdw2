@@ -3,7 +3,8 @@ title: "Romania joins Turkey in giving free Vitamin D to all infants – 2018"
 slug: "romania-joins-turkey-in-giving-free-vitamin-d-to-all-infants-2018"
 aliases:
   - "/Romania+joins+Turkey+in+giving+free+Vitamin+D+to+all+infants+–+2018"
-  - "/tiki-index.php?page_id=10472"
+  - "/10472"
+tiki_page_id: 10472
 date: 2019-02-06
 categories:
   - "Vitamin D in Europe"

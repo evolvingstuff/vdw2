@@ -3,7 +3,8 @@ title: "Topical Vitamin D provides more benefits than oral sometimes - many stud
 slug: "topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies"
 aliases:
   - "/Topical+Vitamin+D+provides+more+benefits+than+oral+sometimes+-+many+studies"
-  - "/tiki-index.php?page_id=11237"
+  - "/11237"
+tiki_page_id: 11237
 date: 2019-10-15
 categories:
   - "Forms of Vitamin D"

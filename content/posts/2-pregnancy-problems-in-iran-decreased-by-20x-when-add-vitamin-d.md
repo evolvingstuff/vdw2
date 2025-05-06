@@ -3,7 +3,8 @@ title: "2 Pregnancy problems in Iran decreased by 20X when add Vitamin D"
 slug: "2-pregnancy-problems-in-iran-decreased-by-20x-when-add-vitamin-d"
 aliases:
   - "/2+Pregnancy+problems+in+Iran+decreased+by+20X+when+add+Vitamin+D+–+May+2023"
-  - "/tiki-index.php?page_id=14459"
+  - "/14459"
+tiki_page_id: 14459
 date: 2023-05-30
 categories:
   - "Pregnancy"

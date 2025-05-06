@@ -3,7 +3,8 @@ title: "Activators of the Vitamin D Receptor include sulforaphane and curcumin"
 slug: "activators-of-the-vitamin-d-receptor-include-sulforaphane-and-curcumin"
 aliases:
   - "/Activators+of+the+Vitamin+D+Receptor+include+sulforaphane+and+curcumin+–+June+2020"
-  - "/tiki-index.php?page_id=14691"
+  - "/14691"
+tiki_page_id: 14691
 date: 2023-09-19
 ---
 

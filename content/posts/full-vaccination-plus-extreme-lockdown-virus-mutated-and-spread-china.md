@@ -3,7 +3,8 @@ title: "Full vaccination plus extreme lockdown - virus mutated and spread (China
 slug: "full-vaccination-plus-extreme-lockdown-virus-mutated-and-spread-china"
 aliases:
   - "/Full+vaccination+plus+extreme+lockdown+-+virus+mutated+and+spread+China+-+Dec+2022"
-  - "/tiki-index.php?page_id=14142"
+  - "/14142"
+tiki_page_id: 14142
 date: 2022-12-10
 categories:
   - "Virus"

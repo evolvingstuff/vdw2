@@ -3,7 +3,8 @@ title: "Vaccines protect for: 10 years Tetanus, 3 years Typhoid, 6 month Influen
 slug: "vaccines-protect-for-10-years-tetanus-3-years-typhoid-6-month-influenza-unknown-covid-wsj"
 aliases:
   - "/Vaccines+protect+for+10+years+Tetanus+3+years+Typhoid+6+month+Influenza+unknown+COVID+–+WSJ+Sep+10+2021"
-  - "/tiki-index.php?page_id=12891"
+  - "/12891"
+tiki_page_id: 12891
 date: 2021-09-11
 categories:
   - "Virus"

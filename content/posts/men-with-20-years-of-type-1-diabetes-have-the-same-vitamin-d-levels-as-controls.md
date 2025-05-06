@@ -3,7 +3,8 @@ title: "Men with 20 years of type 1 Diabetes have the same vitamin D levels as c
 slug: "men-with-20-years-of-type-1-diabetes-have-the-same-vitamin-d-levels-as-controls"
 aliases:
   - "/Men+with+20+years+of+type+1+Diabetes+have+the+same+vitamin+D+levels+as+controls+-+Dec+2023"
-  - "/tiki-index.php?page_id=14894"
+  - "/14894"
+tiki_page_id: 14894
 date: 2023-12-18
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "Excess Calcium in critically ill patients taking 10,000 IU of vitamin D 
 slug: "excess-calcium-in-critically-ill-patients-taking-10000-iu-of-vitamin-d-solutions-nesium-or-water"
 aliases:
   - "/Excess+Calcium+in+critically+ill+patients+taking+10000+IU+of+vitamin+D+solutions+-+Vitamin+K+or+Magnesium+or+water+–+Oct+2019"
-  - "/tiki-index.php?page_id=11229"
+  - "/11229"
+tiki_page_id: 11229
 date: 2019-10-13
 categories:
   - "Vitamin D and Calcium"

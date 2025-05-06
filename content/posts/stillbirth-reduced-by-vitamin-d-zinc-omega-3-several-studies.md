@@ -3,7 +3,8 @@ title: "Stillbirth reduced by Vitamin D, Zinc, Omega-3 - several studies"
 slug: "stillbirth-reduced-by-vitamin-d-zinc-omega-3-several-studies"
 aliases:
   - "/Stillbirth+reduced+by+Vitamin+D+Zinc+Omega-3+-+several+studies"
-  - "/tiki-index.php?page_id=14752"
+  - "/14752"
+tiki_page_id: 14752
 date: 2023-10-14
 categories:
   - "Pregnancy"

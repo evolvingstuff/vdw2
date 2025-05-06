@@ -3,7 +3,8 @@ title: "Sleep Apnea patients are 5X more likely to have a COVID-19 infection req
 slug: "sleep-apnea-patients-are-5x-more-likely-to-have-a-covid-19-infection-requiring-hospitalization"
 aliases:
   - "/Sleep+Apnea+patients+are+5X+more+likely+to+have+a+COVID-19+infection+requiring+hospitalization+-+Sept+28+2020"
-  - "/tiki-index.php?page_id=11978"
+  - "/11978"
+tiki_page_id: 11978
 date: 2020-09-29
 categories:
   - "Sleep"

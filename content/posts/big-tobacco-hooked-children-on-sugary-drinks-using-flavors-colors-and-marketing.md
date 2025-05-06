@@ -3,7 +3,8 @@ title: "Big Tobacco Hooked Children on Sugary Drinks using flavors, colors, and 
 slug: "big-tobacco-hooked-children-on-sugary-drinks-using-flavors-colors-and-marketing"
 aliases:
   - "/Big+Tobacco+Hooked+Children+on+Sugary+Drinks+using+flavors+colors+and+marketing"
-  - "/tiki-index.php?page_id=10577"
+  - "/10577"
+tiki_page_id: 10577
 date: 2019-03-17
 categories:
   - "Obesity"

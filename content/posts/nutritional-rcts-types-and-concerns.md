@@ -3,7 +3,8 @@ title: "Nutritional RCTs: types and concerns"
 slug: "nutritional-rcts-types-and-concerns"
 aliases:
   - "/Nutritional+RCTs+types+and+concerns+–+June+2022"
-  - "/tiki-index.php?page_id=13647"
+  - "/13647"
+tiki_page_id: 13647
 date: 2022-06-07
 ---
 

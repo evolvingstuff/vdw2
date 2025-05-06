@@ -3,7 +3,8 @@ title: "Biofortification with Vitamin D -  several studies"
 slug: "biofortification-with-vitamin-d-several-studies"
 aliases:
   - "/Biofortification+with+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=14946"
+  - "/14946"
+tiki_page_id: 14946
 date: 2024-01-04
 categories:
   - "Food sources for Vitamin D"

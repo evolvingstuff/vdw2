@@ -3,7 +3,8 @@ title: "Low Vitamin D associated with preeclampsia - meta-analysis"
 slug: "low-vitamin-d-associated-with-preeclampsia-meta-analysis"
 aliases:
   - "/Low+Vitamin+D+associated+with+preeclampsia+-+meta-analysis+Feb+2022"
-  - "/tiki-index.php?page_id=13353"
+  - "/13353"
+tiki_page_id: 13353
 date: 2022-02-27
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Advanced Colorectal Cancer survival is increased somewhat with 4,000 IU 
 slug: "advanced-colorectal-cancer-survival-is-increased-somewhat-with-4000-iu-of-vitamin-d-rct"
 aliases:
   - "/Advanced+Colorectal+Cancer+survival+is+increased+somewhat+with+4000+IU+of+vitamin+D+–+RCT+April+2019"
-  - "/tiki-index.php?page_id=10651"
+  - "/10651"
+tiki_page_id: 10651
 date: 2019-04-10
 categories:
   - "Cancer - Colon"

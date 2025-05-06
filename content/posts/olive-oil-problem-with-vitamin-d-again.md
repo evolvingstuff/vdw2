@@ -3,7 +3,8 @@ title: "Olive oil problem with Vitamin D (again)"
 slug: "olive-oil-problem-with-vitamin-d-again"
 aliases:
   - "/Olive+oil+problem+with+Vitamin+D+again+-+Nov+2023"
-  - "/tiki-index.php?page_id=14730"
+  - "/14730"
+tiki_page_id: 14730
 date: 2023-10-06
 categories:
   - "Forms of Vitamin D"

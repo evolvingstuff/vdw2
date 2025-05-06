@@ -3,7 +3,8 @@ title: "Hypothesis: Smoking reduces Vitamin D, which activates EBV, which causes
 slug: "hypothesis-smoking-reduces-vitamin-d-which-activates-ebv-which-causes-lung-cancer"
 aliases:
   - "/Hypothesis+Smoking+reduces+Vitamin+D+which+activates+EBV+which+causes+lung+cancer+–+Jan+2022"
-  - "/tiki-index.php?page_id=13368"
+  - "/13368"
+tiki_page_id: 13368
 date: 2022-03-04
 categories:
   - "Cancer - Lung"

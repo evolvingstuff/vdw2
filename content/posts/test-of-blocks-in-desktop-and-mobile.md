@@ -3,7 +3,8 @@ title: "Test of blocks in desktop and mobile"
 slug: "test-of-blocks-in-desktop-and-mobile"
 aliases:
   - "/Test+of+blocks+in+desktop+and+mobile"
-  - "/tiki-index.php?page_id=10221"
+  - "/10221"
+tiki_page_id: 10221
 date: 2018-11-21
 categories:
   - "Admin Only"

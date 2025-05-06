@@ -3,7 +3,8 @@ title: "Canadian pregnancies have enough vitamin D – if white, summer, supplem
 slug: "canadian-pregnancies-have-enough-vitamin-d-if-white-summer-supplement-eat-meat-etc"
 aliases:
   - "/Canadian+pregnancies+have+enough+vitamin+D+–+if+white+summer+supplement+eat+meat+etc+–+Nov+2019"
-  - "/tiki-index.php?page_id=11363"
+  - "/11363"
+tiki_page_id: 11363
 date: 2019-11-17
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Newly diagnosed Children with Cancer have low vitamin D, especially if b
 slug: "newly-diagnosed-children-with-cancer-have-low-vitamin-d-especially-if-black"
 aliases:
   - "/Newly+diagnosed+Children+with+Cancer+have+low+vitamin+D+especially+if+black+-+May+2022"
-  - "/tiki-index.php?page_id=13676"
+  - "/13676"
+tiki_page_id: 13676
 date: 2022-06-15
 categories:
   - "Skin - Dark"

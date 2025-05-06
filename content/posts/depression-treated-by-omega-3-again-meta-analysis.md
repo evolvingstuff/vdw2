@@ -3,7 +3,8 @@ title: "Depression treated by Omega-3 (again) – meta-analysis"
 slug: "depression-treated-by-omega-3-again-meta-analysis"
 aliases:
   - "/Depression+treated+by+Omega-3+again+–+meta-analysis+Aug+2019"
-  - "/tiki-index.php?page_id=11062"
+  - "/11062"
+tiki_page_id: 11062
 date: 2019-08-10
 categories:
   - "Depression"

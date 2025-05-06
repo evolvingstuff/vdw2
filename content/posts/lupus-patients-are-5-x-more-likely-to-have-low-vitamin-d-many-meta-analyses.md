@@ -3,7 +3,8 @@ title: "Lupus patients are 5 X more likely to have low vitamin D – many meta-a
 slug: "lupus-patients-are-5-x-more-likely-to-have-low-vitamin-d-many-meta-analyses"
 aliases:
   - "/Lupus+patients+are+5+X+more+likely+to+have+low+vitamin+D+–+many+meta-analyses"
-  - "/tiki-index.php?page_id=10400"
+  - "/10400"
+tiki_page_id: 10400
 date: 2019-01-15
 categories:
   - "Lupus"

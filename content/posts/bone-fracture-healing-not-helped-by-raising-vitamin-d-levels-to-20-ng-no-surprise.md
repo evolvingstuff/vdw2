@@ -3,7 +3,8 @@ title: "Bone fracture healing not helped by raising vitamin D levels to 20 ng (n
 slug: "bone-fracture-healing-not-helped-by-raising-vitamin-d-levels-to-20-ng-no-surprise"
 aliases:
   - "/Bone+fracture+healing+not+helped+by+raising+vitamin+D+levels+to+20+ng+no+surprise+–+Sept+2021"
-  - "/tiki-index.php?page_id=12922"
+  - "/12922"
+tiki_page_id: 12922
 date: 2021-09-25
 ---
 

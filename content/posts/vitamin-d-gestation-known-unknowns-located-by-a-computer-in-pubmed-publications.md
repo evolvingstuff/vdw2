@@ -3,7 +3,8 @@ title: "Vitamin D gestation known unknowns located by a computer in pubmed publi
 slug: "vitamin-d-gestation-known-unknowns-located-by-a-computer-in-pubmed-publications"
 aliases:
   - "/Vitamin+D+gestation+known+unknowns+located+by+a+computer+in+pubmed+publications–+June+2023"
-  - "/tiki-index.php?page_id=14468"
+  - "/14468"
+tiki_page_id: 14468
 date: 2023-06-04
 categories:
   - "Pregnancy"

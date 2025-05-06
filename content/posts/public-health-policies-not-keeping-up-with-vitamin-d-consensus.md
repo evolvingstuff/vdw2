@@ -3,7 +3,8 @@ title: "Public health policies not keeping up with Vitamin D consensus"
 slug: "public-health-policies-not-keeping-up-with-vitamin-d-consensus"
 aliases:
   - "/Public+health+policies+not+keeping+up+with+Vitamin+D+consensus+-+Feb+2022"
-  - "/tiki-index.php?page_id=13874"
+  - "/13874"
+tiki_page_id: 13874
 date: 2022-08-27
 categories:
   - "Virus"

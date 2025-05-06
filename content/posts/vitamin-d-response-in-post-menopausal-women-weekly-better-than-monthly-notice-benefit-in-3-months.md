@@ -3,7 +3,8 @@ title: "Vitamin D response in post-menopausal women: weekly better than monthly,
 slug: "vitamin-d-response-in-post-menopausal-women-weekly-better-than-monthly-notice-benefit-in-3-months"
 aliases:
   - "/Vitamin+D+response+in+post-menopausal+women+weekly+better+than+monthly+notice+benefit+in+3+months+–+Jan+2021"
-  - "/tiki-index.php?page_id=14910"
+  - "/14910"
+tiki_page_id: 14910
 date: 2023-12-23
 ---
 

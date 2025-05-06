@@ -3,7 +3,8 @@ title: "Resveratrol Role in Autoimmune Disease-A Mini-Review."
 slug: "resveratrol-role-in-autoimmune-disease-a-mini-review"
 aliases:
   - "/Resveratrol+Role+in+Autoimmune+Disease-A+Mini-Review+–+Dec+2016"
-  - "/tiki-index.php?page_id=10707"
+  - "/10707"
+tiki_page_id: 10707
 date: 2019-04-27
 categories:
   - "Psoriasis"

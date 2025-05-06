@@ -3,7 +3,8 @@ title: "COVID-19 vaccines adverse events: myocarditis, pericarditis, etc. (99 mi
 slug: "covid-19-vaccines-adverse-events-myocarditis-pericarditis-etc-99-million-people-not-us"
 aliases:
   - "/COVID-19+vaccines+adverse+events+myocarditis+pericarditis+etc+99+million+people+not+US+–+Feb+2024"
-  - "/tiki-index.php?page_id=15131"
+  - "/15131"
+tiki_page_id: 15131
 date: 2024-03-13
 categories:
   - "Virus"

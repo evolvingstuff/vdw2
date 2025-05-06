@@ -3,7 +3,8 @@ title: "Gene variants can reduce Vitamin D response by 1.7X (14,000 IU daily, Mu
 slug: "gene-variants-can-reduce-vitamin-d-response-by-17x-14000-iu-daily-multiple-sclerosis"
 aliases:
   - "/Gene+variants+can+reduce+Vitamin+D+response+by+17X+14000+IU+daily+Multiple+Sclerosis+–+Dec+2021"
-  - "/tiki-index.php?page_id=13395"
+  - "/13395"
+tiki_page_id: 13395
 date: 2022-03-13
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "Alzheimer's 9X more likely in women with a poor Vitamin D receptor"
 slug: "alzheimers-9x-more-likely-in-women-with-a-poor-vitamin-d-receptor"
 aliases:
   - "/Alzheimers+9X+more+likely+in+women+with+a+poor+Vitamin+D+receptor+–+Sept+2022"
-  - "/tiki-index.php?page_id=13838"
+  - "/13838"
+tiki_page_id: 13838
 date: 2022-08-11
 categories:
   - "Cognitive"

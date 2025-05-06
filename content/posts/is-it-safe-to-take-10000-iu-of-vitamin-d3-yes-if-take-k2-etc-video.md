@@ -3,7 +3,8 @@ title: "Is It Safe to Take 10,000 IU of Vitamin D3 (yes, if take K2, etc) - vide
 slug: "is-it-safe-to-take-10000-iu-of-vitamin-d3-yes-if-take-k2-etc-video"
 aliases:
   - "/Is+It+Safe+to+Take+10000+IU+of+Vitamin+D3+yes+if+take+K2+etc+-+video+Dec+2023"
-  - "/tiki-index.php?page_id=14917"
+  - "/14917"
+tiki_page_id: 14917
 date: 2023-12-25
 categories:
   - "Books, videos on Vitamin D"

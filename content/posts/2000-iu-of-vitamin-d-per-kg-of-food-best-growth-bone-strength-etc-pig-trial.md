@@ -3,7 +3,8 @@ title: "2,000 IU of Vitamin D per kg of food – best growth, bone strength, etc
 slug: "2000-iu-of-vitamin-d-per-kg-of-food-best-growth-bone-strength-etc-pig-trial"
 aliases:
   - "/2000+IU+of+Vitamin+D+per+kg+of+food+–+best+growth+bone+strength+etc+pig+trial+–+Dec+2022"
-  - "/tiki-index.php?page_id=14204"
+  - "/14204"
+tiki_page_id: 14204
 date: 2023-01-08
 categories:
   - "Veterinary and Vitamin D"

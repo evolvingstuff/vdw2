@@ -3,7 +3,8 @@ title: "Very short sleep associated with low Vitamin D"
 slug: "very-short-sleep-associated-with-low-vitamin-d"
 aliases:
   - "/Very+short+sleep+associated+with+low+Vitamin+D+–+Aug+2014"
-  - "/tiki-index.php?page_id=10171"
+  - "/10171"
+tiki_page_id: 10171
 date: 2018-10-31
 categories:
   - "Sleep"

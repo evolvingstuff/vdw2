@@ -3,7 +3,8 @@ title: "Risk of Cardiovascular disease: Low Vitamin D, low HSPCs and high hsCRP"
 slug: "risk-of-cardiovascular-disease-low-vitamin-d-low-hspcs-and-high-hscrp"
 aliases:
   - "/Risk+of+Cardiovascular+disease+Low+Vitamin+D+low+HSPCs+and+high+hsCRP+-+Jan+2024"
-  - "/tiki-index.php?page_id=15017"
+  - "/15017"
+tiki_page_id: 15017
 date: 2024-02-02
 categories:
   - "Cardiovascular"

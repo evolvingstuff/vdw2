@@ -3,7 +3,8 @@ title: "Test of header font sizes"
 slug: "test-of-header-font-sizes"
 aliases:
   - "/Test+of+header+font+sizes"
-  - "/tiki-index.php?page_id=12164"
+  - "/12164"
+tiki_page_id: 12164
 date: 2020-12-21
 categories:
   - "Admin Only"

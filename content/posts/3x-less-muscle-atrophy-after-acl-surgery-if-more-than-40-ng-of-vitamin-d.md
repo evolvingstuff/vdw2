@@ -3,7 +3,8 @@ title: "3X less muscle atrophy after ACL surgery if more than 40 ng of vitamin D
 slug: "3x-less-muscle-atrophy-after-acl-surgery-if-more-than-40-ng-of-vitamin-d"
 aliases:
   - "/3X+less+muscle+atrophy+after+ACL+surgery+if+more+than+40+ng+of+vitamin+D+–+May+2022"
-  - "/tiki-index.php?page_id=13557"
+  - "/13557"
+tiki_page_id: 13557
 date: 2022-05-13
 categories:
   - "Sports and Vitamin D"

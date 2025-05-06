@@ -3,7 +3,8 @@ title: "Beans etc, can cut in half the response to fat-soluble Vitamin D and K"
 slug: "beans-etc-can-cut-in-half-the-response-to-fat-soluble-vitamin-d-and-k"
 aliases:
   - "/Beans+etc+can+cut+in+half+the+response+to+fat-soluble+Vitamin+D+and+K+-+June+2019"
-  - "/tiki-index.php?page_id=14919"
+  - "/14919"
+tiki_page_id: 14919
 date: 2023-12-25
 categories:
   - "Interactions with Vitamin D"

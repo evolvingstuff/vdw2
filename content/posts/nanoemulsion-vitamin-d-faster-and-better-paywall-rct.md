@@ -3,7 +3,8 @@ title: "Nanoemulsion Vitamin D faster and better (paywall) – RCT"
 slug: "nanoemulsion-vitamin-d-faster-and-better-paywall-rct"
 aliases:
   - "/Nanoemulsion+Vitamin+D+faster+and+better+paywall+–+RCT+Dec+2021"
-  - "/tiki-index.php?page_id=13135"
+  - "/13135"
+tiki_page_id: 13135
 date: 2021-12-02
 categories:
   - "Forms of Vitamin D"

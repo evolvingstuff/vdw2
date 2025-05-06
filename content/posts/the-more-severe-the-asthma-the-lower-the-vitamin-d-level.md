@@ -3,7 +3,8 @@ title: "The more severe the Asthma, the lower the vitamin D level"
 slug: "the-more-severe-the-asthma-the-lower-the-vitamin-d-level"
 aliases:
   - "/The+more+severe+the+Asthma+the+lower+the+vitamin+D+level+-+Oct+2023"
-  - "/tiki-index.php?page_id=14744"
+  - "/14744"
+tiki_page_id: 14744
 date: 2023-10-12
 categories:
   - "Breathing"

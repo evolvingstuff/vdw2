@@ -3,7 +3,8 @@ title: "Boost Your Winter Mood and Productivity with vitamin D or morning light"
 slug: "boost-your-winter-mood-and-productivity-with-vitamin-d-or-morning-light"
 aliases:
   - "/Boost+Your+Winter+Mood+and+Productivity+with+vitamin+D+or+morning+light"
-  - "/tiki-index.php?page_id=11421"
+  - "/11421"
+tiki_page_id: 11421
 date: 2019-12-05
 categories:
   - "Depression"

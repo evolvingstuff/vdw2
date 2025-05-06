@@ -3,7 +3,8 @@ title: "Initial efficacy of vaccines against COVID-Delta"
 slug: "initial-efficacy-of-vaccines-against-covid-delta"
 aliases:
   - "/Initial+efficacy+of+vaccines+against+COVID-Delta+-+July+20+2021"
-  - "/tiki-index.php?page_id=12786"
+  - "/12786"
+tiki_page_id: 12786
 date: 2021-07-30
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Kidney Dialysis, low Vitamin D, low Magnesium - many studies"
 slug: "kidney-dialysis-low-vitamin-d-low-magnesium-many-studies"
 aliases:
   - "/Kidney+Dialysis+low+Vitamin+D+low+Magnesium+-+many+studies"
-  - "/tiki-index.php?page_id=14065"
+  - "/14065"
+tiki_page_id: 14065
 date: 2022-11-02
 ---
 

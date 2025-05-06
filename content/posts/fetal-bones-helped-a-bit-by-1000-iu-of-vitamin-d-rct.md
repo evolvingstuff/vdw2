@@ -3,7 +3,8 @@ title: "Fetal bones helped a bit by 1,000 IU of vitamin D – RCT"
 slug: "fetal-bones-helped-a-bit-by-1000-iu-of-vitamin-d-rct"
 aliases:
   - "/Fetal+bones+helped+a+bit+by+1000+IU+of+vitamin+D+–+RCT+Feb+2019"
-  - "/tiki-index.php?page_id=10523"
+  - "/10523"
+tiki_page_id: 10523
 date: 2019-02-25
 categories:
   - "Bone - Health"

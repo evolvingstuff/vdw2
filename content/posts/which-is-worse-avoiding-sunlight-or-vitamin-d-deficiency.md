@@ -3,7 +3,8 @@ title: "Which Is Worse - Avoiding Sunlight or Vitamin D Deficiency"
 slug: "which-is-worse-avoiding-sunlight-or-vitamin-d-deficiency"
 aliases:
   - "/Which+Is+Worse+-+Avoiding+Sunlight+or+Vitamin+D+Deficiency+–+April+2019"
-  - "/tiki-index.php?page_id=10715"
+  - "/10715"
+tiki_page_id: 10715
 date: 2019-04-29
 categories:
   - "Noontime sun and D"

@@ -3,7 +3,8 @@ title: "US Food stamps (SNAP) can not buy supplements such as Vitamin D"
 slug: "us-food-stamps-snap-can-not-buy-supplements-such-as-vitamin-d"
 aliases:
   - "/US+Food+stamps+SNAP+can+not+buy+supplements+such+as+Vitamin+D"
-  - "/tiki-index.php?page_id=10249"
+  - "/10249"
+tiki_page_id: 10249
 date: 2018-11-29
 ---
 

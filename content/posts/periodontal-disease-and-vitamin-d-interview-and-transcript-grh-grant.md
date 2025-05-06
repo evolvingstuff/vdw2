@@ -3,7 +3,8 @@ title: "Periodontal Disease and Vitamin D - interview and transcript - GRH, Gran
 slug: "periodontal-disease-and-vitamin-d-interview-and-transcript-grh-grant"
 aliases:
   - "/Periodontal+Disease+and+Vitamin+D+-+interview+and+transcript+-+GRH+Grant+July+2023"
-  - "/tiki-index.php?page_id=14578"
+  - "/14578"
+tiki_page_id: 14578
 date: 2023-08-01
 categories:
   - "Dental"

@@ -3,7 +3,8 @@ title: "Immune System tolerance is inversely related to the number of COVID vacc
 slug: "immune-system-tolerance-is-inversely-related-to-the-number-of-covid-vaccinations-pubmed-analysis"
 aliases:
   - "/Immune+System+tolerance+is+inversely+related+to+the+number+of+COVID+vaccinations+PubMed+analysis+-+Oct+2023"
-  - "/tiki-index.php?page_id=14737"
+  - "/14737"
+tiki_page_id: 14737
 date: 2023-10-10
 categories:
   - "Immunity"

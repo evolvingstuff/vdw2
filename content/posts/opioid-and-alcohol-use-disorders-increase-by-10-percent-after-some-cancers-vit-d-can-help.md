@@ -3,7 +3,8 @@ title: "Opioid and alcohol use disorders increase by 10% after some Cancers (Vit
 slug: "opioid-and-alcohol-use-disorders-increase-by-10-percent-after-some-cancers-vit-d-can-help"
 aliases:
   - "/Opioid+and+alcohol+use+disorders+increase+by+10+after+some+Cancers+Vit+D+can+help-+Jan+2024"
-  - "/tiki-index.php?page_id=14982"
+  - "/14982"
+tiki_page_id: 14982
 date: 2024-01-18
 categories:
   - "Cancer - after diagnosis"

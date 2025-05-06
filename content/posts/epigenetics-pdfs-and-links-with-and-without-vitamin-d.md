@@ -3,7 +3,8 @@ title: "Epigenetics - PDFs and links, with and without Vitamin D"
 slug: "epigenetics-pdfs-and-links-with-and-without-vitamin-d"
 aliases:
   - "/Epigenetics+-+PDFs+and+links+with+and+without+Vitamin+D"
-  - "/tiki-index.php?page_id=11242"
+  - "/11242"
+tiki_page_id: 11242
 date: 2019-10-17
 categories:
   - "Genetics"

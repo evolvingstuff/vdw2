@@ -3,7 +3,8 @@ title: "Myopia, AMD, Dry Eye, and Diabetic Retinopathy are all associated with l
 slug: "myopia-amd-dry-eye-and-diabetic-retinopathy-are-all-associated-with-low-vitamin-d"
 aliases:
   - "/Myopia+AMD+Dry+Eye+and+Diabetic+Retinopathy+are+all+associated+with+low+Vitamin+D+-+April+2023"
-  - "/tiki-index.php?page_id=14394"
+  - "/14394"
+tiki_page_id: 14394
 date: 2023-04-24
 categories:
   - "Vision"

@@ -3,7 +3,8 @@ title: "COVID-19 and Vitamin D - Wikipedia"
 slug: "covid-19-and-vitamin-d-wikipedia"
 aliases:
   - "/COVID-19+and+Vitamin+D+-+Wikipedia+Oct+10+2021"
-  - "/tiki-index.php?page_id=12968"
+  - "/12968"
+tiki_page_id: 12968
 date: 2021-10-10
 categories:
   - "Virus"

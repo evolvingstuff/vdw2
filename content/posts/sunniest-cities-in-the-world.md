@@ -3,7 +3,8 @@ title: "Sunniest cities in the world"
 slug: "sunniest-cities-in-the-world"
 aliases:
   - "/Sunniest+cities+in+the+world"
-  - "/tiki-index.php?page_id=11004"
+  - "/11004"
+tiki_page_id: 11004
 date: 2019-07-17
 categories:
   - "Noontime sun and D"

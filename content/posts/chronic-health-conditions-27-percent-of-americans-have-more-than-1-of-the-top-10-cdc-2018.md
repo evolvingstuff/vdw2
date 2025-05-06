@@ -3,7 +3,8 @@ title: "Chronic Health Conditions: 27% of Americans have more than 1 of the top 
 slug: "chronic-health-conditions-27-percent-of-americans-have-more-than-1-of-the-top-10-cdc-2018"
 aliases:
   - "/Chronic+Health+Conditions+27+of+Americans+have+more+than+1+of+the+top+10+-+CDC+2018"
-  - "/tiki-index.php?page_id=14852"
+  - "/14852"
+tiki_page_id: 14852
 date: 2023-11-30
 categories:
   - "Health"

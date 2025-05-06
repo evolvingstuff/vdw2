@@ -3,7 +3,8 @@ title: "Fibromyalgia pain, fatigue, etc. reduced by 50,000 IU of Vitamin D for 1
 slug: "fibromyalgia-pain-fatigue-etc-reduced-by-50000-iu-of-vitamin-d-for-12-weeks"
 aliases:
   - "/Fibromyalgia+pain+fatigue+etc+reduced+by+50000+IU+of+Vitamin+D+for+12+weeks+–+Sept+2023"
-  - "/tiki-index.php?page_id=14682"
+  - "/14682"
+tiki_page_id: 14682
 date: 2023-09-14
 categories:
   - "Pain - chronic"

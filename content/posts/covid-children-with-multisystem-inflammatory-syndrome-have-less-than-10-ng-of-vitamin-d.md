@@ -3,7 +3,8 @@ title: "COVID children with multisystem inflammatory syndrome have less than 10 
 slug: "covid-children-with-multisystem-inflammatory-syndrome-have-less-than-10-ng-of-vitamin-d"
 aliases:
   - "/COVID+children+with+multisystem+inflammatory+syndrome+have+less+than+10+ng+of+vitamin+D+–+March+2022"
-  - "/tiki-index.php?page_id=13362"
+  - "/13362"
+tiki_page_id: 13362
 date: 2022-03-01
 categories:
   - "Infant-Child"

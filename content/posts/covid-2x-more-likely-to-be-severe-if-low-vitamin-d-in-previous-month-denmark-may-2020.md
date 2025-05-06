@@ -3,7 +3,8 @@ title: "COVID 2X more likely to be severe if low Vitamin D in previous month (De
 slug: "covid-2x-more-likely-to-be-severe-if-low-vitamin-d-in-previous-month-denmark-may-2020"
 aliases:
   - "/COVID+2X+more+likely+to+be+severe+if+low+Vitamin+D+in+previous+month+Denmark+May+2020+–+Nov+2022"
-  - "/tiki-index.php?page_id=14102"
+  - "/14102"
+tiki_page_id: 14102
 date: 2022-11-23
 categories:
   - "Virus"

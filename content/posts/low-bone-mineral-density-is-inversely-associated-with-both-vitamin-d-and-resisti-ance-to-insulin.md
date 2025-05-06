@@ -3,7 +3,8 @@ title: "Low bone mineral density is inversely associated with both Vitamin D and
 slug: "low-bone-mineral-density-is-inversely-associated-with-both-vitamin-d-and-resisti-ance-to-insulin"
 aliases:
   - "/Low+bone+mineral+density+is+inversely+associated+with+both+Vitamin+D+and+Resistin+resistance+to+insulin"
-  - "/tiki-index.php?page_id=12222"
+  - "/12222"
+tiki_page_id: 12222
 date: 2021-01-15
 categories:
   - "Diabetes"

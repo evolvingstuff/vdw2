@@ -3,7 +3,8 @@ title: "CDC v-safe vaccination data is finally on-line"
 slug: "cdc-v-safe-vaccination-data-is-finally-on-line"
 aliases:
   - "/CDC+v-safe+vaccination+data+is+finally+on-line+-+Oct+5+2022"
-  - "/tiki-index.php?page_id=14022"
+  - "/14022"
+tiki_page_id: 14022
 date: 2022-10-18
 categories:
   - "Virus"

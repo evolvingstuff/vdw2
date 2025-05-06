@@ -3,7 +3,8 @@ title: "COVID-19 risk reduction trials: Vitamin D is best so far"
 slug: "covid-19-risk-reduction-trials-vitamin-d-is-best-so-far"
 aliases:
   - "/COVID-19+risk+reduction+trials+Vitamin+D+is+best+so+far+-+Sept+19+2020"
-  - "/tiki-index.php?page_id=11964"
+  - "/11964"
+tiki_page_id: 11964
 date: 2020-09-20
 categories:
   - "Virus"

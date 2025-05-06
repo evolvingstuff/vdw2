@@ -3,7 +3,8 @@ title: "Early Childhood Caries 1.4 times more likely if 20-30 ng of Vitamin D â€
 slug: "early-childhood-caries-14-times-more-likely-if-20-30-ng-of-vitamin-d-meta-analysis"
 aliases:
   - "/Early+Childhood+Caries+14+times+more+likely+if+20-30+ng+of+Vitamin+D+â€“+meta-analysis+Jan+2024"
-  - "/tiki-index.php?page_id=15025"
+  - "/15025"
+tiki_page_id: 15025
 date: 2024-02-03
 categories:
   - "Dental"

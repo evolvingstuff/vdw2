@@ -3,7 +3,8 @@ title: "Merck’s antiviral – FDA OKed Dec 2021, sold pills worth 5 billion do
 slug: "mercks-antiviral-fda-oked-dec-2021-sold-pills-worth-5-billion-dollars-found-to-n-hospitalization"
 aliases:
   - "/Mercks+antiviral+–+FDA+OKed+Dec+2021+sold+pills+worth+5+billion+dollars+found+to+not+reduce+hospitalization+–+Oct+2022"
-  - "/tiki-index.php?page_id=13995"
+  - "/13995"
+tiki_page_id: 13995
 date: 2022-10-08
 categories:
   - "Virus"

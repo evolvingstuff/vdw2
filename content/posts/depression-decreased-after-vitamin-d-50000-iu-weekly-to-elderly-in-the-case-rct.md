@@ -3,7 +3,8 @@ title: "Depression decreased after vitamin D (50,000 IU weekly to elderly in the
 slug: "depression-decreased-after-vitamin-d-50000-iu-weekly-to-elderly-in-the-case-rct"
 aliases:
   - "/Depression+decreased+after+vitamin+D+50000+IU+weekly+to+elderly+in+the+case+–+RCT+Oct+2019"
-  - "/tiki-index.php?page_id=11241"
+  - "/11241"
+tiki_page_id: 11241
 date: 2019-10-16
 categories:
   - "Depression"

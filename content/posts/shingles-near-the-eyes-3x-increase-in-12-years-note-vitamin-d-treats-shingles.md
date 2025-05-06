@@ -3,7 +3,8 @@ title: "Shingles near the eyes – 3X increase in 12 years (note – Vitamin D t
 slug: "shingles-near-the-eyes-3x-increase-in-12-years-note-vitamin-d-treats-shingles"
 aliases:
   - "/Shingles+near+the+eyes+–+3X+increase+in+12+years+note+–+Vitamin+D+treats+shingles+–+May+2019"
-  - "/tiki-index.php?page_id=10957"
+  - "/10957"
+tiki_page_id: 10957
 date: 2019-07-06
 categories:
   - "Virus"

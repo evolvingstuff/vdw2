@@ -3,7 +3,8 @@ title: "How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick"
 slug: "how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick"
 aliases:
   - "/How+Vitamin+D+Omega-3s+and+Exercise+May+Increase+Longevity+-+Patrick+Nov+2023"
-  - "/tiki-index.php?page_id=14815"
+  - "/14815"
+tiki_page_id: 14815
 date: 2023-11-10
 categories:
   - "Books, videos on Vitamin D"

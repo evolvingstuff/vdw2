@@ -3,7 +3,8 @@ title: "Less likely to die of various causes if higher Vitamin D (data from 300,
 slug: "less-likely-to-die-of-various-causes-if-higher-vitamin-d-data-from-300000-people"
 aliases:
   - "/Less+likely+to+die+of+various+causes+if+higher+Vitamin+D+data+from+300000+people+–+Oct+2022"
-  - "/tiki-index.php?page_id=14039"
+  - "/14039"
+tiki_page_id: 14039
 date: 2022-10-25
 categories:
   - "Seniors"

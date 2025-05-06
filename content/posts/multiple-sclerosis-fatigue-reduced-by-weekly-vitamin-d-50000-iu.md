@@ -3,7 +3,8 @@ title: "Multiple Sclerosis fatigue reduced by weekly Vitamin D (50,000 IU)"
 slug: "multiple-sclerosis-fatigue-reduced-by-weekly-vitamin-d-50000-iu"
 aliases:
   - "/Multiple+Sclerosis+fatigue+reduced+by+weekly+Vitamin+D+50000+IU+–+June+2023"
-  - "/tiki-index.php?page_id=14534"
+  - "/14534"
+tiki_page_id: 14534
 date: 2023-07-15
 categories:
   - "Multiple Sclerosis"

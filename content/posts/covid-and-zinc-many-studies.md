@@ -3,7 +3,8 @@ title: "COVID and Zinc - many studies"
 slug: "covid-and-zinc-many-studies"
 aliases:
   - "/COVID+and+Zinc+-+many+studies"
-  - "/tiki-index.php?page_id=14074"
+  - "/14074"
+tiki_page_id: 14074
 date: 2022-11-07
 categories:
   - "Virus"

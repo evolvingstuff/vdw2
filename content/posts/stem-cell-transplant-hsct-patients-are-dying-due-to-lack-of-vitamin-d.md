@@ -3,7 +3,8 @@ title: "Stem cell transplant (HSCT) patients are dying due to lack of vitamin D"
 slug: "stem-cell-transplant-hsct-patients-are-dying-due-to-lack-of-vitamin-d"
 aliases:
   - "/Stem+cell+transplant+HSCT+patients+are+dying+due+to+lack+of+vitamin+D+–+Oct+2019"
-  - "/tiki-index.php?page_id=11284"
+  - "/11284"
+tiki_page_id: 11284
 date: 2019-10-28
 categories:
   - "Trauma and surgery"

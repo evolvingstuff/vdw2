@@ -3,7 +3,8 @@ title: "Risk of Vitamin D deficiency with Breast Cancer: 2.7 X if normal weight,
 slug: "risk-of-vitamin-d-deficiency-with-breast-cancer-27-x-if-normal-weight-7-x-if-obese-no-surprise"
 aliases:
   - "/Risk+of+Vitamin+D+deficiency+with+Breast+Cancer+27+X+if+normal+weight+7+X+if+obese+no+surprise+–+March+2024"
-  - "/tiki-index.php?page_id=15173"
+  - "/15173"
+tiki_page_id: 15173
 date: 2024-03-26
 categories:
   - "Obesity"

@@ -3,7 +3,8 @@ title: "A Vitamin D and COVID website: VitaminDandMe - 2022"
 slug: "a-vitamin-d-and-covid-website-vitamindandme-2022"
 aliases:
   - "/A+Vitamin+D+and+COVID+website+VitaminDandMe+-+2022"
-  - "/tiki-index.php?page_id=13424"
+  - "/13424"
+tiki_page_id: 13424
 date: 2022-03-22
 categories:
   - "Virus"

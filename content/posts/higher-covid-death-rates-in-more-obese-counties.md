@@ -3,7 +3,8 @@ title: "Higher COVID death rates in more obese counties"
 slug: "higher-covid-death-rates-in-more-obese-counties"
 aliases:
   - "/Higher+COVID+death+rates+in+more+obese+counties+-+Dec+2021"
-  - "/tiki-index.php?page_id=13134"
+  - "/13134"
+tiki_page_id: 13134
 date: 2021-12-02
 categories:
   - "Obesity"

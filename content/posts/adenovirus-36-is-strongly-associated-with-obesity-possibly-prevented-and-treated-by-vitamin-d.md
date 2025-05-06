@@ -3,7 +3,8 @@ title: "Adenovirus-36 is strongly associated with Obesity (possibly prevented an
 slug: "adenovirus-36-is-strongly-associated-with-obesity-possibly-prevented-and-treated-by-vitamin-d"
 aliases:
   - "/Adenovirus-36+is+strongly+associated+with+Obesity+possibly+prevented+and+treated+by+Vitamin+D"
-  - "/tiki-index.php?page_id=11132"
+  - "/11132"
+tiki_page_id: 11132
 date: 2019-09-08
 categories:
   - "Obesity"

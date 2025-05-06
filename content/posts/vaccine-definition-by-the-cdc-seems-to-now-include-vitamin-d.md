@@ -3,7 +3,8 @@ title: "Vaccine definition by the CDC seems to now include Vitamin D"
 slug: "vaccine-definition-by-the-cdc-seems-to-now-include-vitamin-d"
 aliases:
   - "/Vaccine+definition+by+the+CDC+seems+to+now+include+Vitamin+D+-+Sept+2021"
-  - "/tiki-index.php?page_id=13091"
+  - "/13091"
+tiki_page_id: 13091
 date: 2021-11-17
 categories:
   - "Immunity"

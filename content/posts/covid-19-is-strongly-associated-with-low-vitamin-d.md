@@ -3,7 +3,8 @@ title: "COVID-19 is strongly associated with low vitamin D"
 slug: "covid-19-is-strongly-associated-with-low-vitamin-d"
 aliases:
   - "/COVID-19+is+strongly+associated+with+low+vitamin+D"
-  - "/tiki-index.php?page_id=11712"
+  - "/11712"
+tiki_page_id: 11712
 date: 2020-04-05
 categories:
   - "Virus"

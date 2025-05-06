@@ -3,7 +3,8 @@ title: "Vitamin D deficiency associated with increased risk of many health probl
 slug: "vitamin-d-deficiency-associated-with-increased-risk-of-many-health-problems-in-58000000-americans"
 aliases:
   - "/Vitamin+D+deficiency+associated+with+increased+risk+of+many+health+problems+in+58000000+Americans+-+Nov+2020"
-  - "/tiki-index.php?page_id=12081"
+  - "/12081"
+tiki_page_id: 12081
 date: 2020-11-23
 categories:
   - "Cardiovascular"

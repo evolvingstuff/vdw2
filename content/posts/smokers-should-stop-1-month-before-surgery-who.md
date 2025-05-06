@@ -3,7 +3,8 @@ title: "Smokers should stop 1 month before surgery W.H.O."
 slug: "smokers-should-stop-1-month-before-surgery-who"
 aliases:
   - "/Smokers+should+stop+1+month+before+surgery+WHO+–+Jan+2020"
-  - "/tiki-index.php?page_id=11582"
+  - "/11582"
+tiki_page_id: 11582
 date: 2020-01-22
 categories:
   - "Trauma and surgery"

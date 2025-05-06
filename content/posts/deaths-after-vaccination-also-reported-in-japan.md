@@ -3,7 +3,8 @@ title: "Deaths after vaccination - also reported in Japan"
 slug: "deaths-after-vaccination-also-reported-in-japan"
 aliases:
   - "/Deaths+after+vaccination+-+also+reported+in+Japan+-+Dec+2023"
-  - "/tiki-index.php?page_id=14881"
+  - "/14881"
+tiki_page_id: 14881
 date: 2023-12-11
 categories:
   - "Mortality and D"

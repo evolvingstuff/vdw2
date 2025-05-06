@@ -3,7 +3,8 @@ title: "Cancer of the eye in children: most of the risk factors are associated w
 slug: "cancer-of-the-eye-in-children-most-of-the-risk-factors-are-associated-with-low-vitamin-d"
 aliases:
   - "/Cancer+of+the+eye+in+children+most+of+the+risk+factors+are+associated+with+low+vitamin+D+–+July+2021"
-  - "/tiki-index.php?page_id=13216"
+  - "/13216"
+tiki_page_id: 13216
 date: 2021-12-26
 categories:
   - "Cancer"

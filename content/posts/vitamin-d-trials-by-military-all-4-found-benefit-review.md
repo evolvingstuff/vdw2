@@ -3,7 +3,8 @@ title: "Vitamin D trials by military – all 4 found benefit – review"
 slug: "vitamin-d-trials-by-military-all-4-found-benefit-review"
 aliases:
   - "/Vitamin+D+trials+by+military+–+all+4+found+benefit+–+review+Sept+2019"
-  - "/tiki-index.php?page_id=11323"
+  - "/11323"
+tiki_page_id: 11323
 date: 2019-11-08
 categories:
   - "Sports and Vitamin D"

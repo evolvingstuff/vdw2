@@ -3,7 +3,8 @@ title: "Fight COVID-19 with Vitamin D, Vitamin C, Zinc, Selenium, Resveratrol, e
 slug: "fight-covid-19-with-vitamin-d-vitamin-c-zinc-selenium-resveratrol-etc-sardi"
 aliases:
   - "/Fight+COVID-19+with+Vitamin+D+Vitamin+C+Zinc+Selenium+Resveratrol+etc+-+Sardi+May+12+2020"
-  - "/tiki-index.php?page_id=11766"
+  - "/11766"
+tiki_page_id: 11766
 date: 2020-05-14
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Season of birth associated with many health problem (UK Biobank)"
 slug: "season-of-birth-associated-with-many-health-problem-uk-biobank"
 aliases:
   - "/Season+of+birth+associated+with+many+health+problem+UK+Biobank+–+Nov+2020"
-  - "/tiki-index.php?page_id=14111"
+  - "/14111"
+tiki_page_id: 14111
 date: 2022-11-26
 categories:
   - "Season of Birth"

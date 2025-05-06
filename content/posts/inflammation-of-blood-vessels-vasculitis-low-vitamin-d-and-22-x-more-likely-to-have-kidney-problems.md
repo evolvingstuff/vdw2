@@ -3,7 +3,8 @@ title: "Inflammation of blood vessels (vasculitis): low Vitamin D and 22 X more 
 slug: "inflammation-of-blood-vessels-vasculitis-low-vitamin-d-and-22-x-more-likely-to-have-kidney-problems"
 aliases:
   - "/Inflammation+of+blood+vessels+vasculitis+low+Vitamin+D+and+22+X+more+likely+to+have+kidney+problems+–+March+2022"
-  - "/tiki-index.php?page_id=13393"
+  - "/13393"
+tiki_page_id: 13393
 date: 2022-03-13
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Epstein-Barr is yet another virus that deactivates the Vitamin D recepto
 slug: "epstein-barr-is-yet-another-virus-that-deactivates-the-vitamin-d-receptor-covid--ed-as-well-2010"
 aliases:
   - "/Epstein-Barr+is+yet+another+virus+that+deactivates+the+Vitamin+D+receptor+COVID+later+suspected+as+well–+2010"
-  - "/tiki-index.php?page_id=12998"
+  - "/12998"
+tiki_page_id: 12998
 date: 2021-10-17
 categories:
   - "Vitamin D Receptor"

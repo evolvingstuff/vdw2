@@ -3,7 +3,8 @@ title: "Omega-3 index of 6 to 7 associated with best cognition in this study"
 slug: "omega-3-index-of-6-to-7-associated-with-best-cognition-in-this-study"
 aliases:
   - "/Omega-3+index+of+6+to+7+associated+with+best+cognition+in+this+study+–+Nov+2019"
-  - "/tiki-index.php?page_id=11329"
+  - "/11329"
+tiki_page_id: 11329
 date: 2019-11-09
 categories:
   - "Cognitive"

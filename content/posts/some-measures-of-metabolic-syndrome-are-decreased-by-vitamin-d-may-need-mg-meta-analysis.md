@@ -3,7 +3,8 @@ title: "Some measures of metabolic syndrome are decreased by Vitamin D (may need
 slug: "some-measures-of-metabolic-syndrome-are-decreased-by-vitamin-d-may-need-mg-meta-analysis"
 aliases:
   - "/Some+measures+of+metabolic+syndrome+are+decreased+by+Vitamin+D+may+need+Mg+–+meta-analysis+Oct+2022"
-  - "/tiki-index.php?page_id=14036"
+  - "/14036"
+tiki_page_id: 14036
 date: 2022-10-24
 categories:
   - "Meta-analysis of Vitamin D"

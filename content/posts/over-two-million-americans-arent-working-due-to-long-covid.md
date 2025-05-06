@@ -3,7 +3,8 @@ title: "Over Two Million Americans Aren’t Working Due to Long-COVID"
 slug: "over-two-million-americans-arent-working-due-to-long-covid"
 aliases:
   - "/Over+Two+Million+Americans+Arent+Working+Due+to+Long-COVID+-+Aug+2022"
-  - "/tiki-index.php?page_id=13871"
+  - "/13871"
+tiki_page_id: 13871
 date: 2022-08-27
 categories:
   - "Virus"

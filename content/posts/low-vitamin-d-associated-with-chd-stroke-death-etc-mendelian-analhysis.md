@@ -3,7 +3,8 @@ title: "Low Vitamin D associated with CHD, stroke, death, etc, (Mendelian analhy
 slug: "low-vitamin-d-associated-with-chd-stroke-death-etc-mendelian-analhysis"
 aliases:
   - "/Low+Vitamin+D+associated+with+CHD+stroke+death+etc+Mendelian+analhysis+-+Dec+2021"
-  - "/tiki-index.php?page_id=14954"
+  - "/14954"
+tiki_page_id: 14954
 date: 2024-01-07
 categories:
   - "Cardiovascular"

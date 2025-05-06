@@ -3,7 +3,8 @@ title: "Tobacco smoke is radioactive – 1 year is the same as 300 chest Xrays"
 slug: "tobacco-smoke-is-radioactive-1-year-is-the-same-as-300-chest-xrays"
 aliases:
   - "/Tobacco+smoke+is+radioactive+–+1+year+is+the+same+as+300+chest+Xrays"
-  - "/tiki-index.php?page_id=10600"
+  - "/10600"
+tiki_page_id: 10600
 date: 2019-03-22
 ---
 

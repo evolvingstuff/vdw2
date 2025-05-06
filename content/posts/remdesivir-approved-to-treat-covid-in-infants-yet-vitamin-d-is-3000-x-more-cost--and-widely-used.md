@@ -3,7 +3,8 @@ title: "Remdesivir approved to treat COVID in Infants, yet Vitamin D is 3000 X m
 slug: "remdesivir-approved-to-treat-covid-in-infants-yet-vitamin-d-is-3000-x-more-cost--and-widely-used"
 aliases:
   - "/Remdesivir+approved+to+treat+COVID+in+Infants+yet+Vitamin+D+is+3000+X+more+cost+effective+and+widely+used+-+April+2022"
-  - "/tiki-index.php?page_id=13524"
+  - "/13524"
+tiki_page_id: 13524
 date: 2022-04-27
 categories:
   - "Top news"

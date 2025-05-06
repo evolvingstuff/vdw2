@@ -3,7 +3,8 @@ title: "Omega-3 supplementation reduced preterm birth rate by 4X – RCT"
 slug: "omega-3-supplementation-reduced-preterm-birth-rate-by-4x-rct"
 aliases:
   - "/Omega-3+supplementation+reduced+preterm+birth+rate+by+4X+–+RCT+July+2020"
-  - "/tiki-index.php?page_id=13468"
+  - "/13468"
+tiki_page_id: 13468
 date: 2022-04-10
 categories:
   - "Pregnancy"

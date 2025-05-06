@@ -3,7 +3,8 @@ title: "Getting Vitamin D before heart surgery prevented Afib in those who had b
 slug: "getting-vitamin-d-before-heart-surgery-prevented-afib-in-those-who-had-been-deficient"
 aliases:
   - "/Getting+Vitamin+D+before+heart+surgery+prevented+Afib+in+those+who+had+been+deficient+–+July+2018"
-  - "/tiki-index.php?page_id=10047"
+  - "/10047"
+tiki_page_id: 10047
 date: 2018-09-18
 categories:
   - "Cardiovascular"

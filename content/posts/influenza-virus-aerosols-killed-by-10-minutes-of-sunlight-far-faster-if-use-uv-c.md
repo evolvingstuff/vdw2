@@ -3,7 +3,8 @@ title: "Influenza Virus aerosols killed by 10 minutes of sunlight (far faster if
 slug: "influenza-virus-aerosols-killed-by-10-minutes-of-sunlight-far-faster-if-use-uv-c"
 aliases:
   - "/Influenza+Virus+aerosols+killed+by+10+minutes+of+sunlight+far+faster+if+use+UV-C+–+Nov+2019"
-  - "/tiki-index.php?page_id=11631"
+  - "/11631"
+tiki_page_id: 11631
 date: 2020-02-16
 categories:
   - "UV and Vitamin D"

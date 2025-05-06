@@ -3,7 +3,8 @@ title: "Melanoma not treated by small doses of vitamin D (100,000 IU every 50 da
 slug: "melanoma-not-treated-by-small-doses-of-vitamin-d-100000-iu-every-50-days-rct"
 aliases:
   - "/Melanoma+not+treated+by+small+doses+of+vitamin+D+100000+IU+every+50+days+–+RCT+June+2021"
-  - "/tiki-index.php?page_id=12705"
+  - "/12705"
+tiki_page_id: 12705
 date: 2021-06-29
 ---
 

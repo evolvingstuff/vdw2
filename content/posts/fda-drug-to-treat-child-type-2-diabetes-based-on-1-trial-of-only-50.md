@@ -3,7 +3,8 @@ title: "FDA drug to TREAT child Type 2 diabetes (based on 1 trial of only 50)"
 slug: "fda-drug-to-treat-child-type-2-diabetes-based-on-1-trial-of-only-50"
 aliases:
   - "/FDA+drug+to+TREAT+child+Type+2+diabetes+based+on+1+trial+of+only+50+–+June+2023"
-  - "/tiki-index.php?page_id=14496"
+  - "/14496"
+tiki_page_id: 14496
 date: 2023-06-24
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "Alzheimer’s Disease risk is 1.9 X higher if Vitamin D deficient- meta-
 slug: "alzheimers-disease-risk-is-19-x-higher-if-vitamin-d-deficient-meta-analysis"
 aliases:
   - "/Alzheimers+Disease+risk+is+19+X+higher+if+Vitamin+D+deficient-+meta-analysis+Feb+2020"
-  - "/tiki-index.php?page_id=11612"
+  - "/11612"
+tiki_page_id: 11612
 date: 2020-02-06
 categories:
   - "Meta-analysis of Vitamin D"

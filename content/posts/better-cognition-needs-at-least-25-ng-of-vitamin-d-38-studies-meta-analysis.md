@@ -3,7 +3,8 @@ title: "Better Cognition needs at least 25 ng of Vitamin D (38 studies)– meta-
 slug: "better-cognition-needs-at-least-25-ng-of-vitamin-d-38-studies-meta-analysis"
 aliases:
   - "/Better+Cognition+needs+at+least+25+ng+of+Vitamin+D+38+studies–+meta-analysis+June+2023"
-  - "/tiki-index.php?page_id=14467"
+  - "/14467"
+tiki_page_id: 14467
 date: 2023-06-03
 categories:
   - "Cognitive"

@@ -3,7 +3,8 @@ title: "Many health problems are a result of low vitamin D, which can be easily 
 slug: "many-health-problems-are-a-result-of-low-vitamin-d-which-can-be-easily-changed"
 aliases:
   - "/Many+health+problems+are+a+result+of+low+vitamin+D+which+can+be+easily+changed"
-  - "/tiki-index.php?page_id=14611"
+  - "/14611"
+tiki_page_id: 14611
 date: 2023-08-14
 ---
 

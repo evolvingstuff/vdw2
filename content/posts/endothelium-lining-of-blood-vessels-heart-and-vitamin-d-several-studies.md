@@ -3,7 +3,8 @@ title: "Endothelium (lining of blood vessels, heart) and Vitamin D - several stu
 slug: "endothelium-lining-of-blood-vessels-heart-and-vitamin-d-several-studies"
 aliases:
   - "/Endothelium+lining+of+blood+vessels+heart+and+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=14720"
+  - "/14720"
+tiki_page_id: 14720
 date: 2023-10-03
 categories:
   - "Cardiovascular"

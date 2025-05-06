@@ -3,7 +3,8 @@ title: "Number 1 Vitamin D Danger You Absolutely Must Know! - with transcript"
 slug: "number-1-vitamin-d-danger-you-absolutely-must-know-with-transcript"
 aliases:
   - "/Number+1+Vitamin+D+Danger+You+Absolutely+Must+Know+-+with+transcript+Nov+2023"
-  - "/tiki-index.php?page_id=14809"
+  - "/14809"
+tiki_page_id: 14809
 date: 2023-11-03
 categories:
   - "Books, videos on Vitamin D"

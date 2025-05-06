@@ -3,7 +3,8 @@ title: "Vitamin D and progesterone are synergistic during pregnancy"
 slug: "vitamin-d-and-progesterone-are-synergistic-during-pregnancy"
 aliases:
   - "/Vitamin+D+and+progesterone+are+synergistic+during+pregnancy+–+April+2018"
-  - "/tiki-index.php?page_id=11321"
+  - "/11321"
+tiki_page_id: 11321
 date: 2019-11-07
 categories:
   - "Pregnancy"

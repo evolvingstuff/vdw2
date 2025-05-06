@@ -3,7 +3,8 @@ title: "Lower vitamin D in blood causes Alzheimer's Disease (Mendelian gene anal
 slug: "lower-vitamin-d-in-blood-causes-alzheimers-disease-mendelian-gene-analysis"
 aliases:
   - "/Lower+vitamin+D+in+blood+causes+Alzheimers+Disease+Mendelian+gene+analysis+–+Dec+2019"
-  - "/tiki-index.php?page_id=11441"
+  - "/11441"
+tiki_page_id: 11441
 date: 2019-12-10
 categories:
   - "Genetics"

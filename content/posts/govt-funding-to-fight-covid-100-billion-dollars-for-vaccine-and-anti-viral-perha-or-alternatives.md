@@ -3,7 +3,8 @@ title: "Govt funding to fight COVID: 100 billion dollars for vaccine and anti-vi
 slug: "govt-funding-to-fight-covid-100-billion-dollars-for-vaccine-and-anti-viral-perha-or-alternatives"
 aliases:
   - "/Govt+funding+to+fight+COVID+100+billion+dollars+for+vaccine+and+anti-viral+perhaps+zero+for+alternatives+-+Aug+2022"
-  - "/tiki-index.php?page_id=13850"
+  - "/13850"
+tiki_page_id: 13850
 date: 2022-08-21
 categories:
   - "Virus"

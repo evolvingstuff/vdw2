@@ -3,7 +3,8 @@ title: "Vitamin D every 14 weeks is not often enough (asthma in this case)"
 slug: "vitamin-d-every-14-weeks-is-not-often-enough-asthma-in-this-case"
 aliases:
   - "/Vitamin+D+every+14+weeks+is+not+often+enough+asthma+in+this+case–+Feb+2019"
-  - "/tiki-index.php?page_id=10506"
+  - "/10506"
+tiki_page_id: 10506
 date: 2019-02-20
 categories:
   - "Intervention"

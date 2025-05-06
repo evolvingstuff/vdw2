@@ -3,7 +3,8 @@ title: "Probiotics increased Vitamin D etc in healthy children – RCT"
 slug: "probiotics-increased-vitamin-d-etc-in-healthy-children-rct"
 aliases:
   - "/Probiotics+increased+Vitamin+D+etc+in+healthy+children+–+RCT+Oct+2019"
-  - "/tiki-index.php?page_id=11277"
+  - "/11277"
+tiki_page_id: 11277
 date: 2019-10-26
 categories:
   - "Antibiotics, probiotics"

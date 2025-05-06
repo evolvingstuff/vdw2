@@ -3,7 +3,8 @@ title: "Why Big Pharma is ‘TERRIFIED’ of Vitamin D - Dr. Korry"
 slug: "why-big-pharma-is-terrified-of-vitamin-d-dr-korry"
 aliases:
   - "/Why+Big+Pharma+is+TERRIFIED+of+Vitamin+D+-+Dr+Korry+March+2024"
-  - "/tiki-index.php?page_id=15151"
+  - "/15151"
+tiki_page_id: 15151
 date: 2024-03-19
 ---
 

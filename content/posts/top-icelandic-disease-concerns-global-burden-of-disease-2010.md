@@ -3,7 +3,8 @@ title: "Top Icelandic disease concerns - Global Burden of Disease 2010"
 slug: "top-icelandic-disease-concerns-global-burden-of-disease-2010"
 aliases:
   - "/Top+Icelandic+disease+concerns+-+Global+Burden+of+Disease+2010"
-  - "/tiki-index.php?page_id=14157"
+  - "/14157"
+tiki_page_id: 14157
 date: 2022-12-19
 ---
 

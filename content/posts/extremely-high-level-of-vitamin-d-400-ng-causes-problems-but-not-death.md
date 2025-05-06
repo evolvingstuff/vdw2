@@ -3,7 +3,8 @@ title: "Extremely high level of vitamin D (400 ng) causes problems, but not deat
 slug: "extremely-high-level-of-vitamin-d-400-ng-causes-problems-but-not-death"
 aliases:
   - "/Extremely+high+level+of+vitamin+D+400+ng+causes+problems+but+not+death+–+Jan+2021"
-  - "/tiki-index.php?page_id=12243"
+  - "/12243"
+tiki_page_id: 12243
 date: 2021-01-20
 categories:
   - "Toxicity of Vitamin D"

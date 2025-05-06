@@ -3,7 +3,8 @@ title: "Increase infant Vitamin D: forification, daily, weekly, monthly, breast 
 slug: "increase-infant-vitamin-d-forification-daily-weekly-monthly-breast-milk-review"
 aliases:
   - "/Increase+infant+Vitamin+D+forification+daily+weekly+monthly+breast+milk+-+Review+June+2022"
-  - "/tiki-index.php?page_id=14072"
+  - "/14072"
+tiki_page_id: 14072
 date: 2022-11-07
 categories:
   - "Infant-Child"

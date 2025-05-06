@@ -3,7 +3,8 @@ title: "Vitamin D levels in the brain vary with both the region and the brain pr
 slug: "vitamin-d-levels-in-the-brain-vary-with-both-the-region-and-the-brain-problem"
 aliases:
   - "/Vitamin+D+levels+in+the+brain+vary+with+both+the+region+and+the+brain+problem+–+Dec+2022"
-  - "/tiki-index.php?page_id=14384"
+  - "/14384"
+tiki_page_id: 14384
 date: 2023-04-16
 categories:
   - "Cognitive"

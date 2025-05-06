@@ -3,7 +3,8 @@ title: "Perhaps 3X more likely to catch COVID-19 in a group (church) in Nov 2021
 slug: "perhaps-3x-more-likely-to-catch-covid-19-in-a-group-church-in-nov-2021-than"
 aliases:
   - "/Perhaps+3X+more+likely+to+catch+COVID-19+in+a+group+church+in+Nov+2021+than+Nov+2020"
-  - "/tiki-index.php?page_id=13036"
+  - "/13036"
+tiki_page_id: 13036
 date: 2021-10-31
 categories:
   - "Virus"

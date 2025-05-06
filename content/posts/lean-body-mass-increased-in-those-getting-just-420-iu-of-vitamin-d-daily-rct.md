@@ -3,7 +3,8 @@ title: "Lean body mass increased in those getting just 420 IU of vitamin D daily
 slug: "lean-body-mass-increased-in-those-getting-just-420-iu-of-vitamin-d-daily-rct"
 aliases:
   - "/Lean+body+mass+increased+in+those+getting+just+420+IU+of+vitamin+D+daily–+RCT+Dec+2019"
-  - "/tiki-index.php?page_id=11422"
+  - "/11422"
+tiki_page_id: 11422
 date: 2019-12-05
 categories:
   - "Sports and Vitamin D"

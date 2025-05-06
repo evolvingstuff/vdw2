@@ -3,7 +3,8 @@ title: "Vitamin D and Calcium does not increase bone density (also need exercise
 slug: "vitamin-d-and-calcium-does-not-increase-bone-density-also-need-exercise-mg-k2-protein-etc-rct"
 aliases:
   - "/Vitamin+D+and+Calcium+does+not+increase+bone+density+also+need+exercise+Mg+K2+protein+etc+–+RCT+Aug+2019"
-  - "/tiki-index.php?page_id=11106"
+  - "/11106"
+tiki_page_id: 11106
 date: 2019-08-27
 categories:
   - "old name"

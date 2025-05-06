@@ -3,7 +3,8 @@ title: "Vitamin D Workshop in Austin Texas - Sept 6-9 2022"
 slug: "vitamin-d-workshop-in-austin-texas-sept-6-9-2022"
 aliases:
   - "/Vitamin+D+Workshop+in+Austin+Texas+-+Sept+6-9+2022"
-  - "/tiki-index.php?page_id=13582"
+  - "/13582"
+tiki_page_id: 13582
 date: 2022-05-22
 categories:
   - "Conference"

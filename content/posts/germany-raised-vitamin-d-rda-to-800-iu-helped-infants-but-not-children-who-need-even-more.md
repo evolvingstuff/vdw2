@@ -3,7 +3,8 @@ title: "Germany raised Vitamin D RDA to 800 IU - helped infants, but not childre
 slug: "germany-raised-vitamin-d-rda-to-800-iu-helped-infants-but-not-children-who-need-even-more"
 aliases:
   - "/Germany+raised+Vitamin+D+RDA+to+800+IU+-+helped+infants+but+not+children+who+need+even+more+–+June+2019"
-  - "/tiki-index.php?page_id=11583"
+  - "/11583"
+tiki_page_id: 11583
 date: 2020-01-23
 categories:
   - "Deficiency of Vitamin D"

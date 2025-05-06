@@ -3,7 +3,8 @@ title: "Tripledemic: Flu, COVID, and RSV (all fought by Vitamin D)"
 slug: "tripledemic-flu-covid-and-rsv-all-fought-by-vitamin-d"
 aliases:
   - "/Tripledemic+Flu+COVID+and+RSV+all+fought+by+Vitamin+D+-+Oct+2022"
-  - "/tiki-index.php?page_id=14034"
+  - "/14034"
+tiki_page_id: 14034
 date: 2022-10-23
 categories:
   - "Infant-Child"

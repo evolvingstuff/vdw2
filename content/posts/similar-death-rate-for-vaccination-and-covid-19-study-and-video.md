@@ -3,7 +3,8 @@ title: "Similar death rate for Vaccination and COVID-19 study and video"
 slug: "similar-death-rate-for-vaccination-and-covid-19-study-and-video"
 aliases:
   - "/Similar+death+rate+for+Vaccination+and+COVID-19+study+and+video+–+June+24+2021"
-  - "/tiki-index.php?page_id=12697"
+  - "/12697"
+tiki_page_id: 12697
 date: 2021-06-28
 categories:
   - "Mortality and D"

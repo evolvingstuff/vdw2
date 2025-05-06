@@ -3,7 +3,8 @@ title: "50,000 IU Vitamin D weekly was the most popular for Breast Cancer"
 slug: "50000-iu-vitamin-d-weekly-was-the-most-popular-for-breast-cancer"
 aliases:
   - "/50000+IU+Vitamin+D+weekly+was+the+most+popular+for+Breast+Cancer+-+May+2020"
-  - "/tiki-index.php?page_id=11814"
+  - "/11814"
+tiki_page_id: 11814
 date: 2020-06-24
 categories:
   - "How much Vitamin D"

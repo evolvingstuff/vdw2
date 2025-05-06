@@ -3,7 +3,8 @@ title: "On-line Vitamin D response simulation"
 slug: "on-line-vitamin-d-response-simulation"
 aliases:
   - "/On-line+Vitamin+D+response+simulation+–+July+2021"
-  - "/tiki-index.php?page_id=12570"
+  - "/12570"
+tiki_page_id: 12570
 date: 2021-05-07
 categories:
   - "How, when to take Vit. D"

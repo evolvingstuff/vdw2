@@ -3,7 +3,8 @@ title: "Household air pollution increases the risk of pregnancy disorders, Vitam
 slug: "household-air-pollution-increases-the-risk-of-pregnancy-disorders-vitamin-d-reduces-the-risk"
 aliases:
   - "/Household+air+pollution+increases+the+risk+of+pregnancy+disorders+Vitamin+D+reduces+the+risk+–+Nov+2021"
-  - "/tiki-index.php?page_id=13121"
+  - "/13121"
+tiki_page_id: 13121
 date: 2021-11-27
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Increase in children with low vitamin D and with tibia fractures during 
 slug: "increase-in-children-with-low-vitamin-d-and-with-tibia-fractures-during-covid"
 aliases:
   - "/Increase+in+children+with+low+vitamin+D+and+with+tibia+fractures+during+COVID+–+June+2022"
-  - "/tiki-index.php?page_id=13752"
+  - "/13752"
+tiki_page_id: 13752
 date: 2022-07-13
 categories:
   - "Infant-Child"

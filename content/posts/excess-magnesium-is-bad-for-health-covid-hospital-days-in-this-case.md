@@ -3,7 +3,8 @@ title: "Excess Magnesium is bad for health (COVID hospital days in this case)"
 slug: "excess-magnesium-is-bad-for-health-covid-hospital-days-in-this-case"
 aliases:
   - "/Excess+Magnesium+is+bad+for+health+COVID+hospital+days+in+this+case+–+April+2022"
-  - "/tiki-index.php?page_id=13485"
+  - "/13485"
+tiki_page_id: 13485
 date: 2022-04-15
 categories:
   - "Vitamin D and Magnesium"

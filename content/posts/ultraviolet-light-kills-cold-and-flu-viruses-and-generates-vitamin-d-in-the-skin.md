@@ -3,7 +3,8 @@ title: "Ultraviolet light kills cold and flu viruses, and generates Vitamin D in
 slug: "ultraviolet-light-kills-cold-and-flu-viruses-and-generates-vitamin-d-in-the-skin"
 aliases:
   - "/Ultraviolet+light+kills+cold+and+flu+viruses+and+generates+Vitamin+D+in+the+skin"
-  - "/tiki-index.php?page_id=10378"
+  - "/10378"
+tiki_page_id: 10378
 date: 2019-01-06
 categories:
   - "Breathing"

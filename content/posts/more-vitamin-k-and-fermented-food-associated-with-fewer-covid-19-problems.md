@@ -3,7 +3,8 @@ title: "More Vitamin K and fermented food associated with fewer COVID-19 problem
 slug: "more-vitamin-k-and-fermented-food-associated-with-fewer-covid-19-problems"
 aliases:
   - "/More+Vitamin+K+and+fermented+food+associated+with+fewer+COVID-19+problems"
-  - "/tiki-index.php?page_id=11753"
+  - "/11753"
+tiki_page_id: 11753
 date: 2020-04-30
 categories:
   - "Vitamin D and Vitamin K"

@@ -3,7 +3,8 @@ title: "Vitamin D Resistance hypothesis confirmed by Coimbra high-dose vitamin D
 slug: "vitamin-d-resistance-hypothesis-confirmed-by-coimbra-high-dose-vitamin-d-protocol"
 aliases:
   - "/Vitamin+D+Resistance+hypothesis+confirmed+by+Coimbra+high-dose+vitamin+D+protocol+–+April+2021"
-  - "/tiki-index.php?page_id=12478"
+  - "/12478"
+tiki_page_id: 12478
 date: 2021-04-07
 categories:
   - "Deficiency of Vitamin D"

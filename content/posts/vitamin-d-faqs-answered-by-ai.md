@@ -3,7 +3,8 @@ title: "Vitamin D FAQs - answered by AI"
 slug: "vitamin-d-faqs-answered-by-ai"
 aliases:
   - "/Vitamin+D+FAQs+-+answered+by+AI"
-  - "/tiki-index.php?page_id=15122"
+  - "/15122"
+tiki_page_id: 15122
 date: 2024-03-11
 ---
 

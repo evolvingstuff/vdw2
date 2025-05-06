@@ -3,7 +3,8 @@ title: "Neurodevelopmental problems 2X more likely in male infants if low vitami
 slug: "neurodevelopmental-problems-2x-more-likely-in-male-infants-if-low-vitamin-d-japan"
 aliases:
   - "/Neurodevelopmental+problems+2X+more+likely+in+male+infants+if+low+vitamin+D+Japan+–+Oct+2023"
-  - "/tiki-index.php?page_id=14791"
+  - "/14791"
+tiki_page_id: 14791
 date: 2023-10-29
 ---
 

@@ -3,7 +3,8 @@ title: "5000 IU Vitamin D daily resulted in lower health care costs - RCT"
 slug: "5000-iu-vitamin-d-daily-resulted-in-lower-health-care-costs-rct"
 aliases:
   - "/5000+IU+Vitamin+D+daily+resulted+in+lower+health+care+costs+-+RCT+Oct+2023"
-  - "/tiki-index.php?page_id=14728"
+  - "/14728"
+tiki_page_id: 14728
 date: 2023-10-05
 categories:
   - "Intervention"

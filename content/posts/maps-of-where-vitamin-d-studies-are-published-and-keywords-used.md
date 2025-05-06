@@ -3,7 +3,8 @@ title: "Maps of where Vitamin D studies are published and keywords used"
 slug: "maps-of-where-vitamin-d-studies-are-published-and-keywords-used"
 aliases:
   - "/Maps+of+where+Vitamin+D+studies+are+published+and+keywords+used+–+Jan+2018"
-  - "/tiki-index.php?page_id=10158"
+  - "/10158"
+tiki_page_id: 10158
 date: 2018-10-26
 categories:
   - "World"

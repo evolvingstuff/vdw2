@@ -3,7 +3,8 @@ title: "Comparing High-dose vitamin D therapies"
 slug: "comparing-high-dose-vitamin-d-therapies"
 aliases:
   - "/Comparing+High-dose+vitamin+D+therapies"
-  - "/tiki-index.php?page_id=10447"
+  - "/10447"
+tiki_page_id: 10447
 date: 2019-02-01
 categories:
   - "How much Vitamin D"

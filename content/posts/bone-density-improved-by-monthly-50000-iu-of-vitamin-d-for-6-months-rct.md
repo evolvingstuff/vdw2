@@ -3,7 +3,8 @@ title: "Bone density improved by monthly 50,000 IU of vitamin D for 6 months –
 slug: "bone-density-improved-by-monthly-50000-iu-of-vitamin-d-for-6-months-rct"
 aliases:
   - "/Bone+density+improved+by+monthly+50000+IU+of+vitamin+D+for+6+months+–+RCT+Jan+2021"
-  - "/tiki-index.php?page_id=12241"
+  - "/12241"
+tiki_page_id: 12241
 date: 2021-01-19
 categories:
   - "Falls and Fractures"

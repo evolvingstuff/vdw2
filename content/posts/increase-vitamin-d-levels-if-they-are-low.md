@@ -3,7 +3,8 @@ title: "Increase vitamin D levels if they are low"
 slug: "increase-vitamin-d-levels-if-they-are-low"
 aliases:
   - "/Increase+vitamin+D+levels+if+they+are+low+-+April+2023"
-  - "/tiki-index.php?page_id=14388"
+  - "/14388"
+tiki_page_id: 14388
 date: 2023-04-21
 categories:
   - "Optimum"

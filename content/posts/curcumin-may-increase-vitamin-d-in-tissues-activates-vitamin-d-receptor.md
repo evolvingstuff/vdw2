@@ -3,7 +3,8 @@ title: "Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor
 slug: "curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor"
 aliases:
   - "/Curcumin+may+increase+Vitamin+D+in+tissues+activates+Vitamin+D+Receptor+–+Dec+2010"
-  - "/tiki-index.php?page_id=10734"
+  - "/10734"
+tiki_page_id: 10734
 date: 2019-05-04
 categories:
   - "Vitamin D Receptor"

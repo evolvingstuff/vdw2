@@ -3,7 +3,8 @@ title: "Traumatic Brain Injuries routinely treated by Vitamin D, Omega-3, Proges
 slug: "traumatic-brain-injuries-routinely-treated-by-vitamin-d-omega-3-progesterone-and-gluatmine"
 aliases:
   - "/Traumatic+Brain+Injuries+routinely+treated+by+Vitamin+D+Omega-3+Progesterone+and+Gluatmine"
-  - "/tiki-index.php?page_id=10770"
+  - "/10770"
+tiki_page_id: 10770
 date: 2019-05-14
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Colon Cancer 30 percent higher risk if low vitamin D (optimally need ~40
 slug: "colon-cancer-30-percent-higher-risk-if-low-vitamin-d-optimally-need-40-ng"
 aliases:
   - "/Colon+Cancer+30+percent+higher+risk+if+low+vitamin+D+optimally+need+40+ng+–+Feb+2019"
-  - "/tiki-index.php?page_id=10586"
+  - "/10586"
+tiki_page_id: 10586
 date: 2019-03-19
 categories:
   - "Cancer - Colon"

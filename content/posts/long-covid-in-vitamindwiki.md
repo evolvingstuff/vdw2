@@ -3,7 +3,8 @@ title: "Long-COVID in VitaminDWiki"
 slug: "long-covid-in-vitamindwiki"
 aliases:
   - "/Long-COVID+in+VitaminDWiki"
-  - "/tiki-index.php?page_id=12277"
+  - "/12277"
+tiki_page_id: 12277
 date: 2021-01-30
 categories:
   - "Virus"

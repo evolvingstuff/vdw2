@@ -3,7 +3,8 @@ title: "COVID-19 association with Vitamin D also being explored by Hollis and Wa
 slug: "covid-19-association-with-vitamin-d-also-being-explored-by-hollis-and-wagner"
 aliases:
   - "/COVID-19+association+with+Vitamin+D+also+being+explored+by+Hollis+and+Wagner+-+April+2020"
-  - "/tiki-index.php?page_id=11749"
+  - "/11749"
+tiki_page_id: 11749
 date: 2020-04-29
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Domesticated animals vary in amount and causes of bone diseases"
 slug: "domesticated-animals-vary-in-amount-and-causes-of-bone-diseases"
 aliases:
   - "/Domesticated+animals+vary+in+amount+and+causes+of+bone+diseases+–+March+2018"
-  - "/tiki-index.php?page_id=10822"
+  - "/10822"
+tiki_page_id: 10822
 date: 2019-06-02
 categories:
   - "Veterinary and Vitamin D"

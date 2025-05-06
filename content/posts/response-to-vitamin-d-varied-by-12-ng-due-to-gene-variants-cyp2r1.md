@@ -3,7 +3,8 @@ title: "Response to Vitamin D varied by 12 ng due to gene variants (CYP2R1)"
 slug: "response-to-vitamin-d-varied-by-12-ng-due-to-gene-variants-cyp2r1"
 aliases:
   - "/Response+to+Vitamin+D+varied+by+12+ng+due+to+gene+variants+CYP2R1+–+Aug+2019"
-  - "/tiki-index.php?page_id=10882"
+  - "/10882"
+tiki_page_id: 10882
 date: 2019-06-15
 categories:
   - "Genetics"

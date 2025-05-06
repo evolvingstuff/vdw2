@@ -3,7 +3,8 @@ title: "Omega-3 helps muscles - many studies"
 slug: "omega-3-helps-muscles-many-studies"
 aliases:
   - "/Omega-3+helps+muscles+-+many+studies"
-  - "/tiki-index.php?page_id=14824"
+  - "/14824"
+tiki_page_id: 14824
 date: 2023-11-16
 categories:
   - "Sports and Vitamin D"

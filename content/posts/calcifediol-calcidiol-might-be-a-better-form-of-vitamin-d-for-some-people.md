@@ -3,7 +3,8 @@ title: "Calcifediol (Calcidiol) might be a better form of Vitamin D for some peo
 slug: "calcifediol-calcidiol-might-be-a-better-form-of-vitamin-d-for-some-people"
 aliases:
   - "/Calcifediol+Calcidiol+might+be+a+better+form+of+Vitamin+D+for+some+people+–+May+2019"
-  - "/tiki-index.php?page_id=10749"
+  - "/10749"
+tiki_page_id: 10749
 date: 2019-05-09
 categories:
   - "Calcidiol"

@@ -3,7 +3,8 @@ title: "Off topic: The same person paid by Big Sugar to downplay the risks of su
 slug: "off-topic-the-same-person-paid-by-big-sugar-to-downplay-the-risks-of-sugar-was-p-e-risks-of-meat"
 aliases:
   - "/Off+topic+The+same+person+paid+by+Big+Sugar+to+downplay+the+risks+of+sugar+was+paid+by+Big+Meat+to+downplay+the+risks+of+meat+-+July+2022"
-  - "/tiki-index.php?page_id=13746"
+  - "/13746"
+tiki_page_id: 13746
 date: 2022-07-11
 categories:
   - "Off Topic"

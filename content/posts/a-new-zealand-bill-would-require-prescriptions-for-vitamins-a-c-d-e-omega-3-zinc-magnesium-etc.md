@@ -3,7 +3,8 @@ title: "A New Zealand bill would require prescriptions for Vitamins A, C, D, E, 
 slug: "a-new-zealand-bill-would-require-prescriptions-for-vitamins-a-c-d-e-omega-3-zinc-magnesium-etc"
 aliases:
   - "/A+New+Zealand+bill+would+require+prescriptions+for+Vitamins+A+C+D+E+Omega-3+Zinc+Magnesium+etc+–+Jan+2023"
-  - "/tiki-index.php?page_id=14224"
+  - "/14224"
+tiki_page_id: 14224
 date: 2023-01-22
 ---
 

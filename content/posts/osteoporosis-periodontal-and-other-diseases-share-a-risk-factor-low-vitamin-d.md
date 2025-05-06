@@ -3,7 +3,8 @@ title: "Osteoporosis, periodontal and other diseases share a risk factor – low
 slug: "osteoporosis-periodontal-and-other-diseases-share-a-risk-factor-low-vitamin-d"
 aliases:
   - "/Osteoporosis+periodontal+and+other+diseases+share+a+risk+factor+–+low+vitamin+D+–+March+2022"
-  - "/tiki-index.php?page_id=13370"
+  - "/13370"
+tiki_page_id: 13370
 date: 2022-03-04
 categories:
   - "Deficiency of Vitamin D"

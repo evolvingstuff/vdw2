@@ -3,7 +3,8 @@ title: "No response to Vitamin D was 11 X more likely to have if poor Binding ge
 slug: "no-response-to-vitamin-d-was-11-x-more-likely-to-have-if-poor-binding-gene"
 aliases:
   - "/No+response+to+Vitamin+D+was+11+X+more+likely+to+have+if+poor+Binding+gene+–+Sept+2022"
-  - "/tiki-index.php?page_id=13946"
+  - "/13946"
+tiki_page_id: 13946
 date: 2022-09-27
 categories:
   - "Vit D Binding Protein"

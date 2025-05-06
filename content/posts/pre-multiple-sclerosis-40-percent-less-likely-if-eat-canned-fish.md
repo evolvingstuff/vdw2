@@ -3,7 +3,8 @@ title: "Pre-Multiple Sclerosis 40 percent less likely if eat canned fish"
 slug: "pre-multiple-sclerosis-40-percent-less-likely-if-eat-canned-fish"
 aliases:
   - "/Pre-Multiple+Sclerosis+40+percent+less+likely+if+eat+canned+fish+–+Aug+2019"
-  - "/tiki-index.php?page_id=11059"
+  - "/11059"
+tiki_page_id: 11059
 date: 2019-08-10
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "Co-factors increase Vitamin D response for the GRH cohort"
 slug: "co-factors-increase-vitamin-d-response-for-the-grh-cohort"
 aliases:
   - "/Co-factors+increase+Vitamin+D+response+for+the+GRH+cohort+-+Jan+2023"
-  - "/tiki-index.php?page_id=14220"
+  - "/14220"
+tiki_page_id: 14220
 date: 2023-01-20
 categories:
   - "Supplement"

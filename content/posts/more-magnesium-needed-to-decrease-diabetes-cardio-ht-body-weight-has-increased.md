@@ -3,7 +3,8 @@ title: "More Magnesium needed to decrease diabetes, cardio, HT (body weight has 
 slug: "more-magnesium-needed-to-decrease-diabetes-cardio-ht-body-weight-has-increased"
 aliases:
   - "/More+Magnesium+needed+to+decrease+diabetes+cardio+HT+body+weight+has+increased+-+March+2021"
-  - "/tiki-index.php?page_id=13653"
+  - "/13653"
+tiki_page_id: 13653
 date: 2022-06-09
 categories:
   - "Cardiovascular"

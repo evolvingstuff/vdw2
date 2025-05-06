@@ -3,7 +3,8 @@ title: "Septic children have low Vitamin D (54 studies, ignored Vitamin D Recept
 slug: "septic-children-have-low-vitamin-d-54-studies-ignored-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Septic+children+have+low+Vitamin+D+54+studies+ignored+Vitamin+D+Receptor+–+meta-analysis+April+2019"
-  - "/tiki-index.php?page_id=11034"
+  - "/11034"
+tiki_page_id: 11034
 date: 2019-07-31
 categories:
   - "Trauma and surgery"

@@ -3,7 +3,8 @@ title: "Vitamin D levels change Gut Microbiota – 25 study review"
 slug: "vitamin-d-levels-change-gut-microbiota-25-study-review"
 aliases:
   - "/Vitamin+D+levels+change+Gut+Microbiota+–+25+study+review+Sept+2021"
-  - "/tiki-index.php?page_id=12923"
+  - "/12923"
+tiki_page_id: 12923
 date: 2021-09-26
 categories:
   - "Gut"

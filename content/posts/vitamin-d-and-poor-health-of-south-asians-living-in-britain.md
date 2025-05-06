@@ -3,7 +3,8 @@ title: "Vitamin D and poor health of South Asians living in Britain"
 slug: "vitamin-d-and-poor-health-of-south-asians-living-in-britain"
 aliases:
   - "/Vitamin+D+and+poor+health+of+South+Asians+living+in+Britain+–+Oct+2022"
-  - "/tiki-index.php?page_id=14058"
+  - "/14058"
+tiki_page_id: 14058
 date: 2022-10-30
 categories:
   - "Skin - Dark"

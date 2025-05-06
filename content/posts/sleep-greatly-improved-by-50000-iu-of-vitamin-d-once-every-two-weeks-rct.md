@@ -3,7 +3,8 @@ title: "Sleep greatly improved by 50,000 IU of vitamin D once every two weeks â€
 slug: "sleep-greatly-improved-by-50000-iu-of-vitamin-d-once-every-two-weeks-rct"
 aliases:
   - "/Sleep+greatly+improved+by+50000+IU+of+vitamin+D+once+every+two+weeks+â€“+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=14591"
+  - "/14591"
+tiki_page_id: 14591
 date: 2023-08-07
 categories:
   - "Sleep"

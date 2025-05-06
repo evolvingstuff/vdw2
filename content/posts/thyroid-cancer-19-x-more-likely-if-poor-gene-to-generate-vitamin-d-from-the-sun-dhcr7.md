@@ -3,7 +3,8 @@ title: "Thyroid Cancer 1.9 X more likely if poor gene to generate Vitamin D from
 slug: "thyroid-cancer-19-x-more-likely-if-poor-gene-to-generate-vitamin-d-from-the-sun-dhcr7"
 aliases:
   - "/Thyroid+Cancer+19+X+more+likely+if+poor+gene+to+generate+Vitamin+D+from+the+sun+DHCR7+–+July+2019"
-  - "/tiki-index.php?page_id=11036"
+  - "/11036"
+tiki_page_id: 11036
 date: 2019-07-31
 categories:
   - "Genetics"

@@ -3,7 +3,8 @@ title: "USPSTF says no evidence that Vitamins prevent CVD or Cancer (data disagr
 slug: "uspstf-says-no-evidence-that-vitamins-prevent-cvd-or-cancer-data-disagrees"
 aliases:
   - "/USPSTF+says+no+evidence+that+Vitamins+prevent+CVD+or+Cancer+data+disagrees+Aug+2022"
-  - "/tiki-index.php?page_id=13887"
+  - "/13887"
+tiki_page_id: 13887
 date: 2022-09-05
 categories:
   - "Cardiovascular"

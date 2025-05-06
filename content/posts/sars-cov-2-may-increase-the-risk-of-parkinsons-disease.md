@@ -3,7 +3,8 @@ title: "SARS-CoV-2 may increase the risk of Parkinson's Disease"
 slug: "sars-cov-2-may-increase-the-risk-of-parkinsons-disease"
 aliases:
   - "/SARS-CoV-2+may+increase+the+risk+of+Parkinsons+Disease+-+Dec+2021"
-  - "/tiki-index.php?page_id=13199"
+  - "/13199"
+tiki_page_id: 13199
 date: 2021-12-17
 categories:
   - "Parkinson"

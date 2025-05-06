@@ -3,7 +3,8 @@ title: "100,000 IU of Vitamin D3 monthly for 4 months to diabetics (D2 bombed) â
 slug: "100000-iu-of-vitamin-d3-monthly-for-4-months-to-diabetics-d2-bombed-rct"
 aliases:
   - "/100000+IU+of+Vitamin+D3+monthly+for+4+months+to+diabetics+D2+bombed+â€“+RCT+Dec+2019"
-  - "/tiki-index.php?page_id=11466"
+  - "/11466"
+tiki_page_id: 11466
 date: 2019-12-17
 categories:
   - "Diabetes"

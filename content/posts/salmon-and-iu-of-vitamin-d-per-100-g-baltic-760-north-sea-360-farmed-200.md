@@ -3,7 +3,8 @@ title: "Salmon and IU of Vitamin D per 100 g – Baltic 760, North Sea 360, Farm
 slug: "salmon-and-iu-of-vitamin-d-per-100-g-baltic-760-north-sea-360-farmed-200"
 aliases:
   - "/Salmon+and+IU+of+Vitamin+D+per+100+g+–+Baltic+760+North+Sea+360+Farmed+200+–+April+2019"
-  - "/tiki-index.php?page_id=10716"
+  - "/10716"
+tiki_page_id: 10716
 date: 2019-04-29
 categories:
   - "Food sources for Vitamin D"

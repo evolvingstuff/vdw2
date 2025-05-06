@@ -3,7 +3,8 @@ title: "Omega-3 improves elderly muscles – 2 meta-analyses"
 slug: "omega-3-improves-elderly-muscles-2-meta-analyses"
 aliases:
   - "/Omega-3+improves+elderly+muscles+–+2+meta-analyses"
-  - "/tiki-index.php?page_id=12437"
+  - "/12437"
+tiki_page_id: 12437
 date: 2021-03-26
 categories:
   - "Seniors"

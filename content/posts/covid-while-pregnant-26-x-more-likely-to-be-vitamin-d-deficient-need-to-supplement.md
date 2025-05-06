@@ -3,7 +3,8 @@ title: "COVID while pregnant: 2.6 X more likely to be Vitamin D deficient (need 
 slug: "covid-while-pregnant-26-x-more-likely-to-be-vitamin-d-deficient-need-to-supplement"
 aliases:
   - "/COVID+while+pregnant+26+X+more+likely+to+be+Vitamin+D+deficient+need+to+supplement+-+March+2022"
-  - "/tiki-index.php?page_id=13473"
+  - "/13473"
+tiki_page_id: 13473
 date: 2022-04-12
 categories:
   - "Pregnancy"

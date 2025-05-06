@@ -3,7 +3,8 @@ title: "Vitamin D Receptor activation in cells varies by 100 X - Carlberg"
 slug: "vitamin-d-receptor-activation-in-cells-varies-by-100-x-carlberg"
 aliases:
   - "/Vitamin+D+Receptor+activation+in+cells+varies+by+100+X+-+Carlberg+April+2023"
-  - "/tiki-index.php?page_id=15039"
+  - "/15039"
+tiki_page_id: 15039
 date: 2024-02-10
 categories:
   - "Vitamin D Receptor"

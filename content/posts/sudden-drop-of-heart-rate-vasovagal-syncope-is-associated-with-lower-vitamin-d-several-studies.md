@@ -3,7 +3,8 @@ title: "Sudden drop of heart rate (vasovagal syncope) is associated with lower v
 slug: "sudden-drop-of-heart-rate-vasovagal-syncope-is-associated-with-lower-vitamin-d-several-studies"
 aliases:
   - "/Sudden+drop+of+heart+rate+vasovagal+syncope+is+associated+with+lower+vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=12351"
+  - "/12351"
+tiki_page_id: 12351
 date: 2021-02-25
 categories:
   - "Cardiovascular"

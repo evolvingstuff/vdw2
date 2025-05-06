@@ -3,7 +3,8 @@ title: "Better than Daily"
 slug: "better-than-daily"
 aliases:
   - "/Better+than+Daily"
-  - "/tiki-index.php?page_id=11252"
+  - "/11252"
+tiki_page_id: 11252
 date: 2019-10-20
 categories:
   - "Top news"

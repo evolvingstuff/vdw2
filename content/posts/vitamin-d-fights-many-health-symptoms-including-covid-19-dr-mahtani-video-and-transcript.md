@@ -3,7 +3,8 @@ title: "Vitamin D fights many health symptoms, including COVID-19: Dr. Mahtani v
 slug: "vitamin-d-fights-many-health-symptoms-including-covid-19-dr-mahtani-video-and-transcript"
 aliases:
   - "/Vitamin+D+fights+many+health+symptoms+including+COVID-19+Dr+Mahtani+video+and+transcript+-+April+2021"
-  - "/tiki-index.php?page_id=12523"
+  - "/12523"
+tiki_page_id: 12523
 date: 2021-04-21
 categories:
   - "Books, videos on Vitamin D"

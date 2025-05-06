@@ -3,7 +3,8 @@ title: "Recurrent Wheezing in children is associated with low Vitamin D – seve
 slug: "recurrent-wheezing-in-children-is-associated-with-low-vitamin-d-several-studies"
 aliases:
   - "/Recurrent+Wheezing+in+children+is+associated+with+low+Vitamin+D+–+several+studies"
-  - "/tiki-index.php?page_id=11863"
+  - "/11863"
+tiki_page_id: 11863
 date: 2020-07-24
 categories:
   - "Deficiency of Vitamin D"

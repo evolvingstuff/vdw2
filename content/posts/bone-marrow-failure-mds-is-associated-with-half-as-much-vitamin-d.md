@@ -3,7 +3,8 @@ title: "Bone marrow failure (MDS) is associated with half as much Vitamin D"
 slug: "bone-marrow-failure-mds-is-associated-with-half-as-much-vitamin-d"
 aliases:
   - "/Bone+marrow+failure+MDS+is+associated+with+half+as+much+Vitamin+D+–+April+2019"
-  - "/tiki-index.php?page_id=10652"
+  - "/10652"
+tiki_page_id: 10652
 date: 2019-04-10
 categories:
   - "Cardiovascular"

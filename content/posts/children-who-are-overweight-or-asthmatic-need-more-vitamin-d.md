@@ -3,7 +3,8 @@ title: "Children who are overweight or asthmatic need more Vitamin D"
 slug: "children-who-are-overweight-or-asthmatic-need-more-vitamin-d"
 aliases:
   - "/Children+who+are+overweight+or+asthmatic+need+more+Vitamin+D+–+Aug+2023"
-  - "/tiki-index.php?page_id=14651"
+  - "/14651"
+tiki_page_id: 14651
 date: 2023-08-31
 ---
 

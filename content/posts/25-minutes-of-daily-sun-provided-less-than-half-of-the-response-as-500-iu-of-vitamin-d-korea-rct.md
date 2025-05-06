@@ -3,7 +3,8 @@ title: "25 minutes of daily sun provided less than half of the response as 500 I
 slug: "25-minutes-of-daily-sun-provided-less-than-half-of-the-response-as-500-iu-of-vitamin-d-korea-rct"
 aliases:
   - "/25+minutes+of+daily+sun+provided+less+than+half+of+the+response+as+500+IU+of+vitamin+D+Korea+–+RCT+March+2019"
-  - "/tiki-index.php?page_id=10619"
+  - "/10619"
+tiki_page_id: 10619
 date: 2019-03-26
 categories:
   - "Noontime sun and D"

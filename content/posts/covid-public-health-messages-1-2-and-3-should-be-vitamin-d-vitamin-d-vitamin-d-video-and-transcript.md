@@ -3,7 +3,8 @@ title: "COVID public health messages 1, 2, and 3 should be - vitamin d vitamin d
 slug: "covid-public-health-messages-1-2-and-3-should-be-vitamin-d-vitamin-d-vitamin-d-video-and-transcript"
 aliases:
   - "/COVID+public+health+messages+1+2+and+3+should+be+-+vitamin+d+vitamin+d+vitamin+d+video+and+transcript+-+Mar+5+2021"
-  - "/tiki-index.php?page_id=12409"
+  - "/12409"
+tiki_page_id: 12409
 date: 2021-03-14
 categories:
   - "Books, videos on Vitamin D"

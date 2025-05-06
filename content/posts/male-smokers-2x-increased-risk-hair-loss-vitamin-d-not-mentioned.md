@@ -3,7 +3,8 @@ title: "Male smokers:  2X increased Risk hair loss (vitamin D not mentioned)"
 slug: "male-smokers-2x-increased-risk-hair-loss-vitamin-d-not-mentioned"
 aliases:
   - "/Male+smokers+2X+increased+Risk+hair+loss+vitamin+D+not+mentioned+-+Jan+2024"
-  - "/tiki-index.php?page_id=14984"
+  - "/14984"
+tiki_page_id: 14984
 date: 2024-01-19
 ---
 

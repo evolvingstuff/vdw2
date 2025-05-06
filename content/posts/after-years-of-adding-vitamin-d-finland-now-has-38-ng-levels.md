@@ -3,7 +3,8 @@ title: "After years of adding vitamin D, Finland now has 38 ng levels"
 slug: "after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels"
 aliases:
   - "/After+years+of+adding+vitamin+D+Finland+now+has+38+ng+levels+-+March+2022"
-  - "/tiki-index.php?page_id=13427"
+  - "/13427"
+tiki_page_id: 13427
 date: 2022-03-24
 categories:
   - "Vitamin D Far from equator"

@@ -3,7 +3,8 @@ title: "Brain Plasticity (Posit Science) greatly improves speed, recall"
 slug: "brain-plasticity-posit-science-greatly-improves-speed-recall"
 aliases:
   - "/Brain+Plasticity+Posit+Science+greatly+improves+speed+recall"
-  - "/tiki-index.php?page_id=10347"
+  - "/10347"
+tiki_page_id: 10347
 date: 2018-12-29
 categories:
   - "Off Topic"

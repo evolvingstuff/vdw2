@@ -3,7 +3,8 @@ title: "Meta-analyses of vitamin D, etc, sorted by associated category"
 slug: "meta-analyses-of-vitamin-d-etc-sorted-by-associated-category"
 aliases:
   - "/Meta-analyses+of+vitamin+D+etc+sorted+by+associated+category"
-  - "/tiki-index.php?page_id=13911"
+  - "/13911"
+tiki_page_id: 13911
 date: 2022-09-14
 categories:
   - "Meta-analysis of Vitamin D"

@@ -3,7 +3,8 @@ title: "People with Multiple Sclerosis have blunted responses to Vitamin D suppl
 slug: "people-with-multiple-sclerosis-have-blunted-responses-to-vitamin-d-supplementation"
 aliases:
   - "/People+with+Multiple+Sclerosis+have+blunted+responses+to+Vitamin+D+supplementation+-+Jan+2024"
-  - "/tiki-index.php?page_id=14976"
+  - "/14976"
+tiki_page_id: 14976
 date: 2024-01-17
 categories:
   - "Multiple Sclerosis"

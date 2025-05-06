@@ -3,7 +3,8 @@ title: "Colon cancer 25 percent less likely if consume Calcium, Magnesium, Zinc,
 slug: "colon-cancer-25-percent-less-likely-if-consume-calcium-magnesium-zinc-etc"
 aliases:
   - "/Colon+cancer+25+percent+less+likely+if+consume+Calcium+Magnesium+Zinc+etc–+Nov+2018"
-  - "/tiki-index.php?page_id=10323"
+  - "/10323"
+tiki_page_id: 10323
 date: 2018-12-18
 categories:
   - "Cancer - Colon"

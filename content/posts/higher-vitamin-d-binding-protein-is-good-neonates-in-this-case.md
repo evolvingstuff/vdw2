@@ -3,7 +3,8 @@ title: "Higher Vitamin D-binding protein is good (neonates in this case)"
 slug: "higher-vitamin-d-binding-protein-is-good-neonates-in-this-case"
 aliases:
   - "/Higher+Vitamin+D-binding+protein+is+good+neonates+in+this+case+–+Feb+2023"
-  - "/tiki-index.php?page_id=14268"
+  - "/14268"
+tiki_page_id: 14268
 date: 2023-02-16
 categories:
   - "Infant-Child"

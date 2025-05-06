@@ -3,7 +3,8 @@ title: "Diabetes increases chance of death (low vitamin D) - many studies"
 slug: "diabetes-increases-chance-of-death-low-vitamin-d-many-studies"
 aliases:
   - "/Diabetes+increases+chance+of+death+low+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14650"
+  - "/14650"
+tiki_page_id: 14650
 date: 2023-08-30
 categories:
   - "Diabetes"

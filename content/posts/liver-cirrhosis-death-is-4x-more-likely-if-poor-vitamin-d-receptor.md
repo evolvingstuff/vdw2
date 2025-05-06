@@ -3,7 +3,8 @@ title: "Liver Cirrhosis death is 4X more likely if poor Vitamin D Receptor"
 slug: "liver-cirrhosis-death-is-4x-more-likely-if-poor-vitamin-d-receptor"
 aliases:
   - "/Liver+Cirrhosis+death+is+4X+more+likely+if+poor+Vitamin+D+Receptor+–+Sept+2018"
-  - "/tiki-index.php?page_id=11290"
+  - "/11290"
+tiki_page_id: 11290
 date: 2019-10-29
 categories:
   - "Liver"

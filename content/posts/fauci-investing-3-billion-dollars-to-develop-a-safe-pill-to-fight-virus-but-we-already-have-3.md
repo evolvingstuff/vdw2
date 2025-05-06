@@ -3,7 +3,8 @@ title: "Fauci investing 3 billion dollars to develop a safe pill to fight virus 
 slug: "fauci-investing-3-billion-dollars-to-develop-a-safe-pill-to-fight-virus-but-we-already-have-3"
 aliases:
   - "/Fauci+investing+3+billion+dollars+to+develop+a+safe+pill+to+fight+virus+but+we+already+have+3+–+Aug+4+2021"
-  - "/tiki-index.php?page_id=12856"
+  - "/12856"
+tiki_page_id: 12856
 date: 2021-08-25
 categories:
   - "Virus"

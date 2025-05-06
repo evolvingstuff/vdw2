@@ -3,7 +3,8 @@ title: "Lower Respiratory Tract Infection in Infants reduced 5.9 X by daily 600 
 slug: "lower-respiratory-tract-infection-in-infants-reduced-59-x-by-daily-600-iu-of-vitamin-d-china"
 aliases:
   - "/Lower+Respiratory+Tract+Infection+in+Infants+reduced+59+X+by+daily+600+IU+of+vitamin+D+China+-+March+2020"
-  - "/tiki-index.php?page_id=11665"
+  - "/11665"
+tiki_page_id: 11665
 date: 2020-03-07
 categories:
   - "Deficiency of Vitamin D"

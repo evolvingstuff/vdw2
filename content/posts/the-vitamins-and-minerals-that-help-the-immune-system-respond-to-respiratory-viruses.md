@@ -3,7 +3,8 @@ title: "The vitamins and minerals that help the immune system respond to respira
 slug: "the-vitamins-and-minerals-that-help-the-immune-system-respond-to-respiratory-viruses"
 aliases:
   - "/The+vitamins+and+minerals+that+help+the+immune+system+respond+to+respiratory+viruses+–+Dec+2022"
-  - "/tiki-index.php?page_id=14132"
+  - "/14132"
+tiki_page_id: 14132
 date: 2022-12-06
 categories:
   - "Immunity"

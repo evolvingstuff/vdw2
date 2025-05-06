@@ -3,7 +3,8 @@ title: "Risk of Multiple Sclerosis varies with the Vitamin D Receptor – meta-a
 slug: "risk-of-multiple-sclerosis-varies-with-the-vitamin-d-receptor-meta-analysis"
 aliases:
   - "/Risk+of+Multiple+Sclerosis+varies+with+the+Vitamin+D+Receptor+–+meta-analysis+Dec+2019"
-  - "/tiki-index.php?page_id=11499"
+  - "/11499"
+tiki_page_id: 11499
 date: 2019-12-26
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "Sublingual Vitamin D sometimes is better than tablet"
 slug: "sublingual-vitamin-d-sometimes-is-better-than-tablet"
 aliases:
   - "/Sublingual+Vitamin+D+sometimes+is+better+than+tablet+–+April+2020"
-  - "/tiki-index.php?page_id=11746"
+  - "/11746"
+tiki_page_id: 11746
 date: 2020-04-26
 categories:
   - "Immunity"

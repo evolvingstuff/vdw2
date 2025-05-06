@@ -3,7 +3,8 @@ title: "Babies 3.6X more likely to go to hospital for asthma if asthmatic mother
 slug: "babies-36x-more-likely-to-go-to-hospital-for-asthma-if-asthmatic-mother-had-low---while-pregnant"
 aliases:
   - "/Babies+36X+more+likely+to+go+to+hospital+for+asthma+if+asthmatic+mother+had+low+vitamin+D+while+pregnant+–+June+2019"
-  - "/tiki-index.php?page_id=10913"
+  - "/10913"
+tiki_page_id: 10913
 date: 2019-06-22
 categories:
   - "Breathing"

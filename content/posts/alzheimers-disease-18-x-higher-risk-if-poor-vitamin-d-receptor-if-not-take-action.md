@@ -3,7 +3,8 @@ title: "Alzheimer's disease 1.8 X higher risk if poor Vitamin D Receptor (if not
 slug: "alzheimers-disease-18-x-higher-risk-if-poor-vitamin-d-receptor-if-not-take-action"
 aliases:
   - "/Alzheimers+disease+18+X+higher+risk+if+poor+Vitamin+D+Receptor+if+not+take+action+-+May+2022"
-  - "/tiki-index.php?page_id=13469"
+  - "/13469"
+tiki_page_id: 13469
 date: 2022-04-11
 categories:
   - "Cognitive"

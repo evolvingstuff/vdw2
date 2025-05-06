@@ -3,7 +3,8 @@ title: "Worse Myopia in young adults if lower vitamin D"
 slug: "worse-myopia-in-young-adults-if-lower-vitamin-d"
 aliases:
   - "/Worse+Myopia+in+young+adults+if+lower+vitamin+D+-+Sept+2021"
-  - "/tiki-index.php?page_id=14655"
+  - "/14655"
+tiki_page_id: 14655
 date: 2023-09-01
 categories:
   - "Vision"

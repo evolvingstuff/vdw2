@@ -3,7 +3,8 @@ title: "Multiple Sclerosis Society continues to fund Vitamin D research"
 slug: "multiple-sclerosis-society-continues-to-fund-vitamin-d-research"
 aliases:
   - "/Multiple+Sclerosis+Society+continues+to+fund+Vitamin+D+research+-Oct+2018"
-  - "/tiki-index.php?page_id=10106"
+  - "/10106"
+tiki_page_id: 10106
 date: 2018-10-10
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "Vitamin D infographics and topics at GrassrootsHealth"
 slug: "vitamin-d-infographics-and-topics-at-grassrootshealth"
 aliases:
   - "/Vitamin+D+infographics+and+topics+at+GrassrootsHealth"
-  - "/tiki-index.php?page_id=13879"
+  - "/13879"
+tiki_page_id: 13879
 date: 2022-08-31
 categories:
   - "About D - introduction"

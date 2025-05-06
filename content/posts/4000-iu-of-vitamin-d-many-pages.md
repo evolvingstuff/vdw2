@@ -3,7 +3,8 @@ title: "4,000 IU of Vitamin D - many pages"
 slug: "4000-iu-of-vitamin-d-many-pages"
 aliases:
   - "/4000+IU+of+Vitamin+D+-+many+pages"
-  - "/tiki-index.php?page_id=14895"
+  - "/14895"
+tiki_page_id: 14895
 date: 2023-12-18
 ---
 

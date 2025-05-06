@@ -3,7 +3,8 @@ title: "Respiratory problems in Children 1.4X more likely if poor Vitamin D rece
 slug: "respiratory-problems-in-children-14x-more-likely-if-poor-vitamin-d-receptor"
 aliases:
   - "/Respiratory+problems+in+Children+14X+more+likely+if+poor+Vitamin+D+receptor+–+April+2020"
-  - "/tiki-index.php?page_id=11856"
+  - "/11856"
+tiki_page_id: 11856
 date: 2020-07-21
 categories:
   - "Breathing"

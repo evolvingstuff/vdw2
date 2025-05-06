@@ -3,7 +3,8 @@ title: "Suicide attempts by males 3.7 X more likely if poor Vitamin D gene (CYP2
 slug: "suicide-attempts-by-males-37-x-more-likely-if-poor-vitamin-d-gene-cyp24a1"
 aliases:
   - "/Suicide+attempts+by+males+37+X+more+likely+if+poor+Vitamin+D+gene+CYP24A1+–+Oct+2021"
-  - "/tiki-index.php?page_id=13551"
+  - "/13551"
+tiki_page_id: 13551
 date: 2022-05-08
 categories:
   - "Genetics"

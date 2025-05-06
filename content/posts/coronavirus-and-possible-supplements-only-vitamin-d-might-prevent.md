@@ -3,7 +3,8 @@ title: "Coronavirus and possible supplements (only Vitamin D might prevent)"
 slug: "coronavirus-and-possible-supplements-only-vitamin-d-might-prevent"
 aliases:
   - "/Coronavirus+and+possible+supplements+only+Vitamin+D+might+prevent-+March+2020"
-  - "/tiki-index.php?page_id=11662"
+  - "/11662"
+tiki_page_id: 11662
 date: 2020-03-05
 categories:
   - "Virus"

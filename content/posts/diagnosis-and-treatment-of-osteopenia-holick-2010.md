@@ -3,7 +3,8 @@ title: "Diagnosis and treatment of osteopenia – Holick 2010"
 slug: "diagnosis-and-treatment-of-osteopenia-holick-2010"
 aliases:
   - "/Diagnosis+and+treatment+of+osteopenia+–+Holick+2010"
-  - "/tiki-index.php?page_id=10301"
+  - "/10301"
+tiki_page_id: 10301
 date: 2018-12-09
 categories:
   - "Bone - Health"

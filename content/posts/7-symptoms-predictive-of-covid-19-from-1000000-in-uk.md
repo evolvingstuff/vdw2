@@ -3,7 +3,8 @@ title: "7 Symptoms predictive of COVID-19 (from 1,000,000 in UK)"
 slug: "7-symptoms-predictive-of-covid-19-from-1000000-in-uk"
 aliases:
   - "/7+Symptoms+predictive+of+COVID-19+from+1000000+in+UK+–+Oct+2021"
-  - "/tiki-index.php?page_id=12949"
+  - "/12949"
+tiki_page_id: 12949
 date: 2021-10-03
 categories:
   - "Virus"

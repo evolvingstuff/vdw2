@@ -3,7 +3,8 @@ title: "Multiple Sclerosis treated by Vitamin D, recommends investigating high d
 slug: "multiple-sclerosis-treated-by-vitamin-d-recommends-investigating-high-dose-coimbra"
 aliases:
   - "/Multiple+Sclerosis+treated+by+Vitamin+D+recommends+investigating+high+dose+Coimbra+-+Oct+2021"
-  - "/tiki-index.php?page_id=12958"
+  - "/12958"
+tiki_page_id: 12958
 date: 2021-10-06
 categories:
   - "Multiple Sclerosis"

@@ -3,7 +3,8 @@ title: "Lower Magnesium, 6 percent more COVID"
 slug: "lower-magnesium-6-percent-more-covid"
 aliases:
   - "/Lower+Magnesium+6+percent+more+COVID+-+Feb+2022"
-  - "/tiki-index.php?page_id=13349"
+  - "/13349"
+tiki_page_id: 13349
 date: 2022-02-22
 categories:
   - "Skin - Dark"

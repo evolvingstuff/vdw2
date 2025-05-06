@@ -3,7 +3,8 @@ title: "Pregnant women in HIV therapy adding Vitamin D had 3X fewer deaths - RCT
 slug: "pregnant-women-in-hiv-therapy-adding-vitamin-d-had-3x-fewer-deaths-rct"
 aliases:
   - "/Pregnant+women+in+HIV+therapy+adding+Vitamin+D+had+3X+fewer+deaths+-+RCT+April+2022"
-  - "/tiki-index.php?page_id=13488"
+  - "/13488"
+tiki_page_id: 13488
 date: 2022-04-15
 categories:
   - "Pregnancy"

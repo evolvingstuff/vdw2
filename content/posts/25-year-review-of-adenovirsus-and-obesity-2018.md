@@ -3,7 +3,8 @@ title: "25 year review of Adenovirsus and obesity – 2018"
 slug: "25-year-review-of-adenovirsus-and-obesity-2018"
 aliases:
   - "/25+year+review+of+Adenovirsus+and+obesity+–+2018"
-  - "/tiki-index.php?page_id=11157"
+  - "/11157"
+tiki_page_id: 11157
 date: 2019-09-15
 categories:
   - "Obesity"

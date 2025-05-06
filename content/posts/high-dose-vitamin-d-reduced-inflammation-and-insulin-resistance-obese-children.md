@@ -3,7 +3,8 @@ title: "High-dose Vitamin D reduced inflammation and insulin resistance (obese c
 slug: "high-dose-vitamin-d-reduced-inflammation-and-insulin-resistance-obese-children"
 aliases:
   - "/High-dose+Vitamin+D+reduced+inflammation+and+insulin+resistance+obese+children+-+Dec+2023"
-  - "/tiki-index.php?page_id=14940"
+  - "/14940"
+tiki_page_id: 14940
 date: 2024-01-02
 categories:
   - "Obesity"

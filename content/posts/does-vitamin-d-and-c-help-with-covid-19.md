@@ -3,7 +3,8 @@ title: "Does vitamin D (and C) help with Covid-19"
 slug: "does-vitamin-d-and-c-help-with-covid-19"
 aliases:
   - "/Does+vitamin+D+and+C+help+with+Covid-19+-+May+2020"
-  - "/tiki-index.php?page_id=11787"
+  - "/11787"
+tiki_page_id: 11787
 date: 2020-05-31
 categories:
   - "Virus"

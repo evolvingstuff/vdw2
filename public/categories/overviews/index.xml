@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Overviews on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/overviews/</link>
-    <description>Recent content in Overviews on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/overviews/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>VitaminDWiki: Your Go-To Vitamin D Website - 2019</title>
-      <link>http://localhost:1313/posts/vitamindwiki-your-go-to-vitamin-d-website-2019/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vitamindwiki-your-go-to-vitamin-d-website-2019/</guid>
-      <description>&lt;h4 id=&#34;abstract-submitted-to-vitamin-d-workshop---new-york-city-may-2019postsvitamin-d-workshop-in-new-york&#34;&gt;Abstract submitted to &lt;a href=&#34;http://localhost:1313/posts/vitamin-d-workshop-in-new-york&#34;&gt;Vitamin D Workshop - New York City, May 2019&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;With abstracts from over 11,000 studies, including :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/intervention-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Intervention - Vitamin D&#34;&gt;RCTs,&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;observational studies, and&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/overview-meta-analysis-of-vitamin-d&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Overview Meta-analysis of Vitamin D&#34;&gt;meta-analyses&lt;/a&gt;, and&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;over &lt;a href=&#34;http://localhost:1313/posts/vitamindsearch&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: VitaminDSearch&#34;&gt;6,000 charts&lt;/a&gt; plus&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;hundreds of additional summaries, article highlights, and lists,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;VitaminDWiki.com is the most comprehensive single source of Vitamin D and related information on the internet.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Overviews on VitaminDWiki</title><link>//localhost:1313/categories/overviews.html</link><description>Recent content in Overviews on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/overviews/index.xml" rel="self" type="application/rss+xml"/><item><title>VitaminDWiki: Your Go-To Vitamin D Website - 2019</title><link>//localhost:1313/posts/vitamindwiki-your-go-to-vitamin-d-website-2019.html</link><pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamindwiki-your-go-to-vitamin-d-website-2019.html</guid><description>&lt;h4 id="abstract-submitted-to-vitamin-d-workshop---new-york-city-may-2019postsvitamin-d-workshop-in-new-york">Abstract submitted to &lt;a href="//localhost:1313/posts/vitamin-d-workshop-in-new-york">Vitamin D Workshop - New York City, May 2019&lt;/a>&lt;/h4>
+&lt;p>With abstracts from over 11,000 studies, including :&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/intervention-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Intervention - Vitamin D">RCTs,&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>observational studies, and&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="//localhost:1313/posts/overview-meta-analysis-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Meta-analysis of Vitamin D">meta-analyses&lt;/a>, and&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>over &lt;a href="//localhost:1313/posts/vitamindsearch" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VitaminDSearch">6,000 charts&lt;/a> plus&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>hundreds of additional summaries, article highlights, and lists,&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>VitaminDWiki.com is the most comprehensive single source of Vitamin D and related information on the internet.&lt;/p></description></item></channel></rss>

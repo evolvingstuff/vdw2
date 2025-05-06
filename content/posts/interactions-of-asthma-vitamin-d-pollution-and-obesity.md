@@ -3,7 +3,8 @@ title: "Interactions of Asthma Vitamin D, Pollution and Obesity"
 slug: "interactions-of-asthma-vitamin-d-pollution-and-obesity"
 aliases:
   - "/Interactions+of+Asthma+Vitamin+D+Pollution+and+Obesity+–+July+2019"
-  - "/tiki-index.php?page_id=10959"
+  - "/10959"
+tiki_page_id: 10959
 date: 2019-07-07
 categories:
   - "Breathing"

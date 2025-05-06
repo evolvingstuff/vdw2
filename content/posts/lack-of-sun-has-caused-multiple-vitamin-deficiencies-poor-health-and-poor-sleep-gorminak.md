@@ -3,7 +3,8 @@ title: "Lack of sun has caused multiple vitamin deficiencies, poor health and po
 slug: "lack-of-sun-has-caused-multiple-vitamin-deficiencies-poor-health-and-poor-sleep-gorminak"
 aliases:
   - "/Lack+of+sun+has+caused+multiple+vitamin+deficiencies+poor+health+and+poor+sleep+-+Gorminak+Feb+2020"
-  - "/tiki-index.php?page_id=11625"
+  - "/11625"
+tiki_page_id: 11625
 date: 2020-02-12
 categories:
   - "Sleep"

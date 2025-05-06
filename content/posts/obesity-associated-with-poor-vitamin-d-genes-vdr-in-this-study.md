@@ -3,7 +3,8 @@ title: "Obesity associated with poor Vitamin D genes (VDR in this study)"
 slug: "obesity-associated-with-poor-vitamin-d-genes-vdr-in-this-study"
 aliases:
   - "/Obesity+associated+with+poor+Vitamin+D+genes+VDR+in+this+study+–+Jan+2018"
-  - "/tiki-index.php?page_id=11099"
+  - "/11099"
+tiki_page_id: 11099
 date: 2019-08-24
 categories:
   - "Obesity"

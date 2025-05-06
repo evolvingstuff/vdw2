@@ -3,7 +3,8 @@ title: "Diabetes helped by 5,000 IU of Vitamin D – RCT"
 slug: "diabetes-helped-by-5000-iu-of-vitamin-d-rct"
 aliases:
   - "/Diabetes+helped+by+5000+IU+of+Vitamin+D+–+RCT+Sept+2019"
-  - "/tiki-index.php?page_id=11516"
+  - "/11516"
+tiki_page_id: 11516
 date: 2019-12-30
 categories:
   - "Diabetes"

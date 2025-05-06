@@ -3,7 +3,8 @@ title: "SIDS associated with poor bone growth in infants (Rickets, low vitamin D
 slug: "sids-associated-with-poor-bone-growth-in-infants-rickets-low-vitamin-d"
 aliases:
   - "/SIDS+associated+with+poor+bone+growth+in+infants+Rickets+low+vitamin+D+–+Dec+2020"
-  - "/tiki-index.php?page_id=12135"
+  - "/12135"
+tiki_page_id: 12135
 date: 2020-12-12
 ---
 

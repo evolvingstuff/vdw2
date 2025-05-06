@@ -3,7 +3,8 @@ title: "4.4 X more likely to have a preterm birth if low vitamin D while pregnan
 slug: "44-x-more-likely-to-have-a-preterm-birth-if-low-vitamin-d-while-pregnant-india"
 aliases:
   - "/44+X+more+likely+to+have+a+preterm+birth+if+low+vitamin+D+while+pregnant+India+-+May+2022"
-  - "/tiki-index.php?page_id=13583"
+  - "/13583"
+tiki_page_id: 13583
 date: 2022-05-23
 categories:
   - "Pregnancy"

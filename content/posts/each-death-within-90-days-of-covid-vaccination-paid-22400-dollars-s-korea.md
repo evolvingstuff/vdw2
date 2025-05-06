@@ -3,7 +3,8 @@ title: "Each death within 90 days of COVID vaccination paid 22,400 dollars (S. K
 slug: "each-death-within-90-days-of-covid-vaccination-paid-22400-dollars-s-korea"
 aliases:
   - "/Each+death+within+90+days+of+COVID+vaccination+paid+22400+dollars+S+Korea+-+Sept+2023"
-  - "/tiki-index.php?page_id=14673"
+  - "/14673"
+tiki_page_id: 14673
 date: 2023-09-11
 categories:
   - "Virus"

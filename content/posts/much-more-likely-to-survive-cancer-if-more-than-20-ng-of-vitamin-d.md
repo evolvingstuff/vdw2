@@ -3,7 +3,8 @@ title: "Much more likely to survive cancer if more than 20 ng of Vitamin D"
 slug: "much-more-likely-to-survive-cancer-if-more-than-20-ng-of-vitamin-d"
 aliases:
   - "/Much+more+likely+to+survive+cancer+if+more+than+20+ng+of+Vitamin+D+-+Oct+2023"
-  - "/tiki-index.php?page_id=14802"
+  - "/14802"
+tiki_page_id: 14802
 date: 2023-10-31
 categories:
   - "Cancer"

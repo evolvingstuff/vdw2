@@ -3,7 +3,8 @@ title: "Omega-3 – Chart of index vs ratio by GrassrootsHealth"
 slug: "omega-3-chart-of-index-vs-ratio-by-grassrootshealth"
 aliases:
   - "/Omega-3+–+Chart+of+index+vs+ratio+by+GrassrootsHealth+–+Sept+2019"
-  - "/tiki-index.php?page_id=11273"
+  - "/11273"
+tiki_page_id: 11273
 date: 2019-10-25
 categories:
   - "Vitamin D and Omega-3"

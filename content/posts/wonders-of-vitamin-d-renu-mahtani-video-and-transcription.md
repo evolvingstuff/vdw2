@@ -3,7 +3,8 @@ title: "Wonders of Vitamin D - Renu Mahtani video and transcription"
 slug: "wonders-of-vitamin-d-renu-mahtani-video-and-transcription"
 aliases:
   - "/Wonders+of+Vitamin+D+-+Renu+Mahtani+video+and+transcription+-+Feb+2022"
-  - "/tiki-index.php?page_id=13386"
+  - "/13386"
+tiki_page_id: 13386
 date: 2022-03-12
 categories:
   - "Psoriasis"

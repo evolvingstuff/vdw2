@@ -3,7 +3,8 @@ title: "Don’t Let COVID-19 Patients Die With Vitamin D Deficiency"
 slug: "dont-let-covid-19-patients-die-with-vitamin-d-deficiency"
 aliases:
   - "/Dont+Let+COVID-19+Patients+Die+With+Vitamin+D+Deficiency+-+Jan+5+2021"
-  - "/tiki-index.php?page_id=12197"
+  - "/12197"
+tiki_page_id: 12197
 date: 2021-01-06
 categories:
   - "Virus"

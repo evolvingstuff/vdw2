@@ -3,7 +3,8 @@ title: "Prostate Cancer Survivors are 2.3 X more likely to have high levels of V
 slug: "prostate-cancer-survivors-are-23-x-more-likely-to-have-high-levels-of-vitamin-d-meta-analysis"
 aliases:
   - "/Prostate+Cancer+Survivors+are+23+X+more+likely+to+have+high+levels+of+Vitamin+D+–+meta-analysis+Sept+2023"
-  - "/tiki-index.php?page_id=14572"
+  - "/14572"
+tiki_page_id: 14572
 date: 2023-07-30
 ---
 

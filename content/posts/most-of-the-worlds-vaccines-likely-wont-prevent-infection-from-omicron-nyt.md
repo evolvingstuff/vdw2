@@ -3,7 +3,8 @@ title: "Most of the World’s Vaccines Likely Won’t Prevent Infection From Omi
 slug: "most-of-the-worlds-vaccines-likely-wont-prevent-infection-from-omicron-nyt"
 aliases:
   - "/Most+of+the+Worlds+Vaccines+Likely+Wont+Prevent+Infection+From+Omicron+-+NYT+Dec+19+2021"
-  - "/tiki-index.php?page_id=13201"
+  - "/13201"
+tiki_page_id: 13201
 date: 2021-12-19
 categories:
   - "Virus"

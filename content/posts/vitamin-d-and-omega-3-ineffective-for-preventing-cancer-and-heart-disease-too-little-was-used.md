@@ -3,7 +3,8 @@ title: "Vitamin D and Omega-3 Ineffective for Preventing Cancer and Heart Diseas
 slug: "vitamin-d-and-omega-3-ineffective-for-preventing-cancer-and-heart-disease-too-little-was-used"
 aliases:
   - "/Vitamin+D+and+Omega-3+Ineffective+for+Preventing+Cancer+and+Heart+Disease+too+little+was+used+–+Nov+2018"
-  - "/tiki-index.php?page_id=10193"
+  - "/10193"
+tiki_page_id: 10193
 date: 2018-11-10
 categories:
   - "Intervention"

@@ -3,7 +3,8 @@ title: "Pancreatic Cancer survival 2.3 X more likely if good level of Vitamin D 
 slug: "pancreatic-cancer-survival-23-x-more-likely-if-good-level-of-vitamin-d-meta-analysis"
 aliases:
   - "/Pancreatic+Cancer+survival+23+X+more+likely+if+good+level+of+Vitamin+D+–+meta-analysis+Sept+2023"
-  - "/tiki-index.php?page_id=14683"
+  - "/14683"
+tiki_page_id: 14683
 date: 2023-09-15
 categories:
   - "Cancer - Pancreatic"

@@ -3,7 +3,8 @@ title: "Many cancers reduce oxygen to protect themselves in 6 ways. Vitamin D st
 slug: "many-cancers-reduce-oxygen-to-protect-themselves-in-6-ways-vitamin-d-stops-all-6-ways"
 aliases:
   - "/Many+cancers+reduce+oxygen+to+protect+themselves+in+6+ways+Vitamin+D+stops+all+6+ways+–+March+2022"
-  - "/tiki-index.php?page_id=13476"
+  - "/13476"
+tiki_page_id: 13476
 date: 2022-04-13
 categories:
   - "Cancer"

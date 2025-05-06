@@ -3,7 +3,8 @@ title: "Some seniors in Germany had vitamin D levels of 34 ng without supplement
 slug: "some-seniors-in-germany-had-vitamin-d-levels-of-34-ng-without-supplementation-seems-unlikely"
 aliases:
   - "/Some+seniors+in+Germany+had+vitamin+D+levels+of+34+ng+without+supplementation+seems+unlikely+–+Oct+2023"
-  - "/tiki-index.php?page_id=14763"
+  - "/14763"
+tiki_page_id: 14763
 date: 2023-10-19
 categories:
   - "Deficiency of Vitamin D"

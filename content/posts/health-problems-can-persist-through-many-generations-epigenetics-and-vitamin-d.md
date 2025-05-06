@@ -3,7 +3,8 @@ title: "Health problems can persist through many generations – Epigenetics and
 slug: "health-problems-can-persist-through-many-generations-epigenetics-and-vitamin-d"
 aliases:
   - "/Health+problems+can+persist+through+many+generations+–+Epigenetics+and+Vitamin+D"
-  - "/tiki-index.php?page_id=10115"
+  - "/10115"
+tiki_page_id: 10115
 date: 2018-10-13
 categories:
   - "Genetics"

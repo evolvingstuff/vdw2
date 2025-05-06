@@ -3,7 +3,8 @@ title: "Low Vitamin D symptoms, need 50-80 ng, he takes 5,000 IU – Matthews in
 slug: "low-vitamin-d-symptoms-need-50-80-ng-he-takes-5000-iu-matthews-interview"
 aliases:
   - "/Low+Vitamin+D+symptoms+need+50-80+ng+he+takes+5000+IU+–+Matthews+interview+Dec+2019"
-  - "/tiki-index.php?page_id=11511"
+  - "/11511"
+tiki_page_id: 11511
 date: 2019-12-29
 categories:
   - "Deficiency of Vitamin D"

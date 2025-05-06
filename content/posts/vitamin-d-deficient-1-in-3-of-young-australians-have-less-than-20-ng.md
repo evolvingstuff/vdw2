@@ -3,7 +3,8 @@ title: "Vitamin D deficient – 1 in 3 of young Australians have less than 20 ng
 slug: "vitamin-d-deficient-1-in-3-of-young-australians-have-less-than-20-ng"
 aliases:
   - "/Vitamin+D+deficient+–+1+in+3+of+young+Australians+have+less+than+20+ng+–+March+2021"
-  - "/tiki-index.php?page_id=12362"
+  - "/12362"
+tiki_page_id: 12362
 date: 2021-03-01
 categories:
   - "Youth"

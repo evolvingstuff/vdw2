@@ -3,7 +3,8 @@ title: "Immunologic Effects of Vitamin D on Human Health and Disease - Holick"
 slug: "immunologic-effects-of-vitamin-d-on-human-health-and-disease-holick"
 aliases:
   - "/Immunologic+Effects+of+Vitamin+D+on+Human+Health+and+Disease+-+Holick+July+2020"
-  - "/tiki-index.php?page_id=11843"
+  - "/11843"
+tiki_page_id: 11843
 date: 2020-07-15
 categories:
   - "Multiple Sclerosis"

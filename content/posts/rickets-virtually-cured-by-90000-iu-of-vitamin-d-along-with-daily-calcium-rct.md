@@ -3,7 +3,8 @@ title: "Rickets virtually cured by 90,000 IU of Vitamin D along with daily Calci
 slug: "rickets-virtually-cured-by-90000-iu-of-vitamin-d-along-with-daily-calcium-rct"
 aliases:
   - "/Rickets+virtually+cured+by+90000+IU+of+Vitamin+D+along+with+daily+Calcium+–+RCT+Nov+2018"
-  - "/tiki-index.php?page_id=10268"
+  - "/10268"
+tiki_page_id: 10268
 date: 2018-12-04
 categories:
   - "Rickets"

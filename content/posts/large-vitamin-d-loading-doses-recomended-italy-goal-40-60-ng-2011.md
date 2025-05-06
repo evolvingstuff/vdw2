@@ -3,7 +3,8 @@ title: "Large Vitamin D loading doses recomended (Italy, goal 40-60 ng) - 2011"
 slug: "large-vitamin-d-loading-doses-recomended-italy-goal-40-60-ng-2011"
 aliases:
   - "/Large+Vitamin+D+loading+doses+recomended+Italy+goal+40-60+ng+-+2011"
-  - "/tiki-index.php?page_id=14930"
+  - "/14930"
+tiki_page_id: 14930
 date: 2023-12-29
 ---
 

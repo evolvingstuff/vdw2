@@ -3,7 +3,8 @@ title: "Omega 3 Fatty Acids – All you need to know"
 slug: "omega-3-fatty-acids-all-you-need-to-know"
 aliases:
   - "/Omega+3+Fatty+Acids+–+All+you+need+to+know+-+Sept+2018"
-  - "/tiki-index.php?page_id=10830"
+  - "/10830"
+tiki_page_id: 10830
 date: 2019-06-04
 categories:
   - "Vitamin D and Omega-3"

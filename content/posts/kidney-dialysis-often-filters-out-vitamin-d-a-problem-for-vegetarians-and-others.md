@@ -3,7 +3,8 @@ title: "Kidney Dialysis often filters out Vitamin D, a problem for vegetarians a
 slug: "kidney-dialysis-often-filters-out-vitamin-d-a-problem-for-vegetarians-and-others"
 aliases:
   - "/Kidney+Dialysis+often+filters+out+Vitamin+D+a+problem+for+vegetarians+and+others-+Feb+2021"
-  - "/tiki-index.php?page_id=12323"
+  - "/12323"
+tiki_page_id: 12323
 date: 2021-02-14
 categories:
   - "Kidney"

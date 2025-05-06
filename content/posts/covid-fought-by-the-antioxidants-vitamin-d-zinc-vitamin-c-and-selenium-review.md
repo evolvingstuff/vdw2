@@ -3,7 +3,8 @@ title: "COVID fought by the antioxidants: Vitamin D, Zinc, Vitamin C, and Seleni
 slug: "covid-fought-by-the-antioxidants-vitamin-d-zinc-vitamin-c-and-selenium-review"
 aliases:
   - "/COVID+fought+by+the+antioxidants+Vitamin+D+Zinc+Vitamin+C+and+Selenium+–+Review+Sept+2022"
-  - "/tiki-index.php?page_id=13908"
+  - "/13908"
+tiki_page_id: 13908
 date: 2022-09-13
 categories:
   - "Virus"

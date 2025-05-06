@@ -3,7 +3,8 @@ title: "Vitamin D: liposomal and nanoemulsion forms - Chat-GPT"
 slug: "vitamin-d-liposomal-and-nanoemulsion-forms-chat-gpt"
 aliases:
   - "/Vitamin+D+liposomal+and+nanoemulsion+forms+-+Chat-GPT+Dec+2023"
-  - "/tiki-index.php?page_id=14933"
+  - "/14933"
+tiki_page_id: 14933
 date: 2023-12-30
 categories:
   - "Forms of Vitamin D"

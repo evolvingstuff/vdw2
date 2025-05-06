@@ -3,7 +3,8 @@ title: "Alzheimer’s associated with Vitamin D and Vitamin D receptor – video
 slug: "alzheimers-associated-with-vitamin-d-and-vitamin-d-receptor-video-and-pdf"
 aliases:
   - "/Alzheimers+associated+with+Vitamin+D+and+Vitamin+D+receptor+–+video+and+pdf+–+Aug+2018"
-  - "/tiki-index.php?page_id=9995"
+  - "/9995"
+tiki_page_id: 9995
 date: 2018-09-02
 categories:
   - "Books, videos on Vitamin D"

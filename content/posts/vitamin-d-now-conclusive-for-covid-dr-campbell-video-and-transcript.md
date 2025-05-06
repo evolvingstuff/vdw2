@@ -3,7 +3,8 @@ title: "Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcrip
 slug: "vitamin-d-now-conclusive-for-covid-dr-campbell-video-and-transcript"
 aliases:
   - "/Vitamin+D+now+conclusive+for+COVID+-+Dr+Campbell+Video+and+transcript+-+Feb+1+2023"
-  - "/tiki-index.php?page_id=14240"
+  - "/14240"
+tiki_page_id: 14240
 date: 2023-02-01
 categories:
   - "Books, videos on Vitamin D"

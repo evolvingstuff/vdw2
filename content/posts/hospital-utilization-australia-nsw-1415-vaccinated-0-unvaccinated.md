@@ -3,7 +3,8 @@ title: "Hospital utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated"
 slug: "hospital-utilization-australia-nsw-1415-vaccinated-0-unvaccinated"
 aliases:
   - "/Hospital+utilization+Australia+NSW+1415+Vaccinated+0+unvaccinated+-+Dec+2022"
-  - "/tiki-index.php?page_id=14735"
+  - "/14735"
+tiki_page_id: 14735
 date: 2023-10-08
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Supplements taken by the founder of VitaminDWiki"
 slug: "supplements-taken-by-the-founder-of-vitamindwiki"
 aliases:
   - "/Supplements+taken+by+the+founder+of+VitaminDWiki"
-  - "/tiki-index.php?page_id=14698"
+  - "/14698"
+tiki_page_id: 14698
 date: 2023-09-23
 categories:
   - "Supplement"

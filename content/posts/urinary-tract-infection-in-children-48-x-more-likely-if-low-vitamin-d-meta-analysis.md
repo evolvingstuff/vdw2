@@ -3,7 +3,8 @@ title: "Urinary Tract Infection in children 4.8 X more likely if low Vitamin D â
 slug: "urinary-tract-infection-in-children-48-x-more-likely-if-low-vitamin-d-meta-analysis"
 aliases:
   - "/Urinary+Tract+Infection+in+children+48+X+more+likely+if+low+Vitamin+D+â€“+meta-analysis+Feb+2019"
-  - "/tiki-index.php?page_id=10537"
+  - "/10537"
+tiki_page_id: 10537
 date: 2019-03-02
 categories:
   - "Infant-Child"

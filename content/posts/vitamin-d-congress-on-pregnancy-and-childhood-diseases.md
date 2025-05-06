@@ -3,7 +3,8 @@ title: "Vitamin D congress on pregnancy and childhood diseases"
 slug: "vitamin-d-congress-on-pregnancy-and-childhood-diseases"
 aliases:
   - "/Vitamin+D+congress+on+pregnancy+and+childhood+diseases+–+April+2019"
-  - "/tiki-index.php?page_id=10640"
+  - "/10640"
+tiki_page_id: 10640
 date: 2019-04-01
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "The worse the diabetic foot, the lower the vitamin D level"
 slug: "the-worse-the-diabetic-foot-the-lower-the-vitamin-d-level"
 aliases:
   - "/The+worse+the+diabetic+foot+the+lower+the+vitamin+D+level+–+Nov+2019"
-  - "/tiki-index.php?page_id=11402"
+  - "/11402"
+tiki_page_id: 11402
 date: 2019-11-28
 categories:
   - "Diabetes"

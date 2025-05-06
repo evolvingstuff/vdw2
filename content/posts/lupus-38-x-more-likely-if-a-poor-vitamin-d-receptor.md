@@ -3,7 +3,8 @@ title: "Lupus  3.8 X more likely if a poor Vitamin D Receptor"
 slug: "lupus-38-x-more-likely-if-a-poor-vitamin-d-receptor"
 aliases:
   - "/Lupus+38+X+more+likely+if+a+poor+Vitamin+D+Receptor+–+May+2019"
-  - "/tiki-index.php?page_id=10797"
+  - "/10797"
+tiki_page_id: 10797
 date: 2019-05-20
 categories:
   - "Lupus"

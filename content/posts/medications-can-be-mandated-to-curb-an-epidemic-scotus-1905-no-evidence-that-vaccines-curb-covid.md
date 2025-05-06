@@ -3,7 +3,8 @@ title: "Medications can be mandated to curb an epidemic (SCOTUS, 1905), no evide
 slug: "medications-can-be-mandated-to-curb-an-epidemic-scotus-1905-no-evidence-that-vaccines-curb-covid"
 aliases:
   - "/Medications+can+be+mandated+to+curb+an+epidemic+SCOTUS+1905+no+evidence+that+vaccines+curb+COVID+-+Jan+2022"
-  - "/tiki-index.php?page_id=13264"
+  - "/13264"
+tiki_page_id: 13264
 date: 2022-01-18
 categories:
   - "Virus"

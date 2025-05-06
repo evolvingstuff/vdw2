@@ -3,7 +3,8 @@ title: "50,000 IU of Vitamin D weekly for 6 months after cardiac failure helps â
 slug: "50000-iu-of-vitamin-d-weekly-for-6-months-after-cardiac-failure-helps-rct"
 aliases:
   - "/50000+IU+of+Vitamin+D+weekly+for+6+months+after+cardiac+failure+helps+â€“+RCT+May+2022"
-  - "/tiki-index.php?page_id=13662"
+  - "/13662"
+tiki_page_id: 13662
 date: 2022-06-11
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Diabetic Retinopathy associated with low Vitamin D - many studies"
 slug: "diabetic-retinopathy-associated-with-low-vitamin-d-many-studies"
 aliases:
   - "/Diabetic+Retinopathy+associated+with+low+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=13592"
+  - "/13592"
+tiki_page_id: 13592
 date: 2022-05-26
 categories:
   - "Diabetes"

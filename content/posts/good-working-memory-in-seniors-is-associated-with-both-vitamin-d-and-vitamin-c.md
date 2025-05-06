@@ -3,7 +3,8 @@ title: "Good working memory in seniors is associated with both Vitamin D and Vit
 slug: "good-working-memory-in-seniors-is-associated-with-both-vitamin-d-and-vitamin-c"
 aliases:
   - "/Good+working+memory+in+seniors+is+associated+with+both+Vitamin+D+and+Vitamin+C+–+March+2022"
-  - "/tiki-index.php?page_id=13439"
+  - "/13439"
+tiki_page_id: 13439
 date: 2022-03-28
 categories:
   - "Cognitive"

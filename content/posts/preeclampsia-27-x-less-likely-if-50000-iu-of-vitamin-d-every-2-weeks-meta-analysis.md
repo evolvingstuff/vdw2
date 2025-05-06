@@ -3,7 +3,8 @@ title: "Preeclampsia 2.7 X less likely if 50,000 IU of Vitamin D every 2 weeks â
 slug: "preeclampsia-27-x-less-likely-if-50000-iu-of-vitamin-d-every-2-weeks-meta-analysis"
 aliases:
   - "/Preeclampsia+27+X+less+likely+if+50000+IU+of+Vitamin+D+every+2+weeks+â€“+meta-analysis+Sept+2019"
-  - "/tiki-index.php?page_id=11124"
+  - "/11124"
+tiki_page_id: 11124
 date: 2019-09-04
 categories:
   - "Pregnancy"

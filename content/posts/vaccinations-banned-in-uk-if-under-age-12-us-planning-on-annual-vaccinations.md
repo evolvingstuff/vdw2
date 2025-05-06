@@ -3,7 +3,8 @@ title: "Vaccinations banned in UK if under age 12,  US planning on annual vaccin
 slug: "vaccinations-banned-in-uk-if-under-age-12-us-planning-on-annual-vaccinations"
 aliases:
   - "/Vaccinations+banned+in+UK+if+under+age+12+US+planning+on+annual+vaccinations+-+Sept+2022"
-  - "/tiki-index.php?page_id=13892"
+  - "/13892"
+tiki_page_id: 13892
 date: 2022-09-07
 categories:
   - "Youth"

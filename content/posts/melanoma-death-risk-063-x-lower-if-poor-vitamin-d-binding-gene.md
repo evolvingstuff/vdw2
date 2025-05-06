@@ -3,7 +3,8 @@ title: "Melanoma death risk 0.63 X lower if poor Vitamin D Binding Gene"
 slug: "melanoma-death-risk-063-x-lower-if-poor-vitamin-d-binding-gene"
 aliases:
   - "/Melanoma+death+risk+063+X+lower+if+poor+Vitamin+D+Binding+Gene+–+July+2023"
-  - "/tiki-index.php?page_id=14557"
+  - "/14557"
+tiki_page_id: 14557
 date: 2023-07-27
 categories:
   - "Cancer - Skin"

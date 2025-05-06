@@ -3,7 +3,8 @@ title: "Immune system is suppressed by many things (many of which consume vitami
 slug: "immune-system-is-suppressed-by-many-things-many-of-which-consume-vitamin-d"
 aliases:
   - "/Immune+system+is+suppressed+by+many+things+many+of+which+consume+vitamin+D"
-  - "/tiki-index.php?page_id=11939"
+  - "/11939"
+tiki_page_id: 11939
 date: 2020-09-07
 categories:
   - "Immunity"

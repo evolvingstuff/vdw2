@@ -3,7 +3,8 @@ title: "1 in 5 Americans who got COVID had Long-Haul for a while - CDC"
 slug: "1-in-5-americans-who-got-covid-had-long-haul-for-a-while-cdc"
 aliases:
   - "/1+in+5+Americans+who+got+COVID+had+Long-Haul+for+a+while+-+CDC+May+2022"
-  - "/tiki-index.php?page_id=13597"
+  - "/13597"
+tiki_page_id: 13597
 date: 2022-05-26
 categories:
   - "Virus"

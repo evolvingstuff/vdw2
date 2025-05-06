@@ -3,7 +3,8 @@ title: "Many non-bone diseases associated with low Vitamin D (dog and cats in th
 slug: "many-non-bone-diseases-associated-with-low-vitamin-d-dog-and-cats-in-this-study"
 aliases:
   - "/Many+non-bone+diseases+associated+with+low+Vitamin+D+dog+and+cats+in+this+study+–+Dec+2019"
-  - "/tiki-index.php?page_id=11427"
+  - "/11427"
+tiki_page_id: 11427
 date: 2019-12-06
 categories:
   - "Veterinary and Vitamin D"

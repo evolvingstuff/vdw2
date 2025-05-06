@@ -3,7 +3,8 @@ title: "Depression reduced if use more than 2,800 IU of vitamin D – meta-analy
 slug: "depression-reduced-if-use-more-than-2800-iu-of-vitamin-d-meta-analysis"
 aliases:
   - "/Depression+reduced+if+use+more+than+2800+IU+of+vitamin+D+–+meta-analysis+Aug+2022"
-  - "/tiki-index.php?page_id=13821"
+  - "/13821"
+tiki_page_id: 13821
 date: 2022-08-03
 categories:
   - "Depression"

@@ -3,7 +3,8 @@ title: "Less than 10 dollars of Vitamin D per COVID-19 life saved in Myanmar"
 slug: "less-than-10-dollars-of-vitamin-d-per-covid-19-life-saved-in-myanmar"
 aliases:
   - "/Less+than+10+dollars+of+Vitamin+D+per+COVID-19+life+saved+in+Myanmar+-+Jan+2021"
-  - "/tiki-index.php?page_id=12213"
+  - "/12213"
+tiki_page_id: 12213
 date: 2021-01-10
 categories:
   - "Mortality and D"

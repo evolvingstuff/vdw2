@@ -3,7 +3,8 @@ title: "Worrisome New Evidence That Vaccines Are Less Effective Against Variants
 slug: "worrisome-new-evidence-that-vaccines-are-less-effective-against-variants"
 aliases:
   - "/Worrisome+New+Evidence+That+Vaccines+Are+Less+Effective+Against+Variants+-+March+2021"
-  - "/tiki-index.php?page_id=12383"
+  - "/12383"
+tiki_page_id: 12383
 date: 2021-03-06
 categories:
   - "Virus"

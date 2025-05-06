@@ -3,7 +3,8 @@ title: "Hives for more than 6 weeks (chronic spontaneous urticaria) Vitamin D sh
 slug: "hives-for-more-than-6-weeks-chronic-spontaneous-urticaria-vitamin-d-should-help"
 aliases:
   - "/Hives+for+more+than+6+weeks+chronic+spontaneous+urticaria+Vitamin+D+should+help+–+Dec+2018"
-  - "/tiki-index.php?page_id=10287"
+  - "/10287"
+tiki_page_id: 10287
 date: 2018-12-07
 categories:
   - "Autoimmune"

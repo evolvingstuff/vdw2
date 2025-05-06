@@ -3,7 +3,8 @@ title: "Vertigo incidence reduced 40% by just 7,000 IU Vitamin D given weekly - 
 slug: "vertigo-incidence-reduced-40-percent-by-just-7000-iu-vitamin-d-given-weekly-rct"
 aliases:
   - "/Vertigo+incidence+reduced+40+by+just+7000+IU+Vitamin+D+given+weekly+-+RCT+Feb+2024"
-  - "/tiki-index.php?page_id=15068"
+  - "/15068"
+tiki_page_id: 15068
 date: 2024-02-22
 categories:
   - "Falls and Fractures"

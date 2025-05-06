@@ -3,7 +3,8 @@ title: "Ultra-Orthodox Jews have concealing clothing, high levels of COVID-19, a
 slug: "ultra-orthodox-jews-have-concealing-clothing-high-levels-of-covid-19-and-ultra-low-vitamin-d"
 aliases:
   - "/Ultra-Orthodox+Jews+have+concealing+clothing+high+levels+of+COVID-19+and+ultra+low+Vitamin+D+-+Feb+2021"
-  - "/tiki-index.php?page_id=12299"
+  - "/12299"
+tiki_page_id: 12299
 date: 2021-02-04
 categories:
   - "Virus"

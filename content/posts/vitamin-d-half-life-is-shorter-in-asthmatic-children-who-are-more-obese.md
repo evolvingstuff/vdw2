@@ -3,7 +3,8 @@ title: "Vitamin D half life is shorter in asthmatic children who are more obese"
 slug: "vitamin-d-half-life-is-shorter-in-asthmatic-children-who-are-more-obese"
 aliases:
   - "/Vitamin+D+half+life+is+shorter+in+asthmatic+children+who+are+more+obese+–+Nov+2023"
-  - "/tiki-index.php?page_id=14778"
+  - "/14778"
+tiki_page_id: 14778
 date: 2023-10-24
 categories:
   - "Obesity"

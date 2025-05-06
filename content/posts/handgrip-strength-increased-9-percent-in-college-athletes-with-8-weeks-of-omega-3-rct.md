@@ -3,7 +3,8 @@ title: "Handgrip strength increased 9 percent in college athletes with 8 weeks o
 slug: "handgrip-strength-increased-9-percent-in-college-athletes-with-8-weeks-of-omega-3-rct"
 aliases:
   - "/Handgrip+strength+increased+9+percent+in+college+athletes+with+8+weeks+of+Omega-3+–+RCT+Feb+2022"
-  - "/tiki-index.php?page_id=13412"
+  - "/13412"
+tiki_page_id: 13412
 date: 2022-03-18
 categories:
   - "Sports and Vitamin D"

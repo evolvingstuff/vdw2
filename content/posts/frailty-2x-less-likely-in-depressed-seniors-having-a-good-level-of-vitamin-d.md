@@ -3,7 +3,8 @@ title: "Frailty 2X less likely in depressed seniors having a good level of vitam
 slug: "frailty-2x-less-likely-in-depressed-seniors-having-a-good-level-of-vitamin-d"
 aliases:
   - "/Frailty+2X+less+likely+in+depressed+seniors+having+a+good+level+of+vitamin+D+–+Nov+2018"
-  - "/tiki-index.php?page_id=10202"
+  - "/10202"
+tiki_page_id: 10202
 date: 2018-11-16
 categories:
   - "Seniors"

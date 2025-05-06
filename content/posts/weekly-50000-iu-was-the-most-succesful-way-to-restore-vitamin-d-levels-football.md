@@ -3,7 +3,8 @@ title: "Weekly 50,000 IU was the most succesful way to restore vitamin D levels 
 slug: "weekly-50000-iu-was-the-most-succesful-way-to-restore-vitamin-d-levels-football"
 aliases:
   - "/Weekly+50000+IU+was+the+most+succesful+way+to+restore+vitamin+D+levels+football+-+Aug+2020"
-  - "/tiki-index.php?page_id=12308"
+  - "/12308"
+tiki_page_id: 12308
 date: 2021-02-08
 ---
 

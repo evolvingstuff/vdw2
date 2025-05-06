@@ -3,7 +3,8 @@ title: "Need 1 hour of noon sun to get Hijab women to 20 ng of Vitamin D (cloth)
 slug: "need-1-hour-of-noon-sun-to-get-hijab-women-to-20-ng-of-vitamin-d-cloth"
 aliases:
   - "/Need+1+hour+of+noon+sun+to+get+Hijab+women+to+20+ng+of+Vitamin+D+cloth+–+June+2019"
-  - "/tiki-index.php?page_id=10915"
+  - "/10915"
+tiki_page_id: 10915
 date: 2019-06-23
 categories:
   - "Skin - Dark"

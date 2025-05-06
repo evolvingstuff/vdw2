@@ -3,7 +3,8 @@ title: "Changes in CYP3A4 gene affects Vitamin D, health, reactions to some drug
 slug: "changes-in-cyp3a4-gene-affects-vitamin-d-health-reactions-to-some-drugs-etc"
 aliases:
   - "/Changes+in+CYP3A4+gene+affects+Vitamin+D+health+reactions+to+some+drugs+etc+-+June+2022"
-  - "/tiki-index.php?page_id=13631"
+  - "/13631"
+tiki_page_id: 13631
 date: 2022-06-03
 categories:
   - "Immunity"

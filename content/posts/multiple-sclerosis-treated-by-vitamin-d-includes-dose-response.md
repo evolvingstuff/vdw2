@@ -3,7 +3,8 @@ title: "Multiple Sclerosis treated by Vitamin D (includes dose-response)"
 slug: "multiple-sclerosis-treated-by-vitamin-d-includes-dose-response"
 aliases:
   - "/Multiple+Sclerosis+treated+by+Vitamin+D+includes+dose-response+-+July+2022"
-  - "/tiki-index.php?page_id=13747"
+  - "/13747"
+tiki_page_id: 13747
 date: 2022-07-11
 categories:
   - "Multiple Sclerosis"

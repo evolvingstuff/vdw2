@@ -3,7 +3,8 @@ title: "Monthly vitamin D helped hearts with low vitamin D a bit (need it more f
 slug: "monthly-vitamin-d-helped-hearts-with-low-vitamin-d-a-bit-need-it-more-frequently-rct"
 aliases:
   - "/Monthly+vitamin+D+helped+hearts+with+low+vitamin+D+a+bit+need+it+more+frequently+–+RCT+March+2022"
-  - "/tiki-index.php?page_id=13385"
+  - "/13385"
+tiki_page_id: 13385
 date: 2022-03-11
 categories:
   - "Cardiovascular"

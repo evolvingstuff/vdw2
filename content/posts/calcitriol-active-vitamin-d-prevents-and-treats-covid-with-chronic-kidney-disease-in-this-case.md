@@ -3,7 +3,8 @@ title: "Calcitriol (active Vitamin D) prevents and treats COVID (with Chronic Ki
 slug: "calcitriol-active-vitamin-d-prevents-and-treats-covid-with-chronic-kidney-disease-in-this-case"
 aliases:
   - "/Calcitriol+active+Vitamin+D+prevents+and+treats+COVID+with+Chronic+Kidney+Disease+in+this+case+June+2022"
-  - "/tiki-index.php?page_id=13732"
+  - "/13732"
+tiki_page_id: 13732
 date: 2022-07-05
 categories:
   - "Kidney"

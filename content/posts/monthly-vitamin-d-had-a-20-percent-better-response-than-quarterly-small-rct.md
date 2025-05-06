@@ -3,7 +3,8 @@ title: "Monthly Vitamin D had a 20 percent better response than quarterly – sm
 slug: "monthly-vitamin-d-had-a-20-percent-better-response-than-quarterly-small-rct"
 aliases:
   - "/Monthly+Vitamin+D+had+a+20+percent+better+response+than+quarterly+–+small+RCT+April+2019"
-  - "/tiki-index.php?page_id=10553"
+  - "/10553"
+tiki_page_id: 10553
 date: 2019-03-06
 categories:
   - "How, when to take Vit. D"

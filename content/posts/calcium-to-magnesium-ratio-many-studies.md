@@ -3,7 +3,8 @@ title: "Calcium to Magnesium Ratio - many studies"
 slug: "calcium-to-magnesium-ratio-many-studies"
 aliases:
   - "/Calcium+to+Magnesium+Ratio+-+many+studies"
-  - "/tiki-index.php?page_id=13829"
+  - "/13829"
+tiki_page_id: 13829
 date: 2022-08-07
 categories:
   - "Vitamin D and Calcium"

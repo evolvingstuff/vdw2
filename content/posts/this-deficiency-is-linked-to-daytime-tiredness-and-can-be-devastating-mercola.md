@@ -3,7 +3,8 @@ title: "This Deficiency Is Linked to Daytime Tiredness and Can Be Devastating â€
 slug: "this-deficiency-is-linked-to-daytime-tiredness-and-can-be-devastating-mercola"
 aliases:
   - "/This+Deficiency+Is+Linked+to+Daytime+Tiredness+and+Can+Be+Devastating+â€“+Mercola+Jan+2019"
-  - "/tiki-index.php?page_id=10361"
+  - "/10361"
+tiki_page_id: 10361
 date: 2019-01-01
 ---
 

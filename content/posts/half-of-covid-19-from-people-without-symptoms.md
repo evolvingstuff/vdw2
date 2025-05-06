@@ -3,7 +3,8 @@ title: "Half of COVID-19 from people without symptoms"
 slug: "half-of-covid-19-from-people-without-symptoms"
 aliases:
   - "/Half+of+COVID-19+from+people+without+symptoms+–+Jan+2021"
-  - "/tiki-index.php?page_id=12507"
+  - "/12507"
+tiki_page_id: 12507
 date: 2021-04-16
 categories:
   - "Virus"

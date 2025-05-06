@@ -3,7 +3,8 @@ title: "Some employers offer vitamin D testing, some doctors reduce doses, even 
 slug: "some-employers-offer-vitamin-d-testing-some-doctors-reduce-doses-even-if-deficient"
 aliases:
   - "/Some+employers+offer+vitamin+D+testing+some+doctors+reduce+doses+even+if+deficient+–+July+2018"
-  - "/tiki-index.php?page_id=10128"
+  - "/10128"
+tiki_page_id: 10128
 date: 2018-10-16
 categories:
   - "Tests for Vitamin D"

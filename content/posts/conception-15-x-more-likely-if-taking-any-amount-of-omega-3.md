@@ -3,7 +3,8 @@ title: "Conception 1.5 X more likely if taking any amount of Omega-3"
 slug: "conception-15-x-more-likely-if-taking-any-amount-of-omega-3"
 aliases:
   - "/Conception+15+X+more+likely+if+taking+any+amount+of+Omega-3+–+Feb+2022"
-  - "/tiki-index.php?page_id=13347"
+  - "/13347"
+tiki_page_id: 13347
 date: 2022-02-19
 categories:
   - "Pregnancy"

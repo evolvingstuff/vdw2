@@ -3,7 +3,8 @@ title: "Centenarians with good vitamin D were 1.5 X less likely to depressed"
 slug: "centenarians-with-good-vitamin-d-were-15-x-less-likely-to-depressed"
 aliases:
   - "/Centenarians+with+good+vitamin+D+were+15+X+less+likely+to+depressed+–+Aug+2018"
-  - "/tiki-index.php?page_id=9990"
+  - "/9990"
+tiki_page_id: 9990
 date: 2018-08-30
 categories:
   - "Seniors"

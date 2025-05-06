@@ -3,7 +3,8 @@ title: "Senior men with good vitamin D exercised more and had less metabolic syn
 slug: "senior-men-with-good-vitamin-d-exercised-more-and-had-less-metabolic-syndrome"
 aliases:
   - "/Senior+men+with+good+vitamin+D+exercised+more+and+had+less+metabolic+syndrome+–+May+2023"
-  - "/tiki-index.php?page_id=14419"
+  - "/14419"
+tiki_page_id: 14419
 date: 2023-05-11
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "Bone Mineral Density and Vitamin D - many studies"
 slug: "bone-mineral-density-and-vitamin-d-many-studies"
 aliases:
   - "/Bone+Mineral+Density+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14377"
+  - "/14377"
+tiki_page_id: 14377
 date: 2023-04-13
 categories:
   - "Bone - Health"

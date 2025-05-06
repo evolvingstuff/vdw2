@@ -3,7 +3,8 @@ title: "Vitamin D very popular with Canadian seniors having complex medical prob
 slug: "vitamin-d-very-popular-with-canadian-seniors-having-complex-medical-problems"
 aliases:
   - "/Vitamin+D+very+popular+with+Canadian+seniors+having+complex+medical+problems+–+Jan+2019"
-  - "/tiki-index.php?page_id=10510"
+  - "/10510"
+tiki_page_id: 10510
 date: 2019-02-22
 categories:
   - "Seniors"

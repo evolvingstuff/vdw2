@@ -3,7 +3,8 @@ title: "The Vitamin D receptor has been found in 54 human tissues"
 slug: "the-vitamin-d-receptor-has-been-found-in-54-human-tissues"
 aliases:
   - "/The+Vitamin+D+receptor+has+been+found+in+54+human+tissues+–+April+2023"
-  - "/tiki-index.php?page_id=14423"
+  - "/14423"
+tiki_page_id: 14423
 date: 2023-05-13
 categories:
   - "Vitamin D Receptor"

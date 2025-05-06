@@ -3,7 +3,8 @@ title: "IBD is treated by Vitamin D and other Nutraceuticals"
 slug: "ibd-is-treated-by-vitamin-d-and-other-nutraceuticals"
 aliases:
   - "/IBD+is+treated+by+Vitamin+D+and+other+Nutraceuticals+–+June+2022"
-  - "/tiki-index.php?page_id=13700"
+  - "/13700"
+tiki_page_id: 13700
 date: 2022-06-23
 categories:
   - "Gut"

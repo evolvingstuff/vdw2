@@ -3,7 +3,8 @@ title: "Maternal pregnancy problems if Vitamin D is less than 40 ng – meta-ana
 slug: "maternal-pregnancy-problems-if-vitamin-d-is-less-than-40-ng-meta-analysis"
 aliases:
   - "/Maternal+pregnancy+problems+if+Vitamin+D+is+less+than+40+ng+–+meta-analysis+Oct+2022"
-  - "/tiki-index.php?page_id=13981"
+  - "/13981"
+tiki_page_id: 13981
 date: 2022-10-05
 categories:
   - "Deficiency of Vitamin D"

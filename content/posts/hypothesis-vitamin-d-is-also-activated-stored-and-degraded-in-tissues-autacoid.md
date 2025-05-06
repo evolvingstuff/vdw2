@@ -3,7 +3,8 @@ title: "Hypothesis - Vitamin D is also activated, stored, and degraded in tissue
 slug: "hypothesis-vitamin-d-is-also-activated-stored-and-degraded-in-tissues-autacoid"
 aliases:
   - "/Hypothesis+-+Vitamin+D+is+also+activated+stored+and+degraded+in+tissues+autacoid+–+Sept+2019"
-  - "/tiki-index.php?page_id=11207"
+  - "/11207"
+tiki_page_id: 11207
 date: 2019-10-05
 categories:
   - "Top news"

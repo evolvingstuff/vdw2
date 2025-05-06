@@ -3,7 +3,8 @@ title: "Vitamin D has the most supporting science of all micronutrients to fight
 slug: "vitamin-d-has-the-most-supporting-science-of-all-micronutrients-to-fight-covid-19"
 aliases:
   - "/Vitamin+D+has+the+most+supporting+science+of+all+micronutrients+to+fight+COVID-19+–+May+2021"
-  - "/tiki-index.php?page_id=12628"
+  - "/12628"
+tiki_page_id: 12628
 date: 2021-06-02
 categories:
   - "Deficiency of Vitamin D"

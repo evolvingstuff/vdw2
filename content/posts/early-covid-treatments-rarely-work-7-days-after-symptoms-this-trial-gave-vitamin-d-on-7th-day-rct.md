@@ -3,7 +3,8 @@ title: "Early COVID treatments rarely work 7 days after symptoms, this trial gav
 slug: "early-covid-treatments-rarely-work-7-days-after-symptoms-this-trial-gave-vitamin-d-on-7th-day-rct"
 aliases:
   - "/Early+COVID+treatments+rarely+work+7+days+after+symptoms+this+trial+gave+Vitamin+D+on+7th+day+–+RCT+May+2022"
-  - "/tiki-index.php?page_id=13795"
+  - "/13795"
+tiki_page_id: 13795
 date: 2022-07-25
 categories:
   - "Intervention"

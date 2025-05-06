@@ -3,7 +3,8 @@ title: "Autoimmune risk decreased 30 percent by small amount of vitamin D and or
 slug: "autoimmune-risk-decreased-30-percent-by-small-amount-of-vitamin-d-and-or-omega-3-vital"
 aliases:
   - "/Autoimmune+risk+decreased+30+percent+by+small+amount+of+vitamin+D+and+or+Omega-3+–+ViTAL+Nov+7+2021"
-  - "/tiki-index.php?page_id=13059"
+  - "/13059"
+tiki_page_id: 13059
 date: 2021-11-07
 categories:
   - "Autoimmune"

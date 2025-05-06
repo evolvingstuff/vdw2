@@ -3,7 +3,8 @@ title: "Children with periodic fevers (PFAPA) have half the vitamin D levels of 
 slug: "children-with-periodic-fevers-pfapa-have-half-the-vitamin-d-levels-of-others"
 aliases:
   - "/Children+with+periodic+fevers+PFAPA+have+half+the+vitamin+D+levels+of+others+–+June+2019"
-  - "/tiki-index.php?page_id=10874"
+  - "/10874"
+tiki_page_id: 10874
 date: 2019-06-14
 categories:
   - "Infant-Child"

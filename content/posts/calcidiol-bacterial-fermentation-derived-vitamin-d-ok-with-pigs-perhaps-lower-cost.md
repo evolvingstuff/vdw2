@@ -3,7 +3,8 @@ title: "Calcidiol (bacterial fermentation-derived vitamin D) OK with pigs (perha
 slug: "calcidiol-bacterial-fermentation-derived-vitamin-d-ok-with-pigs-perhaps-lower-cost"
 aliases:
   - "/Calcidiol+bacterial+fermentation-derived+vitamin+D+OK+with+pigs+perhaps+lower+cost+-+Aug+2022"
-  - "/tiki-index.php?page_id=13840"
+  - "/13840"
+tiki_page_id: 13840
 date: 2022-08-13
 categories:
   - "Veterinary and Vitamin D"

@@ -3,7 +3,8 @@ title: "Calcium deposits melted by Ascorbic Acid and DMSO – 2010"
 slug: "calcium-deposits-melted-by-ascorbic-acid-and-dmso-2010"
 aliases:
   - "/Calcium+deposits+melted+by+Ascorbic+Acid+and+DMSO+–+2010"
-  - "/tiki-index.php?page_id=10672"
+  - "/10672"
+tiki_page_id: 10672
 date: 2019-04-14
 ---
 

@@ -3,7 +3,8 @@ title: "2.4 X fewer burn complications if have more than 20 ng of Vitamin D"
 slug: "24-x-fewer-burn-complications-if-have-more-than-20-ng-of-vitamin-d"
 aliases:
   - "/24+X+fewer+burn+complications+if+have+more+than+20+ng+of+Vitamin+D+–+Nov+2021"
-  - "/tiki-index.php?page_id=13056"
+  - "/13056"
+tiki_page_id: 13056
 date: 2021-11-06
 categories:
   - "Trauma and surgery"

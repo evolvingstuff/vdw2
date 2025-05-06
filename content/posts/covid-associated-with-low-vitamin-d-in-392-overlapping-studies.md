@@ -3,7 +3,8 @@ title: "COVID associated with low Vitamin D in 392 overlapping studies"
 slug: "covid-associated-with-low-vitamin-d-in-392-overlapping-studies"
 aliases:
   - "/COVID+associated+with+low+Vitamin+D+in+392+overlapping+studies+-+Dec+2021"
-  - "/tiki-index.php?page_id=13223"
+  - "/13223"
+tiki_page_id: 13223
 date: 2021-12-27
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "2X fewer COVID-19 deaths observed if infrequent vitamin D (2X more death
 slug: "2x-fewer-covid-19-deaths-observed-if-infrequent-vitamin-d-2x-more-deaths-if-daily-dose-clinicaltrial"
 aliases:
   - "/2X+fewer+COVID-19+deaths+observed+if+infrequent+vitamin+D+2X+more+deaths+if+daily+dose+–+ClinicalTrial+Oct+20+2020"
-  - "/tiki-index.php?page_id=12056"
+  - "/12056"
+tiki_page_id: 12056
 date: 2020-11-09
 categories:
   - "Virus"

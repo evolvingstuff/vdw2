@@ -3,7 +3,8 @@ title: "Candida albicans (a fungus) is fought by Vitamin D in many ways"
 slug: "candida-albicans-a-fungus-is-fought-by-vitamin-d-in-many-ways"
 aliases:
   - "/Candida+albicans+a+fungus+is+fought+by+Vitamin+D+in+many+ways+–+Sept+2022"
-  - "/tiki-index.php?page_id=13944"
+  - "/13944"
+tiki_page_id: 13944
 date: 2022-09-27
 categories:
   - "Immunity"

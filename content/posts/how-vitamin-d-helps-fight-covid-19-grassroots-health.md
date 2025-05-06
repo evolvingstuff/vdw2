@@ -3,7 +3,8 @@ title: "How Vitamin D Helps Fight COVID-19 - Grassroots Health"
 slug: "how-vitamin-d-helps-fight-covid-19-grassroots-health"
 aliases:
   - "/How+Vitamin+D+Helps+Fight+COVID-19+-+Grassroots+Health+Oct+2020"
-  - "/tiki-index.php?page_id=11985"
+  - "/11985"
+tiki_page_id: 11985
 date: 2020-10-02
 categories:
   - "Virus"

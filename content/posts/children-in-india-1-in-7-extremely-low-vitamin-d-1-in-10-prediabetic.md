@@ -3,7 +3,8 @@ title: "Children in India – 1 in 7 extremely low Vitamin D, 1 in 10 prediabeti
 slug: "children-in-india-1-in-7-extremely-low-vitamin-d-1-in-10-prediabetic"
 aliases:
   - "/Children+in+India+–+1+in+7+extremely+low+Vitamin+D+1+in+10+prediabetic+–+Sept+2019"
-  - "/tiki-index.php?page_id=11222"
+  - "/11222"
+tiki_page_id: 11222
 date: 2019-10-10
 categories:
   - "Skin - Dark"

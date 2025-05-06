@@ -3,7 +3,8 @@ title: "Some Podcasts by Dr. C Dean – Magnesium, Vitamin D, Iodine, etc."
 slug: "some-podcasts-by-dr-c-dean-magnesium-vitamin-d-iodine-etc"
 aliases:
   - "/Some+Podcasts+by+Dr+C+Dean+–+Magnesium+Vitamin+D+Iodine+etc"
-  - "/tiki-index.php?page_id=10499"
+  - "/10499"
+tiki_page_id: 10499
 date: 2019-02-18
 categories:
   - "Vitamin D and Magnesium"

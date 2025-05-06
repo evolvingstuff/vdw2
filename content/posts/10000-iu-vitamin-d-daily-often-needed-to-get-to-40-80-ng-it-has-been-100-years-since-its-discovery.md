@@ -3,7 +3,8 @@ title: "10,000 IU Vitamin D daily often needed to get to 40-80 ng (It has been 1
 slug: "10000-iu-vitamin-d-daily-often-needed-to-get-to-40-80-ng-it-has-been-100-years-since-its-discovery"
 aliases:
   - "/10000+IU+Vitamin+D+daily+often+needed+to+get+to+40-80+ng+It+has+been+100+years+since+its+discovery+–+May+2020"
-  - "/tiki-index.php?page_id=11783"
+  - "/11783"
+tiki_page_id: 11783
 date: 2020-05-25
 categories:
   - "How much Vitamin D"

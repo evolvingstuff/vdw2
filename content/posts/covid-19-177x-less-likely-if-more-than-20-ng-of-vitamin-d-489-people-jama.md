@@ -3,7 +3,8 @@ title: "COVID-19 1.77X less likely if more than 20 ng of vitamin D (489 people) 
 slug: "covid-19-177x-less-likely-if-more-than-20-ng-of-vitamin-d-489-people-jama"
 aliases:
   - "/COVID-19+177X+less+likely+if+more+than+20+ng+of+vitamin+D+489+people+–+JAMA+Sept+2020"
-  - "/tiki-index.php?page_id=11936"
+  - "/11936"
+tiki_page_id: 11936
 date: 2020-09-03
 categories:
   - "Virus"

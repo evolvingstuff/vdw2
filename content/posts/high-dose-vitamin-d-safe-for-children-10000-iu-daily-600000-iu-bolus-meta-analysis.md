@@ -3,7 +3,8 @@ title: "High-dose Vitamin D safe for children (10,000 IU daily, 600,000 IU bolus
 slug: "high-dose-vitamin-d-safe-for-children-10000-iu-daily-600000-iu-bolus-meta-analysis"
 aliases:
   - "/High-dose+Vitamin+D+safe+for+children+10000+IU+daily+600000+IU+bolus+–+meta-analysis+April+2022"
-  - "/tiki-index.php?page_id=13480"
+  - "/13480"
+tiki_page_id: 13480
 date: 2022-04-14
 categories:
   - "Loading dose for Vitamin D"

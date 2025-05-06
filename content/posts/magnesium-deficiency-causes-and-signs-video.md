@@ -3,7 +3,8 @@ title: "Magnesium deficiency: causes and signs - video"
 slug: "magnesium-deficiency-causes-and-signs-video"
 aliases:
   - "/Magnesium+deficiency+causes+and+signs+-+video+March+2024"
-  - "/tiki-index.php?page_id=15144"
+  - "/15144"
+tiki_page_id: 15144
 date: 2024-03-17
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "Ultra-processed food consumption: 2X increased risk of vitamin D deficie
 slug: "ultra-processed-food-consumption-2x-increased-risk-of-vitamin-d-deficiency"
 aliases:
   - "/Ultra-processed+food+consumption+2X+increased+risk+of+vitamin+D+deficiency+–+Dec+2023"
-  - "/tiki-index.php?page_id=15048"
+  - "/15048"
+tiki_page_id: 15048
 date: 2024-02-13
 categories:
   - "Deficiency of Vitamin D"

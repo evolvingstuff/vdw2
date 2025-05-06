@@ -3,7 +3,8 @@ title: "Stroke prevention and rehabilitation with vitamin D"
 slug: "stroke-prevention-and-rehabilitation-with-vitamin-d"
 aliases:
   - "/Stroke+prevention+and+rehabilitation+with+vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13740"
+  - "/13740"
+tiki_page_id: 13740
 date: 2022-07-09
 categories:
   - "Stroke"

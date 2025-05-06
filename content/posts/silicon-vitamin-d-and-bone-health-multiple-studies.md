@@ -3,7 +3,8 @@ title: "Silicon, Vitamin D and Bone Health - multiple studies"
 slug: "silicon-vitamin-d-and-bone-health-multiple-studies"
 aliases:
   - "/Silicon+Vitamin+D+and+Bone+Health+-+multiple+studies"
-  - "/tiki-index.php?page_id=12410"
+  - "/12410"
+tiki_page_id: 12410
 date: 2021-03-15
 categories:
   - "Bone - Health"

@@ -3,7 +3,8 @@ title: "Keytruda (175,000 dollars per year) fights some cancers, Vitamin D reduc
 slug: "keytruda-175000-dollars-per-year-fights-some-cancers-vitamin-d-reduces-how-much-keytruda-is-needed"
 aliases:
   - "/Keytruda+175000+dollars+per+year+fights+some+cancers+Vitamin+D+reduces+how+much+Keytruda+is+needed"
-  - "/tiki-index.php?page_id=15193"
+  - "/15193"
+tiki_page_id: 15193
 date: 2024-04-06
 categories:
   - "Cancer"

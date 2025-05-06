@@ -3,7 +3,8 @@ title: "Vitamin D and Calcium cost-effectively reduce falls and fractures"
 slug: "vitamin-d-and-calcium-cost-effectively-reduce-falls-and-fractures"
 aliases:
   - "/Vitamin+D+and+Calcium+cost-effectively+reduce+falls+and+fractures+–+April+2019"
-  - "/tiki-index.php?page_id=10730"
+  - "/10730"
+tiki_page_id: 10730
 date: 2019-05-02
 categories:
   - "Cost savings with Vitamin D"

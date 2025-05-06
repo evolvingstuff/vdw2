@@ -3,7 +3,8 @@ title: "The Crucial Role of Vitamin D in Physical and Mental Health - Mercola"
 slug: "the-crucial-role-of-vitamin-d-in-physical-and-mental-health-mercola"
 aliases:
   - "/The+Crucial+Role+of+Vitamin+D+in+Physical+and+Mental+Health+-+Mercola+Oct+2023"
-  - "/tiki-index.php?page_id=14794"
+  - "/14794"
+tiki_page_id: 14794
 date: 2023-10-30
 ---
 

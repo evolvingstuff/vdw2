@@ -3,7 +3,8 @@ title: "Little Vitamin D benefit if poor Vitamin D Receptor (400 studies annuall
 slug: "little-vitamin-d-benefit-if-poor-vitamin-d-receptor-400-studies-annually"
 aliases:
   - "/Little+Vitamin+D+benefit+if+poor+Vitamin+D+Receptor+400+studies+annually+-+Oct+2021"
-  - "/tiki-index.php?page_id=12954"
+  - "/12954"
+tiki_page_id: 12954
 date: 2021-10-05
 categories:
   - "Vitamin D Receptor"

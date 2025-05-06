@@ -3,7 +3,8 @@ title: "Kidney Inflammation not reduced by 30 ng Vitamin D (many health problems
 slug: "kidney-inflammation-not-reduced-by-30-ng-vitamin-d-many-health-problems-need-50-ng"
 aliases:
   - "/Kidney+Inflammation+not+reduced+by+30+ng+Vitamin+D+many+health+problems+need+50+ng+–+Nov+2022"
-  - "/tiki-index.php?page_id=14079"
+  - "/14079"
+tiki_page_id: 14079
 date: 2022-11-09
 categories:
   - "Kidney"

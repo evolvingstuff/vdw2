@@ -3,7 +3,8 @@ title: "Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats
 slug: "vitamin-d3-attenuates-blood-brain-barrier-disruption-due-to-tbi-in-rats"
 aliases:
   - "/Vitamin+D3+Attenuates+Blood-Brain+Barrier+Disruption+due+to+TBI+in+rats+–+Feb+2021"
-  - "/tiki-index.php?page_id=12345"
+  - "/12345"
+tiki_page_id: 12345
 date: 2021-02-23
 categories:
   - "Trauma and surgery"

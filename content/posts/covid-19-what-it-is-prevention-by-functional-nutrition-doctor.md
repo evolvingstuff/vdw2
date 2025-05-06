@@ -3,7 +3,8 @@ title: "COVID-19 what it is, prevention by Functional Nutrition doctor"
 slug: "covid-19-what-it-is-prevention-by-functional-nutrition-doctor"
 aliases:
   - "/COVID-19+what+it+is+prevention+by+Functional+Nutrition+doctor+-+Feb+2021"
-  - "/tiki-index.php?page_id=12355"
+  - "/12355"
+tiki_page_id: 12355
 date: 2021-02-26
 categories:
   - "Virus"

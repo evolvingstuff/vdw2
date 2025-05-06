@@ -3,7 +3,8 @@ title: "Celiac Disease 2.2X higher risk if low vitamin D, Gluten Free Diet sligh
 slug: "celiac-disease-22x-higher-risk-if-low-vitamin-d-gluten-free-diet-slightly-increases-d-meta-analysis"
 aliases:
   - "/Celiac+Disease+22X+higher+risk+if+low+vitamin+D+Gluten+Free+Diet+slightly+increases+D+–+meta-analysis+March+2024"
-  - "/tiki-index.php?page_id=15145"
+  - "/15145"
+tiki_page_id: 15145
 date: 2024-03-17
 categories:
   - "Gut"

@@ -3,7 +3,8 @@ title: "Autistics have half of the response to Vitamin D – RCT"
 slug: "autistics-have-half-of-the-response-to-vitamin-d-rct"
 aliases:
   - "/Autistics+have+half+of+the+response+to+Vitamin+D+–+RCT+Oct+2018"
-  - "/tiki-index.php?page_id=10322"
+  - "/10322"
+tiki_page_id: 10322
 date: 2018-12-17
 categories:
   - "How much Vitamin D"

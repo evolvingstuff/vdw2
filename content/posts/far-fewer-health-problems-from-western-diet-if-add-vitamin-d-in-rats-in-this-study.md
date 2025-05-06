@@ -3,7 +3,8 @@ title: "Far fewer health problems from western diet if add Vitamin D (in rats in
 slug: "far-fewer-health-problems-from-western-diet-if-add-vitamin-d-in-rats-in-this-study"
 aliases:
   - "/Far+fewer+health+problems+from+western+diet+if+add+Vitamin+D+in+rats+in+this+study+–+May+2018"
-  - "/tiki-index.php?page_id=10053"
+  - "/10053"
+tiki_page_id: 10053
 date: 2018-09-20
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Less than 3 percent of hip fracture patients prescribed enough Vitamin D
 slug: "less-than-3-percent-of-hip-fracture-patients-prescribed-enough-vitamin-d-to-make-ta-in-this-case"
 aliases:
   - "/Less+than+3+percent+of+hip+fracture+patients+prescribed+enough+Vitamin+D+to+make+a+difference+Malta+in+this+case+–+July+2021"
-  - "/tiki-index.php?page_id=12772"
+  - "/12772"
+tiki_page_id: 12772
 date: 2021-07-26
 categories:
   - "Falls and Fractures"

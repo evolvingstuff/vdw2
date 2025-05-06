@@ -3,7 +3,8 @@ title: "Bronchiolitis had 1.3 X longer hospitalization if low Vitamin D (1016 in
 slug: "bronchiolitis-had-13-x-longer-hospitalization-if-low-vitamin-d-1016-infants"
 aliases:
   - "/Bronchiolitis+had+13+X+longer+hospitalization+if+low+Vitamin+D+1016+infants+–+Sept+2018"
-  - "/tiki-index.php?page_id=10060"
+  - "/10060"
+tiki_page_id: 10060
 date: 2018-09-24
 categories:
   - "Breathing"

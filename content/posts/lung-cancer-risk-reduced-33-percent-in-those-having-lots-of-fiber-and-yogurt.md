@@ -3,7 +3,8 @@ title: "Lung Cancer risk reduced 33 percent in those having lots of fiber and yo
 slug: "lung-cancer-risk-reduced-33-percent-in-those-having-lots-of-fiber-and-yogurt"
 aliases:
   - "/Lung+Cancer+risk+reduced+33+percent+in+those+having+lots+of+fiber+and+yogurt+–+Oct+2019"
-  - "/tiki-index.php?page_id=11270"
+  - "/11270"
+tiki_page_id: 11270
 date: 2019-10-24
 categories:
   - "Cancer - Lung"

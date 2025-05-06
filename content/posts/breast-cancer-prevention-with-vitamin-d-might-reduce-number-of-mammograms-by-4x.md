@@ -3,7 +3,8 @@ title: "Breast Cancer prevention with vitamin D might reduce number of mammogram
 slug: "breast-cancer-prevention-with-vitamin-d-might-reduce-number-of-mammograms-by-4x"
 aliases:
   - "/Breast+Cancer+prevention+with+vitamin+D+might+reduce+number+of+mammograms+by+4X+–+Aug+2022"
-  - "/tiki-index.php?page_id=13843"
+  - "/13843"
+tiki_page_id: 13843
 date: 2022-08-17
 categories:
   - "Seniors"

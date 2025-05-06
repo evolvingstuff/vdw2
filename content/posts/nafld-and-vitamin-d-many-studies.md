@@ -3,7 +3,8 @@ title: "NAFLD and Vitamin D - many studies"
 slug: "nafld-and-vitamin-d-many-studies"
 aliases:
   - "/NAFLD+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14341"
+  - "/14341"
+tiki_page_id: 14341
 date: 2023-03-31
 categories:
   - "Liver"

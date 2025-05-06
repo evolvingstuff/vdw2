@@ -3,7 +3,8 @@ title: "Tic disorders associated with Vitamin D - several studies"
 slug: "tic-disorders-associated-with-vitamin-d-several-studies"
 aliases:
   - "/Tic+disorders+associated+with+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=13593"
+  - "/13593"
+tiki_page_id: 13593
 date: 2022-05-26
 categories:
   - "Infant-Child"

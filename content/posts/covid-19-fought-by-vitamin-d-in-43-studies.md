@@ -3,7 +3,8 @@ title: "COVID-19 fought by Vitamin D in 43 studies"
 slug: "covid-19-fought-by-vitamin-d-in-43-studies"
 aliases:
   - "/COVID-19+fought+by+Vitamin+D+in+43+studies+-+Oct+15+2020"
-  - "/tiki-index.php?page_id=12009"
+  - "/12009"
+tiki_page_id: 12009
 date: 2020-10-15
 categories:
   - "Virus"

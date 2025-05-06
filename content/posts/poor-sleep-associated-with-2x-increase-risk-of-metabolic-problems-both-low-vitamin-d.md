@@ -3,7 +3,8 @@ title: "Poor sleep associated with 2X increase risk of Metabolic problems (both 
 slug: "poor-sleep-associated-with-2x-increase-risk-of-metabolic-problems-both-low-vitamin-d"
 aliases:
   - "/Poor+sleep+associated+with+2X+increase+risk+of+Metabolic+problems+both+low+Vitamin+D+–+May+2019"
-  - "/tiki-index.php?page_id=10857"
+  - "/10857"
+tiki_page_id: 10857
 date: 2019-06-12
 categories:
   - "Metabolic Syndrome"

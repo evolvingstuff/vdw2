@@ -3,7 +3,8 @@ title: "Bone Mineral Density increased by Resveratrol (which activates the Vitam
 slug: "bone-mineral-density-increased-by-resveratrol-which-activates-the-vitamin-d-receptor-rct"
 aliases:
   - "/Bone+Mineral+Density+increased+by+Resveratrol+which+activates+the+Vitamin+D+Receptor+–+RCT+Nov+2020"
-  - "/tiki-index.php?page_id=12328"
+  - "/12328"
+tiki_page_id: 12328
 date: 2021-02-17
 categories:
   - "Bone - Health"

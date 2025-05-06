@@ -3,7 +3,8 @@ title: "Off topic: back muscle pain quickly treated by TENS"
 slug: "off-topic-back-muscle-pain-quickly-treated-by-tens"
 aliases:
   - "/Off+topic+back+muscle+pain+quickly+treated+by+TENS+-+Jan+2023"
-  - "/tiki-index.php?page_id=14232"
+  - "/14232"
+tiki_page_id: 14232
 date: 2023-01-25
 categories:
   - "Off Topic"

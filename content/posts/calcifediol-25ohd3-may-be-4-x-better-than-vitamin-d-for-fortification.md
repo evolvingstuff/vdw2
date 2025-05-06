@@ -3,7 +3,8 @@ title: "Calcifediol (25(OH)D3) may be 4 X better than Vitamin D for fortificatio
 slug: "calcifediol-25ohd3-may-be-4-x-better-than-vitamin-d-for-fortification"
 aliases:
   - "/Calcifediol+25OHD3+may+be+4+X+better+than+Vitamin+D+for+fortification+–+Aug+2018"
-  - "/tiki-index.php?page_id=10436"
+  - "/10436"
+tiki_page_id: 10436
 date: 2019-01-29
 categories:
   - "Fortification with Vitamin D"

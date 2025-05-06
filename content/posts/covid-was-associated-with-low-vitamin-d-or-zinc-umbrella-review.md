@@ -3,7 +3,8 @@ title: "COVID was associated with low Vitamin D or Zinc – umbrella review"
 slug: "covid-was-associated-with-low-vitamin-d-or-zinc-umbrella-review"
 aliases:
   - "/COVID+was+associated+with+low+Vitamin+D+or+Zinc+–+umbrella+review+Feb+2023"
-  - "/tiki-index.php?page_id=14267"
+  - "/14267"
+tiki_page_id: 14267
 date: 2023-02-16
 categories:
   - "Virus"

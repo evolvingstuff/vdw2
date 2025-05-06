@@ -3,7 +3,8 @@ title: "Proposed Coronavirus Clinical Trials using a Megadose of Vitamin D"
 slug: "proposed-coronavirus-clinical-trials-using-a-megadose-of-vitamin-d"
 aliases:
   - "/Proposed+Coronavirus+Clinical+Trials+using+a+Megadose+of+Vitamin+D"
-  - "/tiki-index.php?page_id=11668"
+  - "/11668"
+tiki_page_id: 11668
 date: 2020-03-08
 categories:
   - "Admin Only"

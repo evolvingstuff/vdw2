@@ -3,7 +3,8 @@ title: "Why Vitamin D is better than the Flu Vaccine"
 slug: "why-vitamin-d-is-better-than-the-flu-vaccine"
 aliases:
   - "/Why+Vitamin+D+is+better+than+the+Flu+Vaccine+–+Nov+2018"
-  - "/tiki-index.php?page_id=12151"
+  - "/12151"
+tiki_page_id: 12151
 date: 2020-12-17
 ---
 

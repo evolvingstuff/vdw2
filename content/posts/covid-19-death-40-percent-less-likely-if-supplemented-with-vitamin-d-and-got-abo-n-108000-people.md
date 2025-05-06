@@ -3,7 +3,8 @@ title: "COVID-19 death 40 percent less likely if supplemented with Vitamin D and
 slug: "covid-19-death-40-percent-less-likely-if-supplemented-with-vitamin-d-and-got-abo-n-108000-people"
 aliases:
   - "/COVID-19+death+40+percent+less+likely+if+supplemented+with+Vitamin+D+and+got+above+30+ng+Spain+108000+people+–+July+2021"
-  - "/tiki-index.php?page_id=12746"
+  - "/12746"
+tiki_page_id: 12746
 date: 2021-07-18
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Russian Hospital observed 5X more likely to have severe COVID-19 if Vita
 slug: "russian-hospital-observed-5x-more-likely-to-have-severe-covid-19-if-vitamin-d-deficient"
 aliases:
   - "/Russian+Hospital+observed+5X+more+likely+to+have+severe+COVID-19+if+Vitamin+D+Deficient+–+Aug+2020"
-  - "/tiki-index.php?page_id=11884"
+  - "/11884"
+tiki_page_id: 11884
 date: 2020-08-05
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Familial Mediterranean Fever is associated with poor Vitamin D Binding P
 slug: "familial-mediterranean-fever-is-associated-with-poor-vitamin-d-binding-protein"
 aliases:
   - "/Familial+Mediterranean+Fever+is+associated+with+poor+Vitamin+D+Binding+Protein+–+Nov+2020"
-  - "/tiki-index.php?page_id=12061"
+  - "/12061"
+tiki_page_id: 12061
 date: 2020-11-12
 categories:
   - "Vit D Binding Protein"

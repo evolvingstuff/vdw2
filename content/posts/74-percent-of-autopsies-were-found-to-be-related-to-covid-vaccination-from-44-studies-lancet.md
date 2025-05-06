@@ -3,7 +3,8 @@ title: "74% of autopsies were found to be related to COVID vaccination (from 44 
 slug: "74-percent-of-autopsies-were-found-to-be-related-to-covid-vaccination-from-44-studies-lancet"
 aliases:
   - "/74+of+autopsies+were+found+to+be+related+to+COVID+vaccination+from+44+studies+–+Lancet+July+2023"
-  - "/tiki-index.php?page_id=14520"
+  - "/14520"
+tiki_page_id: 14520
 date: 2023-07-05
 categories:
   - "Virus"

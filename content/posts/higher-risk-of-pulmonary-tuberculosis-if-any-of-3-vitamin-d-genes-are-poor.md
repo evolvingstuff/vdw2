@@ -3,7 +3,8 @@ title: "Higher risk of pulmonary tuberculosis if any of 3 vitamin D genes are po
 slug: "higher-risk-of-pulmonary-tuberculosis-if-any-of-3-vitamin-d-genes-are-poor"
 aliases:
   - "/Higher+risk+of+pulmonary+tuberculosis+if+any+of+3+vitamin+D+genes+are+poor+–+April+2021"
-  - "/tiki-index.php?page_id=12526"
+  - "/12526"
+tiki_page_id: 12526
 date: 2021-04-21
 categories:
   - "Tuberculosis"

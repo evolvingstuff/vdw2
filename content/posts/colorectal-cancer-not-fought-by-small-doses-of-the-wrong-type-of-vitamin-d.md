@@ -3,7 +3,8 @@ title: "Colorectal cancer not fought by small doses of the wrong type of Vitamin
 slug: "colorectal-cancer-not-fought-by-small-doses-of-the-wrong-type-of-vitamin-d"
 aliases:
   - "/Colorectal+cancer+not+fought+by+small+doses+of+the+wrong+type+of+Vitamin+D+-+Oct+2022"
-  - "/tiki-index.php?page_id=14024"
+  - "/14024"
+tiki_page_id: 14024
 date: 2022-10-19
 ---
 

@@ -3,7 +3,8 @@ title: "Cognitive speed of Multiple Sclerosis patients increased if Vitamin D in
 slug: "cognitive-speed-of-multiple-sclerosis-patients-increased-if-vitamin-d-increased-even-a-little-bit"
 aliases:
   - "/Cognitive+speed+of+Multiple+Sclerosis+patients+increased+if+Vitamin+D+increased+even+a+little+bit+–+Feb+2020"
-  - "/tiki-index.php?page_id=11628"
+  - "/11628"
+tiki_page_id: 11628
 date: 2020-02-14
 categories:
   - "Multiple Sclerosis"

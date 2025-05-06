@@ -3,7 +3,8 @@ title: "‘Category 5’ COVID Hurricane Approaches (or is it COVID-21)"
 slug: "category-5-covid-hurricane-approaches-or-is-it-covid-21"
 aliases:
   - "/Category+5+COVID+Hurricane+Approaches+or+is+it+COVID-21+-+Feb+2021"
-  - "/tiki-index.php?page_id=12290"
+  - "/12290"
+tiki_page_id: 12290
 date: 2021-02-02
 categories:
   - "Virus"

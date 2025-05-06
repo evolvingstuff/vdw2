@@ -3,7 +3,8 @@ title: "COVID-19 protocol proposed in India includes Vitamin D"
 slug: "covid-19-protocol-proposed-in-india-includes-vitamin-d"
 aliases:
   - "/COVID-19+protocol+proposed+in+India+includes+Vitamin+D+-+Nov+12+2020"
-  - "/tiki-index.php?page_id=12120"
+  - "/12120"
+tiki_page_id: 12120
 date: 2020-12-05
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D loading doses quickly and safely raise levels – meta-analysi
 slug: "vitamin-d-loading-doses-quickly-and-safely-raise-levels-meta-analysis"
 aliases:
   - "/Vitamin+D+loading+doses+quickly+and+safely+raise+levels+–+meta-analysis+Dec+2021"
-  - "/tiki-index.php?page_id=13139"
+  - "/13139"
+tiki_page_id: 13139
 date: 2021-12-03
 categories:
   - "Loading dose for Vitamin D"

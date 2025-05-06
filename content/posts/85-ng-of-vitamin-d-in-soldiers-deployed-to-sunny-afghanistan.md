@@ -3,7 +3,8 @@ title: "85 ng of vitamin D in soldiers deployed to sunny Afghanistan"
 slug: "85-ng-of-vitamin-d-in-soldiers-deployed-to-sunny-afghanistan"
 aliases:
   - "/85+ng+of+vitamin+D+in+soldiers+deployed+to+sunny+Afghanistan+–+Jan+2019"
-  - "/tiki-index.php?page_id=10368"
+  - "/10368"
+tiki_page_id: 10368
 date: 2019-01-04
 categories:
   - "Noontime sun and D"

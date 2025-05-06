@@ -3,7 +3,8 @@ title: "Neuropathy treated by vitamin D - many studies"
 slug: "neuropathy-treated-by-vitamin-d-many-studies"
 aliases:
   - "/Neuropathy+treated+by+vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=11123"
+  - "/11123"
+tiki_page_id: 11123
 date: 2019-09-04
 categories:
   - "Diabetes"

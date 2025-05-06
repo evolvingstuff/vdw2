@@ -3,7 +3,8 @@ title: "Puberty Starts Earlier Than It Used To (unaware of Vitamin D)"
 slug: "puberty-starts-earlier-than-it-used-to-unaware-of-vitamin-d"
 aliases:
   - "/Puberty+Starts+Earlier+Than+It+Used+To+unaware+of+Vitamin+D+-+May+2022"
-  - "/tiki-index.php?page_id=13574"
+  - "/13574"
+tiki_page_id: 13574
 date: 2022-05-19
 categories:
   - "Infant-Child"

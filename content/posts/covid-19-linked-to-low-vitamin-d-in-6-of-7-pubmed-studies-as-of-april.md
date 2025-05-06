@@ -3,7 +3,8 @@ title: "COVID-19 linked to low vitamin D in 6 of 7 PubMed studies (as of April)"
 slug: "covid-19-linked-to-low-vitamin-d-in-6-of-7-pubmed-studies-as-of-april"
 aliases:
   - "/COVID-19+linked+to+low+vitamin+D+in+6+of+7+PubMed+studies+as+of+April+–+June+2020"
-  - "/tiki-index.php?page_id=11838"
+  - "/11838"
+tiki_page_id: 11838
 date: 2020-07-11
 categories:
   - "Virus"

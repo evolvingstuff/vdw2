@@ -3,7 +3,8 @@ title: "24 drugs that typically reduce Vitamin D levels – Review"
 slug: "24-drugs-that-typically-reduce-vitamin-d-levels-review"
 aliases:
   - "/24+drugs+that+typically+reduce+Vitamin+D+levels+–+Review+Aug+2021"
-  - "/tiki-index.php?page_id=12852"
+  - "/12852"
+tiki_page_id: 12852
 date: 2021-08-23
 categories:
   - "Interactions with Vitamin D"

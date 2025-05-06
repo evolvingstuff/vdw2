@@ -3,7 +3,8 @@ title: "Airline pilot heart annual EKGs - 1 in 5 would have failed test if FAA h
 slug: "airline-pilot-heart-annual-ekgs-1-in-5-would-have-failed-test-if-faa-had-not-changed-the-criteria"
 aliases:
   - "/Airline+pilot+heart+annual+EKGs+-+1+in+5+would+have+failed+test+if+FAA+had+not+changed+the+criteria+-+Jan+2023"
-  - "/tiki-index.php?page_id=14237"
+  - "/14237"
+tiki_page_id: 14237
 date: 2023-01-31
 categories:
   - "Cardiovascular"

@@ -3,7 +3,8 @@ title: "Bacterial infections reduced by Vitamin D without antibiotics"
 slug: "bacterial-infections-reduced-by-vitamin-d-without-antibiotics"
 aliases:
   - "/Bacterial+infections+reduced+by+Vitamin+D+without+antibiotics+–+Oct+2019"
-  - "/tiki-index.php?page_id=12684"
+  - "/12684"
+tiki_page_id: 12684
 date: 2021-06-24
 categories:
   - "Immunity"

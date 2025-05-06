@@ -3,7 +3,8 @@ title: "COVID-19 risk reduction by early treatment: 5X Vitamin D"
 slug: "covid-19-risk-reduction-by-early-treatment-5x-vitamin-d"
 aliases:
   - "/COVID-19+risk+reduction+by+early+treatment+5X+Vitamin+D+–+Oct+8+2021"
-  - "/tiki-index.php?page_id=12895"
+  - "/12895"
+tiki_page_id: 12895
 date: 2021-09-14
 categories:
   - "Virus"

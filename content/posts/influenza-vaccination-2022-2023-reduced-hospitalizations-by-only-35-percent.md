@@ -3,7 +3,8 @@ title: "Influenza vaccination (2022-2023) reduced hospitalizations by only 35%"
 slug: "influenza-vaccination-2022-2023-reduced-hospitalizations-by-only-35-percent"
 aliases:
   - "/Influenza+vaccination+2022-2023+reduced+hospitalizations+by+only+35+-+Jan+2024"
-  - "/tiki-index.php?page_id=14989"
+  - "/14989"
+tiki_page_id: 14989
 date: 2024-01-20
 categories:
   - "Immunity"

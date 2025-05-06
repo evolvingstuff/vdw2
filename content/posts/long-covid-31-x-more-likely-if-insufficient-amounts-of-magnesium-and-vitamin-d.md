@@ -3,7 +3,8 @@ title: "Long-COVID 3.1 X more likely if insufficient amounts of Magnesium and Vi
 slug: "long-covid-31-x-more-likely-if-insufficient-amounts-of-magnesium-and-vitamin-d"
 aliases:
   - "/Long-COVID+31+X+more+likely+if+insufficient+amounts+of+Magnesium+and+Vitamin+D+–+March+2024"
-  - "/tiki-index.php?page_id=15164"
+  - "/15164"
+tiki_page_id: 15164
 date: 2024-03-24
 categories:
   - "Vitamin D and Magnesium"

@@ -3,7 +3,8 @@ title: "1 in 10 have Chronic Kidney Disease (but only 5% are aware of it) – re
 slug: "1-in-10-have-chronic-kidney-disease-but-only-5-percent-are-aware-of-it-review"
 aliases:
   - "/1+in+10+have+Chronic+Kidney+Disease+but+only+5+are+aware+of+it+–+review+Sept+2019"
-  - "/tiki-index.php?page_id=11188"
+  - "/11188"
+tiki_page_id: 11188
 date: 2019-10-02
 categories:
   - "Kidney"

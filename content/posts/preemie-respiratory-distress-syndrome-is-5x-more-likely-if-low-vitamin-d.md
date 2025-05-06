@@ -3,7 +3,8 @@ title: "Preemie Respiratory Distress Syndrome is 5X more likely if low vitamin D
 slug: "preemie-respiratory-distress-syndrome-is-5x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Preemie+Respiratory+Distress+Syndrome+is+5X+more+likely+if+low+vitamin+D+–+Dec+2020"
-  - "/tiki-index.php?page_id=12152"
+  - "/12152"
+tiki_page_id: 12152
 date: 2020-12-18
 categories:
   - "Breathing"

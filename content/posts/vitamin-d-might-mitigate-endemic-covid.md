@@ -3,7 +3,8 @@ title: "Vitamin D might mitigate endemic COVID"
 slug: "vitamin-d-might-mitigate-endemic-covid"
 aliases:
   - "/Vitamin+D+might+mitigate+endemic+COVID+-+June+2022"
-  - "/tiki-index.php?page_id=13666"
+  - "/13666"
+tiki_page_id: 13666
 date: 2022-06-11
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Vitamin D toxicity is extremely rare, accidental, and very mild in Irani
 slug: "vitamin-d-toxicity-is-extremely-rare-accidental-and-very-mild-in-iranian-children"
 aliases:
   - "/Vitamin+D+toxicity+is+extremely+rare+accidental+and+very+mild+in+Iranian+children+–+July+2020"
-  - "/tiki-index.php?page_id=11854"
+  - "/11854"
+tiki_page_id: 11854
 date: 2020-07-20
 categories:
   - "Toxicity of Vitamin D"

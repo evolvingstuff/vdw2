@@ -3,7 +3,8 @@ title: "Poor Vitamin D gene activation that results in rickets etc, (CYP27B1: 1 
 slug: "poor-vitamin-d-gene-activation-that-results-in-rickets-etc-cyp27b1-1-in-30-peopl-egion-of-quebec"
 aliases:
   - "/Poor+Vitamin+D+gene+activation+that+results+in+rickets+etc+CYP27B1+1+in+30+people+in+a+region+of+Quebec+–+May+2022"
-  - "/tiki-index.php?page_id=13584"
+  - "/13584"
+tiki_page_id: 13584
 date: 2022-05-23
 categories:
   - "Rickets"

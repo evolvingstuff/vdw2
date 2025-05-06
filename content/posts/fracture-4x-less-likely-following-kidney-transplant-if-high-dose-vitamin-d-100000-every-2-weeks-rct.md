@@ -3,7 +3,8 @@ title: "Fracture 4X less likely following kidney transplant if high-dose Vitamin
 slug: "fracture-4x-less-likely-following-kidney-transplant-if-high-dose-vitamin-d-100000-every-2-weeks-rct"
 aliases:
   - "/Fracture+4X+less+likely+following+kidney+transplant+if+high-dose+Vitamin+D+100000+every+2+weeks+–+RCT+Jan+2023"
-  - "/tiki-index.php?page_id=14231"
+  - "/14231"
+tiki_page_id: 14231
 date: 2023-01-25
 categories:
   - "Kidney"

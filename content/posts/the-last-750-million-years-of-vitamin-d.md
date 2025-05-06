@@ -3,7 +3,8 @@ title: "The last 750 million years of Vitamin D"
 slug: "the-last-750-million-years-of-vitamin-d"
 aliases:
   - "/The+last+750+million+years+of+Vitamin+D"
-  - "/tiki-index.php?page_id=13484"
+  - "/13484"
+tiki_page_id: 13484
 date: 2022-04-15
 categories:
   - "About D - more info."

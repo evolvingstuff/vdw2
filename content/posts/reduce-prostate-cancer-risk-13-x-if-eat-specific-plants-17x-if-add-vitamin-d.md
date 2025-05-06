@@ -3,7 +3,8 @@ title: "Reduce Prostate Cancer Risk: 1.3 X if eat specific plants, 1.7X if add V
 slug: "reduce-prostate-cancer-risk-13-x-if-eat-specific-plants-17x-if-add-vitamin-d"
 aliases:
   - "/Reduce+Prostate+Cancer+Risk+13+X+if+eat+specific+plants+17X+if+add+Vitamin+D"
-  - "/tiki-index.php?page_id=11487"
+  - "/11487"
+tiki_page_id: 11487
 date: 2019-12-22
 categories:
   - "Cancer - Prostate"

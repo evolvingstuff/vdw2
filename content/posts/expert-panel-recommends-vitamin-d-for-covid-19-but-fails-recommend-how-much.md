@@ -3,7 +3,8 @@ title: "Expert panel recommends Vitamin D for COVID-19, but fails recommend how 
 slug: "expert-panel-recommends-vitamin-d-for-covid-19-but-fails-recommend-how-much"
 aliases:
   - "/Expert+panel+recommends+Vitamin+D+for+COVID-19+but+fails+recommend+how+much+–+May+2021"
-  - "/tiki-index.php?page_id=12584"
+  - "/12584"
+tiki_page_id: 12584
 date: 2021-05-17
 ---
 

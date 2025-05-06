@@ -3,7 +3,8 @@ title: "Head and Neck cancer associated with low vitamin D, adding Vitamin D to 
 slug: "head-and-neck-cancer-associated-with-low-vitamin-d-adding-vitamin-d-to-cancer-cells-looks-promising"
 aliases:
   - "/Head+and+Neck+cancer+associated+with+low+vitamin+D+adding+Vitamin+D+to+cancer+cells+looks+promising+–+July+2018"
-  - "/tiki-index.php?page_id=10052"
+  - "/10052"
+tiki_page_id: 10052
 date: 2018-09-20
 categories:
   - "Cancer - Other"

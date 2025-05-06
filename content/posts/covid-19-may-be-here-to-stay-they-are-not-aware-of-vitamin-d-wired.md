@@ -3,7 +3,8 @@ title: "COVID-19 May Be Here to Stay (they are not aware of Vitamin D) – Wired
 slug: "covid-19-may-be-here-to-stay-they-are-not-aware-of-vitamin-d-wired"
 aliases:
   - "/COVID-19+May+Be+Here+to+Stay+they+are+not+aware+of+Vitamin+D+–+Wired+Feb+2021"
-  - "/tiki-index.php?page_id=12342"
+  - "/12342"
+tiki_page_id: 12342
 date: 2021-02-22
 categories:
   - "Virus"

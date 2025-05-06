@@ -3,7 +3,8 @@ title: "Autism treated by an activator of the Vitamin D Receptor: supforaphane"
 slug: "autism-treated-by-an-activator-of-the-vitamin-d-receptor-supforaphane"
 aliases:
   - "/Autism+treated+by+an+activator+of+the+Vitamin+D+Receptor+supforaphane+-+March+2024"
-  - "/tiki-index.php?page_id=15183"
+  - "/15183"
+tiki_page_id: 15183
 date: 2024-04-02
 categories:
   - "Autism"

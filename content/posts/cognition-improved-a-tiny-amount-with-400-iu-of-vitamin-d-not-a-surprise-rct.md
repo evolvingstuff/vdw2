@@ -3,7 +3,8 @@ title: "Cognition improved a tiny amount with 400 IU of vitamin D (not a surpris
 slug: "cognition-improved-a-tiny-amount-with-400-iu-of-vitamin-d-not-a-surprise-rct"
 aliases:
   - "/Cognition+improved+a+tiny+amount+with+400+IU+of+vitamin+D+not+a+surprise+–+RCT+Oct+2018"
-  - "/tiki-index.php?page_id=10150"
+  - "/10150"
+tiki_page_id: 10150
 date: 2018-10-22
 categories:
   - "Intervention"

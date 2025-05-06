@@ -3,7 +3,8 @@ title: "Resulting childhood Asthma cut in half if 4,400 IU Vitamin D (5 ways to 
 slug: "resulting-childhood-asthma-cut-in-half-if-4400-iu-vitamin-d-5-ways-to-improve-it-rct"
 aliases:
   - "/Resulting+childhood+Asthma+cut+in+half+if+4400+IU+Vitamin+D+5+ways+to+improve+it+-+RCT+April+2023"
-  - "/tiki-index.php?page_id=14387"
+  - "/14387"
+tiki_page_id: 14387
 date: 2023-04-20
 categories:
   - "Breathing"

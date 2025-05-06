@@ -3,7 +3,8 @@ title: "Exercise Performance improved by Vitamin D or Magnesium – 2021"
 slug: "exercise-performance-improved-by-vitamin-d-or-magnesium-2021"
 aliases:
   - "/Exercise+Performance+improved+by+Vitamin+D+or+Magnesium+–+2021"
-  - "/tiki-index.php?page_id=13636"
+  - "/13636"
+tiki_page_id: 13636
 date: 2022-06-05
 categories:
   - "Sports and Vitamin D"

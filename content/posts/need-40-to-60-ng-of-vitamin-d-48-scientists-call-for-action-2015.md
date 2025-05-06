@@ -3,7 +3,8 @@ title: "Need 40 to 60 ng of Vitamin D – 48 scientists call for action – 2015
 slug: "need-40-to-60-ng-of-vitamin-d-48-scientists-call-for-action-2015"
 aliases:
   - "/Need+40+to+60+ng+of+Vitamin+D+–+48+scientists+call+for+action+–+2015"
-  - "/tiki-index.php?page_id=10805"
+  - "/10805"
+tiki_page_id: 10805
 date: 2019-05-23
 categories:
   - "Optimum"

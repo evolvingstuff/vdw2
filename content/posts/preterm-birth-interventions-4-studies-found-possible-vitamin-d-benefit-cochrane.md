@@ -3,7 +3,8 @@ title: "Preterm birth interventions – 4 studies found possible vitamin D benef
 slug: "preterm-birth-interventions-4-studies-found-possible-vitamin-d-benefit-cochrane"
 aliases:
   - "/Preterm+birth+interventions+–+4+studies+found+possible+vitamin+D+benefit+–+Cochrane+–+Nov+2018"
-  - "/tiki-index.php?page_id=10242"
+  - "/10242"
+tiki_page_id: 10242
 date: 2018-11-28
 categories:
   - "Pregnancy"

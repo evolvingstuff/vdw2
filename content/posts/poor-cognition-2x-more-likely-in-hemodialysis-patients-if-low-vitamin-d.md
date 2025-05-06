@@ -3,7 +3,8 @@ title: "Poor cognition  2X more likely in Hemodialysis Patients if low Vitamin D
 slug: "poor-cognition-2x-more-likely-in-hemodialysis-patients-if-low-vitamin-d"
 aliases:
   - "/Poor+cognition+2X+more+likely+in+Hemodialysis+Patients+if+low+Vitamin+D+–+Sept+2022"
-  - "/tiki-index.php?page_id=13926"
+  - "/13926"
+tiki_page_id: 13926
 date: 2022-09-20
 categories:
   - "Kidney"

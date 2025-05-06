@@ -3,7 +3,8 @@ title: "Top 10 signs of Vitamin D Deficiency (9 minute Video)"
 slug: "top-10-signs-of-vitamin-d-deficiency-9-minute-video"
 aliases:
   - "/Top+10+signs+of+Vitamin+D+Deficiency+9+minute+Video+-+Oct+2021"
-  - "/tiki-index.php?page_id=13014"
+  - "/13014"
+tiki_page_id: 13014
 date: 2021-10-23
 categories:
   - "Deficiency of Vitamin D"

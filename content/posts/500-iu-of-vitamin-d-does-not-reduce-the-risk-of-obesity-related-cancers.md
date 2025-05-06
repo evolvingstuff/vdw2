@@ -3,7 +3,8 @@ title: "500 IU of vitamin D does not reduce the risk of Obesity-related Cancers"
 slug: "500-iu-of-vitamin-d-does-not-reduce-the-risk-of-obesity-related-cancers"
 aliases:
   - "/500+IU+of+vitamin+D+does+not+reduce+the+risk+of+Obesity-related+Cancers+–+June+2022"
-  - "/tiki-index.php?page_id=13743"
+  - "/13743"
+tiki_page_id: 13743
 date: 2022-07-09
 categories:
   - "Obesity"

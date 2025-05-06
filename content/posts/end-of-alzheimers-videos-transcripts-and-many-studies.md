@@ -3,7 +3,8 @@ title: "End of Alzheimer's videos, transcripts and many studies"
 slug: "end-of-alzheimers-videos-transcripts-and-many-studies"
 aliases:
   - "/End+of+Alzheimers+videos+transcripts+and+many+studies"
-  - "/tiki-index.php?page_id=14508"
+  - "/14508"
+tiki_page_id: 14508
 date: 2023-07-02
 categories:
   - "Cognitive"

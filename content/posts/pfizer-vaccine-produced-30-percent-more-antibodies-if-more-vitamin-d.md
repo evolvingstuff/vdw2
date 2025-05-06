@@ -3,7 +3,8 @@ title: "Pfizer vaccine produced 30 percent more antibodies if more vitamin D"
 slug: "pfizer-vaccine-produced-30-percent-more-antibodies-if-more-vitamin-d"
 aliases:
   - "/Pfizer+vaccine+produced+30+percent+more+antibodies+if+more+vitamin+D+–+July+2022"
-  - "/tiki-index.php?page_id=13460"
+  - "/13460"
+tiki_page_id: 13460
 date: 2022-04-07
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Immunity against infection: letter sent to the editor of The Times  UK"
 slug: "immunity-against-infection-letter-sent-to-the-editor-of-the-times-uk"
 aliases:
   - "/Immunity+against+infection+letter+sent+to+the+editor+of+The+Times+UK+-+April+6+2020"
-  - "/tiki-index.php?page_id=11715"
+  - "/11715"
+tiki_page_id: 11715
 date: 2020-04-06
 categories:
   - "Virus"

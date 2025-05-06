@@ -3,7 +3,8 @@ title: "Viral infection wheezing 24X more likely if less than 15 ng of Vitamin D
 slug: "viral-infection-wheezing-24x-more-likely-if-less-than-15-ng-of-vitamin-d"
 aliases:
   - "/Viral+infection+wheezing+24X+more+likely+if+less+than+15+ng+of+Vitamin+D+–+Dec+2019"
-  - "/tiki-index.php?page_id=11711"
+  - "/11711"
+tiki_page_id: 11711
 date: 2020-04-04
 categories:
   - "Breathing"

@@ -3,7 +3,8 @@ title: "Reduce 4 health problems by a quarter if increase Vitamin D to 30 ng –
 slug: "reduce-4-health-problems-by-a-quarter-if-increase-vitamin-d-to-30-ng-saudi-arabia-grant"
 aliases:
   - "/Reduce+4+health+problems+by+a+quarter+if+increase+Vitamin+D+to+30+ng+–+Saudi+Arabia+Grant+March+2023"
-  - "/tiki-index.php?page_id=14327"
+  - "/14327"
+tiki_page_id: 14327
 date: 2023-03-23
 categories:
   - "Cost savings with Vitamin D"

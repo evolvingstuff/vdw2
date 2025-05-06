@@ -3,7 +3,8 @@ title: "Mental health not helped by vitamin D monotherapy (adding Omega-3 and Ma
 slug: "mental-health-not-helped-by-vitamin-d-monotherapy-adding-omega-3-and-magnesium-help-review"
 aliases:
   - "/Mental+health+not+helped+by+vitamin+D+monotherapy+adding+Omega-3+and+Magnesium+help+–+review+Nov+2021"
-  - "/tiki-index.php?page_id=13051"
+  - "/13051"
+tiki_page_id: 13051
 date: 2021-11-05
 categories:
   - "Depression"

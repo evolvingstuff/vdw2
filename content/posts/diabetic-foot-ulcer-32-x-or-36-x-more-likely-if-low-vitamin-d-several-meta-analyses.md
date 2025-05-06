@@ -3,7 +3,8 @@ title: "Diabetic Foot Ulcer 3.2 X or 3.6 X more likely if low vitamin D – seve
 slug: "diabetic-foot-ulcer-32-x-or-36-x-more-likely-if-low-vitamin-d-several-meta-analyses"
 aliases:
   - "/Diabetic+Foot+Ulcer+32+X+or+36+X+more+likely+if+low+vitamin+D+–+several+meta-analyses"
-  - "/tiki-index.php?page_id=10573"
+  - "/10573"
+tiki_page_id: 10573
 date: 2019-03-16
 categories:
   - "Diabetes"

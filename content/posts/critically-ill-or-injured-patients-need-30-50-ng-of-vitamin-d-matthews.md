@@ -3,7 +3,8 @@ title: "Critically Ill or injured patients need 30-50 ng of Vitamin D – Matthe
 slug: "critically-ill-or-injured-patients-need-30-50-ng-of-vitamin-d-matthews"
 aliases:
   - "/Critically+Ill+or+injured+patients+need+30-50+ng+of+Vitamin+D+–+Matthews+March+2020"
-  - "/tiki-index.php?page_id=11686"
+  - "/11686"
+tiki_page_id: 11686
 date: 2020-03-18
 ---
 

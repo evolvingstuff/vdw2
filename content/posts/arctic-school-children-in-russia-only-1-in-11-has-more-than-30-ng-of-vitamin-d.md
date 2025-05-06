@@ -3,7 +3,8 @@ title: "Arctic school children in Russia: only 1 in 11 has more than 30 ng of Vi
 slug: "arctic-school-children-in-russia-only-1-in-11-has-more-than-30-ng-of-vitamin-d"
 aliases:
   - "/Arctic+school+children+in+Russia+only+1+in+11+has+more+than+30+ng+of+Vitamin+D+–+April+2022"
-  - "/tiki-index.php?page_id=13526"
+  - "/13526"
+tiki_page_id: 13526
 date: 2022-04-28
 categories:
   - "Deficiency of Vitamin D"

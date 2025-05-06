@@ -3,7 +3,8 @@ title: "US has the most vaccinations before age 1 and the most deaths"
 slug: "us-has-the-most-vaccinations-before-age-1-and-the-most-deaths"
 aliases:
   - "/US+has+the+most+vaccinations+before+age+1+and+the+most+deaths+-+March+2024"
-  - "/tiki-index.php?page_id=15175"
+  - "/15175"
+tiki_page_id: 15175
 date: 2024-03-26
 categories:
   - "Infant-Child"

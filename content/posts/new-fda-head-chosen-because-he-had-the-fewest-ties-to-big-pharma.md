@@ -3,7 +3,8 @@ title: "New FDA head chosen because he had the fewest ties to big Pharma"
 slug: "new-fda-head-chosen-because-he-had-the-fewest-ties-to-big-pharma"
 aliases:
   - "/New+FDA+head+chosen+because+he+had+the+fewest+ties+to+big+Pharma+-+Nov+2021"
-  - "/tiki-index.php?page_id=13076"
+  - "/13076"
+tiki_page_id: 13076
 date: 2021-11-12
 ---
 

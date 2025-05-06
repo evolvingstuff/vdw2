@@ -3,7 +3,8 @@ title: "Autism 2.75 X more likely in Hib vaccines containing Mercury"
 slug: "autism-275-x-more-likely-in-hib-vaccines-containing-mercury"
 aliases:
   - "/Autism+275+X+more+likely+in+Hib+vaccines+containing+Mercury+–+May+2018"
-  - "/tiki-index.php?page_id=10054"
+  - "/10054"
+tiki_page_id: 10054
 date: 2018-09-21
 categories:
   - "Autism"

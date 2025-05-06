@@ -3,7 +3,8 @@ title: "1.77 nmol response to 100 IU of Vitamin D (46 RCTs) – meta-analysis"
 slug: "177-nmol-response-to-100-iu-of-vitamin-d-46-rcts-meta-analysis"
 aliases:
   - "/177+nmol+response+to+100+IU+of+Vitamin+D+46+RCTs+–+meta-analysis+Sept+2023"
-  - "/tiki-index.php?page_id=14727"
+  - "/14727"
+tiki_page_id: 14727
 date: 2023-10-05
 categories:
   - "Meta-analysis of Vitamin D"

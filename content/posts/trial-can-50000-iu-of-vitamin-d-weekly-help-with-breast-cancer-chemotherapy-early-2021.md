@@ -3,7 +3,8 @@ title: "Trial: Can 50,000 IU of Vitamin D weekly help with Breast Cancer Chemoth
 slug: "trial-can-50000-iu-of-vitamin-d-weekly-help-with-breast-cancer-chemotherapy-early-2021"
 aliases:
   - "/Trial+Can+50000+IU+of+Vitamin+D+weekly+help+with+Breast+Cancer+Chemotherapy+-+Early+2021"
-  - "/tiki-index.php?page_id=12163"
+  - "/12163"
+tiki_page_id: 12163
 date: 2020-12-21
 categories:
   - "Cancer - after diagnosis"

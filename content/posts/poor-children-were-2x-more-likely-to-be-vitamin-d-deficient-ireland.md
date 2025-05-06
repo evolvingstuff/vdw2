@@ -3,7 +3,8 @@ title: "Poor children were 2X more-likely to be vitamin D deficient  (Ireland)"
 slug: "poor-children-were-2x-more-likely-to-be-vitamin-d-deficient-ireland"
 aliases:
   - "/Poor+children+were+2X+more-likely+to+be+vitamin+D+deficient+Ireland+–+July+2022"
-  - "/tiki-index.php?page_id=13808"
+  - "/13808"
+tiki_page_id: 13808
 date: 2022-08-01
 categories:
   - "Deficiency of Vitamin D"

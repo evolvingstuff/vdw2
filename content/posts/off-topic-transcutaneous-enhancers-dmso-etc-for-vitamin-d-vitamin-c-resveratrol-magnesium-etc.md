@@ -3,7 +3,8 @@ title: "Off topic: Transcutaneous enhancers (DMSO, etc) for Vitamin D, Vitamin C
 slug: "off-topic-transcutaneous-enhancers-dmso-etc-for-vitamin-d-vitamin-c-resveratrol-magnesium-etc"
 aliases:
   - "/Off+topic+Transcutaneous+enhancers+DMSO+etc+for+Vitamin+D+Vitamin+C+Resveratrol+Magnesium+etc"
-  - "/tiki-index.php?page_id=10721"
+  - "/10721"
+tiki_page_id: 10721
 date: 2019-04-30
 categories:
   - "Pain - chronic"

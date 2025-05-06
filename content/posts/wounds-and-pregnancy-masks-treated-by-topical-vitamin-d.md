@@ -3,7 +3,8 @@ title: "Wounds and pregnancy masks treated by topical Vitamin D"
 slug: "wounds-and-pregnancy-masks-treated-by-topical-vitamin-d"
 aliases:
   - "/Wounds+and+pregnancy+masks+treated+by+topical+Vitamin+D+-+Jan+2024"
-  - "/tiki-index.php?page_id=15002"
+  - "/15002"
+tiki_page_id: 15002
 date: 2024-01-26
 categories:
   - "Skin"

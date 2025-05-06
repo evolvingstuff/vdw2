@@ -3,7 +3,8 @@ title: "Review of common cold (42 billion dollars) prevention and treatment - Zi
 slug: "review-of-common-cold-42-billion-dollars-prevention-and-treatment-zinc-works"
 aliases:
   - "/Review+of+common+cold+42+billion+dollars+prevention+and+treatment+-+Zinc+works+–+Feb+2014"
-  - "/tiki-index.php?page_id=10373"
+  - "/10373"
+tiki_page_id: 10373
 date: 2019-01-04
 categories:
   - "Breathing"

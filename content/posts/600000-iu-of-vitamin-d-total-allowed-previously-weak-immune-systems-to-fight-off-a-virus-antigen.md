@@ -3,7 +3,8 @@ title: "600,000 IU of Vitamin D (total) allowed previously weak immune systems t
 slug: "600000-iu-of-vitamin-d-total-allowed-previously-weak-immune-systems-to-fight-off-a-virus-antigen"
 aliases:
   - "/600000+IU+of+Vitamin+D+total+allowed+previously+weak+immune+systems+to+fight+off+a+virus+antigen+-+Nov+2020"
-  - "/tiki-index.php?page_id=12162"
+  - "/12162"
+tiki_page_id: 12162
 date: 2020-12-21
 categories:
   - "Seniors"

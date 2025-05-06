@@ -3,7 +3,8 @@ title: "Vitamin D stored in muscle via Vitamin D Binding Protein"
 slug: "vitamin-d-stored-in-muscle-via-vitamin-d-binding-protein"
 aliases:
   - "/Vitamin+D+stored+in+muscle+via+Vitamin+D+Binding+Protein+–+July+2019"
-  - "/tiki-index.php?page_id=11032"
+  - "/11032"
+tiki_page_id: 11032
 date: 2019-07-30
 categories:
   - "Vit D Binding Protein"

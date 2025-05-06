@@ -3,7 +3,8 @@ title: "Vitamin D and COVID, review of evidence, loading dose if less than 50 ng
 slug: "vitamin-d-and-covid-review-of-evidence-loading-dose-if-less-than-50-ng-masterjohn"
 aliases:
   - "/Vitamin+D+and+COVID+review+of+evidence+loading+dose+if+less+than+50+ng+-+Masterjohn+Sept+2021"
-  - "/tiki-index.php?page_id=12875"
+  - "/12875"
+tiki_page_id: 12875
 date: 2021-09-03
 categories:
   - "Optimum"

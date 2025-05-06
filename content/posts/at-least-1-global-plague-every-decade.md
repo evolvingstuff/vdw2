@@ -3,7 +3,8 @@ title: "At least 1 global plague every decade"
 slug: "at-least-1-global-plague-every-decade"
 aliases:
   - "/At+least+1+global+plague+every+decade+-+March+2021"
-  - "/tiki-index.php?page_id=12415"
+  - "/12415"
+tiki_page_id: 12415
 date: 2021-03-17
 categories:
   - "Virus"

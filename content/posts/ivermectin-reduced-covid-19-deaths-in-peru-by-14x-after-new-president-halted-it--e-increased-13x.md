@@ -3,7 +3,8 @@ title: "Ivermectin reduced COVID-19 deaths in Peru by 14X, after new president h
 slug: "ivermectin-reduced-covid-19-deaths-in-peru-by-14x-after-new-president-halted-it--e-increased-13x"
 aliases:
   - "/Ivermectin+reduced+COVID-19+deaths+in+Peru+by+14X+after+new+president+halted+it+the+death+rate+increased+13X+–+March+18+2021"
-  - "/tiki-index.php?page_id=12433"
+  - "/12433"
+tiki_page_id: 12433
 date: 2021-03-25
 categories:
   - "Virus"

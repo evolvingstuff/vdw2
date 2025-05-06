@@ -3,7 +3,8 @@ title: "10 fewer days of ICU Mechanical Ventilation 300,000 IU injection of vita
 slug: "10-fewer-days-of-icu-mechanical-ventilation-300000-iu-injection-of-vitamin-d-rct"
 aliases:
   - "/10+fewer+days+of+ICU+Mechanical+Ventilation+300000+IU+injection+of+vitamin+D+–+RCT+March+2019"
-  - "/tiki-index.php?page_id=11164"
+  - "/11164"
+tiki_page_id: 11164
 date: 2019-09-25
 categories:
   - "Trauma and surgery"

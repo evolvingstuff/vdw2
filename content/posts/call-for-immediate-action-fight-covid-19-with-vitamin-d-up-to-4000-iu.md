@@ -3,7 +3,8 @@ title: "Call for immediate action - Fight COVID-19 with vitamin D (up to 4,000 I
 slug: "call-for-immediate-action-fight-covid-19-with-vitamin-d-up-to-4000-iu"
 aliases:
   - "/Call+for+immediate+action+-+Fight+COVID-19+with+vitamin+D+up+to+4000+IU+-+Jan+28+2021"
-  - "/tiki-index.php?page_id=12269"
+  - "/12269"
+tiki_page_id: 12269
 date: 2021-01-28
 categories:
   - "Top news"

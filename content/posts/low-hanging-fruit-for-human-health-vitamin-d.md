@@ -3,7 +3,8 @@ title: "Low hanging fruit for human health - Vitamin D"
 slug: "low-hanging-fruit-for-human-health-vitamin-d"
 aliases:
   - "/Low+hanging+fruit+for+human+health+-+Vitamin+D+-+Dec+2021"
-  - "/tiki-index.php?page_id=13182"
+  - "/13182"
+tiki_page_id: 13182
 date: 2021-12-13
 categories:
   - "About D - introduction"

@@ -3,7 +3,8 @@ title: "Sjögren's Disease ( dry eye, dry mouth, etc.) associated with low vitam
 slug: "sjogrens-disease-dry-eye-dry-mouth-etc-associated-with-low-vitamin-d-meta-analysis"
 aliases:
   - "/Sjogrens+Disease+dry+eye+dry+mouth+etc+associated+with+low+vitamin+D+-+Meta-analysis+Feb+2023"
-  - "/tiki-index.php?page_id=14260"
+  - "/14260"
+tiki_page_id: 14260
 date: 2023-02-11
 ---
 

@@ -3,7 +3,8 @@ title: "Dr. Coimbra discusses Vitamin D, Magnesium, Folic Acid, B12, Autism, Dep
 slug: "dr-coimbra-discusses-vitamin-d-magnesium-folic-acid-b12-autism-depression-etc"
 aliases:
   - "/Dr+Coimbra+discusses+Vitamin+D+Magnesium+Folic+Acid+B12+Autism+Depression+etc+–+Sept+2018"
-  - "/tiki-index.php?page_id=10188"
+  - "/10188"
+tiki_page_id: 10188
 date: 2018-11-07
 categories:
   - "Depression"

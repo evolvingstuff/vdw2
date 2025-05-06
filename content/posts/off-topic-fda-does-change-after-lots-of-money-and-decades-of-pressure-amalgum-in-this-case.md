@@ -3,7 +3,8 @@ title: "Off Topic: FDA does change after lots of money and decades of pressure (
 slug: "off-topic-fda-does-change-after-lots-of-money-and-decades-of-pressure-amalgum-in-this-case"
 aliases:
   - "/Off+Topic+FDA+does+change+after+lots+of+money+and+decades+of+pressure+amalgum+in+this+case+-+Oct+2020"
-  - "/tiki-index.php?page_id=11989"
+  - "/11989"
+tiki_page_id: 11989
 date: 2020-10-06
 categories:
   - "Off Topic"

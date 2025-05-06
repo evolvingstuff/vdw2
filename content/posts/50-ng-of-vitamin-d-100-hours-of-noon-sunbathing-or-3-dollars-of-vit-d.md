@@ -3,7 +3,8 @@ title: "50 ng of Vitamin D - 100 hours of noon sunbathing OR 3 dollars of Vit D"
 slug: "50-ng-of-vitamin-d-100-hours-of-noon-sunbathing-or-3-dollars-of-vit-d"
 aliases:
   - "/50+ng+of+Vitamin+D+-+100+hours+of+noon+sunbathing+OR+3+dollars+of+Vit+D"
-  - "/tiki-index.php?page_id=14576"
+  - "/14576"
+tiki_page_id: 14576
 date: 2023-07-31
 categories:
   - "Noontime sun and D"

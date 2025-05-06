@@ -3,7 +3,8 @@ title: "Pivotal role of Boron supplementation on bone health"
 slug: "pivotal-role-of-boron-supplementation-on-bone-health"
 aliases:
   - "/Pivotal+role+of+Boron+supplementation+on+bone+health+-+Dec+2020"
-  - "/tiki-index.php?page_id=15102"
+  - "/15102"
+tiki_page_id: 15102
 date: 2024-03-04
 categories:
   - "Vitamin D and Boron"

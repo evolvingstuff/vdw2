@@ -3,7 +3,8 @@ title: "COPD flare-ups reduced 40 percent by Vitamin D in those who were deficie
 slug: "copd-flare-ups-reduced-40-percent-by-vitamin-d-in-those-who-were-deficient"
 aliases:
   - "/COPD+flare-ups+reduced+40+percent+by+Vitamin+D+in+those+who+were+deficient+–+May+2019"
-  - "/tiki-index.php?page_id=10810"
+  - "/10810"
+tiki_page_id: 10810
 date: 2019-05-24
 categories:
   - "Breathing"

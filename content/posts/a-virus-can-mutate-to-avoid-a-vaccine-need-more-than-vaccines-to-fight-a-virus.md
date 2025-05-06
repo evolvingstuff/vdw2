@@ -3,7 +3,8 @@ title: "A virus can mutate to avoid a vaccine, need more than vaccines to fight 
 slug: "a-virus-can-mutate-to-avoid-a-vaccine-need-more-than-vaccines-to-fight-a-virus"
 aliases:
   - "/A+virus+can+mutate+to+avoid+a+vaccine+need+more+than+vaccines+to+fight+a+virus+–+July+31+2021"
-  - "/tiki-index.php?page_id=12796"
+  - "/12796"
+tiki_page_id: 12796
 date: 2021-08-01
 categories:
   - "Top news"

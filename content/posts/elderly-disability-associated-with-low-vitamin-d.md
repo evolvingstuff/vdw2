@@ -3,7 +3,8 @@ title: "Elderly disability associated with low Vitamin D"
 slug: "elderly-disability-associated-with-low-vitamin-d"
 aliases:
   - "/Elderly+disability+associated+with+low+Vitamin+D+–+Jan+2024"
-  - "/tiki-index.php?page_id=14990"
+  - "/14990"
+tiki_page_id: 14990
 date: 2024-01-22
 categories:
   - "Seniors"

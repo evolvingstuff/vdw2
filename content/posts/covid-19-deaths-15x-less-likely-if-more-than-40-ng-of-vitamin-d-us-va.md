@@ -3,7 +3,8 @@ title: "COVID-19 deaths 1.5X less likely if more than 40 ng of vitamin D – US 
 slug: "covid-19-deaths-15x-less-likely-if-more-than-40-ng-of-vitamin-d-us-va"
 aliases:
   - "/COVID-19+deaths+15X+less+likely+if+more+than+40+ng+of+vitamin+D+–+US+VA+–+April+2021"
-  - "/tiki-index.php?page_id=12559"
+  - "/12559"
+tiki_page_id: 12559
 date: 2021-05-01
 categories:
   - "Mortality and D"

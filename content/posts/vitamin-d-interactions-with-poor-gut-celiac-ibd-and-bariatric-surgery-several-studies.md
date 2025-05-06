@@ -3,7 +3,8 @@ title: "Vitamin D interactions with poor gut (Celiac, IBD, and Bariatric surgery
 slug: "vitamin-d-interactions-with-poor-gut-celiac-ibd-and-bariatric-surgery-several-studies"
 aliases:
   - "/Vitamin+D+interactions+with+poor+gut+Celiac+IBD+and+Bariatric+surgery+–+several+studies"
-  - "/tiki-index.php?page_id=14280"
+  - "/14280"
+tiki_page_id: 14280
 date: 2023-02-23
 categories:
   - "Gut"

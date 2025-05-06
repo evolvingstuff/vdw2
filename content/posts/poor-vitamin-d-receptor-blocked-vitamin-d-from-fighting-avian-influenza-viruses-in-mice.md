@@ -3,7 +3,8 @@ title: "Poor Vitamin D receptor blocked Vitamin D from fighting avian influenza 
 slug: "poor-vitamin-d-receptor-blocked-vitamin-d-from-fighting-avian-influenza-viruses-in-mice"
 aliases:
   - "/Poor+Vitamin+D+receptor+blocked+Vitamin+D+from+fighting+avian+influenza+viruses+in+mice+–+July+2021"
-  - "/tiki-index.php?page_id=12999"
+  - "/12999"
+tiki_page_id: 12999
 date: 2021-10-17
 categories:
   - "Vitamin D Receptor"

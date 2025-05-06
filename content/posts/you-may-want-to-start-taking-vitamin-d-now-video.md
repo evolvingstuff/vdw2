@@ -3,7 +3,8 @@ title: "You May Want to Start Taking Vitamin D NOW - video"
 slug: "you-may-want-to-start-taking-vitamin-d-now-video"
 aliases:
   - "/You+May+Want+to+Start+Taking+Vitamin+D+NOW+-+video+Sept+2023"
-  - "/tiki-index.php?page_id=14693"
+  - "/14693"
+tiki_page_id: 14693
 date: 2023-09-20
 categories:
   - "Books, videos on Vitamin D"

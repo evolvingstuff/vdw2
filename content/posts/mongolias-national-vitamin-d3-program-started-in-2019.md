@@ -3,7 +3,8 @@ title: "Mongolia's National Vitamin D3 Program started in 2019"
 slug: "mongolias-national-vitamin-d3-program-started-in-2019"
 aliases:
   - "/Mongolias+National+Vitamin+D3+Program+started+in+2019"
-  - "/tiki-index.php?page_id=12358"
+  - "/12358"
+tiki_page_id: 12358
 date: 2021-02-27
 categories:
   - "Virus"

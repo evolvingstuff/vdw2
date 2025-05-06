@@ -3,7 +3,8 @@ title: "2,500 bird flu outbreaks in past year (could be far far worse than COVID
 slug: "2500-bird-flu-outbreaks-in-past-year-could-be-far-far-worse-than-covid"
 aliases:
   - "/2500+bird+flu+outbreaks+in+past+year+could+be+far+far+worse+than+COVID+-+Oct+2022"
-  - "/tiki-index.php?page_id=13977"
+  - "/13977"
+tiki_page_id: 13977
 date: 2022-10-03
 categories:
   - "Virus"

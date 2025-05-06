@@ -3,7 +3,8 @@ title: "Use of Vitamin D in a trauma surgery - Dr. Matthews on Facebook"
 slug: "use-of-vitamin-d-in-a-trauma-surgery-dr-matthews-on-facebook"
 aliases:
   - "/Use+of+Vitamin+D+in+a+trauma+surgery+-+Dr+Matthews+on+Facebook+–+Jan+2020"
-  - "/tiki-index.php?page_id=11556"
+  - "/11556"
+tiki_page_id: 11556
 date: 2020-01-13
 categories:
   - "Trauma and surgery"

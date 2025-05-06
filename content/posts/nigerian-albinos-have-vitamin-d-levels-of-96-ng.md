@@ -3,7 +3,8 @@ title: "Nigerian albinos have vitamin D levels of 96 ng"
 slug: "nigerian-albinos-have-vitamin-d-levels-of-96-ng"
 aliases:
   - "/Nigerian+albinos+have+vitamin+D+levels+of+96+ng+–+Oct+2019"
-  - "/tiki-index.php?page_id=11302"
+  - "/11302"
+tiki_page_id: 11302
 date: 2019-11-01
 categories:
   - "Skin - Dark"

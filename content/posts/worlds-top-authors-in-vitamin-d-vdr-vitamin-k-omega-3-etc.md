@@ -3,7 +3,8 @@ title: "World's Top Authors in Vitamin D, VDR, Vitamin K, Omega-3, etc"
 slug: "worlds-top-authors-in-vitamin-d-vdr-vitamin-k-omega-3-etc"
 aliases:
   - "/Worlds+Top+Authors+in+Vitamin+D+VDR+Vitamin+K+Omega-3+etc+-+Jan+2019"
-  - "/tiki-index.php?page_id=10392"
+  - "/10392"
+tiki_page_id: 10392
 date: 2019-01-11
 categories:
   - "Vitamin D and Vitamin K"

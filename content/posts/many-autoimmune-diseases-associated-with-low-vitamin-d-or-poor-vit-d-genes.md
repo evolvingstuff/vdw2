@@ -3,7 +3,8 @@ title: "Many autoimmune diseases associated with low vitamin D or poor Vit D gen
 slug: "many-autoimmune-diseases-associated-with-low-vitamin-d-or-poor-vit-d-genes"
 aliases:
   - "/Many+autoimmune+diseases+associated+with+low+vitamin+D+or+poor+Vit+D+genes+–+July+2019"
-  - "/tiki-index.php?page_id=11008"
+  - "/11008"
+tiki_page_id: 11008
 date: 2019-07-20
 categories:
   - "Autoimmune"

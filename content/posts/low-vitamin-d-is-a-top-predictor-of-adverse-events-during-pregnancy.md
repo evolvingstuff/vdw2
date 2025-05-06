@@ -3,7 +3,8 @@ title: "Low Vitamin D is a top predictor of adverse events during pregnancy"
 slug: "low-vitamin-d-is-a-top-predictor-of-adverse-events-during-pregnancy"
 aliases:
   - "/Low+Vitamin+D+is+a+top+predictor+of+adverse+events+during+pregnancy+–+Feb+2024"
-  - "/tiki-index.php?page_id=15043"
+  - "/15043"
+tiki_page_id: 15043
 date: 2024-02-11
 categories:
   - "Pregnancy"

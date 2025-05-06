@@ -3,7 +3,8 @@ title: "Majority of South Asian children and youths have low vitamin D (85 pcnt 
 slug: "majority-of-south-asian-children-and-youths-have-low-vitamin-d-85-pcnt-of-neonates"
 aliases:
   - "/Majority+of+South+Asian+children+and+youths+have+low+vitamin+D+85+pcnt+of+neonates+–+March+2022"
-  - "/tiki-index.php?page_id=13411"
+  - "/13411"
+tiki_page_id: 13411
 date: 2022-03-18
 categories:
   - "Deficiency of Vitamin D"

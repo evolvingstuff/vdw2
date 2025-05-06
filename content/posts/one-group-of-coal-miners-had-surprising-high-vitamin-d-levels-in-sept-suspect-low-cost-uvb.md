@@ -3,7 +3,8 @@ title: "One group of coal miners had surprising high Vitamin D levels in Sept (s
 slug: "one-group-of-coal-miners-had-surprising-high-vitamin-d-levels-in-sept-suspect-low-cost-uvb"
 aliases:
   - "/One+group+of+coal+miners+had+surprising+high+Vitamin+D+levels+in+Sept+suspect+low-cost+UVB+–+Sept+2021"
-  - "/tiki-index.php?page_id=12886"
+  - "/12886"
+tiki_page_id: 12886
 date: 2021-09-08
 categories:
   - "UV and Vitamin D"

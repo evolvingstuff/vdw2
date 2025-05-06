@@ -3,7 +3,8 @@ title: "Urinary Incontinence reduced by 50,000 IU of vitamin D weekly (details b
 slug: "urinary-incontinence-reduced-by-50000-iu-of-vitamin-d-weekly-details-behind-paywall-rct"
 aliases:
   - "/Urinary+Incontinence+reduced+by+50000+IU+of+vitamin+D+weekly+details+behind+paywall+–+RCT+Feb+2023"
-  - "/tiki-index.php?page_id=14283"
+  - "/14283"
+tiki_page_id: 14283
 date: 2023-02-24
 ---
 

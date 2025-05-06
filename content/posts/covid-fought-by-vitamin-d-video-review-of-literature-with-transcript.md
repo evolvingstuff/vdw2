@@ -3,7 +3,8 @@ title: "COVID fought by Vitamin D - video review of literature with transcript"
 slug: "covid-fought-by-vitamin-d-video-review-of-literature-with-transcript"
 aliases:
   - "/COVID+fought+by+Vitamin+D+-+video+review+of+literature+with+transcript+-+Dec+2021"
-  - "/tiki-index.php?page_id=14712"
+  - "/14712"
+tiki_page_id: 14712
 date: 2023-09-29
 categories:
   - "Books, videos on Vitamin D"

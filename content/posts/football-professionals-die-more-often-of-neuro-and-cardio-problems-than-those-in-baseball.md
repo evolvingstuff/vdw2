@@ -3,7 +3,8 @@ title: "Football professionals die more often of neuro and cardio problems than 
 slug: "football-professionals-die-more-often-of-neuro-and-cardio-problems-than-those-in-baseball"
 aliases:
   - "/Football+professionals+die+more+often+of+neuro+and+cardio+problems+than+those+in+baseball+–+May+2019"
-  - "/tiki-index.php?page_id=10825"
+  - "/10825"
+tiki_page_id: 10825
 date: 2019-06-03
 categories:
   - "Sports and Vitamin D"

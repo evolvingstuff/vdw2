@@ -3,7 +3,8 @@ title: "Most air pollutions reduce Vitamin D (PM2.5 is worst)"
 slug: "most-air-pollutions-reduce-vitamin-d-pm25-is-worst"
 aliases:
   - "/Most+air+pollutions+reduce+Vitamin+D+PM25+is+worst+–+June+2021"
-  - "/tiki-index.php?page_id=13579"
+  - "/13579"
+tiki_page_id: 13579
 date: 2022-05-21
 categories:
   - "Deficiency of Vitamin D"

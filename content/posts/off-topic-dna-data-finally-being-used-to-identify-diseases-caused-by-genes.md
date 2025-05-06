@@ -3,7 +3,8 @@ title: "Off Topic: DNA data finally being used to identify diseases caused by ge
 slug: "off-topic-dna-data-finally-being-used-to-identify-diseases-caused-by-genes"
 aliases:
   - "/Off+Topic+DNA+data+finally+being+used+to+identify+diseases+caused+by+genes-+June+2023"
-  - "/tiki-index.php?page_id=14469"
+  - "/14469"
+tiki_page_id: 14469
 date: 2023-06-04
 categories:
   - "Genetics"

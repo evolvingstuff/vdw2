@@ -3,7 +3,8 @@ title: "Steroids treating ARDS was published before COVID, but was ignored – T
 slug: "steroids-treating-ards-was-published-before-covid-but-was-ignored-transcript"
 aliases:
   - "/Steroids+treating+ARDS+was+published+before+COVID+but+was+ignored+–+Transcript+Aug+20+2023"
-  - "/tiki-index.php?page_id=14626"
+  - "/14626"
+tiki_page_id: 14626
 date: 2023-08-21
 categories:
   - "Virus"

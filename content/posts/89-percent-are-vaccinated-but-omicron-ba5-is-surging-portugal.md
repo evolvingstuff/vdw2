@@ -3,7 +3,8 @@ title: "89% are vaccinated, but Omicron BA.5 is surging (Portugal)"
 slug: "89-percent-are-vaccinated-but-omicron-ba5-is-surging-portugal"
 aliases:
   - "/89+are+vaccinated+but+Omicron+BA5+is+surging+Portugal+June+2022"
-  - "/tiki-index.php?page_id=13648"
+  - "/13648"
+tiki_page_id: 13648
 date: 2022-06-07
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "COVID breakthru 2X more likely if pregnant (should take Vitamin D)"
 slug: "covid-breakthru-2x-more-likely-if-pregnant-should-take-vitamin-d"
 aliases:
   - "/COVID+breakthru+2X+more+likely+if+pregnant+should+take+Vitamin+D+-+April+2022"
-  - "/tiki-index.php?page_id=13442"
+  - "/13442"
+tiki_page_id: 13442
 date: 2022-04-01
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "Live 7 years longer free of major disease if eat well, not smoke, not ob
 slug: "live-7-years-longer-free-of-major-disease-if-eat-well-not-smoke-not-obese-modera-e-100000-people"
 aliases:
   - "/Live+7+years+longer+free+of+major+disease+if+eat+well+not+smoke+not+obese+moderate+drink+and+exercise+100000+people+–+Jan+2020"
-  - "/tiki-index.php?page_id=11642"
+  - "/11642"
+tiki_page_id: 11642
 date: 2020-02-22
 categories:
   - "Diabetes"

@@ -3,7 +3,8 @@ title: "Younger are much less likely to die of COVID than elderly (posters)"
 slug: "younger-are-much-less-likely-to-die-of-covid-than-elderly-posters"
 aliases:
   - "/Younger+are+much+less+likely+to+die+of+COVID+than+elderly+posters+-+Nov+2021"
-  - "/tiki-index.php?page_id=13101"
+  - "/13101"
+tiki_page_id: 13101
 date: 2021-11-21
 categories:
   - "Seniors"

@@ -3,7 +3,8 @@ title: "15 Signs of Vitamin D Deficiency - video"
 slug: "15-signs-of-vitamin-d-deficiency-video"
 aliases:
   - "/15+Signs+of+Vitamin+D+Deficiency+-+video+Jan+2024"
-  - "/tiki-index.php?page_id=15113"
+  - "/15113"
+tiki_page_id: 15113
 date: 2024-03-08
 categories:
   - "Deficiency of Vitamin D"

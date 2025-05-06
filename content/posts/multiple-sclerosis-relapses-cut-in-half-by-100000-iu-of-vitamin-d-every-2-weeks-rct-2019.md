@@ -3,7 +3,8 @@ title: "Multiple Sclerosis relapses cut in half by 100,000 IU of Vitamin D every
 slug: "multiple-sclerosis-relapses-cut-in-half-by-100000-iu-of-vitamin-d-every-2-weeks-rct-2019"
 aliases:
   - "/Multiple+Sclerosis+relapses+cut+in+half+by+100000+IU+of+Vitamin+D+every+2+weeks–+RCT+2019"
-  - "/tiki-index.php?page_id=11539"
+  - "/11539"
+tiki_page_id: 11539
 date: 2020-01-09
 categories:
   - "Multiple Sclerosis"

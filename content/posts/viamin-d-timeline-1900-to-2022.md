@@ -3,7 +3,8 @@ title: "Viamin D timeline - 1900 to 2022"
 slug: "viamin-d-timeline-1900-to-2022"
 aliases:
   - "/Viamin+D+timeline+-+1900+to+2022"
-  - "/tiki-index.php?page_id=14671"
+  - "/14671"
+tiki_page_id: 14671
 date: 2023-09-10
 ---
 

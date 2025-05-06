@@ -3,7 +3,8 @@ title: "Acute viral respiratory infections (RTI) reduced by Vitamin D - 20 revie
 slug: "acute-viral-respiratory-infections-rti-reduced-by-vitamin-d-20-reviews"
 aliases:
   - "/Acute+viral+respiratory+infections+RTI+reduced+by+Vitamin+D+-+20+reviews+-+Aug+2020"
-  - "/tiki-index.php?page_id=11919"
+  - "/11919"
+tiki_page_id: 11919
 date: 2020-08-25
 categories:
   - "Breathing"

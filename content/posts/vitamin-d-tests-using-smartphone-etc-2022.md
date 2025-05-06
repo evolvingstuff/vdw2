@@ -3,7 +3,8 @@ title: "Vitamin D tests using smartphone, etc. - 2022"
 slug: "vitamin-d-tests-using-smartphone-etc-2022"
 aliases:
   - "/Vitamin+D+tests+using+smartphone+etc+-+2022"
-  - "/tiki-index.php?page_id=14113"
+  - "/14113"
+tiki_page_id: 14113
 date: 2022-11-27
 categories:
   - "Tests for Vitamin D"

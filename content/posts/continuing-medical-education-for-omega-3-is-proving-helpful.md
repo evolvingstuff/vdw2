@@ -3,7 +3,8 @@ title: "Continuing Medical Education for Omega-3 is proving helpful"
 slug: "continuing-medical-education-for-omega-3-is-proving-helpful"
 aliases:
   - "/Continuing+Medical+Education+for+Omega-3+is+proving+helpful+–+Nov+2019"
-  - "/tiki-index.php?page_id=11372"
+  - "/11372"
+tiki_page_id: 11372
 date: 2019-11-19
 categories:
   - "Overview for doctors"

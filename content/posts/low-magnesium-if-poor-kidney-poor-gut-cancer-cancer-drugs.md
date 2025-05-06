@@ -3,7 +3,8 @@ title: "Low magnesium if poor kidney, poor gut, cancer, cancer drugs"
 slug: "low-magnesium-if-poor-kidney-poor-gut-cancer-cancer-drugs"
 aliases:
   - "/Low+magnesium+if+poor+kidney+poor+gut+cancer+cancer+drugs+–+Jan+2021"
-  - "/tiki-index.php?page_id=13654"
+  - "/13654"
+tiki_page_id: 13654
 date: 2022-06-09
 categories:
   - "Kidney"

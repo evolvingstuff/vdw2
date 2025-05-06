@@ -3,7 +3,8 @@ title: "Vitamin D is treating and preventing Leprosy in Myanmar (Burma)"
 slug: "vitamin-d-is-treating-and-preventing-leprosy-in-myanmar-burma"
 aliases:
   - "/Vitamin+D+is+treating+and+preventing+Leprosy+in+Myanmar+Burma+-+April+2019"
-  - "/tiki-index.php?page_id=10835"
+  - "/10835"
+tiki_page_id: 10835
 date: 2019-06-05
 categories:
   - "Top news"

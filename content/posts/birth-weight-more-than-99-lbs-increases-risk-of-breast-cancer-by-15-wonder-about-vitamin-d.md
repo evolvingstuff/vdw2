@@ -3,7 +3,8 @@ title: "Birth weight more than 9.9 lbs increases risk of breast cancer by 1.5 (w
 slug: "birth-weight-more-than-99-lbs-increases-risk-of-breast-cancer-by-15-wonder-about-vitamin-d"
 aliases:
   - "/Birth+weight+more+than+99+lbs+increases+risk+of+breast+cancer+by+15+wonder+about+Vitamin+D+–+Oct+2018"
-  - "/tiki-index.php?page_id=10113"
+  - "/10113"
+tiki_page_id: 10113
 date: 2018-10-13
 categories:
   - "Pregnancy"

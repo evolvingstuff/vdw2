@@ -3,7 +3,8 @@ title: "LESS likely to die of COVID-19 if amnosia (3.2 X) or headache (2.1 X)"
 slug: "less-likely-to-die-of-covid-19-if-amnosia-32-x-or-headache-21-x"
 aliases:
   - "/LESS+likely+to+die+of+COVID-19+if+amnosia+32+X+or+headache+21+X+-+March+2021"
-  - "/tiki-index.php?page_id=12424"
+  - "/12424"
+tiki_page_id: 12424
 date: 2021-03-21
 categories:
   - "Virus"

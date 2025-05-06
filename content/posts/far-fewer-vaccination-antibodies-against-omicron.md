@@ -3,7 +3,8 @@ title: "Far fewer vaccination antibodies against Omicron"
 slug: "far-fewer-vaccination-antibodies-against-omicron"
 aliases:
   - "/Far+fewer+vaccination+antibodies+against+Omicron+-+Dec+14+2021"
-  - "/tiki-index.php?page_id=13195"
+  - "/13195"
+tiki_page_id: 13195
 date: 2021-12-16
 categories:
   - "Virus"

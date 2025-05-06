@@ -3,7 +3,8 @@ title: "Less likely to die early if have a good level of vitamin D"
 slug: "less-likely-to-die-early-if-have-a-good-level-of-vitamin-d"
 aliases:
   - "/Less+likely+to+die+early+if+have+a+good+level+of+vitamin+D+-+Oct+2018"
-  - "/tiki-index.php?page_id=10195"
+  - "/10195"
+tiki_page_id: 10195
 date: 2018-11-11
 categories:
   - "Mortality and D"

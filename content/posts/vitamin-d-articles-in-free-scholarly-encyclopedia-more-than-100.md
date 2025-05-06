@@ -3,7 +3,8 @@ title: "Vitamin D articles in free Scholarly Encyclopedia (more than 100)"
 slug: "vitamin-d-articles-in-free-scholarly-encyclopedia-more-than-100"
 aliases:
   - "/Vitamin+D+articles+in+free+Scholarly+Encyclopedia+more+than+100"
-  - "/tiki-index.php?page_id=14943"
+  - "/14943"
+tiki_page_id: 14943
 date: 2024-01-03
 ---
 

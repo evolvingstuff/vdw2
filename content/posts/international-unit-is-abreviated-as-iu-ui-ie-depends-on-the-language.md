@@ -3,7 +3,8 @@ title: "International Unit is abreviated as IU, UI,  IE - depends on the languag
 slug: "international-unit-is-abreviated-as-iu-ui-ie-depends-on-the-language"
 aliases:
   - "/International+Unit+is+abreviated+as+IU+UI+IE+-+depends+on+the+language"
-  - "/tiki-index.php?page_id=12599"
+  - "/12599"
+tiki_page_id: 12599
 date: 2021-05-24
 ---
 

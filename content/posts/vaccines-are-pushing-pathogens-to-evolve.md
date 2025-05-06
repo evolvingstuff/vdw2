@@ -3,7 +3,8 @@ title: "Vaccines Are Pushing Pathogens to Evolve"
 slug: "vaccines-are-pushing-pathogens-to-evolve"
 aliases:
   - "/Vaccines+Are+Pushing+Pathogens+to+Evolve+–+May+2018"
-  - "/tiki-index.php?page_id=12428"
+  - "/12428"
+tiki_page_id: 12428
 date: 2021-03-22
 categories:
   - "Virus"

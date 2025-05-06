@@ -3,7 +3,8 @@ title: "Hashimoto's thyroiditis: Vitamin D was the most important of 11 variable
 slug: "hashimotos-thyroiditis-vitamin-d-was-the-most-important-of-11-variables"
 aliases:
   - "/Hashimotos+thyroiditis+Vitamin+D+was+the+most+important+of+11+variables+–+Aug+2022"
-  - "/tiki-index.php?page_id=13869"
+  - "/13869"
+tiki_page_id: 13869
 date: 2022-08-27
 categories:
   - "Thyroid and parathyroid"

@@ -3,7 +3,8 @@ title: "Low Vitamin D in Southern Europe – 1 in 3 had less than 20 ng (630,000
 slug: "low-vitamin-d-in-southern-europe-1-in-3-had-less-than-20-ng-630000-europeans"
 aliases:
   - "/Low+Vitamin+D+in+Southern+Europe+–+1+in+3+had+less+than+20+ng+630000+Europeans+Sept+2018"
-  - "/tiki-index.php?page_id=10325"
+  - "/10325"
+tiki_page_id: 10325
 date: 2018-12-19
 categories:
   - "Deficiency of Vitamin D"

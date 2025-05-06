@@ -3,7 +3,8 @@ title: "Half as many problems if take Vitamin D (300,000 IU) before thyroidectom
 slug: "half-as-many-problems-if-take-vitamin-d-300000-iu-before-thyroidectomy-rct"
 aliases:
   - "/Half+as+many+problems+if+take+Vitamin+D+300000+IU+before+thyroidectomy+–+RCT+Jan+2021"
-  - "/tiki-index.php?page_id=12282"
+  - "/12282"
+tiki_page_id: 12282
 date: 2021-01-31
 categories:
   - "Trauma and surgery"

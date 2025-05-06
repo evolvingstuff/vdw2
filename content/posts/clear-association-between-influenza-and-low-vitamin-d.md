@@ -3,7 +3,8 @@ title: "Clear Association between Influenza and low Vitamin D"
 slug: "clear-association-between-influenza-and-low-vitamin-d"
 aliases:
   - "/Clear+Association+between+Influenza+and+low+Vitamin+D+-+March+2020"
-  - "/tiki-index.php?page_id=11702"
+  - "/11702"
+tiki_page_id: 11702
 date: 2020-03-27
 categories:
   - "Immunity"

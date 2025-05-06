@@ -3,7 +3,8 @@ title: "Vitamin D encapsulated in gum arabic 4X more bioavailable (in rat test)"
 slug: "vitamin-d-encapsulated-in-gum-arabic-4x-more-bioavailable-in-rat-test"
 aliases:
   - "/Vitamin+D+encapsulated+in+gum+arabic+4X+more+bioavailable+in+rat+test-+July+2020"
-  - "/tiki-index.php?page_id=11857"
+  - "/11857"
+tiki_page_id: 11857
 date: 2020-07-22
 categories:
   - "Forms of Vitamin D"

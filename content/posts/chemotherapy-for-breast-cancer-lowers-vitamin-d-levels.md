@@ -3,7 +3,8 @@ title: "Chemotherapy for Breast Cancer lowers Vitamin D levels"
 slug: "chemotherapy-for-breast-cancer-lowers-vitamin-d-levels"
 aliases:
   - "/Chemotherapy+for+Breast+Cancer+lowers+Vitamin+D+levels+–+Oct+2018"
-  - "/tiki-index.php?page_id=10068"
+  - "/10068"
+tiki_page_id: 10068
 date: 2018-09-25
 categories:
   - "Cancer - Breast"

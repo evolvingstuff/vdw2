@@ -3,7 +3,8 @@ title: "Nasal Vitamin B12 treatment for children (perhaps nasal Vitamin D too)"
 slug: "nasal-vitamin-b12-treatment-for-children-perhaps-nasal-vitamin-d-too"
 aliases:
   - "/Nasal+Vitamin+B12+treatment+for+children+perhaps+nasal+Vitamin+D+too+–+Nov+2019"
-  - "/tiki-index.php?page_id=11414"
+  - "/11414"
+tiki_page_id: 11414
 date: 2019-12-03
 categories:
   - "Vitamin B12"

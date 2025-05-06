@@ -3,7 +3,8 @@ title: "Vaccinated and Unvaccinated are just as infectious after catching COVID-
 slug: "vaccinated-and-unvaccinated-are-just-as-infectious-after-catching-covid-delta-uk-study"
 aliases:
   - "/Vaccinated+and+Unvaccinated+are+just+as+infectious+after+catching+COVID-Delta+UK+study+-+Aug+2021"
-  - "/tiki-index.php?page_id=12840"
+  - "/12840"
+tiki_page_id: 12840
 date: 2021-08-20
 categories:
   - "Virus"

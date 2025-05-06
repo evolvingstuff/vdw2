@@ -3,7 +3,8 @@ title: "Eating Fish – 17 health benefits (Omega-3 and perhaps Vitamin D) – u
 slug: "eating-fish-17-health-benefits-omega-3-and-perhaps-vitamin-d-umbrella-review"
 aliases:
   - "/Eating+Fish+–+17+health+benefits+Omega-3+and+perhaps+Vitamin+D+–+umbrella+review+Feb+2023"
-  - "/tiki-index.php?page_id=14288"
+  - "/14288"
+tiki_page_id: 14288
 date: 2023-02-27
 categories:
   - "Meta-analysis of Vitamin D"

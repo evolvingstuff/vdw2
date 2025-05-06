@@ -3,7 +3,8 @@ title: "Colon Cancer helped by modest Vitamin D (more needed)"
 slug: "colon-cancer-helped-by-modest-vitamin-d-more-needed"
 aliases:
   - "/Colon+Cancer+helped+by+modest+Vitamin+D+more+needed+–+July+2019"
-  - "/tiki-index.php?page_id=11003"
+  - "/11003"
+tiki_page_id: 11003
 date: 2019-07-17
 categories:
   - "Cancer - Colon"

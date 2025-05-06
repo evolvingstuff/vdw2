@@ -3,7 +3,8 @@ title: "Epimers of Vitamin D: A Review"
 slug: "epimers-of-vitamin-d-a-review"
 aliases:
   - "/Epimers+of+Vitamin+D+A+Review+–+Jan+2020"
-  - "/tiki-index.php?page_id=11549"
+  - "/11549"
+tiki_page_id: 11549
 date: 2020-01-11
 categories:
   - "Tests for Vitamin D"

@@ -3,7 +3,8 @@ title: "Less Vitamin D available to tissues"
 slug: "less-vitamin-d-available-to-tissues"
 aliases:
   - "/Less+Vitamin+D+available+to+tissues"
-  - "/tiki-index.php?page_id=11140"
+  - "/11140"
+tiki_page_id: 11140
 date: 2019-09-10
 ---
 

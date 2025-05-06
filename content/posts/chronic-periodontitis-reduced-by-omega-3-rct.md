@@ -3,7 +3,8 @@ title: "Chronic Periodontitis reduced by Omega-3 – RCT"
 slug: "chronic-periodontitis-reduced-by-omega-3-rct"
 aliases:
   - "/Chronic+Periodontitis+reduced+by+Omega-3+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10013"
+  - "/10013"
+tiki_page_id: 10013
 date: 2018-09-08
 categories:
   - "Dental"

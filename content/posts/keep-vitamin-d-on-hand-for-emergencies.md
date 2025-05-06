@@ -3,7 +3,8 @@ title: "Keep Vitamin D on-hand for emergencies"
 slug: "keep-vitamin-d-on-hand-for-emergencies"
 aliases:
   - "/Keep+Vitamin+D+on-hand+for+emergencies"
-  - "/tiki-index.php?page_id=12758"
+  - "/12758"
+tiki_page_id: 12758
 date: 2021-07-22
 categories:
   - "Admin Only"

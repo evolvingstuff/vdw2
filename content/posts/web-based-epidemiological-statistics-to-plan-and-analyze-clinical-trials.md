@@ -3,7 +3,8 @@ title: "Web-based epidemiological statistics to plan and analyze clinical trials
 slug: "web-based-epidemiological-statistics-to-plan-and-analyze-clinical-trials"
 aliases:
   - "/Web-based+epidemiological+statistics+to+plan+and+analyze+clinical+trials"
-  - "/tiki-index.php?page_id=12348"
+  - "/12348"
+tiki_page_id: 12348
 date: 2021-02-24
 ---
 

@@ -3,7 +3,8 @@ title: "RLS, Tremor, Huntington’s and other hyperkinetic disorders associated 
 slug: "rls-tremor-huntingtons-and-other-hyperkinetic-disorders-associated-with-low-vitamin-d-review"
 aliases:
   - "/RLS+Tremor+Huntingtons+and+other+hyperkinetic+disorders+associated+with+low+Vitamin+D+–+review+Aug+2020"
-  - "/tiki-index.php?page_id=11948"
+  - "/11948"
+tiki_page_id: 11948
 date: 2020-09-12
 ---
 

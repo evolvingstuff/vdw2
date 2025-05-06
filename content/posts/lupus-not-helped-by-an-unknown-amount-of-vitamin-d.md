@@ -3,7 +3,8 @@ title: "Lupus not helped by an unknown amount of Vitamin D"
 slug: "lupus-not-helped-by-an-unknown-amount-of-vitamin-d"
 aliases:
   - "/Lupus+not+helped+by+an+unknown+amount+of+Vitamin+D+–+June+2022"
-  - "/tiki-index.php?page_id=13721"
+  - "/13721"
+tiki_page_id: 13721
 date: 2022-06-29
 categories:
   - "Lupus"

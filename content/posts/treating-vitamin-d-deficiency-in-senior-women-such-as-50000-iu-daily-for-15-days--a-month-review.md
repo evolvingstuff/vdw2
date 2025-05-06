@@ -3,7 +3,8 @@ title: "Treating Vitamin D deficiency in senior women – such as 50,000 IU dail
 slug: "treating-vitamin-d-deficiency-in-senior-women-such-as-50000-iu-daily-for-15-days--a-month-review"
 aliases:
   - "/Treating+Vitamin+D+deficiency+in+senior+women+–+such+as+50000+IU+daily+for+15+days+then+twice+a+month+–+Review+April+2019"
-  - "/tiki-index.php?page_id=10869"
+  - "/10869"
+tiki_page_id: 10869
 date: 2019-06-13
 categories:
   - "How much Vitamin D"

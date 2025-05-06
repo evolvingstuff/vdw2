@@ -3,7 +3,8 @@ title: "Prostate Cancer - interview of Dr. Hollick by Baggerly - video and trans
 slug: "prostate-cancer-interview-of-dr-hollick-by-baggerly-video-and-transcript"
 aliases:
   - "/Prostate+Cancer+-+interview+of+Dr+Hollick+by+Baggerly+-+video+and+transcript+Jan+2024"
-  - "/tiki-index.php?page_id=14981"
+  - "/14981"
+tiki_page_id: 14981
 date: 2024-01-18
 categories:
   - "Books, videos on Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D was the most popular supplement during the COVID Pandemic"
 slug: "vitamin-d-was-the-most-popular-supplement-during-the-covid-pandemic"
 aliases:
   - "/Vitamin+D+was+the+most+popular+supplement+during+the+COVID+Pandemic+–+July+2023"
-  - "/tiki-index.php?page_id=14567"
+  - "/14567"
+tiki_page_id: 14567
 date: 2023-07-29
 categories:
   - "Supplement"

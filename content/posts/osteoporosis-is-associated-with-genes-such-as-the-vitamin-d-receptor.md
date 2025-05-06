@@ -3,7 +3,8 @@ title: "Osteoporosis is associated with genes such as the Vitamin D Receptor"
 slug: "osteoporosis-is-associated-with-genes-such-as-the-vitamin-d-receptor"
 aliases:
   - "/Osteoporosis+is+associated+with+genes+such+as+the+Vitamin+D+Receptor+–+July+2019"
-  - "/tiki-index.php?page_id=11090"
+  - "/11090"
+tiki_page_id: 11090
 date: 2019-08-22
 categories:
   - "Osteoporosis"

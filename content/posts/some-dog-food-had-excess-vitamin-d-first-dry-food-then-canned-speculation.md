@@ -3,7 +3,8 @@ title: "Some Dog food had excess vitamin D, first dry food, then canned – Spec
 slug: "some-dog-food-had-excess-vitamin-d-first-dry-food-then-canned-speculation"
 aliases:
   - "/Some+Dog+food+had+excess+vitamin+D+first+dry+food+then+canned+–+Speculation+Feb+2019"
-  - "/tiki-index.php?page_id=10456"
+  - "/10456"
+tiki_page_id: 10456
 date: 2019-02-03
 categories:
   - "Veterinary and Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D - A master example of nutrigenomics"
 slug: "vitamin-d-a-master-example-of-nutrigenomics"
 aliases:
   - "/Vitamin+D+-+A+master+example+of+nutrigenomics+–+April+2023"
-  - "/tiki-index.php?page_id=14361"
+  - "/14361"
+tiki_page_id: 14361
 date: 2023-04-06
 ---
 

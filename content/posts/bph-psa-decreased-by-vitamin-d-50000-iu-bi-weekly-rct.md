@@ -3,7 +3,8 @@ title: "BPH (PSA) decreased by Vitamin D (50,000 IU bi-weekly) – RCT"
 slug: "bph-psa-decreased-by-vitamin-d-50000-iu-bi-weekly-rct"
 aliases:
   - "/BPH+PSA+decreased+by+Vitamin+D+50000+IU+bi-weekly+–+RCT+Nov+2020"
-  - "/tiki-index.php?page_id=12077"
+  - "/12077"
+tiki_page_id: 12077
 date: 2020-11-21
 categories:
   - "Cancer - Prostate"

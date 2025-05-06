@@ -3,7 +3,8 @@ title: "Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case)
 slug: "preterm-birth-27x-more-likely-if-low-vitamin-d-dark-skin-in-this-case"
 aliases:
   - "/Preterm+Birth+27X+more+likely+if+low+vitamin+D+dark+skin+in+this+case+-+Nov+2023"
-  - "/tiki-index.php?page_id=14807"
+  - "/14807"
+tiki_page_id: 14807
 date: 2023-11-01
 categories:
   - "Skin - Dark"

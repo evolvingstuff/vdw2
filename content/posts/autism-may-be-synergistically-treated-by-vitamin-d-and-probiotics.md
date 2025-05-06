@@ -3,7 +3,8 @@ title: "Autism may be synergistically treated by Vitamin D and probiotics"
 slug: "autism-may-be-synergistically-treated-by-vitamin-d-and-probiotics"
 aliases:
   - "/Autism+may+be+synergistically+treated+by+Vitamin+D+and+probiotics+–+July+2022"
-  - "/tiki-index.php?page_id=13799"
+  - "/13799"
+tiki_page_id: 13799
 date: 2022-07-27
 categories:
   - "Autism"

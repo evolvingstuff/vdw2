@@ -3,7 +3,8 @@ title: "Spinal disc degeneration 1.8X more likely if poor Vitamin D Receptor –
 slug: "spinal-disc-degeneration-18x-more-likely-if-poor-vitamin-d-receptor-mata-analysis"
 aliases:
   - "/Spinal+disc+degeneration+18X+more+likely+if+poor+Vitamin+D+Receptor+–+mata-analysis+Sept+2020"
-  - "/tiki-index.php?page_id=11956"
+  - "/11956"
+tiki_page_id: 11956
 date: 2020-09-17
 categories:
   - "Meta-analysis of Vitamin D"

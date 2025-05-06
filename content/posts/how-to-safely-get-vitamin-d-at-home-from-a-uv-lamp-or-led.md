@@ -3,7 +3,8 @@ title: "How to safely get Vitamin D at home from a UV lamp or LED"
 slug: "how-to-safely-get-vitamin-d-at-home-from-a-uv-lamp-or-led"
 aliases:
   - "/How+to+safely+get+Vitamin+D+at+home+from+a+UV+lamp+or+LED"
-  - "/tiki-index.php?page_id=15165"
+  - "/15165"
+tiki_page_id: 15165
 date: 2024-03-24
 categories:
   - "UV and Vitamin D"

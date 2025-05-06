@@ -3,7 +3,8 @@ title: "Multiple Sclerosis patients had fewer COVID-19 problems (Note: many MSer
 slug: "multiple-sclerosis-patients-had-fewer-covid-19-problems-note-many-msers-take-vitamin-d"
 aliases:
   - "/Multiple+Sclerosis+patients+had+fewer+COVID-19+problems+Note+many+MSers+take+Vitamin+D+–+April+30+2021"
-  - "/tiki-index.php?page_id=12554"
+  - "/12554"
+tiki_page_id: 12554
 date: 2021-04-30
 categories:
   - "Multiple Sclerosis"

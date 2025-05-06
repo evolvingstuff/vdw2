@@ -3,7 +3,8 @@ title: "Hives (Urticaria) 7X more likely if vitamin D deficient, supplementation
 slug: "hives-urticaria-7x-more-likely-if-vitamin-d-deficient-supplementation-helps-meta-analysis"
 aliases:
   - "/Hives+Urticaria+7X+more+likely+if+vitamin+D+deficient+supplementation+helps+–+meta-analysis+April+2021"
-  - "/tiki-index.php?page_id=12562"
+  - "/12562"
+tiki_page_id: 12562
 date: 2021-05-05
 categories:
   - "Meta-analysis of Vitamin D"

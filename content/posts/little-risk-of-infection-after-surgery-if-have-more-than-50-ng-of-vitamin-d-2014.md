@@ -3,7 +3,8 @@ title: "Little risk of infection after surgery if have more than 50 ng of vitami
 slug: "little-risk-of-infection-after-surgery-if-have-more-than-50-ng-of-vitamin-d-2014"
 aliases:
   - "/Little+risk+of+infection+after+surgery+if+have+more+than+50+ng+of+vitamin+D+-+2014"
-  - "/tiki-index.php?page_id=12618"
+  - "/12618"
+tiki_page_id: 12618
 date: 2021-05-30
 categories:
   - "Immunity"

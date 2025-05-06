@@ -3,7 +3,8 @@ title: "Cleaning out poor cells (autophagy) is increased by Vitamin D and fastin
 slug: "cleaning-out-poor-cells-autophagy-is-increased-by-vitamin-d-and-fasting"
 aliases:
   - "/Cleaning+out+poor+cells+autophagy+is+increased+by+Vitamin+D+and+fasting+–+Jan+2022"
-  - "/tiki-index.php?page_id=14248"
+  - "/14248"
+tiki_page_id: 14248
 date: 2023-02-07
 categories:
   - "Obesity"

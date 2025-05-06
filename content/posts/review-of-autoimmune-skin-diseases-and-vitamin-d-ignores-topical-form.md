@@ -3,7 +3,8 @@ title: "Review of autoimmune skin diseases and Vitamin D ignores topical form"
 slug: "review-of-autoimmune-skin-diseases-and-vitamin-d-ignores-topical-form"
 aliases:
   - "/Review+of+autoimmune+skin+diseases+and+Vitamin+D+ignores+topical+form+-Nov+2022"
-  - "/tiki-index.php?page_id=14117"
+  - "/14117"
+tiki_page_id: 14117
 date: 2022-11-29
 categories:
   - "Psoriasis"

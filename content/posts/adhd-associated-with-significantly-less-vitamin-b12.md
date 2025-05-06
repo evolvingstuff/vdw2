@@ -3,7 +3,8 @@ title: "ADHD associated with significantly less Vitamin B12"
 slug: "adhd-associated-with-significantly-less-vitamin-b12"
 aliases:
   - "/ADHD+associated+with+significantly+less+Vitamin+B12+–+Sept+2018"
-  - "/tiki-index.php?page_id=10080"
+  - "/10080"
+tiki_page_id: 10080
 date: 2018-09-30
 categories:
   - "ADHD"

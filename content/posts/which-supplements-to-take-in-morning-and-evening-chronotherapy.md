@@ -3,7 +3,8 @@ title: "Which supplements to take in morning and evening (Chronotherapy)"
 slug: "which-supplements-to-take-in-morning-and-evening-chronotherapy"
 aliases:
   - "/Which+supplements+to+take+in+morning+and+evening+Chronotherapy"
-  - "/tiki-index.php?page_id=11570"
+  - "/11570"
+tiki_page_id: 11570
 date: 2020-01-18
 categories:
   - "Supplement"

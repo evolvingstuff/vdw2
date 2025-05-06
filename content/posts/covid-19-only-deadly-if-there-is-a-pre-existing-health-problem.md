@@ -3,7 +3,8 @@ title: "COVID-19 only deadly if there is a pre-existing health problem"
 slug: "covid-19-only-deadly-if-there-is-a-pre-existing-health-problem"
 aliases:
   - "/COVID-19+only+deadly+if+there+is+a+pre-existing+health+problem+-+March+2020"
-  - "/tiki-index.php?page_id=11671"
+  - "/11671"
+tiki_page_id: 11671
 date: 2020-03-09
 categories:
   - "Virus"

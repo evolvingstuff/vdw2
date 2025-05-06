@@ -3,7 +3,8 @@ title: "Glyphosate (Roundup) kills both weeds and the microbes in your gut that 
 slug: "glyphosate-roundup-kills-both-weeds-and-the-microbes-in-your-gut-that-produce-folate"
 aliases:
   - "/Glyphosate+Roundup+kills+both+weeds+and+the+microbes+in+your+gut+that+produce+Folate+–+July+2019"
-  - "/tiki-index.php?page_id=10977"
+  - "/10977"
+tiki_page_id: 10977
 date: 2019-07-11
 categories:
   - "Glyphosate"

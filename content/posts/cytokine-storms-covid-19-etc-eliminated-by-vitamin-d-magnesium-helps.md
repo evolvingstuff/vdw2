@@ -3,7 +3,8 @@ title: "Cytokine storms (COVID-19, etc.) eliminated by Vitamin D (Magnesium help
 slug: "cytokine-storms-covid-19-etc-eliminated-by-vitamin-d-magnesium-helps"
 aliases:
   - "/Cytokine+storms+COVID-19+etc+eliminated+by+Vitamin+D+Magnesium+helps"
-  - "/tiki-index.php?page_id=12309"
+  - "/12309"
+tiki_page_id: 12309
 date: 2021-02-08
 categories:
   - "Vitamin D and Magnesium"

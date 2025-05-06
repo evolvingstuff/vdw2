@@ -3,7 +3,8 @@ title: "2700 IU of vitamin D needed to get above 20 ng if dark-skinned and high 
 slug: "2700-iu-of-vitamin-d-needed-to-get-above-20-ng-if-dark-skinned-and-high-latitude"
 aliases:
   - "/2700+IU+of+vitamin+D+needed+to+get+above+20+ng+if+dark-skinned+and+high+latitude+–+Oct+2021"
-  - "/tiki-index.php?page_id=13024"
+  - "/13024"
+tiki_page_id: 13024
 date: 2021-10-27
 categories:
   - "Skin - Dark"

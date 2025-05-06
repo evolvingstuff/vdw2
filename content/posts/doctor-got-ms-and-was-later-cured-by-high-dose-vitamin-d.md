@@ -3,7 +3,8 @@ title: "Doctor got MS and was later cured by high-dose Vitamin D"
 slug: "doctor-got-ms-and-was-later-cured-by-high-dose-vitamin-d"
 aliases:
   - "/Doctor+got+MS+and+was+later+cured+by+high-dose+Vitamin+D+-+Aug+2023"
-  - "/tiki-index.php?page_id=14599"
+  - "/14599"
+tiki_page_id: 14599
 date: 2023-08-10
 categories:
   - "Multiple Sclerosis"

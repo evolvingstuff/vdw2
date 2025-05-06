@@ -3,7 +3,8 @@ title: "Severe hand, foot, and mouth virus is 2.9 X more likely if poor Vitamin 
 slug: "severe-hand-foot-and-mouth-virus-is-29-x-more-likely-if-poor-vitamin-d-receptor"
 aliases:
   - "/Severe+hand+foot+and+mouth+virus+is+29+X+more+likely+if+poor+Vitamin+D+receptor+–+Oct+2018"
-  - "/tiki-index.php?page_id=10224"
+  - "/10224"
+tiki_page_id: 10224
 date: 2018-11-23
 categories:
   - "Infant-Child"

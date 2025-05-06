@@ -3,7 +3,8 @@ title: "Long-Haul COVID after 3 months – only 5 percent had even 30 ng of Vita
 slug: "long-haul-covid-after-3-months-only-5-percent-had-even-30-ng-of-vitamin-d"
 aliases:
   - "/Long-Haul+COVID+after+3+months+–+only+5+percent+had+even+30+ng+of+Vitamin+D+–+April+2022"
-  - "/tiki-index.php?page_id=13540"
+  - "/13540"
+tiki_page_id: 13540
 date: 2022-05-04
 categories:
   - "Middle East"

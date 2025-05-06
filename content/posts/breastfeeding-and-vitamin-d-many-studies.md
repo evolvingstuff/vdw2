@@ -3,7 +3,8 @@ title: "Breastfeeding and Vitamin D - many studies"
 slug: "breastfeeding-and-vitamin-d-many-studies"
 aliases:
   - "/Breastfeeding+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14642"
+  - "/14642"
+tiki_page_id: 14642
 date: 2023-08-29
 categories:
   - "Infant-Child"

@@ -3,7 +3,8 @@ title: "Red blood cell clumping (Hemagglutination) - by COVID and vaccination (I
 slug: "red-blood-cell-clumping-hemagglutination-by-covid-and-vaccination-ivermectin-helps"
 aliases:
   - "/Red+blood+cell+clumping+Hemagglutination+-+by+COVID+and+vaccination+Ivermectin+helps+-+Dec+2023"
-  - "/tiki-index.php?page_id=14927"
+  - "/14927"
+tiki_page_id: 14927
 date: 2023-12-28
 categories:
   - "Virus"

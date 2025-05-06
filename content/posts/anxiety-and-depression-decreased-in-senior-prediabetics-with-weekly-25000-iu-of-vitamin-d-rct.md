@@ -3,7 +3,8 @@ title: "Anxiety and Depression decreased in senior prediabetics with weekly 25,0
 slug: "anxiety-and-depression-decreased-in-senior-prediabetics-with-weekly-25000-iu-of-vitamin-d-rct"
 aliases:
   - "/Anxiety+and+Depression+decreased+in+senior+prediabetics+with+weekly+25000+IU+of+Vitamin+D+–+RCT+Sept+2022"
-  - "/tiki-index.php?page_id=14166"
+  - "/14166"
+tiki_page_id: 14166
 date: 2022-12-21
 categories:
   - "Depression"

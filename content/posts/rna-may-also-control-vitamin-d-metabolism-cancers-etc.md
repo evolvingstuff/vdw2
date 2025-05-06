@@ -3,7 +3,8 @@ title: "RNA may also control Vitamin D metabolism (cancers, etc)"
 slug: "rna-may-also-control-vitamin-d-metabolism-cancers-etc"
 aliases:
   - "/RNA+may+also+control+Vitamin+D+metabolism+cancers+etc+–+May+2021"
-  - "/tiki-index.php?page_id=12592"
+  - "/12592"
+tiki_page_id: 12592
 date: 2021-05-21
 ---
 

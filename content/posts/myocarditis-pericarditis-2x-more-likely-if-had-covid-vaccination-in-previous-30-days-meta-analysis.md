@@ -3,7 +3,8 @@ title: "Myocarditis, Pericarditis 2X more likely if had COVID vaccination in pre
 slug: "myocarditis-pericarditis-2x-more-likely-if-had-covid-vaccination-in-previous-30-days-meta-analysis"
 aliases:
   - "/Myocarditis+Pericarditis+2X+more+likely+if+had+COVID+vaccination+in+previous+30+days+-+meta-analysis+June+2023"
-  - "/tiki-index.php?page_id=14632"
+  - "/14632"
+tiki_page_id: 14632
 date: 2023-08-25
 categories:
   - "Cardiovascular"

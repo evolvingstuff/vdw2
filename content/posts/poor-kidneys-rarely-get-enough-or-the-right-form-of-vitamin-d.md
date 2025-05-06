@@ -3,7 +3,8 @@ title: "Poor kidneys rarely get enough or the right form of vitamin D"
 slug: "poor-kidneys-rarely-get-enough-or-the-right-form-of-vitamin-d"
 aliases:
   - "/Poor+kidneys+rarely+get+enough+or+the+right+form+of+vitamin+D+–+Feb+2019"
-  - "/tiki-index.php?page_id=10522"
+  - "/10522"
+tiki_page_id: 10522
 date: 2019-02-25
 categories:
   - "Kidney"

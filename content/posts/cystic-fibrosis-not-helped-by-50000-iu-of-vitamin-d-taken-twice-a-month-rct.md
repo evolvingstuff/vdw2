@@ -3,7 +3,8 @@ title: "Cystic Fibrosis not helped by 50,000 IU of Vitamin D taken twice a month
 slug: "cystic-fibrosis-not-helped-by-50000-iu-of-vitamin-d-taken-twice-a-month-rct"
 aliases:
   - "/Cystic+Fibrosis+not+helped+by+50000+IU+of+Vitamin+D+taken+twice+a+month+–+RCT+Feb+2019"
-  - "/tiki-index.php?page_id=10516"
+  - "/10516"
+tiki_page_id: 10516
 date: 2019-02-23
 categories:
   - "Cystic Fibrosis"

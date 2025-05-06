@@ -3,7 +3,8 @@ title: "Some pathogens and health problems restrict Vitamin D from being used �
 slug: "some-pathogens-and-health-problems-restrict-vitamin-d-from-being-used-coimbra-high-dose-protocol"
 aliases:
   - "/Some+pathogens+and+health+problems+restrict+Vitamin+D+from+being+used+–+Coimbra+high-dose+protocol+–+April+2021"
-  - "/tiki-index.php?page_id=12540"
+  - "/12540"
+tiki_page_id: 12540
 date: 2021-04-26
 categories:
   - "Autoimmune"

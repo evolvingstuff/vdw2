@@ -3,7 +3,8 @@ title: "Impossible burger has an impossible amount of Glyphosate – 11 ppb"
 slug: "impossible-burger-has-an-impossible-amount-of-glyphosate-11-ppb"
 aliases:
   - "/Impossible+burger+has+an+impossible+amount+of+Glyphosate+–+11+ppb+–+July+2019"
-  - "/tiki-index.php?page_id=10950"
+  - "/10950"
+tiki_page_id: 10950
 date: 2019-07-03
 categories:
   - "Glyphosate"

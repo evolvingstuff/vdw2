@@ -3,7 +3,8 @@ title: "COPD exacerbations 2X less often if low vitamin D then supplemented – 
 slug: "copd-exacerbations-2x-less-often-if-low-vitamin-d-then-supplemented-meta-analysis"
 aliases:
   - "/COPD+exacerbations+2X+less+often+if+low+vitamin+D+then+supplemented+–+meta-analysis+Jan+2019"
-  - "/tiki-index.php?page_id=10401"
+  - "/10401"
+tiki_page_id: 10401
 date: 2019-01-15
 categories:
   - "Seniors"

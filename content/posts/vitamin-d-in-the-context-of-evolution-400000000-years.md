@@ -3,7 +3,8 @@ title: "Vitamin D in the Context of Evolution (400,000,000 years)"
 slug: "vitamin-d-in-the-context-of-evolution-400000000-years"
 aliases:
   - "/Vitamin+D+in+the+Context+of+Evolution+400000000+years+–+July+2022"
-  - "/tiki-index.php?page_id=13789"
+  - "/13789"
+tiki_page_id: 13789
 date: 2022-07-24
 ---
 

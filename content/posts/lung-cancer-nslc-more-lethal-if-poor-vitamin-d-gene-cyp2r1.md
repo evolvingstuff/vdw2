@@ -3,7 +3,8 @@ title: "Lung Cancer (NSLC) more lethal if poor Vitamin D gene ( CYP2R1)"
 slug: "lung-cancer-nslc-more-lethal-if-poor-vitamin-d-gene-cyp2r1"
 aliases:
   - "/Lung+Cancer+NSLC+more+lethal+if+poor+Vitamin+D+gene+CYP2R1+–+Oct+2019"
-  - "/tiki-index.php?page_id=11244"
+  - "/11244"
+tiki_page_id: 11244
 date: 2019-10-17
 categories:
   - "Genetics"

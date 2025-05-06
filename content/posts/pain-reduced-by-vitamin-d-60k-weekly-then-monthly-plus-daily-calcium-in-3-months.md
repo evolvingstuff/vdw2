@@ -3,7 +3,8 @@ title: "Pain reduced by Vitamin D (60K weekly, then monthly) plus daily Calcium 
 slug: "pain-reduced-by-vitamin-d-60k-weekly-then-monthly-plus-daily-calcium-in-3-months"
 aliases:
   - "/Pain+reduced+by+Vitamin+D+60K+weekly+then+monthly+plus+daily+Calcium+in+3+months+–+May+2021"
-  - "/tiki-index.php?page_id=12711"
+  - "/12711"
+tiki_page_id: 12711
 date: 2021-07-01
 categories:
   - "Pain - chronic"

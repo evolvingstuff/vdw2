@@ -3,7 +3,8 @@ title: "Aspartame while pregnant increased risk by 3.4 X that male infant will b
 slug: "aspartame-while-pregnant-increased-risk-by-34-x-that-male-infant-will-be-autistic"
 aliases:
   - "/Aspartame+while+pregnant+increased+risk+by+34+X+that+male+infant+will+be+Autistic+–+Sept+2023"
-  - "/tiki-index.php?page_id=14666"
+  - "/14666"
+tiki_page_id: 14666
 date: 2023-09-06
 categories:
   - "Autism"

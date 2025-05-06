@@ -3,7 +3,8 @@ title: "Glaucoma fought by Vitamin D - several studies"
 slug: "glaucoma-fought-by-vitamin-d-several-studies"
 aliases:
   - "/Glaucoma+fought+by+Vitamin+D+-+several+studies"
-  - "/tiki-index.php?page_id=14697"
+  - "/14697"
+tiki_page_id: 14697
 date: 2023-09-22
 categories:
   - "Vision"

@@ -3,7 +3,8 @@ title: "Large weight loss 32X more likely to be achieved if weight gain was due 
 slug: "large-weight-loss-32x-more-likely-to-be-achieved-if-weight-gain-was-due-to-vitamin-d-receptor"
 aliases:
   - "/Large+weight+loss+32X+more+likely+to+be+achieved+if+weight+gain+was+due+to+Vitamin+D+Receptor+–+Jan+2020"
-  - "/tiki-index.php?page_id=11603"
+  - "/11603"
+tiki_page_id: 11603
 date: 2020-01-30
 categories:
   - "Obesity"

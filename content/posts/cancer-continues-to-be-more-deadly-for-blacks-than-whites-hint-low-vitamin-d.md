@@ -3,7 +3,8 @@ title: "Cancer continues to be more deadly for Blacks than Whites (hint – low 
 slug: "cancer-continues-to-be-more-deadly-for-blacks-than-whites-hint-low-vitamin-d"
 aliases:
   - "/Cancer+continues+to+be+more+deadly+for+Blacks+than+Whites+hint+–+low+Vitamin+D+–+May+2022"
-  - "/tiki-index.php?page_id=13617"
+  - "/13617"
+tiki_page_id: 13617
 date: 2022-05-30
 categories:
   - "Skin - Dark"

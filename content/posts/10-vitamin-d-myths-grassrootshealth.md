@@ -3,7 +3,8 @@ title: "10 Vitamin D Myths - GrassrootsHealth"
 slug: "10-vitamin-d-myths-grassrootshealth"
 aliases:
   - "/10+Vitamin+D+Myths+-+GrassrootsHealth+July+2023"
-  - "/tiki-index.php?page_id=14554"
+  - "/14554"
+tiki_page_id: 14554
 date: 2023-07-24
 categories:
   - "About D - more info."

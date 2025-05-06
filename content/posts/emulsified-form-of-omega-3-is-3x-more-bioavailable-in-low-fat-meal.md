@@ -3,7 +3,8 @@ title: "Emulsified form of Omega-3 is 3X more bioavailable in low fat meal"
 slug: "emulsified-form-of-omega-3-is-3x-more-bioavailable-in-low-fat-meal"
 aliases:
   - "/Emulsified+form+of+Omega-3+is+3X+more+bioavailable+in+low+fat+meal+–+Dec+2019"
-  - "/tiki-index.php?page_id=11504"
+  - "/11504"
+tiki_page_id: 11504
 date: 2019-12-28
 categories:
   - "Vitamin D and Omega-3"

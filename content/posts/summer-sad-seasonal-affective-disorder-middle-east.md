@@ -3,7 +3,8 @@ title: "Summer SAD (Seasonal Affective Disorder) – Middle East"
 slug: "summer-sad-seasonal-affective-disorder-middle-east"
 aliases:
   - "/Summer+SAD+Seasonal+Affective+Disorder+–+Middle+East+June+2019"
-  - "/tiki-index.php?page_id=10884"
+  - "/10884"
+tiki_page_id: 10884
 date: 2019-06-15
 categories:
   - "Depression"

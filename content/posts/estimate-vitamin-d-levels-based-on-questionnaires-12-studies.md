@@ -3,7 +3,8 @@ title: "Estimate Vitamin D levels based on questionnaires (12 studies)"
 slug: "estimate-vitamin-d-levels-based-on-questionnaires-12-studies"
 aliases:
   - "/Estimate+Vitamin+D+levels+based+on+questionnaires+12+studies+–+July+2020"
-  - "/tiki-index.php?page_id=13061"
+  - "/13061"
+tiki_page_id: 13061
 date: 2021-11-08
 categories:
   - "Predict Vitamin D"

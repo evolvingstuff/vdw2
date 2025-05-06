@@ -3,7 +3,8 @@ title: "Prostate cancer risk cut in half by consuming Boron-rich food or water"
 slug: "prostate-cancer-risk-cut-in-half-by-consuming-boron-rich-food-or-water"
 aliases:
   - "/Prostate+cancer+risk+cut+in+half+by+consuming+Boron-rich+food+or+water"
-  - "/tiki-index.php?page_id=11120"
+  - "/11120"
+tiki_page_id: 11120
 date: 2019-09-03
 categories:
   - "Cancer - Prostate"

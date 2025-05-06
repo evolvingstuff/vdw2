@@ -3,7 +3,8 @@ title: "Excess deaths - 5 possible reasons - many studies"
 slug: "excess-deaths-5-possible-reasons-many-studies"
 aliases:
   - "/Excess+deaths+-+5+possible+reasons+-+many+studies"
-  - "/tiki-index.php?page_id=13434"
+  - "/13434"
+tiki_page_id: 13434
 date: 2022-03-26
 categories:
   - "Virus"

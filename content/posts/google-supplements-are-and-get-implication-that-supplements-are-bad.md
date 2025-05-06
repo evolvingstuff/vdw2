@@ -3,7 +3,8 @@ title: "Google “supplements are” and get implication that supplements are BA
 slug: "google-supplements-are-and-get-implication-that-supplements-are-bad"
 aliases:
   - "/Google+supplements+are+and+get+implication+that+supplements+are+BAD+–+July+2019"
-  - "/tiki-index.php?page_id=10951"
+  - "/10951"
+tiki_page_id: 10951
 date: 2019-07-03
 categories:
   - "Top news"

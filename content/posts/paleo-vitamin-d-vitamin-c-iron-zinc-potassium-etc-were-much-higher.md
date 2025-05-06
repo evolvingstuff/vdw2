@@ -3,7 +3,8 @@ title: "Paleo Vitamin D, Vitamin C, Iron, Zinc, Potassium, etc  were much higher
 slug: "paleo-vitamin-d-vitamin-c-iron-zinc-potassium-etc-were-much-higher"
 aliases:
   - "/Paleo+Vitamin+D+Vitamin+C+Iron+Zinc+Potassium+etc+were+much+higher"
-  - "/tiki-index.php?page_id=12930"
+  - "/12930"
+tiki_page_id: 12930
 date: 2021-09-27
 categories:
   - "Vitamin D and Iron"

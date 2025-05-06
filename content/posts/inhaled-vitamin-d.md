@@ -3,7 +3,8 @@ title: "Inhaled Vitamin D"
 slug: "inhaled-vitamin-d"
 aliases:
   - "/Inhaled+Vitamin+D"
-  - "/tiki-index.php?page_id=10785"
+  - "/10785"
+tiki_page_id: 10785
 date: 2019-05-17
 categories:
   - "Forms of Vitamin D"

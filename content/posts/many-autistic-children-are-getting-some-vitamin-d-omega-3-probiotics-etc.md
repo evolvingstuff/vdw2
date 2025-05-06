@@ -3,7 +3,8 @@ title: "Many autistic children are getting some Vitamin D, Omega-3, probiotics, 
 slug: "many-autistic-children-are-getting-some-vitamin-d-omega-3-probiotics-etc"
 aliases:
   - "/Many+autistic+children+are+getting+some+Vitamin+D+Omega-3+probiotics+etc+-+Aug+2019"
-  - "/tiki-index.php?page_id=11572"
+  - "/11572"
+tiki_page_id: 11572
 date: 2020-01-19
 ---
 

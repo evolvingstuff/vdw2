@@ -3,7 +3,8 @@ title: "Trying to find out why NorthWest Myanmar has the highest rickets rate (c
 slug: "trying-to-find-out-why-northwest-myanmar-has-the-highest-rickets-rate-clue-lowest-solar"
 aliases:
   - "/Trying+to+find+out+why+NorthWest+Myanmar+has+the+highest+rickets+rate+clue+–+lowest+solar+–+July+2019"
-  - "/tiki-index.php?page_id=11005"
+  - "/11005"
+tiki_page_id: 11005
 date: 2019-07-17
 categories:
   - "Rickets"

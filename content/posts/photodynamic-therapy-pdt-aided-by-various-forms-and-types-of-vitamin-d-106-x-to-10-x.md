@@ -3,7 +3,8 @@ title: "Photodynamic Therapy (PDT) aided by various forms  and types of Vitamin 
 slug: "photodynamic-therapy-pdt-aided-by-various-forms-and-types-of-vitamin-d-106-x-to-10-x"
 aliases:
   - "/Photodynamic+Therapy+PDT+aided+by+various+forms+and+types+of+Vitamin+D+106+X+to+10+X+–+Sept+2022"
-  - "/tiki-index.php?page_id=13914"
+  - "/13914"
+tiki_page_id: 13914
 date: 2022-09-15
 categories:
   - "Psoriasis"

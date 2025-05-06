@@ -3,7 +3,8 @@ title: "Which health problems take more than 10 years to develop - Chat-GPT"
 slug: "which-health-problems-take-more-than-10-years-to-develop-chat-gpt"
 aliases:
   - "/Which+health+problems+take+more+than+10+years+to+develop+-+Chat-GPT+Dec+2023"
-  - "/tiki-index.php?page_id=14904"
+  - "/14904"
+tiki_page_id: 14904
 date: 2023-12-21
 categories:
   - "Health"

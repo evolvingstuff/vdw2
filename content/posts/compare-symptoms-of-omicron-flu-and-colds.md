@@ -3,7 +3,8 @@ title: "Compare symptoms of Omicron, Flu and Colds"
 slug: "compare-symptoms-of-omicron-flu-and-colds"
 aliases:
   - "/Compare+symptoms+of+Omicron+Flu+and+Colds"
-  - "/tiki-index.php?page_id=13409"
+  - "/13409"
+tiki_page_id: 13409
 date: 2022-03-17
 categories:
   - "Breathing"

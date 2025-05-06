@@ -3,7 +3,8 @@ title: "COVID vaccination increased by 137X the risk of 10-14 year olds of dying
 slug: "covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk"
 aliases:
   - "/COVID+vaccination+increased+by+137X+the+risk+of+10-14+year+olds+of+dying+UK+–+Jan+2023"
-  - "/tiki-index.php?page_id=14194"
+  - "/14194"
+tiki_page_id: 14194
 date: 2023-01-06
 categories:
   - "Youth"

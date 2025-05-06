@@ -3,7 +3,8 @@ title: "Extending Health Span is a better goal than extending Lifespan"
 slug: "extending-health-span-is-a-better-goal-than-extending-lifespan"
 aliases:
   - "/Extending+Health+Span+is+a+better+goal+than+extending+Lifespan+-July+2021"
-  - "/tiki-index.php?page_id=14936"
+  - "/14936"
+tiki_page_id: 14936
 date: 2023-12-31
 categories:
   - "Seniors"

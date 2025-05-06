@@ -3,7 +3,8 @@ title: "10 Mice were used to test the Newest Pfizer Vaccine against a for previo
 slug: "10-mice-were-used-to-test-the-newest-pfizer-vaccine-against-a-for-previous-virus"
 aliases:
   - "/10+Mice+were+used+to+test+the+Newest+Pfizer+Vaccine+against+a+for+previous+virus+-+Sept+2023"
-  - "/tiki-index.php?page_id=14703"
+  - "/14703"
+tiki_page_id: 14703
 date: 2023-09-27
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Easiest way to treat cancer – take Vitamin D"
 slug: "easiest-way-to-treat-cancer-take-vitamin-d"
 aliases:
   - "/Easiest+way+to+treat+cancer+–+take+Vitamin+D+–+Nov+2022"
-  - "/tiki-index.php?page_id=14144"
+  - "/14144"
+tiki_page_id: 14144
 date: 2022-12-13
 categories:
   - "Cancer - after diagnosis"

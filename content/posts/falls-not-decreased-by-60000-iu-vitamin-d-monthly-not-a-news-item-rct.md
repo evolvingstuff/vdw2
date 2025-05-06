@@ -3,7 +3,8 @@ title: "Falls not decreased by 60,000 IU Vitamin D monthly (not a news item) –
 slug: "falls-not-decreased-by-60000-iu-vitamin-d-monthly-not-a-news-item-rct"
 aliases:
   - "/Falls+not+decreased+by+60000+IU+Vitamin+D+monthly+not+a+news+item+–+RCT+Aug+2021"
-  - "/tiki-index.php?page_id=12798"
+  - "/12798"
+tiki_page_id: 12798
 date: 2021-08-02
 categories:
   - "Intervention"

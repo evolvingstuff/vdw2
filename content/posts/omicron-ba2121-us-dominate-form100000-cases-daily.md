@@ -3,7 +3,8 @@ title: "Omicron BA.2.12.1 - US dominate form,100,000 cases daily"
 slug: "omicron-ba2121-us-dominate-form100000-cases-daily"
 aliases:
   - "/Omicron+BA2121+-+US+dominate+form100000+cases+daily+-+May+24+2022"
-  - "/tiki-index.php?page_id=13587"
+  - "/13587"
+tiki_page_id: 13587
 date: 2022-05-24
 categories:
   - "Virus"

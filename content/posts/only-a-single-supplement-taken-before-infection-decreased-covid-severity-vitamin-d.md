@@ -3,7 +3,8 @@ title: "Only a single supplement taken before infection decreased COVID severity
 slug: "only-a-single-supplement-taken-before-infection-decreased-covid-severity-vitamin-d"
 aliases:
   - "/Only+a+single+supplement+taken+before+infection+decreased+COVID+severity+vitamin+D+–+Feb+2022"
-  - "/tiki-index.php?page_id=13365"
+  - "/13365"
+tiki_page_id: 13365
 date: 2022-03-03
 categories:
   - "Virus"

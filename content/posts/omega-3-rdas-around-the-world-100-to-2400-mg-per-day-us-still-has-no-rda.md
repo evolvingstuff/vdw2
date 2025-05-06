@@ -3,7 +3,8 @@ title: "Omega-3 RDAs around the world: 100 to 2400 mg per day, US still has no R
 slug: "omega-3-rdas-around-the-world-100-to-2400-mg-per-day-us-still-has-no-rda"
 aliases:
   - "/Omega-3+RDAs+around+the+world+100+to+2400+mg+per+day+US+still+has+no+RDA+–+Dec+2018"
-  - "/tiki-index.php?page_id=10282"
+  - "/10282"
+tiki_page_id: 10282
 date: 2018-12-07
 categories:
   - "Vitamin D and Omega-3"

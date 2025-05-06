@@ -3,7 +3,8 @@ title: "Sleep duration increases with vitamin D levels in males, broad peak in f
 slug: "sleep-duration-increases-with-vitamin-d-levels-in-males-broad-peak-in-females"
 aliases:
   - "/Sleep+duration+increases+with+vitamin+D+levels+in+males+broad+peak+in+females+–+Sept+2023"
-  - "/tiki-index.php?page_id=14590"
+  - "/14590"
+tiki_page_id: 14590
 date: 2023-08-07
 categories:
   - "Sleep"

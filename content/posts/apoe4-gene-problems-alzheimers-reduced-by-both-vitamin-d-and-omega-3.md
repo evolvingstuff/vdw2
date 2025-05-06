@@ -3,7 +3,8 @@ title: "APOE4 gene problems (Alzheimer’s) reduced by both Vitamin D and Omega-
 slug: "apoe4-gene-problems-alzheimers-reduced-by-both-vitamin-d-and-omega-3"
 aliases:
   - "/APOE4+gene+problems+Alzheimers+reduced+by+both+Vitamin+D+and+Omega-3+-+Dec+2018"
-  - "/tiki-index.php?page_id=10311"
+  - "/10311"
+tiki_page_id: 10311
 date: 2018-12-12
 categories:
   - "Cognitive"

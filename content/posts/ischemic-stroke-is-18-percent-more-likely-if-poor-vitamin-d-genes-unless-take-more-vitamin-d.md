@@ -3,7 +3,8 @@ title: "Ischemic Stroke is 18% more likely if poor Vitamin D genes (unless take 
 slug: "ischemic-stroke-is-18-percent-more-likely-if-poor-vitamin-d-genes-unless-take-more-vitamin-d"
 aliases:
   - "/Ischemic+Stroke+is+18+more+likely+if+poor+Vitamin+D+genes+unless+take+more+Vitamin+D+–+Feb+2024"
-  - "/tiki-index.php?page_id=15159"
+  - "/15159"
+tiki_page_id: 15159
 date: 2024-03-21
 categories:
   - "Genetics"

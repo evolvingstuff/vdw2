@@ -3,7 +3,8 @@ title: "Table salt was fortified with Vitamin A, Iodine, etc in Indian Trial"
 slug: "table-salt-was-fortified-with-vitamin-a-iodine-etc-in-indian-trial"
 aliases:
   - "/Table+salt+was+fortified+with+Vitamin+A+Iodine+etc+in+Indian+Trial+–Nov+2022"
-  - "/tiki-index.php?page_id=14100"
+  - "/14100"
+tiki_page_id: 14100
 date: 2022-11-21
 categories:
   - "Vitamin D and Vitamin A"

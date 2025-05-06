@@ -3,7 +3,8 @@ title: "Air pollution associated with 45 percent increased risk of Vitamin D def
 slug: "air-pollution-associated-with-45-percent-increased-risk-of-vitamin-d-deficiency-while-pregnant"
 aliases:
   - "/Air+pollution+associated+with+45+percent+increased+risk+of+Vitamin+D+deficiency+while+pregnant+–+Aug+2019"
-  - "/tiki-index.php?page_id=10924"
+  - "/10924"
+tiki_page_id: 10924
 date: 2019-06-25
 categories:
   - "Deficiency of Vitamin D"

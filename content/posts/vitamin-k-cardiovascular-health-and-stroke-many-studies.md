@@ -3,7 +3,8 @@ title: "Vitamin K, cardiovascular health, and stroke - many studies"
 slug: "vitamin-k-cardiovascular-health-and-stroke-many-studies"
 aliases:
   - "/Vitamin+K+cardiovascular+health+and+stroke+-+many+studies"
-  - "/tiki-index.php?page_id=14518"
+  - "/14518"
+tiki_page_id: 14518
 date: 2023-07-04
 categories:
   - "Cardiovascular"

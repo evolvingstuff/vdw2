@@ -3,7 +3,8 @@ title: "Low-dose vitamin D does not help cardiovascular (many were 100-1,000 IU)
 slug: "low-dose-vitamin-d-does-not-help-cardiovascular-many-were-100-1000-iu-meta-analysis"
 aliases:
   - "/Low-dose+vitamin+D+does+not+help+cardiovascular+many+were+100-1000+IU+–+meta-analysis+June+2019"
-  - "/tiki-index.php?page_id=10902"
+  - "/10902"
+tiki_page_id: 10902
 date: 2019-06-19
 categories:
   - "Cardiovascular"

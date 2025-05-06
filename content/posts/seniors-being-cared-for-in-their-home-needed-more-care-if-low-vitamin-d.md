@@ -3,7 +3,8 @@ title: "Seniors being cared for in their home needed more care if low vitamin D"
 slug: "seniors-being-cared-for-in-their-home-needed-more-care-if-low-vitamin-d"
 aliases:
   - "/Seniors+being+cared+for+in+their+home+needed+more+care+if+low+vitamin+D+–+Sept+2019"
-  - "/tiki-index.php?page_id=11181"
+  - "/11181"
+tiki_page_id: 11181
 date: 2019-09-30
 categories:
   - "Seniors"

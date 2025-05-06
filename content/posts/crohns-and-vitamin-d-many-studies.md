@@ -3,7 +3,8 @@ title: "Crohn's and Vitamin D - many studies"
 slug: "crohns-and-vitamin-d-many-studies"
 aliases:
   - "/Crohns+and+Vitamin+D+-+many+studies"
-  - "/tiki-index.php?page_id=14178"
+  - "/14178"
+tiki_page_id: 14178
 date: 2022-12-29
 categories:
   - "Gut"

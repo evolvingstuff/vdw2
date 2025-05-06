@@ -3,7 +3,8 @@ title: "MRSA Carriers not helped by 4,000 IU of Vitamin D (probably poor Vitamin
 slug: "mrsa-carriers-not-helped-by-4000-iu-of-vitamin-d-probably-poor-vitamin-d-receptor-rct"
 aliases:
   - "/MRSA+Carriers+not+helped+by+4000+IU+of+Vitamin+D+probably+poor+Vitamin+D+Receptor+–+RCT+Sept+2018"
-  - "/tiki-index.php?page_id=10986"
+  - "/10986"
+tiki_page_id: 10986
 date: 2019-07-14
 categories:
   - "Immunity"

@@ -3,7 +3,8 @@ title: "COVID 5.5 X more likely to be severe if low Vitamin D (children in this 
 slug: "covid-55-x-more-likely-to-be-severe-if-low-vitamin-d-children-in-this-case"
 aliases:
   - "/COVID+55+X+more+likely+to+be+severe+if+low+Vitamin+D+children+in+this+case+–+Oct+2022"
-  - "/tiki-index.php?page_id=14037"
+  - "/14037"
+tiki_page_id: 14037
 date: 2022-10-24
 categories:
   - "Top news"

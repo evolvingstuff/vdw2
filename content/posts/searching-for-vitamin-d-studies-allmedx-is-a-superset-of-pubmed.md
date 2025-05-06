@@ -3,7 +3,8 @@ title: "Searching for Vitamin D studies – AllMEDx is a superset of PubMed"
 slug: "searching-for-vitamin-d-studies-allmedx-is-a-superset-of-pubmed"
 aliases:
   - "/Searching+for+Vitamin+D+studies+–+AllMEDx+is+a+superset+of+PubMed"
-  - "/tiki-index.php?page_id=10561"
+  - "/10561"
+tiki_page_id: 10561
 date: 2019-03-11
 categories:
   - "Health"

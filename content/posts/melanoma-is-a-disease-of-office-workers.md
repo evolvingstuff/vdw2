@@ -3,7 +3,8 @@ title: "Melanoma Is a Disease of Office Workers"
 slug: "melanoma-is-a-disease-of-office-workers"
 aliases:
   - "/Melanoma+Is+a+Disease+of+Office+Workers+-+Dec+2018"
-  - "/tiki-index.php?page_id=10309"
+  - "/10309"
+tiki_page_id: 10309
 date: 2018-12-12
 categories:
   - "Cancer - Skin"

@@ -3,7 +3,8 @@ title: "Darker Skin Health Disparities might be eliminated by Vitamin D (no surp
 slug: "darker-skin-health-disparities-might-be-eliminated-by-vitamin-d-no-surprise"
 aliases:
   - "/Darker+Skin+Health+Disparities+might+be+eliminated+by+Vitamin+D+no+surprise+-+April+2022"
-  - "/tiki-index.php?page_id=13447"
+  - "/13447"
+tiki_page_id: 13447
 date: 2022-04-04
 categories:
   - "Skin - Dark"

@@ -3,7 +3,8 @@ title: "Coronary Artery Disease 2.9 X more likely in postmenopausal women if Vit
 slug: "coronary-artery-disease-29-x-more-likely-in-postmenopausal-women-if-vitamin-d-deficient"
 aliases:
   - "/Coronary+Artery+Disease+29+X+more+likely+in+postmenopausal+women+if+Vitamin+D+deficient+–+March+2020"
-  - "/tiki-index.php?page_id=11688"
+  - "/11688"
+tiki_page_id: 11688
 date: 2020-03-18
 categories:
   - "Seniors"

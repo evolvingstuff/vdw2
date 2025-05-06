@@ -3,7 +3,8 @@ title: "COVID vaccine: have warnings, all side effects reported,  no mandates (J
 slug: "covid-vaccine-have-warnings-all-side-effects-reported-no-mandates-japan"
 aliases:
   - "/COVID+vaccine+have+warnings+all+side+effects+reported+no+mandates+Japan+-+Dec+2021"
-  - "/tiki-index.php?page_id=13226"
+  - "/13226"
+tiki_page_id: 13226
 date: 2021-12-28
 categories:
   - "Virus"

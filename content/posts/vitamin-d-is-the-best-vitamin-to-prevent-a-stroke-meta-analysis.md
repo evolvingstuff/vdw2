@@ -3,7 +3,8 @@ title: "Vitamin D is the best Vitamin to prevent a stroke - meta-analysis"
 slug: "vitamin-d-is-the-best-vitamin-to-prevent-a-stroke-meta-analysis"
 aliases:
   - "/Vitamin+D+is+the+best+Vitamin+to+prevent+a+stroke+-+meta-analysis+Jan+2024"
-  - "/tiki-index.php?page_id=15013"
+  - "/15013"
+tiki_page_id: 15013
 date: 2024-01-31
 categories:
   - "Meta-analysis of Vitamin D"

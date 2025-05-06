@@ -3,7 +3,8 @@ title: "Dutch Vitamin D cost-effectivity Calculations (they prescribe 100,000 IU
 slug: "dutch-vitamin-d-cost-effectivity-calculations-they-prescribe-100000-iu-for-multiple-sclerosis"
 aliases:
   - "/Dutch+Vitamin+D+cost-effectivity+Calculations+they+prescribe+100000+IU+for+Multiple+Sclerosis+–+Jan+2022"
-  - "/tiki-index.php?page_id=13719"
+  - "/13719"
+tiki_page_id: 13719
 date: 2022-06-28
 categories:
   - "Cost savings with Vitamin D"

@@ -3,7 +3,8 @@ title: "Taking Vitamin D just before and after surgery helps (open-heart in this
 slug: "taking-vitamin-d-just-before-and-after-surgery-helps-open-heart-in-this-case-rct"
 aliases:
   - "/Taking+Vitamin+D+just+before+and+after+surgery+helps+open-heart+in+this+case+–+RCT+Feb+2021"
-  - "/tiki-index.php?page_id=12322"
+  - "/12322"
+tiki_page_id: 12322
 date: 2021-02-14
 categories:
   - "Trauma and surgery"

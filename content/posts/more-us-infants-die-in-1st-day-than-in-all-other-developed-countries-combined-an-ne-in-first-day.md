@@ -3,7 +3,8 @@ title: "More US infants die in 1st day than in all other developed countries COM
 slug: "more-us-infants-die-in-1st-day-than-in-all-other-developed-countries-combined-an-ne-in-first-day"
 aliases:
   - "/More+US+infants+die+in+1st+day+than+in+all+other+developed+countries+COMBINED+and+US+gives+vaccine+in+first+day+–+May+2013"
-  - "/tiki-index.php?page_id=10065"
+  - "/10065"
+tiki_page_id: 10065
 date: 2018-09-24
 categories:
   - "Infant-Child"

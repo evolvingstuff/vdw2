@@ -3,7 +3,8 @@ title: "Vitamin D supplementation is associated with slower epigenetic aging"
 slug: "vitamin-d-supplementation-is-associated-with-slower-epigenetic-aging"
 aliases:
   - "/Vitamin+D+supplementation+is+associated+with+slower+epigenetic+aging+-+May+2022"
-  - "/tiki-index.php?page_id=13673"
+  - "/13673"
+tiki_page_id: 13673
 date: 2022-06-14
 categories:
   - "Seniors"

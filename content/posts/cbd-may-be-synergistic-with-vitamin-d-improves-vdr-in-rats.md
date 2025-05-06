@@ -3,7 +3,8 @@ title: "CBD may be synergistic with Vitamin D (improves VDR in rats)"
 slug: "cbd-may-be-synergistic-with-vitamin-d-improves-vdr-in-rats"
 aliases:
   - "/CBD+may+be+synergistic+with+Vitamin+D+improves+VDR+in+rats+-+Aug+2022"
-  - "/tiki-index.php?page_id=13792"
+  - "/13792"
+tiki_page_id: 13792
 date: 2022-07-25
 categories:
   - "Vitamin D Receptor"

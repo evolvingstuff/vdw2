@@ -3,7 +3,8 @@ title: "People working with lead have 8 ng less Vitamin D"
 slug: "people-working-with-lead-have-8-ng-less-vitamin-d"
 aliases:
   - "/People+working+with+lead+have+8+ng+less+Vitamin+D+–+May+2020"
-  - "/tiki-index.php?page_id=11931"
+  - "/11931"
+tiki_page_id: 11931
 date: 2020-09-01
 categories:
   - "Deficiency of Vitamin D"

@@ -3,7 +3,8 @@ title: "Vitamin D sources, role, deficiency, toxicity, testing, etc. – massive
 slug: "vitamin-d-sources-role-deficiency-toxicity-testing-etc-massive-review"
 aliases:
   - "/Vitamin+D+sources+role+deficiency+toxicity+testing+etc+–+massive+review+May+2022"
-  - "/tiki-index.php?page_id=13564"
+  - "/13564"
+tiki_page_id: 13564
 date: 2022-05-16
 categories:
   - "Top news"

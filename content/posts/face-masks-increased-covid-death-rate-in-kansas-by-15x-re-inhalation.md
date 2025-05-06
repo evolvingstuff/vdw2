@@ -3,7 +3,8 @@ title: "Face masks INCREASED COVID death rate in Kansas by 1.5X (re-inhalation)"
 slug: "face-masks-increased-covid-death-rate-in-kansas-by-15x-re-inhalation"
 aliases:
   - "/Face+masks+INCREASED+COVID+death+rate+in+Kansas+by+15X+re-inhalation+–+Feb+2022"
-  - "/tiki-index.php?page_id=13621"
+  - "/13621"
+tiki_page_id: 13621
 date: 2022-06-01
 categories:
   - "Virus"

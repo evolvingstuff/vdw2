@@ -3,7 +3,8 @@ title: "Less DNA repair if nutrient deficient (Vitamin D, Magnesium, Omega-3, Vi
 slug: "less-dna-repair-if-nutrient-deficient-vitamin-d-magnesium-omega-3-vitamin-k-etc-ames"
 aliases:
   - "/Less+DNA+repair+if+nutrient+deficient+Vitamin+D+Magnesium+Omega-3+Vitamin+K+etc+–+Ames+Oct+2018"
-  - "/tiki-index.php?page_id=10138"
+  - "/10138"
+tiki_page_id: 10138
 date: 2018-10-19
 categories:
   - "Seniors"

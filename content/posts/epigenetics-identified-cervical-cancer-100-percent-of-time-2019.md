@@ -3,7 +3,8 @@ title: "Epigenetics identified Cervical Cancer 100 percent of time – 2019"
 slug: "epigenetics-identified-cervical-cancer-100-percent-of-time-2019"
 aliases:
   - "/Epigenetics+identified+Cervical+Cancer+100+percent+of+time+–+2019"
-  - "/tiki-index.php?page_id=11488"
+  - "/11488"
+tiki_page_id: 11488
 date: 2019-12-23
 categories:
   - "Genetics"

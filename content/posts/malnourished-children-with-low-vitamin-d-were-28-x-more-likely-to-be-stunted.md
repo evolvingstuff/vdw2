@@ -3,7 +3,8 @@ title: "Malnourished children with low vitamin D were 2.8 X more likely to be st
 slug: "malnourished-children-with-low-vitamin-d-were-28-x-more-likely-to-be-stunted"
 aliases:
   - "/Malnourished+children+with+low+vitamin+D+were+28+X+more+likely+to+be+stunted+–+Aug+2018"
-  - "/tiki-index.php?page_id=10441"
+  - "/10441"
+tiki_page_id: 10441
 date: 2019-01-30
 categories:
   - "Infant-Child"

@@ -1,68 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shut-In on VitaminDWiki</title>
-    <link>http://localhost:1313/categories/shut-in/</link>
-    <description>Recent content in Shut-In on VitaminDWiki</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/shut-in/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Indoor athletes have 4.5 ng less Vitamin D (Asia in this case) – meta-analysis</title>
-      <link>http://localhost:1313/posts/indoor-athletes-have-45-ng-less-vitamin-d-asia-in-this-case-meta-analysis/</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/indoor-athletes-have-45-ng-less-vitamin-d-asia-in-this-case-meta-analysis/</guid>
-      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&#xA;          &lt;ul&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#difference-in-levels-of-vitamin-d-between-indoor-and-outdoor-athletes-a-systematic-review-and-meta-analysis&#34;&gt;Difference in Levels of Vitamin D between Indoor and Outdoor Athletes: A Systematic Review and Meta-Analysis&lt;/a&gt;&lt;/li&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#vitamindwiki--shiftwork-like-indoor-sports-also-reduces-vitamin-dpostsshift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis&#34;&gt;VitaminDWiki – &lt;a href=&#34;http://localhost:1313/posts/shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis&#34;&gt;Shiftwork. like indoor sports, also reduces Vitamin D&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;          &lt;/ul&gt;&#xA;        &lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;difference-in-levels-of-vitamin-d-between-indoor-and-outdoor-athletes-a-systematic-review-and-meta-analysis&#34;&gt;Difference in Levels of Vitamin D between Indoor and Outdoor Athletes: A Systematic Review and Meta-Analysis&lt;/h4&gt;&#xA;&lt;p&gt;Int J Mol Sci . 2023 Apr 20;24(8):7584. &lt;a href=&#34;https://doi.org/10.3390/ijms24087584&#34;&gt;doi: 10.3390/ijms24087584&lt;/a&gt; DOI: 10.3390/ijms24087584&lt;/p&gt;&#xA;&lt;p&gt;Maria Bârsan 1, Vlad-Florin Chelaru 2, Armand-Gabriel Râjnoveanu 1, Ștefan Lucian Popa 3, Andreea-Iulia Socaciu 1, Andrei-Vlad Bădulescu 2&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Submariners need Vitamin D (no surprise) – Review</title>
-      <link>http://localhost:1313/posts/submariners-need-vitamin-d-no-surprise-review/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/submariners-need-vitamin-d-no-surprise-review/</guid>
-      <description>&lt;h4 id=&#34;vitamin-d-status-in-active-duty-navy-military-personnel-a-systematic-review&#34;&gt;Vitamin D status in active duty Navy military personnel: a systematic review&lt;/h4&gt;&#xA;&lt;p&gt;Occup Environ Med . 2023 Apr 3;oemed-2022-108710. &lt;a href=&#34;https://doi.org/10.1136/oemed-2022-108710&#34;&gt;doi: 10.1136/oemed-2022-108710&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Moisés Henriques 1 2, Diogo Rodrigues 3, Susana Viegas 2, Florentino Serranheira 2, Ema Sacadura-Leite 2 4&lt;/p&gt;&#xA;&lt;p&gt;Objectives: Active duty Navy military personnel are prone to vitamin D deficiency due to an occupational environment detrimental to sunlight exposure. The main objective of this systematic review is to provide a worldwide overview of vitamin D status in this population.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>COVID 5X more likely if in prison (low Vitamin D, etc)</title>
-      <link>http://localhost:1313/posts/covid-5x-more-likely-if-in-prison-low-vitamin-d-etc/</link>
-      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/covid-5x-more-likely-if-in-prison-low-vitamin-d-etc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>One group of coal miners had surprising high Vitamin D levels in Sept (suspect low-cost UVB)</title>
-      <link>http://localhost:1313/posts/one-group-of-coal-miners-had-surprising-high-vitamin-d-levels-in-sept-suspect-low-cost-uvb/</link>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/one-group-of-coal-miners-had-surprising-high-vitamin-d-levels-in-sept-suspect-low-cost-uvb/</guid>
-      <description>&lt;h4 id=&#34;vitamin-d-status-and-its-correlation-with-anthropometric-and-biochemical-indicators-of-cardiometabolic-risk-in-serbian-underground-coal-miners-in-2016&#34;&gt;Vitamin D Status and Its Correlation With Anthropometric and Biochemical Indicators of Cardiometabolic Risk in Serbian Underground Coal Miners in 2016&lt;/h4&gt;&#xA;&lt;p&gt;Front Nutr. 2021 Aug 19;8:689214. &lt;a href=&#34;https://doi.org/10.3389/fnut.2021.689214.&#34;&gt;doi: 10.3389/fnut.2021.689214.&lt;/a&gt; eCollection 2021.&lt;/p&gt;&#xA;&lt;p&gt;Ivana Šarac 1, Jovica Jovanović 2, Manja Zec 1, Zoran Pavlović 3, Jasmina Debeljak-Martačić 1, Milica Zeković 1, Jelena Milešević 1, Mirjana Gurinović 1, Maria Glibetić 1&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Other mines had not found these high Vitamin D levels (3% &amp;lt;30 ng/ml. 11% &amp;gt; 80 ng/ml)&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Low Vitamin D if little UVB, supplementation helps (Antarctica) – meta-analysis</title>
-      <link>http://localhost:1313/posts/low-vitamin-d-if-little-uvb-supplementation-helps-antarctica-meta-analysis/</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/low-vitamin-d-if-little-uvb-supplementation-helps-antarctica-meta-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>RDA of Vitamins and minerals reduced incarceration by 2,993 dollars per prisoner – RCT</title>
-      <link>http://localhost:1313/posts/rda-of-vitamins-and-minerals-reduced-incarceration-by-2993-dollars-per-prisoner-rct/</link>
-      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rda-of-vitamins-and-minerals-reduced-incarceration-by-2993-dollars-per-prisoner-rct/</guid>
-      <description>&lt;h4 id=&#34;the-effects-of-vitamin-mineral-supplements-on-serious-rule-violations-in-correctional-facilities-for-young-adult-male-inmates-a-randomized-controlled-trial&#34;&gt;The Effects of Vitamin-Mineral Supplements on Serious Rule Violations in Correctional Facilities for Young Adult Male Inmates: A Randomized Controlled Trial&lt;/h4&gt;&#xA;&lt;p&gt;Crime &amp;amp; Delinquency January 25, 2021 &lt;a href=&#34;https://doi.org/10.1177/0011128721989073&#34;&gt;https://doi.org/10.1177/0011128721989073&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stephen Schoenthaler, David Gast, Erik J. Giltay, &amp;hellip;&lt;/p&gt;&#xA;&lt;div class=&#34;border&#34; style=&#34;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&#34;&gt;&#xA;&lt;p&gt;Those getting RDA violated fewer rules and so got paroled earlier&lt;/p&gt;&#xA;&lt;p&gt;Total savings for the reduced incarceration time was $449,000 for 150 participants&lt;/p&gt;&#xA;&lt;p&gt;15 weeks of just RDA for 150 prisoners might cost $449.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nursing homes could reduce risk of COVID-19 with Vitamin D</title>
-      <link>http://localhost:1313/posts/nursing-homes-could-reduce-risk-of-covid-19-with-vitamin-d/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nursing-homes-could-reduce-risk-of-covid-19-with-vitamin-d/</guid>
-      <description>&lt;h4 id=&#34;nursing-home-residents-could-reduce-risk-of-covid-19-by-supplementing-with-vitamin-d3&#34;&gt;Nursing home residents could reduce risk of COVID-19 by supplementing with vitamin D3&lt;/h4&gt;&#xA;&lt;p&gt;Letter to Editor: BMJ 2020; 369 &lt;a href=&#34;https://doi.org/https&#34;&gt;doi: https&lt;/a&gt;://doi.org/10.1136/bmj.m2530&lt;/p&gt;&#xA;&lt;p&gt;Grant WB, Carole A. Baggerly, Harjit P. Bhattoa, Barbara J. Boucher 4 Meis Moukayed,,Pawel Pludowski ,.&lt;/p&gt;&#xA;&lt;p&gt;As discussed in BMJ and elsewhere, COVID-19 case and death rates in care homes are high and are extending the pandemic 1. The primary reasons are that the residents are generally elderly and in poor health and in close proximity to each other. Another important reason is thought to be that residents and care givers in nursing homes tend to be vitamin D deficient and those with vitamin D deficiency in nursing homes have higher mortality rates &lt;sup&gt;[2]&lt;/sup&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Simulated Mars trip ran low on vitamin D (no supplements, no UV)</title>
-      <link>http://localhost:1313/posts/simulated-mars-trip-ran-low-on-vitamin-d-no-supplements-no-uv/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/simulated-mars-trip-ran-low-on-vitamin-d-no-supplements-no-uv/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shut-In on VitaminDWiki</title><link>//localhost:1313/categories/shut-in.html</link><description>Recent content in Shut-In on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/shut-in/index.xml" rel="self" type="application/rss+xml"/><item><title>Indoor athletes have 4.5 ng less Vitamin D (Asia in this case) – meta-analysis</title><link>//localhost:1313/posts/indoor-athletes-have-45-ng-less-vitamin-d-asia-in-this-case-meta-analysis.html</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/indoor-athletes-have-45-ng-less-vitamin-d-asia-in-this-case-meta-analysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#difference-in-levels-of-vitamin-d-between-indoor-and-outdoor-athletes-a-systematic-review-and-meta-analysis">Difference in Levels of Vitamin D between Indoor and Outdoor Athletes: A Systematic Review and Meta-Analysis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki--shiftwork-like-indoor-sports-also-reduces-vitamin-dpostsshift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis">VitaminDWiki – &lt;a href="//localhost:1313/posts/shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis">Shiftwork. like indoor sports, also reduces Vitamin D&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="difference-in-levels-of-vitamin-d-between-indoor-and-outdoor-athletes-a-systematic-review-and-meta-analysis">Difference in Levels of Vitamin D between Indoor and Outdoor Athletes: A Systematic Review and Meta-Analysis&lt;/h4>
+&lt;p>Int J Mol Sci . 2023 Apr 20;24(8):7584. &lt;a href="https://doi.org/10.3390/ijms24087584">doi: 10.3390/ijms24087584&lt;/a> DOI: 10.3390/ijms24087584&lt;/p>
+&lt;p>Maria Bârsan 1, Vlad-Florin Chelaru 2, Armand-Gabriel Râjnoveanu 1, Ștefan Lucian Popa 3, Andreea-Iulia Socaciu 1, Andrei-Vlad Bădulescu 2&lt;/p></description></item><item><title>Submariners need Vitamin D (no surprise) – Review</title><link>//localhost:1313/posts/submariners-need-vitamin-d-no-surprise-review.html</link><pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/submariners-need-vitamin-d-no-surprise-review.html</guid><description>&lt;h4 id="vitamin-d-status-in-active-duty-navy-military-personnel-a-systematic-review">Vitamin D status in active duty Navy military personnel: a systematic review&lt;/h4>
+&lt;p>Occup Environ Med . 2023 Apr 3;oemed-2022-108710. &lt;a href="https://doi.org/10.1136/oemed-2022-108710">doi: 10.1136/oemed-2022-108710&lt;/a>&lt;/p>
+&lt;p>Moisés Henriques 1 2, Diogo Rodrigues 3, Susana Viegas 2, Florentino Serranheira 2, Ema Sacadura-Leite 2 4&lt;/p>
+&lt;p>Objectives: Active duty Navy military personnel are prone to vitamin D deficiency due to an occupational environment detrimental to sunlight exposure. The main objective of this systematic review is to provide a worldwide overview of vitamin D status in this population.&lt;/p></description></item><item><title>COVID 5X more likely if in prison (low Vitamin D, etc)</title><link>//localhost:1313/posts/covid-5x-more-likely-if-in-prison-low-vitamin-d-etc.html</link><pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/covid-5x-more-likely-if-in-prison-low-vitamin-d-etc.html</guid><description/></item><item><title>One group of coal miners had surprising high Vitamin D levels in Sept (suspect low-cost UVB)</title><link>//localhost:1313/posts/one-group-of-coal-miners-had-surprising-high-vitamin-d-levels-in-sept-suspect-low-cost-uvb.html</link><pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/one-group-of-coal-miners-had-surprising-high-vitamin-d-levels-in-sept-suspect-low-cost-uvb.html</guid><description>&lt;h4 id="vitamin-d-status-and-its-correlation-with-anthropometric-and-biochemical-indicators-of-cardiometabolic-risk-in-serbian-underground-coal-miners-in-2016">Vitamin D Status and Its Correlation With Anthropometric and Biochemical Indicators of Cardiometabolic Risk in Serbian Underground Coal Miners in 2016&lt;/h4>
+&lt;p>Front Nutr. 2021 Aug 19;8:689214. &lt;a href="https://doi.org/10.3389/fnut.2021.689214.">doi: 10.3389/fnut.2021.689214.&lt;/a> eCollection 2021.&lt;/p>
+&lt;p>Ivana Šarac 1, Jovica Jovanović 2, Manja Zec 1, Zoran Pavlović 3, Jasmina Debeljak-Martačić 1, Milica Zeković 1, Jelena Milešević 1, Mirjana Gurinović 1, Maria Glibetić 1&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>Other mines had not found these high Vitamin D levels (3% &amp;lt;30 ng/ml. 11% &amp;gt; 80 ng/ml)&lt;/strong>&lt;/p></description></item><item><title>Low Vitamin D if little UVB, supplementation helps (Antarctica) – meta-analysis</title><link>//localhost:1313/posts/low-vitamin-d-if-little-uvb-supplementation-helps-antarctica-meta-analysis.html</link><pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/low-vitamin-d-if-little-uvb-supplementation-helps-antarctica-meta-analysis.html</guid><description/></item><item><title>RDA of Vitamins and minerals reduced incarceration by 2,993 dollars per prisoner – RCT</title><link>//localhost:1313/posts/rda-of-vitamins-and-minerals-reduced-incarceration-by-2993-dollars-per-prisoner-rct.html</link><pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/rda-of-vitamins-and-minerals-reduced-incarceration-by-2993-dollars-per-prisoner-rct.html</guid><description>&lt;h4 id="the-effects-of-vitamin-mineral-supplements-on-serious-rule-violations-in-correctional-facilities-for-young-adult-male-inmates-a-randomized-controlled-trial">The Effects of Vitamin-Mineral Supplements on Serious Rule Violations in Correctional Facilities for Young Adult Male Inmates: A Randomized Controlled Trial&lt;/h4>
+&lt;p>Crime &amp;amp; Delinquency January 25, 2021 &lt;a href="https://doi.org/10.1177/0011128721989073">https://doi.org/10.1177/0011128721989073&lt;/a>&lt;/p>
+&lt;p>Stephen Schoenthaler, David Gast, Erik J. Giltay, &amp;hellip;&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>Those getting RDA violated fewer rules and so got paroled earlier&lt;/p>
+&lt;p>Total savings for the reduced incarceration time was $449,000 for 150 participants&lt;/p>
+&lt;p>15 weeks of just RDA for 150 prisoners might cost $449.&lt;/p></description></item><item><title>Nursing homes could reduce risk of COVID-19 with Vitamin D</title><link>//localhost:1313/posts/nursing-homes-could-reduce-risk-of-covid-19-with-vitamin-d.html</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/nursing-homes-could-reduce-risk-of-covid-19-with-vitamin-d.html</guid><description>&lt;h4 id="nursing-home-residents-could-reduce-risk-of-covid-19-by-supplementing-with-vitamin-d3">Nursing home residents could reduce risk of COVID-19 by supplementing with vitamin D3&lt;/h4>
+&lt;p>Letter to Editor: BMJ 2020; 369 &lt;a href="https://doi.org/https">doi: https&lt;/a>://doi.org/10.1136/bmj.m2530&lt;/p>
+&lt;p>Grant WB, Carole A. Baggerly, Harjit P. Bhattoa, Barbara J. Boucher 4 Meis Moukayed,,Pawel Pludowski ,.&lt;/p>
+&lt;p>As discussed in BMJ and elsewhere, COVID-19 case and death rates in care homes are high and are extending the pandemic 1. The primary reasons are that the residents are generally elderly and in poor health and in close proximity to each other. Another important reason is thought to be that residents and care givers in nursing homes tend to be vitamin D deficient and those with vitamin D deficiency in nursing homes have higher mortality rates &lt;sup>[2]&lt;/sup>.&lt;/p></description></item><item><title>Simulated Mars trip ran low on vitamin D (no supplements, no UV)</title><link>//localhost:1313/posts/simulated-mars-trip-ran-low-on-vitamin-d-no-supplements-no-uv.html</link><pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/simulated-mars-trip-ran-low-on-vitamin-d-no-supplements-no-uv.html</guid><description/></item></channel></rss>

@@ -3,7 +3,8 @@ title: "Better Surgical outcomes if preceded by Vitamin D loading dose"
 slug: "better-surgical-outcomes-if-preceded-by-vitamin-d-loading-dose"
 aliases:
   - "/Better+Surgical+outcomes+if+preceded+by+Vitamin+D+loading+dose+–+Oct+2018"
-  - "/tiki-index.php?page_id=10155"
+  - "/10155"
+tiki_page_id: 10155
 date: 2018-10-25
 categories:
   - "Trauma and surgery"

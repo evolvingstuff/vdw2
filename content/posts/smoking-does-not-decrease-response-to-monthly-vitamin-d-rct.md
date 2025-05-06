@@ -3,7 +3,8 @@ title: "Smoking does not decrease response to monthly Vitamin D – RCT"
 slug: "smoking-does-not-decrease-response-to-monthly-vitamin-d-rct"
 aliases:
   - "/Smoking+does+not+decrease+response+to+monthly+Vitamin+D+–+RCT+July+2020"
-  - "/tiki-index.php?page_id=14395"
+  - "/14395"
+tiki_page_id: 14395
 date: 2023-04-24
 categories:
   - "Intervention - non daily"

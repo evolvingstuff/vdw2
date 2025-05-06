@@ -3,7 +3,8 @@ title: "A Medical School COVID-19 protocol includes Vitamin D for all phases –
 slug: "a-medical-school-covid-19-protocol-includes-vitamin-d-for-all-phases-marik"
 aliases:
   - "/A+Medical+School+COVID-19+protocol+includes+Vitamin+D+for+all+phases+–+Marik+Nov+2020"
-  - "/tiki-index.php?page_id=12115"
+  - "/12115"
+tiki_page_id: 12115
 date: 2020-12-05
 categories:
   - "Virus"

@@ -3,7 +3,8 @@ title: "Higher vitamin D level in mother results in higher level in newborn"
 slug: "higher-vitamin-d-level-in-mother-results-in-higher-level-in-newborn"
 aliases:
   - "/Higher+vitamin+D+level+in+mother+results+in+higher+level+in+newborn+-+Feb+2023"
-  - "/tiki-index.php?page_id=14276"
+  - "/14276"
+tiki_page_id: 14276
 date: 2023-02-22
 categories:
   - "Pregnancy"

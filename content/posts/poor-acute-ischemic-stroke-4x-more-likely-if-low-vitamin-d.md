@@ -3,7 +3,8 @@ title: "Poor Acute Ischemic Stroke 4X more likely if low Vitamin D"
 slug: "poor-acute-ischemic-stroke-4x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Poor+Acute+Ischemic+Stroke+4X+more+likely+if+low+Vitamin+D+-+Nov+2023"
-  - "/tiki-index.php?page_id=14879"
+  - "/14879"
+tiki_page_id: 14879
 date: 2023-12-10
 ---
 

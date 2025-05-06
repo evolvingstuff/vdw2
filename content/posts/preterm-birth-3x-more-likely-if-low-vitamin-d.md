@@ -3,7 +3,8 @@ title: "Preterm birth 3X more likely if low vitamin D"
 slug: "preterm-birth-3x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Preterm+birth+3X+more+likely+if+low+vitamin+D+–+Oct+2018"
-  - "/tiki-index.php?page_id=10474"
+  - "/10474"
+tiki_page_id: 10474
 date: 2019-02-07
 categories:
   - "Pregnancy"

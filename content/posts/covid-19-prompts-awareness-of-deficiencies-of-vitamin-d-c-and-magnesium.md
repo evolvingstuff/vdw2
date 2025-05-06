@@ -3,7 +3,8 @@ title: "COVID-19 prompts awareness of deficiencies of Vitamin D, C and Magnesium
 slug: "covid-19-prompts-awareness-of-deficiencies-of-vitamin-d-c-and-magnesium"
 aliases:
   - "/COVID-19+prompts+awareness+of+deficiencies+of+Vitamin+D+C+and+Magnesium+-+April+6+2020"
-  - "/tiki-index.php?page_id=11719"
+  - "/11719"
+tiki_page_id: 11719
 date: 2020-04-07
 categories:
   - "Books, videos on Vitamin D"

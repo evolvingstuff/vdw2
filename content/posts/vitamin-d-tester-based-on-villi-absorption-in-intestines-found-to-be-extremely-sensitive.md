@@ -3,7 +3,8 @@ title: "Vitamin D tester based on villi absorption in intestines found to be ext
 slug: "vitamin-d-tester-based-on-villi-absorption-in-intestines-found-to-be-extremely-sensitive"
 aliases:
   - "/Vitamin+D+tester+based+on+villi+absorption+in+intestines+found+to+be+extremely+sensitive+–+Sept+2021"
-  - "/tiki-index.php?page_id=12611"
+  - "/12611"
+tiki_page_id: 12611
 date: 2021-05-28
 categories:
   - "Tests for Vitamin D"

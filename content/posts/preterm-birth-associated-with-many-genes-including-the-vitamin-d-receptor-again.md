@@ -3,7 +3,8 @@ title: "Preterm birth associated with many genes, including the Vitamin D Recept
 slug: "preterm-birth-associated-with-many-genes-including-the-vitamin-d-receptor-again"
 aliases:
   - "/Preterm+birth+associated+with+many+genes+including+the+Vitamin+D+Receptor+again+–+Jan+2020"
-  - "/tiki-index.php?page_id=11600"
+  - "/11600"
+tiki_page_id: 11600
 date: 2020-01-30
 categories:
   - "Pregnancy"

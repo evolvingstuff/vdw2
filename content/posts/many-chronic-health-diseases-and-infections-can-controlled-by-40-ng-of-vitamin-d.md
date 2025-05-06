@@ -3,7 +3,8 @@ title: "Many Chronic Health Diseases and Infections can controlled by 40 ng of V
 slug: "many-chronic-health-diseases-and-infections-can-controlled-by-40-ng-of-vitamin-d"
 aliases:
   - "/Many+Chronic+Health+Diseases+and+Infections+can+controlled+by+40+ng+of+Vitamin+D+–+Aug+2023"
-  - "/tiki-index.php?page_id=14616"
+  - "/14616"
+tiki_page_id: 14616
 date: 2023-08-18
 ---
 

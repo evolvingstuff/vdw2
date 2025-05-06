@@ -3,7 +3,8 @@ title: "Long-term Psoriasis cured by 30,000 to 60,000 IU of Vitamin D daily (pic
 slug: "long-term-psoriasis-cured-by-30000-to-60000-iu-of-vitamin-d-daily-pictures-and-video-early-2022"
 aliases:
   - "/Long-term+Psoriasis+cured+by+30000+to+60000+IU+of+Vitamin+D+daily+pictures+and+video+–+early+2022"
-  - "/tiki-index.php?page_id=13769"
+  - "/13769"
+tiki_page_id: 13769
 date: 2022-07-18
 categories:
   - "Psoriasis"

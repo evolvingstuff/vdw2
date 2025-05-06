@@ -3,7 +3,8 @@ title: "Preeclampsia (hypertension while pregnant) varies with season (O.R. 0.57
 slug: "preeclampsia-hypertension-while-pregnant-varies-with-season-or-057"
 aliases:
   - "/Preeclampsia+hypertension+while+pregnant+varies+with+season+OR+057+–+June+2021"
-  - "/tiki-index.php?page_id=12679"
+  - "/12679"
+tiki_page_id: 12679
 date: 2021-06-22
 categories:
   - "Pregnancy"

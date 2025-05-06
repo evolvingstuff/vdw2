@@ -3,7 +3,8 @@ title: "Vitamin D during pregnancy increased child’s bone mineral density – 
 slug: "vitamin-d-during-pregnancy-increased-childs-bone-mineral-density-meta-analysis"
 aliases:
   - "/Vitamin+D+during+pregnancy+increased+childs+bone+mineral+density+–+meta-analysis+April+2023"
-  - "/tiki-index.php?page_id=14399"
+  - "/14399"
+tiki_page_id: 14399
 date: 2023-04-27
 categories:
   - "Pregnancy"

@@ -3,7 +3,8 @@ title: "7 Factors that Make People Likely to be Magnesium Deficient - GRH"
 slug: "7-factors-that-make-people-likely-to-be-magnesium-deficient-grh"
 aliases:
   - "/7+Factors+that+Make+People+Likely+to+be+Magnesium+Deficient+-+GRH+Oct+2023"
-  - "/tiki-index.php?page_id=14755"
+  - "/14755"
+tiki_page_id: 14755
 date: 2023-10-16
 categories:
   - "Vitamin D and Magnesium"

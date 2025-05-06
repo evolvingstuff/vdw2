@@ -3,7 +3,8 @@ title: "How Vitamin D fights neurodegeneration (Multiple Sclerosis, Alzheimer’
 slug: "how-vitamin-d-fights-neurodegeneration-multiple-sclerosis-alzheimers-dementia-etc"
 aliases:
   - "/How+Vitamin+D+fights+neurodegeneration+Multiple+Sclerosis+Alzheimers+Dementia+etc+–+Jan+2023"
-  - "/tiki-index.php?page_id=14207"
+  - "/14207"
+tiki_page_id: 14207
 date: 2023-01-12
 categories:
   - "Multiple Sclerosis"

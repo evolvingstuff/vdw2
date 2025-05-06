@@ -3,7 +3,8 @@ title: "Influenza, pneumonia, or ear infections almost 2X more likely if low vit
 slug: "influenza-pneumonia-or-ear-infections-almost-2x-more-likely-if-low-vitamin-d"
 aliases:
   - "/Influenza+pneumonia+or+ear+infections+almost+2X+more+likely+if+low+vitamin+D+-+Jan+2023"
-  - "/tiki-index.php?page_id=14308"
+  - "/14308"
+tiki_page_id: 14308
 date: 2023-03-15
 ---
 

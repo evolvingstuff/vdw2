@@ -3,7 +3,8 @@ title: "Medicare kicks-back 6 percent of price of an administered drug to physic
 slug: "medicare-kicks-back-6-percent-of-price-of-an-administered-drug-to-physicians-per-lzheimers-drugs"
 aliases:
   - "/Medicare+kicks-back+6+percent+of+price+of+an+administered+drug+to+physicians+perhaps+6+billion+dollars+annually+for+Aduhelm+Alzheimers+drugs"
-  - "/tiki-index.php?page_id=12653"
+  - "/12653"
+tiki_page_id: 12653
 date: 2021-06-13
 categories:
   - "Off Topic"
