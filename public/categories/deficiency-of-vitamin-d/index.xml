@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deficiency of Vitamin D on VitaminDWiki</title><link>//localhost:1313/categories/deficiency-of-vitamin-d.html</link><description>Recent content in Deficiency of Vitamin D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/deficiency-of-vitamin-d/index.xml" rel="self" type="application/rss+xml"/><item><title>7 signs your body is begging you for vitamin D</title><link>//localhost:1313/posts/7-signs-your-body-is-begging-you-for-vitamin-d.html</link><pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/7-signs-your-body-is-begging-you-for-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#you-need-to-take-more-of-thishttpswwwyoutubecomwatchvrp7_uepvk3q---dr-berg-3-minute-video">&lt;a href="https://www.youtube.com/watch?v=rP7_UePVK3Q">You Need to Take More of This&lt;/a> - Dr. Berg 3 minute video&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="you-need-to-take-more-of-thishttpswwwyoutubecomwatchvrp7_uepvk3q---dr-berg-3-minute-video">&lt;a href="https://www.youtube.com/watch?v=rP7_UePVK3Q">You Need to Take More of This&lt;/a> - Dr. Berg 3 minute video&lt;/h4>
+&lt;p>&lt;strong>7 signs&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>High blood pressure&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Lowered mood&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Inflammation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Weak immune system&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sleep problems&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Skin issues&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Low back pain or muscle pain&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&amp;ldquo;Consider taking 10,000 IU of vitamin D3 daily. If you’re worried about vitamin D toxicity,&lt;br>
+keep in mind that if you go out in the sun for only 30 to 45 minutes, you’re getting about 20,000 IU of vitamin D,&lt;br>
+so 10,000 IU is not much for your body to handle. &amp;quot;&lt;/li>
+&lt;/ul>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### [You Need to Take More of This](https://www.youtube.com/watch?v=rP7_UePVK3Q) - Dr. Berg 3 minute video
+
+ **7 signs** 
+
+1. High blood pressure
+
+2. Lowered mood
+
+3. Inflammation 
+
+4. Weak immune system 
+
+5. Sleep problems 
+
+6. Skin issues 
+
+7. Low back pain or muscle pain 
+
+ 
+
+* &amp;quot;Consider taking 10,000 IU of vitamin D3 daily. If you’re worried about vitamin D toxicity, 
+keep in mind that if you go out in the sun for only 30 to 45 minutes, you’re getting about 20,000 IU of vitamin D, 
+ so 10,000 IU is not much for your body to handle. &amp;quot;
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!![https://www.youtube.com/watch?v=rP7_UePVK3Q|You Need to Take More of This] - Dr. Berg 3 minute video`
+│ inner_content: `[https://www.youtube.com/watch?v=rP7_UePVK3Q|You Need to Take More of This] - Dr. Berg 3 minute video`
+│ level: `4`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.youtube.com/watch?v=rP7_UePVK3Q|You Need to Take More of This]`
+│ │ inner_content: `You Need to Take More of This`
+│ │ url: `https://www.youtube.com/watch?v=rP7_UePVK3Q`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `You Need to Take More of This`
+│ │ │ inner_content: `You Need to Take More of This`
+│ ├── TextNode
+│ │ full_match: ` - Dr. Berg 3 minute video`
+│ │ inner_content: ` - Dr. Berg 3 minute video`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── DivNode
+│ full_match: `{DIV(style=&amp;quot;font-size:20px;&amp;quot;)}\n__7 signs__\n1. High blood pressure\n2. Lowered mood\n3. Inflammation \n4. Weak immune system \n5. Sleep problems \n6. Skin issues \n7. Low back pain or muscle pain \n{DIV}`
+│ inner_content: `\n__7 signs__\n1. High blood pressure\n2. Lowered mood\n3. Inflammation \n4. Weak immune system \n5. Sleep problems \n6. Skin issues \n7. Low back pain or muscle pain \n`
+│ attrs_dict:
+│ │ raw_content: (style=&amp;quot;font-size:20px;&amp;quot;)
+│ │ style: font-size:20px;
+│ children:
+│ ├── TextNode
+│ │ full_match: `\n`
+│ │ inner_content: `\n`
+│ ├── BoldNode
+│ │ full_match: `__7 signs__`
+│ │ inner_content: `7 signs`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `7 signs`
+│ │ │ inner_content: `7 signs`
+│ ├── TextNode
+│ │ full_match: `\n1. High blood pressure\n2. Lowered mood\n3. Inflammation \n4. Weak immune system \n5. Sleep problems \n6. Skin issues \n7. Low back pain or muscle pain \n`
+│ │ inner_content: `\n1. High blood pressure\n2. Lowered mood\n3. Inflammation \n4. Weak immune system \n5. Sleep problems \n6. Skin issues \n7. Low back pain or muscle pain \n`├── TextNode
+│ full_match: ` \n`
+│ inner_content: ` \n`├── ListItemNode
+│ full_match: `*&amp;quot;Consider taking 10,000 IU of vitamin D3 daily. If you’re worried about vitamin D toxicity, %%%keep in mind that if you go out in the sun for only 30 to 45 minutes, you’re getting about 20,000 IU of vitamin D,%%% so 10,000 IU is not much for your body to handle. &amp;quot;`
+│ inner_content: `&amp;quot;Consider taking 10,000 IU of vitamin D3 daily. If you’re worried about vitamin D toxicity, %%%keep in mind that if you go out in the sun for only 30 to 45 minutes, you’re getting about 20,000 IU of vitamin D,%%% so 10,000 IU is not much for your body to handle. &amp;quot;`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `&amp;quot;Consider taking 10,000 IU of vitamin D3 daily. If you’re worried about vitamin D toxicity, `
+│ │ inner_content: `&amp;quot;Consider taking 10,000 IU of vitamin D3 daily. If you’re worried about vitamin D toxicity, `
+│ ├── NewlineNode
+│ │ full_match: `%%%`
+│ │ inner_content: ``
+│ ├── TextNode
+│ │ full_match: `keep in mind that if you go out in the sun for only 30 to 45 minutes, you’re getting about 20,000 IU of vitamin D,`
+│ │ inner_content: `keep in mind that if you go out in the sun for only 30 to 45 minutes, you’re getting about 20,000 IU of vitamin D,`
+│ ├── NewlineNode
+│ │ full_match: `%%%`
+│ │ inner_content: ``
+│ ├── TextNode
+│ │ full_match: ` so 10,000 IU is not much for your body to handle. &amp;quot;`
+│ │ inner_content: ` so 10,000 IU is not much for your body to handle. &amp;quot;`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki - ((Signs of Vitamin D Deficiency - many studies))`
+│ inner_content: `VitaminDWiki - ((Signs of Vitamin D Deficiency - many studies))`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki - `
+│ │ inner_content: `VitaminDWiki - `
+│ ├── LocalLinkNode
+│ │ full_match: `((Signs of Vitamin D Deficiency - many studies))`
+│ │ inner_content: `Signs of Vitamin D Deficiency - many studies`
+│ │ page: `Signs of Vitamin D Deficiency - many studies`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Signs of Vitamin D Deficiency - many studies`
+│ │ │ inner_content: `Signs of Vitamin D Deficiency - many studies`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── TikiCommentNode
+│ full_match: `~tc~ (alias(s your body begging you for vitamin D - June 2024)) ~/tc~`
+│ inner_content: ` (alias(s your body begging you for vitamin D - June 2024)) `
+│ children:
+│ ├── TextNode
+│ │ full_match: `(alias(s your body begging you for vitamin D - June 2024)) `
+│ │ inner_content: `(alias(s your body begging you for vitamin D - June 2024)) `
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!![https://www.youtube.com/watch?v=rP7_UePVK3Q|You Need to Take More of This] - Dr. Berg 3 minute video
+{DIV(style=&amp;quot;font-size:20px;&amp;quot;)}
+__7 signs__
+1. High blood pressure
+2. Lowered mood
+3. Inflammation 
+4. Weak immune system 
+5. Sleep problems 
+6. Skin issues 
+7. Low back pain or muscle pain 
+ {DIV} 
+*&amp;quot;Consider taking 10,000 IU of vitamin D3 daily. If you’re worried about vitamin D toxicity, %%%keep in mind that if you go out in the sun for only 30 to 45 minutes, you’re getting about 20,000 IU of vitamin D,%%% so 10,000 IU is not much for your body to handle. &amp;quot;
+---
+!!!!VitaminDWiki - ((Signs of Vitamin D Deficiency - many studies))
+~tc~ (alias(s your body begging you for vitamin D - June 2024)) ~/tc~
+&lt;/code>
+&lt;/pre></description></item><item><title>Only 3.4% of Portuguese children get vitamin D supplements (good dose taken weekly costs only 50 cents)</title><link>//localhost:1313/posts/only-34-percent-of-portuguese-children-get-vitamin-d-supplements-good-dose-taken-s-only-50-cents.html</link><pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/only-34-percent-of-portuguese-children-get-vitamin-d-supplements-good-dose-taken-s-only-50-cents.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#are-sun-exposure-time-dietary-patterns-and-vitamin-d-intake-related-to-the-socioeconomic-status-of-portuguese-children">Are sun exposure time, dietary patterns, and vitamin D intake related to the socioeconomic status of Portuguese children?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#liquid-vitamin-d-nanoemulsion-seems-best-for-children---no-swallowing-problems-low-cost">Liquid Vitamin D nanoemulsion seems best for children - no swallowing problems, low cost&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="are-sun-exposure-time-dietary-patterns-and-vitamin-d-intake-related-to-the-socioeconomic-status-of-portuguese-children">Are sun exposure time, dietary patterns, and vitamin D intake related to the socioeconomic status of Portuguese children?&lt;/h4>
+&lt;p>Am J Hum Biol. 2024 May 28:e24109. &lt;a href="https://doi.org/10.1002/ajhb.24109">doi: 10.1002/ajhb.24109&lt;/a> PDF behind Paywall&lt;/p>
+&lt;p>Elizabete A Dos Santos 1, Lígia Araújo Martini Cavalheiro 1, Daniela Rodrigues 2, Aristides Machado-Rodrigues 3, Maria-Raquel Silva 2 4 5, Helena Nogueira 6, Cristina Padez 2&lt;/p></description></item><item><title>82% of Chinese hospital staff had less than 12 ng of Vitamin D (65% of patients)</title><link>//localhost:1313/posts/82-percent-of-chinese-hospital-staff-had-less-than-12-ng-of-vitamin-d-65-percent-of-patients.html</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/82-percent-of-chinese-hospital-staff-had-less-than-12-ng-of-vitamin-d-65-percent-of-patients.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#high-prevalence-and-risk-factors-associated-with-vitamin-d-deficiency-among-chinese-hospital-staff-a-cross-sectional-study">High Prevalence and Risk Factors Associated with Vitamin D Deficiency Among Chinese Hospital Staff: A Cross-Sectional Study&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="high-prevalence-and-risk-factors-associated-with-vitamin-d-deficiency-among-chinese-hospital-staff-a-cross-sectional-study">High Prevalence and Risk Factors Associated with Vitamin D Deficiency Among Chinese Hospital Staff: A Cross-Sectional Study&lt;/h4>
+&lt;p>Int J Gen Med. 2024 May 3:17:1833-1843. &lt;a href="https://doi.org/10.2147/IJGM.S45347">doi: 10.2147/IJGM.S45347&lt;/a>&lt;/p>
+&lt;p>Fang Gao # 1, Xialin Zhang # 2, Xiaolan Wang 2, Junyan Zhang 3, Fang Wang 1, Yan Zhou 4, Jing Wang 1, Xuewen Li 5, Ruijuan Zhang 2&lt;/p></description></item><item><title>Our World in Data - Vitamin D deficiency map - 2023</title><link>//localhost:1313/posts/our-world-in-data-vitamin-d-deficiency-map-2023.html</link><pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/our-world-in-data-vitamin-d-deficiency-map-2023.html</guid><description>&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="900">
+&lt;p>&lt;strong>?? &amp;lt; 20 ng ??&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://books.google.com/books?id=9-cEEQAAQBAJ&amp;amp;newbks=0&amp;amp;printsec=frontcover&amp;amp;pg=PA57&amp;amp;dq=+%22Vitamin+D%22+OR+%22Vitamin+D3%22+OR+cholecalciferol&amp;amp;hl=en&amp;amp;source=newbks_fb#v=onepage&amp;amp;q=%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol&amp;amp;f=true">Vitamin D Fortification - 2024 book chapter&lt;/a>&lt;/p>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+&amp;lt;img src=&amp;quot;/attachments/d3.mock.jpg&amp;quot; alt=&amp;quot;image&amp;quot; width=&amp;quot;900&amp;quot;&amp;gt;
+
+ **?? &amp;lt; 20 ng ??** 
+
+[Vitamin D Fortification - 2024 book chapter](https://books.google.com/books?id=9-cEEQAAQBAJ&amp;amp;newbks=0&amp;amp;printsec=frontcover&amp;amp;pg=PA57&amp;amp;dq=+%22Vitamin+D%22+OR+%22Vitamin+D3%22+OR+cholecalciferol&amp;amp;hl=en&amp;amp;source=newbks_fb#v=onepage&amp;amp;q=%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol&amp;amp;f=true)
+
+
+AST Structure:
+-------------
+├── ImgNode
+│ full_match: `{img type=&amp;quot;fileId&amp;quot; fileId=&amp;quot;3393&amp;quot; width=&amp;quot;900&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: type=&amp;quot;fileId&amp;quot; fileId=&amp;quot;3393&amp;quot; width=&amp;quot;900&amp;quot;
+│ │ type: fileId
+│ │ fileId: 3393
+│ │ width: 900├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__?? &amp;lt; 20 ng ??__`
+│ inner_content: `?? &amp;lt; 20 ng ??`
+│ children:
+│ ├── TextNode
+│ │ full_match: `?? &amp;lt; 20 ng ??`
+│ │ inner_content: `?? &amp;lt; 20 ng ??`├── TextNode
+│ full_match: `\n\n`
+│ inner_content: `\n\n`├── LinkNode
+│ full_match: `[https://books.google.com/books?id=9-cEEQAAQBAJ&amp;amp;newbks=0&amp;amp;printsec=frontcover&amp;amp;pg=PA57&amp;amp;dq=+%22Vitamin+D%22+OR+%22Vitamin+D3%22+OR+cholecalciferol&amp;amp;hl=en&amp;amp;source=newbks_fb#v=onepage&amp;amp;q=%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol&amp;amp;f=true|Vitamin D Fortification - 2024 book chapter]`
+│ inner_content: `Vitamin D Fortification - 2024 book chapter`
+│ url: `https://books.google.com/books?id=9-cEEQAAQBAJ&amp;amp;newbks=0&amp;amp;printsec=frontcover&amp;amp;pg=PA57&amp;amp;dq=+%22Vitamin+D%22+OR+%22Vitamin+D3%22+OR+cholecalciferol&amp;amp;hl=en&amp;amp;source=newbks_fb#v=onepage&amp;amp;q=%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol&amp;amp;f=true`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vitamin D Fortification - 2024 book chapter`
+│ │ inner_content: `Vitamin D Fortification - 2024 book chapter`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Overview Deficiency of vitamin D)) contains`
+│ inner_content: `VitaminDWiki – ((Overview Deficiency of vitamin D)) contains`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Overview Deficiency of vitamin D))`
+│ │ inner_content: `Overview Deficiency of vitamin D`
+│ │ page: `Overview Deficiency of vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Deficiency of vitamin D`
+│ │ │ inner_content: `Overview Deficiency of vitamin D`
+│ ├── TextNode
+│ │ full_match: ` contains`
+│ │ inner_content: ` contains`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Overview Deficiency of vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Overview Deficiency of vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Overview Deficiency of vitamin D
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── TextNode
+│ full_match: `\n\n`
+│ inner_content: `\n\n`
+
+Original Tiki:
+-------------
+{img type=&amp;quot;fileId&amp;quot; fileId=&amp;quot;3393&amp;quot; width=&amp;quot;900&amp;quot;}
+__?? &amp;lt; 20 ng ??__
+
+[https://books.google.com/books?id=9-cEEQAAQBAJ&amp;amp;newbks=0&amp;amp;printsec=frontcover&amp;amp;pg=PA57&amp;amp;dq=+%22Vitamin+D%22+OR+%22Vitamin+D3%22+OR+cholecalciferol&amp;amp;hl=en&amp;amp;source=newbks_fb#v=onepage&amp;amp;q=%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol&amp;amp;f=true|Vitamin D Fortification - 2024 book chapter]
+---
+!!!!VitaminDWiki – ((Overview Deficiency of vitamin D)) contains
+{include page=&amp;quot;Overview Deficiency of vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+
+
+&lt;/code>
+&lt;/pre></description></item><item><title>Vitamin D as get older: more D and less deficiency (UK Health Care workers)</title><link>//localhost:1313/posts/vitamin-d-as-get-older-more-d-and-less-deficiency-uk-health-care-workers.html</link><pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-as-get-older-more-d-and-less-deficiency-uk-health-care-workers.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vital-d-a-modifiable-occupational-risk-factor-of-uk-healthcare-workers">Vital D: A modifiable occupational risk factor of UK healthcare workers&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#examples-of-related-studies-in-vitamindwiki">Examples of related studies in VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vital-d-a-modifiable-occupational-risk-factor-of-uk-healthcare-workers">Vital D: A modifiable occupational risk factor of UK healthcare workers&lt;/h4>
+&lt;p>PLoS One. 2024 Apr 16;19(4):e0296247. &lt;a href="https://doi.org/10.1371/journal.pone.0296247">doi: 10.1371/journal.pone.0296247&lt;/a>&lt;/p>
+&lt;p>James Phelan 1, Angukumar Thangamuthu 1, Srinivasagam Muthumeenal 2, Kirsteen Houston 3, Mark Everton 1, Sathyanarayana Gowda 1, Jufen Zhang 4, Rengarajan Subramanian 1&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/uk-hcw2.webp" alt="image" width="600">
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/hcw-with-age.webp" alt="image" width="600">
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/uk-hcw.webp" alt="image" width="800">
+&lt;p>Background: The role of Vitamin D in immune function is well reported with a growing evidence base linking low levels to poorer outcomes from infectious disease. Vitamin D deficiency and insufficiency are prevalent worldwide with healthcare workers identified as a known at-risk group. Here we aim to investigate serum Vitamin D levels in a UK population of front line healthcare workers and to promote the occupational risk.&lt;/p></description></item><item><title>Am I low on Vitamin D</title><link>//localhost:1313/posts/am-i-low-on-vitamin-d.html</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/am-i-low-on-vitamin-d.html</guid><description>&lt;p>&lt;strong>Free Test&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/breastandshin.png" alt="image" width="400">
+&lt;h4 id="4-ways-to-find-out-if-you-are-low">4 ways to find out if you are low&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cost&lt;/td>
+ &lt;td>Time&lt;/td>
+ &lt;td>Result&lt;/td>
+ &lt;td>Description&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>FREE&lt;/td>
+ &lt;td>1 minute&lt;/td>
+ &lt;td>&amp;lt;10ng&lt;/td>
+ &lt;td>press on breastbone and both shinbones&lt;br>if 2 of 3 are painful then very low vitamin D&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>$10&lt;/td>
+ &lt;td>1 month&lt;/td>
+ &lt;td>N.A.&lt;/td>
+ &lt;td>&lt;a href="https://is.gd/60each50K">https://is.gd/60each50K&lt;/a> Amazon&lt;br>take one 50,000 IU daily for a week&lt;br>See if you feel a benefit&lt;br>If yes, take &lt;a href="//localhost:1313/posts/1-capsule-every-2-weeks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5217">1 capsule every 2 weeks&lt;/a> &lt;br>(very conservative, every easy, lowest cost)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>$35&lt;/td>
+ &lt;td>10 days&lt;/td>
+ &lt;td>&amp;lt;35 ng&lt;/td>
+ &lt;td>&lt;a href="https://is.gd/dtestqual">https://is.gd/dtestqual&lt;/a> Amazon UK&lt;br> 2 testers which look similar to COVID tester&lt;br>but uses 2 drops of blood instead of nasal mucus&lt;br>yes/no answer in 10 minutes&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>$55&lt;/td>
+ &lt;td>10 days&lt;/td>
+ &lt;td>quantitative&lt;br> 5 to 200 ng&lt;/td>
+ &lt;td>&lt;a href="https://is.gd/vitdtestquant">https://is.gd/vitdtestquant&lt;/a> Amazon&lt;br>Get results in &amp;lt;5 days&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h4 id="details-on-free-test">Details on Free Test&lt;/h4>
+&lt;p>&lt;strong>Press about 10 lbs with a thumb&lt;/strong>&lt;/p></description></item><item><title>15 Signs of Vitamin D Deficiency - video</title><link>//localhost:1313/posts/15-signs-of-vitamin-d-deficiency-video.html</link><pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/15-signs-of-vitamin-d-deficiency-video.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#video---jan-2024">Video - Jan 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chat-gpt-on-vitamin-d-deficiency----july-2023">Chat-GPT on Vitamin D Deficiency - July 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#24-a-hrefpostscriteria-to-associate-a-health-problem-with-low-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-criteria-to-associate-a-health-problem-with-low-vitamin-dcriteria-to-associate-a-health-problem-with-low-vitamin-da">24+ &lt;a href="//localhost:1313/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Criteria to associate a health problem with low vitamin D">Criteria to associate a health problem with low vitamin D&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="video---jan-2024">Video - Jan 2024&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=omv_3p9eCvo&amp;amp;ab_channel=ForHealthConscious">YouTube 7 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>01:04 ► Lack of Sun Exposure&lt;/p>
+&lt;p>01:25 ► Fatigue and Weakness&lt;/p>
+&lt;p>01:45 ► Bone and Joint Pain&lt;/p>
+&lt;p>02:05 ► Impaired Wound Healing&lt;/p>
+&lt;p>02:26 ► Muscle Pain and Weakness&lt;/p></description></item><item><title>Country noticed that their youths need more Vitamin D (Norway this time)</title><link>//localhost:1313/posts/country-noticed-that-their-youths-need-more-vitamin-d-norway-this-time.html</link><pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/country-noticed-that-their-youths-need-more-vitamin-d-norway-this-time.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-concentrations-were-often-insufficient-among-native-norwegian-adolescents-and-children-with-a-non-western-immigrant-background">Vitamin D concentrations were often insufficient among native Norwegian adolescents and children with a non-Western immigrant background&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#finland-has-learned-to-both-fortify-and-supplement--and-now-may-have-the-best-vitamin-d-level-on-the-planet">Finland has learned to both fortify and supplement – and now may have the best vitamin D level on the planet&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-concentrations-were-often-insufficient-among-native-norwegian-adolescents-and-children-with-a-non-western-immigrant-background">Vitamin D concentrations were often insufficient among native Norwegian adolescents and children with a non-Western immigrant background&lt;/h4>
+&lt;p>Acta Paediatr 2024 Mar;113(3):411-416. &lt;a href="https://doi.org/10.1111/apa.17078">doi: 10.1111/apa.17078&lt;/a>&lt;/p>
+&lt;p>Chandra Sekhar Devulapalli 1&lt;/p>
+&lt;p>Aim: The aim of this study was to review papers that assessed the vitamin D intake of children living in Norway, as research has suggested that it has remained below the recommended daily allowance of 10 μg/day.&lt;/p></description></item><item><title>If you eat ultra-processed foods, you need Vitamin D</title><link>//localhost:1313/posts/if-you-eat-ultra-processed-foods-you-need-vitamin-d.html</link><pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/if-you-eat-ultra-processed-foods-you-need-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#consumption-of-ultra-processed-products-is-associated-with-vitamin-d-deficiency-in-brazilian-adults-and-elderly">Consumption of ultra-processed products is associated with vitamin D deficiency in Brazilian adults and elderly&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2x-more-likely-to-be-vitamin-d-deficient-if-eat-ultra-processed-foods---6-possible-reasons">2X more likely to be Vitamin D deficient if eat ultra-processed foods - 6 possible reasons&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d---many-studiespostsultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-many-studies">See also: &lt;a href="//localhost:1313/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-many-studies">Ultra-processed foods associated with worse health and lower Vitamin D - many studies&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#likewise--you-can-reduce-a-hrefpostssmoking-reduces-vitamin-d-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-smoking-reduces-vitamin-d---many-studiessmoking-health-problemsa-if-you-take-vitamin-d">Likewise, you can reduce &lt;a href="//localhost:1313/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">smoking health problems&lt;/a> if you take Vitamin D&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="consumption-of-ultra-processed-products-is-associated-with-vitamin-d-deficiency-in-brazilian-adults-and-elderly">Consumption of ultra-processed products is associated with vitamin D deficiency in Brazilian adults and elderly&lt;/h4>
+&lt;p>Br J Nutr. 2023 Dec 28;130(12):2198-2205. &lt;a href="https:///10.1017/S000711452300154X">https:///10.1017/S000711452300154X&lt;/a>&lt;/p></description></item><item><title>Nutrient consumption – only 7% of recommended DRV of Vitamin D (German Children in this case)</title><link>//localhost:1313/posts/nutrient-consumption-only-7-percent-of-recommended-drv-of-vitamin-d-german-children-in-this-case.html</link><pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/nutrient-consumption-only-7-percent-of-recommended-drv-of-vitamin-d-german-children-in-this-case.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#unfavorable-nutrient-intakes-in-children-up-to-school-entry-age-results-from-the-nationwide-german-kiesel-study">Unfavorable nutrient intakes in children up to school entry age: results from the nationwide German KiESEL study&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="unfavorable-nutrient-intakes-in-children-up-to-school-entry-age-results-from-the-nationwide-german-kiesel-study">Unfavorable nutrient intakes in children up to school entry age: results from the nationwide German KiESEL study&lt;/h4>
+&lt;p>Front. Nutr., 23 January 2024 Volume 10 - 2023 | &lt;a href="https://doi.org/10.3389/fnut.2023.1302323">https://doi.org/10.3389/fnut.2023.1302323&lt;/a>&lt;/p>
+&lt;p>Leonie Burgard1 Sara Jansen2 Clarissa Spiegler1 Anna-Kristin Brettschneider2 Andrea Straßburg1 Ute Alexy3 Stefan Storcksdieck genannt Bonsmann1 Regina Ensenauer2 Thorsten Heuer1*&lt;/p>
+&lt;p>1 Department of Nutritional Behaviour, Max Rubner-Institut (MRI) – Federal Research Institute of Nutrition and Food, Karlsruhe, Germany&lt;/p></description></item><item><title>Seniors need more Vitamin D (Geriatric Ward in this case)</title><link>//localhost:1313/posts/seniors-need-more-vitamin-d-geriatric-ward-in-this-case.html</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/seniors-need-more-vitamin-d-geriatric-ward-in-this-case.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-status-among-patients-admitted-to-a-geriatric-ward-are-recommendations-for-preventing-its-deficiency-effective-enough">Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-status-among-patients-admitted-to-a-geriatric-ward-are-recommendations-for-preventing-its-deficiency-effective-enough">Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?&lt;/h4>
+&lt;p>Nutrients 2024 Jan 6;16(2):193. &lt;a href="https://doi.org/10.3390/nu16020193.">doi: 10.3390/nu16020193.&lt;/a>&lt;/p>
+&lt;p>Maksymilian Adam Lech 1, Marcin Warpechowski 1, Aleksandra Wojszel 1, Justyna Rentflejsz 2 3 4, Marta Świętek 4, Zyta Beata Wojszel 3 4&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/seniors.png" alt="image" width="200">
+&lt;p>Despite a decade of available recommendations aimed at preventing vitamin D (VD) deficiency in Poland, the efficacy of these measures among community-dwelling older individuals remains inconsistent. The PolSenior2 study provided valuable insights into VD status among community-dwelling older individuals in Poland. However, it is important to note that this research did not include the elderly living in care institutions. Therefore, our study concentrates on evaluating VD status in older patients admitted to a geriatrics ward to indirectly assess their adherence to existing recommendations and preventive actions in this particular setting (whether they translate into health-promoting behaviors (i.e., taking vitamin D supplements) and whether the recommended, optimal 25(OH)D concentration values are achieved). This approach offers a comprehensive understanding of VD status in a previously understudied population. We aimed to evaluate VD status in patients aged 70 and above within the geriatrics ward, exploring its association with age, sex, BMI, and the use of VD supplements. The study involved the measurement of serum VD concentration in 240 individuals. Of these participants, 177 (73.8%) were women, and 193 (80.4%) were over 75 years old.&lt;/p></description></item><item><title>14 Conservative Vitamin D recommendations in Ukraine</title><link>//localhost:1313/posts/14-conservative-vitamin-d-recommendations-in-ukraine.html</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/14-conservative-vitamin-d-recommendations-in-ukraine.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#ukrainian-consensus-on-diagnosis-and-management-of-vitamin-d-deficiency-in-adults">Ukrainian Consensus on Diagnosis and Management of Vitamin D Deficiency in Adults&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="ukrainian-consensus-on-diagnosis-and-management-of-vitamin-d-deficiency-in-adults">Ukrainian Consensus on Diagnosis and Management of Vitamin D Deficiency in Adults&lt;/h4>
+&lt;p>Nutrients 2024, 16, 270. &lt;a href="https://doi.org/10.3390/">https://doi.org/10.3390/&lt;/a> nu16020270&lt;/p>
+&lt;p>Nataliia Grygorieva * , Mykola Tronko 2, Volodymir Kovalenko 3, Serhiy Komisarenko 4 , Tetiana Tatarchuk 5, Ninel Dedukh 1, Mykola Veliky 4®, Serhiy Strafun 6C , Yulia Komisarenko 7C , Andrii Kalashnikov 6 , Valeria Orlenko 2, Volodymyr Pankiv 8 , Oleg Shvets 9 , Inna Gogunska 10 and Svitlana Regeda 11&lt;/p></description></item><item><title>Vitamin D recommended for infants by 98% of Belgian pediatricians - 2024</title><link>//localhost:1313/posts/vitamin-d-recommended-for-infants-by-98-percent-of-belgian-pediatricians-2024.html</link><pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-recommended-for-infants-by-98-percent-of-belgian-pediatricians-2024.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#self-reported-prescribing-behaviour-of-vitamin-d-prophylaxis-in-healthy-children-by-belgian-paediatricians">Self-reported prescribing behaviour of vitamin D prophylaxis in healthy children by Belgian paediatricians&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="self-reported-prescribing-behaviour-of-vitamin-d-prophylaxis-in-healthy-children-by-belgian-paediatricians">Self-reported prescribing behaviour of vitamin D prophylaxis in healthy children by Belgian paediatricians&lt;/h4>
+&lt;p>Eur J Clin Nutr. 2024 Jan 3. &lt;a href="https://doi.org/10.1038/s41430-023-01387-4">doi: 10.1038/s41430-023-01387-4&lt;/a>&lt;/p>
+&lt;p>Charlotte De Crem 1, Myriam Van Winckel 2, Yvan Vandenplas 3, Anke Raaijmakers 4 5 6&lt;/p>
+&lt;p>There is currently no consensus on the guidelines for vitamin D prophylaxis in healthy children. The purpose of this study was to investigate the prescribing behaviour of vitamin D prophylaxis among Belgian paediatricians. Between June and September 2022, a questionnaire was distributed by email to all Belgian paediatricians who are a member of at least one of three scientific or professional organisations, as well as to the heads of every Belgian paediatric or neonatal hospital ward. We analysed 426 completed questionnaires. All regions, age categories and subspecialties were represented.&lt;/p></description></item><item><title>98% of Vitamin D deficiency (8 Latin American countries)</title><link>//localhost:1313/posts/98-percent-of-vitamin-d-deficiency-8-latin-american-countries.html</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/98-percent-of-vitamin-d-deficiency-8-latin-american-countries.html</guid><description>&lt;p>&lt;strong>98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU&lt;br>
+80% Magnesium deficiency&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#a-landscape-of-micronutrient-dietary-intake-by-15--to-65-years-old-urban-population-in-8-latin-american-countries-results-from-the-latin-american-study-of-health-and-nutrition">A Landscape of Micronutrient Dietary Intake by 15- to 65-Years-Old Urban Population in 8 Latin American Countries: Results From the Latin American Study of Health and Nutrition&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="a-landscape-of-micronutrient-dietary-intake-by-15--to-65-years-old-urban-population-in-8-latin-american-countries-results-from-the-latin-american-study-of-health-and-nutrition">A Landscape of Micronutrient Dietary Intake by 15- to 65-Years-Old Urban Population in 8 Latin American Countries: Results From the Latin American Study of Health and Nutrition&lt;/h4>
+&lt;p>DOI: 10.1177/03795721231215267&lt;/p></description></item></channel></rss>

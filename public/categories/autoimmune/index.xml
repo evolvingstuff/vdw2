@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Autoimmune on VitaminDWiki</title><link>//localhost:1313/categories/autoimmune.html</link><description>Recent content in Autoimmune on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/autoimmune/index.xml" rel="self" type="application/rss+xml"/><item><title>Risk of Autoimmune Uveitis (an outer eye inflammation) decreases 6% for each 1 ng higher level of vitamin D – Coimbra</title><link>//localhost:1313/posts/risk-of-autoimmune-uveitis-an-outer-eye-inflammation-decreases-6-percent-for-eac-tamin-d-coimbra.html</link><pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/risk-of-autoimmune-uveitis-an-outer-eye-inflammation-decreases-6-percent-for-eac-tamin-d-coimbra.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#serum-vitamin-d-levels-as-biomarkers-in-patients-with-autoimmune-uveitis-and-their-possible-correlation-with-disease-activity">Serum Vitamin D Levels as Biomarkers in Patients with Autoimmune Uveitis and their Possible Correlation with Disease Activity&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2-of-the-many-related-items-on-the-web">2 of the many related items on the web&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="serum-vitamin-d-levels-as-biomarkers-in-patients-with-autoimmune-uveitis-and-their-possible-correlation-with-disease-activity">Serum Vitamin D Levels as Biomarkers in Patients with Autoimmune Uveitis and their Possible Correlation with Disease Activity&lt;/h4>
+&lt;p>Ocul Immunol Inflamm. 2024 Jul;32(5):628-635. &lt;a href="https://doi.org/10.1080/09273948.2023.2184699">doi: 10.1080/09273948.2023.2184699&lt;/a> PDF behind paywall&lt;/p>
+&lt;p>Karine Koller 1, Kimble Matos Teixeira Fonseca 1, Kelsy N Areco 2, Yuslay Fernández-Zamora 1, Luci Meire Pereira Silva 1, Ricardo Pedro Casaroli-Marano 1 3, &lt;strong>Cicero Galli Coimbra&lt;/strong> 4, Cristina Muccioli 1&lt;/p></description></item><item><title>Number 1 Vitamin Deficiency in ALL Autoimmune Conditions - video</title><link>//localhost:1313/posts/number-1-vitamin-deficiency-in-all-autoimmune-conditions-video.html</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/number-1-vitamin-deficiency-in-all-autoimmune-conditions-video.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#dr-berg-8-minutes">Dr. Berg. 8 minutes&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="dr-berg-8-minutes">Dr. Berg. 8 minutes&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s">YouTube&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases&lt;/p>
+&lt;p>0:48 Parathyroid hormone and calcium&lt;/p>
+&lt;p>3:18 The Coimbra protocol&lt;/p>
+&lt;p>3:35 Vitamin D resistance&lt;/p>
+&lt;p>6:05 How to prevent high calcium levels in the blood&lt;/p>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### Dr. Berg. 8 minutes
+
+ **[YouTube](https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s)** 
+
+0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases
+
+0:48 Parathyroid hormone and calcium 
+
+3:18 The Coimbra protocol
+
+3:35 Vitamin D resistance
+
+6:05 How to prevent high calcium levels in the blood 
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!Dr. Berg. 8 minutes`
+│ inner_content: `Dr. Berg. 8 minutes`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Dr. Berg. 8 minutes`
+│ │ inner_content: `Dr. Berg. 8 minutes`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__[https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s|YouTube]__`
+│ inner_content: `[https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s|YouTube]`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s|YouTube]`
+│ │ inner_content: `YouTube`
+│ │ url: `https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `YouTube`
+│ │ │ inner_content: `YouTube`├── TextNode
+│ full_match: `\n0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases\n0:48 Parathyroid hormone and calcium \n3:18 The Coimbra protocol\n3:35 Vitamin D resistance\n6:05 How to prevent high calcium levels in the blood `
+│ inner_content: `\n0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases\n0:48 Parathyroid hormone and calcium \n3:18 The Coimbra protocol\n3:35 Vitamin D resistance\n6:05 How to prevent high calcium levels in the blood `├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Autoimmune)) category contains`
+│ inner_content: `VitaminDWiki – ((Autoimmune)) category contains`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Autoimmune))`
+│ │ inner_content: `Autoimmune`
+│ │ page: `Autoimmune`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Autoimmune`
+│ │ │ inner_content: `Autoimmune`
+│ ├── TextNode
+│ │ full_match: ` category contains`
+│ │ inner_content: ` category contains`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Autoimmune&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Autoimmune&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Autoimmune
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Vitamin D Receptor is associated in over 58 autoimmune studies))`
+│ inner_content: `VitaminDWiki – ((Vitamin D Receptor is associated in over 58 autoimmune studies))`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D Receptor is associated in over 58 autoimmune studies))`
+│ │ inner_content: `Vitamin D Receptor is associated in over 58 autoimmune studies`
+│ │ page: `Vitamin D Receptor is associated in over 58 autoimmune studies`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D Receptor is associated in over 58 autoimmune studies`
+│ │ │ inner_content: `Vitamin D Receptor is associated in over 58 autoimmune studies`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│ inner_content: `VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki - `
+│ │ inner_content: `VitaminDWiki - `
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D Receptor))`
+│ │ inner_content: `Vitamin D Receptor`
+│ │ page: `Vitamin D Receptor`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D Receptor`
+│ │ │ inner_content: `Vitamin D Receptor`
+│ ├── TextNode
+│ │ full_match: ` activation can be increased in many ways`
+│ │ inner_content: ` activation can be increased in many ways`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Vitamin D Receptor&amp;quot; start=&amp;quot;~tc~ startact ~/tc~&amp;quot; stop=&amp;quot;~tc~ endact ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Vitamin D Receptor&amp;quot; start=&amp;quot;~tc~ startact ~/tc~&amp;quot; stop=&amp;quot;~tc~ endact ~/tc~&amp;quot;
+│ │ page: Vitamin D Receptor
+│ │ start: ~tc~ startact ~/tc~
+│ │ stop: ~tc~ endact ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} items in both categories Books-Videos and Autoimmune`
+│ inner_content: `VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} items in both categories Books-Videos and Autoimmune`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki - `
+│ │ inner_content: `VitaminDWiki - `
+│ ├── SqlNode
+│ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL}`
+│ │ inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;`
+│ │ attrs_dict:
+│ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ db: &amp;gt;vitamind
+│ ├── TextNode
+│ │ full_match: ` items in both categories Books-Videos and Autoimmune`
+│ │ inner_content: ` items in both categories Books-Videos and Autoimmune`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── EmphasisNode
+│ full_match: `&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;`
+│ inner_content: `This list is automatically updated`
+│ children:
+│ ├── TextNode
+│ │ full_match: `This list is automatically updated`
+│ │ inner_content: `This list is automatically updated`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── CategoryNode
+│ full_match: `{category id=&amp;quot;28+34&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: id=&amp;quot;28+34&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;
+│ │ id: 28+34
+│ │ types: wiki
+│ │ sort: created_desc
+│ │ split: n
+│ │ and: y
+│ │ sub: n
+│ │ showdescription: n
+│ │ showname: y
+│ │ showtype: n
+│ │ one: y
+│ │ showTitle: n
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!Dr. Berg. 8 minutes
+__[https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s|YouTube]__
+0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases
+0:48 Parathyroid hormone and calcium 
+3:18 The Coimbra protocol
+3:35 Vitamin D resistance
+6:05 How to prevent high calcium levels in the blood 
+---
+!!!!VitaminDWiki – ((Autoimmune)) category contains
+{include page=&amp;quot;Autoimmune&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!VitaminDWiki – ((Vitamin D Receptor is associated in over 58 autoimmune studies))
+---
+!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways
+{include page=&amp;quot;Vitamin D Receptor&amp;quot; start=&amp;quot;~tc~ startact ~/tc~&amp;quot; stop=&amp;quot;~tc~ endact ~/tc~&amp;quot;}
+---
+!!!!VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} items in both categories Books-Videos and Autoimmune
+&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;
+{category id=&amp;quot;28+34&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}
+&lt;/code>
+&lt;/pre></description></item><item><title>Vitamin D is important for the immune system to correctly function (no surprise)</title><link>//localhost:1313/posts/vitamin-d-is-important-for-the-immune-system-to-correctly-function-no-surprise.html</link><pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-is-important-for-the-immune-system-to-correctly-function-no-surprise.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-immune-system-chapter-in-a-book-pdf-behind-paywall">Vitamin D and immune system (chapter in a book, PDF behind paywall)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-and-immune-system-chapter-in-a-book-pdf-behind-paywall">Vitamin D and immune system (chapter in a book, PDF behind paywall)&lt;/h4>
+&lt;p>Advances in Food and Nutrition Research March 2024 &lt;a href="https://doi.org/10.1016/bs.afnr.2023.12.001">https://doi.org/10.1016/bs.afnr.2023.12.001&lt;/a>&lt;/p>
+&lt;p>Geoffrey Brown a, Aleksandra Marchwicka b, Ewa Marcinkowska b&lt;/p>
+&lt;p>The active metabolite of vitamin D 1,25(OH)2D is well known for its role in regulating calcium-phosphate homeostasis of the human body. However, the immunomodulating activity of 1,25(OH)2D has been known for many years. There are numerous reports correlating low vitamin D levels in blood serum with the onset of autoimmune diseases and with the severe course of acute infections. In this chapter, we address the role of 1,25(OH)2D in these diseases, and we discuss the possible mechanisms of action of 1,25(OH)2D in immune cells.&lt;/p></description></item><item><title>Vitamin D: Viral infections, Infectious diseases, EBV and MS, Virus and Cancers – Grant</title><link>//localhost:1313/posts/vitamin-d-viral-infections-infectious-diseases-ebv-and-ms-virus-and-cancers-grant.html</link><pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-viral-infections-infectious-diseases-ebv-and-ms-virus-and-cancers-grant.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-viral-infectionsinfectious-diseases-autoimmune-diseases-and-cancers">Vitamin D and viral infections:Infectious diseases, autoimmune diseases, and cancers&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#infectious-diseases">Infectious diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#autoimmune-diseases">Autoimmune diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#viruses-and-cancer">Viruses and cancer&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h3 id="vitamin-d-and-viral-infectionsinfectious-diseases-autoimmune-diseases-and-cancers">Vitamin D and viral infections:Infectious diseases, autoimmune diseases, and cancers&lt;/h3>
+&lt;p>&lt;strong>Advances in Food and Nutrition Research ISSN 1043-4526, &lt;a href="https://doi.org/10.1016/bs.afnr.2023.12.007">https://doi.org/10.1016/bs.afnr.2023.12.007&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>William B. Grant: Sunlight, Nutrition and Health Research Center, San Francisco, USA &lt;a href="mailto:wbgrant@infionline.net">wbgrant@infionline.net&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Abstract&lt;/strong>&lt;/p>
+&lt;p>Viruses can cause many human diseases. Three types of human diseases caused by viruses are discussed in this chapter: infectious diseases, autoimmune diseases, and cancers. The infectious diseases included in this chapter include three respiratory tract diseases: influenza, COVID-19, and respiratory syncytial virus. In addition, the mos­quito-borne dengue virus diseases are discussed. Vitamin D can reduce risk, severity, and mortality of the respiratory tract diseases and possibly for dengue virus. Many autoimmune diseases are initiated by the body&amp;rsquo;s reaction to a viral infection. The protective role of vitamin D in Epstein-Barr virus-related diseases such as multiple sclerosis is discussed. There are a few cancers linked to viral infections. Such cancers include cervical cancer, head and neck cancers, Hodgkin&amp;rsquo;s and non-Hodgkin&amp;rsquo;s lym­phoma, and liver cancer. Vitamin D plays an important role in reducing risk of cancer incidence and mortality, although not as strongly for viral-linked cancers as for other types of cancer.&lt;/p></description></item><item><title>Some benefits of 5 year VITAL trial (D and Omega-3) observed 2 years later</title><link>//localhost:1313/posts/some-benefits-of-5-year-vital-trial-d-and-omega-3-observed-2-years-later.html</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/some-benefits-of-5-year-vital-trial-d-and-omega-3-observed-2-years-later.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-marine-n-3-fatty-acids-for-autoimmune-disease-prevention-outcomes-at-two-years-after-vital-trial-completion">Vitamin D and Marine n-3 Fatty Acids for Autoimmune Disease Prevention: Outcomes at Two Years after VITAL Trial Completion&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#reasonable---many-health-problems-take-years-to-develop">Reasonable - Many health problems take years to develop.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-and-marine-n-3-fatty-acids-for-autoimmune-disease-prevention-outcomes-at-two-years-after-vital-trial-completion">Vitamin D and Marine n-3 Fatty Acids for Autoimmune Disease Prevention: Outcomes at Two Years after VITAL Trial Completion&lt;/h4>
+&lt;p>Arthritis Rheumatol 2024 Jan 25. &lt;a href="https://doi.org/10.1002/art.42811">doi: 10.1002/art.42811&lt;/a> PDF is behind a paywall&lt;/p>
+&lt;p>Karen H Costenbader 1 2, Nancy R Cook 2 3 4, I-Min Lee 2 3 4, Jill Hahn 3, Joseph Walter 4, Vadim Bubes 4, Gregory Kotler 4, Nicole Yang 1 2, Sonia Friedman 2 5, Erik K Alexander 2 6, JoAnn E Manson 2 3 4&lt;/p></description></item><item><title>An activated Vitamin D Receptor fights Autoimmune Diseases, Infections, Cancers, etc.</title><link>//localhost:1313/posts/an-activated-vitamin-d-receptor-fights-autoimmune-diseases-infections-cancers-etc.html</link><pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/an-activated-vitamin-d-receptor-fights-autoimmune-diseases-infections-cancers-etc.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#methylation-of-the-vitamin-d-receptor-gene-in-human-disorders">Methylation of the Vitamin D Receptor Gene in Human Disorders&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="methylation-of-the-vitamin-d-receptor-gene-in-human-disorders">Methylation of the Vitamin D Receptor Gene in Human Disorders&lt;/h4>
+&lt;p>Int. J. Mol. Sci. 2024, 25(1), 107; &lt;a href="https://doi.org/10.3390/ijms25010107">https://doi.org/10.3390/ijms25010107&lt;/a>&lt;/p>
+&lt;p>by Beatrice Gasperini 1,†,Angela Falvino 1,†,Eleonora Piccirilli 2,Umberto Tarantino 2ORCID,Annalisa Botta 1,*ORCID and Virginia Veronica Visconti 1ORCID&lt;/p>
+&lt;p>1 Department of Biomedicine and Prevention, University of Rome “Tor Vergata”, Via Montpellier 1, 00133 Rome, Italy&lt;/p>
+&lt;p>2 Department of Clinical Sciences and Translational Medicine, University of Rome “Tor Vergata”, Via Montpellier 1, 00133 Rome, Italy&lt;/p></description></item></channel></rss>

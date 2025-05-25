@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Interactions With Vitamin D on VitaminDWiki</title><link>//localhost:1313/categories/interactions-with-vitamin-d.html</link><description>Recent content in Interactions With Vitamin D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/interactions-with-vitamin-d/index.xml" rel="self" type="application/rss+xml"/><item><title>Fluoridation results in lower IQ, Magnesium, and Vitamin D - many studies</title><link>//localhost:1313/posts/fluoridation-results-in-lower-iq-magnesium-and-vitamin-d-many-studies.html</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/fluoridation-results-in-lower-iq-magnesium-and-vitamin-d-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#which-states-mandate-fluoride-in-drinking-water---dec-2024">Which states mandate fluoride in drinking water - Dec 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#is-water-fluoridation-safe---dr-greger-may-2024-no---substantially-lowers-iq">Is Water Fluoridation Safe? - Dr. Greger May 2024 (No! - substantially lowers IQ)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#why-i-changed-my-mind-on-water-fluoridation---dr-greger-may-2024">Why I Changed My Mind on Water Fluoridation - Dr. Greger May 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#as-of-may-2000-42-of-the-50-largest-us-cities-had-water-fluoridation">As of May 2000, 42 of the 50 largest U.S. cities had water fluoridation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#far-more-vitamin-d-deficiency-if-high-fluoride-in-water---jan-2021">Far more vitamin D deficiency if high fluoride in water - Jan 2021&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="which-states-mandate-fluoride-in-drinking-water---dec-2024">Which states mandate fluoride in drinking water - Dec 2024&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.washingtonpost.com/health/interactive/2024/fluoride-water-mandates/">Washington Post&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Avoiding the Sun is Just as Dangerous as Cigarettes - video</title><link>//localhost:1313/posts/avoiding-the-sun-is-just-as-dangerous-as-cigarettes-video.html</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/avoiding-the-sun-is-just-as-dangerous-as-cigarettes-video.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#dr-berg-4-minute-video">Dr. Berg 4 minute video&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="dr-berg-4-minute-video">Dr. Berg 4 minute video&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=rDeLISqGgfs&amp;amp;ab_channel=Dr.EricBergDC">4 minute video&lt;/a>&lt;/strong>&lt;/p>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### Dr. Berg 4 minute video
+
+ **[4 minute video](https://www.youtube.com/watch?v=rDeLISqGgfs&amp;amp;ab_channel=Dr.EricBergDC)** 
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!! Dr. Berg 4 minute video`
+│ inner_content: `Dr. Berg 4 minute video`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Dr. Berg 4 minute video`
+│ │ inner_content: `Dr. Berg 4 minute video`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__[https://www.youtube.com/watch?v=rDeLISqGgfs&amp;amp;ab_channel=Dr.EricBergDC| 4 minute video]__`
+│ inner_content: `[https://www.youtube.com/watch?v=rDeLISqGgfs&amp;amp;ab_channel=Dr.EricBergDC| 4 minute video]`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.youtube.com/watch?v=rDeLISqGgfs&amp;amp;ab_channel=Dr.EricBergDC| 4 minute video]`
+│ │ inner_content: ` 4 minute video`
+│ │ url: `https://www.youtube.com/watch?v=rDeLISqGgfs&amp;amp;ab_channel=Dr.EricBergDC`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `4 minute video`
+│ │ │ inner_content: `4 minute video`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Low Vitamin D is worse for your health than smoking)) contains:`
+│ inner_content: `VitaminDWiki – ((Low Vitamin D is worse for your health than smoking)) contains:`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Low Vitamin D is worse for your health than smoking))`
+│ │ inner_content: `Low Vitamin D is worse for your health than smoking`
+│ │ page: `Low Vitamin D is worse for your health than smoking`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Low Vitamin D is worse for your health than smoking`
+│ │ │ inner_content: `Low Vitamin D is worse for your health than smoking`
+│ ├── TextNode
+│ │ full_match: ` contains:`
+│ │ inner_content: ` contains:`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Low Vitamin D is worse for your health than smoking&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Low Vitamin D is worse for your health than smoking&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Low Vitamin D is worse for your health than smoking
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Smoking reduces vitamin D - many studies)) contains:`
+│ inner_content: `VitaminDWiki – ((Smoking reduces vitamin D - many studies)) contains:`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Smoking reduces vitamin D - many studies))`
+│ │ inner_content: `Smoking reduces vitamin D - many studies`
+│ │ page: `Smoking reduces vitamin D - many studies`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Smoking reduces vitamin D - many studies`
+│ │ │ inner_content: `Smoking reduces vitamin D - many studies`
+│ ├── TextNode
+│ │ full_match: ` contains:`
+│ │ inner_content: ` contains:`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Smoking reduces vitamin D - many studies&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Smoking reduces vitamin D - many studies&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Smoking reduces vitamin D - many studies
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── TextNode
+│ full_match: `\n\n\n`
+│ inner_content: `\n\n\n`├── TikiCommentNode
+│ full_match: `~tc~ (alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) ~/tc~`
+│ inner_content: ` (alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) `
+│ children:
+│ ├── TextNode
+│ │ full_match: `(alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) `
+│ │ inner_content: `(alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) `
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!! Dr. Berg 4 minute video
+__[https://www.youtube.com/watch?v=rDeLISqGgfs&amp;amp;ab_channel=Dr.EricBergDC| 4 minute video]__
+---
+!!!!VitaminDWiki – ((Low Vitamin D is worse for your health than smoking)) contains:
+{include page=&amp;quot;Low Vitamin D is worse for your health than smoking&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!VitaminDWiki – ((Smoking reduces vitamin D - many studies)) contains:
+{include page=&amp;quot;Smoking reduces vitamin D - many studies&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+
+
+~tc~ (alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) ~/tc~
+&lt;/code>
+&lt;/pre></description></item><item><title>Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D)</title><link>//localhost:1313/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d.html</link><pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-autism-spectrum-disorder-and-its-possible-origins-in-pregnancy">The Autism Spectrum Disorder and Its Possible Origins in Pregnancy&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-autism-spectrum-disorder-and-its-possible-origins-in-pregnancy">The Autism Spectrum Disorder and Its Possible Origins in Pregnancy&lt;/h4>
+&lt;p>Int. J. Environ. Res. Public Health 2024, 21(3), 244; &lt;a href="https://doi.org/10.3390/ijerph21030244">https://doi.org/10.3390/ijerph21030244&lt;/a>&lt;/p>
+&lt;p>Rayane M. Botelho ORCID,Ana Lúcia M. Silva ORCID and Alexandre U. Borbely *ORCID&lt;/p>
+&lt;p>Cell Biology Laboratory, Institute of Biological and Health Sciences, Federal University of Alagoas, Maceio 57072-970, Brazil&lt;/p>
+&lt;p>&lt;strong>Table of Contents&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/toc-autism-pregnancy.png" alt="image" width="500">
+&lt;p>Autism Spectrum Disorder (ASD) belongs to the group of neurodevelopmental disorders, and has a high prevalence, affecting 1 in 100 children according to data from the World Health Organization (WHO). To be diagnosed with ASD, the child must have persistent deficits in communication and social interactions, and restricted and repetitive patterns of behavior, interests, or activities. Despite its prevalence, the etiology of ASD is still uncertain, with multifactorial characteristics, including those associated with the gestational period, where maternal exposure to biological, chemical, or physical hazards occurs, some of which have already been proposed as causes of ASD outcomes. Since pregnancy requires a balance between the maternal–fetal binomial, the breakdown of this balance caused by such environmental hazards can lead to altered fetal neurodevelopment, including ASD. With this firmly in mind, this review aims to compile the most recent data on the gestational causes that may be associated with the development of ASD to help health professionals identify risk factors and act for the prevention and management of ASD.&lt;/p></description></item><item><title>90% in US have chlormequat chloride (pesticide) in urine – reduces fertility</title><link>//localhost:1313/posts/90-percent-in-us-have-chlormequat-chloride-pesticide-in-urine-reduces-fertility.html</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/90-percent-in-us-have-chlormequat-chloride-pesticide-in-urine-reduces-fertility.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#americans-exposed-to-fertility-lowering-chemicals-in-cheerios-quaker-oats">Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="americans-exposed-to-fertility-lowering-chemicals-in-cheerios-quaker-oats">Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;amp;sd=20121119&amp;amp;cid_source=dnl&amp;amp;cid_medium=email&amp;amp;cid_content=art1HL&amp;amp;cid=20240226_HL2&amp;amp;foDate=false&amp;amp;mid=DM1535871&amp;amp;rid=2055050072">Mercola&lt;/a>&lt;/strong>   &lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/chlormequat-chloride-pdf.pdf">PDF&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>92% of (non-ogranic) oat-based foods, including popular brands like Quaker Oats and Cheerios, also contained the chemical&lt;/p>
+&lt;p>&lt;strong>EPA Considers Expanding Chlormequat (a pesticide) Use in Crops&lt;/strong>&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Date&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2017&lt;/td>
+ &lt;td>69%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2018-2022&lt;/td>
+ &lt;td>74%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2023&lt;/td>
+ &lt;td>90%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats
+
+ **[Mercola](https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;amp;sd=20121119&amp;amp;cid_source=dnl&amp;amp;cid_medium=email&amp;amp;cid_content=art1HL&amp;amp;cid=20240226_HL2&amp;amp;foDate=false&amp;amp;mid=DM1535871&amp;amp;rid=2055050072)** &amp;amp;nbsp; **&amp;lt;i class=&amp;quot;fas fa-file-pdf&amp;quot; style=&amp;quot;margin-right: 0.3em;&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;a href=&amp;quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/chlormequat-chloride-pdf.pdf&amp;quot;&amp;gt;PDF&amp;lt;/a&amp;gt;** 
+
+92% of (non-ogranic) oat-based foods, including popular brands like Quaker Oats and Cheerios, also contained the chemical
+
+ **EPA Considers Expanding Chlormequat (a pesticide) Use in Crops** 
+
+| | |
+| --- | --- |
+| Date | % |
+| 2017 | 69% |
+| 2018-2022 | 74% |
+| 2023 | 90% |
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats `
+│ inner_content: `Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats`
+│ │ inner_content: `Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__[https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;amp;sd=20121119&amp;amp;cid_source=dnl&amp;amp;cid_medium=email&amp;amp;cid_content=art1HL&amp;amp;cid=20240226_HL2&amp;amp;foDate=false&amp;amp;mid=DM1535871&amp;amp;rid=2055050072|Mercola]__`
+│ inner_content: `[https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;amp;sd=20121119&amp;amp;cid_source=dnl&amp;amp;cid_medium=email&amp;amp;cid_content=art1HL&amp;amp;cid=20240226_HL2&amp;amp;foDate=false&amp;amp;mid=DM1535871&amp;amp;rid=2055050072|Mercola]`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;amp;sd=20121119&amp;amp;cid_source=dnl&amp;amp;cid_medium=email&amp;amp;cid_content=art1HL&amp;amp;cid=20240226_HL2&amp;amp;foDate=false&amp;amp;mid=DM1535871&amp;amp;rid=2055050072|Mercola]`
+│ │ inner_content: `Mercola`
+│ │ url: `https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;amp;sd=20121119&amp;amp;cid_source=dnl&amp;amp;cid_medium=email&amp;amp;cid_content=art1HL&amp;amp;cid=20240226_HL2&amp;amp;foDate=false&amp;amp;mid=DM1535871&amp;amp;rid=2055050072`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Mercola`
+│ │ │ inner_content: `Mercola`├── TextNode
+│ full_match: ` `
+│ inner_content: ` `├── HorizontalSpaceNode
+│ full_match: `~hs~`
+│ inner_content: ``
+│ repetitions: `1`├── BoldNode
+│ full_match: `__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20862&amp;quot;)}PDF{ATTACH}__`
+│ inner_content: `{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20862&amp;quot;)}PDF{ATTACH}`
+│ children:
+│ ├── AttachNode
+│ │ full_match: `{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20862&amp;quot;)}PDF{ATTACH}`
+│ │ inner_content: `PDF`
+│ │ attrs_dict:
+│ │ │ raw_content: (inline=&amp;quot;1&amp;quot; id=&amp;quot;20862&amp;quot;)
+│ │ │ inline: 1
+│ │ │ id: 20862
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `PDF`
+│ │ │ inner_content: `PDF`├── TextNode
+│ full_match: `\n92% of (non-ogranic) oat-based foods, including popular brands like Quaker Oats and Cheerios, also contained the chemical\n`
+│ inner_content: `\n92% of (non-ogranic) oat-based foods, including popular brands like Quaker Oats and Cheerios, also contained the chemical\n`├── BoldNode
+│ full_match: `__EPA Considers Expanding Chlormequat (a pesticide) Use in Crops__`
+│ inner_content: `EPA Considers Expanding Chlormequat (a pesticide) Use in Crops`
+│ children:
+│ ├── TextNode
+│ │ full_match: `EPA Considers Expanding Chlormequat (a pesticide) Use in Crops`
+│ │ inner_content: `EPA Considers Expanding Chlormequat (a pesticide) Use in Crops`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── DivNode
+│ full_match: `{DIV(style=&amp;quot;font-size:20px;&amp;quot;)}\n||Date|%\n2017|69%\n2018-2022| 74%\n2023|90%||\n{DIV}`
+│ inner_content: `\n||Date|%\n2017|69%\n2018-2022| 74%\n2023|90%||\n`
+│ attrs_dict:
+│ │ raw_content: (style=&amp;quot;font-size:20px;&amp;quot;)
+│ │ style: font-size:20px;
+│ children:
+│ ├── TextNode
+│ │ full_match: `\n`
+│ │ inner_content: `\n`
+│ ├── TableNode
+│ │ full_match: `||Date|%\n2017|69%\n2018-2022| 74%\n2023|90%||`
+│ │ inner_content: `Date|%\n2017|69%\n2018-2022| 74%\n2023|90%`
+│ │ children:
+│ │ ├── TableRowNode
+│ │ │ full_match: `Date|%`
+│ │ │ inner_content: `Date|%`
+│ │ │ children:
+│ │ │ ├── TableCellNode
+│ │ │ │ full_match: `Date`
+│ │ │ │ inner_content: `Date`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `Date`
+│ │ │ │ │ inner_content: `Date`
+│ │ │ ├── TableCellNode
+│ │ │ │ full_match: `%`
+│ │ │ │ inner_content: `%`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `%`
+│ │ │ │ │ inner_content: `%`
+│ │ ├── TableRowNode
+│ │ │ full_match: `2017|69%`
+│ │ │ inner_content: `2017|69%`
+│ │ │ children:
+│ │ │ ├── TableCellNode
+│ │ │ │ full_match: `2017`
+│ │ │ │ inner_content: `2017`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `2017`
+│ │ │ │ │ inner_content: `2017`
+│ │ │ ├── TableCellNode
+│ │ │ │ full_match: `69%`
+│ │ │ │ inner_content: `69%`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `69%`
+│ │ │ │ │ inner_content: `69%`
+│ │ ├── TableRowNode
+│ │ │ full_match: `2018-2022| 74%`
+│ │ │ inner_content: `2018-2022| 74%`
+│ │ │ children:
+│ │ │ ├── TableCellNode
+│ │ │ │ full_match: `2018-2022`
+│ │ │ │ inner_content: `2018-2022`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `2018-2022`
+│ │ │ │ │ inner_content: `2018-2022`
+│ │ │ ├── TableCellNode
+│ │ │ │ full_match: ` 74%`
+│ │ │ │ inner_content: ` 74%`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `74%`
+│ │ │ │ │ inner_content: `74%`
+│ │ ├── TableRowNode
+│ │ │ full_match: `2023|90%`
+│ │ │ inner_content: `2023|90%`
+│ │ │ children:
+│ │ │ ├── TableCellNode
+│ │ │ │ full_match: `2023`
+│ │ │ │ inner_content: `2023`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `2023`
+│ │ │ │ │ inner_content: `2023`
+│ │ │ ├── TableCellNode
+│ │ │ │ full_match: `90%`
+│ │ │ │ inner_content: `90%`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `90%`
+│ │ │ │ │ inner_content: `90%`
+│ ├── TextNode
+│ │ full_match: `\n`
+│ │ inner_content: `\n`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki - ((Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023))`
+│ inner_content: `VitaminDWiki - ((Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023))`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki - `
+│ │ inner_content: `VitaminDWiki - `
+│ ├── LocalLinkNode
+│ │ full_match: `((Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023))`
+│ │ inner_content: `Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023`
+│ │ page: `Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023`
+│ │ │ inner_content: `Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016))`
+│ inner_content: `VitaminDWiki – ((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016))`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016))`
+│ │ inner_content: `Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016`
+│ │ page: `Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016`
+│ │ │ inner_content: `Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Fertility and Sperm)) category contains `
+│ inner_content: `VitaminDWiki – ((Fertility and Sperm)) category contains`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Fertility and Sperm))`
+│ │ inner_content: `Fertility and Sperm`
+│ │ page: `Fertility and Sperm`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Fertility and Sperm`
+│ │ │ inner_content: `Fertility and Sperm`
+│ ├── TextNode
+│ │ full_match: ` category contains`
+│ │ inner_content: ` category contains`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Fertility and Sperm&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Fertility and Sperm&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Fertility and Sperm
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!! There have been ~~#00F: {SQL(db=&amp;gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15080{SQL}~~ visits to this page `
+│ inner_content: `There have been ~~#00F: {SQL(db=&amp;gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15080{SQL}~~ visits to this page`
+│ level: `5`
+│ children:
+│ ├── TextNode
+│ │ full_match: `There have been `
+│ │ inner_content: `There have been `
+│ ├── ColorNode
+│ │ full_match: `~~#00F: {SQL(db=&amp;gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15080{SQL}~~`
+│ │ inner_content: ` {SQL(db=&amp;gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15080{SQL}`
+│ │ attrs_dict:
+│ │ │ raw_content: #00F
+│ │ children:
+│ │ ├── SqlNode
+│ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15080{SQL}`
+│ │ │ inner_content: `SELECT hits FROM tiki_pages WHERE page_id=15080`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ db: &amp;gt;vitamind
+│ ├── TextNode
+│ │ full_match: ` visits to this page`
+│ │ inner_content: ` visits to this page`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── TikiCommentNode
+│ full_match: `~tc~ (alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) ~/tc~`
+│ inner_content: ` (alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) `
+│ children:
+│ ├── TextNode
+│ │ full_match: `(alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) `
+│ │ inner_content: `(alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── TikiCommentNode
+│ full_match: `~tc~ (alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) ~/tc~`
+│ inner_content: ` (alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
+│ children:
+│ ├── TextNode
+│ │ full_match: `(alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
+│ │ inner_content: `(alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── TikiCommentNode
+│ full_match: `~tc~ (alias(90% in US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) ~/tc~`
+│ inner_content: ` (alias(90% in US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
+│ children:
+│ ├── TextNode
+│ │ full_match: `(alias(90% in US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
+│ │ inner_content: `(alias(90% in US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── TikiCommentNode
+│ full_match: `~tc~ (alias(90% in US have chlormequat chloride (pesticide) in urine – reduces fertility – Feb 2024)) ~/tc~`
+│ inner_content: ` (alias(90% in US have chlormequat chloride (pesticide) in urine – reduces fertility – Feb 2024)) `
+│ children:
+│ ├── TextNode
+│ │ full_match: `(alias(90% in US have chlormequat chloride (pesticide) in urine – reduces fertility – Feb 2024)) `
+│ │ inner_content: `(alias(90% in US have chlormequat chloride (pesticide) in urine – reduces fertility – Feb 2024)) `
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats 
+__[https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;amp;sd=20121119&amp;amp;cid_source=dnl&amp;amp;cid_medium=email&amp;amp;cid_content=art1HL&amp;amp;cid=20240226_HL2&amp;amp;foDate=false&amp;amp;mid=DM1535871&amp;amp;rid=2055050072|Mercola]__ ~hs~__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20862&amp;quot;)}PDF{ATTACH}__
+92% of (non-ogranic) oat-based foods, including popular brands like Quaker Oats and Cheerios, also contained the chemical
+__EPA Considers Expanding Chlormequat (a pesticide) Use in Crops__
+{DIV(style=&amp;quot;font-size:20px;&amp;quot;)}
+||Date|%
+2017|69%
+2018-2022| 74%
+2023|90%||
+{DIV}
+---
+!!!!VitaminDWiki - ((Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023))
+---
+!!!!VitaminDWiki – ((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016))
+---
+!!!!VitaminDWiki – ((Fertility and Sperm)) category contains 
+{include page=&amp;quot;Fertility and Sperm&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!! There have been ~~#00F: {SQL(db=&amp;gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15080{SQL}~~ visits to this page 
+~tc~ (alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) ~/tc~
+~tc~ (alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) ~/tc~
+~tc~ (alias(90% in US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) ~/tc~
+~tc~ (alias(90% in US have chlormequat chloride (pesticide) in urine – reduces fertility – Feb 2024)) ~/tc~
+&lt;/code>
+&lt;/pre></description></item><item><title>Beans etc, can cut in half the response to fat-soluble Vitamin D and K</title><link>//localhost:1313/posts/beans-etc-can-cut-in-half-the-response-to-fat-soluble-vitamin-d-and-k.html</link><pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/beans-etc-can-cut-in-half-the-response-to-fat-soluble-vitamin-d-and-k.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-presence-of-pulses-within-a-meal-can-alter-fat-soluble-vitamin-bioavailability">The Presence of Pulses within a Meal can Alter Fat-Soluble Vitamin Bioavailability&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#can-bypass-both-poor-gut-and-pulse-limitations-with-non-oral-vitamin-supplementation">Can bypass both poor gut and pulse limitations with non-oral Vitamin supplementation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#note-response-to-water-soluble-form-of-vitamin-d-is-not-known-to-be-reduced-by-pulses">Note: Response to water-soluble form of Vitamin D is not known to be reduced by pulses&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-presence-of-pulses-within-a-meal-can-alter-fat-soluble-vitamin-bioavailability">The Presence of Pulses within a Meal can Alter Fat-Soluble Vitamin Bioavailability&lt;/h4>
+&lt;p>Molecular Nutrition and Food Research, 2019, 63 (11), pp.1801323. ff10.1002/mnfr.201801323ff&lt;/p>
+&lt;p>Marielle Margier, Tiffany Antoine, Aurélie Siriaco, Marion Nowicki, Charlotte Halimi, Matthieu Maillot, Stéphane Georgé, Emmanuelle Reboul&lt;/p></description></item></channel></rss>

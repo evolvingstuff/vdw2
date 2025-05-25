@@ -1,0 +1,2715 @@
+---
+title: "Vitamin D response varies from resistance that increases through life to hypersensitivity"
+slug: "vitamin-d-response-varies-from-resistance-that-increases-through-life-to-hypersensitivity"
+aliases:
+  - "/Vitamin+D+response+varies+from+resistance+that+increases+through+life+to+hypersensitivity+–+May+2024"
+  - "/15273"
+tiki_page_id: 15273
+date: 2024-05-09
+---
+
+
+{{< toc >}}
+
+---
+
+#### Significance of vitamin D responsiveness on the etiology of vitamin D-related diseases
+
+Steroids https://doi.org/10.1016/j.steroids.2024.109437 PDF behind paywall
+
+Ulla M. Järvelin a b 1, Juho M. Järvelin c 2
+
+ **Highlights** 
+
+* Response to Vitamin D (VD) is a continuum, varying from VD resistance to VD hypersensitivity.
+
+* Low response to VD leads to autoimmunity. VD more than recommended is needed.
+
+* Strong response to VD leads to organ calcification. The sun and extra VD cause harm.
+
+* The prevalence of resistance or hypersensitivity to VD is undetermined.
+
+Vitamin D resistance (VDRES) explains the necessity for higher doses of Vitamin D (VD) than those recommended for treatment success. VD receptor (VDR) signaling blockade, such as that caused by infections and poisons, is one basis for VDRES etiology. Mutations within genes affecting the VD system cause susceptibility to developing low VD responsiveness and autoimmunity. In contrast, VD hypersensitivity (VDHY) occurs if there is extra VD in the body; for example, as a result of an overdose of a VD supplement. Excess 1,25(OH)2D3 is produced in lymphomas and granulomatous diseases. The placenta produces excess 1,25(OH)2D3. Gene mutations regulating the production or degradation of 1,25(OH)2D3 enhance the effects of 1,25(OH)2D3. Increased 1,25(OH)2D3 levels stimulate calcium absorption in the gut, leading to hypercalcemia. Hypercalcemia can result in the calcification of the kidneys, circulatory system, or placenta, leading to kidney failure, cardiovascular disease, and pregnancy complications. The primary treatment involves avoiding exposure to the sun and VD supplements. The prevalence rates of VDRES and VDHY remain unclear. One estimate was that 25%, 51%, and 24% of the patients had strong, medium, and poor responses, respectively. Heavy-dose VD therapy may be a promising method for the treatment of autoimmune diseases; however, assessing its potential side effects is essential. To avoid VD-mediated hypercalcemia, responsiveness must be considered when treating pregnancies or cardiovascular diseases associated with VD. Furthermore, how VD is associated with the related disorders remains unclear. Investigating responsiveness to VD may provide more accurate results.
+
+Introduction
+
+A noteworthy development in modern medicine is using vitamin D (VD) to treat and prevent rickets <sup>[1]</sup>, <sup>[2]</sup>. According to estimates, vitamin D deficiency (VDD) affects up to 40 % of people in the European Union and 24 % of Americans <sup>[3]</sup>, and moderate cases of VDD are considered substantial health risks, even though severe cases are rare, and rickets is infrequent. VDD is associated with conditions such as cancer, connective tissue disorders, inflammatory bowel disorders, chronic hepatitis, food allergies, asthma, respiratory infections, and type 1 and 2 diabetes. However, most intervention studies have not proven a link between VDD and these conditions <sup>[4]</sup>. Calcitriol, a physiologically active VD, mediates its action by binding to the vitamin D receptor (VDR) <sup>[5]</sup>. VDR is present throughout the body, including in cells involved in immune modulation <sup>[6]</sup>, <sup>[7]</sup>, <sup>[8]</sup>, <sup>[9]</sup>, <sup>[10]</sup>, <sup>[11]</sup>, <sup>[12]</sup>, <sup>[13]</sup>, <sup>[14]</sup>, <sup>[15]</sup>. The almost universal expression of the VDR implies that the VD/VDR axis controls genes associated with several processes, including energy metabolism, immunological responses, cell growth and differentiation, and calcium homeostasis <sup>[16]</sup>. However, most intervention studies have not proven a link between VDD and these processes <sup>[4]</sup>. VD supplementation can increase serum 25OHD3 concentration to a high normal range. However, this has not been associated with benefits for global health, major diseases, or medical events such as cancer, cardiovascular events, diabetes mellitus, falls, or fractures, at least in largely VD-replete adults <sup>[16]</sup>. The importance of VD substitution for preventing and treating rickets is indisputable. However, treatment results for other diseases associated with VDD and VD are contradictory. This review attempts to determine the effects of VD responsiveness
+
+A review of VD metabolism will help us understand the mechanisms associated with VD responsiveness and the utility of measuring VD metabolites when diagnosing VD responsiveness.
+
+The skin synthesizes cholecalciferol (VD3), a secosteroid that functions as a prohormone. Although dietary VD supplements can also produce it, endogenous synthesis in the skin is the main source of VD3. In the skin, UVB causes the phototransformation of 7-dehydrocholesterol into pre-VD3, and heat promotes the conversion of pre-VD3 into VD3. VD3 is mostly transferred from the skin to the bloodstream by d-binding protein (DBP). Notably, 25-hydroxylases (CYP2R1 and CYP27A1) modify VD3 via hydroxylation in the liver, resulting in 25-hydroxyvitamin D3 (25OHD3). Subsequently, 1α-hydroxylase (CYP27B1) performs a second hydroxylation to produce the active form, calcitriol <span>[1,25(OH)2D3]</span>, predominantly in the kidneys. <sup>[5]</sup> However, hydroxylation can also occur in other tissues and cells. The active form interacts with the VDR and affects biological processes <sup>[5]</sup>, <sup>[17]</sup>. Furthermore, 24-hydroxylase (CYP24A1) converts 25(OH)D3 and 1,25(OH)2D3 into inactive metabolites <sup>[5]</sup>. Additionally, 1,25(OH)2D3 concentration, blood calcium levels, and parathyroid hormone (PTH) levels principally control CYP27B1 and CYP24A1 activity. Furthermore, klotho and FGF23 negatively regulate CYP27B1 and positively regulate CYP24A1, linking VD metabolism to phosphate homeostasis (Fig. 1). <sup>[18]</sup> Free phosphate is filtered in the glomerulus of the human kidney before being reabsorbed as it travels along the nephron. The sodium phosphate cotransporter (NaPi-IIa), which regulates phosphate reabsorption from primary urine in the proximal tubule, is encoded by SLC34A1. NaPi-Iia, Klotho, FGF23, PTH, and 1,25(OH)2D3 control renal phosphate levels. <sup>[19]</sup> Intestinal 1,25(OH)2D3 enhances calcium absorption. PTH increases calcium release from the bones into the circulation if the blood-ionized calcium content is low. PTH also accelerates the conversion of 25(OH)D3 to 1,25(OH)2D3, which is then released into the bloodstream. PTH prevents phosphate reabsorption, resulting in larger quantities of ionized calcium and lower levels of water-soluble calcium phosphate salts. Consequently, the VD system has a direct feedback mechanism. PTH should be low in the lower third of the reference range if 25(OH)D3 levels are physiologically high and vice versa. <sup>[20]</sup>.
+
+In the 1930 s, some children with rickets were observed to require high doses of VD to alleviate their symptoms. In 1937, Albright, Butler, and Bloomberg introduced the concept of VD resistance (VDRES) <sup>[21]</sup>. Further research revealed that these children had either hereditary defects in 1α-hydroxylase, leading to decreased active VD (VD-dependent rickets type I <span>[VDDR-I]</span>, or congenital defects in VDR. When VDR is defective, genetic VD-resistant rickets (HVDRR), also known as VD-dependent rickets type II (VDDR-II), develops. Both are rare autosomal recessive disorders characterized by hypocalcemia, secondary hyperparathyroidism, and early onset severe rickets. <sup>[22]</sup> Rare instances of HVDRR defects have been detected to cause this issue. Only 70 items were discussed in the 2007 article “Vitamin d-resistant diseases” <sup>[23]</sup>.
+
+ **Although VDRES is rare (see 1.2.), the concept of acquired VDRES has been developed** , which is more common and could be related to autoimmune diseases.  **This resistance results from mutations in the VD system that occur during aging and exposure to environmental factors, thereby impairing VD hormone signaling.**  These environmental factors include pathogens such as the 
+
+* Ebstein-Barr virus <sup>[24]</sup>, 
+
+* cytomegalovirus <sup>[25]</sup>, 
+
+* legionella, escherichia coli, and 
+
+* Yersinia. <sup>[26]</sup>.
+
+   *  **<span style="color:#00F;">(Not mentioned; COVID, Cancers, poor gut, etc)</span>** 
+
+These pathogens can block the VDR and alter host immune responses. 
+
+* Glucocorticoids can also disturb the VDR gene <sup>[27]</sup>. 
+
+Aluminum can decrease renal CYP27B1 activity in chickens <sup>[28]</sup> and has been found at high concentrations in the brain tissue of patients with multiple sclerosis (MS) <sup>[29]</sup>. 
+
+ **Aging**  reduces intestinal cholecalciferol absorption <sup>[30]</sup>, decreases endogenous skin production <sup>[31]</sup> and VD hydroxylation <sup>[32]</sup>. The weakest link in the VD metabolic system is VDR, and the most significant indicators of acquired VDRES are mutations in the VDR <sup>[17]</sup>, <sup>[20]</sup>. The genes CYP2R1, CYP27A1, CYP27B1, and DBP (necessary for VD transport in circulation) and the cell-surface receptor megalin-cubilin, which is the membrane receptor for the 1,25(OH)2D3/DBP complex, also have mutations associated with autoimmune diseases <sup>[20]</sup>.
+
+Autoimmune disorders occur when the immune system mistakenly attacks healthy cells and tissues. VD is vital for maintaining a strong and healthy immune system. Therefore, VDD can increase the risk of autoimmune disorders by weakening the adaptive immune system. <sup>[33]</sup>, <sup>[34]</sup> Several autoimmune conditions such as
+
+autoimmune thyroid disease <sup>[35]</sup>, 
+
+* systemic lupus erythematosus <sup>[36]</sup>, 
+
+* rheumatoid arthritis <sup>[37]</sup>, 
+
+* inflammatory bowel disease (IBD) <sup>[38]</sup>, <sup>[39]</sup>, MS <sup>[43]</sup>, and 
+
+* insulin-dependent type 1 diabetes mellitus <sup>[6]</sup> have been associated with VDD. 
+
+However, more research is needed to determine if VDD is the cause or effect of these autoimmune disorders <sup>[33]</sup>, <sup>[34]</sup>. Patients with IBD often have difficulty absorbing VD, necessitating higher doses of VD to achieve normal serum 25(OH)D levels. This can prevent the development of bone fragility, osteoporosis, and osteomalacia <sup>[38]</sup>. However, few randomized controlled trials have examined the effects of VD supplementation on disease occurrence and severity. One study found that a higher dose of VD (2000 IU) led to lower levels of proinflammatory markers in children and adolescents with IBD than a lower dose of 400 IU <sup>[39]</sup>. Children with rheumatic diseases, especially those treated with steroids, are recommended to receive at least double the daily recommended dose of VD for their age (approximately 2000 UI/day) <sup>[40]</sup>.
+
+Recent studies on treating autoimmune diseases have revealed the clinical advantages of high-dose VD therapy. A single high dose of VD3 (100 000 IU) may positively affect health outcomes in older adults <sup>[41]</sup>. Large-dose, short-term VD supplementation has been shown to reduce insulin resistance compared to placebos in patients with type 2 diabetes <sup>[42]</sup>. Recommended serum 25(OH)D levels are usually 20 – 30 ng/ mL. 
+
+ **In MS treatment, serum 25(OH)D levels of approximately 130 ng/mL are recommended for therapeutic effects.** 
+
+Clinical trials have shown that VD doses ranging from 10,000 to 40,000 IU/day are safe as an add-on therapy. In any case, these trials were relatively short in duration, had small sample sizes, and in many cases, were not placebo-controlled. The adverse effects during the trials were usually minor and manageable. The results of these trials are conflicting, and whether regular VD intake is reasonable beyond the correction of hypovitaminosis D remains unclear. <sup>[43]</sup>.
+
+ **Dr. Cicero Coimbra** , a neurologist from Brazil, used ultrahigh doses of VD to treat patients with autoimmune diseases <sup>[44]</sup>, <sup>[45]</sup>. This approach has been used in Germany to treat patients with autoimmune diseases since 2016. The fundamental idea behind high-dose VD3 therapy is that some patients have a non-hereditary, acquired type of VDRES and insufficient biological activity of 1,25(OH)2D3. To overcome this resistance, high doses of VD3 are administered to patients to unblock VDRs. The initial doses of VD3 in the Coimbra protocol depend on the autoimmune disease being treated. 
+
+For MS, doses of up to 1000 IU of VD3 per kg of body weight may be used, whereas other autoimmune disorders require smaller doses. <sup>[20]</sup>
+
+In rheumatoid arthritis, systemic lupus erythematosus, psoriatic arthritis, psoriasis, Crohn’s disease, and ulcerative colitis, initial VD3 doses of 300–500 IU/kg of body weight are used. Systemic scleroderma, ankylosing spondylitis, and Hashimoto’s thyroiditis require VD3 doses of 300 IU/kg of body weight, whereas other autoimmune diseases require VD3 doses of 150 IU/kg of body weight. The doses are gradually adjusted (usually lowered) during follow-up, based on a standardized procedure that considers the patient's clinical condition, calcium levels, and PTH concentrations. <sup>[20]</sup> Studies have shown that the Coimbra protocol is safe for patients with autoimmune diseases when oral VD3 is administered in large doses with a strict low-calcium diet and daily fluid intake of 2.5 L. Owing to the underlying VDRES, patients are protected against what is typically considered a potentially toxic dose, and the doses used in this protocol only have physiological effects. <sup>[46]</sup> The Coimbra protocol is similar to insulin resistance therapy in which higher doses are administered to address resistance <sup>[47]</sup>.
+
+Carsten Carlberg, a Professor of Biochemistry at the University of Eastern Finland, studied VD's gene regulation and epigenetics. He found that people respond differently, molecularly and biochemically, to the same dosage of VD3. During the Finnish winter of 2015, 71 senior prediabetic participants in the VitDmet study received daily supplements of 0, 1600, or 3200 IU VD3. This study focused on the effects of VD3 supplementation on mRNA expression of 12 VD-regulated genes and several VD-affected laboratory parameters. This study demonstrated that even high doses of VD3 (3200 IU) did not always have the desired VD-regulatory effects in participants, with 25 % of patients failing to respond as expected. According to this study, patients were categorized as low (24 %), mid (51 %), and high responders (25 %). <sup>[48]</sup> Later, in 2017, the same research group conducted the VitDbol study, in which a group of healthy students received an 80,000 IU bolus dose of VD3. The results of the VitDbol study validated the findings of the VitDmet study. <sup>[49]</sup> To get an acceptable physiological response, such as lowering PTH concentrations or downregulating an activated adaptive immune system, patients with VDRES need substantial doses of VD3. Increased PTH levels, despite adequate 25(OH)D3 levels, are signs of acquired VDRES and can occur in patients with autoimmune diseases. In the VD system, PTH is essential for improving intestinal calcium absorption, triggering calcium release from the bones, boosting the conversion of 25(OH)D3 to 1,25(OH)2D3, and preventing tubular phosphate reabsorption. An average 25(OH)D3 level should reduce the PTH levels to the lower third of the reference range. However, this negative feedback loop is disrupted in patients with autoimmune diseases. <sup>[20]</sup> On the VD responsiveness continuum, individuals with VDRES fall at the low-response end <sup>[48]</sup>, <sup>[49]</sup>.
+
+ **Vitamin D hypersensitivity patients (VDHY patients)**  are on the opposite side of the VD responsiveness continuum. They have either excess VD in the body or their bodies are sensitized to VD Because of this, the effects of VD for them are stronger than average. They don't need as much VD as others. On the other hand, extra sunshine or relatively low therapeutic doses of VD can increase the effects of VD in the body, leading to increased intestinal calcium absorption, calcium mobilization from the bones, and hypercalcemia. <sup>[51]</sup> The group “VD hypersensitivity” is divided into subgroups “exogenous and endogenous” based on its etiology
+
+Exogenous VDHY results from consuming extremely large amounts of pharmaceutical VD preparations. Values > 150 ng/mL (375 nmol/L) of serum 25(OH)D3 signify exogenous VDHY. The serum 1,25(OH)2D3 levels are average. There is also hypercalcemia and low PTH <sup>[52]</sup>. According to the 2011 recommendations of the Institute of Medicine, the maximum tolerated levels of VD intake is 1000 IU/d for newborns under six months of age, 1500 IU/d for infants of six to 12 months of age, 2500 IU/d for children of one to three years of age, 3000 IU/d for children of four–to eight years of age, and 4000 IU/d for adolescents and adults <sup>[55]</sup>. However, several studies have shown that VD is probably one of the least dangerous fat-soluble vitamins, far less dangerous than vitamin A <sup>[56]</sup>.
+
+Endogenous VD hypersensitivity syndrome was discovered more than 70 years ago. To treat rickets, children are administered high amounts of VD. While the majority of children responded favorably to this treatment, some displayed symptoms of hypercalcemia. This illness spread and became endemic in three distinct occurrences. The first occurred in Great Britain in the early 1950 s <sup>[57]</sup>, the second in Poland in the 1970 s <sup>[58]</sup>, and the third in East Germany in the 1980 s <sup>[59]</sup>. This syndrome was initially called idiopathic infantile hypercalcemia (IIH), but the name was misleading. It also occurs in adults, and its etiology is well-known.
+
+One cause for endogenous VDHY is ectopic synthesis of 1,25(OH)2D3. The placenta synthesizes extra 1,25(OH)2D3 during pregnancy <sup>[76]</sup>. Sarcoid lymph nodes synthesize extra 1,25(OH)2D3 <sup>[60]</sup>, <sup>[61]</sup>, <sup>[62]</sup>. Ectopic synthesis of 1,25(OH)2D3 is also observed in tuberculosis <sup>[63]</sup>, lymphomas <sup>[64]</sup>, <sup>[65]</sup>, fungal infections, leprosy, and other granulomatous diseases <sup>[51]</sup>.
+
+Another cause of endogenous VDHY is mutations in the genes responsible for the synthesis or catabolism of VD. In 2011, Shlingmann et al. reported alterations in  **CYP24A1**  expression in patients with idiopathic infantile hypercalcemia (IIH). CYP24A1 catabolizes 1,25(OH)2D3 into its inactive metabolites. Mutations in the CYP24A1 gene result in the build-up of 1,25(OH)2D3 and a decrease in its degradation <span>[Fig. 1]</span>. <sup>[3]</sup>, <sup>[66]</sup> In 2017, Schlingmann et al. found that a mutation in the SLC34A1 gene results in hypophosphatemia <sup>[4]</sup> by impairing the proximal tubules' ability to reabsorb phosphate from primary urine <sup>[4]</sup>, <sup>[66]</sup>. Therefore, hypophosphatemia concurrently inhibits CYP24A1 and stimulates 1α-hydroxylase (CYP27B1) (Fig. 1) <sup>[67]</sup>. The accumulation of 1,25(OH)2D3 is also an outcome of this mutation. Nephrolithiasis, decreased PTH levels, hypercalcemia, and hypercalciuria are the hallmarks of both mutations. (Fig. 1) Besides, mutations in SLC34A1 <sup>[4]</sup>, <sup>[66]</sup> cause hypophosphatemia. Other yet unknown abnormalities in the genes controlling VD metabolism are expected, except for in CYP24A1 and SLC34A1 <sup>[68]</sup>.
+
+In addition, an increase in the quantity of VDRs or saturation of the DBP capacity can lead to endogenous VDHY <sup>[52]</sup>.
+
+Endogenous VDHY, caused by gene mutations, constitutes a hereditary risk factor because VD substitution can lead to the development of symptomatic hypercalcemia in otherwise healthy neonates <sup>[66]</sup>. Biallelic mutations result in the aforementioned clinical and biochemical phenotypes. Individuals carrying monoallelic gene mutations may exhibit hypersensitivity reactions to excess VD, have an attenuated disease, or be asymptomatic carriers <sup>[51]</sup>.
+
+Clinical signs of hypercalcemia are similar, although the etiology varies. Only a small percentage of patients exhibit significant symptoms, and most patients are asymptomatic and diagnosed through routine examinations <sup>[51]</sup>. In babies, in addition to weight loss, clinical symptoms include polyuria, dehydration, vomiting, and constipation <sup>[66]</sup>.
+
+VDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients <sup>[51]</sup>.
+
+Chronic subclinical hypercalcemia and hypercalciuria result in kidney stones, adult renal insufficiency, and severely decreased kidney function. In addition to tubulointerstitial inflammation and fibrosis, mineral deposits associated with nephrocalcinosis play a role in developing end-stage renal diseases <sup>[69]</sup>, <sup>[70]</sup>, <sup>[71]</sup>, <sup>[72]</sup>. Hypertension, arterial calcifications, and arterial vasoconstriction are cardiovascular symptoms associated with hypercalcemia. Mutations in CYP24A1 have been associated with coronary artery calcification, which, in turn, leads to a higher risk of coronary heart disease. <sup>[73]</sup>, <sup>[74]</sup>, <sup>[75]</sup> Throughout pregnancy, the amount of 1,25(OH)2D3 produced by the placenta increases <sup>[76]</sup>. Patients with VDHY do not experience an increased VD breakdown. Serious pregnancy consequences include pancreatitis, nephrolithiasis, arterial hypertension, potentially fatal hypercalcemic crises, and lethality for the mother and/or the fetus. <sup>[77]</sup>, <sup>[78]</sup>, <sup>[79]</sup>, <sup>[80]</sup>, <sup>[81]</sup> Additional clinical manifestations of hypercalcemia include neuropsychiatric symptoms such as depression, hallucinations, anorexia, nausea, vomiting, constipation, peptic ulcer disease, pancreatitis, varying degrees of demineralization and fragility of the bone, and stupor and coma in severe cases <sup>[51]</sup>.
+
+Nonetheless, VDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients <sup>[51]</sup>.
+
+The diagnosis of VD hypersensitivity is challenging. Pregnancy, medication use, VD replacement, and related conditions such as lymphomas, cancer, nephrocalcinosis, granuloma-forming illnesses, and hereditary diseases, as well as nephrolithiasis, decreased PTH levels, hypercalcemia, hypercalciuria, and hypophosphatemia should be carefully considered. In the presence of excessive 25(OH)D3, the resulting hypercalcemia is known as exogenous VDHY. <sup>[51]</sup> In endogenous VDHY, elevated 1,25(OH)2D3 concentrations have been associated with hypercalcemia. <sup>[51]</sup> If pathogenic CYP24A1 mutations are suspected, the 25(OH)D3 to 24,25(OH)2D3 ratio should be evaluated. The 25(OH)D3 to 24,25(OH)2D3 ratio is approximately < 30 in most heterozygotes and individuals without pathogenic CYP24A1 mutations; however, it is generally > 80 in individuals with harmful mutations. Genetic testing must be performed if the ratio of 25(OH)D3 to 24,25(OH)2D3 is > 80. <sup>[82]</sup>, <sup>[83]</sup>.
+
+The primary course of hypercalcemia treatment is to reduce calcium intake and consume large amounts of water. Exogenous VDHY necessitates discontinuation of VD supplementation <sup>[51]</sup>. The central management strategies for CYP24A1 mutations include reducing sun exposure and eliminating VD prophylaxis <sup>[3]</sup>. For SLC34A1 mutations, phosphate supplementation is the initial therapeutic option; reducing VD consumption does not normalize test findings <sup>[4]</sup>. Patients with genetic defects that cause hypercalcemia, granulomatous diseases, and lymphomas are advised to avoid exposure to sunlight <sup>[52]</sup>. Glucocorticoids help reduce calcium levels by reducing intestinal calcium absorption, increasing calcium excretion in the urine, and encouraging the creation of inactive metabolites <sup>[52]</sup>. Glucocorticoids have no therapeutic effect in individuals with genetic defects that cause hypercalcemia <sup>[51]</sup>. Patients with CYP24A1 mutations may need to be treated with rifampicin and azoles to treat hypercalcemia. Azole-containing medications are CYP27B1 inhibitors. Rifampicin is a tuberculosis medicine that increases the activity of the enzyme CYP3A4, which, in this case, effectively inactivates VD metabolites compared to CYP24A1. <sup>[51]</sup>.
+
+The prevalence of VD hypersensitivity remains unknown. A Polish population survey revealed biallelic variations in CYP24A1 and SLC34A1 are found in one in 32,465 births <sup>[58]</sup>. Severe VDHY is associated with biallelic mutations in the SLC34A1 or CYP24A1 genes <sup>[51]</sup>. The identification of heterozygous SLC34A1 and CYP24A1 mutations can be challenging. As a result, heterozygous mutations often remain undetected and are not detected until the VD substitution is used. In otherwise seemingly healthy neonates, CYP24A1 or SLC34A1 mutations are familial risk factors for the development of symptomatic hypercalcemia, which may be exacerbated by VD prophylaxis. Biallelic abnormalities in the CYP24A1 gene may be present in 4–20 % of patients with calcium kidney stones <sup>[84]</sup>. Sarcoidosis frequently results in VDHY due to the ectopic synthesis of active VD <sup>[60]</sup>. The frequency of sarcoidosis varies significantly by region, ranging from one to five per 100,000 individuals in South Korea, Japan, and Taiwan to 140–160 per 100,000 individuals in Sweden and Canada <sup>[85]</sup>. Furthermore, the real-world prevalence of VDHY remains unknown <sup>[52]</sup>. According to two accurate but narrowly sampled studies, about 25 % of Finns have VDHY <sup>[48]</sup>, <sup>[49]</sup>.
+
+The prevalence of new CYP24A1 and SLC34A1 mutations, VD supplementation, and recently identified differences in genes regulating VD metabolism contribute to increased VDHY. The administration of VD3 at doses higher than those advised may increase the risk of VDHY <sup>[51]</sup>, <sup>[52]</sup>, <sup>[53]</sup>.
+
+Table 1 shows the main differences between VD resistance and VD hypersensitivity.
+
+ **Section snippets** 
+
+Discussion
+
+The treatment of autoimmune diseases can be complicated. High-dose VD therapy may be used to treat VDRES effectively. However, the outcomes and potential negative repercussions must be carefully evaluated.
+
+VD has been shown to help treat or prevent cardiovascular disorders, and VDD has been recognized as a risk factor for these conditions in multiple trials <sup>[86]</sup>. In contrast, in individuals with VDHY, VD supplementation increases the prevalence of kidney disease and vascular calcification, which …..
+
+Closing words
+
+VDD affects people worldwide. On the other hand, the risk of hypercalcemia in individuals with VDHY caused by VD supplementation may increase as more people become aware of the health benefits of VD….
+
+##### Some of the references
+
+D.D. Bikle Vitamin D metabolism, mechanism of action, and clinical applications Chem Biol. (2014)
+
+P.K. Singh et al. Epigenetic distortion to VDR transcriptional regulation in prostate cancer cells J Steroid Biochem Mol Biol. (2013)
+
+P.J. Malloy et al. Genetic disorders and defects in vitamin D action Endocrinol Metab Clin North Am. (2010)
+
+F.J.J. Rieder et al.
+
+Human cytomegalovirus infection downregulates vitamin-D receptor in mammalian cells
+
+J Steroid Biochem Mol Biol
+
+(2017)
+
+N. Saksa et al.
+
+Dissecting high from low responders in a vitamin D3 intervention study
+
+J Steroid Biochem Mol Biol
+
+(2015)
+
+S. Seuter et al.
+
+Molecular evaluation of vitamin D responsiveness of healthy young adults
+
+J Steroid Biochem Mol Biol
+
+(2017)
+
+M.F. Holick
+
+Vitamin D is not as toxic as was once thought: a historical and up-to-date perspective
+
+Mayo Clin Proc.
+
+(2015)
+
+J.F. Seymour et al.
+
+Calcitriol: the major humoral mediator of hypercalcemia in Hodgkin's disease and non-Hodgkin's lymphomas
+
+Blood.
+
+(1993)
+
+L.A. Baxter et al.
+
+Stimulation of 25-hydroxyvitamin D3–1alpha-hydroxylase by phosphate depletion
+
+J Biol Chem.
+
+(1976)
+
+D. Dinour et al.
+
+Loss-of-function mutations of CYP24A1, the vitamin D 24-hydroxylase gene, cause long-standing hypercalciuric nephrolithiasis and nephrocalcinosis
+
+J Urol.
+
+(2013)
+
+T. Nakano et al.
+
+Association of kidney function with coronary atherosclerosis and calcification in autopsy samples from Japanese elders: the Hisayama study
+
+Am J Kidney Dis.
+
+(2010)
+
+Chanchlani R, Nemer P, Sinha R, Nemer L, Krishnappa V, Sochett E, et al. An Overview of Rickets in Children. Kidney Int...
+
+S. Jullien
+
+Vitamin D prophylaxis in infancy
+
+BMC Pediatr.
+
+(2021)
+
+E. Pál et al.
+
+Role of Vitamin D Deficiency in the Pathogenesis of Cardiovascular and Cerebrovascular Diseases
+
+Nutrients.
+
+(2023)
+
+R. Marino et al.
+
+Extra-skeletal effects of vitamin D
+
+Nutrients.
+
+(2019 Jun 27)
+
+J. Yu et al.
+
+Vitamin D and beta cells in type 1 diabetes: a systematic review
+
+Int J Mol Sci.
+
+(2022)
+
+C. Carlberg et al.
+
+Signaling in the context of innate immunity: focus on human monocytes
+
+Front Immunol.
+
+(2019)
+
+T. Ao et al.
+
+The effects of vitamin D on immune system and inflammatory diseases
+
+Biomolecules.
+
+(2021)
+
+W. Lasoń et al.
+
+The vitamin D receptor as a potential target for the treatment of age-related neurodegenerative diseases such as alzheimer's and parkinson's diseases: a narrative review
+
+Cells.
+
+(2023)
+
+N. Latic et al.
+
+Vitamin D and Cardiovascular Disease, with Emphasis on Hypertension, Atherosclerosis, and Heart Failure
+
+Int J Mol Sci.
+
+(2020 Sep 4)
+
+Bikle DD. Vitamin D receptor, a tumor suppressor in the skin. Can J Physiol Pharmacol. 2015 ay;93(5):349-54. doi...
+
+M. Grzesiak
+
+Vitamin D3 action within the ovary - an updated review
+
+Physiol Res.
+
+(2020)
+
+F. Shaikh et al.
+
+Do VDR gene polymorphisms contribute to breast cancer?
+
+Asian Pac J Cancer Prev.
+
+(2016)
+
+M. Shang et al.
+
+Vitamin D/VDR, probiotics, and gastrointestinal diseases
+
+Curr Med Chem.
+
+(2017)
+
+R. Bouillon et al.
+
+The health effects of vitamin D supplementation: evidence from human studies
+
+Nat Rev Endocrinol.
+
+(2022)
+
+C. Agliardi et al.
+
+VDR Gene Single Nucleotide Polymorphisms and Autoimmunity: A Narrative Review
+
+Biology (basel).
+
+(2023)
+
+K.P. Schlingmann et al.
+
+Mutations in CYP24A1 and idiopathic infantile hypercalcemia
+
+N Engl J Med
+
+(2011)
+
+K.P. Schlingmann et al.
+
+Autosomal-recessive mutations in SLC34A1 encoding sodium-phosphate cotransporter 2A cause idiopathic infantile hypercalcemia
+
+J Am Soc Nephrol.
+
+(2016)
+
+Lemke D, Klement RJ, Schweiger F, Schweiger B, Spitz J. Vitamin D Resistance as a Possible Cause of Autoimmune...
+
+F. Albright et al.
+
+Rickets resistant to vitamin D therapy
+
+Am J Dis Child
+
+(1937)
+
+U.A. Liberman
+
+Vitamin D-resistant diseases
+
+J Bone Miner Res.
+
+(2007 Dec)
+
+S.P. Yenamandra et al.
+
+Epstein-Barr virus encoded EBNA-3 binds to vitamin D receptor and blocks activation of its target genes
+
+Cell Mol Life Sci
+
+(2010)
+
+P.J. Malloy et al.
+
+Inactivation of the human vitamin D receptor by caspase-3
+
+Endocrinology
+
+(2009)
+
+G. Mazziotti et al.
+
+Vitamin D and Glucocorticoid-Induced Osteoporosis
+
+Front Horm Res
+
+(2017)
+
+H.L. Henry et al.
+
+Interactions Between Aluminum and the Actions and Metabolism of Vitamin D3 in the Chick
+
+Calcif Tissue Int
+
+(1985)
+
+M. Mold et al.
+
+Aluminum in brain tissue in multiple sclerosis
+
+Int J Environ Res Public Health
+
+(2018)
+
+J.M. Barragry et al.
+
+Intestinal cholecalciferol absorption in the elderly and younger adults
+
+Clin Sci Mol Med
+
+(1978)
+
+J. Maclaughlin et al.
+
+Aging Decreases the Capacity of Human Skin to Produce Vitamin D3
+
+Nutr Clin Pract
+
+(1986)
+
+C. Rushton
+
+Vitamin D hydroxylation in youth and old age
+
+Age Ageing
+
+(1978)
+
+Sîrbe C, Rednic S, Grama A, Pop TL: An Update on the Effects of Vitamin D on the Immune System and Autoimmune Diseases....
+
+V. Dipasquale et al.
+
+Vitamin D in prevention of autoimmune diseases
+
+Front Biosci (landmark Ed).
+
+(2022)
+
+Zhao R, Zhang W, Ma C,Zhao Y, Xiong R, Wang H et al.: Immunomodulatory Function of Vitamin D and Its Role in Autoimmune...
+
+Islam MA, Khandker SS, Alam SS, Kotyla P, Hassan R. Vitamin D status in patients with systemic lupus erythematosus...
+
+L.E. Jeffery et al.
+
+Vitamin D in rheumatoid arthritis -towards clinical application
+
+Nat Rev Rheumatol.
+
+(2016)
+
+F. Vernia et al. Vitamin D in inflammatory bowel diseases. mechanisms of action and therapeutic implications Nutrients. (2022)
+
+Pappa H.M., Mitchell P.D., Jiang H., Kassiff S., Filip-Dhima R., DiFabio D., et al. Maintenance of optimal vitamin D...
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Significance of vitamin D responsiveness on the etiology of vitamin D-related diseases
+
+Steroids https://doi.org/10.1016/j.steroids.2024.109437 PDF behind paywall
+
+Ulla M. Järvelin a b 1, Juho M. Järvelin c 2
+
+ **Highlights** 
+
+* Response to Vitamin D (VD) is a continuum, varying from VD resistance to VD hypersensitivity.
+
+* Low response to VD leads to autoimmunity. VD more than recommended is needed.
+
+* Strong response to VD leads to organ calcification. The sun and extra VD cause harm.
+
+* The prevalence of resistance or hypersensitivity to VD is undetermined.
+
+Vitamin D resistance (VDRES) explains the necessity for higher doses of Vitamin D (VD) than those recommended for treatment success. VD receptor (VDR) signaling blockade, such as that caused by infections and poisons, is one basis for VDRES etiology. Mutations within genes affecting the VD system cause susceptibility to developing low VD responsiveness and autoimmunity. In contrast, VD hypersensitivity (VDHY) occurs if there is extra VD in the body; for example, as a result of an overdose of a VD supplement. Excess 1,25(OH)2D3 is produced in lymphomas and granulomatous diseases. The placenta produces excess 1,25(OH)2D3. Gene mutations regulating the production or degradation of 1,25(OH)2D3 enhance the effects of 1,25(OH)2D3. Increased 1,25(OH)2D3 levels stimulate calcium absorption in the gut, leading to hypercalcemia. Hypercalcemia can result in the calcification of the kidneys, circulatory system, or placenta, leading to kidney failure, cardiovascular disease, and pregnancy complications. The primary treatment involves avoiding exposure to the sun and VD supplements. The prevalence rates of VDRES and VDHY remain unclear. One estimate was that 25%, 51%, and 24% of the patients had strong, medium, and poor responses, respectively. Heavy-dose VD therapy may be a promising method for the treatment of autoimmune diseases; however, assessing its potential side effects is essential. To avoid VD-mediated hypercalcemia, responsiveness must be considered when treating pregnancies or cardiovascular diseases associated with VD. Furthermore, how VD is associated with the related disorders remains unclear. Investigating responsiveness to VD may provide more accurate results.
+
+Introduction
+
+A noteworthy development in modern medicine is using vitamin D (VD) to treat and prevent rickets &lt;sup&gt;[1]&lt;/sup&gt;, &lt;sup&gt;[2]&lt;/sup&gt;. According to estimates, vitamin D deficiency (VDD) affects up to 40 % of people in the European Union and 24 % of Americans &lt;sup&gt;[3]&lt;/sup&gt;, and moderate cases of VDD are considered substantial health risks, even though severe cases are rare, and rickets is infrequent. VDD is associated with conditions such as cancer, connective tissue disorders, inflammatory bowel disorders, chronic hepatitis, food allergies, asthma, respiratory infections, and type 1 and 2 diabetes. However, most intervention studies have not proven a link between VDD and these conditions &lt;sup&gt;[4]&lt;/sup&gt;. Calcitriol, a physiologically active VD, mediates its action by binding to the vitamin D receptor (VDR) &lt;sup&gt;[5]&lt;/sup&gt;. VDR is present throughout the body, including in cells involved in immune modulation &lt;sup&gt;[6]&lt;/sup&gt;, &lt;sup&gt;[7]&lt;/sup&gt;, &lt;sup&gt;[8]&lt;/sup&gt;, &lt;sup&gt;[9]&lt;/sup&gt;, &lt;sup&gt;[10]&lt;/sup&gt;, &lt;sup&gt;[11]&lt;/sup&gt;, &lt;sup&gt;[12]&lt;/sup&gt;, &lt;sup&gt;[13]&lt;/sup&gt;, &lt;sup&gt;[14]&lt;/sup&gt;, &lt;sup&gt;[15]&lt;/sup&gt;. The almost universal expression of the VDR implies that the VD/VDR axis controls genes associated with several processes, including energy metabolism, immunological responses, cell growth and differentiation, and calcium homeostasis &lt;sup&gt;[16]&lt;/sup&gt;. However, most intervention studies have not proven a link between VDD and these processes &lt;sup&gt;[4]&lt;/sup&gt;. VD supplementation can increase serum 25OHD3 concentration to a high normal range. However, this has not been associated with benefits for global health, major diseases, or medical events such as cancer, cardiovascular events, diabetes mellitus, falls, or fractures, at least in largely VD-replete adults &lt;sup&gt;[16]&lt;/sup&gt;. The importance of VD substitution for preventing and treating rickets is indisputable. However, treatment results for other diseases associated with VDD and VD are contradictory. This review attempts to determine the effects of VD responsiveness
+
+A review of VD metabolism will help us understand the mechanisms associated with VD responsiveness and the utility of measuring VD metabolites when diagnosing VD responsiveness.
+
+The skin synthesizes cholecalciferol (VD3), a secosteroid that functions as a prohormone. Although dietary VD supplements can also produce it, endogenous synthesis in the skin is the main source of VD3. In the skin, UVB causes the phototransformation of 7-dehydrocholesterol into pre-VD3, and heat promotes the conversion of pre-VD3 into VD3. VD3 is mostly transferred from the skin to the bloodstream by d-binding protein (DBP). Notably, 25-hydroxylases (CYP2R1 and CYP27A1) modify VD3 via hydroxylation in the liver, resulting in 25-hydroxyvitamin D3 (25OHD3). Subsequently, 1α-hydroxylase (CYP27B1) performs a second hydroxylation to produce the active form, calcitriol &lt;span&gt;[1,25(OH)2D3]&lt;/span&gt;, predominantly in the kidneys. &lt;sup&gt;[5]&lt;/sup&gt; However, hydroxylation can also occur in other tissues and cells. The active form interacts with the VDR and affects biological processes &lt;sup&gt;[5]&lt;/sup&gt;, &lt;sup&gt;[17]&lt;/sup&gt;. Furthermore, 24-hydroxylase (CYP24A1) converts 25(OH)D3 and 1,25(OH)2D3 into inactive metabolites &lt;sup&gt;[5]&lt;/sup&gt;. Additionally, 1,25(OH)2D3 concentration, blood calcium levels, and parathyroid hormone (PTH) levels principally control CYP27B1 and CYP24A1 activity. Furthermore, klotho and FGF23 negatively regulate CYP27B1 and positively regulate CYP24A1, linking VD metabolism to phosphate homeostasis (Fig. 1). &lt;sup&gt;[18]&lt;/sup&gt; Free phosphate is filtered in the glomerulus of the human kidney before being reabsorbed as it travels along the nephron. The sodium phosphate cotransporter (NaPi-IIa), which regulates phosphate reabsorption from primary urine in the proximal tubule, is encoded by SLC34A1. NaPi-Iia, Klotho, FGF23, PTH, and 1,25(OH)2D3 control renal phosphate levels. &lt;sup&gt;[19]&lt;/sup&gt; Intestinal 1,25(OH)2D3 enhances calcium absorption. PTH increases calcium release from the bones into the circulation if the blood-ionized calcium content is low. PTH also accelerates the conversion of 25(OH)D3 to 1,25(OH)2D3, which is then released into the bloodstream. PTH prevents phosphate reabsorption, resulting in larger quantities of ionized calcium and lower levels of water-soluble calcium phosphate salts. Consequently, the VD system has a direct feedback mechanism. PTH should be low in the lower third of the reference range if 25(OH)D3 levels are physiologically high and vice versa. &lt;sup&gt;[20]&lt;/sup&gt;.
+
+In the 1930 s, some children with rickets were observed to require high doses of VD to alleviate their symptoms. In 1937, Albright, Butler, and Bloomberg introduced the concept of VD resistance (VDRES) &lt;sup&gt;[21]&lt;/sup&gt;. Further research revealed that these children had either hereditary defects in 1α-hydroxylase, leading to decreased active VD (VD-dependent rickets type I &lt;span&gt;[VDDR-I]&lt;/span&gt;, or congenital defects in VDR. When VDR is defective, genetic VD-resistant rickets (HVDRR), also known as VD-dependent rickets type II (VDDR-II), develops. Both are rare autosomal recessive disorders characterized by hypocalcemia, secondary hyperparathyroidism, and early onset severe rickets. &lt;sup&gt;[22]&lt;/sup&gt; Rare instances of HVDRR defects have been detected to cause this issue. Only 70 items were discussed in the 2007 article “Vitamin d-resistant diseases” &lt;sup&gt;[23]&lt;/sup&gt;.
+
+ **Although VDRES is rare (see 1.2.), the concept of acquired VDRES has been developed** , which is more common and could be related to autoimmune diseases.  **This resistance results from mutations in the VD system that occur during aging and exposure to environmental factors, thereby impairing VD hormone signaling.**  These environmental factors include pathogens such as the 
+
+* Ebstein-Barr virus &lt;sup&gt;[24]&lt;/sup&gt;, 
+
+* cytomegalovirus &lt;sup&gt;[25]&lt;/sup&gt;, 
+
+* legionella, escherichia coli, and 
+
+* Yersinia. &lt;sup&gt;[26]&lt;/sup&gt;.
+
+   *  **&lt;span style=&quot;color:#00F;&quot;&gt;(Not mentioned; COVID, Cancers, poor gut, etc)&lt;/span&gt;** 
+
+These pathogens can block the VDR and alter host immune responses. 
+
+* Glucocorticoids can also disturb the VDR gene &lt;sup&gt;[27]&lt;/sup&gt;. 
+
+Aluminum can decrease renal CYP27B1 activity in chickens &lt;sup&gt;[28]&lt;/sup&gt; and has been found at high concentrations in the brain tissue of patients with multiple sclerosis (MS) &lt;sup&gt;[29]&lt;/sup&gt;. 
+
+ **Aging**  reduces intestinal cholecalciferol absorption &lt;sup&gt;[30]&lt;/sup&gt;, decreases endogenous skin production &lt;sup&gt;[31]&lt;/sup&gt; and VD hydroxylation &lt;sup&gt;[32]&lt;/sup&gt;. The weakest link in the VD metabolic system is VDR, and the most significant indicators of acquired VDRES are mutations in the VDR &lt;sup&gt;[17]&lt;/sup&gt;, &lt;sup&gt;[20]&lt;/sup&gt;. The genes CYP2R1, CYP27A1, CYP27B1, and DBP (necessary for VD transport in circulation) and the cell-surface receptor megalin-cubilin, which is the membrane receptor for the 1,25(OH)2D3/DBP complex, also have mutations associated with autoimmune diseases &lt;sup&gt;[20]&lt;/sup&gt;.
+
+Autoimmune disorders occur when the immune system mistakenly attacks healthy cells and tissues. VD is vital for maintaining a strong and healthy immune system. Therefore, VDD can increase the risk of autoimmune disorders by weakening the adaptive immune system. &lt;sup&gt;[33]&lt;/sup&gt;, &lt;sup&gt;[34]&lt;/sup&gt; Several autoimmune conditions such as
+
+autoimmune thyroid disease &lt;sup&gt;[35]&lt;/sup&gt;, 
+
+* systemic lupus erythematosus &lt;sup&gt;[36]&lt;/sup&gt;, 
+
+* rheumatoid arthritis &lt;sup&gt;[37]&lt;/sup&gt;, 
+
+* inflammatory bowel disease (IBD) &lt;sup&gt;[38]&lt;/sup&gt;, &lt;sup&gt;[39]&lt;/sup&gt;, MS &lt;sup&gt;[43]&lt;/sup&gt;, and 
+
+* insulin-dependent type 1 diabetes mellitus &lt;sup&gt;[6]&lt;/sup&gt; have been associated with VDD. 
+
+However, more research is needed to determine if VDD is the cause or effect of these autoimmune disorders &lt;sup&gt;[33]&lt;/sup&gt;, &lt;sup&gt;[34]&lt;/sup&gt;. Patients with IBD often have difficulty absorbing VD, necessitating higher doses of VD to achieve normal serum 25(OH)D levels. This can prevent the development of bone fragility, osteoporosis, and osteomalacia &lt;sup&gt;[38]&lt;/sup&gt;. However, few randomized controlled trials have examined the effects of VD supplementation on disease occurrence and severity. One study found that a higher dose of VD (2000 IU) led to lower levels of proinflammatory markers in children and adolescents with IBD than a lower dose of 400 IU &lt;sup&gt;[39]&lt;/sup&gt;. Children with rheumatic diseases, especially those treated with steroids, are recommended to receive at least double the daily recommended dose of VD for their age (approximately 2000 UI/day) &lt;sup&gt;[40]&lt;/sup&gt;.
+
+Recent studies on treating autoimmune diseases have revealed the clinical advantages of high-dose VD therapy. A single high dose of VD3 (100 000 IU) may positively affect health outcomes in older adults &lt;sup&gt;[41]&lt;/sup&gt;. Large-dose, short-term VD supplementation has been shown to reduce insulin resistance compared to placebos in patients with type 2 diabetes &lt;sup&gt;[42]&lt;/sup&gt;. Recommended serum 25(OH)D levels are usually 20 – 30 ng/ mL. 
+
+ **In MS treatment, serum 25(OH)D levels of approximately 130 ng/mL are recommended for therapeutic effects.** 
+
+Clinical trials have shown that VD doses ranging from 10,000 to 40,000 IU/day are safe as an add-on therapy. In any case, these trials were relatively short in duration, had small sample sizes, and in many cases, were not placebo-controlled. The adverse effects during the trials were usually minor and manageable. The results of these trials are conflicting, and whether regular VD intake is reasonable beyond the correction of hypovitaminosis D remains unclear. &lt;sup&gt;[43]&lt;/sup&gt;.
+
+ **Dr. Cicero Coimbra** , a neurologist from Brazil, used ultrahigh doses of VD to treat patients with autoimmune diseases &lt;sup&gt;[44]&lt;/sup&gt;, &lt;sup&gt;[45]&lt;/sup&gt;. This approach has been used in Germany to treat patients with autoimmune diseases since 2016. The fundamental idea behind high-dose VD3 therapy is that some patients have a non-hereditary, acquired type of VDRES and insufficient biological activity of 1,25(OH)2D3. To overcome this resistance, high doses of VD3 are administered to patients to unblock VDRs. The initial doses of VD3 in the Coimbra protocol depend on the autoimmune disease being treated. 
+
+For MS, doses of up to 1000 IU of VD3 per kg of body weight may be used, whereas other autoimmune disorders require smaller doses. &lt;sup&gt;[20]&lt;/sup&gt;
+
+In rheumatoid arthritis, systemic lupus erythematosus, psoriatic arthritis, psoriasis, Crohn’s disease, and ulcerative colitis, initial VD3 doses of 300–500 IU/kg of body weight are used. Systemic scleroderma, ankylosing spondylitis, and Hashimoto’s thyroiditis require VD3 doses of 300 IU/kg of body weight, whereas other autoimmune diseases require VD3 doses of 150 IU/kg of body weight. The doses are gradually adjusted (usually lowered) during follow-up, based on a standardized procedure that considers the patient&#39;s clinical condition, calcium levels, and PTH concentrations. &lt;sup&gt;[20]&lt;/sup&gt; Studies have shown that the Coimbra protocol is safe for patients with autoimmune diseases when oral VD3 is administered in large doses with a strict low-calcium diet and daily fluid intake of 2.5 L. Owing to the underlying VDRES, patients are protected against what is typically considered a potentially toxic dose, and the doses used in this protocol only have physiological effects. &lt;sup&gt;[46]&lt;/sup&gt; The Coimbra protocol is similar to insulin resistance therapy in which higher doses are administered to address resistance &lt;sup&gt;[47]&lt;/sup&gt;.
+
+Carsten Carlberg, a Professor of Biochemistry at the University of Eastern Finland, studied VD&#39;s gene regulation and epigenetics. He found that people respond differently, molecularly and biochemically, to the same dosage of VD3. During the Finnish winter of 2015, 71 senior prediabetic participants in the VitDmet study received daily supplements of 0, 1600, or 3200 IU VD3. This study focused on the effects of VD3 supplementation on mRNA expression of 12 VD-regulated genes and several VD-affected laboratory parameters. This study demonstrated that even high doses of VD3 (3200 IU) did not always have the desired VD-regulatory effects in participants, with 25 % of patients failing to respond as expected. According to this study, patients were categorized as low (24 %), mid (51 %), and high responders (25 %). &lt;sup&gt;[48]&lt;/sup&gt; Later, in 2017, the same research group conducted the VitDbol study, in which a group of healthy students received an 80,000 IU bolus dose of VD3. The results of the VitDbol study validated the findings of the VitDmet study. &lt;sup&gt;[49]&lt;/sup&gt; To get an acceptable physiological response, such as lowering PTH concentrations or downregulating an activated adaptive immune system, patients with VDRES need substantial doses of VD3. Increased PTH levels, despite adequate 25(OH)D3 levels, are signs of acquired VDRES and can occur in patients with autoimmune diseases. In the VD system, PTH is essential for improving intestinal calcium absorption, triggering calcium release from the bones, boosting the conversion of 25(OH)D3 to 1,25(OH)2D3, and preventing tubular phosphate reabsorption. An average 25(OH)D3 level should reduce the PTH levels to the lower third of the reference range. However, this negative feedback loop is disrupted in patients with autoimmune diseases. &lt;sup&gt;[20]&lt;/sup&gt; On the VD responsiveness continuum, individuals with VDRES fall at the low-response end &lt;sup&gt;[48]&lt;/sup&gt;, &lt;sup&gt;[49]&lt;/sup&gt;.
+
+ **Vitamin D hypersensitivity patients (VDHY patients)**  are on the opposite side of the VD responsiveness continuum. They have either excess VD in the body or their bodies are sensitized to VD Because of this, the effects of VD for them are stronger than average. They don&#39;t need as much VD as others. On the other hand, extra sunshine or relatively low therapeutic doses of VD can increase the effects of VD in the body, leading to increased intestinal calcium absorption, calcium mobilization from the bones, and hypercalcemia. &lt;sup&gt;[51]&lt;/sup&gt; The group “VD hypersensitivity” is divided into subgroups “exogenous and endogenous” based on its etiology
+
+Exogenous VDHY results from consuming extremely large amounts of pharmaceutical VD preparations. Values &gt; 150 ng/mL (375 nmol/L) of serum 25(OH)D3 signify exogenous VDHY. The serum 1,25(OH)2D3 levels are average. There is also hypercalcemia and low PTH &lt;sup&gt;[52]&lt;/sup&gt;. According to the 2011 recommendations of the Institute of Medicine, the maximum tolerated levels of VD intake is 1000 IU/d for newborns under six months of age, 1500 IU/d for infants of six to 12 months of age, 2500 IU/d for children of one to three years of age, 3000 IU/d for children of four–to eight years of age, and 4000 IU/d for adolescents and adults &lt;sup&gt;[55]&lt;/sup&gt;. However, several studies have shown that VD is probably one of the least dangerous fat-soluble vitamins, far less dangerous than vitamin A &lt;sup&gt;[56]&lt;/sup&gt;.
+
+Endogenous VD hypersensitivity syndrome was discovered more than 70 years ago. To treat rickets, children are administered high amounts of VD. While the majority of children responded favorably to this treatment, some displayed symptoms of hypercalcemia. This illness spread and became endemic in three distinct occurrences. The first occurred in Great Britain in the early 1950 s &lt;sup&gt;[57]&lt;/sup&gt;, the second in Poland in the 1970 s &lt;sup&gt;[58]&lt;/sup&gt;, and the third in East Germany in the 1980 s &lt;sup&gt;[59]&lt;/sup&gt;. This syndrome was initially called idiopathic infantile hypercalcemia (IIH), but the name was misleading. It also occurs in adults, and its etiology is well-known.
+
+One cause for endogenous VDHY is ectopic synthesis of 1,25(OH)2D3. The placenta synthesizes extra 1,25(OH)2D3 during pregnancy &lt;sup&gt;[76]&lt;/sup&gt;. Sarcoid lymph nodes synthesize extra 1,25(OH)2D3 &lt;sup&gt;[60]&lt;/sup&gt;, &lt;sup&gt;[61]&lt;/sup&gt;, &lt;sup&gt;[62]&lt;/sup&gt;. Ectopic synthesis of 1,25(OH)2D3 is also observed in tuberculosis &lt;sup&gt;[63]&lt;/sup&gt;, lymphomas &lt;sup&gt;[64]&lt;/sup&gt;, &lt;sup&gt;[65]&lt;/sup&gt;, fungal infections, leprosy, and other granulomatous diseases &lt;sup&gt;[51]&lt;/sup&gt;.
+
+Another cause of endogenous VDHY is mutations in the genes responsible for the synthesis or catabolism of VD. In 2011, Shlingmann et al. reported alterations in  **CYP24A1**  expression in patients with idiopathic infantile hypercalcemia (IIH). CYP24A1 catabolizes 1,25(OH)2D3 into its inactive metabolites. Mutations in the CYP24A1 gene result in the build-up of 1,25(OH)2D3 and a decrease in its degradation &lt;span&gt;[Fig. 1]&lt;/span&gt;. &lt;sup&gt;[3]&lt;/sup&gt;, &lt;sup&gt;[66]&lt;/sup&gt; In 2017, Schlingmann et al. found that a mutation in the SLC34A1 gene results in hypophosphatemia &lt;sup&gt;[4]&lt;/sup&gt; by impairing the proximal tubules&#39; ability to reabsorb phosphate from primary urine &lt;sup&gt;[4]&lt;/sup&gt;, &lt;sup&gt;[66]&lt;/sup&gt;. Therefore, hypophosphatemia concurrently inhibits CYP24A1 and stimulates 1α-hydroxylase (CYP27B1) (Fig. 1) &lt;sup&gt;[67]&lt;/sup&gt;. The accumulation of 1,25(OH)2D3 is also an outcome of this mutation. Nephrolithiasis, decreased PTH levels, hypercalcemia, and hypercalciuria are the hallmarks of both mutations. (Fig. 1) Besides, mutations in SLC34A1 &lt;sup&gt;[4]&lt;/sup&gt;, &lt;sup&gt;[66]&lt;/sup&gt; cause hypophosphatemia. Other yet unknown abnormalities in the genes controlling VD metabolism are expected, except for in CYP24A1 and SLC34A1 &lt;sup&gt;[68]&lt;/sup&gt;.
+
+In addition, an increase in the quantity of VDRs or saturation of the DBP capacity can lead to endogenous VDHY &lt;sup&gt;[52]&lt;/sup&gt;.
+
+Endogenous VDHY, caused by gene mutations, constitutes a hereditary risk factor because VD substitution can lead to the development of symptomatic hypercalcemia in otherwise healthy neonates &lt;sup&gt;[66]&lt;/sup&gt;. Biallelic mutations result in the aforementioned clinical and biochemical phenotypes. Individuals carrying monoallelic gene mutations may exhibit hypersensitivity reactions to excess VD, have an attenuated disease, or be asymptomatic carriers &lt;sup&gt;[51]&lt;/sup&gt;.
+
+Clinical signs of hypercalcemia are similar, although the etiology varies. Only a small percentage of patients exhibit significant symptoms, and most patients are asymptomatic and diagnosed through routine examinations &lt;sup&gt;[51]&lt;/sup&gt;. In babies, in addition to weight loss, clinical symptoms include polyuria, dehydration, vomiting, and constipation &lt;sup&gt;[66]&lt;/sup&gt;.
+
+VDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients &lt;sup&gt;[51]&lt;/sup&gt;.
+
+Chronic subclinical hypercalcemia and hypercalciuria result in kidney stones, adult renal insufficiency, and severely decreased kidney function. In addition to tubulointerstitial inflammation and fibrosis, mineral deposits associated with nephrocalcinosis play a role in developing end-stage renal diseases &lt;sup&gt;[69]&lt;/sup&gt;, &lt;sup&gt;[70]&lt;/sup&gt;, &lt;sup&gt;[71]&lt;/sup&gt;, &lt;sup&gt;[72]&lt;/sup&gt;. Hypertension, arterial calcifications, and arterial vasoconstriction are cardiovascular symptoms associated with hypercalcemia. Mutations in CYP24A1 have been associated with coronary artery calcification, which, in turn, leads to a higher risk of coronary heart disease. &lt;sup&gt;[73]&lt;/sup&gt;, &lt;sup&gt;[74]&lt;/sup&gt;, &lt;sup&gt;[75]&lt;/sup&gt; Throughout pregnancy, the amount of 1,25(OH)2D3 produced by the placenta increases &lt;sup&gt;[76]&lt;/sup&gt;. Patients with VDHY do not experience an increased VD breakdown. Serious pregnancy consequences include pancreatitis, nephrolithiasis, arterial hypertension, potentially fatal hypercalcemic crises, and lethality for the mother and/or the fetus. &lt;sup&gt;[77]&lt;/sup&gt;, &lt;sup&gt;[78]&lt;/sup&gt;, &lt;sup&gt;[79]&lt;/sup&gt;, &lt;sup&gt;[80]&lt;/sup&gt;, &lt;sup&gt;[81]&lt;/sup&gt; Additional clinical manifestations of hypercalcemia include neuropsychiatric symptoms such as depression, hallucinations, anorexia, nausea, vomiting, constipation, peptic ulcer disease, pancreatitis, varying degrees of demineralization and fragility of the bone, and stupor and coma in severe cases &lt;sup&gt;[51]&lt;/sup&gt;.
+
+Nonetheless, VDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients &lt;sup&gt;[51]&lt;/sup&gt;.
+
+The diagnosis of VD hypersensitivity is challenging. Pregnancy, medication use, VD replacement, and related conditions such as lymphomas, cancer, nephrocalcinosis, granuloma-forming illnesses, and hereditary diseases, as well as nephrolithiasis, decreased PTH levels, hypercalcemia, hypercalciuria, and hypophosphatemia should be carefully considered. In the presence of excessive 25(OH)D3, the resulting hypercalcemia is known as exogenous VDHY. &lt;sup&gt;[51]&lt;/sup&gt; In endogenous VDHY, elevated 1,25(OH)2D3 concentrations have been associated with hypercalcemia. &lt;sup&gt;[51]&lt;/sup&gt; If pathogenic CYP24A1 mutations are suspected, the 25(OH)D3 to 24,25(OH)2D3 ratio should be evaluated. The 25(OH)D3 to 24,25(OH)2D3 ratio is approximately &lt; 30 in most heterozygotes and individuals without pathogenic CYP24A1 mutations; however, it is generally &gt; 80 in individuals with harmful mutations. Genetic testing must be performed if the ratio of 25(OH)D3 to 24,25(OH)2D3 is &gt; 80. &lt;sup&gt;[82]&lt;/sup&gt;, &lt;sup&gt;[83]&lt;/sup&gt;.
+
+The primary course of hypercalcemia treatment is to reduce calcium intake and consume large amounts of water. Exogenous VDHY necessitates discontinuation of VD supplementation &lt;sup&gt;[51]&lt;/sup&gt;. The central management strategies for CYP24A1 mutations include reducing sun exposure and eliminating VD prophylaxis &lt;sup&gt;[3]&lt;/sup&gt;. For SLC34A1 mutations, phosphate supplementation is the initial therapeutic option; reducing VD consumption does not normalize test findings &lt;sup&gt;[4]&lt;/sup&gt;. Patients with genetic defects that cause hypercalcemia, granulomatous diseases, and lymphomas are advised to avoid exposure to sunlight &lt;sup&gt;[52]&lt;/sup&gt;. Glucocorticoids help reduce calcium levels by reducing intestinal calcium absorption, increasing calcium excretion in the urine, and encouraging the creation of inactive metabolites &lt;sup&gt;[52]&lt;/sup&gt;. Glucocorticoids have no therapeutic effect in individuals with genetic defects that cause hypercalcemia &lt;sup&gt;[51]&lt;/sup&gt;. Patients with CYP24A1 mutations may need to be treated with rifampicin and azoles to treat hypercalcemia. Azole-containing medications are CYP27B1 inhibitors. Rifampicin is a tuberculosis medicine that increases the activity of the enzyme CYP3A4, which, in this case, effectively inactivates VD metabolites compared to CYP24A1. &lt;sup&gt;[51]&lt;/sup&gt;.
+
+The prevalence of VD hypersensitivity remains unknown. A Polish population survey revealed biallelic variations in CYP24A1 and SLC34A1 are found in one in 32,465 births &lt;sup&gt;[58]&lt;/sup&gt;. Severe VDHY is associated with biallelic mutations in the SLC34A1 or CYP24A1 genes &lt;sup&gt;[51]&lt;/sup&gt;. The identification of heterozygous SLC34A1 and CYP24A1 mutations can be challenging. As a result, heterozygous mutations often remain undetected and are not detected until the VD substitution is used. In otherwise seemingly healthy neonates, CYP24A1 or SLC34A1 mutations are familial risk factors for the development of symptomatic hypercalcemia, which may be exacerbated by VD prophylaxis. Biallelic abnormalities in the CYP24A1 gene may be present in 4–20 % of patients with calcium kidney stones &lt;sup&gt;[84]&lt;/sup&gt;. Sarcoidosis frequently results in VDHY due to the ectopic synthesis of active VD &lt;sup&gt;[60]&lt;/sup&gt;. The frequency of sarcoidosis varies significantly by region, ranging from one to five per 100,000 individuals in South Korea, Japan, and Taiwan to 140–160 per 100,000 individuals in Sweden and Canada &lt;sup&gt;[85]&lt;/sup&gt;. Furthermore, the real-world prevalence of VDHY remains unknown &lt;sup&gt;[52]&lt;/sup&gt;. According to two accurate but narrowly sampled studies, about 25 % of Finns have VDHY &lt;sup&gt;[48]&lt;/sup&gt;, &lt;sup&gt;[49]&lt;/sup&gt;.
+
+The prevalence of new CYP24A1 and SLC34A1 mutations, VD supplementation, and recently identified differences in genes regulating VD metabolism contribute to increased VDHY. The administration of VD3 at doses higher than those advised may increase the risk of VDHY &lt;sup&gt;[51]&lt;/sup&gt;, &lt;sup&gt;[52]&lt;/sup&gt;, &lt;sup&gt;[53]&lt;/sup&gt;.
+
+Table 1 shows the main differences between VD resistance and VD hypersensitivity.
+
+ **Section snippets** 
+
+Discussion
+
+The treatment of autoimmune diseases can be complicated. High-dose VD therapy may be used to treat VDRES effectively. However, the outcomes and potential negative repercussions must be carefully evaluated.
+
+VD has been shown to help treat or prevent cardiovascular disorders, and VDD has been recognized as a risk factor for these conditions in multiple trials &lt;sup&gt;[86]&lt;/sup&gt;. In contrast, in individuals with VDHY, VD supplementation increases the prevalence of kidney disease and vascular calcification, which …..
+
+Closing words
+
+VDD affects people worldwide. On the other hand, the risk of hypercalcemia in individuals with VDHY caused by VD supplementation may increase as more people become aware of the health benefits of VD….
+
+##### Some of the references
+
+D.D. Bikle Vitamin D metabolism, mechanism of action, and clinical applications Chem Biol. (2014)
+
+P.K. Singh et al. Epigenetic distortion to VDR transcriptional regulation in prostate cancer cells J Steroid Biochem Mol Biol. (2013)
+
+P.J. Malloy et al. Genetic disorders and defects in vitamin D action Endocrinol Metab Clin North Am. (2010)
+
+F.J.J. Rieder et al.
+
+Human cytomegalovirus infection downregulates vitamin-D receptor in mammalian cells
+
+J Steroid Biochem Mol Biol
+
+(2017)
+
+N. Saksa et al.
+
+Dissecting high from low responders in a vitamin D3 intervention study
+
+J Steroid Biochem Mol Biol
+
+(2015)
+
+S. Seuter et al.
+
+Molecular evaluation of vitamin D responsiveness of healthy young adults
+
+J Steroid Biochem Mol Biol
+
+(2017)
+
+M.F. Holick
+
+Vitamin D is not as toxic as was once thought: a historical and up-to-date perspective
+
+Mayo Clin Proc.
+
+(2015)
+
+J.F. Seymour et al.
+
+Calcitriol: the major humoral mediator of hypercalcemia in Hodgkin&#39;s disease and non-Hodgkin&#39;s lymphomas
+
+Blood.
+
+(1993)
+
+L.A. Baxter et al.
+
+Stimulation of 25-hydroxyvitamin D3–1alpha-hydroxylase by phosphate depletion
+
+J Biol Chem.
+
+(1976)
+
+D. Dinour et al.
+
+Loss-of-function mutations of CYP24A1, the vitamin D 24-hydroxylase gene, cause long-standing hypercalciuric nephrolithiasis and nephrocalcinosis
+
+J Urol.
+
+(2013)
+
+T. Nakano et al.
+
+Association of kidney function with coronary atherosclerosis and calcification in autopsy samples from Japanese elders: the Hisayama study
+
+Am J Kidney Dis.
+
+(2010)
+
+Chanchlani R, Nemer P, Sinha R, Nemer L, Krishnappa V, Sochett E, et al. An Overview of Rickets in Children. Kidney Int...
+
+S. Jullien
+
+Vitamin D prophylaxis in infancy
+
+BMC Pediatr.
+
+(2021)
+
+E. Pál et al.
+
+Role of Vitamin D Deficiency in the Pathogenesis of Cardiovascular and Cerebrovascular Diseases
+
+Nutrients.
+
+(2023)
+
+R. Marino et al.
+
+Extra-skeletal effects of vitamin D
+
+Nutrients.
+
+(2019 Jun 27)
+
+J. Yu et al.
+
+Vitamin D and beta cells in type 1 diabetes: a systematic review
+
+Int J Mol Sci.
+
+(2022)
+
+C. Carlberg et al.
+
+Signaling in the context of innate immunity: focus on human monocytes
+
+Front Immunol.
+
+(2019)
+
+T. Ao et al.
+
+The effects of vitamin D on immune system and inflammatory diseases
+
+Biomolecules.
+
+(2021)
+
+W. Lasoń et al.
+
+The vitamin D receptor as a potential target for the treatment of age-related neurodegenerative diseases such as alzheimer&#39;s and parkinson&#39;s diseases: a narrative review
+
+Cells.
+
+(2023)
+
+N. Latic et al.
+
+Vitamin D and Cardiovascular Disease, with Emphasis on Hypertension, Atherosclerosis, and Heart Failure
+
+Int J Mol Sci.
+
+(2020 Sep 4)
+
+Bikle DD. Vitamin D receptor, a tumor suppressor in the skin. Can J Physiol Pharmacol. 2015 ay;93(5):349-54. doi...
+
+M. Grzesiak
+
+Vitamin D3 action within the ovary - an updated review
+
+Physiol Res.
+
+(2020)
+
+F. Shaikh et al.
+
+Do VDR gene polymorphisms contribute to breast cancer?
+
+Asian Pac J Cancer Prev.
+
+(2016)
+
+M. Shang et al.
+
+Vitamin D/VDR, probiotics, and gastrointestinal diseases
+
+Curr Med Chem.
+
+(2017)
+
+R. Bouillon et al.
+
+The health effects of vitamin D supplementation: evidence from human studies
+
+Nat Rev Endocrinol.
+
+(2022)
+
+C. Agliardi et al.
+
+VDR Gene Single Nucleotide Polymorphisms and Autoimmunity: A Narrative Review
+
+Biology (basel).
+
+(2023)
+
+K.P. Schlingmann et al.
+
+Mutations in CYP24A1 and idiopathic infantile hypercalcemia
+
+N Engl J Med
+
+(2011)
+
+K.P. Schlingmann et al.
+
+Autosomal-recessive mutations in SLC34A1 encoding sodium-phosphate cotransporter 2A cause idiopathic infantile hypercalcemia
+
+J Am Soc Nephrol.
+
+(2016)
+
+Lemke D, Klement RJ, Schweiger F, Schweiger B, Spitz J. Vitamin D Resistance as a Possible Cause of Autoimmune...
+
+F. Albright et al.
+
+Rickets resistant to vitamin D therapy
+
+Am J Dis Child
+
+(1937)
+
+U.A. Liberman
+
+Vitamin D-resistant diseases
+
+J Bone Miner Res.
+
+(2007 Dec)
+
+S.P. Yenamandra et al.
+
+Epstein-Barr virus encoded EBNA-3 binds to vitamin D receptor and blocks activation of its target genes
+
+Cell Mol Life Sci
+
+(2010)
+
+P.J. Malloy et al.
+
+Inactivation of the human vitamin D receptor by caspase-3
+
+Endocrinology
+
+(2009)
+
+G. Mazziotti et al.
+
+Vitamin D and Glucocorticoid-Induced Osteoporosis
+
+Front Horm Res
+
+(2017)
+
+H.L. Henry et al.
+
+Interactions Between Aluminum and the Actions and Metabolism of Vitamin D3 in the Chick
+
+Calcif Tissue Int
+
+(1985)
+
+M. Mold et al.
+
+Aluminum in brain tissue in multiple sclerosis
+
+Int J Environ Res Public Health
+
+(2018)
+
+J.M. Barragry et al.
+
+Intestinal cholecalciferol absorption in the elderly and younger adults
+
+Clin Sci Mol Med
+
+(1978)
+
+J. Maclaughlin et al.
+
+Aging Decreases the Capacity of Human Skin to Produce Vitamin D3
+
+Nutr Clin Pract
+
+(1986)
+
+C. Rushton
+
+Vitamin D hydroxylation in youth and old age
+
+Age Ageing
+
+(1978)
+
+Sîrbe C, Rednic S, Grama A, Pop TL: An Update on the Effects of Vitamin D on the Immune System and Autoimmune Diseases....
+
+V. Dipasquale et al.
+
+Vitamin D in prevention of autoimmune diseases
+
+Front Biosci (landmark Ed).
+
+(2022)
+
+Zhao R, Zhang W, Ma C,Zhao Y, Xiong R, Wang H et al.: Immunomodulatory Function of Vitamin D and Its Role in Autoimmune...
+
+Islam MA, Khandker SS, Alam SS, Kotyla P, Hassan R. Vitamin D status in patients with systemic lupus erythematosus...
+
+L.E. Jeffery et al.
+
+Vitamin D in rheumatoid arthritis -towards clinical application
+
+Nat Rev Rheumatol.
+
+(2016)
+
+F. Vernia et al. Vitamin D in inflammatory bowel diseases. mechanisms of action and therapeutic implications Nutrients. (2022)
+
+Pappa H.M., Mitchell P.D., Jiang H., Kassiff S., Filip-Dhima R., DiFabio D., et al. Maintenance of optimal vitamin D...
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Significance of vitamin D responsiveness on the etiology of vitamin D-related diseases`
+│   inner_content: `Significance of vitamin D responsiveness on the etiology of vitamin D-related diseases`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Significance of vitamin D responsiveness on the etiology of vitamin D-related diseases`
+│   │   inner_content: `Significance of vitamin D responsiveness on the etiology of vitamin D-related diseases`├── TextNode
+│   full_match: `\nSteroids https://doi.org/10.1016/j.steroids.2024.109437 PDF behind paywall\nUlla M. Järvelin a b 1, Juho M. Järvelin c 2\n\n`
+│   inner_content: `\nSteroids https://doi.org/10.1016/j.steroids.2024.109437 PDF behind paywall\nUlla M. Järvelin a b 1, Juho M. Järvelin c 2\n\n`├── BoldNode
+│   full_match: `__Highlights__`
+│   inner_content: `Highlights`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Highlights`
+│   │   inner_content: `Highlights`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Response to Vitamin D (VD) is a continuum, varying from VD resistance to VD hypersensitivity.`
+│   inner_content: `Response to Vitamin D (VD) is a continuum, varying from VD resistance to VD hypersensitivity.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Response to Vitamin D (VD) is a continuum, varying from VD resistance to VD hypersensitivity.`
+│   │   inner_content: `Response to Vitamin D (VD) is a continuum, varying from VD resistance to VD hypersensitivity.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Low response to VD leads to autoimmunity. VD more than recommended is needed.`
+│   inner_content: `Low response to VD leads to autoimmunity. VD more than recommended is needed.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Low response to VD leads to autoimmunity. VD more than recommended is needed.`
+│   │   inner_content: `Low response to VD leads to autoimmunity. VD more than recommended is needed.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Strong response to VD leads to organ calcification. The sun and extra VD cause harm.`
+│   inner_content: `Strong response to VD leads to organ calcification. The sun and extra VD cause harm.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Strong response to VD leads to organ calcification. The sun and extra VD cause harm.`
+│   │   inner_content: `Strong response to VD leads to organ calcification. The sun and extra VD cause harm.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*The prevalence of resistance or hypersensitivity to VD is undetermined.`
+│   inner_content: `The prevalence of resistance or hypersensitivity to VD is undetermined.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The prevalence of resistance or hypersensitivity to VD is undetermined.`
+│   │   inner_content: `The prevalence of resistance or hypersensitivity to VD is undetermined.`├── TextNode
+│   full_match: `\nVitamin D resistance (VDRES) explains the necessity for higher doses of Vitamin D (VD) than those recommended for treatment success. VD receptor (VDR) signaling blockade, such as that caused by infections and poisons, is one basis for VDRES etiology. Mutations within genes affecting the VD system cause susceptibility to developing low VD responsiveness and autoimmunity. In contrast, VD hypersensitivity (VDHY) occurs if there is extra VD in the body; for example, as a result of an overdose of a VD supplement. Excess 1,25(OH)2D3 is produced in lymphomas and granulomatous diseases. The placenta produces excess 1,25(OH)2D3. Gene mutations regulating the production or degradation of 1,25(OH)2D3 enhance the effects of 1,25(OH)2D3. Increased 1,25(OH)2D3 levels stimulate calcium absorption in the gut, leading to hypercalcemia. Hypercalcemia can result in the calcification of the kidneys, circulatory system, or placenta, leading to kidney failure, cardiovascular disease, and pregnancy complications. The primary treatment involves avoiding exposure to the sun and VD supplements. The prevalence rates of VDRES and VDHY remain unclear. One estimate was that 25%, 51%, and 24% of the patients had strong, medium, and poor responses, respectively. Heavy-dose VD therapy may be a promising method for the treatment of autoimmune diseases; however, assessing its potential side effects is essential. To avoid VD-mediated hypercalcemia, responsiveness must be considered when treating pregnancies or cardiovascular diseases associated with VD. Furthermore, how VD is associated with the related disorders remains unclear. Investigating responsiveness to VD may provide more accurate results.\n\nIntroduction\nA noteworthy development in modern medicine is using vitamin D (VD) to treat and prevent rickets `
+│   inner_content: `\nVitamin D resistance (VDRES) explains the necessity for higher doses of Vitamin D (VD) than those recommended for treatment success. VD receptor (VDR) signaling blockade, such as that caused by infections and poisons, is one basis for VDRES etiology. Mutations within genes affecting the VD system cause susceptibility to developing low VD responsiveness and autoimmunity. In contrast, VD hypersensitivity (VDHY) occurs if there is extra VD in the body; for example, as a result of an overdose of a VD supplement. Excess 1,25(OH)2D3 is produced in lymphomas and granulomatous diseases. The placenta produces excess 1,25(OH)2D3. Gene mutations regulating the production or degradation of 1,25(OH)2D3 enhance the effects of 1,25(OH)2D3. Increased 1,25(OH)2D3 levels stimulate calcium absorption in the gut, leading to hypercalcemia. Hypercalcemia can result in the calcification of the kidneys, circulatory system, or placenta, leading to kidney failure, cardiovascular disease, and pregnancy complications. The primary treatment involves avoiding exposure to the sun and VD supplements. The prevalence rates of VDRES and VDHY remain unclear. One estimate was that 25%, 51%, and 24% of the patients had strong, medium, and poor responses, respectively. Heavy-dose VD therapy may be a promising method for the treatment of autoimmune diseases; however, assessing its potential side effects is essential. To avoid VD-mediated hypercalcemia, responsiveness must be considered when treating pregnancies or cardiovascular diseases associated with VD. Furthermore, how VD is associated with the related disorders remains unclear. Investigating responsiveness to VD may provide more accurate results.\n\nIntroduction\nA noteworthy development in modern medicine is using vitamin D (VD) to treat and prevent rickets `├── LinkNode
+│   full_match: `[1]`
+│   inner_content: `1`
+│   url: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[2]`
+│   inner_content: `2`
+│   url: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: `. According to estimates, vitamin D deficiency (VDD) affects up to 40 % of people in the European Union and 24 % of Americans `
+│   inner_content: `. According to estimates, vitamin D deficiency (VDD) affects up to 40 % of people in the European Union and 24 % of Americans `├── LinkNode
+│   full_match: `[3]`
+│   inner_content: `3`
+│   url: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3`
+│   │   inner_content: `3`├── TextNode
+│   full_match: `, and moderate cases of VDD are considered substantial health risks, even though severe cases are rare, and rickets is infrequent. VDD is associated with conditions such as cancer, connective tissue disorders, inflammatory bowel disorders, chronic hepatitis, food allergies, asthma, respiratory infections, and type 1 and 2 diabetes. However, most intervention studies have not proven a link between VDD and these conditions `
+│   inner_content: `, and moderate cases of VDD are considered substantial health risks, even though severe cases are rare, and rickets is infrequent. VDD is associated with conditions such as cancer, connective tissue disorders, inflammatory bowel disorders, chronic hepatitis, food allergies, asthma, respiratory infections, and type 1 and 2 diabetes. However, most intervention studies have not proven a link between VDD and these conditions `├── LinkNode
+│   full_match: `[4]`
+│   inner_content: `4`
+│   url: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `. Calcitriol, a physiologically active VD, mediates its action by binding to the vitamin D receptor (VDR) `
+│   inner_content: `. Calcitriol, a physiologically active VD, mediates its action by binding to the vitamin D receptor (VDR) `├── LinkNode
+│   full_match: `[5]`
+│   inner_content: `5`
+│   url: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `5`
+│   │   inner_content: `5`├── TextNode
+│   full_match: `. VDR is present throughout the body, including in cells involved in immune modulation `
+│   inner_content: `. VDR is present throughout the body, including in cells involved in immune modulation `├── LinkNode
+│   full_match: `[6]`
+│   inner_content: `6`
+│   url: `6`
+│   children:
+│   ├── TextNode
+│   │   full_match: `6`
+│   │   inner_content: `6`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[7]`
+│   inner_content: `7`
+│   url: `7`
+│   children:
+│   ├── TextNode
+│   │   full_match: `7`
+│   │   inner_content: `7`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[8]`
+│   inner_content: `8`
+│   url: `8`
+│   children:
+│   ├── TextNode
+│   │   full_match: `8`
+│   │   inner_content: `8`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[9]`
+│   inner_content: `9`
+│   url: `9`
+│   children:
+│   ├── TextNode
+│   │   full_match: `9`
+│   │   inner_content: `9`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[10]`
+│   inner_content: `10`
+│   url: `10`
+│   children:
+│   ├── TextNode
+│   │   full_match: `10`
+│   │   inner_content: `10`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[11]`
+│   inner_content: `11`
+│   url: `11`
+│   children:
+│   ├── TextNode
+│   │   full_match: `11`
+│   │   inner_content: `11`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[12]`
+│   inner_content: `12`
+│   url: `12`
+│   children:
+│   ├── TextNode
+│   │   full_match: `12`
+│   │   inner_content: `12`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[13]`
+│   inner_content: `13`
+│   url: `13`
+│   children:
+│   ├── TextNode
+│   │   full_match: `13`
+│   │   inner_content: `13`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[14]`
+│   inner_content: `14`
+│   url: `14`
+│   children:
+│   ├── TextNode
+│   │   full_match: `14`
+│   │   inner_content: `14`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[15]`
+│   inner_content: `15`
+│   url: `15`
+│   children:
+│   ├── TextNode
+│   │   full_match: `15`
+│   │   inner_content: `15`├── TextNode
+│   full_match: `. The almost universal expression of the VDR implies that the VD/VDR axis controls genes associated with several processes, including energy metabolism, immunological responses, cell growth and differentiation, and calcium homeostasis `
+│   inner_content: `. The almost universal expression of the VDR implies that the VD/VDR axis controls genes associated with several processes, including energy metabolism, immunological responses, cell growth and differentiation, and calcium homeostasis `├── LinkNode
+│   full_match: `[16]`
+│   inner_content: `16`
+│   url: `16`
+│   children:
+│   ├── TextNode
+│   │   full_match: `16`
+│   │   inner_content: `16`├── TextNode
+│   full_match: `. However, most intervention studies have not proven a link between VDD and these processes `
+│   inner_content: `. However, most intervention studies have not proven a link between VDD and these processes `├── LinkNode
+│   full_match: `[4]`
+│   inner_content: `4`
+│   url: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `. VD supplementation can increase serum 25OHD3 concentration to a high normal range. However, this has not been associated with benefits for global health, major diseases, or medical events such as cancer, cardiovascular events, diabetes mellitus, falls, or fractures, at least in largely VD-replete adults `
+│   inner_content: `. VD supplementation can increase serum 25OHD3 concentration to a high normal range. However, this has not been associated with benefits for global health, major diseases, or medical events such as cancer, cardiovascular events, diabetes mellitus, falls, or fractures, at least in largely VD-replete adults `├── LinkNode
+│   full_match: `[16]`
+│   inner_content: `16`
+│   url: `16`
+│   children:
+│   ├── TextNode
+│   │   full_match: `16`
+│   │   inner_content: `16`├── TextNode
+│   full_match: `. The importance of VD substitution for preventing and treating rickets is indisputable. However, treatment results for other diseases associated with VDD and VD are contradictory. This review attempts to determine the effects of VD responsiveness\n\nA review of VD metabolism will help us understand the mechanisms associated with VD responsiveness and the utility of measuring VD metabolites when diagnosing VD responsiveness.\n\nThe skin synthesizes cholecalciferol (VD3), a secosteroid that functions as a prohormone. Although dietary VD supplements can also produce it, endogenous synthesis in the skin is the main source of VD3. In the skin, UVB causes the phototransformation of 7-dehydrocholesterol into pre-VD3, and heat promotes the conversion of pre-VD3 into VD3. VD3 is mostly transferred from the skin to the bloodstream by d-binding protein (DBP). Notably, 25-hydroxylases (CYP2R1 and CYP27A1) modify VD3 via hydroxylation in the liver, resulting in 25-hydroxyvitamin D3 (25OHD3). Subsequently, 1α-hydroxylase (CYP27B1) performs a second hydroxylation to produce the active form, calcitriol `
+│   inner_content: `. The importance of VD substitution for preventing and treating rickets is indisputable. However, treatment results for other diseases associated with VDD and VD are contradictory. This review attempts to determine the effects of VD responsiveness\n\nA review of VD metabolism will help us understand the mechanisms associated with VD responsiveness and the utility of measuring VD metabolites when diagnosing VD responsiveness.\n\nThe skin synthesizes cholecalciferol (VD3), a secosteroid that functions as a prohormone. Although dietary VD supplements can also produce it, endogenous synthesis in the skin is the main source of VD3. In the skin, UVB causes the phototransformation of 7-dehydrocholesterol into pre-VD3, and heat promotes the conversion of pre-VD3 into VD3. VD3 is mostly transferred from the skin to the bloodstream by d-binding protein (DBP). Notably, 25-hydroxylases (CYP2R1 and CYP27A1) modify VD3 via hydroxylation in the liver, resulting in 25-hydroxyvitamin D3 (25OHD3). Subsequently, 1α-hydroxylase (CYP27B1) performs a second hydroxylation to produce the active form, calcitriol `├── LinkNode
+│   full_match: `[1,25(OH)2D3]`
+│   inner_content: `1,25(OH)2D3`
+│   url: `1,25(OH)2D3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1,25(OH)2D3`
+│   │   inner_content: `1,25(OH)2D3`├── TextNode
+│   full_match: `, predominantly in the kidneys. `
+│   inner_content: `, predominantly in the kidneys. `├── LinkNode
+│   full_match: `[5]`
+│   inner_content: `5`
+│   url: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `5`
+│   │   inner_content: `5`├── TextNode
+│   full_match: ` However, hydroxylation can also occur in other tissues and cells. The active form interacts with the VDR and affects biological processes `
+│   inner_content: ` However, hydroxylation can also occur in other tissues and cells. The active form interacts with the VDR and affects biological processes `├── LinkNode
+│   full_match: `[5]`
+│   inner_content: `5`
+│   url: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `5`
+│   │   inner_content: `5`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[17]`
+│   inner_content: `17`
+│   url: `17`
+│   children:
+│   ├── TextNode
+│   │   full_match: `17`
+│   │   inner_content: `17`├── TextNode
+│   full_match: `. Furthermore, 24-hydroxylase (CYP24A1) converts 25(OH)D3 and 1,25(OH)2D3 into inactive metabolites `
+│   inner_content: `. Furthermore, 24-hydroxylase (CYP24A1) converts 25(OH)D3 and 1,25(OH)2D3 into inactive metabolites `├── LinkNode
+│   full_match: `[5]`
+│   inner_content: `5`
+│   url: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `5`
+│   │   inner_content: `5`├── TextNode
+│   full_match: `. Additionally, 1,25(OH)2D3 concentration, blood calcium levels, and parathyroid hormone (PTH) levels principally control CYP27B1 and CYP24A1 activity. Furthermore, klotho and FGF23 negatively regulate CYP27B1 and positively regulate CYP24A1, linking VD metabolism to phosphate homeostasis (Fig. 1). `
+│   inner_content: `. Additionally, 1,25(OH)2D3 concentration, blood calcium levels, and parathyroid hormone (PTH) levels principally control CYP27B1 and CYP24A1 activity. Furthermore, klotho and FGF23 negatively regulate CYP27B1 and positively regulate CYP24A1, linking VD metabolism to phosphate homeostasis (Fig. 1). `├── LinkNode
+│   full_match: `[18]`
+│   inner_content: `18`
+│   url: `18`
+│   children:
+│   ├── TextNode
+│   │   full_match: `18`
+│   │   inner_content: `18`├── TextNode
+│   full_match: ` Free phosphate is filtered in the glomerulus of the human kidney before being reabsorbed as it travels along the nephron. The sodium phosphate cotransporter (NaPi-IIa), which regulates phosphate reabsorption from primary urine in the proximal tubule, is encoded by SLC34A1. NaPi-Iia, Klotho, FGF23, PTH, and 1,25(OH)2D3 control renal phosphate levels. `
+│   inner_content: ` Free phosphate is filtered in the glomerulus of the human kidney before being reabsorbed as it travels along the nephron. The sodium phosphate cotransporter (NaPi-IIa), which regulates phosphate reabsorption from primary urine in the proximal tubule, is encoded by SLC34A1. NaPi-Iia, Klotho, FGF23, PTH, and 1,25(OH)2D3 control renal phosphate levels. `├── LinkNode
+│   full_match: `[19]`
+│   inner_content: `19`
+│   url: `19`
+│   children:
+│   ├── TextNode
+│   │   full_match: `19`
+│   │   inner_content: `19`├── TextNode
+│   full_match: ` Intestinal 1,25(OH)2D3 enhances calcium absorption. PTH increases calcium release from the bones into the circulation if the blood-ionized calcium content is low. PTH also accelerates the conversion of 25(OH)D3 to 1,25(OH)2D3, which is then released into the bloodstream. PTH prevents phosphate reabsorption, resulting in larger quantities of ionized calcium and lower levels of water-soluble calcium phosphate salts. Consequently, the VD system has a direct feedback mechanism. PTH should be low in the lower third of the reference range if 25(OH)D3 levels are physiologically high and vice versa. `
+│   inner_content: ` Intestinal 1,25(OH)2D3 enhances calcium absorption. PTH increases calcium release from the bones into the circulation if the blood-ionized calcium content is low. PTH also accelerates the conversion of 25(OH)D3 to 1,25(OH)2D3, which is then released into the bloodstream. PTH prevents phosphate reabsorption, resulting in larger quantities of ionized calcium and lower levels of water-soluble calcium phosphate salts. Consequently, the VD system has a direct feedback mechanism. PTH should be low in the lower third of the reference range if 25(OH)D3 levels are physiologically high and vice versa. `├── LinkNode
+│   full_match: `[20]`
+│   inner_content: `20`
+│   url: `20`
+│   children:
+│   ├── TextNode
+│   │   full_match: `20`
+│   │   inner_content: `20`├── TextNode
+│   full_match: `.\n\nIn the 1930 s, some children with rickets were observed to require high doses of VD to alleviate their symptoms. In 1937, Albright, Butler, and Bloomberg introduced the concept of VD resistance (VDRES) `
+│   inner_content: `.\n\nIn the 1930 s, some children with rickets were observed to require high doses of VD to alleviate their symptoms. In 1937, Albright, Butler, and Bloomberg introduced the concept of VD resistance (VDRES) `├── LinkNode
+│   full_match: `[21]`
+│   inner_content: `21`
+│   url: `21`
+│   children:
+│   ├── TextNode
+│   │   full_match: `21`
+│   │   inner_content: `21`├── TextNode
+│   full_match: `. Further research revealed that these children had either hereditary defects in 1α-hydroxylase, leading to decreased active VD (VD-dependent rickets type I `
+│   inner_content: `. Further research revealed that these children had either hereditary defects in 1α-hydroxylase, leading to decreased active VD (VD-dependent rickets type I `├── LinkNode
+│   full_match: `[VDDR-I]`
+│   inner_content: `VDDR-I`
+│   url: `VDDR-I`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VDDR-I`
+│   │   inner_content: `VDDR-I`├── TextNode
+│   full_match: `, or congenital defects in VDR. When VDR is defective, genetic VD-resistant rickets (HVDRR), also known as VD-dependent rickets type II (VDDR-II), develops. Both are rare autosomal recessive disorders characterized by hypocalcemia, secondary hyperparathyroidism, and early onset severe rickets. `
+│   inner_content: `, or congenital defects in VDR. When VDR is defective, genetic VD-resistant rickets (HVDRR), also known as VD-dependent rickets type II (VDDR-II), develops. Both are rare autosomal recessive disorders characterized by hypocalcemia, secondary hyperparathyroidism, and early onset severe rickets. `├── LinkNode
+│   full_match: `[22]`
+│   inner_content: `22`
+│   url: `22`
+│   children:
+│   ├── TextNode
+│   │   full_match: `22`
+│   │   inner_content: `22`├── TextNode
+│   full_match: ` Rare instances of HVDRR defects have been detected to cause this issue. Only 70 items were discussed in the 2007 article “Vitamin d-resistant diseases” `
+│   inner_content: ` Rare instances of HVDRR defects have been detected to cause this issue. Only 70 items were discussed in the 2007 article “Vitamin d-resistant diseases” `├── LinkNode
+│   full_match: `[23]`
+│   inner_content: `23`
+│   url: `23`
+│   children:
+│   ├── TextNode
+│   │   full_match: `23`
+│   │   inner_content: `23`├── TextNode
+│   full_match: `.\n\n`
+│   inner_content: `.\n\n`├── BoldNode
+│   full_match: `__Although VDRES is rare (see 1.2.), the concept of acquired VDRES has been developed__`
+│   inner_content: `Although VDRES is rare (see 1.2.), the concept of acquired VDRES has been developed`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Although VDRES is rare (see 1.2.), the concept of acquired VDRES has been developed`
+│   │   inner_content: `Although VDRES is rare (see 1.2.), the concept of acquired VDRES has been developed`├── TextNode
+│   full_match: `, which is more common and could be related to autoimmune diseases. `
+│   inner_content: `, which is more common and could be related to autoimmune diseases. `├── BoldNode
+│   full_match: `__This resistance results from mutations in the VD system that occur during aging and exposure to environmental factors, thereby impairing VD hormone signaling.__`
+│   inner_content: `This resistance results from mutations in the VD system that occur during aging and exposure to environmental factors, thereby impairing VD hormone signaling.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This resistance results from mutations in the VD system that occur during aging and exposure to environmental factors, thereby impairing VD hormone signaling.`
+│   │   inner_content: `This resistance results from mutations in the VD system that occur during aging and exposure to environmental factors, thereby impairing VD hormone signaling.`├── TextNode
+│   full_match: ` These environmental factors include pathogens such as the \n`
+│   inner_content: ` These environmental factors include pathogens such as the \n`├── ListItemNode
+│   full_match: `*Ebstein-Barr virus [24], `
+│   inner_content: `Ebstein-Barr virus [24], `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ebstein-Barr virus `
+│   │   inner_content: `Ebstein-Barr virus `
+│   ├── LinkNode
+│   │   full_match: `[24]`
+│   │   inner_content: `24`
+│   │   url: `24`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `24`
+│   │   │   inner_content: `24`
+│   ├── TextNode
+│   │   full_match: `, `
+│   │   inner_content: `, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*cytomegalovirus [25], `
+│   inner_content: `cytomegalovirus [25], `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `cytomegalovirus `
+│   │   inner_content: `cytomegalovirus `
+│   ├── LinkNode
+│   │   full_match: `[25]`
+│   │   inner_content: `25`
+│   │   url: `25`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `25`
+│   │   │   inner_content: `25`
+│   ├── TextNode
+│   │   full_match: `, `
+│   │   inner_content: `, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*legionella, escherichia coli, and `
+│   inner_content: `legionella, escherichia coli, and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `legionella, escherichia coli, and `
+│   │   inner_content: `legionella, escherichia coli, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Yersinia. [26].`
+│   inner_content: `Yersinia. [26].`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Yersinia. `
+│   │   inner_content: `Yersinia. `
+│   ├── LinkNode
+│   │   full_match: `[26]`
+│   │   inner_content: `26`
+│   │   url: `26`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `26`
+│   │   │   inner_content: `26`
+│   ├── TextNode
+│   │   full_match: `.`
+│   │   inner_content: `.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**__~~#00F:(Not mentioned; COVID, Cancers, poor gut, etc)~~__`
+│   inner_content: `__~~#00F:(Not mentioned; COVID, Cancers, poor gut, etc)~~__`
+│   depth: `2`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:(Not mentioned; COVID, Cancers, poor gut, etc)~~__`
+│   │   inner_content: `~~#00F:(Not mentioned; COVID, Cancers, poor gut, etc)~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:(Not mentioned; COVID, Cancers, poor gut, etc)~~`
+│   │   │   inner_content: `(Not mentioned; COVID, Cancers, poor gut, etc)`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `(Not mentioned; COVID, Cancers, poor gut, etc)`
+│   │   │   │   inner_content: `(Not mentioned; COVID, Cancers, poor gut, etc)`├── TextNode
+│   full_match: `\nThese pathogens can block the VDR and alter host immune responses. \n`
+│   inner_content: `\nThese pathogens can block the VDR and alter host immune responses. \n`├── ListItemNode
+│   full_match: `*Glucocorticoids can also disturb the VDR gene [27]. `
+│   inner_content: `Glucocorticoids can also disturb the VDR gene [27]. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Glucocorticoids can also disturb the VDR gene `
+│   │   inner_content: `Glucocorticoids can also disturb the VDR gene `
+│   ├── LinkNode
+│   │   full_match: `[27]`
+│   │   inner_content: `27`
+│   │   url: `27`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `27`
+│   │   │   inner_content: `27`
+│   ├── TextNode
+│   │   full_match: `. `
+│   │   inner_content: `. `├── TextNode
+│   full_match: `\nAluminum can decrease renal CYP27B1 activity in chickens `
+│   inner_content: `\nAluminum can decrease renal CYP27B1 activity in chickens `├── LinkNode
+│   full_match: `[28]`
+│   inner_content: `28`
+│   url: `28`
+│   children:
+│   ├── TextNode
+│   │   full_match: `28`
+│   │   inner_content: `28`├── TextNode
+│   full_match: ` and has been found at high concentrations in the brain tissue of patients with multiple sclerosis (MS) `
+│   inner_content: ` and has been found at high concentrations in the brain tissue of patients with multiple sclerosis (MS) `├── LinkNode
+│   full_match: `[29]`
+│   inner_content: `29`
+│   url: `29`
+│   children:
+│   ├── TextNode
+│   │   full_match: `29`
+│   │   inner_content: `29`├── TextNode
+│   full_match: `. \n`
+│   inner_content: `. \n`├── BoldNode
+│   full_match: `__Aging__`
+│   inner_content: `Aging`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Aging`
+│   │   inner_content: `Aging`├── TextNode
+│   full_match: ` reduces intestinal cholecalciferol absorption `
+│   inner_content: ` reduces intestinal cholecalciferol absorption `├── LinkNode
+│   full_match: `[30]`
+│   inner_content: `30`
+│   url: `30`
+│   children:
+│   ├── TextNode
+│   │   full_match: `30`
+│   │   inner_content: `30`├── TextNode
+│   full_match: `, decreases endogenous skin production `
+│   inner_content: `, decreases endogenous skin production `├── LinkNode
+│   full_match: `[31]`
+│   inner_content: `31`
+│   url: `31`
+│   children:
+│   ├── TextNode
+│   │   full_match: `31`
+│   │   inner_content: `31`├── TextNode
+│   full_match: ` and VD hydroxylation `
+│   inner_content: ` and VD hydroxylation `├── LinkNode
+│   full_match: `[32]`
+│   inner_content: `32`
+│   url: `32`
+│   children:
+│   ├── TextNode
+│   │   full_match: `32`
+│   │   inner_content: `32`├── TextNode
+│   full_match: `. The weakest link in the VD metabolic system is VDR, and the most significant indicators of acquired VDRES are mutations in the VDR `
+│   inner_content: `. The weakest link in the VD metabolic system is VDR, and the most significant indicators of acquired VDRES are mutations in the VDR `├── LinkNode
+│   full_match: `[17]`
+│   inner_content: `17`
+│   url: `17`
+│   children:
+│   ├── TextNode
+│   │   full_match: `17`
+│   │   inner_content: `17`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[20]`
+│   inner_content: `20`
+│   url: `20`
+│   children:
+│   ├── TextNode
+│   │   full_match: `20`
+│   │   inner_content: `20`├── TextNode
+│   full_match: `. The genes CYP2R1, CYP27A1, CYP27B1, and DBP (necessary for VD transport in circulation) and the cell-surface receptor megalin-cubilin, which is the membrane receptor for the 1,25(OH)2D3/DBP complex, also have mutations associated with autoimmune diseases `
+│   inner_content: `. The genes CYP2R1, CYP27A1, CYP27B1, and DBP (necessary for VD transport in circulation) and the cell-surface receptor megalin-cubilin, which is the membrane receptor for the 1,25(OH)2D3/DBP complex, also have mutations associated with autoimmune diseases `├── LinkNode
+│   full_match: `[20]`
+│   inner_content: `20`
+│   url: `20`
+│   children:
+│   ├── TextNode
+│   │   full_match: `20`
+│   │   inner_content: `20`├── TextNode
+│   full_match: `.\n\nAutoimmune disorders occur when the immune system mistakenly attacks healthy cells and tissues. VD is vital for maintaining a strong and healthy immune system. Therefore, VDD can increase the risk of autoimmune disorders by weakening the adaptive immune system. `
+│   inner_content: `.\n\nAutoimmune disorders occur when the immune system mistakenly attacks healthy cells and tissues. VD is vital for maintaining a strong and healthy immune system. Therefore, VDD can increase the risk of autoimmune disorders by weakening the adaptive immune system. `├── LinkNode
+│   full_match: `[33]`
+│   inner_content: `33`
+│   url: `33`
+│   children:
+│   ├── TextNode
+│   │   full_match: `33`
+│   │   inner_content: `33`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[34]`
+│   inner_content: `34`
+│   url: `34`
+│   children:
+│   ├── TextNode
+│   │   full_match: `34`
+│   │   inner_content: `34`├── TextNode
+│   full_match: ` Several autoimmune conditions such as\nautoimmune thyroid disease `
+│   inner_content: ` Several autoimmune conditions such as\nautoimmune thyroid disease `├── LinkNode
+│   full_match: `[35]`
+│   inner_content: `35`
+│   url: `35`
+│   children:
+│   ├── TextNode
+│   │   full_match: `35`
+│   │   inner_content: `35`├── TextNode
+│   full_match: `, \n`
+│   inner_content: `, \n`├── ListItemNode
+│   full_match: `*systemic lupus erythematosus [36], `
+│   inner_content: `systemic lupus erythematosus [36], `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `systemic lupus erythematosus `
+│   │   inner_content: `systemic lupus erythematosus `
+│   ├── LinkNode
+│   │   full_match: `[36]`
+│   │   inner_content: `36`
+│   │   url: `36`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `36`
+│   │   │   inner_content: `36`
+│   ├── TextNode
+│   │   full_match: `, `
+│   │   inner_content: `, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*rheumatoid arthritis [37], `
+│   inner_content: `rheumatoid arthritis [37], `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `rheumatoid arthritis `
+│   │   inner_content: `rheumatoid arthritis `
+│   ├── LinkNode
+│   │   full_match: `[37]`
+│   │   inner_content: `37`
+│   │   url: `37`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `37`
+│   │   │   inner_content: `37`
+│   ├── TextNode
+│   │   full_match: `, `
+│   │   inner_content: `, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*inflammatory bowel disease (IBD) [38], [39], MS [43], and `
+│   inner_content: `inflammatory bowel disease (IBD) [38], [39], MS [43], and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `inflammatory bowel disease (IBD) `
+│   │   inner_content: `inflammatory bowel disease (IBD) `
+│   ├── LinkNode
+│   │   full_match: `[38]`
+│   │   inner_content: `38`
+│   │   url: `38`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `38`
+│   │   │   inner_content: `38`
+│   ├── TextNode
+│   │   full_match: `, `
+│   │   inner_content: `, `
+│   ├── LinkNode
+│   │   full_match: `[39]`
+│   │   inner_content: `39`
+│   │   url: `39`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `39`
+│   │   │   inner_content: `39`
+│   ├── TextNode
+│   │   full_match: `, MS `
+│   │   inner_content: `, MS `
+│   ├── LinkNode
+│   │   full_match: `[43]`
+│   │   inner_content: `43`
+│   │   url: `43`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `43`
+│   │   │   inner_content: `43`
+│   ├── TextNode
+│   │   full_match: `, and `
+│   │   inner_content: `, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*insulin-dependent type 1 diabetes mellitus [6] have been associated with VDD. `
+│   inner_content: `insulin-dependent type 1 diabetes mellitus [6] have been associated with VDD. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `insulin-dependent type 1 diabetes mellitus `
+│   │   inner_content: `insulin-dependent type 1 diabetes mellitus `
+│   ├── LinkNode
+│   │   full_match: `[6]`
+│   │   inner_content: `6`
+│   │   url: `6`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: ` have been associated with VDD. `
+│   │   inner_content: ` have been associated with VDD. `├── TextNode
+│   full_match: `\nHowever, more research is needed to determine if VDD is the cause or effect of these autoimmune disorders `
+│   inner_content: `\nHowever, more research is needed to determine if VDD is the cause or effect of these autoimmune disorders `├── LinkNode
+│   full_match: `[33]`
+│   inner_content: `33`
+│   url: `33`
+│   children:
+│   ├── TextNode
+│   │   full_match: `33`
+│   │   inner_content: `33`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[34]`
+│   inner_content: `34`
+│   url: `34`
+│   children:
+│   ├── TextNode
+│   │   full_match: `34`
+│   │   inner_content: `34`├── TextNode
+│   full_match: `. Patients with IBD often have difficulty absorbing VD, necessitating higher doses of VD to achieve normal serum 25(OH)D levels. This can prevent the development of bone fragility, osteoporosis, and osteomalacia `
+│   inner_content: `. Patients with IBD often have difficulty absorbing VD, necessitating higher doses of VD to achieve normal serum 25(OH)D levels. This can prevent the development of bone fragility, osteoporosis, and osteomalacia `├── LinkNode
+│   full_match: `[38]`
+│   inner_content: `38`
+│   url: `38`
+│   children:
+│   ├── TextNode
+│   │   full_match: `38`
+│   │   inner_content: `38`├── TextNode
+│   full_match: `. However, few randomized controlled trials have examined the effects of VD supplementation on disease occurrence and severity. One study found that a higher dose of VD (2000 IU) led to lower levels of proinflammatory markers in children and adolescents with IBD than a lower dose of 400 IU `
+│   inner_content: `. However, few randomized controlled trials have examined the effects of VD supplementation on disease occurrence and severity. One study found that a higher dose of VD (2000 IU) led to lower levels of proinflammatory markers in children and adolescents with IBD than a lower dose of 400 IU `├── LinkNode
+│   full_match: `[39]`
+│   inner_content: `39`
+│   url: `39`
+│   children:
+│   ├── TextNode
+│   │   full_match: `39`
+│   │   inner_content: `39`├── TextNode
+│   full_match: `. Children with rheumatic diseases, especially those treated with steroids, are recommended to receive at least double the daily recommended dose of VD for their age (approximately 2000 UI/day) `
+│   inner_content: `. Children with rheumatic diseases, especially those treated with steroids, are recommended to receive at least double the daily recommended dose of VD for their age (approximately 2000 UI/day) `├── LinkNode
+│   full_match: `[40]`
+│   inner_content: `40`
+│   url: `40`
+│   children:
+│   ├── TextNode
+│   │   full_match: `40`
+│   │   inner_content: `40`├── TextNode
+│   full_match: `.\n\nRecent studies on treating autoimmune diseases have revealed the clinical advantages of high-dose VD therapy. A single high dose of VD3 (100 000 IU) may positively affect health outcomes in older adults `
+│   inner_content: `.\n\nRecent studies on treating autoimmune diseases have revealed the clinical advantages of high-dose VD therapy. A single high dose of VD3 (100 000 IU) may positively affect health outcomes in older adults `├── LinkNode
+│   full_match: `[41]`
+│   inner_content: `41`
+│   url: `41`
+│   children:
+│   ├── TextNode
+│   │   full_match: `41`
+│   │   inner_content: `41`├── TextNode
+│   full_match: `. Large-dose, short-term VD supplementation has been shown to reduce insulin resistance compared to placebos in patients with type 2 diabetes `
+│   inner_content: `. Large-dose, short-term VD supplementation has been shown to reduce insulin resistance compared to placebos in patients with type 2 diabetes `├── LinkNode
+│   full_match: `[42]`
+│   inner_content: `42`
+│   url: `42`
+│   children:
+│   ├── TextNode
+│   │   full_match: `42`
+│   │   inner_content: `42`├── TextNode
+│   full_match: `. Recommended serum 25(OH)D levels are usually 20 – 30 ng/ mL. \n`
+│   inner_content: `. Recommended serum 25(OH)D levels are usually 20 – 30 ng/ mL. \n`├── BoldNode
+│   full_match: `__In MS treatment, serum 25(OH)D levels of approximately 130 ng/mL are recommended for therapeutic effects. __`
+│   inner_content: `In MS treatment, serum 25(OH)D levels of approximately 130 ng/mL are recommended for therapeutic effects. `
+│   children:
+│   ├── TextNode
+│   │   full_match: `In MS treatment, serum 25(OH)D levels of approximately 130 ng/mL are recommended for therapeutic effects. `
+│   │   inner_content: `In MS treatment, serum 25(OH)D levels of approximately 130 ng/mL are recommended for therapeutic effects. `├── TextNode
+│   full_match: `\nClinical trials have shown that VD doses ranging from 10,000 to 40,000 IU/day are safe as an add-on therapy. In any case, these trials were relatively short in duration, had small sample sizes, and in many cases, were not placebo-controlled. The adverse effects during the trials were usually minor and manageable. The results of these trials are conflicting, and whether regular VD intake is reasonable beyond the correction of hypovitaminosis D remains unclear. `
+│   inner_content: `\nClinical trials have shown that VD doses ranging from 10,000 to 40,000 IU/day are safe as an add-on therapy. In any case, these trials were relatively short in duration, had small sample sizes, and in many cases, were not placebo-controlled. The adverse effects during the trials were usually minor and manageable. The results of these trials are conflicting, and whether regular VD intake is reasonable beyond the correction of hypovitaminosis D remains unclear. `├── LinkNode
+│   full_match: `[43]`
+│   inner_content: `43`
+│   url: `43`
+│   children:
+│   ├── TextNode
+│   │   full_match: `43`
+│   │   inner_content: `43`├── TextNode
+│   full_match: `.\n\n`
+│   inner_content: `.\n\n`├── BoldNode
+│   full_match: `__Dr. Cicero Coimbra__`
+│   inner_content: `Dr. Cicero Coimbra`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Dr. Cicero Coimbra`
+│   │   inner_content: `Dr. Cicero Coimbra`├── TextNode
+│   full_match: `, a neurologist from Brazil, used ultrahigh doses of VD to treat patients with autoimmune diseases `
+│   inner_content: `, a neurologist from Brazil, used ultrahigh doses of VD to treat patients with autoimmune diseases `├── LinkNode
+│   full_match: `[44]`
+│   inner_content: `44`
+│   url: `44`
+│   children:
+│   ├── TextNode
+│   │   full_match: `44`
+│   │   inner_content: `44`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[45]`
+│   inner_content: `45`
+│   url: `45`
+│   children:
+│   ├── TextNode
+│   │   full_match: `45`
+│   │   inner_content: `45`├── TextNode
+│   full_match: `. This approach has been used in Germany to treat patients with autoimmune diseases since 2016. The fundamental idea behind high-dose VD3 therapy is that some patients have a non-hereditary, acquired type of VDRES and insufficient biological activity of 1,25(OH)2D3. To overcome this resistance, high doses of VD3 are administered to patients to unblock VDRs. The initial doses of VD3 in the Coimbra protocol depend on the autoimmune disease being treated. \nFor MS, doses of up to 1000 IU of VD3 per kg of body weight may be used, whereas other autoimmune disorders require smaller doses. `
+│   inner_content: `. This approach has been used in Germany to treat patients with autoimmune diseases since 2016. The fundamental idea behind high-dose VD3 therapy is that some patients have a non-hereditary, acquired type of VDRES and insufficient biological activity of 1,25(OH)2D3. To overcome this resistance, high doses of VD3 are administered to patients to unblock VDRs. The initial doses of VD3 in the Coimbra protocol depend on the autoimmune disease being treated. \nFor MS, doses of up to 1000 IU of VD3 per kg of body weight may be used, whereas other autoimmune disorders require smaller doses. `├── LinkNode
+│   full_match: `[20]`
+│   inner_content: `20`
+│   url: `20`
+│   children:
+│   ├── TextNode
+│   │   full_match: `20`
+│   │   inner_content: `20`├── TextNode
+│   full_match: `\nIn rheumatoid arthritis, systemic lupus erythematosus, psoriatic arthritis, psoriasis, Crohn’s disease, and ulcerative colitis, initial VD3 doses of 300–500 IU/kg of body weight are used. Systemic scleroderma, ankylosing spondylitis, and Hashimoto’s thyroiditis require VD3 doses of 300 IU/kg of body weight, whereas other autoimmune diseases require VD3 doses of 150 IU/kg of body weight. The doses are gradually adjusted (usually lowered) during follow-up, based on a standardized procedure that considers the patient&#39;s clinical condition, calcium levels, and PTH concentrations. `
+│   inner_content: `\nIn rheumatoid arthritis, systemic lupus erythematosus, psoriatic arthritis, psoriasis, Crohn’s disease, and ulcerative colitis, initial VD3 doses of 300–500 IU/kg of body weight are used. Systemic scleroderma, ankylosing spondylitis, and Hashimoto’s thyroiditis require VD3 doses of 300 IU/kg of body weight, whereas other autoimmune diseases require VD3 doses of 150 IU/kg of body weight. The doses are gradually adjusted (usually lowered) during follow-up, based on a standardized procedure that considers the patient&#39;s clinical condition, calcium levels, and PTH concentrations. `├── LinkNode
+│   full_match: `[20]`
+│   inner_content: `20`
+│   url: `20`
+│   children:
+│   ├── TextNode
+│   │   full_match: `20`
+│   │   inner_content: `20`├── TextNode
+│   full_match: ` Studies have shown that the Coimbra protocol is safe for patients with autoimmune diseases when oral VD3 is administered in large doses with a strict low-calcium diet and daily fluid intake of 2.5 L. Owing to the underlying VDRES, patients are protected against what is typically considered a potentially toxic dose, and the doses used in this protocol only have physiological effects. `
+│   inner_content: ` Studies have shown that the Coimbra protocol is safe for patients with autoimmune diseases when oral VD3 is administered in large doses with a strict low-calcium diet and daily fluid intake of 2.5 L. Owing to the underlying VDRES, patients are protected against what is typically considered a potentially toxic dose, and the doses used in this protocol only have physiological effects. `├── LinkNode
+│   full_match: `[46]`
+│   inner_content: `46`
+│   url: `46`
+│   children:
+│   ├── TextNode
+│   │   full_match: `46`
+│   │   inner_content: `46`├── TextNode
+│   full_match: ` The Coimbra protocol is similar to insulin resistance therapy in which higher doses are administered to address resistance `
+│   inner_content: ` The Coimbra protocol is similar to insulin resistance therapy in which higher doses are administered to address resistance `├── LinkNode
+│   full_match: `[47]`
+│   inner_content: `47`
+│   url: `47`
+│   children:
+│   ├── TextNode
+│   │   full_match: `47`
+│   │   inner_content: `47`├── TextNode
+│   full_match: `.\n\nCarsten Carlberg, a Professor of Biochemistry at the University of Eastern Finland, studied VD&#39;s gene regulation and epigenetics. He found that people respond differently, molecularly and biochemically, to the same dosage of VD3. During the Finnish winter of 2015, 71 senior prediabetic participants in the VitDmet study received daily supplements of 0, 1600, or 3200 IU VD3. This study focused on the effects of VD3 supplementation on mRNA expression of 12 VD-regulated genes and several VD-affected laboratory parameters. This study demonstrated that even high doses of VD3 (3200 IU) did not always have the desired VD-regulatory effects in participants, with 25 % of patients failing to respond as expected. According to this study, patients were categorized as low (24 %), mid (51 %), and high responders (25 %). `
+│   inner_content: `.\n\nCarsten Carlberg, a Professor of Biochemistry at the University of Eastern Finland, studied VD&#39;s gene regulation and epigenetics. He found that people respond differently, molecularly and biochemically, to the same dosage of VD3. During the Finnish winter of 2015, 71 senior prediabetic participants in the VitDmet study received daily supplements of 0, 1600, or 3200 IU VD3. This study focused on the effects of VD3 supplementation on mRNA expression of 12 VD-regulated genes and several VD-affected laboratory parameters. This study demonstrated that even high doses of VD3 (3200 IU) did not always have the desired VD-regulatory effects in participants, with 25 % of patients failing to respond as expected. According to this study, patients were categorized as low (24 %), mid (51 %), and high responders (25 %). `├── LinkNode
+│   full_match: `[48]`
+│   inner_content: `48`
+│   url: `48`
+│   children:
+│   ├── TextNode
+│   │   full_match: `48`
+│   │   inner_content: `48`├── TextNode
+│   full_match: ` Later, in 2017, the same research group conducted the VitDbol study, in which a group of healthy students received an 80,000 IU bolus dose of VD3. The results of the VitDbol study validated the findings of the VitDmet study. `
+│   inner_content: ` Later, in 2017, the same research group conducted the VitDbol study, in which a group of healthy students received an 80,000 IU bolus dose of VD3. The results of the VitDbol study validated the findings of the VitDmet study. `├── LinkNode
+│   full_match: `[49]`
+│   inner_content: `49`
+│   url: `49`
+│   children:
+│   ├── TextNode
+│   │   full_match: `49`
+│   │   inner_content: `49`├── TextNode
+│   full_match: ` To get an acceptable physiological response, such as lowering PTH concentrations or downregulating an activated adaptive immune system, patients with VDRES need substantial doses of VD3. Increased PTH levels, despite adequate 25(OH)D3 levels, are signs of acquired VDRES and can occur in patients with autoimmune diseases. In the VD system, PTH is essential for improving intestinal calcium absorption, triggering calcium release from the bones, boosting the conversion of 25(OH)D3 to 1,25(OH)2D3, and preventing tubular phosphate reabsorption. An average 25(OH)D3 level should reduce the PTH levels to the lower third of the reference range. However, this negative feedback loop is disrupted in patients with autoimmune diseases. `
+│   inner_content: ` To get an acceptable physiological response, such as lowering PTH concentrations or downregulating an activated adaptive immune system, patients with VDRES need substantial doses of VD3. Increased PTH levels, despite adequate 25(OH)D3 levels, are signs of acquired VDRES and can occur in patients with autoimmune diseases. In the VD system, PTH is essential for improving intestinal calcium absorption, triggering calcium release from the bones, boosting the conversion of 25(OH)D3 to 1,25(OH)2D3, and preventing tubular phosphate reabsorption. An average 25(OH)D3 level should reduce the PTH levels to the lower third of the reference range. However, this negative feedback loop is disrupted in patients with autoimmune diseases. `├── LinkNode
+│   full_match: `[20]`
+│   inner_content: `20`
+│   url: `20`
+│   children:
+│   ├── TextNode
+│   │   full_match: `20`
+│   │   inner_content: `20`├── TextNode
+│   full_match: ` On the VD responsiveness continuum, individuals with VDRES fall at the low-response end `
+│   inner_content: ` On the VD responsiveness continuum, individuals with VDRES fall at the low-response end `├── LinkNode
+│   full_match: `[48]`
+│   inner_content: `48`
+│   url: `48`
+│   children:
+│   ├── TextNode
+│   │   full_match: `48`
+│   │   inner_content: `48`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[49]`
+│   inner_content: `49`
+│   url: `49`
+│   children:
+│   ├── TextNode
+│   │   full_match: `49`
+│   │   inner_content: `49`├── TextNode
+│   full_match: `.\n\n`
+│   inner_content: `.\n\n`├── BoldNode
+│   full_match: `__Vitamin D hypersensitivity patients (VDHY patients)__`
+│   inner_content: `Vitamin D hypersensitivity patients (VDHY patients)`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D hypersensitivity patients (VDHY patients)`
+│   │   inner_content: `Vitamin D hypersensitivity patients (VDHY patients)`├── TextNode
+│   full_match: ` are on the opposite side of the VD responsiveness continuum. They have either excess VD in the body or their bodies are sensitized to VD Because of this, the effects of VD for them are stronger than average. They don&#39;t need as much VD as others. On the other hand, extra sunshine or relatively low therapeutic doses of VD can increase the effects of VD in the body, leading to increased intestinal calcium absorption, calcium mobilization from the bones, and hypercalcemia. `
+│   inner_content: ` are on the opposite side of the VD responsiveness continuum. They have either excess VD in the body or their bodies are sensitized to VD Because of this, the effects of VD for them are stronger than average. They don&#39;t need as much VD as others. On the other hand, extra sunshine or relatively low therapeutic doses of VD can increase the effects of VD in the body, leading to increased intestinal calcium absorption, calcium mobilization from the bones, and hypercalcemia. `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: ` The group “VD hypersensitivity” is divided into subgroups “exogenous and endogenous” based on its etiology\n\nExogenous VDHY results from consuming extremely large amounts of pharmaceutical VD preparations. Values &gt; 150 ng/mL (375 nmol/L) of serum 25(OH)D3 signify exogenous VDHY. The serum 1,25(OH)2D3 levels are average. There is also hypercalcemia and low PTH `
+│   inner_content: ` The group “VD hypersensitivity” is divided into subgroups “exogenous and endogenous” based on its etiology\n\nExogenous VDHY results from consuming extremely large amounts of pharmaceutical VD preparations. Values &gt; 150 ng/mL (375 nmol/L) of serum 25(OH)D3 signify exogenous VDHY. The serum 1,25(OH)2D3 levels are average. There is also hypercalcemia and low PTH `├── LinkNode
+│   full_match: `[52]`
+│   inner_content: `52`
+│   url: `52`
+│   children:
+│   ├── TextNode
+│   │   full_match: `52`
+│   │   inner_content: `52`├── TextNode
+│   full_match: `. According to the 2011 recommendations of the Institute of Medicine, the maximum tolerated levels of VD intake is 1000 IU/d for newborns under six months of age, 1500 IU/d for infants of six to 12 months of age, 2500 IU/d for children of one to three years of age, 3000 IU/d for children of four–to eight years of age, and 4000 IU/d for adolescents and adults `
+│   inner_content: `. According to the 2011 recommendations of the Institute of Medicine, the maximum tolerated levels of VD intake is 1000 IU/d for newborns under six months of age, 1500 IU/d for infants of six to 12 months of age, 2500 IU/d for children of one to three years of age, 3000 IU/d for children of four–to eight years of age, and 4000 IU/d for adolescents and adults `├── LinkNode
+│   full_match: `[55]`
+│   inner_content: `55`
+│   url: `55`
+│   children:
+│   ├── TextNode
+│   │   full_match: `55`
+│   │   inner_content: `55`├── TextNode
+│   full_match: `. However, several studies have shown that VD is probably one of the least dangerous fat-soluble vitamins, far less dangerous than vitamin A `
+│   inner_content: `. However, several studies have shown that VD is probably one of the least dangerous fat-soluble vitamins, far less dangerous than vitamin A `├── LinkNode
+│   full_match: `[56]`
+│   inner_content: `56`
+│   url: `56`
+│   children:
+│   ├── TextNode
+│   │   full_match: `56`
+│   │   inner_content: `56`├── TextNode
+│   full_match: `.\n\nEndogenous VD hypersensitivity syndrome was discovered more than 70 years ago. To treat rickets, children are administered high amounts of VD. While the majority of children responded favorably to this treatment, some displayed symptoms of hypercalcemia. This illness spread and became endemic in three distinct occurrences. The first occurred in Great Britain in the early 1950 s `
+│   inner_content: `.\n\nEndogenous VD hypersensitivity syndrome was discovered more than 70 years ago. To treat rickets, children are administered high amounts of VD. While the majority of children responded favorably to this treatment, some displayed symptoms of hypercalcemia. This illness spread and became endemic in three distinct occurrences. The first occurred in Great Britain in the early 1950 s `├── LinkNode
+│   full_match: `[57]`
+│   inner_content: `57`
+│   url: `57`
+│   children:
+│   ├── TextNode
+│   │   full_match: `57`
+│   │   inner_content: `57`├── TextNode
+│   full_match: `, the second in Poland in the 1970 s `
+│   inner_content: `, the second in Poland in the 1970 s `├── LinkNode
+│   full_match: `[58]`
+│   inner_content: `58`
+│   url: `58`
+│   children:
+│   ├── TextNode
+│   │   full_match: `58`
+│   │   inner_content: `58`├── TextNode
+│   full_match: `, and the third in East Germany in the 1980 s `
+│   inner_content: `, and the third in East Germany in the 1980 s `├── LinkNode
+│   full_match: `[59]`
+│   inner_content: `59`
+│   url: `59`
+│   children:
+│   ├── TextNode
+│   │   full_match: `59`
+│   │   inner_content: `59`├── TextNode
+│   full_match: `. This syndrome was initially called idiopathic infantile hypercalcemia (IIH), but the name was misleading. It also occurs in adults, and its etiology is well-known.\n\nOne cause for endogenous VDHY is ectopic synthesis of 1,25(OH)2D3. The placenta synthesizes extra 1,25(OH)2D3 during pregnancy `
+│   inner_content: `. This syndrome was initially called idiopathic infantile hypercalcemia (IIH), but the name was misleading. It also occurs in adults, and its etiology is well-known.\n\nOne cause for endogenous VDHY is ectopic synthesis of 1,25(OH)2D3. The placenta synthesizes extra 1,25(OH)2D3 during pregnancy `├── LinkNode
+│   full_match: `[76]`
+│   inner_content: `76`
+│   url: `76`
+│   children:
+│   ├── TextNode
+│   │   full_match: `76`
+│   │   inner_content: `76`├── TextNode
+│   full_match: `. Sarcoid lymph nodes synthesize extra 1,25(OH)2D3 `
+│   inner_content: `. Sarcoid lymph nodes synthesize extra 1,25(OH)2D3 `├── LinkNode
+│   full_match: `[60]`
+│   inner_content: `60`
+│   url: `60`
+│   children:
+│   ├── TextNode
+│   │   full_match: `60`
+│   │   inner_content: `60`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[61]`
+│   inner_content: `61`
+│   url: `61`
+│   children:
+│   ├── TextNode
+│   │   full_match: `61`
+│   │   inner_content: `61`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[62]`
+│   inner_content: `62`
+│   url: `62`
+│   children:
+│   ├── TextNode
+│   │   full_match: `62`
+│   │   inner_content: `62`├── TextNode
+│   full_match: `. Ectopic synthesis of 1,25(OH)2D3 is also observed in tuberculosis `
+│   inner_content: `. Ectopic synthesis of 1,25(OH)2D3 is also observed in tuberculosis `├── LinkNode
+│   full_match: `[63]`
+│   inner_content: `63`
+│   url: `63`
+│   children:
+│   ├── TextNode
+│   │   full_match: `63`
+│   │   inner_content: `63`├── TextNode
+│   full_match: `, lymphomas `
+│   inner_content: `, lymphomas `├── LinkNode
+│   full_match: `[64]`
+│   inner_content: `64`
+│   url: `64`
+│   children:
+│   ├── TextNode
+│   │   full_match: `64`
+│   │   inner_content: `64`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[65]`
+│   inner_content: `65`
+│   url: `65`
+│   children:
+│   ├── TextNode
+│   │   full_match: `65`
+│   │   inner_content: `65`├── TextNode
+│   full_match: `, fungal infections, leprosy, and other granulomatous diseases `
+│   inner_content: `, fungal infections, leprosy, and other granulomatous diseases `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `.\n\nAnother cause of endogenous VDHY is mutations in the genes responsible for the synthesis or catabolism of VD. In 2011, Shlingmann et al. reported alterations in `
+│   inner_content: `.\n\nAnother cause of endogenous VDHY is mutations in the genes responsible for the synthesis or catabolism of VD. In 2011, Shlingmann et al. reported alterations in `├── BoldNode
+│   full_match: `__CYP24A1__`
+│   inner_content: `CYP24A1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `CYP24A1`
+│   │   inner_content: `CYP24A1`├── TextNode
+│   full_match: ` expression in patients with idiopathic infantile hypercalcemia (IIH). CYP24A1 catabolizes 1,25(OH)2D3 into its inactive metabolites. Mutations in the CYP24A1 gene result in the build-up of 1,25(OH)2D3 and a decrease in its degradation `
+│   inner_content: ` expression in patients with idiopathic infantile hypercalcemia (IIH). CYP24A1 catabolizes 1,25(OH)2D3 into its inactive metabolites. Mutations in the CYP24A1 gene result in the build-up of 1,25(OH)2D3 and a decrease in its degradation `├── LinkNode
+│   full_match: `[Fig. 1]`
+│   inner_content: `Fig. 1`
+│   url: `Fig. 1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Fig. 1`
+│   │   inner_content: `Fig. 1`├── TextNode
+│   full_match: `. `
+│   inner_content: `. `├── LinkNode
+│   full_match: `[3]`
+│   inner_content: `3`
+│   url: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3`
+│   │   inner_content: `3`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[66]`
+│   inner_content: `66`
+│   url: `66`
+│   children:
+│   ├── TextNode
+│   │   full_match: `66`
+│   │   inner_content: `66`├── TextNode
+│   full_match: ` In 2017, Schlingmann et al. found that a mutation in the SLC34A1 gene results in hypophosphatemia `
+│   inner_content: ` In 2017, Schlingmann et al. found that a mutation in the SLC34A1 gene results in hypophosphatemia `├── LinkNode
+│   full_match: `[4]`
+│   inner_content: `4`
+│   url: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: ` by impairing the proximal tubules&#39; ability to reabsorb phosphate from primary urine `
+│   inner_content: ` by impairing the proximal tubules&#39; ability to reabsorb phosphate from primary urine `├── LinkNode
+│   full_match: `[4]`
+│   inner_content: `4`
+│   url: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[66]`
+│   inner_content: `66`
+│   url: `66`
+│   children:
+│   ├── TextNode
+│   │   full_match: `66`
+│   │   inner_content: `66`├── TextNode
+│   full_match: `. Therefore, hypophosphatemia concurrently inhibits CYP24A1 and stimulates 1α-hydroxylase (CYP27B1) (Fig. 1) `
+│   inner_content: `. Therefore, hypophosphatemia concurrently inhibits CYP24A1 and stimulates 1α-hydroxylase (CYP27B1) (Fig. 1) `├── LinkNode
+│   full_match: `[67]`
+│   inner_content: `67`
+│   url: `67`
+│   children:
+│   ├── TextNode
+│   │   full_match: `67`
+│   │   inner_content: `67`├── TextNode
+│   full_match: `. The accumulation of 1,25(OH)2D3 is also an outcome of this mutation. Nephrolithiasis, decreased PTH levels, hypercalcemia, and hypercalciuria are the hallmarks of both mutations. (Fig. 1) Besides, mutations in SLC34A1 `
+│   inner_content: `. The accumulation of 1,25(OH)2D3 is also an outcome of this mutation. Nephrolithiasis, decreased PTH levels, hypercalcemia, and hypercalciuria are the hallmarks of both mutations. (Fig. 1) Besides, mutations in SLC34A1 `├── LinkNode
+│   full_match: `[4]`
+│   inner_content: `4`
+│   url: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[66]`
+│   inner_content: `66`
+│   url: `66`
+│   children:
+│   ├── TextNode
+│   │   full_match: `66`
+│   │   inner_content: `66`├── TextNode
+│   full_match: ` cause hypophosphatemia. Other yet unknown abnormalities in the genes controlling VD metabolism are expected, except for in CYP24A1 and SLC34A1 `
+│   inner_content: ` cause hypophosphatemia. Other yet unknown abnormalities in the genes controlling VD metabolism are expected, except for in CYP24A1 and SLC34A1 `├── LinkNode
+│   full_match: `[68]`
+│   inner_content: `68`
+│   url: `68`
+│   children:
+│   ├── TextNode
+│   │   full_match: `68`
+│   │   inner_content: `68`├── TextNode
+│   full_match: `.\n\nIn addition, an increase in the quantity of VDRs or saturation of the DBP capacity can lead to endogenous VDHY `
+│   inner_content: `.\n\nIn addition, an increase in the quantity of VDRs or saturation of the DBP capacity can lead to endogenous VDHY `├── LinkNode
+│   full_match: `[52]`
+│   inner_content: `52`
+│   url: `52`
+│   children:
+│   ├── TextNode
+│   │   full_match: `52`
+│   │   inner_content: `52`├── TextNode
+│   full_match: `.\n\nEndogenous VDHY, caused by gene mutations, constitutes a hereditary risk factor because VD substitution can lead to the development of symptomatic hypercalcemia in otherwise healthy neonates `
+│   inner_content: `.\n\nEndogenous VDHY, caused by gene mutations, constitutes a hereditary risk factor because VD substitution can lead to the development of symptomatic hypercalcemia in otherwise healthy neonates `├── LinkNode
+│   full_match: `[66]`
+│   inner_content: `66`
+│   url: `66`
+│   children:
+│   ├── TextNode
+│   │   full_match: `66`
+│   │   inner_content: `66`├── TextNode
+│   full_match: `. Biallelic mutations result in the aforementioned clinical and biochemical phenotypes. Individuals carrying monoallelic gene mutations may exhibit hypersensitivity reactions to excess VD, have an attenuated disease, or be asymptomatic carriers `
+│   inner_content: `. Biallelic mutations result in the aforementioned clinical and biochemical phenotypes. Individuals carrying monoallelic gene mutations may exhibit hypersensitivity reactions to excess VD, have an attenuated disease, or be asymptomatic carriers `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `.\n\nClinical signs of hypercalcemia are similar, although the etiology varies. Only a small percentage of patients exhibit significant symptoms, and most patients are asymptomatic and diagnosed through routine examinations `
+│   inner_content: `.\n\nClinical signs of hypercalcemia are similar, although the etiology varies. Only a small percentage of patients exhibit significant symptoms, and most patients are asymptomatic and diagnosed through routine examinations `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `. In babies, in addition to weight loss, clinical symptoms include polyuria, dehydration, vomiting, and constipation `
+│   inner_content: `. In babies, in addition to weight loss, clinical symptoms include polyuria, dehydration, vomiting, and constipation `├── LinkNode
+│   full_match: `[66]`
+│   inner_content: `66`
+│   url: `66`
+│   children:
+│   ├── TextNode
+│   │   full_match: `66`
+│   │   inner_content: `66`├── TextNode
+│   full_match: `.\n\nVDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients `
+│   inner_content: `.\n\nVDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `.\n\nChronic subclinical hypercalcemia and hypercalciuria result in kidney stones, adult renal insufficiency, and severely decreased kidney function. In addition to tubulointerstitial inflammation and fibrosis, mineral deposits associated with nephrocalcinosis play a role in developing end-stage renal diseases `
+│   inner_content: `.\n\nChronic subclinical hypercalcemia and hypercalciuria result in kidney stones, adult renal insufficiency, and severely decreased kidney function. In addition to tubulointerstitial inflammation and fibrosis, mineral deposits associated with nephrocalcinosis play a role in developing end-stage renal diseases `├── LinkNode
+│   full_match: `[69]`
+│   inner_content: `69`
+│   url: `69`
+│   children:
+│   ├── TextNode
+│   │   full_match: `69`
+│   │   inner_content: `69`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[70]`
+│   inner_content: `70`
+│   url: `70`
+│   children:
+│   ├── TextNode
+│   │   full_match: `70`
+│   │   inner_content: `70`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[71]`
+│   inner_content: `71`
+│   url: `71`
+│   children:
+│   ├── TextNode
+│   │   full_match: `71`
+│   │   inner_content: `71`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[72]`
+│   inner_content: `72`
+│   url: `72`
+│   children:
+│   ├── TextNode
+│   │   full_match: `72`
+│   │   inner_content: `72`├── TextNode
+│   full_match: `. Hypertension, arterial calcifications, and arterial vasoconstriction are cardiovascular symptoms associated with hypercalcemia. Mutations in CYP24A1 have been associated with coronary artery calcification, which, in turn, leads to a higher risk of coronary heart disease. `
+│   inner_content: `. Hypertension, arterial calcifications, and arterial vasoconstriction are cardiovascular symptoms associated with hypercalcemia. Mutations in CYP24A1 have been associated with coronary artery calcification, which, in turn, leads to a higher risk of coronary heart disease. `├── LinkNode
+│   full_match: `[73]`
+│   inner_content: `73`
+│   url: `73`
+│   children:
+│   ├── TextNode
+│   │   full_match: `73`
+│   │   inner_content: `73`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[74]`
+│   inner_content: `74`
+│   url: `74`
+│   children:
+│   ├── TextNode
+│   │   full_match: `74`
+│   │   inner_content: `74`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[75]`
+│   inner_content: `75`
+│   url: `75`
+│   children:
+│   ├── TextNode
+│   │   full_match: `75`
+│   │   inner_content: `75`├── TextNode
+│   full_match: ` Throughout pregnancy, the amount of 1,25(OH)2D3 produced by the placenta increases `
+│   inner_content: ` Throughout pregnancy, the amount of 1,25(OH)2D3 produced by the placenta increases `├── LinkNode
+│   full_match: `[76]`
+│   inner_content: `76`
+│   url: `76`
+│   children:
+│   ├── TextNode
+│   │   full_match: `76`
+│   │   inner_content: `76`├── TextNode
+│   full_match: `. Patients with VDHY do not experience an increased VD breakdown. Serious pregnancy consequences include pancreatitis, nephrolithiasis, arterial hypertension, potentially fatal hypercalcemic crises, and lethality for the mother and/or the fetus. `
+│   inner_content: `. Patients with VDHY do not experience an increased VD breakdown. Serious pregnancy consequences include pancreatitis, nephrolithiasis, arterial hypertension, potentially fatal hypercalcemic crises, and lethality for the mother and/or the fetus. `├── LinkNode
+│   full_match: `[77]`
+│   inner_content: `77`
+│   url: `77`
+│   children:
+│   ├── TextNode
+│   │   full_match: `77`
+│   │   inner_content: `77`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[78]`
+│   inner_content: `78`
+│   url: `78`
+│   children:
+│   ├── TextNode
+│   │   full_match: `78`
+│   │   inner_content: `78`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[79]`
+│   inner_content: `79`
+│   url: `79`
+│   children:
+│   ├── TextNode
+│   │   full_match: `79`
+│   │   inner_content: `79`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[80]`
+│   inner_content: `80`
+│   url: `80`
+│   children:
+│   ├── TextNode
+│   │   full_match: `80`
+│   │   inner_content: `80`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[81]`
+│   inner_content: `81`
+│   url: `81`
+│   children:
+│   ├── TextNode
+│   │   full_match: `81`
+│   │   inner_content: `81`├── TextNode
+│   full_match: ` Additional clinical manifestations of hypercalcemia include neuropsychiatric symptoms such as depression, hallucinations, anorexia, nausea, vomiting, constipation, peptic ulcer disease, pancreatitis, varying degrees of demineralization and fragility of the bone, and stupor and coma in severe cases `
+│   inner_content: ` Additional clinical manifestations of hypercalcemia include neuropsychiatric symptoms such as depression, hallucinations, anorexia, nausea, vomiting, constipation, peptic ulcer disease, pancreatitis, varying degrees of demineralization and fragility of the bone, and stupor and coma in severe cases `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `.\n\nNonetheless, VDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients `
+│   inner_content: `.\n\nNonetheless, VDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `.\n\nThe diagnosis of VD hypersensitivity is challenging. Pregnancy, medication use, VD replacement, and related conditions such as lymphomas, cancer, nephrocalcinosis, granuloma-forming illnesses, and hereditary diseases, as well as nephrolithiasis, decreased PTH levels, hypercalcemia, hypercalciuria, and hypophosphatemia should be carefully considered. In the presence of excessive 25(OH)D3, the resulting hypercalcemia is known as exogenous VDHY. `
+│   inner_content: `.\n\nThe diagnosis of VD hypersensitivity is challenging. Pregnancy, medication use, VD replacement, and related conditions such as lymphomas, cancer, nephrocalcinosis, granuloma-forming illnesses, and hereditary diseases, as well as nephrolithiasis, decreased PTH levels, hypercalcemia, hypercalciuria, and hypophosphatemia should be carefully considered. In the presence of excessive 25(OH)D3, the resulting hypercalcemia is known as exogenous VDHY. `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: ` In endogenous VDHY, elevated 1,25(OH)2D3 concentrations have been associated with hypercalcemia. `
+│   inner_content: ` In endogenous VDHY, elevated 1,25(OH)2D3 concentrations have been associated with hypercalcemia. `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: ` If pathogenic CYP24A1 mutations are suspected, the 25(OH)D3 to 24,25(OH)2D3 ratio should be evaluated. The 25(OH)D3 to 24,25(OH)2D3 ratio is approximately &lt; 30 in most heterozygotes and individuals without pathogenic CYP24A1 mutations; however, it is generally &gt; 80 in individuals with harmful mutations. Genetic testing must be performed if the ratio of 25(OH)D3 to 24,25(OH)2D3 is &gt; 80. `
+│   inner_content: ` If pathogenic CYP24A1 mutations are suspected, the 25(OH)D3 to 24,25(OH)2D3 ratio should be evaluated. The 25(OH)D3 to 24,25(OH)2D3 ratio is approximately &lt; 30 in most heterozygotes and individuals without pathogenic CYP24A1 mutations; however, it is generally &gt; 80 in individuals with harmful mutations. Genetic testing must be performed if the ratio of 25(OH)D3 to 24,25(OH)2D3 is &gt; 80. `├── LinkNode
+│   full_match: `[82]`
+│   inner_content: `82`
+│   url: `82`
+│   children:
+│   ├── TextNode
+│   │   full_match: `82`
+│   │   inner_content: `82`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[83]`
+│   inner_content: `83`
+│   url: `83`
+│   children:
+│   ├── TextNode
+│   │   full_match: `83`
+│   │   inner_content: `83`├── TextNode
+│   full_match: `.\n\nThe primary course of hypercalcemia treatment is to reduce calcium intake and consume large amounts of water. Exogenous VDHY necessitates discontinuation of VD supplementation `
+│   inner_content: `.\n\nThe primary course of hypercalcemia treatment is to reduce calcium intake and consume large amounts of water. Exogenous VDHY necessitates discontinuation of VD supplementation `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `. The central management strategies for CYP24A1 mutations include reducing sun exposure and eliminating VD prophylaxis `
+│   inner_content: `. The central management strategies for CYP24A1 mutations include reducing sun exposure and eliminating VD prophylaxis `├── LinkNode
+│   full_match: `[3]`
+│   inner_content: `3`
+│   url: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3`
+│   │   inner_content: `3`├── TextNode
+│   full_match: `. For SLC34A1 mutations, phosphate supplementation is the initial therapeutic option; reducing VD consumption does not normalize test findings `
+│   inner_content: `. For SLC34A1 mutations, phosphate supplementation is the initial therapeutic option; reducing VD consumption does not normalize test findings `├── LinkNode
+│   full_match: `[4]`
+│   inner_content: `4`
+│   url: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `. Patients with genetic defects that cause hypercalcemia, granulomatous diseases, and lymphomas are advised to avoid exposure to sunlight `
+│   inner_content: `. Patients with genetic defects that cause hypercalcemia, granulomatous diseases, and lymphomas are advised to avoid exposure to sunlight `├── LinkNode
+│   full_match: `[52]`
+│   inner_content: `52`
+│   url: `52`
+│   children:
+│   ├── TextNode
+│   │   full_match: `52`
+│   │   inner_content: `52`├── TextNode
+│   full_match: `. Glucocorticoids help reduce calcium levels by reducing intestinal calcium absorption, increasing calcium excretion in the urine, and encouraging the creation of inactive metabolites `
+│   inner_content: `. Glucocorticoids help reduce calcium levels by reducing intestinal calcium absorption, increasing calcium excretion in the urine, and encouraging the creation of inactive metabolites `├── LinkNode
+│   full_match: `[52]`
+│   inner_content: `52`
+│   url: `52`
+│   children:
+│   ├── TextNode
+│   │   full_match: `52`
+│   │   inner_content: `52`├── TextNode
+│   full_match: `. Glucocorticoids have no therapeutic effect in individuals with genetic defects that cause hypercalcemia `
+│   inner_content: `. Glucocorticoids have no therapeutic effect in individuals with genetic defects that cause hypercalcemia `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `. Patients with CYP24A1 mutations may need to be treated with rifampicin and azoles to treat hypercalcemia. Azole-containing medications are CYP27B1 inhibitors. Rifampicin is a tuberculosis medicine that increases the activity of the enzyme CYP3A4, which, in this case, effectively inactivates VD metabolites compared to CYP24A1. `
+│   inner_content: `. Patients with CYP24A1 mutations may need to be treated with rifampicin and azoles to treat hypercalcemia. Azole-containing medications are CYP27B1 inhibitors. Rifampicin is a tuberculosis medicine that increases the activity of the enzyme CYP3A4, which, in this case, effectively inactivates VD metabolites compared to CYP24A1. `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `.\n\nThe prevalence of VD hypersensitivity remains unknown. A Polish population survey revealed biallelic variations in CYP24A1 and SLC34A1 are found in one in 32,465 births `
+│   inner_content: `.\n\nThe prevalence of VD hypersensitivity remains unknown. A Polish population survey revealed biallelic variations in CYP24A1 and SLC34A1 are found in one in 32,465 births `├── LinkNode
+│   full_match: `[58]`
+│   inner_content: `58`
+│   url: `58`
+│   children:
+│   ├── TextNode
+│   │   full_match: `58`
+│   │   inner_content: `58`├── TextNode
+│   full_match: `. Severe VDHY is associated with biallelic mutations in the SLC34A1 or CYP24A1 genes `
+│   inner_content: `. Severe VDHY is associated with biallelic mutations in the SLC34A1 or CYP24A1 genes `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `. The identification of heterozygous SLC34A1 and CYP24A1 mutations can be challenging. As a result, heterozygous mutations often remain undetected and are not detected until the VD substitution is used. In otherwise seemingly healthy neonates, CYP24A1 or SLC34A1 mutations are familial risk factors for the development of symptomatic hypercalcemia, which may be exacerbated by VD prophylaxis. Biallelic abnormalities in the CYP24A1 gene may be present in 4–20 % of patients with calcium kidney stones `
+│   inner_content: `. The identification of heterozygous SLC34A1 and CYP24A1 mutations can be challenging. As a result, heterozygous mutations often remain undetected and are not detected until the VD substitution is used. In otherwise seemingly healthy neonates, CYP24A1 or SLC34A1 mutations are familial risk factors for the development of symptomatic hypercalcemia, which may be exacerbated by VD prophylaxis. Biallelic abnormalities in the CYP24A1 gene may be present in 4–20 % of patients with calcium kidney stones `├── LinkNode
+│   full_match: `[84]`
+│   inner_content: `84`
+│   url: `84`
+│   children:
+│   ├── TextNode
+│   │   full_match: `84`
+│   │   inner_content: `84`├── TextNode
+│   full_match: `. Sarcoidosis frequently results in VDHY due to the ectopic synthesis of active VD `
+│   inner_content: `. Sarcoidosis frequently results in VDHY due to the ectopic synthesis of active VD `├── LinkNode
+│   full_match: `[60]`
+│   inner_content: `60`
+│   url: `60`
+│   children:
+│   ├── TextNode
+│   │   full_match: `60`
+│   │   inner_content: `60`├── TextNode
+│   full_match: `. The frequency of sarcoidosis varies significantly by region, ranging from one to five per 100,000 individuals in South Korea, Japan, and Taiwan to 140–160 per 100,000 individuals in Sweden and Canada `
+│   inner_content: `. The frequency of sarcoidosis varies significantly by region, ranging from one to five per 100,000 individuals in South Korea, Japan, and Taiwan to 140–160 per 100,000 individuals in Sweden and Canada `├── LinkNode
+│   full_match: `[85]`
+│   inner_content: `85`
+│   url: `85`
+│   children:
+│   ├── TextNode
+│   │   full_match: `85`
+│   │   inner_content: `85`├── TextNode
+│   full_match: `. Furthermore, the real-world prevalence of VDHY remains unknown `
+│   inner_content: `. Furthermore, the real-world prevalence of VDHY remains unknown `├── LinkNode
+│   full_match: `[52]`
+│   inner_content: `52`
+│   url: `52`
+│   children:
+│   ├── TextNode
+│   │   full_match: `52`
+│   │   inner_content: `52`├── TextNode
+│   full_match: `. According to two accurate but narrowly sampled studies, about 25 % of Finns have VDHY `
+│   inner_content: `. According to two accurate but narrowly sampled studies, about 25 % of Finns have VDHY `├── LinkNode
+│   full_match: `[48]`
+│   inner_content: `48`
+│   url: `48`
+│   children:
+│   ├── TextNode
+│   │   full_match: `48`
+│   │   inner_content: `48`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[49]`
+│   inner_content: `49`
+│   url: `49`
+│   children:
+│   ├── TextNode
+│   │   full_match: `49`
+│   │   inner_content: `49`├── TextNode
+│   full_match: `.\n\nThe prevalence of new CYP24A1 and SLC34A1 mutations, VD supplementation, and recently identified differences in genes regulating VD metabolism contribute to increased VDHY. The administration of VD3 at doses higher than those advised may increase the risk of VDHY `
+│   inner_content: `.\n\nThe prevalence of new CYP24A1 and SLC34A1 mutations, VD supplementation, and recently identified differences in genes regulating VD metabolism contribute to increased VDHY. The administration of VD3 at doses higher than those advised may increase the risk of VDHY `├── LinkNode
+│   full_match: `[51]`
+│   inner_content: `51`
+│   url: `51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `51`
+│   │   inner_content: `51`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[52]`
+│   inner_content: `52`
+│   url: `52`
+│   children:
+│   ├── TextNode
+│   │   full_match: `52`
+│   │   inner_content: `52`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[53]`
+│   inner_content: `53`
+│   url: `53`
+│   children:
+│   ├── TextNode
+│   │   full_match: `53`
+│   │   inner_content: `53`├── TextNode
+│   full_match: `.\n\nTable 1 shows the main differences between VD resistance and VD hypersensitivity.\n\n`
+│   inner_content: `.\n\nTable 1 shows the main differences between VD resistance and VD hypersensitivity.\n\n`├── BoldNode
+│   full_match: `__Section snippets__`
+│   inner_content: `Section snippets`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Section snippets`
+│   │   inner_content: `Section snippets`├── TextNode
+│   full_match: `\nDiscussion\nThe treatment of autoimmune diseases can be complicated. High-dose VD therapy may be used to treat VDRES effectively. However, the outcomes and potential negative repercussions must be carefully evaluated.\n\nVD has been shown to help treat or prevent cardiovascular disorders, and VDD has been recognized as a risk factor for these conditions in multiple trials `
+│   inner_content: `\nDiscussion\nThe treatment of autoimmune diseases can be complicated. High-dose VD therapy may be used to treat VDRES effectively. However, the outcomes and potential negative repercussions must be carefully evaluated.\n\nVD has been shown to help treat or prevent cardiovascular disorders, and VDD has been recognized as a risk factor for these conditions in multiple trials `├── LinkNode
+│   full_match: `[86]`
+│   inner_content: `86`
+│   url: `86`
+│   children:
+│   ├── TextNode
+│   │   full_match: `86`
+│   │   inner_content: `86`├── TextNode
+│   full_match: `. In contrast, in individuals with VDHY, VD supplementation increases the prevalence of kidney disease and vascular calcification, which …..\n\nClosing words\nVDD affects people worldwide. On the other hand, the risk of hypercalcemia in individuals with VDHY caused by VD supplementation may increase as more people become aware of the health benefits of VD….\n`
+│   inner_content: `. In contrast, in individuals with VDHY, VD supplementation increases the prevalence of kidney disease and vascular calcification, which …..\n\nClosing words\nVDD affects people worldwide. On the other hand, the risk of hypercalcemia in individuals with VDHY caused by VD supplementation may increase as more people become aware of the health benefits of VD….\n`├── HeadingNode
+│   full_match: `\n!!!!!Some of the references`
+│   inner_content: `Some of the references`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Some of the references`
+│   │   inner_content: `Some of the references`├── TextNode
+│   full_match: `\nD.D. Bikle Vitamin D metabolism, mechanism of action, and clinical applications Chem Biol. (2014)\nP.K. Singh et al. Epigenetic distortion to VDR transcriptional regulation in prostate cancer cells J Steroid Biochem Mol Biol. (2013)\nP.J. Malloy et al. Genetic disorders and defects in vitamin D action Endocrinol Metab Clin North Am. (2010)\nF.J.J. Rieder et al.\nHuman cytomegalovirus infection downregulates vitamin-D receptor in mammalian cells\nJ Steroid Biochem Mol Biol\n(2017)\nN. Saksa et al.\nDissecting high from low responders in a vitamin D3 intervention study\nJ Steroid Biochem Mol Biol\n(2015)\nS. Seuter et al.\nMolecular evaluation of vitamin D responsiveness of healthy young adults\nJ Steroid Biochem Mol Biol\n(2017)\nM.F. Holick\nVitamin D is not as toxic as was once thought: a historical and up-to-date perspective\nMayo Clin Proc.\n(2015)\nJ.F. Seymour et al.\nCalcitriol: the major humoral mediator of hypercalcemia in Hodgkin&#39;s disease and non-Hodgkin&#39;s lymphomas\nBlood.\n(1993)\nL.A. Baxter et al.\nStimulation of 25-hydroxyvitamin D3–1alpha-hydroxylase by phosphate depletion\nJ Biol Chem.\n(1976)\nD. Dinour et al.\nLoss-of-function mutations of CYP24A1, the vitamin D 24-hydroxylase gene, cause long-standing hypercalciuric nephrolithiasis and nephrocalcinosis\nJ Urol.\n(2013)\n\nT. Nakano et al.\nAssociation of kidney function with coronary atherosclerosis and calcification in autopsy samples from Japanese elders: the Hisayama study\nAm J Kidney Dis.\n(2010)\nChanchlani R, Nemer P, Sinha R, Nemer L, Krishnappa V, Sochett E, et al. An Overview of Rickets in Children. Kidney Int...\nS. Jullien\nVitamin D prophylaxis in infancy\nBMC Pediatr.\n(2021)\nE. Pál et al.\nRole of Vitamin D Deficiency in the Pathogenesis of Cardiovascular and Cerebrovascular Diseases\nNutrients.\n(2023)\nR. Marino et al.\nExtra-skeletal effects of vitamin D\nNutrients.\n(2019 Jun 27)\nJ. Yu et al.\nVitamin D and beta cells in type 1 diabetes: a systematic review\nInt J Mol Sci.\n(2022)\nC. Carlberg et al.\nSignaling in the context of innate immunity: focus on human monocytes\nFront Immunol.\n(2019)\nT. Ao et al.\nThe effects of vitamin D on immune system and inflammatory diseases\nBiomolecules.\n(2021)\nW. Lasoń et al.\nThe vitamin D receptor as a potential target for the treatment of age-related neurodegenerative diseases such as alzheimer&#39;s and parkinson&#39;s diseases: a narrative review\nCells.\n(2023)\nN. Latic et al.\nVitamin D and Cardiovascular Disease, with Emphasis on Hypertension, Atherosclerosis, and Heart Failure\nInt J Mol Sci.\n(2020 Sep 4)\nBikle DD. Vitamin D receptor, a tumor suppressor in the skin. Can J Physiol Pharmacol. 2015 ay;93(5):349-54. doi...\nM. Grzesiak\nVitamin D3 action within the ovary - an updated review\nPhysiol Res.\n(2020)\nF. Shaikh et al.\nDo VDR gene polymorphisms contribute to breast cancer?\nAsian Pac J Cancer Prev.\n(2016)\nM. Shang et al.\nVitamin D/VDR, probiotics, and gastrointestinal diseases\nCurr Med Chem.\n(2017)\nR. Bouillon et al.\nThe health effects of vitamin D supplementation: evidence from human studies\nNat Rev Endocrinol.\n(2022)\nC. Agliardi et al.\nVDR Gene Single Nucleotide Polymorphisms and Autoimmunity: A Narrative Review\nBiology (basel).\n(2023)\nK.P. Schlingmann et al.\nMutations in CYP24A1 and idiopathic infantile hypercalcemia\nN Engl J Med\n(2011)\nK.P. Schlingmann et al.\nAutosomal-recessive mutations in SLC34A1 encoding sodium-phosphate cotransporter 2A cause idiopathic infantile hypercalcemia\nJ Am Soc Nephrol.\n(2016)\nLemke D, Klement RJ, Schweiger F, Schweiger B, Spitz J. Vitamin D Resistance as a Possible Cause of Autoimmune...\nF. Albright et al.\nRickets resistant to vitamin D therapy\nAm J Dis Child\n(1937)\nU.A. Liberman\nVitamin D-resistant diseases\nJ Bone Miner Res.\n(2007 Dec)\nS.P. Yenamandra et al.\nEpstein-Barr virus encoded EBNA-3 binds to vitamin D receptor and blocks activation of its target genes\nCell Mol Life Sci\n(2010)\nP.J. Malloy et al.\nInactivation of the human vitamin D receptor by caspase-3\nEndocrinology\n(2009)\nG. Mazziotti et al.\nVitamin D and Glucocorticoid-Induced Osteoporosis\nFront Horm Res\n(2017)\nH.L. Henry et al.\nInteractions Between Aluminum and the Actions and Metabolism of Vitamin D3 in the Chick\nCalcif Tissue Int\n(1985)\nM. Mold et al.\nAluminum in brain tissue in multiple sclerosis\nInt J Environ Res Public Health\n(2018)\nJ.M. Barragry et al.\nIntestinal cholecalciferol absorption in the elderly and younger adults\nClin Sci Mol Med\n(1978)\nJ. Maclaughlin et al.\nAging Decreases the Capacity of Human Skin to Produce Vitamin D3\nNutr Clin Pract\n(1986)\nC. Rushton\nVitamin D hydroxylation in youth and old age\nAge Ageing\n(1978)\nSîrbe C, Rednic S, Grama A, Pop TL: An Update on the Effects of Vitamin D on the Immune System and Autoimmune Diseases....\nV. Dipasquale et al.\nVitamin D in prevention of autoimmune diseases\nFront Biosci (landmark Ed).\n(2022)\nZhao R, Zhang W, Ma C,Zhao Y, Xiong R, Wang H et al.: Immunomodulatory Function of Vitamin D and Its Role in Autoimmune...\nIslam MA, Khandker SS, Alam SS, Kotyla P, Hassan R. Vitamin D status in patients with systemic lupus erythematosus...\nL.E. Jeffery et al.\nVitamin D in rheumatoid arthritis -towards clinical application\nNat Rev Rheumatol.\n(2016)\nF. Vernia et al. Vitamin D in inflammatory bowel diseases. mechanisms of action and therapeutic implications Nutrients. (2022)\nPappa H.M., Mitchell P.D., Jiang H., Kassiff S., Filip-Dhima R., DiFabio D., et al. Maintenance of optimal vitamin D...`
+│   inner_content: `\nD.D. Bikle Vitamin D metabolism, mechanism of action, and clinical applications Chem Biol. (2014)\nP.K. Singh et al. Epigenetic distortion to VDR transcriptional regulation in prostate cancer cells J Steroid Biochem Mol Biol. (2013)\nP.J. Malloy et al. Genetic disorders and defects in vitamin D action Endocrinol Metab Clin North Am. (2010)\nF.J.J. Rieder et al.\nHuman cytomegalovirus infection downregulates vitamin-D receptor in mammalian cells\nJ Steroid Biochem Mol Biol\n(2017)\nN. Saksa et al.\nDissecting high from low responders in a vitamin D3 intervention study\nJ Steroid Biochem Mol Biol\n(2015)\nS. Seuter et al.\nMolecular evaluation of vitamin D responsiveness of healthy young adults\nJ Steroid Biochem Mol Biol\n(2017)\nM.F. Holick\nVitamin D is not as toxic as was once thought: a historical and up-to-date perspective\nMayo Clin Proc.\n(2015)\nJ.F. Seymour et al.\nCalcitriol: the major humoral mediator of hypercalcemia in Hodgkin&#39;s disease and non-Hodgkin&#39;s lymphomas\nBlood.\n(1993)\nL.A. Baxter et al.\nStimulation of 25-hydroxyvitamin D3–1alpha-hydroxylase by phosphate depletion\nJ Biol Chem.\n(1976)\nD. Dinour et al.\nLoss-of-function mutations of CYP24A1, the vitamin D 24-hydroxylase gene, cause long-standing hypercalciuric nephrolithiasis and nephrocalcinosis\nJ Urol.\n(2013)\n\nT. Nakano et al.\nAssociation of kidney function with coronary atherosclerosis and calcification in autopsy samples from Japanese elders: the Hisayama study\nAm J Kidney Dis.\n(2010)\nChanchlani R, Nemer P, Sinha R, Nemer L, Krishnappa V, Sochett E, et al. An Overview of Rickets in Children. Kidney Int...\nS. Jullien\nVitamin D prophylaxis in infancy\nBMC Pediatr.\n(2021)\nE. Pál et al.\nRole of Vitamin D Deficiency in the Pathogenesis of Cardiovascular and Cerebrovascular Diseases\nNutrients.\n(2023)\nR. Marino et al.\nExtra-skeletal effects of vitamin D\nNutrients.\n(2019 Jun 27)\nJ. Yu et al.\nVitamin D and beta cells in type 1 diabetes: a systematic review\nInt J Mol Sci.\n(2022)\nC. Carlberg et al.\nSignaling in the context of innate immunity: focus on human monocytes\nFront Immunol.\n(2019)\nT. Ao et al.\nThe effects of vitamin D on immune system and inflammatory diseases\nBiomolecules.\n(2021)\nW. Lasoń et al.\nThe vitamin D receptor as a potential target for the treatment of age-related neurodegenerative diseases such as alzheimer&#39;s and parkinson&#39;s diseases: a narrative review\nCells.\n(2023)\nN. Latic et al.\nVitamin D and Cardiovascular Disease, with Emphasis on Hypertension, Atherosclerosis, and Heart Failure\nInt J Mol Sci.\n(2020 Sep 4)\nBikle DD. Vitamin D receptor, a tumor suppressor in the skin. Can J Physiol Pharmacol. 2015 ay;93(5):349-54. doi...\nM. Grzesiak\nVitamin D3 action within the ovary - an updated review\nPhysiol Res.\n(2020)\nF. Shaikh et al.\nDo VDR gene polymorphisms contribute to breast cancer?\nAsian Pac J Cancer Prev.\n(2016)\nM. Shang et al.\nVitamin D/VDR, probiotics, and gastrointestinal diseases\nCurr Med Chem.\n(2017)\nR. Bouillon et al.\nThe health effects of vitamin D supplementation: evidence from human studies\nNat Rev Endocrinol.\n(2022)\nC. Agliardi et al.\nVDR Gene Single Nucleotide Polymorphisms and Autoimmunity: A Narrative Review\nBiology (basel).\n(2023)\nK.P. Schlingmann et al.\nMutations in CYP24A1 and idiopathic infantile hypercalcemia\nN Engl J Med\n(2011)\nK.P. Schlingmann et al.\nAutosomal-recessive mutations in SLC34A1 encoding sodium-phosphate cotransporter 2A cause idiopathic infantile hypercalcemia\nJ Am Soc Nephrol.\n(2016)\nLemke D, Klement RJ, Schweiger F, Schweiger B, Spitz J. Vitamin D Resistance as a Possible Cause of Autoimmune...\nF. Albright et al.\nRickets resistant to vitamin D therapy\nAm J Dis Child\n(1937)\nU.A. Liberman\nVitamin D-resistant diseases\nJ Bone Miner Res.\n(2007 Dec)\nS.P. Yenamandra et al.\nEpstein-Barr virus encoded EBNA-3 binds to vitamin D receptor and blocks activation of its target genes\nCell Mol Life Sci\n(2010)\nP.J. Malloy et al.\nInactivation of the human vitamin D receptor by caspase-3\nEndocrinology\n(2009)\nG. Mazziotti et al.\nVitamin D and Glucocorticoid-Induced Osteoporosis\nFront Horm Res\n(2017)\nH.L. Henry et al.\nInteractions Between Aluminum and the Actions and Metabolism of Vitamin D3 in the Chick\nCalcif Tissue Int\n(1985)\nM. Mold et al.\nAluminum in brain tissue in multiple sclerosis\nInt J Environ Res Public Health\n(2018)\nJ.M. Barragry et al.\nIntestinal cholecalciferol absorption in the elderly and younger adults\nClin Sci Mol Med\n(1978)\nJ. Maclaughlin et al.\nAging Decreases the Capacity of Human Skin to Produce Vitamin D3\nNutr Clin Pract\n(1986)\nC. Rushton\nVitamin D hydroxylation in youth and old age\nAge Ageing\n(1978)\nSîrbe C, Rednic S, Grama A, Pop TL: An Update on the Effects of Vitamin D on the Immune System and Autoimmune Diseases....\nV. Dipasquale et al.\nVitamin D in prevention of autoimmune diseases\nFront Biosci (landmark Ed).\n(2022)\nZhao R, Zhang W, Ma C,Zhao Y, Xiong R, Wang H et al.: Immunomodulatory Function of Vitamin D and Its Role in Autoimmune...\nIslam MA, Khandker SS, Alam SS, Kotyla P, Hassan R. Vitamin D status in patients with systemic lupus erythematosus...\nL.E. Jeffery et al.\nVitamin D in rheumatoid arthritis -towards clinical application\nNat Rev Rheumatol.\n(2016)\nF. Vernia et al. Vitamin D in inflammatory bowel diseases. mechanisms of action and therapeutic implications Nutrients. (2022)\nPappa H.M., Mitchell P.D., Jiang H., Kassiff S., Filip-Dhima R., DiFabio D., et al. Maintenance of optimal vitamin D...`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Genetics)) category contains`
+│   inner_content: `VitaminDWiki – ((Genetics)) category contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Genetics))`
+│   │   inner_content: `Genetics`
+│   │   page: `Genetics`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Genetics`
+│   │   │   inner_content: `Genetics`
+│   ├── TextNode
+│   │   full_match: ` category contains`
+│   │   inner_content: ` category contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Genetics&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Genetics&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Genetics
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Personalized treatment of Vitamin D))`
+│   inner_content: `VitaminDWiki – ((Personalized treatment of Vitamin D))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Personalized treatment of Vitamin D))`
+│   │   inner_content: `Personalized treatment of Vitamin D`
+│   │   page: `Personalized treatment of Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Personalized treatment of Vitamin D`
+│   │   │   inner_content: `Personalized treatment of Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Table of Contents as of May 2024__`
+│   inner_content: `Table of Contents as of May 2024`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Table of Contents as of May 2024`
+│   │   inner_content: `Table of Contents as of May 2024`├── TextNode
+│   full_match: `\n23+ Personalization factors for Vitamin D treatment:\nVitaminDWiki – Vitamin D: not one size, type, form, route for all - Jan 2022\nVitaminDWiki – Increased Vitamin D response if take cofactors, etc\nVitaminDWiki – Reasons for low response to vitamin D\nVitaminDWiki – PTH and Vitamin D - many studies\nVitaminDWiki – How you might double your response to vitamin D\nPersonalized dosing: 70 to 1 differences in doses for vitamin D treatment of Breast Cancer\nVitaminDWiki – Forms of Vitamin D category has 108 items\nThe Power of Vitamin D: Is the Future in Precision Nutrition through Personalized Supplementation Plans? - April 2024\nFactors to take into account when interpreting 25-hydroxy-vitamin D serum levels – March 2024\nPerhaps 100X difference in BLOOD-Level responses to identical Vitamin D dosing\nPerhaps a 500X difference in CELL-Level responses to identical Vitamin D dosing`
+│   inner_content: `\n23+ Personalization factors for Vitamin D treatment:\nVitaminDWiki – Vitamin D: not one size, type, form, route for all - Jan 2022\nVitaminDWiki – Increased Vitamin D response if take cofactors, etc\nVitaminDWiki – Reasons for low response to vitamin D\nVitaminDWiki – PTH and Vitamin D - many studies\nVitaminDWiki – How you might double your response to vitamin D\nPersonalized dosing: 70 to 1 differences in doses for vitamin D treatment of Breast Cancer\nVitaminDWiki – Forms of Vitamin D category has 108 items\nThe Power of Vitamin D: Is the Future in Precision Nutrition through Personalized Supplementation Plans? - April 2024\nFactors to take into account when interpreting 25-hydroxy-vitamin D serum levels – March 2024\nPerhaps 100X difference in BLOOD-Level responses to identical Vitamin D dosing\nPerhaps a 500X difference in CELL-Level responses to identical Vitamin D dosing`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Significance of vitamin D responsiveness on the etiology of vitamin D-related diseases
+Steroids https://doi.org/10.1016/j.steroids.2024.109437 PDF behind paywall
+Ulla M. Järvelin a b 1, Juho M. Järvelin c 2
+
+__Highlights__
+*Response to Vitamin D (VD) is a continuum, varying from VD resistance to VD hypersensitivity.
+*Low response to VD leads to autoimmunity. VD more than recommended is needed.
+*Strong response to VD leads to organ calcification. The sun and extra VD cause harm.
+*The prevalence of resistance or hypersensitivity to VD is undetermined.
+Vitamin D resistance (VDRES) explains the necessity for higher doses of Vitamin D (VD) than those recommended for treatment success. VD receptor (VDR) signaling blockade, such as that caused by infections and poisons, is one basis for VDRES etiology. Mutations within genes affecting the VD system cause susceptibility to developing low VD responsiveness and autoimmunity. In contrast, VD hypersensitivity (VDHY) occurs if there is extra VD in the body; for example, as a result of an overdose of a VD supplement. Excess 1,25(OH)2D3 is produced in lymphomas and granulomatous diseases. The placenta produces excess 1,25(OH)2D3. Gene mutations regulating the production or degradation of 1,25(OH)2D3 enhance the effects of 1,25(OH)2D3. Increased 1,25(OH)2D3 levels stimulate calcium absorption in the gut, leading to hypercalcemia. Hypercalcemia can result in the calcification of the kidneys, circulatory system, or placenta, leading to kidney failure, cardiovascular disease, and pregnancy complications. The primary treatment involves avoiding exposure to the sun and VD supplements. The prevalence rates of VDRES and VDHY remain unclear. One estimate was that 25%, 51%, and 24% of the patients had strong, medium, and poor responses, respectively. Heavy-dose VD therapy may be a promising method for the treatment of autoimmune diseases; however, assessing its potential side effects is essential. To avoid VD-mediated hypercalcemia, responsiveness must be considered when treating pregnancies or cardiovascular diseases associated with VD. Furthermore, how VD is associated with the related disorders remains unclear. Investigating responsiveness to VD may provide more accurate results.
+
+Introduction
+A noteworthy development in modern medicine is using vitamin D (VD) to treat and prevent rickets [1], [2]. According to estimates, vitamin D deficiency (VDD) affects up to 40 % of people in the European Union and 24 % of Americans [3], and moderate cases of VDD are considered substantial health risks, even though severe cases are rare, and rickets is infrequent. VDD is associated with conditions such as cancer, connective tissue disorders, inflammatory bowel disorders, chronic hepatitis, food allergies, asthma, respiratory infections, and type 1 and 2 diabetes. However, most intervention studies have not proven a link between VDD and these conditions [4]. Calcitriol, a physiologically active VD, mediates its action by binding to the vitamin D receptor (VDR) [5]. VDR is present throughout the body, including in cells involved in immune modulation [6], [7], [8], [9], [10], [11], [12], [13], [14], [15]. The almost universal expression of the VDR implies that the VD/VDR axis controls genes associated with several processes, including energy metabolism, immunological responses, cell growth and differentiation, and calcium homeostasis [16]. However, most intervention studies have not proven a link between VDD and these processes [4]. VD supplementation can increase serum 25OHD3 concentration to a high normal range. However, this has not been associated with benefits for global health, major diseases, or medical events such as cancer, cardiovascular events, diabetes mellitus, falls, or fractures, at least in largely VD-replete adults [16]. The importance of VD substitution for preventing and treating rickets is indisputable. However, treatment results for other diseases associated with VDD and VD are contradictory. This review attempts to determine the effects of VD responsiveness
+
+A review of VD metabolism will help us understand the mechanisms associated with VD responsiveness and the utility of measuring VD metabolites when diagnosing VD responsiveness.
+
+The skin synthesizes cholecalciferol (VD3), a secosteroid that functions as a prohormone. Although dietary VD supplements can also produce it, endogenous synthesis in the skin is the main source of VD3. In the skin, UVB causes the phototransformation of 7-dehydrocholesterol into pre-VD3, and heat promotes the conversion of pre-VD3 into VD3. VD3 is mostly transferred from the skin to the bloodstream by d-binding protein (DBP). Notably, 25-hydroxylases (CYP2R1 and CYP27A1) modify VD3 via hydroxylation in the liver, resulting in 25-hydroxyvitamin D3 (25OHD3). Subsequently, 1α-hydroxylase (CYP27B1) performs a second hydroxylation to produce the active form, calcitriol [1,25(OH)2D3], predominantly in the kidneys. [5] However, hydroxylation can also occur in other tissues and cells. The active form interacts with the VDR and affects biological processes [5], [17]. Furthermore, 24-hydroxylase (CYP24A1) converts 25(OH)D3 and 1,25(OH)2D3 into inactive metabolites [5]. Additionally, 1,25(OH)2D3 concentration, blood calcium levels, and parathyroid hormone (PTH) levels principally control CYP27B1 and CYP24A1 activity. Furthermore, klotho and FGF23 negatively regulate CYP27B1 and positively regulate CYP24A1, linking VD metabolism to phosphate homeostasis (Fig. 1). [18] Free phosphate is filtered in the glomerulus of the human kidney before being reabsorbed as it travels along the nephron. The sodium phosphate cotransporter (NaPi-IIa), which regulates phosphate reabsorption from primary urine in the proximal tubule, is encoded by SLC34A1. NaPi-Iia, Klotho, FGF23, PTH, and 1,25(OH)2D3 control renal phosphate levels. [19] Intestinal 1,25(OH)2D3 enhances calcium absorption. PTH increases calcium release from the bones into the circulation if the blood-ionized calcium content is low. PTH also accelerates the conversion of 25(OH)D3 to 1,25(OH)2D3, which is then released into the bloodstream. PTH prevents phosphate reabsorption, resulting in larger quantities of ionized calcium and lower levels of water-soluble calcium phosphate salts. Consequently, the VD system has a direct feedback mechanism. PTH should be low in the lower third of the reference range if 25(OH)D3 levels are physiologically high and vice versa. [20].
+
+In the 1930 s, some children with rickets were observed to require high doses of VD to alleviate their symptoms. In 1937, Albright, Butler, and Bloomberg introduced the concept of VD resistance (VDRES) [21]. Further research revealed that these children had either hereditary defects in 1α-hydroxylase, leading to decreased active VD (VD-dependent rickets type I [VDDR-I], or congenital defects in VDR. When VDR is defective, genetic VD-resistant rickets (HVDRR), also known as VD-dependent rickets type II (VDDR-II), develops. Both are rare autosomal recessive disorders characterized by hypocalcemia, secondary hyperparathyroidism, and early onset severe rickets. [22] Rare instances of HVDRR defects have been detected to cause this issue. Only 70 items were discussed in the 2007 article “Vitamin d-resistant diseases” [23].
+
+__Although VDRES is rare (see 1.2.), the concept of acquired VDRES has been developed__, which is more common and could be related to autoimmune diseases. __This resistance results from mutations in the VD system that occur during aging and exposure to environmental factors, thereby impairing VD hormone signaling.__ These environmental factors include pathogens such as the 
+*Ebstein-Barr virus [24], 
+*cytomegalovirus [25], 
+*legionella, escherichia coli, and 
+*Yersinia. [26].
+**__~~#00F:(Not mentioned; COVID, Cancers, poor gut, etc)~~__
+ These pathogens can block the VDR and alter host immune responses. 
+*Glucocorticoids can also disturb the VDR gene [27]. 
+Aluminum can decrease renal CYP27B1 activity in chickens [28] and has been found at high concentrations in the brain tissue of patients with multiple sclerosis (MS) [29]. 
+__Aging__ reduces intestinal cholecalciferol absorption [30], decreases endogenous skin production [31] and VD hydroxylation [32]. The weakest link in the VD metabolic system is VDR, and the most significant indicators of acquired VDRES are mutations in the VDR [17], [20]. The genes CYP2R1, CYP27A1, CYP27B1, and DBP (necessary for VD transport in circulation) and the cell-surface receptor megalin-cubilin, which is the membrane receptor for the 1,25(OH)2D3/DBP complex, also have mutations associated with autoimmune diseases [20].
+
+Autoimmune disorders occur when the immune system mistakenly attacks healthy cells and tissues. VD is vital for maintaining a strong and healthy immune system. Therefore, VDD can increase the risk of autoimmune disorders by weakening the adaptive immune system. [33], [34] Several autoimmune conditions such as
+autoimmune thyroid disease [35], 
+*systemic lupus erythematosus [36], 
+*rheumatoid arthritis [37], 
+*inflammatory bowel disease (IBD) [38], [39], MS [43], and 
+*insulin-dependent type 1 diabetes mellitus [6] have been associated with VDD. 
+However, more research is needed to determine if VDD is the cause or effect of these autoimmune disorders [33], [34]. Patients with IBD often have difficulty absorbing VD, necessitating higher doses of VD to achieve normal serum 25(OH)D levels. This can prevent the development of bone fragility, osteoporosis, and osteomalacia [38]. However, few randomized controlled trials have examined the effects of VD supplementation on disease occurrence and severity. One study found that a higher dose of VD (2000 IU) led to lower levels of proinflammatory markers in children and adolescents with IBD than a lower dose of 400 IU [39]. Children with rheumatic diseases, especially those treated with steroids, are recommended to receive at least double the daily recommended dose of VD for their age (approximately 2000 UI/day) [40].
+
+Recent studies on treating autoimmune diseases have revealed the clinical advantages of high-dose VD therapy. A single high dose of VD3 (100 000 IU) may positively affect health outcomes in older adults [41]. Large-dose, short-term VD supplementation has been shown to reduce insulin resistance compared to placebos in patients with type 2 diabetes [42]. Recommended serum 25(OH)D levels are usually 20 – 30 ng/ mL. 
+__In MS treatment, serum 25(OH)D levels of approximately 130 ng/mL are recommended for therapeutic effects. __
+Clinical trials have shown that VD doses ranging from 10,000 to 40,000 IU/day are safe as an add-on therapy. In any case, these trials were relatively short in duration, had small sample sizes, and in many cases, were not placebo-controlled. The adverse effects during the trials were usually minor and manageable. The results of these trials are conflicting, and whether regular VD intake is reasonable beyond the correction of hypovitaminosis D remains unclear. [43].
+
+__Dr. Cicero Coimbra__, a neurologist from Brazil, used ultrahigh doses of VD to treat patients with autoimmune diseases [44], [45]. This approach has been used in Germany to treat patients with autoimmune diseases since 2016. The fundamental idea behind high-dose VD3 therapy is that some patients have a non-hereditary, acquired type of VDRES and insufficient biological activity of 1,25(OH)2D3. To overcome this resistance, high doses of VD3 are administered to patients to unblock VDRs. The initial doses of VD3 in the Coimbra protocol depend on the autoimmune disease being treated. 
+For MS, doses of up to 1000 IU of VD3 per kg of body weight may be used, whereas other autoimmune disorders require smaller doses. [20]
+ In rheumatoid arthritis, systemic lupus erythematosus, psoriatic arthritis, psoriasis, Crohn’s disease, and ulcerative colitis, initial VD3 doses of 300–500 IU/kg of body weight are used. Systemic scleroderma, ankylosing spondylitis, and Hashimoto’s thyroiditis require VD3 doses of 300 IU/kg of body weight, whereas other autoimmune diseases require VD3 doses of 150 IU/kg of body weight. The doses are gradually adjusted (usually lowered) during follow-up, based on a standardized procedure that considers the patient&#39;s clinical condition, calcium levels, and PTH concentrations. [20] Studies have shown that the Coimbra protocol is safe for patients with autoimmune diseases when oral VD3 is administered in large doses with a strict low-calcium diet and daily fluid intake of 2.5 L. Owing to the underlying VDRES, patients are protected against what is typically considered a potentially toxic dose, and the doses used in this protocol only have physiological effects. [46] The Coimbra protocol is similar to insulin resistance therapy in which higher doses are administered to address resistance [47].
+
+Carsten Carlberg, a Professor of Biochemistry at the University of Eastern Finland, studied VD&#39;s gene regulation and epigenetics. He found that people respond differently, molecularly and biochemically, to the same dosage of VD3. During the Finnish winter of 2015, 71 senior prediabetic participants in the VitDmet study received daily supplements of 0, 1600, or 3200 IU VD3. This study focused on the effects of VD3 supplementation on mRNA expression of 12 VD-regulated genes and several VD-affected laboratory parameters. This study demonstrated that even high doses of VD3 (3200 IU) did not always have the desired VD-regulatory effects in participants, with 25 % of patients failing to respond as expected. According to this study, patients were categorized as low (24 %), mid (51 %), and high responders (25 %). [48] Later, in 2017, the same research group conducted the VitDbol study, in which a group of healthy students received an 80,000 IU bolus dose of VD3. The results of the VitDbol study validated the findings of the VitDmet study. [49] To get an acceptable physiological response, such as lowering PTH concentrations or downregulating an activated adaptive immune system, patients with VDRES need substantial doses of VD3. Increased PTH levels, despite adequate 25(OH)D3 levels, are signs of acquired VDRES and can occur in patients with autoimmune diseases. In the VD system, PTH is essential for improving intestinal calcium absorption, triggering calcium release from the bones, boosting the conversion of 25(OH)D3 to 1,25(OH)2D3, and preventing tubular phosphate reabsorption. An average 25(OH)D3 level should reduce the PTH levels to the lower third of the reference range. However, this negative feedback loop is disrupted in patients with autoimmune diseases. [20] On the VD responsiveness continuum, individuals with VDRES fall at the low-response end [48], [49].
+
+__Vitamin D hypersensitivity patients (VDHY patients)__ are on the opposite side of the VD responsiveness continuum. They have either excess VD in the body or their bodies are sensitized to VD Because of this, the effects of VD for them are stronger than average. They don&#39;t need as much VD as others. On the other hand, extra sunshine or relatively low therapeutic doses of VD can increase the effects of VD in the body, leading to increased intestinal calcium absorption, calcium mobilization from the bones, and hypercalcemia. [51] The group “VD hypersensitivity” is divided into subgroups “exogenous and endogenous” based on its etiology
+
+Exogenous VDHY results from consuming extremely large amounts of pharmaceutical VD preparations. Values &gt; 150 ng/mL (375 nmol/L) of serum 25(OH)D3 signify exogenous VDHY. The serum 1,25(OH)2D3 levels are average. There is also hypercalcemia and low PTH [52]. According to the 2011 recommendations of the Institute of Medicine, the maximum tolerated levels of VD intake is 1000 IU/d for newborns under six months of age, 1500 IU/d for infants of six to 12 months of age, 2500 IU/d for children of one to three years of age, 3000 IU/d for children of four–to eight years of age, and 4000 IU/d for adolescents and adults [55]. However, several studies have shown that VD is probably one of the least dangerous fat-soluble vitamins, far less dangerous than vitamin A [56].
+
+Endogenous VD hypersensitivity syndrome was discovered more than 70 years ago. To treat rickets, children are administered high amounts of VD. While the majority of children responded favorably to this treatment, some displayed symptoms of hypercalcemia. This illness spread and became endemic in three distinct occurrences. The first occurred in Great Britain in the early 1950 s [57], the second in Poland in the 1970 s [58], and the third in East Germany in the 1980 s [59]. This syndrome was initially called idiopathic infantile hypercalcemia (IIH), but the name was misleading. It also occurs in adults, and its etiology is well-known.
+
+One cause for endogenous VDHY is ectopic synthesis of 1,25(OH)2D3. The placenta synthesizes extra 1,25(OH)2D3 during pregnancy [76]. Sarcoid lymph nodes synthesize extra 1,25(OH)2D3 [60], [61], [62]. Ectopic synthesis of 1,25(OH)2D3 is also observed in tuberculosis [63], lymphomas [64], [65], fungal infections, leprosy, and other granulomatous diseases [51].
+
+Another cause of endogenous VDHY is mutations in the genes responsible for the synthesis or catabolism of VD. In 2011, Shlingmann et al. reported alterations in __CYP24A1__ expression in patients with idiopathic infantile hypercalcemia (IIH). CYP24A1 catabolizes 1,25(OH)2D3 into its inactive metabolites. Mutations in the CYP24A1 gene result in the build-up of 1,25(OH)2D3 and a decrease in its degradation [Fig. 1]. [3], [66] In 2017, Schlingmann et al. found that a mutation in the SLC34A1 gene results in hypophosphatemia [4] by impairing the proximal tubules&#39; ability to reabsorb phosphate from primary urine [4], [66]. Therefore, hypophosphatemia concurrently inhibits CYP24A1 and stimulates 1α-hydroxylase (CYP27B1) (Fig. 1) [67]. The accumulation of 1,25(OH)2D3 is also an outcome of this mutation. Nephrolithiasis, decreased PTH levels, hypercalcemia, and hypercalciuria are the hallmarks of both mutations. (Fig. 1) Besides, mutations in SLC34A1 [4], [66] cause hypophosphatemia. Other yet unknown abnormalities in the genes controlling VD metabolism are expected, except for in CYP24A1 and SLC34A1 [68].
+
+In addition, an increase in the quantity of VDRs or saturation of the DBP capacity can lead to endogenous VDHY [52].
+
+Endogenous VDHY, caused by gene mutations, constitutes a hereditary risk factor because VD substitution can lead to the development of symptomatic hypercalcemia in otherwise healthy neonates [66]. Biallelic mutations result in the aforementioned clinical and biochemical phenotypes. Individuals carrying monoallelic gene mutations may exhibit hypersensitivity reactions to excess VD, have an attenuated disease, or be asymptomatic carriers [51].
+
+Clinical signs of hypercalcemia are similar, although the etiology varies. Only a small percentage of patients exhibit significant symptoms, and most patients are asymptomatic and diagnosed through routine examinations [51]. In babies, in addition to weight loss, clinical symptoms include polyuria, dehydration, vomiting, and constipation [66].
+
+VDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients [51].
+
+Chronic subclinical hypercalcemia and hypercalciuria result in kidney stones, adult renal insufficiency, and severely decreased kidney function. In addition to tubulointerstitial inflammation and fibrosis, mineral deposits associated with nephrocalcinosis play a role in developing end-stage renal diseases [69], [70], [71], [72]. Hypertension, arterial calcifications, and arterial vasoconstriction are cardiovascular symptoms associated with hypercalcemia. Mutations in CYP24A1 have been associated with coronary artery calcification, which, in turn, leads to a higher risk of coronary heart disease. [73], [74], [75] Throughout pregnancy, the amount of 1,25(OH)2D3 produced by the placenta increases [76]. Patients with VDHY do not experience an increased VD breakdown. Serious pregnancy consequences include pancreatitis, nephrolithiasis, arterial hypertension, potentially fatal hypercalcemic crises, and lethality for the mother and/or the fetus. [77], [78], [79], [80], [81] Additional clinical manifestations of hypercalcemia include neuropsychiatric symptoms such as depression, hallucinations, anorexia, nausea, vomiting, constipation, peptic ulcer disease, pancreatitis, varying degrees of demineralization and fragility of the bone, and stupor and coma in severe cases [51].
+
+Nonetheless, VDHY may remain undetected until adulthood, and its clinical signs may emerge later in life, particularly in monoallelic mutations. Excessive sun exposure, high-VD food products, or VD supplements can induce increased levels of 1,25(OH)2D3 and hypercalcemia in VDHY patients [51].
+
+The diagnosis of VD hypersensitivity is challenging. Pregnancy, medication use, VD replacement, and related conditions such as lymphomas, cancer, nephrocalcinosis, granuloma-forming illnesses, and hereditary diseases, as well as nephrolithiasis, decreased PTH levels, hypercalcemia, hypercalciuria, and hypophosphatemia should be carefully considered. In the presence of excessive 25(OH)D3, the resulting hypercalcemia is known as exogenous VDHY. [51] In endogenous VDHY, elevated 1,25(OH)2D3 concentrations have been associated with hypercalcemia. [51] If pathogenic CYP24A1 mutations are suspected, the 25(OH)D3 to 24,25(OH)2D3 ratio should be evaluated. The 25(OH)D3 to 24,25(OH)2D3 ratio is approximately &lt; 30 in most heterozygotes and individuals without pathogenic CYP24A1 mutations; however, it is generally &gt; 80 in individuals with harmful mutations. Genetic testing must be performed if the ratio of 25(OH)D3 to 24,25(OH)2D3 is &gt; 80. [82], [83].
+
+The primary course of hypercalcemia treatment is to reduce calcium intake and consume large amounts of water. Exogenous VDHY necessitates discontinuation of VD supplementation [51]. The central management strategies for CYP24A1 mutations include reducing sun exposure and eliminating VD prophylaxis [3]. For SLC34A1 mutations, phosphate supplementation is the initial therapeutic option; reducing VD consumption does not normalize test findings [4]. Patients with genetic defects that cause hypercalcemia, granulomatous diseases, and lymphomas are advised to avoid exposure to sunlight [52]. Glucocorticoids help reduce calcium levels by reducing intestinal calcium absorption, increasing calcium excretion in the urine, and encouraging the creation of inactive metabolites [52]. Glucocorticoids have no therapeutic effect in individuals with genetic defects that cause hypercalcemia [51]. Patients with CYP24A1 mutations may need to be treated with rifampicin and azoles to treat hypercalcemia. Azole-containing medications are CYP27B1 inhibitors. Rifampicin is a tuberculosis medicine that increases the activity of the enzyme CYP3A4, which, in this case, effectively inactivates VD metabolites compared to CYP24A1. [51].
+
+The prevalence of VD hypersensitivity remains unknown. A Polish population survey revealed biallelic variations in CYP24A1 and SLC34A1 are found in one in 32,465 births [58]. Severe VDHY is associated with biallelic mutations in the SLC34A1 or CYP24A1 genes [51]. The identification of heterozygous SLC34A1 and CYP24A1 mutations can be challenging. As a result, heterozygous mutations often remain undetected and are not detected until the VD substitution is used. In otherwise seemingly healthy neonates, CYP24A1 or SLC34A1 mutations are familial risk factors for the development of symptomatic hypercalcemia, which may be exacerbated by VD prophylaxis. Biallelic abnormalities in the CYP24A1 gene may be present in 4–20 % of patients with calcium kidney stones [84]. Sarcoidosis frequently results in VDHY due to the ectopic synthesis of active VD [60]. The frequency of sarcoidosis varies significantly by region, ranging from one to five per 100,000 individuals in South Korea, Japan, and Taiwan to 140–160 per 100,000 individuals in Sweden and Canada [85]. Furthermore, the real-world prevalence of VDHY remains unknown [52]. According to two accurate but narrowly sampled studies, about 25 % of Finns have VDHY [48], [49].
+
+The prevalence of new CYP24A1 and SLC34A1 mutations, VD supplementation, and recently identified differences in genes regulating VD metabolism contribute to increased VDHY. The administration of VD3 at doses higher than those advised may increase the risk of VDHY [51], [52], [53].
+
+Table 1 shows the main differences between VD resistance and VD hypersensitivity.
+
+__Section snippets__
+Discussion
+The treatment of autoimmune diseases can be complicated. High-dose VD therapy may be used to treat VDRES effectively. However, the outcomes and potential negative repercussions must be carefully evaluated.
+
+VD has been shown to help treat or prevent cardiovascular disorders, and VDD has been recognized as a risk factor for these conditions in multiple trials [86]. In contrast, in individuals with VDHY, VD supplementation increases the prevalence of kidney disease and vascular calcification, which …..
+
+Closing words
+VDD affects people worldwide. On the other hand, the risk of hypercalcemia in individuals with VDHY caused by VD supplementation may increase as more people become aware of the health benefits of VD….
+
+!!!!!Some of the references
+D.D. Bikle Vitamin D metabolism, mechanism of action, and clinical applications Chem Biol. (2014)
+P.K. Singh et al. Epigenetic distortion to VDR transcriptional regulation in prostate cancer cells J Steroid Biochem Mol Biol. (2013)
+P.J. Malloy et al. Genetic disorders and defects in vitamin D action Endocrinol Metab Clin North Am. (2010)
+F.J.J. Rieder et al.
+Human cytomegalovirus infection downregulates vitamin-D receptor in mammalian cells
+J Steroid Biochem Mol Biol
+(2017)
+N. Saksa et al.
+Dissecting high from low responders in a vitamin D3 intervention study
+J Steroid Biochem Mol Biol
+(2015)
+S. Seuter et al.
+Molecular evaluation of vitamin D responsiveness of healthy young adults
+J Steroid Biochem Mol Biol
+(2017)
+M.F. Holick
+Vitamin D is not as toxic as was once thought: a historical and up-to-date perspective
+Mayo Clin Proc.
+(2015)
+J.F. Seymour et al.
+Calcitriol: the major humoral mediator of hypercalcemia in Hodgkin&#39;s disease and non-Hodgkin&#39;s lymphomas
+Blood.
+(1993)
+L.A. Baxter et al.
+Stimulation of 25-hydroxyvitamin D3–1alpha-hydroxylase by phosphate depletion
+J Biol Chem.
+(1976)
+D. Dinour et al.
+Loss-of-function mutations of CYP24A1, the vitamin D 24-hydroxylase gene, cause long-standing hypercalciuric nephrolithiasis and nephrocalcinosis
+J Urol.
+(2013)
+
+T. Nakano et al.
+Association of kidney function with coronary atherosclerosis and calcification in autopsy samples from Japanese elders: the Hisayama study
+Am J Kidney Dis.
+(2010)
+Chanchlani R, Nemer P, Sinha R, Nemer L, Krishnappa V, Sochett E, et al. An Overview of Rickets in Children. Kidney Int...
+S. Jullien
+Vitamin D prophylaxis in infancy
+BMC Pediatr.
+(2021)
+E. Pál et al.
+Role of Vitamin D Deficiency in the Pathogenesis of Cardiovascular and Cerebrovascular Diseases
+Nutrients.
+(2023)
+R. Marino et al.
+Extra-skeletal effects of vitamin D
+Nutrients.
+(2019 Jun 27)
+J. Yu et al.
+Vitamin D and beta cells in type 1 diabetes: a systematic review
+Int J Mol Sci.
+(2022)
+C. Carlberg et al.
+Signaling in the context of innate immunity: focus on human monocytes
+Front Immunol.
+(2019)
+T. Ao et al.
+The effects of vitamin D on immune system and inflammatory diseases
+Biomolecules.
+(2021)
+W. Lasoń et al.
+The vitamin D receptor as a potential target for the treatment of age-related neurodegenerative diseases such as alzheimer&#39;s and parkinson&#39;s diseases: a narrative review
+Cells.
+(2023)
+N. Latic et al.
+Vitamin D and Cardiovascular Disease, with Emphasis on Hypertension, Atherosclerosis, and Heart Failure
+Int J Mol Sci.
+(2020 Sep 4)
+Bikle DD. Vitamin D receptor, a tumor suppressor in the skin. Can J Physiol Pharmacol. 2015 ay;93(5):349-54. doi...
+M. Grzesiak
+Vitamin D3 action within the ovary - an updated review
+Physiol Res.
+(2020)
+F. Shaikh et al.
+Do VDR gene polymorphisms contribute to breast cancer?
+Asian Pac J Cancer Prev.
+(2016)
+M. Shang et al.
+Vitamin D/VDR, probiotics, and gastrointestinal diseases
+Curr Med Chem.
+(2017)
+R. Bouillon et al.
+The health effects of vitamin D supplementation: evidence from human studies
+Nat Rev Endocrinol.
+(2022)
+C. Agliardi et al.
+VDR Gene Single Nucleotide Polymorphisms and Autoimmunity: A Narrative Review
+Biology (basel).
+(2023)
+K.P. Schlingmann et al.
+Mutations in CYP24A1 and idiopathic infantile hypercalcemia
+N Engl J Med
+(2011)
+K.P. Schlingmann et al.
+Autosomal-recessive mutations in SLC34A1 encoding sodium-phosphate cotransporter 2A cause idiopathic infantile hypercalcemia
+J Am Soc Nephrol.
+(2016)
+Lemke D, Klement RJ, Schweiger F, Schweiger B, Spitz J. Vitamin D Resistance as a Possible Cause of Autoimmune...
+F. Albright et al.
+Rickets resistant to vitamin D therapy
+Am J Dis Child
+(1937)
+U.A. Liberman
+Vitamin D-resistant diseases
+J Bone Miner Res.
+(2007 Dec)
+S.P. Yenamandra et al.
+Epstein-Barr virus encoded EBNA-3 binds to vitamin D receptor and blocks activation of its target genes
+Cell Mol Life Sci
+(2010)
+P.J. Malloy et al.
+Inactivation of the human vitamin D receptor by caspase-3
+Endocrinology
+(2009)
+G. Mazziotti et al.
+Vitamin D and Glucocorticoid-Induced Osteoporosis
+Front Horm Res
+(2017)
+H.L. Henry et al.
+Interactions Between Aluminum and the Actions and Metabolism of Vitamin D3 in the Chick
+Calcif Tissue Int
+(1985)
+M. Mold et al.
+Aluminum in brain tissue in multiple sclerosis
+Int J Environ Res Public Health
+(2018)
+J.M. Barragry et al.
+Intestinal cholecalciferol absorption in the elderly and younger adults
+Clin Sci Mol Med
+(1978)
+J. Maclaughlin et al.
+Aging Decreases the Capacity of Human Skin to Produce Vitamin D3
+Nutr Clin Pract
+(1986)
+C. Rushton
+Vitamin D hydroxylation in youth and old age
+Age Ageing
+(1978)
+Sîrbe C, Rednic S, Grama A, Pop TL: An Update on the Effects of Vitamin D on the Immune System and Autoimmune Diseases....
+V. Dipasquale et al.
+Vitamin D in prevention of autoimmune diseases
+Front Biosci (landmark Ed).
+(2022)
+Zhao R, Zhang W, Ma C,Zhao Y, Xiong R, Wang H et al.: Immunomodulatory Function of Vitamin D and Its Role in Autoimmune...
+Islam MA, Khandker SS, Alam SS, Kotyla P, Hassan R. Vitamin D status in patients with systemic lupus erythematosus...
+L.E. Jeffery et al.
+Vitamin D in rheumatoid arthritis -towards clinical application
+Nat Rev Rheumatol.
+(2016)
+F. Vernia et al. Vitamin D in inflammatory bowel diseases. mechanisms of action and therapeutic implications Nutrients. (2022)
+Pappa H.M., Mitchell P.D., Jiang H., Kassiff S., Filip-Dhima R., DiFabio D., et al. Maintenance of optimal vitamin D...
+---
+!!!!VitaminDWiki – ((Genetics)) category contains
+{include page=&quot;Genetics&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Personalized treatment of Vitamin D))
+__Table of Contents as of May 2024__
+23+ Personalization factors for Vitamin D treatment:
+VitaminDWiki – Vitamin D: not one size, type, form, route for all - Jan 2022
+VitaminDWiki – Increased Vitamin D response if take cofactors, etc
+VitaminDWiki – Reasons for low response to vitamin D
+VitaminDWiki – PTH and Vitamin D - many studies
+VitaminDWiki – How you might double your response to vitamin D
+Personalized dosing: 70 to 1 differences in doses for vitamin D treatment of Breast Cancer
+VitaminDWiki – Forms of Vitamin D category has 108 items
+The Power of Vitamin D: Is the Future in Precision Nutrition through Personalized Supplementation Plans? - April 2024
+Factors to take into account when interpreting 25-hydroxy-vitamin D serum levels – March 2024
+Perhaps 100X difference in BLOOD-Level responses to identical Vitamin D dosing
+Perhaps a 500X difference in CELL-Level responses to identical Vitamin D dosing
+</code>
+</pre>

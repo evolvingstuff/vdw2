@@ -15,7 +15,7 @@ date: 2024-08-14
 
 #### Fat-soluble vitamin D must go thru the lymph system, water-soluble skips it
 
-* <a href="/posts/fat-soluble-vitamins-go-thru-the-slow-lymph-system" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fat-soluble Vitamins go thru the slow lymph system">Fat-soluble Vitamins go thru the slow lymph system</a>
+* [Fat-soluble Vitamins go thru the slow lymph system](/posts/fat-soluble-vitamins-go-thru-the-slow-lymph-system)
 
 * <a href="/posts/getting-vitamin-d-into-your-blood-and-cells" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your blood and cells">Getting Vitamin D into your blood and cells</a> has a chart:
 
@@ -117,7 +117,7 @@ While these problems can significantly impact quality of life, many can be manag
 
 * <a href="/posts/vitamin-d-water-soluble-is-far-more-absorbable-than-fat-soluble" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D – water-soluble is far more absorbable than fat-soluble – Nov 2016">Vitamin D – water-soluble is far more absorbable than fat-soluble – Nov 2016</a>
 
-* <a href="/posts/vitamins-a-d-e-and-k-are-important-for-health-note-each-is-more-bioavailable-in-water-soluble-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024">Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024</a>
+* [Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024](/posts/vitamins-a-d-e-and-k-are-important-for-health-note-each-is-more-bioavailable-in-water-soluble-form)
 
  **Examples** 
 
@@ -157,7 +157,7 @@ Markdown:
 
 #### Fat-soluble vitamin D must go thru the lymph system, water-soluble skips it
 
-* &lt;a href=&quot;/posts/fat-soluble-vitamins-go-thru-the-slow-lymph-system&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Fat-soluble Vitamins go thru the slow lymph system&quot;&gt;Fat-soluble Vitamins go thru the slow lymph system&lt;/a&gt;
+* [Fat-soluble Vitamins go thru the slow lymph system](/posts/fat-soluble-vitamins-go-thru-the-slow-lymph-system)
 
 * &lt;a href=&quot;/posts/getting-vitamin-d-into-your-blood-and-cells&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your blood and cells&quot;&gt;Getting Vitamin D into your blood and cells&lt;/a&gt; has a chart:
 
@@ -259,7 +259,7 @@ While these problems can significantly impact quality of life, many can be manag
 
 * &lt;a href=&quot;/posts/vitamin-d-water-soluble-is-far-more-absorbable-than-fat-soluble&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D – water-soluble is far more absorbable than fat-soluble – Nov 2016&quot;&gt;Vitamin D – water-soluble is far more absorbable than fat-soluble – Nov 2016&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/vitamins-a-d-e-and-k-are-important-for-health-note-each-is-more-bioavailable-in-water-soluble-form&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024&quot;&gt;Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024&lt;/a&gt;
+* [Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024](/posts/vitamins-a-d-e-and-k-are-important-for-health-note-each-is-more-bioavailable-in-water-soluble-form)
 
  **Examples** 
 

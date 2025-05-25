@@ -61,7 +61,7 @@ Conclusions and Relevance  This study found that at current utilization and radi
 
 * <a href="/posts/childhood-cancers-give-vitamin-d-loading-dose-if-low" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Childhood cancers – give Vitamin D loading dose if low – Oct 2021">Childhood cancers – give Vitamin D loading dose if low – Oct 2021</a>
 
-* <a href="/posts/radiation-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Radiation and Vitamin D - many studies">Radiation and Vitamin D - many studies</a>
+* [Radiation and Vitamin D - many studies](/posts/radiation-and-vitamin-d-many-studies)
 
 * <a href="/posts/radiation-therapy-used-to-treat-some-cancers-causes-less-damage-if-use-vitamin-d-or-melatonin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Radiation therapy, used to treat some cancers, causes less damage if use Vitamin D (or Melatonin) – Aug 2022">Radiation therapy, used to treat some cancers, causes less damage if use Vitamin D (or Melatonin) – Aug 2022</a>
 
@@ -123,7 +123,7 @@ Conclusions and Relevance  This study found that at current utilization and radi
 
 * &lt;a href=&quot;/posts/childhood-cancers-give-vitamin-d-loading-dose-if-low&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Childhood cancers – give Vitamin D loading dose if low – Oct 2021&quot;&gt;Childhood cancers – give Vitamin D loading dose if low – Oct 2021&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/radiation-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Radiation and Vitamin D - many studies&quot;&gt;Radiation and Vitamin D - many studies&lt;/a&gt;
+* [Radiation and Vitamin D - many studies](/posts/radiation-and-vitamin-d-many-studies)
 
 * &lt;a href=&quot;/posts/radiation-therapy-used-to-treat-some-cancers-causes-less-damage-if-use-vitamin-d-or-melatonin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Radiation therapy, used to treat some cancers, causes less damage if use Vitamin D (or Melatonin) – Aug 2022&quot;&gt;Radiation therapy, used to treat some cancers, causes less damage if use Vitamin D (or Melatonin) – Aug 2022&lt;/a&gt;
 

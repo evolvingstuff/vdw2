@@ -33,7 +33,7 @@ date: 2024-09-22
 
 * <a href="/posts/boosting-immunity-with-vitamin-d-to-reduce-covid-19-risks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boosting Immunity with Vitamin D to reduce COVID-19 risks - Aug 2021">Boosting Immunity with Vitamin D to reduce COVID-19 risks - Aug 2021</a>
 
-* <a href="/posts/vitamin-d-and-aging-central-role-of-immunocompetence-carlberg" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024">Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024</a>
+* [Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024](/posts/vitamin-d-and-aging-central-role-of-immunocompetence-carlberg)
 
 * <a href="/posts/600000-iu-of-vitamin-d-total-allowed-previously-weak-immune-systems-to-fight-off-a-virus-antigen" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 600,000 IU of Vitamin D (total) allowed previously weak immune systems to fight off a virus antigen - Nov 2020">600,000 IU of Vitamin D (total) allowed previously weak immune systems to fight off a virus antigen - Nov 2020</a>
 
@@ -69,7 +69,7 @@ Markdown:
 
 * &lt;a href=&quot;/posts/boosting-immunity-with-vitamin-d-to-reduce-covid-19-risks&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Boosting Immunity with Vitamin D to reduce COVID-19 risks - Aug 2021&quot;&gt;Boosting Immunity with Vitamin D to reduce COVID-19 risks - Aug 2021&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/vitamin-d-and-aging-central-role-of-immunocompetence-carlberg&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024&quot;&gt;Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024&lt;/a&gt;
+* [Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024](/posts/vitamin-d-and-aging-central-role-of-immunocompetence-carlberg)
 
 * &lt;a href=&quot;/posts/600000-iu-of-vitamin-d-total-allowed-previously-weak-immune-systems-to-fight-off-a-virus-antigen&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 600,000 IU of Vitamin D (total) allowed previously weak immune systems to fight off a virus antigen - Nov 2020&quot;&gt;600,000 IU of Vitamin D (total) allowed previously weak immune systems to fight off a virus antigen - Nov 2020&lt;/a&gt;
 

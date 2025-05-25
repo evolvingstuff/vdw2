@@ -13,7 +13,7 @@ date: 2024-10-09
 
 For best results, many supplements should be taken in water-dispersible forms
 
-&nbsp; &nbsp; &nbsp; &nbsp; such as: all of the fat soluble vitamins, Omega-3, <a href="/posts/resveratrol-improves-health-vitamin-d-receptor-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol improves health (Vitamin D receptor, etc.) - many studies">Resveratrol</a>, <a href="/posts/glutathione-and-vitamin-d-synergism-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Glutathione and Vitamin D synergism - many studies">Glutathione</a>, etc.
+&nbsp; &nbsp; &nbsp; &nbsp; such as: all of the fat soluble vitamins, Omega-3, <a href="/posts/resveratrol-improves-health-vitamin-d-receptor-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol improves health (Vitamin D receptor, etc.) - many studies">Resveratrol</a>, [Glutathione](/posts/glutathione-and-vitamin-d-synergism-many-studies), etc.
 
 1) More bioavailable (see below: +10% to +50%)
 
@@ -178,7 +178,7 @@ Markdown:
 
 For best results, many supplements should be taken in water-dispersible forms
 
-&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; such as: all of the fat soluble vitamins, Omega-3, &lt;a href=&quot;/posts/resveratrol-improves-health-vitamin-d-receptor-etc-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Resveratrol improves health (Vitamin D receptor, etc.) - many studies&quot;&gt;Resveratrol&lt;/a&gt;, &lt;a href=&quot;/posts/glutathione-and-vitamin-d-synergism-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Glutathione and Vitamin D synergism - many studies&quot;&gt;Glutathione&lt;/a&gt;, etc.
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; such as: all of the fat soluble vitamins, Omega-3, &lt;a href=&quot;/posts/resveratrol-improves-health-vitamin-d-receptor-etc-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Resveratrol improves health (Vitamin D receptor, etc.) - many studies&quot;&gt;Resveratrol&lt;/a&gt;, [Glutathione](/posts/glutathione-and-vitamin-d-synergism-many-studies), etc.
 
 1) More bioavailable (see below: +10% to +50%)
 

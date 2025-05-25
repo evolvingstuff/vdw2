@@ -25,7 +25,7 @@ date: 2025-03-01
 
 #### See related:
 
-<a href="/posts/glutathione-and-vitamin-d-synergism-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Glutathione and Vitamin D synergism - many studies">Glutathione and Vitamin D synergism - many studies</a>
+[Glutathione and Vitamin D synergism - many studies](/posts/glutathione-and-vitamin-d-synergism-many-studies)
 
 <a href="/posts/inhaled-vitamin-d-help-lungs-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inhaled vitamin D help lungs - many studies">Inhaled vitamin D help lungs - many studies</a> - might be synergistic with nebulized glutathione
 
@@ -57,7 +57,7 @@ Markdown:
 
 #### See related:
 
-&lt;a href=&quot;/posts/glutathione-and-vitamin-d-synergism-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Glutathione and Vitamin D synergism - many studies&quot;&gt;Glutathione and Vitamin D synergism - many studies&lt;/a&gt;
+[Glutathione and Vitamin D synergism - many studies](/posts/glutathione-and-vitamin-d-synergism-many-studies)
 
 &lt;a href=&quot;/posts/inhaled-vitamin-d-help-lungs-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Inhaled vitamin D help lungs - many studies&quot;&gt;Inhaled vitamin D help lungs - many studies&lt;/a&gt; - might be synergistic with nebulized glutathione
 

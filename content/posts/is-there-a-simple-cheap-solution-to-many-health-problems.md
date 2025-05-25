@@ -23,7 +23,7 @@ date: 2025-02-20
 
 <a href="/posts/pfas-forever-chemicals-reduce-both-vitamin-d-and-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11220">PFAS (forever chemicals) reduce both Vitamin D and the Vitamin D Receptor</a>
 
-<a href="/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultra-processed foods associated with worse health and lower Vitamin D - many studies">Ultra-processed foods reduce Vitamin D measured in the blood</a>
+[Ultra-processed foods reduce Vitamin D measured in the blood](/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-many-studies)
 
 <a href="/posts/pesticides-increase-risk-of-cancers-alz-als-asthma-adhd-etc-all-related-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016">Pesticides</a>
 
@@ -61,7 +61,7 @@ Markdown:
 
 &lt;a href=&quot;/posts/pfas-forever-chemicals-reduce-both-vitamin-d-and-the-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11220&quot;&gt;PFAS (forever chemicals) reduce both Vitamin D and the Vitamin D Receptor&lt;/a&gt;
 
-&lt;a href=&quot;/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ultra-processed foods associated with worse health and lower Vitamin D - many studies&quot;&gt;Ultra-processed foods reduce Vitamin D measured in the blood&lt;/a&gt;
+[Ultra-processed foods reduce Vitamin D measured in the blood](/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-many-studies)
 
 &lt;a href=&quot;/posts/pesticides-increase-risk-of-cancers-alz-als-asthma-adhd-etc-all-related-to-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016&quot;&gt;Pesticides&lt;/a&gt;
 

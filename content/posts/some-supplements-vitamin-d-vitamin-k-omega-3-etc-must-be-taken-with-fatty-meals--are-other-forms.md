@@ -119,7 +119,7 @@ Note that while I aim to be accurate, you may want to verify these specific numb
 
 1. [Water-dispersible forms of fatty Vitamins](/posts/water-dispersible-forms-of-vitamins-a-d-e-and-k-are-better)
 
-> <a href="/posts/vitamin-d-liposomal-and-nanoemulsion-forms-chat-gpt" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023">Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023</a>
+> [Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023](/posts/vitamin-d-liposomal-and-nanoemulsion-forms-chat-gpt)
 
 > Founder of VitaminDWiki takes both a [water-dispersable](https://www.amazon.com/Bio-Tech-Pharmacal-D3-50-100-Count/dp/B000A0F2B2/ref=sr_1_1?crid=33DBT68G0YQBN&dib=eyJ2IjoiMSJ9.t3ah0BOcODJ6p7UY45ulIvToXN3qhfyHRjQsacQBEYnCBc1Rm7Rqbeso6mYx7uw_ZfK0a3oevS2rBi6g1yW6Adx1nkv1Ol5F6TEyICRCS6TxaU9zM5QkMrsIT9pwyyzHAKfdDoYFmuKnNTbA2B1UNnOAy4THNs2KcaiWvWeKc7xSeslaEPZ1H62ItJ6S3d3cGdk72DkacxoBiDk4k7ENkW5U6mZiZkVb2YIhDN-DldGD7r7Cb9rt9Nyxdg3_2lQs_VWAbXPvw9BvY1rVzZ03b3p62ud2BYSpB5yHQm7aNdE.LYU1h4GpFXTeGAZxOXBmFi-0S1yJW4XoqyDrfck38Gc&dib_tag=se&keywords=bio-tech+pharmacal+d3-50+50%2C000+iu&qid=1732493738&sprefix=bio-tech%2Caps%2C253&sr=8-1?tag=vdw-20) and a [nanoemulsion form of Vitamin D](https://www.amazon.com/gp/product/B00ESKNGCW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1?tag=vdw-20)
 
@@ -273,7 +273,7 @@ Note that while I aim to be accurate, you may want to verify these specific numb
 
 1. [Water-dispersible forms of fatty Vitamins](/posts/water-dispersible-forms-of-vitamins-a-d-e-and-k-are-better)
 
-&gt; &lt;a href=&quot;/posts/vitamin-d-liposomal-and-nanoemulsion-forms-chat-gpt&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023&quot;&gt;Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023&lt;/a&gt;
+&gt; [Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023](/posts/vitamin-d-liposomal-and-nanoemulsion-forms-chat-gpt)
 
 &gt; Founder of VitaminDWiki takes both a [water-dispersable](https://www.amazon.com/Bio-Tech-Pharmacal-D3-50-100-Count/dp/B000A0F2B2/ref=sr_1_1?crid=33DBT68G0YQBN&amp;dib=eyJ2IjoiMSJ9.t3ah0BOcODJ6p7UY45ulIvToXN3qhfyHRjQsacQBEYnCBc1Rm7Rqbeso6mYx7uw_ZfK0a3oevS2rBi6g1yW6Adx1nkv1Ol5F6TEyICRCS6TxaU9zM5QkMrsIT9pwyyzHAKfdDoYFmuKnNTbA2B1UNnOAy4THNs2KcaiWvWeKc7xSeslaEPZ1H62ItJ6S3d3cGdk72DkacxoBiDk4k7ENkW5U6mZiZkVb2YIhDN-DldGD7r7Cb9rt9Nyxdg3_2lQs_VWAbXPvw9BvY1rVzZ03b3p62ud2BYSpB5yHQm7aNdE.LYU1h4GpFXTeGAZxOXBmFi-0S1yJW4XoqyDrfck38Gc&amp;dib_tag=se&amp;keywords=bio-tech+pharmacal+d3-50+50%2C000+iu&amp;qid=1732493738&amp;sprefix=bio-tech%2Caps%2C253&amp;sr=8-1?tag=vdw-20) and a [nanoemulsion form of Vitamin D](https://www.amazon.com/gp/product/B00ESKNGCW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1?tag=vdw-20)
 

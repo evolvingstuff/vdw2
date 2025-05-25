@@ -31,7 +31,7 @@ Higher vitamin D gene scores were inversely associated with lethal prostate canc
 
 ---
 
-#### <a href="/posts/glutathione-and-vitamin-d-synergism-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Glutathione and Vitamin D synergism - many studies">Antioxident Glutathione helps CYP24A1</a>
+#### [Antioxident Glutathione helps CYP24A1](/posts/glutathione-and-vitamin-d-synergism-many-studies)
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -60,7 +60,7 @@ Higher vitamin D gene scores were inversely associated with lethal prostate canc
 
 ---
 
-#### &lt;a href=&quot;/posts/glutathione-and-vitamin-d-synergism-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Glutathione and Vitamin D synergism - many studies&quot;&gt;Antioxident Glutathione helps CYP24A1&lt;/a&gt;
+#### [Antioxident Glutathione helps CYP24A1](/posts/glutathione-and-vitamin-d-synergism-many-studies)
 
 
 AST Structure:

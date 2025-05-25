@@ -30,7 +30,7 @@ should result in less pain, improved implant
 
 > Take supplements known to improve bone growth (outside of the mouth)
 
-> Vitamin D, Boron, Magnesium, Silicon, plant-based Calcium, Vitamin K2, etc. <a href="/posts/healthy-bones-need-ca-silicon-vitamins-b-c-d-and-k" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy bones need Ca, Silicon, Vitamins B, C, D, and K – Dec 2012">1</a> &nbsp; <a href="/posts/which-supplements-are-often-taken-for-healing-hairline-bone-fractures" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Which supplements are often taken for healing hairline bone fractures">2</a>
+> Vitamin D, Boron, Magnesium, Silicon, plant-based Calcium, Vitamin K2, etc. <a href="/posts/healthy-bones-need-ca-silicon-vitamins-b-c-d-and-k" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy bones need Ca, Silicon, Vitamins B, C, D, and K – Dec 2012">1</a> &nbsp; [2](/posts/which-supplements-are-often-taken-for-healing-hairline-bone-fractures)
 
 {{< toc >}}
 
@@ -145,7 +145,7 @@ should result in less pain, improved implant
 
 &gt; Take supplements known to improve bone growth (outside of the mouth)
 
-&gt; Vitamin D, Boron, Magnesium, Silicon, plant-based Calcium, Vitamin K2, etc. &lt;a href=&quot;/posts/healthy-bones-need-ca-silicon-vitamins-b-c-d-and-k&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Healthy bones need Ca, Silicon, Vitamins B, C, D, and K – Dec 2012&quot;&gt;1&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;/posts/which-supplements-are-often-taken-for-healing-hairline-bone-fractures&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Which supplements are often taken for healing hairline bone fractures&quot;&gt;2&lt;/a&gt;
+&gt; Vitamin D, Boron, Magnesium, Silicon, plant-based Calcium, Vitamin K2, etc. &lt;a href=&quot;/posts/healthy-bones-need-ca-silicon-vitamins-b-c-d-and-k&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Healthy bones need Ca, Silicon, Vitamins B, C, D, and K – Dec 2012&quot;&gt;1&lt;/a&gt; &amp;nbsp; [2](/posts/which-supplements-are-often-taken-for-healing-hairline-bone-fractures)
 
 {{&lt; toc &gt;}}
 

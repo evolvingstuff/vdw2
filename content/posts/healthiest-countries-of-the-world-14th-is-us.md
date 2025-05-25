@@ -25,7 +25,7 @@ date: 2025-01-07
 
 ---
 
-#### See related: <a href="/posts/all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: All 8 of the factors that increase health span are associated with Vitamin D - March 2023">All 8 of the factors that increase health span are associated with Vitamin D - March 2023</a>
+#### See related: [All 8 of the factors that increase health span are associated with Vitamin D - March 2023](/posts/all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d)
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -48,7 +48,7 @@ Markdown:
 
 ---
 
-#### See related: &lt;a href=&quot;/posts/all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: All 8 of the factors that increase health span are associated with Vitamin D - March 2023&quot;&gt;All 8 of the factors that increase health span are associated with Vitamin D - March 2023&lt;/a&gt;
+#### See related: [All 8 of the factors that increase health span are associated with Vitamin D - March 2023](/posts/all-8-of-the-factors-that-increase-health-span-are-associated-with-vitamin-d)
 
 
 AST Structure:

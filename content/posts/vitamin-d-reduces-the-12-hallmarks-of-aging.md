@@ -45,15 +45,15 @@ date: 2025-01-22
 
 * <a href="/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023">13 reasons why many seniors need more vitamin D (both dose and level) - July 2023</a>
 
-* <a href="/posts/vitamin-d-and-aging-central-role-of-immunocompetence-carlberg" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024">Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024</a>
+* [Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024](/posts/vitamin-d-and-aging-central-role-of-immunocompetence-carlberg)
 
 * <a href="/posts/vitamin-d-supplementation-is-associated-with-slower-epigenetic-aging" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D supplementation is associated with slower epigenetic aging - May 2022">Vitamin D supplementation is associated with slower epigenetic aging - May 2022</a>
 
 * [Vitamin D prescribed to half of those 90 or older (France) – Jan 2025](/posts/vitamin-d-prescribed-to-half-of-those-90-or-older-france)
 
-* <a href="/posts/seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors get about 4X less vitamin D from the sun or UVB">Seniors get about 4X less vitamin D from the sun or UVB</a>
+* [Seniors get about 4X less vitamin D from the sun or UVB](/posts/seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb)
 
-* <a href="/posts/elderly-disability-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Elderly disability associated with low Vitamin D – Jan 2024">Elderly disability associated with low Vitamin D – Jan 2024</a>
+* [Elderly disability associated with low Vitamin D – Jan 2024](/posts/elderly-disability-associated-with-low-vitamin-d)
 
 * <a href="/posts/seniors-54-more-likely-to-die-if-vitamin-d-less-than-15-ng-mexico" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors 5.4 more likely to die if Vitamin D less than 15 ng (Mexico) – Aug 2023">Seniors 5.4 more likely to die if Vitamin D less than 15 ng (Mexico) – Aug 2023</a>
 
@@ -111,15 +111,15 @@ Markdown:
 
 * &lt;a href=&quot;/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot;&gt;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/vitamin-d-and-aging-central-role-of-immunocompetence-carlberg&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024&quot;&gt;Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024&lt;/a&gt;
+* [Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024](/posts/vitamin-d-and-aging-central-role-of-immunocompetence-carlberg)
 
 * &lt;a href=&quot;/posts/vitamin-d-supplementation-is-associated-with-slower-epigenetic-aging&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D supplementation is associated with slower epigenetic aging - May 2022&quot;&gt;Vitamin D supplementation is associated with slower epigenetic aging - May 2022&lt;/a&gt;
 
 * [Vitamin D prescribed to half of those 90 or older (France) – Jan 2025](/posts/vitamin-d-prescribed-to-half-of-those-90-or-older-france)
 
-* &lt;a href=&quot;/posts/seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Seniors get about 4X less vitamin D from the sun or UVB&quot;&gt;Seniors get about 4X less vitamin D from the sun or UVB&lt;/a&gt;
+* [Seniors get about 4X less vitamin D from the sun or UVB](/posts/seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb)
 
-* &lt;a href=&quot;/posts/elderly-disability-associated-with-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Elderly disability associated with low Vitamin D – Jan 2024&quot;&gt;Elderly disability associated with low Vitamin D – Jan 2024&lt;/a&gt;
+* [Elderly disability associated with low Vitamin D – Jan 2024](/posts/elderly-disability-associated-with-low-vitamin-d)
 
 * &lt;a href=&quot;/posts/seniors-54-more-likely-to-die-if-vitamin-d-less-than-15-ng-mexico&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Seniors 5.4 more likely to die if Vitamin D less than 15 ng (Mexico) – Aug 2023&quot;&gt;Seniors 5.4 more likely to die if Vitamin D less than 15 ng (Mexico) – Aug 2023&lt;/a&gt;
 

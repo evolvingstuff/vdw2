@@ -53,7 +53,7 @@ An increase in MDS is significantly correlated with a higher risk of all-cause a
 
 #### 6 related studies in VitaminDWiki
 
-* <a href="/posts/magnesium-depletion-score-predicts-increased-risk-of-various-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Depletion Score predicts increased risk of various health problems">Magnesium Depletion Score predicts increased risk of various health problems</a>
+* [Magnesium Depletion Score predicts increased risk of various health problems](/posts/magnesium-depletion-score-predicts-increased-risk-of-various-health-problems)
 
 * <a href="/posts/red-meat-consumption-increases-risk-of-diabetes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Red meat consumption increases risk of Diabetes - many studies">Diabetes and Magnesium</a> 32+studies
 
@@ -113,7 +113,7 @@ An increase in MDS is significantly correlated with a higher risk of all-cause a
 
 #### 6 related studies in VitaminDWiki
 
-* &lt;a href=&quot;/posts/magnesium-depletion-score-predicts-increased-risk-of-various-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium Depletion Score predicts increased risk of various health problems&quot;&gt;Magnesium Depletion Score predicts increased risk of various health problems&lt;/a&gt;
+* [Magnesium Depletion Score predicts increased risk of various health problems](/posts/magnesium-depletion-score-predicts-increased-risk-of-various-health-problems)
 
 * &lt;a href=&quot;/posts/red-meat-consumption-increases-risk-of-diabetes-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Red meat consumption increases risk of Diabetes - many studies&quot;&gt;Diabetes and Magnesium&lt;/a&gt; 32+studies
 

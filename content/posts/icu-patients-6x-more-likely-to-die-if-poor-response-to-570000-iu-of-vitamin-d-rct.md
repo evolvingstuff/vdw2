@@ -37,7 +37,7 @@ Conclusions: In our study, less than half of the patients reached adequate vitam
 
 #### A previous study by the same authors found similar benefits to good responders in ICU
 
- **<a href="/posts/icu-patients-typically-benefit-from-300-500000-iu-of-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ICU patients typically benefit from 300-500,000 IU of Vitamin D - many studies">ICU patients typically benefit from 300-500,000 IU of Vitamin D - many studies</a>** 
+ **[ICU patients typically benefit from 300-500,000 IU of Vitamin D - many studies](/posts/icu-patients-typically-benefit-from-300-500000-iu-of-vitamin-d-many-studies)** 
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/response-to-500k.webp" alt="image" width="500">
 
@@ -74,7 +74,7 @@ Conclusions: In our study, less than half of the patients reached adequate vitam
 
 #### A previous study by the same authors found similar benefits to good responders in ICU
 
- **&lt;a href=&quot;/posts/icu-patients-typically-benefit-from-300-500000-iu-of-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: ICU patients typically benefit from 300-500,000 IU of Vitamin D - many studies&quot;&gt;ICU patients typically benefit from 300-500,000 IU of Vitamin D - many studies&lt;/a&gt;** 
+ **[ICU patients typically benefit from 300-500,000 IU of Vitamin D - many studies](/posts/icu-patients-typically-benefit-from-300-500000-iu-of-vitamin-d-many-studies)** 
 
 &lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/response-to-500k.webp&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 

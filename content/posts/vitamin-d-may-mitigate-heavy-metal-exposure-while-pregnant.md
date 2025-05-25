@@ -243,13 +243,13 @@ Conclusions: The review highlights the importance of maintaining adequate VD lev
 
 #### 4 related items in VitaminDWiki
 
-* <a href="/posts/pregnancies-starting-with-high-vitamin-d-often-have-fewer-toxic-metals-in-3rd-trimester" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pregnancies starting with high vitamin D often have fewer toxic metals in 3rd trimester – June 2024">Pregnancies starting with high vitamin D often have fewer toxic metals in 3rd trimester – June 2024</a>
+* [Pregnancies starting with high vitamin D often have fewer toxic metals in 3rd trimester – June 2024](/posts/pregnancies-starting-with-high-vitamin-d-often-have-fewer-toxic-metals-in-3rd-trimester)
 
 * [Heavy metals can cause health problems if low vitamin D (depression in this study) – Nov 2024](/posts/heavy-metals-can-cause-health-problems-if-low-vitamin-d-depression-in-this-study)
 
-* <a href="/posts/vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024">Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024</a>
+* [Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024](/posts/vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood)
 
-* <a href="/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024">Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024</a>
+* [Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024](/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d)
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -489,13 +489,13 @@ Conclusions: The review highlights the importance of maintaining adequate VD lev
 
 #### 4 related items in VitaminDWiki
 
-* &lt;a href=&quot;/posts/pregnancies-starting-with-high-vitamin-d-often-have-fewer-toxic-metals-in-3rd-trimester&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pregnancies starting with high vitamin D often have fewer toxic metals in 3rd trimester – June 2024&quot;&gt;Pregnancies starting with high vitamin D often have fewer toxic metals in 3rd trimester – June 2024&lt;/a&gt;
+* [Pregnancies starting with high vitamin D often have fewer toxic metals in 3rd trimester – June 2024](/posts/pregnancies-starting-with-high-vitamin-d-often-have-fewer-toxic-metals-in-3rd-trimester)
 
 * [Heavy metals can cause health problems if low vitamin D (depression in this study) – Nov 2024](/posts/heavy-metals-can-cause-health-problems-if-low-vitamin-d-depression-in-this-study)
 
-* &lt;a href=&quot;/posts/vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024&quot;&gt;Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024&lt;/a&gt;
+* [Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024](/posts/vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood)
 
-* &lt;a href=&quot;/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024&quot;&gt;Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024&lt;/a&gt;
+* [Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024](/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d)
 
 AST Structure:
 -------------

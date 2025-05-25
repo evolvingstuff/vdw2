@@ -35,7 +35,7 @@ Many countries have a similar claim acceptance rate = about 1%
 
 * [COVID vaccination clots -The Embalmer Analysis Results Will Blow Your Mind - video Sept 2024](/posts/covid-vaccination-clots-the-embalmer-analysis-results-will-blow-your-mind-video)
 
-* <a href="/posts/400x-fewer-covid-deaths-in-countries-with-fewer-vaccinations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 400X fewer COVID deaths in countries with fewer vaccinations – July 2024">400X fewer COVID deaths in countries with fewer vaccinations – July 2024</a>
+* [400X fewer COVID deaths in countries with fewer vaccinations – July 2024](/posts/400x-fewer-covid-deaths-in-countries-with-fewer-vaccinations)
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -68,7 +68,7 @@ Many countries have a similar claim acceptance rate = about 1%
 
 * [COVID vaccination clots -The Embalmer Analysis Results Will Blow Your Mind - video Sept 2024](/posts/covid-vaccination-clots-the-embalmer-analysis-results-will-blow-your-mind-video)
 
-* &lt;a href=&quot;/posts/400x-fewer-covid-deaths-in-countries-with-fewer-vaccinations&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 400X fewer COVID deaths in countries with fewer vaccinations – July 2024&quot;&gt;400X fewer COVID deaths in countries with fewer vaccinations – July 2024&lt;/a&gt;
+* [400X fewer COVID deaths in countries with fewer vaccinations – July 2024](/posts/400x-fewer-covid-deaths-in-countries-with-fewer-vaccinations)
 
 
 AST Structure:

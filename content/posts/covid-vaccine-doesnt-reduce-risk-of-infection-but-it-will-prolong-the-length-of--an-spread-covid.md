@@ -21,9 +21,9 @@ date: 2024-10-21
 
 * [COVID 8X more likely to be asymptomatic if had 3 or more vaccinations – Aug 2024](/posts/covid-8x-more-likely-to-be-asymptomatic-if-had-3-or-more-vaccinations)
 
-* <a href="/posts/vaccinations-did-not-stop-covid-68-studies-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccinations did not stop COVID (68 studies) – meta-analysis May 2023">Vaccinations did not stop COVID (68 studies) – meta-analysis May 2023</a>
+* [Vaccinations did not stop COVID (68 studies) – meta-analysis May 2023](/posts/vaccinations-did-not-stop-covid-68-studies-meta-analysis)
 
-* <a href="/posts/study-urged-a-global-moratorium-on-mrna-vaccines-300-peer-reviewers-agreed" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Study urged a global moratorium on mRNA vaccines (300 peer reviewers agreed) – Jan 2024">Study urged a global moratorium on mRNA vaccines (300 peer reviewers agreed) – Jan 2024</a>
+* [Study urged a global moratorium on mRNA vaccines (300 peer reviewers agreed) – Jan 2024](/posts/study-urged-a-global-moratorium-on-mrna-vaccines-300-peer-reviewers-agreed)
 
 * <a href="/posts/covid-vaccination-problems-3500-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID Vaccination problems - 3,500 studies - Oct 2023">COVID Vaccination problems - 3,500 studies - Oct 2023</a>
 
@@ -43,9 +43,9 @@ Markdown:
 
 * [COVID 8X more likely to be asymptomatic if had 3 or more vaccinations – Aug 2024](/posts/covid-8x-more-likely-to-be-asymptomatic-if-had-3-or-more-vaccinations)
 
-* &lt;a href=&quot;/posts/vaccinations-did-not-stop-covid-68-studies-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccinations did not stop COVID (68 studies) – meta-analysis May 2023&quot;&gt;Vaccinations did not stop COVID (68 studies) – meta-analysis May 2023&lt;/a&gt;
+* [Vaccinations did not stop COVID (68 studies) – meta-analysis May 2023](/posts/vaccinations-did-not-stop-covid-68-studies-meta-analysis)
 
-* &lt;a href=&quot;/posts/study-urged-a-global-moratorium-on-mrna-vaccines-300-peer-reviewers-agreed&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Study urged a global moratorium on mRNA vaccines (300 peer reviewers agreed) – Jan 2024&quot;&gt;Study urged a global moratorium on mRNA vaccines (300 peer reviewers agreed) – Jan 2024&lt;/a&gt;
+* [Study urged a global moratorium on mRNA vaccines (300 peer reviewers agreed) – Jan 2024](/posts/study-urged-a-global-moratorium-on-mrna-vaccines-300-peer-reviewers-agreed)
 
 * &lt;a href=&quot;/posts/covid-vaccination-problems-3500-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID Vaccination problems - 3,500 studies - Oct 2023&quot;&gt;COVID Vaccination problems - 3,500 studies - Oct 2023&lt;/a&gt;
 

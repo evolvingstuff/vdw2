@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hypertension on VitaminDWiki</title><link>//localhost:1313/categories/hypertension.html</link><description>Recent content in Hypertension on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/hypertension/index.xml" rel="self" type="application/rss+xml"/><item><title>Low Vitamin D is a top predictor of adverse events during pregnancy</title><link>//localhost:1313/posts/low-vitamin-d-is-a-top-predictor-of-adverse-events-during-pregnancy.html</link><pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/low-vitamin-d-is-a-top-predictor-of-adverse-events-during-pregnancy.html</guid><description>&lt;nav id="TableOfContents">&lt;/nav>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!The impact of vitamin D changes during pregnancy on the development of maternal adverse events: a random forest analysis`
+│ inner_content: `The impact of vitamin D changes during pregnancy on the development of maternal adverse events: a random forest analysis`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `The impact of vitamin D changes during pregnancy on the development of maternal adverse events: a random forest analysis`
+│ │ inner_content: `The impact of vitamin D changes during pregnancy on the development of maternal adverse events: a random forest analysis`├── TextNode
+│ full_match: `\nBMC Pregnancy Childbirth . 2024 Feb 10;24(1):125. `
+│ inner_content: `\nBMC Pregnancy Childbirth . 2024 Feb 10;24(1):125. `├── DoiLinkNode
+│ full_match: `doi: 10.1186/s12884-024-06294-5.`
+│ inner_content: `10.1186/s12884-024-06294-5.`├── TextNode
+│ full_match: `\nNasrin Borumandnia 1 2, Maryam Rostami 3, Atefeh Talebi 4, Hamid Alavimajd 5\n\n`
+│ inner_content: `\nNasrin Borumandnia 1 2, Maryam Rostami 3, Atefeh Talebi 4, Hamid Alavimajd 5\n\n`├── ImgNode
+│ full_match: `{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20795&amp;quot; width=&amp;quot;900&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: type=&amp;quot;attId&amp;quot; attId=&amp;quot;20795&amp;quot; width=&amp;quot;900&amp;quot;
+│ │ type: attId
+│ │ attId: 20795
+│ │ width: 900├── TextNode
+│ full_match: `\n\n`
+│ inner_content: `\n\n`├── ImgNode
+│ full_match: `{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20794&amp;quot; width=&amp;quot;900&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: type=&amp;quot;attId&amp;quot; attId=&amp;quot;20794&amp;quot; width=&amp;quot;900&amp;quot;
+│ │ type: attId
+│ │ attId: 20794
+│ │ width: 900├── TextNode
+│ full_match: `\n\nBackground: Maternal vitamin D deficiency during pregnancy has been associated with various maternal adverse events (MAE). However, the evidence regarding the effect of vitamin D supplementation on these outcomes is still inconclusive.\n\nMethods: This secondary analysis utilized a case-control design. 403 samples with MAE and 403 samples without any outcomes were selected from the Khuzestan Vitamin D Deficiency Screening Program in Pregnancy study. Random forest (RF) analysis was used to evaluate the effect of maternal vitamin D changes during pregnancy on MAE.\n\nResults: The results showed that women who remained deficient (35.2%) or who worsened from sufficient to deficient (30.0%) had more MAE than women who improved (16.4%) or stayed sufficient (11.8%). The RF model had an AUC of 0.74, sensitivity of 72.6%, and specificity of 69%, which indicate a moderate to high performance for predicting MAE. The ranked variables revealed that systolic blood pressure is the most important variable for MAE, followed by diastolic blood pressure and vitamin D changes during pregnancy.\n\nConclusion: This study provides evidence that maternal vitamin D changes during pregnancy have a significant impact on MAE. Our findings suggest that monitoring and treatment of vitamin D deficiency during pregnancy may be a potential preventive strategy for reducing the risk of MAE. The presented RF model had a moderate to high performance for predicting MAE.\n`
+│ inner_content: `\n\nBackground: Maternal vitamin D deficiency during pregnancy has been associated with various maternal adverse events (MAE). However, the evidence regarding the effect of vitamin D supplementation on these outcomes is still inconclusive.\n\nMethods: This secondary analysis utilized a case-control design. 403 samples with MAE and 403 samples without any outcomes were selected from the Khuzestan Vitamin D Deficiency Screening Program in Pregnancy study. Random forest (RF) analysis was used to evaluate the effect of maternal vitamin D changes during pregnancy on MAE.\n\nResults: The results showed that women who remained deficient (35.2%) or who worsened from sufficient to deficient (30.0%) had more MAE than women who improved (16.4%) or stayed sufficient (11.8%). The RF model had an AUC of 0.74, sensitivity of 72.6%, and specificity of 69%, which indicate a moderate to high performance for predicting MAE. The ranked variables revealed that systolic blood pressure is the most important variable for MAE, followed by diastolic blood pressure and vitamin D changes during pregnancy.\n\nConclusion: This study provides evidence that maternal vitamin D changes during pregnancy have a significant impact on MAE. Our findings suggest that monitoring and treatment of vitamin D deficiency during pregnancy may be a potential preventive strategy for reducing the risk of MAE. The presented RF model had a moderate to high performance for predicting MAE.\n`├── FontNode
+│ full_match: `{FONT(size=&amp;quot;18&amp;quot;)}__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20793&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│ inner_content: `__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20793&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│ attrs_dict:
+│ │ raw_content: size=&amp;quot;18&amp;quot;
+│ │ size: 18
+│ children:
+│ ├── BoldNode
+│ │ full_match: `__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20793&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│ │ inner_content: `{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20793&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│ │ children:
+│ │ ├── AttachNode
+│ │ │ full_match: `{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20793&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│ │ │ inner_content: `Download the PDF from VitaminDWiki `
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: (inline=&amp;quot;1&amp;quot; id=&amp;quot;20793&amp;quot; icon=&amp;quot;1&amp;quot;)
+│ │ │ │ inline: 1
+│ │ │ │ id: 20793
+│ │ │ │ icon: 1
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Download the PDF from VitaminDWiki `
+│ │ │ │ inner_content: `Download the PDF from VitaminDWiki `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!!!VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} studies in both categories Hypertensin and Pregnancy`
+│ inner_content: `VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} studies in both categories Hypertensin and Pregnancy`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki - `
+│ │ inner_content: `VitaminDWiki - `
+│ ├── SqlNode
+│ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL}`
+│ │ inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;`
+│ │ attrs_dict:
+│ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ db: &amp;gt;vitamind
+│ ├── TextNode
+│ │ full_match: ` studies in both categories Hypertensin and Pregnancy`
+│ │ inner_content: ` studies in both categories Hypertensin and Pregnancy`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── EmphasisNode
+│ full_match: `&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;`
+│ inner_content: `This list is automatically updated`
+│ children:
+│ ├── TextNode
+│ │ full_match: `This list is automatically updated`
+│ │ inner_content: `This list is automatically updated`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── CategoryNode
+│ full_match: `{category id=&amp;quot;12+101&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: id=&amp;quot;12+101&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;
+│ │ id: 12+101
+│ │ types: wiki
+│ │ sort: created_desc
+│ │ split: n
+│ │ and: y
+│ │ sub: n
+│ │ showdescription: n
+│ │ showname: y
+│ │ showtype: n
+│ │ one: y
+│ │ showTitle: n├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki - ((Pregnancy)) category contains`
+│ inner_content: `VitaminDWiki - ((Pregnancy)) category contains`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki - `
+│ │ inner_content: `VitaminDWiki - `
+│ ├── LocalLinkNode
+│ │ full_match: `((Pregnancy))`
+│ │ inner_content: `Pregnancy`
+│ │ page: `Pregnancy`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Pregnancy`
+│ │ │ inner_content: `Pregnancy`
+│ ├── TextNode
+│ │ full_match: ` category contains`
+│ │ inner_content: ` category contains`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Pregnancy&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Pregnancy&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Pregnancy
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Healthy pregnancies need lots of vitamin D)) contains`
+│ inner_content: `VitaminDWiki – ((Healthy pregnancies need lots of vitamin D)) contains`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Healthy pregnancies need lots of vitamin D))`
+│ │ inner_content: `Healthy pregnancies need lots of vitamin D`
+│ │ page: `Healthy pregnancies need lots of vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Healthy pregnancies need lots of vitamin D`
+│ │ │ inner_content: `Healthy pregnancies need lots of vitamin D`
+│ ├── TextNode
+│ │ full_match: ` contains`
+│ │ inner_content: ` contains`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Healthy pregnancies need lots of vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Healthy pregnancies need lots of vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Healthy pregnancies need lots of vitamin D
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!The impact of vitamin D changes during pregnancy on the development of maternal adverse events: a random forest analysis
+BMC Pregnancy Childbirth . 2024 Feb 10;24(1):125. doi: 10.1186/s12884-024-06294-5.
+Nasrin Borumandnia 1 2, Maryam Rostami 3, Atefeh Talebi 4, Hamid Alavimajd 5
+
+{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20795&amp;quot; width=&amp;quot;900&amp;quot;}
+
+{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20794&amp;quot; width=&amp;quot;900&amp;quot;}
+
+Background: Maternal vitamin D deficiency during pregnancy has been associated with various maternal adverse events (MAE). However, the evidence regarding the effect of vitamin D supplementation on these outcomes is still inconclusive.
+
+Methods: This secondary analysis utilized a case-control design. 403 samples with MAE and 403 samples without any outcomes were selected from the Khuzestan Vitamin D Deficiency Screening Program in Pregnancy study. Random forest (RF) analysis was used to evaluate the effect of maternal vitamin D changes during pregnancy on MAE.
+
+Results: The results showed that women who remained deficient (35.2%) or who worsened from sufficient to deficient (30.0%) had more MAE than women who improved (16.4%) or stayed sufficient (11.8%). The RF model had an AUC of 0.74, sensitivity of 72.6%, and specificity of 69%, which indicate a moderate to high performance for predicting MAE. The ranked variables revealed that systolic blood pressure is the most important variable for MAE, followed by diastolic blood pressure and vitamin D changes during pregnancy.
+
+Conclusion: This study provides evidence that maternal vitamin D changes during pregnancy have a significant impact on MAE. Our findings suggest that monitoring and treatment of vitamin D deficiency during pregnancy may be a potential preventive strategy for reducing the risk of MAE. The presented RF model had a moderate to high performance for predicting MAE.
+{FONT(size=&amp;quot;18&amp;quot;)}__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20793&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+ 
+!!!!VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} studies in both categories Hypertensin and Pregnancy
+&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;
+{category id=&amp;quot;12+101&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}
+---
+!!!!VitaminDWiki - ((Pregnancy)) category contains
+{include page=&amp;quot;Pregnancy&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!VitaminDWiki – ((Healthy pregnancies need lots of vitamin D)) contains
+{include page=&amp;quot;Healthy pregnancies need lots of vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+&lt;/code>
+&lt;/pre></description></item><item><title>Death after pre-hypertension 4X more likely if very low Vitamin D</title><link>//localhost:1313/posts/death-after-pre-hypertension-4x-more-likely-if-very-low-vitamin-d.html</link><pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/death-after-pre-hypertension-4x-more-likely-if-very-low-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#association-of-serum-25-hydroxyvitamin-d-concentrations-with-all-cause-and-cardiovascular-mortality-among-us-adults-with-prehypertension-a-prospective-cohort-study">Association of serum 25-hydroxyvitamin D concentrations with all-cause and cardiovascular mortality among US adults with prehypertension: a prospective cohort study&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="association-of-serum-25-hydroxyvitamin-d-concentrations-with-all-cause-and-cardiovascular-mortality-among-us-adults-with-prehypertension-a-prospective-cohort-study">Association of serum 25-hydroxyvitamin D concentrations with all-cause and cardiovascular mortality among US adults with prehypertension: a prospective cohort study&lt;/h4>
+&lt;p>J of Health, Population and Nutrition Vol 43, Article number: 24 (2024) &lt;a href="https://doi.org/10.1186/s41043-024-00515-5">https://doi.org/10.1186/s41043-024-00515-5&lt;/a>&lt;/p>
+&lt;p>Yongmei Zhou, Yu Chen, Fuli Chen, Gang Li &amp;amp; Long Zhou&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/prehypertension-mortality.png" alt="image" width="800">
+&lt;p>&lt;strong>Table of adjusted data by VitaminDWiki&lt;/strong>&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Vitamin D level&lt;/td>
+ &lt;td>Risk of death &lt;br>relative to &amp;gt;75 nmol&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&amp;lt;25 nmol&lt;/td>
+ &lt;td>4.1 X&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>25-59 nmol&lt;/td>
+ &lt;td>1.2 X&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>50-75 nmol&lt;/td>
+ &lt;td>1.7X&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Background&lt;/p></description></item><item><title>Stroke 3 times more likely if dark skin woman has Hypertension before age 35</title><link>//localhost:1313/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35.html</link><pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#hypertension-before-35-tied-to-triple-stroke-risk-inmidlife">Hypertension Before 35 Tied to Triple Stroke Risk in Midlife&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="hypertension-before-35-tied-to-triple-stroke-risk-inmidlife">Hypertension Before 35 Tied to Triple Stroke Risk in Midlife&lt;/h4>
+&lt;p>&lt;strong>From: &lt;a href="https://www.mdedge.com/cardiology/article/267662/hypertension/hypertension-35-tied-triple-stroke-risk-midlife?ecd=WNL_EVE_240202_mdedge">MD Edge&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Black women who develop high blood pressure before age 35 have a threefold increased risk of having a midlife stroke, new observational data suggested.&lt;/p>
+&lt;p>The Black Women’s Health Study, which has followed 59,000 participants in the United States since the 1990s, also showed that those who develop hypertension before age 45 have twice the risk of suffering a stroke.&lt;/p></description></item></channel></rss>

@@ -183,7 +183,7 @@ __[Thru several mechanisms (details on-line](https://www.perplexity.ai/search/do
 
 1. <a href="/posts/a-year-after-2nd-covid-vaccination-stems-cells-not-available-to-fetus-immune-system" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A year after 2nd COVID vaccination, stems cells not available to fetus immune system – Nov 2022">A year after 2nd COVID vaccination, stems cells not available to fetus immune system – Nov 2022</a>
 
-1. <a href="/posts/global-surge-in-infectious-diseases-as-over-40-countries-report-outbreaks-10-fol-pandemic-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels - June 2024">Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels - June 2024</a>
+1. [Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels - June 2024](/posts/global-surge-in-infectious-diseases-as-over-40-countries-report-outbreaks-10-fol-pandemic-levels)
 
 1. <a href="/posts/immune-system-great-11-minute-animated-video" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Immune system - great 11-minute animated video - Aug 2021">Immune system - great 11-minute animated video - Aug 2021</a>
 
@@ -379,7 +379,7 @@ __[Thru several mechanisms (details on-line](https://www.perplexity.ai/search/do
 
 1. &lt;a href=&quot;/posts/a-year-after-2nd-covid-vaccination-stems-cells-not-available-to-fetus-immune-system&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: A year after 2nd COVID vaccination, stems cells not available to fetus immune system – Nov 2022&quot;&gt;A year after 2nd COVID vaccination, stems cells not available to fetus immune system – Nov 2022&lt;/a&gt;
 
-1. &lt;a href=&quot;/posts/global-surge-in-infectious-diseases-as-over-40-countries-report-outbreaks-10-fol-pandemic-levels&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels - June 2024&quot;&gt;Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels - June 2024&lt;/a&gt;
+1. [Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels - June 2024](/posts/global-surge-in-infectious-diseases-as-over-40-countries-report-outbreaks-10-fol-pandemic-levels)
 
 1. &lt;a href=&quot;/posts/immune-system-great-11-minute-animated-video&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Immune system - great 11-minute animated video - Aug 2021&quot;&gt;Immune system - great 11-minute animated video - Aug 2021&lt;/a&gt;
 

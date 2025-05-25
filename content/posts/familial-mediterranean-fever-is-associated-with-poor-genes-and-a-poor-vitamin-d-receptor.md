@@ -1,0 +1,460 @@
+---
+title: "Familial Mediterranean Fever is associated with poor genes (and a poor vitamin D receptor)"
+slug: "familial-mediterranean-fever-is-associated-with-poor-genes-and-a-poor-vitamin-d-receptor"
+aliases:
+  - "/Familial+Mediterranean+Fever+is+associated+with+poor+genes+and+a+poor+vitamin+D+receptor+–+June+2024"
+  - "/15352"
+tiki_page_id: 15352
+date: 2024-06-20
+---
+
+
+{{< toc >}}
+
+---
+
+#### Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever
+
+Journal of Clinical Pediatrics and Care. 3(1); DOI: 10.58489/2836-8630/011
+
+Ahmet Ibrahim KURTOGLU MD, Phd1*, Bayram Ali DORUM MD, Associate Professor2, Vefik ARICA MD Professor3,
+
+Utku OZER MD4, Murat TUTANC Professor 5
+
+1 Adana City Hospital Neonatology Department ADANA/TURKEY.
+
+2 Bursa City Hospital Neonatal Department BURSA/TURKEY.
+
+3 University of Yalova Pediatrics Department YALOVA/TURKEY.
+
+4 Adana City Hospital Pediatrics Emergency Department ADANA/TURKEY.
+
+5 Bursa City Hospital Pediatrics Department BURSA/TURKEY.
+
+Corresponding Author: Ahmet Ibrahim KURTOGLU, Adana City Hospital Neonatalogy Department ADANA/TURKEY.
+
+Introduction: Familial Mediterranean Fever (FMF) is an autosomal recessive autoinflammatory disorder. Vitamin D deficiency is a common finding in patients with various chronic inflammatory diseases. Several studies have elucidated the correlation between serum vitamin D levels and disease activity in pediatric Familial Mediterranean Fever patients. In this study, we aimed to investigate the role of vitamin D in the development of Familial Mediterranean.
+
+Method: This study includes 95 pediatric patients diagnosed with Familial Mediterranean Fever who were followed by the Department of Pediatrics at an Application and Research Hospital in Turkey and agreed to participate in the study. Additionally, 34 healthy children who consented to participate constituted the control group. The diagnosis of patients with FMF utilized the Tel-Hashomer criteria
+
+Results: The hormone levels of FMF and control groups were compared. Vitamin D levels, calcium, phosphorus, Parathyroid Hormone and Alkaline Phosphatase levels were analyzed. In the FMF group, the Vitamin D level was found to be significantly lower, while the Ca and phosphorus levels were significantly higher compared to the control group (both with p<0.01). Although the difference in Ca levels between the two groups was statistically significant, the mean Ca levels of both groups remained within the normal range.
+
+Conclusion: In conclusion, the significant deficiency of serum vitamin D levels in pediatric FMF patients and its association with disease severity underscores the importance of regular monitoring and potential therapeutic intervention.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/familial-med-fever-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### What was found by asking Perplexity a few questions
+
+1. FMF is caused by mutations in the MEFV gene, inherited in an autosomal recessive pattern.
+
+$Periods between FMF attacks are symptom-free, ranging from days to years.
+
+1. Colchicine  is the primary treatment for FMF
+
+1. FMF incidence in Turkey is between 1 in 400 and 1 in 1,000 people
+
+> 
+
+1. People with FMF who are resistant to Colchicine have low vitamin D levels 
+
+1. the AA genotype of the BsmI VDR polymorphism = 2.62-fold higher risk of FMF in males  
+
+1. Curcumin helps treat FMF
+
+> but, we also know that Curcumin activates the Vitamin D receptor
+
+> &nbsp; &nbsp; So, for 2 reasons we suspect the FMF is related to the vitamin D receptor
+
+ **[Perplexity conversation – June 2024](https://www.perplexity.ai/search/please-describe-Familial-zxsrW6CUSsyMkYagBGICPw)** 
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever
+
+Journal of Clinical Pediatrics and Care. 3(1); DOI: 10.58489/2836-8630/011
+
+Ahmet Ibrahim KURTOGLU MD, Phd1*, Bayram Ali DORUM MD, Associate Professor2, Vefik ARICA MD Professor3,
+
+Utku OZER MD4, Murat TUTANC Professor 5
+
+1 Adana City Hospital Neonatology Department ADANA/TURKEY.
+
+2 Bursa City Hospital Neonatal Department BURSA/TURKEY.
+
+3 University of Yalova Pediatrics Department YALOVA/TURKEY.
+
+4 Adana City Hospital Pediatrics Emergency Department ADANA/TURKEY.
+
+5 Bursa City Hospital Pediatrics Department BURSA/TURKEY.
+
+Corresponding Author: Ahmet Ibrahim KURTOGLU, Adana City Hospital Neonatalogy Department ADANA/TURKEY.
+
+Introduction: Familial Mediterranean Fever (FMF) is an autosomal recessive autoinflammatory disorder. Vitamin D deficiency is a common finding in patients with various chronic inflammatory diseases. Several studies have elucidated the correlation between serum vitamin D levels and disease activity in pediatric Familial Mediterranean Fever patients. In this study, we aimed to investigate the role of vitamin D in the development of Familial Mediterranean.
+
+Method: This study includes 95 pediatric patients diagnosed with Familial Mediterranean Fever who were followed by the Department of Pediatrics at an Application and Research Hospital in Turkey and agreed to participate in the study. Additionally, 34 healthy children who consented to participate constituted the control group. The diagnosis of patients with FMF utilized the Tel-Hashomer criteria
+
+Results: The hormone levels of FMF and control groups were compared. Vitamin D levels, calcium, phosphorus, Parathyroid Hormone and Alkaline Phosphatase levels were analyzed. In the FMF group, the Vitamin D level was found to be significantly lower, while the Ca and phosphorus levels were significantly higher compared to the control group (both with p&lt;0.01). Although the difference in Ca levels between the two groups was statistically significant, the mean Ca levels of both groups remained within the normal range.
+
+Conclusion: In conclusion, the significant deficiency of serum vitamin D levels in pediatric FMF patients and its association with disease severity underscores the importance of regular monitoring and potential therapeutic intervention.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/familial-med-fever-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### What was found by asking Perplexity a few questions
+
+1. FMF is caused by mutations in the MEFV gene, inherited in an autosomal recessive pattern.
+
+$Periods between FMF attacks are symptom-free, ranging from days to years.
+
+1. Colchicine  is the primary treatment for FMF
+
+1. FMF incidence in Turkey is between 1 in 400 and 1 in 1,000 people
+
+&gt; 
+
+1. People with FMF who are resistant to Colchicine have low vitamin D levels 
+
+1. the AA genotype of the BsmI VDR polymorphism = 2.62-fold higher risk of FMF in males  
+
+1. Curcumin helps treat FMF
+
+&gt; but, we also know that Curcumin activates the Vitamin D receptor
+
+&gt; &amp;nbsp; &amp;nbsp; So, for 2 reasons we suspect the FMF is related to the vitamin D receptor
+
+ **[Perplexity conversation – June 2024](https://www.perplexity.ai/search/please-describe-Familial-zxsrW6CUSsyMkYagBGICPw)** 
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever`
+│   inner_content: `Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever`
+│   │   inner_content: `Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever`├── TextNode
+│   full_match: `\nJournal of Clinical Pediatrics and Care. 3(1); DOI: 10.58489/2836-8630/011\nAhmet Ibrahim KURTOGLU MD, Phd1*, Bayram Ali DORUM MD, Associate Professor2, Vefik ARICA MD Professor3,\nUtku OZER MD4, Murat TUTANC Professor 5\n1 Adana City Hospital Neonatology Department ADANA/TURKEY.\n2 Bursa City Hospital Neonatal Department BURSA/TURKEY.\n3 University of Yalova Pediatrics Department YALOVA/TURKEY.\n4 Adana City Hospital Pediatrics Emergency Department ADANA/TURKEY.\n5 Bursa City Hospital Pediatrics Department BURSA/TURKEY.\nCorresponding Author: Ahmet Ibrahim KURTOGLU, Adana City Hospital Neonatalogy Department ADANA/TURKEY.\n\nIntroduction: Familial Mediterranean Fever (FMF) is an autosomal recessive autoinflammatory disorder. Vitamin D deficiency is a common finding in patients with various chronic inflammatory diseases. Several studies have elucidated the correlation between serum vitamin D levels and disease activity in pediatric Familial Mediterranean Fever patients. In this study, we aimed to investigate the role of vitamin D in the development of Familial Mediterranean.\n\nMethod: This study includes 95 pediatric patients diagnosed with Familial Mediterranean Fever who were followed by the Department of Pediatrics at an Application and Research Hospital in Turkey and agreed to participate in the study. Additionally, 34 healthy children who consented to participate constituted the control group. The diagnosis of patients with FMF utilized the Tel-Hashomer criteria\n\nResults: The hormone levels of FMF and control groups were compared. Vitamin D levels, calcium, phosphorus, Parathyroid Hormone and Alkaline Phosphatase levels were analyzed. In the FMF group, the Vitamin D level was found to be significantly lower, while the Ca and phosphorus levels were significantly higher compared to the control group (both with p&lt;0.01). Although the difference in Ca levels between the two groups was statistically significant, the mean Ca levels of both groups remained within the normal range.\n\nConclusion: In conclusion, the significant deficiency of serum vitamin D levels in pediatric FMF patients and its association with disease severity underscores the importance of regular monitoring and potential therapeutic intervention.\n`
+│   inner_content: `\nJournal of Clinical Pediatrics and Care. 3(1); DOI: 10.58489/2836-8630/011\nAhmet Ibrahim KURTOGLU MD, Phd1*, Bayram Ali DORUM MD, Associate Professor2, Vefik ARICA MD Professor3,\nUtku OZER MD4, Murat TUTANC Professor 5\n1 Adana City Hospital Neonatology Department ADANA/TURKEY.\n2 Bursa City Hospital Neonatal Department BURSA/TURKEY.\n3 University of Yalova Pediatrics Department YALOVA/TURKEY.\n4 Adana City Hospital Pediatrics Emergency Department ADANA/TURKEY.\n5 Bursa City Hospital Pediatrics Department BURSA/TURKEY.\nCorresponding Author: Ahmet Ibrahim KURTOGLU, Adana City Hospital Neonatalogy Department ADANA/TURKEY.\n\nIntroduction: Familial Mediterranean Fever (FMF) is an autosomal recessive autoinflammatory disorder. Vitamin D deficiency is a common finding in patients with various chronic inflammatory diseases. Several studies have elucidated the correlation between serum vitamin D levels and disease activity in pediatric Familial Mediterranean Fever patients. In this study, we aimed to investigate the role of vitamin D in the development of Familial Mediterranean.\n\nMethod: This study includes 95 pediatric patients diagnosed with Familial Mediterranean Fever who were followed by the Department of Pediatrics at an Application and Research Hospital in Turkey and agreed to participate in the study. Additionally, 34 healthy children who consented to participate constituted the control group. The diagnosis of patients with FMF utilized the Tel-Hashomer criteria\n\nResults: The hormone levels of FMF and control groups were compared. Vitamin D levels, calcium, phosphorus, Parathyroid Hormone and Alkaline Phosphatase levels were analyzed. In the FMF group, the Vitamin D level was found to be significantly lower, while the Ca and phosphorus levels were significantly higher compared to the control group (both with p&lt;0.01). Although the difference in Ca levels between the two groups was statistically significant, the mean Ca levels of both groups remained within the normal range.\n\nConclusion: In conclusion, the significant deficiency of serum vitamin D levels in pediatric FMF patients and its association with disease severity underscores the importance of regular monitoring and potential therapeutic intervention.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21348&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21348
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!What was found by asking Perplexity a few questions`
+│   inner_content: `What was found by asking Perplexity a few questions`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `What was found by asking Perplexity a few questions`
+│   │   inner_content: `What was found by asking Perplexity a few questions`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#FMF is caused by mutations in the MEFV gene, inherited in an autosomal recessive pattern.`
+│   inner_content: `FMF is caused by mutations in the MEFV gene, inherited in an autosomal recessive pattern.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `FMF is caused by mutations in the MEFV gene, inherited in an autosomal recessive pattern.`
+│   │   inner_content: `FMF is caused by mutations in the MEFV gene, inherited in an autosomal recessive pattern.`├── TextNode
+│   full_match: `\n$Periods between FMF attacks are symptom-free, ranging from days to years.\n`
+│   inner_content: `\n$Periods between FMF attacks are symptom-free, ranging from days to years.\n`├── NumListItemNode
+│   full_match: `#Colchicine  is the primary treatment for FMF`
+│   inner_content: `Colchicine  is the primary treatment for FMF`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Colchicine  is the primary treatment for FMF`
+│   │   inner_content: `Colchicine  is the primary treatment for FMF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#FMF incidence in Turkey is between 1 in 400 and 1 in 1,000 people`
+│   inner_content: `FMF incidence in Turkey is between 1 in 400 and 1 in 1,000 people`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `FMF incidence in Turkey is between 1 in 400 and 1 in 1,000 people`
+│   │   inner_content: `FMF incidence in Turkey is between 1 in 400 and 1 in 1,000 people`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+`
+│   inner_content: ``
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#People with FMF who are resistant to Colchicine have low vitamin D levels `
+│   inner_content: `People with FMF who are resistant to Colchicine have low vitamin D levels `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `People with FMF who are resistant to Colchicine have low vitamin D levels `
+│   │   inner_content: `People with FMF who are resistant to Colchicine have low vitamin D levels `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# the AA genotype of the BsmI VDR polymorphism = 2.62-fold higher risk of FMF in males  `
+│   inner_content: ` the AA genotype of the BsmI VDR polymorphism = 2.62-fold higher risk of FMF in males  `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `the AA genotype of the BsmI VDR polymorphism = 2.62-fold higher risk of FMF in males  `
+│   │   inner_content: `the AA genotype of the BsmI VDR polymorphism = 2.62-fold higher risk of FMF in males  `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Curcumin helps treat FMF`
+│   inner_content: `Curcumin helps treat FMF`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Curcumin helps treat FMF`
+│   │   inner_content: `Curcumin helps treat FMF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+but, we also know that Curcumin activates the Vitamin D receptor`
+│   inner_content: `but, we also know that Curcumin activates the Vitamin D receptor`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `but, we also know that Curcumin activates the Vitamin D receptor`
+│   │   inner_content: `but, we also know that Curcumin activates the Vitamin D receptor`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+ ~hs~ ~hs~ So, for 2 reasons we suspect the FMF is related to the vitamin D receptor`
+│   inner_content: ` ~hs~ ~hs~ So, for 2 reasons we suspect the FMF is related to the vitamin D receptor`
+│   level: `1`
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: ` So, for 2 reasons we suspect the FMF is related to the vitamin D receptor`
+│   │   inner_content: ` So, for 2 reasons we suspect the FMF is related to the vitamin D receptor`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.perplexity.ai/search/please-describe-Familial-zxsrW6CUSsyMkYagBGICPw|Perplexity conversation – June 2024]__`
+│   inner_content: `[https://www.perplexity.ai/search/please-describe-Familial-zxsrW6CUSsyMkYagBGICPw|Perplexity conversation – June 2024]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/please-describe-Familial-zxsrW6CUSsyMkYagBGICPw|Perplexity conversation – June 2024]`
+│   │   inner_content: `Perplexity conversation – June 2024`
+│   │   url: `https://www.perplexity.ai/search/please-describe-Familial-zxsrW6CUSsyMkYagBGICPw`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity conversation – June 2024`
+│   │   │   inner_content: `Perplexity conversation – June 2024`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F06:5+~~  VitaminDWiki pages have FMF etc. in the title`
+│   inner_content: `~~#F06:5+~~  VitaminDWiki pages have FMF etc. in the title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F06:5+~~`
+│   │   inner_content: `5+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5+`
+│   │   │   inner_content: `5+`
+│   ├── TextNode
+│   │   full_match: `  VitaminDWiki pages have FMF etc. in the title`
+│   │   inner_content: `  VitaminDWiki pages have FMF etc. in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;The list is automatically updated&#39;&#39;`
+│   inner_content: `The list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The list is automatically updated`
+│   │   inner_content: `The list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; Mediterranean Fever\&quot; OR “\&quot;FMF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; Mediterranean Fever\&quot; OR “\&quot;FMF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; Mediterranean Fever\&quot; OR “\&quot;FMF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; Mediterranean Fever\&quot; OR “\&quot;FMF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D Receptor)) can be activated by Curcumin, etc`
+│   inner_content: `VitaminDWiki - ((Vitamin D Receptor)) can be activated by Curcumin, etc`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D Receptor))`
+│   │   inner_content: `Vitamin D Receptor`
+│   │   page: `Vitamin D Receptor`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Receptor`
+│   │   │   inner_content: `Vitamin D Receptor`
+│   ├── TextNode
+│   │   full_match: ` can be activated by Curcumin, etc`
+│   │   inner_content: ` can be activated by Curcumin, etc`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;
+│   │   page: Vitamin D Receptor
+│   │   start: ~tc~ startact ~/tc~
+│   │   stop: ~tc~ endact ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - The risk of ~~#F00:50+ ~~ diseases at least double with poor ((Vitamin D Receptor))`
+│   inner_content: `VitaminDWiki - The risk of ~~#F00:50+ ~~ diseases at least double with poor ((Vitamin D Receptor))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - The risk of `
+│   │   inner_content: `VitaminDWiki - The risk of `
+│   ├── ColorNode
+│   │   full_match: `~~#F00:50+ ~~`
+│   │   inner_content: `50+ `
+│   │   attrs_dict:
+│   │   │   raw_content: #F00
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `50+ `
+│   │   │   inner_content: `50+ `
+│   ├── TextNode
+│   │   full_match: ` diseases at least double with poor `
+│   │   inner_content: ` diseases at least double with poor `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D Receptor))`
+│   │   inner_content: `Vitamin D Receptor`
+│   │   page: `Vitamin D Receptor`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Receptor`
+│   │   │   inner_content: `Vitamin D Receptor`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever
+Journal of Clinical Pediatrics and Care. 3(1); DOI: 10.58489/2836-8630/011
+Ahmet Ibrahim KURTOGLU MD, Phd1*, Bayram Ali DORUM MD, Associate Professor2, Vefik ARICA MD Professor3,
+Utku OZER MD4, Murat TUTANC Professor 5
+1 Adana City Hospital Neonatology Department ADANA/TURKEY.
+2 Bursa City Hospital Neonatal Department BURSA/TURKEY.
+3 University of Yalova Pediatrics Department YALOVA/TURKEY.
+4 Adana City Hospital Pediatrics Emergency Department ADANA/TURKEY.
+5 Bursa City Hospital Pediatrics Department BURSA/TURKEY.
+Corresponding Author: Ahmet Ibrahim KURTOGLU, Adana City Hospital Neonatalogy Department ADANA/TURKEY.
+
+Introduction: Familial Mediterranean Fever (FMF) is an autosomal recessive autoinflammatory disorder. Vitamin D deficiency is a common finding in patients with various chronic inflammatory diseases. Several studies have elucidated the correlation between serum vitamin D levels and disease activity in pediatric Familial Mediterranean Fever patients. In this study, we aimed to investigate the role of vitamin D in the development of Familial Mediterranean.
+
+Method: This study includes 95 pediatric patients diagnosed with Familial Mediterranean Fever who were followed by the Department of Pediatrics at an Application and Research Hospital in Turkey and agreed to participate in the study. Additionally, 34 healthy children who consented to participate constituted the control group. The diagnosis of patients with FMF utilized the Tel-Hashomer criteria
+
+Results: The hormone levels of FMF and control groups were compared. Vitamin D levels, calcium, phosphorus, Parathyroid Hormone and Alkaline Phosphatase levels were analyzed. In the FMF group, the Vitamin D level was found to be significantly lower, while the Ca and phosphorus levels were significantly higher compared to the control group (both with p&lt;0.01). Although the difference in Ca levels between the two groups was statistically significant, the mean Ca levels of both groups remained within the normal range.
+
+Conclusion: In conclusion, the significant deficiency of serum vitamin D levels in pediatric FMF patients and its association with disease severity underscores the importance of regular monitoring and potential therapeutic intervention.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!What was found by asking Perplexity a few questions
+#FMF is caused by mutations in the MEFV gene, inherited in an autosomal recessive pattern.
+$Periods between FMF attacks are symptom-free, ranging from days to years.
+#Colchicine  is the primary treatment for FMF
+#FMF incidence in Turkey is between 1 in 400 and 1 in 1,000 people
++
+#People with FMF who are resistant to Colchicine have low vitamin D levels 
+# the AA genotype of the BsmI VDR polymorphism = 2.62-fold higher risk of FMF in males  
+#Curcumin helps treat FMF
++but, we also know that Curcumin activates the Vitamin D receptor
++ ~hs~ ~hs~ So, for 2 reasons we suspect the FMF is related to the vitamin D receptor
+__[https://www.perplexity.ai/search/please-describe-Familial-zxsrW6CUSsyMkYagBGICPw|Perplexity conversation – June 2024]__
+---
+!!!!~~#F06:5+~~  VitaminDWiki pages have FMF etc. in the title
+&#39;&#39;The list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;50&quot;}
+{filter field=&quot;title&quot; content=&quot;\&quot; Mediterranean Fever\&quot; OR “\&quot;FMF\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!VitaminDWiki - ((Vitamin D Receptor)) can be activated by Curcumin, etc
+{include page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;}
+---
+!!!!VitaminDWiki - The risk of ~~#F00:50+ ~~ diseases at least double with poor ((Vitamin D Receptor))
+
+</code>
+</pre>

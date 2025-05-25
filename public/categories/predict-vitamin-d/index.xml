@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Predict Vitamin D on VitaminDWiki</title><link>//localhost:1313/categories/predict-vitamin-d.html</link><description>Recent content in Predict Vitamin D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/predict-vitamin-d/index.xml" rel="self" type="application/rss+xml"/><item><title>Predict 50nmol if take 600 IU of Vitamin D for 7 months (UK, ignoring BMI, etc)</title><link>//localhost:1313/posts/predict-50nmol-if-take-600-iu-of-vitamin-d-for-7-months-uk-ignoring-bmi-etc.html</link><pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/predict-50nmol-if-take-600-iu-of-vitamin-d-for-7-months-uk-ignoring-bmi-etc.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-pharmacokinetic-differences-between-10--and-15-μg-daily-vitamin-d-doses">The pharmacokinetic differences between 10- and 15-μg daily vitamin D doses&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-pharmacokinetic-differences-between-10--and-15-μg-daily-vitamin-d-doses">The pharmacokinetic differences between 10- and 15-μg daily vitamin D doses&lt;/h4>
+&lt;p>Br J Clin Pharmacol. 2024 Jun 26. &lt;a href="https://doi.org/10.1111/bcp.16146">doi: 10.1111/bcp.16146&lt;/a>&lt;/p>
+&lt;p>Tao You 1 2 3, Nadda Muhamad 1 2 4, Joseph Jenner 1, Zhonghui Huang 3 5&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/uk-600-iu.webp" alt="image" width="600">
+&lt;p>Aims: The reference nutrient intake for vitamin D in people aged ≥4 years is 10 μg/day (400 IU/day) in the UK, but the recommended daily allowance is 15 μg/day (600 IU/day) for people aged 1-70 years in the USA. Here, we aim to compare the 25-hydroxyvitamin D (25(OH)D) serum concentration profiles between the 2 doses.&lt;/p></description></item><item><title>96% prediction of Vitamin D less than 20ng (not general nor cost-effective)</title><link>//localhost:1313/posts/96-percent-prediction-of-vitamin-d-less-than-20ng-not-general-nor-cost-effective.html</link><pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/96-percent-prediction-of-vitamin-d-less-than-20ng-not-general-nor-cost-effective.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-detection-a-novel-ensemble-approach-with-interpretability-insights">Vitamin D Deficiency Detection: A Novel Ensemble Approach with Interpretability Insights&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-deficiency-detection-a-novel-ensemble-approach-with-interpretability-insights">Vitamin D Deficiency Detection: A Novel Ensemble Approach with Interpretability Insights&lt;/h4>
+&lt;p>IEEE Xplore: 23 May 2024 DOI: 10.1109/ICEEICT62016.2024.10534371 PDF cost VitaminDWiki $36&lt;/p>
+&lt;p>Published in: 2024 6th International Conference on Electrical Engineering and Information &amp;amp; Communication Technology (ICEEICT)&lt;/p>
+&lt;p>Date of Conference: 02-04 May 2024. Bangaldesh&lt;/p>
+&lt;p>Md.Fahim Ul Islam; Mehedi Hasan; Md.Tahmid Rahman; Amitabha Chakrabarty&lt;/p>
+&lt;p>Vitamin D deficiency is becoming a global public health concern, particularly in medical centers, with serious consequences for disease severity, mortality, and morbidity. Traditional diagnostic methodologies struggle with cost and are time-consuming. This drives a paradigm change toward the use of automated process for improved predicted accuracy and cost-effectiveness in diagnosing Vitamin D deficiency. In addressing the global challenge of Vitamin D deficiency, this study introduces an ensemble model that synergistically combines LightGBM and CatBoost algorithms, marking a significant leap in diagnostic methodologies. By leveraging the strengths of these advanced machine learning techniques, our approach achieves an impressive 96% accuracy on the Vitamin D Deficiency (VDD) Dataset, demonstrating substantial improvement over traditional diagnostic methods. The integration of SnAP (Shapley Additive explanations) for interpretability further enhances the utility of our model, providing clear insights into the impact of individual features on the severity predictions of Vitamin D deficiency. This revised abstract concisely encapsulates the research objectives, innovative methodology, and critical findings, underscoring the potential to revolutionize diagnostic efficiency and accuracy in the medical domain.&lt;/p></description></item><item><title>Vitamin D deficiency predicted with 91% accuracy ( AI, age, paywall)</title><link>//localhost:1313/posts/vitamin-d-deficiency-predicted-with-91-percent-accuracy-ai-age-paywall.html</link><pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-deficiency-predicted-with-91-percent-accuracy-ai-age-paywall.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#predicting-vitamin-d-deficiency-using-optimized-random-forest-classifier">Predicting vitamin D deficiency using optimized random forest classifier&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="predicting-vitamin-d-deficiency-using-optimized-random-forest-classifier">Predicting vitamin D deficiency using optimized random forest classifier&lt;/h4>
+&lt;p>Clinical Nutrition ESPEN VOL 60, P1-10 &lt;a href="https://doi.org/10.1016/j.clnesp.2023.12.146">https://doi.org/10.1016/j.clnesp.2023.12.146&lt;/a> PDF is behind a paywall&lt;/p>
+&lt;p>Aladeen Alloubani. Belal Abuhaija, M. Almatari. Ghaith Jaradat, Baha Ihnaini&lt;/p>
+&lt;p>&lt;strong>Appears that age is the primary predictor (image via Google)&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/predict---age.png" alt="image" width="500">
+&lt;p>Background&lt;/p>
+&lt;p>Vitamin D can be acquired from various dietary sources, but exposure to sunlight&amp;rsquo;s ultraviolet rays can convert a natural compound called ergosterol present in the skin into vitamin D.&lt;/p></description></item><item><title>Predictors of low vitamin D: race, age, and BMI (confirmed now by Machine Learning)</title><link>//localhost:1313/posts/predictors-of-low-vitamin-d-race-age-and-bmi-confirmed-now-by-machine-learning.html</link><pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/predictors-of-low-vitamin-d-race-age-and-bmi-confirmed-now-by-machine-learning.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#machine-learning-based-prediction-of-vitamin-d-deficiency-nhanes-2001-2018">Machine learning-based prediction of vitamin D deficiency: NHANES 2001-2018&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="machine-learning-based-prediction-of-vitamin-d-deficiency-nhanes-2001-2018">Machine learning-based prediction of vitamin D deficiency: NHANES 2001-2018&lt;/h4>
+&lt;p>Front. Endocrinol., 15 February 2024 Volume 15 - 2024 | &lt;a href="https://doi.org/10.3389/fendo.2024.1327058">https://doi.org/10.3389/fendo.2024.1327058&lt;/a>&lt;/p>
+&lt;p>Jiale GuoJiale Guo 1, Qionghan HeQionghan He 2, Yehai Li*Yehai Li&lt;/p>
+&lt;p>1 Department of Orthopedics, Chaohu Hospital of Anhui Medical University, Hefei, China&lt;/p>
+&lt;p>2 Department of Infection, Chaohu Hospital of Anhui Medical University, Hefei, China&lt;/p>
+&lt;p>Background: Vitamin D deficiency is strongly associated with the development of several diseases. In the current context of a global pandemic of vitamin D deficiency, it is critical to identify people at high risk of vitamin D deficiency. There are no prediction tools for predicting the risk of vitamin D deficiency in the general community population, and this study aims to use machine learning to predict the risk of vitamin D deficiency using data that can be obtained through simple interviews in the community.&lt;/p></description></item></channel></rss>

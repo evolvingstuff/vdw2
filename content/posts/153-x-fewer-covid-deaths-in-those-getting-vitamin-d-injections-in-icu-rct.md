@@ -1,0 +1,1030 @@
+---
+title: "15.3 X fewer COVID deaths in those getting Vitamin D injections in ICU – RCT"
+slug: "153-x-fewer-covid-deaths-in-those-getting-vitamin-d-injections-in-icu-rct"
+aliases:
+  - "/153+X+fewer+COVID+deaths+in+those+getting+Vitamin+D+injections+in+ICU+–+RCT+July+2024"
+  - "/15417"
+tiki_page_id: 15417
+date: 2024-07-22
+---
+
+
+{{< toc >}}
+
+---
+
+#### Impact of Rapid Correction of Vitamin D Deficiency on Patients with COVID-19 Disease: A Randomized-Controlled Trial
+
+The Egyptian Journal of Hospital Medicine (July 2024) Vol. 96, Page 2538-2546
+
+Ayman Ramadan Abdelhai 1, Amir Abd-Elhameed Ahmed Barakat 1,
+
+Marwa M. Esawy 2, May M. Sami 2, Ahmed Ibrahim Gad1
+
+Departments of 1 Internal Medicine, 2 Clinical Pathology, Faculty of Medicine, Zagazig University, Egypt
+
+---
+
+##### Summary and notes by VitaminDWiki
+
+* 4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID
+
+* The “control group” got 10,000 IU daily for 4 days
+
+* Vitamin D [Injections](/categories/injection) act slowly – better to have fast-acting <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">Sublingual vitamin D</a> for 4 days
+
+* Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU
+
+* Vitamin D level achieved: 32 ng. Even less <a href="/posts/mortality" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mortality">Mortality</a> expected if they had used larger doses (and get >40 ng)
+
+* Founder of VitaminDWiki bought >20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker
+
+* Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption
+
+---
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/200k-covid-table.webp" alt="image" width="400">
+
+Background: Although antiviral properties of vitamin D are recognized, the influence of parental Vit D supplementation
+
+on COVID-19 disease has not been determined.
+
+Objective: The aim of study was to evaluate impact of prompt treatment of Vit D deficiency on COVID-19 patients.
+
+Patients and Methods: A randomized controlled experiment was carried out on 250 COVID-19 patients. Patients were
+
+categorized into two cohorts: one cohort received daily intramuscular injection of 200,000 IU cholecalciferol for four
+
+consecutive days, while other cohort received daily oral dose of 10,000 IU cholecalciferol. The latter group functioned as
+
+control group. Before and after therapy, serum 25(OH)D level, inflammatory markers and electrolytes were measured,
+
+besides, clinical follow-up.
+
+Results: In Vit D group, the 25(OH)D levels considerably increased after 7 days compared to initial levels (32.48 ±9.64 Vs
+
+13.77 ±6.51 ng/mL, respectively). All Vit D deficient patients have transitioned to sufficient status. Levels of markers (ESR
+
+50.99±17.56 mm/hr, CRP 30.75 ±24 mg/L, and ferritin 392.05 ±139.17 ng/mL) decreased after seven days (29.74±8.97
+
+mm/hr, 10.52 ±13 mg/L, and 94.59 ±27.14 ng/mL, respectively). A substantial clinical improvement occurred in Vit D
+
+group compared to their initial condition. 
+
+Also Vit D deficiency was found to significantly increase risk of COVID-19 mortality by factor of  **15.375**  <span>[AOR = 15.375, 95% CI: 1.898-124.52, p=0.01]</span>.
+
+Conclusion: A daily intramuscular injection of 200,000 IU cholecalciferol for four consecutive days has been proven to
+
+significantly enhance clinico-labatory parameters in COVID-19 patients. Considering higher Vit D supplementation as
+
+a potential treatment for COVID-19 is a viable option
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vit-d-injection-covid-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+##### 33 REFERENCES
+
+1. Alhazzani W, Moller M, Arabi Y et al. (2020): Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med., 46:854-87.
+
+1. Zhang R, Li B, Gao X et al. (2017): Serum 25- hydroxyvitamin D and the risk of cardiovascular disease: dose-response meta-analysis of prospective studies. Am J Clin Nutr., 105:810-9.
+
+1. Zisi D, Challa A, Makis A (2019): The association between vitamin D status and infectious diseases of the respiratory system in infancy and childhood. Hormones (Athens), 18:353-63.
+
+1. Holick M, Binkley N, Bischoff-Ferrari H et al. (2011): Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab., 96:1911-30.
+
+1. Merzon E, Tworowski D, Gorohovski A et al. (2020): Low plasma 25(OH) vitamin D level is associated with increased risk of COVID-19 infection: an Israeli population-based study. Febs J., 287:3693-702.
+
+1. Roth D, Abrams S, Aloia J et al. (2018): Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries. Ann N Y Acad Sci., 1430:44-79.
+
+1. Botros R, Sabry I, Abdelbaky R et al. (2015): Vitamin D deficiency among healthy Egyptian females. Endocrinol Nutr., 62:314-21.
+
+1. Hurwitz J, Jones B, Penkert R et al. (2017): Low retinol­binding protein and vitamin D levels are associated with severe outcomes in children hospitalized with lower respiratory tract infection and respiratory syncytial virus or human metapneumovirus detection. J Pediatr., 187:323-7.
+
+1.  **Grant W, Lahore H, McDonnell**  S et al. (2020): Evidence that vitamin D supplementation could reduce risk of influenza and COVID-19 infections and deaths. Nutrients, 12:3533-9.
+
+1. Ilie P, Stefanescu S, Smith L (2020): The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality. Aging Clin Exp Res., 32:1195-8.
+
+1. Daneshkhah A, Eshein A, Subramanian H et al. (2020): The role of vitamin D in suppressing cytokine storm in COVID-19 patients and associated mortality. MedRxiv., 12:9.
+
+1. Ezeamama A, Guwatudde D, Wang M et al. (2016): Vitamin-D deficiency impairs CD4+T-cell count recovery rate in HIV-positive adults on highly active antiretroviral therapy: A longitudinal study. Clin Nutr., 35:1110-7.
+
+1. Adams J, Ren S, Liu P et al. (2009): Vitamin D-directed rheostatic regulation of monocyte antibacterial responses. J Immunol., 182:4289-95.
+
+1. Gombart AF, Pierre A, Maggini S (2020): A review of micronutrients and the immune system-working in harmony to reduce the risk of infection. Nutrients, 12:33-36.
+
+1. Shabana M, Esawy M, Ismail N et al. (2019): Predictive role of IL-17A/IL-10 ratio in persistent asthmatic patients on vitamin D supplement. Immunobiology, 224:721-7.
+
+1. Jafarzadeh A, Chauhan P, Saha B et al. (2020): Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions. Life Sci., 257:118102.
+
+1. Suaini N, Zhang Y, Vuillermin P et al. (2015): Immune modulation by vitamin D and its relevance to food allergy. Nutrients, 7:6088-108.
+
+1. Greiller C, Martineau A (2015): Modulation of the immune response to respiratory viruses by vitamin D. Nutrients, 7:4240-70.
+
+1. Hathcock J, Shao A, Vieth R et al. (2007): Risk assessment for vitamin D. Am J Clin Nutr., 85:6-18.
+
+1. Haimovich A, Ravindra N, Stoytchev S et al. (2020): Development and validation of the Quick COVID-19 Severity Index: A prognostic tool for early clinical decompensation. Ann Emerg Med., 76:442-53.
+
+1. Bischoff-Ferrari H, Giovannucci E, Willett W et al. (2006): Estimation of optimal serum concentrations of 25- hydroxyvitamin D for multiple health outcomes. Am J Clin Nutr., 84:18-28.
+
+1. Westergren A (1926): The technique of the red cell sedimentation reaction. American Review of Tuberculosis, 14:94-101.
+
+1. Meltzer D, Best T, Zhang H et al. (2020): Association of vitamin D status and other clinical characteristics with COVID-19 test results. JAMA Netw Open, 3:e2019722.
+
+1. Martineau A, Jolliffe D, Hooper R et al. (2017): Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ., 356:i6583.
+
+1. Dixon B, Barker T, McKinnon T et al. (2012): Positive correlation between circulating cathelicidin antimicrobial peptide (hCAP18/LL-37) and 25-hydroxyvitamin D levels in healthy adults. BMC Res Notes, 5:575.
+
+1. Zdrenghea M, Makrinioti H, Bagacean C et al. (2017): Vitamin D modulation of innate immune responses to respiratory viral infections. Rev Med Virol., 27:45-49.
+
+1. Jakovac H (2020): COVID-19 and vitamin D-Is there a link and an opportunity for intervention? Am J Physiol Endocrinol Metab., 318:E589.
+
+1. Maghbooli Z, Sahraian M, Ebrahimi M et al. (2020): Vitamin D sufficiency, a serum 25-hydroxyvitamin D at least 30 ng/mL reduced risk for adverse clinical outcomes in patients with COVID-19 infection. PLoS One, 15:e0239799.
+
+1. Rastogi A, Bhansali A, Khare N et al. (2022): Short term, high-dose vitamin D supplementation for COVID-19 disease: a randomised, placebo-controlled, study (SHADE study). Postgrad Med J., 98:87-90.
+
+1. Tellioglu A, Basaran S, Guzel R et al. (2012): Efficacy and safety of high dose intramuscular or oral cholecalciferol in vitamin D deficient/insufficient elderly. Maturitas, 72:332-8.
+
+1. Amrein K, Sourij H, Wagner G et al. (2011): Short-term effects of high-dose oral vitamin D3 in critically ill vitamin D deficient patients: a randomized, double-blind, placebo­controlled pilot study. Crit Care, 15:R104.
+
+1. Kearns M, Alvarez J, Tangpricha V (2014): Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract., 20:341­51.
+
+1. Velavan T, Meyer C (2020): Mild versus severe COVID-19: Laboratory markers. Int J Infect Dis., 95:304-7.
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Impact of Rapid Correction of Vitamin D Deficiency on Patients with COVID-19 Disease: A Randomized-Controlled Trial
+
+The Egyptian Journal of Hospital Medicine (July 2024) Vol. 96, Page 2538-2546
+
+Ayman Ramadan Abdelhai 1, Amir Abd-Elhameed Ahmed Barakat 1,
+
+Marwa M. Esawy 2, May M. Sami 2, Ahmed Ibrahim Gad1
+
+Departments of 1 Internal Medicine, 2 Clinical Pathology, Faculty of Medicine, Zagazig University, Egypt
+
+---
+
+##### Summary and notes by VitaminDWiki
+
+* 4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID
+
+* The “control group” got 10,000 IU daily for 4 days
+
+* Vitamin D [Injections](/categories/injection) act slowly – better to have fast-acting &lt;a href=&quot;/posts/sublingual-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sublingual vitamin D&quot;&gt;Sublingual vitamin D&lt;/a&gt; for 4 days
+
+* Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU
+
+* Vitamin D level achieved: 32 ng. Even less &lt;a href=&quot;/posts/mortality&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Mortality&quot;&gt;Mortality&lt;/a&gt; expected if they had used larger doses (and get &gt;40 ng)
+
+* Founder of VitaminDWiki bought &gt;20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker
+
+* Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption
+
+---
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/200k-covid-table.webp&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
+
+Background: Although antiviral properties of vitamin D are recognized, the influence of parental Vit D supplementation
+
+on COVID-19 disease has not been determined.
+
+Objective: The aim of study was to evaluate impact of prompt treatment of Vit D deficiency on COVID-19 patients.
+
+Patients and Methods: A randomized controlled experiment was carried out on 250 COVID-19 patients. Patients were
+
+categorized into two cohorts: one cohort received daily intramuscular injection of 200,000 IU cholecalciferol for four
+
+consecutive days, while other cohort received daily oral dose of 10,000 IU cholecalciferol. The latter group functioned as
+
+control group. Before and after therapy, serum 25(OH)D level, inflammatory markers and electrolytes were measured,
+
+besides, clinical follow-up.
+
+Results: In Vit D group, the 25(OH)D levels considerably increased after 7 days compared to initial levels (32.48 ±9.64 Vs
+
+13.77 ±6.51 ng/mL, respectively). All Vit D deficient patients have transitioned to sufficient status. Levels of markers (ESR
+
+50.99±17.56 mm/hr, CRP 30.75 ±24 mg/L, and ferritin 392.05 ±139.17 ng/mL) decreased after seven days (29.74±8.97
+
+mm/hr, 10.52 ±13 mg/L, and 94.59 ±27.14 ng/mL, respectively). A substantial clinical improvement occurred in Vit D
+
+group compared to their initial condition. 
+
+Also Vit D deficiency was found to significantly increase risk of COVID-19 mortality by factor of  **15.375**  &lt;span&gt;[AOR = 15.375, 95% CI: 1.898-124.52, p=0.01]&lt;/span&gt;.
+
+Conclusion: A daily intramuscular injection of 200,000 IU cholecalciferol for four consecutive days has been proven to
+
+significantly enhance clinico-labatory parameters in COVID-19 patients. Considering higher Vit D supplementation as
+
+a potential treatment for COVID-19 is a viable option
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vit-d-injection-covid-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+##### 33 REFERENCES
+
+1. Alhazzani W, Moller M, Arabi Y et al. (2020): Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med., 46:854-87.
+
+1. Zhang R, Li B, Gao X et al. (2017): Serum 25- hydroxyvitamin D and the risk of cardiovascular disease: dose-response meta-analysis of prospective studies. Am J Clin Nutr., 105:810-9.
+
+1. Zisi D, Challa A, Makis A (2019): The association between vitamin D status and infectious diseases of the respiratory system in infancy and childhood. Hormones (Athens), 18:353-63.
+
+1. Holick M, Binkley N, Bischoff-Ferrari H et al. (2011): Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab., 96:1911-30.
+
+1. Merzon E, Tworowski D, Gorohovski A et al. (2020): Low plasma 25(OH) vitamin D level is associated with increased risk of COVID-19 infection: an Israeli population-based study. Febs J., 287:3693-702.
+
+1. Roth D, Abrams S, Aloia J et al. (2018): Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries. Ann N Y Acad Sci., 1430:44-79.
+
+1. Botros R, Sabry I, Abdelbaky R et al. (2015): Vitamin D deficiency among healthy Egyptian females. Endocrinol Nutr., 62:314-21.
+
+1. Hurwitz J, Jones B, Penkert R et al. (2017): Low retinol­binding protein and vitamin D levels are associated with severe outcomes in children hospitalized with lower respiratory tract infection and respiratory syncytial virus or human metapneumovirus detection. J Pediatr., 187:323-7.
+
+1.  **Grant W, Lahore H, McDonnell**  S et al. (2020): Evidence that vitamin D supplementation could reduce risk of influenza and COVID-19 infections and deaths. Nutrients, 12:3533-9.
+
+1. Ilie P, Stefanescu S, Smith L (2020): The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality. Aging Clin Exp Res., 32:1195-8.
+
+1. Daneshkhah A, Eshein A, Subramanian H et al. (2020): The role of vitamin D in suppressing cytokine storm in COVID-19 patients and associated mortality. MedRxiv., 12:9.
+
+1. Ezeamama A, Guwatudde D, Wang M et al. (2016): Vitamin-D deficiency impairs CD4+T-cell count recovery rate in HIV-positive adults on highly active antiretroviral therapy: A longitudinal study. Clin Nutr., 35:1110-7.
+
+1. Adams J, Ren S, Liu P et al. (2009): Vitamin D-directed rheostatic regulation of monocyte antibacterial responses. J Immunol., 182:4289-95.
+
+1. Gombart AF, Pierre A, Maggini S (2020): A review of micronutrients and the immune system-working in harmony to reduce the risk of infection. Nutrients, 12:33-36.
+
+1. Shabana M, Esawy M, Ismail N et al. (2019): Predictive role of IL-17A/IL-10 ratio in persistent asthmatic patients on vitamin D supplement. Immunobiology, 224:721-7.
+
+1. Jafarzadeh A, Chauhan P, Saha B et al. (2020): Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions. Life Sci., 257:118102.
+
+1. Suaini N, Zhang Y, Vuillermin P et al. (2015): Immune modulation by vitamin D and its relevance to food allergy. Nutrients, 7:6088-108.
+
+1. Greiller C, Martineau A (2015): Modulation of the immune response to respiratory viruses by vitamin D. Nutrients, 7:4240-70.
+
+1. Hathcock J, Shao A, Vieth R et al. (2007): Risk assessment for vitamin D. Am J Clin Nutr., 85:6-18.
+
+1. Haimovich A, Ravindra N, Stoytchev S et al. (2020): Development and validation of the Quick COVID-19 Severity Index: A prognostic tool for early clinical decompensation. Ann Emerg Med., 76:442-53.
+
+1. Bischoff-Ferrari H, Giovannucci E, Willett W et al. (2006): Estimation of optimal serum concentrations of 25- hydroxyvitamin D for multiple health outcomes. Am J Clin Nutr., 84:18-28.
+
+1. Westergren A (1926): The technique of the red cell sedimentation reaction. American Review of Tuberculosis, 14:94-101.
+
+1. Meltzer D, Best T, Zhang H et al. (2020): Association of vitamin D status and other clinical characteristics with COVID-19 test results. JAMA Netw Open, 3:e2019722.
+
+1. Martineau A, Jolliffe D, Hooper R et al. (2017): Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ., 356:i6583.
+
+1. Dixon B, Barker T, McKinnon T et al. (2012): Positive correlation between circulating cathelicidin antimicrobial peptide (hCAP18/LL-37) and 25-hydroxyvitamin D levels in healthy adults. BMC Res Notes, 5:575.
+
+1. Zdrenghea M, Makrinioti H, Bagacean C et al. (2017): Vitamin D modulation of innate immune responses to respiratory viral infections. Rev Med Virol., 27:45-49.
+
+1. Jakovac H (2020): COVID-19 and vitamin D-Is there a link and an opportunity for intervention? Am J Physiol Endocrinol Metab., 318:E589.
+
+1. Maghbooli Z, Sahraian M, Ebrahimi M et al. (2020): Vitamin D sufficiency, a serum 25-hydroxyvitamin D at least 30 ng/mL reduced risk for adverse clinical outcomes in patients with COVID-19 infection. PLoS One, 15:e0239799.
+
+1. Rastogi A, Bhansali A, Khare N et al. (2022): Short term, high-dose vitamin D supplementation for COVID-19 disease: a randomised, placebo-controlled, study (SHADE study). Postgrad Med J., 98:87-90.
+
+1. Tellioglu A, Basaran S, Guzel R et al. (2012): Efficacy and safety of high dose intramuscular or oral cholecalciferol in vitamin D deficient/insufficient elderly. Maturitas, 72:332-8.
+
+1. Amrein K, Sourij H, Wagner G et al. (2011): Short-term effects of high-dose oral vitamin D3 in critically ill vitamin D deficient patients: a randomized, double-blind, placebo­controlled pilot study. Crit Care, 15:R104.
+
+1. Kearns M, Alvarez J, Tangpricha V (2014): Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract., 20:341­51.
+
+1. Velavan T, Meyer C (2020): Mild versus severe COVID-19: Laboratory markers. Int J Infect Dis., 95:304-7.
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Impact of Rapid Correction of Vitamin D Deficiency on Patients with COVID-19 Disease: A Randomized-Controlled Trial`
+│   inner_content: `Impact of Rapid Correction of Vitamin D Deficiency on Patients with COVID-19 Disease: A Randomized-Controlled Trial`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Impact of Rapid Correction of Vitamin D Deficiency on Patients with COVID-19 Disease: A Randomized-Controlled Trial`
+│   │   inner_content: `Impact of Rapid Correction of Vitamin D Deficiency on Patients with COVID-19 Disease: A Randomized-Controlled Trial`├── TextNode
+│   full_match: `\nThe Egyptian Journal of Hospital Medicine (July 2024) Vol. 96, Page 2538-2546\nAyman Ramadan Abdelhai 1, Amir Abd-Elhameed Ahmed Barakat 1,\nMarwa M. Esawy 2, May M. Sami 2, Ahmed Ibrahim Gad1\nDepartments of 1 Internal Medicine, 2 Clinical Pathology, Faculty of Medicine, Zagazig University, Egypt`
+│   inner_content: `\nThe Egyptian Journal of Hospital Medicine (July 2024) Vol. 96, Page 2538-2546\nAyman Ramadan Abdelhai 1, Amir Abd-Elhameed Ahmed Barakat 1,\nMarwa M. Esawy 2, May M. Sami 2, Ahmed Ibrahim Gad1\nDepartments of 1 Internal Medicine, 2 Clinical Pathology, Faculty of Medicine, Zagazig University, Egypt`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!Summary and notes by VitaminDWiki`
+│   inner_content: `Summary and notes by VitaminDWiki`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Summary and notes by VitaminDWiki`
+│   │   inner_content: `Summary and notes by VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(style=&quot;font-size:17px;&quot;)}\n*4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID\n* The “control group” got 10,000 IU daily for 4 days\n*Vitamin D ((Injection|Injections)) act slowly – better to have fast-acting ((Sublingual vitamin D)) for 4 days\n*Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU\n*Vitamin D level achieved: 32 ng. Even less ((Mortality)) expected if they had used larger doses (and get &gt;40 ng)\n*Founder of VitaminDWiki bought &gt;20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker\n*Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption\n{DIV}`
+│   inner_content: `\n*4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID\n* The “control group” got 10,000 IU daily for 4 days\n*Vitamin D ((Injection|Injections)) act slowly – better to have fast-acting ((Sublingual vitamin D)) for 4 days\n*Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU\n*Vitamin D level achieved: 32 ng. Even less ((Mortality)) expected if they had used larger doses (and get &gt;40 ng)\n*Founder of VitaminDWiki bought &gt;20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker\n*Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption\n`
+│   attrs_dict:
+│   │   raw_content: (style=&quot;font-size:17px;&quot;)
+│   │   style: font-size:17px;
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID`
+│   │   inner_content: `4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID`
+│   │   │   inner_content: `4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `* The “control group” got 10,000 IU daily for 4 days`
+│   │   inner_content: ` The “control group” got 10,000 IU daily for 4 days`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `The “control group” got 10,000 IU daily for 4 days`
+│   │   │   inner_content: `The “control group” got 10,000 IU daily for 4 days`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*Vitamin D ((Injection|Injections)) act slowly – better to have fast-acting ((Sublingual vitamin D)) for 4 days`
+│   │   inner_content: `Vitamin D ((Injection|Injections)) act slowly – better to have fast-acting ((Sublingual vitamin D)) for 4 days`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D `
+│   │   │   inner_content: `Vitamin D `
+│   │   ├── AliasedLocalLinkNode
+│   │   │   full_match: `((Injection|Injections))`
+│   │   │   inner_content: `Injection|Injections`
+│   │   │   page: `Injection`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Injection|Injections`
+│   │   │   │   inner_content: `Injection|Injections`
+│   │   ├── TextNode
+│   │   │   full_match: ` act slowly – better to have fast-acting `
+│   │   │   inner_content: ` act slowly – better to have fast-acting `
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Sublingual vitamin D))`
+│   │   │   inner_content: `Sublingual vitamin D`
+│   │   │   page: `Sublingual vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Sublingual vitamin D`
+│   │   │   │   inner_content: `Sublingual vitamin D`
+│   │   ├── TextNode
+│   │   │   full_match: ` for 4 days`
+│   │   │   inner_content: ` for 4 days`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU`
+│   │   inner_content: `Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU`
+│   │   │   inner_content: `Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*Vitamin D level achieved: 32 ng. Even less ((Mortality)) expected if they had used larger doses (and get &gt;40 ng)`
+│   │   inner_content: `Vitamin D level achieved: 32 ng. Even less ((Mortality)) expected if they had used larger doses (and get &gt;40 ng)`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D level achieved: 32 ng. Even less `
+│   │   │   inner_content: `Vitamin D level achieved: 32 ng. Even less `
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Mortality))`
+│   │   │   inner_content: `Mortality`
+│   │   │   page: `Mortality`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mortality`
+│   │   │   │   inner_content: `Mortality`
+│   │   ├── TextNode
+│   │   │   full_match: ` expected if they had used larger doses (and get &gt;40 ng)`
+│   │   │   inner_content: ` expected if they had used larger doses (and get &gt;40 ng)`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*Founder of VitaminDWiki bought &gt;20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker`
+│   │   inner_content: `Founder of VitaminDWiki bought &gt;20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Founder of VitaminDWiki bought &gt;20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker`
+│   │   │   inner_content: `Founder of VitaminDWiki bought &gt;20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption`
+│   │   inner_content: `Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption`
+│   │   │   inner_content: `Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21449&quot; width=&quot;400&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21449&quot; width=&quot;400&quot;
+│   │   type: attId
+│   │   attId: 21449
+│   │   width: 400├── TextNode
+│   full_match: `\n\nBackground: Although antiviral properties of vitamin D are recognized, the influence of parental Vit D supplementation\non COVID-19 disease has not been determined.\n\nObjective: The aim of study was to evaluate impact of prompt treatment of Vit D deficiency on COVID-19 patients.\nPatients and Methods: A randomized controlled experiment was carried out on 250 COVID-19 patients. Patients were\ncategorized into two cohorts: one cohort received daily intramuscular injection of 200,000 IU cholecalciferol for four\nconsecutive days, while other cohort received daily oral dose of 10,000 IU cholecalciferol. The latter group functioned as\ncontrol group. Before and after therapy, serum 25(OH)D level, inflammatory markers and electrolytes were measured,\nbesides, clinical follow-up.\n\nResults: In Vit D group, the 25(OH)D levels considerably increased after 7 days compared to initial levels (32.48 ±9.64 Vs\n13.77 ±6.51 ng/mL, respectively). All Vit D deficient patients have transitioned to sufficient status. Levels of markers (ESR\n50.99±17.56 mm/hr, CRP 30.75 ±24 mg/L, and ferritin 392.05 ±139.17 ng/mL) decreased after seven days (29.74±8.97\nmm/hr, 10.52 ±13 mg/L, and 94.59 ±27.14 ng/mL, respectively). A substantial clinical improvement occurred in Vit D\ngroup compared to their initial condition. \nAlso Vit D deficiency was found to significantly increase risk of COVID-19 mortality by factor of `
+│   inner_content: `\n\nBackground: Although antiviral properties of vitamin D are recognized, the influence of parental Vit D supplementation\non COVID-19 disease has not been determined.\n\nObjective: The aim of study was to evaluate impact of prompt treatment of Vit D deficiency on COVID-19 patients.\nPatients and Methods: A randomized controlled experiment was carried out on 250 COVID-19 patients. Patients were\ncategorized into two cohorts: one cohort received daily intramuscular injection of 200,000 IU cholecalciferol for four\nconsecutive days, while other cohort received daily oral dose of 10,000 IU cholecalciferol. The latter group functioned as\ncontrol group. Before and after therapy, serum 25(OH)D level, inflammatory markers and electrolytes were measured,\nbesides, clinical follow-up.\n\nResults: In Vit D group, the 25(OH)D levels considerably increased after 7 days compared to initial levels (32.48 ±9.64 Vs\n13.77 ±6.51 ng/mL, respectively). All Vit D deficient patients have transitioned to sufficient status. Levels of markers (ESR\n50.99±17.56 mm/hr, CRP 30.75 ±24 mg/L, and ferritin 392.05 ±139.17 ng/mL) decreased after seven days (29.74±8.97\nmm/hr, 10.52 ±13 mg/L, and 94.59 ±27.14 ng/mL, respectively). A substantial clinical improvement occurred in Vit D\ngroup compared to their initial condition. \nAlso Vit D deficiency was found to significantly increase risk of COVID-19 mortality by factor of `├── BoldNode
+│   full_match: `__15.375__`
+│   inner_content: `15.375`
+│   children:
+│   ├── TextNode
+│   │   full_match: `15.375`
+│   │   inner_content: `15.375`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── LinkNode
+│   full_match: `[AOR = 15.375, 95% CI: 1.898-124.52, p=0.01]`
+│   inner_content: `AOR = 15.375, 95% CI: 1.898-124.52, p=0.01`
+│   url: `AOR = 15.375, 95% CI: 1.898-124.52, p=0.01`
+│   children:
+│   ├── TextNode
+│   │   full_match: `AOR = 15.375, 95% CI: 1.898-124.52, p=0.01`
+│   │   inner_content: `AOR = 15.375, 95% CI: 1.898-124.52, p=0.01`├── TextNode
+│   full_match: `.\n\nConclusion: A daily intramuscular injection of 200,000 IU cholecalciferol for four consecutive days has been proven to\nsignificantly enhance clinico-labatory parameters in COVID-19 patients. Considering higher Vit D supplementation as\na potential treatment for COVID-19 is a viable option\n`
+│   inner_content: `.\n\nConclusion: A daily intramuscular injection of 200,000 IU cholecalciferol for four consecutive days has been proven to\nsignificantly enhance clinico-labatory parameters in COVID-19 patients. Considering higher Vit D supplementation as\na potential treatment for COVID-19 is a viable option\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21448&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21448&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21448&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21448&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21448&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21448&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21448
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!33 REFERENCES`
+│   inner_content: `33 REFERENCES`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `33 REFERENCES`
+│   │   inner_content: `33 REFERENCES`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Alhazzani W, Moller M, Arabi Y et al. (2020): Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med., 46:854-87.`
+│   inner_content: `Alhazzani W, Moller M, Arabi Y et al. (2020): Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med., 46:854-87.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Alhazzani W, Moller M, Arabi Y et al. (2020): Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med., 46:854-87.`
+│   │   inner_content: `Alhazzani W, Moller M, Arabi Y et al. (2020): Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med., 46:854-87.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Zhang R, Li B, Gao X et al. (2017): Serum 25- hydroxyvitamin D and the risk of cardiovascular disease: dose-response meta-analysis of prospective studies. Am J Clin Nutr., 105:810-9.`
+│   inner_content: `Zhang R, Li B, Gao X et al. (2017): Serum 25- hydroxyvitamin D and the risk of cardiovascular disease: dose-response meta-analysis of prospective studies. Am J Clin Nutr., 105:810-9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zhang R, Li B, Gao X et al. (2017): Serum 25- hydroxyvitamin D and the risk of cardiovascular disease: dose-response meta-analysis of prospective studies. Am J Clin Nutr., 105:810-9.`
+│   │   inner_content: `Zhang R, Li B, Gao X et al. (2017): Serum 25- hydroxyvitamin D and the risk of cardiovascular disease: dose-response meta-analysis of prospective studies. Am J Clin Nutr., 105:810-9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Zisi D, Challa A, Makis A (2019): The association between vitamin D status and infectious diseases of the respiratory system in infancy and childhood. Hormones (Athens), 18:353-63.`
+│   inner_content: `Zisi D, Challa A, Makis A (2019): The association between vitamin D status and infectious diseases of the respiratory system in infancy and childhood. Hormones (Athens), 18:353-63.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zisi D, Challa A, Makis A (2019): The association between vitamin D status and infectious diseases of the respiratory system in infancy and childhood. Hormones (Athens), 18:353-63.`
+│   │   inner_content: `Zisi D, Challa A, Makis A (2019): The association between vitamin D status and infectious diseases of the respiratory system in infancy and childhood. Hormones (Athens), 18:353-63.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Holick M, Binkley N, Bischoff-Ferrari H et al. (2011): Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab., 96:1911-30.`
+│   inner_content: `Holick M, Binkley N, Bischoff-Ferrari H et al. (2011): Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab., 96:1911-30.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Holick M, Binkley N, Bischoff-Ferrari H et al. (2011): Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab., 96:1911-30.`
+│   │   inner_content: `Holick M, Binkley N, Bischoff-Ferrari H et al. (2011): Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab., 96:1911-30.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Merzon E, Tworowski D, Gorohovski A et al. (2020): Low plasma 25(OH) vitamin D level is associated with increased risk of COVID-19 infection: an Israeli population-based study. Febs J., 287:3693-702.`
+│   inner_content: `Merzon E, Tworowski D, Gorohovski A et al. (2020): Low plasma 25(OH) vitamin D level is associated with increased risk of COVID-19 infection: an Israeli population-based study. Febs J., 287:3693-702.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Merzon E, Tworowski D, Gorohovski A et al. (2020): Low plasma 25(OH) vitamin D level is associated with increased risk of COVID-19 infection: an Israeli population-based study. Febs J., 287:3693-702.`
+│   │   inner_content: `Merzon E, Tworowski D, Gorohovski A et al. (2020): Low plasma 25(OH) vitamin D level is associated with increased risk of COVID-19 infection: an Israeli population-based study. Febs J., 287:3693-702.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Roth D, Abrams S, Aloia J et al. (2018): Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries. Ann N Y Acad Sci., 1430:44-79.`
+│   inner_content: `Roth D, Abrams S, Aloia J et al. (2018): Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries. Ann N Y Acad Sci., 1430:44-79.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Roth D, Abrams S, Aloia J et al. (2018): Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries. Ann N Y Acad Sci., 1430:44-79.`
+│   │   inner_content: `Roth D, Abrams S, Aloia J et al. (2018): Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries. Ann N Y Acad Sci., 1430:44-79.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Botros R, Sabry I, Abdelbaky R et al. (2015): Vitamin D deficiency among healthy Egyptian females. Endocrinol Nutr., 62:314-21.`
+│   inner_content: `Botros R, Sabry I, Abdelbaky R et al. (2015): Vitamin D deficiency among healthy Egyptian females. Endocrinol Nutr., 62:314-21.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Botros R, Sabry I, Abdelbaky R et al. (2015): Vitamin D deficiency among healthy Egyptian females. Endocrinol Nutr., 62:314-21.`
+│   │   inner_content: `Botros R, Sabry I, Abdelbaky R et al. (2015): Vitamin D deficiency among healthy Egyptian females. Endocrinol Nutr., 62:314-21.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hurwitz J, Jones B, Penkert R et al. (2017): Low retinol­binding protein and vitamin D levels are associated with severe outcomes in children hospitalized with lower respiratory tract infection and respiratory syncytial virus or human metapneumovirus detection. J Pediatr., 187:323-7.`
+│   inner_content: `Hurwitz J, Jones B, Penkert R et al. (2017): Low retinol­binding protein and vitamin D levels are associated with severe outcomes in children hospitalized with lower respiratory tract infection and respiratory syncytial virus or human metapneumovirus detection. J Pediatr., 187:323-7.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hurwitz J, Jones B, Penkert R et al. (2017): Low retinol­binding protein and vitamin D levels are associated with severe outcomes in children hospitalized with lower respiratory tract infection and respiratory syncytial virus or human metapneumovirus detection. J Pediatr., 187:323-7.`
+│   │   inner_content: `Hurwitz J, Jones B, Penkert R et al. (2017): Low retinol­binding protein and vitamin D levels are associated with severe outcomes in children hospitalized with lower respiratory tract infection and respiratory syncytial virus or human metapneumovirus detection. J Pediatr., 187:323-7.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Grant W, Lahore H, McDonnell__ S et al. (2020): Evidence that vitamin D supplementation could reduce risk of influenza and COVID-19 infections and deaths. Nutrients, 12:3533-9.`
+│   inner_content: `__Grant W, Lahore H, McDonnell__ S et al. (2020): Evidence that vitamin D supplementation could reduce risk of influenza and COVID-19 infections and deaths. Nutrients, 12:3533-9.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Grant W, Lahore H, McDonnell__`
+│   │   inner_content: `Grant W, Lahore H, McDonnell`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Grant W, Lahore H, McDonnell`
+│   │   │   inner_content: `Grant W, Lahore H, McDonnell`
+│   ├── TextNode
+│   │   full_match: ` S et al. (2020): Evidence that vitamin D supplementation could reduce risk of influenza and COVID-19 infections and deaths. Nutrients, 12:3533-9.`
+│   │   inner_content: ` S et al. (2020): Evidence that vitamin D supplementation could reduce risk of influenza and COVID-19 infections and deaths. Nutrients, 12:3533-9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Ilie P, Stefanescu S, Smith L (2020): The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality. Aging Clin Exp Res., 32:1195-8.`
+│   inner_content: `Ilie P, Stefanescu S, Smith L (2020): The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality. Aging Clin Exp Res., 32:1195-8.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ilie P, Stefanescu S, Smith L (2020): The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality. Aging Clin Exp Res., 32:1195-8.`
+│   │   inner_content: `Ilie P, Stefanescu S, Smith L (2020): The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality. Aging Clin Exp Res., 32:1195-8.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Daneshkhah A, Eshein A, Subramanian H et al. (2020): The role of vitamin D in suppressing cytokine storm in COVID-19 patients and associated mortality. MedRxiv., 12:9.`
+│   inner_content: `Daneshkhah A, Eshein A, Subramanian H et al. (2020): The role of vitamin D in suppressing cytokine storm in COVID-19 patients and associated mortality. MedRxiv., 12:9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Daneshkhah A, Eshein A, Subramanian H et al. (2020): The role of vitamin D in suppressing cytokine storm in COVID-19 patients and associated mortality. MedRxiv., 12:9.`
+│   │   inner_content: `Daneshkhah A, Eshein A, Subramanian H et al. (2020): The role of vitamin D in suppressing cytokine storm in COVID-19 patients and associated mortality. MedRxiv., 12:9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Ezeamama A, Guwatudde D, Wang M et al. (2016): Vitamin-D deficiency impairs CD4+T-cell count recovery rate in HIV-positive adults on highly active antiretroviral therapy: A longitudinal study. Clin Nutr., 35:1110-7.`
+│   inner_content: `Ezeamama A, Guwatudde D, Wang M et al. (2016): Vitamin-D deficiency impairs CD4+T-cell count recovery rate in HIV-positive adults on highly active antiretroviral therapy: A longitudinal study. Clin Nutr., 35:1110-7.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ezeamama A, Guwatudde D, Wang M et al. (2016): Vitamin-D deficiency impairs CD4+T-cell count recovery rate in HIV-positive adults on highly active antiretroviral therapy: A longitudinal study. Clin Nutr., 35:1110-7.`
+│   │   inner_content: `Ezeamama A, Guwatudde D, Wang M et al. (2016): Vitamin-D deficiency impairs CD4+T-cell count recovery rate in HIV-positive adults on highly active antiretroviral therapy: A longitudinal study. Clin Nutr., 35:1110-7.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Adams J, Ren S, Liu P et al. (2009): Vitamin D-directed rheostatic regulation of monocyte antibacterial responses. J Immunol., 182:4289-95.`
+│   inner_content: `Adams J, Ren S, Liu P et al. (2009): Vitamin D-directed rheostatic regulation of monocyte antibacterial responses. J Immunol., 182:4289-95.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Adams J, Ren S, Liu P et al. (2009): Vitamin D-directed rheostatic regulation of monocyte antibacterial responses. J Immunol., 182:4289-95.`
+│   │   inner_content: `Adams J, Ren S, Liu P et al. (2009): Vitamin D-directed rheostatic regulation of monocyte antibacterial responses. J Immunol., 182:4289-95.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Gombart AF, Pierre A, Maggini S (2020): A review of micronutrients and the immune system-working in harmony to reduce the risk of infection. Nutrients, 12:33-36.`
+│   inner_content: `Gombart AF, Pierre A, Maggini S (2020): A review of micronutrients and the immune system-working in harmony to reduce the risk of infection. Nutrients, 12:33-36.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Gombart AF, Pierre A, Maggini S (2020): A review of micronutrients and the immune system-working in harmony to reduce the risk of infection. Nutrients, 12:33-36.`
+│   │   inner_content: `Gombart AF, Pierre A, Maggini S (2020): A review of micronutrients and the immune system-working in harmony to reduce the risk of infection. Nutrients, 12:33-36.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Shabana M, Esawy M, Ismail N et al. (2019): Predictive role of IL-17A/IL-10 ratio in persistent asthmatic patients on vitamin D supplement. Immunobiology, 224:721-7.`
+│   inner_content: `Shabana M, Esawy M, Ismail N et al. (2019): Predictive role of IL-17A/IL-10 ratio in persistent asthmatic patients on vitamin D supplement. Immunobiology, 224:721-7.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Shabana M, Esawy M, Ismail N et al. (2019): Predictive role of IL-17A/IL-10 ratio in persistent asthmatic patients on vitamin D supplement. Immunobiology, 224:721-7.`
+│   │   inner_content: `Shabana M, Esawy M, Ismail N et al. (2019): Predictive role of IL-17A/IL-10 ratio in persistent asthmatic patients on vitamin D supplement. Immunobiology, 224:721-7.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Jafarzadeh A, Chauhan P, Saha B et al. (2020): Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions. Life Sci., 257:118102.`
+│   inner_content: `Jafarzadeh A, Chauhan P, Saha B et al. (2020): Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions. Life Sci., 257:118102.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jafarzadeh A, Chauhan P, Saha B et al. (2020): Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions. Life Sci., 257:118102.`
+│   │   inner_content: `Jafarzadeh A, Chauhan P, Saha B et al. (2020): Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions. Life Sci., 257:118102.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Suaini N, Zhang Y, Vuillermin P et al. (2015): Immune modulation by vitamin D and its relevance to food allergy. Nutrients, 7:6088-108.`
+│   inner_content: `Suaini N, Zhang Y, Vuillermin P et al. (2015): Immune modulation by vitamin D and its relevance to food allergy. Nutrients, 7:6088-108.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Suaini N, Zhang Y, Vuillermin P et al. (2015): Immune modulation by vitamin D and its relevance to food allergy. Nutrients, 7:6088-108.`
+│   │   inner_content: `Suaini N, Zhang Y, Vuillermin P et al. (2015): Immune modulation by vitamin D and its relevance to food allergy. Nutrients, 7:6088-108.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Greiller C, Martineau A (2015): Modulation of the immune response to respiratory viruses by vitamin D. Nutrients, 7:4240-70.`
+│   inner_content: `Greiller C, Martineau A (2015): Modulation of the immune response to respiratory viruses by vitamin D. Nutrients, 7:4240-70.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Greiller C, Martineau A (2015): Modulation of the immune response to respiratory viruses by vitamin D. Nutrients, 7:4240-70.`
+│   │   inner_content: `Greiller C, Martineau A (2015): Modulation of the immune response to respiratory viruses by vitamin D. Nutrients, 7:4240-70.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hathcock J, Shao A, Vieth R et al. (2007): Risk assessment for vitamin D. Am J Clin Nutr., 85:6-18.`
+│   inner_content: `Hathcock J, Shao A, Vieth R et al. (2007): Risk assessment for vitamin D. Am J Clin Nutr., 85:6-18.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hathcock J, Shao A, Vieth R et al. (2007): Risk assessment for vitamin D. Am J Clin Nutr., 85:6-18.`
+│   │   inner_content: `Hathcock J, Shao A, Vieth R et al. (2007): Risk assessment for vitamin D. Am J Clin Nutr., 85:6-18.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Haimovich A, Ravindra N, Stoytchev S et al. (2020): Development and validation of the Quick COVID-19 Severity Index: A prognostic tool for early clinical decompensation. Ann Emerg Med., 76:442-53.`
+│   inner_content: `Haimovich A, Ravindra N, Stoytchev S et al. (2020): Development and validation of the Quick COVID-19 Severity Index: A prognostic tool for early clinical decompensation. Ann Emerg Med., 76:442-53.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Haimovich A, Ravindra N, Stoytchev S et al. (2020): Development and validation of the Quick COVID-19 Severity Index: A prognostic tool for early clinical decompensation. Ann Emerg Med., 76:442-53.`
+│   │   inner_content: `Haimovich A, Ravindra N, Stoytchev S et al. (2020): Development and validation of the Quick COVID-19 Severity Index: A prognostic tool for early clinical decompensation. Ann Emerg Med., 76:442-53.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Bischoff-Ferrari H, Giovannucci E, Willett W et al. (2006): Estimation of optimal serum concentrations of 25- hydroxyvitamin D for multiple health outcomes. Am J Clin Nutr., 84:18-28.`
+│   inner_content: `Bischoff-Ferrari H, Giovannucci E, Willett W et al. (2006): Estimation of optimal serum concentrations of 25- hydroxyvitamin D for multiple health outcomes. Am J Clin Nutr., 84:18-28.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Bischoff-Ferrari H, Giovannucci E, Willett W et al. (2006): Estimation of optimal serum concentrations of 25- hydroxyvitamin D for multiple health outcomes. Am J Clin Nutr., 84:18-28.`
+│   │   inner_content: `Bischoff-Ferrari H, Giovannucci E, Willett W et al. (2006): Estimation of optimal serum concentrations of 25- hydroxyvitamin D for multiple health outcomes. Am J Clin Nutr., 84:18-28.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Westergren A (1926): The technique of the red cell sedimentation reaction. American Review of Tuberculosis, 14:94-101.`
+│   inner_content: `Westergren A (1926): The technique of the red cell sedimentation reaction. American Review of Tuberculosis, 14:94-101.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Westergren A (1926): The technique of the red cell sedimentation reaction. American Review of Tuberculosis, 14:94-101.`
+│   │   inner_content: `Westergren A (1926): The technique of the red cell sedimentation reaction. American Review of Tuberculosis, 14:94-101.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Meltzer D, Best T, Zhang H et al. (2020): Association of vitamin D status and other clinical characteristics with COVID-19 test results. JAMA Netw Open, 3:e2019722.`
+│   inner_content: `Meltzer D, Best T, Zhang H et al. (2020): Association of vitamin D status and other clinical characteristics with COVID-19 test results. JAMA Netw Open, 3:e2019722.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Meltzer D, Best T, Zhang H et al. (2020): Association of vitamin D status and other clinical characteristics with COVID-19 test results. JAMA Netw Open, 3:e2019722.`
+│   │   inner_content: `Meltzer D, Best T, Zhang H et al. (2020): Association of vitamin D status and other clinical characteristics with COVID-19 test results. JAMA Netw Open, 3:e2019722.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Martineau A, Jolliffe D, Hooper R et al. (2017): Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ., 356:i6583.`
+│   inner_content: `Martineau A, Jolliffe D, Hooper R et al. (2017): Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ., 356:i6583.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Martineau A, Jolliffe D, Hooper R et al. (2017): Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ., 356:i6583.`
+│   │   inner_content: `Martineau A, Jolliffe D, Hooper R et al. (2017): Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ., 356:i6583.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Dixon B, Barker T, McKinnon T et al. (2012): Positive correlation between circulating cathelicidin antimicrobial peptide (hCAP18/LL-37) and 25-hydroxyvitamin D levels in healthy adults. BMC Res Notes, 5:575.`
+│   inner_content: `Dixon B, Barker T, McKinnon T et al. (2012): Positive correlation between circulating cathelicidin antimicrobial peptide (hCAP18/LL-37) and 25-hydroxyvitamin D levels in healthy adults. BMC Res Notes, 5:575.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Dixon B, Barker T, McKinnon T et al. (2012): Positive correlation between circulating cathelicidin antimicrobial peptide (hCAP18/LL-37) and 25-hydroxyvitamin D levels in healthy adults. BMC Res Notes, 5:575.`
+│   │   inner_content: `Dixon B, Barker T, McKinnon T et al. (2012): Positive correlation between circulating cathelicidin antimicrobial peptide (hCAP18/LL-37) and 25-hydroxyvitamin D levels in healthy adults. BMC Res Notes, 5:575.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Zdrenghea M, Makrinioti H, Bagacean C et al. (2017): Vitamin D modulation of innate immune responses to respiratory viral infections. Rev Med Virol., 27:45-49.`
+│   inner_content: `Zdrenghea M, Makrinioti H, Bagacean C et al. (2017): Vitamin D modulation of innate immune responses to respiratory viral infections. Rev Med Virol., 27:45-49.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zdrenghea M, Makrinioti H, Bagacean C et al. (2017): Vitamin D modulation of innate immune responses to respiratory viral infections. Rev Med Virol., 27:45-49.`
+│   │   inner_content: `Zdrenghea M, Makrinioti H, Bagacean C et al. (2017): Vitamin D modulation of innate immune responses to respiratory viral infections. Rev Med Virol., 27:45-49.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Jakovac H (2020): COVID-19 and vitamin D-Is there a link and an opportunity for intervention? Am J Physiol Endocrinol Metab., 318:E589.`
+│   inner_content: `Jakovac H (2020): COVID-19 and vitamin D-Is there a link and an opportunity for intervention? Am J Physiol Endocrinol Metab., 318:E589.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jakovac H (2020): COVID-19 and vitamin D-Is there a link and an opportunity for intervention? Am J Physiol Endocrinol Metab., 318:E589.`
+│   │   inner_content: `Jakovac H (2020): COVID-19 and vitamin D-Is there a link and an opportunity for intervention? Am J Physiol Endocrinol Metab., 318:E589.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Maghbooli Z, Sahraian M, Ebrahimi M et al. (2020): Vitamin D sufficiency, a serum 25-hydroxyvitamin D at least 30 ng/mL reduced risk for adverse clinical outcomes in patients with COVID-19 infection. PLoS One, 15:e0239799.`
+│   inner_content: `Maghbooli Z, Sahraian M, Ebrahimi M et al. (2020): Vitamin D sufficiency, a serum 25-hydroxyvitamin D at least 30 ng/mL reduced risk for adverse clinical outcomes in patients with COVID-19 infection. PLoS One, 15:e0239799.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Maghbooli Z, Sahraian M, Ebrahimi M et al. (2020): Vitamin D sufficiency, a serum 25-hydroxyvitamin D at least 30 ng/mL reduced risk for adverse clinical outcomes in patients with COVID-19 infection. PLoS One, 15:e0239799.`
+│   │   inner_content: `Maghbooli Z, Sahraian M, Ebrahimi M et al. (2020): Vitamin D sufficiency, a serum 25-hydroxyvitamin D at least 30 ng/mL reduced risk for adverse clinical outcomes in patients with COVID-19 infection. PLoS One, 15:e0239799.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Rastogi A, Bhansali A, Khare N et al. (2022): Short term, high-dose vitamin D supplementation for COVID-19 disease: a randomised, placebo-controlled, study (SHADE study). Postgrad Med J., 98:87-90.`
+│   inner_content: `Rastogi A, Bhansali A, Khare N et al. (2022): Short term, high-dose vitamin D supplementation for COVID-19 disease: a randomised, placebo-controlled, study (SHADE study). Postgrad Med J., 98:87-90.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Rastogi A, Bhansali A, Khare N et al. (2022): Short term, high-dose vitamin D supplementation for COVID-19 disease: a randomised, placebo-controlled, study (SHADE study). Postgrad Med J., 98:87-90.`
+│   │   inner_content: `Rastogi A, Bhansali A, Khare N et al. (2022): Short term, high-dose vitamin D supplementation for COVID-19 disease: a randomised, placebo-controlled, study (SHADE study). Postgrad Med J., 98:87-90.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Tellioglu A, Basaran S, Guzel R et al. (2012): Efficacy and safety of high dose intramuscular or oral cholecalciferol in vitamin D deficient/insufficient elderly. Maturitas, 72:332-8.`
+│   inner_content: `Tellioglu A, Basaran S, Guzel R et al. (2012): Efficacy and safety of high dose intramuscular or oral cholecalciferol in vitamin D deficient/insufficient elderly. Maturitas, 72:332-8.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tellioglu A, Basaran S, Guzel R et al. (2012): Efficacy and safety of high dose intramuscular or oral cholecalciferol in vitamin D deficient/insufficient elderly. Maturitas, 72:332-8.`
+│   │   inner_content: `Tellioglu A, Basaran S, Guzel R et al. (2012): Efficacy and safety of high dose intramuscular or oral cholecalciferol in vitamin D deficient/insufficient elderly. Maturitas, 72:332-8.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Amrein K, Sourij H, Wagner G et al. (2011): Short-term effects of high-dose oral vitamin D3 in critically ill vitamin D deficient patients: a randomized, double-blind, placebo­controlled pilot study. Crit Care, 15:R104.`
+│   inner_content: `Amrein K, Sourij H, Wagner G et al. (2011): Short-term effects of high-dose oral vitamin D3 in critically ill vitamin D deficient patients: a randomized, double-blind, placebo­controlled pilot study. Crit Care, 15:R104.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Amrein K, Sourij H, Wagner G et al. (2011): Short-term effects of high-dose oral vitamin D3 in critically ill vitamin D deficient patients: a randomized, double-blind, placebo­controlled pilot study. Crit Care, 15:R104.`
+│   │   inner_content: `Amrein K, Sourij H, Wagner G et al. (2011): Short-term effects of high-dose oral vitamin D3 in critically ill vitamin D deficient patients: a randomized, double-blind, placebo­controlled pilot study. Crit Care, 15:R104.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Kearns M, Alvarez J, Tangpricha V (2014): Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract., 20:341­51.`
+│   inner_content: `Kearns M, Alvarez J, Tangpricha V (2014): Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract., 20:341­51.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Kearns M, Alvarez J, Tangpricha V (2014): Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract., 20:341­51.`
+│   │   inner_content: `Kearns M, Alvarez J, Tangpricha V (2014): Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract., 20:341­51.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Velavan T, Meyer C (2020): Mild versus severe COVID-19: Laboratory markers. Int J Infect Dis., 95:304-7.`
+│   inner_content: `Velavan T, Meyer C (2020): Mild versus severe COVID-19: Laboratory markers. Int J Infect Dis., 95:304-7.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Velavan T, Meyer C (2020): Mild versus severe COVID-19: Laboratory markers. Int J Infect Dis., 95:304-7.`
+│   │   inner_content: `Velavan T, Meyer C (2020): Mild versus severe COVID-19: Laboratory markers. Int J Infect Dis., 95:304-7.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((COVID-19 treated by Vitamin D - studies, reports, videos))`
+│   inner_content: `VitaminDWiki – ((COVID-19 treated by Vitamin D - studies, reports, videos))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((COVID-19 treated by Vitamin D - studies, reports, videos))`
+│   │   inner_content: `COVID-19 treated by Vitamin D - studies, reports, videos`
+│   │   page: `COVID-19 treated by Vitamin D - studies, reports, videos`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `COVID-19 treated by Vitamin D - studies, reports, videos`
+│   │   │   inner_content: `COVID-19 treated by Vitamin D - studies, reports, videos`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;COVID-19 treated by Vitamin D - studies, reports, videos&quot; start=&quot;~tc~ startsum ~/tc~&quot; stop=&quot;~tc~ endsum ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;COVID-19 treated by Vitamin D - studies, reports, videos&quot; start=&quot;~tc~ startsum ~/tc~&quot; stop=&quot;~tc~ endsum ~/tc~&quot;
+│   │   page: COVID-19 treated by Vitamin D - studies, reports, videos
+│   │   start: ~tc~ startsum ~/tc~
+│   │   stop: ~tc~ endsum ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*{img type=&quot;src&quot; src=&quot;https://c19vitamind.com/dsummary.png&quot; width=&quot;900&quot;}`
+│   inner_content: `{img type=&quot;src&quot; src=&quot;https://c19vitamind.com/dsummary.png&quot; width=&quot;900&quot;}`
+│   depth: `1`
+│   children:
+│   ├── ImgNode
+│   │   full_match: `{img type=&quot;src&quot; src=&quot;https://c19vitamind.com/dsummary.png&quot; width=&quot;900&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  type=&quot;src&quot; src=&quot;https://c19vitamind.com/dsummary.png&quot; width=&quot;900&quot;
+│   │   │   type: src
+│   │   │   src: https://c19vitamind.com/dsummary.png
+│   │   │   width: 900├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**The above image is automatically updated`
+│   inner_content: `The above image is automatically updated`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The above image is automatically updated`
+│   │   inner_content: `The above image is automatically updated`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Over 715 Virus studies have Vitamin D in the title))`
+│   inner_content: `VitaminDWiki – ((Over 715 Virus studies have Vitamin D in the title))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Over 715 Virus studies have Vitamin D in the title))`
+│   │   inner_content: `Over 715 Virus studies have Vitamin D in the title`
+│   │   page: `Over 715 Virus studies have Vitamin D in the title`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Over 715 Virus studies have Vitamin D in the title`
+│   │   │   inner_content: `Over 715 Virus studies have Vitamin D in the title`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!BOTH Virus AND Intervention categories ({SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 97  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} pages)`
+│   inner_content: `BOTH Virus AND Intervention categories ({SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 97  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} pages)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `BOTH Virus AND Intervention categories (`
+│   │   inner_content: `BOTH Virus AND Intervention categories (`
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 97  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 97  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: ` pages)`
+│   │   inner_content: ` pages)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;97+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;97+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 97+155
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── TextNode
+│   full_match: `\n\n\n\n`
+│   inner_content: `\n\n\n\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(15.3 X fewer COVID deaths in those getting Vitamin D injection in ICU – RCT July 2024)) ~/tc~`
+│   inner_content: ` (alias(15.3 X fewer COVID deaths in those getting Vitamin D injection in ICU – RCT July 2024)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(15.3 X fewer COVID deaths in those getting Vitamin D injection in ICU – RCT July 2024)) `
+│   │   inner_content: `(alias(15.3 X fewer COVID deaths in those getting Vitamin D injection in ICU – RCT July 2024)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Impact of Rapid Correction of Vitamin D Deficiency on Patients with COVID-19 Disease: A Randomized-Controlled Trial
+The Egyptian Journal of Hospital Medicine (July 2024) Vol. 96, Page 2538-2546
+Ayman Ramadan Abdelhai 1, Amir Abd-Elhameed Ahmed Barakat 1,
+Marwa M. Esawy 2, May M. Sami 2, Ahmed Ibrahim Gad1
+Departments of 1 Internal Medicine, 2 Clinical Pathology, Faculty of Medicine, Zagazig University, Egypt
+---
+!!!!!Summary and notes by VitaminDWiki
+{DIV(style=&quot;font-size:17px;&quot;)}
+*4 days of 200,000 IU Vitamin D intramuscular injections while in ICU for COVID
+* The “control group” got 10,000 IU daily for 4 days
+*Vitamin D ((Injection|Injections)) act slowly – better to have fast-acting ((Sublingual vitamin D)) for 4 days
+*Would have been much better if patients had gotten Vitamin D BEFORE entering in ICU
+*Vitamin D level achieved: 32 ng. Even less ((Mortality)) expected if they had used larger doses (and get &gt;40 ng)
+*Founder of VitaminDWiki bought &gt;20 lbs of Vitamin D in 2020 to give away free - but could not find a single taker
+*Founder of VitaminDWiki  tried to start an RCT in 2020 using 400,000 IU of vitamin D, but was stopped by local corruption
+{DIV}
+---
+{img type=&quot;attId&quot; attId=&quot;21449&quot; width=&quot;400&quot;}
+
+Background: Although antiviral properties of vitamin D are recognized, the influence of parental Vit D supplementation
+on COVID-19 disease has not been determined.
+
+Objective: The aim of study was to evaluate impact of prompt treatment of Vit D deficiency on COVID-19 patients.
+Patients and Methods: A randomized controlled experiment was carried out on 250 COVID-19 patients. Patients were
+categorized into two cohorts: one cohort received daily intramuscular injection of 200,000 IU cholecalciferol for four
+consecutive days, while other cohort received daily oral dose of 10,000 IU cholecalciferol. The latter group functioned as
+control group. Before and after therapy, serum 25(OH)D level, inflammatory markers and electrolytes were measured,
+besides, clinical follow-up.
+
+Results: In Vit D group, the 25(OH)D levels considerably increased after 7 days compared to initial levels (32.48 ±9.64 Vs
+13.77 ±6.51 ng/mL, respectively). All Vit D deficient patients have transitioned to sufficient status. Levels of markers (ESR
+50.99±17.56 mm/hr, CRP 30.75 ±24 mg/L, and ferritin 392.05 ±139.17 ng/mL) decreased after seven days (29.74±8.97
+mm/hr, 10.52 ±13 mg/L, and 94.59 ±27.14 ng/mL, respectively). A substantial clinical improvement occurred in Vit D
+group compared to their initial condition. 
+Also Vit D deficiency was found to significantly increase risk of COVID-19 mortality by factor of __15.375__ [AOR = 15.375, 95% CI: 1.898-124.52, p=0.01].
+
+Conclusion: A daily intramuscular injection of 200,000 IU cholecalciferol for four consecutive days has been proven to
+significantly enhance clinico-labatory parameters in COVID-19 patients. Considering higher Vit D supplementation as
+a potential treatment for COVID-19 is a viable option
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21448&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!!33 REFERENCES
+#Alhazzani W, Moller M, Arabi Y et al. (2020): Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med., 46:854-87.
+#Zhang R, Li B, Gao X et al. (2017): Serum 25- hydroxyvitamin D and the risk of cardiovascular disease: dose-response meta-analysis of prospective studies. Am J Clin Nutr., 105:810-9.
+#Zisi D, Challa A, Makis A (2019): The association between vitamin D status and infectious diseases of the respiratory system in infancy and childhood. Hormones (Athens), 18:353-63.
+#Holick M, Binkley N, Bischoff-Ferrari H et al. (2011): Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab., 96:1911-30.
+#Merzon E, Tworowski D, Gorohovski A et al. (2020): Low plasma 25(OH) vitamin D level is associated with increased risk of COVID-19 infection: an Israeli population-based study. Febs J., 287:3693-702.
+#Roth D, Abrams S, Aloia J et al. (2018): Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries. Ann N Y Acad Sci., 1430:44-79.
+#Botros R, Sabry I, Abdelbaky R et al. (2015): Vitamin D deficiency among healthy Egyptian females. Endocrinol Nutr., 62:314-21.
+#Hurwitz J, Jones B, Penkert R et al. (2017): Low retinol­binding protein and vitamin D levels are associated with severe outcomes in children hospitalized with lower respiratory tract infection and respiratory syncytial virus or human metapneumovirus detection. J Pediatr., 187:323-7.
+#__Grant W, Lahore H, McDonnell__ S et al. (2020): Evidence that vitamin D supplementation could reduce risk of influenza and COVID-19 infections and deaths. Nutrients, 12:3533-9.
+#Ilie P, Stefanescu S, Smith L (2020): The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality. Aging Clin Exp Res., 32:1195-8.
+#Daneshkhah A, Eshein A, Subramanian H et al. (2020): The role of vitamin D in suppressing cytokine storm in COVID-19 patients and associated mortality. MedRxiv., 12:9.
+#Ezeamama A, Guwatudde D, Wang M et al. (2016): Vitamin-D deficiency impairs CD4+T-cell count recovery rate in HIV-positive adults on highly active antiretroviral therapy: A longitudinal study. Clin Nutr., 35:1110-7.
+#Adams J, Ren S, Liu P et al. (2009): Vitamin D-directed rheostatic regulation of monocyte antibacterial responses. J Immunol., 182:4289-95.
+#Gombart AF, Pierre A, Maggini S (2020): A review of micronutrients and the immune system-working in harmony to reduce the risk of infection. Nutrients, 12:33-36.
+#Shabana M, Esawy M, Ismail N et al. (2019): Predictive role of IL-17A/IL-10 ratio in persistent asthmatic patients on vitamin D supplement. Immunobiology, 224:721-7.
+#Jafarzadeh A, Chauhan P, Saha B et al. (2020): Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions. Life Sci., 257:118102.
+#Suaini N, Zhang Y, Vuillermin P et al. (2015): Immune modulation by vitamin D and its relevance to food allergy. Nutrients, 7:6088-108.
+#Greiller C, Martineau A (2015): Modulation of the immune response to respiratory viruses by vitamin D. Nutrients, 7:4240-70.
+#Hathcock J, Shao A, Vieth R et al. (2007): Risk assessment for vitamin D. Am J Clin Nutr., 85:6-18.
+#Haimovich A, Ravindra N, Stoytchev S et al. (2020): Development and validation of the Quick COVID-19 Severity Index: A prognostic tool for early clinical decompensation. Ann Emerg Med., 76:442-53.
+#Bischoff-Ferrari H, Giovannucci E, Willett W et al. (2006): Estimation of optimal serum concentrations of 25- hydroxyvitamin D for multiple health outcomes. Am J Clin Nutr., 84:18-28.
+#Westergren A (1926): The technique of the red cell sedimentation reaction. American Review of Tuberculosis, 14:94-101.
+#Meltzer D, Best T, Zhang H et al. (2020): Association of vitamin D status and other clinical characteristics with COVID-19 test results. JAMA Netw Open, 3:e2019722.
+#Martineau A, Jolliffe D, Hooper R et al. (2017): Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ., 356:i6583.
+#Dixon B, Barker T, McKinnon T et al. (2012): Positive correlation between circulating cathelicidin antimicrobial peptide (hCAP18/LL-37) and 25-hydroxyvitamin D levels in healthy adults. BMC Res Notes, 5:575.
+#Zdrenghea M, Makrinioti H, Bagacean C et al. (2017): Vitamin D modulation of innate immune responses to respiratory viral infections. Rev Med Virol., 27:45-49.
+#Jakovac H (2020): COVID-19 and vitamin D-Is there a link and an opportunity for intervention? Am J Physiol Endocrinol Metab., 318:E589.
+#Maghbooli Z, Sahraian M, Ebrahimi M et al. (2020): Vitamin D sufficiency, a serum 25-hydroxyvitamin D at least 30 ng/mL reduced risk for adverse clinical outcomes in patients with COVID-19 infection. PLoS One, 15:e0239799.
+#Rastogi A, Bhansali A, Khare N et al. (2022): Short term, high-dose vitamin D supplementation for COVID-19 disease: a randomised, placebo-controlled, study (SHADE study). Postgrad Med J., 98:87-90.
+#Tellioglu A, Basaran S, Guzel R et al. (2012): Efficacy and safety of high dose intramuscular or oral cholecalciferol in vitamin D deficient/insufficient elderly. Maturitas, 72:332-8.
+#Amrein K, Sourij H, Wagner G et al. (2011): Short-term effects of high-dose oral vitamin D3 in critically ill vitamin D deficient patients: a randomized, double-blind, placebo­controlled pilot study. Crit Care, 15:R104.
+#Kearns M, Alvarez J, Tangpricha V (2014): Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract., 20:341­51.
+#Velavan T, Meyer C (2020): Mild versus severe COVID-19: Laboratory markers. Int J Infect Dis., 95:304-7.
+---
+!!!!VitaminDWiki – ((COVID-19 treated by Vitamin D - studies, reports, videos))
+{include page=&quot;COVID-19 treated by Vitamin D - studies, reports, videos&quot; start=&quot;~tc~ startsum ~/tc~&quot; stop=&quot;~tc~ endsum ~/tc~&quot;}
+
+*{img type=&quot;src&quot; src=&quot;https://c19vitamind.com/dsummary.png&quot; width=&quot;900&quot;}
+**The above image is automatically updated
+---
+!!!!VitaminDWiki – ((Over 715 Virus studies have Vitamin D in the title))
+---
+!!!!BOTH Virus AND Intervention categories ({SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 97  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} pages)
+{category id=&quot;97+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+
+
+
+~tc~ (alias(15.3 X fewer COVID deaths in those getting Vitamin D injection in ICU – RCT July 2024)) ~/tc~
+</code>
+</pre>

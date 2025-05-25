@@ -27,7 +27,7 @@ Cervical cancer (CC) is becoming a major health issue globally, and radiotherapy
 
 ---
 
-#### See related: <a href="/posts/radiation-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Radiation and Vitamin D - many studies">Radiation and Vitamin D - many studies</a>
+#### See related: [Radiation and Vitamin D - many studies](/posts/radiation-and-vitamin-d-many-studies)
 
 ---
 
@@ -57,7 +57,7 @@ Cervical cancer (CC) is becoming a major health issue globally, and radiotherapy
 
 ---
 
-#### See related: &lt;a href=&quot;/posts/radiation-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Radiation and Vitamin D - many studies&quot;&gt;Radiation and Vitamin D - many studies&lt;/a&gt;
+#### See related: [Radiation and Vitamin D - many studies](/posts/radiation-and-vitamin-d-many-studies)
 
 ---
 

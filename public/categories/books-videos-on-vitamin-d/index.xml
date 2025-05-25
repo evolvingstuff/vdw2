@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Books, Videos on Vitamin D on VitaminDWiki</title><link>//localhost:1313/categories/books-videos-on-vitamin-d.html</link><description>Recent content in Books, Videos on Vitamin D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/books-videos-on-vitamin-d/index.xml" rel="self" type="application/rss+xml"/><item><title>Number 1 Vitamin Deficiency in ALL Autoimmune Conditions - video</title><link>//localhost:1313/posts/number-1-vitamin-deficiency-in-all-autoimmune-conditions-video.html</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/number-1-vitamin-deficiency-in-all-autoimmune-conditions-video.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#dr-berg-8-minutes">Dr. Berg. 8 minutes&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="dr-berg-8-minutes">Dr. Berg. 8 minutes&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s">YouTube&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases&lt;/p>
+&lt;p>0:48 Parathyroid hormone and calcium&lt;/p>
+&lt;p>3:18 The Coimbra protocol&lt;/p>
+&lt;p>3:35 Vitamin D resistance&lt;/p>
+&lt;p>6:05 How to prevent high calcium levels in the blood&lt;/p>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### Dr. Berg. 8 minutes
+
+ **[YouTube](https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s)** 
+
+0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases
+
+0:48 Parathyroid hormone and calcium 
+
+3:18 The Coimbra protocol
+
+3:35 Vitamin D resistance
+
+6:05 How to prevent high calcium levels in the blood 
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!Dr. Berg. 8 minutes`
+│ inner_content: `Dr. Berg. 8 minutes`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Dr. Berg. 8 minutes`
+│ │ inner_content: `Dr. Berg. 8 minutes`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__[https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s|YouTube]__`
+│ inner_content: `[https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s|YouTube]`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s|YouTube]`
+│ │ inner_content: `YouTube`
+│ │ url: `https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `YouTube`
+│ │ │ inner_content: `YouTube`├── TextNode
+│ full_match: `\n0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases\n0:48 Parathyroid hormone and calcium \n3:18 The Coimbra protocol\n3:35 Vitamin D resistance\n6:05 How to prevent high calcium levels in the blood `
+│ inner_content: `\n0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases\n0:48 Parathyroid hormone and calcium \n3:18 The Coimbra protocol\n3:35 Vitamin D resistance\n6:05 How to prevent high calcium levels in the blood `├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Autoimmune)) category contains`
+│ inner_content: `VitaminDWiki – ((Autoimmune)) category contains`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Autoimmune))`
+│ │ inner_content: `Autoimmune`
+│ │ page: `Autoimmune`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Autoimmune`
+│ │ │ inner_content: `Autoimmune`
+│ ├── TextNode
+│ │ full_match: ` category contains`
+│ │ inner_content: ` category contains`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Autoimmune&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Autoimmune&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Autoimmune
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Vitamin D Receptor is associated in over 58 autoimmune studies))`
+│ inner_content: `VitaminDWiki – ((Vitamin D Receptor is associated in over 58 autoimmune studies))`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D Receptor is associated in over 58 autoimmune studies))`
+│ │ inner_content: `Vitamin D Receptor is associated in over 58 autoimmune studies`
+│ │ page: `Vitamin D Receptor is associated in over 58 autoimmune studies`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D Receptor is associated in over 58 autoimmune studies`
+│ │ │ inner_content: `Vitamin D Receptor is associated in over 58 autoimmune studies`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│ inner_content: `VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki - `
+│ │ inner_content: `VitaminDWiki - `
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D Receptor))`
+│ │ inner_content: `Vitamin D Receptor`
+│ │ page: `Vitamin D Receptor`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D Receptor`
+│ │ │ inner_content: `Vitamin D Receptor`
+│ ├── TextNode
+│ │ full_match: ` activation can be increased in many ways`
+│ │ inner_content: ` activation can be increased in many ways`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Vitamin D Receptor&amp;quot; start=&amp;quot;~tc~ startact ~/tc~&amp;quot; stop=&amp;quot;~tc~ endact ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Vitamin D Receptor&amp;quot; start=&amp;quot;~tc~ startact ~/tc~&amp;quot; stop=&amp;quot;~tc~ endact ~/tc~&amp;quot;
+│ │ page: Vitamin D Receptor
+│ │ start: ~tc~ startact ~/tc~
+│ │ stop: ~tc~ endact ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} items in both categories Books-Videos and Autoimmune`
+│ inner_content: `VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} items in both categories Books-Videos and Autoimmune`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki - `
+│ │ inner_content: `VitaminDWiki - `
+│ ├── SqlNode
+│ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL}`
+│ │ inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;`
+│ │ attrs_dict:
+│ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ db: &amp;gt;vitamind
+│ ├── TextNode
+│ │ full_match: ` items in both categories Books-Videos and Autoimmune`
+│ │ inner_content: ` items in both categories Books-Videos and Autoimmune`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── EmphasisNode
+│ full_match: `&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;`
+│ inner_content: `This list is automatically updated`
+│ children:
+│ ├── TextNode
+│ │ full_match: `This list is automatically updated`
+│ │ inner_content: `This list is automatically updated`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── CategoryNode
+│ full_match: `{category id=&amp;quot;28+34&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: id=&amp;quot;28+34&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;
+│ │ id: 28+34
+│ │ types: wiki
+│ │ sort: created_desc
+│ │ split: n
+│ │ and: y
+│ │ sub: n
+│ │ showdescription: n
+│ │ showname: y
+│ │ showtype: n
+│ │ one: y
+│ │ showTitle: n
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!Dr. Berg. 8 minutes
+__[https://www.youtube.com/watch?v=8KUMT9PCwhs&amp;amp;t=73s|YouTube]__
+0:00 Introduction: #1 vitamin deficiency related to autoimmune diseases
+0:48 Parathyroid hormone and calcium 
+3:18 The Coimbra protocol
+3:35 Vitamin D resistance
+6:05 How to prevent high calcium levels in the blood 
+---
+!!!!VitaminDWiki – ((Autoimmune)) category contains
+{include page=&amp;quot;Autoimmune&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!VitaminDWiki – ((Vitamin D Receptor is associated in over 58 autoimmune studies))
+---
+!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways
+{include page=&amp;quot;Vitamin D Receptor&amp;quot; start=&amp;quot;~tc~ startact ~/tc~&amp;quot; stop=&amp;quot;~tc~ endact ~/tc~&amp;quot;}
+---
+!!!!VitaminDWiki - {SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34 OR categId = 28 GROUP BY catObjectId HAVING COUNT(*) &amp;gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &amp;quot;wiki page&amp;quot;{SQL} items in both categories Books-Videos and Autoimmune
+&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;
+{category id=&amp;quot;28+34&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot;- showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}
+&lt;/code>
+&lt;/pre></description></item><item><title>Vitamin D and Health 154 dollar book (abstracts only)</title><link>//localhost:1313/posts/vitamin-d-and-health-154-dollar-book-abstracts-only.html</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-and-health-154-dollar-book-abstracts-only.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#chapter-one---vitamin-d-and-immune-system">Chapter One - Vitamin D and immune system&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chapter-two---vitamin-d-and-bone-health-what-vitamin-d-can-and-cannot-do">Chapter Two - Vitamin D and bone health: What vitamin D can and cannot do&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chapter-three---vitamin-d-and-cardiovascular-diseases">Chapter Three - Vitamin D and cardiovascular diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chapter-four---vitamin-d-and-cancer">Chapter Four - Vitamin D and cancer&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chapter-five---diabetes-and-vitamin-d-the-effect-of-insulin-sensitivity-and-gut-microbial-health">Chapter Five - Diabetes and vitamin D: The effect of insulin sensitivity and gut microbial health&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chapter-six---vitamin-d-alzheimers-disease-and-related-dementia">Chapter Six - Vitamin D, Alzheimer’s disease and related dementia&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chapter-seven---vitamin-d-and-obesity">Chapter Seven - Vitamin D and obesity&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chapter-eight---vitamin-d-and-celiac-disease">Chapter Eight - Vitamin D and celiac disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chapter-nine---vitamin-d-and-viral-infections-infectious-diseases-autoimmune-diseases-and-cancers">Chapter Nine - Vitamin D and viral infections: Infectious diseases, autoimmune diseases, and cancers&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>–-&lt;/p></description></item><item><title>Dr. Holick interview with transcript</title><link>//localhost:1313/posts/dr-holick-interview-with-transcript.html</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/dr-holick-interview-with-transcript.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#michael-holick-vitamin-d--leveraging-sunlight-for-health--ricci-flow-nutrition-podcast">Michael Holick: Vitamin D &amp;amp; Leveraging Sunlight For Health | Ricci Flow Nutrition Podcast&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#how-holick-got-interested-in-vitamin-d">How Holick got interested in Vitamin D&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="michael-holick-vitamin-d--leveraging-sunlight-for-health--ricci-flow-nutrition-podcast">Michael Holick: Vitamin D &amp;amp; Leveraging Sunlight For Health | Ricci Flow Nutrition Podcast&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=Dn6OOzy1co4">YouTube, 58 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>0:00:00.0 &lt;strong>Borg:&lt;/strong> Welcome to the Ricci Flow Nutrition Podcast. My name is &lt;strong>Cameron Borg&lt;/strong> . On this episode, I had the pleasure of speaking with Michael Holick. Michael is an American endocrinologist and world&amp;rsquo;s leading expert on vitamin D. He is known for his discovery of the active form of vitamin D and the development of the assay for the circulating form, one of the most ordered assays ever. Michael has specialized in conditions including psoriasis, osteomalacia, and hypermobility syndromes. He is the author of several popular books including The Vitamin D Solution and The UV Advantage. Michael&amp;rsquo;s work has had a huge impact on medicine and he has been the recipient of many awards including the Linus Pauling Prize in Human Nutrition, the Robert H. Ehrman Award from the American Society of Clinical Nutrition, and NIH&amp;rsquo;s General Clinical Research Center&amp;rsquo;s Program Award for Excellence in Clinical Research.&lt;/p></description></item><item><title>Vitamin D Update Journal has published free PDFs since 2018</title><link>//localhost:1313/posts/vitamin-d-update-journal-has-published-free-pdfs-since-2018.html</link><pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-update-journal-has-published-free-pdfs-since-2018.html</guid><description>&lt;p>&lt;strong>&lt;a href="https://www.vitamind-journal.it/en/archive/">https://www.vitamind-journal.it/en/archive/&lt;/a>&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#2024--1-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfvitamin-d-update-1-2024pdfpdfa">2024 -1 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-update-1-2024.pdf">PDF&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2023-4-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfvitamin-d-update-2023-4-compresspdfpdfpdfa">2023-4 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-update-2023-4-compresspdf.pdf">PDF&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2023-3-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfupdate-2023-3-compresspdfpdfpdfa">2023-3 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/update-2023-3-compresspdf.pdf">PDF&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2023-2-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfupdate-2023-2pdfpdfa">2023-2 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/update-2023-2.pdf">PDF&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2023-1-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfupdate-2023-1-compresspdfpdfpdfa">2023-1 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/update-2023-1-compresspdf.pdf">PDF&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#each-quarter-has-an-editorial-and-bibliographic-updates-often-20-items-for-each-topic">Each quarter has an editorial and bibliographic updates: often 20+ items for each topic&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="2024--1-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfvitamin-d-update-1-2024pdfpdfa">2024 -1 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-update-1-2024.pdf">PDF&lt;/a>&lt;/h4>
+&lt;h5 id="vitamin-d-in-cardiovascular-diseases">Vitamin D in cardiovascular diseases&lt;/h5>
+&lt;h5 id="vitamin-d-and-mental-disorders-update-on-the-latest-evidence-and-focus-on-autism-and-anorexia">Vitamin D and mental disorders: update on the latest evidence and focus on autism and anorexia&lt;/h5>
+&lt;hr>
+&lt;h4 id="2023-4-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfvitamin-d-update-2023-4-compresspdfpdfpdfa">2023-4 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-update-2023-4-compresspdf.pdf">PDF&lt;/a>&lt;/h4>
+&lt;h5 id="vitamin-d-deficiency-and-osteosarcopenia">Vitamin D deficiency and osteosarcopenia&lt;/h5>
+&lt;h5 id="effects-of-vitamin-d-deficiency-on-inflammatory-cytokines">Effects of vitamin D deficiency on inflammatory cytokines&lt;/h5>
+&lt;hr>
+&lt;h4 id="2023-3-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfupdate-2023-3-compresspdfpdfpdfa">2023-3 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/update-2023-3-compresspdf.pdf">PDF&lt;/a>&lt;/h4>
+&lt;h5 id="the-role-of-vitamin-d-in-dermatological-diseases">The role of vitamin D in dermatological diseases&lt;/h5>
+&lt;h5 id="cholecalciferol-or-calcifediol-a-question-of-narrative">Cholecalciferol or calcifediol? A question of narrative!&lt;/h5>
+&lt;hr>
+&lt;h4 id="2023-2-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfupdate-2023-2pdfpdfa">2023-2 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/update-2023-2.pdf">PDF&lt;/a>&lt;/h4>
+&lt;h5 id="vitamin-d-deficiency-in-gynaecological-diseases">Vitamin D deficiency in gynaecological diseases&lt;/h5>
+&lt;h5 id="the-use-of-vitamin-d-in-chronic-kidney-disease">The use of vitamin D in chronic kidney disease&lt;/h5>
+&lt;hr>
+&lt;h4 id="2023-1-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfupdate-2023-1-compresspdfpdfpdfa">2023-1 &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/update-2023-1-compresspdf.pdf">PDF&lt;/a>&lt;/h4>
+&lt;h5 id="vital-study-lights-and-shadows">VITAL Study: lights and shadows&lt;/h5>
+&lt;h5 id="2022-recommendations-of-the-italian-society-for-osteoporosis-vitamin-d">2022 recommendations of the Italian Society for Osteoporosis&amp;hellip; Vitamin D&lt;/h5>
+&lt;p>Summary of the new 2022 recommendations of the Italian Society for Osteoporosis, Mineral Metabolism and Skeletal Diseases (SIOMMMS) for the management of vitamin D deficiency&lt;/p></description></item><item><title>15 Signs of Vitamin D Deficiency - video</title><link>//localhost:1313/posts/15-signs-of-vitamin-d-deficiency-video.html</link><pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/15-signs-of-vitamin-d-deficiency-video.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#video---jan-2024">Video - Jan 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chat-gpt-on-vitamin-d-deficiency----july-2023">Chat-GPT on Vitamin D Deficiency - July 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#24-a-hrefpostscriteria-to-associate-a-health-problem-with-low-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-criteria-to-associate-a-health-problem-with-low-vitamin-dcriteria-to-associate-a-health-problem-with-low-vitamin-da">24+ &lt;a href="//localhost:1313/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Criteria to associate a health problem with low vitamin D">Criteria to associate a health problem with low vitamin D&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="video---jan-2024">Video - Jan 2024&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=omv_3p9eCvo&amp;amp;ab_channel=ForHealthConscious">YouTube 7 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>01:04 ► Lack of Sun Exposure&lt;/p>
+&lt;p>01:25 ► Fatigue and Weakness&lt;/p>
+&lt;p>01:45 ► Bone and Joint Pain&lt;/p>
+&lt;p>02:05 ► Impaired Wound Healing&lt;/p>
+&lt;p>02:26 ► Muscle Pain and Weakness&lt;/p></description></item><item><title>Reduce aging with Vitamin D, Omega-3, Magnesium and Exercise (Patrick video)</title><link>//localhost:1313/posts/reduce-aging-with-vitamin-d-omega-3-magnesium-and-exercise-patrick-video.html</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/reduce-aging-with-vitamin-d-omega-3-magnesium-and-exercise-patrick-video.html</guid><description>&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/smokers-omega-3-patrick.png" alt="image" width="450">
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/reverse-epigenetic-age.png" alt="image" width="450">
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/omega-3-reduces-scd.png" alt="image" width="450">
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#how-micronutrients--exercise-ameliorate-aging---dr-rhondapatrick">How Micronutrients &amp;amp; Exercise Ameliorate Aging - Dr. Rhonda Patrick&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki-a-hrefpostsways-to-improve-health-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-ways-to-improve-healthways-to-improve-healtha">VitaminDWiki &lt;a href="//localhost:1313/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#omega-3-magnesium-boron-and-many-others-a-hrefpostsreasons-for-low-response-to-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-reasons-for-low-response-to-vitamin-dincrease-the-response-to-vitamin-da">Omega-3, Magnesium, Boron and many others &lt;a href="//localhost:1313/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">increase the response to Vitamin D&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="how-micronutrients--exercise-ameliorate-aging---dr-rhondapatrick">How Micronutrients &amp;amp; Exercise Ameliorate Aging - Dr. Rhonda Patrick&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;amp;ab_channel=FoundMyFitness">YouTube - 45 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>(&lt;a href="https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;amp;t=98s">01:38&lt;/a>) Vitamin D&lt;/p>
+&lt;p>(&lt;a href="https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;amp;t=358s">05:58&lt;/a>) How vitamin D deficiency affects mortality risk&lt;/p></description></item><item><title>Prostate Cancer - interview of Dr. Holick by Baggerly - video and transcript</title><link>//localhost:1313/posts/prostate-cancer-interview-of-dr-holick-by-baggerly-video-and-transcript.html</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/prostate-cancer-interview-of-dr-holick-by-baggerly-video-and-transcript.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#diagnosis-prostate-cancer-an-interview-with-dr-michael-holick-and-carole-baggerly">Diagnosis Prostate Cancer: An Interview with Dr. Michael Holick and Carole Baggerly&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#transcript">Transcript&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#his-ongoing-diary-on-facebookhttpswwwfacebookcomsearchtopqholick20prostate20cancer">His ongoing diary on &lt;a href="https://www.facebook.com/search/top?q=holick%20prostate%20cancer">Facebook&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-ha-been-use-to-reduce-hot-flahes-prevent-protate-cancer-etc">Vitamin D ha been use to reduce hot flahes, prevent Protate Cancer, etc.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#psa-rct-problems---2014">PSA RCT problems - 2014&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="diagnosis-prostate-cancer-an-interview-with-dr-michael-holick-and-carole-baggerly">Diagnosis Prostate Cancer: An Interview with Dr. Michael Holick and Carole Baggerly&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=BMjmsmtdYnM&amp;amp;ab_channel=vitaminDaction">YouTube 48 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/hollick-baggerly.png" alt="image" width="400">
+&lt;hr>
+&lt;h4 id="transcript">Transcript&lt;/h4>
+&lt;p>(Actual Start at 0:00:13)&lt;/p>
+&lt;p>0:02:33.6 &lt;strong>Carole:&lt;/strong> Welcome to one of our fantastic interviews with Dr Michael Holick. Dr. Holick today is gonna talk with us about prostate cancer and what he&amp;rsquo;s done about it. Obviously, he&amp;rsquo;s got it. So we need to know more about how he has been working with it and any advice he has for those that could benefit. So Dr. Holick, why don&amp;rsquo;t you kick it off.&lt;/p></description></item><item><title>COVID, Vitamin D, Drs. Grimes and Campbell</title><link>//localhost:1313/posts/covid-vitamin-d-drs-grimes-and-campbell.html</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/covid-vitamin-d-drs-grimes-and-campbell.html</guid><description>&lt;h4 id="the-second-pandemic">The second pandemic&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=sp21CPCVNAw&amp;amp;ab_channel=Dr.JohnCampbell">first interview 83 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=2hO7fniCbmw&amp;amp;t=3577s&amp;amp;ab_channel=Dr.JohnCampbell">2nd interview Feb 2024 67 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;h4 id="hypothesis-the-body-consumes-vitamin-d-each-time-the-immune-system-is-activated">Hypothesis: The body consumes Vitamin D each time the immune system is activated&lt;/h4>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vaccinations-might-reduce-vitamin-d.png" alt="image" width="600">
+&lt;p>The &amp;ldquo;GREEN&amp;rdquo; person started with a high level of Vitammin D&lt;/p>
+&lt;p>This assumes no vitamin D supplementation by supplements, sun, etc.&lt;/p>
+&lt;h4 id="video-sections">Video sections&lt;/h4>
+&lt;p>00:00:00 - Intro&lt;/p>
+&lt;p>00:00:02 - Vitamin D importance for immunity&lt;/p>
+&lt;p>00:06:37 - Vitamin D production and deficiency&lt;/p>
+&lt;p>00:13:23 - Covid-19 impact on doctors, vitamin D deficiency.&lt;/p></description></item><item><title>Vitamin D Danger - Women need 70 ng for optimal Estrogen - video and transcript</title><link>//localhost:1313/posts/vitamin-d-danger-women-need-70-ng-for-optimal-estrogen-video-and-transcript.html</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-danger-women-need-70-ng-for-optimal-estrogen-video-and-transcript.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-1-vitamin-d-danger-you-must-know--dr-mindy-pelz">The #1 Vitamin D Danger You Must Know! | Dr. Mindy Pelz&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#transcript">Transcript&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-1-vitamin-d-danger-you-must-know--dr-mindy-pelz">The #1 Vitamin D Danger You Must Know! | Dr. Mindy Pelz&lt;/h4>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/pelz.png" alt="image" width="200">
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=5lc1jOp1LA4&amp;amp;ab_channel=Dr.MindyPelz">YouTube&lt;/a> 14 minute&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h4 id="transcript">Transcript&lt;/h4>
+&lt;p>0:00:00.1 Pelz: &lt;strong>vitamin d&lt;/strong> , we gotta talk about it. It&amp;rsquo;s too important. And I have done videos quoting many studies here. I&amp;rsquo;ve got a lot more for you to understand about &lt;strong>vitamin d&lt;/strong> . I will put all the studies and all the links to those of you that are science hounds in the notes to this video. But I feel like this is one of those videos, we gotta roll up our sleeves and we gotta have a serious talk because so many of you are low in &lt;strong>vitamin d&lt;/strong> . And &lt;strong>vitamin d&lt;/strong> , hopefully, you know, is not only supportive of the immune system, but you need it for hormonal production. In fact, &lt;strong>vitamin d&lt;/strong> is not even considered a vitamin, it&amp;rsquo;s a hormone and it&amp;rsquo;s in charge of a thousand different processes in your body.&lt;/p></description></item><item><title>Vitamin D Miracle: Dr.'s Marik, Cole, Malone, Jocker, etc.</title><link>//localhost:1313/posts/vitamin-d-miracle-drs-marik-cole-malone-jocker-etc.html</link><pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-miracle-drs-marik-cole-malone-jocker-etc.html</guid><description>&lt;h4 id="the-miracle-vitamin--vitamin-d">The Miracle Vitamin – Vitamin D&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.sunfellow.com/miracle-vitamin-d/">Compiled by David Sunfellow&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/marik.png" alt="image" width="600">
+&lt;p>See also at VitaminDWiki:&lt;/p>
+&lt;p>&lt;a href="//localhost:1313/posts/a-medical-school-covid-19-protocol-includes-vitamin-d-for-all-phases-marik" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A Medical School COVID-19 protocol includes Vitamin D for all phases – Marik Nov 2020">A Medical School COVID-19 protocol includes Vitamin D for all phases – Marik Nov 2020&lt;/a>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/malone.png" alt="image" width="600">
+&lt;p>See also at VitaminDWiki:&lt;/p>
+&lt;p>&lt;a href="//localhost:1313/posts/covid-19-is-treatable-and-preventable-with-vitamin-d-dr-malone" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 Is Treatable and Preventable With Vitamin D: Dr. Malone - May 24, 2022">COVID-19 Is Treatable and Preventable With Vitamin D: Dr. Malone - May 24, 2022&lt;/a>&lt;/p></description></item><item><title>Is It Safe to Take 10,000 IU of Vitamin D3 (yes, if take K2, etc) - video</title><link>//localhost:1313/posts/is-it-safe-to-take-10000-iu-of-vitamin-d3-yes-if-take-k2-etc-video.html</link><pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/is-it-safe-to-take-10000-iu-of-vitamin-d3-yes-if-take-k2-etc-video.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#is-it-safe-to-take-10000-iu-of-vitamin-d3-dr-berg-explains">Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="is-it-safe-to-take-10000-iu-of-vitamin-d3-dr-berg-explains">Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.youtube.com/watch?v=uAfVC4l5uZ0&amp;amp;ab_channel=Dr.EricBergDC">YouTube 9 minutes&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>The video references a chart made by VitaminDWiki&lt;/p>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="//localhost:1313/attachments/d3.mock.jpg" alt="image" width="500">
+&lt;p>&lt;strong>Vertical axis = log of IU,    Horizontal axis = log of weeks&lt;/strong>&lt;/p>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains
+
+ **[YouTube 9 minutes](https://www.youtube.com/watch?v=uAfVC4l5uZ0&amp;amp;ab_channel=Dr.EricBergDC)** 
+
+The video references a chart made by VitaminDWiki
+
+ **&amp;lt;a href=&amp;quot;/posts/overview-toxicity-of-vitamin-d&amp;quot; style=&amp;quot;color: red; text-decoration: underline;&amp;quot; title=&amp;quot;This post/category does not exist yet: Overview Toxicity of vitamin D&amp;quot;&amp;gt;Overview Toxicity of vitamin D&amp;lt;/a&amp;gt;** 
+
+&amp;lt;img src=&amp;quot;/attachments/d3.mock.jpg&amp;quot; alt=&amp;quot;image&amp;quot; width=&amp;quot;500&amp;quot;&amp;gt;
+
+ **Vertical axis = log of IU,    Horizontal axis = log of weeks** 
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains`
+│ inner_content: `Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains`
+│ │ inner_content: `Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__[https://www.youtube.com/watch?v=uAfVC4l5uZ0&amp;amp;ab_channel=Dr.EricBergDC|YouTube 9 minutes]__`
+│ inner_content: `[https://www.youtube.com/watch?v=uAfVC4l5uZ0&amp;amp;ab_channel=Dr.EricBergDC|YouTube 9 minutes]`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.youtube.com/watch?v=uAfVC4l5uZ0&amp;amp;ab_channel=Dr.EricBergDC|YouTube 9 minutes]`
+│ │ inner_content: `YouTube 9 minutes`
+│ │ url: `https://www.youtube.com/watch?v=uAfVC4l5uZ0&amp;amp;ab_channel=Dr.EricBergDC`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `YouTube 9 minutes`
+│ │ │ inner_content: `YouTube 9 minutes`├── TextNode
+│ full_match: `\n\nThe video references a chart made by VitaminDWiki\n`
+│ inner_content: `\n\nThe video references a chart made by VitaminDWiki\n`├── BoldNode
+│ full_match: `__((Overview Toxicity of vitamin D))__`
+│ inner_content: `((Overview Toxicity of vitamin D))`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Overview Toxicity of vitamin D))`
+│ │ inner_content: `Overview Toxicity of vitamin D`
+│ │ page: `Overview Toxicity of vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Toxicity of vitamin D`
+│ │ │ inner_content: `Overview Toxicity of vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ImgNode
+│ full_match: `{img fileId=&amp;quot;1485&amp;quot; width=&amp;quot;500&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: fileId=&amp;quot;1485&amp;quot; width=&amp;quot;500&amp;quot;
+│ │ fileId: 1485
+│ │ width: 500├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__Vertical axis = log of IU,    Horizontal axis = log of weeks__`
+│ inner_content: `Vertical axis = log of IU,    Horizontal axis = log of weeks`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vertical axis = log of IU,    Horizontal axis = log of weeks`
+│ │ inner_content: `Vertical axis = log of IU,    Horizontal axis = log of weeks`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!50 recently changed items in ((Books, videos on Vitamin D)) category`
+│ inner_content: `50 recently changed items in ((Books, videos on Vitamin D)) category`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `50 recently changed items in `
+│ │ inner_content: `50 recently changed items in `
+│ ├── LocalLinkNode
+│ │ full_match: `((Books, videos on Vitamin D))`
+│ │ inner_content: `Books, videos on Vitamin D`
+│ │ page: `Books, videos on Vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Books, videos on Vitamin D`
+│ │ │ inner_content: `Books, videos on Vitamin D`
+│ ├── TextNode
+│ │ full_match: ` category`
+│ │ inner_content: ` category`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── EmphasisNode
+│ full_match: `&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;`
+│ inner_content: `This list is automatically updated`
+│ children:
+│ ├── TextNode
+│ │ full_match: `This list is automatically updated`
+│ │ inner_content: `This list is automatically updated`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── DivNode
+│ full_match: `{DIV(class=&amp;quot;hide2columns&amp;quot;)}{LISTPAGES(categId=28, max=50, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}{DIV}`
+│ inner_content: `{LISTPAGES(categId=28, max=50, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;hide2columns&amp;quot;)
+│ │ class: hide2columns
+│ children:
+│ ├── ListPagesNode
+│ │ full_match: `{LISTPAGES(categId=28, max=50, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}`
+│ │ inner_content: ` `
+│ │ attrs_dict:
+│ │ │ raw_content: categId=28, max=50, sort=&amp;quot;lastModif_desc&amp;quot;
+│ │ │ categId: 28
+│ │ │ max: 50
+│ │ │ sort: lastModif_desc
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: ` `
+│ │ │ inner_content: ` `├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Overview Vitamin K and Vitamin D)) contains `
+│ inner_content: `VitaminDWiki – ((Overview Vitamin K and Vitamin D)) contains`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Overview Vitamin K and Vitamin D))`
+│ │ inner_content: `Overview Vitamin K and Vitamin D`
+│ │ page: `Overview Vitamin K and Vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Vitamin K and Vitamin D`
+│ │ │ inner_content: `Overview Vitamin K and Vitamin D`
+│ ├── TextNode
+│ │ full_match: ` contains`
+│ │ inner_content: ` contains`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Overview Vitamin K and Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Overview Vitamin K and Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Overview Vitamin K and Vitamin D
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains
+__[https://www.youtube.com/watch?v=uAfVC4l5uZ0&amp;amp;ab_channel=Dr.EricBergDC|YouTube 9 minutes]__
+
+The video references a chart made by VitaminDWiki
+__((Overview Toxicity of vitamin D))__
+{img fileId=&amp;quot;1485&amp;quot; width=&amp;quot;500&amp;quot;}
+__Vertical axis = log of IU,    Horizontal axis = log of weeks__
+---
+!!!!50 recently changed items in ((Books, videos on Vitamin D)) category
+&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;
+{DIV(class=&amp;quot;hide2columns&amp;quot;)}{LISTPAGES(categId=28, max=50, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}{DIV}
+---
+!!!!VitaminDWiki – ((Overview Vitamin K and Vitamin D)) contains 
+{include page=&amp;quot;Overview Vitamin K and Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+
+&lt;/code>
+&lt;/pre></description></item></channel></rss>

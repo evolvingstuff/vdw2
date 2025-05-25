@@ -103,7 +103,7 @@ Presented to the group in Australia that has a goal of becoming the  **healthies
 
 [YouTube 81 minutes](https://www.youtube.com/watch?v=wGxojTJsrOA&ab_channel=MaxGulhaneMD)
 
- **In VitaminDWiki <a href="/posts/sunlight-or-uva-provide-cardiovascular-benefits-no-dialates-the-vessels-weller" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunlight or UVA provide cardiovascular benefits (NO dialates the vessels) – Weller April 2024">Sunlight or UVA provide cardiovascular benefits (NO dialates the vessels) – Weller April 2024</a>** 
+ **In VitaminDWiki [Sunlight or UVA provide cardiovascular benefits (NO dialates the vessels) – Weller April 2024](/posts/sunlight-or-uva-provide-cardiovascular-benefits-no-dialates-the-vessels-weller)** 
 
 ---
 
@@ -248,7 +248,7 @@ Presented to the group in Australia that has a goal of becoming the  **healthies
 
 [YouTube 81 minutes](https://www.youtube.com/watch?v=wGxojTJsrOA&amp;ab_channel=MaxGulhaneMD)
 
- **In VitaminDWiki &lt;a href=&quot;/posts/sunlight-or-uva-provide-cardiovascular-benefits-no-dialates-the-vessels-weller&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sunlight or UVA provide cardiovascular benefits (NO dialates the vessels) – Weller April 2024&quot;&gt;Sunlight or UVA provide cardiovascular benefits (NO dialates the vessels) – Weller April 2024&lt;/a&gt;** 
+ **In VitaminDWiki [Sunlight or UVA provide cardiovascular benefits (NO dialates the vessels) – Weller April 2024](/posts/sunlight-or-uva-provide-cardiovascular-benefits-no-dialates-the-vessels-weller)** 
 
 ---
 

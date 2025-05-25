@@ -83,19 +83,19 @@ Relevance: Since there is a paucity of data in our setup and also because of lon
 
 * [Children had a better response to Vitamin D given every 2 weeks than daily – RCT Aug 2024](/posts/children-had-a-better-response-to-vitamin-d-given-every-2-weeks-than-daily-rct)
 
-* <a href="/posts/growing-pains-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Growing pains associated with low Vitamin D - many studies">Growing pains associated with low Vitamin D - many studies</a>
+* [Growing pains associated with low Vitamin D - many studies](/posts/growing-pains-associated-with-low-vitamin-d-many-studies)
 
-* <a href="/posts/urinary-tract-infection-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Urinary Tract Infection and Vitamin D – several studies">Urinary Tract Infection and Vitamin D – several studies</a>
+* [Urinary Tract Infection and Vitamin D – several studies](/posts/urinary-tract-infection-and-vitamin-d-several-studies)
 
-* <a href="/posts/growing-pains-reduced-in-91-percent-of-children-with-a-single-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Growing pains reduced in 91% of children with a single dose of Vitamin D – July 2024">Growing pains reduced in 91% of children with a single dose of Vitamin D – July 2024</a>
+* [Growing pains reduced in 91% of children with a single dose of Vitamin D – July 2024](/posts/growing-pains-reduced-in-91-percent-of-children-with-a-single-dose-of-vitamin-d)
 
-* <a href="/posts/bedwetting-more-frequent-if-vitamin-d-levels-less-than-14-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bedwetting more frequent if Vitamin D levels less than 14 ng – June 2024">Bedwetting more frequent if Vitamin D levels less than 14 ng – June 2024</a>
+* [Bedwetting more frequent if Vitamin D levels less than 14 ng – June 2024](/posts/bedwetting-more-frequent-if-vitamin-d-levels-less-than-14-ng)
 
-* <a href="/posts/vitamin-d-levels-are-low-during-recurrent-wheezing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels are low during Recurrent Wheezing - Feb 2024">Vitamin D levels are low during Recurrent Wheezing - Feb 2024</a>
+* [Vitamin D levels are low during Recurrent Wheezing - Feb 2024](/posts/vitamin-d-levels-are-low-during-recurrent-wheezing)
 
-* <a href="/posts/diarrhea-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diarrhea and Vitamin D - many studies">Diarrhea and Vitamin D - many studies</a>
+* [Diarrhea and Vitamin D - many studies](/posts/diarrhea-and-vitamin-d-many-studies)
 
-* <a href="/posts/childhood-cancers-vitamin-d-can-help-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Childhood Cancers - Vitamin D can help - many studies">Childhood Cancers - Vitamin D can help - many studies</a>
+* [Childhood Cancers - Vitamin D can help - many studies](/posts/childhood-cancers-vitamin-d-can-help-many-studies)
 
 * <a href="/posts/caries-in-deciduous-teeth-about-2x-more-likely-if-low-vitamin-d-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Caries in deciduous teeth about 2X more likely if low vitamin D – Review Nov 2023">Caries in deciduous teeth about 2X more likely if low vitamin D – Review Nov 2023</a>
 
@@ -187,19 +187,19 @@ Relevance: Since there is a paucity of data in our setup and also because of lon
 
 * [Children had a better response to Vitamin D given every 2 weeks than daily – RCT Aug 2024](/posts/children-had-a-better-response-to-vitamin-d-given-every-2-weeks-than-daily-rct)
 
-* &lt;a href=&quot;/posts/growing-pains-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Growing pains associated with low Vitamin D - many studies&quot;&gt;Growing pains associated with low Vitamin D - many studies&lt;/a&gt;
+* [Growing pains associated with low Vitamin D - many studies](/posts/growing-pains-associated-with-low-vitamin-d-many-studies)
 
-* &lt;a href=&quot;/posts/urinary-tract-infection-and-vitamin-d-several-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Urinary Tract Infection and Vitamin D – several studies&quot;&gt;Urinary Tract Infection and Vitamin D – several studies&lt;/a&gt;
+* [Urinary Tract Infection and Vitamin D – several studies](/posts/urinary-tract-infection-and-vitamin-d-several-studies)
 
-* &lt;a href=&quot;/posts/growing-pains-reduced-in-91-percent-of-children-with-a-single-dose-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Growing pains reduced in 91% of children with a single dose of Vitamin D – July 2024&quot;&gt;Growing pains reduced in 91% of children with a single dose of Vitamin D – July 2024&lt;/a&gt;
+* [Growing pains reduced in 91% of children with a single dose of Vitamin D – July 2024](/posts/growing-pains-reduced-in-91-percent-of-children-with-a-single-dose-of-vitamin-d)
 
-* &lt;a href=&quot;/posts/bedwetting-more-frequent-if-vitamin-d-levels-less-than-14-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bedwetting more frequent if Vitamin D levels less than 14 ng – June 2024&quot;&gt;Bedwetting more frequent if Vitamin D levels less than 14 ng – June 2024&lt;/a&gt;
+* [Bedwetting more frequent if Vitamin D levels less than 14 ng – June 2024](/posts/bedwetting-more-frequent-if-vitamin-d-levels-less-than-14-ng)
 
-* &lt;a href=&quot;/posts/vitamin-d-levels-are-low-during-recurrent-wheezing&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels are low during Recurrent Wheezing - Feb 2024&quot;&gt;Vitamin D levels are low during Recurrent Wheezing - Feb 2024&lt;/a&gt;
+* [Vitamin D levels are low during Recurrent Wheezing - Feb 2024](/posts/vitamin-d-levels-are-low-during-recurrent-wheezing)
 
-* &lt;a href=&quot;/posts/diarrhea-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diarrhea and Vitamin D - many studies&quot;&gt;Diarrhea and Vitamin D - many studies&lt;/a&gt;
+* [Diarrhea and Vitamin D - many studies](/posts/diarrhea-and-vitamin-d-many-studies)
 
-* &lt;a href=&quot;/posts/childhood-cancers-vitamin-d-can-help-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Childhood Cancers - Vitamin D can help - many studies&quot;&gt;Childhood Cancers - Vitamin D can help - many studies&lt;/a&gt;
+* [Childhood Cancers - Vitamin D can help - many studies](/posts/childhood-cancers-vitamin-d-can-help-many-studies)
 
 * &lt;a href=&quot;/posts/caries-in-deciduous-teeth-about-2x-more-likely-if-low-vitamin-d-review&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Caries in deciduous teeth about 2X more likely if low vitamin D – Review Nov 2023&quot;&gt;Caries in deciduous teeth about 2X more likely if low vitamin D – Review Nov 2023&lt;/a&gt;
 

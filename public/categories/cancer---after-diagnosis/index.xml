@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cancer - After Diagnosis on VitaminDWiki</title><link>//localhost:1313/categories/cancer---after-diagnosis.html</link><description>Recent content in Cancer - After Diagnosis on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/cancer---after-diagnosis/index.xml" rel="self" type="application/rss+xml"/><item><title>Radiation and Vitamin D - many studies</title><link>//localhost:1313/posts/radiation-and-vitamin-d-many-studies.html</link><pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/radiation-and-vitamin-d-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#as-with-a-hrefpostschemotherapy-and-vitamin-d-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-chemotherapy-and-vitamin-d---many-studieschemotherapya-must-be-sure-that-the-cure-is-not-so-amplified-that-it-kills-the-patient">As with &lt;a href="//localhost:1313/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy&lt;/a>, must be sure that the cure is not so amplified that it kills the patient&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="as-with-a-hrefpostschemotherapy-and-vitamin-d-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-chemotherapy-and-vitamin-d---many-studieschemotherapya-must-be-sure-that-the-cure-is-not-so-amplified-that-it-kills-the-patient">As with &lt;a href="//localhost:1313/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy&lt;/a>, must be sure that the cure is not so amplified that it kills the patient&lt;/h4>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### As with &amp;lt;a href=&amp;quot;/posts/chemotherapy-and-vitamin-d-many-studies&amp;quot; style=&amp;quot;color: red; text-decoration: underline;&amp;quot; title=&amp;quot;This post/category does not exist yet: Chemotherapy and vitamin D - many studies&amp;quot;&amp;gt;Chemotherapy&amp;lt;/a&amp;gt;, must be sure that the cure is not so amplified that it kills the patient
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!~~#F06:14+~~ VitaminDWiki pages have both RADIATION and VITAMIN (not solar) in the title `
+│ inner_content: `~~#F06:14+~~ VitaminDWiki pages have both RADIATION and VITAMIN (not solar) in the title`
+│ level: `4`
+│ children:
+│ ├── ColorNode
+│ │ full_match: `~~#F06:14+~~`
+│ │ inner_content: `14+`
+│ │ attrs_dict:
+│ │ │ raw_content: #F06
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `14+`
+│ │ │ inner_content: `14+`
+│ ├── TextNode
+│ │ full_match: ` VitaminDWiki pages have both RADIATION and VITAMIN (not solar) in the title`
+│ │ inner_content: ` VitaminDWiki pages have both RADIATION and VITAMIN (not solar) in the title`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── EmphasisNode
+│ full_match: `&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;`
+│ inner_content: `This list is automatically updated`
+│ children:
+│ ├── TextNode
+│ │ full_match: `This list is automatically updated`
+│ │ inner_content: `This list is automatically updated`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListNode
+│ full_match: `{LIST()}\n{list max=&amp;quot;100&amp;quot;}\n{filter type=&amp;quot;wiki page&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;RADIATION AND VITAMIN&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT SOLAR&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT UV&amp;quot;}\n{sort mode=&amp;quot;modification_date_major_desc&amp;quot;}\n{OUTPUT(template=&amp;quot;table&amp;quot;)}\n{tableparams allowtableexpansion=&amp;quot;n&amp;quot; shownbitems=&amp;quot;y&amp;quot; title=&amp;quot;&amp;quot;}\n{column sort=&amp;quot;title&amp;quot; label=&amp;quot;Title&amp;quot; field=&amp;quot;title&amp;quot; mode=&amp;quot;raw&amp;quot;}{column}\n{column label=&amp;quot;Modified&amp;quot; sort=&amp;quot;modification_date_major&amp;quot; field=&amp;quot;modification_date_major&amp;quot;}\n{OUTPUT}\n{FORMAT(name=&amp;quot;title&amp;quot;)}{display name=title format=&amp;quot;objectlink&amp;quot;}{FORMAT}\n{FORMAT(name=&amp;quot;modification_date_major&amp;quot;)}{display name=modification_date_major format=&amp;quot;date&amp;quot;}{FORMAT}\n{LIST}`
+│ inner_content: `\n{list max=&amp;quot;100&amp;quot;}\n{filter type=&amp;quot;wiki page&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;RADIATION AND VITAMIN&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT SOLAR&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT UV&amp;quot;}\n{sort mode=&amp;quot;modification_date_major_desc&amp;quot;}\n{OUTPUT(template=&amp;quot;table&amp;quot;)}\n{tableparams allowtableexpansion=&amp;quot;n&amp;quot; shownbitems=&amp;quot;y&amp;quot; title=&amp;quot;&amp;quot;}\n{column sort=&amp;quot;title&amp;quot; label=&amp;quot;Title&amp;quot; field=&amp;quot;title&amp;quot; mode=&amp;quot;raw&amp;quot;}{column}\n{column label=&amp;quot;Modified&amp;quot; sort=&amp;quot;modification_date_major&amp;quot; field=&amp;quot;modification_date_major&amp;quot;}\n{OUTPUT}\n{FORMAT(name=&amp;quot;title&amp;quot;)}{display name=title format=&amp;quot;objectlink&amp;quot;}{FORMAT}\n{FORMAT(name=&amp;quot;modification_date_major&amp;quot;)}{display name=modification_date_major format=&amp;quot;date&amp;quot;}{FORMAT}\n`
+│ attrs_dict:
+│ │ raw_content: 
+│ children:
+│ ├── TextNode
+│ │ full_match: `\n{list max=&amp;quot;100&amp;quot;}\n{filter type=&amp;quot;wiki page&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;RADIATION AND VITAMIN&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT SOLAR&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT UV&amp;quot;}\n{sort mode=&amp;quot;modification_date_major_desc&amp;quot;}\n{OUTPUT(template=&amp;quot;table&amp;quot;)}\n{tableparams allowtableexpansion=&amp;quot;n&amp;quot; shownbitems=&amp;quot;y&amp;quot; title=&amp;quot;&amp;quot;}\n{column sort=&amp;quot;title&amp;quot; label=&amp;quot;Title&amp;quot; field=&amp;quot;title&amp;quot; mode=&amp;quot;raw&amp;quot;}{column}\n{column label=&amp;quot;Modified&amp;quot; sort=&amp;quot;modification_date_major&amp;quot; field=&amp;quot;modification_date_major&amp;quot;}\n{OUTPUT}\n{FORMAT(name=&amp;quot;title&amp;quot;)}{display name=title format=&amp;quot;objectlink&amp;quot;}{FORMAT}\n{FORMAT(name=&amp;quot;modification_date_major&amp;quot;)}{display name=modification_date_major format=&amp;quot;date&amp;quot;}{FORMAT}\n`
+│ │ inner_content: `\n{list max=&amp;quot;100&amp;quot;}\n{filter type=&amp;quot;wiki page&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;RADIATION AND VITAMIN&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT SOLAR&amp;quot;}\n{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT UV&amp;quot;}\n{sort mode=&amp;quot;modification_date_major_desc&amp;quot;}\n{OUTPUT(template=&amp;quot;table&amp;quot;)}\n{tableparams allowtableexpansion=&amp;quot;n&amp;quot; shownbitems=&amp;quot;y&amp;quot; title=&amp;quot;&amp;quot;}\n{column sort=&amp;quot;title&amp;quot; label=&amp;quot;Title&amp;quot; field=&amp;quot;title&amp;quot; mode=&amp;quot;raw&amp;quot;}{column}\n{column label=&amp;quot;Modified&amp;quot; sort=&amp;quot;modification_date_major&amp;quot; field=&amp;quot;modification_date_major&amp;quot;}\n{OUTPUT}\n{FORMAT(name=&amp;quot;title&amp;quot;)}{display name=title format=&amp;quot;objectlink&amp;quot;}{FORMAT}\n{FORMAT(name=&amp;quot;modification_date_major&amp;quot;)}{display name=modification_date_major format=&amp;quot;date&amp;quot;}{FORMAT}\n`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!As with ((Chemotherapy and vitamin D - many studies|Chemotherapy)), must be sure that the cure is not so amplified that it kills the patient`
+│ inner_content: `As with ((Chemotherapy and vitamin D - many studies|Chemotherapy)), must be sure that the cure is not so amplified that it kills the patient`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `As with `
+│ │ inner_content: `As with `
+│ ├── AliasedLocalLinkNode
+│ │ full_match: `((Chemotherapy and vitamin D - many studies|Chemotherapy))`
+│ │ inner_content: `Chemotherapy and vitamin D - many studies|Chemotherapy`
+│ │ page: `Chemotherapy and vitamin D - many studies`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Chemotherapy and vitamin D - many studies|Chemotherapy`
+│ │ │ inner_content: `Chemotherapy and vitamin D - many studies|Chemotherapy`
+│ ├── TextNode
+│ │ full_match: `, must be sure that the cure is not so amplified that it kills the patient`
+│ │ inner_content: `, must be sure that the cure is not so amplified that it kills the patient`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!~~#F06:14+~~ VitaminDWiki pages have both RADIATION and VITAMIN (not solar) in the title 
+&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;
+{LIST()}
+{list max=&amp;quot;100&amp;quot;}
+ {filter type=&amp;quot;wiki page&amp;quot;}
+{filter field=&amp;quot;title&amp;quot; content=&amp;quot;RADIATION AND VITAMIN&amp;quot;}
+{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT SOLAR&amp;quot;}
+{filter field=&amp;quot;title&amp;quot; content=&amp;quot;NOT UV&amp;quot;}
+ {sort mode=&amp;quot;modification_date_major_desc&amp;quot;}
+{OUTPUT(template=&amp;quot;table&amp;quot;)}
+ {tableparams allowtableexpansion=&amp;quot;n&amp;quot; shownbitems=&amp;quot;y&amp;quot; title=&amp;quot;&amp;quot;}
+ {column sort=&amp;quot;title&amp;quot; label=&amp;quot;Title&amp;quot; field=&amp;quot;title&amp;quot; mode=&amp;quot;raw&amp;quot;}{column}
+ {column label=&amp;quot;Modified&amp;quot; sort=&amp;quot;modification_date_major&amp;quot; field=&amp;quot;modification_date_major&amp;quot;}
+{OUTPUT}
+{FORMAT(name=&amp;quot;title&amp;quot;)}{display name=title format=&amp;quot;objectlink&amp;quot;}{FORMAT}
+{FORMAT(name=&amp;quot;modification_date_major&amp;quot;)}{display name=modification_date_major format=&amp;quot;date&amp;quot;}{FORMAT}
+{LIST}
+---
+!!!!As with ((Chemotherapy and vitamin D - many studies|Chemotherapy)), must be sure that the cure is not so amplified that it kills the patient
+
+&lt;/code>
+&lt;/pre></description></item><item><title>High Dose Vitamin D reduces skin problems during Cancer Treatment</title><link>//localhost:1313/posts/high-dose-vitamin-d-reduces-skin-problems-during-cancer-treatment.html</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/high-dose-vitamin-d-reduces-skin-problems-during-cancer-treatment.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#high-dose-oral-vitamin-d-an-emerging-therapeutic-for-skin-toxicities-associated-with-cancer-treatment">High Dose Oral Vitamin D: an Emerging Therapeutic for Skin Toxicities Associated with Cancer Treatment&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#topical-vitamin-d-is-far-better-than-oral-100x-higher-concentration-for-most-skin-problems">Topical Vitamin D is far better than oral (&amp;gt;100X higher concentration) for most skin problems&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="high-dose-oral-vitamin-d-an-emerging-therapeutic-for-skin-toxicities-associated-with-cancer-treatment">High Dose Oral Vitamin D: an Emerging Therapeutic for Skin Toxicities Associated with Cancer Treatment&lt;/h4>
+&lt;p>Journal of the American Academy of Dermatology – May 1, 2024 &lt;a href="https://doi.org/10.1016/j.jaad.2024.05.027">https://doi.org/10.1016/j.jaad.2024.05.027&lt;/a> &lt;strong>PDF behind paywall&lt;/strong>&lt;/p>
+&lt;p>Choi, Stephanie; Iriarte, Christopher&lt;/p>
+&lt;hr>
+&lt;h4 id="topical-vitamin-d-is-far-better-than-oral-100x-higher-concentration-for-most-skin-problems">Topical Vitamin D is far better than oral (&amp;gt;100X higher concentration) for most skin problems&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="//localhost:1313/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies">Topical Vitamin D provides more benefits than oral sometimes - many studies&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Vitamin D needed to treat Breast Cancer varied by 70X</title><link>//localhost:1313/posts/vitamin-d-needed-to-treat-breast-cancer-varied-by-70x.html</link><pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-needed-to-treat-breast-cancer-varied-by-70x.html</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Personalized Vitamin D dosing&lt;/strong> ranged from 2,000 IU to 140,000 weekly for Breast Cancer:&lt;/p>
+&lt;ul>
+&lt;li>A range of 70 to 1&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Treating healthy people typically requires a range of Vitamin D of only 4 to 1&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The women getting Breast Cancer treatment were clearly not uniformly unhealthy&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>The study failed to note improvement in outcomes vs women not getting Vitamin D&lt;/p>
+&lt;ul>
+&lt;li>Shorter treatment durations, less chemo used, less recurrence&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#course-of-vitamin-d-levels-in-newly-diagnosed-non-metastatic-breast-cancer-patients-over-one-year-with-quarterly-controls-and-substitution">Course of Vitamin D Levels in Newly Diagnosed Non-Metastatic Breast Cancer Patients over One Year with Quarterly Controls and Substitution&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="course-of-vitamin-d-levels-in-newly-diagnosed-non-metastatic-breast-cancer-patients-over-one-year-with-quarterly-controls-and-substitution">Course of Vitamin D Levels in Newly Diagnosed Non-Metastatic Breast Cancer Patients over One Year with Quarterly Controls and Substitution&lt;/h4>
+&lt;p>Nutrients. 2024 Mar 15;16(6):854. &lt;a href="https://doi.org/10.3390/nu16060854.">doi: 10.3390/nu16060854.&lt;/a>&lt;/p></description></item><item><title>Following Digestive Cancer 2,000 IU of Vitamin D were given. Those whose Omega-3 levels rose had fewer Cancer problems – RCT</title><link>//localhost:1313/posts/following-digestive-cancer-2000-iu-of-vitamin-d-were-given-those-whose-omega-3-l-er-problems-rct.html</link><pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/following-digestive-cancer-2000-iu-of-vitamin-d-were-given-those-whose-omega-3-l-er-problems-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#interaction-of-vitamin-d-supplements-and-marine-n-3-fatty-acids-on-digestive-tract-cancer-prognosis">Interaction of Vitamin D Supplements and Marine n-3 Fatty Acids on Digestive Tract Cancer Prognosis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#5-related-items-in-vitamindwiki">5 related items in VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="interaction-of-vitamin-d-supplements-and-marine-n-3-fatty-acids-on-digestive-tract-cancer-prognosis">Interaction of Vitamin D Supplements and Marine n-3 Fatty Acids on Digestive Tract Cancer Prognosis&lt;/h4>
+&lt;p>Cancer Prognosis. Nutrients 2024,16,921. &lt;a href="https://doi.org/10.3390/nul6070921">https://doi.org/10.3390/nul6070921&lt;/a>&lt;/p>
+&lt;p>Soichiro Fukuzato &lt;em>©, Hironori Ohdaira 2, Yutaka Suzuki 2 and Mitsuyoshi Urashima 1,&lt;/em>&lt;/p>
+&lt;p>Division of Molecular Epidemiology, Jikei University School of Medicine, Tokyo 105-8461, Japan; &lt;a href="mailto:sunshine1.324@jikei.ac.jp">sunshine1.324@jikei.ac.jp&lt;/a>&lt;/p>
+&lt;p>Department of Surgery, International University of Health and Welfare Hospital, Narita-shi 286-0048, Japan; &lt;a href="mailto:ohdaira@iuhw.ac.jp">ohdaira@iuhw.ac.jp&lt;/a> (H.O.); &lt;a href="mailto:yutaka@iuhw.ac.jp">yutaka@iuhw.ac.jp&lt;/a> (Y.S.)&lt;/p></description></item><item><title>Vitamin D is Dr. Marik's top repurposed drug for Cancer treatment</title><link>//localhost:1313/posts/vitamin-d-is-dr-mariks-top-repurposed-drug-for-cancer-treatment.html</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/vitamin-d-is-dr-mariks-top-repurposed-drug-for-cancer-treatment.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#from-book-marik-paul-e-cancer-care-the-role-of-repurposed-drugs-and-metabolic-interventions-in-treating-cancer">From Book: Marik, Paul E. Cancer Care: The Role of Repurposed Drugs and Metabolic Interventions in Treating Cancer&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tier-one-repurposed-drugs-strong-recommendation">TIER ONE REPURPOSED DRUGS: STRONG RECOMMENDATION&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d">Vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dr-marik-found-that-conventional-cancer-treatments-generate-big-incomes-but-vitamin-d-etc-does-not">Dr. Marik found that conventional Cancer treatments generate big incomes, but Vitamin D, etc. does not&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#flccc-launches-observational-cancer-study-focused-on-repurposed-drugs---feb-2024">FLCCC Launches Observational Cancer Study Focused on Repurposed Drugs - Feb 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2-of-the-many-videos-with-dr-marik-about-the-book">2 of the many videos with Dr. Marik about the book&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="from-book-marik-paul-e-cancer-care-the-role-of-repurposed-drugs-and-metabolic-interventions-in-treating-cancer">From Book: Marik, Paul E. Cancer Care: The Role of Repurposed Drugs and Metabolic Interventions in Treating Cancer&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.amazon.com/Cancer-Care-Repurposed-Metabolic-Interventions/dp/0960121706/ref=sr_1_1?crid=CRK2FL18WY9G&amp;amp;dib=eyJ2IjoiMSJ9._OOEZPiCnwWiRqsVsviC4wynlzzfu3bWbnDVR06U3YykROrn9dDPIScvwqQTDvPW4Oyo48rHoHGPvuaPtm2gzAhGgMXL2GWir4SUoPq31cfFoiMFNDMISsXiNd0Q_EU0W8tLUrXPKD_e1TGXdTdetAEa_q_PvyVi_c2pyLgWAIaQd1T7WA_6D9GRRH8s0cFp.lh5B89LcKHWdeeN_YItr33TngqE29gQe_rhqskXRTE8&amp;amp;dib_tag=se&amp;amp;keywords=cancer+care+by+dr+paul+marik&amp;amp;qid=1708967346&amp;amp;sprefix=cancer+care%2Caps%2C201&amp;amp;sr=8-1">Amazon Kindle $8&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Opioid and alcohol use disorders increase by 10% after some Cancers (Vit D can help)</title><link>//localhost:1313/posts/opioid-and-alcohol-use-disorders-increase-by-10-percent-after-some-cancers-vit-d-can-help.html</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/opioid-and-alcohol-use-disorders-increase-by-10-percent-after-some-cancers-vit-d-can-help.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#suds-rates-highest-in-head-neck-and-gastric-cancer-survivors">SUDs rates highest in head, neck, and gastric cancer survivors&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-related-in-vitamindwiki">See related in VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="suds-rates-highest-in-head-neck-and-gastric-cancer-survivors">SUDs rates highest in head, neck, and gastric cancer survivors&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://www.mdedge.com/hematology-oncology/article/267385/mixed-topics/suds-rates-highest-head-neck-and-gastric-cancer?ecd=WNL_EVE_240118_mdedge">MD Edge&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&amp;ldquo;Nearly 10% of survivors of head, neck, esophageal, and gastric cancers experienced active &lt;strong>substance use disorders&lt;/strong> , based on data from more than 6,000 individuals.&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Reporting on: Substance Use Disorders Among US Adult Cancer Survivors - Jan 2024 doi:10.1001/jamaoncol.2023.5785 PDF is behind a paywall&lt;/p></description></item><item><title>Better survival of many cancers if higher level of vitamin D</title><link>//localhost:1313/posts/better-survival-of-many-cancers-if-higher-level-of-vitamin-d.html</link><pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/better-survival-of-many-cancers-if-higher-level-of-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-cancer-survival-does-vitamin-d-supplementation-improve-the-survival-of-patients-with-cancer">Vitamin D and Cancer Survival: Does Vitamin D Supplementation Improve the Survival of Patients with Cancer?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-and-cancer-survival-does-vitamin-d-supplementation-improve-the-survival-of-patients-with-cancer">Vitamin D and Cancer Survival: Does Vitamin D Supplementation Improve the Survival of Patients with Cancer?&lt;/h4>
+&lt;p>Curr Oncol Rep 22, 62 (2020). &lt;a href="https://doi.org/10.1007/s11912-020-00929-4">https://doi.org/10.1007/s11912-020-00929-4&lt;/a>&lt;/p>
+&lt;p>Taisuke Akutsu, Hikaru Kitamura, Shoko Himeiwa, Shinto Kitada, Tatsuya Akasu &amp;amp; Mitsuyoshi Urashima&lt;/p>
+&lt;p>&lt;strong>Table of Contents&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cancer-and-d---toc.png" alt="image" width="250">
+&lt;p>Purpose of Review&lt;/p>
+&lt;p>Clinical evidence suggesting the beneficial effects of vitamin D on survival of patients with cancer has been accumulating. Recent articles were thoroughly reviewed to determine if there is enough evidence to conclude that vitamin D supplementation improves survival of patients with cancer.&lt;/p></description></item><item><title>Cancer Immunotherapy is enhanced by a Vitamin D loading dose</title><link>//localhost:1313/posts/cancer-immunotherapy-is-enhanced-by-a-vitamin-d-loading-dose.html</link><pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/cancer-immunotherapy-is-enhanced-by-a-vitamin-d-loading-dose.html</guid><description>&lt;p>&lt;strong>2 Reasons Vitamin D &lt;a href="//localhost:1313/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">loading doses&lt;/a> are good:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>A loading dose provides the benefit of Vitamin D in &amp;lt;1 week instead of many months&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>A high concentration (loading dose) bypasses poor Vitamin D Receptors&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>        Note: Many cancers have &lt;a href="//localhost:1313/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies">&amp;ldquo;learned&amp;rdquo; how to deactivate the Vitamin D Receptor&lt;/a>&lt;/p></description></item></channel></rss>

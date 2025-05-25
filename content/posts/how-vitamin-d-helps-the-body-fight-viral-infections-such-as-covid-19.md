@@ -57,13 +57,13 @@ While further clinical trials and extensive research are warranted, the existing
 
 * <a href="/posts/vitamin-d-helps-the-immune-system-fight-covid-19-sunil-video" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D helps the immune system fight COVID-19 – Sunil video Jan 2021">Vitamin D helps the immune system fight COVID-19 – Sunil video Jan 2021</a>
 
-* <a href="/posts/153-x-fewer-covid-deaths-in-those-getting-vitamin-d-injections-in-icu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 15.3 X fewer COVID deaths in those getting Vitamin D injections in ICU – RCT July 2024">15.3 X fewer COVID deaths in those getting Vitamin D injections in ICU – RCT July 2024</a>
+* [15.3 X fewer COVID deaths in those getting Vitamin D injections in ICU – RCT July 2024](/posts/153-x-fewer-covid-deaths-in-those-getting-vitamin-d-injections-in-icu-rct)
 
-* <a href="/posts/single-600000-iu-dose-of-nanoemulsion-vitamin-d-is-safe-and-effective-to-fight-c-l-enter-icu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Single 600,000 IU dose of nanoemulsion Vitamin D is safe and effective to fight COVID, even if delay until enter ICU – RCT May 2024">Single 600,000 IU dose of nanoemulsion Vitamin D is safe and effective to fight COVID, even if delay until enter ICU – RCT May 2024</a>
+* [Single 600,000 IU dose of nanoemulsion Vitamin D is safe and effective to fight COVID, even if delay until enter ICU – RCT May 2024](/posts/single-600000-iu-dose-of-nanoemulsion-vitamin-d-is-safe-and-effective-to-fight-c-l-enter-icu-rct)
 
-* <a href="/posts/covid-and-vitamin-d-2x-more-likely-to-die-if-low-2x-more-likely-to-survive-if-su-a-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID and Vitamin D: 2X more likely to die if low, 2X more likely to survive if supplement – umbrella meta-analysis April 2024">COVID and Vitamin D: 2X more likely to die if low, 2X more likely to survive if supplement – umbrella meta-analysis April 2024</a>
+* [COVID and Vitamin D: 2X more likely to die if low, 2X more likely to survive if supplement – umbrella meta-analysis April 2024](/posts/covid-and-vitamin-d-2x-more-likely-to-die-if-low-2x-more-likely-to-survive-if-su-a-meta-analysis)
 
-* <a href="/posts/covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024">COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024</a>
+* [COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024](/posts/covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness)
 
 * <a href="/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID infections and vaccinations decrease Vitamin D – many studies">COVID infections and vaccinations decrease Vitamin D – many studies</a>
 
@@ -79,11 +79,11 @@ While further clinical trials and extensive research are warranted, the existing
 
 * <a href="/posts/hpv-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: HPV and Vitamin D - several studies">HPV and Vitamin D - several studies</a>
 
-* <a href="/posts/influenza-risk-cut-in-half-by-the-only-trial-giving-enough-vitamin-d-for-body-weight-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022">Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022</a>
+* [Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022](/posts/influenza-risk-cut-in-half-by-the-only-trial-giving-enough-vitamin-d-for-body-weight-meta-analysis)
 
-* <a href="/posts/viral-conjunctivitis-much-worse-if-low-vitamin-d-in-tears" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Viral conjunctivitis much worse if low vitamin D in tears – April 2024">Viral conjunctivitis much worse if low vitamin D in tears – April 2024</a>
+* [Viral conjunctivitis much worse if low vitamin D in tears – April 2024](/posts/viral-conjunctivitis-much-worse-if-low-vitamin-d-in-tears)
 
-* <a href="/posts/vitamin-d-viral-infections-infectious-diseases-ebv-and-ms-virus-and-cancers-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: Viral infections, Infectious diseases, EBV and MS, Virus and Cancers – Grant March 2024">Vitamin D: Viral infections, Infectious diseases, EBV and MS, Virus and Cancers – Grant March 2024</a>
+* [Vitamin D: Viral infections, Infectious diseases, EBV and MS, Virus and Cancers – Grant March 2024](/posts/vitamin-d-viral-infections-infectious-diseases-ebv-and-ms-virus-and-cancers-grant)
 
 * <a href="/posts/dengue-fever-decimated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dengue Fever decimated by Vitamin D - many studies">Dengue Fever decimated by Vitamin D - many studies</a>
 
@@ -148,13 +148,13 @@ While further clinical trials and extensive research are warranted, the existing
 
 * &lt;a href=&quot;/posts/vitamin-d-helps-the-immune-system-fight-covid-19-sunil-video&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D helps the immune system fight COVID-19 – Sunil video Jan 2021&quot;&gt;Vitamin D helps the immune system fight COVID-19 – Sunil video Jan 2021&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/153-x-fewer-covid-deaths-in-those-getting-vitamin-d-injections-in-icu-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 15.3 X fewer COVID deaths in those getting Vitamin D injections in ICU – RCT July 2024&quot;&gt;15.3 X fewer COVID deaths in those getting Vitamin D injections in ICU – RCT July 2024&lt;/a&gt;
+* [15.3 X fewer COVID deaths in those getting Vitamin D injections in ICU – RCT July 2024](/posts/153-x-fewer-covid-deaths-in-those-getting-vitamin-d-injections-in-icu-rct)
 
-* &lt;a href=&quot;/posts/single-600000-iu-dose-of-nanoemulsion-vitamin-d-is-safe-and-effective-to-fight-c-l-enter-icu-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Single 600,000 IU dose of nanoemulsion Vitamin D is safe and effective to fight COVID, even if delay until enter ICU – RCT May 2024&quot;&gt;Single 600,000 IU dose of nanoemulsion Vitamin D is safe and effective to fight COVID, even if delay until enter ICU – RCT May 2024&lt;/a&gt;
+* [Single 600,000 IU dose of nanoemulsion Vitamin D is safe and effective to fight COVID, even if delay until enter ICU – RCT May 2024](/posts/single-600000-iu-dose-of-nanoemulsion-vitamin-d-is-safe-and-effective-to-fight-c-l-enter-icu-rct)
 
-* &lt;a href=&quot;/posts/covid-and-vitamin-d-2x-more-likely-to-die-if-low-2x-more-likely-to-survive-if-su-a-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID and Vitamin D: 2X more likely to die if low, 2X more likely to survive if supplement – umbrella meta-analysis April 2024&quot;&gt;COVID and Vitamin D: 2X more likely to die if low, 2X more likely to survive if supplement – umbrella meta-analysis April 2024&lt;/a&gt;
+* [COVID and Vitamin D: 2X more likely to die if low, 2X more likely to survive if supplement – umbrella meta-analysis April 2024](/posts/covid-and-vitamin-d-2x-more-likely-to-die-if-low-2x-more-likely-to-survive-if-su-a-meta-analysis)
 
-* &lt;a href=&quot;/posts/covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024&quot;&gt;COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024&lt;/a&gt;
+* [COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024](/posts/covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness)
 
 * &lt;a href=&quot;/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID infections and vaccinations decrease Vitamin D – many studies&quot;&gt;COVID infections and vaccinations decrease Vitamin D – many studies&lt;/a&gt;
 
@@ -170,11 +170,11 @@ While further clinical trials and extensive research are warranted, the existing
 
 * &lt;a href=&quot;/posts/hpv-and-vitamin-d-several-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: HPV and Vitamin D - several studies&quot;&gt;HPV and Vitamin D - several studies&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/influenza-risk-cut-in-half-by-the-only-trial-giving-enough-vitamin-d-for-body-weight-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022&quot;&gt;Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022&lt;/a&gt;
+* [Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022](/posts/influenza-risk-cut-in-half-by-the-only-trial-giving-enough-vitamin-d-for-body-weight-meta-analysis)
 
-* &lt;a href=&quot;/posts/viral-conjunctivitis-much-worse-if-low-vitamin-d-in-tears&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Viral conjunctivitis much worse if low vitamin D in tears – April 2024&quot;&gt;Viral conjunctivitis much worse if low vitamin D in tears – April 2024&lt;/a&gt;
+* [Viral conjunctivitis much worse if low vitamin D in tears – April 2024](/posts/viral-conjunctivitis-much-worse-if-low-vitamin-d-in-tears)
 
-* &lt;a href=&quot;/posts/vitamin-d-viral-infections-infectious-diseases-ebv-and-ms-virus-and-cancers-grant&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D: Viral infections, Infectious diseases, EBV and MS, Virus and Cancers – Grant March 2024&quot;&gt;Vitamin D: Viral infections, Infectious diseases, EBV and MS, Virus and Cancers – Grant March 2024&lt;/a&gt;
+* [Vitamin D: Viral infections, Infectious diseases, EBV and MS, Virus and Cancers – Grant March 2024](/posts/vitamin-d-viral-infections-infectious-diseases-ebv-and-ms-virus-and-cancers-grant)
 
 * &lt;a href=&quot;/posts/dengue-fever-decimated-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dengue Fever decimated by Vitamin D - many studies&quot;&gt;Dengue Fever decimated by Vitamin D - many studies&lt;/a&gt;
 

@@ -25,7 +25,7 @@ date: 2025-02-06
 
 ##### [Sunlight and health - many studies](/posts/sunlight-and-health-many-studies)
 
-##### <a href="/posts/seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors get about 4X less vitamin D from the sun or UVB">Seniors get about 4X less vitamin D from the sun or UVB</a>
+##### [Seniors get about 4X less vitamin D from the sun or UVB](/posts/seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb)
 
 ##### <a href="/posts/50-ng-of-vitamin-d-100-hours-of-noon-sunbathing-or-3-dollars-of-vit-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50 ng of Vitamin D - 100 hours of noon sunbathing OR 3 dollars of Vit D">50 ng of Vitamin D - 100 hours of noon sunbathing OR 3 dollars of Vit D</a>
 
@@ -57,7 +57,7 @@ Markdown:
 
 ##### [Sunlight and health - many studies](/posts/sunlight-and-health-many-studies)
 
-##### &lt;a href=&quot;/posts/seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Seniors get about 4X less vitamin D from the sun or UVB&quot;&gt;Seniors get about 4X less vitamin D from the sun or UVB&lt;/a&gt;
+##### [Seniors get about 4X less vitamin D from the sun or UVB](/posts/seniors-get-about-4x-less-vitamin-d-from-the-sun-or-uvb)
 
 ##### &lt;a href=&quot;/posts/50-ng-of-vitamin-d-100-hours-of-noon-sunbathing-or-3-dollars-of-vit-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 50 ng of Vitamin D - 100 hours of noon sunbathing OR 3 dollars of Vit D&quot;&gt;50 ng of Vitamin D - 100 hours of noon sunbathing OR 3 dollars of Vit D&lt;/a&gt;
 

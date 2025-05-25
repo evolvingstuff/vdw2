@@ -67,7 +67,7 @@ It's important to note that Vitamin D deficiency affects approximately 1 billion
 
 * [Vitamin D, Omega-3, and Magnesium are synergistic - many studies](/posts/vitamin-d-omega-3-and-magnesium-are-synergistic-many-studies)
 
-* <a href="/posts/these-3-supplements-are-a-no-brainer-vitamin-d-magnesium-omega-3-video" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: These 3 supplements are a no brainer (Vitamin D, Magnesium, Omega-3) - video July 2024">These 3 supplements are a no brainer (Vitamin D, Magnesium, Omega-3) - video July 2024</a>
+* [These 3 supplements are a no brainer (Vitamin D, Magnesium, Omega-3) - video July 2024](/posts/these-3-supplements-are-a-no-brainer-vitamin-d-magnesium-omega-3-video)
 
 * <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-omega-3-magnesium-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies">Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies</a>
 
@@ -89,7 +89,7 @@ It's important to note that Vitamin D deficiency affects approximately 1 billion
 
 * <a href="/posts/vitamin-d-and-magnesium-need-each-other-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Magnesium need each other - many studies">Vitamin D and Magnesium need each other - many studies</a>
 
-* <a href="/posts/magnesium-depletion-score-predicts-increased-risk-of-various-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Depletion Score predicts increased risk of various health problems">Magnesium Depletion Score predicts increased risk of various health problems</a>
+* [Magnesium Depletion Score predicts increased risk of various health problems](/posts/magnesium-depletion-score-predicts-increased-risk-of-various-health-problems)
 
 * <a href="/posts/diabetes-metabolic-syndrome-and-magnesium-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetes, Metabolic Syndrome and Magnesium - many studies">Diabetes, Metabolic Syndrome and Magnesium - many studies</a>
 
@@ -226,7 +226,7 @@ It&#39;s important to note that Vitamin D deficiency affects approximately 1 bil
 
 * [Vitamin D, Omega-3, and Magnesium are synergistic - many studies](/posts/vitamin-d-omega-3-and-magnesium-are-synergistic-many-studies)
 
-* &lt;a href=&quot;/posts/these-3-supplements-are-a-no-brainer-vitamin-d-magnesium-omega-3-video&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: These 3 supplements are a no brainer (Vitamin D, Magnesium, Omega-3) - video July 2024&quot;&gt;These 3 supplements are a no brainer (Vitamin D, Magnesium, Omega-3) - video July 2024&lt;/a&gt;
+* [These 3 supplements are a no brainer (Vitamin D, Magnesium, Omega-3) - video July 2024](/posts/these-3-supplements-are-a-no-brainer-vitamin-d-magnesium-omega-3-video)
 
 * &lt;a href=&quot;/posts/longevity-and-healthspan-increased-by-vitamin-d-omega-3-magnesium-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies&quot;&gt;Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies&lt;/a&gt;
 
@@ -248,7 +248,7 @@ It&#39;s important to note that Vitamin D deficiency affects approximately 1 bil
 
 * &lt;a href=&quot;/posts/vitamin-d-and-magnesium-need-each-other-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D and Magnesium need each other - many studies&quot;&gt;Vitamin D and Magnesium need each other - many studies&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/magnesium-depletion-score-predicts-increased-risk-of-various-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium Depletion Score predicts increased risk of various health problems&quot;&gt;Magnesium Depletion Score predicts increased risk of various health problems&lt;/a&gt;
+* [Magnesium Depletion Score predicts increased risk of various health problems](/posts/magnesium-depletion-score-predicts-increased-risk-of-various-health-problems)
 
 * &lt;a href=&quot;/posts/diabetes-metabolic-syndrome-and-magnesium-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diabetes, Metabolic Syndrome and Magnesium - many studies&quot;&gt;Diabetes, Metabolic Syndrome and Magnesium - many studies&lt;/a&gt;
 

@@ -22,13 +22,13 @@ date: 2025-03-07
 
 * [Vitamin D preventing and treating COVID - 30,000 publications – Oct 2024](/posts/vitamin-d-preventing-and-treating-covid-30000-publications)
 
-* <a href="/posts/long-covid-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID and Vitamin D - many studies">Long-COVID and Vitamin D - many studies</a>
+* [Long-COVID and Vitamin D - many studies](/posts/long-covid-and-vitamin-d-many-studies)
 
 * <a href="/posts/take-lots-of-vitamin-d-at-first-signs-of-covid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take lots of Vitamin D at first signs of COVID">Take lots of Vitamin D at first signs of COVID</a> or any viral infection
 
-* <a href="/posts/after-covid-infection-vitamin-d-helps-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: After COVID infection, Vitamin D helps - many studies">After COVID infection, Vitamin D helps - many studies</a>
+* [After COVID infection, Vitamin D helps - many studies](/posts/after-covid-infection-vitamin-d-helps-many-studies)
 
-* <a href="/posts/covid-death-rate-in-hospital-halved-if-take-any-amount-of-vitamin-d-for-any-leng-e-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID death rate in hospital halved if take any amount of vitamin D for any length of time – meta-analysis May 2024">COVID death rate in hospital halved if take any amount of vitamin D for any length of time – meta-analysis May 2024</a>
+* [COVID death rate in hospital halved if take any amount of vitamin D for any length of time – meta-analysis May 2024](/posts/covid-death-rate-in-hospital-halved-if-take-any-amount-of-vitamin-d-for-any-leng-e-meta-analysis)
 
 * <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
 
@@ -68,13 +68,13 @@ Markdown:
 
 * [Vitamin D preventing and treating COVID - 30,000 publications – Oct 2024](/posts/vitamin-d-preventing-and-treating-covid-30000-publications)
 
-* &lt;a href=&quot;/posts/long-covid-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID and Vitamin D - many studies&quot;&gt;Long-COVID and Vitamin D - many studies&lt;/a&gt;
+* [Long-COVID and Vitamin D - many studies](/posts/long-covid-and-vitamin-d-many-studies)
 
 * &lt;a href=&quot;/posts/take-lots-of-vitamin-d-at-first-signs-of-covid&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Take lots of Vitamin D at first signs of COVID&quot;&gt;Take lots of Vitamin D at first signs of COVID&lt;/a&gt; or any viral infection
 
-* &lt;a href=&quot;/posts/after-covid-infection-vitamin-d-helps-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: After COVID infection, Vitamin D helps - many studies&quot;&gt;After COVID infection, Vitamin D helps - many studies&lt;/a&gt;
+* [After COVID infection, Vitamin D helps - many studies](/posts/after-covid-infection-vitamin-d-helps-many-studies)
 
-* &lt;a href=&quot;/posts/covid-death-rate-in-hospital-halved-if-take-any-amount-of-vitamin-d-for-any-leng-e-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID death rate in hospital halved if take any amount of vitamin D for any length of time – meta-analysis May 2024&quot;&gt;COVID death rate in hospital halved if take any amount of vitamin D for any length of time – meta-analysis May 2024&lt;/a&gt;
+* [COVID death rate in hospital halved if take any amount of vitamin D for any length of time – meta-analysis May 2024](/posts/covid-death-rate-in-hospital-halved-if-take-any-amount-of-vitamin-d-for-any-leng-e-meta-analysis)
 
 * &lt;a href=&quot;/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&quot;&gt;Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&lt;/a&gt;
 

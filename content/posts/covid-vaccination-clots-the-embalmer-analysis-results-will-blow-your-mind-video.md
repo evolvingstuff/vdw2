@@ -19,7 +19,7 @@ date: 2024-09-13
 
 ---
 
-#### <a href="/posts/corpses-with-fiberous-clots-0-percent-before-covid-30-percent-in-2022-20-percent-in-2023" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Corpses with fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023">Corpses with fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023</a>
+#### [Corpses with fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023](/posts/corpses-with-fiberous-clots-0-percent-before-covid-30-percent-in-2022-20-percent-in-2023)
 
 ---
 
@@ -27,11 +27,11 @@ date: 2024-09-13
 
 ---
 
-#### <a href="/posts/within-3-months-of-covid-vaccination-23-x-incidence-in-cognitive-problems-korea" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024">Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024</a>
+#### [Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024](/posts/within-3-months-of-covid-vaccination-23-x-incidence-in-cognitive-problems-korea)
 
 ---
 
-#### <a href="/posts/excess-death-rates-in-high-vaccinated-countries-exceeded-covid-death-rates-by-34-x-in-2023" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess death rates in high-vaccinated countries exceeded COVID death rates by 3.4 X in 2023 - May 2024">Excess death rates in high-vaccinated countries exceeded COVID death rates by 3.4 X in 2023 - May 2024</a>
+#### [Excess death rates in high-vaccinated countries exceeded COVID death rates by 3.4 X in 2023 - May 2024](/posts/excess-death-rates-in-high-vaccinated-countries-exceeded-covid-death-rates-by-34-x-in-2023)
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -48,7 +48,7 @@ Markdown:
 
 ---
 
-#### &lt;a href=&quot;/posts/corpses-with-fiberous-clots-0-percent-before-covid-30-percent-in-2022-20-percent-in-2023&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Corpses with fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023&quot;&gt;Corpses with fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023&lt;/a&gt;
+#### [Corpses with fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023](/posts/corpses-with-fiberous-clots-0-percent-before-covid-30-percent-in-2022-20-percent-in-2023)
 
 ---
 
@@ -56,11 +56,11 @@ Markdown:
 
 ---
 
-#### &lt;a href=&quot;/posts/within-3-months-of-covid-vaccination-23-x-incidence-in-cognitive-problems-korea&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024&quot;&gt;Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024&lt;/a&gt;
+#### [Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024](/posts/within-3-months-of-covid-vaccination-23-x-incidence-in-cognitive-problems-korea)
 
 ---
 
-#### &lt;a href=&quot;/posts/excess-death-rates-in-high-vaccinated-countries-exceeded-covid-death-rates-by-34-x-in-2023&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess death rates in high-vaccinated countries exceeded COVID death rates by 3.4 X in 2023 - May 2024&quot;&gt;Excess death rates in high-vaccinated countries exceeded COVID death rates by 3.4 X in 2023 - May 2024&lt;/a&gt;
+#### [Excess death rates in high-vaccinated countries exceeded COVID death rates by 3.4 X in 2023 - May 2024](/posts/excess-death-rates-in-high-vaccinated-countries-exceeded-covid-death-rates-by-34-x-in-2023)
 
 
 AST Structure:

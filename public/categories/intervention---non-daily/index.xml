@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intervention - Non Daily on VitaminDWiki</title><link>//localhost:1313/categories/intervention---non-daily.html</link><description>Recent content in Intervention - Non Daily on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/intervention---non-daily/index.xml" rel="self" type="application/rss+xml"/><item><title>50,000 IU of Vitamin D monthly is safe for 1 year, levels still rising</title><link>//localhost:1313/posts/50000-iu-of-vitamin-d-monthly-is-safe-for-1-year-levels-still-rising.html</link><pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/50000-iu-of-vitamin-d-monthly-is-safe-for-1-year-levels-still-rising.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h5 id="primary-dosing-intervals-weekly-bi-weekly-and-monthly">Primary dosing intervals: weekly, bi-weekly, and monthly&lt;/h5>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+##### Primary dosing intervals: weekly, bi-weekly, and monthly
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!Determining the vitamin D supplementation duration to reach an adequate or optimal vitamin D status and its effect on blood lipid profiles: a longitudinal study`
+│ inner_content: `Determining the vitamin D supplementation duration to reach an adequate or optimal vitamin D status and its effect on blood lipid profiles: a longitudinal study`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Determining the vitamin D supplementation duration to reach an adequate or optimal vitamin D status and its effect on blood lipid profiles: a longitudinal study`
+│ │ inner_content: `Determining the vitamin D supplementation duration to reach an adequate or optimal vitamin D status and its effect on blood lipid profiles: a longitudinal study`├── TextNode
+│ full_match: `\nJ Health Popul Nutr . 2024 Jun 12;43(1):81. `
+│ inner_content: `\nJ Health Popul Nutr . 2024 Jun 12;43(1):81. `├── DoiLinkNode
+│ full_match: `doi: 10.1186/s41043-024-00576-6.`
+│ inner_content: `10.1186/s41043-024-00576-6.`├── TextNode
+│ full_match: `\nSakineh Nouri Saeidlou 1, Davoud Vahabzadeh 2, Fozieh Karimi 3, Fariba Babaei 4\n\n`
+│ inner_content: `\nSakineh Nouri Saeidlou 1, Davoud Vahabzadeh 2, Fozieh Karimi 3, Fariba Babaei 4\n\n`├── ImgNode
+│ full_match: `{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;21313&amp;quot; width=&amp;quot;550&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: type=&amp;quot;attId&amp;quot; attId=&amp;quot;21313&amp;quot; width=&amp;quot;550&amp;quot;
+│ │ type: attId
+│ │ attId: 21313
+│ │ width: 550├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── EmphasisNode
+│ full_match: `&amp;#39;&amp;#39;__Note: Vitamin D levels had not plateaued after 1 year__&amp;#39;&amp;#39;`
+│ inner_content: `__Note: Vitamin D levels had not plateaued after 1 year__`
+│ children:
+│ ├── BoldNode
+│ │ full_match: `__Note: Vitamin D levels had not plateaued after 1 year__`
+│ │ inner_content: `Note: Vitamin D levels had not plateaued after 1 year`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Note: Vitamin D levels had not plateaued after 1 year`
+│ │ │ inner_content: `Note: Vitamin D levels had not plateaued after 1 year`├── TextNode
+│ full_match: `\nBackground: Recently, Serum vitamin D (Vit. D) levels evaluation and the use of Vit. D supplements have increased substantially. There is no specific guideline for the duration of Vit. D supplementation, so yet Vit. D supplementation duration has remained a critical and controversial issue. This study aimed to determine the vit. D supplementation duration to reach an adequate or optimal Vit. D status and its effect on lipid profile.\n\nMethods: In this longitudinal study, `
+│ inner_content: `\nBackground: Recently, Serum vitamin D (Vit. D) levels evaluation and the use of Vit. D supplements have increased substantially. There is no specific guideline for the duration of Vit. D supplementation, so yet Vit. D supplementation duration has remained a critical and controversial issue. This study aimed to determine the vit. D supplementation duration to reach an adequate or optimal Vit. D status and its effect on lipid profile.\n\nMethods: In this longitudinal study, `├── BoldNode
+│ full_match: `__345 women__`
+│ inner_content: `345 women`
+│ children:
+│ ├── TextNode
+│ │ full_match: `345 women`
+│ │ inner_content: `345 women`├── TextNode
+│ full_match: ` with different status of Vit. D levels were enrolled and followed up for one year. Eligible participants received 50,000 IU Vit. D3 (cholecalciferol) once a month for 12 consecutive months. The serum Vit. D levels and lipid profiles were measured at baseline, 3rd, 6th, and 12th months after the intervention. Participants were categorized based on Vit. D level at baseline into deficiency (&amp;lt; 20 ng/mL), inadequate (20-30 ng/mL), and adequate (&amp;gt; 30 ng/mL) groups, and the data were compared at different times between the three groups.\n\nResults: Three deficiency (n = 73), inadequate (n = 138) and adequate (n = 134) groups of participants were followed. In all participants the average amount of Vit. D level changes were 8 ng/mL after one year of supplementation. The mean changes of serum Vit. D level in 6th and 12th months vs. 3th month was as below: In deficiency group: 4.08 ± 0.85 and 10.01 ± 1.02 ng/mL; (p &amp;lt; 0.001), in inadequate group: 3.07 ± 0.59 and 7.26 ± 0.78 ng/mL; (p = 0.001) and in adequate group: 2.02 ± 0.88 and 6.44 ± 1.005 ng/ml; (p = 0.001). Lipid profiles were improved in three groups. So, the mean changes of lipid profiles at the end of the study comparing with the baseline were: -5.86 ± 2.09, -7.22 ± 1.43 and - 6.17 ± 1.72 (mg/dl) for LDL (p &amp;lt; 0.05); -12.24 ± 3.08, -13.64 ± 3.21 and - 17.81 ± 2.94 (mg/dl) for cholesterol (p &amp;lt; 0.05) in deficiency, inadequate and adequate groups, respectively. For triglyceride, the mean changes were - 13.24 ± 5.78 and - 15.85 ± 7.49 (mg/dl) in deficiency and adequate groups, respectively (p &amp;lt; 0.05). Although the triglyceride decreased in the inadequate group at the end of the study but this difference was not significant (p = 0.67).\n\nConclusion: Taking of 50,000 IU Vit. D 3 monthly for 12 months resulted in reaching its level to adequate level in both deficiency and insufficient groups; however, in the adequate group its level did not reach above than 50 ng/mL. Therefore, 50,000 IU Vit. D3 supplementation monthly for one year can have beneficial effects on lipid profiles and there is no risk of toxicity in healthy women.\n`
+│ inner_content: ` with different status of Vit. D levels were enrolled and followed up for one year. Eligible participants received 50,000 IU Vit. D3 (cholecalciferol) once a month for 12 consecutive months. The serum Vit. D levels and lipid profiles were measured at baseline, 3rd, 6th, and 12th months after the intervention. Participants were categorized based on Vit. D level at baseline into deficiency (&amp;lt; 20 ng/mL), inadequate (20-30 ng/mL), and adequate (&amp;gt; 30 ng/mL) groups, and the data were compared at different times between the three groups.\n\nResults: Three deficiency (n = 73), inadequate (n = 138) and adequate (n = 134) groups of participants were followed. In all participants the average amount of Vit. D level changes were 8 ng/mL after one year of supplementation. The mean changes of serum Vit. D level in 6th and 12th months vs. 3th month was as below: In deficiency group: 4.08 ± 0.85 and 10.01 ± 1.02 ng/mL; (p &amp;lt; 0.001), in inadequate group: 3.07 ± 0.59 and 7.26 ± 0.78 ng/mL; (p = 0.001) and in adequate group: 2.02 ± 0.88 and 6.44 ± 1.005 ng/ml; (p = 0.001). Lipid profiles were improved in three groups. So, the mean changes of lipid profiles at the end of the study comparing with the baseline were: -5.86 ± 2.09, -7.22 ± 1.43 and - 6.17 ± 1.72 (mg/dl) for LDL (p &amp;lt; 0.05); -12.24 ± 3.08, -13.64 ± 3.21 and - 17.81 ± 2.94 (mg/dl) for cholesterol (p &amp;lt; 0.05) in deficiency, inadequate and adequate groups, respectively. For triglyceride, the mean changes were - 13.24 ± 5.78 and - 15.85 ± 7.49 (mg/dl) in deficiency and adequate groups, respectively (p &amp;lt; 0.05). Although the triglyceride decreased in the inadequate group at the end of the study but this difference was not significant (p = 0.67).\n\nConclusion: Taking of 50,000 IU Vit. D 3 monthly for 12 months resulted in reaching its level to adequate level in both deficiency and insufficient groups; however, in the adequate group its level did not reach above than 50 ng/mL. Therefore, 50,000 IU Vit. D3 supplementation monthly for one year can have beneficial effects on lipid profiles and there is no risk of toxicity in healthy women.\n`├── FontNode
+│ full_match: `{FONT(size=&amp;quot;17&amp;quot;)}__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;21312&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│ inner_content: `__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;21312&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│ attrs_dict:
+│ │ raw_content: size=&amp;quot;17&amp;quot;
+│ │ size: 17
+│ children:
+│ ├── BoldNode
+│ │ full_match: `__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;21312&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│ │ inner_content: `{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;21312&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│ │ children:
+│ │ ├── AttachNode
+│ │ │ full_match: `{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;21312&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│ │ │ inner_content: `Download the PDF from VitaminDWiki `
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: (inline=&amp;quot;1&amp;quot; id=&amp;quot;21312&amp;quot; icon=&amp;quot;1&amp;quot;)
+│ │ │ │ inline: 1
+│ │ │ │ id: 21312
+│ │ │ │ icon: 1
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Download the PDF from VitaminDWiki `
+│ │ │ │ inner_content: `Download the PDF from VitaminDWiki `├── TextNode
+│ full_match: `\n&amp;quot;In this study, healthy women with age between `
+│ inner_content: `\n&amp;quot;In this study, healthy women with age between `├── BoldNode
+│ full_match: `__30 and 59 years__`
+│ inner_content: `30 and 59 years`
+│ children:
+│ ├── TextNode
+│ │ full_match: `30 and 59 years`
+│ │ inner_content: `30 and 59 years`├── TextNode
+│ full_match: ` were included&amp;quot;\n\nNote: Elderly (not measured in this study) have reduced response to standard oral Vitamin D as well as UVB\n`
+│ inner_content: ` were included&amp;quot;\n\nNote: Elderly (not measured in this study) have reduced response to standard oral Vitamin D as well as UVB\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;50,000 IU of Vitamin D - many studies&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;50,000 IU of Vitamin D - many studies&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: 50,000 IU of Vitamin D - many studies
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!!Primary dosing intervals: weekly, bi-weekly, and monthly`
+│ inner_content: `Primary dosing intervals: weekly, bi-weekly, and monthly`
+│ level: `5`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Primary dosing intervals: weekly, bi-weekly, and monthly`
+│ │ inner_content: `Primary dosing intervals: weekly, bi-weekly, and monthly`
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!Determining the vitamin D supplementation duration to reach an adequate or optimal vitamin D status and its effect on blood lipid profiles: a longitudinal study
+J Health Popul Nutr . 2024 Jun 12;43(1):81. doi: 10.1186/s41043-024-00576-6.
+Sakineh Nouri Saeidlou 1, Davoud Vahabzadeh 2, Fozieh Karimi 3, Fariba Babaei 4
+
+{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;21313&amp;quot; width=&amp;quot;550&amp;quot;}
+&amp;#39;&amp;#39;__Note: Vitamin D levels had not plateaued after 1 year__&amp;#39;&amp;#39;
+Background: Recently, Serum vitamin D (Vit. D) levels evaluation and the use of Vit. D supplements have increased substantially. There is no specific guideline for the duration of Vit. D supplementation, so yet Vit. D supplementation duration has remained a critical and controversial issue. This study aimed to determine the vit. D supplementation duration to reach an adequate or optimal Vit. D status and its effect on lipid profile.
+
+Methods: In this longitudinal study, __345 women__ with different status of Vit. D levels were enrolled and followed up for one year. Eligible participants received 50,000 IU Vit. D3 (cholecalciferol) once a month for 12 consecutive months. The serum Vit. D levels and lipid profiles were measured at baseline, 3rd, 6th, and 12th months after the intervention. Participants were categorized based on Vit. D level at baseline into deficiency (&amp;lt; 20 ng/mL), inadequate (20-30 ng/mL), and adequate (&amp;gt; 30 ng/mL) groups, and the data were compared at different times between the three groups.
+
+Results: Three deficiency (n = 73), inadequate (n = 138) and adequate (n = 134) groups of participants were followed. In all participants the average amount of Vit. D level changes were 8 ng/mL after one year of supplementation. The mean changes of serum Vit. D level in 6th and 12th months vs. 3th month was as below: In deficiency group: 4.08 ± 0.85 and 10.01 ± 1.02 ng/mL; (p &amp;lt; 0.001), in inadequate group: 3.07 ± 0.59 and 7.26 ± 0.78 ng/mL; (p = 0.001) and in adequate group: 2.02 ± 0.88 and 6.44 ± 1.005 ng/ml; (p = 0.001). Lipid profiles were improved in three groups. So, the mean changes of lipid profiles at the end of the study comparing with the baseline were: -5.86 ± 2.09, -7.22 ± 1.43 and - 6.17 ± 1.72 (mg/dl) for LDL (p &amp;lt; 0.05); -12.24 ± 3.08, -13.64 ± 3.21 and - 17.81 ± 2.94 (mg/dl) for cholesterol (p &amp;lt; 0.05) in deficiency, inadequate and adequate groups, respectively. For triglyceride, the mean changes were - 13.24 ± 5.78 and - 15.85 ± 7.49 (mg/dl) in deficiency and adequate groups, respectively (p &amp;lt; 0.05). Although the triglyceride decreased in the inadequate group at the end of the study but this difference was not significant (p = 0.67).
+
+Conclusion: Taking of 50,000 IU Vit. D 3 monthly for 12 months resulted in reaching its level to adequate level in both deficiency and insufficient groups; however, in the adequate group its level did not reach above than 50 ng/mL. Therefore, 50,000 IU Vit. D3 supplementation monthly for one year can have beneficial effects on lipid profiles and there is no risk of toxicity in healthy women.
+{FONT(size=&amp;quot;17&amp;quot;)}__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;21312&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+&amp;quot;In this study, healthy women with age between __30 and 59 years__ were included&amp;quot;
+
+Note: Elderly (not measured in this study) have reduced response to standard oral Vitamin D as well as UVB
+{include page=&amp;quot;50,000 IU of Vitamin D - many studies&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!!Primary dosing intervals: weekly, bi-weekly, and monthly
+&lt;/code>
+&lt;/pre></description></item><item><title>Children with ADHD again helped by 50,000 IU weekly Vitamin D – RCT</title><link>//localhost:1313/posts/children-with-adhd-again-helped-by-50000-iu-weekly-vitamin-d-rct.html</link><pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/children-with-adhd-again-helped-by-50000-iu-weekly-vitamin-d-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-effect-of-vitamin-d-supplementation-on-the-brain-mapping-and-behavioral-performance-of-children-with-adhd-a-double-blinded-randomized-controlled-trials">The effect of vitamin D supplementation on the brain mapping and behavioral performance of children with ADHD: a double-blinded randomized controlled trials&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki-adhd-helped-by-50000-iu-vitamin-d-weekly--mg---rct-april-2021httpsvitamindwikicomadhdandvitaminddeficiencyadhd_helped_by_50_000_iu_vitamin_d_weekly_mg_-_rct_april_2021">VitaminDWiki &lt;a href="https://VitaminDWiki.com/ADHD+and+Vitamin+D+Deficiency#ADHD_helped_by_50_000_IU_vitamin_D_weekly_Mg_-_RCT_April_2021">ADHD helped by 50,000 IU vitamin D weekly + Mg - RCT April 2021&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki--50000-iu-of-vitamin-d---many-studiesposts50000-iu-of-vitamin-d-many-studies">VitaminDWiki- &lt;a href="//localhost:1313/posts/50000-iu-of-vitamin-d-many-studies">50,000 IU of Vitamin D - many studies&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-a-hrefpostsadhd-and-vitamin-d-deficiency-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-adhd-and-vitamin-d-deficiencyadhd-and-vitamin-d-deficiencya">See also: &lt;a href="//localhost:1313/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">ADHD and Vitamin D Deficiency&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-effect-of-vitamin-d-supplementation-on-the-brain-mapping-and-behavioral-performance-of-children-with-adhd-a-double-blinded-randomized-controlled-trials">The effect of vitamin D supplementation on the brain mapping and behavioral performance of children with ADHD: a double-blinded randomized controlled trials&lt;/h4>
+&lt;p>Nutr Neuroscib. 2024 Jun;27(6):566-576. &lt;a href="https://doi.org/10.1080/1028415X.2023.2233752">doi: 10.1080/1028415X.2023.2233752&lt;/a> PDF is behind a $65 paywall&lt;/p></description></item><item><title>COVID deaths cut in half by a single dose of 600,000 IU of Vitamin D - RCT</title><link>//localhost:1313/posts/covid-deaths-cut-in-half-by-a-single-dose-of-600000-iu-of-vitamin-d-rct.html</link><pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/covid-deaths-cut-in-half-by-a-single-dose-of-600000-iu-of-vitamin-d-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#therapeutic-high-dose-vitamin-d-for-vitamin-d-deficient-severe-covid-19-disease-randomized-double-blind-placebo-controlled-study-shade-s">Therapeutic high-dose vitamin D for vitamin D-deficient severe COVID-19 disease: randomized, double-blind, placebo-controlled study (SHADE-S)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#note-cost-of-vitamin-d-240---12-x-20-cents-for-each-of-50000-iu-capsules">Note: Cost of Vitamin D: $2.40 = 12 X 20 cents for each of 50,000 IU capsules&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#note-vitamin-d-level-of-placebo-group--fell-from-13-ng-to-4-ng-by-day-7">Note: Vitamin D level of placebo group fell from 13 ng to 4 ng by day 7&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#efficacy-of-all-covid-treatments-not-just-vitamin-d-are-reduced-by-half-4-days-after-onset">Efficacy of All COVID treatments (not just Vitamin D) are reduced by half 4 days after onset&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="therapeutic-high-dose-vitamin-d-for-vitamin-d-deficient-severe-covid-19-disease-randomized-double-blind-placebo-controlled-study-shade-s">Therapeutic high-dose vitamin D for vitamin D-deficient severe COVID-19 disease: randomized, double-blind, placebo-controlled study (SHADE-S)&lt;/h4>
+&lt;p>J Public Health (Oxf) 2024 Jan 30:fdae007. &lt;a href="https://doi.org/10.1093/pubmed/fdae007">doi: 10.1093/pubmed/fdae007&lt;/a> PDF is behind a $55 paywall&lt;/p></description></item><item><title>PMS reduced by 50,000 IU every two weeks - RCT</title><link>//localhost:1313/posts/pms-reduced-by-50000-iu-every-two-weeks-rct.html</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/pms-reduced-by-50000-iu-every-two-weeks-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#effect-of-vitamin-d-supplementation-on-symptoms-severity-in-vitamin-d-insufficient-women-with-premenstrual-syndrome-a-randomized-controlled-trial">Effect of vitamin D supplementation on symptoms severity in vitamin D insufficient women with premenstrual syndrome: A randomized controlled trial&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="effect-of-vitamin-d-supplementation-on-symptoms-severity-in-vitamin-d-insufficient-women-with-premenstrual-syndrome-a-randomized-controlled-trial">Effect of vitamin D supplementation on symptoms severity in vitamin D insufficient women with premenstrual syndrome: A randomized controlled trial&lt;/h4>
+&lt;p>Clin Nutr ESPEN. 2024 Feb:59:241-248. &lt;a href="https://doi.org/10.1016/j.clnesp.2023.11.014">doi: 10.1016/j.clnesp.2023.11.014&lt;/a> PDF is behind a paywall&lt;/p>
+&lt;p>Hajar Heidari 1, Khadijeh Abbasi 2, Awat Feizi 3, Shahnaz Kohan 4, Reza Amani 5&lt;/p>
+&lt;p>Background: Premenstrual syndrome (PMS) is one of the most prevalent disorders among reproductive women worldwide that negatively impact women&amp;rsquo;s quality of life. This study aimed to investigate the effect of vitamin D supplementation on the severity of PMS symptoms in vitamin D insufficient women with PMS.&lt;/p></description></item></channel></rss>

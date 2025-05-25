@@ -58,7 +58,7 @@ For the treatment of vitamin D deficiency, the document suggests using intermitt
 
 ##### Study recommends high-dose for 6-8 weeks, but RCTs have used 50K weekly dosing for many months
 
- **<a href="/posts/50000-iu-of-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU of Vitamin D - many studies">50,000 IU of Vitamin D - many studies</a>** 
+ **[50,000 IU of Vitamin D - many studies](/posts/50000-iu-of-vitamin-d-many-studies)** 
 
 ---
 
@@ -157,7 +157,7 @@ For the treatment of vitamin D deficiency, the document suggests using intermitt
 
 ##### Study recommends high-dose for 6-8 weeks, but RCTs have used 50K weekly dosing for many months
 
- **&lt;a href=&quot;/posts/50000-iu-of-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 50,000 IU of Vitamin D - many studies&quot;&gt;50,000 IU of Vitamin D - many studies&lt;/a&gt;** 
+ **[50,000 IU of Vitamin D - many studies](/posts/50000-iu-of-vitamin-d-many-studies)** 
 
 ---
 

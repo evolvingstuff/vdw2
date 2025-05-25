@@ -85,7 +85,7 @@ Understanding CYP27A1's precise role in vitamin D metabolism remains an importan
 
 * <a href="/posts/neuro-problems-ad-pd-msa-associated-with-poor-vitamin-d-genes-cyp27a1-cyp27b1" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Neuro problems (AD, PD, MSA) associated with poor vitamin D genes (CYP27A1, CYP27B1) – Sept 2022">Neuro problems (AD, PD, MSA) associated with poor vitamin D genes (CYP27A1, CYP27B1) – Sept 2022</a>
 
-* <a href="/posts/obese-children-have-poor-vitamin-d-genes-cyp27a1-cyp2r1-cyp27b1" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese children have poor vitamin D genes (CYP27A1, CYP2R1, CYP27B1) – March 2024">Obese children have poor vitamin D genes (CYP27A1, CYP2R1, CYP27B1) – March 2024</a>
+* [Obese children have poor vitamin D genes (CYP27A1, CYP2R1, CYP27B1) – March 2024](/posts/obese-children-have-poor-vitamin-d-genes-cyp27a1-cyp2r1-cyp27b1)
 
 ---
 
@@ -173,7 +173,7 @@ Understanding CYP27A1&#39;s precise role in vitamin D metabolism remains an impo
 
 * &lt;a href=&quot;/posts/neuro-problems-ad-pd-msa-associated-with-poor-vitamin-d-genes-cyp27a1-cyp27b1&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Neuro problems (AD, PD, MSA) associated with poor vitamin D genes (CYP27A1, CYP27B1) – Sept 2022&quot;&gt;Neuro problems (AD, PD, MSA) associated with poor vitamin D genes (CYP27A1, CYP27B1) – Sept 2022&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/obese-children-have-poor-vitamin-d-genes-cyp27a1-cyp2r1-cyp27b1&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese children have poor vitamin D genes (CYP27A1, CYP2R1, CYP27B1) – March 2024&quot;&gt;Obese children have poor vitamin D genes (CYP27A1, CYP2R1, CYP27B1) – March 2024&lt;/a&gt;
+* [Obese children have poor vitamin D genes (CYP27A1, CYP2R1, CYP27B1) – March 2024](/posts/obese-children-have-poor-vitamin-d-genes-cyp27a1-cyp2r1-cyp27b1)
 
 ---
 

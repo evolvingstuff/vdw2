@@ -71,7 +71,7 @@ In summary, around 30-40% of people report disliking or having trouble swallowin
 
 * <a href="/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies">Topical Vitamin D provides more benefits than oral sometimes - many studies</a>
 
-* <a href="/posts/how-to-safely-get-vitamin-d-at-home-from-a-uv-lamp-or-led" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How to safely get Vitamin D at home from a UV lamp or LED">How to safely get Vitamin D at home from a UV lamp or LED</a>
+* [How to safely get Vitamin D at home from a UV lamp or LED](/posts/how-to-safely-get-vitamin-d-at-home-from-a-uv-lamp-or-led)
 
 ---
 
@@ -157,7 +157,7 @@ In summary, around 30-40% of people report disliking or having trouble swallowin
 
 * &lt;a href=&quot;/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies&quot;&gt;Topical Vitamin D provides more benefits than oral sometimes - many studies&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/how-to-safely-get-vitamin-d-at-home-from-a-uv-lamp-or-led&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: How to safely get Vitamin D at home from a UV lamp or LED&quot;&gt;How to safely get Vitamin D at home from a UV lamp or LED&lt;/a&gt;
+* [How to safely get Vitamin D at home from a UV lamp or LED](/posts/how-to-safely-get-vitamin-d-at-home-from-a-uv-lamp-or-led)
 
 ---
 

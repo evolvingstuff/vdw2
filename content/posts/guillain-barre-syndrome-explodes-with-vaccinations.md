@@ -65,7 +65,7 @@ From: Global burden of vaccine-associated Guillain-Barré syndrome over 170 coun
 
 * [COVID Vaccines:"safe and effective" were two lies - Australian Senator - Oct 2024](/posts/covid-vaccinessafe-and-effective-were-two-lies-australian-senator)
 
-* <a href="/posts/covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024">COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024</a>
+* [COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024](/posts/covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness)
 
 * <a href="/posts/covid-vaccination-problems-1000-x-worse-than-thalidomide" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccination problems 1000 X worse than Thalidomide - Dec 2023">COVID vaccination problems 1000 X worse than Thalidomide - Dec 2023</a>
 
@@ -73,7 +73,7 @@ From: Global burden of vaccine-associated Guillain-Barré syndrome over 170 coun
 
 * <a href="/posts/following-covid-vaccination-31-percent-had-neurological-problems-italy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Following COVID vaccination 31% had neurological problems (Italy) – Oct 2023">Following COVID vaccination 31% had neurological problems (Italy) – Oct 2023</a>
 
-* <a href="/posts/within-3-months-of-covid-vaccination-23-x-incidence-in-cognitive-problems-korea" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024">Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024</a>
+* [Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024](/posts/within-3-months-of-covid-vaccination-23-x-incidence-in-cognitive-problems-korea)
 
 <!-- ~tc~ (alias(Guillain-Barré Syndrome Explodes in Modern Era of Excessive Vaccination)) ~/tc~ -->
 
@@ -139,7 +139,7 @@ From: Global burden of vaccine-associated Guillain-Barré syndrome over 170 coun
 
 * [COVID Vaccines:&quot;safe and effective&quot; were two lies - Australian Senator - Oct 2024](/posts/covid-vaccinessafe-and-effective-were-two-lies-australian-senator)
 
-* &lt;a href=&quot;/posts/covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024&quot;&gt;COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024&lt;/a&gt;
+* [COVID and or vaccinations causing less Vitamin D and more sickness - Jan 2024](/posts/covid-and-or-vaccinations-causing-less-vitamin-d-and-more-sickness)
 
 * &lt;a href=&quot;/posts/covid-vaccination-problems-1000-x-worse-than-thalidomide&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID vaccination problems 1000 X worse than Thalidomide - Dec 2023&quot;&gt;COVID vaccination problems 1000 X worse than Thalidomide - Dec 2023&lt;/a&gt;
 
@@ -147,7 +147,7 @@ From: Global burden of vaccine-associated Guillain-Barré syndrome over 170 coun
 
 * &lt;a href=&quot;/posts/following-covid-vaccination-31-percent-had-neurological-problems-italy&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Following COVID vaccination 31% had neurological problems (Italy) – Oct 2023&quot;&gt;Following COVID vaccination 31% had neurological problems (Italy) – Oct 2023&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/within-3-months-of-covid-vaccination-23-x-incidence-in-cognitive-problems-korea&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024&quot;&gt;Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024&lt;/a&gt;
+* [Within 3 months of COVID vaccination 2.3 X incidence in cognitive problems – Korea May 2024](/posts/within-3-months-of-covid-vaccination-23-x-incidence-in-cognitive-problems-korea)
 
 &lt;!-- ~tc~ (alias(Guillain-Barré Syndrome Explodes in Modern Era of Excessive Vaccination)) ~/tc~ --&gt;
 

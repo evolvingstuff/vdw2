@@ -43,11 +43,11 @@ date: 2024-09-21
 
 * <a href="/posts/does-survival-of-the-less-fit-mean-less-health-poor-genes-may-be-inherited" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does survival of the less fit mean less health (poor genes may be inherited) ">Does survival of the less fit mean less health (poor genes may be inherited) </a>
 
-* <a href="/posts/autism-treated-by-an-activator-of-the-vitamin-d-receptor-supforaphane" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism treated by an activator of the Vitamin D Receptor: supforaphane - March 2024">Autism treated by an activator of the Vitamin D Receptor: supforaphane - March 2024</a>
+* [Autism treated by an activator of the Vitamin D Receptor: supforaphane - March 2024](/posts/autism-treated-by-an-activator-of-the-vitamin-d-receptor-supforaphane)
 
-* <a href="/posts/an-activated-vitamin-d-receptor-fights-autoimmune-diseases-infections-cancers-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: An activated Vitamin D Receptor fights Autoimmune Diseases, Infections, Cancers, etc. – Dec 2023">An activated Vitamin D Receptor fights Autoimmune Diseases, Infections, Cancers, etc. – Dec 2023</a>
+* [An activated Vitamin D Receptor fights Autoimmune Diseases, Infections, Cancers, etc. – Dec 2023](/posts/an-activated-vitamin-d-receptor-fights-autoimmune-diseases-infections-cancers-etc)
 
-* <a href="/posts/breast-cancer-risk-reduced-if-consume-butyrate" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer risk reduced if consume butyrate - Dec 2023">Breast Cancer risk reduced if consume butyrate - Dec 2023</a>
+* [Breast Cancer risk reduced if consume butyrate - Dec 2023](/posts/breast-cancer-risk-reduced-if-consume-butyrate)
 
 * <a href="/posts/covid-19-outpatients-getting-quercetin-nanoemulsion-had-excellent-outcomes-q-inc--d-in-cells-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 outpatients getting Quercetin nanoemulsion had excellent outcomes (Q increased Vitamin D in cells) – RCT – June 2021">COVID-19 outpatients getting Quercetin nanoemulsion had excellent outcomes (Q increased Vitamin D in cells) – RCT – June 2021</a>
 
@@ -104,11 +104,11 @@ Markdown:
 
 * &lt;a href=&quot;/posts/does-survival-of-the-less-fit-mean-less-health-poor-genes-may-be-inherited&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does survival of the less fit mean less health (poor genes may be inherited) &quot;&gt;Does survival of the less fit mean less health (poor genes may be inherited) &lt;/a&gt;
 
-* &lt;a href=&quot;/posts/autism-treated-by-an-activator-of-the-vitamin-d-receptor-supforaphane&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Autism treated by an activator of the Vitamin D Receptor: supforaphane - March 2024&quot;&gt;Autism treated by an activator of the Vitamin D Receptor: supforaphane - March 2024&lt;/a&gt;
+* [Autism treated by an activator of the Vitamin D Receptor: supforaphane - March 2024](/posts/autism-treated-by-an-activator-of-the-vitamin-d-receptor-supforaphane)
 
-* &lt;a href=&quot;/posts/an-activated-vitamin-d-receptor-fights-autoimmune-diseases-infections-cancers-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: An activated Vitamin D Receptor fights Autoimmune Diseases, Infections, Cancers, etc. – Dec 2023&quot;&gt;An activated Vitamin D Receptor fights Autoimmune Diseases, Infections, Cancers, etc. – Dec 2023&lt;/a&gt;
+* [An activated Vitamin D Receptor fights Autoimmune Diseases, Infections, Cancers, etc. – Dec 2023](/posts/an-activated-vitamin-d-receptor-fights-autoimmune-diseases-infections-cancers-etc)
 
-* &lt;a href=&quot;/posts/breast-cancer-risk-reduced-if-consume-butyrate&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Breast Cancer risk reduced if consume butyrate - Dec 2023&quot;&gt;Breast Cancer risk reduced if consume butyrate - Dec 2023&lt;/a&gt;
+* [Breast Cancer risk reduced if consume butyrate - Dec 2023](/posts/breast-cancer-risk-reduced-if-consume-butyrate)
 
 * &lt;a href=&quot;/posts/covid-19-outpatients-getting-quercetin-nanoemulsion-had-excellent-outcomes-q-inc--d-in-cells-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID-19 outpatients getting Quercetin nanoemulsion had excellent outcomes (Q increased Vitamin D in cells) – RCT – June 2021&quot;&gt;COVID-19 outpatients getting Quercetin nanoemulsion had excellent outcomes (Q increased Vitamin D in cells) – RCT – June 2021&lt;/a&gt;
 

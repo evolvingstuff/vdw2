@@ -429,7 +429,7 @@ For more than 30 years, researchers have identi­fied and quantified genetic and
 
 #### 14 of the many related Alzheimer’s studies in VitaminDWiki
 
-1. <a href="/posts/consensus-vitamin-d-deficiency-is-related-to-alzheimers-9-of-10-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Consensus: Vitamin D deficiency is related to Alzheimers (9 of 10 studies) - May 2024">Consensus: Vitamin D deficiency is related to Alzheimers (9 of 10 studies) - May 2024</a>
+1. [Consensus: Vitamin D deficiency is related to Alzheimers (9 of 10 studies) - May 2024](/posts/consensus-vitamin-d-deficiency-is-related-to-alzheimers-9-of-10-studies)
 
 1. <a href="/posts/end-of-alzheimers-videos-transcripts-and-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: End of Alzheimer's videos, transcripts and many studies">End of Alzheimer's videos, transcripts and many studies</a>
 
@@ -884,7 +884,7 @@ For more than 30 years, researchers have identi­fied and quantified genetic and
 
 #### 14 of the many related Alzheimer’s studies in VitaminDWiki
 
-1. &lt;a href=&quot;/posts/consensus-vitamin-d-deficiency-is-related-to-alzheimers-9-of-10-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Consensus: Vitamin D deficiency is related to Alzheimers (9 of 10 studies) - May 2024&quot;&gt;Consensus: Vitamin D deficiency is related to Alzheimers (9 of 10 studies) - May 2024&lt;/a&gt;
+1. [Consensus: Vitamin D deficiency is related to Alzheimers (9 of 10 studies) - May 2024](/posts/consensus-vitamin-d-deficiency-is-related-to-alzheimers-9-of-10-studies)
 
 1. &lt;a href=&quot;/posts/end-of-alzheimers-videos-transcripts-and-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: End of Alzheimer&#39;s videos, transcripts and many studies&quot;&gt;End of Alzheimer&#39;s videos, transcripts and many studies&lt;/a&gt;
 

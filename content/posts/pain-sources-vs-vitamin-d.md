@@ -43,9 +43,9 @@ Objectives: To investigate the correlation between baseline serum concentrations
 
 1. [Vitamin D may influence pain intensity – review Nov 2024](/posts/vitamin-d-may-influence-pain-intensity-review)
 
-1. <a href="/posts/growing-pains-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Growing pains associated with low Vitamin D - many studies">Growing pains associated with low Vitamin D - many studies</a>
+1. [Growing pains associated with low Vitamin D - many studies](/posts/growing-pains-associated-with-low-vitamin-d-many-studies)
 
-1. <a href="/posts/vitamin-d-reduces-5-types-of-chronic-pain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces 5 types of chronic pain">Vitamin D reduces 5 types of chronic pain</a>
+1. [Vitamin D reduces 5 types of chronic pain](/posts/vitamin-d-reduces-5-types-of-chronic-pain)
 
 1. <a href="/posts/pain-relieved-by-vitamin-d-if-trial-lasted-more-than-5-months-endometriosis-50k-weekly-for-12-months" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pain relieved by Vitamin D if trial lasted more than 5 months (endometriosis, 50K weekly for 12 months) – Aug 2023">Pain relieved by Vitamin D if trial lasted more than 5 months (endometriosis, 50K weekly for 12 months) – Aug 2023</a>
 
@@ -90,9 +90,9 @@ Objectives: To investigate the correlation between baseline serum concentrations
 
 1. [Vitamin D may influence pain intensity – review Nov 2024](/posts/vitamin-d-may-influence-pain-intensity-review)
 
-1. &lt;a href=&quot;/posts/growing-pains-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Growing pains associated with low Vitamin D - many studies&quot;&gt;Growing pains associated with low Vitamin D - many studies&lt;/a&gt;
+1. [Growing pains associated with low Vitamin D - many studies](/posts/growing-pains-associated-with-low-vitamin-d-many-studies)
 
-1. &lt;a href=&quot;/posts/vitamin-d-reduces-5-types-of-chronic-pain&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D reduces 5 types of chronic pain&quot;&gt;Vitamin D reduces 5 types of chronic pain&lt;/a&gt;
+1. [Vitamin D reduces 5 types of chronic pain](/posts/vitamin-d-reduces-5-types-of-chronic-pain)
 
 1. &lt;a href=&quot;/posts/pain-relieved-by-vitamin-d-if-trial-lasted-more-than-5-months-endometriosis-50k-weekly-for-12-months&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pain relieved by Vitamin D if trial lasted more than 5 months (endometriosis, 50K weekly for 12 months) – Aug 2023&quot;&gt;Pain relieved by Vitamin D if trial lasted more than 5 months (endometriosis, 50K weekly for 12 months) – Aug 2023&lt;/a&gt;
 

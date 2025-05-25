@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vitamin D and Boron on VitaminDWiki</title><link>//localhost:1313/categories/vitamin-d-and-boron.html</link><description>Recent content in Vitamin D and Boron on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/vitamin-d-and-boron/index.xml" rel="self" type="application/rss+xml"/><item><title>Boron and Metabolic Disorders</title><link>//localhost:1313/posts/boron-and-metabolic-disorders.html</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/boron-and-metabolic-disorders.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-human-metabolic-disorders---june-2022">Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-human-metabolic-disorders---june-2022">Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022&lt;/h4>
+&lt;p>&lt;a href="https://doi.org/10.1007/s12011-022-03346-9">https://doi.org/10.1007/s12011-022-03346-9&lt;/a> Can be viewed in &lt;a href="https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS?key=springer">DeepDyve&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/boron-metabolic.png" alt="image" width="800">
+&lt;/li>
+&lt;/ul>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022
+
+[https://doi.org/10.1007/s12011-022-03346-9](https://doi.org/10.1007/s12011-022-03346-9) Can be viewed in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS?key=springer)
+
+* &amp;lt;img src=&amp;quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/png/boron-metabolic.png&amp;quot; alt=&amp;quot;image&amp;quot; width=&amp;quot;800&amp;quot;&amp;gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022`
+│ inner_content: `Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022`
+│ │ inner_content: `Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── LinkNode
+│ full_match: `[https://doi.org/10.1007/s12011-022-03346-9]`
+│ inner_content: `https://doi.org/10.1007/s12011-022-03346-9`
+│ url: `https://doi.org/10.1007/s12011-022-03346-9`
+│ children:
+│ ├── TextNode
+│ │ full_match: `https://doi.org/10.1007/s12011-022-03346-9`
+│ │ inner_content: `https://doi.org/10.1007/s12011-022-03346-9`├── TextNode
+│ full_match: ` Can be viewed in `
+│ inner_content: ` Can be viewed in `├── LinkNode
+│ full_match: `[https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS?key=springer|DeepDyve]`
+│ inner_content: `DeepDyve`
+│ url: `https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS?key=springer`
+│ children:
+│ ├── TextNode
+│ │ full_match: `DeepDyve`
+│ │ inner_content: `DeepDyve`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20916&amp;quot; width=&amp;quot;800&amp;quot;}`
+│ inner_content: `{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20916&amp;quot; width=&amp;quot;800&amp;quot;}`
+│ depth: `1`
+│ children:
+│ ├── ImgNode
+│ │ full_match: `{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20916&amp;quot; width=&amp;quot;800&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: type=&amp;quot;attId&amp;quot; attId=&amp;quot;20916&amp;quot; width=&amp;quot;800&amp;quot;
+│ │ │ type: attId
+│ │ │ attId: 20916
+│ │ │ width: 800├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Vitamin D and Boron)) contains:`
+│ inner_content: `VitaminDWiki – ((Vitamin D and Boron)) contains:`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D and Boron))`
+│ │ inner_content: `Vitamin D and Boron`
+│ │ page: `Vitamin D and Boron`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D and Boron`
+│ │ │ inner_content: `Vitamin D and Boron`
+│ ├── TextNode
+│ │ full_match: ` contains:`
+│ │ inner_content: ` contains:`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Vitamin D and Boron&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Vitamin D and Boron&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Vitamin D and Boron
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!20 recently changed items in ((Vitamin D and Boron)) category`
+│ inner_content: `20 recently changed items in ((Vitamin D and Boron)) category`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `20 recently changed items in `
+│ │ inner_content: `20 recently changed items in `
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D and Boron))`
+│ │ inner_content: `Vitamin D and Boron`
+│ │ page: `Vitamin D and Boron`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D and Boron`
+│ │ │ inner_content: `Vitamin D and Boron`
+│ ├── TextNode
+│ │ full_match: ` category`
+│ │ inner_content: ` category`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── EmphasisNode
+│ full_match: `&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;`
+│ inner_content: `This list is automatically updated`
+│ children:
+│ ├── TextNode
+│ │ full_match: `This list is automatically updated`
+│ │ inner_content: `This list is automatically updated`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── DivNode
+│ full_match: `{DIV(class=&amp;quot;hide2columns&amp;quot;)}{LISTPAGES(categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}{DIV}`
+│ inner_content: `{LISTPAGES(categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;hide2columns&amp;quot;)
+│ │ class: hide2columns
+│ children:
+│ ├── ListPagesNode
+│ │ full_match: `{LISTPAGES(categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}`
+│ │ inner_content: ` `
+│ │ attrs_dict:
+│ │ │ raw_content: categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;
+│ │ │ categId: 119
+│ │ │ max: 20
+│ │ │ sort: lastModif_desc
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: ` `
+│ │ │ inner_content: ` `├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Metabolic Syndrome)) contains:`
+│ inner_content: `VitaminDWiki – ((Metabolic Syndrome)) contains:`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Metabolic Syndrome))`
+│ │ inner_content: `Metabolic Syndrome`
+│ │ page: `Metabolic Syndrome`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Metabolic Syndrome`
+│ │ │ inner_content: `Metabolic Syndrome`
+│ ├── TextNode
+│ │ full_match: ` contains:`
+│ │ inner_content: ` contains:`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Metabolic Syndrome&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Metabolic Syndrome&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Metabolic Syndrome
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!Metabolic Syndrome Associations with other categories`
+│ inner_content: `Metabolic Syndrome Associations with other categories`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Metabolic Syndrome Associations with other categories`
+│ │ inner_content: `Metabolic Syndrome Associations with other categories`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Metabolic Syndrome&amp;quot; start=&amp;quot;~tc~ starta ~/tc~&amp;quot; stop=&amp;quot;~tc~ enda ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Metabolic Syndrome&amp;quot; start=&amp;quot;~tc~ starta ~/tc~&amp;quot; stop=&amp;quot;~tc~ enda ~/tc~&amp;quot;
+│ │ page: Metabolic Syndrome
+│ │ start: ~tc~ starta ~/tc~
+│ │ stop: ~tc~ enda ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022
+[https://doi.org/10.1007/s12011-022-03346-9] Can be viewed in [https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS?key=springer|DeepDyve]
+*{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20916&amp;quot; width=&amp;quot;800&amp;quot;}
+---
+!!!!VitaminDWiki – ((Vitamin D and Boron)) contains:
+{include page=&amp;quot;Vitamin D and Boron&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!20 recently changed items in ((Vitamin D and Boron)) category
+&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;
+{DIV(class=&amp;quot;hide2columns&amp;quot;)}{LISTPAGES(categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}{DIV}
+---
+!!!!VitaminDWiki – ((Metabolic Syndrome)) contains:
+{include page=&amp;quot;Metabolic Syndrome&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!Metabolic Syndrome Associations with other categories
+{include page=&amp;quot;Metabolic Syndrome&amp;quot; start=&amp;quot;~tc~ starta ~/tc~&amp;quot; stop=&amp;quot;~tc~ enda ~/tc~&amp;quot;}
+&lt;/code>
+&lt;/pre></description></item><item><title>Boron appears to increase Vitamin D by inhibiting a gene - 2004</title><link>//localhost:1313/posts/boron-appears-to-increase-vitamin-d-by-inhibiting-a-gene-2004.html</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/boron-appears-to-increase-vitamin-d-by-inhibiting-a-gene-2004.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#up-regulatory-impact-of-boron-on-vitamin-d-function-----does-it-reflect-inhibition-of-24-hydroxylase">Up-regulatory impact of boron on vitamin D function - - does it reflect inhibition of 24-hydroxylase?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#66-citations-of-this-study-as-of-march-2024">66 Citations of this study as of March 2024&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="up-regulatory-impact-of-boron-on-vitamin-d-function-----does-it-reflect-inhibition-of-24-hydroxylase">Up-regulatory impact of boron on vitamin D function - - does it reflect inhibition of 24-hydroxylase?&lt;/h4>
+&lt;p>Med Hypotheses. 2004;63(6):1054-6. &lt;a href="https://doi.org/10.1016/j.mehy.2003.12.053.">doi: 10.1016/j.mehy.2003.12.053.&lt;/a>&lt;/p>
+&lt;p>Dusan Miljkovic 1, Natasha Miljkovic, Mark F McCarty&lt;/p>
+&lt;p>Nutritional intakes of boron have been shown to lessen the adverse consequences of vitamin D deficiency in rodents. Pilot clinical studies suggest that this effect may be mediated, in whole or in part, by an increase in serum 25-hydroxyvitamin D. We propose that, in concentrations achievable with good diets, boron suppresses the activity of the microsomal enzyme 24-hydroxylase, chiefly responsible for catabolism of this steroid. This inhibition may reflect a direct interaction with the enzyme, or perhaps boron&amp;rsquo;s ability to form a covalent complex with the product of its activity, 24,25-dihydroxyvitamin D. An up-regulatory impact of boron on 25-hydroxyvitamin D is potentially beneficial in light of the fact that the vitamin D status of many individuals is poor during winter months, and traditional supplemental doses of this vitamin are often too low to correct this problem. There is growing evidence that good vitamin D status - - as reflected by 25-hydroxyvitamin D levels - - may reduce risk for a host of prominent disorders; thus, boron may have the ability to potentiate this protection. Clinical studies also suggest that nutritional boron can up-regulate 17beta-estradiol levels in women, including postmenopausal women receiving hormone replacement therapy. The catabolism of this hormone is achieved by microsomal enzymes catalyzing vicinal hydroxylations - - a description that also applies to 24-hydroxylase. This suggests the more general hypothesis that nutritional boron can inhibit a range of microsomal enzymes which insert hydroxyl groups vicinal to existing hydroxyls in steroids - - including the enzymes which catabolize estradiol and 25-hydroxyvitamin D.&lt;/p></description></item><item><title>Boron For Vitamin D Deficiency</title><link>//localhost:1313/posts/boron-for-vitamin-d-deficiency.html</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/boron-for-vitamin-d-deficiency.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#boron-for-vitamin-ddeficiency-contains">Boron For Vitamin D Deficiency contains:&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#how-boron-can-help">HOW BORON CAN HELP&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-relationship-between-boron-and-vitamin-d">THE RELATIONSHIP BETWEEN BORON AND VITAMIN D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#conclusion">CONCLUSION&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h3 id="boron-for-vitamin-ddeficiency-contains">Boron For Vitamin D Deficiency contains:&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="https://www.linkedin.com/pulse/boron-vitamin-d-deficiency-upgradedformulas-r0sge/?trk=organization_guest_main-feed-card_feed-article-content">on LinkedIn&lt;/a>&lt;/strong>&lt;/p>
+&lt;h4 id="how-boron-can-help">HOW BORON CAN HELP&lt;/h4>
+&lt;p>Research, consisting of both animal and human studies, has revealed the &lt;a href="https://scholar.google.com/scholar_lookup?journal=J%20Trace%20Elem%20Exp%20Med&amp;amp;title=Effect%20of%20boron%20depletion%20and%20repletion%20on%20blood%20indicators%20of%20calcium%20status%20in%20humans%20fed%20a%20magnesium-low%20diet&amp;amp;author=FH%20Nielsen&amp;amp;author=LM%20Mullen&amp;amp;author=SK%20Gallegher&amp;amp;volume=3&amp;amp;publication_year=1990&amp;amp;pages=45-54&amp;amp;">beneficial role of boron in increasing the serum levels of Vitamin D&lt;/a>. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.&lt;/p></description></item><item><title>Boron improves Human Health</title><link>//localhost:1313/posts/boron-improves-human-health.html</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/boron-improves-human-health.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-physiological-role-of-boron-on-health---march-2018">The Physiological Role of Boron on Health - March 2018&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-physiological-role-of-boron-on-health---march-2018">The Physiological Role of Boron on Health - March 2018&lt;/h4>
+&lt;p>&lt;a href="https://doi.org/10.1007/s12011-018-1284-3">https://doi.org/10.1007/s12011-018-1284-3&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Table of Contents&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/toc-boron-on-health.png" alt="image" width="400">
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/boron-on-health.pdf">Download the PDF from Sci-Hub via VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+{{&amp;lt; toc &amp;gt;}}
+
+---
+
+#### The Physiological Role of Boron on Health - March 2018
+
+[https://doi.org/10.1007/s12011-018-1284-3](https://doi.org/10.1007/s12011-018-1284-3) 
+
+ * **Table of Contents** 
+
+ * &amp;lt;img src=&amp;quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/png/toc-boron-on-health.png&amp;quot; alt=&amp;quot;image&amp;quot; width=&amp;quot;400&amp;quot;&amp;gt;
+
+ * **&amp;lt;i class=&amp;quot;fas fa-file-pdf&amp;quot; style=&amp;quot;margin-right: 0.3em;&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;a href=&amp;quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/boron-on-health.pdf&amp;quot;&amp;gt;Download the PDF from Sci-Hub via VitaminDWiki &amp;lt;/a&amp;gt;** 
+
+
+AST Structure:
+-------------
+├── DivNode
+│ full_match: `{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}`
+│ inner_content: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;lefth4&amp;quot;)
+│ │ class: lefth4
+│ children:
+│ ├── MakeTocNode
+│ │ full_match: `{maketoc Title=&amp;quot;&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: Title=&amp;quot;&amp;quot;
+│ │ │ Title: ├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!The Physiological Role of Boron on Health - March 2018`
+│ inner_content: `The Physiological Role of Boron on Health - March 2018`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `The Physiological Role of Boron on Health - March 2018`
+│ │ inner_content: `The Physiological Role of Boron on Health - March 2018`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── LinkNode
+│ full_match: `[https://doi.org/10.1007/s12011-018-1284-3]`
+│ inner_content: `https://doi.org/10.1007/s12011-018-1284-3`
+│ url: `https://doi.org/10.1007/s12011-018-1284-3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `https://doi.org/10.1007/s12011-018-1284-3`
+│ │ inner_content: `https://doi.org/10.1007/s12011-018-1284-3`├── TextNode
+│ full_match: ` \n`
+│ inner_content: ` \n`├── ListItemNode
+│ full_match: `**__Table of Contents__`
+│ inner_content: `__Table of Contents__`
+│ depth: `2`
+│ children:
+│ ├── BoldNode
+│ │ full_match: `__Table of Contents__`
+│ │ inner_content: `Table of Contents`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Table of Contents`
+│ │ │ inner_content: `Table of Contents`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `**{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20921&amp;quot; width=&amp;quot;400&amp;quot;}`
+│ inner_content: `{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20921&amp;quot; width=&amp;quot;400&amp;quot;}`
+│ depth: `2`
+│ children:
+│ ├── ImgNode
+│ │ full_match: `{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20921&amp;quot; width=&amp;quot;400&amp;quot;}`
+│ │ inner_content: ``
+│ │ attrs_dict:
+│ │ │ raw_content: type=&amp;quot;attId&amp;quot; attId=&amp;quot;20921&amp;quot; width=&amp;quot;400&amp;quot;
+│ │ │ type: attId
+│ │ │ attId: 20921
+│ │ │ width: 400├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `**{FONT(size=&amp;quot;18&amp;quot;)}__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from Sci-Hub via VitaminDWiki {ATTACH}__{FONT}`
+│ inner_content: `{FONT(size=&amp;quot;18&amp;quot;)}__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from Sci-Hub via VitaminDWiki {ATTACH}__{FONT}`
+│ depth: `2`
+│ children:
+│ ├── FontNode
+│ │ full_match: `{FONT(size=&amp;quot;18&amp;quot;)}__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from Sci-Hub via VitaminDWiki {ATTACH}__{FONT}`
+│ │ inner_content: `__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from Sci-Hub via VitaminDWiki {ATTACH}__`
+│ │ attrs_dict:
+│ │ │ raw_content: size=&amp;quot;18&amp;quot;
+│ │ │ size: 18
+│ │ children:
+│ │ ├── BoldNode
+│ │ │ full_match: `__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from Sci-Hub via VitaminDWiki {ATTACH}__`
+│ │ │ inner_content: `{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from Sci-Hub via VitaminDWiki {ATTACH}`
+│ │ │ children:
+│ │ │ ├── AttachNode
+│ │ │ │ full_match: `{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from Sci-Hub via VitaminDWiki {ATTACH}`
+│ │ │ │ inner_content: `Download the PDF from Sci-Hub via VitaminDWiki `
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: (inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)
+│ │ │ │ │ inline: 1
+│ │ │ │ │ id: 20920
+│ │ │ │ │ icon: 1
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `Download the PDF from Sci-Hub via VitaminDWiki `
+│ │ │ │ │ inner_content: `Download the PDF from Sci-Hub via VitaminDWiki `├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!VitaminDWiki – ((Vitamin D and Boron)) contains:`
+│ inner_content: `VitaminDWiki – ((Vitamin D and Boron)) contains:`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `VitaminDWiki – `
+│ │ inner_content: `VitaminDWiki – `
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D and Boron))`
+│ │ inner_content: `Vitamin D and Boron`
+│ │ page: `Vitamin D and Boron`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D and Boron`
+│ │ │ inner_content: `Vitamin D and Boron`
+│ ├── TextNode
+│ │ full_match: ` contains:`
+│ │ inner_content: ` contains:`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Vitamin D and Boron&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Vitamin D and Boron&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Vitamin D and Boron
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!20 recently changed items in ((Vitamin D and Boron)) category`
+│ inner_content: `20 recently changed items in ((Vitamin D and Boron)) category`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `20 recently changed items in `
+│ │ inner_content: `20 recently changed items in `
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D and Boron))`
+│ │ inner_content: `Vitamin D and Boron`
+│ │ page: `Vitamin D and Boron`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D and Boron`
+│ │ │ inner_content: `Vitamin D and Boron`
+│ ├── TextNode
+│ │ full_match: ` category`
+│ │ inner_content: ` category`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── EmphasisNode
+│ full_match: `&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;`
+│ inner_content: `This list is automatically updated`
+│ children:
+│ ├── TextNode
+│ │ full_match: `This list is automatically updated`
+│ │ inner_content: `This list is automatically updated`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── DivNode
+│ full_match: `{DIV(class=&amp;quot;hide2columns&amp;quot;)}{LISTPAGES(categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}{DIV}`
+│ inner_content: `{LISTPAGES(categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}`
+│ attrs_dict:
+│ │ raw_content: (class=&amp;quot;hide2columns&amp;quot;)
+│ │ class: hide2columns
+│ children:
+│ ├── ListPagesNode
+│ │ full_match: `{LISTPAGES(categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}`
+│ │ inner_content: ` `
+│ │ attrs_dict:
+│ │ │ raw_content: categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;
+│ │ │ categId: 119
+│ │ │ max: 20
+│ │ │ sort: lastModif_desc
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: ` `
+│ │ │ inner_content: ` `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&amp;quot;lefth4&amp;quot;)}{maketoc Title=&amp;quot;&amp;quot;}{DIV}
+---
+!!!!The Physiological Role of Boron on Health - March 2018
+[https://doi.org/10.1007/s12011-018-1284-3] 
+**__Table of Contents__
+**{img type=&amp;quot;attId&amp;quot; attId=&amp;quot;20921&amp;quot; width=&amp;quot;400&amp;quot;}
+**{FONT(size=&amp;quot;18&amp;quot;)}__{ATTACH(inline=&amp;quot;1&amp;quot; id=&amp;quot;20920&amp;quot; icon=&amp;quot;1&amp;quot;)}Download the PDF from Sci-Hub via VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki – ((Vitamin D and Boron)) contains:
+{include page=&amp;quot;Vitamin D and Boron&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+---
+!!!!20 recently changed items in ((Vitamin D and Boron)) category
+&amp;#39;&amp;#39;This list is automatically updated&amp;#39;&amp;#39;
+{DIV(class=&amp;quot;hide2columns&amp;quot;)}{LISTPAGES(categId=119, max=20, sort=&amp;quot;lastModif_desc&amp;quot;)} {LISTPAGES}{DIV}
+
+&lt;/code>
+&lt;/pre></description></item><item><title>Pivotal role of Boron supplementation on bone health</title><link>//localhost:1313/posts/pivotal-role-of-boron-supplementation-on-bone-health.html</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/pivotal-role-of-boron-supplementation-on-bone-health.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#pivotal-role-of-boron-supplementation-on-bone-health-a-narrative-review">Pivotal role of boron supplementation on bone health: A narrative review&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="pivotal-role-of-boron-supplementation-on-bone-health-a-narrative-review">Pivotal role of boron supplementation on bone health: A narrative review&lt;/h4>
+&lt;p>Journal of Trace Elements in Medicine and Biology Vol 62, Dec 2020, &lt;a href="https://doi.org/10.1016/j.jtemb.2020.126577">https://doi.org/10.1016/j.jtemb.2020.126577&lt;/a>&lt;/p>
+&lt;p>Mariangela Rondanelli a b, Milena Anna Faliva c, Gabriella Peroni c, Vittoria Infantino b, Clara Gasparri c, Giancarlo Iannello d, Simone Perna e, Antonella Riva f, Giovanna Petrangolini f, Alice Tartara c&lt;/p>
+&lt;p>&lt;strong>Table of Contents&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/tc-pivotal-role.png" alt="image" width="800">
+&lt;p>Background&lt;/p>
+&lt;p>Boron is a trace element that plays an important role in numerous biological functions, including calcium metabolism, growth and maintenance of bone tissue. However, there are still no precise indications regarding a possible role of boron supplementation, and its amount of supplementation, to maintain bone health. So the aim of this narrative review was to consider the state of the art on the effectiveness of boron supplementation (alone or with other micronutrients) on growth and maintenance of bone in humans through control of calcium, vitamin D and sex steroid hormone metabolism in order to suggest a daily dosage of boron supplementation.&lt;/p></description></item></channel></rss>

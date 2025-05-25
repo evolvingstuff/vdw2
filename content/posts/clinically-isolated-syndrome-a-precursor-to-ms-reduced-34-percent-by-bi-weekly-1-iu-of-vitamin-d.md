@@ -81,7 +81,7 @@ This study was funded in part by the French Ministry of Health. Thouvenot report
 
 [Multiple Sclerosis is treated by Vitamin D – 10 reasons – Sept 2024](/posts/multiple-sclerosis-is-treated-by-vitamin-d-10-reasons)
 
-<a href="/posts/54000-iu-of-vitamin-d-daily-with-no-calcium-1000-iu-per-kg-coimbra-protocol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 54,000 IU of vitamin D daily with no Calcium (1,000 IU per kg: Coimbra protocol) – July 2024">54,000 IU of vitamin D daily with no Calcium (1,000 IU per kg: Coimbra protocol) – July 2024</a>
+[54,000 IU of vitamin D daily with no Calcium (1,000 IU per kg: Coimbra protocol) – July 2024](/posts/54000-iu-of-vitamin-d-daily-with-no-calcium-1000-iu-per-kg-coimbra-protocol)
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -160,7 +160,7 @@ This study was funded in part by the French Ministry of Health. Thouvenot report
 
 [Multiple Sclerosis is treated by Vitamin D – 10 reasons – Sept 2024](/posts/multiple-sclerosis-is-treated-by-vitamin-d-10-reasons)
 
-&lt;a href=&quot;/posts/54000-iu-of-vitamin-d-daily-with-no-calcium-1000-iu-per-kg-coimbra-protocol&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 54,000 IU of vitamin D daily with no Calcium (1,000 IU per kg: Coimbra protocol) – July 2024&quot;&gt;54,000 IU of vitamin D daily with no Calcium (1,000 IU per kg: Coimbra protocol) – July 2024&lt;/a&gt;
+[54,000 IU of vitamin D daily with no Calcium (1,000 IU per kg: Coimbra protocol) – July 2024](/posts/54000-iu-of-vitamin-d-daily-with-no-calcium-1000-iu-per-kg-coimbra-protocol)
 
 
 AST Structure:

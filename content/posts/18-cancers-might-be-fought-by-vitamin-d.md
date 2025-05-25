@@ -113,7 +113,7 @@ This study highlights the extensive research on vitamin D and its complex links 
 
 1. Trial only used Vitamin D monotherapy
 
-> &nbsp; often need co-factors, such as Omega-3 or <a href="/posts/magnesium-and-cancer-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Cancer - many studies">Magnesium</a> to boost the reponse to Vitamin D
+> &nbsp; often need co-factors, such as Omega-3 or [Magnesium](/posts/magnesium-and-cancer-many-studies) to boost the reponse to Vitamin D
 
 > &nbsp; while also fighting inflammation
 
@@ -227,7 +227,7 @@ This study highlights the extensive research on vitamin D and its complex links 
 
 1. Trial only used Vitamin D monotherapy
 
-&gt; &amp;nbsp; often need co-factors, such as Omega-3 or &lt;a href=&quot;/posts/magnesium-and-cancer-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium and Cancer - many studies&quot;&gt;Magnesium&lt;/a&gt; to boost the reponse to Vitamin D
+&gt; &amp;nbsp; often need co-factors, such as Omega-3 or [Magnesium](/posts/magnesium-and-cancer-many-studies) to boost the reponse to Vitamin D
 
 &gt; &amp;nbsp; while also fighting inflammation
 

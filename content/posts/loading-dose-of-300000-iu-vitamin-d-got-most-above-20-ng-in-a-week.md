@@ -1,0 +1,556 @@
+---
+title: "Loading dose of 300,000 IU Vitamin D got most above 20 ng in a week"
+slug: "loading-dose-of-300000-iu-vitamin-d-got-most-above-20-ng-in-a-week"
+aliases:
+  - "/Loading+dose+of+300000+IU+Vitamin+D+got+most+above+20+ng+in+a+week+–+Nov+2023"
+  - "/15431"
+tiki_page_id: 15431
+date: 2024-07-31
+---
+
+
+{{< toc >}}
+
+---
+
+#### Efficacy and safety of single or consecutive double high-dose oral cholecalciferol supplementation in adult patients with vitamin D deficiency
+
+Steroids , November 2023, 109308 https://doi.org/10.1016/j.steroids.2023.109308 PDF is behind a paywall
+
+Ramazan Yilmaz
+
+Background and Aim
+
+Enhancing vitamin D levels as a crucial modifiable risk factor may provide a critical contribution to prevent susceptibility to various diseases, including musculoskeletal, autoimmune, and inflammatory rheumatic diseases as well as promoting overall health. However, adherence to daily vitamin D supplementation is generally poor, and there are some concerns regarding the high-dose vitamin D supplementation's safety. We aimed to investigate whether a single oral dose of 300,000 IU or consecutive two-day dosing of 300,000 IU each day of cholecalciferol could sufficiently and safely elevate vitamin D levels.
+
+Methods
+
+This cross-sectional study was conducted on 160 inpatients with vitamin D deficiency and various musculoskeletal diseases. Subjects with serum 25(OH)D levels between 10 and 20 ng/mL (mild to moderate deficiency) received a single oral dose of 300,000 IU cholecalciferol, while those with severe vitamin D deficiency (<10 ng/mL) were supplemented with consecutive two-day doses of 300,000 IU cholecalciferol (a total of 600,000 IU).
+
+##### Those with <10 ng initially got two 300,000 IU doses
+
+Results
+
+After one week of replacement therapy, the 25(OH)D levels increased from 6.3 (4.0–9.9) ng/mL to 53.3 (8.3–84.4) ng/mL and from 15.0 (10.1–19.6) ng/mL to 38.4 (16.3–67.7) in the group with severe and those with the mild-to-moderate vitamin D deficiency, respectively. Except for three patients, nearly all patients (98%) achieved levels above 20 ng/mL. No signs of toxicity were observed in any of the patients. During the 6-month follow-up, falls were observed in 3 patients (2.8%), but no fractures were reported.
+
+Conclusion
+
+A single dose of 300,000 IU of oral cholecalciferol or two consecutive doses with a total dose of 600,000 IU cholecalciferol can effectively and reliably increase the 25(OH)D serum levels within one week in nearly all patients. The results may contribute to optimizing treatment strategies for vitamin D deficiency and re-evaluating the potential negative impact of high-dose vitamin D supplementation.
+
+Introduction
+
+Vitamin D acts as a steroid prehormone, possessing essential functions in calcium (Ca) and phosphorus (P) balance and bone health <sup>[1]</sup>. The widespread distribution of vitamin D receptors (VDRs) across various tissues in the human body, including macrophages, monocytes, dendritic cells, T cells, and B cells, suggests that this vitamin may exert immunomodulatory effects on autoimmune disorders, COVID-19, various systemic diseases, and inflammatory rheumatic diseases, as well as its established involvement in skeletal system maintenance <sup>[2]</sup>, <sup>[3]</sup>, <sup>[4]</sup>, <sup>[5]</sup>.
+
+The vitamin D3 (cholecalciferol) synthesized endogenously in the human body through ultraviolet-B radiation (UVB) in sunlight, from the steroid structure naturally present in the skin known as 7-dehydrocholesterol (provitamin D3), constitutes the most significant and fundamental (∼90%) source of vitamin D in the human body <sup>[6]</sup>. Another more limited natural source is vitamin D2 (ergocalciferol), obtained through diet from certain foods. The inactive forms of vitamin D, whether synthesized in the skin or obtained through diet, circulate to the liver, where they are converted to 25-hydroxyvitamin D (25(OH)D). In the final stage, 25 (OH)D is converted into its biologically active form, 1,25 (OH)D, primarily in the kidneys. The 25(OH)D form, with its longer half-life (approximately 3 weeks compared to about 2 days for the half-life of 1,25(OH)D), and being the main form in circulation, serves as a reflection of vitamin D status <sup>[7]</sup>. Therefore, it is commonly used in clinical practice to measure vitamin D levels. While there is ongoing debate regarding the specific threshold for normal serum vitamin D levels, generally levels below 20 ng/mL are classified as vitamin D deficiency, and levels below 10 ng/mL are classified as severe deficiency<sup>[1]</sup>, <sup>[7]</sup>, <sup>[8]</sup>, <sup>[9]</sup>. According to these values, rates of vitamin D deficiency varying from 70% to 80% have been observed in specific populations, and the estimated vitamin D deficiency in the general population is around 25% <sup>[7]</sup>, <sup>[8]</sup>, <sup>[9]</sup>, <sup>[10]</sup>. While vitamin D can naturally be synthesized through sunlight exposure, there are several rational reasons underlying its frequent deficiency. Modern lifestyles have led people to avoid sun exposure, and factors such as the increased risk of skin cancer due to direct exposure to sunlight have made the use of vitamin D supplements necessary in cases of vitamin D deficiency <sup>[11]</sup>.
+
+Oral daily or weekly cholecalciferol replacement is commonly used for the treatment of vitamin D deficiency. With this approach, even with doses of 4,000–10,000 IU/day or 50,000 IU/week, may take up to 2–3 months to achieve optimal serum 25(OH)D levels <sup>[7]</sup>, <sup>[8]</sup>, <sup>[12]</sup>. While it is possible to achieve the target levels in much shorter periods with high-dose oral or intramuscular vitamin D replacement, it should be noted that despite the strong evidence of the potential benefits of vitamin D therapy in osteoporosis and fracture risk <sup>[13]</sup>, <sup>[14]</sup>, some compelling evidence suggests that high-dose vitamin D replacement may increase the risk of falls and fractures, which has deterred many clinicians from using high-dose supplementation <sup>[14]</sup>, <sup>[15]</sup>. However, it should be emphasized that the majority of the existing literature primarily focuses on the elderly population, specific patient groups, or outpatient settings <sup>[13]</sup>, <sup>[14]</sup>, <sup>[15]</sup>, <sup>[16]</sup>.
+
+In recent years, studies have shed light on the importance of promptly raising vitamin D levels to normal ranges in certain critical conditions, including autoimmune, rheumatological, and COVID-19 diseases, thereby awakening the notion of potential critical benefits through rapid replacement <sup>[17]</sup>, <sup>[18]</sup>, <sup>[19]</sup>. High-dose vitamin D replacement not only eliminates the problem of daily oral treatment non-adherence <sup>[20]</sup> but also has the advantage of quickly raising serum vitamin D levels to normal values, potentially leading to significant clinical benefits. However, before recommending high-dose supplementation, its safety should be demonstrated. Therefore, the identification of an effective and safe approach, encompassing optimal dosage and administration routes, to raise serum 25(OH)D levels through high-dose vitamin D supplementation is crucial.
+
+The aim of this study is to investigate whether a single oral dose of 300,000 IU or consecutive two-day doses of 300,000 IU each day (a total of 600,000 IU) of oral cholecalciferol supplementation can effectively and safely raise serum vitamin D levels to the optimal range in individuals with vitamin D deficiency. Thus, this study may provide a practical intervention that can be easily applied in clinical practice and serve as a management strategy for optimizing treatment. However, it should be noted that the present study does not attempt to demonstrate the efficacy of replacement therapy on clinical symptoms or perform a risk–benefit analysis.
+
+##### Section snippets
+
+Study design
+
+The study was designed as a cross-sectional observational study in a Yoncali Specialized Hospital of Physical Medicine and Rehabilitation Clinic in Kütahya, Turkey (latitude: 39°42 north; longitude: 29°98 east). The data in the study consists of a retrospective review of the prospectively collected data between December 2016 and June 2018. The study protocol was approved by the Ethics Committee of Dumlupınar University, Faculty of Medicine Clinical Research Ethics Committee (date: 27.11.2017,…
+
+Results
+
+A total of 175 patients were included in the study. However, 12 patients were excluded from the study due to missing control blood tests, and 3 patients were excluded due to the use of vitamin D supplements. Therefore, the study was completed with 160 patients (Fig. 1). The median age of the patients was 60.0 years, and approximately 2/3 of them were females. Patients with degenerative arthritis and intervertebral disc lesions accounted for three-quarters of the patients. Vitamin D levels…
+
+Discussion
+
+In this study, an easy-to-apply, cost-effective, and well-defined oral cholecalciferol replacement protocol was implemented in hospitalized patients with various musculoskeletal diseases who had a vitamin D deficiency. As a result, prompt, effective, and safe supplementation was observed within a short period. No symptomatic side effects were observed in any of the patients during their hospitalization period and no laboratory findings indicating vitamin D intoxication were detected. To the…
+
+Conclusions
+
+In patients with vitamin D deficiency, depending on the severity of the deficiency, a single dose of 300,000 IU oral cholecalciferol or two consecutive doses totaling 600,000 IU cholecalciferol given over two days has raised the 25(OH)D serum level above 30 ng/ml in 85% of patients in one week. No signs of vitamin D toxicity were observed in any patient, and no fractures were observed in any patient after a 6-month follow-up. Considering the patients' adherence issues with daily treatments and…
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Efficacy and safety of single or consecutive double high-dose oral cholecalciferol supplementation in adult patients with vitamin D deficiency
+
+Steroids , November 2023, 109308 https://doi.org/10.1016/j.steroids.2023.109308 PDF is behind a paywall
+
+Ramazan Yilmaz
+
+Background and Aim
+
+Enhancing vitamin D levels as a crucial modifiable risk factor may provide a critical contribution to prevent susceptibility to various diseases, including musculoskeletal, autoimmune, and inflammatory rheumatic diseases as well as promoting overall health. However, adherence to daily vitamin D supplementation is generally poor, and there are some concerns regarding the high-dose vitamin D supplementation&#39;s safety. We aimed to investigate whether a single oral dose of 300,000 IU or consecutive two-day dosing of 300,000 IU each day of cholecalciferol could sufficiently and safely elevate vitamin D levels.
+
+Methods
+
+This cross-sectional study was conducted on 160 inpatients with vitamin D deficiency and various musculoskeletal diseases. Subjects with serum 25(OH)D levels between 10 and 20 ng/mL (mild to moderate deficiency) received a single oral dose of 300,000 IU cholecalciferol, while those with severe vitamin D deficiency (&lt;10 ng/mL) were supplemented with consecutive two-day doses of 300,000 IU cholecalciferol (a total of 600,000 IU).
+
+##### Those with &lt;10 ng initially got two 300,000 IU doses
+
+Results
+
+After one week of replacement therapy, the 25(OH)D levels increased from 6.3 (4.0–9.9) ng/mL to 53.3 (8.3–84.4) ng/mL and from 15.0 (10.1–19.6) ng/mL to 38.4 (16.3–67.7) in the group with severe and those with the mild-to-moderate vitamin D deficiency, respectively. Except for three patients, nearly all patients (98%) achieved levels above 20 ng/mL. No signs of toxicity were observed in any of the patients. During the 6-month follow-up, falls were observed in 3 patients (2.8%), but no fractures were reported.
+
+Conclusion
+
+A single dose of 300,000 IU of oral cholecalciferol or two consecutive doses with a total dose of 600,000 IU cholecalciferol can effectively and reliably increase the 25(OH)D serum levels within one week in nearly all patients. The results may contribute to optimizing treatment strategies for vitamin D deficiency and re-evaluating the potential negative impact of high-dose vitamin D supplementation.
+
+Introduction
+
+Vitamin D acts as a steroid prehormone, possessing essential functions in calcium (Ca) and phosphorus (P) balance and bone health &lt;sup&gt;[1]&lt;/sup&gt;. The widespread distribution of vitamin D receptors (VDRs) across various tissues in the human body, including macrophages, monocytes, dendritic cells, T cells, and B cells, suggests that this vitamin may exert immunomodulatory effects on autoimmune disorders, COVID-19, various systemic diseases, and inflammatory rheumatic diseases, as well as its established involvement in skeletal system maintenance &lt;sup&gt;[2]&lt;/sup&gt;, &lt;sup&gt;[3]&lt;/sup&gt;, &lt;sup&gt;[4]&lt;/sup&gt;, &lt;sup&gt;[5]&lt;/sup&gt;.
+
+The vitamin D3 (cholecalciferol) synthesized endogenously in the human body through ultraviolet-B radiation (UVB) in sunlight, from the steroid structure naturally present in the skin known as 7-dehydrocholesterol (provitamin D3), constitutes the most significant and fundamental (∼90%) source of vitamin D in the human body &lt;sup&gt;[6]&lt;/sup&gt;. Another more limited natural source is vitamin D2 (ergocalciferol), obtained through diet from certain foods. The inactive forms of vitamin D, whether synthesized in the skin or obtained through diet, circulate to the liver, where they are converted to 25-hydroxyvitamin D (25(OH)D). In the final stage, 25 (OH)D is converted into its biologically active form, 1,25 (OH)D, primarily in the kidneys. The 25(OH)D form, with its longer half-life (approximately 3 weeks compared to about 2 days for the half-life of 1,25(OH)D), and being the main form in circulation, serves as a reflection of vitamin D status &lt;sup&gt;[7]&lt;/sup&gt;. Therefore, it is commonly used in clinical practice to measure vitamin D levels. While there is ongoing debate regarding the specific threshold for normal serum vitamin D levels, generally levels below 20 ng/mL are classified as vitamin D deficiency, and levels below 10 ng/mL are classified as severe deficiency&lt;sup&gt;[1]&lt;/sup&gt;, &lt;sup&gt;[7]&lt;/sup&gt;, &lt;sup&gt;[8]&lt;/sup&gt;, &lt;sup&gt;[9]&lt;/sup&gt;. According to these values, rates of vitamin D deficiency varying from 70% to 80% have been observed in specific populations, and the estimated vitamin D deficiency in the general population is around 25% &lt;sup&gt;[7]&lt;/sup&gt;, &lt;sup&gt;[8]&lt;/sup&gt;, &lt;sup&gt;[9]&lt;/sup&gt;, &lt;sup&gt;[10]&lt;/sup&gt;. While vitamin D can naturally be synthesized through sunlight exposure, there are several rational reasons underlying its frequent deficiency. Modern lifestyles have led people to avoid sun exposure, and factors such as the increased risk of skin cancer due to direct exposure to sunlight have made the use of vitamin D supplements necessary in cases of vitamin D deficiency &lt;sup&gt;[11]&lt;/sup&gt;.
+
+Oral daily or weekly cholecalciferol replacement is commonly used for the treatment of vitamin D deficiency. With this approach, even with doses of 4,000–10,000 IU/day or 50,000 IU/week, may take up to 2–3 months to achieve optimal serum 25(OH)D levels &lt;sup&gt;[7]&lt;/sup&gt;, &lt;sup&gt;[8]&lt;/sup&gt;, &lt;sup&gt;[12]&lt;/sup&gt;. While it is possible to achieve the target levels in much shorter periods with high-dose oral or intramuscular vitamin D replacement, it should be noted that despite the strong evidence of the potential benefits of vitamin D therapy in osteoporosis and fracture risk &lt;sup&gt;[13]&lt;/sup&gt;, &lt;sup&gt;[14]&lt;/sup&gt;, some compelling evidence suggests that high-dose vitamin D replacement may increase the risk of falls and fractures, which has deterred many clinicians from using high-dose supplementation &lt;sup&gt;[14]&lt;/sup&gt;, &lt;sup&gt;[15]&lt;/sup&gt;. However, it should be emphasized that the majority of the existing literature primarily focuses on the elderly population, specific patient groups, or outpatient settings &lt;sup&gt;[13]&lt;/sup&gt;, &lt;sup&gt;[14]&lt;/sup&gt;, &lt;sup&gt;[15]&lt;/sup&gt;, &lt;sup&gt;[16]&lt;/sup&gt;.
+
+In recent years, studies have shed light on the importance of promptly raising vitamin D levels to normal ranges in certain critical conditions, including autoimmune, rheumatological, and COVID-19 diseases, thereby awakening the notion of potential critical benefits through rapid replacement &lt;sup&gt;[17]&lt;/sup&gt;, &lt;sup&gt;[18]&lt;/sup&gt;, &lt;sup&gt;[19]&lt;/sup&gt;. High-dose vitamin D replacement not only eliminates the problem of daily oral treatment non-adherence &lt;sup&gt;[20]&lt;/sup&gt; but also has the advantage of quickly raising serum vitamin D levels to normal values, potentially leading to significant clinical benefits. However, before recommending high-dose supplementation, its safety should be demonstrated. Therefore, the identification of an effective and safe approach, encompassing optimal dosage and administration routes, to raise serum 25(OH)D levels through high-dose vitamin D supplementation is crucial.
+
+The aim of this study is to investigate whether a single oral dose of 300,000 IU or consecutive two-day doses of 300,000 IU each day (a total of 600,000 IU) of oral cholecalciferol supplementation can effectively and safely raise serum vitamin D levels to the optimal range in individuals with vitamin D deficiency. Thus, this study may provide a practical intervention that can be easily applied in clinical practice and serve as a management strategy for optimizing treatment. However, it should be noted that the present study does not attempt to demonstrate the efficacy of replacement therapy on clinical symptoms or perform a risk–benefit analysis.
+
+##### Section snippets
+
+Study design
+
+The study was designed as a cross-sectional observational study in a Yoncali Specialized Hospital of Physical Medicine and Rehabilitation Clinic in Kütahya, Turkey (latitude: 39°42 north; longitude: 29°98 east). The data in the study consists of a retrospective review of the prospectively collected data between December 2016 and June 2018. The study protocol was approved by the Ethics Committee of Dumlupınar University, Faculty of Medicine Clinical Research Ethics Committee (date: 27.11.2017,…
+
+Results
+
+A total of 175 patients were included in the study. However, 12 patients were excluded from the study due to missing control blood tests, and 3 patients were excluded due to the use of vitamin D supplements. Therefore, the study was completed with 160 patients (Fig. 1). The median age of the patients was 60.0 years, and approximately 2/3 of them were females. Patients with degenerative arthritis and intervertebral disc lesions accounted for three-quarters of the patients. Vitamin D levels…
+
+Discussion
+
+In this study, an easy-to-apply, cost-effective, and well-defined oral cholecalciferol replacement protocol was implemented in hospitalized patients with various musculoskeletal diseases who had a vitamin D deficiency. As a result, prompt, effective, and safe supplementation was observed within a short period. No symptomatic side effects were observed in any of the patients during their hospitalization period and no laboratory findings indicating vitamin D intoxication were detected. To the…
+
+Conclusions
+
+In patients with vitamin D deficiency, depending on the severity of the deficiency, a single dose of 300,000 IU oral cholecalciferol or two consecutive doses totaling 600,000 IU cholecalciferol given over two days has raised the 25(OH)D serum level above 30 ng/ml in 85% of patients in one week. No signs of vitamin D toxicity were observed in any patient, and no fractures were observed in any patient after a 6-month follow-up. Considering the patients&#39; adherence issues with daily treatments and…
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Efficacy and safety of single or consecutive double high-dose oral cholecalciferol supplementation in adult patients with vitamin D deficiency`
+│   inner_content: `Efficacy and safety of single or consecutive double high-dose oral cholecalciferol supplementation in adult patients with vitamin D deficiency`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Efficacy and safety of single or consecutive double high-dose oral cholecalciferol supplementation in adult patients with vitamin D deficiency`
+│   │   inner_content: `Efficacy and safety of single or consecutive double high-dose oral cholecalciferol supplementation in adult patients with vitamin D deficiency`├── TextNode
+│   full_match: `\nSteroids , November 2023, 109308 https://doi.org/10.1016/j.steroids.2023.109308 PDF is behind a paywall\nRamazan Yilmaz\n\nBackground and Aim\nEnhancing vitamin D levels as a crucial modifiable risk factor may provide a critical contribution to prevent susceptibility to various diseases, including musculoskeletal, autoimmune, and inflammatory rheumatic diseases as well as promoting overall health. However, adherence to daily vitamin D supplementation is generally poor, and there are some concerns regarding the high-dose vitamin D supplementation&#39;s safety. We aimed to investigate whether a single oral dose of 300,000 IU or consecutive two-day dosing of 300,000 IU each day of cholecalciferol could sufficiently and safely elevate vitamin D levels.\n\nMethods\nThis cross-sectional study was conducted on 160 inpatients with vitamin D deficiency and various musculoskeletal diseases. Subjects with serum 25(OH)D levels between 10 and 20 ng/mL (mild to moderate deficiency) received a single oral dose of 300,000 IU cholecalciferol, while those with severe vitamin D deficiency (&lt;10 ng/mL) were supplemented with consecutive two-day doses of 300,000 IU cholecalciferol (a total of 600,000 IU).\n`
+│   inner_content: `\nSteroids , November 2023, 109308 https://doi.org/10.1016/j.steroids.2023.109308 PDF is behind a paywall\nRamazan Yilmaz\n\nBackground and Aim\nEnhancing vitamin D levels as a crucial modifiable risk factor may provide a critical contribution to prevent susceptibility to various diseases, including musculoskeletal, autoimmune, and inflammatory rheumatic diseases as well as promoting overall health. However, adherence to daily vitamin D supplementation is generally poor, and there are some concerns regarding the high-dose vitamin D supplementation&#39;s safety. We aimed to investigate whether a single oral dose of 300,000 IU or consecutive two-day dosing of 300,000 IU each day of cholecalciferol could sufficiently and safely elevate vitamin D levels.\n\nMethods\nThis cross-sectional study was conducted on 160 inpatients with vitamin D deficiency and various musculoskeletal diseases. Subjects with serum 25(OH)D levels between 10 and 20 ng/mL (mild to moderate deficiency) received a single oral dose of 300,000 IU cholecalciferol, while those with severe vitamin D deficiency (&lt;10 ng/mL) were supplemented with consecutive two-day doses of 300,000 IU cholecalciferol (a total of 600,000 IU).\n`├── HeadingNode
+│   full_match: `!!!!!Those with &lt;10 ng initially got two 300,000 IU doses `
+│   inner_content: `Those with &lt;10 ng initially got two 300,000 IU doses`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Those with &lt;10 ng initially got two 300,000 IU doses`
+│   │   inner_content: `Those with &lt;10 ng initially got two 300,000 IU doses`├── TextNode
+│   full_match: `\nResults\nAfter one week of replacement therapy, the 25(OH)D levels increased from 6.3 (4.0–9.9) ng/mL to 53.3 (8.3–84.4) ng/mL and from 15.0 (10.1–19.6) ng/mL to 38.4 (16.3–67.7) in the group with severe and those with the mild-to-moderate vitamin D deficiency, respectively. Except for three patients, nearly all patients (98%) achieved levels above 20 ng/mL. No signs of toxicity were observed in any of the patients. During the 6-month follow-up, falls were observed in 3 patients (2.8%), but no fractures were reported.\n\nConclusion\nA single dose of 300,000 IU of oral cholecalciferol or two consecutive doses with a total dose of 600,000 IU cholecalciferol can effectively and reliably increase the 25(OH)D serum levels within one week in nearly all patients. The results may contribute to optimizing treatment strategies for vitamin D deficiency and re-evaluating the potential negative impact of high-dose vitamin D supplementation.\n\nIntroduction\nVitamin D acts as a steroid prehormone, possessing essential functions in calcium (Ca) and phosphorus (P) balance and bone health `
+│   inner_content: `\nResults\nAfter one week of replacement therapy, the 25(OH)D levels increased from 6.3 (4.0–9.9) ng/mL to 53.3 (8.3–84.4) ng/mL and from 15.0 (10.1–19.6) ng/mL to 38.4 (16.3–67.7) in the group with severe and those with the mild-to-moderate vitamin D deficiency, respectively. Except for three patients, nearly all patients (98%) achieved levels above 20 ng/mL. No signs of toxicity were observed in any of the patients. During the 6-month follow-up, falls were observed in 3 patients (2.8%), but no fractures were reported.\n\nConclusion\nA single dose of 300,000 IU of oral cholecalciferol or two consecutive doses with a total dose of 600,000 IU cholecalciferol can effectively and reliably increase the 25(OH)D serum levels within one week in nearly all patients. The results may contribute to optimizing treatment strategies for vitamin D deficiency and re-evaluating the potential negative impact of high-dose vitamin D supplementation.\n\nIntroduction\nVitamin D acts as a steroid prehormone, possessing essential functions in calcium (Ca) and phosphorus (P) balance and bone health `├── LinkNode
+│   full_match: `[1]`
+│   inner_content: `1`
+│   url: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `. The widespread distribution of vitamin D receptors (VDRs) across various tissues in the human body, including macrophages, monocytes, dendritic cells, T cells, and B cells, suggests that this vitamin may exert immunomodulatory effects on autoimmune disorders, COVID-19, various systemic diseases, and inflammatory rheumatic diseases, as well as its established involvement in skeletal system maintenance `
+│   inner_content: `. The widespread distribution of vitamin D receptors (VDRs) across various tissues in the human body, including macrophages, monocytes, dendritic cells, T cells, and B cells, suggests that this vitamin may exert immunomodulatory effects on autoimmune disorders, COVID-19, various systemic diseases, and inflammatory rheumatic diseases, as well as its established involvement in skeletal system maintenance `├── LinkNode
+│   full_match: `[2]`
+│   inner_content: `2`
+│   url: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[3]`
+│   inner_content: `3`
+│   url: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3`
+│   │   inner_content: `3`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[4]`
+│   inner_content: `4`
+│   url: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[5]`
+│   inner_content: `5`
+│   url: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `5`
+│   │   inner_content: `5`├── TextNode
+│   full_match: `.\n\nThe vitamin D3 (cholecalciferol) synthesized endogenously in the human body through ultraviolet-B radiation (UVB) in sunlight, from the steroid structure naturally present in the skin known as 7-dehydrocholesterol (provitamin D3), constitutes the most significant and fundamental (∼90%) source of vitamin D in the human body `
+│   inner_content: `.\n\nThe vitamin D3 (cholecalciferol) synthesized endogenously in the human body through ultraviolet-B radiation (UVB) in sunlight, from the steroid structure naturally present in the skin known as 7-dehydrocholesterol (provitamin D3), constitutes the most significant and fundamental (∼90%) source of vitamin D in the human body `├── LinkNode
+│   full_match: `[6]`
+│   inner_content: `6`
+│   url: `6`
+│   children:
+│   ├── TextNode
+│   │   full_match: `6`
+│   │   inner_content: `6`├── TextNode
+│   full_match: `. Another more limited natural source is vitamin D2 (ergocalciferol), obtained through diet from certain foods. The inactive forms of vitamin D, whether synthesized in the skin or obtained through diet, circulate to the liver, where they are converted to 25-hydroxyvitamin D (25(OH)D). In the final stage, 25 (OH)D is converted into its biologically active form, 1,25 (OH)D, primarily in the kidneys. The 25(OH)D form, with its longer half-life (approximately 3 weeks compared to about 2 days for the half-life of 1,25(OH)D), and being the main form in circulation, serves as a reflection of vitamin D status `
+│   inner_content: `. Another more limited natural source is vitamin D2 (ergocalciferol), obtained through diet from certain foods. The inactive forms of vitamin D, whether synthesized in the skin or obtained through diet, circulate to the liver, where they are converted to 25-hydroxyvitamin D (25(OH)D). In the final stage, 25 (OH)D is converted into its biologically active form, 1,25 (OH)D, primarily in the kidneys. The 25(OH)D form, with its longer half-life (approximately 3 weeks compared to about 2 days for the half-life of 1,25(OH)D), and being the main form in circulation, serves as a reflection of vitamin D status `├── LinkNode
+│   full_match: `[7]`
+│   inner_content: `7`
+│   url: `7`
+│   children:
+│   ├── TextNode
+│   │   full_match: `7`
+│   │   inner_content: `7`├── TextNode
+│   full_match: `. Therefore, it is commonly used in clinical practice to measure vitamin D levels. While there is ongoing debate regarding the specific threshold for normal serum vitamin D levels, generally levels below 20 ng/mL are classified as vitamin D deficiency, and levels below 10 ng/mL are classified as severe deficiency`
+│   inner_content: `. Therefore, it is commonly used in clinical practice to measure vitamin D levels. While there is ongoing debate regarding the specific threshold for normal serum vitamin D levels, generally levels below 20 ng/mL are classified as vitamin D deficiency, and levels below 10 ng/mL are classified as severe deficiency`├── LinkNode
+│   full_match: `[1]`
+│   inner_content: `1`
+│   url: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[7]`
+│   inner_content: `7`
+│   url: `7`
+│   children:
+│   ├── TextNode
+│   │   full_match: `7`
+│   │   inner_content: `7`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[8]`
+│   inner_content: `8`
+│   url: `8`
+│   children:
+│   ├── TextNode
+│   │   full_match: `8`
+│   │   inner_content: `8`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[9]`
+│   inner_content: `9`
+│   url: `9`
+│   children:
+│   ├── TextNode
+│   │   full_match: `9`
+│   │   inner_content: `9`├── TextNode
+│   full_match: `. According to these values, rates of vitamin D deficiency varying from 70% to 80% have been observed in specific populations, and the estimated vitamin D deficiency in the general population is around 25% `
+│   inner_content: `. According to these values, rates of vitamin D deficiency varying from 70% to 80% have been observed in specific populations, and the estimated vitamin D deficiency in the general population is around 25% `├── LinkNode
+│   full_match: `[7]`
+│   inner_content: `7`
+│   url: `7`
+│   children:
+│   ├── TextNode
+│   │   full_match: `7`
+│   │   inner_content: `7`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[8]`
+│   inner_content: `8`
+│   url: `8`
+│   children:
+│   ├── TextNode
+│   │   full_match: `8`
+│   │   inner_content: `8`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[9]`
+│   inner_content: `9`
+│   url: `9`
+│   children:
+│   ├── TextNode
+│   │   full_match: `9`
+│   │   inner_content: `9`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[10]`
+│   inner_content: `10`
+│   url: `10`
+│   children:
+│   ├── TextNode
+│   │   full_match: `10`
+│   │   inner_content: `10`├── TextNode
+│   full_match: `. While vitamin D can naturally be synthesized through sunlight exposure, there are several rational reasons underlying its frequent deficiency. Modern lifestyles have led people to avoid sun exposure, and factors such as the increased risk of skin cancer due to direct exposure to sunlight have made the use of vitamin D supplements necessary in cases of vitamin D deficiency `
+│   inner_content: `. While vitamin D can naturally be synthesized through sunlight exposure, there are several rational reasons underlying its frequent deficiency. Modern lifestyles have led people to avoid sun exposure, and factors such as the increased risk of skin cancer due to direct exposure to sunlight have made the use of vitamin D supplements necessary in cases of vitamin D deficiency `├── LinkNode
+│   full_match: `[11]`
+│   inner_content: `11`
+│   url: `11`
+│   children:
+│   ├── TextNode
+│   │   full_match: `11`
+│   │   inner_content: `11`├── TextNode
+│   full_match: `.\n\nOral daily or weekly cholecalciferol replacement is commonly used for the treatment of vitamin D deficiency. With this approach, even with doses of 4,000–10,000 IU/day or 50,000 IU/week, may take up to 2–3 months to achieve optimal serum 25(OH)D levels `
+│   inner_content: `.\n\nOral daily or weekly cholecalciferol replacement is commonly used for the treatment of vitamin D deficiency. With this approach, even with doses of 4,000–10,000 IU/day or 50,000 IU/week, may take up to 2–3 months to achieve optimal serum 25(OH)D levels `├── LinkNode
+│   full_match: `[7]`
+│   inner_content: `7`
+│   url: `7`
+│   children:
+│   ├── TextNode
+│   │   full_match: `7`
+│   │   inner_content: `7`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[8]`
+│   inner_content: `8`
+│   url: `8`
+│   children:
+│   ├── TextNode
+│   │   full_match: `8`
+│   │   inner_content: `8`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[12]`
+│   inner_content: `12`
+│   url: `12`
+│   children:
+│   ├── TextNode
+│   │   full_match: `12`
+│   │   inner_content: `12`├── TextNode
+│   full_match: `. While it is possible to achieve the target levels in much shorter periods with high-dose oral or intramuscular vitamin D replacement, it should be noted that despite the strong evidence of the potential benefits of vitamin D therapy in osteoporosis and fracture risk `
+│   inner_content: `. While it is possible to achieve the target levels in much shorter periods with high-dose oral or intramuscular vitamin D replacement, it should be noted that despite the strong evidence of the potential benefits of vitamin D therapy in osteoporosis and fracture risk `├── LinkNode
+│   full_match: `[13]`
+│   inner_content: `13`
+│   url: `13`
+│   children:
+│   ├── TextNode
+│   │   full_match: `13`
+│   │   inner_content: `13`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[14]`
+│   inner_content: `14`
+│   url: `14`
+│   children:
+│   ├── TextNode
+│   │   full_match: `14`
+│   │   inner_content: `14`├── TextNode
+│   full_match: `, some compelling evidence suggests that high-dose vitamin D replacement may increase the risk of falls and fractures, which has deterred many clinicians from using high-dose supplementation `
+│   inner_content: `, some compelling evidence suggests that high-dose vitamin D replacement may increase the risk of falls and fractures, which has deterred many clinicians from using high-dose supplementation `├── LinkNode
+│   full_match: `[14]`
+│   inner_content: `14`
+│   url: `14`
+│   children:
+│   ├── TextNode
+│   │   full_match: `14`
+│   │   inner_content: `14`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[15]`
+│   inner_content: `15`
+│   url: `15`
+│   children:
+│   ├── TextNode
+│   │   full_match: `15`
+│   │   inner_content: `15`├── TextNode
+│   full_match: `. However, it should be emphasized that the majority of the existing literature primarily focuses on the elderly population, specific patient groups, or outpatient settings `
+│   inner_content: `. However, it should be emphasized that the majority of the existing literature primarily focuses on the elderly population, specific patient groups, or outpatient settings `├── LinkNode
+│   full_match: `[13]`
+│   inner_content: `13`
+│   url: `13`
+│   children:
+│   ├── TextNode
+│   │   full_match: `13`
+│   │   inner_content: `13`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[14]`
+│   inner_content: `14`
+│   url: `14`
+│   children:
+│   ├── TextNode
+│   │   full_match: `14`
+│   │   inner_content: `14`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[15]`
+│   inner_content: `15`
+│   url: `15`
+│   children:
+│   ├── TextNode
+│   │   full_match: `15`
+│   │   inner_content: `15`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[16]`
+│   inner_content: `16`
+│   url: `16`
+│   children:
+│   ├── TextNode
+│   │   full_match: `16`
+│   │   inner_content: `16`├── TextNode
+│   full_match: `.\n\nIn recent years, studies have shed light on the importance of promptly raising vitamin D levels to normal ranges in certain critical conditions, including autoimmune, rheumatological, and COVID-19 diseases, thereby awakening the notion of potential critical benefits through rapid replacement `
+│   inner_content: `.\n\nIn recent years, studies have shed light on the importance of promptly raising vitamin D levels to normal ranges in certain critical conditions, including autoimmune, rheumatological, and COVID-19 diseases, thereby awakening the notion of potential critical benefits through rapid replacement `├── LinkNode
+│   full_match: `[17]`
+│   inner_content: `17`
+│   url: `17`
+│   children:
+│   ├── TextNode
+│   │   full_match: `17`
+│   │   inner_content: `17`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[18]`
+│   inner_content: `18`
+│   url: `18`
+│   children:
+│   ├── TextNode
+│   │   full_match: `18`
+│   │   inner_content: `18`├── TextNode
+│   full_match: `, `
+│   inner_content: `, `├── LinkNode
+│   full_match: `[19]`
+│   inner_content: `19`
+│   url: `19`
+│   children:
+│   ├── TextNode
+│   │   full_match: `19`
+│   │   inner_content: `19`├── TextNode
+│   full_match: `. High-dose vitamin D replacement not only eliminates the problem of daily oral treatment non-adherence `
+│   inner_content: `. High-dose vitamin D replacement not only eliminates the problem of daily oral treatment non-adherence `├── LinkNode
+│   full_match: `[20]`
+│   inner_content: `20`
+│   url: `20`
+│   children:
+│   ├── TextNode
+│   │   full_match: `20`
+│   │   inner_content: `20`├── TextNode
+│   full_match: ` but also has the advantage of quickly raising serum vitamin D levels to normal values, potentially leading to significant clinical benefits. However, before recommending high-dose supplementation, its safety should be demonstrated. Therefore, the identification of an effective and safe approach, encompassing optimal dosage and administration routes, to raise serum 25(OH)D levels through high-dose vitamin D supplementation is crucial.\n\nThe aim of this study is to investigate whether a single oral dose of 300,000 IU or consecutive two-day doses of 300,000 IU each day (a total of 600,000 IU) of oral cholecalciferol supplementation can effectively and safely raise serum vitamin D levels to the optimal range in individuals with vitamin D deficiency. Thus, this study may provide a practical intervention that can be easily applied in clinical practice and serve as a management strategy for optimizing treatment. However, it should be noted that the present study does not attempt to demonstrate the efficacy of replacement therapy on clinical symptoms or perform a risk–benefit analysis.\n`
+│   inner_content: ` but also has the advantage of quickly raising serum vitamin D levels to normal values, potentially leading to significant clinical benefits. However, before recommending high-dose supplementation, its safety should be demonstrated. Therefore, the identification of an effective and safe approach, encompassing optimal dosage and administration routes, to raise serum 25(OH)D levels through high-dose vitamin D supplementation is crucial.\n\nThe aim of this study is to investigate whether a single oral dose of 300,000 IU or consecutive two-day doses of 300,000 IU each day (a total of 600,000 IU) of oral cholecalciferol supplementation can effectively and safely raise serum vitamin D levels to the optimal range in individuals with vitamin D deficiency. Thus, this study may provide a practical intervention that can be easily applied in clinical practice and serve as a management strategy for optimizing treatment. However, it should be noted that the present study does not attempt to demonstrate the efficacy of replacement therapy on clinical symptoms or perform a risk–benefit analysis.\n`├── HeadingNode
+│   full_match: `\n!!!!!Section snippets`
+│   inner_content: `Section snippets`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Section snippets`
+│   │   inner_content: `Section snippets`├── TextNode
+│   full_match: `\nStudy design\nThe study was designed as a cross-sectional observational study in a Yoncali Specialized Hospital of Physical Medicine and Rehabilitation Clinic in Kütahya, Turkey (latitude: 39°42 north; longitude: 29°98 east). The data in the study consists of a retrospective review of the prospectively collected data between December 2016 and June 2018. The study protocol was approved by the Ethics Committee of Dumlupınar University, Faculty of Medicine Clinical Research Ethics Committee (date: 27.11.2017,…\n\nResults\nA total of 175 patients were included in the study. However, 12 patients were excluded from the study due to missing control blood tests, and 3 patients were excluded due to the use of vitamin D supplements. Therefore, the study was completed with 160 patients (Fig. 1). The median age of the patients was 60.0 years, and approximately 2/3 of them were females. Patients with degenerative arthritis and intervertebral disc lesions accounted for three-quarters of the patients. Vitamin D levels…\n\nDiscussion\nIn this study, an easy-to-apply, cost-effective, and well-defined oral cholecalciferol replacement protocol was implemented in hospitalized patients with various musculoskeletal diseases who had a vitamin D deficiency. As a result, prompt, effective, and safe supplementation was observed within a short period. No symptomatic side effects were observed in any of the patients during their hospitalization period and no laboratory findings indicating vitamin D intoxication were detected. To the…\n\nConclusions\nIn patients with vitamin D deficiency, depending on the severity of the deficiency, a single dose of 300,000 IU oral cholecalciferol or two consecutive doses totaling 600,000 IU cholecalciferol given over two days has raised the 25(OH)D serum level above 30 ng/ml in 85% of patients in one week. No signs of vitamin D toxicity were observed in any patient, and no fractures were observed in any patient after a 6-month follow-up. Considering the patients&#39; adherence issues with daily treatments and…`
+│   inner_content: `\nStudy design\nThe study was designed as a cross-sectional observational study in a Yoncali Specialized Hospital of Physical Medicine and Rehabilitation Clinic in Kütahya, Turkey (latitude: 39°42 north; longitude: 29°98 east). The data in the study consists of a retrospective review of the prospectively collected data between December 2016 and June 2018. The study protocol was approved by the Ethics Committee of Dumlupınar University, Faculty of Medicine Clinical Research Ethics Committee (date: 27.11.2017,…\n\nResults\nA total of 175 patients were included in the study. However, 12 patients were excluded from the study due to missing control blood tests, and 3 patients were excluded due to the use of vitamin D supplements. Therefore, the study was completed with 160 patients (Fig. 1). The median age of the patients was 60.0 years, and approximately 2/3 of them were females. Patients with degenerative arthritis and intervertebral disc lesions accounted for three-quarters of the patients. Vitamin D levels…\n\nDiscussion\nIn this study, an easy-to-apply, cost-effective, and well-defined oral cholecalciferol replacement protocol was implemented in hospitalized patients with various musculoskeletal diseases who had a vitamin D deficiency. As a result, prompt, effective, and safe supplementation was observed within a short period. No symptomatic side effects were observed in any of the patients during their hospitalization period and no laboratory findings indicating vitamin D intoxication were detected. To the…\n\nConclusions\nIn patients with vitamin D deficiency, depending on the severity of the deficiency, a single dose of 300,000 IU oral cholecalciferol or two consecutive doses totaling 600,000 IU cholecalciferol given over two days has raised the 25(OH)D serum level above 30 ng/ml in 85% of patients in one week. No signs of vitamin D toxicity were observed in any patient, and no fractures were observed in any patient after a 6-month follow-up. Considering the patients&#39; adherence issues with daily treatments and…`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Loading Dose of Vitamin D)) category contains`
+│   inner_content: `VitaminDWiki – ((Loading Dose of Vitamin D)) category contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Loading Dose of Vitamin D))`
+│   │   inner_content: `Loading Dose of Vitamin D`
+│   │   page: `Loading Dose of Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Loading Dose of Vitamin D`
+│   │   │   inner_content: `Loading Dose of Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` category contains`
+│   │   inner_content: ` category contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Loading Dose of Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Loading Dose of Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Loading Dose of Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Loading dose of 300,000 IU Vitamin D was safely got most above 20 ng – Nov 2023)) ~/tc~`
+│   inner_content: ` (alias(Loading dose of 300,000 IU Vitamin D was safely got most above 20 ng – Nov 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Loading dose of 300,000 IU Vitamin D was safely got most above 20 ng – Nov 2023)) `
+│   │   inner_content: `(alias(Loading dose of 300,000 IU Vitamin D was safely got most above 20 ng – Nov 2023)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Loading dose of 300,000 IU Vitamin D got most above 20 ng – Nov 2023)) ~/tc~`
+│   inner_content: ` (alias(Loading dose of 300,000 IU Vitamin D got most above 20 ng – Nov 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Loading dose of 300,000 IU Vitamin D got most above 20 ng – Nov 2023)) `
+│   │   inner_content: `(alias(Loading dose of 300,000 IU Vitamin D got most above 20 ng – Nov 2023)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Efficacy and safety of single or consecutive double high-dose oral cholecalciferol supplementation in adult patients with vitamin D deficiency
+Steroids , November 2023, 109308 https://doi.org/10.1016/j.steroids.2023.109308 PDF is behind a paywall
+Ramazan Yilmaz
+
+Background and Aim
+Enhancing vitamin D levels as a crucial modifiable risk factor may provide a critical contribution to prevent susceptibility to various diseases, including musculoskeletal, autoimmune, and inflammatory rheumatic diseases as well as promoting overall health. However, adherence to daily vitamin D supplementation is generally poor, and there are some concerns regarding the high-dose vitamin D supplementation&#39;s safety. We aimed to investigate whether a single oral dose of 300,000 IU or consecutive two-day dosing of 300,000 IU each day of cholecalciferol could sufficiently and safely elevate vitamin D levels.
+
+Methods
+This cross-sectional study was conducted on 160 inpatients with vitamin D deficiency and various musculoskeletal diseases. Subjects with serum 25(OH)D levels between 10 and 20 ng/mL (mild to moderate deficiency) received a single oral dose of 300,000 IU cholecalciferol, while those with severe vitamin D deficiency (&lt;10 ng/mL) were supplemented with consecutive two-day doses of 300,000 IU cholecalciferol (a total of 600,000 IU).
+!!!!!Those with &lt;10 ng initially got two 300,000 IU doses 
+Results
+After one week of replacement therapy, the 25(OH)D levels increased from 6.3 (4.0–9.9) ng/mL to 53.3 (8.3–84.4) ng/mL and from 15.0 (10.1–19.6) ng/mL to 38.4 (16.3–67.7) in the group with severe and those with the mild-to-moderate vitamin D deficiency, respectively. Except for three patients, nearly all patients (98%) achieved levels above 20 ng/mL. No signs of toxicity were observed in any of the patients. During the 6-month follow-up, falls were observed in 3 patients (2.8%), but no fractures were reported.
+
+Conclusion
+A single dose of 300,000 IU of oral cholecalciferol or two consecutive doses with a total dose of 600,000 IU cholecalciferol can effectively and reliably increase the 25(OH)D serum levels within one week in nearly all patients. The results may contribute to optimizing treatment strategies for vitamin D deficiency and re-evaluating the potential negative impact of high-dose vitamin D supplementation.
+
+Introduction
+Vitamin D acts as a steroid prehormone, possessing essential functions in calcium (Ca) and phosphorus (P) balance and bone health [1]. The widespread distribution of vitamin D receptors (VDRs) across various tissues in the human body, including macrophages, monocytes, dendritic cells, T cells, and B cells, suggests that this vitamin may exert immunomodulatory effects on autoimmune disorders, COVID-19, various systemic diseases, and inflammatory rheumatic diseases, as well as its established involvement in skeletal system maintenance [2], [3], [4], [5].
+
+The vitamin D3 (cholecalciferol) synthesized endogenously in the human body through ultraviolet-B radiation (UVB) in sunlight, from the steroid structure naturally present in the skin known as 7-dehydrocholesterol (provitamin D3), constitutes the most significant and fundamental (∼90%) source of vitamin D in the human body [6]. Another more limited natural source is vitamin D2 (ergocalciferol), obtained through diet from certain foods. The inactive forms of vitamin D, whether synthesized in the skin or obtained through diet, circulate to the liver, where they are converted to 25-hydroxyvitamin D (25(OH)D). In the final stage, 25 (OH)D is converted into its biologically active form, 1,25 (OH)D, primarily in the kidneys. The 25(OH)D form, with its longer half-life (approximately 3 weeks compared to about 2 days for the half-life of 1,25(OH)D), and being the main form in circulation, serves as a reflection of vitamin D status [7]. Therefore, it is commonly used in clinical practice to measure vitamin D levels. While there is ongoing debate regarding the specific threshold for normal serum vitamin D levels, generally levels below 20 ng/mL are classified as vitamin D deficiency, and levels below 10 ng/mL are classified as severe deficiency[1], [7], [8], [9]. According to these values, rates of vitamin D deficiency varying from 70% to 80% have been observed in specific populations, and the estimated vitamin D deficiency in the general population is around 25% [7], [8], [9], [10]. While vitamin D can naturally be synthesized through sunlight exposure, there are several rational reasons underlying its frequent deficiency. Modern lifestyles have led people to avoid sun exposure, and factors such as the increased risk of skin cancer due to direct exposure to sunlight have made the use of vitamin D supplements necessary in cases of vitamin D deficiency [11].
+
+Oral daily or weekly cholecalciferol replacement is commonly used for the treatment of vitamin D deficiency. With this approach, even with doses of 4,000–10,000 IU/day or 50,000 IU/week, may take up to 2–3 months to achieve optimal serum 25(OH)D levels [7], [8], [12]. While it is possible to achieve the target levels in much shorter periods with high-dose oral or intramuscular vitamin D replacement, it should be noted that despite the strong evidence of the potential benefits of vitamin D therapy in osteoporosis and fracture risk [13], [14], some compelling evidence suggests that high-dose vitamin D replacement may increase the risk of falls and fractures, which has deterred many clinicians from using high-dose supplementation [14], [15]. However, it should be emphasized that the majority of the existing literature primarily focuses on the elderly population, specific patient groups, or outpatient settings [13], [14], [15], [16].
+
+In recent years, studies have shed light on the importance of promptly raising vitamin D levels to normal ranges in certain critical conditions, including autoimmune, rheumatological, and COVID-19 diseases, thereby awakening the notion of potential critical benefits through rapid replacement [17], [18], [19]. High-dose vitamin D replacement not only eliminates the problem of daily oral treatment non-adherence [20] but also has the advantage of quickly raising serum vitamin D levels to normal values, potentially leading to significant clinical benefits. However, before recommending high-dose supplementation, its safety should be demonstrated. Therefore, the identification of an effective and safe approach, encompassing optimal dosage and administration routes, to raise serum 25(OH)D levels through high-dose vitamin D supplementation is crucial.
+
+The aim of this study is to investigate whether a single oral dose of 300,000 IU or consecutive two-day doses of 300,000 IU each day (a total of 600,000 IU) of oral cholecalciferol supplementation can effectively and safely raise serum vitamin D levels to the optimal range in individuals with vitamin D deficiency. Thus, this study may provide a practical intervention that can be easily applied in clinical practice and serve as a management strategy for optimizing treatment. However, it should be noted that the present study does not attempt to demonstrate the efficacy of replacement therapy on clinical symptoms or perform a risk–benefit analysis.
+
+!!!!!Section snippets
+Study design
+The study was designed as a cross-sectional observational study in a Yoncali Specialized Hospital of Physical Medicine and Rehabilitation Clinic in Kütahya, Turkey (latitude: 39°42 north; longitude: 29°98 east). The data in the study consists of a retrospective review of the prospectively collected data between December 2016 and June 2018. The study protocol was approved by the Ethics Committee of Dumlupınar University, Faculty of Medicine Clinical Research Ethics Committee (date: 27.11.2017,…
+
+Results
+A total of 175 patients were included in the study. However, 12 patients were excluded from the study due to missing control blood tests, and 3 patients were excluded due to the use of vitamin D supplements. Therefore, the study was completed with 160 patients (Fig. 1). The median age of the patients was 60.0 years, and approximately 2/3 of them were females. Patients with degenerative arthritis and intervertebral disc lesions accounted for three-quarters of the patients. Vitamin D levels…
+
+Discussion
+In this study, an easy-to-apply, cost-effective, and well-defined oral cholecalciferol replacement protocol was implemented in hospitalized patients with various musculoskeletal diseases who had a vitamin D deficiency. As a result, prompt, effective, and safe supplementation was observed within a short period. No symptomatic side effects were observed in any of the patients during their hospitalization period and no laboratory findings indicating vitamin D intoxication were detected. To the…
+
+Conclusions
+In patients with vitamin D deficiency, depending on the severity of the deficiency, a single dose of 300,000 IU oral cholecalciferol or two consecutive doses totaling 600,000 IU cholecalciferol given over two days has raised the 25(OH)D serum level above 30 ng/ml in 85% of patients in one week. No signs of vitamin D toxicity were observed in any patient, and no fractures were observed in any patient after a 6-month follow-up. Considering the patients&#39; adherence issues with daily treatments and…
+---
+!!!!VitaminDWiki – ((Loading Dose of Vitamin D)) category contains
+{include page=&quot;Loading Dose of Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+~tc~ (alias(Loading dose of 300,000 IU Vitamin D was safely got most above 20 ng – Nov 2023)) ~/tc~
+~tc~ (alias(Loading dose of 300,000 IU Vitamin D got most above 20 ng – Nov 2023)) ~/tc~
+</code>
+</pre>

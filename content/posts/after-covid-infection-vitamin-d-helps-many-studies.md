@@ -1,0 +1,585 @@
+---
+title: "After COVID infection, Vitamin D helps - many studies"
+slug: "after-covid-infection-vitamin-d-helps-many-studies"
+aliases:
+  - "/After+COVID+infection+Vitamin+D+helps+-+many+studies"
+  - "/15325"
+tiki_page_id: 15325
+date: 2024-06-09
+categories:
+  - "Intervention"
+---
+
+
+{{< toc >}}
+
+---
+
+#### Vitamin D helped after COVID infection in many ways – more studies are needed – meta-analysis Feb 2025
+
+ **The Effect of Vitamin D Supplementation Post COVID-19 Infection and Related Outcomes: A Systematic Review and Meta-Analysis** 
+
+Nutrients  Volume 16  Issue 22  10.3390/nu16223794 
+
+by Marina Sartini 1,2,*ORCID,Filippo Del Puente 3ORCID,Alessio Carbone 1ORCID,Elisa Schinca 1,2ORCID,Gianluca Ottria 1,2,Chiara Dupont 2,Carolina Piccinini 2,Martino Oliva 1ORCID andMaria Luisa Cristina 1,2ORCID
+
+Background: Vitamin D’s role in COVID-19 management remains controversial. This meta-analysis aimed to evaluate the efficacy of vitamin D supplementation in patients with SARS-CoV-2 infection, focusing on mortality, intensive care unit (ICU) admissions, intubation rates, and hospital length of stay (LOS). 
+
+Methods: A systematic review of PubMed/MEDLINE, Scopus, Cochrane, and Google Scholar databases was conducted. Randomized controlled trials (RCTs) and analytical studies investigating vitamin D supplementation in COVID-19 patients were included. The meta-analysis was performed using STATA MP 18.5, employing random-effect or fixed-effect models based on heterogeneity. 
+
+Results: Twenty-nine studies (twenty-one RCTs, eight analytical) were analyzed. 
+
+Vitamin D supplementation significantly reduced ICU admissions (OR = 0.55, 95% CI: 0.37 to 0.79) in RCTs and analytical studies (OR = 0.35, 95% CI: 0.18 to 0.66). Intubation rates were significantly reduced in RCTs (OR = 0.50, 95% CI: 0.27 to 0.92). Mortality reduction was significant in analytical studies (OR = 0.45, 95% CI: 0.24 to 0.86) but not in RCTs (OR = 0.80, 95% CI: 0.61 to 1.04). Subgroup analyses revealed more pronounced effects in older patients and severe COVID-19 cases. LOS showed a non-significant reduction (mean difference = −0.62 days, 95% CI: −1.41 to 0.18). 
+
+Conclusions: This meta-analysis suggests potential benefits of vitamin D supplementation in COVID-19 patients, particularly in reducing ICU admissions. However, the evidence varies across outcomes and patient subgroups. Discrepancies between RCTs and analytical studies highlight the need for further large-scale, well-designed trials accounting for baseline vitamin D status, standardized supplementation protocols, and patient characteristics to inform clinical guidelines for vitamin D use in COVID-19 management.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vit-d-covid-meta-nov-2024-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024
+
+ **Therapeutic effects of vitamin D supplementation on COVID-19 aggravation: a systematic review and meta-analysis of randomized controlled trials
+
+Front. Pharmacol., 26 May 2024 Volume 15 - 2024 | https://doi.org/10.3389/fphar.2024.1367686
+
+Yiyuan YangYiyuan YangWanli SunWanli SunFan YangFan YangGuoxia ZhangGuoxia ZhangXinye LiXinye LiShipeng Sun
+
+Shipeng Sun*Yanwei Xing
+
+Yanwei Xing* Guang’anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/covid-multi-dose.webp" alt="image" width="550">
+
+Background: The therapeutic effects of vitamin D supplementation on Coronavirus disease 2019 (COVID-19) aggravation remain controversial and inconclusive. To probe into this contentious issue, we performed the present meta-analysis of randomized controlled trials (RCTs).
+
+Methods:**  Literature published up to June 2023 **was retrieved from Cochrane Library, PubMed, Web of Science and Embase. RCTs assessing mortality, 
+
+* intensive care unit (ICU) admission, 
+
+* mechanical ventilation (MV), 
+
+* length of hospitalization (LOH), and 
+
+* inflammatory markers containing 
+
+   * C-reactive protein (CRP), 
+
+   * D-dimer, 
+
+   * interleukin-6 (IL-6), 
+
+   * lactate dehydrogenase (LDH) were included.** 19 RCTs **were involved in the analysis and were conducted subgroup analyses on the baseline COVID-19 severity and vitamin D administration.
+
+Results: In the severity subgroup, statistically significant effects in moderate to severe group were observed in
+
+* ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), 
+
+* MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and 
+
+* LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). 
+
+In the administration subgroup, 
+
+* effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), 
+
+* MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and 
+
+* LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) 
+
+were more pronounced in patients supplied with multiple-dose vitamin D than single-dose. Although the result of mortality showed no statistically significant effect, it indicated a reduced trend (OR 0.87, 95% CI 0.63, 1.12; p > 0.05). The results of inflammatory markers reached no statistical differences.
+
+Conclusion: This meta-analysis revealed that moderate to severe COVID-19 patients supplied with multiple doses of vitamin D were less apt to need ICU admission, mechanical ventilation and have shorter hospital stays.
+
+{FONT(size="17")}** <i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/covid-meta-may-2024-compresspdf.pdf">Download the PDF from VitaminDWiki </a> **{FONT}** [study was reviewed in Trial Site News](https://www.trialsitenews.com/a/vitamin-d-dosage-in-covid-19-patients-improves-icu-admission-mechanical-ventilation-plus-less-days-in-hospital-meta-analysis-04b1f505)__
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Vitamin D helped after COVID infection in many ways – more studies are needed – meta-analysis Feb 2025
+
+ **The Effect of Vitamin D Supplementation Post COVID-19 Infection and Related Outcomes: A Systematic Review and Meta-Analysis** 
+
+Nutrients  Volume 16  Issue 22  10.3390/nu16223794 
+
+by Marina Sartini 1,2,*ORCID,Filippo Del Puente 3ORCID,Alessio Carbone 1ORCID,Elisa Schinca 1,2ORCID,Gianluca Ottria 1,2,Chiara Dupont 2,Carolina Piccinini 2,Martino Oliva 1ORCID andMaria Luisa Cristina 1,2ORCID
+
+Background: Vitamin D’s role in COVID-19 management remains controversial. This meta-analysis aimed to evaluate the efficacy of vitamin D supplementation in patients with SARS-CoV-2 infection, focusing on mortality, intensive care unit (ICU) admissions, intubation rates, and hospital length of stay (LOS). 
+
+Methods: A systematic review of PubMed/MEDLINE, Scopus, Cochrane, and Google Scholar databases was conducted. Randomized controlled trials (RCTs) and analytical studies investigating vitamin D supplementation in COVID-19 patients were included. The meta-analysis was performed using STATA MP 18.5, employing random-effect or fixed-effect models based on heterogeneity. 
+
+Results: Twenty-nine studies (twenty-one RCTs, eight analytical) were analyzed. 
+
+Vitamin D supplementation significantly reduced ICU admissions (OR = 0.55, 95% CI: 0.37 to 0.79) in RCTs and analytical studies (OR = 0.35, 95% CI: 0.18 to 0.66). Intubation rates were significantly reduced in RCTs (OR = 0.50, 95% CI: 0.27 to 0.92). Mortality reduction was significant in analytical studies (OR = 0.45, 95% CI: 0.24 to 0.86) but not in RCTs (OR = 0.80, 95% CI: 0.61 to 1.04). Subgroup analyses revealed more pronounced effects in older patients and severe COVID-19 cases. LOS showed a non-significant reduction (mean difference = −0.62 days, 95% CI: −1.41 to 0.18). 
+
+Conclusions: This meta-analysis suggests potential benefits of vitamin D supplementation in COVID-19 patients, particularly in reducing ICU admissions. However, the evidence varies across outcomes and patient subgroups. Discrepancies between RCTs and analytical studies highlight the need for further large-scale, well-designed trials accounting for baseline vitamin D status, standardized supplementation protocols, and patient characteristics to inform clinical guidelines for vitamin D use in COVID-19 management.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vit-d-covid-meta-nov-2024-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024
+
+ **Therapeutic effects of vitamin D supplementation on COVID-19 aggravation: a systematic review and meta-analysis of randomized controlled trials
+
+Front. Pharmacol., 26 May 2024 Volume 15 - 2024 | https://doi.org/10.3389/fphar.2024.1367686
+
+Yiyuan YangYiyuan YangWanli SunWanli SunFan YangFan YangGuoxia ZhangGuoxia ZhangXinye LiXinye LiShipeng Sun
+
+Shipeng Sun*Yanwei Xing
+
+Yanwei Xing* Guang’anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/covid-multi-dose.webp&quot; alt=&quot;image&quot; width=&quot;550&quot;&gt;
+
+Background: The therapeutic effects of vitamin D supplementation on Coronavirus disease 2019 (COVID-19) aggravation remain controversial and inconclusive. To probe into this contentious issue, we performed the present meta-analysis of randomized controlled trials (RCTs).
+
+Methods:**  Literature published up to June 2023 **was retrieved from Cochrane Library, PubMed, Web of Science and Embase. RCTs assessing mortality, 
+
+* intensive care unit (ICU) admission, 
+
+* mechanical ventilation (MV), 
+
+* length of hospitalization (LOH), and 
+
+* inflammatory markers containing 
+
+   * C-reactive protein (CRP), 
+
+   * D-dimer, 
+
+   * interleukin-6 (IL-6), 
+
+   * lactate dehydrogenase (LDH) were included.** 19 RCTs **were involved in the analysis and were conducted subgroup analyses on the baseline COVID-19 severity and vitamin D administration.
+
+Results: In the severity subgroup, statistically significant effects in moderate to severe group were observed in
+
+* ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), 
+
+* MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and 
+
+* LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). 
+
+In the administration subgroup, 
+
+* effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), 
+
+* MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and 
+
+* LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) 
+
+were more pronounced in patients supplied with multiple-dose vitamin D than single-dose. Although the result of mortality showed no statistically significant effect, it indicated a reduced trend (OR 0.87, 95% CI 0.63, 1.12; p &gt; 0.05). The results of inflammatory markers reached no statistical differences.
+
+Conclusion: This meta-analysis revealed that moderate to severe COVID-19 patients supplied with multiple doses of vitamin D were less apt to need ICU admission, mechanical ventilation and have shorter hospital stays.
+
+{FONT(size=&quot;17&quot;)}** &lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/covid-meta-may-2024-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt; **{FONT}** [study was reviewed in Trial Site News](https://www.trialsitenews.com/a/vitamin-d-dosage-in-covid-19-patients-improves-icu-admission-mechanical-ventilation-plus-less-days-in-hospital-meta-analysis-04b1f505)__
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D helped after COVID infection in many ways – more studies are needed – meta-analysis Feb 2025`
+│   inner_content: `Vitamin D helped after COVID infection in many ways – more studies are needed – meta-analysis Feb 2025`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D helped after COVID infection in many ways – more studies are needed – meta-analysis Feb 2025`
+│   │   inner_content: `Vitamin D helped after COVID infection in many ways – more studies are needed – meta-analysis Feb 2025`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__The Effect of Vitamin D Supplementation Post COVID-19 Infection and Related Outcomes: A Systematic Review and Meta-Analysis__`
+│   inner_content: `The Effect of Vitamin D Supplementation Post COVID-19 Infection and Related Outcomes: A Systematic Review and Meta-Analysis`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The Effect of Vitamin D Supplementation Post COVID-19 Infection and Related Outcomes: A Systematic Review and Meta-Analysis`
+│   │   inner_content: `The Effect of Vitamin D Supplementation Post COVID-19 Infection and Related Outcomes: A Systematic Review and Meta-Analysis`├── TextNode
+│   full_match: `\nNutrients  Volume 16  Issue 22  10.3390/nu16223794 \nby Marina Sartini 1,2,*ORCID,Filippo Del Puente 3ORCID,Alessio Carbone 1ORCID,Elisa Schinca 1,2ORCID,Gianluca Ottria 1,2,Chiara Dupont 2,Carolina Piccinini 2,Martino Oliva 1ORCID andMaria Luisa Cristina 1,2ORCID\n\nBackground: Vitamin D’s role in COVID-19 management remains controversial. This meta-analysis aimed to evaluate the efficacy of vitamin D supplementation in patients with SARS-CoV-2 infection, focusing on mortality, intensive care unit (ICU) admissions, intubation rates, and hospital length of stay (LOS). \n\nMethods: A systematic review of PubMed/MEDLINE, Scopus, Cochrane, and Google Scholar databases was conducted. Randomized controlled trials (RCTs) and analytical studies investigating vitamin D supplementation in COVID-19 patients were included. The meta-analysis was performed using STATA MP 18.5, employing random-effect or fixed-effect models based on heterogeneity. \n\nResults: Twenty-nine studies (twenty-one RCTs, eight analytical) were analyzed. \nVitamin D supplementation significantly reduced ICU admissions (OR = 0.55, 95% CI: 0.37 to 0.79) in RCTs and analytical studies (OR = 0.35, 95% CI: 0.18 to 0.66). Intubation rates were significantly reduced in RCTs (OR = 0.50, 95% CI: 0.27 to 0.92). Mortality reduction was significant in analytical studies (OR = 0.45, 95% CI: 0.24 to 0.86) but not in RCTs (OR = 0.80, 95% CI: 0.61 to 1.04). Subgroup analyses revealed more pronounced effects in older patients and severe COVID-19 cases. LOS showed a non-significant reduction (mean difference = −0.62 days, 95% CI: −1.41 to 0.18). \n\nConclusions: This meta-analysis suggests potential benefits of vitamin D supplementation in COVID-19 patients, particularly in reducing ICU admissions. However, the evidence varies across outcomes and patient subgroups. Discrepancies between RCTs and analytical studies highlight the need for further large-scale, well-designed trials accounting for baseline vitamin D status, standardized supplementation protocols, and patient characteristics to inform clinical guidelines for vitamin D use in COVID-19 management.\n`
+│   inner_content: `\nNutrients  Volume 16  Issue 22  10.3390/nu16223794 \nby Marina Sartini 1,2,*ORCID,Filippo Del Puente 3ORCID,Alessio Carbone 1ORCID,Elisa Schinca 1,2ORCID,Gianluca Ottria 1,2,Chiara Dupont 2,Carolina Piccinini 2,Martino Oliva 1ORCID andMaria Luisa Cristina 1,2ORCID\n\nBackground: Vitamin D’s role in COVID-19 management remains controversial. This meta-analysis aimed to evaluate the efficacy of vitamin D supplementation in patients with SARS-CoV-2 infection, focusing on mortality, intensive care unit (ICU) admissions, intubation rates, and hospital length of stay (LOS). \n\nMethods: A systematic review of PubMed/MEDLINE, Scopus, Cochrane, and Google Scholar databases was conducted. Randomized controlled trials (RCTs) and analytical studies investigating vitamin D supplementation in COVID-19 patients were included. The meta-analysis was performed using STATA MP 18.5, employing random-effect or fixed-effect models based on heterogeneity. \n\nResults: Twenty-nine studies (twenty-one RCTs, eight analytical) were analyzed. \nVitamin D supplementation significantly reduced ICU admissions (OR = 0.55, 95% CI: 0.37 to 0.79) in RCTs and analytical studies (OR = 0.35, 95% CI: 0.18 to 0.66). Intubation rates were significantly reduced in RCTs (OR = 0.50, 95% CI: 0.27 to 0.92). Mortality reduction was significant in analytical studies (OR = 0.45, 95% CI: 0.24 to 0.86) but not in RCTs (OR = 0.80, 95% CI: 0.61 to 1.04). Subgroup analyses revealed more pronounced effects in older patients and severe COVID-19 cases. LOS showed a non-significant reduction (mean difference = −0.62 days, 95% CI: −1.41 to 0.18). \n\nConclusions: This meta-analysis suggests potential benefits of vitamin D supplementation in COVID-19 patients, particularly in reducing ICU admissions. However, the evidence varies across outcomes and patient subgroups. Discrepancies between RCTs and analytical studies highlight the need for further large-scale, well-designed trials accounting for baseline vitamin D status, standardized supplementation protocols, and patient characteristics to inform clinical guidelines for vitamin D use in COVID-19 management.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22346&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22346&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22346&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22346&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22346&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22346&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22346
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024`
+│   inner_content: `Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024`
+│   │   inner_content: `Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Therapeutic effects of vitamin D supplementation on COVID-19 aggravation: a systematic review and meta-analysis of randomized controlled trials\nFront. Pharmacol., 26 May 2024 Volume 15 - 2024 | https://doi.org/10.3389/fphar.2024.1367686\nYiyuan YangYiyuan YangWanli SunWanli SunFan YangFan YangGuoxia ZhangGuoxia ZhangXinye LiXinye LiShipeng Sun\nShipeng Sun*Yanwei Xing\nYanwei Xing* Guang’anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China\n\n{img type=&quot;attId&quot; attId=&quot;21289&quot; width=&quot;550&quot;}\nBackground: The therapeutic effects of vitamin D supplementation on Coronavirus disease 2019 (COVID-19) aggravation remain controversial and inconclusive. To probe into this contentious issue, we performed the present meta-analysis of randomized controlled trials (RCTs).\n\nMethods:__`
+│   inner_content: `Therapeutic effects of vitamin D supplementation on COVID-19 aggravation: a systematic review and meta-analysis of randomized controlled trials\nFront. Pharmacol., 26 May 2024 Volume 15 - 2024 | https://doi.org/10.3389/fphar.2024.1367686\nYiyuan YangYiyuan YangWanli SunWanli SunFan YangFan YangGuoxia ZhangGuoxia ZhangXinye LiXinye LiShipeng Sun\nShipeng Sun*Yanwei Xing\nYanwei Xing* Guang’anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China\n\n{img type=&quot;attId&quot; attId=&quot;21289&quot; width=&quot;550&quot;}\nBackground: The therapeutic effects of vitamin D supplementation on Coronavirus disease 2019 (COVID-19) aggravation remain controversial and inconclusive. To probe into this contentious issue, we performed the present meta-analysis of randomized controlled trials (RCTs).\n\nMethods:`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Therapeutic effects of vitamin D supplementation on COVID-19 aggravation: a systematic review and meta-analysis of randomized controlled trials\nFront. Pharmacol., 26 May 2024 Volume 15 - 2024 | https://doi.org/10.3389/fphar.2024.1367686\nYiyuan YangYiyuan YangWanli SunWanli SunFan YangFan YangGuoxia ZhangGuoxia ZhangXinye LiXinye LiShipeng Sun\nShipeng Sun*Yanwei Xing\nYanwei Xing* Guang’anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China\n\n`
+│   │   inner_content: `Therapeutic effects of vitamin D supplementation on COVID-19 aggravation: a systematic review and meta-analysis of randomized controlled trials\nFront. Pharmacol., 26 May 2024 Volume 15 - 2024 | https://doi.org/10.3389/fphar.2024.1367686\nYiyuan YangYiyuan YangWanli SunWanli SunFan YangFan YangGuoxia ZhangGuoxia ZhangXinye LiXinye LiShipeng Sun\nShipeng Sun*Yanwei Xing\nYanwei Xing* Guang’anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China\n\n`
+│   ├── ImgNode
+│   │   full_match: `{img type=&quot;attId&quot; attId=&quot;21289&quot; width=&quot;550&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  type=&quot;attId&quot; attId=&quot;21289&quot; width=&quot;550&quot;
+│   │   │   type: attId
+│   │   │   attId: 21289
+│   │   │   width: 550
+│   ├── TextNode
+│   │   full_match: `\nBackground: The therapeutic effects of vitamin D supplementation on Coronavirus disease 2019 (COVID-19) aggravation remain controversial and inconclusive. To probe into this contentious issue, we performed the present meta-analysis of randomized controlled trials (RCTs).\n\nMethods:`
+│   │   inner_content: `\nBackground: The therapeutic effects of vitamin D supplementation on Coronavirus disease 2019 (COVID-19) aggravation remain controversial and inconclusive. To probe into this contentious issue, we performed the present meta-analysis of randomized controlled trials (RCTs).\n\nMethods:`├── TextNode
+│   full_match: ` Literature published up to June 2023`
+│   inner_content: ` Literature published up to June 2023`├── BoldNode
+│   full_match: `__ was retrieved from Cochrane Library, PubMed, Web of Science and Embase. RCTs assessing mortality, \n*intensive care unit (ICU) admission, \n*mechanical ventilation (MV), \n*length of hospitalization (LOH), and \n*inflammatory markers containing \n**C-reactive protein (CRP), \n**D-dimer, \n**interleukin-6 (IL-6), \n**lactate dehydrogenase (LDH) were included. \n__`
+│   inner_content: ` was retrieved from Cochrane Library, PubMed, Web of Science and Embase. RCTs assessing mortality, \n*intensive care unit (ICU) admission, \n*mechanical ventilation (MV), \n*length of hospitalization (LOH), and \n*inflammatory markers containing \n**C-reactive protein (CRP), \n**D-dimer, \n**interleukin-6 (IL-6), \n**lactate dehydrogenase (LDH) were included. \n`
+│   children:
+│   ├── TextNode
+│   │   full_match: `was retrieved from Cochrane Library, PubMed, Web of Science and Embase. RCTs assessing mortality, \n`
+│   │   inner_content: `was retrieved from Cochrane Library, PubMed, Web of Science and Embase. RCTs assessing mortality, \n`
+│   ├── ListItemNode
+│   │   full_match: `*intensive care unit (ICU) admission, `
+│   │   inner_content: `intensive care unit (ICU) admission, `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `intensive care unit (ICU) admission, `
+│   │   │   inner_content: `intensive care unit (ICU) admission, `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*mechanical ventilation (MV), `
+│   │   inner_content: `mechanical ventilation (MV), `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `mechanical ventilation (MV), `
+│   │   │   inner_content: `mechanical ventilation (MV), `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*length of hospitalization (LOH), and `
+│   │   inner_content: `length of hospitalization (LOH), and `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `length of hospitalization (LOH), and `
+│   │   │   inner_content: `length of hospitalization (LOH), and `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*inflammatory markers containing `
+│   │   inner_content: `inflammatory markers containing `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `inflammatory markers containing `
+│   │   │   inner_content: `inflammatory markers containing `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `**C-reactive protein (CRP), `
+│   │   inner_content: `C-reactive protein (CRP), `
+│   │   depth: `2`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `C-reactive protein (CRP), `
+│   │   │   inner_content: `C-reactive protein (CRP), `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `**D-dimer, `
+│   │   inner_content: `D-dimer, `
+│   │   depth: `2`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `D-dimer, `
+│   │   │   inner_content: `D-dimer, `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `**interleukin-6 (IL-6), `
+│   │   inner_content: `interleukin-6 (IL-6), `
+│   │   depth: `2`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `interleukin-6 (IL-6), `
+│   │   │   inner_content: `interleukin-6 (IL-6), `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `**lactate dehydrogenase (LDH) were included. `
+│   │   inner_content: `lactate dehydrogenase (LDH) were included. `
+│   │   depth: `2`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `lactate dehydrogenase (LDH) were included. `
+│   │   │   inner_content: `lactate dehydrogenase (LDH) were included. `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
+│   full_match: `19 RCTs`
+│   inner_content: `19 RCTs`├── BoldNode
+│   full_match: `__ were involved in the analysis and were conducted subgroup analyses on the baseline COVID-19 severity and vitamin D administration.\n\nResults: In the severity subgroup, statistically significant effects in moderate to severe group were observed in\n*ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), \n*MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and \n*LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). \nIn the administration subgroup, \n*effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), \n*MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and \n*LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) \nwere more pronounced in patients supplied with multiple-dose vitamin D than single-dose. Although the result of mortality showed no statistically significant effect, it indicated a reduced trend (OR 0.87, 95% CI 0.63, 1.12; p &gt; 0.05). The results of inflammatory markers reached no statistical differences.\n\nConclusion: This meta-analysis revealed that moderate to severe COVID-19 patients supplied with multiple doses of vitamin D were less apt to need ICU admission, mechanical ventilation and have shorter hospital stays.\n{FONT(size=&quot;17&quot;)}__`
+│   inner_content: ` were involved in the analysis and were conducted subgroup analyses on the baseline COVID-19 severity and vitamin D administration.\n\nResults: In the severity subgroup, statistically significant effects in moderate to severe group were observed in\n*ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), \n*MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and \n*LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). \nIn the administration subgroup, \n*effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), \n*MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and \n*LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) \nwere more pronounced in patients supplied with multiple-dose vitamin D than single-dose. Although the result of mortality showed no statistically significant effect, it indicated a reduced trend (OR 0.87, 95% CI 0.63, 1.12; p &gt; 0.05). The results of inflammatory markers reached no statistical differences.\n\nConclusion: This meta-analysis revealed that moderate to severe COVID-19 patients supplied with multiple doses of vitamin D were less apt to need ICU admission, mechanical ventilation and have shorter hospital stays.\n{FONT(size=&quot;17&quot;)}`
+│   children:
+│   ├── TextNode
+│   │   full_match: `were involved in the analysis and were conducted subgroup analyses on the baseline COVID-19 severity and vitamin D administration.\n\nResults: In the severity subgroup, statistically significant effects in moderate to severe group were observed in\n`
+│   │   inner_content: `were involved in the analysis and were conducted subgroup analyses on the baseline COVID-19 severity and vitamin D administration.\n\nResults: In the severity subgroup, statistically significant effects in moderate to severe group were observed in\n`
+│   ├── ListItemNode
+│   │   full_match: `*ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), `
+│   │   inner_content: `ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), `
+│   │   │   inner_content: `ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and `
+│   │   inner_content: `MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and `
+│   │   │   inner_content: `MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). `
+│   │   inner_content: `LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). `
+│   │   │   inner_content: `LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). `
+│   ├── TextNode
+│   │   full_match: `\nIn the administration subgroup, \n`
+│   │   inner_content: `\nIn the administration subgroup, \n`
+│   ├── ListItemNode
+│   │   full_match: `*effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), `
+│   │   inner_content: `effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), `
+│   │   │   inner_content: `effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and `
+│   │   inner_content: `MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and `
+│   │   │   inner_content: `MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) `
+│   │   inner_content: `LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) `
+│   │   │   inner_content: `LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) `
+│   ├── TextNode
+│   │   full_match: `\nwere more pronounced in patients supplied with multiple-dose vitamin D than single-dose. Although the result of mortality showed no statistically significant effect, it indicated a reduced trend (OR 0.87, 95% CI 0.63, 1.12; p &gt; 0.05). The results of inflammatory markers reached no statistical differences.\n\nConclusion: This meta-analysis revealed that moderate to severe COVID-19 patients supplied with multiple doses of vitamin D were less apt to need ICU admission, mechanical ventilation and have shorter hospital stays.\n{FONT(size=&quot;17&quot;)}`
+│   │   inner_content: `\nwere more pronounced in patients supplied with multiple-dose vitamin D than single-dose. Although the result of mortality showed no statistically significant effect, it indicated a reduced trend (OR 0.87, 95% CI 0.63, 1.12; p &gt; 0.05). The results of inflammatory markers reached no statistical differences.\n\nConclusion: This meta-analysis revealed that moderate to severe COVID-19 patients supplied with multiple doses of vitamin D were less apt to need ICU admission, mechanical ventilation and have shorter hospital stays.\n{FONT(size=&quot;17&quot;)}`├── AttachNode
+│   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21288&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   inner_content: `Download the PDF from VitaminDWiki `
+│   attrs_dict:
+│   │   raw_content: (inline=&quot;1&quot; id=&quot;21288&quot; icon=&quot;1&quot;)
+│   │   inline: 1
+│   │   id: 21288
+│   │   icon: 1
+│   children:
+│   ├── TextNode
+│   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   inner_content: `Download the PDF from VitaminDWiki `├── BoldNode
+│   full_match: `__{FONT}\n__`
+│   inner_content: `{FONT}\n`
+│   children:
+│   ├── TextNode
+│   │   full_match: `{FONT}\n`
+│   │   inner_content: `{FONT}\n`├── LinkNode
+│   full_match: `[https://www.trialsitenews.com/a/vitamin-d-dosage-in-covid-19-patients-improves-icu-admission-mechanical-ventilation-plus-less-days-in-hospital-meta-analysis-04b1f505|study was reviewed in Trial Site News]`
+│   inner_content: `study was reviewed in Trial Site News`
+│   url: `https://www.trialsitenews.com/a/vitamin-d-dosage-in-covid-19-patients-improves-icu-admission-mechanical-ventilation-plus-less-days-in-hospital-meta-analysis-04b1f505`
+│   children:
+│   ├── TextNode
+│   │   full_match: `study was reviewed in Trial Site News`
+│   │   inner_content: `study was reviewed in Trial Site News`├── TextNode
+│   full_match: `__`
+│   inner_content: `__`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!! Additional {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 155  OR categId = 82 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} Virus Meta-analyses on VitaminDWiki`
+│   inner_content: `Additional {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 155  OR categId = 82 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} Virus Meta-analyses on VitaminDWiki`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Additional `
+│   │   inner_content: `Additional `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 155  OR categId = 82 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 155  OR categId = 82 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: ` Virus Meta-analyses on VitaminDWiki`
+│   │   inner_content: ` Virus Meta-analyses on VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── EmphasisNode
+│   full_match: `&#39;&#39;Short URL for this section = is.gd/vdwmeta&#39;&#39;`
+│   inner_content: `Short URL for this section = is.gd/vdwmeta`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Short URL for this section = is.gd/vdwmeta`
+│   │   inner_content: `Short URL for this section = is.gd/vdwmeta`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;82+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;82+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 82+155
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024)) ~/tc~`
+│   inner_content: ` (alias(Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024)) `
+│   │   inner_content: `(alias(Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Vitamin D helped after COVID infection in many ways – more studies are needed – meta-analysis Feb 2025
+__The Effect of Vitamin D Supplementation Post COVID-19 Infection and Related Outcomes: A Systematic Review and Meta-Analysis__
+ Nutrients  Volume 16  Issue 22  10.3390/nu16223794 
+by Marina Sartini 1,2,*ORCID,Filippo Del Puente 3ORCID,Alessio Carbone 1ORCID,Elisa Schinca 1,2ORCID,Gianluca Ottria 1,2,Chiara Dupont 2,Carolina Piccinini 2,Martino Oliva 1ORCID andMaria Luisa Cristina 1,2ORCID
+
+Background: Vitamin D’s role in COVID-19 management remains controversial. This meta-analysis aimed to evaluate the efficacy of vitamin D supplementation in patients with SARS-CoV-2 infection, focusing on mortality, intensive care unit (ICU) admissions, intubation rates, and hospital length of stay (LOS). 
+
+Methods: A systematic review of PubMed/MEDLINE, Scopus, Cochrane, and Google Scholar databases was conducted. Randomized controlled trials (RCTs) and analytical studies investigating vitamin D supplementation in COVID-19 patients were included. The meta-analysis was performed using STATA MP 18.5, employing random-effect or fixed-effect models based on heterogeneity. 
+
+Results: Twenty-nine studies (twenty-one RCTs, eight analytical) were analyzed. 
+Vitamin D supplementation significantly reduced ICU admissions (OR = 0.55, 95% CI: 0.37 to 0.79) in RCTs and analytical studies (OR = 0.35, 95% CI: 0.18 to 0.66). Intubation rates were significantly reduced in RCTs (OR = 0.50, 95% CI: 0.27 to 0.92). Mortality reduction was significant in analytical studies (OR = 0.45, 95% CI: 0.24 to 0.86) but not in RCTs (OR = 0.80, 95% CI: 0.61 to 1.04). Subgroup analyses revealed more pronounced effects in older patients and severe COVID-19 cases. LOS showed a non-significant reduction (mean difference = −0.62 days, 95% CI: −1.41 to 0.18). 
+
+Conclusions: This meta-analysis suggests potential benefits of vitamin D supplementation in COVID-19 patients, particularly in reducing ICU admissions. However, the evidence varies across outcomes and patient subgroups. Discrepancies between RCTs and analytical studies highlight the need for further large-scale, well-designed trials accounting for baseline vitamin D status, standardized supplementation protocols, and patient characteristics to inform clinical guidelines for vitamin D use in COVID-19 management.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22346&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024
+__Therapeutic effects of vitamin D supplementation on COVID-19 aggravation: a systematic review and meta-analysis of randomized controlled trials
+Front. Pharmacol., 26 May 2024 Volume 15 - 2024 | https://doi.org/10.3389/fphar.2024.1367686
+Yiyuan YangYiyuan YangWanli SunWanli SunFan YangFan YangGuoxia ZhangGuoxia ZhangXinye LiXinye LiShipeng Sun
+Shipeng Sun*Yanwei Xing
+Yanwei Xing* Guang’anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China
+
+{img type=&quot;attId&quot; attId=&quot;21289&quot; width=&quot;550&quot;}
+Background: The therapeutic effects of vitamin D supplementation on Coronavirus disease 2019 (COVID-19) aggravation remain controversial and inconclusive. To probe into this contentious issue, we performed the present meta-analysis of randomized controlled trials (RCTs).
+
+Methods:__ Literature published up to June 2023__ was retrieved from Cochrane Library, PubMed, Web of Science and Embase. RCTs assessing mortality, 
+*intensive care unit (ICU) admission, 
+*mechanical ventilation (MV), 
+*length of hospitalization (LOH), and 
+*inflammatory markers containing 
+**C-reactive protein (CRP), 
+**D-dimer, 
+**interleukin-6 (IL-6), 
+**lactate dehydrogenase (LDH) were included. 
+__19 RCTs__ were involved in the analysis and were conducted subgroup analyses on the baseline COVID-19 severity and vitamin D administration.
+
+Results: In the severity subgroup, statistically significant effects in moderate to severe group were observed in
+*ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), 
+*MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and 
+*LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). 
+In the administration subgroup, 
+*effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), 
+*MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and 
+*LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) 
+were more pronounced in patients supplied with multiple-dose vitamin D than single-dose. Although the result of mortality showed no statistically significant effect, it indicated a reduced trend (OR 0.87, 95% CI 0.63, 1.12; p &gt; 0.05). The results of inflammatory markers reached no statistical differences.
+
+Conclusion: This meta-analysis revealed that moderate to severe COVID-19 patients supplied with multiple doses of vitamin D were less apt to need ICU admission, mechanical ventilation and have shorter hospital stays.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21288&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+__[https://www.trialsitenews.com/a/vitamin-d-dosage-in-covid-19-patients-improves-icu-admission-mechanical-ventilation-plus-less-days-in-hospital-meta-analysis-04b1f505|study was reviewed in Trial Site News]__
+---
+!!!! Additional {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 155  OR categId = 82 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} Virus Meta-analyses on VitaminDWiki
+ ~hs~ ~hs~ &#39;&#39;Short URL for this section = is.gd/vdwmeta&#39;&#39;
+{category id=&quot;82+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+~tc~ (alias(Multiple Vitamin D doses reduced COVID ICU by 2.5 X , Mech. Ventilation by 5.5 X – meta-analysis May 2024)) ~/tc~
+</code>
+</pre>

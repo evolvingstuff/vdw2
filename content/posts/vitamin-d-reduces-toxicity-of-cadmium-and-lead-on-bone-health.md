@@ -37,9 +37,9 @@ Co-treatment with VD (1 and 10 nM) counteracted bioenergetic disruption, oxidati
 
 #### 4 heavy metal pages in VitaminDWiki
 
-1. <a href="/posts/vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024">Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024</a>
+1. [Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024](/posts/vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood)
 
-1. <a href="/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024">Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024</a>
+1. [Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024](/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d)
 
 1. <a href="/posts/cadmium-liver-problem-5-x-less-likely-when-vitamin-d-is-greater-than-40-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cadmium liver problem 5 X less likely when vitamin D is greater than 40 ng – April 2018">Cadmium liver problem 5 X less likely when vitamin D is greater than 40 ng – April 2018</a>
 
@@ -77,9 +77,9 @@ Co-treatment with VD (1 and 10 nM) counteracted bioenergetic disruption, oxidati
 
 #### 4 heavy metal pages in VitaminDWiki
 
-1. &lt;a href=&quot;/posts/vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024&quot;&gt;Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024&lt;/a&gt;
+1. [Vitamin D reduces CVD by reducing Manganese and Cadmium in blood – Feb 2024](/posts/vitamin-d-reduces-cvd-by-reducing-manganese-and-cadmium-in-blood)
 
-1. &lt;a href=&quot;/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024&quot;&gt;Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024&lt;/a&gt;
+1. [Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024](/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d)
 
 1. &lt;a href=&quot;/posts/cadmium-liver-problem-5-x-less-likely-when-vitamin-d-is-greater-than-40-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cadmium liver problem 5 X less likely when vitamin D is greater than 40 ng – April 2018&quot;&gt;Cadmium liver problem 5 X less likely when vitamin D is greater than 40 ng – April 2018&lt;/a&gt;
 

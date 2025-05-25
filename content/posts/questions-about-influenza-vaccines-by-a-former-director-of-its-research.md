@@ -63,13 +63,13 @@ including health workers, people with chronic conditions, older adults, and preg
 
 #### 6 related studies in VitaminDWiki
 
-* <a href="/posts/influenza-vaccination-2022-2023-reduced-hospitalizations-by-only-35-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Influenza vaccination (2022-2023) reduced hospitalizations by only 35% - Jan 2024">Influenza vaccination (2022-2023) reduced hospitalizations by only 35% - Jan 2024</a>
+* [Influenza vaccination (2022-2023) reduced hospitalizations by only 35% - Jan 2024](/posts/influenza-vaccination-2022-2023-reduced-hospitalizations-by-only-35-percent)
 
 * <a href="/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID infections and vaccinations decrease Vitamin D – many studies">COVID infections and vaccinations decrease Vitamin D – many studies</a>
 
 * <a href="/posts/vitamin-d-probably-can-both-prevent-influenza-and-augment-vaccine-effectiveness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D probably can both prevent Influenza and augment vaccine effectiveness – Aug 2018">Vitamin D probably can both prevent Influenza and augment vaccine effectiveness – Aug 2018</a>
 
-* <a href="/posts/influenza-risk-cut-in-half-by-the-only-trial-giving-enough-vitamin-d-for-body-weight-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022">Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022</a>
+* [Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022](/posts/influenza-risk-cut-in-half-by-the-only-trial-giving-enough-vitamin-d-for-body-weight-meta-analysis)
 
 * <a href="/posts/covid-like-influenza-may-be-able-to-mutate-to-avoid-vaccines-for-decades" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID, like influenza, may be able to mutate to avoid vaccines for decades - March 2022">COVID, like influenza, may be able to mutate to avoid vaccines for decades - March 2022</a>
 
@@ -135,13 +135,13 @@ including health workers, people with chronic conditions, older adults, and preg
 
 #### 6 related studies in VitaminDWiki
 
-* &lt;a href=&quot;/posts/influenza-vaccination-2022-2023-reduced-hospitalizations-by-only-35-percent&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Influenza vaccination (2022-2023) reduced hospitalizations by only 35% - Jan 2024&quot;&gt;Influenza vaccination (2022-2023) reduced hospitalizations by only 35% - Jan 2024&lt;/a&gt;
+* [Influenza vaccination (2022-2023) reduced hospitalizations by only 35% - Jan 2024](/posts/influenza-vaccination-2022-2023-reduced-hospitalizations-by-only-35-percent)
 
 * &lt;a href=&quot;/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID infections and vaccinations decrease Vitamin D – many studies&quot;&gt;COVID infections and vaccinations decrease Vitamin D – many studies&lt;/a&gt;
 
 * &lt;a href=&quot;/posts/vitamin-d-probably-can-both-prevent-influenza-and-augment-vaccine-effectiveness&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D probably can both prevent Influenza and augment vaccine effectiveness – Aug 2018&quot;&gt;Vitamin D probably can both prevent Influenza and augment vaccine effectiveness – Aug 2018&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/influenza-risk-cut-in-half-by-the-only-trial-giving-enough-vitamin-d-for-body-weight-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022&quot;&gt;Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022&lt;/a&gt;
+* [Influenza risk cut in half by the only trial giving enough vitamin D for body weight – meta-analysis Jan 2022](/posts/influenza-risk-cut-in-half-by-the-only-trial-giving-enough-vitamin-d-for-body-weight-meta-analysis)
 
 * &lt;a href=&quot;/posts/covid-like-influenza-may-be-able-to-mutate-to-avoid-vaccines-for-decades&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID, like influenza, may be able to mutate to avoid vaccines for decades - March 2022&quot;&gt;COVID, like influenza, may be able to mutate to avoid vaccines for decades - March 2022&lt;/a&gt;
 

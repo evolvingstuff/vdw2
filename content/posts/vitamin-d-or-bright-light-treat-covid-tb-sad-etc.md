@@ -243,11 +243,11 @@ Thanks for joining us.
 
 1. <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
 
-1. <a href="/posts/dermatologys-disastrous-war-against-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dermatology's Disastrous War Against The Sun - April 2024">Dermatology's Disastrous War Against The Sun - April 2024</a>
+1. [Dermatology's Disastrous War Against The Sun - April 2024](/posts/dermatologys-disastrous-war-against-the-sun)
 
 1. <a href="/posts/5x-fewer-hip-fractures-from-parkinson-alzheimer-stroke-with-enough-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5X fewer hip fractures from Parkinson – Alzheimer – Stroke with enough sun – June 2011">5X fewer hip fractures from Parkinson – Alzheimer – Stroke with enough sun – June 2011</a>
 
-1. <a href="/posts/fewer-covid-deaths-in-countries-with-more-sunshine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fewer COVID deaths in countries with more sunshine - April 2024">Fewer COVID deaths in countries with more sunshine - April 2024</a>
+1. [Fewer COVID deaths in countries with more sunshine - April 2024](/posts/fewer-covid-deaths-in-countries-with-more-sunshine)
 
 1. <a href="/posts/less-sun-means-more-disease-grant-holick-cannell-et-al" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less sun means more disease -Grant, Holick, Cannell, et al Feb 2015">Less sun means more disease -Grant, Holick, Cannell, et al Feb 2015</a>
 
@@ -494,11 +494,11 @@ Thanks for joining us.
 
 1. &lt;a href=&quot;/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&quot;&gt;Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&lt;/a&gt;
 
-1. &lt;a href=&quot;/posts/dermatologys-disastrous-war-against-the-sun&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dermatology&#39;s Disastrous War Against The Sun - April 2024&quot;&gt;Dermatology&#39;s Disastrous War Against The Sun - April 2024&lt;/a&gt;
+1. [Dermatology&#39;s Disastrous War Against The Sun - April 2024](/posts/dermatologys-disastrous-war-against-the-sun)
 
 1. &lt;a href=&quot;/posts/5x-fewer-hip-fractures-from-parkinson-alzheimer-stroke-with-enough-sun&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 5X fewer hip fractures from Parkinson – Alzheimer – Stroke with enough sun – June 2011&quot;&gt;5X fewer hip fractures from Parkinson – Alzheimer – Stroke with enough sun – June 2011&lt;/a&gt;
 
-1. &lt;a href=&quot;/posts/fewer-covid-deaths-in-countries-with-more-sunshine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Fewer COVID deaths in countries with more sunshine - April 2024&quot;&gt;Fewer COVID deaths in countries with more sunshine - April 2024&lt;/a&gt;
+1. [Fewer COVID deaths in countries with more sunshine - April 2024](/posts/fewer-covid-deaths-in-countries-with-more-sunshine)
 
 1. &lt;a href=&quot;/posts/less-sun-means-more-disease-grant-holick-cannell-et-al&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Less sun means more disease -Grant, Holick, Cannell, et al Feb 2015&quot;&gt;Less sun means more disease -Grant, Holick, Cannell, et al Feb 2015&lt;/a&gt;
 

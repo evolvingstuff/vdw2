@@ -1,0 +1,511 @@
+---
+title: "Liposuction for Lipedema (10% of women) significantly reduced Vitamin D levels"
+slug: "liposuction-for-lipedema-10-percent-of-women-significantly-reduced-vitamin-d-levels"
+aliases:
+  - "/Liposuction+for+Lipedema+10+of+women+significantly+reduced+Vitamin+D+levels+–+May+2024"
+  - "/15298"
+tiki_page_id: 15298
+date: 2024-05-25
+categories:
+  - "Obesity"
+  - "Women"
+  - "AI"
+---
+
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/liposuction.webp" alt="image" width="500">
+
+{{< toc >}}
+
+---
+
+#### High-Volume Liposuction in Lipedema Patients: Effects on Serum Vitamin D
+
+J Clin Med. 2024 May 11;13(10):2846. [doi: 10.3390/jcm13102846.](https://doi.org/10.3390/jcm13102846.)
+
+Tonatiuh Flores 1 2, Celina Kerschbaumer 1, Florian J Jaklin 3, Christina Glisic 1 2, Hugo Sabitzer 1 2, Jakob Nedomansky 1 2, Peter Wolf 4, Michael Weber 1, Konstantin D Bergmeister 1 2 3, Klaus F Schrögendorfer 1 2
+
+Background: Lipedema is a subcutaneous adipose tissue disorder characterized by increased pathological adipocytes mainly in the extremities. Vitamin D is stored in adipocytes, and serum levels inversely correlate with BMI. As adipocytes are removed during liposuction, lipedema patients might be prone to further substantial vitamin D loss while their levels are already decreased. Therefore, we examined the effect of liposuction on perioperative serum 25-hydroxyvitamin D levels.
+
+Methods: In patients undergoing lipedema liposuction, blood samples were obtained pre- and postoperatively. Statistical analyses were performed to correlate the volume of lipoaspirate, patients' BMI and number of sessions to vitamin D levels.
+
+Results: Overall, 213 patients were analyzed. Mean liposuction volume was 6615.33 ± 3884.25 mL, mean BMI was 32.18 ± 7.26 kg/m2. mean preoperative vitamin D levels were 30.1 ± 14.45 ng/mL (borderline deficient according to the endocrine society) and mean postoperative vitamin D levels were 21.91 ± 9.18 ng/mL (deficient). A significant decrease in serum vitamin D was seen in our patients (p < 0.001) of mean 7.83 ng/mL.
+
+The amount of vitamin D loss was not associated with BMI or aspiration volume in our patients (p > 0.05). Interestingly, vitamin D dynamics showed a steady drop regardless of volume aspirated or preoperative levels.
+
+Conclusions: Many lipedema patients have low vitamin D levels preoperatively. Liposuction significantly reduced these levels additionally, regardless of aspirated volume or BMI. However, vitamin D loss was constant and predictable; thus, patients at risk are easily identified. Overall, lipedema patients undergoing liposuction are prone to vitamin D deficiency, and the long-term effects in this population are currently unknown.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/liposuction-in-lipedema-reduces-d-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Lipedema images from web
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/l-is-not-obesity.webp" alt="image" width="500">
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/lipedema-cleveland-clinic.webp" alt="image" width="500">
+
+---
+
+#### Perplexity AI May 2024
+
+---
+
+##### Please compare and obesity
+
+Lipedema and obesity are distinct conditions, but they often coexist. Here are the key differences:
+
+Lipedema is a chronic disorder characterized by an abnormal and disproportionate accumulation of subcutaneous fat in the legs, arms, and hips. The fat distribution is typically bilateral and does not affect the hands, feet, or trunk. It is almost exclusively seen in women and often runs in families. 
+
+In contrast, obesity is a state of excessive overall body fat that affects the entire body.
+
+The fat deposits in lipedema are resistant to diet and exercise, unlike the fat associated with obesity. 
+
+ **Lipedema fat is also painful and easily bruised, while obesity-related fat is typically not.** 
+
+Lipedema is metabolically distinct from obesity. Obesity is linked to metabolic disorders like diabetes, high blood pressure, and cardiovascular disease, while lipedema is not inherently associated with these conditions.While lipedema and obesity can coexist, with  **up to 85% of lipedema patients being obese, lipedema is not caused by obesity. It is a separate condition with a likely genetic component** . 
+
+However, obesity can exacerbate the symptoms of lipedema and increase the risk of developing secondary lymphedema (fluid accumulation).
+
+In summary, lipedema is a localized disorder of abnormal subcutaneous fat deposition, primarily affecting the extremities, while obesity is a generalized accumulation of excess body fat.  **Their underlying causes, metabolic profiles, and associated health risks differ, although the two conditions frequently overlap.** 
+
+ **[References in Perplexity AI](https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q)** 
+
+---
+
+##### is liposuction used for other than Lipedema?
+
+Yes, liposuction is commonly used for cosmetic purposes beyond treating lipedema. The key differences between liposuction for lipedema versus cosmetic liposuction are:
+
+1. Purpose: Lipedema liposuction aims to reduce pain, improve mobility, and prevent further progression of the condition, while cosmetic liposuction is performed solely for aesthetic purposes to remove excess fat and improve body contours.
+
+1. Approach: Lipedema liposuction focuses on removing excess fat cells while preserving healthy tissue using specialized techniques like "lymph sparing". Cosmetic liposuction aims to remove as much fat as possible to achieve the desired cosmetic result.
+
+1. Number of sessions: Lipedema liposuction often requires multiple sessions to achieve optimal results, while cosmetic liposuction can often achieve the desired outcome in a single session.
+
+1. Cost: Lipedema liposuction tends to be more expensive due to the specialized techniques, expertise required, and larger volumes of fat removed compared to cosmetic liposuction.
+
+So in summary, while both procedures involve fat removal, lipedema liposuction is a medical treatment for a chronic condition, whereas cosmetic liposuction is an elective procedure aimed at improving physical appearance.
+
+ **[References in Perplexity AI](https://www.perplexity.ai/search/is-liposuction-used-CzNcq_UtR3S4qb0aA0g_7g)** 
+
+---
+
+##### Why might liposuction for lipedema reduce vitamin D levels?
+
+The search results indicate that liposuction for lipedema patients may reduce their vitamin D levels for the following reason:
+
+* Vitamin D is stored in adipocytes (fat cells), and serum levels of vitamin D inversely correlate with body mass index (BMI).  During liposuction, a large volume of adipocytes are removed from the body. Since lipedema patients already tend to have decreased vitamin D levels , the removal of these vitamin D-containing adipocytes through high-volume liposuction could lead to a further substantial depletion of vitamin D in their bodies.
+
+* In essence, liposuction removes the fat cells that act as a reservoir for storing vitamin D in the body. By extracting a significant amount of these adipocytes in lipedema patients who may already be deficient in vitamin D, their circulating levels of this vital nutrient could drop precipitously after the procedure. 
+
+* Therefore, the studies suggest that vitamin D levels should be monitored and potentially supplemented in lipedema patients undergoing high-volume liposuction to prevent a clinically significant deficiency from developing due to the removal of vitamin D-containing adipose tissue during the surgery. 
+
+ **[References in Perplexity AI](https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q)** 
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/liposuction.webp&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+{{&lt; toc &gt;}}
+
+---
+
+#### High-Volume Liposuction in Lipedema Patients: Effects on Serum Vitamin D
+
+J Clin Med. 2024 May 11;13(10):2846. [doi: 10.3390/jcm13102846.](https://doi.org/10.3390/jcm13102846.)
+
+Tonatiuh Flores 1 2, Celina Kerschbaumer 1, Florian J Jaklin 3, Christina Glisic 1 2, Hugo Sabitzer 1 2, Jakob Nedomansky 1 2, Peter Wolf 4, Michael Weber 1, Konstantin D Bergmeister 1 2 3, Klaus F Schrögendorfer 1 2
+
+Background: Lipedema is a subcutaneous adipose tissue disorder characterized by increased pathological adipocytes mainly in the extremities. Vitamin D is stored in adipocytes, and serum levels inversely correlate with BMI. As adipocytes are removed during liposuction, lipedema patients might be prone to further substantial vitamin D loss while their levels are already decreased. Therefore, we examined the effect of liposuction on perioperative serum 25-hydroxyvitamin D levels.
+
+Methods: In patients undergoing lipedema liposuction, blood samples were obtained pre- and postoperatively. Statistical analyses were performed to correlate the volume of lipoaspirate, patients&#39; BMI and number of sessions to vitamin D levels.
+
+Results: Overall, 213 patients were analyzed. Mean liposuction volume was 6615.33 ± 3884.25 mL, mean BMI was 32.18 ± 7.26 kg/m2. mean preoperative vitamin D levels were 30.1 ± 14.45 ng/mL (borderline deficient according to the endocrine society) and mean postoperative vitamin D levels were 21.91 ± 9.18 ng/mL (deficient). A significant decrease in serum vitamin D was seen in our patients (p &lt; 0.001) of mean 7.83 ng/mL.
+
+The amount of vitamin D loss was not associated with BMI or aspiration volume in our patients (p &gt; 0.05). Interestingly, vitamin D dynamics showed a steady drop regardless of volume aspirated or preoperative levels.
+
+Conclusions: Many lipedema patients have low vitamin D levels preoperatively. Liposuction significantly reduced these levels additionally, regardless of aspirated volume or BMI. However, vitamin D loss was constant and predictable; thus, patients at risk are easily identified. Overall, lipedema patients undergoing liposuction are prone to vitamin D deficiency, and the long-term effects in this population are currently unknown.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/liposuction-in-lipedema-reduces-d-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Lipedema images from web
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/l-is-not-obesity.webp&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/lipedema-cleveland-clinic.webp&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+---
+
+#### Perplexity AI May 2024
+
+---
+
+##### Please compare and obesity
+
+Lipedema and obesity are distinct conditions, but they often coexist. Here are the key differences:
+
+Lipedema is a chronic disorder characterized by an abnormal and disproportionate accumulation of subcutaneous fat in the legs, arms, and hips. The fat distribution is typically bilateral and does not affect the hands, feet, or trunk. It is almost exclusively seen in women and often runs in families. 
+
+In contrast, obesity is a state of excessive overall body fat that affects the entire body.
+
+The fat deposits in lipedema are resistant to diet and exercise, unlike the fat associated with obesity. 
+
+ **Lipedema fat is also painful and easily bruised, while obesity-related fat is typically not.** 
+
+Lipedema is metabolically distinct from obesity. Obesity is linked to metabolic disorders like diabetes, high blood pressure, and cardiovascular disease, while lipedema is not inherently associated with these conditions.While lipedema and obesity can coexist, with  **up to 85% of lipedema patients being obese, lipedema is not caused by obesity. It is a separate condition with a likely genetic component** . 
+
+However, obesity can exacerbate the symptoms of lipedema and increase the risk of developing secondary lymphedema (fluid accumulation).
+
+In summary, lipedema is a localized disorder of abnormal subcutaneous fat deposition, primarily affecting the extremities, while obesity is a generalized accumulation of excess body fat.  **Their underlying causes, metabolic profiles, and associated health risks differ, although the two conditions frequently overlap.** 
+
+ **[References in Perplexity AI](https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q)** 
+
+---
+
+##### is liposuction used for other than Lipedema?
+
+Yes, liposuction is commonly used for cosmetic purposes beyond treating lipedema. The key differences between liposuction for lipedema versus cosmetic liposuction are:
+
+1. Purpose: Lipedema liposuction aims to reduce pain, improve mobility, and prevent further progression of the condition, while cosmetic liposuction is performed solely for aesthetic purposes to remove excess fat and improve body contours.
+
+1. Approach: Lipedema liposuction focuses on removing excess fat cells while preserving healthy tissue using specialized techniques like &quot;lymph sparing&quot;. Cosmetic liposuction aims to remove as much fat as possible to achieve the desired cosmetic result.
+
+1. Number of sessions: Lipedema liposuction often requires multiple sessions to achieve optimal results, while cosmetic liposuction can often achieve the desired outcome in a single session.
+
+1. Cost: Lipedema liposuction tends to be more expensive due to the specialized techniques, expertise required, and larger volumes of fat removed compared to cosmetic liposuction.
+
+So in summary, while both procedures involve fat removal, lipedema liposuction is a medical treatment for a chronic condition, whereas cosmetic liposuction is an elective procedure aimed at improving physical appearance.
+
+ **[References in Perplexity AI](https://www.perplexity.ai/search/is-liposuction-used-CzNcq_UtR3S4qb0aA0g_7g)** 
+
+---
+
+##### Why might liposuction for lipedema reduce vitamin D levels?
+
+The search results indicate that liposuction for lipedema patients may reduce their vitamin D levels for the following reason:
+
+* Vitamin D is stored in adipocytes (fat cells), and serum levels of vitamin D inversely correlate with body mass index (BMI).  During liposuction, a large volume of adipocytes are removed from the body. Since lipedema patients already tend to have decreased vitamin D levels , the removal of these vitamin D-containing adipocytes through high-volume liposuction could lead to a further substantial depletion of vitamin D in their bodies.
+
+* In essence, liposuction removes the fat cells that act as a reservoir for storing vitamin D in the body. By extracting a significant amount of these adipocytes in lipedema patients who may already be deficient in vitamin D, their circulating levels of this vital nutrient could drop precipitously after the procedure. 
+
+* Therefore, the studies suggest that vitamin D levels should be monitored and potentially supplemented in lipedema patients undergoing high-volume liposuction to prevent a clinically significant deficiency from developing due to the removal of vitamin D-containing adipose tissue during the surgery. 
+
+ **[References in Perplexity AI](https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q)** 
+
+AST Structure:
+-------------
+├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21230&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21230&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 21230
+│   │   width: 500├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── DivNode
+│   full_match: `{DIV( class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: ( class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!High-Volume Liposuction in Lipedema Patients: Effects on Serum Vitamin D`
+│   inner_content: `High-Volume Liposuction in Lipedema Patients: Effects on Serum Vitamin D`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `High-Volume Liposuction in Lipedema Patients: Effects on Serum Vitamin D`
+│   │   inner_content: `High-Volume Liposuction in Lipedema Patients: Effects on Serum Vitamin D`├── TextNode
+│   full_match: `\nJ Clin Med. 2024 May 11;13(10):2846. `
+│   inner_content: `\nJ Clin Med. 2024 May 11;13(10):2846. `├── DoiLinkNode
+│   full_match: `doi: 10.3390/jcm13102846.`
+│   inner_content: `10.3390/jcm13102846.`├── TextNode
+│   full_match: `\nTonatiuh Flores 1 2, Celina Kerschbaumer 1, Florian J Jaklin 3, Christina Glisic 1 2, Hugo Sabitzer 1 2, Jakob Nedomansky 1 2, Peter Wolf 4, Michael Weber 1, Konstantin D Bergmeister 1 2 3, Klaus F Schrögendorfer 1 2\n\nBackground: Lipedema is a subcutaneous adipose tissue disorder characterized by increased pathological adipocytes mainly in the extremities. Vitamin D is stored in adipocytes, and serum levels inversely correlate with BMI. As adipocytes are removed during liposuction, lipedema patients might be prone to further substantial vitamin D loss while their levels are already decreased. Therefore, we examined the effect of liposuction on perioperative serum 25-hydroxyvitamin D levels.\n\nMethods: In patients undergoing lipedema liposuction, blood samples were obtained pre- and postoperatively. Statistical analyses were performed to correlate the volume of lipoaspirate, patients&#39; BMI and number of sessions to vitamin D levels.\n\nResults: Overall, 213 patients were analyzed. Mean liposuction volume was 6615.33 ± 3884.25 mL, mean BMI was 32.18 ± 7.26 kg/m2. mean preoperative vitamin D levels were 30.1 ± 14.45 ng/mL (borderline deficient according to the endocrine society) and mean postoperative vitamin D levels were 21.91 ± 9.18 ng/mL (deficient). A significant decrease in serum vitamin D was seen in our patients (p &lt; 0.001) of mean 7.83 ng/mL.\nThe amount of vitamin D loss was not associated with BMI or aspiration volume in our patients (p &gt; 0.05). Interestingly, vitamin D dynamics showed a steady drop regardless of volume aspirated or preoperative levels.\n\nConclusions: Many lipedema patients have low vitamin D levels preoperatively. Liposuction significantly reduced these levels additionally, regardless of aspirated volume or BMI. However, vitamin D loss was constant and predictable; thus, patients at risk are easily identified. Overall, lipedema patients undergoing liposuction are prone to vitamin D deficiency, and the long-term effects in this population are currently unknown.\n`
+│   inner_content: `\nTonatiuh Flores 1 2, Celina Kerschbaumer 1, Florian J Jaklin 3, Christina Glisic 1 2, Hugo Sabitzer 1 2, Jakob Nedomansky 1 2, Peter Wolf 4, Michael Weber 1, Konstantin D Bergmeister 1 2 3, Klaus F Schrögendorfer 1 2\n\nBackground: Lipedema is a subcutaneous adipose tissue disorder characterized by increased pathological adipocytes mainly in the extremities. Vitamin D is stored in adipocytes, and serum levels inversely correlate with BMI. As adipocytes are removed during liposuction, lipedema patients might be prone to further substantial vitamin D loss while their levels are already decreased. Therefore, we examined the effect of liposuction on perioperative serum 25-hydroxyvitamin D levels.\n\nMethods: In patients undergoing lipedema liposuction, blood samples were obtained pre- and postoperatively. Statistical analyses were performed to correlate the volume of lipoaspirate, patients&#39; BMI and number of sessions to vitamin D levels.\n\nResults: Overall, 213 patients were analyzed. Mean liposuction volume was 6615.33 ± 3884.25 mL, mean BMI was 32.18 ± 7.26 kg/m2. mean preoperative vitamin D levels were 30.1 ± 14.45 ng/mL (borderline deficient according to the endocrine society) and mean postoperative vitamin D levels were 21.91 ± 9.18 ng/mL (deficient). A significant decrease in serum vitamin D was seen in our patients (p &lt; 0.001) of mean 7.83 ng/mL.\nThe amount of vitamin D loss was not associated with BMI or aspiration volume in our patients (p &gt; 0.05). Interestingly, vitamin D dynamics showed a steady drop regardless of volume aspirated or preoperative levels.\n\nConclusions: Many lipedema patients have low vitamin D levels preoperatively. Liposuction significantly reduced these levels additionally, regardless of aspirated volume or BMI. However, vitamin D loss was constant and predictable; thus, patients at risk are easily identified. Overall, lipedema patients undergoing liposuction are prone to vitamin D deficiency, and the long-term effects in this population are currently unknown.\n`├── FontNode
+│   full_match: `{FONT( size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21229&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21229&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content:  size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21229&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21229&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21229&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21229&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21229
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Lipedema images from web`
+│   inner_content: `Lipedema images from web`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lipedema images from web`
+│   │   inner_content: `Lipedema images from web`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21231&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21231&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 21231
+│   │   width: 500├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21232&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21232&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 21232
+│   │   width: 500├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Perplexity AI May 2024`
+│   inner_content: `Perplexity AI May 2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Perplexity AI May 2024`
+│   │   inner_content: `Perplexity AI May 2024`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!Please compare and obesity`
+│   inner_content: `Please compare and obesity`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Please compare and obesity`
+│   │   inner_content: `Please compare and obesity`├── TextNode
+│   full_match: `\nLipedema and obesity are distinct conditions, but they often coexist. Here are the key differences:\n\nLipedema is a chronic disorder characterized by an abnormal and disproportionate accumulation of subcutaneous fat in the legs, arms, and hips. The fat distribution is typically bilateral and does not affect the hands, feet, or trunk. It is almost exclusively seen in women and often runs in families. \n\nIn contrast, obesity is a state of excessive overall body fat that affects the entire body.\nThe fat deposits in lipedema are resistant to diet and exercise, unlike the fat associated with obesity. \n\n`
+│   inner_content: `\nLipedema and obesity are distinct conditions, but they often coexist. Here are the key differences:\n\nLipedema is a chronic disorder characterized by an abnormal and disproportionate accumulation of subcutaneous fat in the legs, arms, and hips. The fat distribution is typically bilateral and does not affect the hands, feet, or trunk. It is almost exclusively seen in women and often runs in families. \n\nIn contrast, obesity is a state of excessive overall body fat that affects the entire body.\nThe fat deposits in lipedema are resistant to diet and exercise, unlike the fat associated with obesity. \n\n`├── BoldNode
+│   full_match: `__Lipedema fat is also painful and easily bruised, while obesity-related fat is typically not.__`
+│   inner_content: `Lipedema fat is also painful and easily bruised, while obesity-related fat is typically not.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lipedema fat is also painful and easily bruised, while obesity-related fat is typically not.`
+│   │   inner_content: `Lipedema fat is also painful and easily bruised, while obesity-related fat is typically not.`├── TextNode
+│   full_match: `\n\nLipedema is metabolically distinct from obesity. Obesity is linked to metabolic disorders like diabetes, high blood pressure, and cardiovascular disease, while lipedema is not inherently associated with these conditions.While lipedema and obesity can coexist, with `
+│   inner_content: `\n\nLipedema is metabolically distinct from obesity. Obesity is linked to metabolic disorders like diabetes, high blood pressure, and cardiovascular disease, while lipedema is not inherently associated with these conditions.While lipedema and obesity can coexist, with `├── BoldNode
+│   full_match: `__up to 85% of lipedema patients being obese, lipedema is not caused by obesity. It is a separate condition with a likely genetic component__`
+│   inner_content: `up to 85% of lipedema patients being obese, lipedema is not caused by obesity. It is a separate condition with a likely genetic component`
+│   children:
+│   ├── TextNode
+│   │   full_match: `up to 85% of lipedema patients being obese, lipedema is not caused by obesity. It is a separate condition with a likely genetic component`
+│   │   inner_content: `up to 85% of lipedema patients being obese, lipedema is not caused by obesity. It is a separate condition with a likely genetic component`├── TextNode
+│   full_match: `. \nHowever, obesity can exacerbate the symptoms of lipedema and increase the risk of developing secondary lymphedema (fluid accumulation).\n\nIn summary, lipedema is a localized disorder of abnormal subcutaneous fat deposition, primarily affecting the extremities, while obesity is a generalized accumulation of excess body fat. `
+│   inner_content: `. \nHowever, obesity can exacerbate the symptoms of lipedema and increase the risk of developing secondary lymphedema (fluid accumulation).\n\nIn summary, lipedema is a localized disorder of abnormal subcutaneous fat deposition, primarily affecting the extremities, while obesity is a generalized accumulation of excess body fat. `├── BoldNode
+│   full_match: `__Their underlying causes, metabolic profiles, and associated health risks differ, although the two conditions frequently overlap.__`
+│   inner_content: `Their underlying causes, metabolic profiles, and associated health risks differ, although the two conditions frequently overlap.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Their underlying causes, metabolic profiles, and associated health risks differ, although the two conditions frequently overlap.`
+│   │   inner_content: `Their underlying causes, metabolic profiles, and associated health risks differ, although the two conditions frequently overlap.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q|References in Perplexity AI]__`
+│   inner_content: `[https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q|References in Perplexity AI]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q|References in Perplexity AI]`
+│   │   inner_content: `References in Perplexity AI`
+│   │   url: `https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `References in Perplexity AI`
+│   │   │   inner_content: `References in Perplexity AI`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!is liposuction used for other than Lipedema?`
+│   inner_content: `is liposuction used for other than Lipedema?`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `is liposuction used for other than Lipedema?`
+│   │   inner_content: `is liposuction used for other than Lipedema?`├── TextNode
+│   full_match: `\nYes, liposuction is commonly used for cosmetic purposes beyond treating lipedema. The key differences between liposuction for lipedema versus cosmetic liposuction are:\n\n`
+│   inner_content: `\nYes, liposuction is commonly used for cosmetic purposes beyond treating lipedema. The key differences between liposuction for lipedema versus cosmetic liposuction are:\n\n`├── NumListItemNode
+│   full_match: `#Purpose: Lipedema liposuction aims to reduce pain, improve mobility, and prevent further progression of the condition, while cosmetic liposuction is performed solely for aesthetic purposes to remove excess fat and improve body contours.`
+│   inner_content: `Purpose: Lipedema liposuction aims to reduce pain, improve mobility, and prevent further progression of the condition, while cosmetic liposuction is performed solely for aesthetic purposes to remove excess fat and improve body contours.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Purpose: Lipedema liposuction aims to reduce pain, improve mobility, and prevent further progression of the condition, while cosmetic liposuction is performed solely for aesthetic purposes to remove excess fat and improve body contours.`
+│   │   inner_content: `Purpose: Lipedema liposuction aims to reduce pain, improve mobility, and prevent further progression of the condition, while cosmetic liposuction is performed solely for aesthetic purposes to remove excess fat and improve body contours.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Approach: Lipedema liposuction focuses on removing excess fat cells while preserving healthy tissue using specialized techniques like &quot;lymph sparing&quot;. Cosmetic liposuction aims to remove as much fat as possible to achieve the desired cosmetic result.`
+│   inner_content: `Approach: Lipedema liposuction focuses on removing excess fat cells while preserving healthy tissue using specialized techniques like &quot;lymph sparing&quot;. Cosmetic liposuction aims to remove as much fat as possible to achieve the desired cosmetic result.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Approach: Lipedema liposuction focuses on removing excess fat cells while preserving healthy tissue using specialized techniques like &quot;lymph sparing&quot;. Cosmetic liposuction aims to remove as much fat as possible to achieve the desired cosmetic result.`
+│   │   inner_content: `Approach: Lipedema liposuction focuses on removing excess fat cells while preserving healthy tissue using specialized techniques like &quot;lymph sparing&quot;. Cosmetic liposuction aims to remove as much fat as possible to achieve the desired cosmetic result.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Number of sessions: Lipedema liposuction often requires multiple sessions to achieve optimal results, while cosmetic liposuction can often achieve the desired outcome in a single session.`
+│   inner_content: `Number of sessions: Lipedema liposuction often requires multiple sessions to achieve optimal results, while cosmetic liposuction can often achieve the desired outcome in a single session.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Number of sessions: Lipedema liposuction often requires multiple sessions to achieve optimal results, while cosmetic liposuction can often achieve the desired outcome in a single session.`
+│   │   inner_content: `Number of sessions: Lipedema liposuction often requires multiple sessions to achieve optimal results, while cosmetic liposuction can often achieve the desired outcome in a single session.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Cost: Lipedema liposuction tends to be more expensive due to the specialized techniques, expertise required, and larger volumes of fat removed compared to cosmetic liposuction.`
+│   inner_content: `Cost: Lipedema liposuction tends to be more expensive due to the specialized techniques, expertise required, and larger volumes of fat removed compared to cosmetic liposuction.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cost: Lipedema liposuction tends to be more expensive due to the specialized techniques, expertise required, and larger volumes of fat removed compared to cosmetic liposuction.`
+│   │   inner_content: `Cost: Lipedema liposuction tends to be more expensive due to the specialized techniques, expertise required, and larger volumes of fat removed compared to cosmetic liposuction.`├── TextNode
+│   full_match: `\nSo in summary, while both procedures involve fat removal, lipedema liposuction is a medical treatment for a chronic condition, whereas cosmetic liposuction is an elective procedure aimed at improving physical appearance.\n`
+│   inner_content: `\nSo in summary, while both procedures involve fat removal, lipedema liposuction is a medical treatment for a chronic condition, whereas cosmetic liposuction is an elective procedure aimed at improving physical appearance.\n`├── BoldNode
+│   full_match: `__[https://www.perplexity.ai/search/is-liposuction-used-CzNcq_UtR3S4qb0aA0g_7g|References in Perplexity AI]__`
+│   inner_content: `[https://www.perplexity.ai/search/is-liposuction-used-CzNcq_UtR3S4qb0aA0g_7g|References in Perplexity AI]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/is-liposuction-used-CzNcq_UtR3S4qb0aA0g_7g|References in Perplexity AI]`
+│   │   inner_content: `References in Perplexity AI`
+│   │   url: `https://www.perplexity.ai/search/is-liposuction-used-CzNcq_UtR3S4qb0aA0g_7g`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `References in Perplexity AI`
+│   │   │   inner_content: `References in Perplexity AI`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!Why might liposuction for lipedema reduce vitamin D levels?`
+│   inner_content: `Why might liposuction for lipedema reduce vitamin D levels?`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Why might liposuction for lipedema reduce vitamin D levels?`
+│   │   inner_content: `Why might liposuction for lipedema reduce vitamin D levels?`├── TextNode
+│   full_match: `\nThe search results indicate that liposuction for lipedema patients may reduce their vitamin D levels for the following reason:\n`
+│   inner_content: `\nThe search results indicate that liposuction for lipedema patients may reduce their vitamin D levels for the following reason:\n`├── ListItemNode
+│   full_match: `*Vitamin D is stored in adipocytes (fat cells), and serum levels of vitamin D inversely correlate with body mass index (BMI).  During liposuction, a large volume of adipocytes are removed from the body. Since lipedema patients already tend to have decreased vitamin D levels , the removal of these vitamin D-containing adipocytes through high-volume liposuction could lead to a further substantial depletion of vitamin D in their bodies.`
+│   inner_content: `Vitamin D is stored in adipocytes (fat cells), and serum levels of vitamin D inversely correlate with body mass index (BMI).  During liposuction, a large volume of adipocytes are removed from the body. Since lipedema patients already tend to have decreased vitamin D levels , the removal of these vitamin D-containing adipocytes through high-volume liposuction could lead to a further substantial depletion of vitamin D in their bodies.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D is stored in adipocytes (fat cells), and serum levels of vitamin D inversely correlate with body mass index (BMI).  During liposuction, a large volume of adipocytes are removed from the body. Since lipedema patients already tend to have decreased vitamin D levels , the removal of these vitamin D-containing adipocytes through high-volume liposuction could lead to a further substantial depletion of vitamin D in their bodies.`
+│   │   inner_content: `Vitamin D is stored in adipocytes (fat cells), and serum levels of vitamin D inversely correlate with body mass index (BMI).  During liposuction, a large volume of adipocytes are removed from the body. Since lipedema patients already tend to have decreased vitamin D levels , the removal of these vitamin D-containing adipocytes through high-volume liposuction could lead to a further substantial depletion of vitamin D in their bodies.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*In essence, liposuction removes the fat cells that act as a reservoir for storing vitamin D in the body. By extracting a significant amount of these adipocytes in lipedema patients who may already be deficient in vitamin D, their circulating levels of this vital nutrient could drop precipitously after the procedure. `
+│   inner_content: `In essence, liposuction removes the fat cells that act as a reservoir for storing vitamin D in the body. By extracting a significant amount of these adipocytes in lipedema patients who may already be deficient in vitamin D, their circulating levels of this vital nutrient could drop precipitously after the procedure. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `In essence, liposuction removes the fat cells that act as a reservoir for storing vitamin D in the body. By extracting a significant amount of these adipocytes in lipedema patients who may already be deficient in vitamin D, their circulating levels of this vital nutrient could drop precipitously after the procedure. `
+│   │   inner_content: `In essence, liposuction removes the fat cells that act as a reservoir for storing vitamin D in the body. By extracting a significant amount of these adipocytes in lipedema patients who may already be deficient in vitamin D, their circulating levels of this vital nutrient could drop precipitously after the procedure. `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Therefore, the studies suggest that vitamin D levels should be monitored and potentially supplemented in lipedema patients undergoing high-volume liposuction to prevent a clinically significant deficiency from developing due to the removal of vitamin D-containing adipose tissue during the surgery. `
+│   inner_content: `Therefore, the studies suggest that vitamin D levels should be monitored and potentially supplemented in lipedema patients undergoing high-volume liposuction to prevent a clinically significant deficiency from developing due to the removal of vitamin D-containing adipose tissue during the surgery. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Therefore, the studies suggest that vitamin D levels should be monitored and potentially supplemented in lipedema patients undergoing high-volume liposuction to prevent a clinically significant deficiency from developing due to the removal of vitamin D-containing adipose tissue during the surgery. `
+│   │   inner_content: `Therefore, the studies suggest that vitamin D levels should be monitored and potentially supplemented in lipedema patients undergoing high-volume liposuction to prevent a clinically significant deficiency from developing due to the removal of vitamin D-containing adipose tissue during the surgery. `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q|References in Perplexity AI]__`
+│   inner_content: `[https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q|References in Perplexity AI]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q|References in Perplexity AI]`
+│   │   inner_content: `References in Perplexity AI`
+│   │   url: `https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `References in Perplexity AI`
+│   │   │   inner_content: `References in Perplexity AI`
+
+Original Tiki:
+-------------
+{img type=&quot;attId&quot; attId=&quot;21230&quot; width=&quot;500&quot;}
+
+{DIV( class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!High-Volume Liposuction in Lipedema Patients: Effects on Serum Vitamin D
+J Clin Med. 2024 May 11;13(10):2846. doi: 10.3390/jcm13102846.
+Tonatiuh Flores 1 2, Celina Kerschbaumer 1, Florian J Jaklin 3, Christina Glisic 1 2, Hugo Sabitzer 1 2, Jakob Nedomansky 1 2, Peter Wolf 4, Michael Weber 1, Konstantin D Bergmeister 1 2 3, Klaus F Schrögendorfer 1 2
+
+Background: Lipedema is a subcutaneous adipose tissue disorder characterized by increased pathological adipocytes mainly in the extremities. Vitamin D is stored in adipocytes, and serum levels inversely correlate with BMI. As adipocytes are removed during liposuction, lipedema patients might be prone to further substantial vitamin D loss while their levels are already decreased. Therefore, we examined the effect of liposuction on perioperative serum 25-hydroxyvitamin D levels.
+
+Methods: In patients undergoing lipedema liposuction, blood samples were obtained pre- and postoperatively. Statistical analyses were performed to correlate the volume of lipoaspirate, patients&#39; BMI and number of sessions to vitamin D levels.
+
+Results: Overall, 213 patients were analyzed. Mean liposuction volume was 6615.33 ± 3884.25 mL, mean BMI was 32.18 ± 7.26 kg/m2. mean preoperative vitamin D levels were 30.1 ± 14.45 ng/mL (borderline deficient according to the endocrine society) and mean postoperative vitamin D levels were 21.91 ± 9.18 ng/mL (deficient). A significant decrease in serum vitamin D was seen in our patients (p &lt; 0.001) of mean 7.83 ng/mL.
+The amount of vitamin D loss was not associated with BMI or aspiration volume in our patients (p &gt; 0.05). Interestingly, vitamin D dynamics showed a steady drop regardless of volume aspirated or preoperative levels.
+
+Conclusions: Many lipedema patients have low vitamin D levels preoperatively. Liposuction significantly reduced these levels additionally, regardless of aspirated volume or BMI. However, vitamin D loss was constant and predictable; thus, patients at risk are easily identified. Overall, lipedema patients undergoing liposuction are prone to vitamin D deficiency, and the long-term effects in this population are currently unknown.
+{FONT( size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21229&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Lipedema images from web
+{img type=&quot;attId&quot; attId=&quot;21231&quot; width=&quot;500&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;21232&quot; width=&quot;500&quot;}
+---
+!!!!Perplexity AI May 2024
+---
+!!!!!Please compare and obesity
+Lipedema and obesity are distinct conditions, but they often coexist. Here are the key differences:
+
+Lipedema is a chronic disorder characterized by an abnormal and disproportionate accumulation of subcutaneous fat in the legs, arms, and hips. The fat distribution is typically bilateral and does not affect the hands, feet, or trunk. It is almost exclusively seen in women and often runs in families. 
+
+In contrast, obesity is a state of excessive overall body fat that affects the entire body.
+The fat deposits in lipedema are resistant to diet and exercise, unlike the fat associated with obesity. 
+
+__Lipedema fat is also painful and easily bruised, while obesity-related fat is typically not.__
+
+Lipedema is metabolically distinct from obesity. Obesity is linked to metabolic disorders like diabetes, high blood pressure, and cardiovascular disease, while lipedema is not inherently associated with these conditions.While lipedema and obesity can coexist, with __up to 85% of lipedema patients being obese, lipedema is not caused by obesity. It is a separate condition with a likely genetic component__. 
+However, obesity can exacerbate the symptoms of lipedema and increase the risk of developing secondary lymphedema (fluid accumulation).
+
+In summary, lipedema is a localized disorder of abnormal subcutaneous fat deposition, primarily affecting the extremities, while obesity is a generalized accumulation of excess body fat. __Their underlying causes, metabolic profiles, and associated health risks differ, although the two conditions frequently overlap.__
+__[https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q|References in Perplexity AI]__
+---
+!!!!!is liposuction used for other than Lipedema?
+Yes, liposuction is commonly used for cosmetic purposes beyond treating lipedema. The key differences between liposuction for lipedema versus cosmetic liposuction are:
+
+#Purpose: Lipedema liposuction aims to reduce pain, improve mobility, and prevent further progression of the condition, while cosmetic liposuction is performed solely for aesthetic purposes to remove excess fat and improve body contours.
+#Approach: Lipedema liposuction focuses on removing excess fat cells while preserving healthy tissue using specialized techniques like &quot;lymph sparing&quot;. Cosmetic liposuction aims to remove as much fat as possible to achieve the desired cosmetic result.
+#Number of sessions: Lipedema liposuction often requires multiple sessions to achieve optimal results, while cosmetic liposuction can often achieve the desired outcome in a single session.
+#Cost: Lipedema liposuction tends to be more expensive due to the specialized techniques, expertise required, and larger volumes of fat removed compared to cosmetic liposuction.
+So in summary, while both procedures involve fat removal, lipedema liposuction is a medical treatment for a chronic condition, whereas cosmetic liposuction is an elective procedure aimed at improving physical appearance.
+__[https://www.perplexity.ai/search/is-liposuction-used-CzNcq_UtR3S4qb0aA0g_7g|References in Perplexity AI]__
+---
+!!!!!Why might liposuction for lipedema reduce vitamin D levels?
+The search results indicate that liposuction for lipedema patients may reduce their vitamin D levels for the following reason:
+*Vitamin D is stored in adipocytes (fat cells), and serum levels of vitamin D inversely correlate with body mass index (BMI).  During liposuction, a large volume of adipocytes are removed from the body. Since lipedema patients already tend to have decreased vitamin D levels , the removal of these vitamin D-containing adipocytes through high-volume liposuction could lead to a further substantial depletion of vitamin D in their bodies.
+*In essence, liposuction removes the fat cells that act as a reservoir for storing vitamin D in the body. By extracting a significant amount of these adipocytes in lipedema patients who may already be deficient in vitamin D, their circulating levels of this vital nutrient could drop precipitously after the procedure. 
+*Therefore, the studies suggest that vitamin D levels should be monitored and potentially supplemented in lipedema patients undergoing high-volume liposuction to prevent a clinically significant deficiency from developing due to the removal of vitamin D-containing adipose tissue during the surgery. 
+__[https://www.perplexity.ai/search/please-compare-lipedema-qNhvt1JSTWW31MN0UhWd7Q|References in Perplexity AI]__
+</code>
+</pre>
