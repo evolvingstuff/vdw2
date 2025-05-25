@@ -1,0 +1,304 @@
+---
+title: "Increased those taking Vitamin D daily in nursing home from 45% to 78% with a lot of effort (higher % if weekly to monthly)"
+slug: "increased-those-taking-vitamin-d-daily-in-nursing-home-from-45-percent-to-78-per-ekly-to-monthly"
+aliases:
+  - "/Increased+those+taking+Vitamin+D+daily+in+nursing+home+from+45+to+78+with+a+lot+of+effort+higher+if+weekly+to+monthly+–+Oct+2024"
+  - "/15614"
+tiki_page_id: 15614
+date: 2024-10-14
+---
+
+
+{{< toc >}}
+
+---
+
+#### Vitamin D Status and Physical Functioning in Nursing Home Residents after Improved Adherence to the Vitamin D and Calcium Recommendation-A Quasiexperimental Study
+
+J Nutr Metab. 2024 Oct 5:2024:2405429. [doi: 10.1155/2024/2405429](https://doi.org/10.1155/2024/2405429)
+
+Charlotte Mortensen 1, Anne Marie Beck 2, Inge Tetens 3, Charlotte Jeppesen 1, Søren Frank Jørgensen 4, Leif Kofoed Nielsen 4, Michael Kristensen 1
+
+Introduction: Dietary supplements with vitamin and calcium are recommended to nursing home residents in Denmark, but adherence to the recommendation is low. In a previous part of this study, we reported improved adherence by means of The Model for Improvement leading to increased awareness and change of workflows at two nursing homes. However, potential effects of this improved adherence are unknown.
+
+Objective: The objective of this substudy was to investigate if the improved adherence to the recommendation affected vitamin D status, muscle strength, and physical functioning of the residents.
+
+Methods: This was a 20-week quasiexperimental study involving 40 residents from two Danish nursing homes. Baseline and endpoint measurements took place in October 2021 and March 2022, respectively. Outcomes were number of residents taking vitamin D and calcium supplements; vitamin D status; handgrip strength; and physical functioning with timed-up-and-go test and 30-second chair stand test.
+
+Results: Prevalence of vitamin D supplement users increased from  **45 to 78%**  (mean dose 41 μg) and of calcium supplement users from 40 to 72% (mean dose 769 mg) (both P=0.002). Among those having blood sampled at both baseline and endpoint (n = 30), mean vitamin D status increased from 66.6 ± 31.7 nmol/L to 82.8 ± 26.3 nmol/L (P < 0.001), and more residents were vitamin D sufficient at endpoint (90 vs. 63%, P=0.021). Endpoint vitamin D status among supplement users was 88.2 ± 22.2 nmol/L, which was higher compared to nonsupplement users (55.3 ± 30.4 nmol/L, P < 0.01). No effects were seen on muscle strength or physical functioning.
+
+Conclusions: Increased supplementation with vitamin D using The Model for Improvement positively affected vitamin D status and prevalence of vitamin D sufficiency but did not affect muscle strength or physical functioning. Longer-term studies involving more residents are needed to investigate effects of improved adherence on these outcomes. This trial is registered with NCT04956705.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/nursing-home-daily-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Vitamin D Status and Physical Functioning in Nursing Home Residents after Improved Adherence to the Vitamin D and Calcium Recommendation-A Quasiexperimental Study
+
+J Nutr Metab. 2024 Oct 5:2024:2405429. [doi: 10.1155/2024/2405429](https://doi.org/10.1155/2024/2405429)
+
+Charlotte Mortensen 1, Anne Marie Beck 2, Inge Tetens 3, Charlotte Jeppesen 1, Søren Frank Jørgensen 4, Leif Kofoed Nielsen 4, Michael Kristensen 1
+
+Introduction: Dietary supplements with vitamin and calcium are recommended to nursing home residents in Denmark, but adherence to the recommendation is low. In a previous part of this study, we reported improved adherence by means of The Model for Improvement leading to increased awareness and change of workflows at two nursing homes. However, potential effects of this improved adherence are unknown.
+
+Objective: The objective of this substudy was to investigate if the improved adherence to the recommendation affected vitamin D status, muscle strength, and physical functioning of the residents.
+
+Methods: This was a 20-week quasiexperimental study involving 40 residents from two Danish nursing homes. Baseline and endpoint measurements took place in October 2021 and March 2022, respectively. Outcomes were number of residents taking vitamin D and calcium supplements; vitamin D status; handgrip strength; and physical functioning with timed-up-and-go test and 30-second chair stand test.
+
+Results: Prevalence of vitamin D supplement users increased from  **45 to 78%**  (mean dose 41 μg) and of calcium supplement users from 40 to 72% (mean dose 769 mg) (both P=0.002). Among those having blood sampled at both baseline and endpoint (n = 30), mean vitamin D status increased from 66.6 ± 31.7 nmol/L to 82.8 ± 26.3 nmol/L (P &lt; 0.001), and more residents were vitamin D sufficient at endpoint (90 vs. 63%, P=0.021). Endpoint vitamin D status among supplement users was 88.2 ± 22.2 nmol/L, which was higher compared to nonsupplement users (55.3 ± 30.4 nmol/L, P &lt; 0.01). No effects were seen on muscle strength or physical functioning.
+
+Conclusions: Increased supplementation with vitamin D using The Model for Improvement positively affected vitamin D status and prevalence of vitamin D sufficiency but did not affect muscle strength or physical functioning. Longer-term studies involving more residents are needed to investigate effects of improved adherence on these outcomes. This trial is registered with NCT04956705.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/nursing-home-daily-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D Status and Physical Functioning in Nursing Home Residents after Improved Adherence to the Vitamin D and Calcium Recommendation-A Quasiexperimental Study`
+│   inner_content: `Vitamin D Status and Physical Functioning in Nursing Home Residents after Improved Adherence to the Vitamin D and Calcium Recommendation-A Quasiexperimental Study`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D Status and Physical Functioning in Nursing Home Residents after Improved Adherence to the Vitamin D and Calcium Recommendation-A Quasiexperimental Study`
+│   │   inner_content: `Vitamin D Status and Physical Functioning in Nursing Home Residents after Improved Adherence to the Vitamin D and Calcium Recommendation-A Quasiexperimental Study`├── TextNode
+│   full_match: `\nJ Nutr Metab. 2024 Oct 5:2024:2405429. `
+│   inner_content: `\nJ Nutr Metab. 2024 Oct 5:2024:2405429. `├── DoiLinkNode
+│   full_match: `doi: 10.1155/2024/2405429`
+│   inner_content: `10.1155/2024/2405429`├── TextNode
+│   full_match: `\nCharlotte Mortensen 1, Anne Marie Beck 2, Inge Tetens 3, Charlotte Jeppesen 1, Søren Frank Jørgensen 4, Leif Kofoed Nielsen 4, Michael Kristensen 1\n\nIntroduction: Dietary supplements with vitamin and calcium are recommended to nursing home residents in Denmark, but adherence to the recommendation is low. In a previous part of this study, we reported improved adherence by means of The Model for Improvement leading to increased awareness and change of workflows at two nursing homes. However, potential effects of this improved adherence are unknown.\n\nObjective: The objective of this substudy was to investigate if the improved adherence to the recommendation affected vitamin D status, muscle strength, and physical functioning of the residents.\n\nMethods: This was a 20-week quasiexperimental study involving 40 residents from two Danish nursing homes. Baseline and endpoint measurements took place in October 2021 and March 2022, respectively. Outcomes were number of residents taking vitamin D and calcium supplements; vitamin D status; handgrip strength; and physical functioning with timed-up-and-go test and 30-second chair stand test.\n\nResults: Prevalence of vitamin D supplement users increased from `
+│   inner_content: `\nCharlotte Mortensen 1, Anne Marie Beck 2, Inge Tetens 3, Charlotte Jeppesen 1, Søren Frank Jørgensen 4, Leif Kofoed Nielsen 4, Michael Kristensen 1\n\nIntroduction: Dietary supplements with vitamin and calcium are recommended to nursing home residents in Denmark, but adherence to the recommendation is low. In a previous part of this study, we reported improved adherence by means of The Model for Improvement leading to increased awareness and change of workflows at two nursing homes. However, potential effects of this improved adherence are unknown.\n\nObjective: The objective of this substudy was to investigate if the improved adherence to the recommendation affected vitamin D status, muscle strength, and physical functioning of the residents.\n\nMethods: This was a 20-week quasiexperimental study involving 40 residents from two Danish nursing homes. Baseline and endpoint measurements took place in October 2021 and March 2022, respectively. Outcomes were number of residents taking vitamin D and calcium supplements; vitamin D status; handgrip strength; and physical functioning with timed-up-and-go test and 30-second chair stand test.\n\nResults: Prevalence of vitamin D supplement users increased from `├── BoldNode
+│   full_match: `__45 to 78%__`
+│   inner_content: `45 to 78%`
+│   children:
+│   ├── TextNode
+│   │   full_match: `45 to 78%`
+│   │   inner_content: `45 to 78%`├── TextNode
+│   full_match: ` (mean dose 41 μg) and of calcium supplement users from 40 to 72% (mean dose 769 mg) (both P=0.002). Among those having blood sampled at both baseline and endpoint (n = 30), mean vitamin D status increased from 66.6 ± 31.7 nmol/L to 82.8 ± 26.3 nmol/L (P &lt; 0.001), and more residents were vitamin D sufficient at endpoint (90 vs. 63%, P=0.021). Endpoint vitamin D status among supplement users was 88.2 ± 22.2 nmol/L, which was higher compared to nonsupplement users (55.3 ± 30.4 nmol/L, P &lt; 0.01). No effects were seen on muscle strength or physical functioning.\n\nConclusions: Increased supplementation with vitamin D using The Model for Improvement positively affected vitamin D status and prevalence of vitamin D sufficiency but did not affect muscle strength or physical functioning. Longer-term studies involving more residents are needed to investigate effects of improved adherence on these outcomes. This trial is registered with NCT04956705.\n`
+│   inner_content: ` (mean dose 41 μg) and of calcium supplement users from 40 to 72% (mean dose 769 mg) (both P=0.002). Among those having blood sampled at both baseline and endpoint (n = 30), mean vitamin D status increased from 66.6 ± 31.7 nmol/L to 82.8 ± 26.3 nmol/L (P &lt; 0.001), and more residents were vitamin D sufficient at endpoint (90 vs. 63%, P=0.021). Endpoint vitamin D status among supplement users was 88.2 ± 22.2 nmol/L, which was higher compared to nonsupplement users (55.3 ± 30.4 nmol/L, P &lt; 0.01). No effects were seen on muscle strength or physical functioning.\n\nConclusions: Increased supplementation with vitamin D using The Model for Improvement positively affected vitamin D status and prevalence of vitamin D sufficiency but did not affect muscle strength or physical functioning. Longer-term studies involving more residents are needed to investigate effects of improved adherence on these outcomes. This trial is registered with NCT04956705.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21854&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21854&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21854&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21854&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21854&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21854&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21854
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Seniors)) contains:`
+│   inner_content: `VitaminDWiki – ((Seniors)) contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Seniors))`
+│   │   inner_content: `Seniors`
+│   │   page: `Seniors`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Seniors`
+│   │   │   inner_content: `Seniors`
+│   ├── TextNode
+│   │   full_match: ` contains:`
+│   │   inner_content: ` contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Seniors&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Seniors&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Seniors
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Nursing homes and Vitamin D - many studies)) (26 as of Oct 2024)`
+│   inner_content: `VitaminDWiki – ((Nursing homes and Vitamin D - many studies)) (26 as of Oct 2024)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Nursing homes and Vitamin D - many studies))`
+│   │   inner_content: `Nursing homes and Vitamin D - many studies`
+│   │   page: `Nursing homes and Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Nursing homes and Vitamin D - many studies`
+│   │   │   inner_content: `Nursing homes and Vitamin D - many studies`
+│   ├── TextNode
+│   │   full_match: ` (26 as of Oct 2024)`
+│   │   inner_content: ` (26 as of Oct 2024)`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Vitamin D given weekly better than daily (Nursing home, 5,600 IU weekly) – Aug 2018))`
+│   inner_content: `VitaminDWiki – ((Vitamin D given weekly better than daily (Nursing home, 5,600 IU weekly) – Aug 2018))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D given weekly better than daily (Nursing home, 5,600 IU weekly) – Aug 2018))`
+│   │   inner_content: `Vitamin D given weekly better than daily (Nursing home, 5,600 IU weekly) – Aug 2018`
+│   │   page: `Vitamin D given weekly better than daily (Nursing home, 5,600 IU weekly) – Aug 2018`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D given weekly better than daily (Nursing home, 5,600 IU weekly) – Aug 2018`
+│   │   │   inner_content: `Vitamin D given weekly better than daily (Nursing home, 5,600 IU weekly) – Aug 2018`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016))`
+│   inner_content: `VitaminDWiki – ((Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016))`
+│   │   inner_content: `Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016`
+│   │   page: `Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016`
+│   │   │   inner_content: `Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer COVID-19 deaths – Nov 2, 2020))`
+│   inner_content: `VitaminDWiki – ((Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer COVID-19 deaths – Nov 2, 2020))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer COVID-19 deaths – Nov 2, 2020))`
+│   │   inner_content: `Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer COVID-19 deaths – Nov 2, 2020`
+│   │   page: `Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer COVID-19 deaths – Nov 2, 2020`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer COVID-19 deaths – Nov 2, 2020`
+│   │   │   inner_content: `Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer COVID-19 deaths – Nov 2, 2020`├── TextNode
+│   full_match: `\nVitamin D in the blood can be restricted from getting to cells by the Vitamin D Receptor\nSeniors have fewer Vitamin D Receptor than adults\nInfrequent dosing is one of 16+ ways to activate the remaining Vitamin D Receptors\n`
+│   inner_content: `\nVitamin D in the blood can be restricted from getting to cells by the Vitamin D Receptor\nSeniors have fewer Vitamin D Receptor than adults\nInfrequent dosing is one of 16+ ways to activate the remaining Vitamin D Receptors\n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` see additional 13 reasons above that seniors need more vitamin D`
+│   inner_content: ` see additional 13 reasons above that seniors need more vitamin D`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Better than Daily)) contains:`
+│   inner_content: `VitaminDWiki – ((Better than Daily)) contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Better than Daily))`
+│   │   inner_content: `Better than Daily`
+│   │   page: `Better than Daily`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Better than Daily`
+│   │   │   inner_content: `Better than Daily`
+│   ├── TextNode
+│   │   full_match: ` contains:`
+│   │   inner_content: ` contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Better than Daily&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ stop ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Better than Daily&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ stop ~/tc~&quot;
+│   │   page: Better than Daily
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ stop ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Vitamin D Status and Physical Functioning in Nursing Home Residents after Improved Adherence to the Vitamin D and Calcium Recommendation-A Quasiexperimental Study
+J Nutr Metab. 2024 Oct 5:2024:2405429. doi: 10.1155/2024/2405429
+Charlotte Mortensen 1, Anne Marie Beck 2, Inge Tetens 3, Charlotte Jeppesen 1, Søren Frank Jørgensen 4, Leif Kofoed Nielsen 4, Michael Kristensen 1
+
+Introduction: Dietary supplements with vitamin and calcium are recommended to nursing home residents in Denmark, but adherence to the recommendation is low. In a previous part of this study, we reported improved adherence by means of The Model for Improvement leading to increased awareness and change of workflows at two nursing homes. However, potential effects of this improved adherence are unknown.
+
+Objective: The objective of this substudy was to investigate if the improved adherence to the recommendation affected vitamin D status, muscle strength, and physical functioning of the residents.
+
+Methods: This was a 20-week quasiexperimental study involving 40 residents from two Danish nursing homes. Baseline and endpoint measurements took place in October 2021 and March 2022, respectively. Outcomes were number of residents taking vitamin D and calcium supplements; vitamin D status; handgrip strength; and physical functioning with timed-up-and-go test and 30-second chair stand test.
+
+Results: Prevalence of vitamin D supplement users increased from __45 to 78%__ (mean dose 41 μg) and of calcium supplement users from 40 to 72% (mean dose 769 mg) (both P=0.002). Among those having blood sampled at both baseline and endpoint (n = 30), mean vitamin D status increased from 66.6 ± 31.7 nmol/L to 82.8 ± 26.3 nmol/L (P &lt; 0.001), and more residents were vitamin D sufficient at endpoint (90 vs. 63%, P=0.021). Endpoint vitamin D status among supplement users was 88.2 ± 22.2 nmol/L, which was higher compared to nonsupplement users (55.3 ± 30.4 nmol/L, P &lt; 0.01). No effects were seen on muscle strength or physical functioning.
+
+Conclusions: Increased supplementation with vitamin D using The Model for Improvement positively affected vitamin D status and prevalence of vitamin D sufficiency but did not affect muscle strength or physical functioning. Longer-term studies involving more residents are needed to investigate effects of improved adherence on these outcomes. This trial is registered with NCT04956705.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21854&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki – ((Seniors)) contains:
+{include page=&quot;Seniors&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Nursing homes and Vitamin D - many studies)) (26 as of Oct 2024)
+---
+!!!!VitaminDWiki – ((Vitamin D given weekly better than daily (Nursing home, 5,600 IU weekly) – Aug 2018))
+---
+!!!!VitaminDWiki – ((Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016))
+---
+!!!!VitaminDWiki – ((Residents of a Nursing Home who choose monthly Vitamin D had 4X fewer COVID-19 deaths – Nov 2, 2020))
+Vitamin D in the blood can be restricted from getting to cells by the Vitamin D Receptor
+Seniors have fewer Vitamin D Receptor than adults
+Infrequent dosing is one of 16+ ways to activate the remaining Vitamin D Receptors
+~hs~ see additional 13 reasons above that seniors need more vitamin D
+---
+!!!!VitaminDWiki – ((Better than Daily)) contains:
+{include page=&quot;Better than Daily&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ stop ~/tc~&quot;}
+</code>
+</pre>

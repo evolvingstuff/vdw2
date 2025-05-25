@@ -1,0 +1,357 @@
+---
+title: "Crohn’s disease and Vitamin D Receptors: 5X decreased risk to 5X increased risk"
+slug: "crohns-disease-and-vitamin-d-receptors-5x-decreased-risk-to-5x-increased-risk"
+aliases:
+  - "/Crohns+disease+and+Vitamin+D+Receptors+5X+decreased+risk+to+5X+increased+risk+–+Feb+2025"
+  - "/15850"
+tiki_page_id: 15850
+date: 2025-02-24
+---
+
+
+{{< toc >}}
+
+---
+
+#### Genetic Polymorphisms (ApaI, FokI, BsmI, and TaqI) of the Vitamin D Receptor (VDR) Influence the Natural History and Phenotype of Crohn’s Disease
+
+Int. J. Mol. Sci. 2025, 26(5), 1848; https://doi.org/10.3390/ijms26051848
+
+by Theodora KafentziORCID,Efthymios P. TsounisORCID,Evanthia Tourkochristou,Evdoxia Avramopoulou,Ioanna AggeletopoulouORCID,Georgios Geramoutsos, Christos SotiropoulosORCID, Ploutarchos PastrasORCID,Konstantinos Thomopoulos,Georgios Theocharis and Christos Triantos 
+
+Division of Gastroenterology, Department of Internal Medicine, Medical School, University of Patras, 26504 Patras, Greece
+
+Vitamin D receptor (VDR) single-nucleotide polymorphisms (SNPs) modulate vitamin D/VDR signaling, a key pathway in inflammatory bowel disease (IBD) pathogenesis. This study investigates how ApaI, BsmI, TaqI, and FokI SNPs affect IBD phenotype and progression. A total of 76 Crohn’s disease (CD) and 68 ulcerative colitis (UC) patients were genotyped. On initial bivariate analysis, the AA genotype of ApaI was accompanied by higher rates of penetrating (B3) CD (36.7% vs. 8.7%; p = 0.012). The FokI SNP was associated with disease location, with the ff genotype predisposing to CD and affecting the upper GI (36.4% vs. 7.7%; p = 0.044) or the colon (90.9% vs. 50.8%; p = 0.038). Moreover, patients harboring the ApaI A allele (AA/Aa) experienced higher rates of steroid-refractory or steroid-dependent CD. 
+
+In multivariate analyses, the aa genotype showed a 
+
+* protective effect against hospitalization ( **aOR = 0.17** ; p = 0.013) in CD, 
+
+* whereas the TT genotype emerged as an independent risk factor ( **aOR = 4.79** ; p = 0.044). 
+
+Moreover, the aa genotype was independently associated with a decreased risk of IBD-related surgery (aOR = 0.055; p = 0.014). VDR SNPs, particularly ApaI, influence disease phenotype, progression, and treatment response in CD. The aa genotype of ApaI appears to confer protection against adverse disease outcomes.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/crohn-s-disease-vdr.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+##### Note: The changes of cellular Vitamin D (by VDR) are not noticed by blood tests - yet doctors still only consider blood tests
+
+---
+
+#### VitaminDWiki <a href="/posts/crohns-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Crohn's and Vitamin D - many studies">Crohn's and Vitamin D - many studies</a> 40 as of Feb 2025
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Genetic Polymorphisms (ApaI, FokI, BsmI, and TaqI) of the Vitamin D Receptor (VDR) Influence the Natural History and Phenotype of Crohn’s Disease
+
+Int. J. Mol. Sci. 2025, 26(5), 1848; https://doi.org/10.3390/ijms26051848
+
+by Theodora KafentziORCID,Efthymios P. TsounisORCID,Evanthia Tourkochristou,Evdoxia Avramopoulou,Ioanna AggeletopoulouORCID,Georgios Geramoutsos, Christos SotiropoulosORCID, Ploutarchos PastrasORCID,Konstantinos Thomopoulos,Georgios Theocharis and Christos Triantos 
+
+Division of Gastroenterology, Department of Internal Medicine, Medical School, University of Patras, 26504 Patras, Greece
+
+Vitamin D receptor (VDR) single-nucleotide polymorphisms (SNPs) modulate vitamin D/VDR signaling, a key pathway in inflammatory bowel disease (IBD) pathogenesis. This study investigates how ApaI, BsmI, TaqI, and FokI SNPs affect IBD phenotype and progression. A total of 76 Crohn’s disease (CD) and 68 ulcerative colitis (UC) patients were genotyped. On initial bivariate analysis, the AA genotype of ApaI was accompanied by higher rates of penetrating (B3) CD (36.7% vs. 8.7%; p = 0.012). The FokI SNP was associated with disease location, with the ff genotype predisposing to CD and affecting the upper GI (36.4% vs. 7.7%; p = 0.044) or the colon (90.9% vs. 50.8%; p = 0.038). Moreover, patients harboring the ApaI A allele (AA/Aa) experienced higher rates of steroid-refractory or steroid-dependent CD. 
+
+In multivariate analyses, the aa genotype showed a 
+
+* protective effect against hospitalization ( **aOR = 0.17** ; p = 0.013) in CD, 
+
+* whereas the TT genotype emerged as an independent risk factor ( **aOR = 4.79** ; p = 0.044). 
+
+Moreover, the aa genotype was independently associated with a decreased risk of IBD-related surgery (aOR = 0.055; p = 0.014). VDR SNPs, particularly ApaI, influence disease phenotype, progression, and treatment response in CD. The aa genotype of ApaI appears to confer protection against adverse disease outcomes.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/crohn-s-disease-vdr.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+##### Note: The changes of cellular Vitamin D (by VDR) are not noticed by blood tests - yet doctors still only consider blood tests
+
+---
+
+#### VitaminDWiki &lt;a href=&quot;/posts/crohns-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Crohn&#39;s and Vitamin D - many studies&quot;&gt;Crohn&#39;s and Vitamin D - many studies&lt;/a&gt; 40 as of Feb 2025
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Genetic Polymorphisms (ApaI, FokI, BsmI, and TaqI) of the Vitamin D Receptor (VDR) Influence the Natural History and Phenotype of Crohn’s Disease`
+│   inner_content: `Genetic Polymorphisms (ApaI, FokI, BsmI, and TaqI) of the Vitamin D Receptor (VDR) Influence the Natural History and Phenotype of Crohn’s Disease`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Genetic Polymorphisms (ApaI, FokI, BsmI, and TaqI) of the Vitamin D Receptor (VDR) Influence the Natural History and Phenotype of Crohn’s Disease`
+│   │   inner_content: `Genetic Polymorphisms (ApaI, FokI, BsmI, and TaqI) of the Vitamin D Receptor (VDR) Influence the Natural History and Phenotype of Crohn’s Disease`├── TextNode
+│   full_match: `\nInt. J. Mol. Sci. 2025, 26(5), 1848; https://doi.org/10.3390/ijms26051848\nby Theodora KafentziORCID,Efthymios P. TsounisORCID,Evanthia Tourkochristou,Evdoxia Avramopoulou,Ioanna AggeletopoulouORCID,Georgios Geramoutsos, Christos SotiropoulosORCID, Ploutarchos PastrasORCID,Konstantinos Thomopoulos,Georgios Theocharis and Christos Triantos \nDivision of Gastroenterology, Department of Internal Medicine, Medical School, University of Patras, 26504 Patras, Greece\n\nVitamin D receptor (VDR) single-nucleotide polymorphisms (SNPs) modulate vitamin D/VDR signaling, a key pathway in inflammatory bowel disease (IBD) pathogenesis. This study investigates how ApaI, BsmI, TaqI, and FokI SNPs affect IBD phenotype and progression. A total of 76 Crohn’s disease (CD) and 68 ulcerative colitis (UC) patients were genotyped. On initial bivariate analysis, the AA genotype of ApaI was accompanied by higher rates of penetrating (B3) CD (36.7% vs. 8.7%; p = 0.012). The FokI SNP was associated with disease location, with the ff genotype predisposing to CD and affecting the upper GI (36.4% vs. 7.7%; p = 0.044) or the colon (90.9% vs. 50.8%; p = 0.038). Moreover, patients harboring the ApaI A allele (AA/Aa) experienced higher rates of steroid-refractory or steroid-dependent CD. \nIn multivariate analyses, the aa genotype showed a \n`
+│   inner_content: `\nInt. J. Mol. Sci. 2025, 26(5), 1848; https://doi.org/10.3390/ijms26051848\nby Theodora KafentziORCID,Efthymios P. TsounisORCID,Evanthia Tourkochristou,Evdoxia Avramopoulou,Ioanna AggeletopoulouORCID,Georgios Geramoutsos, Christos SotiropoulosORCID, Ploutarchos PastrasORCID,Konstantinos Thomopoulos,Georgios Theocharis and Christos Triantos \nDivision of Gastroenterology, Department of Internal Medicine, Medical School, University of Patras, 26504 Patras, Greece\n\nVitamin D receptor (VDR) single-nucleotide polymorphisms (SNPs) modulate vitamin D/VDR signaling, a key pathway in inflammatory bowel disease (IBD) pathogenesis. This study investigates how ApaI, BsmI, TaqI, and FokI SNPs affect IBD phenotype and progression. A total of 76 Crohn’s disease (CD) and 68 ulcerative colitis (UC) patients were genotyped. On initial bivariate analysis, the AA genotype of ApaI was accompanied by higher rates of penetrating (B3) CD (36.7% vs. 8.7%; p = 0.012). The FokI SNP was associated with disease location, with the ff genotype predisposing to CD and affecting the upper GI (36.4% vs. 7.7%; p = 0.044) or the colon (90.9% vs. 50.8%; p = 0.038). Moreover, patients harboring the ApaI A allele (AA/Aa) experienced higher rates of steroid-refractory or steroid-dependent CD. \nIn multivariate analyses, the aa genotype showed a \n`├── ListItemNode
+│   full_match: `*protective effect against hospitalization (__aOR = 0.17__; p = 0.013) in CD, `
+│   inner_content: `protective effect against hospitalization (__aOR = 0.17__; p = 0.013) in CD, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `protective effect against hospitalization (`
+│   │   inner_content: `protective effect against hospitalization (`
+│   ├── BoldNode
+│   │   full_match: `__aOR = 0.17__`
+│   │   inner_content: `aOR = 0.17`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `aOR = 0.17`
+│   │   │   inner_content: `aOR = 0.17`
+│   ├── TextNode
+│   │   full_match: `; p = 0.013) in CD, `
+│   │   inner_content: `; p = 0.013) in CD, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*whereas the TT genotype emerged as an independent risk factor (__aOR = 4.79__; p = 0.044). `
+│   inner_content: `whereas the TT genotype emerged as an independent risk factor (__aOR = 4.79__; p = 0.044). `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `whereas the TT genotype emerged as an independent risk factor (`
+│   │   inner_content: `whereas the TT genotype emerged as an independent risk factor (`
+│   ├── BoldNode
+│   │   full_match: `__aOR = 4.79__`
+│   │   inner_content: `aOR = 4.79`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `aOR = 4.79`
+│   │   │   inner_content: `aOR = 4.79`
+│   ├── TextNode
+│   │   full_match: `; p = 0.044). `
+│   │   inner_content: `; p = 0.044). `├── TextNode
+│   full_match: `\nMoreover, the aa genotype was independently associated with a decreased risk of IBD-related surgery (aOR = 0.055; p = 0.014). VDR SNPs, particularly ApaI, influence disease phenotype, progression, and treatment response in CD. The aa genotype of ApaI appears to confer protection against adverse disease outcomes.\n`
+│   inner_content: `\nMoreover, the aa genotype was independently associated with a decreased risk of IBD-related surgery (aOR = 0.055; p = 0.014). VDR SNPs, particularly ApaI, influence disease phenotype, progression, and treatment response in CD. The aa genotype of ApaI appears to confer protection against adverse disease outcomes.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22317&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22317&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22317&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22317&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22317&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22317&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22317
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!Note: The changes of cellular Vitamin D (by VDR) are not noticed by blood tests - yet doctors still only consider blood tests`
+│   inner_content: `Note: The changes of cellular Vitamin D (by VDR) are not noticed by blood tests - yet doctors still only consider blood tests`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note: The changes of cellular Vitamin D (by VDR) are not noticed by blood tests - yet doctors still only consider blood tests`
+│   │   inner_content: `Note: The changes of cellular Vitamin D (by VDR) are not noticed by blood tests - yet doctors still only consider blood tests`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki ((Crohn&#39;s and Vitamin D - many studies)) 40 as of Feb 2025`
+│   inner_content: `VitaminDWiki ((Crohn&#39;s and Vitamin D - many studies)) 40 as of Feb 2025`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
+│   ├── LocalLinkNode
+│   │   full_match: `((Crohn&#39;s and Vitamin D - many studies))`
+│   │   inner_content: `Crohn&#39;s and Vitamin D - many studies`
+│   │   page: `Crohn&#39;s and Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Crohn&#39;s and Vitamin D - many studies`
+│   │   │   inner_content: `Crohn&#39;s and Vitamin D - many studies`
+│   ├── TextNode
+│   │   full_match: ` 40 as of Feb 2025`
+│   │   inner_content: ` 40 as of Feb 2025`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - The risk of ~~#F00:50+ ~~ diseases at least double with poor ((Vitamin D Receptor))`
+│   inner_content: `VitaminDWiki - The risk of ~~#F00:50+ ~~ diseases at least double with poor ((Vitamin D Receptor))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - The risk of `
+│   │   inner_content: `VitaminDWiki - The risk of `
+│   ├── ColorNode
+│   │   full_match: `~~#F00:50+ ~~`
+│   │   inner_content: `50+ `
+│   │   attrs_dict:
+│   │   │   raw_content: #F00
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `50+ `
+│   │   │   inner_content: `50+ `
+│   ├── TextNode
+│   │   full_match: ` diseases at least double with poor `
+│   │   inner_content: ` diseases at least double with poor `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D Receptor))`
+│   │   inner_content: `Vitamin D Receptor`
+│   │   page: `Vitamin D Receptor`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Receptor`
+│   │   │   inner_content: `Vitamin D Receptor`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│   inner_content: `VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D Receptor))`
+│   │   inner_content: `Vitamin D Receptor`
+│   │   page: `Vitamin D Receptor`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Receptor`
+│   │   │   inner_content: `Vitamin D Receptor`
+│   ├── TextNode
+│   │   full_match: ` activation can be increased in many ways`
+│   │   inner_content: ` activation can be increased in many ways`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;
+│   │   page: Vitamin D Receptor
+│   │   start: ~tc~ startact ~/tc~
+│   │   stop: ~tc~ endact ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Crohn’s Disease is associated with poor Vitamin D Receptor (many solutions) – April 2020))`
+│   inner_content: `VitaminDWiki - ((Crohn’s Disease is associated with poor Vitamin D Receptor (many solutions) – April 2020))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Crohn’s Disease is associated with poor Vitamin D Receptor (many solutions) – April 2020))`
+│   │   inner_content: `Crohn’s Disease is associated with poor Vitamin D Receptor (many solutions) – April 2020`
+│   │   page: `Crohn’s Disease is associated with poor Vitamin D Receptor (many solutions) – April 2020`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Crohn’s Disease is associated with poor Vitamin D Receptor (many solutions) – April 2020`
+│   │   │   inner_content: `Crohn’s Disease is associated with poor Vitamin D Receptor (many solutions) – April 2020`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F06:13+~~  VitaminDWiki VDR pages have CROHN etc. in the title`
+│   inner_content: `~~#F06:13+~~  VitaminDWiki VDR pages have CROHN etc. in the title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F06:13+~~`
+│   │   inner_content: `13+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `13+`
+│   │   │   inner_content: `13+`
+│   ├── TextNode
+│   │   full_match: `  VitaminDWiki VDR pages have CROHN etc. in the title`
+│   │   inner_content: `  VitaminDWiki VDR pages have CROHN etc. in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;The list is automatically updated&#39;&#39;`
+│   inner_content: `The list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The list is automatically updated`
+│   │   inner_content: `The list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;142&quot;}\n{filter field=&quot;title&quot; content=&quot;Crohn OR GUT OR Colitis OR IBD OR IBS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;142&quot;}\n{filter field=&quot;title&quot; content=&quot;Crohn OR GUT OR Colitis OR IBD OR IBS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;142&quot;}\n{filter field=&quot;title&quot; content=&quot;Crohn OR GUT OR Colitis OR IBD OR IBS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;142&quot;}\n{filter field=&quot;title&quot; content=&quot;Crohn OR GUT OR Colitis OR IBD OR IBS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Genetic Polymorphisms (ApaI, FokI, BsmI, and TaqI) of the Vitamin D Receptor (VDR) Influence the Natural History and Phenotype of Crohn’s Disease
+Int. J. Mol. Sci. 2025, 26(5), 1848; https://doi.org/10.3390/ijms26051848
+by Theodora KafentziORCID,Efthymios P. TsounisORCID,Evanthia Tourkochristou,Evdoxia Avramopoulou,Ioanna AggeletopoulouORCID,Georgios Geramoutsos, Christos SotiropoulosORCID, Ploutarchos PastrasORCID,Konstantinos Thomopoulos,Georgios Theocharis and Christos Triantos 
+Division of Gastroenterology, Department of Internal Medicine, Medical School, University of Patras, 26504 Patras, Greece
+
+Vitamin D receptor (VDR) single-nucleotide polymorphisms (SNPs) modulate vitamin D/VDR signaling, a key pathway in inflammatory bowel disease (IBD) pathogenesis. This study investigates how ApaI, BsmI, TaqI, and FokI SNPs affect IBD phenotype and progression. A total of 76 Crohn’s disease (CD) and 68 ulcerative colitis (UC) patients were genotyped. On initial bivariate analysis, the AA genotype of ApaI was accompanied by higher rates of penetrating (B3) CD (36.7% vs. 8.7%; p = 0.012). The FokI SNP was associated with disease location, with the ff genotype predisposing to CD and affecting the upper GI (36.4% vs. 7.7%; p = 0.044) or the colon (90.9% vs. 50.8%; p = 0.038). Moreover, patients harboring the ApaI A allele (AA/Aa) experienced higher rates of steroid-refractory or steroid-dependent CD. 
+In multivariate analyses, the aa genotype showed a 
+*protective effect against hospitalization (__aOR = 0.17__; p = 0.013) in CD, 
+*whereas the TT genotype emerged as an independent risk factor (__aOR = 4.79__; p = 0.044). 
+Moreover, the aa genotype was independently associated with a decreased risk of IBD-related surgery (aOR = 0.055; p = 0.014). VDR SNPs, particularly ApaI, influence disease phenotype, progression, and treatment response in CD. The aa genotype of ApaI appears to confer protection against adverse disease outcomes.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22317&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!!Note: The changes of cellular Vitamin D (by VDR) are not noticed by blood tests - yet doctors still only consider blood tests
+---
+!!!!VitaminDWiki ((Crohn&#39;s and Vitamin D - many studies)) 40 as of Feb 2025
+---
+!!!!VitaminDWiki - The risk of ~~#F00:50+ ~~ diseases at least double with poor ((Vitamin D Receptor))
+---
+!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways
+{include page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;}
+---
+!!!!VitaminDWiki - ((Crohn’s Disease is associated with poor Vitamin D Receptor (many solutions) – April 2020))
+---
+!!!!~~#F06:13+~~  VitaminDWiki VDR pages have CROHN etc. in the title
+&#39;&#39;The list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;50&quot;}
+{filter categories=&quot;142&quot;}
+{filter field=&quot;title&quot; content=&quot;Crohn OR GUT OR Colitis OR IBD OR IBS&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+</code>
+</pre>

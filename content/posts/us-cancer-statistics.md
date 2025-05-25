@@ -1,0 +1,388 @@
+---
+title: "US Cancer statistics"
+slug: "us-cancer-statistics"
+aliases:
+  - "/US+Cancer+statistics+-+Jan+2025"
+  - "/15838"
+tiki_page_id: 15838
+date: 2025-02-19
+---
+
+
+{{< toc >}}
+
+---
+
+#### Cancer statistics, 2025
+
+CA: A Cancer Journal for Clinicians - https://doi.org/10.3322/caac.21871
+
+Rebecca L. Siegel MPH, Tyler B. Kratzer MPH, Angela N. Giaquinto MSPH, Hyuna Sung PhD, Ahmedin Jemal DVM, PhD
+
+ **A few of the many tables and charts** 
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/new-cancer-lifetime.webp" alt="image" width="600">
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/cancer-incidence.webp" alt="image" width="400">
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/survive-cancer-white-vs-black.webp" alt="image" width="400">
+
+<img src="/attachments/d3.mock.jpg" alt="image" width="400">
+
+See details in VitaminDWiki [All of the top 10 Chronic health problems are fought by Vitamin D](/posts/all-of-the-top-10-chronic-health-problems-are-fought-by-vitamin-d)
+
+Each year, the American Cancer Society estimates the numbers of new cancer cases and deaths in the United States and compiles the most recent data on population-based cancer occurrence and outcomes using incidence data collected by central cancer registries (through 2021) and mortality data collected by the National Center for Health Statistics (through 2022). In 2025, 2,041,910 new cancer cases and 618,120 cancer deaths are projected to occur in the United States. The cancer mortality rate continued to decline through 2022, averting nearly 4.5 million deaths since 1991 because of smoking reductions, earlier detection for some cancers, and improved treatment. Yet alarming disparities persist; Native American people bear the highest cancer mortality, including rates that are two to three times those in White people for kidney, liver, stomach, and cervical cancers. Similarly, Black people have two-fold higher mortality than White people for prostate, stomach, and uterine corpus cancers. Overall cancer incidence has generally declined in men but has risen in women, narrowing the male-to-female rate ratio (RR) from a peak of 1.6 (95% confidence interval, 1.57–1.61) in 1992 to 1.1 (95% confidence interval, 1.12–1.12) in 2021. However, rates in women aged 50–64 years have already surpassed those in men (832.5 vs. 830.6 per 100,000), and younger women (younger than 50 years) have an 82% higher incidence rate than their male counterparts (141.1 vs. 77.4 per 100,000), up from 51% in 2002. Notably, lung cancer incidence in women surpassed that in men among people younger than 65 years in 2021 (15.7 vs. 15.4 per 100,000; RR, 0.98, p = 0.03). In summary, cancer mortality continues to decline, but future gains are threatened by rampant racial inequalities and a growing burden of disease in middle-aged and young adults, especially women. Continued progress will require investment in cancer prevention and access to equitable treatment, especially for Native American and Black individuals.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/cancer-statistics-2025-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Cancer statistics, 2025
+
+CA: A Cancer Journal for Clinicians - https://doi.org/10.3322/caac.21871
+
+Rebecca L. Siegel MPH, Tyler B. Kratzer MPH, Angela N. Giaquinto MSPH, Hyuna Sung PhD, Ahmedin Jemal DVM, PhD
+
+ **A few of the many tables and charts** 
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/new-cancer-lifetime.webp&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/cancer-incidence.webp&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/survive-cancer-white-vs-black.webp&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
+
+See details in VitaminDWiki [All of the top 10 Chronic health problems are fought by Vitamin D](/posts/all-of-the-top-10-chronic-health-problems-are-fought-by-vitamin-d)
+
+Each year, the American Cancer Society estimates the numbers of new cancer cases and deaths in the United States and compiles the most recent data on population-based cancer occurrence and outcomes using incidence data collected by central cancer registries (through 2021) and mortality data collected by the National Center for Health Statistics (through 2022). In 2025, 2,041,910 new cancer cases and 618,120 cancer deaths are projected to occur in the United States. The cancer mortality rate continued to decline through 2022, averting nearly 4.5 million deaths since 1991 because of smoking reductions, earlier detection for some cancers, and improved treatment. Yet alarming disparities persist; Native American people bear the highest cancer mortality, including rates that are two to three times those in White people for kidney, liver, stomach, and cervical cancers. Similarly, Black people have two-fold higher mortality than White people for prostate, stomach, and uterine corpus cancers. Overall cancer incidence has generally declined in men but has risen in women, narrowing the male-to-female rate ratio (RR) from a peak of 1.6 (95% confidence interval, 1.57–1.61) in 1992 to 1.1 (95% confidence interval, 1.12–1.12) in 2021. However, rates in women aged 50–64 years have already surpassed those in men (832.5 vs. 830.6 per 100,000), and younger women (younger than 50 years) have an 82% higher incidence rate than their male counterparts (141.1 vs. 77.4 per 100,000), up from 51% in 2002. Notably, lung cancer incidence in women surpassed that in men among people younger than 65 years in 2021 (15.7 vs. 15.4 per 100,000; RR, 0.98, p = 0.03). In summary, cancer mortality continues to decline, but future gains are threatened by rampant racial inequalities and a growing burden of disease in middle-aged and young adults, especially women. Continued progress will require investment in cancer prevention and access to equitable treatment, especially for Native American and Black individuals.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/cancer-statistics-2025-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Cancer statistics, 2025`
+│   inner_content: `Cancer statistics, 2025`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cancer statistics, 2025`
+│   │   inner_content: `Cancer statistics, 2025`├── TextNode
+│   full_match: `\nCA: A Cancer Journal for Clinicians - https://doi.org/10.3322/caac.21871\nRebecca L. Siegel MPH, Tyler B. Kratzer MPH, Angela N. Giaquinto MSPH, Hyuna Sung PhD, Ahmedin Jemal DVM, PhD\n\n`
+│   inner_content: `\nCA: A Cancer Journal for Clinicians - https://doi.org/10.3322/caac.21871\nRebecca L. Siegel MPH, Tyler B. Kratzer MPH, Angela N. Giaquinto MSPH, Hyuna Sung PhD, Ahmedin Jemal DVM, PhD\n\n`├── BoldNode
+│   full_match: `__A few of the many tables and charts__`
+│   inner_content: `A few of the many tables and charts`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A few of the many tables and charts`
+│   │   inner_content: `A few of the many tables and charts`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22291&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22291&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 22291
+│   │   width: 600├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22292&quot; width=&quot;400&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22292&quot; width=&quot;400&quot;
+│   │   type: attId
+│   │   attId: 22292
+│   │   width: 400├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22293&quot; width=&quot;400&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22293&quot; width=&quot;400&quot;
+│   │   type: attId
+│   │   attId: 22293
+│   │   width: 400├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;fileId&quot; fileId=&quot;3399&quot; width=&quot;400&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;fileId&quot; fileId=&quot;3399&quot; width=&quot;400&quot;
+│   │   type: fileId
+│   │   fileId: 3399
+│   │   width: 400├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ColorNode
+│   full_match: `~~#00F:&#39;&#39;See details in VitaminDWiki ((All of the top 10 Chronic health problems are fought by Vitamin D))&#39;&#39;~~`
+│   inner_content: `&#39;&#39;See details in VitaminDWiki ((All of the top 10 Chronic health problems are fought by Vitamin D))&#39;&#39;`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── EmphasisNode
+│   │   full_match: `&#39;&#39;See details in VitaminDWiki ((All of the top 10 Chronic health problems are fought by Vitamin D))&#39;&#39;`
+│   │   inner_content: `See details in VitaminDWiki ((All of the top 10 Chronic health problems are fought by Vitamin D))`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `See details in VitaminDWiki `
+│   │   │   inner_content: `See details in VitaminDWiki `
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((All of the top 10 Chronic health problems are fought by Vitamin D))`
+│   │   │   inner_content: `All of the top 10 Chronic health problems are fought by Vitamin D`
+│   │   │   page: `All of the top 10 Chronic health problems are fought by Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `All of the top 10 Chronic health problems are fought by Vitamin D`
+│   │   │   │   inner_content: `All of the top 10 Chronic health problems are fought by Vitamin D`├── TextNode
+│   full_match: `\n\nEach year, the American Cancer Society estimates the numbers of new cancer cases and deaths in the United States and compiles the most recent data on population-based cancer occurrence and outcomes using incidence data collected by central cancer registries (through 2021) and mortality data collected by the National Center for Health Statistics (through 2022). In 2025, 2,041,910 new cancer cases and 618,120 cancer deaths are projected to occur in the United States. The cancer mortality rate continued to decline through 2022, averting nearly 4.5 million deaths since 1991 because of smoking reductions, earlier detection for some cancers, and improved treatment. Yet alarming disparities persist; Native American people bear the highest cancer mortality, including rates that are two to three times those in White people for kidney, liver, stomach, and cervical cancers. Similarly, Black people have two-fold higher mortality than White people for prostate, stomach, and uterine corpus cancers. Overall cancer incidence has generally declined in men but has risen in women, narrowing the male-to-female rate ratio (RR) from a peak of 1.6 (95% confidence interval, 1.57–1.61) in 1992 to 1.1 (95% confidence interval, 1.12–1.12) in 2021. However, rates in women aged 50–64 years have already surpassed those in men (832.5 vs. 830.6 per 100,000), and younger women (younger than 50 years) have an 82% higher incidence rate than their male counterparts (141.1 vs. 77.4 per 100,000), up from 51% in 2002. Notably, lung cancer incidence in women surpassed that in men among people younger than 65 years in 2021 (15.7 vs. 15.4 per 100,000; RR, 0.98, p = 0.03). In summary, cancer mortality continues to decline, but future gains are threatened by rampant racial inequalities and a growing burden of disease in middle-aged and young adults, especially women. Continued progress will require investment in cancer prevention and access to equitable treatment, especially for Native American and Black individuals.\n`
+│   inner_content: `\n\nEach year, the American Cancer Society estimates the numbers of new cancer cases and deaths in the United States and compiles the most recent data on population-based cancer occurrence and outcomes using incidence data collected by central cancer registries (through 2021) and mortality data collected by the National Center for Health Statistics (through 2022). In 2025, 2,041,910 new cancer cases and 618,120 cancer deaths are projected to occur in the United States. The cancer mortality rate continued to decline through 2022, averting nearly 4.5 million deaths since 1991 because of smoking reductions, earlier detection for some cancers, and improved treatment. Yet alarming disparities persist; Native American people bear the highest cancer mortality, including rates that are two to three times those in White people for kidney, liver, stomach, and cervical cancers. Similarly, Black people have two-fold higher mortality than White people for prostate, stomach, and uterine corpus cancers. Overall cancer incidence has generally declined in men but has risen in women, narrowing the male-to-female rate ratio (RR) from a peak of 1.6 (95% confidence interval, 1.57–1.61) in 1992 to 1.1 (95% confidence interval, 1.12–1.12) in 2021. However, rates in women aged 50–64 years have already surpassed those in men (832.5 vs. 830.6 per 100,000), and younger women (younger than 50 years) have an 82% higher incidence rate than their male counterparts (141.1 vs. 77.4 per 100,000), up from 51% in 2002. Notably, lung cancer incidence in women surpassed that in men among people younger than 65 years in 2021 (15.7 vs. 15.4 per 100,000; RR, 0.98, p = 0.03). In summary, cancer mortality continues to decline, but future gains are threatened by rampant racial inequalities and a growing burden of disease in middle-aged and young adults, especially women. Continued progress will require investment in cancer prevention and access to equitable treatment, especially for Native American and Black individuals.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22290&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22290&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22290&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22290&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22290&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22290&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22290
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F06:33+~~  VitaminDWiki Skin-Dark pages have Cancer in the title`
+│   inner_content: `~~#F06:33+~~  VitaminDWiki Skin-Dark pages have Cancer in the title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F06:33+~~`
+│   │   inner_content: `33+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `33+`
+│   │   │   inner_content: `33+`
+│   ├── TextNode
+│   │   full_match: `  VitaminDWiki Skin-Dark pages have Cancer in the title`
+│   │   inner_content: `  VitaminDWiki Skin-Dark pages have Cancer in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;The list is automatically updated&#39;&#39;`
+│   inner_content: `The list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The list is automatically updated`
+│   │   inner_content: `The list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;2&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;2&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;2&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;2&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 2  OR categId = 30 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Mortality and Skin-Dark`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 2  OR categId = 30 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Mortality and Skin-Dark`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 2  OR categId = 30 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 2  OR categId = 30 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `       studies in both categories Mortality and Skin-Dark`
+│   │   inner_content: `       studies in both categories Mortality and Skin-Dark`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;2+30&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;2+30&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 2+30
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Cancer)) category contains:`
+│   inner_content: `VitaminDWiki – ((Cancer)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Cancer))`
+│   │   inner_content: `Cancer`
+│   │   page: `Cancer`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cancer`
+│   │   │   inner_content: `Cancer`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Cancer
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Mortality)) category contains:`
+│   inner_content: `VitaminDWiki – ((Mortality)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Mortality))`
+│   │   inner_content: `Mortality`
+│   │   page: `Mortality`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Mortality`
+│   │   │   inner_content: `Mortality`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Mortality&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Mortality&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Mortality
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(US Cancer statistics - Feb 2025)) ~/tc~`
+│   inner_content: ` (alias(US Cancer statistics - Feb 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(US Cancer statistics - Feb 2025)) `
+│   │   inner_content: `(alias(US Cancer statistics - Feb 2025)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Cancer statistics, 2025
+CA: A Cancer Journal for Clinicians - https://doi.org/10.3322/caac.21871
+Rebecca L. Siegel MPH, Tyler B. Kratzer MPH, Angela N. Giaquinto MSPH, Hyuna Sung PhD, Ahmedin Jemal DVM, PhD
+
+__A few of the many tables and charts__
+{img type=&quot;attId&quot; attId=&quot;22291&quot; width=&quot;600&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;22292&quot; width=&quot;400&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;22293&quot; width=&quot;400&quot;}
+
+{img type=&quot;fileId&quot; fileId=&quot;3399&quot; width=&quot;400&quot;}
+
+~~#00F:&#39;&#39;See details in VitaminDWiki ((All of the top 10 Chronic health problems are fought by Vitamin D))&#39;&#39;~~
+
+Each year, the American Cancer Society estimates the numbers of new cancer cases and deaths in the United States and compiles the most recent data on population-based cancer occurrence and outcomes using incidence data collected by central cancer registries (through 2021) and mortality data collected by the National Center for Health Statistics (through 2022). In 2025, 2,041,910 new cancer cases and 618,120 cancer deaths are projected to occur in the United States. The cancer mortality rate continued to decline through 2022, averting nearly 4.5 million deaths since 1991 because of smoking reductions, earlier detection for some cancers, and improved treatment. Yet alarming disparities persist; Native American people bear the highest cancer mortality, including rates that are two to three times those in White people for kidney, liver, stomach, and cervical cancers. Similarly, Black people have two-fold higher mortality than White people for prostate, stomach, and uterine corpus cancers. Overall cancer incidence has generally declined in men but has risen in women, narrowing the male-to-female rate ratio (RR) from a peak of 1.6 (95% confidence interval, 1.57–1.61) in 1992 to 1.1 (95% confidence interval, 1.12–1.12) in 2021. However, rates in women aged 50–64 years have already surpassed those in men (832.5 vs. 830.6 per 100,000), and younger women (younger than 50 years) have an 82% higher incidence rate than their male counterparts (141.1 vs. 77.4 per 100,000), up from 51% in 2002. Notably, lung cancer incidence in women surpassed that in men among people younger than 65 years in 2021 (15.7 vs. 15.4 per 100,000; RR, 0.98, p = 0.03). In summary, cancer mortality continues to decline, but future gains are threatened by rampant racial inequalities and a growing burden of disease in middle-aged and young adults, especially women. Continued progress will require investment in cancer prevention and access to equitable treatment, especially for Native American and Black individuals.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22290&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!~~#F06:33+~~  VitaminDWiki Skin-Dark pages have Cancer in the title
+&#39;&#39;The list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;50&quot;}
+{filter categories=&quot;2&quot;}
+{filter field=&quot;title&quot; content=&quot;cancer&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 2  OR categId = 30 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Mortality and Skin-Dark
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;2+30&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!!VitaminDWiki – ((Cancer)) category contains:
+{include page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Mortality)) category contains:
+{include page=&quot;Mortality&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+~tc~ (alias(US Cancer statistics - Feb 2025)) ~/tc~
+</code>
+</pre>

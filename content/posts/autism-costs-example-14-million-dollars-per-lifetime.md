@@ -1,0 +1,951 @@
+---
+title: "Autism costs  (example -1.4 million dollars per lifetime)"
+slug: "autism-costs-example-14-million-dollars-per-lifetime"
+aliases:
+  - "/Autism+costs+example+-14+million+dollars+per+lifetime+-+Dec+2024"
+  - "/15736"
+tiki_page_id: 15736
+date: 2024-12-22
+---
+
+
+{{< toc >}}
+
+---
+
+#### What is the lifetime cost of autism? - asked [Perplexity AI Dec 2024](https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw)
+
+The lifetime cost of supporting an individual with autism varies significantly based on several factors. For individuals with autism without intellectual disabilities, the cost is approximately $1.4 million in both the United States and United Kingdom &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/) &nbsp;[4](https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds)
+
+For those with autism and intellectual disabilities, the cost increases to $2.4 million in the US and $2.2 million in the UK &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/) &nbsp;[4](https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds)
+
+ **Major Cost Components** 
+
+ **Healthcare Expenses** 
+
+Medical care for children with autism ranges from $6,467 to $18,106 annually, while adult medical costs range from $13,580 to $27,159 per year &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+ **Education and Treatment** 
+
+Special education costs are significantly higher than medical care, ranging from $13,980 to $62,920 per year &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+Behavioral interventions can cost $40,000 to $60,000 per child annually &nbsp;[2](https://www.autismspeaks.org/financial-resources-autism-help)
+
+ **Lost Wages and Productivity** 
+
+* Parents lose an average of $18,720 annually caring for children with autism &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+* Adults with autism face lost wages of approximately $10,718 per year &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+* Mothers of autistic children earn 56% less than mothers of children without health problems &nbsp;[8](https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide)
+
+ **Adult Care** 
+
+Residential care represents the largest expense for adults with autism, costing between $18,080 and $36,161 annually &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+The total cost for adult services in the United States ranges from $175 billion to $196 billion per year &nbsp;[4](https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds)
+
+ **Economic Impact Trends** 
+
+The societal costs of autism are projected to increase significantly. From 1990 to 2019, approximately 2 million new cases resulted in social costs exceeding $7 trillion &nbsp;[8](https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide)
+
+By 2025, the total cost of care for children and adults with autism is expected to reach $461 billion if more effective interventions are not established &nbsp;[8](https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide)
+
+---
+
+#### What are the main factors driving the high cost of autism?  - asked [Perplexity AI Dec 2024](https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw)
+
+The high cost of autism is driven by several key factors:
+
+ **Direct Medical Costs** 
+
+ **Healthcare Expenses** 
+
+Medical care costs range from $6,467 to $18,106 annually for children and $13,580 to $27,159 for adults with autism &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+These expenses increase significantly when comorbidities are present, particularly intellectual disabilities &nbsp;[2](https://www.thetransmitter.org/spectrum/autisms-cost/)
+
+ **Educational and Therapeutic Costs** 
+
+ **Special Education** 
+
+Educational costs significantly exceed medical expenses, ranging from $13,980 to $62,920 per year &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+Specialized behavioral interventions can cost $40,000 to $60,000 annually per child &nbsp;[5](https://www.crossrivertherapy.com/autism/autism-is-expensive)
+
+ **Adult Care Expenses** 
+
+ **Residential Services** 
+
+Adult residential care represents the largest expense component, costing between $18,080 and $36,161 annually &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+This becomes particularly significant over an individual's lifetime.
+
+ **Lost Productivity** 
+
+ **Family Impact** 
+
+* Parents lose an average of $18,720 annually due to reduced work hours or leaving employment &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+* Mothers experience a 56% reduction in earnings compared to mothers of children without health conditions &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+* Adults with autism face approximately $10,718 in annual lost wages &nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+ **Cost Variations** 
+
+ **Severity and Comorbidity** 
+
+The lifetime cost varies significantly based on intellectual disability:
+
+* $1.4 million for individuals without intellectual disabilities
+
+* $2.4 million for those with intellectual disabilities &nbsp;[4](https://www.myteamaba.com/resources/cost-of-autism-treatment)
+
+ **Socioeconomic Factors** 
+
+Healthcare costs are particularly impacted by:
+
+* Lack of health insurance
+
+* Lower socioeconomic status
+
+* Severity of symptoms
+
+* Younger age groups &nbsp;[7](https://pmc.ncbi.nlm.nih.gov/articles/PMC9074281/)
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### What is the lifetime cost of autism? - asked [Perplexity AI Dec 2024](https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw)
+
+The lifetime cost of supporting an individual with autism varies significantly based on several factors. For individuals with autism without intellectual disabilities, the cost is approximately $1.4 million in both the United States and United Kingdom &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/) &amp;nbsp;[4](https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds)
+
+For those with autism and intellectual disabilities, the cost increases to $2.4 million in the US and $2.2 million in the UK &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/) &amp;nbsp;[4](https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds)
+
+ **Major Cost Components** 
+
+ **Healthcare Expenses** 
+
+Medical care for children with autism ranges from $6,467 to $18,106 annually, while adult medical costs range from $13,580 to $27,159 per year &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+ **Education and Treatment** 
+
+Special education costs are significantly higher than medical care, ranging from $13,980 to $62,920 per year &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+Behavioral interventions can cost $40,000 to $60,000 per child annually &amp;nbsp;[2](https://www.autismspeaks.org/financial-resources-autism-help)
+
+ **Lost Wages and Productivity** 
+
+* Parents lose an average of $18,720 annually caring for children with autism &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+* Adults with autism face lost wages of approximately $10,718 per year &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+* Mothers of autistic children earn 56% less than mothers of children without health problems &amp;nbsp;[8](https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide)
+
+ **Adult Care** 
+
+Residential care represents the largest expense for adults with autism, costing between $18,080 and $36,161 annually &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+The total cost for adult services in the United States ranges from $175 billion to $196 billion per year &amp;nbsp;[4](https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds)
+
+ **Economic Impact Trends** 
+
+The societal costs of autism are projected to increase significantly. From 1990 to 2019, approximately 2 million new cases resulted in social costs exceeding $7 trillion &amp;nbsp;[8](https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide)
+
+By 2025, the total cost of care for children and adults with autism is expected to reach $461 billion if more effective interventions are not established &amp;nbsp;[8](https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide)
+
+---
+
+#### What are the main factors driving the high cost of autism?  - asked [Perplexity AI Dec 2024](https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw)
+
+The high cost of autism is driven by several key factors:
+
+ **Direct Medical Costs** 
+
+ **Healthcare Expenses** 
+
+Medical care costs range from $6,467 to $18,106 annually for children and $13,580 to $27,159 for adults with autism &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+These expenses increase significantly when comorbidities are present, particularly intellectual disabilities &amp;nbsp;[2](https://www.thetransmitter.org/spectrum/autisms-cost/)
+
+ **Educational and Therapeutic Costs** 
+
+ **Special Education** 
+
+Educational costs significantly exceed medical expenses, ranging from $13,980 to $62,920 per year &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+Specialized behavioral interventions can cost $40,000 to $60,000 annually per child &amp;nbsp;[5](https://www.crossrivertherapy.com/autism/autism-is-expensive)
+
+ **Adult Care Expenses** 
+
+ **Residential Services** 
+
+Adult residential care represents the largest expense component, costing between $18,080 and $36,161 annually &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+This becomes particularly significant over an individual&#39;s lifetime.
+
+ **Lost Productivity** 
+
+ **Family Impact** 
+
+* Parents lose an average of $18,720 annually due to reduced work hours or leaving employment &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+* Mothers experience a 56% reduction in earnings compared to mothers of children without health conditions &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+* Adults with autism face approximately $10,718 in annual lost wages &amp;nbsp;[1](https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/)
+
+ **Cost Variations** 
+
+ **Severity and Comorbidity** 
+
+The lifetime cost varies significantly based on intellectual disability:
+
+* $1.4 million for individuals without intellectual disabilities
+
+* $2.4 million for those with intellectual disabilities &amp;nbsp;[4](https://www.myteamaba.com/resources/cost-of-autism-treatment)
+
+ **Socioeconomic Factors** 
+
+Healthcare costs are particularly impacted by:
+
+* Lack of health insurance
+
+* Lower socioeconomic status
+
+* Severity of symptoms
+
+* Younger age groups &amp;nbsp;[7](https://pmc.ncbi.nlm.nih.gov/articles/PMC9074281/)
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!What is the lifetime cost of autism? - asked [https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw|Perplexity AI Dec 2024]`
+│   inner_content: `What is the lifetime cost of autism? - asked [https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw|Perplexity AI Dec 2024]`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `What is the lifetime cost of autism? - asked `
+│   │   inner_content: `What is the lifetime cost of autism? - asked `
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw|Perplexity AI Dec 2024]`
+│   │   inner_content: `Perplexity AI Dec 2024`
+│   │   url: `https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity AI Dec 2024`
+│   │   │   inner_content: `Perplexity AI Dec 2024`├── TextNode
+│   full_match: `\nThe lifetime cost of supporting an individual with autism varies significantly based on several factors. For individuals with autism without intellectual disabilities, the cost is approximately $1.4 million in both the United States and United Kingdom `
+│   inner_content: `\nThe lifetime cost of supporting an individual with autism varies significantly based on several factors. For individuals with autism without intellectual disabilities, the cost is approximately $1.4 million in both the United States and United Kingdom `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `1`
+│   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds|4]`
+│   inner_content: `4`
+│   url: `https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `\nFor those with autism and intellectual disabilities, the cost increases to $2.4 million in the US and $2.2 million in the UK `
+│   inner_content: `\nFor those with autism and intellectual disabilities, the cost increases to $2.4 million in the US and $2.2 million in the UK `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `1`
+│   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds|4]`
+│   inner_content: `4`
+│   url: `https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ColorNode
+│   full_match: `~~#00F:__Major Cost Components__~~`
+│   inner_content: `__Major Cost Components__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Major Cost Components__`
+│   │   inner_content: `Major Cost Components`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Major Cost Components`
+│   │   │   inner_content: `Major Cost Components`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Healthcare Expenses__`
+│   inner_content: `Healthcare Expenses`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Healthcare Expenses`
+│   │   inner_content: `Healthcare Expenses`├── TextNode
+│   full_match: `\nMedical care for children with autism ranges from $6,467 to $18,106 annually, while adult medical costs range from $13,580 to $27,159 per year `
+│   inner_content: `\nMedical care for children with autism ranges from $6,467 to $18,106 annually, while adult medical costs range from $13,580 to $27,159 per year `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `1`
+│   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Education and Treatment__`
+│   inner_content: `Education and Treatment`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Education and Treatment`
+│   │   inner_content: `Education and Treatment`├── TextNode
+│   full_match: `\nSpecial education costs are significantly higher than medical care, ranging from $13,980 to $62,920 per year `
+│   inner_content: `\nSpecial education costs are significantly higher than medical care, ranging from $13,980 to $62,920 per year `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `1`
+│   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\nBehavioral interventions can cost $40,000 to $60,000 per child annually `
+│   inner_content: `\nBehavioral interventions can cost $40,000 to $60,000 per child annually `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.autismspeaks.org/financial-resources-autism-help|2]`
+│   inner_content: `2`
+│   url: `https://www.autismspeaks.org/financial-resources-autism-help`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Lost Wages and Productivity__`
+│   inner_content: `Lost Wages and Productivity`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lost Wages and Productivity`
+│   │   inner_content: `Lost Wages and Productivity`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Parents lose an average of $18,720 annually caring for children with autism ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `Parents lose an average of $18,720 annually caring for children with autism ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Parents lose an average of $18,720 annually caring for children with autism `
+│   │   inner_content: `Parents lose an average of $18,720 annually caring for children with autism `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   │   inner_content: `1`
+│   │   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `1`
+│   │   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Adults with autism face lost wages of approximately $10,718 per year ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `Adults with autism face lost wages of approximately $10,718 per year ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Adults with autism face lost wages of approximately $10,718 per year `
+│   │   inner_content: `Adults with autism face lost wages of approximately $10,718 per year `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   │   inner_content: `1`
+│   │   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `1`
+│   │   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Mothers of autistic children earn 56% less than mothers of children without health problems ~hs~[https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide|8]`
+│   inner_content: `Mothers of autistic children earn 56% less than mothers of children without health problems ~hs~[https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide|8]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Mothers of autistic children earn 56% less than mothers of children without health problems `
+│   │   inner_content: `Mothers of autistic children earn 56% less than mothers of children without health problems `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide|8]`
+│   │   inner_content: `8`
+│   │   url: `https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `8`
+│   │   │   inner_content: `8`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Adult Care__`
+│   inner_content: `Adult Care`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Adult Care`
+│   │   inner_content: `Adult Care`├── TextNode
+│   full_match: `\nResidential care represents the largest expense for adults with autism, costing between $18,080 and $36,161 annually `
+│   inner_content: `\nResidential care represents the largest expense for adults with autism, costing between $18,080 and $36,161 annually `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `1`
+│   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\nThe total cost for adult services in the United States ranges from $175 billion to $196 billion per year `
+│   inner_content: `\nThe total cost for adult services in the United States ranges from $175 billion to $196 billion per year `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds|4]`
+│   inner_content: `4`
+│   url: `https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ColorNode
+│   full_match: `~~#00F:__Economic Impact Trends__~~`
+│   inner_content: `__Economic Impact Trends__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Economic Impact Trends__`
+│   │   inner_content: `Economic Impact Trends`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Economic Impact Trends`
+│   │   │   inner_content: `Economic Impact Trends`├── TextNode
+│   full_match: `\nThe societal costs of autism are projected to increase significantly. From 1990 to 2019, approximately 2 million new cases resulted in social costs exceeding $7 trillion `
+│   inner_content: `\nThe societal costs of autism are projected to increase significantly. From 1990 to 2019, approximately 2 million new cases resulted in social costs exceeding $7 trillion `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide|8]`
+│   inner_content: `8`
+│   url: `https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide`
+│   children:
+│   ├── TextNode
+│   │   full_match: `8`
+│   │   inner_content: `8`├── TextNode
+│   full_match: `\nBy 2025, the total cost of care for children and adults with autism is expected to reach $461 billion if more effective interventions are not established `
+│   inner_content: `\nBy 2025, the total cost of care for children and adults with autism is expected to reach $461 billion if more effective interventions are not established `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide|8]`
+│   inner_content: `8`
+│   url: `https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide`
+│   children:
+│   ├── TextNode
+│   │   full_match: `8`
+│   │   inner_content: `8`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!What are the main factors driving the high cost of autism?  - asked [https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw|Perplexity AI Dec 2024]`
+│   inner_content: `What are the main factors driving the high cost of autism?  - asked [https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw|Perplexity AI Dec 2024]`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `What are the main factors driving the high cost of autism?  - asked `
+│   │   inner_content: `What are the main factors driving the high cost of autism?  - asked `
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw|Perplexity AI Dec 2024]`
+│   │   inner_content: `Perplexity AI Dec 2024`
+│   │   url: `https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity AI Dec 2024`
+│   │   │   inner_content: `Perplexity AI Dec 2024`├── TextNode
+│   full_match: `\nThe high cost of autism is driven by several key factors:\n`
+│   inner_content: `\nThe high cost of autism is driven by several key factors:\n`├── ColorNode
+│   full_match: `~~#00F:__Direct Medical Costs__~~`
+│   inner_content: `__Direct Medical Costs__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Direct Medical Costs__`
+│   │   inner_content: `Direct Medical Costs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Direct Medical Costs`
+│   │   │   inner_content: `Direct Medical Costs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Healthcare Expenses__`
+│   inner_content: `Healthcare Expenses`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Healthcare Expenses`
+│   │   inner_content: `Healthcare Expenses`├── TextNode
+│   full_match: `\nMedical care costs range from $6,467 to $18,106 annually for children and $13,580 to $27,159 for adults with autism `
+│   inner_content: `\nMedical care costs range from $6,467 to $18,106 annually for children and $13,580 to $27,159 for adults with autism `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `1`
+│   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\nThese expenses increase significantly when comorbidities are present, particularly intellectual disabilities `
+│   inner_content: `\nThese expenses increase significantly when comorbidities are present, particularly intellectual disabilities `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.thetransmitter.org/spectrum/autisms-cost/|2]`
+│   inner_content: `2`
+│   url: `https://www.thetransmitter.org/spectrum/autisms-cost/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ColorNode
+│   full_match: `~~#00F:__Educational and Therapeutic Costs__~~`
+│   inner_content: `__Educational and Therapeutic Costs__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Educational and Therapeutic Costs__`
+│   │   inner_content: `Educational and Therapeutic Costs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Educational and Therapeutic Costs`
+│   │   │   inner_content: `Educational and Therapeutic Costs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Special Education__`
+│   inner_content: `Special Education`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Special Education`
+│   │   inner_content: `Special Education`├── TextNode
+│   full_match: `\nEducational costs significantly exceed medical expenses, ranging from $13,980 to $62,920 per year `
+│   inner_content: `\nEducational costs significantly exceed medical expenses, ranging from $13,980 to $62,920 per year `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `1`
+│   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\nSpecialized behavioral interventions can cost $40,000 to $60,000 annually per child `
+│   inner_content: `\nSpecialized behavioral interventions can cost $40,000 to $60,000 annually per child `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.crossrivertherapy.com/autism/autism-is-expensive|5]`
+│   inner_content: `5`
+│   url: `https://www.crossrivertherapy.com/autism/autism-is-expensive`
+│   children:
+│   ├── TextNode
+│   │   full_match: `5`
+│   │   inner_content: `5`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ColorNode
+│   full_match: `~~#00F:__Adult Care Expenses__~~`
+│   inner_content: `__Adult Care Expenses__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Adult Care Expenses__`
+│   │   inner_content: `Adult Care Expenses`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Adult Care Expenses`
+│   │   │   inner_content: `Adult Care Expenses`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Residential Services__`
+│   inner_content: `Residential Services`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Residential Services`
+│   │   inner_content: `Residential Services`├── TextNode
+│   full_match: `\nAdult residential care represents the largest expense component, costing between $18,080 and $36,161 annually `
+│   inner_content: `\nAdult residential care represents the largest expense component, costing between $18,080 and $36,161 annually `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `1`
+│   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\nThis becomes particularly significant over an individual&#39;s lifetime.\n`
+│   inner_content: `\nThis becomes particularly significant over an individual&#39;s lifetime.\n`├── ColorNode
+│   full_match: `~~#00F:__Lost Productivity__~~`
+│   inner_content: `__Lost Productivity__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Lost Productivity__`
+│   │   inner_content: `Lost Productivity`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Lost Productivity`
+│   │   │   inner_content: `Lost Productivity`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Family Impact__`
+│   inner_content: `Family Impact`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Family Impact`
+│   │   inner_content: `Family Impact`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Parents lose an average of $18,720 annually due to reduced work hours or leaving employment ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `Parents lose an average of $18,720 annually due to reduced work hours or leaving employment ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Parents lose an average of $18,720 annually due to reduced work hours or leaving employment `
+│   │   inner_content: `Parents lose an average of $18,720 annually due to reduced work hours or leaving employment `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   │   inner_content: `1`
+│   │   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `1`
+│   │   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Mothers experience a 56% reduction in earnings compared to mothers of children without health conditions ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `Mothers experience a 56% reduction in earnings compared to mothers of children without health conditions ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Mothers experience a 56% reduction in earnings compared to mothers of children without health conditions `
+│   │   inner_content: `Mothers experience a 56% reduction in earnings compared to mothers of children without health conditions `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   │   inner_content: `1`
+│   │   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `1`
+│   │   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Adults with autism face approximately $10,718 in annual lost wages ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   inner_content: `Adults with autism face approximately $10,718 in annual lost wages ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Adults with autism face approximately $10,718 in annual lost wages `
+│   │   inner_content: `Adults with autism face approximately $10,718 in annual lost wages `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]`
+│   │   inner_content: `1`
+│   │   url: `https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `1`
+│   │   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ColorNode
+│   full_match: `~~#00F:__Cost Variations__~~`
+│   inner_content: `__Cost Variations__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Cost Variations__`
+│   │   inner_content: `Cost Variations`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cost Variations`
+│   │   │   inner_content: `Cost Variations`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Severity and Comorbidity__`
+│   inner_content: `Severity and Comorbidity`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Severity and Comorbidity`
+│   │   inner_content: `Severity and Comorbidity`├── TextNode
+│   full_match: `\nThe lifetime cost varies significantly based on intellectual disability:\n`
+│   inner_content: `\nThe lifetime cost varies significantly based on intellectual disability:\n`├── ListItemNode
+│   full_match: `*$1.4 million for individuals without intellectual disabilities`
+│   inner_content: `$1.4 million for individuals without intellectual disabilities`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `$1.4 million for individuals without intellectual disabilities`
+│   │   inner_content: `$1.4 million for individuals without intellectual disabilities`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*$2.4 million for those with intellectual disabilities ~hs~[https://www.myteamaba.com/resources/cost-of-autism-treatment|4]`
+│   inner_content: `$2.4 million for those with intellectual disabilities ~hs~[https://www.myteamaba.com/resources/cost-of-autism-treatment|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `$2.4 million for those with intellectual disabilities `
+│   │   inner_content: `$2.4 million for those with intellectual disabilities `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.myteamaba.com/resources/cost-of-autism-treatment|4]`
+│   │   inner_content: `4`
+│   │   url: `https://www.myteamaba.com/resources/cost-of-autism-treatment`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Socioeconomic Factors__`
+│   inner_content: `Socioeconomic Factors`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Socioeconomic Factors`
+│   │   inner_content: `Socioeconomic Factors`├── TextNode
+│   full_match: `\nHealthcare costs are particularly impacted by:\n`
+│   inner_content: `\nHealthcare costs are particularly impacted by:\n`├── ListItemNode
+│   full_match: `*Lack of health insurance`
+│   inner_content: `Lack of health insurance`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lack of health insurance`
+│   │   inner_content: `Lack of health insurance`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lower socioeconomic status`
+│   inner_content: `Lower socioeconomic status`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lower socioeconomic status`
+│   │   inner_content: `Lower socioeconomic status`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Severity of symptoms`
+│   inner_content: `Severity of symptoms`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Severity of symptoms`
+│   │   inner_content: `Severity of symptoms`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Younger age groups ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC9074281/|7]`
+│   inner_content: `Younger age groups ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC9074281/|7]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Younger age groups `
+│   │   inner_content: `Younger age groups `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC9074281/|7]`
+│   │   inner_content: `7`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9074281/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `7`
+│   │   │   inner_content: `7`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Autism)) has been proven to be both prevented and treated by Vitamin D`
+│   inner_content: `VitaminDWiki – ((Autism)) has been proven to be both prevented and treated by Vitamin D`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Autism))`
+│   │   inner_content: `Autism`
+│   │   page: `Autism`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Autism`
+│   │   │   inner_content: `Autism`
+│   ├── TextNode
+│   │   full_match: ` has been proven to be both prevented and treated by Vitamin D`
+│   │   inner_content: ` has been proven to be both prevented and treated by Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Autism&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Autism&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Autism
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Autism costs - such as 1.4 million dollars per lifetime - Dec 2024)) ~/tc~`
+│   inner_content: ` (alias(Autism costs - such as 1.4 million dollars per lifetime - Dec 2024)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Autism costs - such as 1.4 million dollars per lifetime - Dec 2024)) `
+│   │   inner_content: `(alias(Autism costs - such as 1.4 million dollars per lifetime - Dec 2024)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!What is the lifetime cost of autism? - asked [https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw|Perplexity AI Dec 2024]
+The lifetime cost of supporting an individual with autism varies significantly based on several factors. For individuals with autism without intellectual disabilities, the cost is approximately $1.4 million in both the United States and United Kingdom ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1] ~hs~[https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds|4]
+ For those with autism and intellectual disabilities, the cost increases to $2.4 million in the US and $2.2 million in the UK ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1] ~hs~[https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds|4]
+~~#00F:__Major Cost Components__~~
+__Healthcare Expenses__
+Medical care for children with autism ranges from $6,467 to $18,106 annually, while adult medical costs range from $13,580 to $27,159 per year ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+__Education and Treatment__
+Special education costs are significantly higher than medical care, ranging from $13,980 to $62,920 per year ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+ Behavioral interventions can cost $40,000 to $60,000 per child annually ~hs~[https://www.autismspeaks.org/financial-resources-autism-help|2]
+__Lost Wages and Productivity__
+*Parents lose an average of $18,720 annually caring for children with autism ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+*Adults with autism face lost wages of approximately $10,718 per year ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+*Mothers of autistic children earn 56% less than mothers of children without health problems ~hs~[https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide|8]
+__Adult Care__
+Residential care represents the largest expense for adults with autism, costing between $18,080 and $36,161 annually ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+ The total cost for adult services in the United States ranges from $175 billion to $196 billion per year ~hs~[https://penntoday.upenn.edu/news/lifetime-costs-autism-spectrum-disorder-may-reach-24-million-patient-penn-study-finds|4]
+~~#00F:__Economic Impact Trends__~~
+The societal costs of autism are projected to increase significantly. From 1990 to 2019, approximately 2 million new cases resulted in social costs exceeding $7 trillion ~hs~[https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide|8]
+ By 2025, the total cost of care for children and adults with autism is expected to reach $461 billion if more effective interventions are not established ~hs~[https://elemy.wpengine.com/autism/the-average-annual-costs-of-autism-nationwide|8]
+---
+!!!!What are the main factors driving the high cost of autism?  - asked [https://www.perplexity.ai/search/what-is-the-lifetime-cost-of-a-3HnzHXu7QLKFdfR2vSj3Jw|Perplexity AI Dec 2024]
+The high cost of autism is driven by several key factors:
+~~#00F:__Direct Medical Costs__~~
+__Healthcare Expenses__
+Medical care costs range from $6,467 to $18,106 annually for children and $13,580 to $27,159 for adults with autism ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+ These expenses increase significantly when comorbidities are present, particularly intellectual disabilities ~hs~[https://www.thetransmitter.org/spectrum/autisms-cost/|2]
+~~#00F:__Educational and Therapeutic Costs__~~
+__Special Education__
+Educational costs significantly exceed medical expenses, ranging from $13,980 to $62,920 per year ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+ Specialized behavioral interventions can cost $40,000 to $60,000 annually per child ~hs~[https://www.crossrivertherapy.com/autism/autism-is-expensive|5]
+~~#00F:__Adult Care Expenses__~~
+__Residential Services__
+Adult residential care represents the largest expense component, costing between $18,080 and $36,161 annually ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+ This becomes particularly significant over an individual&#39;s lifetime.
+~~#00F:__Lost Productivity__~~
+__Family Impact__
+*Parents lose an average of $18,720 annually due to reduced work hours or leaving employment ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+*Mothers experience a 56% reduction in earnings compared to mothers of children without health conditions ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+*Adults with autism face approximately $10,718 in annual lost wages ~hs~[https://www.cbsnews.com/news/study-puts-a-price-tag-on-the-lifetime-cost-of-autism/|1]
+~~#00F:__Cost Variations__~~
+__Severity and Comorbidity__
+The lifetime cost varies significantly based on intellectual disability:
+*$1.4 million for individuals without intellectual disabilities
+*$2.4 million for those with intellectual disabilities ~hs~[https://www.myteamaba.com/resources/cost-of-autism-treatment|4]
+__Socioeconomic Factors__
+Healthcare costs are particularly impacted by:
+*Lack of health insurance
+*Lower socioeconomic status
+*Severity of symptoms
+*Younger age groups ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC9074281/|7]
+---
+!!!!VitaminDWiki – ((Autism)) has been proven to be both prevented and treated by Vitamin D
+{include page=&quot;Autism&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+
+~tc~ (alias(Autism costs - such as 1.4 million dollars per lifetime - Dec 2024)) ~/tc~
+</code>
+</pre>

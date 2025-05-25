@@ -1,0 +1,1151 @@
+---
+title: "Vitamin D evidence: many adults need at least 2,000 IU (more is better)"
+slug: "vitamin-d-evidence-many-adults-need-at-least-2000-iu-more-is-better"
+aliases:
+  - "/Vitamin+D+evidence+many+adults+need+at+least+2000+IU+more+is+better+-+Jan+2025"
+  - "/15770"
+tiki_page_id: 15770
+date: 2025-01-14
+---
+
+
+{{< toc >}}
+
+---
+
+#### Vitamin D: Evidence-Based Health Benefits and Recommendations for Population Guidelines
+
+Nutrients 2025, 17(2), 277; https://doi.org/10.3390/nu17020277
+
+William B. Grant 1,*ORCID,Sunil J. Wimalawansa 2ORCID,Pawel Pludowski 3ORCID andRichard Z. Cheng 4,5,*ORCID
+
+Vitamin D offers numerous under-recognized health benefits beyond its well-known role in musculoskeletal health. It is vital for extra-renal tissues, prenatal health, brain function, immunity, pregnancy, cancer prevention, and cardiovascular health. Existing guidelines issued by governmental and health organizations are bone-centric and largely overlook the abovementioned extra-skeletal benefits and optimal thresholds for vitamin D. In addition, they rely on randomized controlled trials (RCTs), which seldom show benefits due to high baseline 25-hydroxyvitamin D <span>[25(OH)D]</span> concentrations, moderate supplementation doses, and flawed study designs. This review emphasizes the findings from prospective cohort studies showing that higher 25(OH)D concentrations reduce the risks of major diseases and mortality, including pregnancy and birth outcomes. 
+
+Serum concentrations > 30 ng/mL (75 nmol/L) significantly lower disease and mortality risks compared to <20 ng/mL. With 25% of the U.S. population and 60% of Central Europeans having levels <20 ng/mL, concentrations should be raised above 30 ng/mL. 
+
+This is achievable through daily supplementation with 2000 IU/day (50 mcg/day) of vitamin D3, which prevent diseases and deaths. 
+
+Furthermore, a daily dose between 4000 and 6000 IU of vitamin D3 to achieve serum 25(OH)D levels between 40 and 70 ng/mL would provide greater protection against many adverse health outcomes. Future guidelines and recommendations should integrate the findings from observational prospective cohort studies and well-designed RCTs to improve public health and personalized care.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d---evidence-based-compresspdf-2-.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Summary of study by [Perplexity AI](https://www.perplexity.ai/search/please-summarize-the-attached-N_VhWAstThms57mfNzk5Og)
+
+This comprehensive review examines the evidence-based health benefits of vitamin D 
+
+&nbsp; &nbsp;and recommendations for population guidelines. 
+
+Here are the key findings:
+
+ **<span style="color:#00F;">Health Benefits</span>** 
+
+ **Cardiovascular Disease** 
+
+* Higher vitamin D levels significantly reduce cardiovascular disease risk and mortality
+
+* Raising serum vitamin D above 40 ng/mL can lower blood pressure in hypertensive patients
+
+ **Cancer Prevention** 
+
+* Vitamin D reduces cancer incidence and mortality through multiple mechanisms
+
+* Higher vitamin D levels (>60 ng/mL) associated with 80% lower breast cancer risk
+
+* Benefits seen for colorectal, prostate, lung and other cancers
+
+ **Immune Function** 
+
+* Enhances innate and adaptive immunity
+
+* Reduces risk of respiratory infections including COVID-19
+
+* Helps prevent autoimmune conditions
+
+ **Other Key Benefits** 
+
+* Reduces risk of diabetes and improves glycemic control
+
+* Supports brain health and reduces dementia risk
+
+* Improves pregnancy outcomes and reduces complications
+
+* Essential for bone health and dental health
+
+ **<span style="color:#00F;">Recommendations</span>** 
+
+ **Optimal Blood Levels** 
+
+* Minimum recommended level: 30 ng/mL
+
+* Optimal range: 40-70 ng/mL for most health benefits
+
+* Higher levels (80-150 ng/mL) may benefit certain conditions under medical supervision
+
+ **Supplementation** 
+
+* Minimum recommendation: 2,000 IU/day for most adults
+
+* 4,000-6,000 IU/day needed to achieve optimal blood levels
+
+* Higher doses may be required for obesity, certain health conditions
+
+ **<span style="color:#00F;">Limitations of Current Guidelines</span>** 
+
+The review critiques the 2024 Endocrine Society guidelines for:
+
+* Being too conservative in dosing recommendations
+
+* Overlooking extensive evidence from observational studies
+
+* Focusing primarily on bone health while ignoring broader benefits
+
+* Not accounting for individual variations in vitamin D metabolism
+
+The authors conclude that raising population vitamin D levels 
+
+* could significantly reduce the incidence and mortality rates for 8 of the 10 leading causes of death in the U.S.
+
+* as well as improve various health outcomes.
+
+---
+
+##### 50,000 IU once a week (7,000 IU average daily) prevents/treats 61 health problems
+
+ADHD,  Anxiety,  Asthma,  Autism,  Back Pain,  BPH (prostate),  Cancer - Breast,  Cancer - Colon,  Cancer - Prostate,  Cardiovascular,  Chronic Obstructive Pulmonary Disease,  Cognitive Decline,  Colds,  COVID,  Depression,  Diabetes,  Endometriosis,  Falls,  Fibromyalgia,  Hashimoto's Thyroiditis,  Hay Fever,  Heart Failure,  Hives,  Hypertension – Pulmonary,  Immune System,  Infant,  Inflammatory Bowel Syndrome,  Influenza,  Kidney Disease,  Knee-Pain,  Lupus,  Migraine,  Multiple Sclerosis,  Muscles - women, Obesity,  Pain - Chronic,  Pain - Growing,  PMS,  Preeclampsia,  Premature Birth,  Respiratory Tract Infection,  Schizophrenia,  Sleep-Poor,  Sleep Apnea,  Smoking,  Sports Performance,  Stroke,  Surgery,  Tonsilitis,  Tuberculosis,  Ulcerative Colitis,  Ulcers – Venous,  Urinary Tract Infection 
+
+ **<a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">Click here for details</a>** 
+
+---
+
+#### <a href="/posts/health-problems-and-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health Problems and D">300+ Health problems associated with low vitamin D</a>
+
+ **This list is in the left-hand column of 15,000+ VitaminDWiki pages**  
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Vitamin D: Evidence-Based Health Benefits and Recommendations for Population Guidelines
+
+Nutrients 2025, 17(2), 277; https://doi.org/10.3390/nu17020277
+
+William B. Grant 1,*ORCID,Sunil J. Wimalawansa 2ORCID,Pawel Pludowski 3ORCID andRichard Z. Cheng 4,5,*ORCID
+
+Vitamin D offers numerous under-recognized health benefits beyond its well-known role in musculoskeletal health. It is vital for extra-renal tissues, prenatal health, brain function, immunity, pregnancy, cancer prevention, and cardiovascular health. Existing guidelines issued by governmental and health organizations are bone-centric and largely overlook the abovementioned extra-skeletal benefits and optimal thresholds for vitamin D. In addition, they rely on randomized controlled trials (RCTs), which seldom show benefits due to high baseline 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; concentrations, moderate supplementation doses, and flawed study designs. This review emphasizes the findings from prospective cohort studies showing that higher 25(OH)D concentrations reduce the risks of major diseases and mortality, including pregnancy and birth outcomes. 
+
+Serum concentrations &gt; 30 ng/mL (75 nmol/L) significantly lower disease and mortality risks compared to &lt;20 ng/mL. With 25% of the U.S. population and 60% of Central Europeans having levels &lt;20 ng/mL, concentrations should be raised above 30 ng/mL. 
+
+This is achievable through daily supplementation with 2000 IU/day (50 mcg/day) of vitamin D3, which prevent diseases and deaths. 
+
+Furthermore, a daily dose between 4000 and 6000 IU of vitamin D3 to achieve serum 25(OH)D levels between 40 and 70 ng/mL would provide greater protection against many adverse health outcomes. Future guidelines and recommendations should integrate the findings from observational prospective cohort studies and well-designed RCTs to improve public health and personalized care.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d---evidence-based-compresspdf-2-.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Summary of study by [Perplexity AI](https://www.perplexity.ai/search/please-summarize-the-attached-N_VhWAstThms57mfNzk5Og)
+
+This comprehensive review examines the evidence-based health benefits of vitamin D 
+
+&amp;nbsp; &amp;nbsp;and recommendations for population guidelines. 
+
+Here are the key findings:
+
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Health Benefits&lt;/span&gt;** 
+
+ **Cardiovascular Disease** 
+
+* Higher vitamin D levels significantly reduce cardiovascular disease risk and mortality
+
+* Raising serum vitamin D above 40 ng/mL can lower blood pressure in hypertensive patients
+
+ **Cancer Prevention** 
+
+* Vitamin D reduces cancer incidence and mortality through multiple mechanisms
+
+* Higher vitamin D levels (&gt;60 ng/mL) associated with 80% lower breast cancer risk
+
+* Benefits seen for colorectal, prostate, lung and other cancers
+
+ **Immune Function** 
+
+* Enhances innate and adaptive immunity
+
+* Reduces risk of respiratory infections including COVID-19
+
+* Helps prevent autoimmune conditions
+
+ **Other Key Benefits** 
+
+* Reduces risk of diabetes and improves glycemic control
+
+* Supports brain health and reduces dementia risk
+
+* Improves pregnancy outcomes and reduces complications
+
+* Essential for bone health and dental health
+
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Recommendations&lt;/span&gt;** 
+
+ **Optimal Blood Levels** 
+
+* Minimum recommended level: 30 ng/mL
+
+* Optimal range: 40-70 ng/mL for most health benefits
+
+* Higher levels (80-150 ng/mL) may benefit certain conditions under medical supervision
+
+ **Supplementation** 
+
+* Minimum recommendation: 2,000 IU/day for most adults
+
+* 4,000-6,000 IU/day needed to achieve optimal blood levels
+
+* Higher doses may be required for obesity, certain health conditions
+
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Limitations of Current Guidelines&lt;/span&gt;** 
+
+The review critiques the 2024 Endocrine Society guidelines for:
+
+* Being too conservative in dosing recommendations
+
+* Overlooking extensive evidence from observational studies
+
+* Focusing primarily on bone health while ignoring broader benefits
+
+* Not accounting for individual variations in vitamin D metabolism
+
+The authors conclude that raising population vitamin D levels 
+
+* could significantly reduce the incidence and mortality rates for 8 of the 10 leading causes of death in the U.S.
+
+* as well as improve various health outcomes.
+
+---
+
+##### 50,000 IU once a week (7,000 IU average daily) prevents/treats 61 health problems
+
+ADHD,  Anxiety,  Asthma,  Autism,  Back Pain,  BPH (prostate),  Cancer - Breast,  Cancer - Colon,  Cancer - Prostate,  Cardiovascular,  Chronic Obstructive Pulmonary Disease,  Cognitive Decline,  Colds,  COVID,  Depression,  Diabetes,  Endometriosis,  Falls,  Fibromyalgia,  Hashimoto&#39;s Thyroiditis,  Hay Fever,  Heart Failure,  Hives,  Hypertension – Pulmonary,  Immune System,  Infant,  Inflammatory Bowel Syndrome,  Influenza,  Kidney Disease,  Knee-Pain,  Lupus,  Migraine,  Multiple Sclerosis,  Muscles - women, Obesity,  Pain - Chronic,  Pain - Growing,  PMS,  Preeclampsia,  Premature Birth,  Respiratory Tract Infection,  Schizophrenia,  Sleep-Poor,  Sleep Apnea,  Smoking,  Sports Performance,  Stroke,  Surgery,  Tonsilitis,  Tuberculosis,  Ulcerative Colitis,  Ulcers – Venous,  Urinary Tract Infection 
+
+ **&lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;Click here for details&lt;/a&gt;** 
+
+---
+
+#### &lt;a href=&quot;/posts/health-problems-and-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Health Problems and D&quot;&gt;300+ Health problems associated with low vitamin D&lt;/a&gt;
+
+ **This list is in the left-hand column of 15,000+ VitaminDWiki pages**  
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D: Evidence-Based Health Benefits and Recommendations for Population Guidelines`
+│   inner_content: `Vitamin D: Evidence-Based Health Benefits and Recommendations for Population Guidelines`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D: Evidence-Based Health Benefits and Recommendations for Population Guidelines`
+│   │   inner_content: `Vitamin D: Evidence-Based Health Benefits and Recommendations for Population Guidelines`├── TextNode
+│   full_match: `\nNutrients 2025, 17(2), 277; https://doi.org/10.3390/nu17020277\nWilliam B. Grant 1,*ORCID,Sunil J. Wimalawansa 2ORCID,Pawel Pludowski 3ORCID andRichard Z. Cheng 4,5,*ORCID\n\nVitamin D offers numerous under-recognized health benefits beyond its well-known role in musculoskeletal health. It is vital for extra-renal tissues, prenatal health, brain function, immunity, pregnancy, cancer prevention, and cardiovascular health. Existing guidelines issued by governmental and health organizations are bone-centric and largely overlook the abovementioned extra-skeletal benefits and optimal thresholds for vitamin D. In addition, they rely on randomized controlled trials (RCTs), which seldom show benefits due to high baseline 25-hydroxyvitamin D `
+│   inner_content: `\nNutrients 2025, 17(2), 277; https://doi.org/10.3390/nu17020277\nWilliam B. Grant 1,*ORCID,Sunil J. Wimalawansa 2ORCID,Pawel Pludowski 3ORCID andRichard Z. Cheng 4,5,*ORCID\n\nVitamin D offers numerous under-recognized health benefits beyond its well-known role in musculoskeletal health. It is vital for extra-renal tissues, prenatal health, brain function, immunity, pregnancy, cancer prevention, and cardiovascular health. Existing guidelines issued by governmental and health organizations are bone-centric and largely overlook the abovementioned extra-skeletal benefits and optimal thresholds for vitamin D. In addition, they rely on randomized controlled trials (RCTs), which seldom show benefits due to high baseline 25-hydroxyvitamin D `├── LinkNode
+│   full_match: `[25(OH)D]`
+│   inner_content: `25(OH)D`
+│   url: `25(OH)D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `25(OH)D`
+│   │   inner_content: `25(OH)D`├── TextNode
+│   full_match: ` concentrations, moderate supplementation doses, and flawed study designs. This review emphasizes the findings from prospective cohort studies showing that higher 25(OH)D concentrations reduce the risks of major diseases and mortality, including pregnancy and birth outcomes. \n\nSerum concentrations &gt; 30 ng/mL (75 nmol/L) significantly lower disease and mortality risks compared to &lt;20 ng/mL. With 25% of the U.S. population and 60% of Central Europeans having levels &lt;20 ng/mL, concentrations should be raised above 30 ng/mL. \n\nThis is achievable through daily supplementation with 2000 IU/day (50 mcg/day) of vitamin D3, which prevent diseases and deaths. \nFurthermore, a daily dose between 4000 and 6000 IU of vitamin D3 to achieve serum 25(OH)D levels between 40 and 70 ng/mL would provide greater protection against many adverse health outcomes. Future guidelines and recommendations should integrate the findings from observational prospective cohort studies and well-designed RCTs to improve public health and personalized care.\n`
+│   inner_content: ` concentrations, moderate supplementation doses, and flawed study designs. This review emphasizes the findings from prospective cohort studies showing that higher 25(OH)D concentrations reduce the risks of major diseases and mortality, including pregnancy and birth outcomes. \n\nSerum concentrations &gt; 30 ng/mL (75 nmol/L) significantly lower disease and mortality risks compared to &lt;20 ng/mL. With 25% of the U.S. population and 60% of Central Europeans having levels &lt;20 ng/mL, concentrations should be raised above 30 ng/mL. \n\nThis is achievable through daily supplementation with 2000 IU/day (50 mcg/day) of vitamin D3, which prevent diseases and deaths. \nFurthermore, a daily dose between 4000 and 6000 IU of vitamin D3 to achieve serum 25(OH)D levels between 40 and 70 ng/mL would provide greater protection against many adverse health outcomes. Future guidelines and recommendations should integrate the findings from observational prospective cohort studies and well-designed RCTs to improve public health and personalized care.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22177&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22177&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22177&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22177&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22177&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22177&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22177
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Summary of study by [https://www.perplexity.ai/search/please-summarize-the-attached-N_VhWAstThms57mfNzk5Og|Perplexity AI] `
+│   inner_content: `Summary of study by [https://www.perplexity.ai/search/please-summarize-the-attached-N_VhWAstThms57mfNzk5Og|Perplexity AI]`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Summary of study by `
+│   │   inner_content: `Summary of study by `
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/please-summarize-the-attached-N_VhWAstThms57mfNzk5Og|Perplexity AI]`
+│   │   inner_content: `Perplexity AI`
+│   │   url: `https://www.perplexity.ai/search/please-summarize-the-attached-N_VhWAstThms57mfNzk5Og`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity AI`
+│   │   │   inner_content: `Perplexity AI`├── TextNode
+│   full_match: `\nThis comprehensive review examines the evidence-based health benefits of vitamin D \n`
+│   inner_content: `\nThis comprehensive review examines the evidence-based health benefits of vitamin D \n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `and recommendations for population guidelines. \nHere are the key findings:\n`
+│   inner_content: `and recommendations for population guidelines. \nHere are the key findings:\n`├── BoldNode
+│   full_match: `__~~#00F:Health Benefits~~__`
+│   inner_content: `~~#00F:Health Benefits~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:Health Benefits~~`
+│   │   inner_content: `Health Benefits`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Health Benefits`
+│   │   │   inner_content: `Health Benefits`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Cardiovascular Disease__`
+│   inner_content: `Cardiovascular Disease`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cardiovascular Disease`
+│   │   inner_content: `Cardiovascular Disease`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Higher vitamin D levels significantly reduce cardiovascular disease risk and mortality`
+│   inner_content: `Higher vitamin D levels significantly reduce cardiovascular disease risk and mortality`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Higher vitamin D levels significantly reduce cardiovascular disease risk and mortality`
+│   │   inner_content: `Higher vitamin D levels significantly reduce cardiovascular disease risk and mortality`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Raising serum vitamin D above 40 ng/mL can lower blood pressure in hypertensive patients`
+│   inner_content: `Raising serum vitamin D above 40 ng/mL can lower blood pressure in hypertensive patients`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Raising serum vitamin D above 40 ng/mL can lower blood pressure in hypertensive patients`
+│   │   inner_content: `Raising serum vitamin D above 40 ng/mL can lower blood pressure in hypertensive patients`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Cancer Prevention__`
+│   inner_content: `Cancer Prevention`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cancer Prevention`
+│   │   inner_content: `Cancer Prevention`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Vitamin D reduces cancer incidence and mortality through multiple mechanisms`
+│   inner_content: `Vitamin D reduces cancer incidence and mortality through multiple mechanisms`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D reduces cancer incidence and mortality through multiple mechanisms`
+│   │   inner_content: `Vitamin D reduces cancer incidence and mortality through multiple mechanisms`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Higher vitamin D levels (&gt;60 ng/mL) associated with 80% lower breast cancer risk`
+│   inner_content: `Higher vitamin D levels (&gt;60 ng/mL) associated with 80% lower breast cancer risk`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Higher vitamin D levels (&gt;60 ng/mL) associated with 80% lower breast cancer risk`
+│   │   inner_content: `Higher vitamin D levels (&gt;60 ng/mL) associated with 80% lower breast cancer risk`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Benefits seen for colorectal, prostate, lung and other cancers`
+│   inner_content: `Benefits seen for colorectal, prostate, lung and other cancers`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Benefits seen for colorectal, prostate, lung and other cancers`
+│   │   inner_content: `Benefits seen for colorectal, prostate, lung and other cancers`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Immune Function__`
+│   inner_content: `Immune Function`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Immune Function`
+│   │   inner_content: `Immune Function`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Enhances innate and adaptive immunity`
+│   inner_content: `Enhances innate and adaptive immunity`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Enhances innate and adaptive immunity`
+│   │   inner_content: `Enhances innate and adaptive immunity`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Reduces risk of respiratory infections including COVID-19`
+│   inner_content: `Reduces risk of respiratory infections including COVID-19`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Reduces risk of respiratory infections including COVID-19`
+│   │   inner_content: `Reduces risk of respiratory infections including COVID-19`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Helps prevent autoimmune conditions`
+│   inner_content: `Helps prevent autoimmune conditions`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Helps prevent autoimmune conditions`
+│   │   inner_content: `Helps prevent autoimmune conditions`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Other Key Benefits__`
+│   inner_content: `Other Key Benefits`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Other Key Benefits`
+│   │   inner_content: `Other Key Benefits`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Reduces risk of diabetes and improves glycemic control`
+│   inner_content: `Reduces risk of diabetes and improves glycemic control`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Reduces risk of diabetes and improves glycemic control`
+│   │   inner_content: `Reduces risk of diabetes and improves glycemic control`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Supports brain health and reduces dementia risk`
+│   inner_content: `Supports brain health and reduces dementia risk`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Supports brain health and reduces dementia risk`
+│   │   inner_content: `Supports brain health and reduces dementia risk`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Improves pregnancy outcomes and reduces complications`
+│   inner_content: `Improves pregnancy outcomes and reduces complications`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Improves pregnancy outcomes and reduces complications`
+│   │   inner_content: `Improves pregnancy outcomes and reduces complications`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Essential for bone health and dental health`
+│   inner_content: `Essential for bone health and dental health`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Essential for bone health and dental health`
+│   │   inner_content: `Essential for bone health and dental health`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__~~#00F:Recommendations~~__`
+│   inner_content: `~~#00F:Recommendations~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:Recommendations~~`
+│   │   inner_content: `Recommendations`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Recommendations`
+│   │   │   inner_content: `Recommendations`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Optimal Blood Levels__`
+│   inner_content: `Optimal Blood Levels`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Optimal Blood Levels`
+│   │   inner_content: `Optimal Blood Levels`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Minimum recommended level: 30 ng/mL`
+│   inner_content: `Minimum recommended level: 30 ng/mL`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Minimum recommended level: 30 ng/mL`
+│   │   inner_content: `Minimum recommended level: 30 ng/mL`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Optimal range: 40-70 ng/mL for most health benefits`
+│   inner_content: `Optimal range: 40-70 ng/mL for most health benefits`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Optimal range: 40-70 ng/mL for most health benefits`
+│   │   inner_content: `Optimal range: 40-70 ng/mL for most health benefits`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Higher levels (80-150 ng/mL) may benefit certain conditions under medical supervision`
+│   inner_content: `Higher levels (80-150 ng/mL) may benefit certain conditions under medical supervision`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Higher levels (80-150 ng/mL) may benefit certain conditions under medical supervision`
+│   │   inner_content: `Higher levels (80-150 ng/mL) may benefit certain conditions under medical supervision`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Supplementation__`
+│   inner_content: `Supplementation`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Supplementation`
+│   │   inner_content: `Supplementation`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Minimum recommendation: 2,000 IU/day for most adults`
+│   inner_content: `Minimum recommendation: 2,000 IU/day for most adults`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Minimum recommendation: 2,000 IU/day for most adults`
+│   │   inner_content: `Minimum recommendation: 2,000 IU/day for most adults`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*4,000-6,000 IU/day needed to achieve optimal blood levels`
+│   inner_content: `4,000-6,000 IU/day needed to achieve optimal blood levels`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4,000-6,000 IU/day needed to achieve optimal blood levels`
+│   │   inner_content: `4,000-6,000 IU/day needed to achieve optimal blood levels`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Higher doses may be required for obesity, certain health conditions`
+│   inner_content: `Higher doses may be required for obesity, certain health conditions`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Higher doses may be required for obesity, certain health conditions`
+│   │   inner_content: `Higher doses may be required for obesity, certain health conditions`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__~~#00F:Limitations of Current Guidelines~~__`
+│   inner_content: `~~#00F:Limitations of Current Guidelines~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:Limitations of Current Guidelines~~`
+│   │   inner_content: `Limitations of Current Guidelines`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Limitations of Current Guidelines`
+│   │   │   inner_content: `Limitations of Current Guidelines`├── TextNode
+│   full_match: `\nThe review critiques the 2024 Endocrine Society guidelines for:\n`
+│   inner_content: `\nThe review critiques the 2024 Endocrine Society guidelines for:\n`├── ListItemNode
+│   full_match: `*Being too conservative in dosing recommendations`
+│   inner_content: `Being too conservative in dosing recommendations`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Being too conservative in dosing recommendations`
+│   │   inner_content: `Being too conservative in dosing recommendations`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Overlooking extensive evidence from observational studies`
+│   inner_content: `Overlooking extensive evidence from observational studies`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Overlooking extensive evidence from observational studies`
+│   │   inner_content: `Overlooking extensive evidence from observational studies`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Focusing primarily on bone health while ignoring broader benefits`
+│   inner_content: `Focusing primarily on bone health while ignoring broader benefits`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Focusing primarily on bone health while ignoring broader benefits`
+│   │   inner_content: `Focusing primarily on bone health while ignoring broader benefits`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Not accounting for individual variations in vitamin D metabolism`
+│   inner_content: `Not accounting for individual variations in vitamin D metabolism`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Not accounting for individual variations in vitamin D metabolism`
+│   │   inner_content: `Not accounting for individual variations in vitamin D metabolism`├── TextNode
+│   full_match: `\nThe authors conclude that raising population vitamin D levels \n`
+│   inner_content: `\nThe authors conclude that raising population vitamin D levels \n`├── ListItemNode
+│   full_match: `*could significantly reduce the incidence and mortality rates for 8 of the 10 leading causes of death in the U.S.`
+│   inner_content: `could significantly reduce the incidence and mortality rates for 8 of the 10 leading causes of death in the U.S.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `could significantly reduce the incidence and mortality rates for 8 of the 10 leading causes of death in the U.S.`
+│   │   inner_content: `could significantly reduce the incidence and mortality rates for 8 of the 10 leading causes of death in the U.S.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `* as well as improve various health outcomes.`
+│   inner_content: ` as well as improve various health outcomes.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `as well as improve various health outcomes.`
+│   │   inner_content: `as well as improve various health outcomes.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!((50,000 IU of Vitamin D - many studies)) 184+`
+│   inner_content: `((50,000 IU of Vitamin D - many studies)) 184+`
+│   level: `4`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((50,000 IU of Vitamin D - many studies))`
+│   │   inner_content: `50,000 IU of Vitamin D - many studies`
+│   │   page: `50,000 IU of Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `50,000 IU of Vitamin D - many studies`
+│   │   │   inner_content: `50,000 IU of Vitamin D - many studies`
+│   ├── TextNode
+│   │   full_match: ` 184+`
+│   │   inner_content: ` 184+`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!! 50,000 IU twice a month (3,500 IU average daily) ((One pill every two weeks gives you all the vitamin D most adults need|Prevents/Treats)) 27 health problems`
+│   inner_content: `50,000 IU twice a month (3,500 IU average daily) ((One pill every two weeks gives you all the vitamin D most adults need|Prevents/Treats)) 27 health problems`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `50,000 IU twice a month (3,500 IU average daily) `
+│   │   inner_content: `50,000 IU twice a month (3,500 IU average daily) `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need|Prevents/Treats))`
+│   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|Prevents/Treats`
+│   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|Prevents/Treats`
+│   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|Prevents/Treats`
+│   ├── TextNode
+│   │   full_match: ` 27 health problems`
+│   │   inner_content: ` 27 health problems`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;One pill every two weeks gives you all the vitamin D most adults need&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;One pill every two weeks gives you all the vitamin D most adults need&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;
+│   │   page: One pill every two weeks gives you all the vitamin D most adults need
+│   │   start: ~tc~ start2 ~/tc~
+│   │   stop: ~tc~ end2 ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!! 50,000 IU once a week (7,000 IU average daily) prevents/treats 61 health problems`
+│   inner_content: `50,000 IU once a week (7,000 IU average daily) prevents/treats 61 health problems`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `50,000 IU once a week (7,000 IU average daily) prevents/treats 61 health problems`
+│   │   inner_content: `50,000 IU once a week (7,000 IU average daily) prevents/treats 61 health problems`├── TextNode
+│   full_match: `\nADHD,  Anxiety,  Asthma,  Autism,  Back Pain,  BPH (prostate),  Cancer - Breast,  Cancer - Colon,  Cancer - Prostate,  Cardiovascular,  Chronic Obstructive Pulmonary Disease,  Cognitive Decline,  Colds,  COVID,  Depression,  Diabetes,  Endometriosis,  Falls,  Fibromyalgia,  Hashimoto&#39;s Thyroiditis,  Hay Fever,  Heart Failure,  Hives,  Hypertension – Pulmonary,  Immune System,  Infant,  Inflammatory Bowel Syndrome,  Influenza,  Kidney Disease,  Knee-Pain,  Lupus,  Migraine,  Multiple Sclerosis,  Muscles - women, Obesity,  Pain - Chronic,  Pain - Growing,  PMS,  Preeclampsia,  Premature Birth,  Respiratory Tract Infection,  Schizophrenia,  Sleep-Poor,  Sleep Apnea,  Smoking,  Sports Performance,  Stroke,  Surgery,  Tonsilitis,  Tuberculosis,  Ulcerative Colitis,  Ulcers – Venous,  Urinary Tract Infection \n`
+│   inner_content: `\nADHD,  Anxiety,  Asthma,  Autism,  Back Pain,  BPH (prostate),  Cancer - Breast,  Cancer - Colon,  Cancer - Prostate,  Cardiovascular,  Chronic Obstructive Pulmonary Disease,  Cognitive Decline,  Colds,  COVID,  Depression,  Diabetes,  Endometriosis,  Falls,  Fibromyalgia,  Hashimoto&#39;s Thyroiditis,  Hay Fever,  Heart Failure,  Hives,  Hypertension – Pulmonary,  Immune System,  Infant,  Inflammatory Bowel Syndrome,  Influenza,  Kidney Disease,  Knee-Pain,  Lupus,  Migraine,  Multiple Sclerosis,  Muscles - women, Obesity,  Pain - Chronic,  Pain - Growing,  PMS,  Preeclampsia,  Premature Birth,  Respiratory Tract Infection,  Schizophrenia,  Sleep-Poor,  Sleep Apnea,  Smoking,  Sports Performance,  Stroke,  Surgery,  Tonsilitis,  Tuberculosis,  Ulcerative Colitis,  Ulcers – Venous,  Urinary Tract Infection \n`├── BoldNode
+│   full_match: `__((One pill every two weeks gives you all the vitamin D most adults need|Click here for details))__`
+│   inner_content: `((One pill every two weeks gives you all the vitamin D most adults need|Click here for details))`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need|Click here for details))`
+│   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|Click here for details`
+│   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|Click here for details`
+│   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|Click here for details`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Proof that Vitamin D Works)) for 98+ health problems`
+│   inner_content: `VitaminDWiki - ((Proof that Vitamin D Works)) for 98+ health problems`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Proof that Vitamin D Works))`
+│   │   inner_content: `Proof that Vitamin D Works`
+│   │   page: `Proof that Vitamin D Works`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Proof that Vitamin D Works`
+│   │   │   inner_content: `Proof that Vitamin D Works`
+│   ├── TextNode
+│   │   full_match: ` for 98+ health problems`
+│   │   inner_content: ` for 98+ health problems`├── TextNode
+│   full_match: `\nDepression, `
+│   inner_content: `\nDepression, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Pneumonia (Ventilator-associated), `
+│   inner_content: `Pneumonia (Ventilator-associated), `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Poor Sleep, `
+│   inner_content: `Poor Sleep, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `PreDiabetes, `
+│   inner_content: `PreDiabetes, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Preeclampsia, `
+│   inner_content: `Preeclampsia, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Pre-term Birth, `
+│   inner_content: `Pre-term Birth, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Prostate Cancer, Psoriasis, `
+│   inner_content: `Prostate Cancer, Psoriasis, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Quality of Life, `
+│   inner_content: `Quality of Life, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` Raynaud&#39;s Pain, `
+│   inner_content: ` Raynaud&#39;s Pain, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` Respiratory Tract Infection, `
+│   inner_content: ` Respiratory Tract Infection, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Restless Leg Syndrome, `
+│   inner_content: `Restless Leg Syndrome, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` Rheumatoid Arthritis, `
+│   inner_content: ` Rheumatoid Arthritis, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` Rickets, `
+│   inner_content: ` Rickets, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Sarcopenia, `
+│   inner_content: `Sarcopenia, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Sepsis, `
+│   inner_content: `Sepsis, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Short Neonates, `
+│   inner_content: `Short Neonates, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Sickle Cell, `
+│   inner_content: `Sickle Cell, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Stronger Senior Muscles, `
+│   inner_content: `Stronger Senior Muscles, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Survive ICU, `
+│   inner_content: `Survive ICU, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `TB, `
+│   inner_content: `TB, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Tonsillitis, `
+│   inner_content: `Tonsillitis, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Trauma Death, `
+│   inner_content: `Trauma Death, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Traumatic Brain Injury, `
+│   inner_content: `Traumatic Brain Injury, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Tuberculosis, `
+│   inner_content: `Tuberculosis, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Ulcerative Colitis, `
+│   inner_content: `Ulcerative Colitis, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Urinary Tract Infection, `
+│   inner_content: `Urinary Tract Infection, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Vaginosis, `
+│   inner_content: `Vaginosis, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Vertigo, `
+│   inner_content: `Vertigo, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Warts, `
+│   inner_content: `Warts, `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: `Weight Loss`
+│   inner_content: `Weight Loss`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!! Introduction to ((Is 50 ng of vitamin D too high, just right, or not enough)) `
+│   inner_content: `Introduction to ((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Introduction to `
+│   │   inner_content: `Introduction to `
+│   ├── LocalLinkNode
+│   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ overstart ~/tc~&quot; stop=&quot;~tc~ overend ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ overstart ~/tc~&quot; stop=&quot;~tc~ overend ~/tc~&quot;
+│   │   page: Is 50 ng of vitamin D too high, just right, or not enough
+│   │   start: ~tc~ overstart ~/tc~
+│   │   stop: ~tc~ overend ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!40-150 ng of Vitamin D needed to ((Is 50 ng of vitamin D too high, just right, or not enough|treat some health problems))`
+│   inner_content: `40-150 ng of Vitamin D needed to ((Is 50 ng of vitamin D too high, just right, or not enough|treat some health problems))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `40-150 ng of Vitamin D needed to `
+│   │   inner_content: `40-150 ng of Vitamin D needed to `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough|treat some health problems))`
+│   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|treat some health problems`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough|treat some health problems`
+│   │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|treat some health problems`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Is 50 ng of vitamin D too high, just right, or not enough
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Some categories of people are at ((High Risk)) of vitamin D deficiency`
+│   inner_content: `Some categories of people are at ((High Risk)) of vitamin D deficiency`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Some categories of people are at `
+│   │   inner_content: `Some categories of people are at `
+│   ├── LocalLinkNode
+│   │   full_match: `((High Risk))`
+│   │   inner_content: `High Risk`
+│   │   page: `High Risk`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `High Risk`
+│   │   │   inner_content: `High Risk`
+│   ├── TextNode
+│   │   full_match: ` of vitamin D deficiency`
+│   │   inner_content: ` of vitamin D deficiency`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;High Risk&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;High Risk&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: High Risk
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!((Health Problems and D|300+ Health problems associated with low vitamin D))`
+│   inner_content: `((Health Problems and D|300+ Health problems associated with low vitamin D))`
+│   level: `4`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Health Problems and D|300+ Health problems associated with low vitamin D))`
+│   │   inner_content: `Health Problems and D|300+ Health problems associated with low vitamin D`
+│   │   page: `Health Problems and D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Health Problems and D|300+ Health problems associated with low vitamin D`
+│   │   │   inner_content: `Health Problems and D|300+ Health problems associated with low vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__This list is in the left-hand column of 15,000+ VitaminDWiki pages__`
+│   inner_content: `This list is in the left-hand column of 15,000+ VitaminDWiki pages`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is in the left-hand column of 15,000+ VitaminDWiki pages`
+│   │   inner_content: `This list is in the left-hand column of 15,000+ VitaminDWiki pages`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((How Much Vitamin D)) contains`
+│   inner_content: `VitaminDWiki – ((How Much Vitamin D)) contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((How Much Vitamin D))`
+│   │   inner_content: `How Much Vitamin D`
+│   │   page: `How Much Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `How Much Vitamin D`
+│   │   │   inner_content: `How Much Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains`
+│   │   inner_content: ` contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;How Much Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;How Much Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: How Much Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Water-dispersible forms of vitamins A, D, E and K are better))`
+│   inner_content: `VitaminDWiki – ((Water-dispersible forms of vitamins A, D, E and K are better))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Water-dispersible forms of vitamins A, D, E and K are better))`
+│   │   inner_content: `Water-dispersible forms of vitamins A, D, E and K are better`
+│   │   page: `Water-dispersible forms of vitamins A, D, E and K are better`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Water-dispersible forms of vitamins A, D, E and K are better`
+│   │   │   inner_content: `Water-dispersible forms of vitamins A, D, E and K are better`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Water-dispersible forms of vitamins A, D, E and K are better&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Water-dispersible forms of vitamins A, D, E and K are better&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Water-dispersible forms of vitamins A, D, E and K are better
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Vitamin D evidence: many adults need at least 2,000 IU, 4,000 and 6,000 is much better - Jan 2025)) ~/tc~`
+│   inner_content: ` (alias(Vitamin D evidence: many adults need at least 2,000 IU, 4,000 and 6,000 is much better - Jan 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Vitamin D evidence: many adults need at least 2,000 IU, 4,000 and 6,000 is much better - Jan 2025)) `
+│   │   inner_content: `(alias(Vitamin D evidence: many adults need at least 2,000 IU, 4,000 and 6,000 is much better - Jan 2025)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Vitamin D: Evidence-Based Health Benefits and Recommendations for Population Guidelines
+Nutrients 2025, 17(2), 277; https://doi.org/10.3390/nu17020277
+William B. Grant 1,*ORCID,Sunil J. Wimalawansa 2ORCID,Pawel Pludowski 3ORCID andRichard Z. Cheng 4,5,*ORCID
+
+Vitamin D offers numerous under-recognized health benefits beyond its well-known role in musculoskeletal health. It is vital for extra-renal tissues, prenatal health, brain function, immunity, pregnancy, cancer prevention, and cardiovascular health. Existing guidelines issued by governmental and health organizations are bone-centric and largely overlook the abovementioned extra-skeletal benefits and optimal thresholds for vitamin D. In addition, they rely on randomized controlled trials (RCTs), which seldom show benefits due to high baseline 25-hydroxyvitamin D [25(OH)D] concentrations, moderate supplementation doses, and flawed study designs. This review emphasizes the findings from prospective cohort studies showing that higher 25(OH)D concentrations reduce the risks of major diseases and mortality, including pregnancy and birth outcomes. 
+
+Serum concentrations &gt; 30 ng/mL (75 nmol/L) significantly lower disease and mortality risks compared to &lt;20 ng/mL. With 25% of the U.S. population and 60% of Central Europeans having levels &lt;20 ng/mL, concentrations should be raised above 30 ng/mL. 
+
+This is achievable through daily supplementation with 2000 IU/day (50 mcg/day) of vitamin D3, which prevent diseases and deaths. 
+Furthermore, a daily dose between 4000 and 6000 IU of vitamin D3 to achieve serum 25(OH)D levels between 40 and 70 ng/mL would provide greater protection against many adverse health outcomes. Future guidelines and recommendations should integrate the findings from observational prospective cohort studies and well-designed RCTs to improve public health and personalized care.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22177&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Summary of study by [https://www.perplexity.ai/search/please-summarize-the-attached-N_VhWAstThms57mfNzk5Og|Perplexity AI] 
+This comprehensive review examines the evidence-based health benefits of vitamin D 
+ ~hs~ ~hs~and recommendations for population guidelines. 
+Here are the key findings:
+__~~#00F:Health Benefits~~__
+__Cardiovascular Disease__
+*Higher vitamin D levels significantly reduce cardiovascular disease risk and mortality
+*Raising serum vitamin D above 40 ng/mL can lower blood pressure in hypertensive patients
+__Cancer Prevention__
+*Vitamin D reduces cancer incidence and mortality through multiple mechanisms
+*Higher vitamin D levels (&gt;60 ng/mL) associated with 80% lower breast cancer risk
+*Benefits seen for colorectal, prostate, lung and other cancers
+__Immune Function__
+*Enhances innate and adaptive immunity
+*Reduces risk of respiratory infections including COVID-19
+*Helps prevent autoimmune conditions
+__Other Key Benefits__
+*Reduces risk of diabetes and improves glycemic control
+*Supports brain health and reduces dementia risk
+*Improves pregnancy outcomes and reduces complications
+*Essential for bone health and dental health
+__~~#00F:Recommendations~~__
+__Optimal Blood Levels__
+*Minimum recommended level: 30 ng/mL
+*Optimal range: 40-70 ng/mL for most health benefits
+*Higher levels (80-150 ng/mL) may benefit certain conditions under medical supervision
+__Supplementation__
+*Minimum recommendation: 2,000 IU/day for most adults
+*4,000-6,000 IU/day needed to achieve optimal blood levels
+*Higher doses may be required for obesity, certain health conditions
+__~~#00F:Limitations of Current Guidelines~~__
+The review critiques the 2024 Endocrine Society guidelines for:
+*Being too conservative in dosing recommendations
+*Overlooking extensive evidence from observational studies
+*Focusing primarily on bone health while ignoring broader benefits
+*Not accounting for individual variations in vitamin D metabolism
+The authors conclude that raising population vitamin D levels 
+*could significantly reduce the incidence and mortality rates for 8 of the 10 leading causes of death in the U.S.
+* as well as improve various health outcomes.
+---
+!!!!((50,000 IU of Vitamin D - many studies)) 184+
+!!!!! 50,000 IU twice a month (3,500 IU average daily) ((One pill every two weeks gives you all the vitamin D most adults need|Prevents/Treats)) 27 health problems
+{include page=&quot;One pill every two weeks gives you all the vitamin D most adults need&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}
+---
+!!!!! 50,000 IU once a week (7,000 IU average daily) prevents/treats 61 health problems
+ADHD,  Anxiety,  Asthma,  Autism,  Back Pain,  BPH (prostate),  Cancer - Breast,  Cancer - Colon,  Cancer - Prostate,  Cardiovascular,  Chronic Obstructive Pulmonary Disease,  Cognitive Decline,  Colds,  COVID,  Depression,  Diabetes,  Endometriosis,  Falls,  Fibromyalgia,  Hashimoto&#39;s Thyroiditis,  Hay Fever,  Heart Failure,  Hives,  Hypertension – Pulmonary,  Immune System,  Infant,  Inflammatory Bowel Syndrome,  Influenza,  Kidney Disease,  Knee-Pain,  Lupus,  Migraine,  Multiple Sclerosis,  Muscles - women, Obesity,  Pain - Chronic,  Pain - Growing,  PMS,  Preeclampsia,  Premature Birth,  Respiratory Tract Infection,  Schizophrenia,  Sleep-Poor,  Sleep Apnea,  Smoking,  Sports Performance,  Stroke,  Surgery,  Tonsilitis,  Tuberculosis,  Ulcerative Colitis,  Ulcers – Venous,  Urinary Tract Infection 
+__((One pill every two weeks gives you all the vitamin D most adults need|Click here for details))__
+---
+!!!!VitaminDWiki - ((Proof that Vitamin D Works)) for 98+ health problems
+Depression, ~hs~Pneumonia (Ventilator-associated), ~hs~Poor Sleep, ~hs~PreDiabetes, ~hs~Preeclampsia, ~hs~Pre-term Birth, ~hs~Prostate Cancer, Psoriasis, ~hs~Quality of Life, ~hs~ Raynaud&#39;s Pain, ~hs~ Respiratory Tract Infection, ~hs~Restless Leg Syndrome, ~hs~ Rheumatoid Arthritis, ~hs~ Rickets, ~hs~Sarcopenia, ~hs~Sepsis, ~hs~Short Neonates, ~hs~Sickle Cell, ~hs~Stronger Senior Muscles, ~hs~Survive ICU, ~hs~TB, ~hs~Tonsillitis, ~hs~Trauma Death, ~hs~Traumatic Brain Injury, ~hs~Tuberculosis, ~hs~Ulcerative Colitis, ~hs~Urinary Tract Infection, ~hs~Vaginosis, ~hs~Vertigo, ~hs~Warts, ~hs~Weight Loss
+---
+!!!! Introduction to ((Is 50 ng of vitamin D too high, just right, or not enough)) 
+{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ overstart ~/tc~&quot; stop=&quot;~tc~ overend ~/tc~&quot;}
+---
+!!!!40-150 ng of Vitamin D needed to ((Is 50 ng of vitamin D too high, just right, or not enough|treat some health problems))
+{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!Some categories of people are at ((High Risk)) of vitamin D deficiency
+{include page=&quot;High Risk&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!((Health Problems and D|300+ Health problems associated with low vitamin D))
+__This list is in the left-hand column of 15,000+ VitaminDWiki pages__ 
+---
+!!!!VitaminDWiki – ((How Much Vitamin D)) contains
+{include page=&quot;How Much Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Water-dispersible forms of vitamins A, D, E and K are better))
+{include page=&quot;Water-dispersible forms of vitamins A, D, E and K are better&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+~tc~ (alias(Vitamin D evidence: many adults need at least 2,000 IU, 4,000 and 6,000 is much better - Jan 2025)) ~/tc~
+</code>
+</pre>

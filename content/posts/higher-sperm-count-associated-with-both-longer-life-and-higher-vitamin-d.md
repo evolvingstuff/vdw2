@@ -1,0 +1,382 @@
+---
+title: "Higher sperm count associated with both longer life and higher Vitamin D"
+slug: "higher-sperm-count-associated-with-both-longer-life-and-higher-vitamin-d"
+aliases:
+  - "/Higher+sperm+count+associated+with+both+longer+life+and+higher+Vitamin+D+–+March+2025"
+  - "/15876"
+tiki_page_id: 15876
+date: 2025-03-05
+---
+
+
+{{< toc >}}
+
+---
+
+#### Men with sperm count greater than 80 million lived 2 years longer - March 2025
+
+ **Semen quality and lifespan: a study of 78 284 men followed for up to 50 years** 
+
+Human Reproduction, deaf023, https://doi.org/10.1093/humrep/deaf023
+
+L Priskorn, R Lindahl-Jacobsen, T K Jensen, S A Holmboe, L S Hansen, M Kriegbaum, B S Lind, V Siersma, C L Andersen, N Jørgensen
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/sperm-more-than-80-million.webp" alt="image" width="300">
+
+STUDY QUESTION
+
+Is semen quality associated with the lifespan of men?
+
+SUMMARY ANSWER
+
+Men with a total motile sperm count of >120 million could expect to live 2.7 years longer than men with total motile sperm count of >0–5 million.
+
+WHAT IS KNOWN ALREADY
+
+Male infertility and semen quality have been suggested to be markers of morbidity and thus mortality, but the role of underlying disease present at time of semen quality evaluation has not been thoroughly assessed. The aim of this study was to determine the association between semen quality and mortality, and to assess the impact of the health of the man prior to semen quality assessment.
+
+STUDY DESIGN, SIZE, DURATION
+
+The study was based on 78 284 men who had their semen quality assessed between 1965 and 2015 at the public semen analysis laboratory in the Copenhagen area, Denmark, due to reported couple infertility. Thus, the included men covered a wide range of semen quality. Semen quality assessment included semen volume, sperm concentration, and the proportion of motile and morphologically normal sperm, from which the total sperm count and the total motile sperm count were calculated. Utilizing the unique Danish national registers, follow-up of the men regarding all-cause mortality was performed with a median follow-up of 23 years (5–95th percentile: 8–45 years) during which 8600 deaths occurred, accounting for 11.0% of the total population.
+
+PARTICIPANTS/MATERIALS, SETTING, METHODS
+
+Life expectancy was calculated according to semen quality. Furthermore, the relative differences in mortality were estimated using Cox regression analyses and presented as hazard ratios (HRs) with 95% CIs. A more recent subpopulation of 59 657 men delivered semen samples between 1987 and 2015, a period in which information on educational level and diseases prior to semen sampling was available and adjusted for in Cox regression analyses.
+
+MAIN RESULTS AND THE ROLE OF CHANCE
+
+Men with a total motile count of >120 million could expect to live 80.3 years, compared to 77.6 years among men with total motile count of >0–5 million. In Cox regression analyses, all semen parameters were negatively associated with mortality in a dose–response manner both in the total population and the more recent subpopulation (P-trend for all semen parameters <0.001), and adjustment for educational levels and prior diagnoses did not change the estimates in the latter. Looking at total motile sperm count as an example, men with a total motile sperm count >120 million served as the reference, and the adjusted HRs for all-cause mortality in the more recent subpopulation were: azoospermia: 1.39, >0–5 million: 1.61, >5–10 million: 1.38, >10–40 million: 1.27, >40–80 million: 1.16, >80–120 million: 1.19, P-trend < 0.001.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/high-sperm-count-live-longer-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Sperm count of 90 million if high vitamin D (vs only 10 million if low)
+
+ **Association Between Vitamin D, Reproductive Hormones and Sperm Parameters in Infertile Male Subjects** 
+
+Front. Endocrinol. 9:607. [doi: 10.3389/fendo.2018.00607](https://doi.org/10.3389/fendo.2018.00607)
+
+Rehana Rehman1, Salima Lalani1, Mukhtiar Baig2, Iman Nizami3, Zohaib Rana1 and Zohair Jamil Gazzaz4*
+
+1 Department of Biological & Biomedical Sciences, Aga Khan University, Karachi, Pakistan,2 Department of Clinical Biochemistry, Faculty of Medicine, Rabigh, King Abdulaziz University, Jeddah, Saudi Arabia,3 Medical Student, Aga Khan University, Karachi, Pakistan,4 Department of Medicine, Faculty of Medicine, Rabigh, King Abdulaiz University, Jeddah, Saudi Arabia
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/sperm-count.webp" alt="image" width="250">
+
+Background: The prevalence of infertility and vitamin D deficiency is common in Pakistan. Therefore, our study aims were to assess and compare Vitamin D; 25-hydroxyvitamin (25OHD) and reproductive hormone levels in male fertile and infertile subjects with normal and abnormal sperm parameters. Furthermore, the study is aimed to explore the association of 25OHD levels with these sperm parameters in a selected population of Karachi, Pakistan.
+
+Methods: The cross-sectional study was carried out from August 2016 till December 2017,313 study subjects were recruited from an Infertile Clinic from Islamabad, Pakistan, and the general population. First, we took the couples' history of parenting and then carried out a semen analysis and infertile and fertile male subjects were then subgrouped into “normal” and “altered sperm parameter/s.” Forward linear regression was done for selection of 25OHD as a significant predictor of sperm parameters.
+
+Results: The median values of the total count, motility, morphology as well as serum 25OHD were significantly higher in the group with “normal” (186) as compared to subjects (127) in “abnormal sperm parameters” group. The 25OHD levels were significantly high in males with “normal sperm parameters”; 80.90 ± 23.33 nmol/L vs. “altered sperm parameter/s,” 64.68 ± 24.21 nmol/L (mean ± SD) with p < 0.001. Serum testosterone level had a significant positive correlation with 25OHD while LH had a significant negative correlation with 25OHD (p < 0.001), and FSH level had a non-significant negative correlation with 25OHD. Results of regression model showed one unit increase of motility would give 0.15-unit positive significant impact on 25OHD; 20% variation in 25OHD was explained by the total count, motility, and morphology, while the model was adjusted for BMI.
+
+Conclusion: The impact of 25OHD levels on sperm parameters can be emphasized on the basis of detection of its high serum levels in “normal” subjects in both fertile as well as infertile males in comparison to subjects that had altered sperm parameters; total sperm count, motility, and normal morphology. The considerably positive association between 25OHD, testosterone, total count, motility, and morphology further accentuates its impact on normal spermatogenesis and the male reproductive functions required for acquiring fertility
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitdinfertility2018-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Live about 2 years longer if high level of vitamin D
+
+ **[Perplexity AI – Deep Reasoning March 2025](https://www.perplexity.ai/search/how-many-more-years-does-a-per-RUiBpQOtT.Sp2d57DujMzQ)** 
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/live-about-2-years-longer-if-good-level-of-vitamin-d-compresspdf.pdf">Report PDF </a>** 
+
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Men with sperm count greater than 80 million lived 2 years longer - March 2025
+
+ **Semen quality and lifespan: a study of 78 284 men followed for up to 50 years** 
+
+Human Reproduction, deaf023, https://doi.org/10.1093/humrep/deaf023
+
+L Priskorn, R Lindahl-Jacobsen, T K Jensen, S A Holmboe, L S Hansen, M Kriegbaum, B S Lind, V Siersma, C L Andersen, N Jørgensen
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/sperm-more-than-80-million.webp&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
+
+STUDY QUESTION
+
+Is semen quality associated with the lifespan of men?
+
+SUMMARY ANSWER
+
+Men with a total motile sperm count of &gt;120 million could expect to live 2.7 years longer than men with total motile sperm count of &gt;0–5 million.
+
+WHAT IS KNOWN ALREADY
+
+Male infertility and semen quality have been suggested to be markers of morbidity and thus mortality, but the role of underlying disease present at time of semen quality evaluation has not been thoroughly assessed. The aim of this study was to determine the association between semen quality and mortality, and to assess the impact of the health of the man prior to semen quality assessment.
+
+STUDY DESIGN, SIZE, DURATION
+
+The study was based on 78 284 men who had their semen quality assessed between 1965 and 2015 at the public semen analysis laboratory in the Copenhagen area, Denmark, due to reported couple infertility. Thus, the included men covered a wide range of semen quality. Semen quality assessment included semen volume, sperm concentration, and the proportion of motile and morphologically normal sperm, from which the total sperm count and the total motile sperm count were calculated. Utilizing the unique Danish national registers, follow-up of the men regarding all-cause mortality was performed with a median follow-up of 23 years (5–95th percentile: 8–45 years) during which 8600 deaths occurred, accounting for 11.0% of the total population.
+
+PARTICIPANTS/MATERIALS, SETTING, METHODS
+
+Life expectancy was calculated according to semen quality. Furthermore, the relative differences in mortality were estimated using Cox regression analyses and presented as hazard ratios (HRs) with 95% CIs. A more recent subpopulation of 59 657 men delivered semen samples between 1987 and 2015, a period in which information on educational level and diseases prior to semen sampling was available and adjusted for in Cox regression analyses.
+
+MAIN RESULTS AND THE ROLE OF CHANCE
+
+Men with a total motile count of &gt;120 million could expect to live 80.3 years, compared to 77.6 years among men with total motile count of &gt;0–5 million. In Cox regression analyses, all semen parameters were negatively associated with mortality in a dose–response manner both in the total population and the more recent subpopulation (P-trend for all semen parameters &lt;0.001), and adjustment for educational levels and prior diagnoses did not change the estimates in the latter. Looking at total motile sperm count as an example, men with a total motile sperm count &gt;120 million served as the reference, and the adjusted HRs for all-cause mortality in the more recent subpopulation were: azoospermia: 1.39, &gt;0–5 million: 1.61, &gt;5–10 million: 1.38, &gt;10–40 million: 1.27, &gt;40–80 million: 1.16, &gt;80–120 million: 1.19, P-trend &lt; 0.001.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/high-sperm-count-live-longer-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Sperm count of 90 million if high vitamin D (vs only 10 million if low)
+
+ **Association Between Vitamin D, Reproductive Hormones and Sperm Parameters in Infertile Male Subjects** 
+
+Front. Endocrinol. 9:607. [doi: 10.3389/fendo.2018.00607](https://doi.org/10.3389/fendo.2018.00607)
+
+Rehana Rehman1, Salima Lalani1, Mukhtiar Baig2, Iman Nizami3, Zohaib Rana1 and Zohair Jamil Gazzaz4*
+
+1 Department of Biological &amp; Biomedical Sciences, Aga Khan University, Karachi, Pakistan,2 Department of Clinical Biochemistry, Faculty of Medicine, Rabigh, King Abdulaziz University, Jeddah, Saudi Arabia,3 Medical Student, Aga Khan University, Karachi, Pakistan,4 Department of Medicine, Faculty of Medicine, Rabigh, King Abdulaiz University, Jeddah, Saudi Arabia
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/sperm-count.webp&quot; alt=&quot;image&quot; width=&quot;250&quot;&gt;
+
+Background: The prevalence of infertility and vitamin D deficiency is common in Pakistan. Therefore, our study aims were to assess and compare Vitamin D; 25-hydroxyvitamin (25OHD) and reproductive hormone levels in male fertile and infertile subjects with normal and abnormal sperm parameters. Furthermore, the study is aimed to explore the association of 25OHD levels with these sperm parameters in a selected population of Karachi, Pakistan.
+
+Methods: The cross-sectional study was carried out from August 2016 till December 2017,313 study subjects were recruited from an Infertile Clinic from Islamabad, Pakistan, and the general population. First, we took the couples&#39; history of parenting and then carried out a semen analysis and infertile and fertile male subjects were then subgrouped into “normal” and “altered sperm parameter/s.” Forward linear regression was done for selection of 25OHD as a significant predictor of sperm parameters.
+
+Results: The median values of the total count, motility, morphology as well as serum 25OHD were significantly higher in the group with “normal” (186) as compared to subjects (127) in “abnormal sperm parameters” group. The 25OHD levels were significantly high in males with “normal sperm parameters”; 80.90 ± 23.33 nmol/L vs. “altered sperm parameter/s,” 64.68 ± 24.21 nmol/L (mean ± SD) with p &lt; 0.001. Serum testosterone level had a significant positive correlation with 25OHD while LH had a significant negative correlation with 25OHD (p &lt; 0.001), and FSH level had a non-significant negative correlation with 25OHD. Results of regression model showed one unit increase of motility would give 0.15-unit positive significant impact on 25OHD; 20% variation in 25OHD was explained by the total count, motility, and morphology, while the model was adjusted for BMI.
+
+Conclusion: The impact of 25OHD levels on sperm parameters can be emphasized on the basis of detection of its high serum levels in “normal” subjects in both fertile as well as infertile males in comparison to subjects that had altered sperm parameters; total sperm count, motility, and normal morphology. The considerably positive association between 25OHD, testosterone, total count, motility, and morphology further accentuates its impact on normal spermatogenesis and the male reproductive functions required for acquiring fertility
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitdinfertility2018-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Live about 2 years longer if high level of vitamin D
+
+ **[Perplexity AI – Deep Reasoning March 2025](https://www.perplexity.ai/search/how-many-more-years-does-a-per-RUiBpQOtT.Sp2d57DujMzQ)** 
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/live-about-2-years-longer-if-good-level-of-vitamin-d-compresspdf.pdf&quot;&gt;Report PDF &lt;/a&gt;** 
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Men with sperm count greater than 80 million lived 2 years longer - March 2025`
+│   inner_content: `Men with sperm count greater than 80 million lived 2 years longer - March 2025`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Men with sperm count greater than 80 million lived 2 years longer - March 2025`
+│   │   inner_content: `Men with sperm count greater than 80 million lived 2 years longer - March 2025`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Semen quality and lifespan: a study of 78 284 men followed for up to 50 years __`
+│   inner_content: `Semen quality and lifespan: a study of 78 284 men followed for up to 50 years `
+│   children:
+│   ├── TextNode
+│   │   full_match: `Semen quality and lifespan: a study of 78 284 men followed for up to 50 years `
+│   │   inner_content: `Semen quality and lifespan: a study of 78 284 men followed for up to 50 years `├── TextNode
+│   full_match: `\nHuman Reproduction, deaf023, https://doi.org/10.1093/humrep/deaf023\nL Priskorn, R Lindahl-Jacobsen, T K Jensen, S A Holmboe, L S Hansen, M Kriegbaum, B S Lind, V Siersma, C L Andersen, N Jørgensen\n\n`
+│   inner_content: `\nHuman Reproduction, deaf023, https://doi.org/10.1093/humrep/deaf023\nL Priskorn, R Lindahl-Jacobsen, T K Jensen, S A Holmboe, L S Hansen, M Kriegbaum, B S Lind, V Siersma, C L Andersen, N Jørgensen\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22379&quot; width=&quot;300&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22379&quot; width=&quot;300&quot;
+│   │   type: attId
+│   │   attId: 22379
+│   │   width: 300├── TextNode
+│   full_match: `\nSTUDY QUESTION\nIs semen quality associated with the lifespan of men?\n\nSUMMARY ANSWER\nMen with a total motile sperm count of &gt;120 million could expect to live 2.7 years longer than men with total motile sperm count of &gt;0–5 million.\n\nWHAT IS KNOWN ALREADY\nMale infertility and semen quality have been suggested to be markers of morbidity and thus mortality, but the role of underlying disease present at time of semen quality evaluation has not been thoroughly assessed. The aim of this study was to determine the association between semen quality and mortality, and to assess the impact of the health of the man prior to semen quality assessment.\n\nSTUDY DESIGN, SIZE, DURATION\nThe study was based on 78 284 men who had their semen quality assessed between 1965 and 2015 at the public semen analysis laboratory in the Copenhagen area, Denmark, due to reported couple infertility. Thus, the included men covered a wide range of semen quality. Semen quality assessment included semen volume, sperm concentration, and the proportion of motile and morphologically normal sperm, from which the total sperm count and the total motile sperm count were calculated. Utilizing the unique Danish national registers, follow-up of the men regarding all-cause mortality was performed with a median follow-up of 23 years (5–95th percentile: 8–45 years) during which 8600 deaths occurred, accounting for 11.0% of the total population.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS\nLife expectancy was calculated according to semen quality. Furthermore, the relative differences in mortality were estimated using Cox regression analyses and presented as hazard ratios (HRs) with 95% CIs. A more recent subpopulation of 59 657 men delivered semen samples between 1987 and 2015, a period in which information on educational level and diseases prior to semen sampling was available and adjusted for in Cox regression analyses.\n\nMAIN RESULTS AND THE ROLE OF CHANCE\nMen with a total motile count of &gt;120 million could expect to live 80.3 years, compared to 77.6 years among men with total motile count of &gt;0–5 million. In Cox regression analyses, all semen parameters were negatively associated with mortality in a dose–response manner both in the total population and the more recent subpopulation (P-trend for all semen parameters &lt;0.001), and adjustment for educational levels and prior diagnoses did not change the estimates in the latter. Looking at total motile sperm count as an example, men with a total motile sperm count &gt;120 million served as the reference, and the adjusted HRs for all-cause mortality in the more recent subpopulation were: azoospermia: 1.39, &gt;0–5 million: 1.61, &gt;5–10 million: 1.38, &gt;10–40 million: 1.27, &gt;40–80 million: 1.16, &gt;80–120 million: 1.19, P-trend &lt; 0.001.\n`
+│   inner_content: `\nSTUDY QUESTION\nIs semen quality associated with the lifespan of men?\n\nSUMMARY ANSWER\nMen with a total motile sperm count of &gt;120 million could expect to live 2.7 years longer than men with total motile sperm count of &gt;0–5 million.\n\nWHAT IS KNOWN ALREADY\nMale infertility and semen quality have been suggested to be markers of morbidity and thus mortality, but the role of underlying disease present at time of semen quality evaluation has not been thoroughly assessed. The aim of this study was to determine the association between semen quality and mortality, and to assess the impact of the health of the man prior to semen quality assessment.\n\nSTUDY DESIGN, SIZE, DURATION\nThe study was based on 78 284 men who had their semen quality assessed between 1965 and 2015 at the public semen analysis laboratory in the Copenhagen area, Denmark, due to reported couple infertility. Thus, the included men covered a wide range of semen quality. Semen quality assessment included semen volume, sperm concentration, and the proportion of motile and morphologically normal sperm, from which the total sperm count and the total motile sperm count were calculated. Utilizing the unique Danish national registers, follow-up of the men regarding all-cause mortality was performed with a median follow-up of 23 years (5–95th percentile: 8–45 years) during which 8600 deaths occurred, accounting for 11.0% of the total population.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS\nLife expectancy was calculated according to semen quality. Furthermore, the relative differences in mortality were estimated using Cox regression analyses and presented as hazard ratios (HRs) with 95% CIs. A more recent subpopulation of 59 657 men delivered semen samples between 1987 and 2015, a period in which information on educational level and diseases prior to semen sampling was available and adjusted for in Cox regression analyses.\n\nMAIN RESULTS AND THE ROLE OF CHANCE\nMen with a total motile count of &gt;120 million could expect to live 80.3 years, compared to 77.6 years among men with total motile count of &gt;0–5 million. In Cox regression analyses, all semen parameters were negatively associated with mortality in a dose–response manner both in the total population and the more recent subpopulation (P-trend for all semen parameters &lt;0.001), and adjustment for educational levels and prior diagnoses did not change the estimates in the latter. Looking at total motile sperm count as an example, men with a total motile sperm count &gt;120 million served as the reference, and the adjusted HRs for all-cause mortality in the more recent subpopulation were: azoospermia: 1.39, &gt;0–5 million: 1.61, &gt;5–10 million: 1.38, &gt;10–40 million: 1.27, &gt;40–80 million: 1.16, &gt;80–120 million: 1.19, P-trend &lt; 0.001.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22378&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22378&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22378&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22378&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22378&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22378&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22378
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Sperm count of 90 million if high vitamin D (vs only 10 million if low)`
+│   inner_content: `Sperm count of 90 million if high vitamin D (vs only 10 million if low)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Sperm count of 90 million if high vitamin D (vs only 10 million if low)`
+│   │   inner_content: `Sperm count of 90 million if high vitamin D (vs only 10 million if low)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Association Between Vitamin D, Reproductive Hormones and Sperm Parameters in Infertile Male Subjects__`
+│   inner_content: `Association Between Vitamin D, Reproductive Hormones and Sperm Parameters in Infertile Male Subjects`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Association Between Vitamin D, Reproductive Hormones and Sperm Parameters in Infertile Male Subjects`
+│   │   inner_content: `Association Between Vitamin D, Reproductive Hormones and Sperm Parameters in Infertile Male Subjects`├── TextNode
+│   full_match: `\nFront. Endocrinol. 9:607. `
+│   inner_content: `\nFront. Endocrinol. 9:607. `├── DoiLinkNode
+│   full_match: `doi: 10.3389/fendo.2018.00607`
+│   inner_content: `10.3389/fendo.2018.00607`├── TextNode
+│   full_match: `\nRehana Rehman1, Salima Lalani1, Mukhtiar Baig2, Iman Nizami3, Zohaib Rana1 and Zohair Jamil Gazzaz4*\n1 Department of Biological &amp; Biomedical Sciences, Aga Khan University, Karachi, Pakistan,2 Department of Clinical Biochemistry, Faculty of Medicine, Rabigh, King Abdulaziz University, Jeddah, Saudi Arabia,3 Medical Student, Aga Khan University, Karachi, Pakistan,4 Department of Medicine, Faculty of Medicine, Rabigh, King Abdulaiz University, Jeddah, Saudi Arabia\n\n`
+│   inner_content: `\nRehana Rehman1, Salima Lalani1, Mukhtiar Baig2, Iman Nizami3, Zohaib Rana1 and Zohair Jamil Gazzaz4*\n1 Department of Biological &amp; Biomedical Sciences, Aga Khan University, Karachi, Pakistan,2 Department of Clinical Biochemistry, Faculty of Medicine, Rabigh, King Abdulaziz University, Jeddah, Saudi Arabia,3 Medical Student, Aga Khan University, Karachi, Pakistan,4 Department of Medicine, Faculty of Medicine, Rabigh, King Abdulaiz University, Jeddah, Saudi Arabia\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22376&quot; width=&quot;250&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22376&quot; width=&quot;250&quot;
+│   │   type: attId
+│   │   attId: 22376
+│   │   width: 250├── TextNode
+│   full_match: `\nBackground: The prevalence of infertility and vitamin D deficiency is common in Pakistan. Therefore, our study aims were to assess and compare Vitamin D; 25-hydroxyvitamin (25OHD) and reproductive hormone levels in male fertile and infertile subjects with normal and abnormal sperm parameters. Furthermore, the study is aimed to explore the association of 25OHD levels with these sperm parameters in a selected population of Karachi, Pakistan.\n\nMethods: The cross-sectional study was carried out from August 2016 till December 2017,313 study subjects were recruited from an Infertile Clinic from Islamabad, Pakistan, and the general population. First, we took the couples&#39; history of parenting and then carried out a semen analysis and infertile and fertile male subjects were then subgrouped into “normal” and “altered sperm parameter/s.” Forward linear regression was done for selection of 25OHD as a significant predictor of sperm parameters.\n\nResults: The median values of the total count, motility, morphology as well as serum 25OHD were significantly higher in the group with “normal” (186) as compared to subjects (127) in “abnormal sperm parameters” group. The 25OHD levels were significantly high in males with “normal sperm parameters”; 80.90 ± 23.33 nmol/L vs. “altered sperm parameter/s,” 64.68 ± 24.21 nmol/L (mean ± SD) with p &lt; 0.001. Serum testosterone level had a significant positive correlation with 25OHD while LH had a significant negative correlation with 25OHD (p &lt; 0.001), and FSH level had a non-significant negative correlation with 25OHD. Results of regression model showed one unit increase of motility would give 0.15-unit positive significant impact on 25OHD; 20% variation in 25OHD was explained by the total count, motility, and morphology, while the model was adjusted for BMI.\n\nConclusion: The impact of 25OHD levels on sperm parameters can be emphasized on the basis of detection of its high serum levels in “normal” subjects in both fertile as well as infertile males in comparison to subjects that had altered sperm parameters; total sperm count, motility, and normal morphology. The considerably positive association between 25OHD, testosterone, total count, motility, and morphology further accentuates its impact on normal spermatogenesis and the male reproductive functions required for acquiring fertility\n`
+│   inner_content: `\nBackground: The prevalence of infertility and vitamin D deficiency is common in Pakistan. Therefore, our study aims were to assess and compare Vitamin D; 25-hydroxyvitamin (25OHD) and reproductive hormone levels in male fertile and infertile subjects with normal and abnormal sperm parameters. Furthermore, the study is aimed to explore the association of 25OHD levels with these sperm parameters in a selected population of Karachi, Pakistan.\n\nMethods: The cross-sectional study was carried out from August 2016 till December 2017,313 study subjects were recruited from an Infertile Clinic from Islamabad, Pakistan, and the general population. First, we took the couples&#39; history of parenting and then carried out a semen analysis and infertile and fertile male subjects were then subgrouped into “normal” and “altered sperm parameter/s.” Forward linear regression was done for selection of 25OHD as a significant predictor of sperm parameters.\n\nResults: The median values of the total count, motility, morphology as well as serum 25OHD were significantly higher in the group with “normal” (186) as compared to subjects (127) in “abnormal sperm parameters” group. The 25OHD levels were significantly high in males with “normal sperm parameters”; 80.90 ± 23.33 nmol/L vs. “altered sperm parameter/s,” 64.68 ± 24.21 nmol/L (mean ± SD) with p &lt; 0.001. Serum testosterone level had a significant positive correlation with 25OHD while LH had a significant negative correlation with 25OHD (p &lt; 0.001), and FSH level had a non-significant negative correlation with 25OHD. Results of regression model showed one unit increase of motility would give 0.15-unit positive significant impact on 25OHD; 20% variation in 25OHD was explained by the total count, motility, and morphology, while the model was adjusted for BMI.\n\nConclusion: The impact of 25OHD levels on sperm parameters can be emphasized on the basis of detection of its high serum levels in “normal” subjects in both fertile as well as infertile males in comparison to subjects that had altered sperm parameters; total sperm count, motility, and normal morphology. The considerably positive association between 25OHD, testosterone, total count, motility, and morphology further accentuates its impact on normal spermatogenesis and the male reproductive functions required for acquiring fertility\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22374&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22374&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22374&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22374&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22374&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22374&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22374
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Live about 2 years longer if high level of vitamin D`
+│   inner_content: `Live about 2 years longer if high level of vitamin D`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Live about 2 years longer if high level of vitamin D`
+│   │   inner_content: `Live about 2 years longer if high level of vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.perplexity.ai/search/how-many-more-years-does-a-per-RUiBpQOtT.Sp2d57DujMzQ|Perplexity AI – Deep Reasoning March 2025]__`
+│   inner_content: `[https://www.perplexity.ai/search/how-many-more-years-does-a-per-RUiBpQOtT.Sp2d57DujMzQ|Perplexity AI – Deep Reasoning March 2025]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/how-many-more-years-does-a-per-RUiBpQOtT.Sp2d57DujMzQ|Perplexity AI – Deep Reasoning March 2025]`
+│   │   inner_content: `Perplexity AI – Deep Reasoning March 2025`
+│   │   url: `https://www.perplexity.ai/search/how-many-more-years-does-a-per-RUiBpQOtT.Sp2d57DujMzQ`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity AI – Deep Reasoning March 2025`
+│   │   │   inner_content: `Perplexity AI – Deep Reasoning March 2025`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22375&quot; icon=&quot;1&quot;)}Report PDF {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22375&quot; icon=&quot;1&quot;)}Report PDF {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22375&quot; icon=&quot;1&quot;)}Report PDF {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22375&quot; icon=&quot;1&quot;)}Report PDF {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22375&quot; icon=&quot;1&quot;)}Report PDF {ATTACH}`
+│   │   │   inner_content: `Report PDF `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22375&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22375
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Report PDF `
+│   │   │   │   inner_content: `Report PDF `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Men with sperm count greater than 80 million lived 2 years longer - March 2025
+__Semen quality and lifespan: a study of 78 284 men followed for up to 50 years __
+Human Reproduction, deaf023, https://doi.org/10.1093/humrep/deaf023
+L Priskorn, R Lindahl-Jacobsen, T K Jensen, S A Holmboe, L S Hansen, M Kriegbaum, B S Lind, V Siersma, C L Andersen, N Jørgensen
+
+{img type=&quot;attId&quot; attId=&quot;22379&quot; width=&quot;300&quot;}
+STUDY QUESTION
+Is semen quality associated with the lifespan of men?
+
+SUMMARY ANSWER
+Men with a total motile sperm count of &gt;120 million could expect to live 2.7 years longer than men with total motile sperm count of &gt;0–5 million.
+
+WHAT IS KNOWN ALREADY
+Male infertility and semen quality have been suggested to be markers of morbidity and thus mortality, but the role of underlying disease present at time of semen quality evaluation has not been thoroughly assessed. The aim of this study was to determine the association between semen quality and mortality, and to assess the impact of the health of the man prior to semen quality assessment.
+
+STUDY DESIGN, SIZE, DURATION
+The study was based on 78 284 men who had their semen quality assessed between 1965 and 2015 at the public semen analysis laboratory in the Copenhagen area, Denmark, due to reported couple infertility. Thus, the included men covered a wide range of semen quality. Semen quality assessment included semen volume, sperm concentration, and the proportion of motile and morphologically normal sperm, from which the total sperm count and the total motile sperm count were calculated. Utilizing the unique Danish national registers, follow-up of the men regarding all-cause mortality was performed with a median follow-up of 23 years (5–95th percentile: 8–45 years) during which 8600 deaths occurred, accounting for 11.0% of the total population.
+
+PARTICIPANTS/MATERIALS, SETTING, METHODS
+Life expectancy was calculated according to semen quality. Furthermore, the relative differences in mortality were estimated using Cox regression analyses and presented as hazard ratios (HRs) with 95% CIs. A more recent subpopulation of 59 657 men delivered semen samples between 1987 and 2015, a period in which information on educational level and diseases prior to semen sampling was available and adjusted for in Cox regression analyses.
+
+MAIN RESULTS AND THE ROLE OF CHANCE
+Men with a total motile count of &gt;120 million could expect to live 80.3 years, compared to 77.6 years among men with total motile count of &gt;0–5 million. In Cox regression analyses, all semen parameters were negatively associated with mortality in a dose–response manner both in the total population and the more recent subpopulation (P-trend for all semen parameters &lt;0.001), and adjustment for educational levels and prior diagnoses did not change the estimates in the latter. Looking at total motile sperm count as an example, men with a total motile sperm count &gt;120 million served as the reference, and the adjusted HRs for all-cause mortality in the more recent subpopulation were: azoospermia: 1.39, &gt;0–5 million: 1.61, &gt;5–10 million: 1.38, &gt;10–40 million: 1.27, &gt;40–80 million: 1.16, &gt;80–120 million: 1.19, P-trend &lt; 0.001.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22378&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Sperm count of 90 million if high vitamin D (vs only 10 million if low)
+__Association Between Vitamin D, Reproductive Hormones and Sperm Parameters in Infertile Male Subjects__
+Front. Endocrinol. 9:607. doi: 10.3389/fendo.2018.00607
+Rehana Rehman1, Salima Lalani1, Mukhtiar Baig2, Iman Nizami3, Zohaib Rana1 and Zohair Jamil Gazzaz4*
+1 Department of Biological &amp; Biomedical Sciences, Aga Khan University, Karachi, Pakistan,2 Department of Clinical Biochemistry, Faculty of Medicine, Rabigh, King Abdulaziz University, Jeddah, Saudi Arabia,3 Medical Student, Aga Khan University, Karachi, Pakistan,4 Department of Medicine, Faculty of Medicine, Rabigh, King Abdulaiz University, Jeddah, Saudi Arabia
+
+{img type=&quot;attId&quot; attId=&quot;22376&quot; width=&quot;250&quot;}
+Background: The prevalence of infertility and vitamin D deficiency is common in Pakistan. Therefore, our study aims were to assess and compare Vitamin D; 25-hydroxyvitamin (25OHD) and reproductive hormone levels in male fertile and infertile subjects with normal and abnormal sperm parameters. Furthermore, the study is aimed to explore the association of 25OHD levels with these sperm parameters in a selected population of Karachi, Pakistan.
+
+Methods: The cross-sectional study was carried out from August 2016 till December 2017,313 study subjects were recruited from an Infertile Clinic from Islamabad, Pakistan, and the general population. First, we took the couples&#39; history of parenting and then carried out a semen analysis and infertile and fertile male subjects were then subgrouped into “normal” and “altered sperm parameter/s.” Forward linear regression was done for selection of 25OHD as a significant predictor of sperm parameters.
+
+Results: The median values of the total count, motility, morphology as well as serum 25OHD were significantly higher in the group with “normal” (186) as compared to subjects (127) in “abnormal sperm parameters” group. The 25OHD levels were significantly high in males with “normal sperm parameters”; 80.90 ± 23.33 nmol/L vs. “altered sperm parameter/s,” 64.68 ± 24.21 nmol/L (mean ± SD) with p &lt; 0.001. Serum testosterone level had a significant positive correlation with 25OHD while LH had a significant negative correlation with 25OHD (p &lt; 0.001), and FSH level had a non-significant negative correlation with 25OHD. Results of regression model showed one unit increase of motility would give 0.15-unit positive significant impact on 25OHD; 20% variation in 25OHD was explained by the total count, motility, and morphology, while the model was adjusted for BMI.
+
+Conclusion: The impact of 25OHD levels on sperm parameters can be emphasized on the basis of detection of its high serum levels in “normal” subjects in both fertile as well as infertile males in comparison to subjects that had altered sperm parameters; total sperm count, motility, and normal morphology. The considerably positive association between 25OHD, testosterone, total count, motility, and morphology further accentuates its impact on normal spermatogenesis and the male reproductive functions required for acquiring fertility
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22374&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Live about 2 years longer if high level of vitamin D
+__[https://www.perplexity.ai/search/how-many-more-years-does-a-per-RUiBpQOtT.Sp2d57DujMzQ|Perplexity AI – Deep Reasoning March 2025]__
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22375&quot; icon=&quot;1&quot;)}Report PDF {ATTACH}__{FONT}
+
+</code>
+</pre>

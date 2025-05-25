@@ -1,0 +1,745 @@
+---
+title: "Drs. Grimes and Campbell talk about Vitamin D"
+slug: "drs-grimes-and-campbell-talk-about-vitamin-d"
+aliases:
+  - "/Drs+Grimes+and+Campbell+talk+about+Vitamin+D+-+Dec+2024"
+  - "/15737"
+tiki_page_id: 15737
+date: 2024-12-23
+---
+
+
+{{< toc >}}
+
+---
+
+#### Vitamin D, the study of disease: 86 minute discussion
+
+ **[YouTube](https://www.youtube.com/watch?v=a-uzGkCjiKQ&t=14s&ab_channel=Dr.JohnCampbell)** 
+
+#### Summary by GLASP-AI (A FREE Chrome extension)
+
+ **Summary (with approximate timestamps)** 
+
+*  **(00:02–00:38) Introduction to Dr. David Grimes** 
+
+   * Lifelong physician, consultant, medical researcher/teacher, and pioneer in vitamin D.
+
+   * Early recognition of widespread vitamin D deficiency and its link to multiple diseases.
+
+*  **(01:16–03:15) Discovering Vitamin D Deficiency** 
+
+   * Worked in Blackburn, NW England, a region with high poverty and a large South Asian population.
+
+   * Began measuring vitamin D in ~5,000 patients in the 1980s, finding up to 85% of white patients and 95% of South Asian patients severely deficient.
+
+*  **(03:51–05:28) Tuberculosis and Vitamin D** 
+
+   * TB risk soared in the South Asian community 6–8 years after arriving in the UK, likely triggered by lack of sunlight (vitamin D).
+
+   * Vitamin D supports T-cell function (cellular immunity), helping contain TB bacteria.
+
+*  **(08:39–10:34) Historical Insights on Rickets and TB** 
+
+   * Historical data (Glasgow, early 1900s) showed rickets (vitamin D deficiency) and TB clustered in poor, indoor workers.
+
+   * A 1926 study in Bombay revealed wealthier families (who stayed indoors) suffered more rickets/TB, whereas poorer families working outdoors were healthier.
+
+*  **(14:13–15:10) Maternal and Childhood Vitamin D** 
+
+   * Vitamin D deficiency in pregnancy can cause rickets and long-term health issues for children.
+
+   * Babies born in winter months (when mothers have less sun exposure) have higher risks of certain diseases (e.g., multiple sclerosis).
+
+*  **(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)** 
+
+   * Chronic kidney disease and autoimmune conditions may be worsened or triggered by low vitamin D.
+
+   * Cardiac disease (atherosclerosis, coronary artery disease) may involve chronic infection/inflammation, where vitamin D is crucial to immunity.
+
+   * Type 2 diabetes correlates with low vitamin D, possibly due to effects on insulin resistance.
+
+*  **(27:30–31:52) Case Histories: Abdul and Frank** 
+
+   *  **Abdul:**  Arrived from Pakistan as a child; spent most life indoors in poor conditions. Developed kidney failure, TB, strokes, heart attacks, diabetes—all tied to poor immunity and vitamin D deficiency.
+
+   *  **Frank:**  Born in a deprived area, developed peptic ulcers, coronary artery disease, strokes, and peripheral vascular disease. Again, linked to chronic vitamin D deficiency and social deprivation.
+
+*  **(40:48–46:32) Decline in Heart Disease & Role of Infection** 
+
+   * Heart attacks peaked around 1970, then declined—possibly related to shifts in infection patterns and immunity.
+
+   * Vitamin D deficiency undermines the body’s ability to fight chronic inflammatory/infective processes in arterial walls.
+
+*  **(50:00–1:03:00) Public Health Implications** 
+
+   * Advocates routine vitamin D testing, especially in pregnancy: “No child should be born deficient.”
+
+   * Highlights the importance of vitamin D for immunity against all infections (rather than specific vaccines alone).
+
+   * Notes that individuals vary widely in how much vitamin D they need (body weight, skin color, sunlight exposure).
+
+*  **(1:06:00–End) Conclusion and Next Steps** 
+
+   * Emphasizes vitamin D as “low-hanging fruit” for global health improvement.
+
+   * Dr. Grimes plans to reissue/update his book in PDF form for wider distribution.
+
+   * Encourages broader public health policies to ensure universal vitamin D adequacy and break cycles of preventable disease.
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Vitamin D, the study of disease: 86 minute discussion
+
+ **[YouTube](https://www.youtube.com/watch?v=a-uzGkCjiKQ&amp;t=14s&amp;ab_channel=Dr.JohnCampbell)** 
+
+#### Summary by GLASP-AI (A FREE Chrome extension)
+
+ **Summary (with approximate timestamps)** 
+
+*  **(00:02–00:38) Introduction to Dr. David Grimes** 
+
+   * Lifelong physician, consultant, medical researcher/teacher, and pioneer in vitamin D.
+
+   * Early recognition of widespread vitamin D deficiency and its link to multiple diseases.
+
+*  **(01:16–03:15) Discovering Vitamin D Deficiency** 
+
+   * Worked in Blackburn, NW England, a region with high poverty and a large South Asian population.
+
+   * Began measuring vitamin D in ~5,000 patients in the 1980s, finding up to 85% of white patients and 95% of South Asian patients severely deficient.
+
+*  **(03:51–05:28) Tuberculosis and Vitamin D** 
+
+   * TB risk soared in the South Asian community 6–8 years after arriving in the UK, likely triggered by lack of sunlight (vitamin D).
+
+   * Vitamin D supports T-cell function (cellular immunity), helping contain TB bacteria.
+
+*  **(08:39–10:34) Historical Insights on Rickets and TB** 
+
+   * Historical data (Glasgow, early 1900s) showed rickets (vitamin D deficiency) and TB clustered in poor, indoor workers.
+
+   * A 1926 study in Bombay revealed wealthier families (who stayed indoors) suffered more rickets/TB, whereas poorer families working outdoors were healthier.
+
+*  **(14:13–15:10) Maternal and Childhood Vitamin D** 
+
+   * Vitamin D deficiency in pregnancy can cause rickets and long-term health issues for children.
+
+   * Babies born in winter months (when mothers have less sun exposure) have higher risks of certain diseases (e.g., multiple sclerosis).
+
+*  **(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)** 
+
+   * Chronic kidney disease and autoimmune conditions may be worsened or triggered by low vitamin D.
+
+   * Cardiac disease (atherosclerosis, coronary artery disease) may involve chronic infection/inflammation, where vitamin D is crucial to immunity.
+
+   * Type 2 diabetes correlates with low vitamin D, possibly due to effects on insulin resistance.
+
+*  **(27:30–31:52) Case Histories: Abdul and Frank** 
+
+   *  **Abdul:**  Arrived from Pakistan as a child; spent most life indoors in poor conditions. Developed kidney failure, TB, strokes, heart attacks, diabetes—all tied to poor immunity and vitamin D deficiency.
+
+   *  **Frank:**  Born in a deprived area, developed peptic ulcers, coronary artery disease, strokes, and peripheral vascular disease. Again, linked to chronic vitamin D deficiency and social deprivation.
+
+*  **(40:48–46:32) Decline in Heart Disease &amp; Role of Infection** 
+
+   * Heart attacks peaked around 1970, then declined—possibly related to shifts in infection patterns and immunity.
+
+   * Vitamin D deficiency undermines the body’s ability to fight chronic inflammatory/infective processes in arterial walls.
+
+*  **(50:00–1:03:00) Public Health Implications** 
+
+   * Advocates routine vitamin D testing, especially in pregnancy: “No child should be born deficient.”
+
+   * Highlights the importance of vitamin D for immunity against all infections (rather than specific vaccines alone).
+
+   * Notes that individuals vary widely in how much vitamin D they need (body weight, skin color, sunlight exposure).
+
+*  **(1:06:00–End) Conclusion and Next Steps** 
+
+   * Emphasizes vitamin D as “low-hanging fruit” for global health improvement.
+
+   * Dr. Grimes plans to reissue/update his book in PDF form for wider distribution.
+
+   * Encourages broader public health policies to ensure universal vitamin D adequacy and break cycles of preventable disease.
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D, the study of disease: 86 minute discussion`
+│   inner_content: `Vitamin D, the study of disease: 86 minute discussion`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D, the study of disease: 86 minute discussion`
+│   │   inner_content: `Vitamin D, the study of disease: 86 minute discussion`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.youtube.com/watch?v=a-uzGkCjiKQ&amp;t=14s&amp;ab_channel=Dr.JohnCampbell| YouTube]__`
+│   inner_content: `[https://www.youtube.com/watch?v=a-uzGkCjiKQ&amp;t=14s&amp;ab_channel=Dr.JohnCampbell| YouTube]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.youtube.com/watch?v=a-uzGkCjiKQ&amp;t=14s&amp;ab_channel=Dr.JohnCampbell| YouTube]`
+│   │   inner_content: ` YouTube`
+│   │   url: `https://www.youtube.com/watch?v=a-uzGkCjiKQ&amp;t=14s&amp;ab_channel=Dr.JohnCampbell`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `YouTube`
+│   │   │   inner_content: `YouTube`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!!!Summary by GLASP-AI (A FREE Chrome extension)`
+│   inner_content: `Summary by GLASP-AI (A FREE Chrome extension)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Summary by GLASP-AI (A FREE Chrome extension)`
+│   │   inner_content: `Summary by GLASP-AI (A FREE Chrome extension)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Summary (with approximate timestamps)__`
+│   inner_content: `Summary (with approximate timestamps)`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Summary (with approximate timestamps)`
+│   │   inner_content: `Summary (with approximate timestamps)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(00:02–00:38) Introduction to Dr. David Grimes__`
+│   inner_content: `__(00:02–00:38) Introduction to Dr. David Grimes__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(00:02–00:38) Introduction to Dr. David Grimes__`
+│   │   inner_content: `(00:02–00:38) Introduction to Dr. David Grimes`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(00:02–00:38) Introduction to Dr. David Grimes`
+│   │   │   inner_content: `(00:02–00:38) Introduction to Dr. David Grimes`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Lifelong physician, consultant, medical researcher/teacher, and pioneer in vitamin D.`
+│   inner_content: `Lifelong physician, consultant, medical researcher/teacher, and pioneer in vitamin D.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lifelong physician, consultant, medical researcher/teacher, and pioneer in vitamin D.`
+│   │   inner_content: `Lifelong physician, consultant, medical researcher/teacher, and pioneer in vitamin D.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Early recognition of widespread vitamin D deficiency and its link to multiple diseases.`
+│   inner_content: `Early recognition of widespread vitamin D deficiency and its link to multiple diseases.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Early recognition of widespread vitamin D deficiency and its link to multiple diseases.`
+│   │   inner_content: `Early recognition of widespread vitamin D deficiency and its link to multiple diseases.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(01:16–03:15) Discovering Vitamin D Deficiency__`
+│   inner_content: `__(01:16–03:15) Discovering Vitamin D Deficiency__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(01:16–03:15) Discovering Vitamin D Deficiency__`
+│   │   inner_content: `(01:16–03:15) Discovering Vitamin D Deficiency`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(01:16–03:15) Discovering Vitamin D Deficiency`
+│   │   │   inner_content: `(01:16–03:15) Discovering Vitamin D Deficiency`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Worked in Blackburn, NW England, a region with high poverty and a large South Asian population.`
+│   inner_content: `Worked in Blackburn, NW England, a region with high poverty and a large South Asian population.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Worked in Blackburn, NW England, a region with high poverty and a large South Asian population.`
+│   │   inner_content: `Worked in Blackburn, NW England, a region with high poverty and a large South Asian population.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Began measuring vitamin D in ~5,000 patients in the 1980s, finding up to 85% of white patients and 95% of South Asian patients severely deficient.`
+│   inner_content: `Began measuring vitamin D in ~5,000 patients in the 1980s, finding up to 85% of white patients and 95% of South Asian patients severely deficient.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Began measuring vitamin D in ~5,000 patients in the 1980s, finding up to 85% of white patients and 95% of South Asian patients severely deficient.`
+│   │   inner_content: `Began measuring vitamin D in ~5,000 patients in the 1980s, finding up to 85% of white patients and 95% of South Asian patients severely deficient.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(03:51–05:28) Tuberculosis and Vitamin D__`
+│   inner_content: `__(03:51–05:28) Tuberculosis and Vitamin D__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(03:51–05:28) Tuberculosis and Vitamin D__`
+│   │   inner_content: `(03:51–05:28) Tuberculosis and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(03:51–05:28) Tuberculosis and Vitamin D`
+│   │   │   inner_content: `(03:51–05:28) Tuberculosis and Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**TB risk soared in the South Asian community 6–8 years after arriving in the UK, likely triggered by lack of sunlight (vitamin D).`
+│   inner_content: `TB risk soared in the South Asian community 6–8 years after arriving in the UK, likely triggered by lack of sunlight (vitamin D).`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `TB risk soared in the South Asian community 6–8 years after arriving in the UK, likely triggered by lack of sunlight (vitamin D).`
+│   │   inner_content: `TB risk soared in the South Asian community 6–8 years after arriving in the UK, likely triggered by lack of sunlight (vitamin D).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Vitamin D supports T-cell function (cellular immunity), helping contain TB bacteria.`
+│   inner_content: `Vitamin D supports T-cell function (cellular immunity), helping contain TB bacteria.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D supports T-cell function (cellular immunity), helping contain TB bacteria.`
+│   │   inner_content: `Vitamin D supports T-cell function (cellular immunity), helping contain TB bacteria.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(08:39–10:34) Historical Insights on Rickets and TB__`
+│   inner_content: `__(08:39–10:34) Historical Insights on Rickets and TB__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(08:39–10:34) Historical Insights on Rickets and TB__`
+│   │   inner_content: `(08:39–10:34) Historical Insights on Rickets and TB`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(08:39–10:34) Historical Insights on Rickets and TB`
+│   │   │   inner_content: `(08:39–10:34) Historical Insights on Rickets and TB`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Historical data (Glasgow, early 1900s) showed rickets (vitamin D deficiency) and TB clustered in poor, indoor workers.`
+│   inner_content: `Historical data (Glasgow, early 1900s) showed rickets (vitamin D deficiency) and TB clustered in poor, indoor workers.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Historical data (Glasgow, early 1900s) showed rickets (vitamin D deficiency) and TB clustered in poor, indoor workers.`
+│   │   inner_content: `Historical data (Glasgow, early 1900s) showed rickets (vitamin D deficiency) and TB clustered in poor, indoor workers.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**A 1926 study in Bombay revealed wealthier families (who stayed indoors) suffered more rickets/TB, whereas poorer families working outdoors were healthier.`
+│   inner_content: `A 1926 study in Bombay revealed wealthier families (who stayed indoors) suffered more rickets/TB, whereas poorer families working outdoors were healthier.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A 1926 study in Bombay revealed wealthier families (who stayed indoors) suffered more rickets/TB, whereas poorer families working outdoors were healthier.`
+│   │   inner_content: `A 1926 study in Bombay revealed wealthier families (who stayed indoors) suffered more rickets/TB, whereas poorer families working outdoors were healthier.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(14:13–15:10) Maternal and Childhood Vitamin D__`
+│   inner_content: `__(14:13–15:10) Maternal and Childhood Vitamin D__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(14:13–15:10) Maternal and Childhood Vitamin D__`
+│   │   inner_content: `(14:13–15:10) Maternal and Childhood Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(14:13–15:10) Maternal and Childhood Vitamin D`
+│   │   │   inner_content: `(14:13–15:10) Maternal and Childhood Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Vitamin D deficiency in pregnancy can cause rickets and long-term health issues for children.`
+│   inner_content: `Vitamin D deficiency in pregnancy can cause rickets and long-term health issues for children.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D deficiency in pregnancy can cause rickets and long-term health issues for children.`
+│   │   inner_content: `Vitamin D deficiency in pregnancy can cause rickets and long-term health issues for children.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Babies born in winter months (when mothers have less sun exposure) have higher risks of certain diseases (e.g., multiple sclerosis).`
+│   inner_content: `Babies born in winter months (when mothers have less sun exposure) have higher risks of certain diseases (e.g., multiple sclerosis).`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Babies born in winter months (when mothers have less sun exposure) have higher risks of certain diseases (e.g., multiple sclerosis).`
+│   │   inner_content: `Babies born in winter months (when mothers have less sun exposure) have higher risks of certain diseases (e.g., multiple sclerosis).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)__`
+│   inner_content: `__(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)__`
+│   │   inner_content: `(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)`
+│   │   │   inner_content: `(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Chronic kidney disease and autoimmune conditions may be worsened or triggered by low vitamin D.`
+│   inner_content: `Chronic kidney disease and autoimmune conditions may be worsened or triggered by low vitamin D.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Chronic kidney disease and autoimmune conditions may be worsened or triggered by low vitamin D.`
+│   │   inner_content: `Chronic kidney disease and autoimmune conditions may be worsened or triggered by low vitamin D.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Cardiac disease (atherosclerosis, coronary artery disease) may involve chronic infection/inflammation, where vitamin D is crucial to immunity.`
+│   inner_content: `Cardiac disease (atherosclerosis, coronary artery disease) may involve chronic infection/inflammation, where vitamin D is crucial to immunity.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cardiac disease (atherosclerosis, coronary artery disease) may involve chronic infection/inflammation, where vitamin D is crucial to immunity.`
+│   │   inner_content: `Cardiac disease (atherosclerosis, coronary artery disease) may involve chronic infection/inflammation, where vitamin D is crucial to immunity.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Type 2 diabetes correlates with low vitamin D, possibly due to effects on insulin resistance.`
+│   inner_content: `Type 2 diabetes correlates with low vitamin D, possibly due to effects on insulin resistance.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Type 2 diabetes correlates with low vitamin D, possibly due to effects on insulin resistance.`
+│   │   inner_content: `Type 2 diabetes correlates with low vitamin D, possibly due to effects on insulin resistance.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(27:30–31:52) Case Histories: Abdul and Frank__`
+│   inner_content: `__(27:30–31:52) Case Histories: Abdul and Frank__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(27:30–31:52) Case Histories: Abdul and Frank__`
+│   │   inner_content: `(27:30–31:52) Case Histories: Abdul and Frank`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(27:30–31:52) Case Histories: Abdul and Frank`
+│   │   │   inner_content: `(27:30–31:52) Case Histories: Abdul and Frank`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**__Abdul:__ Arrived from Pakistan as a child; spent most life indoors in poor conditions. Developed kidney failure, TB, strokes, heart attacks, diabetes—all tied to poor immunity and vitamin D deficiency.`
+│   inner_content: `__Abdul:__ Arrived from Pakistan as a child; spent most life indoors in poor conditions. Developed kidney failure, TB, strokes, heart attacks, diabetes—all tied to poor immunity and vitamin D deficiency.`
+│   depth: `2`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Abdul:__`
+│   │   inner_content: `Abdul:`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Abdul:`
+│   │   │   inner_content: `Abdul:`
+│   ├── TextNode
+│   │   full_match: ` Arrived from Pakistan as a child; spent most life indoors in poor conditions. Developed kidney failure, TB, strokes, heart attacks, diabetes—all tied to poor immunity and vitamin D deficiency.`
+│   │   inner_content: ` Arrived from Pakistan as a child; spent most life indoors in poor conditions. Developed kidney failure, TB, strokes, heart attacks, diabetes—all tied to poor immunity and vitamin D deficiency.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**__Frank:__ Born in a deprived area, developed peptic ulcers, coronary artery disease, strokes, and peripheral vascular disease. Again, linked to chronic vitamin D deficiency and social deprivation.`
+│   inner_content: `__Frank:__ Born in a deprived area, developed peptic ulcers, coronary artery disease, strokes, and peripheral vascular disease. Again, linked to chronic vitamin D deficiency and social deprivation.`
+│   depth: `2`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Frank:__`
+│   │   inner_content: `Frank:`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Frank:`
+│   │   │   inner_content: `Frank:`
+│   ├── TextNode
+│   │   full_match: ` Born in a deprived area, developed peptic ulcers, coronary artery disease, strokes, and peripheral vascular disease. Again, linked to chronic vitamin D deficiency and social deprivation.`
+│   │   inner_content: ` Born in a deprived area, developed peptic ulcers, coronary artery disease, strokes, and peripheral vascular disease. Again, linked to chronic vitamin D deficiency and social deprivation.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(40:48–46:32) Decline in Heart Disease &amp; Role of Infection__`
+│   inner_content: `__(40:48–46:32) Decline in Heart Disease &amp; Role of Infection__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(40:48–46:32) Decline in Heart Disease &amp; Role of Infection__`
+│   │   inner_content: `(40:48–46:32) Decline in Heart Disease &amp; Role of Infection`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(40:48–46:32) Decline in Heart Disease &amp; Role of Infection`
+│   │   │   inner_content: `(40:48–46:32) Decline in Heart Disease &amp; Role of Infection`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Heart attacks peaked around 1970, then declined—possibly related to shifts in infection patterns and immunity.`
+│   inner_content: `Heart attacks peaked around 1970, then declined—possibly related to shifts in infection patterns and immunity.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Heart attacks peaked around 1970, then declined—possibly related to shifts in infection patterns and immunity.`
+│   │   inner_content: `Heart attacks peaked around 1970, then declined—possibly related to shifts in infection patterns and immunity.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Vitamin D deficiency undermines the body’s ability to fight chronic inflammatory/infective processes in arterial walls.`
+│   inner_content: `Vitamin D deficiency undermines the body’s ability to fight chronic inflammatory/infective processes in arterial walls.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D deficiency undermines the body’s ability to fight chronic inflammatory/infective processes in arterial walls.`
+│   │   inner_content: `Vitamin D deficiency undermines the body’s ability to fight chronic inflammatory/infective processes in arterial walls.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(50:00–1:03:00) Public Health Implications__`
+│   inner_content: `__(50:00–1:03:00) Public Health Implications__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(50:00–1:03:00) Public Health Implications__`
+│   │   inner_content: `(50:00–1:03:00) Public Health Implications`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(50:00–1:03:00) Public Health Implications`
+│   │   │   inner_content: `(50:00–1:03:00) Public Health Implications`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Advocates routine vitamin D testing, especially in pregnancy: “No child should be born deficient.”`
+│   inner_content: `Advocates routine vitamin D testing, especially in pregnancy: “No child should be born deficient.”`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Advocates routine vitamin D testing, especially in pregnancy: “No child should be born deficient.”`
+│   │   inner_content: `Advocates routine vitamin D testing, especially in pregnancy: “No child should be born deficient.”`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Highlights the importance of vitamin D for immunity against all infections (rather than specific vaccines alone).`
+│   inner_content: `Highlights the importance of vitamin D for immunity against all infections (rather than specific vaccines alone).`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Highlights the importance of vitamin D for immunity against all infections (rather than specific vaccines alone).`
+│   │   inner_content: `Highlights the importance of vitamin D for immunity against all infections (rather than specific vaccines alone).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Notes that individuals vary widely in how much vitamin D they need (body weight, skin color, sunlight exposure).`
+│   inner_content: `Notes that individuals vary widely in how much vitamin D they need (body weight, skin color, sunlight exposure).`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Notes that individuals vary widely in how much vitamin D they need (body weight, skin color, sunlight exposure).`
+│   │   inner_content: `Notes that individuals vary widely in how much vitamin D they need (body weight, skin color, sunlight exposure).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__(1:06:00–End) Conclusion and Next Steps__`
+│   inner_content: `__(1:06:00–End) Conclusion and Next Steps__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__(1:06:00–End) Conclusion and Next Steps__`
+│   │   inner_content: `(1:06:00–End) Conclusion and Next Steps`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(1:06:00–End) Conclusion and Next Steps`
+│   │   │   inner_content: `(1:06:00–End) Conclusion and Next Steps`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Emphasizes vitamin D as “low-hanging fruit” for global health improvement.`
+│   inner_content: `Emphasizes vitamin D as “low-hanging fruit” for global health improvement.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Emphasizes vitamin D as “low-hanging fruit” for global health improvement.`
+│   │   inner_content: `Emphasizes vitamin D as “low-hanging fruit” for global health improvement.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Dr. Grimes plans to reissue/update his book in PDF form for wider distribution.`
+│   inner_content: `Dr. Grimes plans to reissue/update his book in PDF form for wider distribution.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Dr. Grimes plans to reissue/update his book in PDF form for wider distribution.`
+│   │   inner_content: `Dr. Grimes plans to reissue/update his book in PDF form for wider distribution.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**Encourages broader public health policies to ensure universal vitamin D adequacy and break cycles of preventable disease.`
+│   inner_content: `Encourages broader public health policies to ensure universal vitamin D adequacy and break cycles of preventable disease.`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Encourages broader public health policies to ensure universal vitamin D adequacy and break cycles of preventable disease.`
+│   │   inner_content: `Encourages broader public health policies to ensure universal vitamin D adequacy and break cycles of preventable disease.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F00:8+~~ VitaminDWiki pages have GRIMES in the title`
+│   inner_content: `~~#F00:8+~~ VitaminDWiki pages have GRIMES in the title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F00:8+~~`
+│   │   inner_content: `8+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F00
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `8+`
+│   │   │   inner_content: `8+`
+│   ├── TextNode
+│   │   full_match: ` VitaminDWiki pages have GRIMES in the title`
+│   │   inner_content: ` VitaminDWiki pages have GRIMES in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;The list is automatically updated&#39;&#39;`
+│   inner_content: `The list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The list is automatically updated`
+│   │   inner_content: `The list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;GRIMES&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;GRIMES&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;GRIMES&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;GRIMES&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F00:13+~~ VitaminDWiki pages have CAMPBELL in the title`
+│   inner_content: `~~#F00:13+~~ VitaminDWiki pages have CAMPBELL in the title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F00:13+~~`
+│   │   inner_content: `13+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F00
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `13+`
+│   │   │   inner_content: `13+`
+│   ├── TextNode
+│   │   full_match: ` VitaminDWiki pages have CAMPBELL in the title`
+│   │   inner_content: ` VitaminDWiki pages have CAMPBELL in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;The list is automatically updated&#39;&#39;`
+│   inner_content: `The list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The list is automatically updated`
+│   │   inner_content: `The list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CAMPBELL&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CAMPBELL&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CAMPBELL&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CAMPBELL&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Dr. Grimes and Dr. Campbell discuss Vitamin D (1 page summary) - Dec 2024)) ~/tc~`
+│   inner_content: ` (alias(Dr. Grimes and Dr. Campbell discuss Vitamin D (1 page summary) - Dec 2024)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Dr. Grimes and Dr. Campbell discuss Vitamin D (1 page summary) - Dec 2024)) `
+│   │   inner_content: `(alias(Dr. Grimes and Dr. Campbell discuss Vitamin D (1 page summary) - Dec 2024)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Drs. Grimes and Campbell and Vitamin D (summary and transcript) - Dec 2024)) ~/tc~`
+│   inner_content: ` (alias(Drs. Grimes and Campbell and Vitamin D (summary and transcript) - Dec 2024)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Drs. Grimes and Campbell and Vitamin D (summary and transcript) - Dec 2024)) `
+│   │   inner_content: `(alias(Drs. Grimes and Campbell and Vitamin D (summary and transcript) - Dec 2024)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Vitamin D, the study of disease: 86 minute discussion
+__[https://www.youtube.com/watch?v=a-uzGkCjiKQ&amp;t=14s&amp;ab_channel=Dr.JohnCampbell| YouTube]__
+
+!!!!Summary by GLASP-AI (A FREE Chrome extension)
+__Summary (with approximate timestamps)__
+*__(00:02–00:38) Introduction to Dr. David Grimes__
+**Lifelong physician, consultant, medical researcher/teacher, and pioneer in vitamin D.
+**Early recognition of widespread vitamin D deficiency and its link to multiple diseases.
+*__(01:16–03:15) Discovering Vitamin D Deficiency__
+**Worked in Blackburn, NW England, a region with high poverty and a large South Asian population.
+**Began measuring vitamin D in ~5,000 patients in the 1980s, finding up to 85% of white patients and 95% of South Asian patients severely deficient.
+*__(03:51–05:28) Tuberculosis and Vitamin D__
+**TB risk soared in the South Asian community 6–8 years after arriving in the UK, likely triggered by lack of sunlight (vitamin D).
+**Vitamin D supports T-cell function (cellular immunity), helping contain TB bacteria.
+*__(08:39–10:34) Historical Insights on Rickets and TB__
+**Historical data (Glasgow, early 1900s) showed rickets (vitamin D deficiency) and TB clustered in poor, indoor workers.
+**A 1926 study in Bombay revealed wealthier families (who stayed indoors) suffered more rickets/TB, whereas poorer families working outdoors were healthier.
+*__(14:13–15:10) Maternal and Childhood Vitamin D__
+**Vitamin D deficiency in pregnancy can cause rickets and long-term health issues for children.
+**Babies born in winter months (when mothers have less sun exposure) have higher risks of certain diseases (e.g., multiple sclerosis).
+*__(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)__
+**Chronic kidney disease and autoimmune conditions may be worsened or triggered by low vitamin D.
+**Cardiac disease (atherosclerosis, coronary artery disease) may involve chronic infection/inflammation, where vitamin D is crucial to immunity.
+**Type 2 diabetes correlates with low vitamin D, possibly due to effects on insulin resistance.
+*__(27:30–31:52) Case Histories: Abdul and Frank__
+**__Abdul:__ Arrived from Pakistan as a child; spent most life indoors in poor conditions. Developed kidney failure, TB, strokes, heart attacks, diabetes—all tied to poor immunity and vitamin D deficiency.
+**__Frank:__ Born in a deprived area, developed peptic ulcers, coronary artery disease, strokes, and peripheral vascular disease. Again, linked to chronic vitamin D deficiency and social deprivation.
+*__(40:48–46:32) Decline in Heart Disease &amp; Role of Infection__
+**Heart attacks peaked around 1970, then declined—possibly related to shifts in infection patterns and immunity.
+**Vitamin D deficiency undermines the body’s ability to fight chronic inflammatory/infective processes in arterial walls.
+*__(50:00–1:03:00) Public Health Implications__
+**Advocates routine vitamin D testing, especially in pregnancy: “No child should be born deficient.”
+**Highlights the importance of vitamin D for immunity against all infections (rather than specific vaccines alone).
+**Notes that individuals vary widely in how much vitamin D they need (body weight, skin color, sunlight exposure).
+*__(1:06:00–End) Conclusion and Next Steps__
+**Emphasizes vitamin D as “low-hanging fruit” for global health improvement.
+**Dr. Grimes plans to reissue/update his book in PDF form for wider distribution.
+**Encourages broader public health policies to ensure universal vitamin D adequacy and break cycles of preventable disease.
+---
+!!!!~~#F00:8+~~ VitaminDWiki pages have GRIMES in the title
+&#39;&#39;The list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;150&quot;}
+{filter field=&quot;title&quot; content=&quot;GRIMES&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!~~#F00:13+~~ VitaminDWiki pages have CAMPBELL in the title
+&#39;&#39;The list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;150&quot;}
+{filter field=&quot;title&quot; content=&quot;CAMPBELL&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+~tc~ (alias(Dr. Grimes and Dr. Campbell discuss Vitamin D (1 page summary) - Dec 2024)) ~/tc~
+~tc~ (alias(Drs. Grimes and Campbell and Vitamin D (summary and transcript) - Dec 2024)) ~/tc~
+</code>
+</pre>

@@ -1,0 +1,462 @@
+---
+title: "Electronic Health Records are starting  to be used by AI - several studies"
+slug: "electronic-health-records-are-starting-to-be-used-by-ai-several-studies"
+aliases:
+  - "/Electronic+Health+Records+are+starting+to+be+used+by+AI+-+several+studies"
+  - "/15769"
+tiki_page_id: 15769
+date: 2025-01-13
+---
+
+
+{{< toc >}}
+
+---
+
+#### VA is setting a standard for 13 EHR systems - 2023
+
+ **[Perplexity](https://www.perplexity.ai/search/how-compatible-are-electronic-lWR54sz_R5yrQlZku3pGWA)** 
+
+In 2023, thirteen major health systems, including Kaiser Permanente, signed the Veteran Interoperability Pledge to work toward sharing patient care data with the VA. This initiative aims to enable seamless and secure information exchange between their systems
+
+---
+
+#### Large Language Models as Co-Pilots for Causal Inference in Medical Studies - July 2024
+
+Cite as:	arXiv:2407.19118 <span>[cs.AI]</span>  [FREE PDF](https://doi.org/10.48550/arXiv.2407.19118)
+
+Ahmed Alaa, Rachael V. Phillips, Emre Kıcıman, Laura B. Balzer, Mark van der Laan, Maya Petersen
+
+The validity of medical studies based on real-world clinical data, such as observational studies, depends on critical assumptions necessary for drawing causal conclusions about medical interventions. Many published studies are flawed because they violate these assumptions and entail biases such as residual confounding, selection bias, and misalignment between treatment and measurement times. Although researchers are aware of these pitfalls, they continue to occur because anticipating and addressing them in the context of a specific study can be challenging without a large, often unwieldy, interdisciplinary team with extensive expertise. To address this expertise gap, we explore the use of large language models (LLMs) as co-pilot tools to assist researchers in identifying study design flaws that undermine the validity of causal inferences. We propose a conceptual framework for LLMs as causal co-pilots that encode domain knowledge across various fields, engaging with researchers in natural language interactions to provide contextualized assistance in study design. We provide illustrative examples of how LLMs can function as causal co-pilots, propose a structured framework for their grounding in existing causal inference frameworks, and highlight the unique challenges and opportunities in adapting LLMs for reliable use in epidemiological research.
+
+---
+
+#### Generative Large Language Models in Electronic Health Records for Patient Care Since 2023: A Systematic Review - Aug 2024
+
+medRxiv <span>[Preprint]</span>. 2024 Aug 19:2024.08.11.24311828. <span>[Version 2]</span> [doi: 10.1101/2024.08.11.24311828](https://doi.org/10.1101/2024.08.11.24311828) FREE PDF
+
+Xinsong Du 1,2,3, Zhengyang Zhou 4, Yifei Wang 4, Ya-Wen Chuang 5,6,7, Richard Yang 1,2, Wenyu Zhang 1,2,3, Xinyi Wang 1,2,3, Rui Zhang 8, Pengyu Hong 4, David W Bates 1,2,9, Li Zhou 1,2,3
+
+Background:
+
+Generative Large language models (LLMs) represent a significant advancement in natural language processing, achieving state-of-the-art performance across various tasks. However, their application in clinical settings using real electronic health records (EHRs) is still rare and presents numerous challenges.
+
+Objective:
+
+This study aims to systematically review the use of generative LLMs, and the effectiveness of relevant techniques in patient care-related topics involving EHRs, summarize the challenges faced, and suggest future directions.
+
+Methods:
+
+A Boolean search for peer-reviewed articles was conducted on May 19th, 2024 using PubMed and Web of Science to include research articles published since 2023, which was one month after the release of ChatGPT. The search results were deduplicated. Multiple reviewers, including biomedical informaticians, computer scientists, and a physician, screened the publications for eligibility and conducted data extraction. Only studies utilizing generative LLMs to analyze real EHR data were included. We summarized the use of prompt engineering, fine-tuning, multimodal EHR data, and evaluation matrices. Additionally, we identified current challenges in applying LLMs in clinical settings as reported by the included studies and proposed future directions.
+
+Results:
+
+The initial search identified 6,328 unique studies, with 76 studies included after eligibility screening. Of these, 
+
+* 67 studies (88.2%) employed zero-shot prompting,
+
+* five of them reported 100% accuracy on five specific clinical tasks. 
+
+* Nine studies used advanced prompting strategies; 
+
+* four tested these strategies experimentally, finding that prompt engineering improved performance, with one study noting a non-linear relationship between the number of examples in a prompt and performance improvement. *Eight studies explored fine-tuning generative LLMs, all reported performance improvements on specific tasks, but three of them noted potential performance degradation after fine-tuning on certain tasks. 
+
+* Only two studies utilized multimodal data, which improved LLM-based decision-making and enabled accurate rare disease diagnosis and prognosis. 
+
+The studies employed 55 different evaluation metrics for 22 purposes, such as correctness, completeness, and conciseness. Two studies investigated LLM bias, with one detecting no bias and the other finding that male patients received more appropriate clinical decision-making suggestions. Six studies identified hallucinations, such as fabricating patient names in structured thyroid ultrasound reports. Additional challenges included but were not limited to the impersonal tone of LLM consultations, which made patients uncomfortable, and the difficulty patients had in understanding LLM responses.
+
+Conclusion:
+
+Our review indicates that few studies have employed advanced computational techniques to enhance LLM performance. The diverse evaluation metrics used highlight the need for standardization. LLMs currently cannot replace physicians due to challenges such as bias, hallucinations, and impersonal responses.
+
+---
+
+#### Tech firms can mine UK NHS archives in bid to fuel AI revolution - Jan 2025
+
+ **[The Times](https://www.thetimes.com/article/8a10f7fb-b35b-4769-bc3d-f981e4bfbefd?shareToken=560028c20158918a6e35bd64e61cc6b5&utm_source=substack&utm_medium=email)** 
+
+* "Ministers are preparing to open up the UK’s vast store of NHS health data to big tech companies in an effort to put Britain at the heart of the global AI revolution."
+
+<!-- ~tc~ (alias(Electronic Health Records - review of 2100 stures and prediction of the future - Jan 2025)) ~/tc~ -->
+
+<!-- ~tc~ (alias(Electronic Health Records - review of 2102 studies and prediction of the future - Jan 2025)) ~/tc~ -->
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### VA is setting a standard for 13 EHR systems - 2023
+
+ **[Perplexity](https://www.perplexity.ai/search/how-compatible-are-electronic-lWR54sz_R5yrQlZku3pGWA)** 
+
+In 2023, thirteen major health systems, including Kaiser Permanente, signed the Veteran Interoperability Pledge to work toward sharing patient care data with the VA. This initiative aims to enable seamless and secure information exchange between their systems
+
+---
+
+#### Large Language Models as Co-Pilots for Causal Inference in Medical Studies - July 2024
+
+Cite as:	arXiv:2407.19118 &lt;span&gt;[cs.AI]&lt;/span&gt;  [FREE PDF](https://doi.org/10.48550/arXiv.2407.19118)
+
+Ahmed Alaa, Rachael V. Phillips, Emre Kıcıman, Laura B. Balzer, Mark van der Laan, Maya Petersen
+
+The validity of medical studies based on real-world clinical data, such as observational studies, depends on critical assumptions necessary for drawing causal conclusions about medical interventions. Many published studies are flawed because they violate these assumptions and entail biases such as residual confounding, selection bias, and misalignment between treatment and measurement times. Although researchers are aware of these pitfalls, they continue to occur because anticipating and addressing them in the context of a specific study can be challenging without a large, often unwieldy, interdisciplinary team with extensive expertise. To address this expertise gap, we explore the use of large language models (LLMs) as co-pilot tools to assist researchers in identifying study design flaws that undermine the validity of causal inferences. We propose a conceptual framework for LLMs as causal co-pilots that encode domain knowledge across various fields, engaging with researchers in natural language interactions to provide contextualized assistance in study design. We provide illustrative examples of how LLMs can function as causal co-pilots, propose a structured framework for their grounding in existing causal inference frameworks, and highlight the unique challenges and opportunities in adapting LLMs for reliable use in epidemiological research.
+
+---
+
+#### Generative Large Language Models in Electronic Health Records for Patient Care Since 2023: A Systematic Review - Aug 2024
+
+medRxiv &lt;span&gt;[Preprint]&lt;/span&gt;. 2024 Aug 19:2024.08.11.24311828. &lt;span&gt;[Version 2]&lt;/span&gt; [doi: 10.1101/2024.08.11.24311828](https://doi.org/10.1101/2024.08.11.24311828) FREE PDF
+
+Xinsong Du 1,2,3, Zhengyang Zhou 4, Yifei Wang 4, Ya-Wen Chuang 5,6,7, Richard Yang 1,2, Wenyu Zhang 1,2,3, Xinyi Wang 1,2,3, Rui Zhang 8, Pengyu Hong 4, David W Bates 1,2,9, Li Zhou 1,2,3
+
+Background:
+
+Generative Large language models (LLMs) represent a significant advancement in natural language processing, achieving state-of-the-art performance across various tasks. However, their application in clinical settings using real electronic health records (EHRs) is still rare and presents numerous challenges.
+
+Objective:
+
+This study aims to systematically review the use of generative LLMs, and the effectiveness of relevant techniques in patient care-related topics involving EHRs, summarize the challenges faced, and suggest future directions.
+
+Methods:
+
+A Boolean search for peer-reviewed articles was conducted on May 19th, 2024 using PubMed and Web of Science to include research articles published since 2023, which was one month after the release of ChatGPT. The search results were deduplicated. Multiple reviewers, including biomedical informaticians, computer scientists, and a physician, screened the publications for eligibility and conducted data extraction. Only studies utilizing generative LLMs to analyze real EHR data were included. We summarized the use of prompt engineering, fine-tuning, multimodal EHR data, and evaluation matrices. Additionally, we identified current challenges in applying LLMs in clinical settings as reported by the included studies and proposed future directions.
+
+Results:
+
+The initial search identified 6,328 unique studies, with 76 studies included after eligibility screening. Of these, 
+
+* 67 studies (88.2%) employed zero-shot prompting,
+
+* five of them reported 100% accuracy on five specific clinical tasks. 
+
+* Nine studies used advanced prompting strategies; 
+
+* four tested these strategies experimentally, finding that prompt engineering improved performance, with one study noting a non-linear relationship between the number of examples in a prompt and performance improvement. *Eight studies explored fine-tuning generative LLMs, all reported performance improvements on specific tasks, but three of them noted potential performance degradation after fine-tuning on certain tasks. 
+
+* Only two studies utilized multimodal data, which improved LLM-based decision-making and enabled accurate rare disease diagnosis and prognosis. 
+
+The studies employed 55 different evaluation metrics for 22 purposes, such as correctness, completeness, and conciseness. Two studies investigated LLM bias, with one detecting no bias and the other finding that male patients received more appropriate clinical decision-making suggestions. Six studies identified hallucinations, such as fabricating patient names in structured thyroid ultrasound reports. Additional challenges included but were not limited to the impersonal tone of LLM consultations, which made patients uncomfortable, and the difficulty patients had in understanding LLM responses.
+
+Conclusion:
+
+Our review indicates that few studies have employed advanced computational techniques to enhance LLM performance. The diverse evaluation metrics used highlight the need for standardization. LLMs currently cannot replace physicians due to challenges such as bias, hallucinations, and impersonal responses.
+
+---
+
+#### Tech firms can mine UK NHS archives in bid to fuel AI revolution - Jan 2025
+
+ **[The Times](https://www.thetimes.com/article/8a10f7fb-b35b-4769-bc3d-f981e4bfbefd?shareToken=560028c20158918a6e35bd64e61cc6b5&amp;utm_source=substack&amp;utm_medium=email)** 
+
+* &quot;Ministers are preparing to open up the UK’s vast store of NHS health data to big tech companies in an effort to put Britain at the heart of the global AI revolution.&quot;
+
+&lt;!-- ~tc~ (alias(Electronic Health Records - review of 2100 stures and prediction of the future - Jan 2025)) ~/tc~ --&gt;
+
+&lt;!-- ~tc~ (alias(Electronic Health Records - review of 2102 studies and prediction of the future - Jan 2025)) ~/tc~ --&gt;
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Twenty-Five Years of Evolution and Hurdles in Electronic Health Records and Interoperability in Medical Research: Comprehensive Review`
+│   inner_content: `Twenty-Five Years of Evolution and Hurdles in Electronic Health Records and Interoperability in Medical Research: Comprehensive Review`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Twenty-Five Years of Evolution and Hurdles in Electronic Health Records and Interoperability in Medical Research: Comprehensive Review`
+│   │   inner_content: `Twenty-Five Years of Evolution and Hurdles in Electronic Health Records and Interoperability in Medical Research: Comprehensive Review`├── TextNode
+│   full_match: `\nJ Med Internet Res 2025 doi:10.2196/59024\nYun Shen1 ;  Jiamin Yu2;  Jian Zhou2  ;  Gang Hu1\n\n`
+│   inner_content: `\nJ Med Internet Res 2025 doi:10.2196/59024\nYun Shen1 ;  Jiamin Yu2;  Jian Zhou2  ;  Gang Hu1\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22175&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22175&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 22175
+│   │   width: 600├── TextNode
+│   full_match: `\nBackground:\nElectronic health records (EHRs) facilitate the accessibility and sharing of patient data among various health care providers, contributing to more coordinated and efficient care.\n\nObjective:\nThis study aimed to summarize the evolution of secondary use of EHRs and their interoperability in medical research over the past 25 years.\n\nMethods:\nWe conducted an extensive literature search in the PubMed, Scopus, and Web of Science databases using the keywords Electronic health record and Electronic medical record in the title or abstract and Medical research in all fields from 2000 to 2024. Specific terms were applied to different time periods.\n\nResults:\nThe review yielded 2212 studies, all of which were then screened and processed in a structured manner. Of these 2212 studies, 2102 (93.03%) were included in the review analysis, of which 1079 (51.33%) studies were from 2000 to 2009, 582 (27.69%) were from 2010 to 2019, 251 (11.94%) were from 2020 to 2023, and 190 (9.04%) were from 2024.\n\nConclusions:\nThe evolution of EHRs marks an important milestone in health care’s journey toward integrating technology and medicine. From early documentation practices to the sophisticated use of artificial intelligence and big data analytics today, EHRs have become central to improving patient care, enhancing public health surveillance, and advancing medical research.\n`
+│   inner_content: `\nBackground:\nElectronic health records (EHRs) facilitate the accessibility and sharing of patient data among various health care providers, contributing to more coordinated and efficient care.\n\nObjective:\nThis study aimed to summarize the evolution of secondary use of EHRs and their interoperability in medical research over the past 25 years.\n\nMethods:\nWe conducted an extensive literature search in the PubMed, Scopus, and Web of Science databases using the keywords Electronic health record and Electronic medical record in the title or abstract and Medical research in all fields from 2000 to 2024. Specific terms were applied to different time periods.\n\nResults:\nThe review yielded 2212 studies, all of which were then screened and processed in a structured manner. Of these 2212 studies, 2102 (93.03%) were included in the review analysis, of which 1079 (51.33%) studies were from 2000 to 2009, 582 (27.69%) were from 2010 to 2019, 251 (11.94%) were from 2020 to 2023, and 190 (9.04%) were from 2024.\n\nConclusions:\nThe evolution of EHRs marks an important milestone in health care’s journey toward integrating technology and medicine. From early documentation practices to the sophisticated use of artificial intelligence and big data analytics today, EHRs have become central to improving patient care, enhancing public health surveillance, and advancing medical research.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22174&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22174&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22174&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22174&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22174&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22174&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22174
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VA is setting a standard for 13 EHR systems - 2023`
+│   inner_content: `VA is setting a standard for 13 EHR systems - 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VA is setting a standard for 13 EHR systems - 2023`
+│   │   inner_content: `VA is setting a standard for 13 EHR systems - 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.perplexity.ai/search/how-compatible-are-electronic-lWR54sz_R5yrQlZku3pGWA|Perplexity]__`
+│   inner_content: `[https://www.perplexity.ai/search/how-compatible-are-electronic-lWR54sz_R5yrQlZku3pGWA|Perplexity]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/how-compatible-are-electronic-lWR54sz_R5yrQlZku3pGWA|Perplexity]`
+│   │   inner_content: `Perplexity`
+│   │   url: `https://www.perplexity.ai/search/how-compatible-are-electronic-lWR54sz_R5yrQlZku3pGWA`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity`
+│   │   │   inner_content: `Perplexity`├── TextNode
+│   full_match: `\nIn 2023, thirteen major health systems, including Kaiser Permanente, signed the Veteran Interoperability Pledge to work toward sharing patient care data with the VA. This initiative aims to enable seamless and secure information exchange between their systems`
+│   inner_content: `\nIn 2023, thirteen major health systems, including Kaiser Permanente, signed the Veteran Interoperability Pledge to work toward sharing patient care data with the VA. This initiative aims to enable seamless and secure information exchange between their systems`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Large Language Models as Co-Pilots for Causal Inference in Medical Studies - July 2024`
+│   inner_content: `Large Language Models as Co-Pilots for Causal Inference in Medical Studies - July 2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Large Language Models as Co-Pilots for Causal Inference in Medical Studies - July 2024`
+│   │   inner_content: `Large Language Models as Co-Pilots for Causal Inference in Medical Studies - July 2024`├── TextNode
+│   full_match: `\nCite as:\tarXiv:2407.19118 `
+│   inner_content: `\nCite as:\tarXiv:2407.19118 `├── LinkNode
+│   full_match: `[cs.AI]`
+│   inner_content: `cs.AI`
+│   url: `cs.AI`
+│   children:
+│   ├── TextNode
+│   │   full_match: `cs.AI`
+│   │   inner_content: `cs.AI`├── TextNode
+│   full_match: `  `
+│   inner_content: `  `├── LinkNode
+│   full_match: `[https://doi.org/10.48550/arXiv.2407.19118|FREE PDF]`
+│   inner_content: `FREE PDF`
+│   url: `https://doi.org/10.48550/arXiv.2407.19118`
+│   children:
+│   ├── TextNode
+│   │   full_match: `FREE PDF`
+│   │   inner_content: `FREE PDF`├── TextNode
+│   full_match: `\nAhmed Alaa, Rachael V. Phillips, Emre Kıcıman, Laura B. Balzer, Mark van der Laan, Maya Petersen\n\nThe validity of medical studies based on real-world clinical data, such as observational studies, depends on critical assumptions necessary for drawing causal conclusions about medical interventions. Many published studies are flawed because they violate these assumptions and entail biases such as residual confounding, selection bias, and misalignment between treatment and measurement times. Although researchers are aware of these pitfalls, they continue to occur because anticipating and addressing them in the context of a specific study can be challenging without a large, often unwieldy, interdisciplinary team with extensive expertise. To address this expertise gap, we explore the use of large language models (LLMs) as co-pilot tools to assist researchers in identifying study design flaws that undermine the validity of causal inferences. We propose a conceptual framework for LLMs as causal co-pilots that encode domain knowledge across various fields, engaging with researchers in natural language interactions to provide contextualized assistance in study design. We provide illustrative examples of how LLMs can function as causal co-pilots, propose a structured framework for their grounding in existing causal inference frameworks, and highlight the unique challenges and opportunities in adapting LLMs for reliable use in epidemiological research.`
+│   inner_content: `\nAhmed Alaa, Rachael V. Phillips, Emre Kıcıman, Laura B. Balzer, Mark van der Laan, Maya Petersen\n\nThe validity of medical studies based on real-world clinical data, such as observational studies, depends on critical assumptions necessary for drawing causal conclusions about medical interventions. Many published studies are flawed because they violate these assumptions and entail biases such as residual confounding, selection bias, and misalignment between treatment and measurement times. Although researchers are aware of these pitfalls, they continue to occur because anticipating and addressing them in the context of a specific study can be challenging without a large, often unwieldy, interdisciplinary team with extensive expertise. To address this expertise gap, we explore the use of large language models (LLMs) as co-pilot tools to assist researchers in identifying study design flaws that undermine the validity of causal inferences. We propose a conceptual framework for LLMs as causal co-pilots that encode domain knowledge across various fields, engaging with researchers in natural language interactions to provide contextualized assistance in study design. We provide illustrative examples of how LLMs can function as causal co-pilots, propose a structured framework for their grounding in existing causal inference frameworks, and highlight the unique challenges and opportunities in adapting LLMs for reliable use in epidemiological research.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Generative Large Language Models in Electronic Health Records for Patient Care Since 2023: A Systematic Review - Aug 2024`
+│   inner_content: `Generative Large Language Models in Electronic Health Records for Patient Care Since 2023: A Systematic Review - Aug 2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Generative Large Language Models in Electronic Health Records for Patient Care Since 2023: A Systematic Review - Aug 2024`
+│   │   inner_content: `Generative Large Language Models in Electronic Health Records for Patient Care Since 2023: A Systematic Review - Aug 2024`├── TextNode
+│   full_match: `\nmedRxiv `
+│   inner_content: `\nmedRxiv `├── LinkNode
+│   full_match: `[Preprint]`
+│   inner_content: `Preprint`
+│   url: `Preprint`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Preprint`
+│   │   inner_content: `Preprint`├── TextNode
+│   full_match: `. 2024 Aug 19:2024.08.11.24311828. `
+│   inner_content: `. 2024 Aug 19:2024.08.11.24311828. `├── LinkNode
+│   full_match: `[Version 2]`
+│   inner_content: `Version 2`
+│   url: `Version 2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Version 2`
+│   │   inner_content: `Version 2`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── DoiLinkNode
+│   full_match: `doi: 10.1101/2024.08.11.24311828`
+│   inner_content: `10.1101/2024.08.11.24311828`├── TextNode
+│   full_match: ` FREE PDF\nXinsong Du 1,2,3, Zhengyang Zhou 4, Yifei Wang 4, Ya-Wen Chuang 5,6,7, Richard Yang 1,2, Wenyu Zhang 1,2,3, Xinyi Wang 1,2,3, Rui Zhang 8, Pengyu Hong 4, David W Bates 1,2,9, Li Zhou 1,2,3\n\nBackground:\nGenerative Large language models (LLMs) represent a significant advancement in natural language processing, achieving state-of-the-art performance across various tasks. However, their application in clinical settings using real electronic health records (EHRs) is still rare and presents numerous challenges.\n\nObjective:\nThis study aims to systematically review the use of generative LLMs, and the effectiveness of relevant techniques in patient care-related topics involving EHRs, summarize the challenges faced, and suggest future directions.\n\nMethods:\nA Boolean search for peer-reviewed articles was conducted on May 19th, 2024 using PubMed and Web of Science to include research articles published since 2023, which was one month after the release of ChatGPT. The search results were deduplicated. Multiple reviewers, including biomedical informaticians, computer scientists, and a physician, screened the publications for eligibility and conducted data extraction. Only studies utilizing generative LLMs to analyze real EHR data were included. We summarized the use of prompt engineering, fine-tuning, multimodal EHR data, and evaluation matrices. Additionally, we identified current challenges in applying LLMs in clinical settings as reported by the included studies and proposed future directions.\n\nResults:\nThe initial search identified 6,328 unique studies, with 76 studies included after eligibility screening. Of these, \n`
+│   inner_content: ` FREE PDF\nXinsong Du 1,2,3, Zhengyang Zhou 4, Yifei Wang 4, Ya-Wen Chuang 5,6,7, Richard Yang 1,2, Wenyu Zhang 1,2,3, Xinyi Wang 1,2,3, Rui Zhang 8, Pengyu Hong 4, David W Bates 1,2,9, Li Zhou 1,2,3\n\nBackground:\nGenerative Large language models (LLMs) represent a significant advancement in natural language processing, achieving state-of-the-art performance across various tasks. However, their application in clinical settings using real electronic health records (EHRs) is still rare and presents numerous challenges.\n\nObjective:\nThis study aims to systematically review the use of generative LLMs, and the effectiveness of relevant techniques in patient care-related topics involving EHRs, summarize the challenges faced, and suggest future directions.\n\nMethods:\nA Boolean search for peer-reviewed articles was conducted on May 19th, 2024 using PubMed and Web of Science to include research articles published since 2023, which was one month after the release of ChatGPT. The search results were deduplicated. Multiple reviewers, including biomedical informaticians, computer scientists, and a physician, screened the publications for eligibility and conducted data extraction. Only studies utilizing generative LLMs to analyze real EHR data were included. We summarized the use of prompt engineering, fine-tuning, multimodal EHR data, and evaluation matrices. Additionally, we identified current challenges in applying LLMs in clinical settings as reported by the included studies and proposed future directions.\n\nResults:\nThe initial search identified 6,328 unique studies, with 76 studies included after eligibility screening. Of these, \n`├── ListItemNode
+│   full_match: `*67 studies (88.2%) employed zero-shot prompting,`
+│   inner_content: `67 studies (88.2%) employed zero-shot prompting,`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `67 studies (88.2%) employed zero-shot prompting,`
+│   │   inner_content: `67 studies (88.2%) employed zero-shot prompting,`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `* five of them reported 100% accuracy on five specific clinical tasks. `
+│   inner_content: ` five of them reported 100% accuracy on five specific clinical tasks. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `five of them reported 100% accuracy on five specific clinical tasks. `
+│   │   inner_content: `five of them reported 100% accuracy on five specific clinical tasks. `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Nine studies used advanced prompting strategies; `
+│   inner_content: `Nine studies used advanced prompting strategies; `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Nine studies used advanced prompting strategies; `
+│   │   inner_content: `Nine studies used advanced prompting strategies; `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*four tested these strategies experimentally, finding that prompt engineering improved performance, with one study noting a non-linear relationship between the number of examples in a prompt and performance improvement. *Eight studies explored fine-tuning generative LLMs, all reported performance improvements on specific tasks, but three of them noted potential performance degradation after fine-tuning on certain tasks. `
+│   inner_content: `four tested these strategies experimentally, finding that prompt engineering improved performance, with one study noting a non-linear relationship between the number of examples in a prompt and performance improvement. *Eight studies explored fine-tuning generative LLMs, all reported performance improvements on specific tasks, but three of them noted potential performance degradation after fine-tuning on certain tasks. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `four tested these strategies experimentally, finding that prompt engineering improved performance, with one study noting a non-linear relationship between the number of examples in a prompt and performance improvement. *Eight studies explored fine-tuning generative LLMs, all reported performance improvements on specific tasks, but three of them noted potential performance degradation after fine-tuning on certain tasks. `
+│   │   inner_content: `four tested these strategies experimentally, finding that prompt engineering improved performance, with one study noting a non-linear relationship between the number of examples in a prompt and performance improvement. *Eight studies explored fine-tuning generative LLMs, all reported performance improvements on specific tasks, but three of them noted potential performance degradation after fine-tuning on certain tasks. `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Only two studies utilized multimodal data, which improved LLM-based decision-making and enabled accurate rare disease diagnosis and prognosis. `
+│   inner_content: `Only two studies utilized multimodal data, which improved LLM-based decision-making and enabled accurate rare disease diagnosis and prognosis. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Only two studies utilized multimodal data, which improved LLM-based decision-making and enabled accurate rare disease diagnosis and prognosis. `
+│   │   inner_content: `Only two studies utilized multimodal data, which improved LLM-based decision-making and enabled accurate rare disease diagnosis and prognosis. `├── TextNode
+│   full_match: `\nThe studies employed 55 different evaluation metrics for 22 purposes, such as correctness, completeness, and conciseness. Two studies investigated LLM bias, with one detecting no bias and the other finding that male patients received more appropriate clinical decision-making suggestions. Six studies identified hallucinations, such as fabricating patient names in structured thyroid ultrasound reports. Additional challenges included but were not limited to the impersonal tone of LLM consultations, which made patients uncomfortable, and the difficulty patients had in understanding LLM responses.\n\nConclusion:\nOur review indicates that few studies have employed advanced computational techniques to enhance LLM performance. The diverse evaluation metrics used highlight the need for standardization. LLMs currently cannot replace physicians due to challenges such as bias, hallucinations, and impersonal responses.`
+│   inner_content: `\nThe studies employed 55 different evaluation metrics for 22 purposes, such as correctness, completeness, and conciseness. Two studies investigated LLM bias, with one detecting no bias and the other finding that male patients received more appropriate clinical decision-making suggestions. Six studies identified hallucinations, such as fabricating patient names in structured thyroid ultrasound reports. Additional challenges included but were not limited to the impersonal tone of LLM consultations, which made patients uncomfortable, and the difficulty patients had in understanding LLM responses.\n\nConclusion:\nOur review indicates that few studies have employed advanced computational techniques to enhance LLM performance. The diverse evaluation metrics used highlight the need for standardization. LLMs currently cannot replace physicians due to challenges such as bias, hallucinations, and impersonal responses.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Tech firms can mine UK NHS archives in bid to fuel AI revolution - Jan 2025`
+│   inner_content: `Tech firms can mine UK NHS archives in bid to fuel AI revolution - Jan 2025`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tech firms can mine UK NHS archives in bid to fuel AI revolution - Jan 2025`
+│   │   inner_content: `Tech firms can mine UK NHS archives in bid to fuel AI revolution - Jan 2025`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.thetimes.com/article/8a10f7fb-b35b-4769-bc3d-f981e4bfbefd?shareToken=560028c20158918a6e35bd64e61cc6b5&amp;utm_source=substack&amp;utm_medium=email|The Times]__`
+│   inner_content: `[https://www.thetimes.com/article/8a10f7fb-b35b-4769-bc3d-f981e4bfbefd?shareToken=560028c20158918a6e35bd64e61cc6b5&amp;utm_source=substack&amp;utm_medium=email|The Times]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.thetimes.com/article/8a10f7fb-b35b-4769-bc3d-f981e4bfbefd?shareToken=560028c20158918a6e35bd64e61cc6b5&amp;utm_source=substack&amp;utm_medium=email|The Times]`
+│   │   inner_content: `The Times`
+│   │   url: `https://www.thetimes.com/article/8a10f7fb-b35b-4769-bc3d-f981e4bfbefd?shareToken=560028c20158918a6e35bd64e61cc6b5&amp;utm_source=substack&amp;utm_medium=email`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `The Times`
+│   │   │   inner_content: `The Times`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*&quot;Ministers are preparing to open up the UK’s vast store of NHS health data to big tech companies in an effort to put Britain at the heart of the global AI revolution.&quot;`
+│   inner_content: `&quot;Ministers are preparing to open up the UK’s vast store of NHS health data to big tech companies in an effort to put Britain at the heart of the global AI revolution.&quot;`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;Ministers are preparing to open up the UK’s vast store of NHS health data to big tech companies in an effort to put Britain at the heart of the global AI revolution.&quot;`
+│   │   inner_content: `&quot;Ministers are preparing to open up the UK’s vast store of NHS health data to big tech companies in an effort to put Britain at the heart of the global AI revolution.&quot;`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Electronic Health Records - review of 2100 stures and prediction of the future - Jan 2025)) ~/tc~`
+│   inner_content: ` (alias(Electronic Health Records - review of 2100 stures and prediction of the future - Jan 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Electronic Health Records - review of 2100 stures and prediction of the future - Jan 2025)) `
+│   │   inner_content: `(alias(Electronic Health Records - review of 2100 stures and prediction of the future - Jan 2025)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Electronic Health Records - review of 2102 studies and prediction of the future - Jan 2025)) ~/tc~`
+│   inner_content: ` (alias(Electronic Health Records - review of 2102 studies and prediction of the future - Jan 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Electronic Health Records - review of 2102 studies and prediction of the future - Jan 2025)) `
+│   │   inner_content: `(alias(Electronic Health Records - review of 2102 studies and prediction of the future - Jan 2025)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Twenty-Five Years of Evolution and Hurdles in Electronic Health Records and Interoperability in Medical Research: Comprehensive Review
+J Med Internet Res 2025 doi:10.2196/59024
+Yun Shen1 ;  Jiamin Yu2;  Jian Zhou2  ;  Gang Hu1
+
+{img type=&quot;attId&quot; attId=&quot;22175&quot; width=&quot;600&quot;}
+Background:
+Electronic health records (EHRs) facilitate the accessibility and sharing of patient data among various health care providers, contributing to more coordinated and efficient care.
+
+Objective:
+This study aimed to summarize the evolution of secondary use of EHRs and their interoperability in medical research over the past 25 years.
+
+Methods:
+We conducted an extensive literature search in the PubMed, Scopus, and Web of Science databases using the keywords Electronic health record and Electronic medical record in the title or abstract and Medical research in all fields from 2000 to 2024. Specific terms were applied to different time periods.
+
+Results:
+The review yielded 2212 studies, all of which were then screened and processed in a structured manner. Of these 2212 studies, 2102 (93.03%) were included in the review analysis, of which 1079 (51.33%) studies were from 2000 to 2009, 582 (27.69%) were from 2010 to 2019, 251 (11.94%) were from 2020 to 2023, and 190 (9.04%) were from 2024.
+
+Conclusions:
+The evolution of EHRs marks an important milestone in health care’s journey toward integrating technology and medicine. From early documentation practices to the sophisticated use of artificial intelligence and big data analytics today, EHRs have become central to improving patient care, enhancing public health surveillance, and advancing medical research.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22174&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VA is setting a standard for 13 EHR systems - 2023
+__[https://www.perplexity.ai/search/how-compatible-are-electronic-lWR54sz_R5yrQlZku3pGWA|Perplexity]__
+In 2023, thirteen major health systems, including Kaiser Permanente, signed the Veteran Interoperability Pledge to work toward sharing patient care data with the VA. This initiative aims to enable seamless and secure information exchange between their systems
+---
+!!!!Large Language Models as Co-Pilots for Causal Inference in Medical Studies - July 2024
+Cite as:	arXiv:2407.19118 [cs.AI]  [https://doi.org/10.48550/arXiv.2407.19118|FREE PDF]
+Ahmed Alaa, Rachael V. Phillips, Emre Kıcıman, Laura B. Balzer, Mark van der Laan, Maya Petersen
+
+The validity of medical studies based on real-world clinical data, such as observational studies, depends on critical assumptions necessary for drawing causal conclusions about medical interventions. Many published studies are flawed because they violate these assumptions and entail biases such as residual confounding, selection bias, and misalignment between treatment and measurement times. Although researchers are aware of these pitfalls, they continue to occur because anticipating and addressing them in the context of a specific study can be challenging without a large, often unwieldy, interdisciplinary team with extensive expertise. To address this expertise gap, we explore the use of large language models (LLMs) as co-pilot tools to assist researchers in identifying study design flaws that undermine the validity of causal inferences. We propose a conceptual framework for LLMs as causal co-pilots that encode domain knowledge across various fields, engaging with researchers in natural language interactions to provide contextualized assistance in study design. We provide illustrative examples of how LLMs can function as causal co-pilots, propose a structured framework for their grounding in existing causal inference frameworks, and highlight the unique challenges and opportunities in adapting LLMs for reliable use in epidemiological research.
+---
+!!!!Generative Large Language Models in Electronic Health Records for Patient Care Since 2023: A Systematic Review - Aug 2024
+medRxiv [Preprint]. 2024 Aug 19:2024.08.11.24311828. [Version 2] doi: 10.1101/2024.08.11.24311828 FREE PDF
+Xinsong Du 1,2,3, Zhengyang Zhou 4, Yifei Wang 4, Ya-Wen Chuang 5,6,7, Richard Yang 1,2, Wenyu Zhang 1,2,3, Xinyi Wang 1,2,3, Rui Zhang 8, Pengyu Hong 4, David W Bates 1,2,9, Li Zhou 1,2,3
+
+Background:
+Generative Large language models (LLMs) represent a significant advancement in natural language processing, achieving state-of-the-art performance across various tasks. However, their application in clinical settings using real electronic health records (EHRs) is still rare and presents numerous challenges.
+
+Objective:
+This study aims to systematically review the use of generative LLMs, and the effectiveness of relevant techniques in patient care-related topics involving EHRs, summarize the challenges faced, and suggest future directions.
+
+Methods:
+A Boolean search for peer-reviewed articles was conducted on May 19th, 2024 using PubMed and Web of Science to include research articles published since 2023, which was one month after the release of ChatGPT. The search results were deduplicated. Multiple reviewers, including biomedical informaticians, computer scientists, and a physician, screened the publications for eligibility and conducted data extraction. Only studies utilizing generative LLMs to analyze real EHR data were included. We summarized the use of prompt engineering, fine-tuning, multimodal EHR data, and evaluation matrices. Additionally, we identified current challenges in applying LLMs in clinical settings as reported by the included studies and proposed future directions.
+
+Results:
+The initial search identified 6,328 unique studies, with 76 studies included after eligibility screening. Of these, 
+*67 studies (88.2%) employed zero-shot prompting,
+* five of them reported 100% accuracy on five specific clinical tasks. 
+*Nine studies used advanced prompting strategies; 
+*four tested these strategies experimentally, finding that prompt engineering improved performance, with one study noting a non-linear relationship between the number of examples in a prompt and performance improvement. *Eight studies explored fine-tuning generative LLMs, all reported performance improvements on specific tasks, but three of them noted potential performance degradation after fine-tuning on certain tasks. 
+*Only two studies utilized multimodal data, which improved LLM-based decision-making and enabled accurate rare disease diagnosis and prognosis. 
+The studies employed 55 different evaluation metrics for 22 purposes, such as correctness, completeness, and conciseness. Two studies investigated LLM bias, with one detecting no bias and the other finding that male patients received more appropriate clinical decision-making suggestions. Six studies identified hallucinations, such as fabricating patient names in structured thyroid ultrasound reports. Additional challenges included but were not limited to the impersonal tone of LLM consultations, which made patients uncomfortable, and the difficulty patients had in understanding LLM responses.
+
+Conclusion:
+Our review indicates that few studies have employed advanced computational techniques to enhance LLM performance. The diverse evaluation metrics used highlight the need for standardization. LLMs currently cannot replace physicians due to challenges such as bias, hallucinations, and impersonal responses.
+---
+!!!!Tech firms can mine UK NHS archives in bid to fuel AI revolution - Jan 2025
+__[https://www.thetimes.com/article/8a10f7fb-b35b-4769-bc3d-f981e4bfbefd?shareToken=560028c20158918a6e35bd64e61cc6b5&amp;utm_source=substack&amp;utm_medium=email|The Times]__
+*&quot;Ministers are preparing to open up the UK’s vast store of NHS health data to big tech companies in an effort to put Britain at the heart of the global AI revolution.&quot;
+~tc~ (alias(Electronic Health Records - review of 2100 stures and prediction of the future - Jan 2025)) ~/tc~
+~tc~ (alias(Electronic Health Records - review of 2102 studies and prediction of the future - Jan 2025)) ~/tc~
+</code>
+</pre>

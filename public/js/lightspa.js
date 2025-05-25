@@ -145,6 +145,11 @@ class LightSPA {
         }
 
         console.log('Navigating to:', url, 'pushState:', pushState, 'currentIndex:', this.currentIndex);
+        
+        // Extract hash fragment if present
+        const urlObj = new URL(url);
+        const hash = urlObj.hash;
+        
         try {
             // Show loading state
             this.mainContent.style.opacity = '0.5';
@@ -194,7 +199,11 @@ class LightSPA {
                 };
                 console.log('Pushing new state:', state);
                 history.pushState(state, document.title, url);
-                window.scrollTo(0, 0); // Scroll to top for new pages
+                
+                // Only scroll to top if there's no hash
+                if (!hash) {
+                    window.scrollTo(0, 0); // Scroll to top for new pages
+                }
             }
 
             // Restore opacity
@@ -202,6 +211,20 @@ class LightSPA {
 
             // Re-initialize only our SPA event listeners
             this.initializeEventListeners();
+            
+            // Handle hash navigation after content is loaded
+            if (hash) {
+                // Try to find the element with the ID from the hash
+                const hashElement = document.getElementById(hash.substring(1));
+                if (hashElement) {
+                    // Use a slight delay to ensure content is fully rendered
+                    setTimeout(() => {
+                        hashElement.scrollIntoView({ behavior: 'smooth' });
+                    }, 100);
+                } else {
+                    console.warn(`Element with ID ${hash.substring(1)} not found`);
+                }
+            }
 
             // Dispatch a custom event for content update
             const event = new CustomEvent('spaContentUpdated', {

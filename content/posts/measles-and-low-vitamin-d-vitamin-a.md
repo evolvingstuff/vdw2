@@ -1,0 +1,1390 @@
+---
+title: "Measles and low Vitamin D, Vitamin A"
+slug: "measles-and-low-vitamin-d-vitamin-a"
+aliases:
+  - "/Measles+and+low+Vitamin+D+Vitamin+A"
+  - "/15671"
+tiki_page_id: 15671
+date: 2024-11-16
+---
+
+
+
+
+1. Vitamin D improves measles vaccine effectiveness
+
+1. Vitamin D reduces number of children with measles going to hospitals
+
+> Note: Need a Vitamin D loading dose to get the benefit unless start many months before
+
+{{< toc >}}
+
+---
+
+#### Asked [Perplexity AI](https://www.perplexity.ai/search/does-measles-has-any-assocatio-R7RVDRmdTeWtU8ZE1uAOvQ): Does Measles has any assocation with low vitamin D?
+
+Based on the search results, there are significant associations between vitamin D levels and measles, particularly regarding antibody responses and disease severity:
+
+ **Vitamin D and Measles Antibody Relationship** 
+
+A comprehensive study using data from the National Health and Nutrition Examination Survey (NHANES) revealed an inverse relationship between vitamin D levels and measles antibody titers. Participants with higher measles antibody titers showed significantly lower levels of 25-hydroxyvitamin D, with approximately an 8.18% decrease in vitamin D levels compared to those with lower antibody titers   [1](https://pubmed.ncbi.nlm.nih.gov/30500845/)
+
+ **Maternal-Child Vitamin D Impact** 
+
+Research has shown that vitamin D plays a crucial role in immune responses through vitamin D receptors (VDR) expressed on immune cells. A study of mother-child pairs demonstrated:
+
+* Strong correlation between maternal vitamin D levels and infants' anti-measles virus antibody responses (r2=0.71)  [2](https://repository.maseno.ac.ke/handle/123456789/834)
+
+* Varying vitamin D status among pregnant women and infants, with some showing deficiency (<25nmol/L) and insufficiency (<50nmol/L)   [2](https://repository.maseno.ac.ke/handle/123456789/834)
+
+ **Nutritional Status and Antibody Response** 
+
+Multiple micronutrients, including vitamin D, have been found to influence measles antibody responses. Deficiencies in vitamin D, along with vitamins A and B12, and iron, were associated with lower measles IgG titers   [3](https://www.sciencedirect.com/science/article/pii/S2475299123095422)
+
+ **Clinical Implications** 
+
+The relationship between vitamins and measles severity has been documented, particularly with vitamin A. Studies have shown that vitamin levels decrease during measles infection, and children with lower vitamin levels tend to experience:
+
+* Higher fever rates
+
+* Longer duration of fever
+
+* Increased likelihood of hospitalization
+
+* Lower measles-specific antibody levels   [4](https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043)
+
+These findings suggest that maintaining adequate vitamin D levels may be important for optimal immune response to measles infection and vaccination, though more research is needed to fully understand these relationships.
+
+---
+
+#### Asked Perplexity AI: [Does Measles has any assocation with low vitamin A?](https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ)
+
+The relationship between measles and vitamin A is significant and well-documented. Here's a comprehensive explanation of their association:
+
+ **Disease Mechanism** 
+
+Measles infection directly impacts vitamin A levels in several ways:
+
+* The virus depletes existing vitamin A stores in the body and increases its utilization &nbsp;[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3437709/)
+
+* Even well-nourished children can experience abnormally low retinol levels during measles infection &nbsp;[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/)
+
+* The combined effect of vitamin A deficiency and measles infection can be particularly serious, as both conditions affect immune function and epithelial tissue &nbsp;[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/)
+
+ **Clinical Impact** 
+
+ **Severity of Illness** 
+
+Children with low vitamin A levels during measles infection are more likely to experience:
+
+* Higher fevers (40°C or higher)
+
+* Extended fever duration (7 days or more)
+
+* Increased hospitalization rates
+
+* Lower measles-specific antibody levels &nbsp;[1](https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043)
+
+ **Treatment Benefits** 
+
+Vitamin A supplementation has shown significant benefits:
+
+* Reduces mortality risk by 87% in children under 2 years &nbsp;[4](https://methods.cochrane.org/equity/vitamin-measles)
+
+* Shortens diarrhea duration by 2 days
+
+* Reduces fever duration by 1 day &nbsp; [4](https://methods.cochrane.org/equity/vitamin-measles)
+
+ **Current Recommendations** 
+
+The World Health Organization (WHO) recommends:
+
+* Administration of 200,000 IU of vitamin A twice to children over age 1 with measles &nbsp;[5](https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/)
+
+* All children presenting with measles should receive age-appropriate vitamin A doses, regardless of nutritional status &nbsp;[5](https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/)
+
+ **Risk Factors** 
+
+The association between measles and vitamin A deficiency is particularly concerning in:
+
+* Children under 2 years of age
+
+* Populations in low and middle-income countries
+
+* Areas where vitamin A deficiency is prevalent &nbsp;[4](https://methods.cochrane.org/equity/vitamin-measles)
+
+---
+
+#### Vitamin  D might fight measles in 4 ways: Chat-GPT Deep Research Feb 2025
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-might-fight-measles-in-4-ways.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Does Vitamin D fight most enveloped virus? - Asked Perplexity AI - Aug 2024
+
+Based on the provided search results, there is evidence suggesting that vitamin D may help fight against many enveloped viruses:
+
+1. Vitamin D has been shown to have direct anti-viral effects, particularly against enveloped viruses. It may disrupt viral envelopes through interactions similar to anti-microbial peptides.
+
+1. Vitamin D enhances cellular innate immunity partly through the induction of antimicrobial peptides like human cathelicidin LL-37 and defensins. These peptides exhibit direct antimicrobial activities against a spectrum of microbes, including enveloped viruses.
+
+1. A meta-analysis underlined the vitamin D receptor (VDR) FokI polymorphism as a risk factor for enveloped virus infection. The analysis included studies on dengue virus, respiratory syncytial virus (RSV), and hepatitis B virus.
+
+1. Vitamin D deficiency has been reported to increase the risk of several viral infections including influenza, HIV, and COVID-19, many of which are caused by enveloped viruses. Vitamin D supplementation is proposed to reduce infection risk or severity in these cases.
+
+1. Vitamin D contributes to reducing the risk of microbial infection, including enveloped viruses, through actions on physical barriers, cellular natural immunity, and adaptive immunity. It induces production of cathelicidins and defensins that have direct activity against enveloped viruses.
+
+In summary, while more research is needed, the available evidence suggests vitamin D likely plays a beneficial role in fighting against and preventing infections with many enveloped viruses through various mechanisms involving the immune system and direct antiviral activities.   [5 references in Perplexity AI](https://www.perplexity.ai/search/does-vitamin-d-fight-most-enve-Pa7C14rdRVK2YLZ0q7MWUA)
+
+---
+
+#### Measles not expected to be stopped until 95% of all children are vaccinated (currently 60% in some countries) - March 2025
+
+ **[Well Being: Measles- Truth Versus Fiction](https://www.malone.news/p/well-being-measles-truth-versus-fiction?utm_source=post-email-title&publication_id=583200&post_id=158103114&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&triedRedirect=true&utm_medium=email) Robert Malone - substack** 
+
+there were 1200 cases of measles in the US in 2019
+
+* "The USA now has a predominantly MMR-vaccinated population, which has less immunity than those who were exposed to the disease, typically in childhood. The implication is that vaccine-resistant cases of measles are and will become more commonplace."  No more natural herd immunity
+
+* "If I were a parent and wished to use the MMR vaccine, I would push out that timeline of 12 to 15 months (CDC) much further, basically until at least the child is school-aged. "
+
+---
+
+#### Measles and Nutrition: Is it a Nutritional Deficiency Disease? - March 22, 2025
+
+[https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management](https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management)
+
+Richard Z. Cheng, M.D., Ph.D. Orthomolecular News
+
+It contains  **Suggested Nutrient Doses for Measles Prevention and Management:** 
+
+Vitamin A: 50,000-100,000 IU (acute), 10,000-25,000 IU (prevention) – supports mucosal integrity & immune function.
+
+Vitamin C: 5,000-20,000 mg/day – reduces oxidative stress & viral load. Reduce dose if it causes a laxative effect.
+
+Vitamin D: 5,000-10,000 IU/day – modulates immunity, reduces inflammation.
+
+Zinc: 30-75 mg/day – inhibits viral replication.
+
+Selenium: 200-400 mcg/day – prevents viral mutations, boosts immunity.
+
+Quercetin: 500-1,500 mg/day – functions as a zinc ionophore, enhances antiviral effects.
+
+NAC (N-Acetylcysteine): 600-2,000 mg/day – boosts glutathione, reduces lung inflammation.
+
+Vitamin E: 200-800 IU/day – combats oxidative stress, protects immune cells.
+
+Glutathione: 500-1,000 mg/day – master antioxidant that supports immune defense.
+
+Alpha-Lipoic Acid (ALA): 300-600 mg/day – regenerates antioxidants, prevents oxidative damage.
+
+Omega-3 Fatty Acids (EPA/DHA): 2,000-4,000 mg/day – reduces lung inflammation, supports immune function.
+
+Magnesium: 500-1,500 mg/day (glycinate, malate, or threonate) 
+
+&nbsp; &nbsp; – supports immune function, reduces inflammation. Reduce dose if it causes a laxative effect.
+
+Resveratrol: 200-500 mg/day – inhibits viral replication, provides antioxidant benefits.
+
+B Vitamins (B1, B2, B3, B6, B12): B1: 100-500 mg/day; B3: 500-2,000 mg/day; B12: 500-2,000 mcg/day 
+
+&nbsp; &nbsp; – essential for mitochondrial function, immune energy production.
+
+Coenzyme Q10 (CoQ10): 100-300 mg/day – supports mitochondrial function, prevents viral-induced fatigue.
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+
+1. Vitamin D improves measles vaccine effectiveness
+
+1. Vitamin D reduces number of children with measles going to hospitals
+
+&gt; Note: Need a Vitamin D loading dose to get the benefit unless start many months before
+
+{{&lt; toc &gt;}}
+
+---
+
+#### Asked [Perplexity AI](https://www.perplexity.ai/search/does-measles-has-any-assocatio-R7RVDRmdTeWtU8ZE1uAOvQ): Does Measles has any assocation with low vitamin D?
+
+Based on the search results, there are significant associations between vitamin D levels and measles, particularly regarding antibody responses and disease severity:
+
+ **Vitamin D and Measles Antibody Relationship** 
+
+A comprehensive study using data from the National Health and Nutrition Examination Survey (NHANES) revealed an inverse relationship between vitamin D levels and measles antibody titers. Participants with higher measles antibody titers showed significantly lower levels of 25-hydroxyvitamin D, with approximately an 8.18% decrease in vitamin D levels compared to those with lower antibody titers   [1](https://pubmed.ncbi.nlm.nih.gov/30500845/)
+
+ **Maternal-Child Vitamin D Impact** 
+
+Research has shown that vitamin D plays a crucial role in immune responses through vitamin D receptors (VDR) expressed on immune cells. A study of mother-child pairs demonstrated:
+
+* Strong correlation between maternal vitamin D levels and infants&#39; anti-measles virus antibody responses (r2=0.71)  [2](https://repository.maseno.ac.ke/handle/123456789/834)
+
+* Varying vitamin D status among pregnant women and infants, with some showing deficiency (&lt;25nmol/L) and insufficiency (&lt;50nmol/L)   [2](https://repository.maseno.ac.ke/handle/123456789/834)
+
+ **Nutritional Status and Antibody Response** 
+
+Multiple micronutrients, including vitamin D, have been found to influence measles antibody responses. Deficiencies in vitamin D, along with vitamins A and B12, and iron, were associated with lower measles IgG titers   [3](https://www.sciencedirect.com/science/article/pii/S2475299123095422)
+
+ **Clinical Implications** 
+
+The relationship between vitamins and measles severity has been documented, particularly with vitamin A. Studies have shown that vitamin levels decrease during measles infection, and children with lower vitamin levels tend to experience:
+
+* Higher fever rates
+
+* Longer duration of fever
+
+* Increased likelihood of hospitalization
+
+* Lower measles-specific antibody levels   [4](https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043)
+
+These findings suggest that maintaining adequate vitamin D levels may be important for optimal immune response to measles infection and vaccination, though more research is needed to fully understand these relationships.
+
+---
+
+#### Asked Perplexity AI: [Does Measles has any assocation with low vitamin A?](https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ)
+
+The relationship between measles and vitamin A is significant and well-documented. Here&#39;s a comprehensive explanation of their association:
+
+ **Disease Mechanism** 
+
+Measles infection directly impacts vitamin A levels in several ways:
+
+* The virus depletes existing vitamin A stores in the body and increases its utilization &amp;nbsp;[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3437709/)
+
+* Even well-nourished children can experience abnormally low retinol levels during measles infection &amp;nbsp;[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/)
+
+* The combined effect of vitamin A deficiency and measles infection can be particularly serious, as both conditions affect immune function and epithelial tissue &amp;nbsp;[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/)
+
+ **Clinical Impact** 
+
+ **Severity of Illness** 
+
+Children with low vitamin A levels during measles infection are more likely to experience:
+
+* Higher fevers (40°C or higher)
+
+* Extended fever duration (7 days or more)
+
+* Increased hospitalization rates
+
+* Lower measles-specific antibody levels &amp;nbsp;[1](https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043)
+
+ **Treatment Benefits** 
+
+Vitamin A supplementation has shown significant benefits:
+
+* Reduces mortality risk by 87% in children under 2 years &amp;nbsp;[4](https://methods.cochrane.org/equity/vitamin-measles)
+
+* Shortens diarrhea duration by 2 days
+
+* Reduces fever duration by 1 day &amp;nbsp; [4](https://methods.cochrane.org/equity/vitamin-measles)
+
+ **Current Recommendations** 
+
+The World Health Organization (WHO) recommends:
+
+* Administration of 200,000 IU of vitamin A twice to children over age 1 with measles &amp;nbsp;[5](https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/)
+
+* All children presenting with measles should receive age-appropriate vitamin A doses, regardless of nutritional status &amp;nbsp;[5](https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/)
+
+ **Risk Factors** 
+
+The association between measles and vitamin A deficiency is particularly concerning in:
+
+* Children under 2 years of age
+
+* Populations in low and middle-income countries
+
+* Areas where vitamin A deficiency is prevalent &amp;nbsp;[4](https://methods.cochrane.org/equity/vitamin-measles)
+
+---
+
+#### Vitamin  D might fight measles in 4 ways: Chat-GPT Deep Research Feb 2025
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-might-fight-measles-in-4-ways.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Does Vitamin D fight most enveloped virus? - Asked Perplexity AI - Aug 2024
+
+Based on the provided search results, there is evidence suggesting that vitamin D may help fight against many enveloped viruses:
+
+1. Vitamin D has been shown to have direct anti-viral effects, particularly against enveloped viruses. It may disrupt viral envelopes through interactions similar to anti-microbial peptides.
+
+1. Vitamin D enhances cellular innate immunity partly through the induction of antimicrobial peptides like human cathelicidin LL-37 and defensins. These peptides exhibit direct antimicrobial activities against a spectrum of microbes, including enveloped viruses.
+
+1. A meta-analysis underlined the vitamin D receptor (VDR) FokI polymorphism as a risk factor for enveloped virus infection. The analysis included studies on dengue virus, respiratory syncytial virus (RSV), and hepatitis B virus.
+
+1. Vitamin D deficiency has been reported to increase the risk of several viral infections including influenza, HIV, and COVID-19, many of which are caused by enveloped viruses. Vitamin D supplementation is proposed to reduce infection risk or severity in these cases.
+
+1. Vitamin D contributes to reducing the risk of microbial infection, including enveloped viruses, through actions on physical barriers, cellular natural immunity, and adaptive immunity. It induces production of cathelicidins and defensins that have direct activity against enveloped viruses.
+
+In summary, while more research is needed, the available evidence suggests vitamin D likely plays a beneficial role in fighting against and preventing infections with many enveloped viruses through various mechanisms involving the immune system and direct antiviral activities.   [5 references in Perplexity AI](https://www.perplexity.ai/search/does-vitamin-d-fight-most-enve-Pa7C14rdRVK2YLZ0q7MWUA)
+
+---
+
+#### Measles not expected to be stopped until 95% of all children are vaccinated (currently 60% in some countries) - March 2025
+
+ **[Well Being: Measles- Truth Versus Fiction](https://www.malone.news/p/well-being-measles-truth-versus-fiction?utm_source=post-email-title&amp;publication_id=583200&amp;post_id=158103114&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email) Robert Malone - substack** 
+
+there were 1200 cases of measles in the US in 2019
+
+* &quot;The USA now has a predominantly MMR-vaccinated population, which has less immunity than those who were exposed to the disease, typically in childhood. The implication is that vaccine-resistant cases of measles are and will become more commonplace.&quot;  No more natural herd immunity
+
+* &quot;If I were a parent and wished to use the MMR vaccine, I would push out that timeline of 12 to 15 months (CDC) much further, basically until at least the child is school-aged. &quot;
+
+---
+
+#### Measles and Nutrition: Is it a Nutritional Deficiency Disease? - March 22, 2025
+
+[https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management](https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management)
+
+Richard Z. Cheng, M.D., Ph.D. Orthomolecular News
+
+It contains  **Suggested Nutrient Doses for Measles Prevention and Management:** 
+
+Vitamin A: 50,000-100,000 IU (acute), 10,000-25,000 IU (prevention) – supports mucosal integrity &amp; immune function.
+
+Vitamin C: 5,000-20,000 mg/day – reduces oxidative stress &amp; viral load. Reduce dose if it causes a laxative effect.
+
+Vitamin D: 5,000-10,000 IU/day – modulates immunity, reduces inflammation.
+
+Zinc: 30-75 mg/day – inhibits viral replication.
+
+Selenium: 200-400 mcg/day – prevents viral mutations, boosts immunity.
+
+Quercetin: 500-1,500 mg/day – functions as a zinc ionophore, enhances antiviral effects.
+
+NAC (N-Acetylcysteine): 600-2,000 mg/day – boosts glutathione, reduces lung inflammation.
+
+Vitamin E: 200-800 IU/day – combats oxidative stress, protects immune cells.
+
+Glutathione: 500-1,000 mg/day – master antioxidant that supports immune defense.
+
+Alpha-Lipoic Acid (ALA): 300-600 mg/day – regenerates antioxidants, prevents oxidative damage.
+
+Omega-3 Fatty Acids (EPA/DHA): 2,000-4,000 mg/day – reduces lung inflammation, supports immune function.
+
+Magnesium: 500-1,500 mg/day (glycinate, malate, or threonate) 
+
+&amp;nbsp; &amp;nbsp; – supports immune function, reduces inflammation. Reduce dose if it causes a laxative effect.
+
+Resveratrol: 200-500 mg/day – inhibits viral replication, provides antioxidant benefits.
+
+B Vitamins (B1, B2, B3, B6, B12): B1: 100-500 mg/day; B3: 500-2,000 mg/day; B12: 500-2,000 mcg/day 
+
+&amp;nbsp; &amp;nbsp; – essential for mitochondrial function, immune energy production.
+
+Coenzyme Q10 (CoQ10): 100-300 mg/day – supports mitochondrial function, prevents viral-induced fatigue.
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(style=&quot;font-size:18px;&quot;)}\n#Vitamin D improves measles vaccine effectiveness\n#Vitamin D reduces number of children with measles going to hospitals\n+Note: Need a Vitamin D loading dose to get the benefit unless start many months before\n{DIV}`
+│   inner_content: `\n#Vitamin D improves measles vaccine effectiveness\n#Vitamin D reduces number of children with measles going to hospitals\n+Note: Need a Vitamin D loading dose to get the benefit unless start many months before\n`
+│   attrs_dict:
+│   │   raw_content: (style=&quot;font-size:18px;&quot;)
+│   │   style: font-size:18px;
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── NumListItemNode
+│   │   full_match: `#Vitamin D improves measles vaccine effectiveness`
+│   │   inner_content: `Vitamin D improves measles vaccine effectiveness`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D improves measles vaccine effectiveness`
+│   │   │   inner_content: `Vitamin D improves measles vaccine effectiveness`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── NumListItemNode
+│   │   full_match: `#Vitamin D reduces number of children with measles going to hospitals`
+│   │   inner_content: `Vitamin D reduces number of children with measles going to hospitals`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D reduces number of children with measles going to hospitals`
+│   │   │   inner_content: `Vitamin D reduces number of children with measles going to hospitals`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+Note: Need a Vitamin D loading dose to get the benefit unless start many months before`
+│   │   inner_content: `Note: Need a Vitamin D loading dose to get the benefit unless start many months before`
+│   │   level: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Note: Need a Vitamin D loading dose to get the benefit unless start many months before`
+│   │   │   inner_content: `Note: Need a Vitamin D loading dose to get the benefit unless start many months before`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV( class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: ( class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Asked [https://www.perplexity.ai/search/does-measles-has-any-assocatio-R7RVDRmdTeWtU8ZE1uAOvQ|Perplexity AI]: Does Measles has any assocation with low vitamin D?`
+│   inner_content: `Asked [https://www.perplexity.ai/search/does-measles-has-any-assocatio-R7RVDRmdTeWtU8ZE1uAOvQ|Perplexity AI]: Does Measles has any assocation with low vitamin D?`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Asked `
+│   │   inner_content: `Asked `
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/does-measles-has-any-assocatio-R7RVDRmdTeWtU8ZE1uAOvQ|Perplexity AI]`
+│   │   inner_content: `Perplexity AI`
+│   │   url: `https://www.perplexity.ai/search/does-measles-has-any-assocatio-R7RVDRmdTeWtU8ZE1uAOvQ`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity AI`
+│   │   │   inner_content: `Perplexity AI`
+│   ├── TextNode
+│   │   full_match: `: Does Measles has any assocation with low vitamin D?`
+│   │   inner_content: `: Does Measles has any assocation with low vitamin D?`├── TextNode
+│   full_match: `\nBased on the search results, there are significant associations between vitamin D levels and measles, particularly regarding antibody responses and disease severity:\n`
+│   inner_content: `\nBased on the search results, there are significant associations between vitamin D levels and measles, particularly regarding antibody responses and disease severity:\n`├── BoldNode
+│   full_match: `__Vitamin D and Measles Antibody Relationship__`
+│   inner_content: `Vitamin D and Measles Antibody Relationship`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D and Measles Antibody Relationship`
+│   │   inner_content: `Vitamin D and Measles Antibody Relationship`├── TextNode
+│   full_match: `\nA comprehensive study using data from the National Health and Nutrition Examination Survey (NHANES) revealed an inverse relationship between vitamin D levels and measles antibody titers. Participants with higher measles antibody titers showed significantly lower levels of 25-hydroxyvitamin D, with approximately an 8.18% decrease in vitamin D levels compared to those with lower antibody titers   `
+│   inner_content: `\nA comprehensive study using data from the National Health and Nutrition Examination Survey (NHANES) revealed an inverse relationship between vitamin D levels and measles antibody titers. Participants with higher measles antibody titers showed significantly lower levels of 25-hydroxyvitamin D, with approximately an 8.18% decrease in vitamin D levels compared to those with lower antibody titers   `├── LinkNode
+│   full_match: `[https://pubmed.ncbi.nlm.nih.gov/30500845/|1]`
+│   inner_content: `1`
+│   url: `https://pubmed.ncbi.nlm.nih.gov/30500845/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Maternal-Child Vitamin D Impact__`
+│   inner_content: `Maternal-Child Vitamin D Impact`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Maternal-Child Vitamin D Impact`
+│   │   inner_content: `Maternal-Child Vitamin D Impact`├── TextNode
+│   full_match: `\nResearch has shown that vitamin D plays a crucial role in immune responses through vitamin D receptors (VDR) expressed on immune cells. A study of mother-child pairs demonstrated:\n`
+│   inner_content: `\nResearch has shown that vitamin D plays a crucial role in immune responses through vitamin D receptors (VDR) expressed on immune cells. A study of mother-child pairs demonstrated:\n`├── ListItemNode
+│   full_match: `*Strong correlation between maternal vitamin D levels and infants&#39; anti-measles virus antibody responses (r2=0.71)  [https://repository.maseno.ac.ke/handle/123456789/834|2]`
+│   inner_content: `Strong correlation between maternal vitamin D levels and infants&#39; anti-measles virus antibody responses (r2=0.71)  [https://repository.maseno.ac.ke/handle/123456789/834|2]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Strong correlation between maternal vitamin D levels and infants&#39; anti-measles virus antibody responses (r2=0.71)  `
+│   │   inner_content: `Strong correlation between maternal vitamin D levels and infants&#39; anti-measles virus antibody responses (r2=0.71)  `
+│   ├── LinkNode
+│   │   full_match: `[https://repository.maseno.ac.ke/handle/123456789/834|2]`
+│   │   inner_content: `2`
+│   │   url: `https://repository.maseno.ac.ke/handle/123456789/834`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `2`
+│   │   │   inner_content: `2`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Varying vitamin D status among pregnant women and infants, with some showing deficiency (&lt;25nmol/L) and insufficiency (&lt;50nmol/L)   [https://repository.maseno.ac.ke/handle/123456789/834|2]`
+│   inner_content: `Varying vitamin D status among pregnant women and infants, with some showing deficiency (&lt;25nmol/L) and insufficiency (&lt;50nmol/L)   [https://repository.maseno.ac.ke/handle/123456789/834|2]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Varying vitamin D status among pregnant women and infants, with some showing deficiency (&lt;25nmol/L) and insufficiency (&lt;50nmol/L)   `
+│   │   inner_content: `Varying vitamin D status among pregnant women and infants, with some showing deficiency (&lt;25nmol/L) and insufficiency (&lt;50nmol/L)   `
+│   ├── LinkNode
+│   │   full_match: `[https://repository.maseno.ac.ke/handle/123456789/834|2]`
+│   │   inner_content: `2`
+│   │   url: `https://repository.maseno.ac.ke/handle/123456789/834`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `2`
+│   │   │   inner_content: `2`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Nutritional Status and Antibody Response__`
+│   inner_content: `Nutritional Status and Antibody Response`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Nutritional Status and Antibody Response`
+│   │   inner_content: `Nutritional Status and Antibody Response`├── TextNode
+│   full_match: `\nMultiple micronutrients, including vitamin D, have been found to influence measles antibody responses. Deficiencies in vitamin D, along with vitamins A and B12, and iron, were associated with lower measles IgG titers   `
+│   inner_content: `\nMultiple micronutrients, including vitamin D, have been found to influence measles antibody responses. Deficiencies in vitamin D, along with vitamins A and B12, and iron, were associated with lower measles IgG titers   `├── LinkNode
+│   full_match: `[https://www.sciencedirect.com/science/article/pii/S2475299123095422|3]`
+│   inner_content: `3`
+│   url: `https://www.sciencedirect.com/science/article/pii/S2475299123095422`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3`
+│   │   inner_content: `3`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Clinical Implications__`
+│   inner_content: `Clinical Implications`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Clinical Implications`
+│   │   inner_content: `Clinical Implications`├── TextNode
+│   full_match: `\nThe relationship between vitamins and measles severity has been documented, particularly with vitamin A. Studies have shown that vitamin levels decrease during measles infection, and children with lower vitamin levels tend to experience:\n`
+│   inner_content: `\nThe relationship between vitamins and measles severity has been documented, particularly with vitamin A. Studies have shown that vitamin levels decrease during measles infection, and children with lower vitamin levels tend to experience:\n`├── ListItemNode
+│   full_match: `*Higher fever rates`
+│   inner_content: `Higher fever rates`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Higher fever rates`
+│   │   inner_content: `Higher fever rates`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Longer duration of fever`
+│   inner_content: `Longer duration of fever`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Longer duration of fever`
+│   │   inner_content: `Longer duration of fever`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Increased likelihood of hospitalization`
+│   inner_content: `Increased likelihood of hospitalization`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Increased likelihood of hospitalization`
+│   │   inner_content: `Increased likelihood of hospitalization`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lower measles-specific antibody levels   [https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043|4]`
+│   inner_content: `Lower measles-specific antibody levels   [https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lower measles-specific antibody levels   `
+│   │   inner_content: `Lower measles-specific antibody levels   `
+│   ├── LinkNode
+│   │   full_match: `[https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043|4]`
+│   │   inner_content: `4`
+│   │   url: `https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\nThese findings suggest that maintaining adequate vitamin D levels may be important for optimal immune response to measles infection and vaccination, though more research is needed to fully understand these relationships.`
+│   inner_content: `\nThese findings suggest that maintaining adequate vitamin D levels may be important for optimal immune response to measles infection and vaccination, though more research is needed to fully understand these relationships.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Asked Perplexity AI: [https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Does Measles has any assocation with low vitamin A?]`
+│   inner_content: `Asked Perplexity AI: [https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Does Measles has any assocation with low vitamin A?]`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Asked Perplexity AI: `
+│   │   inner_content: `Asked Perplexity AI: `
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Does Measles has any assocation with low vitamin A?]`
+│   │   inner_content: `Does Measles has any assocation with low vitamin A?`
+│   │   url: `https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Does Measles has any assocation with low vitamin A?`
+│   │   │   inner_content: `Does Measles has any assocation with low vitamin A?`├── TextNode
+│   full_match: `\nThe relationship between measles and vitamin A is significant and well-documented. Here&#39;s a comprehensive explanation of their association:\n`
+│   inner_content: `\nThe relationship between measles and vitamin A is significant and well-documented. Here&#39;s a comprehensive explanation of their association:\n`├── BoldNode
+│   full_match: `__Disease Mechanism__`
+│   inner_content: `Disease Mechanism`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Disease Mechanism`
+│   │   inner_content: `Disease Mechanism`├── TextNode
+│   full_match: `\nMeasles infection directly impacts vitamin A levels in several ways:\n`
+│   inner_content: `\nMeasles infection directly impacts vitamin A levels in several ways:\n`├── ListItemNode
+│   full_match: `*The virus depletes existing vitamin A stores in the body and increases its utilization ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC3437709/|2]`
+│   inner_content: `The virus depletes existing vitamin A stores in the body and increases its utilization ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC3437709/|2]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The virus depletes existing vitamin A stores in the body and increases its utilization `
+│   │   inner_content: `The virus depletes existing vitamin A stores in the body and increases its utilization `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC3437709/|2]`
+│   │   inner_content: `2`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC3437709/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `2`
+│   │   │   inner_content: `2`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Even well-nourished children can experience abnormally low retinol levels during measles infection ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/|3]`
+│   inner_content: `Even well-nourished children can experience abnormally low retinol levels during measles infection ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/|3]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Even well-nourished children can experience abnormally low retinol levels during measles infection `
+│   │   inner_content: `Even well-nourished children can experience abnormally low retinol levels during measles infection `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/|3]`
+│   │   inner_content: `3`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `3`
+│   │   │   inner_content: `3`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*The combined effect of vitamin A deficiency and measles infection can be particularly serious, as both conditions affect immune function and epithelial tissue ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/|3]`
+│   inner_content: `The combined effect of vitamin A deficiency and measles infection can be particularly serious, as both conditions affect immune function and epithelial tissue ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/|3]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The combined effect of vitamin A deficiency and measles infection can be particularly serious, as both conditions affect immune function and epithelial tissue `
+│   │   inner_content: `The combined effect of vitamin A deficiency and measles infection can be particularly serious, as both conditions affect immune function and epithelial tissue `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/|3]`
+│   │   inner_content: `3`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `3`
+│   │   │   inner_content: `3`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Clinical Impact__`
+│   inner_content: `Clinical Impact`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Clinical Impact`
+│   │   inner_content: `Clinical Impact`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Severity of Illness__`
+│   inner_content: `Severity of Illness`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Severity of Illness`
+│   │   inner_content: `Severity of Illness`├── TextNode
+│   full_match: `\nChildren with low vitamin A levels during measles infection are more likely to experience:\n`
+│   inner_content: `\nChildren with low vitamin A levels during measles infection are more likely to experience:\n`├── ListItemNode
+│   full_match: `*Higher fevers (40°C or higher)`
+│   inner_content: `Higher fevers (40°C or higher)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Higher fevers (40°C or higher)`
+│   │   inner_content: `Higher fevers (40°C or higher)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Extended fever duration (7 days or more)`
+│   inner_content: `Extended fever duration (7 days or more)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Extended fever duration (7 days or more)`
+│   │   inner_content: `Extended fever duration (7 days or more)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Increased hospitalization rates`
+│   inner_content: `Increased hospitalization rates`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Increased hospitalization rates`
+│   │   inner_content: `Increased hospitalization rates`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lower measles-specific antibody levels ~hs~[https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043|1]`
+│   inner_content: `Lower measles-specific antibody levels ~hs~[https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043|1]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lower measles-specific antibody levels `
+│   │   inner_content: `Lower measles-specific antibody levels `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043|1]`
+│   │   inner_content: `1`
+│   │   url: `https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `1`
+│   │   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Treatment Benefits__`
+│   inner_content: `Treatment Benefits`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Treatment Benefits`
+│   │   inner_content: `Treatment Benefits`├── TextNode
+│   full_match: `\nVitamin A supplementation has shown significant benefits:\n`
+│   inner_content: `\nVitamin A supplementation has shown significant benefits:\n`├── ListItemNode
+│   full_match: `*Reduces mortality risk by 87% in children under 2 years ~hs~[https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   inner_content: `Reduces mortality risk by 87% in children under 2 years ~hs~[https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Reduces mortality risk by 87% in children under 2 years `
+│   │   inner_content: `Reduces mortality risk by 87% in children under 2 years `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   │   inner_content: `4`
+│   │   url: `https://methods.cochrane.org/equity/vitamin-measles`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Shortens diarrhea duration by 2 days`
+│   inner_content: `Shortens diarrhea duration by 2 days`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Shortens diarrhea duration by 2 days`
+│   │   inner_content: `Shortens diarrhea duration by 2 days`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Reduces fever duration by 1 day ~hs~ [https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   inner_content: `Reduces fever duration by 1 day ~hs~ [https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Reduces fever duration by 1 day `
+│   │   inner_content: `Reduces fever duration by 1 day `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   │   inner_content: `4`
+│   │   url: `https://methods.cochrane.org/equity/vitamin-measles`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Current Recommendations__`
+│   inner_content: `Current Recommendations`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Current Recommendations`
+│   │   inner_content: `Current Recommendations`├── TextNode
+│   full_match: `\nThe World Health Organization (WHO) recommends:\n`
+│   inner_content: `\nThe World Health Organization (WHO) recommends:\n`├── ListItemNode
+│   full_match: `*Administration of 200,000 IU of vitamin A twice to children over age 1 with measles ~hs~[https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/|5]`
+│   inner_content: `Administration of 200,000 IU of vitamin A twice to children over age 1 with measles ~hs~[https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/|5]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Administration of 200,000 IU of vitamin A twice to children over age 1 with measles `
+│   │   inner_content: `Administration of 200,000 IU of vitamin A twice to children over age 1 with measles `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/|5]`
+│   │   inner_content: `5`
+│   │   url: `https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*All children presenting with measles should receive age-appropriate vitamin A doses, regardless of nutritional status ~hs~[https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/|5]`
+│   inner_content: `All children presenting with measles should receive age-appropriate vitamin A doses, regardless of nutritional status ~hs~[https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/|5]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `All children presenting with measles should receive age-appropriate vitamin A doses, regardless of nutritional status `
+│   │   inner_content: `All children presenting with measles should receive age-appropriate vitamin A doses, regardless of nutritional status `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/|5]`
+│   │   inner_content: `5`
+│   │   url: `https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Risk Factors__`
+│   inner_content: `Risk Factors`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Risk Factors`
+│   │   inner_content: `Risk Factors`├── TextNode
+│   full_match: `\nThe association between measles and vitamin A deficiency is particularly concerning in:\n`
+│   inner_content: `\nThe association between measles and vitamin A deficiency is particularly concerning in:\n`├── ListItemNode
+│   full_match: `*Children under 2 years of age`
+│   inner_content: `Children under 2 years of age`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Children under 2 years of age`
+│   │   inner_content: `Children under 2 years of age`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Populations in low and middle-income countries`
+│   inner_content: `Populations in low and middle-income countries`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Populations in low and middle-income countries`
+│   │   inner_content: `Populations in low and middle-income countries`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Areas where vitamin A deficiency is prevalent ~hs~[https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   inner_content: `Areas where vitamin A deficiency is prevalent ~hs~[https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Areas where vitamin A deficiency is prevalent `
+│   │   inner_content: `Areas where vitamin A deficiency is prevalent `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://methods.cochrane.org/equity/vitamin-measles|4]`
+│   │   inner_content: `4`
+│   │   url: `https://methods.cochrane.org/equity/vitamin-measles`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F00:7+~~ VitaminDWiki pages have MEASLES in the title`
+│   inner_content: `~~#F00:7+~~ VitaminDWiki pages have MEASLES in the title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F00:7+~~`
+│   │   inner_content: `7+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F00
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `7+`
+│   │   │   inner_content: `7+`
+│   ├── TextNode
+│   │   full_match: ` VitaminDWiki pages have MEASLES in the title`
+│   │   inner_content: ` VitaminDWiki pages have MEASLES in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;The list is automatically updated&#39;&#39;`
+│   inner_content: `The list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The list is automatically updated`
+│   │   inner_content: `The list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MEASLES&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MEASLES&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MEASLES&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MEASLES&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Vitamin D and Vitamin A|Vitamin A)) category listing has ~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~ and map`
+│   inner_content: `VitaminDWiki – ((Vitamin D and Vitamin A|Vitamin A)) category listing has ~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~ and map`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Vitamin D and Vitamin A|Vitamin A))`
+│   │   inner_content: `Vitamin D and Vitamin A|Vitamin A`
+│   │   page: `Vitamin D and Vitamin A`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D and Vitamin A|Vitamin A`
+│   │   │   inner_content: `Vitamin D and Vitamin A|Vitamin A`
+│   ├── TextNode
+│   │   full_match: ` category listing has `
+│   │   inner_content: ` category listing has `
+│   ├── ColorNode
+│   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~`
+│   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── SqlNode
+│   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL}`
+│   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   db: &gt;vitamind
+│   │   ├── TextNode
+│   │   │   full_match: ` items`
+│   │   │   inner_content: ` items`
+│   ├── TextNode
+│   │   full_match: ` and map`
+│   │   inner_content: ` and map`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;11628&quot; width=&quot;700&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;11628&quot; width=&quot;700&quot;
+│   │   type: attId
+│   │   attId: 11628
+│   │   width: 700├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── EmphasisNode
+│   full_match: `&#39;&#39;__Note: [https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Perplexity]: &quot;India ranks as the second most affected country globally for measles cases, with 65,150 cases reported,&quot;__&#39;&#39;`
+│   inner_content: `__Note: [https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Perplexity]: &quot;India ranks as the second most affected country globally for measles cases, with 65,150 cases reported,&quot;__`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Note: [https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Perplexity]: &quot;India ranks as the second most affected country globally for measles cases, with 65,150 cases reported,&quot;__`
+│   │   inner_content: `Note: [https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Perplexity]: &quot;India ranks as the second most affected country globally for measles cases, with 65,150 cases reported,&quot;`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Note: `
+│   │   │   inner_content: `Note: `
+│   │   ├── LinkNode
+│   │   │   full_match: `[https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Perplexity]`
+│   │   │   inner_content: `Perplexity`
+│   │   │   url: `https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Perplexity`
+│   │   │   │   inner_content: `Perplexity`
+│   │   ├── TextNode
+│   │   │   full_match: `: &quot;India ranks as the second most affected country globally for measles cases, with 65,150 cases reported,&quot;`
+│   │   │   inner_content: `: &quot;India ranks as the second most affected country globally for measles cases, with 65,150 cases reported,&quot;`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor|COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor))`
+│   inner_content: `VitaminDWiki - ((COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor|COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor|COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor))`
+│   │   inner_content: `COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor|COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor`
+│   │   page: `COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor|COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor`
+│   │   │   inner_content: `COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor|COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor`├── HorizontalRuleAltNode
+│   full_match: `\n----\n`
+│   inner_content: `----`├── HeadingNode
+│   full_match: `!!!!Vitamin  D might fight measles in 4 ways: Chat-GPT Deep Research Feb 2025`
+│   inner_content: `Vitamin  D might fight measles in 4 ways: Chat-GPT Deep Research Feb 2025`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin  D might fight measles in 4 ways: Chat-GPT Deep Research Feb 2025`
+│   │   inner_content: `Vitamin  D might fight measles in 4 ways: Chat-GPT Deep Research Feb 2025`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22348&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22348
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011|Vitamin D can inhibit many enveloped viruses such as Measles))`
+│   inner_content: `VitaminDWiki - ((Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011|Vitamin D can inhibit many enveloped viruses such as Measles))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011|Vitamin D can inhibit many enveloped viruses such as Measles))`
+│   │   inner_content: `Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011|Vitamin D can inhibit many enveloped viruses such as Measles`
+│   │   page: `Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011|Vitamin D can inhibit many enveloped viruses such as Measles`
+│   │   │   inner_content: `Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011|Vitamin D can inhibit many enveloped viruses such as Measles`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Does Vitamin D fight most enveloped virus? - Asked Perplexity AI - Aug 2024`
+│   inner_content: `Does Vitamin D fight most enveloped virus? - Asked Perplexity AI - Aug 2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Does Vitamin D fight most enveloped virus? - Asked Perplexity AI - Aug 2024`
+│   │   inner_content: `Does Vitamin D fight most enveloped virus? - Asked Perplexity AI - Aug 2024`├── TextNode
+│   full_match: `\nBased on the provided search results, there is evidence suggesting that vitamin D may help fight against many enveloped viruses:\n`
+│   inner_content: `\nBased on the provided search results, there is evidence suggesting that vitamin D may help fight against many enveloped viruses:\n`├── NumListItemNode
+│   full_match: `#Vitamin D has been shown to have direct anti-viral effects, particularly against enveloped viruses. It may disrupt viral envelopes through interactions similar to anti-microbial peptides.`
+│   inner_content: `Vitamin D has been shown to have direct anti-viral effects, particularly against enveloped viruses. It may disrupt viral envelopes through interactions similar to anti-microbial peptides.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D has been shown to have direct anti-viral effects, particularly against enveloped viruses. It may disrupt viral envelopes through interactions similar to anti-microbial peptides.`
+│   │   inner_content: `Vitamin D has been shown to have direct anti-viral effects, particularly against enveloped viruses. It may disrupt viral envelopes through interactions similar to anti-microbial peptides.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Vitamin D enhances cellular innate immunity partly through the induction of antimicrobial peptides like human cathelicidin LL-37 and defensins. These peptides exhibit direct antimicrobial activities against a spectrum of microbes, including enveloped viruses.`
+│   inner_content: `Vitamin D enhances cellular innate immunity partly through the induction of antimicrobial peptides like human cathelicidin LL-37 and defensins. These peptides exhibit direct antimicrobial activities against a spectrum of microbes, including enveloped viruses.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D enhances cellular innate immunity partly through the induction of antimicrobial peptides like human cathelicidin LL-37 and defensins. These peptides exhibit direct antimicrobial activities against a spectrum of microbes, including enveloped viruses.`
+│   │   inner_content: `Vitamin D enhances cellular innate immunity partly through the induction of antimicrobial peptides like human cathelicidin LL-37 and defensins. These peptides exhibit direct antimicrobial activities against a spectrum of microbes, including enveloped viruses.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#A meta-analysis underlined the vitamin D receptor (VDR) FokI polymorphism as a risk factor for enveloped virus infection. The analysis included studies on dengue virus, respiratory syncytial virus (RSV), and hepatitis B virus.`
+│   inner_content: `A meta-analysis underlined the vitamin D receptor (VDR) FokI polymorphism as a risk factor for enveloped virus infection. The analysis included studies on dengue virus, respiratory syncytial virus (RSV), and hepatitis B virus.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A meta-analysis underlined the vitamin D receptor (VDR) FokI polymorphism as a risk factor for enveloped virus infection. The analysis included studies on dengue virus, respiratory syncytial virus (RSV), and hepatitis B virus.`
+│   │   inner_content: `A meta-analysis underlined the vitamin D receptor (VDR) FokI polymorphism as a risk factor for enveloped virus infection. The analysis included studies on dengue virus, respiratory syncytial virus (RSV), and hepatitis B virus.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Vitamin D deficiency has been reported to increase the risk of several viral infections including influenza, HIV, and COVID-19, many of which are caused by enveloped viruses. Vitamin D supplementation is proposed to reduce infection risk or severity in these cases.`
+│   inner_content: `Vitamin D deficiency has been reported to increase the risk of several viral infections including influenza, HIV, and COVID-19, many of which are caused by enveloped viruses. Vitamin D supplementation is proposed to reduce infection risk or severity in these cases.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D deficiency has been reported to increase the risk of several viral infections including influenza, HIV, and COVID-19, many of which are caused by enveloped viruses. Vitamin D supplementation is proposed to reduce infection risk or severity in these cases.`
+│   │   inner_content: `Vitamin D deficiency has been reported to increase the risk of several viral infections including influenza, HIV, and COVID-19, many of which are caused by enveloped viruses. Vitamin D supplementation is proposed to reduce infection risk or severity in these cases.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Vitamin D contributes to reducing the risk of microbial infection, including enveloped viruses, through actions on physical barriers, cellular natural immunity, and adaptive immunity. It induces production of cathelicidins and defensins that have direct activity against enveloped viruses.`
+│   inner_content: `Vitamin D contributes to reducing the risk of microbial infection, including enveloped viruses, through actions on physical barriers, cellular natural immunity, and adaptive immunity. It induces production of cathelicidins and defensins that have direct activity against enveloped viruses.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D contributes to reducing the risk of microbial infection, including enveloped viruses, through actions on physical barriers, cellular natural immunity, and adaptive immunity. It induces production of cathelicidins and defensins that have direct activity against enveloped viruses.`
+│   │   inner_content: `Vitamin D contributes to reducing the risk of microbial infection, including enveloped viruses, through actions on physical barriers, cellular natural immunity, and adaptive immunity. It induces production of cathelicidins and defensins that have direct activity against enveloped viruses.`├── TextNode
+│   full_match: `\nIn summary, while more research is needed, the available evidence suggests vitamin D likely plays a beneficial role in fighting against and preventing infections with many enveloped viruses through various mechanisms involving the immune system and direct antiviral activities.   `
+│   inner_content: `\nIn summary, while more research is needed, the available evidence suggests vitamin D likely plays a beneficial role in fighting against and preventing infections with many enveloped viruses through various mechanisms involving the immune system and direct antiviral activities.   `├── LinkNode
+│   full_match: `[https://www.perplexity.ai/search/does-vitamin-d-fight-most-enve-Pa7C14rdRVK2YLZ0q7MWUA| 5 references in Perplexity AI]`
+│   inner_content: ` 5 references in Perplexity AI`
+│   url: `https://www.perplexity.ai/search/does-vitamin-d-fight-most-enve-Pa7C14rdRVK2YLZ0q7MWUA`
+│   children:
+│   ├── TextNode
+│   │   full_match: `5 references in Perplexity AI`
+│   │   inner_content: `5 references in Perplexity AI`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Measles not expected to be stopped until 95% of all children are vaccinated (currently 60% in some countries) - March 2025`
+│   inner_content: `Measles not expected to be stopped until 95% of all children are vaccinated (currently 60% in some countries) - March 2025`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Measles not expected to be stopped until 95% of all children are vaccinated (currently 60% in some countries) - March 2025`
+│   │   inner_content: `Measles not expected to be stopped until 95% of all children are vaccinated (currently 60% in some countries) - March 2025`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.malone.news/p/well-being-measles-truth-versus-fiction?utm_source=post-email-title&amp;publication_id=583200&amp;post_id=158103114&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email|Well Being: Measles- Truth Versus Fiction] Robert Malone - substack__`
+│   inner_content: `[https://www.malone.news/p/well-being-measles-truth-versus-fiction?utm_source=post-email-title&amp;publication_id=583200&amp;post_id=158103114&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email|Well Being: Measles- Truth Versus Fiction] Robert Malone - substack`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.malone.news/p/well-being-measles-truth-versus-fiction?utm_source=post-email-title&amp;publication_id=583200&amp;post_id=158103114&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email|Well Being: Measles- Truth Versus Fiction]`
+│   │   inner_content: `Well Being: Measles- Truth Versus Fiction`
+│   │   url: `https://www.malone.news/p/well-being-measles-truth-versus-fiction?utm_source=post-email-title&amp;publication_id=583200&amp;post_id=158103114&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Well Being: Measles- Truth Versus Fiction`
+│   │   │   inner_content: `Well Being: Measles- Truth Versus Fiction`
+│   ├── TextNode
+│   │   full_match: ` Robert Malone - substack`
+│   │   inner_content: ` Robert Malone - substack`├── TextNode
+│   full_match: `\nthere were 1200 cases of measles in the US in 2019\n`
+│   inner_content: `\nthere were 1200 cases of measles in the US in 2019\n`├── ListItemNode
+│   full_match: `*&quot;The USA now has a predominantly MMR-vaccinated population, which has less immunity than those who were exposed to the disease, typically in childhood. The implication is that vaccine-resistant cases of measles are and will become more commonplace.&quot;  No more natural herd immunity`
+│   inner_content: `&quot;The USA now has a predominantly MMR-vaccinated population, which has less immunity than those who were exposed to the disease, typically in childhood. The implication is that vaccine-resistant cases of measles are and will become more commonplace.&quot;  No more natural herd immunity`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;The USA now has a predominantly MMR-vaccinated population, which has less immunity than those who were exposed to the disease, typically in childhood. The implication is that vaccine-resistant cases of measles are and will become more commonplace.&quot;  No more natural herd immunity`
+│   │   inner_content: `&quot;The USA now has a predominantly MMR-vaccinated population, which has less immunity than those who were exposed to the disease, typically in childhood. The implication is that vaccine-resistant cases of measles are and will become more commonplace.&quot;  No more natural herd immunity`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*&quot;If I were a parent and wished to use the MMR vaccine, I would push out that timeline of 12 to 15 months (CDC) much further, basically until at least the child is school-aged. &quot;`
+│   inner_content: `&quot;If I were a parent and wished to use the MMR vaccine, I would push out that timeline of 12 to 15 months (CDC) much further, basically until at least the child is school-aged. &quot;`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;If I were a parent and wished to use the MMR vaccine, I would push out that timeline of 12 to 15 months (CDC) much further, basically until at least the child is school-aged. &quot;`
+│   │   inner_content: `&quot;If I were a parent and wished to use the MMR vaccine, I would push out that timeline of 12 to 15 months (CDC) much further, basically until at least the child is school-aged. &quot;`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Measles and Nutrition: Is it a Nutritional Deficiency Disease? - March 22, 2025`
+│   inner_content: `Measles and Nutrition: Is it a Nutritional Deficiency Disease? - March 22, 2025`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Measles and Nutrition: Is it a Nutritional Deficiency Disease? - March 22, 2025`
+│   │   inner_content: `Measles and Nutrition: Is it a Nutritional Deficiency Disease? - March 22, 2025`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LinkNode
+│   full_match: `[https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management]`
+│   inner_content: `https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management`
+│   url: `https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management`
+│   children:
+│   ├── TextNode
+│   │   full_match: `https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management`
+│   │   inner_content: `https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management`├── TextNode
+│   full_match: `\nRichard Z. Cheng, M.D., Ph.D. Orthomolecular News\nIt contains `
+│   inner_content: `\nRichard Z. Cheng, M.D., Ph.D. Orthomolecular News\nIt contains `├── BoldNode
+│   full_match: `__Suggested Nutrient Doses for Measles Prevention and Management:__`
+│   inner_content: `Suggested Nutrient Doses for Measles Prevention and Management:`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Suggested Nutrient Doses for Measles Prevention and Management:`
+│   │   inner_content: `Suggested Nutrient Doses for Measles Prevention and Management:`├── TextNode
+│   full_match: `\nVitamin A: 50,000-100,000 IU (acute), 10,000-25,000 IU (prevention) – supports mucosal integrity &amp; immune function.\nVitamin C: 5,000-20,000 mg/day – reduces oxidative stress &amp; viral load. Reduce dose if it causes a laxative effect.\nVitamin D: 5,000-10,000 IU/day – modulates immunity, reduces inflammation.\nZinc: 30-75 mg/day – inhibits viral replication.\nSelenium: 200-400 mcg/day – prevents viral mutations, boosts immunity.\nQuercetin: 500-1,500 mg/day – functions as a zinc ionophore, enhances antiviral effects.\nNAC (N-Acetylcysteine): 600-2,000 mg/day – boosts glutathione, reduces lung inflammation.\nVitamin E: 200-800 IU/day – combats oxidative stress, protects immune cells.\nGlutathione: 500-1,000 mg/day – master antioxidant that supports immune defense.\nAlpha-Lipoic Acid (ALA): 300-600 mg/day – regenerates antioxidants, prevents oxidative damage.\nOmega-3 Fatty Acids (EPA/DHA): 2,000-4,000 mg/day – reduces lung inflammation, supports immune function.\nMagnesium: 500-1,500 mg/day (glycinate, malate, or threonate) \n`
+│   inner_content: `\nVitamin A: 50,000-100,000 IU (acute), 10,000-25,000 IU (prevention) – supports mucosal integrity &amp; immune function.\nVitamin C: 5,000-20,000 mg/day – reduces oxidative stress &amp; viral load. Reduce dose if it causes a laxative effect.\nVitamin D: 5,000-10,000 IU/day – modulates immunity, reduces inflammation.\nZinc: 30-75 mg/day – inhibits viral replication.\nSelenium: 200-400 mcg/day – prevents viral mutations, boosts immunity.\nQuercetin: 500-1,500 mg/day – functions as a zinc ionophore, enhances antiviral effects.\nNAC (N-Acetylcysteine): 600-2,000 mg/day – boosts glutathione, reduces lung inflammation.\nVitamin E: 200-800 IU/day – combats oxidative stress, protects immune cells.\nGlutathione: 500-1,000 mg/day – master antioxidant that supports immune defense.\nAlpha-Lipoic Acid (ALA): 300-600 mg/day – regenerates antioxidants, prevents oxidative damage.\nOmega-3 Fatty Acids (EPA/DHA): 2,000-4,000 mg/day – reduces lung inflammation, supports immune function.\nMagnesium: 500-1,500 mg/day (glycinate, malate, or threonate) \n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` – supports immune function, reduces inflammation. Reduce dose if it causes a laxative effect.\nResveratrol: 200-500 mg/day – inhibits viral replication, provides antioxidant benefits.\nB Vitamins (B1, B2, B3, B6, B12): B1: 100-500 mg/day; B3: 500-2,000 mg/day; B12: 500-2,000 mcg/day \n`
+│   inner_content: ` – supports immune function, reduces inflammation. Reduce dose if it causes a laxative effect.\nResveratrol: 200-500 mg/day – inhibits viral replication, provides antioxidant benefits.\nB Vitamins (B1, B2, B3, B6, B12): B1: 100-500 mg/day; B3: 500-2,000 mg/day; B12: 500-2,000 mcg/day \n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` – essential for mitochondrial function, immune energy production.\nCoenzyme Q10 (CoQ10): 100-300 mg/day – supports mitochondrial function, prevents viral-induced fatigue.`
+│   inner_content: ` – essential for mitochondrial function, immune energy production.\nCoenzyme Q10 (CoQ10): 100-300 mg/day – supports mitochondrial function, prevents viral-induced fatigue.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!! There have been ~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15671{SQL}~~ visits to this page `
+│   inner_content: `There have been ~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15671{SQL}~~ visits to this page`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `There have been `
+│   │   inner_content: `There have been `
+│   ├── ColorNode
+│   │   full_match: `~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15671{SQL}~~`
+│   │   inner_content: ` {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15671{SQL}`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── SqlNode
+│   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15671{SQL}`
+│   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=15671`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: ` visits to this page`
+│   │   inner_content: ` visits to this page`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Measles and low vitamin D)) ~/tc~`
+│   inner_content: ` (alias(Measles and low vitamin D)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Measles and low vitamin D)) `
+│   │   inner_content: `(alias(Measles and low vitamin D)) `
+
+Original Tiki:
+-------------
+{DIV(style=&quot;font-size:18px;&quot;)}
+#Vitamin D improves measles vaccine effectiveness
+#Vitamin D reduces number of children with measles going to hospitals
++Note: Need a Vitamin D loading dose to get the benefit unless start many months before
+{DIV}
+{DIV( class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Asked [https://www.perplexity.ai/search/does-measles-has-any-assocatio-R7RVDRmdTeWtU8ZE1uAOvQ|Perplexity AI]: Does Measles has any assocation with low vitamin D?
+Based on the search results, there are significant associations between vitamin D levels and measles, particularly regarding antibody responses and disease severity:
+__Vitamin D and Measles Antibody Relationship__
+A comprehensive study using data from the National Health and Nutrition Examination Survey (NHANES) revealed an inverse relationship between vitamin D levels and measles antibody titers. Participants with higher measles antibody titers showed significantly lower levels of 25-hydroxyvitamin D, with approximately an 8.18% decrease in vitamin D levels compared to those with lower antibody titers   [https://pubmed.ncbi.nlm.nih.gov/30500845/|1]
+__Maternal-Child Vitamin D Impact__
+Research has shown that vitamin D plays a crucial role in immune responses through vitamin D receptors (VDR) expressed on immune cells. A study of mother-child pairs demonstrated:
+*Strong correlation between maternal vitamin D levels and infants&#39; anti-measles virus antibody responses (r2=0.71)  [https://repository.maseno.ac.ke/handle/123456789/834|2]
+*Varying vitamin D status among pregnant women and infants, with some showing deficiency (&lt;25nmol/L) and insufficiency (&lt;50nmol/L)   [https://repository.maseno.ac.ke/handle/123456789/834|2]
+__Nutritional Status and Antibody Response__
+Multiple micronutrients, including vitamin D, have been found to influence measles antibody responses. Deficiencies in vitamin D, along with vitamins A and B12, and iron, were associated with lower measles IgG titers   [https://www.sciencedirect.com/science/article/pii/S2475299123095422|3]
+__Clinical Implications__
+The relationship between vitamins and measles severity has been documented, particularly with vitamin A. Studies have shown that vitamin levels decrease during measles infection, and children with lower vitamin levels tend to experience:
+*Higher fever rates
+*Longer duration of fever
+*Increased likelihood of hospitalization
+*Lower measles-specific antibody levels   [https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043|4]
+These findings suggest that maintaining adequate vitamin D levels may be important for optimal immune response to measles infection and vaccination, though more research is needed to fully understand these relationships.
+---
+!!!!Asked Perplexity AI: [https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Does Measles has any assocation with low vitamin A?]
+The relationship between measles and vitamin A is significant and well-documented. Here&#39;s a comprehensive explanation of their association:
+__Disease Mechanism__
+Measles infection directly impacts vitamin A levels in several ways:
+*The virus depletes existing vitamin A stores in the body and increases its utilization ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC3437709/|2]
+*Even well-nourished children can experience abnormally low retinol levels during measles infection ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/|3]
+*The combined effect of vitamin A deficiency and measles infection can be particularly serious, as both conditions affect immune function and epithelial tissue ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC7076287/|3]
+__Clinical Impact__
+__Severity of Illness__
+Children with low vitamin A levels during measles infection are more likely to experience:
+*Higher fevers (40°C or higher)
+*Extended fever duration (7 days or more)
+*Increased hospitalization rates
+*Lower measles-specific antibody levels ~hs~[https://jamanetwork.com/journals/jamapediatrics/article-abstract/516043|1]
+__Treatment Benefits__
+Vitamin A supplementation has shown significant benefits:
+*Reduces mortality risk by 87% in children under 2 years ~hs~[https://methods.cochrane.org/equity/vitamin-measles|4]
+*Shortens diarrhea duration by 2 days
+*Reduces fever duration by 1 day ~hs~ [https://methods.cochrane.org/equity/vitamin-measles|4]
+__Current Recommendations__
+The World Health Organization (WHO) recommends:
+*Administration of 200,000 IU of vitamin A twice to children over age 1 with measles ~hs~[https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/|5]
+*All children presenting with measles should receive age-appropriate vitamin A doses, regardless of nutritional status ~hs~[https://www.nfid.org/what-you-should-know-about-measles-and-vitamin-a/|5]
+__Risk Factors__
+The association between measles and vitamin A deficiency is particularly concerning in:
+*Children under 2 years of age
+*Populations in low and middle-income countries
+*Areas where vitamin A deficiency is prevalent ~hs~[https://methods.cochrane.org/equity/vitamin-measles|4]
+---
+!!!!~~#F00:7+~~ VitaminDWiki pages have MEASLES in the title
+&#39;&#39;The list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;150&quot;}
+{filter field=&quot;title&quot; content=&quot;MEASLES&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!VitaminDWiki – ((Vitamin D and Vitamin A|Vitamin A)) category listing has ~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~ and map
+{img type=&quot;attId&quot; attId=&quot;11628&quot; width=&quot;700&quot;}
+
+&#39;&#39;__Note: [https://www.perplexity.ai/search/does-measles-has-any-assocatio-WWTh1p6nT3KXzrxKcR8bAQ|Perplexity]: &quot;India ranks as the second most affected country globally for measles cases, with 65,150 cases reported,&quot;__&#39;&#39;
+---
+!!!!VitaminDWiki - ((COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor|COVID, influenza, hepatitis B, measles, etc. vaccine responses vary with Vitamin D and its receptor))
+----
+!!!!Vitamin  D might fight measles in 4 ways: Chat-GPT Deep Research Feb 2025
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22348&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki - ((Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011|Vitamin D can inhibit many enveloped viruses such as Measles))
+---
+!!!!Does Vitamin D fight most enveloped virus? - Asked Perplexity AI - Aug 2024
+Based on the provided search results, there is evidence suggesting that vitamin D may help fight against many enveloped viruses:
+#Vitamin D has been shown to have direct anti-viral effects, particularly against enveloped viruses. It may disrupt viral envelopes through interactions similar to anti-microbial peptides.
+#Vitamin D enhances cellular innate immunity partly through the induction of antimicrobial peptides like human cathelicidin LL-37 and defensins. These peptides exhibit direct antimicrobial activities against a spectrum of microbes, including enveloped viruses.
+#A meta-analysis underlined the vitamin D receptor (VDR) FokI polymorphism as a risk factor for enveloped virus infection. The analysis included studies on dengue virus, respiratory syncytial virus (RSV), and hepatitis B virus.
+#Vitamin D deficiency has been reported to increase the risk of several viral infections including influenza, HIV, and COVID-19, many of which are caused by enveloped viruses. Vitamin D supplementation is proposed to reduce infection risk or severity in these cases.
+#Vitamin D contributes to reducing the risk of microbial infection, including enveloped viruses, through actions on physical barriers, cellular natural immunity, and adaptive immunity. It induces production of cathelicidins and defensins that have direct activity against enveloped viruses.
+In summary, while more research is needed, the available evidence suggests vitamin D likely plays a beneficial role in fighting against and preventing infections with many enveloped viruses through various mechanisms involving the immune system and direct antiviral activities.   [https://www.perplexity.ai/search/does-vitamin-d-fight-most-enve-Pa7C14rdRVK2YLZ0q7MWUA| 5 references in Perplexity AI]
+---
+!!!!Measles not expected to be stopped until 95% of all children are vaccinated (currently 60% in some countries) - March 2025
+__[https://www.malone.news/p/well-being-measles-truth-versus-fiction?utm_source=post-email-title&amp;publication_id=583200&amp;post_id=158103114&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email|Well Being: Measles- Truth Versus Fiction] Robert Malone - substack__
+there were 1200 cases of measles in the US in 2019
+*&quot;The USA now has a predominantly MMR-vaccinated population, which has less immunity than those who were exposed to the disease, typically in childhood. The implication is that vaccine-resistant cases of measles are and will become more commonplace.&quot;  No more natural herd immunity
+*&quot;If I were a parent and wished to use the MMR vaccine, I would push out that timeline of 12 to 15 months (CDC) much further, basically until at least the child is school-aged. &quot;
+---
+!!!!Measles and Nutrition: Is it a Nutritional Deficiency Disease? - March 22, 2025
+[https://healthalways.com/measles-and-nutrition/#suggested-nutrient-doses-for-measles-prevention-and-management]
+Richard Z. Cheng, M.D., Ph.D. Orthomolecular News
+It contains __Suggested Nutrient Doses for Measles Prevention and Management:__
+Vitamin A: 50,000-100,000 IU (acute), 10,000-25,000 IU (prevention) – supports mucosal integrity &amp; immune function.
+Vitamin C: 5,000-20,000 mg/day – reduces oxidative stress &amp; viral load. Reduce dose if it causes a laxative effect.
+Vitamin D: 5,000-10,000 IU/day – modulates immunity, reduces inflammation.
+Zinc: 30-75 mg/day – inhibits viral replication.
+Selenium: 200-400 mcg/day – prevents viral mutations, boosts immunity.
+Quercetin: 500-1,500 mg/day – functions as a zinc ionophore, enhances antiviral effects.
+NAC (N-Acetylcysteine): 600-2,000 mg/day – boosts glutathione, reduces lung inflammation.
+Vitamin E: 200-800 IU/day – combats oxidative stress, protects immune cells.
+Glutathione: 500-1,000 mg/day – master antioxidant that supports immune defense.
+Alpha-Lipoic Acid (ALA): 300-600 mg/day – regenerates antioxidants, prevents oxidative damage.
+Omega-3 Fatty Acids (EPA/DHA): 2,000-4,000 mg/day – reduces lung inflammation, supports immune function.
+Magnesium: 500-1,500 mg/day (glycinate, malate, or threonate) 
+ ~hs~ ~hs~ – supports immune function, reduces inflammation. Reduce dose if it causes a laxative effect.
+Resveratrol: 200-500 mg/day – inhibits viral replication, provides antioxidant benefits.
+B Vitamins (B1, B2, B3, B6, B12): B1: 100-500 mg/day; B3: 500-2,000 mg/day; B12: 500-2,000 mcg/day 
+ ~hs~ ~hs~ – essential for mitochondrial function, immune energy production.
+Coenzyme Q10 (CoQ10): 100-300 mg/day – supports mitochondrial function, prevents viral-induced fatigue.
+---
+!!!!! There have been ~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15671{SQL}~~ visits to this page 
+~tc~ (alias(Measles and low vitamin D)) ~/tc~
+</code>
+</pre>

@@ -1,0 +1,1175 @@
+---
+title: "60% people surveyed with rheumatic conditions are switching to medical cannabis"
+slug: "60-percent-people-surveyed-with-rheumatic-conditions-are-switching-to-medical-cannabis"
+aliases:
+  - "/60+people+surveyed+with+rheumatic+conditions+are+switching+to+medical+cannabis+–+Nov+2024"
+  - "/15656"
+tiki_page_id: 15656
+date: 2024-11-07
+---
+
+
+{{< toc >}}
+
+---
+
+#### [Cannabis Often Used as a Substitute for Traditional Medications](https://www.mdedge.com/rheumatology/article/271421/rheumatoid-arthritis/cannabis-often-used-substitute-traditional?ecd=WNL_EVE_241106_mdedge&uac=138704MX&sso=true) MdEdge
+
+Overall, 62.5% reported substituting medical cannabis for certain medications, including
+
+* NSAIDs (54.7%),
+
+* opioids (48.6%),
+
+* sleep aids (29.6%),
+
+* muscle relaxants (25.2%),
+
+* benzodiazepines (15.5%), and
+
+* gabapentinoids (10.5%).
+
+The most common reasons given for substituting medical cannabis were
+
+* fewer side effects (39%),
+
+* better symptom control (27%), and
+
+* fewer adverse effects (12%).
+
+Participants who substituted medical cannabis reported significant improvements in symptoms such as pain, sleep, joint stiffness, muscle spasms, and inflammation, and in overall health, compared with those who did not substitute it for medications.
+
+The substitution group was more likely to use inhalation methods (smoking and vaporizing) than the nonsubstitution group; they also used medical cannabis more frequently and preferred products containing delta-9-tetrahydrocannabinol.
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/after-cannabis.webp" alt="image" width="800">
+
+ **Reference** 
+
+Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada September 2024
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/medical-cannabis---rheumatic-conditions-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### % of states where Cannabis is legal: 96% medical, 48% recreational (Nov 2024)
+
+* Doctors cannot technically "prescribe" cannabis because it remains a Schedule I drug under federal law1. Instead, they provide a "recommendation," "certification," or "statement" that grants patients legal access to cannabis dispensaries
+
+---
+
+#### A portion of Cannabis, CBD, relieves pain without getting high
+
+ **[CBD - many studies](/posts/cbd-many-studies)** 
+
+---
+
+##### 97,900 instances of (Cannabidiol OR CBD) and Pain in Google Scholar (Nov 2024)
+
+* Patient-Reported Outcomes of Pain, Stiffness, and Fatigue Reduction in Rheumatoid and Psoriatic Arthritis With Cannabinoid Use  - Oct 2024 10.7759/cureus.72366 FREE PDF
+
+* Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada - Sept 2024 [FREE PDF](https://doi.org/10.1002/acr2.11717)
+
+* An open-label feasibility trial of transdermal cannabidiol for hand osteoarthritis - May 2024 [FREE PDF](https://doi.org/10.1038/s41598-024-62428-x)
+
+---
+
+#### Vitamin D, a great pain reliever, and is available over-the-counter in all 50 states and <a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">virtually all countries</a>
+
+* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a> table of contents as of Nov 2024
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/pain-toc.webp" alt="image" width="700">
+
+---
+
+#### What is the definition of a rheumatic condition? - [Asked Perplexity AI Nov 2024](https://www.perplexity.ai/search/in-what-of-states-is-medical-c-qY_d9BHlSNKarVqJBdAJQw)
+
+A rheumatic condition is a complex group of disorders that primarily affects the musculoskeletal system.
+
+Here's a comprehensive definition:
+
+&nbsp; &nbsp; Rheumatic conditions are disorders that cause chronic, often intermittent pain affecting the joints, muscles, bones, and connective tissues
+
+These conditions encompass more than 200 different diseases and can be inflammatory, autoimmune, or degenerative in nature
+
+ **Key Characteristics** 
+
+* They typically affect joints, tendons, ligaments, bones, and muscles
+
+* Can cause inflammation, tissue degeneration, and autoimmune dysfunction
+
+* May also impact internal organs and other body systems
+
+* Often involve systemic inflammation and immune system dysregulation
+
+ **Common Features** 
+
+The primary symptoms of rheumatic conditions include:
+
+* Joint pain, soreness, and tenderness
+
+* Inflammation, swelling, and warmth in affected areas
+
+* Morning stiffness and limited joint motion
+
+* Chronic fatigue
+
+* Symptoms that fluctuate with weather conditions
+
+ **Scope** 
+
+In the United States alone, rheumatic conditions affect approximately:
+
+* 54 million adults
+
+* 300,000 children
+
+The term "rheumatism" itself comes from the Late Latin "rheumatismus" and Greek roots meaning "to suffer from a flux," historically referring to the belief that these conditions were caused by the flow of bodily fluids into joints
+
+---
+
+#### Most Rheumatic Conditions are treated by Vitamin D
+
+Autoimmune Rheumatic Diseases
+
+* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D">Rheumatoid Arthritis</a> (RA) - affects approximately 1.3 million people in the U.S.
+
+* [Systemic Lupus Erythematosus](https://VitaminDWiki.com/Lupus) (SLE)
+
+* <a href="/posts/sjogrens-disease-dry-eye-dry-mouth-etc-associated-with-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sjögren's Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023">Sjögren's Syndrome</a>
+
+* Scleroderma ( <a href="/posts/low-vitamin-d-strongly-associated-with-systemic-sclerosis-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Vitamin D strongly associated with Systemic Sclerosis - many studies">Systemic Sclerosis</a> )
+
+* Dermatomyositis/Polymyositis
+
+* Mixed Connective Tissue Disease
+
+Inflammatory Arthritis
+
+* Psoriatic Arthritis
+
+* <a href="/posts/ankylosing-spondylitis-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ankylosing spondylitis and low vitamin D – many studies">Ankylosing Spondylitis</a>
+
+* Reactive Arthritis
+
+* Infectious Arthritis
+
+* <a href="/posts/gout-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gout and Vitamin D - many studies">Gout</a>
+
+* <a href="/posts/juvenile-idiopathic-arthritis-is-strongly-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies">Juvenile Idiopathic Arthritis</a>
+
+Vascular Rheumatic Diseases
+
+Degenerative Conditions
+
+* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Osteoarthritis</a> - affects about 32.5 million adults in the U.S.
+
+* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Osteoporosis</a>
+
+* Tendinitis
+
+* <a href="/posts/bursitis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bursitis and Vitamin D">Bursitis</a>
+
+Other Rheumatic Conditions
+
+* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Fibromyalgia</a>
+
+* Polymyalgia Rheumatica
+
+* <a href="/posts/sarcoidosis-rare-problems-when-taking-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sarcoidosis (rare) problems when taking vitamin D - many studies">Sarcoidosis</a>
+
+* Inflammatory Eye Disease
+
+* Autoimmune-related Lung Disease
+
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### [Cannabis Often Used as a Substitute for Traditional Medications](https://www.mdedge.com/rheumatology/article/271421/rheumatoid-arthritis/cannabis-often-used-substitute-traditional?ecd=WNL_EVE_241106_mdedge&amp;uac=138704MX&amp;sso=true) MdEdge
+
+Overall, 62.5% reported substituting medical cannabis for certain medications, including
+
+* NSAIDs (54.7%),
+
+* opioids (48.6%),
+
+* sleep aids (29.6%),
+
+* muscle relaxants (25.2%),
+
+* benzodiazepines (15.5%), and
+
+* gabapentinoids (10.5%).
+
+The most common reasons given for substituting medical cannabis were
+
+* fewer side effects (39%),
+
+* better symptom control (27%), and
+
+* fewer adverse effects (12%).
+
+Participants who substituted medical cannabis reported significant improvements in symptoms such as pain, sleep, joint stiffness, muscle spasms, and inflammation, and in overall health, compared with those who did not substitute it for medications.
+
+The substitution group was more likely to use inhalation methods (smoking and vaporizing) than the nonsubstitution group; they also used medical cannabis more frequently and preferred products containing delta-9-tetrahydrocannabinol.
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/after-cannabis.webp&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
+
+ **Reference** 
+
+Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada September 2024
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/medical-cannabis---rheumatic-conditions-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### % of states where Cannabis is legal: 96% medical, 48% recreational (Nov 2024)
+
+* Doctors cannot technically &quot;prescribe&quot; cannabis because it remains a Schedule I drug under federal law1. Instead, they provide a &quot;recommendation,&quot; &quot;certification,&quot; or &quot;statement&quot; that grants patients legal access to cannabis dispensaries
+
+---
+
+#### A portion of Cannabis, CBD, relieves pain without getting high
+
+ **[CBD - many studies](/posts/cbd-many-studies)** 
+
+---
+
+##### 97,900 instances of (Cannabidiol OR CBD) and Pain in Google Scholar (Nov 2024)
+
+* Patient-Reported Outcomes of Pain, Stiffness, and Fatigue Reduction in Rheumatoid and Psoriatic Arthritis With Cannabinoid Use  - Oct 2024 10.7759/cureus.72366 FREE PDF
+
+* Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada - Sept 2024 [FREE PDF](https://doi.org/10.1002/acr2.11717)
+
+* An open-label feasibility trial of transdermal cannabidiol for hand osteoarthritis - May 2024 [FREE PDF](https://doi.org/10.1038/s41598-024-62428-x)
+
+---
+
+#### Vitamin D, a great pain reliever, and is available over-the-counter in all 50 states and &lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;virtually all countries&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/overview-pain-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Pain and Vitamin D&quot;&gt;Overview Pain and Vitamin D&lt;/a&gt; table of contents as of Nov 2024
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/pain-toc.webp&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
+
+---
+
+#### What is the definition of a rheumatic condition? - [Asked Perplexity AI Nov 2024](https://www.perplexity.ai/search/in-what-of-states-is-medical-c-qY_d9BHlSNKarVqJBdAJQw)
+
+A rheumatic condition is a complex group of disorders that primarily affects the musculoskeletal system.
+
+Here&#39;s a comprehensive definition:
+
+&amp;nbsp; &amp;nbsp; Rheumatic conditions are disorders that cause chronic, often intermittent pain affecting the joints, muscles, bones, and connective tissues
+
+These conditions encompass more than 200 different diseases and can be inflammatory, autoimmune, or degenerative in nature
+
+ **Key Characteristics** 
+
+* They typically affect joints, tendons, ligaments, bones, and muscles
+
+* Can cause inflammation, tissue degeneration, and autoimmune dysfunction
+
+* May also impact internal organs and other body systems
+
+* Often involve systemic inflammation and immune system dysregulation
+
+ **Common Features** 
+
+The primary symptoms of rheumatic conditions include:
+
+* Joint pain, soreness, and tenderness
+
+* Inflammation, swelling, and warmth in affected areas
+
+* Morning stiffness and limited joint motion
+
+* Chronic fatigue
+
+* Symptoms that fluctuate with weather conditions
+
+ **Scope** 
+
+In the United States alone, rheumatic conditions affect approximately:
+
+* 54 million adults
+
+* 300,000 children
+
+The term &quot;rheumatism&quot; itself comes from the Late Latin &quot;rheumatismus&quot; and Greek roots meaning &quot;to suffer from a flux,&quot; historically referring to the belief that these conditions were caused by the flow of bodily fluids into joints
+
+---
+
+#### Most Rheumatic Conditions are treated by Vitamin D
+
+Autoimmune Rheumatic Diseases
+
+* &lt;a href=&quot;/posts/overview-rheumatoid-arthritis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D&quot;&gt;Rheumatoid Arthritis&lt;/a&gt; (RA) - affects approximately 1.3 million people in the U.S.
+
+* [Systemic Lupus Erythematosus](https://VitaminDWiki.com/Lupus) (SLE)
+
+* &lt;a href=&quot;/posts/sjogrens-disease-dry-eye-dry-mouth-etc-associated-with-low-vitamin-d-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023&quot;&gt;Sjögren&#39;s Syndrome&lt;/a&gt;
+
+* Scleroderma ( &lt;a href=&quot;/posts/low-vitamin-d-strongly-associated-with-systemic-sclerosis-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Low Vitamin D strongly associated with Systemic Sclerosis - many studies&quot;&gt;Systemic Sclerosis&lt;/a&gt; )
+
+* Dermatomyositis/Polymyositis
+
+* Mixed Connective Tissue Disease
+
+Inflammatory Arthritis
+
+* Psoriatic Arthritis
+
+* &lt;a href=&quot;/posts/ankylosing-spondylitis-and-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ankylosing spondylitis and low vitamin D – many studies&quot;&gt;Ankylosing Spondylitis&lt;/a&gt;
+
+* Reactive Arthritis
+
+* Infectious Arthritis
+
+* &lt;a href=&quot;/posts/gout-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gout and Vitamin D - many studies&quot;&gt;Gout&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/juvenile-idiopathic-arthritis-is-strongly-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies&quot;&gt;Juvenile Idiopathic Arthritis&lt;/a&gt;
+
+Vascular Rheumatic Diseases
+
+Degenerative Conditions
+
+* &lt;a href=&quot;/posts/overview-osteoarthritis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Osteoarthritis and Vitamin D&quot;&gt;Osteoarthritis&lt;/a&gt; - affects about 32.5 million adults in the U.S.
+
+* &lt;a href=&quot;/posts/overview-osteoporosis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Osteoporosis and vitamin D&quot;&gt;Osteoporosis&lt;/a&gt;
+
+* Tendinitis
+
+* &lt;a href=&quot;/posts/bursitis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bursitis and Vitamin D&quot;&gt;Bursitis&lt;/a&gt;
+
+Other Rheumatic Conditions
+
+* &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D&quot;&gt;Fibromyalgia&lt;/a&gt;
+
+* Polymyalgia Rheumatica
+
+* &lt;a href=&quot;/posts/sarcoidosis-rare-problems-when-taking-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sarcoidosis (rare) problems when taking vitamin D - many studies&quot;&gt;Sarcoidosis&lt;/a&gt;
+
+* Inflammatory Eye Disease
+
+* Autoimmune-related Lung Disease
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV( class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: ( class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!![https://www.mdedge.com/rheumatology/article/271421/rheumatoid-arthritis/cannabis-often-used-substitute-traditional?ecd=WNL_EVE_241106_mdedge&amp;uac=138704MX&amp;sso=true|Cannabis Often Used as a Substitute for Traditional Medications] MdEdge`
+│   inner_content: `[https://www.mdedge.com/rheumatology/article/271421/rheumatoid-arthritis/cannabis-often-used-substitute-traditional?ecd=WNL_EVE_241106_mdedge&amp;uac=138704MX&amp;sso=true|Cannabis Often Used as a Substitute for Traditional Medications] MdEdge`
+│   level: `4`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.mdedge.com/rheumatology/article/271421/rheumatoid-arthritis/cannabis-often-used-substitute-traditional?ecd=WNL_EVE_241106_mdedge&amp;uac=138704MX&amp;sso=true|Cannabis Often Used as a Substitute for Traditional Medications]`
+│   │   inner_content: `Cannabis Often Used as a Substitute for Traditional Medications`
+│   │   url: `https://www.mdedge.com/rheumatology/article/271421/rheumatoid-arthritis/cannabis-often-used-substitute-traditional?ecd=WNL_EVE_241106_mdedge&amp;uac=138704MX&amp;sso=true`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cannabis Often Used as a Substitute for Traditional Medications`
+│   │   │   inner_content: `Cannabis Often Used as a Substitute for Traditional Medications`
+│   ├── TextNode
+│   │   full_match: ` MdEdge`
+│   │   inner_content: ` MdEdge`├── TextNode
+│   full_match: `\nOverall, 62.5% reported substituting medical cannabis for certain medications, including\n`
+│   inner_content: `\nOverall, 62.5% reported substituting medical cannabis for certain medications, including\n`├── ListItemNode
+│   full_match: `*NSAIDs (54.7%),`
+│   inner_content: `NSAIDs (54.7%),`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `NSAIDs (54.7%),`
+│   │   inner_content: `NSAIDs (54.7%),`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*opioids (48.6%),`
+│   inner_content: `opioids (48.6%),`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `opioids (48.6%),`
+│   │   inner_content: `opioids (48.6%),`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*sleep aids (29.6%),`
+│   inner_content: `sleep aids (29.6%),`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `sleep aids (29.6%),`
+│   │   inner_content: `sleep aids (29.6%),`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*muscle relaxants (25.2%),`
+│   inner_content: `muscle relaxants (25.2%),`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `muscle relaxants (25.2%),`
+│   │   inner_content: `muscle relaxants (25.2%),`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*benzodiazepines (15.5%), and`
+│   inner_content: `benzodiazepines (15.5%), and`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `benzodiazepines (15.5%), and`
+│   │   inner_content: `benzodiazepines (15.5%), and`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*gabapentinoids (10.5%).`
+│   inner_content: `gabapentinoids (10.5%).`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `gabapentinoids (10.5%).`
+│   │   inner_content: `gabapentinoids (10.5%).`├── TextNode
+│   full_match: `\nThe most common reasons given for substituting medical cannabis were\n`
+│   inner_content: `\nThe most common reasons given for substituting medical cannabis were\n`├── ListItemNode
+│   full_match: `*fewer side effects (39%),`
+│   inner_content: `fewer side effects (39%),`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `fewer side effects (39%),`
+│   │   inner_content: `fewer side effects (39%),`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*better symptom control (27%), and`
+│   inner_content: `better symptom control (27%), and`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `better symptom control (27%), and`
+│   │   inner_content: `better symptom control (27%), and`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*fewer adverse effects (12%).`
+│   inner_content: `fewer adverse effects (12%).`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `fewer adverse effects (12%).`
+│   │   inner_content: `fewer adverse effects (12%).`├── TextNode
+│   full_match: `\nParticipants who substituted medical cannabis reported significant improvements in symptoms such as pain, sleep, joint stiffness, muscle spasms, and inflammation, and in overall health, compared with those who did not substitute it for medications.\nThe substitution group was more likely to use inhalation methods (smoking and vaporizing) than the nonsubstitution group; they also used medical cannabis more frequently and preferred products containing delta-9-tetrahydrocannabinol.\n`
+│   inner_content: `\nParticipants who substituted medical cannabis reported significant improvements in symptoms such as pain, sleep, joint stiffness, muscle spasms, and inflammation, and in overall health, compared with those who did not substitute it for medications.\nThe substitution group was more likely to use inhalation methods (smoking and vaporizing) than the nonsubstitution group; they also used medical cannabis more frequently and preferred products containing delta-9-tetrahydrocannabinol.\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21939&quot; width=&quot;800&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21939&quot; width=&quot;800&quot;
+│   │   type: attId
+│   │   attId: 21939
+│   │   width: 800├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__Reference__`
+│   inner_content: `Reference`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Reference`
+│   │   inner_content: `Reference`├── TextNode
+│   full_match: `\nSubstituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada September 2024\n`
+│   inner_content: `\nSubstituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada September 2024\n`├── FontNode
+│   full_match: `{FONT( size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21938&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21938&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content:  size=&quot;16&quot;
+│   │   size: 16
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21938&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21938&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21938&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21938&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21938
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!% of states where Cannabis is legal: 96% medical, 48% recreational (Nov 2024)`
+│   inner_content: `% of states where Cannabis is legal: 96% medical, 48% recreational (Nov 2024)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `% of states where Cannabis is legal: 96% medical, 48% recreational (Nov 2024)`
+│   │   inner_content: `% of states where Cannabis is legal: 96% medical, 48% recreational (Nov 2024)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Doctors cannot technically &quot;prescribe&quot; cannabis because it remains a Schedule I drug under federal law1. Instead, they provide a &quot;recommendation,&quot; &quot;certification,&quot; or &quot;statement&quot; that grants patients legal access to cannabis dispensaries`
+│   inner_content: `Doctors cannot technically &quot;prescribe&quot; cannabis because it remains a Schedule I drug under federal law1. Instead, they provide a &quot;recommendation,&quot; &quot;certification,&quot; or &quot;statement&quot; that grants patients legal access to cannabis dispensaries`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Doctors cannot technically &quot;prescribe&quot; cannabis because it remains a Schedule I drug under federal law1. Instead, they provide a &quot;recommendation,&quot; &quot;certification,&quot; or &quot;statement&quot; that grants patients legal access to cannabis dispensaries`
+│   │   inner_content: `Doctors cannot technically &quot;prescribe&quot; cannabis because it remains a Schedule I drug under federal law1. Instead, they provide a &quot;recommendation,&quot; &quot;certification,&quot; or &quot;statement&quot; that grants patients legal access to cannabis dispensaries`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!A portion of Cannabis, CBD, relieves pain without getting high`
+│   inner_content: `A portion of Cannabis, CBD, relieves pain without getting high`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A portion of Cannabis, CBD, relieves pain without getting high`
+│   │   inner_content: `A portion of Cannabis, CBD, relieves pain without getting high`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__((CBD - many studies))__`
+│   inner_content: `((CBD - many studies))`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((CBD - many studies))`
+│   │   inner_content: `CBD - many studies`
+│   │   page: `CBD - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CBD - many studies`
+│   │   │   inner_content: `CBD - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!97,900 instances of (Cannabidiol OR CBD) and Pain in Google Scholar (Nov 2024)`
+│   inner_content: `97,900 instances of (Cannabidiol OR CBD) and Pain in Google Scholar (Nov 2024)`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `97,900 instances of (Cannabidiol OR CBD) and Pain in Google Scholar (Nov 2024)`
+│   │   inner_content: `97,900 instances of (Cannabidiol OR CBD) and Pain in Google Scholar (Nov 2024)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Patient-Reported Outcomes of Pain, Stiffness, and Fatigue Reduction in Rheumatoid and Psoriatic Arthritis With Cannabinoid Use  - Oct 2024 10.7759/cureus.72366 FREE PDF`
+│   inner_content: `Patient-Reported Outcomes of Pain, Stiffness, and Fatigue Reduction in Rheumatoid and Psoriatic Arthritis With Cannabinoid Use  - Oct 2024 10.7759/cureus.72366 FREE PDF`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Patient-Reported Outcomes of Pain, Stiffness, and Fatigue Reduction in Rheumatoid and Psoriatic Arthritis With Cannabinoid Use  - Oct 2024 10.7759/cureus.72366 FREE PDF`
+│   │   inner_content: `Patient-Reported Outcomes of Pain, Stiffness, and Fatigue Reduction in Rheumatoid and Psoriatic Arthritis With Cannabinoid Use  - Oct 2024 10.7759/cureus.72366 FREE PDF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada - Sept 2024 [https://doi.org/10.1002/acr2.11717|FREE PDF]`
+│   inner_content: `Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada - Sept 2024 [https://doi.org/10.1002/acr2.11717|FREE PDF]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada - Sept 2024 `
+│   │   inner_content: `Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada - Sept 2024 `
+│   ├── LinkNode
+│   │   full_match: `[https://doi.org/10.1002/acr2.11717|FREE PDF]`
+│   │   inner_content: `FREE PDF`
+│   │   url: `https://doi.org/10.1002/acr2.11717`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `FREE PDF`
+│   │   │   inner_content: `FREE PDF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*An open-label feasibility trial of transdermal cannabidiol for hand osteoarthritis - May 2024 [https://doi.org/10.1038/s41598-024-62428-x|FREE PDF]`
+│   inner_content: `An open-label feasibility trial of transdermal cannabidiol for hand osteoarthritis - May 2024 [https://doi.org/10.1038/s41598-024-62428-x|FREE PDF]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `An open-label feasibility trial of transdermal cannabidiol for hand osteoarthritis - May 2024 `
+│   │   inner_content: `An open-label feasibility trial of transdermal cannabidiol for hand osteoarthritis - May 2024 `
+│   ├── LinkNode
+│   │   full_match: `[https://doi.org/10.1038/s41598-024-62428-x|FREE PDF]`
+│   │   inner_content: `FREE PDF`
+│   │   url: `https://doi.org/10.1038/s41598-024-62428-x`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `FREE PDF`
+│   │   │   inner_content: `FREE PDF`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D, a great pain reliever, and is available over-the-counter in all 50 states and ((Can get 50,000 IU Vitamin D anywhere on the globe|virtually all countries))`
+│   inner_content: `Vitamin D, a great pain reliever, and is available over-the-counter in all 50 states and ((Can get 50,000 IU Vitamin D anywhere on the globe|virtually all countries))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D, a great pain reliever, and is available over-the-counter in all 50 states and `
+│   │   inner_content: `Vitamin D, a great pain reliever, and is available over-the-counter in all 50 states and `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Can get 50,000 IU Vitamin D anywhere on the globe|virtually all countries))`
+│   │   inner_content: `Can get 50,000 IU Vitamin D anywhere on the globe|virtually all countries`
+│   │   page: `Can get 50,000 IU Vitamin D anywhere on the globe`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Can get 50,000 IU Vitamin D anywhere on the globe|virtually all countries`
+│   │   │   inner_content: `Can get 50,000 IU Vitamin D anywhere on the globe|virtually all countries`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Overview Pain and Vitamin D)) table of contents as of Nov 2024`
+│   inner_content: `((Overview Pain and Vitamin D)) table of contents as of Nov 2024`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Pain and Vitamin D))`
+│   │   inner_content: `Overview Pain and Vitamin D`
+│   │   page: `Overview Pain and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Pain and Vitamin D`
+│   │   │   inner_content: `Overview Pain and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` table of contents as of Nov 2024`
+│   │   inner_content: ` table of contents as of Nov 2024`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21940&quot; width=&quot;700&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21940&quot; width=&quot;700&quot;
+│   │   type: attId
+│   │   attId: 21940
+│   │   width: 700├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!What is the definition of a rheumatic condition? - [https://www.perplexity.ai/search/in-what-of-states-is-medical-c-qY_d9BHlSNKarVqJBdAJQw|Asked Perplexity AI Nov 2024]`
+│   inner_content: `What is the definition of a rheumatic condition? - [https://www.perplexity.ai/search/in-what-of-states-is-medical-c-qY_d9BHlSNKarVqJBdAJQw|Asked Perplexity AI Nov 2024]`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `What is the definition of a rheumatic condition? - `
+│   │   inner_content: `What is the definition of a rheumatic condition? - `
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/in-what-of-states-is-medical-c-qY_d9BHlSNKarVqJBdAJQw|Asked Perplexity AI Nov 2024]`
+│   │   inner_content: `Asked Perplexity AI Nov 2024`
+│   │   url: `https://www.perplexity.ai/search/in-what-of-states-is-medical-c-qY_d9BHlSNKarVqJBdAJQw`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Asked Perplexity AI Nov 2024`
+│   │   │   inner_content: `Asked Perplexity AI Nov 2024`├── TextNode
+│   full_match: `\nA rheumatic condition is a complex group of disorders that primarily affects the musculoskeletal system.\nHere&#39;s a comprehensive definition:\n`
+│   inner_content: `\nA rheumatic condition is a complex group of disorders that primarily affects the musculoskeletal system.\nHere&#39;s a comprehensive definition:\n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` Rheumatic conditions are disorders that cause chronic, often intermittent pain affecting the joints, muscles, bones, and connective tissues\nThese conditions encompass more than 200 different diseases and can be inflammatory, autoimmune, or degenerative in nature\n`
+│   inner_content: ` Rheumatic conditions are disorders that cause chronic, often intermittent pain affecting the joints, muscles, bones, and connective tissues\nThese conditions encompass more than 200 different diseases and can be inflammatory, autoimmune, or degenerative in nature\n`├── BoldNode
+│   full_match: `__Key Characteristics__`
+│   inner_content: `Key Characteristics`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Key Characteristics`
+│   │   inner_content: `Key Characteristics`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*They typically affect joints, tendons, ligaments, bones, and muscles`
+│   inner_content: `They typically affect joints, tendons, ligaments, bones, and muscles`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `They typically affect joints, tendons, ligaments, bones, and muscles`
+│   │   inner_content: `They typically affect joints, tendons, ligaments, bones, and muscles`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Can cause inflammation, tissue degeneration, and autoimmune dysfunction`
+│   inner_content: `Can cause inflammation, tissue degeneration, and autoimmune dysfunction`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Can cause inflammation, tissue degeneration, and autoimmune dysfunction`
+│   │   inner_content: `Can cause inflammation, tissue degeneration, and autoimmune dysfunction`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*May also impact internal organs and other body systems`
+│   inner_content: `May also impact internal organs and other body systems`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `May also impact internal organs and other body systems`
+│   │   inner_content: `May also impact internal organs and other body systems`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Often involve systemic inflammation and immune system dysregulation`
+│   inner_content: `Often involve systemic inflammation and immune system dysregulation`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Often involve systemic inflammation and immune system dysregulation`
+│   │   inner_content: `Often involve systemic inflammation and immune system dysregulation`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Common Features__`
+│   inner_content: `Common Features`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Common Features`
+│   │   inner_content: `Common Features`├── TextNode
+│   full_match: `\nThe primary symptoms of rheumatic conditions include:\n`
+│   inner_content: `\nThe primary symptoms of rheumatic conditions include:\n`├── ListItemNode
+│   full_match: `*Joint pain, soreness, and tenderness`
+│   inner_content: `Joint pain, soreness, and tenderness`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Joint pain, soreness, and tenderness`
+│   │   inner_content: `Joint pain, soreness, and tenderness`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Inflammation, swelling, and warmth in affected areas`
+│   inner_content: `Inflammation, swelling, and warmth in affected areas`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Inflammation, swelling, and warmth in affected areas`
+│   │   inner_content: `Inflammation, swelling, and warmth in affected areas`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Morning stiffness and limited joint motion`
+│   inner_content: `Morning stiffness and limited joint motion`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Morning stiffness and limited joint motion`
+│   │   inner_content: `Morning stiffness and limited joint motion`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Chronic fatigue`
+│   inner_content: `Chronic fatigue`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Chronic fatigue`
+│   │   inner_content: `Chronic fatigue`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Symptoms that fluctuate with weather conditions`
+│   inner_content: `Symptoms that fluctuate with weather conditions`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Symptoms that fluctuate with weather conditions`
+│   │   inner_content: `Symptoms that fluctuate with weather conditions`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Scope__`
+│   inner_content: `Scope`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Scope`
+│   │   inner_content: `Scope`├── TextNode
+│   full_match: `\nIn the United States alone, rheumatic conditions affect approximately:\n`
+│   inner_content: `\nIn the United States alone, rheumatic conditions affect approximately:\n`├── ListItemNode
+│   full_match: `*54 million adults`
+│   inner_content: `54 million adults`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `54 million adults`
+│   │   inner_content: `54 million adults`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*300,000 children`
+│   inner_content: `300,000 children`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `300,000 children`
+│   │   inner_content: `300,000 children`├── TextNode
+│   full_match: `\nThe term &quot;rheumatism&quot; itself comes from the Late Latin &quot;rheumatismus&quot; and Greek roots meaning &quot;to suffer from a flux,&quot; historically referring to the belief that these conditions were caused by the flow of bodily fluids into joints`
+│   inner_content: `\nThe term &quot;rheumatism&quot; itself comes from the Late Latin &quot;rheumatismus&quot; and Greek roots meaning &quot;to suffer from a flux,&quot; historically referring to the belief that these conditions were caused by the flow of bodily fluids into joints`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Most Rheumatic Conditions are treated by Vitamin D`
+│   inner_content: `Most Rheumatic Conditions are treated by Vitamin D`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Most Rheumatic Conditions are treated by Vitamin D`
+│   │   inner_content: `Most Rheumatic Conditions are treated by Vitamin D`├── TextNode
+│   full_match: `\nAutoimmune Rheumatic Diseases\n`
+│   inner_content: `\nAutoimmune Rheumatic Diseases\n`├── ListItemNode
+│   full_match: `*((Overview Rheumatoid Arthritis and vitamin D|Rheumatoid Arthritis)) (RA) - affects approximately 1.3 million people in the U.S.`
+│   inner_content: `((Overview Rheumatoid Arthritis and vitamin D|Rheumatoid Arthritis)) (RA) - affects approximately 1.3 million people in the U.S.`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Overview Rheumatoid Arthritis and vitamin D|Rheumatoid Arthritis))`
+│   │   inner_content: `Overview Rheumatoid Arthritis and vitamin D|Rheumatoid Arthritis`
+│   │   page: `Overview Rheumatoid Arthritis and vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Rheumatoid Arthritis and vitamin D|Rheumatoid Arthritis`
+│   │   │   inner_content: `Overview Rheumatoid Arthritis and vitamin D|Rheumatoid Arthritis`
+│   ├── TextNode
+│   │   full_match: ` (RA) - affects approximately 1.3 million people in the U.S.`
+│   │   inner_content: ` (RA) - affects approximately 1.3 million people in the U.S.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://VitaminDWiki.com/Lupus|Systemic Lupus Erythematosus] (SLE)`
+│   inner_content: `[https://VitaminDWiki.com/Lupus|Systemic Lupus Erythematosus] (SLE)`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://VitaminDWiki.com/Lupus|Systemic Lupus Erythematosus]`
+│   │   inner_content: `Systemic Lupus Erythematosus`
+│   │   url: `https://VitaminDWiki.com/Lupus`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Systemic Lupus Erythematosus`
+│   │   │   inner_content: `Systemic Lupus Erythematosus`
+│   ├── TextNode
+│   │   full_match: ` (SLE)`
+│   │   inner_content: ` (SLE)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023|Sjögren&#39;s Syndrome))`
+│   inner_content: `((Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023|Sjögren&#39;s Syndrome))`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023|Sjögren&#39;s Syndrome))`
+│   │   inner_content: `Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023|Sjögren&#39;s Syndrome`
+│   │   page: `Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023|Sjögren&#39;s Syndrome`
+│   │   │   inner_content: `Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023|Sjögren&#39;s Syndrome`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Scleroderma ( ((Low Vitamin D strongly associated with Systemic Sclerosis - many studies|Systemic Sclerosis)) )`
+│   inner_content: `Scleroderma ( ((Low Vitamin D strongly associated with Systemic Sclerosis - many studies|Systemic Sclerosis)) )`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Scleroderma ( `
+│   │   inner_content: `Scleroderma ( `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Low Vitamin D strongly associated with Systemic Sclerosis - many studies|Systemic Sclerosis))`
+│   │   inner_content: `Low Vitamin D strongly associated with Systemic Sclerosis - many studies|Systemic Sclerosis`
+│   │   page: `Low Vitamin D strongly associated with Systemic Sclerosis - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Low Vitamin D strongly associated with Systemic Sclerosis - many studies|Systemic Sclerosis`
+│   │   │   inner_content: `Low Vitamin D strongly associated with Systemic Sclerosis - many studies|Systemic Sclerosis`
+│   ├── TextNode
+│   │   full_match: ` )`
+│   │   inner_content: ` )`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Dermatomyositis/Polymyositis`
+│   inner_content: `Dermatomyositis/Polymyositis`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Dermatomyositis/Polymyositis`
+│   │   inner_content: `Dermatomyositis/Polymyositis`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Mixed Connective Tissue Disease`
+│   inner_content: `Mixed Connective Tissue Disease`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Mixed Connective Tissue Disease`
+│   │   inner_content: `Mixed Connective Tissue Disease`├── TextNode
+│   full_match: `\nInflammatory Arthritis\n`
+│   inner_content: `\nInflammatory Arthritis\n`├── ListItemNode
+│   full_match: `*Psoriatic Arthritis`
+│   inner_content: `Psoriatic Arthritis`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Psoriatic Arthritis`
+│   │   inner_content: `Psoriatic Arthritis`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Ankylosing spondylitis and low vitamin D – many studies|Ankylosing Spondylitis))`
+│   inner_content: `((Ankylosing spondylitis and low vitamin D – many studies|Ankylosing Spondylitis))`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Ankylosing spondylitis and low vitamin D – many studies|Ankylosing Spondylitis))`
+│   │   inner_content: `Ankylosing spondylitis and low vitamin D – many studies|Ankylosing Spondylitis`
+│   │   page: `Ankylosing spondylitis and low vitamin D – many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Ankylosing spondylitis and low vitamin D – many studies|Ankylosing Spondylitis`
+│   │   │   inner_content: `Ankylosing spondylitis and low vitamin D – many studies|Ankylosing Spondylitis`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Reactive Arthritis`
+│   inner_content: `Reactive Arthritis`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Reactive Arthritis`
+│   │   inner_content: `Reactive Arthritis`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Infectious Arthritis`
+│   inner_content: `Infectious Arthritis`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Infectious Arthritis`
+│   │   inner_content: `Infectious Arthritis`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Gout and Vitamin D - many studies|Gout))`
+│   inner_content: `((Gout and Vitamin D - many studies|Gout))`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Gout and Vitamin D - many studies|Gout))`
+│   │   inner_content: `Gout and Vitamin D - many studies|Gout`
+│   │   page: `Gout and Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Gout and Vitamin D - many studies|Gout`
+│   │   │   inner_content: `Gout and Vitamin D - many studies|Gout`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies|Juvenile Idiopathic Arthritis))`
+│   inner_content: `((Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies|Juvenile Idiopathic Arthritis))`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies|Juvenile Idiopathic Arthritis))`
+│   │   inner_content: `Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies|Juvenile Idiopathic Arthritis`
+│   │   page: `Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies|Juvenile Idiopathic Arthritis`
+│   │   │   inner_content: `Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies|Juvenile Idiopathic Arthritis`├── TextNode
+│   full_match: `\nVascular Rheumatic Diseases\nDegenerative Conditions\n`
+│   inner_content: `\nVascular Rheumatic Diseases\nDegenerative Conditions\n`├── ListItemNode
+│   full_match: `*((Overview Osteoarthritis and Vitamin D|Osteoarthritis)) - affects about 32.5 million adults in the U.S.`
+│   inner_content: `((Overview Osteoarthritis and Vitamin D|Osteoarthritis)) - affects about 32.5 million adults in the U.S.`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Overview Osteoarthritis and Vitamin D|Osteoarthritis))`
+│   │   inner_content: `Overview Osteoarthritis and Vitamin D|Osteoarthritis`
+│   │   page: `Overview Osteoarthritis and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Osteoarthritis and Vitamin D|Osteoarthritis`
+│   │   │   inner_content: `Overview Osteoarthritis and Vitamin D|Osteoarthritis`
+│   ├── TextNode
+│   │   full_match: ` - affects about 32.5 million adults in the U.S.`
+│   │   inner_content: ` - affects about 32.5 million adults in the U.S.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Overview Osteoporosis and vitamin D|Osteoporosis))`
+│   inner_content: `((Overview Osteoporosis and vitamin D|Osteoporosis))`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Overview Osteoporosis and vitamin D|Osteoporosis))`
+│   │   inner_content: `Overview Osteoporosis and vitamin D|Osteoporosis`
+│   │   page: `Overview Osteoporosis and vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Osteoporosis and vitamin D|Osteoporosis`
+│   │   │   inner_content: `Overview Osteoporosis and vitamin D|Osteoporosis`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Tendinitis`
+│   inner_content: `Tendinitis`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tendinitis`
+│   │   inner_content: `Tendinitis`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Bursitis and Vitamin D|Bursitis))`
+│   inner_content: `((Bursitis and Vitamin D|Bursitis))`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Bursitis and Vitamin D|Bursitis))`
+│   │   inner_content: `Bursitis and Vitamin D|Bursitis`
+│   │   page: `Bursitis and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Bursitis and Vitamin D|Bursitis`
+│   │   │   inner_content: `Bursitis and Vitamin D|Bursitis`├── TextNode
+│   full_match: `\nOther Rheumatic Conditions\n`
+│   inner_content: `\nOther Rheumatic Conditions\n`├── ListItemNode
+│   full_match: `*((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Fibromyalgia))`
+│   inner_content: `((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Fibromyalgia))`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Fibromyalgia))`
+│   │   inner_content: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Fibromyalgia`
+│   │   page: `Overview Fibromyalgia or Chronic Fatigue and vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Fibromyalgia`
+│   │   │   inner_content: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Fibromyalgia`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Polymyalgia Rheumatica`
+│   inner_content: `Polymyalgia Rheumatica`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Polymyalgia Rheumatica`
+│   │   inner_content: `Polymyalgia Rheumatica`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Sarcoidosis (rare) problems when taking vitamin D - many studies|Sarcoidosis))`
+│   inner_content: `((Sarcoidosis (rare) problems when taking vitamin D - many studies|Sarcoidosis))`
+│   depth: `1`
+│   children:
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Sarcoidosis (rare) problems when taking vitamin D - many studies|Sarcoidosis))`
+│   │   inner_content: `Sarcoidosis (rare) problems when taking vitamin D - many studies|Sarcoidosis`
+│   │   page: `Sarcoidosis (rare) problems when taking vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Sarcoidosis (rare) problems when taking vitamin D - many studies|Sarcoidosis`
+│   │   │   inner_content: `Sarcoidosis (rare) problems when taking vitamin D - many studies|Sarcoidosis`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Inflammatory Eye Disease`
+│   inner_content: `Inflammatory Eye Disease`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Inflammatory Eye Disease`
+│   │   inner_content: `Inflammatory Eye Disease`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Autoimmune-related Lung Disease`
+│   inner_content: `Autoimmune-related Lung Disease`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Autoimmune-related Lung Disease`
+│   │   inner_content: `Autoimmune-related Lung Disease`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV( class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!![https://www.mdedge.com/rheumatology/article/271421/rheumatoid-arthritis/cannabis-often-used-substitute-traditional?ecd=WNL_EVE_241106_mdedge&amp;uac=138704MX&amp;sso=true|Cannabis Often Used as a Substitute for Traditional Medications] MdEdge
+Overall, 62.5% reported substituting medical cannabis for certain medications, including
+*NSAIDs (54.7%),
+*opioids (48.6%),
+*sleep aids (29.6%),
+*muscle relaxants (25.2%),
+*benzodiazepines (15.5%), and
+*gabapentinoids (10.5%).
+The most common reasons given for substituting medical cannabis were
+*fewer side effects (39%),
+*better symptom control (27%), and
+*fewer adverse effects (12%).
+Participants who substituted medical cannabis reported significant improvements in symptoms such as pain, sleep, joint stiffness, muscle spasms, and inflammation, and in overall health, compared with those who did not substitute it for medications.
+The substitution group was more likely to use inhalation methods (smoking and vaporizing) than the nonsubstitution group; they also used medical cannabis more frequently and preferred products containing delta-9-tetrahydrocannabinol.
+{img type=&quot;attId&quot; attId=&quot;21939&quot; width=&quot;800&quot;}
+
+__Reference__
+Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada September 2024
+{FONT( size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21938&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+
+---
+!!!!% of states where Cannabis is legal: 96% medical, 48% recreational (Nov 2024)
+*Doctors cannot technically &quot;prescribe&quot; cannabis because it remains a Schedule I drug under federal law1. Instead, they provide a &quot;recommendation,&quot; &quot;certification,&quot; or &quot;statement&quot; that grants patients legal access to cannabis dispensaries
+---
+!!!!A portion of Cannabis, CBD, relieves pain without getting high
+__((CBD - many studies))__
+---
+!!!!!97,900 instances of (Cannabidiol OR CBD) and Pain in Google Scholar (Nov 2024)
+*Patient-Reported Outcomes of Pain, Stiffness, and Fatigue Reduction in Rheumatoid and Psoriatic Arthritis With Cannabinoid Use  - Oct 2024 10.7759/cureus.72366 FREE PDF
+*Substituting Medical Cannabis for Medications Among Patients with Rheumatic Conditions in the United States and Canada - Sept 2024 [https://doi.org/10.1002/acr2.11717|FREE PDF]
+*An open-label feasibility trial of transdermal cannabidiol for hand osteoarthritis - May 2024 [https://doi.org/10.1038/s41598-024-62428-x|FREE PDF]
+---
+!!!!Vitamin D, a great pain reliever, and is available over-the-counter in all 50 states and ((Can get 50,000 IU Vitamin D anywhere on the globe|virtually all countries))
+*((Overview Pain and Vitamin D)) table of contents as of Nov 2024
+{img type=&quot;attId&quot; attId=&quot;21940&quot; width=&quot;700&quot;}
+---
+!!!!What is the definition of a rheumatic condition? - [https://www.perplexity.ai/search/in-what-of-states-is-medical-c-qY_d9BHlSNKarVqJBdAJQw|Asked Perplexity AI Nov 2024]
+A rheumatic condition is a complex group of disorders that primarily affects the musculoskeletal system.
+Here&#39;s a comprehensive definition:
+ ~hs~ ~hs~ Rheumatic conditions are disorders that cause chronic, often intermittent pain affecting the joints, muscles, bones, and connective tissues
+These conditions encompass more than 200 different diseases and can be inflammatory, autoimmune, or degenerative in nature
+__Key Characteristics__
+*They typically affect joints, tendons, ligaments, bones, and muscles
+*Can cause inflammation, tissue degeneration, and autoimmune dysfunction
+*May also impact internal organs and other body systems
+*Often involve systemic inflammation and immune system dysregulation
+__Common Features__
+The primary symptoms of rheumatic conditions include:
+*Joint pain, soreness, and tenderness
+*Inflammation, swelling, and warmth in affected areas
+*Morning stiffness and limited joint motion
+*Chronic fatigue
+*Symptoms that fluctuate with weather conditions
+__Scope__
+In the United States alone, rheumatic conditions affect approximately:
+*54 million adults
+*300,000 children
+The term &quot;rheumatism&quot; itself comes from the Late Latin &quot;rheumatismus&quot; and Greek roots meaning &quot;to suffer from a flux,&quot; historically referring to the belief that these conditions were caused by the flow of bodily fluids into joints
+---
+!!!!Most Rheumatic Conditions are treated by Vitamin D
+Autoimmune Rheumatic Diseases
+*((Overview Rheumatoid Arthritis and vitamin D|Rheumatoid Arthritis)) (RA) - affects approximately 1.3 million people in the U.S.
+*[https://VitaminDWiki.com/Lupus|Systemic Lupus Erythematosus] (SLE)
+*((Sjögren&#39;s Disease ( dry eye, dry mouth, etc.) associated with low vitamin D - Meta-analysis Feb 2023|Sjögren&#39;s Syndrome))
+*Scleroderma ( ((Low Vitamin D strongly associated with Systemic Sclerosis - many studies|Systemic Sclerosis)) )
+*Dermatomyositis/Polymyositis
+*Mixed Connective Tissue Disease
+Inflammatory Arthritis
+*Psoriatic Arthritis
+*((Ankylosing spondylitis and low vitamin D – many studies|Ankylosing Spondylitis))
+*Reactive Arthritis
+*Infectious Arthritis
+*((Gout and Vitamin D - many studies|Gout))
+*((Juvenile Idiopathic Arthritis is strongly associated with low vitamin D – many studies|Juvenile Idiopathic Arthritis))
+Vascular Rheumatic Diseases
+Degenerative Conditions
+*((Overview Osteoarthritis and Vitamin D|Osteoarthritis)) - affects about 32.5 million adults in the U.S.
+*((Overview Osteoporosis and vitamin D|Osteoporosis))
+*Tendinitis
+*((Bursitis and Vitamin D|Bursitis))
+Other Rheumatic Conditions
+*((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Fibromyalgia))
+*Polymyalgia Rheumatica
+*((Sarcoidosis (rare) problems when taking vitamin D - many studies|Sarcoidosis))
+*Inflammatory Eye Disease
+*Autoimmune-related Lung Disease
+
+</code>
+</pre>

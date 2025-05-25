@@ -1,0 +1,300 @@
+topLevelCategories:
+- name: Autoimmune
+  subcategories:
+  - Multiple Sclerosis
+  - Lupus
+  - Infant-Child
+  - Vitamin D Receptor
+  - Breathing
+  - High-Dose
+  - Rheumatoid Arthritis
+  - Intervention
+  - Pregnancy
+  - Systemic Sclerosis
+- name: Bacteria
+  subcategories:
+  - Urinary Tract Infection
+  - Tuberculosis
+  - Antibiotics/Probiotics
+- name: Breathing
+  subcategories:
+  - Asthma
+  - Asthma - Receptor
+  - Cystic Fibrosis
+  - Hay Fever
+  - Pneumonia
+  - Respiratory
+- name: Bone
+  subcategories:
+  - BMD, Bone loss
+  - Ankle fractures
+  - Bone & Stress Fractures
+  - Bone Mineral Density
+  - Children fractures
+  - Hip Fractures
+  - Falls/Fractures
+  - Rickets
+  - Osteoporosis
+- name: Cancer
+  subcategories:
+  - Bladder
+  - Breast
+  - After diagnosis
+  - Bone
+  - Child
+  - Colon
+  - Endometrial
+  - Gastric
+  - Head and Neck
+  - Leukemia
+  - Liver
+  - Lung
+  - Lymphoma
+  - Mg and Cancer
+  - Melanoma
+  - Multiple Myeloma
+  - Metastatic
+  - Obesity
+  - Ovarian
+  - Palliative Care
+  - Pancreatic
+  - Prostate
+  - Skin
+  - Survive
+  - Thyroid
+- name: Cardiovascular
+  subcategories:
+  - Atherosclerosis
+  - Atrial Fibrillation
+  - Blood clotting
+  - Heart Failure
+  - HRV
+  - Omega-3
+  - Statins
+  - Stroke
+  - Stroke- Cognitive Impairment
+  - Stroke-Depression
+  - Stroke-Ischemic
+- name: Infant/Child
+  subcategories:
+  - Cancer
+  - Cerebral Palsy
+  - Down Syndrome
+  - Fracture, low energy
+  - Growing Pains
+  - Pneumonia
+  - Preemie
+  - Puberty early if low D
+  - Respiratory
+  - RSV
+  - Tic Disorders
+  - Tonsils
+  - Vaccination
+  - Virus
+- name: Cognitive
+  subcategories:
+  - Brain
+  - Delirium
+  - Dementia
+  - Mental Illness
+  - Mental Stress
+- name: Dental
+  subcategories:
+  - Fluoridation
+  - Implant & Vit. D
+  - Periodontitis
+- name: Depression
+  subcategories:
+  - Anxiety
+  - Omega-3
+  - SAD
+- name: Diabetes
+  subcategories:
+  - Hemodialysis
+  - Magnesium
+  - Meta-analyses
+  - Metabolic Syndrome & Mg
+  - Neuropathy
+  - Prediabetes
+  - Red Meat
+  - Retinopathy
+  - Type 1  Diabetes
+  - Vitamin D Receptor
+  - Zinc
+- name: Ear
+  subcategories:
+  - Otitis Media
+- name: Genetics
+  subcategories:
+  - CYPA
+  - CYPR
+  - CYPB
+  - Epigenetics
+  - Telomere
+  - Vit D Binding
+  - Vit D Receptor
+  - Cancer in VDR
+- name: Gut
+  subcategories:
+  - Bariatric
+  - Celiac
+  - Clostridium difficile
+  - Crohn's
+  - IBD
+  - IBS
+  - Pancreatitis
+  - Ulcerative Colitis
+- name: Health Risk
+  subcategories:
+  - Alcohol
+  - Mental Stress
+  - Obesity
+  - Ultraprocessed foods
+  - Microplastics
+  - Smoking
+  - Pollution
+  - Cholesterol
+- name: Hypertension
+  subcategories: []
+- name: Infection
+  subcategories:
+  - Helicobacter pylori
+  - Urinary Tract Infection
+- name: Immunity
+  subcategories: []
+- name: Kidney
+  subcategories:
+  - Chronic Kidney
+  - Dialysis
+  - Urinary Tract Infection
+- name: Life Span
+  subcategories:
+  - Health Span
+  - Mortality
+- name: Liver
+  subcategories:
+  - Hepatitis-B
+  - Hepatitis-C
+  - NAFLD
+- name: Metabolic
+  subcategories:
+  - Gout
+  - Metabolic Syndrome
+- name: Muscle
+  subcategories:
+  - Muscular Dystrophy
+- name: Neurological
+  subcategories:
+  - Bipolar Disorder
+  - Carpal Tunnel Syndrome
+  - Cerebral Palsy
+  - Chronic Fatigue
+  - Epilepsy
+  - Muscular Dystrophy
+  - Parkinson's
+  - Restless Legs
+  - Sleep
+  - Sleep Apnea
+  - Spinal Cord
+  - Vertigo
+- name: Obesity
+  subcategories:
+  - Cancer
+  - Child & Youth
+  - Vitamin D Receptor
+  - Virus and Obesity
+  - Weight Loss
+- name: Pain
+  subcategories:
+  - Pain - chronic
+  - Back Pain
+  - Back Pain - Lumbar Degeneration
+  - Headache
+  - Rheumatoid Arthritis
+- name: Pregnancy
+  subcategories:
+  - Endometriosis
+  - Fertility/Sperm
+  - Breastfed
+  - Caesarean
+  - Depression
+  - Dark Skin
+  - Gestational Diabetes
+  - In Vitro Fert.
+  - Iodine
+  - Low Birth Weight
+  - Magnesium
+  - Miscarriage
+  - Multiple Sclerosis
+  - Omega-3
+  - PCOS
+  - Placenta
+  - Preeclampsia
+  - Preterm
+  - Preterm - Omega-3
+  - Stillbirth
+  - Vaccination
+- name: Dermatology
+  subcategories:
+  - Acne
+  - Aging Skin
+  - Atopic Dermatitis
+  - hair
+  - Hives
+  - Psoriasis
+  - Vitiligo
+- name: Trauma/Surgery
+  subcategories:
+  - Concussions
+  - Bariatric surgery
+  - Bone surgery
+  - ICU & Loading Dose
+  - Need Vit D
+  - Ortho. & Hip
+  - Sepsis
+  - Transplant
+  - Traumatic Brain Injury
+- name: Virus
+  subcategories:
+  - Air pollution
+  - All studies
+  - Bird Flu
+  - Cardiovascular
+  - Cancers after VAX
+  - Child - years after VAX
+  - Cognitive
+  - Dark Skin
+  - Dengue
+  - Epstein-Barr Virus
+  - Excess Deaths
+  - Hepatitis
+  - Herpes or Shingles
+  - Ivermectin
+  - Long-COVID
+  - Magnesium
+  - Masks
+  - Meta-analyses
+  - Mononucleosis
+  - Omega-3
+  - Pfizer
+  - Pregnancy
+  - RSV
+  - Ultraviolet light
+  - Vaccination
+  - Vitamin D
+  - Vitamin D Receptor
+  - Vitamin K
+  - Zinc
+  - Influenza
+- name: Vision
+  subcategories:
+  - Cataracts
+  - Diabetic Retinopathy
+  - Dry Eye
+  - Glaucoma
+  - Macular Degeneration
+  - Myopia
+  - Uveitis
+- isDefault: true
+  name: Other
+  subcategories: []

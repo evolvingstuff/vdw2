@@ -1,0 +1,380 @@
+---
+title: "Slow gait is 22% more likely if low Vitamin D"
+slug: "slow-gait-is-22-percent-more-likely-if-low-vitamin-d"
+aliases:
+  - "/Slow+gait+is+22+more+likely+if+low+Vitamin+D+-+June+2025"
+  - "/15972"
+tiki_page_id: 15972
+date: 2025-05-04
+---
+
+
+{{< toc >}}
+
+---
+
+#### Is serum 25-hydroxyvitamin D deficiency a risk factor for the incidence of slow gait speed in older individuals? Evidence from the English longitudinal study of ageing
+
+Diabetes Obes Metab. 2025 Jun;27(6):3104-3112. [doi: 10.1111/dom.16317](https://doi.org/10.1111/dom.16317)
+
+Mariane Marques Luiz 1, Roberta de Oliveira Máximo 2, Aline Fernanda de Souza 1, Thales Batista de Souza 1, Sara Souza Lima 1, Leticia Coelho Silveira 1, Thaís Barros Pereira da Silva 2, Andrew Steptoe 3, Cesar de Oliveira 4, Tiago da Silva Alexandre 1 2 4 5
+
+Aims: Cross-sectional studies demonstrate an association between low serum levels of vitamin D and slower gait speed in older individuals. However, longitudinal studies remain inconclusive. This study investigates whether vitamin D deficiency and insufficiency are risk factors for the incidence of slowness.
+
+Materials and methods: A total of 2815 participants from the English Longitudinal Study of Ageing (ELSA), aged ≥60 years and with a baseline gait speed >0.8 m/s, were followed for six years. Baseline serum levels of vitamin D <span>[25(OH)D]</span> were categorized as "sufficiency" (>50 nmol/L), "insufficiency" (>30 and ≤50 nmol/L) or "deficiency" (≤30 nmol/L). Gait speed was reassessed at four and six years of follow-up to identify incident cases of slowness (walking speed ≤0.8 m/s). A Poisson regression model, adjusted for sociodemographic, behavioural and clinical characteristics at baseline, was conducted to determine the association between serum 25(OH)D levels and the risk of slowness.
+
+Results: The incidence densities of slowness per 1000 person-years were 
+
+* 67.4 (95% CI: 60.93-74.64) for sufficiency, 
+
+* 76.7 (95% CI: 68.30-86.22) for insufficiency and 
+
+* 90.7 (95% CI: 78.46-104.92) for deficiency. 
+
+Serum 25(OH)D deficiency was associated with a 22% increase in the risk of slowness ( **IRR: 1.22** ; 95% CI: 1.01-1.49) compared with serum 25(OH)D sufficiency. No significant association was observed for serum 25(OH)D insufficiency.
+
+Conclusions: Serum 25(OH)D deficiency is a risk factor for the incidence of slowness in older individuals, suggesting that maintaining sufficient 25(OH)D levels could be a strategic approach to minimise long-term mobility impairment.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/slow-gait.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### 9 related items in VitaminDWiki
+
+* <a href="/posts/slow-gait-is-35x-more-likely-with-low-vitamin-d-and-high-c-reactive-protein" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013">Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013</a>
+
+* <a href="/posts/hypothesis-gait-speed-and-mental-health-both-poor-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015">Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015</a>
+
+* <a href="/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies">Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies</a>
+
+* [Protein, muscles, bones and Vitamin D - many studies](/posts/protein-muscles-bones-and-vitamin-d-many-studies)
+
+* [Magnesium helps muscles in more than 10 ways - Dec 2023](/posts/magnesium-helps-muscles-in-more-than-10-ways)
+
+* <a href="/posts/skeletal-muscles-regenerated-with-vitamin-d-supplementation-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023">Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023</a>
+
+* <a href="/posts/muscles-improved-in-women-with-50000-iu-vitamin-d-weekly-8-weeks-plus-daily-magnesium-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020">Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020</a>
+
+* <a href="/posts/frailty-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty and Vitamin D - many studies">Frailty and Vitamin D - many studies</a>
+
+* <a href="/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023">13 reasons why many seniors need more vitamin D (both dose and level) - July 2023</a>
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Is serum 25-hydroxyvitamin D deficiency a risk factor for the incidence of slow gait speed in older individuals? Evidence from the English longitudinal study of ageing
+
+Diabetes Obes Metab. 2025 Jun;27(6):3104-3112. [doi: 10.1111/dom.16317](https://doi.org/10.1111/dom.16317)
+
+Mariane Marques Luiz 1, Roberta de Oliveira Máximo 2, Aline Fernanda de Souza 1, Thales Batista de Souza 1, Sara Souza Lima 1, Leticia Coelho Silveira 1, Thaís Barros Pereira da Silva 2, Andrew Steptoe 3, Cesar de Oliveira 4, Tiago da Silva Alexandre 1 2 4 5
+
+Aims: Cross-sectional studies demonstrate an association between low serum levels of vitamin D and slower gait speed in older individuals. However, longitudinal studies remain inconclusive. This study investigates whether vitamin D deficiency and insufficiency are risk factors for the incidence of slowness.
+
+Materials and methods: A total of 2815 participants from the English Longitudinal Study of Ageing (ELSA), aged ≥60 years and with a baseline gait speed &gt;0.8 m/s, were followed for six years. Baseline serum levels of vitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; were categorized as &quot;sufficiency&quot; (&gt;50 nmol/L), &quot;insufficiency&quot; (&gt;30 and ≤50 nmol/L) or &quot;deficiency&quot; (≤30 nmol/L). Gait speed was reassessed at four and six years of follow-up to identify incident cases of slowness (walking speed ≤0.8 m/s). A Poisson regression model, adjusted for sociodemographic, behavioural and clinical characteristics at baseline, was conducted to determine the association between serum 25(OH)D levels and the risk of slowness.
+
+Results: The incidence densities of slowness per 1000 person-years were 
+
+* 67.4 (95% CI: 60.93-74.64) for sufficiency, 
+
+* 76.7 (95% CI: 68.30-86.22) for insufficiency and 
+
+* 90.7 (95% CI: 78.46-104.92) for deficiency. 
+
+Serum 25(OH)D deficiency was associated with a 22% increase in the risk of slowness ( **IRR: 1.22** ; 95% CI: 1.01-1.49) compared with serum 25(OH)D sufficiency. No significant association was observed for serum 25(OH)D insufficiency.
+
+Conclusions: Serum 25(OH)D deficiency is a risk factor for the incidence of slowness in older individuals, suggesting that maintaining sufficient 25(OH)D levels could be a strategic approach to minimise long-term mobility impairment.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/slow-gait.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### 9 related items in VitaminDWiki
+
+* &lt;a href=&quot;/posts/slow-gait-is-35x-more-likely-with-low-vitamin-d-and-high-c-reactive-protein&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013&quot;&gt;Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/hypothesis-gait-speed-and-mental-health-both-poor-if-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015&quot;&gt;Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies&quot;&gt;Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies&lt;/a&gt;
+
+* [Protein, muscles, bones and Vitamin D - many studies](/posts/protein-muscles-bones-and-vitamin-d-many-studies)
+
+* [Magnesium helps muscles in more than 10 ways - Dec 2023](/posts/magnesium-helps-muscles-in-more-than-10-ways)
+
+* &lt;a href=&quot;/posts/skeletal-muscles-regenerated-with-vitamin-d-supplementation-review&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023&quot;&gt;Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/muscles-improved-in-women-with-50000-iu-vitamin-d-weekly-8-weeks-plus-daily-magnesium-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020&quot;&gt;Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/frailty-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Frailty and Vitamin D - many studies&quot;&gt;Frailty and Vitamin D - many studies&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot;&gt;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&lt;/a&gt;
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Is serum 25-hydroxyvitamin D deficiency a risk factor for the incidence of slow gait speed in older individuals? Evidence from the English longitudinal study of ageing`
+│   inner_content: `Is serum 25-hydroxyvitamin D deficiency a risk factor for the incidence of slow gait speed in older individuals? Evidence from the English longitudinal study of ageing`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Is serum 25-hydroxyvitamin D deficiency a risk factor for the incidence of slow gait speed in older individuals? Evidence from the English longitudinal study of ageing`
+│   │   inner_content: `Is serum 25-hydroxyvitamin D deficiency a risk factor for the incidence of slow gait speed in older individuals? Evidence from the English longitudinal study of ageing`├── TextNode
+│   full_match: `\nDiabetes Obes Metab. 2025 Jun;27(6):3104-3112. `
+│   inner_content: `\nDiabetes Obes Metab. 2025 Jun;27(6):3104-3112. `├── DoiLinkNode
+│   full_match: `doi: 10.1111/dom.16317`
+│   inner_content: `10.1111/dom.16317`├── TextNode
+│   full_match: `\nMariane Marques Luiz 1, Roberta de Oliveira Máximo 2, Aline Fernanda de Souza 1, Thales Batista de Souza 1, Sara Souza Lima 1, Leticia Coelho Silveira 1, Thaís Barros Pereira da Silva 2, Andrew Steptoe 3, Cesar de Oliveira 4, Tiago da Silva Alexandre 1 2 4 5\n\nAims: Cross-sectional studies demonstrate an association between low serum levels of vitamin D and slower gait speed in older individuals. However, longitudinal studies remain inconclusive. This study investigates whether vitamin D deficiency and insufficiency are risk factors for the incidence of slowness.\n\nMaterials and methods: A total of 2815 participants from the English Longitudinal Study of Ageing (ELSA), aged ≥60 years and with a baseline gait speed &gt;0.8 m/s, were followed for six years. Baseline serum levels of vitamin D `
+│   inner_content: `\nMariane Marques Luiz 1, Roberta de Oliveira Máximo 2, Aline Fernanda de Souza 1, Thales Batista de Souza 1, Sara Souza Lima 1, Leticia Coelho Silveira 1, Thaís Barros Pereira da Silva 2, Andrew Steptoe 3, Cesar de Oliveira 4, Tiago da Silva Alexandre 1 2 4 5\n\nAims: Cross-sectional studies demonstrate an association between low serum levels of vitamin D and slower gait speed in older individuals. However, longitudinal studies remain inconclusive. This study investigates whether vitamin D deficiency and insufficiency are risk factors for the incidence of slowness.\n\nMaterials and methods: A total of 2815 participants from the English Longitudinal Study of Ageing (ELSA), aged ≥60 years and with a baseline gait speed &gt;0.8 m/s, were followed for six years. Baseline serum levels of vitamin D `├── LinkNode
+│   full_match: `[25(OH)D]`
+│   inner_content: `25(OH)D`
+│   url: `25(OH)D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `25(OH)D`
+│   │   inner_content: `25(OH)D`├── TextNode
+│   full_match: ` were categorized as &quot;sufficiency&quot; (&gt;50 nmol/L), &quot;insufficiency&quot; (&gt;30 and ≤50 nmol/L) or &quot;deficiency&quot; (≤30 nmol/L). Gait speed was reassessed at four and six years of follow-up to identify incident cases of slowness (walking speed ≤0.8 m/s). A Poisson regression model, adjusted for sociodemographic, behavioural and clinical characteristics at baseline, was conducted to determine the association between serum 25(OH)D levels and the risk of slowness.\n\nResults: The incidence densities of slowness per 1000 person-years were \n`
+│   inner_content: ` were categorized as &quot;sufficiency&quot; (&gt;50 nmol/L), &quot;insufficiency&quot; (&gt;30 and ≤50 nmol/L) or &quot;deficiency&quot; (≤30 nmol/L). Gait speed was reassessed at four and six years of follow-up to identify incident cases of slowness (walking speed ≤0.8 m/s). A Poisson regression model, adjusted for sociodemographic, behavioural and clinical characteristics at baseline, was conducted to determine the association between serum 25(OH)D levels and the risk of slowness.\n\nResults: The incidence densities of slowness per 1000 person-years were \n`├── ListItemNode
+│   full_match: `*67.4 (95% CI: 60.93-74.64) for sufficiency, `
+│   inner_content: `67.4 (95% CI: 60.93-74.64) for sufficiency, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `67.4 (95% CI: 60.93-74.64) for sufficiency, `
+│   │   inner_content: `67.4 (95% CI: 60.93-74.64) for sufficiency, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*76.7 (95% CI: 68.30-86.22) for insufficiency and `
+│   inner_content: `76.7 (95% CI: 68.30-86.22) for insufficiency and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `76.7 (95% CI: 68.30-86.22) for insufficiency and `
+│   │   inner_content: `76.7 (95% CI: 68.30-86.22) for insufficiency and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*90.7 (95% CI: 78.46-104.92) for deficiency. `
+│   inner_content: `90.7 (95% CI: 78.46-104.92) for deficiency. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `90.7 (95% CI: 78.46-104.92) for deficiency. `
+│   │   inner_content: `90.7 (95% CI: 78.46-104.92) for deficiency. `├── TextNode
+│   full_match: `\nSerum 25(OH)D deficiency was associated with a 22% increase in the risk of slowness (`
+│   inner_content: `\nSerum 25(OH)D deficiency was associated with a 22% increase in the risk of slowness (`├── BoldNode
+│   full_match: `__IRR: 1.22__`
+│   inner_content: `IRR: 1.22`
+│   children:
+│   ├── TextNode
+│   │   full_match: `IRR: 1.22`
+│   │   inner_content: `IRR: 1.22`├── TextNode
+│   full_match: `; 95% CI: 1.01-1.49) compared with serum 25(OH)D sufficiency. No significant association was observed for serum 25(OH)D insufficiency.\n\nConclusions: Serum 25(OH)D deficiency is a risk factor for the incidence of slowness in older individuals, suggesting that maintaining sufficient 25(OH)D levels could be a strategic approach to minimise long-term mobility impairment.\n`
+│   inner_content: `; 95% CI: 1.01-1.49) compared with serum 25(OH)D sufficiency. No significant association was observed for serum 25(OH)D insufficiency.\n\nConclusions: Serum 25(OH)D deficiency is a risk factor for the incidence of slowness in older individuals, suggesting that maintaining sufficient 25(OH)D levels could be a strategic approach to minimise long-term mobility impairment.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22589&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22589&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22589&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22589&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22589&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22589&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22589
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!9 related items in VitaminDWiki`
+│   inner_content: `9 related items in VitaminDWiki`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `9 related items in VitaminDWiki`
+│   │   inner_content: `9 related items in VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013))`
+│   inner_content: `((Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013))`
+│   │   inner_content: `Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013`
+│   │   page: `Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013`
+│   │   │   inner_content: `Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015))`
+│   inner_content: `((Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015))`
+│   │   inner_content: `Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015`
+│   │   page: `Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015`
+│   │   │   inner_content: `Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `* ((Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies))`
+│   inner_content: ` ((Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies))`
+│   │   inner_content: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies`
+│   │   page: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies`
+│   │   │   inner_content: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Protein, muscles, bones and Vitamin D - many studies))`
+│   inner_content: `((Protein, muscles, bones and Vitamin D - many studies))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Protein, muscles, bones and Vitamin D - many studies))`
+│   │   inner_content: `Protein, muscles, bones and Vitamin D - many studies`
+│   │   page: `Protein, muscles, bones and Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Protein, muscles, bones and Vitamin D - many studies`
+│   │   │   inner_content: `Protein, muscles, bones and Vitamin D - many studies`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Magnesium helps muscles in more than 10 ways - Dec 2023))`
+│   inner_content: `((Magnesium helps muscles in more than 10 ways - Dec 2023))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Magnesium helps muscles in more than 10 ways - Dec 2023))`
+│   │   inner_content: `Magnesium helps muscles in more than 10 ways - Dec 2023`
+│   │   page: `Magnesium helps muscles in more than 10 ways - Dec 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Magnesium helps muscles in more than 10 ways - Dec 2023`
+│   │   │   inner_content: `Magnesium helps muscles in more than 10 ways - Dec 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023))`
+│   inner_content: `((Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023))`
+│   │   inner_content: `Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023`
+│   │   page: `Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023`
+│   │   │   inner_content: `Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020))`
+│   inner_content: `((Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020))`
+│   │   inner_content: `Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020`
+│   │   page: `Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020`
+│   │   │   inner_content: `Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Frailty and Vitamin D - many studies))`
+│   inner_content: `((Frailty and Vitamin D - many studies))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Frailty and Vitamin D - many studies))`
+│   │   inner_content: `Frailty and Vitamin D - many studies`
+│   │   page: `Frailty and Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Frailty and Vitamin D - many studies`
+│   │   │   inner_content: `Frailty and Vitamin D - many studies`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023))`
+│   inner_content: `((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023))`
+│   │   inner_content: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   page: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   │   inner_content: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Is serum 25-hydroxyvitamin D deficiency a risk factor for the incidence of slow gait speed in older individuals? Evidence from the English longitudinal study of ageing
+Diabetes Obes Metab. 2025 Jun;27(6):3104-3112. doi: 10.1111/dom.16317
+Mariane Marques Luiz 1, Roberta de Oliveira Máximo 2, Aline Fernanda de Souza 1, Thales Batista de Souza 1, Sara Souza Lima 1, Leticia Coelho Silveira 1, Thaís Barros Pereira da Silva 2, Andrew Steptoe 3, Cesar de Oliveira 4, Tiago da Silva Alexandre 1 2 4 5
+
+Aims: Cross-sectional studies demonstrate an association between low serum levels of vitamin D and slower gait speed in older individuals. However, longitudinal studies remain inconclusive. This study investigates whether vitamin D deficiency and insufficiency are risk factors for the incidence of slowness.
+
+Materials and methods: A total of 2815 participants from the English Longitudinal Study of Ageing (ELSA), aged ≥60 years and with a baseline gait speed &gt;0.8 m/s, were followed for six years. Baseline serum levels of vitamin D [25(OH)D] were categorized as &quot;sufficiency&quot; (&gt;50 nmol/L), &quot;insufficiency&quot; (&gt;30 and ≤50 nmol/L) or &quot;deficiency&quot; (≤30 nmol/L). Gait speed was reassessed at four and six years of follow-up to identify incident cases of slowness (walking speed ≤0.8 m/s). A Poisson regression model, adjusted for sociodemographic, behavioural and clinical characteristics at baseline, was conducted to determine the association between serum 25(OH)D levels and the risk of slowness.
+
+Results: The incidence densities of slowness per 1000 person-years were 
+*67.4 (95% CI: 60.93-74.64) for sufficiency, 
+*76.7 (95% CI: 68.30-86.22) for insufficiency and 
+*90.7 (95% CI: 78.46-104.92) for deficiency. 
+Serum 25(OH)D deficiency was associated with a 22% increase in the risk of slowness (__IRR: 1.22__; 95% CI: 1.01-1.49) compared with serum 25(OH)D sufficiency. No significant association was observed for serum 25(OH)D insufficiency.
+
+Conclusions: Serum 25(OH)D deficiency is a risk factor for the incidence of slowness in older individuals, suggesting that maintaining sufficient 25(OH)D levels could be a strategic approach to minimise long-term mobility impairment.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22589&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!9 related items in VitaminDWiki
+*((Slow gait is 3.5X more likely with low vitamin D and high C-Reactive Protein – Aug 2013))
+*((Hypothesis – Gait speed and mental health both poor if low vitamin D – April 2015))
+* ((Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies))
+*((Protein, muscles, bones and Vitamin D - many studies))
+*((Magnesium helps muscles in more than 10 ways - Dec 2023))
+*((Skeletal Muscles regenerated with Vitamin D supplementation – review Oct 2023))
+*((Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020))
+*((Frailty and Vitamin D - many studies))
+*((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023))
+</code>
+</pre>

@@ -1,0 +1,506 @@
+---
+title: "Europeans now get 200 IU of Vitamin D daily (had been 600 IU)"
+slug: "europeans-now-get-200-iu-of-vitamin-d-daily-had-been-600-iu"
+aliases:
+  - "/Europeans+now+get+200+IU+of+Vitamin+D+daily+had+been+600+IU+-+July+2025"
+  - "/15940"
+tiki_page_id: 15940
+date: 2025-04-17
+---
+
+
+{{< toc >}}
+
+---
+
+#### Contribution of different vitamin D forms and fortified foods to vitamin D intake in Europe: a narrative review
+
+J Steroid Biochem Mol Biol. 2025 Apr 14:106761. [doi: 10.1016/j.jsbmb.2025.106761](https://doi.org/10.1016/j.jsbmb.2025.106761)
+
+Maaike J Bruins 1
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/europe-fortification.webp" alt="image" width="600">
+
+In the current narrative review, the bioavailability of the main vitamin D forms is evaluated. The mean intakes and main contributing forms of vitamin D in the European diet are estimated, as well as the major contributing dietary sources. The literature is reviewed for studies reporting on the proportion of users and non-users of fortified food with vitamin D intakes below reference intakes. In addition, the availability of vitamin D-fortified prepackaged retail products and fortification levels in the European market is assessed. Previously, vitamins D2 and D3 forms were considered the primary forms in the diet. Recent analytical methods suggest that dietary 25(OH)D3, when adjusted for higher bioequivalence, significantly contributes to total vitamin D intakes. When also considering 25(OH)D3 from foods, the estimated vitamin D intake from an average European diet was 3.8µg/d of total Vitamin D Equivalents: vitamin D3, vitamin D2 and 25(OH)D3, contributing about 71%, 2%, and 27%, respectively. Animal foods, fortified fats and spreads contributed most to total intakes. 
+
+Literature suggests that  **94-100% of Europeans aged ≥ 13y fail to meet the vitamin D reference intake of 10µg/d,** 
+
+* About 98-100% of vitamin D-fortified food users and
+
+* 99-100% of non-users in the UK and Netherlands consumed less than 10µg/d of vitamin D. 
+
+About 1.2% of prepackaged foods and drinks were voluntary fortified with vitamin D, margarine and plant-based drinks providing most of the daily vitamin D. Encouraging fortification and other strategies may support closing the gap between current and recommended vitamin D intakes.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/europe-94-.pdf">Download the PDF from VitaminDWiki </a>** .
+
+---
+
+#### European diet 150 years ago provided 600-1000 IU of Vitamin D daily
+
+Pre-processed form provides  <a href="/posts/vitamin-d-from-animal-increases-6x-when-consider-that-already-processed-by-animal-livers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from animal increases 6X when consider that already processed by animal livers">6X equivalent Vitamin D than non-preprocessed vitamin D</a>
+
+&nbsp; &nbsp; pork, lard, chicken, eggs, eels, liver, kidneys, herring, mackerel, sardines,  etc.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/european-diet-150-years-ago-vitamin-d.pdf">Report by Perplexity AI </a>** &nbsp; or [click here for online](https://www.perplexity.ai/search/i-would-like-to-get-an-estimat-W2VisKgpQ8WOiV060ACkDA)
+
+{MOUSEOVER(label="Hover here to see question" offsetx="4" offsety="15")} I would like to get an estimate about how much vitamin D the average European got from food daily 150 years ago. Food used to contain a LOT more vitamin D. Examples: pigs, chicken, eels, liver, kidneys, small fatty fish, sardines, tripe, eggs. Note: many animal products contain a lot more semi-activated vitamin D, than regular vitamin D{MOUSEOVER}
+
+Example: A slice of pie made with lard from pigs raised outdoor contained 2,000 IU 
+
+see: <a href="/posts/does-less-sun-mean-more-disease-5-minute-video-by-vitamindwiki-see-free-range-la--with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease)) 5 minute video by VitaminDWiki
+see: (("Free range" lard has 500 IU vitamin D per teaspoon))
+---
+!!!!Industrial food production removed about 400 IU, ((Fortification with Vitamin D">Fortification</a> replaces about 120 IU
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/europe-150-years-ago.webp" alt="image" width="600">
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Contribution of different vitamin D forms and fortified foods to vitamin D intake in Europe: a narrative review
+
+J Steroid Biochem Mol Biol. 2025 Apr 14:106761. [doi: 10.1016/j.jsbmb.2025.106761](https://doi.org/10.1016/j.jsbmb.2025.106761)
+
+Maaike J Bruins 1
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/europe-fortification.webp&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+In the current narrative review, the bioavailability of the main vitamin D forms is evaluated. The mean intakes and main contributing forms of vitamin D in the European diet are estimated, as well as the major contributing dietary sources. The literature is reviewed for studies reporting on the proportion of users and non-users of fortified food with vitamin D intakes below reference intakes. In addition, the availability of vitamin D-fortified prepackaged retail products and fortification levels in the European market is assessed. Previously, vitamins D2 and D3 forms were considered the primary forms in the diet. Recent analytical methods suggest that dietary 25(OH)D3, when adjusted for higher bioequivalence, significantly contributes to total vitamin D intakes. When also considering 25(OH)D3 from foods, the estimated vitamin D intake from an average European diet was 3.8µg/d of total Vitamin D Equivalents: vitamin D3, vitamin D2 and 25(OH)D3, contributing about 71%, 2%, and 27%, respectively. Animal foods, fortified fats and spreads contributed most to total intakes. 
+
+Literature suggests that  **94-100% of Europeans aged ≥ 13y fail to meet the vitamin D reference intake of 10µg/d,** 
+
+* About 98-100% of vitamin D-fortified food users and
+
+* 99-100% of non-users in the UK and Netherlands consumed less than 10µg/d of vitamin D. 
+
+About 1.2% of prepackaged foods and drinks were voluntary fortified with vitamin D, margarine and plant-based drinks providing most of the daily vitamin D. Encouraging fortification and other strategies may support closing the gap between current and recommended vitamin D intakes.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/europe-94-.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** .
+
+---
+
+#### European diet 150 years ago provided 600-1000 IU of Vitamin D daily
+
+Pre-processed form provides  &lt;a href=&quot;/posts/vitamin-d-from-animal-increases-6x-when-consider-that-already-processed-by-animal-livers&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from animal increases 6X when consider that already processed by animal livers&quot;&gt;6X equivalent Vitamin D than non-preprocessed vitamin D&lt;/a&gt;
+
+&amp;nbsp; &amp;nbsp; pork, lard, chicken, eggs, eels, liver, kidneys, herring, mackerel, sardines,  etc.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/european-diet-150-years-ago-vitamin-d.pdf&quot;&gt;Report by Perplexity AI &lt;/a&gt;** &amp;nbsp; or [click here for online](https://www.perplexity.ai/search/i-would-like-to-get-an-estimat-W2VisKgpQ8WOiV060ACkDA)
+
+{MOUSEOVER(label=&quot;Hover here to see question&quot; offsetx=&quot;4&quot; offsety=&quot;15&quot;)} I would like to get an estimate about how much vitamin D the average European got from food daily 150 years ago. Food used to contain a LOT more vitamin D. Examples: pigs, chicken, eels, liver, kidneys, small fatty fish, sardines, tripe, eggs. Note: many animal products contain a lot more semi-activated vitamin D, than regular vitamin D{MOUSEOVER}
+
+Example: A slice of pie made with lard from pigs raised outdoor contained 2,000 IU 
+
+see: &lt;a href=&quot;/posts/does-less-sun-mean-more-disease-5-minute-video-by-vitamindwiki-see-free-range-la--with-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease)) 5 minute video by VitaminDWiki
+see: ((&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon))
+---
+!!!!Industrial food production removed about 400 IU, ((Fortification with Vitamin D&quot;&gt;Fortification&lt;/a&gt; replaces about 120 IU
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/europe-150-years-ago.webp&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Contribution of different vitamin D forms and fortified foods to vitamin D intake in Europe: a narrative review`
+│   inner_content: `Contribution of different vitamin D forms and fortified foods to vitamin D intake in Europe: a narrative review`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Contribution of different vitamin D forms and fortified foods to vitamin D intake in Europe: a narrative review`
+│   │   inner_content: `Contribution of different vitamin D forms and fortified foods to vitamin D intake in Europe: a narrative review`├── TextNode
+│   full_match: `\nJ Steroid Biochem Mol Biol. 2025 Apr 14:106761. `
+│   inner_content: `\nJ Steroid Biochem Mol Biol. 2025 Apr 14:106761. `├── DoiLinkNode
+│   full_match: `doi: 10.1016/j.jsbmb.2025.106761`
+│   inner_content: `10.1016/j.jsbmb.2025.106761`├── TextNode
+│   full_match: `\nMaaike J Bruins 1\n\n`
+│   inner_content: `\nMaaike J Bruins 1\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22508&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22508&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 22508
+│   │   width: 600├── TextNode
+│   full_match: `\nIn the current narrative review, the bioavailability of the main vitamin D forms is evaluated. The mean intakes and main contributing forms of vitamin D in the European diet are estimated, as well as the major contributing dietary sources. The literature is reviewed for studies reporting on the proportion of users and non-users of fortified food with vitamin D intakes below reference intakes. In addition, the availability of vitamin D-fortified prepackaged retail products and fortification levels in the European market is assessed. Previously, vitamins D2 and D3 forms were considered the primary forms in the diet. Recent analytical methods suggest that dietary 25(OH)D3, when adjusted for higher bioequivalence, significantly contributes to total vitamin D intakes. When also considering 25(OH)D3 from foods, the estimated vitamin D intake from an average European diet was 3.8µg/d of total Vitamin D Equivalents: vitamin D3, vitamin D2 and 25(OH)D3, contributing about 71%, 2%, and 27%, respectively. Animal foods, fortified fats and spreads contributed most to total intakes. \nLiterature suggests that `
+│   inner_content: `\nIn the current narrative review, the bioavailability of the main vitamin D forms is evaluated. The mean intakes and main contributing forms of vitamin D in the European diet are estimated, as well as the major contributing dietary sources. The literature is reviewed for studies reporting on the proportion of users and non-users of fortified food with vitamin D intakes below reference intakes. In addition, the availability of vitamin D-fortified prepackaged retail products and fortification levels in the European market is assessed. Previously, vitamins D2 and D3 forms were considered the primary forms in the diet. Recent analytical methods suggest that dietary 25(OH)D3, when adjusted for higher bioequivalence, significantly contributes to total vitamin D intakes. When also considering 25(OH)D3 from foods, the estimated vitamin D intake from an average European diet was 3.8µg/d of total Vitamin D Equivalents: vitamin D3, vitamin D2 and 25(OH)D3, contributing about 71%, 2%, and 27%, respectively. Animal foods, fortified fats and spreads contributed most to total intakes. \nLiterature suggests that `├── BoldNode
+│   full_match: `__94-100% of Europeans aged ≥ 13y fail to meet the vitamin D reference intake of 10µg/d,__`
+│   inner_content: `94-100% of Europeans aged ≥ 13y fail to meet the vitamin D reference intake of 10µg/d,`
+│   children:
+│   ├── TextNode
+│   │   full_match: `94-100% of Europeans aged ≥ 13y fail to meet the vitamin D reference intake of 10µg/d,`
+│   │   inner_content: `94-100% of Europeans aged ≥ 13y fail to meet the vitamin D reference intake of 10µg/d,`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*About 98-100% of vitamin D-fortified food users and`
+│   inner_content: `About 98-100% of vitamin D-fortified food users and`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `About 98-100% of vitamin D-fortified food users and`
+│   │   inner_content: `About 98-100% of vitamin D-fortified food users and`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*99-100% of non-users in the UK and Netherlands consumed less than 10µg/d of vitamin D. `
+│   inner_content: `99-100% of non-users in the UK and Netherlands consumed less than 10µg/d of vitamin D. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `99-100% of non-users in the UK and Netherlands consumed less than 10µg/d of vitamin D. `
+│   │   inner_content: `99-100% of non-users in the UK and Netherlands consumed less than 10µg/d of vitamin D. `├── TextNode
+│   full_match: `\nAbout 1.2% of prepackaged foods and drinks were voluntary fortified with vitamin D, margarine and plant-based drinks providing most of the daily vitamin D. Encouraging fortification and other strategies may support closing the gap between current and recommended vitamin D intakes.\n`
+│   inner_content: `\nAbout 1.2% of prepackaged foods and drinks were voluntary fortified with vitamin D, margarine and plant-based drinks providing most of the daily vitamin D. Encouraging fortification and other strategies may support closing the gap between current and recommended vitamin D intakes.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22502&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22502&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22502&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22502&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22502&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22502&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22502
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
+│   full_match: `.`
+│   inner_content: `.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!European diet 150 years ago provided 600-1000 IU of Vitamin D daily`
+│   inner_content: `European diet 150 years ago provided 600-1000 IU of Vitamin D daily`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `European diet 150 years ago provided 600-1000 IU of Vitamin D daily`
+│   │   inner_content: `European diet 150 years ago provided 600-1000 IU of Vitamin D daily`├── TextNode
+│   full_match: `\nPre-processed form provides  `
+│   inner_content: `\nPre-processed form provides  `├── AliasedLocalLinkNode
+│   full_match: `((Vitamin D from animal increases 6X when consider that already processed by animal livers|6X equivalent Vitamin D than non-preprocessed vitamin D))`
+│   inner_content: `Vitamin D from animal increases 6X when consider that already processed by animal livers|6X equivalent Vitamin D than non-preprocessed vitamin D`
+│   page: `Vitamin D from animal increases 6X when consider that already processed by animal livers`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D from animal increases 6X when consider that already processed by animal livers|6X equivalent Vitamin D than non-preprocessed vitamin D`
+│   │   inner_content: `Vitamin D from animal increases 6X when consider that already processed by animal livers|6X equivalent Vitamin D than non-preprocessed vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` pork, lard, chicken, eggs, eels, liver, kidneys, herring, mackerel, sardines,  etc.\n`
+│   inner_content: ` pork, lard, chicken, eggs, eels, liver, kidneys, herring, mackerel, sardines,  etc.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22504&quot; icon=&quot;1&quot;)}Report by Perplexity AI {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22504&quot; icon=&quot;1&quot;)}Report by Perplexity AI {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22504&quot; icon=&quot;1&quot;)}Report by Perplexity AI {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22504&quot; icon=&quot;1&quot;)}Report by Perplexity AI {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22504&quot; icon=&quot;1&quot;)}Report by Perplexity AI {ATTACH}`
+│   │   │   inner_content: `Report by Perplexity AI `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22504&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22504
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Report by Perplexity AI `
+│   │   │   │   inner_content: `Report by Perplexity AI `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` or `
+│   inner_content: ` or `├── LinkNode
+│   full_match: `[https://www.perplexity.ai/search/i-would-like-to-get-an-estimat-W2VisKgpQ8WOiV060ACkDA|click here for online]`
+│   inner_content: `click here for online`
+│   url: `https://www.perplexity.ai/search/i-would-like-to-get-an-estimat-W2VisKgpQ8WOiV060ACkDA`
+│   children:
+│   ├── TextNode
+│   │   full_match: `click here for online`
+│   │   inner_content: `click here for online`├── TextNode
+│   full_match: `\n{MOUSEOVER(label=&quot;Hover here to see question&quot; offsetx=&quot;4&quot; offsety=&quot;15&quot;)} I would like to get an estimate about how much vitamin D the average European got from food daily 150 years ago. Food used to contain a LOT more vitamin D. Examples: pigs, chicken, eels, liver, kidneys, small fatty fish, sardines, tripe, eggs. Note: many animal products contain a lot more semi-activated vitamin D, than regular vitamin D{MOUSEOVER}\nExample: A slice of pie made with lard from pigs raised outdoor contained 2,000 IU \nsee: `
+│   inner_content: `\n{MOUSEOVER(label=&quot;Hover here to see question&quot; offsetx=&quot;4&quot; offsety=&quot;15&quot;)} I would like to get an estimate about how much vitamin D the average European got from food daily 150 years ago. Food used to contain a LOT more vitamin D. Examples: pigs, chicken, eels, liver, kidneys, small fatty fish, sardines, tripe, eggs. Note: many animal products contain a lot more semi-activated vitamin D, than regular vitamin D{MOUSEOVER}\nExample: A slice of pie made with lard from pigs raised outdoor contained 2,000 IU \nsee: `├── AliasedLocalLinkNode
+│   full_match: `((Does Less Sun mean More Disease)) 5 minute video by VitaminDWiki\nsee: ((&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon))\n---\n!!!!Industrial food production removed about 400 IU, ((Fortification with Vitamin D|Fortification))`
+│   inner_content: `Does Less Sun mean More Disease)) 5 minute video by VitaminDWiki\nsee: ((&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon))\n---\n!!!!Industrial food production removed about 400 IU, ((Fortification with Vitamin D|Fortification`
+│   page: `Does Less Sun mean More Disease)) 5 minute video by VitaminDWiki
+see: ((&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon))
+---
+!!!!Industrial food production removed about 400 IU, ((Fortification with Vitamin D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Does Less Sun mean More Disease)) 5 minute video by VitaminDWiki\nsee: `
+│   │   inner_content: `Does Less Sun mean More Disease)) 5 minute video by VitaminDWiki\nsee: `
+│   ├── LocalLinkNode
+│   │   full_match: `((&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon))`
+│   │   inner_content: `&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon`
+│   │   page: `&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon`
+│   │   │   inner_content: `&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon`
+│   ├── HorizontalRuleNode
+│   │   full_match: `\n---\n`
+│   │   inner_content: `---`
+│   ├── HeadingNode
+│   │   full_match: `!!!!Industrial food production removed about 400 IU, ((Fortification with Vitamin D|Fortification`
+│   │   inner_content: `Industrial food production removed about 400 IU, ((Fortification with Vitamin D|Fortification`
+│   │   level: `4`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Industrial food production removed about 400 IU, ((Fortification with Vitamin D|Fortification`
+│   │   │   inner_content: `Industrial food production removed about 400 IU, ((Fortification with Vitamin D|Fortification`├── TextNode
+│   full_match: ` replaces about 120 IU\n`
+│   inner_content: ` replaces about 120 IU\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22509&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22509&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 22509
+│   │   width: 600├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  ((Many reasons why vitamin D deficiency has become epidemic))`
+│   inner_content: `VitaminDWiki -  ((Many reasons why vitamin D deficiency has become epidemic))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── LocalLinkNode
+│   │   full_match: `((Many reasons why vitamin D deficiency has become epidemic))`
+│   │   inner_content: `Many reasons why vitamin D deficiency has become epidemic`
+│   │   page: `Many reasons why vitamin D deficiency has become epidemic`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Many reasons why vitamin D deficiency has become epidemic`
+│   │   │   inner_content: `Many reasons why vitamin D deficiency has become epidemic`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__LESS__`
+│   inner_content: `LESS`
+│   children:
+│   ├── TextNode
+│   │   full_match: `LESS`
+│   │   inner_content: `LESS`├── TextNode
+│   full_match: `: sun, free-roaming farm animals, wild fish and game, organ meats, magnesium\n`
+│   inner_content: `: sun, free-roaming farm animals, wild fish and game, organ meats, magnesium\n`├── BoldNode
+│   full_match: `__MORE__`
+│   inner_content: `MORE`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MORE`
+│   │   inner_content: `MORE`├── TextNode
+│   full_match: `:  obesity, pesticides, smoke, air polution, drugs, Omega-6`
+│   inner_content: `:  obesity, pesticides, smoke, air polution, drugs, Omega-6`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 103  OR categId = 3 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}   Deficiency in Europe studies`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 103  OR categId = 3 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}   Deficiency in Europe studies`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 103  OR categId = 3 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 103  OR categId = 3 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `   Deficiency in Europe studies`
+│   │   inner_content: `   Deficiency in Europe studies`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;103+3&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;103+3&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 103+3
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Overview Deficiency of vitamin D))  contains`
+│   inner_content: `VitaminDWiki – ((Overview Deficiency of vitamin D))  contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Deficiency of vitamin D))`
+│   │   inner_content: `Overview Deficiency of vitamin D`
+│   │   page: `Overview Deficiency of vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Deficiency of vitamin D`
+│   │   │   inner_content: `Overview Deficiency of vitamin D`
+│   ├── TextNode
+│   │   full_match: `  contains`
+│   │   inner_content: `  contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Deficiency of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Deficiency of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Deficiency of vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(94% to 100% of Europeans do not get 400 IU of vitamin D daily - April 2025)) ~/tc~`
+│   inner_content: ` (alias(94% to 100% of Europeans do not get 400 IU of vitamin D daily - April 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(94% to 100% of Europeans do not get 400 IU of vitamin D daily - April 2025)) `
+│   │   inner_content: `(alias(94% to 100% of Europeans do not get 400 IU of vitamin D daily - April 2025)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(94% to 100% of Europeans do not get even 400 IU of Vitamin D daily - July 2025)) ~/tc~`
+│   inner_content: ` (alias(94% to 100% of Europeans do not get even 400 IU of Vitamin D daily - July 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(94% to 100% of Europeans do not get even 400 IU of Vitamin D daily - July 2025)) `
+│   │   inner_content: `(alias(94% to 100% of Europeans do not get even 400 IU of Vitamin D daily - July 2025)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(94% to 100% of Europeansno longer get even 400 IU of Vitamin D daily - July 2025)) ~/tc~`
+│   inner_content: ` (alias(94% to 100% of Europeansno longer get even 400 IU of Vitamin D daily - July 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(94% to 100% of Europeansno longer get even 400 IU of Vitamin D daily - July 2025)) `
+│   │   inner_content: `(alias(94% to 100% of Europeansno longer get even 400 IU of Vitamin D daily - July 2025)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(94% to 100% of Europeans no longer get even 400 IU of Vitamin D daily - July 2025)) ~/tc~`
+│   inner_content: ` (alias(94% to 100% of Europeans no longer get even 400 IU of Vitamin D daily - July 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(94% to 100% of Europeans no longer get even 400 IU of Vitamin D daily - July 2025)) `
+│   │   inner_content: `(alias(94% to 100% of Europeans no longer get even 400 IU of Vitamin D daily - July 2025)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(94% to 100% of Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) ~/tc~`
+│   inner_content: ` (alias(94% to 100% of Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(94% to 100% of Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) `
+│   │   inner_content: `(alias(94% to 100% of Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Most Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) ~/tc~`
+│   inner_content: ` (alias(Most Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Most Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) `
+│   │   inner_content: `(alias(Most Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Contribution of different vitamin D forms and fortified foods to vitamin D intake in Europe: a narrative review
+J Steroid Biochem Mol Biol. 2025 Apr 14:106761. doi: 10.1016/j.jsbmb.2025.106761
+Maaike J Bruins 1
+
+{img type=&quot;attId&quot; attId=&quot;22508&quot; width=&quot;600&quot;}
+In the current narrative review, the bioavailability of the main vitamin D forms is evaluated. The mean intakes and main contributing forms of vitamin D in the European diet are estimated, as well as the major contributing dietary sources. The literature is reviewed for studies reporting on the proportion of users and non-users of fortified food with vitamin D intakes below reference intakes. In addition, the availability of vitamin D-fortified prepackaged retail products and fortification levels in the European market is assessed. Previously, vitamins D2 and D3 forms were considered the primary forms in the diet. Recent analytical methods suggest that dietary 25(OH)D3, when adjusted for higher bioequivalence, significantly contributes to total vitamin D intakes. When also considering 25(OH)D3 from foods, the estimated vitamin D intake from an average European diet was 3.8µg/d of total Vitamin D Equivalents: vitamin D3, vitamin D2 and 25(OH)D3, contributing about 71%, 2%, and 27%, respectively. Animal foods, fortified fats and spreads contributed most to total intakes. 
+Literature suggests that __94-100% of Europeans aged ≥ 13y fail to meet the vitamin D reference intake of 10µg/d,__
+*About 98-100% of vitamin D-fortified food users and
+*99-100% of non-users in the UK and Netherlands consumed less than 10µg/d of vitamin D. 
+About 1.2% of prepackaged foods and drinks were voluntary fortified with vitamin D, margarine and plant-based drinks providing most of the daily vitamin D. Encouraging fortification and other strategies may support closing the gap between current and recommended vitamin D intakes.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22502&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}.
+---
+!!!!European diet 150 years ago provided 600-1000 IU of Vitamin D daily
+Pre-processed form provides  ((Vitamin D from animal increases 6X when consider that already processed by animal livers|6X equivalent Vitamin D than non-preprocessed vitamin D))
+~hs~ ~hs~ pork, lard, chicken, eggs, eels, liver, kidneys, herring, mackerel, sardines,  etc.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22504&quot; icon=&quot;1&quot;)}Report by Perplexity AI {ATTACH}__{FONT}~hs~ or [https://www.perplexity.ai/search/i-would-like-to-get-an-estimat-W2VisKgpQ8WOiV060ACkDA|click here for online]
+{MOUSEOVER(label=&quot;Hover here to see question&quot; offsetx=&quot;4&quot; offsety=&quot;15&quot;)} I would like to get an estimate about how much vitamin D the average European got from food daily 150 years ago. Food used to contain a LOT more vitamin D. Examples: pigs, chicken, eels, liver, kidneys, small fatty fish, sardines, tripe, eggs. Note: many animal products contain a lot more semi-activated vitamin D, than regular vitamin D{MOUSEOVER}
+Example: A slice of pie made with lard from pigs raised outdoor contained 2,000 IU 
+see: ((Does Less Sun mean More Disease)) 5 minute video by VitaminDWiki
+see: ((&quot;Free range&quot; lard has 500 IU vitamin D per teaspoon))
+---
+!!!!Industrial food production removed about 400 IU, ((Fortification with Vitamin D|Fortification)) replaces about 120 IU
+{img type=&quot;attId&quot; attId=&quot;22509&quot; width=&quot;600&quot;}
+---
+!!!!VitaminDWiki -  ((Many reasons why vitamin D deficiency has become epidemic))
+__LESS__: sun, free-roaming farm animals, wild fish and game, organ meats, magnesium
+__MORE__:  obesity, pesticides, smoke, air polution, drugs, Omega-6
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 103  OR categId = 3 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}   Deficiency in Europe studies
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;103+3&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!!VitaminDWiki – ((Overview Deficiency of vitamin D))  contains
+{include page=&quot;Overview Deficiency of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+~tc~ (alias(94% to 100% of Europeans do not get 400 IU of vitamin D daily - April 2025)) ~/tc~
+~tc~ (alias(94% to 100% of Europeans do not get even 400 IU of Vitamin D daily - July 2025)) ~/tc~
+~tc~ (alias(94% to 100% of Europeansno longer get even 400 IU of Vitamin D daily - July 2025)) ~/tc~
+~tc~ (alias(94% to 100% of Europeans no longer get even 400 IU of Vitamin D daily - July 2025)) ~/tc~
+~tc~ (alias(94% to 100% of Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) ~/tc~
+~tc~ (alias(Most Europeans now get less than 400 IU of Vitamin D daily (most used to get 800 IU) - July 2025)) ~/tc~
+</code>
+</pre>

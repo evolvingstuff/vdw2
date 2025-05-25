@@ -1,0 +1,1684 @@
+---
+title: "Dogs health increased by Vitamin D"
+slug: "dogs-health-increased-by-vitamin-d"
+aliases:
+  - "/Dogs+health+increased+by+Vitamin+D"
+  - "/15949"
+tiki_page_id: 15949
+date: 2025-04-23
+---
+
+
+{{< toc >}}
+
+---
+
+#### Vitamin D and Canine Lifespan: Current Evidence and Understanding
+
+ **[Perplexity AI Deep Research April 2025](https://www.perplexity.ai/search/has-vitamin-d-been-found-to-in-xki_X_hLTsWyQeFYlVXJug)** 
+
+Based on a comprehensive review of available research, there is currently no direct evidence that vitamin D supplementation specifically increases the lifespan or extends the healthspan of dogs. However, vitamin D plays critical roles in numerous bodily functions that support overall canine health, which may indirectly contribute to quality of life as dogs age.
+
+##### The Role of Vitamin D in Canine Health
+
+Vitamin D is an essential micronutrient for dogs that supports multiple physiological functions. Unlike humans, dogs cannot synthesize sufficient vitamin D through skin exposure to sunlight and must obtain it primarily through their diet [1](https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health) [2](https://wholisticmatters.com/vitamin-d-for-dogs/). This fundamental difference in vitamin D metabolism makes dietary intake particularly important for canine health.
+
+The primary functions of vitamin D in dogs include:
+
+* Maintenance of calcium and phosphorus homeostasis, supporting bone and muscle growth and function [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs)
+
+* Boosting immune system function to help fight infections and diseases [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+* Supporting muscle health and proper function [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs) [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+* Potentially helping prevent cognitive decline in older dogs [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+* Regulating cell development for healthy tissues and organs [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+* Supporting cardiovascular health [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+These functions collectively contribute to a dog's overall wellbeing and potentially their healthspan, even if not directly extending their lifespan.
+
+##### Forms and Metabolism of Vitamin D in Dogs
+
+Dogs can utilize two forms of vitamin D: vitamin D2 (ergocalciferol), which is plant-based, and vitamin D3 (cholecalciferol), which is animal-derived [2](https://wholisticmatters.com/vitamin-d-for-dogs/) [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs). When either form enters the body, it is transformed in the liver into a stable metabolite called 25(OH)D (calcifediol), which is used as a marker of overall vitamin D status [2](https://wholisticmatters.com/vitamin-d-for-dogs/).
+
+A 2017 review described the most significant research findings on vitamin D and dogs as demonstrating associations with reducing disease risk, improving treatments and health outcomes, and functioning as a biomarker for prognoses [2](https://wholisticmatters.com/vitamin-d-for-dogs/), suggesting potential indirect relationships with healthspan.
+
+##### Vitamin D Status and Disease Outcomes
+
+Some research suggests a connection between vitamin D status and survival rates in dogs with specific diseases, which may have implications for understanding its role in health maintenance.
+
+##### Vitamin D and Infectious Disease Survival
+
+A study examining dogs with blastomycosis (a fungal infection) found that dogs with lower serum 25(OH)D concentrations had significantly higher odds of mortality. Specifically, dogs with baseline serum 25(OH)D concentrations below 180.5 nmol/L had 15 and 30 times greater odds of in-hospital and 30-day mortality, respectively [|PDF] Vitamin-D.pdf - UW Veterinary Care - University of Wisconsin–Madison" href="https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf">13. This suggests that vitamin D status may influence resilience to certain diseases.
+
+However, these findings were specific to survival rates in a particular disease condition rather than overall lifespan extension. The study authors noted that future research is needed to further characterize the role of vitamin D in disease pathogenesis and treatment outcomes [13](https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf).
+
+##### Optimal Vitamin D Levels for Canine Health
+
+While there is no consensus on the optimum concentration of vitamin D for dogs, some research suggests a minimum concentration of 100 ng/mL (250 nM) of circulating 25(OH)D to support optimal health [9](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full).
+
+A 2020 study published in Frontiers in Veterinary Science examined the relationship between dietary vitamin D intake and circulating 25(OH)D levels in adult dogs. The researchers found that dogs fed food with 5,510.9 IU/kg vitamin D or above consistently achieved serum 25(OH)D concentrations exceeding 100 ng/mL [9](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full). However, it's important to note that this study focused on establishing adequate vitamin D levels for general health, not specifically for lifespan extension.
+
+Another study observed that a plasma 25(OH)D level of 100-120 ng/ml might be considered sufficient for dogs based on the minimization of variance of parathyroid hormone and mean C-reactive protein levels at this range [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/), suggesting potential anti-inflammatory benefits.
+
+##### Individualized Response to Vitamin D Supplementation
+
+Research indicates that the effects of vitamin D supplementation may vary significantly between individual dogs. As noted in one study, "Increased dietary vitamin D supplementation may be beneficial for some dogs but may have no effect or even be detrimental in other dogs" [14](https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml). This highlights the importance of individualized approaches to vitamin D supplementation rather than a one-size-fits-all recommendation.
+
+##### Factors that may influence a dog's response to vitamin D include:
+
+1. Breed differences - Giant breed dogs appear to metabolize vitamin D differently than small breed dogs, with differences in concentrations of vitamin D metabolites [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/)
+
+1. Individual health status and concurrent diseases
+
+1. Age and growth stage
+
+1. Diet composition and nutrient interactions
+
+##### Ongoing Research on Canine Longevity
+
+While not specifically focused on vitamin D, it's worth noting that research on extending canine healthspan is ongoing. For example, the STAY study is currently investigating a drug called LOY-002, designed to extend healthy lifespans in canines by improving metabolic health to delay the onset and reduce the impact of age-associated diseases [7](https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs).
+
+This clinical trial, which has enrolled 1,000 dogs across 70 veterinary clinics in the US, aims to collect data on the drug's potential impact on lifespan and quality of life [7](https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs). Such research may eventually provide insights into various factors, potentially including vitamin D, that influence canine aging and longevity.
+
+##### Practical Considerations for Dog Owners
+
+##### Ensuring Adequate Vitamin D
+
+Dogs need vitamin D to stay strong and healthy, but it must be provided in appropriate amounts. Commercial dog foods typically contain adequate vitamin D to meet daily requirements [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs). Natural food sources of vitamin D that are safe for dogs include salmon, liver, eggs, yogurt, cheese, fish, beef, and squash [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs).
+
+##### Risks of Deficiency and Toxicity
+
+Both deficiency and excess of vitamin D can cause health problems in dogs:
+
+1.  **Vitamin D deficiency**  may contribute to poor bone health, weakened immune function, and increased susceptibility to certain diseases
+
+1.  **Vitamin D toxicity**  is a serious concern and can lead to severe health problems including kidney failure and death [6](https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what) [10](https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs)
+
+Signs of vitamin D toxicity in dogs include vomiting, loss of appetite, increased drinking and urination, excessive drooling, and weight loss [10](https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs) [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/). If toxicity is suspected, immediate veterinary attention is crucial.
+
+The National Research Council, the Association of American Feed Control Officials, and the European Pet Food Industry Federation provide guidelines for vitamin D intake in pet foods, with a safe upper limit of 3,200 IU vitamin D/kg on a dry matter basis [9](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full). Dog owners should not exceed recommended dosages when providing supplements.
+
+##### Conclusion
+
+While vitamin D is undoubtedly essential for canine health and may support various aspects of healthspan through its roles in bone health, immune function, and other physiological processes, current research does not provide direct evidence that vitamin D supplementation extends the lifespan of dogs.
+
+The relationship between vitamin D and canine health is complex and individualized. Maintaining appropriate vitamin D levels appears to be important for overall health and resilience against certain diseases, which may contribute to a better quality of life as dogs age. However, more research is needed to fully understand the potential role of vitamin D in canine longevity and healthspan.
+
+For dog owners concerned about their pet's vitamin D status, consultation with a veterinarian is recommended before starting any supplementation regimen, as both deficiency and toxicity can have serious health consequences. The most prudent approach appears to be ensuring adequate vitamin D through appropriate diet and veterinary-approved supplementation when necessary, rather than pursuing higher doses in hopes of extending lifespan.
+
+###### Citations:
+
+1. [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health](https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health)
+
+1. [https://wholisticmatters.com/vitamin-d-for-dogs/](https://wholisticmatters.com/vitamin-d-for-dogs/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/)
+
+1. [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/)
+
+1. [https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what](https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what)
+
+1. [https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs](https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/)
+
+1. [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full)
+
+1. [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs](https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs)
+
+1. [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/)
+
+1. [https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf](https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf)
+
+1. [https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml](https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml)
+
+1. [https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/](https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/)
+
+1. [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs](https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs)
+
+1. [https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/](https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/)
+
+1. [https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health](https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health)
+
+1. [https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/](https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/)
+
+1. [https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health](https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health)
+
+1. [https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/](https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/)
+
+1. [https://eclinpath.com/chemistry/minerals/vitamin-d/](https://eclinpath.com/chemistry/minerals/vitamin-d/)
+
+1. [https://www.healthspan.co.uk/multivitality-for-dogs/](https://www.healthspan.co.uk/multivitality-for-dogs/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/)
+
+1. [https://wagwalking.com/condition/vitamin-d-poisoning](https://wagwalking.com/condition/vitamin-d-poisoning)
+
+1. [https://www.healthspan.co.uk/pet-health/pet-hub/](https://www.healthspan.co.uk/pet-health/pet-hub/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/)
+
+1. [https://pubmed.ncbi.nlm.nih.gov/28941306/](https://pubmed.ncbi.nlm.nih.gov/28941306/)
+
+1. [https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259](https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259)
+
+1. [https://wholisticmatters.com/vitamin-d-for-dogs/](https://wholisticmatters.com/vitamin-d-for-dogs/)
+
+1. [https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/](https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/)
+
+1. [https://www.mdpi.com/2218-1989/10/12/499](https://www.mdpi.com/2218-1989/10/12/499)
+
+1. [https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259)
+
+1. [https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs](https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs)
+
+1. [https://pubmed.ncbi.nlm.nih.gov/37671585/](https://pubmed.ncbi.nlm.nih.gov/37671585/)
+
+1. [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000](https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000)
+
+1. [https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html](https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html)
+
+1. [https://wagwalking.com/wellness/vitamin-d-for-dogs](https://wagwalking.com/wellness/vitamin-d-for-dogs)
+
+1. [https://www.youtube.com/watch?v=-I7L_j0VeQ4](https://www.youtube.com/watch?v=-I7L_j0VeQ4)
+
+1. [https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full](https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full)
+
+1. [https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support](https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support)
+
+1. [https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/](https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/)
+
+1. [https://www.nature.com/articles/s41598-024-63031-w](https://www.nature.com/articles/s41598-024-63031-w)
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Vitamin D and Canine Lifespan: Current Evidence and Understanding
+
+ **[Perplexity AI Deep Research April 2025](https://www.perplexity.ai/search/has-vitamin-d-been-found-to-in-xki_X_hLTsWyQeFYlVXJug)** 
+
+Based on a comprehensive review of available research, there is currently no direct evidence that vitamin D supplementation specifically increases the lifespan or extends the healthspan of dogs. However, vitamin D plays critical roles in numerous bodily functions that support overall canine health, which may indirectly contribute to quality of life as dogs age.
+
+##### The Role of Vitamin D in Canine Health
+
+Vitamin D is an essential micronutrient for dogs that supports multiple physiological functions. Unlike humans, dogs cannot synthesize sufficient vitamin D through skin exposure to sunlight and must obtain it primarily through their diet [1](https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health) [2](https://wholisticmatters.com/vitamin-d-for-dogs/). This fundamental difference in vitamin D metabolism makes dietary intake particularly important for canine health.
+
+The primary functions of vitamin D in dogs include:
+
+* Maintenance of calcium and phosphorus homeostasis, supporting bone and muscle growth and function [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs)
+
+* Boosting immune system function to help fight infections and diseases [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+* Supporting muscle health and proper function [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs) [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+* Potentially helping prevent cognitive decline in older dogs [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+* Regulating cell development for healthy tissues and organs [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+* Supporting cardiovascular health [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+These functions collectively contribute to a dog&#39;s overall wellbeing and potentially their healthspan, even if not directly extending their lifespan.
+
+##### Forms and Metabolism of Vitamin D in Dogs
+
+Dogs can utilize two forms of vitamin D: vitamin D2 (ergocalciferol), which is plant-based, and vitamin D3 (cholecalciferol), which is animal-derived [2](https://wholisticmatters.com/vitamin-d-for-dogs/) [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs). When either form enters the body, it is transformed in the liver into a stable metabolite called 25(OH)D (calcifediol), which is used as a marker of overall vitamin D status [2](https://wholisticmatters.com/vitamin-d-for-dogs/).
+
+A 2017 review described the most significant research findings on vitamin D and dogs as demonstrating associations with reducing disease risk, improving treatments and health outcomes, and functioning as a biomarker for prognoses [2](https://wholisticmatters.com/vitamin-d-for-dogs/), suggesting potential indirect relationships with healthspan.
+
+##### Vitamin D Status and Disease Outcomes
+
+Some research suggests a connection between vitamin D status and survival rates in dogs with specific diseases, which may have implications for understanding its role in health maintenance.
+
+##### Vitamin D and Infectious Disease Survival
+
+A study examining dogs with blastomycosis (a fungal infection) found that dogs with lower serum 25(OH)D concentrations had significantly higher odds of mortality. Specifically, dogs with baseline serum 25(OH)D concentrations below 180.5 nmol/L had 15 and 30 times greater odds of in-hospital and 30-day mortality, respectively [|PDF] Vitamin-D.pdf - UW Veterinary Care - University of Wisconsin–Madison&quot; href=&quot;https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf&quot;&gt;13. This suggests that vitamin D status may influence resilience to certain diseases.
+
+However, these findings were specific to survival rates in a particular disease condition rather than overall lifespan extension. The study authors noted that future research is needed to further characterize the role of vitamin D in disease pathogenesis and treatment outcomes [13](https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf).
+
+##### Optimal Vitamin D Levels for Canine Health
+
+While there is no consensus on the optimum concentration of vitamin D for dogs, some research suggests a minimum concentration of 100 ng/mL (250 nM) of circulating 25(OH)D to support optimal health [9](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full).
+
+A 2020 study published in Frontiers in Veterinary Science examined the relationship between dietary vitamin D intake and circulating 25(OH)D levels in adult dogs. The researchers found that dogs fed food with 5,510.9 IU/kg vitamin D or above consistently achieved serum 25(OH)D concentrations exceeding 100 ng/mL [9](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full). However, it&#39;s important to note that this study focused on establishing adequate vitamin D levels for general health, not specifically for lifespan extension.
+
+Another study observed that a plasma 25(OH)D level of 100-120 ng/ml might be considered sufficient for dogs based on the minimization of variance of parathyroid hormone and mean C-reactive protein levels at this range [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/), suggesting potential anti-inflammatory benefits.
+
+##### Individualized Response to Vitamin D Supplementation
+
+Research indicates that the effects of vitamin D supplementation may vary significantly between individual dogs. As noted in one study, &quot;Increased dietary vitamin D supplementation may be beneficial for some dogs but may have no effect or even be detrimental in other dogs&quot; [14](https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml). This highlights the importance of individualized approaches to vitamin D supplementation rather than a one-size-fits-all recommendation.
+
+##### Factors that may influence a dog&#39;s response to vitamin D include:
+
+1. Breed differences - Giant breed dogs appear to metabolize vitamin D differently than small breed dogs, with differences in concentrations of vitamin D metabolites [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/)
+
+1. Individual health status and concurrent diseases
+
+1. Age and growth stage
+
+1. Diet composition and nutrient interactions
+
+##### Ongoing Research on Canine Longevity
+
+While not specifically focused on vitamin D, it&#39;s worth noting that research on extending canine healthspan is ongoing. For example, the STAY study is currently investigating a drug called LOY-002, designed to extend healthy lifespans in canines by improving metabolic health to delay the onset and reduce the impact of age-associated diseases [7](https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs).
+
+This clinical trial, which has enrolled 1,000 dogs across 70 veterinary clinics in the US, aims to collect data on the drug&#39;s potential impact on lifespan and quality of life [7](https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs). Such research may eventually provide insights into various factors, potentially including vitamin D, that influence canine aging and longevity.
+
+##### Practical Considerations for Dog Owners
+
+##### Ensuring Adequate Vitamin D
+
+Dogs need vitamin D to stay strong and healthy, but it must be provided in appropriate amounts. Commercial dog foods typically contain adequate vitamin D to meet daily requirements [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs). Natural food sources of vitamin D that are safe for dogs include salmon, liver, eggs, yogurt, cheese, fish, beef, and squash [4](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs).
+
+##### Risks of Deficiency and Toxicity
+
+Both deficiency and excess of vitamin D can cause health problems in dogs:
+
+1.  **Vitamin D deficiency**  may contribute to poor bone health, weakened immune function, and increased susceptibility to certain diseases
+
+1.  **Vitamin D toxicity**  is a serious concern and can lead to severe health problems including kidney failure and death [6](https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what) [10](https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs)
+
+Signs of vitamin D toxicity in dogs include vomiting, loss of appetite, increased drinking and urination, excessive drooling, and weight loss [10](https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs) [11](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/). If toxicity is suspected, immediate veterinary attention is crucial.
+
+The National Research Council, the Association of American Feed Control Officials, and the European Pet Food Industry Federation provide guidelines for vitamin D intake in pet foods, with a safe upper limit of 3,200 IU vitamin D/kg on a dry matter basis [9](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full). Dog owners should not exceed recommended dosages when providing supplements.
+
+##### Conclusion
+
+While vitamin D is undoubtedly essential for canine health and may support various aspects of healthspan through its roles in bone health, immune function, and other physiological processes, current research does not provide direct evidence that vitamin D supplementation extends the lifespan of dogs.
+
+The relationship between vitamin D and canine health is complex and individualized. Maintaining appropriate vitamin D levels appears to be important for overall health and resilience against certain diseases, which may contribute to a better quality of life as dogs age. However, more research is needed to fully understand the potential role of vitamin D in canine longevity and healthspan.
+
+For dog owners concerned about their pet&#39;s vitamin D status, consultation with a veterinarian is recommended before starting any supplementation regimen, as both deficiency and toxicity can have serious health consequences. The most prudent approach appears to be ensuring adequate vitamin D through appropriate diet and veterinary-approved supplementation when necessary, rather than pursuing higher doses in hopes of extending lifespan.
+
+###### Citations:
+
+1. [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health](https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health)
+
+1. [https://wholisticmatters.com/vitamin-d-for-dogs/](https://wholisticmatters.com/vitamin-d-for-dogs/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/)
+
+1. [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs](https://petfriendlybox.com/resource-center/vitamin-d-for-dogs)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/)
+
+1. [https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what](https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what)
+
+1. [https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs](https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/)
+
+1. [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full)
+
+1. [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs](https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs)
+
+1. [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/](https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/)
+
+1. [https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf](https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf)
+
+1. [https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml](https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml)
+
+1. [https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/](https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/)
+
+1. [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs](https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs)
+
+1. [https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/](https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/)
+
+1. [https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health](https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health)
+
+1. [https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/](https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/)
+
+1. [https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health](https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health)
+
+1. [https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/](https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/)
+
+1. [https://eclinpath.com/chemistry/minerals/vitamin-d/](https://eclinpath.com/chemistry/minerals/vitamin-d/)
+
+1. [https://www.healthspan.co.uk/multivitality-for-dogs/](https://www.healthspan.co.uk/multivitality-for-dogs/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/)
+
+1. [https://wagwalking.com/condition/vitamin-d-poisoning](https://wagwalking.com/condition/vitamin-d-poisoning)
+
+1. [https://www.healthspan.co.uk/pet-health/pet-hub/](https://www.healthspan.co.uk/pet-health/pet-hub/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/)
+
+1. [https://pubmed.ncbi.nlm.nih.gov/28941306/](https://pubmed.ncbi.nlm.nih.gov/28941306/)
+
+1. [https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259](https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259)
+
+1. [https://wholisticmatters.com/vitamin-d-for-dogs/](https://wholisticmatters.com/vitamin-d-for-dogs/)
+
+1. [https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/](https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/)
+
+1. [https://www.mdpi.com/2218-1989/10/12/499](https://www.mdpi.com/2218-1989/10/12/499)
+
+1. [https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259)
+
+1. [https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs](https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs)
+
+1. [https://pubmed.ncbi.nlm.nih.gov/37671585/](https://pubmed.ncbi.nlm.nih.gov/37671585/)
+
+1. [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000](https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000)
+
+1. [https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html](https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html)
+
+1. [https://wagwalking.com/wellness/vitamin-d-for-dogs](https://wagwalking.com/wellness/vitamin-d-for-dogs)
+
+1. [https://www.youtube.com/watch?v=-I7L_j0VeQ4](https://www.youtube.com/watch?v=-I7L_j0VeQ4)
+
+1. [https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full](https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full)
+
+1. [https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support](https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support)
+
+1. [https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/](https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/)
+
+1. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/)
+
+1. [https://www.nature.com/articles/s41598-024-63031-w](https://www.nature.com/articles/s41598-024-63031-w)
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D and Canine Lifespan: Current Evidence and Understanding`
+│   inner_content: `Vitamin D and Canine Lifespan: Current Evidence and Understanding`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D and Canine Lifespan: Current Evidence and Understanding`
+│   │   inner_content: `Vitamin D and Canine Lifespan: Current Evidence and Understanding`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.perplexity.ai/search/has-vitamin-d-been-found-to-in-xki_X_hLTsWyQeFYlVXJug|Perplexity AI Deep Research April 2025]__`
+│   inner_content: `[https://www.perplexity.ai/search/has-vitamin-d-been-found-to-in-xki_X_hLTsWyQeFYlVXJug|Perplexity AI Deep Research April 2025]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/has-vitamin-d-been-found-to-in-xki_X_hLTsWyQeFYlVXJug|Perplexity AI Deep Research April 2025]`
+│   │   inner_content: `Perplexity AI Deep Research April 2025`
+│   │   url: `https://www.perplexity.ai/search/has-vitamin-d-been-found-to-in-xki_X_hLTsWyQeFYlVXJug`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity AI Deep Research April 2025`
+│   │   │   inner_content: `Perplexity AI Deep Research April 2025`├── TextNode
+│   full_match: `\nBased on a comprehensive review of available research, there is currently no direct evidence that vitamin D supplementation specifically increases the lifespan or extends the healthspan of dogs. However, vitamin D plays critical roles in numerous bodily functions that support overall canine health, which may indirectly contribute to quality of life as dogs age.\n`
+│   inner_content: `\nBased on a comprehensive review of available research, there is currently no direct evidence that vitamin D supplementation specifically increases the lifespan or extends the healthspan of dogs. However, vitamin D plays critical roles in numerous bodily functions that support overall canine health, which may indirectly contribute to quality of life as dogs age.\n`├── HeadingNode
+│   full_match: `!!!!!The Role of Vitamin D in Canine Health`
+│   inner_content: `The Role of Vitamin D in Canine Health`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The Role of Vitamin D in Canine Health`
+│   │   inner_content: `The Role of Vitamin D in Canine Health`├── TextNode
+│   full_match: `\nVitamin D is an essential micronutrient for dogs that supports multiple physiological functions. Unlike humans, dogs cannot synthesize sufficient vitamin D through skin exposure to sunlight and must obtain it primarily through their diet `
+│   inner_content: `\nVitamin D is an essential micronutrient for dogs that supports multiple physiological functions. Unlike humans, dogs cannot synthesize sufficient vitamin D through skin exposure to sunlight and must obtain it primarily through their diet `├── LinkNode
+│   full_match: `[https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health|1]`
+│   inner_content: `1`
+│   url: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── LinkNode
+│   full_match: `[https://wholisticmatters.com/vitamin-d-for-dogs/|2]`
+│   inner_content: `2`
+│   url: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: `. This fundamental difference in vitamin D metabolism makes dietary intake particularly important for canine health.\nThe primary functions of vitamin D in dogs include:\n`
+│   inner_content: `. This fundamental difference in vitamin D metabolism makes dietary intake particularly important for canine health.\nThe primary functions of vitamin D in dogs include:\n`├── ListItemNode
+│   full_match: `*Maintenance of calcium and phosphorus homeostasis, supporting bone and muscle growth and function [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]`
+│   inner_content: `Maintenance of calcium and phosphorus homeostasis, supporting bone and muscle growth and function [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Maintenance of calcium and phosphorus homeostasis, supporting bone and muscle growth and function `
+│   │   inner_content: `Maintenance of calcium and phosphorus homeostasis, supporting bone and muscle growth and function `
+│   ├── LinkNode
+│   │   full_match: `[https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]`
+│   │   inner_content: `4`
+│   │   url: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Boosting immune system function to help fight infections and diseases [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   inner_content: `Boosting immune system function to help fight infections and diseases [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Boosting immune system function to help fight infections and diseases `
+│   │   inner_content: `Boosting immune system function to help fight infections and diseases `
+│   ├── LinkNode
+│   │   full_match: `[https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   │   inner_content: `11`
+│   │   url: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `11`
+│   │   │   inner_content: `11`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Supporting muscle health and proper function [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4] [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   inner_content: `Supporting muscle health and proper function [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4] [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Supporting muscle health and proper function `
+│   │   inner_content: `Supporting muscle health and proper function `
+│   ├── LinkNode
+│   │   full_match: `[https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]`
+│   │   inner_content: `4`
+│   │   url: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   │   inner_content: `11`
+│   │   url: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `11`
+│   │   │   inner_content: `11`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Potentially helping prevent cognitive decline in older dogs [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   inner_content: `Potentially helping prevent cognitive decline in older dogs [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Potentially helping prevent cognitive decline in older dogs `
+│   │   inner_content: `Potentially helping prevent cognitive decline in older dogs `
+│   ├── LinkNode
+│   │   full_match: `[https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   │   inner_content: `11`
+│   │   url: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `11`
+│   │   │   inner_content: `11`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Regulating cell development for healthy tissues and organs [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   inner_content: `Regulating cell development for healthy tissues and organs [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Regulating cell development for healthy tissues and organs `
+│   │   inner_content: `Regulating cell development for healthy tissues and organs `
+│   ├── LinkNode
+│   │   full_match: `[https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   │   inner_content: `11`
+│   │   url: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `11`
+│   │   │   inner_content: `11`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Supporting cardiovascular health [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   inner_content: `Supporting cardiovascular health [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Supporting cardiovascular health `
+│   │   inner_content: `Supporting cardiovascular health `
+│   ├── LinkNode
+│   │   full_match: `[https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   │   inner_content: `11`
+│   │   url: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `11`
+│   │   │   inner_content: `11`├── TextNode
+│   full_match: `\nThese functions collectively contribute to a dog&#39;s overall wellbeing and potentially their healthspan, even if not directly extending their lifespan.\n`
+│   inner_content: `\nThese functions collectively contribute to a dog&#39;s overall wellbeing and potentially their healthspan, even if not directly extending their lifespan.\n`├── HeadingNode
+│   full_match: `!!!!!Forms and Metabolism of Vitamin D in Dogs`
+│   inner_content: `Forms and Metabolism of Vitamin D in Dogs`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Forms and Metabolism of Vitamin D in Dogs`
+│   │   inner_content: `Forms and Metabolism of Vitamin D in Dogs`├── TextNode
+│   full_match: `\nDogs can utilize two forms of vitamin D: vitamin D2 (ergocalciferol), which is plant-based, and vitamin D3 (cholecalciferol), which is animal-derived `
+│   inner_content: `\nDogs can utilize two forms of vitamin D: vitamin D2 (ergocalciferol), which is plant-based, and vitamin D3 (cholecalciferol), which is animal-derived `├── LinkNode
+│   full_match: `[https://wholisticmatters.com/vitamin-d-for-dogs/|2]`
+│   inner_content: `2`
+│   url: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── LinkNode
+│   full_match: `[https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]`
+│   inner_content: `4`
+│   url: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `. When either form enters the body, it is transformed in the liver into a stable metabolite called 25(OH)D (calcifediol), which is used as a marker of overall vitamin D status `
+│   inner_content: `. When either form enters the body, it is transformed in the liver into a stable metabolite called 25(OH)D (calcifediol), which is used as a marker of overall vitamin D status `├── LinkNode
+│   full_match: `[https://wholisticmatters.com/vitamin-d-for-dogs/|2]`
+│   inner_content: `2`
+│   url: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: `.\nA 2017 review described the most significant research findings on vitamin D and dogs as demonstrating associations with reducing disease risk, improving treatments and health outcomes, and functioning as a biomarker for prognoses `
+│   inner_content: `.\nA 2017 review described the most significant research findings on vitamin D and dogs as demonstrating associations with reducing disease risk, improving treatments and health outcomes, and functioning as a biomarker for prognoses `├── LinkNode
+│   full_match: `[https://wholisticmatters.com/vitamin-d-for-dogs/|2]`
+│   inner_content: `2`
+│   url: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: `, suggesting potential indirect relationships with healthspan.\n`
+│   inner_content: `, suggesting potential indirect relationships with healthspan.\n`├── HeadingNode
+│   full_match: `!!!!!Vitamin D Status and Disease Outcomes`
+│   inner_content: `Vitamin D Status and Disease Outcomes`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D Status and Disease Outcomes`
+│   │   inner_content: `Vitamin D Status and Disease Outcomes`├── TextNode
+│   full_match: `\nSome research suggests a connection between vitamin D status and survival rates in dogs with specific diseases, which may have implications for understanding its role in health maintenance.\n`
+│   inner_content: `\nSome research suggests a connection between vitamin D status and survival rates in dogs with specific diseases, which may have implications for understanding its role in health maintenance.\n`├── HeadingNode
+│   full_match: `!!!!!Vitamin D and Infectious Disease Survival`
+│   inner_content: `Vitamin D and Infectious Disease Survival`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D and Infectious Disease Survival`
+│   │   inner_content: `Vitamin D and Infectious Disease Survival`├── TextNode
+│   full_match: `\nA study examining dogs with blastomycosis (a fungal infection) found that dogs with lower serum 25(OH)D concentrations had significantly higher odds of mortality. Specifically, dogs with baseline serum 25(OH)D concentrations below 180.5 nmol/L had 15 and 30 times greater odds of in-hospital and 30-day mortality, respectively [|PDF] Vitamin-D.pdf - UW Veterinary Care - University of Wisconsin–Madison&quot; href=&quot;https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf&quot;&gt;13. This suggests that vitamin D status may influence resilience to certain diseases.\nHowever, these findings were specific to survival rates in a particular disease condition rather than overall lifespan extension. The study authors noted that future research is needed to further characterize the role of vitamin D in disease pathogenesis and treatment outcomes `
+│   inner_content: `\nA study examining dogs with blastomycosis (a fungal infection) found that dogs with lower serum 25(OH)D concentrations had significantly higher odds of mortality. Specifically, dogs with baseline serum 25(OH)D concentrations below 180.5 nmol/L had 15 and 30 times greater odds of in-hospital and 30-day mortality, respectively [|PDF] Vitamin-D.pdf - UW Veterinary Care - University of Wisconsin–Madison&quot; href=&quot;https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf&quot;&gt;13. This suggests that vitamin D status may influence resilience to certain diseases.\nHowever, these findings were specific to survival rates in a particular disease condition rather than overall lifespan extension. The study authors noted that future research is needed to further characterize the role of vitamin D in disease pathogenesis and treatment outcomes `├── LinkNode
+│   full_match: `[https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf|13]`
+│   inner_content: `13`
+│   url: `https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf`
+│   children:
+│   ├── TextNode
+│   │   full_match: `13`
+│   │   inner_content: `13`├── TextNode
+│   full_match: `.\n`
+│   inner_content: `.\n`├── HeadingNode
+│   full_match: `!!!!!Optimal Vitamin D Levels for Canine Health`
+│   inner_content: `Optimal Vitamin D Levels for Canine Health`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Optimal Vitamin D Levels for Canine Health`
+│   │   inner_content: `Optimal Vitamin D Levels for Canine Health`├── TextNode
+│   full_match: `\nWhile there is no consensus on the optimum concentration of vitamin D for dogs, some research suggests a minimum concentration of 100 ng/mL (250 nM) of circulating 25(OH)D to support optimal health `
+│   inner_content: `\nWhile there is no consensus on the optimum concentration of vitamin D for dogs, some research suggests a minimum concentration of 100 ng/mL (250 nM) of circulating 25(OH)D to support optimal health `├── LinkNode
+│   full_match: `[https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full|9]`
+│   inner_content: `9`
+│   url: `https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full`
+│   children:
+│   ├── TextNode
+│   │   full_match: `9`
+│   │   inner_content: `9`├── TextNode
+│   full_match: `.\nA 2020 study published in Frontiers in Veterinary Science examined the relationship between dietary vitamin D intake and circulating 25(OH)D levels in adult dogs. The researchers found that dogs fed food with 5,510.9 IU/kg vitamin D or above consistently achieved serum 25(OH)D concentrations exceeding 100 ng/mL `
+│   inner_content: `.\nA 2020 study published in Frontiers in Veterinary Science examined the relationship between dietary vitamin D intake and circulating 25(OH)D levels in adult dogs. The researchers found that dogs fed food with 5,510.9 IU/kg vitamin D or above consistently achieved serum 25(OH)D concentrations exceeding 100 ng/mL `├── LinkNode
+│   full_match: `[https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full|9]`
+│   inner_content: `9`
+│   url: `https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full`
+│   children:
+│   ├── TextNode
+│   │   full_match: `9`
+│   │   inner_content: `9`├── TextNode
+│   full_match: `. However, it&#39;s important to note that this study focused on establishing adequate vitamin D levels for general health, not specifically for lifespan extension.\nAnother study observed that a plasma 25(OH)D level of 100-120 ng/ml might be considered sufficient for dogs based on the minimization of variance of parathyroid hormone and mean C-reactive protein levels at this range `
+│   inner_content: `. However, it&#39;s important to note that this study focused on establishing adequate vitamin D levels for general health, not specifically for lifespan extension.\nAnother study observed that a plasma 25(OH)D level of 100-120 ng/ml might be considered sufficient for dogs based on the minimization of variance of parathyroid hormone and mean C-reactive protein levels at this range `├── LinkNode
+│   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/|3]`
+│   inner_content: `3`
+│   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3`
+│   │   inner_content: `3`├── TextNode
+│   full_match: `, suggesting potential anti-inflammatory benefits.\n`
+│   inner_content: `, suggesting potential anti-inflammatory benefits.\n`├── HeadingNode
+│   full_match: `!!!!!Individualized Response to Vitamin D Supplementation`
+│   inner_content: `Individualized Response to Vitamin D Supplementation`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Individualized Response to Vitamin D Supplementation`
+│   │   inner_content: `Individualized Response to Vitamin D Supplementation`├── TextNode
+│   full_match: `\nResearch indicates that the effects of vitamin D supplementation may vary significantly between individual dogs. As noted in one study, &quot;Increased dietary vitamin D supplementation may be beneficial for some dogs but may have no effect or even be detrimental in other dogs&quot; `
+│   inner_content: `\nResearch indicates that the effects of vitamin D supplementation may vary significantly between individual dogs. As noted in one study, &quot;Increased dietary vitamin D supplementation may be beneficial for some dogs but may have no effect or even be detrimental in other dogs&quot; `├── LinkNode
+│   full_match: `[https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml|14]`
+│   inner_content: `14`
+│   url: `https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml`
+│   children:
+│   ├── TextNode
+│   │   full_match: `14`
+│   │   inner_content: `14`├── TextNode
+│   full_match: `. This highlights the importance of individualized approaches to vitamin D supplementation rather than a one-size-fits-all recommendation.\n`
+│   inner_content: `. This highlights the importance of individualized approaches to vitamin D supplementation rather than a one-size-fits-all recommendation.\n`├── HeadingNode
+│   full_match: `!!!!!Factors that may influence a dog&#39;s response to vitamin D include:`
+│   inner_content: `Factors that may influence a dog&#39;s response to vitamin D include:`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Factors that may influence a dog&#39;s response to vitamin D include:`
+│   │   inner_content: `Factors that may influence a dog&#39;s response to vitamin D include:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Breed differences - Giant breed dogs appear to metabolize vitamin D differently than small breed dogs, with differences in concentrations of vitamin D metabolites [https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/|5]`
+│   inner_content: `Breed differences - Giant breed dogs appear to metabolize vitamin D differently than small breed dogs, with differences in concentrations of vitamin D metabolites [https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/|5]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Breed differences - Giant breed dogs appear to metabolize vitamin D differently than small breed dogs, with differences in concentrations of vitamin D metabolites `
+│   │   inner_content: `Breed differences - Giant breed dogs appear to metabolize vitamin D differently than small breed dogs, with differences in concentrations of vitamin D metabolites `
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/|5]`
+│   │   inner_content: `5`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Individual health status and concurrent diseases`
+│   inner_content: `Individual health status and concurrent diseases`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Individual health status and concurrent diseases`
+│   │   inner_content: `Individual health status and concurrent diseases`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Age and growth stage`
+│   inner_content: `Age and growth stage`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Age and growth stage`
+│   │   inner_content: `Age and growth stage`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Diet composition and nutrient interactions`
+│   inner_content: `Diet composition and nutrient interactions`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Diet composition and nutrient interactions`
+│   │   inner_content: `Diet composition and nutrient interactions`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!Ongoing Research on Canine Longevity`
+│   inner_content: `Ongoing Research on Canine Longevity`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ongoing Research on Canine Longevity`
+│   │   inner_content: `Ongoing Research on Canine Longevity`├── TextNode
+│   full_match: `\nWhile not specifically focused on vitamin D, it&#39;s worth noting that research on extending canine healthspan is ongoing. For example, the STAY study is currently investigating a drug called LOY-002, designed to extend healthy lifespans in canines by improving metabolic health to delay the onset and reduce the impact of age-associated diseases `
+│   inner_content: `\nWhile not specifically focused on vitamin D, it&#39;s worth noting that research on extending canine healthspan is ongoing. For example, the STAY study is currently investigating a drug called LOY-002, designed to extend healthy lifespans in canines by improving metabolic health to delay the onset and reduce the impact of age-associated diseases `├── LinkNode
+│   full_match: `[https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs|7]`
+│   inner_content: `7`
+│   url: `https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs`
+│   children:
+│   ├── TextNode
+│   │   full_match: `7`
+│   │   inner_content: `7`├── TextNode
+│   full_match: `.\nThis clinical trial, which has enrolled 1,000 dogs across 70 veterinary clinics in the US, aims to collect data on the drug&#39;s potential impact on lifespan and quality of life `
+│   inner_content: `.\nThis clinical trial, which has enrolled 1,000 dogs across 70 veterinary clinics in the US, aims to collect data on the drug&#39;s potential impact on lifespan and quality of life `├── LinkNode
+│   full_match: `[https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs|7]`
+│   inner_content: `7`
+│   url: `https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs`
+│   children:
+│   ├── TextNode
+│   │   full_match: `7`
+│   │   inner_content: `7`├── TextNode
+│   full_match: `. Such research may eventually provide insights into various factors, potentially including vitamin D, that influence canine aging and longevity.\n`
+│   inner_content: `. Such research may eventually provide insights into various factors, potentially including vitamin D, that influence canine aging and longevity.\n`├── HeadingNode
+│   full_match: `!!!!!Practical Considerations for Dog Owners`
+│   inner_content: `Practical Considerations for Dog Owners`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Practical Considerations for Dog Owners`
+│   │   inner_content: `Practical Considerations for Dog Owners`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!Ensuring Adequate Vitamin D`
+│   inner_content: `Ensuring Adequate Vitamin D`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ensuring Adequate Vitamin D`
+│   │   inner_content: `Ensuring Adequate Vitamin D`├── TextNode
+│   full_match: `\nDogs need vitamin D to stay strong and healthy, but it must be provided in appropriate amounts. Commercial dog foods typically contain adequate vitamin D to meet daily requirements `
+│   inner_content: `\nDogs need vitamin D to stay strong and healthy, but it must be provided in appropriate amounts. Commercial dog foods typically contain adequate vitamin D to meet daily requirements `├── LinkNode
+│   full_match: `[https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]`
+│   inner_content: `4`
+│   url: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `. Natural food sources of vitamin D that are safe for dogs include salmon, liver, eggs, yogurt, cheese, fish, beef, and squash `
+│   inner_content: `. Natural food sources of vitamin D that are safe for dogs include salmon, liver, eggs, yogurt, cheese, fish, beef, and squash `├── LinkNode
+│   full_match: `[https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]`
+│   inner_content: `4`
+│   url: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4`
+│   │   inner_content: `4`├── TextNode
+│   full_match: `.\n`
+│   inner_content: `.\n`├── HeadingNode
+│   full_match: `!!!!!Risks of Deficiency and Toxicity`
+│   inner_content: `Risks of Deficiency and Toxicity`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Risks of Deficiency and Toxicity`
+│   │   inner_content: `Risks of Deficiency and Toxicity`├── TextNode
+│   full_match: `\nBoth deficiency and excess of vitamin D can cause health problems in dogs:\n`
+│   inner_content: `\nBoth deficiency and excess of vitamin D can cause health problems in dogs:\n`├── NumListItemNode
+│   full_match: `#__Vitamin D deficiency__ may contribute to poor bone health, weakened immune function, and increased susceptibility to certain diseases`
+│   inner_content: `__Vitamin D deficiency__ may contribute to poor bone health, weakened immune function, and increased susceptibility to certain diseases`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Vitamin D deficiency__`
+│   │   inner_content: `Vitamin D deficiency`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D deficiency`
+│   │   │   inner_content: `Vitamin D deficiency`
+│   ├── TextNode
+│   │   full_match: ` may contribute to poor bone health, weakened immune function, and increased susceptibility to certain diseases`
+│   │   inner_content: ` may contribute to poor bone health, weakened immune function, and increased susceptibility to certain diseases`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Vitamin D toxicity__ is a serious concern and can lead to severe health problems including kidney failure and death [https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what|6] [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs|10]`
+│   inner_content: `__Vitamin D toxicity__ is a serious concern and can lead to severe health problems including kidney failure and death [https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what|6] [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs|10]`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Vitamin D toxicity__`
+│   │   inner_content: `Vitamin D toxicity`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D toxicity`
+│   │   │   inner_content: `Vitamin D toxicity`
+│   ├── TextNode
+│   │   full_match: ` is a serious concern and can lead to severe health problems including kidney failure and death `
+│   │   inner_content: ` is a serious concern and can lead to severe health problems including kidney failure and death `
+│   ├── LinkNode
+│   │   full_match: `[https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what|6]`
+│   │   inner_content: `6`
+│   │   url: `https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs|10]`
+│   │   inner_content: `10`
+│   │   url: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `10`
+│   │   │   inner_content: `10`├── TextNode
+│   full_match: `\nSigns of vitamin D toxicity in dogs include vomiting, loss of appetite, increased drinking and urination, excessive drooling, and weight loss `
+│   inner_content: `\nSigns of vitamin D toxicity in dogs include vomiting, loss of appetite, increased drinking and urination, excessive drooling, and weight loss `├── LinkNode
+│   full_match: `[https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs|10]`
+│   inner_content: `10`
+│   url: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`
+│   children:
+│   ├── TextNode
+│   │   full_match: `10`
+│   │   inner_content: `10`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── LinkNode
+│   full_match: `[https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]`
+│   inner_content: `11`
+│   url: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `11`
+│   │   inner_content: `11`├── TextNode
+│   full_match: `. If toxicity is suspected, immediate veterinary attention is crucial.\nThe National Research Council, the Association of American Feed Control Officials, and the European Pet Food Industry Federation provide guidelines for vitamin D intake in pet foods, with a safe upper limit of 3,200 IU vitamin D/kg on a dry matter basis `
+│   inner_content: `. If toxicity is suspected, immediate veterinary attention is crucial.\nThe National Research Council, the Association of American Feed Control Officials, and the European Pet Food Industry Federation provide guidelines for vitamin D intake in pet foods, with a safe upper limit of 3,200 IU vitamin D/kg on a dry matter basis `├── LinkNode
+│   full_match: `[https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full|9]`
+│   inner_content: `9`
+│   url: `https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full`
+│   children:
+│   ├── TextNode
+│   │   full_match: `9`
+│   │   inner_content: `9`├── TextNode
+│   full_match: `. Dog owners should not exceed recommended dosages when providing supplements.\n`
+│   inner_content: `. Dog owners should not exceed recommended dosages when providing supplements.\n`├── HeadingNode
+│   full_match: `!!!!!Conclusion`
+│   inner_content: `Conclusion`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Conclusion`
+│   │   inner_content: `Conclusion`├── TextNode
+│   full_match: `\nWhile vitamin D is undoubtedly essential for canine health and may support various aspects of healthspan through its roles in bone health, immune function, and other physiological processes, current research does not provide direct evidence that vitamin D supplementation extends the lifespan of dogs.\nThe relationship between vitamin D and canine health is complex and individualized. Maintaining appropriate vitamin D levels appears to be important for overall health and resilience against certain diseases, which may contribute to a better quality of life as dogs age. However, more research is needed to fully understand the potential role of vitamin D in canine longevity and healthspan.\nFor dog owners concerned about their pet&#39;s vitamin D status, consultation with a veterinarian is recommended before starting any supplementation regimen, as both deficiency and toxicity can have serious health consequences. The most prudent approach appears to be ensuring adequate vitamin D through appropriate diet and veterinary-approved supplementation when necessary, rather than pursuing higher doses in hopes of extending lifespan.\n`
+│   inner_content: `\nWhile vitamin D is undoubtedly essential for canine health and may support various aspects of healthspan through its roles in bone health, immune function, and other physiological processes, current research does not provide direct evidence that vitamin D supplementation extends the lifespan of dogs.\nThe relationship between vitamin D and canine health is complex and individualized. Maintaining appropriate vitamin D levels appears to be important for overall health and resilience against certain diseases, which may contribute to a better quality of life as dogs age. However, more research is needed to fully understand the potential role of vitamin D in canine longevity and healthspan.\nFor dog owners concerned about their pet&#39;s vitamin D status, consultation with a veterinarian is recommended before starting any supplementation regimen, as both deficiency and toxicity can have serious health consequences. The most prudent approach appears to be ensuring adequate vitamin D through appropriate diet and veterinary-approved supplementation when necessary, rather than pursuing higher doses in hopes of extending lifespan.\n`├── HeadingNode
+│   full_match: `!!!!!!Citations:`
+│   inner_content: `Citations:`
+│   level: `6`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Citations:`
+│   │   inner_content: `Citations:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health]`
+│   inner_content: ` [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health]`
+│   │   inner_content: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health`
+│   │   url: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health`
+│   │   │   inner_content: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://wholisticmatters.com/vitamin-d-for-dogs/]`
+│   inner_content: ` [https://wholisticmatters.com/vitamin-d-for-dogs/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://wholisticmatters.com/vitamin-d-for-dogs/]`
+│   │   inner_content: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   │   url: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   │   │   inner_content: `https://wholisticmatters.com/vitamin-d-for-dogs/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/]`
+│   inner_content: ` [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/]`
+│   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`
+│   │   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs]`
+│   inner_content: ` [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://petfriendlybox.com/resource-center/vitamin-d-for-dogs]`
+│   │   inner_content: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`
+│   │   url: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`
+│   │   │   inner_content: `https://petfriendlybox.com/resource-center/vitamin-d-for-dogs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/]`
+│   inner_content: ` [https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/]`
+│   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/`
+│   │   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what]`
+│   inner_content: ` [https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what]`
+│   │   inner_content: `https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what`
+│   │   url: `https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what`
+│   │   │   inner_content: `https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs]`
+│   inner_content: ` [https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs]`
+│   │   inner_content: `https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs`
+│   │   url: `https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs`
+│   │   │   inner_content: `https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/]`
+│   inner_content: ` [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/]`
+│   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/`
+│   │   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full]`
+│   inner_content: ` [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full]`
+│   │   inner_content: `https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full`
+│   │   url: `https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full`
+│   │   │   inner_content: `https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs]`
+│   inner_content: ` [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs]`
+│   │   inner_content: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`
+│   │   url: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`
+│   │   │   inner_content: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/]`
+│   inner_content: ` [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/]`
+│   │   inner_content: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   │   url: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`
+│   │   │   inner_content: `https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/]`
+│   inner_content: ` [https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/]`
+│   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/`
+│   │   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf]`
+│   inner_content: ` [https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf]`
+│   │   inner_content: `https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf`
+│   │   url: `https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf`
+│   │   │   inner_content: `https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml]`
+│   inner_content: ` [https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml]`
+│   │   inner_content: `https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml`
+│   │   url: `https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml`
+│   │   │   inner_content: `https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/]`
+│   inner_content: ` [https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/]`
+│   │   inner_content: `https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/`
+│   │   url: `https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/`
+│   │   │   inner_content: `https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs]`
+│   inner_content: ` [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs]`
+│   │   inner_content: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`
+│   │   url: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`
+│   │   │   inner_content: `https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/]`
+│   inner_content: ` [https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/]`
+│   │   inner_content: `https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/`
+│   │   url: `https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/`
+│   │   │   inner_content: `https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health]`
+│   inner_content: ` [https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health]`
+│   │   inner_content: `https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health`
+│   │   url: `https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health`
+│   │   │   inner_content: `https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/]`
+│   inner_content: ` [https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/]`
+│   │   inner_content: `https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/`
+│   │   url: `https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/`
+│   │   │   inner_content: `https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health]`
+│   inner_content: ` [https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health]`
+│   │   inner_content: `https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health`
+│   │   url: `https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health`
+│   │   │   inner_content: `https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/]`
+│   inner_content: ` [https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/]`
+│   │   inner_content: `https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/`
+│   │   url: `https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/`
+│   │   │   inner_content: `https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://eclinpath.com/chemistry/minerals/vitamin-d/]`
+│   inner_content: ` [https://eclinpath.com/chemistry/minerals/vitamin-d/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://eclinpath.com/chemistry/minerals/vitamin-d/]`
+│   │   inner_content: `https://eclinpath.com/chemistry/minerals/vitamin-d/`
+│   │   url: `https://eclinpath.com/chemistry/minerals/vitamin-d/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://eclinpath.com/chemistry/minerals/vitamin-d/`
+│   │   │   inner_content: `https://eclinpath.com/chemistry/minerals/vitamin-d/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.healthspan.co.uk/multivitality-for-dogs/]`
+│   inner_content: ` [https://www.healthspan.co.uk/multivitality-for-dogs/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.healthspan.co.uk/multivitality-for-dogs/]`
+│   │   inner_content: `https://www.healthspan.co.uk/multivitality-for-dogs/`
+│   │   url: `https://www.healthspan.co.uk/multivitality-for-dogs/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.healthspan.co.uk/multivitality-for-dogs/`
+│   │   │   inner_content: `https://www.healthspan.co.uk/multivitality-for-dogs/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/]`
+│   inner_content: ` [https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/]`
+│   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/`
+│   │   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://wagwalking.com/condition/vitamin-d-poisoning]`
+│   inner_content: ` [https://wagwalking.com/condition/vitamin-d-poisoning]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://wagwalking.com/condition/vitamin-d-poisoning]`
+│   │   inner_content: `https://wagwalking.com/condition/vitamin-d-poisoning`
+│   │   url: `https://wagwalking.com/condition/vitamin-d-poisoning`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://wagwalking.com/condition/vitamin-d-poisoning`
+│   │   │   inner_content: `https://wagwalking.com/condition/vitamin-d-poisoning`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.healthspan.co.uk/pet-health/pet-hub/]`
+│   inner_content: ` [https://www.healthspan.co.uk/pet-health/pet-hub/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.healthspan.co.uk/pet-health/pet-hub/]`
+│   │   inner_content: `https://www.healthspan.co.uk/pet-health/pet-hub/`
+│   │   url: `https://www.healthspan.co.uk/pet-health/pet-hub/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.healthspan.co.uk/pet-health/pet-hub/`
+│   │   │   inner_content: `https://www.healthspan.co.uk/pet-health/pet-hub/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/]`
+│   inner_content: ` [https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/]`
+│   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/`
+│   │   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pubmed.ncbi.nlm.nih.gov/28941306/]`
+│   inner_content: ` [https://pubmed.ncbi.nlm.nih.gov/28941306/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pubmed.ncbi.nlm.nih.gov/28941306/]`
+│   │   inner_content: `https://pubmed.ncbi.nlm.nih.gov/28941306/`
+│   │   url: `https://pubmed.ncbi.nlm.nih.gov/28941306/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pubmed.ncbi.nlm.nih.gov/28941306/`
+│   │   │   inner_content: `https://pubmed.ncbi.nlm.nih.gov/28941306/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259]`
+│   inner_content: ` [https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259]`
+│   │   inner_content: `https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259`
+│   │   url: `https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259`
+│   │   │   inner_content: `https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://wholisticmatters.com/vitamin-d-for-dogs/]`
+│   inner_content: ` [https://wholisticmatters.com/vitamin-d-for-dogs/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://wholisticmatters.com/vitamin-d-for-dogs/]`
+│   │   inner_content: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   │   url: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://wholisticmatters.com/vitamin-d-for-dogs/`
+│   │   │   inner_content: `https://wholisticmatters.com/vitamin-d-for-dogs/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/]`
+│   inner_content: ` [https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/]`
+│   │   inner_content: `https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/`
+│   │   url: `https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/`
+│   │   │   inner_content: `https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.mdpi.com/2218-1989/10/12/499]`
+│   inner_content: ` [https://www.mdpi.com/2218-1989/10/12/499]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.mdpi.com/2218-1989/10/12/499]`
+│   │   inner_content: `https://www.mdpi.com/2218-1989/10/12/499`
+│   │   url: `https://www.mdpi.com/2218-1989/10/12/499`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.mdpi.com/2218-1989/10/12/499`
+│   │   │   inner_content: `https://www.mdpi.com/2218-1989/10/12/499`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259]`
+│   inner_content: ` [https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259]`
+│   │   inner_content: `https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259`
+│   │   url: `https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259`
+│   │   │   inner_content: `https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs]`
+│   inner_content: ` [https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs]`
+│   │   inner_content: `https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs`
+│   │   url: `https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs`
+│   │   │   inner_content: `https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pubmed.ncbi.nlm.nih.gov/37671585/]`
+│   inner_content: ` [https://pubmed.ncbi.nlm.nih.gov/37671585/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pubmed.ncbi.nlm.nih.gov/37671585/]`
+│   │   inner_content: `https://pubmed.ncbi.nlm.nih.gov/37671585/`
+│   │   url: `https://pubmed.ncbi.nlm.nih.gov/37671585/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pubmed.ncbi.nlm.nih.gov/37671585/`
+│   │   │   inner_content: `https://pubmed.ncbi.nlm.nih.gov/37671585/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000]`
+│   inner_content: ` [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000]`
+│   │   inner_content: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000`
+│   │   url: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000`
+│   │   │   inner_content: `https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html]`
+│   inner_content: ` [https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html]`
+│   │   inner_content: `https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html`
+│   │   url: `https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html`
+│   │   │   inner_content: `https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://wagwalking.com/wellness/vitamin-d-for-dogs]`
+│   inner_content: ` [https://wagwalking.com/wellness/vitamin-d-for-dogs]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://wagwalking.com/wellness/vitamin-d-for-dogs]`
+│   │   inner_content: `https://wagwalking.com/wellness/vitamin-d-for-dogs`
+│   │   url: `https://wagwalking.com/wellness/vitamin-d-for-dogs`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://wagwalking.com/wellness/vitamin-d-for-dogs`
+│   │   │   inner_content: `https://wagwalking.com/wellness/vitamin-d-for-dogs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.youtube.com/watch?v=-I7L_j0VeQ4]`
+│   inner_content: ` [https://www.youtube.com/watch?v=-I7L_j0VeQ4]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.youtube.com/watch?v=-I7L_j0VeQ4]`
+│   │   inner_content: `https://www.youtube.com/watch?v=-I7L_j0VeQ4`
+│   │   url: `https://www.youtube.com/watch?v=-I7L_j0VeQ4`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.youtube.com/watch?v=-I7L_j0VeQ4`
+│   │   │   inner_content: `https://www.youtube.com/watch?v=-I7L_j0VeQ4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full]`
+│   inner_content: ` [https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full]`
+│   │   inner_content: `https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full`
+│   │   url: `https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full`
+│   │   │   inner_content: `https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support]`
+│   inner_content: ` [https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support]`
+│   │   inner_content: `https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support`
+│   │   url: `https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support`
+│   │   │   inner_content: `https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/]`
+│   inner_content: ` [https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/]`
+│   │   inner_content: `https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/`
+│   │   url: `https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/`
+│   │   │   inner_content: `https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/]`
+│   inner_content: ` [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/]`
+│   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/`
+│   │   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/]`
+│   inner_content: ` [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/]`
+│   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`
+│   │   │   inner_content: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `# [https://www.nature.com/articles/s41598-024-63031-w]`
+│   inner_content: ` [https://www.nature.com/articles/s41598-024-63031-w]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.nature.com/articles/s41598-024-63031-w]`
+│   │   inner_content: `https://www.nature.com/articles/s41598-024-63031-w`
+│   │   url: `https://www.nature.com/articles/s41598-024-63031-w`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://www.nature.com/articles/s41598-024-63031-w`
+│   │   │   inner_content: `https://www.nature.com/articles/s41598-024-63031-w`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D is great for dogs and cats too))`
+│   inner_content: `VitaminDWiki - ((Vitamin D is great for dogs and cats too))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D is great for dogs and cats too))`
+│   │   inner_content: `Vitamin D is great for dogs and cats too`
+│   │   page: `Vitamin D is great for dogs and cats too`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D is great for dogs and cats too`
+│   │   │   inner_content: `Vitamin D is great for dogs and cats too`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Dogs health and perhaps healthspan  may be increased by Vitamin D)) ~/tc~`
+│   inner_content: ` (alias(Dogs health and perhaps healthspan  may be increased by Vitamin D)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Dogs health and perhaps healthspan  may be increased by Vitamin D)) `
+│   │   inner_content: `(alias(Dogs health and perhaps healthspan  may be increased by Vitamin D)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Vitamin D and Canine Lifespan: Current Evidence and Understanding
+__[https://www.perplexity.ai/search/has-vitamin-d-been-found-to-in-xki_X_hLTsWyQeFYlVXJug|Perplexity AI Deep Research April 2025]__
+Based on a comprehensive review of available research, there is currently no direct evidence that vitamin D supplementation specifically increases the lifespan or extends the healthspan of dogs. However, vitamin D plays critical roles in numerous bodily functions that support overall canine health, which may indirectly contribute to quality of life as dogs age.
+!!!!!The Role of Vitamin D in Canine Health
+Vitamin D is an essential micronutrient for dogs that supports multiple physiological functions. Unlike humans, dogs cannot synthesize sufficient vitamin D through skin exposure to sunlight and must obtain it primarily through their diet [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health|1] [https://wholisticmatters.com/vitamin-d-for-dogs/|2]. This fundamental difference in vitamin D metabolism makes dietary intake particularly important for canine health.
+The primary functions of vitamin D in dogs include:
+*Maintenance of calcium and phosphorus homeostasis, supporting bone and muscle growth and function [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]
+*Boosting immune system function to help fight infections and diseases [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]
+*Supporting muscle health and proper function [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4] [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]
+*Potentially helping prevent cognitive decline in older dogs [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]
+*Regulating cell development for healthy tissues and organs [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]
+*Supporting cardiovascular health [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]
+These functions collectively contribute to a dog&#39;s overall wellbeing and potentially their healthspan, even if not directly extending their lifespan.
+!!!!!Forms and Metabolism of Vitamin D in Dogs
+Dogs can utilize two forms of vitamin D: vitamin D2 (ergocalciferol), which is plant-based, and vitamin D3 (cholecalciferol), which is animal-derived [https://wholisticmatters.com/vitamin-d-for-dogs/|2] [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]. When either form enters the body, it is transformed in the liver into a stable metabolite called 25(OH)D (calcifediol), which is used as a marker of overall vitamin D status [https://wholisticmatters.com/vitamin-d-for-dogs/|2].
+A 2017 review described the most significant research findings on vitamin D and dogs as demonstrating associations with reducing disease risk, improving treatments and health outcomes, and functioning as a biomarker for prognoses [https://wholisticmatters.com/vitamin-d-for-dogs/|2], suggesting potential indirect relationships with healthspan.
+!!!!!Vitamin D Status and Disease Outcomes
+Some research suggests a connection between vitamin D status and survival rates in dogs with specific diseases, which may have implications for understanding its role in health maintenance.
+!!!!!Vitamin D and Infectious Disease Survival
+A study examining dogs with blastomycosis (a fungal infection) found that dogs with lower serum 25(OH)D concentrations had significantly higher odds of mortality. Specifically, dogs with baseline serum 25(OH)D concentrations below 180.5 nmol/L had 15 and 30 times greater odds of in-hospital and 30-day mortality, respectively [|PDF] Vitamin-D.pdf - UW Veterinary Care - University of Wisconsin–Madison&quot; href=&quot;https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf&quot;&gt;13. This suggests that vitamin D status may influence resilience to certain diseases.
+However, these findings were specific to survival rates in a particular disease condition rather than overall lifespan extension. The study authors noted that future research is needed to further characterize the role of vitamin D in disease pathogenesis and treatment outcomes [https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf|13].
+!!!!!Optimal Vitamin D Levels for Canine Health
+While there is no consensus on the optimum concentration of vitamin D for dogs, some research suggests a minimum concentration of 100 ng/mL (250 nM) of circulating 25(OH)D to support optimal health [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full|9].
+A 2020 study published in Frontiers in Veterinary Science examined the relationship between dietary vitamin D intake and circulating 25(OH)D levels in adult dogs. The researchers found that dogs fed food with 5,510.9 IU/kg vitamin D or above consistently achieved serum 25(OH)D concentrations exceeding 100 ng/mL [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full|9]. However, it&#39;s important to note that this study focused on establishing adequate vitamin D levels for general health, not specifically for lifespan extension.
+Another study observed that a plasma 25(OH)D level of 100-120 ng/ml might be considered sufficient for dogs based on the minimization of variance of parathyroid hormone and mean C-reactive protein levels at this range [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/|3], suggesting potential anti-inflammatory benefits.
+!!!!!Individualized Response to Vitamin D Supplementation
+Research indicates that the effects of vitamin D supplementation may vary significantly between individual dogs. As noted in one study, &quot;Increased dietary vitamin D supplementation may be beneficial for some dogs but may have no effect or even be detrimental in other dogs&quot; [https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml|14]. This highlights the importance of individualized approaches to vitamin D supplementation rather than a one-size-fits-all recommendation.
+!!!!!Factors that may influence a dog&#39;s response to vitamin D include:
+#Breed differences - Giant breed dogs appear to metabolize vitamin D differently than small breed dogs, with differences in concentrations of vitamin D metabolites [https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/|5]
+#Individual health status and concurrent diseases
+#Age and growth stage
+#Diet composition and nutrient interactions
+!!!!!Ongoing Research on Canine Longevity
+While not specifically focused on vitamin D, it&#39;s worth noting that research on extending canine healthspan is ongoing. For example, the STAY study is currently investigating a drug called LOY-002, designed to extend healthy lifespans in canines by improving metabolic health to delay the onset and reduce the impact of age-associated diseases [https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs|7].
+This clinical trial, which has enrolled 1,000 dogs across 70 veterinary clinics in the US, aims to collect data on the drug&#39;s potential impact on lifespan and quality of life [https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs|7]. Such research may eventually provide insights into various factors, potentially including vitamin D, that influence canine aging and longevity.
+!!!!!Practical Considerations for Dog Owners
+!!!!!Ensuring Adequate Vitamin D
+Dogs need vitamin D to stay strong and healthy, but it must be provided in appropriate amounts. Commercial dog foods typically contain adequate vitamin D to meet daily requirements [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4]. Natural food sources of vitamin D that are safe for dogs include salmon, liver, eggs, yogurt, cheese, fish, beef, and squash [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs|4].
+!!!!!Risks of Deficiency and Toxicity
+Both deficiency and excess of vitamin D can cause health problems in dogs:
+#__Vitamin D deficiency__ may contribute to poor bone health, weakened immune function, and increased susceptibility to certain diseases
+#__Vitamin D toxicity__ is a serious concern and can lead to severe health problems including kidney failure and death [https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what|6] [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs|10]
+Signs of vitamin D toxicity in dogs include vomiting, loss of appetite, increased drinking and urination, excessive drooling, and weight loss [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs|10] [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/|11]. If toxicity is suspected, immediate veterinary attention is crucial.
+The National Research Council, the Association of American Feed Control Officials, and the European Pet Food Industry Federation provide guidelines for vitamin D intake in pet foods, with a safe upper limit of 3,200 IU vitamin D/kg on a dry matter basis [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full|9]. Dog owners should not exceed recommended dosages when providing supplements.
+!!!!!Conclusion
+While vitamin D is undoubtedly essential for canine health and may support various aspects of healthspan through its roles in bone health, immune function, and other physiological processes, current research does not provide direct evidence that vitamin D supplementation extends the lifespan of dogs.
+The relationship between vitamin D and canine health is complex and individualized. Maintaining appropriate vitamin D levels appears to be important for overall health and resilience against certain diseases, which may contribute to a better quality of life as dogs age. However, more research is needed to fully understand the potential role of vitamin D in canine longevity and healthspan.
+For dog owners concerned about their pet&#39;s vitamin D status, consultation with a veterinarian is recommended before starting any supplementation regimen, as both deficiency and toxicity can have serious health consequences. The most prudent approach appears to be ensuring adequate vitamin D through appropriate diet and veterinary-approved supplementation when necessary, rather than pursuing higher doses in hopes of extending lifespan.
+!!!!!!Citations:
+# [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health]
+# [https://wholisticmatters.com/vitamin-d-for-dogs/]
+# [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/]
+# [https://petfriendlybox.com/resource-center/vitamin-d-for-dogs]
+# [https://pmc.ncbi.nlm.nih.gov/articles/PMC7761812/]
+# [https://www.petmd.com/dog/poisons/my-dog-ate-a-vitamin-d-pill-now-what]
+# [https://www.dvm360.com/view/clinical-trial-for-longevity-drug-meets-goal-of-enrolling-1000-dogs]
+# [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/]
+# [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full]
+# [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs]
+# [https://www.dogfoodadvisor.com/uncategorized/vitamin-d-in-dogs-toxicity-deficiency-and-supplements/]
+# [https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120/]
+# [https://uwveterinarycare.wisc.edu/wp-content/uploads/2022/07/Vitamin-D.pdf]
+# [https://avmajournals.avma.org/view/journals/ajvr/82/9/ajvr.82.9.722.xml]
+# [https://www.amcny.org/blog/2021/07/28/vitamin-d-and-pets-what-you-need-to-know/]
+# [https://www.fda.gov/animal-veterinary/animal-health-literacy/vitamin-d-toxicity-dogs]
+# [https://internationalpetfood.com/enhancing-pet-health-and-longevity-the-essential-role-of-advanced-nutritional-additives/]
+# [https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health]
+# [https://franklintnvet.com/vitamin-d-deficiency-princes-journey-to-health/]
+# [https://vetfocus.royalcanin.com/en/scientific/vitamin-d-in-canine-health]
+# [https://lovedog.com/big-dog-story/feeding-your-dog-for-longevity/]
+# [https://eclinpath.com/chemistry/minerals/vitamin-d/]
+# [https://www.healthspan.co.uk/multivitality-for-dogs/]
+# [https://pmc.ncbi.nlm.nih.gov/articles/PMC4895651/]
+# [https://wagwalking.com/condition/vitamin-d-poisoning]
+# [https://www.healthspan.co.uk/pet-health/pet-hub/]
+# [https://pmc.ncbi.nlm.nih.gov/articles/PMC7569877/]
+# [https://pubmed.ncbi.nlm.nih.gov/28941306/]
+# [https://onlinelibrary.wiley.com/doi/10.1111/jpn.13259]
+# [https://wholisticmatters.com/vitamin-d-for-dogs/]
+# [https://www.altpetdoc.com/news-and-articles/vitamin-health-in-your-pet/]
+# [https://www.mdpi.com/2218-1989/10/12/499]
+# [https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpn.13259]
+# [https://www.purina.co.uk/articles/dogs/health/daily-care/vitamin-d-for-dogs]
+# [https://pubmed.ncbi.nlm.nih.gov/37671585/]
+# [https://www.dvm360.com/view/the-importance-of-vitamin-d-in-canine-health/1000]
+# [https://slate.com/technology/2024/03/dog-live-longer-supplement-pill-leap-years-research.html]
+# [https://wagwalking.com/wellness/vitamin-d-for-dogs]
+# [https://www.youtube.com/watch?v=-I7L_j0VeQ4]
+# [https://www.biorxiv.org/content/10.1101/2024.02.26.581616v1.full]
+# [https://www.dvm360.com/view/second-drug-for-canine-healthy-lifespan-extension-receives-fda-support]
+# [https://www.reddit.com/r/longevity/comments/18fcwyu/new_drug_that_could_extend_dogs_lives_gets_closer/]
+# [https://pmc.ncbi.nlm.nih.gov/articles/PMC10784131/]
+# [https://pmc.ncbi.nlm.nih.gov/articles/PMC8057436/]
+# [https://www.nature.com/articles/s41598-024-63031-w]
+---
+!!!!VitaminDWiki - ((Vitamin D is great for dogs and cats too))
+~tc~ (alias(Dogs health and perhaps healthspan  may be increased by Vitamin D)) ~/tc~
+</code>
+</pre>

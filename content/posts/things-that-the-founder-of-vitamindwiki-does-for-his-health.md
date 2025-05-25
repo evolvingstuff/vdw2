@@ -1,0 +1,1399 @@
+---
+title: "Things that the Founder of VitaminDWiki does for his health"
+slug: "things-that-the-founder-of-vitamindwiki-does-for-his-health"
+aliases:
+  - "/Things+that+the+Founder+of+VitaminDWiki+does+for+his+health+-+Sept+2024"
+  - "/15520"
+tiki_page_id: 15520
+date: 2024-09-05
+---
+
+
+{{< toc >}}
+
+---
+
+#### Table
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| What | Dosing | Brand | Type/form | Annual cost<br>approximate  |
+| ((Overview: Omega-3 many benefits include helping vitamin D | Omega-3)) | 10 grams every 7th day<br> **(not taking daily)**  | Coromega | Emulsion* 3X<br>more bio-available | $270 |
+| Vitamin D | 100,000 IU every 4th day | Bio-Tech Pharmacal | water-soluble* | $100 |
+| ((Nanoemulsion Vitamin D is faster and better - many studies | Vitamin D)) | about 100,000 IU each month | Nutrasal | nanoemulsion*<br>((Topical Vitamin D | topical)), ((Inhaled vitamin D help lungs - many studies | inhale)) | $25 |
+| ((Overview Magnesium and vitamin D | Magnesium)) | 300 mg of Mg daily | Pure Original<br>Magnesium Chloride | bulk crystal | $5 |
+| ((Overview Vitamin K and Vitamin D | Vitamin K2)) etc | every 2nd day   | Life Ext. Super K | need to find <br>a water-soluble form |  |
+| [Vitamin C](/categories/vitamin-c) | xx grams |  **brand**  | Lipsomal* |  |
+| ((Boron increases vitamin D in the blood | Boron)) | 30 mg every 4th day | Bio-Boron | cap | $26 |
+| ((Selenium is important to health - many studies | Selenium)) | 200 mcg  every 4th day | Piping Rock | cap | $10 |
+| ((Overview Iron Supplements and Vitamin D | Iron)) | 10 mg  every 7th day | ProFerrin | tablet | $42 |
+| ((Zinc and Vitamin D | Zinc)) | every 7th day |  |
+| Vitamin B100 | every 2nd day | Natures Bounty | tab | $23 |
+| [Vitamin B12](/categories/vitamin-b12) | 2,500 mcg every 7th day | Vitamatic | cap | $2 |
+| [Iodine](/categories/iodine), Potassium | ~1 mg every 7th day | AZ Lab | KI crystal | $1 |
+| Horsetail ( ((Silicon or silica as a vitamin D co-factor | silica)) for bones) | 1 capsule every 2nd day |  |
+| - - Improve Vitamin D genes - - - - - - |
+| ((Glutathione and Vitamin D synergism - many studies | Glutathion)) | 2.4 gram daily | Prunucis | Liposomal* | $100 |
+| ((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies | Berberine)) | Satalix | cap | ?? |
+| ((Resveratrol improves health (Vitamin D receptor, etc.) - many studies | Resveratrol)) |  |
+| ((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies | Quercetin)) | every 4th day |
+| ((Curcumin helps many health problems | Curcumin)) | 2 gram every 4th day | Sveikatai | liposomal* | $30 |
+| - - - - -  Non-supplement - - - - - - |
+| Healthy food | Organic, low ((Omega-6 blocks Omega-3 etc. -many studies | Omega-6)) <br>minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies | ulraprocessed))  |  |  | $700 |
+| Feldenkrais<br>somewhat like Yoga | 1 hr/week class<br>1 hr/week homework)) | [Jeff Haller](https://feldenkraisfirst.com/about) | Zoom class | $400 <br>100 hours |
+| Exercise | 3 hours/week | bike, trike,<br>exercycle, Bowflex |  | $300 <br>150 hours |
+| ((Intense exercise increases vitamin D receptor activation | Intense exercise))  | 10 minutes/week |
+| Clean water | 5 daily  | Zero | pitcher | $30 |
+
+ **Non-daily dosing assumes that the body has evolved to store most nutrients (Exception: Magnesium, Vitamin C)** 
+
+__<span style="color:#F06;">✻</span> Much more bio-available if no fatty meal: emulsions, Liposomal, water soluble...
+
+---
+
+#### <a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health</a> contains:
+
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Table
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| What | Dosing | Brand | Type/form | Annual cost&lt;br&gt;approximate  |
+| ((Overview: Omega-3 many benefits include helping vitamin D | Omega-3)) | 10 grams every 7th day&lt;br&gt; **(not taking daily)**  | Coromega | Emulsion* 3X&lt;br&gt;more bio-available | $270 |
+| Vitamin D | 100,000 IU every 4th day | Bio-Tech Pharmacal | water-soluble* | $100 |
+| ((Nanoemulsion Vitamin D is faster and better - many studies | Vitamin D)) | about 100,000 IU each month | Nutrasal | nanoemulsion*&lt;br&gt;((Topical Vitamin D | topical)), ((Inhaled vitamin D help lungs - many studies | inhale)) | $25 |
+| ((Overview Magnesium and vitamin D | Magnesium)) | 300 mg of Mg daily | Pure Original&lt;br&gt;Magnesium Chloride | bulk crystal | $5 |
+| ((Overview Vitamin K and Vitamin D | Vitamin K2)) etc | every 2nd day   | Life Ext. Super K | need to find &lt;br&gt;a water-soluble form |  |
+| [Vitamin C](/categories/vitamin-c) | xx grams |  **brand**  | Lipsomal* |  |
+| ((Boron increases vitamin D in the blood | Boron)) | 30 mg every 4th day | Bio-Boron | cap | $26 |
+| ((Selenium is important to health - many studies | Selenium)) | 200 mcg  every 4th day | Piping Rock | cap | $10 |
+| ((Overview Iron Supplements and Vitamin D | Iron)) | 10 mg  every 7th day | ProFerrin | tablet | $42 |
+| ((Zinc and Vitamin D | Zinc)) | every 7th day |  |
+| Vitamin B100 | every 2nd day | Natures Bounty | tab | $23 |
+| [Vitamin B12](/categories/vitamin-b12) | 2,500 mcg every 7th day | Vitamatic | cap | $2 |
+| [Iodine](/categories/iodine), Potassium | ~1 mg every 7th day | AZ Lab | KI crystal | $1 |
+| Horsetail ( ((Silicon or silica as a vitamin D co-factor | silica)) for bones) | 1 capsule every 2nd day |  |
+| - - Improve Vitamin D genes - - - - - - |
+| ((Glutathione and Vitamin D synergism - many studies | Glutathion)) | 2.4 gram daily | Prunucis | Liposomal* | $100 |
+| ((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies | Berberine)) | Satalix | cap | ?? |
+| ((Resveratrol improves health (Vitamin D receptor, etc.) - many studies | Resveratrol)) |  |
+| ((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies | Quercetin)) | every 4th day |
+| ((Curcumin helps many health problems | Curcumin)) | 2 gram every 4th day | Sveikatai | liposomal* | $30 |
+| - - - - -  Non-supplement - - - - - - |
+| Healthy food | Organic, low ((Omega-6 blocks Omega-3 etc. -many studies | Omega-6)) &lt;br&gt;minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies | ulraprocessed))  |  |  | $700 |
+| Feldenkrais&lt;br&gt;somewhat like Yoga | 1 hr/week class&lt;br&gt;1 hr/week homework)) | [Jeff Haller](https://feldenkraisfirst.com/about) | Zoom class | $400 &lt;br&gt;100 hours |
+| Exercise | 3 hours/week | bike, trike,&lt;br&gt;exercycle, Bowflex |  | $300 &lt;br&gt;150 hours |
+| ((Intense exercise increases vitamin D receptor activation | Intense exercise))  | 10 minutes/week |
+| Clean water | 5 daily  | Zero | pitcher | $30 |
+
+ **Non-daily dosing assumes that the body has evolved to store most nutrients (Exception: Magnesium, Vitamin C)** 
+
+__&lt;span style=&quot;color:#F06;&quot;&gt;✻&lt;/span&gt; Much more bio-available if no fatty meal: emulsions, Liposomal, water soluble...
+
+---
+
+#### &lt;a href=&quot;/posts/ways-to-improve-health&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ways to improve health&quot;&gt;Ways to improve health&lt;/a&gt; contains:
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Table`
+│   inner_content: `Table`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Table`
+│   │   inner_content: `Table`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||What|Dosing|Brand|Type/form|Annual cost%%%approximate \n((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))| 10 grams every 7th day%%%__(not taking daily)__|Coromega|Emulsion* 3X%%%more bio-available|$270\nVitamin D| 100,000 IU every 4th day|Bio-Tech Pharmacal|water-soluble*|$100\n((Nanoemulsion Vitamin D is faster and better - many studies|Vitamin D))| about 100,000 IU each month|Nutrasal|nanoemulsion*%%%((Topical Vitamin D|topical)), ((Inhaled vitamin D help lungs - many studies|inhale))| $25\n((Overview Magnesium and vitamin D|Magnesium))| 300 mg of Mg daily|Pure Original%%%Magnesium Chloride|bulk crystal| $5\n((Overview Vitamin K and Vitamin D|Vitamin K2)) etc| every 2nd day  |Life Ext. Super K|need to find %%%a water-soluble form|\n((Vitamin C))|  xx grams|__brand__|Lipsomal*|\n((Boron increases vitamin D in the blood|Boron))| 30 mg every 4th day|Bio-Boron|cap|$26\n((Selenium is important to health - many studies|Selenium))|200 mcg  every 4th day|Piping Rock|cap|$10\n((Overview Iron Supplements and Vitamin D|Iron))|10 mg  every 7th day|ProFerrin|tablet|$42\n((Zinc and Vitamin D|Zinc))|  every 7th day|\nVitamin B100|every 2nd day|Natures Bounty|tab| $23\n((Vitamin B12))|2,500 mcg every 7th day|Vitamatic|cap|$2\n((Iodine)), Potassium| ~1 mg every 7th day|AZ Lab| KI crystal| $1\nHorsetail ( ((Silicon or silica as a vitamin D co-factor|silica)) for bones)| 1 capsule every 2nd day| \n- - Improve Vitamin D genes - - - - - -\n((Glutathione and Vitamin D synergism - many studies|Glutathion))|2.4 gram daily|Prunucis|Liposomal*|$100\n((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies|Berberine))|Satalix|cap| ??\n((Resveratrol improves health (Vitamin D receptor, etc.) - many studies|Resveratrol))|\n((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies|Quercetin))| every 4th day\n((Curcumin helps many health problems|Curcumin))|2 gram every 4th day|Sveikatai|liposomal*|$30\n- - - - -  Non-supplement - - - - - -\nHealthy food|Organic, low ((Omega-6 blocks Omega-3 etc. -many studies|Omega-6)) %%%minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies|ulraprocessed)) | | |$700\nFeldenkrais%%%somewhat like Yoga|1 hr/week class%%%1 hr/week homework))| [https://feldenkraisfirst.com/about|Jeff Haller]| Zoom class| $400 %%%100 hours\nExercise|3 hours/week|bike, trike,%%%exercycle, Bowflex| |$300 %%%150 hours\n((Intense exercise increases vitamin D receptor activation|Intense exercise)) | 10 minutes/week\nClean water|5 daily |Zero|pitcher|$30||`
+│   inner_content: `What|Dosing|Brand|Type/form|Annual cost%%%approximate \n((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))| 10 grams every 7th day%%%__(not taking daily)__|Coromega|Emulsion* 3X%%%more bio-available|$270\nVitamin D| 100,000 IU every 4th day|Bio-Tech Pharmacal|water-soluble*|$100\n((Nanoemulsion Vitamin D is faster and better - many studies|Vitamin D))| about 100,000 IU each month|Nutrasal|nanoemulsion*%%%((Topical Vitamin D|topical)), ((Inhaled vitamin D help lungs - many studies|inhale))| $25\n((Overview Magnesium and vitamin D|Magnesium))| 300 mg of Mg daily|Pure Original%%%Magnesium Chloride|bulk crystal| $5\n((Overview Vitamin K and Vitamin D|Vitamin K2)) etc| every 2nd day  |Life Ext. Super K|need to find %%%a water-soluble form|\n((Vitamin C))|  xx grams|__brand__|Lipsomal*|\n((Boron increases vitamin D in the blood|Boron))| 30 mg every 4th day|Bio-Boron|cap|$26\n((Selenium is important to health - many studies|Selenium))|200 mcg  every 4th day|Piping Rock|cap|$10\n((Overview Iron Supplements and Vitamin D|Iron))|10 mg  every 7th day|ProFerrin|tablet|$42\n((Zinc and Vitamin D|Zinc))|  every 7th day|\nVitamin B100|every 2nd day|Natures Bounty|tab| $23\n((Vitamin B12))|2,500 mcg every 7th day|Vitamatic|cap|$2\n((Iodine)), Potassium| ~1 mg every 7th day|AZ Lab| KI crystal| $1\nHorsetail ( ((Silicon or silica as a vitamin D co-factor|silica)) for bones)| 1 capsule every 2nd day| \n- - Improve Vitamin D genes - - - - - -\n((Glutathione and Vitamin D synergism - many studies|Glutathion))|2.4 gram daily|Prunucis|Liposomal*|$100\n((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies|Berberine))|Satalix|cap| ??\n((Resveratrol improves health (Vitamin D receptor, etc.) - many studies|Resveratrol))|\n((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies|Quercetin))| every 4th day\n((Curcumin helps many health problems|Curcumin))|2 gram every 4th day|Sveikatai|liposomal*|$30\n- - - - -  Non-supplement - - - - - -\nHealthy food|Organic, low ((Omega-6 blocks Omega-3 etc. -many studies|Omega-6)) %%%minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies|ulraprocessed)) | | |$700\nFeldenkrais%%%somewhat like Yoga|1 hr/week class%%%1 hr/week homework))| [https://feldenkraisfirst.com/about|Jeff Haller]| Zoom class| $400 %%%100 hours\nExercise|3 hours/week|bike, trike,%%%exercycle, Bowflex| |$300 %%%150 hours\n((Intense exercise increases vitamin D receptor activation|Intense exercise)) | 10 minutes/week\nClean water|5 daily |Zero|pitcher|$30`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `What|Dosing|Brand|Type/form|Annual cost%%%approximate `
+│   │   inner_content: `What|Dosing|Brand|Type/form|Annual cost%%%approximate `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `What`
+│   │   │   inner_content: `What`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `What`
+│   │   │   │   inner_content: `What`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Dosing`
+│   │   │   inner_content: `Dosing`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Dosing`
+│   │   │   │   inner_content: `Dosing`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Brand`
+│   │   │   inner_content: `Brand`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Brand`
+│   │   │   │   inner_content: `Brand`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Type/form`
+│   │   │   inner_content: `Type/form`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Type/form`
+│   │   │   │   inner_content: `Type/form`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Annual cost%%%approximate `
+│   │   │   inner_content: `Annual cost%%%approximate `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Annual cost`
+│   │   │   │   inner_content: `Annual cost`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `approximate `
+│   │   │   │   inner_content: `approximate `
+│   ├── TableRowNode
+│   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))| 10 grams every 7th day%%%__(not taking daily)__|Coromega|Emulsion* 3X%%%more bio-available|$270`
+│   │   inner_content: `((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))| 10 grams every 7th day%%%__(not taking daily)__|Coromega|Emulsion* 3X%%%more bio-available|$270`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D`
+│   │   │   inner_content: `((Overview: Omega-3 many benefits include helping vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D`
+│   │   │   │   inner_content: `((Overview: Omega-3 many benefits include helping vitamin D`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Omega-3))`
+│   │   │   inner_content: `Omega-3))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Omega-3))`
+│   │   │   │   inner_content: `Omega-3))`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 10 grams every 7th day%%%__(not taking daily)__`
+│   │   │   inner_content: ` 10 grams every 7th day%%%__(not taking daily)__`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `10 grams every 7th day`
+│   │   │   │   inner_content: `10 grams every 7th day`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__(not taking daily)__`
+│   │   │   │   inner_content: `(not taking daily)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `(not taking daily)`
+│   │   │   │   │   inner_content: `(not taking daily)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Coromega`
+│   │   │   inner_content: `Coromega`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Coromega`
+│   │   │   │   inner_content: `Coromega`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Emulsion* 3X%%%more bio-available`
+│   │   │   inner_content: `Emulsion* 3X%%%more bio-available`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Emulsion* 3X`
+│   │   │   │   inner_content: `Emulsion* 3X`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `more bio-available`
+│   │   │   │   inner_content: `more bio-available`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$270`
+│   │   │   inner_content: `$270`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$270`
+│   │   │   │   inner_content: `$270`
+│   ├── TableRowNode
+│   │   full_match: `Vitamin D| 100,000 IU every 4th day|Bio-Tech Pharmacal|water-soluble*|$100`
+│   │   inner_content: `Vitamin D| 100,000 IU every 4th day|Bio-Tech Pharmacal|water-soluble*|$100`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Vitamin D`
+│   │   │   inner_content: `Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Vitamin D`
+│   │   │   │   inner_content: `Vitamin D`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 100,000 IU every 4th day`
+│   │   │   inner_content: ` 100,000 IU every 4th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `100,000 IU every 4th day`
+│   │   │   │   inner_content: `100,000 IU every 4th day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Bio-Tech Pharmacal`
+│   │   │   inner_content: `Bio-Tech Pharmacal`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Bio-Tech Pharmacal`
+│   │   │   │   inner_content: `Bio-Tech Pharmacal`
+│   │   ├── TableCellNode
+│   │   │   full_match: `water-soluble*`
+│   │   │   inner_content: `water-soluble*`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `water-soluble*`
+│   │   │   │   inner_content: `water-soluble*`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$100`
+│   │   │   inner_content: `$100`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$100`
+│   │   │   │   inner_content: `$100`
+│   ├── TableRowNode
+│   │   full_match: `((Nanoemulsion Vitamin D is faster and better - many studies|Vitamin D))| about 100,000 IU each month|Nutrasal|nanoemulsion*%%%((Topical Vitamin D|topical)), ((Inhaled vitamin D help lungs - many studies|inhale))| $25`
+│   │   inner_content: `((Nanoemulsion Vitamin D is faster and better - many studies|Vitamin D))| about 100,000 IU each month|Nutrasal|nanoemulsion*%%%((Topical Vitamin D|topical)), ((Inhaled vitamin D help lungs - many studies|inhale))| $25`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Nanoemulsion Vitamin D is faster and better - many studies`
+│   │   │   inner_content: `((Nanoemulsion Vitamin D is faster and better - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Nanoemulsion Vitamin D is faster and better - many studies`
+│   │   │   │   inner_content: `((Nanoemulsion Vitamin D is faster and better - many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Vitamin D))`
+│   │   │   inner_content: `Vitamin D))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Vitamin D))`
+│   │   │   │   inner_content: `Vitamin D))`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` about 100,000 IU each month`
+│   │   │   inner_content: ` about 100,000 IU each month`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `about 100,000 IU each month`
+│   │   │   │   inner_content: `about 100,000 IU each month`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Nutrasal`
+│   │   │   inner_content: `Nutrasal`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Nutrasal`
+│   │   │   │   inner_content: `Nutrasal`
+│   │   ├── TableCellNode
+│   │   │   full_match: `nanoemulsion*%%%((Topical Vitamin D`
+│   │   │   inner_content: `nanoemulsion*%%%((Topical Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `nanoemulsion*`
+│   │   │   │   inner_content: `nanoemulsion*`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Topical Vitamin D`
+│   │   │   │   inner_content: `((Topical Vitamin D`
+│   │   ├── TableCellNode
+│   │   │   full_match: `topical)), ((Inhaled vitamin D help lungs - many studies`
+│   │   │   inner_content: `topical)), ((Inhaled vitamin D help lungs - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `topical)), ((Inhaled vitamin D help lungs - many studies`
+│   │   │   │   inner_content: `topical)), ((Inhaled vitamin D help lungs - many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `inhale))`
+│   │   │   inner_content: `inhale))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `inhale))`
+│   │   │   │   inner_content: `inhale))`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` $25`
+│   │   │   inner_content: ` $25`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$25`
+│   │   │   │   inner_content: `$25`
+│   ├── TableRowNode
+│   │   full_match: `((Overview Magnesium and vitamin D|Magnesium))| 300 mg of Mg daily|Pure Original%%%Magnesium Chloride|bulk crystal| $5`
+│   │   inner_content: `((Overview Magnesium and vitamin D|Magnesium))| 300 mg of Mg daily|Pure Original%%%Magnesium Chloride|bulk crystal| $5`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Overview Magnesium and vitamin D`
+│   │   │   inner_content: `((Overview Magnesium and vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Overview Magnesium and vitamin D`
+│   │   │   │   inner_content: `((Overview Magnesium and vitamin D`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Magnesium))`
+│   │   │   inner_content: `Magnesium))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Magnesium))`
+│   │   │   │   inner_content: `Magnesium))`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 300 mg of Mg daily`
+│   │   │   inner_content: ` 300 mg of Mg daily`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `300 mg of Mg daily`
+│   │   │   │   inner_content: `300 mg of Mg daily`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Pure Original%%%Magnesium Chloride`
+│   │   │   inner_content: `Pure Original%%%Magnesium Chloride`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Pure Original`
+│   │   │   │   inner_content: `Pure Original`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Magnesium Chloride`
+│   │   │   │   inner_content: `Magnesium Chloride`
+│   │   ├── TableCellNode
+│   │   │   full_match: `bulk crystal`
+│   │   │   inner_content: `bulk crystal`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `bulk crystal`
+│   │   │   │   inner_content: `bulk crystal`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` $5`
+│   │   │   inner_content: ` $5`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$5`
+│   │   │   │   inner_content: `$5`
+│   ├── TableRowNode
+│   │   full_match: `((Overview Vitamin K and Vitamin D|Vitamin K2)) etc| every 2nd day  |Life Ext. Super K|need to find %%%a water-soluble form|`
+│   │   inner_content: `((Overview Vitamin K and Vitamin D|Vitamin K2)) etc| every 2nd day  |Life Ext. Super K|need to find %%%a water-soluble form|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Overview Vitamin K and Vitamin D`
+│   │   │   inner_content: `((Overview Vitamin K and Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Overview Vitamin K and Vitamin D`
+│   │   │   │   inner_content: `((Overview Vitamin K and Vitamin D`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Vitamin K2)) etc`
+│   │   │   inner_content: `Vitamin K2)) etc`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Vitamin K2)) etc`
+│   │   │   │   inner_content: `Vitamin K2)) etc`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` every 2nd day  `
+│   │   │   inner_content: ` every 2nd day  `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `every 2nd day  `
+│   │   │   │   inner_content: `every 2nd day  `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Life Ext. Super K`
+│   │   │   inner_content: `Life Ext. Super K`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Life Ext. Super K`
+│   │   │   │   inner_content: `Life Ext. Super K`
+│   │   ├── TableCellNode
+│   │   │   full_match: `need to find %%%a water-soluble form`
+│   │   │   inner_content: `need to find %%%a water-soluble form`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `need to find `
+│   │   │   │   inner_content: `need to find `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `a water-soluble form`
+│   │   │   │   inner_content: `a water-soluble form`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `((Vitamin C))|  xx grams|__brand__|Lipsomal*|`
+│   │   inner_content: `((Vitamin C))|  xx grams|__brand__|Lipsomal*|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Vitamin C))`
+│   │   │   inner_content: `((Vitamin C))`
+│   │   │   children:
+│   │   │   ├── LocalLinkNode
+│   │   │   │   full_match: `((Vitamin C))`
+│   │   │   │   inner_content: `Vitamin C`
+│   │   │   │   page: `Vitamin C`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Vitamin C`
+│   │   │   │   │   inner_content: `Vitamin C`
+│   │   ├── TableCellNode
+│   │   │   full_match: `  xx grams`
+│   │   │   inner_content: `  xx grams`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `xx grams`
+│   │   │   │   inner_content: `xx grams`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__brand__`
+│   │   │   inner_content: `__brand__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__brand__`
+│   │   │   │   inner_content: `brand`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `brand`
+│   │   │   │   │   inner_content: `brand`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Lipsomal*`
+│   │   │   inner_content: `Lipsomal*`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Lipsomal*`
+│   │   │   │   inner_content: `Lipsomal*`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `((Boron increases vitamin D in the blood|Boron))| 30 mg every 4th day|Bio-Boron|cap|$26`
+│   │   inner_content: `((Boron increases vitamin D in the blood|Boron))| 30 mg every 4th day|Bio-Boron|cap|$26`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Boron increases vitamin D in the blood`
+│   │   │   inner_content: `((Boron increases vitamin D in the blood`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Boron increases vitamin D in the blood`
+│   │   │   │   inner_content: `((Boron increases vitamin D in the blood`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Boron))`
+│   │   │   inner_content: `Boron))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Boron))`
+│   │   │   │   inner_content: `Boron))`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 30 mg every 4th day`
+│   │   │   inner_content: ` 30 mg every 4th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `30 mg every 4th day`
+│   │   │   │   inner_content: `30 mg every 4th day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Bio-Boron`
+│   │   │   inner_content: `Bio-Boron`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Bio-Boron`
+│   │   │   │   inner_content: `Bio-Boron`
+│   │   ├── TableCellNode
+│   │   │   full_match: `cap`
+│   │   │   inner_content: `cap`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `cap`
+│   │   │   │   inner_content: `cap`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$26`
+│   │   │   inner_content: `$26`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$26`
+│   │   │   │   inner_content: `$26`
+│   ├── TableRowNode
+│   │   full_match: `((Selenium is important to health - many studies|Selenium))|200 mcg  every 4th day|Piping Rock|cap|$10`
+│   │   inner_content: `((Selenium is important to health - many studies|Selenium))|200 mcg  every 4th day|Piping Rock|cap|$10`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Selenium is important to health - many studies`
+│   │   │   inner_content: `((Selenium is important to health - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Selenium is important to health - many studies`
+│   │   │   │   inner_content: `((Selenium is important to health - many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Selenium))`
+│   │   │   inner_content: `Selenium))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Selenium))`
+│   │   │   │   inner_content: `Selenium))`
+│   │   ├── TableCellNode
+│   │   │   full_match: `200 mcg  every 4th day`
+│   │   │   inner_content: `200 mcg  every 4th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `200 mcg  every 4th day`
+│   │   │   │   inner_content: `200 mcg  every 4th day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Piping Rock`
+│   │   │   inner_content: `Piping Rock`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Piping Rock`
+│   │   │   │   inner_content: `Piping Rock`
+│   │   ├── TableCellNode
+│   │   │   full_match: `cap`
+│   │   │   inner_content: `cap`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `cap`
+│   │   │   │   inner_content: `cap`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$10`
+│   │   │   inner_content: `$10`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$10`
+│   │   │   │   inner_content: `$10`
+│   ├── TableRowNode
+│   │   full_match: `((Overview Iron Supplements and Vitamin D|Iron))|10 mg  every 7th day|ProFerrin|tablet|$42`
+│   │   inner_content: `((Overview Iron Supplements and Vitamin D|Iron))|10 mg  every 7th day|ProFerrin|tablet|$42`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Overview Iron Supplements and Vitamin D`
+│   │   │   inner_content: `((Overview Iron Supplements and Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Overview Iron Supplements and Vitamin D`
+│   │   │   │   inner_content: `((Overview Iron Supplements and Vitamin D`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Iron))`
+│   │   │   inner_content: `Iron))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Iron))`
+│   │   │   │   inner_content: `Iron))`
+│   │   ├── TableCellNode
+│   │   │   full_match: `10 mg  every 7th day`
+│   │   │   inner_content: `10 mg  every 7th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `10 mg  every 7th day`
+│   │   │   │   inner_content: `10 mg  every 7th day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `ProFerrin`
+│   │   │   inner_content: `ProFerrin`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `ProFerrin`
+│   │   │   │   inner_content: `ProFerrin`
+│   │   ├── TableCellNode
+│   │   │   full_match: `tablet`
+│   │   │   inner_content: `tablet`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `tablet`
+│   │   │   │   inner_content: `tablet`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$42`
+│   │   │   inner_content: `$42`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$42`
+│   │   │   │   inner_content: `$42`
+│   ├── TableRowNode
+│   │   full_match: `((Zinc and Vitamin D|Zinc))|  every 7th day|`
+│   │   inner_content: `((Zinc and Vitamin D|Zinc))|  every 7th day|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Zinc and Vitamin D`
+│   │   │   inner_content: `((Zinc and Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Zinc and Vitamin D`
+│   │   │   │   inner_content: `((Zinc and Vitamin D`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Zinc))`
+│   │   │   inner_content: `Zinc))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Zinc))`
+│   │   │   │   inner_content: `Zinc))`
+│   │   ├── TableCellNode
+│   │   │   full_match: `  every 7th day`
+│   │   │   inner_content: `  every 7th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `every 7th day`
+│   │   │   │   inner_content: `every 7th day`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `Vitamin B100|every 2nd day|Natures Bounty|tab| $23`
+│   │   inner_content: `Vitamin B100|every 2nd day|Natures Bounty|tab| $23`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Vitamin B100`
+│   │   │   inner_content: `Vitamin B100`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Vitamin B100`
+│   │   │   │   inner_content: `Vitamin B100`
+│   │   ├── TableCellNode
+│   │   │   full_match: `every 2nd day`
+│   │   │   inner_content: `every 2nd day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `every 2nd day`
+│   │   │   │   inner_content: `every 2nd day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Natures Bounty`
+│   │   │   inner_content: `Natures Bounty`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Natures Bounty`
+│   │   │   │   inner_content: `Natures Bounty`
+│   │   ├── TableCellNode
+│   │   │   full_match: `tab`
+│   │   │   inner_content: `tab`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `tab`
+│   │   │   │   inner_content: `tab`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` $23`
+│   │   │   inner_content: ` $23`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$23`
+│   │   │   │   inner_content: `$23`
+│   ├── TableRowNode
+│   │   full_match: `((Vitamin B12))|2,500 mcg every 7th day|Vitamatic|cap|$2`
+│   │   inner_content: `((Vitamin B12))|2,500 mcg every 7th day|Vitamatic|cap|$2`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Vitamin B12))`
+│   │   │   inner_content: `((Vitamin B12))`
+│   │   │   children:
+│   │   │   ├── LocalLinkNode
+│   │   │   │   full_match: `((Vitamin B12))`
+│   │   │   │   inner_content: `Vitamin B12`
+│   │   │   │   page: `Vitamin B12`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Vitamin B12`
+│   │   │   │   │   inner_content: `Vitamin B12`
+│   │   ├── TableCellNode
+│   │   │   full_match: `2,500 mcg every 7th day`
+│   │   │   inner_content: `2,500 mcg every 7th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2,500 mcg every 7th day`
+│   │   │   │   inner_content: `2,500 mcg every 7th day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Vitamatic`
+│   │   │   inner_content: `Vitamatic`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Vitamatic`
+│   │   │   │   inner_content: `Vitamatic`
+│   │   ├── TableCellNode
+│   │   │   full_match: `cap`
+│   │   │   inner_content: `cap`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `cap`
+│   │   │   │   inner_content: `cap`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$2`
+│   │   │   inner_content: `$2`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$2`
+│   │   │   │   inner_content: `$2`
+│   ├── TableRowNode
+│   │   full_match: `((Iodine)), Potassium| ~1 mg every 7th day|AZ Lab| KI crystal| $1`
+│   │   inner_content: `((Iodine)), Potassium| ~1 mg every 7th day|AZ Lab| KI crystal| $1`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Iodine)), Potassium`
+│   │   │   inner_content: `((Iodine)), Potassium`
+│   │   │   children:
+│   │   │   ├── LocalLinkNode
+│   │   │   │   full_match: `((Iodine))`
+│   │   │   │   inner_content: `Iodine`
+│   │   │   │   page: `Iodine`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Iodine`
+│   │   │   │   │   inner_content: `Iodine`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `, Potassium`
+│   │   │   │   inner_content: `, Potassium`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` ~1 mg every 7th day`
+│   │   │   inner_content: ` ~1 mg every 7th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `~1 mg every 7th day`
+│   │   │   │   inner_content: `~1 mg every 7th day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `AZ Lab`
+│   │   │   inner_content: `AZ Lab`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AZ Lab`
+│   │   │   │   inner_content: `AZ Lab`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` KI crystal`
+│   │   │   inner_content: ` KI crystal`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `KI crystal`
+│   │   │   │   inner_content: `KI crystal`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` $1`
+│   │   │   inner_content: ` $1`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$1`
+│   │   │   │   inner_content: `$1`
+│   ├── TableRowNode
+│   │   full_match: `Horsetail ( ((Silicon or silica as a vitamin D co-factor|silica)) for bones)| 1 capsule every 2nd day| `
+│   │   inner_content: `Horsetail ( ((Silicon or silica as a vitamin D co-factor|silica)) for bones)| 1 capsule every 2nd day| `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Horsetail ( ((Silicon or silica as a vitamin D co-factor`
+│   │   │   inner_content: `Horsetail ( ((Silicon or silica as a vitamin D co-factor`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Horsetail ( ((Silicon or silica as a vitamin D co-factor`
+│   │   │   │   inner_content: `Horsetail ( ((Silicon or silica as a vitamin D co-factor`
+│   │   ├── TableCellNode
+│   │   │   full_match: `silica)) for bones)`
+│   │   │   inner_content: `silica)) for bones)`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `silica)) for bones)`
+│   │   │   │   inner_content: `silica)) for bones)`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 1 capsule every 2nd day`
+│   │   │   inner_content: ` 1 capsule every 2nd day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1 capsule every 2nd day`
+│   │   │   │   inner_content: `1 capsule every 2nd day`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   ├── TableRowNode
+│   │   full_match: `- - Improve Vitamin D genes - - - - - -`
+│   │   inner_content: `- - Improve Vitamin D genes - - - - - -`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `- - Improve Vitamin D genes - - - - - -`
+│   │   │   inner_content: `- - Improve Vitamin D genes - - - - - -`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `- - Improve Vitamin D genes - - - - - -`
+│   │   │   │   inner_content: `- - Improve Vitamin D genes - - - - - -`
+│   ├── TableRowNode
+│   │   full_match: `((Glutathione and Vitamin D synergism - many studies|Glutathion))|2.4 gram daily|Prunucis|Liposomal*|$100`
+│   │   inner_content: `((Glutathione and Vitamin D synergism - many studies|Glutathion))|2.4 gram daily|Prunucis|Liposomal*|$100`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Glutathione and Vitamin D synergism - many studies`
+│   │   │   inner_content: `((Glutathione and Vitamin D synergism - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Glutathione and Vitamin D synergism - many studies`
+│   │   │   │   inner_content: `((Glutathione and Vitamin D synergism - many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Glutathion))`
+│   │   │   inner_content: `Glutathion))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Glutathion))`
+│   │   │   │   inner_content: `Glutathion))`
+│   │   ├── TableCellNode
+│   │   │   full_match: `2.4 gram daily`
+│   │   │   inner_content: `2.4 gram daily`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2.4 gram daily`
+│   │   │   │   inner_content: `2.4 gram daily`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Prunucis`
+│   │   │   inner_content: `Prunucis`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Prunucis`
+│   │   │   │   inner_content: `Prunucis`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Liposomal*`
+│   │   │   inner_content: `Liposomal*`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Liposomal*`
+│   │   │   │   inner_content: `Liposomal*`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$100`
+│   │   │   inner_content: `$100`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$100`
+│   │   │   │   inner_content: `$100`
+│   ├── TableRowNode
+│   │   full_match: `((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies|Berberine))|Satalix|cap| ??`
+│   │   inner_content: `((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies|Berberine))|Satalix|cap| ??`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies`
+│   │   │   inner_content: `((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies`
+│   │   │   │   inner_content: `((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Berberine))`
+│   │   │   inner_content: `Berberine))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Berberine))`
+│   │   │   │   inner_content: `Berberine))`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Satalix`
+│   │   │   inner_content: `Satalix`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Satalix`
+│   │   │   │   inner_content: `Satalix`
+│   │   ├── TableCellNode
+│   │   │   full_match: `cap`
+│   │   │   inner_content: `cap`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `cap`
+│   │   │   │   inner_content: `cap`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` ??`
+│   │   │   inner_content: ` ??`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `??`
+│   │   │   │   inner_content: `??`
+│   ├── TableRowNode
+│   │   full_match: `((Resveratrol improves health (Vitamin D receptor, etc.) - many studies|Resveratrol))|`
+│   │   inner_content: `((Resveratrol improves health (Vitamin D receptor, etc.) - many studies|Resveratrol))|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Resveratrol improves health (Vitamin D receptor, etc.) - many studies`
+│   │   │   inner_content: `((Resveratrol improves health (Vitamin D receptor, etc.) - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Resveratrol improves health (Vitamin D receptor, etc.) - many studies`
+│   │   │   │   inner_content: `((Resveratrol improves health (Vitamin D receptor, etc.) - many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Resveratrol))`
+│   │   │   inner_content: `Resveratrol))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Resveratrol))`
+│   │   │   │   inner_content: `Resveratrol))`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies|Quercetin))| every 4th day`
+│   │   inner_content: `((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies|Quercetin))| every 4th day`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies`
+│   │   │   inner_content: `((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies`
+│   │   │   │   inner_content: `((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Quercetin))`
+│   │   │   inner_content: `Quercetin))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Quercetin))`
+│   │   │   │   inner_content: `Quercetin))`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` every 4th day`
+│   │   │   inner_content: ` every 4th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `every 4th day`
+│   │   │   │   inner_content: `every 4th day`
+│   ├── TableRowNode
+│   │   full_match: `((Curcumin helps many health problems|Curcumin))|2 gram every 4th day|Sveikatai|liposomal*|$30`
+│   │   inner_content: `((Curcumin helps many health problems|Curcumin))|2 gram every 4th day|Sveikatai|liposomal*|$30`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Curcumin helps many health problems`
+│   │   │   inner_content: `((Curcumin helps many health problems`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Curcumin helps many health problems`
+│   │   │   │   inner_content: `((Curcumin helps many health problems`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Curcumin))`
+│   │   │   inner_content: `Curcumin))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Curcumin))`
+│   │   │   │   inner_content: `Curcumin))`
+│   │   ├── TableCellNode
+│   │   │   full_match: `2 gram every 4th day`
+│   │   │   inner_content: `2 gram every 4th day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2 gram every 4th day`
+│   │   │   │   inner_content: `2 gram every 4th day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Sveikatai`
+│   │   │   inner_content: `Sveikatai`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Sveikatai`
+│   │   │   │   inner_content: `Sveikatai`
+│   │   ├── TableCellNode
+│   │   │   full_match: `liposomal*`
+│   │   │   inner_content: `liposomal*`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `liposomal*`
+│   │   │   │   inner_content: `liposomal*`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$30`
+│   │   │   inner_content: `$30`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$30`
+│   │   │   │   inner_content: `$30`
+│   ├── TableRowNode
+│   │   full_match: `- - - - -  Non-supplement - - - - - -`
+│   │   inner_content: `- - - - -  Non-supplement - - - - - -`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `- - - - -  Non-supplement - - - - - -`
+│   │   │   inner_content: `- - - - -  Non-supplement - - - - - -`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `- - - - -  Non-supplement - - - - - -`
+│   │   │   │   inner_content: `- - - - -  Non-supplement - - - - - -`
+│   ├── TableRowNode
+│   │   full_match: `Healthy food|Organic, low ((Omega-6 blocks Omega-3 etc. -many studies|Omega-6)) %%%minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies|ulraprocessed)) | | |$700`
+│   │   inner_content: `Healthy food|Organic, low ((Omega-6 blocks Omega-3 etc. -many studies|Omega-6)) %%%minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies|ulraprocessed)) | | |$700`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Healthy food`
+│   │   │   inner_content: `Healthy food`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Healthy food`
+│   │   │   │   inner_content: `Healthy food`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Organic, low ((Omega-6 blocks Omega-3 etc. -many studies`
+│   │   │   inner_content: `Organic, low ((Omega-6 blocks Omega-3 etc. -many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Organic, low ((Omega-6 blocks Omega-3 etc. -many studies`
+│   │   │   │   inner_content: `Organic, low ((Omega-6 blocks Omega-3 etc. -many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Omega-6)) %%%minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies`
+│   │   │   inner_content: `Omega-6)) %%%minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Omega-6)) `
+│   │   │   │   inner_content: `Omega-6)) `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies`
+│   │   │   │   inner_content: `minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies`
+│   │   ├── TableCellNode
+│   │   │   full_match: `ulraprocessed)) `
+│   │   │   inner_content: `ulraprocessed)) `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `ulraprocessed)) `
+│   │   │   │   inner_content: `ulraprocessed)) `
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   ├── TableCellNode
+│   │   │   full_match: `$700`
+│   │   │   inner_content: `$700`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$700`
+│   │   │   │   inner_content: `$700`
+│   ├── TableRowNode
+│   │   full_match: `Feldenkrais%%%somewhat like Yoga|1 hr/week class%%%1 hr/week homework))| [https://feldenkraisfirst.com/about|Jeff Haller]| Zoom class| $400 %%%100 hours`
+│   │   inner_content: `Feldenkrais%%%somewhat like Yoga|1 hr/week class%%%1 hr/week homework))| [https://feldenkraisfirst.com/about|Jeff Haller]| Zoom class| $400 %%%100 hours`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Feldenkrais%%%somewhat like Yoga`
+│   │   │   inner_content: `Feldenkrais%%%somewhat like Yoga`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Feldenkrais`
+│   │   │   │   inner_content: `Feldenkrais`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `somewhat like Yoga`
+│   │   │   │   inner_content: `somewhat like Yoga`
+│   │   ├── TableCellNode
+│   │   │   full_match: `1 hr/week class%%%1 hr/week homework))`
+│   │   │   inner_content: `1 hr/week class%%%1 hr/week homework))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1 hr/week class`
+│   │   │   │   inner_content: `1 hr/week class`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1 hr/week homework))`
+│   │   │   │   inner_content: `1 hr/week homework))`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` [https://feldenkraisfirst.com/about|Jeff Haller]`
+│   │   │   inner_content: ` [https://feldenkraisfirst.com/about|Jeff Haller]`
+│   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[https://feldenkraisfirst.com/about|Jeff Haller]`
+│   │   │   │   inner_content: `Jeff Haller`
+│   │   │   │   url: `https://feldenkraisfirst.com/about`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Jeff Haller`
+│   │   │   │   │   inner_content: `Jeff Haller`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Zoom class`
+│   │   │   inner_content: ` Zoom class`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Zoom class`
+│   │   │   │   inner_content: `Zoom class`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` $400 %%%100 hours`
+│   │   │   inner_content: ` $400 %%%100 hours`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$400 `
+│   │   │   │   inner_content: `$400 `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `100 hours`
+│   │   │   │   inner_content: `100 hours`
+│   ├── TableRowNode
+│   │   full_match: `Exercise|3 hours/week|bike, trike,%%%exercycle, Bowflex| |$300 %%%150 hours`
+│   │   inner_content: `Exercise|3 hours/week|bike, trike,%%%exercycle, Bowflex| |$300 %%%150 hours`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Exercise`
+│   │   │   inner_content: `Exercise`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Exercise`
+│   │   │   │   inner_content: `Exercise`
+│   │   ├── TableCellNode
+│   │   │   full_match: `3 hours/week`
+│   │   │   inner_content: `3 hours/week`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `3 hours/week`
+│   │   │   │   inner_content: `3 hours/week`
+│   │   ├── TableCellNode
+│   │   │   full_match: `bike, trike,%%%exercycle, Bowflex`
+│   │   │   inner_content: `bike, trike,%%%exercycle, Bowflex`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `bike, trike,`
+│   │   │   │   inner_content: `bike, trike,`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `exercycle, Bowflex`
+│   │   │   │   inner_content: `exercycle, Bowflex`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   ├── TableCellNode
+│   │   │   full_match: `$300 %%%150 hours`
+│   │   │   inner_content: `$300 %%%150 hours`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$300 `
+│   │   │   │   inner_content: `$300 `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `150 hours`
+│   │   │   │   inner_content: `150 hours`
+│   ├── TableRowNode
+│   │   full_match: `((Intense exercise increases vitamin D receptor activation|Intense exercise)) | 10 minutes/week`
+│   │   inner_content: `((Intense exercise increases vitamin D receptor activation|Intense exercise)) | 10 minutes/week`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `((Intense exercise increases vitamin D receptor activation`
+│   │   │   inner_content: `((Intense exercise increases vitamin D receptor activation`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `((Intense exercise increases vitamin D receptor activation`
+│   │   │   │   inner_content: `((Intense exercise increases vitamin D receptor activation`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Intense exercise)) `
+│   │   │   inner_content: `Intense exercise)) `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Intense exercise)) `
+│   │   │   │   inner_content: `Intense exercise)) `
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 10 minutes/week`
+│   │   │   inner_content: ` 10 minutes/week`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `10 minutes/week`
+│   │   │   │   inner_content: `10 minutes/week`
+│   ├── TableRowNode
+│   │   full_match: `Clean water|5 daily |Zero|pitcher|$30`
+│   │   inner_content: `Clean water|5 daily |Zero|pitcher|$30`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Clean water`
+│   │   │   inner_content: `Clean water`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Clean water`
+│   │   │   │   inner_content: `Clean water`
+│   │   ├── TableCellNode
+│   │   │   full_match: `5 daily `
+│   │   │   inner_content: `5 daily `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `5 daily `
+│   │   │   │   inner_content: `5 daily `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Zero`
+│   │   │   inner_content: `Zero`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Zero`
+│   │   │   │   inner_content: `Zero`
+│   │   ├── TableCellNode
+│   │   │   full_match: `pitcher`
+│   │   │   inner_content: `pitcher`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `pitcher`
+│   │   │   │   inner_content: `pitcher`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$30`
+│   │   │   inner_content: `$30`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$30`
+│   │   │   │   inner_content: `$30`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Non-daily dosing assumes that the body has evolved to store most nutrients (Exception: Magnesium, Vitamin C)__`
+│   inner_content: `Non-daily dosing assumes that the body has evolved to store most nutrients (Exception: Magnesium, Vitamin C)`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Non-daily dosing assumes that the body has evolved to store most nutrients (Exception: Magnesium, Vitamin C)`
+│   │   inner_content: `Non-daily dosing assumes that the body has evolved to store most nutrients (Exception: Magnesium, Vitamin C)`├── TextNode
+│   full_match: `\n__`
+│   inner_content: `\n__`├── ColorNode
+│   full_match: `~~#F06:*~~`
+│   inner_content: `*`
+│   attrs_dict:
+│   │   raw_content: #F06
+│   children:
+│   ├── TextNode
+│   │   full_match: `*`
+│   │   inner_content: `*`├── TextNode
+│   full_match: ` Much more bio-available if no fatty meal: emulsions, Liposomal, water soluble...`
+│   inner_content: ` Much more bio-available if no fatty meal: emulsions, Liposomal, water soluble...`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!! ((Ways to improve health)) contains:`
+│   inner_content: `((Ways to improve health)) contains:`
+│   level: `4`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Ways to improve health))`
+│   │   inner_content: `Ways to improve health`
+│   │   page: `Ways to improve health`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Ways to improve health`
+│   │   │   inner_content: `Ways to improve health`
+│   ├── TextNode
+│   │   full_match: ` contains:`
+│   │   inner_content: ` contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;fileId&quot; fileId=&quot;3287&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;fileId&quot; fileId=&quot;3287&quot; width=&quot;600&quot;
+│   │   type: fileId
+│   │   fileId: 3287
+│   │   width: 600├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each`
+│   inner_content: `VitaminDWiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D Cofactors in a nutshell))`
+│   │   inner_content: `Vitamin D Cofactors in a nutshell`
+│   │   page: `Vitamin D Cofactors in a nutshell`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Cofactors in a nutshell`
+│   │   │   inner_content: `Vitamin D Cofactors in a nutshell`
+│   ├── TextNode
+│   │   full_match: ` table show the importance of each`
+│   │   inner_content: ` table show the importance of each`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Supplements&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Supplements&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Supplements
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – [https://VitaminDWiki.com/tiki-index.php?page_id=5217|$5 a year (1 capsule/2weeks) fights all of the following]`
+│   inner_content: `VitaminDWiki – [https://VitaminDWiki.com/tiki-index.php?page_id=5217|$5 a year (1 capsule/2weeks) fights all of the following]`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LinkNode
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=5217|$5 a year (1 capsule/2weeks) fights all of the following]`
+│   │   inner_content: `$5 a year (1 capsule/2weeks) fights all of the following`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=5217`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `$5 a year (1 capsule/2weeks) fights all of the following`
+│   │   │   inner_content: `$5 a year (1 capsule/2weeks) fights all of the following`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;One pill every two weeks gives you all the vitamin D most adults need&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;One pill every two weeks gives you all the vitamin D most adults need&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;
+│   │   page: One pill every two weeks gives you all the vitamin D most adults need
+│   │   start: ~tc~ start2 ~/tc~
+│   │   stop: ~tc~ end2 ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Table
+||What|Dosing|Brand|Type/form|Annual cost%%%approximate 
+((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))| 10 grams every 7th day%%%__(not taking daily)__|Coromega|Emulsion* 3X%%%more bio-available|$270
+Vitamin D| 100,000 IU every 4th day|Bio-Tech Pharmacal|water-soluble*|$100
+((Nanoemulsion Vitamin D is faster and better - many studies|Vitamin D))| about 100,000 IU each month|Nutrasal|nanoemulsion*%%%((Topical Vitamin D|topical)), ((Inhaled vitamin D help lungs - many studies|inhale))| $25
+((Overview Magnesium and vitamin D|Magnesium))| 300 mg of Mg daily|Pure Original%%%Magnesium Chloride|bulk crystal| $5
+((Overview Vitamin K and Vitamin D|Vitamin K2)) etc| every 2nd day  |Life Ext. Super K|need to find %%%a water-soluble form|
+((Vitamin C))|  xx grams|__brand__|Lipsomal*|
+((Boron increases vitamin D in the blood|Boron))| 30 mg every 4th day|Bio-Boron|cap|$26
+((Selenium is important to health - many studies|Selenium))|200 mcg  every 4th day|Piping Rock|cap|$10
+((Overview Iron Supplements and Vitamin D|Iron))|10 mg  every 7th day|ProFerrin|tablet|$42
+((Zinc and Vitamin D|Zinc))|  every 7th day|
+Vitamin B100|every 2nd day|Natures Bounty|tab| $23
+((Vitamin B12))|2,500 mcg every 7th day|Vitamatic|cap|$2
+((Iodine)), Potassium| ~1 mg every 7th day|AZ Lab| KI crystal| $1
+Horsetail ( ((Silicon or silica as a vitamin D co-factor|silica)) for bones)| 1 capsule every 2nd day| 
+ - - Improve Vitamin D genes - - - - - -
+((Glutathione and Vitamin D synergism - many studies|Glutathion))|2.4 gram daily|Prunucis|Liposomal*|$100
+((Berberine: an antioxidant that activates the Vitamin D Receptor - many studies|Berberine))|Satalix|cap| ??
+((Resveratrol improves health (Vitamin D receptor, etc.) - many studies|Resveratrol))|
+((Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies|Quercetin))| every 4th day
+((Curcumin helps many health problems|Curcumin))|2 gram every 4th day|Sveikatai|liposomal*|$30
+- - - - -  Non-supplement - - - - - -
+Healthy food|Organic, low ((Omega-6 blocks Omega-3 etc. -many studies|Omega-6)) %%%minimal ((Ultra-processed foods associated with worse health and lower Vitamin D - many studies|ulraprocessed)) | | |$700
+Feldenkrais%%%somewhat like Yoga|1 hr/week class%%%1 hr/week homework))| [https://feldenkraisfirst.com/about|Jeff Haller]| Zoom class| $400 %%%100 hours
+Exercise|3 hours/week|bike, trike,%%%exercycle, Bowflex| |$300 %%%150 hours
+((Intense exercise increases vitamin D receptor activation|Intense exercise)) | 10 minutes/week
+Clean water|5 daily |Zero|pitcher|$30||
+__Non-daily dosing assumes that the body has evolved to store most nutrients (Exception: Magnesium, Vitamin C)__
+__~~#F06:*~~ Much more bio-available if no fatty meal: emulsions, Liposomal, water soluble...
+---
+!!!! ((Ways to improve health)) contains:
+{img type=&quot;fileId&quot; fileId=&quot;3287&quot; width=&quot;600&quot;}
+---
+!!!!VitaminDWiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each
+{include page=&quot;Supplements&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – [https://VitaminDWiki.com/tiki-index.php?page_id=5217|$5 a year (1 capsule/2weeks) fights all of the following]
+{include page=&quot;One pill every two weeks gives you all the vitamin D most adults need&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}
+
+</code>
+</pre>

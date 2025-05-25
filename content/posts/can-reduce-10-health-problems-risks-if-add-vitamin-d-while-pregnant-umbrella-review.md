@@ -1,0 +1,443 @@
+---
+title: "Can reduce 10 health problems risks if add vitamin D while pregnant – umbrella review"
+slug: "can-reduce-10-health-problems-risks-if-add-vitamin-d-while-pregnant-umbrella-review"
+aliases:
+  - "/Can+reduce+10+health+problems+risks+if+add+vitamin+D+while+pregnant+–+umbrella+review+May+2024"
+  - "/15574"
+tiki_page_id: 15574
+date: 2024-09-27
+---
+
+
+{{< toc >}}
+
+---
+
+#### Effects of vitamin D in pregnancy on maternal and offspring health-related outcomes: An umbrella review of systematic review and meta-analyses
+
+Nutrition & Diabetes volume 14, #35 ( May 2024) https://doi.org/10.1038/s41387-024-00296-0
+
+Mei-Chun Chien, Chueh-Yi Huang, Jie-Huei Wang, Chia-Lung Shih & Pensee Wu 
+
+Background
+
+Vitamin D deficiency has been linked with several adverse maternal and fetal outcomes.
+
+Objective
+
+To summarize systematic reviews and meta-analyses evaluating the effects of vitamin D deficiency and of vitamin D supplementation in pregnancy on maternal and offspring health-related outcomes.
+
+Methods
+
+Prior to conducting this umbrella review, we registered the protocol in PROSPERO (CRD42022368003). We conducted searches in PubMed, Embase, and Cochrane Library for systematic reviews and meta-analyses on vitamin D in pregnancy, from database inception to October 2, 2023. All outcomes related to vitamin D in pregnancy obtained from the systematic reviews and meta-analyses were extracted. Data Extraction: Two reviewers independently chose studies and collected information on health outcomes. The quality of the included articles’ methodology was assessed using AMSTAR 2 (A Measurement Tool to Assess Systematic Reviews–2).
+
+Results
+
+We identified 16 eligible systematic reviews and meta-analyses, which included 250,569 women. Our results demonstrated that 
+
+ **vitamin D deficiency in pregnancy is associated with increased risk of** 
+
+* preterm birth, 
+
+* small-for gestational age/low birth weight infants, 
+
+* recurrent miscarriage, 
+
+* bacterial vaginosis and 
+
+* gestational diabetes mellitus. 
+
+ **Vitamin D supplementation in pregnancy**  
+
+* increases birth weight, and 
+
+* reduces the risk of maternal 
+
+   * pre-eclampsia, 
+
+   * miscarriage, and 
+
+   * vitamin D deficiency, 
+
+   * fetal or neonatal mortality, as well as 
+
+   * attention-deficit hyperactivity disorder, and 
+
+   * autism spectrum disorder in childhood. 
+
+In women with gestational diabetes mellitus, vitamin D supplementation in pregnancy can reduce the risk of maternal hyperbilirubinemia, polyhydramnios, macrosomia, fetal distress, and neonatal hospitalization.
+
+Conclusion
+
+Due to the association with adverse maternal and offspring health outcomes, we recommend the vitamin D status in pregnancy should be monitored, particularly in women at high risk of vitamin D deficiency. It is suggested that pregnant women take a dose of >400 IU/day of vitamin D supplementation during pregnancy to prevent certain adverse outcomes.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/maternal-and-offspring-health-related-outcomes-umbrella-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Effects of vitamin D in pregnancy on maternal and offspring health-related outcomes: An umbrella review of systematic review and meta-analyses
+
+Nutrition &amp; Diabetes volume 14, #35 ( May 2024) https://doi.org/10.1038/s41387-024-00296-0
+
+Mei-Chun Chien, Chueh-Yi Huang, Jie-Huei Wang, Chia-Lung Shih &amp; Pensee Wu 
+
+Background
+
+Vitamin D deficiency has been linked with several adverse maternal and fetal outcomes.
+
+Objective
+
+To summarize systematic reviews and meta-analyses evaluating the effects of vitamin D deficiency and of vitamin D supplementation in pregnancy on maternal and offspring health-related outcomes.
+
+Methods
+
+Prior to conducting this umbrella review, we registered the protocol in PROSPERO (CRD42022368003). We conducted searches in PubMed, Embase, and Cochrane Library for systematic reviews and meta-analyses on vitamin D in pregnancy, from database inception to October 2, 2023. All outcomes related to vitamin D in pregnancy obtained from the systematic reviews and meta-analyses were extracted. Data Extraction: Two reviewers independently chose studies and collected information on health outcomes. The quality of the included articles’ methodology was assessed using AMSTAR 2 (A Measurement Tool to Assess Systematic Reviews–2).
+
+Results
+
+We identified 16 eligible systematic reviews and meta-analyses, which included 250,569 women. Our results demonstrated that 
+
+ **vitamin D deficiency in pregnancy is associated with increased risk of** 
+
+* preterm birth, 
+
+* small-for gestational age/low birth weight infants, 
+
+* recurrent miscarriage, 
+
+* bacterial vaginosis and 
+
+* gestational diabetes mellitus. 
+
+ **Vitamin D supplementation in pregnancy**  
+
+* increases birth weight, and 
+
+* reduces the risk of maternal 
+
+   * pre-eclampsia, 
+
+   * miscarriage, and 
+
+   * vitamin D deficiency, 
+
+   * fetal or neonatal mortality, as well as 
+
+   * attention-deficit hyperactivity disorder, and 
+
+   * autism spectrum disorder in childhood. 
+
+In women with gestational diabetes mellitus, vitamin D supplementation in pregnancy can reduce the risk of maternal hyperbilirubinemia, polyhydramnios, macrosomia, fetal distress, and neonatal hospitalization.
+
+Conclusion
+
+Due to the association with adverse maternal and offspring health outcomes, we recommend the vitamin D status in pregnancy should be monitored, particularly in women at high risk of vitamin D deficiency. It is suggested that pregnant women take a dose of &gt;400 IU/day of vitamin D supplementation during pregnancy to prevent certain adverse outcomes.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/maternal-and-offspring-health-related-outcomes-umbrella-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Effects of vitamin D in pregnancy on maternal and offspring health-related outcomes: An umbrella review of systematic review and meta-analyses`
+│   inner_content: `Effects of vitamin D in pregnancy on maternal and offspring health-related outcomes: An umbrella review of systematic review and meta-analyses`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Effects of vitamin D in pregnancy on maternal and offspring health-related outcomes: An umbrella review of systematic review and meta-analyses`
+│   │   inner_content: `Effects of vitamin D in pregnancy on maternal and offspring health-related outcomes: An umbrella review of systematic review and meta-analyses`├── TextNode
+│   full_match: `\nNutrition &amp; Diabetes volume 14, #35 ( May 2024) https://doi.org/10.1038/s41387-024-00296-0\nMei-Chun Chien, Chueh-Yi Huang, Jie-Huei Wang, Chia-Lung Shih &amp; Pensee Wu \n\nBackground\nVitamin D deficiency has been linked with several adverse maternal and fetal outcomes.\n\nObjective\nTo summarize systematic reviews and meta-analyses evaluating the effects of vitamin D deficiency and of vitamin D supplementation in pregnancy on maternal and offspring health-related outcomes.\n\nMethods\nPrior to conducting this umbrella review, we registered the protocol in PROSPERO (CRD42022368003). We conducted searches in PubMed, Embase, and Cochrane Library for systematic reviews and meta-analyses on vitamin D in pregnancy, from database inception to October 2, 2023. All outcomes related to vitamin D in pregnancy obtained from the systematic reviews and meta-analyses were extracted. Data Extraction: Two reviewers independently chose studies and collected information on health outcomes. The quality of the included articles’ methodology was assessed using AMSTAR 2 (A Measurement Tool to Assess Systematic Reviews–2).\n\nResults\nWe identified 16 eligible systematic reviews and meta-analyses, which included 250,569 women. Our results demonstrated that \n`
+│   inner_content: `\nNutrition &amp; Diabetes volume 14, #35 ( May 2024) https://doi.org/10.1038/s41387-024-00296-0\nMei-Chun Chien, Chueh-Yi Huang, Jie-Huei Wang, Chia-Lung Shih &amp; Pensee Wu \n\nBackground\nVitamin D deficiency has been linked with several adverse maternal and fetal outcomes.\n\nObjective\nTo summarize systematic reviews and meta-analyses evaluating the effects of vitamin D deficiency and of vitamin D supplementation in pregnancy on maternal and offspring health-related outcomes.\n\nMethods\nPrior to conducting this umbrella review, we registered the protocol in PROSPERO (CRD42022368003). We conducted searches in PubMed, Embase, and Cochrane Library for systematic reviews and meta-analyses on vitamin D in pregnancy, from database inception to October 2, 2023. All outcomes related to vitamin D in pregnancy obtained from the systematic reviews and meta-analyses were extracted. Data Extraction: Two reviewers independently chose studies and collected information on health outcomes. The quality of the included articles’ methodology was assessed using AMSTAR 2 (A Measurement Tool to Assess Systematic Reviews–2).\n\nResults\nWe identified 16 eligible systematic reviews and meta-analyses, which included 250,569 women. Our results demonstrated that \n`├── BoldNode
+│   full_match: `__vitamin D deficiency in pregnancy is associated with increased risk of__`
+│   inner_content: `vitamin D deficiency in pregnancy is associated with increased risk of`
+│   children:
+│   ├── TextNode
+│   │   full_match: `vitamin D deficiency in pregnancy is associated with increased risk of`
+│   │   inner_content: `vitamin D deficiency in pregnancy is associated with increased risk of`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*preterm birth, `
+│   inner_content: `preterm birth, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `preterm birth, `
+│   │   inner_content: `preterm birth, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*small-for gestational age/low birth weight infants, `
+│   inner_content: `small-for gestational age/low birth weight infants, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `small-for gestational age/low birth weight infants, `
+│   │   inner_content: `small-for gestational age/low birth weight infants, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*recurrent miscarriage, `
+│   inner_content: `recurrent miscarriage, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `recurrent miscarriage, `
+│   │   inner_content: `recurrent miscarriage, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*bacterial vaginosis and `
+│   inner_content: `bacterial vaginosis and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `bacterial vaginosis and `
+│   │   inner_content: `bacterial vaginosis and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*gestational diabetes mellitus. `
+│   inner_content: `gestational diabetes mellitus. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `gestational diabetes mellitus. `
+│   │   inner_content: `gestational diabetes mellitus. `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Vitamin D supplementation in pregnancy__`
+│   inner_content: `Vitamin D supplementation in pregnancy`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D supplementation in pregnancy`
+│   │   inner_content: `Vitamin D supplementation in pregnancy`├── TextNode
+│   full_match: ` \n`
+│   inner_content: ` \n`├── ListItemNode
+│   full_match: `*increases birth weight, and `
+│   inner_content: `increases birth weight, and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `increases birth weight, and `
+│   │   inner_content: `increases birth weight, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*reduces the risk of maternal `
+│   inner_content: `reduces the risk of maternal `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `reduces the risk of maternal `
+│   │   inner_content: `reduces the risk of maternal `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**pre-eclampsia, `
+│   inner_content: `pre-eclampsia, `
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `pre-eclampsia, `
+│   │   inner_content: `pre-eclampsia, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**miscarriage, and `
+│   inner_content: `miscarriage, and `
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `miscarriage, and `
+│   │   inner_content: `miscarriage, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**vitamin D deficiency, `
+│   inner_content: `vitamin D deficiency, `
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `vitamin D deficiency, `
+│   │   inner_content: `vitamin D deficiency, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**fetal or neonatal mortality, as well as `
+│   inner_content: `fetal or neonatal mortality, as well as `
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `fetal or neonatal mortality, as well as `
+│   │   inner_content: `fetal or neonatal mortality, as well as `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**attention-deficit hyperactivity disorder, and `
+│   inner_content: `attention-deficit hyperactivity disorder, and `
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `attention-deficit hyperactivity disorder, and `
+│   │   inner_content: `attention-deficit hyperactivity disorder, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**autism spectrum disorder in childhood. `
+│   inner_content: `autism spectrum disorder in childhood. `
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `autism spectrum disorder in childhood. `
+│   │   inner_content: `autism spectrum disorder in childhood. `├── TextNode
+│   full_match: `\nIn women with gestational diabetes mellitus, vitamin D supplementation in pregnancy can reduce the risk of maternal hyperbilirubinemia, polyhydramnios, macrosomia, fetal distress, and neonatal hospitalization.\n\nConclusion\nDue to the association with adverse maternal and offspring health outcomes, we recommend the vitamin D status in pregnancy should be monitored, particularly in women at high risk of vitamin D deficiency. It is suggested that pregnant women take a dose of &gt;400 IU/day of vitamin D supplementation during pregnancy to prevent certain adverse outcomes.\n`
+│   inner_content: `\nIn women with gestational diabetes mellitus, vitamin D supplementation in pregnancy can reduce the risk of maternal hyperbilirubinemia, polyhydramnios, macrosomia, fetal distress, and neonatal hospitalization.\n\nConclusion\nDue to the association with adverse maternal and offspring health outcomes, we recommend the vitamin D status in pregnancy should be monitored, particularly in women at high risk of vitamin D deficiency. It is suggested that pregnant women take a dose of &gt;400 IU/day of vitamin D supplementation during pregnancy to prevent certain adverse outcomes.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21812&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21812&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21812&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21812&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21812&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21812&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21812
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Pregnancy)) category contains`
+│   inner_content: `VitaminDWiki - ((Pregnancy)) category contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Pregnancy))`
+│   │   inner_content: `Pregnancy`
+│   │   page: `Pregnancy`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Pregnancy`
+│   │   │   inner_content: `Pregnancy`
+│   ├── TextNode
+│   │   full_match: ` category contains`
+│   │   inner_content: ` category contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Pregnancy&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Pregnancy&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Pregnancy
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Healthy pregnancies need lots of vitamin D)) contains`
+│   inner_content: `VitaminDWiki – ((Healthy pregnancies need lots of vitamin D)) contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Healthy pregnancies need lots of vitamin D))`
+│   │   inner_content: `Healthy pregnancies need lots of vitamin D`
+│   │   page: `Healthy pregnancies need lots of vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Healthy pregnancies need lots of vitamin D`
+│   │   │   inner_content: `Healthy pregnancies need lots of vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains`
+│   │   inner_content: ` contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Healthy pregnancies need lots of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Healthy pregnancies need lots of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Healthy pregnancies need lots of vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Effects of vitamin D in pregnancy on maternal and offspring health-related outcomes: An umbrella review of systematic review and meta-analyses
+Nutrition &amp; Diabetes volume 14, #35 ( May 2024) https://doi.org/10.1038/s41387-024-00296-0
+Mei-Chun Chien, Chueh-Yi Huang, Jie-Huei Wang, Chia-Lung Shih &amp; Pensee Wu 
+
+Background
+Vitamin D deficiency has been linked with several adverse maternal and fetal outcomes.
+
+Objective
+To summarize systematic reviews and meta-analyses evaluating the effects of vitamin D deficiency and of vitamin D supplementation in pregnancy on maternal and offspring health-related outcomes.
+
+Methods
+Prior to conducting this umbrella review, we registered the protocol in PROSPERO (CRD42022368003). We conducted searches in PubMed, Embase, and Cochrane Library for systematic reviews and meta-analyses on vitamin D in pregnancy, from database inception to October 2, 2023. All outcomes related to vitamin D in pregnancy obtained from the systematic reviews and meta-analyses were extracted. Data Extraction: Two reviewers independently chose studies and collected information on health outcomes. The quality of the included articles’ methodology was assessed using AMSTAR 2 (A Measurement Tool to Assess Systematic Reviews–2).
+
+Results
+We identified 16 eligible systematic reviews and meta-analyses, which included 250,569 women. Our results demonstrated that 
+__vitamin D deficiency in pregnancy is associated with increased risk of__
+*preterm birth, 
+*small-for gestational age/low birth weight infants, 
+*recurrent miscarriage, 
+*bacterial vaginosis and 
+*gestational diabetes mellitus. 
+__Vitamin D supplementation in pregnancy__ 
+*increases birth weight, and 
+*reduces the risk of maternal 
+**pre-eclampsia, 
+**miscarriage, and 
+**vitamin D deficiency, 
+**fetal or neonatal mortality, as well as 
+**attention-deficit hyperactivity disorder, and 
+**autism spectrum disorder in childhood. 
+In women with gestational diabetes mellitus, vitamin D supplementation in pregnancy can reduce the risk of maternal hyperbilirubinemia, polyhydramnios, macrosomia, fetal distress, and neonatal hospitalization.
+
+Conclusion
+Due to the association with adverse maternal and offspring health outcomes, we recommend the vitamin D status in pregnancy should be monitored, particularly in women at high risk of vitamin D deficiency. It is suggested that pregnant women take a dose of &gt;400 IU/day of vitamin D supplementation during pregnancy to prevent certain adverse outcomes.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21812&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki - ((Pregnancy)) category contains
+{include page=&quot;Pregnancy&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Healthy pregnancies need lots of vitamin D)) contains
+{include page=&quot;Healthy pregnancies need lots of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+
+</code>
+</pre>

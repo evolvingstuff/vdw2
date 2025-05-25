@@ -1,0 +1,924 @@
+---
+title: "Vitamin D has generally decreased over the past 100 years"
+slug: "vitamin-d-has-generally-decreased-over-the-past-100-years"
+aliases:
+  - "/Vitamin+D+has+generally+decreased+over+the+past+100+years+-+Nov+2024"
+  - "/15685"
+tiki_page_id: 15685
+date: 2024-11-24
+---
+
+
+{{< toc >}}
+
+---
+
+#### Perplexity AI - [Nov 2024](https://www.perplexity.ai/search/have-vitamin-d-levels-crashed-WefSiBslQbSlMLLhvAVg.w)
+
+ **Have vitamin D levels crashed (decreased a lot) during the past 100 years?** 
+
+The historical trends in vitamin D levels show a complex pattern of changes over different time periods:
+
+ **Historical Changes** 
+
+ **Early Industrial Era** 
+
+During the Industrial Revolution in Western Europe, vitamin D levels likely decreased significantly due to air pollution from mills and fossil fuels, which reduced UV light exposure. Workers moving from rural areas to dingy cities had diminished sun exposure, leading to widespread rickets &nbsp;[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9066576/)
+
+ **Late 20th Century Decline** 
+
+A marked decrease in vitamin D levels occurred between 1988-1994 and 2001-2004. Mean serum levels dropped from 28-32 ng/mL to around 24 ng/mL across different age groups&nbsp;[1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878)
+
+During 2001-2004, 77% of US adolescents and adults had insufficient vitamin D levels&nbsp;[1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878)
+
+ **Recent Improvements** 
+
+From 2001 to 2018, there has been a positive trend:
+
+* Serum vitamin D levels increased from 65.6 nmol/L to 73.5 nmol/L in US adults&nbsp;[4](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full)
+
+* However, young adults (20-39 years) and those with lower socioeconomic status showed declining levels and increased deficiency rates&nbsp;[4](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full)
+
+ **Geographic Variations** 
+
+Different regions show varying trends:
+
+* In Poland, infant vitamin D levels decreased from 129.5 nmol/L (1981-1999) to 72 nmol/L (2010-2011)&nbsp;[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/)
+
+* Iran showed improvement, with levels increasing from 51 nmol/L in 2001 to 62 nmol/L in 2013&nbsp;[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/)
+
+* Some Asian countries have experienced recent declines, possibly due to increased urbanization and air pollution&nbsp;[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/)
+
+Rather than a continuous crash over 100 years, vitamin D levels have fluctuated, with significant decreases during industrialization and the late 20th century, followed by some improvement in recent years, though challenges persist for certain population groups.
+
+---
+
+#### Claude 3.5 Sonnet - Nov 2024
+
+... here are some specific numeric comparisons that demonstrate the decline in vitamin D levels, though it's important to note that historical measurements can be challenging to verify with complete accuracy:
+
+Traditional/Historical Populations:
+
+* East African tribes studied in the 1960s-70s showed average vitamin D levels of 115-150 nmol/L (46-60 ng/mL)
+
+* Maasai herders and other traditional outdoor workers typically showed levels of 100-150 nmol/L (40-60 ng/mL)
+
+Modern Populations (measured in the last few decades):
+
+* Average US adult levels: 25-50 nmol/L (10-20 ng/mL)
+
+* European populations generally show similar or even lower averages
+
+* Urban office workers often show levels below 30 nmol/L (12 ng/mL)
+
+Some particularly striking examples:
+
+* A 2009 study found that about 42% of US adults were vitamin D deficient (<20 ng/mL)
+
+* Recent studies of indoor workers in developed countries show that up to 80% have insufficient vitamin D levels during winter months
+
+The most dramatic drops are seen in populations that have rapidly modernized. For example:
+
+* Studies of traditional societies that have recently urbanized show drops from around 115 nmol/L to 35-40 nmol/L within a single generation
+
+* Children's levels have shown particularly sharp declines, with some studies showing modern urban children having less than half the vitamin D levels of their rural counterparts from the 1960s
+
+---
+
+#### Google Gemini 1.5 Nov 2024 - 5 reasons
+
+ **Have vitamin D levels crashed (decreased a lot) during the past 100 years?** 
+
+Yes, there's  **strong evidence**  suggesting that average vitamin D levels have significantly decreased in many populations over the past 100 years. Several factors contribute to this:
+
+* Increased indoor time: Modern lifestyles involve spending significantly more time indoors, reducing exposure to sunlight, the primary source of vitamin D synthesis in the body. This is particularly pronounced in higher latitudes with less sunlight throughout the year.
+
+* Sun protection measures: Increased awareness of skin cancer risks has led to widespread use of sunscreen, which blocks UVB radiation necessary for vitamin D production.
+
+* Changes in diet: While dietary sources of vitamin D exist, they are often insufficient to meet the body's needs, especially in populations with limited access to fortified foods.
+
+* Increased air pollution: Air pollution can reduce the intensity of UVB radiation reaching the earth's surface, further hindering vitamin D synthesis.
+
+* Clothing styles: More clothing coverage compared to earlier times, particularly in some cultures, limits sun exposure.
+
+It's important to note that the exact extent of the decline varies by geographic location, population group, and time period. Studies comparing vitamin D levels across different generations and populations often show a considerable drop, but pinpointing a precise percentage decrease over the entire 100 years is challenging due to variations in measurement techniques and data availability from the past.  **However, the overall trend is clear: a substantial reduction in vitamin D status is a significant public health concern.** 
+
+---
+
+#### See also:
+
+* <a href="/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Incidence of 22 health problems related to vitamin D have doubled in a decade">Incidence of 22 health problems related to vitamin D have doubled in a decade</a> 
+
+* <a href="/posts/vitamin-d-reduced-so-low-that-victorian-age-diseases-are-returning" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduced so low that Victorian age diseases are returning">Vitamin D reduced so low that Victorian age diseases are returning</a>
+
+* <a href="/posts/reasons-for-low-response-by-vitamin-d-level-in-the-blood" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2296">Reasons for low response by vitamin D level in the blood</a>
+
+* <a href="/posts/3x-more-kids-were-vitamin-d-deficient-when-entering-uk-hospitals-than-4-years-before" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014">3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014</a>
+
+> Only half as many people had >30 ng of vitamin D 16 years later
+
+   * (that was 2004 - How much lower since then?)
+
+> {IMG(fileId="178")}{IMG}
+
+<!-- ~tc~ (alias(Vitamin D has often decreased over the past 100 years)) ~/tc~ -->
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Perplexity AI - [Nov 2024](https://www.perplexity.ai/search/have-vitamin-d-levels-crashed-WefSiBslQbSlMLLhvAVg.w)
+
+ **Have vitamin D levels crashed (decreased a lot) during the past 100 years?** 
+
+The historical trends in vitamin D levels show a complex pattern of changes over different time periods:
+
+ **Historical Changes** 
+
+ **Early Industrial Era** 
+
+During the Industrial Revolution in Western Europe, vitamin D levels likely decreased significantly due to air pollution from mills and fossil fuels, which reduced UV light exposure. Workers moving from rural areas to dingy cities had diminished sun exposure, leading to widespread rickets &amp;nbsp;[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9066576/)
+
+ **Late 20th Century Decline** 
+
+A marked decrease in vitamin D levels occurred between 1988-1994 and 2001-2004. Mean serum levels dropped from 28-32 ng/mL to around 24 ng/mL across different age groups&amp;nbsp;[1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878)
+
+During 2001-2004, 77% of US adolescents and adults had insufficient vitamin D levels&amp;nbsp;[1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878)
+
+ **Recent Improvements** 
+
+From 2001 to 2018, there has been a positive trend:
+
+* Serum vitamin D levels increased from 65.6 nmol/L to 73.5 nmol/L in US adults&amp;nbsp;[4](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full)
+
+* However, young adults (20-39 years) and those with lower socioeconomic status showed declining levels and increased deficiency rates&amp;nbsp;[4](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full)
+
+ **Geographic Variations** 
+
+Different regions show varying trends:
+
+* In Poland, infant vitamin D levels decreased from 129.5 nmol/L (1981-1999) to 72 nmol/L (2010-2011)&amp;nbsp;[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/)
+
+* Iran showed improvement, with levels increasing from 51 nmol/L in 2001 to 62 nmol/L in 2013&amp;nbsp;[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/)
+
+* Some Asian countries have experienced recent declines, possibly due to increased urbanization and air pollution&amp;nbsp;[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/)
+
+Rather than a continuous crash over 100 years, vitamin D levels have fluctuated, with significant decreases during industrialization and the late 20th century, followed by some improvement in recent years, though challenges persist for certain population groups.
+
+---
+
+#### Claude 3.5 Sonnet - Nov 2024
+
+... here are some specific numeric comparisons that demonstrate the decline in vitamin D levels, though it&#39;s important to note that historical measurements can be challenging to verify with complete accuracy:
+
+Traditional/Historical Populations:
+
+* East African tribes studied in the 1960s-70s showed average vitamin D levels of 115-150 nmol/L (46-60 ng/mL)
+
+* Maasai herders and other traditional outdoor workers typically showed levels of 100-150 nmol/L (40-60 ng/mL)
+
+Modern Populations (measured in the last few decades):
+
+* Average US adult levels: 25-50 nmol/L (10-20 ng/mL)
+
+* European populations generally show similar or even lower averages
+
+* Urban office workers often show levels below 30 nmol/L (12 ng/mL)
+
+Some particularly striking examples:
+
+* A 2009 study found that about 42% of US adults were vitamin D deficient (&lt;20 ng/mL)
+
+* Recent studies of indoor workers in developed countries show that up to 80% have insufficient vitamin D levels during winter months
+
+The most dramatic drops are seen in populations that have rapidly modernized. For example:
+
+* Studies of traditional societies that have recently urbanized show drops from around 115 nmol/L to 35-40 nmol/L within a single generation
+
+* Children&#39;s levels have shown particularly sharp declines, with some studies showing modern urban children having less than half the vitamin D levels of their rural counterparts from the 1960s
+
+---
+
+#### Google Gemini 1.5 Nov 2024 - 5 reasons
+
+ **Have vitamin D levels crashed (decreased a lot) during the past 100 years?** 
+
+Yes, there&#39;s  **strong evidence**  suggesting that average vitamin D levels have significantly decreased in many populations over the past 100 years. Several factors contribute to this:
+
+* Increased indoor time: Modern lifestyles involve spending significantly more time indoors, reducing exposure to sunlight, the primary source of vitamin D synthesis in the body. This is particularly pronounced in higher latitudes with less sunlight throughout the year.
+
+* Sun protection measures: Increased awareness of skin cancer risks has led to widespread use of sunscreen, which blocks UVB radiation necessary for vitamin D production.
+
+* Changes in diet: While dietary sources of vitamin D exist, they are often insufficient to meet the body&#39;s needs, especially in populations with limited access to fortified foods.
+
+* Increased air pollution: Air pollution can reduce the intensity of UVB radiation reaching the earth&#39;s surface, further hindering vitamin D synthesis.
+
+* Clothing styles: More clothing coverage compared to earlier times, particularly in some cultures, limits sun exposure.
+
+It&#39;s important to note that the exact extent of the decline varies by geographic location, population group, and time period. Studies comparing vitamin D levels across different generations and populations often show a considerable drop, but pinpointing a precise percentage decrease over the entire 100 years is challenging due to variations in measurement techniques and data availability from the past.  **However, the overall trend is clear: a substantial reduction in vitamin D status is a significant public health concern.** 
+
+---
+
+#### See also:
+
+* &lt;a href=&quot;/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Incidence of 22 health problems related to vitamin D have doubled in a decade&quot;&gt;Incidence of 22 health problems related to vitamin D have doubled in a decade&lt;/a&gt; 
+
+* &lt;a href=&quot;/posts/vitamin-d-reduced-so-low-that-victorian-age-diseases-are-returning&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D reduced so low that Victorian age diseases are returning&quot;&gt;Vitamin D reduced so low that Victorian age diseases are returning&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/reasons-for-low-response-by-vitamin-d-level-in-the-blood&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 2296&quot;&gt;Reasons for low response by vitamin D level in the blood&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/3x-more-kids-were-vitamin-d-deficient-when-entering-uk-hospitals-than-4-years-before&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014&quot;&gt;3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014&lt;/a&gt;
+
+&gt; Only half as many people had &gt;30 ng of vitamin D 16 years later
+
+   * (that was 2004 - How much lower since then?)
+
+&gt; {IMG(fileId=&quot;178&quot;)}{IMG}
+
+&lt;!-- ~tc~ (alias(Vitamin D has often decreased over the past 100 years)) ~/tc~ --&gt;
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Perplexity AI - [https://www.perplexity.ai/search/have-vitamin-d-levels-crashed-WefSiBslQbSlMLLhvAVg.w|Nov 2024]`
+│   inner_content: `Perplexity AI - [https://www.perplexity.ai/search/have-vitamin-d-levels-crashed-WefSiBslQbSlMLLhvAVg.w|Nov 2024]`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Perplexity AI - `
+│   │   inner_content: `Perplexity AI - `
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/have-vitamin-d-levels-crashed-WefSiBslQbSlMLLhvAVg.w|Nov 2024]`
+│   │   inner_content: `Nov 2024`
+│   │   url: `https://www.perplexity.ai/search/have-vitamin-d-levels-crashed-WefSiBslQbSlMLLhvAVg.w`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Nov 2024`
+│   │   │   inner_content: `Nov 2024`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Have vitamin D levels crashed (decreased a lot) during the past 100 years?__`
+│   inner_content: `Have vitamin D levels crashed (decreased a lot) during the past 100 years?`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Have vitamin D levels crashed (decreased a lot) during the past 100 years?`
+│   │   inner_content: `Have vitamin D levels crashed (decreased a lot) during the past 100 years?`├── TextNode
+│   full_match: `\nThe historical trends in vitamin D levels show a complex pattern of changes over different time periods:\n`
+│   inner_content: `\nThe historical trends in vitamin D levels show a complex pattern of changes over different time periods:\n`├── ColorNode
+│   full_match: `~~#00F:__Historical Changes__~~`
+│   inner_content: `__Historical Changes__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Historical Changes__`
+│   │   inner_content: `Historical Changes`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Historical Changes`
+│   │   │   inner_content: `Historical Changes`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Early Industrial Era__`
+│   inner_content: `Early Industrial Era`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Early Industrial Era`
+│   │   inner_content: `Early Industrial Era`├── TextNode
+│   full_match: `\nDuring the Industrial Revolution in Western Europe, vitamin D levels likely decreased significantly due to air pollution from mills and fossil fuels, which reduced UV light exposure. Workers moving from rural areas to dingy cities had diminished sun exposure, leading to widespread rickets `
+│   inner_content: `\nDuring the Industrial Revolution in Western Europe, vitamin D levels likely decreased significantly due to air pollution from mills and fossil fuels, which reduced UV light exposure. Workers moving from rural areas to dingy cities had diminished sun exposure, leading to widespread rickets `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC9066576/|2]`
+│   inner_content: `2`
+│   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9066576/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2`
+│   │   inner_content: `2`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Late 20th Century Decline__`
+│   inner_content: `Late 20th Century Decline`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Late 20th Century Decline`
+│   │   inner_content: `Late 20th Century Decline`├── TextNode
+│   full_match: `\nA marked decrease in vitamin D levels occurred between 1988-1994 and 2001-2004. Mean serum levels dropped from 28-32 ng/mL to around 24 ng/mL across different age groups`
+│   inner_content: `\nA marked decrease in vitamin D levels occurred between 1988-1994 and 2001-2004. Mean serum levels dropped from 28-32 ng/mL to around 24 ng/mL across different age groups`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878|1]`
+│   inner_content: `1`
+│   url: `https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\nDuring 2001-2004, 77% of US adolescents and adults had insufficient vitamin D levels`
+│   inner_content: `\nDuring 2001-2004, 77% of US adolescents and adults had insufficient vitamin D levels`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878|1]`
+│   inner_content: `1`
+│   url: `https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1`
+│   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Recent Improvements__`
+│   inner_content: `Recent Improvements`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Recent Improvements`
+│   │   inner_content: `Recent Improvements`├── TextNode
+│   full_match: `\nFrom 2001 to 2018, there has been a positive trend:\n`
+│   inner_content: `\nFrom 2001 to 2018, there has been a positive trend:\n`├── ListItemNode
+│   full_match: `*Serum vitamin D levels increased from 65.6 nmol/L to 73.5 nmol/L in US adults~hs~[https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full|4]`
+│   inner_content: `Serum vitamin D levels increased from 65.6 nmol/L to 73.5 nmol/L in US adults~hs~[https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Serum vitamin D levels increased from 65.6 nmol/L to 73.5 nmol/L in US adults`
+│   │   inner_content: `Serum vitamin D levels increased from 65.6 nmol/L to 73.5 nmol/L in US adults`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full|4]`
+│   │   inner_content: `4`
+│   │   url: `https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*However, young adults (20-39 years) and those with lower socioeconomic status showed declining levels and increased deficiency rates~hs~[https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full|4]`
+│   inner_content: `However, young adults (20-39 years) and those with lower socioeconomic status showed declining levels and increased deficiency rates~hs~[https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `However, young adults (20-39 years) and those with lower socioeconomic status showed declining levels and increased deficiency rates`
+│   │   inner_content: `However, young adults (20-39 years) and those with lower socioeconomic status showed declining levels and increased deficiency rates`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full|4]`
+│   │   inner_content: `4`
+│   │   url: `https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ColorNode
+│   full_match: `~~#00F:__Geographic Variations__~~`
+│   inner_content: `__Geographic Variations__`
+│   attrs_dict:
+│   │   raw_content: #00F
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Geographic Variations__`
+│   │   inner_content: `Geographic Variations`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Geographic Variations`
+│   │   │   inner_content: `Geographic Variations`├── TextNode
+│   full_match: `\nDifferent regions show varying trends:\n`
+│   inner_content: `\nDifferent regions show varying trends:\n`├── ListItemNode
+│   full_match: `*In Poland, infant vitamin D levels decreased from 129.5 nmol/L (1981-1999) to 72 nmol/L (2010-2011)~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   inner_content: `In Poland, infant vitamin D levels decreased from 129.5 nmol/L (1981-1999) to 72 nmol/L (2010-2011)~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `In Poland, infant vitamin D levels decreased from 129.5 nmol/L (1981-1999) to 72 nmol/L (2010-2011)`
+│   │   inner_content: `In Poland, infant vitamin D levels decreased from 129.5 nmol/L (1981-1999) to 72 nmol/L (2010-2011)`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   │   inner_content: `5`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Iran showed improvement, with levels increasing from 51 nmol/L in 2001 to 62 nmol/L in 2013~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   inner_content: `Iran showed improvement, with levels increasing from 51 nmol/L in 2001 to 62 nmol/L in 2013~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Iran showed improvement, with levels increasing from 51 nmol/L in 2001 to 62 nmol/L in 2013`
+│   │   inner_content: `Iran showed improvement, with levels increasing from 51 nmol/L in 2001 to 62 nmol/L in 2013`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   │   inner_content: `5`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Some Asian countries have experienced recent declines, possibly due to increased urbanization and air pollution~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   inner_content: `Some Asian countries have experienced recent declines, possibly due to increased urbanization and air pollution~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Some Asian countries have experienced recent declines, possibly due to increased urbanization and air pollution`
+│   │   inner_content: `Some Asian countries have experienced recent declines, possibly due to increased urbanization and air pollution`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]`
+│   │   inner_content: `5`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`├── TextNode
+│   full_match: `\nRather than a continuous crash over 100 years, vitamin D levels have fluctuated, with significant decreases during industrialization and the late 20th century, followed by some improvement in recent years, though challenges persist for certain population groups.`
+│   inner_content: `\nRather than a continuous crash over 100 years, vitamin D levels have fluctuated, with significant decreases during industrialization and the late 20th century, followed by some improvement in recent years, though challenges persist for certain population groups.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Claude 3.5 Sonnet - Nov 2024`
+│   inner_content: `Claude 3.5 Sonnet - Nov 2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Claude 3.5 Sonnet - Nov 2024`
+│   │   inner_content: `Claude 3.5 Sonnet - Nov 2024`├── TextNode
+│   full_match: `\n... here are some specific numeric comparisons that demonstrate the decline in vitamin D levels, though it&#39;s important to note that historical measurements can be challenging to verify with complete accuracy:\nTraditional/Historical Populations:\n`
+│   inner_content: `\n... here are some specific numeric comparisons that demonstrate the decline in vitamin D levels, though it&#39;s important to note that historical measurements can be challenging to verify with complete accuracy:\nTraditional/Historical Populations:\n`├── ListItemNode
+│   full_match: `*East African tribes studied in the 1960s-70s showed average vitamin D levels of 115-150 nmol/L (46-60 ng/mL)`
+│   inner_content: `East African tribes studied in the 1960s-70s showed average vitamin D levels of 115-150 nmol/L (46-60 ng/mL)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `East African tribes studied in the 1960s-70s showed average vitamin D levels of 115-150 nmol/L (46-60 ng/mL)`
+│   │   inner_content: `East African tribes studied in the 1960s-70s showed average vitamin D levels of 115-150 nmol/L (46-60 ng/mL)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Maasai herders and other traditional outdoor workers typically showed levels of 100-150 nmol/L (40-60 ng/mL)`
+│   inner_content: `Maasai herders and other traditional outdoor workers typically showed levels of 100-150 nmol/L (40-60 ng/mL)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Maasai herders and other traditional outdoor workers typically showed levels of 100-150 nmol/L (40-60 ng/mL)`
+│   │   inner_content: `Maasai herders and other traditional outdoor workers typically showed levels of 100-150 nmol/L (40-60 ng/mL)`├── TextNode
+│   full_match: `\nModern Populations (measured in the last few decades):\n`
+│   inner_content: `\nModern Populations (measured in the last few decades):\n`├── ListItemNode
+│   full_match: `*Average US adult levels: 25-50 nmol/L (10-20 ng/mL)`
+│   inner_content: `Average US adult levels: 25-50 nmol/L (10-20 ng/mL)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Average US adult levels: 25-50 nmol/L (10-20 ng/mL)`
+│   │   inner_content: `Average US adult levels: 25-50 nmol/L (10-20 ng/mL)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*European populations generally show similar or even lower averages`
+│   inner_content: `European populations generally show similar or even lower averages`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `European populations generally show similar or even lower averages`
+│   │   inner_content: `European populations generally show similar or even lower averages`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Urban office workers often show levels below 30 nmol/L (12 ng/mL)`
+│   inner_content: `Urban office workers often show levels below 30 nmol/L (12 ng/mL)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Urban office workers often show levels below 30 nmol/L (12 ng/mL)`
+│   │   inner_content: `Urban office workers often show levels below 30 nmol/L (12 ng/mL)`├── TextNode
+│   full_match: `\nSome particularly striking examples:\n`
+│   inner_content: `\nSome particularly striking examples:\n`├── ListItemNode
+│   full_match: `*A 2009 study found that about 42% of US adults were vitamin D deficient (&lt;20 ng/mL)`
+│   inner_content: `A 2009 study found that about 42% of US adults were vitamin D deficient (&lt;20 ng/mL)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A 2009 study found that about 42% of US adults were vitamin D deficient (&lt;20 ng/mL)`
+│   │   inner_content: `A 2009 study found that about 42% of US adults were vitamin D deficient (&lt;20 ng/mL)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Recent studies of indoor workers in developed countries show that up to 80% have insufficient vitamin D levels during winter months`
+│   inner_content: `Recent studies of indoor workers in developed countries show that up to 80% have insufficient vitamin D levels during winter months`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Recent studies of indoor workers in developed countries show that up to 80% have insufficient vitamin D levels during winter months`
+│   │   inner_content: `Recent studies of indoor workers in developed countries show that up to 80% have insufficient vitamin D levels during winter months`├── TextNode
+│   full_match: `\nThe most dramatic drops are seen in populations that have rapidly modernized. For example:\n`
+│   inner_content: `\nThe most dramatic drops are seen in populations that have rapidly modernized. For example:\n`├── ListItemNode
+│   full_match: `*Studies of traditional societies that have recently urbanized show drops from around 115 nmol/L to 35-40 nmol/L within a single generation`
+│   inner_content: `Studies of traditional societies that have recently urbanized show drops from around 115 nmol/L to 35-40 nmol/L within a single generation`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Studies of traditional societies that have recently urbanized show drops from around 115 nmol/L to 35-40 nmol/L within a single generation`
+│   │   inner_content: `Studies of traditional societies that have recently urbanized show drops from around 115 nmol/L to 35-40 nmol/L within a single generation`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Children&#39;s levels have shown particularly sharp declines, with some studies showing modern urban children having less than half the vitamin D levels of their rural counterparts from the 1960s`
+│   inner_content: `Children&#39;s levels have shown particularly sharp declines, with some studies showing modern urban children having less than half the vitamin D levels of their rural counterparts from the 1960s`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Children&#39;s levels have shown particularly sharp declines, with some studies showing modern urban children having less than half the vitamin D levels of their rural counterparts from the 1960s`
+│   │   inner_content: `Children&#39;s levels have shown particularly sharp declines, with some studies showing modern urban children having less than half the vitamin D levels of their rural counterparts from the 1960s`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Google Gemini 1.5 Nov 2024 - 5 reasons`
+│   inner_content: `Google Gemini 1.5 Nov 2024 - 5 reasons`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Google Gemini 1.5 Nov 2024 - 5 reasons`
+│   │   inner_content: `Google Gemini 1.5 Nov 2024 - 5 reasons`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Have vitamin D levels crashed (decreased a lot) during the past 100 years?__`
+│   inner_content: `Have vitamin D levels crashed (decreased a lot) during the past 100 years?`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Have vitamin D levels crashed (decreased a lot) during the past 100 years?`
+│   │   inner_content: `Have vitamin D levels crashed (decreased a lot) during the past 100 years?`├── TextNode
+│   full_match: `\nYes, there&#39;s `
+│   inner_content: `\nYes, there&#39;s `├── BoldNode
+│   full_match: `__strong evidence__`
+│   inner_content: `strong evidence`
+│   children:
+│   ├── TextNode
+│   │   full_match: `strong evidence`
+│   │   inner_content: `strong evidence`├── TextNode
+│   full_match: ` suggesting that average vitamin D levels have significantly decreased in many populations over the past 100 years. Several factors contribute to this:\n`
+│   inner_content: ` suggesting that average vitamin D levels have significantly decreased in many populations over the past 100 years. Several factors contribute to this:\n`├── ListItemNode
+│   full_match: `*Increased indoor time: Modern lifestyles involve spending significantly more time indoors, reducing exposure to sunlight, the primary source of vitamin D synthesis in the body. This is particularly pronounced in higher latitudes with less sunlight throughout the year.`
+│   inner_content: `Increased indoor time: Modern lifestyles involve spending significantly more time indoors, reducing exposure to sunlight, the primary source of vitamin D synthesis in the body. This is particularly pronounced in higher latitudes with less sunlight throughout the year.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Increased indoor time: Modern lifestyles involve spending significantly more time indoors, reducing exposure to sunlight, the primary source of vitamin D synthesis in the body. This is particularly pronounced in higher latitudes with less sunlight throughout the year.`
+│   │   inner_content: `Increased indoor time: Modern lifestyles involve spending significantly more time indoors, reducing exposure to sunlight, the primary source of vitamin D synthesis in the body. This is particularly pronounced in higher latitudes with less sunlight throughout the year.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Sun protection measures: Increased awareness of skin cancer risks has led to widespread use of sunscreen, which blocks UVB radiation necessary for vitamin D production.`
+│   inner_content: `Sun protection measures: Increased awareness of skin cancer risks has led to widespread use of sunscreen, which blocks UVB radiation necessary for vitamin D production.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Sun protection measures: Increased awareness of skin cancer risks has led to widespread use of sunscreen, which blocks UVB radiation necessary for vitamin D production.`
+│   │   inner_content: `Sun protection measures: Increased awareness of skin cancer risks has led to widespread use of sunscreen, which blocks UVB radiation necessary for vitamin D production.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Changes in diet: While dietary sources of vitamin D exist, they are often insufficient to meet the body&#39;s needs, especially in populations with limited access to fortified foods.`
+│   inner_content: `Changes in diet: While dietary sources of vitamin D exist, they are often insufficient to meet the body&#39;s needs, especially in populations with limited access to fortified foods.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Changes in diet: While dietary sources of vitamin D exist, they are often insufficient to meet the body&#39;s needs, especially in populations with limited access to fortified foods.`
+│   │   inner_content: `Changes in diet: While dietary sources of vitamin D exist, they are often insufficient to meet the body&#39;s needs, especially in populations with limited access to fortified foods.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Increased air pollution: Air pollution can reduce the intensity of UVB radiation reaching the earth&#39;s surface, further hindering vitamin D synthesis.`
+│   inner_content: `Increased air pollution: Air pollution can reduce the intensity of UVB radiation reaching the earth&#39;s surface, further hindering vitamin D synthesis.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Increased air pollution: Air pollution can reduce the intensity of UVB radiation reaching the earth&#39;s surface, further hindering vitamin D synthesis.`
+│   │   inner_content: `Increased air pollution: Air pollution can reduce the intensity of UVB radiation reaching the earth&#39;s surface, further hindering vitamin D synthesis.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Clothing styles: More clothing coverage compared to earlier times, particularly in some cultures, limits sun exposure.`
+│   inner_content: `Clothing styles: More clothing coverage compared to earlier times, particularly in some cultures, limits sun exposure.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Clothing styles: More clothing coverage compared to earlier times, particularly in some cultures, limits sun exposure.`
+│   │   inner_content: `Clothing styles: More clothing coverage compared to earlier times, particularly in some cultures, limits sun exposure.`├── TextNode
+│   full_match: `\nIt&#39;s important to note that the exact extent of the decline varies by geographic location, population group, and time period. Studies comparing vitamin D levels across different generations and populations often show a considerable drop, but pinpointing a precise percentage decrease over the entire 100 years is challenging due to variations in measurement techniques and data availability from the past. `
+│   inner_content: `\nIt&#39;s important to note that the exact extent of the decline varies by geographic location, population group, and time period. Studies comparing vitamin D levels across different generations and populations often show a considerable drop, but pinpointing a precise percentage decrease over the entire 100 years is challenging due to variations in measurement techniques and data availability from the past. `├── BoldNode
+│   full_match: `__However, the overall trend is clear: a substantial reduction in vitamin D status is a significant public health concern.__`
+│   inner_content: `However, the overall trend is clear: a substantial reduction in vitamin D status is a significant public health concern.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `However, the overall trend is clear: a substantial reduction in vitamin D status is a significant public health concern.`
+│   │   inner_content: `However, the overall trend is clear: a substantial reduction in vitamin D status is a significant public health concern.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Many reasons why vitamin D deficiency has become epidemic)) 40 reasons`
+│   inner_content: `VitaminDWiki - ((Many reasons why vitamin D deficiency has become epidemic)) 40 reasons`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Many reasons why vitamin D deficiency has become epidemic))`
+│   │   inner_content: `Many reasons why vitamin D deficiency has become epidemic`
+│   │   page: `Many reasons why vitamin D deficiency has become epidemic`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Many reasons why vitamin D deficiency has become epidemic`
+│   │   │   inner_content: `Many reasons why vitamin D deficiency has become epidemic`
+│   ├── TextNode
+│   │   full_match: ` 40 reasons`
+│   │   inner_content: ` 40 reasons`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__~~#00F:23 of the 40 reasons for Vitamin D deficiency are new~~__`
+│   inner_content: `~~#00F:23 of the 40 reasons for Vitamin D deficiency are new~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:23 of the 40 reasons for Vitamin D deficiency are new~~`
+│   │   inner_content: `23 of the 40 reasons for Vitamin D deficiency are new`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `23 of the 40 reasons for Vitamin D deficiency are new`
+│   │   │   inner_content: `23 of the 40 reasons for Vitamin D deficiency are new`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) ))`
+│   inner_content: `VitaminDWiki - ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) ))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) ))`
+│   │   inner_content: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) `
+│   │   page: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) `
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) `
+│   │   │   inner_content: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((4 Reasons why Vitamin D levels are crashing))`
+│   inner_content: `VitaminDWiki - ((4 Reasons why Vitamin D levels are crashing))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((4 Reasons why Vitamin D levels are crashing))`
+│   │   inner_content: `4 Reasons why Vitamin D levels are crashing`
+│   │   page: `4 Reasons why Vitamin D levels are crashing`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4 Reasons why Vitamin D levels are crashing`
+│   │   │   inner_content: `4 Reasons why Vitamin D levels are crashing`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Table of Contents as of Nov 2024__`
+│   inner_content: `Table of Contents as of Nov 2024`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Table of Contents as of Nov 2024`
+│   │   inner_content: `Table of Contents as of Nov 2024`├── TextNode
+│   full_match: `\n1) Less sunshine\n2) Less from Food\n3) Decrease in nutrients decreases Vitamin D\n4) Higher % of population with low Vitamin D\nalso - Obese, elderly, dark skin, poor health/chronic pain\n`
+│   inner_content: `\n1) Less sunshine\n2) Less from Food\n3) Decrease in nutrients decreases Vitamin D\n4) Higher % of population with low Vitamin D\nalso - Obese, elderly, dark skin, poor health/chronic pain\n`├── ImgNode
+│   full_match: `{img type=&quot;fileId&quot; fileId=&quot;1843&quot; width=&quot;350&quot; link=&quot;Many reasons why vitamin D deficiency has become epidemic&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;fileId&quot; fileId=&quot;1843&quot; width=&quot;350&quot; link=&quot;Many reasons why vitamin D deficiency has become epidemic&quot;
+│   │   type: fileId
+│   │   fileId: 1843
+│   │   width: 350
+│   │   link: Many reasons why vitamin D deficiency has become epidemic├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__&#39;&#39;click on chart for details&#39;&#39;__`
+│   inner_content: `&#39;&#39;click on chart for details&#39;&#39;`
+│   children:
+│   ├── EmphasisNode
+│   │   full_match: `&#39;&#39;click on chart for details&#39;&#39;`
+│   │   inner_content: `click on chart for details`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `click on chart for details`
+│   │   │   inner_content: `click on chart for details`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!See also:`
+│   inner_content: `See also:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also:`
+│   │   inner_content: `See also:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Incidence of 22 health problems related to vitamin D have doubled in a decade)) `
+│   inner_content: `((Incidence of 22 health problems related to vitamin D have doubled in a decade)) `
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Incidence of 22 health problems related to vitamin D have doubled in a decade))`
+│   │   inner_content: `Incidence of 22 health problems related to vitamin D have doubled in a decade`
+│   │   page: `Incidence of 22 health problems related to vitamin D have doubled in a decade`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Incidence of 22 health problems related to vitamin D have doubled in a decade`
+│   │   │   inner_content: `Incidence of 22 health problems related to vitamin D have doubled in a decade`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Vitamin D reduced so low that Victorian age diseases are returning))`
+│   inner_content: `((Vitamin D reduced so low that Victorian age diseases are returning))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D reduced so low that Victorian age diseases are returning))`
+│   │   inner_content: `Vitamin D reduced so low that Victorian age diseases are returning`
+│   │   page: `Vitamin D reduced so low that Victorian age diseases are returning`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D reduced so low that Victorian age diseases are returning`
+│   │   │   inner_content: `Vitamin D reduced so low that Victorian age diseases are returning`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2296|Reasons for low response by vitamin D level in the blood]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2296|Reasons for low response by vitamin D level in the blood]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2296|Reasons for low response by vitamin D level in the blood]`
+│   │   inner_content: `Reasons for low response by vitamin D level in the blood`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2296`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Reasons for low response by vitamin D level in the blood`
+│   │   │   inner_content: `Reasons for low response by vitamin D level in the blood`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014))`
+│   inner_content: `((3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014))`
+│   │   inner_content: `3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014`
+│   │   page: `3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014`
+│   │   │   inner_content: `3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Only half as many people had &gt;30 ng of vitamin D 16 years later`
+│   inner_content: `Only half as many people had &gt;30 ng of vitamin D 16 years later`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Only half as many people had &gt;30 ng of vitamin D 16 years later`
+│   │   inner_content: `Only half as many people had &gt;30 ng of vitamin D 16 years later`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**(that was 2004 - How much lower since then?)`
+│   inner_content: `(that was 2004 - How much lower since then?)`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `(that was 2004 - How much lower since then?)`
+│   │   inner_content: `(that was 2004 - How much lower since then?)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+{IMG(fileId=&quot;178&quot;)}{IMG}`
+│   inner_content: `{IMG(fileId=&quot;178&quot;)}{IMG}`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `{IMG(fileId=&quot;178&quot;)}{IMG}`
+│   │   inner_content: `{IMG(fileId=&quot;178&quot;)}{IMG}`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Vitamin D has often decreased over the past 100 years)) ~/tc~`
+│   inner_content: ` (alias(Vitamin D has often decreased over the past 100 years)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Vitamin D has often decreased over the past 100 years)) `
+│   │   inner_content: `(alias(Vitamin D has often decreased over the past 100 years)) `
+
+Original Tiki:
+-------------
+ {DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Perplexity AI - [https://www.perplexity.ai/search/have-vitamin-d-levels-crashed-WefSiBslQbSlMLLhvAVg.w|Nov 2024]
+__Have vitamin D levels crashed (decreased a lot) during the past 100 years?__
+The historical trends in vitamin D levels show a complex pattern of changes over different time periods:
+~~#00F:__Historical Changes__~~
+__Early Industrial Era__
+During the Industrial Revolution in Western Europe, vitamin D levels likely decreased significantly due to air pollution from mills and fossil fuels, which reduced UV light exposure. Workers moving from rural areas to dingy cities had diminished sun exposure, leading to widespread rickets ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC9066576/|2]
+__Late 20th Century Decline__
+A marked decrease in vitamin D levels occurred between 1988-1994 and 2001-2004. Mean serum levels dropped from 28-32 ng/mL to around 24 ng/mL across different age groups~hs~[https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878|1]
+During 2001-2004, 77% of US adolescents and adults had insufficient vitamin D levels~hs~[https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878|1]
+__Recent Improvements__
+From 2001 to 2018, there has been a positive trend:
+*Serum vitamin D levels increased from 65.6 nmol/L to 73.5 nmol/L in US adults~hs~[https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full|4]
+*However, young adults (20-39 years) and those with lower socioeconomic status showed declining levels and increased deficiency rates~hs~[https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full|4]
+~~#00F:__Geographic Variations__~~
+Different regions show varying trends:
+*In Poland, infant vitamin D levels decreased from 129.5 nmol/L (1981-1999) to 72 nmol/L (2010-2011)~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]
+*Iran showed improvement, with levels increasing from 51 nmol/L in 2001 to 62 nmol/L in 2013~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]
+*Some Asian countries have experienced recent declines, possibly due to increased urbanization and air pollution~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/|5]
+Rather than a continuous crash over 100 years, vitamin D levels have fluctuated, with significant decreases during industrialization and the late 20th century, followed by some improvement in recent years, though challenges persist for certain population groups.
+---
+!!!!Claude 3.5 Sonnet - Nov 2024
+... here are some specific numeric comparisons that demonstrate the decline in vitamin D levels, though it&#39;s important to note that historical measurements can be challenging to verify with complete accuracy:
+Traditional/Historical Populations:
+*East African tribes studied in the 1960s-70s showed average vitamin D levels of 115-150 nmol/L (46-60 ng/mL)
+*Maasai herders and other traditional outdoor workers typically showed levels of 100-150 nmol/L (40-60 ng/mL)
+Modern Populations (measured in the last few decades):
+*Average US adult levels: 25-50 nmol/L (10-20 ng/mL)
+*European populations generally show similar or even lower averages
+*Urban office workers often show levels below 30 nmol/L (12 ng/mL)
+Some particularly striking examples:
+*A 2009 study found that about 42% of US adults were vitamin D deficient (&lt;20 ng/mL)
+*Recent studies of indoor workers in developed countries show that up to 80% have insufficient vitamin D levels during winter months
+The most dramatic drops are seen in populations that have rapidly modernized. For example:
+*Studies of traditional societies that have recently urbanized show drops from around 115 nmol/L to 35-40 nmol/L within a single generation
+*Children&#39;s levels have shown particularly sharp declines, with some studies showing modern urban children having less than half the vitamin D levels of their rural counterparts from the 1960s
+---
+!!!!Google Gemini 1.5 Nov 2024 - 5 reasons
+__Have vitamin D levels crashed (decreased a lot) during the past 100 years?__
+Yes, there&#39;s __strong evidence__ suggesting that average vitamin D levels have significantly decreased in many populations over the past 100 years. Several factors contribute to this:
+*Increased indoor time: Modern lifestyles involve spending significantly more time indoors, reducing exposure to sunlight, the primary source of vitamin D synthesis in the body. This is particularly pronounced in higher latitudes with less sunlight throughout the year.
+*Sun protection measures: Increased awareness of skin cancer risks has led to widespread use of sunscreen, which blocks UVB radiation necessary for vitamin D production.
+*Changes in diet: While dietary sources of vitamin D exist, they are often insufficient to meet the body&#39;s needs, especially in populations with limited access to fortified foods.
+*Increased air pollution: Air pollution can reduce the intensity of UVB radiation reaching the earth&#39;s surface, further hindering vitamin D synthesis.
+*Clothing styles: More clothing coverage compared to earlier times, particularly in some cultures, limits sun exposure.
+It&#39;s important to note that the exact extent of the decline varies by geographic location, population group, and time period. Studies comparing vitamin D levels across different generations and populations often show a considerable drop, but pinpointing a precise percentage decrease over the entire 100 years is challenging due to variations in measurement techniques and data availability from the past. __However, the overall trend is clear: a substantial reduction in vitamin D status is a significant public health concern.__
+---
+!!!!VitaminDWiki - ((Many reasons why vitamin D deficiency has become epidemic)) 40 reasons
+__~~#00F:23 of the 40 reasons for Vitamin D deficiency are new~~__
+---
+!!!!VitaminDWiki - ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) ))
+---
+!!!!VitaminDWiki - ((4 Reasons why Vitamin D levels are crashing))
+__Table of Contents as of Nov 2024__
+1) Less sunshine
+2) Less from Food
+3) Decrease in nutrients decreases Vitamin D
+4) Higher % of population with low Vitamin D
+also - Obese, elderly, dark skin, poor health/chronic pain
+{img type=&quot;fileId&quot; fileId=&quot;1843&quot; width=&quot;350&quot; link=&quot;Many reasons why vitamin D deficiency has become epidemic&quot;}
+__&#39;&#39;click on chart for details&#39;&#39;__
+---
+!!!!See also:
+*((Incidence of 22 health problems related to vitamin D have doubled in a decade)) 
+*((Vitamin D reduced so low that Victorian age diseases are returning))
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2296|Reasons for low response by vitamin D level in the blood]
+*((3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014))
++Only half as many people had &gt;30 ng of vitamin D 16 years later
+**(that was 2004 - How much lower since then?)
++{IMG(fileId=&quot;178&quot;)}{IMG}
+~tc~ (alias(Vitamin D has often decreased over the past 100 years)) ~/tc~
+</code>
+</pre>

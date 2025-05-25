@@ -1,0 +1,788 @@
+---
+title: "18 Cancers might be fought by Vitamin D"
+slug: "18-cancers-might-be-fought-by-vitamin-d"
+aliases:
+  - "/18+Cancers+might+be+fought+by+Vitamin+D+–+March+2025"
+  - "/15887"
+tiki_page_id: 15887
+date: 2025-03-12
+---
+
+
+{{< toc >}}
+
+---
+
+#### Mapping the landscape of vitamin D in cancer studies: a systematic global investigation
+
+Journal of Diabetes & Metabolic Disorders Volume 24, article number 78, (2025)
+
+https://doi.org/10.1007/s40200-025-01594-9 PDF is behind $40 paywall
+
+Ali Faryabi, Mohammad Amin Salari, Alaleh Dalvand, Hassan Akbarniakhaky, Ghazal Mohammadi, Hossein Aazami, Farideh Razi & Hojat Dehghanbanadaki 
+
+Purpose
+
+This comprehensive study examines the multifaceted relationship between vitamin D and cancer, synthesizing key scientific advancements and global research trends to guide future investigations and address critical gaps in the field.
+
+Methods
+
+Publications on vitamin D and cancer were retrieved from Scopus up to November 2024. English-language original and review articles were analyzed using Excel, VOSviewer, and Scimago Graphica, focusing on publication trends, citation impacts, and research themes.
+
+Results
+
+A total of 11,442 publications (80.01% original articles, 19.98% reviews; 51.24% open access) were analyzed. The United States of America led in publications (38.3%) and citations (56.2%), followed by China (7.7%) and the United Kingdom (7.2%) in output, and the United Kingdom (10.6%) and Germany (6.4%) in citations. Countries with the highest citations per document were Belgium (103.4), Slovenia (87.9), and Puerto Rico (76.6). 
+
+The most frequently studied cancers in relation to vitamin D were 
+
+* breast, 
+
+* colorectal, 
+
+* prostate, 
+
+* skin, 
+
+* lung, 
+
+* ovarian, 
+
+* pancreatic, 
+
+* gastric, 
+
+* hepatocellular, 
+
+* thyroid, 
+
+* leukemia, 
+
+* multiple myeloma, 
+
+* bladder, 
+
+* lymphoma, 
+
+* osteosarcoma, 
+
+* cervical, 
+
+* endometrial, and 
+
+* glioblastoma, respectively. 
+
+ **Cluster analysis revealed key patterns related to vitamin D:** 
+
+* Calcitriol’s chemopreventive role in breast, prostate, and colorectal cancers, 
+
+* dietary vitamin D for its involvement in ovarian cancer, 
+
+* vitamin D for regulation of cancer-related hypercalcemia, 
+
+* vitamin D deficiency links to inflammation-obesity-cancer risk, 
+
+* VDR polymorphisms affecting outcomes in lung and colorectal cancers, and
+
+* vitamin D’s photoprotective effects on skin malignancies, and 
+
+* vitamin D in ulcerative colitis-related cancer. 
+
+The most cited articles emphasized optimal vitamin D levels and cancer prevention.
+
+Conclusion
+
+This study highlights the extensive research on vitamin D and its complex links to cancer, emphasizing future prospects with a focus on precision medicine approaches, including targeted supplementation and genomic analyses, to better address individual variability in cancer prevention and treatment.
+
+---
+
+#### Vitamin D Cancer trials often fail due to any of 5 reasons
+
+1. Gave too small of dose
+
+1. Gave same size dose to everyone 
+
+> &nbsp; more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.
+
+1. Got most participants above 30 ng level of vitamin D
+
+> &nbsp; but some Cancers, like Breast, are known to need >80 ng
+
+1. Trial lasted only months instead of years - Cancers take many years to develop
+
+1. Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells
+
+1. Trial only used Vitamin D monotherapy
+
+> &nbsp; often need co-factors, such as Omega-3 or <a href="/posts/magnesium-and-cancer-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Cancer - many studies">Magnesium</a> to boost the reponse to Vitamin D
+
+> &nbsp; while also fighting inflammation
+
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Mapping the landscape of vitamin D in cancer studies: a systematic global investigation
+
+Journal of Diabetes &amp; Metabolic Disorders Volume 24, article number 78, (2025)
+
+https://doi.org/10.1007/s40200-025-01594-9 PDF is behind $40 paywall
+
+Ali Faryabi, Mohammad Amin Salari, Alaleh Dalvand, Hassan Akbarniakhaky, Ghazal Mohammadi, Hossein Aazami, Farideh Razi &amp; Hojat Dehghanbanadaki 
+
+Purpose
+
+This comprehensive study examines the multifaceted relationship between vitamin D and cancer, synthesizing key scientific advancements and global research trends to guide future investigations and address critical gaps in the field.
+
+Methods
+
+Publications on vitamin D and cancer were retrieved from Scopus up to November 2024. English-language original and review articles were analyzed using Excel, VOSviewer, and Scimago Graphica, focusing on publication trends, citation impacts, and research themes.
+
+Results
+
+A total of 11,442 publications (80.01% original articles, 19.98% reviews; 51.24% open access) were analyzed. The United States of America led in publications (38.3%) and citations (56.2%), followed by China (7.7%) and the United Kingdom (7.2%) in output, and the United Kingdom (10.6%) and Germany (6.4%) in citations. Countries with the highest citations per document were Belgium (103.4), Slovenia (87.9), and Puerto Rico (76.6). 
+
+The most frequently studied cancers in relation to vitamin D were 
+
+* breast, 
+
+* colorectal, 
+
+* prostate, 
+
+* skin, 
+
+* lung, 
+
+* ovarian, 
+
+* pancreatic, 
+
+* gastric, 
+
+* hepatocellular, 
+
+* thyroid, 
+
+* leukemia, 
+
+* multiple myeloma, 
+
+* bladder, 
+
+* lymphoma, 
+
+* osteosarcoma, 
+
+* cervical, 
+
+* endometrial, and 
+
+* glioblastoma, respectively. 
+
+ **Cluster analysis revealed key patterns related to vitamin D:** 
+
+* Calcitriol’s chemopreventive role in breast, prostate, and colorectal cancers, 
+
+* dietary vitamin D for its involvement in ovarian cancer, 
+
+* vitamin D for regulation of cancer-related hypercalcemia, 
+
+* vitamin D deficiency links to inflammation-obesity-cancer risk, 
+
+* VDR polymorphisms affecting outcomes in lung and colorectal cancers, and
+
+* vitamin D’s photoprotective effects on skin malignancies, and 
+
+* vitamin D in ulcerative colitis-related cancer. 
+
+The most cited articles emphasized optimal vitamin D levels and cancer prevention.
+
+Conclusion
+
+This study highlights the extensive research on vitamin D and its complex links to cancer, emphasizing future prospects with a focus on precision medicine approaches, including targeted supplementation and genomic analyses, to better address individual variability in cancer prevention and treatment.
+
+---
+
+#### Vitamin D Cancer trials often fail due to any of 5 reasons
+
+1. Gave too small of dose
+
+1. Gave same size dose to everyone 
+
+&gt; &amp;nbsp; more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.
+
+1. Got most participants above 30 ng level of vitamin D
+
+&gt; &amp;nbsp; but some Cancers, like Breast, are known to need &gt;80 ng
+
+1. Trial lasted only months instead of years - Cancers take many years to develop
+
+1. Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells
+
+1. Trial only used Vitamin D monotherapy
+
+&gt; &amp;nbsp; often need co-factors, such as Omega-3 or &lt;a href=&quot;/posts/magnesium-and-cancer-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium and Cancer - many studies&quot;&gt;Magnesium&lt;/a&gt; to boost the reponse to Vitamin D
+
+&gt; &amp;nbsp; while also fighting inflammation
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Mapping the landscape of vitamin D in cancer studies: a systematic global investigation`
+│   inner_content: `Mapping the landscape of vitamin D in cancer studies: a systematic global investigation`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Mapping the landscape of vitamin D in cancer studies: a systematic global investigation`
+│   │   inner_content: `Mapping the landscape of vitamin D in cancer studies: a systematic global investigation`├── TextNode
+│   full_match: `\nJournal of Diabetes &amp; Metabolic Disorders Volume 24, article number 78, (2025)\nhttps://doi.org/10.1007/s40200-025-01594-9 PDF is behind $40 paywall\nAli Faryabi, Mohammad Amin Salari, Alaleh Dalvand, Hassan Akbarniakhaky, Ghazal Mohammadi, Hossein Aazami, Farideh Razi &amp; Hojat Dehghanbanadaki \n\nPurpose\nThis comprehensive study examines the multifaceted relationship between vitamin D and cancer, synthesizing key scientific advancements and global research trends to guide future investigations and address critical gaps in the field.\n\nMethods\nPublications on vitamin D and cancer were retrieved from Scopus up to November 2024. English-language original and review articles were analyzed using Excel, VOSviewer, and Scimago Graphica, focusing on publication trends, citation impacts, and research themes.\n\nResults\nA total of 11,442 publications (80.01% original articles, 19.98% reviews; 51.24% open access) were analyzed. The United States of America led in publications (38.3%) and citations (56.2%), followed by China (7.7%) and the United Kingdom (7.2%) in output, and the United Kingdom (10.6%) and Germany (6.4%) in citations. Countries with the highest citations per document were Belgium (103.4), Slovenia (87.9), and Puerto Rico (76.6). \nThe most frequently studied cancers in relation to vitamin D were \n`
+│   inner_content: `\nJournal of Diabetes &amp; Metabolic Disorders Volume 24, article number 78, (2025)\nhttps://doi.org/10.1007/s40200-025-01594-9 PDF is behind $40 paywall\nAli Faryabi, Mohammad Amin Salari, Alaleh Dalvand, Hassan Akbarniakhaky, Ghazal Mohammadi, Hossein Aazami, Farideh Razi &amp; Hojat Dehghanbanadaki \n\nPurpose\nThis comprehensive study examines the multifaceted relationship between vitamin D and cancer, synthesizing key scientific advancements and global research trends to guide future investigations and address critical gaps in the field.\n\nMethods\nPublications on vitamin D and cancer were retrieved from Scopus up to November 2024. English-language original and review articles were analyzed using Excel, VOSviewer, and Scimago Graphica, focusing on publication trends, citation impacts, and research themes.\n\nResults\nA total of 11,442 publications (80.01% original articles, 19.98% reviews; 51.24% open access) were analyzed. The United States of America led in publications (38.3%) and citations (56.2%), followed by China (7.7%) and the United Kingdom (7.2%) in output, and the United Kingdom (10.6%) and Germany (6.4%) in citations. Countries with the highest citations per document were Belgium (103.4), Slovenia (87.9), and Puerto Rico (76.6). \nThe most frequently studied cancers in relation to vitamin D were \n`├── ListItemNode
+│   full_match: `*breast, `
+│   inner_content: `breast, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `breast, `
+│   │   inner_content: `breast, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*colorectal, `
+│   inner_content: `colorectal, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `colorectal, `
+│   │   inner_content: `colorectal, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*prostate, `
+│   inner_content: `prostate, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `prostate, `
+│   │   inner_content: `prostate, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*skin, `
+│   inner_content: `skin, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `skin, `
+│   │   inner_content: `skin, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*lung, `
+│   inner_content: `lung, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `lung, `
+│   │   inner_content: `lung, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*ovarian, `
+│   inner_content: `ovarian, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `ovarian, `
+│   │   inner_content: `ovarian, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*pancreatic, `
+│   inner_content: `pancreatic, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `pancreatic, `
+│   │   inner_content: `pancreatic, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*gastric, `
+│   inner_content: `gastric, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `gastric, `
+│   │   inner_content: `gastric, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*hepatocellular, `
+│   inner_content: `hepatocellular, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `hepatocellular, `
+│   │   inner_content: `hepatocellular, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*thyroid, `
+│   inner_content: `thyroid, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `thyroid, `
+│   │   inner_content: `thyroid, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*leukemia, `
+│   inner_content: `leukemia, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `leukemia, `
+│   │   inner_content: `leukemia, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*multiple myeloma, `
+│   inner_content: `multiple myeloma, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `multiple myeloma, `
+│   │   inner_content: `multiple myeloma, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*bladder, `
+│   inner_content: `bladder, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `bladder, `
+│   │   inner_content: `bladder, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*lymphoma, `
+│   inner_content: `lymphoma, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `lymphoma, `
+│   │   inner_content: `lymphoma, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*osteosarcoma, `
+│   inner_content: `osteosarcoma, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `osteosarcoma, `
+│   │   inner_content: `osteosarcoma, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*cervical, `
+│   inner_content: `cervical, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `cervical, `
+│   │   inner_content: `cervical, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*endometrial, and `
+│   inner_content: `endometrial, and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `endometrial, and `
+│   │   inner_content: `endometrial, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*glioblastoma, respectively. `
+│   inner_content: `glioblastoma, respectively. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `glioblastoma, respectively. `
+│   │   inner_content: `glioblastoma, respectively. `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Cluster analysis revealed key patterns related to vitamin D: __`
+│   inner_content: `Cluster analysis revealed key patterns related to vitamin D: `
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cluster analysis revealed key patterns related to vitamin D: `
+│   │   inner_content: `Cluster analysis revealed key patterns related to vitamin D: `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Calcitriol’s chemopreventive role in breast, prostate, and colorectal cancers, `
+│   inner_content: `Calcitriol’s chemopreventive role in breast, prostate, and colorectal cancers, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Calcitriol’s chemopreventive role in breast, prostate, and colorectal cancers, `
+│   │   inner_content: `Calcitriol’s chemopreventive role in breast, prostate, and colorectal cancers, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*dietary vitamin D for its involvement in ovarian cancer, `
+│   inner_content: `dietary vitamin D for its involvement in ovarian cancer, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `dietary vitamin D for its involvement in ovarian cancer, `
+│   │   inner_content: `dietary vitamin D for its involvement in ovarian cancer, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*vitamin D for regulation of cancer-related hypercalcemia, `
+│   inner_content: `vitamin D for regulation of cancer-related hypercalcemia, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `vitamin D for regulation of cancer-related hypercalcemia, `
+│   │   inner_content: `vitamin D for regulation of cancer-related hypercalcemia, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*vitamin D deficiency links to inflammation-obesity-cancer risk, `
+│   inner_content: `vitamin D deficiency links to inflammation-obesity-cancer risk, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `vitamin D deficiency links to inflammation-obesity-cancer risk, `
+│   │   inner_content: `vitamin D deficiency links to inflammation-obesity-cancer risk, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*VDR polymorphisms affecting outcomes in lung and colorectal cancers, and`
+│   inner_content: `VDR polymorphisms affecting outcomes in lung and colorectal cancers, and`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VDR polymorphisms affecting outcomes in lung and colorectal cancers, and`
+│   │   inner_content: `VDR polymorphisms affecting outcomes in lung and colorectal cancers, and`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*vitamin D’s photoprotective effects on skin malignancies, and `
+│   inner_content: `vitamin D’s photoprotective effects on skin malignancies, and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `vitamin D’s photoprotective effects on skin malignancies, and `
+│   │   inner_content: `vitamin D’s photoprotective effects on skin malignancies, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*vitamin D in ulcerative colitis-related cancer. `
+│   inner_content: `vitamin D in ulcerative colitis-related cancer. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `vitamin D in ulcerative colitis-related cancer. `
+│   │   inner_content: `vitamin D in ulcerative colitis-related cancer. `├── TextNode
+│   full_match: `\nThe most cited articles emphasized optimal vitamin D levels and cancer prevention.\n\nConclusion\nThis study highlights the extensive research on vitamin D and its complex links to cancer, emphasizing future prospects with a focus on precision medicine approaches, including targeted supplementation and genomic analyses, to better address individual variability in cancer prevention and treatment.`
+│   inner_content: `\nThe most cited articles emphasized optimal vitamin D levels and cancer prevention.\n\nConclusion\nThis study highlights the extensive research on vitamin D and its complex links to cancer, emphasizing future prospects with a focus on precision medicine approaches, including targeted supplementation and genomic analyses, to better address individual variability in cancer prevention and treatment.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Cancer)) category contains:`
+│   inner_content: `VitaminDWiki – ((Cancer)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Cancer))`
+│   │   inner_content: `Cancer`
+│   │   page: `Cancer`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cancer`
+│   │   │   inner_content: `Cancer`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Cancer
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Cancer - After diagnosis)) category contains:`
+│   inner_content: `VitaminDWiki – ((Cancer - After diagnosis)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Cancer - After diagnosis))`
+│   │   inner_content: `Cancer - After diagnosis`
+│   │   page: `Cancer - After diagnosis`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cancer - After diagnosis`
+│   │   │   inner_content: `Cancer - After diagnosis`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Cancer - After diagnosis&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Cancer - After diagnosis&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Cancer - After diagnosis
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D Cancer trials often fail due to any of 5 reasons`
+│   inner_content: `Vitamin D Cancer trials often fail due to any of 5 reasons`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D Cancer trials often fail due to any of 5 reasons`
+│   │   inner_content: `Vitamin D Cancer trials often fail due to any of 5 reasons`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(style=&quot;font-size:18px;&quot;)}\n#Gave too small of dose\n#Gave same size dose to everyone \n+ ~hs~ more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.\n#Got most participants above 30 ng level of vitamin D\n+ ~hs~ but some Cancers, like Breast, are known to need &gt;80 ng\n#Trial lasted only months instead of years - Cancers take many years to develop\n#Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells\n#Trial only used Vitamin D monotherapy\n+ ~hs~ often need co-factors, such as Omega-3 or ((Magnesium and Cancer - many studies|Magnesium)) to boost the reponse to Vitamin D\n+ ~hs~ while also fighting inflammation\n{DIV}`
+│   inner_content: `\n#Gave too small of dose\n#Gave same size dose to everyone \n+ ~hs~ more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.\n#Got most participants above 30 ng level of vitamin D\n+ ~hs~ but some Cancers, like Breast, are known to need &gt;80 ng\n#Trial lasted only months instead of years - Cancers take many years to develop\n#Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells\n#Trial only used Vitamin D monotherapy\n+ ~hs~ often need co-factors, such as Omega-3 or ((Magnesium and Cancer - many studies|Magnesium)) to boost the reponse to Vitamin D\n+ ~hs~ while also fighting inflammation\n`
+│   attrs_dict:
+│   │   raw_content: (style=&quot;font-size:18px;&quot;)
+│   │   style: font-size:18px;
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── NumListItemNode
+│   │   full_match: `#Gave too small of dose`
+│   │   inner_content: `Gave too small of dose`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Gave too small of dose`
+│   │   │   inner_content: `Gave too small of dose`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── NumListItemNode
+│   │   full_match: `#Gave same size dose to everyone `
+│   │   inner_content: `Gave same size dose to everyone `
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Gave same size dose to everyone `
+│   │   │   inner_content: `Gave same size dose to everyone `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+ ~hs~ more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.`
+│   │   inner_content: ` ~hs~ more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.`
+│   │   level: `1`
+│   │   children:
+│   │   ├── HorizontalSpaceNode
+│   │   │   full_match: `~hs~`
+│   │   │   inner_content: ``
+│   │   │   repetitions: `1`
+│   │   ├── TextNode
+│   │   │   full_match: ` more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.`
+│   │   │   inner_content: ` more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── NumListItemNode
+│   │   full_match: `#Got most participants above 30 ng level of vitamin D`
+│   │   inner_content: `Got most participants above 30 ng level of vitamin D`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Got most participants above 30 ng level of vitamin D`
+│   │   │   inner_content: `Got most participants above 30 ng level of vitamin D`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+ ~hs~ but some Cancers, like Breast, are known to need &gt;80 ng`
+│   │   inner_content: ` ~hs~ but some Cancers, like Breast, are known to need &gt;80 ng`
+│   │   level: `1`
+│   │   children:
+│   │   ├── HorizontalSpaceNode
+│   │   │   full_match: `~hs~`
+│   │   │   inner_content: ``
+│   │   │   repetitions: `1`
+│   │   ├── TextNode
+│   │   │   full_match: ` but some Cancers, like Breast, are known to need &gt;80 ng`
+│   │   │   inner_content: ` but some Cancers, like Breast, are known to need &gt;80 ng`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── NumListItemNode
+│   │   full_match: `#Trial lasted only months instead of years - Cancers take many years to develop`
+│   │   inner_content: `Trial lasted only months instead of years - Cancers take many years to develop`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Trial lasted only months instead of years - Cancers take many years to develop`
+│   │   │   inner_content: `Trial lasted only months instead of years - Cancers take many years to develop`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── NumListItemNode
+│   │   full_match: `#Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells`
+│   │   inner_content: `Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells`
+│   │   │   inner_content: `Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── NumListItemNode
+│   │   full_match: `#Trial only used Vitamin D monotherapy`
+│   │   inner_content: `Trial only used Vitamin D monotherapy`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Trial only used Vitamin D monotherapy`
+│   │   │   inner_content: `Trial only used Vitamin D monotherapy`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+ ~hs~ often need co-factors, such as Omega-3 or ((Magnesium and Cancer - many studies|Magnesium)) to boost the reponse to Vitamin D`
+│   │   inner_content: ` ~hs~ often need co-factors, such as Omega-3 or ((Magnesium and Cancer - many studies|Magnesium)) to boost the reponse to Vitamin D`
+│   │   level: `1`
+│   │   children:
+│   │   ├── HorizontalSpaceNode
+│   │   │   full_match: `~hs~`
+│   │   │   inner_content: ``
+│   │   │   repetitions: `1`
+│   │   ├── TextNode
+│   │   │   full_match: ` often need co-factors, such as Omega-3 or `
+│   │   │   inner_content: ` often need co-factors, such as Omega-3 or `
+│   │   ├── AliasedLocalLinkNode
+│   │   │   full_match: `((Magnesium and Cancer - many studies|Magnesium))`
+│   │   │   inner_content: `Magnesium and Cancer - many studies|Magnesium`
+│   │   │   page: `Magnesium and Cancer - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Magnesium and Cancer - many studies|Magnesium`
+│   │   │   │   inner_content: `Magnesium and Cancer - many studies|Magnesium`
+│   │   ├── TextNode
+│   │   │   full_match: ` to boost the reponse to Vitamin D`
+│   │   │   inner_content: ` to boost the reponse to Vitamin D`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+ ~hs~ while also fighting inflammation`
+│   │   inner_content: ` ~hs~ while also fighting inflammation`
+│   │   level: `1`
+│   │   children:
+│   │   ├── HorizontalSpaceNode
+│   │   │   full_match: `~hs~`
+│   │   │   inner_content: ``
+│   │   │   repetitions: `1`
+│   │   ├── TextNode
+│   │   │   full_match: ` while also fighting inflammation`
+│   │   │   inner_content: ` while also fighting inflammation`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Mapping the landscape of vitamin D in cancer studies: a systematic global investigation
+Journal of Diabetes &amp; Metabolic Disorders Volume 24, article number 78, (2025)
+ https://doi.org/10.1007/s40200-025-01594-9 PDF is behind $40 paywall
+Ali Faryabi, Mohammad Amin Salari, Alaleh Dalvand, Hassan Akbarniakhaky, Ghazal Mohammadi, Hossein Aazami, Farideh Razi &amp; Hojat Dehghanbanadaki 
+
+Purpose
+This comprehensive study examines the multifaceted relationship between vitamin D and cancer, synthesizing key scientific advancements and global research trends to guide future investigations and address critical gaps in the field.
+
+Methods
+Publications on vitamin D and cancer were retrieved from Scopus up to November 2024. English-language original and review articles were analyzed using Excel, VOSviewer, and Scimago Graphica, focusing on publication trends, citation impacts, and research themes.
+
+Results
+A total of 11,442 publications (80.01% original articles, 19.98% reviews; 51.24% open access) were analyzed. The United States of America led in publications (38.3%) and citations (56.2%), followed by China (7.7%) and the United Kingdom (7.2%) in output, and the United Kingdom (10.6%) and Germany (6.4%) in citations. Countries with the highest citations per document were Belgium (103.4), Slovenia (87.9), and Puerto Rico (76.6). 
+The most frequently studied cancers in relation to vitamin D were 
+*breast, 
+*colorectal, 
+*prostate, 
+*skin, 
+*lung, 
+*ovarian, 
+*pancreatic, 
+*gastric, 
+*hepatocellular, 
+*thyroid, 
+*leukemia, 
+*multiple myeloma, 
+*bladder, 
+*lymphoma, 
+*osteosarcoma, 
+*cervical, 
+*endometrial, and 
+*glioblastoma, respectively. 
+__Cluster analysis revealed key patterns related to vitamin D: __
+*Calcitriol’s chemopreventive role in breast, prostate, and colorectal cancers, 
+*dietary vitamin D for its involvement in ovarian cancer, 
+*vitamin D for regulation of cancer-related hypercalcemia, 
+*vitamin D deficiency links to inflammation-obesity-cancer risk, 
+*VDR polymorphisms affecting outcomes in lung and colorectal cancers, and
+*vitamin D’s photoprotective effects on skin malignancies, and 
+*vitamin D in ulcerative colitis-related cancer. 
+The most cited articles emphasized optimal vitamin D levels and cancer prevention.
+
+Conclusion
+This study highlights the extensive research on vitamin D and its complex links to cancer, emphasizing future prospects with a focus on precision medicine approaches, including targeted supplementation and genomic analyses, to better address individual variability in cancer prevention and treatment.
+---
+!!!!VitaminDWiki – ((Cancer)) category contains:
+{include page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Cancer - After diagnosis)) category contains:
+{include page=&quot;Cancer - After diagnosis&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!Vitamin D Cancer trials often fail due to any of 5 reasons
+{DIV(style=&quot;font-size:18px;&quot;)}
+#Gave too small of dose
+#Gave same size dose to everyone 
++ ~hs~ more is needed by obese, dark skinned, elderly, poor health, poor gut, etc.
+#Got most participants above 30 ng level of vitamin D
++ ~hs~ but some Cancers, like Breast, are known to need &gt;80 ng
+#Trial lasted only months instead of years - Cancers take many years to develop
+#Trial only measured blood levels - 6 genes restrict how much Vitamin D gets to the Cancer cells
+#Trial only used Vitamin D monotherapy
++ ~hs~ often need co-factors, such as Omega-3 or ((Magnesium and Cancer - many studies|Magnesium)) to boost the reponse to Vitamin D
++ ~hs~ while also fighting inflammation
+{DIV}
+</code>
+</pre>

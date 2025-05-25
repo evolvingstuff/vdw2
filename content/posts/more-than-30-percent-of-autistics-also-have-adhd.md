@@ -1,0 +1,605 @@
+---
+title: "More than 30% of Autistics also have ADHD"
+slug: "more-than-30-percent-of-autistics-also-have-adhd"
+aliases:
+  - "/More+than+30+of+Autistics+also+have+ADHD+-+Nov+2024"
+  - "/15664"
+tiki_page_id: 15664
+date: 2024-11-12
+---
+
+
+{{< toc >}}
+
+---
+
+#### Both have a high risk of a poor KDM6B gene, which is associated with poor Vitamin D Receptor
+
+ **[Perplexity AI - Nov 2024](https://www.perplexity.ai/search/what-of-people-with-adhd-also-VA_jP.vUS2Cam3aCED1JhQ)** 
+
+---
+
+#### I’ve lived with ADHD and autism all my life – this is what it’s like to have both - Nov 2024
+
+ **[Telegraph](https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/living-with-audhd-autism-and-adhd/?WT.mc_id=e_DM452483&WT.tsrc=email&etype=Edi_Hea_New&utmsource=email&utm_medium=Edi_Hea_New20241112&utm_campaign=DM452483)** 
+
+* "Until 2013, autism and ADHD couldn’t be diagnosed in the same person. Today, researchers have found that there is a 50 to 70 per cent crossover between these neurodevelopmental conditions, which is increasingly being referred to as  **AuDHD** ."
+
+* "Autistic women are twice as likely as autistic men to attempt suicide, with autistic people nine times more likely to die by suicide than the general population."
+
+* "Nearly one in four women with ADHD have attempted suicide, with a five times higher risk of suicide linked to the condition."
+
+ **The typical traits of someone with AuDHD**  By Dr Becky Quicke, a clinical psychologist
+
+* Enjoying the fun and stimulation of being with others whilst also feeling socially anxious and awkward and being extremely exhausted afterwards.
+
+* Having a strong need for predictability whilst also easily becoming bored of routines.
+
+* Having lots of ideas but wanting everything to be done to perfection, so you feel stuck and do nothing.
+
+* Going “all in” on a hobby, interest or passion, but frequently changing focus.
+
+* Desperately wanting to complete tasks but struggling with procrastination, or getting into the zone.
+
+* A quick thinking brain that reads the situation extremely quickly so nobody would ever guess the anxiety and confusion underneath.
+
+* Craving excitement but getting easily overwhelmed, so struggling with both understimulation and overstimulation.
+
+   * See: [https://autisticwomen.co.uk](https://autisticwomen.co.uk)
+
+---
+
+### Venn diagram of ADHD and Autism
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/adhd-autism.jpg" alt="image" width="650">
+
+[click here for source of blue venn diagram](https://neurodivergentinsights.com/misdiagnosis-monday/adhd-vs-autism)
+
+---
+
+#### Both Autism and ADHD are treated by Vitamin D, Omega-3, Magnesium, and activators of the vitamin D receptor
+
+---
+
+#### Note: A person with good blood level of Vitamin D can have a poor cell level if there is poor activation of the Vitamin D Receptor
+
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Both have a high risk of a poor KDM6B gene, which is associated with poor Vitamin D Receptor
+
+ **[Perplexity AI - Nov 2024](https://www.perplexity.ai/search/what-of-people-with-adhd-also-VA_jP.vUS2Cam3aCED1JhQ)** 
+
+---
+
+#### I’ve lived with ADHD and autism all my life – this is what it’s like to have both - Nov 2024
+
+ **[Telegraph](https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/living-with-audhd-autism-and-adhd/?WT.mc_id=e_DM452483&amp;WT.tsrc=email&amp;etype=Edi_Hea_New&amp;utmsource=email&amp;utm_medium=Edi_Hea_New20241112&amp;utm_campaign=DM452483)** 
+
+* &quot;Until 2013, autism and ADHD couldn’t be diagnosed in the same person. Today, researchers have found that there is a 50 to 70 per cent crossover between these neurodevelopmental conditions, which is increasingly being referred to as  **AuDHD** .&quot;
+
+* &quot;Autistic women are twice as likely as autistic men to attempt suicide, with autistic people nine times more likely to die by suicide than the general population.&quot;
+
+* &quot;Nearly one in four women with ADHD have attempted suicide, with a five times higher risk of suicide linked to the condition.&quot;
+
+ **The typical traits of someone with AuDHD**  By Dr Becky Quicke, a clinical psychologist
+
+* Enjoying the fun and stimulation of being with others whilst also feeling socially anxious and awkward and being extremely exhausted afterwards.
+
+* Having a strong need for predictability whilst also easily becoming bored of routines.
+
+* Having lots of ideas but wanting everything to be done to perfection, so you feel stuck and do nothing.
+
+* Going “all in” on a hobby, interest or passion, but frequently changing focus.
+
+* Desperately wanting to complete tasks but struggling with procrastination, or getting into the zone.
+
+* A quick thinking brain that reads the situation extremely quickly so nobody would ever guess the anxiety and confusion underneath.
+
+* Craving excitement but getting easily overwhelmed, so struggling with both understimulation and overstimulation.
+
+   * See: [https://autisticwomen.co.uk](https://autisticwomen.co.uk)
+
+---
+
+### Venn diagram of ADHD and Autism
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/adhd-autism.jpg&quot; alt=&quot;image&quot; width=&quot;650&quot;&gt;
+
+[click here for source of blue venn diagram](https://neurodivergentinsights.com/misdiagnosis-monday/adhd-vs-autism)
+
+---
+
+#### Both Autism and ADHD are treated by Vitamin D, Omega-3, Magnesium, and activators of the vitamin D receptor
+
+---
+
+#### Note: A person with good blood level of Vitamin D can have a poor cell level if there is poor activation of the Vitamin D Receptor
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Both have a high risk of a poor KDM6B gene, which is associated with poor Vitamin D Receptor`
+│   inner_content: `Both have a high risk of a poor KDM6B gene, which is associated with poor Vitamin D Receptor`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Both have a high risk of a poor KDM6B gene, which is associated with poor Vitamin D Receptor`
+│   │   inner_content: `Both have a high risk of a poor KDM6B gene, which is associated with poor Vitamin D Receptor`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.perplexity.ai/search/what-of-people-with-adhd-also-VA_jP.vUS2Cam3aCED1JhQ|Perplexity AI - Nov 2024]__`
+│   inner_content: `[https://www.perplexity.ai/search/what-of-people-with-adhd-also-VA_jP.vUS2Cam3aCED1JhQ|Perplexity AI - Nov 2024]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/what-of-people-with-adhd-also-VA_jP.vUS2Cam3aCED1JhQ|Perplexity AI - Nov 2024]`
+│   │   inner_content: `Perplexity AI - Nov 2024`
+│   │   url: `https://www.perplexity.ai/search/what-of-people-with-adhd-also-VA_jP.vUS2Cam3aCED1JhQ`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity AI - Nov 2024`
+│   │   │   inner_content: `Perplexity AI - Nov 2024`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!I’ve lived with ADHD and autism all my life – this is what it’s like to have both - Nov 2024`
+│   inner_content: `I’ve lived with ADHD and autism all my life – this is what it’s like to have both - Nov 2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `I’ve lived with ADHD and autism all my life – this is what it’s like to have both - Nov 2024`
+│   │   inner_content: `I’ve lived with ADHD and autism all my life – this is what it’s like to have both - Nov 2024`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/living-with-audhd-autism-and-adhd/?WT.mc_id=e_DM452483&amp;WT.tsrc=email&amp;etype=Edi_Hea_New&amp;utmsource=email&amp;utm_medium=Edi_Hea_New20241112&amp;utm_campaign=DM452483|Telegraph]__`
+│   inner_content: `[https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/living-with-audhd-autism-and-adhd/?WT.mc_id=e_DM452483&amp;WT.tsrc=email&amp;etype=Edi_Hea_New&amp;utmsource=email&amp;utm_medium=Edi_Hea_New20241112&amp;utm_campaign=DM452483|Telegraph]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/living-with-audhd-autism-and-adhd/?WT.mc_id=e_DM452483&amp;WT.tsrc=email&amp;etype=Edi_Hea_New&amp;utmsource=email&amp;utm_medium=Edi_Hea_New20241112&amp;utm_campaign=DM452483|Telegraph]`
+│   │   inner_content: `Telegraph`
+│   │   url: `https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/living-with-audhd-autism-and-adhd/?WT.mc_id=e_DM452483&amp;WT.tsrc=email&amp;etype=Edi_Hea_New&amp;utmsource=email&amp;utm_medium=Edi_Hea_New20241112&amp;utm_campaign=DM452483`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Telegraph`
+│   │   │   inner_content: `Telegraph`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*&quot;Until 2013, autism and ADHD couldn’t be diagnosed in the same person. Today, researchers have found that there is a 50 to 70 per cent crossover between these neurodevelopmental conditions, which is increasingly being referred to as __AuDHD__.&quot;`
+│   inner_content: `&quot;Until 2013, autism and ADHD couldn’t be diagnosed in the same person. Today, researchers have found that there is a 50 to 70 per cent crossover between these neurodevelopmental conditions, which is increasingly being referred to as __AuDHD__.&quot;`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;Until 2013, autism and ADHD couldn’t be diagnosed in the same person. Today, researchers have found that there is a 50 to 70 per cent crossover between these neurodevelopmental conditions, which is increasingly being referred to as `
+│   │   inner_content: `&quot;Until 2013, autism and ADHD couldn’t be diagnosed in the same person. Today, researchers have found that there is a 50 to 70 per cent crossover between these neurodevelopmental conditions, which is increasingly being referred to as `
+│   ├── BoldNode
+│   │   full_match: `__AuDHD__`
+│   │   inner_content: `AuDHD`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `AuDHD`
+│   │   │   inner_content: `AuDHD`
+│   ├── TextNode
+│   │   full_match: `.&quot;`
+│   │   inner_content: `.&quot;`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*&quot;Autistic women are twice as likely as autistic men to attempt suicide, with autistic people nine times more likely to die by suicide than the general population.&quot;`
+│   inner_content: `&quot;Autistic women are twice as likely as autistic men to attempt suicide, with autistic people nine times more likely to die by suicide than the general population.&quot;`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;Autistic women are twice as likely as autistic men to attempt suicide, with autistic people nine times more likely to die by suicide than the general population.&quot;`
+│   │   inner_content: `&quot;Autistic women are twice as likely as autistic men to attempt suicide, with autistic people nine times more likely to die by suicide than the general population.&quot;`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*&quot;Nearly one in four women with ADHD have attempted suicide, with a five times higher risk of suicide linked to the condition.&quot;`
+│   inner_content: `&quot;Nearly one in four women with ADHD have attempted suicide, with a five times higher risk of suicide linked to the condition.&quot;`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;Nearly one in four women with ADHD have attempted suicide, with a five times higher risk of suicide linked to the condition.&quot;`
+│   │   inner_content: `&quot;Nearly one in four women with ADHD have attempted suicide, with a five times higher risk of suicide linked to the condition.&quot;`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__The typical traits of someone with AuDHD__`
+│   inner_content: `The typical traits of someone with AuDHD`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The typical traits of someone with AuDHD`
+│   │   inner_content: `The typical traits of someone with AuDHD`├── TextNode
+│   full_match: ` By Dr Becky Quicke, a clinical psychologist\n`
+│   inner_content: ` By Dr Becky Quicke, a clinical psychologist\n`├── ListItemNode
+│   full_match: `*Enjoying the fun and stimulation of being with others whilst also feeling socially anxious and awkward and being extremely exhausted afterwards.`
+│   inner_content: `Enjoying the fun and stimulation of being with others whilst also feeling socially anxious and awkward and being extremely exhausted afterwards.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Enjoying the fun and stimulation of being with others whilst also feeling socially anxious and awkward and being extremely exhausted afterwards.`
+│   │   inner_content: `Enjoying the fun and stimulation of being with others whilst also feeling socially anxious and awkward and being extremely exhausted afterwards.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Having a strong need for predictability whilst also easily becoming bored of routines.`
+│   inner_content: `Having a strong need for predictability whilst also easily becoming bored of routines.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Having a strong need for predictability whilst also easily becoming bored of routines.`
+│   │   inner_content: `Having a strong need for predictability whilst also easily becoming bored of routines.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Having lots of ideas but wanting everything to be done to perfection, so you feel stuck and do nothing.`
+│   inner_content: `Having lots of ideas but wanting everything to be done to perfection, so you feel stuck and do nothing.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Having lots of ideas but wanting everything to be done to perfection, so you feel stuck and do nothing.`
+│   │   inner_content: `Having lots of ideas but wanting everything to be done to perfection, so you feel stuck and do nothing.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Going “all in” on a hobby, interest or passion, but frequently changing focus.`
+│   inner_content: `Going “all in” on a hobby, interest or passion, but frequently changing focus.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Going “all in” on a hobby, interest or passion, but frequently changing focus.`
+│   │   inner_content: `Going “all in” on a hobby, interest or passion, but frequently changing focus.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Desperately wanting to complete tasks but struggling with procrastination, or getting into the zone.`
+│   inner_content: `Desperately wanting to complete tasks but struggling with procrastination, or getting into the zone.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Desperately wanting to complete tasks but struggling with procrastination, or getting into the zone.`
+│   │   inner_content: `Desperately wanting to complete tasks but struggling with procrastination, or getting into the zone.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*A quick thinking brain that reads the situation extremely quickly so nobody would ever guess the anxiety and confusion underneath.`
+│   inner_content: `A quick thinking brain that reads the situation extremely quickly so nobody would ever guess the anxiety and confusion underneath.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A quick thinking brain that reads the situation extremely quickly so nobody would ever guess the anxiety and confusion underneath.`
+│   │   inner_content: `A quick thinking brain that reads the situation extremely quickly so nobody would ever guess the anxiety and confusion underneath.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Craving excitement but getting easily overwhelmed, so struggling with both understimulation and overstimulation.`
+│   inner_content: `Craving excitement but getting easily overwhelmed, so struggling with both understimulation and overstimulation.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Craving excitement but getting easily overwhelmed, so struggling with both understimulation and overstimulation.`
+│   │   inner_content: `Craving excitement but getting easily overwhelmed, so struggling with both understimulation and overstimulation.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**See: [https://autisticwomen.co.uk]`
+│   inner_content: `See: [https://autisticwomen.co.uk]`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See: `
+│   │   inner_content: `See: `
+│   ├── LinkNode
+│   │   full_match: `[https://autisticwomen.co.uk]`
+│   │   inner_content: `https://autisticwomen.co.uk`
+│   │   url: `https://autisticwomen.co.uk`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://autisticwomen.co.uk`
+│   │   │   inner_content: `https://autisticwomen.co.uk`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Autism)) category contains:`
+│   inner_content: `VitaminDWiki – ((Autism)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Autism))`
+│   │   inner_content: `Autism`
+│   │   page: `Autism`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Autism`
+│   │   │   inner_content: `Autism`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Autism&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Autism&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Autism
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 167 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Autism and ADHD`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 167 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Autism and ADHD`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 167 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 167 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `       studies in both categories Autism and ADHD`
+│   │   inner_content: `       studies in both categories Autism and ADHD`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;66+167&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;66+167&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 66+167
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!Venn diagram of ADHD and Autism`
+│   inner_content: `Venn diagram of ADHD and Autism`
+│   level: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Venn diagram of ADHD and Autism`
+│   │   inner_content: `Venn diagram of ADHD and Autism`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;19551&quot; width=&quot;650&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;19551&quot; width=&quot;650&quot;
+│   │   type: attId
+│   │   attId: 19551
+│   │   width: 650├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LinkNode
+│   full_match: `[https://neurodivergentinsights.com/misdiagnosis-monday/adhd-vs-autism|click here for source of blue venn diagram]`
+│   inner_content: `click here for source of blue venn diagram`
+│   url: `https://neurodivergentinsights.com/misdiagnosis-monday/adhd-vs-autism`
+│   children:
+│   ├── TextNode
+│   │   full_match: `click here for source of blue venn diagram`
+│   │   inner_content: `click here for source of blue venn diagram`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Both Autism and ADHD are treated by Vitamin D, Omega-3, Magnesium, and activators of the vitamin D receptor `
+│   inner_content: `Both Autism and ADHD are treated by Vitamin D, Omega-3, Magnesium, and activators of the vitamin D receptor`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Both Autism and ADHD are treated by Vitamin D, Omega-3, Magnesium, and activators of the vitamin D receptor`
+│   │   inner_content: `Both Autism and ADHD are treated by Vitamin D, Omega-3, Magnesium, and activators of the vitamin D receptor`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Autism and Vitamin D Receptor`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Autism and Vitamin D Receptor`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `       studies in both categories Autism and Vitamin D Receptor`
+│   │   inner_content: `       studies in both categories Autism and Vitamin D Receptor`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;66+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;66+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 66+142
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 167 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories ADHD and Vitamin D Receptor`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 167 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories ADHD and Vitamin D Receptor`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 167 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 167 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `       studies in both categories ADHD and Vitamin D Receptor`
+│   │   inner_content: `       studies in both categories ADHD and Vitamin D Receptor`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;167+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;167+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 167+142
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│   inner_content: `VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D Receptor))`
+│   │   inner_content: `Vitamin D Receptor`
+│   │   page: `Vitamin D Receptor`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Receptor`
+│   │   │   inner_content: `Vitamin D Receptor`
+│   ├── TextNode
+│   │   full_match: ` activation can be increased in many ways`
+│   │   inner_content: ` activation can be increased in many ways`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;
+│   │   page: Vitamin D Receptor
+│   │   start: ~tc~ startact ~/tc~
+│   │   stop: ~tc~ endact ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Note: A person with good blood level of Vitamin D can have a poor cell level if there is poor activation of the Vitamin D Receptor`
+│   inner_content: `Note: A person with good blood level of Vitamin D can have a poor cell level if there is poor activation of the Vitamin D Receptor`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note: A person with good blood level of Vitamin D can have a poor cell level if there is poor activation of the Vitamin D Receptor`
+│   │   inner_content: `Note: A person with good blood level of Vitamin D can have a poor cell level if there is poor activation of the Vitamin D Receptor`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Both have a high risk of a poor KDM6B gene, which is associated with poor Vitamin D Receptor
+__[https://www.perplexity.ai/search/what-of-people-with-adhd-also-VA_jP.vUS2Cam3aCED1JhQ|Perplexity AI - Nov 2024]__
+---
+!!!!I’ve lived with ADHD and autism all my life – this is what it’s like to have both - Nov 2024
+__[https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/living-with-audhd-autism-and-adhd/?WT.mc_id=e_DM452483&amp;WT.tsrc=email&amp;etype=Edi_Hea_New&amp;utmsource=email&amp;utm_medium=Edi_Hea_New20241112&amp;utm_campaign=DM452483|Telegraph]__
+*&quot;Until 2013, autism and ADHD couldn’t be diagnosed in the same person. Today, researchers have found that there is a 50 to 70 per cent crossover between these neurodevelopmental conditions, which is increasingly being referred to as __AuDHD__.&quot;
+*&quot;Autistic women are twice as likely as autistic men to attempt suicide, with autistic people nine times more likely to die by suicide than the general population.&quot;
+*&quot;Nearly one in four women with ADHD have attempted suicide, with a five times higher risk of suicide linked to the condition.&quot;
+__The typical traits of someone with AuDHD__ By Dr Becky Quicke, a clinical psychologist
+*Enjoying the fun and stimulation of being with others whilst also feeling socially anxious and awkward and being extremely exhausted afterwards.
+*Having a strong need for predictability whilst also easily becoming bored of routines.
+*Having lots of ideas but wanting everything to be done to perfection, so you feel stuck and do nothing.
+*Going “all in” on a hobby, interest or passion, but frequently changing focus.
+*Desperately wanting to complete tasks but struggling with procrastination, or getting into the zone.
+*A quick thinking brain that reads the situation extremely quickly so nobody would ever guess the anxiety and confusion underneath.
+*Craving excitement but getting easily overwhelmed, so struggling with both understimulation and overstimulation.
+**See: [https://autisticwomen.co.uk]
+---
+!!!!VitaminDWiki – ((Autism)) category contains:
+{include page=&quot;Autism&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 167 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Autism and ADHD
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;66+167&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!Venn diagram of ADHD and Autism
+{img type=&quot;attId&quot; attId=&quot;19551&quot; width=&quot;650&quot;}
+[https://neurodivergentinsights.com/misdiagnosis-monday/adhd-vs-autism|click here for source of blue venn diagram]
+---
+!!!!Both Autism and ADHD are treated by Vitamin D, Omega-3, Magnesium, and activators of the vitamin D receptor 
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 66 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Autism and Vitamin D Receptor
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;66+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 167 OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories ADHD and Vitamin D Receptor
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;167+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways
+{include page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;}
+---
+!!!!Note: A person with good blood level of Vitamin D can have a poor cell level if there is poor activation of the Vitamin D Receptor
+
+
+</code>
+</pre>

@@ -1,0 +1,6296 @@
+---
+title: "Diabetes and Zinc - several studies"
+slug: "diabetes-and-zinc-several-studies"
+aliases:
+  - "/Diabetes+and+Zinc+-+several+studies"
+  - "/15646"
+tiki_page_id: 15646
+date: 2024-10-28
+---
+
+
+{{< toc >}}
+
+---
+
+#### Zinc and Diabetes: A Connection between Micronutrient and Metabolism - Aug  2024
+
+Cells 2024, 13(16), 1359; https://doi.org/10.3390/cells13161359
+
+by Rahnuma Ahmad 1ORCID,Ronald Shaju 2ORCID, Azeddine Atfi 3 and Mohammed S. Razzaque 2,*ORCID
+
+* 1 Department of Physiology, Medical College for Women and Hospital, Dhaka 1230, Bangladesh
+
+* 2 Department of Medical Education, School of Medicine, University of Texas Rio Grande Valley (UTRGV), Edinburg, TX 78541, USA
+
+* 3 Department of Biochemistry and Molecular Biology, Massey Cancer Center, Virginia Commonwealth University, Richmond, VA 23298, USA
+
+Diabetes mellitus is a global health problem and a major contributor to mortality and morbidity. The management of this condition typically involves using oral antidiabetic medication, insulin, and appropriate dietary modifications, with a focus on macronutrient intake. However, several human studies have indicated that a deficiency in micronutrients, such as zinc, can be associated with insulin resistance as well as greater glucose intolerance. Zinc serves as a chemical messenger, acts as a cofactor to increase enzyme activity, and is involved in insulin formation, release, and storage. These diverse functions make zinc an important trace element for the regulation of blood glucose levels. Adequate zinc levels have also been shown to reduce the risk of developing diabetic complications. This review article explains the role of zinc in glucose metabolism and the effects of its inadequacy on the development, progression, and complications of diabetes mellitus. Furthermore, it describes the impact of zinc supplementation on preventing diabetes mellitus. The available information suggests that zinc has beneficial effects on the management of diabetic patients. Although additional large-scale randomized clinical trials are needed to establish zinc’s clinical utility further, efforts should be made to increase awareness of its potential benefits on human health and disease.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/zinc-and-diabetes-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+##### 129 References
+
+1. Holt, R.I.; DeVries, J.H.; Hess-Fischl, A.; Hirsch, I.B.; Kirkman, M.S.; Klupa, T.; Ludwig, B.; Norgaard, K.; Pettus, J.; Renard, E.; et al. The management of type 1 diabetes in adults. A consensus report by the American diabetes association (ADA) and the European association for the Study of Diabetes (EASD). Diabetes Care 2021, 44, 2589-2625. <span>[CrossRef]</span>
+
+1. ElSayed, N.A.; Aleppo, G.; Aroda, V.R.; Bannuru, R.R.; Brown, F.M.; Bruemmer, D.; Collins, B.S.; Gaglia, J.L.; Hilliard, M.E.; Isaacs, D.; et al. Classification and diagnosis of diabetes: Standards of Care in Diabetes. Diabetes Care 2022, 46, S19-S40. <span>[CrossRef]</span>
+
+1. Hasanato, R.M. Trace elements in type 2 diabetes mellitus and their association with glycemic control. Afr. Health Sci. 2020, 20, 287-293. <span>[CrossRef]</span>
+
+1. Farooq, M. **Zinc**  deficiency is associated with poor glycemic control. J. Coll. Physicians Surg. Pak. 2019,29, 253-257. <span>[CrossRef]</span>
+
+1. Tamura, Y. The role of **Zinc**  homeostasis in the prevention of diabetes mellitus and cardiovascular diseases. J. Atheroscler. Thromb 28,1109-1122. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Maret, W. **Zinc**  in pancreatic islet biology, insulin sensitivity, and diabetes. Prev. Nutr. Food Sci. 2017, 22,1-8. <span>[CrossRef]</span>
+
+1. Blakemore, L.J.; Trombley, P.Q. **Zinc**  as a neuromodulator in the central nervous system with a focus on the olfactory bulb. Front. Cell. Neurosci. 2017, H, 297. <span>[CrossRef]</span>
+
+1. Lim, K.H.C.; Riddell, L.J.; Nowson, C.A.; Booth, A.O.; Szymlek-Gay, E.A. Iron and **Zinc**  nutrition in the economically-developed world: A review. Nutrients 2013, 5, 3184-3211. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Saper, R.B.; Rash, R. **Zinc** : An essential micronutrient. Am. Fam. Physician 2009, 79, 768-772. <span>[PubMed]</span>
+
+1. Santos, H.O.; Teixeira, F.J.; Schoenfeld, B.J. Dietary vs. pharmacological doses of **Zinc** : A clinical review. Clin. Nutr. 2020, 39, 1345-1353. <span>[CrossRef]</span>
+
+1. DRI Dietary Reference Intakes. Applications in Dietary Assessment: Washington, DC, USA, 2000. <span>[CrossRef]</span>
+
+1. Szewczyk, B. **Zinc**  homeostasis and neurodegenerative disorders. Front. Aging Neurosci. 2013, 5, 54272. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Wang, L.J.; Wang, M.Q.; Hu, R.; Yang, Y.; Huang, Y.S.; Xian, S.X.; Lu, L. Effect of **Zinc**  supplementation on maintenance Hemodialysis Patients: A systematic review and meta-analysis of 15 randomized controlled trials. BioMed Res. Int. 2017, 2017,1024769. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Ranasinghe, P.; Wathurapatha, W.; Ishara, M.; Jayawardana, R.; Galappatthy, P.; Katulanda, P.; Constantine, G. Effects of **Zinc**  supplementation on serum lipids: A systematic review and meta-analysis. Nutr. Metab. 2015,12,1-16. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Wegmuller, R.; Tay, F.; Zeder, C.; Brnic, M.; Hurrell, R.F. **Zinc**  absorption by young adults from supplemental **Zinc**  citrate is comparable with that from **Zinc**  gluconate and higher than from **Zinc**  oxide. J. Nutr. 2014,144,132-136. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Shkembi, B.; Huppertz, T. Influence of dairy products on bioavailability of **Zinc**  from other food products: A Review of complementarity at a meal level. Nutrients 2021,13, 4253. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Fairweather-Tait, S.; Hurrell, R.F. Bioavailability of minerals and trace elements. Nutr. Res. Rev. 1996, 9, 295-324. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Roohani, N.; Hurrell, R.; Kelishadi, R.; Schulin, R. **Zinc**  and its importance for human health: An integrative review. J. Res. Med. Sci. 2013,18,144-157. <span>[PubMed]</span>
+
+1. Johnson, P.E.; Hunt, C.D.; Milne, D.B.; Mullen, L.K. Homeostatic control of **Zinc**  metabolism in men: **Zinc**  excretion and balance in men fed diets low in **Zinc** . Am. J. Clin. Nutr. 1993, 57, 557-565. <span>[CrossRef]</span>
+
+1. King, J.C.; Shames, D.M.; Woodhouse, L.R. **Zinc**  homeostasis in humans. J. Nutr. 2000,130,1360S-1366S. <span>[CrossRef]</span>
+
+1. Wan, Y.; Zhang, B. The impact of **Zinc**  and **Zinc**  homeostasis on the intestinal mucosal barrier and intestinal diseases. Biomolecules
+
+1. 12, 900. <span>[CrossRef]</span>
+
+1. Nutrition and Food Safety (NFS). Vitamin and Mineral Requirements in Human Nutrition; World Health Organization and Food and Agricultural Organization of the United Nations: Geneva, Switzerland, 2004; ISBN 9241546123.
+
+1. Turnlund, J.R.; King, J.C.; Keyes, W.R.; Gong, B.; Michel, M.C. A stable isotope study of **Zinc**  absorption in young men: Effects of phytate and a-cellulose. Am. J. Clin. Nutr. 1984, 40,1071-1077. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Krebs, N.F. Overview of **Zinc**  absorption and excretion in the human gastrointestinal Tract. J. Nutr. 2000, 130, 1374S-1377S. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Tubek, S. Selected **Zinc**  metabolism parameters in premenopausal and postmenopausal women with moderate and severe primary arterial hypertension. Biol. Trace Elem. Res. 2007,116,249-255. <span>[CrossRef]</span>
+
+1. Brown, K.H.; Rivera, J.A.; Bhutta, Z.; Gibson, R.S.; King, J.C.; Lonnerdal, B.; Ruel, M.T.; Sandtrom, B.; Wasantwisut, E.; Hotz, C. International **Zinc**  Nutrition Consultative Group (IZiNCG) technical document #Assessment of the risk of **Zinc**  deficiency in populations and options for its control. Food Nutr. Bull. 2004, 25, S99-S203. <span>[PubMed]</span>
+
+1. Devergnas, S.; Chimienti, F.; Naud, N.; Pennequin, A.; Coquerel, Y.; Chantegrel, J.; Favier, A.; Seve, M. Differential regulation of **Zinc**  efflux transporters ZnT-1, ZnT-5 and ZnT-7 gene expression by **Zinc**  levels: A real-time RT-PCR study. Biochem. Pharmacol. 2004, 68, 699-709. <span>[CrossRef]</span>
+
+1. Sekler, I.; Sensi, S.L.; Hershfinkel, M.; Silverman, W.F. Mechanism and regulation of cellular **Zinc**  transport. Mol. Med. 2007,13, 337-343. <span>[CrossRef]</span>
+
+1. Liuzzi, J.P.; Cousins, R.J. Mammalian **Zinc**  transporters. Annu. Rev. Nutr. 2004, 24,151-172. <span>[CrossRef]</span>
+
+1. McMahon, R.J.; Cousins, R.J. Mammalian **Zinc**  transporters. J. Nutr. 1998,128, 667-670. <span>[CrossRef]</span>
+
+1. McMahon, R.J.; Cousins, R.J. Regulation of the **Zinc**  transporter ZnT-1 by dietary **Zinc** . Proc. Natl. Acad. Sci. USA 1998, 95, 4841-4846. <span>[CrossRef]</span>
+
+1. Maret, W. **Zinc**  in cellular regulation: The nature and significance of "zinc signals". Int. J. Mol. Sci. 2017,18, 2285. <span>[CrossRef]</span>
+
+1. Razzaque, M.S. COVID-19 pandemic: Can **Zinc**  supplementation provide an additional shield against the infection? Comput. Struct. Biotechnol. J. 2021,19,1371-1378. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Razzaque, M.S. COVID-19 Pandemic: Can maintaining optimal **Zinc**  balance enhance host resistance? Tohoku J. Exp. Med. 2020, 251,175-181. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Andreini, C.; Banci, L.; Bertini, I.; Rosato, A. counting the **Zinc** -proteins encoded in the human genome. J. Proteome Res. 2006, 5, 196-201. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. King, J.C. **Zinc** : An essential but elusive nutrient. Am. J. Clin. Nutr. 2011, 94, 679S-684S. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Jones, S.; Farr, G.; Nimmanon, T.; Ziliotto, S.; Gee, J.M.W.; Taylor, K.M. The importance of targeting signalling mechanisms of the SLC39A family of **Zinc**  transporters to inhibit endocrine resistant breast cancer. Explor. Target. Antitumor 2022, 3, 224-239. <span>[CrossRef]</span>
+
+1. Maywald, M.; Rink, L. **Zinc**  in human health and infectious diseases. Biomolecules 2022,12,1748. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Bitirim, C.V. The role of **Zinc**  transporter proteins as predictive and prognostic biomarkers of hepatocellular cancer. Peer] 2021, 9, e12314. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Fong, L.Y.; Farber, J.L.; Croce, C.M. **Zinc**  intake, microRNA dysregulation, and esophageal cancer. Aging 2016, 8, 1161-1162. <span>[CrossRef]</span>
+
+1. MacKenzie, S.; Bergdahl, A. **Zinc**  homeostasis in diabetes mellitus and vascular complications. Biomedicines 2022, 10, 139. <span>[CrossRef]</span>
+
+1. Wessels, I.; Maywald, M.; Rink, L. **Zinc**  as a gatekeeper of immune function. Nutrients 2017, 9,1286. <span>[CrossRef]</span>
+
+1. Uwitonze, A.M.; Ojeh, N.; Murererehe, J.; Atfi, A.; Razzaque, M.S. **Zinc**  adequacy is essential for the maintenance of optimal oral health. Nutrients 2020,12, 949. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Amos, A.; Razzaque, M.S. **Zinc**  and its role in vitamin D function. Curr. Res. Physiol. 2022, 5, 203-207. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Olechnowicz, J.; Tinkov, A.; Skalny, A.; Suliburska, J. **Zinc**  status is associated with inflammation, oxidative stress, lipid, and glucose metabolism. J. Physiol. Sci. 2018, 68,19-31. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Fukunaka, A.; Fujitani, Y. Role of **Zinc**  homeostasis in the pathogenesis of diabetes and obesity. Int. J. Mol. Sci. 2018,19, 476. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Coulston, L.; Dandona, P. Insulin-like effect of **Zinc**  on adipocytes. Diabetes 1998,29, 665-667. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Khorsandi, H.; Nikpayam, O.; Yousefi, R.; Parandoosh, M.; Hosseinzadeh, N.; Saidpour, A.; Ghorbani, A. **Zinc**  supplementation improves body weight management, inflammatory biomarkers and insulin resistance in individuals with obesity: A randomized, placebo-controlled, double-blind trial. Diabetol. Metab. Syndr. 2019,11,1-10. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Abdollahi, S.; Toupchian, O.; Jayedi, A.; Meyre, D.; Tam, V.; Soltani, S. **Zinc**  supplementation and body weight: A systematic review and dose-response meta-analysis of randomized controlled trials. Adv. Nutr. Int. Rev. J. 2020,11, 398-411. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Franco, C.; Canzoniero, L.M.T. **Zinc**  homeostasis and redox alterations in obesity. Front. Endocrinol. 2024,14,1273177. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Park, J.H.; Grandjean, C.J.; Antonson, D.L.; Vanderhoof, J.A. Effects of short-term isolated **Zinc**  deficiency on intestinal growth and activities of several brush border enzymes in weaning rats. Pediatr. Res. 1985,19,1333-1336. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Shankar, A.H.; Prasad, A.S. **Zinc**  and immune function: The biological basis of altered resistance to infection. Am. J. Clin. Nutr. 1998, 68, 447S-463S. <span>[CrossRef]</span>
+
+1. Hassan, A.; Sada, K.K.; Ketheeswaran, S.; Dubey, A.K.; Bhat, M.S. Role of **Zinc**  in mucosal health and disease: A review of physiological, biochemical, and molecular processes. Cureus 2020,12, e8197. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Prasad, A.S.; Bao, B.; Beck, F.W.; Sarkar, F.H. **Zinc** -suppressed inflammatory cytokines by induction of A20-mediated inhibition of nuclear factor-kappaB. Nutrition 2011,27, 816-823. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Prasad, A.S.; Bao, B.; Beck, F.W.; Kucuk, O.; Sarkar, F.H. Antioxidant effect of **Zinc**  in humans. Free. Radic. Biol. Med. 2004, 37, 1182-1190. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. von Bulow, V.; Dubben, S.; Engelhardt, G.; Hebel, S.; Plumakers, B.; Heine, H.; Rink, L.; Haase, H. **Zinc** -dependent suppression of TNF-alpha production is mediated by protein kinase A-induced inhibition of Raf-1, I kappa B kinase beta, and NF-kappa B. J. Immunol. 2007,179, 4180-4186. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Brieger, A.; Rink, L.; Haase, H. Differential regulation of TLR-dependent MyD88 and TRIF signaling pathways by free **Zinc**  ions. J. Immunol. 2013,191,1808-1817. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Ferdowsi, P.V.; Ahuja, K.D.K.; Beckett, J.M.; Myers, S. Capsaicin and **Zinc**  signalling pathways as promising targets for managing insulin resistance and type 2 diabetes. Molecules 2023, 28, 2861. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Ranasinghe, P.; Pigera, S.; Galappatthy, P.; Katulanda, P.; Constantine, G.R. **Zinc**  and diabetes mellitus: Understanding molecular mechanisms and clinical implications. DARU J. Pharm. Sci. 2015, 23,1-13. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Kelishadi, R.; Hashemipour, M.; Adeli, K.; Tavakoli, N.; Movahedian-Attar, A.; Shapouri, J.; Poursafa, P.; Rouzbahani, A. Effect of **Zinc**  supplementation on markers of insulin resistance, oxidative stress, and inflammation among prepubescent children with metabolic syndrome. Metab. Syndr. Relat. Disord. 2010, 8, 505-510. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Vardatsikos, G.; Pandey, N.R.; Srivastava, A.K. Insulino-mimetic and anti-diabetic effects of **Zinc** . J. Inorg. Biochem. 2013,120, 8-17. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Chimienti, F. **Zinc** , pancreatic islet cell function and diabetes: New insights into an old story. Nutr. Res. Rev. 2013, 26, 1-11. <span>[CrossRef]</span>
+
+1. Li, Y.V. **Zinc**  and insulin in pancreatic beta-cells. Endocrine 2013, 45,178-189. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Myers, S.A. **Zinc**  transporters and **Zinc**  signaling: New insights into their role in type 2 diabetes. Int. J. Endocrinol. 2015,1-7. <span>[CrossRef]</span>
+
+1. Kambe, T.; Hashimoto, A.; Fujimoto, S. Current understanding of ZIP and ZnT **Zinc**  transporters in human health and diseases. Cell. Mol. Life Sci. 2014, 71, 3281-3295. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Cai, Y.; Kirschke, C.P.; Huang, L. SLC30A family expression in the pancreatic islets of humans and mice: Cellular localization in the beta-cells. J. Mol. Histol. 2018, 49,133-145. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Wijesekara, N.; Dai, F.F.; Hardy, A.B.; Giglou, P.R.; Bhattacharjee, A.; Koshkin, V.; Chimienti, F.; Gaisano, H.Y.; Rutter, G.A.; Wheeler, M.B. Beta cell-specific Znt8 deletion in mice causes marked defects in insulin processing, crystallisation and secretion. Diabetologia 2010, 53,1656-1668. <span>[CrossRef]</span>
+
+1. Davidson, H.W.; Wenzlau, J.M.; O'Brien, R.M. **Zinc**  transporter 8 (ZnT8) and beta cell function. Trends Endocrinol Metab. 2014, 25, 415-424. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Foster, M.; Chu, A.; Petocz, P.; Samman, S. **Zinc**  transporter gene expression and glycemic control in post-menopausal women with type 2 diabetes mellitus. J. Trace Elements Med. Biol. 2014,28, 448-452. <span>[CrossRef]</span>
+
+1. Lefebvre, B.; Vandewalle, B.; Balavoine, A.-S.; Queniat, G.; Moerman, E.; Vantyghem, M.-C.; Le Bacquer, O.; Gmyr, V.; Pawlowski, V.; Kerr-Conte, J.; et al. Regulation and functional effects of ZNT8 in human pancreatic islets. J. Endocrinol. 2012, 214, 225-232. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Cruz, K.J.C.; de Oliveira, A.R.S.; Morais, J.B.S.; Severo, J.S.; Mendes, P.M.V.; Melo, S.R.d.S.; de Sousa, G.S.; Marreiro, D.D.N. **Zinc**  and insulin resistance: Biochemical and molecular aspects. Biol. Trace Elem. Res. 2018,186, 407-412. <span>[CrossRef]</span>
+
+1. Huang, L.; Yan, M.; Kirschke, C.P. Over-expression of ZnT7 increases insulin synthesis and secretion in pancreatic beta-cells by promoting insulin gene transcription. Exp. Cell Res. 2010, 316, 2630-2643. <span>[CrossRef]</span>
+
+1. Xiang, J.; Li, X.-Y.; Xu, M.; Hong, J.; Huang, Y.; Tan, J.-R.; Lu, X.; Dai, M.; Yu, B.; Ning, G. **Zinc**  transporter-8 gene (SLC30A8) is associated with type 2 diabetes in Chinese. J. Clin. Endocrinol. Metab. 2008, 93, 4107-4112. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Salem, S.D.; Saif-Ali, R.; Ismail, I.S.; Al-Hamodi, Z.; Muniandy, S. Contribution of SLC30A8 variants to the risk of type 2 diabetes in a multi-ethnic population: A case control study. BMC Endocr. Disord. 2014,14, 2. <span>[CrossRef]</span>
+
+1. Keller, S.R. Role of the insulin-regulated aminopeptidase IRAP in insulin action and diabetes. Biol. Pharm. Bull. 2004, 27, 761-764. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Walter, P.L.; Kampkotter, A.; Eckers, A.; Barthel, A.; Schmoll, D.; Sies, H.; Klotz, L.-O. Modulation of FoxO signaling in human hepatoma cells by exposure to copper or **Zinc**  ions. Arch. Biochem. Biophys. 2006, 454,107-113. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Tripathy, S.; Sumathi, S.; Raj, G. Minerals nutritional status of type 2 diabetic subjects. Int. J. Diabetes Dev. Ctries. 2003,24, 27-28.
+
+1. Hussein, M.; Fathy, W.; Hassan, A.; Elkareem, R.A.; Marzouk, S.; Kamal, Y.S. **Zinc**  deficiency correlates with severity of diabetic polyneuropathy. Brain Behav. 2021,11, e32349. <span>[CrossRef]</span>
+
+1. Beloucif, A.; Kechrid, Z.; Bekada, A.M.A. Effect of **Zinc**  deficiency on blood glucose, lipid profile, and antioxidant status in streptozotocin diabetic rats and the potential role of sesame oil. Biol. Trace Elem. Res. 2021, 200, 3236-3247. <span>[CrossRef]</span>
+
+1. Maremanda, K.P.; Srivalliputturu, S.B.; Jena, G. **Zinc**  deficient diet exacerbates the testicular and epididymal damage in type 2 diabetic rat: Studies on oxidative stress-related mechanisms. Reprod. Biol. 2020, 20,191-201. <span>[CrossRef]</span>
+
+1. Sahu, C.; Jena, G. Dietary **Zinc**  deficient condition increases the bisphenol a toxicity in diabetic rat testes. Mutat. Res. Toxicol. Environ. Mutagen. 2022, 882, 503547. <span>[CrossRef]</span>
+
+1. Elsaed, W.M.; Mohamed, H.A. Dietary **Zinc**  modifies diabetic-induced renal pathology in rats. Ren. Fail. 2016, 39, 246-257. <span>[CrossRef]</span>
+
+1. Fushimi, H.; Inoue, T.; Yamada, Y.; Horie, H.; Kameyama, M.; Inoue, K.; Minami, T.; Okazaki, Y. **Zinc**  deficiency exaggerates diabetic osteoporosis. Diabetes Res. Clin. Pr. 1993, 20,191-196. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Kim, H.J.; Vaziri, N.D. Contribution of impaired Nrf2-Keap1 pathway to oxidative stress and inflammation in chronic renal failure. Am. J. Physiol. Physiol. 2010,298, F662-F671. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Suzuki, M.; Betsuyaku, T.; Ito, Y.; Nagai, K.; Nasuhara, Y.; Kaga, K.; Kondo, S.; Nishimura, M. Down-regulated NF-E2-related factor 2 in pulmonary macrophages of aged smokers and patients with chronic obstructive pulmonary disease. Am. J. Respir. Cell Mol. Biol. 2008, 39, 673-682. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Zhang, C.; Lu, X.; Tan, Y.; Li, B.; Miao, X.; Jin, L.; Shi, X.; Zhang, X.; Miao, L.; Li, X.; et al. Diabetes-induced hepatic pathogenic damage, inflammation, oxidative stress, and insulin resistance was exacerbated in **Zinc**  deficient mouse model. PLoS ONE 2012, 7, e49257. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Zhao, Y.; Tan, Y.; Dai, J.; Li, B.; Guo, L.; Cui, J.; Wang, G.; Shi, X.; Zhang, X.; Mellen, N.; et al. Exacerbation of diabetes-induced testicular apoptosis by **Zinc**  deficiency is most likely associated with oxidative stress, p38 MAPK activation, and p53 activation in mice. Toxicol. Lett. 2011, 200,100-106. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Li, B.; Cui, W.; Tan, Y.; Luo, P.; Chen, Q.; Zhang, C.; Qu, W.; Miao, L.; Cai, L. **Zinc**  is essential for the transcription function of Nrf2 in human renal tubule cells in vitro and mouse kidney in vivo under the diabetic condition. J. Cell. Mol. Med. 2014,18, 895-906. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Rashid, S.; Qamar, K.; Tassaduq, I. Role of vitamin E in preventing arteriohyalinization in kidneys of streptozotocin induced diabetic mice. J. Pak. Med. Assoc. 2015, 65,1085-1088.
+
+1. Miao, X.; Sun, W.; Miao, L.; Fu, Y.; Wang, Y.; Su, G.; Liu, Q. **Zinc**  and diabetic retinopathy. J. Diabetes Res. 2013, 425854. <span>[CrossRef]</span>
+
+1. Milnerowicz, H.; Jablonowska, M.; Bizon, A. Change of **Zinc** , copper, and metallothionein concentrations and the copper-zinc superoxide dismutase activity in patients with pancreatitis. Pancreas 2009, 38, 681-688. <span>[CrossRef]</span>
+
+1. Santa, S.R.; Santasmita, P.; Swati, B.; Kanika, C.; Aruna, B.; Gargi, S.; Soma, G. Status of serum magnesium, **Zinc**  and copper in patients suffering from type 2 diabetes mellitus. J. Drug Deliv. Ther. 2014, 4, 70-72. <span>[CrossRef]</span>
+
+1. Saharia, G.K.; Goswami, R.K. Evaluation of serum **Zinc**  status and glycated hemoglobin of type 2 diabetes mellitus patients in a tertiary care hospital of assam. J. Lab. Physicians 2013, 5, 30-33. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Al-Maroof, R.; Al-Sharbatti, S.S. Serum **Zinc**  levels in diabetic patients and effect of **Zinc**  supplementation on glycemic control of type 2 diabetics. Saudi Med. J. 2006, 27, 344-350. <span>[PubMed]</span>
+
+1. Zargar, A.H.; Shah, N.A.; Shah, N.; Masoodi, S.R.; Laway, B.A.; Dar, F.A.; Khan, A.R.; Sofi, F.A.; Wani, A.I. Copper, **Zinc** , and magnesium levels in non-insulin dependent diabetes mellitus. Postgrad. Med. J. 1998, 74, 665-668. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Migdalis, I.N.; Triantafilou, P.; Petridou, E.; Varvarigos, N.; Totolos, V.; Rigopoulos, A. Lipid peroxides in type 2 diabetic patients with neuropathy. Res. Commun. Mol. Pathol. Pharmacol. 2005,117-118,5-12.
+
+1. Jansen, J.; Karges, W.; Rink, L. **Zinc**  and diabetes--clinical links and molecular mechanisms. J. Nutr. Biochem. 2009, 20, 399-417. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Jenner, A.; Ren, M.; Rajendran, R.; Ning, P.; Huat, B.T.K.; Watt, F.; Halliwell, B. **Zinc**  supplementation inhibits lipid peroxidation and the development of atherosclerosis in rabbits fed a high cholesterol diet. Free. Radic. Biol. Med. 2007, 42, 559-566. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Meduri, G.U. Clinical review: A paradigm shift: The bidirectional effect of inflammation on bacterial growth. Clinical implications for patients with acute respiratory distress syndrome. Crit. Care 2002, 6, 24-29. <span>[CrossRef]</span>
+
+1. Jayawardena, R.; Ranasinghe, P.; Galappatthy, P.; Malkanthi, R.; Constantine, G.; Katulanda, P. Effects of **Zinc**  supplementation on diabetes mellitus: A systematic review and meta-analysis. Diabetol. Metab. Syndr. 2012, 4,13. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Afkhami-Ardekani, M.; Karimi, M.; Mohammadi, S.; Forough, N. Effect of **Zinc**  sulfate supplementation on lipid and glucose in type 2 diabetic patients. Pak. J. Nitr. 2008, 7, 550-553. <span>[CrossRef]</span>
+
+1. Farvid, M.S.; Homayouni, F.; Amiri, Z.; Adelmanesh, F. Improving neuropathy scores in type 2 diabetic patients using micronutri­ents supplementation. Diabetes Res. Clin. Pract. 2011, 93, 86-94. <span>[CrossRef]</span>
+
+1. Farvid, M.S.; Jalali, M.; Siassi, F.; Hosseini, M. Comparison of the effects of vitamins and/or mineral supplementation on glomerular and tubular dysfunction in type 2 diabetes. Diabetes Care 2005, 28, 2458-2464. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Blood sugar lowering effect of **Zinc**  and multi vitamin/ mineral supplementation is dependent on initial fasting blood glucose. J. Diabetol. 2011, 2. <span>[CrossRef]</span>
+
+1. Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Effects of **Zinc**  and multimineral vitamin supplementation on glycemic and lipid control in adult diabetes. Diabetes Metab. Syndr. Obes. Targets Ther. 2011, 4, 53-60. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Hayee, M.A.; Mohammad, Q.D.; Haque, A. Diabetic neuropathy and **Zinc**  therapy. Bangladesh Med. Res. Counc. Bull. 2005, 31, 62-67. <span>[PubMed]</span>
+
+1. Gupta, R.; Garg, V.K.; Mathur, D.K.; Goyal, R.K. Oral **Zinc**  therapy in diabetic neuropathy. J. Assoc. Physicians India 1998, 46, 939-942.
+
+1. Hegazi, S.M.; Ahmed, S.S.; Mekkawy, A.A.; Mortagy, M.S.; Abdel-Kadder, M. Effect of **Zinc**  supplementation on serum glucose, insulin, glucagon, glucose-6-phosphatase, and mineral levels in diabetics. J. Clin. Biochem. Nutr. 1992,12, 209-215. <span>[CrossRef]</span>
+
+1. Hussain, S.A.; Khadim, H.M.; Khalaf, B.H.; Ismail, S.H.; Hussein, K.I.; Sahib, A.S. Effects of melatonin and **Zinc**  on glycemic control in type 2 diabetic patients poorly controlled with metformin. Saudi Med. J. 2006, 27,1483-1488.
+
+1. Kadhim, H.M.; Ismail, S.H.; Hussein, K.I.; Bakir, I.H.; Sahib, A.S.; Khalaf, B.H.; Hussain, S.A.-R. Effects of melatonin and **Zinc**  on lipid profile and renal function in type 2 diabetic patients poorly controlled with metformin. J. Pineal Res. 2006, 41,189-193. <span>[CrossRef]</span>
+
+1. Parham, M.; Amini, M.; Aminorroaya, A.; Heidarian, E. Effect of **Zinc**  supplementation on microalbuminuria in patients with type 2 diabetes: A double blind, randomized, placebo-controlled, cross-over trial. Rev. Diabet. Stud. 2008,5,102-109. <span>[CrossRef]</span>
+
+1. Partida-Hernández, G.; Arreola, F.; Fenton, B.; Cabeza, M.; Román-Ramos, R.; Revilla-Monsalve, M. Effect of **Zinc**  replacement on lipids and lipoproteins in type 2-diabetic patients. Biomed. Pharmacother. 2006, 60,161-168. <span>[CrossRef]</span>
+
+1. Siddique, K.U.; Ashfaq, F.; Ali, W.; Reddy, H.D.; Mishra, A.; Khan, M.I. Effect of high-dose **Zinc**  supplementation with oral hypoglycemic agents on glycemic control and inflammation in type-2 diabetic nephropathy patients. J. Nat. Sci. Biol. Med. 2013, 4, 336-340. <span>[CrossRef]</span>
+
+1. Simon, S.F.; Taylor, C.G. Dietary **Zinc**  supplementation attenuates hyperglycemia in db/db Mice. Exp. Biol. Med. 2001, 226,43-51. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. El-Ashmony, S.M.A.; Morsi, H.K.; Abdelhafez, A.M. Effect of **Zinc**  supplementation on glycemic control, lipid profile, and renal functions in patients with type II diabetes: A single blinded, randomized, placebo-controlled, trial. J. Biol. Agric. Health 2012, 2, 33-41.
+
+1. Foster, M.; Petocz, P.; Samman, S. Effects of **Zinc**  on plasma lipoprotein cholesterol concentrations in humans: A meta-analysis of randomised controlled trials. Atherosclerosis 2010,210, 344-352. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Foster, M.; Petocz, P.; Caterson, I.; Samman, S. Effects of **Zinc**  and a-linolenic acid supplementation on glycemia and lipidemia in women with type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled trial. J. Diabetes Res. Clin. Metab. 2013, 9, 1-9. <span>[CrossRef]</span>
+
+1. Lee, Y.M.; Wolf, P.; Hauner, H.; Skurk, T. Effect of a fermented dietary supplement containing chromium and **Zinc**  on metabolic control in patients with type 2 diabetes: A randomized, placebo-controlled, double-blind cross-over study. Food Nutr. Res. 2016, 60, 30298. <span>[CrossRef]</span>
+
+1. Oh, H.-M.; Yoon, J.-S. Glycemic control of type 2 diabetic patients after short-term **Zinc**  supplementation. Nutr. Res. Pr. 2008, 2, 283-288. <span>[CrossRef]</span>
+
+1. Seet, R.C.; Lee, C.-Y.J.; Lim, E.C.; Quek, A.M.; Huang, H.; Huang, S.H.; Looi, W.F.; Long, L.H.; Halliwell, B. Oral **Zinc**  supplementa­tion does not improve oxidative stress or vascular function in patients with type 2 diabetes with normal **Zinc**  levels. Atherosclerosis 2011, 219, 231-239. <span>[CrossRef]</span>
+
+1. Wang, X.; Wu, W.; Zheng, W.; Fang, X.; Chen, L.; Rink, L.; Min, J.; Wang, F. **Zinc**  supplementation improves glycemic control for diabetes prevention and management: A systematic review and meta-analysis of randomized controlled trials. Am. J. Clin. Nutr. 2019,110, 76-90. <span>[CrossRef]</span>
+
+1. Foster, M.; Samman, S. **Zinc**  and redox signaling: Perturbations associated with cardiovascular disease and diabetes mellitus. Antioxid. Redox Signal. 2010,13,1549-1573. <span>[CrossRef]</span>
+
+1. Hughes, S.; Samman, S. The effect of **Zinc**  supplementation in humans on plasma lipids, antioxidant status and thrombogenesis. J. Am. Coll. Nutr. 2006, 25, 285-291. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Jafarnejad, S.; Mahboobi, S.; McFarland, L.V.; Taghizadeh, M.; Rahimi, F. Meta-analysis: Effects of **Zinc**  supplementation alone or with multi-nutrients, on glucose control and lipid levels in patients with type 2 diabetes. Prev. Nutr. Food Sci. 2019,24, 8-23. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Chandra, R.K. Excessive intake of **Zinc**  impairs immune responses. JAMA 1984, 252,1443-1446. <span>[CrossRef]</span> <span>[PubMed]</span>
+
+1. Donangelo, C.M.; Woodhouse, L.R.; King, S.M.; Viteri, F.E.; King, J.C. Supplemental **Zinc**  lowers measures of iron status in young women with low iron reserves. J. Nutr. 2002,132,1860-1864. <span>[CrossRef]</span>
+
+1. Galvez-Fernandez, M.; Powers, M.; Grau-Perez, M.; Domingo-Relloso, A.; Lolacono, N.; Goessler, W.; Zhang, Y.; Fretts, A.; Umans, J.G.; Maruthur, N.; et al. Urinary **Zinc**  and incident type 2 diabetes: Prospective evidence from the strong heart study. Diabetes Care 2022, 45, 2561-2569. <span>[CrossRef]</span>
+
+1. Alexander, R.; Khaja, A.; Debiec, N.; Fazioli, A.; Torrance, M.; Razzaque, M.S. Health-promoting benefits of lentils: Anti­inflammatory and anti-microbial effects. Curr. Res. Physiol. 2024, 7,100124. <span>[CrossRef]</span>
+
+1. Razzaque, M.S. Magnesium: Are we consuming enough? Nutrients 2018,10,1863. <span>[CrossRef]</span>
+
+---
+
+#### Effect of zinc supplementation in the management of type 2 diabetes: A grading of recommendations assessment, development, and evaluation-assessed, dose-response meta-analysis of randomized controlled trials - May 2023
+
+Critical Reviews in Food Science and Nutrition  
+
+&nbsp; &nbsp; https://doi.org/10.1080/10408398.2023.2209802  **PDF behind $61 paywall** 
+
+Kimia Ghaedi ORCID Icon,Dorsa Ghasempour ORCID Icon,Mohammadreza Jowshan ORCID Icon,Miaobing Zheng ORCID Icon,Saeed Ghobadi ORCID Icon & Alireza Jafari ORCID Icon
+
+The question of whether zinc supplementation may improve cardio-metabolic health in patients with type 2 diabetes mellitus (T2DM) remains controversial and require further evaluation. This study aimed to summarize the effectiveness of oral zinc supplementation in improving cardio-metabolic risk markers in people with T2DM. We searched PubMed, Scopus, and Web of Science from inception to April 2023, for randomized controlled trials (RCTs). RCTs of type 2 diabetic adults (aged ≥18 years) comparing zinc supplementation with placebo were included. We excluded studies if not randomized, involved co-supplementation, and were conducted in children or pregnant women. Glycemic indices, lipid profiles, blood pressure, anthropometric measure, c-reactive protein (CRP), creatinine, and serum zinc were extracted. Certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methods. We used a random-effect model to perform the dose-response analysis. Effect sizes were presented as mean difference (MD) and 95% confidence interval (CI). 22 studies (n = 1442 participants) were included. The certainty of the evidence was rated as moderate to high. 
+
+Zinc supplementation significantly reduced glycemic indices: including two-hour postprandial glucose (2hpp) (mean difference (MD): −34.34 mg/dl; 95%CI: −51.61∼ −17.07), fast blood sugar (FBS) (MD: −23.32 mg/dl; 95% CI: −33.81∼ −12.83), and hemoglobin A1c (HbA1c) (MD: −0.47; 95% CI: −0.71∼ −0.23). 
+
+Zinc had a favorable effect on lipid profiles low-density lipoprotein (LDL) (MD: −10.76 mg/dl; CI: −17.79∼−3.73), triglyceride (TG) (MD: −18.23 mg/dl; CI: −32.81∼−3.65), total cholesterol (TC) (MD: −12.74 mg/dl; CI: −21.68∼−3.80), VLDL (MD: −5.39 mg/dl; CI: −7.35∼−3.43) and high-density lipoprotein (HDL) (MD: 4.04 mg/dl; CI: 0.96 ∼ 7.12). Systolic blood pressure (SBP) (MD): −3.64 mmHg; 95% CI: −6.77∼ −0.52), weight (MD: 1.00 kg; 95% CI: 0.34∼1.66), CRP (MD: −3.37 mg/l, 95% CI: −4.05∼ −2.70), and serum zinc (MD: 15.38 µg/dl; 95% CI: 10.74∼ 20.02) changed to a statistically significant extent with zinc supplementation. There was also a linear association between additional 10 mg/d zinc treatment with FBS, HbA1c, HDL, LDL, TG, TC, and serum zinc. A non-linear dose-response gradient was seen for FBS, HDL, and SBP (p < 0.05). Egger’s test showed no substantial publication bias. 
+
+ **Our findings strongly suggest a potential beneficial effect of zinc supplementation on type 2 diabetic patients.**  Further high-quality research is needed to determine the optimal form, dosage, and duration of zinc supplementation for this population.
+
+---
+
+#### Zinc Supplementation in Individuals with Prediabetes and type 2 Diabetes: a GRADE-Assessed Systematic Review and Dose-Response Meta-analysis - Oct 2023
+
+Biological Trace Element Research Volume 202, pages 2966–2990, (2024)
+
+&nbsp; &nbsp; https://doi.org/10.1007/s12011-023-03895-7  **PDF behind paywall** 
+
+Matin Nazari, Mahlagha Nikbaf-Shandiz, Fereshteh Pashayee-Khamene, Reza Bagheri, Kian Goudarzi, Navid Vahid Hosseinnia, Sina Dolatshahi, Hossein Salehi Omran, Niusha Amirani, Damoon Ashtary-larky, 
+
+Zinc supplementation has therapeutic effects on cardiovascular disease (CVD) risk factors, including dyslipidemia, hyperglycemia, and inflammation as the main contributors to CVD pathogenesis. Since CVD is a major cause of mortality among people with type 2 diabetes mellitus (T2DM), this study aimed to overview the potential effects of zinc supplementation on CVD risk factors in T2DM patients. To determine appropriate randomized clinical trials (RCTs) investigating the effects of zinc supplementation on CVD risk factors, electronic sources including PubMed, Web of Science, and Scopus were systematically searched until January 2023. The heterogeneity of trials was checked using the I2 statistic. According to the heterogeneity tests, random-effects models were estimated, and pooled data were defined as the weighted mean difference (WMD) with a 95% confidence interval (CI). 
+
+Of the 4004 initial records, 23 studies that met inclusion criteria were analyzed in this meta-analysis. The pooled findings indicated the significant lowering effects of zinc supplementation on triglycerides (TG), total cholesterol (TC), fasting blood glucose (FBG), hemoglobin A1C (HbA1C), and C-reactive protein (CRP), while high-density cholesterol (HDL) concentrations showed an elevation after zinc supplementation. In addition to statistical significance, the effect of zinc supplementation on most of the variables was clinically significant; however, the quality of evidence in the included studies is regarded as low or very low for most variables. 
+
+Our study demonstrated that zinc supplementation has beneficial effects on glycemic control markers, lipid profile, and CRP levels as a classic marker of inflammation in T2DM. Due to the high degree of heterogeneity between studies and the low rate of quality in them, further well-designed studies are necessitated to strengthen our findings.
+
+---
+
+#### The Role of Zinc Homeostasis in the Prevention of Diabetes Mellitus and Cardiovascular Diseases
+
+Journal of Atherosclerosis and Thrombosis [https://doi.org/10.5551/jat.RV17057](https://doi.org/10.5551/jat.RV17057)
+
+Yukinori Tamura
+
+Zinc is an essential micronutrient for human health and is involved in various biological functions, such as growth, metabolism, and immune function. In recent years, research on intracellular zinc dynamics has progressed, and it has become clear that zinc transporters strictly control intracellular zinc localization, zinc regulates the functions of various proteins and signal transduction pathways as a second messenger similar to calcium ions, and intracellular zinc dyshomeostasis is associated with impaired insulin synthesis, secretion, sensitivity, lipid metabolism, and vascular function. Numerous animal and human studies have shown that zinc deficiency may be associated with the risk factors for diabetes and cardiovascular diseases (CVDs) and zinc administration might be beneficial for the prevention and treatment of these diseases. Therefore, an understanding of zinc biology may help the establishment of novel strategies for the prevention and treatment of diabetes and CVDs. This review will summarize the current knowledge on the role of zinc homeostasis in the pathogenesis of diabetes and atherosclerosis and will discuss the potential of zinc in the prevention of these diseases.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/stoke-guidelines---80-preventable-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Diabetes and zinc dyshomeostasis: Can zinc supplementation mitigate diabetic complications? - 2022
+
+Critical Reviews in Food Science and Nutrition https://doi.org/10.1080/10408398.2020.1833178
+
+Susmita Barman &Krishnapura Srinivasan
+
+##### Overview: Diabetes with and without Zinc
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/zinc-diabetes-sci-hub.webp" alt="image" width="600">
+
+##### Diabetes with and without Zinc
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/diabestes-with-and-without-zinc.webp" alt="image" width="700">
+
+##### Human Diabetes and Zinc studies
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/dm-zinc-and-humans.webp" alt="image" width="800">
+
+##### Proven benefits of Zinc on Diabetes
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/proven-benefits-of-zinc-on-dm.webp" alt="image" width="500">
+
+Zinc present in the islet cells of the pancreas is crucial for the synthesis, storage, and secretion of insulin. The excretion of large amounts of zinc from the body is reported in diabetic situations. Zinc depletion and increased oxidative stress have a major impact on the pathogenesis of diabetic complications. It would be most relevant to ascertain if intervention with supplemental zinc compensating for its depletion would beneficially mitigate hyperglycemia and the attendant metabolic abnormalities, and secondary complications in diabetes. An exhaustive literature search on this issue indicates: 
+
+* (1) Concurrent hypozincemia and decreased tissue zinc stores in diabetes as a result of its increased urinary excretion and/or decreased intestinal absorption, 
+
+* (2) Several recent experimental studies have documented that supplemental zinc has a potential hypoglycemic effect in the diabetic situation, and also beneficially modulate the attendant metabolic abnormalities and compromised antioxidant status, and 
+
+* (3) Supplemental zinc also alleviates renal lesions, cataract and the risk of cardiovascular disease accompanying diabetes mellitus, and help restore gastrointestinal health in experimental diabetes. 
+
+These studies have also attempted to identify the precise mechanisms responsible for zinc-mediated beneficial effects in diabetic situation. The evidence discussed in this review highlights that supplemental zinc may significantly contribute to its clinical application in the management of diabetic hyperglycemia and related metabolic abnormalities, and in the alleviation of secondary complications resulting from diabetic oxidative stress.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/zinc-diabetes-sci-hub-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### 1,490,000 hits for zinc (diabetes OR pancreas) as of Nov 2024
+
+ **[Google Scholar](https://scholar.google.com/scholar?q=zinc+(diabetes+OR+pancreas)&hl=en&as_sdt=0,48%20)** 
+
+---
+
+#### All categories associated with [Diabetes](/categories/diabetes)
+
+ **Intervention<span style="color:#F06;">55</span>; &nbsp;Pregnancy <span style="color:#F06;">42</span>; &nbsp;Infant-Child <span style="color:#F06;">38</span>; &nbsp;Meta-analysis <span style="color:#F06;">36</span>;  &nbsp;Obesity <span style="color:#F06;">32</span>; &nbsp;Cardiovascular <span style="color:#F06;">31</span>; &nbsp;<span style="color:#00F;">Magnesium</span> <span style="color:#F06;">25</span>; &nbsp;Skin - Dark <span style="color:#F06;">24</span>; &nbsp;Intervention - non daily<span style="color:#F06;">22</span>; &nbsp;Vitamin D Receptor<span style="color:#F06;">22</span>; &nbsp;Metabolic Syndrome<span style="color:#F06;">15</span>; &nbsp;Hypertension<span style="color:#F06;">13</span>; &nbsp;Kidney<span style="color:#F06;">12</span>; &nbsp;Genetics<span style="color:#F06;">12</span>; &nbsp;Omega-3<span style="color:#F06;">11</span>; &nbsp;Cognitive<span style="color:#F06;">10</span>; &nbsp;Depression<span style="color:#F06;">10</span>; &nbsp;Cancer<span style="color:#F06;">9</span>; &nbsp;Autoimmune<span style="color:#F06;">9</span>; &nbsp;Deficiency<span style="color:#F06;">9</span>; &nbsp;Virus<span style="color:#F06;">8</span>; &nbsp;Loading dose<span style="color:#F06;">8</span>; &nbsp;Inflammation<span style="color:#F06;">8</span>; &nbsp;Vision<span style="color:#F06;">7</span>; &nbsp;Mortality <span style="color:#F06;">7</span>; &nbsp;Rheumatoid Arthritis<span style="color:#F06;">7</span>; &nbsp;Middle East<span style="color:#F06;">6</span>; &nbsp;Injection<span style="color:#F06;">6</span>; &nbsp;Immunity<span style="color:#F06;">6</span>; &nbsp;Antibiotics, probiotics<span style="color:#F06;">6</span>; &nbsp;Multiple Sclerosis<span style="color:#F06;">6</span>; &nbsp;Lupus<span style="color:#F06;">6</span>; &nbsp;Stroke<span style="color:#F06;">5</span>; &nbsp;Vitamin K<span style="color:#F06;">5</span>; &nbsp;Youth <span style="color:#F06;">5</span>; &nbsp;Vit D Binding Protein <span style="color:#F06;">5</span>; &nbsp;Bone - Health <span style="color:#F06;">4</span>; &nbsp;Pain - chronic <span style="color:#F06;">4</span>; &nbsp;Thyroid and parathyroid <span style="color:#F06;">4</span>; &nbsp;Books, videos <span style="color:#F06;">4</span>; &nbsp;Sports <span style="color:#F06;">4</span>; &nbsp;Fortification <span style="color:#F06;">4</span> &nbsp; &nbsp; &nbsp; &nbsp; As of Oct 2022** 
+
+ **and <a href="/posts/zinc-cut-in-half-the-rate-of-prediabetes-progressing-to-diabetes-20-mg-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017">Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017</a>** 
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Zinc and Diabetes: A Connection between Micronutrient and Metabolism - Aug  2024
+
+Cells 2024, 13(16), 1359; https://doi.org/10.3390/cells13161359
+
+by Rahnuma Ahmad 1ORCID,Ronald Shaju 2ORCID, Azeddine Atfi 3 and Mohammed S. Razzaque 2,*ORCID
+
+* 1 Department of Physiology, Medical College for Women and Hospital, Dhaka 1230, Bangladesh
+
+* 2 Department of Medical Education, School of Medicine, University of Texas Rio Grande Valley (UTRGV), Edinburg, TX 78541, USA
+
+* 3 Department of Biochemistry and Molecular Biology, Massey Cancer Center, Virginia Commonwealth University, Richmond, VA 23298, USA
+
+Diabetes mellitus is a global health problem and a major contributor to mortality and morbidity. The management of this condition typically involves using oral antidiabetic medication, insulin, and appropriate dietary modifications, with a focus on macronutrient intake. However, several human studies have indicated that a deficiency in micronutrients, such as zinc, can be associated with insulin resistance as well as greater glucose intolerance. Zinc serves as a chemical messenger, acts as a cofactor to increase enzyme activity, and is involved in insulin formation, release, and storage. These diverse functions make zinc an important trace element for the regulation of blood glucose levels. Adequate zinc levels have also been shown to reduce the risk of developing diabetic complications. This review article explains the role of zinc in glucose metabolism and the effects of its inadequacy on the development, progression, and complications of diabetes mellitus. Furthermore, it describes the impact of zinc supplementation on preventing diabetes mellitus. The available information suggests that zinc has beneficial effects on the management of diabetic patients. Although additional large-scale randomized clinical trials are needed to establish zinc’s clinical utility further, efforts should be made to increase awareness of its potential benefits on human health and disease.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/zinc-and-diabetes-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+##### 129 References
+
+1. Holt, R.I.; DeVries, J.H.; Hess-Fischl, A.; Hirsch, I.B.; Kirkman, M.S.; Klupa, T.; Ludwig, B.; Norgaard, K.; Pettus, J.; Renard, E.; et al. The management of type 1 diabetes in adults. A consensus report by the American diabetes association (ADA) and the European association for the Study of Diabetes (EASD). Diabetes Care 2021, 44, 2589-2625. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. ElSayed, N.A.; Aleppo, G.; Aroda, V.R.; Bannuru, R.R.; Brown, F.M.; Bruemmer, D.; Collins, B.S.; Gaglia, J.L.; Hilliard, M.E.; Isaacs, D.; et al. Classification and diagnosis of diabetes: Standards of Care in Diabetes. Diabetes Care 2022, 46, S19-S40. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Hasanato, R.M. Trace elements in type 2 diabetes mellitus and their association with glycemic control. Afr. Health Sci. 2020, 20, 287-293. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Farooq, M. **Zinc**  deficiency is associated with poor glycemic control. J. Coll. Physicians Surg. Pak. 2019,29, 253-257. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Tamura, Y. The role of **Zinc**  homeostasis in the prevention of diabetes mellitus and cardiovascular diseases. J. Atheroscler. Thromb 28,1109-1122. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Maret, W. **Zinc**  in pancreatic islet biology, insulin sensitivity, and diabetes. Prev. Nutr. Food Sci. 2017, 22,1-8. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Blakemore, L.J.; Trombley, P.Q. **Zinc**  as a neuromodulator in the central nervous system with a focus on the olfactory bulb. Front. Cell. Neurosci. 2017, H, 297. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Lim, K.H.C.; Riddell, L.J.; Nowson, C.A.; Booth, A.O.; Szymlek-Gay, E.A. Iron and **Zinc**  nutrition in the economically-developed world: A review. Nutrients 2013, 5, 3184-3211. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Saper, R.B.; Rash, R. **Zinc** : An essential micronutrient. Am. Fam. Physician 2009, 79, 768-772. &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Santos, H.O.; Teixeira, F.J.; Schoenfeld, B.J. Dietary vs. pharmacological doses of **Zinc** : A clinical review. Clin. Nutr. 2020, 39, 1345-1353. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. DRI Dietary Reference Intakes. Applications in Dietary Assessment: Washington, DC, USA, 2000. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Szewczyk, B. **Zinc**  homeostasis and neurodegenerative disorders. Front. Aging Neurosci. 2013, 5, 54272. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Wang, L.J.; Wang, M.Q.; Hu, R.; Yang, Y.; Huang, Y.S.; Xian, S.X.; Lu, L. Effect of **Zinc**  supplementation on maintenance Hemodialysis Patients: A systematic review and meta-analysis of 15 randomized controlled trials. BioMed Res. Int. 2017, 2017,1024769. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Ranasinghe, P.; Wathurapatha, W.; Ishara, M.; Jayawardana, R.; Galappatthy, P.; Katulanda, P.; Constantine, G. Effects of **Zinc**  supplementation on serum lipids: A systematic review and meta-analysis. Nutr. Metab. 2015,12,1-16. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Wegmuller, R.; Tay, F.; Zeder, C.; Brnic, M.; Hurrell, R.F. **Zinc**  absorption by young adults from supplemental **Zinc**  citrate is comparable with that from **Zinc**  gluconate and higher than from **Zinc**  oxide. J. Nutr. 2014,144,132-136. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Shkembi, B.; Huppertz, T. Influence of dairy products on bioavailability of **Zinc**  from other food products: A Review of complementarity at a meal level. Nutrients 2021,13, 4253. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Fairweather-Tait, S.; Hurrell, R.F. Bioavailability of minerals and trace elements. Nutr. Res. Rev. 1996, 9, 295-324. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Roohani, N.; Hurrell, R.; Kelishadi, R.; Schulin, R. **Zinc**  and its importance for human health: An integrative review. J. Res. Med. Sci. 2013,18,144-157. &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Johnson, P.E.; Hunt, C.D.; Milne, D.B.; Mullen, L.K. Homeostatic control of **Zinc**  metabolism in men: **Zinc**  excretion and balance in men fed diets low in **Zinc** . Am. J. Clin. Nutr. 1993, 57, 557-565. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. King, J.C.; Shames, D.M.; Woodhouse, L.R. **Zinc**  homeostasis in humans. J. Nutr. 2000,130,1360S-1366S. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Wan, Y.; Zhang, B. The impact of **Zinc**  and **Zinc**  homeostasis on the intestinal mucosal barrier and intestinal diseases. Biomolecules
+
+1. 12, 900. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Nutrition and Food Safety (NFS). Vitamin and Mineral Requirements in Human Nutrition; World Health Organization and Food and Agricultural Organization of the United Nations: Geneva, Switzerland, 2004; ISBN 9241546123.
+
+1. Turnlund, J.R.; King, J.C.; Keyes, W.R.; Gong, B.; Michel, M.C. A stable isotope study of **Zinc**  absorption in young men: Effects of phytate and a-cellulose. Am. J. Clin. Nutr. 1984, 40,1071-1077. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Krebs, N.F. Overview of **Zinc**  absorption and excretion in the human gastrointestinal Tract. J. Nutr. 2000, 130, 1374S-1377S. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Tubek, S. Selected **Zinc**  metabolism parameters in premenopausal and postmenopausal women with moderate and severe primary arterial hypertension. Biol. Trace Elem. Res. 2007,116,249-255. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Brown, K.H.; Rivera, J.A.; Bhutta, Z.; Gibson, R.S.; King, J.C.; Lonnerdal, B.; Ruel, M.T.; Sandtrom, B.; Wasantwisut, E.; Hotz, C. International **Zinc**  Nutrition Consultative Group (IZiNCG) technical document #Assessment of the risk of **Zinc**  deficiency in populations and options for its control. Food Nutr. Bull. 2004, 25, S99-S203. &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Devergnas, S.; Chimienti, F.; Naud, N.; Pennequin, A.; Coquerel, Y.; Chantegrel, J.; Favier, A.; Seve, M. Differential regulation of **Zinc**  efflux transporters ZnT-1, ZnT-5 and ZnT-7 gene expression by **Zinc**  levels: A real-time RT-PCR study. Biochem. Pharmacol. 2004, 68, 699-709. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Sekler, I.; Sensi, S.L.; Hershfinkel, M.; Silverman, W.F. Mechanism and regulation of cellular **Zinc**  transport. Mol. Med. 2007,13, 337-343. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Liuzzi, J.P.; Cousins, R.J. Mammalian **Zinc**  transporters. Annu. Rev. Nutr. 2004, 24,151-172. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. McMahon, R.J.; Cousins, R.J. Mammalian **Zinc**  transporters. J. Nutr. 1998,128, 667-670. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. McMahon, R.J.; Cousins, R.J. Regulation of the **Zinc**  transporter ZnT-1 by dietary **Zinc** . Proc. Natl. Acad. Sci. USA 1998, 95, 4841-4846. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Maret, W. **Zinc**  in cellular regulation: The nature and significance of &quot;zinc signals&quot;. Int. J. Mol. Sci. 2017,18, 2285. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Razzaque, M.S. COVID-19 pandemic: Can **Zinc**  supplementation provide an additional shield against the infection? Comput. Struct. Biotechnol. J. 2021,19,1371-1378. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Razzaque, M.S. COVID-19 Pandemic: Can maintaining optimal **Zinc**  balance enhance host resistance? Tohoku J. Exp. Med. 2020, 251,175-181. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Andreini, C.; Banci, L.; Bertini, I.; Rosato, A. counting the **Zinc** -proteins encoded in the human genome. J. Proteome Res. 2006, 5, 196-201. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. King, J.C. **Zinc** : An essential but elusive nutrient. Am. J. Clin. Nutr. 2011, 94, 679S-684S. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Jones, S.; Farr, G.; Nimmanon, T.; Ziliotto, S.; Gee, J.M.W.; Taylor, K.M. The importance of targeting signalling mechanisms of the SLC39A family of **Zinc**  transporters to inhibit endocrine resistant breast cancer. Explor. Target. Antitumor 2022, 3, 224-239. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Maywald, M.; Rink, L. **Zinc**  in human health and infectious diseases. Biomolecules 2022,12,1748. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Bitirim, C.V. The role of **Zinc**  transporter proteins as predictive and prognostic biomarkers of hepatocellular cancer. Peer] 2021, 9, e12314. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Fong, L.Y.; Farber, J.L.; Croce, C.M. **Zinc**  intake, microRNA dysregulation, and esophageal cancer. Aging 2016, 8, 1161-1162. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. MacKenzie, S.; Bergdahl, A. **Zinc**  homeostasis in diabetes mellitus and vascular complications. Biomedicines 2022, 10, 139. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Wessels, I.; Maywald, M.; Rink, L. **Zinc**  as a gatekeeper of immune function. Nutrients 2017, 9,1286. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Uwitonze, A.M.; Ojeh, N.; Murererehe, J.; Atfi, A.; Razzaque, M.S. **Zinc**  adequacy is essential for the maintenance of optimal oral health. Nutrients 2020,12, 949. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Amos, A.; Razzaque, M.S. **Zinc**  and its role in vitamin D function. Curr. Res. Physiol. 2022, 5, 203-207. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Olechnowicz, J.; Tinkov, A.; Skalny, A.; Suliburska, J. **Zinc**  status is associated with inflammation, oxidative stress, lipid, and glucose metabolism. J. Physiol. Sci. 2018, 68,19-31. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Fukunaka, A.; Fujitani, Y. Role of **Zinc**  homeostasis in the pathogenesis of diabetes and obesity. Int. J. Mol. Sci. 2018,19, 476. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Coulston, L.; Dandona, P. Insulin-like effect of **Zinc**  on adipocytes. Diabetes 1998,29, 665-667. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Khorsandi, H.; Nikpayam, O.; Yousefi, R.; Parandoosh, M.; Hosseinzadeh, N.; Saidpour, A.; Ghorbani, A. **Zinc**  supplementation improves body weight management, inflammatory biomarkers and insulin resistance in individuals with obesity: A randomized, placebo-controlled, double-blind trial. Diabetol. Metab. Syndr. 2019,11,1-10. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Abdollahi, S.; Toupchian, O.; Jayedi, A.; Meyre, D.; Tam, V.; Soltani, S. **Zinc**  supplementation and body weight: A systematic review and dose-response meta-analysis of randomized controlled trials. Adv. Nutr. Int. Rev. J. 2020,11, 398-411. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Franco, C.; Canzoniero, L.M.T. **Zinc**  homeostasis and redox alterations in obesity. Front. Endocrinol. 2024,14,1273177. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Park, J.H.; Grandjean, C.J.; Antonson, D.L.; Vanderhoof, J.A. Effects of short-term isolated **Zinc**  deficiency on intestinal growth and activities of several brush border enzymes in weaning rats. Pediatr. Res. 1985,19,1333-1336. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Shankar, A.H.; Prasad, A.S. **Zinc**  and immune function: The biological basis of altered resistance to infection. Am. J. Clin. Nutr. 1998, 68, 447S-463S. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Hassan, A.; Sada, K.K.; Ketheeswaran, S.; Dubey, A.K.; Bhat, M.S. Role of **Zinc**  in mucosal health and disease: A review of physiological, biochemical, and molecular processes. Cureus 2020,12, e8197. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Prasad, A.S.; Bao, B.; Beck, F.W.; Sarkar, F.H. **Zinc** -suppressed inflammatory cytokines by induction of A20-mediated inhibition of nuclear factor-kappaB. Nutrition 2011,27, 816-823. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Prasad, A.S.; Bao, B.; Beck, F.W.; Kucuk, O.; Sarkar, F.H. Antioxidant effect of **Zinc**  in humans. Free. Radic. Biol. Med. 2004, 37, 1182-1190. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. von Bulow, V.; Dubben, S.; Engelhardt, G.; Hebel, S.; Plumakers, B.; Heine, H.; Rink, L.; Haase, H. **Zinc** -dependent suppression of TNF-alpha production is mediated by protein kinase A-induced inhibition of Raf-1, I kappa B kinase beta, and NF-kappa B. J. Immunol. 2007,179, 4180-4186. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Brieger, A.; Rink, L.; Haase, H. Differential regulation of TLR-dependent MyD88 and TRIF signaling pathways by free **Zinc**  ions. J. Immunol. 2013,191,1808-1817. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Ferdowsi, P.V.; Ahuja, K.D.K.; Beckett, J.M.; Myers, S. Capsaicin and **Zinc**  signalling pathways as promising targets for managing insulin resistance and type 2 diabetes. Molecules 2023, 28, 2861. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Ranasinghe, P.; Pigera, S.; Galappatthy, P.; Katulanda, P.; Constantine, G.R. **Zinc**  and diabetes mellitus: Understanding molecular mechanisms and clinical implications. DARU J. Pharm. Sci. 2015, 23,1-13. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Kelishadi, R.; Hashemipour, M.; Adeli, K.; Tavakoli, N.; Movahedian-Attar, A.; Shapouri, J.; Poursafa, P.; Rouzbahani, A. Effect of **Zinc**  supplementation on markers of insulin resistance, oxidative stress, and inflammation among prepubescent children with metabolic syndrome. Metab. Syndr. Relat. Disord. 2010, 8, 505-510. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Vardatsikos, G.; Pandey, N.R.; Srivastava, A.K. Insulino-mimetic and anti-diabetic effects of **Zinc** . J. Inorg. Biochem. 2013,120, 8-17. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Chimienti, F. **Zinc** , pancreatic islet cell function and diabetes: New insights into an old story. Nutr. Res. Rev. 2013, 26, 1-11. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Li, Y.V. **Zinc**  and insulin in pancreatic beta-cells. Endocrine 2013, 45,178-189. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Myers, S.A. **Zinc**  transporters and **Zinc**  signaling: New insights into their role in type 2 diabetes. Int. J. Endocrinol. 2015,1-7. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Kambe, T.; Hashimoto, A.; Fujimoto, S. Current understanding of ZIP and ZnT **Zinc**  transporters in human health and diseases. Cell. Mol. Life Sci. 2014, 71, 3281-3295. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Cai, Y.; Kirschke, C.P.; Huang, L. SLC30A family expression in the pancreatic islets of humans and mice: Cellular localization in the beta-cells. J. Mol. Histol. 2018, 49,133-145. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Wijesekara, N.; Dai, F.F.; Hardy, A.B.; Giglou, P.R.; Bhattacharjee, A.; Koshkin, V.; Chimienti, F.; Gaisano, H.Y.; Rutter, G.A.; Wheeler, M.B. Beta cell-specific Znt8 deletion in mice causes marked defects in insulin processing, crystallisation and secretion. Diabetologia 2010, 53,1656-1668. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Davidson, H.W.; Wenzlau, J.M.; O&#39;Brien, R.M. **Zinc**  transporter 8 (ZnT8) and beta cell function. Trends Endocrinol Metab. 2014, 25, 415-424. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Foster, M.; Chu, A.; Petocz, P.; Samman, S. **Zinc**  transporter gene expression and glycemic control in post-menopausal women with type 2 diabetes mellitus. J. Trace Elements Med. Biol. 2014,28, 448-452. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Lefebvre, B.; Vandewalle, B.; Balavoine, A.-S.; Queniat, G.; Moerman, E.; Vantyghem, M.-C.; Le Bacquer, O.; Gmyr, V.; Pawlowski, V.; Kerr-Conte, J.; et al. Regulation and functional effects of ZNT8 in human pancreatic islets. J. Endocrinol. 2012, 214, 225-232. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Cruz, K.J.C.; de Oliveira, A.R.S.; Morais, J.B.S.; Severo, J.S.; Mendes, P.M.V.; Melo, S.R.d.S.; de Sousa, G.S.; Marreiro, D.D.N. **Zinc**  and insulin resistance: Biochemical and molecular aspects. Biol. Trace Elem. Res. 2018,186, 407-412. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Huang, L.; Yan, M.; Kirschke, C.P. Over-expression of ZnT7 increases insulin synthesis and secretion in pancreatic beta-cells by promoting insulin gene transcription. Exp. Cell Res. 2010, 316, 2630-2643. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Xiang, J.; Li, X.-Y.; Xu, M.; Hong, J.; Huang, Y.; Tan, J.-R.; Lu, X.; Dai, M.; Yu, B.; Ning, G. **Zinc**  transporter-8 gene (SLC30A8) is associated with type 2 diabetes in Chinese. J. Clin. Endocrinol. Metab. 2008, 93, 4107-4112. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Salem, S.D.; Saif-Ali, R.; Ismail, I.S.; Al-Hamodi, Z.; Muniandy, S. Contribution of SLC30A8 variants to the risk of type 2 diabetes in a multi-ethnic population: A case control study. BMC Endocr. Disord. 2014,14, 2. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Keller, S.R. Role of the insulin-regulated aminopeptidase IRAP in insulin action and diabetes. Biol. Pharm. Bull. 2004, 27, 761-764. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Walter, P.L.; Kampkotter, A.; Eckers, A.; Barthel, A.; Schmoll, D.; Sies, H.; Klotz, L.-O. Modulation of FoxO signaling in human hepatoma cells by exposure to copper or **Zinc**  ions. Arch. Biochem. Biophys. 2006, 454,107-113. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Tripathy, S.; Sumathi, S.; Raj, G. Minerals nutritional status of type 2 diabetic subjects. Int. J. Diabetes Dev. Ctries. 2003,24, 27-28.
+
+1. Hussein, M.; Fathy, W.; Hassan, A.; Elkareem, R.A.; Marzouk, S.; Kamal, Y.S. **Zinc**  deficiency correlates with severity of diabetic polyneuropathy. Brain Behav. 2021,11, e32349. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Beloucif, A.; Kechrid, Z.; Bekada, A.M.A. Effect of **Zinc**  deficiency on blood glucose, lipid profile, and antioxidant status in streptozotocin diabetic rats and the potential role of sesame oil. Biol. Trace Elem. Res. 2021, 200, 3236-3247. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Maremanda, K.P.; Srivalliputturu, S.B.; Jena, G. **Zinc**  deficient diet exacerbates the testicular and epididymal damage in type 2 diabetic rat: Studies on oxidative stress-related mechanisms. Reprod. Biol. 2020, 20,191-201. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Sahu, C.; Jena, G. Dietary **Zinc**  deficient condition increases the bisphenol a toxicity in diabetic rat testes. Mutat. Res. Toxicol. Environ. Mutagen. 2022, 882, 503547. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Elsaed, W.M.; Mohamed, H.A. Dietary **Zinc**  modifies diabetic-induced renal pathology in rats. Ren. Fail. 2016, 39, 246-257. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Fushimi, H.; Inoue, T.; Yamada, Y.; Horie, H.; Kameyama, M.; Inoue, K.; Minami, T.; Okazaki, Y. **Zinc**  deficiency exaggerates diabetic osteoporosis. Diabetes Res. Clin. Pr. 1993, 20,191-196. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Kim, H.J.; Vaziri, N.D. Contribution of impaired Nrf2-Keap1 pathway to oxidative stress and inflammation in chronic renal failure. Am. J. Physiol. Physiol. 2010,298, F662-F671. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Suzuki, M.; Betsuyaku, T.; Ito, Y.; Nagai, K.; Nasuhara, Y.; Kaga, K.; Kondo, S.; Nishimura, M. Down-regulated NF-E2-related factor 2 in pulmonary macrophages of aged smokers and patients with chronic obstructive pulmonary disease. Am. J. Respir. Cell Mol. Biol. 2008, 39, 673-682. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Zhang, C.; Lu, X.; Tan, Y.; Li, B.; Miao, X.; Jin, L.; Shi, X.; Zhang, X.; Miao, L.; Li, X.; et al. Diabetes-induced hepatic pathogenic damage, inflammation, oxidative stress, and insulin resistance was exacerbated in **Zinc**  deficient mouse model. PLoS ONE 2012, 7, e49257. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Zhao, Y.; Tan, Y.; Dai, J.; Li, B.; Guo, L.; Cui, J.; Wang, G.; Shi, X.; Zhang, X.; Mellen, N.; et al. Exacerbation of diabetes-induced testicular apoptosis by **Zinc**  deficiency is most likely associated with oxidative stress, p38 MAPK activation, and p53 activation in mice. Toxicol. Lett. 2011, 200,100-106. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Li, B.; Cui, W.; Tan, Y.; Luo, P.; Chen, Q.; Zhang, C.; Qu, W.; Miao, L.; Cai, L. **Zinc**  is essential for the transcription function of Nrf2 in human renal tubule cells in vitro and mouse kidney in vivo under the diabetic condition. J. Cell. Mol. Med. 2014,18, 895-906. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Rashid, S.; Qamar, K.; Tassaduq, I. Role of vitamin E in preventing arteriohyalinization in kidneys of streptozotocin induced diabetic mice. J. Pak. Med. Assoc. 2015, 65,1085-1088.
+
+1. Miao, X.; Sun, W.; Miao, L.; Fu, Y.; Wang, Y.; Su, G.; Liu, Q. **Zinc**  and diabetic retinopathy. J. Diabetes Res. 2013, 425854. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Milnerowicz, H.; Jablonowska, M.; Bizon, A. Change of **Zinc** , copper, and metallothionein concentrations and the copper-zinc superoxide dismutase activity in patients with pancreatitis. Pancreas 2009, 38, 681-688. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Santa, S.R.; Santasmita, P.; Swati, B.; Kanika, C.; Aruna, B.; Gargi, S.; Soma, G. Status of serum magnesium, **Zinc**  and copper in patients suffering from type 2 diabetes mellitus. J. Drug Deliv. Ther. 2014, 4, 70-72. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Saharia, G.K.; Goswami, R.K. Evaluation of serum **Zinc**  status and glycated hemoglobin of type 2 diabetes mellitus patients in a tertiary care hospital of assam. J. Lab. Physicians 2013, 5, 30-33. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Al-Maroof, R.; Al-Sharbatti, S.S. Serum **Zinc**  levels in diabetic patients and effect of **Zinc**  supplementation on glycemic control of type 2 diabetics. Saudi Med. J. 2006, 27, 344-350. &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Zargar, A.H.; Shah, N.A.; Shah, N.; Masoodi, S.R.; Laway, B.A.; Dar, F.A.; Khan, A.R.; Sofi, F.A.; Wani, A.I. Copper, **Zinc** , and magnesium levels in non-insulin dependent diabetes mellitus. Postgrad. Med. J. 1998, 74, 665-668. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Migdalis, I.N.; Triantafilou, P.; Petridou, E.; Varvarigos, N.; Totolos, V.; Rigopoulos, A. Lipid peroxides in type 2 diabetic patients with neuropathy. Res. Commun. Mol. Pathol. Pharmacol. 2005,117-118,5-12.
+
+1. Jansen, J.; Karges, W.; Rink, L. **Zinc**  and diabetes--clinical links and molecular mechanisms. J. Nutr. Biochem. 2009, 20, 399-417. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Jenner, A.; Ren, M.; Rajendran, R.; Ning, P.; Huat, B.T.K.; Watt, F.; Halliwell, B. **Zinc**  supplementation inhibits lipid peroxidation and the development of atherosclerosis in rabbits fed a high cholesterol diet. Free. Radic. Biol. Med. 2007, 42, 559-566. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Meduri, G.U. Clinical review: A paradigm shift: The bidirectional effect of inflammation on bacterial growth. Clinical implications for patients with acute respiratory distress syndrome. Crit. Care 2002, 6, 24-29. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Jayawardena, R.; Ranasinghe, P.; Galappatthy, P.; Malkanthi, R.; Constantine, G.; Katulanda, P. Effects of **Zinc**  supplementation on diabetes mellitus: A systematic review and meta-analysis. Diabetol. Metab. Syndr. 2012, 4,13. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Afkhami-Ardekani, M.; Karimi, M.; Mohammadi, S.; Forough, N. Effect of **Zinc**  sulfate supplementation on lipid and glucose in type 2 diabetic patients. Pak. J. Nitr. 2008, 7, 550-553. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Farvid, M.S.; Homayouni, F.; Amiri, Z.; Adelmanesh, F. Improving neuropathy scores in type 2 diabetic patients using micronutri­ents supplementation. Diabetes Res. Clin. Pract. 2011, 93, 86-94. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Farvid, M.S.; Jalali, M.; Siassi, F.; Hosseini, M. Comparison of the effects of vitamins and/or mineral supplementation on glomerular and tubular dysfunction in type 2 diabetes. Diabetes Care 2005, 28, 2458-2464. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Blood sugar lowering effect of **Zinc**  and multi vitamin/ mineral supplementation is dependent on initial fasting blood glucose. J. Diabetol. 2011, 2. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Effects of **Zinc**  and multimineral vitamin supplementation on glycemic and lipid control in adult diabetes. Diabetes Metab. Syndr. Obes. Targets Ther. 2011, 4, 53-60. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Hayee, M.A.; Mohammad, Q.D.; Haque, A. Diabetic neuropathy and **Zinc**  therapy. Bangladesh Med. Res. Counc. Bull. 2005, 31, 62-67. &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Gupta, R.; Garg, V.K.; Mathur, D.K.; Goyal, R.K. Oral **Zinc**  therapy in diabetic neuropathy. J. Assoc. Physicians India 1998, 46, 939-942.
+
+1. Hegazi, S.M.; Ahmed, S.S.; Mekkawy, A.A.; Mortagy, M.S.; Abdel-Kadder, M. Effect of **Zinc**  supplementation on serum glucose, insulin, glucagon, glucose-6-phosphatase, and mineral levels in diabetics. J. Clin. Biochem. Nutr. 1992,12, 209-215. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Hussain, S.A.; Khadim, H.M.; Khalaf, B.H.; Ismail, S.H.; Hussein, K.I.; Sahib, A.S. Effects of melatonin and **Zinc**  on glycemic control in type 2 diabetic patients poorly controlled with metformin. Saudi Med. J. 2006, 27,1483-1488.
+
+1. Kadhim, H.M.; Ismail, S.H.; Hussein, K.I.; Bakir, I.H.; Sahib, A.S.; Khalaf, B.H.; Hussain, S.A.-R. Effects of melatonin and **Zinc**  on lipid profile and renal function in type 2 diabetic patients poorly controlled with metformin. J. Pineal Res. 2006, 41,189-193. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Parham, M.; Amini, M.; Aminorroaya, A.; Heidarian, E. Effect of **Zinc**  supplementation on microalbuminuria in patients with type 2 diabetes: A double blind, randomized, placebo-controlled, cross-over trial. Rev. Diabet. Stud. 2008,5,102-109. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Partida-Hernández, G.; Arreola, F.; Fenton, B.; Cabeza, M.; Román-Ramos, R.; Revilla-Monsalve, M. Effect of **Zinc**  replacement on lipids and lipoproteins in type 2-diabetic patients. Biomed. Pharmacother. 2006, 60,161-168. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Siddique, K.U.; Ashfaq, F.; Ali, W.; Reddy, H.D.; Mishra, A.; Khan, M.I. Effect of high-dose **Zinc**  supplementation with oral hypoglycemic agents on glycemic control and inflammation in type-2 diabetic nephropathy patients. J. Nat. Sci. Biol. Med. 2013, 4, 336-340. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Simon, S.F.; Taylor, C.G. Dietary **Zinc**  supplementation attenuates hyperglycemia in db/db Mice. Exp. Biol. Med. 2001, 226,43-51. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. El-Ashmony, S.M.A.; Morsi, H.K.; Abdelhafez, A.M. Effect of **Zinc**  supplementation on glycemic control, lipid profile, and renal functions in patients with type II diabetes: A single blinded, randomized, placebo-controlled, trial. J. Biol. Agric. Health 2012, 2, 33-41.
+
+1. Foster, M.; Petocz, P.; Samman, S. Effects of **Zinc**  on plasma lipoprotein cholesterol concentrations in humans: A meta-analysis of randomised controlled trials. Atherosclerosis 2010,210, 344-352. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Foster, M.; Petocz, P.; Caterson, I.; Samman, S. Effects of **Zinc**  and a-linolenic acid supplementation on glycemia and lipidemia in women with type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled trial. J. Diabetes Res. Clin. Metab. 2013, 9, 1-9. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Lee, Y.M.; Wolf, P.; Hauner, H.; Skurk, T. Effect of a fermented dietary supplement containing chromium and **Zinc**  on metabolic control in patients with type 2 diabetes: A randomized, placebo-controlled, double-blind cross-over study. Food Nutr. Res. 2016, 60, 30298. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Oh, H.-M.; Yoon, J.-S. Glycemic control of type 2 diabetic patients after short-term **Zinc**  supplementation. Nutr. Res. Pr. 2008, 2, 283-288. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Seet, R.C.; Lee, C.-Y.J.; Lim, E.C.; Quek, A.M.; Huang, H.; Huang, S.H.; Looi, W.F.; Long, L.H.; Halliwell, B. Oral **Zinc**  supplementa­tion does not improve oxidative stress or vascular function in patients with type 2 diabetes with normal **Zinc**  levels. Atherosclerosis 2011, 219, 231-239. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Wang, X.; Wu, W.; Zheng, W.; Fang, X.; Chen, L.; Rink, L.; Min, J.; Wang, F. **Zinc**  supplementation improves glycemic control for diabetes prevention and management: A systematic review and meta-analysis of randomized controlled trials. Am. J. Clin. Nutr. 2019,110, 76-90. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Foster, M.; Samman, S. **Zinc**  and redox signaling: Perturbations associated with cardiovascular disease and diabetes mellitus. Antioxid. Redox Signal. 2010,13,1549-1573. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Hughes, S.; Samman, S. The effect of **Zinc**  supplementation in humans on plasma lipids, antioxidant status and thrombogenesis. J. Am. Coll. Nutr. 2006, 25, 285-291. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Jafarnejad, S.; Mahboobi, S.; McFarland, L.V.; Taghizadeh, M.; Rahimi, F. Meta-analysis: Effects of **Zinc**  supplementation alone or with multi-nutrients, on glucose control and lipid levels in patients with type 2 diabetes. Prev. Nutr. Food Sci. 2019,24, 8-23. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Chandra, R.K. Excessive intake of **Zinc**  impairs immune responses. JAMA 1984, 252,1443-1446. &lt;span&gt;[CrossRef]&lt;/span&gt; &lt;span&gt;[PubMed]&lt;/span&gt;
+
+1. Donangelo, C.M.; Woodhouse, L.R.; King, S.M.; Viteri, F.E.; King, J.C. Supplemental **Zinc**  lowers measures of iron status in young women with low iron reserves. J. Nutr. 2002,132,1860-1864. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Galvez-Fernandez, M.; Powers, M.; Grau-Perez, M.; Domingo-Relloso, A.; Lolacono, N.; Goessler, W.; Zhang, Y.; Fretts, A.; Umans, J.G.; Maruthur, N.; et al. Urinary **Zinc**  and incident type 2 diabetes: Prospective evidence from the strong heart study. Diabetes Care 2022, 45, 2561-2569. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Alexander, R.; Khaja, A.; Debiec, N.; Fazioli, A.; Torrance, M.; Razzaque, M.S. Health-promoting benefits of lentils: Anti­inflammatory and anti-microbial effects. Curr. Res. Physiol. 2024, 7,100124. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+1. Razzaque, M.S. Magnesium: Are we consuming enough? Nutrients 2018,10,1863. &lt;span&gt;[CrossRef]&lt;/span&gt;
+
+---
+
+#### Effect of zinc supplementation in the management of type 2 diabetes: A grading of recommendations assessment, development, and evaluation-assessed, dose-response meta-analysis of randomized controlled trials - May 2023
+
+Critical Reviews in Food Science and Nutrition  
+
+&amp;nbsp; &amp;nbsp; https://doi.org/10.1080/10408398.2023.2209802  **PDF behind $61 paywall** 
+
+Kimia Ghaedi ORCID Icon,Dorsa Ghasempour ORCID Icon,Mohammadreza Jowshan ORCID Icon,Miaobing Zheng ORCID Icon,Saeed Ghobadi ORCID Icon &amp; Alireza Jafari ORCID Icon
+
+The question of whether zinc supplementation may improve cardio-metabolic health in patients with type 2 diabetes mellitus (T2DM) remains controversial and require further evaluation. This study aimed to summarize the effectiveness of oral zinc supplementation in improving cardio-metabolic risk markers in people with T2DM. We searched PubMed, Scopus, and Web of Science from inception to April 2023, for randomized controlled trials (RCTs). RCTs of type 2 diabetic adults (aged ≥18 years) comparing zinc supplementation with placebo were included. We excluded studies if not randomized, involved co-supplementation, and were conducted in children or pregnant women. Glycemic indices, lipid profiles, blood pressure, anthropometric measure, c-reactive protein (CRP), creatinine, and serum zinc were extracted. Certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methods. We used a random-effect model to perform the dose-response analysis. Effect sizes were presented as mean difference (MD) and 95% confidence interval (CI). 22 studies (n = 1442 participants) were included. The certainty of the evidence was rated as moderate to high. 
+
+Zinc supplementation significantly reduced glycemic indices: including two-hour postprandial glucose (2hpp) (mean difference (MD): −34.34 mg/dl; 95%CI: −51.61∼ −17.07), fast blood sugar (FBS) (MD: −23.32 mg/dl; 95% CI: −33.81∼ −12.83), and hemoglobin A1c (HbA1c) (MD: −0.47; 95% CI: −0.71∼ −0.23). 
+
+Zinc had a favorable effect on lipid profiles low-density lipoprotein (LDL) (MD: −10.76 mg/dl; CI: −17.79∼−3.73), triglyceride (TG) (MD: −18.23 mg/dl; CI: −32.81∼−3.65), total cholesterol (TC) (MD: −12.74 mg/dl; CI: −21.68∼−3.80), VLDL (MD: −5.39 mg/dl; CI: −7.35∼−3.43) and high-density lipoprotein (HDL) (MD: 4.04 mg/dl; CI: 0.96 ∼ 7.12). Systolic blood pressure (SBP) (MD): −3.64 mmHg; 95% CI: −6.77∼ −0.52), weight (MD: 1.00 kg; 95% CI: 0.34∼1.66), CRP (MD: −3.37 mg/l, 95% CI: −4.05∼ −2.70), and serum zinc (MD: 15.38 µg/dl; 95% CI: 10.74∼ 20.02) changed to a statistically significant extent with zinc supplementation. There was also a linear association between additional 10 mg/d zinc treatment with FBS, HbA1c, HDL, LDL, TG, TC, and serum zinc. A non-linear dose-response gradient was seen for FBS, HDL, and SBP (p &lt; 0.05). Egger’s test showed no substantial publication bias. 
+
+ **Our findings strongly suggest a potential beneficial effect of zinc supplementation on type 2 diabetic patients.**  Further high-quality research is needed to determine the optimal form, dosage, and duration of zinc supplementation for this population.
+
+---
+
+#### Zinc Supplementation in Individuals with Prediabetes and type 2 Diabetes: a GRADE-Assessed Systematic Review and Dose-Response Meta-analysis - Oct 2023
+
+Biological Trace Element Research Volume 202, pages 2966–2990, (2024)
+
+&amp;nbsp; &amp;nbsp; https://doi.org/10.1007/s12011-023-03895-7  **PDF behind paywall** 
+
+Matin Nazari, Mahlagha Nikbaf-Shandiz, Fereshteh Pashayee-Khamene, Reza Bagheri, Kian Goudarzi, Navid Vahid Hosseinnia, Sina Dolatshahi, Hossein Salehi Omran, Niusha Amirani, Damoon Ashtary-larky, 
+
+Zinc supplementation has therapeutic effects on cardiovascular disease (CVD) risk factors, including dyslipidemia, hyperglycemia, and inflammation as the main contributors to CVD pathogenesis. Since CVD is a major cause of mortality among people with type 2 diabetes mellitus (T2DM), this study aimed to overview the potential effects of zinc supplementation on CVD risk factors in T2DM patients. To determine appropriate randomized clinical trials (RCTs) investigating the effects of zinc supplementation on CVD risk factors, electronic sources including PubMed, Web of Science, and Scopus were systematically searched until January 2023. The heterogeneity of trials was checked using the I2 statistic. According to the heterogeneity tests, random-effects models were estimated, and pooled data were defined as the weighted mean difference (WMD) with a 95% confidence interval (CI). 
+
+Of the 4004 initial records, 23 studies that met inclusion criteria were analyzed in this meta-analysis. The pooled findings indicated the significant lowering effects of zinc supplementation on triglycerides (TG), total cholesterol (TC), fasting blood glucose (FBG), hemoglobin A1C (HbA1C), and C-reactive protein (CRP), while high-density cholesterol (HDL) concentrations showed an elevation after zinc supplementation. In addition to statistical significance, the effect of zinc supplementation on most of the variables was clinically significant; however, the quality of evidence in the included studies is regarded as low or very low for most variables. 
+
+Our study demonstrated that zinc supplementation has beneficial effects on glycemic control markers, lipid profile, and CRP levels as a classic marker of inflammation in T2DM. Due to the high degree of heterogeneity between studies and the low rate of quality in them, further well-designed studies are necessitated to strengthen our findings.
+
+---
+
+#### The Role of Zinc Homeostasis in the Prevention of Diabetes Mellitus and Cardiovascular Diseases
+
+Journal of Atherosclerosis and Thrombosis [https://doi.org/10.5551/jat.RV17057](https://doi.org/10.5551/jat.RV17057)
+
+Yukinori Tamura
+
+Zinc is an essential micronutrient for human health and is involved in various biological functions, such as growth, metabolism, and immune function. In recent years, research on intracellular zinc dynamics has progressed, and it has become clear that zinc transporters strictly control intracellular zinc localization, zinc regulates the functions of various proteins and signal transduction pathways as a second messenger similar to calcium ions, and intracellular zinc dyshomeostasis is associated with impaired insulin synthesis, secretion, sensitivity, lipid metabolism, and vascular function. Numerous animal and human studies have shown that zinc deficiency may be associated with the risk factors for diabetes and cardiovascular diseases (CVDs) and zinc administration might be beneficial for the prevention and treatment of these diseases. Therefore, an understanding of zinc biology may help the establishment of novel strategies for the prevention and treatment of diabetes and CVDs. This review will summarize the current knowledge on the role of zinc homeostasis in the pathogenesis of diabetes and atherosclerosis and will discuss the potential of zinc in the prevention of these diseases.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/stoke-guidelines---80-preventable-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Diabetes and zinc dyshomeostasis: Can zinc supplementation mitigate diabetic complications? - 2022
+
+Critical Reviews in Food Science and Nutrition https://doi.org/10.1080/10408398.2020.1833178
+
+Susmita Barman &amp;Krishnapura Srinivasan
+
+##### Overview: Diabetes with and without Zinc
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/zinc-diabetes-sci-hub.webp&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+##### Diabetes with and without Zinc
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/diabestes-with-and-without-zinc.webp&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
+
+##### Human Diabetes and Zinc studies
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/dm-zinc-and-humans.webp&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
+
+##### Proven benefits of Zinc on Diabetes
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/proven-benefits-of-zinc-on-dm.webp&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+Zinc present in the islet cells of the pancreas is crucial for the synthesis, storage, and secretion of insulin. The excretion of large amounts of zinc from the body is reported in diabetic situations. Zinc depletion and increased oxidative stress have a major impact on the pathogenesis of diabetic complications. It would be most relevant to ascertain if intervention with supplemental zinc compensating for its depletion would beneficially mitigate hyperglycemia and the attendant metabolic abnormalities, and secondary complications in diabetes. An exhaustive literature search on this issue indicates: 
+
+* (1) Concurrent hypozincemia and decreased tissue zinc stores in diabetes as a result of its increased urinary excretion and/or decreased intestinal absorption, 
+
+* (2) Several recent experimental studies have documented that supplemental zinc has a potential hypoglycemic effect in the diabetic situation, and also beneficially modulate the attendant metabolic abnormalities and compromised antioxidant status, and 
+
+* (3) Supplemental zinc also alleviates renal lesions, cataract and the risk of cardiovascular disease accompanying diabetes mellitus, and help restore gastrointestinal health in experimental diabetes. 
+
+These studies have also attempted to identify the precise mechanisms responsible for zinc-mediated beneficial effects in diabetic situation. The evidence discussed in this review highlights that supplemental zinc may significantly contribute to its clinical application in the management of diabetic hyperglycemia and related metabolic abnormalities, and in the alleviation of secondary complications resulting from diabetic oxidative stress.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/zinc-diabetes-sci-hub-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### 1,490,000 hits for zinc (diabetes OR pancreas) as of Nov 2024
+
+ **[Google Scholar](https://scholar.google.com/scholar?q=zinc+(diabetes+OR+pancreas)&amp;hl=en&amp;as_sdt=0,48%20)** 
+
+---
+
+#### All categories associated with [Diabetes](/categories/diabetes)
+
+ **Intervention&lt;span style=&quot;color:#F06;&quot;&gt;55&lt;/span&gt;; &amp;nbsp;Pregnancy &lt;span style=&quot;color:#F06;&quot;&gt;42&lt;/span&gt;; &amp;nbsp;Infant-Child &lt;span style=&quot;color:#F06;&quot;&gt;38&lt;/span&gt;; &amp;nbsp;Meta-analysis &lt;span style=&quot;color:#F06;&quot;&gt;36&lt;/span&gt;;  &amp;nbsp;Obesity &lt;span style=&quot;color:#F06;&quot;&gt;32&lt;/span&gt;; &amp;nbsp;Cardiovascular &lt;span style=&quot;color:#F06;&quot;&gt;31&lt;/span&gt;; &amp;nbsp;&lt;span style=&quot;color:#00F;&quot;&gt;Magnesium&lt;/span&gt; &lt;span style=&quot;color:#F06;&quot;&gt;25&lt;/span&gt;; &amp;nbsp;Skin - Dark &lt;span style=&quot;color:#F06;&quot;&gt;24&lt;/span&gt;; &amp;nbsp;Intervention - non daily&lt;span style=&quot;color:#F06;&quot;&gt;22&lt;/span&gt;; &amp;nbsp;Vitamin D Receptor&lt;span style=&quot;color:#F06;&quot;&gt;22&lt;/span&gt;; &amp;nbsp;Metabolic Syndrome&lt;span style=&quot;color:#F06;&quot;&gt;15&lt;/span&gt;; &amp;nbsp;Hypertension&lt;span style=&quot;color:#F06;&quot;&gt;13&lt;/span&gt;; &amp;nbsp;Kidney&lt;span style=&quot;color:#F06;&quot;&gt;12&lt;/span&gt;; &amp;nbsp;Genetics&lt;span style=&quot;color:#F06;&quot;&gt;12&lt;/span&gt;; &amp;nbsp;Omega-3&lt;span style=&quot;color:#F06;&quot;&gt;11&lt;/span&gt;; &amp;nbsp;Cognitive&lt;span style=&quot;color:#F06;&quot;&gt;10&lt;/span&gt;; &amp;nbsp;Depression&lt;span style=&quot;color:#F06;&quot;&gt;10&lt;/span&gt;; &amp;nbsp;Cancer&lt;span style=&quot;color:#F06;&quot;&gt;9&lt;/span&gt;; &amp;nbsp;Autoimmune&lt;span style=&quot;color:#F06;&quot;&gt;9&lt;/span&gt;; &amp;nbsp;Deficiency&lt;span style=&quot;color:#F06;&quot;&gt;9&lt;/span&gt;; &amp;nbsp;Virus&lt;span style=&quot;color:#F06;&quot;&gt;8&lt;/span&gt;; &amp;nbsp;Loading dose&lt;span style=&quot;color:#F06;&quot;&gt;8&lt;/span&gt;; &amp;nbsp;Inflammation&lt;span style=&quot;color:#F06;&quot;&gt;8&lt;/span&gt;; &amp;nbsp;Vision&lt;span style=&quot;color:#F06;&quot;&gt;7&lt;/span&gt;; &amp;nbsp;Mortality &lt;span style=&quot;color:#F06;&quot;&gt;7&lt;/span&gt;; &amp;nbsp;Rheumatoid Arthritis&lt;span style=&quot;color:#F06;&quot;&gt;7&lt;/span&gt;; &amp;nbsp;Middle East&lt;span style=&quot;color:#F06;&quot;&gt;6&lt;/span&gt;; &amp;nbsp;Injection&lt;span style=&quot;color:#F06;&quot;&gt;6&lt;/span&gt;; &amp;nbsp;Immunity&lt;span style=&quot;color:#F06;&quot;&gt;6&lt;/span&gt;; &amp;nbsp;Antibiotics, probiotics&lt;span style=&quot;color:#F06;&quot;&gt;6&lt;/span&gt;; &amp;nbsp;Multiple Sclerosis&lt;span style=&quot;color:#F06;&quot;&gt;6&lt;/span&gt;; &amp;nbsp;Lupus&lt;span style=&quot;color:#F06;&quot;&gt;6&lt;/span&gt;; &amp;nbsp;Stroke&lt;span style=&quot;color:#F06;&quot;&gt;5&lt;/span&gt;; &amp;nbsp;Vitamin K&lt;span style=&quot;color:#F06;&quot;&gt;5&lt;/span&gt;; &amp;nbsp;Youth &lt;span style=&quot;color:#F06;&quot;&gt;5&lt;/span&gt;; &amp;nbsp;Vit D Binding Protein &lt;span style=&quot;color:#F06;&quot;&gt;5&lt;/span&gt;; &amp;nbsp;Bone - Health &lt;span style=&quot;color:#F06;&quot;&gt;4&lt;/span&gt;; &amp;nbsp;Pain - chronic &lt;span style=&quot;color:#F06;&quot;&gt;4&lt;/span&gt;; &amp;nbsp;Thyroid and parathyroid &lt;span style=&quot;color:#F06;&quot;&gt;4&lt;/span&gt;; &amp;nbsp;Books, videos &lt;span style=&quot;color:#F06;&quot;&gt;4&lt;/span&gt;; &amp;nbsp;Sports &lt;span style=&quot;color:#F06;&quot;&gt;4&lt;/span&gt;; &amp;nbsp;Fortification &lt;span style=&quot;color:#F06;&quot;&gt;4&lt;/span&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; As of Oct 2022** 
+
+ **and &lt;a href=&quot;/posts/zinc-cut-in-half-the-rate-of-prediabetes-progressing-to-diabetes-20-mg-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017&quot;&gt;Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017&lt;/a&gt;** 
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Zinc and Diabetes: A Connection between Micronutrient and Metabolism - Aug  2024`
+│   inner_content: `Zinc and Diabetes: A Connection between Micronutrient and Metabolism - Aug  2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zinc and Diabetes: A Connection between Micronutrient and Metabolism - Aug  2024`
+│   │   inner_content: `Zinc and Diabetes: A Connection between Micronutrient and Metabolism - Aug  2024`├── TextNode
+│   full_match: `\nCells 2024, 13(16), 1359; https://doi.org/10.3390/cells13161359\nby Rahnuma Ahmad 1ORCID,Ronald Shaju 2ORCID, Azeddine Atfi 3 and Mohammed S. Razzaque 2,*ORCID\n`
+│   inner_content: `\nCells 2024, 13(16), 1359; https://doi.org/10.3390/cells13161359\nby Rahnuma Ahmad 1ORCID,Ronald Shaju 2ORCID, Azeddine Atfi 3 and Mohammed S. Razzaque 2,*ORCID\n`├── ListItemNode
+│   full_match: `*1 Department of Physiology, Medical College for Women and Hospital, Dhaka 1230, Bangladesh`
+│   inner_content: `1 Department of Physiology, Medical College for Women and Hospital, Dhaka 1230, Bangladesh`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1 Department of Physiology, Medical College for Women and Hospital, Dhaka 1230, Bangladesh`
+│   │   inner_content: `1 Department of Physiology, Medical College for Women and Hospital, Dhaka 1230, Bangladesh`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*2 Department of Medical Education, School of Medicine, University of Texas Rio Grande Valley (UTRGV), Edinburg, TX 78541, USA`
+│   inner_content: `2 Department of Medical Education, School of Medicine, University of Texas Rio Grande Valley (UTRGV), Edinburg, TX 78541, USA`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2 Department of Medical Education, School of Medicine, University of Texas Rio Grande Valley (UTRGV), Edinburg, TX 78541, USA`
+│   │   inner_content: `2 Department of Medical Education, School of Medicine, University of Texas Rio Grande Valley (UTRGV), Edinburg, TX 78541, USA`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*3 Department of Biochemistry and Molecular Biology, Massey Cancer Center, Virginia Commonwealth University, Richmond, VA 23298, USA`
+│   inner_content: `3 Department of Biochemistry and Molecular Biology, Massey Cancer Center, Virginia Commonwealth University, Richmond, VA 23298, USA`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3 Department of Biochemistry and Molecular Biology, Massey Cancer Center, Virginia Commonwealth University, Richmond, VA 23298, USA`
+│   │   inner_content: `3 Department of Biochemistry and Molecular Biology, Massey Cancer Center, Virginia Commonwealth University, Richmond, VA 23298, USA`├── TextNode
+│   full_match: `\nDiabetes mellitus is a global health problem and a major contributor to mortality and morbidity. The management of this condition typically involves using oral antidiabetic medication, insulin, and appropriate dietary modifications, with a focus on macronutrient intake. However, several human studies have indicated that a deficiency in micronutrients, such as zinc, can be associated with insulin resistance as well as greater glucose intolerance. Zinc serves as a chemical messenger, acts as a cofactor to increase enzyme activity, and is involved in insulin formation, release, and storage. These diverse functions make zinc an important trace element for the regulation of blood glucose levels. Adequate zinc levels have also been shown to reduce the risk of developing diabetic complications. This review article explains the role of zinc in glucose metabolism and the effects of its inadequacy on the development, progression, and complications of diabetes mellitus. Furthermore, it describes the impact of zinc supplementation on preventing diabetes mellitus. The available information suggests that zinc has beneficial effects on the management of diabetic patients. Although additional large-scale randomized clinical trials are needed to establish zinc’s clinical utility further, efforts should be made to increase awareness of its potential benefits on human health and disease.\n`
+│   inner_content: `\nDiabetes mellitus is a global health problem and a major contributor to mortality and morbidity. The management of this condition typically involves using oral antidiabetic medication, insulin, and appropriate dietary modifications, with a focus on macronutrient intake. However, several human studies have indicated that a deficiency in micronutrients, such as zinc, can be associated with insulin resistance as well as greater glucose intolerance. Zinc serves as a chemical messenger, acts as a cofactor to increase enzyme activity, and is involved in insulin formation, release, and storage. These diverse functions make zinc an important trace element for the regulation of blood glucose levels. Adequate zinc levels have also been shown to reduce the risk of developing diabetic complications. This review article explains the role of zinc in glucose metabolism and the effects of its inadequacy on the development, progression, and complications of diabetes mellitus. Furthermore, it describes the impact of zinc supplementation on preventing diabetes mellitus. The available information suggests that zinc has beneficial effects on the management of diabetic patients. Although additional large-scale randomized clinical trials are needed to establish zinc’s clinical utility further, efforts should be made to increase awareness of its potential benefits on human health and disease.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21920&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21920&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21920&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21920&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21920&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21920&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21920
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!129 References`
+│   inner_content: `129 References`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `129 References`
+│   │   inner_content: `129 References`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Holt, R.I.; DeVries, J.H.; Hess-Fischl, A.; Hirsch, I.B.; Kirkman, M.S.; Klupa, T.; Ludwig, B.; Norgaard, K.; Pettus, J.; Renard, E.; et al. The management of type 1 diabetes in adults. A consensus report by the American diabetes association (ADA) and the European association for the Study of Diabetes (EASD). Diabetes Care 2021, 44, 2589-2625. [CrossRef]`
+│   inner_content: `Holt, R.I.; DeVries, J.H.; Hess-Fischl, A.; Hirsch, I.B.; Kirkman, M.S.; Klupa, T.; Ludwig, B.; Norgaard, K.; Pettus, J.; Renard, E.; et al. The management of type 1 diabetes in adults. A consensus report by the American diabetes association (ADA) and the European association for the Study of Diabetes (EASD). Diabetes Care 2021, 44, 2589-2625. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Holt, R.I.; DeVries, J.H.; Hess-Fischl, A.; Hirsch, I.B.; Kirkman, M.S.; Klupa, T.; Ludwig, B.; Norgaard, K.; Pettus, J.; Renard, E.; et al. The management of type 1 diabetes in adults. A consensus report by the American diabetes association (ADA) and the European association for the Study of Diabetes (EASD). Diabetes Care 2021, 44, 2589-2625. `
+│   │   inner_content: `Holt, R.I.; DeVries, J.H.; Hess-Fischl, A.; Hirsch, I.B.; Kirkman, M.S.; Klupa, T.; Ludwig, B.; Norgaard, K.; Pettus, J.; Renard, E.; et al. The management of type 1 diabetes in adults. A consensus report by the American diabetes association (ADA) and the European association for the Study of Diabetes (EASD). Diabetes Care 2021, 44, 2589-2625. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#ElSayed, N.A.; Aleppo, G.; Aroda, V.R.; Bannuru, R.R.; Brown, F.M.; Bruemmer, D.; Collins, B.S.; Gaglia, J.L.; Hilliard, M.E.; Isaacs, D.; et al. Classification and diagnosis of diabetes: Standards of Care in Diabetes. Diabetes Care 2022, 46, S19-S40. [CrossRef]`
+│   inner_content: `ElSayed, N.A.; Aleppo, G.; Aroda, V.R.; Bannuru, R.R.; Brown, F.M.; Bruemmer, D.; Collins, B.S.; Gaglia, J.L.; Hilliard, M.E.; Isaacs, D.; et al. Classification and diagnosis of diabetes: Standards of Care in Diabetes. Diabetes Care 2022, 46, S19-S40. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `ElSayed, N.A.; Aleppo, G.; Aroda, V.R.; Bannuru, R.R.; Brown, F.M.; Bruemmer, D.; Collins, B.S.; Gaglia, J.L.; Hilliard, M.E.; Isaacs, D.; et al. Classification and diagnosis of diabetes: Standards of Care in Diabetes. Diabetes Care 2022, 46, S19-S40. `
+│   │   inner_content: `ElSayed, N.A.; Aleppo, G.; Aroda, V.R.; Bannuru, R.R.; Brown, F.M.; Bruemmer, D.; Collins, B.S.; Gaglia, J.L.; Hilliard, M.E.; Isaacs, D.; et al. Classification and diagnosis of diabetes: Standards of Care in Diabetes. Diabetes Care 2022, 46, S19-S40. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hasanato, R.M. Trace elements in type 2 diabetes mellitus and their association with glycemic control. Afr. Health Sci. 2020, 20, 287-293. [CrossRef]`
+│   inner_content: `Hasanato, R.M. Trace elements in type 2 diabetes mellitus and their association with glycemic control. Afr. Health Sci. 2020, 20, 287-293. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hasanato, R.M. Trace elements in type 2 diabetes mellitus and their association with glycemic control. Afr. Health Sci. 2020, 20, 287-293. `
+│   │   inner_content: `Hasanato, R.M. Trace elements in type 2 diabetes mellitus and their association with glycemic control. Afr. Health Sci. 2020, 20, 287-293. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Farooq, M.__Zinc__ deficiency is associated with poor glycemic control. J. Coll. Physicians Surg. Pak. 2019,29, 253-257. [CrossRef]`
+│   inner_content: `Farooq, M.__Zinc__ deficiency is associated with poor glycemic control. J. Coll. Physicians Surg. Pak. 2019,29, 253-257. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Farooq, M.`
+│   │   inner_content: `Farooq, M.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficiency is associated with poor glycemic control. J. Coll. Physicians Surg. Pak. 2019,29, 253-257. `
+│   │   inner_content: ` deficiency is associated with poor glycemic control. J. Coll. Physicians Surg. Pak. 2019,29, 253-257. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Tamura, Y. The role of__Zinc__ homeostasis in the prevention of diabetes mellitus and cardiovascular diseases. J. Atheroscler. Thromb 28,1109-1122. [CrossRef] [PubMed]`
+│   inner_content: `Tamura, Y. The role of__Zinc__ homeostasis in the prevention of diabetes mellitus and cardiovascular diseases. J. Atheroscler. Thromb 28,1109-1122. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tamura, Y. The role of`
+│   │   inner_content: `Tamura, Y. The role of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` homeostasis in the prevention of diabetes mellitus and cardiovascular diseases. J. Atheroscler. Thromb 28,1109-1122. `
+│   │   inner_content: ` homeostasis in the prevention of diabetes mellitus and cardiovascular diseases. J. Atheroscler. Thromb 28,1109-1122. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Maret, W.__Zinc__ in pancreatic islet biology, insulin sensitivity, and diabetes. Prev. Nutr. Food Sci. 2017, 22,1-8. [CrossRef]`
+│   inner_content: `Maret, W.__Zinc__ in pancreatic islet biology, insulin sensitivity, and diabetes. Prev. Nutr. Food Sci. 2017, 22,1-8. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Maret, W.`
+│   │   inner_content: `Maret, W.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` in pancreatic islet biology, insulin sensitivity, and diabetes. Prev. Nutr. Food Sci. 2017, 22,1-8. `
+│   │   inner_content: ` in pancreatic islet biology, insulin sensitivity, and diabetes. Prev. Nutr. Food Sci. 2017, 22,1-8. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Blakemore, L.J.; Trombley, P.Q.__Zinc__ as a neuromodulator in the central nervous system with a focus on the olfactory bulb. Front. Cell. Neurosci. 2017, H, 297. [CrossRef]`
+│   inner_content: `Blakemore, L.J.; Trombley, P.Q.__Zinc__ as a neuromodulator in the central nervous system with a focus on the olfactory bulb. Front. Cell. Neurosci. 2017, H, 297. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Blakemore, L.J.; Trombley, P.Q.`
+│   │   inner_content: `Blakemore, L.J.; Trombley, P.Q.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` as a neuromodulator in the central nervous system with a focus on the olfactory bulb. Front. Cell. Neurosci. 2017, H, 297. `
+│   │   inner_content: ` as a neuromodulator in the central nervous system with a focus on the olfactory bulb. Front. Cell. Neurosci. 2017, H, 297. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Lim, K.H.C.; Riddell, L.J.; Nowson, C.A.; Booth, A.O.; Szymlek-Gay, E.A. Iron and__Zinc__ nutrition in the economically-developed world: A review. Nutrients 2013, 5, 3184-3211. [CrossRef] [PubMed]`
+│   inner_content: `Lim, K.H.C.; Riddell, L.J.; Nowson, C.A.; Booth, A.O.; Szymlek-Gay, E.A. Iron and__Zinc__ nutrition in the economically-developed world: A review. Nutrients 2013, 5, 3184-3211. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lim, K.H.C.; Riddell, L.J.; Nowson, C.A.; Booth, A.O.; Szymlek-Gay, E.A. Iron and`
+│   │   inner_content: `Lim, K.H.C.; Riddell, L.J.; Nowson, C.A.; Booth, A.O.; Szymlek-Gay, E.A. Iron and`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` nutrition in the economically-developed world: A review. Nutrients 2013, 5, 3184-3211. `
+│   │   inner_content: ` nutrition in the economically-developed world: A review. Nutrients 2013, 5, 3184-3211. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Saper, R.B.; Rash, R.__Zinc__: An essential micronutrient. Am. Fam. Physician 2009, 79, 768-772. [PubMed]`
+│   inner_content: `Saper, R.B.; Rash, R.__Zinc__: An essential micronutrient. Am. Fam. Physician 2009, 79, 768-772. [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Saper, R.B.; Rash, R.`
+│   │   inner_content: `Saper, R.B.; Rash, R.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `: An essential micronutrient. Am. Fam. Physician 2009, 79, 768-772. `
+│   │   inner_content: `: An essential micronutrient. Am. Fam. Physician 2009, 79, 768-772. `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Santos, H.O.; Teixeira, F.J.; Schoenfeld, B.J. Dietary vs. pharmacological doses of__Zinc__: A clinical review. Clin. Nutr. 2020, 39, 1345-1353. [CrossRef]`
+│   inner_content: `Santos, H.O.; Teixeira, F.J.; Schoenfeld, B.J. Dietary vs. pharmacological doses of__Zinc__: A clinical review. Clin. Nutr. 2020, 39, 1345-1353. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Santos, H.O.; Teixeira, F.J.; Schoenfeld, B.J. Dietary vs. pharmacological doses of`
+│   │   inner_content: `Santos, H.O.; Teixeira, F.J.; Schoenfeld, B.J. Dietary vs. pharmacological doses of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `: A clinical review. Clin. Nutr. 2020, 39, 1345-1353. `
+│   │   inner_content: `: A clinical review. Clin. Nutr. 2020, 39, 1345-1353. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#DRI Dietary Reference Intakes. Applications in Dietary Assessment: Washington, DC, USA, 2000. [CrossRef]`
+│   inner_content: `DRI Dietary Reference Intakes. Applications in Dietary Assessment: Washington, DC, USA, 2000. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `DRI Dietary Reference Intakes. Applications in Dietary Assessment: Washington, DC, USA, 2000. `
+│   │   inner_content: `DRI Dietary Reference Intakes. Applications in Dietary Assessment: Washington, DC, USA, 2000. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Szewczyk, B.__Zinc__ homeostasis and neurodegenerative disorders. Front. Aging Neurosci. 2013, 5, 54272. [CrossRef] [PubMed]`
+│   inner_content: `Szewczyk, B.__Zinc__ homeostasis and neurodegenerative disorders. Front. Aging Neurosci. 2013, 5, 54272. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Szewczyk, B.`
+│   │   inner_content: `Szewczyk, B.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` homeostasis and neurodegenerative disorders. Front. Aging Neurosci. 2013, 5, 54272. `
+│   │   inner_content: ` homeostasis and neurodegenerative disorders. Front. Aging Neurosci. 2013, 5, 54272. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Wang, L.J.; Wang, M.Q.; Hu, R.; Yang, Y.; Huang, Y.S.; Xian, S.X.; Lu, L. Effect of__Zinc__ supplementation on maintenance Hemodialysis Patients: A systematic review and meta-analysis of 15 randomized controlled trials. BioMed Res. Int. 2017, 2017,1024769. [CrossRef] [PubMed]`
+│   inner_content: `Wang, L.J.; Wang, M.Q.; Hu, R.; Yang, Y.; Huang, Y.S.; Xian, S.X.; Lu, L. Effect of__Zinc__ supplementation on maintenance Hemodialysis Patients: A systematic review and meta-analysis of 15 randomized controlled trials. BioMed Res. Int. 2017, 2017,1024769. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wang, L.J.; Wang, M.Q.; Hu, R.; Yang, Y.; Huang, Y.S.; Xian, S.X.; Lu, L. Effect of`
+│   │   inner_content: `Wang, L.J.; Wang, M.Q.; Hu, R.; Yang, Y.; Huang, Y.S.; Xian, S.X.; Lu, L. Effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation on maintenance Hemodialysis Patients: A systematic review and meta-analysis of 15 randomized controlled trials. BioMed Res. Int. 2017, 2017,1024769. `
+│   │   inner_content: ` supplementation on maintenance Hemodialysis Patients: A systematic review and meta-analysis of 15 randomized controlled trials. BioMed Res. Int. 2017, 2017,1024769. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Ranasinghe, P.; Wathurapatha, W.; Ishara, M.; Jayawardana, R.; Galappatthy, P.; Katulanda, P.; Constantine, G. Effects of__Zinc__ supplementation on serum lipids: A systematic review and meta-analysis. Nutr. Metab. 2015,12,1-16. [CrossRef] [PubMed]`
+│   inner_content: `Ranasinghe, P.; Wathurapatha, W.; Ishara, M.; Jayawardana, R.; Galappatthy, P.; Katulanda, P.; Constantine, G. Effects of__Zinc__ supplementation on serum lipids: A systematic review and meta-analysis. Nutr. Metab. 2015,12,1-16. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ranasinghe, P.; Wathurapatha, W.; Ishara, M.; Jayawardana, R.; Galappatthy, P.; Katulanda, P.; Constantine, G. Effects of`
+│   │   inner_content: `Ranasinghe, P.; Wathurapatha, W.; Ishara, M.; Jayawardana, R.; Galappatthy, P.; Katulanda, P.; Constantine, G. Effects of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation on serum lipids: A systematic review and meta-analysis. Nutr. Metab. 2015,12,1-16. `
+│   │   inner_content: ` supplementation on serum lipids: A systematic review and meta-analysis. Nutr. Metab. 2015,12,1-16. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Wegmuller, R.; Tay, F.; Zeder, C.; Brnic, M.; Hurrell, R.F.__Zinc__ absorption by young adults from supplemental__Zinc__ citrate is comparable with that from__Zinc__ gluconate and higher than from__Zinc__ oxide. J. Nutr. 2014,144,132-136. [CrossRef] [PubMed]`
+│   inner_content: `Wegmuller, R.; Tay, F.; Zeder, C.; Brnic, M.; Hurrell, R.F.__Zinc__ absorption by young adults from supplemental__Zinc__ citrate is comparable with that from__Zinc__ gluconate and higher than from__Zinc__ oxide. J. Nutr. 2014,144,132-136. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wegmuller, R.; Tay, F.; Zeder, C.; Brnic, M.; Hurrell, R.F.`
+│   │   inner_content: `Wegmuller, R.; Tay, F.; Zeder, C.; Brnic, M.; Hurrell, R.F.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` absorption by young adults from supplemental`
+│   │   inner_content: ` absorption by young adults from supplemental`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` citrate is comparable with that from`
+│   │   inner_content: ` citrate is comparable with that from`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` gluconate and higher than from`
+│   │   inner_content: ` gluconate and higher than from`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` oxide. J. Nutr. 2014,144,132-136. `
+│   │   inner_content: ` oxide. J. Nutr. 2014,144,132-136. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Shkembi, B.; Huppertz, T. Influence of dairy products on bioavailability of__Zinc__ from other food products: A Review of complementarity at a meal level. Nutrients 2021,13, 4253. [CrossRef] [PubMed]`
+│   inner_content: `Shkembi, B.; Huppertz, T. Influence of dairy products on bioavailability of__Zinc__ from other food products: A Review of complementarity at a meal level. Nutrients 2021,13, 4253. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Shkembi, B.; Huppertz, T. Influence of dairy products on bioavailability of`
+│   │   inner_content: `Shkembi, B.; Huppertz, T. Influence of dairy products on bioavailability of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` from other food products: A Review of complementarity at a meal level. Nutrients 2021,13, 4253. `
+│   │   inner_content: ` from other food products: A Review of complementarity at a meal level. Nutrients 2021,13, 4253. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Fairweather-Tait, S.; Hurrell, R.F. Bioavailability of minerals and trace elements. Nutr. Res. Rev. 1996, 9, 295-324. [CrossRef] [PubMed]`
+│   inner_content: `Fairweather-Tait, S.; Hurrell, R.F. Bioavailability of minerals and trace elements. Nutr. Res. Rev. 1996, 9, 295-324. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Fairweather-Tait, S.; Hurrell, R.F. Bioavailability of minerals and trace elements. Nutr. Res. Rev. 1996, 9, 295-324. `
+│   │   inner_content: `Fairweather-Tait, S.; Hurrell, R.F. Bioavailability of minerals and trace elements. Nutr. Res. Rev. 1996, 9, 295-324. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Roohani, N.; Hurrell, R.; Kelishadi, R.; Schulin, R.__Zinc__ and its importance for human health: An integrative review. J. Res. Med. Sci. 2013,18,144-157. [PubMed]`
+│   inner_content: `Roohani, N.; Hurrell, R.; Kelishadi, R.; Schulin, R.__Zinc__ and its importance for human health: An integrative review. J. Res. Med. Sci. 2013,18,144-157. [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Roohani, N.; Hurrell, R.; Kelishadi, R.; Schulin, R.`
+│   │   inner_content: `Roohani, N.; Hurrell, R.; Kelishadi, R.; Schulin, R.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and its importance for human health: An integrative review. J. Res. Med. Sci. 2013,18,144-157. `
+│   │   inner_content: ` and its importance for human health: An integrative review. J. Res. Med. Sci. 2013,18,144-157. `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Johnson, P.E.; Hunt, C.D.; Milne, D.B.; Mullen, L.K. Homeostatic control of__Zinc__ metabolism in men:__Zinc__ excretion and balance in men fed diets low in__Zinc__. Am. J. Clin. Nutr. 1993, 57, 557-565. [CrossRef]`
+│   inner_content: `Johnson, P.E.; Hunt, C.D.; Milne, D.B.; Mullen, L.K. Homeostatic control of__Zinc__ metabolism in men:__Zinc__ excretion and balance in men fed diets low in__Zinc__. Am. J. Clin. Nutr. 1993, 57, 557-565. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Johnson, P.E.; Hunt, C.D.; Milne, D.B.; Mullen, L.K. Homeostatic control of`
+│   │   inner_content: `Johnson, P.E.; Hunt, C.D.; Milne, D.B.; Mullen, L.K. Homeostatic control of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` metabolism in men:`
+│   │   inner_content: ` metabolism in men:`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` excretion and balance in men fed diets low in`
+│   │   inner_content: ` excretion and balance in men fed diets low in`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `. Am. J. Clin. Nutr. 1993, 57, 557-565. `
+│   │   inner_content: `. Am. J. Clin. Nutr. 1993, 57, 557-565. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#King, J.C.; Shames, D.M.; Woodhouse, L.R.__Zinc__ homeostasis in humans. J. Nutr. 2000,130,1360S-1366S. [CrossRef]`
+│   inner_content: `King, J.C.; Shames, D.M.; Woodhouse, L.R.__Zinc__ homeostasis in humans. J. Nutr. 2000,130,1360S-1366S. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `King, J.C.; Shames, D.M.; Woodhouse, L.R.`
+│   │   inner_content: `King, J.C.; Shames, D.M.; Woodhouse, L.R.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` homeostasis in humans. J. Nutr. 2000,130,1360S-1366S. `
+│   │   inner_content: ` homeostasis in humans. J. Nutr. 2000,130,1360S-1366S. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Wan, Y.; Zhang, B. The impact of__Zinc__ and__Zinc__ homeostasis on the intestinal mucosal barrier and intestinal diseases. Biomolecules`
+│   inner_content: `Wan, Y.; Zhang, B. The impact of__Zinc__ and__Zinc__ homeostasis on the intestinal mucosal barrier and intestinal diseases. Biomolecules`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wan, Y.; Zhang, B. The impact of`
+│   │   inner_content: `Wan, Y.; Zhang, B. The impact of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and`
+│   │   inner_content: ` and`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` homeostasis on the intestinal mucosal barrier and intestinal diseases. Biomolecules`
+│   │   inner_content: ` homeostasis on the intestinal mucosal barrier and intestinal diseases. Biomolecules`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#12, 900. [CrossRef]`
+│   inner_content: `12, 900. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `12, 900. `
+│   │   inner_content: `12, 900. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Nutrition and Food Safety (NFS). Vitamin and Mineral Requirements in Human Nutrition; World Health Organization and Food and Agricultural Organization of the United Nations: Geneva, Switzerland, 2004; ISBN 9241546123.`
+│   inner_content: `Nutrition and Food Safety (NFS). Vitamin and Mineral Requirements in Human Nutrition; World Health Organization and Food and Agricultural Organization of the United Nations: Geneva, Switzerland, 2004; ISBN 9241546123.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Nutrition and Food Safety (NFS). Vitamin and Mineral Requirements in Human Nutrition; World Health Organization and Food and Agricultural Organization of the United Nations: Geneva, Switzerland, 2004; ISBN 9241546123.`
+│   │   inner_content: `Nutrition and Food Safety (NFS). Vitamin and Mineral Requirements in Human Nutrition; World Health Organization and Food and Agricultural Organization of the United Nations: Geneva, Switzerland, 2004; ISBN 9241546123.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Turnlund, J.R.; King, J.C.; Keyes, W.R.; Gong, B.; Michel, M.C. A stable isotope study of__Zinc__ absorption in young men: Effects of phytate and a-cellulose. Am. J. Clin. Nutr. 1984, 40,1071-1077. [CrossRef] [PubMed]`
+│   inner_content: `Turnlund, J.R.; King, J.C.; Keyes, W.R.; Gong, B.; Michel, M.C. A stable isotope study of__Zinc__ absorption in young men: Effects of phytate and a-cellulose. Am. J. Clin. Nutr. 1984, 40,1071-1077. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Turnlund, J.R.; King, J.C.; Keyes, W.R.; Gong, B.; Michel, M.C. A stable isotope study of`
+│   │   inner_content: `Turnlund, J.R.; King, J.C.; Keyes, W.R.; Gong, B.; Michel, M.C. A stable isotope study of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` absorption in young men: Effects of phytate and a-cellulose. Am. J. Clin. Nutr. 1984, 40,1071-1077. `
+│   │   inner_content: ` absorption in young men: Effects of phytate and a-cellulose. Am. J. Clin. Nutr. 1984, 40,1071-1077. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Krebs, N.F. Overview of__Zinc__ absorption and excretion in the human gastrointestinal Tract. J. Nutr. 2000, 130, 1374S-1377S. [CrossRef] [PubMed]`
+│   inner_content: `Krebs, N.F. Overview of__Zinc__ absorption and excretion in the human gastrointestinal Tract. J. Nutr. 2000, 130, 1374S-1377S. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Krebs, N.F. Overview of`
+│   │   inner_content: `Krebs, N.F. Overview of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` absorption and excretion in the human gastrointestinal Tract. J. Nutr. 2000, 130, 1374S-1377S. `
+│   │   inner_content: ` absorption and excretion in the human gastrointestinal Tract. J. Nutr. 2000, 130, 1374S-1377S. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Tubek, S. Selected__Zinc__ metabolism parameters in premenopausal and postmenopausal women with moderate and severe primary arterial hypertension. Biol. Trace Elem. Res. 2007,116,249-255. [CrossRef]`
+│   inner_content: `Tubek, S. Selected__Zinc__ metabolism parameters in premenopausal and postmenopausal women with moderate and severe primary arterial hypertension. Biol. Trace Elem. Res. 2007,116,249-255. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tubek, S. Selected`
+│   │   inner_content: `Tubek, S. Selected`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` metabolism parameters in premenopausal and postmenopausal women with moderate and severe primary arterial hypertension. Biol. Trace Elem. Res. 2007,116,249-255. `
+│   │   inner_content: ` metabolism parameters in premenopausal and postmenopausal women with moderate and severe primary arterial hypertension. Biol. Trace Elem. Res. 2007,116,249-255. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Brown, K.H.; Rivera, J.A.; Bhutta, Z.; Gibson, R.S.; King, J.C.; Lonnerdal, B.; Ruel, M.T.; Sandtrom, B.; Wasantwisut, E.; Hotz, C. International__Zinc__ Nutrition Consultative Group (IZiNCG) technical document #Assessment of the risk of__Zinc__ deficiency in populations and options for its control. Food Nutr. Bull. 2004, 25, S99-S203. [PubMed]`
+│   inner_content: `Brown, K.H.; Rivera, J.A.; Bhutta, Z.; Gibson, R.S.; King, J.C.; Lonnerdal, B.; Ruel, M.T.; Sandtrom, B.; Wasantwisut, E.; Hotz, C. International__Zinc__ Nutrition Consultative Group (IZiNCG) technical document #Assessment of the risk of__Zinc__ deficiency in populations and options for its control. Food Nutr. Bull. 2004, 25, S99-S203. [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Brown, K.H.; Rivera, J.A.; Bhutta, Z.; Gibson, R.S.; King, J.C.; Lonnerdal, B.; Ruel, M.T.; Sandtrom, B.; Wasantwisut, E.; Hotz, C. International`
+│   │   inner_content: `Brown, K.H.; Rivera, J.A.; Bhutta, Z.; Gibson, R.S.; King, J.C.; Lonnerdal, B.; Ruel, M.T.; Sandtrom, B.; Wasantwisut, E.; Hotz, C. International`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` Nutrition Consultative Group (IZiNCG) technical document #Assessment of the risk of`
+│   │   inner_content: ` Nutrition Consultative Group (IZiNCG) technical document #Assessment of the risk of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficiency in populations and options for its control. Food Nutr. Bull. 2004, 25, S99-S203. `
+│   │   inner_content: ` deficiency in populations and options for its control. Food Nutr. Bull. 2004, 25, S99-S203. `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Devergnas, S.; Chimienti, F.; Naud, N.; Pennequin, A.; Coquerel, Y.; Chantegrel, J.; Favier, A.; Seve, M. Differential regulation of__Zinc__ efflux transporters ZnT-1, ZnT-5 and ZnT-7 gene expression by__Zinc__ levels: A real-time RT-PCR study. Biochem. Pharmacol. 2004, 68, 699-709. [CrossRef]`
+│   inner_content: `Devergnas, S.; Chimienti, F.; Naud, N.; Pennequin, A.; Coquerel, Y.; Chantegrel, J.; Favier, A.; Seve, M. Differential regulation of__Zinc__ efflux transporters ZnT-1, ZnT-5 and ZnT-7 gene expression by__Zinc__ levels: A real-time RT-PCR study. Biochem. Pharmacol. 2004, 68, 699-709. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Devergnas, S.; Chimienti, F.; Naud, N.; Pennequin, A.; Coquerel, Y.; Chantegrel, J.; Favier, A.; Seve, M. Differential regulation of`
+│   │   inner_content: `Devergnas, S.; Chimienti, F.; Naud, N.; Pennequin, A.; Coquerel, Y.; Chantegrel, J.; Favier, A.; Seve, M. Differential regulation of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` efflux transporters ZnT-1, ZnT-5 and ZnT-7 gene expression by`
+│   │   inner_content: ` efflux transporters ZnT-1, ZnT-5 and ZnT-7 gene expression by`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` levels: A real-time RT-PCR study. Biochem. Pharmacol. 2004, 68, 699-709. `
+│   │   inner_content: ` levels: A real-time RT-PCR study. Biochem. Pharmacol. 2004, 68, 699-709. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Sekler, I.; Sensi, S.L.; Hershfinkel, M.; Silverman, W.F. Mechanism and regulation of cellular__Zinc__ transport. Mol. Med. 2007,13, 337-343. [CrossRef]`
+│   inner_content: `Sekler, I.; Sensi, S.L.; Hershfinkel, M.; Silverman, W.F. Mechanism and regulation of cellular__Zinc__ transport. Mol. Med. 2007,13, 337-343. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Sekler, I.; Sensi, S.L.; Hershfinkel, M.; Silverman, W.F. Mechanism and regulation of cellular`
+│   │   inner_content: `Sekler, I.; Sensi, S.L.; Hershfinkel, M.; Silverman, W.F. Mechanism and regulation of cellular`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transport. Mol. Med. 2007,13, 337-343. `
+│   │   inner_content: ` transport. Mol. Med. 2007,13, 337-343. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Liuzzi, J.P.; Cousins, R.J. Mammalian__Zinc__ transporters. Annu. Rev. Nutr. 2004, 24,151-172. [CrossRef]`
+│   inner_content: `Liuzzi, J.P.; Cousins, R.J. Mammalian__Zinc__ transporters. Annu. Rev. Nutr. 2004, 24,151-172. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Liuzzi, J.P.; Cousins, R.J. Mammalian`
+│   │   inner_content: `Liuzzi, J.P.; Cousins, R.J. Mammalian`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporters. Annu. Rev. Nutr. 2004, 24,151-172. `
+│   │   inner_content: ` transporters. Annu. Rev. Nutr. 2004, 24,151-172. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#McMahon, R.J.; Cousins, R.J. Mammalian__Zinc__ transporters. J. Nutr. 1998,128, 667-670. [CrossRef]`
+│   inner_content: `McMahon, R.J.; Cousins, R.J. Mammalian__Zinc__ transporters. J. Nutr. 1998,128, 667-670. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `McMahon, R.J.; Cousins, R.J. Mammalian`
+│   │   inner_content: `McMahon, R.J.; Cousins, R.J. Mammalian`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporters. J. Nutr. 1998,128, 667-670. `
+│   │   inner_content: ` transporters. J. Nutr. 1998,128, 667-670. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#McMahon, R.J.; Cousins, R.J. Regulation of the__Zinc__ transporter ZnT-1 by dietary__Zinc__. Proc. Natl. Acad. Sci. USA 1998, 95, 4841-4846. [CrossRef]`
+│   inner_content: `McMahon, R.J.; Cousins, R.J. Regulation of the__Zinc__ transporter ZnT-1 by dietary__Zinc__. Proc. Natl. Acad. Sci. USA 1998, 95, 4841-4846. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `McMahon, R.J.; Cousins, R.J. Regulation of the`
+│   │   inner_content: `McMahon, R.J.; Cousins, R.J. Regulation of the`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporter ZnT-1 by dietary`
+│   │   inner_content: ` transporter ZnT-1 by dietary`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `. Proc. Natl. Acad. Sci. USA 1998, 95, 4841-4846. `
+│   │   inner_content: `. Proc. Natl. Acad. Sci. USA 1998, 95, 4841-4846. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Maret, W.__Zinc__ in cellular regulation: The nature and significance of &quot;zinc signals&quot;. Int. J. Mol. Sci. 2017,18, 2285. [CrossRef]`
+│   inner_content: `Maret, W.__Zinc__ in cellular regulation: The nature and significance of &quot;zinc signals&quot;. Int. J. Mol. Sci. 2017,18, 2285. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Maret, W.`
+│   │   inner_content: `Maret, W.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` in cellular regulation: The nature and significance of &quot;zinc signals&quot;. Int. J. Mol. Sci. 2017,18, 2285. `
+│   │   inner_content: ` in cellular regulation: The nature and significance of &quot;zinc signals&quot;. Int. J. Mol. Sci. 2017,18, 2285. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Razzaque, M.S. COVID-19 pandemic: Can__Zinc__ supplementation provide an additional shield against the infection? Comput. Struct. Biotechnol. J. 2021,19,1371-1378. [CrossRef] [PubMed]`
+│   inner_content: `Razzaque, M.S. COVID-19 pandemic: Can__Zinc__ supplementation provide an additional shield against the infection? Comput. Struct. Biotechnol. J. 2021,19,1371-1378. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Razzaque, M.S. COVID-19 pandemic: Can`
+│   │   inner_content: `Razzaque, M.S. COVID-19 pandemic: Can`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation provide an additional shield against the infection? Comput. Struct. Biotechnol. J. 2021,19,1371-1378. `
+│   │   inner_content: ` supplementation provide an additional shield against the infection? Comput. Struct. Biotechnol. J. 2021,19,1371-1378. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Razzaque, M.S. COVID-19 Pandemic: Can maintaining optimal__Zinc__ balance enhance host resistance? Tohoku J. Exp. Med. 2020, 251,175-181. [CrossRef] [PubMed]`
+│   inner_content: `Razzaque, M.S. COVID-19 Pandemic: Can maintaining optimal__Zinc__ balance enhance host resistance? Tohoku J. Exp. Med. 2020, 251,175-181. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Razzaque, M.S. COVID-19 Pandemic: Can maintaining optimal`
+│   │   inner_content: `Razzaque, M.S. COVID-19 Pandemic: Can maintaining optimal`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` balance enhance host resistance? Tohoku J. Exp. Med. 2020, 251,175-181. `
+│   │   inner_content: ` balance enhance host resistance? Tohoku J. Exp. Med. 2020, 251,175-181. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Andreini, C.; Banci, L.; Bertini, I.; Rosato, A. counting the__Zinc__-proteins encoded in the human genome. J. Proteome Res. 2006, 5, 196-201. [CrossRef] [PubMed]`
+│   inner_content: `Andreini, C.; Banci, L.; Bertini, I.; Rosato, A. counting the__Zinc__-proteins encoded in the human genome. J. Proteome Res. 2006, 5, 196-201. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Andreini, C.; Banci, L.; Bertini, I.; Rosato, A. counting the`
+│   │   inner_content: `Andreini, C.; Banci, L.; Bertini, I.; Rosato, A. counting the`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `-proteins encoded in the human genome. J. Proteome Res. 2006, 5, 196-201. `
+│   │   inner_content: `-proteins encoded in the human genome. J. Proteome Res. 2006, 5, 196-201. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#King, J.C.__Zinc__: An essential but elusive nutrient. Am. J. Clin. Nutr. 2011, 94, 679S-684S. [CrossRef] [PubMed]`
+│   inner_content: `King, J.C.__Zinc__: An essential but elusive nutrient. Am. J. Clin. Nutr. 2011, 94, 679S-684S. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `King, J.C.`
+│   │   inner_content: `King, J.C.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `: An essential but elusive nutrient. Am. J. Clin. Nutr. 2011, 94, 679S-684S. `
+│   │   inner_content: `: An essential but elusive nutrient. Am. J. Clin. Nutr. 2011, 94, 679S-684S. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Jones, S.; Farr, G.; Nimmanon, T.; Ziliotto, S.; Gee, J.M.W.; Taylor, K.M. The importance of targeting signalling mechanisms of the SLC39A family of__Zinc__ transporters to inhibit endocrine resistant breast cancer. Explor. Target. Antitumor 2022, 3, 224-239. [CrossRef]`
+│   inner_content: `Jones, S.; Farr, G.; Nimmanon, T.; Ziliotto, S.; Gee, J.M.W.; Taylor, K.M. The importance of targeting signalling mechanisms of the SLC39A family of__Zinc__ transporters to inhibit endocrine resistant breast cancer. Explor. Target. Antitumor 2022, 3, 224-239. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jones, S.; Farr, G.; Nimmanon, T.; Ziliotto, S.; Gee, J.M.W.; Taylor, K.M. The importance of targeting signalling mechanisms of the SLC39A family of`
+│   │   inner_content: `Jones, S.; Farr, G.; Nimmanon, T.; Ziliotto, S.; Gee, J.M.W.; Taylor, K.M. The importance of targeting signalling mechanisms of the SLC39A family of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporters to inhibit endocrine resistant breast cancer. Explor. Target. Antitumor 2022, 3, 224-239. `
+│   │   inner_content: ` transporters to inhibit endocrine resistant breast cancer. Explor. Target. Antitumor 2022, 3, 224-239. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Maywald, M.; Rink, L.__Zinc__ in human health and infectious diseases. Biomolecules 2022,12,1748. [CrossRef] [PubMed]`
+│   inner_content: `Maywald, M.; Rink, L.__Zinc__ in human health and infectious diseases. Biomolecules 2022,12,1748. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Maywald, M.; Rink, L.`
+│   │   inner_content: `Maywald, M.; Rink, L.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` in human health and infectious diseases. Biomolecules 2022,12,1748. `
+│   │   inner_content: ` in human health and infectious diseases. Biomolecules 2022,12,1748. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Bitirim, C.V. The role of__Zinc__ transporter proteins as predictive and prognostic biomarkers of hepatocellular cancer. Peer] 2021, 9, e12314. [CrossRef] [PubMed]`
+│   inner_content: `Bitirim, C.V. The role of__Zinc__ transporter proteins as predictive and prognostic biomarkers of hepatocellular cancer. Peer] 2021, 9, e12314. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Bitirim, C.V. The role of`
+│   │   inner_content: `Bitirim, C.V. The role of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporter proteins as predictive and prognostic biomarkers of hepatocellular cancer. Peer] 2021, 9, e12314. `
+│   │   inner_content: ` transporter proteins as predictive and prognostic biomarkers of hepatocellular cancer. Peer] 2021, 9, e12314. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Fong, L.Y.; Farber, J.L.; Croce, C.M.__Zinc__ intake, microRNA dysregulation, and esophageal cancer. Aging 2016, 8, 1161-1162. [CrossRef]`
+│   inner_content: `Fong, L.Y.; Farber, J.L.; Croce, C.M.__Zinc__ intake, microRNA dysregulation, and esophageal cancer. Aging 2016, 8, 1161-1162. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Fong, L.Y.; Farber, J.L.; Croce, C.M.`
+│   │   inner_content: `Fong, L.Y.; Farber, J.L.; Croce, C.M.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` intake, microRNA dysregulation, and esophageal cancer. Aging 2016, 8, 1161-1162. `
+│   │   inner_content: ` intake, microRNA dysregulation, and esophageal cancer. Aging 2016, 8, 1161-1162. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#MacKenzie, S.; Bergdahl, A.__Zinc__ homeostasis in diabetes mellitus and vascular complications. Biomedicines 2022, 10, 139. [CrossRef]`
+│   inner_content: `MacKenzie, S.; Bergdahl, A.__Zinc__ homeostasis in diabetes mellitus and vascular complications. Biomedicines 2022, 10, 139. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MacKenzie, S.; Bergdahl, A.`
+│   │   inner_content: `MacKenzie, S.; Bergdahl, A.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` homeostasis in diabetes mellitus and vascular complications. Biomedicines 2022, 10, 139. `
+│   │   inner_content: ` homeostasis in diabetes mellitus and vascular complications. Biomedicines 2022, 10, 139. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Wessels, I.; Maywald, M.; Rink, L.__Zinc__ as a gatekeeper of immune function. Nutrients 2017, 9,1286. [CrossRef]`
+│   inner_content: `Wessels, I.; Maywald, M.; Rink, L.__Zinc__ as a gatekeeper of immune function. Nutrients 2017, 9,1286. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wessels, I.; Maywald, M.; Rink, L.`
+│   │   inner_content: `Wessels, I.; Maywald, M.; Rink, L.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` as a gatekeeper of immune function. Nutrients 2017, 9,1286. `
+│   │   inner_content: ` as a gatekeeper of immune function. Nutrients 2017, 9,1286. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Uwitonze, A.M.; Ojeh, N.; Murererehe, J.; Atfi, A.; Razzaque, M.S.__Zinc__ adequacy is essential for the maintenance of optimal oral health. Nutrients 2020,12, 949. [CrossRef] [PubMed]`
+│   inner_content: `Uwitonze, A.M.; Ojeh, N.; Murererehe, J.; Atfi, A.; Razzaque, M.S.__Zinc__ adequacy is essential for the maintenance of optimal oral health. Nutrients 2020,12, 949. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Uwitonze, A.M.; Ojeh, N.; Murererehe, J.; Atfi, A.; Razzaque, M.S.`
+│   │   inner_content: `Uwitonze, A.M.; Ojeh, N.; Murererehe, J.; Atfi, A.; Razzaque, M.S.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` adequacy is essential for the maintenance of optimal oral health. Nutrients 2020,12, 949. `
+│   │   inner_content: ` adequacy is essential for the maintenance of optimal oral health. Nutrients 2020,12, 949. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Amos, A.; Razzaque, M.S.__Zinc__ and its role in vitamin D function. Curr. Res. Physiol. 2022, 5, 203-207. [CrossRef] [PubMed]`
+│   inner_content: `Amos, A.; Razzaque, M.S.__Zinc__ and its role in vitamin D function. Curr. Res. Physiol. 2022, 5, 203-207. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Amos, A.; Razzaque, M.S.`
+│   │   inner_content: `Amos, A.; Razzaque, M.S.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and its role in vitamin D function. Curr. Res. Physiol. 2022, 5, 203-207. `
+│   │   inner_content: ` and its role in vitamin D function. Curr. Res. Physiol. 2022, 5, 203-207. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Olechnowicz, J.; Tinkov, A.; Skalny, A.; Suliburska, J.__Zinc__ status is associated with inflammation, oxidative stress, lipid, and glucose metabolism. J. Physiol. Sci. 2018, 68,19-31. [CrossRef] [PubMed]`
+│   inner_content: `Olechnowicz, J.; Tinkov, A.; Skalny, A.; Suliburska, J.__Zinc__ status is associated with inflammation, oxidative stress, lipid, and glucose metabolism. J. Physiol. Sci. 2018, 68,19-31. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Olechnowicz, J.; Tinkov, A.; Skalny, A.; Suliburska, J.`
+│   │   inner_content: `Olechnowicz, J.; Tinkov, A.; Skalny, A.; Suliburska, J.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` status is associated with inflammation, oxidative stress, lipid, and glucose metabolism. J. Physiol. Sci. 2018, 68,19-31. `
+│   │   inner_content: ` status is associated with inflammation, oxidative stress, lipid, and glucose metabolism. J. Physiol. Sci. 2018, 68,19-31. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Fukunaka, A.; Fujitani, Y. Role of__Zinc__ homeostasis in the pathogenesis of diabetes and obesity. Int. J. Mol. Sci. 2018,19, 476. [CrossRef] [PubMed]`
+│   inner_content: `Fukunaka, A.; Fujitani, Y. Role of__Zinc__ homeostasis in the pathogenesis of diabetes and obesity. Int. J. Mol. Sci. 2018,19, 476. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Fukunaka, A.; Fujitani, Y. Role of`
+│   │   inner_content: `Fukunaka, A.; Fujitani, Y. Role of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` homeostasis in the pathogenesis of diabetes and obesity. Int. J. Mol. Sci. 2018,19, 476. `
+│   │   inner_content: ` homeostasis in the pathogenesis of diabetes and obesity. Int. J. Mol. Sci. 2018,19, 476. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Coulston, L.; Dandona, P. Insulin-like effect of__Zinc__ on adipocytes. Diabetes 1998,29, 665-667. [CrossRef] [PubMed]`
+│   inner_content: `Coulston, L.; Dandona, P. Insulin-like effect of__Zinc__ on adipocytes. Diabetes 1998,29, 665-667. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Coulston, L.; Dandona, P. Insulin-like effect of`
+│   │   inner_content: `Coulston, L.; Dandona, P. Insulin-like effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` on adipocytes. Diabetes 1998,29, 665-667. `
+│   │   inner_content: ` on adipocytes. Diabetes 1998,29, 665-667. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Khorsandi, H.; Nikpayam, O.; Yousefi, R.; Parandoosh, M.; Hosseinzadeh, N.; Saidpour, A.; Ghorbani, A.__Zinc__ supplementation improves body weight management, inflammatory biomarkers and insulin resistance in individuals with obesity: A randomized, placebo-controlled, double-blind trial. Diabetol. Metab. Syndr. 2019,11,1-10. [CrossRef] [PubMed]`
+│   inner_content: `Khorsandi, H.; Nikpayam, O.; Yousefi, R.; Parandoosh, M.; Hosseinzadeh, N.; Saidpour, A.; Ghorbani, A.__Zinc__ supplementation improves body weight management, inflammatory biomarkers and insulin resistance in individuals with obesity: A randomized, placebo-controlled, double-blind trial. Diabetol. Metab. Syndr. 2019,11,1-10. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Khorsandi, H.; Nikpayam, O.; Yousefi, R.; Parandoosh, M.; Hosseinzadeh, N.; Saidpour, A.; Ghorbani, A.`
+│   │   inner_content: `Khorsandi, H.; Nikpayam, O.; Yousefi, R.; Parandoosh, M.; Hosseinzadeh, N.; Saidpour, A.; Ghorbani, A.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation improves body weight management, inflammatory biomarkers and insulin resistance in individuals with obesity: A randomized, placebo-controlled, double-blind trial. Diabetol. Metab. Syndr. 2019,11,1-10. `
+│   │   inner_content: ` supplementation improves body weight management, inflammatory biomarkers and insulin resistance in individuals with obesity: A randomized, placebo-controlled, double-blind trial. Diabetol. Metab. Syndr. 2019,11,1-10. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Abdollahi, S.; Toupchian, O.; Jayedi, A.; Meyre, D.; Tam, V.; Soltani, S.__Zinc__ supplementation and body weight: A systematic review and dose-response meta-analysis of randomized controlled trials. Adv. Nutr. Int. Rev. J. 2020,11, 398-411. [CrossRef] [PubMed]`
+│   inner_content: `Abdollahi, S.; Toupchian, O.; Jayedi, A.; Meyre, D.; Tam, V.; Soltani, S.__Zinc__ supplementation and body weight: A systematic review and dose-response meta-analysis of randomized controlled trials. Adv. Nutr. Int. Rev. J. 2020,11, 398-411. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Abdollahi, S.; Toupchian, O.; Jayedi, A.; Meyre, D.; Tam, V.; Soltani, S.`
+│   │   inner_content: `Abdollahi, S.; Toupchian, O.; Jayedi, A.; Meyre, D.; Tam, V.; Soltani, S.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation and body weight: A systematic review and dose-response meta-analysis of randomized controlled trials. Adv. Nutr. Int. Rev. J. 2020,11, 398-411. `
+│   │   inner_content: ` supplementation and body weight: A systematic review and dose-response meta-analysis of randomized controlled trials. Adv. Nutr. Int. Rev. J. 2020,11, 398-411. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Franco, C.; Canzoniero, L.M.T.__Zinc__ homeostasis and redox alterations in obesity. Front. Endocrinol. 2024,14,1273177. [CrossRef] [PubMed]`
+│   inner_content: `Franco, C.; Canzoniero, L.M.T.__Zinc__ homeostasis and redox alterations in obesity. Front. Endocrinol. 2024,14,1273177. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Franco, C.; Canzoniero, L.M.T.`
+│   │   inner_content: `Franco, C.; Canzoniero, L.M.T.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` homeostasis and redox alterations in obesity. Front. Endocrinol. 2024,14,1273177. `
+│   │   inner_content: ` homeostasis and redox alterations in obesity. Front. Endocrinol. 2024,14,1273177. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Park, J.H.; Grandjean, C.J.; Antonson, D.L.; Vanderhoof, J.A. Effects of short-term isolated__Zinc__ deficiency on intestinal growth and activities of several brush border enzymes in weaning rats. Pediatr. Res. 1985,19,1333-1336. [CrossRef] [PubMed]`
+│   inner_content: `Park, J.H.; Grandjean, C.J.; Antonson, D.L.; Vanderhoof, J.A. Effects of short-term isolated__Zinc__ deficiency on intestinal growth and activities of several brush border enzymes in weaning rats. Pediatr. Res. 1985,19,1333-1336. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Park, J.H.; Grandjean, C.J.; Antonson, D.L.; Vanderhoof, J.A. Effects of short-term isolated`
+│   │   inner_content: `Park, J.H.; Grandjean, C.J.; Antonson, D.L.; Vanderhoof, J.A. Effects of short-term isolated`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficiency on intestinal growth and activities of several brush border enzymes in weaning rats. Pediatr. Res. 1985,19,1333-1336. `
+│   │   inner_content: ` deficiency on intestinal growth and activities of several brush border enzymes in weaning rats. Pediatr. Res. 1985,19,1333-1336. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Shankar, A.H.; Prasad, A.S.__Zinc__ and immune function: The biological basis of altered resistance to infection. Am. J. Clin. Nutr. 1998, 68, 447S-463S. [CrossRef]`
+│   inner_content: `Shankar, A.H.; Prasad, A.S.__Zinc__ and immune function: The biological basis of altered resistance to infection. Am. J. Clin. Nutr. 1998, 68, 447S-463S. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Shankar, A.H.; Prasad, A.S.`
+│   │   inner_content: `Shankar, A.H.; Prasad, A.S.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and immune function: The biological basis of altered resistance to infection. Am. J. Clin. Nutr. 1998, 68, 447S-463S. `
+│   │   inner_content: ` and immune function: The biological basis of altered resistance to infection. Am. J. Clin. Nutr. 1998, 68, 447S-463S. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hassan, A.; Sada, K.K.; Ketheeswaran, S.; Dubey, A.K.; Bhat, M.S. Role of__Zinc__ in mucosal health and disease: A review of physiological, biochemical, and molecular processes. Cureus 2020,12, e8197. [CrossRef] [PubMed]`
+│   inner_content: `Hassan, A.; Sada, K.K.; Ketheeswaran, S.; Dubey, A.K.; Bhat, M.S. Role of__Zinc__ in mucosal health and disease: A review of physiological, biochemical, and molecular processes. Cureus 2020,12, e8197. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hassan, A.; Sada, K.K.; Ketheeswaran, S.; Dubey, A.K.; Bhat, M.S. Role of`
+│   │   inner_content: `Hassan, A.; Sada, K.K.; Ketheeswaran, S.; Dubey, A.K.; Bhat, M.S. Role of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` in mucosal health and disease: A review of physiological, biochemical, and molecular processes. Cureus 2020,12, e8197. `
+│   │   inner_content: ` in mucosal health and disease: A review of physiological, biochemical, and molecular processes. Cureus 2020,12, e8197. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Prasad, A.S.; Bao, B.; Beck, F.W.; Sarkar, F.H.__Zinc__-suppressed inflammatory cytokines by induction of A20-mediated inhibition of nuclear factor-kappaB. Nutrition 2011,27, 816-823. [CrossRef] [PubMed]`
+│   inner_content: `Prasad, A.S.; Bao, B.; Beck, F.W.; Sarkar, F.H.__Zinc__-suppressed inflammatory cytokines by induction of A20-mediated inhibition of nuclear factor-kappaB. Nutrition 2011,27, 816-823. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Prasad, A.S.; Bao, B.; Beck, F.W.; Sarkar, F.H.`
+│   │   inner_content: `Prasad, A.S.; Bao, B.; Beck, F.W.; Sarkar, F.H.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `-suppressed inflammatory cytokines by induction of A20-mediated inhibition of nuclear factor-kappaB. Nutrition 2011,27, 816-823. `
+│   │   inner_content: `-suppressed inflammatory cytokines by induction of A20-mediated inhibition of nuclear factor-kappaB. Nutrition 2011,27, 816-823. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Prasad, A.S.; Bao, B.; Beck, F.W.; Kucuk, O.; Sarkar, F.H. Antioxidant effect of__Zinc__ in humans. Free. Radic. Biol. Med. 2004, 37, 1182-1190. [CrossRef] [PubMed]`
+│   inner_content: `Prasad, A.S.; Bao, B.; Beck, F.W.; Kucuk, O.; Sarkar, F.H. Antioxidant effect of__Zinc__ in humans. Free. Radic. Biol. Med. 2004, 37, 1182-1190. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Prasad, A.S.; Bao, B.; Beck, F.W.; Kucuk, O.; Sarkar, F.H. Antioxidant effect of`
+│   │   inner_content: `Prasad, A.S.; Bao, B.; Beck, F.W.; Kucuk, O.; Sarkar, F.H. Antioxidant effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` in humans. Free. Radic. Biol. Med. 2004, 37, 1182-1190. `
+│   │   inner_content: ` in humans. Free. Radic. Biol. Med. 2004, 37, 1182-1190. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#von Bulow, V.; Dubben, S.; Engelhardt, G.; Hebel, S.; Plumakers, B.; Heine, H.; Rink, L.; Haase, H.__Zinc__-dependent suppression of TNF-alpha production is mediated by protein kinase A-induced inhibition of Raf-1, I kappa B kinase beta, and NF-kappa B. J. Immunol. 2007,179, 4180-4186. [CrossRef] [PubMed]`
+│   inner_content: `von Bulow, V.; Dubben, S.; Engelhardt, G.; Hebel, S.; Plumakers, B.; Heine, H.; Rink, L.; Haase, H.__Zinc__-dependent suppression of TNF-alpha production is mediated by protein kinase A-induced inhibition of Raf-1, I kappa B kinase beta, and NF-kappa B. J. Immunol. 2007,179, 4180-4186. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `von Bulow, V.; Dubben, S.; Engelhardt, G.; Hebel, S.; Plumakers, B.; Heine, H.; Rink, L.; Haase, H.`
+│   │   inner_content: `von Bulow, V.; Dubben, S.; Engelhardt, G.; Hebel, S.; Plumakers, B.; Heine, H.; Rink, L.; Haase, H.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `-dependent suppression of TNF-alpha production is mediated by protein kinase A-induced inhibition of Raf-1, I kappa B kinase beta, and NF-kappa B. J. Immunol. 2007,179, 4180-4186. `
+│   │   inner_content: `-dependent suppression of TNF-alpha production is mediated by protein kinase A-induced inhibition of Raf-1, I kappa B kinase beta, and NF-kappa B. J. Immunol. 2007,179, 4180-4186. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Brieger, A.; Rink, L.; Haase, H. Differential regulation of TLR-dependent MyD88 and TRIF signaling pathways by free__Zinc__ ions. J. Immunol. 2013,191,1808-1817. [CrossRef] [PubMed]`
+│   inner_content: `Brieger, A.; Rink, L.; Haase, H. Differential regulation of TLR-dependent MyD88 and TRIF signaling pathways by free__Zinc__ ions. J. Immunol. 2013,191,1808-1817. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Brieger, A.; Rink, L.; Haase, H. Differential regulation of TLR-dependent MyD88 and TRIF signaling pathways by free`
+│   │   inner_content: `Brieger, A.; Rink, L.; Haase, H. Differential regulation of TLR-dependent MyD88 and TRIF signaling pathways by free`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` ions. J. Immunol. 2013,191,1808-1817. `
+│   │   inner_content: ` ions. J. Immunol. 2013,191,1808-1817. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Ferdowsi, P.V.; Ahuja, K.D.K.; Beckett, J.M.; Myers, S. Capsaicin and__Zinc__ signalling pathways as promising targets for managing insulin resistance and type 2 diabetes. Molecules 2023, 28, 2861. [CrossRef] [PubMed]`
+│   inner_content: `Ferdowsi, P.V.; Ahuja, K.D.K.; Beckett, J.M.; Myers, S. Capsaicin and__Zinc__ signalling pathways as promising targets for managing insulin resistance and type 2 diabetes. Molecules 2023, 28, 2861. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ferdowsi, P.V.; Ahuja, K.D.K.; Beckett, J.M.; Myers, S. Capsaicin and`
+│   │   inner_content: `Ferdowsi, P.V.; Ahuja, K.D.K.; Beckett, J.M.; Myers, S. Capsaicin and`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` signalling pathways as promising targets for managing insulin resistance and type 2 diabetes. Molecules 2023, 28, 2861. `
+│   │   inner_content: ` signalling pathways as promising targets for managing insulin resistance and type 2 diabetes. Molecules 2023, 28, 2861. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Ranasinghe, P.; Pigera, S.; Galappatthy, P.; Katulanda, P.; Constantine, G.R.__Zinc__ and diabetes mellitus: Understanding molecular mechanisms and clinical implications. DARU J. Pharm. Sci. 2015, 23,1-13. [CrossRef] [PubMed]`
+│   inner_content: `Ranasinghe, P.; Pigera, S.; Galappatthy, P.; Katulanda, P.; Constantine, G.R.__Zinc__ and diabetes mellitus: Understanding molecular mechanisms and clinical implications. DARU J. Pharm. Sci. 2015, 23,1-13. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ranasinghe, P.; Pigera, S.; Galappatthy, P.; Katulanda, P.; Constantine, G.R.`
+│   │   inner_content: `Ranasinghe, P.; Pigera, S.; Galappatthy, P.; Katulanda, P.; Constantine, G.R.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and diabetes mellitus: Understanding molecular mechanisms and clinical implications. DARU J. Pharm. Sci. 2015, 23,1-13. `
+│   │   inner_content: ` and diabetes mellitus: Understanding molecular mechanisms and clinical implications. DARU J. Pharm. Sci. 2015, 23,1-13. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Kelishadi, R.; Hashemipour, M.; Adeli, K.; Tavakoli, N.; Movahedian-Attar, A.; Shapouri, J.; Poursafa, P.; Rouzbahani, A. Effect of__Zinc__ supplementation on markers of insulin resistance, oxidative stress, and inflammation among prepubescent children with metabolic syndrome. Metab. Syndr. Relat. Disord. 2010, 8, 505-510. [CrossRef] [PubMed]`
+│   inner_content: `Kelishadi, R.; Hashemipour, M.; Adeli, K.; Tavakoli, N.; Movahedian-Attar, A.; Shapouri, J.; Poursafa, P.; Rouzbahani, A. Effect of__Zinc__ supplementation on markers of insulin resistance, oxidative stress, and inflammation among prepubescent children with metabolic syndrome. Metab. Syndr. Relat. Disord. 2010, 8, 505-510. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Kelishadi, R.; Hashemipour, M.; Adeli, K.; Tavakoli, N.; Movahedian-Attar, A.; Shapouri, J.; Poursafa, P.; Rouzbahani, A. Effect of`
+│   │   inner_content: `Kelishadi, R.; Hashemipour, M.; Adeli, K.; Tavakoli, N.; Movahedian-Attar, A.; Shapouri, J.; Poursafa, P.; Rouzbahani, A. Effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation on markers of insulin resistance, oxidative stress, and inflammation among prepubescent children with metabolic syndrome. Metab. Syndr. Relat. Disord. 2010, 8, 505-510. `
+│   │   inner_content: ` supplementation on markers of insulin resistance, oxidative stress, and inflammation among prepubescent children with metabolic syndrome. Metab. Syndr. Relat. Disord. 2010, 8, 505-510. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Vardatsikos, G.; Pandey, N.R.; Srivastava, A.K. Insulino-mimetic and anti-diabetic effects of__Zinc__. J. Inorg. Biochem. 2013,120, 8-17. [CrossRef] [PubMed]`
+│   inner_content: `Vardatsikos, G.; Pandey, N.R.; Srivastava, A.K. Insulino-mimetic and anti-diabetic effects of__Zinc__. J. Inorg. Biochem. 2013,120, 8-17. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vardatsikos, G.; Pandey, N.R.; Srivastava, A.K. Insulino-mimetic and anti-diabetic effects of`
+│   │   inner_content: `Vardatsikos, G.; Pandey, N.R.; Srivastava, A.K. Insulino-mimetic and anti-diabetic effects of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `. J. Inorg. Biochem. 2013,120, 8-17. `
+│   │   inner_content: `. J. Inorg. Biochem. 2013,120, 8-17. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Chimienti, F.__Zinc__, pancreatic islet cell function and diabetes: New insights into an old story. Nutr. Res. Rev. 2013, 26, 1-11. [CrossRef]`
+│   inner_content: `Chimienti, F.__Zinc__, pancreatic islet cell function and diabetes: New insights into an old story. Nutr. Res. Rev. 2013, 26, 1-11. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Chimienti, F.`
+│   │   inner_content: `Chimienti, F.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `, pancreatic islet cell function and diabetes: New insights into an old story. Nutr. Res. Rev. 2013, 26, 1-11. `
+│   │   inner_content: `, pancreatic islet cell function and diabetes: New insights into an old story. Nutr. Res. Rev. 2013, 26, 1-11. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Li, Y.V.__Zinc__ and insulin in pancreatic beta-cells. Endocrine 2013, 45,178-189. [CrossRef] [PubMed]`
+│   inner_content: `Li, Y.V.__Zinc__ and insulin in pancreatic beta-cells. Endocrine 2013, 45,178-189. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Li, Y.V.`
+│   │   inner_content: `Li, Y.V.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and insulin in pancreatic beta-cells. Endocrine 2013, 45,178-189. `
+│   │   inner_content: ` and insulin in pancreatic beta-cells. Endocrine 2013, 45,178-189. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Myers, S.A.__Zinc__ transporters and__Zinc__ signaling: New insights into their role in type 2 diabetes. Int. J. Endocrinol. 2015,1-7. [CrossRef]`
+│   inner_content: `Myers, S.A.__Zinc__ transporters and__Zinc__ signaling: New insights into their role in type 2 diabetes. Int. J. Endocrinol. 2015,1-7. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Myers, S.A.`
+│   │   inner_content: `Myers, S.A.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporters and`
+│   │   inner_content: ` transporters and`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` signaling: New insights into their role in type 2 diabetes. Int. J. Endocrinol. 2015,1-7. `
+│   │   inner_content: ` signaling: New insights into their role in type 2 diabetes. Int. J. Endocrinol. 2015,1-7. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Kambe, T.; Hashimoto, A.; Fujimoto, S. Current understanding of ZIP and ZnT__Zinc__ transporters in human health and diseases. Cell. Mol. Life Sci. 2014, 71, 3281-3295. [CrossRef] [PubMed]`
+│   inner_content: `Kambe, T.; Hashimoto, A.; Fujimoto, S. Current understanding of ZIP and ZnT__Zinc__ transporters in human health and diseases. Cell. Mol. Life Sci. 2014, 71, 3281-3295. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Kambe, T.; Hashimoto, A.; Fujimoto, S. Current understanding of ZIP and ZnT`
+│   │   inner_content: `Kambe, T.; Hashimoto, A.; Fujimoto, S. Current understanding of ZIP and ZnT`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporters in human health and diseases. Cell. Mol. Life Sci. 2014, 71, 3281-3295. `
+│   │   inner_content: ` transporters in human health and diseases. Cell. Mol. Life Sci. 2014, 71, 3281-3295. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Cai, Y.; Kirschke, C.P.; Huang, L. SLC30A family expression in the pancreatic islets of humans and mice: Cellular localization in the beta-cells. J. Mol. Histol. 2018, 49,133-145. [CrossRef] [PubMed]`
+│   inner_content: `Cai, Y.; Kirschke, C.P.; Huang, L. SLC30A family expression in the pancreatic islets of humans and mice: Cellular localization in the beta-cells. J. Mol. Histol. 2018, 49,133-145. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cai, Y.; Kirschke, C.P.; Huang, L. SLC30A family expression in the pancreatic islets of humans and mice: Cellular localization in the beta-cells. J. Mol. Histol. 2018, 49,133-145. `
+│   │   inner_content: `Cai, Y.; Kirschke, C.P.; Huang, L. SLC30A family expression in the pancreatic islets of humans and mice: Cellular localization in the beta-cells. J. Mol. Histol. 2018, 49,133-145. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Wijesekara, N.; Dai, F.F.; Hardy, A.B.; Giglou, P.R.; Bhattacharjee, A.; Koshkin, V.; Chimienti, F.; Gaisano, H.Y.; Rutter, G.A.; Wheeler, M.B. Beta cell-specific Znt8 deletion in mice causes marked defects in insulin processing, crystallisation and secretion. Diabetologia 2010, 53,1656-1668. [CrossRef]`
+│   inner_content: `Wijesekara, N.; Dai, F.F.; Hardy, A.B.; Giglou, P.R.; Bhattacharjee, A.; Koshkin, V.; Chimienti, F.; Gaisano, H.Y.; Rutter, G.A.; Wheeler, M.B. Beta cell-specific Znt8 deletion in mice causes marked defects in insulin processing, crystallisation and secretion. Diabetologia 2010, 53,1656-1668. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wijesekara, N.; Dai, F.F.; Hardy, A.B.; Giglou, P.R.; Bhattacharjee, A.; Koshkin, V.; Chimienti, F.; Gaisano, H.Y.; Rutter, G.A.; Wheeler, M.B. Beta cell-specific Znt8 deletion in mice causes marked defects in insulin processing, crystallisation and secretion. Diabetologia 2010, 53,1656-1668. `
+│   │   inner_content: `Wijesekara, N.; Dai, F.F.; Hardy, A.B.; Giglou, P.R.; Bhattacharjee, A.; Koshkin, V.; Chimienti, F.; Gaisano, H.Y.; Rutter, G.A.; Wheeler, M.B. Beta cell-specific Znt8 deletion in mice causes marked defects in insulin processing, crystallisation and secretion. Diabetologia 2010, 53,1656-1668. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Davidson, H.W.; Wenzlau, J.M.; O&#39;Brien, R.M.__Zinc__ transporter 8 (ZnT8) and beta cell function. Trends Endocrinol Metab. 2014, 25, 415-424. [CrossRef] [PubMed]`
+│   inner_content: `Davidson, H.W.; Wenzlau, J.M.; O&#39;Brien, R.M.__Zinc__ transporter 8 (ZnT8) and beta cell function. Trends Endocrinol Metab. 2014, 25, 415-424. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Davidson, H.W.; Wenzlau, J.M.; O&#39;Brien, R.M.`
+│   │   inner_content: `Davidson, H.W.; Wenzlau, J.M.; O&#39;Brien, R.M.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporter 8 (ZnT8) and beta cell function. Trends Endocrinol Metab. 2014, 25, 415-424. `
+│   │   inner_content: ` transporter 8 (ZnT8) and beta cell function. Trends Endocrinol Metab. 2014, 25, 415-424. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Foster, M.; Chu, A.; Petocz, P.; Samman, S.__Zinc__ transporter gene expression and glycemic control in post-menopausal women with type 2 diabetes mellitus. J. Trace Elements Med. Biol. 2014,28, 448-452. [CrossRef]`
+│   inner_content: `Foster, M.; Chu, A.; Petocz, P.; Samman, S.__Zinc__ transporter gene expression and glycemic control in post-menopausal women with type 2 diabetes mellitus. J. Trace Elements Med. Biol. 2014,28, 448-452. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Foster, M.; Chu, A.; Petocz, P.; Samman, S.`
+│   │   inner_content: `Foster, M.; Chu, A.; Petocz, P.; Samman, S.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporter gene expression and glycemic control in post-menopausal women with type 2 diabetes mellitus. J. Trace Elements Med. Biol. 2014,28, 448-452. `
+│   │   inner_content: ` transporter gene expression and glycemic control in post-menopausal women with type 2 diabetes mellitus. J. Trace Elements Med. Biol. 2014,28, 448-452. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Lefebvre, B.; Vandewalle, B.; Balavoine, A.-S.; Queniat, G.; Moerman, E.; Vantyghem, M.-C.; Le Bacquer, O.; Gmyr, V.; Pawlowski, V.; Kerr-Conte, J.; et al. Regulation and functional effects of ZNT8 in human pancreatic islets. J. Endocrinol. 2012, 214, 225-232. [CrossRef] [PubMed]`
+│   inner_content: `Lefebvre, B.; Vandewalle, B.; Balavoine, A.-S.; Queniat, G.; Moerman, E.; Vantyghem, M.-C.; Le Bacquer, O.; Gmyr, V.; Pawlowski, V.; Kerr-Conte, J.; et al. Regulation and functional effects of ZNT8 in human pancreatic islets. J. Endocrinol. 2012, 214, 225-232. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lefebvre, B.; Vandewalle, B.; Balavoine, A.-S.; Queniat, G.; Moerman, E.; Vantyghem, M.-C.; Le Bacquer, O.; Gmyr, V.; Pawlowski, V.; Kerr-Conte, J.; et al. Regulation and functional effects of ZNT8 in human pancreatic islets. J. Endocrinol. 2012, 214, 225-232. `
+│   │   inner_content: `Lefebvre, B.; Vandewalle, B.; Balavoine, A.-S.; Queniat, G.; Moerman, E.; Vantyghem, M.-C.; Le Bacquer, O.; Gmyr, V.; Pawlowski, V.; Kerr-Conte, J.; et al. Regulation and functional effects of ZNT8 in human pancreatic islets. J. Endocrinol. 2012, 214, 225-232. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Cruz, K.J.C.; de Oliveira, A.R.S.; Morais, J.B.S.; Severo, J.S.; Mendes, P.M.V.; Melo, S.R.d.S.; de Sousa, G.S.; Marreiro, D.D.N.__Zinc__ and insulin resistance: Biochemical and molecular aspects. Biol. Trace Elem. Res. 2018,186, 407-412. [CrossRef]`
+│   inner_content: `Cruz, K.J.C.; de Oliveira, A.R.S.; Morais, J.B.S.; Severo, J.S.; Mendes, P.M.V.; Melo, S.R.d.S.; de Sousa, G.S.; Marreiro, D.D.N.__Zinc__ and insulin resistance: Biochemical and molecular aspects. Biol. Trace Elem. Res. 2018,186, 407-412. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cruz, K.J.C.; de Oliveira, A.R.S.; Morais, J.B.S.; Severo, J.S.; Mendes, P.M.V.; Melo, S.R.d.S.; de Sousa, G.S.; Marreiro, D.D.N.`
+│   │   inner_content: `Cruz, K.J.C.; de Oliveira, A.R.S.; Morais, J.B.S.; Severo, J.S.; Mendes, P.M.V.; Melo, S.R.d.S.; de Sousa, G.S.; Marreiro, D.D.N.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and insulin resistance: Biochemical and molecular aspects. Biol. Trace Elem. Res. 2018,186, 407-412. `
+│   │   inner_content: ` and insulin resistance: Biochemical and molecular aspects. Biol. Trace Elem. Res. 2018,186, 407-412. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Huang, L.; Yan, M.; Kirschke, C.P. Over-expression of ZnT7 increases insulin synthesis and secretion in pancreatic beta-cells by promoting insulin gene transcription. Exp. Cell Res. 2010, 316, 2630-2643. [CrossRef]`
+│   inner_content: `Huang, L.; Yan, M.; Kirschke, C.P. Over-expression of ZnT7 increases insulin synthesis and secretion in pancreatic beta-cells by promoting insulin gene transcription. Exp. Cell Res. 2010, 316, 2630-2643. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Huang, L.; Yan, M.; Kirschke, C.P. Over-expression of ZnT7 increases insulin synthesis and secretion in pancreatic beta-cells by promoting insulin gene transcription. Exp. Cell Res. 2010, 316, 2630-2643. `
+│   │   inner_content: `Huang, L.; Yan, M.; Kirschke, C.P. Over-expression of ZnT7 increases insulin synthesis and secretion in pancreatic beta-cells by promoting insulin gene transcription. Exp. Cell Res. 2010, 316, 2630-2643. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Xiang, J.; Li, X.-Y.; Xu, M.; Hong, J.; Huang, Y.; Tan, J.-R.; Lu, X.; Dai, M.; Yu, B.; Ning, G.__Zinc__ transporter-8 gene (SLC30A8) is associated with type 2 diabetes in Chinese. J. Clin. Endocrinol. Metab. 2008, 93, 4107-4112. [CrossRef] [PubMed]`
+│   inner_content: `Xiang, J.; Li, X.-Y.; Xu, M.; Hong, J.; Huang, Y.; Tan, J.-R.; Lu, X.; Dai, M.; Yu, B.; Ning, G.__Zinc__ transporter-8 gene (SLC30A8) is associated with type 2 diabetes in Chinese. J. Clin. Endocrinol. Metab. 2008, 93, 4107-4112. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Xiang, J.; Li, X.-Y.; Xu, M.; Hong, J.; Huang, Y.; Tan, J.-R.; Lu, X.; Dai, M.; Yu, B.; Ning, G.`
+│   │   inner_content: `Xiang, J.; Li, X.-Y.; Xu, M.; Hong, J.; Huang, Y.; Tan, J.-R.; Lu, X.; Dai, M.; Yu, B.; Ning, G.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` transporter-8 gene (SLC30A8) is associated with type 2 diabetes in Chinese. J. Clin. Endocrinol. Metab. 2008, 93, 4107-4112. `
+│   │   inner_content: ` transporter-8 gene (SLC30A8) is associated with type 2 diabetes in Chinese. J. Clin. Endocrinol. Metab. 2008, 93, 4107-4112. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Salem, S.D.; Saif-Ali, R.; Ismail, I.S.; Al-Hamodi, Z.; Muniandy, S. Contribution of SLC30A8 variants to the risk of type 2 diabetes in a multi-ethnic population: A case control study. BMC Endocr. Disord. 2014,14, 2. [CrossRef]`
+│   inner_content: `Salem, S.D.; Saif-Ali, R.; Ismail, I.S.; Al-Hamodi, Z.; Muniandy, S. Contribution of SLC30A8 variants to the risk of type 2 diabetes in a multi-ethnic population: A case control study. BMC Endocr. Disord. 2014,14, 2. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Salem, S.D.; Saif-Ali, R.; Ismail, I.S.; Al-Hamodi, Z.; Muniandy, S. Contribution of SLC30A8 variants to the risk of type 2 diabetes in a multi-ethnic population: A case control study. BMC Endocr. Disord. 2014,14, 2. `
+│   │   inner_content: `Salem, S.D.; Saif-Ali, R.; Ismail, I.S.; Al-Hamodi, Z.; Muniandy, S. Contribution of SLC30A8 variants to the risk of type 2 diabetes in a multi-ethnic population: A case control study. BMC Endocr. Disord. 2014,14, 2. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Keller, S.R. Role of the insulin-regulated aminopeptidase IRAP in insulin action and diabetes. Biol. Pharm. Bull. 2004, 27, 761-764. [CrossRef] [PubMed]`
+│   inner_content: `Keller, S.R. Role of the insulin-regulated aminopeptidase IRAP in insulin action and diabetes. Biol. Pharm. Bull. 2004, 27, 761-764. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Keller, S.R. Role of the insulin-regulated aminopeptidase IRAP in insulin action and diabetes. Biol. Pharm. Bull. 2004, 27, 761-764. `
+│   │   inner_content: `Keller, S.R. Role of the insulin-regulated aminopeptidase IRAP in insulin action and diabetes. Biol. Pharm. Bull. 2004, 27, 761-764. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Walter, P.L.; Kampkotter, A.; Eckers, A.; Barthel, A.; Schmoll, D.; Sies, H.; Klotz, L.-O. Modulation of FoxO signaling in human hepatoma cells by exposure to copper or__Zinc__ ions. Arch. Biochem. Biophys. 2006, 454,107-113. [CrossRef] [PubMed]`
+│   inner_content: `Walter, P.L.; Kampkotter, A.; Eckers, A.; Barthel, A.; Schmoll, D.; Sies, H.; Klotz, L.-O. Modulation of FoxO signaling in human hepatoma cells by exposure to copper or__Zinc__ ions. Arch. Biochem. Biophys. 2006, 454,107-113. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Walter, P.L.; Kampkotter, A.; Eckers, A.; Barthel, A.; Schmoll, D.; Sies, H.; Klotz, L.-O. Modulation of FoxO signaling in human hepatoma cells by exposure to copper or`
+│   │   inner_content: `Walter, P.L.; Kampkotter, A.; Eckers, A.; Barthel, A.; Schmoll, D.; Sies, H.; Klotz, L.-O. Modulation of FoxO signaling in human hepatoma cells by exposure to copper or`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` ions. Arch. Biochem. Biophys. 2006, 454,107-113. `
+│   │   inner_content: ` ions. Arch. Biochem. Biophys. 2006, 454,107-113. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Tripathy, S.; Sumathi, S.; Raj, G. Minerals nutritional status of type 2 diabetic subjects. Int. J. Diabetes Dev. Ctries. 2003,24, 27-28.`
+│   inner_content: `Tripathy, S.; Sumathi, S.; Raj, G. Minerals nutritional status of type 2 diabetic subjects. Int. J. Diabetes Dev. Ctries. 2003,24, 27-28.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tripathy, S.; Sumathi, S.; Raj, G. Minerals nutritional status of type 2 diabetic subjects. Int. J. Diabetes Dev. Ctries. 2003,24, 27-28.`
+│   │   inner_content: `Tripathy, S.; Sumathi, S.; Raj, G. Minerals nutritional status of type 2 diabetic subjects. Int. J. Diabetes Dev. Ctries. 2003,24, 27-28.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hussein, M.; Fathy, W.; Hassan, A.; Elkareem, R.A.; Marzouk, S.; Kamal, Y.S.__Zinc__ deficiency correlates with severity of diabetic polyneuropathy. Brain Behav. 2021,11, e32349. [CrossRef]`
+│   inner_content: `Hussein, M.; Fathy, W.; Hassan, A.; Elkareem, R.A.; Marzouk, S.; Kamal, Y.S.__Zinc__ deficiency correlates with severity of diabetic polyneuropathy. Brain Behav. 2021,11, e32349. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hussein, M.; Fathy, W.; Hassan, A.; Elkareem, R.A.; Marzouk, S.; Kamal, Y.S.`
+│   │   inner_content: `Hussein, M.; Fathy, W.; Hassan, A.; Elkareem, R.A.; Marzouk, S.; Kamal, Y.S.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficiency correlates with severity of diabetic polyneuropathy. Brain Behav. 2021,11, e32349. `
+│   │   inner_content: ` deficiency correlates with severity of diabetic polyneuropathy. Brain Behav. 2021,11, e32349. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Beloucif, A.; Kechrid, Z.; Bekada, A.M.A. Effect of__Zinc__ deficiency on blood glucose, lipid profile, and antioxidant status in streptozotocin diabetic rats and the potential role of sesame oil. Biol. Trace Elem. Res. 2021, 200, 3236-3247. [CrossRef]`
+│   inner_content: `Beloucif, A.; Kechrid, Z.; Bekada, A.M.A. Effect of__Zinc__ deficiency on blood glucose, lipid profile, and antioxidant status in streptozotocin diabetic rats and the potential role of sesame oil. Biol. Trace Elem. Res. 2021, 200, 3236-3247. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Beloucif, A.; Kechrid, Z.; Bekada, A.M.A. Effect of`
+│   │   inner_content: `Beloucif, A.; Kechrid, Z.; Bekada, A.M.A. Effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficiency on blood glucose, lipid profile, and antioxidant status in streptozotocin diabetic rats and the potential role of sesame oil. Biol. Trace Elem. Res. 2021, 200, 3236-3247. `
+│   │   inner_content: ` deficiency on blood glucose, lipid profile, and antioxidant status in streptozotocin diabetic rats and the potential role of sesame oil. Biol. Trace Elem. Res. 2021, 200, 3236-3247. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Maremanda, K.P.; Srivalliputturu, S.B.; Jena, G.__Zinc__ deficient diet exacerbates the testicular and epididymal damage in type 2 diabetic rat: Studies on oxidative stress-related mechanisms. Reprod. Biol. 2020, 20,191-201. [CrossRef]`
+│   inner_content: `Maremanda, K.P.; Srivalliputturu, S.B.; Jena, G.__Zinc__ deficient diet exacerbates the testicular and epididymal damage in type 2 diabetic rat: Studies on oxidative stress-related mechanisms. Reprod. Biol. 2020, 20,191-201. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Maremanda, K.P.; Srivalliputturu, S.B.; Jena, G.`
+│   │   inner_content: `Maremanda, K.P.; Srivalliputturu, S.B.; Jena, G.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficient diet exacerbates the testicular and epididymal damage in type 2 diabetic rat: Studies on oxidative stress-related mechanisms. Reprod. Biol. 2020, 20,191-201. `
+│   │   inner_content: ` deficient diet exacerbates the testicular and epididymal damage in type 2 diabetic rat: Studies on oxidative stress-related mechanisms. Reprod. Biol. 2020, 20,191-201. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Sahu, C.; Jena, G. Dietary__Zinc__ deficient condition increases the bisphenol a toxicity in diabetic rat testes. Mutat. Res. Toxicol. Environ. Mutagen. 2022, 882, 503547. [CrossRef]`
+│   inner_content: `Sahu, C.; Jena, G. Dietary__Zinc__ deficient condition increases the bisphenol a toxicity in diabetic rat testes. Mutat. Res. Toxicol. Environ. Mutagen. 2022, 882, 503547. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Sahu, C.; Jena, G. Dietary`
+│   │   inner_content: `Sahu, C.; Jena, G. Dietary`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficient condition increases the bisphenol a toxicity in diabetic rat testes. Mutat. Res. Toxicol. Environ. Mutagen. 2022, 882, 503547. `
+│   │   inner_content: ` deficient condition increases the bisphenol a toxicity in diabetic rat testes. Mutat. Res. Toxicol. Environ. Mutagen. 2022, 882, 503547. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Elsaed, W.M.; Mohamed, H.A. Dietary__Zinc__ modifies diabetic-induced renal pathology in rats. Ren. Fail. 2016, 39, 246-257. [CrossRef]`
+│   inner_content: `Elsaed, W.M.; Mohamed, H.A. Dietary__Zinc__ modifies diabetic-induced renal pathology in rats. Ren. Fail. 2016, 39, 246-257. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Elsaed, W.M.; Mohamed, H.A. Dietary`
+│   │   inner_content: `Elsaed, W.M.; Mohamed, H.A. Dietary`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` modifies diabetic-induced renal pathology in rats. Ren. Fail. 2016, 39, 246-257. `
+│   │   inner_content: ` modifies diabetic-induced renal pathology in rats. Ren. Fail. 2016, 39, 246-257. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Fushimi, H.; Inoue, T.; Yamada, Y.; Horie, H.; Kameyama, M.; Inoue, K.; Minami, T.; Okazaki, Y.__Zinc__ deficiency exaggerates diabetic osteoporosis. Diabetes Res. Clin. Pr. 1993, 20,191-196. [CrossRef] [PubMed]`
+│   inner_content: `Fushimi, H.; Inoue, T.; Yamada, Y.; Horie, H.; Kameyama, M.; Inoue, K.; Minami, T.; Okazaki, Y.__Zinc__ deficiency exaggerates diabetic osteoporosis. Diabetes Res. Clin. Pr. 1993, 20,191-196. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Fushimi, H.; Inoue, T.; Yamada, Y.; Horie, H.; Kameyama, M.; Inoue, K.; Minami, T.; Okazaki, Y.`
+│   │   inner_content: `Fushimi, H.; Inoue, T.; Yamada, Y.; Horie, H.; Kameyama, M.; Inoue, K.; Minami, T.; Okazaki, Y.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficiency exaggerates diabetic osteoporosis. Diabetes Res. Clin. Pr. 1993, 20,191-196. `
+│   │   inner_content: ` deficiency exaggerates diabetic osteoporosis. Diabetes Res. Clin. Pr. 1993, 20,191-196. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Kim, H.J.; Vaziri, N.D. Contribution of impaired Nrf2-Keap1 pathway to oxidative stress and inflammation in chronic renal failure. Am. J. Physiol. Physiol. 2010,298, F662-F671. [CrossRef] [PubMed]`
+│   inner_content: `Kim, H.J.; Vaziri, N.D. Contribution of impaired Nrf2-Keap1 pathway to oxidative stress and inflammation in chronic renal failure. Am. J. Physiol. Physiol. 2010,298, F662-F671. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Kim, H.J.; Vaziri, N.D. Contribution of impaired Nrf2-Keap1 pathway to oxidative stress and inflammation in chronic renal failure. Am. J. Physiol. Physiol. 2010,298, F662-F671. `
+│   │   inner_content: `Kim, H.J.; Vaziri, N.D. Contribution of impaired Nrf2-Keap1 pathway to oxidative stress and inflammation in chronic renal failure. Am. J. Physiol. Physiol. 2010,298, F662-F671. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Suzuki, M.; Betsuyaku, T.; Ito, Y.; Nagai, K.; Nasuhara, Y.; Kaga, K.; Kondo, S.; Nishimura, M. Down-regulated NF-E2-related factor 2 in pulmonary macrophages of aged smokers and patients with chronic obstructive pulmonary disease. Am. J. Respir. Cell Mol. Biol. 2008, 39, 673-682. [CrossRef] [PubMed]`
+│   inner_content: `Suzuki, M.; Betsuyaku, T.; Ito, Y.; Nagai, K.; Nasuhara, Y.; Kaga, K.; Kondo, S.; Nishimura, M. Down-regulated NF-E2-related factor 2 in pulmonary macrophages of aged smokers and patients with chronic obstructive pulmonary disease. Am. J. Respir. Cell Mol. Biol. 2008, 39, 673-682. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Suzuki, M.; Betsuyaku, T.; Ito, Y.; Nagai, K.; Nasuhara, Y.; Kaga, K.; Kondo, S.; Nishimura, M. Down-regulated NF-E2-related factor 2 in pulmonary macrophages of aged smokers and patients with chronic obstructive pulmonary disease. Am. J. Respir. Cell Mol. Biol. 2008, 39, 673-682. `
+│   │   inner_content: `Suzuki, M.; Betsuyaku, T.; Ito, Y.; Nagai, K.; Nasuhara, Y.; Kaga, K.; Kondo, S.; Nishimura, M. Down-regulated NF-E2-related factor 2 in pulmonary macrophages of aged smokers and patients with chronic obstructive pulmonary disease. Am. J. Respir. Cell Mol. Biol. 2008, 39, 673-682. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Zhang, C.; Lu, X.; Tan, Y.; Li, B.; Miao, X.; Jin, L.; Shi, X.; Zhang, X.; Miao, L.; Li, X.; et al. Diabetes-induced hepatic pathogenic damage, inflammation, oxidative stress, and insulin resistance was exacerbated in__Zinc__ deficient mouse model. PLoS ONE 2012, 7, e49257. [CrossRef] [PubMed]`
+│   inner_content: `Zhang, C.; Lu, X.; Tan, Y.; Li, B.; Miao, X.; Jin, L.; Shi, X.; Zhang, X.; Miao, L.; Li, X.; et al. Diabetes-induced hepatic pathogenic damage, inflammation, oxidative stress, and insulin resistance was exacerbated in__Zinc__ deficient mouse model. PLoS ONE 2012, 7, e49257. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zhang, C.; Lu, X.; Tan, Y.; Li, B.; Miao, X.; Jin, L.; Shi, X.; Zhang, X.; Miao, L.; Li, X.; et al. Diabetes-induced hepatic pathogenic damage, inflammation, oxidative stress, and insulin resistance was exacerbated in`
+│   │   inner_content: `Zhang, C.; Lu, X.; Tan, Y.; Li, B.; Miao, X.; Jin, L.; Shi, X.; Zhang, X.; Miao, L.; Li, X.; et al. Diabetes-induced hepatic pathogenic damage, inflammation, oxidative stress, and insulin resistance was exacerbated in`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficient mouse model. PLoS ONE 2012, 7, e49257. `
+│   │   inner_content: ` deficient mouse model. PLoS ONE 2012, 7, e49257. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Zhao, Y.; Tan, Y.; Dai, J.; Li, B.; Guo, L.; Cui, J.; Wang, G.; Shi, X.; Zhang, X.; Mellen, N.; et al. Exacerbation of diabetes-induced testicular apoptosis by__Zinc__ deficiency is most likely associated with oxidative stress, p38 MAPK activation, and p53 activation in mice. Toxicol. Lett. 2011, 200,100-106. [CrossRef] [PubMed]`
+│   inner_content: `Zhao, Y.; Tan, Y.; Dai, J.; Li, B.; Guo, L.; Cui, J.; Wang, G.; Shi, X.; Zhang, X.; Mellen, N.; et al. Exacerbation of diabetes-induced testicular apoptosis by__Zinc__ deficiency is most likely associated with oxidative stress, p38 MAPK activation, and p53 activation in mice. Toxicol. Lett. 2011, 200,100-106. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zhao, Y.; Tan, Y.; Dai, J.; Li, B.; Guo, L.; Cui, J.; Wang, G.; Shi, X.; Zhang, X.; Mellen, N.; et al. Exacerbation of diabetes-induced testicular apoptosis by`
+│   │   inner_content: `Zhao, Y.; Tan, Y.; Dai, J.; Li, B.; Guo, L.; Cui, J.; Wang, G.; Shi, X.; Zhang, X.; Mellen, N.; et al. Exacerbation of diabetes-induced testicular apoptosis by`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` deficiency is most likely associated with oxidative stress, p38 MAPK activation, and p53 activation in mice. Toxicol. Lett. 2011, 200,100-106. `
+│   │   inner_content: ` deficiency is most likely associated with oxidative stress, p38 MAPK activation, and p53 activation in mice. Toxicol. Lett. 2011, 200,100-106. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Li, B.; Cui, W.; Tan, Y.; Luo, P.; Chen, Q.; Zhang, C.; Qu, W.; Miao, L.; Cai, L.__Zinc__ is essential for the transcription function of Nrf2 in human renal tubule cells in vitro and mouse kidney in vivo under the diabetic condition. J. Cell. Mol. Med. 2014,18, 895-906. [CrossRef] [PubMed]`
+│   inner_content: `Li, B.; Cui, W.; Tan, Y.; Luo, P.; Chen, Q.; Zhang, C.; Qu, W.; Miao, L.; Cai, L.__Zinc__ is essential for the transcription function of Nrf2 in human renal tubule cells in vitro and mouse kidney in vivo under the diabetic condition. J. Cell. Mol. Med. 2014,18, 895-906. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Li, B.; Cui, W.; Tan, Y.; Luo, P.; Chen, Q.; Zhang, C.; Qu, W.; Miao, L.; Cai, L.`
+│   │   inner_content: `Li, B.; Cui, W.; Tan, Y.; Luo, P.; Chen, Q.; Zhang, C.; Qu, W.; Miao, L.; Cai, L.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` is essential for the transcription function of Nrf2 in human renal tubule cells in vitro and mouse kidney in vivo under the diabetic condition. J. Cell. Mol. Med. 2014,18, 895-906. `
+│   │   inner_content: ` is essential for the transcription function of Nrf2 in human renal tubule cells in vitro and mouse kidney in vivo under the diabetic condition. J. Cell. Mol. Med. 2014,18, 895-906. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Rashid, S.; Qamar, K.; Tassaduq, I. Role of vitamin E in preventing arteriohyalinization in kidneys of streptozotocin induced diabetic mice. J. Pak. Med. Assoc. 2015, 65,1085-1088.`
+│   inner_content: `Rashid, S.; Qamar, K.; Tassaduq, I. Role of vitamin E in preventing arteriohyalinization in kidneys of streptozotocin induced diabetic mice. J. Pak. Med. Assoc. 2015, 65,1085-1088.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Rashid, S.; Qamar, K.; Tassaduq, I. Role of vitamin E in preventing arteriohyalinization in kidneys of streptozotocin induced diabetic mice. J. Pak. Med. Assoc. 2015, 65,1085-1088.`
+│   │   inner_content: `Rashid, S.; Qamar, K.; Tassaduq, I. Role of vitamin E in preventing arteriohyalinization in kidneys of streptozotocin induced diabetic mice. J. Pak. Med. Assoc. 2015, 65,1085-1088.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Miao, X.; Sun, W.; Miao, L.; Fu, Y.; Wang, Y.; Su, G.; Liu, Q.__Zinc__ and diabetic retinopathy. J. Diabetes Res. 2013, 425854. [CrossRef]`
+│   inner_content: `Miao, X.; Sun, W.; Miao, L.; Fu, Y.; Wang, Y.; Su, G.; Liu, Q.__Zinc__ and diabetic retinopathy. J. Diabetes Res. 2013, 425854. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Miao, X.; Sun, W.; Miao, L.; Fu, Y.; Wang, Y.; Su, G.; Liu, Q.`
+│   │   inner_content: `Miao, X.; Sun, W.; Miao, L.; Fu, Y.; Wang, Y.; Su, G.; Liu, Q.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and diabetic retinopathy. J. Diabetes Res. 2013, 425854. `
+│   │   inner_content: ` and diabetic retinopathy. J. Diabetes Res. 2013, 425854. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Milnerowicz, H.; Jablonowska, M.; Bizon, A. Change of__Zinc__, copper, and metallothionein concentrations and the copper-zinc superoxide dismutase activity in patients with pancreatitis. Pancreas 2009, 38, 681-688. [CrossRef]`
+│   inner_content: `Milnerowicz, H.; Jablonowska, M.; Bizon, A. Change of__Zinc__, copper, and metallothionein concentrations and the copper-zinc superoxide dismutase activity in patients with pancreatitis. Pancreas 2009, 38, 681-688. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Milnerowicz, H.; Jablonowska, M.; Bizon, A. Change of`
+│   │   inner_content: `Milnerowicz, H.; Jablonowska, M.; Bizon, A. Change of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `, copper, and metallothionein concentrations and the copper-zinc superoxide dismutase activity in patients with pancreatitis. Pancreas 2009, 38, 681-688. `
+│   │   inner_content: `, copper, and metallothionein concentrations and the copper-zinc superoxide dismutase activity in patients with pancreatitis. Pancreas 2009, 38, 681-688. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Santa, S.R.; Santasmita, P.; Swati, B.; Kanika, C.; Aruna, B.; Gargi, S.; Soma, G. Status of serum magnesium,__Zinc__ and copper in patients suffering from type 2 diabetes mellitus. J. Drug Deliv. Ther. 2014, 4, 70-72. [CrossRef]`
+│   inner_content: `Santa, S.R.; Santasmita, P.; Swati, B.; Kanika, C.; Aruna, B.; Gargi, S.; Soma, G. Status of serum magnesium,__Zinc__ and copper in patients suffering from type 2 diabetes mellitus. J. Drug Deliv. Ther. 2014, 4, 70-72. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Santa, S.R.; Santasmita, P.; Swati, B.; Kanika, C.; Aruna, B.; Gargi, S.; Soma, G. Status of serum magnesium,`
+│   │   inner_content: `Santa, S.R.; Santasmita, P.; Swati, B.; Kanika, C.; Aruna, B.; Gargi, S.; Soma, G. Status of serum magnesium,`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and copper in patients suffering from type 2 diabetes mellitus. J. Drug Deliv. Ther. 2014, 4, 70-72. `
+│   │   inner_content: ` and copper in patients suffering from type 2 diabetes mellitus. J. Drug Deliv. Ther. 2014, 4, 70-72. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Saharia, G.K.; Goswami, R.K. Evaluation of serum__Zinc__ status and glycated hemoglobin of type 2 diabetes mellitus patients in a tertiary care hospital of assam. J. Lab. Physicians 2013, 5, 30-33. [CrossRef] [PubMed]`
+│   inner_content: `Saharia, G.K.; Goswami, R.K. Evaluation of serum__Zinc__ status and glycated hemoglobin of type 2 diabetes mellitus patients in a tertiary care hospital of assam. J. Lab. Physicians 2013, 5, 30-33. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Saharia, G.K.; Goswami, R.K. Evaluation of serum`
+│   │   inner_content: `Saharia, G.K.; Goswami, R.K. Evaluation of serum`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` status and glycated hemoglobin of type 2 diabetes mellitus patients in a tertiary care hospital of assam. J. Lab. Physicians 2013, 5, 30-33. `
+│   │   inner_content: ` status and glycated hemoglobin of type 2 diabetes mellitus patients in a tertiary care hospital of assam. J. Lab. Physicians 2013, 5, 30-33. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Al-Maroof, R.; Al-Sharbatti, S.S. Serum__Zinc__ levels in diabetic patients and effect of__Zinc__ supplementation on glycemic control of type 2 diabetics. Saudi Med. J. 2006, 27, 344-350. [PubMed]`
+│   inner_content: `Al-Maroof, R.; Al-Sharbatti, S.S. Serum__Zinc__ levels in diabetic patients and effect of__Zinc__ supplementation on glycemic control of type 2 diabetics. Saudi Med. J. 2006, 27, 344-350. [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Al-Maroof, R.; Al-Sharbatti, S.S. Serum`
+│   │   inner_content: `Al-Maroof, R.; Al-Sharbatti, S.S. Serum`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` levels in diabetic patients and effect of`
+│   │   inner_content: ` levels in diabetic patients and effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation on glycemic control of type 2 diabetics. Saudi Med. J. 2006, 27, 344-350. `
+│   │   inner_content: ` supplementation on glycemic control of type 2 diabetics. Saudi Med. J. 2006, 27, 344-350. `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Zargar, A.H.; Shah, N.A.; Shah, N.; Masoodi, S.R.; Laway, B.A.; Dar, F.A.; Khan, A.R.; Sofi, F.A.; Wani, A.I. Copper,__Zinc__, and magnesium levels in non-insulin dependent diabetes mellitus. Postgrad. Med. J. 1998, 74, 665-668. [CrossRef] [PubMed]`
+│   inner_content: `Zargar, A.H.; Shah, N.A.; Shah, N.; Masoodi, S.R.; Laway, B.A.; Dar, F.A.; Khan, A.R.; Sofi, F.A.; Wani, A.I. Copper,__Zinc__, and magnesium levels in non-insulin dependent diabetes mellitus. Postgrad. Med. J. 1998, 74, 665-668. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zargar, A.H.; Shah, N.A.; Shah, N.; Masoodi, S.R.; Laway, B.A.; Dar, F.A.; Khan, A.R.; Sofi, F.A.; Wani, A.I. Copper,`
+│   │   inner_content: `Zargar, A.H.; Shah, N.A.; Shah, N.; Masoodi, S.R.; Laway, B.A.; Dar, F.A.; Khan, A.R.; Sofi, F.A.; Wani, A.I. Copper,`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: `, and magnesium levels in non-insulin dependent diabetes mellitus. Postgrad. Med. J. 1998, 74, 665-668. `
+│   │   inner_content: `, and magnesium levels in non-insulin dependent diabetes mellitus. Postgrad. Med. J. 1998, 74, 665-668. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Migdalis, I.N.; Triantafilou, P.; Petridou, E.; Varvarigos, N.; Totolos, V.; Rigopoulos, A. Lipid peroxides in type 2 diabetic patients with neuropathy. Res. Commun. Mol. Pathol. Pharmacol. 2005,117-118,5-12.`
+│   inner_content: `Migdalis, I.N.; Triantafilou, P.; Petridou, E.; Varvarigos, N.; Totolos, V.; Rigopoulos, A. Lipid peroxides in type 2 diabetic patients with neuropathy. Res. Commun. Mol. Pathol. Pharmacol. 2005,117-118,5-12.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Migdalis, I.N.; Triantafilou, P.; Petridou, E.; Varvarigos, N.; Totolos, V.; Rigopoulos, A. Lipid peroxides in type 2 diabetic patients with neuropathy. Res. Commun. Mol. Pathol. Pharmacol. 2005,117-118,5-12.`
+│   │   inner_content: `Migdalis, I.N.; Triantafilou, P.; Petridou, E.; Varvarigos, N.; Totolos, V.; Rigopoulos, A. Lipid peroxides in type 2 diabetic patients with neuropathy. Res. Commun. Mol. Pathol. Pharmacol. 2005,117-118,5-12.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Jansen, J.; Karges, W.; Rink, L.__Zinc__ and diabetes--clinical links and molecular mechanisms. J. Nutr. Biochem. 2009, 20, 399-417. [CrossRef] [PubMed]`
+│   inner_content: `Jansen, J.; Karges, W.; Rink, L.__Zinc__ and diabetes--clinical links and molecular mechanisms. J. Nutr. Biochem. 2009, 20, 399-417. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jansen, J.; Karges, W.; Rink, L.`
+│   │   inner_content: `Jansen, J.; Karges, W.; Rink, L.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and diabetes--clinical links and molecular mechanisms. J. Nutr. Biochem. 2009, 20, 399-417. `
+│   │   inner_content: ` and diabetes--clinical links and molecular mechanisms. J. Nutr. Biochem. 2009, 20, 399-417. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Jenner, A.; Ren, M.; Rajendran, R.; Ning, P.; Huat, B.T.K.; Watt, F.; Halliwell, B.__Zinc__ supplementation inhibits lipid peroxidation and the development of atherosclerosis in rabbits fed a high cholesterol diet. Free. Radic. Biol. Med. 2007, 42, 559-566. [CrossRef] [PubMed]`
+│   inner_content: `Jenner, A.; Ren, M.; Rajendran, R.; Ning, P.; Huat, B.T.K.; Watt, F.; Halliwell, B.__Zinc__ supplementation inhibits lipid peroxidation and the development of atherosclerosis in rabbits fed a high cholesterol diet. Free. Radic. Biol. Med. 2007, 42, 559-566. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jenner, A.; Ren, M.; Rajendran, R.; Ning, P.; Huat, B.T.K.; Watt, F.; Halliwell, B.`
+│   │   inner_content: `Jenner, A.; Ren, M.; Rajendran, R.; Ning, P.; Huat, B.T.K.; Watt, F.; Halliwell, B.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation inhibits lipid peroxidation and the development of atherosclerosis in rabbits fed a high cholesterol diet. Free. Radic. Biol. Med. 2007, 42, 559-566. `
+│   │   inner_content: ` supplementation inhibits lipid peroxidation and the development of atherosclerosis in rabbits fed a high cholesterol diet. Free. Radic. Biol. Med. 2007, 42, 559-566. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Meduri, G.U. Clinical review: A paradigm shift: The bidirectional effect of inflammation on bacterial growth. Clinical implications for patients with acute respiratory distress syndrome. Crit. Care 2002, 6, 24-29. [CrossRef]`
+│   inner_content: `Meduri, G.U. Clinical review: A paradigm shift: The bidirectional effect of inflammation on bacterial growth. Clinical implications for patients with acute respiratory distress syndrome. Crit. Care 2002, 6, 24-29. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Meduri, G.U. Clinical review: A paradigm shift: The bidirectional effect of inflammation on bacterial growth. Clinical implications for patients with acute respiratory distress syndrome. Crit. Care 2002, 6, 24-29. `
+│   │   inner_content: `Meduri, G.U. Clinical review: A paradigm shift: The bidirectional effect of inflammation on bacterial growth. Clinical implications for patients with acute respiratory distress syndrome. Crit. Care 2002, 6, 24-29. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Jayawardena, R.; Ranasinghe, P.; Galappatthy, P.; Malkanthi, R.; Constantine, G.; Katulanda, P. Effects of__Zinc__ supplementation on diabetes mellitus: A systematic review and meta-analysis. Diabetol. Metab. Syndr. 2012, 4,13. [CrossRef] [PubMed]`
+│   inner_content: `Jayawardena, R.; Ranasinghe, P.; Galappatthy, P.; Malkanthi, R.; Constantine, G.; Katulanda, P. Effects of__Zinc__ supplementation on diabetes mellitus: A systematic review and meta-analysis. Diabetol. Metab. Syndr. 2012, 4,13. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jayawardena, R.; Ranasinghe, P.; Galappatthy, P.; Malkanthi, R.; Constantine, G.; Katulanda, P. Effects of`
+│   │   inner_content: `Jayawardena, R.; Ranasinghe, P.; Galappatthy, P.; Malkanthi, R.; Constantine, G.; Katulanda, P. Effects of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation on diabetes mellitus: A systematic review and meta-analysis. Diabetol. Metab. Syndr. 2012, 4,13. `
+│   │   inner_content: ` supplementation on diabetes mellitus: A systematic review and meta-analysis. Diabetol. Metab. Syndr. 2012, 4,13. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Afkhami-Ardekani, M.; Karimi, M.; Mohammadi, S.; Forough, N. Effect of__Zinc__ sulfate supplementation on lipid and glucose in type 2 diabetic patients. Pak. J. Nitr. 2008, 7, 550-553. [CrossRef]`
+│   inner_content: `Afkhami-Ardekani, M.; Karimi, M.; Mohammadi, S.; Forough, N. Effect of__Zinc__ sulfate supplementation on lipid and glucose in type 2 diabetic patients. Pak. J. Nitr. 2008, 7, 550-553. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Afkhami-Ardekani, M.; Karimi, M.; Mohammadi, S.; Forough, N. Effect of`
+│   │   inner_content: `Afkhami-Ardekani, M.; Karimi, M.; Mohammadi, S.; Forough, N. Effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` sulfate supplementation on lipid and glucose in type 2 diabetic patients. Pak. J. Nitr. 2008, 7, 550-553. `
+│   │   inner_content: ` sulfate supplementation on lipid and glucose in type 2 diabetic patients. Pak. J. Nitr. 2008, 7, 550-553. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Farvid, M.S.; Homayouni, F.; Amiri, Z.; Adelmanesh, F. Improving neuropathy scores in type 2 diabetic patients using micronutri­ents supplementation. Diabetes Res. Clin. Pract. 2011, 93, 86-94. [CrossRef]`
+│   inner_content: `Farvid, M.S.; Homayouni, F.; Amiri, Z.; Adelmanesh, F. Improving neuropathy scores in type 2 diabetic patients using micronutri­ents supplementation. Diabetes Res. Clin. Pract. 2011, 93, 86-94. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Farvid, M.S.; Homayouni, F.; Amiri, Z.; Adelmanesh, F. Improving neuropathy scores in type 2 diabetic patients using micronutri­ents supplementation. Diabetes Res. Clin. Pract. 2011, 93, 86-94. `
+│   │   inner_content: `Farvid, M.S.; Homayouni, F.; Amiri, Z.; Adelmanesh, F. Improving neuropathy scores in type 2 diabetic patients using micronutri­ents supplementation. Diabetes Res. Clin. Pract. 2011, 93, 86-94. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Farvid, M.S.; Jalali, M.; Siassi, F.; Hosseini, M. Comparison of the effects of vitamins and/or mineral supplementation on glomerular and tubular dysfunction in type 2 diabetes. Diabetes Care 2005, 28, 2458-2464. [CrossRef] [PubMed]`
+│   inner_content: `Farvid, M.S.; Jalali, M.; Siassi, F.; Hosseini, M. Comparison of the effects of vitamins and/or mineral supplementation on glomerular and tubular dysfunction in type 2 diabetes. Diabetes Care 2005, 28, 2458-2464. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Farvid, M.S.; Jalali, M.; Siassi, F.; Hosseini, M. Comparison of the effects of vitamins and/or mineral supplementation on glomerular and tubular dysfunction in type 2 diabetes. Diabetes Care 2005, 28, 2458-2464. `
+│   │   inner_content: `Farvid, M.S.; Jalali, M.; Siassi, F.; Hosseini, M. Comparison of the effects of vitamins and/or mineral supplementation on glomerular and tubular dysfunction in type 2 diabetes. Diabetes Care 2005, 28, 2458-2464. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Blood sugar lowering effect of__Zinc__ and multi vitamin/ mineral supplementation is dependent on initial fasting blood glucose. J. Diabetol. 2011, 2. [CrossRef]`
+│   inner_content: `Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Blood sugar lowering effect of__Zinc__ and multi vitamin/ mineral supplementation is dependent on initial fasting blood glucose. J. Diabetol. 2011, 2. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Blood sugar lowering effect of`
+│   │   inner_content: `Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Blood sugar lowering effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and multi vitamin/ mineral supplementation is dependent on initial fasting blood glucose. J. Diabetol. 2011, 2. `
+│   │   inner_content: ` and multi vitamin/ mineral supplementation is dependent on initial fasting blood glucose. J. Diabetol. 2011, 2. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Effects of__Zinc__ and multimineral vitamin supplementation on glycemic and lipid control in adult diabetes. Diabetes Metab. Syndr. Obes. Targets Ther. 2011, 4, 53-60. [CrossRef] [PubMed]`
+│   inner_content: `Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Effects of__Zinc__ and multimineral vitamin supplementation on glycemic and lipid control in adult diabetes. Diabetes Metab. Syndr. Obes. Targets Ther. 2011, 4, 53-60. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Effects of`
+│   │   inner_content: `Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Effects of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and multimineral vitamin supplementation on glycemic and lipid control in adult diabetes. Diabetes Metab. Syndr. Obes. Targets Ther. 2011, 4, 53-60. `
+│   │   inner_content: ` and multimineral vitamin supplementation on glycemic and lipid control in adult diabetes. Diabetes Metab. Syndr. Obes. Targets Ther. 2011, 4, 53-60. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hayee, M.A.; Mohammad, Q.D.; Haque, A. Diabetic neuropathy and__Zinc__ therapy. Bangladesh Med. Res. Counc. Bull. 2005, 31, 62-67. [PubMed]`
+│   inner_content: `Hayee, M.A.; Mohammad, Q.D.; Haque, A. Diabetic neuropathy and__Zinc__ therapy. Bangladesh Med. Res. Counc. Bull. 2005, 31, 62-67. [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hayee, M.A.; Mohammad, Q.D.; Haque, A. Diabetic neuropathy and`
+│   │   inner_content: `Hayee, M.A.; Mohammad, Q.D.; Haque, A. Diabetic neuropathy and`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` therapy. Bangladesh Med. Res. Counc. Bull. 2005, 31, 62-67. `
+│   │   inner_content: ` therapy. Bangladesh Med. Res. Counc. Bull. 2005, 31, 62-67. `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Gupta, R.; Garg, V.K.; Mathur, D.K.; Goyal, R.K. Oral__Zinc__ therapy in diabetic neuropathy. J. Assoc. Physicians India 1998, 46, 939-942.`
+│   inner_content: `Gupta, R.; Garg, V.K.; Mathur, D.K.; Goyal, R.K. Oral__Zinc__ therapy in diabetic neuropathy. J. Assoc. Physicians India 1998, 46, 939-942.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Gupta, R.; Garg, V.K.; Mathur, D.K.; Goyal, R.K. Oral`
+│   │   inner_content: `Gupta, R.; Garg, V.K.; Mathur, D.K.; Goyal, R.K. Oral`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` therapy in diabetic neuropathy. J. Assoc. Physicians India 1998, 46, 939-942.`
+│   │   inner_content: ` therapy in diabetic neuropathy. J. Assoc. Physicians India 1998, 46, 939-942.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hegazi, S.M.; Ahmed, S.S.; Mekkawy, A.A.; Mortagy, M.S.; Abdel-Kadder, M. Effect of__Zinc__ supplementation on serum glucose, insulin, glucagon, glucose-6-phosphatase, and mineral levels in diabetics. J. Clin. Biochem. Nutr. 1992,12, 209-215. [CrossRef]`
+│   inner_content: `Hegazi, S.M.; Ahmed, S.S.; Mekkawy, A.A.; Mortagy, M.S.; Abdel-Kadder, M. Effect of__Zinc__ supplementation on serum glucose, insulin, glucagon, glucose-6-phosphatase, and mineral levels in diabetics. J. Clin. Biochem. Nutr. 1992,12, 209-215. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hegazi, S.M.; Ahmed, S.S.; Mekkawy, A.A.; Mortagy, M.S.; Abdel-Kadder, M. Effect of`
+│   │   inner_content: `Hegazi, S.M.; Ahmed, S.S.; Mekkawy, A.A.; Mortagy, M.S.; Abdel-Kadder, M. Effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation on serum glucose, insulin, glucagon, glucose-6-phosphatase, and mineral levels in diabetics. J. Clin. Biochem. Nutr. 1992,12, 209-215. `
+│   │   inner_content: ` supplementation on serum glucose, insulin, glucagon, glucose-6-phosphatase, and mineral levels in diabetics. J. Clin. Biochem. Nutr. 1992,12, 209-215. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hussain, S.A.; Khadim, H.M.; Khalaf, B.H.; Ismail, S.H.; Hussein, K.I.; Sahib, A.S. Effects of melatonin and__Zinc__ on glycemic control in type 2 diabetic patients poorly controlled with metformin. Saudi Med. J. 2006, 27,1483-1488.`
+│   inner_content: `Hussain, S.A.; Khadim, H.M.; Khalaf, B.H.; Ismail, S.H.; Hussein, K.I.; Sahib, A.S. Effects of melatonin and__Zinc__ on glycemic control in type 2 diabetic patients poorly controlled with metformin. Saudi Med. J. 2006, 27,1483-1488.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hussain, S.A.; Khadim, H.M.; Khalaf, B.H.; Ismail, S.H.; Hussein, K.I.; Sahib, A.S. Effects of melatonin and`
+│   │   inner_content: `Hussain, S.A.; Khadim, H.M.; Khalaf, B.H.; Ismail, S.H.; Hussein, K.I.; Sahib, A.S. Effects of melatonin and`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` on glycemic control in type 2 diabetic patients poorly controlled with metformin. Saudi Med. J. 2006, 27,1483-1488.`
+│   │   inner_content: ` on glycemic control in type 2 diabetic patients poorly controlled with metformin. Saudi Med. J. 2006, 27,1483-1488.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Kadhim, H.M.; Ismail, S.H.; Hussein, K.I.; Bakir, I.H.; Sahib, A.S.; Khalaf, B.H.; Hussain, S.A.-R. Effects of melatonin and__Zinc__ on lipid profile and renal function in type 2 diabetic patients poorly controlled with metformin. J. Pineal Res. 2006, 41,189-193. [CrossRef]`
+│   inner_content: `Kadhim, H.M.; Ismail, S.H.; Hussein, K.I.; Bakir, I.H.; Sahib, A.S.; Khalaf, B.H.; Hussain, S.A.-R. Effects of melatonin and__Zinc__ on lipid profile and renal function in type 2 diabetic patients poorly controlled with metformin. J. Pineal Res. 2006, 41,189-193. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Kadhim, H.M.; Ismail, S.H.; Hussein, K.I.; Bakir, I.H.; Sahib, A.S.; Khalaf, B.H.; Hussain, S.A.-R. Effects of melatonin and`
+│   │   inner_content: `Kadhim, H.M.; Ismail, S.H.; Hussein, K.I.; Bakir, I.H.; Sahib, A.S.; Khalaf, B.H.; Hussain, S.A.-R. Effects of melatonin and`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` on lipid profile and renal function in type 2 diabetic patients poorly controlled with metformin. J. Pineal Res. 2006, 41,189-193. `
+│   │   inner_content: ` on lipid profile and renal function in type 2 diabetic patients poorly controlled with metformin. J. Pineal Res. 2006, 41,189-193. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Parham, M.; Amini, M.; Aminorroaya, A.; Heidarian, E. Effect of__Zinc__ supplementation on microalbuminuria in patients with type 2 diabetes: A double blind, randomized, placebo-controlled, cross-over trial. Rev. Diabet. Stud. 2008,5,102-109. [CrossRef]`
+│   inner_content: `Parham, M.; Amini, M.; Aminorroaya, A.; Heidarian, E. Effect of__Zinc__ supplementation on microalbuminuria in patients with type 2 diabetes: A double blind, randomized, placebo-controlled, cross-over trial. Rev. Diabet. Stud. 2008,5,102-109. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Parham, M.; Amini, M.; Aminorroaya, A.; Heidarian, E. Effect of`
+│   │   inner_content: `Parham, M.; Amini, M.; Aminorroaya, A.; Heidarian, E. Effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation on microalbuminuria in patients with type 2 diabetes: A double blind, randomized, placebo-controlled, cross-over trial. Rev. Diabet. Stud. 2008,5,102-109. `
+│   │   inner_content: ` supplementation on microalbuminuria in patients with type 2 diabetes: A double blind, randomized, placebo-controlled, cross-over trial. Rev. Diabet. Stud. 2008,5,102-109. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Partida-Hernández, G.; Arreola, F.; Fenton, B.; Cabeza, M.; Román-Ramos, R.; Revilla-Monsalve, M. Effect of__Zinc__ replacement on lipids and lipoproteins in type 2-diabetic patients. Biomed. Pharmacother. 2006, 60,161-168. [CrossRef]`
+│   inner_content: `Partida-Hernández, G.; Arreola, F.; Fenton, B.; Cabeza, M.; Román-Ramos, R.; Revilla-Monsalve, M. Effect of__Zinc__ replacement on lipids and lipoproteins in type 2-diabetic patients. Biomed. Pharmacother. 2006, 60,161-168. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Partida-Hernández, G.; Arreola, F.; Fenton, B.; Cabeza, M.; Román-Ramos, R.; Revilla-Monsalve, M. Effect of`
+│   │   inner_content: `Partida-Hernández, G.; Arreola, F.; Fenton, B.; Cabeza, M.; Román-Ramos, R.; Revilla-Monsalve, M. Effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` replacement on lipids and lipoproteins in type 2-diabetic patients. Biomed. Pharmacother. 2006, 60,161-168. `
+│   │   inner_content: ` replacement on lipids and lipoproteins in type 2-diabetic patients. Biomed. Pharmacother. 2006, 60,161-168. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Siddique, K.U.; Ashfaq, F.; Ali, W.; Reddy, H.D.; Mishra, A.; Khan, M.I. Effect of high-dose__Zinc__ supplementation with oral hypoglycemic agents on glycemic control and inflammation in type-2 diabetic nephropathy patients. J. Nat. Sci. Biol. Med. 2013, 4, 336-340. [CrossRef]`
+│   inner_content: `Siddique, K.U.; Ashfaq, F.; Ali, W.; Reddy, H.D.; Mishra, A.; Khan, M.I. Effect of high-dose__Zinc__ supplementation with oral hypoglycemic agents on glycemic control and inflammation in type-2 diabetic nephropathy patients. J. Nat. Sci. Biol. Med. 2013, 4, 336-340. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Siddique, K.U.; Ashfaq, F.; Ali, W.; Reddy, H.D.; Mishra, A.; Khan, M.I. Effect of high-dose`
+│   │   inner_content: `Siddique, K.U.; Ashfaq, F.; Ali, W.; Reddy, H.D.; Mishra, A.; Khan, M.I. Effect of high-dose`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation with oral hypoglycemic agents on glycemic control and inflammation in type-2 diabetic nephropathy patients. J. Nat. Sci. Biol. Med. 2013, 4, 336-340. `
+│   │   inner_content: ` supplementation with oral hypoglycemic agents on glycemic control and inflammation in type-2 diabetic nephropathy patients. J. Nat. Sci. Biol. Med. 2013, 4, 336-340. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Simon, S.F.; Taylor, C.G. Dietary__Zinc__ supplementation attenuates hyperglycemia in db/db Mice. Exp. Biol. Med. 2001, 226,43-51. [CrossRef] [PubMed]`
+│   inner_content: `Simon, S.F.; Taylor, C.G. Dietary__Zinc__ supplementation attenuates hyperglycemia in db/db Mice. Exp. Biol. Med. 2001, 226,43-51. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Simon, S.F.; Taylor, C.G. Dietary`
+│   │   inner_content: `Simon, S.F.; Taylor, C.G. Dietary`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation attenuates hyperglycemia in db/db Mice. Exp. Biol. Med. 2001, 226,43-51. `
+│   │   inner_content: ` supplementation attenuates hyperglycemia in db/db Mice. Exp. Biol. Med. 2001, 226,43-51. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#El-Ashmony, S.M.A.; Morsi, H.K.; Abdelhafez, A.M. Effect of__Zinc__ supplementation on glycemic control, lipid profile, and renal functions in patients with type II diabetes: A single blinded, randomized, placebo-controlled, trial. J. Biol. Agric. Health 2012, 2, 33-41.`
+│   inner_content: `El-Ashmony, S.M.A.; Morsi, H.K.; Abdelhafez, A.M. Effect of__Zinc__ supplementation on glycemic control, lipid profile, and renal functions in patients with type II diabetes: A single blinded, randomized, placebo-controlled, trial. J. Biol. Agric. Health 2012, 2, 33-41.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `El-Ashmony, S.M.A.; Morsi, H.K.; Abdelhafez, A.M. Effect of`
+│   │   inner_content: `El-Ashmony, S.M.A.; Morsi, H.K.; Abdelhafez, A.M. Effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation on glycemic control, lipid profile, and renal functions in patients with type II diabetes: A single blinded, randomized, placebo-controlled, trial. J. Biol. Agric. Health 2012, 2, 33-41.`
+│   │   inner_content: ` supplementation on glycemic control, lipid profile, and renal functions in patients with type II diabetes: A single blinded, randomized, placebo-controlled, trial. J. Biol. Agric. Health 2012, 2, 33-41.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Foster, M.; Petocz, P.; Samman, S. Effects of__Zinc__ on plasma lipoprotein cholesterol concentrations in humans: A meta-analysis of randomised controlled trials. Atherosclerosis 2010,210, 344-352. [CrossRef] [PubMed]`
+│   inner_content: `Foster, M.; Petocz, P.; Samman, S. Effects of__Zinc__ on plasma lipoprotein cholesterol concentrations in humans: A meta-analysis of randomised controlled trials. Atherosclerosis 2010,210, 344-352. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Foster, M.; Petocz, P.; Samman, S. Effects of`
+│   │   inner_content: `Foster, M.; Petocz, P.; Samman, S. Effects of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` on plasma lipoprotein cholesterol concentrations in humans: A meta-analysis of randomised controlled trials. Atherosclerosis 2010,210, 344-352. `
+│   │   inner_content: ` on plasma lipoprotein cholesterol concentrations in humans: A meta-analysis of randomised controlled trials. Atherosclerosis 2010,210, 344-352. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Foster, M.; Petocz, P.; Caterson, I.; Samman, S. Effects of__Zinc__ and a-linolenic acid supplementation on glycemia and lipidemia in women with type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled trial. J. Diabetes Res. Clin. Metab. 2013, 9, 1-9. [CrossRef]`
+│   inner_content: `Foster, M.; Petocz, P.; Caterson, I.; Samman, S. Effects of__Zinc__ and a-linolenic acid supplementation on glycemia and lipidemia in women with type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled trial. J. Diabetes Res. Clin. Metab. 2013, 9, 1-9. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Foster, M.; Petocz, P.; Caterson, I.; Samman, S. Effects of`
+│   │   inner_content: `Foster, M.; Petocz, P.; Caterson, I.; Samman, S. Effects of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and a-linolenic acid supplementation on glycemia and lipidemia in women with type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled trial. J. Diabetes Res. Clin. Metab. 2013, 9, 1-9. `
+│   │   inner_content: ` and a-linolenic acid supplementation on glycemia and lipidemia in women with type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled trial. J. Diabetes Res. Clin. Metab. 2013, 9, 1-9. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Lee, Y.M.; Wolf, P.; Hauner, H.; Skurk, T. Effect of a fermented dietary supplement containing chromium and__Zinc__ on metabolic control in patients with type 2 diabetes: A randomized, placebo-controlled, double-blind cross-over study. Food Nutr. Res. 2016, 60, 30298. [CrossRef]`
+│   inner_content: `Lee, Y.M.; Wolf, P.; Hauner, H.; Skurk, T. Effect of a fermented dietary supplement containing chromium and__Zinc__ on metabolic control in patients with type 2 diabetes: A randomized, placebo-controlled, double-blind cross-over study. Food Nutr. Res. 2016, 60, 30298. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lee, Y.M.; Wolf, P.; Hauner, H.; Skurk, T. Effect of a fermented dietary supplement containing chromium and`
+│   │   inner_content: `Lee, Y.M.; Wolf, P.; Hauner, H.; Skurk, T. Effect of a fermented dietary supplement containing chromium and`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` on metabolic control in patients with type 2 diabetes: A randomized, placebo-controlled, double-blind cross-over study. Food Nutr. Res. 2016, 60, 30298. `
+│   │   inner_content: ` on metabolic control in patients with type 2 diabetes: A randomized, placebo-controlled, double-blind cross-over study. Food Nutr. Res. 2016, 60, 30298. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Oh, H.-M.; Yoon, J.-S. Glycemic control of type 2 diabetic patients after short-term__Zinc__ supplementation. Nutr. Res. Pr. 2008, 2, 283-288. [CrossRef]`
+│   inner_content: `Oh, H.-M.; Yoon, J.-S. Glycemic control of type 2 diabetic patients after short-term__Zinc__ supplementation. Nutr. Res. Pr. 2008, 2, 283-288. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Oh, H.-M.; Yoon, J.-S. Glycemic control of type 2 diabetic patients after short-term`
+│   │   inner_content: `Oh, H.-M.; Yoon, J.-S. Glycemic control of type 2 diabetic patients after short-term`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation. Nutr. Res. Pr. 2008, 2, 283-288. `
+│   │   inner_content: ` supplementation. Nutr. Res. Pr. 2008, 2, 283-288. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Seet, R.C.; Lee, C.-Y.J.; Lim, E.C.; Quek, A.M.; Huang, H.; Huang, S.H.; Looi, W.F.; Long, L.H.; Halliwell, B. Oral__Zinc__ supplementa­tion does not improve oxidative stress or vascular function in patients with type 2 diabetes with normal__Zinc__ levels. Atherosclerosis 2011, 219, 231-239. [CrossRef]`
+│   inner_content: `Seet, R.C.; Lee, C.-Y.J.; Lim, E.C.; Quek, A.M.; Huang, H.; Huang, S.H.; Looi, W.F.; Long, L.H.; Halliwell, B. Oral__Zinc__ supplementa­tion does not improve oxidative stress or vascular function in patients with type 2 diabetes with normal__Zinc__ levels. Atherosclerosis 2011, 219, 231-239. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Seet, R.C.; Lee, C.-Y.J.; Lim, E.C.; Quek, A.M.; Huang, H.; Huang, S.H.; Looi, W.F.; Long, L.H.; Halliwell, B. Oral`
+│   │   inner_content: `Seet, R.C.; Lee, C.-Y.J.; Lim, E.C.; Quek, A.M.; Huang, H.; Huang, S.H.; Looi, W.F.; Long, L.H.; Halliwell, B. Oral`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementa­tion does not improve oxidative stress or vascular function in patients with type 2 diabetes with normal`
+│   │   inner_content: ` supplementa­tion does not improve oxidative stress or vascular function in patients with type 2 diabetes with normal`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` levels. Atherosclerosis 2011, 219, 231-239. `
+│   │   inner_content: ` levels. Atherosclerosis 2011, 219, 231-239. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Wang, X.; Wu, W.; Zheng, W.; Fang, X.; Chen, L.; Rink, L.; Min, J.; Wang, F.__Zinc__ supplementation improves glycemic control for diabetes prevention and management: A systematic review and meta-analysis of randomized controlled trials. Am. J. Clin. Nutr. 2019,110, 76-90. [CrossRef]`
+│   inner_content: `Wang, X.; Wu, W.; Zheng, W.; Fang, X.; Chen, L.; Rink, L.; Min, J.; Wang, F.__Zinc__ supplementation improves glycemic control for diabetes prevention and management: A systematic review and meta-analysis of randomized controlled trials. Am. J. Clin. Nutr. 2019,110, 76-90. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wang, X.; Wu, W.; Zheng, W.; Fang, X.; Chen, L.; Rink, L.; Min, J.; Wang, F.`
+│   │   inner_content: `Wang, X.; Wu, W.; Zheng, W.; Fang, X.; Chen, L.; Rink, L.; Min, J.; Wang, F.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation improves glycemic control for diabetes prevention and management: A systematic review and meta-analysis of randomized controlled trials. Am. J. Clin. Nutr. 2019,110, 76-90. `
+│   │   inner_content: ` supplementation improves glycemic control for diabetes prevention and management: A systematic review and meta-analysis of randomized controlled trials. Am. J. Clin. Nutr. 2019,110, 76-90. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Foster, M.; Samman, S.__Zinc__ and redox signaling: Perturbations associated with cardiovascular disease and diabetes mellitus. Antioxid. Redox Signal. 2010,13,1549-1573. [CrossRef]`
+│   inner_content: `Foster, M.; Samman, S.__Zinc__ and redox signaling: Perturbations associated with cardiovascular disease and diabetes mellitus. Antioxid. Redox Signal. 2010,13,1549-1573. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Foster, M.; Samman, S.`
+│   │   inner_content: `Foster, M.; Samman, S.`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and redox signaling: Perturbations associated with cardiovascular disease and diabetes mellitus. Antioxid. Redox Signal. 2010,13,1549-1573. `
+│   │   inner_content: ` and redox signaling: Perturbations associated with cardiovascular disease and diabetes mellitus. Antioxid. Redox Signal. 2010,13,1549-1573. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Hughes, S.; Samman, S. The effect of__Zinc__ supplementation in humans on plasma lipids, antioxidant status and thrombogenesis. J. Am. Coll. Nutr. 2006, 25, 285-291. [CrossRef] [PubMed]`
+│   inner_content: `Hughes, S.; Samman, S. The effect of__Zinc__ supplementation in humans on plasma lipids, antioxidant status and thrombogenesis. J. Am. Coll. Nutr. 2006, 25, 285-291. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hughes, S.; Samman, S. The effect of`
+│   │   inner_content: `Hughes, S.; Samman, S. The effect of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation in humans on plasma lipids, antioxidant status and thrombogenesis. J. Am. Coll. Nutr. 2006, 25, 285-291. `
+│   │   inner_content: ` supplementation in humans on plasma lipids, antioxidant status and thrombogenesis. J. Am. Coll. Nutr. 2006, 25, 285-291. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Jafarnejad, S.; Mahboobi, S.; McFarland, L.V.; Taghizadeh, M.; Rahimi, F. Meta-analysis: Effects of__Zinc__ supplementation alone or with multi-nutrients, on glucose control and lipid levels in patients with type 2 diabetes. Prev. Nutr. Food Sci. 2019,24, 8-23. [CrossRef] [PubMed]`
+│   inner_content: `Jafarnejad, S.; Mahboobi, S.; McFarland, L.V.; Taghizadeh, M.; Rahimi, F. Meta-analysis: Effects of__Zinc__ supplementation alone or with multi-nutrients, on glucose control and lipid levels in patients with type 2 diabetes. Prev. Nutr. Food Sci. 2019,24, 8-23. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jafarnejad, S.; Mahboobi, S.; McFarland, L.V.; Taghizadeh, M.; Rahimi, F. Meta-analysis: Effects of`
+│   │   inner_content: `Jafarnejad, S.; Mahboobi, S.; McFarland, L.V.; Taghizadeh, M.; Rahimi, F. Meta-analysis: Effects of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` supplementation alone or with multi-nutrients, on glucose control and lipid levels in patients with type 2 diabetes. Prev. Nutr. Food Sci. 2019,24, 8-23. `
+│   │   inner_content: ` supplementation alone or with multi-nutrients, on glucose control and lipid levels in patients with type 2 diabetes. Prev. Nutr. Food Sci. 2019,24, 8-23. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Chandra, R.K. Excessive intake of__Zinc__ impairs immune responses. JAMA 1984, 252,1443-1446. [CrossRef] [PubMed]`
+│   inner_content: `Chandra, R.K. Excessive intake of__Zinc__ impairs immune responses. JAMA 1984, 252,1443-1446. [CrossRef] [PubMed]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Chandra, R.K. Excessive intake of`
+│   │   inner_content: `Chandra, R.K. Excessive intake of`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` impairs immune responses. JAMA 1984, 252,1443-1446. `
+│   │   inner_content: ` impairs immune responses. JAMA 1984, 252,1443-1446. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[PubMed]`
+│   │   inner_content: `PubMed`
+│   │   url: `PubMed`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Donangelo, C.M.; Woodhouse, L.R.; King, S.M.; Viteri, F.E.; King, J.C. Supplemental__Zinc__ lowers measures of iron status in young women with low iron reserves. J. Nutr. 2002,132,1860-1864. [CrossRef]`
+│   inner_content: `Donangelo, C.M.; Woodhouse, L.R.; King, S.M.; Viteri, F.E.; King, J.C. Supplemental__Zinc__ lowers measures of iron status in young women with low iron reserves. J. Nutr. 2002,132,1860-1864. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Donangelo, C.M.; Woodhouse, L.R.; King, S.M.; Viteri, F.E.; King, J.C. Supplemental`
+│   │   inner_content: `Donangelo, C.M.; Woodhouse, L.R.; King, S.M.; Viteri, F.E.; King, J.C. Supplemental`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` lowers measures of iron status in young women with low iron reserves. J. Nutr. 2002,132,1860-1864. `
+│   │   inner_content: ` lowers measures of iron status in young women with low iron reserves. J. Nutr. 2002,132,1860-1864. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Galvez-Fernandez, M.; Powers, M.; Grau-Perez, M.; Domingo-Relloso, A.; Lolacono, N.; Goessler, W.; Zhang, Y.; Fretts, A.; Umans, J.G.; Maruthur, N.; et al. Urinary__Zinc__ and incident type 2 diabetes: Prospective evidence from the strong heart study. Diabetes Care 2022, 45, 2561-2569. [CrossRef]`
+│   inner_content: `Galvez-Fernandez, M.; Powers, M.; Grau-Perez, M.; Domingo-Relloso, A.; Lolacono, N.; Goessler, W.; Zhang, Y.; Fretts, A.; Umans, J.G.; Maruthur, N.; et al. Urinary__Zinc__ and incident type 2 diabetes: Prospective evidence from the strong heart study. Diabetes Care 2022, 45, 2561-2569. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Galvez-Fernandez, M.; Powers, M.; Grau-Perez, M.; Domingo-Relloso, A.; Lolacono, N.; Goessler, W.; Zhang, Y.; Fretts, A.; Umans, J.G.; Maruthur, N.; et al. Urinary`
+│   │   inner_content: `Galvez-Fernandez, M.; Powers, M.; Grau-Perez, M.; Domingo-Relloso, A.; Lolacono, N.; Goessler, W.; Zhang, Y.; Fretts, A.; Umans, J.G.; Maruthur, N.; et al. Urinary`
+│   ├── BoldNode
+│   │   full_match: `__Zinc__`
+│   │   inner_content: `Zinc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` and incident type 2 diabetes: Prospective evidence from the strong heart study. Diabetes Care 2022, 45, 2561-2569. `
+│   │   inner_content: ` and incident type 2 diabetes: Prospective evidence from the strong heart study. Diabetes Care 2022, 45, 2561-2569. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Alexander, R.; Khaja, A.; Debiec, N.; Fazioli, A.; Torrance, M.; Razzaque, M.S. Health-promoting benefits of lentils: Anti­inflammatory and anti-microbial effects. Curr. Res. Physiol. 2024, 7,100124. [CrossRef]`
+│   inner_content: `Alexander, R.; Khaja, A.; Debiec, N.; Fazioli, A.; Torrance, M.; Razzaque, M.S. Health-promoting benefits of lentils: Anti­inflammatory and anti-microbial effects. Curr. Res. Physiol. 2024, 7,100124. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Alexander, R.; Khaja, A.; Debiec, N.; Fazioli, A.; Torrance, M.; Razzaque, M.S. Health-promoting benefits of lentils: Anti­inflammatory and anti-microbial effects. Curr. Res. Physiol. 2024, 7,100124. `
+│   │   inner_content: `Alexander, R.; Khaja, A.; Debiec, N.; Fazioli, A.; Torrance, M.; Razzaque, M.S. Health-promoting benefits of lentils: Anti­inflammatory and anti-microbial effects. Curr. Res. Physiol. 2024, 7,100124. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#Razzaque, M.S. Magnesium: Are we consuming enough? Nutrients 2018,10,1863. [CrossRef]`
+│   inner_content: `Razzaque, M.S. Magnesium: Are we consuming enough? Nutrients 2018,10,1863. [CrossRef]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Razzaque, M.S. Magnesium: Are we consuming enough? Nutrients 2018,10,1863. `
+│   │   inner_content: `Razzaque, M.S. Magnesium: Are we consuming enough? Nutrients 2018,10,1863. `
+│   ├── LinkNode
+│   │   full_match: `[CrossRef]`
+│   │   inner_content: `CrossRef`
+│   │   url: `CrossRef`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CrossRef`
+│   │   │   inner_content: `CrossRef`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Effect of zinc supplementation in the management of type 2 diabetes: A grading of recommendations assessment, development, and evaluation-assessed, dose-response meta-analysis of randomized controlled trials - May 2023`
+│   inner_content: `Effect of zinc supplementation in the management of type 2 diabetes: A grading of recommendations assessment, development, and evaluation-assessed, dose-response meta-analysis of randomized controlled trials - May 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Effect of zinc supplementation in the management of type 2 diabetes: A grading of recommendations assessment, development, and evaluation-assessed, dose-response meta-analysis of randomized controlled trials - May 2023`
+│   │   inner_content: `Effect of zinc supplementation in the management of type 2 diabetes: A grading of recommendations assessment, development, and evaluation-assessed, dose-response meta-analysis of randomized controlled trials - May 2023`├── TextNode
+│   full_match: `\nCritical Reviews in Food Science and Nutrition  \n`
+│   inner_content: `\nCritical Reviews in Food Science and Nutrition  \n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` https://doi.org/10.1080/10408398.2023.2209802 `
+│   inner_content: ` https://doi.org/10.1080/10408398.2023.2209802 `├── BoldNode
+│   full_match: `__PDF behind $61 paywall__`
+│   inner_content: `PDF behind $61 paywall`
+│   children:
+│   ├── TextNode
+│   │   full_match: `PDF behind $61 paywall`
+│   │   inner_content: `PDF behind $61 paywall`├── TextNode
+│   full_match: `\nKimia Ghaedi ORCID Icon,Dorsa Ghasempour ORCID Icon,Mohammadreza Jowshan ORCID Icon,Miaobing Zheng ORCID Icon,Saeed Ghobadi ORCID Icon &amp; Alireza Jafari ORCID Icon\n\nThe question of whether zinc supplementation may improve cardio-metabolic health in patients with type 2 diabetes mellitus (T2DM) remains controversial and require further evaluation. This study aimed to summarize the effectiveness of oral zinc supplementation in improving cardio-metabolic risk markers in people with T2DM. We searched PubMed, Scopus, and Web of Science from inception to April 2023, for randomized controlled trials (RCTs). RCTs of type 2 diabetic adults (aged ≥18 years) comparing zinc supplementation with placebo were included. We excluded studies if not randomized, involved co-supplementation, and were conducted in children or pregnant women. Glycemic indices, lipid profiles, blood pressure, anthropometric measure, c-reactive protein (CRP), creatinine, and serum zinc were extracted. Certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methods. We used a random-effect model to perform the dose-response analysis. Effect sizes were presented as mean difference (MD) and 95% confidence interval (CI). 22 studies (n = 1442 participants) were included. The certainty of the evidence was rated as moderate to high. \n\nZinc supplementation significantly reduced glycemic indices: including two-hour postprandial glucose (2hpp) (mean difference (MD): −34.34 mg/dl; 95%CI: −51.61∼ −17.07), fast blood sugar (FBS) (MD: −23.32 mg/dl; 95% CI: −33.81∼ −12.83), and hemoglobin A1c (HbA1c) (MD: −0.47; 95% CI: −0.71∼ −0.23). \n\nZinc had a favorable effect on lipid profiles low-density lipoprotein (LDL) (MD: −10.76 mg/dl; CI: −17.79∼−3.73), triglyceride (TG) (MD: −18.23 mg/dl; CI: −32.81∼−3.65), total cholesterol (TC) (MD: −12.74 mg/dl; CI: −21.68∼−3.80), VLDL (MD: −5.39 mg/dl; CI: −7.35∼−3.43) and high-density lipoprotein (HDL) (MD: 4.04 mg/dl; CI: 0.96 ∼ 7.12). Systolic blood pressure (SBP) (MD): −3.64 mmHg; 95% CI: −6.77∼ −0.52), weight (MD: 1.00 kg; 95% CI: 0.34∼1.66), CRP (MD: −3.37 mg/l, 95% CI: −4.05∼ −2.70), and serum zinc (MD: 15.38 µg/dl; 95% CI: 10.74∼ 20.02) changed to a statistically significant extent with zinc supplementation. There was also a linear association between additional 10 mg/d zinc treatment with FBS, HbA1c, HDL, LDL, TG, TC, and serum zinc. A non-linear dose-response gradient was seen for FBS, HDL, and SBP (p &lt; 0.05). Egger’s test showed no substantial publication bias. \n`
+│   inner_content: `\nKimia Ghaedi ORCID Icon,Dorsa Ghasempour ORCID Icon,Mohammadreza Jowshan ORCID Icon,Miaobing Zheng ORCID Icon,Saeed Ghobadi ORCID Icon &amp; Alireza Jafari ORCID Icon\n\nThe question of whether zinc supplementation may improve cardio-metabolic health in patients with type 2 diabetes mellitus (T2DM) remains controversial and require further evaluation. This study aimed to summarize the effectiveness of oral zinc supplementation in improving cardio-metabolic risk markers in people with T2DM. We searched PubMed, Scopus, and Web of Science from inception to April 2023, for randomized controlled trials (RCTs). RCTs of type 2 diabetic adults (aged ≥18 years) comparing zinc supplementation with placebo were included. We excluded studies if not randomized, involved co-supplementation, and were conducted in children or pregnant women. Glycemic indices, lipid profiles, blood pressure, anthropometric measure, c-reactive protein (CRP), creatinine, and serum zinc were extracted. Certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methods. We used a random-effect model to perform the dose-response analysis. Effect sizes were presented as mean difference (MD) and 95% confidence interval (CI). 22 studies (n = 1442 participants) were included. The certainty of the evidence was rated as moderate to high. \n\nZinc supplementation significantly reduced glycemic indices: including two-hour postprandial glucose (2hpp) (mean difference (MD): −34.34 mg/dl; 95%CI: −51.61∼ −17.07), fast blood sugar (FBS) (MD: −23.32 mg/dl; 95% CI: −33.81∼ −12.83), and hemoglobin A1c (HbA1c) (MD: −0.47; 95% CI: −0.71∼ −0.23). \n\nZinc had a favorable effect on lipid profiles low-density lipoprotein (LDL) (MD: −10.76 mg/dl; CI: −17.79∼−3.73), triglyceride (TG) (MD: −18.23 mg/dl; CI: −32.81∼−3.65), total cholesterol (TC) (MD: −12.74 mg/dl; CI: −21.68∼−3.80), VLDL (MD: −5.39 mg/dl; CI: −7.35∼−3.43) and high-density lipoprotein (HDL) (MD: 4.04 mg/dl; CI: 0.96 ∼ 7.12). Systolic blood pressure (SBP) (MD): −3.64 mmHg; 95% CI: −6.77∼ −0.52), weight (MD: 1.00 kg; 95% CI: 0.34∼1.66), CRP (MD: −3.37 mg/l, 95% CI: −4.05∼ −2.70), and serum zinc (MD: 15.38 µg/dl; 95% CI: 10.74∼ 20.02) changed to a statistically significant extent with zinc supplementation. There was also a linear association between additional 10 mg/d zinc treatment with FBS, HbA1c, HDL, LDL, TG, TC, and serum zinc. A non-linear dose-response gradient was seen for FBS, HDL, and SBP (p &lt; 0.05). Egger’s test showed no substantial publication bias. \n`├── BoldNode
+│   full_match: `__Our findings strongly suggest a potential beneficial effect of zinc supplementation on type 2 diabetic patients.__`
+│   inner_content: `Our findings strongly suggest a potential beneficial effect of zinc supplementation on type 2 diabetic patients.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Our findings strongly suggest a potential beneficial effect of zinc supplementation on type 2 diabetic patients.`
+│   │   inner_content: `Our findings strongly suggest a potential beneficial effect of zinc supplementation on type 2 diabetic patients.`├── TextNode
+│   full_match: ` Further high-quality research is needed to determine the optimal form, dosage, and duration of zinc supplementation for this population.`
+│   inner_content: ` Further high-quality research is needed to determine the optimal form, dosage, and duration of zinc supplementation for this population.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Zinc Supplementation in Individuals with Prediabetes and type 2 Diabetes: a GRADE-Assessed Systematic Review and Dose-Response Meta-analysis - Oct 2023`
+│   inner_content: `Zinc Supplementation in Individuals with Prediabetes and type 2 Diabetes: a GRADE-Assessed Systematic Review and Dose-Response Meta-analysis - Oct 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zinc Supplementation in Individuals with Prediabetes and type 2 Diabetes: a GRADE-Assessed Systematic Review and Dose-Response Meta-analysis - Oct 2023`
+│   │   inner_content: `Zinc Supplementation in Individuals with Prediabetes and type 2 Diabetes: a GRADE-Assessed Systematic Review and Dose-Response Meta-analysis - Oct 2023`├── TextNode
+│   full_match: `\nBiological Trace Element Research Volume 202, pages 2966–2990, (2024)\n`
+│   inner_content: `\nBiological Trace Element Research Volume 202, pages 2966–2990, (2024)\n`├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` https://doi.org/10.1007/s12011-023-03895-7 `
+│   inner_content: ` https://doi.org/10.1007/s12011-023-03895-7 `├── BoldNode
+│   full_match: `__PDF behind paywall__`
+│   inner_content: `PDF behind paywall`
+│   children:
+│   ├── TextNode
+│   │   full_match: `PDF behind paywall`
+│   │   inner_content: `PDF behind paywall`├── TextNode
+│   full_match: `\nMatin Nazari, Mahlagha Nikbaf-Shandiz, Fereshteh Pashayee-Khamene, Reza Bagheri, Kian Goudarzi, Navid Vahid Hosseinnia, Sina Dolatshahi, Hossein Salehi Omran, Niusha Amirani, Damoon Ashtary-larky, \n\nZinc supplementation has therapeutic effects on cardiovascular disease (CVD) risk factors, including dyslipidemia, hyperglycemia, and inflammation as the main contributors to CVD pathogenesis. Since CVD is a major cause of mortality among people with type 2 diabetes mellitus (T2DM), this study aimed to overview the potential effects of zinc supplementation on CVD risk factors in T2DM patients. To determine appropriate randomized clinical trials (RCTs) investigating the effects of zinc supplementation on CVD risk factors, electronic sources including PubMed, Web of Science, and Scopus were systematically searched until January 2023. The heterogeneity of trials was checked using the I2 statistic. According to the heterogeneity tests, random-effects models were estimated, and pooled data were defined as the weighted mean difference (WMD) with a 95% confidence interval (CI). \n\nOf the 4004 initial records, 23 studies that met inclusion criteria were analyzed in this meta-analysis. The pooled findings indicated the significant lowering effects of zinc supplementation on triglycerides (TG), total cholesterol (TC), fasting blood glucose (FBG), hemoglobin A1C (HbA1C), and C-reactive protein (CRP), while high-density cholesterol (HDL) concentrations showed an elevation after zinc supplementation. In addition to statistical significance, the effect of zinc supplementation on most of the variables was clinically significant; however, the quality of evidence in the included studies is regarded as low or very low for most variables. \nOur study demonstrated that zinc supplementation has beneficial effects on glycemic control markers, lipid profile, and CRP levels as a classic marker of inflammation in T2DM. Due to the high degree of heterogeneity between studies and the low rate of quality in them, further well-designed studies are necessitated to strengthen our findings.`
+│   inner_content: `\nMatin Nazari, Mahlagha Nikbaf-Shandiz, Fereshteh Pashayee-Khamene, Reza Bagheri, Kian Goudarzi, Navid Vahid Hosseinnia, Sina Dolatshahi, Hossein Salehi Omran, Niusha Amirani, Damoon Ashtary-larky, \n\nZinc supplementation has therapeutic effects on cardiovascular disease (CVD) risk factors, including dyslipidemia, hyperglycemia, and inflammation as the main contributors to CVD pathogenesis. Since CVD is a major cause of mortality among people with type 2 diabetes mellitus (T2DM), this study aimed to overview the potential effects of zinc supplementation on CVD risk factors in T2DM patients. To determine appropriate randomized clinical trials (RCTs) investigating the effects of zinc supplementation on CVD risk factors, electronic sources including PubMed, Web of Science, and Scopus were systematically searched until January 2023. The heterogeneity of trials was checked using the I2 statistic. According to the heterogeneity tests, random-effects models were estimated, and pooled data were defined as the weighted mean difference (WMD) with a 95% confidence interval (CI). \n\nOf the 4004 initial records, 23 studies that met inclusion criteria were analyzed in this meta-analysis. The pooled findings indicated the significant lowering effects of zinc supplementation on triglycerides (TG), total cholesterol (TC), fasting blood glucose (FBG), hemoglobin A1C (HbA1C), and C-reactive protein (CRP), while high-density cholesterol (HDL) concentrations showed an elevation after zinc supplementation. In addition to statistical significance, the effect of zinc supplementation on most of the variables was clinically significant; however, the quality of evidence in the included studies is regarded as low or very low for most variables. \nOur study demonstrated that zinc supplementation has beneficial effects on glycemic control markers, lipid profile, and CRP levels as a classic marker of inflammation in T2DM. Due to the high degree of heterogeneity between studies and the low rate of quality in them, further well-designed studies are necessitated to strengthen our findings.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!The Role of Zinc Homeostasis in the Prevention of Diabetes Mellitus and Cardiovascular Diseases`
+│   inner_content: `The Role of Zinc Homeostasis in the Prevention of Diabetes Mellitus and Cardiovascular Diseases`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The Role of Zinc Homeostasis in the Prevention of Diabetes Mellitus and Cardiovascular Diseases`
+│   │   inner_content: `The Role of Zinc Homeostasis in the Prevention of Diabetes Mellitus and Cardiovascular Diseases`├── TextNode
+│   full_match: `\nJournal of Atherosclerosis and Thrombosis `
+│   inner_content: `\nJournal of Atherosclerosis and Thrombosis `├── LinkNode
+│   full_match: `[https://doi.org/10.5551/jat.RV17057]`
+│   inner_content: `https://doi.org/10.5551/jat.RV17057`
+│   url: `https://doi.org/10.5551/jat.RV17057`
+│   children:
+│   ├── TextNode
+│   │   full_match: `https://doi.org/10.5551/jat.RV17057`
+│   │   inner_content: `https://doi.org/10.5551/jat.RV17057`├── TextNode
+│   full_match: `\nYukinori Tamura\n\nZinc is an essential micronutrient for human health and is involved in various biological functions, such as growth, metabolism, and immune function. In recent years, research on intracellular zinc dynamics has progressed, and it has become clear that zinc transporters strictly control intracellular zinc localization, zinc regulates the functions of various proteins and signal transduction pathways as a second messenger similar to calcium ions, and intracellular zinc dyshomeostasis is associated with impaired insulin synthesis, secretion, sensitivity, lipid metabolism, and vascular function. Numerous animal and human studies have shown that zinc deficiency may be associated with the risk factors for diabetes and cardiovascular diseases (CVDs) and zinc administration might be beneficial for the prevention and treatment of these diseases. Therefore, an understanding of zinc biology may help the establishment of novel strategies for the prevention and treatment of diabetes and CVDs. This review will summarize the current knowledge on the role of zinc homeostasis in the pathogenesis of diabetes and atherosclerosis and will discuss the potential of zinc in the prevention of these diseases.\n`
+│   inner_content: `\nYukinori Tamura\n\nZinc is an essential micronutrient for human health and is involved in various biological functions, such as growth, metabolism, and immune function. In recent years, research on intracellular zinc dynamics has progressed, and it has become clear that zinc transporters strictly control intracellular zinc localization, zinc regulates the functions of various proteins and signal transduction pathways as a second messenger similar to calcium ions, and intracellular zinc dyshomeostasis is associated with impaired insulin synthesis, secretion, sensitivity, lipid metabolism, and vascular function. Numerous animal and human studies have shown that zinc deficiency may be associated with the risk factors for diabetes and cardiovascular diseases (CVDs) and zinc administration might be beneficial for the prevention and treatment of these diseases. Therefore, an understanding of zinc biology may help the establishment of novel strategies for the prevention and treatment of diabetes and CVDs. This review will summarize the current knowledge on the role of zinc homeostasis in the pathogenesis of diabetes and atherosclerosis and will discuss the potential of zinc in the prevention of these diseases.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21900&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21900&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21900&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21900&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21900&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21900&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21900
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Diabetes and zinc dyshomeostasis: Can zinc supplementation mitigate diabetic complications? - 2022`
+│   inner_content: `Diabetes and zinc dyshomeostasis: Can zinc supplementation mitigate diabetic complications? - 2022`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Diabetes and zinc dyshomeostasis: Can zinc supplementation mitigate diabetic complications? - 2022`
+│   │   inner_content: `Diabetes and zinc dyshomeostasis: Can zinc supplementation mitigate diabetic complications? - 2022`├── TextNode
+│   full_match: `\nCritical Reviews in Food Science and Nutrition https://doi.org/10.1080/10408398.2020.1833178\nSusmita Barman &amp;Krishnapura Srinivasan\n`
+│   inner_content: `\nCritical Reviews in Food Science and Nutrition https://doi.org/10.1080/10408398.2020.1833178\nSusmita Barman &amp;Krishnapura Srinivasan\n`├── HeadingNode
+│   full_match: `\n!!!!!Overview: Diabetes with and without Zinc`
+│   inner_content: `Overview: Diabetes with and without Zinc`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Overview: Diabetes with and without Zinc`
+│   │   inner_content: `Overview: Diabetes with and without Zinc`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21922&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21922&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 21922
+│   │   width: 600├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!Diabetes with and without Zinc`
+│   inner_content: `Diabetes with and without Zinc`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Diabetes with and without Zinc`
+│   │   inner_content: `Diabetes with and without Zinc`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21923&quot; width=&quot;700&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21923&quot; width=&quot;700&quot;
+│   │   type: attId
+│   │   attId: 21923
+│   │   width: 700├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!Human Diabetes and Zinc studies`
+│   inner_content: `Human Diabetes and Zinc studies`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Human Diabetes and Zinc studies`
+│   │   inner_content: `Human Diabetes and Zinc studies`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21924&quot; width=&quot;800&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21924&quot; width=&quot;800&quot;
+│   │   type: attId
+│   │   attId: 21924
+│   │   width: 800├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!Proven benefits of Zinc on Diabetes`
+│   inner_content: `Proven benefits of Zinc on Diabetes`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Proven benefits of Zinc on Diabetes`
+│   │   inner_content: `Proven benefits of Zinc on Diabetes`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;21925&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;21925&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 21925
+│   │   width: 500├── TextNode
+│   full_match: `\nZinc present in the islet cells of the pancreas is crucial for the synthesis, storage, and secretion of insulin. The excretion of large amounts of zinc from the body is reported in diabetic situations. Zinc depletion and increased oxidative stress have a major impact on the pathogenesis of diabetic complications. It would be most relevant to ascertain if intervention with supplemental zinc compensating for its depletion would beneficially mitigate hyperglycemia and the attendant metabolic abnormalities, and secondary complications in diabetes. An exhaustive literature search on this issue indicates: \n`
+│   inner_content: `\nZinc present in the islet cells of the pancreas is crucial for the synthesis, storage, and secretion of insulin. The excretion of large amounts of zinc from the body is reported in diabetic situations. Zinc depletion and increased oxidative stress have a major impact on the pathogenesis of diabetic complications. It would be most relevant to ascertain if intervention with supplemental zinc compensating for its depletion would beneficially mitigate hyperglycemia and the attendant metabolic abnormalities, and secondary complications in diabetes. An exhaustive literature search on this issue indicates: \n`├── ListItemNode
+│   full_match: `*(1) Concurrent hypozincemia and decreased tissue zinc stores in diabetes as a result of its increased urinary excretion and/or decreased intestinal absorption, `
+│   inner_content: `(1) Concurrent hypozincemia and decreased tissue zinc stores in diabetes as a result of its increased urinary excretion and/or decreased intestinal absorption, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `(1) Concurrent hypozincemia and decreased tissue zinc stores in diabetes as a result of its increased urinary excretion and/or decreased intestinal absorption, `
+│   │   inner_content: `(1) Concurrent hypozincemia and decreased tissue zinc stores in diabetes as a result of its increased urinary excretion and/or decreased intestinal absorption, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*(2) Several recent experimental studies have documented that supplemental zinc has a potential hypoglycemic effect in the diabetic situation, and also beneficially modulate the attendant metabolic abnormalities and compromised antioxidant status, and `
+│   inner_content: `(2) Several recent experimental studies have documented that supplemental zinc has a potential hypoglycemic effect in the diabetic situation, and also beneficially modulate the attendant metabolic abnormalities and compromised antioxidant status, and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `(2) Several recent experimental studies have documented that supplemental zinc has a potential hypoglycemic effect in the diabetic situation, and also beneficially modulate the attendant metabolic abnormalities and compromised antioxidant status, and `
+│   │   inner_content: `(2) Several recent experimental studies have documented that supplemental zinc has a potential hypoglycemic effect in the diabetic situation, and also beneficially modulate the attendant metabolic abnormalities and compromised antioxidant status, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*(3) Supplemental zinc also alleviates renal lesions, cataract and the risk of cardiovascular disease accompanying diabetes mellitus, and help restore gastrointestinal health in experimental diabetes. `
+│   inner_content: `(3) Supplemental zinc also alleviates renal lesions, cataract and the risk of cardiovascular disease accompanying diabetes mellitus, and help restore gastrointestinal health in experimental diabetes. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `(3) Supplemental zinc also alleviates renal lesions, cataract and the risk of cardiovascular disease accompanying diabetes mellitus, and help restore gastrointestinal health in experimental diabetes. `
+│   │   inner_content: `(3) Supplemental zinc also alleviates renal lesions, cataract and the risk of cardiovascular disease accompanying diabetes mellitus, and help restore gastrointestinal health in experimental diabetes. `├── TextNode
+│   full_match: `\nThese studies have also attempted to identify the precise mechanisms responsible for zinc-mediated beneficial effects in diabetic situation. The evidence discussed in this review highlights that supplemental zinc may significantly contribute to its clinical application in the management of diabetic hyperglycemia and related metabolic abnormalities, and in the alleviation of secondary complications resulting from diabetic oxidative stress.\n`
+│   inner_content: `\nThese studies have also attempted to identify the precise mechanisms responsible for zinc-mediated beneficial effects in diabetic situation. The evidence discussed in this review highlights that supplemental zinc may significantly contribute to its clinical application in the management of diabetic hyperglycemia and related metabolic abnormalities, and in the alleviation of secondary complications resulting from diabetic oxidative stress.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21921&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;21921&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;21921&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;21921&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;21921&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;21921&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 21921
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!1,490,000 hits for zinc (diabetes OR pancreas) as of Nov 2024`
+│   inner_content: `1,490,000 hits for zinc (diabetes OR pancreas) as of Nov 2024`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1,490,000 hits for zinc (diabetes OR pancreas) as of Nov 2024`
+│   │   inner_content: `1,490,000 hits for zinc (diabetes OR pancreas) as of Nov 2024`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://scholar.google.com/scholar?q=zinc+(diabetes+OR+pancreas)&amp;hl=en&amp;as_sdt=0,48 |Google Scholar]__`
+│   inner_content: `[https://scholar.google.com/scholar?q=zinc+(diabetes+OR+pancreas)&amp;hl=en&amp;as_sdt=0,48 |Google Scholar]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://scholar.google.com/scholar?q=zinc+(diabetes+OR+pancreas)&amp;hl=en&amp;as_sdt=0,48 |Google Scholar]`
+│   │   inner_content: `Google Scholar`
+│   │   url: `https://scholar.google.com/scholar?q=zinc+(diabetes+OR+pancreas)&amp;hl=en&amp;as_sdt=0,48 `
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Google Scholar`
+│   │   │   inner_content: `Google Scholar`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Overview Diabetes and vitamin D)) contains `
+│   inner_content: `VitaminDWiki – ((Overview Diabetes and vitamin D)) contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Diabetes and vitamin D))`
+│   │   inner_content: `Overview Diabetes and vitamin D`
+│   │   page: `Overview Diabetes and vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Diabetes and vitamin D`
+│   │   │   inner_content: `Overview Diabetes and vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains`
+│   │   inner_content: ` contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Diabetes and vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Diabetic Epidemic__`
+│   inner_content: `Diabetic Epidemic`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Diabetic Epidemic`
+│   │   inner_content: `Diabetic Epidemic`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;
+│   │   page: Overview Diabetes and vitamin D
+│   │   start: ~tc~ start2 ~/tc~
+│   │   stop: ~tc~ end2 ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!All categories associated with ((Diabetes))`
+│   inner_content: `All categories associated with ((Diabetes))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `All categories associated with `
+│   │   inner_content: `All categories associated with `
+│   ├── LocalLinkNode
+│   │   full_match: `((Diabetes))`
+│   │   inner_content: `Diabetes`
+│   │   page: `Diabetes`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Diabetes`
+│   │   │   inner_content: `Diabetes`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Intervention~~#F06:55~~; ~hs~Pregnancy ~~#F06:42~~; ~hs~Infant-Child ~~#F06:38~~; ~hs~Meta-analysis ~~#F06:36~~;  ~hs~Obesity ~~#F06:32~~; ~hs~Cardiovascular ~~#F06:31~~; ~hs~~~#00F:Magnesium~~ ~~#F06:25~~; ~hs~Skin - Dark ~~#F06:24~~; ~hs~Intervention - non daily~~#F06:22~~; ~hs~Vitamin D Receptor~~#F06:22~~; ~hs~Metabolic Syndrome~~#F06:15~~; ~hs~Hypertension~~#F06:13~~; ~hs~Kidney~~#F06:12~~; ~hs~Genetics~~#F06:12~~; ~hs~Omega-3~~#F06:11~~; ~hs~Cognitive~~#F06:10~~; ~hs~Depression~~#F06:10~~; ~hs~Cancer~~#F06:9~~; ~hs~Autoimmune~~#F06:9~~; ~hs~Deficiency~~#F06:9~~; ~hs~Virus~~#F06:8~~; ~hs~Loading dose~~#F06:8~~; ~hs~Inflammation~~#F06:8~~; ~hs~Vision~~#F06:7~~; ~hs~Mortality ~~#F06:7~~; ~hs~Rheumatoid Arthritis~~#F06:7~~; ~hs~Middle East~~#F06:6~~; ~hs~Injection~~#F06:6~~; ~hs~Immunity~~#F06:6~~; ~hs~Antibiotics, probiotics~~#F06:6~~; ~hs~Multiple Sclerosis~~#F06:6~~; ~hs~Lupus~~#F06:6~~; ~hs~Stroke~~#F06:5~~; ~hs~Vitamin K~~#F06:5~~; ~hs~Youth ~~#F06:5~~; ~hs~Vit D Binding Protein ~~#F06:5~~; ~hs~Bone - Health ~~#F06:4~~; ~hs~Pain - chronic ~~#F06:4~~; ~hs~Thyroid and parathyroid ~~#F06:4~~; ~hs~Books, videos ~~#F06:4~~; ~hs~Sports ~~#F06:4~~; ~hs~Fortification ~~#F06:4~~ ~hs~ ~hs~ ~hs~ ~hs~ As of Oct 2022 __`
+│   inner_content: `Intervention~~#F06:55~~; ~hs~Pregnancy ~~#F06:42~~; ~hs~Infant-Child ~~#F06:38~~; ~hs~Meta-analysis ~~#F06:36~~;  ~hs~Obesity ~~#F06:32~~; ~hs~Cardiovascular ~~#F06:31~~; ~hs~~~#00F:Magnesium~~ ~~#F06:25~~; ~hs~Skin - Dark ~~#F06:24~~; ~hs~Intervention - non daily~~#F06:22~~; ~hs~Vitamin D Receptor~~#F06:22~~; ~hs~Metabolic Syndrome~~#F06:15~~; ~hs~Hypertension~~#F06:13~~; ~hs~Kidney~~#F06:12~~; ~hs~Genetics~~#F06:12~~; ~hs~Omega-3~~#F06:11~~; ~hs~Cognitive~~#F06:10~~; ~hs~Depression~~#F06:10~~; ~hs~Cancer~~#F06:9~~; ~hs~Autoimmune~~#F06:9~~; ~hs~Deficiency~~#F06:9~~; ~hs~Virus~~#F06:8~~; ~hs~Loading dose~~#F06:8~~; ~hs~Inflammation~~#F06:8~~; ~hs~Vision~~#F06:7~~; ~hs~Mortality ~~#F06:7~~; ~hs~Rheumatoid Arthritis~~#F06:7~~; ~hs~Middle East~~#F06:6~~; ~hs~Injection~~#F06:6~~; ~hs~Immunity~~#F06:6~~; ~hs~Antibiotics, probiotics~~#F06:6~~; ~hs~Multiple Sclerosis~~#F06:6~~; ~hs~Lupus~~#F06:6~~; ~hs~Stroke~~#F06:5~~; ~hs~Vitamin K~~#F06:5~~; ~hs~Youth ~~#F06:5~~; ~hs~Vit D Binding Protein ~~#F06:5~~; ~hs~Bone - Health ~~#F06:4~~; ~hs~Pain - chronic ~~#F06:4~~; ~hs~Thyroid and parathyroid ~~#F06:4~~; ~hs~Books, videos ~~#F06:4~~; ~hs~Sports ~~#F06:4~~; ~hs~Fortification ~~#F06:4~~ ~hs~ ~hs~ ~hs~ ~hs~ As of Oct 2022 `
+│   children:
+│   ├── TextNode
+│   │   full_match: `Intervention`
+│   │   inner_content: `Intervention`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:55~~`
+│   │   inner_content: `55`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `55`
+│   │   │   inner_content: `55`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Pregnancy `
+│   │   inner_content: `Pregnancy `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:42~~`
+│   │   inner_content: `42`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `42`
+│   │   │   inner_content: `42`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Infant-Child `
+│   │   inner_content: `Infant-Child `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:38~~`
+│   │   inner_content: `38`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `38`
+│   │   │   inner_content: `38`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Meta-analysis `
+│   │   inner_content: `Meta-analysis `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:36~~`
+│   │   inner_content: `36`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `36`
+│   │   │   inner_content: `36`
+│   ├── TextNode
+│   │   full_match: `;  `
+│   │   inner_content: `;  `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Obesity `
+│   │   inner_content: `Obesity `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:32~~`
+│   │   inner_content: `32`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `32`
+│   │   │   inner_content: `32`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Cardiovascular `
+│   │   inner_content: `Cardiovascular `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:31~~`
+│   │   inner_content: `31`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `31`
+│   │   │   inner_content: `31`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── ColorNode
+│   │   full_match: `~~#00F:Magnesium~~`
+│   │   inner_content: `Magnesium`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Magnesium`
+│   │   │   inner_content: `Magnesium`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:25~~`
+│   │   inner_content: `25`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `25`
+│   │   │   inner_content: `25`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Skin - Dark `
+│   │   inner_content: `Skin - Dark `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:24~~`
+│   │   inner_content: `24`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `24`
+│   │   │   inner_content: `24`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Intervention - non daily`
+│   │   inner_content: `Intervention - non daily`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:22~~`
+│   │   inner_content: `22`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `22`
+│   │   │   inner_content: `22`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Vitamin D Receptor`
+│   │   inner_content: `Vitamin D Receptor`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:22~~`
+│   │   inner_content: `22`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `22`
+│   │   │   inner_content: `22`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Metabolic Syndrome`
+│   │   inner_content: `Metabolic Syndrome`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:15~~`
+│   │   inner_content: `15`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `15`
+│   │   │   inner_content: `15`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Hypertension`
+│   │   inner_content: `Hypertension`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:13~~`
+│   │   inner_content: `13`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `13`
+│   │   │   inner_content: `13`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Kidney`
+│   │   inner_content: `Kidney`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:12~~`
+│   │   inner_content: `12`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `12`
+│   │   │   inner_content: `12`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Genetics`
+│   │   inner_content: `Genetics`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:12~~`
+│   │   inner_content: `12`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `12`
+│   │   │   inner_content: `12`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Omega-3`
+│   │   inner_content: `Omega-3`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:11~~`
+│   │   inner_content: `11`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `11`
+│   │   │   inner_content: `11`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Cognitive`
+│   │   inner_content: `Cognitive`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:10~~`
+│   │   inner_content: `10`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `10`
+│   │   │   inner_content: `10`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Depression`
+│   │   inner_content: `Depression`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:10~~`
+│   │   inner_content: `10`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `10`
+│   │   │   inner_content: `10`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Cancer`
+│   │   inner_content: `Cancer`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:9~~`
+│   │   inner_content: `9`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `9`
+│   │   │   inner_content: `9`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Autoimmune`
+│   │   inner_content: `Autoimmune`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:9~~`
+│   │   inner_content: `9`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `9`
+│   │   │   inner_content: `9`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Deficiency`
+│   │   inner_content: `Deficiency`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:9~~`
+│   │   inner_content: `9`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `9`
+│   │   │   inner_content: `9`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Virus`
+│   │   inner_content: `Virus`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:8~~`
+│   │   inner_content: `8`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `8`
+│   │   │   inner_content: `8`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Loading dose`
+│   │   inner_content: `Loading dose`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:8~~`
+│   │   inner_content: `8`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `8`
+│   │   │   inner_content: `8`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Inflammation`
+│   │   inner_content: `Inflammation`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:8~~`
+│   │   inner_content: `8`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `8`
+│   │   │   inner_content: `8`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Vision`
+│   │   inner_content: `Vision`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:7~~`
+│   │   inner_content: `7`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `7`
+│   │   │   inner_content: `7`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Mortality `
+│   │   inner_content: `Mortality `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:7~~`
+│   │   inner_content: `7`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `7`
+│   │   │   inner_content: `7`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Rheumatoid Arthritis`
+│   │   inner_content: `Rheumatoid Arthritis`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:7~~`
+│   │   inner_content: `7`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `7`
+│   │   │   inner_content: `7`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Middle East`
+│   │   inner_content: `Middle East`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:6~~`
+│   │   inner_content: `6`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Injection`
+│   │   inner_content: `Injection`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:6~~`
+│   │   inner_content: `6`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Immunity`
+│   │   inner_content: `Immunity`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:6~~`
+│   │   inner_content: `6`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Antibiotics, probiotics`
+│   │   inner_content: `Antibiotics, probiotics`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:6~~`
+│   │   inner_content: `6`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Multiple Sclerosis`
+│   │   inner_content: `Multiple Sclerosis`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:6~~`
+│   │   inner_content: `6`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Lupus`
+│   │   inner_content: `Lupus`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:6~~`
+│   │   inner_content: `6`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Stroke`
+│   │   inner_content: `Stroke`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:5~~`
+│   │   inner_content: `5`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Vitamin K`
+│   │   inner_content: `Vitamin K`
+│   ├── ColorNode
+│   │   full_match: `~~#F06:5~~`
+│   │   inner_content: `5`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Youth `
+│   │   inner_content: `Youth `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:5~~`
+│   │   inner_content: `5`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Vit D Binding Protein `
+│   │   inner_content: `Vit D Binding Protein `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:5~~`
+│   │   inner_content: `5`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Bone - Health `
+│   │   inner_content: `Bone - Health `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:4~~`
+│   │   inner_content: `4`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Pain - chronic `
+│   │   inner_content: `Pain - chronic `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:4~~`
+│   │   inner_content: `4`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Thyroid and parathyroid `
+│   │   inner_content: `Thyroid and parathyroid `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:4~~`
+│   │   inner_content: `4`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Books, videos `
+│   │   inner_content: `Books, videos `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:4~~`
+│   │   inner_content: `4`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Sports `
+│   │   inner_content: `Sports `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:4~~`
+│   │   inner_content: `4`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`
+│   ├── TextNode
+│   │   full_match: `; `
+│   │   inner_content: `; `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: `Fortification `
+│   │   inner_content: `Fortification `
+│   ├── ColorNode
+│   │   full_match: `~~#F06:4~~`
+│   │   inner_content: `4`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: ` As of Oct 2022 `
+│   │   inner_content: ` As of Oct 2022 `├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__and ((Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017))__`
+│   inner_content: `and ((Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017))`
+│   children:
+│   ├── TextNode
+│   │   full_match: `and `
+│   │   inner_content: `and `
+│   ├── LocalLinkNode
+│   │   full_match: `((Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017))`
+│   │   inner_content: `Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017`
+│   │   page: `Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017`
+│   │   │   inner_content: `Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Zinc and Vitamin D)) contains:`
+│   inner_content: `VitaminDWiki – ((Zinc and Vitamin D)) contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Zinc and Vitamin D))`
+│   │   inner_content: `Zinc and Vitamin D`
+│   │   page: `Zinc and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc and Vitamin D`
+│   │   │   inner_content: `Zinc and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains:`
+│   │   inner_content: ` contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Zinc and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Zinc and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Zinc and Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Diabetese and Zinc - several studies)) ~/tc~`
+│   inner_content: ` (alias(Diabetese and Zinc - several studies)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(Diabetese and Zinc - several studies)) `
+│   │   inner_content: `(alias(Diabetese and Zinc - several studies)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Zinc and Diabetes: A Connection between Micronutrient and Metabolism - Aug  2024
+Cells 2024, 13(16), 1359; https://doi.org/10.3390/cells13161359
+by Rahnuma Ahmad 1ORCID,Ronald Shaju 2ORCID, Azeddine Atfi 3 and Mohammed S. Razzaque 2,*ORCID
+*1 Department of Physiology, Medical College for Women and Hospital, Dhaka 1230, Bangladesh
+*2 Department of Medical Education, School of Medicine, University of Texas Rio Grande Valley (UTRGV), Edinburg, TX 78541, USA
+*3 Department of Biochemistry and Molecular Biology, Massey Cancer Center, Virginia Commonwealth University, Richmond, VA 23298, USA
+Diabetes mellitus is a global health problem and a major contributor to mortality and morbidity. The management of this condition typically involves using oral antidiabetic medication, insulin, and appropriate dietary modifications, with a focus on macronutrient intake. However, several human studies have indicated that a deficiency in micronutrients, such as zinc, can be associated with insulin resistance as well as greater glucose intolerance. Zinc serves as a chemical messenger, acts as a cofactor to increase enzyme activity, and is involved in insulin formation, release, and storage. These diverse functions make zinc an important trace element for the regulation of blood glucose levels. Adequate zinc levels have also been shown to reduce the risk of developing diabetic complications. This review article explains the role of zinc in glucose metabolism and the effects of its inadequacy on the development, progression, and complications of diabetes mellitus. Furthermore, it describes the impact of zinc supplementation on preventing diabetes mellitus. The available information suggests that zinc has beneficial effects on the management of diabetic patients. Although additional large-scale randomized clinical trials are needed to establish zinc’s clinical utility further, efforts should be made to increase awareness of its potential benefits on human health and disease.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21920&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!!129 References
+#Holt, R.I.; DeVries, J.H.; Hess-Fischl, A.; Hirsch, I.B.; Kirkman, M.S.; Klupa, T.; Ludwig, B.; Norgaard, K.; Pettus, J.; Renard, E.; et al. The management of type 1 diabetes in adults. A consensus report by the American diabetes association (ADA) and the European association for the Study of Diabetes (EASD). Diabetes Care 2021, 44, 2589-2625. [CrossRef]
+#ElSayed, N.A.; Aleppo, G.; Aroda, V.R.; Bannuru, R.R.; Brown, F.M.; Bruemmer, D.; Collins, B.S.; Gaglia, J.L.; Hilliard, M.E.; Isaacs, D.; et al. Classification and diagnosis of diabetes: Standards of Care in Diabetes. Diabetes Care 2022, 46, S19-S40. [CrossRef]
+#Hasanato, R.M. Trace elements in type 2 diabetes mellitus and their association with glycemic control. Afr. Health Sci. 2020, 20, 287-293. [CrossRef]
+#Farooq, M.__Zinc__ deficiency is associated with poor glycemic control. J. Coll. Physicians Surg. Pak. 2019,29, 253-257. [CrossRef]
+#Tamura, Y. The role of__Zinc__ homeostasis in the prevention of diabetes mellitus and cardiovascular diseases. J. Atheroscler. Thromb 28,1109-1122. [CrossRef] [PubMed]
+#Maret, W.__Zinc__ in pancreatic islet biology, insulin sensitivity, and diabetes. Prev. Nutr. Food Sci. 2017, 22,1-8. [CrossRef]
+#Blakemore, L.J.; Trombley, P.Q.__Zinc__ as a neuromodulator in the central nervous system with a focus on the olfactory bulb. Front. Cell. Neurosci. 2017, H, 297. [CrossRef]
+#Lim, K.H.C.; Riddell, L.J.; Nowson, C.A.; Booth, A.O.; Szymlek-Gay, E.A. Iron and__Zinc__ nutrition in the economically-developed world: A review. Nutrients 2013, 5, 3184-3211. [CrossRef] [PubMed]
+#Saper, R.B.; Rash, R.__Zinc__: An essential micronutrient. Am. Fam. Physician 2009, 79, 768-772. [PubMed]
+#Santos, H.O.; Teixeira, F.J.; Schoenfeld, B.J. Dietary vs. pharmacological doses of__Zinc__: A clinical review. Clin. Nutr. 2020, 39, 1345-1353. [CrossRef]
+#DRI Dietary Reference Intakes. Applications in Dietary Assessment: Washington, DC, USA, 2000. [CrossRef]
+#Szewczyk, B.__Zinc__ homeostasis and neurodegenerative disorders. Front. Aging Neurosci. 2013, 5, 54272. [CrossRef] [PubMed]
+#Wang, L.J.; Wang, M.Q.; Hu, R.; Yang, Y.; Huang, Y.S.; Xian, S.X.; Lu, L. Effect of__Zinc__ supplementation on maintenance Hemodialysis Patients: A systematic review and meta-analysis of 15 randomized controlled trials. BioMed Res. Int. 2017, 2017,1024769. [CrossRef] [PubMed]
+#Ranasinghe, P.; Wathurapatha, W.; Ishara, M.; Jayawardana, R.; Galappatthy, P.; Katulanda, P.; Constantine, G. Effects of__Zinc__ supplementation on serum lipids: A systematic review and meta-analysis. Nutr. Metab. 2015,12,1-16. [CrossRef] [PubMed]
+#Wegmuller, R.; Tay, F.; Zeder, C.; Brnic, M.; Hurrell, R.F.__Zinc__ absorption by young adults from supplemental__Zinc__ citrate is comparable with that from__Zinc__ gluconate and higher than from__Zinc__ oxide. J. Nutr. 2014,144,132-136. [CrossRef] [PubMed]
+#Shkembi, B.; Huppertz, T. Influence of dairy products on bioavailability of__Zinc__ from other food products: A Review of complementarity at a meal level. Nutrients 2021,13, 4253. [CrossRef] [PubMed]
+#Fairweather-Tait, S.; Hurrell, R.F. Bioavailability of minerals and trace elements. Nutr. Res. Rev. 1996, 9, 295-324. [CrossRef] [PubMed]
+#Roohani, N.; Hurrell, R.; Kelishadi, R.; Schulin, R.__Zinc__ and its importance for human health: An integrative review. J. Res. Med. Sci. 2013,18,144-157. [PubMed]
+#Johnson, P.E.; Hunt, C.D.; Milne, D.B.; Mullen, L.K. Homeostatic control of__Zinc__ metabolism in men:__Zinc__ excretion and balance in men fed diets low in__Zinc__. Am. J. Clin. Nutr. 1993, 57, 557-565. [CrossRef]
+#King, J.C.; Shames, D.M.; Woodhouse, L.R.__Zinc__ homeostasis in humans. J. Nutr. 2000,130,1360S-1366S. [CrossRef]
+#Wan, Y.; Zhang, B. The impact of__Zinc__ and__Zinc__ homeostasis on the intestinal mucosal barrier and intestinal diseases. Biomolecules
+#12, 900. [CrossRef]
+#Nutrition and Food Safety (NFS). Vitamin and Mineral Requirements in Human Nutrition; World Health Organization and Food and Agricultural Organization of the United Nations: Geneva, Switzerland, 2004; ISBN 9241546123.
+#Turnlund, J.R.; King, J.C.; Keyes, W.R.; Gong, B.; Michel, M.C. A stable isotope study of__Zinc__ absorption in young men: Effects of phytate and a-cellulose. Am. J. Clin. Nutr. 1984, 40,1071-1077. [CrossRef] [PubMed]
+#Krebs, N.F. Overview of__Zinc__ absorption and excretion in the human gastrointestinal Tract. J. Nutr. 2000, 130, 1374S-1377S. [CrossRef] [PubMed]
+#Tubek, S. Selected__Zinc__ metabolism parameters in premenopausal and postmenopausal women with moderate and severe primary arterial hypertension. Biol. Trace Elem. Res. 2007,116,249-255. [CrossRef]
+#Brown, K.H.; Rivera, J.A.; Bhutta, Z.; Gibson, R.S.; King, J.C.; Lonnerdal, B.; Ruel, M.T.; Sandtrom, B.; Wasantwisut, E.; Hotz, C. International__Zinc__ Nutrition Consultative Group (IZiNCG) technical document #Assessment of the risk of__Zinc__ deficiency in populations and options for its control. Food Nutr. Bull. 2004, 25, S99-S203. [PubMed]
+#Devergnas, S.; Chimienti, F.; Naud, N.; Pennequin, A.; Coquerel, Y.; Chantegrel, J.; Favier, A.; Seve, M. Differential regulation of__Zinc__ efflux transporters ZnT-1, ZnT-5 and ZnT-7 gene expression by__Zinc__ levels: A real-time RT-PCR study. Biochem. Pharmacol. 2004, 68, 699-709. [CrossRef]
+#Sekler, I.; Sensi, S.L.; Hershfinkel, M.; Silverman, W.F. Mechanism and regulation of cellular__Zinc__ transport. Mol. Med. 2007,13, 337-343. [CrossRef]
+#Liuzzi, J.P.; Cousins, R.J. Mammalian__Zinc__ transporters. Annu. Rev. Nutr. 2004, 24,151-172. [CrossRef]
+#McMahon, R.J.; Cousins, R.J. Mammalian__Zinc__ transporters. J. Nutr. 1998,128, 667-670. [CrossRef]
+#McMahon, R.J.; Cousins, R.J. Regulation of the__Zinc__ transporter ZnT-1 by dietary__Zinc__. Proc. Natl. Acad. Sci. USA 1998, 95, 4841-4846. [CrossRef]
+#Maret, W.__Zinc__ in cellular regulation: The nature and significance of &quot;zinc signals&quot;. Int. J. Mol. Sci. 2017,18, 2285. [CrossRef]
+#Razzaque, M.S. COVID-19 pandemic: Can__Zinc__ supplementation provide an additional shield against the infection? Comput. Struct. Biotechnol. J. 2021,19,1371-1378. [CrossRef] [PubMed]
+#Razzaque, M.S. COVID-19 Pandemic: Can maintaining optimal__Zinc__ balance enhance host resistance? Tohoku J. Exp. Med. 2020, 251,175-181. [CrossRef] [PubMed]
+#Andreini, C.; Banci, L.; Bertini, I.; Rosato, A. counting the__Zinc__-proteins encoded in the human genome. J. Proteome Res. 2006, 5, 196-201. [CrossRef] [PubMed]
+#King, J.C.__Zinc__: An essential but elusive nutrient. Am. J. Clin. Nutr. 2011, 94, 679S-684S. [CrossRef] [PubMed]
+#Jones, S.; Farr, G.; Nimmanon, T.; Ziliotto, S.; Gee, J.M.W.; Taylor, K.M. The importance of targeting signalling mechanisms of the SLC39A family of__Zinc__ transporters to inhibit endocrine resistant breast cancer. Explor. Target. Antitumor 2022, 3, 224-239. [CrossRef]
+#Maywald, M.; Rink, L.__Zinc__ in human health and infectious diseases. Biomolecules 2022,12,1748. [CrossRef] [PubMed]
+#Bitirim, C.V. The role of__Zinc__ transporter proteins as predictive and prognostic biomarkers of hepatocellular cancer. Peer] 2021, 9, e12314. [CrossRef] [PubMed]
+#Fong, L.Y.; Farber, J.L.; Croce, C.M.__Zinc__ intake, microRNA dysregulation, and esophageal cancer. Aging 2016, 8, 1161-1162. [CrossRef]
+#MacKenzie, S.; Bergdahl, A.__Zinc__ homeostasis in diabetes mellitus and vascular complications. Biomedicines 2022, 10, 139. [CrossRef]
+#Wessels, I.; Maywald, M.; Rink, L.__Zinc__ as a gatekeeper of immune function. Nutrients 2017, 9,1286. [CrossRef]
+#Uwitonze, A.M.; Ojeh, N.; Murererehe, J.; Atfi, A.; Razzaque, M.S.__Zinc__ adequacy is essential for the maintenance of optimal oral health. Nutrients 2020,12, 949. [CrossRef] [PubMed]
+#Amos, A.; Razzaque, M.S.__Zinc__ and its role in vitamin D function. Curr. Res. Physiol. 2022, 5, 203-207. [CrossRef] [PubMed]
+#Olechnowicz, J.; Tinkov, A.; Skalny, A.; Suliburska, J.__Zinc__ status is associated with inflammation, oxidative stress, lipid, and glucose metabolism. J. Physiol. Sci. 2018, 68,19-31. [CrossRef] [PubMed]
+#Fukunaka, A.; Fujitani, Y. Role of__Zinc__ homeostasis in the pathogenesis of diabetes and obesity. Int. J. Mol. Sci. 2018,19, 476. [CrossRef] [PubMed]
+#Coulston, L.; Dandona, P. Insulin-like effect of__Zinc__ on adipocytes. Diabetes 1998,29, 665-667. [CrossRef] [PubMed]
+#Khorsandi, H.; Nikpayam, O.; Yousefi, R.; Parandoosh, M.; Hosseinzadeh, N.; Saidpour, A.; Ghorbani, A.__Zinc__ supplementation improves body weight management, inflammatory biomarkers and insulin resistance in individuals with obesity: A randomized, placebo-controlled, double-blind trial. Diabetol. Metab. Syndr. 2019,11,1-10. [CrossRef] [PubMed]
+#Abdollahi, S.; Toupchian, O.; Jayedi, A.; Meyre, D.; Tam, V.; Soltani, S.__Zinc__ supplementation and body weight: A systematic review and dose-response meta-analysis of randomized controlled trials. Adv. Nutr. Int. Rev. J. 2020,11, 398-411. [CrossRef] [PubMed]
+#Franco, C.; Canzoniero, L.M.T.__Zinc__ homeostasis and redox alterations in obesity. Front. Endocrinol. 2024,14,1273177. [CrossRef] [PubMed]
+#Park, J.H.; Grandjean, C.J.; Antonson, D.L.; Vanderhoof, J.A. Effects of short-term isolated__Zinc__ deficiency on intestinal growth and activities of several brush border enzymes in weaning rats. Pediatr. Res. 1985,19,1333-1336. [CrossRef] [PubMed]
+#Shankar, A.H.; Prasad, A.S.__Zinc__ and immune function: The biological basis of altered resistance to infection. Am. J. Clin. Nutr. 1998, 68, 447S-463S. [CrossRef]
+#Hassan, A.; Sada, K.K.; Ketheeswaran, S.; Dubey, A.K.; Bhat, M.S. Role of__Zinc__ in mucosal health and disease: A review of physiological, biochemical, and molecular processes. Cureus 2020,12, e8197. [CrossRef] [PubMed]
+#Prasad, A.S.; Bao, B.; Beck, F.W.; Sarkar, F.H.__Zinc__-suppressed inflammatory cytokines by induction of A20-mediated inhibition of nuclear factor-kappaB. Nutrition 2011,27, 816-823. [CrossRef] [PubMed]
+#Prasad, A.S.; Bao, B.; Beck, F.W.; Kucuk, O.; Sarkar, F.H. Antioxidant effect of__Zinc__ in humans. Free. Radic. Biol. Med. 2004, 37, 1182-1190. [CrossRef] [PubMed]
+#von Bulow, V.; Dubben, S.; Engelhardt, G.; Hebel, S.; Plumakers, B.; Heine, H.; Rink, L.; Haase, H.__Zinc__-dependent suppression of TNF-alpha production is mediated by protein kinase A-induced inhibition of Raf-1, I kappa B kinase beta, and NF-kappa B. J. Immunol. 2007,179, 4180-4186. [CrossRef] [PubMed]
+#Brieger, A.; Rink, L.; Haase, H. Differential regulation of TLR-dependent MyD88 and TRIF signaling pathways by free__Zinc__ ions. J. Immunol. 2013,191,1808-1817. [CrossRef] [PubMed]
+#Ferdowsi, P.V.; Ahuja, K.D.K.; Beckett, J.M.; Myers, S. Capsaicin and__Zinc__ signalling pathways as promising targets for managing insulin resistance and type 2 diabetes. Molecules 2023, 28, 2861. [CrossRef] [PubMed]
+#Ranasinghe, P.; Pigera, S.; Galappatthy, P.; Katulanda, P.; Constantine, G.R.__Zinc__ and diabetes mellitus: Understanding molecular mechanisms and clinical implications. DARU J. Pharm. Sci. 2015, 23,1-13. [CrossRef] [PubMed]
+#Kelishadi, R.; Hashemipour, M.; Adeli, K.; Tavakoli, N.; Movahedian-Attar, A.; Shapouri, J.; Poursafa, P.; Rouzbahani, A. Effect of__Zinc__ supplementation on markers of insulin resistance, oxidative stress, and inflammation among prepubescent children with metabolic syndrome. Metab. Syndr. Relat. Disord. 2010, 8, 505-510. [CrossRef] [PubMed]
+#Vardatsikos, G.; Pandey, N.R.; Srivastava, A.K. Insulino-mimetic and anti-diabetic effects of__Zinc__. J. Inorg. Biochem. 2013,120, 8-17. [CrossRef] [PubMed]
+#Chimienti, F.__Zinc__, pancreatic islet cell function and diabetes: New insights into an old story. Nutr. Res. Rev. 2013, 26, 1-11. [CrossRef]
+#Li, Y.V.__Zinc__ and insulin in pancreatic beta-cells. Endocrine 2013, 45,178-189. [CrossRef] [PubMed]
+#Myers, S.A.__Zinc__ transporters and__Zinc__ signaling: New insights into their role in type 2 diabetes. Int. J. Endocrinol. 2015,1-7. [CrossRef]
+#Kambe, T.; Hashimoto, A.; Fujimoto, S. Current understanding of ZIP and ZnT__Zinc__ transporters in human health and diseases. Cell. Mol. Life Sci. 2014, 71, 3281-3295. [CrossRef] [PubMed]
+#Cai, Y.; Kirschke, C.P.; Huang, L. SLC30A family expression in the pancreatic islets of humans and mice: Cellular localization in the beta-cells. J. Mol. Histol. 2018, 49,133-145. [CrossRef] [PubMed]
+#Wijesekara, N.; Dai, F.F.; Hardy, A.B.; Giglou, P.R.; Bhattacharjee, A.; Koshkin, V.; Chimienti, F.; Gaisano, H.Y.; Rutter, G.A.; Wheeler, M.B. Beta cell-specific Znt8 deletion in mice causes marked defects in insulin processing, crystallisation and secretion. Diabetologia 2010, 53,1656-1668. [CrossRef]
+#Davidson, H.W.; Wenzlau, J.M.; O&#39;Brien, R.M.__Zinc__ transporter 8 (ZnT8) and beta cell function. Trends Endocrinol Metab. 2014, 25, 415-424. [CrossRef] [PubMed]
+#Foster, M.; Chu, A.; Petocz, P.; Samman, S.__Zinc__ transporter gene expression and glycemic control in post-menopausal women with type 2 diabetes mellitus. J. Trace Elements Med. Biol. 2014,28, 448-452. [CrossRef]
+#Lefebvre, B.; Vandewalle, B.; Balavoine, A.-S.; Queniat, G.; Moerman, E.; Vantyghem, M.-C.; Le Bacquer, O.; Gmyr, V.; Pawlowski, V.; Kerr-Conte, J.; et al. Regulation and functional effects of ZNT8 in human pancreatic islets. J. Endocrinol. 2012, 214, 225-232. [CrossRef] [PubMed]
+#Cruz, K.J.C.; de Oliveira, A.R.S.; Morais, J.B.S.; Severo, J.S.; Mendes, P.M.V.; Melo, S.R.d.S.; de Sousa, G.S.; Marreiro, D.D.N.__Zinc__ and insulin resistance: Biochemical and molecular aspects. Biol. Trace Elem. Res. 2018,186, 407-412. [CrossRef]
+#Huang, L.; Yan, M.; Kirschke, C.P. Over-expression of ZnT7 increases insulin synthesis and secretion in pancreatic beta-cells by promoting insulin gene transcription. Exp. Cell Res. 2010, 316, 2630-2643. [CrossRef]
+#Xiang, J.; Li, X.-Y.; Xu, M.; Hong, J.; Huang, Y.; Tan, J.-R.; Lu, X.; Dai, M.; Yu, B.; Ning, G.__Zinc__ transporter-8 gene (SLC30A8) is associated with type 2 diabetes in Chinese. J. Clin. Endocrinol. Metab. 2008, 93, 4107-4112. [CrossRef] [PubMed]
+#Salem, S.D.; Saif-Ali, R.; Ismail, I.S.; Al-Hamodi, Z.; Muniandy, S. Contribution of SLC30A8 variants to the risk of type 2 diabetes in a multi-ethnic population: A case control study. BMC Endocr. Disord. 2014,14, 2. [CrossRef]
+#Keller, S.R. Role of the insulin-regulated aminopeptidase IRAP in insulin action and diabetes. Biol. Pharm. Bull. 2004, 27, 761-764. [CrossRef] [PubMed]
+#Walter, P.L.; Kampkotter, A.; Eckers, A.; Barthel, A.; Schmoll, D.; Sies, H.; Klotz, L.-O. Modulation of FoxO signaling in human hepatoma cells by exposure to copper or__Zinc__ ions. Arch. Biochem. Biophys. 2006, 454,107-113. [CrossRef] [PubMed]
+#Tripathy, S.; Sumathi, S.; Raj, G. Minerals nutritional status of type 2 diabetic subjects. Int. J. Diabetes Dev. Ctries. 2003,24, 27-28.
+#Hussein, M.; Fathy, W.; Hassan, A.; Elkareem, R.A.; Marzouk, S.; Kamal, Y.S.__Zinc__ deficiency correlates with severity of diabetic polyneuropathy. Brain Behav. 2021,11, e32349. [CrossRef]
+#Beloucif, A.; Kechrid, Z.; Bekada, A.M.A. Effect of__Zinc__ deficiency on blood glucose, lipid profile, and antioxidant status in streptozotocin diabetic rats and the potential role of sesame oil. Biol. Trace Elem. Res. 2021, 200, 3236-3247. [CrossRef]
+#Maremanda, K.P.; Srivalliputturu, S.B.; Jena, G.__Zinc__ deficient diet exacerbates the testicular and epididymal damage in type 2 diabetic rat: Studies on oxidative stress-related mechanisms. Reprod. Biol. 2020, 20,191-201. [CrossRef]
+#Sahu, C.; Jena, G. Dietary__Zinc__ deficient condition increases the bisphenol a toxicity in diabetic rat testes. Mutat. Res. Toxicol. Environ. Mutagen. 2022, 882, 503547. [CrossRef]
+#Elsaed, W.M.; Mohamed, H.A. Dietary__Zinc__ modifies diabetic-induced renal pathology in rats. Ren. Fail. 2016, 39, 246-257. [CrossRef]
+#Fushimi, H.; Inoue, T.; Yamada, Y.; Horie, H.; Kameyama, M.; Inoue, K.; Minami, T.; Okazaki, Y.__Zinc__ deficiency exaggerates diabetic osteoporosis. Diabetes Res. Clin. Pr. 1993, 20,191-196. [CrossRef] [PubMed]
+#Kim, H.J.; Vaziri, N.D. Contribution of impaired Nrf2-Keap1 pathway to oxidative stress and inflammation in chronic renal failure. Am. J. Physiol. Physiol. 2010,298, F662-F671. [CrossRef] [PubMed]
+#Suzuki, M.; Betsuyaku, T.; Ito, Y.; Nagai, K.; Nasuhara, Y.; Kaga, K.; Kondo, S.; Nishimura, M. Down-regulated NF-E2-related factor 2 in pulmonary macrophages of aged smokers and patients with chronic obstructive pulmonary disease. Am. J. Respir. Cell Mol. Biol. 2008, 39, 673-682. [CrossRef] [PubMed]
+#Zhang, C.; Lu, X.; Tan, Y.; Li, B.; Miao, X.; Jin, L.; Shi, X.; Zhang, X.; Miao, L.; Li, X.; et al. Diabetes-induced hepatic pathogenic damage, inflammation, oxidative stress, and insulin resistance was exacerbated in__Zinc__ deficient mouse model. PLoS ONE 2012, 7, e49257. [CrossRef] [PubMed]
+#Zhao, Y.; Tan, Y.; Dai, J.; Li, B.; Guo, L.; Cui, J.; Wang, G.; Shi, X.; Zhang, X.; Mellen, N.; et al. Exacerbation of diabetes-induced testicular apoptosis by__Zinc__ deficiency is most likely associated with oxidative stress, p38 MAPK activation, and p53 activation in mice. Toxicol. Lett. 2011, 200,100-106. [CrossRef] [PubMed]
+#Li, B.; Cui, W.; Tan, Y.; Luo, P.; Chen, Q.; Zhang, C.; Qu, W.; Miao, L.; Cai, L.__Zinc__ is essential for the transcription function of Nrf2 in human renal tubule cells in vitro and mouse kidney in vivo under the diabetic condition. J. Cell. Mol. Med. 2014,18, 895-906. [CrossRef] [PubMed]
+#Rashid, S.; Qamar, K.; Tassaduq, I. Role of vitamin E in preventing arteriohyalinization in kidneys of streptozotocin induced diabetic mice. J. Pak. Med. Assoc. 2015, 65,1085-1088.
+#Miao, X.; Sun, W.; Miao, L.; Fu, Y.; Wang, Y.; Su, G.; Liu, Q.__Zinc__ and diabetic retinopathy. J. Diabetes Res. 2013, 425854. [CrossRef]
+#Milnerowicz, H.; Jablonowska, M.; Bizon, A. Change of__Zinc__, copper, and metallothionein concentrations and the copper-zinc superoxide dismutase activity in patients with pancreatitis. Pancreas 2009, 38, 681-688. [CrossRef]
+#Santa, S.R.; Santasmita, P.; Swati, B.; Kanika, C.; Aruna, B.; Gargi, S.; Soma, G. Status of serum magnesium,__Zinc__ and copper in patients suffering from type 2 diabetes mellitus. J. Drug Deliv. Ther. 2014, 4, 70-72. [CrossRef]
+#Saharia, G.K.; Goswami, R.K. Evaluation of serum__Zinc__ status and glycated hemoglobin of type 2 diabetes mellitus patients in a tertiary care hospital of assam. J. Lab. Physicians 2013, 5, 30-33. [CrossRef] [PubMed]
+#Al-Maroof, R.; Al-Sharbatti, S.S. Serum__Zinc__ levels in diabetic patients and effect of__Zinc__ supplementation on glycemic control of type 2 diabetics. Saudi Med. J. 2006, 27, 344-350. [PubMed]
+#Zargar, A.H.; Shah, N.A.; Shah, N.; Masoodi, S.R.; Laway, B.A.; Dar, F.A.; Khan, A.R.; Sofi, F.A.; Wani, A.I. Copper,__Zinc__, and magnesium levels in non-insulin dependent diabetes mellitus. Postgrad. Med. J. 1998, 74, 665-668. [CrossRef] [PubMed]
+#Migdalis, I.N.; Triantafilou, P.; Petridou, E.; Varvarigos, N.; Totolos, V.; Rigopoulos, A. Lipid peroxides in type 2 diabetic patients with neuropathy. Res. Commun. Mol. Pathol. Pharmacol. 2005,117-118,5-12.
+#Jansen, J.; Karges, W.; Rink, L.__Zinc__ and diabetes--clinical links and molecular mechanisms. J. Nutr. Biochem. 2009, 20, 399-417. [CrossRef] [PubMed]
+#Jenner, A.; Ren, M.; Rajendran, R.; Ning, P.; Huat, B.T.K.; Watt, F.; Halliwell, B.__Zinc__ supplementation inhibits lipid peroxidation and the development of atherosclerosis in rabbits fed a high cholesterol diet. Free. Radic. Biol. Med. 2007, 42, 559-566. [CrossRef] [PubMed]
+#Meduri, G.U. Clinical review: A paradigm shift: The bidirectional effect of inflammation on bacterial growth. Clinical implications for patients with acute respiratory distress syndrome. Crit. Care 2002, 6, 24-29. [CrossRef]
+#Jayawardena, R.; Ranasinghe, P.; Galappatthy, P.; Malkanthi, R.; Constantine, G.; Katulanda, P. Effects of__Zinc__ supplementation on diabetes mellitus: A systematic review and meta-analysis. Diabetol. Metab. Syndr. 2012, 4,13. [CrossRef] [PubMed]
+#Afkhami-Ardekani, M.; Karimi, M.; Mohammadi, S.; Forough, N. Effect of__Zinc__ sulfate supplementation on lipid and glucose in type 2 diabetic patients. Pak. J. Nitr. 2008, 7, 550-553. [CrossRef]
+#Farvid, M.S.; Homayouni, F.; Amiri, Z.; Adelmanesh, F. Improving neuropathy scores in type 2 diabetic patients using micronutri­ents supplementation. Diabetes Res. Clin. Pract. 2011, 93, 86-94. [CrossRef]
+#Farvid, M.S.; Jalali, M.; Siassi, F.; Hosseini, M. Comparison of the effects of vitamins and/or mineral supplementation on glomerular and tubular dysfunction in type 2 diabetes. Diabetes Care 2005, 28, 2458-2464. [CrossRef] [PubMed]
+#Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Blood sugar lowering effect of__Zinc__ and multi vitamin/ mineral supplementation is dependent on initial fasting blood glucose. J. Diabetol. 2011, 2. [CrossRef]
+#Hettiarachchi, M.; Gunasekara, P.; Liyanage, C.; Lekamwasam, S. Effects of__Zinc__ and multimineral vitamin supplementation on glycemic and lipid control in adult diabetes. Diabetes Metab. Syndr. Obes. Targets Ther. 2011, 4, 53-60. [CrossRef] [PubMed]
+#Hayee, M.A.; Mohammad, Q.D.; Haque, A. Diabetic neuropathy and__Zinc__ therapy. Bangladesh Med. Res. Counc. Bull. 2005, 31, 62-67. [PubMed]
+#Gupta, R.; Garg, V.K.; Mathur, D.K.; Goyal, R.K. Oral__Zinc__ therapy in diabetic neuropathy. J. Assoc. Physicians India 1998, 46, 939-942.
+#Hegazi, S.M.; Ahmed, S.S.; Mekkawy, A.A.; Mortagy, M.S.; Abdel-Kadder, M. Effect of__Zinc__ supplementation on serum glucose, insulin, glucagon, glucose-6-phosphatase, and mineral levels in diabetics. J. Clin. Biochem. Nutr. 1992,12, 209-215. [CrossRef]
+#Hussain, S.A.; Khadim, H.M.; Khalaf, B.H.; Ismail, S.H.; Hussein, K.I.; Sahib, A.S. Effects of melatonin and__Zinc__ on glycemic control in type 2 diabetic patients poorly controlled with metformin. Saudi Med. J. 2006, 27,1483-1488.
+#Kadhim, H.M.; Ismail, S.H.; Hussein, K.I.; Bakir, I.H.; Sahib, A.S.; Khalaf, B.H.; Hussain, S.A.-R. Effects of melatonin and__Zinc__ on lipid profile and renal function in type 2 diabetic patients poorly controlled with metformin. J. Pineal Res. 2006, 41,189-193. [CrossRef]
+#Parham, M.; Amini, M.; Aminorroaya, A.; Heidarian, E. Effect of__Zinc__ supplementation on microalbuminuria in patients with type 2 diabetes: A double blind, randomized, placebo-controlled, cross-over trial. Rev. Diabet. Stud. 2008,5,102-109. [CrossRef]
+#Partida-Hernández, G.; Arreola, F.; Fenton, B.; Cabeza, M.; Román-Ramos, R.; Revilla-Monsalve, M. Effect of__Zinc__ replacement on lipids and lipoproteins in type 2-diabetic patients. Biomed. Pharmacother. 2006, 60,161-168. [CrossRef]
+#Siddique, K.U.; Ashfaq, F.; Ali, W.; Reddy, H.D.; Mishra, A.; Khan, M.I. Effect of high-dose__Zinc__ supplementation with oral hypoglycemic agents on glycemic control and inflammation in type-2 diabetic nephropathy patients. J. Nat. Sci. Biol. Med. 2013, 4, 336-340. [CrossRef]
+#Simon, S.F.; Taylor, C.G. Dietary__Zinc__ supplementation attenuates hyperglycemia in db/db Mice. Exp. Biol. Med. 2001, 226,43-51. [CrossRef] [PubMed]
+#El-Ashmony, S.M.A.; Morsi, H.K.; Abdelhafez, A.M. Effect of__Zinc__ supplementation on glycemic control, lipid profile, and renal functions in patients with type II diabetes: A single blinded, randomized, placebo-controlled, trial. J. Biol. Agric. Health 2012, 2, 33-41.
+#Foster, M.; Petocz, P.; Samman, S. Effects of__Zinc__ on plasma lipoprotein cholesterol concentrations in humans: A meta-analysis of randomised controlled trials. Atherosclerosis 2010,210, 344-352. [CrossRef] [PubMed]
+#Foster, M.; Petocz, P.; Caterson, I.; Samman, S. Effects of__Zinc__ and a-linolenic acid supplementation on glycemia and lipidemia in women with type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled trial. J. Diabetes Res. Clin. Metab. 2013, 9, 1-9. [CrossRef]
+#Lee, Y.M.; Wolf, P.; Hauner, H.; Skurk, T. Effect of a fermented dietary supplement containing chromium and__Zinc__ on metabolic control in patients with type 2 diabetes: A randomized, placebo-controlled, double-blind cross-over study. Food Nutr. Res. 2016, 60, 30298. [CrossRef]
+#Oh, H.-M.; Yoon, J.-S. Glycemic control of type 2 diabetic patients after short-term__Zinc__ supplementation. Nutr. Res. Pr. 2008, 2, 283-288. [CrossRef]
+#Seet, R.C.; Lee, C.-Y.J.; Lim, E.C.; Quek, A.M.; Huang, H.; Huang, S.H.; Looi, W.F.; Long, L.H.; Halliwell, B. Oral__Zinc__ supplementa­tion does not improve oxidative stress or vascular function in patients with type 2 diabetes with normal__Zinc__ levels. Atherosclerosis 2011, 219, 231-239. [CrossRef]
+#Wang, X.; Wu, W.; Zheng, W.; Fang, X.; Chen, L.; Rink, L.; Min, J.; Wang, F.__Zinc__ supplementation improves glycemic control for diabetes prevention and management: A systematic review and meta-analysis of randomized controlled trials. Am. J. Clin. Nutr. 2019,110, 76-90. [CrossRef]
+#Foster, M.; Samman, S.__Zinc__ and redox signaling: Perturbations associated with cardiovascular disease and diabetes mellitus. Antioxid. Redox Signal. 2010,13,1549-1573. [CrossRef]
+#Hughes, S.; Samman, S. The effect of__Zinc__ supplementation in humans on plasma lipids, antioxidant status and thrombogenesis. J. Am. Coll. Nutr. 2006, 25, 285-291. [CrossRef] [PubMed]
+#Jafarnejad, S.; Mahboobi, S.; McFarland, L.V.; Taghizadeh, M.; Rahimi, F. Meta-analysis: Effects of__Zinc__ supplementation alone or with multi-nutrients, on glucose control and lipid levels in patients with type 2 diabetes. Prev. Nutr. Food Sci. 2019,24, 8-23. [CrossRef] [PubMed]
+#Chandra, R.K. Excessive intake of__Zinc__ impairs immune responses. JAMA 1984, 252,1443-1446. [CrossRef] [PubMed]
+#Donangelo, C.M.; Woodhouse, L.R.; King, S.M.; Viteri, F.E.; King, J.C. Supplemental__Zinc__ lowers measures of iron status in young women with low iron reserves. J. Nutr. 2002,132,1860-1864. [CrossRef]
+#Galvez-Fernandez, M.; Powers, M.; Grau-Perez, M.; Domingo-Relloso, A.; Lolacono, N.; Goessler, W.; Zhang, Y.; Fretts, A.; Umans, J.G.; Maruthur, N.; et al. Urinary__Zinc__ and incident type 2 diabetes: Prospective evidence from the strong heart study. Diabetes Care 2022, 45, 2561-2569. [CrossRef]
+#Alexander, R.; Khaja, A.; Debiec, N.; Fazioli, A.; Torrance, M.; Razzaque, M.S. Health-promoting benefits of lentils: Anti­inflammatory and anti-microbial effects. Curr. Res. Physiol. 2024, 7,100124. [CrossRef]
+#Razzaque, M.S. Magnesium: Are we consuming enough? Nutrients 2018,10,1863. [CrossRef]
+---
+!!!!Effect of zinc supplementation in the management of type 2 diabetes: A grading of recommendations assessment, development, and evaluation-assessed, dose-response meta-analysis of randomized controlled trials - May 2023
+Critical Reviews in Food Science and Nutrition  
+ ~hs~ ~hs~ https://doi.org/10.1080/10408398.2023.2209802 __PDF behind $61 paywall__
+Kimia Ghaedi ORCID Icon,Dorsa Ghasempour ORCID Icon,Mohammadreza Jowshan ORCID Icon,Miaobing Zheng ORCID Icon,Saeed Ghobadi ORCID Icon &amp; Alireza Jafari ORCID Icon
+
+The question of whether zinc supplementation may improve cardio-metabolic health in patients with type 2 diabetes mellitus (T2DM) remains controversial and require further evaluation. This study aimed to summarize the effectiveness of oral zinc supplementation in improving cardio-metabolic risk markers in people with T2DM. We searched PubMed, Scopus, and Web of Science from inception to April 2023, for randomized controlled trials (RCTs). RCTs of type 2 diabetic adults (aged ≥18 years) comparing zinc supplementation with placebo were included. We excluded studies if not randomized, involved co-supplementation, and were conducted in children or pregnant women. Glycemic indices, lipid profiles, blood pressure, anthropometric measure, c-reactive protein (CRP), creatinine, and serum zinc were extracted. Certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methods. We used a random-effect model to perform the dose-response analysis. Effect sizes were presented as mean difference (MD) and 95% confidence interval (CI). 22 studies (n = 1442 participants) were included. The certainty of the evidence was rated as moderate to high. 
+
+Zinc supplementation significantly reduced glycemic indices: including two-hour postprandial glucose (2hpp) (mean difference (MD): −34.34 mg/dl; 95%CI: −51.61∼ −17.07), fast blood sugar (FBS) (MD: −23.32 mg/dl; 95% CI: −33.81∼ −12.83), and hemoglobin A1c (HbA1c) (MD: −0.47; 95% CI: −0.71∼ −0.23). 
+
+Zinc had a favorable effect on lipid profiles low-density lipoprotein (LDL) (MD: −10.76 mg/dl; CI: −17.79∼−3.73), triglyceride (TG) (MD: −18.23 mg/dl; CI: −32.81∼−3.65), total cholesterol (TC) (MD: −12.74 mg/dl; CI: −21.68∼−3.80), VLDL (MD: −5.39 mg/dl; CI: −7.35∼−3.43) and high-density lipoprotein (HDL) (MD: 4.04 mg/dl; CI: 0.96 ∼ 7.12). Systolic blood pressure (SBP) (MD): −3.64 mmHg; 95% CI: −6.77∼ −0.52), weight (MD: 1.00 kg; 95% CI: 0.34∼1.66), CRP (MD: −3.37 mg/l, 95% CI: −4.05∼ −2.70), and serum zinc (MD: 15.38 µg/dl; 95% CI: 10.74∼ 20.02) changed to a statistically significant extent with zinc supplementation. There was also a linear association between additional 10 mg/d zinc treatment with FBS, HbA1c, HDL, LDL, TG, TC, and serum zinc. A non-linear dose-response gradient was seen for FBS, HDL, and SBP (p &lt; 0.05). Egger’s test showed no substantial publication bias. 
+__Our findings strongly suggest a potential beneficial effect of zinc supplementation on type 2 diabetic patients.__ Further high-quality research is needed to determine the optimal form, dosage, and duration of zinc supplementation for this population.
+---
+!!!!Zinc Supplementation in Individuals with Prediabetes and type 2 Diabetes: a GRADE-Assessed Systematic Review and Dose-Response Meta-analysis - Oct 2023
+Biological Trace Element Research Volume 202, pages 2966–2990, (2024)
+~hs~ ~hs~ https://doi.org/10.1007/s12011-023-03895-7 __PDF behind paywall__
+Matin Nazari, Mahlagha Nikbaf-Shandiz, Fereshteh Pashayee-Khamene, Reza Bagheri, Kian Goudarzi, Navid Vahid Hosseinnia, Sina Dolatshahi, Hossein Salehi Omran, Niusha Amirani, Damoon Ashtary-larky, 
+
+Zinc supplementation has therapeutic effects on cardiovascular disease (CVD) risk factors, including dyslipidemia, hyperglycemia, and inflammation as the main contributors to CVD pathogenesis. Since CVD is a major cause of mortality among people with type 2 diabetes mellitus (T2DM), this study aimed to overview the potential effects of zinc supplementation on CVD risk factors in T2DM patients. To determine appropriate randomized clinical trials (RCTs) investigating the effects of zinc supplementation on CVD risk factors, electronic sources including PubMed, Web of Science, and Scopus were systematically searched until January 2023. The heterogeneity of trials was checked using the I2 statistic. According to the heterogeneity tests, random-effects models were estimated, and pooled data were defined as the weighted mean difference (WMD) with a 95% confidence interval (CI). 
+
+Of the 4004 initial records, 23 studies that met inclusion criteria were analyzed in this meta-analysis. The pooled findings indicated the significant lowering effects of zinc supplementation on triglycerides (TG), total cholesterol (TC), fasting blood glucose (FBG), hemoglobin A1C (HbA1C), and C-reactive protein (CRP), while high-density cholesterol (HDL) concentrations showed an elevation after zinc supplementation. In addition to statistical significance, the effect of zinc supplementation on most of the variables was clinically significant; however, the quality of evidence in the included studies is regarded as low or very low for most variables. 
+Our study demonstrated that zinc supplementation has beneficial effects on glycemic control markers, lipid profile, and CRP levels as a classic marker of inflammation in T2DM. Due to the high degree of heterogeneity between studies and the low rate of quality in them, further well-designed studies are necessitated to strengthen our findings.
+---
+!!!!The Role of Zinc Homeostasis in the Prevention of Diabetes Mellitus and Cardiovascular Diseases
+Journal of Atherosclerosis and Thrombosis [https://doi.org/10.5551/jat.RV17057]
+Yukinori Tamura
+
+Zinc is an essential micronutrient for human health and is involved in various biological functions, such as growth, metabolism, and immune function. In recent years, research on intracellular zinc dynamics has progressed, and it has become clear that zinc transporters strictly control intracellular zinc localization, zinc regulates the functions of various proteins and signal transduction pathways as a second messenger similar to calcium ions, and intracellular zinc dyshomeostasis is associated with impaired insulin synthesis, secretion, sensitivity, lipid metabolism, and vascular function. Numerous animal and human studies have shown that zinc deficiency may be associated with the risk factors for diabetes and cardiovascular diseases (CVDs) and zinc administration might be beneficial for the prevention and treatment of these diseases. Therefore, an understanding of zinc biology may help the establishment of novel strategies for the prevention and treatment of diabetes and CVDs. This review will summarize the current knowledge on the role of zinc homeostasis in the pathogenesis of diabetes and atherosclerosis and will discuss the potential of zinc in the prevention of these diseases.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21900&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Diabetes and zinc dyshomeostasis: Can zinc supplementation mitigate diabetic complications? - 2022
+Critical Reviews in Food Science and Nutrition https://doi.org/10.1080/10408398.2020.1833178
+Susmita Barman &amp;Krishnapura Srinivasan
+
+!!!!!Overview: Diabetes with and without Zinc
+{img type=&quot;attId&quot; attId=&quot;21922&quot; width=&quot;600&quot;}
+!!!!!Diabetes with and without Zinc
+{img type=&quot;attId&quot; attId=&quot;21923&quot; width=&quot;700&quot;}
+!!!!!Human Diabetes and Zinc studies
+{img type=&quot;attId&quot; attId=&quot;21924&quot; width=&quot;800&quot;}
+!!!!!Proven benefits of Zinc on Diabetes
+{img type=&quot;attId&quot; attId=&quot;21925&quot; width=&quot;500&quot;}
+Zinc present in the islet cells of the pancreas is crucial for the synthesis, storage, and secretion of insulin. The excretion of large amounts of zinc from the body is reported in diabetic situations. Zinc depletion and increased oxidative stress have a major impact on the pathogenesis of diabetic complications. It would be most relevant to ascertain if intervention with supplemental zinc compensating for its depletion would beneficially mitigate hyperglycemia and the attendant metabolic abnormalities, and secondary complications in diabetes. An exhaustive literature search on this issue indicates: 
+*(1) Concurrent hypozincemia and decreased tissue zinc stores in diabetes as a result of its increased urinary excretion and/or decreased intestinal absorption, 
+*(2) Several recent experimental studies have documented that supplemental zinc has a potential hypoglycemic effect in the diabetic situation, and also beneficially modulate the attendant metabolic abnormalities and compromised antioxidant status, and 
+*(3) Supplemental zinc also alleviates renal lesions, cataract and the risk of cardiovascular disease accompanying diabetes mellitus, and help restore gastrointestinal health in experimental diabetes. 
+These studies have also attempted to identify the precise mechanisms responsible for zinc-mediated beneficial effects in diabetic situation. The evidence discussed in this review highlights that supplemental zinc may significantly contribute to its clinical application in the management of diabetic hyperglycemia and related metabolic abnormalities, and in the alleviation of secondary complications resulting from diabetic oxidative stress.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21921&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!1,490,000 hits for zinc (diabetes OR pancreas) as of Nov 2024
+__[https://scholar.google.com/scholar?q=zinc+(diabetes+OR+pancreas)&amp;hl=en&amp;as_sdt=0,48 |Google Scholar]__
+---
+!!!!VitaminDWiki – ((Overview Diabetes and vitamin D)) contains 
+{include page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+__Diabetic Epidemic__
+{include page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}
+---
+!!!!All categories associated with ((Diabetes))
+__Intervention~~#F06:55~~; ~hs~Pregnancy ~~#F06:42~~; ~hs~Infant-Child ~~#F06:38~~; ~hs~Meta-analysis ~~#F06:36~~;  ~hs~Obesity ~~#F06:32~~; ~hs~Cardiovascular ~~#F06:31~~; ~hs~~~#00F:Magnesium~~ ~~#F06:25~~; ~hs~Skin - Dark ~~#F06:24~~; ~hs~Intervention - non daily~~#F06:22~~; ~hs~Vitamin D Receptor~~#F06:22~~; ~hs~Metabolic Syndrome~~#F06:15~~; ~hs~Hypertension~~#F06:13~~; ~hs~Kidney~~#F06:12~~; ~hs~Genetics~~#F06:12~~; ~hs~Omega-3~~#F06:11~~; ~hs~Cognitive~~#F06:10~~; ~hs~Depression~~#F06:10~~; ~hs~Cancer~~#F06:9~~; ~hs~Autoimmune~~#F06:9~~; ~hs~Deficiency~~#F06:9~~; ~hs~Virus~~#F06:8~~; ~hs~Loading dose~~#F06:8~~; ~hs~Inflammation~~#F06:8~~; ~hs~Vision~~#F06:7~~; ~hs~Mortality ~~#F06:7~~; ~hs~Rheumatoid Arthritis~~#F06:7~~; ~hs~Middle East~~#F06:6~~; ~hs~Injection~~#F06:6~~; ~hs~Immunity~~#F06:6~~; ~hs~Antibiotics, probiotics~~#F06:6~~; ~hs~Multiple Sclerosis~~#F06:6~~; ~hs~Lupus~~#F06:6~~; ~hs~Stroke~~#F06:5~~; ~hs~Vitamin K~~#F06:5~~; ~hs~Youth ~~#F06:5~~; ~hs~Vit D Binding Protein ~~#F06:5~~; ~hs~Bone - Health ~~#F06:4~~; ~hs~Pain - chronic ~~#F06:4~~; ~hs~Thyroid and parathyroid ~~#F06:4~~; ~hs~Books, videos ~~#F06:4~~; ~hs~Sports ~~#F06:4~~; ~hs~Fortification ~~#F06:4~~ ~hs~ ~hs~ ~hs~ ~hs~ As of Oct 2022 __
+
+__and ((Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017))__
+---
+!!!!VitaminDWiki – ((Zinc and Vitamin D)) contains:
+{include page=&quot;Zinc and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+
+~tc~ (alias(Diabetese and Zinc - several studies)) ~/tc~
+</code>
+</pre>

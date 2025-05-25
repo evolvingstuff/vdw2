@@ -10,8 +10,8 @@ class Search {
             searchResultsId: 'search-results',
             suggestionsId: 'suggestions',
             searchStatusId: 'search-status',
-            documentsUrl: '/js/search_documents.json',
-            indexUrl: '/js/search_index.json',
+            documentsUrl: '/search/search_documents.json.gz',  // Use .gz extension explicitly
+            indexUrl: '/search/search_index.json.gz',          // Use .gz extension explicitly
             ...config
         };
 
@@ -23,49 +23,234 @@ class Search {
         // Disable search until initialized
         if (this.searchInput) {
             this.searchInput.disabled = true;
+            this.searchInput.placeholder = 'Loading search...';
         }
+        
+        // if (this.searchStatus) {
+        //     this.searchStatus.textContent = 'Initializing search...';
+        //     this.searchStatus.style.display = 'block';
+        // }
 
-        this.init();
+        // Flag to track if pako is available
+        this.pakoLoaded = false;
+        
+        // Check if pako is already loaded
+        if (typeof pako !== 'undefined') {
+            console.log('Pako already loaded');
+            this.pakoLoaded = true;
+            this.init();
+        } else {
+            // Load pako dynamically
+            this.loadPako()
+                .then(() => {
+                    console.log('Pako loaded successfully');
+                    this.pakoLoaded = true;
+                    this.init();
+                })
+                .catch(error => {
+                    console.error('Failed to load pako:', error);
+                    this.handleInitError(`Failed to load decompression library: ${error.message}`);
+                });
+        }
+    }
+
+    /**
+     * Loads the pako library dynamically
+     */
+    loadPako() {
+        return new Promise((resolve, reject) => {
+            console.log('Loading pako library...');
+            const script = document.createElement('script');
+            script.src = 'https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js';
+            script.onload = () => {
+                if (typeof pako === 'undefined') {
+                    reject(new Error('Pako loaded but not defined'));
+                } else {
+                    resolve();
+                }
+            };
+            script.onerror = () => reject(new Error('Failed to load pako script'));
+            document.head.appendChild(script);
+        });
+    }
+
+    /**
+     * Handle initialization errors in a consistent way
+     */
+    handleInitError(message) {
+        console.error('Search initialization error:', message);
+        if (this.searchStatus) {
+            this.searchStatus.textContent = `Search unavailable: ${message}`;
+            this.searchStatus.style.display = 'block';
+        }
+        if (this.searchInput) {
+            this.searchInput.disabled = true;
+            this.searchInput.placeholder = 'Search unavailable';
+        }
+    }
+
+    /**
+     * Decompress gzipped data using pako
+     */
+    decompressWithPako(compressedData) {
+        console.log(`Decompressing data (${compressedData.byteLength} bytes)...`);
+        
+        try {
+            // Verify we have pako available
+            if (!this.pakoLoaded) {
+                throw new Error('Decompression library not loaded');
+            }
+            
+            // Decompress using pako
+            const decompressedArray = pako.inflate(new Uint8Array(compressedData));
+            const decompressedText = new TextDecoder().decode(decompressedArray);
+            
+            // Validate decompressed data
+            if (!decompressedText || decompressedText.length === 0) {
+                throw new Error('Decompression produced empty result');
+            }
+            
+            console.log(`Decompression successful (${decompressedText.length} chars)`);
+            return decompressedText;
+        } catch (error) {
+            console.error('Decompression error:', error);
+            throw new Error(`Failed to decompress gzipped data: ${error.message}`);
+        }
     }
 
     async init() {
+        if (!this.pakoLoaded) {
+            this.handleInitError('Decompression library not loaded');
+            return;
+        }
+        
         try {
-            console.log('Fetching search index from:', this.config.documentsUrl, this.config.indexUrl);
-            const [docs, indexData] = await Promise.all([
-                fetch(this.config.documentsUrl).then(r => r.json()),
-                fetch(this.config.indexUrl).then(r => r.json())
-            ]);
-
-            console.log('Loaded', docs.length, 'documents');
-            this.documents = docs;
-            this.idx = lunr.Index.load(indexData);
-            console.log('Initialized Lunr search index');
+            // Add cache buster to prevent server caching issues
+            const cacheBuster = `?v=${Date.now()}`;
+            const docsUrl = `${this.config.documentsUrl}${cacheBuster}`;
+            const indexUrl = `${this.config.indexUrl}${cacheBuster}`;
             
-            // Build clean title words set
-            this.allTitles = new Set();
-            this.documents.forEach(doc => {
-                const titleWords = doc.title
-                    .toLowerCase()
-                    .split(/[\s\-]+/)
-                    .filter(word => word.length > 0);
-                titleWords.forEach(word => this.allTitles.add(word.toLowerCase().replace(/[,\.;:]\s*$/, '')));
-            });
-            console.log('Built title set with', this.allTitles.size, 'unique words');
-
-            if (this.searchInput) {
-                this.searchInput.disabled = false;
-                this.searchInput.placeholder = 'Search...';
-                this.searchInput.addEventListener('input', this.handleSearch.bind(this));
-                console.log('Search input enabled and handler bound');
+            console.log('Fetching compressed search indices:', docsUrl, indexUrl);
+            
+            // Fetch compressed data
+            const [docsResponse, indexResponse] = await Promise.all([
+                fetch(docsUrl),
+                fetch(indexUrl)
+            ]);
+            
+            // Validate responses
+            if (!docsResponse.ok) {
+                throw new Error(`Failed to fetch documents: HTTP ${docsResponse.status} (${docsResponse.statusText})`);
             }
-            if (this.searchStatus) {
-                this.searchStatus.style.display = 'none';
+            
+            if (!indexResponse.ok) {
+                throw new Error(`Failed to fetch index: HTTP ${indexResponse.status} (${indexResponse.statusText})`);
             }
+            
+            // Log response headers for debugging
+            console.log('Documents response headers:', 
+                Array.from(docsResponse.headers.entries())
+                    .map(([k, v]) => `${k}: ${v}`)
+                    .join(', '));
+            
+            console.log('Index response headers:', 
+                Array.from(indexResponse.headers.entries())
+                    .map(([k, v]) => `${k}: ${v}`)
+                    .join(', '));
+            
+            // Get binary data
+            const [docsData, indexData] = await Promise.all([
+                docsResponse.arrayBuffer(),
+                indexResponse.arrayBuffer()
+            ]);
+            
+            // Validate received data
+            if (!docsData || docsData.byteLength === 0) {
+                throw new Error('Received empty documents data');
+            }
+            
+            if (!indexData || indexData.byteLength === 0) {
+                throw new Error('Received empty index data');
+            }
+            
+            console.log(`Received data: docs=${docsData.byteLength} bytes, index=${indexData.byteLength} bytes`);
+            
+            // Try to decompress the data
+            let docsJson, indexJson;
+            
+            try {
+                // Decompress documents data
+                const docsText = this.decompressWithPako(docsData);
+                
+                // Parse JSON
+                try {
+                    docsJson = JSON.parse(docsText);
+                    console.log(`Successfully parsed documents JSON (${docsJson.length} documents)`);
+                } catch (parseError) {
+                    throw new Error(`Failed to parse documents JSON: ${parseError.message}`);
+                }
+                
+                // Decompress index data
+                const indexText = this.decompressWithPako(indexData);
+                
+                // Parse JSON
+                try {
+                    indexJson = JSON.parse(indexText);
+                    console.log('Successfully parsed index JSON');
+                } catch (parseError) {
+                    throw new Error(`Failed to parse index JSON: ${parseError.message}`);
+                }
+                
+                // Validate docs structure
+                if (!Array.isArray(docsJson) || docsJson.length === 0) {
+                    throw new Error('Invalid documents data format: expected non-empty array');
+                }
+                
+                // Initialize search
+                this.documents = docsJson;
+                this.idx = lunr.Index.load(indexJson);
+                
+                // Build clean title words set
+                this.allTitles = new Set();
+                this.documents.forEach(doc => {
+                    if (!doc.title) {
+                        console.warn('Document missing title:', doc);
+                        return;
+                    }
+                    
+                    const titleWords = doc.title
+                        .toLowerCase()
+                        .split(/[\s\-]+/)
+                        .filter(word => word.length > 0);
+                    
+                    titleWords.forEach(word => 
+                        this.allTitles.add(this.cleanWord(word))
+                    );
+                });
+                
+                console.log('Built title set with', this.allTitles.size, 'unique words');
+                
+                // Enable search UI
+                if (this.searchInput) {
+                    this.searchInput.disabled = false;
+                    this.searchInput.placeholder = 'Search...';
+                    this.searchInput.addEventListener('input', this.handleSearch.bind(this));
+                }
+                
+                if (this.searchStatus) {
+                    this.searchStatus.style.display = 'none';
+                }
+                
+                console.log('Search initialization complete');
+                
+            } catch (processingError) {
+                console.error('Failed to process search data:', processingError);
+                this.handleInitError(processingError.message);
+            }
+            
         } catch (error) {
-            console.error('Failed to initialize search:', error);
-            if (this.searchStatus) {
-                this.searchStatus.textContent = 'Failed to load search';
-            }
+            console.error('Search initialization failed:', error);
+            this.handleInitError(error.message);
         }
     }
 

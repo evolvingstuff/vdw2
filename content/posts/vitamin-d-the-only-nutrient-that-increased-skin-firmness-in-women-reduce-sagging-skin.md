@@ -1,0 +1,911 @@
+---
+title: "Vitamin D - the only nutrient that increased skin firmness in women (reduce sagging skin)"
+slug: "vitamin-d-the-only-nutrient-that-increased-skin-firmness-in-women-reduce-sagging-skin"
+aliases:
+  - "/Vitamin+D+-+the+only+nutrient+that+increased+skin+firmness+in+women+reduce+sagging+skin+-+Nov+2024"
+  - "/15693"
+tiki_page_id: 15693
+date: 2024-11-26
+---
+
+
+{{< toc >}}
+
+---
+
+#### Effect of intake of selected nutrients on skin firmness and elasticity in women
+
+Volume 11 - 2024 | https://doi.org/10.3389/fnut.2024.1483678
+
+Aleksandra PodgrskaAleksandra Podgórska1Aleksandra KicmanAleksandra Kicman1Sylwia NaliwajkoSylwia Naliwajko2Marta Wacewicz-Muczy, Marta Wacewicz-Muczyńska3*Marek NiczyporukMarek Niczyporuk1
+
+1Department of Aesthetic Medicine, Medical University of Bialystok, Białystok, Poland
+
+2Department of Bromatology, Medical University of Bialystok, Białystok, Poland
+
+3Department of Specialist Cosmetology, Medical University of Bialystok, Białystok, Poland
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/firmness.webp" alt="image" width="500">
+
+Introduction: The proper functioning of the skin is influenced by a proper diet. The purpose of this study was to determine the effect of selected nutrients on selected skin parameters.
+
+Methods: The study group included 59 women, who were divided into two age groups (under and over 40  years old). A three-day 24-h dietary interview was conducted among the study women and skin parameters were assessed using the Courage + Khazaka method.
+
+Results: The results showed LA, ALA, Dietary fiber, Na, K, Mg, Zn, Cu, Vitamin E, Thiamine, Riboflavin, Folates, Vitamins B6, B12 and C correlated with skin elasticity. On the other hand, skin elasticity is influenced exclusively by  **vitamin D acted on skin firmness.** 
+
+Conclusion: The results obtained indicate that a diet rich in appropriate nutrients has a positive effect on the proper maintenance of important skin parameters.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/skin-firmness-d-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Nutrition and youthful skin - Sept 2021
+
+Clinics in Dermatology Volume 39, Issue 5, September–October 2021, Pages 796-808 https://doi.org/10.1016/j.clindermatol.2021.05.007
+
+Sonal Muzumdar BS a, Katalin Ferenczi MD b
+
+Nutrition and dietary supplements have been used to promote a youthful appearance for millennia. Despite high public demand for these products, evidence supporting their efficacy is limited and often inconsistent. We discuss the structural and functional changes that occur in the skin during the aging process. We also review evidence supporting the use of nutritional supplements commonly used to promote a youthful appearance, including essential fatty acids, coenzyme Q, collagen peptides, curcumin, polyphenols, flavonoids, probiotics, silymarin, and vitamins A, C, D, and E. We also consider the role of advanced glycosylated end products, antiinflammatory diets, and caloric restriction in delaying premature skin aging. Although evidence supporting the use of some dietary interventions is promising, further long-term studies in humans are required to fully understand their effects on the promotion of a youthful appearance.
+
+ **Clipped from PDF** 
+
+Vitamin D is a fat-soluble vitamin that plays several important roles in the human body, including the regulation of calcium homeostasis and the maintenance of bone mineralization.7 It has a number of health benefits, including the prevention of cancer, promotion of cardiovascular health, and protection against autoimmune disease.7 Sources of vitamin D include sunlight and dietary intake.8 Skin is the major source of ultraviolet-B (UVB) mediated vitamin D synthesis. UVB radiation from the sun promotes the conversion of 7-dehydrocholesterol to cholecalciferol (vitamin D3) which is subsequently hydroxylated into 25-hydroxyvitamin D3 (calcidiol) and then into 1,25-dihydroxyvitamin D3 (calcitriol).8 Vitamin D may also be obtained through the diet. Natural sources that are rich in vitamin D include cod-liver oil, salmon, mackerel, egg yolks, and cheese.7 Foods, such as milk, orange juice, and cereal, are commonly fortified with vitamin D.7
+
+Vitamin D may play an important role in the maintenance of youthful-appearing skin. By maintaining the integrity of facial bones, vitamin D promotes the scaffolding and support underlying the skin. A deficiency in vitamin D may lead to demineralization of the gingival bones, especially in edentulous patients, leading to the formation of wrinkles around the mouth and inward turning of the lips.7 Patients with such clinical presentations should be evaluated for vitamin D deficiency.
+
+Vitamin D also plays an important role in the maintenance of healthy appearing hair. Vitamin D receptor expression is upregulated during the late anagen and catagen stages of the hair cycle.9 This promotes keratinocyte differentiation, which is important for progression through the hair cycle.9 Low serum vitamin D has been associated with an increased incidence of telogen effluvium and androgenetic alopecia in women.10 Patients presenting with these conditions should be screened for vitamin D deficiency and receive vitamin D supplementation if deficient.11
+
+Vitamin D may also play a role in wound healing via modulation of skin immunity and upregulation of cathelicidin in keratinocytes.12 Cathelicidin modulates skin inflammation and promotes angiogenesis within injured skin, and in early tissue repair, cathelicidin expression is upregulated.12 Vitamin D supplementation may expedite wound healing in patients. In one randomized controlled trial, 60 patients with grade 3 diabetic foot ulcers received either 50,000 international units (IU) of vitamin D or a placebo every 2 weeks for a total of 12 weeks.13 Those who received vitamin D demonstrated marked improvement in healing of the ulcer as compared with those receiving placebo.13 In another trial, 26 patients with leg ulcers were randomized to receive either 50,000 IU vitamin D or a placebo weekly for 2 months.14 At the end of 2 months, patients receiving vitamin D demonstrated greater healing of their leg ulcers.14 This effect approached, but did not reach, significance. The prevalence of vitamin D deficiency appears to be greater in patients with diabetic foot ulcers. A study compared 104 patients with diabetic foot ulcers to 99 healthy patients without diabetes and 103 patients with diabetes without foot ulcers and found that patients with diabetic foot ulcers were significantly more likely to be vitamin D deficient than controls.15
+
+Vitamin D has numerous beneficial effects, and it has also been associated with a reduced risk of overall cancer mortality by 16%;16 however, the relationship between vitamin D levels and skin cancer, in particular melanoma, is still controversial. Excessive long-term intake of vitamin D supplementation can also have adverse effects and lead to toxicity.  **Although vitamin D appears to be linked to youthful-appearing skin and hair** , certain levels of vitamin D in the serum may be associated with photoaging. One study found that patients who were deficient in vitamin D were less likely to have photodamage when compared with those who had normal levels of vitamin D.17 This may be because sunlight is a major source of vitamin D and also leads to photodamage. Limiting unprotected sun exposure is likely prudent given that excess sunlight may accelerate photoaging and increase the risk of skin cancer.18
+
+---
+
+#### Vitamin D3 and the Molecular Pathway of Skin Aging - Sept 2023
+
+Indonesian Journal of Pharmacy https://doi.org/10.22146/ijp.4929
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/d-skin-aging.webp" alt="image" width="800">
+
+Figure 2. An illustrative overview of the impact of vitamin D3 in association with the signs and causes of
+
+skin aging, such as inflammatory mediators (macrophage, T cell, TLR2, CD14, NF-κB), AGE products, DNA
+
+damage, skin viscosity, the antioxidant system, metallothionein, collagen, MMPs, TGF-β/Smad pathway,
+
+estrogen receptor (ER), skin barrier (cornified envelope, TG, involucrin) and photoprotective effect
+
+determinants (NO, SBC, CPD, and p53). (→: induce, ●: inhibit). Abbreviations: IL (interleukin), IFN-γ
+
+(interferon-γ), TNF-α (tumor necrosis factor), JNK (c-Jun N-terminal kinase), MMP (matrix
+
+metalloproteinase), NF-κB (nuclear factor-kappa B ), AGE products (advance glycation end products), NO
+
+(nitric oxide), CPD (cyclobutane pyrimidine dimers), SBC (sunburn cells), TLR2 (toll-like receptor 2), TGF-
+
+β (transforming growth factor- β), ER (estrogen receptor), VDR (vitamin D receptor), CaSR (calcium-sensing
+
+receptor), PLC (phospholipase C), DAG (diacylglycerol), IP3 (inositol trisphosphate), Cai (calcium
+
+intracellular), PKC (protein kinases), AP-1 (activator protein-1), CE (cornified envelope), TG
+
+(transglutaminase)
+
+- - - - - - 
+
+Many women pay attention to skin aging. Signs of aging such as lines, wrinkles, dry skin, hyperpigmentation, and loss of elasticity affect skin appearance and self-confidence. Age, lifestyle, and particularly UV irradiation stimulate reactive oxygen species (ROS) production. ROS induces the breakdown of collagen through matrix metalloproteinases (MMPs). Collagen and elastin play a pivotal role in skin aging. They maintain skin integrity, strength, and resiliency. Antioxidant and keratolytic agents are often used in anti-aging products, including several vitamins such as vitamin A, B, C and E. To date, several studies have been reported in the literature for the  **effects of vitamin D on collagen synthesis and MMPs inhibition** . This review focuses on identifying and assessing the molecular pathways of vitamin D effects related to skin aging. 
+
+The literature was collected from Google Scholar, Elsevier, Science Direct, PubMed, and Scopus databases and accessed between January 2019 and May 2022. The literature screening was conducted using keywords like “vitamin D3”, “collagen”, “matrix metalloproteinases”, “skin aging” and related to the study topic were included. The effect of vitamin D3 on MMPs inhibition (particularly on MMP-1, MMP-3, and MMP-9) has been widely published. Several studies have reported that vitamin D increases collagen synthesis and clinically improves skin elasticity. However, there have been controversial results regarding how vitamin D3 affects transforming growth factor-β (TGF-β) correlated with skin elasticity by the molecular pathway. Therefore, it can be concluded that vitamin D3 is a potential alternative agent in improving skin aging.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/molecular-pathway-of-skin-aging.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Does increasing Vitamin D decrease sagging skin?
+
+Asked [Perplexity AI Nov 2024](https://www.perplexity.ai/search/how-does-skin-firmness-relate-p4ERNDLhTjWu0Jndc7BcJg)
+
+Vitamin D plays a significant role in maintaining skin firmness and reducing sagging through multiple mechanisms.
+
+ **Collagen Production and Protection** 
+
+Vitamin D supports skin firmness by:
+
+* Increasing collagen synthesis and improving skin elasticity&nbsp;[1](https://journal.ugm.ac.id/v3/IJP/article/view/4929)
+
+* Decreasing collagenase, an enzyme that degrades collagen&nbsp;[6](https://www.mdpi.com/2079-9284/11/2/37)
+
+* Protecting existing collagen from breakdown through antioxidant effects&nbsp;[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/)
+
+ **Protective Mechanisms** 
+
+ **UV Protection** 
+
+Vitamin D helps prevent skin sagging by protecting against UV damage through:
+
+* Repairing DNA damage
+
+* Reducing oxidative stress
+
+* Decreasing chronic inflammation&nbsp;[5](https://www.explorationpub.com/Journals/em/Article/1001225)
+
+ **Skin Barrier Function** 
+
+The vitamin strengthens the skin's natural defenses by:
+
+* Supporting skin barrier repair
+
+* Reducing inflammatory mediators
+
+* Enhancing the skin's resilience against environmental factors&nbsp; [4](https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/)
+
+ **Clinical Benefits** 
+
+Research demonstrates that maintaining adequate vitamin D levels can:
+
+* Slow down the appearance of fine lines and wrinkles
+
+* Contribute to firmer, more youthful-looking skin
+
+* Support overall skin health and structure&nbsp;[4](https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/)
+
+However, vitamin D production naturally decreases with age, with levels declining approximately 50% between ages 20 and 80 &nbsp;[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/)
+
+This reduction can contribute to decreased skin firmness and increased sagging, making vitamin D supplementation or careful sun exposure potentially beneficial for maintaining skin firmness.
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### Effect of intake of selected nutrients on skin firmness and elasticity in women
+
+Volume 11 - 2024 | https://doi.org/10.3389/fnut.2024.1483678
+
+Aleksandra PodgrskaAleksandra Podgórska1Aleksandra KicmanAleksandra Kicman1Sylwia NaliwajkoSylwia Naliwajko2Marta Wacewicz-Muczy, Marta Wacewicz-Muczyńska3*Marek NiczyporukMarek Niczyporuk1
+
+1Department of Aesthetic Medicine, Medical University of Bialystok, Białystok, Poland
+
+2Department of Bromatology, Medical University of Bialystok, Białystok, Poland
+
+3Department of Specialist Cosmetology, Medical University of Bialystok, Białystok, Poland
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/firmness.webp&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+Introduction: The proper functioning of the skin is influenced by a proper diet. The purpose of this study was to determine the effect of selected nutrients on selected skin parameters.
+
+Methods: The study group included 59 women, who were divided into two age groups (under and over 40  years old). A three-day 24-h dietary interview was conducted among the study women and skin parameters were assessed using the Courage + Khazaka method.
+
+Results: The results showed LA, ALA, Dietary fiber, Na, K, Mg, Zn, Cu, Vitamin E, Thiamine, Riboflavin, Folates, Vitamins B6, B12 and C correlated with skin elasticity. On the other hand, skin elasticity is influenced exclusively by  **vitamin D acted on skin firmness.** 
+
+Conclusion: The results obtained indicate that a diet rich in appropriate nutrients has a positive effect on the proper maintenance of important skin parameters.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/skin-firmness-d-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Nutrition and youthful skin - Sept 2021
+
+Clinics in Dermatology Volume 39, Issue 5, September–October 2021, Pages 796-808 https://doi.org/10.1016/j.clindermatol.2021.05.007
+
+Sonal Muzumdar BS a, Katalin Ferenczi MD b
+
+Nutrition and dietary supplements have been used to promote a youthful appearance for millennia. Despite high public demand for these products, evidence supporting their efficacy is limited and often inconsistent. We discuss the structural and functional changes that occur in the skin during the aging process. We also review evidence supporting the use of nutritional supplements commonly used to promote a youthful appearance, including essential fatty acids, coenzyme Q, collagen peptides, curcumin, polyphenols, flavonoids, probiotics, silymarin, and vitamins A, C, D, and E. We also consider the role of advanced glycosylated end products, antiinflammatory diets, and caloric restriction in delaying premature skin aging. Although evidence supporting the use of some dietary interventions is promising, further long-term studies in humans are required to fully understand their effects on the promotion of a youthful appearance.
+
+ **Clipped from PDF** 
+
+Vitamin D is a fat-soluble vitamin that plays several important roles in the human body, including the regulation of calcium homeostasis and the maintenance of bone mineralization.7 It has a number of health benefits, including the prevention of cancer, promotion of cardiovascular health, and protection against autoimmune disease.7 Sources of vitamin D include sunlight and dietary intake.8 Skin is the major source of ultraviolet-B (UVB) mediated vitamin D synthesis. UVB radiation from the sun promotes the conversion of 7-dehydrocholesterol to cholecalciferol (vitamin D3) which is subsequently hydroxylated into 25-hydroxyvitamin D3 (calcidiol) and then into 1,25-dihydroxyvitamin D3 (calcitriol).8 Vitamin D may also be obtained through the diet. Natural sources that are rich in vitamin D include cod-liver oil, salmon, mackerel, egg yolks, and cheese.7 Foods, such as milk, orange juice, and cereal, are commonly fortified with vitamin D.7
+
+Vitamin D may play an important role in the maintenance of youthful-appearing skin. By maintaining the integrity of facial bones, vitamin D promotes the scaffolding and support underlying the skin. A deficiency in vitamin D may lead to demineralization of the gingival bones, especially in edentulous patients, leading to the formation of wrinkles around the mouth and inward turning of the lips.7 Patients with such clinical presentations should be evaluated for vitamin D deficiency.
+
+Vitamin D also plays an important role in the maintenance of healthy appearing hair. Vitamin D receptor expression is upregulated during the late anagen and catagen stages of the hair cycle.9 This promotes keratinocyte differentiation, which is important for progression through the hair cycle.9 Low serum vitamin D has been associated with an increased incidence of telogen effluvium and androgenetic alopecia in women.10 Patients presenting with these conditions should be screened for vitamin D deficiency and receive vitamin D supplementation if deficient.11
+
+Vitamin D may also play a role in wound healing via modulation of skin immunity and upregulation of cathelicidin in keratinocytes.12 Cathelicidin modulates skin inflammation and promotes angiogenesis within injured skin, and in early tissue repair, cathelicidin expression is upregulated.12 Vitamin D supplementation may expedite wound healing in patients. In one randomized controlled trial, 60 patients with grade 3 diabetic foot ulcers received either 50,000 international units (IU) of vitamin D or a placebo every 2 weeks for a total of 12 weeks.13 Those who received vitamin D demonstrated marked improvement in healing of the ulcer as compared with those receiving placebo.13 In another trial, 26 patients with leg ulcers were randomized to receive either 50,000 IU vitamin D or a placebo weekly for 2 months.14 At the end of 2 months, patients receiving vitamin D demonstrated greater healing of their leg ulcers.14 This effect approached, but did not reach, significance. The prevalence of vitamin D deficiency appears to be greater in patients with diabetic foot ulcers. A study compared 104 patients with diabetic foot ulcers to 99 healthy patients without diabetes and 103 patients with diabetes without foot ulcers and found that patients with diabetic foot ulcers were significantly more likely to be vitamin D deficient than controls.15
+
+Vitamin D has numerous beneficial effects, and it has also been associated with a reduced risk of overall cancer mortality by 16%;16 however, the relationship between vitamin D levels and skin cancer, in particular melanoma, is still controversial. Excessive long-term intake of vitamin D supplementation can also have adverse effects and lead to toxicity.  **Although vitamin D appears to be linked to youthful-appearing skin and hair** , certain levels of vitamin D in the serum may be associated with photoaging. One study found that patients who were deficient in vitamin D were less likely to have photodamage when compared with those who had normal levels of vitamin D.17 This may be because sunlight is a major source of vitamin D and also leads to photodamage. Limiting unprotected sun exposure is likely prudent given that excess sunlight may accelerate photoaging and increase the risk of skin cancer.18
+
+---
+
+#### Vitamin D3 and the Molecular Pathway of Skin Aging - Sept 2023
+
+Indonesian Journal of Pharmacy https://doi.org/10.22146/ijp.4929
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/d-skin-aging.webp&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
+
+Figure 2. An illustrative overview of the impact of vitamin D3 in association with the signs and causes of
+
+skin aging, such as inflammatory mediators (macrophage, T cell, TLR2, CD14, NF-κB), AGE products, DNA
+
+damage, skin viscosity, the antioxidant system, metallothionein, collagen, MMPs, TGF-β/Smad pathway,
+
+estrogen receptor (ER), skin barrier (cornified envelope, TG, involucrin) and photoprotective effect
+
+determinants (NO, SBC, CPD, and p53). (→: induce, ●: inhibit). Abbreviations: IL (interleukin), IFN-γ
+
+(interferon-γ), TNF-α (tumor necrosis factor), JNK (c-Jun N-terminal kinase), MMP (matrix
+
+metalloproteinase), NF-κB (nuclear factor-kappa B ), AGE products (advance glycation end products), NO
+
+(nitric oxide), CPD (cyclobutane pyrimidine dimers), SBC (sunburn cells), TLR2 (toll-like receptor 2), TGF-
+
+β (transforming growth factor- β), ER (estrogen receptor), VDR (vitamin D receptor), CaSR (calcium-sensing
+
+receptor), PLC (phospholipase C), DAG (diacylglycerol), IP3 (inositol trisphosphate), Cai (calcium
+
+intracellular), PKC (protein kinases), AP-1 (activator protein-1), CE (cornified envelope), TG
+
+(transglutaminase)
+
+- - - - - - 
+
+Many women pay attention to skin aging. Signs of aging such as lines, wrinkles, dry skin, hyperpigmentation, and loss of elasticity affect skin appearance and self-confidence. Age, lifestyle, and particularly UV irradiation stimulate reactive oxygen species (ROS) production. ROS induces the breakdown of collagen through matrix metalloproteinases (MMPs). Collagen and elastin play a pivotal role in skin aging. They maintain skin integrity, strength, and resiliency. Antioxidant and keratolytic agents are often used in anti-aging products, including several vitamins such as vitamin A, B, C and E. To date, several studies have been reported in the literature for the  **effects of vitamin D on collagen synthesis and MMPs inhibition** . This review focuses on identifying and assessing the molecular pathways of vitamin D effects related to skin aging. 
+
+The literature was collected from Google Scholar, Elsevier, Science Direct, PubMed, and Scopus databases and accessed between January 2019 and May 2022. The literature screening was conducted using keywords like “vitamin D3”, “collagen”, “matrix metalloproteinases”, “skin aging” and related to the study topic were included. The effect of vitamin D3 on MMPs inhibition (particularly on MMP-1, MMP-3, and MMP-9) has been widely published. Several studies have reported that vitamin D increases collagen synthesis and clinically improves skin elasticity. However, there have been controversial results regarding how vitamin D3 affects transforming growth factor-β (TGF-β) correlated with skin elasticity by the molecular pathway. Therefore, it can be concluded that vitamin D3 is a potential alternative agent in improving skin aging.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/molecular-pathway-of-skin-aging.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+#### Does increasing Vitamin D decrease sagging skin?
+
+Asked [Perplexity AI Nov 2024](https://www.perplexity.ai/search/how-does-skin-firmness-relate-p4ERNDLhTjWu0Jndc7BcJg)
+
+Vitamin D plays a significant role in maintaining skin firmness and reducing sagging through multiple mechanisms.
+
+ **Collagen Production and Protection** 
+
+Vitamin D supports skin firmness by:
+
+* Increasing collagen synthesis and improving skin elasticity&amp;nbsp;[1](https://journal.ugm.ac.id/v3/IJP/article/view/4929)
+
+* Decreasing collagenase, an enzyme that degrades collagen&amp;nbsp;[6](https://www.mdpi.com/2079-9284/11/2/37)
+
+* Protecting existing collagen from breakdown through antioxidant effects&amp;nbsp;[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/)
+
+ **Protective Mechanisms** 
+
+ **UV Protection** 
+
+Vitamin D helps prevent skin sagging by protecting against UV damage through:
+
+* Repairing DNA damage
+
+* Reducing oxidative stress
+
+* Decreasing chronic inflammation&amp;nbsp;[5](https://www.explorationpub.com/Journals/em/Article/1001225)
+
+ **Skin Barrier Function** 
+
+The vitamin strengthens the skin&#39;s natural defenses by:
+
+* Supporting skin barrier repair
+
+* Reducing inflammatory mediators
+
+* Enhancing the skin&#39;s resilience against environmental factors&amp;nbsp; [4](https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/)
+
+ **Clinical Benefits** 
+
+Research demonstrates that maintaining adequate vitamin D levels can:
+
+* Slow down the appearance of fine lines and wrinkles
+
+* Contribute to firmer, more youthful-looking skin
+
+* Support overall skin health and structure&amp;nbsp;[4](https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/)
+
+However, vitamin D production naturally decreases with age, with levels declining approximately 50% between ages 20 and 80 &amp;nbsp;[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/)
+
+This reduction can contribute to decreased skin firmness and increased sagging, making vitamin D supplementation or careful sun exposure potentially beneficial for maintaining skin firmness.
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV( class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: ( class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Effect of intake of selected nutrients on skin firmness and elasticity in women`
+│   inner_content: `Effect of intake of selected nutrients on skin firmness and elasticity in women`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Effect of intake of selected nutrients on skin firmness and elasticity in women`
+│   │   inner_content: `Effect of intake of selected nutrients on skin firmness and elasticity in women`├── TextNode
+│   full_match: `\nVolume 11 - 2024 | https://doi.org/10.3389/fnut.2024.1483678\nAleksandra PodgrskaAleksandra Podgórska1Aleksandra KicmanAleksandra Kicman1Sylwia NaliwajkoSylwia Naliwajko2Marta Wacewicz-Muczy, Marta Wacewicz-Muczyńska3*Marek NiczyporukMarek Niczyporuk1\n1Department of Aesthetic Medicine, Medical University of Bialystok, Białystok, Poland\n2Department of Bromatology, Medical University of Bialystok, Białystok, Poland\n3Department of Specialist Cosmetology, Medical University of Bialystok, Białystok, Poland\n\n`
+│   inner_content: `\nVolume 11 - 2024 | https://doi.org/10.3389/fnut.2024.1483678\nAleksandra PodgrskaAleksandra Podgórska1Aleksandra KicmanAleksandra Kicman1Sylwia NaliwajkoSylwia Naliwajko2Marta Wacewicz-Muczy, Marta Wacewicz-Muczyńska3*Marek NiczyporukMarek Niczyporuk1\n1Department of Aesthetic Medicine, Medical University of Bialystok, Białystok, Poland\n2Department of Bromatology, Medical University of Bialystok, Białystok, Poland\n3Department of Specialist Cosmetology, Medical University of Bialystok, Białystok, Poland\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22033&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22033&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 22033
+│   │   width: 500├── TextNode
+│   full_match: `\nIntroduction: The proper functioning of the skin is influenced by a proper diet. The purpose of this study was to determine the effect of selected nutrients on selected skin parameters.\n\nMethods: The study group included 59 women, who were divided into two age groups (under and over 40  years old). A three-day 24-h dietary interview was conducted among the study women and skin parameters were assessed using the Courage + Khazaka method.\n\nResults: The results showed LA, ALA, Dietary fiber, Na, K, Mg, Zn, Cu, Vitamin E, Thiamine, Riboflavin, Folates, Vitamins B6, B12 and C correlated with skin elasticity. On the other hand, skin elasticity is influenced exclusively by `
+│   inner_content: `\nIntroduction: The proper functioning of the skin is influenced by a proper diet. The purpose of this study was to determine the effect of selected nutrients on selected skin parameters.\n\nMethods: The study group included 59 women, who were divided into two age groups (under and over 40  years old). A three-day 24-h dietary interview was conducted among the study women and skin parameters were assessed using the Courage + Khazaka method.\n\nResults: The results showed LA, ALA, Dietary fiber, Na, K, Mg, Zn, Cu, Vitamin E, Thiamine, Riboflavin, Folates, Vitamins B6, B12 and C correlated with skin elasticity. On the other hand, skin elasticity is influenced exclusively by `├── BoldNode
+│   full_match: `__vitamin D acted on skin firmness.__`
+│   inner_content: `vitamin D acted on skin firmness.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `vitamin D acted on skin firmness.`
+│   │   inner_content: `vitamin D acted on skin firmness.`├── TextNode
+│   full_match: `\n\nConclusion: The results obtained indicate that a diet rich in appropriate nutrients has a positive effect on the proper maintenance of important skin parameters.\n`
+│   inner_content: `\n\nConclusion: The results obtained indicate that a diet rich in appropriate nutrients has a positive effect on the proper maintenance of important skin parameters.\n`├── FontNode
+│   full_match: `{FONT( size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22032&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22032&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content:  size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22032&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22032&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22032&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22032&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22032
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Nutrition and youthful skin - Sept 2021`
+│   inner_content: `Nutrition and youthful skin - Sept 2021`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Nutrition and youthful skin - Sept 2021`
+│   │   inner_content: `Nutrition and youthful skin - Sept 2021`├── TextNode
+│   full_match: `\nClinics in Dermatology Volume 39, Issue 5, September–October 2021, Pages 796-808 https://doi.org/10.1016/j.clindermatol.2021.05.007\nSonal Muzumdar BS a, Katalin Ferenczi MD b\n\nNutrition and dietary supplements have been used to promote a youthful appearance for millennia. Despite high public demand for these products, evidence supporting their efficacy is limited and often inconsistent. We discuss the structural and functional changes that occur in the skin during the aging process. We also review evidence supporting the use of nutritional supplements commonly used to promote a youthful appearance, including essential fatty acids, coenzyme Q, collagen peptides, curcumin, polyphenols, flavonoids, probiotics, silymarin, and vitamins A, C, D, and E. We also consider the role of advanced glycosylated end products, antiinflammatory diets, and caloric restriction in delaying premature skin aging. Although evidence supporting the use of some dietary interventions is promising, further long-term studies in humans are required to fully understand their effects on the promotion of a youthful appearance.\n`
+│   inner_content: `\nClinics in Dermatology Volume 39, Issue 5, September–October 2021, Pages 796-808 https://doi.org/10.1016/j.clindermatol.2021.05.007\nSonal Muzumdar BS a, Katalin Ferenczi MD b\n\nNutrition and dietary supplements have been used to promote a youthful appearance for millennia. Despite high public demand for these products, evidence supporting their efficacy is limited and often inconsistent. We discuss the structural and functional changes that occur in the skin during the aging process. We also review evidence supporting the use of nutritional supplements commonly used to promote a youthful appearance, including essential fatty acids, coenzyme Q, collagen peptides, curcumin, polyphenols, flavonoids, probiotics, silymarin, and vitamins A, C, D, and E. We also consider the role of advanced glycosylated end products, antiinflammatory diets, and caloric restriction in delaying premature skin aging. Although evidence supporting the use of some dietary interventions is promising, further long-term studies in humans are required to fully understand their effects on the promotion of a youthful appearance.\n`├── BoldNode
+│   full_match: `__Clipped from PDF__`
+│   inner_content: `Clipped from PDF`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Clipped from PDF`
+│   │   inner_content: `Clipped from PDF`├── TextNode
+│   full_match: `\nVitamin D is a fat-soluble vitamin that plays several important roles in the human body, including the regulation of calcium homeostasis and the maintenance of bone mineralization.7 It has a number of health benefits, including the prevention of cancer, promotion of cardiovascular health, and protection against autoimmune disease.7 Sources of vitamin D include sunlight and dietary intake.8 Skin is the major source of ultraviolet-B (UVB) mediated vitamin D synthesis. UVB radiation from the sun promotes the conversion of 7-dehydrocholesterol to cholecalciferol (vitamin D3) which is subsequently hydroxylated into 25-hydroxyvitamin D3 (calcidiol) and then into 1,25-dihydroxyvitamin D3 (calcitriol).8 Vitamin D may also be obtained through the diet. Natural sources that are rich in vitamin D include cod-liver oil, salmon, mackerel, egg yolks, and cheese.7 Foods, such as milk, orange juice, and cereal, are commonly fortified with vitamin D.7\n\nVitamin D may play an important role in the maintenance of youthful-appearing skin. By maintaining the integrity of facial bones, vitamin D promotes the scaffolding and support underlying the skin. A deficiency in vitamin D may lead to demineralization of the gingival bones, especially in edentulous patients, leading to the formation of wrinkles around the mouth and inward turning of the lips.7 Patients with such clinical presentations should be evaluated for vitamin D deficiency.\n\nVitamin D also plays an important role in the maintenance of healthy appearing hair. Vitamin D receptor expression is upregulated during the late anagen and catagen stages of the hair cycle.9 This promotes keratinocyte differentiation, which is important for progression through the hair cycle.9 Low serum vitamin D has been associated with an increased incidence of telogen effluvium and androgenetic alopecia in women.10 Patients presenting with these conditions should be screened for vitamin D deficiency and receive vitamin D supplementation if deficient.11\n\nVitamin D may also play a role in wound healing via modulation of skin immunity and upregulation of cathelicidin in keratinocytes.12 Cathelicidin modulates skin inflammation and promotes angiogenesis within injured skin, and in early tissue repair, cathelicidin expression is upregulated.12 Vitamin D supplementation may expedite wound healing in patients. In one randomized controlled trial, 60 patients with grade 3 diabetic foot ulcers received either 50,000 international units (IU) of vitamin D or a placebo every 2 weeks for a total of 12 weeks.13 Those who received vitamin D demonstrated marked improvement in healing of the ulcer as compared with those receiving placebo.13 In another trial, 26 patients with leg ulcers were randomized to receive either 50,000 IU vitamin D or a placebo weekly for 2 months.14 At the end of 2 months, patients receiving vitamin D demonstrated greater healing of their leg ulcers.14 This effect approached, but did not reach, significance. The prevalence of vitamin D deficiency appears to be greater in patients with diabetic foot ulcers. A study compared 104 patients with diabetic foot ulcers to 99 healthy patients without diabetes and 103 patients with diabetes without foot ulcers and found that patients with diabetic foot ulcers were significantly more likely to be vitamin D deficient than controls.15\n\nVitamin D has numerous beneficial effects, and it has also been associated with a reduced risk of overall cancer mortality by 16%;16 however, the relationship between vitamin D levels and skin cancer, in particular melanoma, is still controversial. Excessive long-term intake of vitamin D supplementation can also have adverse effects and lead to toxicity. `
+│   inner_content: `\nVitamin D is a fat-soluble vitamin that plays several important roles in the human body, including the regulation of calcium homeostasis and the maintenance of bone mineralization.7 It has a number of health benefits, including the prevention of cancer, promotion of cardiovascular health, and protection against autoimmune disease.7 Sources of vitamin D include sunlight and dietary intake.8 Skin is the major source of ultraviolet-B (UVB) mediated vitamin D synthesis. UVB radiation from the sun promotes the conversion of 7-dehydrocholesterol to cholecalciferol (vitamin D3) which is subsequently hydroxylated into 25-hydroxyvitamin D3 (calcidiol) and then into 1,25-dihydroxyvitamin D3 (calcitriol).8 Vitamin D may also be obtained through the diet. Natural sources that are rich in vitamin D include cod-liver oil, salmon, mackerel, egg yolks, and cheese.7 Foods, such as milk, orange juice, and cereal, are commonly fortified with vitamin D.7\n\nVitamin D may play an important role in the maintenance of youthful-appearing skin. By maintaining the integrity of facial bones, vitamin D promotes the scaffolding and support underlying the skin. A deficiency in vitamin D may lead to demineralization of the gingival bones, especially in edentulous patients, leading to the formation of wrinkles around the mouth and inward turning of the lips.7 Patients with such clinical presentations should be evaluated for vitamin D deficiency.\n\nVitamin D also plays an important role in the maintenance of healthy appearing hair. Vitamin D receptor expression is upregulated during the late anagen and catagen stages of the hair cycle.9 This promotes keratinocyte differentiation, which is important for progression through the hair cycle.9 Low serum vitamin D has been associated with an increased incidence of telogen effluvium and androgenetic alopecia in women.10 Patients presenting with these conditions should be screened for vitamin D deficiency and receive vitamin D supplementation if deficient.11\n\nVitamin D may also play a role in wound healing via modulation of skin immunity and upregulation of cathelicidin in keratinocytes.12 Cathelicidin modulates skin inflammation and promotes angiogenesis within injured skin, and in early tissue repair, cathelicidin expression is upregulated.12 Vitamin D supplementation may expedite wound healing in patients. In one randomized controlled trial, 60 patients with grade 3 diabetic foot ulcers received either 50,000 international units (IU) of vitamin D or a placebo every 2 weeks for a total of 12 weeks.13 Those who received vitamin D demonstrated marked improvement in healing of the ulcer as compared with those receiving placebo.13 In another trial, 26 patients with leg ulcers were randomized to receive either 50,000 IU vitamin D or a placebo weekly for 2 months.14 At the end of 2 months, patients receiving vitamin D demonstrated greater healing of their leg ulcers.14 This effect approached, but did not reach, significance. The prevalence of vitamin D deficiency appears to be greater in patients with diabetic foot ulcers. A study compared 104 patients with diabetic foot ulcers to 99 healthy patients without diabetes and 103 patients with diabetes without foot ulcers and found that patients with diabetic foot ulcers were significantly more likely to be vitamin D deficient than controls.15\n\nVitamin D has numerous beneficial effects, and it has also been associated with a reduced risk of overall cancer mortality by 16%;16 however, the relationship between vitamin D levels and skin cancer, in particular melanoma, is still controversial. Excessive long-term intake of vitamin D supplementation can also have adverse effects and lead to toxicity. `├── BoldNode
+│   full_match: `__Although vitamin D appears to be linked to youthful-appearing skin and hair__`
+│   inner_content: `Although vitamin D appears to be linked to youthful-appearing skin and hair`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Although vitamin D appears to be linked to youthful-appearing skin and hair`
+│   │   inner_content: `Although vitamin D appears to be linked to youthful-appearing skin and hair`├── TextNode
+│   full_match: `, certain levels of vitamin D in the serum may be associated with photoaging. One study found that patients who were deficient in vitamin D were less likely to have photodamage when compared with those who had normal levels of vitamin D.17 This may be because sunlight is a major source of vitamin D and also leads to photodamage. Limiting unprotected sun exposure is likely prudent given that excess sunlight may accelerate photoaging and increase the risk of skin cancer.18`
+│   inner_content: `, certain levels of vitamin D in the serum may be associated with photoaging. One study found that patients who were deficient in vitamin D were less likely to have photodamage when compared with those who had normal levels of vitamin D.17 This may be because sunlight is a major source of vitamin D and also leads to photodamage. Limiting unprotected sun exposure is likely prudent given that excess sunlight may accelerate photoaging and increase the risk of skin cancer.18`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D3 and the Molecular Pathway of Skin Aging - Sept 2023`
+│   inner_content: `Vitamin D3 and the Molecular Pathway of Skin Aging - Sept 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D3 and the Molecular Pathway of Skin Aging - Sept 2023`
+│   │   inner_content: `Vitamin D3 and the Molecular Pathway of Skin Aging - Sept 2023`├── TextNode
+│   full_match: `\nIndonesian Journal of Pharmacy https://doi.org/10.22146/ijp.4929\n\n\n`
+│   inner_content: `\nIndonesian Journal of Pharmacy https://doi.org/10.22146/ijp.4929\n\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22035&quot; width=&quot;800&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22035&quot; width=&quot;800&quot;
+│   │   type: attId
+│   │   attId: 22035
+│   │   width: 800├── TextNode
+│   full_match: `\nFigure 2. An illustrative overview of the impact of vitamin D3 in association with the signs and causes of\nskin aging, such as inflammatory mediators (macrophage, T cell, TLR2, CD14, NF-κB), AGE products, DNA\ndamage, skin viscosity, the antioxidant system, metallothionein, collagen, MMPs, TGF-β/Smad pathway,\nestrogen receptor (ER), skin barrier (cornified envelope, TG, involucrin) and photoprotective effect\ndeterminants (NO, SBC, CPD, and p53). (→: induce, ●: inhibit). Abbreviations: IL (interleukin), IFN-γ\n(interferon-γ), TNF-α (tumor necrosis factor), JNK (c-Jun N-terminal kinase), MMP (matrix\nmetalloproteinase), NF-κB (nuclear factor-kappa B ), AGE products (advance glycation end products), NO\n(nitric oxide), CPD (cyclobutane pyrimidine dimers), SBC (sunburn cells), TLR2 (toll-like receptor 2), TGF-\nβ (transforming growth factor- β), ER (estrogen receptor), VDR (vitamin D receptor), CaSR (calcium-sensing\nreceptor), PLC (phospholipase C), DAG (diacylglycerol), IP3 (inositol trisphosphate), Cai (calcium\nintracellular), PKC (protein kinases), AP-1 (activator protein-1), CE (cornified envelope), TG\n(transglutaminase)\n- - - - - - \nMany women pay attention to skin aging. Signs of aging such as lines, wrinkles, dry skin, hyperpigmentation, and loss of elasticity affect skin appearance and self-confidence. Age, lifestyle, and particularly UV irradiation stimulate reactive oxygen species (ROS) production. ROS induces the breakdown of collagen through matrix metalloproteinases (MMPs). Collagen and elastin play a pivotal role in skin aging. They maintain skin integrity, strength, and resiliency. Antioxidant and keratolytic agents are often used in anti-aging products, including several vitamins such as vitamin A, B, C and E. To date, several studies have been reported in the literature for the `
+│   inner_content: `\nFigure 2. An illustrative overview of the impact of vitamin D3 in association with the signs and causes of\nskin aging, such as inflammatory mediators (macrophage, T cell, TLR2, CD14, NF-κB), AGE products, DNA\ndamage, skin viscosity, the antioxidant system, metallothionein, collagen, MMPs, TGF-β/Smad pathway,\nestrogen receptor (ER), skin barrier (cornified envelope, TG, involucrin) and photoprotective effect\ndeterminants (NO, SBC, CPD, and p53). (→: induce, ●: inhibit). Abbreviations: IL (interleukin), IFN-γ\n(interferon-γ), TNF-α (tumor necrosis factor), JNK (c-Jun N-terminal kinase), MMP (matrix\nmetalloproteinase), NF-κB (nuclear factor-kappa B ), AGE products (advance glycation end products), NO\n(nitric oxide), CPD (cyclobutane pyrimidine dimers), SBC (sunburn cells), TLR2 (toll-like receptor 2), TGF-\nβ (transforming growth factor- β), ER (estrogen receptor), VDR (vitamin D receptor), CaSR (calcium-sensing\nreceptor), PLC (phospholipase C), DAG (diacylglycerol), IP3 (inositol trisphosphate), Cai (calcium\nintracellular), PKC (protein kinases), AP-1 (activator protein-1), CE (cornified envelope), TG\n(transglutaminase)\n- - - - - - \nMany women pay attention to skin aging. Signs of aging such as lines, wrinkles, dry skin, hyperpigmentation, and loss of elasticity affect skin appearance and self-confidence. Age, lifestyle, and particularly UV irradiation stimulate reactive oxygen species (ROS) production. ROS induces the breakdown of collagen through matrix metalloproteinases (MMPs). Collagen and elastin play a pivotal role in skin aging. They maintain skin integrity, strength, and resiliency. Antioxidant and keratolytic agents are often used in anti-aging products, including several vitamins such as vitamin A, B, C and E. To date, several studies have been reported in the literature for the `├── BoldNode
+│   full_match: `__effects of vitamin D on collagen synthesis and MMPs inhibition__`
+│   inner_content: `effects of vitamin D on collagen synthesis and MMPs inhibition`
+│   children:
+│   ├── TextNode
+│   │   full_match: `effects of vitamin D on collagen synthesis and MMPs inhibition`
+│   │   inner_content: `effects of vitamin D on collagen synthesis and MMPs inhibition`├── TextNode
+│   full_match: `. This review focuses on identifying and assessing the molecular pathways of vitamin D effects related to skin aging. \nThe literature was collected from Google Scholar, Elsevier, Science Direct, PubMed, and Scopus databases and accessed between January 2019 and May 2022. The literature screening was conducted using keywords like “vitamin D3”, “collagen”, “matrix metalloproteinases”, “skin aging” and related to the study topic were included. The effect of vitamin D3 on MMPs inhibition (particularly on MMP-1, MMP-3, and MMP-9) has been widely published. Several studies have reported that vitamin D increases collagen synthesis and clinically improves skin elasticity. However, there have been controversial results regarding how vitamin D3 affects transforming growth factor-β (TGF-β) correlated with skin elasticity by the molecular pathway. Therefore, it can be concluded that vitamin D3 is a potential alternative agent in improving skin aging.\n`
+│   inner_content: `. This review focuses on identifying and assessing the molecular pathways of vitamin D effects related to skin aging. \nThe literature was collected from Google Scholar, Elsevier, Science Direct, PubMed, and Scopus databases and accessed between January 2019 and May 2022. The literature screening was conducted using keywords like “vitamin D3”, “collagen”, “matrix metalloproteinases”, “skin aging” and related to the study topic were included. The effect of vitamin D3 on MMPs inhibition (particularly on MMP-1, MMP-3, and MMP-9) has been widely published. Several studies have reported that vitamin D increases collagen synthesis and clinically improves skin elasticity. However, there have been controversial results regarding how vitamin D3 affects transforming growth factor-β (TGF-β) correlated with skin elasticity by the molecular pathway. Therefore, it can be concluded that vitamin D3 is a potential alternative agent in improving skin aging.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22034&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22034&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22034&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22034&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22034&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22034&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22034
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Does increasing Vitamin D decrease sagging skin?`
+│   inner_content: `Does increasing Vitamin D decrease sagging skin?`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Does increasing Vitamin D decrease sagging skin?`
+│   │   inner_content: `Does increasing Vitamin D decrease sagging skin?`├── TextNode
+│   full_match: `\nAsked `
+│   inner_content: `\nAsked `├── LinkNode
+│   full_match: `[https://www.perplexity.ai/search/how-does-skin-firmness-relate-p4ERNDLhTjWu0Jndc7BcJg|Perplexity AI Nov 2024]`
+│   inner_content: `Perplexity AI Nov 2024`
+│   url: `https://www.perplexity.ai/search/how-does-skin-firmness-relate-p4ERNDLhTjWu0Jndc7BcJg`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Perplexity AI Nov 2024`
+│   │   inner_content: `Perplexity AI Nov 2024`├── TextNode
+│   full_match: `\nVitamin D plays a significant role in maintaining skin firmness and reducing sagging through multiple mechanisms.\n`
+│   inner_content: `\nVitamin D plays a significant role in maintaining skin firmness and reducing sagging through multiple mechanisms.\n`├── BoldNode
+│   full_match: `__Collagen Production and Protection__`
+│   inner_content: `Collagen Production and Protection`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Collagen Production and Protection`
+│   │   inner_content: `Collagen Production and Protection`├── TextNode
+│   full_match: `\nVitamin D supports skin firmness by:\n`
+│   inner_content: `\nVitamin D supports skin firmness by:\n`├── ListItemNode
+│   full_match: `*Increasing collagen synthesis and improving skin elasticity~hs~[https://journal.ugm.ac.id/v3/IJP/article/view/4929|1]`
+│   inner_content: `Increasing collagen synthesis and improving skin elasticity~hs~[https://journal.ugm.ac.id/v3/IJP/article/view/4929|1]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Increasing collagen synthesis and improving skin elasticity`
+│   │   inner_content: `Increasing collagen synthesis and improving skin elasticity`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://journal.ugm.ac.id/v3/IJP/article/view/4929|1]`
+│   │   inner_content: `1`
+│   │   url: `https://journal.ugm.ac.id/v3/IJP/article/view/4929`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `1`
+│   │   │   inner_content: `1`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Decreasing collagenase, an enzyme that degrades collagen~hs~[https://www.mdpi.com/2079-9284/11/2/37|6]`
+│   inner_content: `Decreasing collagenase, an enzyme that degrades collagen~hs~[https://www.mdpi.com/2079-9284/11/2/37|6]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Decreasing collagenase, an enzyme that degrades collagen`
+│   │   inner_content: `Decreasing collagenase, an enzyme that degrades collagen`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.mdpi.com/2079-9284/11/2/37|6]`
+│   │   inner_content: `6`
+│   │   url: `https://www.mdpi.com/2079-9284/11/2/37`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Protecting existing collagen from breakdown through antioxidant effects~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/|3]`
+│   inner_content: `Protecting existing collagen from breakdown through antioxidant effects~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/|3]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Protecting existing collagen from breakdown through antioxidant effects`
+│   │   inner_content: `Protecting existing collagen from breakdown through antioxidant effects`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/|3]`
+│   │   inner_content: `3`
+│   │   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `3`
+│   │   │   inner_content: `3`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Protective Mechanisms__`
+│   inner_content: `Protective Mechanisms`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Protective Mechanisms`
+│   │   inner_content: `Protective Mechanisms`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__UV Protection__`
+│   inner_content: `UV Protection`
+│   children:
+│   ├── TextNode
+│   │   full_match: `UV Protection`
+│   │   inner_content: `UV Protection`├── TextNode
+│   full_match: `\nVitamin D helps prevent skin sagging by protecting against UV damage through:\n`
+│   inner_content: `\nVitamin D helps prevent skin sagging by protecting against UV damage through:\n`├── ListItemNode
+│   full_match: `*Repairing DNA damage`
+│   inner_content: `Repairing DNA damage`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Repairing DNA damage`
+│   │   inner_content: `Repairing DNA damage`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Reducing oxidative stress`
+│   inner_content: `Reducing oxidative stress`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Reducing oxidative stress`
+│   │   inner_content: `Reducing oxidative stress`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Decreasing chronic inflammation~hs~[https://www.explorationpub.com/Journals/em/Article/1001225|5]`
+│   inner_content: `Decreasing chronic inflammation~hs~[https://www.explorationpub.com/Journals/em/Article/1001225|5]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Decreasing chronic inflammation`
+│   │   inner_content: `Decreasing chronic inflammation`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://www.explorationpub.com/Journals/em/Article/1001225|5]`
+│   │   inner_content: `5`
+│   │   url: `https://www.explorationpub.com/Journals/em/Article/1001225`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Skin Barrier Function__`
+│   inner_content: `Skin Barrier Function`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Skin Barrier Function`
+│   │   inner_content: `Skin Barrier Function`├── TextNode
+│   full_match: `\nThe vitamin strengthens the skin&#39;s natural defenses by:\n`
+│   inner_content: `\nThe vitamin strengthens the skin&#39;s natural defenses by:\n`├── ListItemNode
+│   full_match: `*Supporting skin barrier repair`
+│   inner_content: `Supporting skin barrier repair`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Supporting skin barrier repair`
+│   │   inner_content: `Supporting skin barrier repair`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Reducing inflammatory mediators`
+│   inner_content: `Reducing inflammatory mediators`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Reducing inflammatory mediators`
+│   │   inner_content: `Reducing inflammatory mediators`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Enhancing the skin&#39;s resilience against environmental factors~hs~ [https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/|4]`
+│   inner_content: `Enhancing the skin&#39;s resilience against environmental factors~hs~ [https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Enhancing the skin&#39;s resilience against environmental factors`
+│   │   inner_content: `Enhancing the skin&#39;s resilience against environmental factors`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/|4]`
+│   │   inner_content: `4`
+│   │   url: `https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Clinical Benefits__`
+│   inner_content: `Clinical Benefits`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Clinical Benefits`
+│   │   inner_content: `Clinical Benefits`├── TextNode
+│   full_match: `\nResearch demonstrates that maintaining adequate vitamin D levels can:\n`
+│   inner_content: `\nResearch demonstrates that maintaining adequate vitamin D levels can:\n`├── ListItemNode
+│   full_match: `*Slow down the appearance of fine lines and wrinkles`
+│   inner_content: `Slow down the appearance of fine lines and wrinkles`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Slow down the appearance of fine lines and wrinkles`
+│   │   inner_content: `Slow down the appearance of fine lines and wrinkles`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Contribute to firmer, more youthful-looking skin`
+│   inner_content: `Contribute to firmer, more youthful-looking skin`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Contribute to firmer, more youthful-looking skin`
+│   │   inner_content: `Contribute to firmer, more youthful-looking skin`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Support overall skin health and structure~hs~[https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/|4]`
+│   inner_content: `Support overall skin health and structure~hs~[https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/|4]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Support overall skin health and structure`
+│   │   inner_content: `Support overall skin health and structure`
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── LinkNode
+│   │   full_match: `[https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/|4]`
+│   │   inner_content: `4`
+│   │   url: `https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`├── TextNode
+│   full_match: `\nHowever, vitamin D production naturally decreases with age, with levels declining approximately 50% between ages 20 and 80 `
+│   inner_content: `\nHowever, vitamin D production naturally decreases with age, with levels declining approximately 50% between ages 20 and 80 `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── LinkNode
+│   full_match: `[https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/|3]`
+│   inner_content: `3`
+│   url: `https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3`
+│   │   inner_content: `3`├── TextNode
+│   full_match: `\nThis reduction can contribute to decreased skin firmness and increased sagging, making vitamin D supplementation or careful sun exposure potentially beneficial for maintaining skin firmness.`
+│   inner_content: `\nThis reduction can contribute to decreased skin firmness and increased sagging, making vitamin D supplementation or careful sun exposure potentially beneficial for maintaining skin firmness.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Weight loss and Vitamin D - many studies))`
+│   inner_content: `VitaminDWiki - ((Weight loss and Vitamin D - many studies))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Weight loss and Vitamin D - many studies))`
+│   │   inner_content: `Weight loss and Vitamin D - many studies`
+│   │   page: `Weight loss and Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Weight loss and Vitamin D - many studies`
+│   │   │   inner_content: `Weight loss and Vitamin D - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Muscles and Vitamin D - many studies))`
+│   inner_content: `VitaminDWiki - ((Muscles and Vitamin D - many studies))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Muscles and Vitamin D - many studies))`
+│   │   inner_content: `Muscles and Vitamin D - many studies`
+│   │   page: `Muscles and Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Muscles and Vitamin D - many studies`
+│   │   │   inner_content: `Muscles and Vitamin D - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies))`
+│   inner_content: `VitaminDWiki – ((Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies))`
+│   │   inner_content: `Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies`
+│   │   page: `Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies`
+│   │   │   inner_content: `Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024))`
+│   inner_content: `VitaminDWiki – ((Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024))`
+│   │   inner_content: `Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024`
+│   │   page: `Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024`
+│   │   │   inner_content: `Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023)) has:`
+│   inner_content: `VitaminDWiki – ((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023)) has:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023))`
+│   │   inner_content: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   page: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   │   inner_content: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   ├── TextNode
+│   │   full_match: ` has:`
+│   │   inner_content: ` has:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(vitamin D was the only nutrient that increased skin firness (reduce sagging skin) - Nov 2024)) ~/tc~`
+│   inner_content: ` (alias(vitamin D was the only nutrient that increased skin firness (reduce sagging skin) - Nov 2024)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(vitamin D was the only nutrient that increased skin firness (reduce sagging skin) - Nov 2024)) `
+│   │   inner_content: `(alias(vitamin D was the only nutrient that increased skin firness (reduce sagging skin) - Nov 2024)) `
+
+Original Tiki:
+-------------
+{DIV( class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Effect of intake of selected nutrients on skin firmness and elasticity in women
+Volume 11 - 2024 | https://doi.org/10.3389/fnut.2024.1483678
+Aleksandra PodgrskaAleksandra Podgórska1Aleksandra KicmanAleksandra Kicman1Sylwia NaliwajkoSylwia Naliwajko2Marta Wacewicz-Muczy, Marta Wacewicz-Muczyńska3*Marek NiczyporukMarek Niczyporuk1
+1Department of Aesthetic Medicine, Medical University of Bialystok, Białystok, Poland
+2Department of Bromatology, Medical University of Bialystok, Białystok, Poland
+3Department of Specialist Cosmetology, Medical University of Bialystok, Białystok, Poland
+
+{img type=&quot;attId&quot; attId=&quot;22033&quot; width=&quot;500&quot;}
+Introduction: The proper functioning of the skin is influenced by a proper diet. The purpose of this study was to determine the effect of selected nutrients on selected skin parameters.
+
+Methods: The study group included 59 women, who were divided into two age groups (under and over 40  years old). A three-day 24-h dietary interview was conducted among the study women and skin parameters were assessed using the Courage + Khazaka method.
+
+Results: The results showed LA, ALA, Dietary fiber, Na, K, Mg, Zn, Cu, Vitamin E, Thiamine, Riboflavin, Folates, Vitamins B6, B12 and C correlated with skin elasticity. On the other hand, skin elasticity is influenced exclusively by __vitamin D acted on skin firmness.__
+
+Conclusion: The results obtained indicate that a diet rich in appropriate nutrients has a positive effect on the proper maintenance of important skin parameters.
+{FONT( size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22032&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Nutrition and youthful skin - Sept 2021
+Clinics in Dermatology Volume 39, Issue 5, September–October 2021, Pages 796-808 https://doi.org/10.1016/j.clindermatol.2021.05.007
+Sonal Muzumdar BS a, Katalin Ferenczi MD b
+
+Nutrition and dietary supplements have been used to promote a youthful appearance for millennia. Despite high public demand for these products, evidence supporting their efficacy is limited and often inconsistent. We discuss the structural and functional changes that occur in the skin during the aging process. We also review evidence supporting the use of nutritional supplements commonly used to promote a youthful appearance, including essential fatty acids, coenzyme Q, collagen peptides, curcumin, polyphenols, flavonoids, probiotics, silymarin, and vitamins A, C, D, and E. We also consider the role of advanced glycosylated end products, antiinflammatory diets, and caloric restriction in delaying premature skin aging. Although evidence supporting the use of some dietary interventions is promising, further long-term studies in humans are required to fully understand their effects on the promotion of a youthful appearance.
+__Clipped from PDF__
+Vitamin D is a fat-soluble vitamin that plays several important roles in the human body, including the regulation of calcium homeostasis and the maintenance of bone mineralization.7 It has a number of health benefits, including the prevention of cancer, promotion of cardiovascular health, and protection against autoimmune disease.7 Sources of vitamin D include sunlight and dietary intake.8 Skin is the major source of ultraviolet-B (UVB) mediated vitamin D synthesis. UVB radiation from the sun promotes the conversion of 7-dehydrocholesterol to cholecalciferol (vitamin D3) which is subsequently hydroxylated into 25-hydroxyvitamin D3 (calcidiol) and then into 1,25-dihydroxyvitamin D3 (calcitriol).8 Vitamin D may also be obtained through the diet. Natural sources that are rich in vitamin D include cod-liver oil, salmon, mackerel, egg yolks, and cheese.7 Foods, such as milk, orange juice, and cereal, are commonly fortified with vitamin D.7
+
+Vitamin D may play an important role in the maintenance of youthful-appearing skin. By maintaining the integrity of facial bones, vitamin D promotes the scaffolding and support underlying the skin. A deficiency in vitamin D may lead to demineralization of the gingival bones, especially in edentulous patients, leading to the formation of wrinkles around the mouth and inward turning of the lips.7 Patients with such clinical presentations should be evaluated for vitamin D deficiency.
+
+Vitamin D also plays an important role in the maintenance of healthy appearing hair. Vitamin D receptor expression is upregulated during the late anagen and catagen stages of the hair cycle.9 This promotes keratinocyte differentiation, which is important for progression through the hair cycle.9 Low serum vitamin D has been associated with an increased incidence of telogen effluvium and androgenetic alopecia in women.10 Patients presenting with these conditions should be screened for vitamin D deficiency and receive vitamin D supplementation if deficient.11
+
+Vitamin D may also play a role in wound healing via modulation of skin immunity and upregulation of cathelicidin in keratinocytes.12 Cathelicidin modulates skin inflammation and promotes angiogenesis within injured skin, and in early tissue repair, cathelicidin expression is upregulated.12 Vitamin D supplementation may expedite wound healing in patients. In one randomized controlled trial, 60 patients with grade 3 diabetic foot ulcers received either 50,000 international units (IU) of vitamin D or a placebo every 2 weeks for a total of 12 weeks.13 Those who received vitamin D demonstrated marked improvement in healing of the ulcer as compared with those receiving placebo.13 In another trial, 26 patients with leg ulcers were randomized to receive either 50,000 IU vitamin D or a placebo weekly for 2 months.14 At the end of 2 months, patients receiving vitamin D demonstrated greater healing of their leg ulcers.14 This effect approached, but did not reach, significance. The prevalence of vitamin D deficiency appears to be greater in patients with diabetic foot ulcers. A study compared 104 patients with diabetic foot ulcers to 99 healthy patients without diabetes and 103 patients with diabetes without foot ulcers and found that patients with diabetic foot ulcers were significantly more likely to be vitamin D deficient than controls.15
+
+Vitamin D has numerous beneficial effects, and it has also been associated with a reduced risk of overall cancer mortality by 16%;16 however, the relationship between vitamin D levels and skin cancer, in particular melanoma, is still controversial. Excessive long-term intake of vitamin D supplementation can also have adverse effects and lead to toxicity. __Although vitamin D appears to be linked to youthful-appearing skin and hair__, certain levels of vitamin D in the serum may be associated with photoaging. One study found that patients who were deficient in vitamin D were less likely to have photodamage when compared with those who had normal levels of vitamin D.17 This may be because sunlight is a major source of vitamin D and also leads to photodamage. Limiting unprotected sun exposure is likely prudent given that excess sunlight may accelerate photoaging and increase the risk of skin cancer.18
+---
+!!!!Vitamin D3 and the Molecular Pathway of Skin Aging - Sept 2023
+Indonesian Journal of Pharmacy https://doi.org/10.22146/ijp.4929
+
+
+{img type=&quot;attId&quot; attId=&quot;22035&quot; width=&quot;800&quot;}
+Figure 2. An illustrative overview of the impact of vitamin D3 in association with the signs and causes of
+skin aging, such as inflammatory mediators (macrophage, T cell, TLR2, CD14, NF-κB), AGE products, DNA
+damage, skin viscosity, the antioxidant system, metallothionein, collagen, MMPs, TGF-β/Smad pathway,
+estrogen receptor (ER), skin barrier (cornified envelope, TG, involucrin) and photoprotective effect
+determinants (NO, SBC, CPD, and p53). (→: induce, ●: inhibit). Abbreviations: IL (interleukin), IFN-γ
+(interferon-γ), TNF-α (tumor necrosis factor), JNK (c-Jun N-terminal kinase), MMP (matrix
+metalloproteinase), NF-κB (nuclear factor-kappa B ), AGE products (advance glycation end products), NO
+(nitric oxide), CPD (cyclobutane pyrimidine dimers), SBC (sunburn cells), TLR2 (toll-like receptor 2), TGF-
+β (transforming growth factor- β), ER (estrogen receptor), VDR (vitamin D receptor), CaSR (calcium-sensing
+receptor), PLC (phospholipase C), DAG (diacylglycerol), IP3 (inositol trisphosphate), Cai (calcium
+intracellular), PKC (protein kinases), AP-1 (activator protein-1), CE (cornified envelope), TG
+(transglutaminase)
+ - - - - - - 
+Many women pay attention to skin aging. Signs of aging such as lines, wrinkles, dry skin, hyperpigmentation, and loss of elasticity affect skin appearance and self-confidence. Age, lifestyle, and particularly UV irradiation stimulate reactive oxygen species (ROS) production. ROS induces the breakdown of collagen through matrix metalloproteinases (MMPs). Collagen and elastin play a pivotal role in skin aging. They maintain skin integrity, strength, and resiliency. Antioxidant and keratolytic agents are often used in anti-aging products, including several vitamins such as vitamin A, B, C and E. To date, several studies have been reported in the literature for the __effects of vitamin D on collagen synthesis and MMPs inhibition__. This review focuses on identifying and assessing the molecular pathways of vitamin D effects related to skin aging. 
+The literature was collected from Google Scholar, Elsevier, Science Direct, PubMed, and Scopus databases and accessed between January 2019 and May 2022. The literature screening was conducted using keywords like “vitamin D3”, “collagen”, “matrix metalloproteinases”, “skin aging” and related to the study topic were included. The effect of vitamin D3 on MMPs inhibition (particularly on MMP-1, MMP-3, and MMP-9) has been widely published. Several studies have reported that vitamin D increases collagen synthesis and clinically improves skin elasticity. However, there have been controversial results regarding how vitamin D3 affects transforming growth factor-β (TGF-β) correlated with skin elasticity by the molecular pathway. Therefore, it can be concluded that vitamin D3 is a potential alternative agent in improving skin aging.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22034&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Does increasing Vitamin D decrease sagging skin?
+Asked [https://www.perplexity.ai/search/how-does-skin-firmness-relate-p4ERNDLhTjWu0Jndc7BcJg|Perplexity AI Nov 2024]
+Vitamin D plays a significant role in maintaining skin firmness and reducing sagging through multiple mechanisms.
+__Collagen Production and Protection__
+Vitamin D supports skin firmness by:
+*Increasing collagen synthesis and improving skin elasticity~hs~[https://journal.ugm.ac.id/v3/IJP/article/view/4929|1]
+*Decreasing collagenase, an enzyme that degrades collagen~hs~[https://www.mdpi.com/2079-9284/11/2/37|6]
+*Protecting existing collagen from breakdown through antioxidant effects~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/|3]
+__Protective Mechanisms__
+__UV Protection__
+Vitamin D helps prevent skin sagging by protecting against UV damage through:
+*Repairing DNA damage
+*Reducing oxidative stress
+*Decreasing chronic inflammation~hs~[https://www.explorationpub.com/Journals/em/Article/1001225|5]
+__Skin Barrier Function__
+The vitamin strengthens the skin&#39;s natural defenses by:
+*Supporting skin barrier repair
+*Reducing inflammatory mediators
+*Enhancing the skin&#39;s resilience against environmental factors~hs~ [https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/|4]
+__Clinical Benefits__
+Research demonstrates that maintaining adequate vitamin D levels can:
+*Slow down the appearance of fine lines and wrinkles
+*Contribute to firmer, more youthful-looking skin
+*Support overall skin health and structure~hs~[https://escapepv.com/the-surprising-connection-between-vitamin-d-skincare-and-overall-wellness/|4]
+However, vitamin D production naturally decreases with age, with levels declining approximately 50% between ages 20 and 80 ~hs~[https://pmc.ncbi.nlm.nih.gov/articles/PMC8396468/|3]
+This reduction can contribute to decreased skin firmness and increased sagging, making vitamin D supplementation or careful sun exposure potentially beneficial for maintaining skin firmness.
+---
+!!!!VitaminDWiki - ((Weight loss and Vitamin D - many studies))
+---
+!!!!VitaminDWiki - ((Muscles and Vitamin D - many studies))
+---
+!!!!VitaminDWiki – ((Longevity and healthspan increased by Vitamin D, Omega-3, Magnesium - many studies))
+---
+!!!!VitaminDWiki – ((Vitamin D and Aging: Central Role of Immunocompetence – Carlberg Jan 2024))
+---
+!!!!VitaminDWiki – ((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023)) has:
+{include page=&quot;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+~tc~ (alias(vitamin D was the only nutrient that increased skin firness (reduce sagging skin) - Nov 2024)) ~/tc~
+</code>
+</pre>

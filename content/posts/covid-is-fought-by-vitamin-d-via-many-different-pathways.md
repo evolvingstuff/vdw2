@@ -1,0 +1,646 @@
+---
+title: "COVID is fought by Vitamin D via many different pathways"
+slug: "covid-is-fought-by-vitamin-d-via-many-different-pathways"
+aliases:
+  - "/COVID+is+fought+by+Vitamin+D+via+many+different+pathways+–+May+2025"
+  - "/15891"
+tiki_page_id: 15891
+date: 2025-03-17
+---
+
+
+{{< toc >}}
+
+---
+
+#### COVID-19 and our understanding of vitamin D and immune function
+
+The Journal of Steroid Biochemistry and Molecular Biology, Vol. 249, May 2025, https://doi.org/10.1016/j.jsbmb.2025.106710
+
+Martin Hewison a b
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/vit-d-and-covid.webp" alt="image" width="900">
+
+ **Highlights** 
+
+* Vitamin D has been linked to effects on both innate and adaptive immunity.
+
+* Vitamin D-deficiency has been linked to infectious and autoimmune diseases.
+
+* COVID-19 has increased awareness of possible antiviral effects of vitamin D.
+
+* COVID-19 has highlighted new pathways for vitamin D metabolism in T cells.
+
+* Other recent advances include effects of vitamin D on tumour immune surveillance.
+
+The interaction between vitamin D and the immune system is perhaps the most well recognised extraskeletal facet of vitamin D, encompassing early studies of therapy for TB and leprosy through to more recent links with autoimmune disease. However, the spotlight on vitamin D and immune function has been particularly intense in the last five years following the COVID-19 pandemic. This was due, in part, to the many association studies of vitamin D status and COVID-19 infection and disease prognosis, as well as the smaller number of clinical trials of vitamin D supplementation. However, a potential role for vitamin D in COVID-19 also stemmed from the basic biology of vitamin D that provides a plausible mechanistic rationale for beneficial effects of vitamin D for improved immune health in the setting of respiratory infection. The aim of this review is to summarise the different strands of mechanistic evidence supporting a beneficial effect of vitamin D in COVID-19, how this was modified during the pandemic itself, and the potential new aspects of vitamin D and immune function that are likely to arise in the near future. Key topics that feature in this review are: antibacterial versus antiviral innate immune responses to 1,25-dihydroxyvitamin D (1,25(OH)2D); the function of immune 1α-hydroxylase (CYP27B1) activity and metabolism of 25-hydroxyvitamin D (25(OH)D) beyond antigen-presenting cells; advances in immune cell target gene responses to 1,25-dihydroxyvitamin D (notably changes in metabolic profile). Whilst much of the interest during the COVID-19 era has focused on vitamin D and public health, the continued evolution of our understanding of how vitamin D interacts with different components of the immune system continues to support a beneficial role for vitamin D in immune health.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/covid-hewison-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+##### Redefining adaptive immune responses to 1,25(OH)2D (clipped from PDF)
+
+As outlined in Section 3, the expression of VDR by cells from the adaptive immune system - T and B cells was one of the original obser­vations linking vitamin D with the immune system. Initial functional responses were focused on the suppression of proliferation and pro­duction of cytokines such as interleukin-2 (IL-2) by 1,25(OH)2D in activated but not resting T cells <sup>[103]</sup>, and the inhibition of immuno­globulin production by B cells <sup>[17]</sup>. Since these early observations the functional impact of 1,25(OH)2D on T and B cells has been greatly expanded, notably in the setting of inflammatory diseases such as rheumatoid arthritis <sup>[104]</sup>. As shown in Figs. 1C, 1,25(OH)2D can act on Th1 and Th17 cells to inhibit inflammation through suppression of IFNy, IL-17 and IL-212. In the case of Treg, 1,25(OH)2D acts to stimulate expression of IL-10, FoxP3, TGFp, and the immune checkpoint protein CTLA-42. In this setting, the over-arching action of 1,25(OH)2D on adaptive immune function is to suppress inflammatory Th1 and Th17 function whilst promoting tolerogenic Treg <sup>[104]</sup>. Although most of the studies defining these responses have been carried out in vitro or ex vivo using normal peripheral blood-derived T cells, similar responses have been demonstrated using T cells from disease affected human tissues (e. g. synovial fluid), albeit with decreased sensitivity to 1,25(OH)2D that was attributed, in part, to increased memory T cells in these tissues <sup>[105]</sup>.
+
+Vitamin D can also affect T cell function in the setting of infectious disease. Here APC present antigen to Th cells to promote an inflamma­tory response that includes activation of CD4 + Th cells but also CD8 + cytotoxic T cells (CTL) to lyse infected target cells and their intracellular pathogen <sup>[106]</sup>. As a counterpoint to this pathogen-driven inflammatory response, Treg can act to suppress both Th and CTL ac­tivity <sup>[106]</sup>. However, whilst there have been extensive studies of the effects of vitamin D on Th cells and associated Treg in relation to inflammation and autoimmune disease <sup>[104]</sup>, much less is known about vitamin D and CTL function during infection despite this being an important facet of the immune response to both bacterial and viral infection <sup>[107]</sup>. Studies using Vdr knockout mice infected with a natural mouse viral pathogen have shown that lack of 1,25(OH)2D signalling is associated with aberrant CTL differentiation, memory function and lymph localisation <sup>[108]</sup>. These observations support a possible role for vitamin D in regulating CTL function in vivo, although it is still unclear at what level this occurs - via intracrine regulation of DCs and antigen presentation, or through paracrine actions on CTL themselves. It seems likely that vitamin D-mediated regulation of adaptive immunity will involve effects on both CD4 + and CD8 + T cells. Recent studies in a mouse tumour model showed that enhanced bioavailability of 25(OH)D, as a consequence of knockout of the vitamin D binding protein gene, resulted in increased tumour accumulation of CD4 + and CD8 + T cells that was associated with diminished tumour size <sup>[109]</sup>. This effect was abrogated using an anti-CD8 antibody, underlining the importance of CD8 + CTL in driving antitumour effects of 25(OH)D <sup>[109]</sup>. Here the authors did not specifically measure 1,25(OH)2D but the inference was that higher levels of 25(OH)D were associated with increased CYP27B1 activity within the tumour microenvironment. This study also showed that the ability of vitamin D to promote tumour immune surveillance is mediated via regulation of gut microbiome composition, specifically increased levels of the bacterium Bacteroides fragilis <sup>[109]</sup>. The link between vitamin D and microbiota has gained prominence in recent years, primarily in relation to established immune disorders associated with vitamin such as autoimmunity <sup>[110]</sup>. It is to be hoped that future studies will build on the new data linking vitamin D, microbiota and tumour surveillance to provide an entirely new perspective of vitamin D and adaptive immunity in the setting of cancer.
+
+Another study that has provided a new perspective on vitamin D and adaptive immunity is the report by Chauss et al. detailing complement- induced expression of CYP27B1 by Th1 cells from patients with COVID- 19 <sup>[101]</sup>. As outlined earlier in this review, this work described a new facet of immune intracrine vitamin D metabolism - the extension of CYP27B1 expression from the innate to the adaptive immune system. However, the report also revealed new facets of 1,25(OH)2D adaptive immune cell function, particularly in relation to SARS-CoV-2 infection, T cell inflammation and COVID-19 disease severity. By carrying out extensive genomic and epigenetic analyses, Chauss et al. showed that some key effects of 1,25(OH)2D on T cells, such as induction of IL-10, were dependent on paradoxical induction of another inflammatory cytokine, IL-6, and also the epigenetic induction of three key tran­scription factors - BACH2, c-JUN and STAT3- with BACH2 being particularly important for Th1 and Th17 responses to 1,25(OH)2D <sup>[101]</sup>. Specific analysis of gene expression in lung Th1 cells from COVID-19 patients versus healthy controls showed that expression of a group of genes conventionally suppressed by 1,25(OH)2D in Th1 cells from healthy controls was higher in Th1 cells from COVID-19 patients. By contrast, there was no significant difference in 1,25(OH)2D-induced genes between healthy controls and COVID-19 patients <sup>[101]</sup>. The set of 1,25(OH)2D-repressed genes identified in this study performed almost as well as signature Th1 genes in distinguishing Th cells from patients with COVID-19 from healthy controls <sup>[101]</sup>. Furthermore, modelling studies were carried out to predict the best therapeutic options for counter­acting aberrant gene expression in Th1 cells from COVID-19 patients. Out of 461 possible drugs the top ten predicted to most effective included the vitamin D analog (Alfacalcidol) <sup>[101]</sup>.
+
+The studies outlined above provide a mechanistic rationale for the link between vitamin D and COVID-19 prognosis, with intracrine Th1 gene suppression by vitamin D being linked to attenuation of the in­flammatory responses associated with disease progression after COVID- 19 infection. Whilst much of our current understanding of vitamin D and the immune system stems from seminal studies of the intracrinology of vitamin D in antibacterial innate immunity <sup>[40]</sup> or antigen presentation <sup>[94]</sup>, it is clear that anti-inflammatory adaptive immunity is also a crucial target for vitamin D. To date much of our knowledge of T cell responses to vitamin have arisen through analysis of dysregulated T cell function in autoimmune diseases, and the possible preventative or therapeutic application of vitamin D supplementation in resolving T cell dysfunction in these diseases <sup>[111]</sup>. However, the advent of SARS-CoV-2 infection has provided an entirely new perspective on vitamin D immunomodulation that is more focused on inflammation in the setting of acute viral infection. In this regard, vitamin D can be viewed in a similar fashion to the high profile analysis of glucocorticoids as therapy for patients hospitalized with COVID-19 <sup>[112]</sup>. Notably, one of the most successful applications of vitamin D in the setting of COVID-19 was the use of 25(OH)D (Calcifediol) as an anti-inflammatory agent in people hospitalized with COVID-19 <sup>[113]</sup>. In future studies it will be interesting to determine if Calcifediol is a more effective agent for correcting the aberrant Th1 cell gene sets that were so characteristic of COVD-19 pa­tients. Furthermore, the growing recognition of Calcifediol as a more rapid and effective strategy for ‘fuelling’ intracrine and paracrine 25 (OH)D metabolism within the immune system highlights an entirely new facet of vitamin D immunology, namely the potential impact of vitamin D in the setting of acute medicine. In this regard, vitamin D (including Calcifediol) has distinct advantages over more established anti-inflammatory therapeutics such as glucocorticoids. Both vitamin D and glucocorticoids have potent anti-inflammatory actions, and gluco­corticoids such as dexamethasone were shown to decrease mortality in hospitalized COVID-19 patients <sup>[112]</sup>. However, despite these positive effects, the use of glucocorticoids to treat viral infections such as COVID-19 is complicated by data showing that glucocorticoid therapy during early infection is actually associated with impaired viral clear­ance <sup>[114]</sup>, possibly as a consequence of inhibition of type 1 interferon antiviral immunity <sup>[115]</sup>. Thus, it has been proposed that the use of glucocorticoids for viral infections is restricted to later stages of disease to prevent pathological damage in tissues such as the lungs <sup>[114]</sup>. Similar to glucocorticoids, vitamin D is a potent anti-inflammatory steroid hormone but it also promotes antiviral innate immunity. Thus, therapeutic use of vitamin D for infectious diseases is less constrained by the time-frame of disease than for glucocorticoids such as Dexamethasone.
+
+---
+
+##### Study does not appear to mention that COVID reduces VDR activation
+
+* <a href="/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID variants protect themselves by deactivating different VDR variants– March 2023">COVID variants protect themselves by deactivating different VDR variants– March 2023</a>
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### COVID-19 and our understanding of vitamin D and immune function
+
+The Journal of Steroid Biochemistry and Molecular Biology, Vol. 249, May 2025, https://doi.org/10.1016/j.jsbmb.2025.106710
+
+Martin Hewison a b
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/vit-d-and-covid.webp&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
+
+ **Highlights** 
+
+* Vitamin D has been linked to effects on both innate and adaptive immunity.
+
+* Vitamin D-deficiency has been linked to infectious and autoimmune diseases.
+
+* COVID-19 has increased awareness of possible antiviral effects of vitamin D.
+
+* COVID-19 has highlighted new pathways for vitamin D metabolism in T cells.
+
+* Other recent advances include effects of vitamin D on tumour immune surveillance.
+
+The interaction between vitamin D and the immune system is perhaps the most well recognised extraskeletal facet of vitamin D, encompassing early studies of therapy for TB and leprosy through to more recent links with autoimmune disease. However, the spotlight on vitamin D and immune function has been particularly intense in the last five years following the COVID-19 pandemic. This was due, in part, to the many association studies of vitamin D status and COVID-19 infection and disease prognosis, as well as the smaller number of clinical trials of vitamin D supplementation. However, a potential role for vitamin D in COVID-19 also stemmed from the basic biology of vitamin D that provides a plausible mechanistic rationale for beneficial effects of vitamin D for improved immune health in the setting of respiratory infection. The aim of this review is to summarise the different strands of mechanistic evidence supporting a beneficial effect of vitamin D in COVID-19, how this was modified during the pandemic itself, and the potential new aspects of vitamin D and immune function that are likely to arise in the near future. Key topics that feature in this review are: antibacterial versus antiviral innate immune responses to 1,25-dihydroxyvitamin D (1,25(OH)2D); the function of immune 1α-hydroxylase (CYP27B1) activity and metabolism of 25-hydroxyvitamin D (25(OH)D) beyond antigen-presenting cells; advances in immune cell target gene responses to 1,25-dihydroxyvitamin D (notably changes in metabolic profile). Whilst much of the interest during the COVID-19 era has focused on vitamin D and public health, the continued evolution of our understanding of how vitamin D interacts with different components of the immune system continues to support a beneficial role for vitamin D in immune health.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/covid-hewison-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+##### Redefining adaptive immune responses to 1,25(OH)2D (clipped from PDF)
+
+As outlined in Section 3, the expression of VDR by cells from the adaptive immune system - T and B cells was one of the original obser­vations linking vitamin D with the immune system. Initial functional responses were focused on the suppression of proliferation and pro­duction of cytokines such as interleukin-2 (IL-2) by 1,25(OH)2D in activated but not resting T cells &lt;sup&gt;[103]&lt;/sup&gt;, and the inhibition of immuno­globulin production by B cells &lt;sup&gt;[17]&lt;/sup&gt;. Since these early observations the functional impact of 1,25(OH)2D on T and B cells has been greatly expanded, notably in the setting of inflammatory diseases such as rheumatoid arthritis &lt;sup&gt;[104]&lt;/sup&gt;. As shown in Figs. 1C, 1,25(OH)2D can act on Th1 and Th17 cells to inhibit inflammation through suppression of IFNy, IL-17 and IL-212. In the case of Treg, 1,25(OH)2D acts to stimulate expression of IL-10, FoxP3, TGFp, and the immune checkpoint protein CTLA-42. In this setting, the over-arching action of 1,25(OH)2D on adaptive immune function is to suppress inflammatory Th1 and Th17 function whilst promoting tolerogenic Treg &lt;sup&gt;[104]&lt;/sup&gt;. Although most of the studies defining these responses have been carried out in vitro or ex vivo using normal peripheral blood-derived T cells, similar responses have been demonstrated using T cells from disease affected human tissues (e. g. synovial fluid), albeit with decreased sensitivity to 1,25(OH)2D that was attributed, in part, to increased memory T cells in these tissues &lt;sup&gt;[105]&lt;/sup&gt;.
+
+Vitamin D can also affect T cell function in the setting of infectious disease. Here APC present antigen to Th cells to promote an inflamma­tory response that includes activation of CD4 + Th cells but also CD8 + cytotoxic T cells (CTL) to lyse infected target cells and their intracellular pathogen &lt;sup&gt;[106]&lt;/sup&gt;. As a counterpoint to this pathogen-driven inflammatory response, Treg can act to suppress both Th and CTL ac­tivity &lt;sup&gt;[106]&lt;/sup&gt;. However, whilst there have been extensive studies of the effects of vitamin D on Th cells and associated Treg in relation to inflammation and autoimmune disease &lt;sup&gt;[104]&lt;/sup&gt;, much less is known about vitamin D and CTL function during infection despite this being an important facet of the immune response to both bacterial and viral infection &lt;sup&gt;[107]&lt;/sup&gt;. Studies using Vdr knockout mice infected with a natural mouse viral pathogen have shown that lack of 1,25(OH)2D signalling is associated with aberrant CTL differentiation, memory function and lymph localisation &lt;sup&gt;[108]&lt;/sup&gt;. These observations support a possible role for vitamin D in regulating CTL function in vivo, although it is still unclear at what level this occurs - via intracrine regulation of DCs and antigen presentation, or through paracrine actions on CTL themselves. It seems likely that vitamin D-mediated regulation of adaptive immunity will involve effects on both CD4 + and CD8 + T cells. Recent studies in a mouse tumour model showed that enhanced bioavailability of 25(OH)D, as a consequence of knockout of the vitamin D binding protein gene, resulted in increased tumour accumulation of CD4 + and CD8 + T cells that was associated with diminished tumour size &lt;sup&gt;[109]&lt;/sup&gt;. This effect was abrogated using an anti-CD8 antibody, underlining the importance of CD8 + CTL in driving antitumour effects of 25(OH)D &lt;sup&gt;[109]&lt;/sup&gt;. Here the authors did not specifically measure 1,25(OH)2D but the inference was that higher levels of 25(OH)D were associated with increased CYP27B1 activity within the tumour microenvironment. This study also showed that the ability of vitamin D to promote tumour immune surveillance is mediated via regulation of gut microbiome composition, specifically increased levels of the bacterium Bacteroides fragilis &lt;sup&gt;[109]&lt;/sup&gt;. The link between vitamin D and microbiota has gained prominence in recent years, primarily in relation to established immune disorders associated with vitamin such as autoimmunity &lt;sup&gt;[110]&lt;/sup&gt;. It is to be hoped that future studies will build on the new data linking vitamin D, microbiota and tumour surveillance to provide an entirely new perspective of vitamin D and adaptive immunity in the setting of cancer.
+
+Another study that has provided a new perspective on vitamin D and adaptive immunity is the report by Chauss et al. detailing complement- induced expression of CYP27B1 by Th1 cells from patients with COVID- 19 &lt;sup&gt;[101]&lt;/sup&gt;. As outlined earlier in this review, this work described a new facet of immune intracrine vitamin D metabolism - the extension of CYP27B1 expression from the innate to the adaptive immune system. However, the report also revealed new facets of 1,25(OH)2D adaptive immune cell function, particularly in relation to SARS-CoV-2 infection, T cell inflammation and COVID-19 disease severity. By carrying out extensive genomic and epigenetic analyses, Chauss et al. showed that some key effects of 1,25(OH)2D on T cells, such as induction of IL-10, were dependent on paradoxical induction of another inflammatory cytokine, IL-6, and also the epigenetic induction of three key tran­scription factors - BACH2, c-JUN and STAT3- with BACH2 being particularly important for Th1 and Th17 responses to 1,25(OH)2D &lt;sup&gt;[101]&lt;/sup&gt;. Specific analysis of gene expression in lung Th1 cells from COVID-19 patients versus healthy controls showed that expression of a group of genes conventionally suppressed by 1,25(OH)2D in Th1 cells from healthy controls was higher in Th1 cells from COVID-19 patients. By contrast, there was no significant difference in 1,25(OH)2D-induced genes between healthy controls and COVID-19 patients &lt;sup&gt;[101]&lt;/sup&gt;. The set of 1,25(OH)2D-repressed genes identified in this study performed almost as well as signature Th1 genes in distinguishing Th cells from patients with COVID-19 from healthy controls &lt;sup&gt;[101]&lt;/sup&gt;. Furthermore, modelling studies were carried out to predict the best therapeutic options for counter­acting aberrant gene expression in Th1 cells from COVID-19 patients. Out of 461 possible drugs the top ten predicted to most effective included the vitamin D analog (Alfacalcidol) &lt;sup&gt;[101]&lt;/sup&gt;.
+
+The studies outlined above provide a mechanistic rationale for the link between vitamin D and COVID-19 prognosis, with intracrine Th1 gene suppression by vitamin D being linked to attenuation of the in­flammatory responses associated with disease progression after COVID- 19 infection. Whilst much of our current understanding of vitamin D and the immune system stems from seminal studies of the intracrinology of vitamin D in antibacterial innate immunity &lt;sup&gt;[40]&lt;/sup&gt; or antigen presentation &lt;sup&gt;[94]&lt;/sup&gt;, it is clear that anti-inflammatory adaptive immunity is also a crucial target for vitamin D. To date much of our knowledge of T cell responses to vitamin have arisen through analysis of dysregulated T cell function in autoimmune diseases, and the possible preventative or therapeutic application of vitamin D supplementation in resolving T cell dysfunction in these diseases &lt;sup&gt;[111]&lt;/sup&gt;. However, the advent of SARS-CoV-2 infection has provided an entirely new perspective on vitamin D immunomodulation that is more focused on inflammation in the setting of acute viral infection. In this regard, vitamin D can be viewed in a similar fashion to the high profile analysis of glucocorticoids as therapy for patients hospitalized with COVID-19 &lt;sup&gt;[112]&lt;/sup&gt;. Notably, one of the most successful applications of vitamin D in the setting of COVID-19 was the use of 25(OH)D (Calcifediol) as an anti-inflammatory agent in people hospitalized with COVID-19 &lt;sup&gt;[113]&lt;/sup&gt;. In future studies it will be interesting to determine if Calcifediol is a more effective agent for correcting the aberrant Th1 cell gene sets that were so characteristic of COVD-19 pa­tients. Furthermore, the growing recognition of Calcifediol as a more rapid and effective strategy for ‘fuelling’ intracrine and paracrine 25 (OH)D metabolism within the immune system highlights an entirely new facet of vitamin D immunology, namely the potential impact of vitamin D in the setting of acute medicine. In this regard, vitamin D (including Calcifediol) has distinct advantages over more established anti-inflammatory therapeutics such as glucocorticoids. Both vitamin D and glucocorticoids have potent anti-inflammatory actions, and gluco­corticoids such as dexamethasone were shown to decrease mortality in hospitalized COVID-19 patients &lt;sup&gt;[112]&lt;/sup&gt;. However, despite these positive effects, the use of glucocorticoids to treat viral infections such as COVID-19 is complicated by data showing that glucocorticoid therapy during early infection is actually associated with impaired viral clear­ance &lt;sup&gt;[114]&lt;/sup&gt;, possibly as a consequence of inhibition of type 1 interferon antiviral immunity &lt;sup&gt;[115]&lt;/sup&gt;. Thus, it has been proposed that the use of glucocorticoids for viral infections is restricted to later stages of disease to prevent pathological damage in tissues such as the lungs &lt;sup&gt;[114]&lt;/sup&gt;. Similar to glucocorticoids, vitamin D is a potent anti-inflammatory steroid hormone but it also promotes antiviral innate immunity. Thus, therapeutic use of vitamin D for infectious diseases is less constrained by the time-frame of disease than for glucocorticoids such as Dexamethasone.
+
+---
+
+##### Study does not appear to mention that COVID reduces VDR activation
+
+* &lt;a href=&quot;/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID variants protect themselves by deactivating different VDR variants– March 2023&quot;&gt;COVID variants protect themselves by deactivating different VDR variants– March 2023&lt;/a&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!COVID-19 and our understanding of vitamin D and immune function`
+│   inner_content: `COVID-19 and our understanding of vitamin D and immune function`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `COVID-19 and our understanding of vitamin D and immune function`
+│   │   inner_content: `COVID-19 and our understanding of vitamin D and immune function`├── TextNode
+│   full_match: `\nThe Journal of Steroid Biochemistry and Molecular Biology, Vol. 249, May 2025, https://doi.org/10.1016/j.jsbmb.2025.106710\nMartin Hewison a b\n\n`
+│   inner_content: `\nThe Journal of Steroid Biochemistry and Molecular Biology, Vol. 249, May 2025, https://doi.org/10.1016/j.jsbmb.2025.106710\nMartin Hewison a b\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22411&quot; width=&quot;900&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22411&quot; width=&quot;900&quot;
+│   │   type: attId
+│   │   attId: 22411
+│   │   width: 900├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__Highlights__`
+│   inner_content: `Highlights`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Highlights`
+│   │   inner_content: `Highlights`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Vitamin D has been linked to effects on both innate and adaptive immunity.`
+│   inner_content: `Vitamin D has been linked to effects on both innate and adaptive immunity.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D has been linked to effects on both innate and adaptive immunity.`
+│   │   inner_content: `Vitamin D has been linked to effects on both innate and adaptive immunity.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Vitamin D-deficiency has been linked to infectious and autoimmune diseases.`
+│   inner_content: `Vitamin D-deficiency has been linked to infectious and autoimmune diseases.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D-deficiency has been linked to infectious and autoimmune diseases.`
+│   │   inner_content: `Vitamin D-deficiency has been linked to infectious and autoimmune diseases.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*COVID-19 has increased awareness of possible antiviral effects of vitamin D.`
+│   inner_content: `COVID-19 has increased awareness of possible antiviral effects of vitamin D.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `COVID-19 has increased awareness of possible antiviral effects of vitamin D.`
+│   │   inner_content: `COVID-19 has increased awareness of possible antiviral effects of vitamin D.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*COVID-19 has highlighted new pathways for vitamin D metabolism in T cells.`
+│   inner_content: `COVID-19 has highlighted new pathways for vitamin D metabolism in T cells.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `COVID-19 has highlighted new pathways for vitamin D metabolism in T cells.`
+│   │   inner_content: `COVID-19 has highlighted new pathways for vitamin D metabolism in T cells.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Other recent advances include effects of vitamin D on tumour immune surveillance.`
+│   inner_content: `Other recent advances include effects of vitamin D on tumour immune surveillance.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Other recent advances include effects of vitamin D on tumour immune surveillance.`
+│   │   inner_content: `Other recent advances include effects of vitamin D on tumour immune surveillance.`├── TextNode
+│   full_match: `\nThe interaction between vitamin D and the immune system is perhaps the most well recognised extraskeletal facet of vitamin D, encompassing early studies of therapy for TB and leprosy through to more recent links with autoimmune disease. However, the spotlight on vitamin D and immune function has been particularly intense in the last five years following the COVID-19 pandemic. This was due, in part, to the many association studies of vitamin D status and COVID-19 infection and disease prognosis, as well as the smaller number of clinical trials of vitamin D supplementation. However, a potential role for vitamin D in COVID-19 also stemmed from the basic biology of vitamin D that provides a plausible mechanistic rationale for beneficial effects of vitamin D for improved immune health in the setting of respiratory infection. The aim of this review is to summarise the different strands of mechanistic evidence supporting a beneficial effect of vitamin D in COVID-19, how this was modified during the pandemic itself, and the potential new aspects of vitamin D and immune function that are likely to arise in the near future. Key topics that feature in this review are: antibacterial versus antiviral innate immune responses to 1,25-dihydroxyvitamin D (1,25(OH)2D); the function of immune 1α-hydroxylase (CYP27B1) activity and metabolism of 25-hydroxyvitamin D (25(OH)D) beyond antigen-presenting cells; advances in immune cell target gene responses to 1,25-dihydroxyvitamin D (notably changes in metabolic profile). Whilst much of the interest during the COVID-19 era has focused on vitamin D and public health, the continued evolution of our understanding of how vitamin D interacts with different components of the immune system continues to support a beneficial role for vitamin D in immune health.\n`
+│   inner_content: `\nThe interaction between vitamin D and the immune system is perhaps the most well recognised extraskeletal facet of vitamin D, encompassing early studies of therapy for TB and leprosy through to more recent links with autoimmune disease. However, the spotlight on vitamin D and immune function has been particularly intense in the last five years following the COVID-19 pandemic. This was due, in part, to the many association studies of vitamin D status and COVID-19 infection and disease prognosis, as well as the smaller number of clinical trials of vitamin D supplementation. However, a potential role for vitamin D in COVID-19 also stemmed from the basic biology of vitamin D that provides a plausible mechanistic rationale for beneficial effects of vitamin D for improved immune health in the setting of respiratory infection. The aim of this review is to summarise the different strands of mechanistic evidence supporting a beneficial effect of vitamin D in COVID-19, how this was modified during the pandemic itself, and the potential new aspects of vitamin D and immune function that are likely to arise in the near future. Key topics that feature in this review are: antibacterial versus antiviral innate immune responses to 1,25-dihydroxyvitamin D (1,25(OH)2D); the function of immune 1α-hydroxylase (CYP27B1) activity and metabolism of 25-hydroxyvitamin D (25(OH)D) beyond antigen-presenting cells; advances in immune cell target gene responses to 1,25-dihydroxyvitamin D (notably changes in metabolic profile). Whilst much of the interest during the COVID-19 era has focused on vitamin D and public health, the continued evolution of our understanding of how vitamin D interacts with different components of the immune system continues to support a beneficial role for vitamin D in immune health.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22410&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22410&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22410&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22410&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22410&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22410&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22410
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!Redefining adaptive immune responses to 1,25(OH)2D (clipped from PDF)`
+│   inner_content: `Redefining adaptive immune responses to 1,25(OH)2D (clipped from PDF)`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Redefining adaptive immune responses to 1,25(OH)2D (clipped from PDF)`
+│   │   inner_content: `Redefining adaptive immune responses to 1,25(OH)2D (clipped from PDF)`├── TextNode
+│   full_match: `\nAs outlined in Section 3, the expression of VDR by cells from the adaptive immune system - T and B cells was one of the original obser­vations linking vitamin D with the immune system. Initial functional responses were focused on the suppression of proliferation and pro­duction of cytokines such as interleukin-2 (IL-2) by 1,25(OH)2D in activated but not resting T cells `
+│   inner_content: `\nAs outlined in Section 3, the expression of VDR by cells from the adaptive immune system - T and B cells was one of the original obser­vations linking vitamin D with the immune system. Initial functional responses were focused on the suppression of proliferation and pro­duction of cytokines such as interleukin-2 (IL-2) by 1,25(OH)2D in activated but not resting T cells `├── LinkNode
+│   full_match: `[103]`
+│   inner_content: `103`
+│   url: `103`
+│   children:
+│   ├── TextNode
+│   │   full_match: `103`
+│   │   inner_content: `103`├── TextNode
+│   full_match: `, and the inhibition of immuno­globulin production by B cells `
+│   inner_content: `, and the inhibition of immuno­globulin production by B cells `├── LinkNode
+│   full_match: `[17]`
+│   inner_content: `17`
+│   url: `17`
+│   children:
+│   ├── TextNode
+│   │   full_match: `17`
+│   │   inner_content: `17`├── TextNode
+│   full_match: `. Since these early observations the functional impact of 1,25(OH)2D on T and B cells has been greatly expanded, notably in the setting of inflammatory diseases such as rheumatoid arthritis `
+│   inner_content: `. Since these early observations the functional impact of 1,25(OH)2D on T and B cells has been greatly expanded, notably in the setting of inflammatory diseases such as rheumatoid arthritis `├── LinkNode
+│   full_match: `[104]`
+│   inner_content: `104`
+│   url: `104`
+│   children:
+│   ├── TextNode
+│   │   full_match: `104`
+│   │   inner_content: `104`├── TextNode
+│   full_match: `. As shown in Figs. 1C, 1,25(OH)2D can act on Th1 and Th17 cells to inhibit inflammation through suppression of IFNy, IL-17 and IL-212. In the case of Treg, 1,25(OH)2D acts to stimulate expression of IL-10, FoxP3, TGFp, and the immune checkpoint protein CTLA-42. In this setting, the over-arching action of 1,25(OH)2D on adaptive immune function is to suppress inflammatory Th1 and Th17 function whilst promoting tolerogenic Treg `
+│   inner_content: `. As shown in Figs. 1C, 1,25(OH)2D can act on Th1 and Th17 cells to inhibit inflammation through suppression of IFNy, IL-17 and IL-212. In the case of Treg, 1,25(OH)2D acts to stimulate expression of IL-10, FoxP3, TGFp, and the immune checkpoint protein CTLA-42. In this setting, the over-arching action of 1,25(OH)2D on adaptive immune function is to suppress inflammatory Th1 and Th17 function whilst promoting tolerogenic Treg `├── LinkNode
+│   full_match: `[104]`
+│   inner_content: `104`
+│   url: `104`
+│   children:
+│   ├── TextNode
+│   │   full_match: `104`
+│   │   inner_content: `104`├── TextNode
+│   full_match: `. Although most of the studies defining these responses have been carried out in vitro or ex vivo using normal peripheral blood-derived T cells, similar responses have been demonstrated using T cells from disease affected human tissues (e. g. synovial fluid), albeit with decreased sensitivity to 1,25(OH)2D that was attributed, in part, to increased memory T cells in these tissues `
+│   inner_content: `. Although most of the studies defining these responses have been carried out in vitro or ex vivo using normal peripheral blood-derived T cells, similar responses have been demonstrated using T cells from disease affected human tissues (e. g. synovial fluid), albeit with decreased sensitivity to 1,25(OH)2D that was attributed, in part, to increased memory T cells in these tissues `├── LinkNode
+│   full_match: `[105]`
+│   inner_content: `105`
+│   url: `105`
+│   children:
+│   ├── TextNode
+│   │   full_match: `105`
+│   │   inner_content: `105`├── TextNode
+│   full_match: `.\nVitamin D can also affect T cell function in the setting of infectious disease. Here APC present antigen to Th cells to promote an inflamma­tory response that includes activation of CD4 + Th cells but also CD8 + cytotoxic T cells (CTL) to lyse infected target cells and their intracellular pathogen `
+│   inner_content: `.\nVitamin D can also affect T cell function in the setting of infectious disease. Here APC present antigen to Th cells to promote an inflamma­tory response that includes activation of CD4 + Th cells but also CD8 + cytotoxic T cells (CTL) to lyse infected target cells and their intracellular pathogen `├── LinkNode
+│   full_match: `[106]`
+│   inner_content: `106`
+│   url: `106`
+│   children:
+│   ├── TextNode
+│   │   full_match: `106`
+│   │   inner_content: `106`├── TextNode
+│   full_match: `. As a counterpoint to this pathogen-driven inflammatory response, Treg can act to suppress both Th and CTL ac­tivity `
+│   inner_content: `. As a counterpoint to this pathogen-driven inflammatory response, Treg can act to suppress both Th and CTL ac­tivity `├── LinkNode
+│   full_match: `[106]`
+│   inner_content: `106`
+│   url: `106`
+│   children:
+│   ├── TextNode
+│   │   full_match: `106`
+│   │   inner_content: `106`├── TextNode
+│   full_match: `. However, whilst there have been extensive studies of the effects of vitamin D on Th cells and associated Treg in relation to inflammation and autoimmune disease `
+│   inner_content: `. However, whilst there have been extensive studies of the effects of vitamin D on Th cells and associated Treg in relation to inflammation and autoimmune disease `├── LinkNode
+│   full_match: `[104]`
+│   inner_content: `104`
+│   url: `104`
+│   children:
+│   ├── TextNode
+│   │   full_match: `104`
+│   │   inner_content: `104`├── TextNode
+│   full_match: `, much less is known about vitamin D and CTL function during infection despite this being an important facet of the immune response to both bacterial and viral infection `
+│   inner_content: `, much less is known about vitamin D and CTL function during infection despite this being an important facet of the immune response to both bacterial and viral infection `├── LinkNode
+│   full_match: `[107]`
+│   inner_content: `107`
+│   url: `107`
+│   children:
+│   ├── TextNode
+│   │   full_match: `107`
+│   │   inner_content: `107`├── TextNode
+│   full_match: `. Studies using Vdr knockout mice infected with a natural mouse viral pathogen have shown that lack of 1,25(OH)2D signalling is associated with aberrant CTL differentiation, memory function and lymph localisation `
+│   inner_content: `. Studies using Vdr knockout mice infected with a natural mouse viral pathogen have shown that lack of 1,25(OH)2D signalling is associated with aberrant CTL differentiation, memory function and lymph localisation `├── LinkNode
+│   full_match: `[108]`
+│   inner_content: `108`
+│   url: `108`
+│   children:
+│   ├── TextNode
+│   │   full_match: `108`
+│   │   inner_content: `108`├── TextNode
+│   full_match: `. These observations support a possible role for vitamin D in regulating CTL function in vivo, although it is still unclear at what level this occurs - via intracrine regulation of DCs and antigen presentation, or through paracrine actions on CTL themselves. It seems likely that vitamin D-mediated regulation of adaptive immunity will involve effects on both CD4 + and CD8 + T cells. Recent studies in a mouse tumour model showed that enhanced bioavailability of 25(OH)D, as a consequence of knockout of the vitamin D binding protein gene, resulted in increased tumour accumulation of CD4 + and CD8 + T cells that was associated with diminished tumour size `
+│   inner_content: `. These observations support a possible role for vitamin D in regulating CTL function in vivo, although it is still unclear at what level this occurs - via intracrine regulation of DCs and antigen presentation, or through paracrine actions on CTL themselves. It seems likely that vitamin D-mediated regulation of adaptive immunity will involve effects on both CD4 + and CD8 + T cells. Recent studies in a mouse tumour model showed that enhanced bioavailability of 25(OH)D, as a consequence of knockout of the vitamin D binding protein gene, resulted in increased tumour accumulation of CD4 + and CD8 + T cells that was associated with diminished tumour size `├── LinkNode
+│   full_match: `[109]`
+│   inner_content: `109`
+│   url: `109`
+│   children:
+│   ├── TextNode
+│   │   full_match: `109`
+│   │   inner_content: `109`├── TextNode
+│   full_match: `. This effect was abrogated using an anti-CD8 antibody, underlining the importance of CD8 + CTL in driving antitumour effects of 25(OH)D `
+│   inner_content: `. This effect was abrogated using an anti-CD8 antibody, underlining the importance of CD8 + CTL in driving antitumour effects of 25(OH)D `├── LinkNode
+│   full_match: `[109]`
+│   inner_content: `109`
+│   url: `109`
+│   children:
+│   ├── TextNode
+│   │   full_match: `109`
+│   │   inner_content: `109`├── TextNode
+│   full_match: `. Here the authors did not specifically measure 1,25(OH)2D but the inference was that higher levels of 25(OH)D were associated with increased CYP27B1 activity within the tumour microenvironment. This study also showed that the ability of vitamin D to promote tumour immune surveillance is mediated via regulation of gut microbiome composition, specifically increased levels of the bacterium Bacteroides fragilis `
+│   inner_content: `. Here the authors did not specifically measure 1,25(OH)2D but the inference was that higher levels of 25(OH)D were associated with increased CYP27B1 activity within the tumour microenvironment. This study also showed that the ability of vitamin D to promote tumour immune surveillance is mediated via regulation of gut microbiome composition, specifically increased levels of the bacterium Bacteroides fragilis `├── LinkNode
+│   full_match: `[109]`
+│   inner_content: `109`
+│   url: `109`
+│   children:
+│   ├── TextNode
+│   │   full_match: `109`
+│   │   inner_content: `109`├── TextNode
+│   full_match: `. The link between vitamin D and microbiota has gained prominence in recent years, primarily in relation to established immune disorders associated with vitamin such as autoimmunity `
+│   inner_content: `. The link between vitamin D and microbiota has gained prominence in recent years, primarily in relation to established immune disorders associated with vitamin such as autoimmunity `├── LinkNode
+│   full_match: `[110]`
+│   inner_content: `110`
+│   url: `110`
+│   children:
+│   ├── TextNode
+│   │   full_match: `110`
+│   │   inner_content: `110`├── TextNode
+│   full_match: `. It is to be hoped that future studies will build on the new data linking vitamin D, microbiota and tumour surveillance to provide an entirely new perspective of vitamin D and adaptive immunity in the setting of cancer.\nAnother study that has provided a new perspective on vitamin D and adaptive immunity is the report by Chauss et al. detailing complement- induced expression of CYP27B1 by Th1 cells from patients with COVID- 19 `
+│   inner_content: `. It is to be hoped that future studies will build on the new data linking vitamin D, microbiota and tumour surveillance to provide an entirely new perspective of vitamin D and adaptive immunity in the setting of cancer.\nAnother study that has provided a new perspective on vitamin D and adaptive immunity is the report by Chauss et al. detailing complement- induced expression of CYP27B1 by Th1 cells from patients with COVID- 19 `├── LinkNode
+│   full_match: `[101]`
+│   inner_content: `101`
+│   url: `101`
+│   children:
+│   ├── TextNode
+│   │   full_match: `101`
+│   │   inner_content: `101`├── TextNode
+│   full_match: `. As outlined earlier in this review, this work described a new facet of immune intracrine vitamin D metabolism - the extension of CYP27B1 expression from the innate to the adaptive immune system. However, the report also revealed new facets of 1,25(OH)2D adaptive immune cell function, particularly in relation to SARS-CoV-2 infection, T cell inflammation and COVID-19 disease severity. By carrying out extensive genomic and epigenetic analyses, Chauss et al. showed that some key effects of 1,25(OH)2D on T cells, such as induction of IL-10, were dependent on paradoxical induction of another inflammatory cytokine, IL-6, and also the epigenetic induction of three key tran­scription factors - BACH2, c-JUN and STAT3- with BACH2 being particularly important for Th1 and Th17 responses to 1,25(OH)2D `
+│   inner_content: `. As outlined earlier in this review, this work described a new facet of immune intracrine vitamin D metabolism - the extension of CYP27B1 expression from the innate to the adaptive immune system. However, the report also revealed new facets of 1,25(OH)2D adaptive immune cell function, particularly in relation to SARS-CoV-2 infection, T cell inflammation and COVID-19 disease severity. By carrying out extensive genomic and epigenetic analyses, Chauss et al. showed that some key effects of 1,25(OH)2D on T cells, such as induction of IL-10, were dependent on paradoxical induction of another inflammatory cytokine, IL-6, and also the epigenetic induction of three key tran­scription factors - BACH2, c-JUN and STAT3- with BACH2 being particularly important for Th1 and Th17 responses to 1,25(OH)2D `├── LinkNode
+│   full_match: `[101]`
+│   inner_content: `101`
+│   url: `101`
+│   children:
+│   ├── TextNode
+│   │   full_match: `101`
+│   │   inner_content: `101`├── TextNode
+│   full_match: `. Specific analysis of gene expression in lung Th1 cells from COVID-19 patients versus healthy controls showed that expression of a group of genes conventionally suppressed by 1,25(OH)2D in Th1 cells from healthy controls was higher in Th1 cells from COVID-19 patients. By contrast, there was no significant difference in 1,25(OH)2D-induced genes between healthy controls and COVID-19 patients `
+│   inner_content: `. Specific analysis of gene expression in lung Th1 cells from COVID-19 patients versus healthy controls showed that expression of a group of genes conventionally suppressed by 1,25(OH)2D in Th1 cells from healthy controls was higher in Th1 cells from COVID-19 patients. By contrast, there was no significant difference in 1,25(OH)2D-induced genes between healthy controls and COVID-19 patients `├── LinkNode
+│   full_match: `[101]`
+│   inner_content: `101`
+│   url: `101`
+│   children:
+│   ├── TextNode
+│   │   full_match: `101`
+│   │   inner_content: `101`├── TextNode
+│   full_match: `. The set of 1,25(OH)2D-repressed genes identified in this study performed almost as well as signature Th1 genes in distinguishing Th cells from patients with COVID-19 from healthy controls `
+│   inner_content: `. The set of 1,25(OH)2D-repressed genes identified in this study performed almost as well as signature Th1 genes in distinguishing Th cells from patients with COVID-19 from healthy controls `├── LinkNode
+│   full_match: `[101]`
+│   inner_content: `101`
+│   url: `101`
+│   children:
+│   ├── TextNode
+│   │   full_match: `101`
+│   │   inner_content: `101`├── TextNode
+│   full_match: `. Furthermore, modelling studies were carried out to predict the best therapeutic options for counter­acting aberrant gene expression in Th1 cells from COVID-19 patients. Out of 461 possible drugs the top ten predicted to most effective included the vitamin D analog (Alfacalcidol) `
+│   inner_content: `. Furthermore, modelling studies were carried out to predict the best therapeutic options for counter­acting aberrant gene expression in Th1 cells from COVID-19 patients. Out of 461 possible drugs the top ten predicted to most effective included the vitamin D analog (Alfacalcidol) `├── LinkNode
+│   full_match: `[101]`
+│   inner_content: `101`
+│   url: `101`
+│   children:
+│   ├── TextNode
+│   │   full_match: `101`
+│   │   inner_content: `101`├── TextNode
+│   full_match: `.\nThe studies outlined above provide a mechanistic rationale for the link between vitamin D and COVID-19 prognosis, with intracrine Th1 gene suppression by vitamin D being linked to attenuation of the in­flammatory responses associated with disease progression after COVID- 19 infection. Whilst much of our current understanding of vitamin D and the immune system stems from seminal studies of the intracrinology of vitamin D in antibacterial innate immunity `
+│   inner_content: `.\nThe studies outlined above provide a mechanistic rationale for the link between vitamin D and COVID-19 prognosis, with intracrine Th1 gene suppression by vitamin D being linked to attenuation of the in­flammatory responses associated with disease progression after COVID- 19 infection. Whilst much of our current understanding of vitamin D and the immune system stems from seminal studies of the intracrinology of vitamin D in antibacterial innate immunity `├── LinkNode
+│   full_match: `[40]`
+│   inner_content: `40`
+│   url: `40`
+│   children:
+│   ├── TextNode
+│   │   full_match: `40`
+│   │   inner_content: `40`├── TextNode
+│   full_match: ` or antigen presentation `
+│   inner_content: ` or antigen presentation `├── LinkNode
+│   full_match: `[94]`
+│   inner_content: `94`
+│   url: `94`
+│   children:
+│   ├── TextNode
+│   │   full_match: `94`
+│   │   inner_content: `94`├── TextNode
+│   full_match: `, it is clear that anti-inflammatory adaptive immunity is also a crucial target for vitamin D. To date much of our knowledge of T cell responses to vitamin have arisen through analysis of dysregulated T cell function in autoimmune diseases, and the possible preventative or therapeutic application of vitamin D supplementation in resolving T cell dysfunction in these diseases `
+│   inner_content: `, it is clear that anti-inflammatory adaptive immunity is also a crucial target for vitamin D. To date much of our knowledge of T cell responses to vitamin have arisen through analysis of dysregulated T cell function in autoimmune diseases, and the possible preventative or therapeutic application of vitamin D supplementation in resolving T cell dysfunction in these diseases `├── LinkNode
+│   full_match: `[111]`
+│   inner_content: `111`
+│   url: `111`
+│   children:
+│   ├── TextNode
+│   │   full_match: `111`
+│   │   inner_content: `111`├── TextNode
+│   full_match: `. However, the advent of SARS-CoV-2 infection has provided an entirely new perspective on vitamin D immunomodulation that is more focused on inflammation in the setting of acute viral infection. In this regard, vitamin D can be viewed in a similar fashion to the high profile analysis of glucocorticoids as therapy for patients hospitalized with COVID-19 `
+│   inner_content: `. However, the advent of SARS-CoV-2 infection has provided an entirely new perspective on vitamin D immunomodulation that is more focused on inflammation in the setting of acute viral infection. In this regard, vitamin D can be viewed in a similar fashion to the high profile analysis of glucocorticoids as therapy for patients hospitalized with COVID-19 `├── LinkNode
+│   full_match: `[112]`
+│   inner_content: `112`
+│   url: `112`
+│   children:
+│   ├── TextNode
+│   │   full_match: `112`
+│   │   inner_content: `112`├── TextNode
+│   full_match: `. Notably, one of the most successful applications of vitamin D in the setting of COVID-19 was the use of 25(OH)D (Calcifediol) as an anti-inflammatory agent in people hospitalized with COVID-19 `
+│   inner_content: `. Notably, one of the most successful applications of vitamin D in the setting of COVID-19 was the use of 25(OH)D (Calcifediol) as an anti-inflammatory agent in people hospitalized with COVID-19 `├── LinkNode
+│   full_match: `[113]`
+│   inner_content: `113`
+│   url: `113`
+│   children:
+│   ├── TextNode
+│   │   full_match: `113`
+│   │   inner_content: `113`├── TextNode
+│   full_match: `. In future studies it will be interesting to determine if Calcifediol is a more effective agent for correcting the aberrant Th1 cell gene sets that were so characteristic of COVD-19 pa­tients. Furthermore, the growing recognition of Calcifediol as a more rapid and effective strategy for ‘fuelling’ intracrine and paracrine 25 (OH)D metabolism within the immune system highlights an entirely new facet of vitamin D immunology, namely the potential impact of vitamin D in the setting of acute medicine. In this regard, vitamin D (including Calcifediol) has distinct advantages over more established anti-inflammatory therapeutics such as glucocorticoids. Both vitamin D and glucocorticoids have potent anti-inflammatory actions, and gluco­corticoids such as dexamethasone were shown to decrease mortality in hospitalized COVID-19 patients `
+│   inner_content: `. In future studies it will be interesting to determine if Calcifediol is a more effective agent for correcting the aberrant Th1 cell gene sets that were so characteristic of COVD-19 pa­tients. Furthermore, the growing recognition of Calcifediol as a more rapid and effective strategy for ‘fuelling’ intracrine and paracrine 25 (OH)D metabolism within the immune system highlights an entirely new facet of vitamin D immunology, namely the potential impact of vitamin D in the setting of acute medicine. In this regard, vitamin D (including Calcifediol) has distinct advantages over more established anti-inflammatory therapeutics such as glucocorticoids. Both vitamin D and glucocorticoids have potent anti-inflammatory actions, and gluco­corticoids such as dexamethasone were shown to decrease mortality in hospitalized COVID-19 patients `├── LinkNode
+│   full_match: `[112]`
+│   inner_content: `112`
+│   url: `112`
+│   children:
+│   ├── TextNode
+│   │   full_match: `112`
+│   │   inner_content: `112`├── TextNode
+│   full_match: `. However, despite these positive effects, the use of glucocorticoids to treat viral infections such as COVID-19 is complicated by data showing that glucocorticoid therapy during early infection is actually associated with impaired viral clear­ance `
+│   inner_content: `. However, despite these positive effects, the use of glucocorticoids to treat viral infections such as COVID-19 is complicated by data showing that glucocorticoid therapy during early infection is actually associated with impaired viral clear­ance `├── LinkNode
+│   full_match: `[114]`
+│   inner_content: `114`
+│   url: `114`
+│   children:
+│   ├── TextNode
+│   │   full_match: `114`
+│   │   inner_content: `114`├── TextNode
+│   full_match: `, possibly as a consequence of inhibition of type 1 interferon antiviral immunity `
+│   inner_content: `, possibly as a consequence of inhibition of type 1 interferon antiviral immunity `├── LinkNode
+│   full_match: `[115]`
+│   inner_content: `115`
+│   url: `115`
+│   children:
+│   ├── TextNode
+│   │   full_match: `115`
+│   │   inner_content: `115`├── TextNode
+│   full_match: `. Thus, it has been proposed that the use of glucocorticoids for viral infections is restricted to later stages of disease to prevent pathological damage in tissues such as the lungs `
+│   inner_content: `. Thus, it has been proposed that the use of glucocorticoids for viral infections is restricted to later stages of disease to prevent pathological damage in tissues such as the lungs `├── LinkNode
+│   full_match: `[114]`
+│   inner_content: `114`
+│   url: `114`
+│   children:
+│   ├── TextNode
+│   │   full_match: `114`
+│   │   inner_content: `114`├── TextNode
+│   full_match: `. Similar to glucocorticoids, vitamin D is a potent anti-inflammatory steroid hormone but it also promotes antiviral innate immunity. Thus, therapeutic use of vitamin D for infectious diseases is less constrained by the time-frame of disease than for glucocorticoids such as Dexamethasone.`
+│   inner_content: `. Similar to glucocorticoids, vitamin D is a potent anti-inflammatory steroid hormone but it also promotes antiviral innate immunity. Thus, therapeutic use of vitamin D for infectious diseases is less constrained by the time-frame of disease than for glucocorticoids such as Dexamethasone.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!Study does not appear to mention that COVID reduces VDR activation`
+│   inner_content: `Study does not appear to mention that COVID reduces VDR activation`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Study does not appear to mention that COVID reduces VDR activation`
+│   │   inner_content: `Study does not appear to mention that COVID reduces VDR activation`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((COVID variants protect themselves by deactivating different VDR variants– March 2023))`
+│   inner_content: `((COVID variants protect themselves by deactivating different VDR variants– March 2023))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((COVID variants protect themselves by deactivating different VDR variants– March 2023))`
+│   │   inner_content: `COVID variants protect themselves by deactivating different VDR variants– March 2023`
+│   │   page: `COVID variants protect themselves by deactivating different VDR variants– March 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `COVID variants protect themselves by deactivating different VDR variants– March 2023`
+│   │   │   inner_content: `COVID variants protect themselves by deactivating different VDR variants– March 2023`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│   inner_content: `VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D Receptor))`
+│   │   inner_content: `Vitamin D Receptor`
+│   │   page: `Vitamin D Receptor`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Receptor`
+│   │   │   inner_content: `Vitamin D Receptor`
+│   ├── TextNode
+│   │   full_match: ` activation can be increased in many ways`
+│   │   inner_content: ` activation can be increased in many ways`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;
+│   │   page: Vitamin D Receptor
+│   │   start: ~tc~ startact ~/tc~
+│   │   stop: ~tc~ endact ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!~~#F06:11+~~  VitaminDWiki Virus pages have  50 AND NG in the title`
+│   inner_content: `~~#F06:11+~~  VitaminDWiki Virus pages have  50 AND NG in the title`
+│   level: `5`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F06:11+~~`
+│   │   inner_content: `11+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `11+`
+│   │   │   inner_content: `11+`
+│   ├── TextNode
+│   │   full_match: `  VitaminDWiki Virus pages have  50 AND NG in the title`
+│   │   inner_content: `  VitaminDWiki Virus pages have  50 AND NG in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;The list is automatically updated&#39;&#39;`
+│   inner_content: `The list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The list is automatically updated`
+│   │   inner_content: `The list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 AND NG&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 AND NG&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 AND NG&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 AND NG&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki - ((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   inner_content: `VitaminDWiki - ((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!COVID-19 and our understanding of vitamin D and immune function
+The Journal of Steroid Biochemistry and Molecular Biology, Vol. 249, May 2025, https://doi.org/10.1016/j.jsbmb.2025.106710
+Martin Hewison a b
+
+{img type=&quot;attId&quot; attId=&quot;22411&quot; width=&quot;900&quot;}
+
+__Highlights__
+*Vitamin D has been linked to effects on both innate and adaptive immunity.
+*Vitamin D-deficiency has been linked to infectious and autoimmune diseases.
+*COVID-19 has increased awareness of possible antiviral effects of vitamin D.
+*COVID-19 has highlighted new pathways for vitamin D metabolism in T cells.
+*Other recent advances include effects of vitamin D on tumour immune surveillance.
+The interaction between vitamin D and the immune system is perhaps the most well recognised extraskeletal facet of vitamin D, encompassing early studies of therapy for TB and leprosy through to more recent links with autoimmune disease. However, the spotlight on vitamin D and immune function has been particularly intense in the last five years following the COVID-19 pandemic. This was due, in part, to the many association studies of vitamin D status and COVID-19 infection and disease prognosis, as well as the smaller number of clinical trials of vitamin D supplementation. However, a potential role for vitamin D in COVID-19 also stemmed from the basic biology of vitamin D that provides a plausible mechanistic rationale for beneficial effects of vitamin D for improved immune health in the setting of respiratory infection. The aim of this review is to summarise the different strands of mechanistic evidence supporting a beneficial effect of vitamin D in COVID-19, how this was modified during the pandemic itself, and the potential new aspects of vitamin D and immune function that are likely to arise in the near future. Key topics that feature in this review are: antibacterial versus antiviral innate immune responses to 1,25-dihydroxyvitamin D (1,25(OH)2D); the function of immune 1α-hydroxylase (CYP27B1) activity and metabolism of 25-hydroxyvitamin D (25(OH)D) beyond antigen-presenting cells; advances in immune cell target gene responses to 1,25-dihydroxyvitamin D (notably changes in metabolic profile). Whilst much of the interest during the COVID-19 era has focused on vitamin D and public health, the continued evolution of our understanding of how vitamin D interacts with different components of the immune system continues to support a beneficial role for vitamin D in immune health.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22410&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!!Redefining adaptive immune responses to 1,25(OH)2D (clipped from PDF)
+As outlined in Section 3, the expression of VDR by cells from the adaptive immune system - T and B cells was one of the original obser­vations linking vitamin D with the immune system. Initial functional responses were focused on the suppression of proliferation and pro­duction of cytokines such as interleukin-2 (IL-2) by 1,25(OH)2D in activated but not resting T cells [103], and the inhibition of immuno­globulin production by B cells [17]. Since these early observations the functional impact of 1,25(OH)2D on T and B cells has been greatly expanded, notably in the setting of inflammatory diseases such as rheumatoid arthritis [104]. As shown in Figs. 1C, 1,25(OH)2D can act on Th1 and Th17 cells to inhibit inflammation through suppression of IFNy, IL-17 and IL-212. In the case of Treg, 1,25(OH)2D acts to stimulate expression of IL-10, FoxP3, TGFp, and the immune checkpoint protein CTLA-42. In this setting, the over-arching action of 1,25(OH)2D on adaptive immune function is to suppress inflammatory Th1 and Th17 function whilst promoting tolerogenic Treg [104]. Although most of the studies defining these responses have been carried out in vitro or ex vivo using normal peripheral blood-derived T cells, similar responses have been demonstrated using T cells from disease affected human tissues (e. g. synovial fluid), albeit with decreased sensitivity to 1,25(OH)2D that was attributed, in part, to increased memory T cells in these tissues [105].
+Vitamin D can also affect T cell function in the setting of infectious disease. Here APC present antigen to Th cells to promote an inflamma­tory response that includes activation of CD4 + Th cells but also CD8 + cytotoxic T cells (CTL) to lyse infected target cells and their intracellular pathogen [106]. As a counterpoint to this pathogen-driven inflammatory response, Treg can act to suppress both Th and CTL ac­tivity [106]. However, whilst there have been extensive studies of the effects of vitamin D on Th cells and associated Treg in relation to inflammation and autoimmune disease [104], much less is known about vitamin D and CTL function during infection despite this being an important facet of the immune response to both bacterial and viral infection [107]. Studies using Vdr knockout mice infected with a natural mouse viral pathogen have shown that lack of 1,25(OH)2D signalling is associated with aberrant CTL differentiation, memory function and lymph localisation [108]. These observations support a possible role for vitamin D in regulating CTL function in vivo, although it is still unclear at what level this occurs - via intracrine regulation of DCs and antigen presentation, or through paracrine actions on CTL themselves. It seems likely that vitamin D-mediated regulation of adaptive immunity will involve effects on both CD4 + and CD8 + T cells. Recent studies in a mouse tumour model showed that enhanced bioavailability of 25(OH)D, as a consequence of knockout of the vitamin D binding protein gene, resulted in increased tumour accumulation of CD4 + and CD8 + T cells that was associated with diminished tumour size [109]. This effect was abrogated using an anti-CD8 antibody, underlining the importance of CD8 + CTL in driving antitumour effects of 25(OH)D [109]. Here the authors did not specifically measure 1,25(OH)2D but the inference was that higher levels of 25(OH)D were associated with increased CYP27B1 activity within the tumour microenvironment. This study also showed that the ability of vitamin D to promote tumour immune surveillance is mediated via regulation of gut microbiome composition, specifically increased levels of the bacterium Bacteroides fragilis [109]. The link between vitamin D and microbiota has gained prominence in recent years, primarily in relation to established immune disorders associated with vitamin such as autoimmunity [110]. It is to be hoped that future studies will build on the new data linking vitamin D, microbiota and tumour surveillance to provide an entirely new perspective of vitamin D and adaptive immunity in the setting of cancer.
+Another study that has provided a new perspective on vitamin D and adaptive immunity is the report by Chauss et al. detailing complement- induced expression of CYP27B1 by Th1 cells from patients with COVID- 19 [101]. As outlined earlier in this review, this work described a new facet of immune intracrine vitamin D metabolism - the extension of CYP27B1 expression from the innate to the adaptive immune system. However, the report also revealed new facets of 1,25(OH)2D adaptive immune cell function, particularly in relation to SARS-CoV-2 infection, T cell inflammation and COVID-19 disease severity. By carrying out extensive genomic and epigenetic analyses, Chauss et al. showed that some key effects of 1,25(OH)2D on T cells, such as induction of IL-10, were dependent on paradoxical induction of another inflammatory cytokine, IL-6, and also the epigenetic induction of three key tran­scription factors - BACH2, c-JUN and STAT3- with BACH2 being particularly important for Th1 and Th17 responses to 1,25(OH)2D [101]. Specific analysis of gene expression in lung Th1 cells from COVID-19 patients versus healthy controls showed that expression of a group of genes conventionally suppressed by 1,25(OH)2D in Th1 cells from healthy controls was higher in Th1 cells from COVID-19 patients. By contrast, there was no significant difference in 1,25(OH)2D-induced genes between healthy controls and COVID-19 patients [101]. The set of 1,25(OH)2D-repressed genes identified in this study performed almost as well as signature Th1 genes in distinguishing Th cells from patients with COVID-19 from healthy controls [101]. Furthermore, modelling studies were carried out to predict the best therapeutic options for counter­acting aberrant gene expression in Th1 cells from COVID-19 patients. Out of 461 possible drugs the top ten predicted to most effective included the vitamin D analog (Alfacalcidol) [101].
+The studies outlined above provide a mechanistic rationale for the link between vitamin D and COVID-19 prognosis, with intracrine Th1 gene suppression by vitamin D being linked to attenuation of the in­flammatory responses associated with disease progression after COVID- 19 infection. Whilst much of our current understanding of vitamin D and the immune system stems from seminal studies of the intracrinology of vitamin D in antibacterial innate immunity [40] or antigen presentation [94], it is clear that anti-inflammatory adaptive immunity is also a crucial target for vitamin D. To date much of our knowledge of T cell responses to vitamin have arisen through analysis of dysregulated T cell function in autoimmune diseases, and the possible preventative or therapeutic application of vitamin D supplementation in resolving T cell dysfunction in these diseases [111]. However, the advent of SARS-CoV-2 infection has provided an entirely new perspective on vitamin D immunomodulation that is more focused on inflammation in the setting of acute viral infection. In this regard, vitamin D can be viewed in a similar fashion to the high profile analysis of glucocorticoids as therapy for patients hospitalized with COVID-19 [112]. Notably, one of the most successful applications of vitamin D in the setting of COVID-19 was the use of 25(OH)D (Calcifediol) as an anti-inflammatory agent in people hospitalized with COVID-19 [113]. In future studies it will be interesting to determine if Calcifediol is a more effective agent for correcting the aberrant Th1 cell gene sets that were so characteristic of COVD-19 pa­tients. Furthermore, the growing recognition of Calcifediol as a more rapid and effective strategy for ‘fuelling’ intracrine and paracrine 25 (OH)D metabolism within the immune system highlights an entirely new facet of vitamin D immunology, namely the potential impact of vitamin D in the setting of acute medicine. In this regard, vitamin D (including Calcifediol) has distinct advantages over more established anti-inflammatory therapeutics such as glucocorticoids. Both vitamin D and glucocorticoids have potent anti-inflammatory actions, and gluco­corticoids such as dexamethasone were shown to decrease mortality in hospitalized COVID-19 patients [112]. However, despite these positive effects, the use of glucocorticoids to treat viral infections such as COVID-19 is complicated by data showing that glucocorticoid therapy during early infection is actually associated with impaired viral clear­ance [114], possibly as a consequence of inhibition of type 1 interferon antiviral immunity [115]. Thus, it has been proposed that the use of glucocorticoids for viral infections is restricted to later stages of disease to prevent pathological damage in tissues such as the lungs [114]. Similar to glucocorticoids, vitamin D is a potent anti-inflammatory steroid hormone but it also promotes antiviral innate immunity. Thus, therapeutic use of vitamin D for infectious diseases is less constrained by the time-frame of disease than for glucocorticoids such as Dexamethasone.
+---
+!!!!!Study does not appear to mention that COVID reduces VDR activation
+*((COVID variants protect themselves by deactivating different VDR variants– March 2023))
+---
+!!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased in many ways
+{include page=&quot;Vitamin D Receptor&quot; start=&quot;~tc~ startact ~/tc~&quot; stop=&quot;~tc~ endact ~/tc~&quot;}
+---
+!!!!!~~#F06:11+~~  VitaminDWiki Virus pages have  50 AND NG in the title
+&#39;&#39;The list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;50&quot;}
+{filter categories=&quot;155&quot;}
+{filter field=&quot;title&quot; content=&quot;50 AND NG&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!!VitaminDWiki - ((Is 50 ng of vitamin D too high, just right, or not enough))
+
+</code>
+</pre>

@@ -1,0 +1,619 @@
+---
+title: "Alzheimer's risk factors (most of which are reduced by Vitamin D)"
+slug: "alzheimers-risk-factors-most-of-which-are-reduced-by-vitamin-d"
+aliases:
+  - "/Alzheimers+risk+factors+most+of+which+are+reduced+by+Vitamin+D+-+Jan+2025"
+  - "/15829"
+tiki_page_id: 15829
+date: 2025-02-14
+---
+
+
+{{< toc >}}
+
+---
+
+#### The Role of Genetic, Environmental, and Dietary Factors in Alzheimer’s Disease: A Narrative Review
+
+Int. J. Mol. Sci. 2025, 26(3), 1222; https://doi.org/10.3390/ijms26031222
+
+by Beyza Mertaş 1ORCID andİ. İpek Boşgelmez 2,*
+
+1 Department of Pharmacology, Faculty of Pharmacy, Düzce University, Düzce 81010, Türkiye
+
+2 Department of Toxicology, Faculty of Pharmacy, Erciyes University, Kayseri 38280, Türkiye
+
+##### Table of Contents
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/alz-risk-factors-toc.webp" alt="image" width="300">
+
+##### Increasing # of Alzheimer's publications
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/ad-pub-increasing.webp" alt="image" width="600">
+
+##### Health Problems that increase risk of AD are all associated with Vitamin D
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/ad-assocated-health-problems.webp" alt="image" width="800">
+
+##### Protection factors - - - - - - - - - Risk Factors
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/ad-factors.webp" alt="image" width="800">
+
+Alzheimer’s disease (AD) is one of the most common and severe forms of dementia and neurodegenerative disease. As life expectancy increases in line with developments in medicine, the elderly population is projected to increase in the next few decades; therefore, an increase in the prevalence of some diseases, such as AD, is also expected. As a result, until a radical treatment becomes available, AD is expected to be more frequently recorded as one of the top causes of death worldwide. Given the current lack of a cure for AD, and the only treatments available being ones that alleviate major symptoms, the identification of contributing factors that influence disease incidence is crucial. In this context, genetic and/or epigenetic factors, mainly environmental, disease-related, dietary, or combinations/interactions of these factors, are assessed. In this review, we conducted a literature search focusing on environmental factors such as air pollution, toxic elements, pesticides, and infectious agents, as well as dietary factors including various diets, vitamin D deficiency, social factors (e.g., tobacco and alcohol use), and variables that are affected by both environmental and genetic factors, such as dietary behavior and gut microbiota. We also evaluated studies on the beneficial effects of antibiotics and diets, such as the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) and Mediterranean diets.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/ad-preventions-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+##### Vitamin D Deficiency (clipped from PDF)
+
+In their meta-analysis, Shen and Ji <sup>[181]</sup> reported that participants with vitamin D deficiency (25-hydroxyvitamin D level  **< 50 nmol/L) had a 21% higher risk of developing AD**  compared to participants with normal levels of vitamin D (25(OH)D level > 50 nmol/L). The researchers stated that while more evidence is needed, current data show that vitamin D deficiency is associated with AD and dementia <sup>[181]</sup>. In a prospective cohort study, lower serum vitamin D levels were shown to exacerbate Ap-associated neurodegeneration, whereas higher levels may help reduce it in nondemented older adults <sup>[182]</sup>. 
+
+In a 12-year follow-up study, Feart et al. found that participants with 25-hydroxyvitamin D deficiency had almost  **three times more risk of developing AD**  and faster cognitive impairment. Also, researchers stated that there is a clear and significant link between vitamin D deficiency and AD, even more than for APOE e4; thus, maintaining 25-hydroxyvitamin D levels at 50 nmol/L or higher may be a viable approach to decrease the risk of AD and protect brain health <sup>[183]</sup>. 
+
+These studies have led researchers to evaluate the possible role of vitamin D supplements in improving memory and cognitive functions. Morello et al. have observed that vitamin D supplementation in the early stages of AD may help improve working memory in mice without decreasing astrogliosis, which is linked with Ap production or amyloid concentration <sup>[184]</sup>. Consistently, in the early stages of AD, vitamin D deficiency resulted in a remarkable elevation of amyloid plaques both in the cortex and the hip­pocampus, although, in later stages, this effect could not be seen. Furthermore, vitamin D supplements improved hippocampal neurogenesis, which is diminished in the early stages of AD, by considerably increasing cell proliferation in the dentate gyrus, resulting in an increase in the generation and differentiation of neural progenitor cells. In the later stages of AD, vitamin D deficiency severely reduced the growth and differentiation of neurons and cell proliferation, yet high levels of vitamin D supplementation could not improve neurogenesis and progenitor or stem cell proliferation in these stages <sup>[184]</sup>. 
+
+Also, a recent study suggested that vitamin D significantly inhibited both tau protein phosphorylation and Ap aggregation, while ameliorating cognitive performance in AD rats <sup>[185]</sup>. A study with 12,388 participants showed three forms of vitamin D (ergocalciferol, cholecalciferol, and calcium-vitamin D) intake were related to a 40% reduction in the prevalence of de­mentia. All three forms of vitamin D were effective in decreasing dementia risk with different percentages; meanwhile, no significant differences in HR across formulations were observed <sup>[186]</sup>, which was inconsistent with previous data stating that vitamin D3 is more efficacious at raising serum 25(OH)D concentrations than is vitamin D2 <sup>[187]</sup>. Inter­estingly, while vitamin D intake lowered the dementia risk of both APOE e4 carriers and non-carriers, a more prominent effect was shown with non-carriers <sup>[186]</sup>.
+
+On the contrary, the results of an animal model and human cohort study caution against prolonged use of vitamin D by AD patients <sup>[188]</sup>. In the population-based lon­gitudinal study part, vitamin D3 supplementation for over 146 days/year was reported to lead to 2.17 times the risk of mortality among participants with pre-existing dementia.
+
+ **Dementia-free participants taking vitamin D3 supplements over the same duration were 1.8 times more likely to develop dementia than those not taking the supplements.**  In the APP/PS1 mice model, vitamin D supplementation increased Ap deposition, exacerbated AD, and enhanced non-genomic vitamin D receptor/p53 complex in AD brains.  **Thus, it was suggested that vitamin D deficiency may be an early feature or an outcome of AD rather than a cause**  <sup>[188]</sup>. In addition, as vitamin D receptor gene polymorphisms could affect the response to vitamin D supplementation, the supplement's effectiveness may differ across individuals, potentially limiting its applicability <sup>[189]</sup>.
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}}
+
+---
+
+#### The Role of Genetic, Environmental, and Dietary Factors in Alzheimer’s Disease: A Narrative Review
+
+Int. J. Mol. Sci. 2025, 26(3), 1222; https://doi.org/10.3390/ijms26031222
+
+by Beyza Mertaş 1ORCID andİ. İpek Boşgelmez 2,*
+
+1 Department of Pharmacology, Faculty of Pharmacy, Düzce University, Düzce 81010, Türkiye
+
+2 Department of Toxicology, Faculty of Pharmacy, Erciyes University, Kayseri 38280, Türkiye
+
+##### Table of Contents
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/alz-risk-factors-toc.webp&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
+
+##### Increasing # of Alzheimer&#39;s publications
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/ad-pub-increasing.webp&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+##### Health Problems that increase risk of AD are all associated with Vitamin D
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/ad-assocated-health-problems.webp&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
+
+##### Protection factors - - - - - - - - - Risk Factors
+
+&lt;img src=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/ad-factors.webp&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
+
+Alzheimer’s disease (AD) is one of the most common and severe forms of dementia and neurodegenerative disease. As life expectancy increases in line with developments in medicine, the elderly population is projected to increase in the next few decades; therefore, an increase in the prevalence of some diseases, such as AD, is also expected. As a result, until a radical treatment becomes available, AD is expected to be more frequently recorded as one of the top causes of death worldwide. Given the current lack of a cure for AD, and the only treatments available being ones that alleviate major symptoms, the identification of contributing factors that influence disease incidence is crucial. In this context, genetic and/or epigenetic factors, mainly environmental, disease-related, dietary, or combinations/interactions of these factors, are assessed. In this review, we conducted a literature search focusing on environmental factors such as air pollution, toxic elements, pesticides, and infectious agents, as well as dietary factors including various diets, vitamin D deficiency, social factors (e.g., tobacco and alcohol use), and variables that are affected by both environmental and genetic factors, such as dietary behavior and gut microbiota. We also evaluated studies on the beneficial effects of antibiotics and diets, such as the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) and Mediterranean diets.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/ad-preventions-compresspdf.pdf&quot;&gt;Download the PDF from VitaminDWiki &lt;/a&gt;** 
+
+---
+
+##### Vitamin D Deficiency (clipped from PDF)
+
+In their meta-analysis, Shen and Ji &lt;sup&gt;[181]&lt;/sup&gt; reported that participants with vitamin D deficiency (25-hydroxyvitamin D level  **&lt; 50 nmol/L) had a 21% higher risk of developing AD**  compared to participants with normal levels of vitamin D (25(OH)D level &gt; 50 nmol/L). The researchers stated that while more evidence is needed, current data show that vitamin D deficiency is associated with AD and dementia &lt;sup&gt;[181]&lt;/sup&gt;. In a prospective cohort study, lower serum vitamin D levels were shown to exacerbate Ap-associated neurodegeneration, whereas higher levels may help reduce it in nondemented older adults &lt;sup&gt;[182]&lt;/sup&gt;. 
+
+In a 12-year follow-up study, Feart et al. found that participants with 25-hydroxyvitamin D deficiency had almost  **three times more risk of developing AD**  and faster cognitive impairment. Also, researchers stated that there is a clear and significant link between vitamin D deficiency and AD, even more than for APOE e4; thus, maintaining 25-hydroxyvitamin D levels at 50 nmol/L or higher may be a viable approach to decrease the risk of AD and protect brain health &lt;sup&gt;[183]&lt;/sup&gt;. 
+
+These studies have led researchers to evaluate the possible role of vitamin D supplements in improving memory and cognitive functions. Morello et al. have observed that vitamin D supplementation in the early stages of AD may help improve working memory in mice without decreasing astrogliosis, which is linked with Ap production or amyloid concentration &lt;sup&gt;[184]&lt;/sup&gt;. Consistently, in the early stages of AD, vitamin D deficiency resulted in a remarkable elevation of amyloid plaques both in the cortex and the hip­pocampus, although, in later stages, this effect could not be seen. Furthermore, vitamin D supplements improved hippocampal neurogenesis, which is diminished in the early stages of AD, by considerably increasing cell proliferation in the dentate gyrus, resulting in an increase in the generation and differentiation of neural progenitor cells. In the later stages of AD, vitamin D deficiency severely reduced the growth and differentiation of neurons and cell proliferation, yet high levels of vitamin D supplementation could not improve neurogenesis and progenitor or stem cell proliferation in these stages &lt;sup&gt;[184]&lt;/sup&gt;. 
+
+Also, a recent study suggested that vitamin D significantly inhibited both tau protein phosphorylation and Ap aggregation, while ameliorating cognitive performance in AD rats &lt;sup&gt;[185]&lt;/sup&gt;. A study with 12,388 participants showed three forms of vitamin D (ergocalciferol, cholecalciferol, and calcium-vitamin D) intake were related to a 40% reduction in the prevalence of de­mentia. All three forms of vitamin D were effective in decreasing dementia risk with different percentages; meanwhile, no significant differences in HR across formulations were observed &lt;sup&gt;[186]&lt;/sup&gt;, which was inconsistent with previous data stating that vitamin D3 is more efficacious at raising serum 25(OH)D concentrations than is vitamin D2 &lt;sup&gt;[187]&lt;/sup&gt;. Inter­estingly, while vitamin D intake lowered the dementia risk of both APOE e4 carriers and non-carriers, a more prominent effect was shown with non-carriers &lt;sup&gt;[186]&lt;/sup&gt;.
+
+On the contrary, the results of an animal model and human cohort study caution against prolonged use of vitamin D by AD patients &lt;sup&gt;[188]&lt;/sup&gt;. In the population-based lon­gitudinal study part, vitamin D3 supplementation for over 146 days/year was reported to lead to 2.17 times the risk of mortality among participants with pre-existing dementia.
+
+ **Dementia-free participants taking vitamin D3 supplements over the same duration were 1.8 times more likely to develop dementia than those not taking the supplements.**  In the APP/PS1 mice model, vitamin D supplementation increased Ap deposition, exacerbated AD, and enhanced non-genomic vitamin D receptor/p53 complex in AD brains.  **Thus, it was suggested that vitamin D deficiency may be an early feature or an outcome of AD rather than a cause**  &lt;sup&gt;[188]&lt;/sup&gt;. In addition, as vitamin D receptor gene polymorphisms could affect the response to vitamin D supplementation, the supplement&#39;s effectiveness may differ across individuals, potentially limiting its applicability &lt;sup&gt;[189]&lt;/sup&gt;.
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!The Role of Genetic, Environmental, and Dietary Factors in Alzheimer’s Disease: A Narrative Review`
+│   inner_content: `The Role of Genetic, Environmental, and Dietary Factors in Alzheimer’s Disease: A Narrative Review`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The Role of Genetic, Environmental, and Dietary Factors in Alzheimer’s Disease: A Narrative Review`
+│   │   inner_content: `The Role of Genetic, Environmental, and Dietary Factors in Alzheimer’s Disease: A Narrative Review`├── TextNode
+│   full_match: `\nInt. J. Mol. Sci. 2025, 26(3), 1222; https://doi.org/10.3390/ijms26031222\nby Beyza Mertaş 1ORCID andİ. İpek Boşgelmez 2,*\n1 Department of Pharmacology, Faculty of Pharmacy, Düzce University, Düzce 81010, Türkiye\n2 Department of Toxicology, Faculty of Pharmacy, Erciyes University, Kayseri 38280, Türkiye\n`
+│   inner_content: `\nInt. J. Mol. Sci. 2025, 26(3), 1222; https://doi.org/10.3390/ijms26031222\nby Beyza Mertaş 1ORCID andİ. İpek Boşgelmez 2,*\n1 Department of Pharmacology, Faculty of Pharmacy, Düzce University, Düzce 81010, Türkiye\n2 Department of Toxicology, Faculty of Pharmacy, Erciyes University, Kayseri 38280, Türkiye\n`├── HeadingNode
+│   full_match: `\n!!!!!Table of Contents`
+│   inner_content: `Table of Contents`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Table of Contents`
+│   │   inner_content: `Table of Contents`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22276&quot; width=&quot;300&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22276&quot; width=&quot;300&quot;
+│   │   type: attId
+│   │   attId: 22276
+│   │   width: 300├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!Increasing # of Alzheimer&#39;s publications`
+│   inner_content: `Increasing # of Alzheimer&#39;s publications`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Increasing # of Alzheimer&#39;s publications`
+│   │   inner_content: `Increasing # of Alzheimer&#39;s publications`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22277&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22277&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 22277
+│   │   width: 600├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!Health Problems that increase risk of AD are all associated with Vitamin D`
+│   inner_content: `Health Problems that increase risk of AD are all associated with Vitamin D`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Health Problems that increase risk of AD are all associated with Vitamin D`
+│   │   inner_content: `Health Problems that increase risk of AD are all associated with Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22278&quot; width=&quot;800&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22278&quot; width=&quot;800&quot;
+│   │   type: attId
+│   │   attId: 22278
+│   │   width: 800├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!Protection factors - - - - - - - - - Risk Factors`
+│   inner_content: `Protection factors - - - - - - - - - Risk Factors`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Protection factors - - - - - - - - - Risk Factors`
+│   │   inner_content: `Protection factors - - - - - - - - - Risk Factors`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;22279&quot; width=&quot;800&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;22279&quot; width=&quot;800&quot;
+│   │   type: attId
+│   │   attId: 22279
+│   │   width: 800├── TextNode
+│   full_match: `\nAlzheimer’s disease (AD) is one of the most common and severe forms of dementia and neurodegenerative disease. As life expectancy increases in line with developments in medicine, the elderly population is projected to increase in the next few decades; therefore, an increase in the prevalence of some diseases, such as AD, is also expected. As a result, until a radical treatment becomes available, AD is expected to be more frequently recorded as one of the top causes of death worldwide. Given the current lack of a cure for AD, and the only treatments available being ones that alleviate major symptoms, the identification of contributing factors that influence disease incidence is crucial. In this context, genetic and/or epigenetic factors, mainly environmental, disease-related, dietary, or combinations/interactions of these factors, are assessed. In this review, we conducted a literature search focusing on environmental factors such as air pollution, toxic elements, pesticides, and infectious agents, as well as dietary factors including various diets, vitamin D deficiency, social factors (e.g., tobacco and alcohol use), and variables that are affected by both environmental and genetic factors, such as dietary behavior and gut microbiota. We also evaluated studies on the beneficial effects of antibiotics and diets, such as the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) and Mediterranean diets.\n`
+│   inner_content: `\nAlzheimer’s disease (AD) is one of the most common and severe forms of dementia and neurodegenerative disease. As life expectancy increases in line with developments in medicine, the elderly population is projected to increase in the next few decades; therefore, an increase in the prevalence of some diseases, such as AD, is also expected. As a result, until a radical treatment becomes available, AD is expected to be more frequently recorded as one of the top causes of death worldwide. Given the current lack of a cure for AD, and the only treatments available being ones that alleviate major symptoms, the identification of contributing factors that influence disease incidence is crucial. In this context, genetic and/or epigenetic factors, mainly environmental, disease-related, dietary, or combinations/interactions of these factors, are assessed. In this review, we conducted a literature search focusing on environmental factors such as air pollution, toxic elements, pesticides, and infectious agents, as well as dietary factors including various diets, vitamin D deficiency, social factors (e.g., tobacco and alcohol use), and variables that are affected by both environmental and genetic factors, such as dietary behavior and gut microbiota. We also evaluated studies on the beneficial effects of antibiotics and diets, such as the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) and Mediterranean diets.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22275&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;22275&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;17&quot;
+│   │   size: 17
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;22275&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;22275&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;22275&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;22275&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 22275
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!Vitamin D Deficiency (clipped from PDF)`
+│   inner_content: `Vitamin D Deficiency (clipped from PDF)`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D Deficiency (clipped from PDF)`
+│   │   inner_content: `Vitamin D Deficiency (clipped from PDF)`├── TextNode
+│   full_match: `\nIn their meta-analysis, Shen and Ji `
+│   inner_content: `\nIn their meta-analysis, Shen and Ji `├── LinkNode
+│   full_match: `[181]`
+│   inner_content: `181`
+│   url: `181`
+│   children:
+│   ├── TextNode
+│   │   full_match: `181`
+│   │   inner_content: `181`├── TextNode
+│   full_match: ` reported that participants with vitamin D deficiency (25-hydroxyvitamin D level `
+│   inner_content: ` reported that participants with vitamin D deficiency (25-hydroxyvitamin D level `├── BoldNode
+│   full_match: `__&lt; 50 nmol/L) had a 21% higher risk of developing AD__`
+│   inner_content: `&lt; 50 nmol/L) had a 21% higher risk of developing AD`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&lt; 50 nmol/L) had a 21% higher risk of developing AD`
+│   │   inner_content: `&lt; 50 nmol/L) had a 21% higher risk of developing AD`├── TextNode
+│   full_match: ` compared to participants with normal levels of vitamin D (25(OH)D level &gt; 50 nmol/L). The researchers stated that while more evidence is needed, current data show that vitamin D deficiency is associated with AD and dementia `
+│   inner_content: ` compared to participants with normal levels of vitamin D (25(OH)D level &gt; 50 nmol/L). The researchers stated that while more evidence is needed, current data show that vitamin D deficiency is associated with AD and dementia `├── LinkNode
+│   full_match: `[181]`
+│   inner_content: `181`
+│   url: `181`
+│   children:
+│   ├── TextNode
+│   │   full_match: `181`
+│   │   inner_content: `181`├── TextNode
+│   full_match: `. In a prospective cohort study, lower serum vitamin D levels were shown to exacerbate Ap-associated neurodegeneration, whereas higher levels may help reduce it in nondemented older adults `
+│   inner_content: `. In a prospective cohort study, lower serum vitamin D levels were shown to exacerbate Ap-associated neurodegeneration, whereas higher levels may help reduce it in nondemented older adults `├── LinkNode
+│   full_match: `[182]`
+│   inner_content: `182`
+│   url: `182`
+│   children:
+│   ├── TextNode
+│   │   full_match: `182`
+│   │   inner_content: `182`├── TextNode
+│   full_match: `. \nIn a 12-year follow-up study, Feart et al. found that participants with 25-hydroxyvitamin D deficiency had almost `
+│   inner_content: `. \nIn a 12-year follow-up study, Feart et al. found that participants with 25-hydroxyvitamin D deficiency had almost `├── BoldNode
+│   full_match: `__three times more risk of developing AD__`
+│   inner_content: `three times more risk of developing AD`
+│   children:
+│   ├── TextNode
+│   │   full_match: `three times more risk of developing AD`
+│   │   inner_content: `three times more risk of developing AD`├── TextNode
+│   full_match: ` and faster cognitive impairment. Also, researchers stated that there is a clear and significant link between vitamin D deficiency and AD, even more than for APOE e4; thus, maintaining 25-hydroxyvitamin D levels at 50 nmol/L or higher may be a viable approach to decrease the risk of AD and protect brain health `
+│   inner_content: ` and faster cognitive impairment. Also, researchers stated that there is a clear and significant link between vitamin D deficiency and AD, even more than for APOE e4; thus, maintaining 25-hydroxyvitamin D levels at 50 nmol/L or higher may be a viable approach to decrease the risk of AD and protect brain health `├── LinkNode
+│   full_match: `[183]`
+│   inner_content: `183`
+│   url: `183`
+│   children:
+│   ├── TextNode
+│   │   full_match: `183`
+│   │   inner_content: `183`├── TextNode
+│   full_match: `. \nThese studies have led researchers to evaluate the possible role of vitamin D supplements in improving memory and cognitive functions. Morello et al. have observed that vitamin D supplementation in the early stages of AD may help improve working memory in mice without decreasing astrogliosis, which is linked with Ap production or amyloid concentration `
+│   inner_content: `. \nThese studies have led researchers to evaluate the possible role of vitamin D supplements in improving memory and cognitive functions. Morello et al. have observed that vitamin D supplementation in the early stages of AD may help improve working memory in mice without decreasing astrogliosis, which is linked with Ap production or amyloid concentration `├── LinkNode
+│   full_match: `[184]`
+│   inner_content: `184`
+│   url: `184`
+│   children:
+│   ├── TextNode
+│   │   full_match: `184`
+│   │   inner_content: `184`├── TextNode
+│   full_match: `. Consistently, in the early stages of AD, vitamin D deficiency resulted in a remarkable elevation of amyloid plaques both in the cortex and the hip­pocampus, although, in later stages, this effect could not be seen. Furthermore, vitamin D supplements improved hippocampal neurogenesis, which is diminished in the early stages of AD, by considerably increasing cell proliferation in the dentate gyrus, resulting in an increase in the generation and differentiation of neural progenitor cells. In the later stages of AD, vitamin D deficiency severely reduced the growth and differentiation of neurons and cell proliferation, yet high levels of vitamin D supplementation could not improve neurogenesis and progenitor or stem cell proliferation in these stages `
+│   inner_content: `. Consistently, in the early stages of AD, vitamin D deficiency resulted in a remarkable elevation of amyloid plaques both in the cortex and the hip­pocampus, although, in later stages, this effect could not be seen. Furthermore, vitamin D supplements improved hippocampal neurogenesis, which is diminished in the early stages of AD, by considerably increasing cell proliferation in the dentate gyrus, resulting in an increase in the generation and differentiation of neural progenitor cells. In the later stages of AD, vitamin D deficiency severely reduced the growth and differentiation of neurons and cell proliferation, yet high levels of vitamin D supplementation could not improve neurogenesis and progenitor or stem cell proliferation in these stages `├── LinkNode
+│   full_match: `[184]`
+│   inner_content: `184`
+│   url: `184`
+│   children:
+│   ├── TextNode
+│   │   full_match: `184`
+│   │   inner_content: `184`├── TextNode
+│   full_match: `. \nAlso, a recent study suggested that vitamin D significantly inhibited both tau protein phosphorylation and Ap aggregation, while ameliorating cognitive performance in AD rats `
+│   inner_content: `. \nAlso, a recent study suggested that vitamin D significantly inhibited both tau protein phosphorylation and Ap aggregation, while ameliorating cognitive performance in AD rats `├── LinkNode
+│   full_match: `[185]`
+│   inner_content: `185`
+│   url: `185`
+│   children:
+│   ├── TextNode
+│   │   full_match: `185`
+│   │   inner_content: `185`├── TextNode
+│   full_match: `. A study with 12,388 participants showed three forms of vitamin D (ergocalciferol, cholecalciferol, and calcium-vitamin D) intake were related to a 40% reduction in the prevalence of de­mentia. All three forms of vitamin D were effective in decreasing dementia risk with different percentages; meanwhile, no significant differences in HR across formulations were observed `
+│   inner_content: `. A study with 12,388 participants showed three forms of vitamin D (ergocalciferol, cholecalciferol, and calcium-vitamin D) intake were related to a 40% reduction in the prevalence of de­mentia. All three forms of vitamin D were effective in decreasing dementia risk with different percentages; meanwhile, no significant differences in HR across formulations were observed `├── LinkNode
+│   full_match: `[186]`
+│   inner_content: `186`
+│   url: `186`
+│   children:
+│   ├── TextNode
+│   │   full_match: `186`
+│   │   inner_content: `186`├── TextNode
+│   full_match: `, which was inconsistent with previous data stating that vitamin D3 is more efficacious at raising serum 25(OH)D concentrations than is vitamin D2 `
+│   inner_content: `, which was inconsistent with previous data stating that vitamin D3 is more efficacious at raising serum 25(OH)D concentrations than is vitamin D2 `├── LinkNode
+│   full_match: `[187]`
+│   inner_content: `187`
+│   url: `187`
+│   children:
+│   ├── TextNode
+│   │   full_match: `187`
+│   │   inner_content: `187`├── TextNode
+│   full_match: `. Inter­estingly, while vitamin D intake lowered the dementia risk of both APOE e4 carriers and non-carriers, a more prominent effect was shown with non-carriers `
+│   inner_content: `. Inter­estingly, while vitamin D intake lowered the dementia risk of both APOE e4 carriers and non-carriers, a more prominent effect was shown with non-carriers `├── LinkNode
+│   full_match: `[186]`
+│   inner_content: `186`
+│   url: `186`
+│   children:
+│   ├── TextNode
+│   │   full_match: `186`
+│   │   inner_content: `186`├── TextNode
+│   full_match: `.\nOn the contrary, the results of an animal model and human cohort study caution against prolonged use of vitamin D by AD patients `
+│   inner_content: `.\nOn the contrary, the results of an animal model and human cohort study caution against prolonged use of vitamin D by AD patients `├── LinkNode
+│   full_match: `[188]`
+│   inner_content: `188`
+│   url: `188`
+│   children:
+│   ├── TextNode
+│   │   full_match: `188`
+│   │   inner_content: `188`├── TextNode
+│   full_match: `. In the population-based lon­gitudinal study part, vitamin D3 supplementation for over 146 days/year was reported to lead to 2.17 times the risk of mortality among participants with pre-existing dementia.\n`
+│   inner_content: `. In the population-based lon­gitudinal study part, vitamin D3 supplementation for over 146 days/year was reported to lead to 2.17 times the risk of mortality among participants with pre-existing dementia.\n`├── BoldNode
+│   full_match: `__Dementia-free participants taking vitamin D3 supplements over the same duration were 1.8 times more likely to develop dementia than those not taking the supplements.__`
+│   inner_content: `Dementia-free participants taking vitamin D3 supplements over the same duration were 1.8 times more likely to develop dementia than those not taking the supplements.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Dementia-free participants taking vitamin D3 supplements over the same duration were 1.8 times more likely to develop dementia than those not taking the supplements.`
+│   │   inner_content: `Dementia-free participants taking vitamin D3 supplements over the same duration were 1.8 times more likely to develop dementia than those not taking the supplements.`├── TextNode
+│   full_match: ` In the APP/PS1 mice model, vitamin D supplementation increased Ap deposition, exacerbated AD, and enhanced non-genomic vitamin D receptor/p53 complex in AD brains. `
+│   inner_content: ` In the APP/PS1 mice model, vitamin D supplementation increased Ap deposition, exacerbated AD, and enhanced non-genomic vitamin D receptor/p53 complex in AD brains. `├── BoldNode
+│   full_match: `__Thus, it was suggested that vitamin D deficiency may be an early feature or an outcome of AD rather than a cause__`
+│   inner_content: `Thus, it was suggested that vitamin D deficiency may be an early feature or an outcome of AD rather than a cause`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Thus, it was suggested that vitamin D deficiency may be an early feature or an outcome of AD rather than a cause`
+│   │   inner_content: `Thus, it was suggested that vitamin D deficiency may be an early feature or an outcome of AD rather than a cause`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── LinkNode
+│   full_match: `[188]`
+│   inner_content: `188`
+│   url: `188`
+│   children:
+│   ├── TextNode
+│   │   full_match: `188`
+│   │   inner_content: `188`├── TextNode
+│   full_match: `. In addition, as vitamin D receptor gene polymorphisms could affect the response to vitamin D supplementation, the supplement&#39;s effectiveness may differ across individuals, potentially limiting its applicability `
+│   inner_content: `. In addition, as vitamin D receptor gene polymorphisms could affect the response to vitamin D supplementation, the supplement&#39;s effectiveness may differ across individuals, potentially limiting its applicability `├── LinkNode
+│   full_match: `[189]`
+│   inner_content: `189`
+│   url: `189`
+│   children:
+│   ├── TextNode
+│   │   full_match: `189`
+│   │   inner_content: `189`├── TextNode
+│   full_match: `.`
+│   inner_content: `.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains:`
+│   inner_content: `VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Alzheimer&#39;s-Cognition and Vitamin D))`
+│   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
+│   │   page: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
+│   │   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains:`
+│   │   inner_content: ` contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Alzheimer&#39;s-Cognition and Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Alzheimer’s Is Now Optional - Bredesen Feb 2025))`
+│   inner_content: `VitaminDWiki – ((Alzheimer’s Is Now Optional - Bredesen Feb 2025))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Alzheimer’s Is Now Optional - Bredesen Feb 2025))`
+│   │   inner_content: `Alzheimer’s Is Now Optional - Bredesen Feb 2025`
+│   │   page: `Alzheimer’s Is Now Optional - Bredesen Feb 2025`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Alzheimer’s Is Now Optional - Bredesen Feb 2025`
+│   │   │   inner_content: `Alzheimer’s Is Now Optional - Bredesen Feb 2025`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - transcript Dr. Grant March 2023))`
+│   inner_content: `VitaminDWiki – ((The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - transcript Dr. Grant March 2023))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - transcript Dr. Grant March 2023))`
+│   │   inner_content: `The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - transcript Dr. Grant March 2023`
+│   │   page: `The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - transcript Dr. Grant March 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - transcript Dr. Grant March 2023`
+│   │   │   inner_content: `The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - transcript Dr. Grant March 2023`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Smoking reduces vitamin D - many studies))`
+│   inner_content: `VitaminDWiki – ((Smoking reduces vitamin D - many studies))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Smoking reduces vitamin D - many studies))`
+│   │   inner_content: `Smoking reduces vitamin D - many studies`
+│   │   page: `Smoking reduces vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Smoking reduces vitamin D - many studies`
+│   │   │   inner_content: `Smoking reduces vitamin D - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Air Pollution reduces Vitamin D production - many studies))`
+│   inner_content: `VitaminDWiki – ((Air Pollution reduces Vitamin D production - many studies))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Air Pollution reduces Vitamin D production - many studies))`
+│   │   inner_content: `Air Pollution reduces Vitamin D production - many studies`
+│   │   page: `Air Pollution reduces Vitamin D production - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Air Pollution reduces Vitamin D production - many studies`
+│   │   │   inner_content: `Air Pollution reduces Vitamin D production - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Overview Alcohol and Vitamin D))`
+│   inner_content: `VitaminDWiki – ((Overview Alcohol and Vitamin D))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Alcohol and Vitamin D))`
+│   │   inner_content: `Overview Alcohol and Vitamin D`
+│   │   page: `Overview Alcohol and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Alcohol and Vitamin D`
+│   │   │   inner_content: `Overview Alcohol and Vitamin D`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016))`
+│   inner_content: `VitaminDWiki – ((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016))`
+│   │   inner_content: `Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016`
+│   │   page: `Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016`
+│   │   │   inner_content: `Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Microplastics causing problems in most life forms (Vitamin D might help)- many studies))`
+│   inner_content: `VitaminDWiki – ((Microplastics causing problems in most life forms (Vitamin D might help)- many studies))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Microplastics causing problems in most life forms (Vitamin D might help)- many studies))`
+│   │   inner_content: `Microplastics causing problems in most life forms (Vitamin D might help)- many studies`
+│   │   page: `Microplastics causing problems in most life forms (Vitamin D might help)- many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Microplastics causing problems in most life forms (Vitamin D might help)- many studies`
+│   │   │   inner_content: `Microplastics causing problems in most life forms (Vitamin D might help)- many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Plastics, BPA, PCB and Vitamin D deficiency))`
+│   inner_content: `VitaminDWiki – ((Plastics, BPA, PCB and Vitamin D deficiency))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Plastics, BPA, PCB and Vitamin D deficiency))`
+│   │   inner_content: `Plastics, BPA, PCB and Vitamin D deficiency`
+│   │   page: `Plastics, BPA, PCB and Vitamin D deficiency`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Plastics, BPA, PCB and Vitamin D deficiency`
+│   │   │   inner_content: `Plastics, BPA, PCB and Vitamin D deficiency`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!The Role of Genetic, Environmental, and Dietary Factors in Alzheimer’s Disease: A Narrative Review
+Int. J. Mol. Sci. 2025, 26(3), 1222; https://doi.org/10.3390/ijms26031222
+by Beyza Mertaş 1ORCID andİ. İpek Boşgelmez 2,*
+1 Department of Pharmacology, Faculty of Pharmacy, Düzce University, Düzce 81010, Türkiye
+2 Department of Toxicology, Faculty of Pharmacy, Erciyes University, Kayseri 38280, Türkiye
+
+!!!!!Table of Contents
+{img type=&quot;attId&quot; attId=&quot;22276&quot; width=&quot;300&quot;}
+!!!!!Increasing # of Alzheimer&#39;s publications
+{img type=&quot;attId&quot; attId=&quot;22277&quot; width=&quot;600&quot;}
+!!!!!Health Problems that increase risk of AD are all associated with Vitamin D
+{img type=&quot;attId&quot; attId=&quot;22278&quot; width=&quot;800&quot;}
+!!!!!Protection factors - - - - - - - - - Risk Factors
+{img type=&quot;attId&quot; attId=&quot;22279&quot; width=&quot;800&quot;}
+Alzheimer’s disease (AD) is one of the most common and severe forms of dementia and neurodegenerative disease. As life expectancy increases in line with developments in medicine, the elderly population is projected to increase in the next few decades; therefore, an increase in the prevalence of some diseases, such as AD, is also expected. As a result, until a radical treatment becomes available, AD is expected to be more frequently recorded as one of the top causes of death worldwide. Given the current lack of a cure for AD, and the only treatments available being ones that alleviate major symptoms, the identification of contributing factors that influence disease incidence is crucial. In this context, genetic and/or epigenetic factors, mainly environmental, disease-related, dietary, or combinations/interactions of these factors, are assessed. In this review, we conducted a literature search focusing on environmental factors such as air pollution, toxic elements, pesticides, and infectious agents, as well as dietary factors including various diets, vitamin D deficiency, social factors (e.g., tobacco and alcohol use), and variables that are affected by both environmental and genetic factors, such as dietary behavior and gut microbiota. We also evaluated studies on the beneficial effects of antibiotics and diets, such as the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) and Mediterranean diets.
+{FONT(size=&quot;17&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;22275&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!!Vitamin D Deficiency (clipped from PDF)
+In their meta-analysis, Shen and Ji [181] reported that participants with vitamin D deficiency (25-hydroxyvitamin D level __&lt; 50 nmol/L) had a 21% higher risk of developing AD__ compared to participants with normal levels of vitamin D (25(OH)D level &gt; 50 nmol/L). The researchers stated that while more evidence is needed, current data show that vitamin D deficiency is associated with AD and dementia [181]. In a prospective cohort study, lower serum vitamin D levels were shown to exacerbate Ap-associated neurodegeneration, whereas higher levels may help reduce it in nondemented older adults [182]. 
+In a 12-year follow-up study, Feart et al. found that participants with 25-hydroxyvitamin D deficiency had almost __three times more risk of developing AD__ and faster cognitive impairment. Also, researchers stated that there is a clear and significant link between vitamin D deficiency and AD, even more than for APOE e4; thus, maintaining 25-hydroxyvitamin D levels at 50 nmol/L or higher may be a viable approach to decrease the risk of AD and protect brain health [183]. 
+These studies have led researchers to evaluate the possible role of vitamin D supplements in improving memory and cognitive functions. Morello et al. have observed that vitamin D supplementation in the early stages of AD may help improve working memory in mice without decreasing astrogliosis, which is linked with Ap production or amyloid concentration [184]. Consistently, in the early stages of AD, vitamin D deficiency resulted in a remarkable elevation of amyloid plaques both in the cortex and the hip­pocampus, although, in later stages, this effect could not be seen. Furthermore, vitamin D supplements improved hippocampal neurogenesis, which is diminished in the early stages of AD, by considerably increasing cell proliferation in the dentate gyrus, resulting in an increase in the generation and differentiation of neural progenitor cells. In the later stages of AD, vitamin D deficiency severely reduced the growth and differentiation of neurons and cell proliferation, yet high levels of vitamin D supplementation could not improve neurogenesis and progenitor or stem cell proliferation in these stages [184]. 
+Also, a recent study suggested that vitamin D significantly inhibited both tau protein phosphorylation and Ap aggregation, while ameliorating cognitive performance in AD rats [185]. A study with 12,388 participants showed three forms of vitamin D (ergocalciferol, cholecalciferol, and calcium-vitamin D) intake were related to a 40% reduction in the prevalence of de­mentia. All three forms of vitamin D were effective in decreasing dementia risk with different percentages; meanwhile, no significant differences in HR across formulations were observed [186], which was inconsistent with previous data stating that vitamin D3 is more efficacious at raising serum 25(OH)D concentrations than is vitamin D2 [187]. Inter­estingly, while vitamin D intake lowered the dementia risk of both APOE e4 carriers and non-carriers, a more prominent effect was shown with non-carriers [186].
+On the contrary, the results of an animal model and human cohort study caution against prolonged use of vitamin D by AD patients [188]. In the population-based lon­gitudinal study part, vitamin D3 supplementation for over 146 days/year was reported to lead to 2.17 times the risk of mortality among participants with pre-existing dementia.
+__Dementia-free participants taking vitamin D3 supplements over the same duration were 1.8 times more likely to develop dementia than those not taking the supplements.__ In the APP/PS1 mice model, vitamin D supplementation increased Ap deposition, exacerbated AD, and enhanced non-genomic vitamin D receptor/p53 complex in AD brains. __Thus, it was suggested that vitamin D deficiency may be an early feature or an outcome of AD rather than a cause__ [188]. In addition, as vitamin D receptor gene polymorphisms could affect the response to vitamin D supplementation, the supplement&#39;s effectiveness may differ across individuals, potentially limiting its applicability [189].
+---
+!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains:
+{include page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Alzheimer’s Is Now Optional - Bredesen Feb 2025))
+---
+!!!!VitaminDWiki – ((The Role of Vitamin D in Reducing Risk of Alzheimer’s and Dementia - transcript Dr. Grant March 2023))
+---
+!!!!VitaminDWiki – ((Smoking reduces vitamin D - many studies))
+---
+!!!!VitaminDWiki – ((Air Pollution reduces Vitamin D production - many studies))
+---
+!!!!VitaminDWiki – ((Overview Alcohol and Vitamin D))
+---
+!!!!VitaminDWiki – ((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016))
+---
+!!!!VitaminDWiki – ((Microplastics causing problems in most life forms (Vitamin D might help)- many studies))
+---
+!!!!VitaminDWiki – ((Plastics, BPA, PCB and Vitamin D deficiency))
+
+</code>
+</pre>
