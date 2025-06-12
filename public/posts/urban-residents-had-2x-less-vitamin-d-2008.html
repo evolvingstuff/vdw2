@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Urban residents had 2X less vitamin D – 2008</title>
+<link rel=stylesheet href="/css/main.css?v=1749770022"><link rel=stylesheet href="/css/pagination.css?v=1749770022"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770022"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Urban residents had 2X less vitamin D – 2008</h1><time>May 27, 2011</time><h4 id=urban-tropospheric-ozone-increases-the-prevalence-of-vitamin-d-deficiency-among-belgian-postmenopausal-women-with-outdoor-activities-during-summer>Urban Tropospheric Ozone Increases the Prevalence of Vitamin D Deficiency among Belgian Postmenopausal Women with Outdoor Activities during Summer</h4><p>Daniel-Henri Manicourt <a href=mailto:manicourt@bchm.ucl.ac.be>manicourt@bchm.ucl.ac.be</a> and Jean-Pierre Devogelaer</p><p>Department of Rheumatology (D.-H.M., J.-P.D.), St. Luc University Hospital, and Christian de Duve Institute of Cellular Pathology (D.H.M), Université Catholique de Louvain, 1200 Brussels, Belgium</p><p>Context: By absorbing sunlight UVB and thereby reducing cutaneous vitamin D photosynthesis, ozone, a common urban pollutant, could cause hypovitaminosis D.</p><p>Objectives: The objective of the study was to establish the characteristics and percentage of subjects with serum 25-hydroxyvitamin D <span>[25(OH)D]</span> less than 75 nmol/liter among postmenopausal women engaging in outdoor activities in either Brussels or the countryside.</p><p>Design/Setting: This was a cross-sectional study conducted in a university research hospital.</p><p>Patients/Methods: Among 249 women consulting for either shoulder tendonitis or lumbar spine osteoarthritis, 121 free of conditions and drugs affecting bone and calcium metabolism completed two food-frequency questionnaires within 15 d and we selected the 85 subjects with retest scores within the ± 15% of test scores. Other parameters included <strong>sun exposure index (SEI)</strong> , PTH levels, and femoral neck T-score.</p><p>Results: Urban residents (n = 38) and rural residents (n = 47) did not differ in mean ages, body mass indices, and vitamin D intakes. When compared with rural inhabitants, <strong>urban inhabitants were exposed to ozone levels 3 times higher</strong> , and despite a higher mean SEI (113 vs. 87; P &lt; 0.001), they had a <strong>higher prevalence of 25(OH)D less than 75 nmol/liter (84 vs. 38%)</strong> .</p><p>After adjusting for SEI, 25(OH)D was <strong>2-fold higher in rural residents</strong> , and after adjusting for 25(OH)D, SEI was 3-fold higher in urban residents. Femoral neck T-scores correlated positively with 25(OH)D and negatively with PTH levels.</p><p>Conclusions: Air pollution may be a neglected risk factor for hypovitaminosis D, which is known to compromise several health outcomes. As long as 25(OH)D is greater than 75 nmol/liter, calcium intakes greater than 17.5 mmol/d are unnecessary to prevent elevations in PTH levels.</p><p><strong><a href=http://jcem.endojournals.org/content/93/10/3893.full.pdf+html>CLICK HERE</a> for pdf</strong></p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/4x-more-suburban-uv-than-urban-uv>4X more suburban UV than urban UV – Nov 2010</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;sort_mode=created_desc">all items in Category Noontime sun and D</a> 104 items as of Nov 2011</p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&amp;sort_mode=created_desc">all items in Category Deficiency of D</a> 177 items as of Nov 2011</p></li><li><p><a href=/posts/an-overview-analysis-of-the-time-people-spend-outdoors>An overview analysis of the time people spend outdoors – Dec 2010</a></p></li><li><p><a href=/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough>No – 10 minutes per day of sun-UVB is NOT enough – May 2011</a></p></li></ul></article></div></div><script src="/js/lightspa.js?v=1749770023"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770023",indexUrl:"/search/search_index.json.gz?v=1749770023"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770023"></script><script src="/js/tiki-redirects.js?v=1749770023"></script></body></html>

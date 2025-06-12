@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Low vitamin D results in severe preeclampsia and low birth weight</title>
+<link rel=stylesheet href="/css/main.css?v=1749770013"><link rel=stylesheet href="/css/pagination.css?v=1749770013"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770013"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Low vitamin D results in severe preeclampsia and low birth weight</h1><time>May 1, 2011</time><h4 id=maternal-vitamin-d-and-fetal-growth-in-early-onset-severe-preeclampsia>Maternal vitamin D and fetal growth in early-onset severe preeclampsia.</h4><p>Am J Obstet Gynecol. 2011 Mar 16.</p><p>Robinson CJ, Wagner CL, Hollis BW, Baatz JE, Johnson DD.</p><p>Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, Medical University of South Carolina, Charleston, SC.</p><p>OBJECTIVE:</p><p>Recently, vitamin D deficiency has been associated with increased risks for preeclampsia and diagnosis of early-onset, severe preeclampsia (EOSPE). The purpose of this investigation was to examine the association between vitamin D levels and <strong>small-for-gestational age (SGA)</strong> in patients with EOSPE.</p><p>STUDY DESIGN:</p><p>Patients with EOSPE were recruited, and demographics, outcomes, and plasma were collected. We assessed 25-hydroxyvitamin D (25<span>[OH]</span>D) by radioimmunoassay and reported our findings in nanograms per milliliter. Results were analyzed by Mann-Whitney U test and Spearman correlation and were reported as median (Q1-Q3).</p><p>RESULTS:</p><p>In patients with EOSPE (n = 56), 25(OH)D was lower in patients with SGA (16.8 ng/mL; range, 8.9-23 ng/mL) vs normal fetal growth (25.3 ng/mL; range, 16-33 ng/mL; P = .02). <strong>25(OH)D was correlated significantly with percentile growth at delivery (? = 0.31; P = .02).</strong></p><p>CONCLUSION:</p><p>Vitamin D is lower among patients with SGA in EOSPE than those without growth retardation. We suspect that vitamin D may impact fetal growth through placental mechanisms.</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/risk-of-preeclampsia-might-be-cut-in-half-if-take-an-amount-of-vitamin-d-meta-analysis style=color:red;text-decoration:underline title="This post/category does not exist yet: Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017">Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017</a></p></li><li><p><a href=/posts/how-to-reduce-preeclampsia>How to reduce preeclampsia - May 2011</a></p></li><li><p><a href=/posts/women-with-low-vitamin-d-4x-more-likely-to-have-preeclampsia-in-pregnancy>Women with low vitamin D 4X more likely to have preeclampsia in pregnancy – Nov 2010</a></p></li></ul></article></div></div><script src="/js/lightspa.js?v=1749770013"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770013",indexUrl:"/search/search_index.json.gz?v=1749770013"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770013"></script><script src="/js/tiki-redirects.js?v=1749770013"></script></body></html>

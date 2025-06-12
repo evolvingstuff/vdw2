@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Higher vitamin D helps regain muscle strength after knee surgery</title>
+<link rel=stylesheet href="/css/main.css?v=1749770008"><link rel=stylesheet href="/css/pagination.css?v=1749770008"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770008"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Higher vitamin D helps regain muscle strength after knee surgery</h1><time>August 1, 2011</time><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#low-vitamin-d-impairs-strength-recovery-after-anterior-cruciate-ligament-surgery>Low Vitamin D Impairs Strength Recovery After Anterior Cruciate Ligament Surgery</a></li><li><a href=#see-also-vitamindwiki>See also VitaminDWiki</a></li></ul></li></ul></li></ul></nav><hr><h4 id=low-vitamin-d-impairs-strength-recovery-after-anterior-cruciate-ligament-surgery>Low Vitamin D Impairs Strength Recovery After Anterior Cruciate Ligament Surgery</h4><p>Tyler Barker, PhD <a href=mailto:tyler.barker@imail.org>tyler.barker@imail.org</a>; The Orthopedic Specialty Hospital, Murray, UT, USA</p><p>Thomas B. Martins, MS; ARUP Laboratories, Institute for Clinical and Experimental Pathology, Salt Lake City, UT, USA</p><p>Harry R. Hill, MD; ARUP Laboratories, Institute for Clinical and Experimental Pathology, Salt Lake City, UT, USA</p><p>Carl R. Kjeldsberg; ARUP Laboratories, Institute for Clinical and Experimental Pathology, Salt Lake City, UT, USA</p><p>Roy H. Trawick, MD; The Orthopedic Specialty Hospital and Clinic, Murray, UT, USA</p><p>Lindell K. Weaver, MD; University of Utah, School of Medicine, Salt Lake City, UT, USA</p><p>Maret G. Traber, PhD; Linus Pauling Institute and Department of Nutrition and Exercise Sciences Oregon State University, Corvallis, OR, USA</p><p>Journal of Evidence-Based Complementary & Alternative Medicine July 29, 2011</p><p>The purpose of this study was to identify strength gains after an anterior cruciate ligament injury and surgery and during inflammatory challenge in participants with disparate vitamin D levels. Plasma samples were obtained from those who had not previously experienced an anterior cruciate ligament injury and from injured patients 2 weeks before and 3 months after anterior cruciate ligament surgery. Plasma 25-hydroxyvitamin D and cytokine concentrations were measured in each blood sample. Single-leg peak isometric forces were measured 2 weeks presurgery and 3 months postsurgery. Compared with noninjured participants, inflammatory cytokines were elevated prior to and following anterior cruciate ligament reconstruction.</p><p>During this inflammatory challenge, the peak isometric force increases after surgery were significantly lower in those with plasma 25-hydroxyvitamin D concentrations &lt;30 ng/mL compared with those with concentrations ?30 ng/mL. The authors conclude that low vitamin D appears to hinder strength recovery after anterior cruciate ligament surgery and during inflammatory insult.</p><hr><h4 id=see-also-vitamindwiki>See also VitaminDWiki</h4><ul><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;sort_mode=created_desc">All items After surgery or trauma</a> 341 items as of Oct 2024</p></li><li><p><a href=/posts/knee-surgery-reduced-vitamin-d-by-40-percent-in-2-days>Knee surgery reduced vitamin D by 40 percent in 2 days – May 2011</a></p></li><li><p><a href=/posts/knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55>Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010</a></p></li><li><p><a href=/posts/inflammation-or-surgery-or-heart-attack-decreases-measured-vitamin-d-levels>Inflammation or surgery or heart attack decreases measured vitamin D levels – Mar 2011</a></p></li><li><p><a href=/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely style=color:red;text-decoration:underline title="This link has an unknown page_id: 1036">Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010</a></p></li><li><p><a href=/posts/stop-read-this-before-you-have-orthopedic-surgery>Stop - Read This Before You Have Orthopedic Surgery - Nov 2010</a></p></li><li><p><a href=/posts/hmos-and-many-others-can-save-money-with-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 629">HMOs and many others can save money with vitamin D</a></p><ul><li>Provide vitamin D both before and after surgery</li></ul></li></ul></article></div></div><script src="/js/lightspa.js?v=1749770008"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770008",indexUrl:"/search/search_index.json.gz?v=1749770008"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770008"></script><script src="/js/tiki-redirects.js?v=1749770008"></script></body></html>

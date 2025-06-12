@@ -15,7 +15,3 @@ redirects:
     target: /test-search.html
     status: 200
     condition: null
-  - source: /test-search2.html
-    target: /test-search2.html
-    status: 200
-    condition: null

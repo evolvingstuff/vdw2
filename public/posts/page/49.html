@@ -1,5 +1,59 @@
 <!doctype html><html><head><meta charset=utf-8><title>Posts</title>
-<link rel=stylesheet href="/css/main.css?v=1748384343"><link rel=stylesheet href="/css/pagination.css?v=1748384343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src=https://unpkg.com/lunr/lunr.js></script><script src=https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js></script><script src="/js/search.js?v=1748384343"></script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts</h1><article><h2><a href=/posts/apoe-04-alzheimers-progression-slowed-up-by-omega-3-rct.html>APOE-04 Alzheimer’s progression slowed up by Omega-3 – RCT</a></h2><time>August 5, 2024</time></article><article><h2><a href=/posts/countries-that-measure-vitamin-d-in-nmol-vs-ng.html>Countries that measure Vitamin D in nmol vs ng</a></h2><time>August 5, 2024</time></article><article><h2><a href=/posts/diabetics-with-low-vitamin-d-had-14x-more-infections.html>Diabetics with low vitamin D had 1.4X more infections</a></h2><time>August 5, 2024</time></article><article><h2><a href=/posts/vitamin-d-targets-61-immune-system-genes-based-on-response-to-80000-iu.html>Vitamin D targets 61 Immune system genes (based on response to 80,000 IU)</a></h2><time>August 5, 2024</time></article><article><h2><a href=/posts/long-covid-and-vitamin-d-many-studies.html>Long-COVID and Vitamin D - many studies</a></h2><time>August 4, 2024</time></article><article><h2><a href=/posts/plant-nitrates-decrease-mortality-other-nitrates-increase-mortality-nitric-oxide.html>Plant Nitrates decrease mortality, other Nitrates increase mortality (Nitric Oxide)</a></h2><time>August 4, 2024</time></article><article><h2><a href=/posts/growing-pains-associated-with-low-vitamin-d-many-studies.html>Growing pains associated with low Vitamin D - many studies</a></h2><time>August 3, 2024</time></article><article><h2><a href=/posts/infant-respiratory-distress-reduced-by-vitamin-d-meta-analysis.html>Infant respiratory distress reduced by Vitamin D – meta-analysis</a></h2><time>August 3, 2024</time></article><article><h2><a href=/posts/vaccinations-did-not-stop-covid-68-studies-meta-analysis.html>Vaccinations did not stop COVID (68 studies) – meta-analysis</a></h2><time>August 3, 2024</time></article><article><h2><a href=/posts/increasing-child-iq-and-increased-iodine-81-83-98-and-103.html>Increasing child IQ and increased Iodine: 81, 83, 98, and 103</a></h2><time>August 2, 2024</time></article><nav class=pagination><a href=/posts/page/48.html>&#171; Previous</a>
+<link rel=stylesheet href="/css/main.css?v=1749770005"><link rel=stylesheet href="/css/pagination.css?v=1749770005"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770005"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts</h1><article><h2><a href=/posts/for-small-amounts-of-sunshine-the-amount-of-skin-exposed-may-not-matter.html>For small amounts of sunshine the amount of skin exposed may not matter</a></h2><time>May 15, 2011</time></article><article><h2><a href=/posts/low-vitamin-d-for-6-year-old-boys-predicted-asthma-at-age-14.html>Low vitamin D for 6 year old boys predicted asthma at age 14</a></h2><time>May 15, 2011</time></article><article><h2><a href=/posts/no-reduction-in-breast-cancer-when-vitamin-d-less-than-40-ng.html>No reduction in Breast Cancer when vitamin D less than 40 ng</a></h2><time>May 15, 2011</time></article><article><h2><a href=/posts/8500-iu-average-daily-helped-sports-performance.html>8500 IU average daily helped sports performance</a></h2><time>May 14, 2011</time></article><article><h2><a href=/posts/9-minutes-a-day-of-sun-improved-bmd-parkinsons-disease-patients.html>9 minutes a day of sun improved BMD Parkinsons disease patients</a></h2><time>May 14, 2011</time></article><article><h2><a href=/posts/45-year-old-british-women-working-long-hours-had-8-percent-lower-vitamin-d.html>45 year-old British women working long hours had 8 percent lower vitamin D</a></h2><time>May 12, 2011</time></article><article><h2><a href=/posts/barriers-to-effective-vitamin-d-supplementation-during-ante-natal-care-spring-2011.html>Barriers to effective vitamin D supplementation during ante-natal care – Spring 2011</a></h2><time>May 12, 2011</time></article><article><h2><a href=/posts/chronic-kidney-disease-and-pth-calcium-phosphate-vitamin-d.html>Chronic kidney disease and PTH – Calcium – Phosphate – Vitamin D</a></h2><time>May 12, 2011</time></article><article><h2><a href=/posts/expect-some-food-to-have-more-vitamin-d-in-2012.html>Expect some food to have more vitamin D in 2012</a></h2><time>May 12, 2011</time></article><article><h2><a href=/posts/ibd-and-crohn-but-not-colitis-associated-with-low-vitamin-d.html>IBD and Crohn but not Colitis associated with low vitamin D</a></h2><time>May 12, 2011</time></article><nav class=pagination><a href=/posts/page/48.html>&#171; Previous</a>
 <a href=/posts.html>1
 </a><a href=/posts/page/2.html>2
 </a><a href=/posts/page/3.html>3
@@ -95,7 +149,4 @@
 </a><a href=/posts/page/93.html>93
 </a><a href=/posts/page/94.html>94
 </a><a href=/posts/page/95.html>95
-</a><a href=/posts/page/96.html>96
-</a><a href=/posts/page/97.html>97
-</a><a href=/posts/page/98.html>98
-</a><a href=/posts/page/50.html>Next &#187;</a></nav></div></div><script src="/js/lightspa.js?v=1748384343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1748384343",indexUrl:"/search/search_index.json.gz?v=1748384343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1748384343"></script><script src="/js/search-results-panel.js?v=1748384343"></script><script src="/js/tiki-redirects.js?v=1748384343"></script></body></html>
+</a><a href=/posts/page/50.html>Next &#187;</a></nav></div></div><script src="/js/lightspa.js?v=1749770005"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770005",indexUrl:"/search/search_index.json.gz?v=1749770005"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770005"></script><script src="/js/tiki-redirects.js?v=1749770005"></script></body></html>

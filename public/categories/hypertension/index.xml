@@ -1,63 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hypertension on VitaminDWiki</title><link>//localhost:1313/categories/hypertension.html</link><description>Recent content in Hypertension on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/hypertension/index.xml" rel="self" type="application/rss+xml"/><item><title>Low Vitamin D is a top predictor of adverse events during pregnancy</title><link>//localhost:1313/posts/low-vitamin-d-is-a-top-predictor-of-adverse-events-during-pregnancy.html</link><pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/low-vitamin-d-is-a-top-predictor-of-adverse-events-during-pregnancy.html</guid><description>&lt;nav id="TableOfContents">&lt;/nav></description></item><item><title>Death after pre-hypertension 4X more likely if very low Vitamin D</title><link>//localhost:1313/posts/death-after-pre-hypertension-4x-more-likely-if-very-low-vitamin-d.html</link><pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/death-after-pre-hypertension-4x-more-likely-if-very-low-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
- &lt;ul>
- &lt;li>
- &lt;ul>
- &lt;li>
- &lt;ul>
- &lt;li>&lt;a href="#association-of-serum-25-hydroxyvitamin-d-concentrations-with-all-cause-and-cardiovascular-mortality-among-us-adults-with-prehypertension-a-prospective-cohort-study">Association of serum 25-hydroxyvitamin D concentrations with all-cause and cardiovascular mortality among US adults with prehypertension: a prospective cohort study&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;/ul>
-&lt;/nav>
-&lt;hr>
-&lt;h4 id="association-of-serum-25-hydroxyvitamin-d-concentrations-with-all-cause-and-cardiovascular-mortality-among-us-adults-with-prehypertension-a-prospective-cohort-study">Association of serum 25-hydroxyvitamin D concentrations with all-cause and cardiovascular mortality among US adults with prehypertension: a prospective cohort study&lt;/h4>
-&lt;p>J of Health, Population and Nutrition Vol 43, Article number: 24 (2024) &lt;a href="https://doi.org/10.1186/s41043-024-00515-5">https://doi.org/10.1186/s41043-024-00515-5&lt;/a>&lt;/p>
-&lt;p>Yongmei Zhou, Yu Chen, Fuli Chen, Gang Li &amp;amp; Long Zhou&lt;/p>
-&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/prehypertension-mortality.png" alt="image" width="800">
-&lt;p>&lt;strong>Table of adjusted data by VitaminDWiki&lt;/strong>&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Vitamin D level&lt;/td>
- &lt;td>Risk of death &lt;br>relative to &amp;gt;75 nmol&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&amp;lt;25 nmol&lt;/td>
- &lt;td>4.1 X&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>25-59 nmol&lt;/td>
- &lt;td>1.2 X&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>50-75 nmol&lt;/td>
- &lt;td>1.7X&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;p>Background&lt;/p></description></item><item><title>Stroke 3 times more likely if dark skin woman has Hypertension before age 35</title><link>//localhost:1313/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35.html</link><pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35.html</guid><description>&lt;nav id="TableOfContents">
- &lt;ul>
- &lt;li>
- &lt;ul>
- &lt;li>
- &lt;ul>
- &lt;li>&lt;a href="#hypertension-before-35-tied-to-triple-stroke-risk-inmidlife">Hypertension Before 35 Tied to Triple Stroke Risk in Midlife&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;/ul>
-&lt;/nav>
-&lt;hr>
-&lt;h4 id="hypertension-before-35-tied-to-triple-stroke-risk-inmidlife">Hypertension Before 35 Tied to Triple Stroke Risk in Midlife&lt;/h4>
-&lt;p>&lt;strong>From: &lt;a href="https://www.mdedge.com/cardiology/article/267662/hypertension/hypertension-35-tied-triple-stroke-risk-midlife?ecd=WNL_EVE_240202_mdedge">MD Edge&lt;/a>&lt;/strong>&lt;/p>
-&lt;p>Black women who develop high blood pressure before age 35 have a threefold increased risk of having a midlife stroke, new observational data suggested.&lt;/p>
-&lt;p>The Black Women’s Health Study, which has followed 59,000 participants in the United States since the 1990s, also showed that those who develop hypertension before age 45 have twice the risk of suffering a stroke.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hypertension on VitaminDWiki</title><link>/categories/hypertension.html</link><description>Recent content in Hypertension on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2011 00:00:00 +0000</lastBuildDate><atom:link href="/categories/hypertension/index.xml" rel="self" type="application/rss+xml"/><item><title>High blood pressure associated with high level of Calcium in blood</title><link>/posts/high-blood-pressure-associated-with-high-level-of-calcium-in-blood.html</link><pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate><guid>/posts/high-blood-pressure-associated-with-high-level-of-calcium-in-blood.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#00F;">(50 % more likely for the group with the highest serum calcium level)&lt;/span>&lt;/strong>&lt;/p>
+&lt;h1 id="serum-calcium-levels-and-hypertension-among-us-adults">Serum Calcium Levels and Hypertension Among US Adults.&lt;/h1>
+&lt;p>J Clin Hypertens (Greenwich). 2011 Oct;13(10):716-21. &lt;a href="https://doi.org/10.1111/j.1751-7176.2011.00503.x.">doi: 10.1111/j.1751-7176.2011.00503.x.&lt;/a> Epub 2011 Jul 27.&lt;/p>
+&lt;p>Sabanayagam C, Shankar A, Department of Community Medicine, West Virginia University School of Medicine, Morgantown, WV.&lt;/p>
+&lt;p>Serum calcium levels have been shown to be associated with cardiovascular disease (CVD); however, it is not clear whether serum calcium levels are related to hypertension, a risk factor for CVD. The authors examined the association between serum calcium and hypertension in a representative sample of US adults. A cross-sectional study of 12,405 third National Health and Nutrition Examination Survey participants 20?years and older was conducted. Serum total and ionized calcium levels were analyzed as quartiles.&lt;/p></description></item><item><title>Caucasian youths low on vitamin D were more likely to have hypertension</title><link>/posts/caucasian-youths-low-on-vitamin-d-were-more-likely-to-have-hypertension.html</link><pubDate>Fri, 15 Jul 2011 00:00:00 +0000</pubDate><guid>/posts/caucasian-youths-low-on-vitamin-d-were-more-likely-to-have-hypertension.html</guid><description>&lt;h1 id="low-25ohd3-levels-are-associated-with-total-adiposity-metabolic-syndrome-and-hypertension-in-caucasian-children-and-adolescents">Low 25(OH)D3 levels are associated with total adiposity, metabolic syndrome, and hypertension in Caucasian children and adolescents.&lt;/h1>
+&lt;p>Eur J Endocrinol. 2011 Jul 13.&lt;/p>
+&lt;p>Pacifico L, Anania C, Osborn JF, Ferraro F, Bonci E, Olivero E, Chiesa C.&lt;/p>
+&lt;p>L Pacifico, PEDIATRICS, SAPIENZA UNIVERSITY OF ROME, ROME, 00161, Italy.&lt;/p>
+&lt;p>Objectives: Evidence of the association between vitamin D and cardiovascular (CV) risk factors in the young is limited. We therefore assessed the relationships between circulating 25-hydroxyvitamin D3 &lt;span>[25(OH)D3]&lt;/span> and metabolic syndrome (MetS), its components, and early atherosclerotic changes in 452 (304 overweight/obese, 148 healthy, normal weight) Caucasian children.&lt;/p></description></item><item><title>All hypertension patients should have vitamin D levels measured – 2010</title><link>/posts/all-hypertension-patients-should-have-vitamin-d-levels-measured-2010.html</link><pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate><guid>/posts/all-hypertension-patients-should-have-vitamin-d-levels-measured-2010.html</guid><description>&lt;h1 id="should-the-concentration-of-vitamin-d-be-measured-in-all-patients-with-hypertension">Should the Concentration of Vitamin D be Measured in All Patients with Hypertension?&lt;/h1>
+&lt;p>J Clin Hypertens (Greenwich). 2010 March; 12(3): 149–152. &lt;a href="https://doi.org/10.1111/j.1751-7176.2009.00246.x.">doi: 10.1111/j.1751-7176.2009.00246.x.&lt;/a>&lt;/p>
+&lt;p>Angela Boldo, M.D., Patrick Campbell, MD, Pooja Luthra, M.D., and William B. White, M.D. (&lt;a href="mailto:wwhite@nso1.uchc.edu">wwhite@nso1.uchc.edu&lt;/a> ) Division of Hypertension and Clinical Pharmacology, Pat and Jim Calhoun Cardiology Center (AB, PC, and WBW) and the Division of Endocrinology and Metabolism (PL), University of Connecticut School of Medicine, Farmington, Connecticut&lt;/p></description></item><item><title>Births during times of little sun associated with increased hypertension</title><link>/posts/births-during-times-of-little-sun-associated-with-increased-hypertension.html</link><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><guid>/posts/births-during-times-of-little-sun-associated-with-increased-hypertension.html</guid><description>&lt;h1 id="association-of-seasonality-with-hypertension-in-pregnancy-a-systematic-review">Association of seasonality with hypertension in pregnancy: a systematic review.&lt;/h1>
+&lt;p>J Reprod Immunol. 2011 Apr 20.&lt;/p>
+&lt;p>Tepoel MR, Saftlas AF, Wallis AB.&lt;/p>
+&lt;p>Department of Epidemiology, University of Iowa College of Public Health, 200 Hawkins Drive, GH C21M, Iowa City, IA 52242, USA.&lt;/p>
+&lt;p>A systematic literature review was conducted to examine all academic, peer-reviewed studies of seasonal or monthly variation in the prevalence of gestational hypertension, preeclampsia, or eclampsia. The objective was to test the hypothesis that prevalence rates are highest during the winter months in non-tropical regions and during wet or humid periods in tropical climates. The authors searched the epidemiological literature indexed in PubMed, cross-referenced bibliographic materials, and reviewed personal archives. Of 60 abstracts and articles screened, 20 met the final inclusion criteria. Studies included were published between 1938 and 2010. Despite differences in setting, data sources, study design, outcome definitions, and control of known risk factors,&lt;/p></description></item><item><title>Link between vitamin D and hypertension not yet completely understood</title><link>/posts/link-between-vitamin-d-and-hypertension-not-yet-completely-understood.html</link><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><guid>/posts/link-between-vitamin-d-and-hypertension-not-yet-completely-understood.html</guid><description>&lt;p>Recent Pat Cardiovasc Drug Discov. 2011 Apr 22.&lt;/p>
+&lt;p>Cosenso-Martin LN, Vilela-Martin JF.&lt;/p>
+&lt;p>Internal Medicine Department of State Medical School of São José do Rio Preto/Sao Paulo/Brazil (FAMERP) Av., Anísio Haddad 7700 Postal Code: 15093-000 São José do Rio Preto/São Paulo/Brazil. &lt;a href="mailto:vilelamartin@uol.com.br">vilelamartin@uol.com.br&lt;/a>.&lt;/p>
+&lt;p>Vitamin D has an important role in bone mineralization and maintenance of calcium homeostasis. Thus, vitamin D deficiency is better characterized in the situations that involve the musculoskeletal system and bone metabolism. Recently, there is an interest in the association of vitamin D deficiency with the presence of metabolic syndrome, diabetes mellitus, cardiovascular disease and arterial hypertension.&lt;/p></description></item><item><title>Low vitamin D results in severe preeclampsia and low birth weight</title><link>/posts/low-vitamin-d-results-in-severe-preeclampsia-and-low-birth-weight.html</link><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-results-in-severe-preeclampsia-and-low-birth-weight.html</guid><description>&lt;h4 id="maternal-vitamin-d-and-fetal-growth-in-early-onset-severe-preeclampsia">Maternal vitamin D and fetal growth in early-onset severe preeclampsia.&lt;/h4>
+&lt;p>Am J Obstet Gynecol. 2011 Mar 16.&lt;/p>
+&lt;p>Robinson CJ, Wagner CL, Hollis BW, Baatz JE, Johnson DD.&lt;/p>
+&lt;p>Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, Medical University of South Carolina, Charleston, SC.&lt;/p>
+&lt;p>OBJECTIVE:&lt;/p>
+&lt;p>Recently, vitamin D deficiency has been associated with increased risks for preeclampsia and diagnosis of early-onset, severe preeclampsia (EOSPE). The purpose of this investigation was to examine the association between vitamin D levels and &lt;strong>small-for-gestational age (SGA)&lt;/strong> in patients with EOSPE.&lt;/p></description></item><item><title>2X more likely to have hypertension if less than 15 ng</title><link>/posts/2x-more-likely-to-have-hypertension-if-less-than-15-ng.html</link><pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate><guid>/posts/2x-more-likely-to-have-hypertension-if-less-than-15-ng.html</guid><description>&lt;h1 id="vitamin-d-of-15-ng-25-hydroxyvitamin-d-levels-and-hypertension-rates">Vitamin D of 15 ng 25-hydroxyvitamin d levels and hypertension rates.&lt;/h1>
+&lt;p>J Clin Hypertens (Greenwich). 2011 Mar;13(3):170-7. &lt;a href="https://doi.org/10.1111/j.1751-7176.2010.00408.x.">doi: 10.1111/j.1751-7176.2010.00408.x.&lt;/a> Epub&lt;/p>
+&lt;p>2010 Dec 22.&lt;/p>
+&lt;p>Bhandari SK, Pashayan S, Liu IL, Rasgon SA, Kujubu DA, Tom TY, Sim JJ.&lt;/p>
+&lt;p>From the Division of Nephrology and Hypertension, Kaiser Permanente Los Angeles Medical Center, Los Angeles, CA;the Department of Internal Medicine, Kaiser Permanente Los Angeles Medical Center, Los Angeles, CA;the Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, CA.&lt;/p></description></item><item><title>Pre-diabetes and hypertension 2.4X more common when less than 30 ng of vitamin D</title><link>/posts/pre-diabetes-and-hypertension-24x-more-common-when-less-than-30-ng-of-vitamin-d.html</link><pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate><guid>/posts/pre-diabetes-and-hypertension-24x-more-common-when-less-than-30-ng-of-vitamin-d.html</guid><description/></item><item><title>Meta-analysis found hypertension reduced with vitamin D</title><link>/posts/meta-analysis-found-hypertension-reduced-with-vitamin-d.html</link><pubDate>Fri, 31 Dec 2010 00:00:00 +0000</pubDate><guid>/posts/meta-analysis-found-hypertension-reduced-with-vitamin-d.html</guid><description>&lt;h1 id="blood-25-hydroxyvitamin-d-concentration-and-hypertension-a-meta-analysis">Blood 25-hydroxyvitamin D concentration and hypertension: a meta-analysis.&lt;/h1>
+&lt;p>J Hypertens. 2010 Dec 28.&lt;/p>
+&lt;p>Burgaz A, Orsini N, Larsson SC, Wolk A.&lt;/p>
+&lt;p>Institute of Environmental Medicine, Karolinska Institiute, Stockholm, Sweden.&lt;/p>
+&lt;p>OBJECTIVES: Increasing evidence indicates that vitamin D may influence the risk of hypertension, which is a major risk factor for cardiovascular disease. We conducted a meta-analysis to quantitatively review and summarize the results on the association between blood 25-hydroxyvitamin D concentrations and hypertension.&lt;/p></description></item><item><title>Vitamin D reduced blood pressure in random controlled trials</title><link>/posts/vitamin-d-reduced-blood-pressure-in-random-controlled-trials.html</link><pubDate>Fri, 26 Nov 2010 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-reduced-blood-pressure-in-random-controlled-trials.html</guid><description/></item><item><title>Overview Hypertension and Vitamin D</title><link>/posts/overview-hypertension-and-vitamin-d.html</link><pubDate>Thu, 25 Nov 2010 00:00:00 +0000</pubDate><guid>/posts/overview-hypertension-and-vitamin-d.html</guid><description>&lt;h3 id="nearly-half-of-adults-with-hypertension-are-unaware-they-have-it-who-says---sept-2023">Nearly half of adults with hypertension are unaware they have it, WHO says - Sept 2023&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="https://www.washingtonpost.com/wellness/2023/09/19/hypertension-world-health-organization/">Washington Post&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&amp;ldquo;A &lt;a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30752-2/fulltext">2020 study published in The Lancet&lt;/a> found high blood pressure is “the single most important risk factor for early death,” the WHO report says. Hypertension, or high blood pressure, leads to an estimated 10 million deaths every year, but almost half of adults with high blood pressure don’t know they have it.&amp;rdquo;&lt;/p></description></item><item><title>Systolic hypertension 4X more likely if low on vitamin D 14 years before</title><link>/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before.html</link><pubDate>Mon, 22 Nov 2010 00:00:00 +0000</pubDate><guid>/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before.html</guid><description>&lt;h4 id="vitamin-d-and-subsequent-systolic-hypertension-among-women">Vitamin D and Subsequent Systolic Hypertension Among Women&lt;/h4>
+&lt;p>American Journal of Hypertension , (18 November 2010) | doi:10.1038/ajh.2010.226&lt;/p>
+&lt;p>Flojaune C. Griffin, Crystal A. Gadegbeku and MaryFran R. Sowers&lt;/p>
+&lt;p>Background; We examined data from a cohort of Caucasian women for evidence of an association between serum vitamin D (25-hydroxyvitamin D (25(OH)D)) insufficiency and greater risk of systolic hypertension in the population-based longitudinal Michigan Bone Health and Metabolism Study (MBHMS).&lt;/p>
+&lt;p>Methods; The cohort includes 559 women aged 24–44 years in 1992; annual blood pressure (BP) measurements and data collection began in 1992 and is ongoing. A single-time serum 25(OH)D level was measured in 1993. Using logistic regression, vitamin D insufficiency (&amp;lt;80 nmol/l) was related to systolic hypertension (?140 mm Hg) measures identified in 1993 and in 2007. Further, the relationship between vitamin D at baseline and the trajectory of systolic BP across the ensuing 14 years was assessed using longitudinal mixed modeling.&lt;/p></description></item><item><title>Women with low vitamin D 4X more likely to have preeclampsia in pregnancy</title><link>/posts/women-with-low-vitamin-d-4x-more-likely-to-have-preeclampsia-in-pregnancy.html</link><pubDate>Fri, 05 Nov 2010 00:00:00 +0000</pubDate><guid>/posts/women-with-low-vitamin-d-4x-more-likely-to-have-preeclampsia-in-pregnancy.html</guid><description>&lt;h4 id="a-nested-case-control-study-of-midgestation-vitamin-d-deficiency-and-risk-of-severe-preeclampsia">A Nested Case-Control Study of Midgestation Vitamin D Deficiency and Risk of Severe Preeclampsia&lt;/h4>
+&lt;p>The Journal of Clinical Endocrinology &amp;amp; Metabolism Vol. 95, No. 11 5105-5109, Copyright © 2010 by The Endocrine Society&lt;/p>
+&lt;p>Arthur M. Baker &lt;a href="mailto:abaker2@med.unc.edu">abaker2@med.unc.edu&lt;/a>, Sina Haeri, Carlos A. Camargo, Jr., Janice A. Espinola and Alison M. Stuebe&lt;/p>
+&lt;p>Division of Maternal-Fetal Medicine (A.M.B., S.H., A.M.S.), Department of Obstetrics and Gynecology, University of North Carolina, Chapel Hill, North Carolina 27599; and Department of Emergency Medicine (C.A.C., J.A.E.), and Center for D-Receptor Activation Research (C.A.C.), Massachusetts General Hospital, Boston, Massachusetts 02114&lt;/p></description></item></channel></rss>

@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Native American Indians mostly died of skin cancer (nope)</title>
+<link rel=stylesheet href="/css/main.css?v=1749770015"><link rel=stylesheet href="/css/pagination.css?v=1749770015"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770015"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Native American Indians mostly died of skin cancer (nope)</h1><time>August 23, 2011</time><p>The beginning of : <a href=http://arizonaadvancedmedicine.com/articles/skin_cancer.html>Vitamin D, Sun, Skin Cancer</a> probably late 2010</p><p>By Arizona Center for Advanced Medicine</p><p><strong>1) Centuries ago, when Vikings and other European seafarers took to the high seas for years at a time, they pioneered new trade routes and they mostly died of skin cancer.</strong></p><p><strong>2)Native American Indians, living mostly outdoors, also mostly died of skin cancer.</strong></p><p><strong>What?<br>You never heard that?<br>Right. <span style=color:red>Because it didn&rsquo;t happen</span>.<br>Here are a few things that really did happen:</strong></p><ul><li><p>In the 1980s, dermatologists began warning about the dangers of sunlight. Their advertisements were heavily funded by the cosmetics and sun screen industry.</p></li><li><p>In the 1980s the current triple childhood epidemics of asthma, diabetes, and autism quietly began. Rates of cancer and other chronic illnesses began to escalate.</p></li><li><p>In 1989, the American Medical Association&rsquo;s Council on Scientific Affairs warned about the dangers of sun-exposure, advising mothers and children to &ldquo;stay out of the sun as much as possible.&rdquo;</p></li><li><p>In 1999, the American Academy of Pediatrics warned mothers to always keep infants out of direct sunlight, use sun-protective clothes, sun block, and make sure children&rsquo;s activities in general minimize sunlight exposure.</p></li><li><p>In 2000, it was documented that rickets – vitamin D deficiency – is making a comeback in American children who drink less milk and more juice and sodas</p></li></ul><p>Today, we have escalating rates of cancer and chronic disease.</p><p>Many say hiding from the sun&rsquo;s rays, and living with the subsequent low levels of vitamin D, was one of the tickets to that train wreck.</p><p><a href=http://arizonaadvancedmedicine.com/articles/skin_cancer.html>CLICK HERE</a> for the rest of the extensive vitamin D article.</p><p>A good overview as of late 2010.</p><p>Only a small portion of it has to do with Skin Cancer</p><hr><p>Also note: the body has learned how to deal with small amounts of damage at a time.</p><p>A sun burn is not a small amount of damage.</p><p>You can get sun, radioactivity, poisons, etc, providing you do not get too much all at one time, and thus not allow the body to repair the minor damages.</p><h3 id=see-also-vitamindwiki>See also VitaminDWiki</h3><ul><li><p><a href=/posts/australian-dermatologists-had-lower-vitamin-d-levels-than-elderly-in-hospitals-2009 style=color:red;text-decoration:underline title="This post/category does not exist yet: Australian dermatologists had lower vitamin D levels than elderly in hospitals – 2009">Australian dermatologists had lower vitamin D levels than elderly in hospitals – 2009</a></p></li><li><p><a href=/posts/less-solar-radiation-was-associated-with-more-cancer-1941 style=color:red;text-decoration:underline title="This post/category does not exist yet: Less Solar Radiation was associated with more Cancer - 1941">Less Solar Radiation was associated with more Cancer - 1941</a></p></li><li><p><a href=/posts/sunshine-dangerous-or-healthy-schachter-center-2009 style=color:red;text-decoration:underline title="This post/category does not exist yet: Sunshine: Dangerous or Healthy – Schachter Center 2009">Sunshine: Dangerous or Healthy – Schachter Center 2009</a></p></li><li><p><a href=/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013 style=color:red;text-decoration:underline title="This post/category does not exist yet: Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013">Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013</a></p></li><li><p><a href=/posts/sunny-side-of-the-hill-is-the-healthiest-400bc style=color:red;text-decoration:underline title="This post/category does not exist yet: Sunny side of the hill is the healthiest – 400BC">Sunny side of the hill is the healthiest – 400BC</a></p></li><li><p><a href=/posts/overview-suntans-and-melanoma style=color:red;text-decoration:underline title="This link has an unknown page_id: 1462">Overview Suntans and melanoma</a> contains the following graph</p></li></ul><p>{IMG(fileId=&ldquo;1158&rdquo;)}{IMG}</p></article></div></div><script src="/js/lightspa.js?v=1749770015"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770015",indexUrl:"/search/search_index.json.gz?v=1749770015"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770015"></script><script src="/js/tiki-redirects.js?v=1749770015"></script></body></html>

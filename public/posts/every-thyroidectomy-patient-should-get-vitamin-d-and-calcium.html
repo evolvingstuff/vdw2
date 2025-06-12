@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Every Thyroidectomy patient should get vitamin D and Calcium</title>
+<link rel=stylesheet href="/css/main.css?v=1749770006"><link rel=stylesheet href="/css/pagination.css?v=1749770006"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770006"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Every Thyroidectomy patient should get vitamin D and Calcium</h1><time>December 17, 2010</time><h1 id=two-articles-on-this-page>two articles on this page</h1><h1 id=to-supplement-or-not-to-supplement-a-cost-utility-analysis-of-calcium-and-vitamin-d-repletion-in-patients-after-thyroidectomy>To Supplement or Not to Supplement: A Cost-Utility Analysis of Calcium and Vitamin D Repletion in Patients After Thyroidectomy.</h1><h2 id=it-adds-about-1-quality-year-of-life>It adds about 1 quality year of life</h2><p>Ann Surg Oncol. 2010 Nov 19.</p><p>Wang TS, Cheung K, Roman SA, Sosa JA.</p><p>Department of Surgery, Medical College of Wisconsin, Milwaukee, WI, USA, <a href=mailto:tswang@mcw.edu>tswang@mcw.edu</a>.</p><p>BACKGROUND: Postoperative hypocalcemia is the most common complication after thyroidectomy; prevention and treatment remain areas of ongoing debate. The purpose of this study was to determine the incremental cost utility of routine versus selective calcium and vitamin D supplementation after total or completion thyroidectomy.</p><p>METHODS: A cost-utility analysis using a Markov decision model was performed for a hypothetical cohort of adult patients after thyroidectomy. Routine or selective supplementation of oral calcium carbonate, vitamin D (calcitriol), and intravenous calcium gluconate, when required, was used. Selective supplementation was determined by serum intact parathyroid hormone levels. The incremental cost utility, measured in U.S. dollars per quality-adjusted life-year (QALY), was calculated.</p><p>RESULTS: In the base-case analysis, the cost of routine supplementation was $102 versus $164 for selective supplementation. Patients in the routine arm gained 0.002 QALYs compared to patients in the selective arm (0.95936 QALYs vs. 0.95725 QALYs). At the population level, this translates into a savings of $29,365/QALY (95% confidence interval, -$66,650 to -$1,772) for routine supplementation. Sensitivity analyses demonstrated that the model was most sensitive to the utility of the hypocalcemic state, postoperative rates of hypocalcemia, and cost of serum parathyroid hormone testing.</p><p>CONCLUSIONS: Routine oral calcium and calcitriol supplementation in patients after thyroidectomy seems to be less expensive and results in higher patient utility than selective supplementation. Surgeons who have very low rates of hypocalcemia in their patients may benefit less from routine supplementation. PMID: 21088914</p><hr><h1 id=preoperative-vitamin-d-deficiency-predicts-postoperative-hypocalcemia-after-total-thyroidectomy>Preoperative Vitamin D Deficiency Predicts Postoperative Hypocalcemia After Total Thyroidectomy</h1><p>World Journal of Surgery, DOI: 10.1007/s00268-010-0872-yOnline First™ – Dec 2010</p><p>James Kirkby-Bott, Haridimos Markogiannakis, Anita Skandarajah, Matthew Cowan, Bill Fleming and Fausto Palazzo</p><p>Transient postthyroidectomy hypocalcemia occurs in up to 30% of patients. We evaluated the effect of vitamin D deficiency on postthyroidectomy hypocalcemia.</p><p>Methods</p><p>Data were collected prospectively between January 2006 and March 2009. A total of 166 consecutive total thyroidectomies were analyzed regarding the relation between preoperative vitamin D3 levels and postoperative corrected calcium levels. Patients were divided into three groups dependent upon the preoperative vitamin D3 level: group 1, &lt;25 nmol/l; group 2, 25–50 nmol/l; group 3, >50 nmol/l (conversion factor of 2.5× between nanomoles per liter and nanograms per milliliter). Hypocalcemia was defined as a postoperative calcium level &lt;2.00 mmol/l (8 mg/dl). Hospital length of stay was recorded.</p><p>Results</p><p>There was a difference in postoperative hypocalcemia between the three vitamin D3 groups (group 1 (32%) vs. group 2 (24%) vs. group 3 (13%). Hypocalcemia in group 1 (vit D &lt;25 nmol/l, &lt;10 ng/ml) was significantly more likely than in group 3 (vit D >50 nmol/l, >20 ng/ml) (P = 0.025, ?2 test. <strong>Vitamin D3 deficiency was also associated with a longer hospital stay</strong> (median stay 2 days vs. 1 day, P &lt; 0.001, Wilcoxon rank test).</p><p>Conclusions</p><p>There is a significant difference in postoperative hypocalcemia rates between those with vitamin D levels >50 nmol/l (>20 ng/ml) and those with a level of &lt;25 nmol/l (&lt;10 ng/ml). Vitamin D deficiency leads to a delay in discharge owing to a higher likelihood of hypocalcemia.</p><hr><h1 id=summary-of-2nd-paper>Summary of 2nd paper</h1><h2 id=10-ngml--32-hypocalcemia-and-1-day-longer-in-hospital-after-thyroidectomy>&lt;10 ng/ml ==> 32% Hypocalcemia and 1 day longer in hospital after thyroidectomy</h2><h2 id=20-ngml--13-hypocalcemia>>20 ng/ml ==> 13% Hypocalcemia</h2><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=79&amp;sort_mode=created_desc">All items in Thyroid and Parathyroid</a> 23 items June 2012</li></ul></article></div></div><script src="/js/lightspa.js?v=1749770006"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770006",indexUrl:"/search/search_index.json.gz?v=1749770006"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770006"></script><script src="/js/tiki-redirects.js?v=1749770006"></script></body></html>

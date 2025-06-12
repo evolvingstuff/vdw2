@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>More vitamin D, more height - many studies</title>
+<link rel=stylesheet href="/css/main.css?v=1749770014"><link rel=stylesheet href="/css/pagination.css?v=1749770014"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770014"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>More vitamin D, more height - many studies</h1><time>March 25, 2011</time><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#06-cmyear-less-growth-if-10-ng-of-vitamin-d-japan---aug-2022>0.6 cm/year less growth if &lt;10 ng of vitamin D (Japan) - Aug 2022</a></li><li><a href=#infants-in-finland-who-got-2000-iu-vitamin-d-daily-grew-to-normal-height--march-2011>Infants in Finland who got 2,000 IU vitamin D daily grew to normal height – March 2011</a></li></ul></li></ul></li></ul></nav><hr><h4 id=06-cmyear-less-growth-if-10-ng-of-vitamin-d-japan---aug-2022>0.6 cm/year less growth if &lt;10 ng of vitamin D (Japan) - Aug 2022</h4><p><strong>Impaired Height Growth Associated with Vitamin D Deficiency in Young Children from the Japan Environment and Children&rsquo;s Study</strong></p><p>Nutrients. 2022 Aug 13;14(16):3325.<a href=https://doi.org/10.3390/nu14163325.>doi: 10.3390/nu14163325.</a></p><p>Shohei Kuraoka 1 2 , Masako Oda 1 , Hiroshi Mitsubuchi 1 3 , Kimitoshi Nakamura 1 2 , Takahiko Katoh 1 4 , Japan Environment And Children&rsquo;s Study Jecs Group</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/annual-growth-japan.jpg alt=image width=400><p>Vitamin D is essential for calcium absorption and bone homeostasis. Although short-stature children were reported to have low vitamin D concentrations, there is no clear evidence of a link between vitamin D and height growth in young children not limited to those with short stature. We collected height and weight data at 2 and 4 years of age, serum vitamin D concentrations at 4 years, and questionnaire results on sun exposure from the Japan Environment and Children&rsquo;s Study (JECS). We then analyzed the relationship between vitamin D deficiency and height growth. We also analyzed the correlation between serum vitamin D concentration and sun exposure. Overall, 3624 participants from JECS were analyzed. We identified cases of subclinical vitamin D deficiency and insufficiency. We further found that definitive vitamin D deficiency <strong>(&lt;10 ng/mL) impaired height growth by 0.6 cm per yea</strong> r even in young children not limited to those with short stature. Furthermore, we clarified that children with vitamin D deficiency had reduced outdoor activity, especially during winter. In children with either short or normal stature, definitive vitamin D deficiency was associated with height growth decline, and reduction in outdoor activity, especially during winter, was a risk factor for vitamin D deficiency.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/japan-growth-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=infants-in-finland-who-got-2000-iu-vitamin-d-daily-grew-to-normal-height--march-2011>Infants in Finland who got 2,000 IU vitamin D daily grew to normal height – March 2011</h4><p><strong>High-Dose Vitamin D Supplements Are Not Associated with Linear Growth in a Large Finnish Cohort</strong></p><p>J Nutr. 2011 Mar 23.</p><p>Hyppönen E, Fararouei M, Sovio U, Hartikainen AL, Pouta A, Robertson C, Whittaker JC, Jarvelin MR.</p><p>Centre for Paediatric Epidemiology and Biostatistics and Medical Research Council Centre for the Epidemiology of Child Health, University College London Institute of Child Health, WC1N 1EH, London, UK.</p><p>High vitamin D intake in childhood has been suggested to have an adverse influence on linear growth. In Finland, in the mid-1960s the official recommendation for infant vitamin D supplementation was 2000 iu/d (50 ?g/d). We investigated whether high-dose vitamin D supplementation in infancy was associated with subsequent growth in height.</p><p>We used data from a prospective population-based birth cohort study including all children due to be born in the 2 northernmost provinces in Finland in 1966 (12,058 live-births, coverage 96%). Information on each participant&rsquo;s height was collected at birth and ages 1, 14, and 31 y, as were possible confounding factors (data for analyses available from 10,060 singletons). Information on the frequency and dose of vitamin D supplementation was collected in 1967 when participants were 1 y of age. A weak association was found between frequency of vitamin D supplementation with greater height at age 1 y (P = 0.005), which was explained by birth characteristics and maternal and social factors (adjusted P = 0.34). Neither frequency nor dose of vitamin D supplementation was associated with height at 14 or 31 y (P > 0.13).</p><p>To conclude, contrary to proposed evidence suggesting that vitamin D has a negative influence on growth rate at a dosage of ~2000 iu/d, supplementation at this level in the Northern Finland Birth Cohort was not associated with reduced height at any age studied.</p></article></div></div><script src="/js/lightspa.js?v=1749770015"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770015",indexUrl:"/search/search_index.json.gz?v=1749770015"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770015"></script><script src="/js/tiki-redirects.js?v=1749770015"></script></body></html>

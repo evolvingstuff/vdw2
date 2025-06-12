@@ -1,5 +1,59 @@
 <!doctype html><html><head><meta charset=utf-8><title>Posts</title>
-<link rel=stylesheet href="/css/main.css?v=1748384349"><link rel=stylesheet href="/css/pagination.css?v=1748384349"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src=https://unpkg.com/lunr/lunr.js></script><script src=https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js></script><script src="/js/search.js?v=1748384349"></script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts</h1><article><h2><a href=/posts/autism-reduced-24-percent-for-each-4-ng-more-vitamin-d-while-pregnant-adhd-12-percent.html>Autism reduced 24% for each 4 ng more Vitamin D while pregnant ( ADHD 12%)</a></h2><time>February 5, 2024</time></article><article><h2><a href=/posts/older-adults-23-x-more-likely-to-die-if-low-vitamin-d-with-high-crp.html>Older adults 2.3 X more likely to die if low Vitamin D with high CRP</a></h2><time>February 5, 2024</time></article><article><h2><a href=/posts/professor-raoult-is-calling-for-a-moratorium-on-covid-19-vaccines.html>Professor Raoult is calling for a moratorium on COVID-19 vaccines</a></h2><time>February 4, 2024</time></article><article><h2><a href=/posts/early-childhood-caries-14-times-more-likely-if-20-30-ng-of-vitamin-d-meta-analysis.html>Early Childhood Caries 1.4 times more likely if 20-30 ng of Vitamin D – meta-analysis</a></h2><time>February 3, 2024</time></article><article><h2><a href=/posts/5-vitamin-d-questions-for-7-experts.html>5 Vitamin D questions for 7 experts</a></h2><time>February 2, 2024</time></article><article><h2><a href=/posts/inflamed-esophagus-eoe-is-associated-with-low-vitamin-d.html>Inflamed Esophagus (EoE) is associated with low Vitamin D</a></h2><time>February 2, 2024</time></article><article><h2><a href=/posts/omega-3-reduces-many-aspects-of-heart-problems.html>Omega-3 reduces many aspects of heart problems</a></h2><time>February 2, 2024</time></article><article><h2><a href=/posts/oral-vitamin-d-had-a-bigger-response-that-injection-in-obese-women.html>Oral Vitamin D had a bigger response that injection in obese women</a></h2><time>February 2, 2024</time></article><article><h2><a href=/posts/risk-of-cardiovascular-disease-low-vitamin-d-low-hspcs-and-high-hscrp.html>Risk of Cardiovascular disease: Low Vitamin D, low HSPCs and high hsCRP</a></h2><time>February 2, 2024</time></article><article><h2><a href=/posts/stroke-3-times-more-likely-if-dark-skin-woman-has-hypertension-before-age-35.html>Stroke 3 times more likely if dark skin woman has Hypertension before age 35</a></h2><time>February 2, 2024</time></article><nav class=pagination><a href=/posts/page/86.html>&#171; Previous</a>
+<link rel=stylesheet href="/css/main.css?v=1749770015"><link rel=stylesheet href="/css/pagination.css?v=1749770015"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770015"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts</h1><article><h2><a href=/posts/gluten-intolerance-with-notes-on-vitamin-d.html>Gluten Intolerance - with notes on vitamin D</a></h2><time>December 6, 2010</time></article><article><h2><a href=/posts/not-all-statins-increase-vitamin-d-levels.html>Not all statins increase vitamin D levels</a></h2><time>December 6, 2010</time></article><article><h2><a href=/posts/the-sun-will-save-your-life-pdf-2010.html>The Sun Will Save Your Life – PDF 2010</a></h2><time>December 6, 2010</time></article><article><h2><a href=/posts/why-vitamin-d-is-not-a-problem-for-some-youth.html>Why vitamin D is not a problem for some youth</a></h2><time>December 6, 2010</time></article><article><h2><a href=/posts/vitamin-d-trials-studies-and-meta-analysis.html>Vitamin D trials, studies, and meta-analysis</a></h2><time>December 5, 2010</time></article><article><h2><a href=/posts/4x-more-suburban-uv-than-urban-uv.html>4X more suburban UV than urban UV</a></h2><time>December 4, 2010</time></article><article><h2><a href=/posts/860000-iu-vitamin-d-along-with-123000-vitamin-a-is-toxic-but-not-deadly.html>860000 IU vitamin D along with 123000 vitamin A is toxic - but not deadly</a></h2><time>December 4, 2010</time></article><article><h2><a href=/posts/just-700-iu-of-vitamin-d-and-700-mg-of-calcium-reduces-falls-and-fractures.html>Just 700 IU of vitamin D and 700 mg of Calcium reduces falls and fractures</a></h2><time>December 4, 2010</time></article><article><h2><a href=/posts/less-than-20-ng-vitamin-d-increases-depression-by-80-percent.html>Less than 20 ng vitamin D increases depression by 80 percent</a></h2><time>December 4, 2010</time></article><article><h2><a href=/posts/price-and-masterjohn-on-vitamin-a-vitamin-d-and-vitamin-k-2010.html>Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010</a></h2><time>December 4, 2010</time></article><nav class=pagination><a href=/posts/page/86.html>&#171; Previous</a>
 <a href=/posts.html>1
 </a><a href=/posts/page/2.html>2
 </a><a href=/posts/page/3.html>3
@@ -95,7 +149,4 @@
 </a><a href=/posts/page/93.html>93
 </a><a href=/posts/page/94.html>94
 </a><a href=/posts/page/95.html>95
-</a><a href=/posts/page/96.html>96
-</a><a href=/posts/page/97.html>97
-</a><a href=/posts/page/98.html>98
-</a><a href=/posts/page/88.html>Next &#187;</a></nav></div></div><script src="/js/lightspa.js?v=1748384349"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1748384349",indexUrl:"/search/search_index.json.gz?v=1748384349"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1748384349"></script><script src="/js/search-results-panel.js?v=1748384349"></script><script src="/js/tiki-redirects.js?v=1748384349"></script></body></html>
+</a><a href=/posts/page/88.html>Next &#187;</a></nav></div></div><script src="/js/lightspa.js?v=1749770015"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770015",indexUrl:"/search/search_index.json.gz?v=1749770015"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770015"></script><script src="/js/tiki-redirects.js?v=1749770015"></script></body></html>

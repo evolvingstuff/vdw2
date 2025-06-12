@@ -144,7 +144,10 @@ body {
     z-index: 1100; /* Higher than search suggestions */
     max-height: 70vh;
     overflow-y: auto;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
     display: none; /* Hide by default */
+    word-wrap: break-word; /* Ensure long words don't cause overflow */
+    box-sizing: border-box; /* Include padding in width calculation */
     margin-left: 10px; /* Add a small gap between search container and results panel */
 }
 
@@ -468,4 +471,30 @@ article {
     flex-shrink: 0;
     width: 90px;
     text-align: right;
+}
+
+/* Pagefind Search Result Styling */
+.search-result-excerpt {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 5px;
+    line-height: 1.4;
+    overflow-wrap: break-word; /* Break long words */
+    word-break: break-word; /* Help with URLs and long words */
+}
+
+.search-result-excerpt mark {
+    background-color: rgba(255, 255, 0, 0.4);
+    padding: 1px 3px;
+    border-radius: 2px;
+}
+
+.search-results-panel .results-list li {
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #eee;
+}
+
+.search-results-panel .results-list li:last-child {
+    border-bottom: none;
 }

@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Less muscle and insulin resistance for children of vitamin D deficient mothers</title>
+<link rel=stylesheet href="/css/main.css?v=1749770012"><link rel=stylesheet href="/css/pagination.css?v=1749770012"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770012"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Less muscle and insulin resistance for children of vitamin D deficient mothers</h1><time>January 14, 2011</time><h4 id=maternal-vitamin-d-status-during-pregnancy-and-body-composition-and-cardiovascular-risk-markers-in-indian-children-the-mysore-parthenon-study>Maternal vitamin D status during pregnancy and body composition and cardiovascular risk markers in Indian children: the Mysore Parthenon Study.</h4><p>AM J CLIN NUTR () (2011)</p><p>Ghattu V Krishnaveni, Sargoor R Veena, Nicola R Winder, Jacqueline C Hill, Kate Noonan, Barbara J Boucher, Samuel C Karat and Caroline Hd Fall</p><p>Epidemiology Research Unit, CSI Holdsworth Memorial Hospital, Mysore, India.</p><p>BACKGROUND: Metabolic consequences of vitamin D deficiency have become a recent research focus. Maternal vitamin D status is thought to influence musculoskeletal health in children, but its relation with offspring metabolic risk is not known.</p><p>OBJECTIVE: We aimed to examine the association between maternal vitamin D status and anthropometric variables, body composition, and cardiovascular risk markers in Indian children.</p><p>DESIGN: Serum 25-hydroxyvitamin D <span>[25(OH)D]</span> concentrations were measured at 28-32 wk gestation in 568 women who delivered at Holdsworth Memorial Hospital, Mysore, India. Anthropometric variables, glucose and insulin concentrations, blood pressure, and fasting lipid concentrations were measured in the offspring at 5 and 9.5 y of age. Muscle-grip strength was measured by using a hand-held dynamometer at age 9.5 y. Arm-muscle area was calculated as a measure of muscle mass. Fasting insulin resistance was calculated by using the homeostasis model assessment equation.</p><p>RESULTS: Sixty-seven percent of women had vitamin D deficiency <a href=serum%2025(OH)D%20concentration%20%3C50%20nmol/L>serum 25(OH)D concentration &lt;50 nmol/L</a>. At ages 5 and 9.5 y, children born to vitamin D-deficient mothers had smaller arm-muscle area in comparison with children born to mothers without deficiency (P &lt; 0.05). There was no difference in grip strength between offspring of women with and without vitamin D deficiency. At 9.5 y, children of vitamin D-deficient mothers had higher fasting insulin resistance than did children of nondeficient women (P = 0.04). There were no associations between maternal vitamin D status and other offspring risk factors at either age.</p><p>CONCLUSION: Intrauterine exposure to low 25(OH)D concentrations is associated with less muscle mass and higher insulin resistance in children. DOI: 10.3945/ajcn.110.003921 * PMID: 21228264</p><hr><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><a href=/posts/low-vitamin-d-in-pregnancy-epigenetic-pancreas-problems-in-offspring-mice style=color:red;text-decoration:underline title="This post/category does not exist yet: Low vitamin D in pregnancy – epigenetic pancreas problems in offspring (mice) – May 2016">Low vitamin D in pregnancy – epigenetic pancreas problems in offspring (mice) – May 2016</a></li></ul></article></div></div><script src="/js/lightspa.js?v=1749770012"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770012",indexUrl:"/search/search_index.json.gz?v=1749770012"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770012"></script><script src="/js/tiki-redirects.js?v=1749770012"></script></body></html>

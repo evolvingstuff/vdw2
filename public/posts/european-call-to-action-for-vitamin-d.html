@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>European call to action for vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1749770005"><link rel=stylesheet href="/css/pagination.css?v=1749770005"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770005"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>European call to action for vitamin D</h1><time>March 31, 2011</time><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#industry-issues-eu-wide-call-to-action-to-raise-vitamin-d-deficiency-awareness-levels>Industry issues EU-wide ‘call to action’ to raise vitamin D deficiency awareness levels</a></li><li><a href=#the-consortium--including>The consortium – including</a></li><li><a href=#vitamin-d-deficiencies>Vitamin D deficiencies</a></li><li><a href=#--note-dsm-may-have-a-conflict-of-interest>* * Note: DSM may have a conflict of interest</a></li></ul></li></ul></li></ul></nav><hr><h4 id=industry-issues-eu-wide-call-to-action-to-raise-vitamin-d-deficiency-awareness-levels>Industry issues EU-wide ‘call to action’ to raise vitamin D deficiency awareness levels</h4><p><strong><a href=http://www.nutraingredients-usa.com/Industry/Industry-issues-EU-wide-call-to-action-to-raise-vitamin-D-deficiency-awareness-levels>URL</a></strong></p><p>A consortium of ingredient suppliers, food manufacturers and public health groups this week issued a ‘call to action’ raise awareness about micronutrient deficiencies among European governments, with an accent on vitamin D.</p><p>The elderly are one population sub-group that may be deficient in certain micronutrients, advocates say</p><h4 id=the-consortium--including>The consortium – including</h4><ul><li><p>DSM *** ***</p></li><li><p>Kraft Foods,</p></li><li><p>Unilever,</p></li><li><p>GAIN (Global Alliance for Improved Nutrition), the</p></li><li><p>International Genetic Alliance and the</p></li><li><p>International Osteoporosis Foundation</p></li></ul><p>– issued a joint statement after meetings in Lyon, France and Brussels, Belgium this week.</p><p>They “urged” European health ministers to:</p><ul><li><p>Implement campaigns to raise awareness of the importance of micronutrients in the diet</p></li><li><p>Ensure that health professionals fully understand the consequences of micronutrient deficiency</p></li><li><p>Promote research in the field of nutrition</p></li><li><p>Provide fact-based information on the role of micronutrients in minimising disease burden and saving on healthcare costs</p></li><li><p>Ensure health professionals can offer effective nutrition care programs to patients.</p></li></ul><p>“Promoting public, private, partnerships, the signatories invite Europe’s health ministers, the World Health Organization (WHO) and the European Commission to work together to increase quality of life for patients, and achieve cost-effective disease prevention,” they wrote.</p><p>They called for a, “‘scaling-up’ of fortification or supplementation programs in high risk groups to tackle specific population based health problems.”</p><h4 id=vitamin-d-deficiencies>Vitamin D deficiencies</h4><p>The parties came together at the 7th World Life Sciences Forum in Lyon and a vitamin D-focused briefing in Brussels yesterday morning that was attended by Mary Honeyball MEP, chair of the European Parliament Interest Group on Osteoporosis along with HOPE (the European Hospitals and Healthcare Federation), the Standing Committee of European Doctors and IDACE (Association of the Food Industries for Particular Nutritional Uses of the European Union).</p><p>There it was demonstrated that €187bn in healthcare costs could be saved in 17 European countries if vitamin D deficiencies could be addressed.</p><p>“Osteoporosis is a major public health problem, with enormous social and economic impact, and yet it is frequently low on the list of healthcare priorities," Honeyball said. &ldquo;As policymakers, we all have to start waking up to the importance of prevention, and look at the important role that good nutrition can play in stopping this problem in its tracks.”</p><p>Leading vitamin D academics including Professor Heike Bischoff-Ferrari, PhD, the director of the Centre on Aging and Mobility at the University of Zurich in Switzerland were in attendance. She stated:</p><p>“Vitamin D supplementation offers an effective, inexpensive and safe public health strategy to reduce 20 per cent of falls and fractures, including those at the hip, in a growing senior segment of the European population. This is an enormous public health benefit we could implement now.”</p><p>Dr Manfred Eggersdorfer, senior vice president of DSM’s nutrition science and advocacy group added: “In promoting the ‘call to action’, we want to ensure that health care decision-makers fully understand the benefits of micronutrients, and their role in avoiding the devastating social and economic impacts of ill health.”</p><hr><h4 id=--note-dsm-may-have-a-conflict-of-interest>* * Note: DSM may have a conflict of interest</h4><ul><li><p><a href=/posts/dsm-owns-many-vitamin-d-patents style=color:red;text-decoration:underline title="This link has an unknown page_id: 1043">DSM owns many vitamin D patents</a></p></li><li><p><a href=/posts/however-dsm-does-not-nearly-as-many-patents-as-others style=color:red;text-decoration:underline title="This link has an unknown page_id: 972">However, DSM does not nearly as many patents as others</a></p></li></ul></article></div></div><script src="/js/lightspa.js?v=1749770006"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770006",indexUrl:"/search/search_index.json.gz?v=1749770006"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770006"></script><script src="/js/tiki-redirects.js?v=1749770006"></script></body></html>

@@ -1,77 +1,140 @@
 /**
- * Search functionality for Hugo site
- * Handles search index loading, search execution, and suggestions
+ * Search functionality for Hugo site using Pagefind
+ * Handles search initialization, execution, and results display
  */
 
 class Search {
     constructor(config = {}) {
         this.config = {
             searchInputId: 'search-input',
-            searchResultsId: 'search-results',
-            suggestionsId: 'suggestions',
+            searchResultsPanelId: 'search-results-panel',
+            searchResultsListId: 'search-results-list',
             searchStatusId: 'search-status',
-            documentsUrl: '/search/search_documents.json.gz',  // Use .gz extension explicitly
-            indexUrl: '/search/search_index.json.gz',          // Use .gz extension explicitly
             ...config
         };
-
+        
+        // Reference to key DOM elements
         this.searchInput = document.getElementById(this.config.searchInputId);
-        this.searchResults = document.getElementById(this.config.searchResultsId);
-        this.suggestionsDiv = document.getElementById(this.config.suggestionsId);
         this.searchStatus = document.getElementById(this.config.searchStatusId);
         
-        // Disable search until initialized
+        // Create search UI elements if they don't exist
+        this.createSearchUI();
+        
+        // State tracking
+        this.pagefindInitialized = false;
+        this.isResultsPanelVisible = false;
+        
+        // Disable search until Pagefind is initialized
         if (this.searchInput) {
             this.searchInput.disabled = true;
             this.searchInput.placeholder = 'Loading search...';
         }
         
-        // if (this.searchStatus) {
-        //     this.searchStatus.textContent = 'Initializing search...';
-        //     this.searchStatus.style.display = 'block';
-        // }
-
-        // Flag to track if pako is available
-        this.pakoLoaded = false;
+        if (this.searchStatus) {
+            this.searchStatus.textContent = 'Initializing search...';
+            this.searchStatus.style.display = 'block';
+        }
         
-        // Check if pako is already loaded
-        if (typeof pako !== 'undefined') {
-            console.log('Pako already loaded');
-            this.pakoLoaded = true;
-            this.init();
+        // Make the search instance available globally for module script to access
+        window.searchInstance = this;
+        
+        // Initialize event listeners
+        this.initializeEventListeners();
+        
+        console.log('Search instance created, waiting for Pagefind initialization');
+    }
+    
+    /**
+     * Create search UI elements if they don't exist
+     */
+    createSearchUI() {
+        // Check if search results panel exists
+        this.resultsPanel = document.getElementById(this.config.searchResultsPanelId);
+        
+        if (!this.resultsPanel) {
+            console.log('Creating search results panel elements');
+            
+            // Create the panel
+            this.resultsPanel = document.createElement('div');
+            this.resultsPanel.id = this.config.searchResultsPanelId;
+            this.resultsPanel.className = 'search-results-panel';
+            
+            // Add a header to the panel with "Search Results" text
+            const resultsHeader = document.createElement('div');
+            resultsHeader.className = 'results-header';
+            resultsHeader.textContent = 'Search Results';
+            this.resultsPanel.appendChild(resultsHeader);
+            
+            // Add results list container
+            this.searchResultsList = document.createElement('ul');
+            this.searchResultsList.id = this.config.searchResultsListId;
+            this.searchResultsList.className = 'results-list';
+            
+            // Add close button
+            const closeButton = document.createElement('button');
+            closeButton.className = 'search-results-close';
+            closeButton.textContent = '×';
+            closeButton.setAttribute('aria-label', 'Close search results');
+            closeButton.onclick = () => this.hideSearchResults();
+            
+            // Assemble the panel
+            this.resultsPanel.appendChild(closeButton);
+            this.resultsPanel.appendChild(this.searchResultsList);
+            
+            document.body.appendChild(this.resultsPanel);
+            console.log('Search results panel added to DOM');
         } else {
-            // Load pako dynamically
-            this.loadPako()
-                .then(() => {
-                    console.log('Pako loaded successfully');
-                    this.pakoLoaded = true;
-                    this.init();
-                })
-                .catch(error => {
-                    console.error('Failed to load pako:', error);
-                    this.handleInitError(`Failed to load decompression library: ${error.message}`);
-                });
+            // Get the existing results list
+            console.log('Found existing search results panel');
+            this.searchResultsList = document.getElementById(this.config.searchResultsListId);
+            
+            if (!this.searchResultsList) {
+                console.warn('Results list not found inside panel - creating it');
+                this.searchResultsList = document.createElement('ul');
+                this.searchResultsList.id = this.config.searchResultsListId;
+                this.searchResultsList.className = 'results-list';
+                this.resultsPanel.appendChild(this.searchResultsList);
+            }
+        }
+        
+        // Add debug info to DOM elements for easier inspection
+        if (this.resultsPanel) {
+            this.resultsPanel.setAttribute('data-initialized', 'true');
+        }
+        if (this.searchResultsList) {
+            this.searchResultsList.setAttribute('data-initialized', 'true');
+        }
+        
+        // Set initial visibility
+        if (this.resultsPanel) {
+            this.resultsPanel.style.display = 'none';
+            this.isResultsPanelVisible = false;
+            console.log('Initialized search results panel, initially hidden');
         }
     }
 
     /**
-     * Loads the pako library dynamically
+     * Called by the module script once Pagefind is loaded and initialized
      */
-    loadPako() {
-        return new Promise((resolve, reject) => {
-            console.log('Loading pako library...');
-            const script = document.createElement('script');
-            script.src = 'https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js';
-            script.onload = () => {
-                if (typeof pako === 'undefined') {
-                    reject(new Error('Pako loaded but not defined'));
-                } else {
-                    resolve();
-                }
-            };
-            script.onerror = () => reject(new Error('Failed to load pako script'));
-            document.head.appendChild(script);
-        });
+    initializePagefind(pagefindInstance) {
+        if (!pagefindInstance) {
+            throw new Error('Invalid Pagefind instance provided to initializePagefind');
+        }
+        
+        console.log('Pagefind instance received in search.js');
+        this.pagefind = pagefindInstance;
+        this.pagefindInitialized = true;
+        
+        // Enable search now that Pagefind is ready
+        if (this.searchInput) {
+            this.searchInput.disabled = false;
+            this.searchInput.placeholder = 'Search...';
+        }
+        
+        if (this.searchStatus) {
+            this.searchStatus.textContent = '';
+            this.searchStatus.style.display = 'none';
+        }
     }
 
     /**
@@ -88,284 +151,272 @@ class Search {
             this.searchInput.placeholder = 'Search unavailable';
         }
     }
-
+    
     /**
-     * Decompress gzipped data using pako
+     * Show an error message in the search results
      */
-    decompressWithPako(compressedData) {
-        console.log(`Decompressing data (${compressedData.byteLength} bytes)...`);
+    showError(message) {
+        console.error('Search error:', message);
         
-        try {
-            // Verify we have pako available
-            if (!this.pakoLoaded) {
-                throw new Error('Decompression library not loaded');
-            }
+        if (this.searchResultsList) {
+            // Clear existing results
+            this.searchResultsList.innerHTML = '';
             
-            // Decompress using pako
-            const decompressedArray = pako.inflate(new Uint8Array(compressedData));
-            const decompressedText = new TextDecoder().decode(decompressedArray);
+            const errorElement = document.createElement('li');
+            errorElement.className = 'search-error';
+            errorElement.textContent = message;
+            errorElement.style.color = 'red';
+            this.searchResultsList.appendChild(errorElement);
             
-            // Validate decompressed data
-            if (!decompressedText || decompressedText.length === 0) {
-                throw new Error('Decompression produced empty result');
-            }
-            
-            console.log(`Decompression successful (${decompressedText.length} chars)`);
-            return decompressedText;
-        } catch (error) {
-            console.error('Decompression error:', error);
-            throw new Error(`Failed to decompress gzipped data: ${error.message}`);
+            // Show the panel
+            this.showSearchResults();
         }
     }
 
-    async init() {
-        if (!this.pakoLoaded) {
-            this.handleInitError('Decompression library not loaded');
+    /**
+     * Handle search input changes
+     */
+    handleSearch() {
+        const query = this.searchInput.value.trim();
+        
+        if (!query || query.length < 2) {
+            this.hideSearchResults();
             return;
         }
         
-        try {
-            // Add cache buster to prevent server caching issues
-            const cacheBuster = `?v=${Date.now()}`;
-            const docsUrl = `${this.config.documentsUrl}${cacheBuster}`;
-            const indexUrl = `${this.config.indexUrl}${cacheBuster}`;
-            
-            console.log('Fetching compressed search indices:', docsUrl, indexUrl);
-            
-            // Fetch compressed data
-            const [docsResponse, indexResponse] = await Promise.all([
-                fetch(docsUrl),
-                fetch(indexUrl)
-            ]);
-            
-            // Validate responses
-            if (!docsResponse.ok) {
-                throw new Error(`Failed to fetch documents: HTTP ${docsResponse.status} (${docsResponse.statusText})`);
-            }
-            
-            if (!indexResponse.ok) {
-                throw new Error(`Failed to fetch index: HTTP ${indexResponse.status} (${indexResponse.statusText})`);
-            }
-            
-            // Log response headers for debugging
-            console.log('Documents response headers:', 
-                Array.from(docsResponse.headers.entries())
-                    .map(([k, v]) => `${k}: ${v}`)
-                    .join(', '));
-            
-            console.log('Index response headers:', 
-                Array.from(indexResponse.headers.entries())
-                    .map(([k, v]) => `${k}: ${v}`)
-                    .join(', '));
-            
-            // Get binary data
-            const [docsData, indexData] = await Promise.all([
-                docsResponse.arrayBuffer(),
-                indexResponse.arrayBuffer()
-            ]);
-            
-            // Validate received data
-            if (!docsData || docsData.byteLength === 0) {
-                throw new Error('Received empty documents data');
-            }
-            
-            if (!indexData || indexData.byteLength === 0) {
-                throw new Error('Received empty index data');
-            }
-            
-            console.log(`Received data: docs=${docsData.byteLength} bytes, index=${indexData.byteLength} bytes`);
-            
-            // Try to decompress the data
-            let docsJson, indexJson;
-            
-            try {
-                // Decompress documents data
-                const docsText = this.decompressWithPako(docsData);
-                
-                // Parse JSON
-                try {
-                    docsJson = JSON.parse(docsText);
-                    console.log(`Successfully parsed documents JSON (${docsJson.length} documents)`);
-                } catch (parseError) {
-                    throw new Error(`Failed to parse documents JSON: ${parseError.message}`);
-                }
-                
-                // Decompress index data
-                const indexText = this.decompressWithPako(indexData);
-                
-                // Parse JSON
-                try {
-                    indexJson = JSON.parse(indexText);
-                    console.log('Successfully parsed index JSON');
-                } catch (parseError) {
-                    throw new Error(`Failed to parse index JSON: ${parseError.message}`);
-                }
-                
-                // Validate docs structure
-                if (!Array.isArray(docsJson) || docsJson.length === 0) {
-                    throw new Error('Invalid documents data format: expected non-empty array');
-                }
-                
-                // Initialize search
-                this.documents = docsJson;
-                this.idx = lunr.Index.load(indexJson);
-                
-                // Build clean title words set
-                this.allTitles = new Set();
-                this.documents.forEach(doc => {
-                    if (!doc.title) {
-                        console.warn('Document missing title:', doc);
-                        return;
-                    }
-                    
-                    const titleWords = doc.title
-                        .toLowerCase()
-                        .split(/[\s\-]+/)
-                        .filter(word => word.length > 0);
-                    
-                    titleWords.forEach(word => 
-                        this.allTitles.add(this.cleanWord(word))
-                    );
-                });
-                
-                console.log('Built title set with', this.allTitles.size, 'unique words');
-                
-                // Enable search UI
-                if (this.searchInput) {
-                    this.searchInput.disabled = false;
-                    this.searchInput.placeholder = 'Search...';
-                    this.searchInput.addEventListener('input', this.handleSearch.bind(this));
-                }
-                
-                if (this.searchStatus) {
-                    this.searchStatus.style.display = 'none';
-                }
-                
-                console.log('Search initialization complete');
-                
-            } catch (processingError) {
-                console.error('Failed to process search data:', processingError);
-                this.handleInitError(processingError.message);
-            }
-            
-        } catch (error) {
-            console.error('Search initialization failed:', error);
-            this.handleInitError(error.message);
+        // Clear previous results
+        if (this.searchResultsList) {
+            this.searchResultsList.innerHTML = '';
         }
-    }
-
-    cleanWord(word) {
-        return word.toLowerCase().replace(/[,\.;:]\s*$/, '');
-    }
-
-    async fetchWithDetailedTiming(url) {
-        const startTime = performance.now();
-        try {
-            console.log('Fetching:', url);
-            const response = await fetch(url);
-            const fetchTime = performance.now();
-            console.log(`Fetch took: ${(fetchTime - startTime).toFixed(2)}ms`);
-            
-            console.log('Parsing JSON...');
-            const parseStart = performance.now();
-            const data = await response.json();
-            const parseEnd = performance.now();
-            console.log(`JSON parse took: ${(parseEnd - parseStart).toFixed(2)}ms`);
-            
-            console.log(`Total size: ${(response.headers.get('content-length')/1024/1024).toFixed(2)}MB`);
-            console.log(`Content-Encoding: ${response.headers.get('content-encoding') || 'none'}`);
-            
-            return data;
-        } catch (error) {
-            console.error(`Error after ${(performance.now() - startTime).toFixed(2)}ms:`, error);
-            throw error;
-        }
-    }
-
-    handleSearch() {
-        const query = this.searchInput.value;
-        const lastChar = query[query.length - 1];
-        const words = query.toLowerCase().split(/\s+/).filter(w => w.length > 0);
         
-        this.searchResults.innerHTML = '';
-        this.suggestionsDiv.innerHTML = '';
+        // Always attempt the search - we'll handle initialization issues in performPagefindSearch
+        this.performPagefindSearch(query);
+    }
 
-        if (query.length >= 2) {
-            try {
-                // First search titles
-                const titleResults = this.idx.search(`title:${query}`);
-                
-                // Then search content
-                const contentResults = this.idx.search(`content:${query}`);
-                
-                // Combine results, with titles first
-                const results = [
-                    ...titleResults,
-                    ...contentResults.filter(r => !titleResults.find(tr => tr.ref === r.ref))
-                ];
-
-                this.displayResults(results);
-                this.showSuggestions(words, lastChar);
-            } catch (e) {
-                console.error('Search error:', e);
+    /**
+     * Perform a search using Pagefind and display results
+     */
+    async performPagefindSearch(query) {
+        console.log(`Performing Pagefind search for: "${query}"`);
+        
+        try {
+            if (!window.pagefind) {
+                throw new Error('Pagefind global object not available');
             }
+            
+            // Pagefind is available in the global scope even if our instance isn't initialized
+            // This happens because window.pagefind is set by the ES module before our class is notified
+            const pagefindToUse = this.pagefindInitialized ? this.pagefind : window.pagefind;
+            
+            const searchResults = await pagefindToUse.search(query);
+            
+            if (!searchResults) {
+                throw new Error('Invalid search results from Pagefind');
+            }
+            
+            console.log(`Pagefind found ${searchResults.results ? searchResults.results.length : 0} results`);
+            
+            if (!searchResults.results || searchResults.results.length === 0) {
+                this.displayResults([]);
+                return;
+            }
+            
+            // Process the results to get full details
+            const processPromises = searchResults.results.map(async (result) => {
+                try {
+                    return await result.data();
+                } catch (error) {
+                    console.error('Error processing Pagefind result:', error);
+                    return null;
+                }
+            });
+            
+            // Wait for all results to be processed
+            const processedResults = await Promise.all(processPromises);
+            
+            // Filter out any null results and display them
+            const validResults = processedResults.filter(result => result !== null);
+            console.log(`Successfully processed ${validResults.length} out of ${searchResults.results.length} results`);
+            
+            // Debug the structure of the first result
+            if (validResults.length > 0) {
+                console.log('First result structure:', Object.keys(validResults[0]));
+            }
+            
+            this.displayResults(validResults);
+            
+        } catch (error) {
+            console.error('Pagefind search error:', error);
+            this.showError(`Search failed: ${error.message}`);
         }
     }
 
+    /**
+     * Display search results in the results panel
+     */
     displayResults(results) {
-        results.forEach(result => {
-            const doc = this.documents.find(d => d.url === result.ref);
+        console.log(`Displaying ${results ? results.length : 0} search results`);
+        
+        // Check if we have the search results list element
+        if (!this.searchResultsList) {
+            console.error('Search results list element not found');
+            // Try to recreate the UI
+            this.createSearchUI();
+            if (!this.searchResultsList) {
+                console.error('Failed to create search results list');
+                return;
+            }
+        }
+    
+        // Clear existing results
+        this.searchResultsList.innerHTML = '';
+    
+        if (!results || results.length === 0) {
+            const li = document.createElement('li');
+            li.textContent = 'No results found';
+            li.className = 'no-results';
+            this.searchResultsList.appendChild(li);
+            this.showSearchResults();
+            return;
+        }
+        
+        // Debug: let's see what's in the results
+        console.log('First search result data:', JSON.stringify(results[0]).substring(0, 200) + '...');
+        
+        // Add results to the DOM
+        results.forEach((data, index) => {
+            console.log(`Processing result #${index + 1}`);
+            
+            if (!data || !data.url) {
+                console.warn(`Result #${index + 1} is missing required data:`, data);
+                return; // Skip invalid result
+            }
+            
             const li = document.createElement('li');
             const a = document.createElement('a');
-            a.href = doc.url;
-            a.textContent = doc.title;
+            
+            // Use URL and title from Pagefind results
+            a.href = data.url;
+            
+            // Make sure we have a title, use URL as fallback
+            let title = 'Untitled Page';
+            if (data.meta && data.meta.title) {
+                title = data.meta.title;
+            } else if (data.title) {
+                title = data.title;
+            }
+            a.textContent = title;
+            
+            // Add click handler to clear search when a result is clicked
+            a.addEventListener('click', () => {
+                // Use setTimeout to allow the navigation to start before clearing
+                setTimeout(() => this.clearSearch(), 0);
+            });
+            
             li.appendChild(a);
-            this.searchResults.appendChild(li);
+            
+            // Add excerpt if available
+            if (data.excerpt) {
+                const excerptDiv = document.createElement('div');
+                excerptDiv.className = 'search-result-excerpt';
+                excerptDiv.innerHTML = data.excerpt;
+                li.appendChild(excerptDiv);
+            }
+            
+            // Add to results list
+            this.searchResultsList.appendChild(li);
+            console.log(`Added result #${index + 1} to DOM: "${title.substring(0, 30)}..."`);
         });
+        
+        // Add a "Search powered by Pagefind" attribution at the bottom
+        const attribution = document.createElement('li');
+        attribution.className = 'search-attribution';
+        attribution.textContent = 'Search powered by Pagefind';
+        this.searchResultsList.appendChild(attribution);
+        
+        // Show the results panel
+        this.showSearchResults();
+        console.log('Results rendered and panel shown');
     }
-
-    showSuggestions(words, lastChar) {
-        const suggestions = Array.from(this.allTitles)
-            .filter(word => 
-                !words.includes(word.toLowerCase()) && 
-                word.toLowerCase().startsWith(lastChar === ' ' ? '' : words[words.length - 1])
-            )
-            .slice(0, 5);
-
-        suggestions.forEach(suggestion => {
-            const div = document.createElement('div');
-            div.className = 'suggestion';
-            div.textContent = suggestion;
-            div.onclick = () => this.handleSuggestionClick(suggestion, words, lastChar);
-            this.suggestionsDiv.appendChild(div);
-        });
-    }
-
-    handleSuggestionClick(suggestion, words, lastChar) {
-        if (lastChar === ' ') {
-            this.searchInput.value = this.searchInput.value + suggestion + ' ';
+    
+    /**
+     * Show the search results panel
+     */
+    showSearchResults() {
+        if (this.resultsPanel) {
+            console.log('Showing search results panel');
+            this.resultsPanel.style.display = 'block';
+            this.isResultsPanelVisible = true;
         } else {
-            words[words.length - 1] = suggestion;
-            this.searchInput.value = words.join(' ') + ' ';
+            console.error('Cannot show results panel - element not found');
+            // Try to recreate the panel as a fallback
+            this.createSearchUI();
+            if (this.resultsPanel) {
+                this.resultsPanel.style.display = 'block';
+                this.isResultsPanelVisible = true;
+            }
         }
-        this.suggestionsDiv.innerHTML = '';
-        this.handleSearch();
+    }
+    
+    /**
+     * Hide the search results panel
+     */
+    hideSearchResults() {
+        if (this.resultsPanel) {
+            this.resultsPanel.style.display = 'none';
+            this.isResultsPanelVisible = false;
+        }
+    }
+    
+    /**
+     * Clear search input and hide results
+     */
+    clearSearch() {
+        if (this.searchInput) {
+            this.searchInput.value = '';
+        }
+        this.hideSearchResults();
     }
 
+    /**
+     * Set up all event listeners
+     */
     initializeEventListeners() {
         // Search input handler
-        // Hide suggestions when clicking outside
+        if (this.searchInput) {
+            // Handle input changes
+            this.searchInput.addEventListener('input', () => {
+                this.handleSearch();
+            });
+            
+            // Handle Enter key
+            this.searchInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    this.handleSearch();
+                }
+            });
+        }
+        
+        // Close results when clicking outside
         document.addEventListener('click', (e) => {
-            if (!e.target.closest('.search-container')) {
-                this.suggestionsDiv.innerHTML = '';
+            if (this.isResultsPanelVisible && 
+                !e.target.closest('.search-container') && 
+                !e.target.closest('.search-results-panel')) {
+                this.hideSearchResults();
+            }
+        });
+        
+        // Add ESC key handler to close search results
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && this.isResultsPanelVisible) {
+                this.hideSearchResults();
+                if (this.searchInput) this.searchInput.blur();
             }
         });
     }
-
-    updateSearchUI() {
-        // Update any search-related UI if needed, but don't reload index
-        this.searchInput.value = '';
-        this.searchResults.innerHTML = '';
-        this.suggestionsDiv.innerHTML = '';
-    }
 }
+
+// Create search instance when DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    window.search = new Search();
+});

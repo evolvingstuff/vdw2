@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>2000 IU of vitamin D is a step in the right direction for Canada</title>
+<link rel=stylesheet href="/css/main.css?v=1749769994"><link rel=stylesheet href="/css/pagination.css?v=1749769994"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749769994"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>2000 IU of vitamin D is a step in the right direction for Canada</h1><time>November 7, 2011</time><h1 id=a-step-in-the-right-direction>A step in the right direction</h1><p>CMAJ. 2010 November 9; 182(16): 1763. <a href=https://doi.org/10.1503/cmaj.110-2118>doi: 10.1503/cmaj.110-2118</a></p><p>Gerry K. Schwalfenberg, MD; Department of Family Medicine, University of Alberta, Edmonton, Alta</p><p>I applaud the new vitamin D in adult health and disease guideline statement. Certainly this is a step in the right direction. Average 25(OH)D levels in all studies in Canada,2 including Health Canada’s household studies, are consistently below the recommended 75 – 80 nmol/L. Supplementation with 1000IU of vitamin D3 in the general population would result in a mean 25(OH)D level slightly above 85 nmol/L still leaving 20% – 30% of Canadians below the suggested 75 nmol/L. That’s not good enough. These studies show that children and teens have significant insufficiency. Addressing osteoporosis early will influence peak bone mass and result in stronger bones for the future.</p><p>Supplementation with 2000 IU of vitamin D3 in an institutionalized group (tested after a minimum of five months of supplementation) did not result in toxicity and did not achieve normal levels for everyone (94% > 80 nmol/L).3</p><p>The use of 2000 IU in the first year of life reduced the risk of developing type 1 diabetes over the next 30 years.4</p><p>There is emerging evidence of the benefit of vitamin D in the immune system for oral health, tuberculosis, influenza, hepatitis C, eczema, wound-healing, etc. Vitamin D levels required may be significantly higher than 75 nmol/L.5</p><p>Should we not be looking at using 2000 IU for all Canadians since the authors suggest this is safe and does not require monitoring? In implementing this strategy, the economic benefit to the Canadian population has been estimated in the billions of dollars.6</p><h2 id=references>REFERENCES</h2><ol><li><p>Hanley DA, Cranney A, Jones G. Vitamin D in adult health and disease: a review and guideline statement from Osteoporosis Canada (summary) CMAJ. 2010;182:1315–9. <span>[PMC free article]</span> <span>[PubMed]</span></p></li><li><p>Schwalfenberg GK, Genuis SJ, Hiltz MN. Addressing vitamin D deficiency in Canada: A public health innovation whose time has come. Public Health. 2010;124:350–9. <span>[PubMed]</span></p></li><li><p>Schwalfenberg GK, Genuis SJ. Vitamin D supplementation in a nursing home population. Mol Nutr Food Res. 2010;54:1072–6. <span>[PubMed]</span></p></li><li><p>Hyppönen E, Läärä E, Reunanen A, et al. Intake of vitamin D and risk of type 1 diabetes: a birth-cohort study. Lancet. 2001;358:1500–3. <span>[PubMed]</span></p></li><li><p>Schwalfenberg GK. A review of the critical role of vitamin D in the functioning of the immune system and the clinical implications of vitamin D deficiency. Mol Nutr Food Res. 2010 Sep 7; <span>[Epub ahead of print]</span></p></li><li><p>Grant WB, Schwalfenberg GK, Genuis SJ, et al. An estimate of the economic burden and premature deaths due to vitamin D deficiency in Canada. Mol Nutr Food Res. 2010;54:1172–81. <span>[PubMed]</span></p></li></ol><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=4&amp;sort_mode=created_desc">All items in How Much Vitamin D</a> 197 items as of Nov 2011</p></li><li><p><a href=/posts/four-reasons-why-vitamin-d-levels-should-be-higher-the-30-ng style=color:red;text-decoration:underline title="This link has an unknown page_id: 1968">Four reasons why vitamin D levels should be higher the 30 ng – Aug 2011</a></p></li><li><p><a href=/posts/cadavers-with-good-skeletons-had-30-ng-of-vitamin-d>Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010</a></p></li><li><p><a href=/posts/overview-how-much-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 766">Overview How Much vitamin D</a> which includes the following</p></li></ul><p>Everyone older than 11 years should be taking AT LEAST 2000 IU of vitamin D daily everywhere around the world</p><p>I realize that the 2010 US standard specifies a <strong>minimum</strong> of 400 or 600 IU. But, the that is like a <strong>minimum wage</strong> - very difficult to live on</p><p>The US and the <a href=/posts/european-union style=color:red;text-decoration:underline title="This link has an unknown page_id: 814">European Union</a> both currently have an Upper Limit of 2000 IU which will probably be revised upward in late 2010.</p><h2 id=you-can-see-in-the-following-chart-20ng-does-not-reduce-the-probability-of-any-disease-except-rickets>You can see in the following chart, 20ng does not reduce the probability of any disease except rickets</h2><img src=/attachments/d3.mock.jpg alt=image><ul><li><a href="https://www.VitaminDWiki.com/tiki-index.php?page=Vit+D+decreases+incidence+of+disease">CLICK HERE for larger image and more charts of disease incidence</a></li></ul></article></div></div><script src="/js/lightspa.js?v=1749769994"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749769994",indexUrl:"/search/search_index.json.gz?v=1749769994"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749769994"></script><script src="/js/tiki-redirects.js?v=1749769994"></script></body></html>

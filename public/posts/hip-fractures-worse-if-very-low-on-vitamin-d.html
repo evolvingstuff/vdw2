@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Hip fractures worse if very low on vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1749770008"><link rel=stylesheet href="/css/pagination.css?v=1749770008"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770008"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Hip fractures worse if very low on vitamin D</h1><time>March 12, 2011</time><h1 id=hypovitaminosis-d-as-a-risk-factor-of-hip-fracture-severity>Hypovitaminosis D as a risk factor of hip fracture severity.</h1><p>Osteoporos Int. 2011 Mar 11.</p><p>Larrosa M, Gomez A, Casado E, Moreno M, Vázquez I, Orellana C, Berlanga E, Ramon J, Gratacos J.</p><p>Rheumatology Department, University Institute Parc Taulí (UAB), Parc Tauli s/n, 08208, Sabadell, Barcelona, Spain, <a href=mailto:mlarrosa@tauli.cat>mlarrosa@tauli.cat</a>.</p><p>In a cross-sectional study including 324 patients older than 65 years admitted to our hospital for osteoporotic hip fracture, we found that those patients with a more severe vitamin D deficiency had more severe osteoporotic hip fractures (Garden grades III-IV and Kyle III-IV).</p><p>INTRODUCTION: To identify possible differences in baseline characteristics of patients with different types of osteoporotic hip fracture.</p><p>METHODS: Cross-sectional study including consecutive individuals over 65 admitted to our hospital for osteoporotic hip fracture over a year. Demographic data, fracture type, comorbidities, history of osteoporosis, functional capacity, nutritional status and vitamin D storage were evaluated.</p><p>RESULTS: We included 324 patients (83?±?7 years, 80% women). Two hundred sixteen patients (67%) had vitamin D deficiency (25OHD3 &lt;25 ng/ml). In patients with severe femoral neck or intertrochanteric fractures (Garden III-IV and Kyle III-IV), vitamin D deficiency was more frequent (74%) and severe (25OHD3 20?±?15 ng/ml) than in patients with less severe fractures (57%, 25OHD3 26?±?21 ng/ml). Forty-three percent of patients had previous fractures. Only 15% of patients had been previously diagnosed with osteoporosis and 10% were receiving treatment. Patients receiving vitamin D supplements have higher 20OHD3 levels and less severe fractures.</p><p>CONCLUSIONS: Although vitamin D levels are not different between patients with intracapsular or extracapsular hip fractures, a more severe vitamin D deficiency seems to be associated to more severe osteoporotic hip fractures. A prior vitamin D supplementation could avoid a higher severity of these fractures.</p><p>PMID: 21394494</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/overview-bone-fractures-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 1344">Overview: Bone fractures and vitamin D</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;sort_mode=created_desc">All items: After surgery or trauma</a></p></li></ul></article></div></div><script src="/js/lightspa.js?v=1749770008"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770008",indexUrl:"/search/search_index.json.gz?v=1749770008"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770008"></script><script src="/js/tiki-redirects.js?v=1749770008"></script></body></html>

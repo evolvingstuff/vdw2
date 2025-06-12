@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Atherosclerosis associated with low vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1749769999"><link rel=stylesheet href="/css/pagination.css?v=1749769999"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749769999"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Atherosclerosis associated with low vitamin D</h1><time>July 3, 2011</time><p> </p><h1 id=vitamin-d-deficiency-is-associated-with-subclinical-carotid-atherosclerosis-the-northern-manhattan-study>Vitamin D Deficiency Is Associated With Subclinical Carotid Atherosclerosis: The Northern Manhattan Study.</h1><p>Stroke. 2011 Jun 30.</p><p>Carrelli AL, Walker MD, Lowe H, McMahon DJ, Rundek T, Sacco RL, Silverberg SJ.</p><p>Department of Medicine, College of Physicians and Surgeons, Columbia University, New York, NY; and the Department of Neurology, University of Miami Miller School of Medicine, Miami, FL.</p><p>BACKGROUND AND PURPOSE:</p><p>The purpose of this study was to assess the association of vitamin D deficiency and indices of mineral metabolism with subclinical carotid markers that predict cardiovascular events.</p><p>METHODS:</p><p>Two hundred three community-dwelling adults (Northern Manhattan Study; age, <strong>68</strong> ±11; age range, 50 to 93 years) had serum measurements (calcium, phosphorus, 25-hydroxyvitamin D, 1,25-dihydroxyvitamin D, parathyroid hormone) and carotid ultrasound (plaque presence, number, maximal carotid plaque thickness, intima-media thickness).</p><p>RESULTS:</p><p>Adjusting for cardiovascular risk factors, plaque number was associated with phosphorus levels (?=0.39 per 1-mg/dL increase; P=0.02) and calcium-phosphorus product (?=0.36 per 10-U increase; P=0.03).</p><p>In those with plaque (N=116 <span>[57%]</span>), the association of plaque number with phosphorus and calcium-phosphorus product persisted.</p><p>In addition, 25-hydroxyvitamin D was inversely associated with both</p><p>(intima-media thickness (?=-0.01 per 10-ng/mL increase; P=0.05) and</p><ul><li>maximal carotid plaque thickness (?=-0.10 per 10-ng/mL increase; P=0.03).</li></ul><p>In a model containing traditional cardiac risk factors and indices of mineral metabolism, 25-hydroxyvitamin D <strong>accounted for 13% of the variance</strong> in both intima-media thickness and maximal carotid plaque thickness.</p><p>Calcium, parathyroid hormone, and 1,25-dihydroxyvitamin D levels were not associated with carotid measures.</p><p>CONCLUSIONS:</p><p>After adjusting for cardiovascular risk factors and renal function, serum phosphorus and calcium-phosphorus product were associated with a greater burden of subclinical carotid atherosclerosis. <strong>Low 25-hydroxyvitamin D levels were associated with increased intima-media thickness and maximal carotid plaque thickness in those with plaque, and 25-hydroxyvitamin D contributed in a robust manner to the variance in both.</strong> These results confirm and extend data on the association of low vitamin D levels with subclinical carotid atherosclerosis. The precise nature of this association and the optimum levels of vitamin D for vascular health remain to be elucidated.</p><p>PMID: 21719770</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/vitamin-d-might-deal-with-atherosclerosis>Vitamin D might deal with atherosclerosis – Jan 2011</a></p></li><li><p><a href=/posts/overview-strokes-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 1353">Overview Strokes and vitamin D</a></p></li><li><p><a href=/posts/vitamin-d-is-a-promising-way-to-deal-with-atherosclerosis style=color:red;text-decoration:underline title="This link has an unknown page_id: 806">Vitamin D is a promising way to deal with atherosclerosis – Aug 2010</a></p></li><li><p><a href="http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&amp;ie=UTF-8&amp;q=Atherosclerosis+OR+stroke&amp;sa=Search&amp;siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26sanitize%3D0%26v%3D87a5bbb6532e47fc%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D607722344">Google search of VitaminDWiki for Atherosclerosis OR stroke</a> - 225 items as of July 2011</p></li></ul></article></div></div><script src="/js/lightspa.js?v=1749769999"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749769999",indexUrl:"/search/search_index.json.gz?v=1749769999"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749769999"></script><script src="/js/tiki-redirects.js?v=1749769999"></script></body></html>

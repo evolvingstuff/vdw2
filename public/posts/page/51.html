@@ -1,5 +1,59 @@
 <!doctype html><html><head><meta charset=utf-8><title>Posts</title>
-<link rel=stylesheet href="/css/main.css?v=1748384343"><link rel=stylesheet href="/css/pagination.css?v=1748384343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src=https://unpkg.com/lunr/lunr.js></script><script src=https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js></script><script src="/js/search.js?v=1748384343"></script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts</h1><article><h2><a href=/posts/vitamin-d-reduces-many-cardiovascular-risk-factors-provided-doses-are-personalized-meta-analysis.html>Vitamin D reduces many Cardiovascular risk factors (provided doses are personalized) – meta-analysis</a></h2><time>July 29, 2024</time></article><article><h2><a href=/posts/analysis-of-280-breast-cancer-meta-analyses-having-low-vitamin-d-was-highly-suggestive-umbrella.html>Analysis of 280 Breast Cancer meta-analyses: having low vitamin D was highly suggestive – umbrella</a></h2><time>July 28, 2024</time></article><article><h2><a href=/posts/i-might-get-banned-for-this-vitamin-d-video.html>I Might Get Banned for This... (vitamin D video)</a></h2><time>July 28, 2024</time></article><article><h2><a href=/posts/predicted-vitamin-d-levels-for-health-young-women-had-95-percent-accuracy-using--network-paywall.html>Predicted Vitamin D levels for health young women had 95% accuracy using neural network (paywall)</a></h2><time>July 28, 2024</time></article><article><h2><a href=/posts/vitamindwiki-items-have-phrase-in-the-title-986-vitamin-d-357-magnesium-398-omega-3-985-rct.html>VitaminDWiki items have phrase in the title: 986 Vitamin D, 357 Magnesium, 398 Omega-3, 985 RCT</a></h2><time>July 27, 2024</time></article><article><h2><a href=/posts/cbd-improves-the-activation-of-5-vitamin-d-genes-in-rats.html>CBD improves the activation of 5 Vitamin D genes (in rats)</a></h2><time>July 23, 2024</time></article><article><h2><a href=/posts/vitamin-d-can-be-activated-in-many-tissues-no-kidney-needed.html>Vitamin D can be activated in many tissues - no Kidney needed</a></h2><time>July 23, 2024</time></article><article><h2><a href=/posts/vitamin-d-test-result-can-vary-by-40-ng-10-reasons.html>Vitamin D test result can vary by 40 ng (10 reasons)</a></h2><time>July 23, 2024</time></article><article><h2><a href=/posts/153-x-fewer-covid-deaths-in-those-getting-vitamin-d-injections-in-icu-rct.html>15.3 X fewer COVID deaths in those getting Vitamin D injections in ICU – RCT</a></h2><time>July 22, 2024</time></article><article><h2><a href=/posts/spinal-tb-surgery-now-includes-vitamin-d-as-the-standard-of-care-5000-iu-daily.html>Spinal TB surgery now includes Vitamin D as the standard of care (5,000 IU daily)</a></h2><time>July 22, 2024</time></article><nav class=pagination><a href=/posts/page/50.html>&#171; Previous</a>
+<link rel=stylesheet href="/css/main.css?v=1749770006"><link rel=stylesheet href="/css/pagination.css?v=1749770006"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770006"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts</h1><article><h2><a href=/posts/heart-patients-10-percent-more-likely-to-die-for-every-4-ng-less-vitamin-d.html>Heart patients 10 percent more likely to die for every 4 ng less vitamin D</a></h2><time>May 6, 2011</time></article><article><h2><a href=/posts/off-topic-myth-that-should-have-low-salt-diet.html>Off topic – myth that should have low salt diet</a></h2><time>May 6, 2011</time></article><article><h2><a href=/posts/people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d.html>People with no UV for 6 months in the winter need at least 2000 IU of vitamin D</a></h2><time>May 6, 2011</time></article><article><h2><a href=/posts/a-series-of-short-e-books-on-vitamin-d.html>A series of short e-books on vitamin D</a></h2><time>May 5, 2011</time></article><article><h2><a href=/posts/a-fish-a-day-keeps-the-doctor-away-japan-2002.html>A fish a day keeps the doctor away – Japan 2002</a></h2><time>May 4, 2011</time></article><article><h2><a href=/posts/allergy-overview.html>Allergy - Overview</a></h2><time>May 4, 2011</time></article><article><h2><a href=/posts/most-people-with-bone-fractures-still-not-getting-vitamin-d.html>Most people with bone fractures still not getting vitamin D</a></h2><time>May 4, 2011</time></article><article><h2><a href=/posts/reduced-vitamin-d-and-bmd-and-neurological-conditions.html>Reduced vitamin D and BMD and Neurological Conditions</a></h2><time>May 4, 2011</time></article><article><h2><a href=/posts/vitamin-d-overdose-items-from-easy-immune-system-health.html>Vitamin D overdose items from Easy Immune System Health</a></h2><time>May 4, 2011</time></article><article><h2><a href=/posts/70-year-olds-got-t2-diabetes-2x-more-often-when-less-than-20-ng-of-vitamin-d.html>70 year-olds got T2 Diabetes 2X more often when less than 20 ng of vitamin D</a></h2><time>May 3, 2011</time></article><nav class=pagination><a href=/posts/page/50.html>&#171; Previous</a>
 <a href=/posts.html>1
 </a><a href=/posts/page/2.html>2
 </a><a href=/posts/page/3.html>3
@@ -95,7 +149,4 @@
 </a><a href=/posts/page/93.html>93
 </a><a href=/posts/page/94.html>94
 </a><a href=/posts/page/95.html>95
-</a><a href=/posts/page/96.html>96
-</a><a href=/posts/page/97.html>97
-</a><a href=/posts/page/98.html>98
-</a><a href=/posts/page/52.html>Next &#187;</a></nav></div></div><script src="/js/lightspa.js?v=1748384343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1748384343",indexUrl:"/search/search_index.json.gz?v=1748384343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1748384343"></script><script src="/js/search-results-panel.js?v=1748384343"></script><script src="/js/tiki-redirects.js?v=1748384343"></script></body></html>
+</a><a href=/posts/page/52.html>Next &#187;</a></nav></div></div><script src="/js/lightspa.js?v=1749770006"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770006",indexUrl:"/search/search_index.json.gz?v=1749770006"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770006"></script><script src="/js/tiki-redirects.js?v=1749770006"></script></body></html>

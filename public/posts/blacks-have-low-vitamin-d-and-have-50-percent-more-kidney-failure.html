@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Blacks have low vitamin D and have 50 percent more kidney failure</title>
+<link rel=stylesheet href="/css/main.css?v=1749770000"><link rel=stylesheet href="/css/pagination.css?v=1749770000"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770000"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Blacks have low vitamin D and have 50 percent more kidney failure</h1><time>September 20, 2011</time><h3 id=vitamin-d-and-racial-disparity-in-albuminuria-nhanes-20012006>Vitamin D and Racial Disparity in Albuminuria: NHANES 2001–2006</h3><p>American Journal of Hypertension 2011; 24 10, 1114–1120. doi:10.1038/ajh.2011.108</p><p>Kevin A. Fiscella1,2, Paul C. Winters1 and Gbenga Ogedegbe3</p><p>1 Department of Family Medicine, University of Rochester School of Medicine, Rochester, New York, USA</p><p>2 Department of Community & Preventive Medicine, University of Rochester School of Medicine, Rochester, New York, USA</p><p>3 Department of Medicine, Division of General Internal Medicine, Center for Healthful Behavior Change, New York University School of Medicine, New York, New York, USA.</p><p>Correspondence: Kevin Fiscella, (<a href=mailto:Kevin_Fiscella@URMC.rochester.edu>Kevin_Fiscella@URMC.rochester.edu</a>)</p><p>Received 4 January 2011; First Decision 27 January 2011; Accepted 16 May 2011; Published online 30 June 2011.</p><p>National data show unexplained racial disparity in albuminuria. We assessed whether low serum vitamin D status contributes to racial disparity in albuminuria.</p><p>Methods</p><p>We examined the association between race and albuminuria (spot urinary albumin/creatinine ratio (ACR) ?30) among non-Hispanic black and white nonpregnant adults who were free of renal impairment in the National Health and Nutrition Examination Survey (NHANES) from 2001–2006. We conducted analyses without and with serum 25(OH)D. We adjusted for age, sex, education level, smoking, body mass index (BMI), diabetes, diagnosis of hypertension, and use of antihypertensive medication.</p><p>Results</p><p>Albuminuria was present in 10.0% of non-Hispanic blacks and 6.6% in non-Hispanic whites. Being black (odds ratio (OR) 1.46; 95% confidence interval (CI) 1.23–1.73) was independently associated with albuminuria. There was a graded, inverse association between 25(OH)D level and albuminuria. Notably, the association between race and albuminuria was no longer significant (OR 1.19; 95% CI 0.97–1.47) after accounting for participants&rsquo; serum 25(OH)D. Similar results were observed when participants with macroalbuminuria (ACR ?300 mg/g) or elevated parathyroid hormone (>74 pg/ml) were excluded or when a continuous measure of 25(OH)D was substituted for the categorical measure. There were no interactions between race and vitamin D status though racial disparity in albuminuria was observed among participants with the highest 25(OH)D levels.</p><p>Conclusion</p><p>Suboptimal vitamin D status may contribute to racial disparity in albuminuria. Randomized controlled trials are needed to determine whether supplementation with vitamin analogues reduces risk for albuminuria or reduce racial disparity in this outcome.</p></article></div></div><script src="/js/lightspa.js?v=1749770000"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770000",indexUrl:"/search/search_index.json.gz?v=1749770000"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770000"></script><script src="/js/tiki-redirects.js?v=1749770000"></script></body></html>

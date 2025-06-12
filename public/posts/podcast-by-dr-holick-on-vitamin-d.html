@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Podcast by Dr. Holick on vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1749770018"><link rel=stylesheet href="/css/pagination.css?v=1749770018"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770018"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Podcast by Dr. Holick on vitamin D</h1><time>February 10, 2011</time><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#quick-view-of-the-podcast>Quick view of the Podcast</a></li></ul></li></ul></li></ul></nav><hr><h4 id=quick-view-of-the-podcast>Quick view of the Podcast</h4><p>Feb 10, 2011 <a href=http://livinlavidalowcarb.com/blog/the-llvlc-show-episode-442-dr-michael-holick-offers-the-vitamin-d-solution-to-common-health-problems/9942>Living La Vita Low Carb</a> LLVLC #442, 39 minutes</p><ol><li><p>His personal interest in health that led him to become a PhD and MD</p></li><li><p>How he got interested professionally in the subject of Vitamin D</p></li><li><p>Why Vitamin D has become so popular in recent years</p></li><li><p>Why Vitamin D is referred to as a vitamin rather than a hormone</p></li><li><p>The folly of drinking fortified milk for adequate Vitamin D</p></li><li><p>Good sources of Vitamin D in foods and supplements</p></li><li><p>The proper daily recommendations for Vitamin D for children and adults</p></li><li><p>Using Vitamin D as a preventative measure for avoiding various disease</p></li><li><p>Why sunlight exposure in most of the world does not provide enough Vitamin D</p></li><li><p>Whether Vitamin D deficiency is a modern problem or if it’s been around a while</p></li><li><p>The harm that happened when sunscreen was promoted as healthy</p></li><li><p>If the inexpensive Vitamin D supplements at drug stores are adequate</p></li><li><p>His own personal Vitamin D level and how much he supplements daily</p></li><li><p>What the healthy range for Vitamin D should be for optimal health</p></li><li><p>The daily amounts of Vitamin D required by obese people</p></li><li><p>What the cutoff level is for Vitamin D toxicity</p></li><li><p>The dangerous consequences of overdosing on Vitamin D</p></li><li><p>Whether home testing tests for Vitamin D exist like a glucometer for blood sugar</p></li><li><p>How Vitamin D is used to strengthen your immune system</p></li><li><p>Why children need to be getting adequate amounts of Vitamin D</p></li><li><p>The emotional/mental/brain health impact of low Vitamin D levels</p></li><li><p>How someone can know whether or not they are deficient in Vitamin D</p></li><li><p>Why the 25-hydroxy Vitamin D is the ONLY Vitamin D test you want to run</p></li><li><p>The importance of sunlight exposure in getting enough Vitamin D</p></li><li><p>Why calcium is an important element in getting enough Vitamin D</p></li><li><p>Whether there is a difference between taking Vitamin D2 vs. D3</p></li><li><p>Why Vitamin D2 is available only as a prescription and why he prescribes it to patients</p></li><li><p>The risk of Vitamin D deficiency in people who have had bariatric surgery</p></li><li><p>How certain medications can actually destroy Vitamin D</p></li><li><p>Why people with Celiac disease cannot sufficiently absorb Vitamin D</p></li></ol></article></div></div><script src="/js/lightspa.js?v=1749770018"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770018",indexUrl:"/search/search_index.json.gz?v=1749770018"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770018"></script><script src="/js/tiki-redirects.js?v=1749770018"></script></body></html>

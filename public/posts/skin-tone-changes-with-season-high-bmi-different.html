@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Skin tone changes with season – high BMI different</title>
+<link rel=stylesheet href="/css/main.css?v=1749770020"><link rel=stylesheet href="/css/pagination.css?v=1749770020"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770020"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Skin tone changes with season – high BMI different</h1><time>March 19, 2011</time><h1 id=skin-color-change-in-caucasian-postmenopausal-women-predicts-summer-winter-change-in-25-hydroxyvitamin-d-findings-from-the-ansavid-cohort-study>Skin Color Change in Caucasian Postmenopausal Women Predicts Summer-Winter Change in 25-Hydroxyvitamin D: Findings from the ANSAViD Cohort Study.</h1><p>J Clin Endocrinol Metab. 2011 Mar 16.</p><p>Macdonald HM, Mavroeidi A, Aucott LA, Diffey BL, Fraser WD, Ormerod AD, Reid DM.</p><p>Division of Applied Medicine (H.M.M., A.M., L.A.A., A.D.O., D.M.R.), University of Aberdeen, Foresterhill, Aberdeen AB25 2ZD, United Kingdom; Dermatological Sciences (B.L.D.), Institute of Cellular Medicine, University of Newcastle, Newcastle Upon Tyne NE1 7RU, United Kingdom; and Department of Musculoskeletal Biology (W.D.F.), University of Liverpool, Liverpool L69 3GA, United Kingdom.</p><p>Context: UV radiation is responsible for vitamin D synthesis and skin tanning. Longitudinal data relating skin color to vitamin D status are lacking.</p><p>Objective: Our objective was to determine whether seasonal facial skin color changes are related to changes in 25-hydroxyvitamin D <span>[25(OH)D]</span>. Design and Setting: We conducted a prospective observational cohort study (Aberdeen Nutrition Sunlight and Vitamin D) with five visits over 15 months, starting spring 2006 with an additional visit in spring 2008 at a university medical research center in Scotland, 57° N. Participants: Participants included 314 Caucasian postmenopausal women, age 60-65 yr.</p><p>Main Outcome Measures: Facial skin color was assessed by skin reflectance and expressed as the individual typology angle (ITA) <strong>(higher number indicates paler skin)</strong> . 25(OH)D was measured by immunoassay.</p><p>Results: Most women (43%) reported Fitzpatrick skin type III (always burns, always tans), 32% type II, and 25% type I (always burns, never tans). Overall, mean (sd) ITA in degrees were 36.6 (7.7), 38.2 (6.5), and 42.8 (5.3), respectively, for summer, autumn, and winter (P &lt; 0.001). Linear regression showed that a 5° summer-winter change in ITA, was associated with a 15 nmol/liter change in 25(OH)D (P &lt; 0.001) but did not predict winter 25(OH)D. Reported sunscreen use was associated with higher 25(OH)D. <strong>Mean (sd) 25(OH)D (nanomoles per liter) but not skin color was lower for the top body mass index quartile (Q4) compared with the other quartiles</strong> (summer: Q1, 57.1(19.9); Q4, 49.7 (20.4); P = 0.010) .</p><p>Conclusions: Skin color change between summer and winter predicts seasonal 25(OH)D change. Low vitamin D status in obese women was not due to reduced sun exposure, suggesting that increased requirements or inaccessibility of vitamin D stores may be responsible.</p><p>PMID: 21411556</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;sort_mode=created_desc">All items tagged with Noontime sun and vitamin D</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&amp;sort_mode=created_desc">All items tagged with Vitamin D Deficiency</a></p></li><li><p><a href=/posts/overview-of-obesity-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 710">Overview of Obesity and Vitamin D</a></p></li></ul></article></div></div><script src="/js/lightspa.js?v=1749770021"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770021",indexUrl:"/search/search_index.json.gz?v=1749770021"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770021"></script><script src="/js/tiki-redirects.js?v=1749770021"></script></body></html>

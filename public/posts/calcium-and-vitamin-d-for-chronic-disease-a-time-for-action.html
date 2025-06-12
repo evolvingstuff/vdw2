@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Calcium and vitamin D for chronic disease: a time for action</title>
+<link rel=stylesheet href="/css/main.css?v=1749770001"><link rel=stylesheet href="/css/pagination.css?v=1749770001"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770001"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Calcium and vitamin D for chronic disease: a time for action</h1><time>September 13, 2011</time><h1 id=editorial>EDITORIAL</h1><p>European Journal of Clinical Nutrition (2011) 65, 985;</p><p>Obesity and its co-morbidities of dyslipidaemia, insulin resistance and cardiovascular disease are global issues. Interestingly, poor calcium intake and vitamin D inadequacy are also worldwide problems with links to chronic disease (Hollick and Chen, 2008;Peterlik et al., 2009; Norman and Bouillon, 2010). Such observations provide a potential basis for public health action if the spectrum of research findings in the area are accepted. Both calcium and vitamin D have many biological effects, and determining the adequacy of each nutrient alone or in combination would depend on which end point is of greatest concern. Over the years, scientists have argued that in establishing nutrition priorities or preventative guidelines for specific diseases, a balanced view of all the available evidence is a far more pragmatic approach (Truswell, 2001; Mann, 2002; Blumberg et al., 2010). However, a recent influential report by the Institute of Medicine of the National Academies has advocated calcium and vitamin D only for bone and musculoskeletal health (Institute of Medicine, 2010). The fallout from such a decision resonates in the detail of many invited opinions on this research document (Yngve et al., 2011).</p><p><strong>In this special issue</strong> , four groups present their views on the matter.</p><p>Mason etal. (2011) remind us of the normal physiology and metabolism of calcium and vitamin D as it pertains to bone health and to chronic disease.</p><p>Soares et al. (2011) examine randomized controlled trials to specifically determine whether calcium and/or vitamin D accelerate weight or fat loss.</p><p>Mitri et al. (2011) provide a meta-analysis on the potential benefits of vitamin D for type 2 diabetes.</p><p>Finally, Grant (2011) estimates the global reduction in mortality rates through an improvement in vitamin D status.</p><p>Perhaps the Institute of Medicine report has presented us with a challenge.</p><p>If these recommendations as well as those of other nations are to be influenced at their next iteration, it is time to act.</p><p>The papers in this special issue are a small step in that direction.</p><p>MJ Soares Program of Nutrition, School of Public Health, Curtin University, Perth, Western Australia, Australia E-mail: <a href=mailto:m.soares@curtin.edu.au>m.soares@curtin.edu.au</a></p><h2 id=references>References</h2><p>Blumberg J, Heaney RP, Huncharek M, Scholl T, Stampfer M, Vieth R et al. (2010). Evidence-based criteria in the nutritional context.</p><p>NutrRev 68, 478-484. Grant WH (2011). An estimate of the global reduction in mortality rates through doubling vitamin D levels. Eur J Clin Nutr 65, 1016-1026.</p><p>Hollick MF, Chen TC (2008). Vitamin D deficiency: a worldwide problem with health consequences. Am J Clin Nutr 87(Suppl), 1080S-1086S.</p><p>Institute of Medicine (2010). Dietary Reference Intakes for Calcium and Vitamin D. National Academies Press: Washington, DC.</p><p>Mann JI (2002). Discrepancies in nutritional recommendations:the need for evidence based nutrition. Asia Pacific J Clin Nutr 11(Suppl), S510-S515.</p><p>Mason RS, Sequeira V, Gordon-Thompson C (2011). Vitamin D: the light side of sunshine. Eur J Clin Nutr 65, 986-993.</p><p>Mitri J, Muraru MD, Pittas AG (2011). Vitamin D and type 2 diabetes. A systematic review. Eur J Clin Nutr 65, 1005-1015.</p><p>AW, Bouillon R (2010). Vitamin D nutritional policy needs a vision for the future. Exp Biol Med 235, 1034-1045.</p><p>Peterlik M, Boonen S, Cross HS, Lamberg-Allardt C (2009). Vitamin D and calcium insufficiency-related chronic diseases: an emerging world-wide public health problem. IntJ Environ Res Public Health 6,2585-2607.</p><p>Soares MJ, Chan She Ping-Delfos W, Ghanbari MH (2011). Calcium and vitamin D for obesity: a review of randomized controlled trials. Eur J Clin Nutr 65, 994-1004.</p><p>Truswell AS (2001). Levels and kinds of evidence for public-health nutrition. Lancet 357, 1061-1062.</p><p>Yngve A, Tseng M, Haapala U, McNeill C, Hodge A (2011). Editorial. Vitamin D—the big D-bate. Publ Health Nutr 14, 565.</p></article></div></div><script src="/js/lightspa.js?v=1749770001"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770001",indexUrl:"/search/search_index.json.gz?v=1749770001"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770001"></script><script src="/js/tiki-redirects.js?v=1749770001"></script></body></html>

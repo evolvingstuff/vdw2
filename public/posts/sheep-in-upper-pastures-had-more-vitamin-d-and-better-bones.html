@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>Sheep in upper pastures had more vitamin D and better bones</title>
+<link rel=stylesheet href="/css/main.css?v=1749770020"><link rel=stylesheet href="/css/pagination.css?v=1749770020"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search.js?v=1749770020"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Sheep in upper pastures had more vitamin D and better bones</h1><time>October 14, 2011</time><h1 id=influence-of-high-altitude-grazing-on-bone-metabolism-of-growing-sheep>Influence of high-altitude grazing on bone metabolism of growing sheep.</h1><p>J Anim Physiol Anim Nutr (Berl). 2011 Oct 13. <a href=https://doi.org/10.1111/j.1439-0396.2011.01242.x.>doi: 10.1111/j.1439-0396.2011.01242.x.</a></p><p>Liesegang A, Hüttenmoser D, Risteli J, Leiber F, Kreuzer M, Wanner M.</p><p>?Institute of Animal Nutrition, University of Zurich, Zurich, Switzerland ?Department of Clinical Chemistry, University of Oulu, Oulu, Finland ?ETH Zurich, Institute of Agricultural Sciences, Zurich, Switzerland.</p><p>The objective of this study was to identify the effect of high alpine grazing, associated with varying pasture grass qualities and more pronounced exercise on typically steep slopes, on bone metabolism by improving bone density and enhancing bone turnover in growing sheep. Twenty-four 5-month-old sheep were randomly assigned to two groups. One group was kept at high altitude (HA; 2000-2200?m a.s.l.) for 3?months, and the other group (C; control) remained in the lowlands (400?m a.s.l.). Both groups were kept in grazing pastures with access to good-quality swards. Before the start of the experiment, blood samples were taken, the sheep were weighed, and the left metatarsus of each animal was analysed by quantitative computer tomography. <strong>After 1?month</strong> , blood samples were taken and body weight was measured, followed by biweekly sampling. Finally, the animals were slaughtered, and the bones were collected for analysis of various bone parameters. Body weight development did not differ between the groups.</p><p>Concentrations of 25-OH-Vitamin D, carboxy-terminal telopeptide of type I collagen and activities of bone-specific alkaline phosphatase were always higher in the HA group than in the C group, except on the last two sampling dates. Bone mineral content and density increased in both groups during the experiment, but more intensively in the HA group. In addition, the cortical thickness of the HA group increased. The present study demonstrates an increase in bone turnover and mineral content of the bones of the growing sheep grazing in high alpine pastures. The factors associated with HA grazing, therefore, clearly seem to improve bone composition.</p><p>© 2011 Blackwell Verlag GmbH.</p><p>PMID: 21992062</p><p>– – – – – – – – – -</p><p>m.a.s.l : suspect the units are meters not feet</p><p>Notice that the upper pasture sheep did not weigh more, so there is no incentive for factory farms to have upper pastures.</p><p>For every 1,000 feet above sea level, there is a <strong>compounded</strong> 4 percent increase in UVR</p><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/overview-veterinary-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=1&amp;deep=off&amp;type=">All items in Vet and Vitamin D</a> 38 items as of Oct 2011</p></li></ul></article></div></div><script src="/js/lightspa.js?v=1749770020"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1749770020",indexUrl:"/search/search_index.json.gz?v=1749770020"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1749770020"></script><script src="/js/tiki-redirects.js?v=1749770020"></script></body></html>
