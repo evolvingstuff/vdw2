@@ -179,6 +179,12 @@ class Search {
     handleSearch() {
         const query = this.searchInput.value.trim();
         
+        // Show suggestions regardless of query length
+        if (typeof getSuggestions === 'function') {
+            this.showSuggestions(query);
+        }
+        
+        // Only perform actual search if we have 2+ characters
         if (!query || query.length < 2) {
             this.hideSearchResults();
             return;
@@ -191,6 +197,59 @@ class Search {
         
         // Always attempt the search - we'll handle initialization issues in performPagefindSearch
         this.performPagefindSearch(query);
+    }
+    
+    /**
+     * Simple method to show suggestions
+     */
+    showSuggestions(query) {
+        const suggestions = getSuggestions(query);
+        if (!suggestions || !suggestions.length) {
+            this.hideSuggestions();
+            return;
+        }
+        
+        // Find or create suggestions container
+        let suggestionsContainer = document.querySelector('.search-suggestions');
+        if (!suggestionsContainer) {
+            suggestionsContainer = document.createElement('div');
+            suggestionsContainer.className = 'search-suggestions';
+            document.body.appendChild(suggestionsContainer);
+        }
+        
+        // Clear and fill with new suggestions
+        suggestionsContainer.innerHTML = '';
+        
+        // Store reference to "this" for use in event handlers
+        const self = this;
+        
+        suggestions.forEach(suggestion => {
+            const item = document.createElement('div');
+            item.className = 'suggestion';
+            item.textContent = suggestion;
+            
+            // Use addEventListener instead of onclick property
+            item.addEventListener('click', function() {
+                self.searchInput.value = suggestion;
+                self.handleSearch();
+                self.hideSuggestions();
+            });
+            
+            suggestionsContainer.appendChild(item);
+        });
+        
+        // Show suggestions
+        suggestionsContainer.style.display = 'block';
+    }
+    
+    /**
+     * Hide suggestions
+     */
+    hideSuggestions() {
+        const suggestionsContainer = document.querySelector('.search-suggestions');
+        if (suggestionsContainer) {
+            suggestionsContainer.style.display = 'none';
+        }
     }
 
     /**
@@ -389,6 +448,13 @@ class Search {
                 this.handleSearch();
             });
             
+            // Show suggestions on focus
+            this.searchInput.addEventListener('focus', () => {
+                if (typeof getSuggestions === 'function') {
+                    this.showSuggestions(this.searchInput.value.trim());
+                }
+            });
+            
             // Handle Enter key
             this.searchInput.addEventListener('keypress', (e) => {
                 if (e.key === 'Enter') {
@@ -403,6 +469,12 @@ class Search {
                 !e.target.closest('.search-container') && 
                 !e.target.closest('.search-results-panel')) {
                 this.hideSearchResults();
+            }
+
+            // Also hide suggestions when clicking outside
+            if (!e.target.closest('.search-container') && 
+                !e.target.closest('.search-suggestions')) {
+                this.hideSuggestions();
             }
         });
         
