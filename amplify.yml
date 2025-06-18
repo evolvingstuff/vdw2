@@ -15,3 +15,7 @@ redirects:
     target: /test-search.html
     status: 200
     condition: null
+  - source: /ontology_viz.html
+    target: /ontology_viz.html
+    status: 200
+    condition: null

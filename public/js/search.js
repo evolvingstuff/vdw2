@@ -435,6 +435,7 @@ class Search {
             this.searchInput.value = '';
         }
         this.hideSearchResults();
+        this.hideSuggestions(); // Also hide suggestions when clearing search
     }
 
     /**
