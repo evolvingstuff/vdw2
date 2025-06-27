@@ -1,17 +1,25 @@
 {
-  "title": "Jordanian women vitamin D \u2013 16 ng if Western clothing \u2013 12 ng otherwise",
-  "slug": "jordanian-women-vitamin-d-16-ng-if-western-clothing-12-ng-otherwise",
-  "aliases": [
-    "/Jordanian+women+vitamin+D+\u2013+16+ng+if+Western+clothing+\u2013+12+ng+otherwise+\u2013+Aug+2011",
-    "/1898"
-  ],
-  "tiki_page_id": 1898,
-  "date": "2011-08-05",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Middle East",
-    "Predict Vitamin D"
-  ]
+    "title": "Jordanian women vitamin D \u2013 16 ng if Western clothing \u2013 12 ng otherwise",
+    "slug": "jordanian-women-vitamin-d-16-ng-if-western-clothing-12-ng-otherwise",
+    "aliases": [
+        "/Jordanian+women+vitamin+D+\u2013+16+ng+if+Western+clothing+\u2013+12+ng+otherwise+\u2013+Aug+2011",
+        "/1898"
+    ],
+    "tiki_page_id": 1898,
+    "date": "2011-08-05",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Middle East",
+        "Predict Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Middle East",
+        "Predict Vitamin D",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -43,4 +51,4 @@ Very low plasma 25(OH)D levels in females wearing Hijab or Niqab are highly attr
 
 * Niqab 11.4 ng
 
- **PDF is at the bottom of this page** 
+ **PDF is at the bottom of this page**

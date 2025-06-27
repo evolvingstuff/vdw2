@@ -1,16 +1,36 @@
 {
-  "title": "Children with low vitamin D were 4.8X more likely to get asthma",
-  "slug": "children-with-low-vitamin-d-were-48x-more-likely-to-get-asthma",
-  "aliases": [
-    "/Children+with+low+vitamin+D+were+48X+more+likely+to+get+asthma+\u2013+Oct+2011",
-    "/2078"
-  ],
-  "tiki_page_id": 2078,
-  "date": "2011-10-13",
-  "categories": [
-    "Breathing",
-    "Youth"
-  ]
+    "title": "Children with low vitamin D were 4.8X more likely to get asthma",
+    "slug": "children-with-low-vitamin-d-were-48x-more-likely-to-get-asthma",
+    "aliases": [
+        "/Children+with+low+vitamin+D+were+48X+more+likely+to+get+asthma+\u2013+Oct+2011",
+        "/2078"
+    ],
+    "tiki_page_id": 2078,
+    "date": "2011-10-13",
+    "categories": [
+        "Breathing",
+        "Youth"
+    ],
+    "tags": [
+        "Breathing",
+        "Youth",
+        "asthma",
+        "atopic dermatitis",
+        "autoimmune",
+        "blood levels",
+        "breathing",
+        "child",
+        "dermatology",
+        "dosage",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -82,7 +102,7 @@ PMID: 21986034
 
    * Those younger than 18 were  **<span style="color:#00F;">14X</span>**  more likely to have less than 10 ng
 
-* <a href="/posts/children-with-severe-asthma-had-much-lower-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2386">Children with severe asthma had much lower levels of vitamin D – Dec 2011</a>
+* [Children with severe asthma had much lower levels of vitamin D – Dec 2011](/posts/children-with-severe-asthma-had-much-lower-levels-of-vitamin-d)
 
 * <a href="/posts/span-stylecolorf00magnesium-span-deficiency-reduces-vitamin-d-effectiveness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1977"> **<span style="color:#F00;">Magnesium </span>** Deficiency Reduces Vitamin D Effectiveness- Sept 2011</a>
 

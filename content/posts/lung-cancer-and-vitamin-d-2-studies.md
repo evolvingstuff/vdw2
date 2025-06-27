@@ -1,15 +1,23 @@
 {
-  "title": "Lung Cancer and Vitamin D \u2013 2 studies",
-  "slug": "lung-cancer-and-vitamin-d-2-studies",
-  "aliases": [
-    "/Lung+Cancer+and+Vitamin+D+\u2013+2+studies+June+2011",
-    "/1778"
-  ],
-  "tiki_page_id": 1778,
-  "date": "2011-06-30",
-  "categories": [
-    "Cancer - Lung"
-  ]
+    "title": "Lung Cancer and Vitamin D \u2013 2 studies",
+    "slug": "lung-cancer-and-vitamin-d-2-studies",
+    "aliases": [
+        "/Lung+Cancer+and+Vitamin+D+\u2013+2+studies+June+2011",
+        "/1778"
+    ],
+    "tiki_page_id": 1778,
+    "date": "2011-06-30",
+    "categories": [
+        "Cancer - Lung"
+    ],
+    "tags": [
+        "Cancer - Lung",
+        "blood levels",
+        "cancer",
+        "lung cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -72,4 +80,3 @@ PMID:     21695165  [CLICK HERE](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC311
 * <a href="/posts/need-more-than-40-ng-of-vitamin-d-to-treat-lung-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1755">Need more than 40 ng of vitamin D to TREAT Lung cancer – June 2011</a>
 
 * [Use Google to search site for "lung Cancer"](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=%22lung+cancer%22&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26v%3Df661cdea8f1dc8bb%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D1152530717) 91 items as of June 2011
-

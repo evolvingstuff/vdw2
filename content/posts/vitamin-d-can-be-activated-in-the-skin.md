@@ -1,12 +1,22 @@
 {
-  "title": "Vitamin D can be activated in the skin",
-  "slug": "vitamin-d-can-be-activated-in-the-skin",
-  "aliases": [
-    "/Vitamin+D+can+be+activated+in+the+skin+\u2013+Sept+2011",
-    "/1934"
-  ],
-  "tiki_page_id": 1934,
-  "date": "2011-08-21"
+    "title": "Vitamin D can be activated in the skin",
+    "slug": "vitamin-d-can-be-activated-in-the-skin",
+    "aliases": [
+        "/Vitamin+D+can+be+activated+in+the+skin+\u2013+Sept+2011",
+        "/1934"
+    ],
+    "tiki_page_id": 1934,
+    "date": "2011-08-21",
+    "tags": [
+        "CYPR",
+        "cancer",
+        "cancer in VDR",
+        "genetics",
+        "immunity",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 

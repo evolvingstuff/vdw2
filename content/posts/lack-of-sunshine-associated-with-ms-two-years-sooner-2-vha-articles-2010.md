@@ -1,16 +1,28 @@
 {
-  "title": "Lack of sunshine associated with MS two years sooner \u2013 2 VHA articles 2010",
-  "slug": "lack-of-sunshine-associated-with-ms-two-years-sooner-2-vha-articles-2010",
-  "aliases": [
-    "/Lack+of+sunshine+associated+with+MS+two+years+sooner+\u2013+2+VHA+articles+2010",
-    "/1242"
-  ],
-  "tiki_page_id": 1242,
-  "date": "2010-12-16",
-  "categories": [
-    "Multiple Sclerosis"
-  ]
+    "title": "Lack of sunshine associated with MS two years sooner \u2013 2 VHA articles 2010",
+    "slug": "lack-of-sunshine-associated-with-ms-two-years-sooner-2-vha-articles-2010",
+    "aliases": [
+        "/Lack+of+sunshine+associated+with+MS+two+years+sooner+\u2013+2+VHA+articles+2010",
+        "/1242"
+    ],
+    "tiki_page_id": 1242,
+    "date": "2010-12-16",
+    "categories": [
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "autoimmune",
+        "bone",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

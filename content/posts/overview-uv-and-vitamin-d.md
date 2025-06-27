@@ -1,18 +1,37 @@
 {
-  "title": "Overview UV and vitamin D",
-  "slug": "overview-uv-and-vitamin-d",
-  "aliases": [
-    "/Overview+UV+and+vitamin+D",
-    "/2089"
-  ],
-  "tiki_page_id": 2089,
-  "date": "2011-10-15",
-  "categories": [
-    "UV and Vitamin D",
-    "Overviews",
-    "Associations"
-  ]
+    "title": "Overview UV and vitamin D",
+    "slug": "overview-uv-and-vitamin-d",
+    "aliases": [
+        "/Overview+UV+and+vitamin+D",
+        "/2089"
+    ],
+    "tiki_page_id": 2089,
+    "date": "2011-10-15",
+    "categories": [
+        "UV and Vitamin D",
+        "Overviews",
+        "Associations"
+    ],
+    "tags": [
+        "Associations",
+        "Overviews",
+        "UV and Vitamin D",
+        "breathing",
+        "cancer",
+        "cataracts",
+        "cystic fibrosis",
+        "life span",
+        "melanoma",
+        "mortality",
+        "skin cancer",
+        "ultraviolet light",
+        "virus",
+        "vision",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 {IMG(fileId="1410" max ="100")}{IMG}
 
@@ -136,7 +155,7 @@ Skin Cancer|   controversy|   controversy||
 
 #### UV thru glass
 
-* <a href="/posts/vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from the sun without the heat (silver-coated plexiglass)">Vitamin D from the sun can get thru a special kind of window</a> Plexiglass G - UVT
+* [Vitamin D from the sun can get thru a special kind of window](/posts/vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass) Plexiglass G - UVT
 
 * [Wear glasses when getting vitamin D from the sun – June 2011](/posts/wear-glasses-when-getting-vitamin-d-from-the-sun)
 

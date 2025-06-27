@@ -1,16 +1,36 @@
 {
-  "title": "Four reasons why vitamin D levels should be higher than 30 ng",
-  "slug": "four-reasons-why-vitamin-d-levels-should-be-higher-than-30-ng",
-  "aliases": [
-    "/Four+reasons+why+vitamin+D+levels+should+be+higher+than+30+ng+\u2013+Aug+2011",
-    "/1968"
-  ],
-  "tiki_page_id": 1968,
-  "date": "2011-08-30",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "How much Vitamin D"
-  ]
+    "title": "Four reasons why vitamin D levels should be higher than 30 ng",
+    "slug": "four-reasons-why-vitamin-d-levels-should-be-higher-than-30-ng",
+    "aliases": [
+        "/Four+reasons+why+vitamin+D+levels+should+be+higher+than+30+ng+\u2013+Aug+2011",
+        "/1968"
+    ],
+    "tiki_page_id": 1968,
+    "date": "2011-08-30",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "How much Vitamin D",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "cancer",
+        "colon cancer",
+        "depression",
+        "falls fractures",
+        "life span",
+        "mood disorders",
+        "mortality",
+        "pancreatic cancer",
+        "prostate cancer",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

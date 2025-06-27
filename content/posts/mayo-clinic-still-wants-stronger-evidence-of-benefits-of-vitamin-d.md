@@ -1,15 +1,38 @@
 {
-  "title": "Mayo Clinic still wants stronger evidence of benefits of vitamin D",
-  "slug": "mayo-clinic-still-wants-stronger-evidence-of-benefits-of-vitamin-d",
-  "aliases": [
-    "/Mayo+Clinic+still+wants+stronger+evidence+of+benefits+of+vitamin+D+\u2013+Jan+2011",
-    "/1284"
-  ],
-  "tiki_page_id": 1284,
-  "date": "2011-01-05",
-  "categories": [
-    "Overview for doctors"
-  ]
+    "title": "Mayo Clinic still wants stronger evidence of benefits of vitamin D",
+    "slug": "mayo-clinic-still-wants-stronger-evidence-of-benefits-of-vitamin-d",
+    "aliases": [
+        "/Mayo+Clinic+still+wants+stronger+evidence+of+benefits+of+vitamin+D+\u2013+Jan+2011",
+        "/1284"
+    ],
+    "tiki_page_id": 1284,
+    "date": "2011-01-05",
+    "categories": [
+        "Overview for doctors"
+    ],
+    "tags": [
+        "Overview for doctors",
+        "asthma",
+        "autoimmune",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "depression",
+        "diabetes",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "life span",
+        "metabolic",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

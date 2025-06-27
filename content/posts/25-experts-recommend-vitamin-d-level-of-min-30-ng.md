@@ -1,17 +1,36 @@
 {
-  "title": "25 experts recommend vitamin D level of min 30 ng",
-  "slug": "25-experts-recommend-vitamin-d-level-of-min-30-ng",
-  "aliases": [
-    "/25+experts+recommend+vitamin+D+level+of+min+30+ng+\u2013+Nov+2009",
-    "/1225"
-  ],
-  "tiki_page_id": 1225,
-  "date": "2010-12-12",
-  "categories": [
-    "Overview for doctors",
-    "Optimum",
-    "Consensus"
-  ]
+    "title": "25 experts recommend vitamin D level of min 30 ng",
+    "slug": "25-experts-recommend-vitamin-d-level-of-min-30-ng",
+    "aliases": [
+        "/25+experts+recommend+vitamin+D+level+of+min+30+ng+\u2013+Nov+2009",
+        "/1225"
+    ],
+    "tiki_page_id": 1225,
+    "date": "2010-12-12",
+    "categories": [
+        "Overview for doctors",
+        "Optimum",
+        "Consensus"
+    ],
+    "tags": [
+        "Consensus",
+        "Optimum",
+        "Overview for doctors",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "dialysis",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "kidney",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

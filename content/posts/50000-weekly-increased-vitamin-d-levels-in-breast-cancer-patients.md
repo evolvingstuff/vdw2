@@ -1,16 +1,35 @@
 {
-  "title": "50,000 weekly increased vitamin D levels in breast cancer patients",
-  "slug": "50000-weekly-increased-vitamin-d-levels-in-breast-cancer-patients",
-  "aliases": [
-    "/50000+weekly+increased+vitamin+D+levels+in+breast+cancer+patients+\u2013+Mar+2011",
-    "/1467"
-  ],
-  "tiki_page_id": 1467,
-  "date": "2011-03-09",
-  "categories": [
-    "Cancer - Breast"
-  ]
+    "title": "50,000 weekly increased vitamin D levels in breast cancer patients",
+    "slug": "50000-weekly-increased-vitamin-d-levels-in-breast-cancer-patients",
+    "aliases": [
+        "/50000+weekly+increased+vitamin+D+levels+in+breast+cancer+patients+\u2013+Mar+2011",
+        "/1467"
+    ],
+    "tiki_page_id": 1467,
+    "date": "2011-03-09",
+    "categories": [
+        "Cancer - Breast"
+    ],
+    "tags": [
+        "Cancer - Breast",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "breast cancer",
+        "cancer",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}} 
 
@@ -84,4 +103,4 @@ Conclusions
 
 Vitamin D deficiency and insufficiency were common among women with breast cancer and associated with reduced BMD in the spine. Clinicians should carefully consider vitamin D supplementation regimens when treating vitamin D deficiency/insufficiency in breast cancer patients.
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/bc-2014.pdf">Download the PDF from VitaminDWiki </a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/bc-2014.pdf">Download the PDF from VitaminDWiki </a>**

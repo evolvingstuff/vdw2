@@ -1,16 +1,78 @@
 {
-  "title": "Vitamin D conference in Berlin",
-  "slug": "vitamin-d-conference-in-berlin",
-  "aliases": [
-    "/Vitamin+D+conference+in+Berlin+-+April+2011",
-    "/2121"
-  ],
-  "tiki_page_id": 2121,
-  "date": "2011-10-26",
-  "categories": [
-    "Vitamin D in Europe",
-    "Conference"
-  ]
+    "title": "Vitamin D conference in Berlin",
+    "slug": "vitamin-d-conference-in-berlin",
+    "aliases": [
+        "/Vitamin+D+conference+in+Berlin+-+April+2011",
+        "/2121"
+    ],
+    "tiki_page_id": 2121,
+    "date": "2011-10-26",
+    "categories": [
+        "Vitamin D in Europe",
+        "Conference"
+    ],
+    "tags": [
+        "CKD",
+        "CYPB",
+        "CYPR",
+        "Conference",
+        "Vitamin D in Europe",
+        "asthma",
+        "asthma receptor",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "cognitive",
+        "dementia",
+        "depression",
+        "depression and pregnancy",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dialysis",
+        "dosage",
+        "genetics",
+        "gut",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "kidney",
+        "life span",
+        "melanoma",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "neurological",
+        "osteoporosis",
+        "pancreatic cancer",
+        "pancreatitis",
+        "parkinsons",
+        "pediatric autoimmune",
+        "preeclampsia",
+        "pregnancy",
+        "skin cancer",
+        "statins",
+        "stroke",
+        "stroke and depression",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -405,4 +467,3 @@ Request, Alexander, physician:
 Medical Light Consulting, 69115 Heidelberg, e-mail: wunschart@googlemail.com Zittermann, Armin, Prof. Dr.:
 
 Heart and Diabetes Center NRW, 32545 Bad Oeynhausen, E-mail: azittermann@hdz-nrw.de
-

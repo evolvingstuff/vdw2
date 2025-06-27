@@ -1,16 +1,30 @@
 {
-  "title": "Obese men were 40 percent more likely to be vitamin D deficient than women",
-  "slug": "obese-men-were-40-percent-more-likely-to-be-vitamin-d-deficient-than-women",
-  "aliases": [
-    "/Obese+men+were+40+percent+more+likely+to+be+vitamin+D+deficient+than+women+\u2013+July+2011",
-    "/1870"
-  ],
-  "tiki_page_id": 1870,
-  "date": "2011-07-28",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Obese men were 40 percent more likely to be vitamin D deficient than women",
+    "slug": "obese-men-were-40-percent-more-likely-to-be-vitamin-d-deficient-than-women",
+    "aliases": [
+        "/Obese+men+were+40+percent+more+likely+to+be+vitamin+D+deficient+than+women+\u2013+July+2011",
+        "/1870"
+    ],
+    "tiki_page_id": 1870,
+    "date": "2011-07-28",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "dosage",
+        "health risk",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "obesity",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test",
+        "weight loss"
+    ]
 }
+
 
 &nbsp;
 

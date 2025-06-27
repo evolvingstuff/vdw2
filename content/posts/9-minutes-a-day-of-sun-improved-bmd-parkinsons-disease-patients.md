@@ -1,16 +1,30 @@
 {
-  "title": "9 minutes a day of sun improved BMD Parkinsons disease patients",
-  "slug": "9-minutes-a-day-of-sun-improved-bmd-parkinsons-disease-patients",
-  "aliases": [
-    "/9+minutes+a+day+of+sun+improved+BMD+Parkinsons+disease+patients+\u2013+Jan+2011",
-    "/1629"
-  ],
-  "tiki_page_id": 1629,
-  "date": "2011-05-14",
-  "categories": [
-    "Noontime sun and D",
-    "Parkinson"
-  ]
+    "title": "9 minutes a day of sun improved BMD Parkinsons disease patients",
+    "slug": "9-minutes-a-day-of-sun-improved-bmd-parkinsons-disease-patients",
+    "aliases": [
+        "/9+minutes+a+day+of+sun+improved+BMD+Parkinsons+disease+patients+\u2013+Jan+2011",
+        "/1629"
+    ],
+    "tiki_page_id": 1629,
+    "date": "2011-05-14",
+    "categories": [
+        "Noontime sun and D",
+        "Parkinson"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "Parkinson",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "falls fractures",
+        "hip fractures",
+        "neurological",
+        "osteoporosis",
+        "parkinsons",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

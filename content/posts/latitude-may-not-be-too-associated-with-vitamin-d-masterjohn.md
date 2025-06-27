@@ -1,15 +1,26 @@
 {
-  "title": "Latitude may not be too associated with vitamin D \u2013 Masterjohn",
-  "slug": "latitude-may-not-be-too-associated-with-vitamin-d-masterjohn",
-  "aliases": [
-    "/Latitude+may+not+be+too+associated+with+vitamin+D+\u2013+Masterjohn+Dec+2010",
-    "/1477"
-  ],
-  "tiki_page_id": 1477,
-  "date": "2011-03-13",
-  "categories": [
-    "Vitamin D Far from equator"
-  ]
+    "title": "Latitude may not be too associated with vitamin D \u2013 Masterjohn",
+    "slug": "latitude-may-not-be-too-associated-with-vitamin-d-masterjohn",
+    "aliases": [
+        "/Latitude+may+not+be+too+associated+with+vitamin+D+\u2013+Masterjohn+Dec+2010",
+        "/1477"
+    ],
+    "tiki_page_id": 1477,
+    "date": "2011-03-13",
+    "categories": [
+        "Vitamin D Far from equator"
+    ],
+    "tags": [
+        "Vitamin D Far from equator",
+        "blood levels",
+        "health risk",
+        "pollution",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -110,4 +121,3 @@ And, in the mean time, to self-experiment and carefully monitor the results.  An
       * I think that the body can be much more efficient at producing vitamin D when it lacks it, e.g. different if increase UV and see when generate vitamin D
 
       * A much better study would use people lacking vitamin D and increase the intensity to see what level starts to generate vitamin D
-

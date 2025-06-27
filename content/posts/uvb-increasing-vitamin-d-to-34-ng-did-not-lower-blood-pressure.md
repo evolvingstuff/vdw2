@@ -1,15 +1,21 @@
 {
-  "title": "UVB increasing vitamin D to 34 ng did not lower blood pressure",
-  "slug": "uvb-increasing-vitamin-d-to-34-ng-did-not-lower-blood-pressure",
-  "aliases": [
-    "/UVB+increasing+vitamin+D+to+34+ng+did+not+lower+blood+pressure+\u2013+June+2011",
-    "/1789"
-  ],
-  "tiki_page_id": 1789,
-  "date": "2011-07-02",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "UVB increasing vitamin D to 34 ng did not lower blood pressure",
+    "slug": "uvb-increasing-vitamin-d-to-34-ng-did-not-lower-blood-pressure",
+    "aliases": [
+        "/UVB+increasing+vitamin+D+to+34+ng+did+not+lower+blood+pressure+\u2013+June+2011",
+        "/1789"
+    ],
+    "tiki_page_id": 1789,
+    "date": "2011-07-02",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "hypertension",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,16 +1,25 @@
 {
-  "title": "Atherosclerosis associated with low vitamin D",
-  "slug": "atherosclerosis-associated-with-low-vitamin-d",
-  "aliases": [
-    "/Atherosclerosis+associated+with+low+vitamin+D+\u2013+June+2011",
-    "/1791"
-  ],
-  "tiki_page_id": 1791,
-  "date": "2011-07-03",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Atherosclerosis associated with low vitamin D",
+    "slug": "atherosclerosis-associated-with-low-vitamin-d",
+    "aliases": [
+        "/Atherosclerosis+associated+with+low+vitamin+D+\u2013+June+2011",
+        "/1791"
+    ],
+    "tiki_page_id": 1791,
+    "date": "2011-07-03",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "atherosclerosis",
+        "cardiovascular",
+        "stroke",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -63,4 +72,3 @@ PMID:     21719770
 * <a href="/posts/vitamin-d-is-a-promising-way-to-deal-with-atherosclerosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 806">Vitamin D is a promising way to deal with atherosclerosis – Aug 2010</a>
 
 * [Google search of VitaminDWiki for Atherosclerosis OR stroke](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=Atherosclerosis+OR+stroke&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26sanitize%3D0%26v%3D87a5bbb6532e47fc%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D607722344) - 225 items as of July 2011
-

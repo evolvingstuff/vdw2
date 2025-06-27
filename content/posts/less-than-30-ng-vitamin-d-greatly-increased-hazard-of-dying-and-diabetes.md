@@ -1,16 +1,32 @@
 {
-  "title": "Less than 30 ng vitamin D greatly increased hazard of dying and diabetes",
-  "slug": "less-than-30-ng-vitamin-d-greatly-increased-hazard-of-dying-and-diabetes",
-  "aliases": [
-    "/Less+than+30+ng+vitamin+D+greatly+increased+hazard+of+dying+and+diabetes+\u2013+Nov+2010",
-    "/1153"
-  ],
-  "tiki_page_id": 1153,
-  "date": "2010-11-20",
-  "categories": [
-    "Diabetes",
-    "Mortality and D"
-  ]
+    "title": "Less than 30 ng vitamin D greatly increased hazard of dying and diabetes",
+    "slug": "less-than-30-ng-vitamin-d-greatly-increased-hazard-of-dying-and-diabetes",
+    "aliases": [
+        "/Less+than+30+ng+vitamin+D+greatly+increased+hazard+of+dying+and+diabetes+\u2013+Nov+2010",
+        "/1153"
+    ],
+    "tiki_page_id": 1153,
+    "date": "2010-11-20",
+    "categories": [
+        "Diabetes",
+        "Mortality and D"
+    ],
+    "tags": [
+        "Diabetes",
+        "Mortality and D",
+        "blood levels",
+        "cardiovascular",
+        "diabetes",
+        "heart failure",
+        "hypertension",
+        "life span",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mortality",
+        "statins",
+        "vitamin d"
+    ]
 }
 
 
@@ -55,4 +71,3 @@ Conclusions: Vitamin D deficiency is a significant risk factor for several cardi
 – – – – – 
 
 # Wish that the abstract stated the size of Vitamin D dose
-

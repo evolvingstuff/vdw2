@@ -1,16 +1,22 @@
 {
-  "title": "More muscle injuries in NFL players who were low on vitamin D",
-  "slug": "more-muscle-injuries-in-nfl-players-who-were-low-on-vitamin-d",
-  "aliases": [
-    "/More+muscle+injuries+in+NFL+players+who+were+low+on+vitamin+D+\u2013+July+2011",
-    "/1813"
-  ],
-  "tiki_page_id": 1813,
-  "date": "2011-07-09",
-  "categories": [
-    "Sports and Vitamin D",
-    "Inflammation"
-  ]
+    "title": "More muscle injuries in NFL players who were low on vitamin D",
+    "slug": "more-muscle-injuries-in-nfl-players-who-were-low-on-vitamin-d",
+    "aliases": [
+        "/More+muscle+injuries+in+NFL+players+who+were+low+on+vitamin+D+\u2013+July+2011",
+        "/1813"
+    ],
+    "tiki_page_id": 1813,
+    "date": "2011-07-09",
+    "categories": [
+        "Sports and Vitamin D",
+        "Inflammation"
+    ],
+    "tags": [
+        "Inflammation",
+        "Sports and Vitamin D",
+        "blood levels",
+        "vitamin d"
+    ]
 }
 
 
@@ -30,4 +36,4 @@ Twenty-seven players had deficient levels (< 20 ng/ml) and an additional 45 had 
 
 “Screening and treatment of vitamin D insufficiency in professional athletes may be a simple way to help prevent injuries,” said Dr. Scott Rodeo, MD, Co-Chief of the Sports Medicine and Shoulder Service at the Hospital for Special Surgery. “Further research also needs to be conducted in order to determine if increasing vitamin D leads to improved maximum muscle function,” said Dr. Joseph Lane, MD, Director of the Metabolic Bone Disease Service at the Hospital for Special Surgery.”
 
-The American Orthopaedic Society for Sports Medicine (AOSSM) is a world leader in sports medicine education, research, communication and fellowship, and includes national and international orthopaedic sports medicine leaders. The Society works closely with many other sports medicine specialists, including athletic trainers, physical therapists, family physicians, and others to improve the identification, prevention, treatment, and rehabilitation of sports injuries. AOSSM is also a founding partner of the STOP Sports Injuries campaign to prevent overuse and traumatic injuries in kids. For more information on AOSSM or the STOP Sports Injuries campaign, visit http://www.sportsmed.org or http://www.stopsportsinjuries.org 
+The American Orthopaedic Society for Sports Medicine (AOSSM) is a world leader in sports medicine education, research, communication and fellowship, and includes national and international orthopaedic sports medicine leaders. The Society works closely with many other sports medicine specialists, including athletic trainers, physical therapists, family physicians, and others to improve the identification, prevention, treatment, and rehabilitation of sports injuries. AOSSM is also a founding partner of the STOP Sports Injuries campaign to prevent overuse and traumatic injuries in kids. For more information on AOSSM or the STOP Sports Injuries campaign, visit http://www.sportsmed.org or http://www.stopsportsinjuries.org

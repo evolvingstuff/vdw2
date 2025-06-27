@@ -1,17 +1,39 @@
 {
-  "title": "Calcium without vitamin D increased heart risk by 30 percent",
-  "slug": "calcium-without-vitamin-d-increased-heart-risk-by-30-percent",
-  "aliases": [
-    "/Calcium+without+vitamin+D+increased+heart+risk+by+30+percent+-+Jan+2011",
-    "/1276"
-  ],
-  "tiki_page_id": 1276,
-  "date": "2011-01-02",
-  "categories": [
-    "Cardiovascular",
-    "Vitamin D and Calcium",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Calcium without vitamin D increased heart risk by 30 percent",
+    "slug": "calcium-without-vitamin-d-increased-heart-risk-by-30-percent",
+    "aliases": [
+        "/Calcium+without+vitamin+D+increased+heart+risk+by+30+percent+-+Jan+2011",
+        "/1276"
+    ],
+    "tiki_page_id": 1276,
+    "date": "2011-01-02",
+    "categories": [
+        "Cardiovascular",
+        "Vitamin D and Calcium",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Meta-analysis of Vitamin D",
+        "Vitamin D and Calcium",
+        "autoimmune",
+        "bone",
+        "bone loss",
+        "cardiovascular",
+        "child",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "life span",
+        "mortality",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "rheumatoid arthritis",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

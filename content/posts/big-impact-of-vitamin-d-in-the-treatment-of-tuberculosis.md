@@ -1,16 +1,27 @@
 {
-  "title": "Big impact of Vitamin D in the Treatment of Tuberculosis",
-  "slug": "big-impact-of-vitamin-d-in-the-treatment-of-tuberculosis",
-  "aliases": [
-    "/Big+impact+of+Vitamin+D+in+the+Treatment+of+Tuberculosis+\u2013+June+2011",
-    "/1945"
-  ],
-  "tiki_page_id": 1945,
-  "date": "2011-08-24",
-  "categories": [
-    "Tuberculosis",
-    "Treatment by Vitamin D"
-  ]
+    "title": "Big impact of Vitamin D in the Treatment of Tuberculosis",
+    "slug": "big-impact-of-vitamin-d-in-the-treatment-of-tuberculosis",
+    "aliases": [
+        "/Big+impact+of+Vitamin+D+in+the+Treatment+of+Tuberculosis+\u2013+June+2011",
+        "/1945"
+    ],
+    "tiki_page_id": 1945,
+    "date": "2011-08-24",
+    "categories": [
+        "Tuberculosis",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "Treatment by Vitamin D",
+        "Tuberculosis",
+        "bacteria",
+        "genetics",
+        "high dose",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -41,4 +52,3 @@ PDF is at bottom of this page
 * [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [All items in Category Treatment by Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=85&sort_mode=created_desc) 34 items as of May 2012
-

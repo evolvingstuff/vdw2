@@ -1,15 +1,26 @@
 {
-  "title": "Dialysis patients with higher levels of vitamin D were better",
-  "slug": "dialysis-patients-with-higher-levels-of-vitamin-d-were-better",
-  "aliases": [
-    "/Dialysis+patients+with+higher+levels+of+vitamin+D+were+better+\u2013+May+2011",
-    "/1656"
-  ],
-  "tiki_page_id": 1656,
-  "date": "2011-05-24",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Dialysis patients with higher levels of vitamin D were better",
+    "slug": "dialysis-patients-with-higher-levels-of-vitamin-d-were-better",
+    "aliases": [
+        "/Dialysis+patients+with+higher+levels+of+vitamin+D+were+better+\u2013+May+2011",
+        "/1656"
+    ],
+    "tiki_page_id": 1656,
+    "date": "2011-05-24",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "blood levels",
+        "dialysis",
+        "hemodialysis",
+        "hypertension",
+        "kidney",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

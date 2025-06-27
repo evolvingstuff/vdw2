@@ -1,15 +1,32 @@
 {
-  "title": "Skin wrinkles associated with fragile bones",
-  "slug": "skin-wrinkles-associated-with-fragile-bones",
-  "aliases": [
-    "/Skin+wrinkles+associated+with+fragile+bones+-+June+2011",
-    "/1710"
-  ],
-  "tiki_page_id": 1710,
-  "date": "2011-06-07",
-  "categories": [
-    "Osteoporosis"
-  ]
+    "title": "Skin wrinkles associated with fragile bones",
+    "slug": "skin-wrinkles-associated-with-fragile-bones",
+    "aliases": [
+        "/Skin+wrinkles+associated+with+fragile+bones+-+June+2011",
+        "/1710"
+    ],
+    "tiki_page_id": 1710,
+    "date": "2011-06-07",
+    "categories": [
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "autoimmune",
+        "bone",
+        "bone loss",
+        "bone stress fractures",
+        "cholesterol",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "intervention",
+        "osteoporosis",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

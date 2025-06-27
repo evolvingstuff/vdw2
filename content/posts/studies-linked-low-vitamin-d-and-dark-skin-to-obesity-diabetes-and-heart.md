@@ -1,17 +1,33 @@
 {
-  "title": "Studies linked low vitamin D and dark skin to Obesity, Diabetes, and heart",
-  "slug": "studies-linked-low-vitamin-d-and-dark-skin-to-obesity-diabetes-and-heart",
-  "aliases": [
-    "/Studies+linked+low+vitamin+D+and+dark+skin+to+Obesity+Diabetes+and+heart+\u2013+June+2011",
-    "/1769"
-  ],
-  "tiki_page_id": 1769,
-  "date": "2011-06-28",
-  "categories": [
-    "Skin - Dark",
-    "Cardiovascular",
-    "Diabetes"
-  ]
+    "title": "Studies linked low vitamin D and dark skin to Obesity, Diabetes, and heart",
+    "slug": "studies-linked-low-vitamin-d-and-dark-skin-to-obesity-diabetes-and-heart",
+    "aliases": [
+        "/Studies+linked+low+vitamin+D+and+dark+skin+to+Obesity+Diabetes+and+heart+\u2013+June+2011",
+        "/1769"
+    ],
+    "tiki_page_id": 1769,
+    "date": "2011-06-28",
+    "categories": [
+        "Skin - Dark",
+        "Cardiovascular",
+        "Diabetes"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Diabetes",
+        "Skin - Dark",
+        "blood levels",
+        "child",
+        "childhood obesity",
+        "diabetes",
+        "health risk",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

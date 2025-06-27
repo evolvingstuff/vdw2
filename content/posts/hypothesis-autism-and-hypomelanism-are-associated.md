@@ -1,15 +1,43 @@
 {
-  "title": "Hypothesis: autism and hypomelanism are associated",
-  "slug": "hypothesis-autism-and-hypomelanism-are-associated",
-  "aliases": [
-    "/Hypothesis+autism+and+hypomelanism+are+associated",
-    "/2065"
-  ],
-  "tiki_page_id": 2065,
-  "date": "2011-10-04",
-  "categories": [
-    "Autism"
-  ]
+    "title": "Hypothesis: autism and hypomelanism are associated",
+    "slug": "hypothesis-autism-and-hypomelanism-are-associated",
+    "aliases": [
+        "/Hypothesis+autism+and+hypomelanism+are+associated",
+        "/2065"
+    ],
+    "tiki_page_id": 2065,
+    "date": "2011-10-04",
+    "categories": [
+        "Autism"
+    ],
+    "tags": [
+        "Autism",
+        "bacteria",
+        "bipolar disorder",
+        "bone",
+        "bone cancer",
+        "brain",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "cognitive",
+        "dermatology",
+        "epigenetics",
+        "fertility sperm",
+        "genetics",
+        "health risk",
+        "in vitro fertilization",
+        "life span",
+        "mortality",
+        "neurological",
+        "osteoporosis",
+        "pollution",
+        "pregnancy",
+        "rickets",
+        "skin cancer",
+        "vitamin d",
+        "vitiligo"
+    ]
 }
 
 
@@ -274,4 +302,3 @@ Dr. Muideen O. Bakare is a Consultant Psychiatrist and Head, Child and Adolescen
 60 Goswani, R, Gupta, N., Marwaha, R.K., Tandon, N., Kochupillai, N. Prevalence and significance of low 25-hydroxyvitamin-D concentrations in healthy subjects in Delhi. Am J Clin Nutrition. 2000; 72(2): 472-475.
 
 61 Zhang, B., Angelidou, A., Alsyandratos, K, Vasiadi, M, Francis, K., Asadi, S., Theoharides, S., Sideri, K., Lykouras, L., Kalogeromitros, D. Theoharides, T.C. Mitochondrial DNA and anti-mitochondrial antibodies in serum of autistic children; J Neuroinflammation. 2010; 7:(1): 80.
-

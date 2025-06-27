@@ -1,15 +1,22 @@
 {
-  "title": "CDC confirms association between more vitamin D and less insulin",
-  "slug": "cdc-confirms-association-between-more-vitamin-d-and-less-insulin",
-  "aliases": [
-    "/CDC+confirms+association+between+more+vitamin+D+and+less+insulin+\u2013+Jan+2011",
-    "/1368"
-  ],
-  "tiki_page_id": 1368,
-  "date": "2011-01-31",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "CDC confirms association between more vitamin D and less insulin",
+    "slug": "cdc-confirms-association-between-more-vitamin-d-and-less-insulin",
+    "aliases": [
+        "/CDC+confirms+association+between+more+vitamin+D+and+less+insulin+\u2013+Jan+2011",
+        "/1368"
+    ],
+    "tiki_page_id": 1368,
+    "date": "2011-01-31",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "metabolic",
+        "vitamin d"
+    ]
 }
 
 

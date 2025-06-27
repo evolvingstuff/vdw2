@@ -1,16 +1,21 @@
 {
-  "title": "Reptiles ate as well with all UV sources",
-  "slug": "reptiles-ate-as-well-with-all-uv-sources",
-  "aliases": [
-    "/Reptiles+ate+as+well+with+all+UV+sources+\u2013+Jan+2011",
-    "/1358"
-  ],
-  "tiki_page_id": 1358,
-  "date": "2011-01-28",
-  "categories": [
-    "Veterinary and Vitamin D",
-    "UV and Vitamin D"
-  ]
+    "title": "Reptiles ate as well with all UV sources",
+    "slug": "reptiles-ate-as-well-with-all-uv-sources",
+    "aliases": [
+        "/Reptiles+ate+as+well+with+all+UV+sources+\u2013+Jan+2011",
+        "/1358"
+    ],
+    "tiki_page_id": 1358,
+    "date": "2011-01-28",
+    "categories": [
+        "Veterinary and Vitamin D",
+        "UV and Vitamin D"
+    ],
+    "tags": [
+        "UV and Vitamin D",
+        "Veterinary and Vitamin D",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,15 +1,21 @@
 {
-  "title": "Wearable dialysis device being tested which also converts vitamin D",
-  "slug": "wearable-dialysis-device-being-tested-which-also-converts-vitamin-d",
-  "aliases": [
-    "/Wearable+dialysis+device+being+tested+which+also+converts+vitamin+D+-+Mar+2011",
-    "/1454"
-  ],
-  "tiki_page_id": 1454,
-  "date": "2011-03-03",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Wearable dialysis device being tested which also converts vitamin D",
+    "slug": "wearable-dialysis-device-being-tested-which-also-converts-vitamin-d",
+    "aliases": [
+        "/Wearable+dialysis+device+being+tested+which+also+converts+vitamin+D+-+Mar+2011",
+        "/1454"
+    ],
+    "tiki_page_id": 1454,
+    "date": "2011-03-03",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "dialysis",
+        "kidney",
+        "vitamin d"
+    ]
 }
 
 
@@ -22,4 +28,3 @@
 # See also VitaminDWiki
 
 * <a href="/posts/overview-of-vitamin-d-and-kidney" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview of Vitamin D and Kidney</a>
-

@@ -1,16 +1,26 @@
 {
-  "title": "Only 18 percent of Swedes got recommended amount of vitamin D",
-  "slug": "only-18-percent-of-swedes-got-recommended-amount-of-vitamin-d",
-  "aliases": [
-    "/Only+18+percent+of+Swedes+got+recommended+amount+of+vitamin+D+\u2013+Feb+2011",
-    "/1395"
-  ],
-  "tiki_page_id": 1395,
-  "date": "2011-02-09",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Vitamin D Far from equator"
-  ]
+    "title": "Only 18 percent of Swedes got recommended amount of vitamin D",
+    "slug": "only-18-percent-of-swedes-got-recommended-amount-of-vitamin-d",
+    "aliases": [
+        "/Only+18+percent+of+Swedes+got+recommended+amount+of+vitamin+D+\u2013+Feb+2011",
+        "/1395"
+    ],
+    "tiki_page_id": 1395,
+    "date": "2011-02-09",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Vitamin D Far from equator"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Vitamin D Far from equator",
+        "cancer",
+        "diabetes",
+        "health risk",
+        "metabolic",
+        "smoking",
+        "vitamin d"
+    ]
 }
 
 
@@ -37,4 +47,3 @@ CONCLUSIONS: Results suggest that the DQI-SNR is a useful tool for assessing adh
 – – – – – 
 
 # Unable to quickly find the Swedish recommended level of vitamin D
-

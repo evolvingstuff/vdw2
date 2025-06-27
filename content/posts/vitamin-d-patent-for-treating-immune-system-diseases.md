@@ -1,22 +1,52 @@
 {
-  "title": "Vitamin D patent for treating immune system diseases",
-  "slug": "vitamin-d-patent-for-treating-immune-system-diseases",
-  "aliases": [
-    "/Vitamin+D+patent+for+treating+immune+system+diseases",
-    "/1792"
-  ],
-  "tiki_page_id": 1792,
-  "date": "2011-07-03",
-  "categories": [
-    "Breathing",
-    "Diabetes",
-    "Multiple Sclerosis",
-    "Psoriasis",
-    "Tuberculosis",
-    "Lupus",
-    "Rheumatoid Arthritis",
-    "Immunity"
-  ]
+    "title": "Vitamin D patent for treating immune system diseases",
+    "slug": "vitamin-d-patent-for-treating-immune-system-diseases",
+    "aliases": [
+        "/Vitamin+D+patent+for+treating+immune+system+diseases",
+        "/1792"
+    ],
+    "tiki_page_id": 1792,
+    "date": "2011-07-03",
+    "categories": [
+        "Breathing",
+        "Diabetes",
+        "Multiple Sclerosis",
+        "Psoriasis",
+        "Tuberculosis",
+        "Lupus",
+        "Rheumatoid Arthritis",
+        "Immunity"
+    ],
+    "tags": [
+        "Breathing",
+        "Diabetes",
+        "Immunity",
+        "Lupus",
+        "Multiple Sclerosis",
+        "Psoriasis",
+        "Rheumatoid Arthritis",
+        "Tuberculosis",
+        "atopic dermatitis",
+        "autoimmune",
+        "bacteria",
+        "breathing",
+        "crohns",
+        "dermatology",
+        "diabetes",
+        "gut",
+        "hay fever",
+        "high dose",
+        "immunity",
+        "intervention",
+        "lupus",
+        "metabolic",
+        "multiple sclerosis",
+        "pain",
+        "psoriasis",
+        "rheumatoid arthritis",
+        "tuberculosis",
+        "ulcerative colitis"
+    ]
 }
 
 

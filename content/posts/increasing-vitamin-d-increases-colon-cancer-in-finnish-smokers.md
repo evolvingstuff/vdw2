@@ -1,15 +1,23 @@
 {
-  "title": "Increasing vitamin D increases colon cancer in Finnish smokers",
-  "slug": "increasing-vitamin-d-increases-colon-cancer-in-finnish-smokers",
-  "aliases": [
-    "/Increasing+vitamin+D+increases+colon+cancer+in+Finnish+smokers+\u2013+Jan+2011",
-    "/1338"
-  ],
-  "tiki_page_id": 1338,
-  "date": "2011-01-21",
-  "categories": [
-    "Cancer - Colon"
-  ]
+    "title": "Increasing vitamin D increases colon cancer in Finnish smokers",
+    "slug": "increasing-vitamin-d-increases-colon-cancer-in-finnish-smokers",
+    "aliases": [
+        "/Increasing+vitamin+D+increases+colon+cancer+in+Finnish+smokers+\u2013+Jan+2011",
+        "/1338"
+    ],
+    "tiki_page_id": 1338,
+    "date": "2011-01-21",
+    "categories": [
+        "Cancer - Colon"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "blood levels",
+        "cancer",
+        "colon cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -36,4 +44,3 @@ Colon cancer risks were significantly elevated for the highest season-specific a
 * <a href="/posts/will-increasing-vitamin-d-in-blood-to-100-ng-reduce-deaths-of-colon-cancer-patients" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 588">Will increasing vitamin D in blood to 100 ng reduce deaths of colon cancer patients- July 2010</a> Clinical Trial
 
 * <a href="/posts/colon-cancer-vs-latitude" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 64">Colon Cancer vs latitude</a> from Gapminder
-

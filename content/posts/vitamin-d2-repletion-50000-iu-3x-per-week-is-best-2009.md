@@ -1,16 +1,26 @@
 {
-  "title": "Vitamin D2 repletion \u2013 50000 IU 3X per week is best \u2013 2009",
-  "slug": "vitamin-d2-repletion-50000-iu-3x-per-week-is-best-2009",
-  "aliases": [
-    "/Vitamin+D2+repletion+\u2013+50000+IU+3X+per+week+is+best+\u2013+2009",
-    "/1245"
-  ],
-  "tiki_page_id": 1245,
-  "date": "2010-12-17",
-  "categories": [
-    "How much Vitamin D",
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Vitamin D2 repletion \u2013 50000 IU 3X per week is best \u2013 2009",
+    "slug": "vitamin-d2-repletion-50000-iu-3x-per-week-is-best-2009",
+    "aliases": [
+        "/Vitamin+D2+repletion+\u2013+50000+IU+3X+per+week+is+best+\u2013+2009",
+        "/1245"
+    ],
+    "tiki_page_id": 1245,
+    "date": "2010-12-17",
+    "categories": [
+        "How much Vitamin D",
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -51,4 +61,3 @@ In this study, regimens that contained at least 600,000 IU of ergocalciferol app
 – – – – – – 
 
 # Wonder why not replete with D3 instead of D2.  It seems to be 3X more effective and have fewer side effects.
-

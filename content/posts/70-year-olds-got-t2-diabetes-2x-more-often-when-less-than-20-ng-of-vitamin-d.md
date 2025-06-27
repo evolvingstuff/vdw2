@@ -1,16 +1,26 @@
 {
-  "title": "70 year-olds got T2 Diabetes 2X more often when less than 20 ng of vitamin D",
-  "slug": "70-year-olds-got-t2-diabetes-2x-more-often-when-less-than-20-ng-of-vitamin-d",
-  "aliases": [
-    "/70+year-olds+got+T2+Diabetes+2X+more+often+when+less+than+20+ng+of+vitamin+D+\u2013+April+2011",
-    "/1600"
-  ],
-  "tiki_page_id": 1600,
-  "date": "2011-05-03",
-  "categories": [
-    "Seniors",
-    "Diabetes"
-  ]
+    "title": "70 year-olds got T2 Diabetes 2X more often when less than 20 ng of vitamin D",
+    "slug": "70-year-olds-got-t2-diabetes-2x-more-often-when-less-than-20-ng-of-vitamin-d",
+    "aliases": [
+        "/70+year-olds+got+T2+Diabetes+2X+more+often+when+less+than+20+ng+of+vitamin+D+\u2013+April+2011",
+        "/1600"
+    ],
+    "tiki_page_id": 1600,
+    "date": "2011-05-03",
+    "categories": [
+        "Seniors",
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "Seniors",
+        "blood levels",
+        "diabetes",
+        "health risk",
+        "metabolic",
+        "smoking",
+        "vitamin d"
+    ]
 }
 
 
@@ -47,4 +57,3 @@ Received November 3, 2010.     Accepted March 22, 2011.
 # See also VitaminDWiki
 
 * <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
-

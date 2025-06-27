@@ -1,16 +1,28 @@
 {
-  "title": "Breast cancer and Vitamin D receptors, CP27B1, and CYP24A1",
-  "slug": "breast-cancer-and-vitamin-d-receptors-cp27b1-and-cyp24a1",
-  "aliases": [
-    "/Breast+cancer+and+Vitamin+D+receptors+CP27B1+and+CYP24A1+\u2013+Sept+2010",
-    "/2034"
-  ],
-  "tiki_page_id": 2034,
-  "date": "2011-09-26",
-  "categories": [
-    "Cancer - Breast",
-    "Genetics"
-  ]
+    "title": "Breast cancer and Vitamin D receptors, CP27B1, and CYP24A1",
+    "slug": "breast-cancer-and-vitamin-d-receptors-cp27b1-and-cyp24a1",
+    "aliases": [
+        "/Breast+cancer+and+Vitamin+D+receptors+CP27B1+and+CYP24A1+\u2013+Sept+2010",
+        "/2034"
+    ],
+    "tiki_page_id": 2034,
+    "date": "2011-09-26",
+    "categories": [
+        "Cancer - Breast",
+        "Genetics"
+    ],
+    "tags": [
+        "CYPA",
+        "CYPR",
+        "Cancer - Breast",
+        "Genetics",
+        "breast cancer",
+        "cancer",
+        "cancer in VDR",
+        "genetics",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 

@@ -1,15 +1,22 @@
 {
-  "title": "Autism 3X more likely after closely spaced pregnancy vs 3 year apart",
-  "slug": "autism-3x-more-likely-after-closely-spaced-pregnancy-vs-3-year-apart",
-  "aliases": [
-    "/Autism+3X+more+likely+after+closely+spaced+pregnancy+vs+3+year+apart\u2013+Jan+2011",
-    "/1649"
-  ],
-  "tiki_page_id": 1649,
-  "date": "2011-05-22",
-  "categories": [
-    "Autism"
-  ]
+    "title": "Autism 3X more likely after closely spaced pregnancy vs 3 year apart",
+    "slug": "autism-3x-more-likely-after-closely-spaced-pregnancy-vs-3-year-apart",
+    "aliases": [
+        "/Autism+3X+more+likely+after+closely+spaced+pregnancy+vs+3+year+apart\u2013+Jan+2011",
+        "/1649"
+    ],
+    "tiki_page_id": 1649,
+    "date": "2011-05-22",
+    "categories": [
+        "Autism"
+    ],
+    "tags": [
+        "Autism",
+        "child",
+        "fertility sperm",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -54,4 +61,3 @@ In the study, researchers took into account maternal and paternal ages, parental
 #### See also VitaminDWiki
 
 * <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview - Autism and vitamin D</a>
-

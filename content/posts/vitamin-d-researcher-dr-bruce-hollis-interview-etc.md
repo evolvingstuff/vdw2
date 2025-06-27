@@ -1,16 +1,52 @@
 {
-  "title": "Vitamin D researcher Dr Bruce Hollis - Interview etc",
-  "slug": "vitamin-d-researcher-dr-bruce-hollis-interview-etc",
-  "aliases": [
-    "/Vitamin+D+researcher+Dr+Bruce+Hollis+-+Interview+etc+Nov+2010",
-    "/1148"
-  ],
-  "tiki_page_id": 1148,
-  "date": "2010-11-19",
-  "categories": [
-    "Pregnancy",
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Vitamin D researcher Dr Bruce Hollis - Interview etc",
+    "slug": "vitamin-d-researcher-dr-bruce-hollis-interview-etc",
+    "aliases": [
+        "/Vitamin+D+researcher+Dr+Bruce+Hollis+-+Interview+etc+Nov+2010",
+        "/1148"
+    ],
+    "tiki_page_id": 1148,
+    "date": "2010-11-19",
+    "categories": [
+        "Pregnancy",
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "Pregnancy",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breastfed",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood respiratory",
+        "childhood viruses",
+        "cognitive",
+        "diabetes",
+        "high dose",
+        "hypertension",
+        "influenza",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "respiratory",
+        "rickets",
+        "therapeutic intervention",
+        "virus",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

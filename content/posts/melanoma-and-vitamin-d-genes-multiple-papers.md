@@ -1,17 +1,29 @@
 {
-  "title": "Melanoma and Vitamin D genes - multiple papers",
-  "slug": "melanoma-and-vitamin-d-genes-multiple-papers",
-  "aliases": [
-    "/Melanoma+and+Vitamin+D+genes+-+multiple+papers",
-    "/1670"
-  ],
-  "tiki_page_id": 1670,
-  "date": "2011-05-27",
-  "categories": [
-    "Cancer - Skin",
-    "Genetics"
-  ]
+    "title": "Melanoma and Vitamin D genes - multiple papers",
+    "slug": "melanoma-and-vitamin-d-genes-multiple-papers",
+    "aliases": [
+        "/Melanoma+and+Vitamin+D+genes+-+multiple+papers",
+        "/1670"
+    ],
+    "tiki_page_id": 1670,
+    "date": "2011-05-27",
+    "categories": [
+        "Cancer - Skin",
+        "Genetics"
+    ],
+    "tags": [
+        "Cancer - Skin",
+        "Genetics",
+        "cancer",
+        "cancer in VDR",
+        "genetics",
+        "melanoma",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 {{< toc >}}
 

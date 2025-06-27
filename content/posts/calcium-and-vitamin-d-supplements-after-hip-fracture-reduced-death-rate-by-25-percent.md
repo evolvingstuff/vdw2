@@ -1,16 +1,31 @@
 {
-  "title": "Calcium and vitamin D supplements after hip fracture reduced death rate by 25%",
-  "slug": "calcium-and-vitamin-d-supplements-after-hip-fracture-reduced-death-rate-by-25-percent",
-  "aliases": [
-    "/Calcium+and+vitamin+D+supplements+after+hip+fracture+reduced+death+rate+by+25+\u2013+Feb+2011",
-    "/1439"
-  ],
-  "tiki_page_id": 1439,
-  "date": "2011-02-26",
-  "categories": [
-    "Osteoporosis",
-    "Trauma and surgery"
-  ]
+    "title": "Calcium and vitamin D supplements after hip fracture reduced death rate by 25%",
+    "slug": "calcium-and-vitamin-d-supplements-after-hip-fracture-reduced-death-rate-by-25-percent",
+    "aliases": [
+        "/Calcium+and+vitamin+D+supplements+after+hip+fracture+reduced+death+rate+by+25+\u2013+Feb+2011",
+        "/1439"
+    ],
+    "tiki_page_id": 1439,
+    "date": "2011-02-26",
+    "categories": [
+        "Osteoporosis",
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "Trauma and surgery",
+        "bone",
+        "bone stress fractures",
+        "bone surgery",
+        "child",
+        "falls fractures",
+        "hip fractures",
+        "life span",
+        "mortality",
+        "osteoporosis",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 
@@ -65,4 +80,3 @@ Copyright © 2011 American Society for Bone and Mineral Research. PMID: 21351147
 * [All items in Cost Savings and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=87&sort_mode=created_desc) 20 as of Nov 2011
 
 * [Overview Osteoporosis and Vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
-

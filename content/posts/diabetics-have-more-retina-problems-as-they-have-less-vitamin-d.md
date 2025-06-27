@@ -1,16 +1,30 @@
 {
-  "title": "Diabetics have more retina problems as they have less vitamin D",
-  "slug": "diabetics-have-more-retina-problems-as-they-have-less-vitamin-d",
-  "aliases": [
-    "/Diabetics+have+more+retina+problems+as+they+have+less+vitamin+D+\u2013+Sept+2011",
-    "/2048"
-  ],
-  "tiki_page_id": 2048,
-  "date": "2011-09-28",
-  "categories": [
-    "Diabetes",
-    "Vision"
-  ]
+    "title": "Diabetics have more retina problems as they have less vitamin D",
+    "slug": "diabetics-have-more-retina-problems-as-they-have-less-vitamin-d",
+    "aliases": [
+        "/Diabetics+have+more+retina+problems+as+they+have+less+vitamin+D+\u2013+Sept+2011",
+        "/2048"
+    ],
+    "tiki_page_id": 2048,
+    "date": "2011-09-28",
+    "categories": [
+        "Diabetes",
+        "Vision"
+    ],
+    "tags": [
+        "Diabetes",
+        "Vision",
+        "blood levels",
+        "diabetes",
+        "diabetic retinopathy",
+        "dosage",
+        "metabolic",
+        "retinopathy",
+        "type 1 diabetes",
+        "vision",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

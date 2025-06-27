@@ -1,17 +1,30 @@
 {
-  "title": "Overview Fractures and Falls and Vitamin D",
-  "slug": "overview-fractures-and-falls-and-vitamin-d",
-  "aliases": [
-    "/Overview+Fractures+and+Falls+and+Vitamin+D",
-    "/1260"
-  ],
-  "tiki_page_id": 1260,
-  "date": "2010-12-24",
-  "categories": [
-    "Seniors",
-    "Overviews",
-    "Falls and Fractures"
-  ]
+    "title": "Overview Fractures and Falls and Vitamin D",
+    "slug": "overview-fractures-and-falls-and-vitamin-d",
+    "aliases": [
+        "/Overview+Fractures+and+Falls+and+Vitamin+D",
+        "/1260"
+    ],
+    "tiki_page_id": 1260,
+    "date": "2010-12-24",
+    "categories": [
+        "Seniors",
+        "Overviews",
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "Overviews",
+        "Seniors",
+        "back pain",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "hip fractures",
+        "osteoporosis",
+        "pain",
+        "vitamin d"
+    ]
 }
 
 

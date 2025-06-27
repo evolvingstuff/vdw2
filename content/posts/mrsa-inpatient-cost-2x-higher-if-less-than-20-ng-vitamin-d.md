@@ -1,17 +1,25 @@
 {
-  "title": "MRSA inpatient cost 2X higher if less than 20 ng vitamin D",
-  "slug": "mrsa-inpatient-cost-2x-higher-if-less-than-20-ng-vitamin-d",
-  "aliases": [
-    "/MRSA+inpatient+cost+2X+higher+if+less+than+20+ng+vitamin+D+\u2013+June+2011",
-    "/1753"
-  ],
-  "tiki_page_id": 1753,
-  "date": "2011-06-23",
-  "categories": [
-    "Immunity",
-    "Trauma and surgery",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "MRSA inpatient cost 2X higher if less than 20 ng vitamin D",
+    "slug": "mrsa-inpatient-cost-2x-higher-if-less-than-20-ng-vitamin-d",
+    "aliases": [
+        "/MRSA+inpatient+cost+2X+higher+if+less+than+20+ng+vitamin+D+\u2013+June+2011",
+        "/1753"
+    ],
+    "tiki_page_id": 1753,
+    "date": "2011-06-23",
+    "categories": [
+        "Immunity",
+        "Trauma and surgery",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Immunity",
+        "Trauma and surgery",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,15 +1,23 @@
 {
-  "title": "Urban residents had 2X less vitamin D \u2013 2008",
-  "slug": "urban-residents-had-2x-less-vitamin-d-2008",
-  "aliases": [
-    "/Urban+residents+had+2X+less+vitamin+D+\u2013+2008",
-    "/1672"
-  ],
-  "tiki_page_id": 1672,
-  "date": "2011-05-27",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Urban residents had 2X less vitamin D \u2013 2008",
+    "slug": "urban-residents-had-2x-less-vitamin-d-2008",
+    "aliases": [
+        "/Urban+residents+had+2X+less+vitamin+D+\u2013+2008",
+        "/1672"
+    ],
+    "tiki_page_id": 1672,
+    "date": "2011-05-27",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "blood levels",
+        "health risk",
+        "pollution",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

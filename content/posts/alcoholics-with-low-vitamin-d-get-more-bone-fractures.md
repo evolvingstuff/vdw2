@@ -1,16 +1,27 @@
 {
-  "title": "Alcoholics with low vitamin D get more bone fractures",
-  "slug": "alcoholics-with-low-vitamin-d-get-more-bone-fractures",
-  "aliases": [
-    "/Alcoholics+with+low+vitamin+D+get+more+bone+fractures+-Jan+2011",
-    "/1339"
-  ],
-  "tiki_page_id": 1339,
-  "date": "2011-01-21",
-  "categories": [
-    "Liver",
-    "Osteoporosis"
-  ]
+    "title": "Alcoholics with low vitamin D get more bone fractures",
+    "slug": "alcoholics-with-low-vitamin-d-get-more-bone-fractures",
+    "aliases": [
+        "/Alcoholics+with+low+vitamin+D+get+more+bone+fractures+-Jan+2011",
+        "/1339"
+    ],
+    "tiki_page_id": 1339,
+    "date": "2011-01-21",
+    "categories": [
+        "Liver",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Liver",
+        "Osteoporosis",
+        "alcohol",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "falls fractures",
+        "health risk",
+        "vitamin d"
+    ]
 }
 
 
@@ -36,4 +47,4 @@ Their presence is related more closely to nutritional status, lean mass and vita
 
 Lean mass is more reduced, nutritional status is more impaired and there is a trend to more altered eating habits among patients with rib fractures, whereas multiple fractures depend more heavily on advanced liver disease.
 
-PMID: 21248027 
+PMID: 21248027

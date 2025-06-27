@@ -1,15 +1,25 @@
 {
-  "title": "Hypothesis \u2013 you will get the most vitamin D from sun if you do not tan",
-  "slug": "hypothesis-you-will-get-the-most-vitamin-d-from-sun-if-you-do-not-tan",
-  "aliases": [
-    "/Hypothesis+\u2013+you+will+get+the+most+vitamin+D+from+sun+if+you+do+not+tan",
-    "/1750"
-  ],
-  "tiki_page_id": 1750,
-  "date": "2011-06-22",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Hypothesis \u2013 you will get the most vitamin D from sun if you do not tan",
+    "slug": "hypothesis-you-will-get-the-most-vitamin-d-from-sun-if-you-do-not-tan",
+    "aliases": [
+        "/Hypothesis+\u2013+you+will+get+the+most+vitamin+D+from+sun+if+you+do+not+tan",
+        "/1750"
+    ],
+    "tiki_page_id": 1750,
+    "date": "2011-06-22",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "falls fractures",
+        "melanoma",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 

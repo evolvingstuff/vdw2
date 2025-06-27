@@ -1,18 +1,43 @@
 {
-  "title": "Might use Vitamin D for cystic fibrosis and topically on skin",
-  "slug": "might-use-vitamin-d-for-cystic-fibrosis-and-topically-on-skin",
-  "aliases": [
-    "/Might+use+Vitamin+D+for+cystic+fibrosis+and+topically+on+skin+\u2013+June+2011",
-    "/1745"
-  ],
-  "tiki_page_id": 1745,
-  "date": "2011-06-20",
-  "categories": [
-    "Dental",
-    "Psoriasis",
-    "Cystic Fibrosis"
-  ]
+    "title": "Might use Vitamin D for cystic fibrosis and topically on skin",
+    "slug": "might-use-vitamin-d-for-cystic-fibrosis-and-topically-on-skin",
+    "aliases": [
+        "/Might+use+Vitamin+D+for+cystic+fibrosis+and+topically+on+skin+\u2013+June+2011",
+        "/1745"
+    ],
+    "tiki_page_id": 1745,
+    "date": "2011-06-20",
+    "categories": [
+        "Dental",
+        "Psoriasis",
+        "Cystic Fibrosis"
+    ],
+    "tags": [
+        "Cystic Fibrosis",
+        "Dental",
+        "Psoriasis",
+        "antibiotics",
+        "autoimmune",
+        "bacteria",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cystic fibrosis",
+        "dental",
+        "dermatology",
+        "genetics",
+        "high dose",
+        "immunity",
+        "intervention",
+        "periodontitis",
+        "psoriasis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 

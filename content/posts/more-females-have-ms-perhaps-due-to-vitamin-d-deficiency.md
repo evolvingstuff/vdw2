@@ -1,15 +1,24 @@
 {
-  "title": "More females have MS \u2013 perhaps due to vitamin D deficiency",
-  "slug": "more-females-have-ms-perhaps-due-to-vitamin-d-deficiency",
-  "aliases": [
-    "/More+females+have+MS+\u2013+perhaps+due+to+vitamin+D+deficiency+\u2013+Feb+2011",
-    "/1445"
-  ],
-  "tiki_page_id": 1445,
-  "date": "2011-03-01",
-  "categories": [
-    "Multiple Sclerosis"
-  ]
+    "title": "More females have MS \u2013 perhaps due to vitamin D deficiency",
+    "slug": "more-females-have-ms-perhaps-due-to-vitamin-d-deficiency",
+    "aliases": [
+        "/More+females+have+MS+\u2013+perhaps+due+to+vitamin+D+deficiency+\u2013+Feb+2011",
+        "/1445"
+    ],
+    "tiki_page_id": 1445,
+    "date": "2011-03-01",
+    "categories": [
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "autoimmune",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -36,4 +45,3 @@ Copyright © 2010. Published by Elsevier B.V. PMID: 21354338
 * <a href="/posts/overview-of-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 691">Overview of MS and Vitamin D</a>
 
 * [Why has the MS latitude gradient disappeared – Oct 2011](/posts/why-has-the-ms-latitude-gradient-disappeared) - also noticed big increase in female MS
-

@@ -1,16 +1,31 @@
 {
-  "title": "Prefer more than 30 ng of Vitamin D and 700 mg Calcium to treat Osteoporosis",
-  "slug": "prefer-more-than-30-ng-of-vitamin-d-and-700-mg-calcium-to-treat-osteoporosis",
-  "aliases": [
-    "/Prefer+more+than+30+ng+of+Vitamin+D+and+700+mg+Calcium+to+treat+Osteoporosis+\u2013+Mar+2011",
-    "/1440"
-  ],
-  "tiki_page_id": 1440,
-  "date": "2011-02-26",
-  "categories": [
-    "Osteoporosis",
-    "Treatment by Vitamin D"
-  ]
+    "title": "Prefer more than 30 ng of Vitamin D and 700 mg Calcium to treat Osteoporosis",
+    "slug": "prefer-more-than-30-ng-of-vitamin-d-and-700-mg-calcium-to-treat-osteoporosis",
+    "aliases": [
+        "/Prefer+more+than+30+ng+of+Vitamin+D+and+700+mg+Calcium+to+treat+Osteoporosis+\u2013+Mar+2011",
+        "/1440"
+    ],
+    "tiki_page_id": 1440,
+    "date": "2011-02-26",
+    "categories": [
+        "Osteoporosis",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "Treatment by Vitamin D",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "hip fractures",
+        "magnesium",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

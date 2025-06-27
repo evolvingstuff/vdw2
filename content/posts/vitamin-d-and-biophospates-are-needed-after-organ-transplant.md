@@ -1,15 +1,25 @@
 {
-  "title": "Vitamin D and biophospates are needed after organ transplant",
-  "slug": "vitamin-d-and-biophospates-are-needed-after-organ-transplant",
-  "aliases": [
-    "/Vitamin+D+and+biophospates+are+needed+after+organ+transplant+\u2013+Aug+2011",
-    "/1929"
-  ],
-  "tiki_page_id": 1929,
-  "date": "2011-08-21",
-  "categories": [
-    "Osteoporosis"
-  ]
+    "title": "Vitamin D and biophospates are needed after organ transplant",
+    "slug": "vitamin-d-and-biophospates-are-needed-after-organ-transplant",
+    "aliases": [
+        "/Vitamin+D+and+biophospates+are+needed+after+organ+transplant+\u2013+Aug+2011",
+        "/1929"
+    ],
+    "tiki_page_id": 1929,
+    "date": "2011-08-21",
+    "categories": [
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "falls fractures",
+        "transplant",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 

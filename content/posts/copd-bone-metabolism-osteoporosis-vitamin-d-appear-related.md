@@ -1,16 +1,31 @@
 {
-  "title": "COPD \u2013 Bone Metabolism \u2013 Osteoporosis \u2013 Vitamin D appear related",
-  "slug": "copd-bone-metabolism-osteoporosis-vitamin-d-appear-related",
-  "aliases": [
-    "/COPD+\u2013+Bone+Metabolism+\u2013+Osteoporosis+\u2013+Vitamin+D+appear+related+\u2013+Mar+2011",
-    "/1453"
-  ],
-  "tiki_page_id": 1453,
-  "date": "2011-03-03",
-  "categories": [
-    "Breathing",
-    "Osteoporosis"
-  ]
+    "title": "COPD \u2013 Bone Metabolism \u2013 Osteoporosis \u2013 Vitamin D appear related",
+    "slug": "copd-bone-metabolism-osteoporosis-vitamin-d-appear-related",
+    "aliases": [
+        "/COPD+\u2013+Bone+Metabolism+\u2013+Osteoporosis+\u2013+Vitamin+D+appear+related+\u2013+Mar+2011",
+        "/1453"
+    ],
+    "tiki_page_id": 1453,
+    "date": "2011-03-03",
+    "categories": [
+        "Breathing",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Breathing",
+        "Osteoporosis",
+        "bone",
+        "bone mineral density",
+        "breathing",
+        "falls fractures",
+        "health risk",
+        "life span",
+        "mortality",
+        "osteoporosis",
+        "pneumonia",
+        "smoking",
+        "vitamin d"
+    ]
 }
 
 
@@ -32,7 +47,7 @@ Osteoporosis, in turn, may cause fragility fractures, which further impair mobil
 
 # See also VitaminDWiki
 
-* <a href="/posts/copd-and-osteoporosis-are-related-vitamin-d-is-one-possible-connection-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD and Osteoporosis are related – vitamin D is one possible connection – 2013">COPD and Osteoporosis are related – vitamin D is one possible connection – 2013</a>
+* [COPD and Osteoporosis are related – vitamin D is one possible connection – 2013](/posts/copd-and-osteoporosis-are-related-vitamin-d-is-one-possible-connection-2013)
 
 * [COPD related to vitamin D by a gene in China. - Aug 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1339)
 

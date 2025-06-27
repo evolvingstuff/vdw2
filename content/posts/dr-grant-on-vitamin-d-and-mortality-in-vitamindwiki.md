@@ -1,16 +1,22 @@
 {
-  "title": "Dr. Grant on vitamin D and mortality in VitaminDWiki",
-  "slug": "dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki",
-  "aliases": [
-    "/Dr+Grant+on+vitamin+D+and+mortality+in+VitaminDWiki",
-    "/1825"
-  ],
-  "tiki_page_id": 1825,
-  "date": "2011-07-13",
-  "categories": [
-    "Mortality and D",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "Dr. Grant on vitamin D and mortality in VitaminDWiki",
+    "slug": "dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki",
+    "aliases": [
+        "/Dr+Grant+on+vitamin+D+and+mortality+in+VitaminDWiki",
+        "/1825"
+    ],
+    "tiki_page_id": 1825,
+    "date": "2011-07-13",
+    "categories": [
+        "Mortality and D",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Mortality and D",
+        "cancer",
+        "vitamin d"
+    ]
 }
 
 

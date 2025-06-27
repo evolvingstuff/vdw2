@@ -1,16 +1,29 @@
 {
-  "title": "People with TB and one geneotype benefited more from 10000 IU of vitamin D",
-  "slug": "people-with-tb-and-one-geneotype-benefited-more-from-10000-iu-of-vitamin-d",
-  "aliases": [
-    "/People+with+TB+and+one+geneotype+benefited+more+from+10000+IU+of+vitamin+D+-+Jan+2011",
-    "/1426"
-  ],
-  "tiki_page_id": 1426,
-  "date": "2011-02-21",
-  "categories": [
-    "Tuberculosis",
-    "Genetics"
-  ]
+    "title": "People with TB and one geneotype benefited more from 10000 IU of vitamin D",
+    "slug": "people-with-tb-and-one-geneotype-benefited-more-from-10000-iu-of-vitamin-d",
+    "aliases": [
+        "/People+with+TB+and+one+geneotype+benefited+more+from+10000+IU+of+vitamin+D+-+Jan+2011",
+        "/1426"
+    ],
+    "tiki_page_id": 1426,
+    "date": "2011-02-21",
+    "categories": [
+        "Tuberculosis",
+        "Genetics"
+    ],
+    "tags": [
+        "Genetics",
+        "Tuberculosis",
+        "antibiotics",
+        "bacteria",
+        "blood levels",
+        "genetics",
+        "immunity",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -47,4 +60,3 @@ vitamin D3 significantly hastened sputum culture conversion in patients with the
 but  **not**  in those with  **Tt genotype**  (0E85, 95% CI 0E45–1.63; p=0?63), 
 
 or  **TT genotype** (1E13, 95% CI 0E60–2?10; p=0?71).
-

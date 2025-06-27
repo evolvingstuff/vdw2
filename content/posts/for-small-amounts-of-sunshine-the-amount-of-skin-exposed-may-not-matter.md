@@ -1,17 +1,24 @@
 {
-  "title": "For small amounts of sunshine the amount of skin exposed may not matter",
-  "slug": "for-small-amounts-of-sunshine-the-amount-of-skin-exposed-may-not-matter",
-  "aliases": [
-    "/For+small+amounts+of+sunshine+the+amount+of+skin+exposed+may+not+matter+\u2013+Jan+2011",
-    "/1635"
-  ],
-  "tiki_page_id": 1635,
-  "date": "2011-05-15",
-  "categories": [
-    "Noontime sun and D",
-    "UV and Vitamin D",
-    "Skin"
-  ]
+    "title": "For small amounts of sunshine the amount of skin exposed may not matter",
+    "slug": "for-small-amounts-of-sunshine-the-amount-of-skin-exposed-may-not-matter",
+    "aliases": [
+        "/For+small+amounts+of+sunshine+the+amount+of+skin+exposed+may+not+matter+\u2013+Jan+2011",
+        "/1635"
+    ],
+    "tiki_page_id": 1635,
+    "date": "2011-05-15",
+    "categories": [
+        "Noontime sun and D",
+        "UV and Vitamin D",
+        "Skin"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "Skin",
+        "UV and Vitamin D",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

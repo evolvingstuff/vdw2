@@ -1,16 +1,36 @@
 {
-  "title": "80 percent recent increase in Strokes following pregnancy",
-  "slug": "80-percent-recent-increase-in-strokes-following-pregnancy",
-  "aliases": [
-    "/80+percent+recent+increase+in+Strokes+following+pregnancy+-+July+2011",
-    "/1872"
-  ],
-  "tiki_page_id": 1872,
-  "date": "2011-07-28",
-  "categories": [
-    "Pregnancy",
-    "Stroke"
-  ]
+    "title": "80 percent recent increase in Strokes following pregnancy",
+    "slug": "80-percent-recent-increase-in-strokes-following-pregnancy",
+    "aliases": [
+        "/80+percent+recent+increase+in+Strokes+following+pregnancy+-+July+2011",
+        "/1872"
+    ],
+    "tiki_page_id": 1872,
+    "date": "2011-07-28",
+    "categories": [
+        "Pregnancy",
+        "Stroke"
+    ],
+    "tags": [
+        "Pregnancy",
+        "Stroke",
+        "asthma",
+        "breastfed",
+        "breathing",
+        "cardiovascular",
+        "child",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "metabolic",
+        "myopia",
+        "preeclampsia",
+        "pregnancy",
+        "smoking",
+        "stroke",
+        "vision",
+        "vitamin d"
+    ]
 }
 
 

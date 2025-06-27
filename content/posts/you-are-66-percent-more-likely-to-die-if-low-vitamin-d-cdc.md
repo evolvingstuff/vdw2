@@ -1,15 +1,26 @@
 {
-  "title": "You are 66 percent more likely to die if low vitamin D \u2013 CDC",
-  "slug": "you-are-66-percent-more-likely-to-die-if-low-vitamin-d-cdc",
-  "aliases": [
-    "/You+are+66+percent+more+likely+to+die+if+low+vitamin+D+\u2013+CDC+Jan+2010",
-    "/1359"
-  ],
-  "tiki_page_id": 1359,
-  "date": "2011-01-28",
-  "categories": [
-    "Mortality and D"
-  ]
+    "title": "You are 66 percent more likely to die if low vitamin D \u2013 CDC",
+    "slug": "you-are-66-percent-more-likely-to-die-if-low-vitamin-d-cdc",
+    "aliases": [
+        "/You+are+66+percent+more+likely+to+die+if+low+vitamin+D+\u2013+CDC+Jan+2010",
+        "/1359"
+    ],
+    "tiki_page_id": 1359,
+    "date": "2011-01-28",
+    "categories": [
+        "Mortality and D"
+    ],
+    "tags": [
+        "Mortality and D",
+        "diabetes",
+        "health risk",
+        "life span",
+        "metabolic",
+        "mortality",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

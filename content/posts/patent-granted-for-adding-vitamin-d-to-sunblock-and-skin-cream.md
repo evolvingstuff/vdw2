@@ -1,16 +1,52 @@
 {
-  "title": "Patent granted for adding vitamin D to sunblock and skin cream",
-  "slug": "patent-granted-for-adding-vitamin-d-to-sunblock-and-skin-cream",
-  "aliases": [
-    "/Patent+granted+for+adding+vitamin+D+to+sunblock+and+skin+cream+-+Feb+2011",
-    "/1412"
-  ],
-  "tiki_page_id": 1412,
-  "date": "2011-02-16",
-  "categories": [
-    "Patent",
-    "Skin"
-  ]
+    "title": "Patent granted for adding vitamin D to sunblock and skin cream",
+    "slug": "patent-granted-for-adding-vitamin-d-to-sunblock-and-skin-cream",
+    "aliases": [
+        "/Patent+granted+for+adding+vitamin+D+to+sunblock+and+skin+cream+-+Feb+2011",
+        "/1412"
+    ],
+    "tiki_page_id": 1412,
+    "date": "2011-02-16",
+    "categories": [
+        "Patent",
+        "Skin"
+    ],
+    "tags": [
+        "Patent",
+        "SAD",
+        "Skin",
+        "autoimmune",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "cancer",
+        "chronic pain",
+        "colon cancer",
+        "depression",
+        "diabetes",
+        "dosage",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "lupus",
+        "magnesium",
+        "magnesium and cancer",
+        "metabolic",
+        "mood disorders",
+        "multiple sclerosis",
+        "neurological",
+        "osteoporosis",
+        "pain",
+        "parkinsons",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "rickets",
+        "skin cancer",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -77,4 +113,3 @@ Pamplin III, Charles L. (Chapel Hill, NC, US)
 Application Number: 14/222222
 
 Publication Date: 02/19/2015 Filing Date: 03/21/2014
-

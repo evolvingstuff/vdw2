@@ -1,15 +1,43 @@
 {
-  "title": "Vitamin D patents and the Wisconsin Alumni Research Foundation",
-  "slug": "vitamin-d-patents-and-the-wisconsin-alumni-research-foundation",
-  "aliases": [
-    "/Vitamin+D+patents+and+the+Wisconsin+Alumni+Research+Foundation",
-    "/1120"
-  ],
-  "tiki_page_id": 1120,
-  "date": "2010-11-06",
-  "categories": [
-    "Patent"
-  ]
+    "title": "Vitamin D patents and the Wisconsin Alumni Research Foundation",
+    "slug": "vitamin-d-patents-and-the-wisconsin-alumni-research-foundation",
+    "aliases": [
+        "/Vitamin+D+patents+and+the+Wisconsin+Alumni+Research+Foundation",
+        "/1120"
+    ],
+    "tiki_page_id": 1120,
+    "date": "2010-11-06",
+    "categories": [
+        "Patent"
+    ],
+    "tags": [
+        "IBD",
+        "Patent",
+        "asthma",
+        "asthma receptor",
+        "autoimmune",
+        "bone",
+        "breathing",
+        "child",
+        "childhood viruses",
+        "genetics",
+        "gut",
+        "high dose",
+        "intervention",
+        "lupus",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "rickets",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "ultraviolet light",
+        "virus",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d receptor"
+    ]
 }
 
 

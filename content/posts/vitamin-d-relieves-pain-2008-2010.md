@@ -1,15 +1,46 @@
 {
-  "title": "Vitamin D relieves pain \u2013 2008 2010",
-  "slug": "vitamin-d-relieves-pain-2008-2010",
-  "aliases": [
-    "/Vitamin+D+relieves+pain+\u2013+2008+2010",
-    "/1568"
-  ],
-  "tiki_page_id": 1568,
-  "date": "2011-04-05",
-  "categories": [
-    "Pain - chronic"
-  ]
+    "title": "Vitamin D relieves pain \u2013 2008 2010",
+    "slug": "vitamin-d-relieves-pain-2008-2010",
+    "aliases": [
+        "/Vitamin+D+relieves+pain+\u2013+2008+2010",
+        "/1568"
+    ],
+    "tiki_page_id": 1568,
+    "date": "2011-04-05",
+    "categories": [
+        "Pain - chronic"
+    ],
+    "tags": [
+        "Pain - chronic",
+        "anxiety",
+        "autoimmune",
+        "back pain",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "breast cancer",
+        "cancer",
+        "chronic fatigue",
+        "chronic pain",
+        "depression",
+        "dosage",
+        "falls fractures",
+        "herpes shingles",
+        "high dose",
+        "intervention",
+        "life span",
+        "mood disorders",
+        "mortality",
+        "neurological",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

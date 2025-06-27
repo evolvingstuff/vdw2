@@ -1,15 +1,20 @@
 {
-  "title": "Perhaps not take vitamin D in the evening",
-  "slug": "perhaps-not-take-vitamin-d-in-the-evening",
-  "aliases": [
-    "/Perhaps+not+take+vitamin+D+in+the+evening",
-    "/2146"
-  ],
-  "tiki_page_id": 2146,
-  "date": "2011-11-03",
-  "categories": [
-    "How, when to take Vit. D"
-  ]
+    "title": "Perhaps not take vitamin D in the evening",
+    "slug": "perhaps-not-take-vitamin-d-in-the-evening",
+    "aliases": [
+        "/Perhaps+not+take+vitamin+D+in+the+evening",
+        "/2146"
+    ],
+    "tiki_page_id": 2146,
+    "date": "2011-11-03",
+    "categories": [
+        "How, when to take Vit. D"
+    ],
+    "tags": [
+        "How, when to take Vit. D",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

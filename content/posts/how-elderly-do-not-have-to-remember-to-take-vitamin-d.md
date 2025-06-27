@@ -1,15 +1,26 @@
 {
-  "title": "How elderly do not have to remember to take vitamin D",
-  "slug": "how-elderly-do-not-have-to-remember-to-take-vitamin-d",
-  "aliases": [
-    "/How+elderly+do+not+have+to+remember+to+take+vitamin+D",
-    "/1687"
-  ],
-  "tiki_page_id": 1687,
-  "date": "2011-06-01",
-  "categories": [
-    "Seniors"
-  ]
+    "title": "How elderly do not have to remember to take vitamin D",
+    "slug": "how-elderly-do-not-have-to-remember-to-take-vitamin-d",
+    "aliases": [
+        "/How+elderly+do+not+have+to+remember+to+take+vitamin+D",
+        "/1687"
+    ],
+    "tiki_page_id": 1687,
+    "date": "2011-06-01",
+    "categories": [
+        "Seniors"
+    ],
+    "tags": [
+        "Seniors",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "influenza",
+        "vaccination",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

@@ -1,15 +1,21 @@
 {
-  "title": "87 percent of Tennessee general medicine patients had less than 32 ng of vitamin D",
-  "slug": "87-percent-of-tennessee-general-medicine-patients-had-less-than-32-ng-of-vitamin-d",
-  "aliases": [
-    "/87+percent+of+Tennessee+general+medicine+patients+had+less+than+32+ng+of+vitamin+D+\u2013+Jan+2011",
-    "/1419"
-  ],
-  "tiki_page_id": 1419,
-  "date": "2011-02-18",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "87 percent of Tennessee general medicine patients had less than 32 ng of vitamin D",
+    "slug": "87-percent-of-tennessee-general-medicine-patients-had-less-than-32-ng-of-vitamin-d",
+    "aliases": [
+        "/87+percent+of+Tennessee+general+medicine+patients+had+less+than+32+ng+of+vitamin+D+\u2013+Jan+2011",
+        "/1419"
+    ],
+    "tiki_page_id": 1419,
+    "date": "2011-02-18",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

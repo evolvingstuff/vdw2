@@ -1,17 +1,33 @@
 {
-  "title": "Breast and other Cancer prevention - Dr. Wascher 2011",
-  "slug": "breast-and-other-cancer-prevention-dr-wascher-2011",
-  "aliases": [
-    "/Breast+and+other+Cancer+prevention+-+Dr+Wascher+2011",
-    "/2084"
-  ],
-  "tiki_page_id": 2084,
-  "date": "2011-10-14",
-  "categories": [
-    "Books, videos on Vitamin D",
-    "Cancer - Breast",
-    "Cancer"
-  ]
+    "title": "Breast and other Cancer prevention - Dr. Wascher 2011",
+    "slug": "breast-and-other-cancer-prevention-dr-wascher-2011",
+    "aliases": [
+        "/Breast+and+other+Cancer+prevention+-+Dr+Wascher+2011",
+        "/2084"
+    ],
+    "tiki_page_id": 2084,
+    "date": "2011-10-14",
+    "categories": [
+        "Books, videos on Vitamin D",
+        "Cancer - Breast",
+        "Cancer"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "Cancer",
+        "Cancer - Breast",
+        "blood levels",
+        "breast cancer",
+        "cancer",
+        "cancer in VDR",
+        "colon cancer",
+        "genetics",
+        "immunity",
+        "prostate cancer",
+        "skin cancer",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 

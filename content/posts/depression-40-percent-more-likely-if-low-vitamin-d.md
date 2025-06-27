@@ -1,15 +1,28 @@
 {
-  "title": "Depression 40 percent more likely if low vitamin D",
-  "slug": "depression-40-percent-more-likely-if-low-vitamin-d",
-  "aliases": [
-    "/Depression+40+percent+more+likely+if+low+vitamin+D+\u2013+Oct+2011",
-    "/2085"
-  ],
-  "tiki_page_id": 2085,
-  "date": "2011-10-14",
-  "categories": [
-    "Depression"
-  ]
+    "title": "Depression 40 percent more likely if low vitamin D",
+    "slug": "depression-40-percent-more-likely-if-low-vitamin-d",
+    "aliases": [
+        "/Depression+40+percent+more+likely+if+low+vitamin+D+\u2013+Oct+2011",
+        "/2085"
+    ],
+    "tiki_page_id": 2085,
+    "date": "2011-10-14",
+    "categories": [
+        "Depression"
+    ],
+    "tags": [
+        "Depression",
+        "autoimmune",
+        "blood levels",
+        "depression",
+        "health risk",
+        "high dose",
+        "intervention",
+        "mood disorders",
+        "multiple sclerosis",
+        "smoking",
+        "vitamin d blood test"
+    ]
 }
 
 

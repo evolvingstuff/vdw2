@@ -1,15 +1,24 @@
 {
-  "title": "Vitamin D level recommendations - Bosomworth",
-  "slug": "vitamin-d-level-recommendations-bosomworth",
-  "aliases": [
-    "/Vitamin+D+level+recommendations+-+Bosomworth+Jan+2011",
-    "/1349"
-  ],
-  "tiki_page_id": 1349,
-  "date": "2011-01-25",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "Vitamin D level recommendations - Bosomworth",
+    "slug": "vitamin-d-level-recommendations-bosomworth",
+    "aliases": [
+        "/Vitamin+D+level+recommendations+-+Bosomworth+Jan+2011",
+        "/1349"
+    ],
+    "tiki_page_id": 1349,
+    "date": "2011-01-25",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "bone",
+        "dosage",
+        "health risk",
+        "obesity",
+        "rickets",
+        "vitamin d"
+    ]
 }
 
 
@@ -66,4 +75,3 @@ These recommendations can be safely made for individual patients.The Institute o
 * [Economic burden of premature deaths due to vitamin D de?ciency in Canada](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=990) PDF
 
 * <a href="/posts/overview-of-vitamin-d-wiki-for-fraser-health-canada" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2201">Overview of Vitamin D Wiki for Fraser Health (Canada) - Nov 2011</a> giving 20,000 IU of vitamin D weekly  in senior facility
-

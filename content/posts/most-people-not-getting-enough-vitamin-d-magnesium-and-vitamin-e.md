@@ -1,16 +1,25 @@
 {
-  "title": "Most people not getting enough Vitamin D, Magnesium, and Vitamin E",
-  "slug": "most-people-not-getting-enough-vitamin-d-magnesium-and-vitamin-e",
-  "aliases": [
-    "/Most+people+not+getting+enough+Vitamin+D+Magnesium+and+Vitamin+E+\u2013+Aug+2011",
-    "/1974"
-  ],
-  "tiki_page_id": 1974,
-  "date": "2011-09-01",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Vitamin D and Magnesium"
-  ]
+    "title": "Most people not getting enough Vitamin D, Magnesium, and Vitamin E",
+    "slug": "most-people-not-getting-enough-vitamin-d-magnesium-and-vitamin-e",
+    "aliases": [
+        "/Most+people+not+getting+enough+Vitamin+D+Magnesium+and+Vitamin+E+\u2013+Aug+2011",
+        "/1974"
+    ],
+    "tiki_page_id": 1974,
+    "date": "2011-09-01",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Vitamin D and Magnesium"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Vitamin D and Magnesium",
+        "cancer",
+        "magnesium",
+        "magnesium and cancer",
+        "vitamin k",
+        "zinc"
+    ]
 }
 
 

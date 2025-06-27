@@ -1,17 +1,27 @@
 {
-  "title": "Pregnant women 2X more dental problems when vitamin D less than 30ng",
-  "slug": "pregnant-women-2x-more-dental-problems-when-vitamin-d-less-than-30ng",
-  "aliases": [
-    "/Pregnant+women+2X+more+dental+problems+when+vitamin+D+less+than+30ng+\u2013+Feb+2011",
-    "/1384"
-  ],
-  "tiki_page_id": 1384,
-  "date": "2011-02-04",
-  "categories": [
-    "Pregnancy",
-    "Dental"
-  ]
+    "title": "Pregnant women 2X more dental problems when vitamin D less than 30ng",
+    "slug": "pregnant-women-2x-more-dental-problems-when-vitamin-d-less-than-30ng",
+    "aliases": [
+        "/Pregnant+women+2X+more+dental+problems+when+vitamin+D+less+than+30ng+\u2013+Feb+2011",
+        "/1384"
+    ],
+    "tiki_page_id": 1384,
+    "date": "2011-02-04",
+    "categories": [
+        "Pregnancy",
+        "Dental"
+    ],
+    "tags": [
+        "Dental",
+        "Pregnancy",
+        "blood levels",
+        "dosage",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 ~~~!Vitamin d status and periodontal disease among pregnant women.
 

@@ -1,16 +1,28 @@
 {
-  "title": "20000 IU vitamin D and MS \u2013 less fatigue and relapse",
-  "slug": "20000-iu-vitamin-d-and-ms-less-fatigue-and-relapse",
-  "aliases": [
-    "/20000+IU+vitamin+D+and+MS+\u2013+less+fatigue+and+relapse+Dec+2010",
-    "/1247"
-  ],
-  "tiki_page_id": 1247,
-  "date": "2010-12-17",
-  "categories": [
-    "How much Vitamin D",
-    "Multiple Sclerosis"
-  ]
+    "title": "20000 IU vitamin D and MS \u2013 less fatigue and relapse",
+    "slug": "20000-iu-vitamin-d-and-ms-less-fatigue-and-relapse",
+    "aliases": [
+        "/20000+IU+vitamin+D+and+MS+\u2013+less+fatigue+and+relapse+Dec+2010",
+        "/1247"
+    ],
+    "tiki_page_id": 1247,
+    "date": "2010-12-17",
+    "categories": [
+        "How much Vitamin D",
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Multiple Sclerosis",
+        "autoimmune",
+        "blood levels",
+        "dosage",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

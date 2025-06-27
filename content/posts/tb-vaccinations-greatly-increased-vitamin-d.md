@@ -1,15 +1,30 @@
 {
-  "title": "TB vaccinations greatly increased vitamin D",
-  "slug": "tb-vaccinations-greatly-increased-vitamin-d",
-  "aliases": [
-    "/TB+vaccinations+greatly+increased+vitamin+D+\u2013+Feb+2011",
-    "/1559"
-  ],
-  "tiki_page_id": 1559,
-  "date": "2011-04-02",
-  "categories": [
-    "Tuberculosis"
-  ]
+    "title": "TB vaccinations greatly increased vitamin D",
+    "slug": "tb-vaccinations-greatly-increased-vitamin-d",
+    "aliases": [
+        "/TB+vaccinations+greatly+increased+vitamin+D+\u2013+Feb+2011",
+        "/1559"
+    ],
+    "tiki_page_id": 1559,
+    "date": "2011-04-02",
+    "categories": [
+        "Tuberculosis"
+    ],
+    "tags": [
+        "Tuberculosis",
+        "bacteria",
+        "blood levels",
+        "child",
+        "childhood vaccination",
+        "childhood viruses",
+        "immunity",
+        "tuberculosis",
+        "vaccination",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

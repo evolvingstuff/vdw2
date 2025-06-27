@@ -1,16 +1,27 @@
 {
-  "title": "Telomeres for a Longer, Healthier Life - book mentions vitamin D - 2010",
-  "slug": "telomeres-for-a-longer-healthier-life-book-mentions-vitamin-d-2010",
-  "aliases": [
-    "/Telomeres+for+a+Longer+Healthier+Life+-+book+mentions+vitamin+D+-+2010",
-    "/2080"
-  ],
-  "tiki_page_id": 2080,
-  "date": "2011-10-13",
-  "categories": [
-    "Books, videos on Vitamin D",
-    "Mortality and D"
-  ]
+    "title": "Telomeres for a Longer, Healthier Life - book mentions vitamin D - 2010",
+    "slug": "telomeres-for-a-longer-healthier-life-book-mentions-vitamin-d-2010",
+    "aliases": [
+        "/Telomeres+for+a+Longer+Healthier+Life+-+book+mentions+vitamin+D+-+2010",
+        "/2080"
+    ],
+    "tiki_page_id": 2080,
+    "date": "2011-10-13",
+    "categories": [
+        "Books, videos on Vitamin D",
+        "Mortality and D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "Mortality and D",
+        "autoimmune",
+        "dosage",
+        "high dose",
+        "intervention",
+        "lupus",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -32,7 +43,7 @@ Can read first chapter for free on any Kindle reader - including PC, MAC
 
 * [Telomeres improved when obese blacks took 2000 iu of vitamin D daily – Oct 2011](/posts/telomeres-improved-when-obese-blacks-took-2000-iu-of-vitamin-d-daily)
 
-* <a href="/posts/lupus-in-blacks-associated-with-low-vitamin-d-and-short-telomeres" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lupus in blacks associated with low vitamin D AND short telomeres – May 2013">Lupus in blacks associated with low vitamin D AND short telomeres – May 2013</a>
+* [Lupus in blacks associated with low vitamin D AND short telomeres – May 2013](/posts/lupus-in-blacks-associated-with-low-vitamin-d-and-short-telomeres)
 
 * <a href="/posts/telomeres-which-extend-life-appear-to-be-extended-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Telomeres (which extend life) appear to be extended by Vitamin D - March 2015">Telomeres (which extend life) appear to be extended by Vitamin D - March 2015</a>
 

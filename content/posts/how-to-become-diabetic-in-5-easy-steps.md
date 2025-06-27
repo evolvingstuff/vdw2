@@ -1,15 +1,22 @@
 {
-  "title": "How to become diabetic in 5 easy steps",
-  "slug": "how-to-become-diabetic-in-5-easy-steps",
-  "aliases": [
-    "/How+to+become+diabetic+in+5+easy+steps+-+Jan+2011",
-    "/1451"
-  ],
-  "tiki_page_id": 1451,
-  "date": "2011-03-03",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "How to become diabetic in 5 easy steps",
+    "slug": "how-to-become-diabetic-in-5-easy-steps",
+    "aliases": [
+        "/How+to+become+diabetic+in+5+easy+steps+-+Jan+2011",
+        "/1451"
+    ],
+    "tiki_page_id": 1451,
+    "date": "2011-03-03",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "diabetes",
+        "magnesium",
+        "metabolic",
+        "vitamin d"
+    ]
 }
 
 

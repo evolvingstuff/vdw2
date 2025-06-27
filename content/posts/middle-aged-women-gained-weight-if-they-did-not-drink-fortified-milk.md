@@ -1,16 +1,26 @@
 {
-  "title": "Middle-aged women gained weight if they did not drink fortified milk",
-  "slug": "middle-aged-women-gained-weight-if-they-did-not-drink-fortified-milk",
-  "aliases": [
-    "/Middle-aged+women+gained+weight+if+they+did+not+drink+fortified+milk+\u2013+Sept+2010",
-    "/1156"
-  ],
-  "tiki_page_id": 1156,
-  "date": "2010-11-20",
-  "categories": [
-    "Obesity",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Middle-aged women gained weight if they did not drink fortified milk",
+    "slug": "middle-aged-women-gained-weight-if-they-did-not-drink-fortified-milk",
+    "aliases": [
+        "/Middle-aged+women+gained+weight+if+they+did+not+drink+fortified+milk+\u2013+Sept+2010",
+        "/1156"
+    ],
+    "tiki_page_id": 1156,
+    "date": "2010-11-20",
+    "categories": [
+        "Obesity",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "Obesity",
+        "Vitamin D and Calcium",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "metabolic",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 
@@ -45,4 +55,3 @@ PMID: 20973459
 * <a href="/posts/overview-of-obesity-at-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview of Obesity at VitaminDWiki</a>
 
 * [Obesity items ](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=19&sort_mode=created_desc) at VitaminDWiki
-

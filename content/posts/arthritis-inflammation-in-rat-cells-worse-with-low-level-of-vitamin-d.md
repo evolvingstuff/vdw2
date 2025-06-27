@@ -1,16 +1,21 @@
 {
-  "title": "Arthritis inflammation in rat cells worse with low level of vitamin D",
-  "slug": "arthritis-inflammation-in-rat-cells-worse-with-low-level-of-vitamin-d",
-  "aliases": [
-    "/Arthritis+inflammation+in+rat+cells+worse+with+low+level+of+vitamin+D+\u2013+March+2011",
-    "/1542"
-  ],
-  "tiki_page_id": 1542,
-  "date": "2011-03-31",
-  "categories": [
-    "Rheumatoid Arthritis",
-    "Inflammation"
-  ]
+    "title": "Arthritis inflammation in rat cells worse with low level of vitamin D",
+    "slug": "arthritis-inflammation-in-rat-cells-worse-with-low-level-of-vitamin-d",
+    "aliases": [
+        "/Arthritis+inflammation+in+rat+cells+worse+with+low+level+of+vitamin+D+\u2013+March+2011",
+        "/1542"
+    ],
+    "tiki_page_id": 1542,
+    "date": "2011-03-31",
+    "categories": [
+        "Rheumatoid Arthritis",
+        "Inflammation"
+    ],
+    "tags": [
+        "Inflammation",
+        "Rheumatoid Arthritis",
+        "vitamin d"
+    ]
 }
 
 

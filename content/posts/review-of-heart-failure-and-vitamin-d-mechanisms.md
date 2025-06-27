@@ -1,15 +1,35 @@
 {
-  "title": "Review of heart failure and vitamin D mechanisms",
-  "slug": "review-of-heart-failure-and-vitamin-d-mechanisms",
-  "aliases": [
-    "/Review+of+heart+failure+and+vitamin+D+mechanisms+\u2013+Jan+2011",
-    "/1227"
-  ],
-  "tiki_page_id": 1227,
-  "date": "2010-12-12",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Review of heart failure and vitamin D mechanisms",
+    "slug": "review-of-heart-failure-and-vitamin-d-mechanisms",
+    "aliases": [
+        "/Review+of+heart+failure+and+vitamin+D+mechanisms+\u2013+Jan+2011",
+        "/1227"
+    ],
+    "tiki_page_id": 1227,
+    "date": "2010-12-12",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "atherosclerosis",
+        "autoimmune",
+        "cardiovascular",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "heart failure",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "metabolic",
+        "pain",
+        "rheumatoid arthritis",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 

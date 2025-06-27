@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D intervention stopped bone loss in those mice getting too much alcohol</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Vitamin D intervention stopped bone loss in those mice getting too much alcohol</h1><time>August 15, 2012</time><div data-pagefind-body><h1 id=vitamin-d-supplementation-protects-against-bone-loss-associated-with-chronic-alcohol-administration-in-female-mice>Vitamin D supplementation protects against bone loss associated with chronic alcohol administration in female mice</h1><p>10.1124/jpet.112.197038</p><p>Journal of Pharocology and Experimentgal Therapeutics August 14, 2012</p><p>Kelly E Mercer1, Rebecca A Wynne2, Oxana P Lazarenko2, Charles K. Lumpkin1, William R Hogue1, Larry J. Suva1, Jin-Ran Chen1, Andrew Z Mason3, Thomas M Badger1 and Martin J.J. Ronis1, <a href=mailto:ronismartinj@uams.edu>ronismartinj@uams.edu</a></p><p>1 University of Arkansas for Medical Sciences;</p><p>2 Arkansas Children&rsquo;s Nutrition Center;</p><p>3 California State University</p><p>Chronic alcohol abuse results in decreased bone mineral density (BMD) which can lead to increased fracture risk. In contrast, low levels of alcohol have been associated with increased BMD in epidemiological studies. Alcohol&rsquo;s toxic effects on the skeleton have been suggested to involve impaired vitamin D/calcium homeostasis. Therefore, dietary vitamin D supplementation may be beneficial in reducing bone loss associated with chronic alcohol consumption. Six week old, female C57BL/6J mice were pair-fed ethanol (EtOH)-containing liquid diets (10% or 36% total calories) for 78 days. EtOH exposure at 10% calories had no effects on any measured bone or serum parameter. EtOH consumption at 36% of calories reduced BMD and bone strength (p&lt;0.05), decreased osteoblastogenesis, increased osteoclastogenesis, suppressed 1, 25 hydroxyvitamin D3 (1,25(OH)2D3) serum concentrations (p&lt;0.05), and increased apoptosis in bone cells when compared to pair-fed controls.</p><p>In a second study, female mice were pair-fed 30% EtOH diets with or without dietary supplementation with cholecalciferol (VitD) for 40 days.</p><p>VitD supplementation in the EtOH diet protected against cortical bone loss, normalized alcohol-induced hypocalcemia, and suppressed EtOH-induced expression of Receptor of NF?B ligand (RANKL) mRNA in bone. In vitro, pre-treatment of 1,25(OH)2D3 in osteoblastic cells inhibited EtOH-induced apoptosis. In EtOH/VitD mice, circulating 1,25(OH)2D3 was lower compared to mice receiving EtOH alone (P&lt;0.05), suggesting increased sensitivity to feedback control of VitD metabolism in the kidney. These findings suggest dietary VitD supplementation may prevent skeletal toxicity in chronic drinkers by normalizing calcium homeostasis, by preventing apoptosis and by suppressing EtOH-induced increases in bone resorption.</p><p>Received May 31, 2012., Revision received August 13, 2012, Accepted August 13, 2012.</p><p>– – – – – – – – – – – – – – – – – – – – –</p><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/overview-liver-and-vitamin-d>Overview Liver and vitamin D</a></p></li><li><p><a href=/posts/alcoholics-have-osteoprorosis style=color:red;text-decoration:underline title="This link has an unknown page_id: 1121">Alcoholics have osteoprorosis – Nov 2010</a></p></li><li><p><a href=/posts/alcoholics-with-low-vitamin-d-get-more-bone-fractures>Alcoholics with low vitamin D get more bone fractures – Jan 2011</a></p></li><li><p><a href=/posts/magnesium-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 947">Magnesium and vitamin D</a> Alcohol uses up Magnesium, which is needed for bone strength</p></li><li><p><a href=/posts/overview-alcohol-and-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Overview Alcohol and Vitamin D">Overview Alcohol and Vitamin D</a></p></li></ul><h2 id=see-also-web>See also Web</h2><ul><li><p><a href="http://www.ncbi.nlm.nih.gov/pubmed?term=alcohol%20%22vitamin%20d%22">PubMed</a> Aug 2012 581 items – examples follow</p></li><li><p><a href=http://www.ncbi.nlm.nih.gov/pubmed/22652670%20>Role of obesity , alcohol and smoking on bone health</a> 2012</p></li><li><p><a href=http://www.ncbi.nlm.nih.gov/pubmed/22222013%20>Association of 25-hydroxyvitamin D levels with liver dysfunction and mortality in chronic liver disease – 2012</a></p></li></ul><blockquote><p>die more quickly if so much alcohol that liver dysfunction and low vitamin D</p></blockquote><ul><li><a href=http://www.ncbi.nlm.nih.gov/pubmed/21565541%20>Assessing bone status in patients awaiting liver transplantation – 2011</a> 88% had low vitamin D levels</li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>alcohol</span>
+<span class=tag>bone</span>
+<span class=tag>bone loss</span>
+<span class=tag>bone mineral density</span>
+<span class=tag>bone stress fractures</span>
+<span class=tag>child</span>
+<span class=tag>childhood obesity</span>
+<span class=tag>falls fractures</span>
+<span class=tag>health risk</span>
+<span class=tag>life span</span>
+<span class=tag>Liver</span>
+<span class=tag>magnesium</span>
+<span class=tag>mortality</span>
+<span class=tag>obesity</span>
+<span class=tag>Osteoporosis</span>
+<span class=tag>smoking</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>alcohol, bone, bone loss, bone mineral density, bone stress fractures, child, childhood obesity, falls fractures, health risk, life span, Liver, magnesium, mortality, obesity, Osteoporosis, smoking, vitamin d, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

@@ -1,15 +1,26 @@
 {
-  "title": "Low Adioponectin and low vitamin D both associated with Obesity",
-  "slug": "low-adioponectin-and-low-vitamin-d-both-associated-with-obesity",
-  "aliases": [
-    "/Low+Adioponectin+and+low+vitamin+D+both+associated+with+Obesity+\u2013+July+2011",
-    "/1838"
-  ],
-  "tiki_page_id": 1838,
-  "date": "2011-07-16",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Low Adioponectin and low vitamin D both associated with Obesity",
+    "slug": "low-adioponectin-and-low-vitamin-d-both-associated-with-obesity",
+    "aliases": [
+        "/Low+Adioponectin+and+low+vitamin+D+both+associated+with+Obesity+\u2013+July+2011",
+        "/1838"
+    ],
+    "tiki_page_id": 1838,
+    "date": "2011-07-16",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "metabolic",
+        "obesity",
+        "omega 3",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

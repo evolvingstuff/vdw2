@@ -1,16 +1,28 @@
 {
-  "title": "Dark skinned obese not helped much by weekly 50000 IU dose of vitamin D",
-  "slug": "dark-skinned-obese-not-helped-much-by-weekly-50000-iu-dose-of-vitamin-d",
-  "aliases": [
-    "/Dark+skinned+obese+not+helped+much+by+weekly+50000+IU+dose+of+vitamin+D+\u2013+May+2011",
-    "/1577"
-  ],
-  "tiki_page_id": 1577,
-  "date": "2011-04-20",
-  "categories": [
-    "Skin - Dark",
-    "Obesity"
-  ]
+    "title": "Dark skinned obese not helped much by weekly 50000 IU dose of vitamin D",
+    "slug": "dark-skinned-obese-not-helped-much-by-weekly-50000-iu-dose-of-vitamin-d",
+    "aliases": [
+        "/Dark+skinned+obese+not+helped+much+by+weekly+50000+IU+dose+of+vitamin+D+\u2013+May+2011",
+        "/1577"
+    ],
+    "tiki_page_id": 1577,
+    "date": "2011-04-20",
+    "categories": [
+        "Skin - Dark",
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "Skin - Dark",
+        "blood levels",
+        "bone",
+        "child",
+        "dosage",
+        "falls fractures",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -76,7 +88,7 @@ Increased surveillance and possibly higher vitamin D doses are warranted for obe
 
 * [Blacks may need less vitamin D than whites – PTH Aug 2010](/posts/blacks-may-need-less-vitamin-d-than-whites-pth)
 
-* <a href="/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2200">Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011</a>
+* [Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011](/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d)
 
 * <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a>
 
@@ -93,4 +105,3 @@ Increased surveillance and possibly higher vitamin D doses are warranted for obe
 * [Race vs vitamin D level - Veith May 2011](/posts/race-vs-vitamin-d-level-veith)
 
 * <a href="/posts/82-percent-of-black-us-adults-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1534">82 percent of black US adults less than 20 ng of vitamin D – Jan 2011</a>
-

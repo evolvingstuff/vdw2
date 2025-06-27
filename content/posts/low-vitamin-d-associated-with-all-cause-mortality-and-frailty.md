@@ -1,16 +1,24 @@
 {
-  "title": "Low vitamin D associated with all-cause mortality and frailty",
-  "slug": "low-vitamin-d-associated-with-all-cause-mortality-and-frailty",
-  "aliases": [
-    "/Low+vitamin+D+associated+with+all-cause+mortality+and+frailty+\u2013+Mar+2011",
-    "/1485"
-  ],
-  "tiki_page_id": 1485,
-  "date": "2011-03-17",
-  "categories": [
-    "Seniors",
-    "Mortality and D"
-  ]
+    "title": "Low vitamin D associated with all-cause mortality and frailty",
+    "slug": "low-vitamin-d-associated-with-all-cause-mortality-and-frailty",
+    "aliases": [
+        "/Low+vitamin+D+associated+with+all-cause+mortality+and+frailty+\u2013+Mar+2011",
+        "/1485"
+    ],
+    "tiki_page_id": 1485,
+    "date": "2011-03-17",
+    "categories": [
+        "Seniors",
+        "Mortality and D"
+    ],
+    "tags": [
+        "Mortality and D",
+        "Seniors",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

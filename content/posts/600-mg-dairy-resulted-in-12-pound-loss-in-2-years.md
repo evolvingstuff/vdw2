@@ -1,15 +1,24 @@
 {
-  "title": "600 mg dairy resulted in 12 pound loss in 2 years",
-  "slug": "600-mg-dairy-resulted-in-12-pound-loss-in-2-years",
-  "aliases": [
-    "/600+mg+dairy+resulted+in+12+pound+loss+in+2+years+\u2013+Nov+2010",
-    "/1141"
-  ],
-  "tiki_page_id": 1141,
-  "date": "2010-11-13",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "600 mg dairy resulted in 12 pound loss in 2 years",
+    "slug": "600-mg-dairy-resulted-in-12-pound-loss-in-2-years",
+    "aliases": [
+        "/600+mg+dairy+resulted+in+12+pound+loss+in+2+years+\u2013+Nov+2010",
+        "/1141"
+    ],
+    "tiki_page_id": 1141,
+    "date": "2010-11-13",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "blood levels",
+        "health risk",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test",
+        "weight loss"
+    ]
 }
 
 
@@ -64,4 +73,3 @@ The highest amount was between 2-3 cups dairy not just milk.
 * <a href="/posts/span-stylecolor30fobesity-overviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710"> **<span style="color:#30F;">Obesity Overview</span>** </a>
 
 * [Obesity files](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=19&sort_mode=created_desc)
-

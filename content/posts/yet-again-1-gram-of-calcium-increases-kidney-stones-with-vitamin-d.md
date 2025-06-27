@@ -1,15 +1,20 @@
 {
-  "title": "Yet again, 1 gram of Calcium increases Kidney stones with vitamin D",
-  "slug": "yet-again-1-gram-of-calcium-increases-kidney-stones-with-vitamin-d",
-  "aliases": [
-    "/Yet+again+1+gram+of+Calcium+increases+Kidney+stones+with+vitamin+D+\u2013+July+2011",
-    "/1964"
-  ],
-  "tiki_page_id": 1964,
-  "date": "2011-08-27",
-  "categories": [
-    "Kidney Stones"
-  ]
+    "title": "Yet again, 1 gram of Calcium increases Kidney stones with vitamin D",
+    "slug": "yet-again-1-gram-of-calcium-increases-kidney-stones-with-vitamin-d",
+    "aliases": [
+        "/Yet+again+1+gram+of+Calcium+increases+Kidney+stones+with+vitamin+D+\u2013+July+2011",
+        "/1964"
+    ],
+    "tiki_page_id": 1964,
+    "date": "2011-08-27",
+    "categories": [
+        "Kidney Stones"
+    ],
+    "tags": [
+        "Kidney Stones",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

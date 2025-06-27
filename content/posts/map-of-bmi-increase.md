@@ -1,15 +1,28 @@
 {
-  "title": "Map of BMI increase",
-  "slug": "map-of-bmi-increase",
-  "aliases": [
-    "/Map+of+BMI+increase+-+Feb+2011",
-    "/1420"
-  ],
-  "tiki_page_id": 1420,
-  "date": "2011-02-19",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Map of BMI increase",
+    "slug": "map-of-bmi-increase",
+    "aliases": [
+        "/Map+of+BMI+increase+-+Feb+2011",
+        "/1420"
+    ],
+    "tiki_page_id": 1420,
+    "date": "2011-02-19",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "child",
+        "childhood obesity",
+        "dosage",
+        "health risk",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "obesity",
+        "vitamin d",
+        "weight loss"
+    ]
 }
 
 
@@ -66,4 +79,3 @@ RISING levels of obesity are bad news for people and health-care budgets, but th
 * <a href="/posts/vitamin-d-and-weight-loss-and-obesity" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 716">Vitamin D and Weight Loss and Obesity – March 2010</a>
 
 * <a href="/posts/adequate-vitamin-d-levels-may-aid-weight-loss-in-obese-patients-minn-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 714">Adequate Vitamin D Levels May Aid Weight Loss in Obese Patients – Minn. 2009</a> widely reported on
-

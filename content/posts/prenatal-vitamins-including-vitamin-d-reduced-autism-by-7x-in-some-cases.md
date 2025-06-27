@@ -1,15 +1,22 @@
 {
-  "title": "Prenatal vitamins \u2013 including vitamin D \u2013 reduced autism by 7X in some cases",
-  "slug": "prenatal-vitamins-including-vitamin-d-reduced-autism-by-7x-in-some-cases",
-  "aliases": [
-    "/Prenatal+vitamins+\u2013+including+vitamin+D+\u2013+reduced+autism+by+7X+in+some+cases+\u2013+May+2011",
-    "/1674"
-  ],
-  "tiki_page_id": 1674,
-  "date": "2011-05-29",
-  "categories": [
-    "Autism"
-  ]
+    "title": "Prenatal vitamins \u2013 including vitamin D \u2013 reduced autism by 7X in some cases",
+    "slug": "prenatal-vitamins-including-vitamin-d-reduced-autism-by-7x-in-some-cases",
+    "aliases": [
+        "/Prenatal+vitamins+\u2013+including+vitamin+D+\u2013+reduced+autism+by+7X+in+some+cases+\u2013+May+2011",
+        "/1674"
+    ],
+    "tiki_page_id": 1674,
+    "date": "2011-05-29",
+    "categories": [
+        "Autism"
+    ],
+    "tags": [
+        "Autism",
+        "breastfed",
+        "child",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -72,4 +79,3 @@ Nice title, not much in article
 # See also VitaminDWiki
 
 * <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview - Autism and vitamin D</a>
-

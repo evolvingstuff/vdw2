@@ -1,17 +1,34 @@
 {
-  "title": "Yet again - more than 10000 IU of vitamin D treats MS",
-  "slug": "yet-again-more-than-10000-iu-of-vitamin-d-treats-ms",
-  "aliases": [
-    "/Yet+again+-+more+than+10000+IU+of+vitamin+D+treats+MS+\u2013+July+2011",
-    "/1821"
-  ],
-  "tiki_page_id": 1821,
-  "date": "2011-07-12",
-  "categories": [
-    "Multiple Sclerosis",
-    "Immunity",
-    "Intervention"
-  ]
+    "title": "Yet again - more than 10000 IU of vitamin D treats MS",
+    "slug": "yet-again-more-than-10000-iu-of-vitamin-d-treats-ms",
+    "aliases": [
+        "/Yet+again+-+more+than+10000+IU+of+vitamin+D+treats+MS+\u2013+July+2011",
+        "/1821"
+    ],
+    "tiki_page_id": 1821,
+    "date": "2011-07-12",
+    "categories": [
+        "Multiple Sclerosis",
+        "Immunity",
+        "Intervention"
+    ],
+    "tags": [
+        "Immunity",
+        "Intervention",
+        "Multiple Sclerosis",
+        "autoimmune",
+        "blood levels",
+        "child",
+        "dosage",
+        "high dose",
+        "immunity",
+        "intervention",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

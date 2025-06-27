@@ -1,15 +1,32 @@
 {
-  "title": "Migraine and Vitamin D",
-  "slug": "migraine-and-vitamin-d",
-  "aliases": [
-    "/Migraine+and+Vitamin+D",
-    "/1366"
-  ],
-  "tiki_page_id": 1366,
-  "date": "2011-01-30",
-  "categories": [
-    "Headache"
-  ]
+    "title": "Migraine and Vitamin D",
+    "slug": "migraine-and-vitamin-d",
+    "aliases": [
+        "/Migraine+and+Vitamin+D",
+        "/1366"
+    ],
+    "tiki_page_id": 1366,
+    "date": "2011-01-30",
+    "categories": [
+        "Headache"
+    ],
+    "tags": [
+        "Headache",
+        "autoimmune",
+        "concussions",
+        "headache",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "multiple sclerosis",
+        "neurological",
+        "pain",
+        "sleep apnea",
+        "therapeutic intervention",
+        "trauma surgery",
+        "vertigo",
+        "vitamin d"
+    ]
 }
 
 

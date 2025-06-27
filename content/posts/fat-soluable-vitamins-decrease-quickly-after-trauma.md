@@ -1,15 +1,28 @@
 {
-  "title": "Fat soluable vitamins decrease quickly after trauma",
-  "slug": "fat-soluable-vitamins-decrease-quickly-after-trauma",
-  "aliases": [
-    "/Fat+soluable+vitamins+decrease+quickly+after+trauma",
-    "/2042"
-  ],
-  "tiki_page_id": 2042,
-  "date": "2011-09-27",
-  "categories": [
-    "Trauma and surgery"
-  ]
+    "title": "Fat soluable vitamins decrease quickly after trauma",
+    "slug": "fat-soluable-vitamins-decrease-quickly-after-trauma",
+    "aliases": [
+        "/Fat+soluable+vitamins+decrease+quickly+after+trauma",
+        "/2042"
+    ],
+    "tiki_page_id": 2042,
+    "date": "2011-09-27",
+    "categories": [
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Trauma and surgery",
+        "autoimmune",
+        "blood levels",
+        "dosage",
+        "high dose",
+        "intervention",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

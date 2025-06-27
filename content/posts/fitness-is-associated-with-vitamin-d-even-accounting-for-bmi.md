@@ -1,15 +1,19 @@
 {
-  "title": "Fitness is associated with vitamin D, even accounting for BMI",
-  "slug": "fitness-is-associated-with-vitamin-d-even-accounting-for-bmi",
-  "aliases": [
-    "/Fitness+is+associated+with+vitamin+D+even+accounting+for+BMI+\u2013+Oct+2011",
-    "/2103"
-  ],
-  "tiki_page_id": 2103,
-  "date": "2011-10-19",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "Fitness is associated with vitamin D, even accounting for BMI",
+    "slug": "fitness-is-associated-with-vitamin-d-even-accounting-for-bmi",
+    "aliases": [
+        "/Fitness+is+associated+with+vitamin+D+even+accounting+for+BMI+\u2013+Oct+2011",
+        "/2103"
+    ],
+    "tiki_page_id": 2103,
+    "date": "2011-10-19",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "vitamin d"
+    ]
 }
 
 
@@ -59,5 +63,4 @@ Conclusions: Serum vitamin D levels are positively associated with CRF and negat
 
    * The biggest gain from the use of vitamin D is by those who exercise less than 2 hours per day.
 
-* [All items in the category Sports and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=11&sort_mode=created_desc) 53 items as of Oct 2011 
-
+* [All items in the category Sports and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=11&sort_mode=created_desc) 53 items as of Oct 2011

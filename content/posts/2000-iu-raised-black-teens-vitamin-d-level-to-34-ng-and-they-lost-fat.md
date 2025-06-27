@@ -1,17 +1,32 @@
 {
-  "title": "2000 IU raised black teens vitamin D level to 34 ng and they lost fat",
-  "slug": "2000-iu-raised-black-teens-vitamin-d-level-to-34-ng-and-they-lost-fat",
-  "aliases": [
-    "/2000+IU+raised+black+teens+vitamin+D+level+to+34+ng+and+they+lost+fat+\u2013+Oct+2010",
-    "/1157"
-  ],
-  "tiki_page_id": 1157,
-  "date": "2010-11-20",
-  "categories": [
-    "Skin - Dark",
-    "How much Vitamin D",
-    "Youth"
-  ]
+    "title": "2000 IU raised black teens vitamin D level to 34 ng and they lost fat",
+    "slug": "2000-iu-raised-black-teens-vitamin-d-level-to-34-ng-and-they-lost-fat",
+    "aliases": [
+        "/2000+IU+raised+black+teens+vitamin+D+level+to+34+ng+and+they+lost+fat+\u2013+Oct+2010",
+        "/1157"
+    ],
+    "tiki_page_id": 1157,
+    "date": "2010-11-20",
+    "categories": [
+        "Skin - Dark",
+        "How much Vitamin D",
+        "Youth"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Skin - Dark",
+        "Youth",
+        "autoimmune",
+        "blood levels",
+        "dosage",
+        "high dose",
+        "intervention",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -35,5 +50,4 @@ RESULTS: Plasma 25(OH)D values at baseline and at 4, 8, and 16 wk were 34.0 ± 1
 
 Furthermore, carotid-femoral PWV increased from baseline (5.38 ± 0.53 m/sec) to posttest (5.71 ± 0.75 m/sec) in the control group (P = 0.016), whereas in the experimental group carotid-femoral PWV decreased from baseline (5.41 ± 0.73 m/sec) to posttest (5.33 ± 0.79 m/sec) (P = 0.031).
 
-CONCLUSION: Daily 2000 IU vitamin D supplementation may be effective in optimizing vitamin D status and counteracting the progression of aortic stiffness in black youth. Plasma 25(OH)D concentrations in response to the 2000 IU/d supplementation are negatively modulated by adiposity. PMID: 20660028 
-
+CONCLUSION: Daily 2000 IU vitamin D supplementation may be effective in optimizing vitamin D status and counteracting the progression of aortic stiffness in black youth. Plasma 25(OH)D concentrations in response to the 2000 IU/d supplementation are negatively modulated by adiposity. PMID: 20660028

@@ -1,16 +1,30 @@
 {
-  "title": "Role of the orthopaedic surgeon in fragility fractures",
-  "slug": "role-of-the-orthopaedic-surgeon-in-fragility-fractures",
-  "aliases": [
-    "/Role+of+the+orthopaedic+surgeon+in+fragility+fractures+\u2013+June+2011",
-    "/1691"
-  ],
-  "tiki_page_id": 1691,
-  "date": "2011-06-01",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "Role of the orthopaedic surgeon in fragility fractures",
+    "slug": "role-of-the-orthopaedic-surgeon-in-fragility-fractures",
+    "aliases": [
+        "/Role+of+the+orthopaedic+surgeon+in+fragility+fractures+\u2013+June+2011",
+        "/1691"
+    ],
+    "tiki_page_id": 1691,
+    "date": "2011-06-01",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "bone",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "hip fractures",
+        "life span",
+        "magnesium",
+        "mortality",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

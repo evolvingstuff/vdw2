@@ -1,15 +1,27 @@
 {
-  "title": "Perhaps UV is Addicting",
-  "slug": "perhaps-uv-is-addicting",
-  "aliases": [
-    "/Perhaps+UV+is+Addicting",
-    "/1969"
-  ],
-  "tiki_page_id": 1969,
-  "date": "2011-08-30",
-  "categories": [
-    "UV and Vitamin D"
-  ]
+    "title": "Perhaps UV is Addicting",
+    "slug": "perhaps-uv-is-addicting",
+    "aliases": [
+        "/Perhaps+UV+is+Addicting",
+        "/1969"
+    ],
+    "tiki_page_id": 1969,
+    "date": "2011-08-30",
+    "categories": [
+        "UV and Vitamin D"
+    ],
+    "tags": [
+        "UV and Vitamin D",
+        "brain",
+        "cognitive",
+        "life span",
+        "mortality",
+        "ultraviolet light",
+        "virus",
+        "virus and cognitive",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

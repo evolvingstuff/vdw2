@@ -1,15 +1,26 @@
 {
-  "title": "800 IU vitamin D helped periodontal surgery",
-  "slug": "800-iu-vitamin-d-helped-periodontal-surgery",
-  "aliases": [
-    "/800+IU+vitamin+D+helped+periodontal+surgery+\u2013+May+2011",
-    "/1664"
-  ],
-  "tiki_page_id": 1664,
-  "date": "2011-05-26",
-  "categories": [
-    "Dental"
-  ]
+    "title": "800 IU vitamin D helped periodontal surgery",
+    "slug": "800-iu-vitamin-d-helped-periodontal-surgery",
+    "aliases": [
+        "/800+IU+vitamin+D+helped+periodontal+surgery+\u2013+May+2011",
+        "/1664"
+    ],
+    "tiki_page_id": 1664,
+    "date": "2011-05-26",
+    "categories": [
+        "Dental"
+    ],
+    "tags": [
+        "Dental",
+        "blood levels",
+        "bone",
+        "dental",
+        "dosage",
+        "osteoporosis",
+        "periodontitis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

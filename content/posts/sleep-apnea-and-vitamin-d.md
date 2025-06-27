@@ -1,16 +1,30 @@
 {
-  "title": "Sleep Apnea and vitamin D",
-  "slug": "sleep-apnea-and-vitamin-d",
-  "aliases": [
-    "/Sleep+Apnea+and+vitamin+D+-+Jan+2011",
-    "/1357"
-  ],
-  "tiki_page_id": 1357,
-  "date": "2011-01-28",
-  "categories": [
-    "Breathing",
-    "Sleep"
-  ]
+    "title": "Sleep Apnea and vitamin D",
+    "slug": "sleep-apnea-and-vitamin-d",
+    "aliases": [
+        "/Sleep+Apnea+and+vitamin+D+-+Jan+2011",
+        "/1357"
+    ],
+    "tiki_page_id": 1357,
+    "date": "2011-01-28",
+    "categories": [
+        "Breathing",
+        "Sleep"
+    ],
+    "tags": [
+        "Breathing",
+        "Sleep",
+        "back pain",
+        "blood levels",
+        "cholesterol",
+        "dosage",
+        "health risk",
+        "magnesium",
+        "neurological",
+        "pain",
+        "sleep apnea",
+        "vitamin d"
+    ]
 }
 
 

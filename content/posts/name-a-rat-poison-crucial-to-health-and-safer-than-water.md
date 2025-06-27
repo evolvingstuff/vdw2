@@ -1,15 +1,30 @@
 {
-  "title": "Name a rat poison crucial to health and safer than water",
-  "slug": "name-a-rat-poison-crucial-to-health-and-safer-than-water",
-  "aliases": [
-    "/Name+a+rat+poison+crucial+to+health+and+safer+than+water",
-    "/2064"
-  ],
-  "tiki_page_id": 2064,
-  "date": "2011-10-04",
-  "categories": [
-    "Toxicity of Vitamin D"
-  ]
+    "title": "Name a rat poison crucial to health and safer than water",
+    "slug": "name-a-rat-poison-crucial-to-health-and-safer-than-water",
+    "aliases": [
+        "/Name+a+rat+poison+crucial+to+health+and+safer+than+water",
+        "/2064"
+    ],
+    "tiki_page_id": 2064,
+    "date": "2011-10-04",
+    "categories": [
+        "Toxicity of Vitamin D"
+    ],
+    "tags": [
+        "Toxicity of Vitamin D",
+        "bacteria",
+        "breast cancer",
+        "cancer",
+        "chronic pain",
+        "diabetes",
+        "metabolic",
+        "neurological",
+        "pain",
+        "parkinsons",
+        "prostate cancer",
+        "tuberculosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -49,5 +64,4 @@ The disease is most prevalent in Northern European countries, and the highest an
 
 In the United States, sarcoidosis is more common in people of African descent than Caucasians, with annual incidence reported as 35.5 and 10.9/100,000, respectively.<sup>[51]</sup> Sarcoidosis is less commonly reported in South America, Spain, India, Canada, and the Philippines.
 
-- - - - - - - - - 
-
+- - - - - - - - -

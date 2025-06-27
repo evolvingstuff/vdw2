@@ -1,16 +1,29 @@
 {
-  "title": "Should stock-up on vitamin D if having surgery due to fragile bones",
-  "slug": "should-stock-up-on-vitamin-d-if-having-surgery-due-to-fragile-bones",
-  "aliases": [
-    "/Should+stock-up+on+vitamin+D+if+having+surgery+due+to+fragile+bones+\u2013+Jan+2011",
-    "/1554"
-  ],
-  "tiki_page_id": 1554,
-  "date": "2011-04-01",
-  "categories": [
-    "Osteoporosis",
-    "Trauma and surgery"
-  ]
+    "title": "Should stock-up on vitamin D if having surgery due to fragile bones",
+    "slug": "should-stock-up-on-vitamin-d-if-having-surgery-due-to-fragile-bones",
+    "aliases": [
+        "/Should+stock-up+on+vitamin+D+if+having+surgery+due+to+fragile+bones+\u2013+Jan+2011",
+        "/1554"
+    ],
+    "tiki_page_id": 1554,
+    "date": "2011-04-01",
+    "categories": [
+        "Osteoporosis",
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "Trauma and surgery",
+        "bone",
+        "bone stress fractures",
+        "bone surgery",
+        "child",
+        "falls fractures",
+        "hip fractures",
+        "osteoporosis",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 

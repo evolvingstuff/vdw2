@@ -1,15 +1,24 @@
 {
-  "title": "Vitamin D with or without Calcium helped glycemic status",
-  "slug": "vitamin-d-with-or-without-calcium-helped-glycemic-status",
-  "aliases": [
-    "/Vitamin+D+with+or+without+Calcium+helped+glycemic+status+\u2013+Feb+2011",
-    "/1385"
-  ],
-  "tiki_page_id": 1385,
-  "date": "2011-02-04",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Vitamin D with or without Calcium helped glycemic status",
+    "slug": "vitamin-d-with-or-without-calcium-helped-glycemic-status",
+    "aliases": [
+        "/Vitamin+D+with+or+without+Calcium+helped+glycemic+status+\u2013+Feb+2011",
+        "/1385"
+    ],
+    "tiki_page_id": 1385,
+    "date": "2011-02-04",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,19 +1,50 @@
 {
-  "title": "Increase life expectancy by 2 years if double Vitamin D levels \u2013 Grant",
-  "slug": "increase-life-expectancy-by-2-years-if-double-vitamin-d-levels-grant",
-  "aliases": [
-    "/Increase+life+expectancy+by+2+years+if+double+Vitamin+D+levels+\u2013+Grant+July+2011",
-    "/1803"
-  ],
-  "tiki_page_id": 1803,
-  "date": "2011-07-07",
-  "categories": [
-    "Mortality and D",
-    "Evidence for D",
-    "Cost savings with Vitamin D",
-    "Intervention"
-  ]
+    "title": "Increase life expectancy by 2 years if double Vitamin D levels \u2013 Grant",
+    "slug": "increase-life-expectancy-by-2-years-if-double-vitamin-d-levels-grant",
+    "aliases": [
+        "/Increase+life+expectancy+by+2+years+if+double+Vitamin+D+levels+\u2013+Grant+July+2011",
+        "/1803"
+    ],
+    "tiki_page_id": 1803,
+    "date": "2011-07-07",
+    "categories": [
+        "Mortality and D",
+        "Evidence for D",
+        "Cost savings with Vitamin D",
+        "Intervention"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Evidence for D",
+        "Intervention",
+        "Mortality and D",
+        "autoimmune",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "diabetes",
+        "falls fractures",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "life span",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "neurological",
+        "parkinsons",
+        "respiratory",
+        "sepsis",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -83,4 +114,4 @@ Conclusions:Increasing serum 25(OH)D levels is the  **most cost-effective way to
 
 #### 203 citations of this study as of Dec 2023
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=7308540027527010128&as_sdt=5,48&sciodt=0,48&hl=en)** 
+ **[Google Scholar](https://scholar.google.com/scholar?cites=7308540027527010128&as_sdt=5,48&sciodt=0,48&hl=en)**

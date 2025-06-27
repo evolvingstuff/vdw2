@@ -1,17 +1,39 @@
 {
-  "title": "Blacks are still not getting enough vitamin D",
-  "slug": "blacks-are-still-not-getting-enough-vitamin-d",
-  "aliases": [
-    "/Blacks+are+still+not+getting+enough+vitamin+D+\u2013+Dec+2010",
-    "/1241"
-  ],
-  "tiki_page_id": 1241,
-  "date": "2010-12-16",
-  "categories": [
-    "Skin - Dark"
-  ]
+    "title": "Blacks are still not getting enough vitamin D",
+    "slug": "blacks-are-still-not-getting-enough-vitamin-d",
+    "aliases": [
+        "/Blacks+are+still+not+getting+enough+vitamin+D+\u2013+Dec+2010",
+        "/1241"
+    ],
+    "tiki_page_id": 1241,
+    "date": "2010-12-16",
+    "categories": [
+        "Skin - Dark"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "cancer",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "cognitive",
+        "dementia",
+        "depression",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "mood disorders",
+        "stroke",
+        "stroke and depression",
+        "ultraviolet light",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
-
 
 
 By Consuelo H. Wilkins, M.D., December 16, 2010 
@@ -51,4 +73,3 @@ J Natl Med Assoc. 2009 Apr;101(4):349-54.
 * <a href="/posts/overview-of-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview of Dark Skin and Vitamin D</a>
 
 * [All items tagged with Dark Skin](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc)
-

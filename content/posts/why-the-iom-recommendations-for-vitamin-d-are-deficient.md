@@ -1,18 +1,30 @@
 {
-  "title": "Why the IOM Recommendations for Vitamin D Are Deficient",
-  "slug": "why-the-iom-recommendations-for-vitamin-d-are-deficient",
-  "aliases": [
-    "/Why+the+IOM+Recommendations+for+Vitamin+D+Are+Deficient+\u2013+Mar+2011",
-    "/1436"
-  ],
-  "tiki_page_id": 1436,
-  "date": "2011-02-25",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "Why the IOM Recommendations for Vitamin D Are Deficient",
+    "slug": "why-the-iom-recommendations-for-vitamin-d-are-deficient",
+    "aliases": [
+        "/Why+the+IOM+Recommendations+for+Vitamin+D+Are+Deficient+\u2013+Mar+2011",
+        "/1436"
+    ],
+    "tiki_page_id": 1436,
+    "date": "2011-02-25",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "blood levels",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
- **Robert P Heaney1   and Michael F Holick2** 
+
+**Robert P Heaney1   and Michael F Holick2** 
 
 1Creighton University , Omaha, NE, USA
 

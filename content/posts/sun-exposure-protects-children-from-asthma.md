@@ -1,17 +1,26 @@
 {
-  "title": "Sun exposure protects children from asthma",
-  "slug": "sun-exposure-protects-children-from-asthma",
-  "aliases": [
-    "/Sun+exposure+protects+children+from+asthma+\u2013+May+2011",
-    "/1638"
-  ],
-  "tiki_page_id": 1638,
-  "date": "2011-05-19",
-  "categories": [
-    "Breathing",
-    "Youth",
-    "Vitamin D in Europe"
-  ]
+    "title": "Sun exposure protects children from asthma",
+    "slug": "sun-exposure-protects-children-from-asthma",
+    "aliases": [
+        "/Sun+exposure+protects+children+from+asthma+\u2013+May+2011",
+        "/1638"
+    ],
+    "tiki_page_id": 1638,
+    "date": "2011-05-19",
+    "categories": [
+        "Breathing",
+        "Youth",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Breathing",
+        "Vitamin D in Europe",
+        "Youth",
+        "asthma",
+        "breathing",
+        "child",
+        "vitamin d"
+    ]
 }
 
 

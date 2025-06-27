@@ -1,15 +1,20 @@
 {
-  "title": "Dermatologists child - video",
-  "slug": "dermatologists-child-video",
-  "aliases": [
-    "/Dermatologists+child+-+video+Mar+2011",
-    "/1488"
-  ],
-  "tiki_page_id": 1488,
-  "date": "2011-03-18",
-  "categories": [
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Dermatologists child - video",
+    "slug": "dermatologists-child-video",
+    "aliases": [
+        "/Dermatologists+child+-+video+Mar+2011",
+        "/1488"
+    ],
+    "tiki_page_id": 1488,
+    "date": "2011-03-18",
+    "categories": [
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

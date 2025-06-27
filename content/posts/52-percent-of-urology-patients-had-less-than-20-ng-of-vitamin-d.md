@@ -1,12 +1,26 @@
 {
-  "title": "52 percent of Urology patients had less than 20 ng of vitamin D",
-  "slug": "52-percent-of-urology-patients-had-less-than-20-ng-of-vitamin-d",
-  "aliases": [
-    "/52+percent+of+Urology+patients+had+less+than+20+ng+of+vitamin+D+\u2013+Aug+2011",
-    "/1938"
-  ],
-  "tiki_page_id": 1938,
-  "date": "2011-08-23"
+    "title": "52 percent of Urology patients had less than 20 ng of vitamin D",
+    "slug": "52-percent-of-urology-patients-had-less-than-20-ng-of-vitamin-d",
+    "aliases": [
+        "/52+percent+of+Urology+patients+had+less+than+20+ng+of+vitamin+D+\u2013+Aug+2011",
+        "/1938"
+    ],
+    "tiki_page_id": 1938,
+    "date": "2011-08-23",
+    "tags": [
+        "autoimmune",
+        "blood levels",
+        "cancer",
+        "diabetes",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "prostate cancer",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -45,4 +59,3 @@ PMID:     21855943
 # See also VitaminDWiki
 
 * <a href="/posts/possible-reduction-in-nocturia-nighttime-urination-or-bph-after-taking-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 221">Possible reduction in nocturia, nighttime urination, or BPH after taking vitamin D</a>
-

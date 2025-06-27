@@ -1,17 +1,30 @@
 {
-  "title": "How vitamin D is made from sheep wool",
-  "slug": "how-vitamin-d-is-made-from-sheep-wool",
-  "aliases": [
-    "/How+vitamin+D+is+made+from+sheep+wool+-+Feb+2011",
-    "/1562"
-  ],
-  "tiki_page_id": 1562,
-  "date": "2011-04-02",
-  "categories": [
-    "More D topics",
-    "AI"
-  ]
+    "title": "How vitamin D is made from sheep wool",
+    "slug": "how-vitamin-d-is-made-from-sheep-wool",
+    "aliases": [
+        "/How+vitamin+D+is+made+from+sheep+wool+-+Feb+2011",
+        "/1562"
+    ],
+    "tiki_page_id": 1562,
+    "date": "2011-04-02",
+    "categories": [
+        "More D topics",
+        "AI"
+    ],
+    "tags": [
+        "AI",
+        "More D topics",
+        "alcohol",
+        "cholesterol",
+        "dosage",
+        "health risk",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 {{< toc >}}
 

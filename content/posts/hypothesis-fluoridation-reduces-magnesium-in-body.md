@@ -1,15 +1,21 @@
 {
-  "title": "Hypothesis: Fluoridation reduces magnesium in body",
-  "slug": "hypothesis-fluoridation-reduces-magnesium-in-body",
-  "aliases": [
-    "/Hypothesis+Fluoridation+reduces+magnesium+in+body",
-    "/1985"
-  ],
-  "tiki_page_id": 1985,
-  "date": "2011-09-03",
-  "categories": [
-    "Vitamin D and Magnesium"
-  ]
+    "title": "Hypothesis: Fluoridation reduces magnesium in body",
+    "slug": "hypothesis-fluoridation-reduces-magnesium-in-body",
+    "aliases": [
+        "/Hypothesis+Fluoridation+reduces+magnesium+in+body",
+        "/1985"
+    ],
+    "tiki_page_id": 1985,
+    "date": "2011-09-03",
+    "categories": [
+        "Vitamin D and Magnesium"
+    ],
+    "tags": [
+        "Vitamin D and Magnesium",
+        "dental",
+        "fluoridation",
+        "magnesium"
+    ]
 }
 
 

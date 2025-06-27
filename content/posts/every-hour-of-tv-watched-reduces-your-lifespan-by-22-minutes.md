@@ -1,15 +1,19 @@
 {
-  "title": "Every hour of TV watched reduces your lifespan by 22 minutes",
-  "slug": "every-hour-of-tv-watched-reduces-your-lifespan-by-22-minutes",
-  "aliases": [
-    "/Every+hour+of+TV+watched+reduces+your+lifespan+by+22+minutes+\u2013+Aug+2011",
-    "/1954"
-  ],
-  "tiki_page_id": 1954,
-  "date": "2011-08-25",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "Every hour of TV watched reduces your lifespan by 22 minutes",
+    "slug": "every-hour-of-tv-watched-reduces-your-lifespan-by-22-minutes",
+    "aliases": [
+        "/Every+hour+of+TV+watched+reduces+your+lifespan+by+22+minutes+\u2013+Aug+2011",
+        "/1954"
+    ],
+    "tiki_page_id": 1954,
+    "date": "2011-08-25",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "vitamin d"
+    ]
 }
 
 
@@ -64,4 +68,3 @@ That web page has the following graphic
 20 minutes = 1/3 hour.
 
 1/3 * 91,250 = 30,416 hours = 1267 days = 3.5 years: possible
-

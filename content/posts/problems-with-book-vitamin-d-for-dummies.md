@@ -1,16 +1,49 @@
 {
-  "title": "Problems with book Vitamin D for Dummies",
-  "slug": "problems-with-book-vitamin-d-for-dummies",
-  "aliases": [
-    "/Problems+with+book+Vitamin+D+for+Dummies",
-    "/1696"
-  ],
-  "tiki_page_id": 1696,
-  "date": "2011-06-02",
-  "categories": [
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Problems with book Vitamin D for Dummies",
+    "slug": "problems-with-book-vitamin-d-for-dummies",
+    "aliases": [
+        "/Problems+with+book+Vitamin+D+for+Dummies",
+        "/1696"
+    ],
+    "tiki_page_id": 1696,
+    "date": "2011-06-02",
+    "categories": [
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bariatric surgery",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "celiac",
+        "colon cancer",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "gut",
+        "high dose",
+        "influenza",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "pregnancy",
+        "skin cancer",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "virus",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 &nbsp;
 
@@ -119,4 +152,3 @@ Pg 244M – Misleading: <a href="/posts/tanning-salons-are-probably-safe" style=
 * [Home page for Vitamin D Wiki](https://www.VitaminDWiki.com/tiki-index.php) which has links to 100+ topics and 30+ Overviews
 
 * <a href="/posts/information-on-book-vitamin-d-for-dummies" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 926">Information on book Vitamin D for Dummies</a>
-

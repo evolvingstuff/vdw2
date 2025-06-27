@@ -1,15 +1,27 @@
 {
-  "title": "Risk of cognitive decline 50 percent higher if low amount of vitamin D",
-  "slug": "risk-of-cognitive-decline-50-percent-higher-if-low-amount-of-vitamin-d",
-  "aliases": [
-    "/Risk+of+cognitive+decline+50+percent+higher+if+low+amount+of+vitamin+D+\u2013+Aug+2011",
-    "/1869"
-  ],
-  "tiki_page_id": 1869,
-  "date": "2011-07-28",
-  "categories": [
-    "Cognitive"
-  ]
+    "title": "Risk of cognitive decline 50 percent higher if low amount of vitamin D",
+    "slug": "risk-of-cognitive-decline-50-percent-higher-if-low-amount-of-vitamin-d",
+    "aliases": [
+        "/Risk+of+cognitive+decline+50+percent+higher+if+low+amount+of+vitamin+D+\u2013+Aug+2011",
+        "/1869"
+    ],
+    "tiki_page_id": 1869,
+    "date": "2011-07-28",
+    "categories": [
+        "Cognitive"
+    ],
+    "tags": [
+        "Cognitive",
+        "cancer",
+        "cardiovascular",
+        "cognitive",
+        "dementia",
+        "diabetes",
+        "metabolic",
+        "stroke",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

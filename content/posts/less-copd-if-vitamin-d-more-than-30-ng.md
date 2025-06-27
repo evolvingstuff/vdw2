@@ -1,15 +1,31 @@
 {
-  "title": "Less COPD if vitamin D more than 30 ng",
-  "slug": "less-copd-if-vitamin-d-more-than-30-ng",
-  "aliases": [
-    "/Less+COPD+if+vitamin+D+more+than+30+ng+\u2013+Nov+2011",
-    "/2152"
-  ],
-  "tiki_page_id": 2152,
-  "date": "2011-11-04",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Less COPD if vitamin D more than 30 ng",
+    "slug": "less-copd-if-vitamin-d-more-than-30-ng",
+    "aliases": [
+        "/Less+COPD+if+vitamin+D+more+than+30+ng+\u2013+Nov+2011",
+        "/2152"
+    ],
+    "tiki_page_id": 2152,
+    "date": "2011-11-04",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "antibiotics",
+        "asthma",
+        "blood levels",
+        "breathing",
+        "child",
+        "childhood pneumonia",
+        "childhood respiratory",
+        "dosage",
+        "neurological",
+        "pneumonia",
+        "respiratory",
+        "sleep apnea",
+        "vitamin d"
+    ]
 }
 
 
@@ -74,4 +90,3 @@ from slide presentation: https://www.VitaminDWiki.com/tiki-index.php?page_id=226
 * [COPD - start with 6,000 IU daily for a week,](http://clinicaltrials.gov/ct2/show/NCT01416701) then drop back to 3,000 daily
 
 * [COPD - vitamin D every 60 days](http://clinicaltrials.gov/ct2/show/NCT00977873) does not seem to indicate how much - to be completed Summer 2013
-

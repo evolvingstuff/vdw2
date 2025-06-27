@@ -1,16 +1,26 @@
 {
-  "title": "Vitamin D Genes varied seasonally with European but not Asian ancestors \u2013 VDBP",
-  "slug": "vitamin-d-genes-varied-seasonally-with-european-but-not-asian-ancestors-vdbp",
-  "aliases": [
-    "/Vitamin+D+Genes+varied+seasonally+with+European+but+not+Asian+ancestors+\u2013+VDBP+June+2011",
-    "/1741"
-  ],
-  "tiki_page_id": 1741,
-  "date": "2011-06-19",
-  "categories": [
-    "Genetics",
-    "Vit D Binding Protein"
-  ]
+    "title": "Vitamin D Genes varied seasonally with European but not Asian ancestors \u2013 VDBP",
+    "slug": "vitamin-d-genes-varied-seasonally-with-european-but-not-asian-ancestors-vdbp",
+    "aliases": [
+        "/Vitamin+D+Genes+varied+seasonally+with+European+but+not+Asian+ancestors+\u2013+VDBP+June+2011",
+        "/1741"
+    ],
+    "tiki_page_id": 1741,
+    "date": "2011-06-19",
+    "categories": [
+        "Genetics",
+        "Vit D Binding Protein"
+    ],
+    "tags": [
+        "Genetics",
+        "Vit D Binding Protein",
+        "bone",
+        "falls fractures",
+        "genetics",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test"
+    ]
 }
 
 

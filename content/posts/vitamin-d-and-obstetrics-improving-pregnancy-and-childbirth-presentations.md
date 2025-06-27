@@ -1,16 +1,31 @@
 {
-  "title": "Vitamin D and Obstetrics Improving Pregnancy and Childbirth - presentations",
-  "slug": "vitamin-d-and-obstetrics-improving-pregnancy-and-childbirth-presentations",
-  "aliases": [
-    "/Vitamin+D+and+Obstetrics+Improving+Pregnancy+and+Childbirth+-+presentations+May+2011",
-    "/1660"
-  ],
-  "tiki_page_id": 1660,
-  "date": "2011-05-24",
-  "categories": [
-    "Pregnancy",
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Vitamin D and Obstetrics Improving Pregnancy and Childbirth - presentations",
+    "slug": "vitamin-d-and-obstetrics-improving-pregnancy-and-childbirth-presentations",
+    "aliases": [
+        "/Vitamin+D+and+Obstetrics+Improving+Pregnancy+and+Childbirth+-+presentations+May+2011",
+        "/1660"
+    ],
+    "tiki_page_id": 1660,
+    "date": "2011-05-24",
+    "categories": [
+        "Pregnancy",
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "Pregnancy",
+        "blood levels",
+        "caesarean",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "pancreatic cancer",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -88,4 +103,4 @@ Audio and Video of the PDFs are also available
 
 # U shaped risk curve only where UV varies a lot with season - Vieth
 
-<img src="/attachments/d3.mock.jpg" alt="image">  
+<img src="/attachments/d3.mock.jpg" alt="image">

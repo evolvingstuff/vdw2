@@ -1,17 +1,40 @@
 {
-  "title": "Reduced vitamin D and BMD and Neurological Conditions",
-  "slug": "reduced-vitamin-d-and-bmd-and-neurological-conditions",
-  "aliases": [
-    "/Reduced+vitamin+D+and+BMD+and+Neurological+Conditions+\u2013+April+2011",
-    "/1605"
-  ],
-  "tiki_page_id": 1605,
-  "date": "2011-05-04",
-  "categories": [
-    "Bone - Health",
-    "Multiple Sclerosis",
-    "Parkinson"
-  ]
+    "title": "Reduced vitamin D and BMD and Neurological Conditions",
+    "slug": "reduced-vitamin-d-and-bmd-and-neurological-conditions",
+    "aliases": [
+        "/Reduced+vitamin+D+and+BMD+and+Neurological+Conditions+\u2013+April+2011",
+        "/1605"
+    ],
+    "tiki_page_id": 1605,
+    "date": "2011-05-04",
+    "categories": [
+        "Bone - Health",
+        "Multiple Sclerosis",
+        "Parkinson"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Multiple Sclerosis",
+        "Parkinson",
+        "TBI",
+        "autoimmune",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "brain",
+        "cardiovascular",
+        "cognitive",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "neurological",
+        "spinal cord",
+        "stroke",
+        "therapeutic intervention",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 
@@ -58,4 +81,3 @@ the following aspects are discussed, where information is available:
    * fracture rates. 
 
 The common risk factors of immobilization and vitamin D deficiency would appear to cross all disability groups, with the most rapid phase of bone loss occurring in the acute and subacute phases of each condition.
-

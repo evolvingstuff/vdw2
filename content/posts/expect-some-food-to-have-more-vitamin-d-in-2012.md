@@ -1,16 +1,22 @@
 {
-  "title": "Expect some food to have more vitamin D in 2012",
-  "slug": "expect-some-food-to-have-more-vitamin-d-in-2012",
-  "aliases": [
-    "/Expect+some+food+to+have+more+vitamin+D+in+2012",
-    "/1626"
-  ],
-  "tiki_page_id": 1626,
-  "date": "2011-05-12",
-  "categories": [
-    "Food sources for Vitamin D"
-  ]
+    "title": "Expect some food to have more vitamin D in 2012",
+    "slug": "expect-some-food-to-have-more-vitamin-d-in-2012",
+    "aliases": [
+        "/Expect+some+food+to+have+more+vitamin+D+in+2012",
+        "/1626"
+    ],
+    "tiki_page_id": 1626,
+    "date": "2011-05-12",
+    "categories": [
+        "Food sources for Vitamin D"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "dosage",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

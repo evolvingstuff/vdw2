@@ -1,15 +1,28 @@
 {
-  "title": "Hypothesis: Periodontal disease is related to vitamin D \u2013 2010",
-  "slug": "hypothesis-periodontal-disease-is-related-to-vitamin-d-2010",
-  "aliases": [
-    "/Hypothesis+Periodontal+disease+is+related+to+vitamin+D+\u2013+2010",
-    "/1614"
-  ],
-  "tiki_page_id": 1614,
-  "date": "2011-05-08",
-  "categories": [
-    "Dental"
-  ]
+    "title": "Hypothesis: Periodontal disease is related to vitamin D \u2013 2010",
+    "slug": "hypothesis-periodontal-disease-is-related-to-vitamin-d-2010",
+    "aliases": [
+        "/Hypothesis+Periodontal+disease+is+related+to+vitamin+D+\u2013+2010",
+        "/1614"
+    ],
+    "tiki_page_id": 1614,
+    "date": "2011-05-08",
+    "categories": [
+        "Dental"
+    ],
+    "tags": [
+        "Dental",
+        "bacteria",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "health risk",
+        "metabolic",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 

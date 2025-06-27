@@ -1,16 +1,28 @@
 {
-  "title": "Vitamin D and Primary Hyperparathyroidism \u2013 2011, 2016",
-  "slug": "vitamin-d-and-primary-hyperparathyroidism-2011-2016",
-  "aliases": [
-    "/Vitamin+D+and+Primary+Hyperparathyroidism+\u2013+2011+2016",
-    "/1350"
-  ],
-  "tiki_page_id": 1350,
-  "date": "2011-01-26",
-  "categories": [
-    "Thyroid and parathyroid"
-  ]
+    "title": "Vitamin D and Primary Hyperparathyroidism \u2013 2011, 2016",
+    "slug": "vitamin-d-and-primary-hyperparathyroidism-2011-2016",
+    "aliases": [
+        "/Vitamin+D+and+Primary+Hyperparathyroidism+\u2013+2011+2016",
+        "/1350"
+    ],
+    "tiki_page_id": 1350,
+    "date": "2011-01-26",
+    "categories": [
+        "Thyroid and parathyroid"
+    ],
+    "tags": [
+        "Thyroid and parathyroid",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 

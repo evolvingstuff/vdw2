@@ -1,15 +1,28 @@
 {
-  "title": "Most people with bone fractures still not getting vitamin D",
-  "slug": "most-people-with-bone-fractures-still-not-getting-vitamin-d",
-  "aliases": [
-    "/Most+people+with+bone+fractures+still+not+getting+vitamin+D+\u2013+May+2011",
-    "/1601"
-  ],
-  "tiki_page_id": 1601,
-  "date": "2011-05-04",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "Most people with bone fractures still not getting vitamin D",
+    "slug": "most-people-with-bone-fractures-still-not-getting-vitamin-d",
+    "aliases": [
+        "/Most+people+with+bone+fractures+still+not+getting+vitamin+D+\u2013+May+2011",
+        "/1601"
+    ],
+    "tiki_page_id": 1601,
+    "date": "2011-05-04",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "blood levels",
+        "bone",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "hip fractures",
+        "magnesium",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,16 +1,31 @@
 {
-  "title": "Strokes might be treated as well as prevented by vitamin D",
-  "slug": "strokes-might-be-treated-as-well-as-prevented-by-vitamin-d",
-  "aliases": [
-    "/Strokes+might+be+treated+as+well+as+prevented+by+vitamin+D+\u2013+Jan+2011",
-    "/1226"
-  ],
-  "tiki_page_id": 1226,
-  "date": "2010-12-12",
-  "categories": [
-    "Treatment by Vitamin D",
-    "Stroke"
-  ]
+    "title": "Strokes might be treated as well as prevented by vitamin D",
+    "slug": "strokes-might-be-treated-as-well-as-prevented-by-vitamin-d",
+    "aliases": [
+        "/Strokes+might+be+treated+as+well+as+prevented+by+vitamin+D+\u2013+Jan+2011",
+        "/1226"
+    ],
+    "tiki_page_id": 1226,
+    "date": "2010-12-12",
+    "categories": [
+        "Treatment by Vitamin D",
+        "Stroke"
+    ],
+    "tags": [
+        "Stroke",
+        "Treatment by Vitamin D",
+        "autoimmune",
+        "cardiovascular",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "life span",
+        "mortality",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -34,4 +49,4 @@ Vitamin D has also been shown to exert neuroprotective, neuromuscular and osteop
 
 Hence, the current literature favours the notion that vitamin D supplementation is a  **promising approach for the prevention and treatment of strokes**  but accurate data from interventional studies are missing. Randomized controlled trials are therefore urgently needed to evaluate whether vitamin D supplementation reduces the incidence of strokes and improves the outcome of poststroke patients. 
 
-We do, however, believe that currently published data on the multiple health benefits of vitamin D and the easy safe and inexpensive way by which it can be supplemented already argue for the prevention and treatment of vitamin D deficiency in order to reduce stroke associated morbidity and mortality. PMID: 20795935 
+We do, however, believe that currently published data on the multiple health benefits of vitamin D and the easy safe and inexpensive way by which it can be supplemented already argue for the prevention and treatment of vitamin D deficiency in order to reduce stroke associated morbidity and mortality. PMID: 20795935

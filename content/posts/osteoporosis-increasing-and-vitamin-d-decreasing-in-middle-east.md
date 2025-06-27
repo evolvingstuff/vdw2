@@ -1,16 +1,31 @@
 {
-  "title": "Osteoporosis increasing and vitamin D decreasing in Middle East",
-  "slug": "osteoporosis-increasing-and-vitamin-d-decreasing-in-middle-east",
-  "aliases": [
-    "/Osteoporosis+increasing+and+vitamin+D+decreasing+in+Middle+East+-+Oct+2011",
-    "/2126"
-  ],
-  "tiki_page_id": 2126,
-  "date": "2011-10-28",
-  "categories": [
-    "Osteoporosis",
-    "Middle East"
-  ]
+    "title": "Osteoporosis increasing and vitamin D decreasing in Middle East",
+    "slug": "osteoporosis-increasing-and-vitamin-d-decreasing-in-middle-east",
+    "aliases": [
+        "/Osteoporosis+increasing+and+vitamin+D+decreasing+in+Middle+East+-+Oct+2011",
+        "/2126"
+    ],
+    "tiki_page_id": 2126,
+    "date": "2011-10-28",
+    "categories": [
+        "Osteoporosis",
+        "Middle East"
+    ],
+    "tags": [
+        "Middle East",
+        "Osteoporosis",
+        "bone",
+        "bone stress fractures",
+        "child",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "hip fractures",
+        "magnesium",
+        "metabolic",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

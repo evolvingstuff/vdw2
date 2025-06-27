@@ -1,0 +1,67 @@
+<!doctype html><html><head><meta charset=utf-8><title>Obesity lowers vitamin D which increases probability of diabetes in children</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Obesity lowers vitamin D which increases probability of diabetes in children</h1><time>December 5, 2011</time><div data-pagefind-body><h4 id=vitamin-d-deficiency-in-obese-children-and-its-relationship-to-glucose-homeostasis>Vitamin D Deficiency in Obese Children and Its Relationship to Glucose Homeostasis.</h4><p>J Clin Endocrinol Metab. 2011 Nov 9.</p><p>Olson ML, Maalouf NM, Oden JD, White PC, Hutchison MR. <a href=mailto:michele.hutchison@utsouthwestern.edu>michele.hutchison@utsouthwestern.edu</a></p><p>Departments of Pediatrics (M.L.O., J.D.O., P.C.W., M.R.H.) and Internal Medicine (N.M.M.), University of Texas Southwestern Medical Center, Dallas, Texas.</p><p>Objectives:The aim of the study was to compare the prevalence of vitamin D deficiency in obese and non-overweight children in North Texas, to examine relationships between dietary habits and 25-hydroxyvitamin D <span>[25(OH)D]</span> level in obese children, and to examine the relationship between 25(OH)D level and markers of abnormal glucose metabolism and blood pressure.</p><p>Patients and Methods:Using a cross-sectional design, systolic and diastolic blood pressure, dietary information, serum 25(OH)D, fasting glucose and insulin, 2-h glucose from oral glucose tolerance test, hemoglobin A1c, and homeostasis model assessment of insulin resistance were recorded for 411 obese subjects (6-16 yr old) at an obesity referral clinic. 25(OH)D was also obtained from 87 control non-overweight subjects (6-16 yr old).</p><p>Results:Ninety-two percent of obese subjects had a 25(OH)D level below 75 nmol/liter, and 50% were below 50 nmol/liter.</p><p>Among non-overweight subjects, these frequencies were 68 and 22%, respectively (both P &lt; 0.01 compared with obese subjects).</p><p>25(OH)D was negatively associated with</p><ul><li><p>soda intake (P &lt; 0.001), (see <a href=/posts/cola-soft-drinks-reduce-calcium-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 1343">Cola Soft Drinks reduce Calcium and vitamin D</a>)</p></li><li><p>juice intake (P = 0.009), and</p></li><li><p>skipping breakfast (P &lt; 0.001).</p></li></ul><p>25(OH)D was negatively correlated with</p><ul><li><p>homeostasis model assessment of insulin resistance (r = -0.19; P = 0.001) and</p></li><li><p>2-h glucose (r = -0.12; P = 0.04)</p></li></ul><p>after adjustment for body mass index and age but was not correlated with hemoglobin A1c, systolic blood pressure Z score, or diastolic blood pressure Z score.</p><p>Conclusions:Vitamin D deficiency is common in children in this southern United States location and is significantly more prevalent in obese children.</p><p>Lower 25(OH)D level is associated with risk factors for type 2 diabetes in obese children.</p><p>PMID: 22072738</p><p>– – – – – – – – – – – – –</p><h1 id=clipped-from-review-by-medpagetodayhttpwwwmedpagetodaycomendocrinologydiabetes3000620>Clipped from review by <a href=http://www.medpagetoday.com/Endocrinology/Diabetes/30006%20>MedPageToday</a></h1><p>And half of the obese children had vitamin D deficiency, compared with 22% of thinner kids, Hutchison and colleagues reported in the January issue of the Journal of Clinical Endocrinology & Metabolism.</p><p>They were compared with 87 children &ndash; matched to the obese group by season when the data was acquired, age, and race/ethnicity &ndash; who were below the 85th percentile of BMI for age. They were a convenience sample of otherwise healthy patients being treated for <strong>congenital hypothyroidism, acquired primary hypothyroidism, or isolated growth hormone deficiency.</strong></p><p>On average, the obese children had a serum 25(OH)D concentration of 49 nmol/L, compared with 67.5 nmol/L for the slimmer cohort. The difference was significant at P&lt;0.0001.</p><p>&ldquo;Our study found that obese children with lower vitamin D levels had higher degrees of insulin resistance,&rdquo; said lead author Micah Olson, MD, also of the University of Texas Southwestern Medical Center.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>child</span>
+<span class=tag>childhood obesity</span>
+<span class=tag>diabetes</span>
+<span class=tag>Diabetes</span>
+<span class=tag>health risk</span>
+<span class=tag>metabolic</span>
+<span class=tag>obesity</span>
+<span class=tag>Obesity</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span>
+<span class=tag>Youth</span></div><div data-pagefind-meta=tags hidden>blood levels, child, childhood obesity, diabetes, Diabetes, health risk, metabolic, obesity, Obesity, vitamin d, vitamin d blood test, Youth</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

@@ -1,12 +1,19 @@
 {
-  "title": "Seniors low on vitamin D walk slower",
-  "slug": "seniors-low-on-vitamin-d-walk-slower",
-  "aliases": [
-    "/Seniors+low+on+vitamin+D+walk+slower+\u2013+April+2011",
-    "/1574"
-  ],
-  "tiki_page_id": 1574,
-  "date": "2011-04-12"
+    "title": "Seniors low on vitamin D walk slower",
+    "slug": "seniors-low-on-vitamin-d-walk-slower",
+    "aliases": [
+        "/Seniors+low+on+vitamin+D+walk+slower+\u2013+April+2011",
+        "/1574"
+    ],
+    "tiki_page_id": 1574,
+    "date": "2011-04-12",
+    "tags": [
+        "blood levels",
+        "bone",
+        "falls fractures",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -29,4 +36,3 @@ RESULTS: A total of 16.6% (n = 68) of subjects had severe 25OHD insufficiency, 7
 CONCLUSIONS: Low serum 25OHD concentrations were associated with high STV reflecting a disturbed gait control. This association could be explained by a possible action of vitamin D on different components involved in gait control.
 
 PMID: 21471466
-

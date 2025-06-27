@@ -1,17 +1,28 @@
 {
-  "title": "Hypothesis - 40 ng is enough vitamin D if high latitude or dark skin",
-  "slug": "hypothesis-40-ng-is-enough-vitamin-d-if-high-latitude-or-dark-skin",
-  "aliases": [
-    "/Hypothesis+-+40+ng+is+enough+vitamin+D+if+high+latitude+or+dark+skin",
-    "/1662"
-  ],
-  "tiki_page_id": 1662,
-  "date": "2011-05-24",
-  "categories": [
-    "Skin - Dark",
-    "Optimum"
-  ]
+    "title": "Hypothesis - 40 ng is enough vitamin D if high latitude or dark skin",
+    "slug": "hypothesis-40-ng-is-enough-vitamin-d-if-high-latitude-or-dark-skin",
+    "aliases": [
+        "/Hypothesis+-+40+ng+is+enough+vitamin+D+if+high+latitude+or+dark+skin",
+        "/1662"
+    ],
+    "tiki_page_id": 1662,
+    "date": "2011-05-24",
+    "categories": [
+        "Skin - Dark",
+        "Optimum"
+    ],
+    "tags": [
+        "Optimum",
+        "Skin - Dark",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "pancreatic cancer",
+        "prostate cancer",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

@@ -1,0 +1,86 @@
+<!doctype html><html><head><meta charset=utf-8><title>7 percent less likely to get immune mediated disease if born in the fall</title>
+<link rel=stylesheet href="/css/main.css?v=1751038172"><link rel=stylesheet href="/css/pagination.css?v=1751038172"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038172"></script><script src="/js/search.js?v=1751038172"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>7 percent less likely to get immune mediated disease if born in the fall</h1><time>July 7, 2012</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#month-of-birth-vitamin-d-and-risk-of-immune-mediated-disease-a-case-control-study>Month of birth, vitamin D and risk of immune mediated disease: a case control study</a></li><li><a href=#october-births-are-12-less-likely-to-get-influenza-they-think-because-of-vaccination---feb-2024>October births are 12% less likely to get influenza (they think because of vaccination) - Feb 2024</a></li></ul></li></ul></li></ul></nav><hr><h4 id=month-of-birth-vitamin-d-and-risk-of-immune-mediated-disease-a-case-control-study>Month of birth, vitamin D and risk of immune mediated disease: a case control study</h4><p>BMC Medicine 2012, 10:69 doi:10.1186/1741-7015-10-69</p><p>Giulio Disanto, George Chaplin, Julia M Morahan, Gavin Giovannoni, Elina Hypponen, George C Ebers and Sreeram V Ramagopalan</p><p>{IMG(attId=&ldquo;1443&rdquo; max =&ldquo;500&rdquo;)}{IMG}</p><p>Background</p><p>A season of birth effect in immune-mediated diseases (ID) such as multiple sclerosis and type 1 diabetes has been consistently reported. We aimed to investigate whether season of birth influences the risk of rheumatoid arthritis, Crohn&rsquo;s disease, ulcerative colitis and systemic lupus erythematosus in addition to multiple sclerosis, and to explore the correlation between the risk of ID and predicted ultraviolet B (UVB) light exposure and vitamin D status during gestation.</p><p>Methods</p><p>The monthly distribution of births of patients with ID from the UK (n = 115,172) was compared to that of the general population using the Cosinor test. Predicted UVB radiation and vitamin D status in different time windows during pregnancy were calculated for each month of birth and correlated with risk of ID using the Spearman&rsquo;s correlation coefficient.</p><p>Results</p><p>The distributions of ID births significantly differed from that of the general population (P = 5e-12) with a peak in April (odds ratio = 1.045, 95% confidence interval = 1.024, 1.067, P &lt;0.0001) and a trough in October (odds ratio = 0.945, 95% confidence interval = 0.925, 0.966, P &lt;0.0001). Stratification by disease subtype showed seasonality in all ID but Crohn&rsquo;s disease. The risk of ID was inversely correlated with predicted second trimester UVB exposure (Spearman&rsquo;s rho = -0.49, P = 0.00005) and third trimester vitamin D status (Spearman&rsquo;s rho = -0.44, P = 0.0003).</p><p>Conclusions</p><p>The risk of different ID in the UK is significantly influenced by the season of birth, suggesting the presence of a shared seasonal risk factor or factors predisposing to ID. Gestational UVB and vitamin D exposure may be implicated in the aetiology of ID.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/month-of-birth-vitamin-d-and-risk-of-immune-mediated-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=october-births-are-12-less-likely-to-get-influenza-they-think-because-of-vaccination---feb-2024>October births are 12% less likely to get influenza (they think because of vaccination) - Feb 2024</h4><p><strong>Optimal timing of influenza vaccination in young children: population based cohort study</strong></p><p>BMJ 2024; 384 <a href=https://doi.org/https>doi: https</a>://doi.org/10.1136/bmj-2023-077076 (Published 21 February 2024)</p><p>Christopher M Worsham, assistant professor1 2 3, Charles F Bray, research assistant1, Anupam B Jena, Joseph P Newhouse professor of health care policy and medicine1 2 4</p><p>Objective To assess optimal timing of influenza vaccination in young children.</p><p>Design Population based cohort study.</p><p>Setting United States.</p><p>Participants Commercially insured children aged 2-5 years who were vaccinated against influenza during 2011-18.</p><p>Main outcome measure Rates of diagnosis of influenza among children who were vaccinated against influenza, by birth month.</p><p>Results Overall, 819 223 children aged 2-5 received influenza vaccination. Children vaccinated in November and December were least likely to have a diagnosis of influenza, a finding that may be confounded by unmeasured factors that influence the timing of vaccination and risk of influenza. Vaccination commonly occurred on days of preventive care visits and during birth months. Children born in October were disproportionately vaccinated in October and were, on average, vaccinated later than children born in August and earlier than those born in December. Children born in October had the lowest rate of influenza diagnosis (for example, 2.7% (6016/224 540) versus 3.0% (6462/212 622) for those born in August; <strong>adjusted odds ratio 0.88, 95% confidence interval 0.85 to 0.92</strong> ).</p><p>Conclusions In a quasi-experimental analysis of young children vaccinated against influenza, birth month was associated with the timing of vaccination through its influence on the timing of preventive care visits. Children born in October were most likely to be vaccinated in October and least likely to have a diagnosis of influenza, consistent with recommendations promoting October vaccination.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/month-of-birth-vitamin-d-and-risk-of-immune-mediated-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>child</span>
+<span class=tag>childhood vaccination</span>
+<span class=tag>childhood viruses</span>
+<span class=tag>crohns</span>
+<span class=tag>diabetes</span>
+<span class=tag>gut</span>
+<span class=tag>high dose</span>
+<span class=tag>Immunity</span>
+<span class=tag>influenza</span>
+<span class=tag>intervention</span>
+<span class=tag>lupus</span>
+<span class=tag>metabolic</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>pain</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>pregnancy</span>
+<span class=tag>Pregnancy</span>
+<span class=tag>rheumatoid arthritis</span>
+<span class=tag>Season of Birth</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>type 1 diabetes</span>
+<span class=tag>ulcerative colitis</span>
+<span class=tag>vaccination</span>
+<span class=tag>vaccination and pregnancy</span>
+<span class=tag>virus</span>
+<span class=tag>viruses and pregnancy</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span></div><div data-pagefind-meta=tags hidden>autoimmune, autoimmune and pregnancy, child, childhood vaccination, childhood viruses, crohns, diabetes, gut, high dose, Immunity, influenza, intervention, lupus, metabolic, multiple sclerosis, multiple sclerosis and pregnancy, pain, pediatric autoimmune, pregnancy, Pregnancy, rheumatoid arthritis, Season of Birth, therapeutic intervention, type 1 diabetes, ulcerative colitis, vaccination, vaccination and pregnancy, virus, viruses and pregnancy, vitamin d, vitamin d and viruses</div></article></div></div><script src="/js/lightspa.js?v=1751038172"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038172",indexUrl:"/search/search_index.json.gz?v=1751038172"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038172"></script><script src="/js/tiki-redirects.js?v=1751038172"></script></body></html>

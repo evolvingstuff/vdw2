@@ -1,17 +1,45 @@
 {
-  "title": "Link between diabetes and Alzheimers is probably low vitamin D",
-  "slug": "link-between-diabetes-and-alzheimers-is-probably-low-vitamin-d",
-  "aliases": [
-    "/Link+between+diabetes+and+Alzheimers+is+probably+low+vitamin+D",
-    "/2021"
-  ],
-  "tiki_page_id": 2021,
-  "date": "2011-09-20",
-  "categories": [
-    "Diabetes",
-    "Cognitive"
-  ]
+    "title": "Link between diabetes and Alzheimers is probably low vitamin D",
+    "slug": "link-between-diabetes-and-alzheimers-is-probably-low-vitamin-d",
+    "aliases": [
+        "/Link+between+diabetes+and+Alzheimers+is+probably+low+vitamin+D",
+        "/2021"
+    ],
+    "tiki_page_id": 2021,
+    "date": "2011-09-20",
+    "categories": [
+        "Diabetes",
+        "Cognitive"
+    ],
+    "tags": [
+        "Cognitive",
+        "Diabetes",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breast cancer",
+        "cancer",
+        "cognitive",
+        "dementia",
+        "depression",
+        "depression and pregnancy",
+        "diabetes",
+        "health risk",
+        "lung cancer",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mood disorders",
+        "myopia",
+        "osteoporosis",
+        "pregnancy",
+        "prostate cancer",
+        "smoking",
+        "vision",
+        "vitamin d"
+    ]
 }
+
 
 [Study: Adults with diabetes more prone to dementia](http://www.whec.com/news/stories/S2291815.shtml?cat=566) Sept 2011
 

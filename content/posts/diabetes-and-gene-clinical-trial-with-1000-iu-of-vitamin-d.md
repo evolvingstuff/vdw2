@@ -1,16 +1,36 @@
 {
-  "title": "Diabetes and gene clinical trial with 1000 IU of vitamin D",
-  "slug": "diabetes-and-gene-clinical-trial-with-1000-iu-of-vitamin-d",
-  "aliases": [
-    "/Diabetes+and+gene+clinical+trial+with+1000+IU+of+vitamin+D",
-    "/1884"
-  ],
-  "tiki_page_id": 1884,
-  "date": "2011-08-02",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Diabetes and gene clinical trial with 1000 IU of vitamin D",
+    "slug": "diabetes-and-gene-clinical-trial-with-1000-iu-of-vitamin-d",
+    "aliases": [
+        "/Diabetes+and+gene+clinical+trial+with+1000+IU+of+vitamin+D",
+        "/1884"
+    ],
+    "tiki_page_id": 1884,
+    "date": "2011-08-02",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "genetics",
+        "life span",
+        "magnesium",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "metabolic syndrome and magnesium",
+        "mortality",
+        "prediabetes",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 
@@ -105,4 +125,3 @@ Trial Registration [ClinicalTrials.gov: NCT01236846](http://clinicaltrials.gov/c
 * <a href="/posts/90-percent-of-dark-skinned-diabetics-had-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1799">90 percent of Dark Skinned diabetics had less than 30 ng of vitamin D – July 2011</a>
 
 * [25 ng Vitamin D reduced chance of diabetes by 43 percent -review July 2011](/posts/25-ng-vitamin-d-reduced-chance-of-diabetes-by-43-percent-review)
-

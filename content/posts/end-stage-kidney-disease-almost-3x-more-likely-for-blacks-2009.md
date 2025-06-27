@@ -1,16 +1,26 @@
 {
-  "title": "End stage kidney disease almost 3X more likely for blacks \u2013 2009",
-  "slug": "end-stage-kidney-disease-almost-3x-more-likely-for-blacks-2009",
-  "aliases": [
-    "/End+stage+kidney+disease+almost+3X+more+likely+for+blacks+\u2013+2009",
-    "/1117"
-  ],
-  "tiki_page_id": 1117,
-  "date": "2010-11-05",
-  "categories": [
-    "Skin - Dark",
-    "Kidney"
-  ]
+    "title": "End stage kidney disease almost 3X more likely for blacks \u2013 2009",
+    "slug": "end-stage-kidney-disease-almost-3x-more-likely-for-blacks-2009",
+    "aliases": [
+        "/End+stage+kidney+disease+almost+3X+more+likely+for+blacks+\u2013+2009",
+        "/1117"
+    ],
+    "tiki_page_id": 1117,
+    "date": "2010-11-05",
+    "categories": [
+        "Skin - Dark",
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "Skin - Dark",
+        "blood levels",
+        "diabetes",
+        "hypertension",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -39,4 +49,3 @@ In summary, low 25(OH)D levels associate with development of ESRD even after adj
 Low 25(OH)D levels may account for a substantial proportion of the increased risk for ESRD experienced by black individuals. 
 
 PMID: 19875805
-

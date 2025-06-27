@@ -1,17 +1,25 @@
 {
-  "title": "Vitamin D for the prevention and treatment of pancreatic cancer",
-  "slug": "vitamin-d-for-the-prevention-and-treatment-of-pancreatic-cancer",
-  "aliases": [
-    "/Vitamin+D+for+the+prevention+and+treatment+of+pancreatic+cancer+-+July+2009",
-    "/1490"
-  ],
-  "tiki_page_id": 1490,
-  "date": "2011-03-18",
-  "categories": [
-    "Cancer - Pancreatic",
-    "Treatment by Vitamin D"
-  ]
+    "title": "Vitamin D for the prevention and treatment of pancreatic cancer",
+    "slug": "vitamin-d-for-the-prevention-and-treatment-of-pancreatic-cancer",
+    "aliases": [
+        "/Vitamin+D+for+the+prevention+and+treatment+of+pancreatic+cancer+-+July+2009",
+        "/1490"
+    ],
+    "tiki_page_id": 1490,
+    "date": "2011-03-18",
+    "categories": [
+        "Cancer - Pancreatic",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "Cancer - Pancreatic",
+        "Treatment by Vitamin D",
+        "cancer",
+        "pancreatic cancer",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

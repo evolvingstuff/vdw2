@@ -1,16 +1,28 @@
 {
-  "title": "BMD associated with free and bioavailable vitamin D",
-  "slug": "bmd-associated-with-free-and-bioavailable-vitamin-d",
-  "aliases": [
-    "/BMD+associated+with+free+and+bioavailable+vitamin+D+\u2013+March+2011",
-    "/1498"
-  ],
-  "tiki_page_id": 1498,
-  "date": "2011-03-20",
-  "categories": [
-    "Bone - Health",
-    "Tests for Vitamin D"
-  ]
+    "title": "BMD associated with free and bioavailable vitamin D",
+    "slug": "bmd-associated-with-free-and-bioavailable-vitamin-d",
+    "aliases": [
+        "/BMD+associated+with+free+and+bioavailable+vitamin+D+\u2013+March+2011",
+        "/1498"
+    ],
+    "tiki_page_id": 1498,
+    "date": "2011-03-20",
+    "categories": [
+        "Bone - Health",
+        "Tests for Vitamin D"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Tests for Vitamin D",
+        "bone",
+        "bone mineral density",
+        "genetics",
+        "gut",
+        "ulcerative colitis",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test"
+    ]
 }
 
 

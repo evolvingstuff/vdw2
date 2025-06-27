@@ -1,17 +1,37 @@
 {
-  "title": "Masterjohn on relationships between Vitamin A D and K",
-  "slug": "masterjohn-on-relationships-between-vitamin-a-d-and-k",
-  "aliases": [
-    "/Masterjohn+on+relationships+between+Vitamin+A+D+and+K+\u2013+Dec+2010",
-    "/1240"
-  ],
-  "tiki_page_id": 1240,
-  "date": "2010-12-16",
-  "categories": [
-    "Supplement",
-    "Toxicity of Vitamin D",
-    "Vitamin D and Vitamin A"
-  ]
+    "title": "Masterjohn on relationships between Vitamin A D and K",
+    "slug": "masterjohn-on-relationships-between-vitamin-a-d-and-k",
+    "aliases": [
+        "/Masterjohn+on+relationships+between+Vitamin+A+D+and+K+\u2013+Dec+2010",
+        "/1240"
+    ],
+    "tiki_page_id": 1240,
+    "date": "2010-12-16",
+    "categories": [
+        "Supplement",
+        "Toxicity of Vitamin D",
+        "Vitamin D and Vitamin A"
+    ],
+    "tags": [
+        "Supplement",
+        "Toxicity of Vitamin D",
+        "Vitamin D and Vitamin A",
+        "blood levels",
+        "bone",
+        "cholesterol",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "omega 3",
+        "omega 3 and viruses",
+        "osteoporosis",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin k",
+        "vitamin k and viruses"
+    ]
 }
 
 
@@ -113,4 +133,4 @@ But "follow me and do what I do" is not the point of his book.  The point of his
 
 We should still do the science, but it's going to take a long time, folks.  The best thing to do now is to eat a well rounded whole foods diet and experiment with the levels of cod liver oil and/or vitamin D supplementation that make you feel the best, resolve your symptoms, increse your performance, and normalize your clinical tests if they're out of whack or don't throw them out of whack if they're normal. 
 
-And share your results with the rest of us! 
+And share your results with the rest of us!

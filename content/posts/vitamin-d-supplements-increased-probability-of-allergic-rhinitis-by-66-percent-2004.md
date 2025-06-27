@@ -1,15 +1,24 @@
 {
-  "title": "Vitamin D supplements increased probability of allergic rhinitis by 66 percent - 2004",
-  "slug": "vitamin-d-supplements-increased-probability-of-allergic-rhinitis-by-66-percent-2004",
-  "aliases": [
-    "/Vitamin+D+supplements+increased+probability+of+allergic+rhinitis+by+66+percent+-+2004",
-    "/1888"
-  ],
-  "tiki_page_id": 1888,
-  "date": "2011-08-03",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Vitamin D supplements increased probability of allergic rhinitis by 66 percent - 2004",
+    "slug": "vitamin-d-supplements-increased-probability-of-allergic-rhinitis-by-66-percent-2004",
+    "aliases": [
+        "/Vitamin+D+supplements+increased+probability+of+allergic+rhinitis+by+66+percent+-+2004",
+        "/1888"
+    ],
+    "tiki_page_id": 1888,
+    "date": "2011-08-03",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "breathing",
+        "child",
+        "dosage",
+        "hay fever",
+        "vitamin d"
+    ]
 }
 
 
@@ -40,4 +49,3 @@ PMID:     15699498
 # Hyppönen  was later one of the same authors of the following
 
 <a href="/posts/infants-in-finland-who-got-2000-iu-vitamin-d-daily-grew-to-normal-height" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1509">Infants in Finland who got 2000 IU vitamin D daily grew to normal height – March 2011</a>
-

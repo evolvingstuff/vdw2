@@ -1,17 +1,31 @@
 {
-  "title": "Black women lacking Calcium and Vitamin D weighed more",
-  "slug": "black-women-lacking-calcium-and-vitamin-d-weighed-more",
-  "aliases": [
-    "/Black+women+lacking+Calcium+and+Vitamin+D+weighed+more+\u2013+Aug+2011",
-    "/1932"
-  ],
-  "tiki_page_id": 1932,
-  "date": "2011-08-21",
-  "categories": [
-    "Skin - Dark",
-    "Obesity",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Black women lacking Calcium and Vitamin D weighed more",
+    "slug": "black-women-lacking-calcium-and-vitamin-d-weighed-more",
+    "aliases": [
+        "/Black+women+lacking+Calcium+and+Vitamin+D+weighed+more+\u2013+Aug+2011",
+        "/1932"
+    ],
+    "tiki_page_id": 1932,
+    "date": "2011-08-21",
+    "categories": [
+        "Skin - Dark",
+        "Obesity",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "Obesity",
+        "Skin - Dark",
+        "Vitamin D and Calcium",
+        "autoimmune",
+        "dosage",
+        "health risk",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "obesity",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,18 +1,43 @@
 {
-  "title": "Photosensitivity (sun allergy) and vitamin D",
-  "slug": "photosensitivity-sun-allergy-and-vitamin-d",
-  "aliases": [
-    "/Photosensitivity+sun+allergy+and+vitamin+D",
-    "/1867"
-  ],
-  "tiki_page_id": 1867,
-  "date": "2011-07-27",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Photosensitivity (sun allergy) and vitamin D",
+    "slug": "photosensitivity-sun-allergy-and-vitamin-d",
+    "aliases": [
+        "/Photosensitivity+sun+allergy+and+vitamin+D",
+        "/1867"
+    ],
+    "tiki_page_id": 1867,
+    "date": "2011-07-27",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "acne",
+        "antibiotics",
+        "autoimmune",
+        "blood levels",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "dermatology",
+        "dosage",
+        "high dose",
+        "hives",
+        "immunity",
+        "intervention",
+        "lupus",
+        "melanoma",
+        "pediatric autoimmune",
+        "skin cancer",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "zinc"
+    ]
 }
 
- **Fact:** Some people get reactions from having their skin exposed to the sun
+
+**Fact:** Some people get reactions from having their skin exposed to the sun
 
  **Fact:**  Only some of the causes of photosensitivity are known
 

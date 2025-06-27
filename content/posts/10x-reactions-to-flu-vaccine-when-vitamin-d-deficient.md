@@ -1,16 +1,26 @@
 {
-  "title": "10X reactions to flu vaccine when vitamin D deficient",
-  "slug": "10x-reactions-to-flu-vaccine-when-vitamin-d-deficient",
-  "aliases": [
-    "/10X+reactions+to+flu+vaccine+when+vitamin+D+deficient",
-    "/1234"
-  ],
-  "tiki_page_id": 1234,
-  "date": "2010-12-13",
-  "categories": [
-    "Immunity",
-    "Virus"
-  ]
+    "title": "10X reactions to flu vaccine when vitamin D deficient",
+    "slug": "10x-reactions-to-flu-vaccine-when-vitamin-d-deficient",
+    "aliases": [
+        "/10X+reactions+to+flu+vaccine+when+vitamin+D+deficient",
+        "/1234"
+    ],
+    "tiki_page_id": 1234,
+    "date": "2010-12-13",
+    "categories": [
+        "Immunity",
+        "Virus"
+    ],
+    "tags": [
+        "Immunity",
+        "Virus",
+        "child",
+        "childhood viruses",
+        "influenza",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

@@ -1,15 +1,24 @@
 {
-  "title": "Oxygen uptake associated with higher vitamin D \u2013 up to 50 hours per week",
-  "slug": "oxygen-uptake-associated-with-higher-vitamin-d-up-to-50-hours-per-week",
-  "aliases": [
-    "/Oxygen+uptake+associated+with+higher+vitamin+D+\u2013+up+to+50+hours+per+week+\u2013+Apr+2011",
-    "/1724"
-  ],
-  "tiki_page_id": 1724,
-  "date": "2011-06-13",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "Oxygen uptake associated with higher vitamin D \u2013 up to 50 hours per week",
+    "slug": "oxygen-uptake-associated-with-higher-vitamin-d-up-to-50-hours-per-week",
+    "aliases": [
+        "/Oxygen+uptake+associated+with+higher+vitamin+D+\u2013+up+to+50+hours+per+week+\u2013+Apr+2011",
+        "/1724"
+    ],
+    "tiki_page_id": 1724,
+    "date": "2011-06-13",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "cardiovascular",
+        "life span",
+        "mortality",
+        "statins",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

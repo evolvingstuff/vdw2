@@ -1,15 +1,21 @@
 {
-  "title": "Kidney failure and vitamin D deficiency vicious cycle",
-  "slug": "kidney-failure-and-vitamin-d-deficiency-vicious-cycle",
-  "aliases": [
-    "/Kidney+failure+and+vitamin+D+deficiency+vicious+cycle+\u2013+Jan+2011",
-    "/1360"
-  ],
-  "tiki_page_id": 1360,
-  "date": "2011-01-29",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Kidney failure and vitamin D deficiency vicious cycle",
+    "slug": "kidney-failure-and-vitamin-d-deficiency-vicious-cycle",
+    "aliases": [
+        "/Kidney+failure+and+vitamin+D+deficiency+vicious+cycle+\u2013+Jan+2011",
+        "/1360"
+    ],
+    "tiki_page_id": 1360,
+    "date": "2011-01-29",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "life span",
+        "mortality",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,15 +1,21 @@
 {
-  "title": "Snack fortification \u2013 Calcium and 30000 IU vitamin D monthly helped",
-  "slug": "snack-fortification-calcium-and-30000-iu-vitamin-d-monthly-helped",
-  "aliases": [
-    "/Snack+fortification+\u2013+Calcium+and+30000+IU+vitamin+D+monthly+helped+\u2013+Jan+2011",
-    "/1329"
-  ],
-  "tiki_page_id": 1329,
-  "date": "2011-01-20",
-  "categories": [
-    "Fortification with Vitamin D"
-  ]
+    "title": "Snack fortification \u2013 Calcium and 30000 IU vitamin D monthly helped",
+    "slug": "snack-fortification-calcium-and-30000-iu-vitamin-d-monthly-helped",
+    "aliases": [
+        "/Snack+fortification+\u2013+Calcium+and+30000+IU+vitamin+D+monthly+helped+\u2013+Jan+2011",
+        "/1329"
+    ],
+    "tiki_page_id": 1329,
+    "date": "2011-01-20",
+    "categories": [
+        "Fortification with Vitamin D"
+    ],
+    "tags": [
+        "Fortification with Vitamin D",
+        "child",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

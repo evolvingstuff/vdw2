@@ -1,15 +1,21 @@
 {
-  "title": "Another outdoor sport produces more bone than indoor sport \u2013 vitamin D",
-  "slug": "another-outdoor-sport-produces-more-bone-than-indoor-sport-vitamin-d",
-  "aliases": [
-    "/Another+outdoor+sport+produces+more+bone+than+indoor+sport+\u2013+vitamin+D+Sept+2010",
-    "/2067"
-  ],
-  "tiki_page_id": 2067,
-  "date": "2011-10-05",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "Another outdoor sport produces more bone than indoor sport \u2013 vitamin D",
+    "slug": "another-outdoor-sport-produces-more-bone-than-indoor-sport-vitamin-d",
+    "aliases": [
+        "/Another+outdoor+sport+produces+more+bone+than+indoor+sport+\u2013+vitamin+D+Sept+2010",
+        "/2067"
+    ],
+    "tiki_page_id": 2067,
+    "date": "2011-10-05",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "bone",
+        "bone mineral density",
+        "vitamin d"
+    ]
 }
 
 
@@ -40,4 +46,3 @@ PMID:     20601297
 * [Ballet Dancers with low D had 50 percent more injuries – pilot study Sept 2011](/posts/ballet-dancers-with-low-d-had-50-percent-more-injuries-pilot-study)
 
 * [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)
-

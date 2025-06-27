@@ -1,12 +1,54 @@
 {
-  "title": "Vitamin D deficiency is now being recognised as one of the most common medical conditions worldwide",
-  "slug": "vitamin-d-deficiency-is-now-being-recognised-as-one-of-the-most-common-medical-conditions-worldwide",
-  "aliases": [
-    "/Vitamin+D+deficiency+is+now+being+recognised+as+one+of+the+most+common+medical+conditions+worldwide",
-    "/1926"
-  ],
-  "tiki_page_id": 1926,
-  "date": "2011-08-20"
+    "title": "Vitamin D deficiency is now being recognised as one of the most common medical conditions worldwide",
+    "slug": "vitamin-d-deficiency-is-now-being-recognised-as-one-of-the-most-common-medical-conditions-worldwide",
+    "aliases": [
+        "/Vitamin+D+deficiency+is+now+being+recognised+as+one+of+the+most+common+medical+conditions+worldwide",
+        "/1926"
+    ],
+    "tiki_page_id": 1926,
+    "date": "2011-08-20",
+    "tags": [
+        "asthma",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood pneumonia",
+        "childhood respiratory",
+        "depression",
+        "depression and pregnancy",
+        "dermatology",
+        "diabetes",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "intervention",
+        "metabolic",
+        "mood disorders",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "pain",
+        "pediatric autoimmune",
+        "pneumonia",
+        "pregnancy",
+        "psoriasis",
+        "respiratory",
+        "rheumatoid arthritis",
+        "rickets",
+        "skin cancer",
+        "stroke",
+        "stroke and depression",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -43,4 +85,3 @@ Studies have also found a relationship between vitamin D and multiple sclerosis.
 # <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11">CLICK HERE</a> for more information on Vitamin D
 
 ## <a href="/posts/24-reasons-for-the-vitamin-d-deficiency-epidemic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">24 reasons for the Vitamin D deficiency epidemic</a>
-

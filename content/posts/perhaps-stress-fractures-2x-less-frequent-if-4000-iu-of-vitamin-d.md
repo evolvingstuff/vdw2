@@ -1,16 +1,29 @@
 {
-  "title": "Perhaps Stress fractures 2X less frequent if 4000 IU of vitamin D",
-  "slug": "perhaps-stress-fractures-2x-less-frequent-if-4000-iu-of-vitamin-d",
-  "aliases": [
-    "/Perhaps+Stress+fractures+2X+less+frequent+if+4000+IU+of+vitamin+D+\u2013+June+2011",
-    "/1759"
-  ],
-  "tiki_page_id": 1759,
-  "date": "2011-06-24",
-  "categories": [
-    "Bone - Health",
-    "Sports and Vitamin D"
-  ]
+    "title": "Perhaps Stress fractures 2X less frequent if 4000 IU of vitamin D",
+    "slug": "perhaps-stress-fractures-2x-less-frequent-if-4000-iu-of-vitamin-d",
+    "aliases": [
+        "/Perhaps+Stress+fractures+2X+less+frequent+if+4000+IU+of+vitamin+D+\u2013+June+2011",
+        "/1759"
+    ],
+    "tiki_page_id": 1759,
+    "date": "2011-06-24",
+    "categories": [
+        "Bone - Health",
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Sports and Vitamin D",
+        "bone",
+        "bone stress fractures",
+        "breathing",
+        "cystic fibrosis",
+        "dosage",
+        "falls fractures",
+        "hip fractures",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -75,4 +88,3 @@ Young women with average 50 ng of vitamin D had 1/2 the fractures as those with 
 * [Vitamin D Fortification in Finnish Military - stress fracture.pdf](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=2158) file, not a web page
 
 > PHD and publications by same author June 2012
-

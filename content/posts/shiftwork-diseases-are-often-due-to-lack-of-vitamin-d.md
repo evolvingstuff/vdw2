@@ -1,16 +1,45 @@
 {
-  "title": "Shiftwork diseases are often due to lack of vitamin D",
-  "slug": "shiftwork-diseases-are-often-due-to-lack-of-vitamin-d",
-  "aliases": [
-    "/Shiftwork+diseases+are+often+due+to+lack+of+vitamin+D",
-    "/1800"
-  ],
-  "tiki_page_id": 1800,
-  "date": "2011-07-05",
-  "categories": [
-    "High Risk"
-  ]
+    "title": "Shiftwork diseases are often due to lack of vitamin D",
+    "slug": "shiftwork-diseases-are-often-due-to-lack-of-vitamin-d",
+    "aliases": [
+        "/Shiftwork+diseases+are+often+due+to+lack+of+vitamin+D",
+        "/1800"
+    ],
+    "tiki_page_id": 1800,
+    "date": "2011-07-05",
+    "categories": [
+        "High Risk"
+    ],
+    "tags": [
+        "High Risk",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "breast cancer",
+        "cancer",
+        "diabetes",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "miscarriage",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "pregnancy",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -44,7 +73,7 @@
 
 1. <a href="/posts/working-other-than-dayshift-reduces-vitamin-d-levels-and-bone-mineral-density-an-eases-bone-pain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Working other than dayshift reduces vitamin D levels and Bone Mineral Density and increases bone pain – Aug 2013">Working other than dayshift reduces vitamin D levels and Bone Mineral Density and increases bone pain – Aug 2013</a>
 
-1. <a href="/posts/shift-workers-23-percent-more-likely-to-have-cardiovascular-events-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012">Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012</a>
+1. [Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012](/posts/shift-workers-23-percent-more-likely-to-have-cardiovascular-events-meta-analysis)
 
 1. <a href="/posts/shift-work-increases-breast-cancer-risk-by-22-percent-vitamin-d-is-1-of-5-possible-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift work increases breast cancer risk by 22 percent (Vitamin D is 1 of 5 possible ways) – Oct 2013">Shift work increases breast cancer risk by 22 percent (Vitamin D is 1 of 5 possible ways) – Oct 2013</a>
 

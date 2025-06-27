@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Low levels of vitamin D associated with all cause mortality</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Low levels of vitamin D associated with all cause mortality</h1><time>October 16, 2012</time><div data-pagefind-body><h4 id=circulating-25ohd-dietary-vitamin-d-pth-and-calcium-associations-with-incident-cardiovascular-disease-and-mortality-the-midspan-family-study>Circulating 25OHD, Dietary Vitamin D, PTH, and Calcium Associations with Incident Cardiovascular Disease and Mortality: The MIDSPAN Family Study</h4><p>The Journal of Clinical Endocrinology & Metabolism October 15, 2012 jc.2012-2272</p><p>Paul Welsh, Orla Doolin, Alex McConnachie, Emma Boulton, Geraldine McNeil, Helen Macdonald, Antonia Hardcastle, Carole Hart, Mark Upton, Graham Watt and Naveed Sattar</p><p>Institute of Cardiovascular and Medical Sciences (P.W., E.B., N.S.), Robertson Centre for Biostatistics (O.D., A.M.), Institute of Health and Wellbeing (C.H.), and General Practice and Primary Care (G.W.), University of Glasgow, Glasgow G12 8TA, United Kingdom; Public Health Nutrition Research Group (G.M., H.M., A.H.), University of Aberdeen, Aberdeen AB24 3FX, United Kingdom; and Woodlands Family Medical Centre (M.U.), Stockton-on-Tees TS18 1YE, United Kingdom</p><p>Address all correspondence and requests for reprints to: Dr. Paul Welsh or Professor Naveed Sattar, British Heart Foundation Glasgow Cardiovascular Research Centre, University of Glasgow, 126 University Place, Glasgow, Scotland, United Kingdom G12 8TA. E-mail: <a href=mailto:paul.welsh@glasgow.ac.uk>paul.welsh@glasgow.ac.uk</a> or <a href=mailto:naveed.sattar@glasgow.ac.uk>naveed.sattar@glasgow.ac.uk</a>.</p><p>Context: Observational studies relating circulating 25-hydroxyvitamin D (25OHD) and dietary vitamin D intake to cardiovascular disease (CVD) have reported conflicting results.</p><p>Objective: Our objective was to investigate the association of 25OHD, dietary vitamin D, PTH, and adjusted calcium with CVD and mortality in a Scottish cohort.</p><p>Design and Setting: The MIDSPAN Family Study is a prospective study of 1040 men and 1298 women from the West of Scotland recruited in 1996 and followed up for a median 14.4 yr.</p><p>Participants: Locally resident adult offspring of a general population cohort were recruited from 1972–1976.</p><p>Main Outcome Measures: CVD events (n = 416) and all-cause mortality (n = 100) were evaluated.</p><p>Results: 25OHD was measured using liquid chromatography-tandem mass spectrometry in available plasma (n = 2081).</p><p>Median plasma 25OHD was 18.6 ng/ml, and median vitamin D intake was 3.2 ?g/d (128 IU/d).</p><p>Vitamin D deficiency (25OHD &lt;15 ng/ml) was present in 689 participants (33.1%).</p><p>There was no evidence that dietary vitamin D intake, PTH, or adjusted calcium were associated with CVD events or with mortality.</p><p>Vitamin D deficiency was not associated with CVD (fully adjusted hazard ratio = 1.00; 95% confidence interval = 0.77–1.31).</p><p>Results were similar after excluding patients who reported an activity-limiting longstanding illness at baseline (18.8%) and those taking any vitamin supplements (21.7%).</p><p>However, there was some evidence vitamin D deficiency was associated with <strong>all-cause mortality</strong> (fully adjusted hazard ratio = <strong>2.02</strong> ; 95% confidence interval = 1.17–3.51).</p><p>Conclusion: Vitamin D deficiency was not associated with risk of CVD in this cohort with very low 25OHD.</p><p>Future trials of vitamin D supplementation in middle-aged cohorts should be powered to detect differences in mortality outcomes as well as CVD.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>Cardiovascular</span>
+<span class=tag>dosage</span>
+<span class=tag>life span</span>
+<span class=tag>mortality</span>
+<span class=tag>Mortality and D</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>blood levels, Cardiovascular, dosage, life span, mortality, Mortality and D, vitamin d, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

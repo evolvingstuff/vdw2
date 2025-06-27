@@ -1,16 +1,26 @@
 {
-  "title": "Inflammation or surgery or heart attack decreases measured vitamin D levels",
-  "slug": "inflammation-or-surgery-or-heart-attack-decreases-measured-vitamin-d-levels",
-  "aliases": [
-    "/Inflammation+or+surgery+or+heart+attack+decreases+measured+vitamin+D+levels+\u2013+Mar+2011",
-    "/1491"
-  ],
-  "tiki_page_id": 1491,
-  "date": "2011-03-18",
-  "categories": [
-    "Trauma and surgery",
-    "Inflammation"
-  ]
+    "title": "Inflammation or surgery or heart attack decreases measured vitamin D levels",
+    "slug": "inflammation-or-surgery-or-heart-attack-decreases-measured-vitamin-d-levels",
+    "aliases": [
+        "/Inflammation+or+surgery+or+heart+attack+decreases+measured+vitamin+D+levels+\u2013+Mar+2011",
+        "/1491"
+    ],
+    "tiki_page_id": 1491,
+    "date": "2011-03-18",
+    "categories": [
+        "Trauma and surgery",
+        "Inflammation"
+    ],
+    "tags": [
+        "Inflammation",
+        "Trauma and surgery",
+        "blood levels",
+        "cardiovascular",
+        "heart failure",
+        "life span",
+        "mortality",
+        "vitamin d"
+    ]
 }
 
 
@@ -31,4 +41,4 @@ RESULTS : Acute fluid loading resulted in a  **35% reduction in 25(OH)D3**  (59 
 
 CONCLUSIONS : Hemodilution significantly lowers serum 25(OH)D3 and 1?,25(OH)2D3, which may take up to 24 hours to resolve. Moreover, delayed overshoot of 1?,25(OH)2D3 needs consideration. We urge caution in interpreting serum vitamin D in critically ill patients in the context of major resuscitation, and would advocate repeating the measurement once the effects of the resuscitation have abated.
 
-PMID: 21110839 
+PMID: 21110839

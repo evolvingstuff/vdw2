@@ -1,19 +1,32 @@
 {
-  "title": "5X fewer hip fractures from Parkinson \u2013 Alzheimer \u2013 Stroke with enough sun",
-  "slug": "5x-fewer-hip-fractures-from-parkinson-alzheimer-stroke-with-enough-sun",
-  "aliases": [
-    "/5X+fewer+hip+fractures+from+Parkinson+\u2013+Alzheimer+\u2013+Stroke+with+enough+sun+\u2013+June+2011",
-    "/1751"
-  ],
-  "tiki_page_id": 1751,
-  "date": "2011-06-22",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Bone - Health",
-    "Parkinson",
-    "Cognitive",
-    "Stroke"
-  ]
+    "title": "5X fewer hip fractures from Parkinson \u2013 Alzheimer \u2013 Stroke with enough sun",
+    "slug": "5x-fewer-hip-fractures-from-parkinson-alzheimer-stroke-with-enough-sun",
+    "aliases": [
+        "/5X+fewer+hip+fractures+from+Parkinson+\u2013+Alzheimer+\u2013+Stroke+with+enough+sun+\u2013+June+2011",
+        "/1751"
+    ],
+    "tiki_page_id": 1751,
+    "date": "2011-06-22",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Bone - Health",
+        "Parkinson",
+        "Cognitive",
+        "Stroke"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Cognitive",
+        "Deficiency of Vitamin D",
+        "Parkinson",
+        "Stroke",
+        "bone",
+        "bone mineral density",
+        "cardiovascular",
+        "falls fractures",
+        "hip fractures",
+        "stroke"
+    ]
 }
 
 

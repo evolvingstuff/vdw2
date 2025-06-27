@@ -1,15 +1,20 @@
 {
-  "title": "Alternatives if not swallow pills or not absorb vitamin D",
-  "slug": "alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d",
-  "aliases": [
-    "/Alternatives+if+not+swallow+pills+or+not+absorb+vitamin+D",
-    "/1392"
-  ],
-  "tiki_page_id": 1392,
-  "date": "2011-02-08",
-  "categories": [
-    "Forms of Vitamin D"
-  ]
+    "title": "Alternatives if not swallow pills or not absorb vitamin D",
+    "slug": "alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d",
+    "aliases": [
+        "/Alternatives+if+not+swallow+pills+or+not+absorb+vitamin+D",
+        "/1392"
+    ],
+    "tiki_page_id": 1392,
+    "date": "2011-02-08",
+    "categories": [
+        "Forms of Vitamin D"
+    ],
+    "tags": [
+        "Forms of Vitamin D",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 
@@ -38,14 +43,14 @@
 
 ## See also VitaminDWiki
 
-<a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">Vitamin D from low-cost UVB lamps</a>
+[Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps)
 
 [Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011](/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection)
 
-<a href="/posts/spray-vitamin-d-inside-cheek-in-case-of-emergency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spray vitamin D inside cheek in case of emergency - Nov 2012">Spray vitamin D inside cheek in case of emergency - Nov 2012</a>
+[Spray vitamin D inside cheek in case of emergency - Nov 2012](/posts/spray-vitamin-d-inside-cheek-in-case-of-emergency)
 
 <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
 
 <a href="/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014">Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014</a>
 
-<a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+[Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)

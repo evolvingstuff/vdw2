@@ -1,16 +1,32 @@
 {
-  "title": "Increasing vitamin D levels will probably reduce CVD and mortality",
-  "slug": "increasing-vitamin-d-levels-will-probably-reduce-cvd-and-mortality",
-  "aliases": [
-    "/Increasing+vitamin+D+levels+will+probably+reduce+CVD+and+mortality+\u2013+June+2011",
-    "/1749"
-  ],
-  "tiki_page_id": 1749,
-  "date": "2011-06-22",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Increasing vitamin D levels will probably reduce CVD and mortality",
+    "slug": "increasing-vitamin-d-levels-will-probably-reduce-cvd-and-mortality",
+    "aliases": [
+        "/Increasing+vitamin+D+levels+will+probably+reduce+CVD+and+mortality+\u2013+June+2011",
+        "/1749"
+    ],
+    "tiki_page_id": 1749,
+    "date": "2011-06-22",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "bone",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "hypertension",
+        "life span",
+        "metabolic",
+        "mortality",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 
@@ -47,4 +63,3 @@ PMID:     21682758
 # See also VitaminDWiki
 
 * [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
-

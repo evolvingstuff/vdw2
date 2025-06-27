@@ -1,17 +1,27 @@
 {
-  "title": "Colon polyps reduced 15 percent by increasing vitamin D by 20 ng \u2013 meta-analysis",
-  "slug": "colon-polyps-reduced-15-percent-by-increasing-vitamin-d-by-20-ng-meta-analysis",
-  "aliases": [
-    "/Colon+polyps+reduced+15+percent+by+increasing+vitamin+D+by+20+ng+\u2013+meta-analysis+June+2011",
-    "/1735"
-  ],
-  "tiki_page_id": 1735,
-  "date": "2011-06-16",
-  "categories": [
-    "Cancer - Colon",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Colon polyps reduced 15 percent by increasing vitamin D by 20 ng \u2013 meta-analysis",
+    "slug": "colon-polyps-reduced-15-percent-by-increasing-vitamin-d-by-20-ng-meta-analysis",
+    "aliases": [
+        "/Colon+polyps+reduced+15+percent+by+increasing+vitamin+D+by+20+ng+\u2013+meta-analysis+June+2011",
+        "/1735"
+    ],
+    "tiki_page_id": 1735,
+    "date": "2011-06-16",
+    "categories": [
+        "Cancer - Colon",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "Meta-analysis of Vitamin D",
+        "blood levels",
+        "cancer",
+        "colon cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -68,4 +78,3 @@ A benign epithelial tumor having a glandular origin and structure.
    * Yes, we know that adenoma is not cancer, but it is closely related
 
 * [Google search VitaminDWiki for (colon OR colorectal) Adenoma](http://www.google.com/custom?hl=en&client=google-coop&cof=FORID:13%3BAH:left%3BCX:Search%2520Vitamin%2520D%2520Wiki%3BL:http://www.google.com/intl/en/images/logos/custom_search_logo_sm.gif%3BLH:30%3BLP:1%3BVLC:%23551a8b%3BDIV:%23cccccc%3B&cx=001215644404345293668:3di8vufs_m4&adkw=AELymgXCDfmikbd6hKah0CpNQbtPAW5F89JevX6P9Vd0Btijxgd2CjccgI-baWMv6Kvbm2_aibM3durOy70A_qVhYLSHieRkah49G4l1WlsglU5ZOrzxwLs&boostcse=0&ei=lgf6TbD3PJLKiAK50rzjBA&q=%28colon+OR+colorectal%29+Adenoma&start=0&sa=N) 20 items as of June 2011
-

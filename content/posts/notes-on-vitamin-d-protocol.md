@@ -1,12 +1,18 @@
 {
-  "title": "Notes on vitamin D protocol",
-  "slug": "notes-on-vitamin-d-protocol",
-  "aliases": [
-    "/Notes+on+vitamin+D+protocol",
-    "/1215"
-  ],
-  "tiki_page_id": 1215,
-  "date": "2010-12-08"
+    "title": "Notes on vitamin D protocol",
+    "slug": "notes-on-vitamin-d-protocol",
+    "aliases": [
+        "/Notes+on+vitamin+D+protocol",
+        "/1215"
+    ],
+    "tiki_page_id": 1215,
+    "date": "2010-12-08",
+    "tags": [
+        "dosage",
+        "magnesium",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -79,4 +85,3 @@
 * Take a single dose of about 50,000 IU of vitamin D3 and experience the benefits in 5-30 days
 
    * Will provide a summary of why a single dose of 50,000 is not a risk, with links to many references
-

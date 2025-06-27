@@ -1,17 +1,45 @@
 {
-  "title": "Multiple Sclerosis etc. strongly associated with Epstein-Barr virus (and vitamin D)",
-  "slug": "multiple-sclerosis-etc-strongly-associated-with-epstein-barr-virus-and-vitamin-d",
-  "aliases": [
-    "/Multiple+Sclerosis+etc+strongly+associated+with+Epstein-Barr+virus+and+vitamin+D",
-    "/1950"
-  ],
-  "tiki_page_id": 1950,
-  "date": "2011-08-25",
-  "categories": [
-    "Multiple Sclerosis",
-    "Virus"
-  ]
+    "title": "Multiple Sclerosis etc. strongly associated with Epstein-Barr virus (and vitamin D)",
+    "slug": "multiple-sclerosis-etc-strongly-associated-with-epstein-barr-virus-and-vitamin-d",
+    "aliases": [
+        "/Multiple+Sclerosis+etc+strongly+associated+with+Epstein-Barr+virus+and+vitamin+D",
+        "/1950"
+    ],
+    "tiki_page_id": 1950,
+    "date": "2011-08-25",
+    "categories": [
+        "Multiple Sclerosis",
+        "Virus"
+    ],
+    "tags": [
+        "EBV",
+        "Multiple Sclerosis",
+        "Virus",
+        "anxiety",
+        "asthma",
+        "autoimmune",
+        "back pain",
+        "breathing",
+        "cancer",
+        "dosage",
+        "health risk",
+        "high dose",
+        "immunity",
+        "intervention",
+        "mononucleosis",
+        "mood disorders",
+        "multiple sclerosis",
+        "neurological",
+        "pain",
+        "smoking",
+        "therapeutic intervention",
+        "vertigo",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -114,7 +142,7 @@ High-dose vitamin D3 supplementation selectively reduces anti-EBNA-1 antibody le
 
 * <a href="/posts/infectious-mononucleosis-virus-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infectious Mononucleosis (virus) and Vitamin D - many studies">Infectious Mononucleosis (virus) and Vitamin D - many studies</a>
 
-* <a href="/posts/infectious-mononucleosis-and-lack-of-uv-linearly-linked-to-ms-in-england" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011">Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011</a>
+* [Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011](/posts/infectious-mononucleosis-and-lack-of-uv-linearly-linked-to-ms-in-england)
 
 ---
 

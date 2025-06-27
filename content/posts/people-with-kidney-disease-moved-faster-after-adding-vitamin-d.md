@@ -1,16 +1,28 @@
 {
-  "title": "People with kidney disease moved faster after adding vitamin D",
-  "slug": "people-with-kidney-disease-moved-faster-after-adding-vitamin-d",
-  "aliases": [
-    "/People+with+kidney+disease+moved+faster+after+adding+vitamin+D+\u2013+Aug+2011",
-    "/1883"
-  ],
-  "tiki_page_id": 1883,
-  "date": "2011-08-02",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "People with kidney disease moved faster after adding vitamin D",
+    "slug": "people-with-kidney-disease-moved-faster-after-adding-vitamin-d",
+    "aliases": [
+        "/People+with+kidney+disease+moved+faster+after+adding+vitamin+D+\u2013+Aug+2011",
+        "/1883"
+    ],
+    "tiki_page_id": 1883,
+    "date": "2011-08-02",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "CKD",
+        "Kidney",
+        "blood levels",
+        "dialysis",
+        "hemodialysis",
+        "kidney",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -65,4 +77,3 @@ PMID:     21762642
 * [Each 10 ng increase in vitamin D decreased kidney disease death by 14 percent – May 2011](/posts/each-10-ng-increase-in-vitamin-d-decreased-kidney-disease-death-by-14-percent) Meta-analysis
 
 {IMG(attId="631")}{IMG}
-

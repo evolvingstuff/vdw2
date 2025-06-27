@@ -1,15 +1,22 @@
 {
-  "title": "24X less Calcification of Aorta for PAD with modest level of vitamin D",
-  "slug": "24x-less-calcification-of-aorta-for-pad-with-modest-level-of-vitamin-d",
-  "aliases": [
-    "/24X+less+Calcification+of+Aorta+for+PAD+with+modest+level+of+vitamin+D+\u2013+Aug+2011",
-    "/1955"
-  ],
-  "tiki_page_id": 1955,
-  "date": "2011-08-26",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "24X less Calcification of Aorta for PAD with modest level of vitamin D",
+    "slug": "24x-less-calcification-of-aorta-for-pad-with-modest-level-of-vitamin-d",
+    "aliases": [
+        "/24X+less+Calcification+of+Aorta+for+PAD+with+modest+level+of+vitamin+D+\u2013+Aug+2011",
+        "/1955"
+    ],
+    "tiki_page_id": 1955,
+    "date": "2011-08-26",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "cholesterol",
+        "health risk",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,18 +1,40 @@
 {
-  "title": "Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011",
-  "slug": "turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011",
-  "aliases": [
-    "/Turkey+gave+400+IU+vitamin+D+to+all+infants+and+reduced+Rickets+by+60X+-+2011",
-    "/1675"
-  ],
-  "tiki_page_id": 1675,
-  "date": "2011-05-29",
-  "categories": [
-    "Rickets",
-    "Middle East",
-    "Infant-Child",
-    "Consensus"
-  ]
+    "title": "Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011",
+    "slug": "turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011",
+    "aliases": [
+        "/Turkey+gave+400+IU+vitamin+D+to+all+infants+and+reduced+Rickets+by+60X+-+2011",
+        "/1675"
+    ],
+    "tiki_page_id": 1675,
+    "date": "2011-05-29",
+    "categories": [
+        "Rickets",
+        "Middle East",
+        "Infant-Child",
+        "Consensus"
+    ],
+    "tags": [
+        "Consensus",
+        "Infant-Child",
+        "Middle East",
+        "Rickets",
+        "bone",
+        "bone cancer",
+        "breastfed",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "health risk",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "pollution",
+        "pregnancy",
+        "rickets",
+        "skin cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

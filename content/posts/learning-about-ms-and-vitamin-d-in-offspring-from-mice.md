@@ -1,16 +1,28 @@
 {
-  "title": "Learning about MS and vitamin D in offspring from mice",
-  "slug": "learning-about-ms-and-vitamin-d-in-offspring-from-mice",
-  "aliases": [
-    "/Learning+about+MS+and+vitamin+D+in+offspring+from+mice+\u2013+Sept+2011",
-    "/2050"
-  ],
-  "tiki_page_id": 2050,
-  "date": "2011-09-28",
-  "categories": [
-    "Multiple Sclerosis",
-    "Genetics"
-  ]
+    "title": "Learning about MS and vitamin D in offspring from mice",
+    "slug": "learning-about-ms-and-vitamin-d-in-offspring-from-mice",
+    "aliases": [
+        "/Learning+about+MS+and+vitamin+D+in+offspring+from+mice+\u2013+Sept+2011",
+        "/2050"
+    ],
+    "tiki_page_id": 2050,
+    "date": "2011-09-28",
+    "categories": [
+        "Multiple Sclerosis",
+        "Genetics"
+    ],
+    "tags": [
+        "Genetics",
+        "Multiple Sclerosis",
+        "autoimmune",
+        "genetics",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -44,4 +56,4 @@ PMID:     21930286
 
 * <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 691">Overview MS and Vitamin D</a>
 
-* <a href="/posts/higher-weight-and-blood-pressure-in-second-generation-from-mother-mouse-who-had-low-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Higher weight and blood pressure in second generation from mother mouse who had low vitamin D – 2012">Higher weight and blood pressure in second generation from mother mouse who had low vitamin D – 2012</a>
+* [Higher weight and blood pressure in second generation from mother mouse who had low vitamin D – 2012](/posts/higher-weight-and-blood-pressure-in-second-generation-from-mother-mouse-who-had-low-vitamin-d-2012)

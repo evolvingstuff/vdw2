@@ -1,16 +1,24 @@
 {
-  "title": "Hawaiians had 39 ng of vitamin D",
-  "slug": "hawaiians-had-39-ng-of-vitamin-d",
-  "aliases": [
-    "/Hawaiians+had+39+ng+of+vitamin+D+-+July+2011",
-    "/1853"
-  ],
-  "tiki_page_id": 1853,
-  "date": "2011-07-22",
-  "categories": [
-    "Noontime sun and D",
-    "Optimum"
-  ]
+    "title": "Hawaiians had 39 ng of vitamin D",
+    "slug": "hawaiians-had-39-ng-of-vitamin-d",
+    "aliases": [
+        "/Hawaiians+had+39+ng+of+vitamin+D+-+July+2011",
+        "/1853"
+    ],
+    "tiki_page_id": 1853,
+    "date": "2011-07-22",
+    "categories": [
+        "Noontime sun and D",
+        "Optimum"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "Optimum",
+        "blood levels",
+        "child",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -64,8 +72,8 @@ The point at which 95% of the subjects were above 80 nmol/L occurred at a sun in
 
 * [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
-* <a href="/posts/traditionally-living-africans-have-46-ng-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2336">Traditionally living Africans have 46 ng vitamin D levels – Jan 2012</a>
+* [Traditionally living Africans have 46 ng vitamin D levels – Jan 2012](/posts/traditionally-living-africans-have-46-ng-vitamin-d-levels)
 
-* <a href="/posts/chart-of-vitamin-d-levels-vs-race" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013">Chart of Vitamin D levels vs race - April 2013</a> has the following
+* [Chart of Vitamin D levels vs race - April 2013](/posts/chart-of-vitamin-d-levels-vs-race) has the following
 
 <img src="/attachments/d3.mock.jpg" alt="image">

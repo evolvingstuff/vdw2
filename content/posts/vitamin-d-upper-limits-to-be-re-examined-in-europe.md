@@ -1,12 +1,16 @@
 {
-  "title": "Vitamin D upper limits to be re-examined in Europe",
-  "slug": "vitamin-d-upper-limits-to-be-re-examined-in-europe",
-  "aliases": [
-    "/Vitamin+D+upper+limits+to+be+re-examined+in+Europe+\u2013+Sept+2011",
-    "/2016"
-  ],
-  "tiki_page_id": 2016,
-  "date": "2011-09-19"
+    "title": "Vitamin D upper limits to be re-examined in Europe",
+    "slug": "vitamin-d-upper-limits-to-be-re-examined-in-europe",
+    "aliases": [
+        "/Vitamin+D+upper+limits+to+be+re-examined+in+Europe+\u2013+Sept+2011",
+        "/2016"
+    ],
+    "tiki_page_id": 2016,
+    "date": "2011-09-19",
+    "tags": [
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 
@@ -33,4 +37,3 @@ EFSA’s precursor, the Scientific Committee on Food (SCF) issued USL opinions f
 * <a href="/posts/vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations</a> from around the world: IU and ng
 
 * [IoM again fails to look at interactions - Nov 2010](/posts/iom-again-fails-to-look-at-interactions)
-

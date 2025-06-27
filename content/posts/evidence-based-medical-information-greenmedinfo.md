@@ -1,16 +1,25 @@
 {
-  "title": "Evidence based medical information - GreenMedinfo",
-  "slug": "evidence-based-medical-information-greenmedinfo",
-  "aliases": [
-    "/Evidence+based+medical+information+-+GreenMedinfo",
-    "/1513"
-  ],
-  "tiki_page_id": 1513,
-  "date": "2011-03-26",
-  "categories": [
-    "Evidence for D",
-    "Intervention"
-  ]
+    "title": "Evidence based medical information - GreenMedinfo",
+    "slug": "evidence-based-medical-information-greenmedinfo",
+    "aliases": [
+        "/Evidence+based+medical+information+-+GreenMedinfo",
+        "/1513"
+    ],
+    "tiki_page_id": 1513,
+    "date": "2011-03-26",
+    "categories": [
+        "Evidence for D",
+        "Intervention"
+    ],
+    "tags": [
+        "Evidence for D",
+        "Intervention",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -63,4 +72,3 @@
 * [All items with Evidence for D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=86&sort_mode=created_desc)
 
 * [Medical Publications for Metabolic Syndrome etc. - GreenMed Sept 2011](/posts/medical-publications-for-metabolic-syndrome-etc-greenmed)
-

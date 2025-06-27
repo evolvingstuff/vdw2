@@ -1,16 +1,55 @@
 {
-  "title": "Perhaps more benefits from UV than just vitamin D - 2006",
-  "slug": "perhaps-more-benefits-from-uv-than-just-vitamin-d-2006",
-  "aliases": [
-    "/Perhaps+more+benefits+from+UV+than+just+vitamin+D+-+2006",
-    "/1235"
-  ],
-  "tiki_page_id": 1235,
-  "date": "2010-12-13",
-  "categories": [
-    "UV and Vitamin D"
-  ]
+    "title": "Perhaps more benefits from UV than just vitamin D - 2006",
+    "slug": "perhaps-more-benefits-from-uv-than-just-vitamin-d-2006",
+    "aliases": [
+        "/Perhaps+more+benefits+from+UV+than+just+vitamin+D+-+2006",
+        "/1235"
+    ],
+    "tiki_page_id": 1235,
+    "date": "2010-12-13",
+    "categories": [
+        "UV and Vitamin D"
+    ],
+    "tags": [
+        "UV and Vitamin D",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "caesarean",
+        "cancer",
+        "cataracts",
+        "child",
+        "childhood cancer",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "fertility sperm",
+        "gestational diabetes",
+        "high dose",
+        "hip fractures",
+        "intervention",
+        "life span",
+        "melanoma",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "rickets",
+        "skin cancer",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "vision",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Considering the potential benefits as well as adverse effects of sun exposure: can all the potential benefits be provided by oral vitamin D supplementation?
 
@@ -76,7 +115,7 @@ Exposure to ultraviolet radiation (UVR) is associated with both adverse and bene
 
 * <a href="/posts/mouse-ms-uvb-but-not-vitamin-d-reduced-incidence" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 286">Mouse MS: UVB but not Vitamin D reduced incidence - April 2010</a>
 
-* <a href="/posts/hypothesis-sun-provides-more-than-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2967">Hypothesis: Sun provides more than vitamin D – June 2012</a>
+* [Hypothesis: Sun provides more than vitamin D – June 2012](/posts/hypothesis-sun-provides-more-than-vitamin-d)
 
  **Abstracts of other papers of interest co-authored by LUCAS - - - - - - - -** 
 
@@ -130,5 +169,4 @@ Lai JK, Lucas RM, Clements MS, Harrison SL, Banks E.
 
 National Centre for Epidemiology and Population Health, The Australian National University, Canberra, ACT, Australia. jeffrey.lai@anu.edu.au
 
-The use of vitamin D testing has grown rapidly in the recent times as a result of increased interest in the role of vitamin D in health. Although the generally accepted measure of vitamin D status is circulating 25(OH)D concentration, there is little consensus on which assay method should be used. Commonly used assays include competitive protein-binding assay, RIA, enzyme immunoassay, chemiluminescence immunoassays, HPLC, and LC-MS/MS, each with its own advantages and disadvantages. However, there is significant interassay and interlaboratory variability in measurements. Our simulation of the published data showed that using a deficiency cut-point of 50 nmol/L, 57% of samples assessed using a chemiluminescence immunoassay were classified as deficient compared with 41% of samples assessed using LC-MS/MS; a 20% misclassification rate. Similar rates of misclassification were seen at 75 nmol/L. This has implications for clinical practice and decision limits for vitamin D supplementation, suggesting that cut-points should be assay specific rather than universal and that greater harmonization between laboratories is required. Newer assays using alternative biological samples to determine the circulating 25(OH)D have been proposed and advances in the genetics of vitamin D and the role of vitamin D-binding protein may improve future assay accuracy. PMID: 20397196 
-
+The use of vitamin D testing has grown rapidly in the recent times as a result of increased interest in the role of vitamin D in health. Although the generally accepted measure of vitamin D status is circulating 25(OH)D concentration, there is little consensus on which assay method should be used. Commonly used assays include competitive protein-binding assay, RIA, enzyme immunoassay, chemiluminescence immunoassays, HPLC, and LC-MS/MS, each with its own advantages and disadvantages. However, there is significant interassay and interlaboratory variability in measurements. Our simulation of the published data showed that using a deficiency cut-point of 50 nmol/L, 57% of samples assessed using a chemiluminescence immunoassay were classified as deficient compared with 41% of samples assessed using LC-MS/MS; a 20% misclassification rate. Similar rates of misclassification were seen at 75 nmol/L. This has implications for clinical practice and decision limits for vitamin D supplementation, suggesting that cut-points should be assay specific rather than universal and that greater harmonization between laboratories is required. Newer assays using alternative biological samples to determine the circulating 25(OH)D have been proposed and advances in the genetics of vitamin D and the role of vitamin D-binding protein may improve future assay accuracy. PMID: 20397196

@@ -1,0 +1,67 @@
+<!doctype html><html><head><meta charset=utf-8><title>Infectious mononucleosis and lack of UV linearly linked to MS in England</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Infectious mononucleosis and lack of UV linearly linked to MS in England</h1><time>December 8, 2011</time><div data-pagefind-body><h4 id=relationship-of-uv-exposure-to-prevalence-of-multiple-sclerosis-in-england>Relationship of UV exposure to prevalence of multiple sclerosis in England</h4><p>Neurology. 2011 April 19; 76(16): 1410–1414. <a href=https://doi.org/10.1212/WNL.0b013e318216715e>doi: 10.1212/WNL.0b013e318216715e</a></p><p>S.V. Ramagopalan, DPhil, A.E. Handel, BMBCh, G. Giovannoni, MD, S. Rutherford Siegel, PhD, G.C. Ebers, MD, FMedSci, <a href=mailto:george.ebers@clneuro.ox.ac.uk>george.ebers@clneuro.ox.ac.uk</a> and G. Chaplin, MS <a href=mailto:guc5@psu.edu>guc5@psu.edu</a></p><p>From the Wellcome Trust Centre for Human Genetics (S.V.R., A.E.H., G.C.E.) and Department of Clinical Neurology (S.V.R., A.E.H., G.C.E.), University of Oxford, Oxford; Blizard Institute of Cell and Molecular Science (S.V.R., G.G.), Queen Mary University of London, Barts and The London School of Medicine and Dentistry, London, UK; and Department of Anthropology (S.R.S., G.C.), The Pennsylvania State University, Philadelphia.</p><p>Objective: To assess the potential relationship of ultraviolet B radiation (UVB) and Epstein-Barr virus (EBV) exposure in explaining the period prevalence of multiple sclerosis (MS) in England.</p><p>Methods: English national Hospital Episode Statistics covering all admissions to National Health Service hospitals in England in the 7 years from 1998 to 2005 were used to obtain the period prevalences of MS and infectious mononucleosis (IM) in England. The United States National Aeronautics and Space Administration&rsquo;s data on UVB intensity for England from the Nimbus 7 satellite was collected. The relationships among the 3 variables (MS prevalence, IM prevalence, and UVB intensity) were investigated.</p><p>Results: The regression of MS against UVB intensity for all seasons had an r2 of 0.61; when including the interaction of IM with seasonal UVB, the r2 rose to 0.72.</p><p>Conclusions: UVB exposure and IM together can explain a substantial proportion of the variance of MS. The effect of UVB on generating vitamin D seems the most likely candidate for explaining its relationship with MS. There is a pressing need to investigate the role of vitamin D and EBV and how they might interact to influence MS risk to identify potential prevention strategies.</p><h4 id=spantiki-download_filephpfileid2017span-for-pdf><span>[tiki-download_file.php?fileId=2017]</span> for PDF</h4><h5 id=graph-from-pdf-of-ms-vs--infectious-mononucleosis--x-uvb>Graph from PDF of MS vs (Infectious mononucleosis X UVB)</h5><p>{IMG(attId=&ldquo;926&rdquo;)}{IMG}</p><hr><h4 id=see-also-vitamindwiki>See also VitaminDWiki</h4><ul><li><p><a href=/posts/overview-of-ms-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 691">Overview of MS and Vitamin D</a></p></li><li><p><a href=/posts/mutation-of-vitamin-d-gene-is-strongly-tied-to-ms style=color:red;text-decoration:underline title="This link has an unknown page_id: 2228">Mutation of Vitamin D gene is strongly tied to MS – Dec 2011</a> another article co-authored by Ebers</p></li><li><p><a href=/posts/yet-another-virus-associated-with-low-vitamin-d-mononucleosis style=color:red;text-decoration:underline title="This post/category does not exist yet: Yet another virus associated with low vitamin D – mononucleosis – Aug 2016">Yet another virus associated with low vitamin D – mononucleosis – Aug 2016</a></p></li><li><p><a href=/posts/multiple-sclerosis-etc-strongly-associated-with-epstein-barr-virus-and-vitamin-d>Multiple Sclerosis etc. strongly associated with Epstein-Barr virus (and vitamin D)</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>EBV</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>mononucleosis</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>Multiple Sclerosis</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>virus</span>
+<span class=tag>Virus</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span></div><div data-pagefind-meta=tags hidden>autoimmune, EBV, high dose, intervention, mononucleosis, multiple sclerosis, Multiple Sclerosis, therapeutic intervention, virus, Virus, vitamin d, vitamin d and viruses</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

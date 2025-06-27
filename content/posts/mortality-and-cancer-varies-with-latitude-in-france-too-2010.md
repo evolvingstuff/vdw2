@@ -1,17 +1,31 @@
 {
-  "title": "Mortality and Cancer varies with latitude in France too \u2013 2010",
-  "slug": "mortality-and-cancer-varies-with-latitude-in-france-too-2010",
-  "aliases": [
-    "/Mortality+and+Cancer+varies+with+latitude+in+France+too+\u2013+2010",
-    "/1615"
-  ],
-  "tiki_page_id": 1615,
-  "date": "2011-05-08",
-  "categories": [
-    "Mortality and D",
-    "Cancer",
-    "Vitamin D in Europe"
-  ]
+    "title": "Mortality and Cancer varies with latitude in France too \u2013 2010",
+    "slug": "mortality-and-cancer-varies-with-latitude-in-france-too-2010",
+    "aliases": [
+        "/Mortality+and+Cancer+varies+with+latitude+in+France+too+\u2013+2010",
+        "/1615"
+    ],
+    "tiki_page_id": 1615,
+    "date": "2011-05-08",
+    "categories": [
+        "Mortality and D",
+        "Cancer",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Cancer",
+        "Mortality and D",
+        "Vitamin D in Europe",
+        "cancer",
+        "dosage",
+        "health risk",
+        "life span",
+        "lung cancer",
+        "mortality",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

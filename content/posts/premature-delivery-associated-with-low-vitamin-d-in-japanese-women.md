@@ -1,15 +1,29 @@
 {
-  "title": "Premature delivery associated with low vitamin D in Japanese women",
-  "slug": "premature-delivery-associated-with-low-vitamin-d-in-japanese-women",
-  "aliases": [
-    "/Premature+delivery+associated+with+low+vitamin+D+in+Japanese+women+\u2013+Mar+2011",
-    "/1464"
-  ],
-  "tiki_page_id": 1464,
-  "date": "2011-03-09",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Premature delivery associated with low vitamin D in Japanese women",
+    "slug": "premature-delivery-associated-with-low-vitamin-d-in-japanese-women",
+    "aliases": [
+        "/Premature+delivery+associated+with+low+vitamin+D+in+Japanese+women+\u2013+Mar+2011",
+        "/1464"
+    ],
+    "tiki_page_id": 1464,
+    "date": "2011-03-09",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "child",
+        "falls fractures",
+        "low birth weight",
+        "preeclampsia",
+        "pregnancy",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -49,7 +63,7 @@ Bullet points:
 
 ## See also VitaminDWiki
 
-* <a href="/posts/preemies-have-increased-need-for-vitamin-d-and-calcium-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013">Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013</a>
+* [Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013](/posts/preemies-have-increased-need-for-vitamin-d-and-calcium-rickets)
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a> Vitamin D: Before, During, and After Pregnancy
 
@@ -66,4 +80,3 @@ Bullet points:
 # On the web
 
 * [Death rate 2X higher for 37 vs 40 week pregnancy](http://medicalxpress.com/news/2011-05-newborn-death-pregancy-weeks.html) May 2011
-

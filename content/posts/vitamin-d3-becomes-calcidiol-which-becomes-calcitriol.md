@@ -1,18 +1,39 @@
 {
-  "title": "Vitamin D3 becomes Calcidiol which becomes Calcitriol",
-  "slug": "vitamin-d3-becomes-calcidiol-which-becomes-calcitriol",
-  "aliases": [
-    "/Vitamin+D3+becomes+Calcidiol+which+becomes+Calcitriol",
-    "/2127"
-  ],
-  "tiki_page_id": 2127,
-  "date": "2011-10-29",
-  "categories": [
-    "Kidney",
-    "Forms of Vitamin D",
-    "Calcitriol",
-    "Calcidiol"
-  ]
+    "title": "Vitamin D3 becomes Calcidiol which becomes Calcitriol",
+    "slug": "vitamin-d3-becomes-calcidiol-which-becomes-calcitriol",
+    "aliases": [
+        "/Vitamin+D3+becomes+Calcidiol+which+becomes+Calcitriol",
+        "/2127"
+    ],
+    "tiki_page_id": 2127,
+    "date": "2011-10-29",
+    "categories": [
+        "Kidney",
+        "Forms of Vitamin D",
+        "Calcitriol",
+        "Calcidiol"
+    ],
+    "tags": [
+        "Calcidiol",
+        "Calcitriol",
+        "Forms of Vitamin D",
+        "Kidney",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "cholesterol",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "immunity",
+        "intervention",
+        "multiple sclerosis",
+        "osteoporosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

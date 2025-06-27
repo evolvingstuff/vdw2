@@ -1,16 +1,21 @@
 {
-  "title": "Sales of vitamin D up 22% from 2009 to 2010",
-  "slug": "sales-of-vitamin-d-up-22-percent-from-2009-to-2010",
-  "aliases": [
-    "/Sales+of+vitamin+D+up+22+from+2009+to+2010",
-    "/1737"
-  ],
-  "tiki_page_id": 1737,
-  "date": "2011-06-16",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "Sales of vitamin D up 22% from 2009 to 2010",
+    "slug": "sales-of-vitamin-d-up-22-percent-from-2009-to-2010",
+    "aliases": [
+        "/Sales+of+vitamin+D+up+22+from+2009+to+2010",
+        "/1737"
+    ],
+    "tiki_page_id": 1737,
+    "date": "2011-06-16",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

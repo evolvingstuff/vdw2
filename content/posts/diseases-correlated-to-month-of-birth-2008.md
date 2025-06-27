@@ -1,17 +1,31 @@
 {
-  "title": "Diseases correlated to month of birth \u2013 2008",
-  "slug": "diseases-correlated-to-month-of-birth-2008",
-  "aliases": [
-    "/Diseases+correlated+to+month+of+birth+\u2013+2008",
-    "/1715"
-  ],
-  "tiki_page_id": 1715,
-  "date": "2011-06-09",
-  "categories": [
-    "Pregnancy",
-    "Health",
-    "Season of Birth"
-  ]
+    "title": "Diseases correlated to month of birth \u2013 2008",
+    "slug": "diseases-correlated-to-month-of-birth-2008",
+    "aliases": [
+        "/Diseases+correlated+to+month+of+birth+\u2013+2008",
+        "/1715"
+    ],
+    "tiki_page_id": 1715,
+    "date": "2011-06-09",
+    "categories": [
+        "Pregnancy",
+        "Health",
+        "Season of Birth"
+    ],
+    "tags": [
+        "Health",
+        "Pregnancy",
+        "Season of Birth",
+        "autoimmune",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

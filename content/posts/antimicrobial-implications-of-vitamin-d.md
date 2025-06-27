@@ -1,17 +1,32 @@
 {
-  "title": "Antimicrobial implications of vitamin D",
-  "slug": "antimicrobial-implications-of-vitamin-d",
-  "aliases": [
-    "/Antimicrobial+implications+of+vitamin+D+\u2013+Oct+2011",
-    "/1473"
-  ],
-  "tiki_page_id": 1473,
-  "date": "2011-03-13",
-  "categories": [
-    "Immunity",
-    "Antibiotics, probiotics"
-  ]
+    "title": "Antimicrobial implications of vitamin D",
+    "slug": "antimicrobial-implications-of-vitamin-d",
+    "aliases": [
+        "/Antimicrobial+implications+of+vitamin+D+\u2013+Oct+2011",
+        "/1473"
+    ],
+    "tiki_page_id": 1473,
+    "date": "2011-03-13",
+    "categories": [
+        "Immunity",
+        "Antibiotics, probiotics"
+    ],
+    "tags": [
+        "Antibiotics, probiotics",
+        "Immunity",
+        "acne",
+        "antibiotics",
+        "atopic dermatitis",
+        "dermatology",
+        "immunity",
+        "life span",
+        "mortality",
+        "psoriasis",
+        "vitamin d",
+        "vitiligo"
+    ]
 }
+
 
 Dermato-Endocreinology, Volume 3, Issue 4   October/November/December 2011
 
@@ -43,4 +58,4 @@ A vitamin D replete state appears to benefit most infections, with the  **possib
 
 {IMG(attId="1423" width="600")}{IMG}
 
- **<span style="color:#00F;">PDF is attached at the bottom of this page</span>** 
+ **<span style="color:#00F;">PDF is attached at the bottom of this page</span>**

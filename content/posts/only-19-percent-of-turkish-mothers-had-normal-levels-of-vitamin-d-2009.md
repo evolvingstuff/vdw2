@@ -1,16 +1,24 @@
 {
-  "title": "Only 19 percent of Turkish mothers had normal levels of vitamin D \u2013 2009",
-  "slug": "only-19-percent-of-turkish-mothers-had-normal-levels-of-vitamin-d-2009",
-  "aliases": [
-    "/Only+19+percent+of+Turkish+mothers+had+normal+levels+of+vitamin+D+\u2013+2009",
-    "/1364"
-  ],
-  "tiki_page_id": 1364,
-  "date": "2011-01-30",
-  "categories": [
-    "Pregnancy",
-    "Middle East"
-  ]
+    "title": "Only 19 percent of Turkish mothers had normal levels of vitamin D \u2013 2009",
+    "slug": "only-19-percent-of-turkish-mothers-had-normal-levels-of-vitamin-d-2009",
+    "aliases": [
+        "/Only+19+percent+of+Turkish+mothers+had+normal+levels+of+vitamin+D+\u2013+2009",
+        "/1364"
+    ],
+    "tiki_page_id": 1364,
+    "date": "2011-01-30",
+    "categories": [
+        "Pregnancy",
+        "Middle East"
+    ],
+    "tags": [
+        "Middle East",
+        "Pregnancy",
+        "blood levels",
+        "child",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -41,4 +49,3 @@ Results: Severe VDD was found in 27% of the mothers, and moderate deficiency in 
 Conclusion: The study has shown that in Turkey VDD is an important problem in women of reproductive age, in mothers and their neonates. The 25(OH)D levels obtained from the cord may serve as a guide in the determination of the high risk groups.
 
 Conflict of interest:None declared.
-

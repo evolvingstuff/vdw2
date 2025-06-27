@@ -1,15 +1,21 @@
 {
-  "title": "Need lots of UV AND vitamin D to reduce risk of breast cancer",
-  "slug": "need-lots-of-uv-and-vitamin-d-to-reduce-risk-of-breast-cancer",
-  "aliases": [
-    "/Need+lots+of+UV+AND+vitamin+D+to+reduce+risk+of+breast+cancer+\u2013+Jan+2011",
-    "/1285"
-  ],
-  "tiki_page_id": 1285,
-  "date": "2011-01-06",
-  "categories": [
-    "Cancer - Breast"
-  ]
+    "title": "Need lots of UV AND vitamin D to reduce risk of breast cancer",
+    "slug": "need-lots-of-uv-and-vitamin-d-to-reduce-risk-of-breast-cancer",
+    "aliases": [
+        "/Need+lots+of+UV+AND+vitamin+D+to+reduce+risk+of+breast+cancer+\u2013+Jan+2011",
+        "/1285"
+    ],
+    "tiki_page_id": 1285,
+    "date": "2011-01-06",
+    "categories": [
+        "Cancer - Breast"
+    ],
+    "tags": [
+        "Cancer - Breast",
+        "breast cancer",
+        "cancer",
+        "vitamin d"
+    ]
 }
 
 

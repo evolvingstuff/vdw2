@@ -1,16 +1,36 @@
 {
-  "title": "Vitamin D relationship with HDL and LDL is uncertain",
-  "slug": "vitamin-d-relationship-with-hdl-and-ldl-is-uncertain",
-  "aliases": [
-    "/Vitamin+D+relationship+with+HDL+and+LDL+is+uncertain+\u2013+Oct+2011",
-    "/2062"
-  ],
-  "tiki_page_id": 2062,
-  "date": "2011-10-04",
-  "categories": [
-    "Cardiovascular",
-    "Diabetes"
-  ]
+    "title": "Vitamin D relationship with HDL and LDL is uncertain",
+    "slug": "vitamin-d-relationship-with-hdl-and-ldl-is-uncertain",
+    "aliases": [
+        "/Vitamin+D+relationship+with+HDL+and+LDL+is+uncertain+\u2013+Oct+2011",
+        "/2062"
+    ],
+    "tiki_page_id": 2062,
+    "date": "2011-10-04",
+    "categories": [
+        "Cardiovascular",
+        "Diabetes"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Diabetes",
+        "cardiovascular",
+        "cholesterol",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "health risk",
+        "hypertension",
+        "life span",
+        "metabolic",
+        "mortality",
+        "obesity",
+        "obesity and vitamin d receptor",
+        "statins",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -80,5 +100,4 @@ PMID:     21640757
 
    * Each 10-mg/dl increment in HDL cholesterol was associated with a 14% (decrease) in risk of mortality before 85 years of age.
 
-<img src="/attachments/d3.mock.jpg" alt="image"> 
-
+<img src="/attachments/d3.mock.jpg" alt="image">

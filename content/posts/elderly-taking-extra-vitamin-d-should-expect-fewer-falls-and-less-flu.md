@@ -1,16 +1,27 @@
 {
-  "title": "Elderly taking extra vitamin D should expect fewer falls AND less flu",
-  "slug": "elderly-taking-extra-vitamin-d-should-expect-fewer-falls-and-less-flu",
-  "aliases": [
-    "/Elderly+taking+extra+vitamin+D+should+expect+fewer+falls+AND+less+flu+\u2013+June+2011",
-    "/1705"
-  ],
-  "tiki_page_id": 1705,
-  "date": "2011-06-06",
-  "categories": [
-    "Seniors",
-    "Immunity"
-  ]
+    "title": "Elderly taking extra vitamin D should expect fewer falls AND less flu",
+    "slug": "elderly-taking-extra-vitamin-d-should-expect-fewer-falls-and-less-flu",
+    "aliases": [
+        "/Elderly+taking+extra+vitamin+D+should+expect+fewer+falls+AND+less+flu+\u2013+June+2011",
+        "/1705"
+    ],
+    "tiki_page_id": 1705,
+    "date": "2011-06-06",
+    "categories": [
+        "Seniors",
+        "Immunity"
+    ],
+    "tags": [
+        "Immunity",
+        "Seniors",
+        "bone",
+        "falls fractures",
+        "influenza",
+        "vaccination",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 
@@ -45,4 +56,3 @@ PMID:     21625664
 * <a href="/posts/prevent-colds-and-flu-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 707">Prevent colds and flu with vitamin D – Aug 2010</a> several articles
 
 * <a href="/posts/how-elderly-can-remember-to-take-vitamin-d-to-prevent-falls-and-flu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1687">How elderly can remember to take vitamin D to prevent falls and flu – June 2011</a>
-

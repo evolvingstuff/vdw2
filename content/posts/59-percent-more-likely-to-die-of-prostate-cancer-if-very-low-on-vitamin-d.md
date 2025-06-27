@@ -1,16 +1,31 @@
 {
-  "title": "59 percent more likely to die of Prostate Cancer if very low on vitamin D",
-  "slug": "59-percent-more-likely-to-die-of-prostate-cancer-if-very-low-on-vitamin-d",
-  "aliases": [
-    "/59+percent+more+likely+to+die+of+Prostate+Cancer+if+very+low+on+vitamin+D+\u2013+April+2011",
-    "/1579"
-  ],
-  "tiki_page_id": 1579,
-  "date": "2011-04-20",
-  "categories": [
-    "Cancer - Prostate"
-  ]
+    "title": "59 percent more likely to die of Prostate Cancer if very low on vitamin D",
+    "slug": "59-percent-more-likely-to-die-of-prostate-cancer-if-very-low-on-vitamin-d",
+    "aliases": [
+        "/59+percent+more+likely+to+die+of+Prostate+Cancer+if+very+low+on+vitamin+D+\u2013+April+2011",
+        "/1579"
+    ],
+    "tiki_page_id": 1579,
+    "date": "2011-04-20",
+    "categories": [
+        "Cancer - Prostate"
+    ],
+    "tags": [
+        "Cancer - Prostate",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "falls fractures",
+        "health risk",
+        "life span",
+        "mortality",
+        "prostate cancer",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Prediagnostic Plasma Vitamin D Metabolites and Mortality among Patients with Prostate Cancer.
 
@@ -33,4 +48,3 @@ This association was largely explained by the association between low 25(OH)D le
 CONCLUSIONS/SIGNIFICANCE: Although potential bias of less advanced disease due to more screening activity among men with high 25(OH)D levels cannot be ruled out, higher prediagnostic plasma 25(OH)D might be associated with improved prostate cancer prognosis.
 
 PMID: 21494639  full text on-line
-

@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset=utf-8><title>Book: Sunlight, Vitamin D and Skin Cancer, Second Edition</title>
+<link rel=stylesheet href="/css/main.css?v=1751038172"><link rel=stylesheet href="/css/pagination.css?v=1751038172"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038172"></script><script src="/js/search.js?v=1751038172"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Book: Sunlight, Vitamin D and Skin Cancer, Second Edition</h1><time>March 8, 2013</time><div data-pagefind-body><p>Jörg Reichrath, Department of Dermatology, The Saarland University Hospital, Homburg, Germany</p><p>The goal of this volume is to comprehensively cover a highly readable overview on our present knowledge of positive and negative effects of UV-exposure, with a focus on vitamin D and skin cancer. Topics that are discussed in-depth by leading researchers and clinicians range from the newest findings in endocrinology, epidemiology, histology, photobiology, immunology, cytogenetics and molecular pathology to new concepts for prophylaxis and treatment. Experts in the field as well as health care professionals not intimately involved in these specialized areas are provided with the most significant and timely information related to these topics. It is the aim of this book to summarize essential up-to-date information for every clinician or scientist interested in how to balance between positive and negative effects of UV-exposure to minimize the risks of developing vitamin D deficiency and skin cancer.</p><h2 id=table-of-contents>Table of Contents</h2><p>Sunlight, UV-Radiation, Vitamin D and Skin Cancer: How Much Sunlight Do We Need?</p><p>Michael F. Holick</p><p>Vitamin D and Cancer: An Overview on Epidemiological Studies</p><p>Hermann Brenner et al</p><p>Solar Ultraviolet Irradiance and Cancer Incidence and Mortality: Ecological Studies</p><p>William B. Grant</p><p>Vitamin D Status and Cancer Incidence and Mortality</p><p>Irene Shui and Edward Giovannucci</p><p>Sun Exposure and Cancer Survival: Changes in the Risk of Death with Season of Diagnosis and Latitude</p><p>Alina Carmen Porojnicu, Arne Dahlback and Johan Moan</p><p>Optimal Serum 25-Hydroxy Vitamin D Levels for Multiple Health Outcomes</p><p>Heike A. Bischoff-Ferrari</p><p>Ultraviolet Exposure Scenarios: Risks of Erythema from Recommendations on Cutaneous Vitamin D Synthesis</p><p>Ann R. Webb and Ola Engelsen</p><p>UV-Radiation and Health: Optimal Time for Sun Exposure</p><p>Johan Moan, Mantas Grigalavicius, Arne Dahlback, Zivile Baturaite and Asta Juzeniene</p><p>Epidemiology of Melanoma and Nonmelanoma Skin Cancer: The Role of Sunlight</p><p>Ulrike Leiter and Claus Garbe</p><p>Ultraviolet Radiation and Malignant Melanoma</p><p>Johan Moan, Alina Carmen Porojnicu and Arne Dahlback</p><p>Solar UV Exposure and Mortality from Skin Tumors</p><p>Marianne Berwick, Anne Lachiewicz, Claire Pestak and Nancy Thomas</p><p>Health Initiatives for the Prevention of Skin Cancer</p><p>Rüdiger Greinert, Eckhard W. Breitbart, Peter Mohr and Beate Volkmer</p><p>Sunscreens: An Overview</p><p>Guido Bens</p><p>Sunscreens in the United States: Current Status and Future Outlook</p><p>Paul C. Jou and Kenneth J. Tomecki</p><p>Environmental Pollution and Other Harmful Effects of Sunscreens</p><p>Margret Schlumpf</p><p>UV Damage and DNA Repair in Malignant Melanoma and Nonmelanoma Skin Cancer</p><p>Knuth Rass and Jörg Reichrath</p><p>Prevention of Skin Photocarcinogenesis by Vitamin D Compounds</p><p>Rebecca Mason</p><p>The Vitamin D Receptor: A Tumor Suppressor in Skin</p><p>Daniel D. Bikle</p><p>Role of Viruses in the Development of Squamous Cell Cancer and Melanoma</p><p>Sigrun Smola</p><p>Melanoma and Nonmelanoma Skin Cancers and the Immune System</p><p>Diana Santo Domingo and Elma D. Baron</p><p>Solar UV-Radiation, Vitamin D and Skin Cancer Surveillance in Organ Transplant Recipients (OTRs)</p><p>Jörg Reichrath and Bernd Nürnberg</p><p>Histology of Melanoma and Nonmelanoma Skin Cancer</p><p>Cornelia S.L. Mueller and Jörg Reichrath</p><p>Cytogenetics of Melanoma and Nonmelanoma Skin Cancer</p><p>Melanie A. Carless and Lyn R. Griffiths</p><p>Molecular Biology of Basal and Squamous Cell Carcinomas</p><p>Steffen Emmert</p><p>Molecular Biology of Malignant Melanoma</p><p>Alexander Roesch</p><p>Treatment of Melanoma and Nonmelanoma Skin Cancer</p><p>Thomas Vogt</p><p>Interaction of Sonic Hedgehog and Vitamin D Signaling for Carcinogenesis and Therapy of Basal Cell Carcinomas</p><p>Heidi Hahn</p><p>Vitamin D Receptor Polymorphisms and Cancer</p><p>Sara Gandini, Sara Raimondi and Pasquali Elena</p><p>The Role of Vitamin D for CVD and Overall Mortality</p><p>Armin Zittermann and Sylvana Prokop</p><p>UV-Exposure and Cutaneous Vitamin D Synthesis</p><p>Dr. Knuschke</p><hr><p>Note: previous edition costs $200</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>Books, videos on Vitamin D</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>genetics</span>
+<span class=tag>health risk</span>
+<span class=tag>immunity</span>
+<span class=tag>life span</span>
+<span class=tag>melanoma</span>
+<span class=tag>mortality</span>
+<span class=tag>pollution</span>
+<span class=tag>skin cancer</span>
+<span class=tag>transplant</span>
+<span class=tag>trauma surgery</span>
+<span class=tag>virus</span>
+<span class=tag>viruses and vitamin d receptor</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>Books, videos on Vitamin D, cancer, cancer in VDR, genetics, health risk, immunity, life span, melanoma, mortality, pollution, skin cancer, transplant, trauma surgery, virus, viruses and vitamin d receptor, vitamin d, vitamin d and viruses, vitamin d receptor</div></article></div></div><script src="/js/lightspa.js?v=1751038172"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038172",indexUrl:"/search/search_index.json.gz?v=1751038172"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038172"></script><script src="/js/tiki-redirects.js?v=1751038172"></script></body></html>

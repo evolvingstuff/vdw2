@@ -1,15 +1,47 @@
 {
-  "title": "Most people are not vitamin D deficient \u2013 Consumer Reports",
-  "slug": "most-people-are-not-vitamin-d-deficient-consumer-reports",
-  "aliases": [
-    "/Most+people+are+not+vitamin+D+deficient+\u2013+Consumer+Reports+May+2011",
-    "/1613"
-  ],
-  "tiki_page_id": 1613,
-  "date": "2011-05-07",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "Most people are not vitamin D deficient \u2013 Consumer Reports",
+    "slug": "most-people-are-not-vitamin-d-deficient-consumer-reports",
+    "aliases": [
+        "/Most+people+are+not+vitamin+D+deficient+\u2013+Consumer+Reports+May+2011",
+        "/1613"
+    ],
+    "tiki_page_id": 1613,
+    "date": "2011-05-07",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "celiac",
+        "child",
+        "childhood cancer",
+        "childhood respiratory",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "gut",
+        "heart failure",
+        "high dose",
+        "intervention",
+        "lung cancer",
+        "metabolic",
+        "multiple sclerosis",
+        "osteoporosis",
+        "pancreatic cancer",
+        "pediatric autoimmune",
+        "respiratory",
+        "rickets",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -126,4 +158,3 @@ If you get some midday sun exposure during the warmer months and regularly consu
 # Hardly anyone, of any age, gets enough vitamin D from diet or supplements
 
 {IMG(fileId="1208")}{IMG}
-

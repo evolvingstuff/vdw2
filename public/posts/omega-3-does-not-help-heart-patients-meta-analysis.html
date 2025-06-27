@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Omega-3 does not help heart patients – meta-analysis</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Omega-3 does not help heart patients – meta-analysis</h1><time>September 14, 2012</time><div data-pagefind-body><h2 id=clipped-from-la-times-sept-2012httpwwwlatimescomnewssciencela-sci-omega-3s-heart-health-2012091203265313story20>Clipped from <a href=http://www.latimes.com/news/science/la-sci-omega-3s-heart-health-20120912,0,3265313.story%20>LA Times Sept 2012</a></h2><ul><li><p>The study, reexamined the results of 20 previous studies dating back to 1989 that included nearly 70,000 patients.</p></li><li><p>&ldquo;This evidence,&rdquo; he said, &ldquo;should not be generalized to any type of patients or apparently healthy individuals.”</p></li></ul><h2 id=clipped-from-time-magazinehttphealthlandtimecom20120912omega-3-supplements-dont-lower-heart-disease-risk-after-all20>Clipped from <a href=http://healthland.time.com/2012/09/12/omega-3-supplements-dont-lower-heart-disease-risk-after-all/%20>Time Magazine</a></h2><ul><li><p>Volunteers in the studies, <strong>most of whom were heart patients</strong> , were randomly assigned to take either 1.5 g of omega-3 supplementation or a placebo every day for about two years.</p></li><li><p>While the omega-3 users showed a 9% lower rate of heart-related death compared with the controls, and an 11% lower rate of heart attack, these differences were too small to attribute to the omega-3 pills.</p></li><li><p>“If people are taking supplements because their physician prescribed them, they should consult with their physician before stopping,” says Dr. Donna Arnett, president of the AHA and professor of epidemiology at the University of Alabama at Birmingham. “But I would tell them they should not stop eating fish. The results of this study are about dietary supplements. So dietary sources of omega-3s may be different than supplements. They should not assume that dietary sources are not useful.”</p></li></ul><p>– – – – – – – – –</p><h2 id=clipped-from-usa-todayhttpwwwusatodaycomnewshealthstory2012-09-11heart-omega-357750182120><a href=http://www.usatoday.com/news/health/story/2012-09-11/heart-omega-3/57750182/1%20>Clipped from USA Today</a></h2><ul><li>Duffy MacKay, vice president for scientific and regulatory affairs at the Council for Responsible Nutrition, a supplement industry group, disputed the findings. He noted that many of the studies in the JAMA review were on <strong>people who were already sick and so might not apply to maintaining health.</strong></li></ul><p>– – – – – –</p><h2 id=association-between-omega-3-fatty-acid-supplementation-and-risk-of-major-cardiovascular-disease-events>Association Between Omega-3 Fatty Acid Supplementation and Risk of Major Cardiovascular Disease Events</h2><p>A Systematic Review and Meta-analysis</p><p>Evangelos C. Rizos, MD, PhD; Evangelia E. Ntzani, MD, PhD; Eftychia Bika, MD; Michael S. Kostapanos, MD; Moses S. Elisaf, MD, PhD, FASA, FRSH</p><p>JAMA. 2012;308(10):1024-1033. doi:10.1001/2012.jama.11374</p><p>Context Considerable controversy exists regarding the association of omega-3 polyunsaturated fatty acids (PUFAs) and major cardiovascular end points.</p><p>Objective To assess the role of omega-3 supplementation on major cardiovascular outcomes.</p><p>Data Sources MEDLINE, EMBASE, and the Cochrane Central Register of Controlled Trials through August 2012.</p><p>Study Selection Randomized clinical trials evaluating the effect of omega-3 on all-cause mortality, cardiac death, sudden death, myocardial infarction, and stroke.</p><p>Data Extraction Descriptive and quantitative information was extracted; absolute and relative risk (RR) estimates were synthesized under a random-effects model. Heterogeneity was assessed using the Q statistic and I2. Subgroup analyses were performed for the presence of blinding, the prevention settings, and patients with implantable cardioverter-defibrillators, and meta-regression analyses were performed for the omega-3 dose. A statistical significance threshold of .0063 was assumed after adjustment for multiple comparisons.</p><p>Data Synthesis Of the 3635 citations retrieved, 20 studies of 68 680 patients were included, reporting 7044 deaths, 3993 cardiac deaths, 1150 sudden deaths, 1837 myocardial infarctions, and 1490 strokes. No statistically significant association was observed with all-cause mortality (RR, 0.96; 95% CI, 0.91 to 1.02; risk reduction <span>[RD]</span> ?0.004, 95% CI, ?0.01 to 0.02), cardiac death (RR, 0.91; 95% CI, 0.85 to 0.98; RD, ?0.01; 95% CI, ?0.02 to 0.00), sudden death (RR, 0.87; 95% CI, 0.75 to 1.01; RD, ?0.003; 95% CI, ?0.012 to 0.006), myocardial infarction (RR, 0.89; 95% CI, 0.76 to 1.04; RD, ?0.002; 95% CI, ?0.007 to 0.002), and stroke (RR, 1.05; 95% CI, 0.93 to 1.18; RD, 0.001; 95% CI, ?0.002 to 0.004) when all supplement studies were considered.</p><p>Conclusion Overall, omega-3 PUFA supplementation was not associated with a lower risk of all-cause mortality, cardiac death, sudden death, myocardial infarction, or stroke based on relative and absolute measures of association.</p><p>– – – – – –</p><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><a href=/posts/omega-3-increased-by-60-percent-the-active-vitamin-d-in-the-blood style=color:red;text-decoration:underline title="This link has an unknown page_id: 3171">Omega-3 increased by 60 % the ACTIVE vitamin D in the blood – Aug 2012</a></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>cardiovascular</span>
+<span class=tag>Cardiovascular</span>
+<span class=tag>life span</span>
+<span class=tag>Meta-analysis of Vitamin D</span>
+<span class=tag>mortality</span>
+<span class=tag>omega 3</span>
+<span class=tag>stroke</span>
+<span class=tag>vitamin d</span>
+<span class=tag>Vitamin D and Omega-3</span></div><div data-pagefind-meta=tags hidden>cardiovascular, Cardiovascular, life span, Meta-analysis of Vitamin D, mortality, omega 3, stroke, vitamin d, Vitamin D and Omega-3</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

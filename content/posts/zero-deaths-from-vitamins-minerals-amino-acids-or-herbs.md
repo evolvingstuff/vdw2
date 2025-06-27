@@ -1,16 +1,20 @@
 {
-  "title": "Zero Deaths from Vitamins Minerals Amino Acids or Herbs",
-  "slug": "zero-deaths-from-vitamins-minerals-amino-acids-or-herbs",
-  "aliases": [
-    "/Zero+Deaths+from+Vitamins+Minerals+Amino+Acids+or+Herbs+-+Jan+2011",
-    "/1302"
-  ],
-  "tiki_page_id": 1302,
-  "date": "2011-01-08",
-  "categories": [
-    "Supplement",
-    "Toxicity of Vitamin D"
-  ]
+    "title": "Zero Deaths from Vitamins Minerals Amino Acids or Herbs",
+    "slug": "zero-deaths-from-vitamins-minerals-amino-acids-or-herbs",
+    "aliases": [
+        "/Zero+Deaths+from+Vitamins+Minerals+Amino+Acids+or+Herbs+-+Jan+2011",
+        "/1302"
+    ],
+    "tiki_page_id": 1302,
+    "date": "2011-01-08",
+    "categories": [
+        "Supplement",
+        "Toxicity of Vitamin D"
+    ],
+    "tags": [
+        "Supplement",
+        "Toxicity of Vitamin D"
+    ]
 }
 
 

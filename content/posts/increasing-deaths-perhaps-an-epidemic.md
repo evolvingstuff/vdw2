@@ -1,16 +1,21 @@
 {
-  "title": "Increasing deaths - perhaps an epidemic",
-  "slug": "increasing-deaths-perhaps-an-epidemic",
-  "aliases": [
-    "/Increasing+deaths+-+perhaps+an+epidemic",
-    "/2023"
-  ],
-  "tiki_page_id": 2023,
-  "date": "2011-09-21",
-  "categories": [
-    "Toxicity of Vitamin D"
-  ]
+    "title": "Increasing deaths - perhaps an epidemic",
+    "slug": "increasing-deaths-perhaps-an-epidemic",
+    "aliases": [
+        "/Increasing+deaths+-+perhaps+an+epidemic",
+        "/2023"
+    ],
+    "tiki_page_id": 2023,
+    "date": "2011-09-21",
+    "categories": [
+        "Toxicity of Vitamin D"
+    ],
+    "tags": [
+        "Toxicity of Vitamin D",
+        "vitamin d"
+    ]
 }
+
 
 {IMG(attId="755")}{IMG}
 

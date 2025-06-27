@@ -1,17 +1,30 @@
 {
-  "title": "Lack of UV 20X more associated with MS than any other variable",
-  "slug": "lack-of-uv-20x-more-associated-with-ms-than-any-other-variable",
-  "aliases": [
-    "/Lack+of+UV+20X+more+associated+with+MS+than+any+other+variable+\u2013+Dec+2010",
-    "/1243"
-  ],
-  "tiki_page_id": 1243,
-  "date": "2010-12-16",
-  "categories": [
-    "UV and Vitamin D",
-    "Multiple Sclerosis",
-    "Top news"
-  ]
+    "title": "Lack of UV 20X more associated with MS than any other variable",
+    "slug": "lack-of-uv-20x-more-associated-with-ms-than-any-other-variable",
+    "aliases": [
+        "/Lack+of+UV+20X+more+associated+with+MS+than+any+other+variable+\u2013+Dec+2010",
+        "/1243"
+    ],
+    "tiki_page_id": 1243,
+    "date": "2010-12-16",
+    "categories": [
+        "UV and Vitamin D",
+        "Multiple Sclerosis",
+        "Top news"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "Top news",
+        "UV and Vitamin D",
+        "autoimmune",
+        "health risk",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "smoking",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

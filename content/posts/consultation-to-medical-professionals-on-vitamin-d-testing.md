@@ -1,16 +1,71 @@
 {
-  "title": "Consultation to medical professionals on Vitamin D Testing",
-  "slug": "consultation-to-medical-professionals-on-vitamin-d-testing",
-  "aliases": [
-    "/Consultation+to+medical+professionals+on+Vitamin+D+Testing+-+Sept+2011",
-    "/2022"
-  ],
-  "tiki_page_id": 2022,
-  "date": "2011-09-20",
-  "categories": [
-    "Tests for Vitamin D",
-    "Overview for doctors"
-  ]
+    "title": "Consultation to medical professionals on Vitamin D Testing",
+    "slug": "consultation-to-medical-professionals-on-vitamin-d-testing",
+    "aliases": [
+        "/Consultation+to+medical+professionals+on+Vitamin+D+Testing+-+Sept+2011",
+        "/2022"
+    ],
+    "tiki_page_id": 2022,
+    "date": "2011-09-20",
+    "categories": [
+        "Tests for Vitamin D",
+        "Overview for doctors"
+    ],
+    "tags": [
+        "Overview for doctors",
+        "Tests for Vitamin D",
+        "autoimmune",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "brain",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "celiac",
+        "child",
+        "childhood cancer",
+        "childhood respiratory",
+        "childhood viruses",
+        "cognitive",
+        "cystic fibrosis",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "epilepsy",
+        "falls fractures",
+        "genetics",
+        "gut",
+        "hemodialysis",
+        "high dose",
+        "hip fractures",
+        "intervention",
+        "life span",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "neurological",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "respiratory",
+        "rickets",
+        "skin cancer",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "tuberculosis",
+        "ultraviolet light",
+        "virus",
+        "virus and cognitive",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -335,4 +390,3 @@ Steroids. 2010;75:477-488.
 49. Haug C, Muller F, Aukrust P, et al. Subnormal serum concentration of 1,25-vitamin D in human immunodeficiency virus infection: correlation with degree of immune deficiency and survival. J Infect Dis. 1994;169:889-893.
 
 50. Wolf M, Shah A, Gutierrez O, et al. Vitamin D levels and early mortality among incident hemodialysis patients. Kidney Int. 2007;72:1004-1013.
-

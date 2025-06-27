@@ -1,15 +1,26 @@
 {
-  "title": "Bone marrow transplant \u2013 like other traumas \u2013 lowers vitamin D levels",
-  "slug": "bone-marrow-transplant-like-other-traumas-lowers-vitamin-d-levels",
-  "aliases": [
-    "/Bone+marrow+transplant+\u2013+like+other+traumas+\u2013+lowers+vitamin+D+levels+\u2013+July+2011",
-    "/1849"
-  ],
-  "tiki_page_id": 1849,
-  "date": "2011-07-20",
-  "categories": [
-    "Bone - Health"
-  ]
+    "title": "Bone marrow transplant \u2013 like other traumas \u2013 lowers vitamin D levels",
+    "slug": "bone-marrow-transplant-like-other-traumas-lowers-vitamin-d-levels",
+    "aliases": [
+        "/Bone+marrow+transplant+\u2013+like+other+traumas+\u2013+lowers+vitamin+D+levels+\u2013+July+2011",
+        "/1849"
+    ],
+    "tiki_page_id": 1849,
+    "date": "2011-07-20",
+    "categories": [
+        "Bone - Health"
+    ],
+    "tags": [
+        "Bone - Health",
+        "TBI",
+        "bone",
+        "bone mineral density",
+        "child",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

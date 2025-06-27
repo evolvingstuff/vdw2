@@ -1,0 +1,61 @@
+<!doctype html><html><head><meta charset=utf-8><title>Low vitamin D levels even when taking 800 IU vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Low vitamin D levels even when taking 800 IU vitamin D</h1><time>December 14, 2011</time><div data-pagefind-body><h1 id=high-prevalence-of-hypovitaminosis-d-in-a-swiss-rheumatology-outpatient-population>High prevalence of hypovitaminosis D in a Swiss rheumatology outpatient population.</h1><p>Swiss Med Wkly. 2011 May 27;141:w13196. <a href=https://doi.org/10.4414/smw.2011.13196.>doi: 10.4414/smw.2011.13196.</a></p><p>Stoll D, Dudler J, Lamy O, Hans D, So A, Krieg MA, Aubry-Rozier B.</p><p>Center for Bone Diseases, Lausanne University Hospital-DAL, Avenue Pierre Decker 4, 1011 Lausanne, Switzerland. <a href=mailto:delphine.stoll@chuv.ch>delphine.stoll@chuv.ch</a></p><p>Vitamin D is important for bone metabolism and neuromuscular function. While a routine dosage is often proposed in osteoporotic patients, it is not so evident in rheumatology outpatients where it has been shown that the prevalence of hypovitaminosis D is high. The aim of the current study was to systematically evaluate the vitamin D status in our outpatient rheumatology population to define the severity of the problem according to rheumatologic diseases. During November 2009, all patients were offered[a screening test for 25-OH vitamin D levels and categorised as deficient (&lt;10 µg/l [ng/ml](%20a%20screening%20test%20for%2025-OH%20vitamin%20D%20levels%20and%20categorised%20as%20deficient%20(&lt;10%20µg/l%20[ng/ml) <a href=25%20nmol/l>25 nmol/l</a>), insufficient (10 µg/l to 30 µg/l <a href=25%20to%2075%20nmol/l>25 to 75 nmol/l</a>) or normal (>30 µg/l <a href=75%20nmol/l>75 nmol/l</a>). A total of 272 patients were included. The mean 25-OH vitamin D level was 21 µg/l (range 1.5 to 45.9). A total of 20 patients had vitamin D deficiency, 215 patients had an insufficiency and 37 patients had normal results. In the group of patients with osteoporosis mean level of 25-OH vitamin D was 25 µg/l and 31% had normal results. In patients with inflammatory rheumatic diseases (N = 219), the mean level of 25-OH vitamin D was 20.5 µg/l, and only 12% had normal 25-OH vitamin D levels. In the small group of patients with degenerative disease (N = 33), the mean level of 25-OH vitamin D was 21.8 µg/l, and 21% had normal results. Insufficiency and deficiency were even seen in 38% of the patients who were taking supplements. These results confirm that hypovitaminosis D is highly prevalent in an outpatient population of rheumatology patients, affecting 86% of subjects. Despite oral supplementation (taken in 38% of our population), only a quarter of those on oral supplementation attained normal values of 25-OH vitamin D.</p><p>PMID: 21623475</p><p><strong><span style=color:#00f>PDF is attached at bottom of this page</span></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>bone</span>
+<span class=tag>Deficiency of Vitamin D</span>
+<span class=tag>How much Vitamin D</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>blood levels, bone, Deficiency of Vitamin D, How much Vitamin D, osteoporosis, vitamin d</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

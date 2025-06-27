@@ -1,15 +1,22 @@
 {
-  "title": "UV and macular degeneration",
-  "slug": "uv-and-macular-degeneration",
-  "aliases": [
-    "/UV+and+macular+degeneration",
-    "/1756"
-  ],
-  "tiki_page_id": 1756,
-  "date": "2011-06-23",
-  "categories": [
-    "Vision"
-  ]
+    "title": "UV and macular degeneration",
+    "slug": "uv-and-macular-degeneration",
+    "aliases": [
+        "/UV+and+macular+degeneration",
+        "/1756"
+    ],
+    "tiki_page_id": 1756,
+    "date": "2011-06-23",
+    "categories": [
+        "Vision"
+    ],
+    "tags": [
+        "Vision",
+        "macular degeneration",
+        "ultraviolet light",
+        "virus",
+        "vision"
+    ]
 }
 
 

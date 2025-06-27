@@ -1,19 +1,63 @@
 {
-  "title": "Vitamin D reduces hair loss - many studies",
-  "slug": "vitamin-d-reduces-hair-loss-many-studies",
-  "aliases": [
-    "/Vitamin+D+reduces+hair+loss+-+many+studies",
-    "/1561"
-  ],
-  "tiki_page_id": 1561,
-  "date": "2011-04-02",
-  "categories": [
-    "Autoimmune",
-    "Cancer - after diagnosis"
-  ]
+    "title": "Vitamin D reduces hair loss - many studies",
+    "slug": "vitamin-d-reduces-hair-loss-many-studies",
+    "aliases": [
+        "/Vitamin+D+reduces+hair+loss+-+many+studies",
+        "/1561"
+    ],
+    "tiki_page_id": 1561,
+    "date": "2011-04-02",
+    "categories": [
+        "Autoimmune",
+        "Cancer - after diagnosis"
+    ],
+    "tags": [
+        "Autoimmune",
+        "Cancer - after diagnosis",
+        "PCOS",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "cancer in VDR",
+        "dermatology",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "hair",
+        "health risk",
+        "high dose",
+        "immunity",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "pain",
+        "pregnancy",
+        "rheumatoid arthritis",
+        "smoking",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "vitiligo",
+        "zinc"
+    ]
 }
 
- **FACT:**  Vitamins, such as vitamin D, are needed to reduce hair loss
+
+**FACT:**  Vitamins, such as vitamin D, are needed to reduce hair loss
 
  **FACT:**  Chemotherapy reduces vitamin D
 
@@ -525,7 +569,7 @@ Conclusion: Oral vitamin D combination with topical minoxidil is recommended to 
 
    * Red hair apparently allows more production of vitamin D from the same amount of sunlight
 
-* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
+* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)
 
 ### See also web
 
@@ -867,7 +911,7 @@ CONCLUSIONS: This study indicated the correlation between the incidence of FPHL 
 
    * Red hair apparently allows more production of vitamin D from the same amount of sunlight
 
-* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
+* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)
 
 ---
 

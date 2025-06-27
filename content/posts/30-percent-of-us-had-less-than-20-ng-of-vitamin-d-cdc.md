@@ -1,16 +1,21 @@
 {
-  "title": "30 percent of US had less than 20 ng of vitamin D - CDC",
-  "slug": "30-percent-of-us-had-less-than-20-ng-of-vitamin-d-cdc",
-  "aliases": [
-    "/30+percent+of+US+had+less+than+20+ng+of+vitamin+D+-+CDC+March+2011",
-    "/1536"
-  ],
-  "tiki_page_id": 1536,
-  "date": "2011-03-30",
-  "categories": [
-    "Skin - Dark",
-    "Deficiency of Vitamin D"
-  ]
+    "title": "30 percent of US had less than 20 ng of vitamin D - CDC",
+    "slug": "30-percent-of-us-had-less-than-20-ng-of-vitamin-d-cdc",
+    "aliases": [
+        "/30+percent+of+US+had+less+than+20+ng+of+vitamin+D+-+CDC+March+2011",
+        "/1536"
+    ],
+    "tiki_page_id": 1536,
+    "date": "2011-03-30",
+    "categories": [
+        "Skin - Dark",
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Skin - Dark",
+        "vitamin d"
+    ]
 }
 
 
@@ -49,4 +54,3 @@
    * Example from above: The MINIMUM recommendation by 25 experts was 30 ng
 
 {IMG(attId="355"max="400")}{IMG}
-

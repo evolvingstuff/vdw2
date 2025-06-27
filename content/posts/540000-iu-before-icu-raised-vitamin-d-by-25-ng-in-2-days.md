@@ -1,17 +1,30 @@
 {
-  "title": "540000 IU before ICU raised vitamin D by 25 ng in 2 days",
-  "slug": "540000-iu-before-icu-raised-vitamin-d-by-25-ng-in-2-days",
-  "aliases": [
-    "/540000+IU+before+ICU+raised+vitamin+D+by+25+ng+in+2+days+\u2013+March+2011",
-    "/1518"
-  ],
-  "tiki_page_id": 1518,
-  "date": "2011-03-28",
-  "categories": [
-    "Trauma and surgery",
-    "Loading dose for Vitamin D",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "540000 IU before ICU raised vitamin D by 25 ng in 2 days",
+    "slug": "540000-iu-before-icu-raised-vitamin-d-by-25-ng-in-2-days",
+    "aliases": [
+        "/540000+IU+before+ICU+raised+vitamin+D+by+25+ng+in+2+days+\u2013+March+2011",
+        "/1518"
+    ],
+    "tiki_page_id": 1518,
+    "date": "2011-03-28",
+    "categories": [
+        "Trauma and surgery",
+        "Loading dose for Vitamin D",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Loading dose for Vitamin D",
+        "Trauma and surgery",
+        "blood levels",
+        "dosage",
+        "genetics",
+        "high dose",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test"
+    ]
 }
 
 

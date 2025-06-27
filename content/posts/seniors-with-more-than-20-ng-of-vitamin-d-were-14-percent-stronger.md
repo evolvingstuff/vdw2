@@ -1,16 +1,26 @@
 {
-  "title": "Seniors with more than 20 ng of vitamin D were 14 percent stronger",
-  "slug": "seniors-with-more-than-20-ng-of-vitamin-d-were-14-percent-stronger",
-  "aliases": [
-    "/Seniors+with+more+than+20+ng+of+vitamin+D+were+14+percent+stronger+\u2013+May+2011",
-    "/1657"
-  ],
-  "tiki_page_id": 1657,
-  "date": "2011-05-24",
-  "categories": [
-    "Seniors",
-    "Sports and Vitamin D"
-  ]
+    "title": "Seniors with more than 20 ng of vitamin D were 14 percent stronger",
+    "slug": "seniors-with-more-than-20-ng-of-vitamin-d-were-14-percent-stronger",
+    "aliases": [
+        "/Seniors+with+more+than+20+ng+of+vitamin+D+were+14+percent+stronger+\u2013+May+2011",
+        "/1657"
+    ],
+    "tiki_page_id": 1657,
+    "date": "2011-05-24",
+    "categories": [
+        "Seniors",
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Seniors",
+        "Sports and Vitamin D",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "dosage",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
 
 
@@ -79,4 +89,3 @@ Wonder how much stronger if  > 30 ng, >40 ng, etc.
 * <a href="/posts/professional-sports-team-takes-5000-iu-and-wins-championship" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 293">professional sports team takes 5000 IU and wins championship</a>
 
 * [8500 IU average daily helped sports performance – Oct 2010](/posts/8500-iu-average-daily-helped-sports-performance)
-

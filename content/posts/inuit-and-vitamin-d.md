@@ -1,15 +1,32 @@
 {
-  "title": "Inuit and vitamin D",
-  "slug": "inuit-and-vitamin-d",
-  "aliases": [
-    "/Inuit+and+vitamin+D",
-    "/1836"
-  ],
-  "tiki_page_id": 1836,
-  "date": "2011-07-15",
-  "categories": [
-    "Vitamin D Far from equator"
-  ]
+    "title": "Inuit and vitamin D",
+    "slug": "inuit-and-vitamin-d",
+    "aliases": [
+        "/Inuit+and+vitamin+D",
+        "/1836"
+    ],
+    "tiki_page_id": 1836,
+    "date": "2011-07-15",
+    "categories": [
+        "Vitamin D Far from equator"
+    ],
+    "tags": [
+        "Vitamin D Far from equator",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "diabetes",
+        "health risk",
+        "magnesium",
+        "magnesium and cancer",
+        "metabolic",
+        "obesity",
+        "obesity and cancer",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test",
+        "zinc"
+    ]
 }
 
 

@@ -1,16 +1,30 @@
 {
-  "title": "Obese teens needed 4000 IU of vitamin D",
-  "slug": "obese-teens-needed-4000-iu-of-vitamin-d",
-  "aliases": [
-    "/Obese+teens+needed+4000+IU+of+vitamin+D+-+Nov+2011",
-    "/2140"
-  ],
-  "tiki_page_id": 2140,
-  "date": "2011-11-01",
-  "categories": [
-    "Obesity",
-    "Youth"
-  ]
+    "title": "Obese teens needed 4000 IU of vitamin D",
+    "slug": "obese-teens-needed-4000-iu-of-vitamin-d",
+    "aliases": [
+        "/Obese+teens+needed+4000+IU+of+vitamin+D+-+Nov+2011",
+        "/2140"
+    ],
+    "tiki_page_id": 2140,
+    "date": "2011-11-01",
+    "categories": [
+        "Obesity",
+        "Youth"
+    ],
+    "tags": [
+        "Obesity",
+        "Youth",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "health risk",
+        "high dose",
+        "immunity",
+        "metabolic",
+        "obesity",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -56,4 +70,4 @@ The paper, “ **Safety and efficacy of using high dose (4000 IU daily) vitamin 
 
 * <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
 
-* <a href="/posts/2000-iu-raised-vitamin-d-levels-of-thin-teens-by-10-ng-obese-teens-by-6-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3340">2000 IU raised vitamin D levels of thin teens by 10 ng, obese teens by 6 ng – Oct 2012</a>
+* [2000 IU raised vitamin D levels of thin teens by 10 ng, obese teens by 6 ng – Oct 2012](/posts/2000-iu-raised-vitamin-d-levels-of-thin-teens-by-10-ng-obese-teens-by-6-ng)

@@ -1,15 +1,23 @@
 {
-  "title": "Macular Degeneration Twin Study \u2013 Vitamin D reduced, smoking increased (by 13X in later study)",
-  "slug": "macular-degeneration-twin-study-vitamin-d-reduced-smoking-increased-by-13x-in-later-study",
-  "aliases": [
-    "/Macular+Degeneration+Twin+Study+\u2013+Vitamin+D+reduced+smoking+increased+by+13X+in+later+study",
-    "/1685"
-  ],
-  "tiki_page_id": 1685,
-  "date": "2011-05-31",
-  "categories": [
-    "Vision"
-  ]
+    "title": "Macular Degeneration Twin Study \u2013 Vitamin D reduced, smoking increased (by 13X in later study)",
+    "slug": "macular-degeneration-twin-study-vitamin-d-reduced-smoking-increased-by-13x-in-later-study",
+    "aliases": [
+        "/Macular+Degeneration+Twin+Study+\u2013+Vitamin+D+reduced+smoking+increased+by+13X+in+later+study",
+        "/1685"
+    ],
+    "tiki_page_id": 1685,
+    "date": "2011-05-31",
+    "categories": [
+        "Vision"
+    ],
+    "tags": [
+        "Vision",
+        "health risk",
+        "macular degeneration",
+        "smoking",
+        "vision",
+        "vitamin d"
+    ]
 }
 
 
@@ -47,4 +55,4 @@ The twin with the earlier stage of AMD, smaller drusen size and area, and less p
 
 Results suggest that behavioral and nutritional factors associated with epigenetic mechanisms are involved in the etiology of AMD, in addition to genetic susceptibility.
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/amd-twins.pdf">Download the PDF from VitaminDWiki</a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/amd-twins.pdf">Download the PDF from VitaminDWiki</a>**

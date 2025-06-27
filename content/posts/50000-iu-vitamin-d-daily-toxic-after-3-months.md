@@ -1,15 +1,20 @@
 {
-  "title": "50000 IU vitamin D daily toxic after 3 months",
-  "slug": "50000-iu-vitamin-d-daily-toxic-after-3-months",
-  "aliases": [
-    "/50000+IU+vitamin+D+daily+toxic+after+3+months+\u2013+Oct+2011",
-    "/2002"
-  ],
-  "tiki_page_id": 2002,
-  "date": "2011-09-15",
-  "categories": [
-    "Toxicity of Vitamin D"
-  ]
+    "title": "50000 IU vitamin D daily toxic after 3 months",
+    "slug": "50000-iu-vitamin-d-daily-toxic-after-3-months",
+    "aliases": [
+        "/50000+IU+vitamin+D+daily+toxic+after+3+months+\u2013+Oct+2011",
+        "/2002"
+    ],
+    "tiki_page_id": 2002,
+    "date": "2011-09-15",
+    "categories": [
+        "Toxicity of Vitamin D"
+    ],
+    "tags": [
+        "Toxicity of Vitamin D",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

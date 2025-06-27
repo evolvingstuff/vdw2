@@ -1,16 +1,24 @@
 {
-  "title": "Meta-analysis found hypertension reduced with vitamin D",
-  "slug": "meta-analysis-found-hypertension-reduced-with-vitamin-d",
-  "aliases": [
-    "/Meta-analysis+found+hypertension+reduced+with+vitamin+D+\u2013+Dec+2010",
-    "/1274"
-  ],
-  "tiki_page_id": 1274,
-  "date": "2010-12-31",
-  "categories": [
-    "Meta-analysis of Vitamin D",
-    "Hypertension"
-  ]
+    "title": "Meta-analysis found hypertension reduced with vitamin D",
+    "slug": "meta-analysis-found-hypertension-reduced-with-vitamin-d",
+    "aliases": [
+        "/Meta-analysis+found+hypertension+reduced+with+vitamin+D+\u2013+Dec+2010",
+        "/1274"
+    ],
+    "tiki_page_id": 1274,
+    "date": "2010-12-31",
+    "categories": [
+        "Meta-analysis of Vitamin D",
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "Meta-analysis of Vitamin D",
+        "blood levels",
+        "hypertension",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -41,4 +49,3 @@ CONCLUSION: Findings from this meta-analysis indicate that blood 25-hydroxyvitam
 * [Vitamin D reduced blood pressure in random controlled trials – Nov 2010](/posts/vitamin-d-reduced-blood-pressure-in-random-controlled-trials)
 
 * [Systolic hypertension 4X more likely if low on vitamin D 14 years before – Nov 2010](/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before)
-

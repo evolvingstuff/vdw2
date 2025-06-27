@@ -1,16 +1,29 @@
 {
-  "title": "Podcast by Dr. Holick on vitamin D",
-  "slug": "podcast-by-dr-holick-on-vitamin-d",
-  "aliases": [
-    "/Podcast+by+Dr+Holick+on+vitamin+D+-+Feb+2011",
-    "/1398"
-  ],
-  "tiki_page_id": 1398,
-  "date": "2011-02-10",
-  "categories": [
-    "About D - more info."
-  ]
+    "title": "Podcast by Dr. Holick on vitamin D",
+    "slug": "podcast-by-dr-holick-on-vitamin-d",
+    "aliases": [
+        "/Podcast+by+Dr+Holick+on+vitamin+D+-+Feb+2011",
+        "/1398"
+    ],
+    "tiki_page_id": 1398,
+    "date": "2011-02-10",
+    "categories": [
+        "About D - more info."
+    ],
+    "tags": [
+        "About D - more info.",
+        "bariatric surgery",
+        "brain",
+        "celiac",
+        "child",
+        "cognitive",
+        "gut",
+        "immunity",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -78,4 +91,4 @@ Feb 10, 2011 [Living La Vita Low Carb](http://livinlavidalowcarb.com/blog/the-ll
 
 1. How certain medications can actually destroy Vitamin D
 
-1. Why people with Celiac disease cannot sufficiently absorb Vitamin D 
+1. Why people with Celiac disease cannot sufficiently absorb Vitamin D

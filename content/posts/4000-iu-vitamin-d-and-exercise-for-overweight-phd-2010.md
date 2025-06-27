@@ -1,16 +1,25 @@
 {
-  "title": "4000 IU vitamin D and exercise for overweight \u2013 PhD 2010",
-  "slug": "4000-iu-vitamin-d-and-exercise-for-overweight-phd-2010",
-  "aliases": [
-    "/4000+IU+vitamin+D+and+exercise+for+overweight+\u2013+PhD+2010",
-    "/1790"
-  ],
-  "tiki_page_id": 1790,
-  "date": "2011-07-02",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "4000 IU vitamin D and exercise for overweight \u2013 PhD 2010",
+    "slug": "4000-iu-vitamin-d-and-exercise-for-overweight-phd-2010",
+    "aliases": [
+        "/4000+IU+vitamin+D+and+exercise+for+overweight+\u2013+PhD+2010",
+        "/1790"
+    ],
+    "tiki_page_id": 1790,
+    "date": "2011-07-02",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 

@@ -1,16 +1,64 @@
 {
-  "title": "Vitamin D Deficiency and Liver Disease",
-  "slug": "vitamin-d-deficiency-and-liver-disease",
-  "aliases": [
-    "/Vitamin+D+Deficiency+and+Liver+Disease+\u2013+Aug+2010",
-    "/1185"
-  ],
-  "tiki_page_id": 1185,
-  "date": "2010-11-26",
-  "categories": [
-    "Liver"
-  ]
+    "title": "Vitamin D Deficiency and Liver Disease",
+    "slug": "vitamin-d-deficiency-and-liver-disease",
+    "aliases": [
+        "/Vitamin+D+Deficiency+and+Liver+Disease+\u2013+Aug+2010",
+        "/1185"
+    ],
+    "tiki_page_id": 1185,
+    "date": "2010-11-26",
+    "categories": [
+        "Liver"
+    ],
+    "tags": [
+        "CKD",
+        "Liver",
+        "NAFLD",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "breastfed",
+        "breathing",
+        "cancer",
+        "celiac",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "cholesterol",
+        "crohns",
+        "cystic fibrosis",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "gut",
+        "health risk",
+        "hepatitis c",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "kidney",
+        "liver",
+        "metabolic",
+        "obesity",
+        "obesity and cancer",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "rickets",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d binding"
+    ]
 }
+
 
 Gastroenterol Hepatol (N Y). 2010 August; 6(8): 491–493.
 
@@ -110,4 +158,4 @@ SN It is likely that it was always a problem, but the data from the National Hea
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2177">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)

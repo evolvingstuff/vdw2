@@ -1,16 +1,57 @@
 {
-  "title": "IoM error: 8 percent, not just 1 percent, had bone loss when vitamin D higher than 20 ng",
-  "slug": "iom-error-8-percent-not-just-1-percent-had-bone-loss-when-vitamin-d-higher-than-20-ng",
-  "aliases": [
-    "/IoM+error+8+percent+not+just+1+percent+had+bone+loss+when+vitamin+D+higher+than+20+ng",
-    "/1806"
-  ],
-  "tiki_page_id": 1806,
-  "date": "2011-07-07",
-  "categories": [
-    "How much Vitamin D",
-    "Bone - Health"
-  ]
+    "title": "IoM error: 8 percent, not just 1 percent, had bone loss when vitamin D higher than 20 ng",
+    "slug": "iom-error-8-percent-not-just-1-percent-had-bone-loss-when-vitamin-d-higher-than-20-ng",
+    "aliases": [
+        "/IoM+error+8+percent+not+just+1+percent+had+bone+loss+when+vitamin+D+higher+than+20+ng",
+        "/1806"
+    ],
+    "tiki_page_id": 1806,
+    "date": "2011-07-07",
+    "categories": [
+        "How much Vitamin D",
+        "Bone - Health"
+    ],
+    "tags": [
+        "Bone - Health",
+        "How much Vitamin D",
+        "SAD",
+        "anxiety",
+        "asthma",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "dental",
+        "dermatology",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "fertility sperm",
+        "hair",
+        "health risk",
+        "high dose",
+        "immunity",
+        "intervention",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mood disorders",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "periodontitis",
+        "pregnancy",
+        "prostate cancer",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

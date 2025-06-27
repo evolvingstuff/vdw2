@@ -1,15 +1,31 @@
 {
-  "title": "70 percent of rheumatology outpatients had less than 21 ng vitamin D",
-  "slug": "70-percent-of-rheumatology-outpatients-had-less-than-21-ng-vitamin-d",
-  "aliases": [
-    "/70+percent+of+rheumatology+outpatients+had+less+than+21+ng+vitamin+D+\u2013+Dec+2010",
-    "/1262"
-  ],
-  "tiki_page_id": 1262,
-  "date": "2010-12-25",
-  "categories": [
-    "Rheumatoid Arthritis"
-  ]
+    "title": "70 percent of rheumatology outpatients had less than 21 ng vitamin D",
+    "slug": "70-percent-of-rheumatology-outpatients-had-less-than-21-ng-vitamin-d",
+    "aliases": [
+        "/70+percent+of+rheumatology+outpatients+had+less+than+21+ng+vitamin+D+\u2013+Dec+2010",
+        "/1262"
+    ],
+    "tiki_page_id": 1262,
+    "date": "2010-12-25",
+    "categories": [
+        "Rheumatoid Arthritis"
+    ],
+    "tags": [
+        "Rheumatoid Arthritis",
+        "autoimmune",
+        "back pain",
+        "blood levels",
+        "bone",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "osteoporosis",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -76,4 +92,3 @@ The results suggest vitamin D deficiency as a possible modifiable risk factor in
 * [CLICK HERE](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=49&sort_mode=created_desc) for Bone Health 
 
 * [CLICK HERE](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=20&sort_mode=created_desc) for Pain - chronic, including Back Pain
-

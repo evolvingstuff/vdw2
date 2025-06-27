@@ -1,15 +1,26 @@
 {
-  "title": "Excellent short Vitamin D video by Dr. Oz - 2011",
-  "slug": "excellent-short-vitamin-d-video-by-dr-oz-2011",
-  "aliases": [
-    "/Excellent+short+Vitamin+D+video+by+Dr+Oz+-+2011",
-    "/1851"
-  ],
-  "tiki_page_id": 1851,
-  "date": "2011-07-22",
-  "categories": [
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Excellent short Vitamin D video by Dr. Oz - 2011",
+    "slug": "excellent-short-vitamin-d-video-by-dr-oz-2011",
+    "aliases": [
+        "/Excellent+short+Vitamin+D+video+by+Dr+Oz+-+2011",
+        "/1851"
+    ],
+    "tiki_page_id": 1851,
+    "date": "2011-07-22",
+    "categories": [
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "blood levels",
+        "cancer",
+        "cholesterol",
+        "colon cancer",
+        "endometrial cancer",
+        "health risk",
+        "immunity",
+        "vitamin d"
+    ]
 }
 
 

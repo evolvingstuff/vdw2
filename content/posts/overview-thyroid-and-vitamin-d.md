@@ -1,17 +1,65 @@
 {
-  "title": "Overview Thyroid and Vitamin D",
-  "slug": "overview-thyroid-and-vitamin-d",
-  "aliases": [
-    "/Overview+Thyroid+and+Vitamin+D",
-    "/1323"
-  ],
-  "tiki_page_id": 1323,
-  "date": "2011-01-18",
-  "categories": [
-    "Overviews",
-    "Thyroid and parathyroid"
-  ]
+    "title": "Overview Thyroid and Vitamin D",
+    "slug": "overview-thyroid-and-vitamin-d",
+    "aliases": [
+        "/Overview+Thyroid+and+Vitamin+D",
+        "/1323"
+    ],
+    "tiki_page_id": 1323,
+    "date": "2011-01-18",
+    "categories": [
+        "Overviews",
+        "Thyroid and parathyroid"
+    ],
+    "tags": [
+        "Overviews",
+        "PCOS",
+        "Thyroid and parathyroid",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "brain",
+        "cancer",
+        "cancer in VDR",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "cognitive",
+        "dementia",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "dry eye",
+        "fertility sperm",
+        "genetics",
+        "health risk",
+        "high dose",
+        "immunity",
+        "intervention",
+        "iodine",
+        "life span",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "pediatric autoimmune",
+        "pregnancy",
+        "therapeutic intervention",
+        "thyroid cancer",
+        "type 1 diabetes",
+        "vision",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 {{< toc >}}
 

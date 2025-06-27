@@ -1,15 +1,22 @@
 {
-  "title": "Vitamin D3 better than D2",
-  "slug": "vitamin-d3-better-than-d2",
-  "aliases": [
-    "/Vitamin+D3+better+than+D2+\u2013+March+2011",
-    "/2031"
-  ],
-  "tiki_page_id": 2031,
-  "date": "2011-09-25",
-  "categories": [
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Vitamin D3 better than D2",
+    "slug": "vitamin-d3-better-than-d2",
+    "aliases": [
+        "/Vitamin+D3+better+than+D2+\u2013+March+2011",
+        "/2031"
+    ],
+    "tiki_page_id": 2031,
+    "date": "2011-09-25",
+    "categories": [
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

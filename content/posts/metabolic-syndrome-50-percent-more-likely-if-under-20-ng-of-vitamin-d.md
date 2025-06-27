@@ -1,15 +1,29 @@
 {
-  "title": "Metabolic syndrome 50 percent more likely if under 20 ng of vitamin D",
-  "slug": "metabolic-syndrome-50-percent-more-likely-if-under-20-ng-of-vitamin-d",
-  "aliases": [
-    "/Metabolic+syndrome+50+percent+more+likely+if+under+20+ng+of+vitamin+D+-+May+2011",
-    "/1647"
-  ],
-  "tiki_page_id": 1647,
-  "date": "2011-05-22",
-  "categories": [
-    "Metabolic Syndrome"
-  ]
+    "title": "Metabolic syndrome 50 percent more likely if under 20 ng of vitamin D",
+    "slug": "metabolic-syndrome-50-percent-more-likely-if-under-20-ng-of-vitamin-d",
+    "aliases": [
+        "/Metabolic+syndrome+50+percent+more+likely+if+under+20+ng+of+vitamin+D+-+May+2011",
+        "/1647"
+    ],
+    "tiki_page_id": 1647,
+    "date": "2011-05-22",
+    "categories": [
+        "Metabolic Syndrome"
+    ],
+    "tags": [
+        "Metabolic Syndrome",
+        "alcohol",
+        "blood levels",
+        "cholesterol",
+        "diabetes",
+        "health risk",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

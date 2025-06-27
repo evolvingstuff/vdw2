@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>New Vitamin D Guidelines for Cystic Fibrosis Patients</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>New Vitamin D Guidelines for Cystic Fibrosis Patients</h1><time>August 19, 2012</time><div data-pagefind-body><p>A copy of a blog post at <a href=http://www.ourcfmattershawaii.com/>http://www.ourcfmattershawaii.com/</a></p><p>Hi all,</p><p>As a result of the natural effects that cystic fibrosis has on the body, with regard to lung infections and the inability of cystics to absorb certain nutrients, those with CF typically carry insufficient levels of vitamin D. Earlier this year, the U.S. Cystic Fibrosis Foundation (CFF) updated their recommended guidelines of vitamin D intake and screening, which emphasizes the prevention of this vitamin’s deficiency in patients. This update, together with causes of low vitamin D levels in cystics, is discussed in today&rsquo;s posting.</p><p>There are several factors which result in vitamin D deficiencies in those with cystic fibrosis, ranging from pancreatic enzyme insufficiency that affects between 90-95% of CF patients, to late stage puberty, to the lung conditions that are common among those in the cystic fibrosis community. In addition, since vitamin D is fat soluble, and since cystics tend to have less fat body fat to store this vitamin, this issue of the deficiency is exacerbated <a href=http://www.hindawi.com/journals/ije/2010/218691/>http://www.hindawi.com/journals/ije/2010/218691/</a>. The importance for proper levels of vitamin D in cystics is accentuated by a finding noted in the previous website, which shows a correlation between levels of this vitamin and decreased FEV1, an important measure of lung function.</p><p>A study published by Johns Hopkins Children Center in 2008 stated that of 262 CF patients included in the trial, nearly half were vitamin D deficient <a href=http://www.hopkinschildrens.org/Children-Cystic-Fibrosis-Vitamin-D-Needs.aspx#>http://www.hopkinschildrens.org/Children-Cystic-Fibrosis-Vitamin-D-Needs.aspx#</a>. The report also showed that the level of deficiency varied by the seasons, due to the differing patient exposure to sunlight during those times. It therefore follows that the biggest vitamin D deficiencies among patients were noted in the fall, with 83% of patients showing this characteristic, while only 41% realized this setback during the summer.</p><p>In studies similar to those performed by Johns Hopkins, it was demonstrated that previous guidelines to assist in the maintenance of vitamin D levels for cystics set by CFF were not adequate. As a result, in March 2012, the CF Foundation updated their vitamin D guidelines to emphasize prevention of the vitamin deficiency <a href=http://news.emory.edu/stories/2012/03/jj_vitamind_guidelines_fystic_fibrosis/index.html>http://news.emory.edu/stories/2012/03/jj_vitamind_guidelines_fystic_fibrosis/index.html</a>. This is in contrast to the past, where, according to a source in the previous link, the recommended guidelines suggested only dosing the patient with vitamin D when levels were low. However, new guidelines spell out an approach to increase intake of this vitamin at all times, whether the patient is deficient or not, and also recommend age-specific vitamin D intake for cystics, which can be found at the Foundation&rsquo;s website <a href=http://www.cff.org/UploadedFiles/treatments/Therapies/Nutrition/Vitamins/Vitamin-D-and-CF.pdf>http://www.cff.org/UploadedFiles/treatments/Therapies/Nutrition/Vitamins/Vitamin-D-and-CF.pdf</a>.</p><p>Further, it is advised that cystics be screened annually for their vitamin D status, preferably at the end of the winter.</p><p>Lastly, it is encouraged by the CF Foundation that the intake of vitamin D is in the form of D3, versus the previously recommended D2.</p><p>Live life.</p><p>A brief video introducing this posting can be seen on YouTube at <a href="http://www.youtube.com/watch?v=W5fQ6l8ahU0&amp;feature=plcp">http://www.youtube.com/watch?v=W5fQ6l8ahU0&amp;feature=plcp</a>.</p><p>BTW - If you would like me to research and post any topic of interest regarding Cystic Fibrosis, please feel free to e-mail your suggestions to me at <a href=mailto:rod@ourcfmattershawaii.com>rod@ourcfmattershawaii.com</a>.</p><p>I will do my best to place your idea into my queue of topics to cover on this site. Thanks for your feedback.</p><p>Rod</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bone</span>
+<span class=tag>breathing</span>
+<span class=tag>child</span>
+<span class=tag>cystic fibrosis</span>
+<span class=tag>Cystic Fibrosis</span>
+<span class=tag>falls fractures</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>bone, breathing, child, cystic fibrosis, Cystic Fibrosis, falls fractures, vitamin d</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

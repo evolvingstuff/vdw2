@@ -1,15 +1,28 @@
 {
-  "title": "Skeletal health needs at least 30 ng of vitamin D \u2013 German paper",
-  "slug": "skeletal-health-needs-at-least-30-ng-of-vitamin-d-german-paper",
-  "aliases": [
-    "/Skeletal+health+needs+at+least+30+ng+of+vitamin+D+\u2013+German+paper+\u2013+March+2011",
-    "/1570"
-  ],
-  "tiki_page_id": 1570,
-  "date": "2011-04-07",
-  "categories": [
-    "Bone - Health"
-  ]
+    "title": "Skeletal health needs at least 30 ng of vitamin D \u2013 German paper",
+    "slug": "skeletal-health-needs-at-least-30-ng-of-vitamin-d-german-paper",
+    "aliases": [
+        "/Skeletal+health+needs+at+least+30+ng+of+vitamin+D+\u2013+German+paper+\u2013+March+2011",
+        "/1570"
+    ],
+    "tiki_page_id": 1570,
+    "date": "2011-04-07",
+    "categories": [
+        "Bone - Health"
+    ],
+    "tags": [
+        "Bone - Health",
+        "autoimmune",
+        "blood levels",
+        "cancer",
+        "high dose",
+        "intervention",
+        "life span",
+        "mortality",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

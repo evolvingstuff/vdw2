@@ -1,17 +1,46 @@
 {
-  "title": "100000 IU vitamin D monthly helps COPD patients \u2013 3 RCT",
-  "slug": "100000-iu-vitamin-d-monthly-helps-copd-patients-3-rct",
-  "aliases": [
-    "/100000+IU+vitamin+D+monthly+helps+COPD+patients+\u2013+3+RCT",
-    "/1646"
-  ],
-  "tiki_page_id": 1646,
-  "date": "2011-05-22",
-  "categories": [
-    "Breathing",
-    "Intervention"
-  ]
+    "title": "100000 IU vitamin D monthly helps COPD patients \u2013 3 RCT",
+    "slug": "100000-iu-vitamin-d-monthly-helps-copd-patients-3-rct",
+    "aliases": [
+        "/100000+IU+vitamin+D+monthly+helps+COPD+patients+\u2013+3+RCT",
+        "/1646"
+    ],
+    "tiki_page_id": 1646,
+    "date": "2011-05-22",
+    "categories": [
+        "Breathing",
+        "Intervention"
+    ],
+    "tags": [
+        "Breathing",
+        "Intervention",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "high dose",
+        "intervention",
+        "life span",
+        "magnesium",
+        "magnesium and viruses",
+        "mononucleosis",
+        "mortality",
+        "multiple sclerosis",
+        "osteoporosis",
+        "therapeutic intervention",
+        "virus",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "vitamin k",
+        "vitamin k and viruses"
+    ]
 }
+
 
 {{< toc >}}
 

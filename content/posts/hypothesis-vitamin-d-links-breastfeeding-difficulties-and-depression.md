@@ -1,16 +1,26 @@
 {
-  "title": "Hypothesis \u2013 vitamin D links breastfeeding difficulties and depression",
-  "slug": "hypothesis-vitamin-d-links-breastfeeding-difficulties-and-depression",
-  "aliases": [
-    "/Hypothesis+\u2013+vitamin+D+links+breastfeeding+difficulties+and+depression+\u2013+July+2011",
-    "/1845"
-  ],
-  "tiki_page_id": 1845,
-  "date": "2011-07-19",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Hypothesis \u2013 vitamin D links breastfeeding difficulties and depression",
+    "slug": "hypothesis-vitamin-d-links-breastfeeding-difficulties-and-depression",
+    "aliases": [
+        "/Hypothesis+\u2013+vitamin+D+links+breastfeeding+difficulties+and+depression+\u2013+July+2011",
+        "/1845"
+    ],
+    "tiki_page_id": 1845,
+    "date": "2011-07-19",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "breastfed",
+        "depression",
+        "depression and pregnancy",
+        "mood disorders",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

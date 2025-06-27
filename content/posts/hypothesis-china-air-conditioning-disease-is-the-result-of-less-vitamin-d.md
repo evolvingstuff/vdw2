@@ -1,16 +1,30 @@
 {
-  "title": "Hypothesis \u2013 China air conditioning disease is the result of less vitamin D",
-  "slug": "hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d",
-  "aliases": [
-    "/Hypothesis+\u2013+China+air+conditioning+disease+is+the+result+of+less+vitamin+D+\u2013+March+2011",
-    "/1547"
-  ],
-  "tiki_page_id": 1547,
-  "date": "2011-04-01",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Orient"
-  ]
+    "title": "Hypothesis \u2013 China air conditioning disease is the result of less vitamin D",
+    "slug": "hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d",
+    "aliases": [
+        "/Hypothesis+\u2013+China+air+conditioning+disease+is+the+result+of+less+vitamin+D+\u2013+March+2011",
+        "/1547"
+    ],
+    "tiki_page_id": 1547,
+    "date": "2011-04-01",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Orient"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Orient",
+        "cardiovascular",
+        "depression",
+        "headache",
+        "health risk",
+        "mood disorders",
+        "pain",
+        "pollution",
+        "stroke",
+        "stroke and depression",
+        "vitamin d"
+    ]
 }
 
 

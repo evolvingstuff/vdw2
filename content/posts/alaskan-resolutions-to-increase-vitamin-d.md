@@ -1,15 +1,23 @@
 {
-  "title": "Alaskan Resolutions to increase vitamin D",
-  "slug": "alaskan-resolutions-to-increase-vitamin-d",
-  "aliases": [
-    "/Alaskan+Resolutions+to+increase+vitamin+D",
-    "/1280"
-  ],
-  "tiki_page_id": 1280,
-  "date": "2011-01-05",
-  "categories": [
-    "Vitamin D Far from equator"
-  ]
+    "title": "Alaskan Resolutions to increase vitamin D",
+    "slug": "alaskan-resolutions-to-increase-vitamin-d",
+    "aliases": [
+        "/Alaskan+Resolutions+to+increase+vitamin+D",
+        "/1280"
+    ],
+    "tiki_page_id": 1280,
+    "date": "2011-01-05",
+    "categories": [
+        "Vitamin D Far from equator"
+    ],
+    "tags": [
+        "Vitamin D Far from equator",
+        "bone",
+        "dosage",
+        "pregnancy",
+        "rickets",
+        "vitamin d"
+    ]
 }
 
 

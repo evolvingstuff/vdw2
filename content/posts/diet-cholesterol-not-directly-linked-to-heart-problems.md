@@ -1,15 +1,21 @@
 {
-  "title": "Diet cholesterol not directly linked to heart problems",
-  "slug": "diet-cholesterol-not-directly-linked-to-heart-problems",
-  "aliases": [
-    "/Diet+cholesterol+not+directly+linked+to+heart+problems+\u2013+Mar+2011",
-    "/1469"
-  ],
-  "tiki_page_id": 1469,
-  "date": "2011-03-10",
-  "categories": [
-    "Cholesterol"
-  ]
+    "title": "Diet cholesterol not directly linked to heart problems",
+    "slug": "diet-cholesterol-not-directly-linked-to-heart-problems",
+    "aliases": [
+        "/Diet+cholesterol+not+directly+linked+to+heart+problems+\u2013+Mar+2011",
+        "/1469"
+    ],
+    "tiki_page_id": 1469,
+    "date": "2011-03-10",
+    "categories": [
+        "Cholesterol"
+    ],
+    "tags": [
+        "Cholesterol",
+        "cholesterol",
+        "health risk",
+        "vitamin d"
+    ]
 }
 
 
@@ -35,4 +41,4 @@ Given the necessity for cholesterol, very effective intestinal uptake mechanisms
 
 Recent biological data concerning the effect of dietary cholesterol on LDL receptor-related protein may explain the complexity of the effect of cholesterol on CVD risk.
 
-PMID: 21385506 
+PMID: 21385506

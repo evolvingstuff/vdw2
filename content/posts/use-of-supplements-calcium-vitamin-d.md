@@ -1,13 +1,17 @@
 {
-  "title": "Use of supplements \u2013 Calcium \u2013 Vitamin D",
-  "slug": "use-of-supplements-calcium-vitamin-d",
-  "aliases": [
-    "/Use+of+supplements+\u2013+Calcium+\u2013+Vitamin+D+\u2013+April+2011",
-    "/1587"
-  ],
-  "tiki_page_id": 1587,
-  "date": "2011-04-23"
+    "title": "Use of supplements \u2013 Calcium \u2013 Vitamin D",
+    "slug": "use-of-supplements-calcium-vitamin-d",
+    "aliases": [
+        "/Use+of+supplements+\u2013+Calcium+\u2013+Vitamin+D+\u2013+April+2011",
+        "/1587"
+    ],
+    "tiki_page_id": 1587,
+    "date": "2011-04-23",
+    "tags": [
+        "vitamin d"
+    ]
 }
+
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

@@ -1,16 +1,25 @@
 {
-  "title": "Review of synergy between vitamins D and K2 \u2013 2010",
-  "slug": "review-of-synergy-between-vitamins-d-and-k2-2010",
-  "aliases": [
-    "/Review+of+synergy+between+vitamins+D+and+K2+\u2013+2010",
-    "/1877"
-  ],
-  "tiki_page_id": 1877,
-  "date": "2011-07-31",
-  "categories": [
-    "Vitamin D and Vitamin K"
-  ]
+    "title": "Review of synergy between vitamins D and K2 \u2013 2010",
+    "slug": "review-of-synergy-between-vitamins-d-and-k2-2010",
+    "aliases": [
+        "/Review+of+synergy+between+vitamins+D+and+K2+\u2013+2010",
+        "/1877"
+    ],
+    "tiki_page_id": 1877,
+    "date": "2011-07-31",
+    "categories": [
+        "Vitamin D and Vitamin K"
+    ],
+    "tags": [
+        "Vitamin D and Vitamin K",
+        "genetics",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "vitamin k"
+    ]
 }
+
 
 &nbsp;
 
@@ -35,4 +44,3 @@ PMID:     21155624
 # See also VitaminDWiki
 
 * <a href="/posts/vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Vitamin K and Vitamin D</a>
-

@@ -1,15 +1,25 @@
 {
-  "title": "Hip fractures worse if very low on vitamin D",
-  "slug": "hip-fractures-worse-if-very-low-on-vitamin-d",
-  "aliases": [
-    "/Hip+fractures+worse+if+very+low+on+vitamin+D+\u2013+Mar+2011",
-    "/1471"
-  ],
-  "tiki_page_id": 1471,
-  "date": "2011-03-12",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "Hip fractures worse if very low on vitamin D",
+    "slug": "hip-fractures-worse-if-very-low-on-vitamin-d",
+    "aliases": [
+        "/Hip+fractures+worse+if+very+low+on+vitamin+D+\u2013+Mar+2011",
+        "/1471"
+    ],
+    "tiki_page_id": 1471,
+    "date": "2011-03-12",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "blood levels",
+        "bone",
+        "bone stress fractures",
+        "falls fractures",
+        "hip fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -40,4 +50,3 @@ PMID: 21394494
 * <a href="/posts/overview-bone-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview: Bone fractures and vitamin D</a>
 
 * [All items: After surgery or trauma](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&sort_mode=created_desc)
-

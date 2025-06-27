@@ -1,16 +1,24 @@
 {
-  "title": "Heart transplant 19 ng vitamin D vs liver transplant 13 ng",
-  "slug": "heart-transplant-19-ng-vitamin-d-vs-liver-transplant-13-ng",
-  "aliases": [
-    "/Heart+transplant+19+ng+vitamin+D+vs+liver+transplant+13+ng+\u2013+April+2009",
-    "/1816"
-  ],
-  "tiki_page_id": 1816,
-  "date": "2011-07-10",
-  "categories": [
-    "Liver",
-    "Trauma and surgery"
-  ]
+    "title": "Heart transplant 19 ng vitamin D vs liver transplant 13 ng",
+    "slug": "heart-transplant-19-ng-vitamin-d-vs-liver-transplant-13-ng",
+    "aliases": [
+        "/Heart+transplant+19+ng+vitamin+D+vs+liver+transplant+13+ng+\u2013+April+2009",
+        "/1816"
+    ],
+    "tiki_page_id": 1816,
+    "date": "2011-07-10",
+    "categories": [
+        "Liver",
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Liver",
+        "Trauma and surgery",
+        "blood levels",
+        "transplant",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 

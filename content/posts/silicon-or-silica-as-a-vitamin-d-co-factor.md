@@ -1,15 +1,25 @@
 {
-  "title": "Silicon or silica as a vitamin D co-factor",
-  "slug": "silicon-or-silica-as-a-vitamin-d-co-factor",
-  "aliases": [
-    "/Silicon+or+silica+as+a+vitamin+D+co-factor",
-    "/1506"
-  ],
-  "tiki_page_id": 1506,
-  "date": "2011-03-24",
-  "categories": [
-    "Supplement"
-  ]
+    "title": "Silicon or silica as a vitamin D co-factor",
+    "slug": "silicon-or-silica-as-a-vitamin-d-co-factor",
+    "aliases": [
+        "/Silicon+or+silica+as+a+vitamin+D+co-factor",
+        "/1506"
+    ],
+    "tiki_page_id": 1506,
+    "date": "2011-03-24",
+    "categories": [
+        "Supplement"
+    ],
+    "tags": [
+        "Supplement",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "falls fractures",
+        "hip fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,16 +1,35 @@
 {
-  "title": "Vitamin D and Resveratrol reduce weight gain in rats",
-  "slug": "vitamin-d-and-resveratrol-reduce-weight-gain-in-rats",
-  "aliases": [
-    "/Vitamin+D+and+Resveratrol+reduce+weight+gain+in+rats+-+Sept+2011",
-    "/2013"
-  ],
-  "tiki_page_id": 2013,
-  "date": "2011-09-19",
-  "categories": [
-    "Obesity",
-    "Resveratrol"
-  ]
+    "title": "Vitamin D and Resveratrol reduce weight gain in rats",
+    "slug": "vitamin-d-and-resveratrol-reduce-weight-gain-in-rats",
+    "aliases": [
+        "/Vitamin+D+and+Resveratrol+reduce+weight+gain+in+rats+-+Sept+2011",
+        "/2013"
+    ],
+    "tiki_page_id": 2013,
+    "date": "2011-09-19",
+    "categories": [
+        "Obesity",
+        "Resveratrol"
+    ],
+    "tags": [
+        "Obesity",
+        "Resveratrol",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "health risk",
+        "life span",
+        "mortality",
+        "obesity",
+        "obesity and cancer",
+        "osteoporosis",
+        "vitamin d",
+        "weight loss"
+    ]
 }
 
 

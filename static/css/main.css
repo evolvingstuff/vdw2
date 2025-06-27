@@ -498,3 +498,25 @@ article {
 .search-results-panel .results-list li:last-child {
     border-bottom: none;
 }
+
+/* Tag styling */
+.tags {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.tag {
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 4px 12px;
+    margin: 3px;
+    border-radius: 16px;
+    font-size: 0.9rem;
+    border: 1px solid #ddd;
+}
+
+.tag:hover {
+    background-color: #e4e4e4;
+    cursor: pointer;
+}

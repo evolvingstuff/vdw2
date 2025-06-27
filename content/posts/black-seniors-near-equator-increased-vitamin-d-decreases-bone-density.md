@@ -1,16 +1,26 @@
 {
-  "title": "Black seniors near equator: increased vitamin D decreases bone density",
-  "slug": "black-seniors-near-equator-increased-vitamin-d-decreases-bone-density",
-  "aliases": [
-    "/Black+seniors+near+equator+increased+vitamin+D+decreases+bone+density+\u2013+Sept+2011",
-    "/2068"
-  ],
-  "tiki_page_id": 2068,
-  "date": "2011-10-05",
-  "categories": [
-    "Skin - Dark",
-    "Bone - Health"
-  ]
+    "title": "Black seniors near equator: increased vitamin D decreases bone density",
+    "slug": "black-seniors-near-equator-increased-vitamin-d-decreases-bone-density",
+    "aliases": [
+        "/Black+seniors+near+equator+increased+vitamin+D+decreases+bone+density+\u2013+Sept+2011",
+        "/2068"
+    ],
+    "tiki_page_id": 2068,
+    "date": "2011-10-05",
+    "categories": [
+        "Skin - Dark",
+        "Bone - Health"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Skin - Dark",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "falls fractures",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -61,4 +71,3 @@ PMID:     21104232
 * [All items in category Dark Skin](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc) 166 items Oct 2011
 
 * <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
-

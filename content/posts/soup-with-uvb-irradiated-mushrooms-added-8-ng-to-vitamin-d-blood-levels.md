@@ -1,15 +1,21 @@
 {
-  "title": "Soup with UVB irradiated mushrooms added 8 ng to vitamin D blood levels",
-  "slug": "soup-with-uvb-irradiated-mushrooms-added-8-ng-to-vitamin-d-blood-levels",
-  "aliases": [
-    "/Soup+with+UVB+irradiated+mushrooms+added+8+ng+to+vitamin+D+blood+levels+\u2013+May+2011",
-    "/1619"
-  ],
-  "tiki_page_id": 1619,
-  "date": "2011-05-12",
-  "categories": [
-    "Food sources for Vitamin D"
-  ]
+    "title": "Soup with UVB irradiated mushrooms added 8 ng to vitamin D blood levels",
+    "slug": "soup-with-uvb-irradiated-mushrooms-added-8-ng-to-vitamin-d-blood-levels",
+    "aliases": [
+        "/Soup+with+UVB+irradiated+mushrooms+added+8+ng+to+vitamin+D+blood+levels+\u2013+May+2011",
+        "/1619"
+    ],
+    "tiki_page_id": 1619,
+    "date": "2011-05-12",
+    "categories": [
+        "Food sources for Vitamin D"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -34,4 +40,3 @@ PMID:     21540874
 – – – – – – 
 
 # Apparently 28,000 IU over five weeks (=800 IU daily) of vitamin D2 increased vitamin D blood levels by 4 nmol = 1.6 ng/week = 8ng in 5 weeks.
-

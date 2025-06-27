@@ -1,19 +1,27 @@
 {
-  "title": "High blood pressure associated with high level of Calcium in blood",
-  "slug": "high-blood-pressure-associated-with-high-level-of-calcium-in-blood",
-  "aliases": [
-    "/High+blood+pressure+associated+with+high+level+of+Calcium+in+blood+\u2013+Oct+2011",
-    "/2073"
-  ],
-  "tiki_page_id": 2073,
-  "date": "2011-10-07",
-  "categories": [
-    "Vitamin D and Calcium",
-    "Hypertension"
-  ]
+    "title": "High blood pressure associated with high level of Calcium in blood",
+    "slug": "high-blood-pressure-associated-with-high-level-of-calcium-in-blood",
+    "aliases": [
+        "/High+blood+pressure+associated+with+high+level+of+Calcium+in+blood+\u2013+Oct+2011",
+        "/2073"
+    ],
+    "tiki_page_id": 2073,
+    "date": "2011-10-07",
+    "categories": [
+        "Vitamin D and Calcium",
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "Vitamin D and Calcium",
+        "hypertension",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
- **<span style="color:#00F;">(50 % more likely for the group with the highest serum calcium level)</span>** 
+
+**<span style="color:#00F;">(50 % more likely for the group with the highest serum calcium level)</span>** 
 
 # Serum Calcium Levels and Hypertension Among US Adults.
 
@@ -44,4 +52,3 @@ PMID:     21974758
 * [Overview Hypertension and vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Calcium can create heart problems - vitamin D neutral - Aug 2011](/posts/calcium-can-create-heart-problems-vitamin-d-neutral)
-

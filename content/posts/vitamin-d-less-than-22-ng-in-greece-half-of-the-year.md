@@ -1,15 +1,29 @@
 {
-  "title": "Vitamin D less than 22 ng in Greece half of the year",
-  "slug": "vitamin-d-less-than-22-ng-in-greece-half-of-the-year",
-  "aliases": [
-    "/Vitamin+D+less+than+22+ng+in+Greece+half+of+the+year\u2013+May+2011",
-    "/1720"
-  ],
-  "tiki_page_id": 1720,
-  "date": "2011-06-10",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "Vitamin D less than 22 ng in Greece half of the year",
+    "slug": "vitamin-d-less-than-22-ng-in-greece-half-of-the-year",
+    "aliases": [
+        "/Vitamin+D+less+than+22+ng+in+Greece+half+of+the+year\u2013+May+2011",
+        "/1720"
+    ],
+    "tiki_page_id": 1720,
+    "date": "2011-06-10",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "diabetes",
+        "metabolic",
+        "osteoporosis",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,16 +1,28 @@
 {
-  "title": "Blacks not taking mulitvitamins were 5X more likely to be vitamin D insufficient",
-  "slug": "blacks-not-taking-mulitvitamins-were-5x-more-likely-to-be-vitamin-d-insufficient",
-  "aliases": [
-    "/Blacks+not+taking+mulitvitamins+were+5X+more+likely+to+be+vitamin+D+insufficient\u2013+June+2011",
-    "/1729"
-  ],
-  "tiki_page_id": 1729,
-  "date": "2011-06-15",
-  "categories": [
-    "Skin - Dark"
-  ]
+    "title": "Blacks not taking mulitvitamins were 5X more likely to be vitamin D insufficient",
+    "slug": "blacks-not-taking-mulitvitamins-were-5x-more-likely-to-be-vitamin-d-insufficient",
+    "aliases": [
+        "/Blacks+not+taking+mulitvitamins+were+5X+more+likely+to+be+vitamin+D+insufficient\u2013+June+2011",
+        "/1729"
+    ],
+    "tiki_page_id": 1729,
+    "date": "2011-06-15",
+    "categories": [
+        "Skin - Dark"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "bacteria",
+        "diabetes",
+        "health risk",
+        "metabolic",
+        "obesity",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -63,4 +75,3 @@ PMID:     21668915
 * <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
 
 * [All items in category Dark Skin](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc)
-

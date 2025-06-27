@@ -1,15 +1,23 @@
 {
-  "title": "Skin tone changes with season \u2013 high BMI different",
-  "slug": "skin-tone-changes-with-season-high-bmi-different",
-  "aliases": [
-    "/Skin+tone+changes+with+season+\u2013+high+BMI+different+\u2013+Mar+2011",
-    "/1495"
-  ],
-  "tiki_page_id": 1495,
-  "date": "2011-03-19",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Skin tone changes with season \u2013 high BMI different",
+    "slug": "skin-tone-changes-with-season-high-bmi-different",
+    "aliases": [
+        "/Skin+tone+changes+with+season+\u2013+high+BMI+different+\u2013+Mar+2011",
+        "/1495"
+    ],
+    "tiki_page_id": 1495,
+    "date": "2011-03-19",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "blood levels",
+        "health risk",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

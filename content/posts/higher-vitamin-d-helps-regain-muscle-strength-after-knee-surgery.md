@@ -1,16 +1,28 @@
 {
-  "title": "Higher vitamin D helps regain muscle strength after knee surgery",
-  "slug": "higher-vitamin-d-helps-regain-muscle-strength-after-knee-surgery",
-  "aliases": [
-    "/Higher+vitamin+D+helps+regain+muscle+strength+after+knee+surgery+\u2013+July+2011",
-    "/1880"
-  ],
-  "tiki_page_id": 1880,
-  "date": "2011-08-01",
-  "categories": [
-    "Trauma and surgery"
-  ]
+    "title": "Higher vitamin D helps regain muscle strength after knee surgery",
+    "slug": "higher-vitamin-d-helps-regain-muscle-strength-after-knee-surgery",
+    "aliases": [
+        "/Higher+vitamin+D+helps+regain+muscle+strength+after+knee+surgery+\u2013+July+2011",
+        "/1880"
+    ],
+    "tiki_page_id": 1880,
+    "date": "2011-08-01",
+    "categories": [
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Trauma and surgery",
+        "autoimmune",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 

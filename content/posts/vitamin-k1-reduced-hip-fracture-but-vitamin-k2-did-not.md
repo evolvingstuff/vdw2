@@ -1,16 +1,25 @@
 {
-  "title": "Vitamin K1 reduced hip fracture but Vitamin K2 did not",
-  "slug": "vitamin-k1-reduced-hip-fracture-but-vitamin-k2-did-not",
-  "aliases": [
-    "/Vitamin+K1+reduced+hip+fracture+but+Vitamin+K2+did+not+\u2013+Aug+2011",
-    "/1933"
-  ],
-  "tiki_page_id": 1933,
-  "date": "2011-08-21",
-  "categories": [
-    "Bone - Health",
-    "Vitamin D and Vitamin K"
-  ]
+    "title": "Vitamin K1 reduced hip fracture but Vitamin K2 did not",
+    "slug": "vitamin-k1-reduced-hip-fracture-but-vitamin-k2-did-not",
+    "aliases": [
+        "/Vitamin+K1+reduced+hip+fracture+but+Vitamin+K2+did+not+\u2013+Aug+2011",
+        "/1933"
+    ],
+    "tiki_page_id": 1933,
+    "date": "2011-08-21",
+    "categories": [
+        "Bone - Health",
+        "Vitamin D and Vitamin K"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Vitamin D and Vitamin K",
+        "bone",
+        "falls fractures",
+        "hip fractures",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 

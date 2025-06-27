@@ -1,17 +1,44 @@
 {
-  "title": "Overview Osteoarthritis and Vitamin D",
-  "slug": "overview-osteoarthritis-and-vitamin-d",
-  "aliases": [
-    "/Overview+Osteoarthritis+and+Vitamin+D",
-    "/1423"
-  ],
-  "tiki_page_id": 1423,
-  "date": "2011-02-19",
-  "categories": [
-    "Overviews",
-    "Osteoarthritis"
-  ]
+    "title": "Overview Osteoarthritis and Vitamin D",
+    "slug": "overview-osteoarthritis-and-vitamin-d",
+    "aliases": [
+        "/Overview+Osteoarthritis+and+Vitamin+D",
+        "/1423"
+    ],
+    "tiki_page_id": 1423,
+    "date": "2011-02-19",
+    "categories": [
+        "Overviews",
+        "Osteoarthritis"
+    ],
+    "tags": [
+        "Osteoarthritis",
+        "Overviews",
+        "autoimmune",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "high dose",
+        "immunity",
+        "intervention",
+        "magnesium",
+        "obesity",
+        "obesity and vitamin d receptor",
+        "omega 3",
+        "osteoporosis",
+        "pain",
+        "rheumatoid arthritis",
+        "smoking",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "vitamin k"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -107,9 +134,9 @@ As a result of decreased movement secondary to pain, regional muscles may atroph
 
 #### OA and Omega-3
 
-* <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
+* [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-omega-3-are-the-only-supplements-which-show-benefit-in-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012">Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012</a>
+* [Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012](/posts/vitamin-d-and-omega-3-are-the-only-supplements-which-show-benefit-in-meta-analysis)
 
 * [Omega-3 helps cats with osteoarthritis](http://www.ncbi.nlm.nih.gov/pubmed/22882740) Aug 2012
 

@@ -1,13 +1,24 @@
 {
-  "title": "Vitamin D prevents low-level radiation damage - 2008",
-  "slug": "vitamin-d-prevents-low-level-radiation-damage-2008",
-  "aliases": [
-    "/Vitamin+D+prevents+low-level+radiation+damage+-+2008",
-    "/1517"
-  ],
-  "tiki_page_id": 1517,
-  "date": "2011-03-28"
+    "title": "Vitamin D prevents low-level radiation damage - 2008",
+    "slug": "vitamin-d-prevents-low-level-radiation-damage-2008",
+    "aliases": [
+        "/Vitamin+D+prevents+low-level+radiation+damage+-+2008",
+        "/1517"
+    ],
+    "tiki_page_id": 1517,
+    "date": "2011-03-28",
+    "tags": [
+        "cancer",
+        "cancer in VDR",
+        "dosage",
+        "genetics",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
+
 
 {IMG(attId="514")}{IMG}
 
@@ -137,4 +148,4 @@ It is possible that several of the transcribed by the VDR will help transcribe p
 
 1 sievert = 100 rem
 
-1 becquerel (Bq) = 1 count per second (cps) 
+1 becquerel (Bq) = 1 count per second (cps)

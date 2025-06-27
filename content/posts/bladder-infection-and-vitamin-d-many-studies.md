@@ -1,17 +1,30 @@
 {
-  "title": "Bladder infection and Vitamin D - many studies",
-  "slug": "bladder-infection-and-vitamin-d-many-studies",
-  "aliases": [
-    "/Bladder+infection+and+Vitamin+D+-+many+studies",
-    "/1381"
-  ],
-  "tiki_page_id": 1381,
-  "date": "2011-02-03",
-  "categories": [
-    "Infant-Child",
-    "Women"
-  ]
+    "title": "Bladder infection and Vitamin D - many studies",
+    "slug": "bladder-infection-and-vitamin-d-many-studies",
+    "aliases": [
+        "/Bladder+infection+and+Vitamin+D+-+many+studies",
+        "/1381"
+    ],
+    "tiki_page_id": 1381,
+    "date": "2011-02-03",
+    "categories": [
+        "Infant-Child",
+        "Women"
+    ],
+    "tags": [
+        "Infant-Child",
+        "Women",
+        "bacteria",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "infection",
+        "kidney",
+        "urinary tract infection",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

@@ -1,15 +1,26 @@
 {
-  "title": "Increase food sensitization by 80 percent if vitamin D deficient with specific genotypes",
-  "slug": "increase-food-sensitization-by-80-percent-if-vitamin-d-deficient-with-specific-genotypes",
-  "aliases": [
-    "/Increase+food+sensitization+by+80+percent+if+vitamin+D+deficient+with+specific+genotypes+\u2013+Aug+2011",
-    "/1899"
-  ],
-  "tiki_page_id": 1899,
-  "date": "2011-08-05",
-  "categories": [
-    "Autoimmune"
-  ]
+    "title": "Increase food sensitization by 80 percent if vitamin D deficient with specific genotypes",
+    "slug": "increase-food-sensitization-by-80-percent-if-vitamin-d-deficient-with-specific-genotypes",
+    "aliases": [
+        "/Increase+food+sensitization+by+80+percent+if+vitamin+D+deficient+with+specific+genotypes+\u2013+Aug+2011",
+        "/1899"
+    ],
+    "tiki_page_id": 1899,
+    "date": "2011-08-05",
+    "categories": [
+        "Autoimmune"
+    ],
+    "tags": [
+        "Autoimmune",
+        "CYPA",
+        "asthma",
+        "blood levels",
+        "breathing",
+        "child",
+        "genetics",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -50,4 +61,3 @@ Conclusions:? Our data demonstrate that VDD may increase the risk of FS among in
 * <a href="/posts/229-genes-related-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 794"> **229 Genes**  related to vitamin D - Aug 2010</a> which contains the following graph 
 
 <img src="/attachments/d3.mock.jpg" alt="image">
-

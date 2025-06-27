@@ -1,17 +1,29 @@
 {
-  "title": "Less muscle and insulin resistance for children of vitamin D deficient mothers",
-  "slug": "less-muscle-and-insulin-resistance-for-children-of-vitamin-d-deficient-mothers",
-  "aliases": [
-    "/Less+muscle+and+insulin+resistance+for+children+of+vitamin+D+deficient+mothers+\u2013+Jan+2011",
-    "/1316"
-  ],
-  "tiki_page_id": 1316,
-  "date": "2011-01-14",
-  "categories": [
-    "Sports and Vitamin D",
-    "Pregnancy",
-    "Diabetes"
-  ]
+    "title": "Less muscle and insulin resistance for children of vitamin D deficient mothers",
+    "slug": "less-muscle-and-insulin-resistance-for-children-of-vitamin-d-deficient-mothers",
+    "aliases": [
+        "/Less+muscle+and+insulin+resistance+for+children+of+vitamin+D+deficient+mothers+\u2013+Jan+2011",
+        "/1316"
+    ],
+    "tiki_page_id": 1316,
+    "date": "2011-01-14",
+    "categories": [
+        "Sports and Vitamin D",
+        "Pregnancy",
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "Pregnancy",
+        "Sports and Vitamin D",
+        "blood levels",
+        "bone",
+        "child",
+        "falls fractures",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -38,4 +50,3 @@ CONCLUSION: Intrauterine exposure to low 25(OH)D concentrations is associated wi
 ## See also VitaminDWiki
 
 * <a href="/posts/low-vitamin-d-in-pregnancy-epigenetic-pancreas-problems-in-offspring-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D in pregnancy – epigenetic pancreas problems in offspring (mice) – May 2016">Low vitamin D in pregnancy – epigenetic pancreas problems in offspring (mice) – May 2016</a>
-

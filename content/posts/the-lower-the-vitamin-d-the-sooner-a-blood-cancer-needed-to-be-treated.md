@@ -1,15 +1,23 @@
 {
-  "title": "The lower the vitamin D the sooner a blood cancer needed to be treated",
-  "slug": "the-lower-the-vitamin-d-the-sooner-a-blood-cancer-needed-to-be-treated",
-  "aliases": [
-    "/The+lower+the+vitamin+D+the+sooner+a+blood+cancer+needed+to+be+treated+\u2013+Nov+2011",
-    "/2142"
-  ],
-  "tiki_page_id": 2142,
-  "date": "2011-11-02",
-  "categories": [
-    "Cancer"
-  ]
+    "title": "The lower the vitamin D the sooner a blood cancer needed to be treated",
+    "slug": "the-lower-the-vitamin-d-the-sooner-a-blood-cancer-needed-to-be-treated",
+    "aliases": [
+        "/The+lower+the+vitamin+D+the+sooner+a+blood+cancer+needed+to+be+treated+\u2013+Nov+2011",
+        "/2142"
+    ],
+    "tiki_page_id": 2142,
+    "date": "2011-11-02",
+    "categories": [
+        "Cancer"
+    ],
+    "tags": [
+        "Cancer",
+        "blood levels",
+        "cancer",
+        "leukemia",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -46,4 +54,3 @@ Overall, 41 patients (31.5%) had severe vitamin D insufficiency (<10 ng/mL), 66 
 * <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a> which has many graphs, such as the following one
 
 <img src="/attachments/d3.mock.jpg" alt="image">
-

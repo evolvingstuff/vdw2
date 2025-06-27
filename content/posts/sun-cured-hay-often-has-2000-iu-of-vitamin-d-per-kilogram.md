@@ -1,16 +1,27 @@
 {
-  "title": "Sun-cured hay often has 2000 IU of vitamin D per kilogram",
-  "slug": "sun-cured-hay-often-has-2000-iu-of-vitamin-d-per-kilogram",
-  "aliases": [
-    "/Sun-cured+hay+often+has+2000+IU+of+vitamin+D+per+kilogram",
-    "/1858"
-  ],
-  "tiki_page_id": 1858,
-  "date": "2011-07-23",
-  "categories": [
-    "Veterinary and Vitamin D"
-  ]
+    "title": "Sun-cured hay often has 2000 IU of vitamin D per kilogram",
+    "slug": "sun-cured-hay-often-has-2000-iu-of-vitamin-d-per-kilogram",
+    "aliases": [
+        "/Sun-cured+hay+often+has+2000+IU+of+vitamin+D+per+kilogram",
+        "/1858"
+    ],
+    "tiki_page_id": 1858,
+    "date": "2011-07-23",
+    "categories": [
+        "Veterinary and Vitamin D"
+    ],
+    "tags": [
+        "Veterinary and Vitamin D",
+        "bone",
+        "cholesterol",
+        "dosage",
+        "health risk",
+        "magnesium",
+        "rickets",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

@@ -1,20 +1,34 @@
 {
-  "title": "Menstruation 10 months earlier if low on vitamin D",
-  "slug": "menstruation-10-months-earlier-if-low-on-vitamin-d",
-  "aliases": [
-    "/Menstruation+10+months+earlier+if+low+on+vitamin+D+\u2013+Aug+2011",
-    "/2045"
-  ],
-  "tiki_page_id": 2045,
-  "date": "2011-09-27",
-  "categories": [
-    "Women"
-  ]
+    "title": "Menstruation 10 months earlier if low on vitamin D",
+    "slug": "menstruation-10-months-earlier-if-low-on-vitamin-d",
+    "aliases": [
+        "/Menstruation+10+months+earlier+if+low+on+vitamin+D+\u2013+Aug+2011",
+        "/2045"
+    ],
+    "tiki_page_id": 2045,
+    "date": "2011-09-27",
+    "categories": [
+        "Women"
+    ],
+    "tags": [
+        "Women",
+        "blood levels",
+        "breast cancer",
+        "cancer",
+        "cancer in VDR",
+        "depression",
+        "genetics",
+        "mood disorders",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
 
-* <a href="/posts/early-puberty-if-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early Puberty if low vitamin D - many studies">Early Puberty if low vitamin D - many studies</a>
+* [Early Puberty if low vitamin D - many studies](/posts/early-puberty-if-low-vitamin-d-many-studies)
 
 * [depression category in VitaminDWiki](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&deep=off&type=)
 

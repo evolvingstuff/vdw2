@@ -1,15 +1,32 @@
 {
-  "title": "Vitamin D \u2013 pregnancy and lactation in high and low income countries",
-  "slug": "vitamin-d-pregnancy-and-lactation-in-high-and-low-income-countries",
-  "aliases": [
-    "/Vitamin+D+\u2013+pregnancy+and+lactation+in+high+and+low+income+countries+\u2013+Mar+2011",
-    "/1458"
-  ],
-  "tiki_page_id": 1458,
-  "date": "2011-03-04",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Vitamin D \u2013 pregnancy and lactation in high and low income countries",
+    "slug": "vitamin-d-pregnancy-and-lactation-in-high-and-low-income-countries",
+    "aliases": [
+        "/Vitamin+D+\u2013+pregnancy+and+lactation+in+high+and+low+income+countries+\u2013+Mar+2011",
+        "/1458"
+    ],
+    "tiki_page_id": 1458,
+    "date": "2011-03-04",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bone",
+        "child",
+        "high dose",
+        "intervention",
+        "pain",
+        "pediatric autoimmune",
+        "placenta",
+        "pregnancy",
+        "rheumatoid arthritis",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

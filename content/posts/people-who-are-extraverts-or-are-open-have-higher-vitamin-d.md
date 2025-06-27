@@ -1,15 +1,27 @@
 {
-  "title": "People who are extraverts or are open have higher vitamin D",
-  "slug": "people-who-are-extraverts-or-are-open-have-higher-vitamin-d",
-  "aliases": [
-    "/People+who+are+extraverts+or+are+open+have+higher+vitamin+D+\u2013+Jan+2011",
-    "/1365"
-  ],
-  "tiki_page_id": 1365,
-  "date": "2011-01-30",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "People who are extraverts or are open have higher vitamin D",
+    "slug": "people-who-are-extraverts-or-are-open-have-higher-vitamin-d",
+    "aliases": [
+        "/People+who+are+extraverts+or+are+open+have+higher+vitamin+D+\u2013+Jan+2011",
+        "/1365"
+    ],
+    "tiki_page_id": 1365,
+    "date": "2011-01-30",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "bipolar disorder",
+        "brain",
+        "cognitive",
+        "depression",
+        "genetics",
+        "mood disorders",
+        "neurological",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -28,4 +40,3 @@ METHODS: A total of 206 healthy unrelated volunteers (108 male, 98 female, age 3
 RESULTS: We found a significant correlation between 1,25(OH)(2)D(3) concentration and the factor  **extraversion**  (n?=?206, r?=?0.202, p?=?0.004) and the factor  **openness**  (n?=?206, r?=?0.148, p?=?0.034).
 
 CONCLUSION: The possible mechanisms by which 1,25(OH)(2)D(3) acts on the brain might include Ca(2+) signaling, buffering antioxidant, and anti-inflammatory defenses against vascular injury, stimulating neurotrophins and improving metabolic and cardiovascular function. In conclusion, we suggest that 1,25(OH)(2)D(3) might influence personality traits, promoting extrovert and open behavior. PMID: 21274699
-

@@ -1,18 +1,62 @@
 {
-  "title": "Let the Sun shine on you - Gillie",
-  "slug": "let-the-sun-shine-on-you-gillie",
-  "aliases": [
-    "/Let+the+Sun+shine+on+you+-+Gillie+Aug+2011",
-    "/1919"
-  ],
-  "tiki_page_id": 1919,
-  "date": "2011-08-15",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Evidence for D",
-    "Intervention",
-    "Vitamin D in Europe"
-  ]
+    "title": "Let the Sun shine on you - Gillie",
+    "slug": "let-the-sun-shine-on-you-gillie",
+    "aliases": [
+        "/Let+the+Sun+shine+on+you+-+Gillie+Aug+2011",
+        "/1919"
+    ],
+    "tiki_page_id": 1919,
+    "date": "2011-08-15",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Evidence for D",
+        "Intervention",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Evidence for D",
+        "Intervention",
+        "PCOS",
+        "Vitamin D in Europe",
+        "atherosclerosis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood pneumonia",
+        "childhood viruses",
+        "diabetes",
+        "falls fractures",
+        "high dose",
+        "hypertension",
+        "influenza",
+        "intervention",
+        "lymphoma",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pneumonia",
+        "pregnancy",
+        "rickets",
+        "sepsis",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "virus",
+        "virus and cardiovascular",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

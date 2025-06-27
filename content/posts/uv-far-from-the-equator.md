@@ -1,15 +1,20 @@
 {
-  "title": "UV far from the equator",
-  "slug": "uv-far-from-the-equator",
-  "aliases": [
-    "/UV+far+from+the+equator+\u2013+Oct+2011",
-    "/2104"
-  ],
-  "tiki_page_id": 2104,
-  "date": "2011-10-19",
-  "categories": [
-    "UV and Vitamin D"
-  ]
+    "title": "UV far from the equator",
+    "slug": "uv-far-from-the-equator",
+    "aliases": [
+        "/UV+far+from+the+equator+\u2013+Oct+2011",
+        "/2104"
+    ],
+    "tiki_page_id": 2104,
+    "date": "2011-10-19",
+    "categories": [
+        "UV and Vitamin D"
+    ],
+    "tags": [
+        "UV and Vitamin D",
+        "cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -42,4 +47,3 @@ Analyzing the best exposure time during the day in order to obtain a suitable le
 During summer, noon seems to be a good time of day for short periods of exposure, while during leisure times, longer periods of exposure without risk of sunburn are possible at mid-morning and mid-afternoon. At 3 h from noon, solar zenith angles are almost the same for sites between the tropics and North Patagonia, and at 4 h from noon, for all sites. Then, in these cases, the necessary exposure periods varied slightly between sites, only due to meteorological differences.
 
 PMID:     21971566
-

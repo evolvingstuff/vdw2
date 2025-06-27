@@ -1,15 +1,20 @@
 {
-  "title": "Whites with some sunshine can achieve more than 20 ng of vitamin D",
-  "slug": "whites-with-some-sunshine-can-achieve-more-than-20-ng-of-vitamin-d",
-  "aliases": [
-    "/Whites+with+some+sunshine+can+achieve+more+than+20+ng+of+vitamin+D+\u2013+Jan+2011",
-    "/1325"
-  ],
-  "tiki_page_id": 1325,
-  "date": "2011-01-19",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Whites with some sunshine can achieve more than 20 ng of vitamin D",
+    "slug": "whites-with-some-sunshine-can-achieve-more-than-20-ng-of-vitamin-d",
+    "aliases": [
+        "/Whites+with+some+sunshine+can+achieve+more+than+20+ng+of+vitamin+D+\u2013+Jan+2011",
+        "/1325"
+    ],
+    "tiki_page_id": 1325,
+    "date": "2011-01-19",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "blood levels",
+        "vitamin d"
+    ]
 }
 
 
@@ -62,4 +67,3 @@ Results from both model and experimental data show that relatively short exposur
 * [Weekly UV almost doubled elderly Vitamin D levels – Dec 2010](/posts/weekly-uv-almost-doubled-elderly-vitamin-d-levels)  with graph
 
 * <a href="/posts/perhaps-more-benefits-from-uv-than-just-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1235">Perhaps more benefits from UV than just vitamin D</a> various papers by author 2006-2010
-

@@ -1,15 +1,23 @@
 {
-  "title": "Vegan vitamin D levels are only 22 ng",
-  "slug": "vegan-vitamin-d-levels-are-only-22-ng",
-  "aliases": [
-    "/Vegan+vitamin+D+levels+are+only+22+ng+\u2013+Feb+2011",
-    "/1362"
-  ],
-  "tiki_page_id": 1362,
-  "date": "2011-01-30",
-  "categories": [
-    "Food sources for Vitamin D"
-  ]
+    "title": "Vegan vitamin D levels are only 22 ng",
+    "slug": "vegan-vitamin-d-levels-are-only-22-ng",
+    "aliases": [
+        "/Vegan+vitamin+D+levels+are+only+22+ng+\u2013+Feb+2011",
+        "/1362"
+    ],
+    "tiki_page_id": 1362,
+    "date": "2011-01-30",
+    "categories": [
+        "Food sources for Vitamin D"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -49,4 +57,4 @@ PMID: 20854716
 
  **Unlikely that 100 IU extra vitamin D in the meat would have resulted in 10ng more in the blood: see following** 
 
-* <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>
+* [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)

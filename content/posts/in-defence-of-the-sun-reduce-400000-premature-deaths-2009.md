@@ -1,16 +1,32 @@
 {
-  "title": "In Defence of the Sun \u2013 reduce 400000 premature deaths \u2013 2009",
-  "slug": "in-defence-of-the-sun-reduce-400000-premature-deaths-2009",
-  "aliases": [
-    "/In+Defence+of+the+Sun+\u2013+reduce+400000+premature+deaths+\u2013+2009",
-    "/1824"
-  ],
-  "tiki_page_id": 1824,
-  "date": "2011-07-13",
-  "categories": [
-    "UV and Vitamin D",
-    "Mortality and D"
-  ]
+    "title": "In Defence of the Sun \u2013 reduce 400000 premature deaths \u2013 2009",
+    "slug": "in-defence-of-the-sun-reduce-400000-premature-deaths-2009",
+    "aliases": [
+        "/In+Defence+of+the+Sun+\u2013+reduce+400000+premature+deaths+\u2013+2009",
+        "/1824"
+    ],
+    "tiki_page_id": 1824,
+    "date": "2011-07-13",
+    "categories": [
+        "UV and Vitamin D",
+        "Mortality and D"
+    ],
+    "tags": [
+        "Mortality and D",
+        "UV and Vitamin D",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "excess deaths",
+        "life span",
+        "melanoma",
+        "mortality",
+        "skin cancer",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

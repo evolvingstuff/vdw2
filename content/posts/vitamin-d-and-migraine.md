@@ -1,15 +1,75 @@
 {
-  "title": "Vitamin D and Migraine",
-  "slug": "vitamin-d-and-migraine",
-  "aliases": [
-    "/Vitamin+D+and+Migraine+\u2013+Nov+2010",
-    "/1184"
-  ],
-  "tiki_page_id": 1184,
-  "date": "2010-11-26",
-  "categories": [
-    "Headache"
-  ]
+    "title": "Vitamin D and Migraine",
+    "slug": "vitamin-d-and-migraine",
+    "aliases": [
+        "/Vitamin+D+and+Migraine+\u2013+Nov+2010",
+        "/1184"
+    ],
+    "tiki_page_id": 1184,
+    "date": "2010-11-26",
+    "categories": [
+        "Headache"
+    ],
+    "tags": [
+        "Headache",
+        "IBD",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "back pain",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breast cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "cholesterol",
+        "chronic fatigue",
+        "chronic pain",
+        "cognitive",
+        "depression",
+        "depression and pregnancy",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "gut",
+        "headache",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "influenza",
+        "intervention",
+        "life span",
+        "lupus",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "melanoma",
+        "metabolic",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "neurological",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "pregnancy",
+        "rheumatoid arthritis",
+        "rickets",
+        "systemic sclerosis",
+        "therapeutic intervention",
+        "virus",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

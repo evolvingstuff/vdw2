@@ -1,15 +1,27 @@
 {
-  "title": "Very low vitamin D associated with RA in women",
-  "slug": "very-low-vitamin-d-associated-with-ra-in-women",
-  "aliases": [
-    "/Very+low+vitamin+D+associated+with+RA+in+women+\u2013+Nov+2010",
-    "/1177"
-  ],
-  "tiki_page_id": 1177,
-  "date": "2010-11-26",
-  "categories": [
-    "Rheumatoid Arthritis"
-  ]
+    "title": "Very low vitamin D associated with RA in women",
+    "slug": "very-low-vitamin-d-associated-with-ra-in-women",
+    "aliases": [
+        "/Very+low+vitamin+D+associated+with+RA+in+women+\u2013+Nov+2010",
+        "/1177"
+    ],
+    "tiki_page_id": 1177,
+    "date": "2010-11-26",
+    "categories": [
+        "Rheumatoid Arthritis"
+    ],
+    "tags": [
+        "Rheumatoid Arthritis",
+        "autoimmune",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -40,4 +52,3 @@ Copyright © 2010. Published by Elsevier Ireland Ltd. PMID: 21093181
 1. Perhaps not enough vitamin D taken in to make a difference - no data
 
 1. Perhaps RA consumes vitamin D - a <a href="/posts/vicious-cycle" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">vicious cycle</a> has not been identified for RA that we are aware of
-

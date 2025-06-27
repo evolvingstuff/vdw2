@@ -1,16 +1,24 @@
 {
-  "title": "Vitamin D reduces lung damage due to radiotherapy",
-  "slug": "vitamin-d-reduces-lung-damage-due-to-radiotherapy",
-  "aliases": [
-    "/Vitamin+D+reduces+lung+damage+due+to+radiotherapy+\u2013+Oct+2011",
-    "/2055"
-  ],
-  "tiki_page_id": 2055,
-  "date": "2011-09-30",
-  "categories": [
-    "Trauma and surgery",
-    "Cancer - Lung"
-  ]
+    "title": "Vitamin D reduces lung damage due to radiotherapy",
+    "slug": "vitamin-d-reduces-lung-damage-due-to-radiotherapy",
+    "aliases": [
+        "/Vitamin+D+reduces+lung+damage+due+to+radiotherapy+\u2013+Oct+2011",
+        "/2055"
+    ],
+    "tiki_page_id": 2055,
+    "date": "2011-09-30",
+    "categories": [
+        "Trauma and surgery",
+        "Cancer - Lung"
+    ],
+    "tags": [
+        "Cancer - Lung",
+        "Trauma and surgery",
+        "breast cancer",
+        "cancer",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 
@@ -73,4 +81,3 @@ Group 4 got 10 IU per kg/day = 22 IU per pound per day = 3300 IU for 150 lb “r
 * <a href="/posts/chemotherapy-might-be-amplified-by-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 396">Chemotherapy might be amplified by vitamin D</a>
 
    * If the dose can be reduced, then the trauma to the body from Chemotherapy can be reduced with Vitamin D
-

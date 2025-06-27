@@ -1,16 +1,49 @@
 {
-  "title": "Modelling Vitamin D from the sun in Poland \u2013 2011",
-  "slug": "modelling-vitamin-d-from-the-sun-in-poland-2011",
-  "aliases": [
-    "/Modelling+Vitamin+D+from+the+sun+in+Poland+\u2013+2011",
-    "/2036"
-  ],
-  "tiki_page_id": 2036,
-  "date": "2011-09-26",
-  "categories": [
-    "Noontime sun and D",
-    "Vitamin D in Europe"
-  ]
+    "title": "Modelling Vitamin D from the sun in Poland \u2013 2011",
+    "slug": "modelling-vitamin-d-from-the-sun-in-poland-2011",
+    "aliases": [
+        "/Modelling+Vitamin+D+from+the+sun+in+Poland+\u2013+2011",
+        "/2036"
+    ],
+    "tiki_page_id": 2036,
+    "date": "2011-09-26",
+    "categories": [
+        "Noontime sun and D",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "Vitamin D in Europe",
+        "autoimmune",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "cancer",
+        "cataracts",
+        "cholesterol",
+        "colon cancer",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "hip fractures",
+        "intervention",
+        "lymphoma",
+        "metabolic",
+        "multiple sclerosis",
+        "osteoporosis",
+        "prostate cancer",
+        "skin cancer",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "ultraviolet light",
+        "virus",
+        "vision",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

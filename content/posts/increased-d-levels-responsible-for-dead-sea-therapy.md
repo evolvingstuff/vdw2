@@ -1,17 +1,32 @@
 {
-  "title": "Increased D levels responsible for Dead Sea therapy",
-  "slug": "increased-d-levels-responsible-for-dead-sea-therapy",
-  "aliases": [
-    "/Increased+D+levels+responsible+for+Dead+Sea+therapy+\u2013+May+2011",
-    "/1658"
-  ],
-  "tiki_page_id": 1658,
-  "date": "2011-05-24",
-  "categories": [
-    "Pain - chronic",
-    "Rheumatoid Arthritis",
-    "Osteoporosis"
-  ]
+    "title": "Increased D levels responsible for Dead Sea therapy",
+    "slug": "increased-d-levels-responsible-for-dead-sea-therapy",
+    "aliases": [
+        "/Increased+D+levels+responsible+for+Dead+Sea+therapy+\u2013+May+2011",
+        "/1658"
+    ],
+    "tiki_page_id": 1658,
+    "date": "2011-05-24",
+    "categories": [
+        "Pain - chronic",
+        "Rheumatoid Arthritis",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "Pain - chronic",
+        "Rheumatoid Arthritis",
+        "autoimmune",
+        "back pain",
+        "chronic pain",
+        "high dose",
+        "intervention",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

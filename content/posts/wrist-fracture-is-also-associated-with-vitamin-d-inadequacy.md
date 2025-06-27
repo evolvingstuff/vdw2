@@ -1,16 +1,31 @@
 {
-  "title": "Wrist fracture is also associated with vitamin D inadequacy",
-  "slug": "wrist-fracture-is-also-associated-with-vitamin-d-inadequacy",
-  "aliases": [
-    "/Wrist+fracture+is+also+associated+with+vitamin+D+inadequacy",
-    "/1380"
-  ],
-  "tiki_page_id": 1380,
-  "date": "2011-02-03",
-  "categories": [
-    "Bone - Health",
-    "Falls and Fractures"
-  ]
+    "title": "Wrist fracture is also associated with vitamin D inadequacy",
+    "slug": "wrist-fracture-is-also-associated-with-vitamin-d-inadequacy",
+    "aliases": [
+        "/Wrist+fracture+is+also+associated+with+vitamin+D+inadequacy",
+        "/1380"
+    ],
+    "tiki_page_id": 1380,
+    "date": "2011-02-03",
+    "categories": [
+        "Bone - Health",
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Falls and Fractures",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "falls fractures",
+        "health risk",
+        "hip fractures",
+        "osteoporosis",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

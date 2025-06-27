@@ -1,17 +1,29 @@
 {
-  "title": "Vitamin D less than 10 ng for groups of 45 year olds",
-  "slug": "vitamin-d-less-than-10-ng-for-groups-of-45-year-olds",
-  "aliases": [
-    "/Vitamin+D+less+than+10+ng+for+groups+of+45+year+olds+\u2013+May+2010",
-    "/1719"
-  ],
-  "tiki_page_id": 1719,
-  "date": "2011-06-10",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Obesity"
-  ]
+    "title": "Vitamin D less than 10 ng for groups of 45 year olds",
+    "slug": "vitamin-d-less-than-10-ng-for-groups-of-45-year-olds",
+    "aliases": [
+        "/Vitamin+D+less+than+10+ng+for+groups+of+45+year+olds+\u2013+May+2010",
+        "/1719"
+    ],
+    "tiki_page_id": 1719,
+    "date": "2011-06-10",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Obesity"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Obesity",
+        "alcohol",
+        "blood levels",
+        "child",
+        "health risk",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -55,5 +67,4 @@ Conclusions:  Current vitamin D status was associated  with tPA concentrations, 
 
 {IMG(attId="565")}{IMG}
 
-- - - - - - 
-
+- - - - - -

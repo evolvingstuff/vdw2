@@ -1,17 +1,100 @@
 {
-  "title": "Report on Vitamin D \u2013 35 pages",
-  "slug": "report-on-vitamin-d-35-pages",
-  "aliases": [
-    "/Report+on+Vitamin+D+\u2013+35+pages+Dec+2010",
-    "/1217"
-  ],
-  "tiki_page_id": 1217,
-  "date": "2010-12-08",
-  "categories": [
-    "About D - more info.",
-    "Overview for doctors"
-  ]
+    "title": "Report on Vitamin D \u2013 35 pages",
+    "slug": "report-on-vitamin-d-35-pages",
+    "aliases": [
+        "/Report+on+Vitamin+D+\u2013+35+pages+Dec+2010",
+        "/1217"
+    ],
+    "tiki_page_id": 1217,
+    "date": "2010-12-08",
+    "categories": [
+        "About D - more info.",
+        "Overview for doctors"
+    ],
+    "tags": [
+        "About D - more info.",
+        "CKD",
+        "IBD",
+        "Overview for doctors",
+        "SAD",
+        "antibiotics",
+        "anxiety",
+        "atopic dermatitis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bipolar disorder",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "brain",
+        "breastfed",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "celiac",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "cholesterol",
+        "cognitive",
+        "colon cancer",
+        "cystic fibrosis",
+        "depression",
+        "depression and pregnancy",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dialysis",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "gut",
+        "headache",
+        "health risk",
+        "high dose",
+        "hip fractures",
+        "hypertension",
+        "immunity",
+        "intervention",
+        "kidney",
+        "life span",
+        "metabolic",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "neurological",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "pregnancy",
+        "prostate cancer",
+        "psoriasis",
+        "rheumatoid arthritis",
+        "rickets",
+        "skin cancer",
+        "therapeutic intervention",
+        "tuberculosis",
+        "type 1 diabetes",
+        "ultraviolet light",
+        "virus",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 
@@ -224,4 +307,3 @@ In the past, vitamin D intake was associated with the prevention of rickets in c
 Although recommendations of daily vitamin D intake have been provided, higher levels are required in order to have real preventive or treatment effect as numerous studies have proved. UVB radiation plays an alternative ways in improving vitamin D content other than oral supplementation. Its advantage is that it will not cause vitamin D intoxication since excessive vitamin D will be broken down by UVB. However, a number of factors of the UVB such as wavelength, duration of exposure are needed to be carefully controlled so as to avoid erythema.
 
 Despite the close link of vitamin D with human health, vitamin D inadequacy is not widely recognized as a problem by physicians and patients. Greater awareness of this problem is required among researchers, clinician, and patients of the high prevalence of vitamin D inadequacy.
-

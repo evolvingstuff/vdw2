@@ -1,16 +1,25 @@
 {
-  "title": "MS Trust in UK is concerned about lack of vitamin D product",
-  "slug": "ms-trust-in-uk-is-concerned-about-lack-of-vitamin-d-product",
-  "aliases": [
-    "/MS+Trust+in+UK+is+concerned+about+lack+of+vitamin+D+product+\u2013+Nov+2010",
-    "/1146"
-  ],
-  "tiki_page_id": 1146,
-  "date": "2010-11-18",
-  "categories": [
-    "Multiple Sclerosis",
-    "Forms of Vitamin D"
-  ]
+    "title": "MS Trust in UK is concerned about lack of vitamin D product",
+    "slug": "ms-trust-in-uk-is-concerned-about-lack-of-vitamin-d-product",
+    "aliases": [
+        "/MS+Trust+in+UK+is+concerned+about+lack+of+vitamin+D+product+\u2013+Nov+2010",
+        "/1146"
+    ],
+    "tiki_page_id": 1146,
+    "date": "2010-11-18",
+    "categories": [
+        "Multiple Sclerosis",
+        "Forms of Vitamin D"
+    ],
+    "tags": [
+        "Forms of Vitamin D",
+        "Multiple Sclerosis",
+        "blood levels",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -33,4 +42,3 @@ This document was produced with information available from importers and manufac
 The document will be updated every 2-3 months and we welcome comment both on its specific content and overall usefulness.
 
 [CLICK HERE](http://www.nelm.nhs.uk/en/Download/?file=MDs3NTU3ODQ7L3VwbG9hZC9kb2N1bWVudHMvT3RoZXIgTGlicmFyeSBVcGRhdGVzL0RydWdfRGlzY29udF9TaG9ydGFnZS9WaXRfRF9wcm9kdWN0X2F2YWlsYWJpbGl0eV9PY3QyMDEwX2ZpbmFsLnBkZg__.pdf%20)
-

@@ -1,16 +1,86 @@
 {
-  "title": "Magnesium and Vitamin D - similar, different and synergistic",
-  "slug": "magnesium-and-vitamin-d-similar-different-and-synergistic",
-  "aliases": [
-    "/Magnesium+and+Vitamin+D+-+similar+different+and+synergistic",
-    "/2005"
-  ],
-  "tiki_page_id": 2005,
-  "date": "2011-09-16",
-  "categories": [
-    "Vitamin D and Magnesium"
-  ]
+    "title": "Magnesium and Vitamin D - similar, different and synergistic",
+    "slug": "magnesium-and-vitamin-d-similar-different-and-synergistic",
+    "aliases": [
+        "/Magnesium+and+Vitamin+D+-+similar+different+and+synergistic",
+        "/2005"
+    ],
+    "tiki_page_id": 2005,
+    "date": "2011-09-16",
+    "categories": [
+        "Vitamin D and Magnesium"
+    ],
+    "tags": [
+        "Vitamin D and Magnesium",
+        "acne",
+        "asthma",
+        "atherosclerosis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "back pain",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "cerebral palsy",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "chronic fatigue",
+        "cognitive",
+        "cystic fibrosis",
+        "dementia",
+        "dermatology",
+        "diabetes",
+        "falls fractures",
+        "fertility sperm",
+        "headache",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "influenza",
+        "intervention",
+        "life span",
+        "lupus",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "neurological",
+        "obesity",
+        "obesity and cancer",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "pregnancy",
+        "psoriasis",
+        "rheumatoid arthritis",
+        "rickets",
+        "stroke",
+        "therapeutic intervention",
+        "tuberculosis",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin k",
+        "vitamin k and viruses"
+    ]
 }
+
 
 {{< toc >}} 
 
@@ -99,4 +169,4 @@ Results: Vitamin D and Mg replacement therapy in elderly patients is known to re
 
 Conclusions: Vitamin D screening assay is readily available, but the reported lower limit of the normal range is totally inadequate for disease prevention. Based on the epidemiologic studies, ∼75% of all adults worldwide have serum 25(OH)D levels of <30 ng/mL. Because of the recent increase in global awareness, vitamin D supplementation has become a common practice, but Mg deficiency still remains unaddressed. Screening for chronic magnesium deficiency is difficult because a normal serum level may still be associated with moderate to severe deficiency. To date, there is no simple and accurate laboratory test to determine the total body magnesium status in humans. Mg is essential in the metabolism of vitamin D, and taking large doses of vitamin D can induce severe depletion of Mg. Adequate magnesium supplementation should be considered as an important aspect of vitamin D therapy.
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/mg-and-vitamin-d.pdf">Download the PDF from VitaminDWiki</a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/mg-and-vitamin-d.pdf">Download the PDF from VitaminDWiki</a>**

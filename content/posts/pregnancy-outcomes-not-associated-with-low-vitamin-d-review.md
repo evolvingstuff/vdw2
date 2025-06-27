@@ -1,16 +1,24 @@
 {
-  "title": "Pregnancy outcomes not associated with low vitamin D \u2013 review",
-  "slug": "pregnancy-outcomes-not-associated-with-low-vitamin-d-review",
-  "aliases": [
-    "/Pregnancy+outcomes+not+associated+with+low+vitamin+D+\u2013+review+April+2011",
-    "/1706"
-  ],
-  "tiki_page_id": 1706,
-  "date": "2011-06-07",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Pregnancy outcomes not associated with low vitamin D \u2013 review",
+    "slug": "pregnancy-outcomes-not-associated-with-low-vitamin-d-review",
+    "aliases": [
+        "/Pregnancy+outcomes+not+associated+with+low+vitamin+D+\u2013+review+April+2011",
+        "/1706"
+    ],
+    "tiki_page_id": 1706,
+    "date": "2011-06-07",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "blood levels",
+        "preeclampsia",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -65,4 +73,3 @@ PMID:     21640968
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
 
 * [All items in category: Vitamin D before, During, and after pregnancy](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=12&sort_mode=created_desc)
-

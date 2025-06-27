@@ -1,15 +1,25 @@
 {
-  "title": "Lack of vitamin D may result in elderly physical decline",
-  "slug": "lack-of-vitamin-d-may-result-in-elderly-physical-decline",
-  "aliases": [
-    "/Lack+of+vitamin+D+may+result+in+elderly+physical+decline+\u2013+Dec+2010",
-    "/1232"
-  ],
-  "tiki_page_id": 1232,
-  "date": "2010-12-12",
-  "categories": [
-    "Seniors"
-  ]
+    "title": "Lack of vitamin D may result in elderly physical decline",
+    "slug": "lack-of-vitamin-d-may-result-in-elderly-physical-decline",
+    "aliases": [
+        "/Lack+of+vitamin+D+may+result+in+elderly+physical+decline+\u2013+Dec+2010",
+        "/1232"
+    ],
+    "tiki_page_id": 1232,
+    "date": "2010-12-12",
+    "categories": [
+        "Seniors"
+    ],
+    "tags": [
+        "Seniors",
+        "autoimmune",
+        "high dose",
+        "intervention",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

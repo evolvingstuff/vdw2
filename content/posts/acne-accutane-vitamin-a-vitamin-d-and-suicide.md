@@ -1,17 +1,32 @@
 {
-  "title": "Acne - Accutane - vitamin A - vitamin D and suicide",
-  "slug": "acne-accutane-vitamin-a-vitamin-d-and-suicide",
-  "aliases": [
-    "/Acne+-+Accutane+-+vitamin+A+-+vitamin+D+and+suicide+-+Nov+2010",
-    "/1138"
-  ],
-  "tiki_page_id": 1138,
-  "date": "2010-11-13",
-  "categories": [
-    "Interactions with Vitamin D",
-    "Skin",
-    "Vitamin D and Vitamin A"
-  ]
+    "title": "Acne - Accutane - vitamin A - vitamin D and suicide",
+    "slug": "acne-accutane-vitamin-a-vitamin-d-and-suicide",
+    "aliases": [
+        "/Acne+-+Accutane+-+vitamin+A+-+vitamin+D+and+suicide+-+Nov+2010",
+        "/1138"
+    ],
+    "tiki_page_id": 1138,
+    "date": "2010-11-13",
+    "categories": [
+        "Interactions with Vitamin D",
+        "Skin",
+        "Vitamin D and Vitamin A"
+    ],
+    "tags": [
+        "Interactions with Vitamin D",
+        "Skin",
+        "Vitamin D and Vitamin A",
+        "acne",
+        "bone",
+        "depression",
+        "dermatology",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "mood disorders",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

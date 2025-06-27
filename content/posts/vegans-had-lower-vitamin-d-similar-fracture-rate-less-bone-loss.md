@@ -1,13 +1,24 @@
 {
-  "title": "Vegans had lower vitamin D \u2013 similar fracture rate - less bone loss",
-  "slug": "vegans-had-lower-vitamin-d-similar-fracture-rate-less-bone-loss",
-  "aliases": [
-    "/Vegans+had+lower+vitamin+D+\u2013+similar+fracture+rate+-+less+bone+loss+\u2013+Aug+2011",
-    "/1890"
-  ],
-  "tiki_page_id": 1890,
-  "date": "2011-08-04"
+    "title": "Vegans had lower vitamin D \u2013 similar fracture rate - less bone loss",
+    "slug": "vegans-had-lower-vitamin-d-similar-fracture-rate-less-bone-loss",
+    "aliases": [
+        "/Vegans+had+lower+vitamin+D+\u2013+similar+fracture+rate+-+less+bone+loss+\u2013+Aug+2011",
+        "/1890"
+    ],
+    "tiki_page_id": 1890,
+    "date": "2011-08-04",
+    "tags": [
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "falls fractures",
+        "health risk",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -48,4 +59,3 @@ PMID:     21811293
 * differences in mobility/activity, smoking, etc between the vegans and omnivores
 
 * definition of vitamin D insufficiency (20 ng, 30 ng?)
-

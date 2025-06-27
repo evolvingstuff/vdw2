@@ -1,15 +1,21 @@
 {
-  "title": "Knee surgery reduced vitamin D by 40 percent in 2 days",
-  "slug": "knee-surgery-reduced-vitamin-d-by-40-percent-in-2-days",
-  "aliases": [
-    "/Knee+surgery+reduced+vitamin+D+by+40+percent+in+2+days+\u2013+May+2011",
-    "/1655"
-  ],
-  "tiki_page_id": 1655,
-  "date": "2011-05-23",
-  "categories": [
-    "Trauma and surgery"
-  ]
+    "title": "Knee surgery reduced vitamin D by 40 percent in 2 days",
+    "slug": "knee-surgery-reduced-vitamin-d-by-40-percent-in-2-days",
+    "aliases": [
+        "/Knee+surgery+reduced+vitamin+D+by+40+percent+in+2+days+\u2013+May+2011",
+        "/1655"
+    ],
+    "tiki_page_id": 1655,
+    "date": "2011-05-23",
+    "categories": [
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Trauma and surgery",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

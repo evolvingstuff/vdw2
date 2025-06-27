@@ -1,15 +1,55 @@
 {
-  "title": "Vitamin D insufficiency - NEJM",
-  "slug": "vitamin-d-insufficiency-nejm",
-  "aliases": [
-    "/Vitamin+D+insufficiency+-+NEJM+Jan+2011",
-    "/1905"
-  ],
-  "tiki_page_id": 1905,
-  "date": "2011-08-07",
-  "categories": [
-    "Overview for doctors"
-  ]
+    "title": "Vitamin D insufficiency - NEJM",
+    "slug": "vitamin-d-insufficiency-nejm",
+    "aliases": [
+        "/Vitamin+D+insufficiency+-+NEJM+Jan+2011",
+        "/1905"
+    ],
+    "tiki_page_id": 1905,
+    "date": "2011-08-07",
+    "categories": [
+        "Overview for doctors"
+    ],
+    "tags": [
+        "CYPB",
+        "CYPR",
+        "Overview for doctors",
+        "atherosclerosis",
+        "autoimmune",
+        "bariatric surgery",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "colon cancer",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "high dose",
+        "hip fractures",
+        "immunity",
+        "intervention",
+        "life span",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "omega 3",
+        "osteoporosis",
+        "pain",
+        "pancreatic cancer",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "trauma surgery",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 

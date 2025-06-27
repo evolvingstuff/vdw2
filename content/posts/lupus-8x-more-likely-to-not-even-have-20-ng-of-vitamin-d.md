@@ -1,16 +1,30 @@
 {
-  "title": "Lupus 8X more likely to not even have 20 ng of vitamin D",
-  "slug": "lupus-8x-more-likely-to-not-even-have-20-ng-of-vitamin-d",
-  "aliases": [
-    "/Lupus+8X+more+likely+to+not+even+have+20+ng+of+vitamin+D+\u2013+May+2011",
-    "/1637"
-  ],
-  "tiki_page_id": 1637,
-  "date": "2011-05-19",
-  "categories": [
-    "Lupus",
-    "Autoimmune"
-  ]
+    "title": "Lupus 8X more likely to not even have 20 ng of vitamin D",
+    "slug": "lupus-8x-more-likely-to-not-even-have-20-ng-of-vitamin-d",
+    "aliases": [
+        "/Lupus+8X+more+likely+to+not+even+have+20+ng+of+vitamin+D+\u2013+May+2011",
+        "/1637"
+    ],
+    "tiki_page_id": 1637,
+    "date": "2011-05-19",
+    "categories": [
+        "Lupus",
+        "Autoimmune"
+    ],
+    "tags": [
+        "Autoimmune",
+        "Lupus",
+        "autoimmune",
+        "bacteria",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "lupus",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -38,4 +52,4 @@ CONCLUSIONS:
 
 The observation that ANA-positive healthy controls are significantly more likely to be deficient in vitamin D than ANA-negative healthy controls, together with the finding that vitamin D deficiency is associated with certain immune abnormalities in SLE, suggests that vitamin D plays an important role in autoantibody production and SLE pathogenesis.
 
-PMID: 21586442 
+PMID: 21586442

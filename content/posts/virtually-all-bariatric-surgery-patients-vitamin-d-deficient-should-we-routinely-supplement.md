@@ -1,16 +1,26 @@
 {
-  "title": "Virtually all Bariatric Surgery patients vitamin D deficient \u2013 should we routinely supplement",
-  "slug": "virtually-all-bariatric-surgery-patients-vitamin-d-deficient-should-we-routinely-supplement",
-  "aliases": [
-    "/Virtually+all+Bariatric+Surgery+patients+vitamin+D+deficient+\u2013+should+we+routinely+supplement+\u2013+Jan+2011",
-    "/1489"
-  ],
-  "tiki_page_id": 1489,
-  "date": "2011-03-18",
-  "categories": [
-    "Obesity",
-    "Trauma and surgery"
-  ]
+    "title": "Virtually all Bariatric Surgery patients vitamin D deficient \u2013 should we routinely supplement",
+    "slug": "virtually-all-bariatric-surgery-patients-vitamin-d-deficient-should-we-routinely-supplement",
+    "aliases": [
+        "/Virtually+all+Bariatric+Surgery+patients+vitamin+D+deficient+\u2013+should+we+routinely+supplement+\u2013+Jan+2011",
+        "/1489"
+    ],
+    "tiki_page_id": 1489,
+    "date": "2011-03-18",
+    "categories": [
+        "Obesity",
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Obesity",
+        "Trauma and surgery",
+        "bariatric surgery",
+        "blood levels",
+        "health risk",
+        "obesity",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 

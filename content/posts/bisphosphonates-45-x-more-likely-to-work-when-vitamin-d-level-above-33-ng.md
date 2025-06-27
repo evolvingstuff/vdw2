@@ -1,15 +1,39 @@
 {
-  "title": "Bisphosphonates 4.5 X more likely to work when vitamin D level above 33 ng",
-  "slug": "bisphosphonates-45-x-more-likely-to-work-when-vitamin-d-level-above-33-ng",
-  "aliases": [
-    "/Bisphosphonates+45+X+more+likely+to+work+when+vitamin+D+level+above+33+ng+\u2013+Sept+2011",
-    "/2025"
-  ],
-  "tiki_page_id": 2025,
-  "date": "2011-09-22",
-  "categories": [
-    "Osteoporosis"
-  ]
+    "title": "Bisphosphonates 4.5 X more likely to work when vitamin D level above 33 ng",
+    "slug": "bisphosphonates-45-x-more-likely-to-work-when-vitamin-d-level-above-33-ng",
+    "aliases": [
+        "/Bisphosphonates+45+X+more+likely+to+work+when+vitamin+D+level+above+33+ng+\u2013+Sept+2011",
+        "/2025"
+    ],
+    "tiki_page_id": 2025,
+    "date": "2011-09-22",
+    "categories": [
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "breathing",
+        "cystic fibrosis",
+        "falls fractures",
+        "high dose",
+        "hip fractures",
+        "intervention",
+        "life span",
+        "mortality",
+        "multiple sclerosis",
+        "osteoporosis",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -155,5 +179,4 @@ PMID:     22237813
 
 * Rosen CJ (2011) Clinical practice. Vitamin D insufficiency. N Engl J Med 364:248–254 
 
-* Black DM, Schwartz AV, Ensrud KE, Cauley JA, Levis S, Quandt SA, Satterfield S, Wallace RB, Bauer DC, Palermo L, Wehren LE, Lombardi A, Santora AC, Cummings SR (2006) Effects of continuing or stopping alendronate after 5 years of treatment: the Fracture Intervention Trial Long-term Extension (FLEX): a randomized trial. JAMA 296:2927–2938 
-
+* Black DM, Schwartz AV, Ensrud KE, Cauley JA, Levis S, Quandt SA, Satterfield S, Wallace RB, Bauer DC, Palermo L, Wehren LE, Lombardi A, Santora AC, Cummings SR (2006) Effects of continuing or stopping alendronate after 5 years of treatment: the Fracture Intervention Trial Long-term Extension (FLEX): a randomized trial. JAMA 296:2927–2938

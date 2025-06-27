@@ -1,16 +1,80 @@
 {
-  "title": "Science News Cover article on Vitamin D",
-  "slug": "science-news-cover-article-on-vitamin-d",
-  "aliases": [
-    "/Science+News+Cover+article+on+Vitamin+D+\u2013+July+2011",
-    "/1786"
-  ],
-  "tiki_page_id": 1786,
-  "date": "2011-07-02",
-  "categories": [
-    "About D - introduction"
-  ]
+    "title": "Science News Cover article on Vitamin D",
+    "slug": "science-news-cover-article-on-vitamin-d",
+    "aliases": [
+        "/Science+News+Cover+article+on+Vitamin+D+\u2013+July+2011",
+        "/1786"
+    ],
+    "tiki_page_id": 1786,
+    "date": "2011-07-02",
+    "categories": [
+        "About D - introduction"
+    ],
+    "tags": [
+        "About D - introduction",
+        "asthma",
+        "asthma receptor",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood respiratory",
+        "childhood viruses",
+        "cognitive",
+        "colon cancer",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "influenza",
+        "intervention",
+        "life span",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "omega 3 and viruses",
+        "ovarian cancer",
+        "pediatric autoimmune",
+        "pregnancy",
+        "preterm",
+        "preterm and omega 3",
+        "respiratory",
+        "rickets",
+        "skin cancer",
+        "smoking",
+        "stroke",
+        "therapeutic intervention",
+        "tuberculosis",
+        "type 1 diabetes",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 

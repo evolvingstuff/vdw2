@@ -1,16 +1,32 @@
 {
-  "title": "Influenza in Norway not reduced by vitamin D",
-  "slug": "influenza-in-norway-not-reduced-by-vitamin-d",
-  "aliases": [
-    "/Influenza+in+Norway+not+reduced+by+vitamin+D+\u2013+Oct+2011",
-    "/2125"
-  ],
-  "tiki_page_id": 2125,
-  "date": "2011-10-28",
-  "categories": [
-    "Immunity",
-    "Vitamin D in Europe"
-  ]
+    "title": "Influenza in Norway not reduced by vitamin D",
+    "slug": "influenza-in-norway-not-reduced-by-vitamin-d",
+    "aliases": [
+        "/Influenza+in+Norway+not+reduced+by+vitamin+D+\u2013+Oct+2011",
+        "/2125"
+    ],
+    "tiki_page_id": 2125,
+    "date": "2011-10-28",
+    "categories": [
+        "Immunity",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Immunity",
+        "Vitamin D in Europe",
+        "autoimmune",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "influenza",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

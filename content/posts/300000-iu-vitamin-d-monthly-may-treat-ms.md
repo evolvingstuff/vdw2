@@ -1,17 +1,29 @@
 {
-  "title": "300000 IU vitamin D monthly may treat MS",
-  "slug": "300000-iu-vitamin-d-monthly-may-treat-ms",
-  "aliases": [
-    "/300000+IU+vitamin+D+monthly+may+treat+MS+\u2013+May+2011",
-    "/1616"
-  ],
-  "tiki_page_id": 1616,
-  "date": "2011-05-08",
-  "categories": [
-    "Multiple Sclerosis",
-    "Loading dose for Vitamin D",
-    "Treatment by Vitamin D"
-  ]
+    "title": "300000 IU vitamin D monthly may treat MS",
+    "slug": "300000-iu-vitamin-d-monthly-may-treat-ms",
+    "aliases": [
+        "/300000+IU+vitamin+D+monthly+may+treat+MS+\u2013+May+2011",
+        "/1616"
+    ],
+    "tiki_page_id": 1616,
+    "date": "2011-05-08",
+    "categories": [
+        "Multiple Sclerosis",
+        "Loading dose for Vitamin D",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "Loading dose for Vitamin D",
+        "Multiple Sclerosis",
+        "Treatment by Vitamin D",
+        "autoimmune",
+        "dosage",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

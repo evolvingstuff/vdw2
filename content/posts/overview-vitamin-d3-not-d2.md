@@ -1,17 +1,42 @@
 {
-  "title": "Overview Vitamin D3 not D2",
-  "slug": "overview-vitamin-d3-not-d2",
-  "aliases": [
-    "/Overview+Vitamin+D3+not+D2",
-    "/2138"
-  ],
-  "tiki_page_id": 2138,
-  "date": "2011-10-31",
-  "categories": [
-    "Vitamin D3 instead of D2",
-    "Overviews"
-  ]
+    "title": "Overview Vitamin D3 not D2",
+    "slug": "overview-vitamin-d3-not-d2",
+    "aliases": [
+        "/Overview+Vitamin+D3+not+D2",
+        "/2138"
+    ],
+    "tiki_page_id": 2138,
+    "date": "2011-10-31",
+    "categories": [
+        "Vitamin D3 instead of D2",
+        "Overviews"
+    ],
+    "tags": [
+        "Overviews",
+        "Vitamin D3 instead of D2",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "child",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "hemodialysis",
+        "high dose",
+        "intervention",
+        "life span",
+        "lupus",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test"
+    ]
 }
+
 
 <!-- ~tc~ start ~/tc~ -->
 
@@ -41,7 +66,7 @@ Some people buy  **D2**  because it is vegan, being unaware that there are vegan
 
 * <a href="/posts/vitamin-span-stylecolorf00d2span-decreased-blood-levels-of-vitamin-d3-by-12-ng-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2769">Vitamin <span style="color:#F00;">D2</span> decreased blood levels of Vitamin D3 by 12 ng – RCT July 2012</a>
 
-* <a href="/posts/vitamin-d3-is-much-better-than-d2-especially-if-not-taken-daily-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2894">Vitamin D3 is much better than D2, especially if not taken daily – meta-analysis June 2012</a> 
+* [Vitamin D3 is much better than D2, especially if not taken daily – meta-analysis June 2012](/posts/vitamin-d3-is-much-better-than-d2-especially-if-not-taken-daily-meta-analysis) 
 
 * <a href="/posts/ms-worse-with-vitamin-span-stylecolorf00d2span" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2130">MS worse with Vitamin <span style="color:#F00;">D2</span>  - Oct 2011</a> high dose of D2 resulted in worse MS than low dose
 
@@ -69,17 +94,17 @@ Some people buy  **D2**  because it is vegan, being unaware that there are vegan
 
 * <a href="/posts/vitamin-d2-reduced-the-vitamin-d3-by-half" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2513">Vitamin D2 reduced the Vitamin D3 by half – Feb 2012</a>
 
-* <a href="/posts/vitamin-d-from-mushroom-or-supplements-decreased-vitamin-d3-in-the-body" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2952">Vitamin D from mushroom or supplements decreased vitamin D3 in the body – June 2012</a>
+* [Vitamin D from mushroom or supplements decreased vitamin D3 in the body – June 2012](/posts/vitamin-d-from-mushroom-or-supplements-decreased-vitamin-d3-in-the-body)
 
-* <a href="/posts/vitamin-d3-much-better-than-d2-for-loading-doses-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2676">Vitamin D3 much better than D2 for loading doses– meta-analysis May 2012</a>
+* [Vitamin D3 much better than D2 for loading doses– meta-analysis May 2012](/posts/vitamin-d3-much-better-than-d2-for-loading-doses-meta-analysis)
 
 > Not much difference between D3 and D2 for daily doses?
 
-* <a href="/posts/vitamin-d2-did-not-help-lupus-no-surprise-d2-was-given-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D2 did not help Lupus (no surprise, D2 was given weekly) – June 2013">Vitamin D2 did not help Lupus (no surprise, D2 was given weekly) – June 2013</a>
+* [Vitamin D2 did not help Lupus (no surprise, D2 was given weekly) – June 2013](/posts/vitamin-d2-did-not-help-lupus-no-surprise-d2-was-given-weekly)
 
 * <a href="/posts/cooked-mushrooms-vitamin-d2-did-not-increase-vitamin-d-serum-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cooked mushrooms (Vitamin D2) did not increase vitamin D serum levels – Aug 2014">Cooked mushrooms (Vitamin D2) did not increase vitamin D serum levels – Aug 2014</a>
 
-* <a href="/posts/vitamin-d3-far-better-than-d2-at-raising-infant-vitamin-d-blood-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3574">Vitamin D3 far better than D2 at raising infant vitamin D blood levels – Dec 2012</a>
+* [Vitamin D3 far better than D2 at raising infant vitamin D blood levels – Dec 2012](/posts/vitamin-d3-far-better-than-d2-at-raising-infant-vitamin-d-blood-levels)
 
    * Vets no longer use D2 <a href="/posts/vitamin-d2-should-not-be-used-as-a-vitamin-supplement-for-any-mammal" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D2 should not be used as a Vitamin supplement for any mammal – Oct 2006">Vitamin D2 should not be used as a Vitamin supplement for any mammal – Oct 2006</a>
 
@@ -139,7 +164,7 @@ TREATMENT WITH 50000 IU VITAMIN D 2 EVERY OTHER WEEK AND EFFECT ON SERUM 25-HYDR
 
 * [Doctors now able to prescribe vitamin D3 ](https://www.VitaminDWiki.com/tiki-view_blog_post.php?postId=72) as of March 2012
 
-* <a href="/posts/5000-iu-vitamin-d3-added-daily-to-bread-raised-blood-levels-to-50-ng-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2492">5000 IU vitamin D3 added daily to bread raised blood levels to 50 ng – 2009</a>
+* [5000 IU vitamin D3 added daily to bread raised blood levels to 50 ng – 2009](/posts/5000-iu-vitamin-d3-added-daily-to-bread-raised-blood-levels-to-50-ng-2009)
 
 * <a href="/posts/top-news-top-web-pages-popular-pages-and-all-overviews" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1844">Top news, top web pages, popular pages, and all overviews</a>
 

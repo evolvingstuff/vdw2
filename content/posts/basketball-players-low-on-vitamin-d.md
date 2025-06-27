@@ -1,16 +1,44 @@
 {
-  "title": "Basketball players low on vitamin D",
-  "slug": "basketball-players-low-on-vitamin-d",
-  "aliases": [
-    "/Basketball+players+low+on+vitamin+D+-+Sept+2011",
-    "/2051"
-  ],
-  "tiki_page_id": 2051,
-  "date": "2011-09-29",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Sports and Vitamin D"
-  ]
+    "title": "Basketball players low on vitamin D",
+    "slug": "basketball-players-low-on-vitamin-d",
+    "aliases": [
+        "/Basketball+players+low+on+vitamin+D+-+Sept+2011",
+        "/2051"
+    ],
+    "tiki_page_id": 2051,
+    "date": "2011-09-29",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Sports and Vitamin D",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "cancer",
+        "cancer in VDR",
+        "dosage",
+        "genetics",
+        "health risk",
+        "high dose",
+        "immunity",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "multiple sclerosis",
+        "pain",
+        "pollution",
+        "rheumatoid arthritis",
+        "skin cancer",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 

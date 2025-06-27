@@ -1,15 +1,27 @@
 {
-  "title": "Stop - Read This Before You Have Orthopedic Surgery",
-  "slug": "stop-read-this-before-you-have-orthopedic-surgery",
-  "aliases": [
-    "/Stop+-+Read+This+Before+You+Have+Orthopedic+Surgery+-+Nov+2010",
-    "/1136"
-  ],
-  "tiki_page_id": 1136,
-  "date": "2010-11-12",
-  "categories": [
-    "Trauma and surgery"
-  ]
+    "title": "Stop - Read This Before You Have Orthopedic Surgery",
+    "slug": "stop-read-this-before-you-have-orthopedic-surgery",
+    "aliases": [
+        "/Stop+-+Read+This+Before+You+Have+Orthopedic+Surgery+-+Nov+2010",
+        "/1136"
+    ],
+    "tiki_page_id": 1136,
+    "date": "2010-11-12",
+    "categories": [
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Trauma and surgery",
+        "autoimmune",
+        "blood levels",
+        "dosage",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

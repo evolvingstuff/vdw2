@@ -1,16 +1,29 @@
 {
-  "title": "Obesity and diabetes reduced when move to better neighborhood \u2013 or better UV",
-  "slug": "obesity-and-diabetes-reduced-when-move-to-better-neighborhood-or-better-uv",
-  "aliases": [
-    "/Obesity+and+diabetes+reduced+when+move+to+better+neighborhood+\u2013+or+better+UV+\u2013+Oct+2011",
-    "/2106"
-  ],
-  "tiki_page_id": 2106,
-  "date": "2011-10-19",
-  "categories": [
-    "Diabetes",
-    "Obesity"
-  ]
+    "title": "Obesity and diabetes reduced when move to better neighborhood \u2013 or better UV",
+    "slug": "obesity-and-diabetes-reduced-when-move-to-better-neighborhood-or-better-uv",
+    "aliases": [
+        "/Obesity+and+diabetes+reduced+when+move+to+better+neighborhood+\u2013+or+better+UV+\u2013+Oct+2011",
+        "/2106"
+    ],
+    "tiki_page_id": 2106,
+    "date": "2011-10-19",
+    "categories": [
+        "Diabetes",
+        "Obesity"
+    ],
+    "tags": [
+        "Diabetes",
+        "Obesity",
+        "child",
+        "childhood obesity",
+        "diabetes",
+        "health risk",
+        "life span",
+        "metabolic",
+        "mortality",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,17 +1,27 @@
 {
-  "title": "Anemia associated with lower than 20 ng vitamin D among elderly",
-  "slug": "anemia-associated-with-lower-than-20-ng-vitamin-d-among-elderly",
-  "aliases": [
-    "/Anemia+associated+with+lower+than+20+ng+vitamin+D+among+elderly+\u2013+Jan+2011",
-    "/1321"
-  ],
-  "tiki_page_id": 1321,
-  "date": "2011-01-18",
-  "categories": [
-    "Skin - Dark",
-    "Seniors",
-    "Vitamin D and Iron"
-  ]
+    "title": "Anemia associated with lower than 20 ng vitamin D among elderly",
+    "slug": "anemia-associated-with-lower-than-20-ng-vitamin-d-among-elderly",
+    "aliases": [
+        "/Anemia+associated+with+lower+than+20+ng+vitamin+D+among+elderly+\u2013+Jan+2011",
+        "/1321"
+    ],
+    "tiki_page_id": 1321,
+    "date": "2011-01-18",
+    "categories": [
+        "Skin - Dark",
+        "Seniors",
+        "Vitamin D and Iron"
+    ],
+    "tags": [
+        "Seniors",
+        "Skin - Dark",
+        "Vitamin D and Iron",
+        "blood levels",
+        "child",
+        "hypertension",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -51,7 +61,7 @@ Vitamin D may suppress inflammatory pathways, and studies to determine whether v
 
 * <a href="/posts/anemia-19x-more-likely-in-white-children-having-lowish-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Anemia 1.9X more likely in white children having lowish vitamin D – Jan 2014">Anemia 1.9X more likely in white children having lowish vitamin D – Jan 2014</a>
 
-* <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>
+* [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
 
 ## See also web
 

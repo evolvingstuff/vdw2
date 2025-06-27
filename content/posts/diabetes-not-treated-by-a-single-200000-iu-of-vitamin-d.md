@@ -1,15 +1,26 @@
 {
-  "title": "Diabetes not TREATED by a single 200000 IU of vitamin D",
-  "slug": "diabetes-not-treated-by-a-single-200000-iu-of-vitamin-d",
-  "aliases": [
-    "/Diabetes+not+TREATED+by+a+single+200000+IU+of+vitamin+D+\u2013+Jan+2011",
-    "/1301"
-  ],
-  "tiki_page_id": 1301,
-  "date": "2011-01-08",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Diabetes not TREATED by a single 200000 IU of vitamin D",
+    "slug": "diabetes-not-treated-by-a-single-200000-iu-of-vitamin-d",
+    "aliases": [
+        "/Diabetes+not+TREATED+by+a+single+200000+IU+of+vitamin+D+\u2013+Jan+2011",
+        "/1301"
+    ],
+    "tiki_page_id": 1301,
+    "date": "2011-01-08",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "magnesium",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin k"
+    ]
 }
 
 

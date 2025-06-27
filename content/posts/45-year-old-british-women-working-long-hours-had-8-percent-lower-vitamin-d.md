@@ -1,15 +1,21 @@
 {
-  "title": "45 year-old British women working long hours had 8 percent lower vitamin D",
-  "slug": "45-year-old-british-women-working-long-hours-had-8-percent-lower-vitamin-d",
-  "aliases": [
-    "/45+year-old+British+women+working+long+hours+had+8+percent+lower+vitamin+D+\u2013+April+2011",
-    "/1623"
-  ],
-  "tiki_page_id": 1623,
-  "date": "2011-05-12",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "45 year-old British women working long hours had 8 percent lower vitamin D",
+    "slug": "45-year-old-british-women-working-long-hours-had-8-percent-lower-vitamin-d",
+    "aliases": [
+        "/45+year-old+British+women+working+long+hours+had+8+percent+lower+vitamin+D+\u2013+April+2011",
+        "/1623"
+    ],
+    "tiki_page_id": 1623,
+    "date": "2011-05-12",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "child",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

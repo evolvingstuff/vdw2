@@ -1,16 +1,28 @@
 {
-  "title": "Blacks may need less vitamin D than whites \u2013 PTH",
-  "slug": "blacks-may-need-less-vitamin-d-than-whites-pth",
-  "aliases": [
-    "/Blacks+may+need+less+vitamin+D+than+whites+\u2013+PTH+Aug+2010",
-    "/2163"
-  ],
-  "tiki_page_id": 2163,
-  "date": "2011-11-08",
-  "categories": [
-    "Skin - Dark"
-  ]
+    "title": "Blacks may need less vitamin D than whites \u2013 PTH",
+    "slug": "blacks-may-need-less-vitamin-d-than-whites-pth",
+    "aliases": [
+        "/Blacks+may+need+less+vitamin+D+than+whites+\u2013+PTH+Aug+2010",
+        "/2163"
+    ],
+    "tiki_page_id": 2163,
+    "date": "2011-11-08",
+    "categories": [
+        "Skin - Dark"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "falls fractures",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 The 25(OH)D/PTH Threshold in Black Women
 
@@ -50,7 +62,7 @@ Conclusions: Black women have an increase in serum PTH at a lower 25(OH)D level 
 
 * <a href="/posts/blacks-may-not-need-as-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1099">Blacks may not need as much Vitamin D</a>
 
-* <a href="/posts/20-ng-of-vitamin-d-is-enough-for-african-american-pth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2265">20 ng of vitamin D is enough for African American PTH – Dec 2011</a>
+* [20 ng of vitamin D is enough for African American PTH – Dec 2011](/posts/20-ng-of-vitamin-d-is-enough-for-african-american-pth)
 
 - - - - - -  
 
@@ -139,4 +151,3 @@ We recognize a number of limitations of our study. This was a convenience sample
 we present evidence that PTH levels will rise at a lower serum concentration of 25(OH)D in black women. T
 
 he benefits to extraskeletal health of raising 25(OH)D to lower serum PTH levels in this population should be explored.
-

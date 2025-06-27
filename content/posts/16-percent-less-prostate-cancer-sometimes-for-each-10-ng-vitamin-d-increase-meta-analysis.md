@@ -1,16 +1,26 @@
 {
-  "title": "16 percent less Prostate Cancer sometimes for each 10 ng vitamin D increase - meta-analysis",
-  "slug": "16-percent-less-prostate-cancer-sometimes-for-each-10-ng-vitamin-d-increase-meta-analysis",
-  "aliases": [
-    "/16+percent+less+Prostate+Cancer+sometimes+for+each+10+ng+vitamin+D+increase+-+meta-analysis+Jan+2011",
-    "/1290"
-  ],
-  "tiki_page_id": 1290,
-  "date": "2011-01-06",
-  "categories": [
-    "Cancer - Prostate",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "16 percent less Prostate Cancer sometimes for each 10 ng vitamin D increase - meta-analysis",
+    "slug": "16-percent-less-prostate-cancer-sometimes-for-each-10-ng-vitamin-d-increase-meta-analysis",
+    "aliases": [
+        "/16+percent+less+Prostate+Cancer+sometimes+for+each+10+ng+vitamin+D+increase+-+meta-analysis+Jan+2011",
+        "/1290"
+    ],
+    "tiki_page_id": 1290,
+    "date": "2011-01-06",
+    "categories": [
+        "Cancer - Prostate",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "Cancer - Prostate",
+        "Meta-analysis of Vitamin D",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "prostate cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

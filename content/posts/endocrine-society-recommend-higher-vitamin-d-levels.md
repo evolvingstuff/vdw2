@@ -1,17 +1,25 @@
 {
-  "title": "Endocrine Society recommend higher vitamin D levels",
-  "slug": "endocrine-society-recommend-higher-vitamin-d-levels",
-  "aliases": [
-    "/Endocrine+Society+recommend+higher+vitamin+D+levels+\u2013+June+2011",
-    "/2039"
-  ],
-  "tiki_page_id": 2039,
-  "date": "2011-09-27",
-  "categories": [
-    "How much Vitamin D",
-    "High Risk",
-    "Consensus"
-  ]
+    "title": "Endocrine Society recommend higher vitamin D levels",
+    "slug": "endocrine-society-recommend-higher-vitamin-d-levels",
+    "aliases": [
+        "/Endocrine+Society+recommend+higher+vitamin+D+levels+\u2013+June+2011",
+        "/2039"
+    ],
+    "tiki_page_id": 2039,
+    "date": "2011-09-27",
+    "categories": [
+        "How much Vitamin D",
+        "High Risk",
+        "Consensus"
+    ],
+    "tags": [
+        "Consensus",
+        "High Risk",
+        "How much Vitamin D",
+        "child",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -27,4 +35,4 @@ Objective: The objective was to provide guidelines to clinicians for the evaluat
 
 Conclusions: Considering that vitamin D deficiency is very common in all age groups and that few foods contain vitamin D, the Task Force recommended supplementation at suggested daily intake and tolerable upper limit levels, depending on age and clinical circumstances. The Task Force also suggested the measurement of serum 25-hydroxyvitamin D level by a reliable assay as the initial diagnostic test in patients at risk for deficiency. Treatment with either vitamin D(2) or vitamin D(3) was recommended for deficient patients. At the present time, there is not sufficient evidence to recommend screening individuals who are not at risk for deficiency or to prescribe vitamin D to attain the noncalcemic benefit for cardiovascular protection.
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/endocrine-society---2011.pdf">Download the PDF from VitaminDWiki</a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/endocrine-society---2011.pdf">Download the PDF from VitaminDWiki</a>**

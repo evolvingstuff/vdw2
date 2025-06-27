@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset=utf-8><title>Different measurements from 6 vitamin D testing systems</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Different measurements from 6 vitamin D testing systems</h1><time>March 1, 2012</time><div data-pagefind-body><h3 id=accuracy-of-6-routine-25-hydroxyvitamin-d-assays-influence-of-vitamin-d-binding-protein-concentration>Accuracy of 6 Routine 25-Hydroxyvitamin D Assays: Influence of Vitamin D Binding Protein Concentration</h3><p>Clinical Chemistry March 2012 vol. 58 no. 3 543-548</p><p>Annemieke C. Heijboer1, <a href=mailto:a.heijboer@vumc.nl>a.heijboer@vumc.nl</a></p><p>Marinus A. Blankenstein1,</p><p>Ido P. Kema2 and</p><p>Madelon M. Buijs3</p><p>1 Department of Clinical Chemistry, VU University Medical Center, Amsterdam, the Netherlands;</p><p>2 Department of Laboratory Medicine, University Medical Center, Groningen, the Netherlands;</p><p>3 Medial Diagnostic Centers, Hoofddorp, the Netherlands.</p><p>BACKGROUND: Recent recognition of its broad pathophysiological importance has triggered an increased interest in 25-hydroxyvitamin D <span>[25(OH)D]</span>. By consequence, throughput in 25(OH)D testing has become an issue for clinical laboratories, and several automated assays for measurement of 25(OH)D are now available. The aim of this study was to test the accuracy and robustness of these assays by comparing their results to those of an isotope dilution/online solid-phase extraction liquid chromatography/tandem mass spectrometry (ID-XLC-MS/MS) method. We put specific focus on the influence of <strong>vitamin D–binding protein</strong> (DBP) by using samples with various concentrations of DBP.</p><p>METHODS: We used 5 automated assays (Architect, Centaur, iSYS, Liaison, and Elecsys), 1 RIA (Diasorin) preceded by extraction, and an ID-XLC-MS/MS method to measure 25(OH)D concentrations in plasma samples of 51 healthy individuals, 52 pregnant women, 50 hemodialysis patients, and 50 intensive care patients. Using ELISA, we also measured DBP concentrations in these samples.</p><p>RESULTS: Most of the examined 25(OH)D assays showed significant deviations in 25(OH)D concentrations from those of the ID-XLC-MS/MS method.</p><p>As expected, DBP concentrations were higher in samples of pregnant women and lower in samples of IC patients compared to healthy controls.</p><p>In 4 of the 5 fully automated 25(OH)D assays, we observed an inverse relationship between DBP concentrations and deviations from the ID-XLC-MS/MS results.</p><p>CONCLUSIONS: 25(OH)D measurements performed with most immunoassays suffer from inaccuracies that are DBP concentration dependent. Therefore, when interpreting results of 25(OH)D measurements, careful consideration of the measurement method is necessary.</p><p>Received for publication September 27, 2011; Accepted for publication December 2, 2011.</p><p><strong>PDF of article and editorial are attached at bottom of this page</strong></p><h1 id=each-same-shaded-bar-is-the-result-of-testing-of-50-women>Each same-shaded bar is the result of testing of 50 women</h1><h3 id=notice-the-difference-between-same-shaded--bars-by-different-testing-systems>Notice the difference between same-shaded bars by different testing systems</h3><h3 id=largest-differences-between-systems-are-for-pregnant-women-who-have-the-largest-differences-in-vitamin-dbinding-protein>Largest differences between systems are for pregnant women (who have the largest differences in vitamin D–binding protein)</h3><p>{IMG(attId=&ldquo;1125&rdquo; max=&ldquo;700&rdquo;)}{IMG}</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>genetics</span>
+<span class=tag>hemodialysis</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>metabolic</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>pregnancy</span>
+<span class=tag>Tests for Vitamin D</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d binding</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>autoimmune, autoimmune and pregnancy, genetics, hemodialysis, high dose, intervention, metabolic, multiple sclerosis, multiple sclerosis and pregnancy, pregnancy, Tests for Vitamin D, therapeutic intervention, vitamin d, vitamin d binding, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

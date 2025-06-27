@@ -1,15 +1,21 @@
 {
-  "title": "8500 IU average daily helped sports performance",
-  "slug": "8500-iu-average-daily-helped-sports-performance",
-  "aliases": [
-    "/8500+IU+average+daily+helped+sports+performance+\u2013+Oct+2010",
-    "/1628"
-  ],
-  "tiki_page_id": 1628,
-  "date": "2011-05-14",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "8500 IU average daily helped sports performance",
+    "slug": "8500-iu-average-daily-helped-sports-performance",
+    "aliases": [
+        "/8500+IU+average+daily+helped+sports+performance+\u2013+Oct+2010",
+        "/1628"
+    ],
+    "tiki_page_id": 1628,
+    "date": "2011-05-14",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

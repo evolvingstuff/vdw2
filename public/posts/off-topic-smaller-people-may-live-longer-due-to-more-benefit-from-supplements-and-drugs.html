@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset=utf-8><title>Off Topic: Smaller people may live longer due to more benefit from supplements and drugs</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Off Topic: Smaller people may live longer due to more benefit from supplements and drugs</h1><time>February 5, 2013</time><div data-pagefind-body><h3 id=hypothesis-the-same-pill-vitamin-d-multivitamin-drug-is-likely-to-have-2x-the-affect-if-the-person-weighs-12-as-much--it-probably-does-not-matter-if-the-pill-is-for-prevention-or-treatment>Hypothesis: The same pill (Vitamin D, multivitamin, drug) is likely to have 2X the affect if the person weighs 1/2 as much. It probably does not matter if the pill is for prevention or treatment</h3><h4 id=note-smaller-people-includes-both>Note: smaller people includes both</h4><ul><li><p>shorter in height</p></li><li><p>same height but less weight/BMI</p></li></ul><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><a href=/posts/overview-veterinary-and-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a> Most animal supplements are computed per pound of animal weight</li></ul><blockquote><p>A vet does not give a fixed amount to a cat, but rather bases the drug amount on weight of cat</p></blockquote><ul><li><p><a href=/posts/obese-need-more-vitamin-d-volume-dilution-iu-per-pound-or-bmi-rct>Obese need more Vitamin D: Volume dilution, IU per pound, or BMI – RCT Dec 2012</a></p></li><li><p><a href=/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response>Obese need 2X as much vitamin D to get the same response – June 2012</a></p></li><li><p><a href=/posts/higher-bmi-need-more-vitamin-d>Higher BMI need more vitamin D – Oct 2010</a></p></li></ul><h2 id=see-also-web>See also web</h2><ul><li><a href=http://pandemicsurvivor.com/2013/02/05/small-peoples-longevity/>Small People’s Longevity</a> Vitamin D Survivor Feb 2013 (the inspiration for this web page)</li></ul><blockquote><p>‘’It seems in the grand wisdom of the examiners that a small one year old child needs for vitamin D are the same as a sixty year old two hundred fifty pound man – 800IU per day’’</p></blockquote><blockquote><p>‘’ Rule of thumb for vitamin D: Forty IU of D3 per pound of body weight per day . . . ’’</p></blockquote><ul><li><a href=http://www.ncbi.nlm.nih.gov/pubmed/3795418%20>Body weight and longevity. A reassessment.</a> JAMA 1987</li></ul><blockquote><p>‘’ The shape of the curve relating weight to all-cause mortality has been variously described as linear, J-shaped, and even U-shaped’’</p></blockquote><blockquote><p>Many problems with previous studies:</p></blockquote><blockquote><p>       failure to control for cigarette smoking,</p></blockquote><blockquote><p>       inappropriate control of biologic effects of obesity, such as hypertension and hyperglycemia, and</p></blockquote><blockquote><p>       failure to control for weight loss due to subclinical disease</p></blockquote><blockquote><p>available evidence suggests that minimum mortality occurs at relative weights at least 10% below the US average.</p></blockquote><ul><li><a href=http://www.shortsupport.org/Research/samaras.html>Advantages of Shorter Height</a></li></ul><blockquote><p>It is a review of the book: Human Body Size and the Laws of Scaling: Physiological, Performance, Growth, Longevity and Ecological Ramifications – 2007</p></blockquote><blockquote><p>Has extensive bibliography</p></blockquote><ul><li><a href="https://www.google.com/#hl=en&amp;tbo=d&amp;sclient=psy-ab&amp;q=magnesium+%22pound+of+body+weight%22+&amp;oq=magnesium+%22pound+of+body+weight%22+&amp;gs_l=hp.3...49324.52182.6.52473.10.10.0.0.0.0.172.1364.0j10.10.0.les%3B..0.0...1c.1.2.hp.ZVfWDtuIoR4&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&amp;bvm=bv.41934586,d.cGE&amp;fp=a560d6ef025aa599&amp;biw=1138&amp;bih=470">Search web: <strong>magnesium</strong> &ldquo;pound of body weight&rdquo;</a></li></ul><blockquote><p>3, 6, and up to 10 mg of Mg per pound of body weight on the web</p></blockquote><blockquote><p>410 mg of Magnesium is the US RDA for adult male – independent of body weight</p></blockquote><ul><li><a href="http://books.google.com/books?id=mdt1fOFr0jsC&amp;pg=PA255&amp;lpg=PA255&amp;dq=drug+%22pound+of+body+weight%22+-%22vitamin+d%22&amp;source=bl&amp;ots=4Fs-7sBqHb&amp;sig=yW6HKcaHHdtoE00mr9Xe5ckR_VM&amp;hl=en&amp;sa=X&amp;ei=oDkRUZXzFKH9igKJuIDICQ&amp;ved=0CEsQ6AEwAw#v=onepage&amp;q=drug%20%22pound%20of%20body%20weight%22%20-%22vitamin%20d%22&amp;f=false">Nurses know to compute infant dosage based on body weight</a></li></ul><blockquote><p>Wonder why adult doses are not based on weight</p></blockquote><ul><li><a href=http://www.psorsite.com/docs/deluxlife.html><strong>Zinc</strong></a></li></ul><blockquote><p>1 mg Zinc per pound of body weight.</p></blockquote><blockquote><p>Merck Manual Recommended Dietary <strong>Allowance</strong> = 0.44 mg/pound = 66 mg for 150 lb person</p></blockquote><blockquote><p>US Recommended Daily <strong>Amount</strong> = 15 mg</p></blockquote><blockquote><p>Big confusion between the two different RDAs</p></blockquote></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>child</span>
+<span class=tag>childhood obesity</span>
+<span class=tag>dosage</span>
+<span class=tag>health risk</span>
+<span class=tag>How much Vitamin D</span>
+<span class=tag>hypertension</span>
+<span class=tag>life span</span>
+<span class=tag>magnesium</span>
+<span class=tag>mortality</span>
+<span class=tag>obesity</span>
+<span class=tag>Off Topic</span>
+<span class=tag>smoking</span>
+<span class=tag>vitamin d</span>
+<span class=tag>weight loss</span>
+<span class=tag>zinc</span></div><div data-pagefind-meta=tags hidden>child, childhood obesity, dosage, health risk, How much Vitamin D, hypertension, life span, magnesium, mortality, obesity, Off Topic, smoking, vitamin d, weight loss, zinc</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

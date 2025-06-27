@@ -1,18 +1,34 @@
 {
-  "title": "8000 IU supplementation to people with various cancers",
-  "slug": "8000-iu-supplementation-to-people-with-various-cancers",
-  "aliases": [
-    "/8000+IU+supplementation+to+people+with+various+cancers+\u2013+Nov+2010",
-    "/1167"
-  ],
-  "tiki_page_id": 1167,
-  "date": "2010-11-23",
-  "categories": [
-    "Cancer - Colon",
-    "Cancer - Breast",
-    "Cancer - Prostate",
-    "Cancer - Pancreatic"
-  ]
+    "title": "8000 IU supplementation to people with various cancers",
+    "slug": "8000-iu-supplementation-to-people-with-various-cancers",
+    "aliases": [
+        "/8000+IU+supplementation+to+people+with+various+cancers+\u2013+Nov+2010",
+        "/1167"
+    ],
+    "tiki_page_id": 1167,
+    "date": "2010-11-23",
+    "categories": [
+        "Cancer - Colon",
+        "Cancer - Breast",
+        "Cancer - Prostate",
+        "Cancer - Pancreatic"
+    ],
+    "tags": [
+        "Cancer - Breast",
+        "Cancer - Colon",
+        "Cancer - Pancreatic",
+        "Cancer - Prostate",
+        "blood levels",
+        "breast cancer",
+        "cancer",
+        "dosage",
+        "life span",
+        "lung cancer",
+        "melanoma",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -68,7 +84,7 @@ The response to supplementation from suboptimal to optimal levels was greatest i
 
 ## See also at VitaminDWiki
 
-* <a href="/posts/restoring-vitamin-d-levels-to-pancreatic-patients-required-up-to-20000-iu-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2734">Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012</a>
+* [Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012](/posts/restoring-vitamin-d-levels-to-pancreatic-patients-required-up-to-20000-iu-daily)
 
 * <a href="/posts/how-i-treat-vitamin-d-deficiency-for-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 847">How I Treat Vitamin D Deficiency - for Cancer Mar 2010</a>
 

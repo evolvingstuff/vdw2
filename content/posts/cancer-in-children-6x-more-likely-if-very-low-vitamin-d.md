@@ -1,16 +1,25 @@
 {
-  "title": "Cancer in children 6X more likely if very low vitamin D",
-  "slug": "cancer-in-children-6x-more-likely-if-very-low-vitamin-d",
-  "aliases": [
-    "/Cancer+in+children+6X+more+likely+if+very+low+vitamin+D+\u2013+Oct+2011",
-    "/2087"
-  ],
-  "tiki_page_id": 2087,
-  "date": "2011-10-14",
-  "categories": [
-    "Cancer",
-    "Youth"
-  ]
+    "title": "Cancer in children 6X more likely if very low vitamin D",
+    "slug": "cancer-in-children-6x-more-likely-if-very-low-vitamin-d",
+    "aliases": [
+        "/Cancer+in+children+6X+more+likely+if+very+low+vitamin+D+\u2013+Oct+2011",
+        "/2087"
+    ],
+    "tiki_page_id": 2087,
+    "date": "2011-10-14",
+    "categories": [
+        "Cancer",
+        "Youth"
+    ],
+    "tags": [
+        "Cancer",
+        "Youth",
+        "blood levels",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "vitamin d"
+    ]
 }
 
 

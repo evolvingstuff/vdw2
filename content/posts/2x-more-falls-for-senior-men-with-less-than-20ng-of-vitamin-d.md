@@ -1,16 +1,26 @@
 {
-  "title": "2X more falls for senior men with less than 20ng of vitamin D",
-  "slug": "2x-more-falls-for-senior-men-with-less-than-20ng-of-vitamin-d",
-  "aliases": [
-    "/2X+more+falls+for+senior+men+with+less+than+20ng+of+vitamin+D+\u2013+April+2011",
-    "/1694"
-  ],
-  "tiki_page_id": 1694,
-  "date": "2011-06-02",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "2X more falls for senior men with less than 20ng of vitamin D",
+    "slug": "2x-more-falls-for-senior-men-with-less-than-20ng-of-vitamin-d",
+    "aliases": [
+        "/2X+more+falls+for+senior+men+with+less+than+20ng+of+vitamin+D+\u2013+April+2011",
+        "/1694"
+    ],
+    "tiki_page_id": 1694,
+    "date": "2011-06-02",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "blood levels",
+        "bone",
+        "brain",
+        "cognitive",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

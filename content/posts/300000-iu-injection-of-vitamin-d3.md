@@ -1,16 +1,26 @@
 {
-  "title": "300000 IU injection of vitamin D3",
-  "slug": "300000-iu-injection-of-vitamin-d3",
-  "aliases": [
-    "/300000+IU+injection+of+vitamin+D3+\u2013+Mar+2010",
-    "/1186"
-  ],
-  "tiki_page_id": 1186,
-  "date": "2010-11-26",
-  "categories": [
-    "Loading dose for Vitamin D",
-    "Injection"
-  ]
+    "title": "300000 IU injection of vitamin D3",
+    "slug": "300000-iu-injection-of-vitamin-d3",
+    "aliases": [
+        "/300000+IU+injection+of+vitamin+D3+\u2013+Mar+2010",
+        "/1186"
+    ],
+    "tiki_page_id": 1186,
+    "date": "2010-11-26",
+    "categories": [
+        "Loading dose for Vitamin D",
+        "Injection"
+    ],
+    "tags": [
+        "Injection",
+        "Loading dose for Vitamin D",
+        "blood levels",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

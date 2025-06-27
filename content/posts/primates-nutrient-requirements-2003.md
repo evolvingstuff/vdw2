@@ -1,16 +1,46 @@
 {
-  "title": "Primates Nutrient Requirements \u2013 2003",
-  "slug": "primates-nutrient-requirements-2003",
-  "aliases": [
-    "/Primates+Nutrient+Requirements+\u2013+2003",
-    "/2041"
-  ],
-  "tiki_page_id": 2041,
-  "date": "2011-09-27",
-  "categories": [
-    "Veterinary and Vitamin D",
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Primates Nutrient Requirements \u2013 2003",
+    "slug": "primates-nutrient-requirements-2003",
+    "aliases": [
+        "/Primates+Nutrient+Requirements+\u2013+2003",
+        "/2041"
+    ],
+    "tiki_page_id": 2041,
+    "date": "2011-09-27",
+    "categories": [
+        "Veterinary and Vitamin D",
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "EBV",
+        "Veterinary and Vitamin D",
+        "Vitamin D3 instead of D2",
+        "bone",
+        "bone stress fractures",
+        "child",
+        "childhood viruses",
+        "cholesterol",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "iodine",
+        "magnesium",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "osteoporosis",
+        "pregnancy",
+        "rickets",
+        "virus",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "vitamin k",
+        "vitamin k and viruses"
+    ]
 }
 
 

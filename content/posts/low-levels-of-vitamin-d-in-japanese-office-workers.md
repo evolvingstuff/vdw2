@@ -1,16 +1,25 @@
 {
-  "title": "Low levels of vitamin D in Japanese office workers",
-  "slug": "low-levels-of-vitamin-d-in-japanese-office-workers",
-  "aliases": [
-    "/Low+levels+of+vitamin+D+in+Japanese+office+workers+\u2013+July+2011",
-    "/1842"
-  ],
-  "tiki_page_id": 1842,
-  "date": "2011-07-19",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Orient"
-  ]
+    "title": "Low levels of vitamin D in Japanese office workers",
+    "slug": "low-levels-of-vitamin-d-in-japanese-office-workers",
+    "aliases": [
+        "/Low+levels+of+vitamin+D+in+Japanese+office+workers+\u2013+July+2011",
+        "/1842"
+    ],
+    "tiki_page_id": 1842,
+    "date": "2011-07-19",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Orient"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Orient",
+        "blood levels",
+        "bone",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -53,4 +62,3 @@ PMID:     21747209
 <img src="/attachments/d3.mock.jpg" alt="image">
 
 * [CLICK HERE for larger image, text which can be translated, and other details](https://www.VitaminDWiki.com/tiki-index.php?page=Vit+D+decreases+incidence+of+disease)
-

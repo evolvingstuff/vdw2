@@ -1,15 +1,24 @@
 {
-  "title": "Crohn\u2019s disease deficient in vitamin K \u2013 IBD deficient in vitamins K and D",
-  "slug": "crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d",
-  "aliases": [
-    "/Crohns+disease+deficient+in+vitamin+K+\u2013+IBD+deficient+in+vitamins+K+and+D+\u2013+April+2011",
-    "/1582"
-  ],
-  "tiki_page_id": 1582,
-  "date": "2011-04-20",
-  "categories": [
-    "Gut"
-  ]
+    "title": "Crohn\u2019s disease deficient in vitamin K \u2013 IBD deficient in vitamins K and D",
+    "slug": "crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d",
+    "aliases": [
+        "/Crohns+disease+deficient+in+vitamin+K+\u2013+IBD+deficient+in+vitamins+K+and+D+\u2013+April+2011",
+        "/1582"
+    ],
+    "tiki_page_id": 1582,
+    "date": "2011-04-20",
+    "categories": [
+        "Gut"
+    ],
+    "tags": [
+        "Gut",
+        "IBD",
+        "bone",
+        "bone mineral density",
+        "gut",
+        "ulcerative colitis",
+        "vitamin k"
+    ]
 }
 
 

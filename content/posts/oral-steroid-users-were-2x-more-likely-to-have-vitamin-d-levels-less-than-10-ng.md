@@ -1,18 +1,44 @@
 {
-  "title": "Oral steroid users were 2X more likely to have Vitamin D levels less than 10 ng",
-  "slug": "oral-steroid-users-were-2x-more-likely-to-have-vitamin-d-levels-less-than-10-ng",
-  "aliases": [
-    "/Oral+steroid+users+were+2X+more+likely+to+have+Vitamin+D+levels+less+than+10+ng\u2013+Sept+2011",
-    "/2052"
-  ],
-  "tiki_page_id": 2052,
-  "date": "2011-09-29",
-  "categories": [
-    "Interactions with Vitamin D"
-  ]
+    "title": "Oral steroid users were 2X more likely to have Vitamin D levels less than 10 ng",
+    "slug": "oral-steroid-users-were-2x-more-likely-to-have-vitamin-d-levels-less-than-10-ng",
+    "aliases": [
+        "/Oral+steroid+users+were+2X+more+likely+to+have+Vitamin+D+levels+less+than+10+ng\u2013+Sept+2011",
+        "/2052"
+    ],
+    "tiki_page_id": 2052,
+    "date": "2011-09-29",
+    "categories": [
+        "Interactions with Vitamin D"
+    ],
+    "tags": [
+        "Interactions with Vitamin D",
+        "asthma",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "breathing",
+        "child",
+        "crohns",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "gut",
+        "high dose",
+        "intervention",
+        "lupus",
+        "metabolic",
+        "pediatric autoimmune",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
- **And: Those younger than 18 were 14X more likely to have less than 10 ng** 
+
+**And: Those younger than 18 were 14X more likely to have less than 10 ng** 
 
 #### Association of Glucocorticoid Use and Low 25-Hydroxyvitamin D Levels: Results from the National Health and Nutrition Examination Survey (NHANES): 2001–2006
 

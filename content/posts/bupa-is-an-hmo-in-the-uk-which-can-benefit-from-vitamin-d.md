@@ -1,15 +1,24 @@
 {
-  "title": "BUPA is an HMO in the UK which can benefit from vitamin D",
-  "slug": "bupa-is-an-hmo-in-the-uk-which-can-benefit-from-vitamin-d",
-  "aliases": [
-    "/BUPA+is+an+HMO+in+the+UK+which+can+benefit+from+vitamin+D",
-    "/1487"
-  ],
-  "tiki_page_id": 1487,
-  "date": "2011-03-17",
-  "categories": [
-    "Cost savings with Vitamin D"
-  ]
+    "title": "BUPA is an HMO in the UK which can benefit from vitamin D",
+    "slug": "bupa-is-an-hmo-in-the-uk-which-can-benefit-from-vitamin-d",
+    "aliases": [
+        "/BUPA+is+an+HMO+in+the+UK+which+can+benefit+from+vitamin+D",
+        "/1487"
+    ],
+    "tiki_page_id": 1487,
+    "date": "2011-03-17",
+    "categories": [
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "falls fractures",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 

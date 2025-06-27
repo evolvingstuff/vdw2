@@ -1,15 +1,24 @@
 {
-  "title": "Knee osteoarthritis associated with low vitamin D for those under age 55",
-  "slug": "knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55",
-  "aliases": [
-    "/Knee+osteoarthritis+associated+with+low+vitamin+D+for+those+under+age+55+\u2013+Dec+2010",
-    "/1277"
-  ],
-  "tiki_page_id": 1277,
-  "date": "2011-01-03",
-  "categories": [
-    "Osteoarthritis"
-  ]
+    "title": "Knee osteoarthritis associated with low vitamin D for those under age 55",
+    "slug": "knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55",
+    "aliases": [
+        "/Knee+osteoarthritis+associated+with+low+vitamin+D+for+those+under+age+55+\u2013+Dec+2010",
+        "/1277"
+    ],
+    "tiki_page_id": 1277,
+    "date": "2011-01-03",
+    "categories": [
+        "Osteoarthritis"
+    ],
+    "tags": [
+        "Osteoarthritis",
+        "blood levels",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -43,4 +52,4 @@ CONCLUSION: These findings indicate a significant association between serum 25-O
 
 * See Osteoarthritis at [Vitamin D Council](http://www.vitamindcouncil.org/researchOsteoarthritis.shtml)
 
-* <a href="/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013">Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013</a>
+* [Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013](/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review)

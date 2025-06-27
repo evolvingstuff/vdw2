@@ -1,17 +1,29 @@
 {
-  "title": "Less child bone if mother lacked vitamin D",
-  "slug": "less-child-bone-if-mother-lacked-vitamin-d",
-  "aliases": [
-    "/Less+child+bone+if+mother+lacked+vitamin+D+\u2013+Dec+2010",
-    "/1238"
-  ],
-  "tiki_page_id": 1238,
-  "date": "2010-12-15",
-  "categories": [
-    "Bone - Health",
-    "Pregnancy",
-    "Infant-Child"
-  ]
+    "title": "Less child bone if mother lacked vitamin D",
+    "slug": "less-child-bone-if-mother-lacked-vitamin-d",
+    "aliases": [
+        "/Less+child+bone+if+mother+lacked+vitamin+D+\u2013+Dec+2010",
+        "/1238"
+    ],
+    "tiki_page_id": 1238,
+    "date": "2010-12-15",
+    "categories": [
+        "Bone - Health",
+        "Pregnancy",
+        "Infant-Child"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Infant-Child",
+        "Pregnancy",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "child",
+        "dosage",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -38,4 +50,3 @@ METHODS: Eighty-seven children were followed from birth to 14 months. Background
 RESULTS: The children were divided into two groups based on vitamin D status during pregnancy. Despite discrepant S-25-OHD at baseline (median 36.3 vs. 52.5 nmol/l, p?<?0.001), the values at 14 months were similar (63 vs. 66 nmol/l, p?=?0.58) in Low D and High D. Serum 25-OHD increased more in Low D (p?<?0.001) despite similar total intake of vitamin D (mean 12.3 ?g/day). In Low D, tibial bone mineral content (BMC) was lower at birth but BMC gain was greater (multivariate analysis of variance <span>[MANOVA]</span>; p?=?0.032) resulting in similar BMC at 14 months in the two groups. In High D,  **tibial total bone cross-sectional area was higher at baseline; the difference persisted at 14 months**  (MANOVA; p?=?0.068). Bone mineral density (BMD) and ?BMD were similar in the two groups.
 
 CONCLUSIONS: Postnatal vitamin D supplementation improved vitamin D status but only partly eliminated the differences in bone variables induced by maternal vitamin D status during the fetal period. Further attention should be paid to improving vitamin D status during pregnancy. PMID: 21153404
-

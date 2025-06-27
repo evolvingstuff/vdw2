@@ -1,15 +1,20 @@
 {
-  "title": "The vitamin D requirement during human lactation",
-  "slug": "the-vitamin-d-requirement-during-human-lactation",
-  "aliases": [
-    "/The+vitamin+D+requirement+during+human+lactation+-+April+2011",
-    "/1507"
-  ],
-  "tiki_page_id": 1507,
-  "date": "2011-03-25",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "The vitamin D requirement during human lactation",
+    "slug": "the-vitamin-d-requirement-during-human-lactation",
+    "aliases": [
+        "/The+vitamin+D+requirement+during+human+lactation+-+April+2011",
+        "/1507"
+    ],
+    "tiki_page_id": 1507,
+    "date": "2011-03-25",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "cancer",
+        "vitamin d"
+    ]
 }
 
 

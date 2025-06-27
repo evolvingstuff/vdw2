@@ -1,16 +1,42 @@
 {
-  "title": "2000 IU of vitamin D is a step in the right direction for Canada",
-  "slug": "2000-iu-of-vitamin-d-is-a-step-in-the-right-direction-for-canada",
-  "aliases": [
-    "/2000+IU+of+vitamin+D+is+a+step+in+the+right+direction+for+Canada\u2013+Nov+2010",
-    "/2160"
-  ],
-  "tiki_page_id": 2160,
-  "date": "2011-11-07",
-  "categories": [
-    "How much Vitamin D",
-    "Vitamin D in Canada"
-  ]
+    "title": "2000 IU of vitamin D is a step in the right direction for Canada",
+    "slug": "2000-iu-of-vitamin-d-is-a-step-in-the-right-direction-for-canada",
+    "aliases": [
+        "/2000+IU+of+vitamin+D+is+a+step+in+the+right+direction+for+Canada\u2013+Nov+2010",
+        "/2160"
+    ],
+    "tiki_page_id": 2160,
+    "date": "2011-11-07",
+    "categories": [
+        "How much Vitamin D",
+        "Vitamin D in Canada"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Vitamin D in Canada",
+        "atopic dermatitis",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "child",
+        "childhood viruses",
+        "dermatology",
+        "diabetes",
+        "dosage",
+        "hepatitis c",
+        "immunity",
+        "influenza",
+        "liver",
+        "metabolic",
+        "osteoporosis",
+        "rickets",
+        "tuberculosis",
+        "type 1 diabetes",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -67,4 +93,3 @@ The US  and the <a href="/posts/european-union" style="color: red; text-decorati
 <img src="/attachments/d3.mock.jpg" alt="image">
 
 * [CLICK HERE for larger image and more charts of disease incidence](https://www.VitaminDWiki.com/tiki-index.php?page=Vit+D+decreases+incidence+of+disease)
-

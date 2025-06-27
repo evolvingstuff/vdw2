@@ -1,15 +1,25 @@
 {
-  "title": "People with metabolic syndrome were 3X more likely to have low vitamin D",
-  "slug": "people-with-metabolic-syndrome-were-3x-more-likely-to-have-low-vitamin-d",
-  "aliases": [
-    "/People+with+metabolic+syndrome+were+3X+more+likely+to+have+low+vitamin+D+\u2013+Nov+2010",
-    "/1176"
-  ],
-  "tiki_page_id": 1176,
-  "date": "2010-11-26",
-  "categories": [
-    "Metabolic Syndrome"
-  ]
+    "title": "People with metabolic syndrome were 3X more likely to have low vitamin D",
+    "slug": "people-with-metabolic-syndrome-were-3x-more-likely-to-have-low-vitamin-d",
+    "aliases": [
+        "/People+with+metabolic+syndrome+were+3X+more+likely+to+have+low+vitamin+D+\u2013+Nov+2010",
+        "/1176"
+    ],
+    "tiki_page_id": 1176,
+    "date": "2010-11-26",
+    "categories": [
+        "Metabolic Syndrome"
+    ],
+    "tags": [
+        "Metabolic Syndrome",
+        "blood levels",
+        "diabetes",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,16 +1,24 @@
 {
-  "title": "Iranian vitamin D levels 13 ng summer, 12 ng winter",
-  "slug": "iranian-vitamin-d-levels-13-ng-summer-12-ng-winter",
-  "aliases": [
-    "/Iranian+vitamin+D+levels+13+ng+summer+12+ng+winter+\u2013+June+2011",
-    "/1782"
-  ],
-  "tiki_page_id": 1782,
-  "date": "2011-07-01",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Middle East"
-  ]
+    "title": "Iranian vitamin D levels 13 ng summer, 12 ng winter",
+    "slug": "iranian-vitamin-d-levels-13-ng-summer-12-ng-winter",
+    "aliases": [
+        "/Iranian+vitamin+D+levels+13+ng+summer+12+ng+winter+\u2013+June+2011",
+        "/1782"
+    ],
+    "tiki_page_id": 1782,
+    "date": "2011-07-01",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Middle East"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Middle East",
+        "child",
+        "diabetes",
+        "metabolic",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,16 +1,23 @@
 {
-  "title": "Vitamin D bioavailability is associated with cholesterol",
-  "slug": "vitamin-d-bioavailability-is-associated-with-cholesterol",
-  "aliases": [
-    "/Vitamin+D+bioavailability+is+associated+with+cholesterol+\u2013+Jan+2011",
-    "/1375"
-  ],
-  "tiki_page_id": 1375,
-  "date": "2011-02-01",
-  "categories": [
-    "Technical D",
-    "Cholesterol"
-  ]
+    "title": "Vitamin D bioavailability is associated with cholesterol",
+    "slug": "vitamin-d-bioavailability-is-associated-with-cholesterol",
+    "aliases": [
+        "/Vitamin+D+bioavailability+is+associated+with+cholesterol+\u2013+Jan+2011",
+        "/1375"
+    ],
+    "tiki_page_id": 1375,
+    "date": "2011-02-01",
+    "categories": [
+        "Technical D",
+        "Cholesterol"
+    ],
+    "tags": [
+        "Cholesterol",
+        "Technical D",
+        "cholesterol",
+        "health risk",
+        "vitamin d"
+    ]
 }
 
 
@@ -28,4 +35,4 @@ Cholecalciferol uptake was concentration-, temperature- and direction-dependent,
 
 Conclusion: These data show for the first time that vitamin D intestinal absorption is not passive only but involves, at least partly, some cholesterol transporters.
 
-Copyright © 2011 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim. PMID: 21280209 
+Copyright © 2011 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim. PMID: 21280209

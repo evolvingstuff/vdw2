@@ -1,13 +1,69 @@
 {
-  "title": "Groups at high risk of being vitamin D deficient",
-  "slug": "groups-at-high-risk-of-being-vitamin-d-deficient",
-  "aliases": [
-    "/Groups+at+high+risk+of+being+vitamin+D+deficient+-July+2011",
-    "/1820"
-  ],
-  "tiki_page_id": 1820,
-  "date": "2011-07-10"
+    "title": "Groups at high risk of being vitamin D deficient",
+    "slug": "groups-at-high-risk-of-being-vitamin-d-deficient",
+    "aliases": [
+        "/Groups+at+high+risk+of+being+vitamin+D+deficient+-July+2011",
+        "/1820"
+    ],
+    "tiki_page_id": 1820,
+    "date": "2011-07-10",
+    "tags": [
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "brain",
+        "breast cancer",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "cholesterol",
+        "cognitive",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "heart failure",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "life span",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mortality",
+        "multiple sclerosis",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "smoking",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "ultraviolet light",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 
@@ -371,5 +427,4 @@ status and its relation to muscle mass and muscle fat in young women. J Clin End
 
 <sup>[51]</sup> Buckley LM, Hillner BE. A cost effectiveness analysis of calcium and vitamin D supplementation etidronate, and alendronate in the prevention of vertebral fractures in women treated with glucocorti- coids. J Rheumatol 2003;30(1):132-8.
 
-- - - - - - - - 
-
+- - - - - - - -

@@ -1,16 +1,29 @@
 {
-  "title": "Monkeys each got 1000 IU daily - but vitamin D in blood varied with HDL",
-  "slug": "monkeys-each-got-1000-iu-daily-but-vitamin-d-in-blood-varied-with-hdl",
-  "aliases": [
-    "/Monkeys+each+got+1000+IU+daily+-+but+vitamin+D+in+blood+varied+with+HDL+\u2013+May+2011",
-    "/1642"
-  ],
-  "tiki_page_id": 1642,
-  "date": "2011-05-20",
-  "categories": [
-    "Veterinary and Vitamin D",
-    "Cardiovascular"
-  ]
+    "title": "Monkeys each got 1000 IU daily - but vitamin D in blood varied with HDL",
+    "slug": "monkeys-each-got-1000-iu-daily-but-vitamin-d-in-blood-varied-with-hdl",
+    "aliases": [
+        "/Monkeys+each+got+1000+IU+daily+-+but+vitamin+D+in+blood+varied+with+HDL+\u2013+May+2011",
+        "/1642"
+    ],
+    "tiki_page_id": 1642,
+    "date": "2011-05-20",
+    "categories": [
+        "Veterinary and Vitamin D",
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Veterinary and Vitamin D",
+        "atherosclerosis",
+        "bacteria",
+        "blood levels",
+        "cardiovascular",
+        "cholesterol",
+        "dosage",
+        "health risk",
+        "tuberculosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -59,4 +72,3 @@ PMID:    21593696
 * [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 ## [CLICK HERE](https://www.VitaminDWiki.com/tiki-index.php) to get to VitaminDWiki home page to see many overviews, etc.
-

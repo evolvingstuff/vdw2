@@ -1,16 +1,24 @@
 {
-  "title": "Reindeer can see UVA",
-  "slug": "reindeer-can-see-uva",
-  "aliases": [
-    "/Reindeer+can+see+UVA+\u2013+May+2011",
-    "/1679"
-  ],
-  "tiki_page_id": 1679,
-  "date": "2011-05-30",
-  "categories": [
-    "Veterinary and Vitamin D"
-  ]
+    "title": "Reindeer can see UVA",
+    "slug": "reindeer-can-see-uva",
+    "aliases": [
+        "/Reindeer+can+see+UVA+\u2013+May+2011",
+        "/1679"
+    ],
+    "tiki_page_id": 1679,
+    "date": "2011-05-30",
+    "categories": [
+        "Veterinary and Vitamin D"
+    ],
+    "tags": [
+        "Veterinary and Vitamin D",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 &nbsp;
 

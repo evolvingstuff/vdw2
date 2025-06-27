@@ -1,16 +1,26 @@
 {
-  "title": "MS is related to latitude \u2013 conclusion from 321 studies",
-  "slug": "ms-is-related-to-latitude-conclusion-from-321-studies",
-  "aliases": [
-    "/MS+is+related+to+latitude+\u2013+conclusion+from+321+studies+\u2013+April+2011",
-    "/1596"
-  ],
-  "tiki_page_id": 1596,
-  "date": "2011-05-01",
-  "categories": [
-    "Multiple Sclerosis",
-    "Vitamin D Far from equator"
-  ]
+    "title": "MS is related to latitude \u2013 conclusion from 321 studies",
+    "slug": "ms-is-related-to-latitude-conclusion-from-321-studies",
+    "aliases": [
+        "/MS+is+related+to+latitude+\u2013+conclusion+from+321+studies+\u2013+April+2011",
+        "/1596"
+    ],
+    "tiki_page_id": 1596,
+    "date": "2011-05-01",
+    "categories": [
+        "Multiple Sclerosis",
+        "Vitamin D Far from equator"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "Vitamin D Far from equator",
+        "autoimmune",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -34,4 +44,4 @@ Conclusion This, the most comprehensive review of MS prevalence to date, has con
 
 The persistence of a positive gradient in Europe after adjustment for HLA-DRB1 allele frequencies strongly supports a role for environmental factors which vary with latitude, the most prominent candidates being ultraviolet radiation (UVR)/vitamin D.
 
-PMID: 21478203 
+PMID: 21478203

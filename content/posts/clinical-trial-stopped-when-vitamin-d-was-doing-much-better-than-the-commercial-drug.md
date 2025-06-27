@@ -1,15 +1,30 @@
 {
-  "title": "Clinical trial stopped when vitamin D was doing much better than the commercial drug",
-  "slug": "clinical-trial-stopped-when-vitamin-d-was-doing-much-better-than-the-commercial-drug",
-  "aliases": [
-    "/Clinical+trial+stopped+when+vitamin+D+was+doing+much+better+than+the+commercial+drug+\u2013+Nov+2011",
-    "/2141"
-  ],
-  "tiki_page_id": 2141,
-  "date": "2011-11-02",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "Clinical trial stopped when vitamin D was doing much better than the commercial drug",
+    "slug": "clinical-trial-stopped-when-vitamin-d-was-doing-much-better-than-the-commercial-drug",
+    "aliases": [
+        "/Clinical+trial+stopped+when+vitamin+D+was+doing+much+better+than+the+commercial+drug+\u2013+Nov+2011",
+        "/2141"
+    ],
+    "tiki_page_id": 2141,
+    "date": "2011-11-02",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "cardiovascular",
+        "diabetes",
+        "dosage",
+        "life span",
+        "metabolic",
+        "mortality",
+        "osteoporosis",
+        "stroke",
+        "vitamin d"
+    ]
 }
 
 
@@ -54,4 +69,3 @@ vs.
 # See also VitaminDWiki
 
 * <a href="/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1026">Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010</a>
-

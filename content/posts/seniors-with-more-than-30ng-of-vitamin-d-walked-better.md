@@ -1,15 +1,23 @@
 {
-  "title": "Seniors with more than 30ng of vitamin D walked better",
-  "slug": "seniors-with-more-than-30ng-of-vitamin-d-walked-better",
-  "aliases": [
-    "/Seniors+with+more+than+30ng+of+vitamin+D+walked+better+\u2013+May+2011",
-    "/1665"
-  ],
-  "tiki_page_id": 1665,
-  "date": "2011-05-26",
-  "categories": [
-    "Seniors"
-  ]
+    "title": "Seniors with more than 30ng of vitamin D walked better",
+    "slug": "seniors-with-more-than-30ng-of-vitamin-d-walked-better",
+    "aliases": [
+        "/Seniors+with+more+than+30ng+of+vitamin+D+walked+better+\u2013+May+2011",
+        "/1665"
+    ],
+    "tiki_page_id": 1665,
+    "date": "2011-05-26",
+    "categories": [
+        "Seniors"
+    ],
+    "tags": [
+        "Seniors",
+        "blood levels",
+        "bone",
+        "falls fractures",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

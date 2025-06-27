@@ -1,15 +1,19 @@
 {
-  "title": "Stability of vitamin D",
-  "slug": "stability-of-vitamin-d",
-  "aliases": [
-    "/Stability+of+vitamin+D",
-    "/1652"
-  ],
-  "tiki_page_id": 1652,
-  "date": "2011-05-23",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "Stability of vitamin D",
+    "slug": "stability-of-vitamin-d",
+    "aliases": [
+        "/Stability+of+vitamin+D",
+        "/1652"
+    ],
+    "tiki_page_id": 1652,
+    "date": "2011-05-23",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "vitamin d"
+    ]
 }
 
 
@@ -24,4 +28,3 @@ publication is attached to the bottom of this page - unknown date of publication
 {IMG(attId="536")}{IMG}
 
 ## It appears that you can extend the nominal shelf life by keeping vitamin D away from bright light and cool
-

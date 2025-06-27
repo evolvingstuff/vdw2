@@ -1,16 +1,30 @@
 {
-  "title": "High vitamin D in moms decreased MS incidence in daughters by 40%",
-  "slug": "high-vitamin-d-in-moms-decreased-ms-incidence-in-daughters-by-40-percent",
-  "aliases": [
-    "/High+vitamin+D+in+moms+decreased+MS+incidence+in+daughters+by+40+\u2013+July+2011",
-    "/1863"
-  ],
-  "tiki_page_id": 1863,
-  "date": "2011-07-26",
-  "categories": [
-    "Pregnancy",
-    "Multiple Sclerosis"
-  ]
+    "title": "High vitamin D in moms decreased MS incidence in daughters by 40%",
+    "slug": "high-vitamin-d-in-moms-decreased-ms-incidence-in-daughters-by-40-percent",
+    "aliases": [
+        "/High+vitamin+D+in+moms+decreased+MS+incidence+in+daughters+by+40+\u2013+July+2011",
+        "/1863"
+    ],
+    "tiki_page_id": 1863,
+    "date": "2011-07-26",
+    "categories": [
+        "Pregnancy",
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "Pregnancy",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "pregnancy",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

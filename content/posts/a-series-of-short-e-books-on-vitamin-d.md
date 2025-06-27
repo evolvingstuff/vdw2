@@ -1,16 +1,22 @@
 {
-  "title": "A series of short e-books on vitamin D",
-  "slug": "a-series-of-short-e-books-on-vitamin-d",
-  "aliases": [
-    "/A+series+of+short+e-books+on+vitamin+D+\u2013+May+2011",
-    "/1606"
-  ],
-  "tiki_page_id": 1606,
-  "date": "2011-05-05",
-  "categories": [
-    "Books, videos on Vitamin D",
-    "Autism"
-  ]
+    "title": "A series of short e-books on vitamin D",
+    "slug": "a-series-of-short-e-books-on-vitamin-d",
+    "aliases": [
+        "/A+series+of+short+e-books+on+vitamin+D+\u2013+May+2011",
+        "/1606"
+    ],
+    "tiki_page_id": 1606,
+    "date": "2011-05-05",
+    "categories": [
+        "Books, videos on Vitamin D",
+        "Autism"
+    ],
+    "tags": [
+        "Autism",
+        "Books, videos on Vitamin D",
+        "child",
+        "vitamin d"
+    ]
 }
 
 

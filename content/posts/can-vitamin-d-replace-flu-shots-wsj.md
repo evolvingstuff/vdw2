@@ -1,16 +1,31 @@
 {
-  "title": "Can Vitamin D Replace Flu Shots \u2013 WSJ",
-  "slug": "can-vitamin-d-replace-flu-shots-wsj",
-  "aliases": [
-    "/Can+Vitamin+D+Replace+Flu+Shots+\u2013+WSJ+Dec+2010",
-    "/1548"
-  ],
-  "tiki_page_id": 1548,
-  "date": "2011-04-01",
-  "categories": [
-    "Immunity"
-  ]
+    "title": "Can Vitamin D Replace Flu Shots \u2013 WSJ",
+    "slug": "can-vitamin-d-replace-flu-shots-wsj",
+    "aliases": [
+        "/Can+Vitamin+D+Replace+Flu+Shots+\u2013+WSJ+Dec+2010",
+        "/1548"
+    ],
+    "tiki_page_id": 1548,
+    "date": "2011-04-01",
+    "categories": [
+        "Immunity"
+    ],
+    "tags": [
+        "Immunity",
+        "antibiotics",
+        "breathing",
+        "dosage",
+        "high dose",
+        "immunity",
+        "influenza",
+        "respiratory",
+        "therapeutic intervention",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 &nbsp;
 
@@ -67,4 +82,3 @@ Vitamin D is generally safe, but in high doses scientists say it can pull calciu
 * <a href="/posts/influenza-of-1918-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 802">Influenza of 1918 and vitamin D - July 2010</a>
 
 * [Sunlight used to treat influenza - 1918](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1423) file
-

@@ -1,15 +1,25 @@
 {
-  "title": "Vitamin D given after low weight birth did not decrease death rate",
-  "slug": "vitamin-d-given-after-low-weight-birth-did-not-decrease-death-rate",
-  "aliases": [
-    "/Vitamin+D+given+after+low+weight+birth+did+not+decrease+death+rate+\u2013+May+2011",
-    "/2161"
-  ],
-  "tiki_page_id": 2161,
-  "date": "2011-11-07",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Vitamin D given after low weight birth did not decrease death rate",
+    "slug": "vitamin-d-given-after-low-weight-birth-did-not-decrease-death-rate",
+    "aliases": [
+        "/Vitamin+D+given+after+low+weight+birth+did+not+decrease+death+rate+\u2013+May+2011",
+        "/2161"
+    ],
+    "tiki_page_id": 2161,
+    "date": "2011-11-07",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "child",
+        "dosage",
+        "life span",
+        "low birth weight",
+        "mortality",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -86,4 +96,3 @@ Trial registration ClinicalTrials.gov NCT00415402.
 # On web
 
 * [Death rate 2X higher for 37 vs 40 week pregnancy](http://medicalxpress.com/news/2011-05-newborn-death-pregancy-weeks.html) May 2011
-

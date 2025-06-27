@@ -1,15 +1,22 @@
 {
-  "title": "UVA most likely causes melanoma to progress",
-  "slug": "uva-most-likely-causes-melanoma-to-progress",
-  "aliases": [
-    "/UVA+most+likely+causes+melanoma+to+progress\u2013+Sept+2011",
-    "/1990"
-  ],
-  "tiki_page_id": 1990,
-  "date": "2011-09-07",
-  "categories": [
-    "Cancer - Skin"
-  ]
+    "title": "UVA most likely causes melanoma to progress",
+    "slug": "uva-most-likely-causes-melanoma-to-progress",
+    "aliases": [
+        "/UVA+most+likely+causes+melanoma+to+progress\u2013+Sept+2011",
+        "/1990"
+    ],
+    "tiki_page_id": 1990,
+    "date": "2011-09-07",
+    "categories": [
+        "Cancer - Skin"
+    ],
+    "tags": [
+        "Cancer - Skin",
+        "cancer",
+        "melanoma",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 

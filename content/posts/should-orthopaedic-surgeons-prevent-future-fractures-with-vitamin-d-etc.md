@@ -1,15 +1,23 @@
 {
-  "title": "Should orthopaedic surgeons prevent future fractures with vitamin D etc",
-  "slug": "should-orthopaedic-surgeons-prevent-future-fractures-with-vitamin-d-etc",
-  "aliases": [
-    "/Should+orthopaedic+surgeons+prevent+future+fractures+with+vitamin+D+etc+\u2013+June+2011",
-    "/1641"
-  ],
-  "tiki_page_id": 1641,
-  "date": "2011-05-20",
-  "categories": [
-    "Osteoporosis"
-  ]
+    "title": "Should orthopaedic surgeons prevent future fractures with vitamin D etc",
+    "slug": "should-orthopaedic-surgeons-prevent-future-fractures-with-vitamin-d-etc",
+    "aliases": [
+        "/Should+orthopaedic+surgeons+prevent+future+fractures+with+vitamin+D+etc+\u2013+June+2011",
+        "/1641"
+    ],
+    "tiki_page_id": 1641,
+    "date": "2011-05-20",
+    "categories": [
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "bone",
+        "bone stress fractures",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -34,4 +42,3 @@ PMID:    21566474
 * <a href="/posts/overview-bone-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview: Bone fractures and vitamin D</a>
 
 * [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
-

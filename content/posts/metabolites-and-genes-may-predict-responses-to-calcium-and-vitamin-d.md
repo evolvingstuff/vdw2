@@ -1,15 +1,21 @@
 {
-  "title": "Metabolites and genes may predict responses to Calcium and Vitamin D",
-  "slug": "metabolites-and-genes-may-predict-responses-to-calcium-and-vitamin-d",
-  "aliases": [
-    "/Metabolites+and+genes+may+predict+responses+to+Calcium+and+Vitamin+D+\u2013+Jan+2011",
-    "/1291"
-  ],
-  "tiki_page_id": 1291,
-  "date": "2011-01-07",
-  "categories": [
-    "Genetics"
-  ]
+    "title": "Metabolites and genes may predict responses to Calcium and Vitamin D",
+    "slug": "metabolites-and-genes-may-predict-responses-to-calcium-and-vitamin-d",
+    "aliases": [
+        "/Metabolites+and+genes+may+predict+responses+to+Calcium+and+Vitamin+D+\u2013+Jan+2011",
+        "/1291"
+    ],
+    "tiki_page_id": 1291,
+    "date": "2011-01-07",
+    "categories": [
+        "Genetics"
+    ],
+    "tags": [
+        "Genetics",
+        "genetics",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -46,4 +52,3 @@ To date, the HMP has identified and quantified (i.e. determined the normal conce
 ### Clipped from Wikipedia
 
 Metabolomics is the "systematic study of the unique chemical fingerprints that specific cellular processes leave behind" - specifically, the study of their small-molecule metabolite profiles.<sup>[1]</sup> The metabolome  represents the collection of all metabolites in a biological cell, tissue, organ or organism, which are the end products of cellular processes<sup>[2]</sup>. Thus, while mRNA gene expression data and proteomic  analyses do not tell the whole story of what might be happening in a cell, metabolic profiling can give an instantaneous snapshot of the physiology of that cell. One of the challenges of systems biology and functional genomics is to integrate proteomic, transcriptomic, and metabolomic information to give a more complete picture of living organisms.
-

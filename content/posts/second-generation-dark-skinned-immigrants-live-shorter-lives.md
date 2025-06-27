@@ -1,16 +1,24 @@
 {
-  "title": "Second generation dark skinned immigrants live shorter lives",
-  "slug": "second-generation-dark-skinned-immigrants-live-shorter-lives",
-  "aliases": [
-    "/Second+generation+dark+skinned+immigrants+live+shorter+lives",
-    "/2134"
-  ],
-  "tiki_page_id": 2134,
-  "date": "2011-10-29",
-  "categories": [
-    "Skin - Dark"
-  ]
+    "title": "Second generation dark skinned immigrants live shorter lives",
+    "slug": "second-generation-dark-skinned-immigrants-live-shorter-lives",
+    "aliases": [
+        "/Second+generation+dark+skinned+immigrants+live+shorter+lives",
+        "/2134"
+    ],
+    "tiki_page_id": 2134,
+    "date": "2011-10-29",
+    "categories": [
+        "Skin - Dark"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "child",
+        "cholesterol",
+        "health risk",
+        "vitamin d"
+    ]
 }
+
 
 A chart in by Dr. Grimes in the UK  [Video June 2011](http://www.youtube.com/watch?v=TIo9a56nOwI)
 

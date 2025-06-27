@@ -1,16 +1,27 @@
 {
-  "title": "200 to 2000 IU vitamin D daily did not improve child bone density \u2013 BMJ",
-  "slug": "200-to-2000-iu-vitamin-d-daily-did-not-improve-child-bone-density-bmj",
-  "aliases": [
-    "/200+to+2000+IU+vitamin+D+daily+did+not+improve+child+bone+density+\u2013+BMJ+Jan+2011",
-    "/1371"
-  ],
-  "tiki_page_id": 1371,
-  "date": "2011-01-31",
-  "categories": [
-    "Bone - Health",
-    "Youth"
-  ]
+    "title": "200 to 2000 IU vitamin D daily did not improve child bone density \u2013 BMJ",
+    "slug": "200-to-2000-iu-vitamin-d-daily-did-not-improve-child-bone-density-bmj",
+    "aliases": [
+        "/200+to+2000+IU+vitamin+D+daily+did+not+improve+child+bone+density+\u2013+BMJ+Jan+2011",
+        "/1371"
+    ],
+    "tiki_page_id": 1371,
+    "date": "2011-01-31",
+    "categories": [
+        "Bone - Health",
+        "Youth"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Youth",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "child",
+        "dosage",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
 
 
@@ -69,4 +80,3 @@ Conclusions It is unlikely that vitamin D supplements are beneficial in children
 * <a href="/posts/review-of-vitamin-d-pathways-to-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1000">Review of vitamin D pathways to bone health - July 2010</a>
 
 * <a href="/posts/average-of-less-than-2000-iu-of-vitamin-d2-did-not-help-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 613">Average of less than 2000 IU of vitamin D2 did not help bone health – July 2010</a>
-

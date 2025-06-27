@@ -1,16 +1,24 @@
 {
-  "title": "Parkinson disease increased in Israel by 50 percent in 7 years",
-  "slug": "parkinson-disease-increased-in-israel-by-50-percent-in-7-years",
-  "aliases": [
-    "/Parkinson+disease+increased+in+Israel+by+50+percent+in+7+years+\u2013+June+2011",
-    "/1716"
-  ],
-  "tiki_page_id": 1716,
-  "date": "2011-06-09",
-  "categories": [
-    "Parkinson",
-    "Middle East"
-  ]
+    "title": "Parkinson disease increased in Israel by 50 percent in 7 years",
+    "slug": "parkinson-disease-increased-in-israel-by-50-percent-in-7-years",
+    "aliases": [
+        "/Parkinson+disease+increased+in+Israel+by+50+percent+in+7+years+\u2013+June+2011",
+        "/1716"
+    ],
+    "tiki_page_id": 1716,
+    "date": "2011-06-09",
+    "categories": [
+        "Parkinson",
+        "Middle East"
+    ],
+    "tags": [
+        "Middle East",
+        "Parkinson",
+        "child",
+        "neurological",
+        "parkinsons",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Short treatment with vitamin D did not reduce cholesterol</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Short treatment with vitamin D did not reduce cholesterol</h1><time>September 7, 2012</time><div data-pagefind-body><h1 id=the-short-term-effects-of-vitamin-d-repletion-on-cholesterol>The Short-Term Effects of Vitamin D Repletion on Cholesterol</h1><h2 id=a-randomized-placebo-controlled-trial>A Randomized, Placebo-Controlled Trial</h2><p>Atherosclerosis, Thrombosis, and Vascular Biology – Sept 2012 (American Heart Association)</p><p>Manish P. Ponda, Kathleen Dowd, Dennis Finkielstein, Peter R. Holt, Jan L. Breslow</p><p>From the Laboratory of Biochemical Genetics and Metabolism (M.P.P., P.R.H., J.L.B.) and the Center for Clinical and Translational Science (K.D.), The Rockefeller University, New York, NY; and Beth Israel Medical Center, New York, NY (D.F.).</p><p>Correspondence to Jan L. Breslow, Laboratory of Biochemical Genetics and Metabolism, The Rockefeller University, Box 179, New York, NY 10065. E-mail <a href=mailto:breslow@rockefeller.edu>breslow@rockefeller.edu</a></p><p>Objective—Vitamin D deficiency is common and associated with dyslipidemia. However, it is unclear whether oral vitamin D supplementation improves the lipid profile. Therefore, we conducted a randomized, placebo-controlled trial to determine the short-term effects of vitamin D repletion on the lipid profile.</p><p>Methods and Results—One hundred fifty-one vitamin D?deficient (25-hydroxyvitamin D &lt;20 ng/mL) adults with elevated risk for cardiovascular disease were randomized to receive either 50 000 IU of vitamin D3 weekly for 8 weeks or placebo. The primary outcome was the change in small low-density lipoprotein (LDL) particle number. Secondary outcomes included changes in other nuclear magnetic resonance?based and chemical lipid fractions. Vitamin D failed to improve the lipid profile.</p><p>Compared with the placebo, vitamin D repletion did not change small LDL particle number (mean change, +18 nmol/L; 95% CI <a href=?80%20to%20+116%20nmol/L>?80 to +116 nmol/L</a>; P=0.63). There were also no changes in the chemical lipid profile: total cholesterol (+5.8 mg/dL, 95% CI <a href=?1.4%20to%20+13.0%20mg/dL>?1.4 to +13.0 mg/dL</a>, P=0.14); LDL cholesterol (+3.8 mg/dL, 95% CI <a href=?2.5%20to%20+10.2%20mg/dL>?2.5 to +10.2 mg/dL</a>, P=0.13); high–density lipoprotein cholesterol (+0.4 mg/dL 95% CI <a href=?1.6%20to%20+2.6%20mg/dL>?1.6 to +2.6 mg/dL</a>, P=0.71); and triglycerides (+7.9 mg/dL 95% CI <a href=?6.5%20to%20+22.3%20mg/dL>?6.5 to +22.3 mg/dL</a>). In the vitamin D repletion group, exploratory multivariate regression analysis demonstrates that changes in LDL cholesterol were positively correlated with the changes in serum calcium (P&lt;0.001) and inversely with the changes in serum parathyroid hormone (P=0.02).</p><p>Conclusion—In contrast to the association between low 25-hydroxyvitamin D levels and dyslipidemia, correcting vitamin D deficiency in the short-term does not improve the lipid profile. Repletion of 25-hydroxyvitamin D levels raised serum calcium levels and decreased serum parathyroid hormone levels. These expected physiological responses to vitamin D therapy were correlated with a significant increase in LDL cholesterol.</p><p>Clinical Trial Registration—URL: <a href=http://www.clinicaltrials.gov>http://www.clinicaltrials.gov</a>. Unique identifier: <a href="http://clinicaltrials.gov/ct2/show/NCT01008384?term=NCT01008384&amp;rank=1%20">NCT01008384</a>.</p><p>– – – – – – – – – – – – – – – – - - - - - - - - - - -</p><h2 id=comments-by-vitamindwiki>Comments by VitaminDWiki</h2><p>8 weeks is just about enough time to replete the vitamin D levels for healthy, normal weight persons.</p><p>If the RCT had lasted 12-16 weeks then the cholesterol levels probably would have gone down.</p><p>It is strange that the abstract did not mention the vitamin D levels before and after the RCT.</p><p>What did they consider to be repletion: 20 ng, 30 ng, or what?</p><p>The clinical trial indicates that only people with &lt; 20 ng of vitamin D were accepted.</p><p>The clinical trial also indicates that the people should have BMI > 35 kg/m2</p><p>     - which is enough weight that it takes more than 8 weeks time to replete vitamin D without loading doses.</p><p>50,000 IU of vitamin D (7,000 IU daily) should not be used as a monotherapy - <a href=/posts/cofactors style=color:red;text-decoration:underline title="This link has an unknown page_id: 1270">cofactors</a> should be adjusted if > 4,000 IU</p><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href=/posts/overview-cholesterol-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 754">Overview Cholesterol and vitamin D</a></p></li><li><p><a href=/posts/overview-obesity-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a></p></li><li><p><a href=/posts/hypertension-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 1171">Hypertension and Vitamin D</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>atherosclerosis</span>
+<span class=tag>blood levels</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>cholesterol</span>
+<span class=tag>Cholesterol</span>
+<span class=tag>dosage</span>
+<span class=tag>health risk</span>
+<span class=tag>high dose</span>
+<span class=tag>hypertension</span>
+<span class=tag>obesity</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>atherosclerosis, blood levels, cardiovascular, cholesterol, Cholesterol, dosage, health risk, high dose, hypertension, obesity, therapeutic intervention, vitamin d, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

@@ -1,16 +1,25 @@
 {
-  "title": "Ovarian Cancer is somewhat associated with a reduction in 20 ng of vitamin D",
-  "slug": "ovarian-cancer-is-somewhat-associated-with-a-reduction-in-20-ng-of-vitamin-d",
-  "aliases": [
-    "/Ovarian+Cancer+is+somewhat+associated+with+a+reduction+in+20+ng+of+vitamin+D+\u2013+Feb+2011",
-    "/1530"
-  ],
-  "tiki_page_id": 1530,
-  "date": "2011-03-30",
-  "categories": [
-    "Women",
-    "Cancer - Ovarian"
-  ]
+    "title": "Ovarian Cancer is somewhat associated with a reduction in 20 ng of vitamin D",
+    "slug": "ovarian-cancer-is-somewhat-associated-with-a-reduction-in-20-ng-of-vitamin-d",
+    "aliases": [
+        "/Ovarian+Cancer+is+somewhat+associated+with+a+reduction+in+20+ng+of+vitamin+D+\u2013+Feb+2011",
+        "/1530"
+    ],
+    "tiki_page_id": 1530,
+    "date": "2011-03-30",
+    "categories": [
+        "Women",
+        "Cancer - Ovarian"
+    ],
+    "tags": [
+        "Cancer - Ovarian",
+        "Women",
+        "blood levels",
+        "cancer",
+        "ovarian cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -38,11 +47,11 @@ Copyright © 2011 Elsevier Inc. All rights reserved. PMID: 21324518
 
 # See also VitaminDWiki
 
-* <a href="/posts/ovarian-cancer-58-x-more-likely-if-both-low-vitamin-d-and-fok1-gene-change" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ovarian Cancer 5.8 X more likely if both low vitamin D and Fok1 gene change – May 2013">Ovarian Cancer 5.8 X more likely if both low vitamin D and Fok1 gene change – May 2013</a>
+* [Ovarian Cancer 5.8 X more likely if both low vitamin D and Fok1 gene change – May 2013](/posts/ovarian-cancer-58-x-more-likely-if-both-low-vitamin-d-and-fok1-gene-change)
 
 * [Google Search VitaminDWiki for "Ovarian Cancer"](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22ovarian+cancer%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 252 hits as of July 2013
 
-* <a href="/posts/ovarian-cancer-more-likely-to-survive-if-more-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3107">Ovarian cancer: more likely to survive if more vitamin D – Aug 2012</a> with the following graphic
+* [Ovarian cancer: more likely to survive if more vitamin D – Aug 2012](/posts/ovarian-cancer-more-likely-to-survive-if-more-vitamin-d) with the following graphic
 
 >  **Survival rates for > or < 15 ng of vitamin D** 
 

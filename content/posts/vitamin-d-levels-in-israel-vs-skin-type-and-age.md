@@ -1,16 +1,26 @@
 {
-  "title": "Vitamin D levels in Israel vs skin type and age",
-  "slug": "vitamin-d-levels-in-israel-vs-skin-type-and-age",
-  "aliases": [
-    "/Vitamin+D+levels+in+Israel+vs+skin+type+and+age+\u2013+Mar+2011",
-    "/1497"
-  ],
-  "tiki_page_id": 1497,
-  "date": "2011-03-19",
-  "categories": [
-    "Skin - Dark",
-    "Middle East"
-  ]
+    "title": "Vitamin D levels in Israel vs skin type and age",
+    "slug": "vitamin-d-levels-in-israel-vs-skin-type-and-age",
+    "aliases": [
+        "/Vitamin+D+levels+in+Israel+vs+skin+type+and+age+\u2013+Mar+2011",
+        "/1497"
+    ],
+    "tiki_page_id": 1497,
+    "date": "2011-03-19",
+    "categories": [
+        "Skin - Dark",
+        "Middle East"
+    ],
+    "tags": [
+        "Middle East",
+        "Skin - Dark",
+        "blood levels",
+        "child",
+        "depression",
+        "mood disorders",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

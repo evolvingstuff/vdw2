@@ -1,15 +1,20 @@
 {
-  "title": "Vitamin D should be 48 ng to 90 ng \u2013 Heaney",
-  "slug": "vitamin-d-should-be-48-ng-to-90-ng-heaney",
-  "aliases": [
-    "/Vitamin+D+should+be+48+ng+to+90+ng+\u2013+Heaney+Sept+2011",
-    "/1947"
-  ],
-  "tiki_page_id": 1947,
-  "date": "2011-08-24",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "Vitamin D should be 48 ng to 90 ng \u2013 Heaney",
+    "slug": "vitamin-d-should-be-48-ng-to-90-ng-heaney",
+    "aliases": [
+        "/Vitamin+D+should+be+48+ng+to+90+ng+\u2013+Heaney+Sept+2011",
+        "/1947"
+    ],
+    "tiki_page_id": 1947,
+    "date": "2011-08-24",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

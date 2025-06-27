@@ -1,13 +1,18 @@
 {
-  "title": "Urinary stones 17 percent more likely if 1 gram of Calcium and 400 IU of vitamin D daily",
-  "slug": "urinary-stones-17-percent-more-likely-if-1-gram-of-calcium-and-400-iu-of-vitamin-d-daily",
-  "aliases": [
-    "/Urinary+stones+17+percent+more+likely+if+1+gram+of+Calcium+and+400+IU+of+vitamin+D+daily+\u2013+April+2011",
-    "/1591"
-  ],
-  "tiki_page_id": 1591,
-  "date": "2011-05-01"
+    "title": "Urinary stones 17 percent more likely if 1 gram of Calcium and 400 IU of vitamin D daily",
+    "slug": "urinary-stones-17-percent-more-likely-if-1-gram-of-calcium-and-400-iu-of-vitamin-d-daily",
+    "aliases": [
+        "/Urinary+stones+17+percent+more+likely+if+1+gram+of+Calcium+and+400+IU+of+vitamin+D+daily+\u2013+April+2011",
+        "/1591"
+    ],
+    "tiki_page_id": 1591,
+    "date": "2011-05-01",
+    "tags": [
+        "dosage",
+        "vitamin d"
+    ]
 }
+
 
 Urinary tract stone occurrence in the Women's Health Initiative randomized clinical trial of calcium and vitamin D supplements.
 

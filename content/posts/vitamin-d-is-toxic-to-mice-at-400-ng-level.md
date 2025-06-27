@@ -1,15 +1,25 @@
 {
-  "title": "Vitamin D is toxic to mice at 400 ng level",
-  "slug": "vitamin-d-is-toxic-to-mice-at-400-ng-level",
-  "aliases": [
-    "/Vitamin+D+is+toxic+to+mice+at+400+ng+level+\u2013+Jan+2011",
-    "/1312"
-  ],
-  "tiki_page_id": 1312,
-  "date": "2011-01-11",
-  "categories": [
-    "Toxicity of Vitamin D"
-  ]
+    "title": "Vitamin D is toxic to mice at 400 ng level",
+    "slug": "vitamin-d-is-toxic-to-mice-at-400-ng-level",
+    "aliases": [
+        "/Vitamin+D+is+toxic+to+mice+at+400+ng+level+\u2013+Jan+2011",
+        "/1312"
+    ],
+    "tiki_page_id": 1312,
+    "date": "2011-01-11",
+    "categories": [
+        "Toxicity of Vitamin D"
+    ],
+    "tags": [
+        "CYPR",
+        "Toxicity of Vitamin D",
+        "blood levels",
+        "genetics",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "weight loss"
+    ]
 }
 
 
@@ -32,4 +42,3 @@ Vitamin D intoxication was produced with oral doses of either vitamin D(3) or 25
 * [Toxic level of vitamin D may be 300 ng - 2008](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1494)
 
 * <a href="/posts/toxicity-of-vitamin-d-300-ng-but-selected-100-ng-to-be-prudent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 832">Toxicity of vitamin D 300 ng but selected 100 ng to be prudent – Aug 2008</a>
-

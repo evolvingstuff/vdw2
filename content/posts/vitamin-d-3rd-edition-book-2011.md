@@ -1,17 +1,74 @@
 {
-  "title": "Vitamin D \u2013 3rd Edition book 2011",
-  "slug": "vitamin-d-3rd-edition-book-2011",
-  "aliases": [
-    "/Vitamin+D+\u2013+3rd+Edition+book+2011",
-    "/1960"
-  ],
-  "tiki_page_id": 1960,
-  "date": "2011-08-27",
-  "categories": [
-    "Books, videos on Vitamin D",
-    "Technical D"
-  ]
+    "title": "Vitamin D \u2013 3rd Edition book 2011",
+    "slug": "vitamin-d-3rd-edition-book-2011",
+    "aliases": [
+        "/Vitamin+D+\u2013+3rd+Edition+book+2011",
+        "/1960"
+    ],
+    "tiki_page_id": 1960,
+    "date": "2011-08-27",
+    "categories": [
+        "Books, videos on Vitamin D",
+        "Technical D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "CKD",
+        "CYPA",
+        "IBD",
+        "Technical D",
+        "asthma",
+        "asthma receptor",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bariatric surgery",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "brain",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "cognitive",
+        "colon cancer",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "falls fractures",
+        "genetics",
+        "gut",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "intervention",
+        "kidney",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "prostate cancer",
+        "psoriasis",
+        "rickets",
+        "skin cancer",
+        "therapeutic intervention",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 Feldman, Pike & Adams
 

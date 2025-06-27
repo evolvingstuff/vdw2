@@ -1,18 +1,58 @@
 {
-  "title": "Resveratrol gets vitamin D to cells even if poor vitamin D receptor",
-  "slug": "resveratrol-gets-vitamin-d-to-cells-even-if-poor-vitamin-d-receptor",
-  "aliases": [
-    "/Resveratrol+gets+vitamin+D+to+cells+even+if+poor+vitamin+D+receptor",
-    "/1922"
-  ],
-  "tiki_page_id": 1922,
-  "date": "2011-08-16",
-  "categories": [
-    "Interactions with Vitamin D",
-    "Vitamin D Receptor",
-    "Resveratrol"
-  ]
+    "title": "Resveratrol gets vitamin D to cells even if poor vitamin D receptor",
+    "slug": "resveratrol-gets-vitamin-d-to-cells-even-if-poor-vitamin-d-receptor",
+    "aliases": [
+        "/Resveratrol+gets+vitamin+D+to+cells+even+if+poor+vitamin+D+receptor",
+        "/1922"
+    ],
+    "tiki_page_id": 1922,
+    "date": "2011-08-16",
+    "categories": [
+        "Interactions with Vitamin D",
+        "Vitamin D Receptor",
+        "Resveratrol"
+    ],
+    "tags": [
+        "Interactions with Vitamin D",
+        "Resveratrol",
+        "Vitamin D Receptor",
+        "acne",
+        "alcohol",
+        "atherosclerosis",
+        "autoimmune",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "brain",
+        "breast cancer",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "cognitive",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "heart failure",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "omega 3",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
+
 
 {{< toc >}}
 

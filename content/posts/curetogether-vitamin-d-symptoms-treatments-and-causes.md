@@ -1,18 +1,34 @@
 {
-  "title": "CureTogether Vitamin D symptoms, treatments, and causes",
-  "slug": "curetogether-vitamin-d-symptoms-treatments-and-causes",
-  "aliases": [
-    "/CureTogether+Vitamin+D+symptoms+treatments+and+causes",
-    "/2088"
-  ],
-  "tiki_page_id": 2088,
-  "date": "2011-10-14",
-  "categories": [
-    "Multiple Sclerosis",
-    "Osteoporosis",
-    "Evidence for D",
-    "Intervention"
-  ]
+    "title": "CureTogether Vitamin D symptoms, treatments, and causes",
+    "slug": "curetogether-vitamin-d-symptoms-treatments-and-causes",
+    "aliases": [
+        "/CureTogether+Vitamin+D+symptoms+treatments+and+causes",
+        "/2088"
+    ],
+    "tiki_page_id": 2088,
+    "date": "2011-10-14",
+    "categories": [
+        "Multiple Sclerosis",
+        "Osteoporosis",
+        "Evidence for D",
+        "Intervention"
+    ],
+    "tags": [
+        "Evidence for D",
+        "Intervention",
+        "Multiple Sclerosis",
+        "Osteoporosis",
+        "SAD",
+        "autoimmune",
+        "chronic fatigue",
+        "high dose",
+        "intervention",
+        "mood disorders",
+        "multiple sclerosis",
+        "neurological",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -65,4 +81,3 @@ Gray = not rated
 {IMG(attId="815" max ="600")}{IMG}
 
 # SAD - light therapy & vitamin D
-

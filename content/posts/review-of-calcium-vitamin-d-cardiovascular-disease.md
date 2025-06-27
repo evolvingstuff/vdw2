@@ -1,16 +1,24 @@
 {
-  "title": "Review of Calcium \u2013 Vitamin D - Cardiovascular Disease",
-  "slug": "review-of-calcium-vitamin-d-cardiovascular-disease",
-  "aliases": [
-    "/Review+of+Calcium+\u2013+Vitamin+D+-+Cardiovascular+Disease+\u2013+June+2011",
-    "/1725"
-  ],
-  "tiki_page_id": 1725,
-  "date": "2011-06-13",
-  "categories": [
-    "Cardiovascular",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Review of Calcium \u2013 Vitamin D - Cardiovascular Disease",
+    "slug": "review-of-calcium-vitamin-d-cardiovascular-disease",
+    "aliases": [
+        "/Review+of+Calcium+\u2013+Vitamin+D+-+Cardiovascular+Disease+\u2013+June+2011",
+        "/1725"
+    ],
+    "tiki_page_id": 1725,
+    "date": "2011-06-13",
+    "categories": [
+        "Cardiovascular",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Vitamin D and Calcium",
+        "cardiovascular",
+        "hypertension",
+        "stroke",
+        "vitamin d"
+    ]
 }
 
 
@@ -61,4 +69,3 @@ Therefore, the real impact of calcium and vitamin D on cardiovascular outcomes r
 * [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [All items in Calcium](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=53&sort_mode=created_desc)
-

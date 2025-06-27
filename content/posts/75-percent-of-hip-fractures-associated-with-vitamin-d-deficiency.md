@@ -1,15 +1,25 @@
 {
-  "title": "75 percent of hip fractures associated with vitamin D deficiency",
-  "slug": "75-percent-of-hip-fractures-associated-with-vitamin-d-deficiency",
-  "aliases": [
-    "/75+percent+of+hip+fractures+associated+with+vitamin+D+deficiency+-+Jan+2011",
-    "/1394"
-  ],
-  "tiki_page_id": 1394,
-  "date": "2011-02-09",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "75 percent of hip fractures associated with vitamin D deficiency",
+    "slug": "75-percent-of-hip-fractures-associated-with-vitamin-d-deficiency",
+    "aliases": [
+        "/75+percent+of+hip+fractures+associated+with+vitamin+D+deficiency+-+Jan+2011",
+        "/1394"
+    ],
+    "tiki_page_id": 1394,
+    "date": "2011-02-09",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "bone",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "hip fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -42,4 +52,3 @@ Mature adults should consume approximately 15 to 20 micrograms of vitamin D per 
 – – – – – – 
 
 ## Summary: Recommended 15 to 20 micrograms = 600 to 800 IU of vitamin D, which is not nearly enough
-

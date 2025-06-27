@@ -1,15 +1,33 @@
 {
-  "title": "Crescendo of papers on Asthma, Allergy, and Vitamin D",
-  "slug": "crescendo-of-papers-on-asthma-allergy-and-vitamin-d",
-  "aliases": [
-    "/Crescendo+of+papers+on+Asthma+Allergy+and+Vitamin+D+\u2013+Sept+2011",
-    "/2032"
-  ],
-  "tiki_page_id": 2032,
-  "date": "2011-09-25",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Crescendo of papers on Asthma, Allergy, and Vitamin D",
+    "slug": "crescendo-of-papers-on-asthma-allergy-and-vitamin-d",
+    "aliases": [
+        "/Crescendo+of+papers+on+Asthma+Allergy+and+Vitamin+D+\u2013+Sept+2011",
+        "/2032"
+    ],
+    "tiki_page_id": 2032,
+    "date": "2011-09-25",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "autoimmune",
+        "bone",
+        "breathing",
+        "child",
+        "childhood respiratory",
+        "high dose",
+        "immunity",
+        "intervention",
+        "pediatric autoimmune",
+        "respiratory",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

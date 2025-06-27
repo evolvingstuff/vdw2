@@ -1,19 +1,38 @@
 {
-  "title": "Use of tanning beds would reduce associated deaths by 10X",
-  "slug": "use-of-tanning-beds-would-reduce-associated-deaths-by-10x",
-  "aliases": [
-    "/Use+of+tanning+beds+would+reduce+associated+deaths+by+10X+\u2013+Oct+2011",
-    "/2118"
-  ],
-  "tiki_page_id": 2118,
-  "date": "2011-10-25",
-  "categories": [
-    "Noontime sun and D",
-    "UV and Vitamin D",
-    "Cancer - Skin",
-    "Cancer",
-    "Vitamin D Far from equator"
-  ]
+    "title": "Use of tanning beds would reduce associated deaths by 10X",
+    "slug": "use-of-tanning-beds-would-reduce-associated-deaths-by-10x",
+    "aliases": [
+        "/Use+of+tanning+beds+would+reduce+associated+deaths+by+10X+\u2013+Oct+2011",
+        "/2118"
+    ],
+    "tiki_page_id": 2118,
+    "date": "2011-10-25",
+    "categories": [
+        "Noontime sun and D",
+        "UV and Vitamin D",
+        "Cancer - Skin",
+        "Cancer",
+        "Vitamin D Far from equator"
+    ],
+    "tags": [
+        "Cancer",
+        "Cancer - Skin",
+        "Noontime sun and D",
+        "UV and Vitamin D",
+        "Vitamin D Far from equator",
+        "autoimmune",
+        "blood levels",
+        "cancer",
+        "diabetes",
+        "high dose",
+        "intervention",
+        "melanoma",
+        "metabolic",
+        "multiple sclerosis",
+        "skin cancer",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

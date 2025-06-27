@@ -1,15 +1,57 @@
 {
-  "title": "Mini-review of vitamin D roles",
-  "slug": "mini-review-of-vitamin-d-roles",
-  "aliases": [
-    "/Mini-review+of+vitamin+D+roles+\u2013+Sept+2011",
-    "/1910"
-  ],
-  "tiki_page_id": 1910,
-  "date": "2011-08-11",
-  "categories": [
-    "Overview for doctors"
-  ]
+    "title": "Mini-review of vitamin D roles",
+    "slug": "mini-review-of-vitamin-d-roles",
+    "aliases": [
+        "/Mini-review+of+vitamin+D+roles+\u2013+Sept+2011",
+        "/1910"
+    ],
+    "tiki_page_id": 1910,
+    "date": "2011-08-11",
+    "categories": [
+        "Overview for doctors"
+    ],
+    "tags": [
+        "IBD",
+        "NAFLD",
+        "Overview for doctors",
+        "PCOS",
+        "asthma",
+        "atherosclerosis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "dermatology",
+        "diabetes",
+        "fertility sperm",
+        "gut",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "life span",
+        "liver",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "pregnancy",
+        "psoriasis",
+        "respiratory",
+        "sepsis",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "ultraviolet light",
+        "virus",
+        "virus and cardiovascular",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

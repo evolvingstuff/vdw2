@@ -1,15 +1,23 @@
 {
-  "title": "Vitamin D testing by blood spot card is pretty good",
-  "slug": "vitamin-d-testing-by-blood-spot-card-is-pretty-good",
-  "aliases": [
-    "/Vitamin+D+testing+by+blood+spot+card+is+pretty+good+\u2013+Jan+2011",
-    "/1555"
-  ],
-  "tiki_page_id": 1555,
-  "date": "2011-04-01",
-  "categories": [
-    "Tests for Vitamin D"
-  ]
+    "title": "Vitamin D testing by blood spot card is pretty good",
+    "slug": "vitamin-d-testing-by-blood-spot-card-is-pretty-good",
+    "aliases": [
+        "/Vitamin+D+testing+by+blood+spot+card+is+pretty+good+\u2013+Jan+2011",
+        "/1555"
+    ],
+    "tiki_page_id": 1555,
+    "date": "2011-04-01",
+    "categories": [
+        "Tests for Vitamin D"
+    ],
+    "tags": [
+        "Tests for Vitamin D",
+        "child",
+        "health risk",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -50,4 +58,3 @@ Discussion
 25OHD levels determined by mass spectrometry from blood spot cards, serum and whole blood show relatively good agreement, although 25OHD levels are slightly lower when measured by blood spot cards. Blood spot samples are a less invasive means of obtaining 25OHD measurements, particularly in large population-based samples, or among children when venipuncture may decrease study participation.
 
 # <span>[tiki-download_file.php?fileId=1833]</span>
-

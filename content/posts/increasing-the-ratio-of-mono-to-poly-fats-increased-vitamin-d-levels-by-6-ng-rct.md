@@ -1,18 +1,40 @@
 {
-  "title": "Increasing the ratio of mono to poly fats increased Vitamin D levels by 6 ng \u2013 RCT",
-  "slug": "increasing-the-ratio-of-mono-to-poly-fats-increased-vitamin-d-levels-by-6-ng-rct",
-  "aliases": [
-    "/Increasing+the+ratio+of+mono+to+poly+fats+increased+Vitamin+D+levels+by+6+ng+\u2013+RCT+Aug+2011",
-    "/1903"
-  ],
-  "tiki_page_id": 1903,
-  "date": "2011-08-07",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Food sources for Vitamin D",
-    "How, when to take Vit. D",
-    "Predict Vitamin D"
-  ]
+    "title": "Increasing the ratio of mono to poly fats increased Vitamin D levels by 6 ng \u2013 RCT",
+    "slug": "increasing-the-ratio-of-mono-to-poly-fats-increased-vitamin-d-levels-by-6-ng-rct",
+    "aliases": [
+        "/Increasing+the+ratio+of+mono+to+poly+fats+increased+Vitamin+D+levels+by+6+ng+\u2013+RCT+Aug+2011",
+        "/1903"
+    ],
+    "tiki_page_id": 1903,
+    "date": "2011-08-07",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Food sources for Vitamin D",
+        "How, when to take Vit. D",
+        "Predict Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Food sources for Vitamin D",
+        "How, when to take Vit. D",
+        "Predict Vitamin D",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "cholesterol",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "magnesium",
+        "magnesium and viruses",
+        "mononucleosis",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin k",
+        "vitamin k and viruses"
+    ]
 }
 
 

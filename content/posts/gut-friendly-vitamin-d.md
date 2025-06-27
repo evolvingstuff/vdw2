@@ -1,16 +1,24 @@
 {
-  "title": "Gut-Friendly Vitamin D",
-  "slug": "gut-friendly-vitamin-d",
-  "aliases": [
-    "/Gut-Friendly+Vitamin+D",
-    "/1252"
-  ],
-  "tiki_page_id": 1252,
-  "date": "2010-12-22",
-  "categories": [
-    "Forms of Vitamin D",
-    "Gut"
-  ]
+    "title": "Gut-Friendly Vitamin D",
+    "slug": "gut-friendly-vitamin-d",
+    "aliases": [
+        "/Gut-Friendly+Vitamin+D",
+        "/1252"
+    ],
+    "tiki_page_id": 1252,
+    "date": "2010-12-22",
+    "categories": [
+        "Forms of Vitamin D",
+        "Gut"
+    ],
+    "tags": [
+        "Forms of Vitamin D",
+        "Gut",
+        "IBD",
+        "dosage",
+        "gut",
+        "vitamin d"
+    ]
 }
 
 

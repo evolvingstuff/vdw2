@@ -1,16 +1,30 @@
 {
-  "title": "Blacks have more pre-term births due to low nutrients such as vitamin D",
-  "slug": "blacks-have-more-pre-term-births-due-to-low-nutrients-such-as-vitamin-d",
-  "aliases": [
-    "/Blacks+have+more+pre-term+births+due+to+low+nutrients+such+as+vitamin+D+\u2013+Sept+2011",
-    "/2001"
-  ],
-  "tiki_page_id": 2001,
-  "date": "2011-09-14",
-  "categories": [
-    "Skin - Dark",
-    "Pregnancy"
-  ]
+    "title": "Blacks have more pre-term births due to low nutrients such as vitamin D",
+    "slug": "blacks-have-more-pre-term-births-due-to-low-nutrients-such-as-vitamin-d",
+    "aliases": [
+        "/Blacks+have+more+pre-term+births+due+to+low+nutrients+such+as+vitamin+D+\u2013+Sept+2011",
+        "/2001"
+    ],
+    "tiki_page_id": 2001,
+    "date": "2011-09-14",
+    "categories": [
+        "Skin - Dark",
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "Skin - Dark",
+        "child",
+        "magnesium",
+        "magnesium and pregnancy",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "pregnancy",
+        "preterm",
+        "preterm and omega 3",
+        "vitamin d",
+        "zinc"
+    ]
 }
 
 
@@ -43,4 +57,3 @@ PMID:     21910693
 * <a href="/posts/hypothesis-black-births-are-much-riskier-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Hypothesis – Black births are much riskier due to lack of vitamin D – April 2011</a>
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
-

@@ -1,15 +1,25 @@
 {
-  "title": "Do not just take more Calcium if you fear Osteoporosis- Mercola",
-  "slug": "do-not-just-take-more-calcium-if-you-fear-osteoporosis-mercola",
-  "aliases": [
-    "/Do+not+just+take+more+Calcium+if+you+fear+Osteoporosis-+Mercola+Dec+2010",
-    "/1250"
-  ],
-  "tiki_page_id": 1250,
-  "date": "2010-12-21",
-  "categories": [
-    "Osteoporosis"
-  ]
+    "title": "Do not just take more Calcium if you fear Osteoporosis- Mercola",
+    "slug": "do-not-just-take-more-calcium-if-you-fear-osteoporosis-mercola",
+    "aliases": [
+        "/Do+not+just+take+more+Calcium+if+you+fear+Osteoporosis-+Mercola+Dec+2010",
+        "/1250"
+    ],
+    "tiki_page_id": 1250,
+    "date": "2010-12-21",
+    "categories": [
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "bone",
+        "bone loss",
+        "dosage",
+        "omega 3",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 

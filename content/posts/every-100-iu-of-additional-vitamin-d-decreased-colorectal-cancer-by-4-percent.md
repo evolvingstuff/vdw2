@@ -1,15 +1,28 @@
 {
-  "title": "Every 100 IU of additional vitamin D decreased colorectal cancer by 4 percent",
-  "slug": "every-100-iu-of-additional-vitamin-d-decreased-colorectal-cancer-by-4-percent",
-  "aliases": [
-    "/Every+100+IU+of+additional+vitamin+D+decreased+colorectal+cancer+by+4+percent+\u2013+Mar+2011",
-    "/1470"
-  ],
-  "tiki_page_id": 1470,
-  "date": "2011-03-10",
-  "categories": [
-    "Cancer - Colon"
-  ]
+    "title": "Every 100 IU of additional vitamin D decreased colorectal cancer by 4 percent",
+    "slug": "every-100-iu-of-additional-vitamin-d-decreased-colorectal-cancer-by-4-percent",
+    "aliases": [
+        "/Every+100+IU+of+additional+vitamin+D+decreased+colorectal+cancer+by+4+percent+\u2013+Mar+2011",
+        "/1470"
+    ],
+    "tiki_page_id": 1470,
+    "date": "2011-03-10",
+    "categories": [
+        "Cancer - Colon"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "IBD",
+        "cancer",
+        "cancer in VDR",
+        "colon cancer",
+        "dosage",
+        "genetics",
+        "gut",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -62,4 +75,3 @@ PMID: 21378269
 * <a href="/posts/colon-cancer-vs-latitude" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 64">Colon Cancer vs latitude</a> from Gapminder
 
 * <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
-

@@ -1,16 +1,24 @@
 {
-  "title": "Very low vitamin D for first pregnancies and those with dark skin",
-  "slug": "very-low-vitamin-d-for-first-pregnancies-and-those-with-dark-skin",
-  "aliases": [
-    "/Very+low+vitamin+D+for+first+pregnancies+and+those+with+dark+skin+\u2013+Jan+2011",
-    "/1283"
-  ],
-  "tiki_page_id": 1283,
-  "date": "2011-01-05",
-  "categories": [
-    "Skin - Dark",
-    "Pregnancy"
-  ]
+    "title": "Very low vitamin D for first pregnancies and those with dark skin",
+    "slug": "very-low-vitamin-d-for-first-pregnancies-and-those-with-dark-skin",
+    "aliases": [
+        "/Very+low+vitamin+D+for+first+pregnancies+and+those+with+dark+skin+\u2013+Jan+2011",
+        "/1283"
+    ],
+    "tiki_page_id": 1283,
+    "date": "2011-01-05",
+    "categories": [
+        "Skin - Dark",
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "Skin - Dark",
+        "blood levels",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

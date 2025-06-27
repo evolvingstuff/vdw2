@@ -1,16 +1,27 @@
 {
-  "title": "Vitamin D Test invented \u2013 discriminates better and detects lower levels",
-  "slug": "vitamin-d-test-invented-discriminates-better-and-detects-lower-levels",
-  "aliases": [
-    "/Vitamin+D+Test+invented+\u2013+discriminates+better+and+detects+lower+levels+\u2013+June+2011",
-    "/1774"
-  ],
-  "tiki_page_id": 1774,
-  "date": "2011-06-29",
-  "categories": [
-    "Tests for Vitamin D"
-  ]
+    "title": "Vitamin D Test invented \u2013 discriminates better and detects lower levels",
+    "slug": "vitamin-d-test-invented-discriminates-better-and-detects-lower-levels",
+    "aliases": [
+        "/Vitamin+D+Test+invented+\u2013+discriminates+better+and+detects+lower+levels+\u2013+June+2011",
+        "/1774"
+    ],
+    "tiki_page_id": 1774,
+    "date": "2011-06-29",
+    "categories": [
+        "Tests for Vitamin D"
+    ],
+    "tags": [
+        "Tests for Vitamin D",
+        "autoimmune",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

@@ -1,18 +1,32 @@
 {
-  "title": "Prostate Cancer \u2013 Vitamin D \u2013 CYP27B1 \u2013 CYP24",
-  "slug": "prostate-cancer-vitamin-d-cyp27b1-cyp24",
-  "aliases": [
-    "/Prostate+Cancer+\u2013+Vitamin+D+\u2013+CYP27B1+\u2013+CYP24+\u2013+June+2011",
-    "/1731"
-  ],
-  "tiki_page_id": 1731,
-  "date": "2011-06-15",
-  "categories": [
-    "Cancer - Prostate",
-    "Genetics",
-    "CYP27B1"
-  ]
+    "title": "Prostate Cancer \u2013 Vitamin D \u2013 CYP27B1 \u2013 CYP24",
+    "slug": "prostate-cancer-vitamin-d-cyp27b1-cyp24",
+    "aliases": [
+        "/Prostate+Cancer+\u2013+Vitamin+D+\u2013+CYP27B1+\u2013+CYP24+\u2013+June+2011",
+        "/1731"
+    ],
+    "tiki_page_id": 1731,
+    "date": "2011-06-15",
+    "categories": [
+        "Cancer - Prostate",
+        "Genetics",
+        "CYP27B1"
+    ],
+    "tags": [
+        "CYP27B1",
+        "CYPR",
+        "Cancer - Prostate",
+        "Genetics",
+        "cancer",
+        "cancer in VDR",
+        "genetics",
+        "prostate cancer",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 {{< toc >}} 
 

@@ -1,15 +1,22 @@
 {
-  "title": "Kidney stones Vitamin D myth from medical book - 2010",
-  "slug": "kidney-stones-vitamin-d-myth-from-medical-book-2010",
-  "aliases": [
-    "/Kidney+stones+Vitamin+D+myth+from+medical+book+-+2010",
-    "/1187"
-  ],
-  "tiki_page_id": 1187,
-  "date": "2010-11-26",
-  "categories": [
-    "Kidney Stones"
-  ]
+    "title": "Kidney stones Vitamin D myth from medical book - 2010",
+    "slug": "kidney-stones-vitamin-d-myth-from-medical-book-2010",
+    "aliases": [
+        "/Kidney+stones+Vitamin+D+myth+from+medical+book+-+2010",
+        "/1187"
+    ],
+    "tiki_page_id": 1187,
+    "date": "2010-11-26",
+    "categories": [
+        "Kidney Stones"
+    ],
+    "tags": [
+        "Kidney Stones",
+        "blood levels",
+        "cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,15 +1,23 @@
 {
-  "title": "Being in shade or wearing long sleeves reduces vitamin D in blood",
-  "slug": "being-in-shade-or-wearing-long-sleeves-reduces-vitamin-d-in-blood",
-  "aliases": [
-    "/Being+in+shade+or+wearing+long+sleeves+reduces+vitamin+D+in+blood+\u2013+Nov+2011",
-    "/2159"
-  ],
-  "tiki_page_id": 2159,
-  "date": "2011-11-07",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Being in shade or wearing long sleeves reduces vitamin D in blood",
+    "slug": "being-in-shade-or-wearing-long-sleeves-reduces-vitamin-d-in-blood",
+    "aliases": [
+        "/Being+in+shade+or+wearing+long+sleeves+reduces+vitamin+D+in+blood+\u2013+Nov+2011",
+        "/2159"
+    ],
+    "tiki_page_id": 2159,
+    "date": "2011-11-07",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "blood levels",
+        "cancer",
+        "skin cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -46,4 +54,3 @@ CONCLUSIONS:
 White individuals who protect themselves from the sun by seeking shade or wearing long sleeves may have lower 25(OH)D levels and be at risk for vitamin D deficiency. Frequent sunscreen use does not appear to be linked to vitamin D deficiency in this population.
 
 PMID: 22045154
-

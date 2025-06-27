@@ -1,16 +1,31 @@
 {
-  "title": "Chronic Kidney Disease meta-analysis of vitamin D",
-  "slug": "chronic-kidney-disease-meta-analysis-of-vitamin-d",
-  "aliases": [
-    "/Chronic+Kidney+Disease+meta-analysis+of+vitamin+D+\u2013+Jan+2011",
-    "/1334"
-  ],
-  "tiki_page_id": 1334,
-  "date": "2011-01-20",
-  "categories": [
-    "Kidney",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Chronic Kidney Disease meta-analysis of vitamin D",
+    "slug": "chronic-kidney-disease-meta-analysis-of-vitamin-d",
+    "aliases": [
+        "/Chronic+Kidney+Disease+meta-analysis+of+vitamin+D+\u2013+Jan+2011",
+        "/1334"
+    ],
+    "tiki_page_id": 1334,
+    "date": "2011-01-20",
+    "categories": [
+        "Kidney",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "CKD",
+        "Kidney",
+        "Meta-analysis of Vitamin D",
+        "blood levels",
+        "dialysis",
+        "hemodialysis",
+        "hypertension",
+        "kidney",
+        "metabolic",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -79,4 +94,3 @@ Conclusions Available evidence from low-to-moderate quality observational studie
 * [Each 10 ng increase in vitamin D decreased kidney disease death by 14 percent – May 2011](/posts/each-10-ng-increase-in-vitamin-d-decreased-kidney-disease-death-by-14-percent) Meta-analysis
 
 {IMG(attId="631")}{IMG}
-

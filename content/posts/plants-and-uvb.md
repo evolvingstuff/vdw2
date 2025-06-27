@@ -1,19 +1,29 @@
 {
-  "title": "Plants and UVB",
-  "slug": "plants-and-uvb",
-  "aliases": [
-    "/Plants+and+UVB",
-    "/1644"
-  ],
-  "tiki_page_id": 1644,
-  "date": "2011-05-20",
-  "categories": [
-    "Food sources for Vitamin D",
-    "UV and Vitamin D"
-  ]
+    "title": "Plants and UVB",
+    "slug": "plants-and-uvb",
+    "aliases": [
+        "/Plants+and+UVB",
+        "/1644"
+    ],
+    "tiki_page_id": 1644,
+    "date": "2011-05-20",
+    "categories": [
+        "Food sources for Vitamin D",
+        "UV and Vitamin D"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "UV and Vitamin D",
+        "bacteria",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
- **Many people say that all plants should not be out in the sun – too much UVB** 
+
+**Many people say that all plants should not be out in the sun – too much UVB** 
 
  **Some people disagree - and say that plants need UVB** 
 
@@ -131,9 +141,9 @@ Plants are sessile organisms, and consequently cannot avoid exposure to stressfu
 
 * [Overview UV and Vitamin D](/posts/overview-uv-and-vitamin-d)
 
-* <a href="/posts/various-plants-have-vitamin-d3-and-d2-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Various plants have vitamin D3 and D2 – review May 2013">Various plants have vitamin D3 and D2 – review May 2013</a>
+* [Various plants have vitamin D3 and D2 – review May 2013](/posts/various-plants-have-vitamin-d3-and-d2-review)
 
-* <a href="/posts/pre-cursor-of-active-vitamin-d-made-from-plants-is-better-than-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pre-cursor of active vitamin D made from plants is better than calcitriol – Sept 2012">Pre-cursor of active vitamin D made from plants is better than calcitriol – Sept 2012</a>
+* [Pre-cursor of active vitamin D made from plants is better than calcitriol – Sept 2012](/posts/pre-cursor-of-active-vitamin-d-made-from-plants-is-better-than-calcitriol)
 
 * <a href="/posts/some-plants-accumulate-vitamin-d3-or-active-vitamin-d3-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some plants accumulate Vitamin D3 or active Vitamin D3 (calcitriol) – Dec 2018">Some plants accumulate Vitamin D3 or active Vitamin D3 (calcitriol) – Dec 2018</a>
 

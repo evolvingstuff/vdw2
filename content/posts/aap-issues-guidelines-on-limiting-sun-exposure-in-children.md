@@ -1,16 +1,32 @@
 {
-  "title": "AAP Issues Guidelines on Limiting Sun Exposure in Children",
-  "slug": "aap-issues-guidelines-on-limiting-sun-exposure-in-children",
-  "aliases": [
-    "/AAP+Issues+Guidelines+on+Limiting+Sun+Exposure+in+Children+\u2013+Feb+2011",
-    "/1444"
-  ],
-  "tiki_page_id": 1444,
-  "date": "2011-02-28",
-  "categories": [
-    "Youth"
-  ]
+    "title": "AAP Issues Guidelines on Limiting Sun Exposure in Children",
+    "slug": "aap-issues-guidelines-on-limiting-sun-exposure-in-children",
+    "aliases": [
+        "/AAP+Issues+Guidelines+on+Limiting+Sun+Exposure+in+Children+\u2013+Feb+2011",
+        "/1444"
+    ],
+    "tiki_page_id": 1444,
+    "date": "2011-02-28",
+    "categories": [
+        "Youth"
+    ],
+    "tags": [
+        "Youth",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "dosage",
+        "immunity",
+        "melanoma",
+        "rickets",
+        "skin cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Laurie Barclay, MD February 28, 2011 — The American Academy of Pediatrics (AAP) has issued guidelines on limiting sun exposure in children and supporting legislation to prohibit salon tanning by minors, according to a policy statement entitled "Ultraviolet Radiation: A Hazard to Children and Adolescents."
 

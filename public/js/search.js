@@ -230,9 +230,36 @@ class Search {
             
             // Use addEventListener instead of onclick property
             item.addEventListener('click', function() {
-                self.searchInput.value = suggestion;
+                // Instead of replacing search input, append the suggestion
+                const currentText = self.searchInput.value.trim();
+                const terms = currentText.split(/\s+/);
+                
+                // If we have a partial term at the end, replace just that term
+                if (currentText.endsWith(' ')) {
+                    // If the current text ends with a space, just append the suggestion
+                    self.searchInput.value = currentText + suggestion;
+                } else if (terms.length >= 1) {
+                    // Replace the last partial term with the selected suggestion
+                    terms[terms.length - 1] = suggestion;
+                    self.searchInput.value = terms.join(' ');
+                } else {
+                    // If there's nothing, just use the suggestion
+                    self.searchInput.value = suggestion;
+                }
+                
+                // Add a space after the suggestion to prepare for the next word
+                self.searchInput.value += ' ';
+                
+                // Mark this suggestion as used to prevent future repetition
+                if (typeof markSuggestionAsUsed === 'function') {
+                    markSuggestionAsUsed(suggestion);
+                }
+                
                 self.handleSearch();
                 self.hideSuggestions();
+                
+                // Focus on the search input after selection
+                self.searchInput.focus();
             });
             
             suggestionsContainer.appendChild(item);
@@ -436,6 +463,11 @@ class Search {
         }
         this.hideSearchResults();
         this.hideSuggestions(); // Also hide suggestions when clearing search
+        
+        // Reset used suggestions tracking when search is cleared
+        if (typeof resetUsedSuggestions === 'function') {
+            resetUsedSuggestions();
+        }
     }
 
     /**

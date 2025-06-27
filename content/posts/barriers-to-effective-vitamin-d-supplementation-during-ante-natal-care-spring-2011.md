@@ -1,16 +1,26 @@
 {
-  "title": "Barriers to effective vitamin D supplementation during ante-natal care \u2013 Spring 2011",
-  "slug": "barriers-to-effective-vitamin-d-supplementation-during-ante-natal-care-spring-2011",
-  "aliases": [
-    "/Barriers+to+effective+vitamin+D+supplementation+during+ante-natal+care+\u2013+Spring+2011",
-    "/1622"
-  ],
-  "tiki_page_id": 1622,
-  "date": "2011-05-12",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Barriers to effective vitamin D supplementation during ante-natal care \u2013 Spring 2011",
+    "slug": "barriers-to-effective-vitamin-d-supplementation-during-ante-natal-care-spring-2011",
+    "aliases": [
+        "/Barriers+to+effective+vitamin+D+supplementation+during+ante-natal+care+\u2013+Spring+2011",
+        "/1622"
+    ],
+    "tiki_page_id": 1622,
+    "date": "2011-05-12",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "child",
+        "childhood obesity",
+        "health risk",
+        "obesity",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
+
 
 Arch Dis Child 2011;96:A22 doi:10.1136/adc.2011.212563.43
 
@@ -38,5 +48,4 @@ Conclusion Implementation of national guidance during pregnancy is essential for
 
 #### See also VitaminDWiki
 
-* <a href="/posts/20-reasons-for-not-taking-vitamin-d-debunked" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 20 reasons for not taking Vitamin D debunked">20 reasons for not taking Vitamin D debunked</a>
-
+* [20 reasons for not taking Vitamin D debunked](/posts/20-reasons-for-not-taking-vitamin-d-debunked)

@@ -1,16 +1,32 @@
 {
-  "title": "Serotonin related to season, light and perhaps latitude and vitamin D",
-  "slug": "serotonin-related-to-season-light-and-perhaps-latitude-and-vitamin-d",
-  "aliases": [
-    "/Serotonin+related+to+season+light+and+perhaps+latitude+and+vitamin+D",
-    "/1762"
-  ],
-  "tiki_page_id": 1762,
-  "date": "2011-06-25",
-  "categories": [
-    "Depression"
-  ]
+    "title": "Serotonin related to season, light and perhaps latitude and vitamin D",
+    "slug": "serotonin-related-to-season-light-and-perhaps-latitude-and-vitamin-d",
+    "aliases": [
+        "/Serotonin+related+to+season+light+and+perhaps+latitude+and+vitamin+D",
+        "/1762"
+    ],
+    "tiki_page_id": 1762,
+    "date": "2011-06-25",
+    "categories": [
+        "Depression"
+    ],
+    "tags": [
+        "Depression",
+        "SAD",
+        "blood levels",
+        "bone",
+        "brain",
+        "cognitive",
+        "depression",
+        "dosage",
+        "epilepsy",
+        "falls fractures",
+        "mood disorders",
+        "neurological",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}} 
 

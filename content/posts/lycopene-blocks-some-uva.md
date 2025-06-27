@@ -1,15 +1,19 @@
 {
-  "title": "Lycopene blocks some UVA",
-  "slug": "lycopene-blocks-some-uva",
-  "aliases": [
-    "/Lycopene+blocks+some+UVA",
-    "/1168"
-  ],
-  "tiki_page_id": 1168,
-  "date": "2010-11-24",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Lycopene blocks some UVA",
+    "slug": "lycopene-blocks-some-uva",
+    "aliases": [
+        "/Lycopene+blocks+some+UVA",
+        "/1168"
+    ],
+    "tiki_page_id": 1168,
+    "date": "2010-11-24",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "vitamin d"
+    ]
 }
 
 
@@ -32,4 +36,3 @@
 Volunteers on the lycopene diet had a 30% increase in skin protection after eating 55 grams of tomatoe paste everyday for 12 weeks.
 
 ## It appears that instead of easting tomatoe paste for 12 weeks you could instead just put on a poor (blocks only UVA and not UVB) 3.0 sunscreen
-

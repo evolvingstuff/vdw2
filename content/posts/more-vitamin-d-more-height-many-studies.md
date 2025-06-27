@@ -1,16 +1,24 @@
 {
-  "title": "More vitamin D, more height - many studies",
-  "slug": "more-vitamin-d-more-height-many-studies",
-  "aliases": [
-    "/More+vitamin+D+more+height+-+many+studies",
-    "/1509"
-  ],
-  "tiki_page_id": 1509,
-  "date": "2011-03-25",
-  "categories": [
-    "Infant-Child"
-  ]
+    "title": "More vitamin D, more height - many studies",
+    "slug": "more-vitamin-d-more-height-many-studies",
+    "aliases": [
+        "/More+vitamin+D+more+height+-+many+studies",
+        "/1509"
+    ],
+    "tiki_page_id": 1509,
+    "date": "2011-03-25",
+    "categories": [
+        "Infant-Child"
+    ],
+    "tags": [
+        "Infant-Child",
+        "blood levels",
+        "child",
+        "dosage",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}} 
 

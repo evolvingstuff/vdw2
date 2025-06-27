@@ -1,17 +1,25 @@
 {
-  "title": "South African white children 48 ng vitamin D \u2013 black 37 ng",
-  "slug": "south-african-white-children-48-ng-vitamin-d-black-37-ng",
-  "aliases": [
-    "/South+African+white+children+48+ng+vitamin+D+\u2013+black+37+ng+\u2013+Feb+2011",
-    "/1363"
-  ],
-  "tiki_page_id": 1363,
-  "date": "2011-01-30",
-  "categories": [
-    "Skin - Dark",
-    "Youth",
-    "Africa"
-  ]
+    "title": "South African white children 48 ng vitamin D \u2013 black 37 ng",
+    "slug": "south-african-white-children-48-ng-vitamin-d-black-37-ng",
+    "aliases": [
+        "/South+African+white+children+48+ng+vitamin+D+\u2013+black+37+ng+\u2013+Feb+2011",
+        "/1363"
+    ],
+    "tiki_page_id": 1363,
+    "date": "2011-01-30",
+    "categories": [
+        "Skin - Dark",
+        "Youth",
+        "Africa"
+    ],
+    "tags": [
+        "Africa",
+        "Skin - Dark",
+        "Youth",
+        "child",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -33,4 +41,4 @@ SUBJECTS: Three hundred and eighty-five children who form the Bone Health sub-co
 
 RESULTS: White children had significantly higher 25(OH)D than their black peers (120·0 (sd 36·6) nmol/l v. 93·3 (sd 34·0) nmol/l, respectively). Seasonal variations in 25(OH)D levels were found only in white children, with 25(OH)D levels being significantly higher in white than in black children during the autumn and summer months. In multiple regression analysis, season, ethnicity, sex and total fat mass were the factors found to have an influence on 25(OH)D. Vitamin D deficiency (7 %) and insufficiency (19 %) were uncommon among the 10-year-old children.
 
-CONCLUSIONS: Vitamin D supplementation or fortification is not warranted in healthy children living in Johannesburg. However, further studies need to confirm this in other regions of the country, especially in those living further south and with less sunshine during the winter months. PMID: 20804632 
+CONCLUSIONS: Vitamin D supplementation or fortification is not warranted in healthy children living in Johannesburg. However, further studies need to confirm this in other regions of the country, especially in those living further south and with less sunshine during the winter months. PMID: 20804632

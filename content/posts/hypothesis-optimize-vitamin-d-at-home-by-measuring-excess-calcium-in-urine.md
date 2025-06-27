@@ -1,17 +1,31 @@
 {
-  "title": "Hypothesis \u2013 Optimize vitamin D at home by measuring excess Calcium in urine",
-  "slug": "hypothesis-optimize-vitamin-d-at-home-by-measuring-excess-calcium-in-urine",
-  "aliases": [
-    "/Hypothesis+\u2013+Optimize+vitamin+D+at+home+by+measuring+excess+Calcium+in+urine",
-    "/1686"
-  ],
-  "tiki_page_id": 1686,
-  "date": "2011-05-31",
-  "categories": [
-    "How much Vitamin D",
-    "Tests for Vitamin D",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Hypothesis \u2013 Optimize vitamin D at home by measuring excess Calcium in urine",
+    "slug": "hypothesis-optimize-vitamin-d-at-home-by-measuring-excess-calcium-in-urine",
+    "aliases": [
+        "/Hypothesis+\u2013+Optimize+vitamin+D+at+home+by+measuring+excess+Calcium+in+urine",
+        "/1686"
+    ],
+    "tiki_page_id": 1686,
+    "date": "2011-05-31",
+    "categories": [
+        "How much Vitamin D",
+        "Tests for Vitamin D",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Tests for Vitamin D",
+        "Vitamin D and Calcium",
+        "autoimmune",
+        "blood levels",
+        "dosage",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

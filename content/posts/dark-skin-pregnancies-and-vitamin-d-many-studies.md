@@ -1,18 +1,33 @@
 {
-  "title": "Dark skin pregnancies and Vitamin D - many studies",
-  "slug": "dark-skin-pregnancies-and-vitamin-d-many-studies",
-  "aliases": [
-    "/Dark+skin+pregnancies+and+Vitamin+D+-+many+studies",
-    "/1566"
-  ],
-  "tiki_page_id": 1566,
-  "date": "2011-04-05",
-  "categories": [
-    "Skin - Dark",
-    "Pregnancy",
-    "Women"
-  ]
+    "title": "Dark skin pregnancies and Vitamin D - many studies",
+    "slug": "dark-skin-pregnancies-and-vitamin-d-many-studies",
+    "aliases": [
+        "/Dark+skin+pregnancies+and+Vitamin+D+-+many+studies",
+        "/1566"
+    ],
+    "tiki_page_id": 1566,
+    "date": "2011-04-05",
+    "categories": [
+        "Skin - Dark",
+        "Pregnancy",
+        "Women"
+    ],
+    "tags": [
+        "Pregnancy",
+        "Skin - Dark",
+        "Women",
+        "child",
+        "childhood obesity",
+        "health risk",
+        "life span",
+        "mortality",
+        "obesity",
+        "preeclampsia",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

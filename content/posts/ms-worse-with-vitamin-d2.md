@@ -1,16 +1,29 @@
 {
-  "title": "MS worse with Vitamin D2",
-  "slug": "ms-worse-with-vitamin-d2",
-  "aliases": [
-    "/MS+worse+with+Vitamin+D2+-+Oct+2011",
-    "/2130"
-  ],
-  "tiki_page_id": 2130,
-  "date": "2011-10-29",
-  "categories": [
-    "Multiple Sclerosis",
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "MS worse with Vitamin D2",
+    "slug": "ms-worse-with-vitamin-d2",
+    "aliases": [
+        "/MS+worse+with+Vitamin+D2+-+Oct+2011",
+        "/2130"
+    ],
+    "tiki_page_id": 2130,
+    "date": "2011-10-29",
+    "categories": [
+        "Multiple Sclerosis",
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "Vitamin D3 instead of D2",
+        "autoimmune",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

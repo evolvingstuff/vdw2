@@ -1,15 +1,22 @@
 {
-  "title": "Suggest that all pregnant women get or be tested for vitamin D",
-  "slug": "suggest-that-all-pregnant-women-get-or-be-tested-for-vitamin-d",
-  "aliases": [
-    "/Suggest+that+all+pregnant+women+get+or+be+tested+for+vitamin+D+\u2013+May+2011",
-    "/1645"
-  ],
-  "tiki_page_id": 1645,
-  "date": "2011-05-20",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Suggest that all pregnant women get or be tested for vitamin D",
+    "slug": "suggest-that-all-pregnant-women-get-or-be-tested-for-vitamin-d",
+    "aliases": [
+        "/Suggest+that+all+pregnant+women+get+or+be+tested+for+vitamin+D+\u2013+May+2011",
+        "/1645"
+    ],
+    "tiki_page_id": 1645,
+    "date": "2011-05-20",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "blood levels",
+        "dosage",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -58,4 +65,3 @@ suggest the current practice of only screening women who have traditionally reco
 ## See also VitaminDWiki
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
-

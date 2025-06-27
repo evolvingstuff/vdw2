@@ -1,16 +1,26 @@
 {
-  "title": "3X more allergy to peanuts if child born with low UV",
-  "slug": "3x-more-allergy-to-peanuts-if-child-born-with-low-uv",
-  "aliases": [
-    "/3X+more+allergy+to+peanuts+if+child+born+with+low+UV+\u2013+Feb+2011",
-    "/1434"
-  ],
-  "tiki_page_id": 1434,
-  "date": "2011-02-25",
-  "categories": [
-    "Autoimmune",
-    "Infant-Child"
-  ]
+    "title": "3X more allergy to peanuts if child born with low UV",
+    "slug": "3x-more-allergy-to-peanuts-if-child-born-with-low-uv",
+    "aliases": [
+        "/3X+more+allergy+to+peanuts+if+child+born+with+low+UV+\u2013+Feb+2011",
+        "/1434"
+    ],
+    "tiki_page_id": 1434,
+    "date": "2011-02-25",
+    "categories": [
+        "Autoimmune",
+        "Infant-Child"
+    ],
+    "tags": [
+        "Autoimmune",
+        "Infant-Child",
+        "child",
+        "childhood viruses",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

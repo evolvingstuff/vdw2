@@ -1,15 +1,23 @@
 {
-  "title": "Some males conceived in the fall in the North were shorter",
-  "slug": "some-males-conceived-in-the-fall-in-the-north-were-shorter",
-  "aliases": [
-    "/Some+males+conceived+in+the+fall+in+the+North+were+shorter+\u2013+Mar+2011",
-    "/1411"
-  ],
-  "tiki_page_id": 1411,
-  "date": "2011-02-15",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Some males conceived in the fall in the North were shorter",
+    "slug": "some-males-conceived-in-the-fall-in-the-north-were-shorter",
+    "aliases": [
+        "/Some+males+conceived+in+the+fall+in+the+North+were+shorter+\u2013+Mar+2011",
+        "/1411"
+    ],
+    "tiki_page_id": 1411,
+    "date": "2011-02-15",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "breastfed",
+        "child",
+        "low birth weight",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 

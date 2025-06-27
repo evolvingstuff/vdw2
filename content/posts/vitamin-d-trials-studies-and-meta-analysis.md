@@ -1,17 +1,24 @@
 {
-  "title": "Vitamin D trials, studies, and meta-analysis",
-  "slug": "vitamin-d-trials-studies-and-meta-analysis",
-  "aliases": [
-    "/Vitamin+D+trials+studies+and+meta-analysis+-+Dec+2010",
-    "/1207"
-  ],
-  "tiki_page_id": 1207,
-  "date": "2010-12-05",
-  "categories": [
-    "About D - more info.",
-    "Overview for doctors",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Vitamin D trials, studies, and meta-analysis",
+    "slug": "vitamin-d-trials-studies-and-meta-analysis",
+    "aliases": [
+        "/Vitamin+D+trials+studies+and+meta-analysis+-+Dec+2010",
+        "/1207"
+    ],
+    "tiki_page_id": 1207,
+    "date": "2010-12-05",
+    "categories": [
+        "About D - more info.",
+        "Overview for doctors",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "About D - more info.",
+        "Meta-analysis of Vitamin D",
+        "Overview for doctors",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,16 +1,32 @@
 {
-  "title": "Diabetic neuropathy and low vitamin D, especially in blacks",
-  "slug": "diabetic-neuropathy-and-low-vitamin-d-especially-in-blacks",
-  "aliases": [
-    "/Diabetic+neuropathy+and+low+vitamin+D+especially+in+blacks+-+July+2011",
-    "/1799"
-  ],
-  "tiki_page_id": 1799,
-  "date": "2011-07-05",
-  "categories": [
-    "Skin - Dark",
-    "Diabetes"
-  ]
+    "title": "Diabetic neuropathy and low vitamin D, especially in blacks",
+    "slug": "diabetic-neuropathy-and-low-vitamin-d-especially-in-blacks",
+    "aliases": [
+        "/Diabetic+neuropathy+and+low+vitamin+D+especially+in+blacks+-+July+2011",
+        "/1799"
+    ],
+    "tiki_page_id": 1799,
+    "date": "2011-07-05",
+    "categories": [
+        "Skin - Dark",
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "Skin - Dark",
+        "autoimmune",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "health risk",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "neuropathy",
+        "obesity",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -62,4 +78,4 @@ Conclusions:? Vitamin D insufficiency is associated with self-reported periphera
 
 * <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
 
-* <a href="/posts/diabetic-neuropathy-sometimes-can-be-reversed-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic Neuropathy sometimes can be reversed by vitamin D">Diabetic Neuropathy sometimes can be reversed by vitamin D</a>
+* [Diabetic Neuropathy sometimes can be reversed by vitamin D](/posts/diabetic-neuropathy-sometimes-can-be-reversed-by-vitamin-d)

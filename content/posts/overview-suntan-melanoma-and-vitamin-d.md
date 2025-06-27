@@ -1,17 +1,37 @@
 {
-  "title": "Overview Suntan, melanoma and vitamin D",
-  "slug": "overview-suntan-melanoma-and-vitamin-d",
-  "aliases": [
-    "/Overview+Suntan+melanoma+and+vitamin+D",
-    "/1462"
-  ],
-  "tiki_page_id": 1462,
-  "date": "2011-03-07",
-  "categories": [
-    "Noontime sun and D",
-    "Overviews"
-  ]
+    "title": "Overview Suntan, melanoma and vitamin D",
+    "slug": "overview-suntan-melanoma-and-vitamin-d",
+    "aliases": [
+        "/Overview+Suntan+melanoma+and+vitamin+D",
+        "/1462"
+    ],
+    "tiki_page_id": 1462,
+    "date": "2011-03-07",
+    "categories": [
+        "Noontime sun and D",
+        "Overviews"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "Overviews",
+        "alcohol",
+        "blood levels",
+        "cancer",
+        "cataracts",
+        "health risk",
+        "life span",
+        "masks",
+        "melanoma",
+        "mortality",
+        "skin cancer",
+        "virus",
+        "vision",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 

@@ -1,15 +1,27 @@
 {
-  "title": "Heart pumped more blood after heart failure if more vitamin D",
-  "slug": "heart-pumped-more-blood-after-heart-failure-if-more-vitamin-d",
-  "aliases": [
-    "/Heart+pumped+more+blood+after+heart+failure+if+more+vitamin+D+\u2013+Nov+2010",
-    "/1172"
-  ],
-  "tiki_page_id": 1172,
-  "date": "2010-11-26",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Heart pumped more blood after heart failure if more vitamin D",
+    "slug": "heart-pumped-more-blood-after-heart-failure-if-more-vitamin-d",
+    "aliases": [
+        "/Heart+pumped+more+blood+after+heart+failure+if+more+vitamin+D+\u2013+Nov+2010",
+        "/1172"
+    ],
+    "tiki_page_id": 1172,
+    "date": "2010-11-26",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "blood levels",
+        "cardiovascular",
+        "diabetes",
+        "dosage",
+        "heart failure",
+        "hypertension",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -36,4 +48,3 @@ Copyright © 2010 Mosby, Inc. All rights reserved. PMID: 21095277
 ## See also VitaminDWiki
 
 * <a href="/posts/more-blood-was-pumped-by-those-getting-800000-iu-of-vitamin-d-after-heart-failure-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More blood was pumped by those getting 800,000 IU of vitamin D after heart failure – RCT Oct 2013">More blood was pumped by those getting 800,000 IU of vitamin D after heart failure – RCT Oct 2013</a>
-

@@ -1,16 +1,25 @@
 {
-  "title": "Hypothesis \u2013 UV treat epilepsy",
-  "slug": "hypothesis-uv-treat-epilepsy",
-  "aliases": [
-    "/Hypothesis+\u2013+UV+treat+epilepsy+\u2013+Feb+2011",
-    "/1429"
-  ],
-  "tiki_page_id": 1429,
-  "date": "2011-02-22",
-  "categories": [
-    "UV and Vitamin D",
-    "Epilepsy"
-  ]
+    "title": "Hypothesis \u2013 UV treat epilepsy",
+    "slug": "hypothesis-uv-treat-epilepsy",
+    "aliases": [
+        "/Hypothesis+\u2013+UV+treat+epilepsy+\u2013+Feb+2011",
+        "/1429"
+    ],
+    "tiki_page_id": 1429,
+    "date": "2011-02-22",
+    "categories": [
+        "UV and Vitamin D",
+        "Epilepsy"
+    ],
+    "tags": [
+        "Epilepsy",
+        "UV and Vitamin D",
+        "depression",
+        "epilepsy",
+        "mood disorders",
+        "neurological",
+        "vitamin d"
+    ]
 }
 
 

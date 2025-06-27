@@ -1,15 +1,23 @@
 {
-  "title": "Statin pain eliminated by 7100 IU vitamin D (50000 IU weekly)",
-  "slug": "statin-pain-eliminated-by-7100-iu-vitamin-d-50000-iu-weekly",
-  "aliases": [
-    "/Statin+pain+eliminated+by+7100+IU+vitamin+D+50000+IU+weekly+\u2013+July+2011",
-    "/1814"
-  ],
-  "tiki_page_id": 1814,
-  "date": "2011-07-09",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Statin pain eliminated by 7100 IU vitamin D (50000 IU weekly)",
+    "slug": "statin-pain-eliminated-by-7100-iu-vitamin-d-50000-iu-weekly",
+    "aliases": [
+        "/Statin+pain+eliminated+by+7100+IU+vitamin+D+50000+IU+weekly+\u2013+July+2011",
+        "/1814"
+    ],
+    "tiki_page_id": 1814,
+    "date": "2011-07-09",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "cardiovascular",
+        "cholesterol",
+        "health risk",
+        "statins",
+        "vitamin d"
+    ]
 }
 
 

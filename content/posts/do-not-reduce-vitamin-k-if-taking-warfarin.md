@@ -1,15 +1,23 @@
 {
-  "title": "Do not reduce vitamin K if taking warfarin",
-  "slug": "do-not-reduce-vitamin-k-if-taking-warfarin",
-  "aliases": [
-    "/Do+not+reduce+vitamin+K+if+taking+warfarin",
-    "/1736"
-  ],
-  "tiki_page_id": 1736,
-  "date": "2011-06-16",
-  "categories": [
-    "Vitamin D and Vitamin K"
-  ]
+    "title": "Do not reduce vitamin K if taking warfarin",
+    "slug": "do-not-reduce-vitamin-k-if-taking-warfarin",
+    "aliases": [
+        "/Do+not+reduce+vitamin+K+if+taking+warfarin",
+        "/1736"
+    ],
+    "tiki_page_id": 1736,
+    "date": "2011-06-16",
+    "categories": [
+        "Vitamin D and Vitamin K"
+    ],
+    "tags": [
+        "Vitamin D and Vitamin K",
+        "cardiovascular",
+        "magnesium",
+        "stroke",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 

@@ -1,18 +1,29 @@
 {
-  "title": "Recommend 100 IU of vitamin D per kg of infant - Poland",
-  "slug": "recommend-100-iu-of-vitamin-d-per-kg-of-infant-poland",
-  "aliases": [
-    "/Recommend+100+IU+of+vitamin+D+per+kg+of+infant+-+Poland+July+2011",
-    "/1757"
-  ],
-  "tiki_page_id": 1757,
-  "date": "2011-06-23",
-  "categories": [
-    "How much Vitamin D",
-    "Vitamin D in Europe",
-    "Infant-Child"
-  ]
+    "title": "Recommend 100 IU of vitamin D per kg of infant - Poland",
+    "slug": "recommend-100-iu-of-vitamin-d-per-kg-of-infant-poland",
+    "aliases": [
+        "/Recommend+100+IU+of+vitamin+D+per+kg+of+infant+-+Poland+July+2011",
+        "/1757"
+    ],
+    "tiki_page_id": 1757,
+    "date": "2011-06-23",
+    "categories": [
+        "How much Vitamin D",
+        "Vitamin D in Europe",
+        "Infant-Child"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Infant-Child",
+        "Vitamin D in Europe",
+        "blood levels",
+        "child",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}} 
 

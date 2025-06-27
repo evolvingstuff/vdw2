@@ -1,16 +1,35 @@
 {
-  "title": "2800 IU vitamin D daily did not decrease bone loss for those with MS",
-  "slug": "2800-iu-vitamin-d-daily-did-not-decrease-bone-loss-for-those-with-ms",
-  "aliases": [
-    "/2800+IU+vitamin+D+daily+did+not+decrease+bone+loss+for+those+with+MS+\u2013+March+2011",
-    "/1541"
-  ],
-  "tiki_page_id": 1541,
-  "date": "2011-03-30",
-  "categories": [
-    "Multiple Sclerosis",
-    "Osteoporosis"
-  ]
+    "title": "2800 IU vitamin D daily did not decrease bone loss for those with MS",
+    "slug": "2800-iu-vitamin-d-daily-did-not-decrease-bone-loss-for-those-with-ms",
+    "aliases": [
+        "/2800+IU+vitamin+D+daily+did+not+decrease+bone+loss+for+those+with+MS+\u2013+March+2011",
+        "/1541"
+    ],
+    "tiki_page_id": 1541,
+    "date": "2011-03-30",
+    "categories": [
+        "Multiple Sclerosis",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "Osteoporosis",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "osteoporosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

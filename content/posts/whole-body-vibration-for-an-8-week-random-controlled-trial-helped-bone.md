@@ -1,16 +1,27 @@
 {
-  "title": "Whole Body Vibration for an 8 week Random Controlled Trial helped bone",
-  "slug": "whole-body-vibration-for-an-8-week-random-controlled-trial-helped-bone",
-  "aliases": [
-    "/Whole+Body+Vibration+for+an+8+week+Random+Controlled+Trial+helped+bone+\u2013+June+2011",
-    "/1788"
-  ],
-  "tiki_page_id": 1788,
-  "date": "2011-07-02",
-  "categories": [
-    "Bone - Health"
-  ]
+    "title": "Whole Body Vibration for an 8 week Random Controlled Trial helped bone",
+    "slug": "whole-body-vibration-for-an-8-week-random-controlled-trial-helped-bone",
+    "aliases": [
+        "/Whole+Body+Vibration+for+an+8+week+Random+Controlled+Trial+helped+bone+\u2013+June+2011",
+        "/1788"
+    ],
+    "tiki_page_id": 1788,
+    "date": "2011-07-02",
+    "categories": [
+        "Bone - Health"
+    ],
+    "tags": [
+        "Bone - Health",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "obesity",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -65,4 +76,3 @@ The previous item contains the following
 The wife of the administrator of this web site takes 10,000 IU of vitamin D AND uses the Whole Body Vibration Platform while doing dishes several times per week.
 
 Parts cost of the platform is less than $200
-

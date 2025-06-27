@@ -1,15 +1,28 @@
 {
-  "title": "Forum on health symptoms and treatments - vitamin D",
-  "slug": "forum-on-health-symptoms-and-treatments-vitamin-d",
-  "aliases": [
-    "/Forum+on+health+symptoms+and+treatments+-+vitamin+D",
-    "/2132"
-  ],
-  "tiki_page_id": 2132,
-  "date": "2011-10-29",
-  "categories": [
-    "Treatment by Vitamin D"
-  ]
+    "title": "Forum on health symptoms and treatments - vitamin D",
+    "slug": "forum-on-health-symptoms-and-treatments-vitamin-d",
+    "aliases": [
+        "/Forum+on+health+symptoms+and+treatments+-+vitamin+D",
+        "/2132"
+    ],
+    "tiki_page_id": 2132,
+    "date": "2011-10-29",
+    "categories": [
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "SAD",
+        "Treatment by Vitamin D",
+        "autoimmune",
+        "chronic fatigue",
+        "high dose",
+        "intervention",
+        "mood disorders",
+        "multiple sclerosis",
+        "neurological",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

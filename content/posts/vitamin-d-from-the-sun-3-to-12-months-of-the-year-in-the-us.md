@@ -1,16 +1,22 @@
 {
-  "title": "Vitamin D from the sun 3 to 12 months of the year in the US",
-  "slug": "vitamin-d-from-the-sun-3-to-12-months-of-the-year-in-the-us",
-  "aliases": [
-    "/Vitamin+D+from+the+sun+3+to+12+months+of+the+year+in+the+US",
-    "/1315"
-  ],
-  "tiki_page_id": 1315,
-  "date": "2011-01-12",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Vitamin D from the sun 3 to 12 months of the year in the US",
+    "slug": "vitamin-d-from-the-sun-3-to-12-months-of-the-year-in-the-us",
+    "aliases": [
+        "/Vitamin+D+from+the+sun+3+to+12+months+of+the+year+in+the+US",
+        "/1315"
+    ],
+    "tiki_page_id": 1315,
+    "date": "2011-01-12",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "dosage",
+        "vitamin d"
+    ]
 }
+
 
 {IMG(fileId="1410")}{IMG}
 
@@ -56,5 +62,4 @@
 
 > from: [UV in North America with many maps](www.VitaminDWiki.com/tiki-download_file.php?fileId=1360) 2010
 
-<img src="/attachments/d3.mock.jpg" alt="image"> 
-
+<img src="/attachments/d3.mock.jpg" alt="image">

@@ -1,17 +1,27 @@
 {
-  "title": "300 IU vitamin D daily raised child levels to 20 ng from 8 ng",
-  "slug": "300-iu-vitamin-d-daily-raised-child-levels-to-20-ng-from-8-ng",
-  "aliases": [
-    "/300+IU+vitamin+D+daily+raised+child+levels+to+20+ng+from+8+ng+\u2013+June+2011",
-    "/1780"
-  ],
-  "tiki_page_id": 1780,
-  "date": "2011-07-01",
-  "categories": [
-    "Pregnancy",
-    "Youth"
-  ]
+    "title": "300 IU vitamin D daily raised child levels to 20 ng from 8 ng",
+    "slug": "300-iu-vitamin-d-daily-raised-child-levels-to-20-ng-from-8-ng",
+    "aliases": [
+        "/300+IU+vitamin+D+daily+raised+child+levels+to+20+ng+from+8+ng+\u2013+June+2011",
+        "/1780"
+    ],
+    "tiki_page_id": 1780,
+    "date": "2011-07-01",
+    "categories": [
+        "Pregnancy",
+        "Youth"
+    ],
+    "tags": [
+        "Pregnancy",
+        "Youth",
+        "blood levels",
+        "child",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -48,4 +58,3 @@ CONCLUSIONS:
 In this population with extremely low vitamin D concentrations, delivery of 300 IU vitamin D/d via supplements or in fortified milk improved 25(OH)D concentrations but failed to raise concentrations uniformly to >20 ng/mL (50 nmol/L). The daily low-dose intervention was superior to the seasonal larger-dose intervention. Higher doses may be needed to prevent deficiency in schoolchildren in Mongolia and at other northern latitudes. This trial is registered at clinicaltrials.gov as NCT00886379.
 
 PMID:     21697075
-

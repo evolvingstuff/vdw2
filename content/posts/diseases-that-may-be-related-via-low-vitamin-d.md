@@ -1,16 +1,105 @@
 {
-  "title": "Diseases that may be related via low vitamin D",
-  "slug": "diseases-that-may-be-related-via-low-vitamin-d",
-  "aliases": [
-    "/Diseases+that+may+be+related+via+low+vitamin+D",
-    "/1817"
-  ],
-  "tiki_page_id": 1817,
-  "date": "2011-07-10",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "Diseases that may be related via low vitamin D",
+    "slug": "diseases-that-may-be-related-via-low-vitamin-d",
+    "aliases": [
+        "/Diseases+that+may+be+related+via+low+vitamin+D",
+        "/1817"
+    ],
+    "tiki_page_id": 1817,
+    "date": "2011-07-10",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "IBD",
+        "NAFLD",
+        "PCOS",
+        "SAD",
+        "acne",
+        "asthma",
+        "atherosclerosis",
+        "atopic dermatitis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bladder cancer",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "bone stress fractures",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "celiac",
+        "chronic fatigue",
+        "chronic pain",
+        "cognitive",
+        "crohns",
+        "dementia",
+        "dental",
+        "depression",
+        "depression and pregnancy",
+        "dermatology",
+        "diabetes",
+        "endometriosis",
+        "epilepsy",
+        "falls fractures",
+        "gout",
+        "gut",
+        "hair",
+        "headache",
+        "health risk",
+        "high dose",
+        "hip fractures",
+        "immunity",
+        "influenza",
+        "intervention",
+        "liver",
+        "lupus",
+        "melanoma",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mood disorders",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "neurological",
+        "obesity",
+        "obesity and cancer",
+        "osteoporosis",
+        "pain",
+        "pancreatic cancer",
+        "pancreatitis",
+        "parkinsons",
+        "periodontitis",
+        "pregnancy",
+        "preterm",
+        "prostate cancer",
+        "psoriasis",
+        "restless legs",
+        "rheumatoid arthritis",
+        "rickets",
+        "skin cancer",
+        "sleep apnea",
+        "smoking",
+        "statins",
+        "stroke",
+        "stroke and depression",
+        "therapeutic intervention",
+        "tuberculosis",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitiligo"
+    ]
 }
+
 
 {{< toc >}} 
 
@@ -40,7 +129,7 @@ Prostate cancer, Breast cancer, Bladder cancer, Skin Cancer, Osteoporosis, Ricke
 
 ---
 
-#### <a href="/posts/strong-association-to-other-vitamin-d-deficiency-diseases-12-years-in-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013">Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013</a>
+#### [Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013](/posts/strong-association-to-other-vitamin-d-deficiency-diseases-12-years-in-uk)
 
 Addison's disease, ankylosing spondylitis, autoimmune hemolytic anemia, chronic active hepatitis, celiac disease, 
 
@@ -196,7 +285,7 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * <a href="/posts/psoriasis-increases-risk-of-obstructive-sleep-apnea-by-14x-vitamin-d-not-mentioned" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis increases risk of Obstructive Sleep Apnea by 1.4X (vitamin D not mentioned) - Dec 2023">Psoriasis ==> Sleep Apnea</a>
 
-* <a href="/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013">Celiac Disease ==> Anemia, Psoriasis</a>
+* [Celiac Disease ==> Anemia, Psoriasis](/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia)
 
 * Celiac Disease ==> poor bones  Aug 2014
 

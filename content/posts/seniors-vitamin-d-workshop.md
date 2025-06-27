@@ -1,17 +1,55 @@
 {
-  "title": "Seniors Vitamin D Workshop",
-  "slug": "seniors-vitamin-d-workshop",
-  "aliases": [
-    "/Seniors+Vitamin+D+Workshop+-+Sept+2011",
-    "/1912"
-  ],
-  "tiki_page_id": 1912,
-  "date": "2011-08-11",
-  "categories": [
-    "Seniors",
-    "About D - more info.",
-    "Overviews"
-  ]
+    "title": "Seniors Vitamin D Workshop",
+    "slug": "seniors-vitamin-d-workshop",
+    "aliases": [
+        "/Seniors+Vitamin+D+Workshop+-+Sept+2011",
+        "/1912"
+    ],
+    "tiki_page_id": 1912,
+    "date": "2011-08-11",
+    "categories": [
+        "Seniors",
+        "About D - more info.",
+        "Overviews"
+    ],
+    "tags": [
+        "About D - more info.",
+        "Overviews",
+        "SAD",
+        "Seniors",
+        "autoimmune",
+        "back pain",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "cystic fibrosis",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "mood disorders",
+        "multiple sclerosis",
+        "omega 3",
+        "omega 3 and viruses",
+        "pain",
+        "pediatric autoimmune",
+        "rickets",
+        "therapeutic intervention",
+        "tuberculosis",
+        "type 1 diabetes",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 
@@ -282,4 +320,3 @@ It turns out that as you get more and more vitamin D that you get less and less 
 The results are not in yet for clinical trials with 4,00 IU of vitamin D, but I suspect that they will find  significantly more than a 6X reduction in Cancer. 
 
 <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1331">CLICK HERE</a> for a glance at the many high dose vitamin D clinical trials.
-

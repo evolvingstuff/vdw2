@@ -1,15 +1,24 @@
 {
-  "title": "Having less than 25 ng of vitamin D was associated with severe hip fracture",
-  "slug": "having-less-than-25-ng-of-vitamin-d-was-associated-with-severe-hip-fracture",
-  "aliases": [
-    "/Having+less+than+25+ng+of+vitamin+D+was+associated+with+severe+hip+fracture+\u2013+March+2011",
-    "/1526"
-  ],
-  "tiki_page_id": 1526,
-  "date": "2011-03-30",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "Having less than 25 ng of vitamin D was associated with severe hip fracture",
+    "slug": "having-less-than-25-ng-of-vitamin-d-was-associated-with-severe-hip-fracture",
+    "aliases": [
+        "/Having+less+than+25+ng+of+vitamin+D+was+associated+with+severe+hip+fracture+\u2013+March+2011",
+        "/1526"
+    ],
+    "tiki_page_id": 1526,
+    "date": "2011-03-30",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "blood levels",
+        "bone",
+        "falls fractures",
+        "hip fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -35,4 +44,4 @@ PMID: 21394494
 
 ---
 
- **PDF is attached at the bottom of this page** 
+ **PDF is attached at the bottom of this page**

@@ -1,17 +1,28 @@
 {
-  "title": "Weight loss and Vitamin D, Calcium, and Magnesium",
-  "slug": "weight-loss-and-vitamin-d-calcium-and-magnesium",
-  "aliases": [
-    "/Weight+loss+and+Vitamin+D+Calcium+and+Magnesium",
-    "/1976"
-  ],
-  "tiki_page_id": 1976,
-  "date": "2011-09-01",
-  "categories": [
-    "Obesity",
-    "Vitamin D and Calcium",
-    "Vitamin D and Magnesium"
-  ]
+    "title": "Weight loss and Vitamin D, Calcium, and Magnesium",
+    "slug": "weight-loss-and-vitamin-d-calcium-and-magnesium",
+    "aliases": [
+        "/Weight+loss+and+Vitamin+D+Calcium+and+Magnesium",
+        "/1976"
+    ],
+    "tiki_page_id": 1976,
+    "date": "2011-09-01",
+    "categories": [
+        "Obesity",
+        "Vitamin D and Calcium",
+        "Vitamin D and Magnesium"
+    ],
+    "tags": [
+        "Obesity",
+        "Vitamin D and Calcium",
+        "Vitamin D and Magnesium",
+        "dosage",
+        "health risk",
+        "magnesium",
+        "obesity",
+        "vitamin d",
+        "weight loss"
+    ]
 }
 
 

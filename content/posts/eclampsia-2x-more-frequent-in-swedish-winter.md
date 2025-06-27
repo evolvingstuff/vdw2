@@ -1,16 +1,23 @@
 {
-  "title": "Eclampsia 2X more frequent in Swedish winter",
-  "slug": "eclampsia-2x-more-frequent-in-swedish-winter",
-  "aliases": [
-    "/Eclampsia+2X+more+frequent+in+Swedish+winter+\u2013+Jan+2011",
-    "/1538"
-  ],
-  "tiki_page_id": 1538,
-  "date": "2011-03-30",
-  "categories": [
-    "Pregnancy",
-    "Vitamin D in Europe"
-  ]
+    "title": "Eclampsia 2X more frequent in Swedish winter",
+    "slug": "eclampsia-2x-more-frequent-in-swedish-winter",
+    "aliases": [
+        "/Eclampsia+2X+more+frequent+in+Swedish+winter+\u2013+Jan+2011",
+        "/1538"
+    ],
+    "tiki_page_id": 1538,
+    "date": "2011-03-30",
+    "categories": [
+        "Pregnancy",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Pregnancy",
+        "Vitamin D in Europe",
+        "in vitro fertilization",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -30,5 +37,4 @@ The incidence of eclampsia during the period studied (1990-1994) was four in 10,
 
 © 2010 The Authors Acta Obstetricia et Gynecologica Scandinavica© 2010 Nordic Federation of Societies of Obstetrics and Gynecology.
 
-PMID: 21275925 
-
+PMID: 21275925

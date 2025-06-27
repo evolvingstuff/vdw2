@@ -1,15 +1,24 @@
 {
-  "title": "No association between low level of vitamin D and severity of Asthma",
-  "slug": "no-association-between-low-level-of-vitamin-d-and-severity-of-asthma",
-  "aliases": [
-    "/No+association+between+low+level+of+vitamin+D+and+severity+of+Asthma+\u2013+Nov+2010",
-    "/1163"
-  ],
-  "tiki_page_id": 1163,
-  "date": "2010-11-22",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "No association between low level of vitamin D and severity of Asthma",
+    "slug": "no-association-between-low-level-of-vitamin-d-and-severity-of-asthma",
+    "aliases": [
+        "/No+association+between+low+level+of+vitamin+D+and+severity+of+Asthma+\u2013+Nov+2010",
+        "/1163"
+    ],
+    "tiki_page_id": 1163,
+    "date": "2010-11-22",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "breathing",
+        "dosage",
+        "genetics",
+        "vitamin d",
+        "vitamin d binding"
+    ]
 }
 
 
@@ -47,5 +56,4 @@ Conclusion VD and VDBP level in various asthma groups, did not differ significan
 
 * <a href="/posts/low-vitamin-d-associated-with-asthma-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 135">Low Vitamin D associated with asthma - 2010</a>
 
-* <a href="/posts/severity-of-difficult-asthma-not-proportional-to-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3446">Severity of difficult asthma not proportional to vitamin D levels – Nov 2012</a> same journal, 2 years later
-
+* [Severity of difficult asthma not proportional to vitamin D levels – Nov 2012](/posts/severity-of-difficult-asthma-not-proportional-to-vitamin-d-levels) same journal, 2 years later

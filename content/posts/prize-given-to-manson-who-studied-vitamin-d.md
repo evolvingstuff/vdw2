@@ -1,13 +1,24 @@
 {
-  "title": "Prize given to Manson who studied vitamin D",
-  "slug": "prize-given-to-manson-who-studied-vitamin-d",
-  "aliases": [
-    "/Prize+given+to+Manson+who+studied+vitamin+D+-+Nov+2010",
-    "/1143"
-  ],
-  "tiki_page_id": 1143,
-  "date": "2010-11-17"
+    "title": "Prize given to Manson who studied vitamin D",
+    "slug": "prize-given-to-manson-who-studied-vitamin-d",
+    "aliases": [
+        "/Prize+given+to+Manson+who+studied+vitamin+D+-+Nov+2010",
+        "/1143"
+    ],
+    "tiki_page_id": 1143,
+    "date": "2010-11-17",
+    "tags": [
+        "autoimmune",
+        "cancer",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
+
 
 from: http://www.medicalnewstoday.com/articles/207912.php
 

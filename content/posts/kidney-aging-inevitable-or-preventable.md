@@ -1,16 +1,26 @@
 {
-  "title": "Kidney aging-inevitable or preventable",
-  "slug": "kidney-aging-inevitable-or-preventable",
-  "aliases": [
-    "/Kidney+aging-inevitable+or+preventable+\u2013+Aug+2011",
-    "/1948"
-  ],
-  "tiki_page_id": 1948,
-  "date": "2011-08-24",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Kidney aging-inevitable or preventable",
+    "slug": "kidney-aging-inevitable-or-preventable",
+    "aliases": [
+        "/Kidney+aging-inevitable+or+preventable+\u2013+Aug+2011",
+        "/1948"
+    ],
+    "tiki_page_id": 1948,
+    "date": "2011-08-24",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "metabolic",
+        "obesity",
+        "vitamin d"
+    ]
 }
+
 
 Nat Rev Nephrol. 2011 Aug 9. [doi: 10.1038/nrneph.2011.104.](https://doi.org/10.1038/nrneph.2011.104.) 
 

@@ -1,17 +1,24 @@
 {
-  "title": "Lambs get 10X more vitamin D3 in their milk formula than humans",
-  "slug": "lambs-get-10x-more-vitamin-d3-in-their-milk-formula-than-humans",
-  "aliases": [
-    "/Lambs+get+10X+more+vitamin+D3+in+their+milk+formula+than+humans",
-    "/1400"
-  ],
-  "tiki_page_id": 1400,
-  "date": "2011-02-11",
-  "categories": [
-    "Veterinary and Vitamin D"
-  ]
+    "title": "Lambs get 10X more vitamin D3 in their milk formula than humans",
+    "slug": "lambs-get-10x-more-vitamin-d3-in-their-milk-formula-than-humans",
+    "aliases": [
+        "/Lambs+get+10X+more+vitamin+D3+in+their+milk+formula+than+humans",
+        "/1400"
+    ],
+    "tiki_page_id": 1400,
+    "date": "2011-02-11",
+    "categories": [
+        "Veterinary and Vitamin D"
+    ],
+    "tags": [
+        "Veterinary and Vitamin D",
+        "bacteria",
+        "child",
+        "dosage",
+        "vitamin d",
+        "zinc"
+    ]
 }
-
 
 
 ## [Lambs and Sheep: Royal Instant Lamb Milk Replacer 12,000 IU /lb](http://www.royalmilcinc.com/lambs_and_sheep.html)
@@ -85,4 +92,3 @@ Toll-Free:  (800) 690-9870; Phone:  (952) 469-3492; info@royalmilcinc.com; www.r
 # See also VitaminDWiki
 
 * <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a>
-

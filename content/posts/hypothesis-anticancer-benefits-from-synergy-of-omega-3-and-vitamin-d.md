@@ -1,16 +1,27 @@
 {
-  "title": "Hypothesis \u2013 anticancer benefits from synergy of omega-3 and vitamin D",
-  "slug": "hypothesis-anticancer-benefits-from-synergy-of-omega-3-and-vitamin-d",
-  "aliases": [
-    "/Hypothesis+\u2013+anticancer+benefits+from+synergy+of+omega-3+and+vitamin+D+\u2013+May+2011",
-    "/1697"
-  ],
-  "tiki_page_id": 1697,
-  "date": "2011-06-03",
-  "categories": [
-    "Cancer",
-    "Vitamin D and Omega-3"
-  ]
+    "title": "Hypothesis \u2013 anticancer benefits from synergy of omega-3 and vitamin D",
+    "slug": "hypothesis-anticancer-benefits-from-synergy-of-omega-3-and-vitamin-d",
+    "aliases": [
+        "/Hypothesis+\u2013+anticancer+benefits+from+synergy+of+omega-3+and+vitamin+D+\u2013+May+2011",
+        "/1697"
+    ],
+    "tiki_page_id": 1697,
+    "date": "2011-06-03",
+    "categories": [
+        "Cancer",
+        "Vitamin D and Omega-3"
+    ],
+    "tags": [
+        "Cancer",
+        "Vitamin D and Omega-3",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "cancer",
+        "falls fractures",
+        "omega 3",
+        "vitamin d"
+    ]
 }
 
 

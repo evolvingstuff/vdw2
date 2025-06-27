@@ -1,16 +1,36 @@
 {
-  "title": "Mood disorders 11X worse for older adults with low vitamin D \u2013 2006",
-  "slug": "mood-disorders-11x-worse-for-older-adults-with-low-vitamin-d-2006",
-  "aliases": [
-    "/Mood+disorders+11X+worse+for+older+adults+with+low+vitamin+D+\u2013+2006",
-    "/2155"
-  ],
-  "tiki_page_id": 2155,
-  "date": "2011-11-06",
-  "categories": [
-    "Seniors",
-    "Depression"
-  ]
+    "title": "Mood disorders 11X worse for older adults with low vitamin D \u2013 2006",
+    "slug": "mood-disorders-11x-worse-for-older-adults-with-low-vitamin-d-2006",
+    "aliases": [
+        "/Mood+disorders+11X+worse+for+older+adults+with+low+vitamin+D+\u2013+2006",
+        "/2155"
+    ],
+    "tiki_page_id": 2155,
+    "date": "2011-11-06",
+    "categories": [
+        "Seniors",
+        "Depression"
+    ],
+    "tags": [
+        "Depression",
+        "SAD",
+        "Seniors",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "brain",
+        "cognitive",
+        "dementia",
+        "depression",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "metabolic",
+        "mood disorders",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -134,4 +154,4 @@ Wilkins CH.  full text online
 
 * [Link between diabetes and Alzheimers is probably low vitamin D](/posts/link-between-diabetes-and-alzheimers-is-probably-low-vitamin-d)
 
-* <a href="/posts/influence-diagram-for-vitamin-d-and-cognition-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 855">Influence diagram for vitamin D and cognition - 2008</a> 
+* <a href="/posts/influence-diagram-for-vitamin-d-and-cognition-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 855">Influence diagram for vitamin D and cognition - 2008</a>

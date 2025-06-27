@@ -1,17 +1,26 @@
 {
-  "title": "European call to action for vitamin D",
-  "slug": "european-call-to-action-for-vitamin-d",
-  "aliases": [
-    "/European+call+to+action+for+vitamin+D+\u2013+March+2011",
-    "/1543"
-  ],
-  "tiki_page_id": 1543,
-  "date": "2011-03-31",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "How much Vitamin D"
-  ]
+    "title": "European call to action for vitamin D",
+    "slug": "european-call-to-action-for-vitamin-d",
+    "aliases": [
+        "/European+call+to+action+for+vitamin+D+\u2013+March+2011",
+        "/1543"
+    ],
+    "tiki_page_id": 1543,
+    "date": "2011-03-31",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "How much Vitamin D",
+        "bone",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}} 
 

@@ -1,12 +1,13 @@
 {
-  "title": "Vitamin D spreadsheet on Google Docs",
-  "slug": "vitamin-d-spreadsheet-on-google-docs",
-  "aliases": [
-    "/Vitamin+D+spreadsheet+on+Google+Docs",
-    "/1189"
-  ],
-  "tiki_page_id": 1189,
-  "date": "2010-11-26"
+    "title": "Vitamin D spreadsheet on Google Docs",
+    "slug": "vitamin-d-spreadsheet-on-google-docs",
+    "aliases": [
+        "/Vitamin+D+spreadsheet+on+Google+Docs",
+        "/1189"
+    ],
+    "tiki_page_id": 1189,
+    "date": "2010-11-26",
+    "tags": []
 }
 
 
@@ -21,4 +22,3 @@ Do not know the author(s)
 ## Here are the names of the sheets of information it contains
 
 {IMG(attId="317")}{IMG}
-

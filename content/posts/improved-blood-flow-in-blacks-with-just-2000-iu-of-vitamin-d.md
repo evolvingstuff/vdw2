@@ -1,17 +1,38 @@
 {
-  "title": "Improved blood flow in blacks with just 2000 IU of vitamin D",
-  "slug": "improved-blood-flow-in-blacks-with-just-2000-iu-of-vitamin-d",
-  "aliases": [
-    "/Improved+blood+flow+in+blacks+with+just+2000+IU+of+vitamin+D+\u2013+Feb+2011",
-    "/1402"
-  ],
-  "tiki_page_id": 1402,
-  "date": "2011-02-12",
-  "categories": [
-    "Skin - Dark",
-    "Cardiovascular"
-  ]
+    "title": "Improved blood flow in blacks with just 2000 IU of vitamin D",
+    "slug": "improved-blood-flow-in-blacks-with-just-2000-iu-of-vitamin-d",
+    "aliases": [
+        "/Improved+blood+flow+in+blacks+with+just+2000+IU+of+vitamin+D+\u2013+Feb+2011",
+        "/1402"
+    ],
+    "tiki_page_id": 1402,
+    "date": "2011-02-12",
+    "categories": [
+        "Skin - Dark",
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Skin - Dark",
+        "autoimmune",
+        "blood levels",
+        "cardiovascular",
+        "dosage",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "pain",
+        "rheumatoid arthritis",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Vitamin D(3) Supplementation for 16 Weeks Improves Flow-Mediated Dilation in Overweight African-American Adults.
 
@@ -80,4 +101,3 @@ Conclusion Supplementation of 60,000 IU monthly oral vitamin D(3) (~2,000 IU/day
 * <a href="/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 701">Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010</a>
 
 * [Telomeres improved when obese blacks took 2000 iu of vitamin D daily – Oct 2011](/posts/telomeres-improved-when-obese-blacks-took-2000-iu-of-vitamin-d-daily)
-

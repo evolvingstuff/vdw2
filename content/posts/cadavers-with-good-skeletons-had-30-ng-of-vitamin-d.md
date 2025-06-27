@@ -1,16 +1,24 @@
 {
-  "title": "Cadavers with good skeletons had 30 ng of vitamin D",
-  "slug": "cadavers-with-good-skeletons-had-30-ng-of-vitamin-d",
-  "aliases": [
-    "/Cadavers+with+good+skeletons+had+30+ng+of+vitamin+D+\u2013+Feb+2010",
-    "/1895"
-  ],
-  "tiki_page_id": 1895,
-  "date": "2011-08-04",
-  "categories": [
-    "How much Vitamin D",
-    "Bone - Health"
-  ]
+    "title": "Cadavers with good skeletons had 30 ng of vitamin D",
+    "slug": "cadavers-with-good-skeletons-had-30-ng-of-vitamin-d",
+    "aliases": [
+        "/Cadavers+with+good+skeletons+had+30+ng+of+vitamin+D+\u2013+Feb+2010",
+        "/1895"
+    ],
+    "tiki_page_id": 1895,
+    "date": "2011-08-04",
+    "categories": [
+        "How much Vitamin D",
+        "Bone - Health"
+    ],
+    "tags": [
+        "Bone - Health",
+        "How much Vitamin D",
+        "blood levels",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -40,7 +48,7 @@ PMID:     19594303
 
 * <a href="/posts/vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations</a>
 
-* <a href="/posts/bone-health-and-vitamin-d-book-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2312">Bone Health and vitamin D book - 2011</a>
+* [Bone Health and vitamin D book - 2011](/posts/bone-health-and-vitamin-d-book-2011)
 
 * [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
@@ -54,7 +62,7 @@ PMID:     19594303
 
 * [Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010](/posts/cadavers-with-good-skeletons-had-30-ng-of-vitamin-d)
 
-* <a href="/posts/germany-increases-vitamin-d-to-800-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2304">Germany increases vitamin D to 800 IU - Jan 2012</a>
+* [Germany increases vitamin D to 800 IU - Jan 2012](/posts/germany-increases-vitamin-d-to-800-iu)
 
 * <a href="/posts/published-recommendations-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Recommendations of Vitamin D</a> which includes the following graph
 

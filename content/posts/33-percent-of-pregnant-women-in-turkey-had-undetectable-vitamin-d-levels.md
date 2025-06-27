@@ -1,16 +1,22 @@
 {
-  "title": "33 percent of pregnant women in Turkey had undetectable vitamin D levels",
-  "slug": "33-percent-of-pregnant-women-in-turkey-had-undetectable-vitamin-d-levels",
-  "aliases": [
-    "/33+percent+of+pregnant+women+in+Turkey+had+undetectable+vitamin+D+levels+\u2013+May+2011",
-    "/1610"
-  ],
-  "tiki_page_id": 1610,
-  "date": "2011-05-06",
-  "categories": [
-    "Pregnancy",
-    "Middle East"
-  ]
+    "title": "33 percent of pregnant women in Turkey had undetectable vitamin D levels",
+    "slug": "33-percent-of-pregnant-women-in-turkey-had-undetectable-vitamin-d-levels",
+    "aliases": [
+        "/33+percent+of+pregnant+women+in+Turkey+had+undetectable+vitamin+D+levels+\u2013+May+2011",
+        "/1610"
+    ],
+    "tiki_page_id": 1610,
+    "date": "2011-05-06",
+    "categories": [
+        "Pregnancy",
+        "Middle East"
+    ],
+    "tags": [
+        "Middle East",
+        "Pregnancy",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -53,4 +59,3 @@ PMID:     21543150
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
 
 * <a href="/posts/turkey-has-yet-not-learned-to-give-vitamin-d-during-pregnancy-5-ng-average" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Turkey has yet not learned to GIVE vitamin D DURING pregnancy (5 ng average) – May 2014">Turkey has yet not learned to GIVE vitamin D DURING pregnancy (5 ng average) – May 2014</a>
-

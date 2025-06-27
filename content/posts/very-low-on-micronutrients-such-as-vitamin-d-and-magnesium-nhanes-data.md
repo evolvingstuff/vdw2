@@ -1,17 +1,28 @@
 {
-  "title": "Very low on micronutrients such as vitamin D and Magnesium \u2013 NHANES data",
-  "slug": "very-low-on-micronutrients-such-as-vitamin-d-and-magnesium-nhanes-data",
-  "aliases": [
-    "/Very+low+on+micronutrients+such+as+vitamin+D+and+Magnesium+\u2013+NHANES+data+Aug+2011",
-    "/1966"
-  ],
-  "tiki_page_id": 1966,
-  "date": "2011-08-30",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Supplement",
-    "Vitamin D and Magnesium"
-  ]
+    "title": "Very low on micronutrients such as vitamin D and Magnesium \u2013 NHANES data",
+    "slug": "very-low-on-micronutrients-such-as-vitamin-d-and-magnesium-nhanes-data",
+    "aliases": [
+        "/Very+low+on+micronutrients+such+as+vitamin+D+and+Magnesium+\u2013+NHANES+data+Aug+2011",
+        "/1966"
+    ],
+    "tiki_page_id": 1966,
+    "date": "2011-08-30",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Supplement",
+        "Vitamin D and Magnesium"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Supplement",
+        "Vitamin D and Magnesium",
+        "cancer",
+        "magnesium",
+        "magnesium and cancer",
+        "vitamin d",
+        "vitamin k",
+        "zinc"
+    ]
 }
 
 

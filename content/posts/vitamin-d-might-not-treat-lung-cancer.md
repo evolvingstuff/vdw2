@@ -1,15 +1,27 @@
 {
-  "title": "Vitamin D might not TREAT lung cancer",
-  "slug": "vitamin-d-might-not-treat-lung-cancer",
-  "aliases": [
-    "/Vitamin+D+might+not+TREAT+lung+cancer+\u2013+Nov+2010",
-    "/1165"
-  ],
-  "tiki_page_id": 1165,
-  "date": "2010-11-22",
-  "categories": [
-    "Cancer - Lung"
-  ]
+    "title": "Vitamin D might not TREAT lung cancer",
+    "slug": "vitamin-d-might-not-treat-lung-cancer",
+    "aliases": [
+        "/Vitamin+D+might+not+TREAT+lung+cancer+\u2013+Nov+2010",
+        "/1165"
+    ],
+    "tiki_page_id": 1165,
+    "date": "2010-11-22",
+    "categories": [
+        "Cancer - Lung"
+    ],
+    "tags": [
+        "Cancer - Lung",
+        "blood levels",
+        "cancer",
+        "cancer in VDR",
+        "genetics",
+        "lung cancer",
+        "melanoma",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d receptor"
+    ]
 }
 
 

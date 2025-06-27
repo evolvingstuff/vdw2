@@ -1,17 +1,54 @@
 {
-  "title": "Atopic Dermatitis and Eczema - many studies",
-  "slug": "atopic-dermatitis-and-eczema-many-studies",
-  "aliases": [
-    "/Atopic+Dermatitis+and+Eczema+-+many+studies",
-    "/2027"
-  ],
-  "tiki_page_id": 2027,
-  "date": "2011-09-22",
-  "categories": [
-    "Skin",
-    "Inflammation"
-  ]
+    "title": "Atopic Dermatitis and Eczema - many studies",
+    "slug": "atopic-dermatitis-and-eczema-many-studies",
+    "aliases": [
+        "/Atopic+Dermatitis+and+Eczema+-+many+studies",
+        "/2027"
+    ],
+    "tiki_page_id": 2027,
+    "date": "2011-09-22",
+    "categories": [
+        "Skin",
+        "Inflammation"
+    ],
+    "tags": [
+        "CYPA",
+        "Inflammation",
+        "Skin",
+        "asthma",
+        "asthma receptor",
+        "atopic dermatitis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "breastfed",
+        "breathing",
+        "child",
+        "cholesterol",
+        "dermatology",
+        "dosage",
+        "genetics",
+        "health risk",
+        "high dose",
+        "immunity",
+        "intervention",
+        "lupus",
+        "magnesium",
+        "magnesium and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "probiotics",
+        "psoriasis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "zinc"
+    ]
 }
+
 
 {{< toc >}}
 

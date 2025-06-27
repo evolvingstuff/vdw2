@@ -1,17 +1,34 @@
 {
-  "title": "Earthquake and Vitamin D - several studies",
-  "slug": "earthquake-and-vitamin-d-several-studies",
-  "aliases": [
-    "/Earthquake+and+Vitamin+D+-+several+studies",
-    "/1133"
-  ],
-  "tiki_page_id": 1133,
-  "date": "2010-11-12",
-  "categories": [
-    "Depression",
-    "Trauma and surgery"
-  ]
+    "title": "Earthquake and Vitamin D - several studies",
+    "slug": "earthquake-and-vitamin-d-several-studies",
+    "aliases": [
+        "/Earthquake+and+Vitamin+D+-+several+studies",
+        "/1133"
+    ],
+    "tiki_page_id": 1133,
+    "date": "2010-11-12",
+    "categories": [
+        "Depression",
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Depression",
+        "Trauma and surgery",
+        "anxiety",
+        "breathing",
+        "child",
+        "childhood respiratory",
+        "depression",
+        "depression and pregnancy",
+        "dosage",
+        "mood disorders",
+        "pregnancy",
+        "respiratory",
+        "vitamin d",
+        "zinc"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -105,4 +122,4 @@ Results 308 participants completed the earthquake impact questionnaire (n=152 in
 
 Conclusion In this trial, vitamin D supplementation did not reduce the adverse impact of earthquakes in healthy adults.
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/earthquake-2014-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/earthquake-2014-compresspdf.pdf">Download the PDF from VitaminDWiki </a>**

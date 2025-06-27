@@ -1,17 +1,28 @@
 {
-  "title": "Too much and too little Calcium both increase death after strokes",
-  "slug": "too-much-and-too-little-calcium-both-increase-death-after-strokes",
-  "aliases": [
-    "/Too+much+and+too+little+Calcium+both+increase+death+after+strokes+\u2013+Jan+2011",
-    "/1154"
-  ],
-  "tiki_page_id": 1154,
-  "date": "2010-11-20",
-  "categories": [
-    "Mortality and D",
-    "Vitamin D and Calcium",
-    "Stroke"
-  ]
+    "title": "Too much and too little Calcium both increase death after strokes",
+    "slug": "too-much-and-too-little-calcium-both-increase-death-after-strokes",
+    "aliases": [
+        "/Too+much+and+too+little+Calcium+both+increase+death+after+strokes+\u2013+Jan+2011",
+        "/1154"
+    ],
+    "tiki_page_id": 1154,
+    "date": "2010-11-20",
+    "categories": [
+        "Mortality and D",
+        "Vitamin D and Calcium",
+        "Stroke"
+    ],
+    "tags": [
+        "Mortality and D",
+        "Stroke",
+        "Vitamin D and Calcium",
+        "cardiovascular",
+        "life span",
+        "magnesium",
+        "mortality",
+        "stroke",
+        "vitamin d"
+    ]
 }
 
 
@@ -50,4 +61,3 @@ Copyright © 2010 S. Karger AG, Basel
 ## Too much Calcium increased death rate for women by 3X – no increase for men
 
 ## Reminder: vitamin D and Magnesium are both very important in the regulation of calcium in the body
-

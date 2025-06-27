@@ -1,18 +1,27 @@
 {
-  "title": "Vitamin D deficiency and testing in Australia are epidemics",
-  "slug": "vitamin-d-deficiency-and-testing-in-australia-are-epidemics",
-  "aliases": [
-    "/Vitamin+D+deficiency+and+testing+in+Australia+are+epidemics+-+Aug+2011",
-    "/1885"
-  ],
-  "tiki_page_id": 1885,
-  "date": "2011-08-02",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Tests for Vitamin D",
-    "Vitamin D in Australia and New Zealand"
-  ]
+    "title": "Vitamin D deficiency and testing in Australia are epidemics",
+    "slug": "vitamin-d-deficiency-and-testing-in-australia-are-epidemics",
+    "aliases": [
+        "/Vitamin+D+deficiency+and+testing+in+Australia+are+epidemics+-+Aug+2011",
+        "/1885"
+    ],
+    "tiki_page_id": 1885,
+    "date": "2011-08-02",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Tests for Vitamin D",
+        "Vitamin D in Australia and New Zealand"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Tests for Vitamin D",
+        "Vitamin D in Australia and New Zealand",
+        "dosage",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
+
 
 ~Highlights from [Sidney Morning Herald Aug 2011](http://www.smh.com.au/lifestyle/wellbeing/experts-at-odds-on-vitamin-d-tests-for-pregnant-women-20110802-1i9lp.html)
 

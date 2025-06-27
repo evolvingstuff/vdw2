@@ -1,16 +1,37 @@
 {
-  "title": "Overview Asthma and Vitamin D",
-  "slug": "overview-asthma-and-vitamin-d",
-  "aliases": [
-    "/Overview+Asthma+and+Vitamin+D",
-    "/1433"
-  ],
-  "tiki_page_id": 1433,
-  "date": "2011-02-24",
-  "categories": [
-    "Breathing",
-    "Overviews"
-  ]
+    "title": "Overview Asthma and Vitamin D",
+    "slug": "overview-asthma-and-vitamin-d",
+    "aliases": [
+        "/Overview+Asthma+and+Vitamin+D",
+        "/1433"
+    ],
+    "tiki_page_id": 1433,
+    "date": "2011-02-24",
+    "categories": [
+        "Breathing",
+        "Overviews"
+    ],
+    "tags": [
+        "Breathing",
+        "Overviews",
+        "asthma",
+        "asthma receptor",
+        "blood levels",
+        "breathing",
+        "child",
+        "dosage",
+        "genetics",
+        "health risk",
+        "life span",
+        "magnesium",
+        "magnesium and pregnancy",
+        "mortality",
+        "pregnancy",
+        "preterm",
+        "smoking",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -302,4 +323,4 @@ Potential impacts of Acu-TENS in the treatment of adolescents with moderate to s
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/asthma-tens.webp" alt="image" width="500">
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/acu-tens-asthma-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/acu-tens-asthma-compresspdf.pdf">Download the PDF from VitaminDWiki </a>**

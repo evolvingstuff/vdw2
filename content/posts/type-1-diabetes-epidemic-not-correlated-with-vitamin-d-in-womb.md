@@ -1,15 +1,34 @@
 {
-  "title": "Type 1 diabetes epidemic not correlated with vitamin D in womb",
-  "slug": "type-1-diabetes-epidemic-not-correlated-with-vitamin-d-in-womb",
-  "aliases": [
-    "/Type+1+diabetes+epidemic+not+correlated+with+vitamin+D+in+womb+\u2013+Aug+2011",
-    "/1949"
-  ],
-  "tiki_page_id": 1949,
-  "date": "2011-08-24",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Type 1 diabetes epidemic not correlated with vitamin D in womb",
+    "slug": "type-1-diabetes-epidemic-not-correlated-with-vitamin-d-in-womb",
+    "aliases": [
+        "/Type+1+diabetes+epidemic+not+correlated+with+vitamin+D+in+womb+\u2013+Aug+2011",
+        "/1949"
+    ],
+    "tiki_page_id": 1949,
+    "date": "2011-08-24",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "child",
+        "childhood obesity",
+        "diabetes",
+        "dosage",
+        "health risk",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "obesity",
+        "pediatric autoimmune",
+        "pregnancy",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "vitamin d"
+    ]
 }
 
 
@@ -66,4 +85,3 @@ If registered <span>[tiki-download_file.php?fileId=1960]</span> for PDF
 * [All items Diabetes and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=17&sort_mode=created_desc)
 
 * <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
-

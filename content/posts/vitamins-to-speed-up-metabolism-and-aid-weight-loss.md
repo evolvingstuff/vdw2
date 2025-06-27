@@ -1,15 +1,25 @@
 {
-  "title": "Vitamins To Speed Up Metabolism And Aid Weight Loss",
-  "slug": "vitamins-to-speed-up-metabolism-and-aid-weight-loss",
-  "aliases": [
-    "/Vitamins+To+Speed+Up+Metabolism+And+Aid+Weight+Loss+\u2013+May+2011",
-    "/1676"
-  ],
-  "tiki_page_id": 1676,
-  "date": "2011-05-30",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Vitamins To Speed Up Metabolism And Aid Weight Loss",
+    "slug": "vitamins-to-speed-up-metabolism-and-aid-weight-loss",
+    "aliases": [
+        "/Vitamins+To+Speed+Up+Metabolism+And+Aid+Weight+Loss+\u2013+May+2011",
+        "/1676"
+    ],
+    "tiki_page_id": 1676,
+    "date": "2011-05-30",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "cancer",
+        "dosage",
+        "health risk",
+        "obesity",
+        "obesity and cancer",
+        "vitamin d",
+        "weight loss"
+    ]
 }
 
 

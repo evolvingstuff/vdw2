@@ -1,16 +1,29 @@
 {
-  "title": "Moscow prison to install tanning beds",
-  "slug": "moscow-prison-to-install-tanning-beds",
-  "aliases": [
-    "/Moscow+prison+to+install+tanning+beds+-+Nov+2010",
-    "/1134"
-  ],
-  "tiki_page_id": 1134,
-  "date": "2010-11-12",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Moscow prison to install tanning beds",
+    "slug": "moscow-prison-to-install-tanning-beds",
+    "aliases": [
+        "/Moscow+prison+to+install+tanning+beds+-+Nov+2010",
+        "/1134"
+    ],
+    "tiki_page_id": 1134,
+    "date": "2010-11-12",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "bacteria",
+        "depression",
+        "dosage",
+        "influenza",
+        "mood disorders",
+        "tuberculosis",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 http://law.rightpundits.com/?p=2486
 
@@ -36,14 +49,14 @@ Bit of history: Dr. Cannell, the head of the Vitamin D Council, first noticed th
 
 * [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)
 
-* <a href="/posts/5000-iu-vitamin-d-helped-uk-professional-athletes-in-the-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3300">5,000 IU vitamin D helped UK professional athletes in the winter – Oct 2012</a>
+* [5,000 IU vitamin D helped UK professional athletes in the winter – Oct 2012](/posts/5000-iu-vitamin-d-helped-uk-professional-athletes-in-the-winter)
 
-* <a href="/posts/athletes-need-at-least-40-ng-of-vitamin-d-literature-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3252">Athletes need at least 40 ng of vitamin D – literature review Oct 2012</a>
+* [Athletes need at least 40 ng of vitamin D – literature review Oct 2012](/posts/athletes-need-at-least-40-ng-of-vitamin-d-literature-review)
 
-* <a href="/posts/vitamin-d-from-phototherapy-lamps-tanning-beds-and-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3007">Vitamin D from phototherapy lamps, tanning beds, and the sun – Jan 2012</a>
+* [Vitamin D from phototherapy lamps, tanning beds, and the sun – Jan 2012](/posts/vitamin-d-from-phototherapy-lamps-tanning-beds-and-the-sun)
 
 * <a href="/posts/interview-concerning-uva-uvb-and-health-grant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3565">Interview concerning UVA, UVB, and health – Grant Dec 2012</a> 
 
-* <a href="/posts/prison-doctor-on-lack-of-vitamin-d-in-solitary-confinement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prison doctor on lack of vitamin D in solitary confinement – July 2013">Prison doctor on lack of vitamin D in solitary confinement – July 2013</a>
+* [Prison doctor on lack of vitamin D in solitary confinement – July 2013](/posts/prison-doctor-on-lack-of-vitamin-d-in-solitary-confinement)
 
 * [Search VitaminDWiki for PRISON](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=prison&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 301 items as of Sepg 2021

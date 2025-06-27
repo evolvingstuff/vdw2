@@ -1,15 +1,24 @@
 {
-  "title": "Lack of vitamin D associated with many cardiovascular problems",
-  "slug": "lack-of-vitamin-d-associated-with-many-cardiovascular-problems",
-  "aliases": [
-    "/Lack+of+vitamin+D+associated+with+many+cardiovascular+problems+\u2013+May+2011",
-    "/1618"
-  ],
-  "tiki_page_id": 1618,
-  "date": "2011-05-12",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Lack of vitamin D associated with many cardiovascular problems",
+    "slug": "lack-of-vitamin-d-associated-with-many-cardiovascular-problems",
+    "aliases": [
+        "/Lack+of+vitamin+D+associated+with+many+cardiovascular+problems+\u2013+May+2011",
+        "/1618"
+    ],
+    "tiki_page_id": 1618,
+    "date": "2011-05-12",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "blood levels",
+        "cardiovascular",
+        "heart failure",
+        "life span",
+        "mortality",
+        "vitamin d"
+    ]
 }
 
 

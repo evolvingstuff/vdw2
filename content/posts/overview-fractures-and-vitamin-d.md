@@ -1,19 +1,34 @@
 {
-  "title": "Overview Fractures and vitamin D",
-  "slug": "overview-fractures-and-vitamin-d",
-  "aliases": [
-    "/Overview+Fractures+and+vitamin+D",
-    "/1344"
-  ],
-  "tiki_page_id": 1344,
-  "date": "2011-01-24",
-  "categories": [
-    "Bone - Health",
-    "Osteoporosis",
-    "Vitamin D and Calcium",
-    "Overviews",
-    "Falls and Fractures"
-  ]
+    "title": "Overview Fractures and vitamin D",
+    "slug": "overview-fractures-and-vitamin-d",
+    "aliases": [
+        "/Overview+Fractures+and+vitamin+D",
+        "/1344"
+    ],
+    "tiki_page_id": 1344,
+    "date": "2011-01-24",
+    "categories": [
+        "Bone - Health",
+        "Osteoporosis",
+        "Vitamin D and Calcium",
+        "Overviews",
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Falls and Fractures",
+        "Osteoporosis",
+        "Overviews",
+        "Vitamin D and Calcium",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "falls fractures",
+        "hip fractures",
+        "omega 3",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

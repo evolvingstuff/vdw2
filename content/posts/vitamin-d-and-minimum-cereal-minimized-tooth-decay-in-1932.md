@@ -1,16 +1,26 @@
 {
-  "title": "Vitamin D and minimum cereal minimized tooth decay \u2013 in 1932",
-  "slug": "vitamin-d-and-minimum-cereal-minimized-tooth-decay-in-1932",
-  "aliases": [
-    "/Vitamin+D+and+minimum+cereal+minimized+tooth+decay+\u2013+in+1932",
-    "/1222"
-  ],
-  "tiki_page_id": 1222,
-  "date": "2010-12-11",
-  "categories": [
-    "Dental",
-    "Interactions with Vitamin D"
-  ]
+    "title": "Vitamin D and minimum cereal minimized tooth decay \u2013 in 1932",
+    "slug": "vitamin-d-and-minimum-cereal-minimized-tooth-decay-in-1932",
+    "aliases": [
+        "/Vitamin+D+and+minimum+cereal+minimized+tooth+decay+\u2013+in+1932",
+        "/1222"
+    ],
+    "tiki_page_id": 1222,
+    "date": "2010-12-11",
+    "categories": [
+        "Dental",
+        "Interactions with Vitamin D"
+    ],
+    "tags": [
+        "Dental",
+        "Interactions with Vitamin D",
+        "bone",
+        "child",
+        "pregnancy",
+        "rickets",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -81,4 +91,3 @@ This diet is capable of reversing early stage tooth decay. It will not reverse a
 – – – – – 
 
 ## The 1932 article does not say HOW MUCH vitamin D, but does mention vitamin A
-

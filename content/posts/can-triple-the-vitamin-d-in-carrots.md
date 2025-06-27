@@ -1,16 +1,22 @@
 {
-  "title": "Can triple the vitamin D in carrots",
-  "slug": "can-triple-the-vitamin-d-in-carrots",
-  "aliases": [
-    "/Can+triple+the+vitamin+D+in+carrots+-+Jan+2011",
-    "/1373"
-  ],
-  "tiki_page_id": 1373,
-  "date": "2011-01-31",
-  "categories": [
-    "Food sources for Vitamin D",
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Can triple the vitamin D in carrots",
+    "slug": "can-triple-the-vitamin-d-in-carrots",
+    "aliases": [
+        "/Can+triple+the+vitamin+D+in+carrots+-+Jan+2011",
+        "/1373"
+    ],
+    "tiki_page_id": 1373,
+    "date": "2011-01-31",
+    "categories": [
+        "Food sources for Vitamin D",
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "Vitamin D3 instead of D2",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

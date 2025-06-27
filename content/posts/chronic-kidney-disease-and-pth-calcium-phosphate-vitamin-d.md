@@ -1,16 +1,25 @@
 {
-  "title": "Chronic kidney disease and PTH \u2013 Calcium \u2013 Phosphate \u2013 Vitamin D",
-  "slug": "chronic-kidney-disease-and-pth-calcium-phosphate-vitamin-d",
-  "aliases": [
-    "/Chronic+kidney+disease+and+PTH+\u2013+Calcium+\u2013+Phosphate+\u2013+Vitamin+D+\u2013+April+2011",
-    "/1620"
-  ],
-  "tiki_page_id": 1620,
-  "date": "2011-05-12",
-  "categories": [
-    "Kidney",
-    "Thyroid and parathyroid"
-  ]
+    "title": "Chronic kidney disease and PTH \u2013 Calcium \u2013 Phosphate \u2013 Vitamin D",
+    "slug": "chronic-kidney-disease-and-pth-calcium-phosphate-vitamin-d",
+    "aliases": [
+        "/Chronic+kidney+disease+and+PTH+\u2013+Calcium+\u2013+Phosphate+\u2013+Vitamin+D+\u2013+April+2011",
+        "/1620"
+    ],
+    "tiki_page_id": 1620,
+    "date": "2011-05-12",
+    "categories": [
+        "Kidney",
+        "Thyroid and parathyroid"
+    ],
+    "tags": [
+        "CKD",
+        "Kidney",
+        "Thyroid and parathyroid",
+        "kidney",
+        "life span",
+        "mortality",
+        "vitamin d"
+    ]
 }
 
 
@@ -26,5 +35,4 @@ Patients with chronic kidney disease (CKD) are at increased risk of total and ca
 
 An intervention that perturbs any one of these factors is likely to exert effects on the others, making isolation of the individual variables almost impossible. However, some therapies in current use have the potential to act as probes to answer questions relating to the association between mineral biomarkers and outcomes in CKD.
 
-PMID:     21537350 
-
+PMID:     21537350

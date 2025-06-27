@@ -1,16 +1,26 @@
 {
-  "title": "Difficult to get 1000 IU of vitamin D in 30 minutes If UVI less than 3",
-  "slug": "difficult-to-get-1000-iu-of-vitamin-d-in-30-minutes-if-uvi-less-than-3",
-  "aliases": [
-    "/Difficult+to+get+1000+IU+of+vitamin+D+in+30+minutes+If+UVI+less+than+3+\u2013+April+2011",
-    "/1572"
-  ],
-  "tiki_page_id": 1572,
-  "date": "2011-04-08",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Difficult to get 1000 IU of vitamin D in 30 minutes If UVI less than 3",
+    "slug": "difficult-to-get-1000-iu-of-vitamin-d-in-30-minutes-if-uvi-less-than-3",
+    "aliases": [
+        "/Difficult+to+get+1000+IU+of+vitamin+D+in+30+minutes+If+UVI+less+than+3+\u2013+April+2011",
+        "/1572"
+    ],
+    "tiki_page_id": 1572,
+    "date": "2011-04-08",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "breast cancer",
+        "cancer",
+        "dosage",
+        "melanoma",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
+
 
 1Burning daylight: balancing vitamin D requirements with sensible sun exposure.
 
@@ -79,4 +89,3 @@ PMID: 21470084
 ## UV Index less than 3 = Blue and Purple on this map
 
 {IMG(fileId="1250")}{IMG}
-

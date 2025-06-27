@@ -1,16 +1,25 @@
 {
-  "title": "Breast cancer worse for black women",
-  "slug": "breast-cancer-worse-for-black-women",
-  "aliases": [
-    "/Breast+cancer+worse+for+black+women+\u2013+Sept+2011",
-    "/2003"
-  ],
-  "tiki_page_id": 2003,
-  "date": "2011-09-16",
-  "categories": [
-    "Skin - Dark",
-    "Cancer - Breast"
-  ]
+    "title": "Breast cancer worse for black women",
+    "slug": "breast-cancer-worse-for-black-women",
+    "aliases": [
+        "/Breast+cancer+worse+for+black+women+\u2013+Sept+2011",
+        "/2003"
+    ],
+    "tiki_page_id": 2003,
+    "date": "2011-09-16",
+    "categories": [
+        "Skin - Dark",
+        "Cancer - Breast"
+    ],
+    "tags": [
+        "Cancer - Breast",
+        "Skin - Dark",
+        "breast cancer",
+        "breastfed",
+        "cancer",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 

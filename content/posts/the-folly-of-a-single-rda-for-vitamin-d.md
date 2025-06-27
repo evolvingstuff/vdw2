@@ -1,16 +1,21 @@
 {
-  "title": "The folly of a single RDA for vitamin D",
-  "slug": "the-folly-of-a-single-rda-for-vitamin-d",
-  "aliases": [
-    "/The+folly+of+a+single+RDA+for+vitamin+D+-+Jan+2011",
-    "/1303"
-  ],
-  "tiki_page_id": 1303,
-  "date": "2011-01-08",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "The folly of a single RDA for vitamin D",
+    "slug": "the-folly-of-a-single-rda-for-vitamin-d",
+    "aliases": [
+        "/The+folly+of+a+single+RDA+for+vitamin+D+-+Jan+2011",
+        "/1303"
+    ],
+    "tiki_page_id": 1303,
+    "date": "2011-01-08",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

@@ -1,17 +1,26 @@
 {
-  "title": "Patent for patients of Chronic Heart Failure includes vitamin D",
-  "slug": "patent-for-patients-of-chronic-heart-failure-includes-vitamin-d",
-  "aliases": [
-    "/Patent+for+patients+of+Chronic+Heart+Failure+includes+vitamin+D+\u2013+June+2011",
-    "/1734"
-  ],
-  "tiki_page_id": 1734,
-  "date": "2011-06-16",
-  "categories": [
-    "Cardiovascular",
-    "Patent"
-  ]
+    "title": "Patent for patients of Chronic Heart Failure includes vitamin D",
+    "slug": "patent-for-patients-of-chronic-heart-failure-includes-vitamin-d",
+    "aliases": [
+        "/Patent+for+patients+of+Chronic+Heart+Failure+includes+vitamin+D+\u2013+June+2011",
+        "/1734"
+    ],
+    "tiki_page_id": 1734,
+    "date": "2011-06-16",
+    "categories": [
+        "Cardiovascular",
+        "Patent"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Patent",
+        "cardiovascular",
+        "dosage",
+        "heart failure",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

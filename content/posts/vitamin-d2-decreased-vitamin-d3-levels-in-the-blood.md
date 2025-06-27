@@ -1,15 +1,24 @@
 {
-  "title": "Vitamin D2 decreased vitamin D3 levels in the blood",
-  "slug": "vitamin-d2-decreased-vitamin-d3-levels-in-the-blood",
-  "aliases": [
-    "/Vitamin+D2+decreased+vitamin+D3+levels+in+the+blood+\u2013+Feb+2011",
-    "/1386"
-  ],
-  "tiki_page_id": 1386,
-  "date": "2011-02-04",
-  "categories": [
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Vitamin D2 decreased vitamin D3 levels in the blood",
+    "slug": "vitamin-d2-decreased-vitamin-d3-levels-in-the-blood",
+    "aliases": [
+        "/Vitamin+D2+decreased+vitamin+D3+levels+in+the+blood+\u2013+Feb+2011",
+        "/1386"
+    ],
+    "tiki_page_id": 1386,
+    "date": "2011-02-04",
+    "categories": [
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "bone",
+        "dosage",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

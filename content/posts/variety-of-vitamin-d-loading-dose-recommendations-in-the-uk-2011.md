@@ -1,17 +1,24 @@
 {
-  "title": "Variety of vitamin D loading dose recommendations in the UK - 2011",
-  "slug": "variety-of-vitamin-d-loading-dose-recommendations-in-the-uk-2011",
-  "aliases": [
-    "/Variety+of+vitamin+D+loading+dose+recommendations+in+the+UK+-+2011",
-    "/1894"
-  ],
-  "tiki_page_id": 1894,
-  "date": "2011-08-04",
-  "categories": [
-    "Loading dose for Vitamin D",
-    "Vitamin D in Europe"
-  ]
+    "title": "Variety of vitamin D loading dose recommendations in the UK - 2011",
+    "slug": "variety-of-vitamin-d-loading-dose-recommendations-in-the-uk-2011",
+    "aliases": [
+        "/Variety+of+vitamin+D+loading+dose+recommendations+in+the+UK+-+2011",
+        "/1894"
+    ],
+    "tiki_page_id": 1894,
+    "date": "2011-08-04",
+    "categories": [
+        "Loading dose for Vitamin D",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Loading dose for Vitamin D",
+        "Vitamin D in Europe",
+        "dosage",
+        "vitamin d"
+    ]
 }
+
 
 East & South East England Specialist Pharmacy Services (August 2011)
 

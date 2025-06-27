@@ -1,23 +1,57 @@
 {
-  "title": "Low cost cofactors for vitamin D",
-  "slug": "low-cost-cofactors-for-vitamin-d",
-  "aliases": [
-    "/Low+cost+cofactors+for+vitamin+D",
-    "/1270"
-  ],
-  "tiki_page_id": 1270,
-  "date": "2010-12-30",
-  "categories": [
-    "Vitamin D and Calcium",
-    "Vitamin D and Magnesium",
-    "Top news",
-    "Vitamin D and Vitamin K",
-    "Vitamin D and Vitamin A",
-    "Vitamin D and Boron",
-    "Vitamin D and Omega-3",
-    "Vitamin D and Iron",
-    "Zinc"
-  ]
+    "title": "Low cost cofactors for vitamin D",
+    "slug": "low-cost-cofactors-for-vitamin-d",
+    "aliases": [
+        "/Low+cost+cofactors+for+vitamin+D",
+        "/1270"
+    ],
+    "tiki_page_id": 1270,
+    "date": "2010-12-30",
+    "categories": [
+        "Vitamin D and Calcium",
+        "Vitamin D and Magnesium",
+        "Top news",
+        "Vitamin D and Vitamin K",
+        "Vitamin D and Vitamin A",
+        "Vitamin D and Boron",
+        "Vitamin D and Omega-3",
+        "Vitamin D and Iron",
+        "Zinc"
+    ],
+    "tags": [
+        "Top news",
+        "Vitamin D and Boron",
+        "Vitamin D and Calcium",
+        "Vitamin D and Iron",
+        "Vitamin D and Magnesium",
+        "Vitamin D and Omega-3",
+        "Vitamin D and Vitamin A",
+        "Vitamin D and Vitamin K",
+        "Zinc",
+        "dosage",
+        "genetics",
+        "high dose",
+        "iodine",
+        "magnesium",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "mononucleosis",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "omega 3 and viruses",
+        "pregnancy",
+        "therapeutic intervention",
+        "virus",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d receptor",
+        "vitamin k",
+        "vitamin k and viruses",
+        "zinc",
+        "zinc and viruses"
+    ]
 }
 
 
@@ -64,7 +98,7 @@ per day
 <a href="/posts/silica" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1506">Silica</a>| ?  |   Yes  |  | Daily - Horsetail - buy in bulk  
 Include in morning cereal |1 ¢ 
 
-<a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>|1 g or   
+[Omega-3](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)|1 g or   
 1 Vectomega tablet|By increasing   
 Vitamin D| <a href="/posts/helps-health-a-lot" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3467">helps health A LOT</a>  
 <a href="/posts/may-increase-active-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3171">May increase active D</a> |<a href="/posts/i-use-vectomega-brand-of-omega-3-admin-of-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: I use Vectomega brand of Omega-3 – Admin of VitaminDWiki, May 2014">1 Vectomega daily</a> - VERY bioavailable|75 ¢ 

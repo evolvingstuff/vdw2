@@ -1,13 +1,20 @@
 {
-  "title": "Wonder about conflict of interest of IoM panel members",
-  "slug": "wonder-about-conflict-of-interest-of-iom-panel-members",
-  "aliases": [
-    "/Wonder+about+conflict+of+interest+of+IoM+panel+members",
-    "/1198"
-  ],
-  "tiki_page_id": 1198,
-  "date": "2010-12-03"
+    "title": "Wonder about conflict of interest of IoM panel members",
+    "slug": "wonder-about-conflict-of-interest-of-iom-panel-members",
+    "aliases": [
+        "/Wonder+about+conflict+of+interest+of+IoM+panel+members",
+        "/1198"
+    ],
+    "tiki_page_id": 1198,
+    "date": "2010-12-03",
+    "tags": [
+        "bone",
+        "child",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
+
 
 There are so many things wrong with the IoM report.  <a href="/posts/click-here-for-some" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">CLICK HERE for some</a>
 

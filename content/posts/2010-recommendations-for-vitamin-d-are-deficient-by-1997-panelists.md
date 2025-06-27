@@ -1,15 +1,26 @@
 {
-  "title": "2010 recommendations for Vitamin D are Deficient \u2013 by 1997 panelists",
-  "slug": "2010-recommendations-for-vitamin-d-are-deficient-by-1997-panelists",
-  "aliases": [
-    "/2010+recommendations+for+Vitamin+D+are+Deficient+\u2013+by+1997+panelists",
-    "/1330"
-  ],
-  "tiki_page_id": 1330,
-  "date": "2011-01-20",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "2010 recommendations for Vitamin D are Deficient \u2013 by 1997 panelists",
+    "slug": "2010-recommendations-for-vitamin-d-are-deficient-by-1997-panelists",
+    "aliases": [
+        "/2010+recommendations+for+Vitamin+D+are+Deficient+\u2013+by+1997+panelists",
+        "/1330"
+    ],
+    "tiki_page_id": 1330,
+    "date": "2011-01-20",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "blood levels",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -84,4 +95,3 @@ In this Perspective we have deliberately avoided a mind-numbing laundry list of 
 13. Armas LAG, Dowell S, Akhter M, et al. Ultraviolet-B radiation increases serum 25- hydroxyvitamin D levels: the effect of UVB dose and skin color. J Am Acad Dermatol 2007;57:588-893.
 
 14. Hill AB. The environment and disease: association or causation? Proc R Soc Med 1965;58:295-300.
-

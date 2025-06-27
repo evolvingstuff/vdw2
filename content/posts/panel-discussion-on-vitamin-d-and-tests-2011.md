@@ -1,16 +1,25 @@
 {
-  "title": "Panel Discussion on Vitamin D and Tests - 2011",
-  "slug": "panel-discussion-on-vitamin-d-and-tests-2011",
-  "aliases": [
-    "/Panel+Discussion+on+Vitamin+D+and+Tests+-+2011",
-    "/1961"
-  ],
-  "tiki_page_id": 1961,
-  "date": "2011-08-27",
-  "categories": [
-    "Tests for Vitamin D",
-    "Overview for doctors"
-  ]
+    "title": "Panel Discussion on Vitamin D and Tests - 2011",
+    "slug": "panel-discussion-on-vitamin-d-and-tests-2011",
+    "aliases": [
+        "/Panel+Discussion+on+Vitamin+D+and+Tests+-+2011",
+        "/1961"
+    ],
+    "tiki_page_id": 1961,
+    "date": "2011-08-27",
+    "categories": [
+        "Tests for Vitamin D",
+        "Overview for doctors"
+    ],
+    "tags": [
+        "Overview for doctors",
+        "Tests for Vitamin D",
+        "bone",
+        "genetics",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -59,4 +68,3 @@ What are the mechanisms controlling 1,25-OHD production outside the kidney?
 Is there a role for determining polymorphisms in the vitamin D receptor (VDR)?
 
 In an era of shrinking resources in healthcare and given the existing clinical and population studies, do you support the measurement of vitamin D in general practice in subjects with no clinical signs or suspicion of bone disease?
-

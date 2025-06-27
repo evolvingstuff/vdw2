@@ -1,16 +1,33 @@
 {
-  "title": "Diseases of obesity strongly associated with vitamin D deficiency in ethnic minorities",
-  "slug": "diseases-of-obesity-strongly-associated-with-vitamin-d-deficiency-in-ethnic-minorities",
-  "aliases": [
-    "/Diseases+of+obesity+strongly+associated+with+vitamin+D+deficiency+in+ethnic+minorities+\u2013+Sept+2011",
-    "/2149"
-  ],
-  "tiki_page_id": 2149,
-  "date": "2011-11-04",
-  "categories": [
-    "Skin - Dark",
-    "Deficiency of Vitamin D"
-  ]
+    "title": "Diseases of obesity strongly associated with vitamin D deficiency in ethnic minorities",
+    "slug": "diseases-of-obesity-strongly-associated-with-vitamin-d-deficiency-in-ethnic-minorities",
+    "aliases": [
+        "/Diseases+of+obesity+strongly+associated+with+vitamin+D+deficiency+in+ethnic+minorities+\u2013+Sept+2011",
+        "/2149"
+    ],
+    "tiki_page_id": 2149,
+    "date": "2011-11-04",
+    "categories": [
+        "Skin - Dark",
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Skin - Dark",
+        "blood levels",
+        "child",
+        "childhood obesity",
+        "diabetes",
+        "health risk",
+        "life span",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mortality",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -97,4 +114,3 @@ Ethnic adults 45%, White adults 17%
 ### Median East Asian = 9 ng  &nbsp; &nbsp;Median British = 19 ng
 
 ### Note:patients with the lowest level of vitamin D in their blood are on the right
-

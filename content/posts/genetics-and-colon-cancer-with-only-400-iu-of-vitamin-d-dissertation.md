@@ -1,16 +1,31 @@
 {
-  "title": "Genetics and colon cancer with only 400 IU of vitamin D \u2013 Dissertation",
-  "slug": "genetics-and-colon-cancer-with-only-400-iu-of-vitamin-d-dissertation",
-  "aliases": [
-    "/Genetics+and+colon+cancer+with+only+400+IU+of+vitamin+D+\u2013+Dissertation+Jan+2011",
-    "/1693"
-  ],
-  "tiki_page_id": 1693,
-  "date": "2011-06-02",
-  "categories": [
-    "Cancer - Colon"
-  ]
+    "title": "Genetics and colon cancer with only 400 IU of vitamin D \u2013 Dissertation",
+    "slug": "genetics-and-colon-cancer-with-only-400-iu-of-vitamin-d-dissertation",
+    "aliases": [
+        "/Genetics+and+colon+cancer+with+only+400+IU+of+vitamin+D+\u2013+Dissertation+Jan+2011",
+        "/1693"
+    ],
+    "tiki_page_id": 1693,
+    "date": "2011-06-02",
+    "categories": [
+        "Cancer - Colon"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "IBD",
+        "blood levels",
+        "cancer",
+        "cancer in VDR",
+        "colon cancer",
+        "dosage",
+        "genetics",
+        "gut",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 
@@ -51,4 +66,3 @@ Conclusion. The results demonstrate that daily 400 IU OTC cholecalciferol is suf
 * <a href="/posts/colon-cancer-vs-latitude" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 64">Colon Cancer vs latitude</a> from Gapminder
 
 * <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
-

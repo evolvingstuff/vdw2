@@ -1,15 +1,24 @@
 {
-  "title": "COPD and vitamin D in a vicious circle",
-  "slug": "copd-and-vitamin-d-in-a-vicious-circle",
-  "aliases": [
-    "/COPD+and+vitamin+D+in+a+vicious+circle+\u2013+April+2011",
-    "/1563"
-  ],
-  "tiki_page_id": 1563,
-  "date": "2011-04-03",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "COPD and vitamin D in a vicious circle",
+    "slug": "copd-and-vitamin-d-in-a-vicious-circle",
+    "aliases": [
+        "/COPD+and+vitamin+D+in+a+vicious+circle+\u2013+April+2011",
+        "/1563"
+    ],
+    "tiki_page_id": 1563,
+    "date": "2011-04-03",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,22 +1,76 @@
 {
-  "title": "Sepsis is both prevented and treated by Vitamin D - many studies",
-  "slug": "sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies",
-  "aliases": [
-    "/Sepsis+is+both+prevented+and+treated+by+Vitamin+D+-+many+studies",
-    "/1855"
-  ],
-  "tiki_page_id": 1855,
-  "date": "2011-07-23",
-  "categories": [
-    "Breathing",
-    "Trauma and surgery",
-    "Cost savings with Vitamin D",
-    "Intervention",
-    "Infant-Child",
-    "Inflammation",
-    "AI"
-  ]
+    "title": "Sepsis is both prevented and treated by Vitamin D - many studies",
+    "slug": "sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies",
+    "aliases": [
+        "/Sepsis+is+both+prevented+and+treated+by+Vitamin+D+-+many+studies",
+        "/1855"
+    ],
+    "tiki_page_id": 1855,
+    "date": "2011-07-23",
+    "categories": [
+        "Breathing",
+        "Trauma and surgery",
+        "Cost savings with Vitamin D",
+        "Intervention",
+        "Infant-Child",
+        "Inflammation",
+        "AI"
+    ],
+    "tags": [
+        "AI",
+        "Breathing",
+        "Cost savings with Vitamin D",
+        "Infant-Child",
+        "Inflammation",
+        "Intervention",
+        "Trauma and surgery",
+        "antibiotics",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "dosage",
+        "genetics",
+        "high dose",
+        "immunity",
+        "influenza",
+        "intervention",
+        "life span",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "masks",
+        "mortality",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "omega 3 and viruses",
+        "pediatric autoimmune",
+        "pregnancy",
+        "probiotics",
+        "sepsis",
+        "statins",
+        "therapeutic intervention",
+        "trauma surgery",
+        "virus",
+        "virus and cardiovascular",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "zinc",
+        "zinc and viruses"
+    ]
 }
+
 
 {{< toc >}}
 

@@ -1,15 +1,23 @@
 {
-  "title": "IBD and Crohn but not Colitis associated with low vitamin D",
-  "slug": "ibd-and-crohn-but-not-colitis-associated-with-low-vitamin-d",
-  "aliases": [
-    "/IBD+and+Crohn+but+not+Colitis+associated+with+low+vitamin+D+\u2013+May+2011",
-    "/1621"
-  ],
-  "tiki_page_id": 1621,
-  "date": "2011-05-12",
-  "categories": [
-    "Gut"
-  ]
+    "title": "IBD and Crohn but not Colitis associated with low vitamin D",
+    "slug": "ibd-and-crohn-but-not-colitis-associated-with-low-vitamin-d",
+    "aliases": [
+        "/IBD+and+Crohn+but+not+Colitis+associated+with+low+vitamin+D+\u2013+May+2011",
+        "/1621"
+    ],
+    "tiki_page_id": 1621,
+    "date": "2011-05-12",
+    "categories": [
+        "Gut"
+    ],
+    "tags": [
+        "Gut",
+        "IBD",
+        "crohns",
+        "gut",
+        "ulcerative colitis",
+        "vitamin d"
+    ]
 }
 
 
@@ -39,6 +47,6 @@ PMID:     21527593
 
 # See also VitaminDWiki
 
-* <a href="/posts/about-40-percent-more-likely-to-get-crohns-disease-or-uc-if-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2713">About 40 percent more likely to get Crohn’s Disease or UC if have low vitamin D – March 2012</a> update by same lead author
+* [About 40 percent more likely to get Crohn’s Disease or UC if have low vitamin D – March 2012](/posts/about-40-percent-more-likely-to-get-crohns-disease-or-uc-if-have-low-vitamin-d) update by same lead author
 
-* <a href="/posts/vitamin-d-as-a-therapy-for-colitis-a-systematic-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2807">Vitamin D as a therapy for colitis: A systematic review – May 2012</a>
+* [Vitamin D as a therapy for colitis: A systematic review – May 2012](/posts/vitamin-d-as-a-therapy-for-colitis-a-systematic-review)

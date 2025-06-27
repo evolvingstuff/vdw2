@@ -1,16 +1,64 @@
 {
-  "title": "Vitamin D and Chronic Kidney Disease",
-  "slug": "vitamin-d-and-chronic-kidney-disease",
-  "aliases": [
-    "/Vitamin+D+and+Chronic+Kidney+Disease+\u2013+Aug+2011",
-    "/1979"
-  ],
-  "tiki_page_id": 1979,
-  "date": "2011-09-02",
-  "categories": [
-    "Kidney",
-    "Vit D Binding Protein"
-  ]
+    "title": "Vitamin D and Chronic Kidney Disease",
+    "slug": "vitamin-d-and-chronic-kidney-disease",
+    "aliases": [
+        "/Vitamin+D+and+Chronic+Kidney+Disease+\u2013+Aug+2011",
+        "/1979"
+    ],
+    "tiki_page_id": 1979,
+    "date": "2011-09-02",
+    "categories": [
+        "Kidney",
+        "Vit D Binding Protein"
+    ],
+    "tags": [
+        "CKD",
+        "Kidney",
+        "Vit D Binding Protein",
+        "autoimmune",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "breast cancer",
+        "cancer",
+        "cancer in VDR",
+        "cancers after vaccination",
+        "cardiovascular",
+        "chronic fatigue",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dialysis",
+        "falls fractures",
+        "genetics",
+        "heart failure",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "influenza",
+        "intervention",
+        "kidney",
+        "life span",
+        "lupus",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "neurological",
+        "prostate cancer",
+        "psoriasis",
+        "sepsis",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "vaccination",
+        "virus",
+        "virus and cardiovascular",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -63,4 +111,3 @@ Inflammation-associated macrophage activation is the principal macrophage activa
 Consequently, MAF precursor activity and serum nagalase activity have been used as diagnostic indices for a variety of cancer patients and as prognostic indices during radiation therapy, surgical resection of tumours and GcMAF therapy of tumour-bearing mice.29 However, there are no data on serum nagalase activity in CKD and this lack of data opens an entire field of future research focusing on the intricate relationship between immune system function and CKD. In fact, externally administered GcMAF was quite efficient in restoring a deficient immune system and this property awaits study by researchers in nephrology. It could be argued that elevated serum nagalase will degrade also externally administered GcMAF, but it was demonstrated that serum nagalase has no effect on GcMAF because serum nagalase acts an endo-nagalase and not as an exoenzyme: i.e. it is unable to deglycosylate a monosaccharide, N-acetylgalactosamine (GalNAc), of GcMAF. Thus, when GcMAF was added to cancer patient serum containing high nagalase activity and incubated for four hours at 37ºC, the potency of GcMAF activity did not decrease.32 Consequently, administration of 100ng of GcMAF per human resulted in the maximal level of macrophage activation; the macrophages develop an enormous variation of receptors that recognise abnormality in the malignant cell surface and kill cancerous cells as well as HIV-infected cells. The therapeutic potential of GcMAF has been validated in patients with metastatic breast cancer,29 metastatic colorectal cancer33 and prostate cancer,34 as well as in HIV-infected patients.30 Studies are under way to assess its efficacy in other types of cancer as well as in pathologies as diverse as psoriasis, chronic fatigue syndrome and systemic lupus erythematosus.
 
 Little is known so far about GcMAF intracellular signalling and GcMAF–vitamin D interactions at the cellular/molecular level. There is indirect evidence suggesting interaction of GcMAF with a C-type lectin receptor on the macrophage surface,35 and a preliminary report approved for public release by the US Army Medical Research and Materiel Command states that GcMAF blocked the phosphorylation of a band with the approximate molecular weight of 75kDa in prostate cancer cell lines.36 We recently demonstrated that the F and b alleles of the polymorphic VDR gene were associated with the highest response (in terms of cyclic adenosine monophosphate (cAMP) formation and proliferation) to 100pg of GcMAF per millilitre in human peripheral blood mononuclear cells (PBMC).
-

@@ -1,16 +1,37 @@
 {
-  "title": "Strong association of non alcoholic fatty liver disease and low vitamin D",
-  "slug": "strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d",
-  "aliases": [
-    "/Strong+association+of+non+alcoholic+fatty+liver+disease+and+low+vitamin+D",
-    "/1835"
-  ],
-  "tiki_page_id": 1835,
-  "date": "2011-07-15",
-  "categories": [
-    "Liver",
-    "Top news"
-  ]
+    "title": "Strong association of non alcoholic fatty liver disease and low vitamin D",
+    "slug": "strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d",
+    "aliases": [
+        "/Strong+association+of+non+alcoholic+fatty+liver+disease+and+low+vitamin+D",
+        "/1835"
+    ],
+    "tiki_page_id": 1835,
+    "date": "2011-07-15",
+    "categories": [
+        "Liver",
+        "Top news"
+    ],
+    "tags": [
+        "Liver",
+        "NAFLD",
+        "Top news",
+        "alcohol",
+        "blood levels",
+        "cholesterol",
+        "diabetes",
+        "dosage",
+        "health risk",
+        "hypertension",
+        "liver",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "obesity",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test",
+        "weight loss"
+    ]
 }
 
 
@@ -311,5 +332,4 @@ PMID: 27044765
 
  **The Role of Vitamins in Non-Alcoholic Fatty Liver Disease: A Systematic Review** 
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamins-and-nafld.pdf">Download the PDF from VitaminDWiki</a>** 
-
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamins-and-nafld.pdf">Download the PDF from VitaminDWiki</a>**

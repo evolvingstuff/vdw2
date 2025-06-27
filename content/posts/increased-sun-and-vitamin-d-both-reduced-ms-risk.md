@@ -1,15 +1,26 @@
 {
-  "title": "Increased sun and vitamin D both reduced MS risk",
-  "slug": "increased-sun-and-vitamin-d-both-reduced-ms-risk",
-  "aliases": [
-    "/Increased+sun+and+vitamin+D+both+reduced+MS+risk+\u2013+March+2011",
-    "/1481"
-  ],
-  "tiki_page_id": 1481,
-  "date": "2011-03-13",
-  "categories": [
-    "Multiple Sclerosis"
-  ]
+    "title": "Increased sun and vitamin D both reduced MS risk",
+    "slug": "increased-sun-and-vitamin-d-both-reduced-ms-risk",
+    "aliases": [
+        "/Increased+sun+and+vitamin+D+both+reduced+MS+risk+\u2013+March+2011",
+        "/1481"
+    ],
+    "tiki_page_id": 1481,
+    "date": "2011-03-13",
+    "categories": [
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "autoimmune",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -79,4 +90,3 @@ PPMS:           primary progressive multiple sclerosis
 * 30% less likely to get MS for UV increase of 1000 kJ/m2
 
 * 7% less likely to get MS for each 4 ng increase in vitamin D level in blood
-

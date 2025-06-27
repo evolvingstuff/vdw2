@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Stiff arteries in seniors associated with low vitamin D levels</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Stiff arteries in seniors associated with low vitamin D levels</h1><time>July 6, 2012</time><div data-pagefind-body><h4 id=arterial-stiffness-and-vitamin-d-levels-the-baltimore-longitudinal-study-of-aging>Arterial Stiffness and Vitamin D Levels: the Baltimore Longitudinal Study of Aging</h4><p>The Journal of Clinical Endocrinology & Metabolism July 5, 2012 jc.2012-1584</p><p>Francesco Giallauria <a href=mailto:giallauriaf@mail.nih.gov>giallauriaf@mail.nih.gov</a>, Yuri Milaneschi, Toshiko Tanaka, Marcello Maggio, Marco Canepa, Palchamy Elango, Carlo Vigorito, Edward G. Lakatta, Luigi Ferrucci and James Strait</p><p>Longitudinal Studies Section (F.G., Y.M., T.T., P.E., L.F.), Clinical Research Branch, National Institute on Aging, Baltimore, Maryland 21225; Department of Clinical Medicine (F.G., C.V.), Cardiovascular and Immunological Sciences, University of Naples “Federico II”, 80131 Naples, Italy; Department of Psychiatry (Y.M.), VU University Medical Center/GGZ inGeest, 1081 HZ Amsterdam, The Netherlands; Department of Internal Medicine and Biomedical Sciences (M.M.), Section of Geriatrics, University of Parma, 43100 Parma, Italy; Laboratory of Cardiovascular Science (M.C., E.G.L., J.S.), National Institute on Aging, Baltimore, Maryland 21225</p><p>Context: The importance of vitamin D for bone health has long been acknowledged. Recent evidence suggests that vitamin D can also play a role in reducing the risk of several other diseases, including cardiovascular disease.</p><p>Objective: The aim of this study is to test the hypothesis that 25-hydroxyvitamin D (25-OH D) is an independent cross-sectional correlate of central arterial stiffness in a normative aging study population.</p><p>Design and Settings: We conducted a cross-sectional analysis.</p><p>Subjects: We studied 1228 healthy volunteers (50% males; age, 70 ± 12 yr) of the Baltimore Longitudinal Study of Aging.</p><p>Main Outcome Measures: We measured carotid-femoral pulse wave velocity (PWV) and 25-OH D levels.</p><p>Results: We found a significant inverse association between PWV and 25-OH D levels (adjusted r2 = 0.27; ? = ?0.43; P = 0.001).</p><p>After adjusting for age, gender, ethnicity, season of blood draw, estimated glomerular filtration rate, physical activity level, cardiovascular risk factors score (smoking, visceral obesity, hypercholesterolemia, hypertension, and diabetes), calcium/vitamin D supplementation, serum calcium, and PTH levels, the association between PWV and 25-OH D levels <strong>was only slightly reduced</strong> and remained statistically significant (adjusted r2 = 0.34; ? = ?0.34; P = 0.04).</p><p>Conclusions: Vitamin D levels are inversely associated with increased arterial stiffness in a normative aging population, irrespective of traditional risk factor burden. Further research is needed to understand the mechanism of this association and to test the hypothesis that vitamin D supplementation can reduce arterial stiffness.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>Cardiovascular</span>
+<span class=tag>diabetes</span>
+<span class=tag>health risk</span>
+<span class=tag>hypertension</span>
+<span class=tag>metabolic</span>
+<span class=tag>obesity</span>
+<span class=tag>smoking</span>
+<span class=tag>vitamin d</span>
+<span class=tag>Vitamin D and Calcium</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>Cardiovascular, diabetes, health risk, hypertension, metabolic, obesity, smoking, vitamin d, Vitamin D and Calcium, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

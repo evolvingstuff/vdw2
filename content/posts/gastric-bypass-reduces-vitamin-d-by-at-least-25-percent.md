@@ -1,15 +1,22 @@
 {
-  "title": "Gastric bypass reduces vitamin D by at least 25 percent",
-  "slug": "gastric-bypass-reduces-vitamin-d-by-at-least-25-percent",
-  "aliases": [
-    "/Gastric+bypass+reduces+vitamin+D+by+at+least+25+percent+\u2013+Feb+2011",
-    "/1430"
-  ],
-  "tiki_page_id": 1430,
-  "date": "2011-02-23",
-  "categories": [
-    "Gut"
-  ]
+    "title": "Gastric bypass reduces vitamin D by at least 25 percent",
+    "slug": "gastric-bypass-reduces-vitamin-d-by-at-least-25-percent",
+    "aliases": [
+        "/Gastric+bypass+reduces+vitamin+D+by+at+least+25+percent+\u2013+Feb+2011",
+        "/1430"
+    ],
+    "tiki_page_id": 1430,
+    "date": "2011-02-23",
+    "categories": [
+        "Gut"
+    ],
+    "tags": [
+        "Gut",
+        "dosage",
+        "health risk",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 

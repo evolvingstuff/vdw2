@@ -1,16 +1,24 @@
 {
-  "title": "Black veterans have worse health and low vitamin D, yet are not tested as much",
-  "slug": "black-veterans-have-worse-health-and-low-vitamin-d-yet-are-not-tested-as-much",
-  "aliases": [
-    "/Black+veterans+have+worse+health+and+low+vitamin+D+yet+are+not+tested+as+much+\u2013+June+2011",
-    "/2060"
-  ],
-  "tiki_page_id": 2060,
-  "date": "2011-10-02",
-  "categories": [
-    "Skin - Dark",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "Black veterans have worse health and low vitamin D, yet are not tested as much",
+    "slug": "black-veterans-have-worse-health-and-low-vitamin-d-yet-are-not-tested-as-much",
+    "aliases": [
+        "/Black+veterans+have+worse+health+and+low+vitamin+D+yet+are+not+tested+as+much+\u2013+June+2011",
+        "/2060"
+    ],
+    "tiki_page_id": 2060,
+    "date": "2011-10-02",
+    "categories": [
+        "Skin - Dark",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Skin - Dark",
+        "health risk",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -44,7 +52,7 @@ While follow-up testing was 42% more likely if a patient was found to be vitamin
 
 * [Vitamin D might reduce military costs for UC and CD – June 2011](/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd) some of the same authors
 
-* <a href="/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2305">VA found less testing for vitamin D resulted in increased health costs – Jan 2012</a>
+* [VA found less testing for vitamin D resulted in increased health costs – Jan 2012](/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs)
 
 * <a href="/posts/dark-skin-associated-with-low-vitamin-d-and-obesity-related-diseases" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2419">Dark skin associated with low vitamin D and obesity-related diseases – Sept 2011</a>
 
@@ -52,11 +60,10 @@ While follow-up testing was 42% more likely if a patient was found to be vitamin
 
 * [All items in category Skin color and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc) 187 items as of Feb 2012
 
-* <a href="/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2200">Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011</a>
+* [Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011](/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d)
 
 * <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a>
 
 * [Race vs vitamin D level - Veith May 2011](/posts/race-vs-vitamin-d-level-veith)
 
 * <a href="/posts/veterans-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Veterans and Vitamin D - many studies">Veterans and Vitamin D - many studies</a>
-

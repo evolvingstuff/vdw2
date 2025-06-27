@@ -1,15 +1,24 @@
 {
-  "title": "Vitamin D3 Is 1.9X better than D2",
-  "slug": "vitamin-d3-is-19x-better-than-d2",
-  "aliases": [
-    "/Vitamin+D3+Is+19X+better+than+D2+\u2013+Dec+2010",
-    "/1255"
-  ],
-  "tiki_page_id": 1255,
-  "date": "2010-12-24",
-  "categories": [
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Vitamin D3 Is 1.9X better than D2",
+    "slug": "vitamin-d3-is-19x-better-than-d2",
+    "aliases": [
+        "/Vitamin+D3+Is+19X+better+than+D2+\u2013+Dec+2010",
+        "/1255"
+    ],
+    "tiki_page_id": 1255,
+    "date": "2010-12-24",
+    "categories": [
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "bone",
+        "dosage",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -42,4 +51,3 @@ Conclusion: D3 is approximately 87% more potent in raising and maintaining serum
 - - - - - 
 
 # See also VitaminDWiki [D3 vs D2 category](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=51&sort_mode=created_desc)
-

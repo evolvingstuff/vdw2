@@ -1,16 +1,25 @@
 {
-  "title": "Low Vitamin D in Malay women \u2013less time in sun \u2013sun screen -obesity",
-  "slug": "low-vitamin-d-in-malay-women-less-time-in-sun-sun-screen-obesity",
-  "aliases": [
-    "/Low+Vitamin+D+in+Malay+women+\u2013less+time+in+sun+\u2013sun+screen+-obesity+\u2013+May+2011",
-    "/1713"
-  ],
-  "tiki_page_id": 1713,
-  "date": "2011-06-09",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Low Vitamin D in Malay women \u2013less time in sun \u2013sun screen -obesity",
+    "slug": "low-vitamin-d-in-malay-women-less-time-in-sun-sun-screen-obesity",
+    "aliases": [
+        "/Low+Vitamin+D+in+Malay+women+\u2013less+time+in+sun+\u2013sun+screen+-obesity+\u2013+May+2011",
+        "/1713"
+    ],
+    "tiki_page_id": 1713,
+    "date": "2011-06-09",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "blood levels",
+        "health risk",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -51,4 +60,3 @@ PMID:     21636288
 – – – – – – 
 
 ## Suspect that “free living” means the people were not in institutions, and not that they were in villages, away from Air Conditioning, etc.
-

@@ -1,16 +1,35 @@
 {
-  "title": "Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution",
-  "slug": "concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution",
-  "aliases": [
-    "/Concussions+traumatic+brain+injury+getting+big+press+coverage+vitamin+D+might+be+both+a+cause+and+a+solution",
-    "/2072"
-  ],
-  "tiki_page_id": 2072,
-  "date": "2011-10-07",
-  "categories": [
-    "Sports and Vitamin D",
-    "Cognitive"
-  ]
+    "title": "Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution",
+    "slug": "concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution",
+    "aliases": [
+        "/Concussions+traumatic+brain+injury+getting+big+press+coverage+vitamin+D+might+be+both+a+cause+and+a+solution",
+        "/2072"
+    ],
+    "tiki_page_id": 2072,
+    "date": "2011-10-07",
+    "categories": [
+        "Sports and Vitamin D",
+        "Cognitive"
+    ],
+    "tags": [
+        "Cognitive",
+        "Sports and Vitamin D",
+        "TBI",
+        "anxiety",
+        "bone",
+        "brain",
+        "child",
+        "cognitive",
+        "concussions",
+        "dementia",
+        "falls fractures",
+        "headache",
+        "mood disorders",
+        "omega 3",
+        "pain",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 

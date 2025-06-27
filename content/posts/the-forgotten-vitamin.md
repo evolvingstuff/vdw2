@@ -1,15 +1,28 @@
 {
-  "title": "The forgotten vitamin",
-  "slug": "the-forgotten-vitamin",
-  "aliases": [
-    "/The+forgotten+vitamin",
-    "/1585"
-  ],
-  "tiki_page_id": 1585,
-  "date": "2011-04-22"
+    "title": "The forgotten vitamin",
+    "slug": "the-forgotten-vitamin",
+    "aliases": [
+        "/The+forgotten+vitamin",
+        "/1585"
+    ],
+    "tiki_page_id": 1585,
+    "date": "2011-04-22",
+    "tags": [
+        "bone",
+        "bone cancer",
+        "cancer",
+        "diabetes",
+        "influenza",
+        "metabolic",
+        "rickets",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
- **** The forgotten vitamin. **** 
+
+**** The forgotten vitamin. **** 
 
 A talk by Oliver Gillie on Vitamin D.
 
@@ -34,4 +47,3 @@ He has lobbied governments and organisations such as Cancer Research to change t
 This talk is free though seats will be limited. If you wish to come please call 07779 713 158 or
 
 07855 384 123 to be sure of securing a seat. Or just turn up...if seats are available you will get in.
-

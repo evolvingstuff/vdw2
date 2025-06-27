@@ -1,15 +1,24 @@
 {
-  "title": "Births during times of little sun associated with increased hypertension",
-  "slug": "births-during-times-of-little-sun-associated-with-increased-hypertension",
-  "aliases": [
-    "/Births+during+times+of+little+sun+associated+with+increased+hypertension+\u2013+April+2011",
-    "/1590"
-  ],
-  "tiki_page_id": 1590,
-  "date": "2011-05-01",
-  "categories": [
-    "Hypertension"
-  ]
+    "title": "Births during times of little sun associated with increased hypertension",
+    "slug": "births-during-times-of-little-sun-associated-with-increased-hypertension",
+    "aliases": [
+        "/Births+during+times+of+little+sun+associated+with+increased+hypertension+\u2013+April+2011",
+        "/1590"
+    ],
+    "tiki_page_id": 1590,
+    "date": "2011-05-01",
+    "categories": [
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "asthma",
+        "breathing",
+        "hypertension",
+        "preeclampsia",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 

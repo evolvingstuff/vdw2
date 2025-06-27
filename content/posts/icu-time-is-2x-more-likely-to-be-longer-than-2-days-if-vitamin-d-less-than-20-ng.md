@@ -1,16 +1,25 @@
 {
-  "title": "ICU time is 2X more likely to be longer than 2 days if vitamin D less than 20 ng",
-  "slug": "icu-time-is-2x-more-likely-to-be-longer-than-2-days-if-vitamin-d-less-than-20-ng",
-  "aliases": [
-    "/ICU+time+is+2X+more+likely+to+be+longer+than+2+days+if+vitamin+D+less+than+20+ng+\u2013+Mar+2011",
-    "/1428"
-  ],
-  "tiki_page_id": 1428,
-  "date": "2011-02-22",
-  "categories": [
-    "Trauma and surgery",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "ICU time is 2X more likely to be longer than 2 days if vitamin D less than 20 ng",
+    "slug": "icu-time-is-2x-more-likely-to-be-longer-than-2-days-if-vitamin-d-less-than-20-ng",
+    "aliases": [
+        "/ICU+time+is+2X+more+likely+to+be+longer+than+2+days+if+vitamin+D+less+than+20+ng+\u2013+Mar+2011",
+        "/1428"
+    ],
+    "tiki_page_id": 1428,
+    "date": "2011-02-22",
+    "categories": [
+        "Trauma and surgery",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Trauma and surgery",
+        "blood levels",
+        "sepsis",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -46,4 +55,4 @@ We recommend that 25(OH)D levels be routinely checked and deficiencies treated i
 
 Copyright © 2011 American Medical Directors Association. Published by Elsevier Inc. All rights reserved. PMID: 21333923 
 
- **If registered (free) <span>[tiki-download_file.php?fileId=2002]</span> for PDF** 
+ **If registered (free) <span>[tiki-download_file.php?fileId=2002]</span> for PDF**

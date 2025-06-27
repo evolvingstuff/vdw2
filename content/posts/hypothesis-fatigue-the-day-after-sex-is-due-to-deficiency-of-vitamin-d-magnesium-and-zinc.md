@@ -1,17 +1,41 @@
 {
-  "title": "Hypothesis \u2013 Fatigue the day after sex is due to deficiency of Vitamin D, Magnesium, and Zinc",
-  "slug": "hypothesis-fatigue-the-day-after-sex-is-due-to-deficiency-of-vitamin-d-magnesium-and-zinc",
-  "aliases": [
-    "/Hypothesis+\u2013+Fatigue+the+day+after+sex+is+due+to+deficiency+of+Vitamin+D+Magnesium+and+Zinc",
-    "/1723"
-  ],
-  "tiki_page_id": 1723,
-  "date": "2011-06-12",
-  "categories": [
-    "Vitamin D and Magnesium",
-    "Fertility and sperm",
-    "Zinc"
-  ]
+    "title": "Hypothesis \u2013 Fatigue the day after sex is due to deficiency of Vitamin D, Magnesium, and Zinc",
+    "slug": "hypothesis-fatigue-the-day-after-sex-is-due-to-deficiency-of-vitamin-d-magnesium-and-zinc",
+    "aliases": [
+        "/Hypothesis+\u2013+Fatigue+the+day+after+sex+is+due+to+deficiency+of+Vitamin+D+Magnesium+and+Zinc",
+        "/1723"
+    ],
+    "tiki_page_id": 1723,
+    "date": "2011-06-12",
+    "categories": [
+        "Vitamin D and Magnesium",
+        "Fertility and sperm",
+        "Zinc"
+    ],
+    "tags": [
+        "Fertility and sperm",
+        "Vitamin D and Magnesium",
+        "Zinc",
+        "atherosclerosis",
+        "cardiovascular",
+        "depression",
+        "depression and pregnancy",
+        "diabetes",
+        "dosage",
+        "fertility sperm",
+        "health risk",
+        "heart failure",
+        "magnesium",
+        "magnesium and pregnancy",
+        "metabolic",
+        "mood disorders",
+        "obesity",
+        "pregnancy",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test",
+        "zinc"
+    ]
 }
 
 
@@ -71,7 +95,7 @@ Many risk factors which were listed above are associated with low vitamin D
 
 * [More vitamin D associated with better sperm – May 2011](/posts/more-vitamin-d-associated-with-better-sperm)
 
-* <a href="/posts/hypothesis-increased-vitamin-d-will-increase-erections-and-decrease-cvd" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2934">Hypothesis: increased vitamin D will increase erections and decrease CVD – June 2012</a> by Dr.  **<span style="color:#00F;">Sorenson</span>**  (above) and Dr. Grant
+* [Hypothesis: increased vitamin D will increase erections and decrease CVD – June 2012](/posts/hypothesis-increased-vitamin-d-will-increase-erections-and-decrease-cvd) by Dr.  **<span style="color:#00F;">Sorenson</span>**  (above) and Dr. Grant
 
 ### PubMed Search for ("vitamin D" (testosterone OR androgen))   
  got 1071 items Jan 2016

@@ -1,20 +1,46 @@
 {
-  "title": "Pneumonia and low vitamin D - many studies",
-  "slug": "pneumonia-and-low-vitamin-d-many-studies",
-  "aliases": [
-    "/Pneumonia+and+low+vitamin+D+-+many+studies",
-    "/1324"
-  ],
-  "tiki_page_id": 1324,
-  "date": "2011-01-19",
-  "categories": [
-    "Seniors",
-    "Breathing",
-    "Infant-Child"
-  ]
+    "title": "Pneumonia and low vitamin D - many studies",
+    "slug": "pneumonia-and-low-vitamin-d-many-studies",
+    "aliases": [
+        "/Pneumonia+and+low+vitamin+D+-+many+studies",
+        "/1324"
+    ],
+    "tiki_page_id": 1324,
+    "date": "2011-01-19",
+    "categories": [
+        "Seniors",
+        "Breathing",
+        "Infant-Child"
+    ],
+    "tags": [
+        "Breathing",
+        "Infant-Child",
+        "Seniors",
+        "antibiotics",
+        "bacteria",
+        "blood levels",
+        "breathing",
+        "child",
+        "childhood pneumonia",
+        "childhood viruses",
+        "dosage",
+        "genetics",
+        "immunity",
+        "influenza",
+        "life span",
+        "mortality",
+        "pneumonia",
+        "virus",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
- **Pneumonia Risk, intensity, and mortality are all associated with low vitamin D** 
+
+**Pneumonia Risk, intensity, and mortality are all associated with low vitamin D** 
 
 {{< toc >}}
 
@@ -152,4 +178,4 @@ High-dose VD intervention may have an effect on reducing the incidence rate of r
 
 Vitamin A deficiency is a problem in China, but not the US
 
- **See also: [Vitamin D and Vitamin A](/categories/vitamin-d-and-vitamin-a) - toxicity and interaction** 
+ **See also: [Vitamin D and Vitamin A](/categories/vitamin-d-and-vitamin-a) - toxicity and interaction**

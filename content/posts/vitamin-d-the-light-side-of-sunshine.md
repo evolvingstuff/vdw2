@@ -1,13 +1,31 @@
 {
-  "title": "Vitamin D: the light side of sunshine.",
-  "slug": "vitamin-d-the-light-side-of-sunshine",
-  "aliases": [
-    "/Vitamin+D+the+light+side+of+sunshine",
-    "/1896"
-  ],
-  "tiki_page_id": 1896,
-  "date": "2011-08-04"
+    "title": "Vitamin D: the light side of sunshine.",
+    "slug": "vitamin-d-the-light-side-of-sunshine",
+    "aliases": [
+        "/Vitamin+D+the+light+side+of+sunshine",
+        "/1896"
+    ],
+    "tiki_page_id": 1896,
+    "date": "2011-08-04",
+    "tags": [
+        "autoimmune",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "intervention",
+        "life span",
+        "mortality",
+        "obesity",
+        "obesity and cancer",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Eur J Clin Nutr. 2011 Jul 6. [doi: 10.1038/ejcn.2011.105.](https://doi.org/10.1038/ejcn.2011.105.) 
 
@@ -34,4 +52,3 @@ PMID:     21731037
 * higher calcium intake increases vitamin D levels
 
 * vitamin A’s ability to interfere with vitamin D
-

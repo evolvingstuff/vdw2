@@ -1,16 +1,25 @@
 {
-  "title": "Cochrane \u2013 800 IU vitamin D decreased mortality by 6 percent",
-  "slug": "cochrane-800-iu-vitamin-d-decreased-mortality-by-6-percent",
-  "aliases": [
-    "/Cochrane+\u2013+800+IU+vitamin+D+decreased+mortality+by+6+percent+\u2013+July+2011",
-    "/1830"
-  ],
-  "tiki_page_id": 1830,
-  "date": "2011-07-14",
-  "categories": [
-    "Mortality and D"
-  ]
+    "title": "Cochrane \u2013 800 IU vitamin D decreased mortality by 6 percent",
+    "slug": "cochrane-800-iu-vitamin-d-decreased-mortality-by-6-percent",
+    "aliases": [
+        "/Cochrane+\u2013+800+IU+vitamin+D+decreased+mortality+by+6+percent+\u2013+July+2011",
+        "/1830"
+    ],
+    "tiki_page_id": 1830,
+    "date": "2011-07-14",
+    "categories": [
+        "Mortality and D"
+    ],
+    "tags": [
+        "Mortality and D",
+        "cancer",
+        "dosage",
+        "life span",
+        "mortality",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

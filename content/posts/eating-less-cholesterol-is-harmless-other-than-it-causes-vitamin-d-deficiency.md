@@ -1,16 +1,23 @@
 {
-  "title": "Eating less cholesterol is harmless other than it causes vitamin D deficiency",
-  "slug": "eating-less-cholesterol-is-harmless-other-than-it-causes-vitamin-d-deficiency",
-  "aliases": [
-    "/Eating+less+cholesterol+is+harmless+other+than+it+causes+vitamin+D+deficiency+\u2013+June+2011",
-    "/1747"
-  ],
-  "tiki_page_id": 1747,
-  "date": "2011-06-22",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Cholesterol"
-  ]
+    "title": "Eating less cholesterol is harmless other than it causes vitamin D deficiency",
+    "slug": "eating-less-cholesterol-is-harmless-other-than-it-causes-vitamin-d-deficiency",
+    "aliases": [
+        "/Eating+less+cholesterol+is+harmless+other+than+it+causes+vitamin+D+deficiency+\u2013+June+2011",
+        "/1747"
+    ],
+    "tiki_page_id": 1747,
+    "date": "2011-06-22",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Cholesterol"
+    ],
+    "tags": [
+        "Cholesterol",
+        "Deficiency of Vitamin D",
+        "cholesterol",
+        "health risk",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,17 +1,28 @@
 {
-  "title": "Vitamin D2 intervention increased elderly muscle strength",
-  "slug": "vitamin-d2-intervention-increased-elderly-muscle-strength",
-  "aliases": [
-    "/Vitamin+D2+intervention+increased+elderly+muscle+strength+\u2013+Nov+2010",
-    "/1126"
-  ],
-  "tiki_page_id": 1126,
-  "date": "2010-11-09",
-  "categories": [
-    "Seniors",
-    "Sports and Vitamin D",
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Vitamin D2 intervention increased elderly muscle strength",
+    "slug": "vitamin-d2-intervention-increased-elderly-muscle-strength",
+    "aliases": [
+        "/Vitamin+D2+intervention+increased+elderly+muscle+strength+\u2013+Nov+2010",
+        "/1126"
+    ],
+    "tiki_page_id": 1126,
+    "date": "2010-11-09",
+    "categories": [
+        "Seniors",
+        "Sports and Vitamin D",
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Seniors",
+        "Sports and Vitamin D",
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -62,4 +73,3 @@ CONCLUSION: Vitamin D therapy was observed to increase muscle function in those 
 And this was with only 1000 IU of vitamin D2. - much better results have been found with 2,000 IU of vitamin D3
 
 # See also at VitaminDWiki: &nbsp; &nbsp;[Seniors lack D ](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=5&sort_mode=created_desc)&nbsp; &nbsp;[Sports and D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=11&sort_mode=created_desc)
-

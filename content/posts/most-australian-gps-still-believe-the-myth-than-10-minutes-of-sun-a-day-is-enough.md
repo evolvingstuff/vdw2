@@ -1,16 +1,25 @@
 {
-  "title": "Most Australian GPs still believe the myth than 10 minutes of sun a day is enough",
-  "slug": "most-australian-gps-still-believe-the-myth-than-10-minutes-of-sun-a-day-is-enough",
-  "aliases": [
-    "/Most+Australian+GPs+still+believe+the+myth+than+10+minutes+of+sun+a+day+is+enough+\u2013+June+2011",
-    "/1703"
-  ],
-  "tiki_page_id": 1703,
-  "date": "2011-06-06",
-  "categories": [
-    "Noontime sun and D",
-    "Vitamin D in Australia and New Zealand"
-  ]
+    "title": "Most Australian GPs still believe the myth than 10 minutes of sun a day is enough",
+    "slug": "most-australian-gps-still-believe-the-myth-than-10-minutes-of-sun-a-day-is-enough",
+    "aliases": [
+        "/Most+Australian+GPs+still+believe+the+myth+than+10+minutes+of+sun+a+day+is+enough+\u2013+June+2011",
+        "/1703"
+    ],
+    "tiki_page_id": 1703,
+    "date": "2011-06-06",
+    "categories": [
+        "Noontime sun and D",
+        "Vitamin D in Australia and New Zealand"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "Vitamin D in Australia and New Zealand",
+        "cancer",
+        "dosage",
+        "melanoma",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -53,4 +62,3 @@ In general, the attitude items showed that respondents expressed greater concern
 * <a href="/posts/overview-suntans-and-melanoma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans and melanoma</a>
 
 * <a href="/posts/73-percent-of-australians-had-too-little-vitamin-d-a-decade-ago" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2322">73 percent of Australians had too little vitamin D a decade ago – Dec 2011</a>
-

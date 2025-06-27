@@ -1,15 +1,25 @@
 {
-  "title": "Hypothesis -10 percent increased schizophrenia in winter births due to vitamin D",
-  "slug": "hypothesis-10-percent-increased-schizophrenia-in-winter-births-due-to-vitamin-d",
-  "aliases": [
-    "/Hypothesis+-10+percent+increased+schizophrenia+in+winter+births+due+to+vitamin+D+\u2013+Mar+2011",
-    "/1465"
-  ],
-  "tiki_page_id": 1465,
-  "date": "2011-03-09",
-  "categories": [
-    "Cognitive"
-  ]
+    "title": "Hypothesis -10 percent increased schizophrenia in winter births due to vitamin D",
+    "slug": "hypothesis-10-percent-increased-schizophrenia-in-winter-births-due-to-vitamin-d",
+    "aliases": [
+        "/Hypothesis+-10+percent+increased+schizophrenia+in+winter+births+due+to+vitamin+D+\u2013+Mar+2011",
+        "/1465"
+    ],
+    "tiki_page_id": 1465,
+    "date": "2011-03-09",
+    "categories": [
+        "Cognitive"
+    ],
+    "tags": [
+        "Cognitive",
+        "brain",
+        "child",
+        "cognitive",
+        "magnesium",
+        "magnesium and pregnancy",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -35,7 +45,7 @@ Published by Elsevier Ltd. PMID: 2138267
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Overview Schizophrenia and Vitamin D</a>
+* [Overview Schizophrenia and Vitamin D](/posts/overview-schizophrenia-and-vitamin-d)
 
 * <a href="/posts/infants-2x-more-likely-to-get-schizophrenia-if-had-very-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 901">Infants 2X more likely to get schizophrenia if had very low vitamin D – Sept 2010</a>
 

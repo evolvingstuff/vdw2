@@ -1,15 +1,27 @@
 {
-  "title": "Bone lost during postmenopausal dieting not all recovered with weight re-gain",
-  "slug": "bone-lost-during-postmenopausal-dieting-not-all-recovered-with-weight-re-gain",
-  "aliases": [
-    "/Bone+lost+during+postmenopausal+dieting+not+all+recovered+with+weight+re-gain+\u2013+Aug+2011",
-    "/1928"
-  ],
-  "tiki_page_id": 1928,
-  "date": "2011-08-21",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Bone lost during postmenopausal dieting not all recovered with weight re-gain",
+    "slug": "bone-lost-during-postmenopausal-dieting-not-all-recovered-with-weight-re-gain",
+    "aliases": [
+        "/Bone+lost+during+postmenopausal+dieting+not+all+recovered+with+weight+re-gain+\u2013+Aug+2011",
+        "/1928"
+    ],
+    "tiki_page_id": 1928,
+    "date": "2011-08-21",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "health risk",
+        "magnesium",
+        "obesity",
+        "osteoporosis",
+        "vitamin d",
+        "weight loss"
+    ]
 }
 
 

@@ -1,15 +1,22 @@
 {
-  "title": "Lack of Vitamin D reduces lung volume",
-  "slug": "lack-of-vitamin-d-reduces-lung-volume",
-  "aliases": [
-    "/Lack+of+Vitamin+D+reduces+lung+volume+\u2013+Feb+2011",
-    "/1391"
-  ],
-  "tiki_page_id": 1391,
-  "date": "2011-02-08",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Lack of Vitamin D reduces lung volume",
+    "slug": "lack-of-vitamin-d-reduces-lung-volume",
+    "aliases": [
+        "/Lack+of+Vitamin+D+reduces+lung+volume+\u2013+Feb+2011",
+        "/1391"
+    ],
+    "tiki_page_id": 1391,
+    "date": "2011-02-08",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "breathing",
+        "child",
+        "vitamin d"
+    ]
 }
 
 
@@ -31,5 +38,4 @@ MEASUREMENTS: Lung volume and function were measured by plethysmography and the 
 
 MAIN RESULTS: Vitamin D deficiency did not alter somatic growth but  **decreased lung volume** . There were corresponding deficits in lung function which could not be entirely explained by lung volume. The volume dependence of lung mechanics was altered by deficiency suggesting altered tissue structure, however the primary histological difference between groups was lung size rather than an alteration in architecture.
 
-CONCLUSIONS: Vitamin D deficiency causes deficits in lung function which are primarily explained by differences in lung volume. This study is the first to provide direct mechanistic evidence for linking vitamin D deficiency and lung development which may explain the association between obstructive lung disease and vitamin D status. PMID: 21297070 
-
+CONCLUSIONS: Vitamin D deficiency causes deficits in lung function which are primarily explained by differences in lung volume. This study is the first to provide direct mechanistic evidence for linking vitamin D deficiency and lung development which may explain the association between obstructive lung disease and vitamin D status. PMID: 21297070

@@ -1,17 +1,23 @@
 {
-  "title": "New Insights into Vitamin D During Pregnancy, Lactation and Early Infancy",
-  "slug": "new-insights-into-vitamin-d-during-pregnancy-lactation-and-early-infancy",
-  "aliases": [
-    "/New+Insights+into+Vitamin+D+During+Pregnancy+Lactation+and+Early+Infancy",
-    "/2122"
-  ],
-  "tiki_page_id": 2122,
-  "date": "2011-10-27",
-  "categories": [
-    "Pregnancy",
-    "Books, videos on Vitamin D"
-  ]
+    "title": "New Insights into Vitamin D During Pregnancy, Lactation and Early Infancy",
+    "slug": "new-insights-into-vitamin-d-during-pregnancy-lactation-and-early-infancy",
+    "aliases": [
+        "/New+Insights+into+Vitamin+D+During+Pregnancy+Lactation+and+Early+Infancy",
+        "/2122"
+    ],
+    "tiki_page_id": 2122,
+    "date": "2011-10-27",
+    "categories": [
+        "Pregnancy",
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "Pregnancy",
+        "pregnancy"
+    ]
 }
+
 
 by Carol L., M.D. Wagner (Author), Sarah N., M.D. Taylor, Bruce W., Ph.D. Hollis
 

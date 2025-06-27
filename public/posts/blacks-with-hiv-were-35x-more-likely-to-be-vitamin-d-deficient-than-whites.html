@@ -1,0 +1,59 @@
+<!doctype html><html><head><meta charset=utf-8><title>Blacks with HIV were 3.5X more likely to be vitamin D deficient than whites</title>
+<link rel=stylesheet href="/css/main.css?v=1751038172"><link rel=stylesheet href="/css/pagination.css?v=1751038172"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038172"></script><script src="/js/search.js?v=1751038172"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Blacks with HIV were 3.5X more likely to be vitamin D deficient than whites</h1><time>July 23, 2012</time><div data-pagefind-body><h1 id=risk-factors-for-vitamin-d-deficiency-in-hiv-infected-patients-in-the-south-central-united-states>Risk factors for vitamin D deficiency in HIV-infected patients in the south central United States.</h1><p>AIDS Res Hum Retroviruses. 2012 May;28(5):454-9. Epub 2011 Oct 19.</p><p>Crutchley RD, Gathe J Jr, Mayberry C, Trieu A, Abughosh S, Garey KW.</p><p>University of Houston, College of Pharmacy, Department of Clinical Sciences and Administration, 1441 Moursund Street, Houston, TX 77030, USA. <a href=mailto:rdcrutchley@uh.edu>rdcrutchley@uh.edu</a></p><p>We evaluated the prevalence of serum 25-hydroxyvitamin D <span>[25(OH)D]</span> deficiency and the risk factors for vitamin D deficiency in HIV-infected patients in the South-Central United States. The study consisted of a cross-sectional assessment of vitamin D levels in HIV-infected patients receiving routine clinical care from a private practice in Houston, Texas (latitude 29°N). Vitamin D deficiency was defined as 25(OH)D less than 20?ng/ml (&lt;50?nmol/liter). Two-hundred enrolled patients were surveyed with a vitamin D questionnaire to determine daily supplemental vitamin D intake, dietary vitamin D intake, and average sunlight exposure (minutes/day). Multivariate logistic regression analysis was used to determine significant risk factors for vitamin D deficiency. Median 25(OH)D was 15.5?ng/ml (interquartile range 10.9-24.6) for the total population (n=200).</p><p>Approximately, two-thirds (64%) of patients had vitamin D deficiency and 20.5% had severe vitamin D deficiency <a href=25(OH)D%20%3C10?ng/ml%20or%20%3C25?nmol/liter>25(OH)D &lt;10?ng/ml or &lt;25?nmol/liter</a>. In univariate analysis, African-American race, current tobacco use, increased body mass index (BMI), lower serum calcium level, no supplemental vitamin D use, and low daily supplemental and total daily vitamin D intake were significantly associated with vitamin D deficiency.</p><p>In multivariate analysis, African-American race <span>[adjusted odds ratio (AOR) <strong>3.53</strong> (95% confidence interval (CI) 1.83-6.82)]</span>, higher BMI <span>[AOR 1.07 (95% CI 1.002-1.139)]</span>, and low daily vitamin D supplemental intake <span>[AOR 0.997 (95% CI 0.996-0.999)]</span> were significantly associated with vitamin D deficiency. No HIV factors including antiretroviral class use were significantly associated with either vitamin D deficiency or severe vitamin D deficiency. Vitamin D deficiency and severe vitamin D deficiency were highly prevalent in this HIV population. In the HIV population, African-Americans or patients with a high BMI may benefit from vitamin D supplementation.</p><p>PMID: 21878055</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><a href=/posts/hiv-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 1078">HIV and vitamin D</a></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>HIV</span>
+<span class=tag>Skin - Dark</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>HIV, Skin - Dark, vitamin d, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038172"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038172",indexUrl:"/search/search_index.json.gz?v=1751038172"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038172"></script><script src="/js/tiki-redirects.js?v=1751038172"></script></body></html>

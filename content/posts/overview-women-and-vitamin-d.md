@@ -1,19 +1,56 @@
 {
-  "title": "Overview Women and Vitamin D",
-  "slug": "overview-women-and-vitamin-d",
-  "aliases": [
-    "/Overview+Women+and+Vitamin+D",
-    "/2143"
-  ],
-  "tiki_page_id": 2143,
-  "date": "2011-11-03",
-  "categories": [
-    "Pregnancy",
-    "Overviews",
-    "Fertility and sperm",
-    "Women"
-  ]
+    "title": "Overview Women and Vitamin D",
+    "slug": "overview-women-and-vitamin-d",
+    "aliases": [
+        "/Overview+Women+and+Vitamin+D",
+        "/2143"
+    ],
+    "tiki_page_id": 2143,
+    "date": "2011-11-03",
+    "categories": [
+        "Pregnancy",
+        "Overviews",
+        "Fertility and sperm",
+        "Women"
+    ],
+    "tags": [
+        "Fertility and sperm",
+        "Overviews",
+        "PCOS",
+        "Pregnancy",
+        "Women",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "diabetes",
+        "endometriosis",
+        "falls fractures",
+        "fertility sperm",
+        "gestational diabetes",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "preeclampsia",
+        "pregnancy",
+        "preterm",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -95,4 +132,4 @@ In the past few years a growing interest in vitamin D can be observed in the lay
 
 #### Nice wide-ranging description of pros and cons of having a child - Dec 2023 (nothing about Vitamin D)
 
- **[How millennials learned to dread motherhood](https://www.vox.com/features/23979357/millennials-motherhood-dread-parenting-birthrate-women-policy?sponsored=0&position=2&category=fascinating_stories&scheduled_corpus_item_id=4c0e2317-e2de-4bc9-92da-e587ce653c6f&url=https://www.vox.com/features/23979357/millennials-motherhood-dread-parenting-birthrate-women-policy) Vox** 
+ **[How millennials learned to dread motherhood](https://www.vox.com/features/23979357/millennials-motherhood-dread-parenting-birthrate-women-policy?sponsored=0&position=2&category=fascinating_stories&scheduled_corpus_item_id=4c0e2317-e2de-4bc9-92da-e587ce653c6f&url=https://www.vox.com/features/23979357/millennials-motherhood-dread-parenting-birthrate-women-policy) Vox**

@@ -1,15 +1,18 @@
 {
-  "title": "Why new medical treatments like vitamin D take 15-20 years to get to US patients",
-  "slug": "why-new-medical-treatments-like-vitamin-d-take-15-20-years-to-get-to-us-patients",
-  "aliases": [
-    "/Why+new+medical+treatments+like+vitamin+D+take+15-20+years+to+get+to+US+patients",
-    "/2071"
-  ],
-  "tiki_page_id": 2071,
-  "date": "2011-10-07",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "Why new medical treatments like vitamin D take 15-20 years to get to US patients",
+    "slug": "why-new-medical-treatments-like-vitamin-d-take-15-20-years-to-get-to-us-patients",
+    "aliases": [
+        "/Why+new+medical+treatments+like+vitamin+D+take+15-20+years+to+get+to+US+patients",
+        "/2071"
+    ],
+    "tiki_page_id": 2071,
+    "date": "2011-10-07",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics"
+    ]
 }
 
 

@@ -1,12 +1,19 @@
 {
-  "title": "Vitamin D is the 2nd most important nutrient - survey",
-  "slug": "vitamin-d-is-the-2nd-most-important-nutrient-survey",
-  "aliases": [
-    "/Vitamin+D+is+the+2nd+most+important+nutrient+-+survey+Aug+2011",
-    "/1889"
-  ],
-  "tiki_page_id": 1889,
-  "date": "2011-08-03"
+    "title": "Vitamin D is the 2nd most important nutrient - survey",
+    "slug": "vitamin-d-is-the-2nd-most-important-nutrient-survey",
+    "aliases": [
+        "/Vitamin+D+is+the+2nd+most+important+nutrient+-+survey+Aug+2011",
+        "/1889"
+    ],
+    "tiki_page_id": 1889,
+    "date": "2011-08-03",
+    "tags": [
+        "cholesterol",
+        "health risk",
+        "omega 3",
+        "probiotics",
+        "vitamin d"
+    ]
 }
 
 
@@ -32,4 +39,4 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/probiotics-increased-vitamin-d-levels-22-percent-in-those-with-excess-cholesterol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013">Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013</a>
+* [Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013](/posts/probiotics-increased-vitamin-d-levels-22-percent-in-those-with-excess-cholesterol)

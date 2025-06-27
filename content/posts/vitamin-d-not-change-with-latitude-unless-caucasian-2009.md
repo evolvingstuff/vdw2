@@ -1,15 +1,21 @@
 {
-  "title": "Vitamin D not change with latitude unless caucasian - 2009",
-  "slug": "vitamin-d-not-change-with-latitude-unless-caucasian-2009",
-  "aliases": [
-    "/Vitamin+D+not+change+with+latitude+unless+caucasian+-+2009",
-    "/1257"
-  ],
-  "tiki_page_id": 1257,
-  "date": "2010-12-24",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Vitamin D not change with latitude unless caucasian - 2009",
+    "slug": "vitamin-d-not-change-with-latitude-unless-caucasian-2009",
+    "aliases": [
+        "/Vitamin+D+not+change+with+latitude+unless+caucasian+-+2009",
+        "/1257"
+    ],
+    "tiki_page_id": 1257,
+    "date": "2010-12-24",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

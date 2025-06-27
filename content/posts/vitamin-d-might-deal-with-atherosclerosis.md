@@ -1,15 +1,28 @@
 {
-  "title": "Vitamin D might deal with atherosclerosis",
-  "slug": "vitamin-d-might-deal-with-atherosclerosis",
-  "aliases": [
-    "/Vitamin+D+might+deal+with+atherosclerosis+\u2013+Jan+2011",
-    "/1229"
-  ],
-  "tiki_page_id": 1229,
-  "date": "2010-12-12",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Vitamin D might deal with atherosclerosis",
+    "slug": "vitamin-d-might-deal-with-atherosclerosis",
+    "aliases": [
+        "/Vitamin+D+might+deal+with+atherosclerosis+\u2013+Jan+2011",
+        "/1229"
+    ],
+    "tiki_page_id": 1229,
+    "date": "2010-12-12",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "atherosclerosis",
+        "cardiovascular",
+        "diabetes",
+        "heart failure",
+        "hypertension",
+        "life span",
+        "metabolic",
+        "mortality",
+        "stroke",
+        "vitamin d"
+    ]
 }
 
 

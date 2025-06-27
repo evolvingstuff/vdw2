@@ -1,16 +1,25 @@
 {
-  "title": "Living in areas with more UV decreased lymph problems by 42 percent",
-  "slug": "living-in-areas-with-more-uv-decreased-lymph-problems-by-42-percent",
-  "aliases": [
-    "/Living+in+areas+with+more+UV+decreased+lymph+problems+by+42+percent+\u2013+Aug+2011",
-    "/1914"
-  ],
-  "tiki_page_id": 1914,
-  "date": "2011-08-12",
-  "categories": [
-    "UV and Vitamin D",
-    "Cancer - Lymphoma"
-  ]
+    "title": "Living in areas with more UV decreased lymph problems by 42 percent",
+    "slug": "living-in-areas-with-more-uv-decreased-lymph-problems-by-42-percent",
+    "aliases": [
+        "/Living+in+areas+with+more+UV+decreased+lymph+problems+by+42+percent+\u2013+Aug+2011",
+        "/1914"
+    ],
+    "tiki_page_id": 1914,
+    "date": "2011-08-12",
+    "categories": [
+        "UV and Vitamin D",
+        "Cancer - Lymphoma"
+    ],
+    "tags": [
+        "Cancer - Lymphoma",
+        "UV and Vitamin D",
+        "cancer",
+        "leukemia",
+        "lymphoma",
+        "multiple myeloma",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,15 +1,25 @@
 {
-  "title": "Vitamin D deficiency more strongly associated with rectal than colon cancer",
-  "slug": "vitamin-d-deficiency-more-strongly-associated-with-rectal-than-colon-cancer",
-  "aliases": [
-    "/Vitamin+D+deficiency+more+strongly+associated+with+rectal+than+colon+cancer+\u2013+Mar+2011",
-    "/1510"
-  ],
-  "tiki_page_id": 1510,
-  "date": "2011-03-25",
-  "categories": [
-    "Cancer - Colon"
-  ]
+    "title": "Vitamin D deficiency more strongly associated with rectal than colon cancer",
+    "slug": "vitamin-d-deficiency-more-strongly-associated-with-rectal-than-colon-cancer",
+    "aliases": [
+        "/Vitamin+D+deficiency+more+strongly+associated+with+rectal+than+colon+cancer+\u2013+Mar+2011",
+        "/1510"
+    ],
+    "tiki_page_id": 1510,
+    "date": "2011-03-25",
+    "categories": [
+        "Cancer - Colon"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "IBD",
+        "cancer",
+        "colon cancer",
+        "dosage",
+        "gut",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -64,4 +74,3 @@ PMID: 21430073
 * <a href="/posts/will-increasing-vitamin-d-in-blood-to-100-ng-reduce-deaths-of-colon-cancer-patients" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 588">Will increasing vitamin D in blood to 100 ng reduce deaths of colon cancer patients- July 2010</a> Clinical Trial
 
 * <a href="/posts/reduce-colorectal-cancer-with-1000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 90">Reduce colorectal cancer with 1000 IU of vitamin D - April 2010</a>
-

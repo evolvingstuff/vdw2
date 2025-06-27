@@ -1,18 +1,29 @@
 {
-  "title": "Overview Vitamin D Dose-Response",
-  "slug": "overview-vitamin-d-dose-response",
-  "aliases": [
-    "/Overview+Vitamin+D+Dose-Response",
-    "/1425"
-  ],
-  "tiki_page_id": 1425,
-  "date": "2011-02-20",
-  "categories": [
-    "How much Vitamin D",
-    "Overviews",
-    "Predict Vitamin D"
-  ]
+    "title": "Overview Vitamin D Dose-Response",
+    "slug": "overview-vitamin-d-dose-response",
+    "aliases": [
+        "/Overview+Vitamin+D+Dose-Response",
+        "/1425"
+    ],
+    "tiki_page_id": 1425,
+    "date": "2011-02-20",
+    "categories": [
+        "How much Vitamin D",
+        "Overviews",
+        "Predict Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Overviews",
+        "Predict Vitamin D",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 

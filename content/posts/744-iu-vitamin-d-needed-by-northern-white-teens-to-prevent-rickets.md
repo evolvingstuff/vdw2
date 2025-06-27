@@ -1,18 +1,30 @@
 {
-  "title": "744 IU vitamin D needed by Northern white teens to prevent Rickets",
-  "slug": "744-iu-vitamin-d-needed-by-northern-white-teens-to-prevent-rickets",
-  "aliases": [
-    "/744+IU+vitamin+D+needed+by+Northern+white+teens+to+prevent+Rickets+\u2013+Jan+2011",
-    "/1361"
-  ],
-  "tiki_page_id": 1361,
-  "date": "2011-01-29",
-  "categories": [
-    "How much Vitamin D",
-    "Rickets",
-    "Vitamin D Far from equator",
-    "Youth"
-  ]
+    "title": "744 IU vitamin D needed by Northern white teens to prevent Rickets",
+    "slug": "744-iu-vitamin-d-needed-by-northern-white-teens-to-prevent-rickets",
+    "aliases": [
+        "/744+IU+vitamin+D+needed+by+Northern+white+teens+to+prevent+Rickets+\u2013+Jan+2011",
+        "/1361"
+    ],
+    "tiki_page_id": 1361,
+    "date": "2011-01-29",
+    "categories": [
+        "How much Vitamin D",
+        "Rickets",
+        "Vitamin D Far from equator",
+        "Youth"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Rickets",
+        "Vitamin D Far from equator",
+        "Youth",
+        "blood levels",
+        "bone",
+        "dosage",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

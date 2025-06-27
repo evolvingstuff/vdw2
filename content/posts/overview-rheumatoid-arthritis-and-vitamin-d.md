@@ -1,20 +1,45 @@
 {
-  "title": "Overview Rheumatoid Arthritis and vitamin D",
-  "slug": "overview-rheumatoid-arthritis-and-vitamin-d",
-  "aliases": [
-    "/Overview+Rheumatoid+Arthritis+and+vitamin+D",
-    "/1442"
-  ],
-  "tiki_page_id": 1442,
-  "date": "2011-02-27",
-  "categories": [
-    "Rheumatoid Arthritis",
-    "Overviews",
-    "Inflammation"
-  ]
+    "title": "Overview Rheumatoid Arthritis and vitamin D",
+    "slug": "overview-rheumatoid-arthritis-and-vitamin-d",
+    "aliases": [
+        "/Overview+Rheumatoid+Arthritis+and+vitamin+D",
+        "/1442"
+    ],
+    "tiki_page_id": 1442,
+    "date": "2011-02-27",
+    "categories": [
+        "Rheumatoid Arthritis",
+        "Overviews",
+        "Inflammation"
+    ],
+    "tags": [
+        "Inflammation",
+        "Overviews",
+        "Rheumatoid Arthritis",
+        "autoimmune",
+        "bacteria",
+        "blood levels",
+        "dosage",
+        "high dose",
+        "intervention",
+        "life span",
+        "magnesium",
+        "mortality",
+        "omega 3",
+        "pain",
+        "probiotics",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin k",
+        "zinc"
+    ]
 }
 
- **FACT:**  People with Rheumatoid arthritis are often vitamin D deficient
+
+**FACT:**  People with Rheumatoid arthritis are often vitamin D deficient
 
  **REPORT:**  People with the most Rheumatoid arthritis pain are the most vitamin D deficient
 
@@ -64,7 +89,7 @@ Vitamin D deficiency is associated with mortality in the general population and 
 
    * Rheumatoid Arthritis  is reduced when vitamin D levels are  **60-70 ng**  
 
-   * And when Omega-6 (which blocks <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3)</a> is reduced 
+   * And when Omega-6 (which blocks [Omega-3)](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d) is reduced 
 
       * Saflower, Sunflower, Grapeseed, Corn, Soybean
 

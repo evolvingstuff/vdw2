@@ -1,15 +1,24 @@
 {
-  "title": "Rediscovering vitamin D",
-  "slug": "rediscovering-vitamin-d",
-  "aliases": [
-    "/Rediscovering+vitamin+D+-+Nov+2010",
-    "/1140"
-  ],
-  "tiki_page_id": 1140,
-  "date": "2010-11-13",
-  "categories": [
-    "Overview for doctors"
-  ]
+    "title": "Rediscovering vitamin D",
+    "slug": "rediscovering-vitamin-d",
+    "aliases": [
+        "/Rediscovering+vitamin+D+-+Nov+2010",
+        "/1140"
+    ],
+    "tiki_page_id": 1140,
+    "date": "2010-11-13",
+    "categories": [
+        "Overview for doctors"
+    ],
+    "tags": [
+        "Overview for doctors",
+        "autoimmune",
+        "cancer",
+        "high dose",
+        "intervention",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

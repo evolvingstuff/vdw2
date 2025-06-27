@@ -1,17 +1,32 @@
 {
-  "title": "Forum on Aging and Skeletal Health",
-  "slug": "forum-on-aging-and-skeletal-health",
-  "aliases": [
-    "/Forum+on+Aging+and+Skeletal+Health+\u2013+Sept+2011",
-    "/2006"
-  ],
-  "tiki_page_id": 2006,
-  "date": "2011-09-17",
-  "categories": [
-    "Bone - Health",
-    "Osteoporosis"
-  ]
+    "title": "Forum on Aging and Skeletal Health",
+    "slug": "forum-on-aging-and-skeletal-health",
+    "aliases": [
+        "/Forum+on+Aging+and+Skeletal+Health+\u2013+Sept+2011",
+        "/2006"
+    ],
+    "tiki_page_id": 2006,
+    "date": "2011-09-17",
+    "categories": [
+        "Bone - Health",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Osteoporosis",
+        "bone",
+        "bone loss",
+        "child",
+        "falls fractures",
+        "genetics",
+        "osteoporosis",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 Forum on aging and skeletal health: Summary of the proceedings of an ASBMR workshop
 
@@ -108,4 +123,3 @@ Areas for further research include
 1. determining whether falls are associated with polymorphisms of vitamin D–related genes, and 
 
 1. defining whether vitamin D prevents falls in the general population of older persons or only in the frail?
-

@@ -1,15 +1,26 @@
 {
-  "title": "Genetic influence on Vitamin D is small compared to environmental influence",
-  "slug": "genetic-influence-on-vitamin-d-is-small-compared-to-environmental-influence",
-  "aliases": [
-    "/Genetic+influence+on+Vitamin+D+is+small+compared+to+environmental+influence+\u2013+July+2011",
-    "/1718"
-  ],
-  "tiki_page_id": 1718,
-  "date": "2011-06-10",
-  "categories": [
-    "Genetics"
-  ]
+    "title": "Genetic influence on Vitamin D is small compared to environmental influence",
+    "slug": "genetic-influence-on-vitamin-d-is-small-compared-to-environmental-influence",
+    "aliases": [
+        "/Genetic+influence+on+Vitamin+D+is+small+compared+to+environmental+influence+\u2013+July+2011",
+        "/1718"
+    ],
+    "tiki_page_id": 1718,
+    "date": "2011-06-10",
+    "categories": [
+        "Genetics"
+    ],
+    "tags": [
+        "CYPA",
+        "CYPB",
+        "CYPR",
+        "Genetics",
+        "child",
+        "genetics",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test"
+    ]
 }
 
 

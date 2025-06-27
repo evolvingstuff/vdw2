@@ -1,15 +1,21 @@
 {
-  "title": "Vitamin D measurements of individuals vary by 3 ng within 6 days",
-  "slug": "vitamin-d-measurements-of-individuals-vary-by-3-ng-within-6-days",
-  "aliases": [
-    "/Vitamin+D+measurements+of+individuals+vary+by+3+ng+within+6+days+\u2013+June+2011",
-    "/1768"
-  ],
-  "tiki_page_id": 1768,
-  "date": "2011-06-27",
-  "categories": [
-    "Tests for Vitamin D"
-  ]
+    "title": "Vitamin D measurements of individuals vary by 3 ng within 6 days",
+    "slug": "vitamin-d-measurements-of-individuals-vary-by-3-ng-within-6-days",
+    "aliases": [
+        "/Vitamin+D+measurements+of+individuals+vary+by+3+ng+within+6+days+\u2013+June+2011",
+        "/1768"
+    ],
+    "tiki_page_id": 1768,
+    "date": "2011-06-27",
+    "categories": [
+        "Tests for Vitamin D"
+    ],
+    "tags": [
+        "Tests for Vitamin D",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

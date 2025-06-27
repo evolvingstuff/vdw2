@@ -1,12 +1,15 @@
 {
-  "title": "Vitamin D Nutritional Policy is at a Crossroads",
-  "slug": "vitamin-d-nutritional-policy-is-at-a-crossroads",
-  "aliases": [
-    "/Vitamin+D+Nutritional+Policy+is+at+a+Crossroads+-+Feb+2011",
-    "/1516"
-  ],
-  "tiki_page_id": 1516,
-  "date": "2011-03-26"
+    "title": "Vitamin D Nutritional Policy is at a Crossroads",
+    "slug": "vitamin-d-nutritional-policy-is-at-a-crossroads",
+    "aliases": [
+        "/Vitamin+D+Nutritional+Policy+is+at+a+Crossroads+-+Feb+2011",
+        "/1516"
+    ],
+    "tiki_page_id": 1516,
+    "date": "2011-03-26",
+    "tags": [
+        "vitamin d"
+    ]
 }
 
 

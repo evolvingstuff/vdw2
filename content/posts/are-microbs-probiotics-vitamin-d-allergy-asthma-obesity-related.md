@@ -1,17 +1,32 @@
 {
-  "title": "Are microbs \u2013 probiotics \u2013 vitamin D \u2013 allergy \u2013 asthma \u2013 obesity related",
-  "slug": "are-microbs-probiotics-vitamin-d-allergy-asthma-obesity-related",
-  "aliases": [
-    "/Are+microbs+\u2013+probiotics+\u2013+vitamin+D+\u2013+allergy+\u2013+asthma+\u2013+obesity+related+\u2013+Mar+2011",
-    "/1501"
-  ],
-  "tiki_page_id": 1501,
-  "date": "2011-03-22",
-  "categories": [
-    "Breathing",
-    "Obesity",
-    "More D topics"
-  ]
+    "title": "Are microbs \u2013 probiotics \u2013 vitamin D \u2013 allergy \u2013 asthma \u2013 obesity related",
+    "slug": "are-microbs-probiotics-vitamin-d-allergy-asthma-obesity-related",
+    "aliases": [
+        "/Are+microbs+\u2013+probiotics+\u2013+vitamin+D+\u2013+allergy+\u2013+asthma+\u2013+obesity+related+\u2013+Mar+2011",
+        "/1501"
+    ],
+    "tiki_page_id": 1501,
+    "date": "2011-03-22",
+    "categories": [
+        "Breathing",
+        "Obesity",
+        "More D topics"
+    ],
+    "tags": [
+        "Breathing",
+        "More D topics",
+        "Obesity",
+        "asthma",
+        "bacteria",
+        "breathing",
+        "child",
+        "childhood obesity",
+        "cholesterol",
+        "health risk",
+        "obesity",
+        "probiotics",
+        "vitamin d"
+    ]
 }
 
 
@@ -39,4 +54,4 @@ Current evidence supports a role for gut colonization in promoting and maintaini
 
 ## See also VitaminDWiki
 
-* <a href="/posts/probiotics-increased-vitamin-d-levels-22-percent-in-those-with-excess-cholesterol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013">Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013</a>
+* [Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013](/posts/probiotics-increased-vitamin-d-levels-22-percent-in-those-with-excess-cholesterol)

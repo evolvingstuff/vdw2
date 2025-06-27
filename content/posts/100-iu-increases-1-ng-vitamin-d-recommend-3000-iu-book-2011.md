@@ -1,15 +1,34 @@
 {
-  "title": "100 IU increases 1 ng vitamin D \u2013 recommend 3000 IU \u2013 Book 2011",
-  "slug": "100-iu-increases-1-ng-vitamin-d-recommend-3000-iu-book-2011",
-  "aliases": [
-    "/100+IU+increases+1+ng+vitamin+D+\u2013+recommend+3000+IU+\u2013+Book+2011",
-    "/1959"
-  ],
-  "tiki_page_id": 1959,
-  "date": "2011-08-27",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "100 IU increases 1 ng vitamin D \u2013 recommend 3000 IU \u2013 Book 2011",
+    "slug": "100-iu-increases-1-ng-vitamin-d-recommend-3000-iu-book-2011",
+    "aliases": [
+        "/100+IU+increases+1+ng+vitamin+D+\u2013+recommend+3000+IU+\u2013+Book+2011",
+        "/1959"
+    ],
+    "tiki_page_id": 1959,
+    "date": "2011-08-27",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "colon cancer",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "high dose",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test"
+    ]
 }
 
 

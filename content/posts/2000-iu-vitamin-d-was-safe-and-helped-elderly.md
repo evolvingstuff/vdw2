@@ -1,16 +1,36 @@
 {
-  "title": "2000 IU vitamin D was safe and helped elderly",
-  "slug": "2000-iu-vitamin-d-was-safe-and-helped-elderly",
-  "aliases": [
-    "/2000+IU+vitamin+D+was+safe+and+helped+elderly+\u2013+Feb+2011",
-    "/1389"
-  ],
-  "tiki_page_id": 1389,
-  "date": "2011-02-05",
-  "categories": [
-    "How much Vitamin D",
-    "Seniors"
-  ]
+    "title": "2000 IU vitamin D was safe and helped elderly",
+    "slug": "2000-iu-vitamin-d-was-safe-and-helped-elderly",
+    "aliases": [
+        "/2000+IU+vitamin+D+was+safe+and+helped+elderly+\u2013+Feb+2011",
+        "/1389"
+    ],
+    "tiki_page_id": 1389,
+    "date": "2011-02-05",
+    "categories": [
+        "How much Vitamin D",
+        "Seniors"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Seniors",
+        "autoimmune",
+        "back pain",
+        "bone",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "hip fractures",
+        "intervention",
+        "omega 3",
+        "osteoporosis",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -98,7 +118,7 @@ PMID: 21288233
 
 * [Osteoporosis reduced by 800 or more IU of vitamin D - July 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1333)
 
-* <a href="/posts/vitamin-d-omega-3-and-exercise-are-being-used-in-controlled-trial-to-support-healthy-ageing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2375">Vitamin D Omega 3 and Exercise are being used in controlled trial to support healthy ageing – Feb 2012</a>
+* [Vitamin D Omega 3 and Exercise are being used in controlled trial to support healthy ageing – Feb 2012](/posts/vitamin-d-omega-3-and-exercise-are-being-used-in-controlled-trial-to-support-healthy-ageing)
 
 * <a href="/posts/both-calcium-and-vitamin-d-needed-to-prevent-elderly-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 995">Both Calcium AND vitamin D needed to prevent elderly fractures – Sept 2010</a>
 

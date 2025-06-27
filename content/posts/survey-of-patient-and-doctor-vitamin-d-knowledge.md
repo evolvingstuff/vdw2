@@ -1,16 +1,34 @@
 {
-  "title": "Survey of patient and doctor vitamin D knowledge",
-  "slug": "survey-of-patient-and-doctor-vitamin-d-knowledge",
-  "aliases": [
-    "/Survey+of+patient+and+doctor+vitamin+D+knowledge+-+Nov+2010",
-    "/1151"
-  ],
-  "tiki_page_id": 1151,
-  "date": "2010-11-19",
-  "categories": [
-    "About D - more info.",
-    "Overview for doctors"
-  ]
+    "title": "Survey of patient and doctor vitamin D knowledge",
+    "slug": "survey-of-patient-and-doctor-vitamin-d-knowledge",
+    "aliases": [
+        "/Survey+of+patient+and+doctor+vitamin+D+knowledge+-+Nov+2010",
+        "/1151"
+    ],
+    "tiki_page_id": 1151,
+    "date": "2010-11-19",
+    "categories": [
+        "About D - more info.",
+        "Overview for doctors"
+    ],
+    "tags": [
+        "About D - more info.",
+        "Overview for doctors",
+        "autoimmune",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "diabetes",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "osteoporosis",
+        "rickets",
+        "skin cancer",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -34,4 +52,4 @@ A re-emergence of childhood rickets in New Zealand has heightened concern about 
 
 # See also VitaminDWiki
 
-* <a href="/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2986">Survey finds that Non-Caucasians do not feel that people need sun exposure – July 2012</a>
+* [Survey finds that Non-Caucasians do not feel that people need sun exposure – July 2012](/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure)

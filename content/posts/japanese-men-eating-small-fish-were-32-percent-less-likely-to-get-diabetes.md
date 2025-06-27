@@ -1,17 +1,27 @@
 {
-  "title": "Japanese men eating small fish were 32 percent less likely to get diabetes",
-  "slug": "japanese-men-eating-small-fish-were-32-percent-less-likely-to-get-diabetes",
-  "aliases": [
-    "/Japanese+men+eating+small+fish+were+32+percent+less+likely+to+get+diabetes+\u2013+Aug+2011",
-    "/1943"
-  ],
-  "tiki_page_id": 1943,
-  "date": "2011-08-24",
-  "categories": [
-    "Food sources for Vitamin D",
-    "Diabetes",
-    "Orient"
-  ]
+    "title": "Japanese men eating small fish were 32 percent less likely to get diabetes",
+    "slug": "japanese-men-eating-small-fish-were-32-percent-less-likely-to-get-diabetes",
+    "aliases": [
+        "/Japanese+men+eating+small+fish+were+32+percent+less+likely+to+get+diabetes+\u2013+Aug+2011",
+        "/1943"
+    ],
+    "tiki_page_id": 1943,
+    "date": "2011-08-24",
+    "categories": [
+        "Food sources for Vitamin D",
+        "Diabetes",
+        "Orient"
+    ],
+    "tags": [
+        "Diabetes",
+        "Food sources for Vitamin D",
+        "Orient",
+        "cancer",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "vitamin d"
+    ]
 }
 
 
@@ -52,4 +62,3 @@ Conclusion: In a population with high fish and seafood intake, fish consumption 
 * [A fish a day keeps the doctor away – Japan 2002](/posts/a-fish-a-day-keeps-the-doctor-away-japan-2002) - has associated paper
 
    * Japanese in nursing homes got 284 IU of vitamin D daily – primarily from fish – 31 kinds
-

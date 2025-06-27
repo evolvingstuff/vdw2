@@ -1,16 +1,24 @@
 {
-  "title": "Calcium Magnesium softgels recall by NOW Foods \u2013 excessive vitamin D",
-  "slug": "calcium-magnesium-softgels-recall-by-now-foods-excessive-vitamin-d",
-  "aliases": [
-    "/Calcium+Magnesium+softgels+recall+by+NOW+Foods+\u2013+excessive+vitamin+D+\u2013+June+2011",
-    "/1704"
-  ],
-  "tiki_page_id": 1704,
-  "date": "2011-06-06",
-  "categories": [
-    "Toxicity of Vitamin D"
-  ]
+    "title": "Calcium Magnesium softgels recall by NOW Foods \u2013 excessive vitamin D",
+    "slug": "calcium-magnesium-softgels-recall-by-now-foods-excessive-vitamin-d",
+    "aliases": [
+        "/Calcium+Magnesium+softgels+recall+by+NOW+Foods+\u2013+excessive+vitamin+D+\u2013+June+2011",
+        "/1704"
+    ],
+    "tiki_page_id": 1704,
+    "date": "2011-06-06",
+    "categories": [
+        "Toxicity of Vitamin D"
+    ],
+    "tags": [
+        "Toxicity of Vitamin D",
+        "dosage",
+        "magnesium",
+        "vitamin d",
+        "zinc"
+    ]
 }
+
 
 &nbsp;
 

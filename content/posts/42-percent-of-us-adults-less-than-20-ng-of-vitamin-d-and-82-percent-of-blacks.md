@@ -1,16 +1,28 @@
 {
-  "title": "42 percent of US adults less than 20 ng of vitamin D and 82 percent of blacks",
-  "slug": "42-percent-of-us-adults-less-than-20-ng-of-vitamin-d-and-82-percent-of-blacks",
-  "aliases": [
-    "/42+percent+of+US+adults+less+than+20+ng+of+vitamin+D+and+82+percent+of+blacks+\u2013+Jan+2011",
-    "/1534"
-  ],
-  "tiki_page_id": 1534,
-  "date": "2011-03-30",
-  "categories": [
-    "Skin - Dark",
-    "Deficiency of Vitamin D"
-  ]
+    "title": "42 percent of US adults less than 20 ng of vitamin D and 82 percent of blacks",
+    "slug": "42-percent-of-us-adults-less-than-20-ng-of-vitamin-d-and-82-percent-of-blacks",
+    "aliases": [
+        "/42+percent+of+US+adults+less+than+20+ng+of+vitamin+D+and+82+percent+of+blacks+\u2013+Jan+2011",
+        "/1534"
+    ],
+    "tiki_page_id": 1534,
+    "date": "2011-03-30",
+    "categories": [
+        "Skin - Dark",
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Skin - Dark",
+        "blood levels",
+        "cancer",
+        "cholesterol",
+        "dosage",
+        "health risk",
+        "hypertension",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -66,7 +78,7 @@ Copyright © 2011 Elsevier Inc. All rights reserved. PMID: 21310306
 
 * [Blacks may need less vitamin D than whites – PTH Aug 2010](/posts/blacks-may-need-less-vitamin-d-than-whites-pth)
 
-* <a href="/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2200">Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011</a>
+* [Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011](/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d)
 
 * <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a>
 
@@ -83,4 +95,3 @@ Copyright © 2011 Elsevier Inc. All rights reserved. PMID: 21310306
 * [Race vs vitamin D level - Veith May 2011](/posts/race-vs-vitamin-d-level-veith)
 
 * [Dark skinned obese not helped much by weekly 50000 IU dose of vitamin D – May 2011](/posts/dark-skinned-obese-not-helped-much-by-weekly-50000-iu-dose-of-vitamin-d)
-

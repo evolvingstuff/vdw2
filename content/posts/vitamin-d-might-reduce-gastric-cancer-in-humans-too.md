@@ -1,15 +1,23 @@
 {
-  "title": "Vitamin D might reduce gastric cancer in humans too",
-  "slug": "vitamin-d-might-reduce-gastric-cancer-in-humans-too",
-  "aliases": [
-    "/Vitamin+D+might+reduce+gastric+cancer+in+humans+too+\u2013+Sept+2011",
-    "/2007"
-  ],
-  "tiki_page_id": 2007,
-  "date": "2011-09-17",
-  "categories": [
-    "Cancer - Other"
-  ]
+    "title": "Vitamin D might reduce gastric cancer in humans too",
+    "slug": "vitamin-d-might-reduce-gastric-cancer-in-humans-too",
+    "aliases": [
+        "/Vitamin+D+might+reduce+gastric+cancer+in+humans+too+\u2013+Sept+2011",
+        "/2007"
+    ],
+    "tiki_page_id": 2007,
+    "date": "2011-09-17",
+    "categories": [
+        "Cancer - Other"
+    ],
+    "tags": [
+        "Cancer - Other",
+        "cancer",
+        "gastric cancer",
+        "helicobacter pylori",
+        "infection",
+        "vitamin d"
+    ]
 }
 
 
@@ -55,4 +63,4 @@ Conclusion Our data show that VDUP1 negatively regulates H pylori-associated gas
 
 ## See also on the web
 
-* [Vitamin D Council](http://www.vitamindcouncil.org/health-conditions/cancer/gastric-cancer/) Review of Sept 2011 has 43 references 
+* [Vitamin D Council](http://www.vitamindcouncil.org/health-conditions/cancer/gastric-cancer/) Review of Sept 2011 has 43 references

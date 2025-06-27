@@ -1,15 +1,18 @@
 {
-  "title": "Vitamin D infographics",
-  "slug": "vitamin-d-infographics",
-  "aliases": [
-    "/Vitamin+D+infographics+-+Nov+2010",
-    "/1188"
-  ],
-  "tiki_page_id": 1188,
-  "date": "2010-11-26",
-  "categories": [
-    "About D - more info."
-  ]
+    "title": "Vitamin D infographics",
+    "slug": "vitamin-d-infographics",
+    "aliases": [
+        "/Vitamin+D+infographics+-+Nov+2010",
+        "/1188"
+    ],
+    "tiki_page_id": 1188,
+    "date": "2010-11-26",
+    "categories": [
+        "About D - more info."
+    ],
+    "tags": [
+        "About D - more info."
+    ]
 }
 
 

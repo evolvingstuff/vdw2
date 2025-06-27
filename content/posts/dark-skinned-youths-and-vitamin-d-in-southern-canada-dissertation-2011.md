@@ -1,17 +1,36 @@
 {
-  "title": "Dark Skinned youths and vitamin D in Southern Canada - Dissertation 2011",
-  "slug": "dark-skinned-youths-and-vitamin-d-in-southern-canada-dissertation-2011",
-  "aliases": [
-    "/Dark+Skinned+youths+and+vitamin+D+in+Southern+Canada+-+Dissertation+2011",
-    "/2058"
-  ],
-  "tiki_page_id": 2058,
-  "date": "2011-10-01",
-  "categories": [
-    "Skin - Dark",
-    "Youth",
-    "Vitamin D in Canada"
-  ]
+    "title": "Dark Skinned youths and vitamin D in Southern Canada - Dissertation 2011",
+    "slug": "dark-skinned-youths-and-vitamin-d-in-southern-canada-dissertation-2011",
+    "aliases": [
+        "/Dark+Skinned+youths+and+vitamin+D+in+Southern+Canada+-+Dissertation+2011",
+        "/2058"
+    ],
+    "tiki_page_id": 2058,
+    "date": "2011-10-01",
+    "categories": [
+        "Skin - Dark",
+        "Youth",
+        "Vitamin D in Canada"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "Vitamin D in Canada",
+        "Youth",
+        "autoimmune",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "high dose",
+        "immunity",
+        "intervention",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test"
+    ]
 }
 
 

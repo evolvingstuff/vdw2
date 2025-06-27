@@ -1,16 +1,25 @@
 {
-  "title": "Children with Cancer were 6X more likely to have less than 10ng of vitamin D",
-  "slug": "children-with-cancer-were-6x-more-likely-to-have-less-than-10ng-of-vitamin-d",
-  "aliases": [
-    "/Children+with+Cancer+were+6X+more+likely+to+have+less+than+10ng+of+vitamin+D+\u2013+Feb+2011",
-    "/1387"
-  ],
-  "tiki_page_id": 1387,
-  "date": "2011-02-05",
-  "categories": [
-    "Cancer",
-    "Youth"
-  ]
+    "title": "Children with Cancer were 6X more likely to have less than 10ng of vitamin D",
+    "slug": "children-with-cancer-were-6x-more-likely-to-have-less-than-10ng-of-vitamin-d",
+    "aliases": [
+        "/Children+with+Cancer+were+6X+more+likely+to+have+less+than+10ng+of+vitamin+D+\u2013+Feb+2011",
+        "/1387"
+    ],
+    "tiki_page_id": 1387,
+    "date": "2011-02-05",
+    "categories": [
+        "Cancer",
+        "Youth"
+    ],
+    "tags": [
+        "Cancer",
+        "Youth",
+        "blood levels",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,16 +1,26 @@
 {
-  "title": "400 IU vitamin D appeared to prevent infant rickets in Turkey",
-  "slug": "400-iu-vitamin-d-appeared-to-prevent-infant-rickets-in-turkey",
-  "aliases": [
-    "/400+IU+vitamin+D+appeared+to+prevent+infant+rickets+in+Turkey+\u2013+June+2011",
-    "/1796"
-  ],
-  "tiki_page_id": 1796,
-  "date": "2011-07-04",
-  "categories": [
-    "Rickets",
-    "Middle East"
-  ]
+    "title": "400 IU vitamin D appeared to prevent infant rickets in Turkey",
+    "slug": "400-iu-vitamin-d-appeared-to-prevent-infant-rickets-in-turkey",
+    "aliases": [
+        "/400+IU+vitamin+D+appeared+to+prevent+infant+rickets+in+Turkey+\u2013+June+2011",
+        "/1796"
+    ],
+    "tiki_page_id": 1796,
+    "date": "2011-07-04",
+    "categories": [
+        "Rickets",
+        "Middle East"
+    ],
+    "tags": [
+        "Middle East",
+        "Rickets",
+        "blood levels",
+        "bone",
+        "child",
+        "dosage",
+        "rickets",
+        "vitamin d"
+    ]
 }
 
 
@@ -48,4 +58,4 @@ Conclusions: 400 U/day vitamin D seems adequate to prevent vitamin D deficiency.
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-of-rickets-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview of Rickets and Vitamin D">Overview of Rickets and Vitamin D</a>
+* [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)

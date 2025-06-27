@@ -1,17 +1,30 @@
 {
-  "title": "Yeast Infection and Vitamin D - many studies",
-  "slug": "yeast-infection-and-vitamin-d-many-studies",
-  "aliases": [
-    "/Yeast+Infection+and+Vitamin+D+-+many+studies",
-    "/1310"
-  ],
-  "tiki_page_id": 1310,
-  "date": "2011-01-11",
-  "categories": [
-    "Immunity",
-    "Women"
-  ]
+    "title": "Yeast Infection and Vitamin D - many studies",
+    "slug": "yeast-infection-and-vitamin-d-many-studies",
+    "aliases": [
+        "/Yeast+Infection+and+Vitamin+D+-+many+studies",
+        "/1310"
+    ],
+    "tiki_page_id": 1310,
+    "date": "2011-01-11",
+    "categories": [
+        "Immunity",
+        "Women"
+    ],
+    "tags": [
+        "Immunity",
+        "Women",
+        "immunity",
+        "magnesium",
+        "magnesium and viruses",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "zinc",
+        "zinc and viruses"
+    ]
 }
+
 
 {{< toc >}} 
 
@@ -79,4 +92,4 @@ H.Y. Sroussi,1,* J. Burke-Miller,2 A.L. French,3 O.M. Adeyemi,3 K.M. Weber,2 Y. 
 
 Vitamin D deficiency is associated with negative health outcomes, including infections. Vitamin D modulates inflammation and down-regulates the expression of calprotectin, a molecule which influences neutrophil functions and which has been linked to oral candidiasis (OC), the most prevalent oral lesion in human immunodeficiency virus (HIV). We hypothesized a positive association between vitamin D deficiency and OC, and that this effect was partially modulated by calprotectinemia. Plasma calprotectin and serum 25 (OH) vitamin D levels were measured in stored samples from 84 HIV-seropositive Chicago women enrolled in the Oral Substudy of the Women’s Interagency HIV Study (WIHS). OC and vitamin D deficiency were diagnosed in, respectively, 14 (16.7%) and 46 (54.8%) of those studied. Vitamin D deficiency was positively associated with OC (p = 0.011) and with higher calprotectinemia (p = 0.019) in univariate analysis. After adjustment for CD4, HIV viral load, HIV treatment, and tobacco and heroin/methadone use, vitamin D deficiency remained a significant predictor of OC ( **OR 5.66** ; 95% confidence interval 1.01-31.71). This association weakened after adjustment for calprotectinemia, supporting a role for calprotectinemia as a moderator of this effect. These findings support studies to examine the effect of vitamin D status on calprotectinemia, neutrophil functions, and opportunistic mucosal infections in HIV.
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/oral-candidiasis-and-hiv.pdf">Download the PDF from VitaminDWiki</a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/oral-candidiasis-and-hiv.pdf">Download the PDF from VitaminDWiki</a>**

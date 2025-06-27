@@ -1,16 +1,26 @@
 {
-  "title": "Vitamin D might reduce military costs for UC and CD",
-  "slug": "vitamin-d-might-reduce-military-costs-for-uc-and-cd",
-  "aliases": [
-    "/Vitamin+D+might+reduce+military+costs+for+UC+and+CD+\u2013+June+2011",
-    "/1681"
-  ],
-  "tiki_page_id": 1681,
-  "date": "2011-05-31",
-  "categories": [
-    "Cost savings with Vitamin D",
-    "Gut"
-  ]
+    "title": "Vitamin D might reduce military costs for UC and CD",
+    "slug": "vitamin-d-might-reduce-military-costs-for-uc-and-cd",
+    "aliases": [
+        "/Vitamin+D+might+reduce+military+costs+for+UC+and+CD+\u2013+June+2011",
+        "/1681"
+    ],
+    "tiki_page_id": 1681,
+    "date": "2011-05-31",
+    "categories": [
+        "Cost savings with Vitamin D",
+        "Gut"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Gut",
+        "IBD",
+        "crohns",
+        "gut",
+        "ulcerative colitis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

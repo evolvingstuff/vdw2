@@ -1,16 +1,21 @@
 {
-  "title": "Youthful heart attacks associated with low vitamin D",
-  "slug": "youthful-heart-attacks-associated-with-low-vitamin-d",
-  "aliases": [
-    "/Youthful+heart+attacks+associated+with+low+vitamin+D+\u2013+Nov+2010",
-    "/1162"
-  ],
-  "tiki_page_id": 1162,
-  "date": "2010-11-22",
-  "categories": [
-    "Cardiovascular",
-    "Youth"
-  ]
+    "title": "Youthful heart attacks associated with low vitamin D",
+    "slug": "youthful-heart-attacks-associated-with-low-vitamin-d",
+    "aliases": [
+        "/Youthful+heart+attacks+associated+with+low+vitamin+D+\u2013+Nov+2010",
+        "/1162"
+    ],
+    "tiki_page_id": 1162,
+    "date": "2010-11-22",
+    "categories": [
+        "Cardiovascular",
+        "Youth"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Youth",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,16 +1,26 @@
 {
-  "title": "Risk of Prostate Cancer weakly associated with vitamin D - meta-analysis",
-  "slug": "risk-of-prostate-cancer-weakly-associated-with-vitamin-d-meta-analysis",
-  "aliases": [
-    "/Risk+of+Prostate+Cancer+weakly+associated+with+vitamin+D+-+meta-analysis+March+2011",
-    "/1529"
-  ],
-  "tiki_page_id": 1529,
-  "date": "2011-03-30",
-  "categories": [
-    "Cancer - Prostate",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Risk of Prostate Cancer weakly associated with vitamin D - meta-analysis",
+    "slug": "risk-of-prostate-cancer-weakly-associated-with-vitamin-d-meta-analysis",
+    "aliases": [
+        "/Risk+of+Prostate+Cancer+weakly+associated+with+vitamin+D+-+meta-analysis+March+2011",
+        "/1529"
+    ],
+    "tiki_page_id": 1529,
+    "date": "2011-03-30",
+    "categories": [
+        "Cancer - Prostate",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "Cancer - Prostate",
+        "Meta-analysis of Vitamin D",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "prostate cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -32,5 +42,4 @@ RESULTS: Twenty-five papers were included. In prospective studies, the OR per 1,
 
 CONCLUSION: Published literature provides little evidence to support a major role of vitamin D in preventing prostate cancer or its progression.
 
-PMID: 21203822 
-
+PMID: 21203822

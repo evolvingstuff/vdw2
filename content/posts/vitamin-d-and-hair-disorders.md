@@ -1,15 +1,40 @@
 {
-  "title": "Vitamin D and Hair disorders",
-  "slug": "vitamin-d-and-hair-disorders",
-  "aliases": [
-    "/Vitamin+D+and+Hair+disorders+\u2013+Feb+2010",
-    "/2109"
-  ],
-  "tiki_page_id": 2109,
-  "date": "2011-10-20",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "Vitamin D and Hair disorders",
+    "slug": "vitamin-d-and-hair-disorders",
+    "aliases": [
+        "/Vitamin+D+and+Hair+disorders+\u2013+Feb+2010",
+        "/2109"
+    ],
+    "tiki_page_id": 2109,
+    "date": "2011-10-20",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "bone",
+        "bone cancer",
+        "brain",
+        "cancer",
+        "cancer in VDR",
+        "cognitive",
+        "dermatology",
+        "genetics",
+        "hair",
+        "melanoma",
+        "psoriasis",
+        "rickets",
+        "transplant",
+        "trauma surgery",
+        "ultraviolet light",
+        "virus",
+        "virus and cognitive",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -213,8 +238,8 @@ Extensive data from animal models clearly show that the VDR, independent of vita
 
    * Red hair apparently allows more production of vitamin D from the same amount of sunlight 
 
-* <a href="/posts/hypothesis-stem-cells-need-vitamin-d-too" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2345">Hypothesis: Stem cells need vitamin D too – Jan 2012</a>
+* [Hypothesis: Stem cells need vitamin D too – Jan 2012](/posts/hypothesis-stem-cells-need-vitamin-d-too)
 
 * [Stem Cell Transplants consume vitamin D – July 2011](/posts/stem-cell-transplants-consume-vitamin-d)
 
-* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
+* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)

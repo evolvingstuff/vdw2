@@ -1,16 +1,21 @@
 {
-  "title": "Review of vitamin D and bone health studies \u2013 with tables",
-  "slug": "review-of-vitamin-d-and-bone-health-studies-with-tables",
-  "aliases": [
-    "/Review+of+vitamin+D+and+bone+health+studies+\u2013+with+tables+Nov+2010",
-    "/1128"
-  ],
-  "tiki_page_id": 1128,
-  "date": "2010-11-09",
-  "categories": [
-    "Bone - Health",
-    "Overview for doctors"
-  ]
+    "title": "Review of vitamin D and bone health studies \u2013 with tables",
+    "slug": "review-of-vitamin-d-and-bone-health-studies-with-tables",
+    "aliases": [
+        "/Review+of+vitamin+D+and+bone+health+studies+\u2013+with+tables+Nov+2010",
+        "/1128"
+    ],
+    "tiki_page_id": 1128,
+    "date": "2010-11-09",
+    "categories": [
+        "Bone - Health",
+        "Overview for doctors"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Overview for doctors",
+        "vitamin d"
+    ]
 }
 
 
@@ -41,4 +46,3 @@ Abstract: Bone health is an important issue in aging. Calcium and vitamin D curr
 {IMG(attId="289"max="1000")}{IMG}
 
 {IMG(attId="290"max="1000")}{IMG}
-

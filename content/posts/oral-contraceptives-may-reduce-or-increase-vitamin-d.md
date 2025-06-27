@@ -1,25 +1,52 @@
 {
-  "title": "Oral contraceptives may reduce or increase vitamin D",
-  "slug": "oral-contraceptives-may-reduce-or-increase-vitamin-d",
-  "aliases": [
-    "/Oral+contraceptives+may+reduce+or+increase+vitamin+D",
-    "/1846"
-  ],
-  "tiki_page_id": 1846,
-  "date": "2011-07-19",
-  "categories": [
-    "Interactions with Vitamin D",
-    "Vitamin D and Iron"
-  ]
+    "title": "Oral contraceptives may reduce or increase vitamin D",
+    "slug": "oral-contraceptives-may-reduce-or-increase-vitamin-d",
+    "aliases": [
+        "/Oral+contraceptives+may+reduce+or+increase+vitamin+D",
+        "/1846"
+    ],
+    "tiki_page_id": 1846,
+    "date": "2011-07-19",
+    "categories": [
+        "Interactions with Vitamin D",
+        "Vitamin D and Iron"
+    ],
+    "tags": [
+        "Interactions with Vitamin D",
+        "Vitamin D and Iron",
+        "alcohol",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "bone stress fractures",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "smoking",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
- **Connection?:  Contraceptives ==> reduce bleeding ==> less anemia ==> increased Vitamin D** 
 
-* <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>
+**Connection?:  Contraceptives ==> reduce bleeding ==> less anemia ==> increased Vitamin D** 
+
+* [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
 
 * <a href="/posts/low-vitamin-d-anemia-22x-more-likely-no-surprise-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D - anemia 2.2X more likely (no surprise) – meta-analysis Aug 2015">Low vitamin D - anemia 2.2X more likely (no surprise) – meta-analysis Aug 2015</a>
 
-* <a href="/posts/5x-more-likely-to-be-vitamin-d-deficient-if-anemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5X more likely to be vitamin D deficient if anemic - Dec 2012">5X more likely to be vitamin D deficient if anemic - Dec 2012</a>
+* [5X more likely to be vitamin D deficient if anemic - Dec 2012](/posts/5x-more-likely-to-be-vitamin-d-deficient-if-anemic)
 
 {{< toc >}}
 
@@ -131,4 +158,4 @@ Results: Serum 25(OH)D concentrations were low (70% <20 ng/ml). Current use of a
 
 Conclusions: The increase in 25(OH)D with use of estrogen-containing contraceptives raise mechanistic questions regarding the biological pathways involved, and highlights the need for studies that examine possible endogenous estrogen effects on vitamin D.
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/estrogen-containing-contraception.pdf">Download the PDF from VitaminDWiki</a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/estrogen-containing-contraception.pdf">Download the PDF from VitaminDWiki</a>**

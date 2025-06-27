@@ -1,18 +1,35 @@
 {
-  "title": "People with gut problems are low on vitamin D",
-  "slug": "people-with-gut-problems-are-low-on-vitamin-d",
-  "aliases": [
-    "/People+with+gut+problems+are+low+on+vitamin+D",
-    "/1521"
-  ],
-  "tiki_page_id": 1521,
-  "date": "2011-03-29",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Gut",
-    "High Risk",
-    "Predict Vitamin D"
-  ]
+    "title": "People with gut problems are low on vitamin D",
+    "slug": "people-with-gut-problems-are-low-on-vitamin-d",
+    "aliases": [
+        "/People+with+gut+problems+are+low+on+vitamin+D",
+        "/1521"
+    ],
+    "tiki_page_id": 1521,
+    "date": "2011-03-29",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Gut",
+        "High Risk",
+        "Predict Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Gut",
+        "High Risk",
+        "IBD",
+        "Predict Vitamin D",
+        "autoimmune",
+        "celiac",
+        "child",
+        "gut",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

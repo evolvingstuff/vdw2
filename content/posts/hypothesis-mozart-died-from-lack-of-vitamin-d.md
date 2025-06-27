@@ -1,15 +1,36 @@
 {
-  "title": "Hypothesis \u2013 Mozart died from lack of vitamin D",
-  "slug": "hypothesis-mozart-died-from-lack-of-vitamin-d",
-  "aliases": [
-    "/Hypothesis+\u2013+Mozart+died+from+lack+of+vitamin+D+\u2013+June+2011",
-    "/1754"
-  ],
-  "tiki_page_id": 1754,
-  "date": "2011-06-23",
-  "categories": [
-    "Mortality and D"
-  ]
+    "title": "Hypothesis \u2013 Mozart died from lack of vitamin D",
+    "slug": "hypothesis-mozart-died-from-lack-of-vitamin-d",
+    "aliases": [
+        "/Hypothesis+\u2013+Mozart+died+from+lack+of+vitamin+D+\u2013+June+2011",
+        "/1754"
+    ],
+    "tiki_page_id": 1754,
+    "date": "2011-06-23",
+    "categories": [
+        "Mortality and D"
+    ],
+    "tags": [
+        "Mortality and D",
+        "bacteria",
+        "blood levels",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "cystic fibrosis",
+        "diabetes",
+        "dosage",
+        "heart failure",
+        "life span",
+        "metabolic",
+        "mortality",
+        "pneumonia",
+        "sepsis",
+        "trauma surgery",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

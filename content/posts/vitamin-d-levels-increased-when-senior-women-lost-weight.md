@@ -1,15 +1,26 @@
 {
-  "title": "Vitamin D levels increased when senior women lost weight",
-  "slug": "vitamin-d-levels-increased-when-senior-women-lost-weight",
-  "aliases": [
-    "/Vitamin+D+levels+increased+when+senior+women+lost+weight+\u2013+July+2011",
-    "/1963"
-  ],
-  "tiki_page_id": 1963,
-  "date": "2011-08-27",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Vitamin D levels increased when senior women lost weight",
+    "slug": "vitamin-d-levels-increased-when-senior-women-lost-weight",
+    "aliases": [
+        "/Vitamin+D+levels+increased+when+senior+women+lost+weight+\u2013+July+2011",
+        "/1963"
+    ],
+    "tiki_page_id": 1963,
+    "date": "2011-08-27",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "blood levels",
+        "cancer",
+        "health risk",
+        "obesity",
+        "obesity and cancer",
+        "vitamin d",
+        "vitamin d blood test",
+        "weight loss"
+    ]
 }
 
 

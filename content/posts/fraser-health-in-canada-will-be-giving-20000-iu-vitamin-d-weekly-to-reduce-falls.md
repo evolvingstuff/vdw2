@@ -1,18 +1,33 @@
 {
-  "title": "Fraser Health in Canada will be giving 20000 IU vitamin D weekly to reduce falls",
-  "slug": "fraser-health-in-canada-will-be-giving-20000-iu-vitamin-d-weekly-to-reduce-falls",
-  "aliases": [
-    "/Fraser+Health+in+Canada+will+be+giving+20000+IU+vitamin+D+weekly+to+reduce+falls+\u2013+Nov+2011",
-    "/2166"
-  ],
-  "tiki_page_id": 2166,
-  "date": "2011-11-08",
-  "categories": [
-    "Seniors",
-    "Cost savings with Vitamin D",
-    "Vitamin D in Canada",
-    "Falls and Fractures"
-  ]
+    "title": "Fraser Health in Canada will be giving 20000 IU vitamin D weekly to reduce falls",
+    "slug": "fraser-health-in-canada-will-be-giving-20000-iu-vitamin-d-weekly-to-reduce-falls",
+    "aliases": [
+        "/Fraser+Health+in+Canada+will+be+giving+20000+IU+vitamin+D+weekly+to+reduce+falls+\u2013+Nov+2011",
+        "/2166"
+    ],
+    "tiki_page_id": 2166,
+    "date": "2011-11-08",
+    "categories": [
+        "Seniors",
+        "Cost savings with Vitamin D",
+        "Vitamin D in Canada",
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Falls and Fractures",
+        "Seniors",
+        "Vitamin D in Canada",
+        "bone",
+        "dialysis",
+        "dosage",
+        "falls fractures",
+        "hip fractures",
+        "kidney",
+        "magnesium",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 

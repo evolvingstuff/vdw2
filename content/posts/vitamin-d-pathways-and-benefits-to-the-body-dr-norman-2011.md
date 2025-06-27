@@ -1,13 +1,22 @@
 {
-  "title": "Vitamin D pathways and benefits to the body - Dr Norman - 2011",
-  "slug": "vitamin-d-pathways-and-benefits-to-the-body-dr-norman-2011",
-  "aliases": [
-    "/Vitamin+D+pathways+and+benefits+to+the+body+-+Dr+Norman+-+2011",
-    "/1370"
-  ],
-  "tiki_page_id": 1370,
-  "date": "2011-01-31"
+    "title": "Vitamin D pathways and benefits to the body - Dr Norman - 2011",
+    "slug": "vitamin-d-pathways-and-benefits-to-the-body-dr-norman-2011",
+    "aliases": [
+        "/Vitamin+D+pathways+and+benefits+to+the+body+-+Dr+Norman+-+2011",
+        "/1370"
+    ],
+    "tiki_page_id": 1370,
+    "date": "2011-01-31",
+    "tags": [
+        "breathing",
+        "genetics",
+        "respiratory",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

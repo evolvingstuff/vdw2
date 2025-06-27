@@ -1,15 +1,30 @@
 {
-  "title": "Vitamin D deficient Type 1 diabetics 3X more likely to have calcification problems",
-  "slug": "vitamin-d-deficient-type-1-diabetics-3x-more-likely-to-have-calcification-problems",
-  "aliases": [
-    "/Vitamin+D+deficient+Type+1+diabetics+3X+more+likely+to+have+calcification+problems+\u2013+Feb+2011",
-    "/1355"
-  ],
-  "tiki_page_id": 1355,
-  "date": "2011-01-27",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Vitamin D deficient Type 1 diabetics 3X more likely to have calcification problems",
+    "slug": "vitamin-d-deficient-type-1-diabetics-3x-more-likely-to-have-calcification-problems",
+    "aliases": [
+        "/Vitamin+D+deficient+Type+1+diabetics+3X+more+likely+to+have+calcification+problems+\u2013+Feb+2011",
+        "/1355"
+    ],
+    "tiki_page_id": 1355,
+    "date": "2011-01-27",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "CKD",
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "kidney",
+        "magnesium",
+        "metabolic",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 

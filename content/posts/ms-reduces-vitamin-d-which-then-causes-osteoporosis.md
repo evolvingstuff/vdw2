@@ -1,17 +1,47 @@
 {
-  "title": "MS reduces vitamin D which then causes osteoporosis",
-  "slug": "ms-reduces-vitamin-d-which-then-causes-osteoporosis",
-  "aliases": [
-    "/MS+reduces+vitamin+D+which+then+causes+osteoporosis+\u2013+July+2011",
-    "/1810"
-  ],
-  "tiki_page_id": 1810,
-  "date": "2011-07-08",
-  "categories": [
-    "Multiple Sclerosis",
-    "Osteoporosis"
-  ]
+    "title": "MS reduces vitamin D which then causes osteoporosis",
+    "slug": "ms-reduces-vitamin-d-which-then-causes-osteoporosis",
+    "aliases": [
+        "/MS+reduces+vitamin+D+which+then+causes+osteoporosis+\u2013+July+2011",
+        "/1810"
+    ],
+    "tiki_page_id": 1810,
+    "date": "2011-07-08",
+    "categories": [
+        "Multiple Sclerosis",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "Osteoporosis",
+        "TBI",
+        "autoimmune",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "brain",
+        "cardiovascular",
+        "cognitive",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "intervention",
+        "life span",
+        "mortality",
+        "multiple sclerosis",
+        "neurological",
+        "osteoporosis",
+        "smoking",
+        "spinal cord",
+        "stroke",
+        "therapeutic intervention",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -64,4 +94,3 @@ PMID:     21711256
 # Following chart shows the vicious cycle  for MS: Low vitamin D==> MS ==> lower vitamin D
 
 <img src="/attachments/d3.mock.jpg" alt="image">
-

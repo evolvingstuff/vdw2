@@ -1,16 +1,22 @@
 {
-  "title": "Wonder which political party afflication would believe in vitamin D",
-  "slug": "wonder-which-political-party-afflication-would-believe-in-vitamin-d",
-  "aliases": [
-    "/Wonder+which+political+party+afflication+would+believe+in+vitamin+D+\u2013+March+2011",
-    "/1456"
-  ],
-  "tiki_page_id": 1456,
-  "date": "2011-03-04",
-  "categories": [
-    "Diabetes",
-    "More D topics"
-  ]
+    "title": "Wonder which political party afflication would believe in vitamin D",
+    "slug": "wonder-which-political-party-afflication-would-believe-in-vitamin-d",
+    "aliases": [
+        "/Wonder+which+political+party+afflication+would+believe+in+vitamin+D+\u2013+March+2011",
+        "/1456"
+    ],
+    "tiki_page_id": 1456,
+    "date": "2011-03-04",
+    "categories": [
+        "Diabetes",
+        "More D topics"
+    ],
+    "tags": [
+        "Diabetes",
+        "More D topics",
+        "diabetes",
+        "metabolic"
+    ]
 }
 
 

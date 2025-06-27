@@ -1,16 +1,26 @@
 {
-  "title": "Elderly low on vitamin D were 2X more likely to die",
-  "slug": "elderly-low-on-vitamin-d-were-2x-more-likely-to-die",
-  "aliases": [
-    "/Elderly+low+on+vitamin+D+were+2X+more+likely+to+die+\u2013+Oct+2010",
-    "/1116"
-  ],
-  "tiki_page_id": 1116,
-  "date": "2010-11-05",
-  "categories": [
-    "Seniors"
-  ]
+    "title": "Elderly low on vitamin D were 2X more likely to die",
+    "slug": "elderly-low-on-vitamin-d-were-2x-more-likely-to-die",
+    "aliases": [
+        "/Elderly+low+on+vitamin+D+were+2X+more+likely+to+die+\u2013+Oct+2010",
+        "/1116"
+    ],
+    "tiki_page_id": 1116,
+    "date": "2010-11-05",
+    "categories": [
+        "Seniors"
+    ],
+    "tags": [
+        "Seniors",
+        "blood levels",
+        "cancer",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Association of serum 25-hydroxyvitamin D with the risk of death in a general older population in Finland
 
@@ -33,4 +43,3 @@ The mean serum 25(OH)D concentration was 43.7 nmol/L (SD 17.8), with a strong se
 Conclusions  
 
 Our study supports the accumulating evidence from epidemiological studies that vitamin D deficiency is associated with increased risk of death. Large-scale primary prevention trials with vitamin D supplementation are warranted.
-

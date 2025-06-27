@@ -1,16 +1,25 @@
 {
-  "title": "Vitamin D and Risk of Cognitive Decline in Elderly Persons",
-  "slug": "vitamin-d-and-risk-of-cognitive-decline-in-elderly-persons",
-  "aliases": [
-    "/Vitamin+D+and+Risk+of+Cognitive+Decline+in+Elderly+Persons+\u2013+June+2011",
-    "/1944"
-  ],
-  "tiki_page_id": 1944,
-  "date": "2011-08-24",
-  "categories": [
-    "Cognitive"
-  ]
+    "title": "Vitamin D and Risk of Cognitive Decline in Elderly Persons",
+    "slug": "vitamin-d-and-risk-of-cognitive-decline-in-elderly-persons",
+    "aliases": [
+        "/Vitamin+D+and+Risk+of+Cognitive+Decline+in+Elderly+Persons+\u2013+June+2011",
+        "/1944"
+    ],
+    "tiki_page_id": 1944,
+    "date": "2011-08-24",
+    "categories": [
+        "Cognitive"
+    ],
+    "tags": [
+        "Cognitive",
+        "brain",
+        "cognitive",
+        "dementia",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Obstetrical & Gynecological Survey:
 

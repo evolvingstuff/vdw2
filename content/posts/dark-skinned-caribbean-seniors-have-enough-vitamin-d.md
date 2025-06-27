@@ -1,15 +1,26 @@
 {
-  "title": "Dark skinned Caribbean seniors have enough vitamin D",
-  "slug": "dark-skinned-caribbean-seniors-have-enough-vitamin-d",
-  "aliases": [
-    "/Dark+skinned+Caribbean+seniors+have+enough+vitamin+D+\u2013+April+2011",
-    "/1569"
-  ],
-  "tiki_page_id": 1569,
-  "date": "2011-04-07",
-  "categories": [
-    "Skin - Dark"
-  ]
+    "title": "Dark skinned Caribbean seniors have enough vitamin D",
+    "slug": "dark-skinned-caribbean-seniors-have-enough-vitamin-d",
+    "aliases": [
+        "/Dark+skinned+Caribbean+seniors+have+enough+vitamin+D+\u2013+April+2011",
+        "/1569"
+    ],
+    "tiki_page_id": 1569,
+    "date": "2011-04-07",
+    "categories": [
+        "Skin - Dark"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "autoimmune",
+        "blood levels",
+        "dosage",
+        "high dose",
+        "intervention",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

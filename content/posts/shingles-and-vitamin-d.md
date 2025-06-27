@@ -1,19 +1,64 @@
 {
-  "title": "Shingles and vitamin D",
-  "slug": "shingles-and-vitamin-d",
-  "aliases": [
-    "/Shingles+and+vitamin+D",
-    "/1468"
-  ],
-  "tiki_page_id": 1468,
-  "date": "2011-03-10",
-  "categories": [
-    "Skin",
-    "Virus"
-  ]
+    "title": "Shingles and vitamin D",
+    "slug": "shingles-and-vitamin-d",
+    "aliases": [
+        "/Shingles+and+vitamin+D",
+        "/1468"
+    ],
+    "tiki_page_id": 1468,
+    "date": "2011-03-10",
+    "categories": [
+        "Skin",
+        "Virus"
+    ],
+    "tags": [
+        "Skin",
+        "Virus",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "cancers after vaccination",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood vaccination",
+        "childhood viruses",
+        "cystic fibrosis",
+        "dosage",
+        "falls fractures",
+        "helicobacter pylori",
+        "hemodialysis",
+        "herpes shingles",
+        "high dose",
+        "immunity",
+        "infection",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and viruses",
+        "metabolic",
+        "multiple sclerosis",
+        "neurological",
+        "pediatric autoimmune",
+        "pfizer",
+        "spinal cord",
+        "statins",
+        "stroke",
+        "therapeutic intervention",
+        "vaccination",
+        "virus",
+        "virus and cardiovascular",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
- **Summary: Vitamin D and Magnesium both treat shingles** 
+
+**Summary: Vitamin D and Magnesium both treat shingles** 
 
 * Shingles worse with low vitamin D, low UV, high latitude, and winter
 

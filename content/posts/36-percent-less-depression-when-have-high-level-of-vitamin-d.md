@@ -1,15 +1,32 @@
 {
-  "title": "36 percent less depression when have high level of vitamin D",
-  "slug": "36-percent-less-depression-when-have-high-level-of-vitamin-d",
-  "aliases": [
-    "/36+percent+less+depression+when+have+high+level+of+vitamin+D+\u2013+July+2011",
-    "/1864"
-  ],
-  "tiki_page_id": 1864,
-  "date": "2011-07-26",
-  "categories": [
-    "Depression"
-  ]
+    "title": "36 percent less depression when have high level of vitamin D",
+    "slug": "36-percent-less-depression-when-have-high-level-of-vitamin-d",
+    "aliases": [
+        "/36+percent+less+depression+when+have+high+level+of+vitamin+D+\u2013+July+2011",
+        "/1864"
+    ],
+    "tiki_page_id": 1864,
+    "date": "2011-07-26",
+    "categories": [
+        "Depression"
+    ],
+    "tags": [
+        "Depression",
+        "alcohol",
+        "cancer",
+        "depression",
+        "depression and pregnancy",
+        "diabetes",
+        "dosage",
+        "health risk",
+        "metabolic",
+        "mood disorders",
+        "pancreatic cancer",
+        "pregnancy",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -81,6 +98,6 @@ Copyright © 2011 Elsevier Ltd. All rights reserved. PMID:     21784535
 
 * [Depression 40 percent more likely if low vitamin D – Oct 2011](/posts/depression-40-percent-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2439">Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012</a>
+* [Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012](/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng)
 
 * <a href="/posts/depression-not-reduced-with-5700-iu-vitamin-d-daily-average" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3006">Depression not reduced with 5700 IU vitamin D daily average – July 2012</a>  later study, also by Kjærgaard

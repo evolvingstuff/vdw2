@@ -1,15 +1,23 @@
 {
-  "title": "25 percent reduction in diabetes risk if vitamin D great than 30 ng",
-  "slug": "25-percent-reduction-in-diabetes-risk-if-vitamin-d-great-than-30-ng",
-  "aliases": [
-    "/25+percent+reduction+in+diabetes+risk+if+vitamin+D+great+than+30+ng+-+June+2011",
-    "/1763"
-  ],
-  "tiki_page_id": 1763,
-  "date": "2011-06-26",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "25 percent reduction in diabetes risk if vitamin D great than 30 ng",
+    "slug": "25-percent-reduction-in-diabetes-risk-if-vitamin-d-great-than-30-ng",
+    "aliases": [
+        "/25+percent+reduction+in+diabetes+risk+if+vitamin+D+great+than+30+ng+-+June+2011",
+        "/1763"
+    ],
+    "tiki_page_id": 1763,
+    "date": "2011-06-26",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,17 +1,31 @@
 {
-  "title": "Staph infection reduced 50 percent when have more than 30 ng of vitamin D",
-  "slug": "staph-infection-reduced-50-percent-when-have-more-than-30-ng-of-vitamin-d",
-  "aliases": [
-    "/Staph+infection+reduced+50+percent+when+have+more+than+30+ng+of+vitamin+D+\u2013+Aug+2011",
-    "/1892"
-  ],
-  "tiki_page_id": 1892,
-  "date": "2011-08-04",
-  "categories": [
-    "Immunity",
-    "Trauma and surgery",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "Staph infection reduced 50 percent when have more than 30 ng of vitamin D",
+    "slug": "staph-infection-reduced-50-percent-when-have-more-than-30-ng-of-vitamin-d",
+    "aliases": [
+        "/Staph+infection+reduced+50+percent+when+have+more+than+30+ng+of+vitamin+D+\u2013+Aug+2011",
+        "/1892"
+    ],
+    "tiki_page_id": 1892,
+    "date": "2011-08-04",
+    "categories": [
+        "Immunity",
+        "Trauma and surgery",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Immunity",
+        "Trauma and surgery",
+        "blood levels",
+        "breathing",
+        "health risk",
+        "pneumonia",
+        "sepsis",
+        "smoking",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,15 +1,20 @@
 {
-  "title": "Skin pigmentation predicted bone mineral content in Hawaii",
-  "slug": "skin-pigmentation-predicted-bone-mineral-content-in-hawaii",
-  "aliases": [
-    "/Skin+pigmentation+predicted+bone+mineral+content+in+Hawaii+\u2013+April+2011",
-    "/1583"
-  ],
-  "tiki_page_id": 1583,
-  "date": "2011-04-20",
-  "categories": [
-    "Skin - Dark"
-  ]
+    "title": "Skin pigmentation predicted bone mineral content in Hawaii",
+    "slug": "skin-pigmentation-predicted-bone-mineral-content-in-hawaii",
+    "aliases": [
+        "/Skin+pigmentation+predicted+bone+mineral+content+in+Hawaii+\u2013+April+2011",
+        "/1583"
+    ],
+    "tiki_page_id": 1583,
+    "date": "2011-04-20",
+    "categories": [
+        "Skin - Dark"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -29,5 +34,4 @@ RESULTS: There were no significant differences between ethnic groups in terms of
 
 CONCLUSIONS: The difference between facultative and non-facultative skin pigmentation for a* is a significant predictor BMC, but not bone structure. Our findings are limited by an inability to control for long term UVA and UVB exposure and lack of a measure of serum 25(OH)D status. Further research is needed to examine these questions, particularly in populations who live at high latitudes where a winter season limits vitamin D(3) synthesis. Am. J. Hum. Biol. 2011. © 2011 Wiley-Liss, Inc.
 
-Copyright © 2011 Wiley-Liss, Inc. PMID: 21495109 
-
+Copyright © 2011 Wiley-Liss, Inc. PMID: 21495109

@@ -1,15 +1,57 @@
 {
-  "title": "UVB and Vitamin D might decrease dental caries better than fluoride",
-  "slug": "uvb-and-vitamin-d-might-decrease-dental-caries-better-than-fluoride",
-  "aliases": [
-    "/UVB+and+Vitamin+D+might+decrease+dental+caries+better+than+fluoride+\u2013+July+2011",
-    "/1653"
-  ],
-  "tiki_page_id": 1653,
-  "date": "2011-05-23",
-  "categories": [
-    "Dental"
-  ]
+    "title": "UVB and Vitamin D might decrease dental caries better than fluoride",
+    "slug": "uvb-and-vitamin-d-might-decrease-dental-caries-better-than-fluoride",
+    "aliases": [
+        "/UVB+and+Vitamin+D+might+decrease+dental+caries+better+than+fluoride+\u2013+July+2011",
+        "/1653"
+    ],
+    "tiki_page_id": 1653,
+    "date": "2011-05-23",
+    "categories": [
+        "Dental"
+    ],
+    "tags": [
+        "Dental",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood pneumonia",
+        "childhood viruses",
+        "cognitive",
+        "colon cancer",
+        "dental",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "fluoridation",
+        "high dose",
+        "influenza",
+        "intervention",
+        "life span",
+        "metabolic",
+        "mortality",
+        "pediatric autoimmune",
+        "pneumonia",
+        "pregnancy",
+        "sepsis",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "virus",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

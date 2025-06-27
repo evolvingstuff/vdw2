@@ -1,16 +1,41 @@
 {
-  "title": "Some immunodeficiency diseases associated with low vitamin D and increased Osteoporosis",
-  "slug": "some-immunodeficiency-diseases-associated-with-low-vitamin-d-and-increased-osteoporosis",
-  "aliases": [
-    "/Some+immunodeficiency+diseases+associated+with+low+vitamin+D+and+increased+Osteoporosis+\u2013+Nov+2011",
-    "/2056"
-  ],
-  "tiki_page_id": 2056,
-  "date": "2011-09-30",
-  "categories": [
-    "Immunity",
-    "Osteoporosis"
-  ]
+    "title": "Some immunodeficiency diseases associated with low vitamin D and increased Osteoporosis",
+    "slug": "some-immunodeficiency-diseases-associated-with-low-vitamin-d-and-increased-osteoporosis",
+    "aliases": [
+        "/Some+immunodeficiency+diseases+associated+with+low+vitamin+D+and+increased+Osteoporosis+\u2013+Nov+2011",
+        "/2056"
+    ],
+    "tiki_page_id": 2056,
+    "date": "2011-09-30",
+    "categories": [
+        "Immunity",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Immunity",
+        "Osteoporosis",
+        "autoimmune",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood pneumonia",
+        "childhood viruses",
+        "high dose",
+        "influenza",
+        "intervention",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pneumonia",
+        "therapeutic intervention",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 
@@ -51,4 +76,3 @@ The most common infections are sinopulmonary and include S
 * mycoplasma infections. 
 
 Individuals may experience meningitis or other systemic bacterial infections, recurrent eye or skin infections, or gastrointestinal symptoms related to compromised immune/gut homeostasis, including chronic diarrhea, malabsorption, or bloating. They may also have abnormal T-cell function and immune dysregulation, including lymphoid hyperplasia, gastrointestinal inflammation, autoimmune phenomena, and susceptibility to malignancy, especially lymphomas.
-

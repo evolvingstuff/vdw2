@@ -1,15 +1,40 @@
 {
-  "title": "Vitamin D Holick",
-  "slug": "vitamin-d-holick",
-  "aliases": [
-    "/Vitamin+D+Holick+\u2013+Jan+2011",
-    "/1224"
-  ],
-  "tiki_page_id": 1224,
-  "date": "2010-12-12",
-  "categories": [
-    "Overview for doctors"
-  ]
+    "title": "Vitamin D Holick",
+    "slug": "vitamin-d-holick",
+    "aliases": [
+        "/Vitamin+D+Holick+\u2013+Jan+2011",
+        "/1224"
+    ],
+    "tiki_page_id": 1224,
+    "date": "2010-12-12",
+    "categories": [
+        "Overview for doctors"
+    ],
+    "tags": [
+        "Overview for doctors",
+        "atherosclerosis",
+        "autoimmune",
+        "blood levels",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "genetics",
+        "heart failure",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "pediatric autoimmune",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -52,4 +77,3 @@ Correcting and preventing this deficiency could have an enormous impact on reduc
 * <a href="/posts/vitamin-d-deficiency-universal-risk-factor-for-multifactorial-diseases" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1228">Vitamin d deficiency: universal risk factor for multifactorial diseases?</a>
 
 * <a href="/posts/vitamin-d-in-atherosclerosis-vascular-disease-and-endothelial-function" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1229">Vitamin d in atherosclerosis, vascular disease, and endothelial function</a>
-

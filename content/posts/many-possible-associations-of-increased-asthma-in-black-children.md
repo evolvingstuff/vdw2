@@ -1,16 +1,24 @@
 {
-  "title": "Many possible associations of increased asthma in black children",
-  "slug": "many-possible-associations-of-increased-asthma-in-black-children",
-  "aliases": [
-    "/Many+possible+associations+of+increased+asthma+in+black+children+\u2013+Nov+2010",
-    "/1174"
-  ],
-  "tiki_page_id": 1174,
-  "date": "2010-11-26",
-  "categories": [
-    "Skin - Dark",
-    "Breathing"
-  ]
+    "title": "Many possible associations of increased asthma in black children",
+    "slug": "many-possible-associations-of-increased-asthma-in-black-children",
+    "aliases": [
+        "/Many+possible+associations+of+increased+asthma+in+black+children+\u2013+Nov+2010",
+        "/1174"
+    ],
+    "tiki_page_id": 1174,
+    "date": "2010-11-26",
+    "categories": [
+        "Skin - Dark",
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "Skin - Dark",
+        "asthma",
+        "breathing",
+        "child",
+        "vitamin d"
+    ]
 }
 
 
@@ -37,4 +45,3 @@ healthcare setting, and
 associated health beliefs.**  
 
 PMID: 21107764
-

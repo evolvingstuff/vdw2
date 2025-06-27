@@ -1,15 +1,26 @@
 {
-  "title": "Lack of sun and lack of vitamin D are both MS risk factors",
-  "slug": "lack-of-sun-and-lack-of-vitamin-d-are-both-ms-risk-factors",
-  "aliases": [
-    "/Lack+of+sun+and+lack+of+vitamin+D+are+both+MS+risk+factors+\u2013+Feb+2011",
-    "/1532"
-  ],
-  "tiki_page_id": 1532,
-  "date": "2011-03-30",
-  "categories": [
-    "Multiple Sclerosis"
-  ]
+    "title": "Lack of sun and lack of vitamin D are both MS risk factors",
+    "slug": "lack-of-sun-and-lack-of-vitamin-d-are-both-ms-risk-factors",
+    "aliases": [
+        "/Lack+of+sun+and+lack+of+vitamin+D+are+both+MS+risk+factors+\u2013+Feb+2011",
+        "/1532"
+    ],
+    "tiki_page_id": 1532,
+    "date": "2011-03-30",
+    "categories": [
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "autoimmune",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -36,4 +47,3 @@ PMID: 21300969
 # See also VitaminDWiki
 
 * <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview MS and Vitamin D</a>
-

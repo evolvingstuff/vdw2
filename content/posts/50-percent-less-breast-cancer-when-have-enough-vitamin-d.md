@@ -1,15 +1,29 @@
 {
-  "title": "50 percent less breast cancer when have enough vitamin D",
-  "slug": "50-percent-less-breast-cancer-when-have-enough-vitamin-d",
-  "aliases": [
-    "/50+percent+less+breast+cancer+when+have+enough+vitamin+D+-+Sept+2011",
-    "/1958"
-  ],
-  "tiki_page_id": 1958,
-  "date": "2011-08-27",
-  "categories": [
-    "Cancer - Breast"
-  ]
+    "title": "50 percent less breast cancer when have enough vitamin D",
+    "slug": "50-percent-less-breast-cancer-when-have-enough-vitamin-d",
+    "aliases": [
+        "/50+percent+less+breast+cancer+when+have+enough+vitamin+D+-+Sept+2011",
+        "/1958"
+    ],
+    "tiki_page_id": 1958,
+    "date": "2011-08-27",
+    "categories": [
+        "Cancer - Breast"
+    ],
+    "tags": [
+        "CYPA",
+        "CYPR",
+        "Cancer - Breast",
+        "blood levels",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cystic fibrosis",
+        "dosage",
+        "genetics",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -93,7 +107,7 @@ PMID:     21868542
 
 * <a href="/posts/breast-cancer-survivors-should-take-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 821">Breast cancer survivors should take vitamin D – Mar 2010</a>
 
-* <a href="/posts/breast-tumor-1-inch-bigger-for-each-1-ng-decrease-in-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2284">Breast tumor 1 inch bigger for each 1 ng decrease in vitamin D – Dec 2011</a>
+* [Breast tumor 1 inch bigger for each 1 ng decrease in vitamin D – Dec 2011](/posts/breast-tumor-1-inch-bigger-for-each-1-ng-decrease-in-vitamin-d)
 
 # Chart from 2010
 

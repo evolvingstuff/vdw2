@@ -1,15 +1,25 @@
 {
-  "title": "Type 2 diabetes treated by 30 ng of vitamin D",
-  "slug": "type-2-diabetes-treated-by-30-ng-of-vitamin-d",
-  "aliases": [
-    "/Type+2+diabetes+treated+by+30+ng+of+vitamin+D+\u2013+Feb+2011",
-    "/1431"
-  ],
-  "tiki_page_id": 1431,
-  "date": "2011-02-23",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Type 2 diabetes treated by 30 ng of vitamin D",
+    "slug": "type-2-diabetes-treated-by-30-ng-of-vitamin-d",
+    "aliases": [
+        "/Type+2+diabetes+treated+by+30+ng+of+vitamin+D+\u2013+Feb+2011",
+        "/1431"
+    ],
+    "tiki_page_id": 1431,
+    "date": "2011-02-23",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "dialysis",
+        "hypertension",
+        "kidney",
+        "metabolic",
+        "vitamin d"
+    ]
 }
 
 

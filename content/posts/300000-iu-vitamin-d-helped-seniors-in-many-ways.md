@@ -1,16 +1,24 @@
 {
-  "title": "300,000 IU vitamin D helped seniors in many ways",
-  "slug": "300000-iu-vitamin-d-helped-seniors-in-many-ways",
-  "aliases": [
-    "/300000+IU+vitamin+D+helped+seniors+in+many+ways+\u2013+May+2011",
-    "/1632"
-  ],
-  "tiki_page_id": 1632,
-  "date": "2011-05-15",
-  "categories": [
-    "Seniors",
-    "Loading dose for Vitamin D"
-  ]
+    "title": "300,000 IU vitamin D helped seniors in many ways",
+    "slug": "300000-iu-vitamin-d-helped-seniors-in-many-ways",
+    "aliases": [
+        "/300000+IU+vitamin+D+helped+seniors+in+many+ways+\u2013+May+2011",
+        "/1632"
+    ],
+    "tiki_page_id": 1632,
+    "date": "2011-05-15",
+    "categories": [
+        "Seniors",
+        "Loading dose for Vitamin D"
+    ],
+    "tags": [
+        "Loading dose for Vitamin D",
+        "Seniors",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
 
 
@@ -73,4 +81,3 @@ The megadose vitamin D administration
 * <a href="/posts/overview-of-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview of Dark Skin and vitamin D</a> 
 
    * Such a megadose would probably also help others at risk of being vitamin D deficient
-

@@ -1,17 +1,26 @@
 {
-  "title": "Canadian Vitamin D deficiency",
-  "slug": "canadian-vitamin-d-deficiency",
-  "aliases": [
-    "/Canadian+Vitamin+D+deficiency+\u2013+May+2011",
-    "/1643"
-  ],
-  "tiki_page_id": 1643,
-  "date": "2011-05-20",
-  "categories": [
-    "Skin - Dark",
-    "Deficiency of Vitamin D",
-    "Vitamin D in Canada"
-  ]
+    "title": "Canadian Vitamin D deficiency",
+    "slug": "canadian-vitamin-d-deficiency",
+    "aliases": [
+        "/Canadian+Vitamin+D+deficiency+\u2013+May+2011",
+        "/1643"
+    ],
+    "tiki_page_id": 1643,
+    "date": "2011-05-20",
+    "categories": [
+        "Skin - Dark",
+        "Deficiency of Vitamin D",
+        "Vitamin D in Canada"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Skin - Dark",
+        "Vitamin D in Canada",
+        "blood levels",
+        "child",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

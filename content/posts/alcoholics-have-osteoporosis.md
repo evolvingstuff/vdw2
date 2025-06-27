@@ -1,16 +1,32 @@
 {
-  "title": "Alcoholics have osteoporosis",
-  "slug": "alcoholics-have-osteoporosis",
-  "aliases": [
-    "/Alcoholics+have+osteoporosis+\u2013+Nov+2010",
-    "/1121"
-  ],
-  "tiki_page_id": 1121,
-  "date": "2010-11-06",
-  "categories": [
-    "Liver",
-    "Osteoporosis"
-  ]
+    "title": "Alcoholics have osteoporosis",
+    "slug": "alcoholics-have-osteoporosis",
+    "aliases": [
+        "/Alcoholics+have+osteoporosis+\u2013+Nov+2010",
+        "/1121"
+    ],
+    "tiki_page_id": 1121,
+    "date": "2010-11-06",
+    "categories": [
+        "Liver",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Liver",
+        "Osteoporosis",
+        "alcohol",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "health risk",
+        "life span",
+        "mortality",
+        "obesity",
+        "osteoporosis",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

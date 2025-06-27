@@ -1,15 +1,35 @@
 {
-  "title": "Many obesity measures far worse for senior women with low vitamin D",
-  "slug": "many-obesity-measures-far-worse-for-senior-women-with-low-vitamin-d",
-  "aliases": [
-    "/Many+obesity+measures+far+worse+for+senior+women+with+low+vitamin+D+\u2013+July+2011",
-    "/1962"
-  ],
-  "tiki_page_id": 1962,
-  "date": "2011-08-27",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Many obesity measures far worse for senior women with low vitamin D",
+    "slug": "many-obesity-measures-far-worse-for-senior-women-with-low-vitamin-d",
+    "aliases": [
+        "/Many+obesity+measures+far+worse+for+senior+women+with+low+vitamin+D+\u2013+July+2011",
+        "/1962"
+    ],
+    "tiki_page_id": 1962,
+    "date": "2011-08-27",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "alcohol",
+        "autoimmune",
+        "blood levels",
+        "cholesterol",
+        "health risk",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "obesity",
+        "pain",
+        "rheumatoid arthritis",
+        "smoking",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -54,4 +74,3 @@ PMCID: PMC3127524
 * [All items in Obesity and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=19&sort_mode=created_desc) 94 as of Aug 2011
 
 * <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
-

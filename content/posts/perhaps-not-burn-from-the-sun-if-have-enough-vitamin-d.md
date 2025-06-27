@@ -1,15 +1,26 @@
 {
-  "title": "Perhaps not burn from the sun if have enough vitamin D",
-  "slug": "perhaps-not-burn-from-the-sun-if-have-enough-vitamin-d",
-  "aliases": [
-    "/Perhaps+not+burn+from+the+sun+if+have+enough+vitamin+D",
-    "/1669"
-  ],
-  "tiki_page_id": 1669,
-  "date": "2011-05-26",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Perhaps not burn from the sun if have enough vitamin D",
+    "slug": "perhaps-not-burn-from-the-sun-if-have-enough-vitamin-d",
+    "aliases": [
+        "/Perhaps+not+burn+from+the+sun+if+have+enough+vitamin+D",
+        "/1669"
+    ],
+    "tiki_page_id": 1669,
+    "date": "2011-05-26",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "cancer",
+        "cardiovascular",
+        "dosage",
+        "high dose",
+        "omega 3",
+        "statins",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -44,4 +55,3 @@ Also, some fair-skinned people have a genetic variation that prevents their skin
 # See also web
 
 * Vitamin D [July 2011 mouse study](http://www.ncbi.nlm.nih.gov/pubmed/21733837%20)
-

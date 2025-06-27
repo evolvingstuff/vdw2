@@ -1,16 +1,25 @@
 {
-  "title": "4000 IU vitamin D was not enough to reduce obesity \u2013 PhD 2010",
-  "slug": "4000-iu-vitamin-d-was-not-enough-to-reduce-obesity-phd-2010",
-  "aliases": [
-    "/4000+IU+vitamin+D+was+not+enough+to+reduce+obesity+\u2013+PhD+2010",
-    "/1850"
-  ],
-  "tiki_page_id": 1850,
-  "date": "2011-07-21",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "4000 IU vitamin D was not enough to reduce obesity \u2013 PhD 2010",
+    "slug": "4000-iu-vitamin-d-was-not-enough-to-reduce-obesity-phd-2010",
+    "aliases": [
+        "/4000+IU+vitamin+D+was+not+enough+to+reduce+obesity+\u2013+PhD+2010",
+        "/1850"
+    ],
+    "tiki_page_id": 1850,
+    "date": "2011-07-21",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -39,4 +48,3 @@ Further, no differences within or between groups at 0 and 12 wks were detected f
 – – – – – – 
 
 # 4000 IU increased vitamin D level from 20 ng to 33 ng. Cannot expect much improvement at this level of vitamin D
-

@@ -1,15 +1,28 @@
 {
-  "title": "Vitamin D level of 50 ng may be too high",
-  "slug": "vitamin-d-level-of-50-ng-may-be-too-high",
-  "aliases": [
-    "/Vitamin+D+level+of+50+ng+may+be+too+high+-+May+2010",
-    "/1478"
-  ],
-  "tiki_page_id": 1478,
-  "date": "2011-03-13",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "Vitamin D level of 50 ng may be too high",
+    "slug": "vitamin-d-level-of-50-ng-may-be-too-high",
+    "aliases": [
+        "/Vitamin+D+level+of+50+ng+may+be+too+high+-+May+2010",
+        "/1478"
+    ],
+    "tiki_page_id": 1478,
+    "date": "2011-03-13",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "cancer",
+        "dosage",
+        "falls fractures",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin k"
+    ]
 }
 
 

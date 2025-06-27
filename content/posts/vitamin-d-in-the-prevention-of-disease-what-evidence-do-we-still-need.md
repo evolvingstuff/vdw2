@@ -1,17 +1,43 @@
 {
-  "title": "Vitamin D in the prevention of disease - what evidence do we still need",
-  "slug": "vitamin-d-in-the-prevention-of-disease-what-evidence-do-we-still-need",
-  "aliases": [
-    "/Vitamin+D+in+the+prevention+of+disease+-+what+evidence+do+we+still+need+-+Aug+2011",
-    "/1924"
-  ],
-  "tiki_page_id": 1924,
-  "date": "2011-08-20",
-  "categories": [
-    "Evidence for D",
-    "Intervention"
-  ]
+    "title": "Vitamin D in the prevention of disease - what evidence do we still need",
+    "slug": "vitamin-d-in-the-prevention-of-disease-what-evidence-do-we-still-need",
+    "aliases": [
+        "/Vitamin+D+in+the+prevention+of+disease+-+what+evidence+do+we+still+need+-+Aug+2011",
+        "/1924"
+    ],
+    "tiki_page_id": 1924,
+    "date": "2011-08-20",
+    "categories": [
+        "Evidence for D",
+        "Intervention"
+    ],
+    "tags": [
+        "Evidence for D",
+        "Intervention",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "cancer in VDR",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "colon cancer",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "high dose",
+        "life span",
+        "mortality",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 from Public Health Nutrition: 14(9), 1512-1514
 
@@ -73,5 +99,4 @@ University of Helsinki, PO Box 66, FI-00014 University of Helsinki, Finland;  ch
 
 10. MichaelssonK,Baron JA,Snellman G et al. (2010) Plasma vitamin D and mortality in older men: a community-based prospective cohort study. Am J Clin Nutr 92, 841-848.
 
-- - - - - - - - 
-
+- - - - - - - -

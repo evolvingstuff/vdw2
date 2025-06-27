@@ -1,15 +1,26 @@
 {
-  "title": "People with Cystic Fibrosis should have more than 35 ng of vitamin D",
-  "slug": "people-with-cystic-fibrosis-should-have-more-than-35-ng-of-vitamin-d",
-  "aliases": [
-    "/People+with+Cystic+Fibrosis+should+have+more+than+35+ng+of+vitamin+D+\u2013+March+2011",
-    "/1540"
-  ],
-  "tiki_page_id": 1540,
-  "date": "2011-03-30",
-  "categories": [
-    "Cystic Fibrosis"
-  ]
+    "title": "People with Cystic Fibrosis should have more than 35 ng of vitamin D",
+    "slug": "people-with-cystic-fibrosis-should-have-more-than-35-ng-of-vitamin-d",
+    "aliases": [
+        "/People+with+Cystic+Fibrosis+should+have+more+than+35+ng+of+vitamin+D+\u2013+March+2011",
+        "/1540"
+    ],
+    "tiki_page_id": 1540,
+    "date": "2011-03-30",
+    "categories": [
+        "Cystic Fibrosis"
+    ],
+    "tags": [
+        "Cystic Fibrosis",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "breathing",
+        "cystic fibrosis",
+        "falls fractures",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -32,4 +43,3 @@ To obtain 90% sensitivity, a 25OHD ?35 ng/ml was required. Strikingly, 23% of in
 CONCLUSIONS: Inadequate serum 25OHD levels are common in adults with CF and are associated with elevated PTH levels. Aiming to maintain 25-OHD levels ?35 ng/ml in individuals with CF decreases the risk of having a PTH level associated with secondary hyperparathyroidism and bone loss.
 
 PMID: 21393390
-

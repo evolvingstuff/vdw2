@@ -1,15 +1,24 @@
 {
-  "title": "Asthma worse with low Vitamin D only at age 4 - cohort study",
-  "slug": "asthma-worse-with-low-vitamin-d-only-at-age-4-cohort-study",
-  "aliases": [
-    "/Asthma+worse+with+low+Vitamin+D+only+at+age+4+-+cohort+study+Sept+2011",
-    "/2049"
-  ],
-  "tiki_page_id": 2049,
-  "date": "2011-09-28",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Asthma worse with low Vitamin D only at age 4 - cohort study",
+    "slug": "asthma-worse-with-low-vitamin-d-only-at-age-4-cohort-study",
+    "aliases": [
+        "/Asthma+worse+with+low+Vitamin+D+only+at+age+4+-+cohort+study+Sept+2011",
+        "/2049"
+    ],
+    "tiki_page_id": 2049,
+    "date": "2011-09-28",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "breathing",
+        "child",
+        "magnesium",
+        "vitamin d",
+        "zinc"
+    ]
 }
 
 
@@ -42,4 +51,3 @@ Age 8  asthma worse if high vitamin D
 # See also VitaminDWiki
 
 * [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
-

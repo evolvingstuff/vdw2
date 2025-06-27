@@ -1,15 +1,25 @@
 {
-  "title": "Calcium and vitamin D for chronic disease: a time for action",
-  "slug": "calcium-and-vitamin-d-for-chronic-disease-a-time-for-action",
-  "aliases": [
-    "/Calcium+and+vitamin+D+for+chronic+disease+a+time+for+action+-+Sept+2011",
-    "/1998"
-  ],
-  "tiki_page_id": 1998,
-  "date": "2011-09-13",
-  "categories": [
-    "About D - more info."
-  ]
+    "title": "Calcium and vitamin D for chronic disease: a time for action",
+    "slug": "calcium-and-vitamin-d-for-chronic-disease-a-time-for-action",
+    "aliases": [
+        "/Calcium+and+vitamin+D+for+chronic+disease+a+time+for+action+-+Sept+2011",
+        "/1998"
+    ],
+    "tiki_page_id": 1998,
+    "date": "2011-09-13",
+    "categories": [
+        "About D - more info."
+    ],
+    "tags": [
+        "About D - more info.",
+        "diabetes",
+        "health risk",
+        "life span",
+        "metabolic",
+        "mortality",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 
@@ -62,4 +72,3 @@ Soares MJ, Chan She Ping-Delfos W, Ghanbari MH (2011). Calcium and vitamin D for
 Truswell AS (2001). Levels and kinds of evidence for public-health nutrition. Lancet 357, 1061-1062. 
 
 Yngve A, Tseng M, Haapala U, McNeill C, Hodge A (2011). Editorial. Vitamin D—the big D-bate. Publ Health Nutr 14, 565.
-

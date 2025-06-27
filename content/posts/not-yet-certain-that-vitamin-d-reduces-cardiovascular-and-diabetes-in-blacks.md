@@ -1,17 +1,27 @@
 {
-  "title": "Not yet certain that vitamin D reduces cardiovascular and diabetes in blacks",
-  "slug": "not-yet-certain-that-vitamin-d-reduces-cardiovascular-and-diabetes-in-blacks",
-  "aliases": [
-    "/Not+yet+certain+that+vitamin+D+reduces+cardiovascular+and+diabetes+in+blacks+\u2013+Mar+2011",
-    "/1472"
-  ],
-  "tiki_page_id": 1472,
-  "date": "2011-03-12",
-  "categories": [
-    "Skin - Dark",
-    "Cardiovascular",
-    "Diabetes"
-  ]
+    "title": "Not yet certain that vitamin D reduces cardiovascular and diabetes in blacks",
+    "slug": "not-yet-certain-that-vitamin-d-reduces-cardiovascular-and-diabetes-in-blacks",
+    "aliases": [
+        "/Not+yet+certain+that+vitamin+D+reduces+cardiovascular+and+diabetes+in+blacks+\u2013+Mar+2011",
+        "/1472"
+    ],
+    "tiki_page_id": 1472,
+    "date": "2011-03-12",
+    "categories": [
+        "Skin - Dark",
+        "Cardiovascular",
+        "Diabetes"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Diabetes",
+        "Skin - Dark",
+        "diabetes",
+        "hypertension",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -30,4 +40,3 @@ Despite a large number of observational studies and a limited number of clinical
 However, if the associations reported from the observational studies are of the estimated magnitudes and causal, vitamin D supplementation could potentially have a strong preventive effect on some of these conditions and could reduce race-related disparities in their prevalence. Because of the low 25(OH)D concentrations of many, if not most, African Americans, and the low risk associated with vitamin D supplementation, it is important to obtain more definitive answers to these questions.
 
 PMID: 21367947
-

@@ -1,16 +1,29 @@
 {
-  "title": "Psychiatric disorders 4X more likely in teens if low vitamin D",
-  "slug": "psychiatric-disorders-4x-more-likely-in-teens-if-low-vitamin-d",
-  "aliases": [
-    "/Psychiatric+disorders+4X+more+likely+in+teens+if+low+vitamin+D+-+Nov+2011",
-    "/2148"
-  ],
-  "tiki_page_id": 2148,
-  "date": "2011-11-04",
-  "categories": [
-    "Depression",
-    "Youth"
-  ]
+    "title": "Psychiatric disorders 4X more likely in teens if low vitamin D",
+    "slug": "psychiatric-disorders-4x-more-likely-in-teens-if-low-vitamin-d",
+    "aliases": [
+        "/Psychiatric+disorders+4X+more+likely+in+teens+if+low+vitamin+D+-+Nov+2011",
+        "/2148"
+    ],
+    "tiki_page_id": 2148,
+    "date": "2011-11-04",
+    "categories": [
+        "Depression",
+        "Youth"
+    ],
+    "tags": [
+        "Depression",
+        "SAD",
+        "Youth",
+        "blood levels",
+        "brain",
+        "child",
+        "cognitive",
+        "depression",
+        "mental illness",
+        "mood disorders",
+        "vitamin d"
+    ]
 }
 
 

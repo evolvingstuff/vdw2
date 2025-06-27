@@ -1,15 +1,24 @@
 {
-  "title": "Young almost 2X more likely to be depressed if vitamin D less than 20ng",
-  "slug": "young-almost-2x-more-likely-to-be-depressed-if-vitamin-d-less-than-20ng",
-  "aliases": [
-    "/Young+almost+2X+more+likely+to+be+depressed+if+vitamin+D+less+than+20ng+\u2013+Nov+2010",
-    "/1130"
-  ],
-  "tiki_page_id": 1130,
-  "date": "2010-11-11",
-  "categories": [
-    "Depression"
-  ]
+    "title": "Young almost 2X more likely to be depressed if vitamin D less than 20ng",
+    "slug": "young-almost-2x-more-likely-to-be-depressed-if-vitamin-d-less-than-20ng",
+    "aliases": [
+        "/Young+almost+2X+more+likely+to+be+depressed+if+vitamin+D+less+than+20ng+\u2013+Nov+2010",
+        "/1130"
+    ],
+    "tiki_page_id": 1130,
+    "date": "2010-11-11",
+    "categories": [
+        "Depression"
+    ],
+    "tags": [
+        "Depression",
+        "blood levels",
+        "brain",
+        "cognitive",
+        "depression",
+        "mood disorders",
+        "vitamin d"
+    ]
 }
 
 
@@ -45,5 +54,4 @@ In this large population based study, likelihood of having depression in persons
 
 * [All items in Winter Blues and Depression](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&sort_mode=created_desc) 36 items as of Feb 2012
 
-* <a href="/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2439">Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012</a>
-
+* [Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012](/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng)

@@ -1,15 +1,39 @@
 {
-  "title": "An official reviewer of the IOM vitamin D report makes his opinion known",
-  "slug": "an-official-reviewer-of-the-iom-vitamin-d-report-makes-his-opinion-known",
-  "aliases": [
-    "/An+official+reviewer+of+the+IOM+vitamin+D+report+makes+his+opinion+known+\u2013+Jan+2011",
-    "/1335"
-  ],
-  "tiki_page_id": 1335,
-  "date": "2011-01-20",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "An official reviewer of the IOM vitamin D report makes his opinion known",
+    "slug": "an-official-reviewer-of-the-iom-vitamin-d-report-makes-his-opinion-known",
+    "aliases": [
+        "/An+official+reviewer+of+the+IOM+vitamin+D+report+makes+his+opinion+known+\u2013+Jan+2011",
+        "/1335"
+    ],
+    "tiki_page_id": 1335,
+    "date": "2011-01-20",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "bone stress fractures",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "colon cancer",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "hip fractures",
+        "intervention",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -90,4 +114,3 @@ Prof. Walter C. Willett, MD, DrPH; Chair, Department of Nutrition; Fredrick John
 - - - - - - - - - - - 
 
 #### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">CLICK HERE</a> for main article on IOM report in VitaminDWiki with comments by many individuals and groups
-

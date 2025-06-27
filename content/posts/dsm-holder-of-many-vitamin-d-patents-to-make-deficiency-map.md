@@ -1,15 +1,22 @@
 {
-  "title": "DSM - holder of many vitamin D patents - to make deficiency map",
-  "slug": "dsm-holder-of-many-vitamin-d-patents-to-make-deficiency-map",
-  "aliases": [
-    "/DSM+-+holder+of+many+vitamin+D+patents+-+to+make+deficiency+map+-+Dec+2010",
-    "/1239"
-  ],
-  "tiki_page_id": 1239,
-  "date": "2010-12-15",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "DSM - holder of many vitamin D patents - to make deficiency map",
+    "slug": "dsm-holder-of-many-vitamin-d-patents-to-make-deficiency-map",
+    "aliases": [
+        "/DSM+-+holder+of+many+vitamin+D+patents+-+to+make+deficiency+map+-+Dec+2010",
+        "/1239"
+    ],
+    "tiki_page_id": 1239,
+    "date": "2010-12-15",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "bone",
+        "dosage",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

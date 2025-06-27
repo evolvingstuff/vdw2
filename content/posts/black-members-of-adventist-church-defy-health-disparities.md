@@ -1,15 +1,31 @@
 {
-  "title": "Black members of Adventist church defy health disparities",
-  "slug": "black-members-of-adventist-church-defy-health-disparities",
-  "aliases": [
-    "/Black+members+of+Adventist+church+defy+health+disparities+\u2013+June+2011",
-    "/1773"
-  ],
-  "tiki_page_id": 1773,
-  "date": "2011-06-29",
-  "categories": [
-    "Skin - Dark"
-  ]
+    "title": "Black members of Adventist church defy health disparities",
+    "slug": "black-members-of-adventist-church-defy-health-disparities",
+    "aliases": [
+        "/Black+members+of+Adventist+church+defy+health+disparities+\u2013+June+2011",
+        "/1773"
+    ],
+    "tiki_page_id": 1773,
+    "date": "2011-06-29",
+    "categories": [
+        "Skin - Dark"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "depression",
+        "diabetes",
+        "health risk",
+        "immunity",
+        "metabolic",
+        "mood disorders",
+        "osteoporosis",
+        "rickets",
+        "smoking",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,16 +1,24 @@
 {
-  "title": "Bypass surgery and vitamin D",
-  "slug": "bypass-surgery-and-vitamin-d",
-  "aliases": [
-    "/Bypass+surgery+and+vitamin+D+\u2013+Nov+2010",
-    "/1175"
-  ],
-  "tiki_page_id": 1175,
-  "date": "2010-11-26",
-  "categories": [
-    "Cardiovascular",
-    "Trauma and surgery"
-  ]
+    "title": "Bypass surgery and vitamin D",
+    "slug": "bypass-surgery-and-vitamin-d",
+    "aliases": [
+        "/Bypass+surgery+and+vitamin+D+\u2013+Nov+2010",
+        "/1175"
+    ],
+    "tiki_page_id": 1175,
+    "date": "2010-11-26",
+    "categories": [
+        "Cardiovascular",
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Trauma and surgery",
+        "blood levels",
+        "life span",
+        "mortality",
+        "vitamin d"
+    ]
 }
 
 

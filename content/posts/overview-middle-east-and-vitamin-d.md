@@ -1,16 +1,54 @@
 {
-  "title": "Overview Middle East and vitamin D",
-  "slug": "overview-middle-east-and-vitamin-d",
-  "aliases": [
-    "/Overview+Middle+East+and+vitamin+D",
-    "/1758"
-  ],
-  "tiki_page_id": 1758,
-  "date": "2011-06-23",
-  "categories": [
-    "Overviews",
-    "Middle East"
-  ]
+    "title": "Overview Middle East and vitamin D",
+    "slug": "overview-middle-east-and-vitamin-d",
+    "aliases": [
+        "/Overview+Middle+East+and+vitamin+D",
+        "/1758"
+    ],
+    "tiki_page_id": 1758,
+    "date": "2011-06-23",
+    "categories": [
+        "Overviews",
+        "Middle East"
+    ],
+    "tags": [
+        "Middle East",
+        "Overviews",
+        "asthma",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "cholesterol",
+        "diabetes",
+        "falls fractures",
+        "health risk",
+        "hypertension",
+        "infection",
+        "kidney",
+        "life span",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and viruses",
+        "metabolic",
+        "mortality",
+        "obesity",
+        "obesity and cancer",
+        "osteoporosis",
+        "pollution",
+        "skin cancer",
+        "urinary tract infection",
+        "virus",
+        "virus and obesity",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

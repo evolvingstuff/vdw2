@@ -1,15 +1,25 @@
 {
-  "title": "Dialysis patients with low vitamin D were 2.7 X more likely to die of heart problems",
-  "slug": "dialysis-patients-with-low-vitamin-d-were-27-x-more-likely-to-die-of-heart-problems",
-  "aliases": [
-    "/Dialysis+patients+with+low+vitamin+D+were+27+X+more+likely+to+die+of+heart+problems+\u2013+Feb+2011",
-    "/1432"
-  ],
-  "tiki_page_id": 1432,
-  "date": "2011-02-23",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Dialysis patients with low vitamin D were 2.7 X more likely to die of heart problems",
+    "slug": "dialysis-patients-with-low-vitamin-d-were-27-x-more-likely-to-die-of-heart-problems",
+    "aliases": [
+        "/Dialysis+patients+with+low+vitamin+D+were+27+X+more+likely+to+die+of+heart+problems+\u2013+Feb+2011",
+        "/1432"
+    ],
+    "tiki_page_id": 1432,
+    "date": "2011-02-23",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "blood levels",
+        "dialysis",
+        "kidney",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

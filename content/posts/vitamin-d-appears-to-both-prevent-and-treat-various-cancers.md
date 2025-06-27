@@ -1,17 +1,24 @@
 {
-  "title": "Vitamin D appears to both prevent and treat various cancers",
-  "slug": "vitamin-d-appears-to-both-prevent-and-treat-various-cancers",
-  "aliases": [
-    "/Vitamin+D+appears+to+both+prevent+and+treat+various+cancers+\u2013+Mar+2011",
-    "/1474"
-  ],
-  "tiki_page_id": 1474,
-  "date": "2011-03-13",
-  "categories": [
-    "Cancer",
-    "Cancer - after diagnosis",
-    "Treatment by Vitamin D"
-  ]
+    "title": "Vitamin D appears to both prevent and treat various cancers",
+    "slug": "vitamin-d-appears-to-both-prevent-and-treat-various-cancers",
+    "aliases": [
+        "/Vitamin+D+appears+to+both+prevent+and+treat+various+cancers+\u2013+Mar+2011",
+        "/1474"
+    ],
+    "tiki_page_id": 1474,
+    "date": "2011-03-13",
+    "categories": [
+        "Cancer",
+        "Cancer - after diagnosis",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "Cancer",
+        "Cancer - after diagnosis",
+        "Treatment by Vitamin D",
+        "cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -40,4 +47,3 @@ Though not as a primary anticancer agent, this vitamin may be used for the  **pr
 # See also VitaminDWiki
 
 * <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
-

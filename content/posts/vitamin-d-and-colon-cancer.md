@@ -1,15 +1,29 @@
 {
-  "title": "Vitamin D and Colon Cancer",
-  "slug": "vitamin-d-and-colon-cancer",
-  "aliases": [
-    "/Vitamin+D+and+Colon+Cancer+-+Dec+2010",
-    "/1253"
-  ],
-  "tiki_page_id": 1253,
-  "date": "2010-12-22",
-  "categories": [
-    "Cancer - Colon"
-  ]
+    "title": "Vitamin D and Colon Cancer",
+    "slug": "vitamin-d-and-colon-cancer",
+    "aliases": [
+        "/Vitamin+D+and+Colon+Cancer+-+Dec+2010",
+        "/1253"
+    ],
+    "tiki_page_id": 1253,
+    "date": "2010-12-22",
+    "categories": [
+        "Cancer - Colon"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "asthma",
+        "breathing",
+        "cancer",
+        "colon cancer",
+        "dosage",
+        "high dose",
+        "influenza",
+        "therapeutic intervention",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 
@@ -32,4 +46,3 @@ I believe that the recommendation that most people need 1,000 to 2,000 IU per da
 One interesting clinical trial out of Japan really caught my interest and I wish that the IOM panel had given it more weight. The study, which was the gold standard, double-blind, randomized, placebo-controlled trial, found that giving 1,200 IU/day of vitamin D to school kids (around 10 years of age) reduced the risk of flu (influenza A) by 64%. Risk of asthma attacks was reduced by 83% in the group receiving supplements.
 
 ^
-

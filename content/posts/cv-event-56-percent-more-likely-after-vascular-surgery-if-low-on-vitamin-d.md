@@ -1,16 +1,21 @@
 {
-  "title": "CV event 56 percent more likely after vascular surgery if low on vitamin D",
-  "slug": "cv-event-56-percent-more-likely-after-vascular-surgery-if-low-on-vitamin-d",
-  "aliases": [
-    "/CV+event+56+percent+more+likely+after+vascular+surgery+if+low+on+vitamin+D+\u2013+Oct+2011",
-    "/2093"
-  ],
-  "tiki_page_id": 2093,
-  "date": "2011-10-16",
-  "categories": [
-    "Cardiovascular",
-    "Trauma and surgery"
-  ]
+    "title": "CV event 56 percent more likely after vascular surgery if low on vitamin D",
+    "slug": "cv-event-56-percent-more-likely-after-vascular-surgery-if-low-on-vitamin-d",
+    "aliases": [
+        "/CV+event+56+percent+more+likely+after+vascular+surgery+if+low+on+vitamin+D+\u2013+Oct+2011",
+        "/2093"
+    ],
+    "tiki_page_id": 2093,
+    "date": "2011-10-16",
+    "categories": [
+        "Cardiovascular",
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Trauma and surgery",
+        "vitamin d"
+    ]
 }
 
 

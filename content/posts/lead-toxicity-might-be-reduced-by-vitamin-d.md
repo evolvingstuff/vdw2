@@ -1,15 +1,28 @@
 {
-  "title": "Lead toxicity might be reduced by Vitamin D",
-  "slug": "lead-toxicity-might-be-reduced-by-vitamin-d",
-  "aliases": [
-    "/Lead+toxicity+might+be+reduced+by+Vitamin+D",
-    "/1118"
-  ],
-  "tiki_page_id": 1118,
-  "date": "2010-11-05"
+    "title": "Lead toxicity might be reduced by Vitamin D",
+    "slug": "lead-toxicity-might-be-reduced-by-vitamin-d",
+    "aliases": [
+        "/Lead+toxicity+might+be+reduced+by+Vitamin+D",
+        "/1118"
+    ],
+    "tiki_page_id": 1118,
+    "date": "2010-11-05",
+    "tags": [
+        "HRV",
+        "cardiovascular",
+        "child",
+        "childhood obesity",
+        "health risk",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
- **Vitamin D might both prevent and treat lead toxicity** 
+
+**Vitamin D might both prevent and treat lead toxicity** 
 
 {{< toc >}}
 

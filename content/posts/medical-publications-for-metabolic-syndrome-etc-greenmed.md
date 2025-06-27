@@ -1,16 +1,34 @@
 {
-  "title": "Medical Publications for Metabolic Syndrome etc. - GreenMed",
-  "slug": "medical-publications-for-metabolic-syndrome-etc-greenmed",
-  "aliases": [
-    "/Medical+Publications+for+Metabolic+Syndrome+etc+-+GreenMed+Sept+2011",
-    "/2033"
-  ],
-  "tiki_page_id": 2033,
-  "date": "2011-09-26",
-  "categories": [
-    "Metabolic Syndrome",
-    "Cholesterol"
-  ]
+    "title": "Medical Publications for Metabolic Syndrome etc. - GreenMed",
+    "slug": "medical-publications-for-metabolic-syndrome-etc-greenmed",
+    "aliases": [
+        "/Medical+Publications+for+Metabolic+Syndrome+etc+-+GreenMed+Sept+2011",
+        "/2033"
+    ],
+    "tiki_page_id": 2033,
+    "date": "2011-09-26",
+    "categories": [
+        "Metabolic Syndrome",
+        "Cholesterol"
+    ],
+    "tags": [
+        "Cholesterol",
+        "Metabolic Syndrome",
+        "cardiovascular",
+        "cholesterol",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "magnesium",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "metabolic syndrome and magnesium",
+        "obesity",
+        "omega 3",
+        "statins",
+        "vitamin d"
+    ]
 }
 
 

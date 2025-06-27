@@ -1,17 +1,22 @@
 {
-  "title": "Vitamin D - Experts' Forum \u2013 presentations",
-  "slug": "vitamin-d-experts-forum-presentations",
-  "aliases": [
-    "/Vitamin+D+-+Experts+Forum+\u2013+presentations+April+2011",
-    "/1661"
-  ],
-  "tiki_page_id": 1661,
-  "date": "2011-05-24",
-  "categories": [
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Vitamin D - Experts' Forum \u2013 presentations",
+    "slug": "vitamin-d-experts-forum-presentations",
+    "aliases": [
+        "/Vitamin+D+-+Experts+Forum+\u2013+presentations+April+2011",
+        "/1661"
+    ],
+    "tiki_page_id": 1661,
+    "date": "2011-05-24",
+    "categories": [
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "breast cancer",
+        "cancer",
+        "vitamin d"
+    ]
 }
-
 
 
 PDF + Audio + Video
@@ -65,4 +70,3 @@ Sunlight Robbery - the failure of UK policy on Vitamin D. Oliver Gillie PhD
 The Impact of improving Vitamin D levels. Dr William B Grant
 
 Treatment & Toxicity -- Benefits and dangers of supplementing with Vitamin D. Dr Reinhold Vieth
-

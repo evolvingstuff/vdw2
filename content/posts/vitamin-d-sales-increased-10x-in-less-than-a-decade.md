@@ -1,13 +1,19 @@
 {
-  "title": "Vitamin D sales increased 10X in less than a decade",
-  "slug": "vitamin-d-sales-increased-10x-in-less-than-a-decade",
-  "aliases": [
-    "/Vitamin+D+sales+increased+10X+in+less+than+a+decade+-+July+2011",
-    "/1805"
-  ],
-  "tiki_page_id": 1805,
-  "date": "2011-07-07"
+    "title": "Vitamin D sales increased 10X in less than a decade",
+    "slug": "vitamin-d-sales-increased-10x-in-less-than-a-decade",
+    "aliases": [
+        "/Vitamin+D+sales+increased+10X+in+less+than+a+decade+-+July+2011",
+        "/1805"
+    ],
+    "tiki_page_id": 1805,
+    "date": "2011-07-07",
+    "tags": [
+        "bone",
+        "bone loss",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

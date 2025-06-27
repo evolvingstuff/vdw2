@@ -1,16 +1,27 @@
 {
-  "title": "Link between vitamin D and hypertension not yet completely understood",
-  "slug": "link-between-vitamin-d-and-hypertension-not-yet-completely-understood",
-  "aliases": [
-    "/Link+between+vitamin+D+and+hypertension+not+yet+completely+understood+\u2013+April+2011",
-    "/1589"
-  ],
-  "tiki_page_id": 1589,
-  "date": "2011-05-01",
-  "categories": [
-    "Hypertension"
-  ]
+    "title": "Link between vitamin D and hypertension not yet completely understood",
+    "slug": "link-between-vitamin-d-and-hypertension-not-yet-completely-understood",
+    "aliases": [
+        "/Link+between+vitamin+D+and+hypertension+not+yet+completely+understood+\u2013+April+2011",
+        "/1589"
+    ],
+    "tiki_page_id": 1589,
+    "date": "2011-05-01",
+    "categories": [
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "diabetes",
+        "hypertension",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Recent Pat Cardiovasc Drug Discov. 2011 Apr 22. 
 

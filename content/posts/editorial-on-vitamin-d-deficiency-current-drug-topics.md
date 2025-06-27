@@ -1,16 +1,36 @@
 {
-  "title": "Editorial on Vitamin D deficiency\u2013 Current Drug topics",
-  "slug": "editorial-on-vitamin-d-deficiency-current-drug-topics",
-  "aliases": [
-    "/Editorial+on+Vitamin+D+deficiency\u2013+Current+Drug+topics+\u2013+Jan+2011",
-    "/1231"
-  ],
-  "tiki_page_id": 1231,
-  "date": "2010-12-12",
-  "categories": [
-    "Cardiovascular",
-    "Kidney"
-  ]
+    "title": "Editorial on Vitamin D deficiency\u2013 Current Drug topics",
+    "slug": "editorial-on-vitamin-d-deficiency-current-drug-topics",
+    "aliases": [
+        "/Editorial+on+Vitamin+D+deficiency\u2013+Current+Drug+topics+\u2013+Jan+2011",
+        "/1231"
+    ],
+    "tiki_page_id": 1231,
+    "date": "2010-12-12",
+    "categories": [
+        "Cardiovascular",
+        "Kidney"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Kidney",
+        "atherosclerosis",
+        "bone",
+        "brain",
+        "cardiovascular",
+        "cognitive",
+        "diabetes",
+        "heart failure",
+        "metabolic",
+        "rickets",
+        "stroke",
+        "ultraviolet light",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 
@@ -51,4 +71,3 @@ DOI: 10.2174/138945011793591644; Publication date: 2011-01-01
 * <a href="/posts/vitamin-d-deficiency-universal-risk-factor-for-multifactorial-diseases" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1228">Vitamin d deficiency: universal risk factor for multifactorial diseases?</a>
 
 * <a href="/posts/vitamin-d-in-atherosclerosis-vascular-disease-and-endothelial-function" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1229">Vitamin d in atherosclerosis, vascular disease, and endothelial function</a>
-

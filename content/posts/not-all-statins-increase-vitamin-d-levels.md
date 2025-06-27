@@ -1,16 +1,26 @@
 {
-  "title": "Not all statins increase vitamin D levels",
-  "slug": "not-all-statins-increase-vitamin-d-levels",
-  "aliases": [
-    "/Not+all+statins+increase+vitamin+D+levels+\u2013+Dec+2010",
-    "/1208"
-  ],
-  "tiki_page_id": 1208,
-  "date": "2010-12-06",
-  "categories": [
-    "Cardiovascular",
-    "Interactions with Vitamin D"
-  ]
+    "title": "Not all statins increase vitamin D levels",
+    "slug": "not-all-statins-increase-vitamin-d-levels",
+    "aliases": [
+        "/Not+all+statins+increase+vitamin+D+levels+\u2013+Dec+2010",
+        "/1208"
+    ],
+    "tiki_page_id": 1208,
+    "date": "2010-12-06",
+    "categories": [
+        "Cardiovascular",
+        "Interactions with Vitamin D"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Interactions with Vitamin D",
+        "atherosclerosis",
+        "cardiovascular",
+        "genetics",
+        "statins",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 

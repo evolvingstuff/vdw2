@@ -1,16 +1,20 @@
 {
-  "title": "UV overview at WHO -with infographic",
-  "slug": "uv-overview-at-who-with-infographic",
-  "aliases": [
-    "/UV+overview+at+WHO+-with+infographic",
-    "/1233"
-  ],
-  "tiki_page_id": 1233,
-  "date": "2010-12-13",
-  "categories": [
-    "UV and Vitamin D"
-  ]
+    "title": "UV overview at WHO -with infographic",
+    "slug": "uv-overview-at-who-with-infographic",
+    "aliases": [
+        "/UV+overview+at+WHO+-with+infographic",
+        "/1233"
+    ],
+    "tiki_page_id": 1233,
+    "date": "2010-12-13",
+    "categories": [
+        "UV and Vitamin D"
+    ],
+    "tags": [
+        "UV and Vitamin D"
+    ]
 }
+
 
 http://www.who.int/uv/uv_and_health/en/index.html
 

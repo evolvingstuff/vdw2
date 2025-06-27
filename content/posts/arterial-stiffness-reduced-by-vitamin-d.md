@@ -1,18 +1,32 @@
 {
-  "title": "Arterial stiffness reduced by vitamin D",
-  "slug": "arterial-stiffness-reduced-by-vitamin-d",
-  "aliases": [
-    "/Arterial+stiffness+reduced+by+vitamin+D",
-    "/1787"
-  ],
-  "tiki_page_id": 1787,
-  "date": "2011-07-02",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Arterial stiffness reduced by vitamin D",
+    "slug": "arterial-stiffness-reduced-by-vitamin-d",
+    "aliases": [
+        "/Arterial+stiffness+reduced+by+vitamin+D",
+        "/1787"
+    ],
+    "tiki_page_id": 1787,
+    "date": "2011-07-02",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "blood levels",
+        "cholesterol",
+        "dosage",
+        "health risk",
+        "hypertension",
+        "magnesium",
+        "omega 3",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin k"
+    ]
 }
 
- **<a href="/posts/arterial-stiffness-reduced-by-omega-3-vitamin-d-vitamin-k2-magnesium-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.">Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.</a>** 
+
+**<a href="/posts/arterial-stiffness-reduced-by-omega-3-vitamin-d-vitamin-k2-magnesium-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.">Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.</a>** 
 
 {{< toc >}}
 
@@ -144,4 +158,4 @@ There is accumulating evidence that vitamin D exerts important pathophysiologica
 
 In conclusion, we found a clear significant and independent negative association between 25(OH)D and aortic PWV. Subjects with lowest vitamin D status showed the highest arterial stiffness.Journal of Human Hypertension advance online publication, 20 October 2011; doi:10.1038/jhh.2011.94.
 
-PMID: 22011876 
+PMID: 22011876

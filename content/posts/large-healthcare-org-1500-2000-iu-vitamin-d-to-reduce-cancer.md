@@ -1,15 +1,26 @@
 {
-  "title": "Large Healthcare Org: 1500-2000 IU vitamin D to reduce cancer",
-  "slug": "large-healthcare-org-1500-2000-iu-vitamin-d-to-reduce-cancer",
-  "aliases": [
-    "/Large+Healthcare+Org+1500-2000+IU+vitamin+D+to+reduce+cancer+-+Dec+2009",
-    "/1191"
-  ],
-  "tiki_page_id": 1191,
-  "date": "2010-11-28",
-  "categories": [
-    "Cancer"
-  ]
+    "title": "Large Healthcare Org: 1500-2000 IU vitamin D to reduce cancer",
+    "slug": "large-healthcare-org-1500-2000-iu-vitamin-d-to-reduce-cancer",
+    "aliases": [
+        "/Large+Healthcare+Org+1500-2000+IU+vitamin+D+to+reduce+cancer+-+Dec+2009",
+        "/1191"
+    ],
+    "tiki_page_id": 1191,
+    "date": "2010-11-28",
+    "categories": [
+        "Cancer"
+    ],
+    "tags": [
+        "Cancer",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "diabetes",
+        "falls fractures",
+        "metabolic",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -62,4 +73,3 @@ Virginia trained at Oxford and Addenbrooke's. Research into food intolerance and
 in the following categories
 
 {IMG(attId="318")}{IMG}
-

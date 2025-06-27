@@ -1,15 +1,28 @@
 {
-  "title": "Further look at vitamin D dependent rickets and gene mutations",
-  "slug": "further-look-at-vitamin-d-dependent-rickets-and-gene-mutations",
-  "aliases": [
-    "/Further+look+at+vitamin+D+dependent+rickets+and+gene+mutations+\u2013+Feb+2011",
-    "/1588"
-  ],
-  "tiki_page_id": 1588,
-  "date": "2011-05-01",
-  "categories": [
-    "Rickets"
-  ]
+    "title": "Further look at vitamin D dependent rickets and gene mutations",
+    "slug": "further-look-at-vitamin-d-dependent-rickets-and-gene-mutations",
+    "aliases": [
+        "/Further+look+at+vitamin+D+dependent+rickets+and+gene+mutations+\u2013+Feb+2011",
+        "/1588"
+    ],
+    "tiki_page_id": 1588,
+    "date": "2011-05-01",
+    "categories": [
+        "Rickets"
+    ],
+    "tags": [
+        "Rickets",
+        "bone",
+        "genetics",
+        "rickets",
+        "ultraviolet light",
+        "virus",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -30,4 +43,3 @@ This review presents the biology of vitamin D, and 1?-hydroxylase mutations with
 PMID: 21503197
 
 <span>[tiki-download_file.php?fileId=1847]</span> for full PDF
-

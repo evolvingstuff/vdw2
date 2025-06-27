@@ -1,17 +1,27 @@
 {
-  "title": "Ultraviolet Radiation and the Anterior Eye",
-  "slug": "ultraviolet-radiation-and-the-anterior-eye",
-  "aliases": [
-    "/Ultraviolet+Radiation+and+the+Anterior+Eye+\u2013+June+2011",
-    "/1733"
-  ],
-  "tiki_page_id": 1733,
-  "date": "2011-06-15",
-  "categories": [
-    "UV and Vitamin D",
-    "Vision"
-  ]
+    "title": "Ultraviolet Radiation and the Anterior Eye",
+    "slug": "ultraviolet-radiation-and-the-anterior-eye",
+    "aliases": [
+        "/Ultraviolet+Radiation+and+the+Anterior+Eye+\u2013+June+2011",
+        "/1733"
+    ],
+    "tiki_page_id": 1733,
+    "date": "2011-06-15",
+    "categories": [
+        "UV and Vitamin D",
+        "Vision"
+    ],
+    "tags": [
+        "SAD",
+        "UV and Vitamin D",
+        "Vision",
+        "cataracts",
+        "mood disorders",
+        "vision",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -68,4 +78,3 @@ PMID:     21670690
 # See also on web
 
 * [Google search cataracts "vitamin D deficiency"](http://www.google.com/#sclient=psy&hl=en&source=hp&q=cataracts+%22vitamin+D+deficiency%22&aq=&aqi=&aql=&oq=&pbx=1&fp=5b82479b014805e6&biw=1047&bih=412) 680,000 hits June 2011
-

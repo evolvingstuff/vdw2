@@ -1,16 +1,26 @@
 {
-  "title": "Hypothesis - vitamin D supplements caused allergy pandemic \u2013 2009",
-  "slug": "hypothesis-vitamin-d-supplements-caused-allergy-pandemic-2009",
-  "aliases": [
-    "/Hypothesis+-+vitamin+D+supplements+caused+allergy+pandemic+\u2013+2009",
-    "/1887"
-  ],
-  "tiki_page_id": 1887,
-  "date": "2011-08-03",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Hypothesis - vitamin D supplements caused allergy pandemic \u2013 2009",
+    "slug": "hypothesis-vitamin-d-supplements-caused-allergy-pandemic-2009",
+    "aliases": [
+        "/Hypothesis+-+vitamin+D+supplements+caused+allergy+pandemic+\u2013+2009",
+        "/1887"
+    ],
+    "tiki_page_id": 1887,
+    "date": "2011-08-03",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "bone",
+        "breathing",
+        "hay fever",
+        "rickets",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -37,4 +47,3 @@ PMID:     20016691
 # See also VitaminDWiki
 
 * <a href="/posts/hypothesis-adolescent-allergies-associated-with-low-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1604">Hypothesis - adolescent allergies associated with low vitamin D levels</a>
-

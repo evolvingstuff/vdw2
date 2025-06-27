@@ -1,17 +1,23 @@
 {
-  "title": "Natural ways to prevent a sunburn \u2013 2011, 2016",
-  "slug": "natural-ways-to-prevent-a-sunburn-2011-2016",
-  "aliases": [
-    "/Natural+ways+to+prevent+a+sunburn+\u2013+2011+2016",
-    "/1854"
-  ],
-  "tiki_page_id": 1854,
-  "date": "2011-07-22",
-  "categories": [
-    "Noontime sun and D",
-    "Skin"
-  ]
+    "title": "Natural ways to prevent a sunburn \u2013 2011, 2016",
+    "slug": "natural-ways-to-prevent-a-sunburn-2011-2016",
+    "aliases": [
+        "/Natural+ways+to+prevent+a+sunburn+\u2013+2011+2016",
+        "/1854"
+    ],
+    "tiki_page_id": 1854,
+    "date": "2011-07-22",
+    "categories": [
+        "Noontime sun and D",
+        "Skin"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "Skin",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -49,4 +55,4 @@ Sunflower oil, Coconut oil, Jojoba oil, Shea butter, Eucalyptus oil
 
 * Resveratrol
 
- **Lots of interesting comments [at the site as well](http://www.marksdailyapple.com/8-natural-ways-to-prevent-a-sunburn-and-sunscreens-not-one-of-them/%20)** 
+ **Lots of interesting comments [at the site as well](http://www.marksdailyapple.com/8-natural-ways-to-prevent-a-sunburn-and-sunscreens-not-one-of-them/%20)**

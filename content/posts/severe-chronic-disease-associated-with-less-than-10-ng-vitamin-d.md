@@ -1,16 +1,23 @@
 {
-  "title": "Severe chronic disease associated with less than 10 ng vitamin D",
-  "slug": "severe-chronic-disease-associated-with-less-than-10-ng-vitamin-d",
-  "aliases": [
-    "/Severe+chronic+disease+associated+with+less+than+10+ng+vitamin+D+\u2013+July+2011",
-    "/1819"
-  ],
-  "tiki_page_id": 1819,
-  "date": "2011-07-10",
-  "categories": [
-    "Seniors",
-    "Pain - chronic"
-  ]
+    "title": "Severe chronic disease associated with less than 10 ng vitamin D",
+    "slug": "severe-chronic-disease-associated-with-less-than-10-ng-vitamin-d",
+    "aliases": [
+        "/Severe+chronic+disease+associated+with+less+than+10+ng+vitamin+D+\u2013+July+2011",
+        "/1819"
+    ],
+    "tiki_page_id": 1819,
+    "date": "2011-07-10",
+    "categories": [
+        "Seniors",
+        "Pain - chronic"
+    ],
+    "tags": [
+        "Pain - chronic",
+        "Seniors",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,17 +1,28 @@
 {
-  "title": "Vitamin D and Cancer Treatment and Prevention \u2013 presentations",
-  "slug": "vitamin-d-and-cancer-treatment-and-prevention-presentations",
-  "aliases": [
-    "/Vitamin+D+and+Cancer+Treatment+and+Prevention+\u2013+presentations+May+2011",
-    "/1659"
-  ],
-  "tiki_page_id": 1659,
-  "date": "2011-05-24",
-  "categories": [
-    "Books, videos on Vitamin D",
-    "Cancer",
-    "Treatment by Vitamin D"
-  ]
+    "title": "Vitamin D and Cancer Treatment and Prevention \u2013 presentations",
+    "slug": "vitamin-d-and-cancer-treatment-and-prevention-presentations",
+    "aliases": [
+        "/Vitamin+D+and+Cancer+Treatment+and+Prevention+\u2013+presentations+May+2011",
+        "/1659"
+    ],
+    "tiki_page_id": 1659,
+    "date": "2011-05-24",
+    "categories": [
+        "Books, videos on Vitamin D",
+        "Cancer",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "Cancer",
+        "Treatment by Vitamin D",
+        "cancer",
+        "health risk",
+        "obesity",
+        "obesity and cancer",
+        "prostate cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -65,4 +76,4 @@ Vitamin D & Cancer - UK Policy - Gillie (980KB)
 
 ## Each 5 increase in BMI decreases vitamin D 5 nmol - Lagunova May 2011
 
-<img src="/attachments/d3.mock.jpg" alt="image">  
+<img src="/attachments/d3.mock.jpg" alt="image">

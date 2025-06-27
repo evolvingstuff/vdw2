@@ -1,15 +1,27 @@
 {
-  "title": "Application to FDA for use of active Vitamin D for hemodialysis patients",
-  "slug": "application-to-fda-for-use-of-active-vitamin-d-for-hemodialysis-patients",
-  "aliases": [
-    "/Application+to+FDA+for+use+of+active+Vitamin+D+for+hemodialysis+patients+\u2013+July+2011",
-    "/1861"
-  ],
-  "tiki_page_id": 1861,
-  "date": "2011-07-26",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Application to FDA for use of active Vitamin D for hemodialysis patients",
+    "slug": "application-to-fda-for-use-of-active-vitamin-d-for-hemodialysis-patients",
+    "aliases": [
+        "/Application+to+FDA+for+use+of+active+Vitamin+D+for+hemodialysis+patients+\u2013+July+2011",
+        "/1861"
+    ],
+    "tiki_page_id": 1861,
+    "date": "2011-07-26",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "CKD",
+        "Kidney",
+        "SAD",
+        "dialysis",
+        "dosage",
+        "hemodialysis",
+        "kidney",
+        "metabolic",
+        "mood disorders",
+        "vitamin d"
+    ]
 }
 
 
@@ -78,4 +90,3 @@ Using bioequivalence as the basis for approving generic copies of drug products 
 # [Natural News Feels  Sad](http://www.naturalnews.com/033185_vitamin_D_kidney_disease.html#ixzz1TnJytJDL)
 
 * Big Pharma looks to capitalize on success of vitamin D by turning it into a 'drug' for kidney disease
-

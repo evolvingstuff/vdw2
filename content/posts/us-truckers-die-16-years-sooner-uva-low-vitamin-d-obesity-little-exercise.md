@@ -1,19 +1,38 @@
 {
-  "title": "US truckers die 16 years sooner (UVA-low Vitamin D, obesity, little exercise)",
-  "slug": "us-truckers-die-16-years-sooner-uva-low-vitamin-d-obesity-little-exercise",
-  "aliases": [
-    "/US+truckers+die+16+years+sooner+UVA-low+Vitamin+D+obesity+little+exercise",
-    "/1399"
-  ],
-  "tiki_page_id": 1399,
-  "date": "2011-02-10",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Mortality and D",
-    "High Risk",
-    "Predict Vitamin D"
-  ]
+    "title": "US truckers die 16 years sooner (UVA-low Vitamin D, obesity, little exercise)",
+    "slug": "us-truckers-die-16-years-sooner-uva-low-vitamin-d-obesity-little-exercise",
+    "aliases": [
+        "/US+truckers+die+16+years+sooner+UVA-low+Vitamin+D+obesity+little+exercise",
+        "/1399"
+    ],
+    "tiki_page_id": 1399,
+    "date": "2011-02-10",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Mortality and D",
+        "High Risk",
+        "Predict Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "High Risk",
+        "Mortality and D",
+        "Predict Vitamin D",
+        "cancer",
+        "diabetes",
+        "health risk",
+        "life span",
+        "metabolic",
+        "mortality",
+        "neurological",
+        "obesity",
+        "obesity and cancer",
+        "sleep apnea",
+        "smoking",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

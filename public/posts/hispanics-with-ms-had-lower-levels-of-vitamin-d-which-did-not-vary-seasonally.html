@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Hispanics with MS had lower levels of vitamin D which did not vary seasonally</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Hispanics with MS had lower levels of vitamin D which did not vary seasonally</h1><time>May 17, 2012</time><div data-pagefind-body><h1 id=vitamin-d-levels-in-hispanics-with-multiple-sclerosis>Vitamin D levels in Hispanics with multiple sclerosis.</h1><p>J Neurol. 2012 May 16.</p><p>Amezcua L, Chung RH, Conti DV, Langer-Gould AM.</p><p>Department of Neurology, Keck School of Medicine, University of Southern California (USC), Los Angeles, CA, USA, <a href=mailto:lamezcua@usc.edu>lamezcua@usc.edu</a>.</p><p>Vitamin D has been associated with multiple sclerosis (MS) and several markers of disease state in whites. There are limited reports of vitamin D&rsquo;s influence in MS in ethnic groups, such as in Hispanics. In this study, we compared vitamin D levels in Hispanics and whites with MS and tried to determine whether season or increasing disability influence hypovitaminosis D in Hispanics with MS. Serum 25-hydroxyvitamin D <span>[25(OH)D]</span> levels and clinical characteristics were compared in a cross-sectional sample of Hispanics (n = 80) and whites (n = 80) with MS recruited from the University of Southern California. Serum 25(OH)D levels were significantly lower in Hispanics than whites with MS (mean and standard deviation 25.1 ± 9.4 and 37.3 ± 19.8 ng/ml, respectively; p &lt; 0.001). Hispanics were significantly more likely than whites to be vitamin D insufficient (?30 ng/ml; 70 vs. 41 %, respectively; p &lt; 0.001) and deficient (?20 ng/ml; 40 vs. 14 %, respectively, p &lt; 0.001). In Hispanics, serum 25(OH)D levels were not influenced by season (p = 0.8) or higher physical disability (EDSS ?6, p = 0.7). We found that the relationship between vitamin D and MS differs by Hispanic ethnicity. Hypovitaminosis D was significantly more common among Hispanics than among whites with MS, and the majority of Hispanics were vitamin D insufficient. Interestingly, there was no association between vitamin D levels and season or increasing disability in the Hispanics. Our findings imply that factors influencing vitamin D levels and possibly vitamin D requirements may vary by ethnicity in patients with MS. These results should be confirmed in larger, prospective multi-ethnic cohort studies.</p><p>PMID: 22588255</p><p>– – – – – – – – –</p><h2 id=for-those-with-ms>For those with MS</h2><ul><li><p>Average: Hispanic 25 ng, White 47 ng</p></li><li><p>Less than 20 ng: Hispanic 40%, White 14%</p></li><li><p>D vary with season: Hispanic No, White Yes</p></li></ul><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/overview-ms-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 691">Overview MS and vitamin D</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=18&amp;deep=on">All MS and vitamin D</a> <strong><span style=color:#090>125 items as of May 2012</span></strong></p></li></ul><h2 id=african-americans-another-group-with-dark-skin-have-a-worse-time-with-ms>African Americans (another group with dark skin) have a worse time with MS</h2><ul><li><p><a href="http://www.google.com/search?hl=en&amp;rlz=1B3GGGL_enUS233US234&amp;q=%2B%22Multiple+sclerosis%22+%2Bafrican-american+difference&amp;btnG=Search&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=&amp;gs_rfai=">Google Search for &ldquo;+&ldquo;Multiple sclerosis&rdquo; +african-american difference&rdquo; got more than 4,000 Aug 2010</a></p></li><li><p><a href="http://www.msfocusforum.com/forums/forumdisplay.php?f=15">Forum discussion for African Americans with MS</a></p></li><li><p><a href=/posts/african-americans-with-ms-at-vitamindwiki-from-various-sources style=color:red;text-decoration:underline title="This link has an unknown page_id: 676">African Americans with MS at VitaminDWiki from various sources</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>blood levels</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>Multiple Sclerosis</span>
+<span class=tag>Skin - Dark</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>autoimmune, blood levels, high dose, intervention, multiple sclerosis, Multiple Sclerosis, Skin - Dark, therapeutic intervention, vitamin d, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

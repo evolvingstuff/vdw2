@@ -1,15 +1,26 @@
 {
-  "title": "Low cost cofactors - details",
-  "slug": "low-cost-cofactors-details",
-  "aliases": [
-    "/Low+cost+cofactors+-+details",
-    "/1397"
-  ],
-  "tiki_page_id": 1397,
-  "date": "2011-02-10",
-  "categories": [
-    "Supplement"
-  ]
+    "title": "Low cost cofactors - details",
+    "slug": "low-cost-cofactors-details",
+    "aliases": [
+        "/Low+cost+cofactors+-+details",
+        "/1397"
+    ],
+    "tiki_page_id": 1397,
+    "date": "2011-02-10",
+    "categories": [
+        "Supplement"
+    ],
+    "tags": [
+        "Supplement",
+        "dosage",
+        "iodine",
+        "magnesium",
+        "magnesium and pregnancy",
+        "pregnancy",
+        "vitamin d",
+        "vitamin k",
+        "zinc"
+    ]
 }
 
 

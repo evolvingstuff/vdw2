@@ -1,16 +1,47 @@
 {
-  "title": "Injury-Prevention with Vitamin D",
-  "slug": "injury-prevention-with-vitamin-d",
-  "aliases": [
-    "/Injury-Prevention+with+Vitamin+D+\u2013+Feb+2010",
-    "/1558"
-  ],
-  "tiki_page_id": 1558,
-  "date": "2011-04-02",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "Injury-Prevention with Vitamin D",
+    "slug": "injury-prevention-with-vitamin-d",
+    "aliases": [
+        "/Injury-Prevention+with+Vitamin+D+\u2013+Feb+2010",
+        "/1558"
+    ],
+    "tiki_page_id": 1558,
+    "date": "2011-04-02",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "diabetes",
+        "falls fractures",
+        "high dose",
+        "influenza",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "rheumatoid arthritis",
+        "rickets",
+        "therapeutic intervention",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
+
 
 [Tralthlon competitor had the following](http://triathlon.competitor.com/2010/02/nutrition/vitamin-d-the-injury-prevention-vitamin_7118) Feb 2010, Written by: Nathan Koch
 

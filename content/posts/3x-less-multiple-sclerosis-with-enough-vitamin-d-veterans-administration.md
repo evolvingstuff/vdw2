@@ -1,15 +1,24 @@
 {
-  "title": "3X less Multiple Sclerosis with enough vitamin D - Veterans Administration",
-  "slug": "3x-less-multiple-sclerosis-with-enough-vitamin-d-veterans-administration",
-  "aliases": [
-    "/3X+less+Multiple+Sclerosis+with+enough+vitamin+D+-+Veterans+Administration",
-    "/1834"
-  ],
-  "tiki_page_id": 1834,
-  "date": "2011-07-14",
-  "categories": [
-    "Multiple Sclerosis"
-  ]
+    "title": "3X less Multiple Sclerosis with enough vitamin D - Veterans Administration",
+    "slug": "3x-less-multiple-sclerosis-with-enough-vitamin-d-veterans-administration",
+    "aliases": [
+        "/3X+less+Multiple+Sclerosis+with+enough+vitamin+D+-+Veterans+Administration",
+        "/1834"
+    ],
+    "tiki_page_id": 1834,
+    "date": "2011-07-14",
+    "categories": [
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "autoimmune",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

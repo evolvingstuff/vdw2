@@ -1,16 +1,23 @@
 {
-  "title": "Vitamin D has a complex relationship with Cancer \u2013 meta-analysis",
-  "slug": "vitamin-d-has-a-complex-relationship-with-cancer-meta-analysis",
-  "aliases": [
-    "/Vitamin+D+has+a+complex+relationship+with+Cancer+\u2013+meta-analysis+July+2011",
-    "/2010"
-  ],
-  "tiki_page_id": 2010,
-  "date": "2011-09-17",
-  "categories": [
-    "Cancer",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Vitamin D has a complex relationship with Cancer \u2013 meta-analysis",
+    "slug": "vitamin-d-has-a-complex-relationship-with-cancer-meta-analysis",
+    "aliases": [
+        "/Vitamin+D+has+a+complex+relationship+with+Cancer+\u2013+meta-analysis+July+2011",
+        "/2010"
+    ],
+    "tiki_page_id": 2010,
+    "date": "2011-09-17",
+    "categories": [
+        "Cancer",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "Cancer",
+        "Meta-analysis of Vitamin D",
+        "cancer",
+        "melanoma",
+        "vitamin d"
+    ]
 }
 
 
@@ -45,4 +52,3 @@ Additionally, the meta-analyses on the relationship between vitamin D serum leve
 Finally, despite the wealth of clinical trials so far conducted to prove the therapeutic efficacy of vitamin D, the most reliable evidence - which comes from** RCT - is again inconclusive **, as above summarized. In view of the many unresolved questions regarding the optimal biological dose and schedule, as well as the pharmaceutical issues about the available vitamin D formulations, the lack of anticancer activity shown by some of these therapeutic trials cannot be taken as definitive. Furthermore, the lack of beneficial effects in arresting the progression of already established tumors does not rule out the possibility that vitamin D might be useful in preventing cancer development. In this regard, recent in vivo findings on the ability of vitamin D to reduce the DNA oxidative damage and promote colon epithelium differentiation in humans further strengthens this working hypothesis <sup>[83,84]</sup>.** In conclusion__, like most biological phenomena, the relationship between vitamin D and cancer is neither univocal nor easy to interpret, and any conclusion drawn on the basis of the existing evidence would probably be simplistic at this time. 
 
 More details are needed on the molecular network involved in the anticancer effects caused by vitamin D in preclinical models, which would enable researchers to fully exploit the therapeutic potential of this micronu-trient; on the other hand, appropriately designed clinical trials taking into consideration the already available knowledge (e.g., dose-effect relationship, synergism with molecularly targeted anticancer agents) are also warranted in order to test the therapeutic/preventive effect of vitamin D on the practical ground and ultimately define its role in the clinical setting. The above reported summary of the available evidence supports the belief that further investigation in this field is worthwhile in the fight against cancer, as witnessed by the large number of ongoing trials of vitamin D both in the therapeutic and preventive setting (see: http://www.clinicaltrials.gov).
-

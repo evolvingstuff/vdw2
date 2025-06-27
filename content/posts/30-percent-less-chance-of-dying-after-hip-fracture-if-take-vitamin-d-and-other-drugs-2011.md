@@ -1,15 +1,26 @@
 {
-  "title": "30 percent less chance of dying after hip fracture if take vitamin D and other drugs \u2013 2011",
-  "slug": "30-percent-less-chance-of-dying-after-hip-fracture-if-take-vitamin-d-and-other-drugs-2011",
-  "aliases": [
-    "/30+percent+less+chance+of+dying+after+hip+fracture+if+take+vitamin+D+and+other+drugs+\u2013+2011",
-    "/1847"
-  ],
-  "tiki_page_id": 1847,
-  "date": "2011-07-20",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "30 percent less chance of dying after hip fracture if take vitamin D and other drugs \u2013 2011",
+    "slug": "30-percent-less-chance-of-dying-after-hip-fracture-if-take-vitamin-d-and-other-drugs-2011",
+    "aliases": [
+        "/30+percent+less+chance+of+dying+after+hip+fracture+if+take+vitamin+D+and+other+drugs+\u2013+2011",
+        "/1847"
+    ],
+    "tiki_page_id": 1847,
+    "date": "2011-07-20",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "bone",
+        "bone stress fractures",
+        "falls fractures",
+        "hip fractures",
+        "life span",
+        "mortality",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

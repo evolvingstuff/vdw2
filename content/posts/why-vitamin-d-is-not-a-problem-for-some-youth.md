@@ -1,16 +1,39 @@
 {
-  "title": "Why vitamin D is not a problem for some youth",
-  "slug": "why-vitamin-d-is-not-a-problem-for-some-youth",
-  "aliases": [
-    "/Why+vitamin+D+is+not+a+problem+for+some+youth",
-    "/1209"
-  ],
-  "tiki_page_id": 1209,
-  "date": "2010-12-06",
-  "categories": [
-    "How much Vitamin D",
-    "Youth"
-  ]
+    "title": "Why vitamin D is not a problem for some youth",
+    "slug": "why-vitamin-d-is-not-a-problem-for-some-youth",
+    "aliases": [
+        "/Why+vitamin+D+is+not+a+problem+for+some+youth",
+        "/1209"
+    ],
+    "tiki_page_id": 1209,
+    "date": "2010-12-06",
+    "categories": [
+        "How much Vitamin D",
+        "Youth"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Youth",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bariatric surgery",
+        "cancer",
+        "colon cancer",
+        "diabetes",
+        "fertility sperm",
+        "health risk",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "pregnancy",
+        "therapeutic intervention",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 
@@ -43,4 +66,3 @@
 * [70 percent of Koreans in their twenties had less than 20ng of vitamin D – Dec 2010](/posts/70-percent-of-koreans-in-their-twenties-had-less-than-20ng-of-vitamin-d)
 
 * <a href="/posts/90-percent-of-canadian-youth-less-than-30-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1090">90 percent of Canadian youth less than 30 ng vitamin D – Oct 2010</a>
-

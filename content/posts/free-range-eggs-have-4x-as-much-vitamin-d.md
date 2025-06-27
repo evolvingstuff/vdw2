@@ -1,15 +1,20 @@
 {
-  "title": "Free range eggs have 4X as much vitamin D",
-  "slug": "free-range-eggs-have-4x-as-much-vitamin-d",
-  "aliases": [
-    "/Free+range+eggs+have+4X+as+much+vitamin+D",
-    "/1975"
-  ],
-  "tiki_page_id": 1975,
-  "date": "2011-09-01",
-  "categories": [
-    "Food sources for Vitamin D"
-  ]
+    "title": "Free range eggs have 4X as much vitamin D",
+    "slug": "free-range-eggs-have-4x-as-much-vitamin-d",
+    "aliases": [
+        "/Free+range+eggs+have+4X+as+much+vitamin+D",
+        "/1975"
+    ],
+    "tiki_page_id": 1975,
+    "date": "2011-09-01",
+    "categories": [
+        "Food sources for Vitamin D"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

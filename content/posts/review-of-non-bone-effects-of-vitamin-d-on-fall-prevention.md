@@ -1,15 +1,63 @@
 {
-  "title": "Review of non-bone effects of vitamin D on fall prevention",
-  "slug": "review-of-non-bone-effects-of-vitamin-d-on-fall-prevention",
-  "aliases": [
-    "/Review+of+non-bone+effects+of+vitamin+D+on+fall+prevention+\u2013+Oct+2010",
-    "/1408"
-  ],
-  "tiki_page_id": 1408,
-  "date": "2011-02-14",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "Review of non-bone effects of vitamin D on fall prevention",
+    "slug": "review-of-non-bone-effects-of-vitamin-d-on-fall-prevention",
+    "aliases": [
+        "/Review+of+non-bone+effects+of+vitamin+D+on+fall+prevention+\u2013+Oct+2010",
+        "/1408"
+    ],
+    "tiki_page_id": 1408,
+    "date": "2011-02-14",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "atherosclerosis",
+        "autoimmune",
+        "bipolar disorder",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "bone stress fractures",
+        "brain",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "cholesterol",
+        "cognitive",
+        "dementia",
+        "depression",
+        "dosage",
+        "epilepsy",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "high dose",
+        "hip fractures",
+        "hypertension",
+        "intervention",
+        "life span",
+        "mood disorders",
+        "mortality",
+        "neurological",
+        "osteoporosis",
+        "parkinsons",
+        "pediatric autoimmune",
+        "rickets",
+        "therapeutic intervention",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -162,4 +210,3 @@ Studies that failed to demonstrate any significant effect of vitamin D and/or ca
 ## Conclusions
 
 Falls in the elderly, as well as fall-related adverse outcomes such as low trauma bone fractures, are events that could be prevented. Epidemiological studies conducted over the past 15 years provide an increasing number of arguments in favor of an action of vitamin D on muscles and CNS. Vitamin D improves postural balance, propulsion and also executive functions and navigation abilities among older adults. Vitamin D supplementation thus not only determines gait performance, but also prevents the occurrence of falls and their complications among older adults. Mixed data regarding the absence of effect of vitamin D and calcium supplementation are mainly due to the fact that some confounders were not taken into account, but also to the baseline serum vitamin D concentration on initiation of treatment, as a low serum vitamin D concentration appears to be associated with better efficacy. The prescription of at least 800 IU of vitamin D daily in insufficient elderly subjects is a simple intervention that should be incorporated into new strategies for postural rehabilitation, primary and secondary fall prevention, strength training, integration of body schema, automation of gait and adaptation to the environment.
-

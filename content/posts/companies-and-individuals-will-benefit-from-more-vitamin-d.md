@@ -1,15 +1,38 @@
 {
-  "title": "Companies and individuals will benefit from more vitamin D",
-  "slug": "companies-and-individuals-will-benefit-from-more-vitamin-d",
-  "aliases": [
-    "/Companies+and+individuals+will+benefit+from+more+vitamin+D",
-    "/2111"
-  ],
-  "tiki_page_id": 2111,
-  "date": "2011-10-21",
-  "categories": [
-    "Cost savings with Vitamin D"
-  ]
+    "title": "Companies and individuals will benefit from more vitamin D",
+    "slug": "companies-and-individuals-will-benefit-from-more-vitamin-d",
+    "aliases": [
+        "/Companies+and+individuals+will+benefit+from+more+vitamin+D",
+        "/2111"
+    ],
+    "tiki_page_id": 2111,
+    "date": "2011-10-21",
+    "categories": [
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "asthma",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "cholesterol",
+        "depression",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "hip fractures",
+        "hypertension",
+        "life span",
+        "metabolic",
+        "mood disorders",
+        "mortality",
+        "obesity",
+        "obesity and cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -206,4 +229,3 @@ Hip fracture ==> lose independence, high cost of nursing home, etc.
 * <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">HMOs will save millions of dollars with vitamin D</a>
 
 * <a href="/posts/not-as-productive-at-work-if-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2351">Not as productive at work if have low vitamin D – Jan 2011</a>
-

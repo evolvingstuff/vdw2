@@ -1,16 +1,25 @@
 {
-  "title": "Absurdity of 600 IU vitamin D for 10 lb infant or 300 lb adult",
-  "slug": "absurdity-of-600-iu-vitamin-d-for-10-lb-infant-or-300-lb-adult",
-  "aliases": [
-    "/Absurdity+of+600+IU+vitamin+D+for+10+lb+infant+or+300+lb+adult+-+Mar+2011",
-    "/1460"
-  ],
-  "tiki_page_id": 1460,
-  "date": "2011-03-04",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "How much Vitamin D"
-  ]
+    "title": "Absurdity of 600 IU vitamin D for 10 lb infant or 300 lb adult",
+    "slug": "absurdity-of-600-iu-vitamin-d-for-10-lb-infant-or-300-lb-adult",
+    "aliases": [
+        "/Absurdity+of+600+IU+vitamin+D+for+10+lb+infant+or+300+lb+adult+-+Mar+2011",
+        "/1460"
+    ],
+    "tiki_page_id": 1460,
+    "date": "2011-03-04",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "How much Vitamin D",
+        "child",
+        "childhood obesity",
+        "health risk",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 
@@ -65,4 +74,3 @@ Few nutrients or hormones (in fact, I can't think of a single one) are required 
 # Vitamin D deficiency is a complex topic
 
 <img src="/attachments/d3.mock.jpg" alt="image">
-

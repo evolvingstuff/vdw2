@@ -1,15 +1,30 @@
 {
-  "title": "88 percent of African immigrants to Melborne had less than 20 ng of vitamin D",
-  "slug": "88-percent-of-african-immigrants-to-melborne-had-less-than-20-ng-of-vitamin-d",
-  "aliases": [
-    "/88+percent+of+African+immigrants+to+Melborne+had+less+than+20+ng+of+vitamin+D",
-    "/1967"
-  ],
-  "tiki_page_id": 1967,
-  "date": "2011-08-30",
-  "categories": [
-    "Skin - Dark"
-  ]
+    "title": "88 percent of African immigrants to Melborne had less than 20 ng of vitamin D",
+    "slug": "88-percent-of-african-immigrants-to-melborne-had-less-than-20-ng-of-vitamin-d",
+    "aliases": [
+        "/88+percent+of+African+immigrants+to+Melborne+had+less+than+20+ng+of+vitamin+D",
+        "/1967"
+    ],
+    "tiki_page_id": 1967,
+    "date": "2011-08-30",
+    "categories": [
+        "Skin - Dark"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "atherosclerosis",
+        "blood levels",
+        "cardiovascular",
+        "cholesterol",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "metabolic",
+        "obesity",
+        "stroke",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -69,7 +84,7 @@ Latitude of Melbourne: 37 degrees from equator, similar to US or Spain
 
 * [Blacks may need less vitamin D than whites – PTH Aug 2010](/posts/blacks-may-need-less-vitamin-d-than-whites-pth)
 
-* <a href="/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2200">Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011</a>
+* [Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011](/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d)
 
 * <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a>
 
@@ -82,4 +97,3 @@ Latitude of Melbourne: 37 degrees from equator, similar to US or Spain
 * [Race vs vitamin D level - Veith May 2011](/posts/race-vs-vitamin-d-level-veith)
 
 * <a href="/posts/82-percent-of-black-us-adults-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1534">82 percent of black US adults less than 20 ng of vitamin D – Jan 2011</a>
-

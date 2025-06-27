@@ -1,19 +1,79 @@
 {
-  "title": "Health and Light - Ott 1973",
-  "slug": "health-and-light-ott-1973",
-  "aliases": [
-    "/Health+and+Light+-+Ott+1973",
-    "/1978"
-  ],
-  "tiki_page_id": 1978,
-  "date": "2011-09-02",
-  "categories": [
-    "Veterinary and Vitamin D",
-    "UV and Vitamin D"
-  ]
+    "title": "Health and Light - Ott 1973",
+    "slug": "health-and-light-ott-1973",
+    "aliases": [
+        "/Health+and+Light+-+Ott+1973",
+        "/1978"
+    ],
+    "tiki_page_id": 1978,
+    "date": "2011-09-02",
+    "categories": [
+        "Veterinary and Vitamin D",
+        "UV and Vitamin D"
+    ],
+    "tags": [
+        "UV and Vitamin D",
+        "Veterinary and Vitamin D",
+        "alcohol",
+        "antibiotics",
+        "anxiety",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "cholesterol",
+        "cognitive",
+        "depression",
+        "depression and pregnancy",
+        "dermatology",
+        "diabetes",
+        "epilepsy",
+        "falls fractures",
+        "hay fever",
+        "headache",
+        "health risk",
+        "herpes shingles",
+        "hives",
+        "influenza",
+        "leukemia",
+        "life span",
+        "lung cancer",
+        "lymphoma",
+        "macular degeneration",
+        "melanoma",
+        "metabolic",
+        "mononucleosis",
+        "mood disorders",
+        "mortality",
+        "neurological",
+        "pain",
+        "pfizer",
+        "pollution",
+        "preemie",
+        "pregnancy",
+        "psoriasis",
+        "rickets",
+        "skin cancer",
+        "smoking",
+        "transplant",
+        "trauma surgery",
+        "ultraviolet light",
+        "virus",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "vision",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
- **Health and Light by John N. Ott** 
+
+**Health and Light by John N. Ott** 
 
 #### The Effects of Natural and Artificial Light on Man and Other Living Things.
 

@@ -1,16 +1,27 @@
 {
-  "title": "Premature or low birth weight resulted in children 3X more likely to be anxious \u2013 meta-analysis",
-  "slug": "premature-or-low-birth-weight-resulted-in-children-3x-more-likely-to-be-anxious-meta-analysis",
-  "aliases": [
-    "/Premature+or+low+birth+weight+resulted+in+children+3X+more+likely+to+be+anxious+\u2013+meta-analysis+May+2011",
-    "/1771"
-  ],
-  "tiki_page_id": 1771,
-  "date": "2011-06-29",
-  "categories": [
-    "Pregnancy",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Premature or low birth weight resulted in children 3X more likely to be anxious \u2013 meta-analysis",
+    "slug": "premature-or-low-birth-weight-resulted-in-children-3x-more-likely-to-be-anxious-meta-analysis",
+    "aliases": [
+        "/Premature+or+low+birth+weight+resulted+in+children+3X+more+likely+to+be+anxious+\u2013+meta-analysis+May+2011",
+        "/1771"
+    ],
+    "tiki_page_id": 1771,
+    "date": "2011-06-29",
+    "categories": [
+        "Pregnancy",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "Meta-analysis of Vitamin D",
+        "Pregnancy",
+        "anxiety",
+        "child",
+        "depression",
+        "depression and pregnancy",
+        "low birth weight",
+        "mood disorders",
+        "pregnancy"
+    ]
 }
 
 

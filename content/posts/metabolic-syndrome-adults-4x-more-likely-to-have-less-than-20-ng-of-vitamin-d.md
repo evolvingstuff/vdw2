@@ -1,15 +1,25 @@
 {
-  "title": "Metabolic Syndrome adults 4X more likely to have less than 20 ng of vitamin D",
-  "slug": "metabolic-syndrome-adults-4x-more-likely-to-have-less-than-20-ng-of-vitamin-d",
-  "aliases": [
-    "/Metabolic+Syndrome+adults+4X+more+likely+to+have+less+than+20+ng+of+vitamin+D+-+Jan+2011",
-    "/1292"
-  ],
-  "tiki_page_id": 1292,
-  "date": "2011-01-07",
-  "categories": [
-    "Metabolic Syndrome"
-  ]
+    "title": "Metabolic Syndrome adults 4X more likely to have less than 20 ng of vitamin D",
+    "slug": "metabolic-syndrome-adults-4x-more-likely-to-have-less-than-20-ng-of-vitamin-d",
+    "aliases": [
+        "/Metabolic+Syndrome+adults+4X+more+likely+to+have+less+than+20+ng+of+vitamin+D+-+Jan+2011",
+        "/1292"
+    ],
+    "tiki_page_id": 1292,
+    "date": "2011-01-07",
+    "categories": [
+        "Metabolic Syndrome"
+    ],
+    "tags": [
+        "Metabolic Syndrome",
+        "blood levels",
+        "diabetes",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -30,4 +40,3 @@ There were no significant differences between the groups with respect to blood s
 Vitamin D levels were significantly inversely correlated with fasting glucose (r=-0.29, p=0.04) and HOMA (r=-0.34, p=0.04). Future studies of vitamin D supplementation in these subjects on subsequent risk of diabetes will prove instructive with respect to potential health claims in these high risk patients with MetS.
 
 © Georg Thieme Verlag KG Stuttgart · New York. PMID: 21110290
-

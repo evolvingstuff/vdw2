@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D in schools helped bones, adding Calcium helped some</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Vitamin D in schools helped bones, adding Calcium helped some</h1><time>April 17, 2012</time><div data-pagefind-body><h4 id=school-based-calcium-vitamin-d-with-micronutrient-supplementation-enhances-bone-mass-in-underprivileged-indian-premenarchal-girls>School-based calcium-vitamin D with micronutrient supplementation enhances bone mass in underprivileged Indian premenarchal girls.</h4><p>Bone. 2012 Apr 4.</p><p>Khadilkar A <a href=mailto:anuradhavkhadilkar@gmail.com>anuradhavkhadilkar@gmail.com</a> , Kadam N, Chiplonkar S, Fischer PR, Khadilkar V.</p><p>Hirabai Cowasji Jehangir Medical Research Institute, Pune, India.</p><p>Low adult bone mass is linked to osteoporosis and fractures and is dependent on the extent of childhood and adolescent bone mineralization. The aim of the study was to investigate the effect of 1-year supplementation of calcium, multivitamin with zinc along with vitamin-D on bone mass accrual of school-going premenarchal girls from low income groups in Pune, India. Double-blind, matched-pair, cluster, randomization study was carried out in 214 premenarchal girls (8-12years) from 2 schools in Pune, India. The two schools together formed 3 classes with 3 clusters each of age-matched girls of which one cluster was allocated to either one of the intervention groups</p><ul><li><p>Ca-group:500mg/d calcium,</p></li><li><p>Ca+MZ-group:500mg/d calcium+multivitamin tablet containing 15mg/d zinc or</p></li><li><p>Control group (C-group: multivitamin tablet without any minerals);</p></li></ul><p>all subjects received vitamin-D supplementation. Anthropometry, biochemical parameters, total body bone mineral content (TBBMC) and bone mineral density (TBBMD) (Dual energy X-ray absorptiometry) were assessed at baseline and endline.</p><p>Post supplementation, mean percent increase in TBBMC was significantly higher in</p><ul><li><p>Ca-group (22.3%) and</p></li><li><p>Ca+MZ-group (20.8%) compared to</p></li><li><p>C-group (17.6%) (p&lt;0.05) with</p></li></ul><p>no significant differences observed between Ca+MZ and Ca groups (p>0.1).</p><p>Improvement in TBBMC-for-age Z-scores was higher in the two calcium supplemented groups (13.6%-22%) compared to the C-group (no improvement). Calcium supplementation, with or without multivitamins and zinc, showed a promising improvement in bone health especially with regards to improvement in bone related Z-scores in our population of underprivileged premenarchal girls.</p><p>Copyright © 2012. Published by Elsevier Inc.</p><p>PMID: 22503722</p><p>– – – – – –</p><h2 id=summary-increased-bone-mineral-density-after-one-year>Summary: Increased Bone mineral density after one year</h2><p>17% multivitamin including vitamin D (Control)</p><p>22% Calcium + multivitamin including vitamin D</p><h3 id=wonder-how-much-vitamin-d-was-given>Wonder how much vitamin D was given</h3><h3 id=wonder-how-much-improvement-there-would-have-been-if-vitamin-k2-and-magnesium-vital-for-bones-were-also-given>Wonder how much improvement there would have been if Vitamin K2 and Magnesium, vital for bones, were also given</h3><h2 id=2007-paper-by-the-lead-author>2007 paper by the lead author</h2><p><a href=http://www.ncbi.nlm.nih.gov/pubmed/17954490>Low calcium intake and hypovitaminosis D in adolescent girls.</a> <strong><span style=color:#00f>attached at bottom of this page</span></strong></p><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=6&amp;sort_mode=created_desc">All items in category Bone Health and vitamin D</a> 106 items as of April 2012</p></li><li><p><a href=/posts/6500-iu-vitamin-d-not-improve-bone-density-without-co-factors>6500 IU vitamin D not improve bone density without co-factors – Jan 2012</a></p></li><li><p><a href=/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together>Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a></p></li><li><p><a href=/posts/bone-health-and-vitamin-d-book-2011>Bone Health and vitamin D book - 2011</a></p></li><li><p><a href=/posts/vitamin-d-is-the-first-of-three-ways-to-make-unbreakable-bones>Vitamin D is the first of three ways to make unbreakable bones – Oct 2011</a></p></li><li><p><a href=/posts/calcium-alone-does-not-reduce-risk-of-bone-fracture>Calcium (alone) does not reduce risk of bone fracture</a></p></li><li><p><a href=/posts/vitamin-d-is-the-best-of-three-ways-to-make-unbreakable-bones style=color:red;text-decoration:underline title="This link has an unknown page_id: 2082">Vitamin D is the best of three ways to make unbreakable bones – Oct 2011</a></p></li><li><p><a href=/posts/bone-health-and-vitamin-d-book-2011>Bone Health and vitamin D book - 2011</a></p></li><li><p><a href=/posts/vitamin-k-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 765">Vitamin K and Vitamin D</a></p></li></ul><blockquote><p>Includes problems with excess Calcium at end of page</p></blockquote><ul><li><a href=/posts/must-balance-co-factors-when-increasing-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 1936">Must balance co-factors when increasing vitamin D</a> has the following graph</li></ul><p>{IMG(attId=&ldquo;702&rdquo; max = &ldquo;500&rdquo;)}{IMG}</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bone</span>
+<span class=tag>bone mineral density</span>
+<span class=tag>bone stress fractures</span>
+<span class=tag>dosage</span>
+<span class=tag>falls fractures</span>
+<span class=tag>magnesium</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin k</span>
+<span class=tag>zinc</span></div><div data-pagefind-meta=tags hidden>bone, bone mineral density, bone stress fractures, dosage, falls fractures, magnesium, osteoporosis, vitamin d, vitamin k, zinc</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

@@ -1,16 +1,23 @@
 {
-  "title": "Molecular reason that UVB treats psoriasis",
-  "slug": "molecular-reason-that-uvb-treats-psoriasis",
-  "aliases": [
-    "/Molecular+reason+that+UVB+treats+psoriasis+\u2013+Mar+2011",
-    "/1493"
-  ],
-  "tiki_page_id": 1493,
-  "date": "2011-03-19",
-  "categories": [
-    "Psoriasis",
-    "Treatment by Vitamin D"
-  ]
+    "title": "Molecular reason that UVB treats psoriasis",
+    "slug": "molecular-reason-that-uvb-treats-psoriasis",
+    "aliases": [
+        "/Molecular+reason+that+UVB+treats+psoriasis+\u2013+Mar+2011",
+        "/1493"
+    ],
+    "tiki_page_id": 1493,
+    "date": "2011-03-19",
+    "categories": [
+        "Psoriasis",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "Psoriasis",
+        "Treatment by Vitamin D",
+        "dermatology",
+        "psoriasis",
+        "vitamin d"
+    ]
 }
 
 

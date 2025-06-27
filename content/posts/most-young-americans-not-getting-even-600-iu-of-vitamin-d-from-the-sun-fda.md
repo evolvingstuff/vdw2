@@ -1,16 +1,27 @@
 {
-  "title": "Most young Americans not getting even 600 IU of vitamin D from the sun \u2013 FDA",
-  "slug": "most-young-americans-not-getting-even-600-iu-of-vitamin-d-from-the-sun-fda",
-  "aliases": [
-    "/Most+young+Americans+not+getting+even+600+IU+of+vitamin+D+from+the+sun+\u2013+FDA+Aug+2011",
-    "/1930"
-  ],
-  "tiki_page_id": 1930,
-  "date": "2011-08-21",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Noontime sun and D"
-  ]
+    "title": "Most young Americans not getting even 600 IU of vitamin D from the sun \u2013 FDA",
+    "slug": "most-young-americans-not-getting-even-600-iu-of-vitamin-d-from-the-sun-fda",
+    "aliases": [
+        "/Most+young+Americans+not+getting+even+600+IU+of+vitamin+D+from+the+sun+\u2013+FDA+Aug+2011",
+        "/1930"
+    ],
+    "tiki_page_id": 1930,
+    "date": "2011-08-21",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Noontime sun and D",
+        "blood levels",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

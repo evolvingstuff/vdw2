@@ -1,15 +1,32 @@
 {
-  "title": "Cattle need 66 IU of vitamin D per pound",
-  "slug": "cattle-need-66-iu-of-vitamin-d-per-pound",
-  "aliases": [
-    "/Cattle+need+66+IU+of+vitamin+D+per+pound",
-    "/2040"
-  ],
-  "tiki_page_id": 2040,
-  "date": "2011-09-27",
-  "categories": [
-    "Veterinary and Vitamin D"
-  ]
+    "title": "Cattle need 66 IU of vitamin D per pound",
+    "slug": "cattle-need-66-iu-of-vitamin-d-per-pound",
+    "aliases": [
+        "/Cattle+need+66+IU+of+vitamin+D+per+pound",
+        "/2040"
+    ],
+    "tiki_page_id": 2040,
+    "date": "2011-09-27",
+    "categories": [
+        "Veterinary and Vitamin D"
+    ],
+    "tags": [
+        "Veterinary and Vitamin D",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "immunity",
+        "iodine",
+        "magnesium",
+        "magnesium and pregnancy",
+        "pregnancy",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin k"
+    ]
 }
 
 
@@ -68,4 +85,3 @@ Some of the dietary vitamin D is degraded in the rumen by bacteria to inactive m
 # See also VitaminDWiki
 
 * <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a>
-

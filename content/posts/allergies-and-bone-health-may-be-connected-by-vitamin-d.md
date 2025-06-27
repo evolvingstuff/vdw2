@@ -1,16 +1,26 @@
 {
-  "title": "Allergies and bone health may be connected by vitamin D",
-  "slug": "allergies-and-bone-health-may-be-connected-by-vitamin-d",
-  "aliases": [
-    "/Allergies+and+bone+health+may+be+connected+by+vitamin+D+\u2013+Sept+2011",
-    "/1971"
-  ],
-  "tiki_page_id": 1971,
-  "date": "2011-08-31",
-  "categories": [
-    "Bone - Health",
-    "Breathing"
-  ]
+    "title": "Allergies and bone health may be connected by vitamin D",
+    "slug": "allergies-and-bone-health-may-be-connected-by-vitamin-d",
+    "aliases": [
+        "/Allergies+and+bone+health+may+be+connected+by+vitamin+D+\u2013+Sept+2011",
+        "/1971"
+    ],
+    "tiki_page_id": 1971,
+    "date": "2011-08-31",
+    "categories": [
+        "Bone - Health",
+        "Breathing"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Breathing",
+        "asthma",
+        "bone",
+        "breathing",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -45,4 +55,3 @@ Although unexpected, data are now available suggesting a  **strict connection am
 Copyright © 2011 American College of Allergy, Asthma & Immunology. Published by Elsevier Inc. All rights reserved.
 
 PMID:     21875537
-

@@ -1,16 +1,25 @@
 {
-  "title": "Bone fractures not associated with vitamin D status",
-  "slug": "bone-fractures-not-associated-with-vitamin-d-status",
-  "aliases": [
-    "/Bone+fractures+not+associated+with+vitamin+D+status+\u2013+April+2011",
-    "/1584"
-  ],
-  "tiki_page_id": 1584,
-  "date": "2011-04-20",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Bone fractures not associated with vitamin D status",
+    "slug": "bone-fractures-not-associated-with-vitamin-d-status",
+    "aliases": [
+        "/Bone+fractures+not+associated+with+vitamin+D+status+\u2013+April+2011",
+        "/1584"
+    ],
+    "tiki_page_id": 1584,
+    "date": "2011-04-20",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "blood levels",
+        "bone",
+        "child",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
+
 
 Vitamin D Status in Abused and Nonabused Children Younger Than 2 Years Old With Fractures
 

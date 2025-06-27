@@ -1,15 +1,23 @@
 {
-  "title": "Autism and vitamin D Newsletter",
-  "slug": "autism-and-vitamin-d-newsletter",
-  "aliases": [
-    "/Autism+and+vitamin+D+Newsletter+-+Dec+2010",
-    "/1269"
-  ],
-  "tiki_page_id": 1269,
-  "date": "2010-12-30",
-  "categories": [
-    "Autism"
-  ]
+    "title": "Autism and vitamin D Newsletter",
+    "slug": "autism-and-vitamin-d-newsletter",
+    "aliases": [
+        "/Autism+and+vitamin+D+Newsletter+-+Dec+2010",
+        "/1269"
+    ],
+    "tiki_page_id": 1269,
+    "date": "2010-12-30",
+    "categories": [
+        "Autism"
+    ],
+    "tags": [
+        "Autism",
+        "brain",
+        "child",
+        "cognitive",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 
@@ -62,4 +70,3 @@ Thank you, thank you, thank you Dr. Cannell! I am so excited to see them improvi
 # See also at VitaminDWiki
 
 * <a href="/posts/autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Autism and vitamin D</a>
-

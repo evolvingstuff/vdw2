@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Lack of solar UVB in US is associated with some Cancers - 2006</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Lack of solar UVB in US is associated with some Cancers - 2006</h1><time>December 28, 2011</time><div data-pagefind-body><h1 id=solar-ultraviolet-b-exposure-and-cancer-incidence-and-mortality-in-the-united-states-1993-2002>Solar ultraviolet-B exposure and cancer incidence and mortality in the United States, 1993-2002.</h1><p>BMC Cancer. 2006 Nov 10;6:264.Boscoe FP, Schymura MJ.</p><p>Department of Epidemiology and Biostatistics, School of Public Health, University at Albany, Rensselaer, NY 12144, USA. <a href=mailto:fpb01@health.state.ny.us>fpb01@health.state.ny.us</a></p><p>BACKGROUND:</p><p>An inverse relationship between solar ultraviolet-B (UV-B) exposure and non-skin cancer mortality has long been reported. Vitamin D, acquired primarily through exposure to the sun via the skin, is believed to inhibit tumor development and growth and reduce mortality for certain cancers.</p><p>METHODS: We extend the analysis of this relationship to include cancer incidence as well as mortality, using higher quality and higher resolution data sets than have typically been available. Over three million incident cancer cases between 1998 and 2002 and three million cancer deaths between 1993 and 2002 in the continental United States were regressed against daily satellite-measured solar UV-B levels, adjusting for numerous confounders. Relative risks of reduced solar UV-B exposure were calculated for thirty-two different cancer sites.</p><p>RESULTS: For non-Hispanic whites, an inverse relationship between solar UV-B exposure and cancer incidence and mortality was observed for ten sites:</p><p><strong>bladder, colon, Hodgkin lymphoma, myeloma, other biliary, prostate, rectum, stomach, uterus, and vulva.</strong></p><p><strong>Weaker evidence</strong> of an inverse relationship was observed for six sites:</p><p>breast, kidney, leukemia, non-Hodgkin lymphoma, pancreas, and small intestine.</p><p>For three sites, inverse relationships were seen that varied markedly by <strong>sex</strong> :</p><p>esophagus (stronger in males than females), gallbladder (stronger in females than males), and thyroid (only seen in females).</p><p><strong>No association</strong> was found for</p><p>bone and joint, brain, larynx, liver, nasal cavity, ovary, soft tissue, male thyroid, and miscellaneous cancers.</p><p>A positive association between solar UV-B exposure and cancer mortality and incidence was found for</p><p>anus, cervix, oral cavity, melanoma, and other non-epithelial skin cancer.</p><p>CONCLUSION: This paper adds to the mounting evidence for the influential role of solar UV-B exposure on cancer, particularly for some of the less-well studied digestive cancers. The relative risks for cancer incidence are similar to those for cancer mortality for most sites. For several sites (breast, colon, rectum, esophagus, other biliary, vulva), the relative risks of mortality are higher, possibly suggesting that the maintenance of adequate vitamin D levels is more critical for limiting tumor progression than for preventing tumor onset. Our findings are generally consistent with the published literature, and include three cancer sites not previously linked with solar UV-B exposure, to our knowledge: leukemia, small intestine, and vulva.</p><p>PMID: 17096841</p><p>{IMG(fileId=&ldquo;1251&rdquo;)}{IMG}</p><h2 id=spantiki-download_filephpfileid2029span-for-pdf><span>[tiki-download_file.php?fileId=2029]</span> for PDF</h2></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>brain</span>
+<span class=tag>cancer</span>
+<span class=tag>Cancer</span>
+<span class=tag>cognitive</span>
+<span class=tag>leukemia</span>
+<span class=tag>life span</span>
+<span class=tag>lymphoma</span>
+<span class=tag>melanoma</span>
+<span class=tag>mortality</span>
+<span class=tag>Mortality and D</span>
+<span class=tag>skin cancer</span>
+<span class=tag>UV and Vitamin D</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>brain, cancer, Cancer, cognitive, leukemia, life span, lymphoma, melanoma, mortality, Mortality and D, skin cancer, UV and Vitamin D, vitamin d</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

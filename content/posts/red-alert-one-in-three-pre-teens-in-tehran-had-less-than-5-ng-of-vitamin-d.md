@@ -1,18 +1,29 @@
 {
-  "title": "Red Alert \u2013 one in three pre-teens in Tehran had less than 5 ng of vitamin D",
-  "slug": "red-alert-one-in-three-pre-teens-in-tehran-had-less-than-5-ng-of-vitamin-d",
-  "aliases": [
-    "/Red+Alert+\u2013+one+in+three+pre-teens+in+Tehran+had+less+than+5+ng+of+vitamin+D+\u2013+Feb+2011",
-    "/1448"
-  ],
-  "tiki_page_id": 1448,
-  "date": "2011-03-02",
-  "categories": [
-    "Skin - Dark",
-    "Deficiency of Vitamin D",
-    "Middle East",
-    "Youth"
-  ]
+    "title": "Red Alert \u2013 one in three pre-teens in Tehran had less than 5 ng of vitamin D",
+    "slug": "red-alert-one-in-three-pre-teens-in-tehran-had-less-than-5-ng-of-vitamin-d",
+    "aliases": [
+        "/Red+Alert+\u2013+one+in+three+pre-teens+in+Tehran+had+less+than+5+ng+of+vitamin+D+\u2013+Feb+2011",
+        "/1448"
+    ],
+    "tiki_page_id": 1448,
+    "date": "2011-03-02",
+    "categories": [
+        "Skin - Dark",
+        "Deficiency of Vitamin D",
+        "Middle East",
+        "Youth"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Middle East",
+        "Skin - Dark",
+        "Youth",
+        "blood levels",
+        "child",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -79,4 +90,3 @@ People in cities have too much to air conditioning, TX, internet, video games, a
 # See web
 
 * [Google Search for (burka OR hijab) "vitamin D"](http://www.google.com/webhp?sourceid=navclient-ff#hl=en&site=webhp&&sa=X&ei=cshpTf7fKoLmsQOVlOSmBA&ved=0CBQQvwUoAQ&q=%28burka+OR+hijab%29+%22vitamin+D%22&spell=1&bav=on.1,or.&fp=18e4c0cc530c3619) >400,000 hits Feb 2011
-

@@ -1,16 +1,24 @@
 {
-  "title": "Half of Australian office workers insufficient vitamin D in the winter",
-  "slug": "half-of-australian-office-workers-insufficient-vitamin-d-in-the-winter",
-  "aliases": [
-    "/Half+of+Australian+office+workers+insufficient+vitamin+D+in+the+winter+\u2013+Jan+2011",
-    "/1346"
-  ],
-  "tiki_page_id": 1346,
-  "date": "2011-01-24",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Vitamin D in Australia and New Zealand"
-  ]
+    "title": "Half of Australian office workers insufficient vitamin D in the winter",
+    "slug": "half-of-australian-office-workers-insufficient-vitamin-d-in-the-winter",
+    "aliases": [
+        "/Half+of+Australian+office+workers+insufficient+vitamin+D+in+the+winter+\u2013+Jan+2011",
+        "/1346"
+    ],
+    "tiki_page_id": 1346,
+    "date": "2011-01-24",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Vitamin D in Australia and New Zealand"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Vitamin D in Australia and New Zealand",
+        "cancer",
+        "melanoma",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

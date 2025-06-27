@@ -1,18 +1,37 @@
 {
-  "title": "Myopia may be related to low vitamin D",
-  "slug": "myopia-may-be-related-to-low-vitamin-d",
-  "aliases": [
-    "/Myopia+may+be+related+to+low+vitamin+D",
-    "/1450"
-  ],
-  "tiki_page_id": 1450,
-  "date": "2011-03-02",
-  "categories": [
-    "Vision"
-  ]
+    "title": "Myopia may be related to low vitamin D",
+    "slug": "myopia-may-be-related-to-low-vitamin-d",
+    "aliases": [
+        "/Myopia+may+be+related+to+low+vitamin+D",
+        "/1450"
+    ],
+    "tiki_page_id": 1450,
+    "date": "2011-03-02",
+    "categories": [
+        "Vision"
+    ],
+    "tags": [
+        "Vision",
+        "blood levels",
+        "cataracts",
+        "child",
+        "genetics",
+        "health risk",
+        "hypertension",
+        "myopia",
+        "pregnancy",
+        "smoking",
+        "vision",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "zinc"
+    ]
 }
 
- **Many studies have found Myopia associated with Vitamin D and some of its cofactors - Mg and Zinc** 
+
+**Many studies have found Myopia associated with Vitamin D and some of its cofactors - Mg and Zinc** 
 
  **Possibly:  Less vitamin D ( or cofactors which increase Vitamin D getting to cells)   
  &nbsp; &nbsp; ==> less muscle tone ==> eye muscle not as strong** 

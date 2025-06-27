@@ -1,15 +1,21 @@
 {
-  "title": "Cognitive impairment 4X more likely when vitamin D less than 10 ng",
-  "slug": "cognitive-impairment-4x-more-likely-when-vitamin-d-less-than-10-ng",
-  "aliases": [
-    "/Cognitive+impairment+4X+more+likely+when+vitamin+D+less+than+10+ng+\u2013+Nov+2010",
-    "/1114"
-  ],
-  "tiki_page_id": 1114,
-  "date": "2010-11-05",
-  "categories": [
-    "Cognitive"
-  ]
+    "title": "Cognitive impairment 4X more likely when vitamin D less than 10 ng",
+    "slug": "cognitive-impairment-4x-more-likely-when-vitamin-d-less-than-10-ng",
+    "aliases": [
+        "/Cognitive+impairment+4X+more+likely+when+vitamin+D+less+than+10+ng+\u2013+Nov+2010",
+        "/1114"
+    ],
+    "tiki_page_id": 1114,
+    "date": "2010-11-05",
+    "categories": [
+        "Cognitive"
+    ],
+    "tags": [
+        "Cognitive",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

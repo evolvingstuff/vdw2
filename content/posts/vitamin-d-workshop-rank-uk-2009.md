@@ -1,16 +1,32 @@
 {
-  "title": "Vitamin D workshop- Rank - UK- 2009",
-  "slug": "vitamin-d-workshop-rank-uk-2009",
-  "aliases": [
-    "/Vitamin+D+workshop-+Rank+-+UK-+2009",
-    "/1220"
-  ],
-  "tiki_page_id": 1220,
-  "date": "2010-12-10",
-  "categories": [
-    "Vitamin D in Europe",
-    "Conference"
-  ]
+    "title": "Vitamin D workshop- Rank - UK- 2009",
+    "slug": "vitamin-d-workshop-rank-uk-2009",
+    "aliases": [
+        "/Vitamin+D+workshop-+Rank+-+UK-+2009",
+        "/1220"
+    ],
+    "tiki_page_id": 1220,
+    "date": "2010-12-10",
+    "categories": [
+        "Vitamin D in Europe",
+        "Conference"
+    ],
+    "tags": [
+        "Conference",
+        "Vitamin D in Europe",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "child",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -133,4 +149,3 @@ Dr Kate Ward, MRC-Human Nutrition Research, Cambridge.
 # See also VitaminDWiki
 
 * <a href="/posts/vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations</a> both IU and nanograms
-

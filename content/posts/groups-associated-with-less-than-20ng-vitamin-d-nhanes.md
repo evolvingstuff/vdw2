@@ -1,16 +1,36 @@
 {
-  "title": "Groups associated with less than 20ng vitamin D \u2013 NHANES",
-  "slug": "groups-associated-with-less-than-20ng-vitamin-d-nhanes",
-  "aliases": [
-    "/Groups+associated+with+less+than+20ng+vitamin+D+\u2013+NHANES+Jan+2011",
-    "/1401"
-  ],
-  "tiki_page_id": 1401,
-  "date": "2011-02-11",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "High Risk"
-  ]
+    "title": "Groups associated with less than 20ng vitamin D \u2013 NHANES",
+    "slug": "groups-associated-with-less-than-20ng-vitamin-d-nhanes",
+    "aliases": [
+        "/Groups+associated+with+less+than+20ng+vitamin+D+\u2013+NHANES+Jan+2011",
+        "/1401"
+    ],
+    "tiki_page_id": 1401,
+    "date": "2011-02-11",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "High Risk"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "High Risk",
+        "autoimmune",
+        "blood levels",
+        "cancer",
+        "cholesterol",
+        "depression",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "mood disorders",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -62,7 +82,7 @@ In summary, vitamin D deficiency was common in the US population, especially amo
 
 * [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)
 
-* <a href="/posts/medical-causes-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2353">Medical Causes of Vitamin D Deficiency</a>
+* [Medical Causes of Vitamin D Deficiency](/posts/medical-causes-of-vitamin-d-deficiency)
 
 * <a href="/posts/how-you-might-double-the-benefit-of-your-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918">How you might double the benefit of your vitamin D</a>
 

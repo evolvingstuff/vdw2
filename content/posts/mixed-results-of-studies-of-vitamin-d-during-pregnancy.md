@@ -1,15 +1,22 @@
 {
-  "title": "Mixed results of studies of vitamin D during pregnancy",
-  "slug": "mixed-results-of-studies-of-vitamin-d-during-pregnancy",
-  "aliases": [
-    "/Mixed+results+of+studies+of+vitamin+D+during+pregnancy+\u2013+Aug+2011",
-    "/1956"
-  ],
-  "tiki_page_id": 1956,
-  "date": "2011-08-26",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Mixed results of studies of vitamin D during pregnancy",
+    "slug": "mixed-results-of-studies-of-vitamin-d-during-pregnancy",
+    "aliases": [
+        "/Mixed+results+of+studies+of+vitamin+D+during+pregnancy+\u2013+Aug+2011",
+        "/1956"
+    ],
+    "tiki_page_id": 1956,
+    "date": "2011-08-26",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "child",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -48,4 +55,3 @@ Wonder if the contradictory information comes from studies which have too little
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
 
 * [All items Moms babies and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=12&sort_mode=created_desc) 170 items as of Aug 2011
-

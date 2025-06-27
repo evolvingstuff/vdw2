@@ -1,16 +1,30 @@
 {
-  "title": "Huge increase in food allergies in Australia may be due to low vitamin D",
-  "slug": "huge-increase-in-food-allergies-in-australia-may-be-due-to-low-vitamin-d",
-  "aliases": [
-    "/Huge+increase+in+food+allergies+in+Australia+may+be+due+to+low+vitamin+D",
-    "/1839"
-  ],
-  "tiki_page_id": 1839,
-  "date": "2011-07-17",
-  "categories": [
-    "Autoimmune",
-    "Vitamin D in Australia and New Zealand"
-  ]
+    "title": "Huge increase in food allergies in Australia may be due to low vitamin D",
+    "slug": "huge-increase-in-food-allergies-in-australia-may-be-due-to-low-vitamin-d",
+    "aliases": [
+        "/Huge+increase+in+food+allergies+in+Australia+may+be+due+to+low+vitamin+D",
+        "/1839"
+    ],
+    "tiki_page_id": 1839,
+    "date": "2011-07-17",
+    "categories": [
+        "Autoimmune",
+        "Vitamin D in Australia and New Zealand"
+    ],
+    "tags": [
+        "Autoimmune",
+        "Vitamin D in Australia and New Zealand",
+        "asthma",
+        "atopic dermatitis",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "dermatology",
+        "hay fever",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 

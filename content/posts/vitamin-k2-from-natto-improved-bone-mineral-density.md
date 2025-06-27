@@ -1,16 +1,26 @@
 {
-  "title": "Vitamin K2 from natto improved bone mineral density",
-  "slug": "vitamin-k2-from-natto-improved-bone-mineral-density",
-  "aliases": [
-    "/Vitamin+K2+from+natto+improved+bone+mineral+density+\u2013+March+2011",
-    "/1483"
-  ],
-  "tiki_page_id": 1483,
-  "date": "2011-03-17",
-  "categories": [
-    "Bone - Health",
-    "Vitamin D and Vitamin K"
-  ]
+    "title": "Vitamin K2 from natto improved bone mineral density",
+    "slug": "vitamin-k2-from-natto-improved-bone-mineral-density",
+    "aliases": [
+        "/Vitamin+K2+from+natto+improved+bone+mineral+density+\u2013+March+2011",
+        "/1483"
+    ],
+    "tiki_page_id": 1483,
+    "date": "2011-03-17",
+    "categories": [
+        "Bone - Health",
+        "Vitamin D and Vitamin K"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Vitamin D and Vitamin K",
+        "bone",
+        "bone mineral density",
+        "falls fractures",
+        "hip fractures",
+        "osteoporosis",
+        "vitamin k"
+    ]
 }
 
 

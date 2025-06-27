@@ -1,17 +1,25 @@
 {
-  "title": "Vitamin D and fertility and birth problems with dark skin",
-  "slug": "vitamin-d-and-fertility-and-birth-problems-with-dark-skin",
-  "aliases": [
-    "/Vitamin+D+and+fertility+and+birth+problems+with+dark+skin+\u2013+Jan+2011",
-    "/1404"
-  ],
-  "tiki_page_id": 1404,
-  "date": "2011-02-13",
-  "categories": [
-    "Skin - Dark",
-    "Pregnancy",
-    "Fertility and sperm"
-  ]
+    "title": "Vitamin D and fertility and birth problems with dark skin",
+    "slug": "vitamin-d-and-fertility-and-birth-problems-with-dark-skin",
+    "aliases": [
+        "/Vitamin+D+and+fertility+and+birth+problems+with+dark+skin+\u2013+Jan+2011",
+        "/1404"
+    ],
+    "tiki_page_id": 1404,
+    "date": "2011-02-13",
+    "categories": [
+        "Skin - Dark",
+        "Pregnancy",
+        "Fertility and sperm"
+    ],
+    "tags": [
+        "Fertility and sperm",
+        "Pregnancy",
+        "Skin - Dark",
+        "fertility sperm",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 

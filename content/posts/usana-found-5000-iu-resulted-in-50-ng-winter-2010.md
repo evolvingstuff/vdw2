@@ -1,16 +1,23 @@
 {
-  "title": "USANA found 5000 IU resulted in 50 ng - Winter 2010",
-  "slug": "usana-found-5000-iu-resulted-in-50-ng-winter-2010",
-  "aliases": [
-    "/USANA+found+5000+IU+resulted+in+50+ng+-+Winter+2010",
-    "/1197"
-  ],
-  "tiki_page_id": 1197,
-  "date": "2010-12-02",
-  "categories": [
-    "How much Vitamin D",
-    "Optimum"
-  ]
+    "title": "USANA found 5000 IU resulted in 50 ng - Winter 2010",
+    "slug": "usana-found-5000-iu-resulted-in-50-ng-winter-2010",
+    "aliases": [
+        "/USANA+found+5000+IU+resulted+in+50+ng+-+Winter+2010",
+        "/1197"
+    ],
+    "tiki_page_id": 1197,
+    "date": "2010-12-02",
+    "categories": [
+        "How much Vitamin D",
+        "Optimum"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Optimum",
+        "dosage",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 

@@ -1,16 +1,26 @@
 {
-  "title": "Chance of a fall decreased with vitamin D3 but increased with D2",
-  "slug": "chance-of-a-fall-decreased-with-vitamin-d3-but-increased-with-d2",
-  "aliases": [
-    "/Chance+of+a+fall+decreased+with+vitamin+D3+but+increased+with+D2+\u2013+Oct+2011",
-    "/2128"
-  ],
-  "tiki_page_id": 2128,
-  "date": "2011-10-29",
-  "categories": [
-    "Vitamin D3 instead of D2",
-    "Falls and Fractures"
-  ]
+    "title": "Chance of a fall decreased with vitamin D3 but increased with D2",
+    "slug": "chance-of-a-fall-decreased-with-vitamin-d3-but-increased-with-d2",
+    "aliases": [
+        "/Chance+of+a+fall+decreased+with+vitamin+D3+but+increased+with+D2+\u2013+Oct+2011",
+        "/2128"
+    ],
+    "tiki_page_id": 2128,
+    "date": "2011-10-29",
+    "categories": [
+        "Vitamin D3 instead of D2",
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "Vitamin D3 instead of D2",
+        "bone",
+        "falls fractures",
+        "genetics",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -39,4 +49,3 @@ PMID: 22020957
 * <a href="/posts/overview-falling-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Overview Falling, Fractures and Vitamin D</a>
 
 * <a href="/posts/overview-d3-not-d2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138">Overview D3 not D2</a>
-

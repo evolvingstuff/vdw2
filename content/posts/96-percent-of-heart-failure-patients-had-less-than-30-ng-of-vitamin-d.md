@@ -1,15 +1,27 @@
 {
-  "title": "96 percent of heart failure patients had less than 30 ng of vitamin D",
-  "slug": "96-percent-of-heart-failure-patients-had-less-than-30-ng-of-vitamin-d",
-  "aliases": [
-    "/96+percent+of+heart+failure+patients+had+less+than+30+ng+of+vitamin+D+\u2013+March+2011",
-    "/1520"
-  ],
-  "tiki_page_id": 1520,
-  "date": "2011-03-29",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "96 percent of heart failure patients had less than 30 ng of vitamin D",
+    "slug": "96-percent-of-heart-failure-patients-had-less-than-30-ng-of-vitamin-d",
+    "aliases": [
+        "/96+percent+of+heart+failure+patients+had+less+than+30+ng+of+vitamin+D+\u2013+March+2011",
+        "/1520"
+    ],
+    "tiki_page_id": 1520,
+    "date": "2011-03-29",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "blood levels",
+        "cardiovascular",
+        "diabetes",
+        "heart failure",
+        "life span",
+        "metabolic",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

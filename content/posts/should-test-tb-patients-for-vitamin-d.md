@@ -1,15 +1,27 @@
 {
-  "title": "Should test TB patients for vitamin D",
-  "slug": "should-test-tb-patients-for-vitamin-d",
-  "aliases": [
-    "/Should+test+TB+patients+for+vitamin+D+\u2013+Nov+2010",
-    "/1166"
-  ],
-  "tiki_page_id": 1166,
-  "date": "2010-11-22",
-  "categories": [
-    "Tuberculosis"
-  ]
+    "title": "Should test TB patients for vitamin D",
+    "slug": "should-test-tb-patients-for-vitamin-d",
+    "aliases": [
+        "/Should+test+TB+patients+for+vitamin+D+\u2013+Nov+2010",
+        "/1166"
+    ],
+    "tiki_page_id": 1166,
+    "date": "2010-11-22",
+    "categories": [
+        "Tuberculosis"
+    ],
+    "tags": [
+        "Tuberculosis",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "child",
+        "immunity",
+        "rickets",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -56,4 +68,3 @@ Conclusions Our study supports the incorporation of routine Vitamin D screening 
 # Need to consider adding TB as a vicious circle, since "TB itself can worsen pre-existing vitamin D deficiency"
 
 <img src="/attachments/d3.mock.jpg" alt="image">
-

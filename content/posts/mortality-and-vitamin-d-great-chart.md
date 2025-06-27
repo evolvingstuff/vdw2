@@ -1,15 +1,23 @@
 {
-  "title": "Mortality and vitamin D \u2013 great chart",
-  "slug": "mortality-and-vitamin-d-great-chart",
-  "aliases": [
-    "/Mortality+and+vitamin+D+\u2013+great+chart",
-    "/1784"
-  ],
-  "tiki_page_id": 1784,
-  "date": "2011-07-02",
-  "categories": [
-    "Mortality and D"
-  ]
+    "title": "Mortality and vitamin D \u2013 great chart",
+    "slug": "mortality-and-vitamin-d-great-chart",
+    "aliases": [
+        "/Mortality+and+vitamin+D+\u2013+great+chart",
+        "/1784"
+    ],
+    "tiki_page_id": 1784,
+    "date": "2011-07-02",
+    "categories": [
+        "Mortality and D"
+    ],
+    "tags": [
+        "Mortality and D",
+        "blood levels",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

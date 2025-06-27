@@ -1,15 +1,24 @@
 {
-  "title": "Postmenopausal women with higher vitamin D exercised more",
-  "slug": "postmenopausal-women-with-higher-vitamin-d-exercised-more",
-  "aliases": [
-    "/Postmenopausal+women+with+higher+vitamin+D+exercised+more+\u2013+Mar+2011",
-    "/1499"
-  ],
-  "tiki_page_id": 1499,
-  "date": "2011-03-20",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "Postmenopausal women with higher vitamin D exercised more",
+    "slug": "postmenopausal-women-with-higher-vitamin-d-exercised-more",
+    "aliases": [
+        "/Postmenopausal+women+with+higher+vitamin+D+exercised+more+\u2013+Mar+2011",
+        "/1499"
+    ],
+    "tiki_page_id": 1499,
+    "date": "2011-03-20",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "falls fractures",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -33,5 +42,4 @@ CONCLUSIONS: The observed age-adjusted activity-25(OH)D associations were attenu
 
 Copyright © 2011 Elsevier Inc. All rights reserved.
 
-PMID: 21414803 
-
+PMID: 21414803

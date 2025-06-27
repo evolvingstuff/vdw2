@@ -1,15 +1,30 @@
 {
-  "title": "Perhaps 28-40 ng of vitamin D would be good for Melanoma patients",
-  "slug": "perhaps-28-40-ng-of-vitamin-d-would-be-good-for-melanoma-patients",
-  "aliases": [
-    "/Perhaps+28-40+ng+of+vitamin+D+would+be+good+for+Melanoma+patients+\u2013+Feb+2011",
-    "/1461"
-  ],
-  "tiki_page_id": 1461,
-  "date": "2011-03-06",
-  "categories": [
-    "Cancer - Skin"
-  ]
+    "title": "Perhaps 28-40 ng of vitamin D would be good for Melanoma patients",
+    "slug": "perhaps-28-40-ng-of-vitamin-d-would-be-good-for-melanoma-patients",
+    "aliases": [
+        "/Perhaps+28-40+ng+of+vitamin+D+would+be+good+for+Melanoma+patients+\u2013+Feb+2011",
+        "/1461"
+    ],
+    "tiki_page_id": 1461,
+    "date": "2011-03-06",
+    "categories": [
+        "Cancer - Skin"
+    ],
+    "tags": [
+        "Cancer - Skin",
+        "autoimmune",
+        "blood levels",
+        "cancer",
+        "cancer in VDR",
+        "genetics",
+        "high dose",
+        "immunity",
+        "intervention",
+        "melanoma",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -44,4 +59,3 @@ Copyright © 2011 Federation of European Biochemical Societies. Published by Els
 # Many studies have found that increased Melanoma is due to decreased vitamin D resulting from lack of sun
 
 {IMG(fileId="1200, 1158")}{IMG}
-

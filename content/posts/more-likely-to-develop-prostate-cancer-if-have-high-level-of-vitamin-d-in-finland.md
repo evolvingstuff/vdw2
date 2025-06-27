@@ -1,15 +1,24 @@
 {
-  "title": "More likely to develop Prostate Cancer if have high level of vitamin D in Finland",
-  "slug": "more-likely-to-develop-prostate-cancer-if-have-high-level-of-vitamin-d-in-finland",
-  "aliases": [
-    "/More+likely+to+develop+Prostate+Cancer+if+have+high+level+of+vitamin+D+in+Finland+\u2013+Sept+2011",
-    "/1989"
-  ],
-  "tiki_page_id": 1989,
-  "date": "2011-09-07",
-  "categories": [
-    "Cancer - Prostate"
-  ]
+    "title": "More likely to develop Prostate Cancer if have high level of vitamin D in Finland",
+    "slug": "more-likely-to-develop-prostate-cancer-if-have-high-level-of-vitamin-d-in-finland",
+    "aliases": [
+        "/More+likely+to+develop+Prostate+Cancer+if+have+high+level+of+vitamin+D+in+Finland+\u2013+Sept+2011",
+        "/1989"
+    ],
+    "tiki_page_id": 1989,
+    "date": "2011-09-07",
+    "categories": [
+        "Cancer - Prostate"
+    ],
+    "tags": [
+        "Cancer - Prostate",
+        "cancer",
+        "cholesterol",
+        "health risk",
+        "prostate cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

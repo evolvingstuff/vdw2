@@ -1,16 +1,23 @@
 {
-  "title": "Shade is better than sunscreen \u2013 does not eliminate the vitamin D",
-  "slug": "shade-is-better-than-sunscreen-does-not-eliminate-the-vitamin-d",
-  "aliases": [
-    "/Shade+is+better+than+sunscreen+\u2013+does+not+eliminate+the+vitamin+D+\u2013+June+2011",
-    "/1712"
-  ],
-  "tiki_page_id": 1712,
-  "date": "2011-06-09",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Shade is better than sunscreen \u2013 does not eliminate the vitamin D",
+    "slug": "shade-is-better-than-sunscreen-does-not-eliminate-the-vitamin-d",
+    "aliases": [
+        "/Shade+is+better+than+sunscreen+\u2013+does+not+eliminate+the+vitamin+D+\u2013+June+2011",
+        "/1712"
+    ],
+    "tiki_page_id": 1712,
+    "date": "2011-06-09",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "cancer",
+        "melanoma",
+        "skin cancer"
+    ]
 }
+
 
 &nbsp;
 

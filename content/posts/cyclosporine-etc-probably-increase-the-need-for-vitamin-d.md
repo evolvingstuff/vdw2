@@ -1,16 +1,33 @@
 {
-  "title": "Cyclosporine etc. probably increase the need for vitamin D",
-  "slug": "cyclosporine-etc-probably-increase-the-need-for-vitamin-d",
-  "aliases": [
-    "/Cyclosporine+etc+probably+increase+the+need+for+vitamin+D+\u2013+June+2011",
-    "/1748"
-  ],
-  "tiki_page_id": 1748,
-  "date": "2011-06-22",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Cyclosporine etc. probably increase the need for vitamin D",
+    "slug": "cyclosporine-etc-probably-increase-the-need-for-vitamin-d",
+    "aliases": [
+        "/Cyclosporine+etc+probably+increase+the+need+for+vitamin+D+\u2013+June+2011",
+        "/1748"
+    ],
+    "tiki_page_id": 1748,
+    "date": "2011-06-22",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "autoimmune",
+        "bone",
+        "bone loss",
+        "genetics",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 

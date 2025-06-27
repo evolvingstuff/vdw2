@@ -1,15 +1,26 @@
 {
-  "title": "Vitamin D levels were low at start of Parkinson Disease \u2013 but did not drop lower",
-  "slug": "vitamin-d-levels-were-low-at-start-of-parkinson-disease-but-did-not-drop-lower",
-  "aliases": [
-    "/Vitamin+D+levels+were+low+at+start+of+Parkinson+Disease+\u2013+but+did+not+drop+lower+\u2013+April+2011",
-    "/1627"
-  ],
-  "tiki_page_id": 1627,
-  "date": "2011-05-12",
-  "categories": [
-    "Parkinson"
-  ]
+    "title": "Vitamin D levels were low at start of Parkinson Disease \u2013 but did not drop lower",
+    "slug": "vitamin-d-levels-were-low-at-start-of-parkinson-disease-but-did-not-drop-lower",
+    "aliases": [
+        "/Vitamin+D+levels+were+low+at+start+of+Parkinson+Disease+\u2013+but+did+not+drop+lower+\u2013+April+2011",
+        "/1627"
+    ],
+    "tiki_page_id": 1627,
+    "date": "2011-05-12",
+    "categories": [
+        "Parkinson"
+    ],
+    "tags": [
+        "Parkinson",
+        "autoimmune",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -46,4 +57,3 @@ Low vitamin D levels have been associated with multiple neurological disorders, 
 * <a href="/posts/overview-parkinsons-disease-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 484">Overview: Parkinsons Disease and Vitamin D</a>
 
 ## Video by Cannell about this is attached to bottom of this page
-

@@ -1,16 +1,43 @@
 {
-  "title": "Overview Cardiovascular and vitamin D",
-  "slug": "overview-cardiovascular-and-vitamin-d",
-  "aliases": [
-    "/Overview+Cardiovascular+and+vitamin+D",
-    "/1422"
-  ],
-  "tiki_page_id": 1422,
-  "date": "2011-02-19",
-  "categories": [
-    "Cardiovascular",
-    "Overviews"
-  ]
+    "title": "Overview Cardiovascular and vitamin D",
+    "slug": "overview-cardiovascular-and-vitamin-d",
+    "aliases": [
+        "/Overview+Cardiovascular+and+vitamin+D",
+        "/1422"
+    ],
+    "tiki_page_id": 1422,
+    "date": "2011-02-19",
+    "categories": [
+        "Cardiovascular",
+        "Overviews"
+    ],
+    "tags": [
+        "CKD",
+        "Cardiovascular",
+        "Overviews",
+        "atherosclerosis",
+        "atrial fibrillation",
+        "blood levels",
+        "cardiovascular",
+        "child",
+        "cholesterol",
+        "diabetes",
+        "dosage",
+        "health risk",
+        "heart failure",
+        "high dose",
+        "hypertension",
+        "kidney",
+        "magnesium",
+        "metabolic",
+        "omega 3",
+        "smoking",
+        "statins",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -155,7 +182,7 @@ No Vitamin K2 to stop Calcium increased by Vitamin D from coating the arteries**
 
 *  **Mayo Clinic on methods of dealing with Afib April 2013 at the bottom of this page**   **Includes Vitamin D and Omega-3** 
 
-* <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
+* [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
 * [LA Times review of Fish Oil Meta-analysis](http://www.latimes.com/health/boostershots/la-heb-fish-oil-study-20120409,0,2337564.story) April 2012
 

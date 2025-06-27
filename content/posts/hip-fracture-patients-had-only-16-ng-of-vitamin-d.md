@@ -1,16 +1,29 @@
 {
-  "title": "Hip fracture patients had only 16 ng of vitamin D",
-  "slug": "hip-fracture-patients-had-only-16-ng-of-vitamin-d",
-  "aliases": [
-    "/Hip+fracture+patients+had+only+16+ng+of+vitamin+D+\u2013+May+2011",
-    "/1648"
-  ],
-  "tiki_page_id": 1648,
-  "date": "2011-05-22",
-  "categories": [
-    "Bone - Health",
-    "Falls and Fractures"
-  ]
+    "title": "Hip fracture patients had only 16 ng of vitamin D",
+    "slug": "hip-fracture-patients-had-only-16-ng-of-vitamin-d",
+    "aliases": [
+        "/Hip+fracture+patients+had+only+16+ng+of+vitamin+D+\u2013+May+2011",
+        "/1648"
+    ],
+    "tiki_page_id": 1648,
+    "date": "2011-05-22",
+    "categories": [
+        "Bone - Health",
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Falls and Fractures",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "falls fractures",
+        "hip fractures",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -45,4 +58,3 @@ PMID:     21594670
 # See also VitaminDWiki
 
 * <a href="/posts/overview-bone-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview: Bone fractures and vitamin D</a>
-

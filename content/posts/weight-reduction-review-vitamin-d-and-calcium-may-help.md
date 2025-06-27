@@ -1,15 +1,22 @@
 {
-  "title": "Weight reduction review \u2013 Vitamin D and Calcium may help",
-  "slug": "weight-reduction-review-vitamin-d-and-calcium-may-help",
-  "aliases": [
-    "/Weight+reduction+review+\u2013+Vitamin+D+and+Calcium+may+help+\u2013+July+2011",
-    "/1802"
-  ],
-  "tiki_page_id": 1802,
-  "date": "2011-07-07",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Weight reduction review \u2013 Vitamin D and Calcium may help",
+    "slug": "weight-reduction-review-vitamin-d-and-calcium-may-help",
+    "aliases": [
+        "/Weight+reduction+review+\u2013+Vitamin+D+and+Calcium+may+help+\u2013+July+2011",
+        "/1802"
+    ],
+    "tiki_page_id": 1802,
+    "date": "2011-07-07",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "health risk",
+        "obesity",
+        "vitamin d",
+        "weight loss"
+    ]
 }
 
 
@@ -46,4 +53,3 @@ PMID:     21731038
 * <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
 
 * <a href="/posts/the-influence-of-vitamin-d-and-calcium-on-fat-and-obesity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The influence of Vitamin D and Calcium on fat and obesity – March 2014">The influence of Vitamin D and Calcium on fat and obesity – March 2014</a> later publication
-

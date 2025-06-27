@@ -1,16 +1,26 @@
 {
-  "title": "Vitamin D targets 4 MS genes",
-  "slug": "vitamin-d-targets-4-ms-genes",
-  "aliases": [
-    "/Vitamin+D+targets+4+MS+genes+\u2013+May+2011",
-    "/1692"
-  ],
-  "tiki_page_id": 1692,
-  "date": "2011-06-02",
-  "categories": [
-    "Multiple Sclerosis",
-    "Genetics"
-  ]
+    "title": "Vitamin D targets 4 MS genes",
+    "slug": "vitamin-d-targets-4-ms-genes",
+    "aliases": [
+        "/Vitamin+D+targets+4+MS+genes+\u2013+May+2011",
+        "/1692"
+    ],
+    "tiki_page_id": 1692,
+    "date": "2011-06-02",
+    "categories": [
+        "Multiple Sclerosis",
+        "Genetics"
+    ],
+    "tags": [
+        "Genetics",
+        "Multiple Sclerosis",
+        "autoimmune",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

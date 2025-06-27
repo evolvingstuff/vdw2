@@ -1,15 +1,24 @@
 {
-  "title": "Systolic hypertension 4X more likely if low on vitamin D 14 years before",
-  "slug": "systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before",
-  "aliases": [
-    "/Systolic+hypertension+4X+more+likely+if+low+on+vitamin+D+14+years+before+\u2013+Nov+2010",
-    "/1164"
-  ],
-  "tiki_page_id": 1164,
-  "date": "2010-11-22",
-  "categories": [
-    "Hypertension"
-  ]
+    "title": "Systolic hypertension 4X more likely if low on vitamin D 14 years before",
+    "slug": "systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before",
+    "aliases": [
+        "/Systolic+hypertension+4X+more+likely+if+low+on+vitamin+D+14+years+before+\u2013+Nov+2010",
+        "/1164"
+    ],
+    "tiki_page_id": 1164,
+    "date": "2010-11-22",
+    "categories": [
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "blood levels",
+        "health risk",
+        "hypertension",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

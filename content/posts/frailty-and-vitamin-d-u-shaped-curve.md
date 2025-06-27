@@ -1,16 +1,27 @@
 {
-  "title": "Frailty and vitamin D \u2013 U shaped curve",
-  "slug": "frailty-and-vitamin-d-u-shaped-curve",
-  "aliases": [
-    "/Frailty+and+vitamin+D+\u2013+U+shaped+curve+\u2013+Dec+2010",
-    "/1212"
-  ],
-  "tiki_page_id": 1212,
-  "date": "2010-12-07",
-  "categories": [
-    "Seniors",
-    "Too much D"
-  ]
+    "title": "Frailty and vitamin D \u2013 U shaped curve",
+    "slug": "frailty-and-vitamin-d-u-shaped-curve",
+    "aliases": [
+        "/Frailty+and+vitamin+D+\u2013+U+shaped+curve+\u2013+Dec+2010",
+        "/1212"
+    ],
+    "tiki_page_id": 1212,
+    "date": "2010-12-07",
+    "categories": [
+        "Seniors",
+        "Too much D"
+    ],
+    "tags": [
+        "Seniors",
+        "Too much D",
+        "blood levels",
+        "bone",
+        "falls fractures",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

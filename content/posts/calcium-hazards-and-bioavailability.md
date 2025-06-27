@@ -1,16 +1,40 @@
 {
-  "title": "Calcium hazards and bioavailability",
-  "slug": "calcium-hazards-and-bioavailability",
-  "aliases": [
-    "/Calcium+hazards+and+bioavailability",
-    "/1446"
-  ],
-  "tiki_page_id": 1446,
-  "date": "2011-03-01",
-  "categories": [
-    "Vitamin D and Calcium"
-  ]
+    "title": "Calcium hazards and bioavailability",
+    "slug": "calcium-hazards-and-bioavailability",
+    "aliases": [
+        "/Calcium+hazards+and+bioavailability",
+        "/1446"
+    ],
+    "tiki_page_id": 1446,
+    "date": "2011-03-01",
+    "categories": [
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "CYPR",
+        "Vitamin D and Calcium",
+        "bone",
+        "breathing",
+        "cardiovascular",
+        "child",
+        "cholesterol",
+        "cystic fibrosis",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "life span",
+        "magnesium",
+        "magnesium and pregnancy",
+        "mortality",
+        "osteoporosis",
+        "pregnancy",
+        "stroke",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
+
 
 {{< toc >}} 
 

@@ -1,15 +1,26 @@
 {
-  "title": "2X more likely to have hypertension if less than 15 ng",
-  "slug": "2x-more-likely-to-have-hypertension-if-less-than-15-ng",
-  "aliases": [
-    "/2X+more+likely+to+have+hypertension+if+less+than+15+ng+\u2013+March+2011",
-    "/1539"
-  ],
-  "tiki_page_id": 1539,
-  "date": "2011-03-30",
-  "categories": [
-    "Hypertension"
-  ]
+    "title": "2X more likely to have hypertension if less than 15 ng",
+    "slug": "2x-more-likely-to-have-hypertension-if-less-than-15-ng",
+    "aliases": [
+        "/2X+more+likely+to+have+hypertension+if+less+than+15+ng+\u2013+March+2011",
+        "/1539"
+    ],
+    "tiki_page_id": 1539,
+    "date": "2011-03-30",
+    "categories": [
+        "Hypertension"
+    ],
+    "tags": [
+        "CKD",
+        "Hypertension",
+        "blood levels",
+        "cardiovascular",
+        "heart failure",
+        "hypertension",
+        "kidney",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -108,4 +119,3 @@ Vitamin D has been suggested to have an effect on erythropoiesis. We sought to e
 * <a href="/posts/vitamin-d-and-cardiovascular-disease-systematic-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 585">Vitamin D and cardiovascular disease - Systematic review June 2010</a>
 
 * [All items in category Hypertension and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=101&sort_mode=created_desc)
-

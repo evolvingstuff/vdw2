@@ -1,17 +1,37 @@
 {
-  "title": "Vitamin D Recommendations around the world - IU and ng",
-  "slug": "vitamin-d-recommendations-around-the-world-iu-and-ng",
-  "aliases": [
-    "/Vitamin+D+Recommendations+around+the+world+-+IU+and+ng",
-    "/1293"
-  ],
-  "tiki_page_id": 1293,
-  "date": "2011-01-07",
-  "categories": [
-    "How much Vitamin D",
-    "Top news",
-    "Consensus"
-  ]
+    "title": "Vitamin D Recommendations around the world - IU and ng",
+    "slug": "vitamin-d-recommendations-around-the-world-iu-and-ng",
+    "aliases": [
+        "/Vitamin+D+Recommendations+around+the+world+-+IU+and+ng",
+        "/1293"
+    ],
+    "tiki_page_id": 1293,
+    "date": "2011-01-07",
+    "categories": [
+        "How much Vitamin D",
+        "Top news",
+        "Consensus"
+    ],
+    "tags": [
+        "Consensus",
+        "How much Vitamin D",
+        "Top news",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breastfed",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "dosage",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "osteoporosis",
+        "pregnancy",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -151,7 +171,7 @@
 
 * <a href="/posts/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough</a>
 
-* <a href="/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: European Osteo group recommends 20-50 ng of vitamin D – Jan 2013">European Osteo group recommends 20-50 ng of vitamin D – Jan 2013</a>
+* [European Osteo group recommends 20-50 ng of vitamin D – Jan 2013](/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d)
 
 * [25 experts recommend vitamin D level of min 30 ng – Nov 2009](/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng)
 

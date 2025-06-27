@@ -1,16 +1,31 @@
 {
-  "title": "Unable to find a gene linking vitamin D and MS",
-  "slug": "unable-to-find-a-gene-linking-vitamin-d-and-ms",
-  "aliases": [
-    "/Unable+to+find+a+gene+linking+vitamin+D+and+MS+\u2013+March+2011",
-    "/1522"
-  ],
-  "tiki_page_id": 1522,
-  "date": "2011-03-29",
-  "categories": [
-    "Multiple Sclerosis",
-    "Genetics"
-  ]
+    "title": "Unable to find a gene linking vitamin D and MS",
+    "slug": "unable-to-find-a-gene-linking-vitamin-d-and-ms",
+    "aliases": [
+        "/Unable+to+find+a+gene+linking+vitamin+D+and+MS+\u2013+March+2011",
+        "/1522"
+    ],
+    "tiki_page_id": 1522,
+    "date": "2011-03-29",
+    "categories": [
+        "Multiple Sclerosis",
+        "Genetics"
+    ],
+    "tags": [
+        "CYPR",
+        "Genetics",
+        "Multiple Sclerosis",
+        "autoimmune",
+        "genetics",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -37,4 +52,3 @@ Copyright © 2011 Elsevier B.V. All rights reserved. PMID: 21440908
 # See also VitaminDWiki
 
 <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 691">Overview MS and Vitamin D</a>
-

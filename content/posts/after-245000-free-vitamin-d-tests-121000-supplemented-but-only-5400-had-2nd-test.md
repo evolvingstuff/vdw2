@@ -1,16 +1,22 @@
 {
-  "title": "After 245,000 free vitamin D tests, 121,000 supplemented, but only 5,400 had 2nd test",
-  "slug": "after-245000-free-vitamin-d-tests-121000-supplemented-but-only-5400-had-2nd-test",
-  "aliases": [
-    "/After+245000+free+vitamin+D+tests+121000+supplemented+but+only+5400+had+2nd+test+\u2013+Oct+2011",
-    "/2066"
-  ],
-  "tiki_page_id": 2066,
-  "date": "2011-10-04",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Tests for Vitamin D"
-  ]
+    "title": "After 245,000 free vitamin D tests, 121,000 supplemented, but only 5,400 had 2nd test",
+    "slug": "after-245000-free-vitamin-d-tests-121000-supplemented-but-only-5400-had-2nd-test",
+    "aliases": [
+        "/After+245000+free+vitamin+D+tests+121000+supplemented+but+only+5400+had+2nd+test+\u2013+Oct+2011",
+        "/2066"
+    ],
+    "tiki_page_id": 2066,
+    "date": "2011-10-04",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Tests for Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Tests for Vitamin D",
+        "blood levels",
+        "vitamin d"
+    ]
 }
 
 

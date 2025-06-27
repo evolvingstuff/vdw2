@@ -1,15 +1,25 @@
 {
-  "title": "Influenza Mortality not well modeled by vitamin D",
-  "slug": "influenza-mortality-not-well-modeled-by-vitamin-d",
-  "aliases": [
-    "/Influenza+Mortality+not+well+modeled+by+vitamin+D+\u2013+Oct+2011",
-    "/2098"
-  ],
-  "tiki_page_id": 2098,
-  "date": "2011-10-18",
-  "categories": [
-    "Immunity"
-  ]
+    "title": "Influenza Mortality not well modeled by vitamin D",
+    "slug": "influenza-mortality-not-well-modeled-by-vitamin-d",
+    "aliases": [
+        "/Influenza+Mortality+not+well+modeled+by+vitamin+D+\u2013+Oct+2011",
+        "/2098"
+    ],
+    "tiki_page_id": 2098,
+    "date": "2011-10-18",
+    "categories": [
+        "Immunity"
+    ],
+    "tags": [
+        "Immunity",
+        "influenza",
+        "life span",
+        "mortality",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

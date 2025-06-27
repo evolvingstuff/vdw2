@@ -1,18 +1,44 @@
 {
-  "title": "Allergy - Overview",
-  "slug": "allergy-overview",
-  "aliases": [
-    "/Allergy+-+Overview",
-    "/1604"
-  ],
-  "tiki_page_id": 1604,
-  "date": "2011-05-04",
-  "categories": [
-    "Breathing",
-    "Autoimmune",
-    "Youth",
-    "Infant-Child"
-  ]
+    "title": "Allergy - Overview",
+    "slug": "allergy-overview",
+    "aliases": [
+        "/Allergy+-+Overview",
+        "/1604"
+    ],
+    "tiki_page_id": 1604,
+    "date": "2011-05-04",
+    "categories": [
+        "Breathing",
+        "Autoimmune",
+        "Youth",
+        "Infant-Child"
+    ],
+    "tags": [
+        "Autoimmune",
+        "Breathing",
+        "Infant-Child",
+        "Youth",
+        "asthma",
+        "atopic dermatitis",
+        "blood levels",
+        "breathing",
+        "child",
+        "childhood viruses",
+        "dermatology",
+        "dosage",
+        "hay fever",
+        "immunity",
+        "mononucleosis",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "omega 3 and viruses",
+        "pregnancy",
+        "virus",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

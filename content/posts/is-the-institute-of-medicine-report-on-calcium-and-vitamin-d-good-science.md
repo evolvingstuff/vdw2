@@ -1,16 +1,27 @@
 {
-  "title": "Is the Institute of Medicine Report on Calcium and Vitamin D Good Science",
-  "slug": "is-the-institute-of-medicine-report-on-calcium-and-vitamin-d-good-science",
-  "aliases": [
-    "/Is+the+Institute+of+Medicine+Report+on+Calcium+and+Vitamin+D+Good+Science+-+Jan+2011",
-    "/1352"
-  ],
-  "tiki_page_id": 1352,
-  "date": "2011-01-26",
-  "categories": [
-    "How much Vitamin D",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Is the Institute of Medicine Report on Calcium and Vitamin D Good Science",
+    "slug": "is-the-institute-of-medicine-report-on-calcium-and-vitamin-d-good-science",
+    "aliases": [
+        "/Is+the+Institute+of+Medicine+Report+on+Calcium+and+Vitamin+D+Good+Science+-+Jan+2011",
+        "/1352"
+    ],
+    "tiki_page_id": 1352,
+    "date": "2011-01-26",
+    "categories": [
+        "How much Vitamin D",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Vitamin D and Calcium",
+        "brain",
+        "cancer",
+        "cognitive",
+        "dosage",
+        "life span",
+        "mortality",
+        "vitamin d"
+    ]
 }
 
 
@@ -41,4 +52,3 @@
 * <a href="/posts/brain-cancer-in-175-countries-related-to-low-uvb-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1062">Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010</a>
 
 * <a href="/posts/links-to-ws-grant-papers-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1825">Links to WS Grant papers in VitaminDWiki</a>
-

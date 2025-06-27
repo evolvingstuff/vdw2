@@ -1,19 +1,52 @@
 {
-  "title": "Hashimoto's Thyroiditis and Vitamin D - multiple studies",
-  "slug": "hashimotos-thyroiditis-and-vitamin-d-multiple-studies",
-  "aliases": [
-    "/Hashimotos+Thyroiditis+and+Vitamin+D+-+multiple+studies",
-    "/1843"
-  ],
-  "tiki_page_id": 1843,
-  "date": "2011-07-19",
-  "categories": [
-    "Thyroid and parathyroid",
-    "Iodine"
-  ]
+    "title": "Hashimoto's Thyroiditis and Vitamin D - multiple studies",
+    "slug": "hashimotos-thyroiditis-and-vitamin-d-multiple-studies",
+    "aliases": [
+        "/Hashimotos+Thyroiditis+and+Vitamin+D+-+multiple+studies",
+        "/1843"
+    ],
+    "tiki_page_id": 1843,
+    "date": "2011-07-19",
+    "categories": [
+        "Thyroid and parathyroid",
+        "Iodine"
+    ],
+    "tags": [
+        "Iodine",
+        "Thyroid and parathyroid",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "breathing",
+        "child",
+        "crohns",
+        "cystic fibrosis",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "genetics",
+        "gut",
+        "high dose",
+        "intervention",
+        "iodine",
+        "lupus",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "pain",
+        "pediatric autoimmune",
+        "pregnancy",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
- **Most studies agree: Hashimoto's Thyroiditis  is associated with low Vitamin D** 
+
+**Most studies agree: Hashimoto's Thyroiditis  is associated with low Vitamin D** 
 
  **H vs H** 
 

@@ -1,16 +1,57 @@
 {
-  "title": "Journal on vitamins and hormones has several papers on vitamin D \u2013 2011",
-  "slug": "journal-on-vitamins-and-hormones-has-several-papers-on-vitamin-d-2011",
-  "aliases": [
-    "/Journal+on+vitamins+and+hormones+has+several+papers+on+vitamin+D+\u2013+2011",
-    "/1511"
-  ],
-  "tiki_page_id": 1511,
-  "date": "2011-03-25",
-  "categories": [
-    "Immunity"
-  ]
+    "title": "Journal on vitamins and hormones has several papers on vitamin D \u2013 2011",
+    "slug": "journal-on-vitamins-and-hormones-has-several-papers-on-vitamin-d-2011",
+    "aliases": [
+        "/Journal+on+vitamins+and+hormones+has+several+papers+on+vitamin+D+\u2013+2011",
+        "/1511"
+    ],
+    "tiki_page_id": 1511,
+    "date": "2011-03-25",
+    "categories": [
+        "Immunity"
+    ],
+    "tags": [
+        "CYPR",
+        "IBD",
+        "Immunity",
+        "asthma",
+        "asthma receptor",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "crohns",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "falls fractures",
+        "genetics",
+        "gut",
+        "high dose",
+        "immunity",
+        "intervention",
+        "lupus",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pain",
+        "pregnancy",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "tuberculosis",
+        "type 1 diabetes",
+        "ulcerative colitis",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 {{< toc >}}
 

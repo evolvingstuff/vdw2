@@ -1,16 +1,29 @@
 {
-  "title": "Why has the MS latitude gradient disappeared",
-  "slug": "why-has-the-ms-latitude-gradient-disappeared",
-  "aliases": [
-    "/Why+has+the+MS+latitude+gradient+disappeared+\u2013+Oct+2011",
-    "/2090"
-  ],
-  "tiki_page_id": 2090,
-  "date": "2011-10-15",
-  "categories": [
-    "Multiple Sclerosis",
-    "Vitamin D Far from equator"
-  ]
+    "title": "Why has the MS latitude gradient disappeared",
+    "slug": "why-has-the-ms-latitude-gradient-disappeared",
+    "aliases": [
+        "/Why+has+the+MS+latitude+gradient+disappeared+\u2013+Oct+2011",
+        "/2090"
+    ],
+    "tiki_page_id": 2090,
+    "date": "2011-10-15",
+    "categories": [
+        "Multiple Sclerosis",
+        "Vitamin D Far from equator"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "Vitamin D Far from equator",
+        "autoimmune",
+        "cancer",
+        "high dose",
+        "intervention",
+        "melanoma",
+        "multiple sclerosis",
+        "skin cancer",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

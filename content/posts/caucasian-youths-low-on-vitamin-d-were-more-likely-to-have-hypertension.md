@@ -1,16 +1,35 @@
 {
-  "title": "Caucasian youths low on vitamin D were more likely to have hypertension",
-  "slug": "caucasian-youths-low-on-vitamin-d-were-more-likely-to-have-hypertension",
-  "aliases": [
-    "/Caucasian+youths+low+on+vitamin+D+were+more+likely+to+have+hypertension+\u2013+July+2011",
-    "/1837"
-  ],
-  "tiki_page_id": 1837,
-  "date": "2011-07-15",
-  "categories": [
-    "Youth",
-    "Hypertension"
-  ]
+    "title": "Caucasian youths low on vitamin D were more likely to have hypertension",
+    "slug": "caucasian-youths-low-on-vitamin-d-were-more-likely-to-have-hypertension",
+    "aliases": [
+        "/Caucasian+youths+low+on+vitamin+D+were+more+likely+to+have+hypertension+\u2013+July+2011",
+        "/1837"
+    ],
+    "tiki_page_id": 1837,
+    "date": "2011-07-15",
+    "categories": [
+        "Youth",
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "Youth",
+        "atherosclerosis",
+        "blood levels",
+        "cardiovascular",
+        "child",
+        "childhood obesity",
+        "cholesterol",
+        "diabetes",
+        "health risk",
+        "heart failure",
+        "hypertension",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 

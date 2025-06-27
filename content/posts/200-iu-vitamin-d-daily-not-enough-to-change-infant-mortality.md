@@ -1,16 +1,27 @@
 {
-  "title": "200 IU vitamin D daily not enough to change infant mortality",
-  "slug": "200-iu-vitamin-d-daily-not-enough-to-change-infant-mortality",
-  "aliases": [
-    "/200+IU+vitamin+D+daily+not+enough+to+change+infant+mortality+\u2013+May+2011",
-    "/1862"
-  ],
-  "tiki_page_id": 1862,
-  "date": "2011-07-26",
-  "categories": [
-    "Infant-Child"
-  ]
+    "title": "200 IU vitamin D daily not enough to change infant mortality",
+    "slug": "200-iu-vitamin-d-daily-not-enough-to-change-infant-mortality",
+    "aliases": [
+        "/200+IU+vitamin+D+daily+not+enough+to+change+infant+mortality+\u2013+May+2011",
+        "/1862"
+    ],
+    "tiki_page_id": 1862,
+    "date": "2011-07-26",
+    "categories": [
+        "Infant-Child"
+    ],
+    "tags": [
+        "Infant-Child",
+        "bone",
+        "child",
+        "dosage",
+        "life span",
+        "mortality",
+        "rickets",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

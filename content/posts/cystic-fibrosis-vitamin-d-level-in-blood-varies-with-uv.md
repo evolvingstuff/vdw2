@@ -1,16 +1,24 @@
 {
-  "title": "Cystic Fibrosis - vitamin D level in blood varies with UV",
-  "slug": "cystic-fibrosis-vitamin-d-level-in-blood-varies-with-uv",
-  "aliases": [
-    "/Cystic+Fibrosis+-+vitamin+D+level+in+blood+varies+with+UV+\u2013+Jan+2011",
-    "/1333"
-  ],
-  "tiki_page_id": 1333,
-  "date": "2011-01-20",
-  "categories": [
-    "UV and Vitamin D",
-    "Cystic Fibrosis"
-  ]
+    "title": "Cystic Fibrosis - vitamin D level in blood varies with UV",
+    "slug": "cystic-fibrosis-vitamin-d-level-in-blood-varies-with-uv",
+    "aliases": [
+        "/Cystic+Fibrosis+-+vitamin+D+level+in+blood+varies+with+UV+\u2013+Jan+2011",
+        "/1333"
+    ],
+    "tiki_page_id": 1333,
+    "date": "2011-01-20",
+    "categories": [
+        "UV and Vitamin D",
+        "Cystic Fibrosis"
+    ],
+    "tags": [
+        "Cystic Fibrosis",
+        "UV and Vitamin D",
+        "breathing",
+        "cystic fibrosis",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 
@@ -30,4 +38,4 @@ Subjects/Methods:Over 4 consecutive years, 474 annual 25 (OH) D serum concentrat
 
 Results:Ranked per month, 25 (OH) D concentrations depicted a curve  **strikingly parallel to the amount of UVB exposure in the preceding months** . A significant difference exists between 25 (OH) D concentrations in the 'Months with high UVB exposure' (May-October) and the 'Months with low UVB exposure' (November-April) but not with healthy controls in the same period.
 
-Conclusions:25 (OH) D concentrations clearly respond to the amount of sunshine in preceding months.  **They are not clearly influenced by daily oral supplements of 800 IU of cholecalciferol** . Sun exposure should be encouraged, and the recommended dosage of oral supplements increased. 
+Conclusions:25 (OH) D concentrations clearly respond to the amount of sunshine in preceding months.  **They are not clearly influenced by daily oral supplements of 800 IU of cholecalciferol** . Sun exposure should be encouraged, and the recommended dosage of oral supplements increased.

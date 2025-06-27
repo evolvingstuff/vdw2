@@ -1,16 +1,28 @@
 {
-  "title": "FAO and WHO are requesting information on vitamin D etc by",
-  "slug": "fao-and-who-are-requesting-information-on-vitamin-d-etc-by",
-  "aliases": [
-    "/FAO+and+WHO+are+requesting+information+on+vitamin+D+etc+by+Aug+15+2011",
-    "/1781"
-  ],
-  "tiki_page_id": 1781,
-  "date": "2011-07-01",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "FAO and WHO are requesting information on vitamin D etc by",
+    "slug": "fao-and-who-are-requesting-information-on-vitamin-d-etc-by",
+    "aliases": [
+        "/FAO+and+WHO+are+requesting+information+on+vitamin+D+etc+by+Aug+15+2011",
+        "/1781"
+    ],
+    "tiki_page_id": 1781,
+    "date": "2011-07-01",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "dosage",
+        "iodine",
+        "magnesium",
+        "magnesium and pregnancy",
+        "pregnancy",
+        "vitamin d",
+        "vitamin k",
+        "zinc"
+    ]
 }
+
 
 &nbsp;
 

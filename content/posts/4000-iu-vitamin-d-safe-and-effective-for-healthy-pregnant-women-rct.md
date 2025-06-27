@@ -1,16 +1,25 @@
 {
-  "title": "4000 IU Vitamin D Safe and Effective For Healthy Pregnant Women \u2013 RCT",
-  "slug": "4000-iu-vitamin-d-safe-and-effective-for-healthy-pregnant-women-rct",
-  "aliases": [
-    "/4000+IU+Vitamin+D+Safe+and+Effective+For+Healthy+Pregnant+Women+\u2013+RCT+June+2011",
-    "/1765"
-  ],
-  "tiki_page_id": 1765,
-  "date": "2011-06-27",
-  "categories": [
-    "Pregnancy",
-    "Intervention"
-  ]
+    "title": "4000 IU Vitamin D Safe and Effective For Healthy Pregnant Women \u2013 RCT",
+    "slug": "4000-iu-vitamin-d-safe-and-effective-for-healthy-pregnant-women-rct",
+    "aliases": [
+        "/4000+IU+Vitamin+D+Safe+and+Effective+For+Healthy+Pregnant+Women+\u2013+RCT+June+2011",
+        "/1765"
+    ],
+    "tiki_page_id": 1765,
+    "date": "2011-06-27",
+    "categories": [
+        "Pregnancy",
+        "Intervention"
+    ],
+    "tags": [
+        "Intervention",
+        "Pregnancy",
+        "blood levels",
+        "dosage",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -96,4 +105,4 @@ PMID: 21706518
 
 ---
 
- **Target was 80 nmol = 32 nanograms** 
+ **Target was 80 nmol = 32 nanograms**

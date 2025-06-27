@@ -1,0 +1,538 @@
+{
+    "title": "Review of Metabolic Syndrome and vitamin D",
+    "slug": "review-of-metabolic-syndrome-and-vitamin-d",
+    "aliases": [
+        "/Review+of+Metabolic+Syndrome+and+vitamin+D+-+June+2012",
+        "/2927"
+    ],
+    "tiki_page_id": 2927,
+    "date": "2012-06-16",
+    "categories": [
+        "Metabolic Syndrome"
+    ],
+    "tags": [
+        "CKD",
+        "Metabolic Syndrome",
+        "NAFLD",
+        "PCOS",
+        "alcohol",
+        "atherosclerosis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bariatric surgery",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "cholesterol",
+        "cystic fibrosis",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "gestational diabetes",
+        "health risk",
+        "heart failure",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "intervention",
+        "kidney",
+        "life span",
+        "liver",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "metabolic syndrome and magnesium",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "osteoporosis",
+        "ovarian cancer",
+        "pain",
+        "pediatric autoimmune",
+        "pollution",
+        "pregnancy",
+        "psoriasis",
+        "rheumatoid arthritis",
+        "rickets",
+        "smoking",
+        "stroke",
+        "therapeutic intervention",
+        "trauma surgery",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "weight loss"
+    ]
+}
+
+
+# Is vitamin D status relevant to metabolic syndrome?
+
+Dermato-Endocrinology Volume 4, Issue 2   April/May/June 2012
+
+Barbara J. Boucher 
+
+Review of the evidence on hypovitaminosis D as a risk factor for metabolic syndrome and its sequelae, T2DM and CVD, suggests long-term vitamin D repletion could reduce these risks. There is mechanistic evidence for protective effects for MetS and the balance of evidence, (cross-sectional and prospective), supports this postulate. Much of the data so far available from randomized controlled trials is weakened by inadequate power, low vitamin D dosages, starting supplementation too late in life or after MetS disorders have developed or, most importantly, by non-inclusion of many recognizable confounders. On balance, therefore, maintenance of US 2010 recommended intakes for bone protection has the potential to prove protective for MetS. Supplementation has been shown to increase survival in patients with cardiac disorders, whether higher doses would provide useful protection for apparently healthy people in the general population awaits the outcomes of ongoing randomized-controlled trials that, it is hoped, will prove or disprove causality for hypovitaminosis D in MetS and its ill-effects.
+
+---
+
+‘Metabolic Syndrome’
+
+Obesity is associated with increased risks for dying of heart disease, stroke or heart failure, suddenly or after prolonged periods of disability. Fatty arterial deposits (plaque), arterial hardening, plaque rupture and subsequent thrombosis with vessel occlusion are recognized as precipitating cardiovascular disease, especially with hypertension. These problems are one of the commonest causes of death and seen increasingly in younger people. Efforts to identify avoidable causes of vascular disease have intensified. Risk markers for CVD, additional to obesity, include hyperlipidemia (raised blood cholesterol, LDL-C and TAGs) but lowered HDL-C], hyperglycemia, type 2 diabetes (T2DM) and hypertension, the easily measured variables that have become grouped together for identification of T2DM and CVD risks. The terms ‘Syndrome ‘X” (Reaven’s Syndrome), or ‘metabolic syndrome’, as more commonly used, mark increased CVD by using ‘cut-offs’ defining increased risk identified from prospective epidemiological data. These criteria vary between population groups (see Table 1) and do not include risk factors like increased insulin resistance or non-alcoholic fatty liver disease, or well established risk factors like lack of exercise or smoking. Unidentified risk factors for MetS could also emerge confounding current risk assessments. It has been suggested from evidence accumulating over the past 40 y that maintaining vitamin D repletion might prove protective against MetS and its sequelae, T2DM and cardiovascular disease;2,3 this commentary, therefore, aims to consider currently available evidence for hypovitaminosis D as a potentially avoidable risk factor for metabolic syndrome (MetS) and its sequelae.
+
+Table 1. Range of criteria used for diagnosis of ‘Metabolic Syndrome’ in North America and Europe1
+
+| | | | |
+| --- | --- | --- | --- |
+| Criterion	 | Europid men | Europid women | Asian men and women (south and east) and other similar groups |
+| Waist size | ? 94–103 cm	 | ? 80 = 88 cm | ? 90 cm in men ? 80 cm in women |
+| Triglycerides (Triacylglycerol) | ? 1.7 mmol/l | ? 1.7 mmol/l	 | ? 1.7 mmol/l |
+| HDL-Cholesterol | ? 40 mg/dl | ? 50mg/d	 | As for Europids |
+| Blood pressure | ? 130.85–140/90 (or on medication for hypertension) | ? 130.85–140/90 <span>[or on medication for hypertension]</span> | ? 130.85–140/90(or on medication for hypertension) |
+| Fasting glucose | ? 5.1, 5.6, 6.1 mmol/l | ? 5.1, 5.6, 6.1 mmol/l	 | ? 5.1, 5.6, 6.1 mmol/l  |
+
+## Vitamin D
+
+Summer sunshine and cod-liver oil have been known for many generations to prevent, and cure, childhood rickets and vitamin D was identified ~100 y ago as the active agent. Unicellular organisms synthesize vitamin D, thought to be protective pre-historically against intense UV B irradiation (UVB) which passes up the food chain, concentrating in fish-oil and fish-liver oils, and also synthesized as cholecalciferol (vitamin D3; D3) in mammalian skin under the influence of UVB. Fungi and yeasts synthesize vitamin D2 (ergocalciferol), also effective against rickets, under UVB. Vitamin D (vitD) is fat soluble, absorbed in dietary fat from the gut, and from skin synthesis and stored in fat. Hepatic 25-hydroxylation of both chole-and ergo-calciferol forms 25-hydroxyvitamin D which circulates on vitamin D- binding protein (DBP or Gc proteins) to the tissues and has a half-life of several weeks. Serum 25(OH)D concentrations <span>[25(OH)D]</span> reflect available body stores and represent vitamin D availability to target tissues. The kidney was the first site identified as activating of 25(OH)D by 1?-hydroxylation, forming hormonal 1,25-dihydroxyvitamin D (calcitriol), which promotes calcium absorption and bone calcification. Serum calcitriol concentrations are tightly regulated by calcium, parathyroid hormone (PTH) and bone fibroblast growth factor-23 (FGF-23). Local tissue activation also occurs in non-renal target tissues that contain both specific 1?-(OH)ase and vitamin D receptors (VDR). Local activation is not controlled by PTH but predominantly by local 24-hydroxylation of calcitriol to 24,25-dihydroxyvitamin D by a specific vitamin D 24(OH)ase.4,5
+
+Factors causing vitamin D insufficiency
+
+As mankind migrated from Africa toward the poles it met shorter days and sunlight which penetrates the atmosphere more obliquely, reducing available UVB. This was partially compensated for by reductions in skin pigmentation.6 Modern life styles, however, reduce UVB exposure further, due to clothing (especially veiling), working, traveling and exercising indoors (since glass blocks out UVB). Air pollution blocks UVB radiation and we increasingly avoid sunshine and use sunscreens to avoid skin aging and skin cancers. People live longer and skin synthesis and gut absorption of vitamin D fall with age. Modern unfortified diets provide little vitamin D other than in wild (but not farmed) oily sea or fresh water fish, fish-liver oils and egg yolk. Increasing obesity reduces serum 25(OH)D, probably by sequestrating vitamin D in adipose cell fat.7 Vitamin D need only be stored at the same concentrations in fat in obesity as in non-obese people for total vitamin D storage to be increased by obesity.8 This stored vitamin D can be released during weight loss, e.g., after gastric banding, when insulin resistance and serum PTH fall (PTH) can increase insulin resistance.9,10 Malabsoptive weight loss, which reduces serum 25(OH)D, also reduces insulin resistance. Thus, weight and weight changes are common confounders of investigations in this area. Some countries fortify foods, e.g., milk and orange juice in the USA and margarine in the UK and often some breakfast cereals. Inadequate vitamin D repletion is a continuing, sizeable and increasingly obvious problem world-wide, in sunny as well as Northern climes, and at all ages.10,11 More countries are introducing food fortification with vitamin D, using D3, since D3 may be more effective than D2, even though both cure rickets.4,12
+
+Genetic influences on vitamin D ‘status’
+
+Three polymorphisms in vitamin D axis genes contribute independently to determination of serum 25(OH)D concentrations <span>[25(OH)D]</span>, which may affect vitamin D effectiveness, though their combined effects are small <span>[vitamin D binding protein (DBP), vitamin D receptor (VDR) and the specific activating 1alpha-hydroxylase genes]</span>.13 This finding may explain why functional variation with VDR polymorphisms has been reported in subjects with marked deficiency.14 Chromatin immunoprecipitation after calcitriol stimulation showed VDR binding to ~3000 genetic sites and modulation of gene expression in 229 of them; furthermore, VDR enrichment of certain gene sites and particular SNPs were associated with specific disorders.15 Looking at this type of data, together with vitamin D status, in epidemiological studies and in randomized controlled trials would improve the chances of establishing what roles vitamin D has in disease risks, including MetS.16,17
+
+Factors increasing metabolic syndrome disorder risks
+
+Recognized life-style and environmental factors increasing risks of MetS and its sequelae, CVD and T2DM, include lack of exercise, increasing age, obesity, cigarette smoking, excess alcohol intake and inappropriate diet; programmes of regular exercise with weight loss can reduce T2DM risk by up to 58%.18,19 Further reductions are seen with other measures for reducing insulin resistance, or improving ? cell function, e.g., medication with metformin, renin-angiotensin system blockers, incretin mimics or bariatric surgery.20 Since correcting severe hypovitaminosis D can produce similar benefits, experimentally, and in some subjects with early defects in glucose homeostasis,2 this commentary aims to consider the case for definitive investigation of long-term vitamin D repletion for reductions of MetS risks, since this measure could prove cost-effective at the population level.
+
+Vitamin D insufficiency and metabolic syndrome abnormalities
+
+Since many of the factors leading to increased MetS risk also reduce vitamin D status, notably obesity, the role of vitamin D in determining MetS risks needs to be teased out from obesity, and other confounders, in the growing numbers of studies reported, whether cross-sectional, prospective, supplementational or, most importantly, in randomized controlled trials (RCTs) including subjects of various weights.
+
+Vitamin A and vitamin D
+
+Activated vitamin D (calcitriol) binds to VDRs that complex with retinol X receptors to form VDR:RXR heterodimers; these bind to VDR response elements (VDRE) in promoter regions of many genes. Retinol-bound retinol A receptors form RAR:RXR heterodimers, reducing RXR availability while large doses of vitamin A prevent death from lethal doses of vitamin D experimentally and cause rickets in normal replete animals; and similar antagonism exists for non-bony effects of vitamin D.21 Higher than recommended intakes of vitamin A are associated with health risks and can be above recommendations in some communities, especially in the West.22,23 Osteoporosis is more severe and fragility fracture rates increased in women with higher retinol intakes. Thus, retinol intake is an unmeasured confounder in all studies of vitamin D and MetS to date and should be assessed in all future studies, including RCTs.
+
+Vitamin D status and Metabolic Syndrome
+
+Available evidence includes reports of associations, mechanisms and effects of supplemental vitamin D in relation to classical ‘metabolic syndrome’ (MetS), its components, related risk factors (including increased insulin resistance and non-alcoholic fatty liver disease) and its sequelae. Over 60 reports, identified using keywords ‘syndrome X’/‘metabolic syndrome’ and vitamin D, updating evidence reviewed by the author in 19982 are now discussed. These include cross-sectional, prospective, supplementational and RCT studies, mostly examining population-based cohorts, subjects with early MetS abnormalities or T2DM.
+
+Evidence on associations of vitamin D status and Metabolic syndrome
+
+Over 40 studies show inverse correlations of vitamin D status <span>[serum 25(OH)D]</span> with metabolic syndrome risk or with the incidence or severity of its components. In 2004 inverse associations were reported for insulin secretion and insulin in normoglycemic subjects from several ethnic groups.24 This confirms earlier observations on raised fasting insulin.25 In 8,421 US men and non-pregnant women civilians over 20 y old (NHANES 111, 1988–94) showed the incidence of metabolic syndrome and its component abnormalities fell across increasing quartiles of serum 25(OH)D, after adjustment for other recognized risk factors.26 Inverse associations of 25(OH)D with MetS were found in 6,810 White British adults aged 45 y with similar increases in MetS risk with lower circulating IGF-1, but only in vitamin D sufficient subjects,27 for uncertain reasons.28 1705 adults in NHANES 20005–2006 showed 25(OH)D and PTH were associated with MetS risk (inversely and directly respectively); after adjustment for other risk factors 25(OH)D remained an inverse predictor of MetS, but not PTH.29 25(OH)D concentrations were inversely associated with metabolic syndrome risk in 1818 representative subjects in the Canadian Health Measures Survey,30 OR for MetS = 0.5, but 95%CI, 0.24–1.06, for those in the highest quartile of 25(OH)D vs. the rest. However, the number of MetS abnormalities found correlated inversely with 25(OH)D, (p = 0.1 ? 0.00001 for 0–4 components) while HOMA-insulin resistance score correlated inversely with 25(OH)D, (? = -0.08, p = 0.006) after adjustment for all other risk factors; each increase of 10 nmol/l in 25(OH) marked a 14% reduction in MetS risk <span>[p for trend after adjusting for all associated factors = 0.029 (Wald chi-square test)]</span>. European cohort data on 3369 men (mean age 60 ± 11 y) gave similar findings, independent of PTH, but were attenuated by adjustment for insulin resistance, suggesting this was the factor accounting for the association of vitamin D status with MetS.31 Inverse associations of MetS risk with 25(OH)D reported in the Netherlands (n = 1286 community-dwelling subjects aged 65–88 y [mean 25(OH)D = 53.5 nmol/l and 47.8% subjects < 50 nmol/L](mean%2025(OH)D%20=%2053.5%20nmol/l%20and%2047.8%%20subjects%20<%2050%20nmol/L), gave an adjusted OR for MetS for lowest vs. highest strata of 25(OH)D of 1.54 (95% CI 1.23–1.94).32
+
+In 542 younger Dutch subjects, mean age 49.8(±13.1 y, measures of MetS, its prevalence and of carotid artery wall thickness related directly to PTH/25(OH)D ratios, after adjustment, though CIMT was not associated with MetS.33 Serum apolipoprotein A1 related inversely to 25(OH)D, (p < 0.001) in Belgians,34 and in British south Asians.35 In Scandinavia, higher serum 25(OH)D was also associated with less abnormal lipid profiles cross-sectionally, and lower serum TAGs prospectively over 14 y.36 Review of data for lipid profiles and vitamin D status from 22 cross-sectional studies (each of > 500 subjects) and 10 placebo-controlled trials of supplementation (each of > 50 subjects) showed 25(OH)D related directly to HDL-C, and inversely with TAGs, but results from trials of supplementation were inconsistent (none was designed to study lipids or had sufficient power); though one RCT showed 16% reductions in TAGs there were concomitant LDL-C increases.37 In 18,198 Chinese women aged 50–70 y (% with 25(OH)D < 50 nmol/l and < 75 nmol/l were 69.2 and 24.4%, respectively), RR for MetS in lowest vs. highest 25(OH)D quintile was 1.52 (95%CI, 1.17–1.98; p for trend, 0.0002) after adjustment; 25(OH)D relating inversely to components of MetS including HbA1c and HOMA-IR in over-weight but not normal individuals.38 In 1330 Koreans aged > 40 y, low 25(OH)D marked increased MetS risk after adjustment for PTH and calcium cross-sectionally; it also predicted increased incident hypertension over the next 4 y.39 In sunny California, 25(OH)D values were < 20 ng/ml (50 nmol/l) in 30% of subjects with MetS and 8% of controls, p < 0.025) and correlated inversely with fasting glucose and HOMA-IR (r = 0–0.29 and -0.34 respectively, p < 0.04) after adjustment.40
+
+Low 25(OH)D is common in polycystic ovary disease (PCOS) and was associated with reduced insulin responses to glucose challenge in 47 young Australian women, independent of their BMI; in 206 Austrian women with PCOS, low 25(OH)D was associated with increased insulin resistance, independent of the similar effects of increased BMI.41,42 In Italian children poor vitamin D status was associated with MetS, its components and insulin resistance.43 Irish people aged 20–40 y showed inverse associations of vitamin D status with MetS abnormalities and other CVD risk factors, as in older people.44 Iranians with T2DM show similar associations.45 Obesity is increasingly common, even in children and adolescents and 25(OH)D is associated inversely with obesity.7 Thus findings independent of obesity are of especial significance, since MetS risk increases with increasing obesity.46 Better vitamin D status, however, is associated with lesser degrees of abnormality in lipid profiles, which can be independent of obesity.47
+
+Non-alcoholic fatty liver disease (NAFLD) is common in MetS and in obesity and is currently considered part of the MetS.21 Unsurprisingly, therefore, NAFLD patients have lower serum 25(OH)D concentrations as well as higher MetS risks’ Histological severity of NAFLD is closely associated with the reductions in 25(OH)D in patients, whether or not serum liver enzymes are raised.48-50 Vitamin D inhibits proliferation of hepatic stellate cells (the cells that promote liver fibrosis), reduces cyclin D1 expression (a hepatic fibrosis marker) and promotes VDR-dependent downregulation of collagen-Ialpha1 protein expression,51 all of which may reduce hepatic fibrosis. Many North American studies have shown inverse associations of 25(OH)D with insulin resistance, MetS risk, and severity of MetS component abnormalities, often including insulin resistance; examples include studies in cohorts of Caucasian, Arab, Black, Mexican, South Asian and other Americans subjects, from northern Canada to southern California, and across all ages from adolescence upward.52-61 In particular, T2DM prevalence increased with lower 25(OH)D and lower calcitriol, in the US Prostate, Lung, Colorectal and Ovarian Cancer Screening Trial in middle aged people (n = 2465); those in the highest quartiles (25(OH)D > 80 nmol/ or calcitriol > 103 pmol/l) having T2DM risk ratios of 0.5 (95% CI 0.3–0.9) and 0.5 (0.1–0.7) vs. those in the lowest quartiles [25(OH)D < 37 nmol/l; calcitriol < 72 pmol/l](25(OH)D%20<%2037%20nmol/l;%20calcitriol%20<%2072%20pmol/l) respectively.62
+
+Increasing quartiles of PTH, but not of 25(OH)D, were associated with increases in MetS prevalence in 1017 morbidly obese Norwegian women but, since PTH increases in vitamin D deficiency and obesity reduces serum 25(OH)D, these data are difficult to interpret.63 In Korea, MetS prevalence increased with increases in total serum calcium (± adjustment) as was found for PTH in a similar study in White Caucasians,64,65 a poorly understood finding. In 441 Asian Indians, 25(OH)D related directly to ? cell function and inversely with fasting glucose and insulin resistance; much as MetS prevalence in the larger MRC-ELY cohort related to baseline 25(OH), 10 y previously.66-68 In 53 Afro-American (AA) and 27 Caucasian-American (CA) adolescent girls with obesity, 25(OH)D related inversely to baseline fasting glycaemia but directly with LDL-C, independent of BMI or ethnicity; in addition, 25(OH)D related inversely to fasting insulin in CA but not AA subjects and directly to liver enzymes (ALT) in AA, but not CA subjects and supplementation reduced fasting glucose but did not affect other MetS variables.58
+
+Several studies do not show any associations of 25(OH)D with MetS variables. Raised PTH was associated with increased MetS risk in 410 men, ± adjustment for 25(OH)D, but not in 660 women in the Rancho-Bernado study of 44–96 y old Californians.69 In 298 severely obese people, mean age 42.6 ± 10.6y, with high prevalence’s of both MetS and vitamin D insufficiency there was less MetS risk and less severity in MetS abnormalities at higher 25(OH)OD <span>[RR for MetS in the highest vs. lowest quartile = 0.42 (95% CI, 0.19–0.96)]</span> but these findings were abolished by adjustment for other risk factors and PTH was not a predictor.70 In 446 subjects in a Pan-European study, [mean 25(OH)D = 57.1 ± 26.0 nmol/l](mean%2025(OH)D%20=%2057.1%20±%2026.0%20nmol/l), where 20% of subjects were replete, neither HOMA indices of insulin sensitivity or insulin resistance related to 25(OH)D.71 In > 500 mainly obese Canadian Cree Indians there was an inverse association of insulin resistance and a direct association of insulin secretory responses to glucose with 25(OH)D which persisted after adjustment for classic risk factors other than obesity, but not when additionally adjusted for obesity.72
+
+Prospective studies, including trials of supplementation
+
+Lower baseline 25(OH)D predicted increased 10-y MetS score, glycaemia and HOMA-IR (after adjustment for recognized risk factors including age, BMI, season and baseline values of all MetS components) in 524 subjects (40–69 y at baseline) in the MRC-Ely study.68 T2DM risk was reduced after 22 y in the Finnish Mobile Clinic Study data in 412 men (aged 40–74 y) free of diabetes at baseline, <span>[HR = 0.28 (95% CI, 0.1–0.81)]</span> for those in the highest vs. lowest quartiles of 25(OH)D, but not in women.73 These data were later re-analyzed, with additional Finnish data, totalling 8267 healthy adults at baseline with 226 incident cases of T2DM over 10 y follow up. Baseline overweight was the strongest predictor of T2DM and, together with reduced exercise, excessive alcohol intake, smoking and low serum 25(OH)D, accounted for 82% of the T2DM risk.74 Framingham offspring study data showed increased fasting glucose was predicted by lower baseline 25(OH)D after 7 y in 2571 people initially free of diabetes (mean age 54 y), after adjustment for other related facto; similarly, low 25(OH)D values predicted increased incident T2DM and cardiovascular events in a study of over 40,000 Americans.59,60 Five-year follow up from 1999–2000 of 6537 subjects showed those developing T2DM (n = 199) had lower baseline 25(OH)D than others (58 nmol/l vs. 65 nmol/l, p < 0.001); each 25nmol/l increase in 25(OH)D at baseline predicted a 24% reduction in 5y T2DM incidence <span>[RR = 0.76 (95% CI, 0.6300–0.92)]</span> after adjustment for all recognized risk factors including non-glycaemic MetS variables and T2DM family history.75 Predicted ‘scores’ for higher intakes of vitamin D in Framingham Offspring Study subjects were also associated with 40% reductions in T2DM risk after adjustment for age, build, family history of DM and baseline MetS risk markers in 1972 subjects <span>[HR 0.6 (95% CI, 0.37–0.97; p for trend = 0.03)]</span>.59 The Norwegian Tromsø study showed baseline 25(OH)D was inversely related to T2DM risk 11 y later in over 5000 adults free of T2DM at baseline, but its predictive role, already reduced by falling correlations of 25(OH)D at baseline with future 25(OH)D values (Jorde), was abolished by adjustment for obesity.76 25(OH)D at first attendance was not predictive for the 90 of 248 women who developed gestational diabetes mellitus (GDM), after adjustment for other risk factors, though other studies have suggested vitamin D deficiency increases GDM.77,78 Trials of vitamin D. Few trials have been designed primarily for reduction of MetS/T2DM risks. But T2DM risk has been examined as a secondary outcome in trials of vitamin D for secondary risk reduction of fragility fractures. In the RECORD trial 5292 participants with a previous fragility fracture (mean age 77 ± 6 y) randomized to 800 IU/day of cholecalciferol (± added calcium) showed ~33% reduction in T2DM risk after 2–51/4 years vs. controls; but power was inadequate, only 2.2%/ 3.3% of subjects taking/not taking vitamin D among the 2092 compliers developed T2DM after 2 y <span>[HR 0.68 (95% CI, 0.4–1.16)]</span>.79 The Women’s Health Initiative Calcium/Vitamin D Trial treated 33,951 women for 7 y with vitamin D 400 IU/day or placebo; 2291 cases of T2DM developed with no risk reduction on this low dosage (now recognized as insufficient for bone protection in women).80 Larger doses (100,000 IU twice, 2 weeks apart) did not change glucose or insulin in 35 vitamin D insufficient adults in Australia in those with or without glucose intolerance at baseline.81 Baseline 25(OH)D in the PROMISE study predicted better ? cell function and lower glycaemia at GTT and related inversely to insulin resistance at 3-y follow up in 489 subjects (50 ± 10 y and ‘at-risk’ of diabetes), after adjustment for relevant risk factors, baseline insulin resistance, changes in physical activity and use of vitamin D supplements, but additional adjustment for baseline and final BMI destroyed the association with HOMA-IR.82 59 obese Saudis examined before and after one year of vitamin D rich diet and encouragement to sunbathe (avoiding 11 a.m.–3 p.m.) showed reduction in MetS prevalence (13% from 25.2%), without weight loss, largely due to reductions in LDL-C, TAGs and hypertension, despite only increasing mean 25(OH)D from 18.75 to 33.25 nmol/l.83 Calcitriol treatment in a 12-week RCT in 70 people aged 30–75 y with T2DM prevented increases in fasting glucose and increased insulin secretion vs. controls but without improved control.84 Inflammatory markers of CVD risk were reduced by 1 y low-dose supplementation in a small but adequately powered RCT in ~50 South Asians at-risk of diabetes; CRP by 23% and plasma MMP9 by 67%.85 92 subjects at high risk of T2DM (mean age 57 y) in a RCT of 2000 IU vitamin D3/day showed improved ? cell function and reduced HbA1c increases vs. controls (supplemental calcium had no effects).86 28 Indians with moderately controlled T2DM showed no changes in glycaemia, insulin secretion or resistance after 4 weeks vitamin D.87 An RCT of supplementation of people with T2DM and vitamin D deficiency, using fortified yoghurt drinks providing500 IU of vitamin D3 per day, reduced circulating markers of inflammation including TNF-a, IL-6 and hsCRP but increased circulating anti-inflammatory factors such as IL-10 inflammatory marker and the significance of these improvements was not abolished by adjustment for changes in insulin resistance.88
+
+Mortality and CVD
+
+Though there is still no substantive RCT evidence for CVD reduction with vitamin D replacement in the general population there is interesting associative and prospective data. Lower serum 25(OH)D is associated with increased all-cause mortality in hypertension, especially CVD mortality <span>[HR up to 3.21 (95% CI, 1.14–8.99) across quartiles of increasing D status]</span> in 2001–2004 National Health and Nutrition Examination data with smaller but significant increases in mortality with lower vitamin D status in the general population.89 Furthermore reductions in circulating markers of inflammation seen after myocardial infarction, better vitamin D repletion was associated with improved survival.90 Reductions in mortality with supplementation has been shown <span>[OR for death 0.39 (95% CI, 0.277–0.534, p < 0.0001)]</span> in patients with cardiac disorders.91 In patients with cardiovascular disease those with heart failure (n = 3069) were more deficient than those without (n = 46,825), unsurprising in a group with limited activity, but deficiency was associated with increased mortality in this cohort within 2 y in both those with and those without heart failure <span>[HR = 1.58 (95% CI, 1.21–1.92, p < 0.001 and HR = 1.91 (95% CI, 1.48–2.46, p < 0.00001) respectively]</span>. Furthermore, supplementation in those with failure reduced subsequent mortality <span>[HR = 0.68 (95% CI, 0.54–0.85, p < 0.0001]</span>.92 However, evidence on whether supplementation of the general population, of healthy people, from adequate RCTS is still awaited.
+
+Serum Lower baseline 25(OH)D was associated with higher all-cause mortality over 7–11 y of follow up in 2410 smokers <span>[RR 1.32 (95% CI 1.07–1.62)]</span> but not in 4751 non-smokers.93 Meta-analysis of trial data to 2011 showed no reductions in CVD94 but further meta-analysis has shown reductions in mortality, prospectively, in > 62,000 people with 5562 deaths (in 14 cohorts) across increasing serum 25(OH)D concentrations; but, there was no decrease in mortality with increases > 87.5 nmol/l, even in those with the lowest baseline 25(OH)Ds. For highest vs. lowest 25(OH)D quartile, RR for mortality = 0.71 (95% CI, 0.5–0.91). In the parametric model, summary estimates of mortality (95% CI) showed dose effects with RR of 0.86 (0.82–0.91), 0.77 (0.70–0.84), 0.69 (0.60–0.78) for people with 25(OH)D increases of 12.5, 25 and 50 nmol/l respectively vs. those with 25(OH)D ~27.5 nmol/l.95 There is also evidence that giving vitamin D3, but not D2 or calcitriol, reduced overall mortality by 1 for every 161 people supplemented, mainly > 70 y old, over a median period of 2 y.96 Further meta-analyses (of data from 28 studies covering 99,745 subjects) showed 43% reductions in cardiometabolic disorders, including MetS and cardiovascular problems (OR = 0.57, 95% CI, 0.48–0.68), for any CVD disorder, in those with the highest 25(OH)D.97 Thus, the overall findings do suggest that better vitamin D repletion could be protective for MetS risk reduction.98 Vitamin D deficiency in ~70% of 10,899 American patients aged 58 ± 15 y followed prospectively for > 5 y, strongly predicted increased overall mortality <span>[OR 2.64 (95% CI, 1.901–3.662) for lowest vs. highest strata of 25(OH)D, while supplementation reduced mortality [OR 0.39 (0.277–0.534)]</span> and CVD deaths, after adjustment for other recognized risk factors.99 High risks of cardiovascular disease in renal failure are reduced by treating vitamin D insufficiency in studies giving activated vitamin D, or its analogs, as compensation for lost renal activation. However, most tissues activate vitamin D locally and unduly large doses of calcitriol or active analogs increase CVD risks in renal failure. Intact cholecalciferol may, therefore, prove safer and equally effective for mortality reduction. Results of RCTs testing this possibility are currently awaited.100 Circulating inflammatory markers can sometimes fall with supplementation in severe deficiency,85,101,102 supporting the possibility that adequate repletion may prove to be protective for CVD, though this is not a consistent finding and results of ongoing RCTs are needed to establish whether there is any causality or whether the reported associations are confounded. If the reported inverse associations of reduced mortality with higher status can be reproduced by increased intakes of vitamin D from fortified food or supplements, a halving of mortality could be expected from a doubling of 25(OH)vitamin D concentrations,103 demonstrating the urgent need for adequate RCT data testing whether this potential benefit of supplementation can be achieved.
+
+T2DM
+
+Evidence for low vitamin D status as a risk factor for T2DM has accumulated steadily since calcium was first shown to be necessary for islet insulin secretion and release.21,104 There is also mechanistic evidence for several beneficial effects of vitamin D on insulin secretion, insulin resistance and ? cell health.12,21 However, no substantive randomized controlled trials that adequately test causality have yet reported to the author’s knowledge <span>[Feb 2012]</span>. Review of vitamin D supplementation RCTs suggests reduced progression to T2DM in those at high-risk of T2DM, though there were few adequate studies and many potential confounders could not be assessed.105 Prospectively, higher 25(OH)D predicted lower T2DM risks in a nested case-control study, <span>[608 women who developed incident T2DM vs. 559 negative matched controls]</span> in the Nurse’s Health Study; RR for T2DM or those in the highest vs. lowest quartiles of 25(OH)D was 0.52 (95% CI, 0.33–0.83),106 a finding consistent across all age, baseline BMI and calcium-intake strata. 300,000 IU of D3 by single intramuscular injection after delivery in a RCT in 45 women, did reduce insulin resistance compared with controls and low serum 25(OH)D has predicted gestational diabetes risks in some studies but not all.107
+
+Calcium and metabolic syndrome
+
+Increased serum calcium predicts increased CVD mortality prospectively; high-dose calcium supplementation is suspected to increase CVD risks, but not high dietary intakes.108 High-dose calcium may also increase MetS risk since, as discussed above, IGT was more common among > 1000 White people aged 40–65 y in those in the highest vs. lowest quintiles of total serum calcium <span>[adjusted for age, obesity, season, PTH and 25(OH)D; HR = 1.63 (95% CI, 1.42–1.88)]</span>.65 Similarly, the Finnish FIN-D2D study found increasing prevalence of MetS and its components in 4500 middle-aged people, with or without adjustment for other risk factors including serum 25(OH)D.64
+
+Supplementation
+
+Vitamin D replacement in severe deficiency improves insulin secretion experimentally and in some, but not all, humans studies.21,109 In 109 Chinese patients over 50 y old with T2DM there were no such associations and no changes in MetS variables after vitamin D3 at 2000 IU/day for 3 mo.110 Double-blind, randomized, placebo-controlled supplementation with vitamin D in centrally obese male Indians without T2DM increased post-prandial insulin sensitivity <span>[with or without adjustment for age and baseline 25(OH)D (p = 0.01)]</span> without changes in classic MetS variables.111 In South Asian women in New Zealand with increased insulin resistance and serum 25(OH)D < 50 nmol/l, supplementation with 4000 IU daily for 6 mo improved insulin sensitivity (without changing C-peptide responses), most marked in those achieving 25(OH)D ? 80 nmol/l.112 Sub-therapeutic doses of vitamin D did not alter MetS variables or glycaemia in T2DM over 4/12,113 but, in 92 high risk adults, mean age 57 y, vitamin D3, 2000 IU/day, increased insulin secretion and insulin efficacy and led to smaller increases in HbA1c than in controls while added calcium had no effect.86
+
+Genetic factors
+
+Possible variation in insulin secretion <span>[in response to glucose]</span> with VDR genotype is reported in some small early studies;14 variations in expression and formation of VDR protein with VDR polymorphisms were found in PBMCs from 41 healthy South Asians while VDR expression was an independent predictor of insulin secretory capacity. Both insulin resistance, and vitamin D-induced reductions in insulin resistance with supplementation, varied with VDR polymorphism in 239 healthy, but insulin resistant, South Asian women in New Zealand.114 VDR polymorphism was also associated with variation in insulin resistance and glucose tolerance in non-diabetic Caucasians in the larger Rancho-Barnardo study.115 MetS variables (BMI, waist size, fasting glucose and HDL-C) varied with VDR polymorphism in Polish men while in 351 healthy older Polish women only HDL-C (and not obesity or glycaemia) varied with VDR polymorphism.116,117
+
+Relevant mechanisms of action of vitamin D
+
+Vitamin D promotes normal insulin secretory responses to glucose by promoting rapid non-genomic transfer of calcium into cells; essential for 2 of the 4 ?-cell endopeptidases that release insulin from proinsulin, and increasing ? cell insulin sensitivity.118 Calcitriol also downregulates renal renin synthesis.119 Insulin resistance increases with increased renin-angiotensin system activation and is reduced by its suppression.120 Calcitriol prevents, and can correct, the increased islet RAS activity seen in hyperglycaemia, experimentally, providing islet protection.121 South Asians in Western countries have 4-fold increases in age-adjusted prevalence of MetS and T2DM compared with Caucasians and a higher prevalence’s of vitamin D deficiency and insufficiency, commonly attributed to increased skin pigmentation and life-style differences. South Asians also need higher supplements than White Caucasians to achieve comparable 25(OH)D concentrations, perhaps because of reduced compliance.122 However, South Asians do have unexplained increases of the enzyme catabolising calcitriol, a 24(OH)hydroxylase, in skin fibroblasts.123 Many South Asians chew betel-nuts (from the Areca catechu palm), often wrapped in piper-betle vine leaves (as ‘quids’ or ‘paan’). This 4th most commonly used addictive habit affects 10% of the world’s population (between 6–7 million people), goes back 2000–5000 y and travels with migrants.124 This habit may contribute to the problem, as follows: arecal alkaloids form carcinogenic nitrosamines in the gut and many nitrosamines are diabetogenic. Betel-feeding for 5 d in young CD1 mice induces obesity and hyperglycaemia in some fed animals and in many non-betel-fed offspring of betel-fed but normoglycemic males.125 Increased glycemia and waist size is also found in female betel-chewers in the UK: in Taiwan, chewing betel (without tobacco) began after World War 2, almost exclusively in men, and dose-duration of chewing relates dose-wise to increases in glycemia, MetS and T2DM and in transmission of MetS risk by chewing fathers to their non-chewing offspring, even by those without MetS or T2DM,126-128 Thus, our finding of increased PBMC expression of the calcitriol-catabolic 24(OH)ase with increased betel–quid usage in South Asians may be relevant, especially as there were concomitant reductions in circulating calcitriol.129 These effects have the potential to increase vitamin D requirements in betel-chewers. Higher circulating 24,25(OH)D/25(OH)D ratios predicted reduced rises in 25(OH)D with supplementation in healthy young Canadians taking 28,000 IU D3 weekly (whether supplemental or in cheese) over 8 weeks, suggesting 24(OH)ase activity affects overall as well as local vitamin D availability.130
+
+Inflammation and T2DM risk
+
+Inflammation appears to increase insulin resistance and increase T2DM risks. Inflammatory cytokines, e.g., from adipose tissue, act remotely and can induce ?-cell damage. Vitamin D modulates inflammation by reducing inflammatory cytokine secretion (e.g., IL-6), increasing anti-inflammatory cytokine secretion (e.g., IL-10) and enhancing T-regulatory cell formation; it also reduces cytokine-induced ?-cell apoptosis. Furthermore, several variants of inflammatory cytokine genes are associated with variation in risk markers for MetS risk (e.g., fasting insulin, HDL-C and CRP). Vitamin D can reduce inflammatory disease severity.131-138 Variable findings are reported for associations of 25(OH)D with inflammatory and anti-inflammatory markers and supplementation in insufficiency or deficiency has corrected inflammatory marker abnormalities in some cohorts but not others.139 Overall, the data suggest that ethnicity, baseline 25(OH)D, dose size, and how doses are given can all affect outcomes of supplementation for inflammatory disorders.139 Such factors need to be standardized, or adjusted for, in future RCTs of vitamin D in inflammatory disorders, as for all other conditions, including MetS, along with other possible confounders and genetic variants of relevance discussed above.
+
+Discussion
+
+Vitamin D is unusual as is a ‘vitamin’ only because humanity lacks adequate summer sunlight exposure. This ‘legendary multi-tasker’ has established effects on many biological processes;140 with mechanistic evidence relevant to disorders in all systems of the body.16,141 Nutritional rickets was eradicated in my homeland (UK) in my lifetime but has reappeared. Vitamin D deficiency is present in significant proportions of peoples across the globe.11,142,143 In the USA, 75% of White and > 90% of other ethnic groups are vitamin D insufficient, a doubling of prevalence in the last 10 y, with adverse effects suggested for MetS, T2DM, CVD risks and for all other systems.1 Vitamin D intakes in the UK remain inadequate at all ages, well below the 2010 recommendations of 400–800 IU/day from the North American Institute of Medicine,144 and far short of the 1000–2000 IU/day suggested as necessary for adults by most vitamin D workers.145-147
+
+Despite increasing evidence of the importance of adequate vitamin D repletion for health, and mechanistic evidence on vitamin Ds roles, weaknesses of RCT data for MetS, T2DM and CVD may make it impossible to get definitive answers on causation, even in current trials. Problems affecting requirements include: variation in requirements with ethnicity, obesity and age, baseline 25(OH)D, dose size and dose-interval, how doses are given, variations in serum 25(OH)D responses to oral intakes, genetic variation in the VitD axis, its signaling pathways, interactions and vitamin A intakes. Addictive habits can also affect findings, both smoking (which reduces PTH;148,149 alcohol and caffeine intakes and betel-chewing (likely reducing calcitriol formation), while MetS risks from recreational drugs are unknown. Interaction with the IGF-1 axis, itself associated strongly with MetS variables and vitamin D probably affects MetS risk.150 Omega-3 poly-unsaturated fatty acids from fish may be protective for CVD but its effects may be confounded by contained vitamin D and those of vitamin D by fish-oil intakes.151 Reductions in T2DM and CVD risk with higher intakes of vitamin D may be confounded by all the factors discussed above. Furthermore, older people need larger doses than younger people and initiation of vitamin D repletion at an early age may be more effective than once MetS has begun to develop. Clearly, all of these factors should be examined in future studies on vitamin D and health, including RCTs, to reduce confounding.
+
+Weaknesses of prospective studies include using baseline 25(OH)D measurements for assessing risk 3 to 11 y later (in one case, 22 y later). However, baseline 25(OH)D in a study of 2668 adults in Scandinavia predicted almost 50% of 25(OH)D measured after 1 y and 20–25% after 14 y later (after adjustment for season). Thus, in the majority of prospective studies, baseline assessments only reflect overall status to a degree.36 The reductions in predictive capacity of baseline serum 25(OH)D for later vitamin D status over the years <span>[Jorde]</span> must confound such analyses and, since such confounding reduces the predictive role of baseline vitamin D status, the associations demonstrated may well be greater than the reported calculations suggest.152
+
+Poor 25(OH)D assay standardisation has been a problem but improving uptake of the vitamin D external quality assessment scheme (DEQAS; European Vitamin D external quality assessment scheme; www.deqas.com) has reduced inconsistencies between different methods and laboratories Increasing use of newer methods, e.g., liquid chromatography/tandem mass spectrometry, may improve consistency once inherent technical challenges are overcome, and may allow micro-assays to be used for population-based studies or audits <span>[on dried blood spots or saliva]</span> and in RCTs.153 Genetic variation in vitamin D responsiveness may be detectable from biochemical and metabolomic profiling to supplement GWAS data or when genetic profiling is not feasible.154
+
+Despite useful efforts to determine dosages needed to optimise vitamin D status in individuals, we do not yet know how to allow for ethnicity, genetic variation and baseline status,155,156 and whether this would really reduce MetS risks. Enough is known to mandate avoidance of severe deficiency for bone health144 which may itself reduce MetS risks. Intakes of ~600–1400 IU/day for example can achieve 25(OH)D concentrations of 55–75 nmol/l (Fig. 1).115,119 If causality for vitamin D and MetS and its sequelae is disproved, such intakes would be protective for musculo-skeletal health and benefit pregnant women and their children, since better repletion in pregnancy leads to better bone health in children up to age 9y.157,158 Most importantly, such modest intakes should do no harm, intakes up to 4000 IU/day on a regular basis being regarded as safe following IOM data review.144 A serum 25(OH)D of 50–75nmol/l is a reasonable target for abolishing nutritional rickets and modestly protecting adult bone health and could be achieved by IOM recommended intakes, <span>[without the need for screening blood tests]</span>, or by food fortification as recently introduced in Finland, this last being especially cost-effective, since everyone would benefit and costs would pass to consumers.144 Intakes of 600 IU/ are estimated to achieve mean serum 25(OH)Ds of 54–55 nmol/l, IOM target levels known to reduce overt bone disease risks. For values of ? 50nmol/l, at the population level, intakes of ~930 IU/day are needed, supporting the need for intakes higher than the recent IOM recommendations.146,159,160 To achieve 25(OH)Ds of 75–85 nmol/ where notable reductions in insulin resistance have been achieved and at which other beneficial effects are seen,27,112,129,144,149,161-164 needs intakes of 1000–2000 IU/day, doses already suggested to be necessary for adults by many vitamin D workers and medical advisory bodies.4,146,162,
+
+{IMG(attId="1403")}{IMG}
+
+Figure 1.
+
+“Response of serum 25-hydroxyvitamin D (25(OH)D) level to total intake of vitamin D in northern latitudes in Europe (.49·58N) and Antarctica (788S) during their respective winter seasons, when effective sun exposure for endogenous vitamin D synthesis is minimal. Mean responses (white lines) with 95% CI using a weighted linear meta-regression model following either a natural logarithmic transformation (dark gray shading, curvilinear model) or no transformation (pale gray shading, linear model) of total vitamin D intake data. The maximum total intake data point in the linear model was 1400 IU/d (35 mg/d). A line is plotted at 50 nmol/l serum 25(OH)D for illustrative purposes” (from reference 155 with permission).
+
+Future prospects for reduction in metabolic syndrome risks by vitamin D repletion. Improved supplies of vitamin D should be ensured now by simple food fortification or by the use of modest supplements as recommended by the IOM for musculo-skeletal health. It is also urgent that vitamin D’s potential for reducing non-bony disorders is tested in adequate RCTs. Furthermore, such RCTs should test vitamin D for a wide range of health outcomes in healthy people, including MetS and its many sequelae. They should also include all known confounding factors, in order to determine whether higher intakes than those now recommended for bone protection would be beneficial at the population level and, if so, at what dosages. If causality is confirmed in RCTs, public health measures could be introduced to achieve optimal vitamin D status for all by the provision of adequate intakes of vitamin D3.
+
+References
+
+1. Ginde AA, Liu MC, Camargo CA. Demographic differences and trends of vitamin D insufficiency in the US population, 1988-2004. Arch Intern Med 2009; 169:626-32; PMID: 19307527; DOI: 10.1001/archinternmed.2008.604.
+
+2. Boucher BJ. Inadequate vitamin D status: does it contribute to the disorders comprising syndrome ‘X’?. Br J Nutr 1998; 79:315-27; PMID: 9624222; DOI: 10.1079/BJN19980055.
+
+3. Chowdhury TA, Boucher BJ, Hitman GA. Vitamin D and type 2 diabetes: Is there a link?. Prim Care Diabetes 2009; 3:115-6; PMID: 19395331; DOI: 10.1016/j.pcd.2009.03.004.
+
+4. DeLuca HF. Historical overview of vitamin D. In Vitamin D.3rd ed. Ed Feldman D, Wesley Pike J, Adams JS. 2011 Vol 1; Chap 1, pp3-12. Academic Press, Elsevier. London etc.
+
+5. Adams JS, Chen H, Chun R, Ren S, Wu S, Gacad M, et al. Substrate and enzyme trafficking as a means of regulating 1,25-dihydroxyvitamin D synthesis and action: the human innate immune response. J Bone Miner Res 2007; 22:V20-4; PMID: 18290716; DOI: 10.1359/jbmr.07s214.
+
+6. Jablonski NG, Chaplin G. Colloquium paper: human skin pigmentation as an adaptation to UV radiation. Proc Natl Acad Sci U S A 2010; 107:8962-8; PMID: 20445093; DOI: 10.1073/pnas.0914628107.
+
+7. Wortsman J, Matsuoka LY, Chen TC, Lu Z, Holick MF. Decreased bioavailability of vitamin D in obesity. Am J Clin Nutr 2000; 72:690-3; PMID: 10966885.
+
+8. Drincic AT, Armas LA, Van Diest EE, Heaney RP. Volumetric dilution, rather than sequestration best explains the low vitamin D status of obesity. Obesity (Silver Spring) 2012; ; PMID: 22262154; DOI: 10.1038/oby.2011.404.
+
+9. DiGiorgi M, Daud A, Inabnet WB, Schrope B, Urban-Skuro M, Restuccia N, et al. Markers of bone and calcium metabolism following gastric bypass and laparoscopic adjustable gastric banding. Obes Surg 2008; 18:1144-8; PMID: 18335295; DOI: 10.1007/s11695-007-9408-4.
+
+10. Soares MJ, Ping-Delfos WC, Sherriff JL, Nezhad DH, Cummings NK, Zhao Y. Vitamin D and parathyroid hormone in insulin resistance of abdominal obesity: cause or effect?. Eur J Clin Nutr 2011; 65:1348-52; PMID: 21712836; DOI: 10.1038/ejcn.2011.111.
+
+11. Prentice A. Vitamin D deficiency: a global perspective. Nutr Rev 2008; 66:S153-64; PMID: 18844843; DOI: 10.1111/j.1753-4887.2008.00100.x.
+
+12. Heaney RP, Recker RR, Grote J, Horst RL, Armas LA. Vitamin D(3) is more potent than vitamin D(2) in humans. J Clin Endocrinol Metab 2011; 96:E447-52; PMID: 21177785; DOI: 10.1210/jc.2010-2230.
+
+13. Berry D, Hyppönen E. Determinants of vitamin D status: focus on genetic variations. Curr Opin Nephrol Hypertens 2011; 20:331-6; PMID: 21654390; DOI: 10.1097/MNH.0b013e328346d6ba.
+
+14. Ogunkolade BW, Boucher BJ, Prahl JM, Bustin SA, Burrin JM, Noonan K, et al. Vitamin D receptor (VDR) mRNA and VDR protein levels in relation to vitamin D status, insulin secretory capacity, and VDR genotype in Bangladeshi Asians. Diabetes 2002; 51:2294-300; PMID: 12086963; DOI: 10.2337/diabetes.51.7.2294.
+
+15. Ramagopalan SV, Heger A, Berlanga AJ, Maugeri NJ, Lincoln MR, Burrell A, et al. A ChIP-seq defined genome-wide map of vitamin D receptor binding: associations with disease and evolution. Genome Res 2010; 20:1352-60; PMID: 20736230; DOI: 10.1101/gr.107920.110.
+
+16. Holick MF. Vitamin D deficiency. N Engl J Med 2007; 357:266-81; PMID: 17634462; DOI: 10.1056/NEJMra070553.
+
+17. Chambers JC, Zhang W, Sehmi J, Li X, Wass MN, Van der Harst P, et al. Genome-wide association study identifies loci influencing concentrations of liver enzymes in plasma. Nat Genet 2011; 43:1131-8; PMID: 22001757; DOI: 10.1038/ng.970.
+
+18. Kujala UM, Jokelainen J, Oksa H, Saaristo T, Rautio N, Moilanen L, et al. Increase in physical activity and cardiometabolic risk profile change during lifestyle intervention in primary healthcare: 1-year follow-up study among individuals at high risk for type 2 diabetes. BMJ Open 2011; 1:e000292; PMID: 22184585; DOI: 10.1136/bmjopen-2011-000292.
+
+19. Athyros VG, Tziomalos K, Karagiannis A, Mikhailidis DP. Preventing type 2 diabetes mellitus: room for residual risk reduction after lifestyle changes?. Curr Pharm Des 2010; 16:3939-847; PMID: 21128892.
+
+20. Towers TL, Freedman LP. Granulocyte-macrophage colony-stimulating factor gene transcription is directly repressed by the vitamin D3 receptor. Implications for allosteric influences on nuclear receptor structure and function by a DNA element. J Biol Chem 1998; 273:10338-48; PMID: 9553089; DOI: 10.1074/jbc.273.17.10338.
+
+21. Boucher BJ. Vitamin D insufficiency and diabetes risks. Curr Drug Targets 2011; 12:61-87; PMID: 20795936; DOI: 10.2174/138945011793591653.
+
+22. Schrijver J, van den Berg H. <span>[Nutrition and health--vitamins and vitamin supplements]</span>. Ned Tijdschr Geneeskd 2003; 147:752-6; PMID: 12731465.
+
+23. Butte NF, Fox MK, Briefel RR, Siega-Riz AM, Dwyer JT, Deming DM, et al. Nutrient intakes of US infants, toddlers, and preschoolers meet or exceed dietary reference intakes. J Am Diet Assoc 2010; 110:S27-37; PMID: 21092766; DOI: 10.1016/j.jada.2010.09.004.
+
+24. Chiu KC, Chu A, Go VL, Saad MF. Hypovitaminosis D is associated with insulin resistance and beta cell dysfunction. Am J Clin Nutr 2004; 79:820-5; PMID: 15113720.
+
+25. Baynes KC, Boucher BJ, Feskens EJ, Kromhout D. Vitamin D, glucose tolerance and insulinaemia in elderly men. Diabetologia 1997; 40:344-7; PMID: 9084975; DOI: 10.1007/s001250050685.
+
+26. Ford ES, Ajani UA, McGuire LC, Liu S. Concentrations of serum vitamin D and the metabolic syndrome among U.S. adults. Diabetes Care 2005; 28:1228-30; PMID: 15855599; DOI: 10.2337/diacare.28.5.1228.
+
+27. Hyppönen E, Boucher BJ, Berry DJ, Power C. 25-hydroxyvitamin D, IGF-1, and metabolic syndrome at 45 years of age: a cross-sectional study in the 1958 British Birth Cohort. Diabetes 2008; 57:298-305; PMID: 18003755; DOI: 10.2337/db07-1122.
+
+28. Boucher BJ. Inverse correlation between serum free IGF-1 and IGFBP-3 levels and blood pressure in patients affected with type 1 diabetes by Capoluongo et al. Cytokine 2007; 37:181-2.
+
+29. Ford ES, Zhao G, Li C, Pearson WS. Serum concentrations of vitamin D and parathyroid hormone and prevalent metabolic syndrome among adults in the United States. J Diabetes 2009; 1:296-303; PMID: 20923530; DOI: 10.1111/j.1753-0407.2009.00046.x.
+
+30. Brenner DR, Arora P, Garcia-Bailo B, Wolever TMS, Morrison H, El-Sohemy A, et al. Plasma vitamin D levels and risk of metabolic syndrome in Canadians. Clin Invest Med 2011; 34:E377-84; PMID: 22129928.
+
+31. Lee DM, Rutter MK, O’Neill TW, Boonen S, Vanderschueren D, Bouillon R, et al. Vitamin D, parathyroid hormone and the metabolic syndrome in middle-aged and older European men. Eur J Endocrinol 2009; 161:947-54; PMID: 19773367; DOI: 10.1530/EJE-09-0496.
+
+32. Oosterwerff MM, Eekhoff EM, Heymans MW, Lips P, van Schoor NM. Serum 25-hydroxyvitamin D levels and the metabolic syndrome in older persons: a population-based study. Clin Endocrinol (Oxf) 2011; 75:608-13; PMID: 21595731; DOI: 10.1111/j.1365-2265.2011.04110.x.
+
+33. Richart T, Thijs L, Nawrot T, Yu JM, Kuznetsova T, Balkestein EJ, et al. The metabolic syndrome and carotid intima-media thickness in relation to the parathyroid hormone to 25-OH-D(3) ratio in a general population. Am J Hypertens 2011; 24:102-9; PMID: 20596035; DOI: 10.1038/ajh.2010.124.
+
+34. Auwerx J, Bouillon R, Kesteloot H. Relation between 25-hydroxyvitamin D3, apolipoprotein A-I, and high density lipoprotein cholesterol. Arterioscler Thromb 1992; 12:671-4; PMID: 1350464; DOI: 10.1161/01.ATV.12.6.671.
+
+35. John WG, Noonan K, Mannan N, Boucher BJ. Hypovitaminosis D is associated with reductions in serum apolipoprotein A-I but not with fasting lipids in British Bangladeshis. Am J Clin Nutr 2005; 82:517-22; PMID: 16155262.
+
+36. Jorde R, Sneve M, Hutchinson M, Emaus N, Figenschau Y, Grimnes G. Tracking of serum 25-hydroxyvitamin D levels during 14 years in a population-based study and during 12 months in an intervention study. Am J Epidemiol 2010; 171:903-8; PMID: 20219763; DOI: 10.1093/aje/kwq005.
+
+37. Jorde R, Figenschau Y, Hutchinson M, Emaus N, Grimnes G. High serum 25-hydroxyvitamin D concentrations are associated with a favorable serum lipid profile. Eur J Clin Nutr 2010; 64:1457-64; PMID: 20823896; DOI: 10.1038/ejcn.2010.176.
+
+38. Lu L, Yu Z, Pan A, Hu FB, Franco OH, Li H, et al. Plasma 25-hydroxyvitamin D concentration and metabolic syndrome among middle-aged and elderly Chinese individuals. Diabetes Care 2009; 32:1278-83; PMID: 19366976; DOI: 10.2337/dc09-0209.
+
+39. Kim MK, Il Kang M, Won Oh K, Kwon HS, Lee JH, Lee WC, et al. The association of serum vitamin D level with presence of metabolic syndrome and hypertension in middle-aged Korean subjects. Clin Endocrinol (Oxf) 2010; 73:330-8; PMID: 20184597; DOI: 10.1111/j.1365-2265.2010.03798.x.
+
+40. Devaraj S, Jialal G, Cook T, Siegel D, Jialal I. Low vitamin D levels in Northern American adults with the metabolic syndrome. Horm Metab Res 2011; 43:72-4; PMID: 21110290; DOI: 10.1055/s-0030-1268485.
+
+41. Li HW, Brereton RE, Anderson RA, Wallace AM, Ho CK. Vitamin D deficiency is common and associated with metabolic risk factors in patients with polycystic ovary syndrome. Metabolism 2011; 60:1475-81; PMID: 21550088; DOI: 10.1016/j.metabol.2011.03.002.
+
+42. Ngo DT, Chan WP, Rajendran S, Heresztyn T, Amarasekera A, Sverdlov AL, et al. Determinants of insulin responsiveness in young women: Impact of polycystic ovarian syndrome, nitric oxide, and vitamin D. Nitric Oxide 2011; 25:326-30; PMID: 21741493; DOI: 10.1016/j.niox.2011.06.005.
+
+43. Pacifico L, Anania C, Osborn JF, Ferraro F, Bonci E, Olivero E, et al. Low 25(OH)D3 levels are associated with total adiposity, metabolic syndrome, and hypertension in Caucasian children and adolescents. Eur J Endocrinol 2011; 165:603-11; PMID: 21753070; DOI: 10.1530/EJE-11-0545.
+
+44. Muldowney S, Lucey AJ, Paschos G, Martinez JA, Bandarra N, Thorsdottir I, et al. Relationships between vitamin D status and cardio-metabolic risk factors in young European adults. Ann Nutr Metab 2011; 58:85-93; PMID: 21474925; DOI: 10.1159/000324600.
+
+45. Bonakdaran S, Varasteh AR. Correlation between serum 25 hydroxy vitamin D3 and laboratory risk markers of cardiovascular diseases in type 2 diabetic patients. Saudi Med J 2009; 30:509-14; PMID: 19370277.
+
+46. McGill AT, Stewart JM, Lithander FE, Strik CM, Poppitt SD. Relationships of low serum vitamin D3 with anthropometry and markers of the metabolic syndrome and diabetes in overweight and obesity. Nutr J 2008; 7:4; PMID: 18226257; DOI: 10.1186/1475-2891-7-4.
+
+47. Botella-Carretero JI, Alvarez-Blasco F, Villafruela JJ, Balsa JA, Vázquez C, Escobar-Morreale HF. Vitamin D deficiency is associated with the metabolic syndrome in morbid obesity. Clin Nutr 2007; 26:573-80; PMID: 17624643; DOI: 10.1016/j.clnu.2007.05.009.
+
+48. Barchetta I, Angelico F, Del Ben M, Baroni MG, Pozzilli P, Morini S, et al. Strong association between non alcoholic fatty liver disease (NAFLD) and low 25(OH) vitamin D levels in an adult population with normal serum liver enzymes. BMC Med 2011; 9:85; PMID: 21749681; DOI: 10.1186/1741-7015-9-85.
+
+49. Targher G, Bertolini L, Scala L, Cigolini M, Zenari L, Falezza G, et al. Associations between serum 25-hydroxyvitamin D3 concentrations and liver histology in patients with non-alcoholic fatty liver disease. Nutr Metab Cardiovasc Dis 2007; 17:517-24; PMID: 16928437; DOI: 10.1016/j.numecd.2006.04.002.
+
+50. Zúñiga S, Firrincieli D, Housset C, Chignard N. Vitamin D and the vitamin D receptor in liver pathophysiology. Clin Res Hepatol Gastroenterol 2011; 35:295-302; PMID: 21440524; DOI: 10.1016/j.clinre.2011.02.003.
+
+51. Abramovitch S, Dahan-Bachar L, Sharvit E, Weisman Y, Ben Tov A, Brazowski E, et al. Vitamin D inhibits proliferation and profibrotic marker expression in hepatic stellate cells and decreases thioacetamide-induced liver fibrosis in rats. Gut 2011; 60:1728-37; PMID: 21816960; DOI: 10.1136/gut.2010.234666.
+
+52. Ganji V, Zhang X, Shaikh N, Tangpricha V. Serum 25-hydroxyvitamin D concentrations are associated with prevalence of metabolic syndrome and various cardiometabolic risk factors in US children and adolescents based on assay-adjusted serum 25-hydroxyvitamin D data from NHANES 2001-2006. Am J Clin Nutr 2011; 94:225-33; PMID: 21613551; DOI: 10.3945/ajcn.111.013516.
+
+53. Pinelli NR, Jaber LA, Brown MB, Herman WH. Serum 25-hydroxy vitamin d and insulin resistance, metabolic syndrome, and glucose intolerance among Arab Americans. Diabetes Care 2010; 33:1373-5; PMID: 20332348; DOI: 10.2337/dc09-2199.
+
+54. Maki KC, Rubin MR, Wong LG, McManus JF, Jensen CD, Marshall JW, et al. Serum 25-hydroxyvitamin D is independently associated with high-density lipoprotein cholesterol and the metabolic syndrome in men and women. J Clin Lipidol 2009; 3:289-96; PMID: 21291826; DOI: 10.1016/j.jacl.2009.07.003.
+
+55. Kayaniyil S, Vieth R, Harris SB, Retnakaran R, Knight JA, Gerstein HC, et al. Association of 25(OH)D and PTH with metabolic syndrome and its traditional and nontraditional components. J Clin Endocrinol Metab 2011; 96:168-75; PMID: 20980431; DOI: 10.1210/jc.2010-1439.
+
+56. Chacko SA, Song Y, Manson JE, Van Horn L, Eaton C, Martin LW, et al. Serum 25-hydroxyvitamin D concentrations in relation to cardiometabolic risk factors and metabolic syndrome in postmenopausal women. Am J Clin Nutr 2011; 94:209-17; PMID: 21613558; DOI: 10.3945/ajcn.110.010272.
+
+57. Reis JP, von Mühlen D, Miller ER, Michos ED, Appel LJ. Vitamin D status and cardiometabolic risk factors in the United States adolescent population. Pediatrics 2009; 124:e371-9; PMID: 19661053; DOI: 10.1542/peds.2009-0213.
+
+58. Ashraf AP, Alvarez JA, Gower BA, Saenz KH, McCormick KL. Associations of serum 25-hyrdoxyvitamin D and components of the metabolic syndrome in obese adolescent females. Obesity (Silver Spring) 2011,
+
+59. Liu E, Meigs JB, Pittas AG, Economos CD, McKeown NM, Booth SL, et al. Predicted 25-hydroxyvitamin D score and incident type 2 diabetes in the Framingham Offspring Study. Am J Clin Nutr 2010; 91:1627-33; PMID: 20392893; DOI: 10.3945/ajcn.2009.28441.
+
+60. Anderson JL, May HT, Horne BD, Bair TL, Hall NL, Carlquist JF, et al. Relation of vitamin D deficiency to cardiovascular risk factors, disease status, and incident events in a general healthcare population. Am J Cardiol 2010; 106:963-8; PMID: 20854958; DOI: 10.1016/j.amjcard.2010.05.027.
+
+61. Liu E, Meigs JB, Pittas AG, McKeown NM, Economos CD, Booth SL, et al. Plasma 25-hydroxyvitamin d is associated with markers of the insulin resistant phenotype in nondiabetic adults. J Nutr 2009; 139:329-34; PMID: 19106328; DOI: 10.3945/jn.108.093831.
+
+62. Brock KE, Huang WY, Fraser DR, Ke L, Tseng M, Mason RS, et al. Diabetes prevalence is associated with serum 25-hydroxyvitamin D and 1,25-dihyrdorxyvitamin D in US middle-aged Caucasian men and women: a cross-sectional analysis within the Prostate, Lung. Colorectal and Ovarian Cancer Screening Trial 2011; 106:339-44.
+
+63. Hjelmesaeth J, Hofsø D, Aasheim ET, Jenssen T, Moan J, Hager H, et al. Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study. Cardiovasc Diabetol 2009; 8:7; PMID: 19187564; DOI: 10.1186/1475-2840-8-7.
+
+64. Saltevo J, Niskanen L, Kautiainen H, Teittinen J, Oksa H, Korpi-Hyövälti E, et al. Serum calcium level is associated with metabolic syndrome in the general population: FIN-D2D study. Eur J Endocrinol 2011; 165:429-34; PMID: 21659455; DOI: 10.1530/EJE-11-0066.
+
+65. Wareham NJ, Byrne CD, Carr C, Day NE, Boucher BJ, Hales CN. Glucose intolerance is associated with altered calcium homeostasis: a possible link between increased serum calcium concentration and cardiovascular disease mortality. Metabolism 1997; 46:1171-7; PMID: 9322802; DOI: 10.1016/S0026-0495(97)90212-2.
+
+66. Kim MK, Kim G, Jang EH, Kwon HS, Baek KH, Oh KW, et al. Altered calcium homeostasis is correlated with the presence of metabolic syndrome and diabetes in middle-aged and elderly Korean subjects: the Chungju Metabolic Disease Cohort study (CMC study). Atherosclerosis 2010; 212:674-81; PMID: 20728085; DOI: 10.1016/j.atherosclerosis.2010.07.005.
+
+67. Majumdar V, Nagaraja D, Christopher R. Vitamin D status and metabolic syndrome in Asian Indians. Int J Obes (Lond) 2011; 35:1131-4; PMID: 21060309; DOI: 10.1038/ijo.2010.232.
+
+68. Forouhi NG, Luan JJ, Cooper A, Boucher BJ, Wareham NJ. Baseline serum 25-hydroxy vitamin d is predictive of future glycemic status and insulin resistance: the Medical Research Council Ely Prospective Study 1990-2000. Diabetes 2008; 57:2619-25; PMID: 18591391; DOI: 10.2337/db08-0593.
+
+69. Reis JP, von Mühlen D, Kritz-Silverstein D, Wingard DL, Barrett-Connor E. Vitamin D, parathyroid hormone levels, and the prevalence of metabolic syndrome in community-dwelling older adults. Diabetes Care 2007; 30:1549-55; PMID: 17351276; DOI: 10.2337/dc06-2438.
+
+70. Rueda S, Fernández-Fernández C, Romero F, Martínez de Osaba J, Vidal J. Vitamin D, PTH, and the metabolic syndrome in severely obese subjects. Obes Surg 2008; 18:151-4; PMID: 18175193; DOI: 10.1007/s11695-007-9352-3.
+
+71. Gulseth HL, Gjelstad IM, Tierney AC, Lovegrove JA, Defoort C, Blaak EE, et al. Serum vitamin D concentration does not predict insulin action or secretion in European subjects with the metabolic syndrome. Diabetes Care 2010; 33:923-5; PMID: 20067973; DOI: 10.2337/dc09-1692.
+
+72. Del Gobbo LC, Song Y, Dannenbaum DA, Dewailly E, Egeland GM. Serum 25-hydroxyvitamin D is not associated with insulin resistance or beta cell function in Canadian Cree. J Nutr 2011; 141:290-5; PMID: 21178079; DOI: 10.3945/jn.110.129619.
+
+73. Knekt P, Laaksonen M, Mattila C, Härkänen T, Marniemi J, Heliövaara M, et al. Serum vitamin D and subsequent occurrence of type 2 diabetes. Epidemiology 2008; 19:666-71; PMID: 18496468; DOI: 10.1097/EDE.0b013e318176b8ad.
+
+74. Laaksonen MA, Knekt P, Rissanen H, Härkänen T, Virtala E, Marniemi J, et al. The relative importance of modifiable potential risk factors of type 2 diabetes: a meta-analysis of two cohorts. Eur J Epidemiol 2010; 25:115-24; PMID: 20012885; DOI: 10.1007/s10654-009-9405-0.
+
+75. Gagnon C, Lu ZX, Magliano DJ, Dunstan DW, Shaw JE, Zimmet PZ, et al. Serum 25-hydroxyvitamin D, calcium intake, and risk of type 2 diabetes after 5 years: results from a national, population-based prospective study (the Australian Diabetes, Obesity and Lifestyle study). Diabetes Care 2011; 34:1133-8; PMID: 21430082; DOI: 10.2337/dc10-2167.
+
+76. Grimnes G, Emaus N, Joakimsen RM, Figenschau Y, Jenssen T, Njølstad I, et al. Baseline serum 25-hydroxyvitamin D concentrations in the Tromsø Study 1994-95 and risk of developing type 2 diabetes mellitus during 11 years of follow-up. Diabet Med 2010; 27:1107-15; PMID: 20854377; DOI: 10.1111/j.1464-5491.2010.03092.x.
+
+77. Zhang C, Qiu C, Hu FH, David RM, van Damn RM, Bralley A, et al. Maternal plasma 25-hydroxyvitamin D concentration and the risk for gestational diabetes. PLoS 2008; 3:33753.
+
+78. Makgoba M, Nelson SM, Savvidou M, Messow CM, Nicolaides K, Sattar N. First-trimester circulating 25-hydroxyvitamin D levels and development of gestational diabetes mellitus. Diabetes Care 2011; 34:1091-3; PMID: 21454797; DOI: 10.2337/dc10-2264.
+
+79. Avenell A, Cook JA, MacLennan GS. McPherson GC for the RECORD trial group for etc; Vitamin D supplementation and type 2 diabetes: a sub-study of a randomized placebo-controlled trial in older people. http://ageing.oxford
+
+80. de Boer IH, Tinker LF, Connelly S, Curb JD, Howard BV, Kestenbaum B, et al. Calcium plus vitamin D supplementation and the risk of incident diabetes in the Women’s Health Initiative. Diabetes Care 2008; 31:701-7; PMID: 18235052; DOI: 10.2337/dc07-1829.
+
+81. Tai K, Need AG, Horowitz M, Chapman IM. Glucose tolerance and vitamin D: effects of treating vitamin D deficiency. Nutrition 2008; 24:950-6; PMID: 18653316; DOI: 10.1016/j.nut.2008.04.009.
+
+82. Kayaniyil S, Retnakaran R, Harris SB, Vieth R, Knight JA, Gerstein HC, et al. Prospective associations of vitamin D with ?-cell function and glycemia: the PROspective Metabolism and ISlet cell Evaluation (PROMISE) cohort study. Diabetes 2011; 60:2947-53; PMID: 21911752; DOI: 10.2337/db11-0465.
+
+83. Al-Daghri NM, Alkharfy KM, Al-Saleh Y, Al-Attas OS, Alokail MS, Al-Othman A, et al. Modest reversal of metabolic syndrome manifestations with vitamin D status correction: a 12-month prospective study. Metabolism 2011; ; PMID: 22075268; DOI: 10.1016/j.metabol.2011.09.017.
+
+84. Eftekhari MH, Akbarzadeh M, Dabbaghmanesh MH, Hasanzadeh J. Impact of treatment with oral calcitriol on glucose indices in type 2 diabetes mellitus patients. Asia Pac J Clin Nutr 2011; 20:521-6; PMID: 22094836.
+
+85. Timms PM, Mannan N, Hitman GA, Noonan K, Mills PG, Syndercombe-Court D, et al. Circulating MMP9, vitamin D and variation in the TIMP-1 response with VDR genotype: mechanisms for inflammatory damage in chronic disorders?. QJM 2002; 95:787-96; PMID: 12454321; DOI: 10.1093/qjmed/95.12.787.
+
+86. Mitri J, Dawson-Hughes B, Hu FB, Pittas AG. Effects of vitamin D and calcium supplementation on pancreatic ? cell function, insulin sensitivity, and glycemia in adults at high risk of diabetes: the Calcium and Vitamin D for Diabetes Mellitus (CaDDM) randomized controlled trial. Am J Clin Nutr 2011; 94:486-94; PMID: 21715514; DOI: 10.3945/ajcn.111.011684.
+
+87. Parekh D, Sarathi V, Shivane VK, Bandgar TR, Menon PS, Shah NS. Pilot study to evaluate the effect of short-term improvement in vitamin D status on glucose tolerance in patients with type 2 diabetes mellitus. Endocr Pract 2010; 16:600-8; PMID: 20350923; DOI: 10.4158/EP09300.OR.
+
+88. Shab-Bidar S, Neyestani TR, Djazayery A, Eshraghian MR, Houshiarrad A, Kalayi A, et al. Improvement of vitamin D status resulted in amelioration of biomarkers of systemic inflammation in the subjects with type 2 diabetes. Diabetes Metab Res Rev 2012; ; PMID: 22344966; DOI: 10.1002/dmrr.2290.
+
+89. Zhao G, Ford ES, Li C, Croft JB. Serum 25-hydroxyvitamin D levels and all-cause and cardiovascular disease mortality among US adults with hypertension: the NHANES linked mortality study. J Hypertens 2012; 30:284-9; PMID: 22179077; DOI: 10.1097/HJH.0b013e32834e1f0a.
+
+90. Khalili H, Talasaz AH, Salarifar M. Serum vitamin D concentration status and its correlation with early biomarkers of remodeling following acute myocardial infarction. Clin Res Cardiol 2011; ; PMID: 22159952; DOI: 10.1007/s00392-011-0394-0.
+
+91. Vacek JL, Vanga SR, Good M, Lai SM, Lakkireddy D, Howard PA. Vitamin D deficiency and supplementation and relation to cardiovascular health. Am J Cardiol 2012; 109:359-63; PMID: 22071212; DOI: 10.1016/j.amjcard.2011.09.020.
+
+92. Gotsman I, Schauer A, Zwas DR, Hellman Y, Keren A, Lotan C, Admon D. Vitamin D deficiency is a predictor of reduced survival in patients with heart failure: vitamin D supplementation improves outcome. Eur J Herat Fail 2012; .
+
+93. Hutchinson MS, Grimnes G, Joakimsen RM, Figenschau Y, Jorde R. Low serum 25-hydroxyvitamin D levels are associated with increased all-cause mortality risk in a general population: the Tromsø study. Eur J Endocrinol 2010; 162:935-42; PMID: 20185562; DOI: 10.1530/EJE-09-1041.
+
+94. Elamin MB, Abu Elnour NO, Elamin KB, Fatourechi MM, Alkatib AA, Almandoz JP, et al. Vitamin D and cardiovascular outcomes: a systematic review and meta-analysis. J Clin Endocrinol Metab 2011; 96:1931-42; PMID: 21677037; DOI: 10.1210/jc.2011-0398.
+
+95. Zittermann A, Iodice S, Pilz S, Grant WB, Bagnardi V, Gandini S. Vitamin D deficiency and mortality risk in the general population: a meta-analysis of prospective cohort studies. Am J Clin Nutr 2012; 95:91-100; PMID: 22170374; DOI: 10.3945/ajcn.111.014779.
+
+96. Bjelakovic G, Gluud LL, Nikolova D, Whitfield K, Wetterslev J, Simonetti RG, et al. Vitamin D supplementation for prevention of mortality in adults. Cochrane Database Syst Rev 2011; 6:CD007470; PMID: 21735411.
+
+97. Parker J, Hashmi O, Dutton D, Mavrodaris A, Stranges S, Kandala NB, et al. Levels of vitamin D and cardiometabolic disorders: systematic review and meta-analysis. Maturitas 2010; 65:225-36; PMID: 20031348; DOI: 10.1016/j.maturitas.2009.12.013.
+
+98. Pilz S, Tomaschitz A, März W, Drechsler C, Ritz E, Zittermann A, et al. Vitamin D, cardiovascular disease and mortality. Clin Endocrinol (Oxf) 2011; 75:575-84; PMID: 21682758; DOI: 10.1111/j.1365-2265.2011.04147.x.
+
+99. Vacek JL, Vanga SR, Good M, Lai SM, Lakkireddy D, Howard PA. Vitamin D deficiency and supplementation and relation to cardiovascular health. Am J Cardiol 2011; ; PMID: 22071212.
+
+100. Petchey WG, Hickman IJ, Duncan E, Prins JB, Hawley CM, Johnson DW, et al. The role of 25-hydroxyvitamin D deficiency in promoting insulin resistance and inflammation in patients with chronic kidney disease: a randomised controlled trial. BMC Nephrol 2009; 10:41; PMID: 20003316; DOI: 10.1186/1471-2369-10-41.
+
+101. Pittas AG, Harris SS, Stark PC, Dawson-Hughes B. The effects of calcium and vitamin D supplementation on blood glucose and markers of inflammation in nondiabetic adults. Diabetes Care 2007; 30:980-6; PMID: 17277040; DOI: 10.2337/dc06-1994.
+
+102. Guillot X, Semerano L, Saidenberg-Kermanac’h N, Falgarone G, Boissier MC. Vitamin D and inflammation. Joint Bone Spine 2010; 77:552-7; PMID: 21067953; DOI: 10.1016/j.jbspin.2010.09.018.
+
+103. Grant WB. An estimate of the global reduction in mortality rates through doubling vitamin D levels. Eur J Clin Nutr 2011; 65:1016-26; PMID: 21731036; DOI: 10.1038/ejcn.2011.68.
+
+104. Milner RD, Hales CN. The role of calcium and magnesium in insulin secretion from rabbit pancreas studied in vitro. Diabetologia 1967; 3:47-9; PMID: 4903553; DOI: 10.1007/BF01269910.
+
+105. Pittas AG, Lau J, Hu FB, Dawson-Hughes B. The role of vitamin D and calcium in type 2 diabetes. A systematic review and meta-analysis. J Clin Endocrinol Metab 2007; 92:2017-29; PMID: 17389701; DOI: 10.1210/jc.2007-0298.
+
+106. Pittas AG, Sun Q, Manson JE, Dawson-Hughes B, Hu FB. Plasma 25-hydroxyvitamin D concentration and risk of incident type 2 diabetes in women. Diabetes Care 2010; 33:2021-3; PMID: 20805275; DOI: 10.2337/dc10-0790.
+
+107. Mozaffari-Khosravi H, Hosseinzadeh-Shamsi-Anar MA, Salami M-A, Hadinedoushan H, Mozayan MR. Effects of a single post-partum injection of a high dose of vitamin D on glucose tolerance and insulin resistance in mothers with first-time gestational diabetes mellitus. Diabet Med 2012; 29:36-42; PMID: 21977923; DOI: 10.1111/j.1464-5491.2011.03473.x.
+
+108. Boucher BJ. Calcium supplements may increase the risk of cardiovascular events in postmenopausal women. Evid Based Med 2012; 17:16-7; PMID: 22028370; DOI: 10.1136/ebm.2011.100113.
+
+109. Boucher BJ, Mannan N, Noonan K, Hales CN, Evans SJ. Glucose intolerance and impairment of insulin secretion in relation to vitamin D deficiency in east London Asians. Diabetologia 1995; 38:1239-45; PMID: 8690178; DOI: 10.1007/BF00422375.
+
+110. Luo C, Wong J, Brown M, Hooper M, Molyneaux L, Yue DK. Hypovitaminosis D in Chinese type 2 diabetes: lack of impact on clinical metabolic status and biomarkers of cellular inflammation. Diab Vasc Dis Res 2009; 6:194-9; PMID: 20368211; DOI: 10.1177/1479164109337974.
+
+111. Nagpal J, Pande JN, Bhartia A. A double-blind, randomized, placebo-controlled trial of the short-term effect of vitamin D3 supplementation on insulin sensitivity in apparently healthy, middle-aged, centrally obese men. Diabet Med 2009; 26:19-27; PMID: 19125756; DOI: 10.1111/j.1464-5491.2008.02636.x.
+
+112. von Hurst PR, Stonehouse W, Coad J. Vitamin D supplementation reduces insulin resistance in South Asian women living in New Zealand who are insulin resistant and vitamin D deficient - a randomised, placebo-controlled trial. Br J Nutr 2010; 103:549-55; PMID: 19781131; DOI: 10.1017/S0007114509992017.
+
+113. Patel P, Poretsky L, Liao E. Lack of effect of subtherapeutic vitamin D treatment on glycemic and lipid parameters in Type 2 diabetes: A pilot prospective randomized trial. J Diabetes 2010; 2:36-40; PMID: 20923473; DOI: 10.1111/j.1753-0407.2009.00057.x.
+
+114. Jain R, von Hurst PR, Stonehouse W, Love DR, Higgins CM, Coad J. Association of vitamin D receptor gene polymorphisms with insulin resistance and response to vitamin D. Metabolism 2012; ; PMID: 21871642; DOI: 10.1016/j.metabol.2011.06.018.
+
+115. Oh JY, Barrett-Connor E. Association between vitamin D receptor polymorphism and type 2 diabetes or metabolic syndrome in community-dwelling older adults: the Rancho Bernardo Study. Metabolism 2002; 51:356-9; PMID: 11887173; DOI: 10.1053/meta.2002.29969.
+
+116. Filus A, Trzmiel A, Kuliczkowska-P?aksej J, Tworowska U, Jedrzejuk D, Milewicz A, et al. Relationship between vitamin D receptor BsmI and FokI polymorphisms and anthropometric and biochemical parameters describing metabolic syndrome. Aging Male 2008; 11:134-9; PMID: 18821289; DOI: 10.1080/13685530802273426.
+
+117. Tworowska-Bardzi?ska U, Lwow F, Kubicka E, ?aczma?ski ?, Jedzrzejuk D, Dunajska K, et al. The vitamin D receptor gene BsmI polymorphism is not associated with anthropometric and biochemical parameters describing metabolic syndrome in postmenopausal women. Gynecol Endocrinol 2008; 24:514-8; PMID: 18958772; DOI: 10.1080/09513590802302985.
+
+118. Davidson HW, Rhodes CJ, Hutton JC. Intraorganellar calcium and pH control proinsulin cleavage in the pancreatic beta cell via two distinct site-specific endopeptidases. Nature 1988; 333:93-6; PMID: 3283564; DOI: 10.1038/333093a0.
+
+119. Li YC, Kong J, Wei M, Chen ZF, Liu SQ, Cao LP. 1,25-Dihydroxyvitamin D(3) is a negative endocrine regulator of the renin-angiotensin system. J Clin Invest 2002; 110:229-38; PMID: 12122115.
+
+120. de Kloet AD, Krause EG, Woods SC. The renin angiotensin system and the metabolic syndrome. Physiol Behav 2010; 100:525-34; PMID: 20381510; DOI: 10.1016/j.physbeh.2010.03.018.
+
+121. Cheng Q, Li YC, Boucher BJ, Leung PS. A novel role for vitamin D: modulation of expression and function of the local renin-angiotensin system in mouse pancreatic islets. Diabetologia 2011; 54:2077-81; PMID: 21424540; DOI: 10.1007/s00125-011-2100-1.
+
+122. Chan SP, Scott BB, Sen SS. An Asian viewpoint on the use of vitamin D and calcium in osteoporosis treatment: physician and patient attitudes and beliefs. BMC Musculoskelet Disord 2010; 11:248; PMID: 20977729.
+
+123. Awumey EM, Mitra DA, Hollis BW, Kumar R, Bell NH. Vitamin D metabolism is altered in Asian Indians in the southern United States: a clinical research center study. J Clin Endocrinol Metab 1998; 83:169-73; PMID: 9435436; DOI: 10.1210/jc.83.1.169.
+
+124. Boucher BJ, Mannan N. Metabolic effects of the consumption of Areca catechu. Addict Biol 2002; 7:103-10; PMID: 11900629; DOI: 10.1080/13556210120091464.
+
+125. Boucher BJ, Ewen SWB, Stowers JM. Betel nut (Areca catechu) consumption and the induction of glucose intolerance in adult CD1 mice and in their F1 and F2 offspring. Diabetologia 1994; 37:49-55; PMID: 8150230; DOI: 10.1007/BF00428777.
+
+126. Mannan N, Boucher BJ, Evans SJ. Increased waist size and weight in relation to consumption of Areca catechu (betel-nut); a risk factor for increased glycaemia in Asians in east London. Br J Nutr 2000; 83:267-75; PMID: 10884715.
+
+127. Chen TH-H, Chiu Y-H, Boucher BJ. Transgenerational effects of betel-quid chewing on the development of the metabolic syndrome in the Keelung Community-based Integrated Screening Program. Am J Clin Nutr 2006; 83:688-92; PMID: 16522918.
+
+128. Yen AM, Chiu YH, Chen LS, Wu HM, Huang CC, Boucher BJ, et al. A population-based study of the association between betel-quid chewing and the metabolic syndrome in men. Am J Clin Nutr 2006; 83:1153-60; PMID: 16685060.
+
+129. Ogunkolade WB, Boucher BJ, Bustin SA, Burrin JM, Noonan K, Mannan N, et al. Vitamin D metabolism in peripheral blood mononuclear cells is influenced by chewing “betel nut” (Areca catechu) and vitamin D status. J Clin Endocrinol Metab 2006; 91:2612-7; PMID: 16670168; DOI: 10.1210/jc.2005-2750.
+
+130. Wagner D, Hanwell HE, Schnabl K, Yazdanpanah M, Kimball S, Fu L, et al. The ratio of serum 24,25-dihydroxyvitamin D(3) to 25-hydroxyvitamin D(3) is predictive of 25-hydroxyvitamin D(3) response to vitamin D(3) supplementation. J Steroid Biochem Mol Biol 2011; 126:72-7; PMID: 21605672; DOI: 10.1016/j.jsbmb.2011.05.003.
+
+131. Kolb H, Mandrup-Poulsen T. An immune origin of type 2 diabetes?. Diabetologia 2005; 48:1038-50; PMID: 15864529; DOI: 10.1007/s00125-005-1764-9.
+
+132. Thorand B, Zierer A, Huth C, Linseisen J, Meisinger C, Roden M, et al. Effect of serum 25-hydroxyvitamin D on risk for type 2 diabetes may be partially mediated by subclinical inflammation: results from the MONICA/KORA Augsburg study. Diabetes Care 2011; 34:2320-2; PMID: 21873558; DOI: 10.2337/dc11-0775.
+
+133. Riachy R, Vandewalle B, Moerman E, Belaich S, Lukowiak B, Gmyr V, et al. 1,25-Dihydroxyvitamin D3 protects human pancreatic islets against cytokine-induced apoptosis via down-regulation of the Fas receptor. Apoptosis 2006; 11:151-9; PMID: 16502254; DOI: 10.1007/s10495-006-3558-z.
+
+134. Riachy R, Vandewalle B, Belaich S, Kerr-Conte J, Gmyr V, Zerimech F, et al. Beneficial effect of 1,25 dihydroxyvitamin D3 on cytokine-treated human pancreatic islets. J Endocrinol 2001; 169:161-8; PMID: 11250657; DOI: 10.1677/joe.0.1690161.
+
+135. Garcia-Bailo B, El-Sohemy A, Haddad PS, Arora P, Benzaied F, Karmali M, et al. Vitamins D, C, and E in the prevention of type 2 diabetes mellitus: modulation of inflammation and oxidative stress. Biologics 2011; 5:7-19; PMID: 21383912.
+
+136. Arora P, Garcia-Bailo B, Dastani Z, Brenner D, Viteligas A, Malik S, et al. Genetic pathways of innate immunity-related inflammatory pathways and their association with factors related to type 2 diabetes. MC Med Genet 2011; 14:12-95.
+
+137. Fu LW, Vender R. Review. Systemic role for vitamin D in the treatment of psoriasis and metabolic syndrome. Derm Res Persp 2011; 2011: ID 276079.
+
+138. Bock G, Prietl B, Mader JK, Höller E, Wolf M, Pilz S, et al. The effect of vitamin D supplementation on peripheral regulatory T cells and ? cell function in healthy humans: a randomized controlled trial. Diabetes Metab Res Rev 2011; 27:942-5; PMID: 22069289; DOI: 10.1002/dmrr.1276.
+
+139. Calder PC, Ahluwalia N, Brouns F, Buetler T, Clement K, Cunningham K, et al. Dietary factors and low-grade inflammation in relation to overweight and obesity. Br J Nutr 2011; 106:S5-78; PMID: 22133051; DOI: 10.1017/S0007114511005460.
+
+140. McMillan A, Hicks J, Isabella C, Higa GM. A critical analysis of the (near) legendary status of vitamin D. Expert Rev Endocrinol Metab 2012; 7:103-19; DOI: 10.1586/eem.11.81.
+
+141. Grant WB, Boucher BJ. Requirements for Vitamin D across the life span. Biol Res Nurs 2011; 13:120-33; PMID: 21242196; DOI: 10.1177/1099800410391243.
+
+142. Lips P. Worldwide status of vitamin D nutrition. J Steroid Biochem Mol Biol 2010; 121:297-300; PMID: 20197091; DOI: 10.1016/j.jsbmb.2010.02.021.
+
+143. Hagenau T, Vest R, Gissel TN, Poulsen CS, Erlandsen M, Mosekilde L, et al. Global vitamin D levels in relation to age, gender, skin pigmentation and latitude: an ecological meta-regression analysis. Osteoporosis 2009; 20:133-40; DOI: 10.1007/s00198-008-0626-y.
+
+144. Ross AC, Manson JE, Abrams SA, Aloia JF, Brannon PM, Clinton SK, et al. The 2011 report on dietary reference intakes for calcium and vitamin D from the Institute of Medicine: what clinicians need to know. J Clin Endocrinol Metab 2011; 96:53-8; PMID: 21118827; DOI: 10.1210/jc.2010-2704.
+
+145. Whitton C, Nicholson SK, Roberts C, Prynne CJ, Pot GK, Olson A, et al. National Diet and Nutrition Survey: UK food consumption and nutrient intakes from the first year of the rolling programme and comparisons with previous surveys. Br J Nutr 2011; 106:1899-914; PMID: 21736781; DOI: 10.1017/S0007114511002340.
+
+146. Vieth R, Bischoff-Ferrari H, Boucher BJ, Dawson-Hughes B, Garland CF, Heaney RP, et al. The urgent need to recommend an intake of vitamin D that is effective. Am J Clin Nutr 2007; 85:649-50; PMID: 17344484.
+
+147. Souberbielle JC, Body JJ, Lappe JM, Plebani M, Shoenfeld Y, Wang TJ, et al. Vitamin D and musculoskeletal health, cardiovascular disease, autoimmunity and cancer: Recommendations for clinical practice. Autoimmun Rev 2010; 9:709-15; PMID: 20601202; DOI: 10.1016/j.autrev.2010.06.009.
+
+148. Brot C, Jorgensen NR, Sorensen OH. The influence of smoking on vitamin D status and calcium metabolism. Eur J Clin Nutr 1999; 53:920-6; PMID: 10602348; DOI: 10.1038/sj.ejcn.1600870.
+
+149. Garland CF, French CB, Baggerly LL, Heaney RP. Vitamin D supplement doses and serum 25-hydroxyvitamin D in the range associated with cancer prevention. Anticancer Res 2011; 31:607-11; PMID: 21378345.
+
+150. Heald A, Stephens R, Gibson JM. The insulin-like growth factor system and diabetes--an overview. Diabet Med 2006; 23:19-24; PMID: 16483261; DOI: 10.1111/j.1464-5491.2006.01833f.x.
+
+151. Park Y, Kim M. Serum 25-hydroxyvitamin D concentrations are associated with erythrocyte levels of n-3 PUFA but not risk of CVD. Br J Nutr 2011; 106:1529-34; PMID: 21736802; DOI: 10.1017/S0007114511001930.
+
+152. Grant WB. Effect of interval between serum draw and follow-up period on relative risk of cancer incidence with respect to 25-hydroxyvitamin D level: Implications for meta-analyses and setting vitamin D guidelines. Dermatoendocrinol 2011; 3:199-204; PMID: 22110780.
+
+153. Newman MS, Brandon TR, Groves MN, Gregory WL, Kapur S, Zava DT. A liquid chromatography/tandem mass spectrometry method for determination of 25-hydroxy vitamin D2 and 25-hydroxy vitamin D3 in dried blood spots: a potential adjunct to diabetes and cardiometabolic risk screening. J Diabetes Sci Technol 2009; 3:156-62; PMID: 20046660.
+
+154. O’Sullivan A, Gibney MJ, Connor AO, Mion B, Kaluskar S, Cashman KD, et al. Biochemical and metabolomic phenotyping in the identification of a vitamin D responsive metabotype for markers of the metabolic syndrome. Mol Nutr Food Res 2011; 55:679-90; PMID: 21240901; DOI: 10.1002/mnfr.201000458.
+
+155. Cashman KD, Fitzgerald AP, Kiely M, Seamans KM. A systematic review and meta-regression analysis of the vitamin D intake-serum 25-hydroxyvitamin D relationship to inform European recommendations. Br J Nutr 2011; 106:1638-48; PMID: 22000709; DOI: 10.1017/S0007114511005058.
+
+156. Cashman KD, Kiely M. Towards prevention of vitamin D deficiency and beyond: knowledge gaps and research needs in vitamin D nutrition and public health. Br J Nutr 2011; 106:1617-27; PMID: 22017772; DOI: 10.1017/S0007114511004995.
+
+157. Javaid MK, Crozier SR, Harvey NC, Gale CR, Dennison EM, Boucher BJ, et al. Maternal vitamin D status during pregnancy and childhood bone mass at age 9 years: a longitudinal study. Lancet 2006; 367:36-43; PMID: 16399151; DOI: 10.1016/S0140-6736(06)67922-1.
+
+158. Sayers A, Tilling K, Boucher BJ, Noonan K, Tobias JH. Predicting ambient ultraviolet from routine meteorological data; its potential use as an instrumental variable for vitamin D status in pregnancy in a longitudinal birth cohort in the UK. Int J Epidemiol 2009; 38:1681-8; PMID: 19564248; DOI: 10.1093/ije/dyp237.
+
+159. Lanham-New SA, Buttriss JL, Miles LM, Ashwell M, Berry JL, Boucher BJ, et al. Proceedings of the Rank Forum on Vitamin D. Br J Nutr 2011; 105:144-56; PMID: 21134331; DOI: 10.1017/S0007114510002576.
+
+160. Heaney RP, Holick MF. Why the IOM recommendations for vitamin D are deficient. J Bone Miner Res 2011; 26:455-7; PMID: 21337617; DOI: 10.1002/jbmr.328.
+
+161. Kassi E, Pervanidou P, Kaltsas G, Chrousos G. Metabolic syndrome: definitions and controversies. BMC Med 2011; 9:48; PMID: 21542944; DOI: 10.1186/1741-7015-9-48.
+
+162. Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney RP, et al. Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab 2011; 96:1911-30; PMID: 21646368; DOI: 10.1210/jc.2011-0385.
+
+163. Pérez-López FR, Brincat M, Erel CT, Tremollieres F, Gambacciani M, Lambrinoudaki I, et al. EMAS position statement: Vitamin D and postmenopausal health. Maturitas 2012; 71:83-8; PMID: 22100145; DOI: 10.1016/j.maturitas.2011.11.002.
+
+164. Zhao G, Ford ES, Li C, Croft JB. Serum 25-hydroxyvitamin D levels and all-cause and cardiovascular disease mortality among US adults with hypertension: the NHANES linked mortality study. J Hypertens 2012; 30:284-9; PMID: 22179077; DOI: 10.1097/HJH.0b013e32834e1f0a.

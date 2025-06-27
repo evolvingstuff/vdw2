@@ -1,17 +1,38 @@
 {
-  "title": "14000 IU vitamin D (50000 twice a week) often stops Sickle Cell pain",
-  "slug": "14000-iu-vitamin-d-50000-twice-a-week-often-stops-sickle-cell-pain",
-  "aliases": [
-    "/14000+IU+vitamin+D+50000+twice+a+week+often+stops+Sickle+Cell+pain",
-    "/2037"
-  ],
-  "tiki_page_id": 2037,
-  "date": "2011-09-26",
-  "categories": [
-    "Skin - Dark",
-    "Bone - Health",
-    "Intervention"
-  ]
+    "title": "14000 IU vitamin D (50000 twice a week) often stops Sickle Cell pain",
+    "slug": "14000-iu-vitamin-d-50000-twice-a-week-often-stops-sickle-cell-pain",
+    "aliases": [
+        "/14000+IU+vitamin+D+50000+twice+a+week+often+stops+Sickle+Cell+pain",
+        "/2037"
+    ],
+    "tiki_page_id": 2037,
+    "date": "2011-09-26",
+    "categories": [
+        "Skin - Dark",
+        "Bone - Health",
+        "Intervention"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Intervention",
+        "Skin - Dark",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "chronic pain",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "osteoporosis",
+        "pain",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

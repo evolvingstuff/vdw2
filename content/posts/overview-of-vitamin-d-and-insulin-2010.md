@@ -1,15 +1,25 @@
 {
-  "title": "Overview of Vitamin D and Insulin \u2013 2010",
-  "slug": "overview-of-vitamin-d-and-insulin-2010",
-  "aliases": [
-    "/Overview+of+Vitamin+D+and+Insulin+\u2013+2010",
-    "/1314"
-  ],
-  "tiki_page_id": 1314,
-  "date": "2011-01-12",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Overview of Vitamin D and Insulin \u2013 2010",
+    "slug": "overview-of-vitamin-d-and-insulin-2010",
+    "aliases": [
+        "/Overview+of+Vitamin+D+and+Insulin+\u2013+2010",
+        "/1314"
+    ],
+    "tiki_page_id": 1314,
+    "date": "2011-01-12",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "diabetes",
+        "dosage",
+        "life span",
+        "metabolic",
+        "mortality",
+        "type 1 diabetes",
+        "vitamin d"
+    ]
 }
 
 

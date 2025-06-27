@@ -1,16 +1,30 @@
 {
-  "title": "IBD colorectal Cancer and vitamin D",
-  "slug": "ibd-colorectal-cancer-and-vitamin-d",
-  "aliases": [
-    "/IBD+colorectal+Cancer+and+vitamin+D+\u2013+Jan+2011",
-    "/1406"
-  ],
-  "tiki_page_id": 1406,
-  "date": "2011-02-13",
-  "categories": [
-    "Cancer - Colon",
-    "Gut"
-  ]
+    "title": "IBD colorectal Cancer and vitamin D",
+    "slug": "ibd-colorectal-cancer-and-vitamin-d",
+    "aliases": [
+        "/IBD+colorectal+Cancer+and+vitamin+D+\u2013+Jan+2011",
+        "/1406"
+    ],
+    "tiki_page_id": 1406,
+    "date": "2011-02-13",
+    "categories": [
+        "Cancer - Colon",
+        "Gut"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "Gut",
+        "IBD",
+        "autoimmune",
+        "cancer",
+        "colon cancer",
+        "gut",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

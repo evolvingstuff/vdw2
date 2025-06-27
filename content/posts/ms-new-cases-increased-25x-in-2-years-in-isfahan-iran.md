@@ -1,16 +1,30 @@
 {
-  "title": "MS new cases increased 2.5X in 2 years in Isfahan Iran",
-  "slug": "ms-new-cases-increased-25x-in-2-years-in-isfahan-iran",
-  "aliases": [
-    "/MS+new+cases+increased+25X+in+2+years+in+Isfahan+Iran+\u2013+Aug+2011",
-    "/1841"
-  ],
-  "tiki_page_id": 1841,
-  "date": "2011-07-18",
-  "categories": [
-    "Multiple Sclerosis",
-    "Middle East"
-  ]
+    "title": "MS new cases increased 2.5X in 2 years in Isfahan Iran",
+    "slug": "ms-new-cases-increased-25x-in-2-years-in-isfahan-iran",
+    "aliases": [
+        "/MS+new+cases+increased+25X+in+2+years+in+Isfahan+Iran+\u2013+Aug+2011",
+        "/1841"
+    ],
+    "tiki_page_id": 1841,
+    "date": "2011-07-18",
+    "categories": [
+        "Multiple Sclerosis",
+        "Middle East"
+    ],
+    "tags": [
+        "Middle East",
+        "Multiple Sclerosis",
+        "autoimmune",
+        "child",
+        "diabetes",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

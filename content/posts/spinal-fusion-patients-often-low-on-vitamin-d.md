@@ -1,17 +1,26 @@
 {
-  "title": "Spinal fusion patients often low on vitamin D",
-  "slug": "spinal-fusion-patients-often-low-on-vitamin-d",
-  "aliases": [
-    "/Spinal+fusion+patients+often+low+on+vitamin+D+-+Nov+2011",
-    "/2147"
-  ],
-  "tiki_page_id": 2147,
-  "date": "2011-11-04",
-  "categories": [
-    "Bone - Health",
-    "Trauma and surgery",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "Spinal fusion patients often low on vitamin D",
+    "slug": "spinal-fusion-patients-often-low-on-vitamin-d",
+    "aliases": [
+        "/Spinal+fusion+patients+often+low+on+vitamin+D+-+Nov+2011",
+        "/2147"
+    ],
+    "tiki_page_id": 2147,
+    "date": "2011-11-04",
+    "categories": [
+        "Bone - Health",
+        "Trauma and surgery",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Cost savings with Vitamin D",
+        "Trauma and surgery",
+        "dosage",
+        "magnesium",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 

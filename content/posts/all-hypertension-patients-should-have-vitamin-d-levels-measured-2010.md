@@ -1,15 +1,23 @@
 {
-  "title": "All hypertension patients should have vitamin D levels measured \u2013 2010",
-  "slug": "all-hypertension-patients-should-have-vitamin-d-levels-measured-2010",
-  "aliases": [
-    "/All+hypertension+patients+should+have+vitamin+D+levels+measured+\u2013+2010",
-    "/1742"
-  ],
-  "tiki_page_id": 1742,
-  "date": "2011-06-20",
-  "categories": [
-    "Hypertension"
-  ]
+    "title": "All hypertension patients should have vitamin D levels measured \u2013 2010",
+    "slug": "all-hypertension-patients-should-have-vitamin-d-levels-measured-2010",
+    "aliases": [
+        "/All+hypertension+patients+should+have+vitamin+D+levels+measured+\u2013+2010",
+        "/1742"
+    ],
+    "tiki_page_id": 1742,
+    "date": "2011-06-20",
+    "categories": [
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "blood levels",
+        "dosage",
+        "hypertension",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

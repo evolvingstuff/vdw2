@@ -1,15 +1,25 @@
 {
-  "title": "930 IU of Vitamin D proposed for far North after review of literature review",
-  "slug": "930-iu-of-vitamin-d-proposed-for-far-north-after-review-of-literature-review",
-  "aliases": [
-    "/930+IU+of+Vitamin+D+proposed+for+far+North+after+review+of+literature+review+\u2013+Oct+2011",
-    "/2097"
-  ],
-  "tiki_page_id": 2097,
-  "date": "2011-10-18",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "930 IU of Vitamin D proposed for far North after review of literature review",
+    "slug": "930-iu-of-vitamin-d-proposed-for-far-north-after-review-of-literature-review",
+    "aliases": [
+        "/930+IU+of+Vitamin+D+proposed+for+far+North+after+review+of+literature+review+\u2013+Oct+2011",
+        "/2097"
+    ],
+    "tiki_page_id": 2097,
+    "date": "2011-10-18",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "blood levels",
+        "cancer",
+        "dosage",
+        "pregnancy",
+        "skin cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -75,9 +85,8 @@ PMID: 22000709
 
 * [Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010](/posts/cadavers-with-good-skeletons-had-30-ng-of-vitamin-d)
 
-* <a href="/posts/germany-increases-vitamin-d-to-800-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2304">Germany increases vitamin D to 800 IU - Jan 2012</a>
+* [Germany increases vitamin D to 800 IU - Jan 2012](/posts/germany-increases-vitamin-d-to-800-iu)
 
 * <a href="/posts/published-recommendations-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Recommendations of Vitamin D</a> which includes the following graph
 
 {IMG(fileId="1984" max="500")}{IMG}
-

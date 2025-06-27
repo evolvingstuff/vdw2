@@ -1,16 +1,24 @@
 {
-  "title": "Hypothesis non-severe depression and diabetes related by low vitamin D",
-  "slug": "hypothesis-non-severe-depression-and-diabetes-related-by-low-vitamin-d",
-  "aliases": [
-    "/Hypothesis+non-severe+depression+and+diabetes+related+by+low+vitamin+D+\u2013+June+2011",
-    "/1739"
-  ],
-  "tiki_page_id": 1739,
-  "date": "2011-06-17",
-  "categories": [
-    "Diabetes",
-    "Depression"
-  ]
+    "title": "Hypothesis non-severe depression and diabetes related by low vitamin D",
+    "slug": "hypothesis-non-severe-depression-and-diabetes-related-by-low-vitamin-d",
+    "aliases": [
+        "/Hypothesis+non-severe+depression+and+diabetes+related+by+low+vitamin+D+\u2013+June+2011",
+        "/1739"
+    ],
+    "tiki_page_id": 1739,
+    "date": "2011-06-17",
+    "categories": [
+        "Diabetes",
+        "Depression"
+    ],
+    "tags": [
+        "Depression",
+        "Diabetes",
+        "depression",
+        "diabetes",
+        "metabolic",
+        "mood disorders"
+    ]
 }
 
 
@@ -32,4 +40,4 @@ The "Patient Perspective" that accompanied the recent article by Campayo and col
 
 The woman described in this vignette experienced both a major life event—widowhood—and complicated bereavement prior to onset of diabetes. 
 
-Stressful life events are a well-documented cause of depression.3 Recent work on the physiologic consequences of stress (canonized in concepts such . . . 
+Stressful life events are a well-documented cause of depression.3 Recent work on the physiologic consequences of stress (canonized in concepts such . . .

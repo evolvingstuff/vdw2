@@ -1,15 +1,49 @@
 {
-  "title": "Interview of Dr. Cannell",
-  "slug": "interview-of-dr-cannell",
-  "aliases": [
-    "/Interview+of+Dr+Cannell+Dec+1+2010",
-    "/1223"
-  ],
-  "tiki_page_id": 1223,
-  "date": "2010-12-11",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "Interview of Dr. Cannell",
+    "slug": "interview-of-dr-cannell",
+    "aliases": [
+        "/Interview+of+Dr+Cannell+Dec+1+2010",
+        "/1223"
+    ],
+    "tiki_page_id": 1223,
+    "date": "2010-12-11",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cataracts",
+        "child",
+        "childhood cancer",
+        "childhood respiratory",
+        "childhood viruses",
+        "cognitive",
+        "falls fractures",
+        "genetics",
+        "high dose",
+        "influenza",
+        "leukemia",
+        "macular degeneration",
+        "pregnancy",
+        "respiratory",
+        "therapeutic intervention",
+        "ultraviolet light",
+        "virus",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vision",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -238,4 +272,3 @@ DM: Thanks again.
 ## Note: the [D-lite bed](http://tanningbeds.mercola.com/tanning-beds/vitality-tanning-bed.aspx) mentioned above costs $3,000.
 
 ## You can make a <a href="/posts/far-less-powerful-system-for-yourself" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 982">far less powerful system for yourself</a> for just $50
-

@@ -1,17 +1,47 @@
 {
-  "title": "Deficiencies of Vitamin D and Calcium \u2013 Related Chronic Diseases \u2013 2009",
-  "slug": "deficiencies-of-vitamin-d-and-calcium-related-chronic-diseases-2009",
-  "aliases": [
-    "/Deficiencies+of+Vitamin+D+and+Calcium+\u2013+Related+Chronic+Diseases+\u2013+2009",
-    "/1876"
-  ],
-  "tiki_page_id": 1876,
-  "date": "2011-07-31",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Deficiencies of Vitamin D and Calcium \u2013 Related Chronic Diseases \u2013 2009",
+    "slug": "deficiencies-of-vitamin-d-and-calcium-related-chronic-diseases-2009",
+    "aliases": [
+        "/Deficiencies+of+Vitamin+D+and+Calcium+\u2013+Related+Chronic+Diseases+\u2013+2009",
+        "/1876"
+    ],
+    "tiki_page_id": 1876,
+    "date": "2011-07-31",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "IBD",
+        "Vitamin D and Calcium",
+        "autoimmune",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "diabetes",
+        "gut",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "life span",
+        "lymphoma",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mortality",
+        "multiple sclerosis",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -98,4 +128,3 @@ Multiple Sclerosis
 * |https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=53&sort_mode=created_desc|All Calcium items and Vitamin D]
 
 * [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
-

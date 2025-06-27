@@ -1,16 +1,41 @@
 {
-  "title": "Epigenetics and Vitamin D \u2013 many studies",
-  "slug": "epigenetics-and-vitamin-d-many-studies",
-  "aliases": [
-    "/Epigenetics+and+Vitamin+D+\u2013+many+studies",
-    "/2047"
-  ],
-  "tiki_page_id": 2047,
-  "date": "2011-09-28",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Epigenetics and Vitamin D \u2013 many studies",
+    "slug": "epigenetics-and-vitamin-d-many-studies",
+    "aliases": [
+        "/Epigenetics+and+Vitamin+D+\u2013+many+studies",
+        "/2047"
+    ],
+    "tiki_page_id": 2047,
+    "date": "2011-09-28",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "asthma receptor",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "colon cancer",
+        "epigenetics",
+        "genetics",
+        "health risk",
+        "immunity",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "pollution",
+        "virus",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 {{< toc >}}
 

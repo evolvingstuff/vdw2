@@ -1,17 +1,25 @@
 {
-  "title": "Fish need vitamin D and C for their bones",
-  "slug": "fish-need-vitamin-d-and-c-for-their-bones",
-  "aliases": [
-    "/Fish+need+vitamin+D+and+C+for+their+bones+\u2013+Dec+2010",
-    "/1305"
-  ],
-  "tiki_page_id": 1305,
-  "date": "2011-01-08",
-  "categories": [
-    "Veterinary and Vitamin D",
-    "Bone - Health",
-    "Vitamin C"
-  ]
+    "title": "Fish need vitamin D and C for their bones",
+    "slug": "fish-need-vitamin-d-and-c-for-their-bones",
+    "aliases": [
+        "/Fish+need+vitamin+D+and+C+for+their+bones+\u2013+Dec+2010",
+        "/1305"
+    ],
+    "tiki_page_id": 1305,
+    "date": "2011-01-08",
+    "categories": [
+        "Veterinary and Vitamin D",
+        "Bone - Health",
+        "Vitamin C"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Veterinary and Vitamin D",
+        "Vitamin C",
+        "genetics",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 

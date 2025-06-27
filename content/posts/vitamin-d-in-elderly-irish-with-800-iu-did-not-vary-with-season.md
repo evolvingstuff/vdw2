@@ -1,17 +1,32 @@
 {
-  "title": "Vitamin D in elderly Irish with 800 IU did not vary with season",
-  "slug": "vitamin-d-in-elderly-irish-with-800-iu-did-not-vary-with-season",
-  "aliases": [
-    "/Vitamin+D+in+elderly+Irish+with+800+IU+did+not+vary+with+season+\u2013+Nov+2010",
-    "/1123"
-  ],
-  "tiki_page_id": 1123,
-  "date": "2010-11-08",
-  "categories": [
-    "Seniors",
-    "Vitamin D in Europe"
-  ]
+    "title": "Vitamin D in elderly Irish with 800 IU did not vary with season",
+    "slug": "vitamin-d-in-elderly-irish-with-800-iu-did-not-vary-with-season",
+    "aliases": [
+        "/Vitamin+D+in+elderly+Irish+with+800+IU+did+not+vary+with+season+\u2013+Nov+2010",
+        "/1123"
+    ],
+    "tiki_page_id": 1123,
+    "date": "2010-11-08",
+    "categories": [
+        "Seniors",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Seniors",
+        "Vitamin D in Europe",
+        "autoimmune",
+        "blood levels",
+        "dosage",
+        "high dose",
+        "intervention",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 – – – – – – Summary - - - - - - 
 
@@ -38,4 +53,3 @@ Mean 25(OH)D = 64.1 (95% confidence interval: 52.2-75.8) nmol/l, with no signifi
 Non-supplemented group (N = 363): mean 25(OH)D = 40.3 (35.5-45.0) nmol/l, with significant seasonality (55.5% variance remaining), peak in August, amplitude = 6.0 (3.1-8.8) nmol/l; regression: both GSR (P = 0.002) and the interaction GSR * SEA (P = 0.018) predicted 25(OH)D. 
 
 Conclusions: vitamin D supplementation was associated with a mean serum 25(OH)D increase of 23.8 nmol/l. Interestingly, supplementation seemed to blunt seasonality. In the supplemented group, 72.1% had individual 25(OH)D levels below the recommended 75 nmol/l. There is a case for universal supplementation in Irish older people, probably at a higher dose. Further research is needed to establish the optimum dose. PMID: 21051444
-

@@ -1,16 +1,29 @@
 {
-  "title": "Adding a little vitamin D for 3 months did not help bones of healthy children",
-  "slug": "adding-a-little-vitamin-d-for-3-months-did-not-help-bones-of-healthy-children",
-  "aliases": [
-    "/Adding+a+little+vitamin+D+for+3+months+did+not+help+bones+of+healthy+children+\u2013+Jan+2011",
-    "/1348"
-  ],
-  "tiki_page_id": 1348,
-  "date": "2011-01-25",
-  "categories": [
-    "Bone - Health",
-    "Youth"
-  ]
+    "title": "Adding a little vitamin D for 3 months did not help bones of healthy children",
+    "slug": "adding-a-little-vitamin-d-for-3-months-did-not-help-bones-of-healthy-children",
+    "aliases": [
+        "/Adding+a+little+vitamin+D+for+3+months+did+not+help+bones+of+healthy+children+\u2013+Jan+2011",
+        "/1348"
+    ],
+    "tiki_page_id": 1348,
+    "date": "2011-01-25",
+    "categories": [
+        "Bone - Health",
+        "Youth"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Youth",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "child",
+        "dosage",
+        "falls fractures",
+        "magnesium",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -77,4 +90,3 @@ Conclusions It is unlikely that vitamin D supplements are beneficial in children
 * <a href="/posts/review-of-vitamin-d-pathways-to-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1000">Review of vitamin D pathways to bone health - July 2010</a>
 
 * <a href="/posts/average-of-less-than-2000-iu-of-vitamin-d2-did-not-help-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 613">Average of less than 2000 IU of vitamin D2 did not help bone health – July 2010</a>
-

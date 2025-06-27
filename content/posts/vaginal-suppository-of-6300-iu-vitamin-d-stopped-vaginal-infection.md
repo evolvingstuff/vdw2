@@ -1,17 +1,31 @@
 {
-  "title": "Vaginal suppository of 6300 IU vitamin D stopped vaginal infection",
-  "slug": "vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection",
-  "aliases": [
-    "/Vaginal+suppository+of+6300+IU+vitamin+D+stopped+vaginal+infection+\u2013+Feb+2011",
-    "/1410"
-  ],
-  "tiki_page_id": 1410,
-  "date": "2011-02-15",
-  "categories": [
-    "Immunity",
-    "Forms of Vitamin D",
-    "Women"
-  ]
+    "title": "Vaginal suppository of 6300 IU vitamin D stopped vaginal infection",
+    "slug": "vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection",
+    "aliases": [
+        "/Vaginal+suppository+of+6300+IU+vitamin+D+stopped+vaginal+infection+\u2013+Feb+2011",
+        "/1410"
+    ],
+    "tiki_page_id": 1410,
+    "date": "2011-02-15",
+    "categories": [
+        "Immunity",
+        "Forms of Vitamin D",
+        "Women"
+    ],
+    "tags": [
+        "Forms of Vitamin D",
+        "Immunity",
+        "Women",
+        "antibiotics",
+        "blood levels",
+        "breast cancer",
+        "cancer",
+        "dosage",
+        "high dose",
+        "pregnancy",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

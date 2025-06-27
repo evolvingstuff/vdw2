@@ -1,15 +1,40 @@
 {
-  "title": "Vitamin D- Miracle Cure Book",
-  "slug": "vitamin-d-miracle-cure-book",
-  "aliases": [
-    "/Vitamin+D-+Miracle+Cure+Book",
-    "/2076"
-  ],
-  "tiki_page_id": 2076,
-  "date": "2011-10-11",
-  "categories": [
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Vitamin D- Miracle Cure Book",
+    "slug": "vitamin-d-miracle-cure-book",
+    "aliases": [
+        "/Vitamin+D-+Miracle+Cure+Book",
+        "/2076"
+    ],
+    "tiki_page_id": 2076,
+    "date": "2011-10-11",
+    "categories": [
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "depression",
+        "dosage",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "mood disorders",
+        "multiple sclerosis",
+        "omega 3",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d",
+        "zinc"
+    ]
 }
 
 
@@ -124,4 +149,3 @@ Many of our lifestyle changes in the last 50 years have contributed to low level
 * Growing cities have reduced our time outside, and today most people on the planet live in cities.
 
 * With increasingly diverse populations and global integration, darker skinned persons are now living farther from the equator where their skin pigments had evolved to protect them from sun over-exposure Their dark skin thus over-protects them from producing vitamin D with less available sunlight.
-

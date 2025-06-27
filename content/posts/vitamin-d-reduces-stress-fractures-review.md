@@ -1,15 +1,24 @@
 {
-  "title": "Vitamin D reduces stress fractures \u2013 review",
-  "slug": "vitamin-d-reduces-stress-fractures-review",
-  "aliases": [
-    "/Vitamin+D+reduces+stress+fractures+\u2013+review+Oct+2010",
-    "/1557"
-  ],
-  "tiki_page_id": 1557,
-  "date": "2011-04-02",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "Vitamin D reduces stress fractures \u2013 review",
+    "slug": "vitamin-d-reduces-stress-fractures-review",
+    "aliases": [
+        "/Vitamin+D+reduces+stress+fractures+\u2013+review+Oct+2010",
+        "/1557"
+    ],
+    "tiki_page_id": 1557,
+    "date": "2011-04-02",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
 
 

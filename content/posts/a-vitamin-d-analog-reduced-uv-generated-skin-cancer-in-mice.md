@@ -1,16 +1,32 @@
 {
-  "title": "A vitamin D analog reduced UV generated skin cancer in mice",
-  "slug": "a-vitamin-d-analog-reduced-uv-generated-skin-cancer-in-mice",
-  "aliases": [
-    "/A+vitamin+D+analog+reduced+UV+generated+skin+cancer+in+mice+\u2013+July+2011",
-    "/1807"
-  ],
-  "tiki_page_id": 1807,
-  "date": "2011-07-08",
-  "categories": [
-    "Cancer - Skin"
-  ]
+    "title": "A vitamin D analog reduced UV generated skin cancer in mice",
+    "slug": "a-vitamin-d-analog-reduced-uv-generated-skin-cancer-in-mice",
+    "aliases": [
+        "/A+vitamin+D+analog+reduced+UV+generated+skin+cancer+in+mice+\u2013+July+2011",
+        "/1807"
+    ],
+    "tiki_page_id": 1807,
+    "date": "2011-07-08",
+    "categories": [
+        "Cancer - Skin"
+    ],
+    "tags": [
+        "Cancer - Skin",
+        "autoimmune",
+        "cancer",
+        "cancer in VDR",
+        "genetics",
+        "high dose",
+        "intervention",
+        "melanoma",
+        "multiple sclerosis",
+        "skin cancer",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 
@@ -43,4 +59,3 @@ PMID:     21733837
 * <a href="/posts/possible-association-between-nonmelanoma-skin-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 493">Possible association between Nonmelanoma Skin Cancer and vitamin D – June 2010</a>
 
    * Nonmelanoma Skin Cancer and the Risk of Second Primary Cancers: a Systematic Review.
-

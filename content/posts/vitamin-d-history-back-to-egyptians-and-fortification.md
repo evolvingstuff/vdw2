@@ -1,17 +1,38 @@
 {
-  "title": "Vitamin D history back to Egyptians and fortification",
-  "slug": "vitamin-d-history-back-to-egyptians-and-fortification",
-  "aliases": [
-    "/Vitamin+D+history+back+to+Egyptians+and+fortification+-+Aug+2011",
-    "/2044"
-  ],
-  "tiki_page_id": 2044,
-  "date": "2011-09-27",
-  "categories": [
-    "Bone - Health",
-    "Fortification with Vitamin D",
-    "Africa"
-  ]
+    "title": "Vitamin D history back to Egyptians and fortification",
+    "slug": "vitamin-d-history-back-to-egyptians-and-fortification",
+    "aliases": [
+        "/Vitamin+D+history+back+to+Egyptians+and+fortification+-+Aug+2011",
+        "/2044"
+    ],
+    "tiki_page_id": 2044,
+    "date": "2011-09-27",
+    "categories": [
+        "Bone - Health",
+        "Fortification with Vitamin D",
+        "Africa"
+    ],
+    "tags": [
+        "Africa",
+        "Bone - Health",
+        "Fortification with Vitamin D",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "health risk",
+        "immunity",
+        "iodine",
+        "obesity",
+        "obesity and cancer",
+        "pollution",
+        "pregnancy",
+        "rickets",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 

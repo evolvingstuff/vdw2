@@ -1,16 +1,60 @@
 {
-  "title": "Michael Holick \u2013 reduce health care costs 25 percent \u2013 interview",
-  "slug": "michael-holick-reduce-health-care-costs-25-percent-interview",
-  "aliases": [
-    "/Michael+Holick+\u2013+reduce+health+care+costs+25+percent+\u2013+interview+Sept+2010",
-    "/1524"
-  ],
-  "tiki_page_id": 1524,
-  "date": "2011-03-29",
-  "categories": [
-    "About D - introduction",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "Michael Holick \u2013 reduce health care costs 25 percent \u2013 interview",
+    "slug": "michael-holick-reduce-health-care-costs-25-percent-interview",
+    "aliases": [
+        "/Michael+Holick+\u2013+reduce+health+care+costs+25+percent+\u2013+interview+Sept+2010",
+        "/1524"
+    ],
+    "tiki_page_id": 1524,
+    "date": "2011-03-29",
+    "categories": [
+        "About D - introduction",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "About D - introduction",
+        "Cost savings with Vitamin D",
+        "autoimmune",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "brain",
+        "cancer",
+        "cancer in VDR",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "cholesterol",
+        "cognitive",
+        "colon cancer",
+        "depression",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "mood disorders",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "virus",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -113,4 +157,3 @@ Michael F. Holick, PhD, MD, is a professor of medicine, physiology, and biophysi
 * <a href="/posts/vitamin-d-evolutionary-physiological-and-health-perspectives" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1224">Vitamin D: evolutionary, physiological and health perspectives</a> Holick
 
 * <a href="/posts/professional-book-on-vitamin-d-editor-holick-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 542">Professional book on Vitamin D - Editor Holick 2010</a> includes abstracts of each chapter
-

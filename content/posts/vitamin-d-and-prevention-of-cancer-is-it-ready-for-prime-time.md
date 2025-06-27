@@ -1,15 +1,62 @@
 {
-  "title": "Vitamin D and Prevention of Cancer \u2014 Is it ready for Prime Time",
-  "slug": "vitamin-d-and-prevention-of-cancer-is-it-ready-for-prime-time",
-  "aliases": [
-    "/Vitamin+D+and+Prevention+of+Cancer+Is+it+ready+for+Prime+Time+\u2013+March+2011",
-    "/1504"
-  ],
-  "tiki_page_id": 1504,
-  "date": "2011-03-24",
-  "categories": [
-    "Cancer"
-  ]
+    "title": "Vitamin D and Prevention of Cancer \u2014 Is it ready for Prime Time",
+    "slug": "vitamin-d-and-prevention-of-cancer-is-it-ready-for-prime-time",
+    "aliases": [
+        "/Vitamin+D+and+Prevention+of+Cancer+Is+it+ready+for+Prime+Time+\u2013+March+2011",
+        "/1504"
+    ],
+    "tiki_page_id": 1504,
+    "date": "2011-03-24",
+    "categories": [
+        "Cancer"
+    ],
+    "tags": [
+        "Cancer",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "colon cancer",
+        "cystic fibrosis",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "high dose",
+        "intervention",
+        "life span",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "pain",
+        "pancreatic cancer",
+        "pediatric autoimmune",
+        "pregnancy",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "skin cancer",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -266,4 +313,3 @@ Helzlsouer KJ. For the VDPP Steering Committee. Overview of the Cohort Consortiu
 Souberbielle JC, Body JJ, Lappe JM, Plebani M, Shoenfeld Y, Wang TJ, et al. Vitamin D and musculoskeletal health, cardiovascular disease, autoimmunity and cancer: Recommendations for clinical practice. Autoimmun Rev. 2010 Sep;9(11):709-15.
 
 Toner CD, Davis CD, Milner JA. The vitamin D and cancer conundrum: Aiming at a moving target. J Am Diet Assoc. 2010 Oct;110(10):1492-1500.
-

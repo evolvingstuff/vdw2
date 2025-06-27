@@ -1,15 +1,47 @@
 {
-  "title": "Links at VitaminDWiki",
-  "slug": "links-at-vitamindwiki",
-  "aliases": [
-    "/Links+at+VitaminDWiki",
-    "/1567"
-  ],
-  "tiki_page_id": 1567,
-  "date": "2011-04-05",
-  "categories": [
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Links at VitaminDWiki",
+    "slug": "links-at-vitamindwiki",
+    "aliases": [
+        "/Links+at+VitaminDWiki",
+        "/1567"
+    ],
+    "tiki_page_id": 1567,
+    "date": "2011-04-05",
+    "categories": [
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "depression",
+        "depression and pregnancy",
+        "dermatology",
+        "diabetes",
+        "dosage",
+        "hair",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "metabolic",
+        "mood disorders",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "psoriasis",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -115,7 +147,7 @@
 
 > <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1513">CLICK HERE</a> for a introduction for GreenMedInfo at VitaminDWiki
 
-* [CureZone](http://curezone.com/dis/%20)  huge&nbsp; &nbsp; &nbsp;<a href="/posts/curezone-forum-on-sunshine-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2434">CureZone Forum on Sunshine and vitamin D – Feb 2012</a>
+* [CureZone](http://curezone.com/dis/%20)  huge&nbsp; &nbsp; &nbsp;[CureZone Forum on Sunshine and vitamin D – Feb 2012](/posts/curezone-forum-on-sunshine-and-vitamin-d)
 
 * [PainTopics](http://pain-topics.org/%20)
 

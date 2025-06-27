@@ -1,15 +1,22 @@
 {
-  "title": "25 ng Vitamin D reduced chance of diabetes by 43 percent -review",
-  "slug": "25-ng-vitamin-d-reduced-chance-of-diabetes-by-43-percent-review",
-  "aliases": [
-    "/25+ng+Vitamin+D+reduced+chance+of+diabetes+by+43+percent+-review+July+2011",
-    "/1812"
-  ],
-  "tiki_page_id": 1812,
-  "date": "2011-07-09",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "25 ng Vitamin D reduced chance of diabetes by 43 percent -review",
+    "slug": "25-ng-vitamin-d-reduced-chance-of-diabetes-by-43-percent-review",
+    "aliases": [
+        "/25+ng+Vitamin+D+reduced+chance+of+diabetes+by+43+percent+-review+July+2011",
+        "/1812"
+    ],
+    "tiki_page_id": 1812,
+    "date": "2011-07-09",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "diabetes",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,16 +1,31 @@
 {
-  "title": "Vitamin D deficiency is a risk factor for many diseases",
-  "slug": "vitamin-d-deficiency-is-a-risk-factor-for-many-diseases",
-  "aliases": [
-    "/Vitamin+D+deficiency+is+a+risk+factor+for+many+diseases+\u2013+Jan+2011",
-    "/1228"
-  ],
-  "tiki_page_id": 1228,
-  "date": "2010-12-12",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Health"
-  ]
+    "title": "Vitamin D deficiency is a risk factor for many diseases",
+    "slug": "vitamin-d-deficiency-is-a-risk-factor-for-many-diseases",
+    "aliases": [
+        "/Vitamin+D+deficiency+is+a+risk+factor+for+many+diseases+\u2013+Jan+2011",
+        "/1228"
+    ],
+    "tiki_page_id": 1228,
+    "date": "2010-12-12",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Health"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Health",
+        "atherosclerosis",
+        "bone",
+        "cardiovascular",
+        "genetics",
+        "heart failure",
+        "life span",
+        "mortality",
+        "rickets",
+        "stroke",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -45,4 +60,3 @@ Results from observational, intervention and mechanistic studies indicate that v
 * <a href="/posts/vitamin-d-in-atherosclerosis-vascular-disease-and-endothelial-function" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1229">Vitamin d in atherosclerosis, vascular disease, and endothelial function</a>
 
 * [Editorial on Vitamin D deficiency– Current Drug topics – Jan 2011](/posts/editorial-on-vitamin-d-deficiency-current-drug-topics)
-

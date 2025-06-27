@@ -1,16 +1,28 @@
 {
-  "title": "Heart Failure associated with vitamin D deficiency",
-  "slug": "heart-failure-associated-with-vitamin-d-deficiency",
-  "aliases": [
-    "/Heart+Failure+associated+with+vitamin+D+deficiency+\u2013+Feb+2011",
-    "/1551"
-  ],
-  "tiki_page_id": 1551,
-  "date": "2011-04-01",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Cardiovascular"
-  ]
+    "title": "Heart Failure associated with vitamin D deficiency",
+    "slug": "heart-failure-associated-with-vitamin-d-deficiency",
+    "aliases": [
+        "/Heart+Failure+associated+with+vitamin+D+deficiency+\u2013+Feb+2011",
+        "/1551"
+    ],
+    "tiki_page_id": 1551,
+    "date": "2011-04-01",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Deficiency of Vitamin D",
+        "cardiovascular",
+        "genetics",
+        "heart failure",
+        "life span",
+        "mortality",
+        "stroke",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -89,4 +101,3 @@ PMID: 21304056
 * [Heart Failure associated with vitamin D deficiency – Feb 2011](/posts/heart-failure-associated-with-vitamin-d-deficiency)
 
 * [96 percent of heart failure patients had less than 30 ng of vitamin D – March 2011](/posts/96-percent-of-heart-failure-patients-had-less-than-30-ng-of-vitamin-d)
-

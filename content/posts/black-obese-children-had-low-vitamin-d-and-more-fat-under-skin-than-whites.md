@@ -1,17 +1,32 @@
 {
-  "title": "Black obese children had low vitamin D and more fat under skin than whites",
-  "slug": "black-obese-children-had-low-vitamin-d-and-more-fat-under-skin-than-whites",
-  "aliases": [
-    "/Black+obese+children+had+low+vitamin+D+and+more+fat+under+skin+than+whites+\u2013+Mar+2011",
-    "/1459"
-  ],
-  "tiki_page_id": 1459,
-  "date": "2011-03-04",
-  "categories": [
-    "Skin - Dark",
-    "Obesity",
-    "Youth"
-  ]
+    "title": "Black obese children had low vitamin D and more fat under skin than whites",
+    "slug": "black-obese-children-had-low-vitamin-d-and-more-fat-under-skin-than-whites",
+    "aliases": [
+        "/Black+obese+children+had+low+vitamin+D+and+more+fat+under+skin+than+whites+\u2013+Mar+2011",
+        "/1459"
+    ],
+    "tiki_page_id": 1459,
+    "date": "2011-03-04",
+    "categories": [
+        "Skin - Dark",
+        "Obesity",
+        "Youth"
+    ],
+    "tags": [
+        "Obesity",
+        "Skin - Dark",
+        "Youth",
+        "blood levels",
+        "child",
+        "childhood obesity",
+        "cholesterol",
+        "diabetes",
+        "health risk",
+        "metabolic",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,15 +1,21 @@
 {
-  "title": "Better Hip Resurfacing after vitamin D levels had been normalized",
-  "slug": "better-hip-resurfacing-after-vitamin-d-levels-had-been-normalized",
-  "aliases": [
-    "/Better+Hip+Resurfacing+after+vitamin+D+levels+had+been+normalized+\u2013+March+2011",
-    "/1500"
-  ],
-  "tiki_page_id": 1500,
-  "date": "2011-03-20",
-  "categories": [
-    "Osteoporosis"
-  ]
+    "title": "Better Hip Resurfacing after vitamin D levels had been normalized",
+    "slug": "better-hip-resurfacing-after-vitamin-d-levels-had-been-normalized",
+    "aliases": [
+        "/Better+Hip+Resurfacing+after+vitamin+D+levels+had+been+normalized+\u2013+March+2011",
+        "/1500"
+    ],
+    "tiki_page_id": 1500,
+    "date": "2011-03-20",
+    "categories": [
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "bone",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
 
 
@@ -25,5 +31,4 @@ The success of hip resurfacing in  **younger patients with primary osteoarthriti
 
 Copyright © 2011 Elsevier Inc. All rights reserved.
 
-PMID: 21414743 
-
+PMID: 21414743

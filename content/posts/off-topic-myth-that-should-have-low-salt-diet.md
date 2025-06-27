@@ -1,17 +1,32 @@
 {
-  "title": "Off topic \u2013 myth that should have low salt diet",
-  "slug": "off-topic-myth-that-should-have-low-salt-diet",
-  "aliases": [
-    "/Off+topic+\u2013+myth+that+should+have+low+salt+diet",
-    "/1608"
-  ],
-  "tiki_page_id": 1608,
-  "date": "2011-05-06",
-  "categories": [
-    "Off Topic",
-    "Iodine"
-  ]
+    "title": "Off topic \u2013 myth that should have low salt diet",
+    "slug": "off-topic-myth-that-should-have-low-salt-diet",
+    "aliases": [
+        "/Off+topic+\u2013+myth+that+should+have+low+salt+diet",
+        "/1608"
+    ],
+    "tiki_page_id": 1608,
+    "date": "2011-05-06",
+    "categories": [
+        "Off Topic",
+        "Iodine"
+    ],
+    "tags": [
+        "Iodine",
+        "Off Topic",
+        "cardiovascular",
+        "hypertension",
+        "iodine",
+        "life span",
+        "magnesium",
+        "magnesium and pregnancy",
+        "mortality",
+        "pregnancy",
+        "stroke",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -88,11 +103,11 @@ Rather than create drastic salt policies based on conflicting data, Alderman and
 
 #### See also VitaminDWiki
 
-* <a href="/posts/increased-salt-consumption-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2737">Increased salt consumption decreased vitamin D</a>
+* [Increased salt consumption decreased vitamin D](/posts/increased-salt-consumption-decreased-vitamin-d)
 
 > decreases effectiveness of vitamin D by depleting <a href="/posts/magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Magnesium</a> and <a href="/posts/calcium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1446">Calcium</a> <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactors</a>
 
-* <a href="/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Iodine are similar, and both are deficient and important to health">Vitamin D and Iodine are similar, and both are deficient and important to health</a>
+* [Vitamin D and Iodine are similar, and both are deficient and important to health](/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health)
 
 * <a href="/posts/off-topic-hypertension-in-42-percent-of-adults-new-definition-130-mm-hg" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic – Hypertension in 42 percent of adults (new definition: 130 mm Hg) – Feb 2018">Off Topic – Hypertension in 42 percent of adults (new definition: 130 mm Hg) – Feb 2018</a>
 
@@ -122,4 +137,4 @@ Rather than create drastic salt policies based on conflicting data, Alderman and
 | 23 grams | Zurich, Switzerland date? |
 | 25 grams | Ancient Romans |
 | 50 grams | Danes 16th century.   |
-| Almost 100 grams | Sweden 1500s |** 
+| Almost 100 grams | Sweden 1500s |**

@@ -1,15 +1,22 @@
 {
-  "title": "Cholesterol is needed to produce both Vitamin D and Cortisol",
-  "slug": "cholesterol-is-needed-to-produce-both-vitamin-d-and-cortisol",
-  "aliases": [
-    "/Cholesterol+is+needed+to+produce+both+Vitamin+D+and+Cortisol",
-    "/1915"
-  ],
-  "tiki_page_id": 1915,
-  "date": "2011-08-13",
-  "categories": [
-    "Cholesterol"
-  ]
+    "title": "Cholesterol is needed to produce both Vitamin D and Cortisol",
+    "slug": "cholesterol-is-needed-to-produce-both-vitamin-d-and-cortisol",
+    "aliases": [
+        "/Cholesterol+is+needed+to+produce+both+Vitamin+D+and+Cortisol",
+        "/1915"
+    ],
+    "tiki_page_id": 1915,
+    "date": "2011-08-13",
+    "categories": [
+        "Cholesterol"
+    ],
+    "tags": [
+        "Cholesterol",
+        "cholesterol",
+        "health risk",
+        "immunity",
+        "vitamin d"
+    ]
 }
 
 

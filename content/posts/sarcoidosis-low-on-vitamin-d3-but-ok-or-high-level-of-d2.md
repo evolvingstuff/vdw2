@@ -1,15 +1,28 @@
 {
-  "title": "Sarcoidosis \u2013 low on vitamin D3 but OK or high level of D2",
-  "slug": "sarcoidosis-low-on-vitamin-d3-but-ok-or-high-level-of-d2",
-  "aliases": [
-    "/Sarcoidosis+\u2013+low+on+vitamin+D3+but+OK+or+high+level+of+D2\u2013+Feb+2011",
-    "/1416"
-  ],
-  "tiki_page_id": 1416,
-  "date": "2011-02-18",
-  "categories": [
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Sarcoidosis \u2013 low on vitamin D3 but OK or high level of D2",
+    "slug": "sarcoidosis-low-on-vitamin-d3-but-ok-or-high-level-of-d2",
+    "aliases": [
+        "/Sarcoidosis+\u2013+low+on+vitamin+D3+but+OK+or+high+level+of+D2\u2013+Feb+2011",
+        "/1416"
+    ],
+    "tiki_page_id": 1416,
+    "date": "2011-02-18",
+    "categories": [
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Vitamin D3 instead of D2",
+        "autoimmune",
+        "bacteria",
+        "bone",
+        "high dose",
+        "immunity",
+        "intervention",
+        "osteoporosis",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d"
+    ]
 }
 
 

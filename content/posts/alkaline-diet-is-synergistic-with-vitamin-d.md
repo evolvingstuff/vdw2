@@ -1,15 +1,26 @@
 {
-  "title": "Alkaline diet is synergistic with vitamin D",
-  "slug": "alkaline-diet-is-synergistic-with-vitamin-d",
-  "aliases": [
-    "/Alkaline+diet+is+synergistic+with+vitamin+D+\u2013+Oct+2011",
-    "/2156"
-  ],
-  "tiki_page_id": 2156,
-  "date": "2011-11-06",
-  "categories": [
-    "Food sources for Vitamin D"
-  ]
+    "title": "Alkaline diet is synergistic with vitamin D",
+    "slug": "alkaline-diet-is-synergistic-with-vitamin-d",
+    "aliases": [
+        "/Alkaline+diet+is+synergistic+with+vitamin+D+\u2013+Oct+2011",
+        "/2156"
+    ],
+    "tiki_page_id": 2156,
+    "date": "2011-11-06",
+    "categories": [
+        "Food sources for Vitamin D"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "back pain",
+        "life span",
+        "magnesium",
+        "mortality",
+        "pain",
+        "vitamin d",
+        "vitamin k",
+        "zinc"
+    ]
 }
 
 
@@ -62,4 +73,3 @@ Both are synergistic and vitamin D
 | <a href="/posts/silica" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1506">Silica</a> |  | Yes | no | ?   |  |
 | <a href="/posts/strontium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1272">Strontium</a> |  | Yes  | no | ?  | rarely available   |
 | Zinc  |  | Yes | maybe | ? |  |
-

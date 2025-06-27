@@ -1,15 +1,25 @@
 {
-  "title": "Profound vitamin D deficiency during pregnancy",
-  "slug": "profound-vitamin-d-deficiency-during-pregnancy",
-  "aliases": [
-    "/Profound+vitamin+D+deficiency+during+pregnancy+-+Dec+2010",
-    "/1248"
-  ],
-  "tiki_page_id": 1248,
-  "date": "2010-12-17",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Profound vitamin D deficiency during pregnancy",
+    "slug": "profound-vitamin-d-deficiency-during-pregnancy",
+    "aliases": [
+        "/Profound+vitamin+D+deficiency+during+pregnancy+-+Dec+2010",
+        "/1248"
+    ],
+    "tiki_page_id": 1248,
+    "date": "2010-12-17",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "diabetes",
+        "hypertension",
+        "metabolic",
+        "miscarriage",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

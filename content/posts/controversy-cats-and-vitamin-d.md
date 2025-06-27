@@ -1,16 +1,31 @@
 {
-  "title": "Controversy cats and vitamin D",
-  "slug": "controversy-cats-and-vitamin-d",
-  "aliases": [
-    "/Controversy+cats+and+vitamin+D",
-    "/2043"
-  ],
-  "tiki_page_id": 2043,
-  "date": "2011-09-27",
-  "categories": [
-    "Veterinary and Vitamin D"
-  ]
+    "title": "Controversy cats and vitamin D",
+    "slug": "controversy-cats-and-vitamin-d",
+    "aliases": [
+        "/Controversy+cats+and+vitamin+D",
+        "/2043"
+    ],
+    "tiki_page_id": 2043,
+    "date": "2011-09-27",
+    "categories": [
+        "Veterinary and Vitamin D"
+    ],
+    "tags": [
+        "Veterinary and Vitamin D",
+        "bone",
+        "brain",
+        "cognitive",
+        "influenza",
+        "magnesium",
+        "magnesium and viruses",
+        "rickets",
+        "virus",
+        "virus and cognitive",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 {{< toc >}}
 

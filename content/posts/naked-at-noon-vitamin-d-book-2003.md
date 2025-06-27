@@ -1,17 +1,41 @@
 {
-  "title": "Naked at Noon - vitamin D book - 2003",
-  "slug": "naked-at-noon-vitamin-d-book-2003",
-  "aliases": [
-    "/Naked+at+Noon+-+vitamin+D+book+-+2003",
-    "/1246"
-  ],
-  "tiki_page_id": 1246,
-  "date": "2010-12-17",
-  "categories": [
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Naked at Noon - vitamin D book - 2003",
+    "slug": "naked-at-noon-vitamin-d-book-2003",
+    "aliases": [
+        "/Naked+at+Noon+-+vitamin+D+book+-+2003",
+        "/1246"
+    ],
+    "tiki_page_id": 1246,
+    "date": "2010-12-17",
+    "categories": [
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "autoimmune",
+        "cancer",
+        "cancer in VDR",
+        "cataracts",
+        "depression",
+        "genetics",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "intervention",
+        "mood disorders",
+        "multiple sclerosis",
+        "skin cancer",
+        "therapeutic intervention",
+        "ultraviolet light",
+        "virus",
+        "viruses and vitamin d receptor",
+        "vision",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
-
 
 
 http://www.sunlightandvitamind.com/
@@ -289,4 +313,3 @@ STUDIES WAITING TO BE DONE .....................................................
 ERRORS AND UPDATES ........................................................................................................... 227
 
 DEAR DOCTOR ........................................................................................................................ 228
-

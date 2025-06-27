@@ -1,12 +1,23 @@
 {
-  "title": "Vitamin D associated with personality types of Extrovert and open",
-  "slug": "vitamin-d-associated-with-personality-types-of-extrovert-and-open",
-  "aliases": [
-    "/Vitamin+D+associated+with+personality+types+of+Extrovert+and+open+\u2013+Jan+2011",
-    "/1531"
-  ],
-  "tiki_page_id": 1531,
-  "date": "2011-03-30"
+    "title": "Vitamin D associated with personality types of Extrovert and open",
+    "slug": "vitamin-d-associated-with-personality-types-of-extrovert-and-open",
+    "aliases": [
+        "/Vitamin+D+associated+with+personality+types+of+Extrovert+and+open+\u2013+Jan+2011",
+        "/1531"
+    ],
+    "tiki_page_id": 1531,
+    "date": "2011-03-30",
+    "tags": [
+        "bipolar disorder",
+        "brain",
+        "cognitive",
+        "depression",
+        "genetics",
+        "mood disorders",
+        "neurological",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -31,4 +42,3 @@ CONCLUSION: The possible mechanisms by which 1,25(OH)(2)D(3) acts on the brain m
 #### See also
 
 * <a href="/posts/higher-conscientiousness-extraversion-related-to-higher-vitamin-d-in-seniors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Higher conscientiousness, extraversion related to higher vitamin D in seniors – Feb 2023">Higher conscientiousness, extraversion related to higher vitamin D in seniors – Feb 2023</a>
-

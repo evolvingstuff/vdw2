@@ -1,16 +1,29 @@
 {
-  "title": "Calcium can create heart problems - vitamin D neutral",
-  "slug": "calcium-can-create-heart-problems-vitamin-d-neutral",
-  "aliases": [
-    "/Calcium+can+create+heart+problems+-+vitamin+D+neutral+-+Aug+2011",
-    "/1939"
-  ],
-  "tiki_page_id": 1939,
-  "date": "2011-08-23",
-  "categories": [
-    "How much Vitamin D",
-    "Cardiovascular"
-  ]
+    "title": "Calcium can create heart problems - vitamin D neutral",
+    "slug": "calcium-can-create-heart-problems-vitamin-d-neutral",
+    "aliases": [
+        "/Calcium+can+create+heart+problems+-+vitamin+D+neutral+-+Aug+2011",
+        "/1939"
+    ],
+    "tiki_page_id": 1939,
+    "date": "2011-08-23",
+    "categories": [
+        "How much Vitamin D",
+        "Cardiovascular"
+    ],
+    "tags": [
+        "CKD",
+        "Cardiovascular",
+        "How much Vitamin D",
+        "blood levels",
+        "bone",
+        "dosage",
+        "kidney",
+        "life span",
+        "mortality",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -79,4 +92,3 @@ PMID:     21856593
 [What is the best balance of benefits and risks among anti-resorptive therapies for postmenopausal osteoporosis?](http://www.ncbi.nlm.nih.gov/pubmed/20309524)
 
 "Supplementation with calcium and vitamin D is recommended for all women aged 50 years and older."
-

@@ -1,16 +1,28 @@
 {
-  "title": "Book on Sports and vitamin D",
-  "slug": "book-on-sports-and-vitamin-d",
-  "aliases": [
-    "/Book+on+Sports+and+vitamin+D+-+Aug+2011",
-    "/1907"
-  ],
-  "tiki_page_id": 1907,
-  "date": "2011-08-09",
-  "categories": [
-    "Sports and Vitamin D",
-    "Books, videos on Vitamin D"
-  ]
+    "title": "Book on Sports and vitamin D",
+    "slug": "book-on-sports-and-vitamin-d",
+    "aliases": [
+        "/Book+on+Sports+and+vitamin+D+-+Aug+2011",
+        "/1907"
+    ],
+    "tiki_page_id": 1907,
+    "date": "2011-08-09",
+    "categories": [
+        "Sports and Vitamin D",
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D",
+        "Sports and Vitamin D",
+        "bone",
+        "brain",
+        "cognitive",
+        "dosage",
+        "falls fractures",
+        "immunity",
+        "magnesium",
+        "vitamin d"
+    ]
 }
 
 

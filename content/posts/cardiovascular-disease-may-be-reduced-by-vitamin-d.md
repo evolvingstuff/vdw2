@@ -1,15 +1,30 @@
 {
-  "title": "Cardiovascular disease may be reduced by vitamin D",
-  "slug": "cardiovascular-disease-may-be-reduced-by-vitamin-d",
-  "aliases": [
-    "/Cardiovascular+disease+may+be+reduced+by+vitamin+D+\u2013+June+2011",
-    "/1833"
-  ],
-  "tiki_page_id": 1833,
-  "date": "2011-07-14",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Cardiovascular disease may be reduced by vitamin D",
+    "slug": "cardiovascular-disease-may-be-reduced-by-vitamin-d",
+    "aliases": [
+        "/Cardiovascular+disease+may+be+reduced+by+vitamin+D+\u2013+June+2011",
+        "/1833"
+    ],
+    "tiki_page_id": 1833,
+    "date": "2011-07-14",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "bone",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "hypertension",
+        "life span",
+        "metabolic",
+        "mortality",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -62,4 +77,3 @@ PMID:     21682758
 * [Calcium can create heart problems - vitamin D neutral - Aug 2011](/posts/calcium-can-create-heart-problems-vitamin-d-neutral)
 
 * [All items in Cardiovascular and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&sort_mode=created_desc) 135 items as of Oct 2011
-

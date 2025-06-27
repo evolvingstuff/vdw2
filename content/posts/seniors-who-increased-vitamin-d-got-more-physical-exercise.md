@@ -1,15 +1,21 @@
 {
-  "title": "Seniors who increased vitamin D got more physical exercise",
-  "slug": "seniors-who-increased-vitamin-d-got-more-physical-exercise",
-  "aliases": [
-    "/Seniors+who+increased+vitamin+D+got+more+physical+exercise+\u2013+Feb+2011",
-    "/1418"
-  ],
-  "tiki_page_id": 1418,
-  "date": "2011-02-18",
-  "categories": [
-    "Seniors"
-  ]
+    "title": "Seniors who increased vitamin D got more physical exercise",
+    "slug": "seniors-who-increased-vitamin-d-got-more-physical-exercise",
+    "aliases": [
+        "/Seniors+who+increased+vitamin+D+got+more+physical+exercise+\u2013+Feb+2011",
+        "/1418"
+    ],
+    "tiki_page_id": 1418,
+    "date": "2011-02-18",
+    "categories": [
+        "Seniors"
+    ],
+    "tags": [
+        "Seniors",
+        "blood levels",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -58,4 +64,3 @@ The researchers controlled for physical activity, and alluding to the idea that 
 * <a href="/posts/overweight-and-elderly-both-sunbathe-less-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 973">Overweight and elderly both sunbathe less - 2009</a>
 
 * <a href="/posts/elderly-often-trapped-in-vitamin-d-vicious-circles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 884">Elderly often trapped in vitamin D vicious circles</a> getting outdoor breaks those downward circles
-

@@ -1,16 +1,34 @@
 {
-  "title": "Low vitamin D associated with lipids but uncertain if more D helps",
-  "slug": "low-vitamin-d-associated-with-lipids-but-uncertain-if-more-d-helps",
-  "aliases": [
-    "/Low+vitamin+D+associated+with+lipids+but+uncertain+if+more+D+helps+\u2013+May+2011",
-    "/1708"
-  ],
-  "tiki_page_id": 1708,
-  "date": "2011-06-07",
-  "categories": [
-    "Cholesterol"
-  ]
+    "title": "Low vitamin D associated with lipids but uncertain if more D helps",
+    "slug": "low-vitamin-d-associated-with-lipids-but-uncertain-if-more-d-helps",
+    "aliases": [
+        "/Low+vitamin+D+associated+with+lipids+but+uncertain+if+more+D+helps+\u2013+May+2011",
+        "/1708"
+    ],
+    "tiki_page_id": 1708,
+    "date": "2011-06-07",
+    "categories": [
+        "Cholesterol"
+    ],
+    "tags": [
+        "Cholesterol",
+        "cholesterol",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "health risk",
+        "hypertension",
+        "life span",
+        "metabolic",
+        "mortality",
+        "obesity",
+        "obesity and vitamin d receptor",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 &nbsp;
 

@@ -1,16 +1,25 @@
 {
-  "title": "Majority of animal bone fractures healed more quickly with vitamin D",
-  "slug": "majority-of-animal-bone-fractures-healed-more-quickly-with-vitamin-d",
-  "aliases": [
-    "/Majority+of+animal+bone+fractures+healed+more+quickly+with+vitamin+D+\u2013+May+2011",
-    "/1673"
-  ],
-  "tiki_page_id": 1673,
-  "date": "2011-05-27",
-  "categories": [
-    "Osteoporosis",
-    "Falls and Fractures"
-  ]
+    "title": "Majority of animal bone fractures healed more quickly with vitamin D",
+    "slug": "majority-of-animal-bone-fractures-healed-more-quickly-with-vitamin-d",
+    "aliases": [
+        "/Majority+of+animal+bone+fractures+healed+more+quickly+with+vitamin+D+\u2013+May+2011",
+        "/1673"
+    ],
+    "tiki_page_id": 1673,
+    "date": "2011-05-27",
+    "categories": [
+        "Osteoporosis",
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "Osteoporosis",
+        "bone",
+        "bone stress fractures",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

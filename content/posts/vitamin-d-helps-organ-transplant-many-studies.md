@@ -1,19 +1,44 @@
 {
-  "title": "Vitamin D helps organ transplant - many studies",
-  "slug": "vitamin-d-helps-organ-transplant-many-studies",
-  "aliases": [
-    "/Vitamin+D+helps+organ+transplant+-+many+studies",
-    "/1288"
-  ],
-  "tiki_page_id": 1288,
-  "date": "2011-01-06",
-  "categories": [
-    "Cardiovascular",
-    "Liver",
-    "Kidney",
-    "Trauma and surgery"
-  ]
+    "title": "Vitamin D helps organ transplant - many studies",
+    "slug": "vitamin-d-helps-organ-transplant-many-studies",
+    "aliases": [
+        "/Vitamin+D+helps+organ+transplant+-+many+studies",
+        "/1288"
+    ],
+    "tiki_page_id": 1288,
+    "date": "2011-01-06",
+    "categories": [
+        "Cardiovascular",
+        "Liver",
+        "Kidney",
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Kidney",
+        "Liver",
+        "Trauma and surgery",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "cancer",
+        "cancer in VDR",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "immunity",
+        "life span",
+        "metabolic",
+        "mortality",
+        "osteoporosis",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 {{< toc >}}
 

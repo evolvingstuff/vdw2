@@ -1,15 +1,23 @@
 {
-  "title": "No reduction in Breast Cancer when vitamin D less than 40 ng",
-  "slug": "no-reduction-in-breast-cancer-when-vitamin-d-less-than-40-ng",
-  "aliases": [
-    "/No+reduction+in+Breast+Cancer+when+vitamin+D+less+than+40+ng+-+May+2011",
-    "/1631"
-  ],
-  "tiki_page_id": 1631,
-  "date": "2011-05-15",
-  "categories": [
-    "Cancer - Breast"
-  ]
+    "title": "No reduction in Breast Cancer when vitamin D less than 40 ng",
+    "slug": "no-reduction-in-breast-cancer-when-vitamin-d-less-than-40-ng",
+    "aliases": [
+        "/No+reduction+in+Breast+Cancer+when+vitamin+D+less+than+40+ng+-+May+2011",
+        "/1631"
+    ],
+    "tiki_page_id": 1631,
+    "date": "2011-05-15",
+    "categories": [
+        "Cancer - Breast"
+    ],
+    "tags": [
+        "Cancer - Breast",
+        "blood levels",
+        "breast cancer",
+        "cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,16 +1,24 @@
 {
-  "title": "Men 2X more likely to get pancreatic cancer if low Vitamin D food intake",
-  "slug": "men-2x-more-likely-to-get-pancreatic-cancer-if-low-vitamin-d-food-intake",
-  "aliases": [
-    "/Men+2X+more+likely+to+get+pancreatic+cancer+if+low+Vitamin+D+food+intake+\u2013+Nov+2010",
-    "/1182"
-  ],
-  "tiki_page_id": 1182,
-  "date": "2010-11-26",
-  "categories": [
-    "Cancer - Pancreatic"
-  ]
+    "title": "Men 2X more likely to get pancreatic cancer if low Vitamin D food intake",
+    "slug": "men-2x-more-likely-to-get-pancreatic-cancer-if-low-vitamin-d-food-intake",
+    "aliases": [
+        "/Men+2X+more+likely+to+get+pancreatic+cancer+if+low+Vitamin+D+food+intake+\u2013+Nov+2010",
+        "/1182"
+    ],
+    "tiki_page_id": 1182,
+    "date": "2010-11-26",
+    "categories": [
+        "Cancer - Pancreatic"
+    ],
+    "tags": [
+        "Cancer - Pancreatic",
+        "cancer",
+        "dosage",
+        "pancreatic cancer",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

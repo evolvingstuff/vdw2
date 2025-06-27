@@ -1,15 +1,19 @@
 {
-  "title": "Want to get vitamin D from the sun - there are many apps for that",
-  "slug": "want-to-get-vitamin-d-from-the-sun-there-are-many-apps-for-that",
-  "aliases": [
-    "/Want+to+get+vitamin+D+from+the+sun+-+there+are+many+apps+for+that",
-    "/1119"
-  ],
-  "tiki_page_id": 1119,
-  "date": "2010-11-05",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "Want to get vitamin D from the sun - there are many apps for that",
+    "slug": "want-to-get-vitamin-d-from-the-sun-there-are-many-apps-for-that",
+    "aliases": [
+        "/Want+to+get+vitamin+D+from+the+sun+-+there+are+many+apps+for+that",
+        "/1119"
+    ],
+    "tiki_page_id": 1119,
+    "date": "2010-11-05",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "vitamin d"
+    ]
 }
 
 

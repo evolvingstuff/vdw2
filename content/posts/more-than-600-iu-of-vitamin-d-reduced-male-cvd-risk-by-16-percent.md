@@ -1,15 +1,24 @@
 {
-  "title": "More than 600 IU of vitamin D reduced male CVD risk by 16 percent",
-  "slug": "more-than-600-iu-of-vitamin-d-reduced-male-cvd-risk-by-16-percent",
-  "aliases": [
-    "/More+than+600+IU+of+vitamin+D+reduced+male+CVD+risk+by+16+percent+\u2013+June+2011",
-    "/1726"
-  ],
-  "tiki_page_id": 1726,
-  "date": "2011-06-13",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "More than 600 IU of vitamin D reduced male CVD risk by 16 percent",
+    "slug": "more-than-600-iu-of-vitamin-d-reduced-male-cvd-risk-by-16-percent",
+    "aliases": [
+        "/More+than+600+IU+of+vitamin+D+reduced+male+CVD+risk+by+16+percent+\u2013+June+2011",
+        "/1726"
+    ],
+    "tiki_page_id": 1726,
+    "date": "2011-06-13",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "cancer",
+        "cardiovascular",
+        "dosage",
+        "omega 3",
+        "stroke",
+        "vitamin d"
+    ]
 }
 
 

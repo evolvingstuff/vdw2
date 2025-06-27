@@ -1,15 +1,20 @@
 {
-  "title": "Body tries to activate more vitamin D when it needs more Calcium from gut",
-  "slug": "body-tries-to-activate-more-vitamin-d-when-it-needs-more-calcium-from-gut",
-  "aliases": [
-    "/Body+tries+to+activate+more+vitamin+D+when+it+needs+more+Calcium+from+gut+\u2013+Aug+2011",
-    "/1942"
-  ],
-  "tiki_page_id": 1942,
-  "date": "2011-08-24",
-  "categories": [
-    "Vitamin D and Calcium"
-  ]
+    "title": "Body tries to activate more vitamin D when it needs more Calcium from gut",
+    "slug": "body-tries-to-activate-more-vitamin-d-when-it-needs-more-calcium-from-gut",
+    "aliases": [
+        "/Body+tries+to+activate+more+vitamin+D+when+it+needs+more+Calcium+from+gut+\u2013+Aug+2011",
+        "/1942"
+    ],
+    "tiki_page_id": 1942,
+    "date": "2011-08-24",
+    "categories": [
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "Vitamin D and Calcium",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -33,9 +38,8 @@ PMID:     21861106
 
 # See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-and-calcium-absorption" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 993">Vitamin D and Calcium Absorption – Sept 2010</a> 
+* [Vitamin D and Calcium Absorption – Sept 2010](/posts/vitamin-d-and-calcium-absorption) 
 
 * [All items Calcium and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=53&sort_mode=created_desc) 82 items as of Nov 2011
 
 * <a href="/posts/must-balance-co-factors-when-increasing-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1936">Must balance co-factors when increasing vitamin D</a>
-

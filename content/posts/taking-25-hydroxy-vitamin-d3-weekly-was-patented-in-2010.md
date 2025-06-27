@@ -1,13 +1,18 @@
 {
-  "title": "Taking 25-Hydroxy vitamin D3 weekly was patented in 2010",
-  "slug": "taking-25-hydroxy-vitamin-d3-weekly-was-patented-in-2010",
-  "aliases": [
-    "/Taking+25-Hydroxy+vitamin+D3+weekly+was+patented+in+2010",
-    "/1795"
-  ],
-  "tiki_page_id": 1795,
-  "date": "2011-07-04"
+    "title": "Taking 25-Hydroxy vitamin D3 weekly was patented in 2010",
+    "slug": "taking-25-hydroxy-vitamin-d3-weekly-was-patented-in-2010",
+    "aliases": [
+        "/Taking+25-Hydroxy+vitamin+D3+weekly+was+patented+in+2010",
+        "/1795"
+    ],
+    "tiki_page_id": 1795,
+    "date": "2011-07-04",
+    "tags": [
+        "dosage",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

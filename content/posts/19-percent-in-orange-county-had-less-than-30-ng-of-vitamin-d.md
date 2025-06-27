@@ -1,15 +1,40 @@
 {
-  "title": "19 percent in Orange County had less than 30 ng of vitamin D",
-  "slug": "19-percent-in-orange-county-had-less-than-30-ng-of-vitamin-d",
-  "aliases": [
-    "/19+percent+in+Orange+County+had+less+than+30+ng+of+vitamin+D+\u2013+Feb+2011",
-    "/1415"
-  ],
-  "tiki_page_id": 1415,
-  "date": "2011-02-18",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "19 percent in Orange County had less than 30 ng of vitamin D",
+    "slug": "19-percent-in-orange-county-had-less-than-30-ng-of-vitamin-d",
+    "aliases": [
+        "/19+percent+in+Orange+County+had+less+than+30+ng+of+vitamin+D+\u2013+Feb+2011",
+        "/1415"
+    ],
+    "tiki_page_id": 1415,
+    "date": "2011-02-18",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "cancer",
+        "cholesterol",
+        "colon cancer",
+        "diabetes",
+        "health risk",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "pregnancy",
+        "skin cancer",
+        "smoking",
+        "therapeutic intervention",
+        "vitamin d",
+        "weight loss",
+        "zinc"
+    ]
 }
 
 
@@ -86,4 +111,3 @@ PMID: 21327501
 ## Many researchers attending a conference in 2009 recommended vitamin D levels between 30 to 100 ng
 
 {IMG(attId="355"max="400")}{IMG}
-

@@ -1,16 +1,60 @@
 {
-  "title": "Why You Need More Vitamin D. A Lot More",
-  "slug": "why-you-need-more-vitamin-d-a-lot-more",
-  "aliases": [
-    "/Why+You+Need+More+Vitamin+D+A+Lot+More+-+Sept+2011",
-    "/2024"
-  ],
-  "tiki_page_id": 2024,
-  "date": "2011-09-21",
-  "categories": [
-    "About D - more info."
-  ]
+    "title": "Why You Need More Vitamin D. A Lot More",
+    "slug": "why-you-need-more-vitamin-d-a-lot-more",
+    "aliases": [
+        "/Why+You+Need+More+Vitamin+D+A+Lot+More+-+Sept+2011",
+        "/2024"
+    ],
+    "tiki_page_id": 2024,
+    "date": "2011-09-21",
+    "categories": [
+        "About D - more info."
+    ],
+    "tags": [
+        "About D - more info.",
+        "IBD",
+        "asthma",
+        "autoimmune",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood pneumonia",
+        "childhood viruses",
+        "colon cancer",
+        "cystic fibrosis",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "gut",
+        "high dose",
+        "immunity",
+        "influenza",
+        "intervention",
+        "life span",
+        "melanoma",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "pain",
+        "pediatric autoimmune",
+        "pneumonia",
+        "rheumatoid arthritis",
+        "skin cancer",
+        "therapeutic intervention",
+        "tuberculosis",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
+
 
 From [Orthomolecular/org](http://orthomolecular.org/resources/omns/v07n07.shtml)
 

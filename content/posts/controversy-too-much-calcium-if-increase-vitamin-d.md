@@ -1,19 +1,29 @@
 {
-  "title": "Controversy: Too much Calcium if increase Vitamin D",
-  "slug": "controversy-too-much-calcium-if-increase-vitamin-d",
-  "aliases": [
-    "/Controversy+Too+much+Calcium+if+increase+Vitamin+D",
-    "/1550"
-  ],
-  "tiki_page_id": 1550,
-  "date": "2011-04-01",
-  "categories": [
-    "How much Vitamin D",
-    "Seniors",
-    "Toxicity of Vitamin D",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Controversy: Too much Calcium if increase Vitamin D",
+    "slug": "controversy-too-much-calcium-if-increase-vitamin-d",
+    "aliases": [
+        "/Controversy+Too+much+Calcium+if+increase+Vitamin+D",
+        "/1550"
+    ],
+    "tiki_page_id": 1550,
+    "date": "2011-04-01",
+    "categories": [
+        "How much Vitamin D",
+        "Seniors",
+        "Toxicity of Vitamin D",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Seniors",
+        "Toxicity of Vitamin D",
+        "Vitamin D and Calcium",
+        "blood levels",
+        "dosage",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

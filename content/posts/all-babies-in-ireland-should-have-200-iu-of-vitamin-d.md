@@ -1,16 +1,23 @@
 {
-  "title": "All babies in Ireland should have 200 IU of vitamin D",
-  "slug": "all-babies-in-ireland-should-have-200-iu-of-vitamin-d",
-  "aliases": [
-    "/All+babies+in+Ireland+should+have+200+IU+of+vitamin+D+-+Feb+2011",
-    "/1427"
-  ],
-  "tiki_page_id": 1427,
-  "date": "2011-02-22",
-  "categories": [
-    "Vitamin D in Europe",
-    "Infant-Child"
-  ]
+    "title": "All babies in Ireland should have 200 IU of vitamin D",
+    "slug": "all-babies-in-ireland-should-have-200-iu-of-vitamin-d",
+    "aliases": [
+        "/All+babies+in+Ireland+should+have+200+IU+of+vitamin+D+-+Feb+2011",
+        "/1427"
+    ],
+    "tiki_page_id": 1427,
+    "date": "2011-02-22",
+    "categories": [
+        "Vitamin D in Europe",
+        "Infant-Child"
+    ],
+    "tags": [
+        "Infant-Child",
+        "Vitamin D in Europe",
+        "child",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

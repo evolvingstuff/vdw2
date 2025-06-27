@@ -1,17 +1,47 @@
 {
-  "title": "Overview Influenza and vitamin D",
-  "slug": "overview-influenza-and-vitamin-d",
-  "aliases": [
-    "/Overview+Influenza+and+vitamin+D",
-    "/1304"
-  ],
-  "tiki_page_id": 1304,
-  "date": "2011-01-08",
-  "categories": [
-    "Overviews",
-    "Virus"
-  ]
+    "title": "Overview Influenza and vitamin D",
+    "slug": "overview-influenza-and-vitamin-d",
+    "aliases": [
+        "/Overview+Influenza+and+vitamin+D",
+        "/1304"
+    ],
+    "tiki_page_id": 1304,
+    "date": "2011-01-08",
+    "categories": [
+        "Overviews",
+        "Virus"
+    ],
+    "tags": [
+        "Overviews",
+        "Virus",
+        "bone",
+        "breathing",
+        "child",
+        "childhood obesity",
+        "childhood pneumonia",
+        "childhood respiratory",
+        "childhood vaccination",
+        "childhood viruses",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "influenza",
+        "life span",
+        "mortality",
+        "obesity",
+        "pneumonia",
+        "pregnancy",
+        "respiratory",
+        "vaccination",
+        "vaccination and pregnancy",
+        "virus",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -39,7 +69,7 @@
 
 * [Higher BMI need more vitamin D – Oct 2010](/posts/higher-bmi-need-more-vitamin-d)
 
-* <a href="/posts/3x-more-colds-by-overweight-who-were-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2685">3X more colds by overweight who were low on vitamin D - April 2012</a>
+* [3X more colds by overweight who were low on vitamin D - April 2012](/posts/3x-more-colds-by-overweight-who-were-low-on-vitamin-d)
 
 * More than half afflicted with H1N1 in 2009 were  **<span style="color:#00F;">obese </span>** – Jan 2011
 

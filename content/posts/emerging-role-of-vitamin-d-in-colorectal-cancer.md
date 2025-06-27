@@ -1,16 +1,26 @@
 {
-  "title": "Emerging role of vitamin D in colorectal cancer",
-  "slug": "emerging-role-of-vitamin-d-in-colorectal-cancer",
-  "aliases": [
-    "/Emerging+role+of+vitamin+D+in+colorectal+cancer+\u2013+Aug+2011",
-    "/2108"
-  ],
-  "tiki_page_id": 2108,
-  "date": "2011-10-20",
-  "categories": [
-    "Cancer - Colon"
-  ]
+    "title": "Emerging role of vitamin D in colorectal cancer",
+    "slug": "emerging-role-of-vitamin-d-in-colorectal-cancer",
+    "aliases": [
+        "/Emerging+role+of+vitamin+D+in+colorectal+cancer+\u2013+Aug+2011",
+        "/2108"
+    ],
+    "tiki_page_id": 2108,
+    "date": "2011-10-20",
+    "categories": [
+        "Cancer - Colon"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "cancer",
+        "colon cancer",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 World J Gastrointest Oncol. 2011 Aug 15;3(8):123-7.
 
@@ -42,4 +52,4 @@ PMID: 22007275
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-<img src="/attachments/d3.mock.jpg" alt="image"> <img src="/attachments/d3.mock.jpg" alt="image"> 
+<img src="/attachments/d3.mock.jpg" alt="image"> <img src="/attachments/d3.mock.jpg" alt="image">

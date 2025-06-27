@@ -1,0 +1,56 @@
+<!doctype html><html><head><meta charset=utf-8><title>VitaminDWiki can support the idea-to-publish lifecycle</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>VitaminDWiki can support the idea-to-publish lifecycle</h1><time>March 9, 2012</time><div data-pagefind-body><h2 id=this-page-attempts-to-show-one-aspect-of-how-vitamindwiki-can--support-vitamin-d-information-sharing>This page attempts to show one aspect of how VitaminDWiki can support vitamin D information sharing</h2><h1 id=idea--outline--get-co-authorsgroup--write--publish--reviewappraisal--append-updaterevision-optional>Idea => outline => get co-authors/group => write => publish => review/appraisal => append update/revision (optional)</h1><ul><li>Fast</li></ul><blockquote><p>Approximately 1 month instead of 10 months.</p></blockquote><ul><li>Free</li></ul><blockquote><p>Not have to justify cost of publishing (> $1,000) an idea to their boss, spouse . . .</p></blockquote><ul><li>Anyone can publish</li></ul><blockquote><p>Person does not have to have been “an author”, and have gotten approval</p></blockquote><blockquote><p>GPs, Nurses, Pharmacists, lay people can all ‘publish’ on this wikipedia-like service</p></blockquote><ul><li>The publication can be of any size</li></ul><blockquote><p>From just a paragraph up to a book – each authors can work on a different chapter concurrently.</p></blockquote><ul><li>Can ‘publish’ the information in multiple locations and formats</li></ul><blockquote><p>VitaminDWiki, Conference, Google Scholar, Amazon, and even standard journals (where permitted)</p></blockquote><ul><li>Can incorporate a wide variety of media</li></ul><blockquote><p>Audio, video, color, animation,</p></blockquote><ul><li>Can attach data which others can use</li></ul><blockquote><p>Spreadsheets, databases – example through Google Docs</p></blockquote><ul><li>Updates can also be attached to the ‘published’ version</li></ul><h2 id=additional-details>Additional details</h2><ul><li><p>Participants can elect to be informed of changes of anything in VitaminDWiki by e-mail or RSS</p></li><li><p>Share/Publish in any language</p></li></ul><blockquote><p>Read in any language</p></blockquote><ul><li>Supports multiple authors</li></ul><blockquote><p>Only one person can edit a section at a time</p></blockquote><blockquote><p>Might want to break a long document (like a book) into sections</p></blockquote><ul><li>People could perhaps see other groups vitamin D ideas</li></ul><blockquote><p>Avoid duplication and perhaps join with existing efforts</p></blockquote><ul><li><p>Individuals are invited to join a private group in VitaminDWiki</p></li><li><p>Vitamin D information packs could be made – somewhat like WikiPedia</p></li></ul><blockquote><p>for lay public, medical professionals, insurance companies, employers,</p></blockquote><ul><li>Variety of groups</li></ul><blockquote><p>Researchers, Hospitals, Medical Doctors, Nurses, Senior home staff, pharmacists,</p></blockquote><blockquote><p>Individuals with diseases/medical conditions that benefit from Vitamin D</p></blockquote><ul><li>Can re-purpose the information</li></ul><blockquote><p>Conferences, Video, poster sessions, press releases, blog post,</p></blockquote><ul><li>Each group can be as stealthy or as visible as they wish</li></ul><blockquote><p>Each Web page, Forum, Blog Post, comment etc can be public or private (stealthy)</p></blockquote><ul><li><p>Hospitals/HMO can use it to share ideas, pamphlets, experiences, etc</p></li><li><p>Additional capabilities of the TikiWiki host software</p></li></ul><blockquote><p>Roll-back to previous versions if case of error</p></blockquote><blockquote><p>Users can vote on the quality/usefulness of any item (web page, forum, comment, blog post, etc.)</p></blockquote><blockquote><p>Item tags can be created by individuals and optionally shared</p></blockquote><ul><li>Software is is easy to use</li></ul><blockquote><p>What You See if What You Get (WYSIWYG) editor should be used for most simple pages.</p></blockquote><h2 id=possible-problems>Possible problems</h2><ul><li>No mechanism (yet) for anonymous peer review.</li></ul><blockquote><p>Might try peer praise after publication instead of peer review before publication</p></blockquote><ul><li>If there is lots of use, will have to use a more expensive/powerful server</li></ul><blockquote><p>Current system can probably serve 100 viewers and 10 authors concurrently.</p></blockquote><ul><li>Cost of editorial/IT support – so far all done by Henry Lahore</li></ul><blockquote><p>Henry does not scale as well as the server.</p></blockquote><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><a href=/posts/suggestions-on-how-to-record-a-meeting style=color:red;text-decoration:underline title="This link has an unknown page_id: 2471">Suggestions on how to record a meeting</a></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>vitamin d</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

@@ -1,17 +1,39 @@
 {
-  "title": "What are people taking vitamin D for",
-  "slug": "what-are-people-taking-vitamin-d-for",
-  "aliases": [
-    "/What+are+people+taking+vitamin+D+for+-+Feb+2011",
-    "/1424"
-  ],
-  "tiki_page_id": 1424,
-  "date": "2011-02-20",
-  "categories": [
-    "Rickets",
-    "Osteoporosis",
-    "Interactions with Vitamin D"
-  ]
+    "title": "What are people taking vitamin D for",
+    "slug": "what-are-people-taking-vitamin-d-for",
+    "aliases": [
+        "/What+are+people+taking+vitamin+D+for+-+Feb+2011",
+        "/1424"
+    ],
+    "tiki_page_id": 1424,
+    "date": "2011-02-20",
+    "categories": [
+        "Rickets",
+        "Osteoporosis",
+        "Interactions with Vitamin D"
+    ],
+    "tags": [
+        "Interactions with Vitamin D",
+        "Osteoporosis",
+        "Rickets",
+        "anxiety",
+        "autoimmune",
+        "bone",
+        "chronic fatigue",
+        "depression",
+        "epilepsy",
+        "high dose",
+        "intervention",
+        "mood disorders",
+        "multiple sclerosis",
+        "neurological",
+        "osteoporosis",
+        "rickets",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 
@@ -100,4 +122,3 @@ PSP (Progressive Supranuclear Palsy)
 # See also [CureZone](http://curezone.com/dis/) for LOTS of health problems
 
 ### A few of which vitamin D deals with
-

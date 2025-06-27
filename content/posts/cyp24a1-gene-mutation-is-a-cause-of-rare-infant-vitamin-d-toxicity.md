@@ -1,17 +1,29 @@
 {
-  "title": "CYP24A1 gene mutation is a cause of rare infant vitamin D toxicity",
-  "slug": "cyp24a1-gene-mutation-is-a-cause-of-rare-infant-vitamin-d-toxicity",
-  "aliases": [
-    "/CYP24A1+gene+mutation+is+a+cause+of+rare+infant+vitamin+D+toxicity+\u2013+Aug+2011",
-    "/1891"
-  ],
-  "tiki_page_id": 1891,
-  "date": "2011-08-04",
-  "categories": [
-    "Toxicity of Vitamin D",
-    "Genetics",
-    "Infant-Child"
-  ]
+    "title": "CYP24A1 gene mutation is a cause of rare infant vitamin D toxicity",
+    "slug": "cyp24a1-gene-mutation-is-a-cause-of-rare-infant-vitamin-d-toxicity",
+    "aliases": [
+        "/CYP24A1+gene+mutation+is+a+cause+of+rare+infant+vitamin+D+toxicity+\u2013+Aug+2011",
+        "/1891"
+    ],
+    "tiki_page_id": 1891,
+    "date": "2011-08-04",
+    "categories": [
+        "Toxicity of Vitamin D",
+        "Genetics",
+        "Infant-Child"
+    ],
+    "tags": [
+        "CYPA",
+        "Genetics",
+        "Infant-Child",
+        "Toxicity of Vitamin D",
+        "bone",
+        "child",
+        "genetics",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,15 +1,23 @@
 {
-  "title": "Vitamin D might might reduce dementia",
-  "slug": "vitamin-d-might-might-reduce-dementia",
-  "aliases": [
-    "/Vitamin+D+might+might+reduce+dementia+\u2013+Mar+2011",
-    "/1594"
-  ],
-  "tiki_page_id": 1594,
-  "date": "2011-05-01",
-  "categories": [
-    "Cognitive"
-  ]
+    "title": "Vitamin D might might reduce dementia",
+    "slug": "vitamin-d-might-might-reduce-dementia",
+    "aliases": [
+        "/Vitamin+D+might+might+reduce+dementia+\u2013+Mar+2011",
+        "/1594"
+    ],
+    "tiki_page_id": 1594,
+    "date": "2011-05-01",
+    "categories": [
+        "Cognitive"
+    ],
+    "tags": [
+        "Cognitive",
+        "brain",
+        "cognitive",
+        "dementia",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -34,4 +42,3 @@ On its own, physiological vitamin D status may be an important risk indicator fo
 Copyright 2011 Prous Science, S.A.U. or its licensors. All rights reserved.
 
 PMID:     21494700
-

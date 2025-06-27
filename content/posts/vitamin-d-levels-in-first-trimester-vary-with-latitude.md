@@ -1,15 +1,21 @@
 {
-  "title": "Vitamin D levels in first trimester vary with latitude",
-  "slug": "vitamin-d-levels-in-first-trimester-vary-with-latitude",
-  "aliases": [
-    "/Vitamin+D+levels+in+first+trimester+vary+with+latitude+\u2013+April+2011",
-    "/2046"
-  ],
-  "tiki_page_id": 2046,
-  "date": "2011-09-27",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Vitamin D levels in first trimester vary with latitude",
+    "slug": "vitamin-d-levels-in-first-trimester-vary-with-latitude",
+    "aliases": [
+        "/Vitamin+D+levels+in+first+trimester+vary+with+latitude+\u2013+April+2011",
+        "/2046"
+    ],
+    "tiki_page_id": 2046,
+    "date": "2011-09-27",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "preeclampsia",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -46,4 +52,3 @@ PMID:     21640968
 # See also VitaminDWiki
 
 * <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D: Before, During, and After Pregnancy</a>
-

@@ -1,15 +1,25 @@
 {
-  "title": "4000 IU vitamin D improved glycemic control for type 1 diabetes",
-  "slug": "4000-iu-vitamin-d-improved-glycemic-control-for-type-1-diabetes",
-  "aliases": [
-    "/4000+IU+vitamin+D+improved+glycemic+control+for+type+1+diabetes+\u2013+Nov+2010",
-    "/1131"
-  ],
-  "tiki_page_id": 1131,
-  "date": "2010-11-11",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "4000 IU vitamin D improved glycemic control for type 1 diabetes",
+    "slug": "4000-iu-vitamin-d-improved-glycemic-control-for-type-1-diabetes",
+    "aliases": [
+        "/4000+IU+vitamin+D+improved+glycemic+control+for+type+1+diabetes+\u2013+Nov+2010",
+        "/1131"
+    ],
+    "tiki_page_id": 1131,
+    "date": "2010-11-11",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -30,4 +40,3 @@ Results : There was a significant difference in mean (SD) glycosylated hemoglobi
 There was a significant difference in glycosylated hemoglobin change from baseline between the groups that achieved 25-hydroxyvitamin D levels of <35.4 nmol/L, 35.4-51 nmol/L and >51 nmol/L at 12 weeks (P=.04). There was a significant difference in 25-hydroxyvitamin D level between the groups that achieved glycosylated hemoglobin levels of <7.8, 7.8-9.9 and >9.9 at 12 weeks (P=.001). Patients were more likely to achieve lower glycosylated hemoglobin levels at 12 weeks if they had higher 25-hydroxyvitamin D levels at 12 weeks (r=-0.4, P=.001). 
 
 Conclusions : There was an observed effect of vitamin D supplementation on glycemic control in vitamin D-replete, type 1 diabetes mellitus patients. Further studies are needed to determine if these findings are applicable. PMID: 21060157
-

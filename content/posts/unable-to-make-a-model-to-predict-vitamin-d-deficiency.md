@@ -1,15 +1,25 @@
 {
-  "title": "Unable to make a model to predict vitamin D deficiency",
-  "slug": "unable-to-make-a-model-to-predict-vitamin-d-deficiency",
-  "aliases": [
-    "/Unable+to+make+a+model+to+predict+vitamin+D+deficiency+\u2013+Sept+2011",
-    "/1984"
-  ],
-  "tiki_page_id": 1984,
-  "date": "2011-09-03",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "Unable to make a model to predict vitamin D deficiency",
+    "slug": "unable-to-make-a-model-to-predict-vitamin-d-deficiency",
+    "aliases": [
+        "/Unable+to+make+a+model+to+predict+vitamin+D+deficiency+\u2013+Sept+2011",
+        "/1984"
+    ],
+    "tiki_page_id": 1984,
+    "date": "2011-09-03",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "cholesterol",
+        "dosage",
+        "health risk",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

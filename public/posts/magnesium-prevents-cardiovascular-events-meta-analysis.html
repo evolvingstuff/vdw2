@@ -1,0 +1,118 @@
+<!doctype html><html><head><meta charset=utf-8><title>Magnesium prevents cardiovascular events – Meta-analysis</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Magnesium prevents cardiovascular events – Meta-analysis</h1><time>March 24, 2013</time><div data-pagefind-body><h2 id=magnesium-and-the-risk-of-cardiovascular-events-a-meta-analysis-of-prospective-cohort-studies>Magnesium and the risk of cardiovascular events: a meta-analysis of prospective cohort studies.</h2><p>PLoS One. 2013;8(3):e57720. <a href=https://doi.org/10.1371/journal.pone.0057720.>doi: 10.1371/journal.pone.0057720.</a> Epub 2013 Mar 8.</p><p>Qu X, Jin F, Hao Y, Li H, Tang T, Wang H, Yan W, Dai K.</p><p>Shanghai Key Laboratory of Orthopaedic Implant, Shanghai Ninth People&rsquo;s Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</p><p>BACKGROUND: Prospective studies that have examined the association between dietary magnesium intake and serum magnesium concentrations and the risk of cardiovascular disease (CVD) events have reported conflicting findings. We undertook a meta-analysis to evaluate the association between dietary magnesium intake and serum magnesium concentrations and the risk of total CVD events.</p><p>METHODOLOGY PRINCIPAL FINDINGS: We performed systematic searches on MEDLINE, EMBASE, and OVID up to February 1, 2012 without limits. Categorical, linear, and nonlinear, dose-response, heterogeneity, publication bias, subgroup, and meta-regression analysis were performed. The analysis included <strong>532,979 participants from 19 studies</strong></p><ul><li><p>(11 studies on dietary magnesium intake,</p></li><li><p>6 studies on serum magnesium concentrations, and</p></li><li><p>2 studies on both) with <strong>19,926 CVD events</strong> .</p></li></ul><p>The pooled relative risks of total CVD events for the highest vs. lowest category of dietary magnesium intake and serum magnesium concentrations were 0.85 (95% confidence interval 0.78 to 0.92) and 0.77 (0.66 to 0.87), respectively. In linear dose-response analysis, only serum magnesium concentrations ranging from 1.44 to 1.8 mEq/L were significantly associated with total CVD events risk (0.91, 0.85 to 0.97) per 0.1 mEq/L (Pnonlinearity = 0.465). However, significant inverse associations emerged in nonlinear models for dietary magnesium intake (Pnonlinearity = 0.024).</p><p>The greatest risk reduction occurred when intake increased from 150 to <strong>400 mg/d</strong> . There was no evidence of publication bias.</p><p>CONCLUSIONS SIGNIFICANCE: There is a statistically significant nonlinear inverse association between dietary magnesium intake and total CVD events risk.</p><p>Serum magnesium concentrations are linearly and inversely associated with the risk of total CVD events.</p><p>PMID: 23520480</p><p><strong>some of the information from the PDF</strong></p><h3 id=mg-intake-studies>Mg intake studies</h3><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/mg-intake-studies.jpg alt=image><p><strong>How to read these kind of charts, by VitaminDWiki</strong></p><p>The data to the left of these charts indcates the studies which found that more Mg resulted in less cardiovascular problems</p><p>The size of the square indicates the number of participants in the study</p><p>The lines to the right and left of a square indicates the range of results that the study found, whereas the square indicates the average</p><p>The studies in the chart above do NOT indicate the amount of Magnesium taken - A study could have used 150 mg or 450 mg - there is no indication in the upper chart</p><p>The studies in the chart below are better. The data represent when there was more Magnesium in the blood stream. (still does not say how much more Magnesium)</p><p>It would have been better to measure the amount of Magnesium in the cells, but such tests are expensive and so are rarely made.</p><h3 id=mg-serum-studies>Mg serum studies</h3><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/mg-serum-studies.jpg alt=image><h3 id=mg-intake-graph>Mg intake graph</h3><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/mg-intake-graph.jpg alt=image><h3 id=mg-serum-graph>Mg serum graph</h3><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/mg-serum-graph.jpg alt=image><hr><p><strong>PDF is attached at the bottom of this page</strong></p><h2 id=i-take-magnesium-and-vitamin-d-and-omega-3-etc>I take Magnesium and Vitamin D and Omega-3, etc</h2><p>Many studies have shown that</p><ul><li><p>Magnesium, Vitamin D, Omega-3 etc taken singlely improve health in many many ways.</p></li><li><p>Magnesium and Vitamin D help each other.</p></li><li><p>Omega-3 helps Vitamin D (perhaps the other way as well)</p></li><li><p>The more vitamin D you get, the better your health.</p></li><li><p>The more Magnesium you get, the better your health.- by the way, Magnesium is the most important <a href=/posts/cofactor-for-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 1270">cofactor for vitamin D</a></p></li><li><p>Pico Magnesium does not cause intestinal difficulties (only one Pico study that I am aware of)</p></li><li><p>The more Omega-3 you get, the better your health.</p></li></ul><p>I hope to see some study in the future which goes beyond monotherapy and considers 2 or more items concurrently.</p><p>I am not waiting for that study to be made, I am taking all three.</p><p>Henry Lahore, adminstrator of VitaminDWiki</p><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href=/posts/overview-magnesium-and-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a></p></li><li><p><a href=/posts/magnesium-sources-oxide-thru-pico>Magnesium sources: Oxide thru Pico - March 2013</a></p></li><li><p><a href=/posts/heart-problems-such-as-afib-related-to-little-magnesium-omega-3-vitamin-d-getting-to-tissues>Heart problems such as Afib related to little Magnesium, Omega-3, Vitamin D getting to tissues</a></p></li><li><p><a href=/posts/a-balanced-diet-is-no-longer-enough-supplements-needed-vitamindwiki>A balanced diet is no longer enough – supplements needed - VitaminDWiki Oct 2012</a></p></li><li><p><a href=/posts/hypothesis-decreasing-magnesium-and-increasing-camg-ratio-are-increasing-health-problems-2012-2013>Hypothesis: Decreasing Magnesium and increasing CaMg ratio are increasing health problems – 2012 - 2013</a></p></li><li><p><a href=/posts/cardiovascular-disease-50-percent-more-likely-if-low-vitamin-d-meta-analysis>Cardiovascular disease 50 % more likely if low vitamin D - meta-analysis Nov 2012</a></p></li><li><p><a href=/posts/major-heart-attacks-occur-40-percent-more-often-if-vitamin-d-lower-than-7-ng>Major Heart attacks occur 40 percent more often if vitamin D lower than 7 ng – Feb 2013</a></p></li><li><p><a href=/posts/cardiovascular-system-benefits-from-both-omega-3-and-vitamin-d>Cardiovascular system benefits from both Omega-3 and vitamin D – Dec 2012</a></p></li><li><p><a href=/posts/14x-more-likely-to-die-after-first-cardiovascular-event-if-vitamin-d-deficient>14X more likely to die after first cardiovascular event if vitamin D deficient – Nov 2012</a></p></li><li><p><a href=/posts/overview-omega-3-many-benefits-include-helping-vitamin-d>Overview: Omega-3 many benefits include helping vitamin D</a></p></li><li><p><a href=/posts/magnesium-and-vitamin-d-similar-different-and-synergistic>Magnesium and Vitamin D - similar, different and synergistic</a> which has the following table</p></li></ul><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><span style=color:#00f>Magnesium</span></td><td><span style=color:#00f>not Magnesium</span></td></tr><tr><td><span style=color:#090>Vitamin D</span></td><td><span style=color:#00f><strong>Magnesium</span> or <span style=color:#090>Vitamin D</strong></span><br>Aging, Amytrophic Lateral Sclerosis, Alzheimer&rsquo;s Disease;<br>Asthma, Attention Deficit Disorder; Autism, Cancer, Cerebrovascular,<br>Chronic Fatigue, Diabetes, Hearing Loss, <strong>Heart Disease. Heart Attack, Atherosclerosis</strong> ,<br><strong>Cardiovascular Disease</strong> , HIV, AIDS; Hypertension; Kidney Stones,<br>Migraine Headache, Multiple Sclerosis, Obesity, Osteoporosis; <strong>Peripheral vascular disease</strong> ;<br>Pregnancy-related problems,Rheumatoid Arthritis; Sports-related problems,<br></td><td><strong>Vitamin D only</strong></td></tr><tr><td>Acne, Allergy, Autoimmune, Bone, Breathing,</td><td></td><td></td></tr><tr><td>Celiac, Cognition, Colds and Flu, Cystic Fibrosis,</td><td></td><td></td></tr><tr><td>Dental, Fertility, Hyperparathyroid, Immunity, Kidney,</td><td></td><td></td></tr><tr><td>Liver, Lupus, Osteoarthritis, Pain - chronic, Parkinson,</td><td></td><td></td></tr><tr><td>Psoriasis, Rickets, Strokes, Sarcoidosis, Thyroid, Parathyroid,</td><td></td><td></td></tr><tr><td>Tuberculosis, Vision, Hair, Skin, Sports</td><td></td><td></td></tr><tr><td>Not Vitamin D</td><td><strong>Magnesium only</strong></td><td></td></tr><tr><td>Aggressive Behavior, Alcoholism, Arrhythmia, Cerebral Palsy,</td><td></td><td></td></tr><tr><td>Chemical Sensitivity, Cluster Headaches; Cocaine-related Stroke; Constipation,</td><td></td><td></td></tr><tr><td>Cramps, Fluoride Toxicity; Head Injuries, Central Nervous System Injuries,</td><td></td><td></td></tr><tr><td>Magnesium Deficiency; Menopause, Mitral Valve Prolapsee,</td><td></td><td></td></tr><tr><td>Nystagmus, Psychiatric Disorders; Repetitive Strain Injury, Sickle Cell Disease, SIDS,</td><td></td><td></td></tr><tr><td>Stress, Stuttering, Tetanus; Tinnitis, Sound Sensitivity; TMJ; Toxic Shock; Violence</td><td><span style=color:#c00>Neither</span><br>ALL OTHER DISEASES</td><td></td></tr></tbody></table><p><strong>Short url =</strong> <a href=http://bit.ly/ZlHyBi>http://bit.ly/ZlHyBi</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>acne</span>
+<span class=tag>asthma</span>
+<span class=tag>atherosclerosis</span>
+<span class=tag>atrial fibrillation</span>
+<span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>bacteria</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>breathing</span>
+<span class=tag>cancer</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>Cardiovascular</span>
+<span class=tag>cerebral palsy</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>childhood obesity</span>
+<span class=tag>childhood viruses</span>
+<span class=tag>chronic fatigue</span>
+<span class=tag>cystic fibrosis</span>
+<span class=tag>dermatology</span>
+<span class=tag>diabetes</span>
+<span class=tag>fertility sperm</span>
+<span class=tag>headache</span>
+<span class=tag>health risk</span>
+<span class=tag>high dose</span>
+<span class=tag>hypertension</span>
+<span class=tag>immunity</span>
+<span class=tag>influenza</span>
+<span class=tag>intervention</span>
+<span class=tag>lupus</span>
+<span class=tag>magnesium</span>
+<span class=tag>magnesium and cancer</span>
+<span class=tag>magnesium and pregnancy</span>
+<span class=tag>magnesium and viruses</span>
+<span class=tag>Meta-analysis of Vitamin D</span>
+<span class=tag>metabolic</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>neurological</span>
+<span class=tag>obesity</span>
+<span class=tag>obesity and cancer</span>
+<span class=tag>omega 3</span>
+<span class=tag>omega 3 and pregnancy</span>
+<span class=tag>omega 3 and viruses</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>pain</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>pregnancy</span>
+<span class=tag>psoriasis</span>
+<span class=tag>rheumatoid arthritis</span>
+<span class=tag>rickets</span>
+<span class=tag>stroke</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>Top news</span>
+<span class=tag>tuberculosis</span>
+<span class=tag>virus</span>
+<span class=tag>virus and cardiovascular</span>
+<span class=tag>virus and obesity</span>
+<span class=tag>viruses and pregnancy</span>
+<span class=tag>vitamin d</span>
+<span class=tag>Vitamin D and Magnesium</span>
+<span class=tag>vitamin d and viruses</span></div><div data-pagefind-meta=tags hidden>acne, asthma, atherosclerosis, atrial fibrillation, autoimmune, autoimmune and pregnancy, bacteria, bone, bone cancer, breathing, cancer, cardiovascular, Cardiovascular, cerebral palsy, child, childhood cancer, childhood obesity, childhood viruses, chronic fatigue, cystic fibrosis, dermatology, diabetes, fertility sperm, headache, health risk, high dose, hypertension, immunity, influenza, intervention, lupus, magnesium, magnesium and cancer, magnesium and pregnancy, magnesium and viruses, Meta-analysis of Vitamin D, metabolic, multiple sclerosis, multiple sclerosis and pregnancy, neurological, obesity, obesity and cancer, omega 3, omega 3 and pregnancy, omega 3 and viruses, osteoporosis, pain, pediatric autoimmune, pregnancy, psoriasis, rheumatoid arthritis, rickets, stroke, therapeutic intervention, Top news, tuberculosis, virus, virus and cardiovascular, virus and obesity, viruses and pregnancy, vitamin d, Vitamin D and Magnesium, vitamin d and viruses</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

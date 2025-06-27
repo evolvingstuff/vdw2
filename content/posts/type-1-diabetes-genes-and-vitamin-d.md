@@ -1,16 +1,39 @@
 {
-  "title": "Type 1 diabetes, genes and vitamin D",
-  "slug": "type-1-diabetes-genes-and-vitamin-d",
-  "aliases": [
-    "/Type+1+diabetes+genes+and+vitamin+D",
-    "/1523"
-  ],
-  "tiki_page_id": 1523,
-  "date": "2011-03-29",
-  "categories": [
-    "Diabetes",
-    "Genetics"
-  ]
+    "title": "Type 1 diabetes, genes and vitamin D",
+    "slug": "type-1-diabetes-genes-and-vitamin-d",
+    "aliases": [
+        "/Type+1+diabetes+genes+and+vitamin+D",
+        "/1523"
+    ],
+    "tiki_page_id": 1523,
+    "date": "2011-03-29",
+    "categories": [
+        "Diabetes",
+        "Genetics"
+    ],
+    "tags": [
+        "CYPA",
+        "CYPB",
+        "CYPR",
+        "Diabetes",
+        "Genetics",
+        "autoimmune",
+        "blood levels",
+        "child",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -70,7 +93,6 @@ PMID:     22361322
 
 * <a href="/posts/response-to-vitamin-d-depended-on-folk-i-gene" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3442">Response to vitamin D depended on Folk-I gene – Nov 2012</a>
 
-* <a href="/posts/type-1-diabetes-associated-with-faulty-vitamin-d-receptor-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type 1 diabetes associated with faulty Vitamin D receptor genes – May 2013">Type 1 diabetes associated with faulty Vitamin D receptor genes – May 2013</a>
+* [Type 1 diabetes associated with faulty Vitamin D receptor genes – May 2013](/posts/type-1-diabetes-associated-with-faulty-vitamin-d-receptor-genes)
 
 * <a href="/posts/type-1-diabetes-association-with-poor-vitamin-d-receptor-39-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type 1 Diabetes association with poor Vitamin D Receptor: 39 studies – April 2017">Type 1 Diabetes association with poor Vitamin D Receptor: 39 studies – April 2017</a>
-

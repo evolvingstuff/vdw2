@@ -1,15 +1,22 @@
 {
-  "title": "Sunscreen regulations in US improved somewhat \u2013 UVB and UVA both important",
-  "slug": "sunscreen-regulations-in-us-improved-somewhat-uvb-and-uva-both-important",
-  "aliases": [
-    "/Sunscreen+regulations+in+US+improved+somewhat+\u2013+UVB+and+UVA+both+important+\u2013+June+2011",
-    "/1730"
-  ],
-  "tiki_page_id": 1730,
-  "date": "2011-06-15",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Sunscreen regulations in US improved somewhat \u2013 UVB and UVA both important",
+    "slug": "sunscreen-regulations-in-us-improved-somewhat-uvb-and-uva-both-important",
+    "aliases": [
+        "/Sunscreen+regulations+in+US+improved+somewhat+\u2013+UVB+and+UVA+both+important+\u2013+June+2011",
+        "/1730"
+    ],
+    "tiki_page_id": 1730,
+    "date": "2011-06-15",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "cancer",
+        "melanoma",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 

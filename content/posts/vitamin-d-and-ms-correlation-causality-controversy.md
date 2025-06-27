@@ -1,15 +1,29 @@
 {
-  "title": "Vitamin D and MS - Correlation - Causality \u2013 Controversy",
-  "slug": "vitamin-d-and-ms-correlation-causality-controversy",
-  "aliases": [
-    "/Vitamin+D+and+MS+-+Correlation+-+Causality+\u2013+Controversy+\u2013+March+2011",
-    "/1479"
-  ],
-  "tiki_page_id": 1479,
-  "date": "2011-03-13",
-  "categories": [
-    "Multiple Sclerosis"
-  ]
+    "title": "Vitamin D and MS - Correlation - Causality \u2013 Controversy",
+    "slug": "vitamin-d-and-ms-correlation-causality-controversy",
+    "aliases": [
+        "/Vitamin+D+and+MS+-+Correlation+-+Causality+\u2013+Controversy+\u2013+March+2011",
+        "/1479"
+    ],
+    "tiki_page_id": 1479,
+    "date": "2011-03-13",
+    "categories": [
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "autoimmune",
+        "blood levels",
+        "child",
+        "dosage",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -58,4 +72,3 @@ Altogether, the evidence that is available on vitamin D status and disease activ
 * Fourthly, response of patients to vitamin D supplementation may depend upon the genetic profile of both vitamin D-related genes <sup>[21]</sup> and MHC class II genotype <sup>[22]</sup>. Intervention studies should allow analyses on genetic profiles associated with response to vitamin D. Lastly, studies should not only focus on classical outcomes as MRI parameters, relapse activity, and disability progression. Other symptoms found in MS have also been associated with a poor vitamin D status, including presence of depressive symptoms <sup>[23]</sup> and cognitive decline <sup>[24]</sup>. Including also these parameters could provide a complete overview of the impact of vitamin D supplementation in MS.
 
 There are many different opinions about vitamin D in MS, ranging from scepticism to a firm belief in the new panacea. These opinions reflect the current state of evidence: there are a lot of indications for a therapeutic role of vitamin D in MS, but these remain all circumstantial evidence. Everyone will agree, however, that these indications provide at least an excellent reason to develop well-designed clinical trials on vitamin D supplementation in MS. Currently first clinical trials are starting up and will undoubtedly cast more light on the issue.
-

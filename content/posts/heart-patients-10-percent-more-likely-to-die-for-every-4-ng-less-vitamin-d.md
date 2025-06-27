@@ -1,17 +1,38 @@
 {
-  "title": "Heart patients 10 percent more likely to die for every 4 ng less vitamin D",
-  "slug": "heart-patients-10-percent-more-likely-to-die-for-every-4-ng-less-vitamin-d",
-  "aliases": [
-    "/Heart+patients+10+percent+more+likely+to+die+for+every+4+ng+less+vitamin+D+\u2013+May+2011",
-    "/1611"
-  ],
-  "tiki_page_id": 1611,
-  "date": "2011-05-06",
-  "categories": [
-    "Cardiovascular",
-    "Mortality and D"
-  ]
+    "title": "Heart patients 10 percent more likely to die for every 4 ng less vitamin D",
+    "slug": "heart-patients-10-percent-more-likely-to-die-for-every-4-ng-less-vitamin-d",
+    "aliases": [
+        "/Heart+patients+10+percent+more+likely+to+die+for+every+4+ng+less+vitamin+D+\u2013+May+2011",
+        "/1611"
+    ],
+    "tiki_page_id": 1611,
+    "date": "2011-05-06",
+    "categories": [
+        "Cardiovascular",
+        "Mortality and D"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Mortality and D",
+        "autoimmune",
+        "blood levels",
+        "brain",
+        "cardiovascular",
+        "cognitive",
+        "heart failure",
+        "high dose",
+        "intervention",
+        "life span",
+        "mortality",
+        "omega 3",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}} 
 

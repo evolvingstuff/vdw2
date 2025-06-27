@@ -1,16 +1,30 @@
 {
-  "title": "BMD improved with 800 mg Calcium, 400 IU of vitamin D, and 100 ug of vitamin K",
-  "slug": "bmd-improved-with-800-mg-calcium-400-iu-of-vitamin-d-and-100-ug-of-vitamin-k",
-  "aliases": [
-    "/BMD+improved+with+800+mg+Calcium+400+IU+of+vitamin+D+and+100+ug+of+vitamin+K+\u2013+April+2011",
-    "/1565"
-  ],
-  "tiki_page_id": 1565,
-  "date": "2011-04-04",
-  "categories": [
-    "Bone - Health",
-    "Osteoporosis"
-  ]
+    "title": "BMD improved with 800 mg Calcium, 400 IU of vitamin D, and 100 ug of vitamin K",
+    "slug": "bmd-improved-with-800-mg-calcium-400-iu-of-vitamin-d-and-100-ug-of-vitamin-k",
+    "aliases": [
+        "/BMD+improved+with+800+mg+Calcium+400+IU+of+vitamin+D+and+100+ug+of+vitamin+K+\u2013+April+2011",
+        "/1565"
+    ],
+    "tiki_page_id": 1565,
+    "date": "2011-04-04",
+    "categories": [
+        "Bone - Health",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Osteoporosis",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "magnesium",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -96,5 +110,4 @@ PMID: 21455716
 
 * [Calcium citrate and more than 800 IU of vitamin D to treat Osteoporosis – Mar 2011](/posts/calcium-citrate-and-more-than-800-iu-of-vitamin-d-to-treat-osteoporosis)
 
-- - - - - - - - - - - 
-
+- - - - - - - - - - -

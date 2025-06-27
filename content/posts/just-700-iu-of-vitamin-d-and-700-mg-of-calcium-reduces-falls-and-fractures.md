@@ -1,17 +1,30 @@
 {
-  "title": "Just 700 IU of vitamin D and 700 mg of Calcium reduces falls and fractures",
-  "slug": "just-700-iu-of-vitamin-d-and-700-mg-of-calcium-reduces-falls-and-fractures",
-  "aliases": [
-    "/Just+700+IU+of+vitamin+D+and+700+mg+of+Calcium+reduces+falls+and+fractures+\u2013+Nov+2010",
-    "/1202"
-  ],
-  "tiki_page_id": 1202,
-  "date": "2010-12-04",
-  "categories": [
-    "Seniors",
-    "Osteoporosis",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Just 700 IU of vitamin D and 700 mg of Calcium reduces falls and fractures",
+    "slug": "just-700-iu-of-vitamin-d-and-700-mg-of-calcium-reduces-falls-and-fractures",
+    "aliases": [
+        "/Just+700+IU+of+vitamin+D+and+700+mg+of+Calcium+reduces+falls+and+fractures+\u2013+Nov+2010",
+        "/1202"
+    ],
+    "tiki_page_id": 1202,
+    "date": "2010-12-04",
+    "categories": [
+        "Seniors",
+        "Osteoporosis",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "Seniors",
+        "Vitamin D and Calcium",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "dosage",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

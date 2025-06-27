@@ -1,15 +1,24 @@
 {
-  "title": "Pulsed UV decreased peanut allergen by as much as 90 percent",
-  "slug": "pulsed-uv-decreased-peanut-allergen-by-as-much-as-90-percent",
-  "aliases": [
-    "/Pulsed+UV+decreased+peanut+allergen+by+as+much+as+90+percent\u2013+June+2011",
-    "/1717"
-  ],
-  "tiki_page_id": 1717,
-  "date": "2011-06-09",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Pulsed UV decreased peanut allergen by as much as 90 percent",
+    "slug": "pulsed-uv-decreased-peanut-allergen-by-as-much-as-90-percent",
+    "aliases": [
+        "/Pulsed+UV+decreased+peanut+allergen+by+as+much+as+90+percent\u2013+June+2011",
+        "/1717"
+    ],
+    "tiki_page_id": 1717,
+    "date": "2011-06-09",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "child",
+        "childhood viruses",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 
@@ -70,4 +79,3 @@ Wade W. Yang, Nasson R. Mwakatage, Renee Goodrich-Schneider, Kathiravan Krishnam
 # See also VitaminDWiki
 
 * <a href="/posts/plants-and-uvb-started" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1644">Plants and UVB – started May 2011</a>
-

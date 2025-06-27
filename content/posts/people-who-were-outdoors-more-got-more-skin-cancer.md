@@ -1,15 +1,33 @@
 {
-  "title": "People who were outdoors more got more skin cancer",
-  "slug": "people-who-were-outdoors-more-got-more-skin-cancer",
-  "aliases": [
-    "/People+who+were+outdoors+more+got+more+skin+cancer+\u2013+Aug+2011",
-    "/1981"
-  ],
-  "tiki_page_id": 1981,
-  "date": "2011-09-02",
-  "categories": [
-    "Cancer - Skin"
-  ]
+    "title": "People who were outdoors more got more skin cancer",
+    "slug": "people-who-were-outdoors-more-got-more-skin-cancer",
+    "aliases": [
+        "/People+who+were+outdoors+more+got+more+skin+cancer+\u2013+Aug+2011",
+        "/1981"
+    ],
+    "tiki_page_id": 1981,
+    "date": "2011-09-02",
+    "categories": [
+        "Cancer - Skin"
+    ],
+    "tags": [
+        "Cancer - Skin",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "diabetes",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "osteoporosis",
+        "skin cancer",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

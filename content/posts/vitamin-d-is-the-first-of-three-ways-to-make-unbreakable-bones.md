@@ -1,16 +1,40 @@
 {
-  "title": "Vitamin D is the first of three ways to make unbreakable bones",
-  "slug": "vitamin-d-is-the-first-of-three-ways-to-make-unbreakable-bones",
-  "aliases": [
-    "/Vitamin+D+is+the+first+of+three+ways+to+make+unbreakable+bones+\u2013+Oct+2011",
-    "/2082"
-  ],
-  "tiki_page_id": 2082,
-  "date": "2011-10-13",
-  "categories": [
-    "Bone - Health",
-    "Osteoporosis"
-  ]
+    "title": "Vitamin D is the first of three ways to make unbreakable bones",
+    "slug": "vitamin-d-is-the-first-of-three-ways-to-make-unbreakable-bones",
+    "aliases": [
+        "/Vitamin+D+is+the+first+of+three+ways+to+make+unbreakable+bones+\u2013+Oct+2011",
+        "/2082"
+    ],
+    "tiki_page_id": 2082,
+    "date": "2011-10-13",
+    "categories": [
+        "Bone - Health",
+        "Osteoporosis"
+    ],
+    "tags": [
+        "Bone - Health",
+        "IBD",
+        "Osteoporosis",
+        "alcohol",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "bone stress fractures",
+        "child",
+        "dosage",
+        "falls fractures",
+        "gut",
+        "health risk",
+        "magnesium",
+        "osteoporosis",
+        "pollution",
+        "rickets",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin k"
+    ]
 }
 
 
@@ -214,7 +238,7 @@ What is really needed, however is
 
 * [All items in category Bone Health](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=6&sort_mode=created_desc) 106 items April 2012
 
-* <a href="/posts/bone-health-and-vitamin-d-book-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2312">Bone Health and vitamin D book - 2011</a>
+* [Bone Health and vitamin D book - 2011](/posts/bone-health-and-vitamin-d-book-2011)
 
 * [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough) which has the following chart
 
@@ -223,4 +247,3 @@ What is really needed, however is
 * <a href="/posts/vitamin-d-recommendations-from-around-the-world-includes-the-following-chart" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations from around the world - includes the following chart</a>
 
 {IMG(fileId="1984" max="400")}{IMG}
-

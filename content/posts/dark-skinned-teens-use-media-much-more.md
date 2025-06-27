@@ -1,17 +1,23 @@
 {
-  "title": "Dark skinned teens use media much more",
-  "slug": "dark-skinned-teens-use-media-much-more",
-  "aliases": [
-    "/Dark+skinned+teens+use+media+much+more+-+June+2011",
-    "/1752"
-  ],
-  "tiki_page_id": 1752,
-  "date": "2011-06-23",
-  "categories": [
-    "Skin - Dark",
-    "Noontime sun and D",
-    "Youth"
-  ]
+    "title": "Dark skinned teens use media much more",
+    "slug": "dark-skinned-teens-use-media-much-more",
+    "aliases": [
+        "/Dark+skinned+teens+use+media+much+more+-+June+2011",
+        "/1752"
+    ],
+    "tiki_page_id": 1752,
+    "date": "2011-06-23",
+    "categories": [
+        "Skin - Dark",
+        "Noontime sun and D",
+        "Youth"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "Skin - Dark",
+        "Youth",
+        "child"
+    ]
 }
 
 
@@ -25,4 +31,4 @@ Minority children ages 8 to 18 consume an average of 13 hours of media content a
 
 ## Full report is attached at the bottom of this page - wonderful details
 
-<img src="/attachments/d3.mock.jpg" alt="image"> 
+<img src="/attachments/d3.mock.jpg" alt="image">

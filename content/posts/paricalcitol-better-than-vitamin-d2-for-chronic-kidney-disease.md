@@ -1,15 +1,30 @@
 {
-  "title": "Paricalcitol better than vitamin D2 for Chronic Kidney disease",
-  "slug": "paricalcitol-better-than-vitamin-d2-for-chronic-kidney-disease",
-  "aliases": [
-    "/Paricalcitol+better+than+vitamin+D2+for+Chronic+Kidney+disease+\u2013+April+2011",
-    "/1573"
-  ],
-  "tiki_page_id": 1573,
-  "date": "2011-04-12",
-  "categories": [
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Paricalcitol better than vitamin D2 for Chronic Kidney disease",
+    "slug": "paricalcitol-better-than-vitamin-d2-for-chronic-kidney-disease",
+    "aliases": [
+        "/Paricalcitol+better+than+vitamin+D2+for+Chronic+Kidney+disease+\u2013+April+2011",
+        "/1573"
+    ],
+    "tiki_page_id": 1573,
+    "date": "2011-04-12",
+    "categories": [
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "CKD",
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "brain",
+        "cognitive",
+        "genetics",
+        "hypertension",
+        "kidney",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -52,4 +67,3 @@ Division of Nephrology and Hypertension, IIS Fundación Jiménez Díaz Autonoma 
 Vitamin D has been recently associated with several renal, cardiovascular and inflammatory diseases, beyond mineral metabolism and bone health. This is due in part to widespread expression of vitamin D receptor (VDR) on tissues and cells such as heart, kidney, immune cells, brain and muscle. In chronic kidney disease (CKD) and other chronic disorders, vitamin D deficiency [serum 25(OH)D <20 ng/mL](serum%2025(OH)D%20<20%20ng/mL) is very common and is associated with adverse outcomes.  **Paricalcitol** , a selective activator of VDR, has demonstrated in several experimental and clinical studies of diabetic and non-diabetic CKD a favourable profile compared to other VDR activators, alone or as add-on to standard therapy. These beneficial effects are mediated by different actions such as reduction of oxidative stress, inflammation, downregulation of cardiac and renal renin expression, downregulation of calcifying genes and direct vascular protective effects. Furthermore, paricalcitol beneficial effects may be independent of baseline serum parathyroid hormone (PTH), calcium and phosphate levels. These benefits should be confirmed in large and well-designed ongoing clinical trials.
 
 PMID:     23258805
-

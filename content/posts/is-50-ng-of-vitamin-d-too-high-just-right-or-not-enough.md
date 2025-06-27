@@ -1,18 +1,60 @@
 {
-  "title": "Is 50 ng of vitamin D too high, just right, or not enough",
-  "slug": "is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough",
-  "aliases": [
-    "/Is+50+ng+of+vitamin+D+too+high+just+right+or+not+enough",
-    "/2028"
-  ],
-  "tiki_page_id": 2028,
-  "date": "2011-09-24",
-  "categories": [
-    "Optimum",
-    "Too much D",
-    "Consensus"
-  ]
+    "title": "Is 50 ng of vitamin D too high, just right, or not enough",
+    "slug": "is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough",
+    "aliases": [
+        "/Is+50+ng+of+vitamin+D+too+high+just+right+or+not+enough",
+        "/2028"
+    ],
+    "tiki_page_id": 2028,
+    "date": "2011-09-24",
+    "categories": [
+        "Optimum",
+        "Too much D",
+        "Consensus"
+    ],
+    "tags": [
+        "Consensus",
+        "Optimum",
+        "Too much D",
+        "asthma",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "depression",
+        "depression and pregnancy",
+        "dermatology",
+        "diabetes",
+        "dosage",
+        "fertility sperm",
+        "headache",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "life span",
+        "metabolic",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "pain",
+        "preeclampsia",
+        "pregnancy",
+        "psoriasis",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin k"
+    ]
 }
+
 
 {{< toc >}}
 
@@ -101,7 +143,7 @@ In my considered opinion, it is an artifact of the long  follow-up time, not hig
 
 ---
 
-#### <a href="/posts/chart-of-vitamin-d-levels-vs-race" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013">Chart of Vitamin D levels vs race - April 2013</a>
+#### [Chart of Vitamin D levels vs race - April 2013](/posts/chart-of-vitamin-d-levels-vs-race)
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

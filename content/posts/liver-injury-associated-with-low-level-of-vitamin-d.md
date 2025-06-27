@@ -1,15 +1,23 @@
 {
-  "title": "Liver injury associated with low level of vitamin D",
-  "slug": "liver-injury-associated-with-low-level-of-vitamin-d",
-  "aliases": [
-    "/Liver+injury+associated+with+low+level+of+vitamin+D+\u2013+April+2011",
-    "/1578"
-  ],
-  "tiki_page_id": 1578,
-  "date": "2011-04-20",
-  "categories": [
-    "Liver"
-  ]
+    "title": "Liver injury associated with low level of vitamin D",
+    "slug": "liver-injury-associated-with-low-level-of-vitamin-d",
+    "aliases": [
+        "/Liver+injury+associated+with+low+level+of+vitamin+D+\u2013+April+2011",
+        "/1578"
+    ],
+    "tiki_page_id": 1578,
+    "date": "2011-04-20",
+    "categories": [
+        "Liver"
+    ],
+    "tags": [
+        "Liver",
+        "blood levels",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "vitamin d"
+    ]
 }
 
 
@@ -55,5 +63,4 @@ Injury to the liver results in release of the substance into the blood.
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2177">Overview Liver and vitamin D</a>
-
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)

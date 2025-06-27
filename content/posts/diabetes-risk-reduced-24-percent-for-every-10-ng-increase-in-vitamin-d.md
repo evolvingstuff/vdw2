@@ -1,15 +1,28 @@
 {
-  "title": "Diabetes risk reduced 24 percent for every 10 ng increase in vitamin D",
-  "slug": "diabetes-risk-reduced-24-percent-for-every-10-ng-increase-in-vitamin-d",
-  "aliases": [
-    "/Diabetes+risk+reduced+24+percent+for+every+10+ng+increase+in+vitamin+D+\u2013+Mar+2011",
-    "/1512"
-  ],
-  "tiki_page_id": 1512,
-  "date": "2011-03-25",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Diabetes risk reduced 24 percent for every 10 ng increase in vitamin D",
+    "slug": "diabetes-risk-reduced-24-percent-for-every-10-ng-increase-in-vitamin-d",
+    "aliases": [
+        "/Diabetes+risk+reduced+24+percent+for+every+10+ng+increase+in+vitamin+D+\u2013+Mar+2011",
+        "/1512"
+    ],
+    "tiki_page_id": 1512,
+    "date": "2011-03-25",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "magnesium",
+        "metabolic",
+        "obesity",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

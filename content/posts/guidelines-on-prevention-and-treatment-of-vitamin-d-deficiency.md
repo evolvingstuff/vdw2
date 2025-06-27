@@ -1,0 +1,7784 @@
+{
+    "title": "Guidelines on prevention and treatment of vitamin D deficiency",
+    "slug": "guidelines-on-prevention-and-treatment-of-vitamin-d-deficiency",
+    "aliases": [
+        "/Guidelines+on+prevention+and+treatment+of+vitamin+D+deficiency+\u2013+Nov+2011",
+        "/2625"
+    ],
+    "tiki_page_id": 2625,
+    "date": "2012-04-24",
+    "categories": [
+        "How much Vitamin D",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Treatment by Vitamin D",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "brain",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "cognitive",
+        "cystic fibrosis",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dialysis",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "hepatitis c",
+        "high dose",
+        "hip fractures",
+        "influenza",
+        "intervention",
+        "kidney",
+        "life span",
+        "liver",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "pregnancy",
+        "psoriasis",
+        "rheumatoid arthritis",
+        "rickets",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "virus",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+Reumatismo. 2011 Nov 9;63(3):129-47. [doi: 10.4081/reumatismo.2011.129.](https://doi.org/10.4081/reumatismo.2011.129.)
+
+Adami S, Romagnoli E, Carnevale V, Scillitani A, Giusti A, Rossini M, Gatti D, Nuti R, Minisola S.
+
+Unità di Reumatologia, Dipartimento di Medicina, Università di Verona. Silvano.adami@univr.it.
+
+The Italian Society for Osteoporosis, Mineral Metabolism and Bone Diseases (SIOMMMS) has elaborated the following guidelines about the definition, prevention and treatment of inadequate vitamin D status. 
+
+The highlights are presented here.
+
+PMID: 22257914 
+
+- - - - - - - - - - 
+
+HTML from PDF is in  **Italian** – the Chrome Browser will ask if you want it translated
+
+#### How to expand then magnify and shrink this page
+
+1. Expand the page by hitting the left triangle at the top of this column 	 <img src="/attachments/d3.mock.jpg" alt="image">
+
+1. Push the ctrl and + keys concurrently with magnify any web page about 10%.  You can do it multiple times
+
+1. Pushing the ctrl and - keys concurrently will shrink any web page by about 10% as well.
+
+## Summary
+
+* Daily vitamin D allowance ranges from 1,500 IU (healthy adults) to 2,300 IU (elderly with low calcium intake). 
+
+> Since the average Italian diet includes around 300 IU/day, subjects with no effective sun exposure should be supplemented with 1,200-2,000 IU vitamin D per day.
+
+* The serum 25-hydroxy-vitamin D <span>[25(OH)D]</span> levels represents the most accurate way to assess vitamin D repletion, even though there are still no standardized assay methods.
+
+* Conditions of "deficiency" and "insufficiency" are defined by the following ranges of 25(OH)D levels: less than 20 ng/ml and 20-30 ng/ml, respectively.
+
+* In Italy, approximately 50% of young healthy subjects have vitamin D insufficiency during the winter months. 
+
+> The prevalence of deficiency increases with ageing, affecting almost all elderly subjects not on vitamin D supplements.
+
+* When a condition of deficiency has been identified, a cumulative dose of 300,000-1,000,000 IU, over 1-4 weeks is recommended.
+
+* In subjects recently treated for deficiency-insufficiency, a maintenance dose of 800-2,000 IU/day (or weekly equivalent) is recommended. 
+
+> In patients on daily doses over 1,000 IU, 25(OH)D levels should be checked regularly (e.g. once every two years).
+
+* The highest tolerated daily dose has been identified as 4,000 IU/day.
+
+* Vitamin D supplementation should be carefully monitored in patients at higher risk of vitamin D intoxication (granulomatosis) or with primary hyperparathyroidism.
+
+* In pregnant women, vitamin D supplements should be given as in non-pregnant women, but bolus administration (i.e.: single dose >25,000 IU) should be avoided.
+
+- - - - - - - - - - - - - - - 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=WINDOWS-1252">
+
+<meta name="generator" content="ABBYY FineReader 9.0">
+
+<meta name="author" content="">
+
+<meta name="description" content="">
+
+<meta name="keywords" content="">
+
+<title>2210_REUMA3_02_ADAMI.indd</title>
+
+<style type="text/css">
+
+table.main {}
+
+tr.row {}
+
+td.cell {}
+
+div.block {}
+
+div.paragraph {}
+
+.font0 { font:11.00pt "Angsana New", serif; }
+
+.font1 { font:12.00pt "Angsana New", serif; }
+
+.font2 { font:14.00pt "Angsana New", serif; }
+
+.font3 { font:16.00pt "Angsana New", serif; }
+
+.font4 { font:6.00pt "Arial", sans-serif; }
+
+.font5 { font:8.00pt "Arial", sans-serif; }
+
+.font6 { font:9.00pt "Arial", sans-serif; }
+
+.font7 { font:9.00pt "Arial Black", sans-serif; }
+
+.font8 { font:5.00pt "Arial Narrow", sans-serif; }
+
+.font9 { font:6.00pt "Arial Narrow", sans-serif; }
+
+.font10 { font:7.00pt "Arial Narrow", sans-serif; }
+
+.font11 { font:8.00pt "Arial Narrow", sans-serif; }
+
+.font12 { font:9.00pt "Arial Narrow", sans-serif; }
+
+.font13 { font:15.00pt "Arial Narrow", sans-serif; }
+
+.font14 { font:20.00pt "Arial Narrow", sans-serif; }
+
+.font15 { font:15.00pt "Cordia New", sans-serif; }
+
+</style>
+
+</head>
+
+<body>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.60pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.24pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:44.40pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:6.00pt;">
+
+<div class=paragraph style=" padding:0.00pt 143.76pt 0.00pt 309.84pt; text-align:justify;"><span class=font4><b><i>Reumatismo, 2011; 63 (3): 129-147</i></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:40.32pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:145.68pt;">
+
+<div class=paragraph style=" padding:0.00pt 144.96pt 0.00pt 70.08pt; text-align:right;"><span class=font14 style=" line-height:19.92pt;">Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+<div class=paragraph style=" padding:9.36pt 144.00pt 0.00pt 0.00pt; text-align:right;"><span class=font13><i>Guidelines on prevention and treatment</i></span></div>
+
+<div class=paragraph style=" padding:0.00pt 143.76pt 0.00pt 0.00pt; text-align:right;"><span class=font13><i>of vitamin D deficiency</i></span></div>
+
+<div class=paragraph style=" padding:12.72pt 144.96pt 0.00pt 74.16pt; text-align:justify;"><span class=font6><b>S. Adami<sup>1</sup>, E. Romagnoli <sup>2</sup>, </b><span style=" letter-spacing:-1.00pt;"><b>V.</b></span><b> Carnevale<sup>2</sup>, A. Scillitani<sup>3</sup>, A. Giusti<sup>4</sup>, M. Rossini<sup>1</sup>,</b></span></div>
+
+<div class=paragraph style=" padding:1.68pt 144.24pt 0.00pt 0.00pt; text-align:right;"><span class=font6><b>D. Gatti<sup>1</sup>, R. Nuti<sup>5</sup>, S. Minisola<sup>2</sup></b></span></div>
+
+<div class=paragraph style=" padding:2.16pt 144.72pt 0.00pt 88.08pt; text-align:right;"><span class=font11 style=" line-height:9.84pt;"><i><sup>1</sup>Unità di Reumatologia, Dipartimento di Medicina, Università di Verona; <sup>2</sup>Dipartimento di Medicina, Università La Sapienza, Roma; <sup>3</sup>Unità di Endocrinologia, Ospedale S. Giovanni Rotondo, Foggia; <sup>4</sup>Ospedale Galliera, Genova, Italia; <sup>5</sup>Dipartimento di Medicina, Università degli Studi di Siena</i></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.68pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:249.84pt;">
+
+<div class=paragraph style=" padding:0.00pt 94.56pt 0.00pt 0.00pt; text-align:center;"><span class=font12 style=" line-height:10.32pt;"><b>SUMMARY</b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 57.60pt; text-align:justify;"><span class=font1 style=" line-height:10.32pt;">The Italian Society for Osteoporosis, Minerai Metabolism and Bone Diseases (SIOMMMS) has elaborated the following guidelines about the definition, prevention and treatment of inadequate vitamin D status. The highlights are presented here.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.24pt; text-align:justify; text-indent:-8.40pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;Daily vitamin D allowance ranges from 1,500 IU (healthy adults) to 2,300 IU (elderly with low calcium intake). Since the average Italian diet includes around 300 IU/day, subjects with no effective sun exposure should be supplemented with 1,200-2,000 IU vitamin D per day.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.88pt 0.00pt 66.24pt; text-align:justify; text-indent:-8.40pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;The serum 25-hydroxy-vitamin D [25(OH)D] levels represents the most accurate way to assess vitamin D repletion, even though there are still no standardized assay methods.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.24pt; text-align:justify; text-indent:-8.40pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;Conditions of &quot;deficiency&quot; and &quot;insufficiency&quot; are defined by the following ranges of 25(OH)D levels: less than 20 ng/ml and 20-30 ng/ml, respectively.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.88pt 0.00pt 66.24pt; text-align:justify; text-indent:-8.40pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;In Italy, approximately 50% of young healthy subjects have vitamin D insufficiency during the winter months. The prevalence of deficiency increases with ageing, affecting almost all elderly subjects not on vitamin D supplements.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.24pt; text-align:justify; text-indent:-8.40pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;When a condition of deficiency has been identified, a cumulative dose of 300,000-1,000,000 IU, over 1-4 weeks is recommended.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.24pt; text-align:justify; text-indent:-8.40pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;In subjects recently treated for deficiency-insufficiency, a maintenance dose of 800-2,000 IU/day (or weekly equivalent) is recommended. In patients on daily doses over 1,000 IU, 25(OH)D levels should be checked regularly (e.g. once every two years).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 57.84pt; text-align:left;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;The highest tolerated daily dose has been identified as 4,000 IU/day.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.24pt; text-align:justify; text-indent:-8.40pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;Vitamin D supplementation should be carefully monitored in patients at higher risk of vitamin D intoxication (granulomatosis) or with primary hyperparathyroidism.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.88pt 0.00pt 66.24pt; text-align:justify; text-indent:-8.40pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;In pregnant women, vitamin D supplements should be given as in non-pregnant women, but bolus administra-tion (i.e.: single dose &gt;25,000 IU) should be avoided.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:15.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:6.48pt;">
+
+<div class=paragraph style=" padding:0.00pt 143.76pt 0.00pt 315.12pt; text-align:justify;"><span class=font9><i>Reumatismo, 2011; 63 (3): 129-147</i></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:24.72pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.60pt;">
+
+<div class=block style=" width:243.60pt; height:143.04pt;">
+
+<div class=paragraph style=" padding:0.00pt 76.08pt 0.00pt 63.84pt; text-align:left; text-indent:-14.40pt;"><span class=font2 style=" line-height:12.00pt;"><i>U </i><span class=font7>FARMACOLOGIA DELLA VITAMINA D</span></span></div>
+
+<div class=paragraph style=" padding:9.12pt 14.88pt 0.00pt 49.20pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;"><b><i>Produzione e metabolismo </i></b>Le azioni della vitamina D sono da attri­buire al suo metabolita attivo, ossia l'1,25-diidrossicolecalciferolo [1,25(OH)<sub>2</sub>D<sub>3</sub>] o calcitriolo, che viene prodotto attraverso una serie di passaggi enzimatici a partire dal colecalciferolo o vitamina D<sub>3</sub> L'ergo-calciferolo, o vitamina D<sub>2</sub>, segue le stesse tappe metaboliche. Sia la vitamina D<sub>3</sub> che</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:191.52pt;">
+
+<div class=block style=" width:191.52pt; height:143.04pt;">
+
+<div class=paragraph style=" padding:0.00pt 12.00pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">la vitamina D<sub>2</sub> possono essere assunte con la dieta ma la quota preponderante di vi­tamina D<sub>3</sub> deriva dalla conversione del 7-deidrocolesterolo (o provitamina D) (1) a seguito dell'esposizione della cute a raggi ultravioletti di specifica lunghezza d'onda (UVB tra 290 e 315 nm) (2). La luce solare è caratterizzata dalla presenza di queste radiazioni solo per un numero limitato di ore, che peraltro varia in relazione alla stagione ed alla latitudine. Per tale motivo, in Italia, la produzione di vitamina D legata</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:132.24pt;">
+
+<div class=block style=" width:132.24pt; height:143.04pt;">
+
+<div class=paragraph style=" padding:92.16pt 59.52pt 0.00pt 0.00pt; text-align:left;"><span class=font8 style=" line-height:7.92pt;">ndirizzo per la corrispondenza <sup>D</sup>rof. Silvano Adami Reumatologia Policlinico GB Ross 37100 Verona</span></div>
+
+<div class=paragraph style=" padding:0.00pt 62.16pt 0.00pt 0.24pt; text-align:justify;"><span class=font8 style=" line-height:7.92pt;">E-mail: <a href="mailto:Silvano.adami@univr.it">Silvano.adami@univr.it</a></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:51.60pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.60pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.24pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.08pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:161.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 206.88pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b><u>RASSEGNA</u></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt;">
+
+<div class=block style=" width:227.52pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 49.20pt 0.00pt 12.24pt; text-align:justify;"><span class=font5 style=" letter-spacing:-0.50pt;">S. <span class=font11 style=" letter-spacing:0.00pt;"><i>Adami, E. Romagnoli, </i></span><span class=font11 style=" letter-spacing:-1.00pt;"><i>V.</i></span><span class=font11 style=" letter-spacing:0.00pt;"><i> Carnevale, et al.</i></span></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:229.44pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">all'esposizione solare è trascurabile nei me­si invernali. Altri fattori che condizionano fortemente la sintesi vitaminica sono l'età (a parità di esposizione solare il soggetto anziano ne produce il 30% in meno) (3, 4), la superficie e lo spessore della cute esposta al sole, il tempo di irradiazione, nonché l'uso di creme protettive, che pos­sono ridurre del 97% la sintesi cutanea di vitamina D.</span></div>
+
+<div class=paragraph style=" padding:0.24pt 14.88pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Alle latitudini temperate, l'80% del fab­bisogno di vitamina D è garantito dall'ir­radiazione solare ed il restante 20% viene assicurato dall'alimentazione (5). La vita­mina D<sub>3</sub> è contenuta quasi esclusivamente nei grassi animali, mentre trascurabile è la quota di vitamina D<sub>2</sub> presente in alcuni grassi vegetali.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 178.56pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">La vitamina D è fortemente lipo-<br></span></div>
+
+</div>
+
+</td>
+
+<td class=cell rowspan="3" valign="top" style=" width:227.52pt;">
+
+<div class=block style=" width:227.52pt; height:621.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:11.76pt;">replezione vitaminica (5, 7). La 25(OH) D è un metabolita parzialmente idrofilo che si deposita solo a livello epatico e muscolare; la sua emivita è più breve di quella della vitamina D e tale da soddi­sfare il fabbisogno per non più di 12-18 giorni (8, 9). Trascorso tale periodo, nei pazienti con carenza di vitamina D cui sia stato somministrato 25(OH)colecalcifero-lo, dopo la sospensione del trattamento i livelli sierici di 25(OH)D tendono a ridursi rapidamente; la somministrazione di dosi mensili più elevate di calcifediolo supera questo problema (10). La conversione in 1,25(OH)<sub>2</sub>D<sub>3</sub> (o calcitrio-lo) ad opera della 1-alfa-idrossilasi è attuata a livello di vari tessuti (vedi sotto) sebbene la quota più rilevante e attinente il controllo del metabolismo minerale si realizzi nei tu­buli prossimali renali, richieda la presenza di ormone paratiroideo (PTH) e sia in parte modulata dai livelli sierici del calcio e del fosforo. I metaboliti di-idrossilati hanno emivita brevissima e non vengono deposi­tati a livello tessutale. Nei soggetti affetti da insufficienza renale la produzione di 1,25(OH)<sub>2</sub>D viene pro­gressivamente compromessa. Tuttavia l'at­tività alfa-idrossilasica non è più in grado di assicurare livelli ormonali normali solo in presenza di un notevole deterioramento della funzione renale. Di conseguenza la prevenzione della carenza di vitamina D con metaboliti idrossilati è giustificata solo nei pazienti affetti da insufficienza renale avanzata (stadio IV-V). Si deve tuttavia sottolineare come, anche in tali malati i livelli di 25(OH)D debbano essere mante­nuti nel range di normalità per garantire un adeguato substrato alle 1-alfa-idrossilasi extra-renali (11).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.52pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:11.76pt;">D'altra parte il trattamento con metabo­liti attivi finali della vitamina D potrebbe risultare in altre condizioni irrazionale e o addirittura potenzialmente rischioso, poiché la 1-idrossilazione è il gradino limitante del processo di sintesi della vi­tamina D attiva; esso costituisce quindi un meccanismo di protezione nei confronti di un'eventuale intossicazione, che è preser­vato con gli altri tipi di supplementazione. Studi condotti in pazienti con osteoporosi</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.08pt;">
+
+<div class=block style=" width:178.08pt; height:238.56pt;">
+
+<div class=paragraph style=" padding:0.00pt 11.04pt 0.00pt 51.12pt; text-align:left;"><span class=font3 style=" line-height:12.00pt;"><b><i>La vitamina D deriva per 4/5 dalla esposizione solare. Essa si deposita nel tessuto adiposo e la quota che si libera viene immediatamente convertita nel fegato in 25(OH)D, le cui concentrazioni sieriche rappresentano un preciso indicatore dei depositi di vitamina. La 25(OH) D viene convertita nel metabolita attivo 1,25(OH)<sub>2</sub>D soprattutto nel rene nell'ambito di un meccanismo omeostatico che coinvolge i livelli sierici di PTH, calcio e fosforo.</i></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:161.76pt;">
+
+<div class=block style=" width:161.76pt; height:238.56pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">solubile. Essa viene rapidamente assorbita a livello duodenale e di­giunale e quindi distribuita attra­verso la circolazione linfatica quasi totalmente al tessuto adiposo, da cui viene liberata in piccole quan­tità rispetto alla quota immagazzi­nata. Pertanto una maggiore massa adiposa &quot;diluisce&quot; la vitamina D, il che spiega perché il rischio della sua carenza sia più elevato nei sog­getti obesi.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.16pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">La vitamina D come tale rimane in circolo solo per brevissimo tempo e le sue concentrazioni ematiche sono pertanto molto ridotte (1-2 ng/ ml) e, nel corso del transito epatico, vengono convertite in 25-idrossico-lecalciferolo [25(OH)D<sub>3</sub>] ad opera dell'enzima 25-idrossilasi. Questo </span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:153.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">processo metabolico può aver luogo anche in presenza di una riduzione del tes­suto epatico funzionante. Tuttavia, del tutto recentemente è stata documentata un'eleva­ta prevalenza di ipovitaminosi D nei malati affetti da epatite cronica HCV-correlata; nei pazienti con genotipo 1 tale condizione sembra interferire con la risposta terapeuti­ca all'interferone (6).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">La 25(OH)D è il principale metabolita circolante della vitamina D e le sue con­centrazioni sieriche costituiscono l'indice biochimico più attendibile dello stato di</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:14.16pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 49.92pt; text-align:left;"><span class=font11>130    Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.08pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:161.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.36pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:74.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:57.84pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:435.12pt;">
+
+<div class=block style=" width:435.12pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:1.68pt 75.84pt 0.00pt 50.16pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:132.24pt;">
+
+<div class=block style=" width:132.24pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.28pt 0.00pt 1.92pt; text-align:justify;"><span class=font15><b><u>RASSEGNA</u></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.36pt;">
+
+<div class=block style=" width:243.36pt; height:621.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.16pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">metasteroidea, dimostrerebbero tuttavia una maggiore efficacia del calcitriolo ri­spetto al colecalciferolo nella prevenzione del rischio di frattura.</span></div>
+
+<div class=paragraph style=" padding:11.76pt 14.40pt 0.00pt 49.20pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;"><b><i>Meccanismo d'azione </i></b>Una volta attivata a 1,25(OH)<sub>2</sub>D, la vita­mina D si lega ad uno specifico recettore (VDR) che appartiene alla superfamiglia dei recettori per gli steroidi. In realtà sono stati identificati due tipi di recettori per la vitamina D. Il primo, localizzato nel nu­cleo, è in grado di stimolare direttamente la trascrizione di geni e quindi la sintesi ex-novo di proteine (meccanismo geno-mico). L'altro recettore è localizzato sulla membrana cellulare e agisce inducendo la formazione di secondi messaggeri cellulari (come il cAMP, il diacilglicerolo, l'ino-sitolo trifosfato, l'acido arachidonico) o fosforilando alcune proteine cellulari. Tale meccanismo d'azione non genomico è in grado di modulare in maniera rapida la risposta cellulare a vari stimoli (12). I recettori per la vitamina D sono pratica­mente ubiquitari, a riprova del loro impor­tante ruolo fisiologico, non solo nel meta­bolismo minerale ma anche in numerose altre funzioni dell'organismo. L'affinità del recettore della vitamina D per l'1,25(OH)<sub>2</sub>D è mille volte maggiore rispetto a quella per la 25(OH)D o per altri metaboliti.</span></div>
+
+<div class=paragraph style=" padding:11.04pt 15.12pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">A. <i>Effetti su intestino, tessuto osseo e mu­scolo</i></span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">L'1, 25(OH)<sub>2</sub>D determina un aumento dell'assorbimento intestinale di calcio at­traverso l'induzione della sintesi di una proteina espressa sull'orletto a spazzola delle cellule dell'epitelio intestinale, che lega lo ione e lo trasporta dal lume al ci­toplasma cellulare. Inoltre, l'1,25(OH)<sub>2</sub>D facilita anche l'assorbimento passivo del calcio, aumentando la permeabilità delle &quot;tight junctions&quot; intercellulari. L'azione della vitamina D sul tessuto os­seo si esplica attraverso l'interazione con recettori per l'1,25(OH)<sub>2</sub>D espressi dagli osteoblasti; è stato osservato che la vi­tamina D promuove la sintesi di alcune proteine, soprattutto l'osteocalcina, fonda­mentali per l'omeostasi del tessuto osseo.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:324.00pt;">
+
+<div class=block style=" width:324.00pt; height:621.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 0.48pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">L'1,25(OH)<sub>2</sub>D inoltre induce la produzione di RANKL promuovendo così l'attivazione degli osteoclasti.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">L'1,25(OH)<sub>2</sub>D è in grado di stimolare la produzione di proteine muscolari ma so­prattutto di attivare alcuni meccanismi di trasporto del calcio a livello del reticolo sarcoplasmatico, che risultano essenziali per la contrazione muscolare. In condizio­ni di ipovitaminosi D sono stati descritti quadri di miopatia prossimale (difficoltà ad alzarsi dalla sedia, impotenza funzionale nel portare le braccia sopra la testa, ecc.), di sarcopenia e di riduzione della forza muscolare, con disturbi dell'equilibrio e con conseguente aumento del rischio di</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.24pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">cadute (13-24).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">La carenza di vitamina D, soprattutto se protratta nel tempo, può portare a quadri di vera e propria disabilità. Il corrispettivo istologico è costituito da un'atrofia delle fibre muscolari di tipo II, un aumento degli spazi tra le fibrille muscolari e la sostitu­zione del tessuto muscolare con cellule adipose e tessuto fibroso (25). Nei soggetti anziani questo fenomeno può sommarsi alla fisiologica perdita di massa muscolare (sarcopenia). È stata riportata una ridu­zione del rischio di cadute in seguito alla somministrazione di vitamina D in soggetti anziani (26-30).</span></div>
+
+<div class=paragraph style=" padding:11.52pt 144.24pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">B. <i>Effetti extra-scheletrici </i>La vitamina D svolge importanti funzioni anche al di fuori del tessuto muscolo-sche­letrico. E' stata infatti osservata la presenza di recettori per la vitamina D in vari tipi cellulari ed è stata documentata l'espres­sione della 1a-idrossilasi, ossia la capacità di produrre 1,25(OH)<sub>2</sub>D, nei macrofagi attivati, negli osteoblasti, nei cheratinociti e a livello di prostata, colon e mammella. La produzione locale di 1,25(OH)<sub>2</sub>D non contribuisce al mantenimento dell'omeo­stasi calcemica, come dimostrato dal fatto che i pazienti nefrectomizzati o con grave insufficienza renale sono caratterizzati da livelli di 1,25(OH)<sub>2</sub>D praticamente indosa­bili. La produzione locale di 1,25(OH)<sub>2</sub>D sembrerebbe implicata nei meccanismi di regolazione paracrina della crescita cel­lulare, compresa quella tumorale (31-37).</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:14.16pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:509.52pt;">
+
+<div class=block style=" width:509.52pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 16.32pt 0.00pt 435.12pt; text-align:justify;"><span class=font11>Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:57.84pt;">
+
+<div class=block style=" width:57.84pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.96pt 0.00pt 0.00pt; text-align:justify;"><span class=font11>131</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.36pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:74.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:57.84pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:161.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.28pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:340.08pt;">
+
+<div class=block style=" width:340.08pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 207.12pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:227.28pt;">
+
+<div class=block style=" width:227.28pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 48.96pt 0.00pt 12.00pt; text-align:justify;"><span class=font11><i>S. Adami, E. Romagnoli, </i><span style=" letter-spacing:-1.00pt;"><i>V.</i></span><i> Carnevale, et al.</i></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:340.08pt;">
+
+<div class=block style=" width:340.08pt; height:37.44pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Tale documentata attività anti-proliferativa ha promosso l'utilizzo dell'1,25(OH)<sub>2</sub>D o dei suoi metaboliti nel trattamento </span></div>
+
+</div>
+
+</td>
+
+<td class=cell rowspan="3" valign="top" style=" width:227.28pt;">
+
+<div class=block style=" width:227.28pt; height:621.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">hanno ritenuto ottimale il livello di 25(OH) D associato a valori di PTH entro il range di normalità nel 90-100% della popolazione studiata. Quest'ultimo approccio definisce stime molto diverse della soglia di 25(OH) D, ossia 32-50 nmol/l (12,8-20 ng/ml) e 68-78 nmol/l (27, 2-31 ng/ml), in funzione del metodo statistico utilizzato nella co­struzione del modello di regressione (44, 45). Peraltro l'approccio legato ai livelli di PTH risente anche della durata dello stato carenziale (sino allo sviluppo di forme simili all'iperparatiroidismo terziario) e dell'apporto di calcio con la dieta, in quan­to una condizione di carenza di vitamina D può essere mascherata da un apporto di calcio con la dieta particolarmente ge­neroso e vice-versa (46). D'altra parte i livelli di PTH sierico sono notevolmente condizionati dallo stato vitaminico D per concentrazioni di 25(OH)D inferiori a 16,3 ng/ml e dalla calcemia per livelli vitaminici al di sopra di tale soglia (47). Teoricamente il metodo più accurato per stimare le concentrazioni minime di vitami­na D sarebbe quello di rilevare la comparsa dei segni istologici di osteomalacia (vedi sotto); tuttavia questo approccio è poco pra­tico e probabilmente anche poco sensibile. Nell'ultimo decennio vari studi osservazio-nali hanno documentato una relazione tra i livelli di 25(OH)D e svariati altri parametri: valori di densità minerale ossea (BMD) (48, 49), propensione a cadere, incidenza di fratture, eventi cardio-vascolari, neoplasie (specie colon, mammella e prostata), sin­dromi depressive, diabete, sclerosi multipla e numerose altre condizioni morbose. La relazione tra livelli di 25(OH)D e rischio relativo per alcune di queste condizioni sembrerebbe indicare che le concentrazioni ottimali di 25(OH)D si attestino intorno a 75-100 nmol/l (o 30-45 ng/ml) (49) [(Fig. 1), modificata da 49].</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">In anni recenti diversi autori, sulla scorta di meta-analisi e studi trasversali, hanno identificato il valore soglia di un adeguato stato vitaminico D con una concentrazione sierica di 25(OH)D pari a 32 ng/ml. Si deve tuttavia sottolineare come, in mancanza di studi di intervento, tale valore soglia non possa essere conclusivamente definito. Co-</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.32pt;">
+
+<div class=block style=" width:178.32pt; height:359.28pt;">
+
+<div class=paragraph style=" padding:0.00pt 7.44pt 0.00pt 50.16pt; text-align:left;"><span class=font3 style=" line-height:12.00pt;"><b><i>L'1,25(OH)2D, è il metabolita attivo della vitamina D che esercita le sue azioni attraverso l'interazione con specifici recettori (VDR) nucleari o situati sulla superficie cellulare. Esercita una cruciale influenza sul metabolismo calcio-fosforico, aumentando l'efficienza dell'assorbimento intestinale di calcio, incrementando il riassorbimento tubulare renale di calcio e fosforo e interferendo positivamente sulla attività osteoblastica ed osteoclastica. Promuove inoltre alcune funzioni muscolari. L'1,25(OH)2D infine contribuisce al controllo della proliferazione cellulare, con effetti sul sistema immunitario, sulla cute e su numerose neoplasie.</i></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:161.76pt;">
+
+<div class=block style=" width:161.76pt; height:359.28pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">della psoriasi (38) e ne ha fatto ipotizzare l'impiego in alcuni tipi di neoplasie (prostata, mammella e colon) (39).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">L'identificazione del VDR nel tes­suto renale e la correlazione negati­va rilevata tra i livelli di 1,25(OH)<sub>2</sub>D e renina suggeriscono un possibile ruolo della vitamina D anche nella regolazione della pressione arte­riosa (40). È nota inoltre la capa­cità della vitamina D di modulare l'attività del sistema immunitario, attraverso azioni esercitate sui lin­fociti B e T e sulle cellule della linea monocito-macrofagica. Una correzione del deficit di vitamina D potrebbe in tal senso contribuire alla riduzione del rischio di svariate malattie autoimmuni compreso il diabete tipo 1 (41). Relativamente a quest'ultima patologia si rammenta che le cellule delle isole pancre­atiche esprimono i recettori VDR e che l'1,25(OH)<sub>2</sub>D è in grado di promuovere la sintesi e la secrezio­ne di insulina.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Tuttavia, per una parte degli effetti extrascheletrici ipotizzati in base agli studi di associazione manca </span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:340.08pt;">
+
+<div class=block style=" width:340.08pt; height:224.64pt;">
+
+<div class=paragraph style=" padding:0.00pt 15.12pt 0.00pt 146.16pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">tuttora una solida dimostrazione scientifica, poiché i pochi studi di interven­to non hanno fornito risultati univoci.</span></div>
+
+<div class=paragraph style=" padding:26.64pt 0.00pt 0.00pt 145.92pt; text-align:left;"><span class=font7>? LIVELLI OTTIMALI DI 25(OH)D</span></div>
+
+<div class=paragraph style=" padding:11.04pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Sebbene non sia stata ancora acquisita una adeguata standardizzazione dei metodi di dosaggio (42), la concentrazione sierica di 25(OH)D è ritenuta il miglior indicatore clinico della riserva di vitamina biodispo­nibile. La definizione dei livelli normali di 25(OH)D si è profondamente modificata nell'ultimo decennio. Il primo approccio fu quello basato sui livelli minimi di 25(OH)D necessari per garantire un ottimale assorbi­mento intestinale di calcio. Questo limite fu stabilito in 32 ng/ml (80 nmol/l) (43). Altri</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:14.16pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 49.92pt; text-align:left;"><span class=font11>132    Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:161.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.28pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.45pt; height:765.00pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.45pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.92pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.07pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.45pt;">
+
+<div class=block style=" width:567.45pt; height:41.17pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:435.38pt;">
+
+<div class=block style=" width:435.38pt; height:11.70pt;">
+
+<div class=paragraph style=" padding:1.80pt 75.82pt 0.00pt 50.17pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:132.07pt;">
+
+<div class=block style=" width:132.07pt; height:11.70pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.32pt 0.00pt 1.57pt; text-align:justify;"><span class=font15><b><u>RASSEGNA</u></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.45pt;">
+
+<div class=block style=" width:567.45pt; height:37.57pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell rowspan="3" valign="top" style=" width:243.45pt;">
+
+<div class=block style=" width:243.45pt; height:621.22pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 48.60pt; text-align:justify;"><span class=font2 style=" line-height:11.92pt;">sì, recentemente queste soglie di normalità sono state messe in discussione da un <i>re-port </i>dell'Institute of Medicine (IOM) (51). Nel presente documento per quanto attiene i livelli soglia di 25(OH)D sotto i quali si hanno conseguenze negative vengono svi­luppati i seguenti punti:</span></div>
+
+<div class=paragraph style=" padding:10.35pt 0.00pt 0.00pt 49.50pt; text-align:left;"><span class=font15 style=" line-height:11.92pt;"><b>A.&nbsp;</b><span class=font3><b><i>Rachitismo e osteomalacia</i></b></span></span></div>
+
+<div class=paragraph style=" padding:0.45pt 14.40pt 0.00pt 49.50pt; text-align:justify;"><span class=font2 style=" line-height:11.92pt;">In presenza di un normale apporto di calcio con la dieta il rischio di rachitismo aumenta per livelli di 25(OH)D inferiori a 25 nmol/l (10 ng/ml) (43) ma è ancora minimo per livelli compresi tra 25 and 50 nmol/l. Re­centi dati autoptici (52) hanno documentato la presenza di osteomalacia per livelli di 25(OH)D inferiori o uguali a 50 nmol/l (20 ng/ml). Tuttavia, quando l'apporto di calcio è inadeguato per evitare il rischio di osteo­malacia potrebbero essere necessari livelli superiori a 75 nmol/l (30 ng/ml).</span></div>
+
+<div class=paragraph style=" padding:10.35pt 0.00pt 0.00pt 49.72pt; text-align:left;"><span class=font15 style=" line-height:11.92pt;"><b>B.&nbsp;</b><span class=font3><b><i>Rischio di frattura</i></b></span></span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.63pt 0.00pt 49.27pt; text-align:justify;"><span class=font2 style=" line-height:11.92pt;"><i>Risultati di studi d'intervento </i>Esiste un'ampia variabilità di dati. In alcuni studi si conclude che livelli di 25(OH)D superiori a circa 40 nmol/l siano sufficienti per garantire un'adeguata protezione ossea, ma in altri questa soglia è posta a 50 nmol/l</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 49.72pt; text-align:left;"><span class=font2>(53-57).</span></div>
+
+<div class=paragraph style=" padding:10.35pt 14.40pt 0.00pt 49.27pt; text-align:justify;"><span class=font2 style=" line-height:11.92pt;"><i>Risultati di studi osservazionali </i>Numerosi studi osservazionali hanno mes­so in relazione i livelli di 25(OH)D con il rischio di frattura (prevalentemente di femore) (58, 59). In tutti questi studi, bassi livelli di 25(OH)D si associano ad un più elevato rischio di frattura. I valori soglia oltre i quali non si osservano ulteriori be­nefici non sono molto univoci e variano da 40 nmol/l (60) a 50 nmol/l (61) a 60-70 nmol/l (62-65).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 49.50pt; text-align:justify;"><span class=font2 style=" line-height:11.92pt;">Va sottolineato che con l'eccezione dello studio condotto in Svezia (60) ove peral­tro l'apporto di calcio è molto elevato e le concentrazioni di 25(OH)D piuttosto omogenee, la maggior parte degli altri stu­di indica che un significativo incremento del rischio di frattura si osserva per valori di 25(OH)D inferiori a circa 60 nmol/l. D'altra parte quest'ultima soglia è stata identificata dall'IOM in 50 nmol/l, in con-</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:324.00pt;">
+
+<div class=block style=" width:263.25pt; height:152.77pt; padding:10.13pt 53.32pt 5.40pt 7.42pt;">
+
+<img src="Guidelines 2011-1.jpg" alt="" style=" width:263.25pt; height:152.77pt;"></div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:324.00pt;">
+
+<div class=block style=" width:324.00pt; height:38.47pt;">
+
+<div class=paragraph style=" padding:0.00pt 86.85pt 0.00pt 25.88pt; text-align:justify;"><span class=font0 style=" line-height:16.42pt;"><b>30&nbsp;50&nbsp;70&nbsp;90 110</b></span></div>
+
+<div class=paragraph style=" padding:1.80pt 0.00pt 0.00pt 90.22pt; text-align:left;"><span class=font9 style=" line-height:16.42pt;"><b>Median 25(OH)D concentration (nmol/L)</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:324.00pt;">
+
+<div class=block style=" width:324.00pt; height:414.45pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.15pt 0.00pt 0.00pt; text-align:justify;"><span class=font12 style=" line-height:11.02pt;"><b>Figura 1 </b>- Relazione tra livelli di 25(OH)D e rischio relativo per alcune condizioni patologiche.</span></div>
+
+<div class=paragraph style=" padding:8.32pt 144.22pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:11.92pt;">trasto ad altre autorevoli posizioni (66). Si rammenta in particolare come in 2 meta-analisi di <i>trial </i>randomizzati e controllati (RCTs) una soglia di 50 nmol/l risultasse inadeguata a garantire una riduzione del rischio di fratture e cadute (28, 67). Inoltre dallo studio NHANES, la relazione tra livelli di BMD e 25(OH)D dimostrava una chiara persistenza della correlazione posi­tiva per valori ben oltre i 50 nmol/l (48,49). La parziale incoerenza di queste posizioni e dei risultati dei vari studi può essere attri­buita all'interazione tra livelli di 25(OH)D e apporto di calcio con la dieta, poichè in presenza di una dieta particolarmente ricca di calcio possono essere sufficienti livelli di 25(OH)D più bassi e vice-versa (46, 68). Va anche ricordato che l'espressione dei recettori per la vitamina D (e quindi la ri­sposta alla vitamina D) si riduce con l'avan­zare dell'età a livello di tutti i tessuti, ed in particolare di intestino, rene e muscolo (69). Anche il meccanismo di regolazione renale della produzione di 1,25(OH)<sub>2</sub>D in risposta al PTH sembra attenuarsi con l'invecchiamento (70, 71). Queste ultime osservazioni farebbero quindi ritenere che negli anziani i livelli ottimali di 25(OH)D debbano essere un po' superiori a quelli identificati per i giovani. In conclusione considerando che: a) i livelli sierici di 25(OH)D auspicabili</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.45pt;">
+
+<div class=block style=" width:567.45pt; height:14.17pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.45pt;">
+
+<div class=block style=" width:567.45pt; height:5.85pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.15pt 0.00pt 435.38pt; text-align:justify;"><span class=font11>Reumatismo 3/2011 133</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.45pt;">
+
+<div class=block style=" width:567.45pt; height:33.30pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.45pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.92pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.07pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.08pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:147.36pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:14.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:325.44pt;">
+
+<div class=block style=" width:325.44pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 192.48pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:241.92pt;">
+
+<div class=block style=" width:241.92pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 49.20pt 0.00pt 26.64pt; text-align:justify;"><span class=font5 style=" letter-spacing:-0.50pt;">S. <span class=font11 style=" letter-spacing:0.00pt;"><i>Adami, E. Romagnoli, </i></span><span class=font11 style=" letter-spacing:-1.00pt;"><i>V.</i></span><span class=font11 style=" letter-spacing:0.00pt;"><i> Carnevale, et al.</i></span></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:21.84pt;">
+
+<div class=paragraph style=" padding:0.00pt 28.56pt 0.00pt 145.92pt; text-align:justify;"><span class=font12 style=" line-height:10.80pt;"><b>Tabella I - </b>Interpretazione dei livelli ematici di 25(OH)D.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell rowspan="5" valign="top" style=" width:227.52pt;">
+
+<div class=block style=" width:227.52pt; height:620.64pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">esposizione solare che per squilibri diete­tici. L'esposizione solare, in termini tanto di superficie corporea esposta quanto di tempo di irradiazione, si riduce con l'avan­zare dell'età, in rapporto a ragioni socio­culturali o a patologie oculari o cutanee che ne limitano la tollerabilità. Si rammenta inoltre che la produzione cutanea di vitami­na D, a parità di esposizione ultra-violetta, si riduce con l'età. Anche l'assunzione dei cibi che contengono le quantità maggiori di vitamina D (latte e derivati, grassi animali) diminuisce con l'avanzare degli anni per il timore di aumentare il rischio cardiova­scolare.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Un quadro preoccupante è emerso anche da studi policentrici internazionali che hanno inaspettatamente documentato una maggiore prevalenza di ipovitaminosi D nei paesi del Sud Europa (Italia, Grecia e Spagna) (79, 82, 87). In Italia i cibi non vengono addizionati in vitamina D e di conseguenza la correzione del deficit è co­munemente affidata alla supplementazione farmacologica.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Nella pratica clinica sia per il trattamen­to dell'osteopenia che dell'osteoporosi postmenopausale è usualmente indicata ed utilizzata la combinazione di calcio e vita­mina D, disponibile in varie formulazioni farmaceutiche nel nostro Paese. Questo trattamento si è dimostrato in grado in vari <i>trial </i>clinici di ridurre il rischio di fratture femorali in particolari gruppi di pazienti (88, 89). Per la scarsissima compliance a queste formulazioni (90, 91) accade spes­so che persino nei pazienti in trattamento con farmaci per la terapia dell'osteoporosi la supplementazione con vitamina D sia infrequente e sospesa precocemente (92), malgrado la raccomandazione riportata nel foglietto illustrativo dei farmaci per l'oste­oporosi e nella Nota 79 dell'AIFA. È stato documentato proprio in Italia che ciò tende a vanificare gli <i>outcome </i>terapeutici dei farmaci utilizzati per l'osteoporosi (93-95). Il problema della carenza di vitamina D non è esclusivo appannaggio degli anziani. Un recente studio volto a stabilire i valori di normalità dei marker del metabolismo minerale in soggetti giovani e sani ha di­mostrato che la carenza di vitamina D</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:179.76pt; height:67.68pt; padding:0.00pt 14.40pt 18.72pt 145.68pt;">
+
+<table class=main frame="box" rules="all" border="1" cellspacing="0" cellpadding="0" style=" width:179.76pt; height:67.68pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:60.24pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:13.44pt;">
+
+<div class=paragraph style=" padding:2.64pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11><b>Definizione</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:13.44pt;">
+
+<div class=paragraph style=" padding:2.64pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11><b>nmol/L</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:60.24pt;">
+
+<div class=block style=" width:60.24pt; height:13.44pt;">
+
+<div class=paragraph style=" padding:2.64pt 0.00pt 0.00pt 20.64pt; text-align:left;"><span class=font11><b>ng/ml</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:13.20pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 3.12pt; text-align:left;"><span class=font11>Carenza</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:13.20pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>&lt;50</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:60.24pt;">
+
+<div class=block style=" width:60.24pt; height:13.20pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 24.24pt; text-align:left;"><span class=font11>&lt;20</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:12.96pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11>Insufficienza</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:12.96pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>50-75</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:60.24pt;">
+
+<div class=block style=" width:60.24pt; height:12.96pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 20.88pt; text-align:left;"><span class=font11>20-30</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:13.68pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11>Eccesso</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:13.68pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>&gt;250</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:60.24pt;">
+
+<div class=block style=" width:60.24pt; height:13.68pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 22.08pt; text-align:left;"><span class=font11>&gt;100</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:14.40pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11>Intossicazione</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt;">
+
+<div class=block style=" width:59.76pt; height:14.40pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>&gt;375</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:60.24pt;">
+
+<div class=block style=" width:60.24pt; height:14.40pt;">
+
+<div class=paragraph style=" padding:2.16pt 0.00pt 0.00pt 22.08pt; text-align:left;"><span class=font11>&gt;150</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:59.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:60.24pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:131.04pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 160.32pt; text-align:left;"><span class=font2>verosimilmente aumentano con l'età</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 160.32pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">(46);</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 160.08pt; text-align:left; text-indent:-14.16pt;"><span class=font2 style=" line-height:12.00pt;">b)&nbsp;in Italia l'apporto di calcio è in genere assai modesto (46, 72, 73);</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 160.32pt; text-align:left; text-indent:-14.16pt;"><span class=font2 style=" line-height:12.00pt;">c)&nbsp;il rischio di intossicazione da vitamina D (vedi sotto) è piuttosto remoto;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">appare ragionevole identificare conserva­tivamente la soglia del deficit vitaminico con una concentrazione sierica di 25(OH) D inferiore a 75 nmol/l (30 ng/ml).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 178.56pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Queste linee guida quindi ritengo-<br></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.08pt;">
+
+<div class=block style=" width:178.08pt; height:228.48pt;">
+
+<div class=paragraph style=" padding:0.00pt 11.28pt 0.00pt 51.12pt; text-align:left;"><span class=font3 style=" line-height:12.00pt;"><b><i>L'insufficienza di vitamina D interessa la quasi totalità della popolazione anziana italiana che non assume supplementi di vitamina D. Ciò appare legato alla dieta (pochi grassi animali, infrequente addizione di vitamina D negli alimenti) ed alla scarsa esposizione solare. L'insufficienza di vitamina D interessa circa il 50% dei giovani, almeno nei mesi invernali.</i></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:161.76pt;">
+
+<div class=block style=" width:161.76pt; height:228.48pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">no accettabili i range dei livelli di 25(OH)D riportati da Holick (74)</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.48pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">(Tab. I).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Nella tabella I, si definisce carenza un deficit marcato e insufficienza un deficit sfumato (o <i>meno severo) </i>di vitamina D, mentre le concen­trazioni superiori a 30 ng/ml (75 nmol/l) possono essere considerate ottimali (75). Si deve tuttavia ricor­dare come secondo alcuni Autori anche livelli sierici di 25(OH)D superiori a 20 ng/ml (50 nmol/l) sarebbero associati a riduzione del turnover osseo e del rischio di frat­tura (76, 77) e potrebbero quindi considerarsi ottimali.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:152.88pt;">
+
+<div class=paragraph style=" padding:0.00pt 33.84pt 0.00pt 160.32pt; text-align:left; text-indent:-14.40pt;"><span class=font7 style=" line-height:12.00pt;">? PREVALENZA DEL DEFICIT DI VITAMINA D IN ITALIA</span></div>
+
+<div class=paragraph style=" padding:9.12pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">La carenza di vitamina D è particolarmente frequente in Italia, specie negli anziani e nei mesi invernali (4, 78-85). La carenza è tanto comune e di tale entità che l'86% delle donne italiane sopra i 70 anni presenta livelli ematici di 25(OH)D inferiori ai 10 ng/ml alla fine dell'inverno (72). Questo rilievo assume aspetti drammatici nei sog­getti istituzionalizzati o con altre patologie concomitanti (78, 83, 86), sia per la scarsa</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:14.88pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 434.64pt 0.00pt 50.16pt; text-align:justify;"><span class=font11>134    Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:178.08pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:147.36pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:14.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.60pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:435.36pt;">
+
+<div class=block style=" width:435.36pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:1.68pt 76.08pt 0.00pt 50.16pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt;">
+
+<div class=block style=" width:132.00pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.28pt 0.00pt 1.68pt; text-align:justify;"><span class=font15><b><u>RASSEGNA</u></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.60pt;">
+
+<div class=block style=" width:243.60pt; height:621.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">interessava il 30 ed il 65% dei soggetti per cut-off di 25(OH)D &lt;20 ng/ml o &lt;30 ng/ml, rispettivamente (96). Il problema peggiora nei mesi invernali anche nei giovani ed in particolare nelle donne (81).</span></div>
+
+<div class=paragraph style=" padding:24.72pt 20.88pt 0.00pt 63.84pt; text-align:left; text-indent:-14.40pt;"><span class=font7 style=" line-height:12.00pt;">? STRATEGIE DI PREVENZIONE E CURA DELLA CARENZA</span></div>
+
+<div class=paragraph style=" padding:0.00pt 71.52pt 0.00pt 63.60pt; text-align:justify;"><span class=font7 style=" line-height:12.00pt;">DI VITAMINA D CON COLECALCIFEROLO</span></div>
+
+<div class=paragraph style=" padding:10.08pt 15.12pt 0.00pt 49.20pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;"><b><i>Fattori che determinano i livelli sierici di 25(OH)D e le loro modificazioni in risposta alla somministrazione orale di vitamina D.</i></b></span></div>
+
+<div class=paragraph style=" padding:0.24pt 14.40pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Diversi fattori, fra cui il livello iniziale di 25(OH)D, influiscono sull'incremento del­la 25(OH)D sierica in risposta a una data dose di vitamina D. Con una dose di 2,5 <i>\ig </i>(100 UI/die), l'incremento medio varia da 2,75 nmol/l (1,1 ng/ml) per bassi livelli ini­ziali di 25(OH)D a 1,75 nmol/l (0,7 ng/ml) per livelli iniziali più elevati (quasi ottimali) (97). L'incremento dei livelli di 25(OH) D in risposta a una data dose di vitamina D è anche funzione della massa corporea, risultando inferiore in soggetti con elevato indice di massa corporea (BMI) rispetto a quelli con BMI nella norma (98, 99). Altri fattori, che pure influiscono sui livelli di 25(OH)D, non hanno alcun impatto noto sulla risposta della 25(OH)D alla supple-mentazione con vitamina D. Ad esempio, l'uso di estrogeni aumenta i livelli sierici misurati di 25(OH)D tramite l'aumento dei livelli di proteina di legame della vitamina D (100), ma non altera l'incremento della 25(OH)D sierica conseguito attraverso la supplementazione. Inoltre, i livelli sierici di 25(OH)D diminuiscono con l'invec­chiamento, ma la risposta della 25(OH)D sierica ad una data dose di supplementazio­ne con vitamina D è indipendente dall'età (101). Infine, l'apporto alimentare di calcio, entro l'intervallo normalmente consumato, non influisce sulla risposta della 25(OH) D sierica alla supplementazione con vita­mina D. Quest'ultimo concetto va tenuto distinto dalle osservazioni secondo cui il fabbisogno di calcio può dipendere dallo stato vitaminico D (46, 102).</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:323.76pt;">
+
+<div class=block style=" width:323.76pt; height:621.36pt;">
+
+<div class=paragraph style=" text-align:left;"><span class=font2 style=" line-height:12.00pt;"><b><i>Fabbisogno di vitamina D</i></b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.00pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Per stimare il fabbisogno di vitamina D è necessario conoscerne la quantità normal­mente utilizzata dall'organismo. Quest'ul­tima non è mai stata definita e deve quindi essere stimata empiricamente, sulla base delle dosi necessarie per raggiungere e mantenere gli auspicabili livelli sierici di 25(OH)D prima indicati. In soggetti con carenza o insufficienza di vitamina D e quindi verosimilmente con un apporto dietetico/solare molto basso (ad esempio &lt;400 UI/die) una dose giornaliera inferiore a 2.000 unità non è in grado di consentire il raggiungimento di adeguati li­velli di 25(OH)D (Adami S: dati personali;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.72pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">103, 104).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Sulla base dei dosaggi utilizzati in vari <i>trial </i>per il trattamento dell'osteoporosi, che pre­vedevano la somministrazione di vitamina D a pazienti con carenza od insufficienza, si è stimato che per raggiungere livelli di 25(OH)D pari o superiori a 75 nmol/l oc­corre assumere tra le 1.800 e le 4.000 UI di vitamina D al giorno (105, 106). Possia­mo quindi ragionevolmente ipotizzare un fabbisogno medio giornaliero di vitamina D intorno a 1.500-2.300 UI/die, tenendo conto che esso può aumentare con l'età, la massa corporea, la massa grassa e l'apporto di calcio.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Il problema della definizione del fabbiso­gno giornaliero può essere affrontato anche mettendo in relazione l'apporto vitaminico D e le concentrazioni di 25(OH)D. I dati più consistenti al riguardo sono quelli raccolti nello studio NHANES, 2005-2006 (107). I risultati di questa indagine nelle donne sono riassunti nella tabella II, ove vengono anche riportati i livelli medi di 25(OH)D rilevati in Italia per simili range di età. Si noti che, qualora si assuma come soglia di normalità un valore di 25(OH)D pari a 75 nmol/l, la prevalenza della carenza di vitamina D in Italia appare leggermente in­feriore rispetto agli USA nei soggetti giova­ni, ma nettamente superiore tra gli anziani. Nella rilettura di questi dati da parte dello IOM (51) si assume che l'esposizione sola­re contribuisca per solo il 30% all'apporto di vitamina D, il che contraddice i dati sperimentali ottenuti negli USA e nel Nord-</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:14.16pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 435.36pt; text-align:justify;"><span class=font11>Reumatismo 3/2011 135</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.60pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.76pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:339.84pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 206.88pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt;">
+
+<div class=block style=" width:227.52pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 49.20pt 0.00pt 12.24pt; text-align:justify;"><span class=font5 style=" letter-spacing:-0.50pt;">S. <span class=font11 style=" letter-spacing:0.00pt;"><i>Adami, E. Romagnoli, </i></span><span class=font11 style=" letter-spacing:-1.00pt;"><i>V.</i></span><span class=font11 style=" letter-spacing:0.00pt;"><i> Carnevale, et al.</i></span></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:273.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">America (5, 74), secondo cui l'esposizione solare contribuisce invece per l'80%. Negli studi epidemiologici italiani (72, 96) si è documentata una differenza del 40% circa tra i valori di 25(OH)D rilevati nei soggetti con minima e in quelli con media esposizione solare, facendo ritenere che quest'ultima contribuisca per il 60-90% al fabbisogno di vitamina D. Queste percentuali sono molto rilevanti per stimare il fabbisogno giornaliero globale (sole, alimenti, supplementi) di vitamina D atto a conseguire normali livelli di 25(OH) D. Le conseguenze sulla stima del fabbiso­gno di vitamina D, utilizzando i dati NHA-NES e assumendo il contributo dell'espo­sizione solare ai livelli di 25(OH)D pari a 30% o 80% sono riportati nella tabella III. L'intake globale (sole, alimenti, supple­menti) negli USA di vitamina D in soggetti anziani è di circa 600 UI/die se si assume un contributo della esposizione solare pari al 30% (400 orale +200 esposizione sole)</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt;">
+
+<div class=block style=" width:227.52pt; height:273.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">che sale a 2.000 UI/die se la quota attribuita all'esposizione solare è pari all'80% (400 orale +1.600 esposizione solare). La stima del fabbisogno giornaliero di vi­tamina D può essere fatta anche seguendo un altro approccio. È stato osservato che per ogni 100 UI di vitamina D assunta i livelli di 25(OH)D aumentano di 1 ng/ml (2,5 mmol/l). Se questa relazione si mante­nesse lineare per qualsiasi livello iniziale di 25(OH)D, la somministrazione quotidiana di 2.000 UI di vitamina D<sub>3</sub> garantirebbe comunque concentrazioni sieriche pari o superiori a 20 ng/ml anche nei soggetti con trascurabile esposizione giornaliera alla luce solare (43).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.48pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Deve essere ricordato che la stima di un fabbisogno giornaliero di vitamina D pari a 2.000 UI (valore ottenuto dalle tre analisi esposte sopra) si associa a livelli medi di 25(OH)D sub-ottimali, per cui appare ra­gionevole ipotizzare che l'apporto ottimale globale (esposizione solare, alimenti, sup-</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:12.96pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:18.72pt;">
+
+<div class=paragraph style=" padding:0.00pt 81.12pt 0.00pt 146.16pt; text-align:justify;"><span class=font12 style=" line-height:11.04pt;"><b>Tabella II - </b>Relazione tra apporto vitaminico D e concentrazioni di 25(OH)D: risultati dello studio NHANES.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:3.60pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:374.16pt; height:132.48pt; padding:0.00pt 47.52pt 0.00pt 145.68pt;">
+
+<table class=main frame="box" rules="all" border="1" cellspacing="0" cellpadding="0" style=" width:374.16pt; height:132.48pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:16.32pt;">
+
+<div class=paragraph style=" text-align:left;"></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:186.72pt;">
+
+<div class=block style=" width:186.72pt; height:16.32pt;">
+
+<div class=paragraph style=" padding:4.32pt 0.00pt 0.00pt 36.96pt; text-align:left;"><span class=font11><b>Assunzione di vitamina D (UI/die)</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:125.04pt;">
+
+<div class=block style=" width:125.04pt; height:16.32pt;">
+
+<div class=paragraph style=" padding:4.32pt 0.00pt 0.00pt 24.00pt; text-align:left;"><span class=font11><b>Livelli di 25OHD nmol/l</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:22.08pt;">
+
+<div class=paragraph style=" padding:1.44pt 17.52pt 0.00pt 17.76pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;"><b>Età anni (range)</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:22.08pt;">
+
+<div class=paragraph style=" padding:7.20pt 0.24pt 0.00pt 0.00pt; text-align:center;"><span class=font11><b>Alimenti</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:22.08pt;">
+
+<div class=paragraph style=" padding:7.20pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11><b>Supplementi</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:22.08pt;">
+
+<div class=paragraph style=" padding:7.20pt 0.00pt 0.00pt 0.00pt; text-align:center;"><span class=font11><b>Totale</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:22.08pt;">
+
+<div class=paragraph style=" padding:1.44pt 20.88pt 0.00pt 26.16pt; text-align:left; text-indent:-5.04pt;"><span class=font11 style=" line-height:9.84pt;"><b>Media USA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt;">
+
+<div class=block style=" width:62.88pt; height:22.08pt;">
+
+<div class=paragraph style=" padding:7.20pt 0.48pt 0.00pt 0.00pt; text-align:center;"><span class=font11><b>Media Italia</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 3.12pt; text-align:left;"><span class=font1>&lt;8</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font1>250</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font1>70</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.48pt 0.00pt 0.00pt; text-align:center;"><span class=font1>375</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 26.88pt; text-align:left;"><span class=font1>71</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt;">
+
+<div class=block style=" width:62.88pt; height:15.60pt;">
+
+<div class=paragraph style=" text-align:left;"></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 3.12pt; text-align:left;"><span class=font1>9-18</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.72pt; text-align:center;"><span class=font1>190</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font1>70</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.48pt; text-align:center;"><span class=font1>260</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 26.88pt; text-align:left;"><span class=font1>58</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt;">
+
+<div class=block style=" width:62.88pt; height:15.60pt;">
+
+<div class=paragraph style=" text-align:left;"></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 3.84pt; text-align:left;"><span class=font1>19-30</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.72pt; text-align:center;"><span class=font1>144</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font1>88</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.48pt; text-align:center;"><span class=font1>232</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 27.12pt; text-align:left;"><span class=font1>63</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt;">
+
+<div class=block style=" width:62.88pt; height:15.60pt;">
+
+<div class=paragraph style=" text-align:center;"><span class=font1>68<sup>2</sup></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 3.12pt; text-align:left;"><span class=font1>31-50</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.72pt; text-align:center;"><span class=font1>176</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 1.20pt; text-align:center;"><span class=font1>132</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" text-align:center;"><span class=font1>308</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 26.88pt; text-align:left;"><span class=font1>58</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt;">
+
+<div class=block style=" width:62.88pt; height:15.60pt;">
+
+<div class=paragraph style=" text-align:center;"><span class=font1>68<sup>2</sup></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 3.12pt; text-align:left;"><span class=font1>51-70</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.72pt; text-align:center;"><span class=font1>156</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.72pt; text-align:center;"><span class=font1>148</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:15.60pt;">
+
+<div class=paragraph style=" text-align:center;"><span class=font1>404</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 26.88pt; text-align:left;"><span class=font1>57</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt;">
+
+<div class=block style=" width:62.88pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.96pt 0.00pt 0.00pt; text-align:center;"><span class=font1>47<sup>1</sup></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 3.12pt; text-align:left;"><span class=font1>&gt;70</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.72pt; text-align:center;"><span class=font1>180</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 1.20pt; text-align:center;"><span class=font1>120</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt;">
+
+<div class=block style=" width:62.40pt; height:16.08pt;">
+
+<div class=paragraph style=" text-align:center;"><span class=font1>400</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt;">
+
+<div class=block style=" width:62.16pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 26.88pt; text-align:left;"><span class=font1>56</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt;">
+
+<div class=block style=" width:62.88pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.96pt 0.00pt 0.00pt; text-align:center;"><span class=font1>40<sup>1</sup></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:62.88pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:2.64pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:7.20pt;">
+
+<div class=paragraph style=" padding:0.00pt 352.08pt 0.00pt 146.16pt; text-align:justify;"><span class=font10>'Isaia et al.; <sup>2</sup>Adami et al.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:15.36pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:20.64pt;">
+
+<div class=paragraph style=" padding:0.00pt 51.12pt 0.00pt 146.16pt; text-align:justify;"><span class=font12 style=" line-height:11.04pt;"><b>Tabella III - </b>Stima del fabbisogno giornaliero di vitamina D in soggetti sani assumendo che l'irradiazione solare fornisca il 30 o l'80% del fabbisogno giornaliero medio.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:1.44pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:374.40pt; height:131.52pt; padding:0.00pt 47.28pt 0.00pt 145.68pt;">
+
+<table class=main frame="box" rules="all" border="1" cellspacing="0" cellpadding="0" style=" width:374.40pt; height:131.52pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:52.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:108.72pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell rowspan="2" valign="top" style=" width:52.32pt;">
+
+<div class=block style=" width:52.32pt; height:37.44pt;">
+
+<div class=paragraph style=" padding:9.36pt 12.48pt 0.00pt 12.96pt; text-align:left;"><span class=font11 style=" line-height:10.08pt;"><b>Età anni (range)</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell rowspan="2" valign="top" style=" width:108.72pt;">
+
+<div class=block style=" width:108.72pt; height:37.44pt;">
+
+<div class=paragraph style=" padding:9.36pt 6.96pt 0.00pt 6.72pt; text-align:center;"><span class=font11 style=" line-height:10.08pt;"><b>Apporto dietetico globale di vitamina D</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:213.36pt;">
+
+<div class=block style=" width:213.36pt; height:15.36pt;">
+
+<div class=paragraph style=" padding:4.08pt 44.16pt 0.00pt 0.00pt; text-align:right;"><span class=font11><b>Fabbisogno giornaliero di vitamina D</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt;">
+
+<div class=block style=" width:106.32pt; height:22.08pt;">
+
+<div class=paragraph style=" padding:1.44pt 7.44pt 0.00pt 7.68pt; text-align:center;"><span class=font11 style=" line-height:10.08pt;"><b>Contributo irradiazione UV = 30%</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt;">
+
+<div class=block style=" width:107.04pt; height:22.08pt;">
+
+<div class=paragraph style=" padding:1.44pt 7.92pt 0.00pt 7.92pt; text-align:center;"><span class=font11 style=" line-height:10.08pt;"><b>Contributo irradiazione UV = 80%</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:52.32pt;">
+
+<div class=block style=" width:52.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 3.12pt; text-align:left;"><span class=font11>&lt;8</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:108.72pt;">
+
+<div class=block style=" width:108.72pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.24pt 0.00pt 0.00pt; text-align:center;"><span class=font11>375</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt;">
+
+<div class=block style=" width:106.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>536</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt;">
+
+<div class=block style=" width:107.04pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.00pt; text-align:center;"><span class=font11>1.875</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:52.32pt;">
+
+<div class=block style=" width:52.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 3.12pt; text-align:left;"><span class=font11>9-18</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:108.72pt;">
+
+<div class=block style=" width:108.72pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>260</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt;">
+
+<div class=block style=" width:106.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 1.20pt 0.00pt 0.00pt; text-align:center;"><span class=font11>371</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt;">
+
+<div class=block style=" width:107.04pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.48pt; text-align:center;"><span class=font11>1.300</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:52.32pt;">
+
+<div class=block style=" width:52.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 3.84pt; text-align:left;"><span class=font11>19-30</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:108.72pt;">
+
+<div class=block style=" width:108.72pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.24pt 0.00pt 0.00pt; text-align:center;"><span class=font11>232</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt;">
+
+<div class=block style=" width:106.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 1.20pt 0.00pt 0.00pt; text-align:center;"><span class=font11>331</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt;">
+
+<div class=block style=" width:107.04pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.48pt; text-align:center;"><span class=font11>1.160</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:52.32pt;">
+
+<div class=block style=" width:52.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11>31-50</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:108.72pt;">
+
+<div class=block style=" width:108.72pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>308</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt;">
+
+<div class=block style=" width:106.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>440</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt;">
+
+<div class=block style=" width:107.04pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.48pt; text-align:center;"><span class=font11>1.540</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:52.32pt;">
+
+<div class=block style=" width:52.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11>51-70</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:108.72pt;">
+
+<div class=block style=" width:108.72pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>404</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt;">
+
+<div class=block style=" width:106.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.24pt 0.00pt 0.00pt; text-align:center;"><span class=font11>577</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt;">
+
+<div class=block style=" width:107.04pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.00pt; text-align:center;"><span class=font11>2.020</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:52.32pt;">
+
+<div class=block style=" width:52.32pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11>&gt;70</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:108.72pt;">
+
+<div class=block style=" width:108.72pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>400</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt;">
+
+<div class=block style=" width:106.32pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.72pt 0.00pt 0.00pt; text-align:center;"><span class=font11>571</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt;">
+
+<div class=block style=" width:107.04pt; height:16.08pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.00pt; text-align:center;"><span class=font11>2.000</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:52.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:108.72pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:106.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:107.04pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:15.60pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 434.64pt 0.00pt 50.16pt; text-align:justify;"><span class=font11>136    Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:339.84pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.12pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:162.96pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:161.28pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:406.08pt;">
+
+<div class=block style=" width:406.08pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:1.68pt 46.80pt 0.00pt 50.16pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:161.28pt;">
+
+<div class=block style=" width:161.28pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.28pt 0.00pt 30.96pt; text-align:justify;"><span class=font15><b><u>RASSEGNA</u></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell rowspan="3" valign="top" style=" width:243.12pt;">
+
+<div class=block style=" width:243.12pt; height:621.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">plementi) potrebbe anche essere superiore a quello precedentemente suggerito.</span></div>
+
+<div class=paragraph style=" padding:10.80pt 0.00pt 0.00pt 49.44pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;"><b><i>Fonti di vitamina D in Italia</i></b></span></div>
+
+<div class=paragraph style=" padding:0.24pt 14.40pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">L'apporto dietetico di vitamina D e l'ef­ficace esposizione alla luce solare sono i principali fattori che determinano il livello</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 49.68pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">sierico di 25(OH)D.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.16pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">La vitamina D è presente nei cibi in limitate quantità. La maggiore fonte è costituita dai grassi animali contenuti soprattutto nei pesci grassi (ad esempio il salmone) e nei latticini.</span></div>
+
+<div class=paragraph style=" padding:0.24pt 14.16pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Al fine di garantire un maggiore apporto di vitamina D attraverso i prodotti lattiero-caseari sarebbe necessario addizionare tali alimenti, come avviene per ora solo nei paesi del nord Europa e più diffusamente nel Nord America, dove tuttavia questa sup­plementazione garantisce solo un apporto medio di 40-80 UI/die nei soggetti giovani e 160-200 UI/die nelle persone dopo i 50 anni (108). Questa stima USA sulla supple­mentazione vitaminica D degli alimenti di più comune uso è stata fatta qualche anno fa (109) ma assume ora maggiore rilievo per la crescente percezione del ruolo della vitamina D nell'epidemiologia di molte malattie (51).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.16pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">È verosimile che il contributo della dieta ai livelli di 25(OH)D sia in Italia conside­revolmente inferiore rispetto agli USA, sia per la tipologia della dieta (meno grassi animali) sia per la infrequente supple­mentazione di vitamina D negli alimenti di comune uso. Ciò espone ancor di più alla carenza le persone anziane con scarsa esposizione solare.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.16pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Nei secoli scorsi esporsi al sole durante i mesi estivi (quelli efficaci per la sintesi cutanea di vitamina D) era l'ineludibile necessità di una popolazione dedita in prevalenza a lavori all'aria aperta e che includeva una minore percentuale di sog­getti anziani. Oggi l'esposizione solare è per lo più voluttuaria e gradita solo da una parte dei giovani. La maggior parte della popolazione, particolarmente con l'avan­zare dell'età, limita invece l'esposizione al sole ed utilizza sempre più spesso creme protettive, che riducono la fotosintesi della vitamina. Nelle popolazioni che assumono</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:324.24pt;">
+
+<div class=block style=" width:324.24pt; height:190.80pt;">
+
+<div class=paragraph style=" padding:0.00pt 144.00pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">una dieta povera di vitamina D (come è in generale la dieta mediterranea) la sua ca­renza tra gli anziani assume inevitabilmente dimensioni epidemiche.</span></div>
+
+<div class=paragraph style=" padding:10.80pt 0.00pt 0.00pt 0.00pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;"><b><i>Impiego dei supplementi di vitamina D</i></b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 0.48pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">La dose di vitamina D consigliata viene espressa come posologia giornaliera. Tutta­via, a parità di dose cumulativa, la vitamina D può anche essere somministrata attraver­so boli settimanali (110). Per migliorare l'aderenza al trattamento è possibile ricor­rere anche a boli mensili o trimestrali; in tal caso le dosi equivalenti, secondo alcuni Au­tori, dovrebbero essere maggiori di quelle giornaliere o settimanali cumulative </span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:162.96pt;">
+
+<div class=block style=" width:162.96pt; height:169.20pt;">
+
+<div class=paragraph style=" padding:0.00pt 12.72pt 0.00pt 0.48pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">(111). In alcuni casi si è ricorso per ragioni pratiche anche ad un bolo annuale (90).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 12.48pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Va tuttavia segnalato come, secondo un recente studio, la somministra­zione di un bolo annuale di 500.000 UI di colecalciferolo a un gruppo di donne anziane inducesse l'ef­fetto paradossale di aumentare il rischio di cadute e di fratture (112). Malgrado i grossolani limiti me­todologici di questa ricerca, in cui non erano stati controllati i fattori di rischio di cadute e di frattura e </span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:161.28pt;">
+
+<div class=block style=" width:161.28pt; height:169.20pt;">
+
+<div class=paragraph style=" padding:0.00pt 49.68pt 0.00pt 0.00pt; text-align:right;"><span class=font3 style=" line-height:12.00pt;"><b><i>Il fabbisogno di vitamina D varia da 1.500 UI/die (adulti sani) a 2.300 UI/die (anziani). L'alimentazione in Italia fornisce in media circa 300 UI/ die, per cui quando l'esposizione solare è virtualmente assente debbono essere garantiti supplementi per 1.200-2.000 UI/die.</i></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:324.24pt;">
+
+<div class=block style=" width:324.24pt; height:261.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.48pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">in cui la popolazione studiata pre­sentava livelli iniziali di 25(OH)D doppi rispetto alla popolazione anziana italiana, i risultati di questo studio suggeriscono un approccio preventivo di comunità con boli più contenuti (al massimo di 300.000 UI). Tale approccio sembrerebbe almeno inizial­mente giustificato dalla farmaco-cinetica della vitamina D con lo scopo di &quot;saturare&quot; i depositi dell'organismo. La vitamina D va normalmente sommi­nistrata per via orale, limitando l'utilizzo della via intramuscolare ai pazienti con severe sindromi da malassorbimento. Gli schemi posologici raccomandati devo­no tener conto di potenziali interferenze di altri farmaci o condizioni morbose (Tab.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.48pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">IV).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.48pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">La posologia della vitamina D da consiglia­re può quindi anche variare a seconda della condizione clinica trattata e degli obiettivi terapeutici che ci si prefiggono.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:13.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 0.00pt; text-align:right;"><span class=font11>Reumatismo 3/2011 137</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.12pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:162.96pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:161.28pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:73.92pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:251.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:14.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:325.44pt;">
+
+<div class=block style=" width:325.44pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 192.48pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:241.92pt;">
+
+<div class=block style=" width:241.92pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 48.96pt 0.00pt 26.64pt; text-align:justify;"><span class=font11><i>S. Adami, E. Romagnoli, </i><span style=" letter-spacing:-1.00pt;"><i>V.</i></span><i> Carnevale, et al.</i></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.68pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:27.84pt;">
+
+<div class=paragraph style=" padding:0.00pt 17.28pt 0.00pt 145.92pt; text-align:justify;"><span class=font12 style=" line-height:10.80pt;"><b>Tabella IV - </b>Condizioni cliniche che interferiscono con il metabolismo della vitamina D.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell rowspan="4" valign="top" style=" width:227.52pt;">
+
+<div class=block style=" width:227.52pt; height:621.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">degli stati carenziali sia considerevolmente inferiore rispetto all'Italia e sono atti a ga­rantire livelli sierici di 25(OH)D superiori a 50 nmol/l, ma inferiori a quelli auspicati da queste linee guida (75-80 nmol/l). Infatti, una supplementazione con 600 UI/die in soggetti di età maggiore di 70 anni non mo­difica in maniera sostanziale la proporzione di soggetti carenti (110). Il dosaggio dei livelli sierici della 25(OH) D può essere ritenuto un buon indicatore del fabbisogno giornaliero. Tuttavia, l'im­piego di tale dosaggio, nell'ambito di uno screening generalizzato o addirittura per il periodico monitoraggio in corso di supple-mentazione, non appare economicamente accettabile.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.52pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Nell'adulto giovane è stato calcolato che un'esposizione estiva su ambedue le super-fici del corpo della durata di 20-30 minuti/ die nelle ore mediane della giornata equi­vale ad un apporto di 10.000-20.000 UI di vitamina D.</span></div>
+
+<div class=paragraph style=" padding:0.24pt 47.76pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">È quindi ragionevole ritenere che una per­sona giovane (&lt;60 anni) con uno stile di vita caratterizzato da normale esposizione solare (una vacanza marina all'anno, e più di 20 minuti/die di vita all'aperto nel periodo estivo) (72, 96), non abbia bisogno di eseguire controlli per verificare un even­tuale stato di insufficienza e quindi neppure di supplementi.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.52pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">In soggetti anziani con una età tra 60 e 70 anni, si può ritenere che non esista uno stato di insufficienza di vitamina D solo in presenza di stili di vita caratterizzati ad esempio da prolungate vacanze d'estate, con ampia esposizione solare. Per questo intervallo di età (60-70 anni) un controllo dei livelli di 25(OH)D appare altrimenti giustificato. Tuttavia, un approccio pragma­tico che preveda la supplementazione &quot;in cieco&quot; con 600-1000 UI/die appare anche accettabile, una volta escluse le condizioni in cui la vitamina D può essere controindi­cata (vedi sovradosaggio). In persone di età superiore a 70 anni (ed in maniera crescente con l'avanzare dell'età) che non assumano supplementi di vitamina D la carenza vitaminica ha una prevalenza vicina al 100%. In questi casi, laddove non sia indispensabile il controllo della 25(OH)</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:127.44pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 149.04pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;"><b>Diminuita bio-disponibilità</b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.56pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">A.&nbsp;Malassorbimento di grassi</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 157.44pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Fibrosi cistica</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 157.44pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Malattia celiaca</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 157.44pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Morbo di Whipple</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 157.44pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Morbo di Crohn</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 157.44pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Intervento di by- pass gastro-intestinale</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 157.44pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Farmaci che riducono l'assorbimento di grassi</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 157.44pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Altro</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 149.04pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">B.&nbsp;Ridotta disponibilità</span></div>
+
+<div class=paragraph style=" padding:0.00pt 39.84pt 0.00pt 162.00pt; text-align:left; text-indent:-4.56pt;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Obesità con sequestro della vitamina D nel tessuto adiposo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:192.72pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.56pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;"><b>Aumentato catabolismo / consumo</b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Anticonvulsivi</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Glucocorticoidi</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Farmaci per il trattamento dell'AIDS o anti-rigetto.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Allattamento e gravidanza</span></div>
+
+<div class=paragraph style=" padding:6.96pt 19.20pt 0.00pt 148.80pt; text-align:justify;"><span class=font11 style=" line-height:9.84pt;"><b>Diminuita sintesi di 25(OH)D (somministrare anche calcidiolo)</b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Grave insufficienza epatica</span></div>
+
+<div class=paragraph style=" padding:5.28pt 0.00pt 0.00pt 149.04pt; text-align:left;"><span class=font11><b>Perdite urinarie di 25(OH)D</b></span></div>
+
+<div class=paragraph style=" padding:0.96pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11>-&nbsp;Sindrome nefrosica</span></div>
+
+<div class=paragraph style=" padding:6.24pt 32.16pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;"><b>Diminuita sintesi di 1,25(OH)2D (somministrare anche calcitriolo)</b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Insufficienza renale cronica</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Iperfosforemia</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 148.80pt; text-align:left;"><span class=font11 style=" line-height:9.84pt;">-&nbsp;Deficit congeniti di 1-idrossilasi</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:273.60pt;">
+
+<div class=paragraph style=" padding:0.00pt 15.12pt 0.00pt 145.68pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;"><b><i>Prevenzione dell'insufficienza di vitami­na D</i></b></span></div>
+
+<div class=paragraph style=" padding:0.24pt 14.40pt 0.00pt 145.68pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Per prevenzione dell'insufficienza si inten­de la dose di vitamina D da consigliare a soggetti in cui il deficit vitaminico sia già stato corretto e la supplementazione sia finalizzata a prevenirne la recidiva. In molte linee guida si è preferito dare raccomandazioni universali, di facile com­prensione ed adozione. In particolare è raccomandato un apporto minimo quotidiano di 200 UI di vitamina D dal secondo mese di vita fino all'adolescen­za (113), di 400 UI in età adulta e di almeno 600 UI (15 pg) sopra i 70 anni (114). Questi apporti minimi raccomandati sono stati recentemente rivisti dalla IOM, che propone 400 UI fino ad 1 anno di vita, 600 UI fino ai 70 anni (anche durante la gravi­danza e l'allattamento) ed 800 UI sopra i</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 146.16pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">70 anni (51).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Questi dosaggi possono essere ritenuti accettabili in contesti in cui la prevalenza</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:14.16pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:73.92pt;">
+
+<div class=block style=" width:73.92pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.16pt 0.00pt 50.16pt; text-align:justify;"><span class=font11>138</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:493.44pt;">
+
+<div class=block style=" width:493.44pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 434.40pt 0.00pt 0.72pt; text-align:justify;"><span class=font11>Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:73.92pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:251.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:14.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.36pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:192.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:435.36pt;">
+
+<div class=block style=" width:435.36pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:1.68pt 76.08pt 0.00pt 50.16pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt;">
+
+<div class=block style=" width:132.00pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.28pt 0.00pt 1.68pt; text-align:justify;"><span class=font15><b><u>RASSEGNA</u></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.36pt;">
+
+<div class=block style=" width:243.36pt; height:501.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.16pt 0.00pt 49.20pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">D sierica, è pienamente giustificato avvia­re un trattamento &quot;in cieco&quot;, dopo aver escluso la presenza di controindicazioni. Uno schema che garantisce comunque un ampio margine di sicurezza in termini di sovradosaggio potrebbe essere rappresenta­to dalla somministrazione di un bolo unico di 300.000 UI nei mesi invernali seguito da 1.000 UI/die (o equivalenti settimanali o mensili).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Per tutti gli schemi citati sopra va ricordato che in presenza di precarie condizioni nu­trizionali o sindromi da malassorbimento intestinale e in caso di somministrazione di alcuni farmaci (ad esempio anticon­vulsivanti o glucocorticoidi) è opportuno aumentare le dosi o ricorrere alla sommini­strazione parenterale.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Sebbene pochi studi siano stati pubblicati su questo specifico argomento, l'impiego dei metaboliti idrossilati della vitamina D sembra trovare indicazione solo in alcune particolari condizioni.</span></div>
+
+<div class=paragraph style=" padding:10.80pt 14.88pt 0.00pt 48.96pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;"><b><i>Trattamento della carenza e insufficienza di vitamina D</i></b></span></div>
+
+<div class=paragraph style=" padding:0.24pt 14.16pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">L'obbiettivo della terapia della carenza e dell'insufficienza di vitamina D è quello di ripristinare normali livelli sierici e quindi dei depositi di 25(OH)D, in tempi brevi. La dose cumulativa da somministrare nel giro di alcune settimane può variare in funzione della gravità della carenza e della massa corporea. Il valore di 25(OH)D rilevato al momento dell'identificazione dello stato carenziale o di insufficienza può essere ritenuto un buon indicatore del fabbisogno</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 49.68pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">(Tab. V).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.40pt 0.00pt 49.20pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">A questa dose deve seguire una dose di mantenimento, per evitare di ritornare nelle condizioni di insufficienza o carenza (103, 115); qualora persistano le condizioni che</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:324.00pt;">
+
+<div class=block style=" width:324.00pt; height:501.36pt;">
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">hanno indotto tale stato carenziale o di insufficienza (Tab. V) il dosaggio dovrà essere superiore.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Una stima accurata degli effetti di dosi &quot;te­rapeutiche&quot; di vitamina D non è mai stata fatta, ma esistono alcuni studi sull'effetto di boli di vitamina D sui livelli di 25(OH) D negli adulti. Al fine di incrementare le concentrazioni di 25(OHD), possono essere utilizzate sia la vitamina D<sub>2</sub> che la vitamina D<sub>3</sub>, a dosaggio adeguato. Al riguardo si deve infatti segnalare come gli incrementi delle concentrazioni sieriche di 25(OH)D conseguiti attraverso la som­ministrazione di vitamina D<sub>3</sub> siano più pro­nunciati di quelli ottenuti somministrando</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">vitamina D<sub>2</sub> (116, 117). È stato riportato che un bolo di 100.000 UI di colecalciferolo innalza di 10 ng/ml i livelli di 25(OH)D per 3 mesi (118), uno di 300.000 UI mantiene livelli superiori a 32 ng/ml per almeno due mesi (116) mentre 600.000 UI di circa 40 ng/ml per 3 mesi</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 0.48pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">(119).</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">In uno studio condotto in Australia boli annuali di 500.000 UI determinavano in­crementi della 25(OH)D di circa 20 ng/ml entro il primo mese (112). Se la carenza è definita dal riscontro di livelli di 25(OH)D inferiori a 20 ng/ml, per conseguire valori sicuramente superiori a 30 ng/ml, si dovrà somministrare agli adulti, nell'arco di alcune settimane, una dose cumulativa compresa tra 600.000 e 900.000 UI, in relazione al valore iniziale di 25(OH)D. Nella tabella V sono indicati a titolo orientativo alcuni possibili schemi di trattamento.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.00pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Nei soggetti carenti o persistentemente a rischio per carenza può essere opportuno un controllo della 25(OH)D sierica dopo 3-6 mesi.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:22.80pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:20.64pt;">
+
+<div class=paragraph style=" padding:0.00pt 150.96pt 0.00pt 49.44pt; text-align:justify;"><span class=font12 style=" line-height:10.80pt;"><b>Tabella V - </b>Stima della dose terapeutica e di quella di mantenimento in funzione dei livelli di 25(OH)D in soggetti che non hanno ricevuto supplementi nell'ultimo anno.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:1.44pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:374.16pt; height:72.96pt; padding:0.00pt 144.00pt 0.00pt 49.20pt;">
+
+<table class=main frame="box" rules="all" border="1" cellspacing="0" cellpadding="0" style=" width:374.16pt; height:72.96pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:124.80pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:124.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:125.04pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:124.80pt;">
+
+<div class=block style=" width:124.80pt; height:25.68pt;">
+
+<div class=paragraph style=" padding:9.12pt 0.00pt 0.00pt 20.16pt; text-align:left;"><span class=font11><b>Valore basale di 25(OH)D</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:124.32pt;">
+
+<div class=block style=" width:124.32pt; height:25.68pt;">
+
+<div class=paragraph style=" padding:3.36pt 9.12pt 0.00pt 9.60pt; text-align:center;"><span class=font11 style=" line-height:10.08pt;"><b>Dose terapeutica cumulativa di vitamina D</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:125.04pt;">
+
+<div class=block style=" width:125.04pt; height:25.68pt;">
+
+<div class=paragraph style=" padding:9.12pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11><b>Dose giornaliera di mantenimento</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:124.80pt;">
+
+<div class=block style=" width:124.80pt; height:15.36pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11>&lt;10 ng/ml o 25 nmol/l</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:124.32pt;">
+
+<div class=block style=" width:124.32pt; height:15.36pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.00pt 0.00pt 0.96pt; text-align:center;"><span class=font11>1.000.000</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:125.04pt;">
+
+<div class=block style=" width:125.04pt; height:15.36pt;">
+
+<div class=paragraph style=" padding:3.84pt 0.24pt 0.00pt 0.00pt; text-align:center;"><span class=font11>2.000</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:124.80pt;">
+
+<div class=block style=" width:124.80pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:4.08pt 0.00pt 0.00pt 3.84pt; text-align:left;"><span class=font11>10-20 ng/ml o 25- 50 nmol/l</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:124.32pt;">
+
+<div class=block style=" width:124.32pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:4.08pt 0.00pt 0.00pt 0.00pt; text-align:center;"><span class=font11>600.000</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:125.04pt;">
+
+<div class=block style=" width:125.04pt; height:15.60pt;">
+
+<div class=paragraph style=" padding:4.08pt 0.00pt 0.00pt 0.24pt; text-align:center;"><span class=font11>1.000</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:124.80pt;">
+
+<div class=block style=" width:124.80pt; height:16.32pt;">
+
+<div class=paragraph style=" padding:4.08pt 0.00pt 0.00pt 3.36pt; text-align:left;"><span class=font11>20-30 ng/ml o 50-75 nmol/l</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:124.32pt;">
+
+<div class=block style=" width:124.32pt; height:16.32pt;">
+
+<div class=paragraph style=" padding:4.08pt 0.00pt 0.00pt 0.00pt; text-align:center;"><span class=font11>300.000</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:125.04pt;">
+
+<div class=block style=" width:125.04pt; height:16.32pt;">
+
+<div class=paragraph style=" padding:4.08pt 0.24pt 0.00pt 0.00pt; text-align:center;"><span class=font11>800</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:124.80pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:124.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:125.04pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:16.32pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 435.36pt; text-align:justify;"><span class=font11>Reumatismo 3/2011 139</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:243.36pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:192.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.44pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:14.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.44pt;">
+
+<div class=block style=" width:325.44pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 192.48pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:241.92pt;">
+
+<div class=block style=" width:241.92pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 49.20pt 0.00pt 26.64pt; text-align:justify;"><span class=font5 style=" letter-spacing:-0.50pt;">S. <span class=font11 style=" letter-spacing:0.00pt;"><i>Adami, E. Romagnoli, </i></span><span class=font11 style=" letter-spacing:-1.00pt;"><i>V.</i></span><span class=font11 style=" letter-spacing:0.00pt;"><i> Carnevale, et al.</i></span></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:339.84pt;">
+
+<div class=block style=" width:339.84pt; height:621.12pt;">
+
+<div class=paragraph style=" padding:0.00pt 63.60pt 0.00pt 159.60pt; text-align:justify; text-indent:-13.68pt;"><span class=font2 style=" line-height:12.00pt;"><i>M </i><span class=font7>SUPPLEMENTAZIONE VITAMINICA D IN ETÀ PEDIATRICA</span></span></div>
+
+<div class=paragraph style=" padding:10.32pt 14.40pt 0.00pt 145.68pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Nei lattanti la supplementazione vitaminica D dipende dall'apporto materno di vitami­na D (120). Con l'allattamento artificiale la Federal Food, Drug, and Cosmetic Act (121) raccomanda un apporto alimentare di 100 UI/100 Kcal e quindi un apporto variabile tra 265 e 660 UI/die. In bambini di età inferiore a 6 mesi l'apporto consigliato è di 300 UI/die e nei bambini con una età superiore a 6 mesi 400 UI/die. L'Institute of Medicine ha recentemente riconosciuto che al di sotto di un anno di età le attuali evidenze non consentono di fornire racco­mandazioni ed è possibile solo ipotizzare che sia adeguato un introito di 400 UI/die; la dose raccomandata aumenta a 600 UI dopo l'anno di vita (51). Questo apporto può aumentare se i bambini non sono espo­sti alla luce del sole e comunque nei mesi invernali.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">La dose di supplementi eventualmente consigliata dovrà anche tener conto della possibile presenza di vitamina D negli ali­menti (latte artificiale o cibi per neonati).</span></div>
+
+<div class=paragraph style=" padding:24.72pt 24.72pt 0.00pt 160.32pt; text-align:left; text-indent:-14.40pt;"><span class=font6 style=" line-height:12.00pt;">M <span class=font7>FABBISOGNO DI VITAMINA D E GRAVIDANZA</span></span></div>
+
+<div class=paragraph style=" padding:9.12pt 14.40pt 0.00pt 145.68pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Negli anni '60, in Gran Bretagna furono se­gnalati alcuni casi di Stenosi Sopravalvola­re Aortica (SAS) associati ad ipercalcemia, attribuita ad un apporto eccessivo di vitami­na D (122, 123). Queste osservazioni hanno indotto una drastica riduzione dell'uso di supplementi in gravidanza ed alcune schede tecniche di farmaci riportano la gravidanza tra le controindicazioni all'uso di vitamina D. Negli anni successivi fu chiarito che la SAS corrisponde in verità alla Sindrome di Williams (124), condizione legata ad una alterazione del gene che controlla la sintesi dell'elastina, in cui è presente una aumentata conversione della vitamina D in</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 146.16pt; text-align:left;"><span class=font2 style=" line-height:12.00pt;">25(OH)D.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.64pt 0.00pt 145.92pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Negli anni successivi sono stati condotti numerosi lavori sperimentali di intossica­zione di vitamina D in gravidanza, in cui</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt;">
+
+<div class=block style=" width:227.52pt; height:621.12pt;">
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">non è mai stata documentata l'insorgenza di sindromi anche vagamente simili alla SAS nei neonati (120). Malgrado ciò le schede tecniche dei prodotti contenenti supplementi di vitamina D continuano ad includere raccomandazioni strettissime sull'utilizzo della vitamina D nelle gra­vide.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.24pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Queste raccomandazioni possono avere un impatto negativo rilevante in termini di salute pubblica. Infatti, molti lavori hanno chiaramente dimostrato che la carenza di vitamina D in gravidanza ha effetti nega­tivi sia sulla madre che sul neonato e che in gravidanza la prevenzione della carenza di vitamina D deve essere fatta come nelle donne non gravide (125). Le linee guida più recenti raccomandano la somministrazione</span></div>
+
+<div class=paragraph style=" padding:0.00pt 88.56pt 0.00pt 0.24pt; text-align:left;"><span class=font2 style=" line-height:36.00pt;">di 600 UI/die di vitamina D (51). <span class=font6>M </span><span class=font7>SOVRADOSAGGIO</span></span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Una eccessiva somministrazione di vita­mina D può determinare intossicazione, caratterizzata da ipercalcemia e rapido deterioramento della funzione renale. I pochi casi descritti in passato si riferiscono all'uso di dosi elevatissime di vitamina D, utilizzate sino a 30 anni fa per il trattamento dell'ipoparatiroidismo. Secondo alcuni autori dosaggi fino a 2.000 UI/die o, più recentemente, fino a 4.000 UI/ die (51, 126) risultano del tutto sicuri dopo i 9 anni di età.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.00pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Questo dosaggio dovrebbe tuttavia essere commisurato all'apporto non farmaco­logico di vitamina D. In altri termini, se 2.000 UI/die in soggetti anziani con scarsa esposizione solare possono essere consi­derate assolutamente sicure (ed in alcuni casi persino insufficienti), la stessa dose potrebbe non essere altrettanto sicura a lungo termine nei soggetti giovani, magri e con frequente esposizione solare. In alcune condizioni (granulomatosi, iper-paratiroidismo primitivo) si rileva una ab­norme conversione, substrato-dipenden­te, della 25(OH)D nel metabolita attivo 1,25(OH)<sub>2</sub>D; pertanto, in pazienti affetti da queste patologie i livelli di 25(OH) D debbono essere mantenuti rigidamente</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:14.40pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 434.64pt 0.00pt 50.16pt; text-align:justify;"><span class=font11>140    Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.44pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:14.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:227.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:247.20pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:188.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:435.36pt;">
+
+<div class=block style=" width:435.36pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:1.68pt 76.08pt 0.00pt 50.16pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt;">
+
+<div class=block style=" width:132.00pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.28pt 0.00pt 1.68pt; text-align:justify;"><span class=font15><b><u>RASSEGNA</u></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.68pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:247.20pt;">
+
+<div class=block style=" width:247.20pt; height:95.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 18.48pt 0.00pt 49.44pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">nel range di normalità. In questi casi si raccomandano dosi più basse e controlli periodici dei livelli sierici della 25(OH)D. Recentemente l'Institute of Medicine ha identificato in 4.000 UI/die la dose massi­ma tollerata (51).</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" rowspan="2" valign="top" style=" width:320.16pt;">
+
+<div class=block style=" width:320.16pt; height:299.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 50.88pt 0.00pt 6.00pt; text-align:right;"><span class=font3 style=" line-height:12.00pt;"><b><i>Carenza [25(OH)D &lt;20 ng/ml] ed insufficienza [25(OH)D tra 20 e 30 ng/ml] sono condizioni molto comuni nella popolazione italiana e la loro prevalenza aumenta con l'avanzare dell'età. Il dosaggio della 25(OH)D sierica rappresenta il metodo più appropriato per stimare lo stato</i></b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 50.40pt 0.00pt 0.00pt; text-align:right;"><span class=font3 style=" line-height:12.00pt;"><b><i>di replezione vitaminica D. I dati epidemiologici consentono comunque di presumere carenti tutti gli anziani che non stiano assumendo supplementi. In presenza di carenza o insufficienza vanno somministrate nell'arco di 1-4 settimane dosi cumulative di vitamina D variabili tra 300.000 e 1.000.000 di UI. La dose giornaliera (o equivalenti settimanali, mensili o trimestrali) di mantenimento, dopo aver raggiunti livelli normali di 25(OH)D, varia in funzione dell'età e dell'esposizione solare, con un range tra 800 e 2.000 UI/die. Un controllo dei livelli di 25(OH)D è raccomandato dopo trattamenti con dosi quotidiane superiori a 1.000 UI, per più anni. I supplementi di vitamina D devono essere usati con cautela e monitorando periodicamente i livelli di 25(OH) D nei pazienti con malattie granulomatose (quali ad esempio la sarcoidosi) ed iperparatiroidismo primitivo. In gravidanza i supplementi con vitamina D possono essere utilizzati come nelle donne non gravide, evitando comunque l'uso dei boli.</i></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:247.20pt;">
+
+<div class=block style=" width:247.20pt; height:203.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 49.44pt; text-align:left;"><span class=font6>M <span class=font7>UTILITÀ CLINICA DEL</span></span></div>
+
+<div class=paragraph style=" padding:1.92pt 0.00pt 0.00pt 27.36pt; text-align:center;"><span class=font7>DOSAGGIO DELLA 25(OH)D</span></div>
+
+<div class=paragraph style=" padding:11.04pt 18.24pt 0.00pt 49.20pt; text-align:justify;"><span class=font2 style=" line-height:12.00pt;">Per ovvie ragioni economiche non è pos­sibile proporre la misurazione dei livelli di 25(OH)D in tutta la popolazione. È quindi auspicabile lo sviluppo di algoritmi per la stima del rischio di carenza di vitamina D, al fine di selezionare i soggetti in cui sia utile l'esecuzione di tale dosaggio. Del tutto recentemente, utilizzando i da­tabase di 3 studi condotti su ampie coor­ti della popolazione generale italiana, è in corso di sviluppo, sotto l'egida della SIOMMMS, un algoritmo che la società intende poi sottoporre ad una validazione prospettica.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:28.80pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:281.28pt;">
+
+<div class=paragraph style=" padding:0.00pt 95.04pt 0.00pt 0.00pt; text-align:center;"><span class=font12 style=" line-height:10.32pt;"><b>RIASSUNTO</b></span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 57.60pt; text-align:justify;"><span class=font1 style=" line-height:10.32pt;">La Società Italiana dell'Osteoporosi, del Metabolismo Minerale e delle Malattie dello Scheletro (SIOMMMS) ha deciso di elaborare linee guida relative alla definizione dell'ipovitaminosi D e alle strategie di prevenzione e trattamento, riassunte nei seguenti punti:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;Il fabbisogno di vitamina D varia da 1.500 UI/die (adulti sani) a 2.300 UI/die (anziani, con basso apporto di calcio con la dieta). L'alimentazione in Italia fornisce in media circa 300 UI/die, per cui quando l'esposizione solare è virtualmente assente debbono essere garantiti supplementi per 1.200-2.000 UI/die.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;Il dosaggio della 25-idrossi-vitamina D [25(OH)D] sierica rappresenta il metodo più accurato per stimare lo stato di replezione vitaminica D, sebbene le tecniche di dosaggio non siano tuttora adeguatamente standar­dizzate.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 153.12pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;Sono state identificate soglie per una condizione di &quot;carenza&quot; [25(OH)D &lt;20 ng/ml] e di &quot;insufficienza&quot; [25(OH)D tra 20 e 30 ng/ml] dello stato vitaminico D.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;L'insufficienza di vitamina D interessa circa il 50% dei giovani nei mesi invernali. La condizione carenziale aumenta con l'avanzare dell'età sino ad interessare la quasi totalità della popolazione anziana italiana che non assume supplementi di vitamina D.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;In presenza di deficit severo vanno somministrate dosi cumulative di vitamina D variabili tra 300.000 ed 1.000.000 di UI, nell'arco di 1-4 settimane.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;Una volta corretto il deficit vitaminico, la dose giornaliera di prevenzione - mantenimento varia in funzione dell'età e dell'esposizione solare, con un range compreso tra 800 e 2.000 UI/die o equivalenti settimanali. Un controllo dei livelli di 25(OH)D è raccomandato ogni due anni circa per trattamenti con dosi quotidiane superiori a 1.000 UI.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;La dose massima giornaliera oltre cui si ritiene elevato il rischio di intossicazione è stata identificata in 4.000 UI.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 153.12pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;I supplementi di vitamina D devono essere usati con cautela e monitorando periodicamente i livelli di 25(OH) D nei pazienti con malattie granulomatose o iperparatiroidismo primitivo.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 152.64pt 0.00pt 66.48pt; text-align:justify; text-indent:-8.64pt;"><span class=font1 style=" line-height:10.32pt;">•&nbsp;In corso di gravidanza i supplementi di vitamina D possono essere somministrati come nelle donne non gravide, evitando comunque l'uso dei boli (dosi &gt;25.000 UI).</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:26.16pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 49.20pt 0.00pt 435.36pt; text-align:justify;"><span class=font11>Reumatismo 3/2011 141</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:247.20pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:188.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:73.92pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:251.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:18.96pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:222.96pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:325.44pt;">
+
+<div class=block style=" width:325.44pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 192.48pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:241.92pt;">
+
+<div class=block style=" width:241.92pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 49.20pt 0.00pt 26.64pt; text-align:justify;"><span class=font5 style=" letter-spacing:-0.50pt;">S. <span class=font11 style=" letter-spacing:0.00pt;"><i>Adami, E. Romagnoli, </i></span><span class=font11 style=" letter-spacing:-1.00pt;"><i>V.</i></span><span class=font11 style=" letter-spacing:0.00pt;"><i> Carnevale, et al.</i></span></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:344.40pt;">
+
+<div class=block style=" width:344.40pt; height:617.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 145.92pt; text-align:left;"><span class=font6>M <span class=font7>BIBLIOGRAFIA</span></span></div>
+
+<div class=paragraph style=" padding:6.00pt 18.96pt 0.00pt 166.32pt; text-align:justify; text-indent:-11.04pt;"><span class=font2 style=" line-height:9.84pt;">1.&nbsp;<span class=font1>Holick MF. Vitamin D: the underappreci-ated D-lightful hormone that is important for skeletal and cellular health. Curr Opin Endocrinol Diabetes 2002; 9: 87-98.</span></span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 165.84pt; text-align:justify; text-indent:-11.04pt;"><span class=font1 style=" line-height:9.84pt;">2.&nbsp;Holick MF. Vitamin D: photobiology, me­tabolismi, mechanism of action, and clinical applications. In: Favus MJ, Editor. Primer on the metabolic bone diseases and disor-ders of mineral metabolism. 4<sup>th</sup> ed. Philadel-phia: Lippincott Williams &amp; Wilkins, 1999:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">92-98.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.68pt 0.00pt 165.60pt; text-align:justify; text-indent:-11.04pt;"><span class=font1 style=" line-height:9.84pt;">3.&nbsp;Holick MF, Matsuoka LY, Wortsman J. Age, vitamin D, and solar ultraviolet radiation. Lancet 1989; 2: 1104-5.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 165.36pt; text-align:justify; text-indent:-11.04pt;"><span class=font1 style=" line-height:9.84pt;">4.&nbsp;Maggio D, Cherubini A, Lauretani F, Russo RC, Bartali B, Pierandrei M, et al. 25(OH) D serum levels decline with age earlier in women than in men and less efficiently prevent compensatory hyperparathyroidism in older adults. J Gerontol A Biol Sci Med Sci 2005; 60: 1414-9.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 165.60pt; text-align:justify; text-indent:-11.04pt;"><span class=font1 style=" line-height:9.84pt;">5.&nbsp;Webb AR, Pilbeam C, Hanafin N, Holick MF. An evaluation of the relative contribu-tions of exposure to sunlight and of diet to the circulating concentrations of 25-hy-droxyvitamin D in an elderly nursing home population in Boston. Am J Clin Nutr 1990; 51: 1075-81.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 165.84pt; text-align:justify; text-indent:-11.04pt;"><span class=font1 style=" line-height:9.84pt;">6.&nbsp;Petta S, Cammà C, Scazzone C, Tripodo C, Di Marco V, Bono A, et al. Low vitamin D serum level is related to severe fibrosis and low responsiveness to interferon-based therapy in genotype 1 chronic hepatitis C. Hepatology. 2010; 51: 1158-67.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 165.60pt; text-align:justify; text-indent:-11.04pt;"><span class=font1 style=" line-height:9.84pt;">7.&nbsp;Reichel H, Koeffler HP, Norman AW. The role of the vitamin D endocrine system in health and disease. N Engl J Med 1989; 320:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">981-91.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 165.60pt; text-align:justify; text-indent:-11.04pt;"><span class=font1 style=" line-height:9.84pt;">8.&nbsp;Smith JE, Goodman DS. The turnover and transport of vitamin D and of a polar me-tabolite with the properties of 25-hydroxy-cholecalciferol in human plasma. J Clin</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1>Invest 1971; 50: 2159-67.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 165.60pt; text-align:justify; text-indent:-11.04pt;"><span class=font1 style=" line-height:10.08pt;">9.&nbsp;Haddad JG, Rojanasathit S. Acute admin-istration of 25-hydroxycholecalciferol in man. J Clin Endocrinol Metab 1976; 42:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.84pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">284-90.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 165.60pt; text-align:justify; text-indent:-14.64pt;"><span class=font1 style=" line-height:9.84pt;">10.&nbsp;Russo S, Carlucci L, Cipriani C, Ragno A, Piemonte S, Del Fiacco R, et al. Metabolic changes following 500 mcg monthly ad-ministration of calcidiol: a study in normal females. Calcif Tissue Int 2011; 89: 252-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 165.60pt; text-align:justify; text-indent:-14.64pt;"><span class=font1 style=" line-height:9.84pt;">11.&nbsp;Jones G. Why dialysis patients need com-bination therapy with both cholecalciferol and a calcitriol analogs. Semin Dial 2010;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.84pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">23: 239-43.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 165.60pt; text-align:justify; text-indent:-14.64pt;"><span class=font1 style=" line-height:9.84pt;">12.&nbsp;Norman AW, Nemere I, Zhou LX, Bishop JE, Lowe KE, Maiyar AC. 1,25(OH)<sub>2</sub>D<sub>3</sub>, a steroid hormone that produces biologic effects via both genomic and nongenomic</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:222.96pt;">
+
+<div class=block style=" width:222.96pt; height:617.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.36pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">pathways. J Steroid Biochem Mol Biol 1992; 41: 231-40.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">13.&nbsp;Schott GD, Wills MR. Muscle weakness in osteomalacia. Lancet 1976; 1: 626-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">14.&nbsp;Boland R. Role of vitamin D in skeletal muscle function. Endocr Rev 1986; 7: 434­48.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">15.&nbsp;Mowè M, Haug E, B0hmer T. Low serum calcidiol concentration in older adults with reduced muscolar function. J Am Geriatr Soc 1999; 47: 220-6.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">16.&nbsp;Bischoff HA, Stahelin HB, Urscheler N, Ehrsam R, Vonthein R, Perrig-Chiello P, et al. Muscle strength in the elderly: its rela­tion to vitamin D metabolites. Arch Phys Med Rehabil 1999; 80: 54-8.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.24pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">17.&nbsp;Pfeifer M, Begerow B, Minne HW, Schlott-hauer T, Pospeschill M, Scholz M, et al. Vitamin D status, trunk muscle strength, body sway, falls, and fractures among 237 postmenopausal women with osteoporosis. Exp Clin Endocrinol Diabetes 2001; 109:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">87-92.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">18.&nbsp;Zamboni M, Zoico E, Tosoni P, Zivelonghi A, Bortolani A, Maggi S, et al. Relation between vitamin D, physical performance, and disability in elderly persons. J Gerontol A Biol Sci Med Sci 2002; 57: M7-11.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.52pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">19.&nbsp;Dhesi JK, Bearne LM, Moniz C, Hurley MV, Jackson SH, Swift CG, et al. Neu-romuscular and psychomotor function in elderly subjects who fall and the relation-ship with vitamin D status. J Bone Miner</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.36pt; text-align:left;"><span class=font1>Res 2002; 17: 891-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">20.&nbsp;Visser M, Deeg DJ, Lips P. Longitudinal Aging Study Amsterdam. Low vitamin D and high parathyroid hormone levels as determinants of loss of muscle strength and muscle mass (sarcopenia): the Longitudinal Aging Study Amsterdam. J Clin Endocrinol</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.36pt; text-align:left;"><span class=font1>Metab 2003; 88: 5766-72.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">21.&nbsp;Venning G. Recent developments in vitamin D deficiency and muscle weakness among elderly people. BMJ 2005; 330: 524-6.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 0.00pt; text-align:justify;"><span class=font1>22.&nbsp;Gerdhem P, Ringsberg KAM, Obrant KJ,</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.52pt 0.00pt 15.36pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">Akesson K. Association between 25-hy-droxy vitamin D levels, physical activity, muscle strength and fractures in the pro-spective population-based OPRA Study of Elderly Women. Osteoporos Int 2005; 16:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 16.08pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">1425-31.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">23.&nbsp;Houston DK, Cesari M, Ferrucci L, Cheru­bini A, Maggio D, Bartali B, et al. Associa-tion between vitamin D status and physical performance: the InCHIANTI study. J Ge-rontol A Biol Sci Med Sci. 2007; 62: 440-6.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.28pt 0.00pt 15.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">24.&nbsp;Summary of the Updated American Geriat-ric Society/British Geriatrics Society Clini­cal Practice Guidelines for Prevention of Falls in Older Persons. J Am Geriatr Soc 2011; 59: 148-57.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 0.00pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">25.&nbsp;Yoshikawa S, Nakamura T, Tanabe H, Ima-</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:17.76pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:73.92pt;">
+
+<div class=block style=" width:73.92pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 14.16pt 0.00pt 49.92pt; text-align:justify;"><span class=font11>142</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:493.44pt;">
+
+<div class=block style=" width:493.44pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 434.40pt 0.00pt 0.72pt; text-align:justify;"><span class=font11>Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:73.92pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:251.52pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:18.96pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:222.96pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:247.68pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:187.44pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:74.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:57.84pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:435.12pt;">
+
+<div class=block style=" width:435.12pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:1.68pt 75.84pt 0.00pt 50.16pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:132.24pt;">
+
+<div class=block style=" width:132.24pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.28pt 0.00pt 1.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.68pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:247.68pt;">
+
+<div class=block style=" width:247.68pt; height:618.24pt;">
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 69.36pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">mura T. Osteomalacic myopathy. Endocri­nol Jpn 1979; 26: 65-72.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.48pt 0.00pt 69.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">26.&nbsp;Bischoff HA, Stahelin HB, Dick W, Akos R, Knecht M, Salis C, et al. Effects of vitamin D and calcium supplementation on falls: a randomized controlled trial. J Bone Miner Res 2003; 18: 343-51.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">27.&nbsp;Bischoff-Ferrari HA, Dawson-Hughes B, Willett WC, Staehelin HB, Bazemore MG, Zee RY, et al. Effect of vitamin D on falls.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.36pt; text-align:left;"><span class=font1>JAMA 2004; 291: 1999-2006.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">28.&nbsp;Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, Orav JE, Stuck AE, Theiler R, et al. Fall prevention with supplemental and active forms of vitamin D: a meta-analysis of randomised controlled trials. BMJ 2009;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.36pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">339: b3692.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.48pt 0.00pt 69.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">29.&nbsp;Dukas L, Bischoff HA, Lindpaintner LS, Schacht E, Birkner-Binder D, Damm TN, et al. Alfacalcidol reduces the number of fallers in a community-dwelling elderly population with a minimum calcium intake of more than 500 mg daily. J Am Geriatr Soc</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.60pt; text-align:left;"><span class=font1>2004; 52: 230-6.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">30.&nbsp;Kalyani RR, Stein B, Valiyil R, Manno R, Maynard JW, Crews DC. Vitamin D treat­ment for the prevention of falls in older adults: systematic review and meta-analysis. J Am Geriatr Soc. 2010; 58: 1299-310.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.48pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">31.&nbsp;McAlindon TE, Felson DT, Zhang Y, Hannan MT, Aliabadi P, Weissman B, et al. Relation of dietary intake and serum levels of vitamin D to progression of osteoarthritis of the knee among partecipants in the Framingham</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.60pt; text-align:left;"><span class=font1>Study. Ann Intern Med 1996; 125: 353-9.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">32.&nbsp;Glowacki J, Hurwitz S, Thornhill TS, Kelly M, LeBoff MS. Osteoporosis and vitamin D deficiency among postmenopausal women with osteoarthritis undergoing total hip arthroplasty. J Bone Joint Surg 2003; 85:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">2371-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">33.&nbsp;Merlino LA, Curtis J, Mikuls TR, Cerhan JR, Criswell LA, Saag KG. Vitamin D in­take is inversely associated with rheumatoid arthritis: results from the Iowa Women's Health Study. Arthritis Rheum 2004; 50:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.36pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">72-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">34.&nbsp;Munger KL, Zhang SM, O'Reilly E, Hernan MA, Olek MJ, Willett WC, et al. Vitamin D intake and incidence of multiple sclerosis. Neurology 2004; 62: 60-5.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.48pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">35.&nbsp;Grant WB, Garland CF. A critical review of studies on vitamin D in relation to colorectal</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.36pt; text-align:left;"><span class=font1>cancer. Nutr Cancer 2004; 48: 115-23.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">36.&nbsp;Holick MF. Sunlight and vitamin D for bone health and prevention of autoimmune dis-eases, cancers, and cardiovascular disease. Am J Clin Nutr 2004; 80: 1678S-88S.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.24pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">37.&nbsp;Holick MF. Vitamin D: importance in the prevention of cancers, type 1 diabetes, heart disease, and osteoporosis. Am J Clin Nutr</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.60pt; text-align:left;"><span class=font1>2004; 79: 362-71.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:319.68pt;">
+
+<div class=block style=" width:319.68pt; height:618.24pt;">
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 16.08pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:10.08pt;">38.&nbsp;Holick MF. Clinical efficacy of 1,25- di-hydroxyvitamin D3 and analogues in the treatment of psoriasis. Retinoids 1998; 14:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 16.56pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">12-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 16.08pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">39.&nbsp;Guyton KZ, Kensler YW, Posner GH. Can-cer chemoprevention using natural vitamin D and synthetic analogs. Annu Rev Pharma-col Toxicol 2001; 41: 421-42.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 0.00pt; text-align:justify;"><span class=font1>40.&nbsp;Li Y, Kong J, Wei M, Chen ZF, Liu S, Cao</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.84pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">LP. 1,25- dihydroxyvitamin D3 is a negative endocrine regulator of the renin-angiotensin system. J Clin Invest 2002; 110: 229-38.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 143.52pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">41.&nbsp;Hypponen E, Laara E, Jarvelin MR, Vir-tanen SM. Intake of vitamin D and risk of type 1 diabetes: a birth-cohort study. Lancet</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 16.08pt; text-align:left;"><span class=font1>2001; 358: 1500-3.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 143.52pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">42.&nbsp;Binkley N, Krueger DC, Morgan S, Wiebe D. Current status of clinical 25-hydroxy-vitamin D measurement: an assessment of between-laboratory agreement. Clin Chim Acta 2010; 14: 1976-82.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">43.&nbsp;Heaney RP. Functional indices of vitamin D status and ramifications of vitamin D de-ficiency. Am J Clin Nutr 2004; 80 (Suppl.)</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 16.56pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">1706S-9S.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 143.76pt 0.00pt 15.60pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">44.&nbsp;Chapuy MC, Preziosi P, Maamer M, Arnaud S, Galan P, Hercberg S, et al. Prevalence of vitamin D insufficiency in an adult normal population. Osteoporos Int 1997; 7: 439-43.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 143.76pt 0.00pt 15.60pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">45.&nbsp;Durazo-Arvizu RA, Dawson-Hughes B, Sempos CT, Yetley EA, Looker AC, Cao G, et al. Three-phase model harmonizes estimates of the maximal suppression of parathyroid hormone by 25-hydroxyvitamin D in persons 65 years of age and older. <span class=font2><i>J </i></span>Nutr 2010; 140: 595-9.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">46.&nbsp;Adami S, Viapiana O, Gatti D, Idolazzi L, Rossini M. Relationship between serum parathyroid hormone, vitamin D sufficiency, age, and calcium intake. Bone 2008; 42:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 16.08pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">267-70.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">47.&nbsp;Carnevale V, Nieddu L, Romagnoli E, Batti­sta C, Mascia ML, Chiodini I, et al. Regula-tion of PTH secretion by 25-hydroxyvitamin D and ionized calcium depends on vitamin D status: a study in a large cohort of healthy subjects. Bone 2010; 47: 626-30.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.60pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">48.&nbsp;Bischoff- Ferrari HA, Dietrich T, Orav EJ, Dawson-Hughes B. Positive association between 25-hydroxy vitamin D levels and bone mineral density: a population-based study of younger and older adults. Am J Med 2004; 116: 634-9.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">49.&nbsp;Bischoff-Ferrari HA, Kiel DP, Dawson-Hughes B, Orav JE, Li R, Spiegelman D, et al. Dietary calcium and serum 25-hydroxy-vitamin D status in relation to BMD among U.S. adults. J Bone Miner Res 2009; 24:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.84pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">935-42.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 16.08pt; text-align:justify; text-indent:-15.60pt;"><span class=font1 style=" line-height:9.84pt;">50.&nbsp;Bischoff-Ferrari HA, Giovannucci E, Wil­lett WC, Dietrich T, Dawson-Hughes B. Estimation of optimal serum concentrations</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:17.52pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:509.52pt;">
+
+<div class=block style=" width:509.52pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 16.32pt 0.00pt 435.12pt; text-align:justify;"><span class=font11>Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:57.84pt;">
+
+<div class=block style=" width:57.84pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 0.00pt; text-align:justify;"><span class=font11>143</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="4" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:247.68pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:187.44pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:74.40pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:57.84pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.44pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:18.72pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:223.20pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.44pt;">
+
+<div class=block style=" width:325.44pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 192.48pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:241.92pt;">
+
+<div class=block style=" width:241.92pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 48.96pt 0.00pt 26.64pt; text-align:justify;"><span class=font11><i>S. Adami, E. Romagnoli, </i><span style=" letter-spacing:-1.00pt;"><i>V.</i></span><i> Carnevale, et al.</i></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.68pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:344.16pt;">
+
+<div class=block style=" width:344.16pt; height:618.24pt;">
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 165.60pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">of 25-hydroxyvitamin D for multiple health outcomes. Am J Clin Nutr 2006; 84:18-28.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">51.&nbsp;Ross AC, Taylor CL, Yaktine AL, Del Valle HB, Editors; Committee to Review Dietary Reference Intakes for Vitamin D and Cal-</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 165.60pt; text-align:justify;"><span class=font1 style=" line-height:10.08pt;">cium; Institute of Medicine. ISBN: 0-309­16395-1, 482 pages. National Academics</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">Press 2010.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">52.&nbsp;Priemel M, von Domarus C, Klatte TO, Kes-sler S, Schlie J, Meier S, et al. Bone miner-alization defects and vitamin D deficiency: histomorphometric analysis of iliac crest bone biopsies and circulating 25-hydroxyvi-tamin D in 675 patients. J Bone Miner Res</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.84pt; text-align:left;"><span class=font1>2010; 25: 305-12.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">53.&nbsp;Flicker L, MacInnis RJ, Stein MS, Scherer SC, Mead KE, Nowson CA, et al. Should older people in residential care receive vitamin D to prevent falls? Results of a randomized trial. J Am Geriatr Soc 2005;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">53: 1881-8.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">54.&nbsp;Grant AM, Avenell A, Campbell MK, Mc­Donald AM, MacLennan GS, McPherson GC, et al; RECORD Trial Group. Oral vitamin D3 and calcium for secondary pre­vention of low-trauma fractures in elderly people (Randomised Evaluation of Calcium Or vitamin D, RECORD): a randomised placebo-controlled trial. Lancet 2005; 365:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 166.32pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">1621-8.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">55.&nbsp;Papadimitropoulos E, Wells G, Shea B, Gillespie W, Weaver B, Zytaruk N, et al; Osteoporosis Methodology Group and The Osteoporosis Research Advisory Group. Meta-analysis of the efficacy of vitamin D treatment in preventing osteoporosis in postmenopausal women. Endocr Rev 2002;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.84pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">23: 560-9.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 165.36pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">56.&nbsp;Porthouse J, Cockayne S, King C, Saxon L, Steele E, Aspray T, et al. Randomised controlled trial of calcium and supplemen-tation with cholecalciferol (vitamin D3) for prevention of fractures in primary care. BMJ</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.84pt; text-align:left;"><span class=font1>2005; 330: 1003-9.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">57.&nbsp;Trivedi DP, Doll R, Khaw KT. Effect of four monthly oral vitamin D3 (cholecalciferol) supplementation on fractures and mortality in men and women living in the community: randomised double blind controlled trial.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1>BMJ 2003; 326: 469-72.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">58.&nbsp;LeBoff MS, Kohlmeier L, Hurwitz S, Fran­klin J, Wright J, Glowacki J. Occult vitamin D deficiency in postmenopausal US women</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 165.60pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">with acute hip fracture. JAMA 1999; 281: 1505-11.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.72pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">59.&nbsp;Nuti R, Martini G, Valenti R, Gambera D, Gennari L, Salvadori S, et al. Vitamin D sta­tus and bone turnover in women with acute hip fracture. Clin Orthop Relat Res 2004;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.36pt; text-align:left;"><span class=font1>422: 208-13.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 165.84pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">60.&nbsp;Melhus H, Snellman G, Gedeborg R, By-berg L, Berglund L, Mallmin H, et al. Plas-</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:223.20pt;">
+
+<div class=block style=" width:223.20pt; height:618.24pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.60pt; text-align:justify;"><span class=font1 style=" line-height:10.08pt;">ma 25-hydroxyvitamin D levels and fracture risk in a community-based cohort of elderly men in Sweden. J Clin Endocrinol Metab</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.84pt; text-align:left;"><span class=font1>2010; 95: 2637-45.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.52pt 0.00pt 15.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:10.08pt;">61.&nbsp;Lips P, Obrant KJ. The pathogenesis and treatment of hip fractures. Osteoporos Int</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 16.32pt; text-align:left;"><span class=font1>1991: 1: 218-31.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">62.&nbsp;Cauley JA, Lacroix AZ, Wu L, Horwitz M, Danielson ME, Bauer DC, et al. Serum 25-hydroxyvitamin D concentrations and risk for hip fractures. Ann Intern Med 2008;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.36pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">49: 242-50.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">63.&nbsp;Looker AC, Mussolino ME. Serum 25-hy-droxyvitamin D and hip fracture risk in older U.S. white adults. J Bone Miner Res 2008; 23: 143-50.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.24pt 0.00pt 0.48pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">64.&nbsp;van Schoor NM, Visser M, Pluijm SM,</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.84pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">Kuchuk N, Smit JH, Lips P. Vitamin D</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">deficiency as a risk factor for osteoporotic</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">fractures. Bone 2008; 42: 260-6.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">65.&nbsp;Cauley JA, Parimi N, Ensrud KE, Bauer DC, Cawthon PM, Cummings SR, et al; Osteoporotic Fractures in Men (MrOS) Re­search Group. Serum 25 hydroxyvitamin D and the risk of hip and non-spine fractures in older men. J Bone Miner Res 2010; 25:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">545-53.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.24pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">66.&nbsp;Heaney RP, Holick MF. Why the IOM rec-ommendations for Vitamin D are deficient. J Bone Miner Res 2011; 26: 455-57.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.52pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">67.&nbsp;Bischoff-Ferrari HA, Willett WC, Wong JB, Stuck AE, Staehelin HB, Orav EJ, et al. Prevention of nonvertebral fractures with oral vitamin D and dose dependency: a meta-analysis of randomized controlled trials. Arch Intern Med 2009; 169: 551-61.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">68.&nbsp;Steingrimsdottir L, Gunnarsson O, In-dridason OS, Franzson L, Sigurdsson G. Relationship between serum parathyroid hormone levels, vitamin D sufficiency, and calcium intake. JAMA 2005; 294: 2336-41.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 15.84pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">69.&nbsp;Ebeling PR, Sandgren ME, Di Magno EP, Lane AW, De Luca HF, Riggs BL. Evidence of an age-related decrease in intestinal re-sponsiveness to vitamin D: relationship between serum 1,25- dihydroxyvitamin D3 and intestinal vitamin D receptor concentra-tion in normal women. J Clin Endocrinol</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1>Metab 1992; 75: 176-82.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.28pt 0.00pt 15.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">70.&nbsp;Slovik DM, Adams JS, Neer RM, Holick MF, Potts JT. Deficient production of 1,25-dihydroxyvitamin D in elderly oste-oporotic patients. N Engl J Med 1981; 305:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">372-4.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 15.36pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">71.&nbsp;Riggs BL, Hamstra A, De Luca HF. As­s es s ment of 25 hydro xyvitamin D 1a-hydroxylase reserve in postmenopausal osteoporosis by administration of parathy-roid extract. J Clin Endocrinol Metab 1981;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">53: 833-5.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.52pt 0.00pt 15.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">72.&nbsp;Isaia G, Giorgino R, Rini GB, Bevilacqua M, Maugeri D, Adami S. Prevalence of</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:17.52pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 434.40pt 0.00pt 49.92pt; text-align:justify;"><span class=font11>144   Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.44pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:18.72pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:223.20pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:248.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:187.20pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:435.36pt;">
+
+<div class=block style=" width:435.36pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:1.68pt 76.08pt 0.00pt 50.16pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt;">
+
+<div class=block style=" width:132.00pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.28pt 0.00pt 1.68pt; text-align:justify;"><span class=font15><b><u>RASSEGNA</u></b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.68pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:248.16pt;">
+
+<div class=block style=" width:248.16pt; height:618.24pt;">
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 69.36pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">hypovitaminosis D in elderly women in Italy: clinical consequences and risk factors. Osteoporos Int 2003; 14: 577-82.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">73.&nbsp;Rossini M, Mattarei A, Braga V, Viapiana O, Zambarda C, Benini C, et al. Risk factors for hip fracture in elderly persons. Reumatismo.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">2010; 62: 273-82.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.68pt 0.00pt 54.00pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">74.&nbsp;Holick MF. Vitamin D deficiency. N Engl J</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.36pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">Med 2007; 357: 266-81.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">75.&nbsp;Bilke DD. Vitamin D: newly discovered ac-tions require reconsideration of physiologic requirements. Trends Endocrinol Metab 2010; 21: 375-84.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">76.&nbsp;Gallagher JC, Sai AJ. Vitamin D insuffi­ciency, deficiency, and bone health. J Clin Endocrinol Metab 2010; 95: 2630-3.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">77.&nbsp;Sai AJ, Walters RW, Fang X, Gallagher JC. Relationship between vitamin D, par-athyroid hormone, and bone health. J Clin Endocrinol Metab 2011; 96: E436-46.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">78.&nbsp;Rossini M, Perbellini S, Lazzarin M, Adami S, Bertoldo F, Lo Cascio V. Incidenza di ipovitaminosi D nel Nord Italia. It J Min Elect Metab 1990; 4: 13-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">79.&nbsp;Van der Wielen RPJ, Lowik MRH,Van den Berg H, De Groot LCPGM, Haller J, Morei-ras O, et al. Serum vitamin D concentrations among elderly people in Europe The Lancet, 1995; 345: 207-10.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 69.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">80.&nbsp;Bettica P, Bevilacqua M, Vago T, Norbiato G. High prevalence of hypovitaminosis D among free-living postmenopausal women referred to an osteoporosis outpatient clinic in northern Italy for initial screening. Oste-</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.36pt; text-align:left;"><span class=font1>oporos Int 1999; 9: 226-9.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 69.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">81.&nbsp;Carnevale V, Modoni S, Pileri M, Di Giorgio A, Chiodini I, Minisola S, et al. Longitudi­nal evaluation of vitamin D status in healthy subjects from southern Italy: seasonal and gender differences. Osteoporos Int 2001;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 70.08pt; text-align:left;"><span class=font1>12: 1026-30.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 69.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">82.&nbsp;Lips P, Duong T, Oleksik A, Black D, Cum-mings S, Cox D, et al. A global study of vitamin D status and parathyroid function in postmenopausal women with osteoporosis: baseline data from the Multiple Outcomes of Raloxifene Evaluation clinical trial. J Clin Endocrinol Metab 2001; 86: 1212-21.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.44pt 0.00pt 69.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">83.&nbsp;Romagnoli E, Caravella P, Scarnecchia L, Martinez P, Minisola S. Hypovitaminosis D in an Italian population of healthy subjects and hospitalized patients. Br J Nutr 1999;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">81: 133-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 19.20pt 0.00pt 69.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">84.&nbsp;Giusti A, Barone A, Razzano M, Pizzonia M, Oliveri M, Palummeri E, et al. High preva­lence of secondary hyperparathyroidism due to hypovitaminosis D in hospitalized elderly with and without hip fracture. J Endocrinol</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.36pt; text-align:left;"><span class=font1>Invest 2006; 29: 809-13.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 18.96pt 0.00pt 69.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">85.&nbsp;Passeri G, Pini G, Troiano L, Vescovini R, Sansoni P, Passeri M, et al. Low vitamin D status, high bone turnover, and bone</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:319.20pt;">
+
+<div class=block style=" width:319.20pt; height:618.24pt;">
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.36pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">fractures in centenarians. J Clin Endocrinol Metab 2003; 88: 5109-15.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 15.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">86.&nbsp;Muscarella S, Filabozzi P, D'Amico G, Mascia ML, Annese MA, Scillitani A, et al. Vitamin D status in inpatients admitted to an internal medicine department. Horm Res</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1>2006; 66: 216-20.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">87.&nbsp;Kuchuk NO, van Schoor NM, Pluijm SM, Chines A, Lips P. Vitamin D status, para-thyroid function, bone turnover, and BMD in postmenopausal women with osteoporo­sis: global perspective. J Bone Miner Res.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1>2009; 24: 693-701.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 15.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">88.&nbsp;Chapuy MC, Arlot ME, Duboeuf F, Brun J, Crouzet B, Arnaud S, et al. Vitamin D3 and calcium to prevent hip fractures in the elderly women. N Engl J Med 1992; 327:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 16.08pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">1637-42.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.36pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">89.&nbsp;Chapuy MC, Arlot ME, Delmas PD, Meuni-er PJ. Effect of calcium and cholecalciferol treatment for three years on hip fractures in elderly women. BMJ 1994; 308: 1081-2.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">90.&nbsp;Rossini M, Alberti V, Flor L, Masiero L, Giannini S, Gatti D, et al. Effect of oral vitamin D2 yearly bolus on hip fracture risk in elderly women: a community primary prevention study. Aging Clin Exp Res 2004;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 16.08pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">16: 432-6.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 15.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">91.&nbsp;Giusti A, Barone A, Razzano M, Oliveri M, Pizzonia M, Palummeri E, et al. Persistence with calcium and vitamin D in elderly pa­tients after hip fracture. J Bone Miner Metab</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1>2009; 27: 95-100.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">92.&nbsp;Carnevale V, Nieddu L, Romagnoli E, Bona E, Piemonte S, Scillitani A, et al. Oste­oporosis intervention in ambulatory patients with previous hip fracture: a multicentric, nationwide Italian survey. Osteoporos Int</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1>2006; 17: 478-83.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 143.76pt 0.00pt 15.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">93.&nbsp;Adami S, Isaia G, Luisetto G, Minisola S, Sinigaglia L, Gentilella R, et al; ICARO Study Group. Fracture incidence and char-acterization in patients on osteoporosis treatment: the ICARO study. J Bone Miner</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.36pt; text-align:left;"><span class=font1>Res 2006; 21: 1565-70.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 15.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">94.&nbsp;Adami S, Isaia G, Luisetto G, Minisola S, Sinigaglia L, Silvestri S, et al; ICARO Study Group. Osteoporosis treatment and fracture incidence: the ICARO longitudinal study.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.36pt; text-align:left;"><span class=font1>Osteoporos Int 2008; 19: 1219-23.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.00pt 0.00pt 15.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">95.&nbsp;Adami S, Giannini S, Bianchi G, Sinigaglia L, Di Munno O, Fiore CE, et al. Vitamin D status and response to treatment in post-menopausal osteoporosis. Osteoporos Int</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1>2009; 20: 239-44.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.00pt 0.00pt 15.12pt; text-align:justify; text-indent:-15.12pt;"><span class=font1 style=" line-height:9.84pt;">96.&nbsp;Adami S, Bertoldo F, Braga V, Fracassi E, Gatti D, Gandolini G, et al. 25-hydroxy vitamin D levels in healthy premenopausal women: association with bone turnover markers and bone mineral density. Bone</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 15.60pt; text-align:left;"><span class=font1>2009; 45: 423-6.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 0.00pt; text-align:justify;"><span class=font1>97.&nbsp;Heaney RP, Davies KM, Chen TC, Holick</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:17.52pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 435.36pt; text-align:justify;"><span class=font11>Reumatismo 3/2011 145</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:248.16pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:187.20pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.68pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:15.12pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:226.56pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.68pt;">
+
+<div class=block style=" width:325.68pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 192.72pt 0.00pt 73.92pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:241.68pt;">
+
+<div class=block style=" width:241.68pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:2.64pt 48.96pt 0.00pt 26.40pt; text-align:justify;"><span class=font11><i>S. Adami, E. Romagnoli, </i><span style=" letter-spacing:-1.00pt;"><i>V.</i></span><i> Carnevale, et al.</i></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.68pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:340.80pt;">
+
+<div class=block style=" width:340.80pt; height:618.24pt;">
+
+<div class=paragraph style=" padding:0.00pt 15.60pt 0.00pt 165.60pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">MF, Barger-Lux MJ. Human serum 25-hy-droxycholecalciferol response to extended oral dosing with cholecalciferol. Am J Clin</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1>Nutr 2003; 77: 204-10.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.36pt 0.00pt 165.60pt; text-align:justify; text-indent:-15.36pt;"><span class=font1 style=" line-height:9.84pt;">98.&nbsp;Giusti A, Barone A, Pioli G, Girasole G, Razzano M, Pizzonia M, et al. Heterogene-ity in serum 25-hydroxy-vitamin D response to cholecalciferol in elderly women with secondary hyperparathyroidism and vitamin D deficiency. J Am Geriatr Soc. 2010; 58:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 166.32pt; text-align:left;"><span class=font1>1489-95.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.36pt 0.00pt 150.00pt; text-align:justify;"><span class=font1>99.&nbsp;Wortsman J, Matsuoka LY, Chen TC, Lu</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.12pt 0.00pt 165.60pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">Z, Holick MF. Decreased bioavailability of vitamin D in obesity. Am J Clin Nutr 2000;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">72: 690-3.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.36pt 0.00pt 165.36pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">100.&nbsp;Harris SS, Dawson-Hughes B. The associa-tion of oral contraceptive use with plasma 25-hydroxyvitamin D levels. J Am Coll Nutr</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 166.32pt; text-align:left;"><span class=font1>1998; 17: 282-4.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.36pt 0.00pt 165.60pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">101.&nbsp;Harris SS, Dawson-Hughes B. Plasma vita-min D and 25OHD responses of young and old men to supplementation with vitamin D3. J Am Coll Nutr 2002; 21: 357-62.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.60pt 0.00pt 165.60pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">102.&nbsp;Boonen S, Lips P, Bouillon R, Bischoff-Ferrari HA, Vanderschueren D, Haentjens P. Need for additional calcium to reduce the risk of hip fracture with vitamin d sup-plementation: evidence from a compara­tive metaanalysis of randomized controlled trials. J Clin Endocrinol Metab 2007; 92:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 166.32pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">1415-23.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.60pt 0.00pt 165.60pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">103.&nbsp;Premaor MO, Scalco R, da Silva MJ, Froeh-lich PE, Furlanetto TW. The effect of a single dose versus a daily dose of cholecal­ciferol on the serum 25-hydroxycholecalcif-erol and parathyroid hormone levels in the elderly with secondary hyperparathyroidism living in a low-income housing unit. J Bone</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.60pt; text-align:left;"><span class=font1>Miner Metab 2008; 26: 603-8.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.60pt 0.00pt 165.60pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">104.&nbsp;Leidig-Bruckner G, Roth HJ, Bruckner T, Lorenz A, Raue F, Frank-Raue K. Are com-monly recommended dosages for vitamin D supplementation too low? Vitamin D status and effects of supplementation on serum 25-hydroxyvitamin D levels—an observa-tional study during clinical practice condi-tions. Osteoporos Int 2011; 22: 231-40.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.60pt 0.00pt 165.36pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">105.&nbsp;Bischoff-Ferrari HA, Shao A, Dawson-Hughes B, Hathcock J, Giovannucci E, Wil­lett WC. Benefit-risk assessment of vitamin D supplementation. Osteoporos Int 2010;</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 165.84pt; text-align:left;"><span class=font1>21: 1121-32.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.36pt 0.00pt 165.60pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">106.&nbsp;Vieth R. Why the optimal requirement for vitamin D3 is probably much higher than what is officially recommended for adults. J Ster Biochem Mol Bio 2004; 89-90: 575-9.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.60pt 0.00pt 165.60pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">107.&nbsp;Bailey RL, Dodd KW, Goldman JA, Gahche JJ, Dwyer JT, Moshfegh AJ, et al. Estima-tion of total usual calcium and vitamin D intake in the United States. J Nutr 2010; 140: 817-22.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.84pt 0.00pt 146.88pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">108.&nbsp;Calvo MS, Whiting SJ. Determinants of vi-</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:226.56pt;">
+
+<div class=block style=" width:226.56pt; height:618.24pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 19.20pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">tamin D intake. From: Nutrition and Health: vitamin D. Holick MF ed. Springer Science + Business Media, LLC 2010.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 18.96pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">109.&nbsp;Whiting SJ, Green TJ, Calvo MS. Vitamin D intakes in North America and Asia-Pacific countries are not sufficient to prevent vita-min D insufficiency. J Steroid Biochem Mol Biol 2007; 103: 626-30.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 18.72pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">110.&nbsp;Rossini M, Viapiana O, Gatti D, James G, Girardello S, Adami S. La correzione dell'ipovitaminosi D nel lungo termine: confronto tra diverse modalità di somminis­trazione di vitamina D nella pratica clinica. Minerva Med 2005; 96 (Suppl 1): 1-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 18.96pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">111.&nbsp;Chel V, Wijnhoven HA, Smit JH, Ooms M, Lips P. Efficacy of different doses and time intervals of oral vitamin D supplementation with or without calcium in elderly nursing home residents. Osteoporos Int 2008; 19:</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 19.20pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">663-71.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 18.96pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">112.&nbsp;Sanders KM, Stuart AL, Williamson EJ, Simpson JA, Kotowicz MA, Young D, et al. Annual high-dose oral vitamin D and falls and fractures in older women: a randomized controlled trial. JAMA 2010; 303: 1815-22.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 18.72pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">113.&nbsp;Gartner LM, Greer FR; Section on Breast-feeding and Committee on Nutrition. Amer­ican Academy of Pediatrics. Prevention of rickets and vitamin D deficiency: new guidelines for vitamin D intake. Pediatrics 2003; 111: 908-10.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 18.96pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">114.&nbsp;Standing Committee on the Scientific Eval-uation of Dietary Reference Intakes, Food and Nutrition Board, Institute of Medicine, National Academy of Sciences. Dietary reference intakes for calcium, phosphorus, magnesium, vitamin D, and fluoride. Wash­ington, DC: National Academy Press 2000.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 18.96pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">115.&nbsp;Bacon CJ, Gamble GD, Horne AM, Scott MA, Reid IR. High-dose oral vitamin D3 supplementation in the elderly. Osteoporos Int 2009; 20: 1407-15.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 18.96pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">116.&nbsp;Romagnoli E, Mascia ML, Cipriani C, Fassino V, Mazzei F, D'Erasmo E, et al. Short and long-term variations in serum calciotropic hormones after a single very large dose of ergocalciferol (vitamin D2) or cholecalciferol (vitamin D3) in the elderly. J Clin Endocrinol Metab 2008; 93: 3015-20.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.24pt 0.00pt 0.00pt; text-align:justify;"><span class=font1>117.&nbsp;Heaney RP, Recker RR, Grote J, Horst RL,</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 18.96pt; text-align:justify;"><span class=font1 style=" line-height:9.84pt;">Armas LAG. Vitamin D<sub>3</sub> is more potent than vitamin D<sub>2</sub> in humans. J Clin Endocrinol Metab 2011; 96: E447-52.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 48.00pt 0.00pt 18.96pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">118.&nbsp;Ilahi M, Armas LAG, Heaney RP. Pharma-cokinetics of a single, large dose of vitamin D3. Am J Clin Nutr 2008; 87: 688-91.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 47.76pt 0.00pt 18.96pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">119.&nbsp;Cipriani C, Romagnoli E, Scillitani A, Chiodini I, Clerico R, Carnevale V, et al. Effect of a single oral dose of 600,000 IU of cholecalciferol on serum calciotropic hormones in young subjects with vitamin D deficiency: a prospective intervention study.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:17.52pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 434.64pt 0.00pt 50.16pt; text-align:justify;"><span class=font11>146    Reumatismo 3/2011</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:325.68pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:15.12pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:226.56pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+<table class=main frame="box" rules="all" border="0" cellspacing="0" cellpadding="0" style=" width:567.36pt; height:764.88pt;">
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:244.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.04pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:41.04pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:435.36pt;">
+
+<div class=block style=" width:435.36pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:1.68pt 76.08pt 0.00pt 50.16pt; text-align:justify;"><span class=font12>Linee guida su prevenzione e trattamento dell'ipovitaminosi D con colecalciferolo</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt;">
+
+<div class=block style=" width:132.00pt; height:11.52pt;">
+
+<div class=paragraph style=" padding:0.00pt 71.28pt 0.00pt 1.68pt; text-align:justify;"><span class=font15><b>RASSEGNA</b></span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:37.92pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:244.32pt;">
+
+<div class=block style=" width:244.32pt; height:127.44pt;">
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 69.36pt; text-align:left;"><span class=font1 style=" line-height:9.84pt;">J Clin Endocrinol Metab 2010; 95: 4771-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.12pt 0.00pt 69.12pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">120.&nbsp;Hollis BW, Wagner CL. Vitamin D require-ments during lactation: high-dose maternal supplementation as therapy to prevent hy-povitaminosis D for both the mother and the nursing infant. Am J Clin Nutr 2004; 80 (Suppl): 1752S- 8S.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 15.12pt 0.00pt 69.12pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">121.&nbsp;Federal Food, Drug, and Cosmetic Act of 1980. 21 USC &sect;321.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 14.88pt 0.00pt 69.12pt; text-align:justify; text-indent:-18.72pt;"><span class=font1 style=" line-height:9.84pt;">122.&nbsp;Antia AU, Wiltse HE, Rowe RD, Pitt EL, Levin S, Ottesen OE, et al. Pathogenesis of the supravalvular aortic stenosis syndrome. J Pediatr 1967; 71: 431-41.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell colspan="2" valign="top" style=" width:323.04pt;">
+
+<div class=block style=" width:323.04pt; height:127.44pt;">
+
+<div class=paragraph style=" padding:0.00pt 144.48pt 0.00pt 19.44pt; text-align:justify; text-indent:-19.20pt;"><span class=font1 style=" line-height:9.84pt;">123.&nbsp;Seelig M. Vitamin D and cardiovascular, renal and brain damage in infancy and child-hood. Ann N Y Acad Sci 1969; 147: 537-82.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 19.44pt; text-align:justify; text-indent:-19.20pt;"><span class=font1 style=" line-height:9.84pt;">124.&nbsp;Aravena T, Castillo S, Carrasco X, Mena I, López J, Rojas JP, et al. Williams syndrome: clinical, cytogenetic, neurophysiological and neuroanatomic study. Rev Med Child</span></div>
+
+<div class=paragraph style=" padding:0.00pt 0.00pt 0.00pt 19.44pt; text-align:left;"><span class=font1>2002; 130: 631-7.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 19.20pt; text-align:justify; text-indent:-19.20pt;"><span class=font1 style=" line-height:9.84pt;">125.&nbsp;Specker B. Vitamin D requirements dur-ing pregnancy. Am J Clin Nutr 2004; 80 (6 suppl): 1740S-7S.</span></div>
+
+<div class=paragraph style=" padding:0.00pt 144.24pt 0.00pt 19.44pt; text-align:justify; text-indent:-19.20pt;"><span class=font1 style=" line-height:9.84pt;">126.&nbsp;Rosen CJ. Vitamin D insufficiency. N Engl J Med 2011; 364: 248-54.</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:508.08pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:5.76pt;">
+
+<div class=paragraph style=" padding:0.00pt 48.24pt 0.00pt 435.36pt; text-align:justify;"><span class=font11>Reumatismo 3/2011 147</span></div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row valign="top">
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+<td class=cell colspan="3" valign="top" style=" width:567.36pt;">
+
+<div class=block style=" width:567.36pt; height:33.12pt;">
+
+<div class=paragraph>
+
+</div>
+
+</div>
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt;">
+
+</td>
+
+</tr>
+
+<tr class=row>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:244.32pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:191.04pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:132.00pt; height:0.00pt;">
+
+</td>
+
+<td class=cell valign="top" style=" width:0.00pt; height:0.00pt;">
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+- - - - - - - - 
+
+# See also VitaminDWiki
+
+* <a href="/posts/many-seniors-in-italy-have-high-levels-of-vitamin-d-and-are-healthy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2624">Many Seniors in Italy have high levels of vitamin D and are healthy - April 2012</a>

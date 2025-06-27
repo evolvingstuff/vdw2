@@ -1,16 +1,25 @@
 {
-  "title": "Vitamin D bed used 4 minutes daily by dark skin members of UK sports team",
-  "slug": "vitamin-d-bed-used-4-minutes-daily-by-dark-skin-members-of-uk-sports-team",
-  "aliases": [
-    "/Vitamin+D+bed+used+4+minutes+daily+by+dark+skin+members+of+UK+sports+team+\u2013+Jan+2011",
-    "/1340"
-  ],
-  "tiki_page_id": 1340,
-  "date": "2011-01-21",
-  "categories": [
-    "Skin - Dark",
-    "Sports and Vitamin D"
-  ]
+    "title": "Vitamin D bed used 4 minutes daily by dark skin members of UK sports team",
+    "slug": "vitamin-d-bed-used-4-minutes-daily-by-dark-skin-members-of-uk-sports-team",
+    "aliases": [
+        "/Vitamin+D+bed+used+4+minutes+daily+by+dark+skin+members+of+UK+sports+team+\u2013+Jan+2011",
+        "/1340"
+    ],
+    "tiki_page_id": 1340,
+    "date": "2011-01-21",
+    "categories": [
+        "Skin - Dark",
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Skin - Dark",
+        "Sports and Vitamin D",
+        "bone",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
 
 
@@ -95,4 +104,3 @@ Computerised analysis of opponents, via the ProZone system, takes place in a roo
 * <a href="/posts/professional-sports-team-takes-5000-iu-and-wins-championship" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 293">professional sports team takes 5000 IU and wins championship</a>
 
 * <a href="/posts/olympic-athletes-and-vitamin-d-clippings-2009-10" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 349">Olympic Athletes and vitamin D - clippings 2009-10</a> UV used by Olympic athletes since the 1930's, High UV in Mexico Olympics broke many records
-

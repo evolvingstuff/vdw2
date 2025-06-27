@@ -1,17 +1,25 @@
 {
-  "title": "Vitamin D and phototherapy are among treatments for elderly psorasis",
-  "slug": "vitamin-d-and-phototherapy-are-among-treatments-for-elderly-psorasis",
-  "aliases": [
-    "/Vitamin+D+and+phototherapy+are+among+treatments+for+elderly+psorasis+\u2013+April+2011",
-    "/1581"
-  ],
-  "tiki_page_id": 1581,
-  "date": "2011-04-20",
-  "categories": [
-    "Psoriasis",
-    "Treatment by Vitamin D"
-  ]
+    "title": "Vitamin D and phototherapy are among treatments for elderly psorasis",
+    "slug": "vitamin-d-and-phototherapy-are-among-treatments-for-elderly-psorasis",
+    "aliases": [
+        "/Vitamin+D+and+phototherapy+are+among+treatments+for+elderly+psorasis+\u2013+April+2011",
+        "/1581"
+    ],
+    "tiki_page_id": 1581,
+    "date": "2011-04-20",
+    "categories": [
+        "Psoriasis",
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "Psoriasis",
+        "Treatment by Vitamin D",
+        "dermatology",
+        "psoriasis",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -40,4 +48,3 @@ For appropriately monitored elderly patients who have psoriasis with extensive d
 Copyright © 2010 American Academy of Dermatology, Inc. Published by Mosby, Inc. All rights reserved.
 
 PMID: 21496950
-

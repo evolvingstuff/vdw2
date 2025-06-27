@@ -1,16 +1,31 @@
 {
-  "title": "Some cancer due to low UV \u2013 Grant",
-  "slug": "some-cancer-due-to-low-uv-grant",
-  "aliases": [
-    "/Some+cancer+due+to+low+UV+\u2013+Grant+\u2013+April+2010",
-    "/1826"
-  ],
-  "tiki_page_id": 1826,
-  "date": "2011-07-14",
-  "categories": [
-    "UV and Vitamin D",
-    "Cancer"
-  ]
+    "title": "Some cancer due to low UV \u2013 Grant",
+    "slug": "some-cancer-due-to-low-uv-grant",
+    "aliases": [
+        "/Some+cancer+due+to+low+UV+\u2013+Grant+\u2013+April+2010",
+        "/1826"
+    ],
+    "tiki_page_id": 1826,
+    "date": "2011-07-14",
+    "categories": [
+        "UV and Vitamin D",
+        "Cancer"
+    ],
+    "tags": [
+        "Cancer",
+        "UV and Vitamin D",
+        "alcohol",
+        "cancer",
+        "health risk",
+        "life span",
+        "lung cancer",
+        "lymphoma",
+        "mortality",
+        "pancreatic cancer",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -45,4 +60,3 @@ PMID:     21547102
 # See also VitaminDWiki
 
 * <a href="/posts/links-to-ws-grant-papers-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1825">Links to WS Grant papers in VitaminDWiki</a>
-

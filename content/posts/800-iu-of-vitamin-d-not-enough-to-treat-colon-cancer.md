@@ -1,16 +1,23 @@
 {
-  "title": "800 IU of vitamin D not enough to treat colon cancer",
-  "slug": "800-iu-of-vitamin-d-not-enough-to-treat-colon-cancer",
-  "aliases": [
-    "/800+IU+of+vitamin+D+not+enough+to+treat+colon+cancer+\u2013+June+2011",
-    "/1797"
-  ],
-  "tiki_page_id": 1797,
-  "date": "2011-07-04",
-  "categories": [
-    "Cancer - Colon"
-  ]
+    "title": "800 IU of vitamin D not enough to treat colon cancer",
+    "slug": "800-iu-of-vitamin-d-not-enough-to-treat-colon-cancer",
+    "aliases": [
+        "/800+IU+of+vitamin+D+not+enough+to+treat+colon+cancer+\u2013+June+2011",
+        "/1797"
+    ],
+    "tiki_page_id": 1797,
+    "date": "2011-07-04",
+    "categories": [
+        "Cancer - Colon"
+    ],
+    "tags": [
+        "Cancer - Colon",
+        "cancer",
+        "colon cancer",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -23,4 +30,3 @@
 # See VitaminDWiki
 
 * [All items in Colon Cancer and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=41&deep=off&type=) 33 items as of July 2011
-

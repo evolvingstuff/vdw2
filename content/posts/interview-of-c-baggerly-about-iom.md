@@ -1,15 +1,34 @@
 {
-  "title": "Interview of C Baggerly about IoM",
-  "slug": "interview-of-c-baggerly-about-iom",
-  "aliases": [
-    "/Interview+of+C+Baggerly+about+IoM+Dec+1+2010",
-    "/1230"
-  ],
-  "tiki_page_id": 1230,
-  "date": "2010-12-12",
-  "categories": [
-    "How much Vitamin D"
-  ]
+    "title": "Interview of C Baggerly about IoM",
+    "slug": "interview-of-c-baggerly-about-iom",
+    "aliases": [
+        "/Interview+of+C+Baggerly+about+IoM+Dec+1+2010",
+        "/1230"
+    ],
+    "tiki_page_id": 1230,
+    "date": "2010-12-12",
+    "categories": [
+        "How much Vitamin D"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "SAD",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "mood disorders",
+        "pregnancy",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -156,4 +175,3 @@ DM: Why don't you describe what that is because for a very reasonable fee, typic
 DM: Great. So we'll put a link to that and how they can participate for it. Thank you for all you're doing and continue to do and we'll do because you're really making a big difference for so many people lives even though they don't know it because you're the person behind the scenes who is really pushing this and helping people really take full advantage of the benefits that this simple therapy has to offer for them.
 
 <span style="color:#F00;">CB</span>: I thank you very much for your help.
-

@@ -1,17 +1,74 @@
 {
-  "title": "Consensus Vitamin D position statement \u2013 UK",
-  "slug": "consensus-vitamin-d-position-statement-uk",
-  "aliases": [
-    "/Consensus+Vitamin+D+position+statement+\u2013+UK+Dec+2010",
-    "/1249"
-  ],
-  "tiki_page_id": 1249,
-  "date": "2010-12-19",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Noontime sun and D",
-    "Overview for doctors"
-  ]
+    "title": "Consensus Vitamin D position statement \u2013 UK",
+    "slug": "consensus-vitamin-d-position-statement-uk",
+    "aliases": [
+        "/Consensus+Vitamin+D+position+statement+\u2013+UK+Dec+2010",
+        "/1249"
+    ],
+    "tiki_page_id": 1249,
+    "date": "2010-12-19",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Noontime sun and D",
+        "Overview for doctors"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Noontime sun and D",
+        "Overview for doctors",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "breast cancer",
+        "breastfed",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "colon cancer",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "hip fractures",
+        "intervention",
+        "life span",
+        "lymphoma",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "melanoma",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "omega 3 and viruses",
+        "osteoporosis",
+        "pancreatic cancer",
+        "pediatric autoimmune",
+        "pregnancy",
+        "prostate cancer",
+        "rickets",
+        "skin cancer",
+        "therapeutic intervention",
+        "ultraviolet light",
+        "virus",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -312,4 +369,3 @@ Until then, they insist that you limit your time in the sun to 10 minutes a day.
 US non-profits, by comparison, still insist that daily sunshine exposure should be limited to zero minutes a day, if you can believe that.
 
 About the author: Mike Adams is a natural health author and award-winning journalist with a mission to teach personal and planetary health to the public He has authored and published thousands of articles, interviews, consumers guides, and books on topics like health and the environment, reaching millions of readers with information that is saving lives and improving personal health around the world. Adams is a trusted, independent journalist who receives no money or promotional fees whatsoever to write about other companies' products. In 2010, Adams co-founded NaturalNews.TV, a natural health video sharing site that has now grown in popularity. He's also the CEO of a highly successful email newsletter software company that develops software used to send permission email campaigns to subscribers. Adams volunteers his time to serve as the executive director of the Consumer Wellness Center, a 501(c)3 non-profit organization, and pursues hobbies such as martial arts, Capoeira, nature macrophotography and organic gardening. Known on the 'net as 'the Health Ranger,' Adams shares his ethics, mission statements and personal health statistics at www.HealthRanger.org
-

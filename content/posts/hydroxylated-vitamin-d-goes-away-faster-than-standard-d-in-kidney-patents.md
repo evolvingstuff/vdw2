@@ -1,16 +1,26 @@
 {
-  "title": "Hydroxylated vitamin D goes away faster than standard D in Kidney patents",
-  "slug": "hydroxylated-vitamin-d-goes-away-faster-than-standard-d-in-kidney-patents",
-  "aliases": [
-    "/Hydroxylated+vitamin+D+goes+away+faster+than+standard+D+in+Kidney+patents+\u2013+June+2011",
-    "/1760"
-  ],
-  "tiki_page_id": 1760,
-  "date": "2011-06-24",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Hydroxylated vitamin D goes away faster than standard D in Kidney patents",
+    "slug": "hydroxylated-vitamin-d-goes-away-faster-than-standard-d-in-kidney-patents",
+    "aliases": [
+        "/Hydroxylated+vitamin+D+goes+away+faster+than+standard+D+in+Kidney+patents+\u2013+June+2011",
+        "/1760"
+    ],
+    "tiki_page_id": 1760,
+    "date": "2011-06-24",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "CKD",
+        "Kidney",
+        "diabetes",
+        "kidney",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -49,4 +59,3 @@ Starting with CKD patients who were vitamin D replete (20ng or 30ng ?), 1 year l
 # See also VitaminDWiki
 
 * [Google Search](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=1%2C25%28OH%292D+&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26sanitize%3D0%26v%3D1ab3d9048423eb6%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D1441429884) for 1,25(OH)2D: 160 hits June 2011
-

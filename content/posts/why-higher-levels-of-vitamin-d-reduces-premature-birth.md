@@ -1,15 +1,34 @@
 {
-  "title": "Why higher levels of vitamin D reduces premature birth",
-  "slug": "why-higher-levels-of-vitamin-d-reduces-premature-birth",
-  "aliases": [
-    "/Why+higher+levels+of+vitamin+D+reduces+premature+birth+-+April+2011",
-    "/1556"
-  ],
-  "tiki_page_id": 1556,
-  "date": "2011-04-02",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Why higher levels of vitamin D reduces premature birth",
+    "slug": "why-higher-levels-of-vitamin-d-reduces-premature-birth",
+    "aliases": [
+        "/Why+higher+levels+of+vitamin+D+reduces+premature+birth+-+April+2011",
+        "/1556"
+    ],
+    "tiki_page_id": 1556,
+    "date": "2011-04-02",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "breathing",
+        "child",
+        "childhood pneumonia",
+        "dosage",
+        "low birth weight",
+        "pneumonia",
+        "pregnancy",
+        "rickets",
+        "sepsis",
+        "trauma surgery",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -51,7 +70,7 @@ Pregnant women are generally not advised to obtain sufficient vitamin  D  during
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
 
-* <a href="/posts/preemies-have-increased-need-for-vitamin-d-and-calcium-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013">Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013</a>
+* [Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013](/posts/preemies-have-increased-need-for-vitamin-d-and-calcium-rickets)
 
 * [Premature delivery associated with low vitamin D in Japanese women – Mar 2011](/posts/premature-delivery-associated-with-low-vitamin-d-in-japanese-women)
 

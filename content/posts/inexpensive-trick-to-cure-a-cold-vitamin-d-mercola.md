@@ -1,15 +1,30 @@
 {
-  "title": "Inexpensive Trick to Cure a Cold - vitamin D - Mercola",
-  "slug": "inexpensive-trick-to-cure-a-cold-vitamin-d-mercola",
-  "aliases": [
-    "/Inexpensive+Trick+to+Cure+a+Cold+-+vitamin+D+-+Mercola+Nov+2010",
-    "/1159"
-  ],
-  "tiki_page_id": 1159,
-  "date": "2010-11-22",
-  "categories": [
-    "Immunity"
-  ]
+    "title": "Inexpensive Trick to Cure a Cold - vitamin D - Mercola",
+    "slug": "inexpensive-trick-to-cure-a-cold-vitamin-d-mercola",
+    "aliases": [
+        "/Inexpensive+Trick+to+Cure+a+Cold+-+vitamin+D+-+Mercola+Nov+2010",
+        "/1159"
+    ],
+    "tiki_page_id": 1159,
+    "date": "2010-11-22",
+    "categories": [
+        "Immunity"
+    ],
+    "tags": [
+        "Immunity",
+        "asthma",
+        "breathing",
+        "child",
+        "childhood respiratory",
+        "childhood viruses",
+        "dosage",
+        "immunity",
+        "influenza",
+        "respiratory",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 
@@ -64,4 +79,3 @@ It's not surprising, then, that the average American gets so many colds each yea
 ## [CLICK HERE to use Google to search Easy Immune Health for colds](http://www.easy-immune-health.com/google-search-results.html?cx=partner-pub-3386164927794949%3Akllnihni14v&cof=FORID%3A10&ie=ISO-8859-1&q=colds&sa=Search&siteurl=www.easy-immune-health.com%2Fvitamin-d-research.html#947)
 
 ### Example [Vitamin D for Cold and Flu Symptoms Could be More Effective Than Flu Shots](http://www.easy-immune-health.com/Vitamin-D-for-Cold-and-Flu-Symptoms.html#axzz162ShRe1S)
-

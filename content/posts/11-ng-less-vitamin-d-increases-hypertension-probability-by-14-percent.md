@@ -1,15 +1,27 @@
 {
-  "title": "11 ng less vitamin D increases hypertension probability by 14 percent",
-  "slug": "11-ng-less-vitamin-d-increases-hypertension-probability-by-14-percent",
-  "aliases": [
-    "/11+ng+less+vitamin+D+increases+hypertension+probability+by+14+percent+\u2013+Nov+2010",
-    "/1152"
-  ],
-  "tiki_page_id": 1152,
-  "date": "2010-11-20",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "11 ng less vitamin D increases hypertension probability by 14 percent",
+    "slug": "11-ng-less-vitamin-d-increases-hypertension-probability-by-14-percent",
+    "aliases": [
+        "/11+ng+less+vitamin+D+increases+hypertension+probability+by+14+percent+\u2013+Nov+2010",
+        "/1152"
+    ],
+    "tiki_page_id": 1152,
+    "date": "2010-11-20",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "alcohol",
+        "blood levels",
+        "cholesterol",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "metabolic",
+        "smoking",
+        "vitamin d"
+    ]
 }
 
 
@@ -44,4 +56,3 @@ Conclusion: There was a positive association between low serum vitamin D levels 
 # See also VitaminDWiki
 
 * [All items in category Hypertension and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=101&sort_mode=created_desc)
-

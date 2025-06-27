@@ -1,15 +1,24 @@
 {
-  "title": "Less than 20 ng vitamin D increases depression by 80 percent",
-  "slug": "less-than-20-ng-vitamin-d-increases-depression-by-80-percent",
-  "aliases": [
-    "/Less+than+20+ng+vitamin+D+increases+depression+by+80+percent+\u2013+Dec+2010",
-    "/1205"
-  ],
-  "tiki_page_id": 1205,
-  "date": "2010-12-04",
-  "categories": [
-    "Depression"
-  ]
+    "title": "Less than 20 ng vitamin D increases depression by 80 percent",
+    "slug": "less-than-20-ng-vitamin-d-increases-depression-by-80-percent",
+    "aliases": [
+        "/Less+than+20+ng+vitamin+D+increases+depression+by+80+percent+\u2013+Dec+2010",
+        "/1205"
+    ],
+    "tiki_page_id": 1205,
+    "date": "2010-12-04",
+    "categories": [
+        "Depression"
+    ],
+    "tags": [
+        "Depression",
+        "blood levels",
+        "brain",
+        "cognitive",
+        "depression",
+        "mood disorders",
+        "vitamin d"
+    ]
 }
 
 
@@ -77,4 +86,4 @@ In this large population based study, likelihood of having depression in persons
 
 * [Depression 40 percent more likely if low vitamin D – Oct 2011](/posts/depression-40-percent-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2439">Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012</a>
+* [Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012](/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng)

@@ -1,15 +1,23 @@
 {
-  "title": "Story \u2013 Prevent injuries and speed healing with vitamin D",
-  "slug": "story-prevent-injuries-and-speed-healing-with-vitamin-d",
-  "aliases": [
-    "/Story+\u2013+Prevent+injuries+and+speed+healing+with+vitamin+D+\u2013+Jan+2010",
-    "/1549"
-  ],
-  "tiki_page_id": 1549,
-  "date": "2011-04-01",
-  "categories": [
-    "Sports and Vitamin D"
-  ]
+    "title": "Story \u2013 Prevent injuries and speed healing with vitamin D",
+    "slug": "story-prevent-injuries-and-speed-healing-with-vitamin-d",
+    "aliases": [
+        "/Story+\u2013+Prevent+injuries+and+speed+healing+with+vitamin+D+\u2013+Jan+2010",
+        "/1549"
+    ],
+    "tiki_page_id": 1549,
+    "date": "2011-04-01",
+    "categories": [
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "bone",
+        "bone stress fractures",
+        "dosage",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
 
 
@@ -62,4 +70,3 @@ So, instead of taking 3200 iu a day of vitamin D3 as I have been doing, I’m go
 If by next January, doing this both prevents my old Achilles tendon injury in my right leg and the previous stress fracture in my left foot from acting up as I keep doing more jumping each week, I’ll be doing a follow up post on this – as I will if it isn’t enough to prevent these problems.
 
 But, as I’ve just written, there is some real reason to believe that this will work.
-

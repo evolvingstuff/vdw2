@@ -1,16 +1,27 @@
 {
-  "title": "People with no UV for 6 months in the winter need at least 2000 IU of vitamin D",
-  "slug": "people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d",
-  "aliases": [
-    "/People+with+no+UV+for+6+months+in+the+winter+need+at+least+2000+IU+of+vitamin+D+\u2013+April+2011",
-    "/1609"
-  ],
-  "tiki_page_id": 1609,
-  "date": "2011-05-06",
-  "categories": [
-    "Vitamin D Far from equator",
-    "Shut-in"
-  ]
+    "title": "People with no UV for 6 months in the winter need at least 2000 IU of vitamin D",
+    "slug": "people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d",
+    "aliases": [
+        "/People+with+no+UV+for+6+months+in+the+winter+need+at+least+2000+IU+of+vitamin+D+\u2013+April+2011",
+        "/1609"
+    ],
+    "tiki_page_id": 1609,
+    "date": "2011-05-06",
+    "categories": [
+        "Vitamin D Far from equator",
+        "Shut-in"
+    ],
+    "tags": [
+        "EBV",
+        "Shut-in",
+        "Vitamin D Far from equator",
+        "blood levels",
+        "ultraviolet light",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

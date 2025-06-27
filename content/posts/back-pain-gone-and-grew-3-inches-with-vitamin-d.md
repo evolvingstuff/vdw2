@@ -1,16 +1,45 @@
 {
-  "title": "Back pain gone and grew 3 inches with vitamin D",
-  "slug": "back-pain-gone-and-grew-3-inches-with-vitamin-d",
-  "aliases": [
-    "/Back+pain+gone+and+grew+3+inches+with+vitamin+D+-+Dec+2010",
-    "/1199"
-  ],
-  "tiki_page_id": 1199,
-  "date": "2010-12-03",
-  "categories": [
-    "Bone - Health",
-    "Pain - chronic"
-  ]
+    "title": "Back pain gone and grew 3 inches with vitamin D",
+    "slug": "back-pain-gone-and-grew-3-inches-with-vitamin-d",
+    "aliases": [
+        "/Back+pain+gone+and+grew+3+inches+with+vitamin+D+-+Dec+2010",
+        "/1199"
+    ],
+    "tiki_page_id": 1199,
+    "date": "2010-12-03",
+    "categories": [
+        "Bone - Health",
+        "Pain - chronic"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Pain - chronic",
+        "back pain",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "cancer",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "influenza",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and viruses",
+        "metabolic",
+        "neurological",
+        "osteoporosis",
+        "pain",
+        "rickets",
+        "sleep apnea",
+        "tuberculosis",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
 }
 
 

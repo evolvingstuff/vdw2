@@ -1,23 +1,35 @@
 {
-  "title": "Quick, FREE, self-test for Vitamin D deficiency",
-  "slug": "quick-free-self-test-for-vitamin-d-deficiency",
-  "aliases": [
-    "/Quick+FREE+self-test+for+Vitamin+D+deficiency",
-    "/2095"
-  ],
-  "tiki_page_id": 2095,
-  "date": "2011-10-17",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Tests for Vitamin D",
-    "Osteoporosis",
-    "Predict Vitamin D"
-  ]
+    "title": "Quick, FREE, self-test for Vitamin D deficiency",
+    "slug": "quick-free-self-test-for-vitamin-d-deficiency",
+    "aliases": [
+        "/Quick+FREE+self-test+for+Vitamin+D+deficiency",
+        "/2095"
+    ],
+    "tiki_page_id": 2095,
+    "date": "2011-10-17",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Tests for Vitamin D",
+        "Osteoporosis",
+        "Predict Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Osteoporosis",
+        "Predict Vitamin D",
+        "Tests for Vitamin D",
+        "blood levels",
+        "dosage",
+        "headache",
+        "high dose",
+        "pain",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
-
- **You basically want to see if 2 of 3 of your bones are tender when pressed** 
+**You basically want to see if 2 of 3 of your bones are tender when pressed** 
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/sternum.jpg" alt="image"> <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/tibia.jpg" alt="image">
 
@@ -132,7 +144,7 @@ Conclusions: Anterior tibial tenderness is a valid clinical diagnostic tool for 
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/tibial-tenderness.pdf">Download the PDF from VitaminDWiki.</a>** 
 
-* in VitaminDWiki <a href="/posts/vitamin-d-injections-of-a-total-of-1800000-iu-reduced-shinbone-tenderness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013">Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013</a>
+* in VitaminDWiki [Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013](/posts/vitamin-d-injections-of-a-total-of-1800000-iu-reduced-shinbone-tenderness)
 
 ---
 

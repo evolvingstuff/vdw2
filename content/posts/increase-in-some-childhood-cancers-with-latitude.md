@@ -1,16 +1,22 @@
 {
-  "title": "Increase in some childhood cancers with latitude",
-  "slug": "increase-in-some-childhood-cancers-with-latitude",
-  "aliases": [
-    "/Increase+in+some+childhood+cancers+with+latitude+\u2013+Nov+2010",
-    "/1173"
-  ],
-  "tiki_page_id": 1173,
-  "date": "2010-11-26",
-  "categories": [
-    "Cancer",
-    "Youth"
-  ]
+    "title": "Increase in some childhood cancers with latitude",
+    "slug": "increase-in-some-childhood-cancers-with-latitude",
+    "aliases": [
+        "/Increase+in+some+childhood+cancers+with+latitude+\u2013+Nov+2010",
+        "/1173"
+    ],
+    "tiki_page_id": 1173,
+    "date": "2010-11-26",
+    "categories": [
+        "Cancer",
+        "Youth"
+    ],
+    "tags": [
+        "Cancer",
+        "Youth",
+        "cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -28,5 +34,4 @@ Methods:We carried out an ecological study using childhood cancer registry data 
 
 Results:Latitude and radiation were significantly associated with cancer incidence, and the direction of association was consistent between the surrogates. Findings were not consistent across tumour types.
 
-Conclusion:Our ecological study offers some evidence to support an association between sunlight exposure and risk of childhood cancer.British Journal of Cancer advance online publication, 23 November 2010; doi:10.1038/sj.bjc.6606015 www.bjcancer.com. PMID: 21102587 
-
+Conclusion:Our ecological study offers some evidence to support an association between sunlight exposure and risk of childhood cancer.British Journal of Cancer advance online publication, 23 November 2010; doi:10.1038/sj.bjc.6606015 www.bjcancer.com. PMID: 21102587

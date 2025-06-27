@@ -1,15 +1,22 @@
 {
-  "title": "Circadian rhythm affects skin cancer risk in mice",
-  "slug": "circadian-rhythm-affects-skin-cancer-risk-in-mice",
-  "aliases": [
-    "/Circadian+rhythm+affects+skin+cancer+risk+in+mice+-+Oct+2011",
-    "/2116"
-  ],
-  "tiki_page_id": 2116,
-  "date": "2011-10-24",
-  "categories": [
-    "Cancer - Skin"
-  ]
+    "title": "Circadian rhythm affects skin cancer risk in mice",
+    "slug": "circadian-rhythm-affects-skin-cancer-risk-in-mice",
+    "aliases": [
+        "/Circadian+rhythm+affects+skin+cancer+risk+in+mice+-+Oct+2011",
+        "/2116"
+    ],
+    "tiki_page_id": 2116,
+    "date": "2011-10-24",
+    "categories": [
+        "Cancer - Skin"
+    ],
+    "tags": [
+        "Cancer - Skin",
+        "cancer",
+        "melanoma",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -36,4 +43,3 @@ It might be that humans would get 2X to 4X less skin cancer at certain times of 
 # See also VitaminDWiki
 
 * <a href="/posts/overview-of-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview of Melanoma and Vitamin D</a> in humans
-

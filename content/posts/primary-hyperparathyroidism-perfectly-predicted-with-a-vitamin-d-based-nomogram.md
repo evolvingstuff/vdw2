@@ -1,15 +1,19 @@
 {
-  "title": "Primary Hyperparathyroidism perfectly predicted with a Vitamin D-Based nomogram",
-  "slug": "primary-hyperparathyroidism-perfectly-predicted-with-a-vitamin-d-based-nomogram",
-  "aliases": [
-    "/Primary+Hyperparathyroidism+perfectly+predicted+with+a+Vitamin+D-Based+nomogram+\u2013+Nov+2011",
-    "/2167"
-  ],
-  "tiki_page_id": 2167,
-  "date": "2011-11-10",
-  "categories": [
-    "Thyroid and parathyroid"
-  ]
+    "title": "Primary Hyperparathyroidism perfectly predicted with a Vitamin D-Based nomogram",
+    "slug": "primary-hyperparathyroidism-perfectly-predicted-with-a-vitamin-d-based-nomogram",
+    "aliases": [
+        "/Primary+Hyperparathyroidism+perfectly+predicted+with+a+Vitamin+D-Based+nomogram+\u2013+Nov+2011",
+        "/2167"
+    ],
+    "tiki_page_id": 2167,
+    "date": "2011-11-10",
+    "categories": [
+        "Thyroid and parathyroid"
+    ],
+    "tags": [
+        "Thyroid and parathyroid",
+        "vitamin d"
+    ]
 }
 
 
@@ -51,4 +55,4 @@ When applied to our surgical group, this nomogram successfully identified
 
 Conclusion: This study uniquely defines a patient-specific normal limit of PTH based on readily available parameters of calcium, 25-hydroxy vitamin D and age. Our nomogram may allow for more rapid definitive diagnosis and treatment of 1?HPT in patients with atypical presentations.
 
-PMID: 22068245  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/a-new-vitamin-d-based-multidimensional-nomogram-fo.pdf">Download the PDF from ResearchGate via VitaminDWiki</a>** 
+PMID: 22068245  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/a-new-vitamin-d-based-multidimensional-nomogram-fo.pdf">Download the PDF from ResearchGate via VitaminDWiki</a>**

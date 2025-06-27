@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Genes and different vitamin D related substances in the skin</title>
+<link rel=stylesheet href="/css/main.css?v=1751038173"><link rel=stylesheet href="/css/pagination.css?v=1751038173"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038173"></script><script src="/js/search.js?v=1751038173"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Genes and different vitamin D related substances in the skin</h1><time>April 8, 2013</time><div data-pagefind-body><h1 id=novel-vitamin-d-photoproducts-and-their-precursors-in-the-skin>Novel vitamin D photoproducts and their precursors in the skin</h1><p>Dermato Endencronology Volume 5, Issue 1 January/February/March 2013</p><p><a href=http://dx.doi.org/10.4161/derm.23938>http://dx.doi.org/10.4161/derm.23938</a></p><p>Keywords: 5,7-dienes, dermal fibroblasts, keratinocytes, melanocytes, melanoma cells, skin, vitamin D</p><p>Authors: Andrzej T. Slominski, Tae-Kang Kim, Michal A. Zmijewski, Zorica Janjetovic, Wei Li, Jianjun Chen, Ekaterina I. Kusniatsova, Igor Semak, Arnold Postlethwaite, Duane D. Miller, Jordan K. Zjawiony and Robert C. Tuckey</p><p>Novel metabolic pathways initiated by the enzymatic action of CYP11A1 on 7DHC (7-dehydrocholesterol), ergosterol, vitamins D3 and D2 were characterized with help of chemical synthesis, UV and mass spectrometry and NMR analyses.</p><p>The first pathway follows the sequence</p><ol><li><p>7DHC</p></li><li><p>22(OH)7DHC</p></li><li><p>20,22(OH)27DHC</p></li><li><p>7DHP (7-dehydropregnenolone),</p></li></ol><p>which can further be metabolized by steroidogenic enzymes. The resulting 5,7-dienes can be transformed by UVB to corresponding, biologically active, secosteroids.</p><p>Action of CYP11A1 on vitamin D3 and D2 produces novel hydroxyderivatives with OH added at positions C17, C20, C22, C23 and C24, some of which can be hydroxylated by CYP27B1 and/or by CYP27A1 and/ or by CYP24A1.</p><p>The main products of these pathways, are biologically active with a potency related to their chemical structure and the target cell type.</p><p>Main products of CYP11A1-mediated metabolism on vitamin D are non-calcemic and non-toxic at relatively high doses and serve as partial agonists on the vitamin D receptor.</p><p>New secosteroids are excellent candidates for therapy of fibrosing, inflammatory or hyperproliferative disorders including cancers and psoriasis.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>CYPA</span>
+<span class=tag>CYPR</span>
+<span class=tag>dermatology</span>
+<span class=tag>genetics</span>
+<span class=tag>Genetics</span>
+<span class=tag>high dose</span>
+<span class=tag>melanoma</span>
+<span class=tag>psoriasis</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>cancer, cancer in VDR, CYPA, CYPR, dermatology, genetics, Genetics, high dose, melanoma, psoriasis, therapeutic intervention, vitamin d, vitamin d receptor</div></article></div></div><script src="/js/lightspa.js?v=1751038173"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038173",indexUrl:"/search/search_index.json.gz?v=1751038173"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038173"></script><script src="/js/tiki-redirects.js?v=1751038173"></script></body></html>

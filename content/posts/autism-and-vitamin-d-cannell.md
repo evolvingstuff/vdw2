@@ -1,15 +1,45 @@
 {
-  "title": "Autism and vitamin D - Cannell",
-  "slug": "autism-and-vitamin-d-cannell",
-  "aliases": [
-    "/Autism+and+vitamin+D+-+Cannell+May+2011",
-    "/1651"
-  ],
-  "tiki_page_id": 1651,
-  "date": "2011-05-23",
-  "categories": [
-    "Autism"
-  ]
+    "title": "Autism and vitamin D - Cannell",
+    "slug": "autism-and-vitamin-d-cannell",
+    "aliases": [
+        "/Autism+and+vitamin+D+-+Cannell+May+2011",
+        "/1651"
+    ],
+    "tiki_page_id": 1651,
+    "date": "2011-05-23",
+    "categories": [
+        "Autism"
+    ],
+    "tags": [
+        "Autism",
+        "antibiotics",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "brain",
+        "child",
+        "childhood viruses",
+        "cognitive",
+        "dosage",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "pediatric autoimmune",
+        "pregnancy",
+        "therapeutic intervention",
+        "virus",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin k",
+        "vitamin k and viruses",
+        "zinc",
+        "zinc and viruses"
+    ]
 }
 
 
@@ -79,8 +109,8 @@ Sincerely,  John Cannell
 
 # See also VitaminDWiki
 
-* <a href="/posts/no-noticeable-decrease-in-autism-in-child-with-high-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3004">No noticeable decrease in Autism in child with high level of vitamin D – July 2012</a>
+* [No noticeable decrease in Autism in child with high level of vitamin D – July 2012](/posts/no-noticeable-decrease-in-autism-in-child-with-high-level-of-vitamin-d)
 
 * <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview Autism and vitamin D</a> which includes the following graph
 
-<img src="/attachments/d3.mock.jpg" alt="image"> 
+<img src="/attachments/d3.mock.jpg" alt="image">

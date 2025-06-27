@@ -1,15 +1,25 @@
 {
-  "title": "ICU needs vitamin D - Vitamin D Council",
-  "slug": "icu-needs-vitamin-d-vitamin-d-council",
-  "aliases": [
-    "/ICU+needs+vitamin+D+-+Vitamin+D+Council+Sept+2011",
-    "/2057"
-  ],
-  "tiki_page_id": 2057,
-  "date": "2011-10-01",
-  "categories": [
-    "Trauma and surgery"
-  ]
+    "title": "ICU needs vitamin D - Vitamin D Council",
+    "slug": "icu-needs-vitamin-d-vitamin-d-council",
+    "aliases": [
+        "/ICU+needs+vitamin+D+-+Vitamin+D+Council+Sept+2011",
+        "/2057"
+    ],
+    "tiki_page_id": 2057,
+    "date": "2011-10-01",
+    "categories": [
+        "Trauma and surgery"
+    ],
+    "tags": [
+        "Trauma and surgery",
+        "diabetes",
+        "dosage",
+        "immunity",
+        "metabolic",
+        "sepsis",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 

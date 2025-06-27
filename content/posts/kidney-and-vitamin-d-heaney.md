@@ -1,15 +1,27 @@
 {
-  "title": "Kidney and Vitamin D \u2013 Heaney",
-  "slug": "kidney-and-vitamin-d-heaney",
-  "aliases": [
-    "/Kidney+and+Vitamin+D+\u2013+Heaney+Jan+2011",
-    "/1322"
-  ],
-  "tiki_page_id": 1322,
-  "date": "2011-01-18",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Kidney and Vitamin D \u2013 Heaney",
+    "slug": "kidney-and-vitamin-d-heaney",
+    "aliases": [
+        "/Kidney+and+Vitamin+D+\u2013+Heaney+Jan+2011",
+        "/1322"
+    ],
+    "tiki_page_id": 1322,
+    "date": "2011-01-18",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "CKD",
+        "Kidney",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "kidney",
+        "life span",
+        "mortality",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -36,4 +48,3 @@ Copyright Â© 2011 National Kidney Foundation, Inc. Published by Elsevier Inc. 
 * [Chronic Kidney disease and vitamin D deficiency – Jan 2011](/posts/chronic-kidney-disease-and-vitamin-d-deficiency)
 
 * [All Kidney and vitamin D items](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&deep=off&type=)
-

@@ -1,18 +1,34 @@
 {
-  "title": "Concealing clothing resulted in only 8 ng vitamin D",
-  "slug": "concealing-clothing-resulted-in-only-8-ng-vitamin-d",
-  "aliases": [
-    "/Concealing+clothing+resulted+in+only+8+ng+vitamin+D+\u2013+Feb+2011",
-    "/1441"
-  ],
-  "tiki_page_id": 1441,
-  "date": "2011-02-26",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Noontime sun and D",
-    "Middle East",
-    "High Risk"
-  ]
+    "title": "Concealing clothing resulted in only 8 ng vitamin D",
+    "slug": "concealing-clothing-resulted-in-only-8-ng-vitamin-d",
+    "aliases": [
+        "/Concealing+clothing+resulted+in+only+8+ng+vitamin+D+\u2013+Feb+2011",
+        "/1441"
+    ],
+    "tiki_page_id": 1441,
+    "date": "2011-02-26",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Noontime sun and D",
+        "Middle East",
+        "High Risk"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "High Risk",
+        "Middle East",
+        "Noontime sun and D",
+        "blood levels",
+        "breast cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "diabetes",
+        "metabolic",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -52,11 +68,11 @@ Average vitamin D with concealing clothing = 8 ng, vs 16 ng
 
 * [Hypovitaminosis D in developing countries—prevalence, risk factors ...](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1524) PDF
 
-* <a href="/posts/if-heavily-clothed-very-little-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3539">If heavily clothed, very little vitamin D – Dec 2012</a>
+* [If heavily clothed, very little vitamin D – Dec 2012](/posts/if-heavily-clothed-very-little-vitamin-d)
 
 * <a href="/posts/breast-cancer-patients-wearing-concealing-clothing-were-13x-more-likely-to-be-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer patients wearing concealing clothing were 13X more likely to be vitamin D deficient – March 2014">Breast Cancer patients wearing concealing clothing were 13X more likely to be vitamin D deficient – March 2014</a>
 
-* <a href="/posts/concealing-clothing-in-canada-half-the-level-of-vitamin-d-in-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012">Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012</a>
+* [Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012](/posts/concealing-clothing-in-canada-half-the-level-of-vitamin-d-in-blood)
 
 * <a href="/posts/vps-healthcare-in-abu-dhabi-invested-million-dollars-in-vitamin-d-research" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VPS Healthcare in Abu Dhabi invested million dollars in Vitamin D research - Sept 2014">VPS Healthcare in Abu Dhabi invested million dollars in Vitamin D research - Sept 2014</a> has the following chart
 

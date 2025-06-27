@@ -1,16 +1,63 @@
 {
-  "title": "National Institute of Health - Strength of Vitamin D Evidence",
-  "slug": "national-institute-of-health-strength-of-vitamin-d-evidence",
-  "aliases": [
-    "/National+Institute+of+Health+-+Strength+of+Vitamin+D+Evidence",
-    "/2009"
-  ],
-  "tiki_page_id": 2009,
-  "date": "2011-09-17",
-  "categories": [
-    "Evidence for D",
-    "Intervention"
-  ]
+    "title": "National Institute of Health - Strength of Vitamin D Evidence",
+    "slug": "national-institute-of-health-strength-of-vitamin-d-evidence",
+    "aliases": [
+        "/National+Institute+of+Health+-+Strength+of+Vitamin+D+Evidence",
+        "/2009"
+    ],
+    "tiki_page_id": 2009,
+    "date": "2011-09-17",
+    "categories": [
+        "Evidence for D",
+        "Intervention"
+    ],
+    "tags": [
+        "Evidence for D",
+        "Intervention",
+        "asthma",
+        "autoimmune",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "cholesterol",
+        "colon cancer",
+        "dermatology",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "heart failure",
+        "high dose",
+        "hypertension",
+        "influenza",
+        "intervention",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "multiple sclerosis",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "psoriasis",
+        "rheumatoid arthritis",
+        "rickets",
+        "statins",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "virus",
+        "virus and cardiovascular",
+        "vitamin d",
+        "vitamin d and viruses",
+        "weight loss"
+    ]
 }
 
 

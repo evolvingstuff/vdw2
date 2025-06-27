@@ -1,17 +1,25 @@
 {
-  "title": "Less UV means 2X more Breast Cancer",
-  "slug": "less-uv-means-2x-more-breast-cancer",
-  "aliases": [
-    "/Less+UV+means+2X+more+Breast+Cancer+\u2013+June+2011",
-    "/1722"
-  ],
-  "tiki_page_id": 1722,
-  "date": "2011-06-11",
-  "categories": [
-    "Noontime sun and D",
-    "UV and Vitamin D",
-    "Cancer - Breast"
-  ]
+    "title": "Less UV means 2X more Breast Cancer",
+    "slug": "less-uv-means-2x-more-breast-cancer",
+    "aliases": [
+        "/Less+UV+means+2X+more+Breast+Cancer+\u2013+June+2011",
+        "/1722"
+    ],
+    "tiki_page_id": 1722,
+    "date": "2011-06-11",
+    "categories": [
+        "Noontime sun and D",
+        "UV and Vitamin D",
+        "Cancer - Breast"
+    ],
+    "tags": [
+        "Cancer - Breast",
+        "Noontime sun and D",
+        "UV and Vitamin D",
+        "breast cancer",
+        "cancer",
+        "vitamin d"
+    ]
 }
 
 

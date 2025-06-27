@@ -1,18 +1,31 @@
 {
-  "title": "Graphs of diseases vs vitamin D levels - and D3 vs D2",
-  "slug": "graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2",
-  "aliases": [
-    "/Graphs+of+diseases+vs+vitamin+D+levels+-+and+D3+vs+D2-+April+2011",
-    "/2012"
-  ],
-  "tiki_page_id": 2012,
-  "date": "2011-09-18",
-  "categories": [
-    "Skin - Dark",
-    "Vitamin D3 instead of D2",
-    "Vitamin D Far from equator",
-    "Overview for doctors"
-  ]
+    "title": "Graphs of diseases vs vitamin D levels - and D3 vs D2",
+    "slug": "graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2",
+    "aliases": [
+        "/Graphs+of+diseases+vs+vitamin+D+levels+-+and+D3+vs+D2-+April+2011",
+        "/2012"
+    ],
+    "tiki_page_id": 2012,
+    "date": "2011-09-18",
+    "categories": [
+        "Skin - Dark",
+        "Vitamin D3 instead of D2",
+        "Vitamin D Far from equator",
+        "Overview for doctors"
+    ],
+    "tags": [
+        "Overview for doctors",
+        "Skin - Dark",
+        "Vitamin D Far from equator",
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "dosage",
+        "hepatitis b",
+        "liver",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

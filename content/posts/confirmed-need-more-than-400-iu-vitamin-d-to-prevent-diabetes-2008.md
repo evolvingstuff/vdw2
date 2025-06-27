@@ -1,15 +1,28 @@
 {
-  "title": "Confirmed - need more than 400 IU vitamin D to prevent diabetes \u2013 2008",
-  "slug": "confirmed-need-more-than-400-iu-vitamin-d-to-prevent-diabetes-2008",
-  "aliases": [
-    "/Confirmed+-+need+more+than+400+IU+vitamin+D+to+prevent+diabetes+\u2013+2008",
-    "/1449"
-  ],
-  "tiki_page_id": 1449,
-  "date": "2011-03-02",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Confirmed - need more than 400 IU vitamin D to prevent diabetes \u2013 2008",
+    "slug": "confirmed-need-more-than-400-iu-vitamin-d-to-prevent-diabetes-2008",
+    "aliases": [
+        "/Confirmed+-+need+more+than+400+IU+vitamin+D+to+prevent+diabetes+\u2013+2008",
+        "/1449"
+    ],
+    "tiki_page_id": 1449,
+    "date": "2011-03-02",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "autoimmune",
+        "cancer",
+        "diabetes",
+        "dosage",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -66,4 +79,3 @@ Calcium plus vitamin D3 supplementation did not reduce the risk of developing di
 # Usually need >2,000 IU to prevent diabetes
 
 ## <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
-

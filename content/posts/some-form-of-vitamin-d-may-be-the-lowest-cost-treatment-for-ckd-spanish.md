@@ -1,17 +1,48 @@
 {
-  "title": "Some form of vitamin D may be the lowest cost treatment for CKD \u2013 Spanish",
-  "slug": "some-form-of-vitamin-d-may-be-the-lowest-cost-treatment-for-ckd-spanish",
-  "aliases": [
-    "/Some+form+of+vitamin+D+may+be+the+lowest+cost+treatment+for+CKD+\u2013+Spanish+Sept+2011",
-    "/2059"
-  ],
-  "tiki_page_id": 2059,
-  "date": "2011-10-02",
-  "categories": [
-    "Kidney",
-    "Treatment by Vitamin D",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "Some form of vitamin D may be the lowest cost treatment for CKD \u2013 Spanish",
+    "slug": "some-form-of-vitamin-d-may-be-the-lowest-cost-treatment-for-ckd-spanish",
+    "aliases": [
+        "/Some+form+of+vitamin+D+may+be+the+lowest+cost+treatment+for+CKD+\u2013+Spanish+Sept+2011",
+        "/2059"
+    ],
+    "tiki_page_id": 2059,
+    "date": "2011-10-02",
+    "categories": [
+        "Kidney",
+        "Treatment by Vitamin D",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "CKD",
+        "CYPB",
+        "CYPR",
+        "Cost savings with Vitamin D",
+        "Kidney",
+        "Treatment by Vitamin D",
+        "blood levels",
+        "cancer",
+        "cancer in VDR",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dialysis",
+        "genetics",
+        "hemodialysis",
+        "hypertension",
+        "kidney",
+        "life span",
+        "metabolic",
+        "mortality",
+        "placenta",
+        "pregnancy",
+        "psoriasis",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
 
 

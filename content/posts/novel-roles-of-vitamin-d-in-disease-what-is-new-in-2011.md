@@ -1,13 +1,30 @@
 {
-  "title": "Novel roles of vitamin D in disease: What is new in 2011",
-  "slug": "novel-roles-of-vitamin-d-in-disease-what-is-new-in-2011",
-  "aliases": [
-    "/Novel+roles+of+vitamin+D+in+disease+What+is+new+in+2011",
-    "/1893"
-  ],
-  "tiki_page_id": 1893,
-  "date": "2011-08-04"
+    "title": "Novel roles of vitamin D in disease: What is new in 2011",
+    "slug": "novel-roles-of-vitamin-d-in-disease-what-is-new-in-2011",
+    "aliases": [
+        "/Novel+roles+of+vitamin+D+in+disease+What+is+new+in+2011",
+        "/1893"
+    ],
+    "tiki_page_id": 1893,
+    "date": "2011-08-04",
+    "tags": [
+        "cancer",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "heart failure",
+        "hypertension",
+        "immunity",
+        "life span",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mortality",
+        "stroke",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -48,4 +65,3 @@ PMID:     21767752
 12. Vitamin D and cancer
 
 13. Viamin D supplementation and safety issues
-

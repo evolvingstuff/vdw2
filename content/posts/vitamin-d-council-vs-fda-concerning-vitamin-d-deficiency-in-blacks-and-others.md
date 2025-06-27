@@ -1,16 +1,53 @@
 {
-  "title": "Vitamin D Council vs FDA concerning vitamin D deficiency in blacks and others",
-  "slug": "vitamin-d-council-vs-fda-concerning-vitamin-d-deficiency-in-blacks-and-others",
-  "aliases": [
-    "/Vitamin+D+Council+vs+FDA+concerning+vitamin+D+deficiency+in+blacks+and+others+-+June+2011",
-    "/1772"
-  ],
-  "tiki_page_id": 1772,
-  "date": "2011-06-29",
-  "categories": [
-    "Skin - Dark",
-    "Deficiency of Vitamin D"
-  ]
+    "title": "Vitamin D Council vs FDA concerning vitamin D deficiency in blacks and others",
+    "slug": "vitamin-d-council-vs-fda-concerning-vitamin-d-deficiency-in-blacks-and-others",
+    "aliases": [
+        "/Vitamin+D+Council+vs+FDA+concerning+vitamin+D+deficiency+in+blacks+and+others+-+June+2011",
+        "/1772"
+    ],
+    "tiki_page_id": 1772,
+    "date": "2011-06-29",
+    "categories": [
+        "Skin - Dark",
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "CKD",
+        "Deficiency of Vitamin D",
+        "Skin - Dark",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bone",
+        "bone cancer",
+        "brain",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "cognitive",
+        "diabetes",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "kidney",
+        "life span",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "rickets",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "ultraviolet light",
+        "virus",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

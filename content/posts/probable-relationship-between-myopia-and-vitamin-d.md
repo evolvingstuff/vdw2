@@ -1,15 +1,24 @@
 {
-  "title": "Probable relationship between myopia and vitamin D",
-  "slug": "probable-relationship-between-myopia-and-vitamin-d",
-  "aliases": [
-    "/Probable+relationship+between+myopia+and+vitamin+D+\u2013+Feb+2011",
-    "/1544"
-  ],
-  "tiki_page_id": 1544,
-  "date": "2011-04-01",
-  "categories": [
-    "Vision"
-  ]
+    "title": "Probable relationship between myopia and vitamin D",
+    "slug": "probable-relationship-between-myopia-and-vitamin-d",
+    "aliases": [
+        "/Probable+relationship+between+myopia+and+vitamin+D+\u2013+Feb+2011",
+        "/1544"
+    ],
+    "tiki_page_id": 1544,
+    "date": "2011-04-01",
+    "categories": [
+        "Vision"
+    ],
+    "tags": [
+        "Vision",
+        "genetics",
+        "myopia",
+        "vision",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d receptor"
+    ]
 }
 
 

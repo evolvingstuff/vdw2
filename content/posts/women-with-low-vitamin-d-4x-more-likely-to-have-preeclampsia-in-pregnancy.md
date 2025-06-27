@@ -1,16 +1,25 @@
 {
-  "title": "Women with low vitamin D 4X more likely to have preeclampsia in pregnancy",
-  "slug": "women-with-low-vitamin-d-4x-more-likely-to-have-preeclampsia-in-pregnancy",
-  "aliases": [
-    "/Women+with+low+vitamin+D+4X+more+likely+to+have+preeclampsia+in+pregnancy+\u2013+Nov+2010",
-    "/1115"
-  ],
-  "tiki_page_id": 1115,
-  "date": "2010-11-05",
-  "categories": [
-    "Pregnancy",
-    "Hypertension"
-  ]
+    "title": "Women with low vitamin D 4X more likely to have preeclampsia in pregnancy",
+    "slug": "women-with-low-vitamin-d-4x-more-likely-to-have-preeclampsia-in-pregnancy",
+    "aliases": [
+        "/Women+with+low+vitamin+D+4X+more+likely+to+have+preeclampsia+in+pregnancy+\u2013+Nov+2010",
+        "/1115"
+    ],
+    "tiki_page_id": 1115,
+    "date": "2010-11-05",
+    "categories": [
+        "Pregnancy",
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "Pregnancy",
+        "blood levels",
+        "preeclampsia",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

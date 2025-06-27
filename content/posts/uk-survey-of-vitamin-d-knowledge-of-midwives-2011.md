@@ -1,16 +1,23 @@
 {
-  "title": "UK survey of vitamin D knowledge of midwives - 2011",
-  "slug": "uk-survey-of-vitamin-d-knowledge-of-midwives-2011",
-  "aliases": [
-    "/UK+survey+of+vitamin+D+knowledge+of+midwives+-+2011",
-    "/1865"
-  ],
-  "tiki_page_id": 1865,
-  "date": "2011-07-26",
-  "categories": [
-    "Pregnancy",
-    "Vitamin D in Europe"
-  ]
+    "title": "UK survey of vitamin D knowledge of midwives - 2011",
+    "slug": "uk-survey-of-vitamin-d-knowledge-of-midwives-2011",
+    "aliases": [
+        "/UK+survey+of+vitamin+D+knowledge+of+midwives+-+2011",
+        "/1865"
+    ],
+    "tiki_page_id": 1865,
+    "date": "2011-07-26",
+    "categories": [
+        "Pregnancy",
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Pregnancy",
+        "Vitamin D in Europe",
+        "health risk",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 

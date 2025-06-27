@@ -1,15 +1,35 @@
 {
-  "title": "Vitamin D supplementation eliminated nappiness and pain for one woman",
-  "slug": "vitamin-d-supplementation-eliminated-nappiness-and-pain-for-one-woman",
-  "aliases": [
-    "/Vitamin+D+supplementation+eliminated+nappiness+and+pain+for+one+woman+\u2013+Jan+2011",
-    "/1289"
-  ],
-  "tiki_page_id": 1289,
-  "date": "2011-01-06",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "Vitamin D supplementation eliminated nappiness and pain for one woman",
+    "slug": "vitamin-d-supplementation-eliminated-nappiness-and-pain-for-one-woman",
+    "aliases": [
+        "/Vitamin+D+supplementation+eliminated+nappiness+and+pain+for+one+woman+\u2013+Jan+2011",
+        "/1289"
+    ],
+    "tiki_page_id": 1289,
+    "date": "2011-01-06",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "autoimmune",
+        "back pain",
+        "blood levels",
+        "cancer",
+        "chronic pain",
+        "depression",
+        "dosage",
+        "health risk",
+        "high dose",
+        "intervention",
+        "mood disorders",
+        "obesity",
+        "obesity and cancer",
+        "pain",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

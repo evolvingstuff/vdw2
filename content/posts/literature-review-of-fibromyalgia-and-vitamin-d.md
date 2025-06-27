@@ -1,15 +1,26 @@
 {
-  "title": "Literature review of Fibromyalgia and vitamin D",
-  "slug": "literature-review-of-fibromyalgia-and-vitamin-d",
-  "aliases": [
-    "/Literature+review+of+Fibromyalgia+and+vitamin+D+\u2013+Sept+2011",
-    "/2004"
-  ],
-  "tiki_page_id": 2004,
-  "date": "2011-09-16",
-  "categories": [
-    "Pain - chronic"
-  ]
+    "title": "Literature review of Fibromyalgia and vitamin D",
+    "slug": "literature-review-of-fibromyalgia-and-vitamin-d",
+    "aliases": [
+        "/Literature+review+of+Fibromyalgia+and+vitamin+D+\u2013+Sept+2011",
+        "/2004"
+    ],
+    "tiki_page_id": 2004,
+    "date": "2011-09-16",
+    "categories": [
+        "Pain - chronic"
+    ],
+    "tags": [
+        "Pain - chronic",
+        "bone",
+        "chronic fatigue",
+        "chronic pain",
+        "magnesium",
+        "neurological",
+        "osteoporosis",
+        "pain",
+        "vitamin d"
+    ]
 }
 
 

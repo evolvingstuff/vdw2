@@ -1,16 +1,24 @@
 {
-  "title": "Diabetes down 13 percent if more than 500 IU of vitamin D \u2013 meta-analysis",
-  "slug": "diabetes-down-13-percent-if-more-than-500-iu-of-vitamin-d-meta-analysis",
-  "aliases": [
-    "/Diabetes+down+13+percent+if+more+than+500+IU+of+vitamin+D+\u2013+meta-analysis+July+2011",
-    "/1831"
-  ],
-  "tiki_page_id": 1831,
-  "date": "2011-07-14",
-  "categories": [
-    "Diabetes",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Diabetes down 13 percent if more than 500 IU of vitamin D \u2013 meta-analysis",
+    "slug": "diabetes-down-13-percent-if-more-than-500-iu-of-vitamin-d-meta-analysis",
+    "aliases": [
+        "/Diabetes+down+13+percent+if+more+than+500+IU+of+vitamin+D+\u2013+meta-analysis+July+2011",
+        "/1831"
+    ],
+    "tiki_page_id": 1831,
+    "date": "2011-07-14",
+    "categories": [
+        "Diabetes",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "Diabetes",
+        "Meta-analysis of Vitamin D",
+        "diabetes",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

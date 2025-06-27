@@ -1,16 +1,26 @@
 {
-  "title": "Half of Quebec kids had less than 20 ng of vitamin D \u2013 Milk and movement did not help",
-  "slug": "half-of-quebec-kids-had-less-than-20-ng-of-vitamin-d-milk-and-movement-did-not-help",
-  "aliases": [
-    "/Half+of+Quebec+kids+had+less+than+20+ng+of+vitamin+D+\u2013+Milk+and+movement+did+not+help+\u2013+Mar+2011",
-    "/1452"
-  ],
-  "tiki_page_id": 1452,
-  "date": "2011-03-03",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Vitamin D in Canada"
-  ]
+    "title": "Half of Quebec kids had less than 20 ng of vitamin D \u2013 Milk and movement did not help",
+    "slug": "half-of-quebec-kids-had-less-than-20-ng-of-vitamin-d-milk-and-movement-did-not-help",
+    "aliases": [
+        "/Half+of+Quebec+kids+had+less+than+20+ng+of+vitamin+D+\u2013+Milk+and+movement+did+not+help+\u2013+Mar+2011",
+        "/1452"
+    ],
+    "tiki_page_id": 1452,
+    "date": "2011-03-03",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Vitamin D in Canada"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Vitamin D in Canada",
+        "child",
+        "childhood obesity",
+        "health risk",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -47,4 +57,3 @@ European Journal of Clinical Nutrition advance online publication, 2 March 2011;
 # See also VitaminDWiki
 
 * <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
-

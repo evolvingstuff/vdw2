@@ -1,16 +1,27 @@
 {
-  "title": "Vitamin D deficiency in HIV-infected and un-infected women in the US",
-  "slug": "vitamin-d-deficiency-in-hiv-infected-and-un-infected-women-in-the-us",
-  "aliases": [
-    "/Vitamin+D+deficiency+in+HIV-infected+and+un-infected+women+in+the+US+\u2013+April+2011",
-    "/1571"
-  ],
-  "tiki_page_id": 1571,
-  "date": "2011-04-08",
-  "categories": [
-    "HIV"
-  ]
+    "title": "Vitamin D deficiency in HIV-infected and un-infected women in the US",
+    "slug": "vitamin-d-deficiency-in-hiv-infected-and-un-infected-women-in-the-us",
+    "aliases": [
+        "/Vitamin+D+deficiency+in+HIV-infected+and+un-infected+women+in+the+US+\u2013+April+2011",
+        "/1571"
+    ],
+    "tiki_page_id": 1571,
+    "date": "2011-04-08",
+    "categories": [
+        "HIV"
+    ],
+    "tags": [
+        "HIV",
+        "autoimmune",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
+
 
 J Acquir Immune Defic Syndr. 2011 Apr 5. 
 
@@ -37,4 +48,3 @@ PMID: 21471818
 * <a href="/posts/hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1078">HIV and vitamin D</a>
 
 * [AIDS and vitamin D Hypothesis](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1018) 2009 file
-

@@ -1,16 +1,23 @@
 {
-  "title": "80 percent of vitamin D from sun rather than from food",
-  "slug": "80-percent-of-vitamin-d-from-sun-rather-than-from-food",
-  "aliases": [
-    "/80+percent+of+vitamin+D+from+sun+rather+than+from+food+\u2013+Nov+2010",
-    "/1150"
-  ],
-  "tiki_page_id": 1150,
-  "date": "2010-11-19",
-  "categories": [
-    "Food sources for Vitamin D",
-    "Noontime sun and D"
-  ]
+    "title": "80 percent of vitamin D from sun rather than from food",
+    "slug": "80-percent-of-vitamin-d-from-sun-rather-than-from-food",
+    "aliases": [
+        "/80+percent+of+vitamin+D+from+sun+rather+than+from+food+\u2013+Nov+2010",
+        "/1150"
+    ],
+    "tiki_page_id": 1150,
+    "date": "2010-11-19",
+    "categories": [
+        "Food sources for Vitamin D",
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "Noontime sun and D",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

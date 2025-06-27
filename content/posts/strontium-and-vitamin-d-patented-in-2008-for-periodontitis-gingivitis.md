@@ -1,15 +1,21 @@
 {
-  "title": "Strontium and vitamin D patented in 2008 for periodontitis, gingivitis",
-  "slug": "strontium-and-vitamin-d-patented-in-2008-for-periodontitis-gingivitis",
-  "aliases": [
-    "/Strontium+and+vitamin+D+patented+in+2008+for+periodontitis+gingivitis",
-    "/1794"
-  ],
-  "tiki_page_id": 1794,
-  "date": "2011-07-04",
-  "categories": [
-    "Dental"
-  ]
+    "title": "Strontium and vitamin D patented in 2008 for periodontitis, gingivitis",
+    "slug": "strontium-and-vitamin-d-patented-in-2008-for-periodontitis-gingivitis",
+    "aliases": [
+        "/Strontium+and+vitamin+D+patented+in+2008+for+periodontitis+gingivitis",
+        "/1794"
+    ],
+    "tiki_page_id": 1794,
+    "date": "2011-07-04",
+    "categories": [
+        "Dental"
+    ],
+    "tags": [
+        "Dental",
+        "dental",
+        "periodontitis",
+        "vitamin d"
+    ]
 }
 
 

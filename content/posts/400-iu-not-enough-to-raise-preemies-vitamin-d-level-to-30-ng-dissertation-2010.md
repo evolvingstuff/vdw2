@@ -1,15 +1,39 @@
 {
-  "title": "400 IU not enough to raise preemies vitamin D level to 30 ng \u2013 Dissertation 2010",
-  "slug": "400-iu-not-enough-to-raise-preemies-vitamin-d-level-to-30-ng-dissertation-2010",
-  "aliases": [
-    "/400+IU+not+enough+to+raise+preemies+vitamin+D+level+to+30+ng+\u2013+Dissertation+2010",
-    "/1612"
-  ],
-  "tiki_page_id": 1612,
-  "date": "2011-05-06",
-  "categories": [
-    "Infant-Child"
-  ]
+    "title": "400 IU not enough to raise preemies vitamin D level to 30 ng \u2013 Dissertation 2010",
+    "slug": "400-iu-not-enough-to-raise-preemies-vitamin-d-level-to-30-ng-dissertation-2010",
+    "aliases": [
+        "/400+IU+not+enough+to+raise+preemies+vitamin+D+level+to+30+ng+\u2013+Dissertation+2010",
+        "/1612"
+    ],
+    "tiki_page_id": 1612,
+    "date": "2011-05-06",
+    "categories": [
+        "Infant-Child"
+    ],
+    "tags": [
+        "Infant-Child",
+        "asthma",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "breathing",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "diabetes",
+        "dosage",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "pediatric autoimmune",
+        "pregnancy",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -41,4 +65,4 @@ Formula fed, late preterm infants in the NICU require additional vitamin D suppl
 
 * <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D: Before, During, and After Pregnancy</a>
 
-* <a href="/posts/many-preemies-need-at-least-800-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many preemies need at least 800 IU of vitamin D – RCT May 2013">Many preemies need at least 800 IU of vitamin D – RCT May 2013</a>
+* [Many preemies need at least 800 IU of vitamin D – RCT May 2013](/posts/many-preemies-need-at-least-800-iu-of-vitamin-d-rct)

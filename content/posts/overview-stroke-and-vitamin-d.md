@@ -1,19 +1,52 @@
 {
-  "title": "Overview Stroke and vitamin D",
-  "slug": "overview-stroke-and-vitamin-d",
-  "aliases": [
-    "/Overview+Stroke+and+vitamin+D",
-    "/1353"
-  ],
-  "tiki_page_id": 1353,
-  "date": "2011-01-27",
-  "categories": [
-    "Overviews",
-    "Stroke"
-  ]
+    "title": "Overview Stroke and vitamin D",
+    "slug": "overview-stroke-and-vitamin-d",
+    "aliases": [
+        "/Overview+Stroke+and+vitamin+D",
+        "/1353"
+    ],
+    "tiki_page_id": 1353,
+    "date": "2011-01-27",
+    "categories": [
+        "Overviews",
+        "Stroke"
+    ],
+    "tags": [
+        "Overviews",
+        "Stroke",
+        "atherosclerosis",
+        "blood levels",
+        "brain",
+        "cardiovascular",
+        "cholesterol",
+        "cognitive",
+        "depression",
+        "diabetes",
+        "dosage",
+        "headache",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "life span",
+        "magnesium",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "metabolic syndrome and magnesium",
+        "mood disorders",
+        "mortality",
+        "omega 3",
+        "pain",
+        "stroke",
+        "stroke and depression",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
- **Summary - strokes, as with many other diseases:** 
+
+**Summary - strokes, as with many other diseases:** 
 
 * 2000+ IU of vitamin D daily will provide some stroke prevention
 
@@ -113,7 +146,7 @@ Conclusion: In conclusion, this study found that combining high 25(OH)D levels a
 
 #### Magnesium in water also associated with a reduction in stroke - 2012
 
- **<a href="/posts/100-mg-more-magnesium-in-water-associated-with-8-percent-reduction-in-stroke" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2431">100 mg more Magnesium in water associated with 8 percent reduction in stroke – Feb 2012</a>** 
+ **[100 mg more Magnesium in water associated with 8 percent reduction in stroke – Feb 2012](/posts/100-mg-more-magnesium-in-water-associated-with-8-percent-reduction-in-stroke)** 
 
 Independent evidence shows that Vitamin D and Magnesium both reduce strokes.
 
@@ -129,7 +162,7 @@ Expect that they would do well together - perhaps more than 2X the benefit
 
 * [Rusting from the inside](https://www.youtube.com/watch?v=CGq9q00G48g&t=2s) - Mercola Video - 11 minutes
 
-   * See in VitaminDWiki <a href="/posts/overview-iron-supplements-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Iron Supplements and Vitamin D">Overview Iron Supplements and Vitamin D</a>
+   * See in VitaminDWiki [Overview Iron Supplements and Vitamin D](/posts/overview-iron-supplements-and-vitamin-d)
 
 ---
 
@@ -413,5 +446,4 @@ While more research is needed and there are limitations to vitamin D supplementa
 
  **2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association** 
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/stoke-guidelines---80-preventable-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
-
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/stoke-guidelines---80-preventable-compresspdf.pdf">Download the PDF from VitaminDWiki </a>**

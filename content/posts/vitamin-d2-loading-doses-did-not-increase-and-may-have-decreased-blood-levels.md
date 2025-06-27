@@ -1,16 +1,28 @@
 {
-  "title": "Vitamin D2 loading doses did not increase, and may have decreased blood levels",
-  "slug": "vitamin-d2-loading-doses-did-not-increase-and-may-have-decreased-blood-levels",
-  "aliases": [
-    "/Vitamin+D2+loading+doses+did+not+increase+and+may+have+decreased+blood+levels\u2013+June+2011",
-    "/2008"
-  ],
-  "tiki_page_id": 2008,
-  "date": "2011-09-17",
-  "categories": [
-    "Vitamin D3 instead of D2",
-    "Loading dose for Vitamin D"
-  ]
+    "title": "Vitamin D2 loading doses did not increase, and may have decreased blood levels",
+    "slug": "vitamin-d2-loading-doses-did-not-increase-and-may-have-decreased-blood-levels",
+    "aliases": [
+        "/Vitamin+D2+loading+doses+did+not+increase+and+may+have+decreased+blood+levels\u2013+June+2011",
+        "/2008"
+    ],
+    "tiki_page_id": 2008,
+    "date": "2011-09-17",
+    "categories": [
+        "Vitamin D3 instead of D2",
+        "Loading dose for Vitamin D"
+    ],
+    "tags": [
+        "Loading dose for Vitamin D",
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "hip fractures",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

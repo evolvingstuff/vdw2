@@ -1,15 +1,28 @@
 {
-  "title": "Magnesium - 2009",
-  "slug": "magnesium-2009",
-  "aliases": [
-    "/Magnesium+-+2009",
-    "/1219"
-  ],
-  "tiki_page_id": 1219,
-  "date": "2010-12-10",
-  "categories": [
-    "Vitamin D and Magnesium"
-  ]
+    "title": "Magnesium - 2009",
+    "slug": "magnesium-2009",
+    "aliases": [
+        "/Magnesium+-+2009",
+        "/1219"
+    ],
+    "tiki_page_id": 1219,
+    "date": "2010-12-10",
+    "categories": [
+        "Vitamin D and Magnesium"
+    ],
+    "tags": [
+        "Vitamin D and Magnesium",
+        "asthma",
+        "breathing",
+        "magnesium",
+        "magnesium and pregnancy",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "metabolic syndrome and magnesium",
+        "preeclampsia",
+        "pregnancy"
+    ]
 }
 
 
@@ -30,4 +43,3 @@ PMID: 19621856
 ## Here are a few key tables from the PDF
 
 {IMG(attId="342,343,344")}{IMG}
-

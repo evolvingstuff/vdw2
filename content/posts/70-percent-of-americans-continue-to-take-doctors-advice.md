@@ -1,12 +1,15 @@
 {
-  "title": "70 percent of Americans continue to take doctor\u2019s advice",
-  "slug": "70-percent-of-americans-continue-to-take-doctors-advice",
-  "aliases": [
-    "/70+percent+of+Americans+continue+to+take+doctors+advice+\u2013+Dec+2010",
-    "/1195"
-  ],
-  "tiki_page_id": 1195,
-  "date": "2010-12-02"
+    "title": "70 percent of Americans continue to take doctor\u2019s advice",
+    "slug": "70-percent-of-americans-continue-to-take-doctors-advice",
+    "aliases": [
+        "/70+percent+of+Americans+continue+to+take+doctors+advice+\u2013+Dec+2010",
+        "/1195"
+    ],
+    "tiki_page_id": 1195,
+    "date": "2010-12-02",
+    "tags": [
+        "vitamin d"
+    ]
 }
 
 
@@ -57,4 +60,3 @@ In addition to sampling error, question wording and practical difficulties in co
 - - - - - 
 
 1 page PDF is attached to the bottom of this page
-

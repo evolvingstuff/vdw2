@@ -1,16 +1,30 @@
 {
-  "title": "800 IU Vitamin D does not help heart \u2013 meta-analysis",
-  "slug": "800-iu-vitamin-d-does-not-help-heart-meta-analysis",
-  "aliases": [
-    "/800+IU+Vitamin+D+does+not+help+heart+\u2013+meta-analysis+Aug+2011",
-    "/1920"
-  ],
-  "tiki_page_id": 1920,
-  "date": "2011-08-16",
-  "categories": [
-    "Cardiovascular",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "800 IU Vitamin D does not help heart \u2013 meta-analysis",
+    "slug": "800-iu-vitamin-d-does-not-help-heart-meta-analysis",
+    "aliases": [
+        "/800+IU+Vitamin+D+does+not+help+heart+\u2013+meta-analysis+Aug+2011",
+        "/1920"
+    ],
+    "tiki_page_id": 1920,
+    "date": "2011-08-16",
+    "categories": [
+        "Cardiovascular",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Meta-analysis of Vitamin D",
+        "cardiovascular",
+        "diabetes",
+        "dosage",
+        "heart failure",
+        "hypertension",
+        "life span",
+        "metabolic",
+        "mortality",
+        "stroke",
+        "vitamin d"
+    ]
 }
 
 

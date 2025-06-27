@@ -1,15 +1,22 @@
 {
-  "title": "Having twins takes more vitamin D",
-  "slug": "having-twins-takes-more-vitamin-d",
-  "aliases": [
-    "/Having+twins+takes+more+vitamin+D+-+May+2011",
-    "/1721"
-  ],
-  "tiki_page_id": 1721,
-  "date": "2011-06-10",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Having twins takes more vitamin D",
+    "slug": "having-twins-takes-more-vitamin-d",
+    "aliases": [
+        "/Having+twins+takes+more+vitamin+D+-+May+2011",
+        "/1721"
+    ],
+    "tiki_page_id": 1721,
+    "date": "2011-06-10",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "breast cancer",
+        "cancer",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,15 +1,20 @@
 {
-  "title": "Need 40 ng of vitamin D to have proper PTH levels",
-  "slug": "need-40-ng-of-vitamin-d-to-have-proper-pth-levels",
-  "aliases": [
-    "/Need+40+ng+of+vitamin+D+to+have+proper+PTH+levels+\u2013+May+2011",
-    "/1683"
-  ],
-  "tiki_page_id": 1683,
-  "date": "2011-05-31",
-  "categories": [
-    "Thyroid and parathyroid"
-  ]
+    "title": "Need 40 ng of vitamin D to have proper PTH levels",
+    "slug": "need-40-ng-of-vitamin-d-to-have-proper-pth-levels",
+    "aliases": [
+        "/Need+40+ng+of+vitamin+D+to+have+proper+PTH+levels+\u2013+May+2011",
+        "/1683"
+    ],
+    "tiki_page_id": 1683,
+    "date": "2011-05-31",
+    "categories": [
+        "Thyroid and parathyroid"
+    ],
+    "tags": [
+        "Thyroid and parathyroid",
+        "blood levels",
+        "vitamin d"
+    ]
 }
 
 
@@ -39,4 +44,4 @@ In both unadjusted and adjusted models, there was a strong inverse relationship 
 
 Conclusions: Optimal vitamin D status, defined by estimated maximum PTH suppression, does not occur until at least 25OHD levels ?40 ng/ml. Using these thresholds, most of the U.S. population needs more vitamin D. Large, prospective studies are needed to determine optimal vitamin D supplementation.
 
-PMID:     21606669 
+PMID:     21606669

@@ -1,15 +1,24 @@
 {
-  "title": "Diabetes not TREATED statistically with 5700 IU of vitamin D",
-  "slug": "diabetes-not-treated-statistically-with-5700-iu-of-vitamin-d",
-  "aliases": [
-    "/Diabetes+not+TREATED+statistically+with+5700+IU+of+vitamin+D+\u2013+Sept+2011",
-    "/2000"
-  ],
-  "tiki_page_id": 2000,
-  "date": "2011-09-14",
-  "categories": [
-    "Diabetes"
-  ]
+    "title": "Diabetes not TREATED statistically with 5700 IU of vitamin D",
+    "slug": "diabetes-not-treated-statistically-with-5700-iu-of-vitamin-d",
+    "aliases": [
+        "/Diabetes+not+TREATED+statistically+with+5700+IU+of+vitamin+D+\u2013+Sept+2011",
+        "/2000"
+    ],
+    "tiki_page_id": 2000,
+    "date": "2011-09-14",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,15 +1,19 @@
 {
-  "title": "Vitamin D and latitude Masterjohn",
-  "slug": "vitamin-d-and-latitude-masterjohn",
-  "aliases": [
-    "/Vitamin+D+and+latitude+Masterjohn+-+Dec+2010",
-    "/1258"
-  ],
-  "tiki_page_id": 1258,
-  "date": "2010-12-24",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Vitamin D and latitude Masterjohn",
+    "slug": "vitamin-d-and-latitude-masterjohn",
+    "aliases": [
+        "/Vitamin+D+and+latitude+Masterjohn+-+Dec+2010",
+        "/1258"
+    ],
+    "tiki_page_id": 1258,
+    "date": "2010-12-24",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "vitamin d"
+    ]
 }
 
 
@@ -32,4 +36,3 @@ One 2007 paper "They came to the "startling" conclusion that latitude was only r
 Masterjohn also discussed use of coconut oil on the Pacific Islands to absord UV rays.
 
 A quick search of the internet seems to find coconut oil but used to increase and decrease tanning - not conclusive
-

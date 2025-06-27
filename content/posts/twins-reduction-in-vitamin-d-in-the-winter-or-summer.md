@@ -1,15 +1,26 @@
 {
-  "title": "Twins reduction in vitamin D in the winter or summer",
-  "slug": "twins-reduction-in-vitamin-d-in-the-winter-or-summer",
-  "aliases": [
-    "/Twins+reduction+in+vitamin+D+in+the+winter+or+summer+-+Nov+2010",
-    "/1147"
-  ],
-  "tiki_page_id": 1147,
-  "date": "2010-11-18",
-  "categories": [
-    "Genetics"
-  ]
+    "title": "Twins reduction in vitamin D in the winter or summer",
+    "slug": "twins-reduction-in-vitamin-d-in-the-winter-or-summer",
+    "aliases": [
+        "/Twins+reduction+in+vitamin+D+in+the+winter+or+summer+-+Nov+2010",
+        "/1147"
+    ],
+    "tiki_page_id": 1147,
+    "date": "2010-11-18",
+    "categories": [
+        "Genetics"
+    ],
+    "tags": [
+        "Genetics",
+        "blood levels",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "metabolic",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,16 +1,26 @@
 {
-  "title": "Calcium citrate and more than 800 IU of vitamin D to treat Osteoporosis",
-  "slug": "calcium-citrate-and-more-than-800-iu-of-vitamin-d-to-treat-osteoporosis",
-  "aliases": [
-    "/Calcium+citrate+and+more+than+800+IU+of+vitamin+D+to+treat+Osteoporosis+\u2013+Mar+2011",
-    "/1486"
-  ],
-  "tiki_page_id": 1486,
-  "date": "2011-03-17",
-  "categories": [
-    "Osteoporosis",
-    "Vitamin D and Calcium"
-  ]
+    "title": "Calcium citrate and more than 800 IU of vitamin D to treat Osteoporosis",
+    "slug": "calcium-citrate-and-more-than-800-iu-of-vitamin-d-to-treat-osteoporosis",
+    "aliases": [
+        "/Calcium+citrate+and+more+than+800+IU+of+vitamin+D+to+treat+Osteoporosis+\u2013+Mar+2011",
+        "/1486"
+    ],
+    "tiki_page_id": 1486,
+    "date": "2011-03-17",
+    "categories": [
+        "Osteoporosis",
+        "Vitamin D and Calcium"
+    ],
+    "tags": [
+        "Osteoporosis",
+        "Vitamin D and Calcium",
+        "bone",
+        "falls fractures",
+        "hip fractures",
+        "magnesium",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,22 +1,32 @@
 {
-  "title": "Evaluating the vitamin D evidence - Heaney",
-  "slug": "evaluating-the-vitamin-d-evidence-heaney",
-  "aliases": [
-    "/Evaluating+the+vitamin+D+evidence+-+Heaney+Dec+2010",
-    "/1261"
-  ],
-  "tiki_page_id": 1261,
-  "date": "2010-12-25",
-  "categories": [
-    "How much Vitamin D",
-    "Pregnancy",
-    "Rickets",
-    "Tuberculosis",
-    "Health",
-    "Overview for doctors",
-    "Evidence for D",
-    "Intervention"
-  ]
+    "title": "Evaluating the vitamin D evidence - Heaney",
+    "slug": "evaluating-the-vitamin-d-evidence-heaney",
+    "aliases": [
+        "/Evaluating+the+vitamin+D+evidence+-+Heaney+Dec+2010",
+        "/1261"
+    ],
+    "tiki_page_id": 1261,
+    "date": "2010-12-25",
+    "categories": [
+        "How much Vitamin D",
+        "Pregnancy",
+        "Rickets",
+        "Tuberculosis",
+        "Health",
+        "Overview for doctors",
+        "Evidence for D",
+        "Intervention"
+    ],
+    "tags": [
+        "Evidence for D",
+        "Health",
+        "How much Vitamin D",
+        "Intervention",
+        "Overview for doctors",
+        "Pregnancy",
+        "Rickets",
+        "Tuberculosis"
+    ]
 }
 
 

@@ -1,15 +1,21 @@
 {
-  "title": "Women can lose weight with vitamin D",
-  "slug": "women-can-lose-weight-with-vitamin-d",
-  "aliases": [
-    "/Women+can+lose+weight+with+vitamin+D+-+Nov+2010",
-    "/1161"
-  ],
-  "tiki_page_id": 1161,
-  "date": "2010-11-22",
-  "categories": [
-    "Obesity"
-  ]
+    "title": "Women can lose weight with vitamin D",
+    "slug": "women-can-lose-weight-with-vitamin-d",
+    "aliases": [
+        "/Women+can+lose+weight+with+vitamin+D+-+Nov+2010",
+        "/1161"
+    ],
+    "tiki_page_id": 1161,
+    "date": "2010-11-22",
+    "categories": [
+        "Obesity"
+    ],
+    "tags": [
+        "Obesity",
+        "health risk",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 

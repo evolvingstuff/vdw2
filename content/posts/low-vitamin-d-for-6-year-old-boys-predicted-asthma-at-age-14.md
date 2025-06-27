@@ -1,15 +1,24 @@
 {
-  "title": "Low vitamin D for 6 year old boys predicted asthma at age 14",
-  "slug": "low-vitamin-d-for-6-year-old-boys-predicted-asthma-at-age-14",
-  "aliases": [
-    "/Low+vitamin+D+for+6+year+old+boys+predicted+asthma+at+age+14+\u2013+May+2011",
-    "/1633"
-  ],
-  "tiki_page_id": 1633,
-  "date": "2011-05-15",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Low vitamin D for 6 year old boys predicted asthma at age 14",
+    "slug": "low-vitamin-d-for-6-year-old-boys-predicted-asthma-at-age-14",
+    "aliases": [
+        "/Low+vitamin+D+for+6+year+old+boys+predicted+asthma+at+age+14+\u2013+May+2011",
+        "/1633"
+    ],
+    "tiki_page_id": 1633,
+    "date": "2011-05-15",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "breathing",
+        "child",
+        "dosage",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -42,4 +51,3 @@ PMID:     21565922
 * <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D Before, During, and After Pregnancy</a>
 
    * note 5X reduction in childhood asthma if mother took 2,000 IU of vitamin D while pregnant
-

@@ -1,15 +1,25 @@
 {
-  "title": "Why we need large-scale heart trials of vitamin D",
-  "slug": "why-we-need-large-scale-heart-trials-of-vitamin-d",
-  "aliases": [
-    "/Why+we+need+large-scale+heart+trials+of+vitamin+D+-+Dec+2010",
-    "/1266"
-  ],
-  "tiki_page_id": 1266,
-  "date": "2010-12-28",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Why we need large-scale heart trials of vitamin D",
+    "slug": "why-we-need-large-scale-heart-trials-of-vitamin-d",
+    "aliases": [
+        "/Why+we+need+large-scale+heart+trials+of+vitamin+D+-+Dec+2010",
+        "/1266"
+    ],
+    "tiki_page_id": 1266,
+    "date": "2010-12-28",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "cancer",
+        "dosage",
+        "magnesium",
+        "magnesium and cancer",
+        "omega 3",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -56,4 +66,3 @@ Although vitamin D supplementation appears to be a promising intervention for re
 * Apparently no control or observation of amount of sunlight/UV the people get
 
 ## Dr. Mason was on the IoM board vitamin D panel and might have a <a href="/posts/conflict-of-interest" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1198">conflict of interest</a> in having vitamin D be important before her study is complete
-

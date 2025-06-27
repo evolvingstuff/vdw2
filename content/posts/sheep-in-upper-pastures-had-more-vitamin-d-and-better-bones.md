@@ -1,15 +1,19 @@
 {
-  "title": "Sheep in upper pastures had more vitamin D and better bones",
-  "slug": "sheep-in-upper-pastures-had-more-vitamin-d-and-better-bones",
-  "aliases": [
-    "/Sheep+in+upper+pastures+had+more+vitamin+D+and+better+bones+\u2013+Oct+2011",
-    "/2086"
-  ],
-  "tiki_page_id": 2086,
-  "date": "2011-10-14",
-  "categories": [
-    "Veterinary and Vitamin D"
-  ]
+    "title": "Sheep in upper pastures had more vitamin D and better bones",
+    "slug": "sheep-in-upper-pastures-had-more-vitamin-d-and-better-bones",
+    "aliases": [
+        "/Sheep+in+upper+pastures+had+more+vitamin+D+and+better+bones+\u2013+Oct+2011",
+        "/2086"
+    ],
+    "tiki_page_id": 2086,
+    "date": "2011-10-14",
+    "categories": [
+        "Veterinary and Vitamin D"
+    ],
+    "tags": [
+        "Veterinary and Vitamin D",
+        "vitamin d"
+    ]
 }
 
 

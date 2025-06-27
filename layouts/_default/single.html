@@ -2,6 +2,28 @@
     <article>
         <h1>{{ .Title }}</h1>
         <time>{{ .Date.Format "January 2, 2006" }}</time>
-        {{ .Content }}
+        
+        <!-- Hidden metadata for Pagefind indexing -->
+        <div data-pagefind-body>
+            {{ .Content }}
+        </div>
+        
+        <!-- Tags moved to bottom with horizontal line separator -->
+        {{ if .Params.tags }}
+        <hr class="tag-separator">
+        <div class="tags">
+            <span>Tags: </span>
+            {{ range sort .Params.tags }}
+                <span class="tag">{{ . }}</span>
+            {{ end }}
+        </div>
+        {{ end }}
+        
+        <!-- Add tag metadata for Pagefind -->
+        {{ if .Params.tags }}
+        <div data-pagefind-meta="tags" hidden>
+            {{ delimit (sort .Params.tags) ", " }}
+        </div>
+        {{ end }}
     </article>
 {{ end }}

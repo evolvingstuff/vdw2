@@ -1,16 +1,36 @@
 {
-  "title": "Less than 20 ng of vitamin D associated with lumbar spine density in Saudi men",
-  "slug": "less-than-20-ng-of-vitamin-d-associated-with-lumbar-spine-density-in-saudi-men",
-  "aliases": [
-    "/Less+than+20+ng+of+vitamin+D+associated+with+lumbar+spine+density+in+Saudi+men+\u2013+April+2011",
-    "/1688"
-  ],
-  "tiki_page_id": 1688,
-  "date": "2011-06-01",
-  "categories": [
-    "Bone - Health"
-  ]
+    "title": "Less than 20 ng of vitamin D associated with lumbar spine density in Saudi men",
+    "slug": "less-than-20-ng-of-vitamin-d-associated-with-lumbar-spine-density-in-saudi-men",
+    "aliases": [
+        "/Less+than+20+ng+of+vitamin+D+associated+with+lumbar+spine+density+in+Saudi+men+\u2013+April+2011",
+        "/1688"
+    ],
+    "tiki_page_id": 1688,
+    "date": "2011-06-01",
+    "categories": [
+        "Bone - Health"
+    ],
+    "tags": [
+        "Bone - Health",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "obesity",
+        "osteoporosis",
+        "smoking",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 

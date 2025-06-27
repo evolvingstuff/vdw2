@@ -1,16 +1,60 @@
 {
-  "title": "Hypothesis: Age-related diseases due to lack of nutrients like vitamin K \u2013 Ames Triage Theory",
-  "slug": "hypothesis-age-related-diseases-due-to-lack-of-nutrients-like-vitamin-k-ames-triage-theory",
-  "aliases": [
-    "/Hypothesis+Age-related+diseases+due+to+lack+of+nutrients+like+vitamin+K+\u2013+Ames+Triage+Theory",
-    "/1940"
-  ],
-  "tiki_page_id": 1940,
-  "date": "2011-08-23",
-  "categories": [
-    "Vitamin D and Magnesium",
-    "Vitamin D and Vitamin K"
-  ]
+    "title": "Hypothesis: Age-related diseases due to lack of nutrients like vitamin K \u2013 Ames Triage Theory",
+    "slug": "hypothesis-age-related-diseases-due-to-lack-of-nutrients-like-vitamin-k-ames-triage-theory",
+    "aliases": [
+        "/Hypothesis+Age-related+diseases+due+to+lack+of+nutrients+like+vitamin+K+\u2013+Ames+Triage+Theory",
+        "/1940"
+    ],
+    "tiki_page_id": 1940,
+    "date": "2011-08-23",
+    "categories": [
+        "Vitamin D and Magnesium",
+        "Vitamin D and Vitamin K"
+    ],
+    "tags": [
+        "Vitamin D and Magnesium",
+        "Vitamin D and Vitamin K",
+        "atherosclerosis",
+        "bacteria",
+        "blood clotting",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "brain",
+        "cancer",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "cognitive",
+        "dementia",
+        "diabetes",
+        "falls fractures",
+        "health risk",
+        "influenza",
+        "life span",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and viruses",
+        "metabolic",
+        "mortality",
+        "obesity",
+        "obesity and cancer",
+        "omega 3",
+        "omega 3 and viruses",
+        "osteoporosis",
+        "smoking",
+        "stroke",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin k",
+        "vitamin k and viruses"
+    ]
 }
 
 
@@ -194,4 +238,4 @@ The triage theory posits that some functions of micronutrients (the approximatel
 
 * <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview Magnesium and vitamin D</a>
 
-* <a href="/posts/vitamin-and-mineral-deficiencies-ames-triage-theory" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3237">Vitamin and Mineral deficiencies – Ames Triage Theory Sept 2012</a>
+* [Vitamin and Mineral deficiencies – Ames Triage Theory Sept 2012](/posts/vitamin-and-mineral-deficiencies-ames-triage-theory)

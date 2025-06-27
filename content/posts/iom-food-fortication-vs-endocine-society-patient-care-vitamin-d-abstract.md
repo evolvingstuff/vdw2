@@ -1,12 +1,22 @@
 {
-  "title": "IOM food fortication vs Endocine Society patient care \u2013 Vitamin D \u2013 abstract",
-  "slug": "iom-food-fortication-vs-endocine-society-patient-care-vitamin-d-abstract",
-  "aliases": [
-    "/IOM+food+fortication+vs+Endocine+Society+patient+care+\u2013+Vitamin+D+\u2013+abstract+Sept+2011",
-    "/2038"
-  ],
-  "tiki_page_id": 2038,
-  "date": "2011-09-26"
+    "title": "IOM food fortication vs Endocine Society patient care \u2013 Vitamin D \u2013 abstract",
+    "slug": "iom-food-fortication-vs-endocine-society-patient-care-vitamin-d-abstract",
+    "aliases": [
+        "/IOM+food+fortication+vs+Endocine+Society+patient+care+\u2013+Vitamin+D+\u2013+abstract+Sept+2011",
+        "/2038"
+    ],
+    "tiki_page_id": 2038,
+    "date": "2011-09-26",
+    "tags": [
+        "autoimmune",
+        "cancer",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -43,4 +53,3 @@ Healthcare providers should formulate their own opinions with respect to vitamin
 # See also VitaminDWiki
 
 * <a href="/posts/published-vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Vitamin D Recommendations</a>
-

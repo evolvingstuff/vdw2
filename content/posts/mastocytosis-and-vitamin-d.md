@@ -1,17 +1,27 @@
 {
-  "title": "Mastocytosis and Vitamin D",
-  "slug": "mastocytosis-and-vitamin-d",
-  "aliases": [
-    "/Mastocytosis+and+Vitamin+D",
-    "/1873"
-  ],
-  "tiki_page_id": 1873,
-  "date": "2011-07-30",
-  "categories": [
-    "Bone - Health",
-    "Immunity"
-  ]
+    "title": "Mastocytosis and Vitamin D",
+    "slug": "mastocytosis-and-vitamin-d",
+    "aliases": [
+        "/Mastocytosis+and+Vitamin+D",
+        "/1873"
+    ],
+    "tiki_page_id": 1873,
+    "date": "2011-07-30",
+    "categories": [
+        "Bone - Health",
+        "Immunity"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Immunity",
+        "bone",
+        "bone mineral density",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

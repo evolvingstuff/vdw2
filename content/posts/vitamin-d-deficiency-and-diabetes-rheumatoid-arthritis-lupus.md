@@ -1,18 +1,36 @@
 {
-  "title": "Vitamin D deficiency and diabetes \u2013 rheumatoid arthritis \u2013 lupus",
-  "slug": "vitamin-d-deficiency-and-diabetes-rheumatoid-arthritis-lupus",
-  "aliases": [
-    "/Vitamin+D+deficiency+and+diabetes+\u2013+rheumatoid+arthritis+\u2013+lupus+\u2013+Oct+2010",
-    "/1900"
-  ],
-  "tiki_page_id": 1900,
-  "date": "2011-08-06",
-  "categories": [
-    "Diabetes",
-    "Lupus",
-    "Rheumatoid Arthritis"
-  ]
+    "title": "Vitamin D deficiency and diabetes \u2013 rheumatoid arthritis \u2013 lupus",
+    "slug": "vitamin-d-deficiency-and-diabetes-rheumatoid-arthritis-lupus",
+    "aliases": [
+        "/Vitamin+D+deficiency+and+diabetes+\u2013+rheumatoid+arthritis+\u2013+lupus+\u2013+Oct+2010",
+        "/1900"
+    ],
+    "tiki_page_id": 1900,
+    "date": "2011-08-06",
+    "categories": [
+        "Diabetes",
+        "Lupus",
+        "Rheumatoid Arthritis"
+    ],
+    "tags": [
+        "Diabetes",
+        "Lupus",
+        "Rheumatoid Arthritis",
+        "autoimmune",
+        "blood levels",
+        "diabetes",
+        "high dose",
+        "intervention",
+        "lupus",
+        "metabolic",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -85,4 +103,3 @@ PDF is attached at the bottom of this page
 * <a href="/posts/lupus-in-vicious-circle-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1101">Lupus in vicious circle with vitamin D - Nov 2010</a>
 
 * [Lupus 8X more likely to not even have 20 ng of vitamin D – May 2011](/posts/lupus-8x-more-likely-to-not-even-have-20-ng-of-vitamin-d)
-

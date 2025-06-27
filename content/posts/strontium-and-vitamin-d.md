@@ -1,16 +1,32 @@
 {
-  "title": "Strontium and Vitamin D",
-  "slug": "strontium-and-vitamin-d",
-  "aliases": [
-    "/Strontium+and+Vitamin+D",
-    "/1272"
-  ],
-  "tiki_page_id": 1272,
-  "date": "2010-12-31",
-  "categories": [
-    "Supplement"
-  ]
+    "title": "Strontium and Vitamin D",
+    "slug": "strontium-and-vitamin-d",
+    "aliases": [
+        "/Strontium+and+Vitamin+D",
+        "/1272"
+    ],
+    "tiki_page_id": 1272,
+    "date": "2010-12-31",
+    "categories": [
+        "Supplement"
+    ],
+    "tags": [
+        "Supplement",
+        "back pain",
+        "bone",
+        "bone mineral density",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "hip fractures",
+        "magnesium",
+        "osteoporosis",
+        "pain",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

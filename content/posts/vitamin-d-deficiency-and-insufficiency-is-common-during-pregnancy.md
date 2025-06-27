@@ -1,17 +1,37 @@
 {
-  "title": "Vitamin D Deficiency and Insufficiency is Common during Pregnancy",
-  "slug": "vitamin-d-deficiency-and-insufficiency-is-common-during-pregnancy",
-  "aliases": [
-    "/Vitamin+D+Deficiency+and+Insufficiency+is+Common+during+Pregnancy+\u2013+Jan+2011",
-    "/1560"
-  ],
-  "tiki_page_id": 1560,
-  "date": "2011-04-02",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Pregnancy"
-  ]
+    "title": "Vitamin D Deficiency and Insufficiency is Common during Pregnancy",
+    "slug": "vitamin-d-deficiency-and-insufficiency-is-common-during-pregnancy",
+    "aliases": [
+        "/Vitamin+D+Deficiency+and+Insufficiency+is+Common+during+Pregnancy+\u2013+Jan+2011",
+        "/1560"
+    ],
+    "tiki_page_id": 1560,
+    "date": "2011-04-02",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Pregnancy"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Pregnancy",
+        "asthma",
+        "blood levels",
+        "bone",
+        "breastfed",
+        "breathing",
+        "child",
+        "diabetes",
+        "dosage",
+        "in vitro fertilization",
+        "metabolic",
+        "preeclampsia",
+        "pregnancy",
+        "rickets",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Am J Perinatol. 2011 Jan;28(1):7-12. Epub 2010 Jul 16.
 
@@ -74,4 +94,3 @@ https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1625|Profound vitamin
 | 6000  | > probable larger benefits for items listed above  
 + Enough D for breastfed infant  
 + Perhaps prevent 2nd autistic child | Test Vitamin D  <br> clinical trials underway | Must have | < 750 mg | $200 |
-

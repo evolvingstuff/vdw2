@@ -1,17 +1,26 @@
 {
-  "title": "Dogs \u2013 like humans \u2013 with IBD were low on vitamin D",
-  "slug": "dogs-like-humans-with-ibd-were-low-on-vitamin-d",
-  "aliases": [
-    "/Dogs+\u2013+like+humans+\u2013+with+IBD+were+low+on+vitamin+D+\u2013+July+2011",
-    "/1874"
-  ],
-  "tiki_page_id": 1874,
-  "date": "2011-07-30",
-  "categories": [
-    "Veterinary and Vitamin D",
-    "Gut"
-  ]
+    "title": "Dogs \u2013 like humans \u2013 with IBD were low on vitamin D",
+    "slug": "dogs-like-humans-with-ibd-were-low-on-vitamin-d",
+    "aliases": [
+        "/Dogs+\u2013+like+humans+\u2013+with+IBD+were+low+on+vitamin+D+\u2013+July+2011",
+        "/1874"
+    ],
+    "tiki_page_id": 1874,
+    "date": "2011-07-30",
+    "categories": [
+        "Veterinary and Vitamin D",
+        "Gut"
+    ],
+    "tags": [
+        "Gut",
+        "IBD",
+        "Veterinary and Vitamin D",
+        "gut",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
+
 
 &nbsp;
 

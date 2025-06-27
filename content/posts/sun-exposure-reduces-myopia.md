@@ -1,15 +1,21 @@
 {
-  "title": "Sun exposure reduces Myopia",
-  "slug": "sun-exposure-reduces-myopia",
-  "aliases": [
-    "/Sun+exposure+reduces+Myopia+\u2013+June+2011",
-    "/1775"
-  ],
-  "tiki_page_id": 1775,
-  "date": "2011-06-29",
-  "categories": [
-    "Vision"
-  ]
+    "title": "Sun exposure reduces Myopia",
+    "slug": "sun-exposure-reduces-myopia",
+    "aliases": [
+        "/Sun+exposure+reduces+Myopia+\u2013+June+2011",
+        "/1775"
+    ],
+    "tiki_page_id": 1775,
+    "date": "2011-06-29",
+    "categories": [
+        "Vision"
+    ],
+    "tags": [
+        "Vision",
+        "child",
+        "myopia",
+        "vision"
+    ]
 }
 
 

@@ -1,16 +1,25 @@
 {
-  "title": "Leg pain 7X more prevalent when vitamin D lower than 20 ng",
-  "slug": "leg-pain-7x-more-prevalent-when-vitamin-d-lower-than-20-ng",
-  "aliases": [
-    "/Leg+pain+7X+more+prevalent+when+vitamin+D+lower+than+20+ng+\u2013+Oct+2010",
-    "/1281"
-  ],
-  "tiki_page_id": 1281,
-  "date": "2011-01-05",
-  "categories": [
-    "Bone - Health",
-    "Pain - chronic"
-  ]
+    "title": "Leg pain 7X more prevalent when vitamin D lower than 20 ng",
+    "slug": "leg-pain-7x-more-prevalent-when-vitamin-d-lower-than-20-ng",
+    "aliases": [
+        "/Leg+pain+7X+more+prevalent+when+vitamin+D+lower+than+20+ng+\u2013+Oct+2010",
+        "/1281"
+    ],
+    "tiki_page_id": 1281,
+    "date": "2011-01-05",
+    "categories": [
+        "Bone - Health",
+        "Pain - chronic"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Pain - chronic",
+        "back pain",
+        "magnesium",
+        "pain",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -46,7 +55,7 @@ PMID: 21199469
 
 # See also at VitaminDWiki
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [CLICK HERE to search "Back Pain" on the site via Google](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=%22back+pain%22&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26v%3Df661cdea8f1dc8bb%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D1500293987) 148 items as of Sept 2013
 
@@ -56,4 +65,4 @@ PMID: 21199469
 
 * <a href="/posts/co-factors-available-on-the-internet" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Co-factors available on the internet</a>
 
-* <a href="/posts/bone-health-and-vitamin-d-book-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2312">Bone Health and vitamin D book - 2011</a>
+* [Bone Health and vitamin D book - 2011](/posts/bone-health-and-vitamin-d-book-2011)

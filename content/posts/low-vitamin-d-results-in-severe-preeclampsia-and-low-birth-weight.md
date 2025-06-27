@@ -1,16 +1,25 @@
 {
-  "title": "Low vitamin D results in severe preeclampsia and low birth weight",
-  "slug": "low-vitamin-d-results-in-severe-preeclampsia-and-low-birth-weight",
-  "aliases": [
-    "/Low+vitamin+D+results+in+severe+preeclampsia+and+low+birth+weight+\u2013+Mar+2011",
-    "/1593"
-  ],
-  "tiki_page_id": 1593,
-  "date": "2011-05-01",
-  "categories": [
-    "Pregnancy",
-    "Hypertension"
-  ]
+    "title": "Low vitamin D results in severe preeclampsia and low birth weight",
+    "slug": "low-vitamin-d-results-in-severe-preeclampsia-and-low-birth-weight",
+    "aliases": [
+        "/Low+vitamin+D+results+in+severe+preeclampsia+and+low+birth+weight+\u2013+Mar+2011",
+        "/1593"
+    ],
+    "tiki_page_id": 1593,
+    "date": "2011-05-01",
+    "categories": [
+        "Pregnancy",
+        "Hypertension"
+    ],
+    "tags": [
+        "Hypertension",
+        "Pregnancy",
+        "blood levels",
+        "preeclampsia",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -47,4 +56,3 @@ Vitamin D is lower among patients with SGA in EOSPE than those without growth re
 * [How to reduce preeclampsia - May 2011](/posts/how-to-reduce-preeclampsia)
 
 * [Women with low vitamin D 4X more likely to have preeclampsia in pregnancy – Nov 2010](/posts/women-with-low-vitamin-d-4x-more-likely-to-have-preeclampsia-in-pregnancy)
-

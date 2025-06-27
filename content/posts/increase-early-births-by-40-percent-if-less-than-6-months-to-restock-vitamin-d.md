@@ -1,15 +1,20 @@
 {
-  "title": "Increase early births by 40 percent if less than 6 months to restock vitamin D",
-  "slug": "increase-early-births-by-40-percent-if-less-than-6-months-to-restock-vitamin-d",
-  "aliases": [
-    "/Increase+early+births+by+40+percent+if+less+than+6+months+to+restock+vitamin+D+\u2013+Feb+2011",
-    "/1575"
-  ],
-  "tiki_page_id": 1575,
-  "date": "2011-04-12",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Increase early births by 40 percent if less than 6 months to restock vitamin D",
+    "slug": "increase-early-births-by-40-percent-if-less-than-6-months-to-restock-vitamin-d",
+    "aliases": [
+        "/Increase+early+births+by+40+percent+if+less+than+6+months+to+restock+vitamin+D+\u2013+Feb+2011",
+        "/1575"
+    ],
+    "tiki_page_id": 1575,
+    "date": "2011-04-12",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "pregnancy",
+        "preterm"
+    ]
 }
 
 
@@ -32,4 +37,3 @@ Conclusions. Excess risk for preterm birth may be reduced by up to 8% among Afri
 © 2011 The Authors AOGS© 2011 Nordic Federation of Societies of Obstetrics and Gynecology.
 
 PMID: 21306339
-

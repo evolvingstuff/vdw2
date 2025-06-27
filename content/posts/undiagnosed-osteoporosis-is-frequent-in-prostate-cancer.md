@@ -1,15 +1,25 @@
 {
-  "title": "Undiagnosed osteoporosis is frequent in prostate cancer",
-  "slug": "undiagnosed-osteoporosis-is-frequent-in-prostate-cancer",
-  "aliases": [
-    "/Undiagnosed+osteoporosis+is+frequent+in+prostate+cancer+\u2013+July+2011",
-    "/1798"
-  ],
-  "tiki_page_id": 1798,
-  "date": "2011-07-04",
-  "categories": [
-    "Cancer - Prostate"
-  ]
+    "title": "Undiagnosed osteoporosis is frequent in prostate cancer",
+    "slug": "undiagnosed-osteoporosis-is-frequent-in-prostate-cancer",
+    "aliases": [
+        "/Undiagnosed+osteoporosis+is+frequent+in+prostate+cancer+\u2013+July+2011",
+        "/1798"
+    ],
+    "tiki_page_id": 1798,
+    "date": "2011-07-04",
+    "categories": [
+        "Cancer - Prostate"
+    ],
+    "tags": [
+        "Cancer - Prostate",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "cancer",
+        "falls fractures",
+        "osteoporosis",
+        "prostate cancer"
+    ]
 }
 
 

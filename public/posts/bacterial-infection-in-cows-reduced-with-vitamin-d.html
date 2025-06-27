@@ -1,0 +1,71 @@
+<!doctype html><html><head><meta charset=utf-8><title>Bacterial infection in cows reduced with vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1751038172"><link rel=stylesheet href="/css/pagination.css?v=1751038172"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038172"></script><script src="/js/search.js?v=1751038172"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Bacterial infection in cows reduced with vitamin D</h1><time>February 7, 2012</time><div data-pagefind-body><h1 id=treatment-of-an-intramammary-bacterial-infection-with-25-hydroxyvitamin-d3>Treatment of an intramammary bacterial infection with 25-hydroxyvitamin D(3).</h1><p>PLoS One. 2011;6(10):e25479. Epub 2011 Oct 3.</p><p>Lippolis JD, Reinhardt TA, Sacco RA, Nonnecke BJ, Nelson CD.</p><p>Ruminant Diseases and Immunology Research Unit, National Animal Disease Center, Agricultural Research Service, United States Department of Agriculture, Ames, Iowa, United States of America. <a href=mailto:john.lippolis@ars.usda.gov>john.lippolis@ars.usda.gov</a></p><p>Deficiency of serum levels of 25-hydroxyvitamin D(3) has been correlated with increased risk of infectious diseases such as tuberculosis and influenza. A plausible reason for this association is that expression of genes encoding important antimicrobial proteins depends on concentrations of 1,25-dihydroxyvitamin D(3) produced by activated immune cells at sites of infection, and that synthesis of 1,25-dihydroxyvitamin D(3) is dependent on the availability of 25-hydroxyvitamin D(3). Thus, increasing the availability of 25(OH)D(3) for immune cell synthesis of 1,25-dihydroxyvitamin D(3) at sites of infection has been hypothesized to aid in clearance of the infection. This report details the treatment of an acute intramammary infection with infusion of 25-hydroxyvitamin D(3) to the site of infection.</p><p>Ten lactating cows were infected with in one quarter of their mammary glands. Half of the animals were treated intramammary with 25-hydroxyvitamin D(3).</p><p>The 25-hydroxyvitamin D(3) treated animal showed significantly lower bacterial counts in milk and showed reduced symptomatic affects of the mastitis.</p><p>It is significant that treatment with 25-hydroxyvitamin D(3) reduced the severity of an acute bacterial infection. This finding suggested a significant non-antibiotic complimentary role for 25-hydroxyvitamin D(3) in the treatment of infections in compartments naturally low in 25-hydroxyvitamin D(3) such as the mammary gland and by extension, possibly upper respiratory tract infections.</p><p>PMID: 21991312</p><p>{IMG(attId=&ldquo;1071&rdquo;)}{IMG}</p><h1 id=40000-iu-of-vitamin-d-twice-daily>40,000 IU of vitamin D twice daily</h1><p>cows weigh 600 kg, 200 lb person = 90 kg, so this dose would be 40,000 *(90/600) = <strong>6,000 IU</strong> for a 200 lb person</p><p><strong><span style=color:#00f>PDF attached at bottom of the page</span></strong></p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><a href=/posts/overview-veterinary-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a></li></ul><blockquote><p>Cows are routinely given 30 IU per kilogram (which would be 10,000 IU for a 150 lb person)</p></blockquote><ul><li><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=1&amp;sort_mode=created_desc">All items in category Veterinary and D</a> 40 items as of Feb 2012</li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>antibiotics</span>
+<span class=tag>autoimmune</span>
+<span class=tag>bacteria</span>
+<span class=tag>dosage</span>
+<span class=tag>high dose</span>
+<span class=tag>Immunity</span>
+<span class=tag>influenza</span>
+<span class=tag>intervention</span>
+<span class=tag>pain</span>
+<span class=tag>rheumatoid arthritis</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>tuberculosis</span>
+<span class=tag>virus</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>antibiotics, autoimmune, bacteria, dosage, high dose, Immunity, influenza, intervention, pain, rheumatoid arthritis, therapeutic intervention, tuberculosis, virus, vitamin d, vitamin d and viruses, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038172"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038172",indexUrl:"/search/search_index.json.gz?v=1751038172"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038172"></script><script src="/js/tiki-redirects.js?v=1751038172"></script></body></html>

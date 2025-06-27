@@ -1,16 +1,78 @@
 {
-  "title": "CYP24A1 gene and Vitamin D - many studies",
-  "slug": "cyp24a1-gene-and-vitamin-d-many-studies",
-  "aliases": [
-    "/CYP24A1+gene+and+Vitamin+D+-+many+studies",
-    "/1447"
-  ],
-  "tiki_page_id": 1447,
-  "date": "2011-03-02",
-  "categories": [
-    "Genetics"
-  ]
+    "title": "CYP24A1 gene and Vitamin D - many studies",
+    "slug": "cyp24a1-gene-and-vitamin-d-many-studies",
+    "aliases": [
+        "/CYP24A1+gene+and+Vitamin+D+-+many+studies",
+        "/1447"
+    ],
+    "tiki_page_id": 1447,
+    "date": "2011-03-02",
+    "categories": [
+        "Genetics"
+    ],
+    "tags": [
+        "CKD",
+        "CYPA",
+        "CYPB",
+        "CYPR",
+        "Genetics",
+        "IBD",
+        "NAFLD",
+        "asthma",
+        "asthma receptor",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "cholesterol",
+        "colon cancer",
+        "cystic fibrosis",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "endometrial cancer",
+        "epigenetics",
+        "genetics",
+        "gut",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "kidney",
+        "liver",
+        "lung cancer",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "ovarian cancer",
+        "pain",
+        "pancreatitis",
+        "pediatric autoimmune",
+        "placenta",
+        "pregnancy",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "tuberculosis",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
 }
+
 
 <!-- ~tc~start2 ~/tc~ -->
 

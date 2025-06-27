@@ -1,15 +1,25 @@
 {
-  "title": "Elderly with more than 257 IU vitamin D daily had less cognitive impairment",
-  "slug": "elderly-with-more-than-257-iu-vitamin-d-daily-had-less-cognitive-impairment",
-  "aliases": [
-    "/Elderly+with+more+than+257+IU+vitamin+D+daily+had+less+cognitive+impairment+\u2013+Nov+2010",
-    "/1160"
-  ],
-  "tiki_page_id": 1160,
-  "date": "2010-11-22",
-  "categories": [
-    "Cognitive"
-  ]
+    "title": "Elderly with more than 257 IU vitamin D daily had less cognitive impairment",
+    "slug": "elderly-with-more-than-257-iu-vitamin-d-daily-had-less-cognitive-impairment",
+    "aliases": [
+        "/Elderly+with+more+than+257+IU+vitamin+D+daily+had+less+cognitive+impairment+\u2013+Nov+2010",
+        "/1160"
+    ],
+    "tiki_page_id": 1160,
+    "date": "2010-11-22",
+    "categories": [
+        "Cognitive"
+    ],
+    "tags": [
+        "Cognitive",
+        "brain",
+        "cognitive",
+        "depression",
+        "dosage",
+        "hypertension",
+        "mood disorders",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,16 +1,23 @@
 {
-  "title": "Higher BMI need more vitamin D",
-  "slug": "higher-bmi-need-more-vitamin-d",
-  "aliases": [
-    "/Higher+BMI+need+more+vitamin+D+\u2013+Oct+2010",
-    "/1300"
-  ],
-  "tiki_page_id": 1300,
-  "date": "2011-01-08",
-  "categories": [
-    "How much Vitamin D",
-    "Obesity"
-  ]
+    "title": "Higher BMI need more vitamin D",
+    "slug": "higher-bmi-need-more-vitamin-d",
+    "aliases": [
+        "/Higher+BMI+need+more+vitamin+D+\u2013+Oct+2010",
+        "/1300"
+    ],
+    "tiki_page_id": 1300,
+    "date": "2011-01-08",
+    "categories": [
+        "How much Vitamin D",
+        "Obesity"
+    ],
+    "tags": [
+        "How much Vitamin D",
+        "Obesity",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

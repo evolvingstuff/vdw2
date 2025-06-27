@@ -1,18 +1,25 @@
 {
-  "title": "Cheese fortified with vitamin D",
-  "slug": "cheese-fortified-with-vitamin-d",
-  "aliases": [
-    "/Cheese+fortified+with+vitamin+D",
-    "/1767"
-  ],
-  "tiki_page_id": 1767,
-  "date": "2011-06-27",
-  "categories": [
-    "Fortification with Vitamin D"
-  ]
+    "title": "Cheese fortified with vitamin D",
+    "slug": "cheese-fortified-with-vitamin-d",
+    "aliases": [
+        "/Cheese+fortified+with+vitamin+D",
+        "/1767"
+    ],
+    "tiki_page_id": 1767,
+    "date": "2011-06-27",
+    "categories": [
+        "Fortification with Vitamin D"
+    ],
+    "tags": [
+        "Fortification with Vitamin D",
+        "bacteria",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
- **Yes, some cheeses have virtually no lactose, and so can be eaten by people who are lactose intollerant** 
+
+**Yes, some cheeses have virtually no lactose, and so can be eaten by people who are lactose intollerant** 
 
  **Yes, Vitamin D can be added to cheese without affecting its taste, texture, color, etc.** 
 

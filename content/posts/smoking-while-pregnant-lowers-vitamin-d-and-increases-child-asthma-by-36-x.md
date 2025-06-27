@@ -1,17 +1,30 @@
 {
-  "title": "Smoking while pregnant lowers vitamin D and increases child asthma by 3.6 X",
-  "slug": "smoking-while-pregnant-lowers-vitamin-d-and-increases-child-asthma-by-36-x",
-  "aliases": [
-    "/Smoking+while+pregnant+lowers+vitamin+D+and+increases+child+asthma+by+36+X+\u2013+Aug+2011",
-    "/1953"
-  ],
-  "tiki_page_id": 1953,
-  "date": "2011-08-25",
-  "categories": [
-    "Breathing",
-    "Pregnancy"
-  ]
+    "title": "Smoking while pregnant lowers vitamin D and increases child asthma by 3.6 X",
+    "slug": "smoking-while-pregnant-lowers-vitamin-d-and-increases-child-asthma-by-36-x",
+    "aliases": [
+        "/Smoking+while+pregnant+lowers+vitamin+D+and+increases+child+asthma+by+36+X+\u2013+Aug+2011",
+        "/1953"
+    ],
+    "tiki_page_id": 1953,
+    "date": "2011-08-25",
+    "categories": [
+        "Breathing",
+        "Pregnancy"
+    ],
+    "tags": [
+        "Breathing",
+        "Pregnancy",
+        "asthma",
+        "breathing",
+        "child",
+        "dosage",
+        "health risk",
+        "pregnancy",
+        "smoking",
+        "vitamin d"
+    ]
 }
+
 
 The title of this page is the conclusion of a  **<span style="color:#00F;">Sept 2011</span>**  study – bullet point summary are below
 
@@ -66,4 +79,3 @@ Suggestion - if you must smoke while pregnant, take at least 6,000 IU of vitamin
 * [Quitting Smoking Before Pregnancy Could Save Babies' Lives](http://www.physorg.com/news195297779.html%20) June 2010
 
 * [Smoking, dietary calcium and vitamin D deficiency in women: a population-based study -2000](http://www.ncbi.nlm.nih.gov/pubmed/11002379)
-

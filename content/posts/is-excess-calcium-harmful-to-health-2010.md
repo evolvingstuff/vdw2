@@ -1,18 +1,61 @@
 {
-  "title": "Is excess calcium harmful to health - 2010",
-  "slug": "is-excess-calcium-harmful-to-health-2010",
-  "aliases": [
-    "/Is+excess+calcium+harmful+to+health+-+2010",
-    "/1965"
-  ],
-  "tiki_page_id": 1965,
-  "date": "2011-08-28",
-  "categories": [
-    "Cardiovascular",
-    "Vitamin D and Calcium",
-    "Kidney Stones"
-  ]
+    "title": "Is excess calcium harmful to health - 2010",
+    "slug": "is-excess-calcium-harmful-to-health-2010",
+    "aliases": [
+        "/Is+excess+calcium+harmful+to+health+-+2010",
+        "/1965"
+    ],
+    "tiki_page_id": 1965,
+    "date": "2011-08-28",
+    "categories": [
+        "Cardiovascular",
+        "Vitamin D and Calcium",
+        "Kidney Stones"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Kidney Stones",
+        "Vitamin D and Calcium",
+        "atherosclerosis",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "brain",
+        "cancer",
+        "cardiovascular",
+        "cholesterol",
+        "cognitive",
+        "dementia",
+        "depression",
+        "diabetes",
+        "dialysis",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "hemodialysis",
+        "hip fractures",
+        "hypertension",
+        "kidney",
+        "life span",
+        "magnesium",
+        "magnesium and cancer",
+        "metabolic",
+        "mood disorders",
+        "mortality",
+        "obesity",
+        "obesity and cancer",
+        "osteoporosis",
+        "smoking",
+        "stroke",
+        "stroke and depression",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 

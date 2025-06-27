@@ -1,15 +1,22 @@
 {
-  "title": "Swine need sunshine or 500-2800 IU vitamin D3",
-  "slug": "swine-need-sunshine-or-500-2800-iu-vitamin-d3",
-  "aliases": [
-    "/Swine+need+sunshine+or+500-2800+IU+vitamin+D3",
-    "/1435"
-  ],
-  "tiki_page_id": 1435,
-  "date": "2011-02-25",
-  "categories": [
-    "Veterinary and Vitamin D"
-  ]
+    "title": "Swine need sunshine or 500-2800 IU vitamin D3",
+    "slug": "swine-need-sunshine-or-500-2800-iu-vitamin-d3",
+    "aliases": [
+        "/Swine+need+sunshine+or+500-2800+IU+vitamin+D3",
+        "/1435"
+    ],
+    "tiki_page_id": 1435,
+    "date": "2011-02-25",
+    "categories": [
+        "Veterinary and Vitamin D"
+    ],
+    "tags": [
+        "Veterinary and Vitamin D",
+        "bone",
+        "dosage",
+        "rickets",
+        "vitamin d"
+    ]
 }
 
 
@@ -47,4 +54,4 @@
 
    * Having extra vitamin D in swine feed might provide extra vitamin D in human diet (via lard, pork chops, bacon) without FDA "food fortification" restrictions
 
-* <a href="/posts/free-range-bacon-has-2800-iu-of-vitamin-d-per-100-grams" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3048">Free-range bacon has 2800 IU of vitamin D per 100 grams</a>
+* [Free-range bacon has 2800 IU of vitamin D per 100 grams](/posts/free-range-bacon-has-2800-iu-of-vitamin-d-per-100-grams)

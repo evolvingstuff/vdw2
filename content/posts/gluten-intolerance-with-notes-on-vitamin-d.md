@@ -1,15 +1,31 @@
 {
-  "title": "Gluten Intolerance - with notes on vitamin D",
-  "slug": "gluten-intolerance-with-notes-on-vitamin-d",
-  "aliases": [
-    "/Gluten+Intolerance+-+with+notes+on+vitamin+D",
-    "/1211"
-  ],
-  "tiki_page_id": 1211,
-  "date": "2010-12-06",
-  "categories": [
-    "Gut"
-  ]
+    "title": "Gluten Intolerance - with notes on vitamin D",
+    "slug": "gluten-intolerance-with-notes-on-vitamin-d",
+    "aliases": [
+        "/Gluten+Intolerance+-+with+notes+on+vitamin+D",
+        "/1211"
+    ],
+    "tiki_page_id": 1211,
+    "date": "2010-12-06",
+    "categories": [
+        "Gut"
+    ],
+    "tags": [
+        "Gut",
+        "IBD",
+        "antibiotics",
+        "asthma",
+        "breathing",
+        "celiac",
+        "child",
+        "cholesterol",
+        "dosage",
+        "gut",
+        "health risk",
+        "magnesium",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 

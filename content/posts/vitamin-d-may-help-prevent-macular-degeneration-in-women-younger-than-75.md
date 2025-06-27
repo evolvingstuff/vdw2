@@ -1,17 +1,33 @@
 {
-  "title": "Vitamin D may help prevent macular degeneration in women younger than 75",
-  "slug": "vitamin-d-may-help-prevent-macular-degeneration-in-women-younger-than-75",
-  "aliases": [
-    "/Vitamin+D+may+help+prevent+macular+degeneration+in+women+younger+than+75+\u2013+April+2011",
-    "/1666"
-  ],
-  "tiki_page_id": 1666,
-  "date": "2011-05-26",
-  "categories": [
-    "Seniors",
-    "Vision"
-  ]
+    "title": "Vitamin D may help prevent macular degeneration in women younger than 75",
+    "slug": "vitamin-d-may-help-prevent-macular-degeneration-in-women-younger-than-75",
+    "aliases": [
+        "/Vitamin+D+may+help+prevent+macular+degeneration+in+women+younger+than+75+\u2013+April+2011",
+        "/1666"
+    ],
+    "tiki_page_id": 1666,
+    "date": "2011-05-26",
+    "categories": [
+        "Seniors",
+        "Vision"
+    ],
+    "tags": [
+        "Seniors",
+        "Vision",
+        "blood levels",
+        "diabetes",
+        "health risk",
+        "life span",
+        "macular degeneration",
+        "metabolic",
+        "mortality",
+        "smoking",
+        "vision",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 

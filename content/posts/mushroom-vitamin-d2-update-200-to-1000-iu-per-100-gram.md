@@ -1,16 +1,26 @@
 {
-  "title": "Mushroom vitamin D2 update \u2013 200 to 1000 IU per 100 gram",
-  "slug": "mushroom-vitamin-d2-update-200-to-1000-iu-per-100-gram",
-  "aliases": [
-    "/Mushroom+vitamin+D2+update+\u2013+200+to+1000+IU+per+100+gram+\u2013+June+2011",
-    "/1728"
-  ],
-  "tiki_page_id": 1728,
-  "date": "2011-06-15",
-  "categories": [
-    "Food sources for Vitamin D",
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Mushroom vitamin D2 update \u2013 200 to 1000 IU per 100 gram",
+    "slug": "mushroom-vitamin-d2-update-200-to-1000-iu-per-100-gram",
+    "aliases": [
+        "/Mushroom+vitamin+D2+update+\u2013+200+to+1000+IU+per+100+gram+\u2013+June+2011",
+        "/1728"
+    ],
+    "tiki_page_id": 1728,
+    "date": "2011-06-15",
+    "categories": [
+        "Food sources for Vitamin D",
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "Vitamin D3 instead of D2",
+        "autoimmune",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 

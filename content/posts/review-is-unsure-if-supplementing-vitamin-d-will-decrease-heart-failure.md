@@ -1,15 +1,27 @@
 {
-  "title": "Review is unsure if supplementing vitamin D will decrease heart failure",
-  "slug": "review-is-unsure-if-supplementing-vitamin-d-will-decrease-heart-failure",
-  "aliases": [
-    "/Review+is+unsure+if+supplementing+vitamin+D+will+decrease+heart+failure+\u2013+Feb+2011",
-    "/1405"
-  ],
-  "tiki_page_id": 1405,
-  "date": "2011-02-13",
-  "categories": [
-    "Cardiovascular"
-  ]
+    "title": "Review is unsure if supplementing vitamin D will decrease heart failure",
+    "slug": "review-is-unsure-if-supplementing-vitamin-d-will-decrease-heart-failure",
+    "aliases": [
+        "/Review+is+unsure+if+supplementing+vitamin+D+will+decrease+heart+failure+\u2013+Feb+2011",
+        "/1405"
+    ],
+    "tiki_page_id": 1405,
+    "date": "2011-02-13",
+    "categories": [
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "cardiovascular",
+        "genetics",
+        "heart failure",
+        "hypertension",
+        "life span",
+        "mortality",
+        "stroke",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -70,4 +82,3 @@ These results bring into questions whether vitamin D is a risk factor for HF, a 
 # See also VitaminDWiki: <span style="color:#F00;">STROKE</span>
 
 * <a href="/posts/overview-strokes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1353">Overview: Strokes and vitamin D</a>
-

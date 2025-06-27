@@ -1,17 +1,68 @@
 {
-  "title": "Many reasons why vitamin D deficiency has become epidemic",
-  "slug": "many-reasons-why-vitamin-d-deficiency-has-become-epidemic",
-  "aliases": [
-    "/Many+reasons+why+vitamin+D+deficiency+has+become+epidemic",
-    "/1586"
-  ],
-  "tiki_page_id": 1586,
-  "date": "2011-04-23",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "High Risk"
-  ]
+    "title": "Many reasons why vitamin D deficiency has become epidemic",
+    "slug": "many-reasons-why-vitamin-d-deficiency-has-become-epidemic",
+    "aliases": [
+        "/Many+reasons+why+vitamin+D+deficiency+has+become+epidemic",
+        "/1586"
+    ],
+    "tiki_page_id": 1586,
+    "date": "2011-04-23",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "High Risk"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "High Risk",
+        "IBD",
+        "SAD",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bariatric surgery",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "cataracts",
+        "celiac",
+        "cholesterol",
+        "colon cancer",
+        "cystic fibrosis",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "genetics",
+        "gut",
+        "health risk",
+        "high dose",
+        "intervention",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "melanoma",
+        "metabolic",
+        "mood disorders",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "myopia",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "pollution",
+        "pregnancy",
+        "skin cancer",
+        "smoking",
+        "statins",
+        "therapeutic intervention",
+        "trauma surgery",
+        "vision",
+        "vitamin d",
+        "vitamin d binding",
+        "vitamin d receptor",
+        "vitamin k"
+    ]
 }
+
 
 <!-- ~tc~ start copy here ~/tc~ -->
 
@@ -99,11 +150,11 @@
 
 > [surfers in Hawaii](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=298) (PDF), who drank a large amount of cola soft drink, had low levels of vitamin D
 
-> <a href="/posts/too-much-fructose-reduced-both-serum-and-active-vitamin-d-in-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Too much fructose reduced both serum and active vitamin D in rats – April 2013">Too much fructose reduced both serum and active vitamin D in rats – April 2013</a>
+> [Too much fructose reduced both serum and active vitamin D in rats – April 2013](/posts/too-much-fructose-reduced-both-serum-and-active-vitamin-d-in-rats)
 
 > <a href="/posts/fructose-high-fructose-corn-syrup-consumes-2x-more-magnesium-than-sugar" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fructose (High Fructose Corn Syrup) consumes 2X more Magnesium than sugar – May 2014">HFCS consumes Magnesium needed by Vitamin D</a>
 
-> &nbsp; &nbsp;note: <a href="/posts/fructose-reduces-blood-levels-of-active-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fructose reduces blood levels of active vitamin D">Fructose also reduces active vitamin D actually getting to cells - not seen by blood tests</a>
+> &nbsp; &nbsp;note: [Fructose also reduces active vitamin D actually getting to cells - not seen by blood tests](/posts/fructose-reduces-blood-levels-of-active-vitamin-d)
 
 1.  **Increased consumption of Ultra-processed foods** 
 
@@ -163,7 +214,7 @@
 
 > <a href="/posts/a-way-to-get-40x-more-vitamin-d-from-beef-liver" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1801">A way to get 40X more vitamin D from beef liver</a> back were it used to be
 
-> <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>
+> [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
 
 1.  **Less Magnesium in foods and drink - Magnesium is needed to utilize vitamin D (as well as build bones)** 
 
@@ -299,7 +350,7 @@
 
 >  **Myth**  Vitamin D2 is almost as good as vitamin D3 (several studies have shown that vitamin D2 DECREASES serum levels of D3) 
 
-> See also <a href="/posts/vitamin-d-facts-and-myths" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D - Facts and Myths">Vitamin D - Facts and Myths</a>
+> See also [Vitamin D - Facts and Myths](/posts/vitamin-d-facts-and-myths)
 
 <!-- ~tc~ end copy here ~/tc~ -->
 
@@ -381,7 +432,7 @@
 
 1. <a href="/posts/many-statins-increase-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 444">Many  **statins**  increase vitamin D levels</a>
 
-1. <a href="/posts/oral-contraceptive-use-associated-with-higher-levels-of-vitamin-d-thesis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012">Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012</a> but this idea is contested.
+1. [Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012](/posts/oral-contraceptive-use-associated-with-higher-levels-of-vitamin-d-thesis) but this idea is contested.
 
 ---
 
@@ -389,4 +440,4 @@
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
- **<span style="color:#090;">Short URL = http://is.gd/lowvitamind</span>** 
+ **<span style="color:#090;">Short URL = http://is.gd/lowvitamind</span>**

@@ -1,17 +1,29 @@
 {
-  "title": "Ultra-orthodox Jews also suffer from 10 ng vitamin D levels (cloth)",
-  "slug": "ultra-orthodox-jews-also-suffer-from-10-ng-vitamin-d-levels-cloth",
-  "aliases": [
-    "/Ultra-orthodox+Jews+also+suffer+from+10+ng+vitamin+D+levels+cloth+\u2013+Nov+2010",
-    "/1190"
-  ],
-  "tiki_page_id": 1190,
-  "date": "2010-11-27",
-  "categories": [
-    "Middle East",
-    "High Risk"
-  ]
+    "title": "Ultra-orthodox Jews also suffer from 10 ng vitamin D levels (cloth)",
+    "slug": "ultra-orthodox-jews-also-suffer-from-10-ng-vitamin-d-levels-cloth",
+    "aliases": [
+        "/Ultra-orthodox+Jews+also+suffer+from+10+ng+vitamin+D+levels+cloth+\u2013+Nov+2010",
+        "/1190"
+    ],
+    "tiki_page_id": 1190,
+    "date": "2010-11-27",
+    "categories": [
+        "Middle East",
+        "High Risk"
+    ],
+    "tags": [
+        "High Risk",
+        "Middle East",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "diabetes",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 

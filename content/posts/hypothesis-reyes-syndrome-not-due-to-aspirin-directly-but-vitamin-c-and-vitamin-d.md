@@ -1,15 +1,20 @@
 {
-  "title": "Hypothesis: Reyes Syndrome not due to aspirin directly but vitamin C and vitamin D",
-  "slug": "hypothesis-reyes-syndrome-not-due-to-aspirin-directly-but-vitamin-c-and-vitamin-d",
-  "aliases": [
-    "/Hypothesis+Reyes+Syndrome+not+due+to+aspirin+directly+but+vitamin+C+and+vitamin+D+-+Sept+2011",
-    "/2030"
-  ],
-  "tiki_page_id": 2030,
-  "date": "2011-09-25",
-  "categories": [
-    "More D topics"
-  ]
+    "title": "Hypothesis: Reyes Syndrome not due to aspirin directly but vitamin C and vitamin D",
+    "slug": "hypothesis-reyes-syndrome-not-due-to-aspirin-directly-but-vitamin-c-and-vitamin-d",
+    "aliases": [
+        "/Hypothesis+Reyes+Syndrome+not+due+to+aspirin+directly+but+vitamin+C+and+vitamin+D+-+Sept+2011",
+        "/2030"
+    ],
+    "tiki_page_id": 2030,
+    "date": "2011-09-25",
+    "categories": [
+        "More D topics"
+    ],
+    "tags": [
+        "More D topics",
+        "child",
+        "vitamin d"
+    ]
 }
 
 

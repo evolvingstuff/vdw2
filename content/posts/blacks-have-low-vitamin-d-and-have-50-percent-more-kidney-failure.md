@@ -1,16 +1,27 @@
 {
-  "title": "Blacks have low vitamin D and have 50 percent more kidney failure",
-  "slug": "blacks-have-low-vitamin-d-and-have-50-percent-more-kidney-failure",
-  "aliases": [
-    "/Blacks+have+low+vitamin+D+and+have+50+percent+more+kidney+failure+\u2013+Sept+2011",
-    "/2020"
-  ],
-  "tiki_page_id": 2020,
-  "date": "2011-09-20",
-  "categories": [
-    "Skin - Dark",
-    "Kidney"
-  ]
+    "title": "Blacks have low vitamin D and have 50 percent more kidney failure",
+    "slug": "blacks-have-low-vitamin-d-and-have-50-percent-more-kidney-failure",
+    "aliases": [
+        "/Blacks+have+low+vitamin+D+and+have+50+percent+more+kidney+failure+\u2013+Sept+2011",
+        "/2020"
+    ],
+    "tiki_page_id": 2020,
+    "date": "2011-09-20",
+    "categories": [
+        "Skin - Dark",
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "Skin - Dark",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "metabolic",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

@@ -1,18 +1,38 @@
 {
-  "title": "MS associated with 29 new and 23 previously known gene variants",
-  "slug": "ms-associated-with-29-new-and-23-previously-known-gene-variants",
-  "aliases": [
-    "/MS+associated+with+29+new+and+23+previously+known+gene+variants+\u2013+Aug+2011",
-    "/1909"
-  ],
-  "tiki_page_id": 1909,
-  "date": "2011-08-10",
-  "categories": [
-    "Multiple Sclerosis"
-  ]
+    "title": "MS associated with 29 new and 23 previously known gene variants",
+    "slug": "ms-associated-with-29-new-and-23-previously-known-gene-variants",
+    "aliases": [
+        "/MS+associated+with+29+new+and+23+previously+known+gene+variants+\u2013+Aug+2011",
+        "/1909"
+    ],
+    "tiki_page_id": 1909,
+    "date": "2011-08-10",
+    "categories": [
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "autoimmune",
+        "brain",
+        "cognitive",
+        "crohns",
+        "diabetes",
+        "gut",
+        "high dose",
+        "immunity",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "neurological",
+        "spinal cord",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "vitamin d"
+    ]
 }
 
- **Following press release is translated from German, and is followed by abstract** 
+
+**Following press release is translated from German, and is followed by abstract** 
 
 ### Multiple sclerosis is a disease of the immune system
 

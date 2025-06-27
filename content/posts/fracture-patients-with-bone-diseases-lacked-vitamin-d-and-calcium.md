@@ -1,15 +1,26 @@
 {
-  "title": "Fracture patients with bone diseases lacked vitamin D and calcium",
-  "slug": "fracture-patients-with-bone-diseases-lacked-vitamin-d-and-calcium",
-  "aliases": [
-    "/Fracture+patients+with+bone+diseases+lacked+vitamin+D+and+calcium+\u2013+Mar+2011",
-    "/1494"
-  ],
-  "tiki_page_id": 1494,
-  "date": "2011-03-19",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "Fracture patients with bone diseases lacked vitamin D and calcium",
+    "slug": "fracture-patients-with-bone-diseases-lacked-vitamin-d-and-calcium",
+    "aliases": [
+        "/Fracture+patients+with+bone+diseases+lacked+vitamin+D+and+calcium+\u2013+Mar+2011",
+        "/1494"
+    ],
+    "tiki_page_id": 1494,
+    "date": "2011-03-19",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "blood levels",
+        "bone",
+        "bone mineral density",
+        "bone stress fractures",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -36,4 +47,3 @@ PMID: 21411547
 # See also VitaminDWiki
 
 * <a href="/posts/overview-bone-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview: Bone fractures and vitamin D</a>
-

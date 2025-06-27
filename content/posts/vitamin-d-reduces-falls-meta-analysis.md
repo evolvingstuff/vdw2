@@ -1,16 +1,25 @@
 {
-  "title": "Vitamin D reduces falls \u2013 meta-analysis",
-  "slug": "vitamin-d-reduces-falls-meta-analysis",
-  "aliases": [
-    "/Vitamin+D+reduces+falls+\u2013+meta-analysis+Oct+2011",
-    "/2069"
-  ],
-  "tiki_page_id": 2069,
-  "date": "2011-10-07",
-  "categories": [
-    "Meta-analysis of Vitamin D",
-    "Falls and Fractures"
-  ]
+    "title": "Vitamin D reduces falls \u2013 meta-analysis",
+    "slug": "vitamin-d-reduces-falls-meta-analysis",
+    "aliases": [
+        "/Vitamin+D+reduces+falls+\u2013+meta-analysis+Oct+2011",
+        "/2069"
+    ],
+    "tiki_page_id": 2069,
+    "date": "2011-10-07",
+    "categories": [
+        "Meta-analysis of Vitamin D",
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "Meta-analysis of Vitamin D",
+        "bone",
+        "diabetes",
+        "falls fractures",
+        "metabolic",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,15 +1,23 @@
 {
-  "title": "Vitamin D tests had poor agreement \u2013 yet again",
-  "slug": "vitamin-d-tests-had-poor-agreement-yet-again",
-  "aliases": [
-    "/Vitamin+D+tests+had+poor+agreement+\u2013+yet+again+\u2013+April+2011",
-    "/1598"
-  ],
-  "tiki_page_id": 1598,
-  "date": "2011-05-03",
-  "categories": [
-    "Tests for Vitamin D"
-  ]
+    "title": "Vitamin D tests had poor agreement \u2013 yet again",
+    "slug": "vitamin-d-tests-had-poor-agreement-yet-again",
+    "aliases": [
+        "/Vitamin+D+tests+had+poor+agreement+\u2013+yet+again+\u2013+April+2011",
+        "/1598"
+    ],
+    "tiki_page_id": 1598,
+    "date": "2011-05-03",
+    "categories": [
+        "Tests for Vitamin D"
+    ],
+    "tags": [
+        "Tests for Vitamin D",
+        "blood levels",
+        "cancer",
+        "skin cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -36,4 +44,3 @@ The lack of agreement between the two assays is a concern. Few doctors are aware
 * <span>[One vitamin D blood test said toxic the other said normal – Aug 2010]</span>
 
 * <a href="/posts/vitamin-d-blood-test-uncertainty-about-15-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 778">Vitamin D blood test uncertainty about 15 percent – Aug 2010</a>
-

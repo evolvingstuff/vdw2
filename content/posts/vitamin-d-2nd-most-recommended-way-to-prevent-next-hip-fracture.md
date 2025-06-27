@@ -1,15 +1,25 @@
 {
-  "title": "Vitamin D 2nd most recommended way to prevent next hip fracture",
-  "slug": "vitamin-d-2nd-most-recommended-way-to-prevent-next-hip-fracture",
-  "aliases": [
-    "/Vitamin+D+2nd+most+recommended+way+to+prevent+next+hip+fracture+\u2013+Nov+2010",
-    "/1142"
-  ],
-  "tiki_page_id": 1142,
-  "date": "2010-11-15",
-  "categories": [
-    "Falls and Fractures"
-  ]
+    "title": "Vitamin D 2nd most recommended way to prevent next hip fracture",
+    "slug": "vitamin-d-2nd-most-recommended-way-to-prevent-next-hip-fracture",
+    "aliases": [
+        "/Vitamin+D+2nd+most+recommended+way+to+prevent+next+hip+fracture+\u2013+Nov+2010",
+        "/1142"
+    ],
+    "tiki_page_id": 1142,
+    "date": "2010-11-15",
+    "categories": [
+        "Falls and Fractures"
+    ],
+    "tags": [
+        "Falls and Fractures",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "cancer",
+        "falls fractures",
+        "hip fractures",
+        "vitamin d"
+    ]
 }
 
 

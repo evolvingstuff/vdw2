@@ -1,18 +1,57 @@
 {
-  "title": "Overview Tuberculosis and Vitamin D",
-  "slug": "overview-tuberculosis-and-vitamin-d",
-  "aliases": [
-    "/Overview+Tuberculosis+and+Vitamin+D",
-    "/1421"
-  ],
-  "tiki_page_id": 1421,
-  "date": "2011-02-19",
-  "categories": [
-    "Tuberculosis",
-    "Overviews",
-    "Intervention",
-    "AI"
-  ]
+    "title": "Overview Tuberculosis and Vitamin D",
+    "slug": "overview-tuberculosis-and-vitamin-d",
+    "aliases": [
+        "/Overview+Tuberculosis+and+Vitamin+D",
+        "/1421"
+    ],
+    "tiki_page_id": 1421,
+    "date": "2011-02-19",
+    "categories": [
+        "Tuberculosis",
+        "Overviews",
+        "Intervention",
+        "AI"
+    ],
+    "tags": [
+        "AI",
+        "Intervention",
+        "Overviews",
+        "Tuberculosis",
+        "antibiotics",
+        "autoimmune",
+        "bacteria",
+        "breathing",
+        "child",
+        "childhood pneumonia",
+        "childhood respiratory",
+        "childhood viruses",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "genetics",
+        "high dose",
+        "immunity",
+        "influenza",
+        "intervention",
+        "lupus",
+        "metabolic",
+        "pain",
+        "pediatric autoimmune",
+        "pneumonia",
+        "probiotics",
+        "respiratory",
+        "rheumatoid arthritis",
+        "sepsis",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "virus",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d receptor"
+    ]
 }
 
 
@@ -171,17 +210,17 @@ However, for reasons that are unclear, these treatments are no longer being used
 
 * <a href="/posts/the-antibiotic-effects-of-vitamin-d-2014" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Antibiotic Effects of Vitamin D – 2014">The Antibiotic Effects of Vitamin D – 2014</a>
 
-* <a href="/posts/every-tb-patient-benefited-from-2-doses-of-600000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013">Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013</a>
+* [Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013](/posts/every-tb-patient-benefited-from-2-doses-of-600000-iu-of-vitamin-d-rct)
 
 * <a href="/posts/children-with-active-tb-were-46x-more-likely-to-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children with active TB were 4.6X more likely to have low vitamin D – Dec 2014">Children with active TB were 4.6X more likely to have low vitamin D – Dec 2014</a>
 
 * <a href="/posts/tb-conversion-6-percent-less-likely-with-just-1-ng-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: TB conversion 6 percent less likely with just 1 ng more vitamin D – Oct 2014">TB conversion 6 percent less likely with just 1 ng more vitamin D – Oct 2014</a>
 
-* <a href="/posts/tuberculosis-ethnic-differences-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tuberculosis, ethnic differences, and vitamin D – July 2013">Tuberculosis, ethnic differences, and vitamin D – July 2013</a>
+* [Tuberculosis, ethnic differences, and vitamin D – July 2013](/posts/tuberculosis-ethnic-differences-and-vitamin-d)
 
 * <a href="/posts/vitamin-d-and-infectious-diseases-like-rti-tb-and-sepsis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and infectious diseases like RTI, TB and Sepsis – Nov 2014">Vitamin D and infectious diseases like RTI, TB and Sepsis – Nov 2014</a>
 
-* <a href="/posts/multidrug-resistant-tuberculosis-may-be-reduced-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3222">Multidrug-resistant tuberculosis may be reduced with vitamin D – Sept 2012</a>
+* [Multidrug-resistant tuberculosis may be reduced with vitamin D – Sept 2012](/posts/multidrug-resistant-tuberculosis-may-be-reduced-with-vitamin-d)
 
 * Study of TB seasonality over 28 years  **<span style="color:#00F;">PDF is attached at the bottom of this page</span>** 
 
@@ -293,7 +332,7 @@ It's important to note that the actual cost can vary greatly depending on indivi
 
 > Vitamin D deficiency is common in patients with active TB,
 
-* A. Martineau organized the <a href="/posts/vitamin-d-conference-in-england-april-23-25-2014" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D conference in England - April 23-25 2014">Vitamin D conference in England - April 23-25 2014</a>
+* A. Martineau organized the [Vitamin D conference in England - April 23-25 2014](/posts/vitamin-d-conference-in-england-april-23-25-2014)
 
 * Vitamin D and tuberculosis: more effective in prevention than treatment?
 

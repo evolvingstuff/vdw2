@@ -1,16 +1,26 @@
 {
-  "title": "Teenage knee injury 4X increase in last decade in Philadelphia",
-  "slug": "teenage-knee-injury-4x-increase-in-last-decade-in-philadelphia",
-  "aliases": [
-    "/Teenage+knee+injury+4X+increase+in+last+decade+in+Philadelphia+\u2013+Oct+2011",
-    "/2092"
-  ],
-  "tiki_page_id": 2092,
-  "date": "2011-10-16",
-  "categories": [
-    "Sports and Vitamin D",
-    "Youth"
-  ]
+    "title": "Teenage knee injury 4X increase in last decade in Philadelphia",
+    "slug": "teenage-knee-injury-4x-increase-in-last-decade-in-philadelphia",
+    "aliases": [
+        "/Teenage+knee+injury+4X+increase+in+last+decade+in+Philadelphia+\u2013+Oct+2011",
+        "/2092"
+    ],
+    "tiki_page_id": 2092,
+    "date": "2011-10-16",
+    "categories": [
+        "Sports and Vitamin D",
+        "Youth"
+    ],
+    "tags": [
+        "Sports and Vitamin D",
+        "Youth",
+        "bone",
+        "child",
+        "concussions",
+        "falls fractures",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 
@@ -47,4 +57,3 @@ Researchers at the Children's Hospital of Philadelphia noted a more than 400 per
    * notice the faster reaction time (thus less likely to fall) when people (back in year 2000) had more vitamin D
 
 {IMG(fileId="420", height = "600")}{IMG}
-

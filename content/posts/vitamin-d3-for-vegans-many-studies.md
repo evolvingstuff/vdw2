@@ -1,17 +1,38 @@
 {
-  "title": "Vitamin D3 for Vegans - many studies",
-  "slug": "vitamin-d3-for-vegans-many-studies",
-  "aliases": [
-    "/Vitamin+D3+for+Vegans+-+many+studies",
-    "/2136"
-  ],
-  "tiki_page_id": 2136,
-  "date": "2011-10-30",
-  "categories": [
-    "Vitamin D3 instead of D2",
-    "Forms of Vitamin D"
-  ]
+    "title": "Vitamin D3 for Vegans - many studies",
+    "slug": "vitamin-d3-for-vegans-many-studies",
+    "aliases": [
+        "/Vitamin+D3+for+Vegans+-+many+studies",
+        "/2136"
+    ],
+    "tiki_page_id": 2136,
+    "date": "2011-10-30",
+    "categories": [
+        "Vitamin D3 instead of D2",
+        "Forms of Vitamin D"
+    ],
+    "tags": [
+        "Forms of Vitamin D",
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "breathing",
+        "child",
+        "cystic fibrosis",
+        "dosage",
+        "iodine",
+        "magnesium",
+        "magnesium and pregnancy",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "pregnancy",
+        "vitamin d",
+        "vitamin k",
+        "zinc"
+    ]
 }
+
 
 {{< toc >}}
 

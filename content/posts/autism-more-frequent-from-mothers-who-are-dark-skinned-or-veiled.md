@@ -1,16 +1,24 @@
 {
-  "title": "Autism more frequent from mothers who are dark skinned or veiled",
-  "slug": "autism-more-frequent-from-mothers-who-are-dark-skinned-or-veiled",
-  "aliases": [
-    "/Autism+more+frequent+from+mothers+who+are+dark+skinned+or+veiled+\u2013+Jan+2011",
-    "/1313"
-  ],
-  "tiki_page_id": 1313,
-  "date": "2011-01-12",
-  "categories": [
-    "Skin - Dark",
-    "Autism"
-  ]
+    "title": "Autism more frequent from mothers who are dark skinned or veiled",
+    "slug": "autism-more-frequent-from-mothers-who-are-dark-skinned-or-veiled",
+    "aliases": [
+        "/Autism+more+frequent+from+mothers+who+are+dark+skinned+or+veiled+\u2013+Jan+2011",
+        "/1313"
+    ],
+    "tiki_page_id": 1313,
+    "date": "2011-01-12",
+    "categories": [
+        "Skin - Dark",
+        "Autism"
+    ],
+    "tags": [
+        "Autism",
+        "Skin - Dark",
+        "brain",
+        "cognitive",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 
@@ -36,4 +44,4 @@ Conclusion:? These results are consistent with the maternal vitamin D insufficie
 
 * <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview Autism and vitamin D</a>
 
-© 2011 John Wiley & Sons A/S. PMID: 21219265 
+© 2011 John Wiley & Sons A/S. PMID: 21219265

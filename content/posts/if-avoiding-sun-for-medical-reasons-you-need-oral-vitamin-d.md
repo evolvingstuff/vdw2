@@ -1,16 +1,28 @@
 {
-  "title": "If avoiding sun for medical reasons you need oral vitamin D",
-  "slug": "if-avoiding-sun-for-medical-reasons-you-need-oral-vitamin-d",
-  "aliases": [
-    "/If+avoiding+sun+for+medical+reasons+you+need+oral+vitamin+D+\u2013+April+2011",
-    "/1599"
-  ],
-  "tiki_page_id": 1599,
-  "date": "2011-05-03",
-  "categories": [
-    "Cancer - Skin",
-    "Forms of Vitamin D"
-  ]
+    "title": "If avoiding sun for medical reasons you need oral vitamin D",
+    "slug": "if-avoiding-sun-for-medical-reasons-you-need-oral-vitamin-d",
+    "aliases": [
+        "/If+avoiding+sun+for+medical+reasons+you+need+oral+vitamin+D+\u2013+April+2011",
+        "/1599"
+    ],
+    "tiki_page_id": 1599,
+    "date": "2011-05-03",
+    "categories": [
+        "Cancer - Skin",
+        "Forms of Vitamin D"
+    ],
+    "tags": [
+        "Cancer - Skin",
+        "Forms of Vitamin D",
+        "autoimmune",
+        "cancer",
+        "high dose",
+        "intervention",
+        "lupus",
+        "melanoma",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
 
 
@@ -37,4 +49,3 @@ Conclusion?  Unexpected, significant increases in vitamin D levels were seen in 
 © 2011 The Authors. Journal of the European Academy of Dermatology and Venereology © 2011 European Academy of Dermatology and Venereology.
 
 PMID:     21521378
-

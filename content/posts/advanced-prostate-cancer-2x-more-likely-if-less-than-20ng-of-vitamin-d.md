@@ -1,15 +1,25 @@
 {
-  "title": "Advanced Prostate Cancer 2X more likely if less than 20ng of vitamin D",
-  "slug": "advanced-prostate-cancer-2x-more-likely-if-less-than-20ng-of-vitamin-d",
-  "aliases": [
-    "/Advanced+Prostate+Cancer+2X+more+likely+if+less+than+20ng+of+vitamin+D+\u2013+Oct+2011",
-    "/2129"
-  ],
-  "tiki_page_id": 2129,
-  "date": "2011-10-29",
-  "categories": [
-    "Cancer - Prostate"
-  ]
+    "title": "Advanced Prostate Cancer 2X more likely if less than 20ng of vitamin D",
+    "slug": "advanced-prostate-cancer-2x-more-likely-if-less-than-20ng-of-vitamin-d",
+    "aliases": [
+        "/Advanced+Prostate+Cancer+2X+more+likely+if+less+than+20ng+of+vitamin+D+\u2013+Oct+2011",
+        "/2129"
+    ],
+    "tiki_page_id": 2129,
+    "date": "2011-10-29",
+    "categories": [
+        "Cancer - Prostate"
+    ],
+    "tags": [
+        "Cancer - Prostate",
+        "blood levels",
+        "cancer",
+        "epigenetics",
+        "genetics",
+        "prostate cancer",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

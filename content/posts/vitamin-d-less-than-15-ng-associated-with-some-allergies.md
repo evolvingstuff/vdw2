@@ -1,17 +1,31 @@
 {
-  "title": "Vitamin D less than 15 ng associated with some allergies",
-  "slug": "vitamin-d-less-than-15-ng-associated-with-some-allergies",
-  "aliases": [
-    "/Vitamin+D+less+than+15+ng+associated+with+some+allergies+\u2013+Feb+2011",
-    "/1528"
-  ],
-  "tiki_page_id": 1528,
-  "date": "2011-03-30",
-  "categories": [
-    "Breathing",
-    "Autoimmune"
-  ]
+    "title": "Vitamin D less than 15 ng associated with some allergies",
+    "slug": "vitamin-d-less-than-15-ng-associated-with-some-allergies",
+    "aliases": [
+        "/Vitamin+D+less+than+15+ng+associated+with+some+allergies+\u2013+Feb+2011",
+        "/1528"
+    ],
+    "tiki_page_id": 1528,
+    "date": "2011-03-30",
+    "categories": [
+        "Breathing",
+        "Autoimmune"
+    ],
+    "tags": [
+        "Autoimmune",
+        "Breathing",
+        "asthma",
+        "blood levels",
+        "breathing",
+        "child",
+        "childhood obesity",
+        "health risk",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 Vitamin D levels and food and environmental allergies in the United States: Results from the National Health and Nutrition Examination Survey 2005-2006.
 

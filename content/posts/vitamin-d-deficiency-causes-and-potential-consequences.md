@@ -1,16 +1,20 @@
 {
-  "title": "Vitamin D Deficiency Causes and Potential Consequences",
-  "slug": "vitamin-d-deficiency-causes-and-potential-consequences",
-  "aliases": [
-    "/Vitamin+D+Deficiency+Causes+and+Potential+Consequences+-+Feb+2011",
-    "/1379"
-  ],
-  "tiki_page_id": 1379,
-  "date": "2011-02-02",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "Vitamin D Deficiency Causes and Potential Consequences",
+    "slug": "vitamin-d-deficiency-causes-and-potential-consequences",
+    "aliases": [
+        "/Vitamin+D+Deficiency+Causes+and+Potential+Consequences+-+Feb+2011",
+        "/1379"
+    ],
+    "tiki_page_id": 1379,
+    "date": "2011-02-02",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D"
+    ]
 }
+
 
 {IMG(fileId="1161")}{IMG}
 

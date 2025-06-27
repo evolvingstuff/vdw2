@@ -1,17 +1,30 @@
 {
-  "title": "97 percent of Native American children have  less than 30 ng of vitamin D",
-  "slug": "97-percent-of-native-american-children-have-less-than-30-ng-of-vitamin-d",
-  "aliases": [
-    "/97+percent+of+Native+American+children+have+less+than+30+ng+of+vitamin+D+\u2013+Oct+2011",
-    "/2117"
-  ],
-  "tiki_page_id": 2117,
-  "date": "2011-10-25",
-  "categories": [
-    "Skin - Dark",
-    "Diabetes",
-    "Youth"
-  ]
+    "title": "97 percent of Native American children have  less than 30 ng of vitamin D",
+    "slug": "97-percent-of-native-american-children-have-less-than-30-ng-of-vitamin-d",
+    "aliases": [
+        "/97+percent+of+Native+American+children+have+less+than+30+ng+of+vitamin+D+\u2013+Oct+2011",
+        "/2117"
+    ],
+    "tiki_page_id": 2117,
+    "date": "2011-10-25",
+    "categories": [
+        "Skin - Dark",
+        "Diabetes",
+        "Youth"
+    ],
+    "tags": [
+        "Diabetes",
+        "Skin - Dark",
+        "Youth",
+        "blood levels",
+        "child",
+        "childhood obesity",
+        "diabetes",
+        "health risk",
+        "metabolic",
+        "obesity",
+        "vitamin d"
+    ]
 }
 
 

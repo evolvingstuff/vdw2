@@ -1,16 +1,24 @@
 {
-  "title": "Virtually all veterans in ICU had vitamin D less than 32 ng",
-  "slug": "virtually-all-veterans-in-icu-had-vitamin-d-less-than-32-ng",
-  "aliases": [
-    "/Virtually+all+veterans+in+ICU+had+vitamin+D+less+than+32+ng+\u2013+Jan+2011",
-    "/1345"
-  ],
-  "tiki_page_id": 1345,
-  "date": "2011-01-24",
-  "categories": [
-    "Trauma and surgery",
-    "Cost savings with Vitamin D"
-  ]
+    "title": "Virtually all veterans in ICU had vitamin D less than 32 ng",
+    "slug": "virtually-all-veterans-in-icu-had-vitamin-d-less-than-32-ng",
+    "aliases": [
+        "/Virtually+all+veterans+in+ICU+had+vitamin+D+less+than+32+ng+\u2013+Jan+2011",
+        "/1345"
+    ],
+    "tiki_page_id": 1345,
+    "date": "2011-01-24",
+    "categories": [
+        "Trauma and surgery",
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "Trauma and surgery",
+        "blood levels",
+        "dosage",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -46,4 +54,4 @@ Dr. Wong said that he had no relevant financial conflicts of interest.
 
 * <a href="/posts/health-care-providers-save-by-providing-vitamin-d-before-andor-after-surgery-or-trauma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">Health Care Providers save $ by providing vitamin D before and/or after surgery or trauma</a> - reduces the time in bed, etc.
 
-* <a href="/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2305">VA found less testing for vitamin D resulted in increased health costs – Jan 2012</a>
+* [VA found less testing for vitamin D resulted in increased health costs – Jan 2012](/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs)

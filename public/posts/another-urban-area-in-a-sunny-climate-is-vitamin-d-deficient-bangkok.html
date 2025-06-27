@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>Another urban area in a sunny climate is vitamin D deficient – Bangkok</title>
+<link rel=stylesheet href="/css/main.css?v=1751038172"><link rel=stylesheet href="/css/pagination.css?v=1751038172"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038172"></script><script src="/js/search.js?v=1751038172"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Another urban area in a sunny climate is vitamin D deficient – Bangkok</h1><time>March 28, 2012</time><div data-pagefind-body><h3 id=regional-variation-and-determinants-of-vitamin-d-status-in-sunshine-abundant-thailand>Regional variation and determinants of vitamin D status in sunshine-abundant Thailand.</h3><p>BMC Public Health. 2011 Nov 10;11:853.</p><p>Chailurkit LO, Aekplakorn W, Ongphiphadhanakul B.</p><p>Department of Medicine, Ramathibodi Hospital, Mahidol University, Bangkok 10400, Thailand. <a href=mailto:ralcl@mahidol.ac.th>ralcl@mahidol.ac.th</a></p><p>BACKGROUND:</p><p>Vitamin D insufficiency is highly prevalent. Most of the studies concerning vitamin D status were generated from countries situated at temperate latitudes. It is less clear what the extent of vitamin D insufficiency is in countries situated in the tropics and how geographical regions within country would affect vitamin D status. In the present study, we investigated vitamin D status in Thais according to geographical regions and other risk factors.</p><p>METHODS:</p><p>Subjects consisted of 2,641 adults, aged 15 - 98 years, randomly selected from the Thai 4th National Health Examination Survey (2008-9) cohort. Serum 25 hydroxyvitamin D were measured by liquid chromatography/tandem mass spectrometry. Data were expressed as mean ± SE.</p><p>RESULTS:</p><p>Subjects residing in Bangkok, the capital city of Thailand, had lower 25(OH)D levels than other parts of the country (Bangkok, central, northern, northeastern and southern regions: 64.8 ± 0.7, 79.5 ± 1.1, 81.7 ± 1.2, 82.2 ± 0.8 and 78.3 ± 1.3 nmol/L, respectively; p &lt; 0.001). Within each region, except for the northeastern part of the country, subjects living inside municipal areas had lower circulating 25(OH)D (central, 77.0 ± 20.9 nmol/L vs 85.0 ± 22.1 nmol/L, p &lt; 0.001; north 79.3 ± 22.1 nmol/L vs 86.8 ± 21.8 nmol/L, p &lt; 0.001; northeast 84.1 ± 23.3 nmol/L vs 87.3 ± 20.9 nmol/L, p = 0.001; south, 76.6 ± 20.5 nmol/L vs 85.2 ± 24.7 nmol/L, p &lt; 0.001).</p><p>Overall, the prevalence of vitamin D insufficiency was 64.6%, 46.7%, and 33.5% in Bangkok, municipal areas except Bangkok, and outside municipal area in other parts of the country, respectively. In addition, the prevalence of vitamin D insufficiency according to geographical regions was 43.1%, 39.1%, 34.2% and 43.8% in the central, north, northeast and south, respectively. After controlling for covariates in multiple linear regression analysis, the results showed that low serum 25(OH)D levels were associated with being female, younger age, living in urban and Bangkok.</p><p>CONCLUSIONS:</p><p>Vitamin D insufficiency is common and varies across geographical regions in Thailand.</p><p>PMID: 22074319</p><p>– – – – – – -</p><h2 id=bangkok-summary-from--span-stylecolor00fpdf-attached-at-bottom-of-this-pagespan->Bangkok Summary from <strong><span style=color:#00f>PDF (attached at bottom of this page)</span></strong> :</h2><p>&lt; 30 ng: Men 67%, Women 76%    insufficient</p><p>&lt; 20 ng: Men 11%, Women 24%     deficient - twice as many women as men</p><h2 id=possible-reasons-for-deficiency-among-urban-residents-vs-others-include>Possible reasons for deficiency among urban residents vs others include:</h2><ul><li><p>Excessive clothing (especially women)</p></li><li><p>Pollution blocking UV</p></li><li><p>Air conditioning more available</p></li><li><p>Desire to have lighter skin, so avoid the sun</p></li><li><p>More time indoors with urban living</p></li></ul><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href=/posts/low-vitamin-d-in-yet-another-sunny-country-thailand style=color:red;text-decoration:underline title="This post/category does not exist yet: Low vitamin D in yet another sunny country-Thailand - March 2015">Low vitamin D in yet another sunny country-Thailand - March 2015</a></p></li><li><p><a href=/posts/35-reasons-why-vitamin-d-deficiency-has-become-epidemic-and-counting style=color:red;text-decoration:underline title="This link has an unknown page_id: 1586">35 reasons why vitamin D deficiency has become epidemic - and counting</a> as of March 2015</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>Deficiency of Vitamin D</span>
+<span class=tag>health risk</span>
+<span class=tag>pollution</span>
+<span class=tag>Skin - Dark</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>blood levels, Deficiency of Vitamin D, health risk, pollution, Skin - Dark, vitamin d, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038172"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038172",indexUrl:"/search/search_index.json.gz?v=1751038172"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038172"></script><script src="/js/tiki-redirects.js?v=1751038172"></script></body></html>

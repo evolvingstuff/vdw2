@@ -1,15 +1,23 @@
 {
-  "title": "Vitamin D helps Progesterone treatment",
-  "slug": "vitamin-d-helps-progesterone-treatment",
-  "aliases": [
-    "/Vitamin+D+helps+Progesterone+treatment+\u2013+July+2009",
-    "/1351"
-  ],
-  "tiki_page_id": 1351,
-  "date": "2011-01-26",
-  "categories": [
-    "Treatment by Vitamin D"
-  ]
+    "title": "Vitamin D helps Progesterone treatment",
+    "slug": "vitamin-d-helps-progesterone-treatment",
+    "aliases": [
+        "/Vitamin+D+helps+Progesterone+treatment+\u2013+July+2009",
+        "/1351"
+    ],
+    "tiki_page_id": 1351,
+    "date": "2011-01-26",
+    "categories": [
+        "Treatment by Vitamin D"
+    ],
+    "tags": [
+        "TBI",
+        "Treatment by Vitamin D",
+        "brain",
+        "cognitive",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 
@@ -31,4 +39,4 @@ More than two decades of pre-clinical research and two recent clinical trials ha
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-aided-progesterone-in-reducing-traumatic-brain-injury-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aided progesterone in reducing traumatic brain injury – RCT Dec 2012">Vitamin D aided progesterone in reducing traumatic brain injury – RCT Dec 2012</a>
+* [Vitamin D aided progesterone in reducing traumatic brain injury – RCT Dec 2012](/posts/vitamin-d-aided-progesterone-in-reducing-traumatic-brain-injury-rct)

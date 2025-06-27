@@ -1,15 +1,22 @@
 {
-  "title": "Scared Out of the Sun for Fifty Years",
-  "slug": "scared-out-of-the-sun-for-fifty-years",
-  "aliases": [
-    "/Scared+Out+of+the+Sun+for+Fifty+Years+\u2013+Jan+2011",
-    "/1337"
-  ],
-  "tiki_page_id": 1337,
-  "date": "2011-01-21",
-  "categories": [
-    "Noontime sun and D"
-  ]
+    "title": "Scared Out of the Sun for Fifty Years",
+    "slug": "scared-out-of-the-sun-for-fifty-years",
+    "aliases": [
+        "/Scared+Out+of+the+Sun+for+Fifty+Years+\u2013+Jan+2011",
+        "/1337"
+    ],
+    "tiki_page_id": 1337,
+    "date": "2011-01-21",
+    "categories": [
+        "Noontime sun and D"
+    ],
+    "tags": [
+        "Noontime sun and D",
+        "cancer",
+        "melanoma",
+        "skin cancer",
+        "vitamin d"
+    ]
 }
 
 
@@ -54,4 +61,3 @@ Clipped from WikiPedia  http://en.wikipedia.org/wiki/Slip-Slop-Slap
 "However, the incidence of melanoma - the most lethal form of skin cancer - has increased."
 
 seem to recall that Austrailia is moving toward a realsonable amount of UV in 2010 - so as to get vitamin D
-

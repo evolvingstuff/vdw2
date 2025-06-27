@@ -1,15 +1,20 @@
 {
-  "title": "How did people used to get vitamin D when far from equator in the Winter",
-  "slug": "how-did-people-used-to-get-vitamin-d-when-far-from-equator-in-the-winter",
-  "aliases": [
-    "/How+did+people+used+to+get+vitamin+D+when+far+from+equator+in+the+Winter",
-    "/1857"
-  ],
-  "tiki_page_id": 1857,
-  "date": "2011-07-23",
-  "categories": [
-    "Vitamin D Far from equator"
-  ]
+    "title": "How did people used to get vitamin D when far from equator in the Winter",
+    "slug": "how-did-people-used-to-get-vitamin-d-when-far-from-equator-in-the-winter",
+    "aliases": [
+        "/How+did+people+used+to+get+vitamin+D+when+far+from+equator+in+the+Winter",
+        "/1857"
+    ],
+    "tiki_page_id": 1857,
+    "date": "2011-07-23",
+    "categories": [
+        "Vitamin D Far from equator"
+    ],
+    "tags": [
+        "Vitamin D Far from equator",
+        "dosage",
+        "vitamin d"
+    ]
 }
 
 

@@ -1,13 +1,48 @@
 {
-  "title": "Vitamin K emerging issues",
-  "slug": "vitamin-k-emerging-issues",
-  "aliases": [
-    "/Vitamin+K+emerging+issues+\u2013+Jan+2011",
-    "/1882"
-  ],
-  "tiki_page_id": 1882,
-  "date": "2011-08-01"
+    "title": "Vitamin K emerging issues",
+    "slug": "vitamin-k-emerging-issues",
+    "aliases": [
+        "/Vitamin+K+emerging+issues+\u2013+Jan+2011",
+        "/1882"
+    ],
+    "tiki_page_id": 1882,
+    "date": "2011-08-01",
+    "tags": [
+        "antibiotics",
+        "atherosclerosis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood clotting",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "brain",
+        "breathing",
+        "cardiovascular",
+        "child",
+        "cognitive",
+        "cystic fibrosis",
+        "falls fractures",
+        "high dose",
+        "hip fractures",
+        "intervention",
+        "iodine",
+        "magnesium",
+        "magnesium and pregnancy",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "preterm",
+        "stroke",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin k",
+        "zinc"
+    ]
 }
+
 
 &nbsp;
 
@@ -300,4 +335,3 @@ This work was supported by the U.S. Department of Agriculture, Agricultural  Res
 52. Yasui T, Uemura H, Umino Y, et al. Undercarboxylated osteocalcin concentration in postmenopausal women receiving hormone therapy  daily  and  on  alternate  days.  Menopause.  2006;13: 314-322.
 
 53. USDA. USDA National Nutrient Database  for Standard Reference, Release 2 (SR 22). http://www.ars.usda.gov/nutrientdata. Accessed September 27, 2010.
-

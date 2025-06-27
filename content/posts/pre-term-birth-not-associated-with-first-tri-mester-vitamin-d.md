@@ -1,15 +1,23 @@
 {
-  "title": "Pre-term birth not associated with first tri-mester vitamin D",
-  "slug": "pre-term-birth-not-associated-with-first-tri-mester-vitamin-d",
-  "aliases": [
-    "/Pre-term+birth+not+associated+with+first+tri-mester+vitamin+D+\u2013+April+2011",
-    "/1580"
-  ],
-  "tiki_page_id": 1580,
-  "date": "2011-04-20",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Pre-term birth not associated with first tri-mester vitamin D",
+    "slug": "pre-term-birth-not-associated-with-first-tri-mester-vitamin-d",
+    "aliases": [
+        "/Pre-term+birth+not+associated+with+first+tri-mester+vitamin+D+\u2013+April+2011",
+        "/1580"
+    ],
+    "tiki_page_id": 1580,
+    "date": "2011-04-20",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "blood levels",
+        "pregnancy",
+        "preterm",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -34,4 +42,3 @@ The median 25(OH)D level for all subjects was 89 nmol/L (interquartile range, 73
 ## The median of this study was 35.6 ng/ml
 
 # Seems odd – most other studies show that pregnant women have much lower levels of vitamin D
-

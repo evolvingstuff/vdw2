@@ -1,17 +1,34 @@
 {
-  "title": "50000 IU vitamin D2 weekly helped blacks with heart problems",
-  "slug": "50000-iu-vitamin-d2-weekly-helped-blacks-with-heart-problems",
-  "aliases": [
-    "/50000+IU+vitamin+D2+weekly+helped+blacks+with+heart+problems+\u2013+Feb+2011",
-    "/1527"
-  ],
-  "tiki_page_id": 1527,
-  "date": "2011-03-30",
-  "categories": [
-    "Skin - Dark",
-    "Cardiovascular",
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "50000 IU vitamin D2 weekly helped blacks with heart problems",
+    "slug": "50000-iu-vitamin-d2-weekly-helped-blacks-with-heart-problems",
+    "aliases": [
+        "/50000+IU+vitamin+D2+weekly+helped+blacks+with+heart+problems+\u2013+Feb+2011",
+        "/1527"
+    ],
+    "tiki_page_id": 1527,
+    "date": "2011-03-30",
+    "categories": [
+        "Skin - Dark",
+        "Cardiovascular",
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Skin - Dark",
+        "Vitamin D3 instead of D2",
+        "autoimmune",
+        "blood levels",
+        "cardiovascular",
+        "dosage",
+        "heart failure",
+        "high dose",
+        "intervention",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -38,4 +55,3 @@ PMID: 21239963
 # See also VitaminDWiki
 
 * <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
-

@@ -1,16 +1,28 @@
 {
-  "title": "Decreased winter sun speeded up subsequent MS development 2X \u2013 VA",
-  "slug": "decreased-winter-sun-speeded-up-subsequent-ms-development-2x-va",
-  "aliases": [
-    "/Decreased+winter+sun+speeded+up+subsequent+MS+development+2X+\u2013+VA+Aug+2011",
-    "/1906"
-  ],
-  "tiki_page_id": 1906,
-  "date": "2011-08-09",
-  "categories": [
-    "Multiple Sclerosis"
-  ]
+    "title": "Decreased winter sun speeded up subsequent MS development 2X \u2013 VA",
+    "slug": "decreased-winter-sun-speeded-up-subsequent-ms-development-2x-va",
+    "aliases": [
+        "/Decreased+winter+sun+speeded+up+subsequent+MS+development+2X+\u2013+VA+Aug+2011",
+        "/1906"
+    ],
+    "tiki_page_id": 1906,
+    "date": "2011-08-09",
+    "categories": [
+        "Multiple Sclerosis"
+    ],
+    "tags": [
+        "Multiple Sclerosis",
+        "autoimmune",
+        "bone",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

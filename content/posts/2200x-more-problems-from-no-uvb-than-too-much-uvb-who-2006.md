@@ -1,15 +1,45 @@
 {
-  "title": "2200X more problems from no UVB than too much UVB - WHO 2006",
-  "slug": "2200x-more-problems-from-no-uvb-than-too-much-uvb-who-2006",
-  "aliases": [
-    "/2200X+more+problems+from+no+UVB+than+too+much+UVB+-+WHO+2006",
-    "/1700"
-  ],
-  "tiki_page_id": 1700,
-  "date": "2011-06-03",
-  "categories": [
-    "UV and Vitamin D"
-  ]
+    "title": "2200X more problems from no UVB than too much UVB - WHO 2006",
+    "slug": "2200x-more-problems-from-no-uvb-than-too-much-uvb-who-2006",
+    "aliases": [
+        "/2200X+more+problems+from+no+UVB+than+too+much+UVB+-+WHO+2006",
+        "/1700"
+    ],
+    "tiki_page_id": 1700,
+    "date": "2011-06-03",
+    "categories": [
+        "UV and Vitamin D"
+    ],
+    "tags": [
+        "SAD",
+        "UV and Vitamin D",
+        "autoimmune",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "cardiovascular",
+        "cataracts",
+        "colon cancer",
+        "diabetes",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "lymphoma",
+        "macular degeneration",
+        "melanoma",
+        "metabolic",
+        "mood disorders",
+        "multiple sclerosis",
+        "osteoporosis",
+        "pain",
+        "rheumatoid arthritis",
+        "rickets",
+        "stroke",
+        "therapeutic intervention",
+        "type 1 diabetes",
+        "vision",
+        "vitamin d"
+    ]
 }
 
 
@@ -87,4 +117,4 @@ endocrine disorders such as type 2 diabetes;
 
 psychiatric disorders and disorders of mood; 
 
-lymphomas including both Hodgkin and non-Hodgkin lymphoma. 
+lymphomas including both Hodgkin and non-Hodgkin lymphoma.

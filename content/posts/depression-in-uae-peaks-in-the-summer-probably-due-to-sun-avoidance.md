@@ -1,15 +1,23 @@
 {
-  "title": "Depression in UAE peaks in the summer \u2013 probably due to sun avoidance",
-  "slug": "depression-in-uae-peaks-in-the-summer-probably-due-to-sun-avoidance",
-  "aliases": [
-    "/Depression+in+UAE+peaks+in+the+summer+\u2013+probably+due+to+sun+avoidance+\u2013+Feb+2011",
-    "/1457"
-  ],
-  "tiki_page_id": 1457,
-  "date": "2011-03-04",
-  "categories": [
-    "Depression"
-  ]
+    "title": "Depression in UAE peaks in the summer \u2013 probably due to sun avoidance",
+    "slug": "depression-in-uae-peaks-in-the-summer-probably-due-to-sun-avoidance",
+    "aliases": [
+        "/Depression+in+UAE+peaks+in+the+summer+\u2013+probably+due+to+sun+avoidance+\u2013+Feb+2011",
+        "/1457"
+    ],
+    "tiki_page_id": 1457,
+    "date": "2011-03-04",
+    "categories": [
+        "Depression"
+    ],
+    "tags": [
+        "Depression",
+        "child",
+        "depression",
+        "mood disorders",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -66,4 +74,3 @@ Document Type: Research article; Publication date: 2011-02-01
 # See web
 
 * [Google Search for (burka OR hijab) "vitamin D"](http://www.google.com/webhp?sourceid=navclient-ff#hl=en&site=webhp&&sa=X&ei=cshpTf7fKoLmsQOVlOSmBA&ved=0CBQQvwUoAQ&q=%28burka+OR+hijab%29+%22vitamin+D%22&spell=1&bav=on.1,or.&fp=18e4c0cc530c3619) >400,000 hits Feb 2011
-

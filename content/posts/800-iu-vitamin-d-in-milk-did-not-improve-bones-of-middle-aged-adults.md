@@ -1,16 +1,25 @@
 {
-  "title": "800 IU vitamin D in milk did not improve bones of middle-aged adults",
-  "slug": "800-iu-vitamin-d-in-milk-did-not-improve-bones-of-middle-aged-adults",
-  "aliases": [
-    "/800+IU+vitamin+D+in+milk+did+not+improve+bones+of+middle-aged+adults+\u2013+Jan+2011",
-    "/1308"
-  ],
-  "tiki_page_id": 1308,
-  "date": "2011-01-10",
-  "categories": [
-    "How much Vitamin D",
-    "Bone - Health"
-  ]
+    "title": "800 IU vitamin D in milk did not improve bones of middle-aged adults",
+    "slug": "800-iu-vitamin-d-in-milk-did-not-improve-bones-of-middle-aged-adults",
+    "aliases": [
+        "/800+IU+vitamin+D+in+milk+did+not+improve+bones+of+middle-aged+adults+\u2013+Jan+2011",
+        "/1308"
+    ],
+    "tiki_page_id": 1308,
+    "date": "2011-01-10",
+    "categories": [
+        "How much Vitamin D",
+        "Bone - Health"
+    ],
+    "tags": [
+        "Bone - Health",
+        "How much Vitamin D",
+        "bone",
+        "bone mineral density",
+        "dosage",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 
@@ -51,4 +60,3 @@ Conclusion: A community-based multi-component exercise program successfully impr
 * <a href="/posts/effectiveness-and-safety-of-vitamin-d-in-relation-to-bone-health-2007" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 573">Effectiveness and Safety of Vitamin D in Relation to Bone Health - 2007</a>
 
 * <a href="/posts/bone-health-and-vit-d-evidence-based-review-2007" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 248">Bone Health and Vit D: Evidence Based Review 2007</a>
-

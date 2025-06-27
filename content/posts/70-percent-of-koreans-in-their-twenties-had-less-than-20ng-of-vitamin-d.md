@@ -1,15 +1,23 @@
 {
-  "title": "70 percent of Koreans in their twenties had less than 20ng of vitamin D",
-  "slug": "70-percent-of-koreans-in-their-twenties-had-less-than-20ng-of-vitamin-d",
-  "aliases": [
-    "/70+percent+of+Koreans+in+their+twenties+had+less+than+20ng+of+vitamin+D+\u2013+Dec+2010",
-    "/1275"
-  ],
-  "tiki_page_id": 1275,
-  "date": "2010-12-31",
-  "categories": [
-    "Deficiency of Vitamin D"
-  ]
+    "title": "70 percent of Koreans in their twenties had less than 20ng of vitamin D",
+    "slug": "70-percent-of-koreans-in-their-twenties-had-less-than-20ng-of-vitamin-d",
+    "aliases": [
+        "/70+percent+of+Koreans+in+their+twenties+had+less+than+20ng+of+vitamin+D+\u2013+Dec+2010",
+        "/1275"
+    ],
+    "tiki_page_id": 1275,
+    "date": "2010-12-31",
+    "categories": [
+        "Deficiency of Vitamin D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "blood levels",
+        "brain",
+        "cognitive",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

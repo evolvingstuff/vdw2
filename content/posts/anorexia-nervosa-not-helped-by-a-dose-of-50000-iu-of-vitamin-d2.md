@@ -1,16 +1,27 @@
 {
-  "title": "Anorexia Nervosa not helped by a dose of 50000 IU of vitamin D2",
-  "slug": "anorexia-nervosa-not-helped-by-a-dose-of-50000-iu-of-vitamin-d2",
-  "aliases": [
-    "/Anorexia+Nervosa+not+helped+by+a+dose+of+50000+IU+of+vitamin+D2+\u2013+June+2011",
-    "/1699"
-  ],
-  "tiki_page_id": 1699,
-  "date": "2011-06-03",
-  "categories": [
-    "Vitamin D3 instead of D2"
-  ]
+    "title": "Anorexia Nervosa not helped by a dose of 50000 IU of vitamin D2",
+    "slug": "anorexia-nervosa-not-helped-by-a-dose-of-50000-iu-of-vitamin-d2",
+    "aliases": [
+        "/Anorexia+Nervosa+not+helped+by+a+dose+of+50000+IU+of+vitamin+D2+\u2013+June+2011",
+        "/1699"
+    ],
+    "tiki_page_id": 1699,
+    "date": "2011-06-03",
+    "categories": [
+        "Vitamin D3 instead of D2"
+    ],
+    "tags": [
+        "Vitamin D3 instead of D2",
+        "blood levels",
+        "child",
+        "diabetes",
+        "dosage",
+        "metabolic",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -39,4 +50,3 @@ PMID:     21632810
 ## Should have had more doses
 
 ## Should have used D3 instead of D2
-

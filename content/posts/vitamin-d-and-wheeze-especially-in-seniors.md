@@ -1,15 +1,26 @@
 {
-  "title": "Vitamin D and wheeze \u2013 especially in seniors",
-  "slug": "vitamin-d-and-wheeze-especially-in-seniors",
-  "aliases": [
-    "/Vitamin+D+and+wheeze+\u2013+especially+in+seniors+\u2013+Aug+2011",
-    "/1916"
-  ],
-  "tiki_page_id": 1916,
-  "date": "2011-08-13",
-  "categories": [
-    "Breathing"
-  ]
+    "title": "Vitamin D and wheeze \u2013 especially in seniors",
+    "slug": "vitamin-d-and-wheeze-especially-in-seniors",
+    "aliases": [
+        "/Vitamin+D+and+wheeze+\u2013+especially+in+seniors+\u2013+Aug+2011",
+        "/1916"
+    ],
+    "tiki_page_id": 1916,
+    "date": "2011-08-13",
+    "categories": [
+        "Breathing"
+    ],
+    "tags": [
+        "Breathing",
+        "asthma",
+        "blood levels",
+        "breathing",
+        "health risk",
+        "smoking",
+        "virus",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
 }
 
 

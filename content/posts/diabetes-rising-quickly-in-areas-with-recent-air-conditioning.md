@@ -1,16 +1,23 @@
 {
-  "title": "Diabetes rising quickly in areas with recent air conditioning",
-  "slug": "diabetes-rising-quickly-in-areas-with-recent-air-conditioning",
-  "aliases": [
-    "/Diabetes+rising+quickly+in+areas+with+recent+air+conditioning+\u2013+June+2011",
-    "/1761"
-  ],
-  "tiki_page_id": 1761,
-  "date": "2011-06-25",
-  "categories": [
-    "Deficiency of Vitamin D",
-    "Diabetes"
-  ]
+    "title": "Diabetes rising quickly in areas with recent air conditioning",
+    "slug": "diabetes-rising-quickly-in-areas-with-recent-air-conditioning",
+    "aliases": [
+        "/Diabetes+rising+quickly+in+areas+with+recent+air+conditioning+\u2013+June+2011",
+        "/1761"
+    ],
+    "tiki_page_id": 1761,
+    "date": "2011-06-25",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Diabetes"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Diabetes",
+        "diabetes",
+        "metabolic",
+        "vitamin d"
+    ]
 }
 
 

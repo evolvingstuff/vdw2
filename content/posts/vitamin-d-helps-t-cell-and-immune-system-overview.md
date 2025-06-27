@@ -1,15 +1,33 @@
 {
-  "title": "Vitamin D helps T-cell and immune system \u2013 overview",
-  "slug": "vitamin-d-helps-t-cell-and-immune-system-overview",
-  "aliases": [
-    "/Vitamin+D+helps+T-cell+and+immune+system+\u2013+overview+Aug+2011",
-    "/1927"
-  ],
-  "tiki_page_id": 1927,
-  "date": "2011-08-21",
-  "categories": [
-    "Immunity"
-  ]
+    "title": "Vitamin D helps T-cell and immune system \u2013 overview",
+    "slug": "vitamin-d-helps-t-cell-and-immune-system-overview",
+    "aliases": [
+        "/Vitamin+D+helps+T-cell+and+immune+system+\u2013+overview+Aug+2011",
+        "/1927"
+    ],
+    "tiki_page_id": 1927,
+    "date": "2011-08-21",
+    "categories": [
+        "Immunity"
+    ],
+    "tags": [
+        "Immunity",
+        "autoimmune",
+        "bacteria",
+        "crohns",
+        "diabetes",
+        "gut",
+        "high dose",
+        "immunity",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "therapeutic intervention",
+        "tuberculosis",
+        "type 1 diabetes",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -33,4 +51,4 @@ Collectively these observations suggest that vitamin D is a key factor linking i
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-and-immune-function-an-overview.pdf">Download the PDF from VitaminDWiki</a>** 
 
- **[372 studies cited this paper as of May 2021](https://scholar.google.com/scholar?cites=5813792575344789618&as_sdt=5,48&sciodt=0,48&hl=en)** 
+ **[372 studies cited this paper as of May 2021](https://scholar.google.com/scholar?cites=5813792575344789618&as_sdt=5,48&sciodt=0,48&hl=en)**

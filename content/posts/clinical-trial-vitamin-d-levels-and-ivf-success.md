@@ -1,15 +1,23 @@
 {
-  "title": "Clinical Trial vitamin D levels and IVF success",
-  "slug": "clinical-trial-vitamin-d-levels-and-ivf-success",
-  "aliases": [
-    "/Clinical+Trial+vitamin+D+levels+and+IVF+success+\u2013+May+2011",
-    "/1636"
-  ],
-  "tiki_page_id": 1636,
-  "date": "2011-05-17",
-  "categories": [
-    "Fertility and sperm"
-  ]
+    "title": "Clinical Trial vitamin D levels and IVF success",
+    "slug": "clinical-trial-vitamin-d-levels-and-ivf-success",
+    "aliases": [
+        "/Clinical+Trial+vitamin+D+levels+and+IVF+success+\u2013+May+2011",
+        "/1636"
+    ],
+    "tiki_page_id": 1636,
+    "date": "2011-05-17",
+    "categories": [
+        "Fertility and sperm"
+    ],
+    "tags": [
+        "Fertility and sperm",
+        "fertility sperm",
+        "in vitro fertilization",
+        "placenta",
+        "pregnancy",
+        "vitamin d"
+    ]
 }
 
 

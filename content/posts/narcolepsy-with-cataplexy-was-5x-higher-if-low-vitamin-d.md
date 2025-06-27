@@ -1,16 +1,27 @@
 {
-  "title": "Narcolepsy with Cataplexy was 5X higher if low Vitamin D",
-  "slug": "narcolepsy-with-cataplexy-was-5x-higher-if-low-vitamin-d",
-  "aliases": [
-    "/Narcolepsy+with+Cataplexy+was+5X+higher+if+low+Vitamin+D+\u2013+May+2011",
-    "/1682"
-  ],
-  "tiki_page_id": 1682,
-  "date": "2011-05-31",
-  "categories": [
-    "Autoimmune",
-    "Sleep"
-  ]
+    "title": "Narcolepsy with Cataplexy was 5X higher if low Vitamin D",
+    "slug": "narcolepsy-with-cataplexy-was-5x-higher-if-low-vitamin-d",
+    "aliases": [
+        "/Narcolepsy+with+Cataplexy+was+5X+higher+if+low+Vitamin+D+\u2013+May+2011",
+        "/1682"
+    ],
+    "tiki_page_id": 1682,
+    "date": "2011-05-31",
+    "categories": [
+        "Autoimmune",
+        "Sleep"
+    ],
+    "tags": [
+        "Autoimmune",
+        "Sleep",
+        "autoimmune",
+        "blood levels",
+        "high dose",
+        "intervention",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

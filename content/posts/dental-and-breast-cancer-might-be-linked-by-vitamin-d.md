@@ -1,16 +1,23 @@
 {
-  "title": "Dental and breast cancer might be linked by Vitamin D",
-  "slug": "dental-and-breast-cancer-might-be-linked-by-vitamin-d",
-  "aliases": [
-    "/Dental+and+breast+cancer+might+be+linked+by+Vitamin+D+-+March+2011",
-    "/1514"
-  ],
-  "tiki_page_id": 1514,
-  "date": "2011-03-26",
-  "categories": [
-    "Dental",
-    "Cancer - Breast"
-  ]
+    "title": "Dental and breast cancer might be linked by Vitamin D",
+    "slug": "dental-and-breast-cancer-might-be-linked-by-vitamin-d",
+    "aliases": [
+        "/Dental+and+breast+cancer+might+be+linked+by+Vitamin+D+-+March+2011",
+        "/1514"
+    ],
+    "tiki_page_id": 1514,
+    "date": "2011-03-26",
+    "categories": [
+        "Dental",
+        "Cancer - Breast"
+    ],
+    "tags": [
+        "Cancer - Breast",
+        "Dental",
+        "breast cancer",
+        "cancer",
+        "vitamin d"
+    ]
 }
 
 

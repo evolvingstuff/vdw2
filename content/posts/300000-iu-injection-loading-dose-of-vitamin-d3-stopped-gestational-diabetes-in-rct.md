@@ -1,19 +1,36 @@
 {
-  "title": "300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT",
-  "slug": "300000-iu-injection-loading-dose-of-vitamin-d3-stopped-gestational-diabetes-in-rct",
-  "aliases": [
-    "/300000+IU+injection+loading+dose+of+vitamin+D3+stopped+gestational+diabetes+in+RCT+\u2013+Oct+2011",
-    "/2070"
-  ],
-  "tiki_page_id": 2070,
-  "date": "2011-10-07",
-  "categories": [
-    "Pregnancy",
-    "Diabetes",
-    "Loading dose for Vitamin D",
-    "Intervention",
-    "Injection"
-  ]
+    "title": "300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT",
+    "slug": "300000-iu-injection-loading-dose-of-vitamin-d3-stopped-gestational-diabetes-in-rct",
+    "aliases": [
+        "/300000+IU+injection+loading+dose+of+vitamin+D3+stopped+gestational+diabetes+in+RCT+\u2013+Oct+2011",
+        "/2070"
+    ],
+    "tiki_page_id": 2070,
+    "date": "2011-10-07",
+    "categories": [
+        "Pregnancy",
+        "Diabetes",
+        "Loading dose for Vitamin D",
+        "Intervention",
+        "Injection"
+    ],
+    "tags": [
+        "Diabetes",
+        "Injection",
+        "Intervention",
+        "Loading dose for Vitamin D",
+        "Pregnancy",
+        "blood levels",
+        "diabetes",
+        "dosage",
+        "gestational diabetes",
+        "high dose",
+        "metabolic",
+        "pregnancy",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

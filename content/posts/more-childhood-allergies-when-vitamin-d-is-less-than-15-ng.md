@@ -1,16 +1,27 @@
 {
-  "title": "More childhood allergies when vitamin D is less than 15 ng",
-  "slug": "more-childhood-allergies-when-vitamin-d-is-less-than-15-ng",
-  "aliases": [
-    "/More+childhood+allergies+when+vitamin+D+is+less+than+15+ng+\u2013+Feb+2011",
-    "/1417"
-  ],
-  "tiki_page_id": 1417,
-  "date": "2011-02-18",
-  "categories": [
-    "Autoimmune",
-    "Infant-Child"
-  ]
+    "title": "More childhood allergies when vitamin D is less than 15 ng",
+    "slug": "more-childhood-allergies-when-vitamin-d-is-less-than-15-ng",
+    "aliases": [
+        "/More+childhood+allergies+when+vitamin+D+is+less+than+15+ng+\u2013+Feb+2011",
+        "/1417"
+    ],
+    "tiki_page_id": 1417,
+    "date": "2011-02-18",
+    "categories": [
+        "Autoimmune",
+        "Infant-Child"
+    ],
+    "tags": [
+        "Autoimmune",
+        "Infant-Child",
+        "blood levels",
+        "child",
+        "childhood obesity",
+        "health risk",
+        "obesity",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 

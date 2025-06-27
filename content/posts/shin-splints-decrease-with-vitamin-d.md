@@ -1,16 +1,24 @@
 {
-  "title": "Shin splints decrease with vitamin D",
-  "slug": "shin-splints-decrease-with-vitamin-d",
-  "aliases": [
-    "/Shin+splints+decrease+with+vitamin+D",
-    "/1393"
-  ],
-  "tiki_page_id": 1393,
-  "date": "2011-02-08",
-  "categories": [
-    "Bone - Health",
-    "Sports and Vitamin D"
-  ]
+    "title": "Shin splints decrease with vitamin D",
+    "slug": "shin-splints-decrease-with-vitamin-d",
+    "aliases": [
+        "/Shin+splints+decrease+with+vitamin+D",
+        "/1393"
+    ],
+    "tiki_page_id": 1393,
+    "date": "2011-02-08",
+    "categories": [
+        "Bone - Health",
+        "Sports and Vitamin D"
+    ],
+    "tags": [
+        "Bone - Health",
+        "Sports and Vitamin D",
+        "bone",
+        "bone stress fractures",
+        "falls fractures",
+        "vitamin d"
+    ]
 }
 
 

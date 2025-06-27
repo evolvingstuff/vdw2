@@ -1,16 +1,26 @@
 {
-  "title": "Kids with new kidneys were both short and low on vitamin D",
-  "slug": "kids-with-new-kidneys-were-both-short-and-low-on-vitamin-d",
-  "aliases": [
-    "/Kids+with+new+kidneys+were+both+short+and+low+on+vitamin+D+\u2013+June+2011",
-    "/1707"
-  ],
-  "tiki_page_id": 1707,
-  "date": "2011-06-07",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "Kids with new kidneys were both short and low on vitamin D",
+    "slug": "kids-with-new-kidneys-were-both-short-and-low-on-vitamin-d",
+    "aliases": [
+        "/Kids+with+new+kidneys+were+both+short+and+low+on+vitamin+D+\u2013+June+2011",
+        "/1707"
+    ],
+    "tiki_page_id": 1707,
+    "date": "2011-06-07",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "child",
+        "hypertension",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 
@@ -41,4 +51,3 @@ PMID:     21643944
 * <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
 
 * [All items in Kidney and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&sort_mode=created_desc)
-

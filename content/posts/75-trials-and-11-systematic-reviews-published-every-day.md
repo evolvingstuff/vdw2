@@ -1,16 +1,20 @@
 {
-  "title": "75 trials and 11 systematic reviews published every day",
-  "slug": "75-trials-and-11-systematic-reviews-published-every-day",
-  "aliases": [
-    "/75+trials+and+11+systematic+reviews+published+every+day+\u2013+Sept+2010",
-    "/1268"
-  ],
-  "tiki_page_id": 1268,
-  "date": "2010-12-29",
-  "categories": [
-    "About D - more info.",
-    "Overview for doctors"
-  ]
+    "title": "75 trials and 11 systematic reviews published every day",
+    "slug": "75-trials-and-11-systematic-reviews-published-every-day",
+    "aliases": [
+        "/75+trials+and+11+systematic+reviews+published+every+day+\u2013+Sept+2010",
+        "/1268"
+    ],
+    "tiki_page_id": 1268,
+    "date": "2010-12-29",
+    "categories": [
+        "About D - more info.",
+        "Overview for doctors"
+    ],
+    "tags": [
+        "About D - more info.",
+        "Overview for doctors"
+    ]
 }
 
 

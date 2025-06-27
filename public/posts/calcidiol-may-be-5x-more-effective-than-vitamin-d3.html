@@ -1,0 +1,60 @@
+<!doctype html><html><head><meta charset=utf-8><title>Calcidiol may be 5X more effective than Vitamin D3</title>
+<link rel=stylesheet href="/css/main.css?v=1751038172"><link rel=stylesheet href="/css/pagination.css?v=1751038172"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1751038172"></script><script src="/js/search.js?v=1751038172"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><h1>Calcidiol may be 5X more effective than Vitamin D3</h1><time>May 3, 2012</time><div data-pagefind-body><h4 id=relative-effectiveness-of-oral-25-hydroxyvitamin-d3-and-vitamin-d3-in-raising-wintertime-serum-25-hydroxyvitamin-d-in-older-adults>Relative effectiveness of oral 25-hydroxyvitamin D3 and vitamin D3 in raising wintertime serum 25-hydroxyvitamin D in older adults</h4><p>Kevin D Cashman, Kelly M Seamans, Alice J Lucey, Elisabeth Stöcklin, Peter Weber, Mairead Kiely, and Tom R Hill</p><p>Am J Clin Nutr June 2012 ajcn.031427</p><ul><li><p>1 From the School of Food and Nutritional Sciences (KDC, KMS, AJL, MK, and TRH) and the Department of Medicine (KDC), University College Cork, Cork, Ireland, and DSM Nutritional Products Ltd, Kaiseraugst, Switzerland (ES and PW).</p></li><li><p>2 Supported by the Irish Department of Agriculture, Food and the Marine under its Food Institutional Research Measure (grants to KDC and MK). DSM Nutritional Products Ltd supplied the vitamin D3 and 25-hydroxyvitamin D3 for supplements.</p></li><li><p>3 Present address for TRH: School of Agriculture, Food and Rural Development and Human Nutrition Research Centre, Newcastle University, Newcastle-Upon-Tyne, United Kingdom.</p></li><li><p>4 Address correspondence to KD Cashman, School of Food and Nutritional Sciences and Department of Medicine, University College Cork, Cork, Ireland. E-mail: <a href=mailto:k.cashman@ucc.ie>k.cashman@ucc.ie</a>.</p></li></ul><p>Background: The relative potency of 25-hydroxyvitamin D3 to vitamin D3 needs to be better defined so that food-composition tables can better reflect the true vitamin D nutritive value of certain foods.</p><p>Objective: We performed a randomized, controlled intervention study in apparently healthy, free-living adults to investigate whether the intake of 25-hydroxyvitamin D3 is 5 times more potent in raising serum 25-hydroxyvitamin D <span>[25(OH)D]</span> during winter compared with an equivalent amount of vitamin D3.</p><p>Design: A randomized, placebo-controlled, double-blind intervention study was conducted in adults aged ?50 y (n = 56) who consumed a placebo, 20 ?g vitamin D3, or 7 or 20 ?g 25-hydroxyvitamin D3 daily throughout 10 wk of winter. Serum 25(OH)D was measured by using an enzyme-linked immunoassay, and serum albumin–corrected calcium (S-Ca) was assessed colorimetrically at the baseline, midpoint, and endpoint of the study.</p><p>Results: The mean (±SD) increases (per microgram of vitamin D compound) in serum 25(OH)D concentrations over baseline after 10 wk of supplementation were 0.96 ± 0.62, 4.02 ± 1.27, and 4.77 ± 1.04 nmol ? L?1 ? ?g intake?1 for the 20-?g vitamin D3/d and 7- and 20-?g 25-hydroxyvitamin D3/d groups, respectively. A comparison of the 7- and 20-?g 25-hydroxyvitamin D3/d groups with the 20-?g vitamin D3/d group yielded conversion factors of 4.2 and 5, respectively. There was no effect of treatment on S-Ca concentrations and no incidence of hypercalcemia (S-Ca >2.6 nmol/L).</p><p>Conclusions: Each microgram of orally consumed 25-hydroxyvitamin D3 was about <strong>5 times more effective</strong> in raising serum 25(OH)D in older adults in winter than an equivalent amount of vitamin D3. This conversion factor could be used in food-compositional tables for relevant foods. This study was registered at clinicaltrials.gov as NCT01398202.</p><p>Received November 24, 2011, Accepted February 22, 2012.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>Calcidiol</span>
+<span class=tag>Liver</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>blood levels, Calcidiol, Liver, vitamin d, vitamin d blood test</div></article></div></div><script src="/js/lightspa.js?v=1751038172"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1751038172",indexUrl:"/search/search_index.json.gz?v=1751038172"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/toc-sanitizer.js?v=1751038172"></script><script src="/js/tiki-redirects.js?v=1751038172"></script></body></html>

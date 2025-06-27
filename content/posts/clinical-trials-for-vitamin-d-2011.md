@@ -1,15 +1,70 @@
 {
-  "title": "Clinical Trials for Vitamin D - 2011",
-  "slug": "clinical-trials-for-vitamin-d-2011",
-  "aliases": [
-    "/Clinical+Trials+for+Vitamin+D+-+2011",
-    "/1331"
-  ],
-  "tiki_page_id": 1331,
-  "date": "2011-01-20",
-  "categories": [
-    "Technical D"
-  ]
+    "title": "Clinical Trials for Vitamin D - 2011",
+    "slug": "clinical-trials-for-vitamin-d-2011",
+    "aliases": [
+        "/Clinical+Trials+for+Vitamin+D+-+2011",
+        "/1331"
+    ],
+    "tiki_page_id": 1331,
+    "date": "2011-01-20",
+    "categories": [
+        "Technical D"
+    ],
+    "tags": [
+        "Technical D",
+        "asthma",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "brain",
+        "breast cancer",
+        "breastfed",
+        "breathing",
+        "cancer",
+        "cardiovascular",
+        "carpal tunnel syndrome",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "cognitive",
+        "colon cancer",
+        "cystic fibrosis",
+        "dermatology",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "fertility sperm",
+        "hair",
+        "health risk",
+        "heart failure",
+        "hemodialysis",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "intervention",
+        "leukemia",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "neurological",
+        "obesity",
+        "obesity and cancer",
+        "osteoporosis",
+        "parkinsons",
+        "pediatric autoimmune",
+        "pregnancy",
+        "sleep apnea",
+        "statins",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "vitamin d"
+    ]
 }
 
 

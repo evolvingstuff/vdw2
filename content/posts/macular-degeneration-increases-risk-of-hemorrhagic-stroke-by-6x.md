@@ -1,17 +1,29 @@
 {
-  "title": "Macular Degeneration increases risk of hemorrhagic stroke by 6X",
-  "slug": "macular-degeneration-increases-risk-of-hemorrhagic-stroke-by-6x",
-  "aliases": [
-    "/Macular+Degeneration+increases+risk+of+hemorrhagic+stroke+by+6X+\u2013+July+2011",
-    "/1875"
-  ],
-  "tiki_page_id": 1875,
-  "date": "2011-07-30",
-  "categories": [
-    "Vision",
-    "Stroke"
-  ]
+    "title": "Macular Degeneration increases risk of hemorrhagic stroke by 6X",
+    "slug": "macular-degeneration-increases-risk-of-hemorrhagic-stroke-by-6x",
+    "aliases": [
+        "/Macular+Degeneration+increases+risk+of+hemorrhagic+stroke+by+6X+\u2013+July+2011",
+        "/1875"
+    ],
+    "tiki_page_id": 1875,
+    "date": "2011-07-30",
+    "categories": [
+        "Vision",
+        "Stroke"
+    ],
+    "tags": [
+        "Stroke",
+        "Vision",
+        "cardiovascular",
+        "health risk",
+        "macular degeneration",
+        "smoking",
+        "stroke",
+        "vision",
+        "vitamin d"
+    ]
 }
+
 
 {{< toc >}}
 

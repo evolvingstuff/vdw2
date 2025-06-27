@@ -1,16 +1,22 @@
 {
-  "title": "Every Thyroidectomy patient should get vitamin D and Calcium",
-  "slug": "every-thyroidectomy-patient-should-get-vitamin-d-and-calcium",
-  "aliases": [
-    "/Every+Thyroidectomy+patient+should+get+vitamin+D+and+Calcium+\u2013+Nov+2010",
-    "/1244"
-  ],
-  "tiki_page_id": 1244,
-  "date": "2010-12-17",
-  "categories": [
-    "Trauma and surgery",
-    "Thyroid and parathyroid"
-  ]
+    "title": "Every Thyroidectomy patient should get vitamin D and Calcium",
+    "slug": "every-thyroidectomy-patient-should-get-vitamin-d-and-calcium",
+    "aliases": [
+        "/Every+Thyroidectomy+patient+should+get+vitamin+D+and+Calcium+\u2013+Nov+2010",
+        "/1244"
+    ],
+    "tiki_page_id": 1244,
+    "date": "2010-12-17",
+    "categories": [
+        "Trauma and surgery",
+        "Thyroid and parathyroid"
+    ],
+    "tags": [
+        "Thyroid and parathyroid",
+        "Trauma and surgery",
+        "blood levels",
+        "vitamin d"
+    ]
 }
 
 
@@ -69,4 +75,3 @@ There is a significant difference in postoperative hypocalcemia rates between th
 # See also VitaminDWiki
 
 * [All items in Thyroid and Parathyroid](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=79&sort_mode=created_desc) 23 items June 2012
-

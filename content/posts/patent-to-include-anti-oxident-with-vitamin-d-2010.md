@@ -1,16 +1,21 @@
 {
-  "title": "Patent to include anti-oxident with vitamin D \u2013 2010",
-  "slug": "patent-to-include-anti-oxident-with-vitamin-d-2010",
-  "aliases": [
-    "/Patent+to+include+anti-oxident+with+vitamin+D+\u2013+2010",
-    "/1744"
-  ],
-  "tiki_page_id": 1744,
-  "date": "2011-06-20",
-  "categories": [
-    "Patent"
-  ]
+    "title": "Patent to include anti-oxident with vitamin D \u2013 2010",
+    "slug": "patent-to-include-anti-oxident-with-vitamin-d-2010",
+    "aliases": [
+        "/Patent+to+include+anti-oxident+with+vitamin+D+\u2013+2010",
+        "/1744"
+    ],
+    "tiki_page_id": 1744,
+    "date": "2011-06-20",
+    "categories": [
+        "Patent"
+    ],
+    "tags": [
+        "Patent",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 
@@ -27,4 +32,3 @@ Owner of patent = TEVA PHARMACEUTICAL INDUSTRIES, US
 – – – – – – – – – – – – – – – – – – 
 
 Wonder if oxidation is a portion of the reason that vitamin D does not appear to be very bio-available in a solid multi-vitamin
-

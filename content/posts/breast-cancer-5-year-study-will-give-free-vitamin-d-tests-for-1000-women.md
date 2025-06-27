@@ -1,16 +1,23 @@
 {
-  "title": "Breast Cancer 5 year study will give free vitamin D tests for 1000 women",
-  "slug": "breast-cancer-5-year-study-will-give-free-vitamin-d-tests-for-1000-women",
-  "aliases": [
-    "/Breast+Cancer+5+year+study+will+give+free+vitamin+D+tests+for+1000+women-+Oct+2011",
-    "/2077"
-  ],
-  "tiki_page_id": 2077,
-  "date": "2011-10-12",
-  "categories": [
-    "Cancer - Breast"
-  ]
+    "title": "Breast Cancer 5 year study will give free vitamin D tests for 1000 women",
+    "slug": "breast-cancer-5-year-study-will-give-free-vitamin-d-tests-for-1000-women",
+    "aliases": [
+        "/Breast+Cancer+5+year+study+will+give+free+vitamin+D+tests+for+1000+women-+Oct+2011",
+        "/2077"
+    ],
+    "tiki_page_id": 2077,
+    "date": "2011-10-12",
+    "categories": [
+        "Cancer - Breast"
+    ],
+    "tags": [
+        "Cancer - Breast",
+        "breast cancer",
+        "cancer",
+        "vitamin d"
+    ]
 }
+
 
 Breast Cancer Prevention Month--Action!
 

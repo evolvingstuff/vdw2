@@ -1,17 +1,30 @@
 {
-  "title": "Each 10 ng increase in vitamin D decreased kidney disease death by 14 percent",
-  "slug": "each-10-ng-increase-in-vitamin-d-decreased-kidney-disease-death-by-14-percent",
-  "aliases": [
-    "/Each+10+ng+increase+in+vitamin+D+decreased+kidney+disease+death+by+14+percent+\u2013+May+2011",
-    "/1714"
-  ],
-  "tiki_page_id": 1714,
-  "date": "2011-06-09",
-  "categories": [
-    "Kidney",
-    "Meta-analysis of Vitamin D"
-  ]
+    "title": "Each 10 ng increase in vitamin D decreased kidney disease death by 14 percent",
+    "slug": "each-10-ng-increase-in-vitamin-d-decreased-kidney-disease-death-by-14-percent",
+    "aliases": [
+        "/Each+10+ng+increase+in+vitamin+D+decreased+kidney+disease+death+by+14+percent+\u2013+May+2011",
+        "/1714"
+    ],
+    "tiki_page_id": 1714,
+    "date": "2011-06-09",
+    "categories": [
+        "Kidney",
+        "Meta-analysis of Vitamin D"
+    ],
+    "tags": [
+        "CKD",
+        "Kidney",
+        "Meta-analysis of Vitamin D",
+        "blood levels",
+        "dialysis",
+        "kidney",
+        "life span",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 &nbsp;
 

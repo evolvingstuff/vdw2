@@ -1,17 +1,31 @@
 {
-  "title": "Decrease Calcium and Increase Magnesium when increasing vitamin D",
-  "slug": "decrease-calcium-and-increase-magnesium-when-increasing-vitamin-d",
-  "aliases": [
-    "/Decrease+Calcium+and+Increase+Magnesium+when+increasing+vitamin+D",
-    "/1936"
-  ],
-  "tiki_page_id": 1936,
-  "date": "2011-08-22",
-  "categories": [
-    "Vitamin D and Calcium",
-    "Vitamin D and Magnesium",
-    "How, when to take Vit. D"
-  ]
+    "title": "Decrease Calcium and Increase Magnesium when increasing vitamin D",
+    "slug": "decrease-calcium-and-increase-magnesium-when-increasing-vitamin-d",
+    "aliases": [
+        "/Decrease+Calcium+and+Increase+Magnesium+when+increasing+vitamin+D",
+        "/1936"
+    ],
+    "tiki_page_id": 1936,
+    "date": "2011-08-22",
+    "categories": [
+        "Vitamin D and Calcium",
+        "Vitamin D and Magnesium",
+        "How, when to take Vit. D"
+    ],
+    "tags": [
+        "How, when to take Vit. D",
+        "Vitamin D and Calcium",
+        "Vitamin D and Magnesium",
+        "breastfed",
+        "cardiovascular",
+        "dosage",
+        "magnesium",
+        "magnesium and pregnancy",
+        "pregnancy",
+        "stroke",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 
@@ -31,19 +45,19 @@ The excess Calcium does not show up as a problem (for your cardiovascular system
 
 #### Calcium Controversy: Is > 500 mg is too much or is  <1000 mg is OK
 
-* <a href="/posts/little-change-in-calcium-absorption-when-taking-400-vs-4000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3259">Little change in Calcium absorption when taking 400 vs 4,000 IU of vitamin D – Oct 2012</a>
+* [Little change in Calcium absorption when taking 400 vs 4,000 IU of vitamin D – Oct 2012](/posts/little-change-in-calcium-absorption-when-taking-400-vs-4000-iu-of-vitamin-d)
 
 * [Controversy: Too much Calcium if increase Vitamin D](/posts/controversy-too-much-calcium-if-increase-vitamin-d)
 
-* <a href="/posts/calcium-absorption-increased-only-6-percent-for-high-amounts-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3070">Calcium absorption increased only 6 percent for high amounts of vitamin D – RCT Aug 2012</a>
+* [Calcium absorption increased only 6 percent for high amounts of vitamin D – RCT Aug 2012](/posts/calcium-absorption-increased-only-6-percent-for-high-amounts-of-vitamin-d-rct)
 
 > some say major problem with just 2,000 IU of vitamin D, others say no problem with 10,000 IU
 
-* <a href="/posts/1000-mg-of-calcium-resulted-in-some-problems-no-matter-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2950">1000 mg of Calcium resulted in some problems no matter how much vitamin D – June 2012</a> 1 year test
+* [1000 mg of Calcium resulted in some problems no matter how much vitamin D – June 2012](/posts/1000-mg-of-calcium-resulted-in-some-problems-no-matter-how-much-vitamin-d) 1 year test
 
 * [More than 800 mg of Calcium increases Cardiovascular events by 85 % – Nov 2011](/posts/more-than-800-mg-of-calcium-increases-cardiovascular-events-by-85-percent)
 
-* <a href="/posts/interaction-between-vitamin-d-and-calcium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2668">Interaction between Vitamin D and calcium – April 2012</a>
+* [Interaction between Vitamin D and calcium – April 2012](/posts/interaction-between-vitamin-d-and-calcium)
 
 Most people already get enough Calcium in the diet and supplements. In fact too much Calcium if they take a lot of vitamin D
 

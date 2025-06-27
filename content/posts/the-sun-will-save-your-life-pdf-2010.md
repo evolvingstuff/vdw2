@@ -1,15 +1,18 @@
 {
-  "title": "The Sun Will Save Your Life \u2013 PDF 2010",
-  "slug": "the-sun-will-save-your-life-pdf-2010",
-  "aliases": [
-    "/The+Sun+Will+Save+Your+Life+\u2013+PDF+2010",
-    "/1210"
-  ],
-  "tiki_page_id": 1210,
-  "date": "2010-12-06",
-  "categories": [
-    "Books, videos on Vitamin D"
-  ]
+    "title": "The Sun Will Save Your Life \u2013 PDF 2010",
+    "slug": "the-sun-will-save-your-life-pdf-2010",
+    "aliases": [
+        "/The+Sun+Will+Save+Your+Life+\u2013+PDF+2010",
+        "/1210"
+    ],
+    "tiki_page_id": 1210,
+    "date": "2010-12-06",
+    "categories": [
+        "Books, videos on Vitamin D"
+    ],
+    "tags": [
+        "Books, videos on Vitamin D"
+    ]
 }
 
 
@@ -24,4 +27,3 @@ http://colganinstitute.com/index.php?main_page=product_info&cPath=1&products_id=
 {IMG(attId="334,336")}{IMG}
 
 ## [CLICK HERE for more books - including some free ones](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=28&deep=off)
-

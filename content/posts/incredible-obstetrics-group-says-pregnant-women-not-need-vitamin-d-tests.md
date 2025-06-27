@@ -1,16 +1,34 @@
 {
-  "title": "Incredible \u2013 Obstetrics group says pregnant women not need vitamin D tests",
-  "slug": "incredible-obstetrics-group-says-pregnant-women-not-need-vitamin-d-tests",
-  "aliases": [
-    "/Incredible+\u2013+Obstetrics+group+says+pregnant+women+not+need+vitamin+D+tests+\u2013+June+2011",
-    "/1746"
-  ],
-  "tiki_page_id": 1746,
-  "date": "2011-06-20",
-  "categories": [
-    "Pregnancy"
-  ]
+    "title": "Incredible \u2013 Obstetrics group says pregnant women not need vitamin D tests",
+    "slug": "incredible-obstetrics-group-says-pregnant-women-not-need-vitamin-d-tests",
+    "aliases": [
+        "/Incredible+\u2013+Obstetrics+group+says+pregnant+women+not+need+vitamin+D+tests+\u2013+June+2011",
+        "/1746"
+    ],
+    "tiki_page_id": 1746,
+    "date": "2011-06-20",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "asthma",
+        "blood levels",
+        "bone",
+        "breastfed",
+        "breathing",
+        "child",
+        "diabetes",
+        "dosage",
+        "in vitro fertilization",
+        "metabolic",
+        "preeclampsia",
+        "pregnancy",
+        "rickets",
+        "vitamin d"
+    ]
 }
+
 
 &nbsp;
 

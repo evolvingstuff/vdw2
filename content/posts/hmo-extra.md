@@ -1,15 +1,48 @@
 {
-  "title": "HMO extra",
-  "slug": "hmo-extra",
-  "aliases": [
-    "/HMO+extra",
-    "/1983"
-  ],
-  "tiki_page_id": 1983,
-  "date": "2011-09-02",
-  "categories": [
-    "Cost savings with Vitamin D"
-  ]
+    "title": "HMO extra",
+    "slug": "hmo-extra",
+    "aliases": [
+        "/HMO+extra",
+        "/1983"
+    ],
+    "tiki_page_id": 1983,
+    "date": "2011-09-02",
+    "categories": [
+        "Cost savings with Vitamin D"
+    ],
+    "tags": [
+        "Cost savings with Vitamin D",
+        "bariatric surgery",
+        "bladder cancer",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "colon cancer",
+        "diabetes",
+        "dosage",
+        "endometriosis",
+        "falls fractures",
+        "health risk",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "metabolic",
+        "obesity",
+        "obesity and cancer",
+        "pregnancy",
+        "prostate cancer",
+        "skin cancer",
+        "thyroid cancer",
+        "transplant",
+        "trauma surgery",
+        "vitamin d",
+        "vitamin k"
+    ]
 }
 
 

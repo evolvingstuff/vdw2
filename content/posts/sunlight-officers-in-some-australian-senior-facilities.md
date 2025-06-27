@@ -1,17 +1,27 @@
 {
-  "title": "\\\"Sunlight Officers\\\" in some Australian senior facilities",
-  "slug": "sunlight-officers-in-some-australian-senior-facilities",
-  "aliases": [
-    "/Sunlight+Officers+in+some+Australian+senior+facilities+-+Sept+2011",
-    "/2019"
-  ],
-  "tiki_page_id": 2019,
-  "date": "2011-09-20",
-  "categories": [
-    "Seniors",
-    "Vitamin D in Australia and New Zealand",
-    "Shut-in"
-  ]
+    "title": "\\\"Sunlight Officers\\\" in some Australian senior facilities",
+    "slug": "sunlight-officers-in-some-australian-senior-facilities",
+    "aliases": [
+        "/Sunlight+Officers+in+some+Australian+senior+facilities+-+Sept+2011",
+        "/2019"
+    ],
+    "tiki_page_id": 2019,
+    "date": "2011-09-20",
+    "categories": [
+        "Seniors",
+        "Vitamin D in Australia and New Zealand",
+        "Shut-in"
+    ],
+    "tags": [
+        "Seniors",
+        "Shut-in",
+        "Vitamin D in Australia and New Zealand",
+        "bone",
+        "dosage",
+        "falls fractures",
+        "osteoporosis",
+        "vitamin d"
+    ]
 }
 
 

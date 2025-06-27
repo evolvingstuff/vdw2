@@ -1,16 +1,32 @@
 {
-  "title": "Calcium with Vitamin D2 then D3 helps A-A after heart failure",
-  "slug": "calcium-with-vitamin-d2-then-d3-helps-a-a-after-heart-failure",
-  "aliases": [
-    "/Calcium+with+Vitamin+D2+then+D3+helps+A-A+after+heart+failure+\u2013+Jan+2011",
-    "/1320"
-  ],
-  "tiki_page_id": 1320,
-  "date": "2011-01-18",
-  "categories": [
-    "Skin - Dark",
-    "Cardiovascular"
-  ]
+    "title": "Calcium with Vitamin D2 then D3 helps A-A after heart failure",
+    "slug": "calcium-with-vitamin-d2-then-d3-helps-a-a-after-heart-failure",
+    "aliases": [
+        "/Calcium+with+Vitamin+D2+then+D3+helps+A-A+after+heart+failure+\u2013+Jan+2011",
+        "/1320"
+    ],
+    "tiki_page_id": 1320,
+    "date": "2011-01-18",
+    "categories": [
+        "Skin - Dark",
+        "Cardiovascular"
+    ],
+    "tags": [
+        "Cardiovascular",
+        "Skin - Dark",
+        "autoimmune",
+        "blood levels",
+        "cardiovascular",
+        "dosage",
+        "heart failure",
+        "high dose",
+        "intervention",
+        "pain",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
 
 
@@ -28,5 +44,4 @@ METHODS: Herein, a 14-week regimen: an initial 8 weeks of oral ergocalciferol (5
 
 RESULTS: Reduced 25(OH)D at entry (14.4 ± 1.3 ng/mL) was improved (P < 0.05) in all patients at 8 weeks (30.7 ± 3.2 ng/mL) and sustained (P < 0.05) at 14 weeks (30.9 ± 2.8 ng/mL). Serum PTH, abnormally increased in 5 patients at baseline (104.8 ± 8.2 pg/mL), was reduced at 8 and 14 weeks (74.4 ± 18.3 and 73.8 ± 13.0 pg/mL, respectively). Plasma 8-isoprostane at entry (136.1 ± 8.8 pg/mL) was reduced at 14 weeks (117.8 ± 7.8 pg/mL; P < 0.05), whereas baseline EF (24.3 ± 1.7%) was improved (31.3 ± 4.3%; P < 0.05).
 
-CONCLUSIONS: Thus, the 14-week course of supplemental vitamin D and CaCO3 led to healthy 25(OH)D levels in AA with heart failure having vitamin D deficiency of moderate-to-marked severity. Albeit a small patient population, the findings suggest that this regimen may attenuate the accompanying secondary hyperparathyroidism and oxidative stress and improve ventricular function. PMID: 21239963 
-
+CONCLUSIONS: Thus, the 14-week course of supplemental vitamin D and CaCO3 led to healthy 25(OH)D levels in AA with heart failure having vitamin D deficiency of moderate-to-marked severity. Albeit a small patient population, the findings suggest that this regimen may attenuate the accompanying secondary hyperparathyroidism and oxidative stress and improve ventricular function. PMID: 21239963

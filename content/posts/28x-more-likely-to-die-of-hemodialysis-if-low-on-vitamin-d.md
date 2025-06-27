@@ -1,16 +1,30 @@
 {
-  "title": "2.8X more likely to die of hemodialysis if low on vitamin D",
-  "slug": "28x-more-likely-to-die-of-hemodialysis-if-low-on-vitamin-d",
-  "aliases": [
-    "/28X+more+likely+to+die+of+hemodialysis+if+low+on+vitamin+D",
-    "/1917"
-  ],
-  "tiki_page_id": 1917,
-  "date": "2011-08-14",
-  "categories": [
-    "Kidney"
-  ]
+    "title": "2.8X more likely to die of hemodialysis if low on vitamin D",
+    "slug": "28x-more-likely-to-die-of-hemodialysis-if-low-on-vitamin-d",
+    "aliases": [
+        "/28X+more+likely+to+die+of+hemodialysis+if+low+on+vitamin+D",
+        "/1917"
+    ],
+    "tiki_page_id": 1917,
+    "date": "2011-08-14",
+    "categories": [
+        "Kidney"
+    ],
+    "tags": [
+        "Kidney",
+        "blood levels",
+        "cancer",
+        "dialysis",
+        "hemodialysis",
+        "kidney",
+        "life span",
+        "metabolic",
+        "mortality",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
 }
+
 
 {{< toc >}}
 
