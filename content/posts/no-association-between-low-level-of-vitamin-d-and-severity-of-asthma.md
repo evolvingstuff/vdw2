@@ -56,4 +56,4 @@ Conclusion VD and VDBP level in various asthma groups, did not differ significan
 
 * <a href="/posts/low-vitamin-d-associated-with-asthma-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 135">Low Vitamin D associated with asthma - 2010</a>
 
-* [Severity of difficult asthma not proportional to vitamin D levels – Nov 2012](/posts/severity-of-difficult-asthma-not-proportional-to-vitamin-d-levels) same journal, 2 years later
+* <a href="/posts/severity-of-difficult-asthma-not-proportional-to-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3446">Severity of difficult asthma not proportional to vitamin D levels – Nov 2012</a> same journal, 2 years later

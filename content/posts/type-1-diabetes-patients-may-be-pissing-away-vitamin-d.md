@@ -58,6 +58,6 @@ Conclusions: These findings suggest that, theoretically, exaggerated urinary los
 
 * <a href="/posts/overview-of-diabetes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview of Diabetes</a>
 
-* [Type 1 Diabetes associated with low vitamin D, especially in dark skinned youths – Dec 2012](/posts/type-1-diabetes-associated-with-low-vitamin-d-especially-in-dark-skinned-youths)
+* <a href="/posts/type-1-diabetes-associated-with-low-vitamin-d-especially-in-dark-skinned-youths" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3536">Type 1 Diabetes associated with low vitamin D, especially in dark skinned youths – Dec 2012</a>
 
 * <a href="/posts/t1-diabetes-65-x-more-likely-in-south-african-blacks-if-poor-vitamin-d-binding-protein" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: T1 Diabetes 6.5 X more likely in South African Blacks if poor Vitamin D Binding Protein – July 2022">T1 Diabetes 6.5 X more likely in South African Blacks if poor Vitamin D Binding Protein – July 2022</a>

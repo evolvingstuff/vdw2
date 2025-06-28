@@ -146,7 +146,7 @@ Conclusion: In conclusion, this study found that combining high 25(OH)D levels a
 
 #### Magnesium in water also associated with a reduction in stroke - 2012
 
- **[100 mg more Magnesium in water associated with 8 percent reduction in stroke – Feb 2012](/posts/100-mg-more-magnesium-in-water-associated-with-8-percent-reduction-in-stroke)** 
+ **<a href="/posts/100-mg-more-magnesium-in-water-associated-with-8-percent-reduction-in-stroke" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2431">100 mg more Magnesium in water associated with 8 percent reduction in stroke – Feb 2012</a>** 
 
 Independent evidence shows that Vitamin D and Magnesium both reduce strokes.
 
@@ -162,7 +162,7 @@ Expect that they would do well together - perhaps more than 2X the benefit
 
 * [Rusting from the inside](https://www.youtube.com/watch?v=CGq9q00G48g&t=2s) - Mercola Video - 11 minutes
 
-   * See in VitaminDWiki [Overview Iron Supplements and Vitamin D](/posts/overview-iron-supplements-and-vitamin-d)
+   * See in VitaminDWiki <a href="/posts/overview-iron-supplements-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Iron Supplements and Vitamin D">Overview Iron Supplements and Vitamin D</a>
 
 ---
 

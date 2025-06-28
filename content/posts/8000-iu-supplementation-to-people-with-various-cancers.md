@@ -84,7 +84,7 @@ The response to supplementation from suboptimal to optimal levels was greatest i
 
 ## See also at VitaminDWiki
 
-* [Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012](/posts/restoring-vitamin-d-levels-to-pancreatic-patients-required-up-to-20000-iu-daily)
+* <a href="/posts/restoring-vitamin-d-levels-to-pancreatic-patients-required-up-to-20000-iu-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2734">Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012</a>
 
 * <a href="/posts/how-i-treat-vitamin-d-deficiency-for-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 847">How I Treat Vitamin D Deficiency - for Cancer Mar 2010</a>
 

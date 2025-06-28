@@ -42,11 +42,11 @@
 
 **Connection?:  Contraceptives ==> reduce bleeding ==> less anemia ==> increased Vitamin D** 
 
-* [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
+* <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>
 
 * <a href="/posts/low-vitamin-d-anemia-22x-more-likely-no-surprise-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D - anemia 2.2X more likely (no surprise) – meta-analysis Aug 2015">Low vitamin D - anemia 2.2X more likely (no surprise) – meta-analysis Aug 2015</a>
 
-* [5X more likely to be vitamin D deficient if anemic - Dec 2012](/posts/5x-more-likely-to-be-vitamin-d-deficient-if-anemic)
+* <a href="/posts/5x-more-likely-to-be-vitamin-d-deficient-if-anemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5X more likely to be vitamin D deficient if anemic - Dec 2012">5X more likely to be vitamin D deficient if anemic - Dec 2012</a>
 
 {{< toc >}}
 

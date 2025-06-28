@@ -77,7 +77,7 @@ Vitamin D has been recommended by Global ALS group since 2015
 
 Vitamin D Receptor Activators (Resveratrol and Curcumin) treat ALS
 
- **You might want to see instead: [Ankylosing spondylitis and low vitamin D – many studies](/posts/ankylosing-spondylitis-and-low-vitamin-d-many-studies)** 
+ **You might want to see instead: <a href="/posts/ankylosing-spondylitis-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ankylosing spondylitis and low vitamin D – many studies">Ankylosing spondylitis and low vitamin D – many studies</a>** 
 
 {{< toc >}}
 
@@ -538,4 +538,4 @@ Our findings highlighted that 6-month supplementation of vitamin D in ALS patien
 
 * <a href="/posts/muscular-dystrophies-low-vitamin-d-might-be-associated-with-all-9-types" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018">Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018</a>
 
-* [Muscles and Vitamin D - many studies](/posts/muscles-and-vitamin-d-many-studies)
+* <a href="/posts/muscles-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscles and Vitamin D - many studies">Muscles and Vitamin D - many studies</a>

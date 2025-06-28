@@ -171,7 +171,7 @@
 
 * <a href="/posts/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough</a>
 
-* [European Osteo group recommends 20-50 ng of vitamin D – Jan 2013](/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d)
+* <a href="/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: European Osteo group recommends 20-50 ng of vitamin D – Jan 2013">European Osteo group recommends 20-50 ng of vitamin D – Jan 2013</a>
 
 * [25 experts recommend vitamin D level of min 30 ng – Nov 2009](/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng)
 

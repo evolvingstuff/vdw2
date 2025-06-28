@@ -52,7 +52,7 @@ While follow-up testing was 42% more likely if a patient was found to be vitamin
 
 * [Vitamin D might reduce military costs for UC and CD – June 2011](/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd) some of the same authors
 
-* [VA found less testing for vitamin D resulted in increased health costs – Jan 2012](/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs)
+* <a href="/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2305">VA found less testing for vitamin D resulted in increased health costs – Jan 2012</a>
 
 * <a href="/posts/dark-skin-associated-with-low-vitamin-d-and-obesity-related-diseases" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2419">Dark skin associated with low vitamin D and obesity-related diseases – Sept 2011</a>
 
@@ -60,7 +60,7 @@ While follow-up testing was 42% more likely if a patient was found to be vitamin
 
 * [All items in category Skin color and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc) 187 items as of Feb 2012
 
-* [Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011](/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d)
+* <a href="/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2200">Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011</a>
 
 * <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a>
 

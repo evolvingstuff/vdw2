@@ -102,7 +102,7 @@ PMID: 21986034
 
    * Those younger than 18 were  **<span style="color:#00F;">14X</span>**  more likely to have less than 10 ng
 
-* [Children with severe asthma had much lower levels of vitamin D – Dec 2011](/posts/children-with-severe-asthma-had-much-lower-levels-of-vitamin-d)
+* <a href="/posts/children-with-severe-asthma-had-much-lower-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2386">Children with severe asthma had much lower levels of vitamin D – Dec 2011</a>
 
 * <a href="/posts/span-stylecolorf00magnesium-span-deficiency-reduces-vitamin-d-effectiveness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1977"> **<span style="color:#F00;">Magnesium </span>** Deficiency Reduces Vitamin D Effectiveness- Sept 2011</a>
 

@@ -93,23 +93,23 @@ HMOs can get huge amount of money from use of vitamin D
 
 ## Highlights of New/Revised web pages for Nov and Dec 2011 <span style="color:#00F;">many having full text which can be read and translated, not just attached PDF</span>
 
-* [40 ng Vitamin D perhaps optimal for reduced mortality -Meta-analysis Jan 2012](/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis)
+* <a href="/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2246">40 ng Vitamin D perhaps optimal for reduced mortality -Meta-analysis Jan 2012</a>
 
 * [Lack of health insurance varies with latitude - like UV](https://www.VitaminDWiki.com/tiki-index.php?page=Lack%20of%20health%20insurance%20varies%20with%20latitude%20-%20like%20UV)
 
 * <a href="/posts/pneumonia-elderly-death-12x-more-likely-when-vitamin-d-less-than-12-ng-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1324">Pneumonia elderly death 12X more likely when vitamin D less than 12 ng -2011</a>
 
-* [Lung and Vitamin D - Special Issue Dec 2011](/posts/lung-and-vitamin-d-special-issue)
+* <a href="/posts/lung-and-vitamin-d-special-issue" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2278">Lung and Vitamin D - Special Issue Dec 2011</a>
 
-* [75 % of children in NE US had less than 20 ng of vitamin D in winter - Dec 2011](/posts/75-percent-of-children-in-ne-us-had-less-than-20-ng-of-vitamin-d-in-winter)
+* <a href="/posts/75-percent-of-children-in-ne-us-had-less-than-20-ng-of-vitamin-d-in-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2277">75 % of children in NE US had less than 20 ng of vitamin D in winter - Dec 2011</a>
 
 * [Should we be giving enhanced vitamin D intakes to all - Debate Dec 2011](https://www.VitaminDWiki.com/tiki-index.php?page=Should%20we%20be%20giving%20enhanced%20vitamin%20D%20intakes%20to%20all%20-%20Debate%20Dec%202011)
 
 * [Vitamin D patents became public in 1946](https://www.VitaminDWiki.com/tiki-index.php?page=Vitamin%20D%20patents%20became%20public%20-%201946)
 
-* [No diabetes if more than 30 ng of vitamin D - Dec 2011](/posts/no-diabetes-if-more-than-30-ng-of-vitamin-d)
+* <a href="/posts/no-diabetes-if-more-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2273">No diabetes if more than 30 ng of vitamin D - Dec 2011</a>
 
-* [Coloradans paid by Kaiser to lose weight - Dec 2011](/posts/coloradans-paid-by-kaiser-to-lose-weight)
+* <a href="/posts/coloradans-paid-by-kaiser-to-lose-weight" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2271">Coloradans paid by Kaiser to lose weight - Dec 2011</a>
 
 * <a href="/posts/meta-graphs-of-vitamin-d-and-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2270">Meta-graphs of vitamin D and Cancer - Dec 2011</a>
 
@@ -123,21 +123,21 @@ HMOs can get huge amount of money from use of vitamin D
 
 * [Quickself test of vitamin D deficiency](https://www.VitaminDWiki.com/tiki-index.php?page=Quick%20self%20test%20of%20vitamin%20D%20deficiency)
 
-* [Cancer patients 64% less likely to die if have high level of vitamin D -Dec 2011](/posts/cancer-patients-64-percent-less-likely-to-die-if-have-high-level-of-vitamin-d)
+* <a href="/posts/cancer-patients-64-percent-less-likely-to-die-if-have-high-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2267">Cancer patients 64% less likely to die if have high level of vitamin D -Dec 2011</a>
 
 * <a href="/posts/review-of-possible-ways-that-vitamin-d-fights-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2248">Review of possible ways that vitamin D fights cancer - Jan 2012</a>
 
 * [Genetic differences explain some of vitamin D variation in African-Americans Dec 2011](https://www.VitaminDWiki.com/tiki-index.php?page=Genetic%20differences%20explain%20some%20of%20vitamin%20D%20variation%20in%20Arfican-Americans%20Dec%202011)
 
-* [Only half of bone fracture patients were given treatment, the most popular being vitamin D - Dec 2011](/posts/only-half-of-bone-fracture-patients-were-given-treatment-the-most-popular-being-vitamin-d)
+* <a href="/posts/only-half-of-bone-fracture-patients-were-given-treatment-the-most-popular-being-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2261">Only half of bone fracture patients were given treatment, the most popular being vitamin D - Dec 2011</a>
 
-* [Psoriasis best treated by combinations such as vitamin D and UVB -meta-analysis Dec 2011](/posts/psoriasis-best-treated-by-combinations-such-as-vitamin-d-and-uvb-meta-analysis)
+* <a href="/posts/psoriasis-best-treated-by-combinations-such-as-vitamin-d-and-uvb-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2260">Psoriasis best treated by combinations such as vitamin D and UVB -meta-analysis Dec 2011</a>
 
 * [Reduce probability of getting the Flu](https://www.VitaminDWiki.com/tiki-index.php?page=Reduce%20probability%20of%20getting%20the%20Flu)
 
 * [Flu vaccine effectiveness and side effects](https://www.VitaminDWiki.com/tiki-index.php?page=Flu%20vaccine%20effectiveness%20and%20side%20effects)
 
-* [Should seniors get a vitamin D booster shot for Influenza - Jan 2012](/posts/should-seniors-get-a-vitamin-d-booster-shot-for-influenza)
+* <a href="/posts/should-seniors-get-a-vitamin-d-booster-shot-for-influenza" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2254">Should seniors get a vitamin D booster shot for Influenza - Jan 2012</a>
 
 * [Finland max 2000 IU vitamin D since cannot get more from food - 2011](https://www.VitaminDWiki.com/tiki-index.php?page=Finland%20max%202000%20IU%20vitamin%20D%20since%20cannot%20get%20more%20from%20food%20-%202011)
 
@@ -151,15 +151,15 @@ HMOs can get huge amount of money from use of vitamin D
 
 * [Chance of a fall decreased with vitamin D3 but increased with D2 -Oct 2011](/posts/chance-of-a-fall-decreased-with-vitamin-d3-but-increased-with-d2)
 
-* [Tissue repair growth factor and platelet count associated with vitamin D -Jan 2012](/posts/tissue-repair-growth-factor-and-platelet-count-associated-with-vitamin-d)
+* <a href="/posts/tissue-repair-growth-factor-and-platelet-count-associated-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2237">Tissue repair growth factor and platelet count associated with vitamin D -Jan 2012</a>
 
-* [Breathing by seniors harder when have low levels of vitamin D - Dec 2011](/posts/breathing-by-seniors-harder-when-have-low-levels-of-vitamin-d)
+* <a href="/posts/breathing-by-seniors-harder-when-have-low-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2235">Breathing by seniors harder when have low levels of vitamin D - Dec 2011</a>
 
 * [Vitamin D and breast cancer radiation](https://www.VitaminDWiki.com/tiki-index.php?page=Vitamin%20D%20and%20breast%20cancer%20radiation)
 
 * [Types of vitamin D - Medscape Dec 2011](https://www.VitaminDWiki.com/tiki-index.php?page=Types%20of%20vitamin%20D%20-%20Medscape%20Dec%202011)
 
-* [The difference between a prophet and a madman - by Dr. Cannell  Nov 2011](/posts/the-difference-between-a-prophet-and-a-madman-by-dr-cannell)
+* <a href="/posts/the-difference-between-a-prophet-and-a-madman-by-dr-cannell" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2227">The difference between a prophet and a madman - by Dr. Cannell  Nov 2011</a>
 
 * [Vitamin D3 not D2](https://www.VitaminDWiki.com/tiki-index.php?page=Vitamin%20D3%20not%20D2)
 
@@ -167,7 +167,7 @@ HMOs can get huge amount of money from use of vitamin D
 
 * [Vitamin D in asthma and allergy - editorial Dec 2011](https://www.VitaminDWiki.com/tiki-index.php?page=Vitamin%20D%20in%20asthma%20and%20allergy%20-%20editorial%20Dec%202011)
 
-* [Vitamin D improves athletic performance - Dec 2011](/posts/vitamin-d-improves-athletic-performance)
+* <a href="/posts/vitamin-d-improves-athletic-performance" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2217">Vitamin D improves athletic performance - Dec 2011</a>
 
 * [Obesity and diabetes reduced when move to better neighborhood - or better UV - Oct 2011](/posts/obesity-and-diabetes-reduced-when-move-to-better-neighborhood-or-better-uv)
 
@@ -177,17 +177,17 @@ HMOs can get huge amount of money from use of vitamin D
 
 * [Non-cancer colon growths 7 percent less likely with each 10 ng increase invitamin D - Oct 2011](https://www.VitaminDWiki.com/tiki-index.php?page=Non-cancer%20colon%20growths%207%20percent%20less%20likely%20with%20each%2010%20ng%20increase%20in%20vitamin%20D%20-%20Oct%202011)
 
-* [1600 IU daily Vitamin D raised adult blood levels above 20 ng - RCT Nov 2011](/posts/1600-iu-daily-vitamin-d-raised-adult-blood-levels-above-20-ng-rct)
+* <a href="/posts/1600-iu-daily-vitamin-d-raised-adult-blood-levels-above-20-ng-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2186">1600 IU daily Vitamin D raised adult blood levels above 20 ng - RCT Nov 2011</a>
 
 * [Women Vitamin D](https://www.VitaminDWiki.com/tiki-index.php?page=Women%20Vitamin%20D)
 
 * [Overview of Vitamin D Wiki for Fraser Health - Nov 2011](https://www.VitaminDWiki.com/tiki-index.php?page=Overview%20of%20Vitamin%20D%20Wiki%20for%20Fraser%20Health%20-%20Nov%202011)
 
-* [90 % of young health care professionals had less than 30 ng of vitamin D - Nov 2011](/posts/90-percent-of-young-health-care-professionals-had-less-than-30-ng-of-vitamin-d)
+* <a href="/posts/90-percent-of-young-health-care-professionals-had-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2205">90 % of young health care professionals had less than 30 ng of vitamin D - Nov 2011</a>
 
 * <a href="/posts/off-topic-dietary-supplement-organization-gauntlet" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2202">Off topic - Dietary supplement organization gauntlet - Nov2011</a>
 
-* [Vitamin D Recommendations during Pregnancy, Lactation and Early Infancy -Nov 2011](/posts/vitamin-d-recommendations-during-pregnancy-lactation-and-early-infancy)
+* <a href="/posts/vitamin-d-recommendations-during-pregnancy-lactation-and-early-infancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2204">Vitamin D Recommendations during Pregnancy, Lactation and Early Infancy -Nov 2011</a>
 
 * [Magnesium and Vitamin D - similar, different and synergistic](https://www.VitaminDWiki.com/tiki-index.php?page=Magnesium%20and%20Vitamin%20D%20-%20similar%2C%20different%20and%20synergistic)
 
@@ -197,11 +197,11 @@ HMOs can get huge amount of money from use of vitamin D
 
 * [Vitamin D - roles in women's reproductive health - Nov 2011](https://www.VitaminDWiki.com/tiki-index.php?page=Vitamin%20D%20-%20roles%20in%20women%27s%20reproductive%20health%20-%20Nov%202011)
 
-* [Survive surgery 3X better if overweight - Hypothesis - due to vitamin D released from fat - Nov 2011](/posts/survive-surgery-3x-better-if-overweight-hypothesis-due-to-vitamin-d-released-from-fat)
+* <a href="/posts/survive-surgery-3x-better-if-overweight-hypothesis-due-to-vitamin-d-released-from-fat" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2198">Survive surgery 3X better if overweight - Hypothesis - due to vitamin D released from fat - Nov 2011</a>
 
 * [Companies and individuals will benefit from more vitamin D](https://www.VitaminDWiki.com/tiki-index.php?page=Companies%20and%20individuals%20will%20benefit%20from%20more%20vitamin%20D)
 
-* [Kaiser working to decrease hip and other fractures - Nov 2011](/posts/kaiser-working-to-decrease-hip-and-other-fractures)
+* <a href="/posts/kaiser-working-to-decrease-hip-and-other-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2197">Kaiser working to decrease hip and other fractures - Nov 2011</a>
 
 * [Hypothesis:UVA through window glass decreases vitamin D - 2009](https://www.VitaminDWiki.com/tiki-index.php?page=Hypothesis%3A%20UVA%20through%20window%20glass%20decreases%20vitamin%20D%20-%202009)
 
@@ -219,15 +219,15 @@ HMOs can get huge amount of money from use of vitamin D
 
 * <a href="/posts/less-likely-to-get-pancreatic-cancer-if-have-more-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2187">Less likely to get Pancreatic Cancer if have more than 30 ng of vitamin D- Nov 2011</a>
 
-* [High maternal vitamin D resulted in 30 percent less infant problems with breathing - Nov 2011](/posts/high-maternal-vitamin-d-resulted-in-30-percent-less-infant-problems-with-breathing)
+* <a href="/posts/high-maternal-vitamin-d-resulted-in-30-percent-less-infant-problems-with-breathing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2183">High maternal vitamin D resulted in 30 percent less infant problems with breathing - Nov 2011</a>
 
 * [UV every two weeks maintains summer vitamin D level - RCT Oct2011](/posts/uv-every-two-weeks-maintains-summer-vitamin-d-level-rct)
 
-* [BONE SPURS not produced if have enough Vitamin D3, Vitamin K2, etc. -Nov 2011](/posts/bone-spurs-not-produced-if-have-enough-vitamin-d3-vitamin-k2-etc)
+* <a href="/posts/bone-spurs-not-produced-if-have-enough-vitamin-d3-vitamin-k2-etc" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2179">BONE SPURS not produced if have enough Vitamin D3, Vitamin K2, etc. -Nov 2011</a>
 
 * [Hypothesis of cause and effect of vitamin D deficiency](https://www.VitaminDWiki.com/tiki-index.php?page=Hypothesis%20of%20cause%20and%20effect%20of%20vitamin%20D%20deficiency)
 
-* [Much higher death rate 10 years after TIA - Nov 2011 -vitamin D might help](/posts/much-higher-death-rate-10-years-after-tia-nov-2011-vitamin-d-might-help)
+* <a href="/posts/much-higher-death-rate-10-years-after-tia-nov-2011-vitamin-d-might-help" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2172">Much higher death rate 10 years after TIA - Nov 2011 -vitamin D might help</a>
 
 ### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 40">CLICK HERE</a> for ALL pages created or updated as of the time you click
 

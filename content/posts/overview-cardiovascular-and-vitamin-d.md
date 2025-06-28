@@ -182,7 +182,7 @@ No Vitamin K2 to stop Calcium increased by Vitamin D from coating the arteries**
 
 *  **Mayo Clinic on methods of dealing with Afib April 2013 at the bottom of this page**   **Includes Vitamin D and Omega-3** 
 
-* [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
+* <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
 
 * [LA Times review of Fish Oil Meta-analysis](http://www.latimes.com/health/boostershots/la-heb-fish-oil-study-20120409,0,2337564.story) April 2012
 

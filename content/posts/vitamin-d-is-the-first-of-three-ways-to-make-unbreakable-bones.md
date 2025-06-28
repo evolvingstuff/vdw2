@@ -238,7 +238,7 @@ What is really needed, however is
 
 * [All items in category Bone Health](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=6&sort_mode=created_desc) 106 items April 2012
 
-* [Bone Health and vitamin D book - 2011](/posts/bone-health-and-vitamin-d-book-2011)
+* <a href="/posts/bone-health-and-vitamin-d-book-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2312">Bone Health and vitamin D book - 2011</a>
 
 * [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough) which has the following chart
 

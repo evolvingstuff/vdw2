@@ -57,4 +57,4 @@ PMID: 20854716
 
  **Unlikely that 100 IU extra vitamin D in the meat would have resulted in 10ng more in the blood: see following** 
 
-* [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
+* <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>

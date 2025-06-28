@@ -144,7 +144,7 @@ Conclusions: Anterior tibial tenderness is a valid clinical diagnostic tool for 
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/tibial-tenderness.pdf">Download the PDF from VitaminDWiki.</a>** 
 
-* in VitaminDWiki [Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013](/posts/vitamin-d-injections-of-a-total-of-1800000-iu-reduced-shinbone-tenderness)
+* in VitaminDWiki <a href="/posts/vitamin-d-injections-of-a-total-of-1800000-iu-reduced-shinbone-tenderness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013">Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013</a>
 
 ---
 

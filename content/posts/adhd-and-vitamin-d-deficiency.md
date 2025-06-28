@@ -537,7 +537,7 @@ Despite evidence linking prenatal acetaminophen (APAP) exposure and adverse neur
 
 Overall, detection of APAP in second trimester plasma was associated with higher odds for child ADHD diagnosis (** odds ratio of 3.15 **(95% confidence interval 1.20 to 8.29)). Prenatal APAP exposure and ADHD were associated with placental upregulation of immune system pathways in females and downregulation of oxidative phosphorylation in both sexes. In females only, prenatal APAP was associated with 5.22% higher odds (0.0456–13.1%) of ADHD statistically, mediated through increased immunoglobulin heavy constant gamma 1 (IGHG1) expression. These results highlight placental molecular mechanisms that may underlie developmental toxicity of prenatal APAP exposure.
 
-- - - -** Note:  *** [Acetaminophen (Tylenol) increases asthma](/posts/acetaminophen-tylenol-increases-asthma)
+- - - -** Note:  *** <a href="/posts/acetaminophen-tylenol-increases-asthma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Acetaminophen (Tylenol) increases asthma">Acetaminophen (Tylenol) increases asthma</a>
 
 * <a href="/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitamin-d-drops-15x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018">Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018</a>
 
@@ -635,7 +635,7 @@ The Groundbreaking Program for the 4-A Disorders," which has a chapter on supple
 
 > " The brain exercise group significantly improved, as compared to the control, on both the response inhibition measure and Stroop interference, a measure of executive function. A trend toward improvement, which did not reach significance, was noted on the two other secondary measures: sustained attention and short-term memory span."
 
-Note: The Founder of VitaminDWiki has been enjoying the great benefits of [BrainHQ since about 2005](/posts/off-topic-brain-plasticity-best-way-to-exercise-your-brain-interview)
+Note: The Founder of VitaminDWiki has been enjoying the great benefits of <a href="/posts/off-topic-brain-plasticity-best-way-to-exercise-your-brain-interview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic: Brain Plasticity (best way to exercise your brain) – Interview Dec 2012">BrainHQ since about 2005</a>
 
 ---
 

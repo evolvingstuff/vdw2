@@ -73,7 +73,7 @@
 
 * [Shin splints decrease with vitamin D](/posts/shin-splints-decrease-with-vitamin-d)
 
-* [Half as many fractures for girls with high vitamin D intake – March 2012 ](/posts/half-as-many-fractures-for-girls-with-high-vitamin-d-intake)
+* <a href="/posts/half-as-many-fractures-for-girls-with-high-vitamin-d-intake" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2455">Half as many fractures for girls with high vitamin D intake – March 2012 </a>
 
 > Vitamin D supplementation: 540 IU, 825 IU, 1100 IU, 1400 IU, 1900 IU 
 
@@ -89,7 +89,7 @@
 
 * [Ballet Dancers with low D had 50 percent more injuries – pilot study Sept 2011](/posts/ballet-dancers-with-low-d-had-50-percent-more-injuries-pilot-study) male
 
-* [Ballet dancers in the winter had more injuries and only 15 ng of vitamin D – Feb 2013](/posts/ballet-dancers-in-the-winter-had-more-injuries-and-only-15-ng-of-vitamin-d) female
+* <a href="/posts/ballet-dancers-in-the-winter-had-more-injuries-and-only-15-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ballet dancers in the winter had more injuries and only 15 ng of vitamin D – Feb 2013">Ballet dancers in the winter had more injuries and only 15 ng of vitamin D – Feb 2013</a> female
 
 * <a href="/posts/dark-skinned-ncaa-basketball-players-were-15x-more-likely-to-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skinned NCAA basketball players were 15X more likely to have low vitamin D – Feb 2014">Dark skinned NCAA basketball players were 15X more likely to have low vitamin D – Feb 2014</a>
 
@@ -97,7 +97,7 @@
 
 #### See also VitaminDWiki
 
-* [Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps)
+* <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">Vitamin D from low-cost UVB lamps</a>
 
 * [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
@@ -113,7 +113,7 @@
 
 * <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
 
-* [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
+* <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
 
 * <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
 

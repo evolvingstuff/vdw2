@@ -238,4 +238,4 @@ The triage theory posits that some functions of micronutrients (the approximatel
 
 * <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview Magnesium and vitamin D</a>
 
-* [Vitamin and Mineral deficiencies – Ames Triage Theory Sept 2012](/posts/vitamin-and-mineral-deficiencies-ames-triage-theory)
+* <a href="/posts/vitamin-and-mineral-deficiencies-ames-triage-theory" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3237">Vitamin and Mineral deficiencies – Ames Triage Theory Sept 2012</a>

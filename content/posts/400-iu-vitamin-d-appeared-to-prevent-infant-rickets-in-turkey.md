@@ -58,4 +58,4 @@ Conclusions: 400 U/day vitamin D seems adequate to prevent vitamin D deficiency.
 
 #### See also VitaminDWiki
 
-* [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)
+* <a href="/posts/overview-of-rickets-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview of Rickets and Vitamin D">Overview of Rickets and Vitamin D</a>

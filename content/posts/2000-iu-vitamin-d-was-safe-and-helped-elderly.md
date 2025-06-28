@@ -118,7 +118,7 @@ PMID: 21288233
 
 * [Osteoporosis reduced by 800 or more IU of vitamin D - July 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1333)
 
-* [Vitamin D Omega 3 and Exercise are being used in controlled trial to support healthy ageing – Feb 2012](/posts/vitamin-d-omega-3-and-exercise-are-being-used-in-controlled-trial-to-support-healthy-ageing)
+* <a href="/posts/vitamin-d-omega-3-and-exercise-are-being-used-in-controlled-trial-to-support-healthy-ageing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2375">Vitamin D Omega 3 and Exercise are being used in controlled trial to support healthy ageing – Feb 2012</a>
 
 * <a href="/posts/both-calcium-and-vitamin-d-needed-to-prevent-elderly-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 995">Both Calcium AND vitamin D needed to prevent elderly fractures – Sept 2010</a>
 

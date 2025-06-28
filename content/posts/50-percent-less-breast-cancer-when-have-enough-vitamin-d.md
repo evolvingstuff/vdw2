@@ -107,7 +107,7 @@ PMID:     21868542
 
 * <a href="/posts/breast-cancer-survivors-should-take-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 821">Breast cancer survivors should take vitamin D – Mar 2010</a>
 
-* [Breast tumor 1 inch bigger for each 1 ng decrease in vitamin D – Dec 2011](/posts/breast-tumor-1-inch-bigger-for-each-1-ng-decrease-in-vitamin-d)
+* <a href="/posts/breast-tumor-1-inch-bigger-for-each-1-ng-decrease-in-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2284">Breast tumor 1 inch bigger for each 1 ng decrease in vitamin D – Dec 2011</a>
 
 # Chart from 2010
 

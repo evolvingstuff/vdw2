@@ -569,7 +569,7 @@ Conclusion: Oral vitamin D combination with topical minoxidil is recommended to 
 
    * Red hair apparently allows more production of vitamin D from the same amount of sunlight
 
-* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)
+* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
 
 ### See also web
 
@@ -911,7 +911,7 @@ CONCLUSIONS: This study indicated the correlation between the incidence of FPHL 
 
    * Red hair apparently allows more production of vitamin D from the same amount of sunlight
 
-* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)
+* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
 
 ---
 

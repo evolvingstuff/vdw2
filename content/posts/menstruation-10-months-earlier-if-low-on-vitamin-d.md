@@ -28,7 +28,7 @@
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
 
-* [Early Puberty if low vitamin D - many studies](/posts/early-puberty-if-low-vitamin-d-many-studies)
+* <a href="/posts/early-puberty-if-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early Puberty if low vitamin D - many studies">Early Puberty if low vitamin D - many studies</a>
 
 * [depression category in VitaminDWiki](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&deep=off&type=)
 

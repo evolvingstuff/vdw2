@@ -89,7 +89,7 @@ Vitamin D deficiency is associated with mortality in the general population and 
 
    * Rheumatoid Arthritis  is reduced when vitamin D levels are  **60-70 ng**  
 
-   * And when Omega-6 (which blocks [Omega-3)](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d) is reduced 
+   * And when Omega-6 (which blocks <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3)</a> is reduced 
 
       * Saflower, Sunflower, Grapeseed, Corn, Soybean
 

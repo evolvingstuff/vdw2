@@ -520,3 +520,32 @@ article {
     background-color: #e4e4e4;
     cursor: pointer;
 }
+
+/* Scroll navigation buttons */
+.scroll-nav-top,
+.scroll-nav-bottom {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 0;
+}
+
+.scroll-button {
+    display: flex;
+    align-items: center;
+    background-color: #D84315;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.2s ease;
+}
+
+.scroll-button:hover {
+    background-color: #bf360c;
+}
+
+.scroll-button svg {
+    margin-right: 6px;
+}

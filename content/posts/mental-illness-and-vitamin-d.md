@@ -45,9 +45,9 @@
 
 * <a href="/posts/prisoners-have-very-low-vitamin-d-and-get-tb-influenza-and-depression" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prisoners have very low vitamin D and get TB, influenza, and depression">Prisoners have very low vitamin D and get TB, influenza, and depression</a>
 
-* [Prisoners in psychiatric wards have very low levels of vitamin D – Oct 2012](/posts/prisoners-in-psychiatric-wards-have-very-low-levels-of-vitamin-d)
+* <a href="/posts/prisoners-in-psychiatric-wards-have-very-low-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prisoners in psychiatric wards have very low levels of vitamin D – Oct 2012">Prisoners in psychiatric wards have very low levels of vitamin D – Oct 2012</a>
 
-* [Prison doctor on lack of vitamin D in solitary confinement – July 2013](/posts/prison-doctor-on-lack-of-vitamin-d-in-solitary-confinement)
+* <a href="/posts/prison-doctor-on-lack-of-vitamin-d-in-solitary-confinement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prison doctor on lack of vitamin D in solitary confinement – July 2013">Prison doctor on lack of vitamin D in solitary confinement – July 2013</a>
 
 * [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) - a few of the sun-related reasons are below
 

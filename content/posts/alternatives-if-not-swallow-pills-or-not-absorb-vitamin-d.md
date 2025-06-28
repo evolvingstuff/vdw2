@@ -43,14 +43,14 @@
 
 ## See also VitaminDWiki
 
-[Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps)
+<a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">Vitamin D from low-cost UVB lamps</a>
 
 [Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011](/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection)
 
-[Spray vitamin D inside cheek in case of emergency - Nov 2012](/posts/spray-vitamin-d-inside-cheek-in-case-of-emergency)
+<a href="/posts/spray-vitamin-d-inside-cheek-in-case-of-emergency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spray vitamin D inside cheek in case of emergency - Nov 2012">Spray vitamin D inside cheek in case of emergency - Nov 2012</a>
 
 <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
 
 <a href="/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014">Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014</a>
 
-[Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
+<a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>

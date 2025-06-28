@@ -129,7 +129,7 @@ Prostate cancer, Breast cancer, Bladder cancer, Skin Cancer, Osteoporosis, Ricke
 
 ---
 
-#### [Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013](/posts/strong-association-to-other-vitamin-d-deficiency-diseases-12-years-in-uk)
+#### <a href="/posts/strong-association-to-other-vitamin-d-deficiency-diseases-12-years-in-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013">Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013</a>
 
 Addison's disease, ankylosing spondylitis, autoimmune hemolytic anemia, chronic active hepatitis, celiac disease, 
 
@@ -285,7 +285,7 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * <a href="/posts/psoriasis-increases-risk-of-obstructive-sleep-apnea-by-14x-vitamin-d-not-mentioned" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis increases risk of Obstructive Sleep Apnea by 1.4X (vitamin D not mentioned) - Dec 2023">Psoriasis ==> Sleep Apnea</a>
 
-* [Celiac Disease ==> Anemia, Psoriasis](/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia)
+* <a href="/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013">Celiac Disease ==> Anemia, Psoriasis</a>
 
 * Celiac Disease ==> poor bones  Aug 2014
 

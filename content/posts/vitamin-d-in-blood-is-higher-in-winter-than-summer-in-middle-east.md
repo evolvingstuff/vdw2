@@ -75,6 +75,6 @@ Conclusion:? Seasonal differences in serum 25(OH)-vitamin D levels in Saudi Arab
 
 * [All items in Middle East](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=90&sort_mode=created_desc) 19 items as of Jan 2012
 
-* [Avoid the hot sun and thus vitamin D in the Middle East – Oct 2011](/posts/avoid-the-hot-sun-and-thus-vitamin-d-in-the-middle-east)
+* <a href="/posts/avoid-the-hot-sun-and-thus-vitamin-d-in-the-middle-east" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2328">Avoid the hot sun and thus vitamin D in the Middle East – Oct 2011</a>
 
-* [Vitamin D levels in the Middle East: very low, especially in summer – June 2012](/posts/vitamin-d-levels-in-the-middle-east-very-low-especially-in-summer)
+* <a href="/posts/vitamin-d-levels-in-the-middle-east-very-low-especially-in-summer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels in the Middle East: very low, especially in summer – June 2012">Vitamin D levels in the Middle East: very low, especially in summer – June 2012</a>

@@ -110,6 +110,6 @@ PMID:     21193053
 
 * [Vitamin D and Hair disorders – Feb 2010](/posts/vitamin-d-and-hair-disorders)
 
-* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)
+* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
 
 * <a href="/posts/stem-cell-transplant-hsct-death-28-percent-less-likely-for-each-10ng-higher-vitamin-d-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stem cell transplant (HSCT). death 28 percent less likely for each 10ng higher vitamin D level – Oct 2019">Stem cell transplant (HSCT). death 28 percent less likely for each 10ng higher vitamin D level – Oct 2019</a>

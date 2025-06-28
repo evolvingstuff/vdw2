@@ -45,7 +45,7 @@ Published by Elsevier Ltd. PMID: 2138267
 
 # See also VitaminDWiki
 
-* [Overview Schizophrenia and Vitamin D](/posts/overview-schizophrenia-and-vitamin-d)
+* <a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Overview Schizophrenia and Vitamin D</a>
 
 * <a href="/posts/infants-2x-more-likely-to-get-schizophrenia-if-had-very-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 901">Infants 2X more likely to get schizophrenia if had very low vitamin D – Sept 2010</a>
 

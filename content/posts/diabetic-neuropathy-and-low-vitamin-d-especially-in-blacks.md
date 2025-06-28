@@ -78,4 +78,4 @@ Conclusions:? Vitamin D insufficiency is associated with self-reported periphera
 
 * <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
 
-* [Diabetic Neuropathy sometimes can be reversed by vitamin D](/posts/diabetic-neuropathy-sometimes-can-be-reversed-by-vitamin-d)
+* <a href="/posts/diabetic-neuropathy-sometimes-can-be-reversed-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic Neuropathy sometimes can be reversed by vitamin D">Diabetic Neuropathy sometimes can be reversed by vitamin D</a>

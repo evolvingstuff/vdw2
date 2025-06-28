@@ -143,7 +143,7 @@ In my considered opinion, it is an artifact of the long  follow-up time, not hig
 
 ---
 
-#### [Chart of Vitamin D levels vs race - April 2013](/posts/chart-of-vitamin-d-levels-vs-race)
+#### <a href="/posts/chart-of-vitamin-d-levels-vs-race" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013">Chart of Vitamin D levels vs race - April 2013</a>
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

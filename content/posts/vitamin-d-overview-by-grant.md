@@ -665,4 +665,4 @@ Zheng,   Y.,  Niyonsaba,  F.,  Ushio,  H.,  Nagaoka,  I.,   Ikeda,   S., Okumura
 
 * <a href="/posts/autism-and-vitamin-d-cannell-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism and vitamin D: Cannell, Grant – March 2013">Autism and vitamin D: Cannell, Grant – March 2013</a>
 
-* [Solar UVB reduces Cancer Risk – Grant, Jan 2013](/posts/solar-uvb-reduces-cancer-risk-grant)
+* <a href="/posts/solar-uvb-reduces-cancer-risk-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Solar UVB reduces Cancer Risk – Grant, Jan 2013">Solar UVB reduces Cancer Risk – Grant, Jan 2013</a>

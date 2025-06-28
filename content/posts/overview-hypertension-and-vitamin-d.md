@@ -299,27 +299,27 @@ Conclusion: This study found a statistically significant association between vit
 
 * <a href="/posts/diabetic-hypertension-reduced-with-vitamin-d-and-calcium-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic hypertension reduced with Vitamin D and Calcium – RCT March 2015">Diabetic hypertension reduced with Vitamin D and Calcium – RCT March 2015</a>
 
-* [8 percent less chance of hypertension with 10 percent increase in Vitamin D - June 2013](/posts/8-percent-less-chance-of-hypertension-with-10-percent-increase-in-vitamin-d)
+* <a href="/posts/8-percent-less-chance-of-hypertension-with-10-percent-increase-in-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 8 percent less chance of hypertension with 10 percent increase in Vitamin D - June 2013">8 percent less chance of hypertension with 10 percent increase in Vitamin D - June 2013</a>
 
-* [Hypertension reduced in mice on high fat diet by adding vitamin D for 6 weeks– Jan 2013](/posts/hypertension-reduced-in-mice-on-high-fat-diet-by-adding-vitamin-d-for-6-weeks)
+* <a href="/posts/hypertension-reduced-in-mice-on-high-fat-diet-by-adding-vitamin-d-for-6-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension reduced in mice on high fat diet by adding vitamin D for 6 weeks– Jan 2013">Hypertension reduced in mice on high fat diet by adding vitamin D for 6 weeks– Jan 2013</a>
 
-* [Vitamin D and Arterial Hypertension: Treat the Deficiency - Feb 2013](/posts/vitamin-d-and-arterial-hypertension-treat-the-deficiency)
+* <a href="/posts/vitamin-d-and-arterial-hypertension-treat-the-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Arterial Hypertension: Treat the Deficiency - Feb 2013">Vitamin D and Arterial Hypertension: Treat the Deficiency - Feb 2013</a>
 
 * <a href="/posts/reduce-blood-pressure-by-9-mm-with-triple-hypertensive-drug-or-19-mm-with-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduce blood pressure by 9 mm with triple hypertensive drug or 19 mm with Magnesium – April 2018">Reduce blood pressure by 9 mm with triple hypertensive drug or 19 mm with Magnesium – April 2018</a>
 
    * Includes chart of hypertension reduction by 4 diets
 
-* [Hypertension 30 percent more likely if low vitamin D – meta-analysis March 2013](/posts/hypertension-30-percent-more-likely-if-low-vitamin-d-meta-analysis)
+* <a href="/posts/hypertension-30-percent-more-likely-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension 30 percent more likely if low vitamin D – meta-analysis March 2013">Hypertension 30 percent more likely if low vitamin D – meta-analysis March 2013</a>
 
 * <a href="/posts/resistant-hypertension-incidence-increased-2x-in-20-years-vitamin-d-might-help" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resistant Hypertension incidence increased 2X in 20 years – vitamin D might help">Resistant Hypertension incidence increased 2X in 20 years – vitamin D might help</a>
 
-* [Hypertension experts want still more vitamin D proof – Oct 2012](/posts/hypertension-experts-want-still-more-vitamin-d-proof)
+* <a href="/posts/hypertension-experts-want-still-more-vitamin-d-proof" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3264">Hypertension experts want still more vitamin D proof – Oct 2012</a>
 
-* [Hypertension associated with low Calcium levels– Oct 2011](/posts/hypertension-associated-with-low-calcium-levels)
+* <a href="/posts/hypertension-associated-with-low-calcium-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2388">Hypertension associated with low Calcium levels– Oct 2011</a>
 
 * <a href="/posts/hypertension-more-likely-with-less-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1254">Hypertension more likely with less vitamin D - Dec 2010</a> all work at Kaiser Permanente
 
-* [More sunlight, more vitamin D, less hypertension - Feb 2012](/posts/more-sunlight-more-vitamin-d-less-hypertension)
+* <a href="/posts/more-sunlight-more-vitamin-d-less-hypertension" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2418">More sunlight, more vitamin D, less hypertension - Feb 2012</a>
 
 * [Search  VitaminDWiki for "blood pressure"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22blood+pressure%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 972 as of Jan 2015
 
@@ -329,9 +329,9 @@ Conclusion: This study found a statistically significant association between vit
 
 * <a href="/posts/span-stylecolor00fprehypertensionspan-48-percent-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2283"> **<span style="color:#00F;">Prehypertension</span>**  48 % more likely with low vitamin D – Sept 2011</a>
 
-* [Daily average of 3600 IU Vitamin D helped hypertensives – Jan 2013](/posts/daily-average-of-3600-iu-vitamin-d-helped-hypertensives)
+* <a href="/posts/daily-average-of-3600-iu-vitamin-d-helped-hypertensives" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Daily average of 3600 IU Vitamin D helped hypertensives – Jan 2013">Daily average of 3600 IU Vitamin D helped hypertensives – Jan 2013</a>
 
-* [Postmenopausal vitamin D benefits to blood pressure and kidney – Review July 2013](/posts/postmenopausal-vitamin-d-benefits-to-blood-pressure-and-kidney-review)
+* <a href="/posts/postmenopausal-vitamin-d-benefits-to-blood-pressure-and-kidney-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Postmenopausal vitamin D benefits to blood pressure and kidney – Review July 2013">Postmenopausal vitamin D benefits to blood pressure and kidney – Review July 2013</a>
 
 * <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cholesterol and vitamin D">Overview Cholesterol and vitamin D</a>
 
@@ -500,9 +500,9 @@ Still -  **4,000 IU daily reduced systolic pressure −4.0 mm Hg in Blacks**
 
 * <a href="/posts/high-blood-pressure-during-pregnancy-preeclampsia-associated-with-low-vitamin-d-c-section" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High blood pressure during pregnancy (preeclampsia) associated with low vitamin D, c-section – Jan 2015">High blood pressure during pregnancy (preeclampsia) associated with low vitamin D, c-section – Jan 2015</a>
 
-* [2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013](/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis)
+* <a href="/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013">2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013</a>
 
-* [7X increase in early severe preeclampsia associated with low vitamin D – Aug 2012](/posts/7x-increase-in-early-severe-preeclampsia-associated-with-low-vitamin-d)
+* <a href="/posts/7x-increase-in-early-severe-preeclampsia-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 7X increase in early severe preeclampsia associated with low vitamin D – Aug 2012">7X increase in early severe preeclampsia associated with low vitamin D – Aug 2012</a>
 
 * <a href="/posts/dark-skined-mothers-preeclampsia-12x-more-likely-if-gestational-hypertension" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark-skined mothers: preeclampsia 12X more likely if gestational hypertension – May 2014">Dark-skined mothers: preeclampsia 12X more likely if gestational hypertension – May 2014</a>
 
@@ -524,7 +524,7 @@ Still -  **4,000 IU daily reduced systolic pressure −4.0 mm Hg in Blacks**
 
 <a href="/posts/huge-increases-in-health-problems-risk-factors-include-vitamin-d-antibiotics-and-roundup" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup">Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup</a>
 
-[Investigation on Roundup - glyphosate at VitaminDWiki](/posts/investigation-on-roundup-glyphosate-at-vitamindwiki) many charts
+<a href="/posts/investigation-on-roundup-glyphosate-at-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Investigation on Roundup - glyphosate at VitaminDWiki">Investigation on Roundup - glyphosate at VitaminDWiki</a> many charts
 
 ---
 
@@ -582,7 +582,7 @@ Author is also the author of “Less Medicine, More Health: 7 Assumptions That D
 
 Note: Pre-hypertension = 120-139 / 80-89))
 
-[Prehypertension 48 percent more likely with low vitamin D – Sept 2011](/posts/prehypertension-48-percent-more-likely-with-low-vitamin-d)
+<a href="/posts/prehypertension-48-percent-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prehypertension 48 percent more likely with low vitamin D – Sept 2011">Prehypertension 48 percent more likely with low vitamin D – Sept 2011</a>
 
  **Hypertension goals of ADA and  ACC/AHA  differ - March 2018** 
 

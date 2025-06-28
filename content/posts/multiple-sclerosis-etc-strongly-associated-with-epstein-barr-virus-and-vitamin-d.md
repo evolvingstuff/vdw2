@@ -142,7 +142,7 @@ High-dose vitamin D3 supplementation selectively reduces anti-EBNA-1 antibody le
 
 * <a href="/posts/infectious-mononucleosis-virus-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infectious Mononucleosis (virus) and Vitamin D - many studies">Infectious Mononucleosis (virus) and Vitamin D - many studies</a>
 
-* [Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011](/posts/infectious-mononucleosis-and-lack-of-uv-linearly-linked-to-ms-in-england)
+* <a href="/posts/infectious-mononucleosis-and-lack-of-uv-linearly-linked-to-ms-in-england" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011">Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011</a>
 
 ---
 

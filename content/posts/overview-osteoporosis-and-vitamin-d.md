@@ -65,7 +65,7 @@
 
 * <a href="/posts/osteoporosis-treatment-with-denosumab-is-helped-by-vitamin-d-and-calcium-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis treatment with denosumab is helped by Vitamin D and Calcium – 2017">Osteoporosis treatment with denosumab is helped by Vitamin D and Calcium – 2017</a>
 
-* [4X increase in osteoporosis visits, but vitamin D information is still not available – May 2013](/posts/4x-increase-in-osteoporosis-visits-but-vitamin-d-information-is-still-not-available)
+* <a href="/posts/4x-increase-in-osteoporosis-visits-but-vitamin-d-information-is-still-not-available" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4X increase in osteoporosis visits, but vitamin D information is still not available – May 2013">4X increase in osteoporosis visits, but vitamin D information is still not available – May 2013</a>
 
 * <a href="/posts/vitamin-d-and-bone-health-uk-national-osteoporosis-society" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Bone Health – UK National Osteoporosis Society – April 2013">Vitamin D and Bone Health – UK National Osteoporosis Society – April 2013</a>
 
@@ -73,9 +73,9 @@
 
 * <a href="/posts/world-osteoporosis-day-sponsored-by-big-pharma-does-not-give-good-sun-or-vitamin-d-info" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: World Osteoporosis Day sponsored by Big Pharma – does not give good sun or vitamin D info Oct 20 2013">World Osteoporosis Day sponsored by Big Pharma – does not give good sun or vitamin D info Oct 20 2013</a>
 
-* [Calcium and bone disorders in pregnancy – May 2012](/posts/calcium-and-bone-disorders-in-pregnancy)
+* <a href="/posts/calcium-and-bone-disorders-in-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3122">Calcium and bone disorders in pregnancy – May 2012</a>
 
-* [Osteoporosis and vitamin D are important in men too – 10 years after women – Aug 2012](/posts/osteoporosis-and-vitamin-d-are-important-in-men-too-10-years-after-women)
+* <a href="/posts/osteoporosis-and-vitamin-d-are-important-in-men-too-10-years-after-women" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3099">Osteoporosis and vitamin D are important in men too – 10 years after women – Aug 2012</a>
 
 * <a href="/posts/vitamin-d-k2-magnesium-etc-together-increase-bone-density" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2366">Vitamin D, K2, Magnesium, etc together increase bone density – Jan 2012</a>
 
@@ -147,11 +147,11 @@
 
 * <a href="/posts/very-few-people-have-an-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2433">Very few people have an allergic reaction to Vitamin D</a> start slowly so as to check for allergies
 
-* [Osteoporosis medicine teriparatide increased active vitamin D by 25 pcnt– RCT June 2012](/posts/osteoporosis-medicine-teriparatide-increased-active-vitamin-d-by-25-pcnt-rct)
+* <a href="/posts/osteoporosis-medicine-teriparatide-increased-active-vitamin-d-by-25-pcnt-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3209">Osteoporosis medicine teriparatide increased active vitamin D by 25 pcnt– RCT June 2012</a>
 
 * <a href="/posts/osteoporosis-is-reduced-by-vitamin-d-genes-determine-how-much-is-needed-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3353">Osteoporosis is reduced by vitamin D, genes determine how much is needed – meta-analysis Nov 2012</a>
 
-* [Osteoporosis spot therapies: vitamin D with Calcium was the most popular – Feb 2013](/posts/osteoporosis-spot-therapies-vitamin-d-with-calcium-was-the-most-popular)
+* <a href="/posts/osteoporosis-spot-therapies-vitamin-d-with-calcium-was-the-most-popular" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis spot therapies: vitamin D with Calcium was the most popular – Feb 2013">Osteoporosis spot therapies: vitamin D with Calcium was the most popular – Feb 2013</a>
 
 * <a href="/posts/safety-profile-of-osteoporosis-drugs-including-vitamin-d-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Safety profile of Osteoporosis drugs, including vitamin D – review Nov 2013">Safety profile of Osteoporosis drugs, including vitamin D – review Nov 2013</a>
 

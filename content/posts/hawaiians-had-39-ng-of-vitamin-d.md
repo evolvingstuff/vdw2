@@ -72,8 +72,8 @@ The point at which 95% of the subjects were above 80 nmol/L occurred at a sun in
 
 * [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
-* [Traditionally living Africans have 46 ng vitamin D levels – Jan 2012](/posts/traditionally-living-africans-have-46-ng-vitamin-d-levels)
+* <a href="/posts/traditionally-living-africans-have-46-ng-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2336">Traditionally living Africans have 46 ng vitamin D levels – Jan 2012</a>
 
-* [Chart of Vitamin D levels vs race - April 2013](/posts/chart-of-vitamin-d-levels-vs-race) has the following
+* <a href="/posts/chart-of-vitamin-d-levels-vs-race" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013">Chart of Vitamin D levels vs race - April 2013</a> has the following
 
 <img src="/attachments/d3.mock.jpg" alt="image">

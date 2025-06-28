@@ -95,7 +95,7 @@ Many risk factors which were listed above are associated with low vitamin D
 
 * [More vitamin D associated with better sperm – May 2011](/posts/more-vitamin-d-associated-with-better-sperm)
 
-* [Hypothesis: increased vitamin D will increase erections and decrease CVD – June 2012](/posts/hypothesis-increased-vitamin-d-will-increase-erections-and-decrease-cvd) by Dr.  **<span style="color:#00F;">Sorenson</span>**  (above) and Dr. Grant
+* <a href="/posts/hypothesis-increased-vitamin-d-will-increase-erections-and-decrease-cvd" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2934">Hypothesis: increased vitamin D will increase erections and decrease CVD – June 2012</a> by Dr.  **<span style="color:#00F;">Sorenson</span>**  (above) and Dr. Grant
 
 ### PubMed Search for ("vitamin D" (testosterone OR androgen))   
  got 1071 items Jan 2016

@@ -39,4 +39,4 @@
 
 ## See also VitaminDWiki
 
-* [Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013](/posts/probiotics-increased-vitamin-d-levels-22-percent-in-those-with-excess-cholesterol)
+* <a href="/posts/probiotics-increased-vitamin-d-levels-22-percent-in-those-with-excess-cholesterol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013">Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013</a>

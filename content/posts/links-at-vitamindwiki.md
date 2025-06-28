@@ -147,7 +147,7 @@
 
 > <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1513">CLICK HERE</a> for a introduction for GreenMedInfo at VitaminDWiki
 
-* [CureZone](http://curezone.com/dis/%20)  huge&nbsp; &nbsp; &nbsp;[CureZone Forum on Sunshine and vitamin D – Feb 2012](/posts/curezone-forum-on-sunshine-and-vitamin-d)
+* [CureZone](http://curezone.com/dis/%20)  huge&nbsp; &nbsp; &nbsp;<a href="/posts/curezone-forum-on-sunshine-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2434">CureZone Forum on Sunshine and vitamin D – Feb 2012</a>
 
 * [PainTopics](http://pain-topics.org/%20)
 

@@ -69,7 +69,7 @@
 
 * [Higher BMI need more vitamin D – Oct 2010](/posts/higher-bmi-need-more-vitamin-d)
 
-* [3X more colds by overweight who were low on vitamin D - April 2012](/posts/3x-more-colds-by-overweight-who-were-low-on-vitamin-d)
+* <a href="/posts/3x-more-colds-by-overweight-who-were-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2685">3X more colds by overweight who were low on vitamin D - April 2012</a>
 
 * More than half afflicted with H1N1 in 2009 were  **<span style="color:#00F;">obese </span>** – Jan 2011
 

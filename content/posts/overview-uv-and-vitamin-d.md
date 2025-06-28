@@ -155,7 +155,7 @@ Skin Cancer|   controversy|   controversy||
 
 #### UV thru glass
 
-* [Vitamin D from the sun can get thru a special kind of window](/posts/vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass) Plexiglass G - UVT
+* <a href="/posts/vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from the sun without the heat (silver-coated plexiglass)">Vitamin D from the sun can get thru a special kind of window</a> Plexiglass G - UVT
 
 * [Wear glasses when getting vitamin D from the sun – June 2011](/posts/wear-glasses-when-getting-vitamin-d-from-the-sun)
 

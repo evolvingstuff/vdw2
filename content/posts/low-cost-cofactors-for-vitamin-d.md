@@ -98,7 +98,7 @@ per day
 <a href="/posts/silica" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1506">Silica</a>| ?  |   Yes  |  | Daily - Horsetail - buy in bulk  
 Include in morning cereal |1 ¢ 
 
-[Omega-3](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)|1 g or   
+<a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>|1 g or   
 1 Vectomega tablet|By increasing   
 Vitamin D| <a href="/posts/helps-health-a-lot" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3467">helps health A LOT</a>  
 <a href="/posts/may-increase-active-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3171">May increase active D</a> |<a href="/posts/i-use-vectomega-brand-of-omega-3-admin-of-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: I use Vectomega brand of Omega-3 – Admin of VitaminDWiki, May 2014">1 Vectomega daily</a> - VERY bioavailable|75 ¢ 

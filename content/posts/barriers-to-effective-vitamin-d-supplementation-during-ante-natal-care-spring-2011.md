@@ -48,4 +48,4 @@ Conclusion Implementation of national guidance during pregnancy is essential for
 
 #### See also VitaminDWiki
 
-* [20 reasons for not taking Vitamin D debunked](/posts/20-reasons-for-not-taking-vitamin-d-debunked)
+* <a href="/posts/20-reasons-for-not-taking-vitamin-d-debunked" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 20 reasons for not taking Vitamin D debunked">20 reasons for not taking Vitamin D debunked</a>

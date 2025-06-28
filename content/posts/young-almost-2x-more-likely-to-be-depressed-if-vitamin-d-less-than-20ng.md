@@ -54,4 +54,4 @@ In this large population based study, likelihood of having depression in persons
 
 * [All items in Winter Blues and Depression](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&sort_mode=created_desc) 36 items as of Feb 2012
 
-* [Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012](/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng)
+* <a href="/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2439">Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012</a>

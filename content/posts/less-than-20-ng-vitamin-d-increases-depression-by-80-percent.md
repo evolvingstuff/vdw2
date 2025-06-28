@@ -86,4 +86,4 @@ In this large population based study, likelihood of having depression in persons
 
 * [Depression 40 percent more likely if low vitamin D – Oct 2011](/posts/depression-40-percent-more-likely-if-low-vitamin-d)
 
-* [Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012](/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng)
+* <a href="/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2439">Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012</a>

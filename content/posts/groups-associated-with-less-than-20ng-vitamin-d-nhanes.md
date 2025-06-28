@@ -82,7 +82,7 @@ In summary, vitamin D deficiency was common in the US population, especially amo
 
 * [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)
 
-* [Medical Causes of Vitamin D Deficiency](/posts/medical-causes-of-vitamin-d-deficiency)
+* <a href="/posts/medical-causes-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2353">Medical Causes of Vitamin D Deficiency</a>
 
 * <a href="/posts/how-you-might-double-the-benefit-of-your-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918">How you might double the benefit of your vitamin D</a>
 

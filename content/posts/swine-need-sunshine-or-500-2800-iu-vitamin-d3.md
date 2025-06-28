@@ -54,4 +54,4 @@
 
    * Having extra vitamin D in swine feed might provide extra vitamin D in human diet (via lard, pork chops, bacon) without FDA "food fortification" restrictions
 
-* [Free-range bacon has 2800 IU of vitamin D per 100 grams](/posts/free-range-bacon-has-2800-iu-of-vitamin-d-per-100-grams)
+* <a href="/posts/free-range-bacon-has-2800-iu-of-vitamin-d-per-100-grams" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3048">Free-range bacon has 2800 IU of vitamin D per 100 grams</a>

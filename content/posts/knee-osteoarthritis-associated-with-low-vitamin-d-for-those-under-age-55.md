@@ -52,4 +52,4 @@ CONCLUSION: These findings indicate a significant association between serum 25-O
 
 * See Osteoarthritis at [Vitamin D Council](http://www.vitamindcouncil.org/researchOsteoarthritis.shtml)
 
-* [Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013](/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review)
+* <a href="/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013">Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013</a>

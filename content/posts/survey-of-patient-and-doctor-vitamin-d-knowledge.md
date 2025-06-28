@@ -52,4 +52,4 @@ A re-emergence of childhood rickets in New Zealand has heightened concern about 
 
 # See also VitaminDWiki
 
-* [Survey finds that Non-Caucasians do not feel that people need sun exposure – July 2012](/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure)
+* <a href="/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2986">Survey finds that Non-Caucasians do not feel that people need sun exposure – July 2012</a>

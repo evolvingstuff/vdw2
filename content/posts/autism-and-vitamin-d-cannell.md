@@ -109,7 +109,7 @@ Sincerely,  John Cannell
 
 # See also VitaminDWiki
 
-* [No noticeable decrease in Autism in child with high level of vitamin D – July 2012](/posts/no-noticeable-decrease-in-autism-in-child-with-high-level-of-vitamin-d)
+* <a href="/posts/no-noticeable-decrease-in-autism-in-child-with-high-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3004">No noticeable decrease in Autism in child with high level of vitamin D – July 2012</a>
 
 * <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview Autism and vitamin D</a> which includes the following graph
 

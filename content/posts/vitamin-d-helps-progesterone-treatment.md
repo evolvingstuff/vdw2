@@ -39,4 +39,4 @@ More than two decades of pre-clinical research and two recent clinical trials ha
 
 ## See also VitaminDWiki
 
-* [Vitamin D aided progesterone in reducing traumatic brain injury – RCT Dec 2012](/posts/vitamin-d-aided-progesterone-in-reducing-traumatic-brain-injury-rct)
+* <a href="/posts/vitamin-d-aided-progesterone-in-reducing-traumatic-brain-injury-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aided progesterone in reducing traumatic brain injury – RCT Dec 2012">Vitamin D aided progesterone in reducing traumatic brain injury – RCT Dec 2012</a>

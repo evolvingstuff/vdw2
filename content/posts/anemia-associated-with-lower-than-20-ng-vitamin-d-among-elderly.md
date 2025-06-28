@@ -61,7 +61,7 @@ Vitamin D may suppress inflammatory pathways, and studies to determine whether v
 
 * <a href="/posts/anemia-19x-more-likely-in-white-children-having-lowish-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Anemia 1.9X more likely in white children having lowish vitamin D – Jan 2014">Anemia 1.9X more likely in white children having lowish vitamin D – Jan 2014</a>
 
-* [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
+* <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>
 
 ## See also web
 
