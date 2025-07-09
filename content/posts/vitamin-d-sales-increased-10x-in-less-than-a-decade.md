@@ -19,7 +19,7 @@
 
 # From Nature Magazine  July 2011
 
-{IMG(attId="617")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/sales-of-vitamin-d-10x-in-10-years.png" alt="image">
 
 - - - - - - - - - - 
 
@@ -35,4 +35,4 @@ No cost to register - this is a no income website
 
 * [Sales of vitamin D up 22% from 2009 to 2010](/posts/sales-of-vitamin-d-up-22-percent-from-2009-to-2010)
 
-* <a href="/posts/even-more-growth-predicted-for-vitamin-d-market" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 211">Even more growth predicted for vitamin D market</a>
+* [Even more growth predicted for vitamin D market](/posts/even-more-growth-predicted-for-vitamin-d-market)

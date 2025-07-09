@@ -80,7 +80,7 @@ PMID:     21640757
 
 # See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-increases-hdl" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 791">Vitamin D increases HDL</a> A few references, both on-line and peer-reviewed, captured August 2010
+* [Vitamin D increases HDL](/posts/vitamin-d-increases-hdl) A few references, both on-line and peer-reviewed, captured August 2010
 
 * <a href="/posts/cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 754">Cholesterol and vitamin D</a>
 

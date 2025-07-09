@@ -1,13 +1,265 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Treatment by Vitamin D on VitaminDWiki</title><link>/categories/treatment-by-vitamin-d.html</link><description>Recent content in Treatment by Vitamin D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="/categories/treatment-by-vitamin-d/index.xml" rel="self" type="application/rss+xml"/><item><title>Poor sleep and lack of vitamin D</title><link>/posts/poor-sleep-and-lack-of-vitamin-d.html</link><pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate><guid>/posts/poor-sleep-and-lack-of-vitamin-d.html</guid><description/></item><item><title>Forum on health symptoms and treatments - vitamin D</title><link>/posts/forum-on-health-symptoms-and-treatments-vitamin-d.html</link><pubDate>Sat, 29 Oct 2011 00:00:00 +0000</pubDate><guid>/posts/forum-on-health-symptoms-and-treatments-vitamin-d.html</guid><description>&lt;h2 id="a-large-forum-link-has-been-misplaced-which-deals-with-health-issues">A large forum (Link has been misplaced) which deals with Health Issues&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Treatment by Vitamin D on VitaminDWiki</title><link>/categories/treatment-by-vitamin-d.html</link><description>Recent content in Treatment by Vitamin D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/treatment-by-vitamin-d/index.xml" rel="self" type="application/rss+xml"/><item><title>More than 16 reasons why Vitamin D trials fail</title><link>/posts/more-than-16-reasons-why-vitamin-d-trials-fail.html</link><pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate><guid>/posts/more-than-16-reasons-why-vitamin-d-trials-fail.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamindwiki">VitaminDWiki&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#reasons-for-less-benefit-include">Reasons for less benefit include:&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#why-do-so-many-trials-of-vitamin-d-supplementation-fail">Why do so many trials of vitamin D supplementation fail?&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#abstract">Abstract&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#associations-of-vitamin-d-status-with-health-outcomes">Associations of vitamin D status with health outcomes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-in-evolution">Vitamin D in evolution&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#production-of-vitamin-d">Production of vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-common-problem-of-vitamin-d-inadequacy">The common problem of vitamin D inadequacy&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#route-from-inert-vitamin-d-to-hormonal-activity">Route from inert vitamin D to hormonal activity&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#induction-of-biological-effects-of-vitamin-d-in-target-tissues">Induction of biological effects of vitamin D in target tissues&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#many-mechanistic-effects-improve-function-or-reduce-damage-in-non-skeletal-tissues">Many mechanistic effects improve function or reduce damage in non-skeletal tissues&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#potential-confounders-of-vitamin-d-rcts">Potential confounders of vitamin D RCTs&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#design-defects">Design defects&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#variations-in-25ohd-effect-thresholds">Variations in 25(OH)D effect thresholds&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#non-supplemental-vitamin-d-intakes-during-rcts-and-varying-absorption">Non-supplemental vitamin D intakes during RCTs and varying absorption&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#other-dietary-factors-modulating-vitamin-d-efficacy">Other dietary factors modulating vitamin D efficacy&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#stratification-by-vitamin-d-status-or-by-effect-thresholds">Stratification by vitamin D ‘status&amp;rsquo; or by effect thresholds?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#factors-affecting-the-consistency-of-25ohd-assay-measurements">Factors affecting the consistency of 25(OH)D assay measurements&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#serum-25ohd-polymorphisms">Serum 25(OH)D polymorphisms&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#free-vs-bound-25-hydroxyvitamin-d">Free vs bound 25-hydroxyvitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#newer-findings-on-disorders-directly-affecting-serum-25ohd-concentrations">Newer findings on disorders directly affecting serum 25(OH)D concentrations&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#lack-of-long-term-rcts">Lack of long-term RCTs&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mendelian-randomisation-data">Mendelian randomisation data&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#future-rct-design">Future RCT design&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#overview">Overview&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h3 id="vitamindwiki">VitaminDWiki&lt;/h3>
+&lt;h4 id="reasons-for-less-benefit-include">Reasons for less benefit include:&lt;/h4>
+&lt;!-- ~tc~ startr ~/tc~ -->
+&lt;ol>
+&lt;li>
+&lt;p>Trials mistakenly use a single size dose for everyone&lt;/p></description></item><item><title>Topical Vitamin D provides more benefits than oral sometimes - many studies</title><link>/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies.html</link><pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate><guid>/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies.html</guid><description>&lt;p>&lt;strong>It appears that ~10% of people will benefit from Topical more than the Oral form of Vitamin D&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>It appears that ~20% of people having specific health problems will get more benefit from Topical than Oral&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Preeclampsia. Food Allergy, PTSD, Ear infection, Infertility, MS, Colon Cancer, TB, Asthma, COPD, Epilepsy, Atrial Fibrillation. Liver&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Also suspect for those people with poor guts: Cystic Fibrosis, Diabetes&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>However, Topical forms of Vitamin D are:&lt;/strong>&lt;/p></description></item><item><title>Guide for patients on high doses of Vitamin D – Coimbra 2017</title><link>/posts/guide-for-patients-on-high-doses-of-vitamin-d-coimbra-2017.html</link><pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate><guid>/posts/guide-for-patients-on-high-doses-of-vitamin-d-coimbra-2017.html</guid><description>&lt;p>&lt;strong>by Dr. Cícero Galli Coimbra&lt;/strong>&lt;/p>
+&lt;p>Discovered by VitaminDWiki June 2019 at&lt;/p>
+&lt;p>&lt;a href="http://www.thisisms.com/forum/coimbra-high-dose-vitamin-d-protocol-f57/topic28976.html">http://www.thisisms.com/forum/coimbra-high-dose-vitamin-d-protocol-f57/topic28976.html&lt;/a>&lt;/p>
+&lt;p>&amp;ldquo;This Is MS Multiple Sclerosis Community: Knowledge &amp;amp; Support&lt;/p>
+&lt;p>Welcome to the world&amp;rsquo;s leading forum on Multiple Sclerosis research, support, and knowledge. For over 10 years,&lt;/p>
+&lt;p>This is MS has provided an unbiased community dedicated to Multiple Sclerosis patients, caregivers, and affected loved ones.&amp;rdquo;&lt;/p>
+&lt;p>The forum has a LOT of Coimbra information.&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+&lt;p>&lt;strong>&lt;a href="https://VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=coimbra&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for COIMBRA&lt;/a> 488 items as of Nov 2018&lt;/strong>&lt;/p></description></item><item><title>Vitamin D Random Controlled Trials are becoming impossible</title><link>/posts/vitamin-d-random-controlled-trials-are-becoming-impossible.html</link><pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-random-controlled-trials-are-becoming-impossible.html</guid><description>&lt;h4 id="the-way-it-used-to-be">The way it used to be:&lt;/h4>
+&lt;p>Randomized Controlled Trials used to be the &amp;ldquo;gold standard&amp;rdquo; of medicine.&lt;/p>
+&lt;p>Randomized Controlled Trials with Vitamin D used to be easy.&lt;/p>
+&lt;p>Randomiy choose people to be in one of 2 (or more) groups&lt;/p>
+&lt;p>Give vitamin D to one group and a placebo to the other. (typically daily, weekly or monthly)&lt;/p>
+&lt;p>    People rarely became aware of which group they were in.&lt;/p>
+&lt;p>Run the trial for 2-24 months and note the differences&lt;/p></description></item><item><title>No clear evidence that 800 IU of vitamin D will prevent chronic disease (no surprise)</title><link>/posts/no-clear-evidence-that-800-iu-of-vitamin-d-will-prevent-chronic-disease-no-surprise.html</link><pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate><guid>/posts/no-clear-evidence-that-800-iu-of-vitamin-d-will-prevent-chronic-disease-no-surprise.html</guid><description>&lt;h3 id="should-vitamin-d-supplements-be-recommended-to-prevent-chronic-diseases">Should vitamin D supplements be recommended to prevent chronic diseases?&lt;/h3>
+&lt;p>BMJ 2015; 350 &lt;a href="https://doi.org/http">doi: http&lt;/a>://dx.doi.org/10.1136/bmj.h321 (Published 29 January 2015)&lt;/p>
+&lt;p>Haakon E Meyer, professor, senior medical officer12, Kristin Holvik, researcher1, Paul Lips, professor3&lt;/p>
+&lt;p>1Norwegian Institute of Public Health, Division of Epidemiology, Box 4404, Nydalen, 0403 Oslo, Norway&lt;/p>
+&lt;p>2University of Oslo, Department of Community Medicine, Oslo, Norway&lt;/p>
+&lt;p>3Endocrine Section, Department of Internal Medicine, VU University Medical Centre, Amsterdam, Netherlands&lt;/p>
+&lt;p>Correspondence to: H E Meyer &lt;a href="mailto:haakon.meyer@fhi.no">haakon.meyer@fhi.no&lt;/a>&lt;/p></description></item><item><title>Hypothesis -Tissue barriers, created to protect body, block vitamin D</title><link>/posts/hypothesis-tissue-barriers-created-to-protect-body-block-vitamin-d.html</link><pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/hypothesis-tissue-barriers-created-to-protect-body-block-vitamin-d.html</guid><description>&lt;h2 id="vitamin-d-vitamin-d-receptor-and-tissue-barriers">Vitamin D, Vitamin D Receptor, and Tissue Barriers&lt;/h2>
+&lt;p>&lt;a href="https://www.landesbioscience.com/journals/tissuebarriers/">Tissue Barriers&lt;/a>. ; 1(1): . doi:10.4161/tisb.23118. ~~#009:&lt;/p>
+&lt;p>Yong-guo Zhang, Shaoping Wu, and Jun Sun &lt;a href="mailto:jun_sun@rush.edu">jun_sun@rush.edu&lt;/a>&lt;/p>
+&lt;p>Department of Biochemistry, Rush University, 1735 W. Harrison Street, Chicago, IL, 60612, USA&lt;/p>
+&lt;p>Tissue barriers are critical in the pathogenesis of human diseases, such as&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>atopic dermatitis,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>inflammatory bowel diseases, and&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>various cancers.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Preserving or restoring barrier functions of the epithelia cells is a therapeutic strategy to prevent and treat the illness. Mounting evidence indicates that vitamin D and the vitamin D receptor (VDR) play key roles in the pathogenesis of human diseases. In particular, we note an interesting link between vitamin D/VDR signaling and tissue barriers. In the current review, we summarize the recent progress on vitamin D and cell junction complexes. We focus on the functions of VDR and VDR-associated intracellular junction proteins, such as P-catenin and claudins. We also discuss the potential therapeutic functions of vitamin D in treating defective tissue barriers that involve skin, intestine, lung, kidney, and other organs. However, the mechanisms for the vitamin D/VDR signaling in tissue barriers remain largely unknown. Further studies on vitamin D/VDR&amp;rsquo;s multiple functions in physiological models will suggest new therapeutic targets for prevention and treatment diseases with defective barrier functions.&lt;/p></description></item><item><title>Benefits of Vitamin D - Chart</title><link>/posts/benefits-of-vitamin-d-chart.html</link><pubDate>Sun, 10 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/benefits-of-vitamin-d-chart.html</guid><description>&lt;h3 id="from-vitamin-dhttpwwwbetterdietislamcomdietvitadhtml-at-betterdietislamcom----dead-2023">from &lt;a href="http://www.betterdietislam.com/diet/vitad.html">VITAMIN D&lt;/a> at BetterDietIslam.com - dead 2023&lt;/h3>
+&lt;img src="/attachments/d3.mock.jpg" alt="image" width="800">
+&lt;h3 id="benefits---click-here-for-links-to-detailshttpwwwbetterdietislamcomdietvitadhtml-dead-2023">Benefits &lt;a href="http://www.betterdietislam.com/diet/vitad.html">click here for links to details&lt;/a> dead 2023&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Age&lt;/td>
+ &lt;td>Premature aging of the human body, Signs of aging&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Birth&lt;/td>
+ &lt;td>ALRI in newborns (Acute lower respiratory Infection), Important for pregnant women, Less risk of needed C-section&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Blood&lt;/td>
+ &lt;td>Good against high Blood pressure, Hypocalaemia (Not enough Calcium in blood), Normal blood clotting, Good against pre eclampsia (High Blood pressure during pregnancy), Good against septicemia (Blood poisoning)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Brain&lt;/td>
+ &lt;td>Alert and less tired, Alzheimer&amp;rsquo;s disease, Autism, Good against depression, Good against dementia, Listlessness, Migraine, Schizophrenia, Seizures, Severe mental retardation, Insomnia (Sleeplessness)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Cancer&lt;/td>
+ &lt;td>Breast Cancer, Colon Cancer, Good against Cancer, Lung Cancer, Melanoma, Non Hodgkin&amp;rsquo;s Lymphoma, Prostate Cancer&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Children&lt;/td>
+ &lt;td>Child Obesity, Helps Growth, Viral infections in children&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Diabetes&lt;/td>
+ &lt;td>Good against diabetes, both type 1 and 2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Ears&lt;/td>
+ &lt;td>Loss of hearing (deafness)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Eyes&lt;/td>
+ &lt;td>Good against conjunctivitis, Macular degeneration is the most common cause of blindness in elderly, Myopia&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Fertility&lt;/td>
+ &lt;td>Fertility in general, Menopause hot flushes&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Heart&lt;/td>
+ &lt;td>Good against heart disease&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Hormones&lt;/td>
+ &lt;td>Hypoparathyroidism (Leads to hypocalcemia)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Immunity&lt;/td>
+ &lt;td>Viral infections in children, Antibiotic, Good against cold and flu, inflammation, Lupus Erythematosis, Prevents cold if high enough levels&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Lungs&lt;/td>
+ &lt;td>Asthma, Tuberculosis, URTI (= Upper Respiratory Tract Infection)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Muscles&lt;/td>
+ &lt;td>Aches and Pains, Athletic Performance, Muscle Pain, Post operative Muscle contractions, Spasms. Weakness in muscles&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Nutrition&lt;/td>
+ &lt;td>Good for Calcium absorption, Absorption of Phosphorous&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Other&lt;/td>
+ &lt;td>Cystic Fibrosis, MS (Multiple Sclerosis)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Skeleton&lt;/td>
+ &lt;td>Rheumatoid Arthritis, Good against brittle easily broken bones, fragile bones. Important for teeth and bone, Malformed bones or joints, Osteomalacia (Softness in bones - Adult Rickets), Osteoporosis, Pain in ribs, Pain lower spine, Pain pelvis, Pain in legs, Rickets, Teeth cavities, Developing teeth, Good for teeth&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Skin&lt;/td>
+ &lt;td>Eczema, Good for skin, Psoriasis&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Stomach&lt;/td>
+ &lt;td>Crohn&amp;rsquo;s diseases, Inflammatory bowel disease&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Obesity&lt;/td>
+ &lt;td>Child Obesity, Regular obesity&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="see-also-vitamindwiki">See also VitaminDWiki&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="/posts/proof-that-vitamin-d-works">Proof that Vitamin D Works&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Hypothesis: Some Mental Illness could be treated or prevented with vitamin D</title><link>/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d.html</link><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#started-reading-anatomy-of-an-epidemic-magic-bullets-psychiatric-drugs-and-the-astonishing-rise-of-mental-illness-in-america-httpwwwamazoncomanatomy-epidemic-bullets-psychiatric-astonishingdp0307452425refsr_1_1sbooksieutf8qid1351721770sr1-1keywordsepidemic">Started reading &lt;a href="http://www.amazon.com/Anatomy-Epidemic-Bullets-Psychiatric-Astonishing/dp/0307452425/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1351721770&amp;amp;sr=1-1&amp;amp;keywords=epidemic">Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America &lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#i-observe-that">I observe that&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#it-will-be-interesting-how-many-a-hrefpostsother-factors-to-point-to-health-problems-associated-with-low-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-597other-factors-to-point-to-health-problems-associated-with-low-vitamin-da-such-as">It will be interesting how many &lt;a href="/posts/other-factors-to-point-to-health-problems-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 597">other factors to point to health problems associated with low vitamin D&lt;/a> such as:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-levels-of-psychiatric-out-patients-did-not-vary-much-with-season">Vitamin D levels of psychiatric out-patients did not vary much with season&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-is-it-ready-for-psychiatric-prime-time">Vitamin D: Is It Ready for Psychiatric Prime Time?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-does-it-play-a-role-in-psychiatry">Vitamin D: Does it play a role in psychiatry?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#seasonal-distribution-of-psychiatric-births-in-england">Seasonal Distribution of Psychiatric Births in England&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#why-are-mental-illness-patients-extremely-low-on-vitamin-d">Why are Mental Illness patients extremely low on vitamin D?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-among-psychiatric-inpatients">Vitamin D Deficiency Among Psychiatric Inpatients&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-of-psychiatric-inpatients-in-new-zealands-waikato-region">Vitamin D status of psychiatric inpatients in New Zealand’s Waikato region&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#feasibility-of-screening-for-and-treating-vitamin-d-deficiency-in-forensic-psychiatric-inpatients">Feasibility of screening for and treating vitamin D deficiency in forensic psychiatric inpatients.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-among-psychiatric-inpatients-1">Vitamin d deficiency among psychiatric inpatients.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-association-of-25-hydroxyvitamin-d3-and-d2-with-behavioural-problems-in-childhood">The association of 25-hydroxyvitamin D3 and D2 with behavioural problems in childhood.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-psychotic-features-in-mentally-ill-adolescents-a-cross-sectional-study">Vitamin D deficiency and psychotic features in mentally ill adolescents: A cross-sectional study.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-of-psychiatric-inpatients-in-new-zealands-waikato-region-1">Vitamin D status of psychiatric inpatients in New Zealand&amp;rsquo;s Waikato region.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-depression-causal-relationship-or-artifact">Vitamin D deficiency and depression: Causal relationship or artifact?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-a-potential-role-in-reducing-suicide-risk">Vitamin D: a potential role in reducing suicide risk?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effects-of-vitamin-d-supplementation-on-cognitive-and-emotional-functioning-in-young-adults--a-randomised-controlled-trial">Effects of vitamin D supplementation on cognitive and emotional functioning in young adults&amp;ndash;a randomised controlled trial.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#d-for-depression-any-role-for-vitamin-d-food-for-thought-ii">&amp;lsquo;D&amp;rsquo; for depression: any role for vitamin D? &amp;lsquo;Food for Thought&amp;rsquo; II.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-depression">Vitamin D and depression.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#5700-iu-of-vitamin-d-not-enough-to-decrease-depression">5700 IU of vitamin D not enough to decrease depression&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#children-and-adolescents-with-severe-mental-illness-need-vitamin-d-supplementation-regardless-of-disease-or-treatment">Children and adolescents with severe mental illness need vitamin D supplementation regardless of disease or treatment.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#spanthe-effect-of-vitamin-d-on-neuropsychiatric-conditionsspan">&lt;span>[The effect of vitamin D on neuropsychiatric conditions]&lt;/span>.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#37-of-psychiatric-inpatients-had-vitamin-d-levels--25-ng">37% of Psychiatric Inpatients had vitamin D levels &amp;lt; 25 ng&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mental-disorders-wikipediahttpenwikipediaorgwikilist_of_mental_disorders_as_defined_by_the_dsm_and_icd">&lt;a href="http://en.wikipedia.org/wiki/List_of_mental_disorders_as_defined_by_the_DSM_and_ICD">Mental Disorders wikipedia&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="started-reading-anatomy-of-an-epidemic-magic-bullets-psychiatric-drugs-and-the-astonishing-rise-of-mental-illness-in-america-httpwwwamazoncomanatomy-epidemic-bullets-psychiatric-astonishingdp0307452425refsr_1_1sbooksieutf8qid1351721770sr1-1keywordsepidemic">Started reading &lt;a href="http://www.amazon.com/Anatomy-Epidemic-Bullets-Psychiatric-Astonishing/dp/0307452425/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1351721770&amp;amp;sr=1-1&amp;amp;keywords=epidemic">Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America &lt;/a>&lt;/h3>
+&lt;h3 id="i-observe-that">I observe that&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>People with mental illness often have diseases associated with low vitamin D&lt;/p></description></item><item><title>Diabetes in Saudi women improved with just 2,000 IU of vitamin D</title><link>/posts/diabetes-in-saudi-women-improved-with-just-2000-iu-of-vitamin-d.html</link><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/diabetes-in-saudi-women-improved-with-just-2000-iu-of-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-supplementation-as-an-adjuvant-therapy-for-patients-with-t2dm-an-18-month-prospective-interventional-study">Vitamin D supplementation as an adjuvant therapy for patients with T2DM: an 18-month prospective interventional study&lt;/h4>
+&lt;p>Nasser M Al-Daghri, Khalid M Alkharfy, Abdulaziz Al-Othman, Emad El-Kholie, Osama Moharram, Majed S Alokail, Yousef Al-Saleh, Shaun Sabico, Sudhesh Kumar and George Chrousos&lt;/p>
+&lt;p>Cardiovascular Diabetology 2012, 11:85 doi:10.1186/1475-2840-11-85; Published: 18 July 2012&lt;/p>
+&lt;p>Background&lt;/p>
+&lt;p>Vitamin D deficiency has been associated with impaired human insulin action, suggesting a role in the pathogenesis of diabetes mellitus type 2 (T2DM). In this prospective interventional study we investigated the effects of vitamin D3 supplementation on the metabolic profiles of Saudi T2DM subjects pre- and post-vitamin D supplementation over an 18-month period.&lt;/p></description></item><item><title>Guidelines on prevention and treatment of vitamin D deficiency</title><link>/posts/guidelines-on-prevention-and-treatment-of-vitamin-d-deficiency.html</link><pubDate>Tue, 24 Apr 2012 00:00:00 +0000</pubDate><guid>/posts/guidelines-on-prevention-and-treatment-of-vitamin-d-deficiency.html</guid><description>&lt;p>Reumatismo. 2011 Nov 9;63(3):129-47. &lt;a href="https://doi.org/10.4081/reumatismo.2011.129.">doi: 10.4081/reumatismo.2011.129.&lt;/a>&lt;/p>
+&lt;p>Adami S, Romagnoli E, Carnevale V, Scillitani A, Giusti A, Rossini M, Gatti D, Nuti R, Minisola S.&lt;/p>
+&lt;p>Unità di Reumatologia, Dipartimento di Medicina, Università di Verona. &lt;a href="mailto:Silvano.adami@univr.it">Silvano.adami@univr.it&lt;/a>.&lt;/p>
+&lt;p>The Italian Society for Osteoporosis, Mineral Metabolism and Bone Diseases (SIOMMMS) has elaborated the following guidelines about the definition, prevention and treatment of inadequate vitamin D status.&lt;/p>
+&lt;p>The highlights are presented here.&lt;/p>
+&lt;p>PMID: 22257914&lt;/p>
+&lt;hr>
+&lt;p>HTML from PDF is in &lt;strong>Italian&lt;/strong> – the Chrome Browser will ask if you want it translated&lt;/p></description></item><item><title>Alzheimer’s may be treated by vitamin D3 and curcumin</title><link>/posts/alzheimers-may-be-treated-by-vitamin-d3-and-curcumin.html</link><pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate><guid>/posts/alzheimers-may-be-treated-by-vitamin-d3-and-curcumin.html</guid><description>&lt;h4 id="scientists-pinpoint-how-vitamin-d-may-help-clear-amyloid-plaques-found-in-alzheimershttpnewsroomuclaeduportaluclascientists-pinpoint-how-vitamin-229702aspx20">&lt;a href="http://newsroom.ucla.edu/portal/ucla/scientists-pinpoint-how-vitamin-229702.aspx%20">Scientists pinpoint how vitamin D may help clear amyloid plaques found in Alzheimer&amp;rsquo;s&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>UCLA Press Release By Rachel Champeau March 06, 2012&lt;/strong>&lt;/p>
+&lt;p>A team of academic researchers has identified the intracellular mechanisms regulated by vitamin D3 that may help the body clear the brain of amyloid beta, the main component of plaques associated with Alzheimer&amp;rsquo;s disease.&lt;/p>
+&lt;p>Published in the March 6 issue of the Journal of Alzheimer&amp;rsquo;s Disease, the early findings show that vitamin D3 may activate key genes and cellular signaling networks to help stimulate the immune system to clear the amyloid-beta protein.&lt;/p></description></item><item><title>Poor sleep and lack of vitamin D</title><link>/posts/poor-sleep-and-lack-of-vitamin-d.html</link><pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate><guid>/posts/poor-sleep-and-lack-of-vitamin-d.html</guid><description/></item><item><title>Forum on health symptoms and treatments - vitamin D</title><link>/posts/forum-on-health-symptoms-and-treatments-vitamin-d.html</link><pubDate>Sat, 29 Oct 2011 00:00:00 +0000</pubDate><guid>/posts/forum-on-health-symptoms-and-treatments-vitamin-d.html</guid><description>&lt;h2 id="a-large-forum-link-has-been-misplaced-which-deals-with-health-issues">A large forum (Link has been misplaced) which deals with Health Issues&lt;/h2>
 &lt;h2 id="these-are-all-opinions---but-interesting">These are all opinions - but interesting&lt;/h2>
 &lt;h1 id="the-following-are-vitamin-d-related-charts-as-of-oct-2011">The following are vitamin D related charts as of Oct 2011&lt;/h1>
-&lt;p>{IMG(attId=&amp;ldquo;852&amp;rdquo; max = &amp;ldquo;450&amp;rdquo;)}{IMG}&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-symptoms.png" alt="image" style="max-width: 450px;">
 &lt;h2 id="above-chart-symptoms-which-people-treat-with-vitamin-d">Above chart: Symptoms which people treat with vitamin D&lt;/h2>
-&lt;p>{IMG(attId=&amp;ldquo;853&amp;rdquo; max = &amp;ldquo;450&amp;rdquo;)}{IMG}&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-treatment-by-popularity.png" alt="image" style="max-width: 450px;">
 &lt;h2 id="above-chart-ways-that-people-get-vitamin-d---in-order-of-popularity">Above chart: Ways that people get vitamin D - in order of popularity&lt;/h2>
-&lt;p>{IMG(attId=&amp;ldquo;854&amp;rdquo; max = &amp;ldquo;450&amp;rdquo;)}{IMG}&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-treatment-by-most-improvement.png" alt="image" style="max-width: 450px;">
 &lt;h2 id="above-chart-the-forms-of-vitamin-d-which-gave-the-most-improvement">Above chart: The forms of vitamin D which gave the most improvement&lt;/h2>
-&lt;p>{IMG(attId=&amp;ldquo;855&amp;rdquo; max = &amp;ldquo;450&amp;rdquo;)}{IMG}&lt;/p></description></item><item><title>Some form of vitamin D may be the lowest cost treatment for CKD – Spanish</title><link>/posts/some-form-of-vitamin-d-may-be-the-lowest-cost-treatment-for-ckd-spanish.html</link><pubDate>Sun, 02 Oct 2011 00:00:00 +0000</pubDate><guid>/posts/some-form-of-vitamin-d-may-be-the-lowest-cost-treatment-for-ckd-spanish.html</guid><description>&lt;h4 id="economic-impact-of-vitamin-d-treatment-on-chronic-kidney-disease-patients--sept-2011">Economic impact of vitamin D treatment on chronic kidney disease patients – Sept 2011&lt;/h4>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-cause.png" alt="image" style="max-width: 450px;">
+&lt;h2 id="above-chart-their-opinion-as-to-why-they-had-a-vitamin-d-deficiency">Above chart: Their opinion as to why they had a vitamin D deficiency&lt;/h2>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-cause-osteoporosis.png" alt="image" style="max-width: 450px;">
+&lt;h2 id="above-chart-cause-of-osteoprosis---vitamin-d-is-fairly-low">Above chart: Cause of Osteoprosis - Vitamin D is fairly low&lt;/h2>
+&lt;p>{IMG(attId=&amp;ldquo;857&amp;rdquo;) max = &amp;ldquo;450&amp;rdquo;}{IMG}&lt;/p></description></item><item><title>Some form of vitamin D may be the lowest cost treatment for CKD – Spanish</title><link>/posts/some-form-of-vitamin-d-may-be-the-lowest-cost-treatment-for-ckd-spanish.html</link><pubDate>Sun, 02 Oct 2011 00:00:00 +0000</pubDate><guid>/posts/some-form-of-vitamin-d-may-be-the-lowest-cost-treatment-for-ckd-spanish.html</guid><description>&lt;h4 id="economic-impact-of-vitamin-d-treatment-on-chronic-kidney-disease-patients--sept-2011">Economic impact of vitamin D treatment on chronic kidney disease patients – Sept 2011&lt;/h4>
 &lt;p>Nefrologia. 2011 Sep 20;31(5):528-536. &lt;a href="https://doi.org/10.3265/Nefrologia.pre2011.Aug.11012.">doi: 10.3265/Nefrologia.pre2011.Aug.11012.&lt;/a>&lt;/p>
 &lt;p>&lt;span>[Article in Spanish]&lt;/span>&lt;/p>
 &lt;p>Ramos R, Alcázar R, Otero A, de Francisco AL, Del Pino MD.&lt;/p>
@@ -21,7 +273,7 @@
 &lt;p>&lt;a href="/posts/application-to-fda-for-use-of-active-vitamin-d-for-hemodialysis-patients">Application to FDA for use of active Vitamin D for hemodialysis patients – July 2011&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="/posts/active-form-of-vitamin-d-appears-to-help-prevent-and-treat-some-cancers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 923">Active form of vitamin D appears to help prevent and treat some cancers – Feb 2011&lt;/a>&lt;/p></description></item><item><title>Big impact of Vitamin D in the Treatment of Tuberculosis</title><link>/posts/big-impact-of-vitamin-d-in-the-treatment-of-tuberculosis.html</link><pubDate>Wed, 24 Aug 2011 00:00:00 +0000</pubDate><guid>/posts/big-impact-of-vitamin-d-in-the-treatment-of-tuberculosis.html</guid><description>&lt;h1 id="impact-of-vitamin-d-in-the-treatment-of-tuberculosis">Impact of Vitamin D in the Treatment of Tuberculosis&lt;/h1>
+&lt;p>&lt;a href="/posts/active-form-of-vitamin-d-appears-to-help-prevent-and-treat-some-cancers">Active form of vitamin D appears to help prevent and treat some cancers – Feb 2011&lt;/a>&lt;/p></description></item><item><title>Big impact of Vitamin D in the Treatment of Tuberculosis</title><link>/posts/big-impact-of-vitamin-d-in-the-treatment-of-tuberculosis.html</link><pubDate>Wed, 24 Aug 2011 00:00:00 +0000</pubDate><guid>/posts/big-impact-of-vitamin-d-in-the-treatment-of-tuberculosis.html</guid><description>&lt;h1 id="impact-of-vitamin-d-in-the-treatment-of-tuberculosis">Impact of Vitamin D in the Treatment of Tuberculosis&lt;/h1>
 &lt;p>American Journal of the Medical Sciences: Review Article&lt;/p>
 &lt;p>June 2011 - Volume 341 - Issue 6 - pp 493-498&lt;/p>
 &lt;p>&lt;a href="https://doi.org/10.1097/MAJ.0b013e3182070f47">doi: 10.1097/MAJ.0b013e3182070f47&lt;/a>&lt;/p>
@@ -73,4 +325,114 @@
 &lt;p>Pilz S, Tomaschitz A, Drechsler C, Zittermann A, Dekker JM, März W.&lt;/p>
 &lt;p>Department of Internal Medicine, Division of Endocrinology and Nuclear Medicine, Medical University of Graz, Austria. &lt;a href="mailto:stefan.pilz@chello.at">stefan.pilz@chello.at&lt;/a>.&lt;/p>
 &lt;p>Vitamin D deficiency is highly prevalent due to lifestyle and environmental factors which limit sunlight induced vitamin D production in the skin.&lt;/p>
-&lt;p>This &amp;ldquo;pandemic&amp;rdquo; of vitamin D deficiency is of concern because low levels of 25-hydroxyvitamin D (25&lt;span>[OH]&lt;/span>D) have been associated with cardiovascular, musculoskeletal, infectious, autoimmune and malignant diseases.&lt;/p></description></item></channel></rss>
+&lt;p>This &amp;ldquo;pandemic&amp;rdquo; of vitamin D deficiency is of concern because low levels of 25-hydroxyvitamin D (25&lt;span>[OH]&lt;/span>D) have been associated with cardiovascular, musculoskeletal, infectious, autoimmune and malignant diseases.&lt;/p></description></item><item><title>Lowest cost osteoporosis treatment was vitamin D and Calcium</title><link>/posts/lowest-cost-osteoporosis-treatment-was-vitamin-d-and-calcium.html</link><pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate><guid>/posts/lowest-cost-osteoporosis-treatment-was-vitamin-d-and-calcium.html</guid><description>&lt;p> &lt;/p>
+&lt;h1 id="evaluation-of-multi-dimensional-outcomes-of-chronic-diseases-a-clinical-example-from-china">Evaluation of multi-dimensional outcomes of chronic diseases: A clinical example from China.&lt;/h1>
+&lt;p>Arch Gerontol Geriatr. 2010 Oct 29.&lt;/p>
+&lt;p>Liang Y, Lu Z, Zhang N, Shen L.&lt;/p>
+&lt;p>Department of Social Medicine, Public Health School, Tongji Medical College, Huazhong University of Science and Technology, 13 Hangkong Road, Wuhan 430030, PR China.&lt;/p>
+&lt;p>The purpose of this study is to provide the evidence of individualized/personalized care by evaluating multi-dimensional outcomes of chronic diseases in the elderly. We used primary osteoporosis as an example, to evaluate the outcomes of three treatments (calcium combined vitamin D=Ca+vit.D; estrogen and disphosphonates) at the same time with biological dimension (bone-mineral density=BMD) and socio-psychological dimension (health-related quality of life=HR-QOL), using the medical outcomes study short-form 36-item health survey (SF-36) and cost dimension (drug cost).&lt;/p></description></item><item><title>Hearing Loss appears to be prevented and treated with vitamin D</title><link>/posts/hearing-loss-appears-to-be-prevented-and-treated-with-vitamin-d.html</link><pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate><guid>/posts/hearing-loss-appears-to-be-prevented-and-treated-with-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#by-getting-stronger-earbones">By getting stronger ear bones&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#hypothesis-lack-of-vitamin-d-is-one-of-the-causes-of-hearing-loss-with-age-as-well-asosteoporosis">Hypothesis: Lack of vitamin D is one of the causes of hearing loss with age as well as osteoporosis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#but-one-reporthttpwwwncbinlmnihgovpmcarticlespmc2719023-shows-people-with-dark-skin-have-less-hearing-loss-withage">But, &lt;a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2719023/">one report&lt;/a> shows people with dark skin have LESS hearing loss with age.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#presbycusis-clips-fromwikipedia">Presbycusis clips from Wikipedia&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#search-for--ototoxic-vitamin-d--in-googlehttpwwwgooglecomwebhpsourceidnavclient-ffsclientpsyhlensitewebhpqototoxic20vitamin20daqfaqiaqloqototoxic20vitamin20dgs_rfaipbx1fpfad0bccbc44b8016-and-got-197000hits">Search for &lt;strong>ototoxic &amp;ldquo;vitamin D&amp;rdquo;&lt;/strong> in &lt;a href="http://www.google.com/webhp?sourceid=navclient-ff#sclient=psy&amp;amp;hl=en&amp;amp;site=webhp&amp;amp;q=Ototoxic%20+%22vitamin%20d%22&amp;amp;aq=f&amp;amp;aqi=&amp;amp;aql=&amp;amp;oq=Ototoxic%20+%22vitamin%20d%22&amp;amp;gs_rfai=&amp;amp;pbx=1&amp;amp;fp=fad0bccbc44b8016">Google&lt;/a> and got 197,000 hits&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#search-for--hearing-loss-osteoporosis--on-google-got-498000hits">Search for &lt;strong>hearing-loss osteoporosis&lt;/strong> on Google got 498,000 hits&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#search-for-age-related-hearing-loss-and-vitamin-d-in-google-got-only-3300hits">Search for age-related hearing loss&amp;rdquo; and &amp;ldquo;vitamin D&amp;rdquo; in Google got only 3,300 hits.&amp;quot;&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#update-april2012">Update April 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#handbook-of-clinical-nutrition-and-aging-2004-has-thefollowing">Handbook of Clinical Nutrition and Aging (2004) has the following&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vertigo-treated-by-vitamin-d---many-studiespostsvertigo-treated-by-vitamin-d-many-studiesshow-vertigo-is-strongly-associated-with-hearingloss">&lt;a href="/posts/vertigo-treated-by-vitamin-d-many-studies">Vertigo treated by Vitamin D - many studies&lt;/a> show Vertigo is strongly associated with hearing loss.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#update-may2014">Update May 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#17000-hits-for-hearing-loss-and-vitamin-d-in-google-scholar---april-2025">17,000 hits for &amp;ldquo;hearing loss&amp;rdquo; and &amp;ldquo;vitamin D&amp;rdquo; in Google Scholar - April 2025&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="by-getting-stronger-earbones">By getting stronger ear bones&lt;/h4>
+&lt;p>&lt;strong>Brought my 98-year-old father-in-law to an audiologist yesterday (Oct 19, 2010) to try out some new hearing aids, and I realized that his hearing had improved recently. He has been taking 10,000 IU of vitamin D and co-factors by &lt;a href="www.VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=523">Jarrow&lt;/a> of Calcium, Magnesium, vitamin K2, etc for the past 9 months.&lt;/strong>&lt;/p></description></item><item><title>Who said vitamin D could not be patented</title><link>/posts/who-said-vitamin-d-could-not-be-patented.html</link><pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate><guid>/posts/who-said-vitamin-d-could-not-be-patented.html</guid><description>&lt;h3 id="a-few-of-the-1000-vitamin-d-entries-for-us-and-international-patents">A few of the 1,000+ vitamin D entries for US and International Patents.&lt;/h3>
+&lt;h4 id="most-were-for-vitamin-d-span-stylecolorf00analogsspan-and-vitamin-d-testing">Most were for Vitamin D &lt;span style="color:#F00;">analogs&lt;/span> and vitamin D testing.&lt;/h4>
+&lt;h4 id="these-provide-some-insight-as-to-what-vitamin-d-might-help-with-and-shows-vitamin-d-uses-which-cannot-be-mentioned-for-fear-of-having-to-pay-patent-royalties">These provide some insight as to what vitamin D might help with, and shows vitamin D uses which cannot be mentioned for fear of having to pay patent royalties.&lt;/h4>
+&lt;h3 id="interesting-to-note-that-a-majority-of-the-patents-are-for-span-stylecolorf00treatingspan-not-span-stylecolor390preventingspan">Interesting to note that a majority of the patents are for &lt;span style="color:#F00;">TREATING&lt;/span>, not &lt;strong>&lt;span style="color:#390;">PREVENTING&lt;/span>&lt;/strong>&lt;/h3>
+&lt;h4 id="a-majority-of-these-vitamin-d-patents-are-owned-by--big-pharma-">A majority of these vitamin D patents are owned by &lt;strong>Big Pharma&lt;/strong> .&lt;/h4>
+&lt;h4 id="us-patents-for-vitamin-dhttppatftusptogovnetahtmlptosearch-boolhtml">&lt;a href="http://patft.uspto.gov/netahtml/PTO/search-bool.html">US Patents for vitamin D&lt;/a>&lt;/h4>
+&lt;p>&lt;a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;amp;Sect2=HITOFF&amp;amp;p=1&amp;amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;amp;r=2&amp;amp;f=G&amp;amp;l=50&amp;amp;co1=AND&amp;amp;d=PTXT&amp;amp;s1=%22vitamin+D%22.ABTX.&amp;amp;OS=ABST/%22vitamin+D%22&amp;amp;RS=ABST/%22vitamin+D%22">Method of treating multiple sclerosis&lt;/a> DeLuca March 2022&lt;/p></description></item><item><title>How I Treat Vitamin D Deficiency - for Cancer</title><link>/posts/how-i-treat-vitamin-d-deficiency-for-cancer.html</link><pubDate>Mon, 30 Aug 2010 00:00:00 +0000</pubDate><guid>/posts/how-i-treat-vitamin-d-deficiency-for-cancer.html</guid><description>&lt;p>the following is most of the text and graphics from the PDF. Extracted so that it can be Google-translated into 50+ other languages&lt;/p>
+&lt;ul>
+&lt;li>&lt;span>[tiki-download_file.php?fileId=1434]&lt;/span>&lt;/li>
+&lt;/ul>
+&lt;p>By Qamar J. Khan, MD, and Carol J. Fabian, MD&lt;/p>
+&lt;p>Department of Internal Medicine, Division Hematology and Oncology, University of Kansas Medical Center, Kansas City, KS&lt;/p>
+&lt;p>Copyright © 2010 by American Society of Clinical Oncology MARCH 2010 jop.ascopubs.org&lt;/p>
+&lt;h1 id="importance-of-vitamin-d">Importance of Vitamin D&lt;/h1>
+&lt;p>Vitamin D is important in a number of physiologic processes, including calcium absorption, innate and adaptive immunity, and homeostasis of a number of organs. Chronic vitamin D deficiency in adults results in osteoporosis, osteomalacia, muscle weakness, and increased risk of falls.1-4 Poor vitamin D intake and low blood levels of vitamin D metabolites are associated with increased incidence and severity of several autoimmune diseases involving the T helper type 1 lymphocyte,5,6 including multiple sclerosis,7 rheumatoid arthritis,8 type I diabetes,9 systemic lupus erythematosis,10 and psoriasis.11,12 Lower levels of vitamin D, adjusted for body mass index, are also associated with increased risk of hypertension, myocardial infarction, and death as a result of cardiovascular disease.13-16&lt;/p></description></item><item><title>Vitamin D Deficiency Diagnosis and Treatment - 2008</title><link>/posts/vitamin-d-deficiency-diagnosis-and-treatment-2008.html</link><pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-deficiency-diagnosis-and-treatment-2008.html</guid><description>&lt;p>&lt;span style="color:#C00;">Note - this is an early article by Cannell et all - extracted from attached PDF so that it can be translated by Google- did not have time to clean up all of line breaks&lt;/span>&lt;/p>
+&lt;p>JJ Cannell†, BW Hollis, M Zasloff &amp;amp; RP Heaney&lt;/p>
+&lt;p>†Atascadero State Hospital, 10333 El Camino Real, Atascadero, California 93422, USA&lt;/p>
+&lt;p>The recent discovery – in a randomised, controlled trial – that daily ingestion of 1100 IU of colecalciferol (vitamin D) over a 4-year period dramatically reduced the incidence of non-skin cancers makes it difficult to overstate the potential medical, social and economic implications of treating vitamin D deficiency. Not only are such deficiencies common, probably the rule, vitamin D deficiency stands implicated in a host of diseases other than cancer. The metabolic product of vitamin D is a potent, pleiotropic, repair and maintenance, secosteroid hormone that targets &amp;gt; 200 human genes in a wide variety of tissues, meaning it has as many mechanisms of action as genes it targets. A common misconception is that government agencies designed present intake recommendations to prevent or treat vitamin D deficiency. They did not. Instead, they are guidelines to prevent particular metabolic bone diseases. Official recommendations were never designed and are not effective in preventing or treating vitamin D deficiency and in no way limit the freedom of the physician – or responsibility – to do so. At this time, assessing serum 25-hydroxy-vitamin D is the only way to make the diagnosis and to assure that treatment is adequate and safe. The authors believe that treatment should be sufficient to maintain levels found in humans living naturally in a sun-rich environment, that is, &amp;gt; 40 ng/ml, year around. Three treatment modalities exist: sunlight, artificial ultraviolet B radiation or supplementation. All treatment modalities have their potential risks and benefits. Benefits of all treatment modalities outweigh potential risks and greatly outweigh the risk of no treatment. As a prolonged ‘vitamin D winter’, centred on the winter solstice, occurs at many temperate latitudes, ? 5000 IU (125 ?g) of vitamin D/day may be required in obese, aged and/or dark-skinned patients to maintain adequate levels during the winter, a dose that makes many physicians uncomfortable.&lt;/p></description></item><item><title>MS prevented and treated with Vitamin D – 2009</title><link>/posts/ms-prevented-and-treated-with-vitamin-d-2009.html</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate><guid>/posts/ms-prevented-and-treated-with-vitamin-d-2009.html</guid><description>&lt;h1 id="vitamin-d-treatment-in-multiple-sclerosis">Vitamin D treatment in multiple sclerosis.&lt;/h1>
+&lt;p>J Neurol Sci. 2009 Nov 15;286(1-2):104-8. Epub 2009 Jun 23.&lt;/p>
+&lt;p>Myhr KM.&lt;/p>
+&lt;p>Department of Neurology, Haukeland University Hospital, Norwegian Multiple Sclerosis National Competence Centre, Bergen, Norway. &lt;a href="mailto:kjell-morten.myhr@helse-bergen.no">kjell-morten.myhr@helse-bergen.no&lt;/a>&lt;/p>
+&lt;p>Multiple sclerosis is an immune-mediated disease of the central nervous system caused by a complex interplay between several different genetic as well as environmental factors. &lt;strong>Vitamin D is one of the most attractive candidates&lt;/strong> among various environmental factors suggested to be involved in the development of the disease. Epidemiological evidence combined with clinical and laboratory analyses, and experimental animal models, suggest a possible influence of vitamin D on MS susceptibility as well as clinical disease activity.&lt;/p></description></item><item><title>Testing and treating vitamin D deficiency – Mayo with CME</title><link>/posts/testing-and-treating-vitamin-d-deficiency-mayo-with-cme.html</link><pubDate>Sat, 31 Jul 2010 00:00:00 +0000</pubDate><guid>/posts/testing-and-treating-vitamin-d-deficiency-mayo-with-cme.html</guid><description>&lt;h4 id="vitamin-d-deficiency-in-adults-when-to-test-and-how-to-treat">Vitamin D Deficiency in Adults: When to Test and How to Treat&lt;/h4>
+&lt;p>Mayo Clinic Proceedings August 2010 vol. 85 no. 8 752-758&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Kurt A. Kennel, MD,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Matthew T. Drake, MD, PhD, and&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Daniel L. Hurley, MD&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>From the Division of Endocrinology, Diabetes, Metabolism, and Nutrition, Mayo Clinic, Rochester, MN&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Individual reprints of this article are not available. Address correspondence to Daniel L. Hurley, MD, Division of Endocrinology, Mayo Clinic, 200 First St SW, Rochester, MN 55905 &lt;a href="mailto:hurley.daniel@mayo.edu">hurley.daniel@mayo.edu&lt;/a>&lt;/p></description></item><item><title>Effective Treatment for Multiple Sclerosis is Completely Free with the sun</title><link>/posts/effective-treatment-for-multiple-sclerosis-is-completely-free-with-the-sun.html</link><pubDate>Thu, 22 Jul 2010 00:00:00 +0000</pubDate><guid>/posts/effective-treatment-for-multiple-sclerosis-is-completely-free-with-the-sun.html</guid><description>&lt;p>There are few effective treatments for the Neurologic problem called Multiple Sclerosis. Sufferers tend to get progressively worse and often end up in wheelchairs, unable to even perform the simplest tasks by themselves. But a new study is showing that effective treatment is right outside the door- in the form of the inexpensive and even FREE- Vitamin D.&lt;/p>
+&lt;p>Multiple Sclerosis is a devastating disease with few treatment options except hope. It often strikes at a young age and leaves the afflicted unable to care for themselves when they should be in the prime of their lives. It gets its name from the &amp;lsquo;sclerosed&amp;rsquo; appearance that the fatty outer layer of the spinal cord, the myelin sheath, has when viewed on medical scans. These patches slow down- and even stop- electrical transmissions from the brain to the rest of the body and vice versa. Over time, strength and movement slow and are lost entirely.&lt;/p></description></item><item><title>Overview Autism and vitamin D</title><link>/posts/overview-autism-and-vitamin-d.html</link><pubDate>Fri, 16 Jul 2010 00:00:00 +0000</pubDate><guid>/posts/overview-autism-and-vitamin-d.html</guid><description>&lt;h4 id="summary-of-this-page-by-chat-gpt-4--sept-2023">Summary of this page by CHAT-GPT-4 Sept 2023&lt;/h4>
+&lt;p>&lt;strong>Facts:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Many studies have shown associations between autism and low Vitamin D levels.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Clinical trials have shown that Vitamin D during pregnancy can prevent Autism.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Clinical trials have also treated autism in children with Vitamin D.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The recommendation is to take extra vitamin D when pregnant. While there&amp;rsquo;s a small risk in taking vitamin D during pregnancy, the risk of not doing so is significant, especially if you already have an autistic child.&lt;/p></description></item><item><title>Psychiatric problems such as ADHD treated with vitamin D</title><link>/posts/psychiatric-problems-such-as-adhd-treated-with-vitamin-d.html</link><pubDate>Sat, 26 Jun 2010 00:00:00 +0000</pubDate><guid>/posts/psychiatric-problems-such-as-adhd-treated-with-vitamin-d.html</guid><description>&lt;h4 id="low-serum-levels-of-25-hydroxyvitamin-d-25-ohd-among-psychiatric-out-patients-in-sweden-relations-with-season-age-ethnic-origin-and-psychiatric-diagnosis">Low serum levels of 25-hydroxyvitamin D (25-OHD) among psychiatric out-patients in Sweden: Relations with season, age, ethnic origin and psychiatric diagnosis.&lt;/h4>
+&lt;p>J Steroid Biochem Mol Biol. 2010 Mar 7.&lt;/p>
+&lt;p>Humble MB, Gustafsson S, Bejerot S.&lt;/p>
+&lt;p>Department of Clinical Neuroscience, Division of Psychiatry, St. Göran, Karolinska Institutet, Stockholm, Sweden.&lt;/p>
+&lt;p>In a chart review at a psychiatric out-patient department, latitude 59.3 degrees N, a sample of patients with tests of serum 25-hydroxy-vitamin D (25-OHD) and plasma intact parathyroid hormone (iPTH) was collected, together with demographic data and psychiatric diagnoses. During 19 months, 117 patients were included. Their median 25-OHD was 45nmol/l; considerably lower than published reports on Swedish healthy populations. Only 14.5% had recommended levels (over 75).&lt;/p></description></item><item><title>Novel treatment approaches to cachexia and sarcopenia:</title><link>/posts/novel-treatment-approaches-to-cachexia-and-sarcopenia.html</link><pubDate>Mon, 12 Apr 2010 00:00:00 +0000</pubDate><guid>/posts/novel-treatment-approaches-to-cachexia-and-sarcopenia.html</guid><description>&lt;p>Novel treatment approaches to cachexia and sarcopenia: highlights from the 5th Cachexia Conference.&lt;/p>
+&lt;h2 id="vit-d-considered-as-a-treatment-for-severe-weight-loss-in-terminal-stages-april-2010">Vit D considered as a treatment for severe weight loss in terminal stages April 2010'&lt;/h2>
+&lt;p>Expert Opin Investig Drugs. 2010 Apr;19(4):579-85.&lt;/p>
+&lt;p>Kung T, Springer J, Doehner W, Anker SD, von Haehling S.&lt;/p>
+&lt;p>Applied Cachexia Research, Charité Medical School, Department of Cardiology, Campus Virchow-Klinikum, Augustenburger Platz 1, D - 13353 Berlin, Germany.&lt;/p>
+&lt;p>Cachexia is an illness that may occur in terminal stages of many chronic illnesses including cancer, chronic heart failure, chronic renal failure or chronic obstructive pulmonary disease. Effective treatments are urgently needed in order to improve the patients&amp;rsquo; quality of life and their survival. We report highlights from the 5th Cachexia Conference held in December 2009 in Barcelona, Spain.&lt;/p></description></item><item><title>Potential for vitamin D receptor agonists in the treatment of cardiovascular disease</title><link>/posts/potential-for-vitamin-d-receptor-agonists-in-the-treatment-of-cardiovascular-disease.html</link><pubDate>Mon, 12 Apr 2010 00:00:00 +0000</pubDate><guid>/posts/potential-for-vitamin-d-receptor-agonists-in-the-treatment-of-cardiovascular-disease.html</guid><description>&lt;p>British Journal of Pharmacology Volume 158 Issue 2, Pages 395 - 412&lt;/p>
+&lt;p>Special Issue: Themed Section: Advances in Nutritional Pharmacology: Guest Editor: CL Wainwright&lt;/p>
+&lt;p>Published Online: 9 Apr 2009&lt;/p>
+&lt;p>Journal compilation © 2010 The British Pharmacological Society&lt;/p>
+&lt;p>THEMED SECTION: ADVANCES IN NUTRITIONAL PHARMACOLOGY&lt;/p>
+&lt;p>REVIEW&lt;/p>
+&lt;p>JR Wu-Wong Abbott, Abbott Park, IL, USA &lt;a href="mailto:ruth.wu-wong@abbott.com">ruth.wu-wong@abbott.com&lt;/a>&lt;/p>
+&lt;p>Vitamin D3 is made in the skin and modified in the liver and kidney to form the active metabolite, 1,25-dihydroxyvitamin D3 (calcitriol). Calcitriol binds to a nuclear receptor, the vitamin D receptor (VDR), and activates VDR to recruit cofactors to form a transcriptional complex that binds to vitamin D response elements in the promoter region of target genes.&lt;/p></description></item><item><title>Diagnose-me - what vitamin D can treat and prevent</title><link>/posts/diagnose-me-what-vitamin-d-can-treat-and-prevent.html</link><pubDate>Sun, 11 Apr 2010 00:00:00 +0000</pubDate><guid>/posts/diagnose-me-what-vitamin-d-can-treat-and-prevent.html</guid><description>&lt;h1 id="as-of-march-25-2011">As of March 25, 2011&lt;/h1>
+&lt;h2 id="their-website-has-links-to-detailshttpwwwdiagnose-mecomtreatt39894html-concerning-vitamin-d">Their &lt;a href="http://www.diagnose-me.com/treat/T39894.html">website has links to details&lt;/a> concerning vitamin D&lt;/h2>
+&lt;h3 id="rating-for-each-problem">Rating for each problem&lt;/h3>
+&lt;p>1 = May do some good&lt;/p>
+&lt;p>2 = Likely to help&lt;/p>
+&lt;p>3 = Highly recommended&lt;/p>
+&lt;h2 id="treat">Treat&lt;/h2>
+&lt;p>1 - IBS&lt;/p>
+&lt;p>1 - Sensitive Teeth&lt;/p>
+&lt;p>1 - Metabolic Diet Type&lt;/p>
+&lt;p>3 - Osteoporosis - Osteopenia&lt;/p>
+&lt;p>2 - Exhaustion Caused By Emotional Upsets&lt;/p>
+&lt;p>3 - Vitamin D Requirement: Rickets heals promptly with 4,000 IU of oral vitamin D per day, Osteomalacia is treated by eating 2,500 IU&lt;/p></description></item></channel></rss>

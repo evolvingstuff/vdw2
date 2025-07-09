@@ -175,9 +175,9 @@ Conclusions: Significantly lower vitamin D level in asthmatic children compared 
 
 ---
 
-#### <a href="/posts/obese-asthmatic-children-vitamin-d-50000-iu-then-8000-iu-daily-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese asthmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024">Obese asthmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024</a>
+#### [Obese asthmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024](/posts/obese-asthmatic-children-vitamin-d-50000-iu-then-8000-iu-daily-rct)
 
-* Note <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020">Astmatics have 1/2 the response to Vitamin D</a>  genes?, poor gut?
+* Note [Astmatics have 1/2 the response to Vitamin D](/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d)  genes?, poor gut?
 
 ---
 

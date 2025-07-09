@@ -32,6 +32,10 @@ appears to be from infogaphics
 
 ## Here are the names of the sheets of information it contains
 
-{IMG(attId="317")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/google-docs-categories.gif" alt="image">
 
-{IMG(attId="312,313,314,315,316")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/v1.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/v2.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/v3.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/v4.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/v5.gif" alt="image">

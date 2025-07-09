@@ -52,7 +52,7 @@
 
 ##### Dr. Hollis is referenced many times in <a href="/posts/vitamindwiki-overview-of-vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">VitaminDWiki Overview of Vitamin D Before, During, and After Pregnancy</a>
 
-{IMG(attId="300")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/dr-bruce-hollis.jpg" alt="image">
 
 ### Attended a vitamin D conference in New Zealand Nov 2010
 
@@ -92,7 +92,7 @@ The re-emergence of childhood rickets in New Zealand recently highlighted concer
 
 [CLICK HERE for Amazon](http://www.amazon.com/Insights-Vitamin-Pregnancy-Lactation-Infancy/dp/0982337965/ref=sr_1_1?ie=UTF8&s=books&qid=1290174727&sr=8-1)
 
-{IMG(attId="301")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/book-cover---insights.gif" alt="image">
 
 * the history of vitamin D and its link with rickets
 

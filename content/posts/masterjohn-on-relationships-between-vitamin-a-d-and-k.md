@@ -67,13 +67,13 @@ Spiesman found that vitamins A and D only reduced colds when fed together:
 
 Vitamins A and D Only Prevent Colds When Supplied Together
 
-{IMG(attId="356")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/master1.jpg" alt="image">
 
 Likewise, he found that vitamins A and D were only safe when provided together:
 
 Vitamins A and D are toxic when provided alone, but safe when provided together.
 
-{IMG(attId="357")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/master2.jpg" alt="image">
 
 This study is not perfect.  As you can see from the numbers on top of the bars in the second graph, there were far fewer people in the groups receiving either vitamin alone than in the group receiving both vitamins together.  Spiesman reported that this was because it was difficult to get people receiving no benefit to continue the study for very long.  It makes the study more difficult to interpret.  On the other hand, given the toxicity figures in the second graph, we can be happy for safety's sake that so few people were given massive doses of one or the other vitamin alone.
 

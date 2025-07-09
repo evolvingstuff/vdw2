@@ -1,0 +1,350 @@
+{
+    "title": "How vitamin D benefits normal organs and Long-COVID organs",
+    "slug": "how-vitamin-d-benefits-normal-organs-and-long-covid-organs",
+    "aliases": [
+        "/How+vitamin+D+benefits+normal+organs+and+Long-COVID+organs+\u2013+Jan+2025",
+        "/15717"
+    ],
+    "tiki_page_id": 15717,
+    "date": "2024-12-12",
+    "tags": [
+        "IBD",
+        "RSV",
+        "autoimmune",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cancers after vaccination",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood pneumonia",
+        "childhood vaccination",
+        "childhood viruses",
+        "cholesterol",
+        "cognitive",
+        "crohns",
+        "depression",
+        "genetics",
+        "gut",
+        "health risk",
+        "heart failure",
+        "hepatitis c",
+        "high dose",
+        "immunity",
+        "intervention",
+        "life span",
+        "liver",
+        "long covid",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "pain",
+        "pancreatic cancer",
+        "pancreatitis",
+        "pediatric autoimmune",
+        "pneumonia",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "rickets",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vaccination",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+{{< toc >}}
+
+---
+
+#### Comparison of the role of vitamin D in normal organs and those affected by COVID-19
+
+Int J Med Sci 2025; 22(2):240-251. doi:10.7150/ijms.103260 
+
+Rajendran Peramaiyan1,2 Corresponding address#, Josephine Anthony3 Corresponding address#, Sureka Varalakshmi3, Ashok Kumar Sekar4, Enas M. Ali1,5, Al Hashedi Sallah A6, Basem M. Abdallah1
+
+* 1. Department of Biological Sciences, College of Science, King Faisal University, Al-Ahsa, Kingdom of Saudi Arabia.
+
+* 2. Centre of Molecular Medicine and Diagnostics (COMManD), Department of Biochemistry, Saveetha Dental College & Hospitals, Saveetha Institute of Medical and Technical Sciences, Saveetha University, Chennai 600 077, Tamil Nadu, India
+
+* 3. Department of Research, Meenakshi Academy of Higher Education and Research (Deemed to be University), Chennai - 600 078, Tamil Nadu, India.
+
+* 4. Centre for Biotechnology, Anna University, Chennai-600 025, Tamil Nadu, India.
+
+* 5. Department of Botany and Microbiology, Faculty of Science, Cairo University, Cairo 12613, Egypt.
+
+* 6. Central Laboratories, Department of microbiology, King Faisal University, 31982, Al-Ahsa, Kingdom of Saudi Arabia.
+
+1. : Equal Contribution.
+
+Corresponding authors: Dr. P. Rajendran; Dr. A. Josephine. E-mail: prajendran@kfu.edu.sa; ajosephineanthony@gmail.com.
+
+##### <span style="color:#F00;">Benefits to normal organs</span>
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/d-normal-organ.webp" alt="image" width="700">
+
+##### <span style="color:#F00;">Benefits to Long-COVID organs</span>
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/d-in-organs-with-covid.webp" alt="image" width="700">
+
+##### <span style="color:#F00;">Benefits to BOTH normal organs and Long-COVID organs</span>
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/webp/d-with-and-without-covid.webp" alt="image" width="900">
+
+The outbreak of COVID-19 has opened up new avenues for exploring the importance of vitamin D in immunity, in addition to its role in calcium absorption. Recently, vitamin D supplementation has been found to enhance T regulatory lymphocytes, which are reduced in individuals with COVID-19. Increased risk of pneumonia and increases in inflammatory cytokines have been reported to be major threats associated with vitamin-D deficiency. Although vaccination reduces the threat of COVID-19 to a certain extent, herd immunity is the long-term solution to overcoming such diseases. Co-administration of vitamin D with certain inactivated vaccines has been reported to enhance the systemic immune response through stimulation of the production of antigen-specific mucosal immunity. 
+
+COVID-19 was found to induce multiple organ damage, and vitamin D has a beneficial role in various organs, such as the 
+
+* intestines, 
+
+* pancreas, 
+
+* prostate, 
+
+* kidneys, 
+
+* liver, 
+
+* heart, 
+
+* brain, and 
+
+* immune cells. 
+
+The consequences that occur after COVID-19 infection known as long COVID-19 are also a concern as they accumulate and target multiple organs, leading to immune dysregulation. 
+
+The present review covers the overall role and impact of vitamin D and its deficiency for various organs in normal conditions and after COVID-19 infection, which is still a serious issue.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/d-and-organs-with-and-without-covid-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+##### References
+
+* 1. Bouillon R, Carmeliet G, Verlinden L, van Etten E, Verstuyf A, Luderer HF, Lieben L, Mathieu C, Demay M. Vitamin D and human health: lessons from vitamin D receptor null mice. Endocr Rev. 2008;29(6):726-776
+
+* 2. DeLuca HF. Overview of general physiologic features and functions of vitamin D. Am J Clin Nutr. 2004;80(6 Suppl):1689S-96S
+
+* 3. Aygun H. Vitamin D can prevent COVID-19 infection-induced multiple organ damage. Naunyn Schmiedebergs Arch Pharmacol. 2020;393(7):1157-1160
+
+* 4. Barrea L, Verde L, Grant WB, Frias-Toral E, Sarno G, Vetrani C, Ceriani F, Garcia-Velasquez E, Contreras-Briceño J, Savastano S, Colao A, Muscogiuri G. Vitamin D: A Role Also in Long COVID-19? Nutrients. 2022;14(8):1625
+
+* 5. Nalbandian A, Sehgal K, Gupta A, Madhavan MV, McGroder C, Stevens JS, Cook JR, Nordvig AS, Shalev D, Sehrawat TS, Ahluwalia N, Bikdeli B, Dietz D, Der-Nigoghossian C, Liyanage-Don N, Rosner GF, Bernstein EJ, Mohan S, Beckley A, Seres DS, Choueiri TK, Uriel N, Ausiello JC, Accili D, Freedberg DE, Baldwin M, Schwartz A, Brodie D, Garcia CK, Elkind MSV, Connors JM, Bilezikian JP, Landry DW, Wan EY. Post-acute COVID-19 syndrome. Nat Med. 2021;27(4):601-615
+
+* 6. Tenforde MW, Kim SS, Lindsell CJ, Rose EB, Shapiro NI, Files DC, Gibbs KW, Erickson HL, Steingrub JS, Smithline HA, Gong MN, Aboodi MS, Exline MC, Henning DJ, Wilson JG, Khan A, Qadir N, Brown SM, Peltan ID, Rice TW, Hager DN, Ginde AA, Stubblefield WB, Patel MM, Self WH, Feldstein LR; IVY Network Investigators; CDC COVID-19 Response Team; IVY Network Investigators. Symptom duration and risk factors for delayed return to usual health among outpatients with COVID-19 in a multistate health care systems network—United States, March-June 2020. MMWR. 2020;69(30):993
+
+* 7. Yong SJ. Long COVID or post-COVID-19 syndrome: putative pathophysiology, risk factors, and treatments. Infect dis. 2021;53(10):737-54
+
+* 8. di Filippo L, Frara S, Nannipieri F, Cotellessa A, Locatelli M, Rovere Querini P, Giustina A. Low Vitamin D Levels Are Associated With Long COVID Syndrome in COVID-19 Survivors. J Clin Endocrinol Metab. 2023Sep18;108(10):e1106-e1116
+
+* 9. Kaya MO, Pamukçu E, Yakar B. The role of vitamin D deficiency on COVID-19: a systematic review and meta-analysis of observational studies. Epidemiol Health. 2021;43:e2021074
+
+* 10. Hosseini B, El Abd A, Ducharme FM. Effects of Vitamin D Supplementation on COVID-19 Related Outcomes: A Systematic Review and Meta-Analysis. Nutrients. 2022May20;14(10):2134
+
+* 11. Jamilian A, Ghalichi F, Hamedi Kalajahi F, Radkhah N, Jourabchi N, Musazadeh V, Amini-Salehi E, Zarezadeh M, Ostadrahimi A. The role of vitamin D in outcomes of critical care in COVID-19 patients: evidence from an umbrella meta-analysis of interventional and observational studies. Public Health Nutr. 2024Apr24;27(1):e127
+
+* 12. Aranow C. Vitamin D and the immune system. J Investig Med. 2011;59(6):881-886
+
+* 13. Chirumbolo S, Bjørklund G, Sboarina A, Vella A. The Role of Vitamin D in the Immune System as a Pro-survival Molecule. Clin Ther. 2017;39(5):894-916
+
+* 14. Kongsbak M, Levring TB, Geisler C, von Essen MR. Vitamin D-binding protein controls T cell responses to vitamin D. BMC Immunol. 2014;15:35
+
+* 15. Charoenngam N, Holick MF. Immunologic Effects of Vitamin D on Human Health and Disease. Nutrients. 2020;12(7):2097
+
+* 16. von Essen MR, Kongsbak M, Schjerling P, Olgaard K, Odum N, Geisler C. Vitamin D controls T cell antigen receptor signaling and activation of human T cells. Nat Immunol. 2010;11(4):344-349
+
+* 17. Chun RF, Liu PT, Modlin RL, Adams JS, Hewison M. Impact of vitamin D on immune function: lessons learned from genome-wide analysis. Front Physiol. 2014;5:151
+
+* 18. Akutsu N, Lin R, Bastien Y, Bestawros A, Enepekides DJ, Black MJ, White JH. Regulation of gene Expression by 1alpha,25-dihydroxyvitamin D3 and Its analog EB1089 under growth-inhibitory conditions in squamous carcinoma Cells. Mol Endocrinol. 2001;15(7):1127-1139
+
+* 19. Liu PT, Stenger S, Li H, Wenzel L, Tan BH, Krutzik SR, Ochoa MT, Schauber J, Wu K, Meinken C, Kamen DL, Wagner M, Bals R, Steinmeyer A, Zügel U, Gallo RL, Eisenberg D, Hewison M, Hollis BW, Adams JS, Bloom BR, Modlin RL. Toll-like receptor triggering of a vitamin D-mediated human antimicrobial response. Science. 2006;311(5768):1770-1773
+
+* 20. K Kongsbak-Wismann M, Al-Jaberi FAH, Schmidt JD, Ghanizada M, Hansen CB, Lopez DV, Woetmann A, Ødum N, Bonefeld CM, Stryhn A, Garred P, Buus S, Geisler CNormal T, B Cell Responses Against SARS-CoV-2 in a Family With a Non-Functional Vitamin D Receptor. A Case Report. Front Immunol. 2021;12:758154
+
+* 21. Taheri M, Rad LM, Hussen BM, Nicknafs F, Sayad A, Ghafouri-Fard S. Evaluation of expression of VDR-associated lncRNAs in COVID-19 patients. BMC Infect Dis. 2021;21(1):588
+
+* 22. Al-Jaberi FAH, Kongsbak-Wismann M, Aguayo-Orozco A, Krogh N, Buus TB, Lopez DV, Rode AKO, Gravesen E, Olgaard K, Brunak S, Woetmann A, Ødum N, Bonefeld CM, Geisler C. Impaired Vitamin D Signaling in T Cells From a Family With Hereditary Vitamin D Resistant Rickets. Front Immunol. 2021;12:684015
+
+* 23. Kongsbak-Wismann M, Al-Jaberi FAH, Schmidt JD, Ghanizada M, Hansen CB, Lopez DV, Woetmann A, Ødum N, Bonefeld CM, Stryhn A, Garred P, Buus S, Geisler C. Normal T and B Cell Responses Against SARS-CoV-2 in a Family With a Non-Functional Vitamin D Receptor: A Case Report. Front Immunol. 2021Sep30;12:758154
+
+* 24. Shah Alam M, Czajkowsky DM, Aminul Islam M, Ataur Rahman M. The role of vitamin D in reducing SARS-CoV-2 infection: An update. Int Immunopharmacol. 2021;97:107686
+
+* 25. Cutolo M, Paolino S, Smith V. Evidences for a protective role of vitamin D in COVID-19. RMD Open. 2020;6(3):e001454
+
+* 26. Zeng F, Dai C, Cai P, Wang J, Xu L, Li J, Hu G, Wang Z, Zheng F, Wang L. A comparison study of SARS-CoV-2 IgG antibody between male and female COVID-19 patients: A possible reason underlying different outcome between sex. J Med Virol. 2020;92(10):2050-2054
+
+* 27. Ghelani D, Alesi S, Mousa A. Vitamin D and COVID-19: An Overview of Recent Evidence. Int J Mol Sci. 2021;22(19):10559
+
+* 28. Ananthakrishnan AN, Cheng SC, Cai T, Cagan A, Gainer VS, Szolovits P, Shaw SY, Churchill S, Karlson EW, Murphy SN, Kohane I, Liao KP. Association between reduced plasma 25-hydroxy vitamin D and increased risk of cancer in patients with inflammatory bowel diseases. Clin Gastroenterol Hepatol. 2014;12(5):821-827
+
+* 29. Imanzadeh F, Nasri P, Sadeghi S, Sayyari A, Dara N, Abdollah K, Nilipoor Y, Mansuri M, Khatami K, Rouhani P, Olang B. Food allergy among Iranian children with inflammatory bowel disease: A preliminary report. J Res Med Sci. 2015;20(9):855-859
+
+* 30. Tabatabaeizadeh SA, Tafazoli N, Ferns GA, Avan A, Ghayour-Mobarhan M. Vitamin D, the gut microbiome and inflammatory bowel disease. J Res Med Sci. 2018;23:75
+
+* 31. Ananthakrishnan AN, Cagan A, Gainer VS, Cai T, Cheng SC, Savova G, Chen P, Szolovits P, Xia Z, De Jager PL, Shaw SY, Churchill S, Karlson EW, Kohane I, Plenge RM, Murphy SN, Liao KP. Normalization of plasma 25-hydroxy vitamin D is associated with reduced risk of surgery in Crohn's disease. Inflamm Bowel Dis. 2013;19(9):1921-1927
+
+* 32. Zator ZA, Cantu SM, Konijeti GG, Nguyen DD, Sauk J, Yajnik V, Ananthakrishnan AN. Pretreatment 25-hydroxyvitamin D levels and durability of anti-tumor necrosis factor-α therapy in inflammatory bowel diseases. JPEN J Parenter Enteral Nutr. 2014;38(3):385-391
+
+* 33. Cantorna MT, McDaniel K, Bora S, Chen J, James J. Vitamin D, immune regulation, the microbiota, and inflammatory bowel disease. Exp Biol Med (Maywood). 2014;239(11):1524-1530
+
+* 34. Wang TT, Dabbas B, Laperriere D, Bitton AJ, Soualhine H, Tavera-Mendoza LE, Dionne S, Servant MJ, Bitton A, Seidman EG, Mader S, Behr MA, White JH. Direct and indirect induction by 1,25-dihydroxyvitamin D3 of the NOD2/CARD15-defensin beta2 innate immune pathway defective in Crohn disease. J Biol Chem. 2010;285(4):2227-2231
+
+* 35. Barrea L, Muscogiuri G, Annunziata G, Laudisio D, de Alteriis G, Tenore GC, Colao A, Savastano S. A New Light on Vitamin D in Obesity: A Novel Association with Trimethylamine-N-Oxide (TMAO). Nutrients. 2019;11(6):1310
+
+* 36. Wang X, Li X, Dong Y. Vitamin D Decreases Plasma Trimethylamine-N-oxide Level in Mice by Regulating Gut Microbiota. Biomed Res Int. 2020;2020:9896743
+
+* 37. Díaz GD, Paraskeva C, Thomas MG, Binderup L, Hague A. Apoptosis is induced by the active metabolite of vitamin D3 and its analogue EB1089 in colorectal adenoma and carcinoma cells: possible implications for prevention and therapy. Cancer Res. 2000;60(8):2304-2312
+
+* 38. Villapol S. Gastrointestinal symptoms associated with COVID-19: impact on the gut microbiome. Transl Res. 2020;226:57-69
+
+* 39. Xu J, Chu M, Zhong F, Tan X, Tang G, Mai J, Lai N, Guan C, Liang Y, Liao G. Digestive symptoms of COVID-19 and expression of ACE2 in digestive tract organs. Cell Death Discov. 2020;6:76
+
+* 40. Shenoy S. Gut microbiome, Vitamin D, ACE2 interactions are critical factors in immune-senescence and inflammaging: key for vaccine response and severity of COVID-19 infection. Inflamm Res. 2022;71(1):13-26
+
+* 41. Malek Mahdavi A. A brief review of interplay between vitamin D and angiotensin-converting enzyme 2: Implications for a potential treatment for COVID-19. Rev Med Virol. 2020;30(5):e2119
+
+* 42. Roberts SE, Morrison-Rees S, John A, Williams JG, Brown TH, Samuel DG. The incidence and aetiology of acute pancreatitis across Europe. Pancreatology. 2017;17(2):155-165
+
+* 43. Hidalgo M. Pancreatic cancer published correction appears in N Engl J Med. 2010 Jul 15;363(3):298]. N Engl J Med. 2010;362(17):1605-1617
+
+* 44. Anderson LN, Cotterchio M, Knight JA, Borgida A, Gallinger S, Cleary SP. Genetic variants in vitamin d pathway genes and risk of pancreas cancer; results from a population-based case-control study in ontario, Canada. PLoS One. 2013;8(6):e66768
+
+* 45. Hummel D, Aggarwal A, Borka K, Bajna E, Kállay E, Horváth HC. The vitamin D system is deregulated in pancreatic diseases. J Steroid Biochem Mol Biol. 2014;144:402-409
+
+* 46. Anand ER, Major C, Pickering O, Nelson M. Acute pancreatitis in a COVID-19 patient. Br J Surg. 2020;107(7):e182
+
+* 47. Meireles PA, Bessa F, Gaspar P, Parreira I, Silva VD, Mota C, Alvoeiro L. Acalculous Acute Pancreatitis in a COVID-19 Patient. Eur J Case Rep Intern Med. 2020;7(6):001710
+
+* 48. Easty DJ, Farr CJ, Hennessy BT. New Roles for Vitamin D Superagonists: From COVID to Cancer. Front Endocrinol (Lausanne). 2021;12:644298
+
+* 49. Rhodes JM, Subramanian S, Laird E, Griffin G, Kenny RA. Perspective: Vitamin D deficiency and COVID-19 severity - plausibly linked by latitude, ethnicity, impacts on cytokines, ACE2 and thrombosis. J Intern Med. 2021;289(1):97-115
+
+* 50. Sherman MH, Yu RT, Engle DD, Ding N, Atkins AR, Tiriac H, Collisson EA, Connor F, Van Dyke T, Kozlov S, Martin P, Tseng TW, Dawson DW, Donahue TR, Masamune A, Shimosegawa T, Apte MV, Wilson JS, Ng B, Lau SL, Gunton JE, Wahl GM, Hunter T, Drebin JA, O'Dwyer PJ, Liddle C, Tuveson DA, Downes M, Evans RM. Vitamin D receptor-mediated stromal reprogramming suppresses pancreatitis and enhances pancreatic cancer therapy. Cell. 2014;159(1):80-93
+
+* 51. Peehl DM, Shinghal R, Nonn L, Seto E, Krishnan AV, Brooks JD, Feldman D. Molecular activity of 1,25-dihydroxyvitamin D3 in primary cultures of human prostatic epithelial cells revealed by cDNA microarray analysis. J Steroid Biochem Mol Biol. 2004;92(3):131-141
+
+* 52. De Marzo AM, Platz EA, Sutcliffe S. et al. Inflammation in prostate carcinogenesis. Nat Rev Cancer. 2007;7(4):256-269
+
+* 53. Powell IJ, Dyson G, Land S, Ruterbusch J, Bock CH, Lenk S, Herawi M, Everson R, Giroux CN, Schwartz AG, Bollig-Fischer A. Genes associated with prostate cancer are differentially expressed in African American and European American men. Cancer Epidemiol Biomarkers Prev. 2013;22(5):891-897
+
+* 54. Schwartz GG, Hulka BS. Is vitamin D deficiency a risk factor for prostate cancer? (Hypothesis). Anticancer Res. 1990;10(5A):1307-1311
+
+* 55. Chen TC, Holick MF. Vitamin D and prostate cancer prevention and treatment. Trends Endocrinol Metab. 2003;14(9):423-430
+
+* 56. Sung V, Feldman D. 1,25-Dihydroxyvitamin D3 decreases human prostate cancer cell adhesion and migration. Mol Cell Endocrinol. 2000;164(1-2):133-143
+
+* 57. Khan MA, Partin AW. Vitamin d for the management of prostate cancer. Rev Urol. 2004;6(2):95-97
+
+* 58. Yao S, Kwan ML, Ergas IJ, Roh JM, Cheng TD, Hong CC, McCann SE, Tang L, Davis W, Liu S, Quesenberry CP Jr, Lee MM, Ambrosone CB, Kushi LH. Association of serum level of vitamin D at diagnosis with breast cancer survival: a case-cohort analysis in the pathways study. JAMA oncol. 2017;3(3):351-357
+
+* 59. Wang W, Xu Y, Gao R, Lu R, Han K, Wu G, Tan W. Detection of SARS-CoV-2 in Different Types of Clinical Specimens. JAMA. 2020;323(18):1843-1844
+
+* 60. Hansdottir S, Monick MM, Lovan N, Powers L, Gerke A, Hunninghake GW. Vitamin D decreases respiratory syncytial virus induction of NF-kappaB-linked chemokines and cytokines in airway epithelium while maintaining the antiviral state. J Immunol. 2010;184(2):965-974
+
+* 61. Penna G, Roncari A, Amuchastegui S, Daniel KC, Berti E, Colonna M, Adorini L. Expression of the inhibitory receptor ILT3 on dendritic cells is dispensable for induction of CD4+Foxp3+ regulatory T cells by 1,25-dihydroxyvitamin D3. Blood. 2005;106(10):3490-3497
+
+* 62. Barrat FJ, Cua DJ, Boonstra A, Richards DF, Crain C, Savelkoul HF, de Waal-Malefyt R, Coffman RL, Hawrylowicz CM, O'Garra A. In vitro generation of interleukin 10-producing regulatory CD4(+) T cells is induced by immunosuppressive drugs and inhibited by T helper type 1 (Th1)- and Th2-inducing cytokines. J Exp Med. 2002;195(5):603-616
+
+* 63. Schellenberg D, Paré PD, Weir TD, Spinelli JJ, Walker BA, Sandford AJ. Vitamin D binding protein variants and the risk of COPD. Am J Respir Crit Care Med. 1998;157(3 Pt 1):957-961
+
+* 64. Mernitz H, Smith DE, Wood RJ, Russell RM, Wang XD. Inhibition of lung carcinogenesis by 1alpha,25-dihydroxyvitamin D3 and 9-cis retinoic acid in the A/J mouse model: evidence of retinoid mitigation of vitamin D toxicity. Int J Cancer. 2007;120(7):1402-1409
+
+* 65. Sulli A, Gotelli E, Casabella A, Paolino S, Pizzorni C, Alessandri E, Grosso M, Ferone D, Smith V, Cutolo M. Vitamin D and Lung Outcomes in Elderly COVID-19 Patients. Nutrients. 2021;13(3):717
+
+* 66. Murai IH, Fernandes AL, Sales LP, Pinto AJ, Goessler KF, Duran CSC, Silva CBR, Franco AS, Macedo MB, Dalmolin HHH, Baggio J, Balbi GGM, Reis BZ, Antonangelo L, Caparbo VF, Gualano B, Pereira RMR Effect of a Single High Dose of Vitamin D3 on Hospital Length of Stay in Patients With Moderate to Severe COVID-19. A Randomized Clinical Trial. JAMA. 2021;325(11):1053-1060
+
+* 67. Carpagnano GE, Di Lecce V, Quaranta VN, Zito A, Buonamico E, Capozza E, Palumbo A, Di Gioia G, Valerio VN, Resta O. Vitamin D deficiency as a predictor of poor prognosis in patients with acute respiratory failure due to COVID-19. J Endocrinol Invest. 2021;44(4):765-771
+
+* 68. Annweiler G, Corvaisier M, Gautier J, Dubée V, Legrand E, Sacco G, Annweiler C. Vitamin D Supplementation Associated to Better Survival in Hospitalized Frail Elderly COVID-19 Patients: The GERIA-COVID Quasi-Experimental Study. Nutrients. 2020;12(11):3377
+
+* 69. Miller BJ, Whisner CM, Johnston CS. Vitamin D Supplementation Appears to Increase Plasma Aβ40 in Vitamin D Insufficient Older Adults: A Pilot Randomized Controlled Trial. J Alzheimers Dis. 2016Mar31;52(3):843-7
+
+* 70. Berridge MJ. Vitamin D and Depression: Cellular and Regulatory Mechanisms. Pharmacol Rev. 2017;69(2):80-92
+
+* 71. Gezen-Ak D, Dursun E, Yilmazer S. The Effect of Vitamin D Treatment On Nerve Growth Factor (NGF) Release From Hippocampal Neurons. Noro Psikiyatr Ars. 2014;51(2):157-162
+
+* 72. Kesby JP, Turner KM, Alexander S, Eyles DW, McGrath JJ, Burne THJ. Developmental vitamin D deficiency alters multiple neurotransmitter systems in the neonatal rat brain. Int J Dev Neurosci. 2017Nov;62:1-7
+
+* 73. Latimer CS, Brewer LD, Searcy JL, Chen KC, Popović J, Kraner SD, Thibault O, Blalock EM, Landfield PW, Porter NM. Vitamin D prevents cognitive decline and enhances hippocampal synaptic function in aging rats. Proc Natl Acad Sci U S A. 2014;111(41):E4359-E4366
+
+* 74. Ceolin G, Mano GPR, Hames NS, Antunes LDC, Brietzke E, Rieger DK, Moreira JD. Vitamin D, Depressive Symptoms, and Covid-19 Pandemic. Front Neurosci. 2021;15:670879
+
+* 75. Mehta A, Soni VK, Sharma K, Ratre YK, Shukla D, Singh AK, Vishvakarma NK. Finding Horcrux of psychiatric symptoms in COVID-19: Deficiencies of amino acids and vitamin D. Asian J Psychiatr. 2021;55:102523
+
+* 76. Di Nicola M, Dattoli L, Moccia L, Pepe M, Janiri D, Fiorillo A, Janiri L, Sani G. Serum 25-hydroxyvitamin D levels and psychological distress symptoms in patients with affective disorders during the COVID-19 pandemic. Psychoneuroendocrinology. 2020;122:104869
+
+* 77. Mocayar Marón FJ, Ferder L, Reiter RJ, Manucha W. Daily and seasonal mitochondrial protection: Unraveling common possible mechanisms involving vitamin D and melatonin. J Steroid Biochem Mol Biol. 2020;199:105595
+
+* 78. Gascon-Barré M, Demers C, Mirshahi A, Néron S, Zalzal S, Nanci A. The normal liver harbors the vitamin D nuclear receptor in nonparenchymal and biliary epithelial cells. Hepatology. 2003;37(5):1034-1042
+
+* 79. Gal-Tanamy M, Bachmetov L, Ravid A, Koren R, Erman A, Tur-Kaspa R, Zemel R. Vitamin D: an innate antiviral agent suppressing hepatitis C virus in human hepatocytes. Hepatology. 2011;54(5):1570-1579
+
+* 80. Ding N, Yu RT, Subramaniam N, Sherman MH, Wilson C, Rao R, Leblanc M, Coulter S, He M, Scott C, Lau SL, Atkins AR, Barish GD, Gunton JE, Liddle C, Downes M, Evans RM. A vitamin D receptor/SMAD genomic circuit gates hepatic fibrotic response. Cell. 2013;153(3):601-613
+
+* 81. Wahsh E, Abu-Elsaad N, El-Karef A, Ibrahim T. The vitamin D receptor agonist, calcipotriol, modulates fibrogenic pathways mitigating liver fibrosis in-vivo: An experimental study. Eur J Pharmacol. 2016;789:362-369
+
+* 82. Sadeghi Dousari A, Hosseininasab SS, Sadeghi Dousari F, Fuladvandi M, Satarzadeh N. The impact of COVID-19 on liver injury in various age. World J Virol. 2023Mar25;12(2):91-99
+
+* 83. Siddiqui M, Manansala JS, Abdulrahman HA, Nasrallah GK, Smatti MK, Younes N, Althani AA, Yassine HM. Immune Modulatory Effects of Vitamin D on Viral Infections. Nutrients. 2020Sep21;12(9):2879
+
+* 84. Ristic-Medic D, Petrovic S, Arsic A, Vucic V. Liver disease and COVID-19: The link with oxidative stress, antioxidants and nutrition. World J Gastroenterol. 2021;27(34):5682-5699
+
+* 85. Meltzer DO, Best TJ, Zhang H, Vokes T, Arora V, Solway J. Association of Vitamin D Status and Other Clinical Characteristics With COVID-19 Test Results. JAMA Netw Open. 2020;3(9):e2019722
+
+* 86. Li YC. Renoprotective effects of vitamin D analogs. Kidney Int. 2010;78(2):134-139
+
+* 87. Zhang Y, Kong J, Deb DK, Chang A, Li YC. Vitamin D receptor attenuates renal fibrosis by suppressing the renin-angiotensin system. J Am Soc Nephrol. 2010;21(6):966-973
+
+* 88. Arfian N, Budiharjo S, Wibisono DP, Setyaningsih WAW, Romi MM, Saputri RLAAW, Rofiah EK, Rahmanti T, Agustin M, Sari DCR. Vitamin D Ameliorates Kidney Ischemia Reperfusion Injury via Reduction of Inflammation and Myofibroblast Expansion. Kobe J Med Sci. 2020;65(4):E138-E143
+
+* 89. Balzanelli MG, Distratis P, Lazzaro R, Cefalo A, Catucci O, Aityan SK, Dipalma G, Vimercati L, Inchingolo AD, Maggiore ME, Mancini A, Santacroce L, Gesualdo L, Pham VH, Iacobone D, Contaldo M, Serpico R, Scarano A, Lorusso F, Toai TC, Tafuri S, Migliore G, Inchingolo AM, Nguyen KCD, Inchingolo F, Tomassone D, Gargiulo Isacco C. The Vitamin D, IL-6 and the eGFR Markers a Possible Way to Elucidate the Lung-Heart-Kidney Cross-Talk in COVID-19 Disease: A Foregone Conclusion. Microorganisms. 2021;9(9):1903
+
+* 90. Yang Y, Yang Q, Yang J, Ma Y, Ding G. Angiotensin II induces cholesterol accumulation and injury in podocytes. Sci Rep. 2017;7(1):10672
+
+* 91. Karahan S, Katkat F. Impact of Serum 25(OH) Vitamin D Level on Mortality in Patients with COVID-19 in Turkey. J Nutr Health Aging. 2021;25(2):189-196
+
+* 92. Silberstein M. Correlation between premorbid IL-6 levels and COVID-19 mortality: Potential role for Vitamin D. Int Immunopharmacol. 2020;88:106995
+
+* 93. Bae S, Singh SS, Yu H, Lee JY, Cho BR, Kang PM. Vitamin D signaling pathway plays an important role in the development of heart failure after myocardial infarction. J Appl Physiol (1985). 2013;114(8):979-987
+
+* 94. Assalin HB, Rafacho BP, dos Santos PP, Ardisson LP, Roscani MG, Chiuso-Minicucci F, Barbisan LF, Fernandes AA, Azevedo PS, Minicucci MF, Zornoff LA, de Paiva SA. Impact of the length of vitamin D deficiency on cardiac remodeling. Circ Heart Fail. 2013;6(4):809-816
+
+* 95. Pfeffer PE, Chen YH, Woszczek G, Matthews NC, Chevretton E, Gupta A, Saglani S, Bush A, Corrigan C, Cousins DJ, Hawrylowicz CM. Vitamin D enhances production of soluble ST2, inhibiting the action of IL-33. J Allergy Clin Immunol. 2015;135(3):824-7.e3
+
+* 96. Oz F, Cizgici AY, Oflaz H, Elitok A, Karaayvaz EB, Mercanoglu F, Bugra Z, Omer B, Adalet K, Oncul A. Impact of vitamin D insufficiency on the epicardial coronary flow velocity and endothelial function. Coron Artery Dis. 2013;24(5):392-397
+
+* 97. Driggin E, Madhavan MV, Gupta A. The role of vitamin D in cardiovascular disease and COVID-19. Rev Endocr Metab Disord. 2022;23(2):293-297
+
+* 98. Sengupta T, Majumder R, Majumder S. Role of vitamin D in treating COVID-19-associated coagulopathy: problems and perspectives. Mol Cell Biochem. 2021Jun;476(6):2421-2427
+
+* 99. Ulivieri FM, Banfi G, Camozzi V, Colao A, Formenti AM, Frara S, Lombardi G, Napoli N, Giustina A. Vitamin D in the Covid-19 era: a review with recommendations from a GIOSEG expert panel. Endocrine. 2021Jun;72(3):597-603
+
+* 100. Purnama DI, Kusuma WLF, Purnama DK. et al. The role of vitamin D and cardiovascular risk in COVID-19 patients. Cardiovasc Metab Sci. 2021;32(3):149-156
+
+* 101. Mohammadifard N, Sadeghian L, Hassannejad R, Khosravi E, Gharipour M, Karimi S, Hosseini S, Sepahifar M, Bahrami G, Haghighatdoost F, Sarrafzadegan N. Comparing vitamin D receptor gene polymorphisms in rs11568820, rs7970314, rs4334089 between COVID-19 patients with mild and severe symptoms: a case control study. Sci Rep. 2024May3;14(1):10170 [doi: 10.1038/s41598-024-57424-0](https://doi.org/10.1038/s41598-024-57424-0)
+
+* 102. Zeidan NMS, Lateef HMAE, Selim DM, Razek SA, Abd-Elrehim GAB, Nashat M, ElGyar N, Waked NM, Soliman AA, Elhewala AA, Shehab MMM, Ibraheem AAA, Shehata H, Yousif YM, Akeel NE, Hashem MIA, Ahmed AA, Emam AA, Abdelmohsen MM, Ahmed MF, Saleh ASE, Eltrawy HH, Shahin GH, Nabil RM, Hosny TA, Abdelhamed MR, Afify MR, Alharbi MT, Nagshabandi MK, Tarabulsi MK, Osman SF, Abd-Elrazek ASM, Rashad MM, El-Gaaly SAA, Gad SAB, Mohamed MY, Abdelkhalek K, Yousef AA. Vitamin D deficiency and vitamin D receptor FokI polymorphism as risk factors for COVID-19. Pediatr Res. 2023Apr;93(5):1383-1390 [doi: 10.1038/s41390-022-02275-6](https://doi.org/10.1038/s41390-022-02275-6)
+
+* 103. Taheri M, Rad LM, Hussen BM, Nicknafs F, Sayad A, Ghafouri-Fard S. Evaluation of expression of VDR-associated lncRNAs in COVID-19 patients. BMC Infect Dis. 2021Jun19;21(1):588 [doi: 10.1186/s12879-021-06248-8](https://doi.org/10.1186/s12879-021-06248-8)
+
+* 104. Al-Saeedi F, Rajendran P, Tipre D, Aladwani H, Alenezi S, Alqabandi M, Alkhamis A, Redha A, Mohammad A, Ahmad F, Abdulnabi Y, Alfadhly A, Alrasheedi D. The effect of COVID-19 on nuclear medicine and radiopharmacy activities: A global survey. Sci Rep. 2023;13(1):10489 [doi: 10.1038/s41598-023-36925-4](https://doi.org/10.1038/s41598-023-36925-4)

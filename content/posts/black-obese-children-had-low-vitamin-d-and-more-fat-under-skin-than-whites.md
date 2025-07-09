@@ -66,14 +66,14 @@ Conclusions: In black and white youth examined together, lower levels of 25(OH)D
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Body fat and vitamin D for black and white women - 2005](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1343) file
 
 * [Low 25-Hydroxyvitamin D Levels in Adolescents: Race, Season, Adiposity,... - Feb 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1125)
 
-* <a href="/posts/obama-task-force-told-that-childhood-obesity-linked-to-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 706">Obama task force told that childhood Obesity linked to Vitamin D Deficiency – Aug 2010</a>
+* [Obama task force told that childhood Obesity linked to Vitamin D Deficiency – Aug 2010](/posts/obama-task-force-told-that-childhood-obesity-linked-to-vitamin-d-deficiency)
 
-* <a href="/posts/obesity-in-american-indians-and-african-american-teens" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 751">Obesity in American-Indians and African-American teens</a>
+* [Obesity in American-Indians and African-American teens](/posts/obesity-in-american-indians-and-african-american-teens)
 
 <!-- ~tc~ (alias(Obese children had low vitamin D – fat under dark skin – fat in white body – Mar 2011)) ~/tc~ -->

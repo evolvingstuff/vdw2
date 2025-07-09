@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Does less sun mean more Myopia</title>
+<link rel=stylesheet href="/css/main.css?v=1752030344"><link rel=stylesheet href="/css/pagination.css?v=1752030344"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030344"></script><script src="/js/search.js?v=1752030344"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Does less sun mean more Myopia</h1><time>June 22, 2022</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#how-to-prevent-short-sightedness---the-economist-june-2022>How to prevent short-sightedness - The Economist June 2022</a></li><li><a href=#vitamindwiki-video---does-less-sun-mean-more-diseasepostsdoes-less-sun-mean-more-disease>VitaminDWiki video - <a href=/posts/does-less-sun-mean-more-disease>Does Less Sun mean More Disease</a></a></li><li><a href=#search-google-scholar-for-myopia-and-vitamin-d--5730-as-of-aug-2023>Search Google Scholar for Myopia and Vitamin D: 5,730 as of Aug 2023</a></li></ul></li></ul></li></ul></nav><hr><h4 id=how-to-prevent-short-sightedness---the-economist-june-2022>How to prevent short-sightedness - The Economist June 2022</h4><p><strong><a href="https://www.economist.com/myopia-pod?utm_campaign=r.science-newsletter&amp;utm_medium=email.internal-newsletter.np&amp;utm_source=salesforce-marketing-cloud&amp;utm_term=6/22/2022&amp;utm_id=1211229">Economist</a></strong></p><p>After more than two years of covid-19, another epidemic may be the last thing anyone wants to read about. If so, then apologies in advance, for in this week’s episode of “ Babbage”, our podcast on science and technology, we investigate the rapid rise of short-sightedness or, to give it its technical name, myopia. You can also read my reporting on it.</p><p>The numbers are stunning. In some parts of East Asia—think Hong Kong, South Korea, Taiwan and parts of China— <strong>more than 80% of school-leavers need glasses to see properly. Fifty years ago, the share was 25% or less.</strong> The problem is less acute in Europe and the Americas, but even there the best numbers we have suggest that between 20% and 40% of young adults need their vision corrected. That is roughly an order of magnitude higher than what scientists think is the “natural” rate of myopia.</p><p>The rapid rise in Asia in particular has sunk the old consensus that myopia is mostly genetic. Instead, the strongest association seems to be with education. The more years of it you get, the higher the risk. And the more diligent a student you are, the more likely you are to be myopic too.</p><p>Of course, no one is arguing that learning new things directly causes short-sightedness. The culprit seems to be too much time spent indoors, where the lighting is dim. <strong>Studies on animals now strongly suggest that frequent exposure to bright sunlight is necessary for young eyes to develop properly</strong> and to be able to see well in adulthood. That is also thought to explain why myopia is so common in East Asia, where kids often follow a full day of schooling with several hours of private tutoring.</p><p>Does it matter? Anyone who wears glasses or contact lenses will tell you they are annoying. But East Asian governments have come to see the myopia epidemic as a public-health problem, too. <strong>Being short-sighted predisposes you to more serious sight problems in later life</strong> , some of which are untreatable and can cause blindness. The risk is especially high among those with severe myopia—a threshold already crossed by 10-20% of school-leavers in some East Asian countries.</p><p>Fortunately, the cure seems straightforward. Booting kids outside exposes them to more sunlight. <strong>Trials in Taiwan, where children are forced to spend more of the school day outdoors, have cut the numbers who go on to develop myopia</strong> . And a range of new technologies, including contact lenses designed to reshape the eye, and eye drops made from atropine (the toxin in deadly nightshade), seem able to slow progression once it has started.</p><p>Finally, it’s worth pointing out something else. The one thing that does not seem to be responsible for the epidemic of myopia is the proliferation of screens. The rise in short-sightedness in East Asia began decades before smartphones, laptops and e-readers had been invented. So if you decide to read my reporting on myopia, please do so on the device of your choosing. But afterwards, if you have kids, send them out into the garden. As your own mother no doubt told you, it’s for their own good.</p><p>Elsewhere in The Economist we present the obituary of a mastodon; examine plans by Alphabet (Google’s parent company) to become a force in health care; and our colleagues in the Films team tell us how scientists are searching for alien life.</p><hr><h4 id=vitamindwiki-video---does-less-sun-mean-more-diseasepostsdoes-less-sun-mean-more-disease>VitaminDWiki video - <a href=/posts/does-less-sun-mean-more-disease>Does Less Sun mean More Disease</a></h4><hr><h4 id=search-google-scholar-for-myopia-and-vitamin-d--5730-as-of-aug-2023>Search Google Scholar for Myopia and Vitamin D: 5,730 as of Aug 2023</h4><p><strong><a href="https://scholar.google.com/scholar?q=myopia+%22vitamin+d%22&amp;hl=en&amp;as_sdt=0,48">Google Scholar</a></strong></p><ul><li><p>BENEFIT OF NUTRITION SUPPLEMENT WITH VITAMIN D IN REDUCING THE RISK OF MYOPIA AMONG CHILDREN - 2022 <i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/myopia-vitamin-d.pdf>PDF</a></p></li><li><p>Time spent outdoors through childhood and adolescence – assessed by 25-hydroxyvitamin D concentration – and risk of myopia at 20 years - <i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/myopia-20-years.pdf>PDF</a></p></li><li><p>Time spent outdoors in childhood is associated with reduced risk of myopia as an adult - March 2021 <i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/outdoor-myopia-march-2021.pdf>PDF</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>child</span>
+<span class=tag>myopia</span>
+<span class=tag>vision</span>
+<span class=tag>Vision</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>child, myopia, vision, Vision, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030344"></script><script src="/js/tiki-redirects.js?v=1752030344"></script><script src="/js/lightspa.js?v=1752030344"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030344",indexUrl:"/search/search_index.json.gz?v=1752030344"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030344"></script></body></html>

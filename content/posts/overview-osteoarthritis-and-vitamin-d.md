@@ -134,9 +134,9 @@ As a result of decreased movement secondary to pain, regional muscles may atroph
 
 #### OA and Omega-3
 
-* <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
+* [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-omega-3-are-the-only-supplements-which-show-benefit-in-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012">Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012</a>
+* [Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012](/posts/vitamin-d-and-omega-3-are-the-only-supplements-which-show-benefit-in-meta-analysis)
 
 * [Omega-3 helps cats with osteoarthritis](http://www.ncbi.nlm.nih.gov/pubmed/22882740) Aug 2012
 
@@ -208,7 +208,7 @@ CONCLUSION:  **Sunlight exposure and serum 25(OH)D levels are both associated wi
 
  **graph from previous article** 
 
-{IMG(attId="467")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/less-vitamin-d-and-joint-narrowing.gif" alt="image">
 
 #### Association of low dietary <span style="color:#F00;">vitamin K</span> intake with radiographic knee osteoarthritis in the Japanese elderly population: dietary survey in a population-based cohort of the ROAD study.
 
@@ -224,7 +224,7 @@ Graph of treatments people with OA use - notice frequent use of Calcium
 
 It appears that Meloxicam = mobic
 
-{IMG(attId="468")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/patients-oa.gif" alt="image">
 
 #### Osteoarthritis of Foot and Ankle
 
@@ -298,4 +298,4 @@ Behind $31 paywall https://doi.org/10.1016/j.jhsa.2022.03.002
 
 Described in [ConsumerLab report on CBD](ttps://www.consumerlab.com/reviews/cbd-oil-hemp-review/cbd-oil/) - free 5 day trial
 
-<a href="/posts/excellent-reviews-of-supplements-at-consumerlab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent reviews of supplements at ConsumerLab">Excellent reviews of supplements at ConsumerLab</a>
+[Excellent reviews of supplements at ConsumerLab](/posts/excellent-reviews-of-supplements-at-consumerlab)

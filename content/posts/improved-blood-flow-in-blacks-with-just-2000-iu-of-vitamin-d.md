@@ -68,7 +68,7 @@ Conclusion Supplementation of 60,000 IU monthly oral vitamin D(3) (~2,000 IU/day
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [All items in Dark Skin and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc) 174 items as of Nov 2011
 
@@ -88,16 +88,16 @@ Conclusion Supplementation of 60,000 IU monthly oral vitamin D(3) (~2,000 IU/day
 
 * <a href="/posts/the-darker-the-skin-the-less-the-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 645">The darker the skin the less the vitamin D – July 2010</a>
 
-* <a href="/posts/lack-of-vitamin-d-closely-associated-with-black-health-disparities" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1096">Lack of vitamin D closely associated with black health disparities – Nov 2010</a> - Great charts
+* [Lack of vitamin D closely associated with black health disparities – Nov 2010](/posts/lack-of-vitamin-d-closely-associated-with-black-health-disparities) - Great charts
 
 * <a href="/posts/perhaps-just-40-ng-of-vitamin-d-if-high-latitude-or-dark-skin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1662">Perhaps just 40 ng of vitamin D if high latitude or dark skin</a>
 
 * <a href="/posts/span-stylecolorf00vitamin-d-council-vs-fda-concerning-vitamin-d-deficiency-in-bl-s-june-2011span" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1772"><span style="color:#F00;">Vitamin D Council vs FDA concerning vitamin D deficiency in blacks and others - June 2011</span></a>
 
-* <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a>
+* [Do blacks have a 5 year life penalty due to low vitamin D](/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d)
 
 * [Improved blood flow in blacks with just 2000 IU of vitamin D – Feb 2011](/posts/improved-blood-flow-in-blacks-with-just-2000-iu-of-vitamin-d)
 
-* <a href="/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 701">Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010</a>
+* [Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010](/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks)
 
 * [Telomeres improved when obese blacks took 2000 iu of vitamin D daily – Oct 2011](/posts/telomeres-improved-when-obese-blacks-took-2000-iu-of-vitamin-d-daily)

@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D Cure- book</title>
+<link rel=stylesheet href="/css/main.css?v=1752030351"><link rel=stylesheet href="/css/pagination.css?v=1752030351"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030351"></script><script src="/js/search.js?v=1752030351"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D Cure- book</h1><time>February 10, 2010</time><div data-pagefind-body><p>Vitamin D Cure May 2009 by James Dowd Amazon allows you to search the text inside of the $10 book.</p><hr><h2 id=review-of-the-vitamin-d-cure--revisededitionpostsreview-of-the-vitamin-d-cure-revised-edition><a href=/posts/review-of-the-vitamin-d-cure-revised-edition>Review of The Vitamin D Cure – revised edition</a></h2><hr><p>Musculoskeletal pain: 93% of patients with unexplained widespread pain had vitamin D deficiency Mayo Clinic pg 12</p><p>Cheese produces 20 points of acid per serving. 2X to 3X more than other protein sources. Dowd calls cheese the king of junk foods. Pg 23</p><p>Magnesium deficiency: more than half of the people who are deficient in vitamin D. Need to increase it as well as vitamin D, but no easy way to test it. Pg 38</p><p>Dowd had good results of vitamin D supplementation for fibromyalgia pg 40</p><p>Chart of D3 dosage to get to 60 ng/ml on page 49</p><p>if at 20 ng/ml, dose 30 IU/lb; if 10 ng/ml then dose at 38 IU/lb, if at 30ng/ml then dose at 23 IU/lb</p><p>discusses a great many diseases</p><p>the website for the book <a href=http://www.thevitamindcure.com/>http://www.thevitamindcure.com/</a></p><p>his blog <a href=http://www.thevitamindcure.com/blog/>http://www.thevitamindcure.com/blog/</a></p><p>his recommendation of supplementation (e.g., Ca, Mn, Omega-3, &mldr;)</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/dowd-recommended.gif alt=image><p>He has a nice online way of seeing the references in his book at <a href="http://www.thevitamindcure.com/references/?ReferenceCategoryId=28">http://www.thevitamindcure.com/references/?ReferenceCategoryId=28</a></p><p>This also nicely shows the chapter titles.</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vit-d-cure-references.gif alt=image><h1 id=as-of-april-2010-here-are-some-of-hislinks>As of April 2010, here are some of his links</h1><p><a href=http://www.thevitamindcure.com/links/>http://www.thevitamindcure.com/links/</a></p><p>History of vitamin D discovery: <a href="http://www.beyonddiscovery.org/content/view.txt.asp?a=414">http://www.beyonddiscovery.org/content/view.txt.asp?a=414</a></p><p>Dr. Loren Cordain – eat like your ancestors: <a href=https://www.thepaleodiet.com>www.thepaleodiet.com</a></p><p>Dr. Michael Holick’s book on the importance of sun exposure: <a href=http://www.uvadvantage.org/>http://www.uvadvantage.org/</a></p><p>The importance of fetal nutrition to prevent adult disease: <a href=https://www.barkertheory.com>www.barkertheory.com</a></p><p>UV index homepage at National Oceanic and Atmospheric Administration: <a href=http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/>http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/</a></p><p>Find your city’s annual UV index map: <a href=http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/uv_annual.shtml>http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/uv_annual.shtml</a></p><p>National UV index maps: <a href=http://www.epa.gov/sunwise/uvindex.html>http://www.epa.gov/sunwise/uvindex.html</a></p><p>Download your own Health Assessment Questionnaire ( <strong>arthritis</strong> ): <a href=http://www.arthritis-research.org/documents.htm>http://www.arthritis-research.org/documents.htm</a></p><p>CDC <strong>Arthritis</strong> Statistics: <a href=http://www.cdc.gov/arthritis/data_statistics/arthritis_related_statistics.htm#2>http://www.cdc.gov/arthritis/data_statistics/arthritis_related_statistics.htm#2</a>.</p><p>Medline Plus Health Topics Alphabetic: <a href=http://www.nlm.nih.gov/medlineplus/healthtopics.html>http://www.nlm.nih.gov/medlineplus/healthtopics.html</a>.</p><p>CDC <strong>Obesity</strong> Trends:http://www.cdc.gov/nccdphp/dnpa/obesity/trend/index.htm</p><p>NIH <strong>Diabetes</strong> : <a href=http://ndep.nih.gov/>http://ndep.nih.gov/</a>.</p><p>The DASH Diet: <a href=http://www.nhlbi.nih.gov/health/public/heart/hbp/dash/new_dash.pdf>http://www.nhlbi.nih.gov/health/public/heart/hbp/dash/new_dash.pdf</a></p><p>The Diasorin vitamin D Test: <a href=http://www.vitamin-d.com>http://www.vitamin-d.com</a></p><p>Dr. Jeffry Gordon’s Lab – Bacteria in the gut and obesity: <a href=http://gordonlab.wustl.edu/>http://gordonlab.wustl.edu/</a></p><p>Dr. Hector DeLuca’s Vitamin D Lab: <a href=http://www.biochem.wisc.edu/faculty/deluca/default.aspx>http://www.biochem.wisc.edu/faculty/deluca/default.aspx</a></p><p>Dr. James Dowd – Arthritis Institute of Michigan: <a href=https://www.miarthritis.com>www.miarthritis.com</a></p><p>The Michigan <strong>Arthritis</strong> Research Center: <a href=https://www.miarthritisresearch.com>www.miarthritisresearch.com</a></p><p>The <strong>Arthritis</strong> Foundation: <a href=https://www.arthritis.org>www.arthritis.org</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bacteria</span>
+<span class=tag>blood levels</span>
+<span class=tag>Books, videos on Vitamin D</span>
+<span class=tag>diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>health risk</span>
+<span class=tag>magnesium</span>
+<span class=tag>metabolic</span>
+<span class=tag>obesity</span>
+<span class=tag>omega 3</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>bacteria, blood levels, Books, videos on Vitamin D, diabetes, dosage, health risk, magnesium, metabolic, obesity, omega 3, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030351"></script><script src="/js/tiki-redirects.js?v=1752030351"></script><script src="/js/lightspa.js?v=1752030351"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030351",indexUrl:"/search/search_index.json.gz?v=1752030351"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030351"></script></body></html>

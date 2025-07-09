@@ -63,7 +63,7 @@ The study had some limitations. Vitamin D levels were only assessed at baseline,
 
 * [COPD and vitamin D in a vicious circle – April 2011](/posts/copd-and-vitamin-d-in-a-vicious-circle)
 
-* <a href="/posts/genetic-link-found-between-vitamin-d-and-copd" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 913">Genetic link found between vitamin D and COPD – June 2010</a>
+* [Genetic link found between vitamin D and COPD – June 2010](/posts/genetic-link-found-between-vitamin-d-and-copd)
 
 * <a href="/posts/vitamin-d-copd-and-epigenertics" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2047">Vitamin D, COPD, and Epigenertics – Aug 2011</a>
 
@@ -75,11 +75,11 @@ The study had some limitations. Vitamin D levels were only assessed at baseline,
 
 * [COPD Increasing - from NIH Factbook](http://www.nhlbi.nih.gov/about/factbook-06/chapter4.htm) has the following graph
 
-{IMG(attId="866")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/copd-trend.jpg" alt="image">
 
 ## COPD patients have low levels of vitamin D - typically less than 20 nanograms
 
-{IMG(attId="742" max = "400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/copd.png" alt="image" style="max-width: 400px;">
 
 from slide presentation: https://www.VitaminDWiki.com/tiki-index.php?page_id=2269
 

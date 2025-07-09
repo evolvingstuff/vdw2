@@ -34,6 +34,6 @@
 
 * <a href="/posts/how-elderly-can-remember-to-take-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1687">How elderly can remember to take vitamin D</a> weekly vitamin D in blister pack
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972">Who said vitamin D could not be patented</a>
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)
 
 <!-- ~tc~ (alias(Taking vitamin D weekly was patented in 2010)) ~/tc~ -->

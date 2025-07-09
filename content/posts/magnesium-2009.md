@@ -42,4 +42,6 @@ PMID: 19621856
 
 ## Here are a few key tables from the PDF
 
-{IMG(attId="342,343,344")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/magnesium-recommendations---2009.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/magnesium-dose1---2009.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/magnesium-dose2---2009.gif" alt="image">

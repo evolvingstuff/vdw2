@@ -80,6 +80,6 @@ The Surprising Link Between Alzheimer's Disease and Bone Loss
 
 # Avoid taking >500 mg of Calcium when you have enough vitamin D
 
-{IMG(fileId="1596" max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 ## <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">CLICK HERE</a> to see more on the chart above and the Institute of Medicine pronouncement

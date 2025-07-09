@@ -50,6 +50,6 @@ PMID: 21416506
 
 #### See also VitaminDWiki
 
-* <a href="/posts/bone-density-correlates-better-with-free-d-calculated-rather-than-measured-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bone density correlates better with free D (calculated) rather than measured vitamin D – Jan 2014">Bone density correlates better with free D (calculated) rather than measured vitamin D – Jan 2014</a>
+* [Bone density correlates better with free D (calculated) rather than measured vitamin D – Jan 2014](/posts/bone-density-correlates-better-with-free-d-calculated-rather-than-measured-vitamin-d)
 
-* <a href="/posts/ulcerative-colitis-new-associated-with-lower-free-and-bioavailable-vitamin-d-but-not-total" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ulcerative Colitis (new) associated with lower free and bioavailable Vitamin D, but not total – Feb 2019">Ulcerative Colitis (new) associated with lower free and bioavailable Vitamin D, but not total – Feb 2019</a>
+* [Ulcerative Colitis (new) associated with lower free and bioavailable Vitamin D, but not total – Feb 2019](/posts/ulcerative-colitis-new-associated-with-lower-free-and-bioavailable-vitamin-d-but-not-total)

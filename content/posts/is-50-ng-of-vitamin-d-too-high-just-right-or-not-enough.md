@@ -78,7 +78,7 @@
 
    * One doctor found that >80 ng was the right level for 2,000 patients in his clinic
 
-   * <a href="/posts/health-problems-that-run-in-families-are-often-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health problems that run in families are often associated with low vitamin D">Health problems that run in families are often associated with low vitamin D</a>
+   * [Health problems that run in families are often associated with low vitamin D](/posts/health-problems-that-run-in-families-are-often-associated-with-low-vitamin-d)
 
 * Some experts say 50 ng is too much 
 
@@ -90,7 +90,7 @@
 
  **Notional Graph of Expert Opinions of levels with Vitamin D MONOTHERAPY** 
 
-{IMG(fileId="2041" width ="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
 Note: Monotherapy just increases vitamin D levels, and rarely adjusts the cofactor intake (Ca, Mg, Vitamin K2, Omega-3, etc)
 
@@ -119,7 +119,7 @@ Note: Monotherapy just increases vitamin D levels, and rarely adjusts the cofact
 
 ---
 
-#### May <a href="/posts/vitamin-d-levels-vs-disease-and-best-practices" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels vs disease and Best Practices - May 2023">2023 study 30-60 ng</a>
+#### May [2023 study 30-60 ng](/posts/vitamin-d-levels-vs-disease-and-best-practices)
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/all-levels.png" alt="image" width="700">
 
@@ -143,11 +143,11 @@ In my considered opinion, it is an artifact of the long  follow-up time, not hig
 
 ---
 
-#### <a href="/posts/chart-of-vitamin-d-levels-vs-race" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013">Chart of Vitamin D levels vs race - April 2013</a>
+#### [Chart of Vitamin D levels vs race - April 2013](/posts/chart-of-vitamin-d-levels-vs-race)
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 
-* <a href="/posts/nigerian-albinos-have-vitamin-d-levels-of-96-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nigerian albinos have vitamin D levels of 96 ng – Oct 2019">Nigerian albinos have vitamin D levels of 96 ng – Oct 2019</a>
+* [Nigerian albinos have vitamin D levels of 96 ng – Oct 2019](/posts/nigerian-albinos-have-vitamin-d-levels-of-96-ng)
 
 ---
 

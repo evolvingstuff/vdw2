@@ -42,9 +42,9 @@ PMID: 22007275
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
-* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 64">Overview Cancer-Colon and vitamin D</a>
+* [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d)
 
 ## Other Vitamin D influence diagrams include
 

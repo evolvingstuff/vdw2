@@ -56,10 +56,10 @@ PMID:     21894281
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 383">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)
 
 > Vitamin D is the most popular non-prescription treatment on Patients Like Me
 
 * [100 Million Americans Have Chronic Pain – IoM June 2011](/posts/100-million-americans-have-chronic-pain-iom)
 
-* <a href="/posts/fibromyalgia-patients-with-low-vitamin-d-have-more-pain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fibromyalgia patients with low vitamin D have more pain – Dec 2013">Fibromyalgia patients with low vitamin D have more pain – Dec 2013</a>
+* [Fibromyalgia patients with low vitamin D have more pain – Dec 2013](/posts/fibromyalgia-patients-with-low-vitamin-d-have-more-pain)

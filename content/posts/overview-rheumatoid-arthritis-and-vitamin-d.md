@@ -89,7 +89,7 @@ Vitamin D deficiency is associated with mortality in the general population and 
 
    * Rheumatoid Arthritis  is reduced when vitamin D levels are  **60-70 ng**  
 
-   * And when Omega-6 (which blocks <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3)</a> is reduced 
+   * And when Omega-6 (which blocks [Omega-3)](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d) is reduced 
 
       * Saflower, Sunflower, Grapeseed, Corn, Soybean
 
@@ -121,7 +121,7 @@ Vitamin D deficiency is associated with mortality in the general population and 
 
 * [Vitamin D in rheumatoid arthritis—towards clinical application](http://www.nature.com/nrrheum/journal/v12/n4/full/nrrheum.2015.140.html) 
 
-> NATURE REVIEWS RHEUMATOLOGY - Oct 2015,  **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1038/nrrheum.2015.140** 
+> NATURE REVIEWS RHEUMATOLOGY - Oct 2015,  **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1038/nrrheum.2015.140** 
 
 * Decreased sensitivity to 1,25-dihydroxyvitamin D3 in T cells from the rheumatoid joint - 2017
 
@@ -147,7 +147,7 @@ I NEED THE TESTIMONIES TO FRENCH PEOPLE IN THE WORLD AND IN FRANCE!
 
 {FADE}
 
-* <a href="/posts/interview-and-transcript-vitamin-d-protocol-for-autoimmune-diseases-dr-coimbra-2016" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Interview and transcript: Vitamin D protocol for Autoimmune diseases – Dr. Coimbra 2016">Interview and transcript: Vitamin D protocol for Autoimmune diseases – Dr. Coimbra 2016</a> - such as RA
+* [Interview and transcript: Vitamin D protocol for Autoimmune diseases – Dr. Coimbra 2016](/posts/interview-and-transcript-vitamin-d-protocol-for-autoimmune-diseases-dr-coimbra-2016) - such as RA
 
 ---
 
@@ -155,4 +155,4 @@ I NEED THE TESTIMONIES TO FRENCH PEOPLE IN THE WORLD AND IN FRANCE!
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/joint-with-and-without-ra.jpg" alt="image">
 
-Note: <a href="/posts/boron-and-granulomas-tb-rheumatoid-arthritis-crohns-rheumatic-fever-etc-2015" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boron and Granulomas (TB, Rheumatoid arthritis, Crohn's, Rheumatic Fever etc.) - 2015">Boron appears to repair and strengthen cartilage</a>
+Note: [Boron appears to repair and strengthen cartilage](/posts/boron-and-granulomas-tb-rheumatoid-arthritis-crohns-rheumatic-fever-etc-2015)

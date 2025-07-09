@@ -91,13 +91,13 @@ Increase alcohol consumption is strongly associated with increased melanoma (see
 
 #### See also VitaminDWiki   **<span style="color:#00F;">UVA and Melanoma</span>** 
 
-* <a href="/posts/uva-causes-skin-cancer-perhaps-uvb-vitamin-d-prevents-skin-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UVA causes skin cancer, perhaps UVB (Vitamin D) prevents skin cancer – Jan 2017">UVA causes skin cancer, perhaps UVB (Vitamin D) prevents skin cancer – Jan 2017</a>
+* [UVA causes skin cancer, perhaps UVB (Vitamin D) prevents skin cancer – Jan 2017](/posts/uva-causes-skin-cancer-perhaps-uvb-vitamin-d-prevents-skin-cancer)
 
-* <a href="/posts/melanoma-reduced-by-those-getting-the-most-uv-unless-5-blistering-sunburns-while-in-teen-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melanoma REDUCED by those getting the most UV, unless 5 blistering sunburns while in teen years – June 2014">Melanoma REDUCED by those getting the most UV, unless 5 blistering sunburns while in teen years – June 2014</a>
+* [Melanoma REDUCED by those getting the most UV, unless 5 blistering sunburns while in teen years – June 2014](/posts/melanoma-reduced-by-those-getting-the-most-uv-unless-5-blistering-sunburns-while-in-teen-years)
 
-* <a href="/posts/melanoma-is-44-percent-less-likely-if-get-sun-on-the-job" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melanoma is 44 percent LESS LIKELY if get sun on the job – Nov 2013">Melanoma is 44 percent LESS LIKELY if get sun on the job – Nov 2013</a>
+* [Melanoma is 44 percent LESS LIKELY if get sun on the job – Nov 2013](/posts/melanoma-is-44-percent-less-likely-if-get-sun-on-the-job)
 
-* <a href="/posts/uv-radiation-and-the-skin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV Radiation and the Skin June 2013">UV Radiation and the Skin June 2013</a>
+* [UV Radiation and the Skin June 2013](/posts/uv-radiation-and-the-skin)
 
 * [UVA most likely causes melanoma to progress– Sept 2011](/posts/uva-most-likely-causes-melanoma-to-progress)
 
@@ -109,7 +109,7 @@ Increase alcohol consumption is strongly associated with increased melanoma (see
 
 * <a href="/posts/indoor-tanning-boosts-chances-of-melanoma-perhaps-because-of-uva-in-some-tanning-beds" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 319">Indoor Tanning Boosts Chances of Melanoma - perhaps because of UVA in some tanning beds</a>
 
-* <a href="/posts/hypothesis-uva-through-window-glass-decreases-vitamin-d-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 788">Hypothesis: UVA through window glass decreases vitamin D - 2009</a>
+* [Hypothesis: UVA through window glass decreases vitamin D - 2009](/posts/hypothesis-uva-through-window-glass-decreases-vitamin-d-2009)
 
 ---
 
@@ -127,35 +127,35 @@ Increase alcohol consumption is strongly associated with increased melanoma (see
 
 #### From: Vitamin D from Sunbeds
 
-{IMG(attId="481")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/spectrum-of-all-sources---from-vitamin-d-from-sunbeds.gif" alt="image">
 
-{IMG(attId="482")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/sunbed-vs-sun-spectrum---from-uv-creates---2009.gif" alt="image">
 
 ---
 
 #### From: Sunbed survey in Ireland
 
-{IMG(attId="483")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/survey-of-sunbed-parlors-in-ireland.gif" alt="image">
 
 ---
 
 #### From: [UV creates Vitamin D](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1690)
 
-{IMG(attId="484")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/uvb-and-uvb-vs-height-of-the-sun---from-creates-2009.gif" alt="image">
 
-{IMG(attId="485")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/uvb-and-uvb-vs-height-of-the-sun-lie-on-ground---from-creates-2009.gif" alt="image">
 
 #### [GrassrootsHealth](http://www.grassrootshealth.net/) Melanoma & sunscreen associated in 7 studies (PDF and [video](http://www.ucsd.tv/search-details.aspx?showID=15770))
 
-{IMG(fileId="1200")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
-{IMG(fileId="1158")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 #### Chart from http://www.detertec.com/sun_radiometry.html
 
  **<span style="color:#F00;">Red = sunlight (probably on ground)</span>; other lines = amount of light filtered thru different sunscreens** 
 
-{IMG(attId="247")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/sun4.png" alt="image">
 
 ---
 
@@ -189,7 +189,7 @@ Conclusions:? In MM patients, decreased 25OHD serum levels are associated with i
 
  **[Meet the 'Face-Kini', the latest craze to hit China's beaches as bathers wear masks to beat the sun's harmful rays](http://www.dailymail.co.uk/news/article-2189877/Meet-Face-Kini-latest-craze-hit-Chinas-beaches-bathers-wear-masks-beat-suns-harmful-rays.html)DailyMail UK Aug 2012** - which have photos like the following
 
-{IMG(fileId="2172")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 ---
 

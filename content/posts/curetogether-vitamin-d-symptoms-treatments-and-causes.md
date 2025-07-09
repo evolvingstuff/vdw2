@@ -38,19 +38,19 @@
 
 ## Snapshot on Vitamin D Oct 2011
 
-{IMG(attId="809" max ="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-symptoms.png" alt="image" style="max-width: 600px;">
 
  **<span style="color:#00F;">The darker the blue the more severe: minimal, mild, moderate, severe, extreme  </span>** 
 
 Gray = not rated
 
-{IMG(attId="810" max ="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-treatment-by-most-improvement.png" alt="image" style="max-width: 600px;">
 
 ## Chart is sorted by improvement: top = best
 
 <span style="color:#090;">Light Green = Moderate improvement</span>;  **<span style="color:#090;">Dark green = major improvement</span>** ; Gray = No effect
 
-{IMG(attId="811" max ="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-cause.png" alt="image" style="max-width: 600px;">
 
 ## Causes believed for their vitamin D deficiency - interesting
 
@@ -60,24 +60,24 @@ Gray = not rated
 
 * 6% dark skin: seems like it should be much higher
 
-   * <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+   * [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 - - - - - - - - - - 
 
 # Some of their charts of popularity of treatment
 
-{IMG(attId="812" max ="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-dandriff.png" alt="image" style="max-width: 600px;">
 
 # Dandrift light and vitamin D
 
-{IMG(attId="813" max ="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-chronic-fatigue-syndrome.png" alt="image" style="max-width: 600px;">
 
 # Chronic Fatigue Syndrome
 
-{IMG(attId="814" max ="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-ms-treat.png" alt="image" style="max-width: 600px;">
 
 # Multiple Sclerosis
 
-{IMG(attId="815" max ="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-sad-treatment.png" alt="image" style="max-width: 600px;">
 
 # SAD - light therapy & vitamin D

@@ -77,6 +77,6 @@ Conclusions It is unlikely that vitamin D supplements are beneficial in children
 
 * [Review of vitamin D and bone health studies – with tables Nov 2010](/posts/review-of-vitamin-d-and-bone-health-studies-with-tables)
 
-* <a href="/posts/review-of-vitamin-d-pathways-to-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1000">Review of vitamin D pathways to bone health - July 2010</a>
+* [Review of vitamin D pathways to bone health - July 2010](/posts/review-of-vitamin-d-pathways-to-bone-health)
 
-* <a href="/posts/average-of-less-than-2000-iu-of-vitamin-d2-did-not-help-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 613">Average of less than 2000 IU of vitamin D2 did not help bone health – July 2010</a>
+* [Average of less than 2000 IU of vitamin D2 did not help bone health – July 2010](/posts/average-of-less-than-2000-iu-of-vitamin-d2-did-not-help-bone-health)

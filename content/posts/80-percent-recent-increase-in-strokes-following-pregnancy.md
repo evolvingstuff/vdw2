@@ -114,7 +114,7 @@
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
 
-* <a href="/posts/stroke-patients-show-dearth-of-vitamin-d-2005" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 579">Stroke patients show dearth of vitamin D – 2005</a>
+* [Stroke patients show dearth of vitamin D – 2005](/posts/stroke-patients-show-dearth-of-vitamin-d-2005)
 
 * [All items in Stroke and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=114&sort_mode=created_desc)
 
@@ -124,7 +124,7 @@
 
 * [Vitamin D reduced blood pressure in random controlled trials – Nov 2010](/posts/vitamin-d-reduced-blood-pressure-in-random-controlled-trials)
 
-* <a href="/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 701">Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010</a>
+* [Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010](/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks)
 
 * <a href="/posts/severe-span-stylecolorf00preeclampsia-span4x-higher-when-very-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 777">Severe <span style="color:#F00;">preeclampsia </span>4X higher when very vitamin D deficient</a> e.g. 10 ng vs 40 ng blood levels
 
@@ -136,7 +136,7 @@
 
 * <a href="/posts/why-vitamin-d-reduces-of-premature-birth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1556">Why vitamin D reduces of premature birth - April 2011</a> Note: 2X death rate for premature birth 
 
-* <a href="/posts/implications-of-vitamin-d-deficiency-in-pregnancy-and-lactation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1037">Implications of vitamin D deficiency in pregnancy and lactation – May 2010</a> includes tables of risk factors and problems vs ng 
+* [Implications of vitamin D deficiency in pregnancy and lactation – May 2010](/posts/implications-of-vitamin-d-deficiency-in-pregnancy-and-lactation) includes tables of risk factors and problems vs ng 
 
 * [All items in Headaches and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=62&sort_mode=created_desc)
 
@@ -144,7 +144,7 @@
 
 * <a href="/posts/hypothesis-black-births-are-much-riskier-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Hypothesis – Black births are much riskier due to lack of vitamin D</a>
 
-* <a href="/posts/hypothesis-low-vitamin-d-linked-to-myopia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 287">Hypothesis: Low vitamin D linked to Myopia</a>
+* [Hypothesis: Low vitamin D linked to Myopia](/posts/hypothesis-low-vitamin-d-linked-to-myopia)
 
 # Web
 

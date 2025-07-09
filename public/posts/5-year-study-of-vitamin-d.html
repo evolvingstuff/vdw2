@@ -1,0 +1,91 @@
+<!doctype html><html><head><meta charset=utf-8><title>5 year study of vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030342"><link rel=stylesheet href="/css/pagination.css?v=1752030342"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030342"></script><script src="/js/search.js?v=1752030342"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>5 year study of vitamin D</h1><time>April 11, 2010</time><div data-pagefind-body><h1 id=massive-five-year-vitamin-d-study-underway-mar-2010>Massive Five Year Vitamin D Study Underway Mar 2010</h1><p>From <a href=http://www.thebetterhealthstore.com/Newsletter/032610_Vitamin-D-Study_03.html>http://www.thebetterhealthstore.com/Newsletter/032610_Vitamin-D-Study_03.html</a></p><p>There&rsquo;s overwhelming evidence…that increasing your vitamin D intake can make substantial improvement in your overall health and welfare.</p><p><strong>NPR</strong> | Richard Knox | Dr. Cliff Rosen of Portland, Maine, knows a lot about vitamin D. It&rsquo;s necessary for strong bones, and Rosen is a leading bone specialist. So he was surprised recently when his wife&rsquo;s new physician thought she might be deficient in vitamin D.</p><p>&ldquo;She&rsquo;s a runner. She&rsquo;s in great shape,&rdquo; Rosen says. &ldquo;She drinks dairy. She gets a lot of sun exposure.&rdquo; Sun exposure is key for Vitamin D, known as the sunshine vitamin. When skin is exposed to sun, it makes vitamin D.</p><p>Still, the doctor wanted to run a blood test to see if Rebecca Rosen had adequate vitamin D.</p><p>&ldquo;So my wife said, &lsquo;Well, why do I need to have a vitamin D (test)?&rsquo; And the physician said, &lsquo;Well, that&rsquo;s part of our measurement for wellness.&rsquo; "</p><p>It&rsquo;s not just Rebecca&rsquo;s doctor, and it&rsquo;s not just in Portland, Maine. Increasingly, doctors all over the country are convinced that checking patients&rsquo; vitamin D levels is as important as monitoring their cholesterol.</p><h1 id=a-surge-in-attention>A Surge In Attention</h1><p>Medicare payments for vitamin D testing, at $40 a pop, nearly quadrupled between 2006 and 2008, to $129 million. A decade ago Medicare payments were only about $1 million. The figures for 2009 and this year are bound to be higher.</p><p>{ note: medicare continues to pay $40 per vitamin D test ordered by doctor, even if the test costs over $200}</p><p>&ldquo;There&rsquo;s overwhelming evidence…that increasing your vitamin D intake can make substantial improvement in your overall health and welfare,&rdquo; says Dr. Michael Holick of Boston University. &ldquo;And there is no downside to increasing your vitamin D intake. As a result I think that most people are now getting on the bandwagon.&rdquo;</p><p>Holick is leading the band. Forty years ago he discovered the active form of the vitamin, 1,25-hydroxyvitamin D. He&rsquo;s written several popular books on the subject and has another one, The Vitamin D Solution, coming out next month. Its cover calls vitamin D deficiency &ldquo;our most common health problem.&rdquo;</p><p>&ldquo;In my opinion, everybody should be taking either a vitamin D supplement, take a prescription that the doctor recommends,&rdquo; Holick says. &ldquo;All adults should be taking at least 1000 to 1500 international units a day.&rdquo; (Dietary intake, mainly through sources such as vitamin D-fortified dairy products and juice, may add up to 200 to 400 units a day.)</p><p>Holick is convinced that if people jack up their vitamin D levels, they&rsquo;ll be substantially less likely to develop not only osteoporosis but many types of cancer, heart attack, diabetes (both types), autoimmune diseases such as multiple sclerosis and rheumatoid arthritis, Alzheimer&rsquo;s, autism, even TB and the flu.</p><h1 id=not-so-fast-other-experts-say>Not so fast, other experts say.</h1><p>A Tricky Thing To Measure</p><p>Dr. JoAnn Manson, chief of preventive medicine at Harvard-affiliated Brigham and Women&rsquo;s Hospital, points out that nearly all the proliferating studies involving vitamin D are what scientists call &ldquo;observational.&rdquo; That is, they compare people with high and low levels of vitamin D and correlate those levels with whether or not the person has a disease.</p><p>But these studies, she points out, are fraught with possible error. People with higher vitamin D levels may be healthier because they exercise more, have better diets, are out in the sun more. Those who are sick may have low levels because they don&rsquo;t have those healthy habits.</p><p>&ldquo;We don&rsquo;t yet have the large-scale, randomized clinical trials showing benefits in terms of prevention of cardiovascular disease, cancer, diabetes, hypertension, cognitive decline, depression, autoimmune disease,&rdquo; Manson says.</p><p>Manson and her colleagues are launching such a trial. The National Institutes of Health is devoting $22 million for a five-year study. Twenty thousand people across the country will be randomly assigned to take daily doses of vitamin D, omega-3 fatty acid (also linked in many studies to lower levels of heart disease), together or alone. Others will be assigned to take inert placebo pills. Neither study subjects nor investigators will know until the end which regimen they were on.</p><p>&lsquo;Promising But Not Yet Proven&rsquo;</p><p>Manson thinks there&rsquo;s promising evidence that vitamin D supplements may protect against heart disease and perhaps some cancers — the evidence is strongest for colorectal cancer, she says. The fact that the government is funding the study is an indicator that the idea has traction.</p><p>Until those results are in, Manson advises patients and doctors to view vitamin D claims as &ldquo;promising but not yet proven.&rdquo;</p><p>&ldquo;We need to keep in mind the lessons of history,&rdquo; she says. &ldquo;It was believed that mega-doses of vitamin E, beta-carotene, selenium, folic acid, and the B vitamins would confer a large array of health benefits. And in fact, the trials were very disappointing for all those nutrients.&rdquo;</p><p>In the case of beta-carotene, scientists were surprised to find that when the results of randomized trials were in, those taking the supplement actually had a higher risk of lung cancer.</p><p>Holick and others say there&rsquo;s little or no downside to ingesting even high levels of vitamin D.</p><p>&ldquo;I&rsquo;ve been treating patients with 50,000 units of vitamin D once a week for eight weeks followed by 50,00 every other week for over a decade and I&rsquo;ve not seen any untoward toxicity,&rdquo; Holick says.</p><p>He says he&rsquo;s seen dramatic results in patients he has treated with vitamin D supplements for disorders such as fibromyalgia, involving generalized muscular aches and pains, and multiple sclerosis. He&rsquo;s convinced the vitamin D supplements lower patients&rsquo; risk of cancer and heart disease, although he acknowledges that&rsquo;s harder to show.</p><h1 id=how-much-is-enough>How Much Is Enough?</h1><p>Holick himself takes <strong>3,000 international units</strong> of vitamin D every day.</p><p>Set by the National Institute of Medicine in 1997, the current recommended intake is 400 units a day for adults between the ages of 50 and 70, and 200 units a day for younger adults. The American Academy of Pediatrics currently recommends 400 units a day for infants.</p><p>The recommendations may change soon. An Institute of Medicine panel is working on a vitamin D update, which may come out this summer. The panel may raise the Dietary Reference Intake (which has replaced the old Recommended Dietary Allowance). But the group is not expected to embrace the newer claims being made for vitamin D supplementation.</p><p>The Institute of Medicine panel has a difficult task. &ldquo;We don&rsquo;t know exactly where to draw the line in terms of calling someone deficient in vitamin D,&rdquo; says Manson, who is a member of the committee, as is Rosen, the Maine bone specialist.</p><p>Meanwhile, an increasing number of patients are getting their vitamin D levels tested, and more are being told they need to take supplements.</p><p>&ldquo;I&rsquo;ve been surprised at the number of patients who are significantly vitamin D deficient,&rdquo; says Dr. Elizabeth Ross, a cardiologist in Washington, D.C., who&rsquo;s been testing patients routinely for the past year. &ldquo;Whether or not we&rsquo;ll affect the incidence of cardiovascular disease or other diseases remains to be seen. But it appears to be a relatively benign intervention, and we may be benefiting people.&rdquo;</p><p>Article Source = <a href="http://www.npr.org/templates/story/story.php?storyId=125226703">http://www.npr.org/templates/story/story.php?storyId=125226703</a> includes audio version of this story</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>About D - more info.</span>
+<span class=tag>autoimmune</span>
+<span class=tag>bacteria</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>cancer</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>childhood viruses</span>
+<span class=tag>cholesterol</span>
+<span class=tag>colon cancer</span>
+<span class=tag>depression</span>
+<span class=tag>diabetes</span>
+<span class=tag>health risk</span>
+<span class=tag>high dose</span>
+<span class=tag>hypertension</span>
+<span class=tag>influenza</span>
+<span class=tag>intervention</span>
+<span class=tag>lung cancer</span>
+<span class=tag>metabolic</span>
+<span class=tag>mood disorders</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>omega 3</span>
+<span class=tag>omega 3 and viruses</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>pain</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>rheumatoid arthritis</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>tuberculosis</span>
+<span class=tag>virus</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>About D - more info., autoimmune, bacteria, bone, bone cancer, cancer, child, childhood cancer, childhood viruses, cholesterol, colon cancer, depression, diabetes, health risk, high dose, hypertension, influenza, intervention, lung cancer, metabolic, mood disorders, multiple sclerosis, omega 3, omega 3 and viruses, osteoporosis, pain, pediatric autoimmune, rheumatoid arthritis, therapeutic intervention, tuberculosis, virus, vitamin d, vitamin d and viruses, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030342"></script><script src="/js/tiki-redirects.js?v=1752030342"></script><script src="/js/lightspa.js?v=1752030342"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030342",indexUrl:"/search/search_index.json.gz?v=1752030342"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030342"></script></body></html>

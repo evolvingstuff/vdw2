@@ -54,12 +54,12 @@ PMID:     21600051
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
 * [Dialysis patients with low vitamin D were 2.7 X more likely to die of heart problems – Feb 2011](/posts/dialysis-patients-with-low-vitamin-d-were-27-x-more-likely-to-die-of-heart-problems)
 
-* <a href="/posts/virtually-all-black-dialysis-patients-with-low-albumin-are-vitamin-d-deficient-in-the-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 549">Virtually all black dialysis patients with low albumin are vitamin D deficient in the winter – Mar 2010</a>
+* [Virtually all black dialysis patients with low albumin are vitamin D deficient in the winter – Mar 2010](/posts/virtually-all-black-dialysis-patients-with-low-albumin-are-vitamin-d-deficient-in-the-winter)
 
-* <a href="/posts/low-vitamin-d-associated-with-hemodialysis-problems" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 464">Low vitamin D associated with hemodialysis problems – May 2010</a>
+* [Low vitamin D associated with hemodialysis problems – May 2010](/posts/low-vitamin-d-associated-with-hemodialysis-problems)
 
-* <a href="/posts/dialysis-patients-who-added-vitamin-d-were-41-percent-less-likely-to-get-infection-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dialysis patients who added Vitamin D were 41 percent less likely to get infection – Meta-analysis July 2018">Dialysis patients who added Vitamin D were 41 percent less likely to get infection – Meta-analysis July 2018</a>
+* [Dialysis patients who added Vitamin D were 41 percent less likely to get infection – Meta-analysis July 2018](/posts/dialysis-patients-who-added-vitamin-d-were-41-percent-less-likely-to-get-infection-meta-analysis)

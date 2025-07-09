@@ -84,7 +84,7 @@ disorders and diseases associated with low calcium uptake; bone-related disorder
 
 ### See also in VitaminDWiki
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972">Who said vitamin D could not be patented</a>
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)
 
 ### See also on the Web - transdermal vitamin D  and Magnesium
 

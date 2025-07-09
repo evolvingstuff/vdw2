@@ -49,7 +49,7 @@
 
 ### which will result in significantly higher levels of vitamin D in the fall and winter
 
-{IMG(attId="609")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/maximize-vitamin-d-from-the-sun.png" alt="image">
 
 # See also VitaminDWiki
 

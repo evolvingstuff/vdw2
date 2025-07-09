@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Osteoporosis 4X more likely if poor gut (probably poor vitamin D absorption)</title>
+<link rel=stylesheet href="/css/main.css?v=1752030348"><link rel=stylesheet href="/css/pagination.css?v=1752030348"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030348"></script><script src="/js/search.js?v=1752030348"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Osteoporosis 4X more likely if poor gut (probably poor vitamin D absorption)</h1><time>August 22, 2017</time><div data-pagefind-body><h4 id=osteoporosis-in-patients-with-intestinal-insufficiency-and-intestinal-failure-prevalence-and-clinical-risk-factors>Osteoporosis in patients with intestinal insufficiency and intestinal failure: Prevalence and clinical risk factors.</h4><p>Clin Nutr. 2017 Aug 5. pii: S0261-5614(17)30259-5. <a href=https://doi.org/10.1016/j.clnu.2017.07.018.>doi: 10.1016/j.clnu.2017.07.018.</a> <span>[Epub ahead of print]</span></p><p>Nygaard L1, Skallerup A2, Olesen SS3, Køhler M2, Vinter-Jensen L4, Kruse C5, Vestergaard P5, Rasmussen HH4.</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:720px"><ul><li><a href=/posts/osteoporosis-treatment-vitamin-d-is-the-most-cost-effective>Osteoporosis treatment – Vitamin D is the most cost-effective – April 2019</a></li></ul><p><strong>A poor gut increases the risk of many Vitamin D and Magnesium related diseases</strong></p><ul><li><p><a href=/posts/gut-problems-associated-with-low-vitamin-d-invited-review>Gut problems associated with low vitamin D – invited review Dec 2015</a></p></li><li><p><a href=/posts/intestinal-absorption-of-vitamin-d-systematic-review>Intestinal absorption of vitamin D – systematic review Aug 2017</a></p></li><li><p><a href=/posts/88-percent-of-intestinal-failures-had-both-low-vitamin-d-and-low-bone-density>88 percent of Intestinal failures had both low vitamin D and low bone density – Feb 2013</a></p></li><li><p><a href=/posts/gut-friendly-vitamin-d>Gut-Friendly forms of vitamin D</a></p></li></ul><blockquote><p>such as: bio-emulsion, topical, spray, sublingual, inhaled, injection, UVB . . .</p></blockquote><ul><li><a href=/posts/magnesium-bioavailability-2005>Magnesium Bioavailability - 2005</a> has the following</li></ul><blockquote><p>" Mg absorption occurs along the entire intestinal tract but the distal small intestine (jejunum and ileum) are the primary sites"</p></blockquote><ul><li><p><a href=/posts/magnesium-in-man-implications-for-health-and-disease-review-2015>MAGNESIUM IN MAN - IMPLICATIONS FOR HEALTH AND DISEASE – review 2015</a> has a section &ldquo;Magnesium in Intestine&rdquo;</p></li><li><p><a href=/posts/magnesium-reduces-osteoporosis-infographic>Magnesium Reduces Osteoporosis - Infographic June 2014</a></p></li><li><p><a href=/posts/bone-diseases-related-to-many-vitamin-d-diseases>Bone diseases related to many Vitamin D diseases – June 2016</a></p></li><li><p><a href=/posts/20x-increase-in-vitamin-d-sold-and-36-percent-decrease-in-osteoporosis-business-in-australia>20X increase in vitamin D sold and 36 percent decrease in osteoporosis business in Australia – Nov 2013</a></p></li><li><p><a href=/posts/overview-gut-and-vitamin-d>Overview Gut and vitamin D</a> - gut problems in lower left of chart on that page</p></li></ul><img src=/attachments/d3.mock.jpg alt=image></div><p>BACKGROUND & AIMS:</p><p>Intestinal insufficiency and intestinal failure are associated with malabsorption of micro- and macronutrients that may negatively influence bone metabolism and increase the risk for developing osteoporosis. However, information regarding prevalence and contribution of individual risk factors is scarce. We investigated the prevalence of osteoporosis in patients with intestinal insufficiency and intestinal failure and identified associated risk factors.</p><p>METHODS:</p><p>This was a retrospective cross-sectional study including 167 clinically stable outpatients with intestinal insufficiency or intestinal failure. Bone mineral density (BMD) was measured by dual X-ray absorptiometry and the prevalence of osteoporosis was compared to a gender and age matched population. Several clinical and demographic parameters, including body mass index (BMI), vitamin-D, smoking habits and medications, were analyzed for association with BMD.</p><p>RESULTS:</p><p>The prevalence of osteoporosis was 56.9% in the combined patient group compared to 24.1% in the control group ( <strong>OR 4.2</strong> <span>[95% CI, 2.3 to 7.7]</span>; p &lt; 0.001).</p><ul><li><p>BMD in the hip was independently associated with BMI (0.13 <span>[95% CI, 0.09 to 0.18]</span>; p &lt; 0.001) and</p></li><li><p><strong>vitamin-D</strong> levels (-0.41 <span>[95% CI, -0.76 to -0.06]</span>; p = 0.03).</p></li></ul><p>Similar associations were seen for BMD in the spine (0.15 <span>[95% CI, 0.08 - 0.22]</span>; p &lt; 0.001) and (-0.60 <span>[95% CI, -0.76 to -0.06]</span>; p = 0.02), respectively. Trends for low BMD were observed in smokers, and in patients using glucocorticoids, opioids, and proton pump inhibitors.</p><p>CONCLUSIONS:</p><p>Patients with intestinal insufficiency and intestinal failure are at immense risk of developing osteoporosis. Low BMI and vitamin-D deficiency were identified as independent risk factors.</p><p>PMID: 28823627 DOI: 10.1016/j.clnu.2017.07.018</p><p><strong><a href=http://www.clinicalnutritionjournal.com/article/S0261-5614(17)30259-5/fulltext>Publisher wants $40 for the PDF</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bone</span>
+<span class=tag>bone mineral density</span>
+<span class=tag>Gut</span>
+<span class=tag>health risk</span>
+<span class=tag>magnesium</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>Osteoporosis</span>
+<span class=tag>smoking</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>bone, bone mineral density, Gut, health risk, magnesium, osteoporosis, Osteoporosis, smoking, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030348"></script><script src="/js/tiki-redirects.js?v=1752030348"></script><script src="/js/lightspa.js?v=1752030348"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030348",indexUrl:"/search/search_index.json.gz?v=1752030348"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030348"></script></body></html>

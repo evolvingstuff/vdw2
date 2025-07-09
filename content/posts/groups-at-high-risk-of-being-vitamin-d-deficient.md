@@ -69,13 +69,13 @@
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * <a href="/posts/overview-seniors-lack-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview Seniors lack Vitamin D</a>
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 754">Overview Cholesterol and vitamin D</a>
+* [Overview Cholesterol and vitamin D](/posts/overview-cholesterol-and-vitamin-d)
 
 * <a href="/posts/hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Hypertension and vitamin D</a>
 
@@ -209,7 +209,7 @@ Independent correlates of vitamin D deficiency
 
 Odds ratio       95% CI        P
 
-{IMG(attId="624")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/table-2-high-risk-groups.png" alt="image">
 
 Table 2
 

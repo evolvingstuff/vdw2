@@ -64,7 +64,7 @@ My research shows that higher vitamin D intakes are needed to offset the seasona
 
 #### Figure from the Dissertation
 
-{IMG(attId="796")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/gozdzik1.png" alt="image">
 
 #### Table of Contents
 

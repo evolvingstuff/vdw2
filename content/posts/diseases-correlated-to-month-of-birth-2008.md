@@ -35,9 +35,9 @@
 
 #### Gray line shows how low Vitamin D level is in the Spring
 
-{IMG(fileId="1449")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
-{IMG(fileId="1450")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 ## <a href="/posts/click-here-for-details-of-graphs-above" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 868">CLICK HERE for details of graphs above</a>
 

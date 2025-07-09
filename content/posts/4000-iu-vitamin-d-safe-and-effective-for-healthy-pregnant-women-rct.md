@@ -77,7 +77,7 @@ In summary, starting at 12 to 16 weeks of gestation, vitamin D supplementation w
 
 * 15% more vaginal births
 
-{IMG(attId="588")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/births-vs-vitamin-d-levels---june-2011.png" alt="image">
 
 - - - - - - Paper finally published in Oct 2011  - - - -  - - - - 
 

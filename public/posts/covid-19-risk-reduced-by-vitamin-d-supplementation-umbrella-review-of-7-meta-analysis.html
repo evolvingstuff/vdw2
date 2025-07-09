@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>COVID-19 risk reduced by vitamin D supplementation – umbrella review of 7 meta-analysis</title>
+<link rel=stylesheet href="/css/main.css?v=1752030344"><link rel=stylesheet href="/css/pagination.css?v=1752030344"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030344"></script><script src="/js/search.js?v=1752030344"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>COVID-19 risk reduced by vitamin D supplementation – umbrella review of 7 meta-analysis</h1><time>November 6, 2021</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#the-role-of-vitamin-d-in-prevention-of-covid-19-and-its-severity-an-umbrella-review>The role of vitamin D in prevention OF COVID-19 and its severity: an umbrella review</a></li></ul></li></ul></li></ul></nav><hr><h4 id=the-role-of-vitamin-d-in-prevention-of-covid-19-and-its-severity-an-umbrella-review>The role of vitamin D in prevention OF COVID-19 and its severity: an umbrella review</h4><p>Acta Biomed. 2021 Oct 1;92(S6):e2021451. <a href=https://doi.org/10.23750/abm.v92iS6.12216.>doi: 10.23750/abm.v92iS6.12216.</a></p><p>Lory Marika Margarucci 1, Montanari Enrico 2, Gianluca GIanfranceschi 3, Claudio Caprara 4, Federica Valeriani 5, Antonio Piccolella 6, Valentina Lombardi 7, Elena Scaramucci 8, Vincenzo Romano Spica 9 Italy</p><p>Background and aim: Vitamin D is known to modulate immune response and its deficiency was associated with respiratory distress in patients hospitalized for pneumonia. Nevertheless, numerous reviews on vitamin D in COVID-19 patients have shown conflicting results, as previously reported also for other respiratory diseases (e.g., influenza).</p><p>Methods: This umbrella review aims to assess whether low serum 25-OHD is associated with susceptibility to COVID 19, their severity, and mortality. A total of 1559 studies were excluded after the title, abstract and full-text articles screening and 9 papers were included in this review: 2 systematic reviews and 7 metanalysis.</p><p>Results: The findings of this review that summarized studies from 5 WHO regions (European Region, Region of the Americas, South-East Asia Region, Eastern Mediterranean Region, Western Pacific Region) to exclusion only African region, show that low serum 25-OHD levels are associated with higher infection risks for COVID-19.</p><p>Conclusions: Although the umbrella findings indicate a potential role of vitamin D deficiency in COVID-19 severity in hospitalized patients and showing an association between Vitamin D supplementation and COVID-19 severity, however, more robust data from randomized controlled trials are further needed to confirm a possible association with the mortality rates.</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/umbrells.jpg alt=image width=1000><p><strong>References for the above table</strong></p><ul><li><ol start=29><li>Akbar MR, Wibowo A, Pranata R, Setiabudiawan B. Low Serum 25-hydroxyvitamin D (Vitamin D) Level Is Associated With Susceptibility to COVID-19, Severity, and Mortality: A Systematic Review and Meta-Analysis. Front Nutr 2021; 8, 660420.</li></ol></li><li><p>Bassatne A, Basbous M, Chakhtoura M, El Zein O, Rahme M, El-Hajj Fuleihan G. The link between COVID-19 and Vitamin D (VIVID): A systematic review and meta-analysis. Metabolism 2021; 119, 154753.</p></li><li><p>Dramé M, Cofais C, Hentzien M, Proye E, Coulibaly PS, Demoustier-Tampère D, Destailleur MH, Lotin M, Can- tagrit E, Cebille A, Desprez A, Blondiau F, Kanagaratnam L, Godaert L. Relation between Vitamin D and COVID-19 in Aged People: A Systematic Review. Nutrients 2021; 13(4), 1339.</p></li><li><p>Liu N, Sun J, Wang X, Zhang T, Zhao M, Li H. Low vitamin D status is associated with coronavirus disease 2019 outcomes: a systematic review and meta-analysis. Int J Infect Dis 2021; 104, 58-64.</p></li><li><p>Pereira M, Dantas Damascena A, Galvao Azevedo LM, de Almeida Oliveira T, da Mota Santana J. Vitamin D deficiency aggravates COVID-19: systematic review and metaanalysis. Crit Rev Food Sci Nutr 2020; 4, 1-9.</p></li><li><p>Petrelli F, Luciani A, Perego G, Dognini G, Colombelli PL, Ghidini A. Therapeutic and prognostic role of vitamin D for COVID-19 infection: A systematic review and metaanalysis of 43 observational studies. J Steroid Biochem Mol Biol 2021; 211, 105883.</p></li><li><p>Shah K, Saxena D, Mavalankar D. Vitamin D supplementation, COVID-19 and disease severity: a meta-analysis. QJM 2021; 114(3), 175-181.</p></li><li><p>Teshome A, Adane A, Girma B, Mekonnen ZA. The Impact of Vitamin D Level on COVID-19 Infection: Systematic Review and Meta-Analysis. Front Public Health 2021; 9, 624559.</p></li><li><ol start=37><li>Yisak H, Ewunetei A, Kefale B, Mamuye M, Teshome F, Ambaw B, Yideg Yitbarek G. Effects of Vitamin D on COVID-19 Infection and Prognosis: A Systematic Review. Risk Manag Healthc Policy 2021; 14, 31-38.</li></ol></li></ul><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/umbrella-review.pdf>Download the PDF from VitaminDWiki</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>breathing</span>
+<span class=tag>influenza</span>
+<span class=tag>life span</span>
+<span class=tag>Meta-analysis of Vitamin D</span>
+<span class=tag>mortality</span>
+<span class=tag>pneumonia</span>
+<span class=tag>virus</span>
+<span class=tag>Virus</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>breathing, influenza, life span, Meta-analysis of Vitamin D, mortality, pneumonia, virus, Virus, vitamin d, vitamin d and viruses, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030344"></script><script src="/js/tiki-redirects.js?v=1752030344"></script><script src="/js/lightspa.js?v=1752030344"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030344",indexUrl:"/search/search_index.json.gz?v=1752030344"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030344"></script></body></html>

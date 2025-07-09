@@ -78,7 +78,7 @@ Copyright © 2011 Elsevier Ltd. All rights reserved.
 
 #### Bone Density RELATIVE changes for White, AA, and Spanish Americans
 
-{IMG(attId="717")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/veith-30ng-2.png" alt="image">
 
 Fig. 2. Bone mineral density data for Americans, from the NHANES Study of the US Population, for White, African American, and Spanish Americans (top to bottom). The lines are non-parametric curve fits, similar to running averages of BMD for subjects having the 25(OH)D levels along the horizontal axis. These lines show bone densities for men and women < age 50.  **BMD at the origin is set to 0 to cancel out density differences among the groups.** 
 
@@ -92,7 +92,7 @@ PMID:     21872808
 
 * <a href="/posts/race-vs-vitamin-d-level-in-canadian-winter-veith" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1663">Race vs vitamin D level in Canadian Winter - Veith May 2011</a>
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [Review of Vitamin D Deficiencies in developing countries - Oct 2011](/posts/review-of-vitamin-d-deficiencies-in-developing-countries)
 
@@ -102,6 +102,6 @@ PMID:     21872808
 
 * The MINIMUM recommendation by 25 experts was higher than the Institute of Medicine 
 
-{IMG(attId="355"max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 400px;">
 
 #### <a href="/posts/span-stylecolor093click-here-for-detailsspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1225"><span style="color:#093;">CLICK HERE for details</span></a>

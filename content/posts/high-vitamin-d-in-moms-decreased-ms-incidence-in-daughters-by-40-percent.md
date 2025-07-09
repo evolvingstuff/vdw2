@@ -60,6 +60,6 @@ PMID:     21786297
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 691">Overview MS and Vitamin D</a>
+* [Overview MS and Vitamin D](/posts/overview-ms-and-vitamin-d)
 
-* <a href="/posts/multiple-sclerosis-2x-more-likely-if-vitamin-d-deficient-as-a-fetus-decades-earlier" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis 2X more likely if vitamin D deficient as a fetus decades earlier – May 2016">Multiple Sclerosis 2X more likely if vitamin D deficient as a fetus decades earlier – May 2016</a>
+* [Multiple Sclerosis 2X more likely if vitamin D deficient as a fetus decades earlier – May 2016](/posts/multiple-sclerosis-2x-more-likely-if-vitamin-d-deficient-as-a-fetus-decades-earlier)

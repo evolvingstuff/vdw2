@@ -47,4 +47,4 @@ Copyright © 2010 Mosby, Inc. All rights reserved. PMID: 21095277
 
 ## See also VitaminDWiki
 
-* <a href="/posts/more-blood-was-pumped-by-those-getting-800000-iu-of-vitamin-d-after-heart-failure-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More blood was pumped by those getting 800,000 IU of vitamin D after heart failure – RCT Oct 2013">More blood was pumped by those getting 800,000 IU of vitamin D after heart failure – RCT Oct 2013</a>
+* [More blood was pumped by those getting 800,000 IU of vitamin D after heart failure – RCT Oct 2013](/posts/more-blood-was-pumped-by-those-getting-800000-iu-of-vitamin-d-after-heart-failure-rct)

@@ -166,7 +166,7 @@ In some circumstances, hypervitaminosis D might be less ofa threat to nonhuman p
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a>
+* [Overview Veterinary and Vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
 * [10 million IU of vitamin D3 for cows was great unless had vitamin D2 – July 2011](/posts/10-million-iu-of-vitamin-d3-for-cows-was-great-unless-had-vitamin-d2)
 

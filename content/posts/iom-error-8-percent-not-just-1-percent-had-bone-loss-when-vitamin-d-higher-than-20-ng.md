@@ -119,13 +119,13 @@ hashed lines and  **<span style="color:#F00;">red </span>** were added by Vitami
 
    * 30 ng/ml is the typical low recommendation - which may protect against bone loss
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972">Who said vitamin D could not be patented</a>
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)
 
 * [IoM again fails to look at interactions - Nov 2010](/posts/iom-again-fails-to-look-at-interactions)
 
 * [Clinical Trials for Vitamin D - 2011](/posts/clinical-trials-for-vitamin-d-2011) typically > 800 trials for vitamin D - many with intervention
 
-* <a href="/posts/institute-of-medicine-iom-became-nam" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Institute of Medicine (IoM) became NAM July 2015">Institute of Medicine (IoM) became NAM July 2015</a>
+* [Institute of Medicine (IoM) became NAM July 2015](/posts/institute-of-medicine-iom-became-nam)
 
 ---
 
@@ -135,7 +135,7 @@ With his skull-and-crossbones bow tie tied tight, Clifford Rosen strides to the 
 
 Rosen is director of clinical and translational research at Maine Medical Center Research Institute in Scarborough and is a respected member of the bone-research community. But his role last year on an expert panel to determine how much calcium and vitamin D people need put him at odds with many of his colleagues. In the past few years, vitamin D has earned a reputation in Western countries for preventing or fighting prostate cancer, cardiovascular disease, multiple sclerosis and about 30 other maladies, leading to advice that most people should be supplementing what the body produces naturally when exposed to sunlight. But in November, the panel, put together by the Institute of Medicine (IOM) — a non-profit group affiliated with the US National Academy of Sciences — issued a report1 that challenged that view. Blood levels of vitamin D need not be as high as many physicians and testing companies had been advocating, it said, and high doses of the vitamin could actually cause harm. Since the report was released, Rosen says he's received about 150 e-mails critical of the panel's decisions. About one-third were downright hateful. "A rehabilitation doctor in Texas threatened to bring me to the board of malpractice to have my licence revoked. People tell me I don't know what I'm doing," he says. "It has become personal."
 
-{IMG(attId="617")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/sales-of-vitamin-d-10x-in-10-years.png" alt="image">
 
 Much is at stake. By 2009, the amount spent on vitamin-D supplements in the United States had risen tenfold in ten years (see 'Raising the stakes'). Medical practitioners and public-health officials worldwide look to the IOM for guidance on how to interpret the conflicting claims about vitamin D. Yet several vitamin-D proponents say that the IOM's methods, which involved a systematic review of the literature, were flawed. They have accused the panel of misinterpreting data and over-emphasizing the danger of heavy supplementation. Just last month, the Endocrine Society, a professional association of 14,000 researchers and clinicians based in Chevy Chase, Maryland, released guidelines that recommend higher doses than the IOM did2.
 

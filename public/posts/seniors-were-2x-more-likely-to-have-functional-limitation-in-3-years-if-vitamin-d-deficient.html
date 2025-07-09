@@ -1,0 +1,61 @@
+<!doctype html><html><head><meta charset=utf-8><title>Seniors were 2X more likely to have functional limitation in 3 years if vitamin D deficient</title>
+<link rel=stylesheet href="/css/main.css?v=1752030349"><link rel=stylesheet href="/css/pagination.css?v=1752030349"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030349"></script><script src="/js/search.js?v=1752030349"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Seniors were 2X more likely to have functional limitation in 3 years if vitamin D deficient</h1><time>September 15, 2013</time><div data-pagefind-body><h3 id=vitamin-d-status-is-associated-with-functional-limitations-and-functional-decline-in-older-individuals>Vitamin D Status Is Associated With Functional Limitations and Functional Decline in Older Individuals</h3><p>The Journal of Clinical Endocrinology & Metabolism September 1, 2013 vol. 98 no. 9 E1483-E1490</p><p>E. Sohl, N. M. van Schoor, R. T. de Jongh, M. Visser, D. J. H. Deeg and P. Lips</p><p>Department of Epidemiology and Biostatistics (E.S., N.M.v.S., M.V., D.J.H.D.) and Department of Health Sciences (M.V.), EMGO Institute for Health and Care Research, Department of Internal Medicine and Endocrinology (R.T.d.J., P.L.), and Department of Psychiatry (D.J.H.D.), VU University Medical Center, 1081 BT Amsterdam, The Netherlands</p><p>Address all correspondence and requests for reprints to: N. M. van Schoor, VU University Medical Center, Department of Epidemiology and Biostatistics, EMGO Institute for Health and Care Research, Van der Boechorststraat 7, Room A517, 1081 BT Amsterdam, The Netherlands. E-mail: <a href=mailto:nm.vanschoor@vumc.nl>nm.vanschoor@vumc.nl</a>.</p><p>Context: Vitamin D is known to influence muscle health. A reduction in muscle mass increases the risk of functional limitations among older individuals.</p><p>Objective: The aim of this study was to examine the relationship between vitamin D status and functional limitations.</p><p>Design, Setting, and Participants: Two independent cohorts of the Longitudinal Aging Study Amsterdam were used.</p><p>Participants were aged</p><ul><li><p>65 to 88 years (older cohort, n = 1237; baseline 1995) and</p></li><li><p>55 to 65 years (younger cohort, n = 725; baseline 2002).</p></li></ul><p>Main Outcome Measures: Questions on the ability and degree of difficulty to perform 6 functions of daily life were asked.</p><p>Results: Of the participants, 56% in the older cohort and 30% in the younger cohort had ≥1 limitation. Vitamin D deficiency (25-hydroxyvitamin D level of &lt;20 ng/mL) compared with the value in the reference group (>30 ng/mL) was related to the presence of functional limitations at baseline (odds ratio <span>[OR]</span> = 1.7; 95% confidence interval <span>[CI]</span>, 1.2–2.5 and OR = 2.2; 95% CI 1.3–3.7 for the older and younger cohorts, respectively).</p><p>In the older cohort, vitamin D deficiency was associated with an increase in <strong>limitations at 3 years (OR = 2.0</strong> ; 95% CI, 1.1–3.5), whereas vitamin D deficiency in the younger cohort was associated with an increase in limitations at 6 years (OR = 3.3; 95% CI, 1.1–10.1).</p><p>Analyses were adjusted for confounders.</p><p>Conclusion: Vitamin D status is associated with functional limitations cross-sectionally and longitudinally in individuals aged 55 to 65 years and those 65 years and older. The possible association of vitamin D with functional limitations is present after a shorter follow-up time in the oldest age group compared with the younger age group.</p><hr><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href=/posts/frailty-call-to-action-vitamin-d-is-one-of-the-action-items>Frailty Call to Action: Vitamin D is one of the action items – June 2013</a></p></li><li><p><a href=/posts/80-percent-of-the-characteristics-of-frailty-associated-with-low-vitamin-d>80 percent of the characteristics of frailty associated with low vitamin D – May 2013</a></p></li><li><p><a href=/posts/physical-performance-of-seniors-increases-with-vitamin-d-up-to-30-ng>Physical performance of seniors increases with vitamin D up to 30 ng – Jan 2013</a></p></li><li><p><a href=/posts/overview-seniors-and-vitamin-d>Overview Seniors and Vitamin D</a></p></li><li><p><a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=fraility&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for Frality</a> 148 items as of Sept 2013</p></li><li><p><a href=/posts/frailty-and-vitamin-d-many-studies>Frailty and Vitamin D - many studies</a></p></li><li><p><a href=/posts/frailty-and-vitamin-d-with-influence-diagram-miller>Frailty and Vitamin D – with influence diagram Miller Oct 2010</a> which has the following chart</p></li></ul><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/fraility-vicious-circles---miller-oct-2010.gif alt=image></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>Seniors</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>blood levels, Seniors, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030349"></script><script src="/js/tiki-redirects.js?v=1752030349"></script><script src="/js/lightspa.js?v=1752030349"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030349",indexUrl:"/search/search_index.json.gz?v=1752030349"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030349"></script></body></html>

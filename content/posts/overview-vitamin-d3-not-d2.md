@@ -62,11 +62,11 @@ Some people buy  **D2**  because it is vegan, being unaware that there are vegan
 
 * <a href="/posts/vitamin-d2-actually-decreased-vitamin-d3-levels-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3454">Vitamin D2 actually decreased vitamin D3 levels – RCT Nov 2012</a>
 
-* <a href="/posts/vitamin-d3-increased-and-vitamin-d2-decreased-the-d3-serum-levels-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 increased and Vitamin D2 decreased the D3 serum levels – RCT Sept 2013">Vitamin D3 increased and Vitamin D2 decreased the D3 serum levels – RCT Sept 2013</a>
+* [Vitamin D3 increased and Vitamin D2 decreased the D3 serum levels – RCT Sept 2013](/posts/vitamin-d3-increased-and-vitamin-d2-decreased-the-d3-serum-levels-rct)
 
 * <a href="/posts/vitamin-span-stylecolorf00d2span-decreased-blood-levels-of-vitamin-d3-by-12-ng-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2769">Vitamin <span style="color:#F00;">D2</span> decreased blood levels of Vitamin D3 by 12 ng – RCT July 2012</a>
 
-* <a href="/posts/vitamin-d3-is-much-better-than-d2-especially-if-not-taken-daily-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2894">Vitamin D3 is much better than D2, especially if not taken daily – meta-analysis June 2012</a> 
+* [Vitamin D3 is much better than D2, especially if not taken daily – meta-analysis June 2012](/posts/vitamin-d3-is-much-better-than-d2-especially-if-not-taken-daily-meta-analysis) 
 
 * <a href="/posts/ms-worse-with-vitamin-span-stylecolorf00d2span" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2130">MS worse with Vitamin <span style="color:#F00;">D2</span>  - Oct 2011</a> high dose of D2 resulted in worse MS than low dose
 
@@ -74,9 +74,9 @@ Some people buy  **D2**  because it is vegan, being unaware that there are vegan
 
 * [10 million IU of vitamin D3 for cows was great unless had vitamin D2 – July 2011](/posts/10-million-iu-of-vitamin-d3-for-cows-was-great-unless-had-vitamin-d2)
 
-* <a href="/posts/hemodialysis-not-helped-by-weekly-vitamin-d2-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hemodialysis not helped by weekly vitamin D2 – RCT April 2015">Hemodialysis not helped by weekly vitamin D2 – RCT April 2015</a>
+* [Hemodialysis not helped by weekly vitamin D2 – RCT April 2015](/posts/hemodialysis-not-helped-by-weekly-vitamin-d2-rct)
 
-* <a href="/posts/following-large-doses-of-vitamin-d2-vitamin-d3-doses-were-unable-to-achieve-sufficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Following large doses of vitamin D2, Vitamin D3 doses were unable to achieve sufficiency – Jan 2014">Following large doses of vitamin D2, Vitamin D3 doses were unable to achieve sufficiency – Jan 2014</a>
+* [Following large doses of vitamin D2, Vitamin D3 doses were unable to achieve sufficiency – Jan 2014](/posts/following-large-doses-of-vitamin-d2-vitamin-d3-doses-were-unable-to-achieve-sufficiency)
 
 * [Vitamin D2 decreased vitamin D3 levels in the blood – Feb 2011](/posts/vitamin-d2-decreased-vitamin-d3-levels-in-the-blood)
 
@@ -94,19 +94,19 @@ Some people buy  **D2**  because it is vegan, being unaware that there are vegan
 
 * <a href="/posts/vitamin-d2-reduced-the-vitamin-d3-by-half" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2513">Vitamin D2 reduced the Vitamin D3 by half – Feb 2012</a>
 
-* <a href="/posts/vitamin-d-from-mushroom-or-supplements-decreased-vitamin-d3-in-the-body" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2952">Vitamin D from mushroom or supplements decreased vitamin D3 in the body – June 2012</a>
+* [Vitamin D from mushroom or supplements decreased vitamin D3 in the body – June 2012](/posts/vitamin-d-from-mushroom-or-supplements-decreased-vitamin-d3-in-the-body)
 
-* <a href="/posts/vitamin-d3-much-better-than-d2-for-loading-doses-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2676">Vitamin D3 much better than D2 for loading doses– meta-analysis May 2012</a>
+* [Vitamin D3 much better than D2 for loading doses– meta-analysis May 2012](/posts/vitamin-d3-much-better-than-d2-for-loading-doses-meta-analysis)
 
 > Not much difference between D3 and D2 for daily doses?
 
-* <a href="/posts/vitamin-d2-did-not-help-lupus-no-surprise-d2-was-given-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D2 did not help Lupus (no surprise, D2 was given weekly) – June 2013">Vitamin D2 did not help Lupus (no surprise, D2 was given weekly) – June 2013</a>
+* [Vitamin D2 did not help Lupus (no surprise, D2 was given weekly) – June 2013](/posts/vitamin-d2-did-not-help-lupus-no-surprise-d2-was-given-weekly)
 
-* <a href="/posts/cooked-mushrooms-vitamin-d2-did-not-increase-vitamin-d-serum-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cooked mushrooms (Vitamin D2) did not increase vitamin D serum levels – Aug 2014">Cooked mushrooms (Vitamin D2) did not increase vitamin D serum levels – Aug 2014</a>
+* [Cooked mushrooms (Vitamin D2) did not increase vitamin D serum levels – Aug 2014](/posts/cooked-mushrooms-vitamin-d2-did-not-increase-vitamin-d-serum-levels)
 
-* <a href="/posts/vitamin-d3-far-better-than-d2-at-raising-infant-vitamin-d-blood-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3574">Vitamin D3 far better than D2 at raising infant vitamin D blood levels – Dec 2012</a>
+* [Vitamin D3 far better than D2 at raising infant vitamin D blood levels – Dec 2012](/posts/vitamin-d3-far-better-than-d2-at-raising-infant-vitamin-d-blood-levels)
 
-   * Vets no longer use D2 <a href="/posts/vitamin-d2-should-not-be-used-as-a-vitamin-supplement-for-any-mammal" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D2 should not be used as a Vitamin supplement for any mammal – Oct 2006">Vitamin D2 should not be used as a Vitamin supplement for any mammal – Oct 2006</a>
+   * Vets no longer use D2 [Vitamin D2 should not be used as a Vitamin supplement for any mammal – Oct 2006](/posts/vitamin-d2-should-not-be-used-as-a-vitamin-supplement-for-any-mammal)
 
 * [Graphs of diseases vs vitamin D levels - and D3 vs D2- April 2011](/posts/graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2) which has the following
 
@@ -116,7 +116,7 @@ Some people buy  **D2**  because it is vegan, being unaware that there are vegan
 
  **Response to 20,000 IU vitamin <span style="color:#00F;">D3</span> extra per week** 
 
-{IMG(attId="746" max="450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/response-to-20000-iu-weekly.png" alt="image" style="max-width: 450px;">
 
  **Most > 20ng and some > 40ng** 
 
@@ -124,7 +124,7 @@ Some people buy  **D2**  because it is vegan, being unaware that there are vegan
 
 #### Response to 20,000 IU of vitamin <span style="color:#F00;">D2</span> per week (im = inter-muscular injection)
 
-{IMG(attId="747" max="450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/response-to-20000-d2-weekly.png" alt="image" style="max-width: 450px;">
 
 #### Very few got to 40ng
 
@@ -132,9 +132,11 @@ Some people buy  **D2**  because it is vegan, being unaware that there are vegan
 
 ---
 
-{IMG(attId="4376, 4377,4378" max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/d2-vs-d3--1.jpg" alt="image" style="max-width: 500px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/d2-vs-d3--2.jpg" alt="image" style="max-width: 500px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/d2-vs-d3--3.jpg" alt="image" style="max-width: 500px;">
 
-The  2006 study can be read at <a href="/posts/vitamin-d2-should-not-be-used-as-a-vitamin-supplement-for-any-mammal" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D2 should not be used as a Vitamin supplement for any mammal – Oct 2006">Vitamin D2 should not be used as a Vitamin supplement for any mammal – Oct 2006</a>
+The  2006 study can be read at [Vitamin D2 should not be used as a Vitamin supplement for any mammal – Oct 2006](/posts/vitamin-d2-should-not-be-used-as-a-vitamin-supplement-for-any-mammal)
 
 ---
 
@@ -164,7 +166,7 @@ TREATMENT WITH 50000 IU VITAMIN D 2 EVERY OTHER WEEK AND EFFECT ON SERUM 25-HYDR
 
 * [Doctors now able to prescribe vitamin D3 ](https://www.VitaminDWiki.com/tiki-view_blog_post.php?postId=72) as of March 2012
 
-* <a href="/posts/5000-iu-vitamin-d3-added-daily-to-bread-raised-blood-levels-to-50-ng-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2492">5000 IU vitamin D3 added daily to bread raised blood levels to 50 ng – 2009</a>
+* [5000 IU vitamin D3 added daily to bread raised blood levels to 50 ng – 2009](/posts/5000-iu-vitamin-d3-added-daily-to-bread-raised-blood-levels-to-50-ng-2009)
 
 * <a href="/posts/top-news-top-web-pages-popular-pages-and-all-overviews" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1844">Top news, top web pages, popular pages, and all overviews</a>
 
@@ -222,7 +224,9 @@ TREATMENT WITH 50000 IU VITAMIN D 2 EVERY OTHER WEEK AND EFFECT ON SERUM 25-HYDR
 
  **here are some images of D2 to stay away from** 
 
-{IMG(attId="923,924,925")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/d2-pill-a.jpg" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/d2-pill-b.jpg" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/d2-pill-c.jpg" alt="image">
 
 #### See also PDFs at the bottom of this page
 

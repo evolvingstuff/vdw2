@@ -37,8 +37,8 @@ Just Australia?
 
 ## See also VitaminDWiki
 
-* <a href="/posts/uv-and-vitamin-d-calculators" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 622">UV and Vitamin D calculators</a>
+* [UV and Vitamin D calculators](/posts/uv-and-vitamin-d-calculators)
 
-* <a href="/posts/uv-meters" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 72">UV meters</a> 
+* [UV meters](/posts/uv-meters) 
 
-* <a href="/posts/d-minder-vitamin-d-calculator-for-smartphones-and-ipad" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: D Minder: Vitamin D calculator for Smartphones and iPad">D Minder: Vitamin D calculator for Smartphones and iPad</a>
+* [D Minder: Vitamin D calculator for Smartphones and iPad](/posts/d-minder-vitamin-d-calculator-for-smartphones-and-ipad)

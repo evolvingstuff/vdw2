@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset=utf-8><title>Childhood cancer survivors have increased chronic health problems as adults</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Childhood cancer survivors have increased chronic health problems as adults</h1><time>October 13, 2017</time><div data-pagefind-body><h4 id=the-cumulative-burden-of-surviving-childhood-cancer-an-initial-report-from-the-st-jude-lifetime-cohort-study-sjlife>The cumulative burden of surviving childhood cancer: an initial report from the St Jude Lifetime Cohort Study (SJLIFE)</h4><p>Lancet 07 September 2017, DOI: <a href=http://dx.doi.org/10.1016/S0140-6736(17)31610-0>http://dx.doi.org/10.1016/S0140-6736(17)31610-0</a></p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:650px"><ul><li><p><strong>Children surviving cancer, chemotherapy and radiation therapy can look forward to 2X worse health as adults</strong></p></li><li><p><strong>Question: Do adult cancer survivors have a similar 2X+ increase in chronic diseases?</strong></p></li><li><p><strong>Question: Would supplementing cancer survivors improve their long-term health?</strong></p></li><li><p><a href=/posts/children-with-cancer-were-3x-more-likely-to-be-vitamin-d-deficient>Children with Cancer were 3X more likely to be vitamin D deficient – July 2013</a></p></li><li><p><a href=/posts/vitamin-d-levels-very-low-for-some-childhood-cancers-then-got-lower>Vitamin D levels very low for some childhood cancers, then got lower – Sept 2012</a></p></li></ul></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/surviving-childhood-cancer.pdf>Download the PDF from VitaminDWiki</a></strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/chc1.jpg alt=image>
+<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/chc2.jpg alt=image>
+<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/chc3.jpg alt=image>
+<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/chc4.jpg alt=image>
+<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/chc5.jpg alt=image>
+<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/chc5-caption.jpg alt=image><h4 id=clipped-from-pdf>Clipped from PDF</h4><ul><li>“Cumulative burden was calculated using the method of mean cumulative count, which estimates the mean number of recurrent or multiple health events that a cohort member has by a given timepoint in the presence of competing risk events”</li></ul><p>Background</p><p>Survivors of childhood cancer develop early and severe chronic health conditions (CHCs). A quantitative landscape of morbidity of survivors, however, has not been described. We aimed to describe the cumulative burden of curative cancer therapy in a clinically assessed ageing population of long-term survivors of childhood cancer.</p><p>Methods</p><p>The St Jude Lifetime Cohort Study (SJLIFE) retrospectively collected data on CHCs in all patients treated for childhood cancer at the St Jude Children&rsquo;s Research Hospital who survived 10 years or longer from initial diagnosis and were 18 years or older as of June 30, 2015. Age-matched and sex-frequency-matched community controls were used for comparison. 21 treatment exposure variables were included in the analysis, with data abstracted from medical records. 168 CHCs for all participants were graded for severity using a modified Common Terminology Criteria of Adverse Events. Multiple imputation with predictive mean matching was used for missing occurrences and grades of CHCs in the survivors who were not clinically evaluable. Mean cumulative count was used for descriptive cumulative burden analysis and marked-point-process regression was used for inferential cumulative burden analysis.</p><p>Findings</p><p>Of 5522 patients treated for childhood cancer at St Jude Children&rsquo;s Research Hospital who had complete records, survived 10 years or longer, and were 18 years or older at time of study, 3010 (54·5%) were alive, had enrolled, and had had prospective clinical assessment. 2512 (45·5%) of the 5522 patients were not clinically evaluable. The cumulative incidence of CHCs at age 50 years was 99·9% (95% CI 99·9–99·9) for grade 1–5 CHCs and 96·0% (95% CI 95·3–96·8%) for grade 3–5 CHCs. By age 50 years, a survivor had experienced, on average, 17·1 (95% CI 16·2–18·1) CHCs of any grade, of which 4·7 (4·6–4·9) were CHCs of grade 3–5. The cumulative burden in matched community controls of grade 1–5 CHCs was 9·2 (95% CI 7·9–10·6; p&lt;0·0001 vs total study population) and of grade 3–5 CHCs was 2·3 (1·9–2·7, p&lt;0·0001 vs total study population). Second neoplasms, spinal disorders, and pulmonary disease were major contributors to the excess total cumulative burden. Notable heterogeneity in the distribution of CHC burden in survivors with differing primary cancer diagnoses was observed. The cumulative burden of grade 1–5 CHCs at age 50 years was highest in survivors of CNS malignancies (24·2 <span>[95% CI 20·9–27·5]</span>) and lowest in survivors of germ cell tumours (14·0 <span>[11·5–16·6]</span>). Multivariable analyses showed that older age at diagnosis, treatment era, and higher doses of brain and chest radiation are significantly associated with a greater cumulative burden and severity of CHCs.</p><p>Interpretation</p><p>The burden of CHCs in survivors of childhood cancer is substantial and highly variable. Our assessment of total cumulative burden in survivors of paediatric cancer, with detailed characterisation of long-term CHCs, provide data to better inform future clinical guidelines, research investigations, and health services planning for this vulnerable, medically complex population.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>brain</span>
+<span class=tag>cancer</span>
+<span class=tag>Cancer</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>cognitive</span>
+<span class=tag>Infant-Child</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>brain, cancer, Cancer, child, childhood cancer, cognitive, Infant-Child, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

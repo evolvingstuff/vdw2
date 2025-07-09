@@ -54,8 +54,9 @@ Copyright © 2011 Federation of European Biochemical Societies. Published by Els
 
 * [All items tagged Melanoma and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=46&sort_mode=created_desc)
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 # Many studies have found that increased Melanoma is due to decreased vitamin D resulting from lack of sun
 
-{IMG(fileId="1200, 1158")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
+<img src="/attachments/d3.mock.jpg" alt="image">

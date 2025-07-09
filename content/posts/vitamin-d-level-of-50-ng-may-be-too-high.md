@@ -72,7 +72,7 @@ But if you are trying desperately to maintain year-round 25(OH)D status between 
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766">Overview How Much vitamin D</a>
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d)
 
 * <a href="/posts/vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations</a> both IU and ng
 

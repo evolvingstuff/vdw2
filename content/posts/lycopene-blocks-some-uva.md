@@ -27,7 +27,7 @@
 
 # [Wikipedia](http://en.wikipedia.org/wiki/Lycopene_%28data_page%29) entry shows that it does block some UVA (tanning) but not UVB (vitamin D)
 
-{IMG(attId="307")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/lycopene-uv.png" alt="image">
 
 [CLICK HERE for more detial on the spectra](http://www.google.com/url?sa=t&source=web&cd=42&ved=0CB4QFjABOCg&url=http%3A%2F%2Finfohost.nmt.edu%2F~jaltig%2FLycopeneSpectrum.pdf&rct=j&q=lycopene%20(UV%20OR%20tan)&ei=3wDtTPPLGIq4sQPu_eiNBw&usg=AFQjCNExxB1JoXh7X-K1S3LUxpOTzFZ9Uw&sig2=LV9mkGeYNZy1yF5ABhqlCQ&cad=rja)
 

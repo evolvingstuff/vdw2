@@ -39,4 +39,4 @@ Conclusions:Daily supplementation with calcium fortified laddoo, and monthly vit
 
 # Institute of Medicine Nov 2010 said 600 IU to 2500 IU at this age
 
-{IMG(fileId="1637" max="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">

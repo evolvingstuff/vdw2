@@ -33,27 +33,27 @@
 
 # Bone Density decreases with age
 
-{IMG(attId="834")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/middle-east-osteo1.jpg" alt="image"> 
 
-{IMG(attId="835")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/middle-east-osteo2.jpg" alt="image"> 
 
 # Prevalence in CHILDREN
 
-{IMG(attId="841")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/middle-east-osteo3.jpg" alt="image"> 
 
-{IMG(attId="837")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/middle-east-osteo4.jpg" alt="image"> 
 
 # Increasing number of hip replacements in a decade
 
-{IMG(attId="838")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/middle-east-hip-fracture.jpg" alt="image"> 
 
 # Standard Osteo treatments do not yet include vitamin D
 
-{IMG(attId="839")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/middle-east-osteo-treatments.jpg" alt="image"> 
 
 # 2X more Osteoporosis than in ancient Eqypt
 
-{IMG(attId="840")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/middle-east-osteo-egypt.jpg" alt="image"> 
 
 ## See PDF attached at bottom of this page
 
@@ -79,25 +79,25 @@
 
 * <a href="/posts/do-not-just-take-more-span-stylecolor30fcalcium-span-if-you-fear-osteoporosis-mercola" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1250">Do not just take more  **<span style="color:#30F;">Calcium </span>** if you fear Osteoporosis- Mercola Dec 2010</a> from book: The  **<span style="color:#30F;">Calcium </span>** Lie
 
-* <a href="/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1026">Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010</a>
+* [Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010](/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm)
 
-* <a href="/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 984">National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010</a>
+* [National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010](/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010)
 
-* <a href="/posts/osteoporosis-medicines-several-include-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 983">Osteoporosis medicines - several include vitamin D</a> from National Osteoporosis Foundation
+* [Osteoporosis medicines - several include vitamin D](/posts/osteoporosis-medicines-several-include-vitamin-d) from National Osteoporosis Foundation
 
 * <a href="/posts/vitamin-d-recommendations-by-osteoporosis-canada" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 969">Vitamin D recommendations by Osteoporosis Canada - Sept 2010</a> 800-2000 IU daily, 10,000 IU is probably safe
 
-* <a href="/posts/review-of-vitamin-d-pathways-to-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1000">Review of vitamin D pathways to bone health - July 2010</a> with many summaries of vitamin D INTERVENTIONS
+* [Review of vitamin D pathways to bone health - July 2010](/posts/review-of-vitamin-d-pathways-to-bone-health) with many summaries of vitamin D INTERVENTIONS
 
 * <a href="/posts/prefer-more-than-30-ng-of-vitamin-d-and-700-mg-span-stylecolor30fcalcium-span-for-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1440">Prefer more than 30 ng of Vitamin D and 700 mg  **<span style="color:#30F;">Calcium </span>** for Osteoporosis – Mar 2011</a>
 
-* <a href="/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1036">Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010</a>
+* [Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010](/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely)
 
    * suspect not just dark skin, but those also at risk of being low on vitamin D: sunlight, elderly, medical problems, etc.
 
 * <a href="/posts/would-there-be-fewer-stress-and-bone-fractures-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 974">Would there be fewer stress and bone fractures with vitamin D?</a>
 
-* <a href="/posts/4000-iu-vitamin-d-intervention-helped-elderly-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1058">4000 IU Vitamin D intervention helped elderly bones – March 2010</a>
+* [4000 IU Vitamin D intervention helped elderly bones – March 2010](/posts/4000-iu-vitamin-d-intervention-helped-elderly-bones)
 
 * <a href="/posts/890-iu-of-vitamin-d-and-1200-mg-span-stylecolor30fcalcium-span-improved-bone-density" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 614">890 IU of vitamin D and 1200 mg  **<span style="color:#30F;">Calcium </span>** improved bone density – July 2010</a>
 
@@ -109,11 +109,11 @@
 
    * 400 IU is the least amount of vitamin D - wonder how low of vitamin D needed if take all of the co-factors
 
-* <a href="/posts/hip-fractures-in-india-editorial-with-recommendation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 905">Hip fractures in India - editorial with recommendation Sept 2010</a>
+* [Hip fractures in India - editorial with recommendation Sept 2010](/posts/hip-fractures-in-india-editorial-with-recommendation)
 
 * [75 percent of hip fractures associated with vitamin D deficiency - Jan 2011](/posts/75-percent-of-hip-fractures-associated-with-vitamin-d-deficiency)
 
-* <a href="/posts/low-vitamin-d-may-account-for-half-of-the-reasons-for-osteomalacia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1073">Low vitamin D may account for half of the reasons for osteomalacia – Oct 2010</a>
+* [Low vitamin D may account for half of the reasons for osteomalacia – Oct 2010](/posts/low-vitamin-d-may-account-for-half-of-the-reasons-for-osteomalacia)
 
 * <a href="/posts/span-stylecolor30fcalcium-span-citrate-and-more-than-800-iu-of-vitamin-d-to-treat-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1486"> **<span style="color:#30F;">Calcium </span>** citrate and more than 800 IU of vitamin D to treat Osteoporosis – Mar 2011</a>
 
@@ -131,9 +131,9 @@
 
 * <a href="/posts/arab-pre-term-infants-often-have-less-than-10-ng-of-vitamin-d-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 741">Arab pre-term infants often have less than 10 ng of vitamin D - 2010</a> also a very sunny climate
 
-* <a href="/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 201">Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010</a>
+* [Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010](/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low)
 
-* <a href="/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 611">Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010</a>
+* [Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010](/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis)
 
 * [Red Alert – one in three pre-teens in Tehran had less than 5 ng of vitamin D – Feb 2011](/posts/red-alert-one-in-three-pre-teens-in-tehran-had-less-than-5-ng-of-vitamin-d)
 

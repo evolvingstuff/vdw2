@@ -145,16 +145,16 @@ If you get some midday sun exposure during the warmer months and regularly consu
 
 * <a href="/posts/vitamin-d-recommendations-by-others-all-30-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D recommendations by others (all > 30 ng)</a>
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 # 68 % of blacks  < 20 ng
 
-{IMG(fileId="1836")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
-{IMG(fileId="1683")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
-{IMG(fileId="1337")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 # Hardly anyone, of any age, gets enough vitamin D from diet or supplements
 
-{IMG(fileId="1208")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">

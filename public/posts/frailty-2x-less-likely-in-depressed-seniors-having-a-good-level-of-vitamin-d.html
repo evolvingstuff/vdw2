@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Frailty 2X less likely in depressed seniors having a good level of vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030345"><link rel=stylesheet href="/css/pagination.css?v=1752030345"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030345"></script><script src="/js/search.js?v=1752030345"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Frailty 2X less likely in depressed seniors having a good level of vitamin D</h1><time>November 16, 2018</time><div data-pagefind-body><h4 id=vitamin-d-deficiency-and-course-of-frailty-in-a-depressed-older-population>Vitamin D deficiency and course of frailty in a depressed older population.</h4><p>Aging Ment Health. 2018 Nov 15:1-7. <a href=https://doi.org/10.1080/13607863.2018.1515885.>doi: 10.1080/13607863.2018.1515885.</a></p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:700px"><ul><li><p><a href=/posts/80-percent-of-the-characteristics-of-frailty-associated-with-low-vitamin-d>80 percent of the characteristics of frailty associated with low vitamin D – May 2013</a></p></li><li><p><a href=/posts/frailty-is-related-to-many-things-such-as-low-vitamin-d>Frailty is related to many things, such as low vitamin D – Sept 2018</a></p></li><li><p><a href=/posts/vitamin-d-in-older-women-fractures-frailty-and-mortality-buchebner-thesis-2017>Vitamin D In Older Women - Fractures, Frailty and Mortality – Buchebner thesis 2017</a></p></li><li><p><a href=/posts/vitamin-d-improves-muscle-strength-reduces-falling-and-reduces-frailty-review>Vitamin D improves muscle strength, reduces falling, and reduces frailty – review March 2015</a></p></li><li><p><a href=/posts/frailty-can-be-avoided-vitamin-d-is-one-of-the-ways>Frailty can be avoided – vitamin D is one of the ways – July 2017</a></p></li><li><p><a href=/posts/frailty-and-vitamin-d-many-studies>Frailty and Vitamin D - many studies</a></p></li><li><p><a href=/posts/frailty-risk-increases-12-percent-for-every-10-ng-less-vitamin-d-meta-analysis>Frailty risk increases 12 percent for every 10 ng less vitamin D – meta-analysis Sept 2018</a></p></li><li><p><a href=/posts/frailty-call-to-action-vitamin-d-is-one-of-the-action-items>Frailty Call to Action: Vitamin D is one of the action items – June 2013</a></p></li><li><p><a href=/posts/frailty-and-low-muscle-mass-both-associated-with-low-vitamin-d>Frailty and low muscle mass both associated with low vitamin D – Aug 2013</a></p></li><li><p><a href=/posts/frailty-9x-more-likely-if-low-vitamin-d>Frailty 9X more likely if low vitamin D – Nov 2015</a></p></li></ul></div><p>van den Berg KS1,2, Arts MHL2,3, Collard RM4, van den Brink RHS2, Comijs HC5, Marijnissen RM2,6, Oude Voshaar RC2.</p><p>1 Department of Psychiatry , St. Antonius Hospital , Nieuwegein , The Netherlands.</p><p>2 University Centre of Psychiatry, University Medical Centre Groningen , University of Groningen , Groningen , The Netherlands.</p><p>3 Dept of Geriatric Psychiatry and Neuropsychiatry , Mental Health Care-West Northern Brabant (GGZ-WNB) , Bergen op Zoom , the Netherlands.</p><p>4 Department of Psychiatry , Radboud University Medical Center , Nijmegen , The Netherlands.</p><p>5 Department of Psychiatry, VU Medical Centre/GGZinGeest , Amsterdam Public Health Research Institute , Amsterdam , The Netherlands.</p><p>6 Department of Old Age Psychiatry , Pro Persona , Renkum , The Netherlands.</p><p>OBJECTIVE: To study the association between vitamin D levels and frailty, its components and course in a depressed sample.</p><p>METHODS:</p><p>Baseline and two-year follow-up data from the depressed sample of the Netherlands Study of Depression in Older persons (NESDO), a prospective observational cohort study, were analyzed. The 378 participants (aged 60-93) had a diagnosis of depression according to DSM-IV criteria. Frailty was defined according to Fried&rsquo;s physical phenotype. 25-OH vitamin D measurement was performed by liquid chromatography - tandem mass spectrometry. Linear and logistic regression analyses were performed, adjusted for covariates.</p><p>RESULTS:</p><p>Higher vitamin D levels were cross-sectionally associated with lower prevalence of frailty (OR 0.64 <span>[95%-CI 0.45 - 0.90]</span>, p = .010), predicted a lower incidence of frailty among non-frail depressed patients (OR 0.51 <span>[95%-CI 0.26 - 1.00]</span>, p=.050), and, surprisingly, the persistence of frailty among frail depressed patients (OR 2.82 <span>[95%-CI 1.23 - 6.49]</span>, p=.015).</p><p>CONCLUSIONS:</p><p>In a depressed population, higher vitamin D levels were associated with lower prevalence and incidence of frailty. Future studies should examine whether the favorable effect of low vitamin D levels on the course of frailty can be explained by confounding or whether unknown pathophysiological mechanisms may exert protective effects.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bone</span>
+<span class=tag>depression</span>
+<span class=tag>Depression</span>
+<span class=tag>falls fractures</span>
+<span class=tag>life span</span>
+<span class=tag>mood disorders</span>
+<span class=tag>mortality</span>
+<span class=tag>Seniors</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>bone, depression, Depression, falls fractures, life span, mood disorders, mortality, Seniors, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030345"></script><script src="/js/tiki-redirects.js?v=1752030345"></script><script src="/js/lightspa.js?v=1752030345"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030345",indexUrl:"/search/search_index.json.gz?v=1752030345"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030345"></script></body></html>

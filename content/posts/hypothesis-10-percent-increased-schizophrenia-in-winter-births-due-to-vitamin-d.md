@@ -45,16 +45,16 @@ Published by Elsevier Ltd. PMID: 2138267
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Overview Schizophrenia and Vitamin D</a>
+* [Overview Schizophrenia and Vitamin D](/posts/overview-schizophrenia-and-vitamin-d)
 
-* <a href="/posts/infants-2x-more-likely-to-get-schizophrenia-if-had-very-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 901">Infants 2X more likely to get schizophrenia if had very low vitamin D – Sept 2010</a>
+* [Infants 2X more likely to get schizophrenia if had very low vitamin D – Sept 2010](/posts/infants-2x-more-likely-to-get-schizophrenia-if-had-very-low-vitamin-d)
 
    * < 16 ng at birth had 2X increased risk of schizophrenia sometime later in life
 
    * Strangely > 20 ng had increased risk. Wonder why - Iron? Magnesium?
 
-* <a href="/posts/rats-show-relationship-of-vitamin-d-deficiency-to-schizophrenia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1024">Rats show relationship of vitamin D deficiency to Schizophrenia – Sept 2010</a>
+* [Rats show relationship of vitamin D deficiency to Schizophrenia – Sept 2010](/posts/rats-show-relationship-of-vitamin-d-deficiency-to-schizophrenia)
 
 * [Schizophrenia and vitamin D have latitude-related genes – Nov 2010](/posts/schizophrenia-and-vitamin-d-have-latitude-related-genes)
 
-{IMG(attId="293")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/latitude-related-genes1.gif" alt="image">

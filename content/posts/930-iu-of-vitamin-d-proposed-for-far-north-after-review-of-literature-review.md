@@ -85,8 +85,8 @@ PMID: 22000709
 
 * [Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010](/posts/cadavers-with-good-skeletons-had-30-ng-of-vitamin-d)
 
-* <a href="/posts/germany-increases-vitamin-d-to-800-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2304">Germany increases vitamin D to 800 IU - Jan 2012</a>
+* [Germany increases vitamin D to 800 IU - Jan 2012](/posts/germany-increases-vitamin-d-to-800-iu)
 
 * <a href="/posts/published-recommendations-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Recommendations of Vitamin D</a> which includes the following graph
 
-{IMG(fileId="1984" max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">

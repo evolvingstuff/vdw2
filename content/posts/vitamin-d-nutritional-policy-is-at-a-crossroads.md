@@ -23,12 +23,12 @@
 
 # Entire poster - impossible to read the detail - click above to see it
 
-{IMG(attId="512")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/crossroads-total.gif" alt="image">
 
 # Introduction - from upper left of the poster session
 
-{IMG(attId="510")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/crossroads1.gif" alt="image">
 
 # Conclusion - from lower right of the poster session
 
-{IMG(attId="511")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/crossroads10.gif" alt="image">

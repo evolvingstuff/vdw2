@@ -52,6 +52,6 @@ CONCLUSIONS: Health care providers and patients should be educated on the advant
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">Overview Toxicity of vitamin D</a> which has the following graph
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) which has the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">

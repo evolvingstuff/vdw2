@@ -1,0 +1,293 @@
+{
+    "title": "Trends in vitamin D status around the world",
+    "slug": "trends-in-vitamin-d-status-around-the-world",
+    "aliases": [
+        "/Trends+in+vitamin+D+status+around+the+world+\u2013+Nov+2021",
+        "/13108"
+    ],
+    "tiki_page_id": 13108,
+    "date": "2021-11-24",
+    "categories": [
+        "Deficiency of Vitamin D",
+        "Increased use of D"
+    ],
+    "tags": [
+        "Deficiency of Vitamin D",
+        "Increased use of D",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "bone mineral density",
+        "breastfed",
+        "child",
+        "childhood obesity",
+        "depression",
+        "depression and pregnancy",
+        "dosage",
+        "falls fractures",
+        "health risk",
+        "high dose",
+        "intervention",
+        "mood disorders",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "pollution",
+        "pregnancy",
+        "rheumatoid arthritis",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
+}
+
+
+JBMR PLUS https://publons.com/publon/10.1002/jbm4.10585.
+
+* Paul Lips p.lips@amsterdamumc.nl Department of Internal Medicine, Endocrine Section, Amsterdam University Medical Centre, location VUMC, , P.O. Box 7057, 1007 MB Amsterdam
+
+* Renate T de JonghDepartment of Internal Medicine, Endocrine Section, Amsterdam University Medical Centre, location VUMC, P.O. Box 7057, 1007 MB Amsterdam
+
+* Natasja M van SchoorDepartment of Epidemiology and Data Science, Amsterdam University Medical Centre, Vrije Universiteit Amsterdam, Amsterdam Public Health
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/trends-table.jpg" alt="image" width="600">
+
+{{< toc >}}
+
+---
+
+#### Abstract
+
+Vitamin D status varies across all continents and countries. Vitamin D status usually is adequate in Latin America and Australia, but in contrast very low in the Middle East and some countries in Asia. Trends in vitamin D status, whether it improves or declines over the years, carry important messages. Trends usually are small, but can be predictors and indicators of general health. Vitamin D status has improved in the older population in the USA, and improvement relates to dairy use and vitamin D supplements. To the contrary, vitamin D status has declined in the Inuit population of Canada due to change from a traditional fish diet to a western diet. A large improvement was seen in Finland after mandatory fortification of dairy products was introduced. Determinants of decline are less sun exposure, increased use of sunscreen, increase of BMI, less physical activity and poor socioeconomic status. Determinants of increase are food fortification with vitamin D and vitamin D supplements. Food fortification can lead to a population-wide increase in vitamin D status as shown by the Finnish example.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/trends-in-vitamin-d-status-around-the-world.pdf">Download the PDF from VitaminDWiki</a>** 
+
+#### Introduction
+
+Extensive reviews on vitamin D status in the world have been published over the last decades. While vitamin D status, as reflected by circulating 25-hydroxyvitamin D concentrations, can be considered satisfactory in some countries, vitamin D deficiency still is very common in many countries throughout the world and in many risk groups. Guidelines have been published by the Institute of Medicine(1), the Endocrine Society(2), the European Food Safety Authority(3), the European Calcified Tissue Society(4). What is apparent from these documents is that no consensus exists on the definition of vitamin D deficiency and the desirable serum 25-hydroxyvitamin D concentration. Vitamin D status appears quite stable in most countries, and percentages of vitamin D deficient subjects have varied little during the past decades. Nevertheless, the use of supplements and the fortification of foods have generated important positive changes in some countries. On the other side, trends of increasing BMI and decreasing physical activity may compromise vitamin D status. In this article we will give an overview of changing trends in vitamin D status in different regions and countries and the determinants that play a role in causing these changes. It is a narrative review. This article is part of a special issue of JBMR Plus as a tribute to Dr Anthony Norman, who has made numerous contributions to the vitamin D field and has been a great stimulator of laboratory and clinical investigation and a great mentor to many young scientists with always kind words and stimulating remarks. This article shows that both positive and negative trends in vitamin D status can occur, and these may be a reassurance or a warning for public health and policy makers.
+
+#### Methodological issues
+
+We searched in PubMed articles on “trends”, “temporal changes”, “vitamin D status”, “25- hydroxyvitamin D”, “determinants” and “longitudinal studies”, covering the last 20 years. Vitamin D status is usually assessed by measuring the serum 25-hydroxyvitamin D (25(OH)D) concentration. This is done by radioimmunological methods, or, currently the gold standard, liquid chromatography and tandem mass spectrometry (LC-MS/MS)(5). The results of radioimmunoassays show a large variation, much more than results of LC-MS/MS. This was demonstrated by a study using quality control data of Vitamin D External Quality Assessment Scheme (DEQAS) in which 7 different methods were compared. Results for radioimmunological methods varied up to +/- 15% from the mean, while results for LC- MS/MS varied much less, around +/- 5 % from the mean(6). The standardization programme DEQAS has done excellent work to decrease variability(7), and more recently the Vitamin D Standardization Programme (VDSP) has brought this forward by using adequate laboratory standards(8). Longitudinal and trend studies are appropriate to compare current vitamin D status with vitamin D status one or more decades ago. Studies from different regions and time periods can be compared by remeasuring frozen samples and standardized by VDSP(8). Of course, global studies using a central lab facility for serum 25(OH)D can also be used to compare different countries (9). Other methodological problems arise from the assessment of sunshine exposure and vitamin D content of food(10). Vitamin D-effective UVB availability depends on latitude, time of the day and atmospheric conditions while the actual exposure and response of the skin to this UVB in terms of vitamin D production is determined by skin pigmentation, clothing and sunscreen use. The use of vitamin D supplements can be very effective at increasing circulating 25(OH)D , but lack of compliance decreases the effect(11). For this article, vitamin D deficiency is defined as serum 25(OH)D<50 nmol/1, and severe vitamin D deficiency is defined as serum 25(OH)D<30 nmol/1.
+
+#### Current vitamin D status
+
+Recent reviews of worldwide vitamin D status(12"14) show a better vitamin D status in North and Latin America and Australia than in Europe, a better vitamin D status in Southeastern Asia than in India and Northern Asia, and a better vitamin D status in Central Africa than in Northern and Southern Africa. The poorest vitamin D status was generally observed in the Middle East. Within Europe, a better vitamin D status was observed in Northern Europe than in Southern and Eastern European countries(4). A global study on prevalence and disease burden of vitamin D deficiency showed high percentages of severe vitamin D deficiency in infants in India (61%), Iran (86%) and Turkey (51%) while vitamin D deficiency was present in 90% or higher in these countries(15).
+
+#### Temporal and regional trends in vitamin D status North America
+
+. The National Health and Nutrition Examination Survey (NHANES) has been used to study trends. Ginde and colleagues compared serum 25(OH)D from NHANES collected from 1988 to 1994 with NHANES data from 2001 to 2004(16). A decrease of serum 25(OH)D in all age groups, both sexes and all ethnicities was observed, ranging from 7.5 to 17.5 nmol/1. Schleicher et al repeated and extended the study by using LC-MS/MS calibrated to a standard reference(17). All data were standardized and adjusted. According to this study, the serum 25(OH)D did not show a time trend from 1988 to 2006, in contrast to the previous analysis. Thereafter the mean serum 25(OH)D from 2007 to 2010 was 5 to 6 nmol/1 higher. The largest increases (up to 11 nmol/1) were seen in older white women and in vitamin D supplement users(17). The percentage at risk for vitamin D deficiency (in this study: serum 25(OH)D < 30 nmol/1) was also estimated in NHANES in 2011-2014(18). The percentage at risk for deficiency was 0.5 % in children of 1-5 yr, 7.6 % in adults from 20-39 yr and 2.9 % in adults > 40 yr. The risk of deficiency was highest among blacks. From 2003 to 2014 there was no change in the risk of vitamin D deficiency. The risk of inadequacy (serum 25(OH)D 30-49 nmol/l) declined from 21 to 17.7 %(18). Milk consumption in participants of NHANES resulted in a significantly higher serum 25(OH)D around 2 to 7 nmol/l(19). In the Study of Women's Health Across the Nation serum 25(OH)D was measured longitudinally in the same women in 1998-2000 and 2009-2011. Serum 25(OH)D increased from 53.8 to 70.0 nmol/l and the prevalence of vitamin D deficiency decreased from 20.4 % to 9.7 %(20). This was mainly due to vitamin D supplement use, which increased from 40.8 to 67.1 %. A negative trend was observed in Texas. The Dallas Heart Study included 2045 participants in which serum 25(OH)D was measured in 2000-2002 and in 2007-2009. Mean serum 25(OH)D decreased from 42.7 to 39.4 nmol/l. The prevalence of vitamin D deficiency (serum 25(OH)D < 50 nmol/l) increased from 60 to 66 % although vitamin D supplementation increased from 7 to 23 % in that time period. Predictors of a negative change were male sex, obesity, and nonuse of vitamin D supplements(21). In general in the USA, the use of multivitamins decreased between 1999 and 2012, but the use of vitamin D supplements increased from 5.1 to 19 %(22). Sun protection behavior improved in adolescents between 1998 and 2004 with possible negative effects for vitamin D status(23). An increased prevalence of rickets was observed in Minnesota during the last two decades(24).
+
+In **Canada** , vitamin D status was studied in the Canadian Multicenter Osteoporosis Study during 10 years starting in 1995-1997. Serum 25(OH)D increased by 9.3 nmol/l in women and by 3.5 nmol/l in men; serum 25(OH)D was lower than 50 nmol/l in 29.7 % in 1995-1997 and 19.8 % 10 years latef25/ A downward trend was observed in Canadian children, 6-18 years old. In 2007/2009, vitamin D deficiency (serum 25(OH)D < 50 nmol/l) was found in 21 %, while in 2012/2013 the prevalence increased to 32 %. Fish and milk consumption decreased in this time period, milk being the main dietary vitamin D source(26). Vitamin D status was assessed in the Inuit population of Greenland in 1987 and 2005-2010. Serum 25(OH)D decreased in all age groups from 32 to 58% in this period. The lowest mean serum 25(OH)D was observed in the 18-29 yr group (30.7 nmol/l). Mean serum 25(OH)D increased with age. Serum 25(OH)D was lower than 50 nmol/l in 77 % of the 18-29 yr old(27). A major determinant in this and other studies was traditional diet, consisting of fish, seal and whale(28). The decrease in serum 25(OH)D over 20 years in the Inuit can be explained by the replacement of the traditional diet by western diet. Two trials with food fortification of yogurt and cheddar cheese in Canadese children showed small significant differences between intervention and control group, but mean baseline serum 25(OH)D in these children was around 60 nmol/l or higher(29 30).
+
+#### Latin America
+
+Vitamin D status usually is better in Middle and South America than in North America, maybe with the exception of the more southern latitudes(14). Data on trends in vitamin D status, either decline or increase, are not available. The projected increase of the total ozone content of the atmosphere during the coming decades will lead to a decrease of the ultraviolet index at higher latitudes in South America and Antarctica, and this can have a negative impact on vitamin D status(31).
+
+#### Europe
+
+In the UK, an increase in vitamin D status between 2008 and 2016 was attributed to the prescription of supplements by primary care doctors(32). On the other side, an increase in rickets diagnosis was seen in hospital discharge data(33). The increase was restricted to children with a non-western immigrant background. A sharp decrease in the prevalence of vitamin D deficiency from 55 % in 2014 to 14 % in Irish elite athletes was observed in Ireland, also attributed to the use of supplements(34). In northern Sweden, vitamin D status was assessed in more than 11,000 men and women between 1986 and 2014. The overall mean serum 25(OH)D was 49.8 ± 23.8 nmol/l. There was no clear upward or downward trend in serum 25(OH)D concentration between 1986 and 2014(35). In Poland, vitamin D status was assessed in more than 3000 neonates and infants (mean age 8 months). The mean 25(OH)D concentration was 129.5 nmol/l between 1981 and 1999. It decreased to 107 nmol/l in 200001 and to 72 nmol/l in 2010-11(36). The decrease can be explained by a decrease of the supplementation advice from 2500 IU/d to 1000 IU/d (in breastfed children 400 IU/d). A clear improvement of vitamin D status was shown in a cohort of 1486 osteoporotic French women treated in a fracture liaison service. The mean serum 25(OH)D concentration increased from 17.6 to 48.4 nmol/l between 2005-8 and 2009-12 due to vitamin D suppl ementati on(37).
+
+In the Longitudinal Aging Study Amsterdam, serum 25(OH)D was measured twice in the same participants. The mean serum 25(OH)D at baseline was 56.5 nmol/L in the younger cohort and 51.1 nmol/L in the older cohort. In the younger cohort, an increase in the mean serum 25(OH)D levels of 4 nmol/L in 6 years was observed; in the older cohort, a decrease in the mean serum 25(OH)D concentration of 4 nmol/L in 13 years was observed(38).
+
+In Germany, the results of three nationwide studies were standardized according to VDSP(39). The data of two studies in adults 18-79 years, in 1997-1999 and 2008-2011, respectively, and partially in the same subjects showed a similar percentage of severe vitamin D deficiency of 15 %. However, the percentage of serum 25(OH)D between 30 and 50 nmol/l was higher in the more recent study (41%) than in the earlier study (27%), leading to the conclusion that vitamin D status has not improved, but slightly deteriorated over this time interval(39).
+
+The most interesting studies are from countries where a country-wide strategy to improve vitamin D status was used. In Finland mandatory fortification of milk and dairy products was started in 2003 with 200 IU per liter of milk and yogurt and after a few years it was increased to 400 IU/1. Mean serum 25(OH)D increased from 48 nmol/l in 2000 to 65 nmol/l in 2011.
+
+In total, 91 % of dairy product consumers who did not use supplements reached a serum 25(OH)D concentration > 50 nmol/l. The prevalence of vitamin D deficiency in supplement non-users decreased from 58.5 to 13.7 % within a few years(40). In Turkey, a nation-wide vitamin D supplementation campaign was started in 2005 to decrease the incidence of rickets in infants and toddlers. Vitamin D3 400 IU per day was given for free to all neonates. The incidence of rickets decreased from 6 % to 0.1 % in a few years(41).
+
+A randomized controlled trial with fortified milk in German children showed an increase of serum 25(OH)D of 8 to 15 nmol/l depending on season(42). A similar RCT in Swedish children of 400 and 800 IU added to 200 g of milk showed mean increases of serum 25(OH)D of 13 nmol/l and 24 nmol/l, respectively, after 3 months(43).
+
+#### Middle East
+
+The prevalence of vitamin D deficiency still is very high in the Middle East(4). A recent study from Saudi Arabia in 10,709 patients showed a prevalence of severe vitamin D deficiency (serum 25(OH)D < 25 nmol/l) of 31.5 %. Vitamin D deficiency was more common in women than in men. Severe deficiency was more prevalent in adolescents than in other age groups (49.2 % and 30.9% respectively). The causes are traditional clothing, low sunshine exposure and lack of vitamin D fortified foods(44). Vitamin D deficiency still is common in Lebanon. A database of 9147 subjects evaluated between 2000-2004 and 2007-2008 showed a prevalence of vitamin D deficiency (serum 25(OH)D < 50 nmol/l) of 58-62 % in children, 44-60 % in adults and 41-62% in the elderly. The mean serum 25(OH)D increased 5-12 nmol/l in children and adults between the two time periods(45). A recent study of more than 150,000 serum samples standardized with cross-calibration to LC-MS/MS confirmed the increase of serum 25(OH)D between 2009 and 2016 of 2.2 nmol/l/year in children, 3 nmol/l/year in adults and 6.5 nmol/l/year in the elderly(46). In a longitudinal study in Iran, mean serum 25(OH)D increased from 51 nmol/l in 2001 to 54 nmol/l in 2007 and to 62 nmol/l in 2013. The prevalence of vitamin D deficiency (serum 25(OH)D < 25 nmol/l) decreased from 30 % to 24 % in the time period of 12 years(47). The positive trend was attributed to more awareness of vitamin D deficiency, more screening and more vitamin D supplementation.
+
+#### Africa
+
+A recent systematic review on the prevalence of vitamin D deficiency reported a mean serum 25(OH)D of 67.8 nmol/l(48). Serum 25(OH)D was lower than 30 nmol/l in 18.5% and lower than 50 nmol/l in 34.2 %. Mean serum 25(OH)D was lower in northern African countries than in sub Saharan African countries and South Africa. For example, mean serum 25(OH)D was 24.2 nmol/l in Algeria, 44.5 nmol/l in Morocco, and 46.5 nmol/l in Ethiopia(48). Either increasing or decreasing trends in vitamin D status were not observed. In Morocco a double blind study with fortified milk, 3 pg (120 IU) in 200 ml, led to a sharp decrease in vitamin D deficiency from 47.6 % to 11.8% in the fortified group, while 33% of participants in the non- fortified group were still deficient after 9 months(49).
+
+#### Asia
+
+An analysis of 26,339 serum 25(OH)D values, obtained in a tertiary care hospital in New Delhi, India, showed an increase of the mean serum 25(OH)D from 48 nmol/l in 2008 to 54 nmol/l in 2016. The prevalence of vitamin D deficiency (serum 25(OH)D< 50 nmol/l) decreased from 72 % to 54 % in women and from 57% to 52 % in men. The improvement was attributed to greater awareness and more vitamin D supplementation. In some countries a negative trend in vitamin D status was observed. A study from South Korea showed a very significant decrease of vitamin D status between 2008 and 2014(51). The mean serum 25(OH)D in 2008 was 53 nmol/l in men and 46 nmol/l in women, decreasing in 2014 to 43 nmol/l in men and 39 nmol/l in women. The prevalence of vitamin D deficiency increased over the same time period. The cause of the decrease in vitamin D status is uncertain, but increased urbanization, air pollution, and less outdoor occupation were mentioned by the authors. In the Murakami Cohort Study in Japan, 1044 subjects were followed for 5 years. Serum 25(OH)D decreased 4.0 nmol/l in men and 0.4 nmol/l in women. The decline in men was related to more university education and to less outdoor occupation(52). A randomized controlled trial with fortified milk (300 IU/710 ml) in Mongolian children showed increases of serum 25(OH)D of 30 and 47 nmol/l after 1.6 months, while serum 25(OH)D stayed at 20 nmol/l in the control group receiving non- fortified milk(53).
+
+#### Australia, New Zealand and Oceania
+
+Vitamin D status is in general better in Australia and the Pacific islands than in Asian countries(14). Vitamin D status is less in New Zealand than in Australia due to the more southern latitude.
+
+Persons who tended to stay in the shade had lower serum 25(OH)D levels than those who never stayed in the shade (62.5 vs. 68.8 nmol/L respectively, p=0.01), and this association remained in persons who spent less than 50% (p=0.02) but not in those who spent more than 50% of their time outdoors(54). Trends in sun protection behaviour were not observed in a study between 2007 and 2012, except an increase in sunscreen use(55). In another study a decline in skin covering around swimming pools and beaches was observed between 2006 and 2019(56).
+
+#### Determinants of change in vitamin D status
+
+Trends in vitamin D status, either decline or increase, are determined by many factors (Figure 1). A negative trend of vitamin D status with aging was seen in the Longitudinal Aging Study Amsterdam(38). Of course, vitamin D deficiency is very common in the elderly(57). Little data exists on trends in sun exposure. Sun protection behavior increases somewhat according to American and Australian studies(23,55). However the Australian data are ambiguous(56). The use of sunscreen may increase, leading to lower vitamin D production(58). Clothing style is an important determinant of vitamin D status according to studies in the Middle East, Jordan(59) and Turkey(60). Total skin covering clothes may also explain the very poor vitamin D status in Saudi Arabia(61,62). Urbanization also may decrease vitamin D status. Vitamin D status usually is better in rural than in urban areas as observed in Mexico(63), Malaysia(64), South Africa(65), Korea(66). As vitamin D status is less in obese people(67), increasing obesity may deteriorate vitamin D status. A very large multicenter survey found a trend for increase of BMI in children and adolescents(68). Contrary to expectation, BMI rose more in rural than in urban areas(69). This effect counteracts the higher vitamin D status in rural vs urban areas. In the Longitudinal Aging Study Amsterdam (LASA), subsequent cohorts from 1992/1993 to 2002/2003 to 2012/2013 of participants of 55-64 years of age showed that unhealthy life style increased, visible by increasing body mass index and decreasing physical activity(70). Both factors may contribute to a decline in vitamin D status. In Japan, decline in vitamin D status was less in men with an outdoor occupation and the highest physical activity(52). Serum 25(OH)D also relates positively to socioeconomic status as measured by a housing score, Houses Index(71).
+
+Nutritional changes may also cause a decline in vitamin D status. The Inuit in Canada changed from a traditional to western diet and vitamin D status deteriorated. The traditional Inuit diet contains fish and sea mammals, both rich in vitamin D(28). The effects of the mandatory fortification of dairy products with vitamin D was particularly well documented in Finland, where mean serum 25(OH)D increased with 17 nmol/l(40). The voluntary fortification of dairy products in the USA may explain the better vitamin D status in the USA than in Europe. Randomized controlled trials with fortified milk, yogurt or cheese were highly successful  Vitamin D-fortified orange juice was studied in the USA and increased serum 25(OH)D about 25 nmol/l(73). It now is available in many countries. Fortification of flour and cooking oil is practiced in the Middle East(74-75/ and fortification of milk, oil and rice with vitamin D is now practiced in India(76). Modeling of fortification policies lead to the conclusion that several methods can be successful. Of course, the use of vitamin D supplements can also increase vitamin D status (see above). A very successful supplementation campaign was done among neonates in Turkey to eradicate rickets(41).
+
+#### Conclusions
+
+Trends in vitamin D status, either decline or increase, can be observed in several countries under various circumstances. Usually these trends are small, but they can be important predictors for future development and indicators of general health change. Small improvements of vitamin D status as observed in the USA can be caused by vitamin D supplement use. A large improvement of vitamin D status as observed in Finland is due to fortification of dairy products with vitamin D. A decline in vitamin D status can be caused by nutritional changes as is the case in the Inuit population in Canada. In general, a decrease in vitamin D status can be due to an increase in BMI and decrease in physical activity, usually associated with less time spent outdoors. Such a trend is a warning for health authorities and policy makers.
+
+##### References
+
+1. Ross AC, Manson JE, Abrams SA, Aloia JF, Brannon PM, Clinton SK, et al. The 2011 report on dietary reference intakes for calcium and vitamin D from the Institute of Medicine: what clinicians need to know. J Clin Endocrinol Metab. 1/2011 2011;96(1):53-8.
+
+1. Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney RP, et al. Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 7/2011 2011;96(7):1911- 30.
+
+1. European Food Safety Authority EEFS. Scientific opinion on dietary reference values for vitamin D. EFSA journal. 2016;14(10):4547.
+
+1. Lips P, Cashman KD, Lamberg-Allardt C, Bischoff-Ferrari HA, Obermayer-Pietsch BR, Bianchi M, et al. MANAGEMENT OF ENDOCRINE DISEASE: Current vitamin D status in European and Middle East countries and strategies to prevent vitamin D deficiency; a position statement of the European Calcified Tissue Society. Eur I Endocrinol. Feb 1 2019;180:23-54.
+
+1. Binkley N, Carter GD. Toward Clarity in Clinical Vitamin D Status Assessment: 25(OH)D Assay Standardization. Endocrinol Metab Clin North Am. Dec 2017;46(4):885-99.
+
+1. Barake M, Daher RT, Salti I, Cortas NK, Al-Shaar L, Habib RH, et al. 25- Hydroxyvitamin D assay variations and impact on clinical decision making. I Clin Endocrinol Metab. 2012 2012;97:835-43.
+
+1. Carter GD, Berry I, Durazo-Arvizu R, Gunter E, lones G, lones I, et al. Hydroxyvitamin D assays: An historical perspective from DEQAS. I Steroid Biochem Mol Biol. Mar 2018;177:30-5. Epub 2017/07/25.
+
+1. Cashman KD, Dowling KG, Skrabakova Z, Gonzalez-Gross M, Valtuena I, De HS, et al. Vitamin D deficiency in Europe: pandemic? Am I Clin Nutr. 4/2016 2016; 103(4): 1033-44.
+
+1. Lips P, Duong T, Oleksik A, Black D, Cummings S, Cox D, et al. A global study of vitamin D status and parathryoid function in postmenopausal women with osteoporosis: Baseline data from the Multiple Outcomes of Raloxifene Evaluation Clinical Trial. I Clin Endocrinol Metab. 2001 2001;86:1212-21.
+
+1. Schmid A, Walther B. Natural vitamin D content in animal products. Adv Nutr. lui 1 2013;4(4):453-62. Epub 2013/07/17.
+
+1. de Koning El, Lips P, Penninx B, Elders PIM, Heijboer AC, den Heijer M, et al. Vitamin D supplementation for the prevention of depression and poor physical function in older persons: the D-Vitaal study, a randomized clinical trial. Am I Clin Nutr. Nov 1 2019; 110(5): 1119-30. Epub 2019/07/25.
+
+1. Wahl DA, Cooper C, Ebeling PR, Eggersdorfer M, Hilger I, Hoffman K, et al. A global representation of vitamin D status in healthy populations. Arch Osteoporosis. 2012 2012;7:155-72.
+
+1. Hilger I, Friedel A, Herr R, Rausch T, Roos F, Wahl DA, et al. A systematic review of vitamin D status in populations worldwide. BrINutr. 1/14/2014 2014; 11 l(l):23-45.
+
+1. van Schoor N, Lips P. Global Overview of Vitamin D Status. Endocrinol Metab Clin North Am. Dec 2017;46(4):845-70.
+
+1. Roth DE, Abrams SA, Aloia I, Bergeron G, Bourassa MW, Brown KH, et al. Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries. Ann N Y Acad Sci. Oct 2018;1430(l):44-79. Epub 2018/09/19.
+
+1. Ginde AA, Liu MC, Camargo CA, Ir. Demographic differences and trends of vitamin D insufficiency in the US population, 1988-2004. Arch Intern Med. Mar 23 2009;169(6):626-32. Epub 2009/03/25.
+
+1. Schleicher RL, Sternberg MR, Lacher DA, Sempos CT, Looker AC, Durazo-Arvizu RA, et al. The vitamin D status of the US population from 1988 to 2010 using standardized serum concentrations of 25-hydroxyvitamin D shows recent modest increases. Am J Clin Nutr. Aug 2016;104(2):454-61. Epub 2016/07/08.
+
+1. Herrick KA, Storandt RJ, Afful J, Pfeiffer CM, Schleicher RL, Gahche JJ, et al. Vitamin D status in the United States, 2011-2014. Am J Clin Nutr. Jul 1 2019;110(1):150-7. Epub 2019/05/12.
+
+1. Torres-Gonzalez M, Cifelli CJ, Agarwal S, Fulgoni VL, 3rd. Association of Milk Consumption and Vitamin D Status in the US Population by Ethnicity: NHANES 2001-2010 Analysis. Nutrients. Dec 2 2020;12(12). Epub 2020/12/06.
+
+1. Mitchell DM, Ruppert K, Udupa N, Bassir F, Darakananda K, Solomon DH, et al. Temporal increases in 25-hydroxyvitamin D in midlife women: Longitudinal results from the Study of Women's Health Across the Nation. Clin Endocrinol (Oxf). Jul 2019;91(l):48-57. Epub 2019/04/12.
+
+1. Mirfakhraee S, Ayers CR, McGuire DK, Maalouf NM. Longitudinal changes in serum 25-hydroxyvitamin D in the Dallas Heart Study. Clin Endocrinol (Oxf). Sep 2017;87(3):242-8. Epub 2017/05/16.
+
+1. Kantor ED, Rehm CD, Du M, White E, Giovannucci EL. Trends in Dietary Supplement Use Among US Adults From 1999-2012. JAMA. Oct 11 2016;316(14): 1464-74. Epub 2016/10/12.
+
+1. Cokkinides V, Weinstock M, Glanz K, Albano J, Ward E, Thun M. Trends in sunburns, sun protection practices, and attitudes toward sun exposure protection and tanning among US adolescents, 1998-2004. Pediatrics. Sep 2006;118(3):853-64. Epub 2006/09/05.
+
+1. Thacher TD, Fischer PR, Tebben PJ, Singh RJ, Cha SS, Maxson JA, et al. Increasing incidence of nutritional rickets: a population-based study in Olmsted County, Minnesota. Mayo Clin Proc. Feb 2013;88(2): 176-83. Epub 2013/02/05.
+
+1. Berger C, Greene-Finestone LS, Langsetmo L, Kreiger N, Joseph L, Kovacs CS, et al. Temporal trends and determinants of longitudinal change in 25-hydroxyvitamin D and parathyroid hormone levels. J Bone Miner Res. Jun 2012;27(6): 1381-9. Epub 2012/03/13.
+
+1. Munasinghe LL, Yuan Y, Willows ND, Faught EL, Ekwaru JP, Veugelers PJ. Vitamin D deficiency and sufficiency among Canadian children residing at high latitude following the revision of the RDA of vitamin D intake in 2010 - CORRIGENDUM. Br J Nutr. Apr 2017; 117(7): 1052-4. Epub 2017/05/24.
+
+1. Beck-Nielsen SS, Jensen TK, Gram J, Brixen K, Brock-Jacob sen B. Nutritional rickets in Denmark: a retrospective review of children's medical records from 1985 to 2005. Eur J Pediatr. Aug 2009;168(8):941-9.
+
+1. Andersen S, Laurberg P, Hvingel B, Kleinschmidt K, Heickendorff L, Mosekilde L. Vitamin D status in Greenland is influenced by diet and ethnicity: a population-based survey in an Arctic society in transition. Br J Nutr. 2013 2013;109:928-35.
+
+1. Brett NR, Lavery P, Agellon S, Vanstone CA, Maguire JL, Rauch F, et al. Dietary vitamin D dose-response in healthy children 2 to 8 y of age: a 12-wk randomized controlled trial using fortified foods. Am J Clin Nutr. Jan 2016; 103(1): 144-52. Epub 2015/12/18.
+
+1. Brett NR, Parks CA, Lavery P, Agellon S, Vanstone CA, Kaufmann M, et al. Vitamin D status and functional health outcomes in children aged 2-8 y: a 6-mo vitamin D randomized controlled trial. Am J Clin Nutr. Mar 1 2018;107(3):355-64. Epub 2018/03/23.
+
+1. Correa MP, Yamamoto ALC, Moraes GR, Godin-Beekmann S, Mahe E. Changes in the total ozone content over the period 2006 to 2100 and the effects on the erythemal and vitamin D effective UV doses for South America and Antarctica. Photochem Photobiol Sci. Dec 1 2019;18(12):2931-41. Epub 2019/11/07.
+
+1. Wan M, Horsfall LJ, Basatemur E, Patel JP, Shroff R, Rait G. Vitamin D prescribing in children in UK primary care practices: a population-based cohort study. BMJ Open. Dec 3 2019;9(12):e031870. Epub 2019/12/05.
+
+1. Goldacre M, Hall N, Yeates DG. Hospitalisation for children with rickets in England: a historical perspective. Lancet. Feb 15 2014;383(9917):597-8. Epub 2014/02/18.
+
+1. Todd J, Madigan S, Pourshahidi K, McSorley E, Laird E, Healy M, et al. Vitamin D Status and Supplementation Practices in Elite Irish Athletes: An Update from 2010/2011. Nutrients. Aug 9 2016;8(8). Epub 2016/08/16.
+
+1. Summerhays E, Eliasson M, Lundqvist R, Soderberg S, Zeller T, Oskarsson V. Time trends of vitamin D concentrations in northern Sweden between 1986 and 2014: a population-based cross-sectional study. Eur J Nutr. Oct 2020;59(7):3037-44. Epub 2019/11/23.
+
+1. Wojcik M, Jaworski M, Pludowski P. 25(OH)D Concentration in Neonates, Infants, and Toddlers From Poland-Evaluation of Trends During Years 1981-2011. Front Endocrinol (Lausanne). 2018;9:656. Epub 2018/11/24.
+
+1. Amouzougan A, Deygat A, Trombert B, Constant E, Denarie D, Marotte H, et al. Spectacular improvement in vitamin D status in elderly osteoporotic women: 8-year analysis of an osteoporotic population treated in a dedicated fracture liaison service. Osteoporos Int. Dec 2015;26(12):2869-75. Epub 2015/06/25.
+
+1. van Schoor NM, Knol DL, Deeg DJ, Peters FP, Heijboer AC, Lips P. Longitudinal changes and seasonal variations in serum 25-hydroxyvitamin D levels in different age groups: results of the Longitudinal Aging Study Amsterdam. Osteoporos Int. May 2014;25(5):1483-91.
+
+1. Rabenberg M, Scheidt-Nave C, Busch MA, Thamm M, Rieckmann N, Durazo-Arvizu RA, et al. Implications of standardization of serum 25-hydroxyvitamin D data for the evaluation of vitamin D status in Germany, including a temporal analysis. BMC Public Health. Jul 6 2018; 18(1):845. Epub 2018/07/08.
+
+1. Jaaskelainen T, Itkonen ST, Lundqvist A, Erkkola M, Koskela T, Lakkala K, et al. The positive impact of general vitamin D food fortification policy on vitamin D status in a representative adult Finnish population: evidence from an 11-y follow-up based on standardized 25-hydroxyvitamin D data. Am J Clin Nutr. Jun 2017;105(6):1512-20.
+
+1. Hatun S, Ozkan B, Bereket A. Vitamin D deficiency and prevention: Turkish experience. ACTA Paediatrica. 2011 2011;100:1195-9.
+
+1. Hower J, Knoll A, Ritzenthaler KL, Steiner C, Berwind R. Vitamin D fortification of growing up milk prevents decrease of serum 25-hydroxyvitamin D concentrations during winter: a clinical intervention study in Germany. Eur J Pediatr. Dec
+
+1. 2013; 172(12): 1597-605. Epub 2013/07/16.
+
+1. Ohlund I, Lind T, Hernell O, Silfverdal SA, Karlsland Akeson P. Increased vitamin D intake differentiated according to skin color is needed to meet requirements in young Swedish children during winter: a double-blind randomized clinical trial. Am J Clin Nutr. Jul 2017;106(1):105-12. Epub 2017/06/16.
+
+1. Hussain AN, Alkhenizan AH, El Shaker M, Raef H, Gabr A. Increasing trends and significance of hypovitaminosis D: a population-based study in the Kingdom of Saudi Arabia. Arch Osteoporos. 2014;9:190.
+
+1. Hoteit M, Al-Shaar L, Yazbeck C, Bou Sleiman M, Ghalayini T, Fuleihan Gel H. Hypovitaminosis D in a sunny country: time trends, predictors, and implications for practice guidelines. Metabolism. Jul 2014;63(7):968-78.
+
+1. Saad RK, Akiki VC, Rahme M, Ajjour S, Assaad M, El-Hajj Fuleihan GA. Time trends and predictors of hypovitaminosis D across the life course: 2009-2016. Metabolism. Apr 2020;105:154138. Epub 2020/01/11.
+
+1. Khosravi-Boroujeni H, Sarrafzadegan N, Sadeghi M, Roohafza H, Ng SK, Pourmogaddas A, et al. Prevalence and Trends of Vitamin D Deficiency among Iranian Adults: A Longitudinal Study from 2001-2013. J Nutr Sci Vitaminol (Tokyo). 2017;63(5):284-90. Epub 2017/12/12.
+
+1. Mogire RM, Mutua A, Kimita W, Kamau A, Bejon P, Pettifor JM, et al. Prevalence of vitamin D deficiency in Africa: a systematic review and meta-analysis. Lancet Glob Health. Jan 2020;8(1):e134-e42. Epub 2019/12/02.
+
+1. Benjeddou K, Qandoussi L, Mekkaoui B, Rabi B, El Hamdouchi A, Raji F, et al.
+
+1. Effect of multiple micronutrient fortified milk consumption on vitamin D status among school-aged children in rural region of Morocco. Appl Physiol Nutr Metab. May 2019;44(5):461-7. Epub 2018/10/05.
+
+1. Raizada N, Goyal A, Singla R, Sreenivas V, Gupta N, Khadgawat R. Changing Trend in Vitamin D Status from 2008 to 2016: An Experience from a Tertiary Care Institute in North India. Indian J Endocrinol Metab. Mar-Apr 2020;24(2): 150-4. Epub 2020/07/24.
+
+1. Park JH, Hong IY, Chung JW, Choi HS. Vitamin D status in South Korean population: Seven-year trend from the KNHANES. Medicine (Baltimore). Jun 2018;97(26):el 1032. Epub 2018/06/29.
+
+1. Nakamura K, Kitamura K, Watanabe Y, Saito T, Takahashi A, Kobayashi R, et al. Predictors of decline in vitamin D status in middle-aged and elderly individuals: a 5- year follow-up study. Br JNutr. Oct 14 2020;124(7):729-35. Epub 2020/05/08.
+
+1. Rich-Edwards JW, Ganmaa D, Kleinman K, Sumberzul N, Holick MF, Lkhagvasuren T, et al. Randomized trial of fortified milk and supplements to raise 25- hydroxyvitamin D concentrations in schoolchildren in Mongolia. Am J Clin Nutr. Aug 2011;94(2):578-84. Epub 2011/06/24.
+
+1. Jayaratne N, Russell A, van der Pols JC. Sun protection and vitamin D status in an Australian subtropical community. Prev Med. Aug 2012;55(2): 146-50. Epub 2012/05/29.
+
+1. Koch S, Pettigrew S, Minto C, Slevin T, Strickland M, Lin C, et al. Trends in sun- protection behaviour in Australian adults 2007-2012. Australas J Dermatol. May 2017;58(2): 111-6. Epub 2016/01/19.
+
+1. Haynes A, Nathan A, Dixon H, Wakefield M, Dobbinson S. Sun-protective clothing and shade use in public outdoor leisure settings from 1992 to 2019: Results from cross-sectional observational surveys in Melbourne, Australia. Prev Med. Oct 2020; 139:106230. Epub 2020/08/10.
+
+1. Lips P. Vitamin D deficiency and secondary hyperparathyroidism in the elderly: consequences for bone loss and fractures and therapeutic implications. Endocr Rev. 8/2001 2001;22(4):477-501.
+
+1. Passeron T, Bouillon R, Callender V, Cestari T, Diepgen TL, Green AC, et al. Sunscreen photoprotection and vitamin D status. Br J Dermatol. Nov 2019;181(5):916-31. Epub 2019/05/10.
+
+1. Mallah EM, Hamad MF, Elmanaseer MA, Qinna NA, Idkaidek NM, Arafat TA, et al. Plasma concentrations of 25-hydroxyvitamin D among Jordanians: Effect of biological and habitual factors on vitamin D status. BMC Clin Pathol. Aug 4 2011; 11:8.
+
+1. Buyukuslu N, Esin K, Hizli H, Sunal N, Yigit P, Garipagaoglu M. Clothing preference affects vitamin D status of young women. Nutr Res. Aug 2014;34(8):688-93.
+
+1. Ardawi MS, Sibiany AM, Bakhsh TM, Qari MH, Maimani AA. High prevalence of vitamin D deficiency among healthy Saudi Arabian men: relationship to bone mineral density, parathyroid hormone, bone turnover markers, and lifestyle factors. Osteoporos Int. 2/2012 2012;23(2):675-86.
+
+1. Al Shaikh AM, Abaalkhail B, Soliman A, Kaddam I, Aseri K, Al Saleh Y, et al. Prevalence of Vitamin D Deficiency and Calcium Homeostasis in Saudi Children. J Clin Res Pediatr Endocrinol. Dec 1 2016;8(4):461-7.
+
+1. Chavez-Courtois M, Godinez-Martinez E, Munoz-Manrique C, Negrete-Martinez V, Gonzalez-Leyva CP, Tolentino-Dolores M, et al. Vitamin D Status and Its Determinants in Mexican Pregnant Women from a Rural and an Urban Area: A Comparative Study. Int J Environ Res Public Health. Apr 26 2021;18(9). Epub 2021/05/01.
+
+1. Nurbazlin M, Chee WS, Rokiah P, Tan AT, Chew YY, Nusaibah AR, et al. Effects of sun exposure on 25(OH) vitamin D concentration in urban and rural women in Malaysia. AsiaPac J ClinNutr. 2013;22(3):391-9. Epub 2013/08/16.
+
+1. Kruger MC, Kruger IM, Wentzel-Viljoen E, Kruger A. Urbanization of black South African women may increase risk of low bone mass due to low vitamin D status, low calcium intake, and high bone turnover. Nutr Res. Oct 2011;31(10):748-58. Epub 2011/11/15.
+
+1. Choi EY. 25(OH)D status and demographic and lifestyle determinants of 25(OH)D among Korean adults. Asia Pac J Clin Nutr. 2012;21(4):526-35. Epub 2012/09/29.
+
+1. Snijder MB, van Dam RM, Visser M, Deeg DJH, Dekker JM, Bouter LM, et al. Adiposity in relation to vitamin D status and parathyroid hormone levels: a population-based study in older men and women. J Clin Endocrinol Metab. 7/2005 2005;90(7):4119-23.
+
+1. Collaboration NCDRF. Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population- based measurement studies in 128.9 million children, adolescents, and adults. Lancet. Dec 16 2017;390(10113):2627-42. Epub 2017/10/17.
+
+1. Collaboration NCDRF. Rising rural body-mass index is the main driver of the global obesity epidemic in adults. Nature. May 2019;569(7755):260-4. Epub 2019/05/10.
+
+1. Reinders I, van Schoor NM, Deeg DJH, Huisman M, Visser M. Trends in lifestyle among three cohorts of adults aged 55-64 years in 1992/1993, 2002/2003 and 2012/2013. Eur J Public Health. Jun 2018;28(3):564-70. Epub 2017/10/19.
+
+1. Thacher TD, Dudenkov DV, Mara KC, Maxson JA, Wi Cl, Juhn YJ. The relationship of 25-hydroxyvitamin D concentrations and individual-level socioeconomic status. J Steroid Biochem Mol Biol. Mar 2020; 197:105545. Epub 2019/11/22.
+
+1. Brandao-Lima PN, Santos BDC, Aguilera CM, Freire ARS, Martins-Filho PRS, Pires LV. Vitamin D Food Fortification and Nutritional Status in Children: A Systematic Review of Randomized Controlled Trials. Nutrients. Nov 14 2019; 11(11). Epub 2019/11/20.
+
+1. Tangpricha V, Koutkia P, Rieke SM, Chen TC, Perez AA, Holick MF. Fortification of orange juice with vitamin D: a novel approach for enhancing vitamin D nutritional health. Am J ClinNutr. Jun 2003;77(6): 1478-83. Epub 2003/06/07.
+
+1. Nikooyeh B, Zargaraan A, Kalayi A, Shariatzadeh N, Zahedirad M, Jamali A, et al. Vitamin D-fortified cooking oil is an effective way to improve vitamin D status: an institutional efficacy trial. Eur J Nutr. Sep 2020;59(6):2547-55. Epub 2019/10/14.
+
+1. Laleye LC, Wasesa AA, Rao MV. A study on vitamin D and vitamin A in milk and edible oils available in the United Arab Emirates. Int J Food Sci Nutr. 2009;60 Suppl 5:1-9. Epub 2008/09/30.
+
+1. Jan Y, Malik M, Yaseen M, Ahmad S, Imran M, Rasool S, et al. Vitamin D fortification of foods in India: present and past scenario. J Steroid Biochem Mol Biol. Oct 2019;193:105417. Epub 2019/06/28.
+
+1. Cashman KD, O'Dea R. Exploration of strategic food vehicles for vitamin D fortification in low/lower-middle income countries. J Steroid Biochem Mol Biol. Dec 2019;195:105479. Epub 2019/09/22.

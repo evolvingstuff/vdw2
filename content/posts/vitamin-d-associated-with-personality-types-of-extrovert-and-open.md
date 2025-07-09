@@ -41,4 +41,4 @@ CONCLUSION: The possible mechanisms by which 1,25(OH)(2)D(3) acts on the brain m
 
 #### See also
 
-* <a href="/posts/higher-conscientiousness-extraversion-related-to-higher-vitamin-d-in-seniors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Higher conscientiousness, extraversion related to higher vitamin D in seniors – Feb 2023">Higher conscientiousness, extraversion related to higher vitamin D in seniors – Feb 2023</a>
+* [Higher conscientiousness, extraversion related to higher vitamin D in seniors – Feb 2023](/posts/higher-conscientiousness-extraversion-related-to-higher-vitamin-d-in-seniors)

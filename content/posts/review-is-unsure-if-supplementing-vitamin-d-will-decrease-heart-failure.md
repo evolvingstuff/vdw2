@@ -55,7 +55,7 @@ These results bring into questions whether vitamin D is a risk factor for HF, a 
 
    * includes links to many other abstracts in the same special issue
 
-* <a href="/posts/vitamin-d-and-cardiovascular-disease-systematic-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 585">Vitamin D and cardiovascular disease - Systematic review June 2010</a>
+* [Vitamin D and cardiovascular disease - Systematic review June 2010](/posts/vitamin-d-and-cardiovascular-disease-systematic-review)
 
 # See also VitaminDWiki: <span style="color:#F00;">HYPERTENSION</span>
 
@@ -63,7 +63,7 @@ These results bring into questions whether vitamin D is a risk factor for HF, a 
 
 * [Meta-analysis found hypertension reduced with vitamin D – Dec 2010](/posts/meta-analysis-found-hypertension-reduced-with-vitamin-d)
 
-* <a href="/posts/does-vitamin-d-deficiency-cause-hypertension" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 262">Does vitamin D deficiency cause hypertension?</a> 2010 with PDF
+* [Does vitamin D deficiency cause hypertension?](/posts/does-vitamin-d-deficiency-cause-hypertension) 2010 with PDF
 
 * [Systolic hypertension 4X more likely if low on vitamin D 14 years before – Nov 2010](/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before)
 
@@ -75,7 +75,7 @@ These results bring into questions whether vitamin D is a risk factor for HF, a 
 
 * [Systolic hypertension 4X more likely if low on vitamin D 14 years before – Nov 2010](/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before)
 
-* <a href="/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 701">Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010</a>
+* [Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010](/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks)
 
 * [Click HERE](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=hypertension&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26v%3Df661cdea8f1dc8bb%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D1654184227) to use Google to Search for Hypertension at this web site
 

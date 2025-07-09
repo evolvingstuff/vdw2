@@ -60,11 +60,11 @@
 
 #### See VitaminDWiki
 
-* <a href="/posts/resveratol-helps-vitamin-d-bind-to-cells" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratol helps vitamin D bind to cells">Resveratol helps vitamin D bind to cells</a>
+* [Resveratol helps vitamin D bind to cells](/posts/resveratol-helps-vitamin-d-bind-to-cells)
 
-* <a href="/posts/resveratrol-improves-health-vitamin-d-receptor-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol improves health (Vitamin D receptor, etc.) - many studies ">Resveratrol improves health (Vitamin D receptor, etc.) - many studies </a>
+* [Resveratrol improves health (Vitamin D receptor, etc.) - many studies ](/posts/resveratrol-improves-health-vitamin-d-receptor-etc-many-studies)
 
-* <a href="/posts/decrease-of-alzheimers-biomarker-halted-by-resveratrol-perhaps-due-to-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Decrease of Alzheimer’s biomarker halted by Resveratrol (perhaps due to vitamin D) – RCT Sept 2015">Decrease of Alzheimer’s biomarker halted by Resveratrol (perhaps due to vitamin D) – RCT Sept 2015</a>
+* [Decrease of Alzheimer’s biomarker halted by Resveratrol (perhaps due to vitamin D) – RCT Sept 2015](/posts/decrease-of-alzheimers-biomarker-halted-by-resveratrol-perhaps-due-to-vitamin-d-rct)
 
 > <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/alz-and-res.jpg" alt="image" width="300">
 

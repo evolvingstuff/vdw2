@@ -51,37 +51,37 @@
 
 1. [Shiftwork diseases are often due to lack of vitamin D](/posts/shiftwork-diseases-are-often-due-to-lack-of-vitamin-d)
 
-1. <a href="/posts/shift-workers-2x-more-likely-to-get-covid-19-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift workers 2X more likely to get COVID-19 (low Vitamin D) - Dec 2020">Shift workers 2X more likely to get COVID-19 (low Vitamin D) - Dec 2020</a>
+1. [Shift workers 2X more likely to get COVID-19 (low Vitamin D) - Dec 2020](/posts/shift-workers-2x-more-likely-to-get-covid-19-low-vitamin-d)
 
-1. <a href="/posts/reduced-vitamin-d-status-in-rotating-shift-workers-in-the-summer-and-fall" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduced Vitamin D status in rotating shift workers in the summer and fall – April 2020">Reduced Vitamin D status in rotating shift workers in the summer and fall – April 2020</a>
+1. [Reduced Vitamin D status in rotating shift workers in the summer and fall – April 2020](/posts/reduced-vitamin-d-status-in-rotating-shift-workers-in-the-summer-and-fall)
 
-1. <a href="/posts/shift-workers-have-low-vitamin-d-poorer-sleep-and-are-more-depressed" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift workers have low vitamin D, poorer sleep, and are more depressed – March 2019">Shift workers have low vitamin D, poorer sleep, and are more depressed – March 2019</a>
+1. [Shift workers have low vitamin D, poorer sleep, and are more depressed – March 2019](/posts/shift-workers-have-low-vitamin-d-poorer-sleep-and-are-more-depressed)
 
-1. <a href="/posts/employers-should-give-night-shift-workers-free-vitamin-d-gmb-union" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Employers should give night shift workers free vitamin D – GMB Union June 2019">Employers should give night shift workers free vitamin D – GMB Union June 2019</a>
+1. [Employers should give night shift workers free vitamin D – GMB Union June 2019](/posts/employers-should-give-night-shift-workers-free-vitamin-d-gmb-union)
 
-1. <a href="/posts/miscarriage-32-percent-more-likely-if-work-night-shift-probably-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Miscarriage 32 percent more likely if work night shift (probably low Vitamin D) – April 2019">Miscarriage 32 percent more likely if work night shift (probably low Vitamin D) – April 2019</a>
+1. [Miscarriage 32 percent more likely if work night shift (probably low Vitamin D) – April 2019](/posts/miscarriage-32-percent-more-likely-if-work-night-shift-probably-low-vitamin-d)
 
-1. <a href="/posts/shiftworkers-and-indoor-workers-have-lower-vitamin-d-levels-review-of-10-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shiftworkers and Indoor Workers have lower Vitamin D levels – review of 10 studies Sept 2018">Shiftworkers and Indoor Workers have lower Vitamin D levels – review of 10 studies Sept 2018</a>
+1. [Shiftworkers and Indoor Workers have lower Vitamin D levels – review of 10 studies Sept 2018](/posts/shiftworkers-and-indoor-workers-have-lower-vitamin-d-levels-review-of-10-studies)
 
-1. <a href="/posts/night-cleaners-deficient-in-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Night cleaners deficient in vitamin D - Nov 2015">Night cleaners deficient in vitamin D - Nov 2015</a>
+1. [Night cleaners deficient in vitamin D - Nov 2015](/posts/night-cleaners-deficient-in-vitamin-d)
 
-1. <a href="/posts/40-percent-lower-vitamin-d-level-if-work-other-shifts-italy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 percent lower vitamin D level if work other shifts (Italy) – June 2015">40 percent lower vitamin D level if work other shifts (Italy) – June 2015</a>
+1. [40 percent lower vitamin D level if work other shifts (Italy) – June 2015](/posts/40-percent-lower-vitamin-d-level-if-work-other-shifts-italy)
 
-1. <a href="/posts/night-shift-workers-far-more-likely-to-have-low-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Night shift workers far more likely to have low vitamin D levels – May 2016">Night shift workers far more likely to have low vitamin D levels – May 2016</a>
+1. [Night shift workers far more likely to have low vitamin D levels – May 2016](/posts/night-shift-workers-far-more-likely-to-have-low-vitamin-d-levels)
 
-1. <a href="/posts/allergies-and-low-vitamin-d-strongly-associated-with-night-shift-bakers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergies and low vitamin D strongly associated with night shift bakers– Sept 2014">Allergies and low vitamin D strongly associated with night shift bakers– Sept 2014</a>
+1. [Allergies and low vitamin D strongly associated with night shift bakers– Sept 2014](/posts/allergies-and-low-vitamin-d-strongly-associated-with-night-shift-bakers)
 
-1. <a href="/posts/working-other-than-dayshift-reduces-vitamin-d-levels-and-bone-mineral-density-an-eases-bone-pain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Working other than dayshift reduces vitamin D levels and Bone Mineral Density and increases bone pain – Aug 2013">Working other than dayshift reduces vitamin D levels and Bone Mineral Density and increases bone pain – Aug 2013</a>
+1. [Working other than dayshift reduces vitamin D levels and Bone Mineral Density and increases bone pain – Aug 2013](/posts/working-other-than-dayshift-reduces-vitamin-d-levels-and-bone-mineral-density-an-eases-bone-pain)
 
-1. <a href="/posts/shift-workers-23-percent-more-likely-to-have-cardiovascular-events-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012">Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012</a>
+1. [Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012](/posts/shift-workers-23-percent-more-likely-to-have-cardiovascular-events-meta-analysis)
 
-1. <a href="/posts/shift-work-increases-breast-cancer-risk-by-22-percent-vitamin-d-is-1-of-5-possible-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift work increases breast cancer risk by 22 percent (Vitamin D is 1 of 5 possible ways) – Oct 2013">Shift work increases breast cancer risk by 22 percent (Vitamin D is 1 of 5 possible ways) – Oct 2013</a>
+1. [Shift work increases breast cancer risk by 22 percent (Vitamin D is 1 of 5 possible ways) – Oct 2013](/posts/shift-work-increases-breast-cancer-risk-by-22-percent-vitamin-d-is-1-of-5-possible-ways)
 
 <!-- ~tc~ end ~/tc~ -->
 
 * <a href="/posts/us-truckers-die-16-years-earlier-partially-due-to-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1399">US truckers die 16 years earlier - partially due to vitamin D deficiency - Feb 2011</a> which has the following diagram
 
-{IMG(attId="456")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/shiftwork-disease.gif" alt="image">
 
 #### See also shift-work and Vitamin D/health on the web
 

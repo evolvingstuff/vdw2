@@ -20,7 +20,7 @@
 }
 
 
-{IMG(attId="514")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/radiation-sign.png" alt="image">
 
 # The protection afforded by vitamin D against low radiation damage
 
@@ -130,7 +130,7 @@ It is possible that several of the transcribed by the VDR will help transcribe p
 
 # See also VitaminDWiki for some other papers  by Daniel P Hayes
 
-* <a href="/posts/decreased-mortality-with-sun-and-or-altitude" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 153">Decreased mortality with sun and or altitude</a> Hayes 2010
+* [Decreased mortality with sun and or altitude](/posts/decreased-mortality-with-sun-and-or-altitude) Hayes 2010
 
 * [Aging and vitamin D - Hayes 2010.pdf](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1821) 
 

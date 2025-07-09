@@ -1,0 +1,252 @@
+{
+    "title": "Miscarriage 70 percent more likely if low vitamin D (see also data on CYP27B1)",
+    "slug": "miscarriage-70-percent-more-likely-if-low-vitamin-d-see-also-data-on-cyp27b1",
+    "aliases": [
+        "/Miscarriage+70+percent+more+likely+if+low+vitamin+D+see+also+data+on+CYP27B1+\u2013+May+2016",
+        "/7596"
+    ],
+    "tiki_page_id": 7596,
+    "date": "2016-06-11",
+    "categories": [
+        "Pregnancy",
+        "CYP27B1"
+    ],
+    "tags": [
+        "CYP27B1",
+        "CYPA",
+        "CYPR",
+        "PCOS",
+        "Pregnancy",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "child",
+        "childhood viruses",
+        "diabetes",
+        "fertility sperm",
+        "genetics",
+        "gestational diabetes",
+        "herpes shingles",
+        "high dose",
+        "immunity",
+        "in vitro fertilization",
+        "intervention",
+        "metabolic",
+        "miscarriage",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pain",
+        "pediatric autoimmune",
+        "placenta",
+        "preeclampsia",
+        "pregnancy",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "virus",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test"
+    ]
+}
+
+
+{{< toc >}}
+
+---
+
+#### Decreased serum vitamin D levels in early spontaneous pregnancy loss
+
+European Journal of Clinical Nutrition advance online publication, 25 May 2016;doi:10.1038/ejcn.2016.83
+
+W Hou, X-t Yan1'5, C-m Bai2, X-w Zhang1,3, L-y Hui and X-w Yu1
+
+#### Portions of figures from PDF with VitaminDWiki annotations
+
+ **<span style="color:#00F;">Vitamin D and Pregnancy Loss</span>** 
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/vitd-preg-lost.jpg" alt="image">
+
+ **<span style="color:#00F;">CYP27B1 and Pregnancy Loss</span>** 
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/cyp-preg-lost.jpg" alt="image">
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/early-spontaneous-prenancy-loss.pdf">Download the PDF from VitaminDWiki</a>** 
+
+BACKGROUND/OBJECTIVES: Effects of vitamin D deficiency in pregnancy have been associated with some adverse pregnancy outcomes. The objective of this study was to analyze the relationship between vitamin D deficiency in childbearing aged women and pregnancy loss (PL) in the first trimester.
+
+SUBJECTS/METHODS: This is a cross-sectional study. Plasma was collected from 60 nulliparous women with singleton at 7-9 weeks of gestation (30 with viable gestation and 30 with PL) and 60 non-gravid childbearing aged women (30 with a successful pregnancy history, and 30 with one or more spontaneous first-trimester PL history). Quantitation of serum 25-hydroxyvitamin D (25(OH)D) and 25-hydroxyvitamin D-1 alpha hydroxylase (CYP27B1) was assayed.
+
+RESULTS: By pregnancy/non-gravid, normal pregnant women had higher 25(OH)D (49.32 pg/l) and CYP27B1 (82.00 pg/ml) than PL women (34.49 pg/l and 37.87 pg/ml, both P < 0.01);the non-gravid women with a successful pregnancy history also had higher 25(OH)D (39.56 pg/l) and CYP27B1 (39.04 pg/ml) than women with PL history (12.30 pg/l and 12.35 pg/ml, both P < 0.01). The 96.7% of non-gravid women with PL history and 43.3% of PL women had serum 25(OH)D concentrations below 30 pg/l. There was a strong association between low vitamin D levels and PL ( **odds ratio 1.71** ; 95% confidence interval: 1.2-2.4, P < 0.001). The regression analyses showed that PL was significantly inversely correlated with 25(OH)D (P < 0.01) and CYP27B1 levels (P < 0.01).
+
+CONCLUSIONS: Vitamin D deficiency associated with PL in the first trimester of pregnancy. Decreased serum vitamin D levels among childbearing aged women with the failed clinical pregnancies history may predispose to increased risk for PL.
+
+#### INTRODUCTION
+
+Pregnancy loss (PL) is an adverse outcome of pregnancy in which conception does not result in a live-born child. Of clinically recognized pregnancies, 10-15% terminate with spontaneous loss. Early pregnancy loss (spontaneous miscarriage) is in China defined as the spontaneous termination of pregnancy before 12 gestational weeks.1 The great majority of pregnancy losses occur early, before 12 weeks' gestation;hence, the pathophysiology is enough to be of major concern. Several mechanisms have previously been described for the pathogenesis of recurrent PL, including chromosomal anomalies, hormonal problems, uterine abnormalities, infections, autoimmune disorders and thrombophilias, and up to 50% of cases of recurrent PL will not have a clearly defined etiology.2
+
+1,25 dihydroxy vitamin D3 (1,25(OH)2D3) is a lipid-soluble hormone that has well-established classic function in maintaining calcium homeostasis and promoting bone mineralization. In addition, vitamin D3 has significant roles in regulating cell proliferation and differentiation and modulating innate and adaptive immune responses.4,5 Vitamin D status during pregnancy has been drawing great attention. There is some evidence suggesting that vitamin D modulates human reproductive processes. Vitamin D deficiency is a common problem in childbearing age women and pregnant women in China.7,8 
+
+Poor vitamin D status during pregnancy has been associated with 
+
+* preeclampsia,9 
+
+* gestational diabetes,10 
+
+* bacterial vaginosis11 and 
+
+* compromised intrauterine growth.12 
+
+However, the relationship of vitamin D deficiency and insufficiency in the first-trimester pregnancy with PL or non-gravid childbearing aged women with spontaneous pregnancy loss history is less clear. In addition, the vitamin D metabolic pathway involves multiple enzymatic reactions. Vitamin D is metabolized in the liver to the form 25 (OH)D, which is used to determine a patient's vitamin D status;25 (OH)D is metabolized in the kidneys by 25-hydroxyvitamin D-1 alpha hydroxylase (CYP27B1) to its active form, 1,25-(OH)2D.13 The increased synthesis of 1,25-(OH)2D is linked to higher CYP27B1 activity in maternal kidney, placental trophoblasts and decidua.14,15 To date, little is known regarding the determinants of the levels of CYP27B1 in serum, nor have possible associations between the levels of the enzymes been explored in relation to PL in the first-trimester pregnancy. To determine whether altered vitamin D metabolic system is present in women with PL, we measured vitamin D and CYP27B1 in pregnant women with PL in the first trimester and non-gravid women displaying failed clinical pregnancy history in the first trimester. The objective of this study was to elucidate the association between maternal serum levels of 25(OH)D and CYP27B1 in the first-trimester pregnancy with the risk of PL in a population of Chinese women. In the same time, serum calcium, phosphorus and parathyroid hormone (PTH) concentrations were measured.
+
+#### MATERIALS AND METHODS
+
+ **Research subjects** 
+
+Women carrying singleton fetuses at 7-9-week gestation by first day of the last menstrual period gestation and non-gravid childbearing age women were enrolled from outpatient clinics at First Affiliated Hospital of Xi'an Jiaotong University and Maternal and Child Health Hospital of Shaanxi Province, China, from May 2013 to December 2014. All the participants were divided into four groups and determined as (1) PL group: women who were at 7-9 weeks of gestation, reporting unexplained vaginal bleeding, after being diagnosed with an intact gestational sac with no embryo cardiac motion, matched for gestational age by ultrasound, were inducted into the PL group. (2) Normal pregnant group: women who were gestationally matched to a group of pregnancies with viable gestation at 7-9 weeks without displaying abnormal gynecological history were included in the group. The controls were followed-up beyond 12 weeks of gestation. All gestational ages were determined by first day of the last menstrual period and confirmed with an ultrasound. The (1) and (2) were included in the early pregnancy group. (3) Non-gravid group 1: the non- gravid childbearing aged women who participated in pre-pregnancy examination displaying a successful clinical pregnancies history were recruited. (4) Non-gravid group 2: the non-gravid childbearing aged women who had prior pregnancies that had resulted in one or more spontaneous first-trimester miscarriage were enrolled. The (3) and (4) were included in the non-gravid group. Women diagnosed with thyroid dysfunction, autoimmune disorders, uterine anomalies, severe liver and kidney disease, diabetes mellitus, infection with rubella, toxoplasma, cytomegalovirus and herpes virus, and those administered hormonal and antiepileptic medication in the last 3 months, were excluded. All the PL women and non-gravid women with PL history had no chromosomal abnormalities. Data on the age, employment status and menstrual cycle duration of the women in all participating women were recorded, and their height and weight were measured. All women were in good general health and were required to provide written informed consent before participation. This study was approved by the Ethics Committee of the First Affiliated Hospital of Xi'an Jiaotong University (2 March 2012).
+
+ **Measurement of serum 25(OH)D, CYP27B1, calcium, phosphorus and parathyroid hormone** 
+
+Blood samples from fasting women were collected at times of usual blood draws for clinical indications (non-gravid women) and at 7-9 weeks gestational age in pregnant women. After centrifugation for 10 min at 3000 r.p.m. at room temperature, the serum specimens were stored at - 80 °C. Before assaying, all samples were thawed to room temperature and assayed on the same day to avoid inter-assay variation. Quantitation of serum 25(OH)D, CYP27B1 and PTH was performed using commercial ELISA kits (Catalog numbers CSB-E08097h, CSB-EL006406HU and CSB-E06934h, CUSABIO BIOTECH, Wuhan, China). The intra-assay and inter-assay precision for the ELISA were less than 10% and 15% for 25(OH)D, 8% and 10% for CYP27B1 and 8% and 10% for PTH, respectively. The optical density of each sample was determined using a microplate reader (SynergyMx, BioTek, Winooski, VT, USA) set to 450 nm. Serum calcium levels were analyzed on the Beckman Coulter AU5800 Clinical Chemistry System, using commercially available reagents (Beckman Coulter Experiment System, Suzhou, China). Phosphorus levels were analyzed using the spectrophotometry method with a commercial reagent kit (UW5-1, Beijing Solarbio Science & Technology, Beijing, China). All the assays were performed according to the manufacturer's instruction. Biological samples were blinded prior to analyses.
+
+ **Categorization of vitamin D status** 
+
+Precisely defining optimal serum levels of 25-hydroxyvitamin D is still a matter of great debate. Some experts recommended serum 25(OH)D concentrations >50nmol/l (20 pg/l) for adequate bone health.16 Most experts and clinical guidelines from The Endocrine Society recommended that the optimal level for promoting health was defined as 75 nmol/l (30 pg/l) or greater, insufficiency as between 50 and 72.5 nmol/l (20 and 29 pg/l) and deficiency as 50 nmol/L (20 pg/l) or less.3,6,17-19 Therefore, in this study, sufficient vitamin D was defined as > 30 pg/l and low vitamin D was < 30 pg/l.
+
+ **Statistical analysis** 
+
+Statistical analysis was performed using the SPSS-PC+ software (SPSS, Chicago, IL, USA). Serum levels were expressed as mean ± s.e.m. and categorical data as number (%). Data that were normally distributed were analyzed with one-way ANOVA and the multiple comparison in ANOVA (including comparisons of 25(OH)D, calcium, phosphorus and PTH levels). Data that were not normally distributed were analyzed with the nonparametric test. Serum levels were expressed as median (interquartile range). The levels of CYP27B1 among the four groups were compared using a Kruskal-Wallis test for several independent samples. Differences in the early pregnant group and 25(OH)D, CYP27B1 and calcium were analyzed by binary logistic regression model in order to obtain any independent predictive factors correlated with early PL. A two-sided P- value  0.05 was considered statistically significant.
+
+#### RESULTS
+
+ **Distributions of sociodemographic characteristics among participant women** 
+
+A total of 120 women were included in the study (mean age 28.56 ±3.09 years, range 22-34 years). Of the 120 women, 60 of them were for early pregnant group including 30 for the normal pregnant group and 30 for the PL group, 60 for the non-gravid group including 30 for the non-gravid group 1 and 30 for the non- gravid group 2. Mean gestational age of recruitment was 52.7 ±4.3 days.
+
+Table 1 indicates that the four groups in this sample had no significant differences with regard to distributions of general characteristics including age, employment status, menstrual cycle duration, body mass index and season. There was no significant difference about gestational age between the PL group and the normal pregnant group.
+
+The serum levels of 25(OH)D, CYP27B1, calcium, phosphorus and PTH among the normal pregnant group, the PL group, the non- gravid group 1 and the non-gravid group 2 The 25(OH)D and CYP27B1 levels were evaluated in all women in the study. By pregnancy/non-gravid, the early pregnancy group had higher 25(OH)D level (41.90±15.56 pg/l) than the non-gravid group (25.93 ± 16.30 pg/l) (t =5.490, P =0.000). The mean 25(OH)D concentration was 49.32 ± 11.65 pg/l (95% confidence interval (CI): 44.97-53.67 pg/l) for the normal pregnant group, 34.49 ± 15.60 pg/l (95% CI: 28.66-40.31 pg/l) for the PL group, 39.56±8.83 pg/l (95% CI: 36.26-42.86 pg/l) for the non-gravid group 1 and 12.30 ±8.84 pg/l (95% CI: 9.00-15.60 pg/l) for the non-gravid group 2. The AnOvA test of 25(OH)D revealed that significantly differences exist among the four groups (F = 55.040, P = 0.000). Of them, the mean 25(OH)D concentration was the highest in the normal pregnant group and the lowest in the non-gravid group 2 (Figure 1). The frequence of low vitamin D was higher in early PL women and non-gravid childbearing aged women with PL history. There were 13 (43.3%) women and 29 (96.7%) women with a low serum 25(OH)D level in the PL group and the non-gravid group 2, whereas there were only 1 (3.3%) in the normal pregnant group and 1 (3.3%) in the non-gravid group 1. There was a statistically significant difference between the PL group and the normal pregnant group, the non-gravid group 2 and the non-gravid group 1 according to the low serum 25(OH)D percentage (X2= 13.416, P = 0.000 and 52.267, 0.000, respectively). There was a strong association between low vitamin D levels and PL (odds ratio (OR): 1.71; 95% CI: 1.2-2.4, P < 0.001).
+
+For the CYP27B1, the nonparametric test revealed that there was significant differences among the four groups (Z =84.914, P = 0.000). The women in the normal pregnant group exhibited higher CYP27B1 (82.00±37.74 pg/ml) levels than those in the PL group (37.87 ±20.97 pg/ml), the non-gravid group 1 (39.04 ± 16.05 pg/ml;median 39.04 pg/ml, interquartile range 27.77-47.10 pg/ml) and the non-gravid group 2 (12.35 ±5.11 pg/ml).
+
+ **Figure 1.**  Comparison of serum 25(OH)D values in the normal pregnant group (1), the PL group (2), the non-gravid group 1 (3) and the non-gravid group 2 (4). a: Significantly higher compared with the PL group, the non-gravid group 1 and the non-gravid group 2 (P = 0.001, 0.003 and 0.000, respectively). b: Significantly lower compared with the PL group and the non-gravid group 1 (P = 0.000 and 0.000, respectively).
+
+Compared with the non-gravid group 2, the PL group and the non-gravid group 1 displayed higher CYP27B1 levels (Figure 2).
+
+Serum calcium, phosphorus levels and PTH concentrations were comparable in the four groups. In pregnant women, the mean levels of calcium, phosphorus and PTH were 1.56 ±0.17 mmol/l, 1.02 ± 0.15 mmol/l and 227.36±86.78 pg/ml, respectively, in the PL group, whereas they were 1.69 ±0.17 mmol/l, 1.04 ±0.22 mmol/l and 290.54 ± 157.60 pg/ml, respectively, in the normal group. In non-gravid women, the mean levels of calcium, phosphorus and PTH were 1.59 ±0.20 mmol/l, 0.99 ±0.10 mmol/l and 480.96 ± 252.88 pg/ml, respectively, in the non-gravid group 2, whereas they were 1.65 ±0.16 mmol/l, 1.01 ±0.12 mmol/l and 164.69 ±66.13 pg/ml, respectively, in the non-gravid group 1. The differences for serum calcium and PTH levels were statistically significant (F = 3.323, P = 0.022, and F = 22.282, P = 0.000, respectively). The women in the PL group had lower calcium levels than women in the normal pregnant group and the non-gravid group 1
+
+ **Figure 2** . Comparison of serum CYP27B1 values in the normal pregnant group (1), the PL group (2), the non-gravid group 1 (3) and the non-gravid group 2 (4). a: Significantly higher compared with the PL group, the non-gravid group 1 and the non-gravid group 2 (P = 0.000, 0.000 and 0.000, respectively). b: Significantly lower compared with the PL group and the non-gravid group 1 (P = 0.000 and 0.000, respectively).
+
+(P = 0.005 and 0.034, respectively). However, there was no significant difference in PTH levels between the normal pregnant group and the PL group (P = 0.313). The PTH levels in the PL group were higher than those in the non-gravid group 1 (P = 0.016) and lower than those in the non-gravid group 2 (P = 0.000). The difference for serum phosphorus levels was not statistically significant (F = 0.639, P = 0.591) (Table 2).
+
+The relationship between early pregnancy loss and serum 25(OH) D and CYP27B1 levels
+
+The correlations between early pregnancy loss and serum 25(OH) D and CYP27B1 levels were computed to determine whether they were predictive of risk of pregnancy loss during the first-trimester pregnancy. The logistic regression analyses in the early pregnancy group and 25(OH)D, CYP27B1 and calcium levels were performed. The results showed that the early pregnancy loss was significantly inversely correlated with 25(OH)D levels (Exp(B) = 0.911, P = 0.006) and CYP27B1 levels (Exp(B) = 0.944, P = 0.001). As concentration of 25(OH)D and CYP27B1 decreased, the risk of early pregnancy loss increased.
+
+#### DISCUSSION
+
+This study investigated the relationship between serum vitamin D status and CYP27B1 with PL in nulliparous women at an average gestational age of 52.7±4.3 days and non-gravid childbearing aged women with or without PL history. Because circulating 25 (OH)D represents the best indicator of vitamin D status of an individual20 we measured serum 25(OH)D levels to determine vitamin D status. We found that 25(OH)D levels in early pregnant women were significantly higher than those in non-gravid women. The increase in circulating 25(OH)D levels during the first-trimester pregnancy is consistent with a prior report that reported that 1,25(OH)2D levels are more than 2-fold those of a non-gravid adult by 12 weeks of gestation,21 although the 1,25 (OH)2D was tested in this study. 
+
+ **However, during pregnancy, 25(OH)D diffuses across the placental barrier, whereas 1,25(OH)2D does not readily cross placenta** .22,23 The locally synthesizing 1,25(OH)2D in maternal decidual cells depends on available 25(OH)D in circulation as a substrate for 1a-hydroxylase.24,25 It demonstrated that adequate 25(OH)D concentrations were essential during pregnancy.  **Vitamin D deficiency in the mother could be vertically transmitted to the fetus.**  We also found that the early PL women had a significantly lower 25(OH)D levels than normal early pregnant women and had a low vitamin D rate of 43.3%;however, 96.7% of normal early pregnant women revealed vitamin D sufficient. 
+
+ **The risk (OR) of PL in pregnant women with low concentration of 25(OH)D is 1.71**  (95% CI: 1.2-2.4). It means that vitamin D deficiency was associated with PL in the first- trimester pregnancy. In combination with immunomodulatory and anti-inflammatory properties of vitamin D,26-29 vitamin D may have a potential role in the prevention of FL in the first trimester of pregnancy. Several epidemiologic and case-control studies investigated a possible association between vitamin D deficiency and adverse pregnancy outcome.30,31 
+
+ **The data of the role vitamin D has in miscarriage are sparse** . Andersen et al.32 investigated the association between maternal serum concentrations of serum 25(OH)D and the risk of subsequent miscarriage and found the association between Vitamin D insufficiency and the first-trimester miscarriages. Ozkan et al.33 considered that the follicular fluid 25(OH)D levels are an independent predictor of successful clinical pregnancy following in vitro fertilization; however, serum and follicular fluid levels of 25(OH)D are highly correlated. Another two studies did not find an association between vitamin D deficiency and the clinical outcome of miscarriage in the first-trimester pregnancy.34,35 This discrepancy may be explained not only by methodological differences but also by differences in our study population relative to other published studies, including the difference in maternal age and gestational age of specimen collection. Cohort and interventional studies are needed to confirm the causal relationship and to find the potential therapeutic benefits of vitamin D supplementation.
+
+Similar to the vitamin D, the serum CYP27B1 levels were significantly decreased in the PL women comparing with normal pregnancy in the first trimester of pregnancy. It has been proposed that the CYP27B1 gene evolved to produce 1,25 (OH)2D. Studies in vitro have shown that the CYP27B1 catalyzes localized conversion of 25OHD to 1,25(OH)2D, the biologically active vitamin D metabolite.23 During pregnancy, serum levels of 1,25(OH)2D increase markedly from the first trimester, and these increases have been found to be associated with expression of the CYP27B1 and its activity in placenta.36 However, the mechanisms underlying improved CYP27B1 levels during pregnancy remain elusive, with high levels of CYP27B1 expression occurring in early pregnant serum, indicating an important role for 1,25(OH)2D during the first-trimester pregnancy. It is likely that CYP27B1 modulates immune function during early gestation.37 Moreover, CYP27B1 is correlated with the female reproductive function, because the CYP27B1-null mice have resulted in female infertility with impaired ovarian follicular development, corpus luteum formation and uterine hypoplasia.38 Thus, understanding specific factors involved in regulating the CYP27B1 and altering levels of the enzyme may have therapeutic potential for the treatment of recurrent PL.
+
+For the healthy women of childbearing age, the serum level of vitamin D is higher than the women suffering from polycystic ovaries syndrome (PCOS).39,40 Sixty-eight percent PCOS patients had vitamin D deficiency.41 Likewise, low levels of 25(OH)D and vitamin D deficiency were found to be associated with a higher occurrence of uterine myomas42 and lower rates of follicle development after ovarian stimulation with 50 mg clomiphene citrate.43 Similarly, among women of childbearing age, we found that having one or more histories of failed clinical pregnancy in the first trimester was significantly associated with vitamin D deficiency. The 96.7% of non-gravid childbearing aged women reported having a successful clinical pregnancy history had sufficient serum 25(OH)D concentrations; however, 96.7% of women with one or more histories of failed clinical pregnancy had serum 25(OH)D concentrations below 30 pg/l. It suggested that decreased serum vitamin D levels among those women with the failed clinical pregnancies history may predispose to increased risk for PL. The information was valuable for women's health-care providers to provide better counseling for women concerning their possible reason of early PL. We suggest that women of childbearing age with the failed clinical pregnancies history may be evaluated for their vitamin D status among pre-conception counseling.
+
+In conclusion, our results confirmed the association between PL and decreased vitamin D levels. Decreased serum vitamin D levels among childbearing aged women with the failed clinical pregnancies history may predispose to increased risk for PL. Therefore, we propose that childbearing aged women with the failed clinical pregnancies history may be screened for their vitamin D levels among pre-conception counseling. Further, periconceptional intervention programs to focus on raising vitamin D levels in these women should be carried out in order to prevent vitamin D deficiency-linked PL.
+
+#### REFERENCES
+
+1. Yinping H Spontaneous abortion In: Yue J Obesterics and Gynecology. 7th edn, People’s Health Publishing House: Beijing, 2008, pp 83-86.
+
+1. The Practice Committee of the American Society for Reproductive Medicine. Evaluation and treatment of recurrent pregnancy loss: a committee opinion. Fertil Steril 2012; 98: 1103-1111.
+
+1. Holick MF. Vitamin D deficiency. N Engl J Med 2007; 357: 266-281.
+
+1. Bikle DD. Vitamin D regulation of immune function. Vitam Horm 2011; 86: 1-21.
+
+1. LagishettyV, Liu NQ, Hewison M.Vitamin D metabolism and innate immunity. Mol Cell Endocrinol 2011; 347: 97-105.
+
+1. Lerchbaum E, Rabe T. Vitamin D and female fertility. Curr Opin Obstet Gynecol 2014; 26: 145-150.
+
+1. Woo J, Lam CWK, Leung J, Lau WY, Lau E, Xu L et al. Very high rates of vitamin D insufficiency in women of child-bearing age living in Beijing and Hong Kong. BrJNutr 2008; 99: 1330-1334.
+
+1. Song SJ, Zhou L, Si SY, Jl Liu, Jl Zhou, Feng K etal. The high prevalence of vitamin D deficiency and its related maternal factors in pregnant women in Beijing. PLoS One 2013; 8: e85081.
+
+1. Bodnar LM, Catov JM, Simhan HN, Holick MF, Powers RW, Roberts JM. Maternal vitamin D deficiency increases the risk of preeclampsia. J Clin Endocrinol Metab 2007; 92: 3517-3522.
+
+1. Cho GJ, Hong SC, Oh MJ, Kim HJ. Vitamin D deficiency in gestational diabetes mellitus and the role of the placenta. Am J Obstet Gynecol 2013; 209: e1-e8.
+
+1. Bodnar LM, Krohn MA, Simhan HN. Maternal vitamin D deficiency is associated with bacterial vaginosis in the first trimester of pregnancy. J Nutr 2009; 139: 1157-1161.
+
+1. Leffelaar ER, Vrijkotte TG, van Eijsden M. Maternal early pregnancy vitamin Dstatus in relation to fetal and neonatal growth: results of the multiethnic Amsterdam Born Children and their Development cohort. Br J Nutr 2010; 104: 108-117.
+
+1. Christakos S, Dhawan P, Benn B, Porta A, Hediger M, Oh GT et al. Vitamin D: Molecular mechanism of action. Ann N Y Acad Sci 2007; 1116: 340-348.
+
+1. Diaz L, Sanchez I, Avila E, Halhali A, Vilchis F, Larrea F. Identification of a 25-hydroxyvitamin D3 1alpha-hydroxylase gene transcription product in cultures of human syncytiotrophoblast cells. J Clin Endocrinol Metab 2000; 85: 2543-2549.
+
+1. Whitsett JA, Ho M, Tsang RC, Norman EJ, Adams KG. Synthesis of 1,25-dihy- droxyvitamin D3 by human placenta in vitro. J Clin Endocrinol Metab 1981; 53: 484-488.
+
+1. Vitamin D Working Group of Osteoporosis Committee of China Gerontological Society. Application guideline for vitamin D and bone health in adult Chinese (2014 Standard Edition). Chin J Osteoporos 2014; 20: 1011-1030.
+
+1. Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney RP et al. Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab 2011; 96: 1911-1930.
+
+1. Hossein-nezhad A, Holick MF. Vitamin D for health: a global perspective. Mayo Clin Proc 2013; 88: 720-755.
+
+1. Bodnar LM, Simhan HN. Vitamin D may be a link to black-white disparities in adverse birth outcomes. Obstet Gynecol Surv 2010; 65: 273-284.
+
+1. Rosen CJ. Clinical practice. Vitamin D insufficiency. N Engl J Med 2011; 364: 248-254.
+
+1. Wagner CL, Taylor SN, Johnson DD, Hollis BW. The role of vitamin D in pregnancy and lactation: emerging concepts. Women Health 2012; 8: 323-340.
+
+1. Shin JS, Choi MY, Longtine MS, Nelson DM. Vitamin D effects on pregnancy and the placenta. Placenta 2010; 31: 1027-1034.
+
+1. Adams JS, Hewison M. Extrarenal expression of the 25-hydroxyvitamin D-1- hydroxylase. Arch Biochem Biophys 2012; 523: 95-102.
+
+1. Hewison M, Burke F, Evans KN, Lammas D, Sansom DM, Liu P et al. Extra-renal 25-hydroxyvitamin D3-1alpha-hydroxylase in human health and disease. J Steroid Biochem Mol Biol 2007; 103: 316-321.
+
+1. Weisman Y, Harell A, Edelstein S, David M, Spirer Z, Golander A. 1 alpha, 25-Dihydroxyvitamin D3 and 24,25-dihydroxyvitamin D3 in vitro synthesis by human decidua and placenta. Nature 1979; 281: 317-319.
+
+1. Ota K, Dambaeva S, Han AR, Beaman K, Gilman-Sachs A, Kwak-Kim J. Vitamin D deficiency may be a risk factor for recurrent pregnancy losses by increasing cellular immunity and autoimmunity. Hum Reprod 2014; 29: 208-219.
+
+1. Twig G, Shina A, Amital H, Shoenfeld Y. Pathogenesis of infertility and recurrent pregnancy loss in thyroid autoimmunity. J Autoimmun 2012; 38: J275-J281.
+
+1. Dabrowski FA, Grzechocinska B, Wielgos M. The role of vitamin D in reproductive health-A trojan horse or the golden fleece? Nutrients 2015; 7: 4139-4153.
+
+1. Tavakoli M, Jeddi-Tehrani M, Salek-Moghaddam A, Rajaei S, Mohammadzadeh A, Sheikhhasani S et al. Effects of 1, 25(OH)2 vitamin D3 on cytokine production by endometrial cells of women with recurrent spontaneous abortion. Fertil Steril 2011; 96: 751-757.
+
+1. Olmos-Ortiz A, Avila E, Durand-Carbajal M, Diaz L. Regulation of calcitriol biosynthesis and activity: focus on gestational vitamin D deficiency and adverse pregnancy outcomes. Nutrients 2015; 7: 443-480.
+
+1. Grundmann M, von Versen-Hoynck F. Vitamin D - roles in women’s reproductive health? Reprod Biol Endocrinol 2011; 9: 146.
+
+1. Andersen LB, Jorgensen JS, Jensen TK, Dalgard C, Barington T, Nielsen J et al. Vitamin D insufficiency is associated with increased risk of first-trimester miscarriage in the Odense Child Cohort. Am J Clin Nutr 2015; 102: 633-638.
+
+1. Ozkan S, Jindal S, Greenseid K, Shu J, Zeitlian G, Hickmon C et al. Replete vitamin D stores predict reproductive success following IVF. Fertil Steril 2010; 94: 1314-1319.
+
+1. Moller UK, Streym S, Heickendorff L, Mosekilde L, Rejnmark L. Effects of 25OHD concentrations on chances of pregnancy and pregnancy outcomes: a cohort study in healthy Danish women. Eur J Clin Nutr 2012; 66: 862-868.
+
+1. Flood-Nichols SK, Tinnemore D, Huang RR, Napolitano P, Ippolito DL. Vitamin D deficiency in early pregnancy. PLoS ONE 2015; 10: e0123763.
+
+1. O’Brien KO, Li S, Cao C, Kent T, Young BV, Queenan RA et al. Placental CYP27B1 and CYP24A1 expression in human placental tissue and their association with maternal and neonatal calcitropic hormones. J Clin Endocrinol Metab 2014; 99: 1348-1356.
+
+1. Zehnder D, Evans KN, Kilby MD, Bulmer JN, Innes BA, Stewart PM et al. The ontogeny of 25-hydroxyvitamin D3 1alpha-hydroxylase expression in human placenta and decidua. Am J Pathol 2002; 161: 105-114.
+
+1. Sun W, Xie H, Ji J, Zhou X, Goltzman D, Miao D. Defective female reproductive function in 1,25(OH)2D-deficient mice results from indirect effect mediated by extracellular calcium and/or phosphorus. Am J Physiol Endocrinol Metab 2010; 299: E928-E935.
+
+1. He C, Lin Z, Robb SW, Ezeamama AE. Serum vitamin D levels and polycystic ovary syndrome: a systematic review and meta-analysis. Nutrients 2015; 7: 4555-4577.
+
+1. Ghadimi R, Esmaeilzadeh S, Firoozpour M, Ahmadi A. Does vitamin D status correlate with clinical and biochemical features of polycystic ovary syndrome in high school girls? Caspian J Intern Med 2014; 5: 202-208.
+
+1. Velija-Asimi Z. Evaluation of the association of vitamin D deficiency with gonadotropins and sex hormone in obese and non-obese women with polycystic ovary syndrome. Med Glas 2014; 11: 170-176.
+
+1. Paffoni A, Somigliana E, Vigano P, Benaglia L, Cardellicchio L, Pagliardini L et al. Vitamin D status in women with uterine leiomyomas. J Clin Endocrinol Metab 2013; 98: E1374-E1378.
+
+1. Ott J, Wattar L, Kurz C, Seemann R, Huber JC, Mayerhofer K et al. Parameters for calcium metabolism in women with polycystic ovary syndrome who undergo clomiphene citrate stimulation: a prospective cohort study. Eur J Endocrinol 2012; 166: 897-902.
+
+{BOX(title=>See also VitaminDWiki class="border" bg=>#FF9,width= "750px")}

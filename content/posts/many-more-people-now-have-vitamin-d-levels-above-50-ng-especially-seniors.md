@@ -1,0 +1,347 @@
+{
+    "title": "Many more people now have vitamin D levels above 50 ng, especially seniors",
+    "slug": "many-more-people-now-have-vitamin-d-levels-above-50-ng-especially-seniors",
+    "aliases": [
+        "/Many+more+people+now+have+vitamin+D+levels+above+50+ng+especially+seniors+\u2013+May+2015",
+        "/6468"
+    ],
+    "tiki_page_id": 6468,
+    "date": "2015-05-01",
+    "categories": [
+        "Seniors",
+        "Toxicity of Vitamin D",
+        "Top news",
+        "Increased use of D"
+    ],
+    "tags": [
+        "CKD",
+        "Increased use of D",
+        "Seniors",
+        "Top news",
+        "Toxicity of Vitamin D",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "breast cancer",
+        "cancer",
+        "child",
+        "childhood cancer",
+        "childhood viruses",
+        "cognitive",
+        "dementia",
+        "dosage",
+        "falls fractures",
+        "fertility sperm",
+        "high dose",
+        "immunity",
+        "intervention",
+        "kidney",
+        "life span",
+        "lymphoma",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pain",
+        "pancreatic cancer",
+        "pediatric autoimmune",
+        "pregnancy",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "tuberculosis",
+        "ultraviolet light",
+        "virus",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "weight loss"
+    ]
+}
+
+
+**Changing Incidence of Serum 25-Hydroxyvitamin D Values Above 50 ng/mL: A 10-Year Population-Based Study** 
+
+Daniel V. Dudenkov, MD; Barbara P. Yawn, MD, MS, FAAFP;
+
+Sara S. Oberhelman, MD; Philip R. Fischer, MD; RavinderJ. Singh, PhD;
+
+Stephen S. Cha, MS; Julie A. Maxson, BA; Stephanie M. Quigg, MS; and Tom D. Thacher, MD
+
+Objective: To determine the incidence trend of 25-hydroxyvitamin D (25(OH)D) values above 50 ng/mL and associated toxicity.
+
+Patients and Methods: We conducted a retrospective population-based study in Olmsted County, Minnesota, in the 10-year period from January 1, 2002, through December 31, 2011, by using the Rochester Epidemiology Project. Individuals were eligible if they resided in Olmsted County during the study period and had a measured 25(OH)D value above 50 ng/mL. The date of the first 25(OH)D value above 50 ng/mL was considered the index date for incidence determination. Hypercalcemia, the primary vitamin D toxicity, was considered potentially associated with the 25(OH)D concentration if it was measured within 3 months of the 25(OH)D measurement, and such cases had a medical record review. 
+
+Results: Of 20,308 total 25(OH)D measurements, 1714 (8.4%), 123 (0.6%), and 37 (0.2%) unique persons had 25(OH)D values above 50, 80 and above, and 100 ng/mL and above, respectively. The age- and sex-adjusted incidence of 25(OH)D values above 50 ng/mL increased from 9 to 233 cases per 100,000 person-years from 2002 to 2011 (P<.001), respectively, and was greatest in persons aged 65 years and older (P<.001) and in women (P<.001). Serum 25(OH)D values were not significantly related to serum calcium values (P=.20) or with the risk of hypercalcemia (P=.24). A medical record review identified 4 cases (0.2%) in whom 25(OH)D values above 50 ng/mL were temporally associated with hypercalcemia, but only 1 case had clinical toxicity associated with the highest observed 25(OH)D value of 364 ng/mL. 
+
+Conclusion: The incidence of 25(OH)D values above 50 ng/mL increased significantly between 2002 and 2011 without a corresponding increase in acute clinical toxicity.
+
+<img src="/attachments/d3.mock.jpg" alt="image">
+
+© 2015 Mayo Foundation for Medical Education and Research. This is an open access article under the CC BY-NC-ND license
+
+(http://creativecommons.org/licenses/by-nc-nd/4.0/). ■ Mayo Clin Proc. 2015;90(5):577-586
+
+<div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+
+ **Many people are ignoring the IoM incorrect conclusion that 20ng of vitamin D is enough** 
+
+ **There has been a 20 fold increase in number of people with vitamin D levels > 50 ng** 
+
+ **About half of those with > 50ng appear to be getting Vitamin D2 prescriptions (D2 detected in blood)** 
+
+ **Virtually no toxicity detected in those with levels of vitamin D > 50ng** 
+
+ **See also VitaminDWiki** 
+
+* [13 reasons why many seniors need more vitamin D (both dose and level) - July 2023](/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level)
+
+* [Vitamin D levels increasing 7 percent per year, bones denser in Japan (probably supplementation) - June 2015](/posts/vitamin-d-levels-increasing-7-percent-per-year-bones-denser-in-japan-probably-supplementation)
+
+* [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials)
+
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
+
+* [Is too much vitamin D bad – possible causes and cures](/posts/is-too-much-vitamin-d-bad-possible-causes-and-cures)
+
+* [One pill every two weeks gives you all the vitamin D most adults need](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need)
+
+* [Even if a J curve exists, it is 50X better to give vitamin D than not give it – May 2013](/posts/even-if-a-j-curve-exists-it-is-50x-better-to-give-vitamin-d-than-not-give-it)
+
+* [20X increase in vitamin D sold and 36 percent decrease in osteoporosis business in Australia – Nov 2013](/posts/20x-increase-in-vitamin-d-sold-and-36-percent-decrease-in-osteoporosis-business-in-australia)
+
+> Australians are also increasing vitamin D - thus ignoring the recommendations of their government. as well
+
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng) - all govt recommendations are ridiculously low
+
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)
+
+</div>
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/50-ng-may-2015.pdf">Download the PDF from VitaminDWiki</a>** 
+
+{{< toc >}}
+
+Because of increasing awareness of vitamin D deficiency in recent years,1 vitamin D supplement use by the population has increased2 and the prescription of high-dose vitamin D supplements has gained attraction in the treatment of vitamin D deficiency3-5 The increasing use of vitamin D supplementation may be associated with increasing risk of vitamin D toxicity, primarily hypercalcemia.
+
+Existing data on vitamin D toxicity have been drawn almost exclusively from individual case reports and small case series. To date, the population-based incidence of hypervitaminosis D and associated toxicity has not been directly studied using serum 25-hydroxyvitamin D (25(OH)D) concentrations, the accepted measure of vitamin D status. The 25(OH)D concentrations at which toxicity is evident have proven to be difficult to determine.6,7 Most reports on acute vitamin D toxicity involve serum 25(OH)D values above 140 ng/mL (to convert to nmol/L, multiply values by 2.496),8 with the primary clinical manifestation being hypercalcemia and its associated symptoms.7-11 In a vitamin D risk assessment, Hathcock et al12 concluded that a reasonable and safe tolerable upper intake level (UL) should be 10,000 IU of vitamin D per day, which corresponds to a serum 25(OH)D concentration of approximately 100 ng/mL. In 2011, the Endocrine Society13 incorporated these levels into its guidelines for the treatment and prevention of vitamin D deficiency. Earlier in the same year, the Institute of Medicine (IOM) had released its recommendations in the Dietary Reference Intakes for Calcium and Vitamin D. The IOM committee reviewed several studies that reported that chronic ingestion of excess vitamin D resulting in 25(OH)D values above 30 to 60 ng/mL may be associated with an increased risk of allcause mortality, cardiovascular disease, fractures, and falls.7 By taking a cautious approach to the evidence, the committee recommended a UL of 4000 IU, corresponding to a serum 25(OH)D concentration of 50 ng/mL.
+
+Our objectives were to determine the incidence trend of 25(OH)D values above 50 ng/mL from 2002 to 2011 and their association with hypercalcemia. We hypothesized that owing to increased awareness of vitamin D deficiency and vitamin D supplementation during this period, the incidence of 25(OH)D values above 50 ng/mL and vitamin D toxicity, as evidenced by hypercalcemia, has increased.
+
+### PATIENTS AND METHODS
+
+ **Olmsted County and the Rochester Epidemiology Project** 
+
+Data from the Rochester Epidemiology Project (REP) were used to determine the incidence trend of 25(OH)D values above 50 ng/mL in the 10-year period from January 1, 2002, through December 31, 2011. The REP database is a rare example of a population-based medical record linkage system that includes more than 50 years of health care utilization, diagnostic, and laboratory data of virtually all medical care providers within Olmsted County, Minnesota, covering 98% of all health care services provided to Olmsted County residents.14 The county is served by 2 large integrated health systems— Mayo Clinic and Olmsted Medical Center— including primary through tertiary services, outpatient care, and hospital care.15,16 More than 95% of the Olmsted County population has not refused the medical records research authorization required by Minnesota law, thus allowing their records to be used for research.17,18
+
+Olmsted County is located in the upper midwestern United States (44°N latitude) and has limited sun exposure for residents in winter months. The population of Olmsted County increased from 135,897 to 148,700 from 2002 to 2011. In the 2000 and 2010 censuses, the proportions of Olmsted County residents classified as white, black, Asian, and Hispanic were 90% and 86%, 2.7% and 4.8%, 4.3% and 5.5%, and 2.4% and 4.2%, respectively. The proportions of men were 49% and 48%, and the proportions of individuals aged 65 years and older were 11% and 13%, respectively. Compared with the entire US 2010 population, the county is less ethnically diverse (white, 72% vs 86%), more educated (high school graduates, 85% vs 94%), and wealthier (median household income, $51,914 vs $64,090). However, the characteristics of the population are similar to those of the overall population of the upper Midwest.19
+
+ **Operational Definitions** 
+
+The date of the first 25(OH)D value above 50 ng/mL for each individual was considered the index date for incidence determination, and the 25(OH)D value on the index date was used for further analysis. A 25(OH)D threshold of 50 ng/mL was chosen on the basis of the 2011 IOM committee’s recommendation of 50 ng/mL as a safe 25(OH)D UL.7
+
+Hypercalcemia was defined as serum total calcium or ionized calcium concentration greater than the laboratory upper limit of normal for sex and age (total calcium >10.1 mg/dL or ionized calcium >5.7 mg/dL in adults older than 21 years; to convert to mmol/L, multiply by 0.0259). Calcium reference ranges for all age groups are listed in Table 1. Hypercalcemia was considered potentially associated with the 25(OH)D concentration if it was measured 3 months before or after the index date. On the basis of medical record review, hypercalcemia was attributed to vitamin D when a temporal increase in calcium concentration was associated with the 25(OH)D value, with resolution of hypercalcemia after the cessation of vitamin D supplementation, in the absence of another clinical cause of hypercalcemia.
+
+ **Patients** 
+
+The institutional review boards of Mayo Clinic and Olmsted Medical Center approved the study.
+
+Individuals of all ages were eligible for study if they resided in Olmsted County anytime during the 10-year period from January 1, 2002, through December 31, 2011; had not refused research authorization; and had a measured 25(OH)D value above 50 ng/mL during their residency in Olmsted County.
+
+We reviewed the medical records and laboratory data of patients who had both 25(OH)D values above 50 ng/mL and hypercalcemia within 3 months of the index date to determine whether hypercalcemia could be attributed to vitamin D or another cause as defined above. Information abstracted from the medical record included age, sex, race, duration, and dosage of vitamin D and calcium supplement, other medical diagnoses, medications, laboratory values, and reported symptoms.
+
+ **Laboratory Methods** 
+
+All 25(OH)D tests ordered in Olmsted County were sent for measurement to the Mayo Clinic Laboratory during the study period. Before November 2, 2004, the 25(OH)D value was measured by using radioimmunoassay (Dia- Sorin), with an interassay coefficient of variation of 12% to 14%. After November 2, 2004, the 25(OH)D value was measured by using isotope dilution liquid chromatography-tandem mass spectrometry, with an interassay coefficient of variation of 3.7% to 11%. Internal validation studies at Mayo Clinic found that the 2 methods were comparable in their measurement of the true concentration of 25(OH)D. (Data were obtained from R. Singh, PhD, personal oral and written communication, January 22, 2014.)
+
+ **Statistical Analyses** 
+
+Annual incidence rates for each sex and age group were calculated by dividing the number of cases with 25(OH)D values above 50 ng/mL by REP census population estimates. The REP census data provide a validated, virtually complete enumeration of the Olmsted County population at any point in time.19,20 Estimates from the Minnesota State Demographic Center were used to aid in linear interpolation between census years. Incidence rates per 100,000 person-years were age- and sex-adjusted to the population structure of the 2010 US total population to improve generalization to the entire US population.
+
+The relation of incidence rates to age, sex, and time of diagnosis was accessed by fitting generalized linear models assuming a Poisson error structure with a log link function, which was consistent with a log-linear model. All statistical analyses were performed using SAS version 9.3 (SAS Institute Inc). P values of <.05 were considered statistically significant. Bivariate and multivariate analyses, including adjustments for age, year, sex, and population, were performed to assess the association between 25(OH)D values above 50 ng/mL and hypercalcemia.
+
+### RESULTS
+
+A total of 20,308 25(OH)D tests were performed on Olmsted County residents between January 2002 and December 2011. Of these tests, 1885 unique persons (9.3%) had a 25(OH)D value above 50 ng/mL, of which 1714 (91%) had research authorization allowing record abstraction. In these 1714 patients, 123 (0.6%) and 37 (0.2%) had 25(OH)D concentrations 80 ng/mL and above and 100 ng/mL and above, respectively (see Table 1). The 25(OH)D values ranged from 51 to 218 ng/mL, with a median value of 57 ng/mL and one outlier at 364 ng/mL. Patients with 25(OH)D values above 50 ng/mL were predominantly women (81%), aged 50 years and older (69%), and white (93%).
+
+In a seasonal analysis, 976 individuals with 25(OH)D values above 50 ng/mL (57%) were identified between May and October and 738 (43%) between November and April (P<.001) (see Table 1). The mean 25(OH)D concentration was greater in patients detected in winter (62.2 ng/mL with the outlier excluded) than in those detected in summer (60.6 ng/mL) (P=.03). The median value (57 ng/mL) was the same in both groups. Serum 25(OH)D values 80 ng/mL and above and 100 ng/mL and above were not significantly related to season.
+
+The age- and sex-adjusted incidence of 25(OH)D values above 50 ng/mL increased 26-fold from 9 to 233 cases per 100,000 person-years from 2002 to 2011 (P<.001) (Figure 1). The increase was greatest in women (from 14 to 358 cases per 100,000; P<.001) and in persons aged 65 years and older (from 14 to 672 cases per 100,000; P<.001). The incidence also increased significantly in patients with 25(OH)D values 80 ng/mL and above (P<.001), but not for patients with values 100 ng/mL and above (P=.09) (Figure 2). The annual number of 25(OH)D tests obtained from 2002 to 2011 also increased. After adjustment for the increase in vitamin D testing in a multivariate model, the increase in the incidence of 25(OH)D values above 50 ng/mL remained significant (P<.001).
+
+A total of 1070 patients (62%) with 25(OH)D values above 50 ng/mL had serum calcium levels measured within 3 months of the index date, with most serum calcium levels (78%) measured within 1 day of the index date (Figure 3). Of those with serum calcium levels measured, 165 (15%) had hypercalcemia. In patients who had 25(OH)D values 51 to 79, 80 to 99, or 100 ng/mL and above, the number of patients with serum calcium levels measured within 3 months was 988 (62%), 56 (65%), and 26 (70%), respectively (see Table 1). Of these, 151 (15%), 9 (16%), and 5 (19%), respectively, had hypercalcemia (P=.60 for the trend).
+
+In patients with 25(OH)D values above 50 ng/mL and hypercalcemia, 95 (58%) had serum parathyroid hormone (PTH) levels measured within 3 months of the index date (see Figure 3). Only 3 patients (3%) had low PTH values (<10 pg/mL), with 21 (22%) in the normal range (10-27.5 pg/mL), 45 (47%) in the inappropriately high normal range for hypercalcemia (27.6-55 pg/mL),21 and 26 (27%) in the high range (>55 pg/mL). Of the 3 with low PTH, manual abstraction confirmed that only 1 patient had vitamin D toxicity (Table 2). There were no patients who had documented sarcoidosis, tuberculosis, lymphoma, or idiopathic infantile hypercalcemia, all known to cause hypervitaminosis D and hypercalcemia.
+
+Regression analysis revealed no relation between 25(OH)D levels and serum total calcium levels (R2=.002; P=.20) (see Figure 3). In a multivariate analysis examining the effect of age, sex, 25(OH)D level, and calendar year on the risk of hypercalcemia, 25(OH)D values were not associated with hypercalcemia (odds ratio <span>[OR]</span>, 1.01; P=.24). However, increasing age (OR, 1.03; 95% CI, 1.02-1.04), female sex (OR, 1.7; 95% CI, 1.1-2.8), and advancing calendar year (OR, 1.1; 95% CI, 1.02-1.23) were associated with an increased risk of hypercalcemia.
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/50-ng-f3-calcium.jpg" alt="image">
+
+A medical record review of patients with 25(OH)D values 100 ng/mL and above (n=37) confirmed ingestion of exogenous vitamin D supplements in all but one individual. Of these 36 patients, 24 (67%) were taking at least 50,000 IU of either ergocalciferol (vitamin D2) or cholecalciferol (vitamin D3) from once weekly to once daily for a duration of 1 to more than 3 months. In the remainder, the clinical notes indicated that they were taking high doses of vitamin D supplements, but the dosages were not specified.
+
+Of the 1714 patients with 25(OH)D values above 50 ng/mL, medical record abstraction revealed only 4 (0.2%) cases in whom the vitamin D concentration was temporally associated with hypercalcemia (see Table 2). In these cases, the increase in calcium concentration from normal to high values was temporally associated with vitamin D supplementation, resolution of hypercalcemia after the cessation of vitamin D supplementation, and no alternative explanation for hypercalcemia (eg, excess calcium ingestion or primary hyperparathyroidism) was documented, satisfying our definition of causality. All were adult women who were taking 50,000 IU of vitamin D at least weekly for a minimum of 1 month. Three cases had very mild hypercalcemia and remained asymptomatic with no associated low PTH or elevated creatinine values. The only case of clinical vitamin D toxicity was a 51-year- old woman who presented with a 25(OH)D value of 364 ng/mL and a serum total calcium level of 17.5 mg/dL. She was taking 50,000 IU of vitamin D and 3000 mg of calcium at least once daily for more than 3 months. She presented with acute kidney injury in the setting of stage 3 chronic kidney disease, low PTH, and symptoms of severe hypercalcemia, including fatigue, anorexia, weight loss, nausea, vomiting, and confusion.
+
+<span style="color:#00F;">(VitaminDWiki Note: all hypercalcemia was in women taking > 1000 mg of Calcium supplements)</span>
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/50-ng-t2-excess-ca-intake.jpg" alt="image">
+
+### DISCUSSION
+
+The incidence of 25(OH)D values above 50 ng/mL increased significantly from 9 to 233 cases per 100,000 person-years between 2002 and 2011. The greatest increase was in women and in those aged 65 years and older. The increasing incidence trend remained significant even after adjusting for the increase in the annual number of 25(OH)D tests. The increasing incidence was also evident for 25(OH)D values 80 ng/mL and above, with an increase from 1 to 15 cases per 100,000 person-years. Although the incidence trend was not significant for 25(OH)D values 100 ng/mL and above, likely owing to the small sample size, there was still an increase from 0 to 5 cases per 100,000 from 2002 to 2011. The increasing incidence of 25(OH)D values above 50 ng/mL is likely due to the increasing use of vitamin D supplements, both self- and physician-prescribed.  **We found no corresponding increase in acute clinical toxicity, which was found only in 1 patient with a 25(OH)D value of 364 ng/mL.** 
+
+The prevalence of vitamin D supplementation in persons aged 14 years and older in the United States increased from 26% between 1988 and 1994 to 35% between 1999 and 2002 to 37% between 2003 and 2006, and it remained stable at 23% to 37% (varying by age) in children.22 In addition to vitamin D supplementation for osteoporosis, the explosion of studies linking vitamin D deficiency to many disease states has led to increased prescribing of vitamin D by physicians.3,5,23,24
+
+In the US population between 2000 and 2004, the mean 25(OH)D concentration ranged from 23 ng/mL in persons aged 70 years and older to 31 ng/mL in children aged 1 to 5 years.25 The 25(OH)D values were lowest in women (25 ng/mL), non-Hispanic blacks (16 ng/mL), and winter (24 ng/mL). Globally, vitamin D deficiency is more prevalent in winter, women, older age groups, individuals with darker skin, and high latitudes.26-28 Our patients were predominantly women (81%), aged 50 years and older (69%), and white (93%), with higher vitamin D levels found in winter months. These characteristics resemble the demographic characteristics of individuals with vitamin D deficiency, suggesting that those with or at a higher risk of vitamin D deficiency may be taking supplements.
+
+ **We found that 25(OH)D concentrations between 51 and 218 ng/mL did not significantly alter serum calcium values** . This finding is consistent with literature reviews of clinically confirmed cases of vitamin D toxicity in both adults8 and children11 who show no relation between serum calcium and 25(OH)D concentrations, even at 25(OH)D values of 200 to 700 ng/mL. Similarly, a recent study reported no relation between vitamin D supplementation dose and hypercalcemia.29
+
+The lack of association between 25(OH)D values above 50 ng/mL and hypercalcemia was confirmed by multivariate analysis, although increasing age, female sex, and advancing calendar year were associated with an increased risk of hypercalcemia. Hypercalcemia probably resulted from other causes such as primary or secondary hyperparathyroidism, thiazide diuretic use, or calcium supplementation. Of the 4 cases of hypercalcemia that was temporally associated with elevated 25(OH)D values, only 1 case had clinical symptoms of acute toxicity. This case was similar to cases previously reported in the literature.30,31 Most cases of acute vitamin D toxicity involve vitamin D doses of at least 50,000 IU and 25(OH)D concentrations of at least 140 ng/mL in adults7-9 and vitamin D doses above 240,000 IU and 25(OH)D values above 250 ng/mL in children.11
+
+ **Our results agree with those of previous studies demonstrating that clinical vitamin D toxicity is rare, even with serum 25(OH)D concentrations above 100 ng/mL** . It is debatable how these findings apply to the most recent guidelines on vitamin D supplementation. The Endocrine Society guidelines,13 which target populations at risk of vitamin D deficiency, recommend a daily vitamin D intake of 10,000 IU as the UL, corresponding to a 25(OH)D concentration of 100 ng/mL. The UL is the maximum daily intake not expected to pose any harm to the general population. Even though we found 3 individuals with mild hypercalcemia attributed to 25(OH)D in the 51 to 100 ng/mL range, the clinical importance of this is not clear. These patients had no associated low PTH, which would be expected to be suppressed, and no clinical symptoms. Thus, our results support the position that 25(OH)D values up to 100 ng/mL are unlikely to cause acute harm.
+
+Even if 25(OH)D values above 50 ng/mL, or even above 100 ng/mL, are unlikely to cause acute toxicity, achieving 25(OH)D values above 50 ng/mL has not been found to be beneficial, especially for the general population. On the contrary, several studies have found an association between 25(OH)D concentrations above 30 to 60 ng/mL and an increased risk of all-cause mortality,32-34 cardiovascular disease,32,35,36 cancers,37-39 and falls and fractures.40,41 Furthermore, even in latitudes close to the equator, maximal sun or other ultraviolet light exposure seldom increases 25(OH)D values above 50 to 60 ng/mL.42-44 Without significant sun exposure, achieving 25(OH)D concentration above 50 ng/mL requires vitamin D ingestion of approximately 4000 IU/d in persons older than 8 years,8 which has been defined as the UL for vitamin D by the IOM.7 Thus, although it is reassuring that acute vitamin D toxicity is associated with only extreme 25(OH)D values, the potential for chronic adverse events is of concern and requires further study.
+
+The strengths of our study include a large community-based population and access to all follow-up they may have had related to acute toxicity from primary through tertiary care. However, as anticipated in a retrospective analysis, our study had limitations. First, because only those in the population with a 25(OH)D measurement were included, additional individuals with 25(OH)D values above 50 ng/mL who were not tested may not have been recognized, and the true incidence may be greater than we identified. Second, of those with 25(OH)D values above 50 ng/mL, 38% had no concurrent calcium measurement, and the incidence of hypercalcemia associated with 25(OH)D may have been underestimated. Third, few patients were assessed for hypercalciuria, which could be present in the absence of hypercalcemia and reflect acute toxicity. Fourth, we examined only acute toxicity and did not evaluate potential long-term adverse effects of 25(OH)D values above 50 ng/mL.
+
+### CONCLUSION
+
+We provide evidence in a northern population that the incidence of 25(OH)D values above 50 ng/mL increased dramatically from 2002 to 2011 without a corresponding increase in acute clinical toxicity. High-dose intermittent vitamin D supplementation has become established as a means of quickly restoring vitamin D status to normal and of improving adherence. We found that most cases of 25(OH)D levels above 100 ng/mL were associated with prolonged use of high-dose vitamin D supplements, which are available without a prescription. Until further studies demonstrate the safety of maintaining 25(OH)D values above 50 ng/mL, we recommend monitoring serum 25(OH)D and calcium levels when using intermittent vitamin D doses of 50,000 IU and above (or daily doses >4000 IU) on a continuous basis. We would also encourage greater awareness by health  providers of the doses of nonprescription vitamin D used by their patients.
+
+ACKNOWLEDGMENTS
+
+We thank Barbara Abbott (Rochester Epidemiology Project, Data Collection, Mayo Clinic) for her help with acquisition of data from the Rochester Epidemiology Project database. We thank Brian Kabat, BS, Carin Smith, BS, and Kelly Edwards, BA (Department of Health Science Research, Mayo Clinic), and Richard Zeller (Department of Research, Olmsted Medical Center), for their assistance with laboratory data retrieval. None received direct compensation for their contributions.
+
+Abbreviations and Acronyms:	25(OH)D	=	25-hydroxyvitamin D; IOM = Institute of Medicine; OR = odds ratio; PTH = parathyroid hormone; REP = Rochester Epidemiology Project; UL = tolerable upper intake level
+
+Affiliations (Continued from the first page of this article.): Medicine (P.R.F.), Department of Laboratory Medicine and Pathology (R.J.S.), Department of Health Science Research (S.S.C.), and Department of Family Medicine (J.A.M., S.M.Q., T.D.T.), Mayo Clinic, Rochester, MN.
+
+Grant Support: This study was made possible by the Rochester Epidemiology Project (grant number R0I- AG034676; Principal Investigator: Walter A. Rocca, MD, MPH, and Barbara P. Yawn, MD, MSc).
+
+Potential Competing Interests: Dr Thacher is a consultant for Biomedical Systems.
+
+Correspondence: Address to Daniel V. Dudenkov, MD, Department of Internal Medicine, Mayo Clinic, 200 First St SW, Rochester, MN 55905 (dudenkov.daniel@mayo.edu).
+
+### REFERENCES
+
+1. ThacherTD, Clarke BL. Vitamin D insufficiency. Mayo Clin Proc. 2011;86(1):50-60.
+
+1. Bailey RL, Dodd KW, Go ldman JA, et al. Estimation of total usual calcium and vitamin D intakes in the United States. J Nutr. 2010;140(4):817-822.
+
+1. Sanders KM, Nicholson GC, Ebeling PR. Is high dose vitamin D harmful? Calcif Tissue Int. 2013;92(2):191-206.
+
+1. Hansen KE. High-dose vitamin D: helpful or harmful? Curr Rheumatol Rep. 2011;13(3):257-264.
+
+1. Kearns MD, Alvarez JA, Tangpricha V. Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract. 2014;20(4):341-351.
+
+1. Brannon PM, Yetley EA, Bailey RL, Picciano MF. Overview of the conference “Vitamin D and Health in the 21st Century: an Update.” Am J Clin Nutr. 2008;88(2):483S-490S.
+
+1. Ross AC, Taylor CL, Yaktine AL, Del Valle HB, eds. Dietary Reference Intakes for Calcium and Vitamin D. Washington, DC: The National Academies Press; 2011.
+
+1. Vieth R. Vitamin D toxicity, policy, and science. J Bone Miner Res. 2007;22(suppl 2):V64-V68.
+
+1. Jones G. Pharmacokinetics of vitamin D toxicity. Am J Clin Nutr. 2008;88(2):582S-586S.
+
+1. Koul PA, Ahmad SH, Ahmad F, Jan RA, Shah SU, Khan UH. Vitamin D toxicity in adults: a case series from an area with endemic hypovitaminosis D. Oman Med J. 2011;26(3):201-204.
+
+1. Vogiatzi MG, Jacobson-Dickman E, Deboer MD; Drugs and Therapeutics Committee of the Pediatric Endocrine Society. Vitamin D supplementation and risk oftoxicity in pediatrics: a review of current literature. J Clin Endocrinol Metab. 2014; 99(4):1132-1141.
+
+1. Hathcock JN, Shao A, Vieth R, Heaney R. Risk assessment for vitamin D. Am J Clin Nutr. 2007;85(1):6-18.
+
+1. Holick MF, Binkley NC, Bischoff-Ferrari HA, et al; Endocrine Society. Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline <span>[published correction appears in J Clin Endocrinol Metab. 2011; 96(12):3908]</span>. J Clin Endocrinol Metab. 2011;96(7):1911-1930.
+
+1. Melton LJ III. History of the Rochester Epidemiology Project. Mayo Clin Proc. 1996;71(3):266-274.
+
+1. St Sauver JL, Gnossandt BR, Yawn BP, Melton LJ III, Rocca WA. Use of a medical records linkage system to enumerate a dynamic population over time: the Rochester Epidemiology Project. Am J Epidemiol. 20II;I73(9):I059-I068.
+
+1. Kurland LT, Molgaard CA. The patient record in epidemiology. SciAm. 198I;245(4):54-63.
+
+1. Yawn BP, Yawn RA, Geier GR, Xia Z, Jacobsen SJ. The impact of requiring patient authorization for use of data in medical records research. J Fam Pract. 1998;47(5):361-365.
+
+1. Jacobsen SJ, Xia Z, Campion ME, et al. Potential effect of authorization bias on medical record research. Mayo Clin Proc. I999; 74(4):330-338.
+
+1. St Sauver JL, Grossardt BR, Leibson CL, Yawn BP, Melton LJ III, Rocca WA. Generalizability of epidemiological findings and public health decisions: an illustration from the Rochester Epidemiology Project. Mayo Clin Proc. 2012;87(2):151-160.
+
+1. Rocca WA, Yawn BP, St Sauver JL, Grossardt BR, Melton LJ III. History of the Rochester Epidemiology Project: half a century of medical records linkage in a US population. Mayo Clin Proc. 20I2;87(I2):1202-I2I3.
+
+1. Kao PC, van Heerden JA, Grant CS, Klee GG, Khosla S. Clinical performance of parathyroid hormone immunometric assays. Mayo Clin Proc. 1992;67(7):637-645.
+
+1. Gahche J, Bailey R, Burt V, et al. Dietary supplement use among U.S. adults has increased since NHANES III (I988-I994). NCHS Data Brief. 2011;(61):1-8.
+
+1. Pludowski P, Holick MF, Pilz S, etal. Vitamin D effects on musculoskeletal health, immunity, autoimmunity, cardiovascular disease, cancer, fertility, pregnancy, dementia and mortality—a review of recent evidence. Autoimmun Rev. 2013;12(10):976-989.
+
+1. Robbins J. ACP Journal Club. Review: high-dose oral vitamin D supplements and active vitamin D prevent falls in older persons. Ann Intern Med. 20I0;I52(2):JCI-JC3.
+
+1. Looker AC, Pfeiffer CM, Lacher DA, Schleicher RL, Picciano MF, Yetley EA. Serum 25-hydroxyvitamin D status of the US population: 1988-1994 compared with 2000-2004. Am J Clin Nutr. 2008;88(6):1519-1527.
+
+1. Holick MF. Vitamin D deficiency. N Engl J Med. 2007;357(3): 266-281.
+
+1. Lips P. Worldwide status of vitamin D nutrition. J Steroid Bio- chem Mol Biol. 2010;121(1-2):297-300.
+
+1. Gozdzik A, Barta JL, Wu H, et al. Low wintertime vitamin D levels in a sample of healthy young adults of diverse ancestry living in the Toronto area: associations with vitamin D intake and skin pigmentation. BMC Public Health. 2008;8:336.
+
+1. Ekwaru JP, Zwicker JD, Holick MF, Giovannucci E, Veugelers PJ. The importance of body weight for the dose response relationship of oral vitamin D supplementation and serum 25- hydrexyvitamin D in healthy volunteers. PLoS One. 20I4; 9(11):e111265.
+
+1. Schwartzman MS, Franck WA. Vitamin D toxicity complicating the treatment of senile, postmenopausal, and glucocorticoid- induced osteoporosis. Four case reports and a critical commentary on the use of vitamin D in these disorders. Am J Med. l987;82(2):224-230.
+
+1. Davies M, Adams PH. The continuing risk of vitamin-D intoxication. Lancet. 1978;2(8090):621-623.
+
+1. Melamed ML, Michos ED, Post W, Astor B. 25-Hydroxyvitamin D levels and the risk of mortality in the general population. Arch Intern Med. 2008;168(15): 1629-1637.
+
+1. Amrein K, Quraishi SA, Litonjua AA, etal. Evidence for a U-shaped relationship between pre-hospital vitamin D status and mortality: a cohort study. J Clin Endocrinol Metab. 2014;99(4): 1461-1469.
+
+1. Durup D, Jorgensen HL, Christensen J, Schwarz P, Heegaard AM, Lind B. A reverse J-shaped association of all-cause mortality with serum 25-hydraxyvitamin D in general practice: the CopD study. J Clin Endocrinol Metab. 20l2;97(8):2644-2652.
+
+1. Ginde AA, Scragg R, Schwartz RS, Camargo CA Jr. Prospective study of serum 25-hydroxyvitamin D level, cardiovascular disease mortality, and all-cause mortality in older U.S. adults. J Am Geriatr Soc. 2009;57(9):l595-l 603.
+
+1. Fiscella K, Franks P. Vitamin D, race, and cardiovascular mortality: findings from a national US sample. Ann Fam Med. 2010; 8(l):ll-l8.
+
+1. Chlebowski RT, Johnson KC, Kooperberg C, et al. Women's Health Initiative Investigators. Calcium plus vitamin D supplementation and the risk of breast cancer. J Natl Cancer Inst. 2008;l00(22):l58l-l59l.
+
+1. Stolzenberg-Solomon RZ, Jacobs EJ, Arslan AA, et al. Circulating 25-hydroxyvitamin D and risk of pancreatic cancer: Cohort Consortium Vitamin D Pooling Project of Rarer Cancers. Am J Epidemiol. 20l0;l72(l):8l-93.
+
+1. Tuohimaa P, Tenkanen L, Ahonen M, et al. Both high and low levels of blood vitamin D are associated with a higher prostate cancer risk: a longitudinal, nested case-control study in the Norolic countries. Int J Cancer. 2004;l08(l):l04-l08.
+
+1. Sanders KM, Stuart AL, Williamson EJ, et al. Annual high-dose oral vitamin D and falls and fractures in older women: a randomized controlled trial <span>[published correction appears in JAMA. 20l0;303(23):2357]</span>. JAMA. 20l0;303(l8):l8l5-l822.
+
+1. Smith H, Anderson F, Raphael H, Maslin P, Crazier S, Cooper C. Effect of annual intramuscular vitamin D on fracture risk in elderly men and women—a population-based, randomized, double-blind, placebo-controlled trial. Rheumatology (Oxford). 2007;46(l2):l852-l857.
+
+1. Luxwolda MF, Kuipers RS, Kema IP, Dijck-Brauwer DA, Muskiet FA. Traditionally living populations in East Africa have a mean serum 25-hydraxyvitamin D concentration of ll5 nmol/l. Br J Nutr. 20l2;l08(9):l557-l56l.
+
+1. Barger-Lux MJ, Heaney RP. Effects of above average summer sun exposure on serum 25-hydroxyvitamin D and calcium absorption. J Clin Endocrinol Metab. 2002;87(ll):4952-4956.
+
+1. Tangpricha V, Turner A, Spina C, Decastro S, Chen TC, Holick MF. Tanning is associated with optimal vitamin D status (serum 25-hydroxyvitamin D concentration) and higher bone mineral density. Am J Clin Nutr. 2004;80(6): l645-l649.
+
+---
+
+### Editorial in same issue: Vitamin D Is Not as Toxic as Was Once Thought: Dr. Holick
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/holick-2015---vitamin-d-is-not-as-toxic-as-was-once-thought---a-historical-and-an-up-to-date-perspective.pdf">Download the PDF from VitaminDWiki</a>** 
+
+Clips:
+
+* "This concern(early 1950's) for vitamin D toxicity in children led to most of the world (including countries in Europe, the Middle East, Asia, Africa, and South America) banning vitamin D fortification of milk."
+
+* Above study found a "20-fold increase in the number of individuals with serum 25(OH)D levels of more than 50 ng/mL"
+
+* IoM . . "cautioned that blood levels of 25(OH)D should not be more than 50 ng/mL."
+
+* A study which looked at 3.8 million blood samples found that for those > 50 ng, D2 was detected  in 57%- probably due to D2 prescription
+
+* "only Food and Drug Administratione approved pharmaceutical form of vitamin D available in the United States is vitamin D2."
+
+> VitaminDWiki notes: Wrong - Bio-Tech Vitamin D3 has been available for prescription since about 2012
+
+* "The evidence is clear that vitamin D toxicity is one of the rarest medical conditions. . "
+
+* Glucocorticoids can be used to treat rare vitamin D toxicity - but the adverse effects are considerable
+
+* "Simply reducing the calcium intake, wearing sun protection to prevent vitamin D production, and eliminating all vitamin D from dietary sources will result in a gradual decrease in serum 25(OH)D levels, with no significant sequelae from the toxicity
+
+---
+
+ **Short url =** http://is.gd/50ngVitD

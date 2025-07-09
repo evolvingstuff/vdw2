@@ -62,7 +62,7 @@ Ramos R, Alcázar R, Otero A, de Francisco AL, Del Pino MD.
 
 * [Application to FDA for use of active Vitamin D for hemodialysis patients – July 2011](/posts/application-to-fda-for-use-of-active-vitamin-d-for-hemodialysis-patients)
 
-* <a href="/posts/active-form-of-vitamin-d-appears-to-help-prevent-and-treat-some-cancers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 923">Active form of vitamin D appears to help prevent and treat some cancers – Feb 2011</a>
+* [Active form of vitamin D appears to help prevent and treat some cancers – Feb 2011](/posts/active-form-of-vitamin-d-appears-to-help-prevent-and-treat-some-cancers)
 
 * [Some form of vitamin D may be the lowest cost treatment for CKD – Spanish Sept 2011](/posts/some-form-of-vitamin-d-may-be-the-lowest-cost-treatment-for-ckd-spanish)
 

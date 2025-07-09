@@ -81,7 +81,7 @@ Trial registration ClinicalTrials.gov NCT00415402.
 
 * [vitamin D and vaginosis - 2010.pdf](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1759)
 
-* <a href="/posts/7x-more-likely-to-have-low-birth-weight-babies-when-mother-very-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 467">7X more likely to have low birth weight babies when mother very low on vitamin D – March 2010</a>
+* [7X more likely to have low birth weight babies when mother very low on vitamin D – March 2010](/posts/7x-more-likely-to-have-low-birth-weight-babies-when-mother-very-low-on-vitamin-d)
 
 * [Premature delivery associated with low vitamin D in Japanese women – Mar 2011](/posts/premature-delivery-associated-with-low-vitamin-d-in-japanese-women)
 
@@ -91,7 +91,7 @@ Trial registration ClinicalTrials.gov NCT00415402.
 
    * many now recommend a MINIMUM 400 IU and some a MINIMUM 600 IU of vitamin D - following graph is on this page
 
-{IMG(fileId="1984" max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 # On web
 

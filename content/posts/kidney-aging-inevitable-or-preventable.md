@@ -38,4 +38,4 @@ if registered <span>[tiki-download_file.php?fileId=1959]</span> for PDF
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)

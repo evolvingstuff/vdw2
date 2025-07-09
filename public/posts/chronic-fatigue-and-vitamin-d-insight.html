@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset=utf-8><title>Chronic Fatigue and Vitamin D insight</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Chronic Fatigue and Vitamin D insight</h1><time>January 12, 2014</time><div data-pagefind-body><h4 id=vitamin-d3-deficiency-results-in-dysfunctions-of-immunity-with-severe-fatigue-and-depression-in-a-variety-of-diseases>Vitamin D3 Deficiency Results in Dysfunctions of Immunity with Severe Fatigue and Depression in a Variety of Diseases</h4><p><a href=http://iv.iiarjournals.org/>in vivo</a> 28: 133-146 (2014)</p><p>ANNA DOROTHEA HOCK <a href=mailto:ad.hoeck@t-online.de>ad.hoeck@t-online.de</a></p><p>Office of Internal Medicine, Cologne, Germany</p><p><strong>Abstract.</strong></p><p>Recent immune data on vitamin D3 deficiency help to more clearly understand chronic fatiguing illnesses, such as autoimmune disorders, cancer and chronic fatigue syndrome (CFS). The vitamin D3 pathway is activated by stress and requires sufficient stores of precursor 25-hydroxyvitamin D3 for proper cell and immune functions. In vitamin D3 deficiency, secretion of the antimicrobial peptide cathelicidin is reduced, leading to impaired auto/xenophagy. As a result, phagocytosis, cytotoxicity, antigen processing and antigen presentation become dysregulated. In addition, vitamin D3 deficiency affects T- and B-lymphocyte activation, as well as quantity, maturation and function of regulatory natural killer T-cells and their counterparts in the gut, i.e. T-cell receptor-afi, cluster of differentiation-8aa-positive intraepithelial lymphocytes. Consequently, innate and adaptive immunity become de-regulated, with microbial effects contributing further to this. Persistent infections, chronic inflammation and fatigue follow.</p><p>Vitamin D3 substitution in such conditions may help to prevent or to ameliorate such chronic conditions, even in patients with cancer</p><p>We are unable to post the entire study, as it is behind a paywall. The following is a tiny portion of the insigtful study</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/hock-f2.jpg alt=image>
+<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/hock-f3.jpg alt=image><h3 id=first-portion-of-discussion>First portion of Discussion</h3><p>As shown here, vitamin D3 levels, metabolism and physiological immunoreactivity are intimately related. Insufficient levels and activities of D3 can cause immune dysregulation, resulting in various diseases, and can negatively influence the course of a variety of diseases.</p><p>Initial symptoms of low 25OHD3 levels are intermittent fatigue and recurrent infections which remit seasonally or after holiday. Insidiously, chronic fatigue syndrome may develop over time, typically promoted by stressful and exhaustive life conditions, infections, traumatic or toxic injuries. Hallmarks of chronic fatigue syndrome/myalgic encephalopathy (CFS/ME) are severe and disabling fatigue, absence of fever in spite of general malaise resembling an acute infection, and exertion-induced aggravation of functional disabilities, as well as many additional symptoms, in particular generalized pain, sleep disorder, and gastrointestinal discomfort. Obvious organ damage is lacking, whereas reactive depressive symptoms prevail. Symptom shift to fibromyalgia (FMS) seems to be the rule when patients get older. Typically, FMS is correlated with chronic skeletal disorders of low inflammatory activity and neuropathic pains. Yet many people do not acquire CFS/ME or FMS. They suffer from clear-cut diseases that are supposed to be triggered by vitamin D3 deficiency or insufficiency. Usually, disabling fatigue accompanies chronic inflammatory and autoimmune diseases, as well as cancer, whereas less severe fatigue is usually reported by patients with chronic tissue de-generation. Severe chronic fatigue has also been observed in psychiatric diseases. Often, patients view fatigue as the most disabling among all the other disease symptoms.</p><p>Although clues are emerging that low 25OHD3 may cause chronic fatigue, altered lifestyle and behavior would also explain it, in particular with respect to patients who appear depressive or exhausted. Additionally, measurement of chronic fatigue is highly subjective. However, the diagnosis of depression or exhaustion is also subjective, in particular when the differential diagnosis of CFS/FMS or FMS is not considered. In contrast, in chronic inflammatory, autoimmune or malignant diseases, physicians appreciate fatigue undoubtedly as being disease-induced. In order to overcome usual prejudice against chronic fatigue, it should be considered that inflammation may not only induce fatigue, but also alteration of mitochondrial function, auto/xenophagy, or excitation-metabolism coupling due to lowered subcellular calcium stores (22, 166, 167).</p><hr><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href=/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d>Overview Fibromyalgia or Chronic Fatigue and vitamin D</a> - this was the most popular web page on VitaminDWiki in 2013</p></li><li><p><a href=/posts/overview-pain-and-vitamin-d>Overview Pain and Vitamin D</a></p></li><li><p><a href="http://www.google.com/custom?hl=en&amp;client=google-coop&amp;cof=FORID:13%3BAH:left%3BCX:Search%2520Vitamin%2520D%2520Wiki%3BL:http://www.google.com/intl/en/images/logos/custom_search_logo_sm.gif%3BLH:30%3BLP:1%3BVLC:%23551a8b%3BDIV:%23cccccc%3B&amp;cx=001215644404345293668:3di8vufs_m4&amp;adkw=AELymgW235dllao9DRmgCQlRBDOVBNu3mRbqmQ1d11Nf1NYzQUH5nvHgkluuz1ACWY6VZcgqOR3x3VPYQUdjd4OO5L0WKgsAnXif4r5fi1JWwAeW3Ya8q1I&amp;boostcse=0&amp;ei=lNxOTajpE4easAPC0q3fCg&amp;q=Fibromyalgia+OR+%22chronic+fatigue%22&amp;start=0&amp;sa=N">Search VitaminDWiki for Fibromyalgia OR &ldquo;chronic fatigue&rdquo;</a> 1850 items as of Jan 2014</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>cancer</span>
+<span class=tag>chronic fatigue</span>
+<span class=tag>depression</span>
+<span class=tag>high dose</span>
+<span class=tag>immunity</span>
+<span class=tag>intervention</span>
+<span class=tag>mood disorders</span>
+<span class=tag>neurological</span>
+<span class=tag>Pain - chronic</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>autoimmune, cancer, chronic fatigue, depression, high dose, immunity, intervention, mood disorders, neurological, Pain - chronic, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

@@ -83,13 +83,13 @@
 
 > Cost of $14,523/year.  "Number needed to treat" with  **Repatha**  appears to be 69
 
-> <a href="/posts/risk-of-cardiac-failure-reduced-20-percent-by-800-iu-of-vitamin-d-and-calcium-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of Cardiac failure reduced 20 percent by 800 IU of vitamin D and Calcium – meta-analysis July 2014">Number Needed to Treat appears to be 5 - just 800 IU of Vitamin D - for approximately $5 per year</a>
+> [Number Needed to Treat appears to be 5 - just 800 IU of Vitamin D - for approximately $5 per year](/posts/risk-of-cardiac-failure-reduced-20-percent-by-800-iu-of-vitamin-d-and-calcium-meta-analysis)
 
 * [CVD 2X more prevalent in Korea for those with less than 10 ng of vitamin D](http://e-nrp.org/search.php?where=aview&id=10.4162%2Fnrp.2012.6.2.162&code=0161NRP&vmode=FULL) May 2012
 
 > 6,000 people over the age of 50.  Full text on-line
 
-{IMG(attId="1322",width="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/cvd-2x.jpg" alt="image" width="400">
 
 * [A National Goal: Prevent a Million Heart Attacks and Strokes by 2022](https://www.nytimes.com/2018/10/22/well/live/a-national-goal-prevent-a-million-heart-attacks-and-strokes-by-2022.html) NYT, Brody, Oct 2018
 
@@ -182,7 +182,7 @@ No Vitamin K2 to stop Calcium increased by Vitamin D from coating the arteries**
 
 *  **Mayo Clinic on methods of dealing with Afib April 2013 at the bottom of this page**   **Includes Vitamin D and Omega-3** 
 
-* <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
+* [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
 * [LA Times review of Fish Oil Meta-analysis](http://www.latimes.com/health/boostershots/la-heb-fish-oil-study-20120409,0,2337564.story) April 2012
 

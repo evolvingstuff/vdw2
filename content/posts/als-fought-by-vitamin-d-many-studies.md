@@ -77,7 +77,7 @@ Vitamin D has been recommended by Global ALS group since 2015
 
 Vitamin D Receptor Activators (Resveratrol and Curcumin) treat ALS
 
- **You might want to see instead: <a href="/posts/ankylosing-spondylitis-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ankylosing spondylitis and low vitamin D – many studies">Ankylosing spondylitis and low vitamin D – many studies</a>** 
+ **You might want to see instead: [Ankylosing spondylitis and low vitamin D – many studies](/posts/ankylosing-spondylitis-and-low-vitamin-d-many-studies)** 
 
 {{< toc >}}
 
@@ -105,7 +105,7 @@ Vitamin D Receptor Activators (Resveratrol and Curcumin) treat ALS
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/amls-survival.jpg" alt="image" width="500">
 
-See also <a href="/posts/amyotrophic-lateral-sclerosis-has-4x-faster-decline-if-severely-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Amyotrophic lateral sclerosis has 4X faster decline if severely low Vitamin D – Nov 2013">Amyotrophic lateral sclerosis has 4X faster decline if severely low Vitamin D – Nov 2013</a>
+See also [Amyotrophic lateral sclerosis has 4X faster decline if severely low Vitamin D – Nov 2013](/posts/amyotrophic-lateral-sclerosis-has-4x-faster-decline-if-severely-low-vitamin-d)
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/als-ci.pdf">Download the PDF from VitaminDWiki </a>** 
 
@@ -115,9 +115,9 @@ See also <a href="/posts/amyotrophic-lateral-sclerosis-has-4x-faster-decline-if-
 
 Many other health problems with poor guts are poorly treated by standard Vitamin D
 
-* <a href="/posts/a-healthy-gut-needs-vitamin-d-and-a-good-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A healthy gut needs Vitamin D and a good vitamin D receptor – Sept 2022">A healthy gut needs Vitamin D and a good vitamin D receptor – Sept 2022</a>
+* [A healthy gut needs Vitamin D and a good vitamin D receptor – Sept 2022](/posts/a-healthy-gut-needs-vitamin-d-and-a-good-vitamin-d-receptor)
 
-* <a href="/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020">Vitamin D is aided by probiotics (review of RCTs) – Dec 2020</a>
+* [Vitamin D is aided by probiotics (review of RCTs) – Dec 2020](/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts)
 
 * [Probiotics - New Naturally Occurring Inhibitor Of ALS Progression](https://is.gd/ALSprobiotics) mentions Buturate - a VDR activator (2020?)
 
@@ -135,7 +135,7 @@ Many other health problems with poor guts are poorly treated by standard Vitamin
 
 * Note: ALS associated with sports, Omega-3 reduces traumatic brain injury
 
-   * <a href="/posts/traumatic-brain-injuries-routinely-treated-by-vitamin-d-omega-3-progesterone-and-gluatmine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Traumatic Brain Injuries routinely treated by Vitamin D, Omega-3, Progesterone and Gluatmine">Traumatic Brain Injuries routinely treated by Vitamin D, Omega-3, Progesterone and Gluatmine</a>
+   * [Traumatic Brain Injuries routinely treated by Vitamin D, Omega-3, Progesterone and Gluatmine](/posts/traumatic-brain-injuries-routinely-treated-by-vitamin-d-omega-3-progesterone-and-gluatmine)
 
 ---
 
@@ -175,7 +175,7 @@ Conclusions: This prospective study in ALS patients confirmed previous retrospec
 
 #### ALS 4X worse if severely low Vitamin D - Nov 2013
 
-<a href="/posts/amyotrophic-lateral-sclerosis-has-4x-faster-decline-if-severely-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Amyotrophic lateral sclerosis has 4X faster decline if severely low Vitamin D – Nov 2013">Amyotrophic lateral sclerosis has 4X faster decline if severely low Vitamin D – Nov 2013</a> has the following chart.
+[Amyotrophic lateral sclerosis has 4X faster decline if severely low Vitamin D – Nov 2013](/posts/amyotrophic-lateral-sclerosis-has-4x-faster-decline-if-severely-low-vitamin-d) has the following chart.
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/als-2014.jpg" alt="image" width="800">
 
@@ -344,7 +344,7 @@ Military: OR = 2.31;
 
  **Note: Pesticides lower Vitamin D. Vitamin D supplementation cancels some of the problem** 
 
-See also VitaminDWiki <a href="/posts/pesticides-increase-risk-of-cancers-alz-als-asthma-adhd-etc-all-related-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016">Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016</a>
+See also VitaminDWiki [Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016](/posts/pesticides-increase-risk-of-cancers-alz-als-asthma-adhd-etc-all-related-to-low-vitamin-d)
 
 ---
 
@@ -428,7 +428,7 @@ The FDA, under pressure from patient groups to approve the medicine, took the un
 
 #### ALS patients helped by Omega-3 – RCT Sept 2017
 
-<a href="/posts/amyotrophic-lateral-sclerosis-patients-helped-by-omega-3-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Amyotrophic Lateral Sclerosis patients helped by Omega-3 – RCT Sept 2017">Amyotrophic Lateral Sclerosis patients helped by Omega-3 – RCT Sept 2017</a>
+[Amyotrophic Lateral Sclerosis patients helped by Omega-3 – RCT Sept 2017](/posts/amyotrophic-lateral-sclerosis-patients-helped-by-omega-3-rct)
 
 ---
 
@@ -506,7 +506,7 @@ Our findings highlighted that 6-month supplementation of vitamin D in ALS patien
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/als-ng.jpg" alt="image" width="300">
 
- **Comment by the founder of VitaminDWiki: Only half of the participants got to a good level of vitamin D (> 40 ng) by the end of the trial, probably due to poor response associated with poor gut function. Anticipate far better results if you use any of the many <a href="/posts/overview-gut-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Gut and vitamin D">gut-friendly</a> forms of vitamin D for a longer time and/or use a loading dose.** 
+ **Comment by the founder of VitaminDWiki: Only half of the participants got to a good level of vitamin D (> 40 ng) by the end of the trial, probably due to poor response associated with poor gut function. Anticipate far better results if you use any of the many [gut-friendly](/posts/overview-gut-and-vitamin-d) forms of vitamin D for a longer time and/or use a loading dose.** 
 
 ---
 
@@ -534,8 +534,8 @@ Our findings highlighted that 6-month supplementation of vitamin D in ALS patien
 
  **See also in VitaminDWiki** 
 
-* <a href="/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab">Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab</a>
+* [Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab](/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab)
 
-* <a href="/posts/muscular-dystrophies-low-vitamin-d-might-be-associated-with-all-9-types" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018">Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018</a>
+* [Muscular Dystrophies – low vitamin D might be associated with all 9 types – Aug 2018](/posts/muscular-dystrophies-low-vitamin-d-might-be-associated-with-all-9-types)
 
-* <a href="/posts/muscles-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscles and Vitamin D - many studies">Muscles and Vitamin D - many studies</a>
+* [Muscles and Vitamin D - many studies](/posts/muscles-and-vitamin-d-many-studies)

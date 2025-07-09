@@ -42,7 +42,7 @@ Symptoms of high vitamin D dietary intake also can include fatigue, headaches an
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">Overview Toxicity of vitamin D</a>
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -54,4 +54,4 @@ Symptoms of high vitamin D dietary intake also can include fatigue, headaches an
 
 * [IoM again fails to look at interactions - Nov 2010](/posts/iom-again-fails-to-look-at-interactions)
 
-{IMG(fileId="1596" max="800")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 800px;">

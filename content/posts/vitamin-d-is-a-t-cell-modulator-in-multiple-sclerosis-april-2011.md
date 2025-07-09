@@ -45,4 +45,4 @@ Copyright © 2011 Elsevier Inc. All rights reserved. PMID: 21419282
 
 * [Journal on vitamins and hormones has several papers on vitamin D – 2011](/posts/journal-on-vitamins-and-hormones-has-several-papers-on-vitamin-d-2011)
 
-* <a href="/posts/vitamin-d-associated-with-reduced-t-cell-attacks-in-multiple-sclerosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D associated with reduced T-cell attacks in Multiple Sclerosis – Sept 2012">Vitamin D associated with reduced T-cell attacks in Multiple Sclerosis – Sept 2012</a>
+* [Vitamin D associated with reduced T-cell attacks in Multiple Sclerosis – Sept 2012](/posts/vitamin-d-associated-with-reduced-t-cell-attacks-in-multiple-sclerosis)

@@ -32,4 +32,4 @@ The problem went away when everyone started taking Vitamin C - due to Linus Paul
 
 The following graph from NEJM 1999 shows the strong relationship between Reyes Syndrome and season for those with dark skins
 
-{IMG(attId="757")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/reyes-vs-season.png" alt="image">

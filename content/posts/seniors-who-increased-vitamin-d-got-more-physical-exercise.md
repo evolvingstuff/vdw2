@@ -61,6 +61,6 @@ The researchers controlled for physical activity, and alluding to the idea that 
 
 * <a href="/posts/overview-seniors-lack-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview Seniors lack Vitamin D</a>
 
-* <a href="/posts/overweight-and-elderly-both-sunbathe-less-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 973">Overweight and elderly both sunbathe less - 2009</a>
+* [Overweight and elderly both sunbathe less - 2009](/posts/overweight-and-elderly-both-sunbathe-less-2009)
 
-* <a href="/posts/elderly-often-trapped-in-vitamin-d-vicious-circles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 884">Elderly often trapped in vitamin D vicious circles</a> getting outdoor breaks those downward circles
+* [Elderly often trapped in vitamin D vicious circles](/posts/elderly-often-trapped-in-vitamin-d-vicious-circles) getting outdoor breaks those downward circles

@@ -58,4 +58,4 @@ PMID:     21613554
 
 * [All items in Obesity and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=19&sort_mode=created_desc) 125 as of July 2012
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)

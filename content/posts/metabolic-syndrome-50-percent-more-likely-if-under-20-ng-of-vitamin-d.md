@@ -59,8 +59,8 @@ PMID:     21595731
 
 * <a href="/posts/metabolic-syndrome-and-vitamin-d-view-of-many-papers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 720">Metabolic Syndrome and vitamin D - view of many papers Aug 2010</a>
 
-* <a href="/posts/is-osteoarthritis-a-metabolic-syndrome" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 540">Is Osteoarthritis a metabolic syndrome – June 2010</a>
+* [Is Osteoarthritis a metabolic syndrome – June 2010](/posts/is-osteoarthritis-a-metabolic-syndrome)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [70 percent increased chance of metabolic syndrome if low on vitamin D – May 2011](/posts/70-percent-increased-chance-of-metabolic-syndrome-if-low-on-vitamin-d)

@@ -63,7 +63,7 @@ Bullet points:
 
 ## See also VitaminDWiki
 
-* <a href="/posts/preemies-have-increased-need-for-vitamin-d-and-calcium-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013">Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013</a>
+* [Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013](/posts/preemies-have-increased-need-for-vitamin-d-and-calcium-rickets)
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a> Vitamin D: Before, During, and After Pregnancy
 
@@ -75,7 +75,7 @@ Bullet points:
 
 * [Premature delivery associated with low vitamin D in Japanese women – Mar 2011](/posts/premature-delivery-associated-with-low-vitamin-d-in-japanese-women)
 
-* <a href="/posts/7x-more-likely-to-have-low-birth-weight-babies-when-mother-very-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 467">7X more likely to have low birth weight babies when mother very low on vitamin D – March 2010</a>
+* [7X more likely to have low birth weight babies when mother very low on vitamin D – March 2010](/posts/7x-more-likely-to-have-low-birth-weight-babies-when-mother-very-low-on-vitamin-d)
 
 # On the web
 

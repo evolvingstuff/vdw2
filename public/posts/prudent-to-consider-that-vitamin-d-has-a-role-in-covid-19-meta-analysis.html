@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset=utf-8><title>Prudent to consider that Vitamin D has a role in COVID-19 – meta-analysis</title>
+<link rel=stylesheet href="/css/main.css?v=1752030348"><link rel=stylesheet href="/css/pagination.css?v=1752030348"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030348"></script><script src="/js/search.js?v=1752030348"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Prudent to consider that Vitamin D has a role in COVID-19 – meta-analysis</h1><time>August 9, 2020</time><div data-pagefind-body><h4 id=the-role-of-vitamin-d-in-the-age-of-covid-19-a-systematic-review-and-meta-analysis-along-with-an-ecological-approach>The Role of Vitamin D in The Age of COVID-19: A Systematic Review and Meta-Analysis Along with an Ecological Approach</h4><p>Preprint <a href=https://doi.org/https>doi: https</a>://doi.org/10.1101/2020.06.05.20123554</p><p>Roya Ghasemian, Amir Shamshirian, Keyvan Heydari, Mohammad Malekan, Reza Alizadeh-Navaei, Mohammad Ali Ebrahimzadeh, Hamed Jafarpour, Arash Rezaei Shahmirzadi, Mehrdad Khodabandeh, Benyamin Seyfari, Meghdad Sedaghat, Alireza Motamedzadeh, Ehsan Dadgostar, Marzieh Aalinezhad, Morteza Behnamfar, Anahita Asadi, Bahman Zarandi, Nazanin Razzaghi, Vahid Yaghoubi Naei, Amirhossein Hessami, Soheil Azizi, Ali Reza Mohseni, Danial Shamshirian</p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:800px"><ul><li><p>This Iranian Meta-analysis was probably written before the following:</p><ul><li><a href=/posts/covid-19-deaths-strongly-correlated-with-percent-having-less-than-10-ng-of-vitamin-d-in-a-country>COVID-19 deaths strongly correlated with percent having less than 10 ng of Vitamin D in a country– July 1 2020</a></li></ul></li><li><p><a href=/posts/covid-19-treated-by-vitamin-d-studies-reports-videos>COVID-19 treated by Vitamin D - studies, reports, videos</a> includes the following</p><ul><li><a href=/posts/massive-review-of-papers-on-vitamin-d-and-covid-19>Massive Review of papers on Vitamin D and COVID-19 - July 3, 2020</a></li></ul></li><li><p><a href=/posts/nutrients-etc-which-fight-viruses-and-fortify-the-immune-system>Nutrients etc, which fight viruses and fortify the immune system</a></p><ul><li>Includes: Vitamin D, Magnesium, Vitamin K, Zinc, Omega-3, Selenium, etc</li></ul></li></ul></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-in-the-age-of-covid-19---meta-compressed.pdf>Download the PDF from VitaminDWiki</a></strong></p><p><strong>Chart trimmed from PDF</strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/meta.jpg alt=image width=600><p><strong><span style=color:#00f>Cropped table of studies</span></strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/meta-table-cropped.jpg alt=image width=900><p>Background: Following emerge of a novel coronavirus from Wuhan, China, in December 2019, it has affected the whole world and after months of efforts by the medical communities, there is still no specific approach for prevention and treatment against the Coronavirus Disease 2019 (COVID-19). Evidence recommends that vitamin D might be an important supportive agent for the immune system, mainly in cytokine response regulation against COVID-19. Hence, we carried out a rapid systematic review and meta-analysis along with an ecological investigation in order to maximize the use of everything that exists about the role of vitamin D in the COVID-19.</p><p>Methods: A systematic search was performed in PubMed, Scopus, Embase, Cochrane Library, Web of Science and Google Scholar (intitle) as well as preprint database of medRxiv, bioRxiv, Research Square, preprints.org, search engine of ScienceDirect and a rapid search through famous journals up to August 4, 2020. Studies focused on the role of vitamin D in confirmed COVID-19 patients were entered into the systematic review. Along with our main aim, to find the second objective correlation of global vitamin D status and COVID-19 recovery and mortality we carried out a literature search in PubMed database to identify the national or regional studies reported the vitamin D status globally. CMA v. 2.2.064 and SPSS v.16 were used for data analysis.</p><p>Results: Eleven studies containing 360,972 participants entered into the meta-analysis. The meta-analysis indicated that 37.7% of COVID-19 patients were suffering from vitamin D deficiency (95% CI, 26.7%-50.1%) and in 32.2% of patients, levels of vitamin D were insufficient (95% CI, 13.8%-58.4%). Also, a significant increased risk of COVID-19 was found in individuals with low levels of vitamin D (OR: 1.33; 95% CI, 1.01-1.75). In regard to our ecological investigation on 51 countries including 408,748 participants, analyses indicated no correlation between vitamin D levels and recovery rate (r= 0.041) as well as mortality rate (r=-0.073) globally. However, given latitude, a small reverse correlation between mortality rate and vitamin D status was observed throughout the globe (r= -0.177). In Asia, a medium direct correlation was observed for recovery rate (r= 0.317) and a significant reveres correlation for mortality rate (r= -0.700) with vitamin D status in such patients. In Europe, there were no correlations for both recovery (r= 0.040) and mortality rate (r= -0.035). In Middle East, the recovery rate (r= 0.267) and mortality rate (r= -0.217) showed a medium correlation. In North and Sought America, surprisingly, both recovery and mortality rate demonstrated a direct correlation respectively (r= 1.000, r=0.500). In Oceania, unexpectedly, recovery (r= -1.000) and mortality (r= -1.000) rates were in considerable reverse correlation with vitamin D levels.</p><p>Conclusion: In this systematic review and meta-analysis with an ecological approach, we found a high percentage of COVID-19 patients who suffer from vitamin D deficiency or insufficiency as well as a significant increased risk of COVID-19 infection in patients with low levels of vitamin D. Our ecological investigation resulted in substantial direct and reverse correlations between recovery and mortality rates of COVID-19 patients with vitamin D status in different countries. Considering latitudes, a small reverse correlation between vitamin D status and mortality rate was found globally. It seems that populations with lower levels of vitamin D might be more susceptible to the novel coronavirus infection. Nevertheless, due to multiple limitations, if this study does not allow to quantify a value of the Vitamin D with full confidence, it allows at least to know what the Vitamin D might be and that it would be <strong>prudent</strong> to invest in this direction through comprehensive large randomized clinical trials.</p><hr><h4 id=note-iran-has-the-most-rcts-of-vitamin-d-for-covid-19-aug-9>Note: Iran has the most RCTs of Vitamin D for COVID-19 (Aug 9)</h4><img src=/attachments/d3.mock.jpg alt=image width=1000></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>immunity</span>
+<span class=tag>life span</span>
+<span class=tag>magnesium</span>
+<span class=tag>magnesium and viruses</span>
+<span class=tag>Meta-analysis of Vitamin D</span>
+<span class=tag>mortality</span>
+<span class=tag>omega 3</span>
+<span class=tag>omega 3 and viruses</span>
+<span class=tag>virus</span>
+<span class=tag>Virus</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span>
+<span class=tag>vitamin k</span>
+<span class=tag>vitamin k and viruses</span>
+<span class=tag>zinc</span>
+<span class=tag>zinc and viruses</span></div><div data-pagefind-meta=tags hidden>immunity, life span, magnesium, magnesium and viruses, Meta-analysis of Vitamin D, mortality, omega 3, omega 3 and viruses, virus, Virus, vitamin d, vitamin d and viruses, vitamin k, vitamin k and viruses, zinc, zinc and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030348"></script><script src="/js/tiki-redirects.js?v=1752030348"></script><script src="/js/lightspa.js?v=1752030348"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030348",indexUrl:"/search/search_index.json.gz?v=1752030348"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030348"></script></body></html>

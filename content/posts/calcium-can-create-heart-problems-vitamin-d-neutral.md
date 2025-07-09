@@ -67,7 +67,7 @@ PMID:     21856593
 
 * [IoM again fails to look at interactions - Nov 2010](/posts/iom-again-fails-to-look-at-interactions) which has the following chart
 
-{IMG(fileId="1596" max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 ### Supplements which combine vitamin D and Calcium (as of Jan-2010) = <span style="color:#090;">green diamonds</span>
 

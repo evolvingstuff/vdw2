@@ -72,6 +72,6 @@ PMID:     21733320
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-* <a href="/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2946">Obese need 2X as much vitamin D to get the same response – June 2012</a>
+* [Obese need 2X as much vitamin D to get the same response – June 2012](/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response)

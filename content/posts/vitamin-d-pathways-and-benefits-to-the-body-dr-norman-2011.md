@@ -24,7 +24,7 @@
 
 ## [CLICK HERE](http://www.google.com/custom?hl=en&client=google-coop&cof=FORID%3A13%3BAH%3Aleft%3BCX%3ASearch%2520Vitamin%2520D%2520Wiki%3BL%3Ahttp%3A%2F%2Fwww.google.com%2Fintl%2Fen%2Fimages%2Flogos%2Fcustom_search_logo_sm.gif%3BLH%3A30%3BLP%3A1%3BVLC%3A%23551a8b%3BDIV%3A%23cccccc%3B&adkw=AELymgULFW1G3Tb3KdozZhHaUQQNuQihVu6T-SC-0yAJcYnQ5edEoKDxP_XLz6zec1Ym5XLRU3yb06ITW-R5Dmhfm93Idut3atVgc9cP5oKpbochQUpnPvM&boostcse=0&q=%22norman+aw%22&btnG=Search&cx=001215644404345293668%3A3di8vufs_m4) to use google Site Search to find all "Norman AW" on VitaminDWiki ]- generally articles or references to articles - 247 items Nov 2012
 
-* <a href="/posts/vitamin-d-nutritional-policy-needs-a-vision-for-the-future-norman" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 669">Vitamin D nutritional policy needs a vision for the future – Norman July 2010</a> which has a previous version of the above chart
+* [Vitamin D nutritional policy needs a vision for the future – Norman July 2010](/posts/vitamin-d-nutritional-policy-needs-a-vision-for-the-future-norman) which has a previous version of the above chart
 
 ## Email from author to VitaminDWiki Jan 2011
 
@@ -66,7 +66,7 @@ I have conducted research on vitamin D for the past 48 years here at the Univers
 
 ## He has made a significant contribution to the height of that chart
 
-{IMG(fileId="1327"max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 # Video by Dr. Norman
 

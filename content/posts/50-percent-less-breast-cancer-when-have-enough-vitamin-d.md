@@ -53,7 +53,7 @@ PMID:     21868542
 
 * [All items Breast Cancer and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=42&sort_mode=created_desc) 52 items Nov 2011
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 * [All items after Cancer Diagnosis](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=74&sort_mode=created_desc) 14 items Aug 2011
 
@@ -67,37 +67,37 @@ PMID:     21868542
 
 * [Need lots of UV AND vitamin D to reduce risk of breast cancer – Jan 2011](/posts/need-lots-of-uv-and-vitamin-d-to-reduce-risk-of-breast-cancer)
 
-* <a href="/posts/breast-cancer-reduced-by-45-percent-for-women-with-the-most-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 631">Breast cancer reduced by 45 percent for women with the most vitamin D – July 2010</a>
+* [Breast cancer reduced by 45 percent for women with the most vitamin D – July 2010](/posts/breast-cancer-reduced-by-45-percent-for-women-with-the-most-vitamin-d)
 
    * The abstract fails to mention what the level of vitamin D was
 
-* <a href="/posts/china-has-documented-that-less-uv-results-in-more-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 404">China has documented that less UV results in more cancer – June 2010</a>
+* [China has documented that less UV results in more cancer – June 2010](/posts/china-has-documented-that-less-uv-results-in-more-cancer)
 
    * esophagus, stomach, colon and rectum, liver, lung, breast, and bladder 
 
-* <a href="/posts/breast-cancer-vs-latitude" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 65">Breast Cancer vs latitude</a>  Gapminder
+* [Breast Cancer vs latitude](/posts/breast-cancer-vs-latitude)  Gapminder
 
    * Great U shaped curve
 
 * [No reduction in Breast Cancer when vitamin D less than 40 ng - May 2011](/posts/no-reduction-in-breast-cancer-when-vitamin-d-less-than-40-ng)
 
-* <a href="/posts/breast-cancer-recurred-more-when-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1071">Breast Cancer recurred more when less than 20 ng of vitamin D – Oct 2010</a>
+* [Breast Cancer recurred more when less than 20 ng of vitamin D – Oct 2010](/posts/breast-cancer-recurred-more-when-less-than-20-ng-of-vitamin-d)
 
-* <a href="/posts/breast-cancer-may-result-from-poor-interaction-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 942">Breast cancer may result from poor interaction with vitamin D – Sept 2010</a> CYP27B1 and CYP24A1 
+* [Breast cancer may result from poor interaction with vitamin D – Sept 2010](/posts/breast-cancer-may-result-from-poor-interaction-with-vitamin-d) CYP27B1 and CYP24A1 
 
-* <a href="/posts/women-with-breast-cancer-safely-take-10000-iu-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 833">Women with breast cancer safely take 10,000 IU daily – Jan 2010</a>
+* [Women with breast cancer safely take 10,000 IU daily – Jan 2010](/posts/women-with-breast-cancer-safely-take-10000-iu-daily)
 
 * [Recurrence of breast cancer not associated with vitamin D levels – Jan 2011](/posts/recurrence-of-breast-cancer-not-associated-with-vitamin-d-levels)
 
-* <a href="/posts/breast-cancer-reduced-by-10-percent-when-vitamin-d-levels-exceeded-27-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 955">Breast cancer reduced by 10 percent when vitamin D levels exceeded 27 ng</a>
+* [Breast cancer reduced by 10 percent when vitamin D levels exceeded 27 ng](/posts/breast-cancer-reduced-by-10-percent-when-vitamin-d-levels-exceeded-27-ng)
 
-* <a href="/posts/meta-analysis-not-find-low-vitamin-d-years-before-breast-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 917">Meta-analysis not find low vitamin D years before breast cancer – Aug 2010</a>
+* [Meta-analysis not find low vitamin D years before breast cancer – Aug 2010](/posts/meta-analysis-not-find-low-vitamin-d-years-before-breast-cancer)
 
-* <a href="/posts/meta-analysis-confirmed-that-vitamin-d-and-calcium-prevents-breast-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 830">Meta-analysis confirmed that vitamin D and calcium prevents breast cancer – June 2010</a>
+* [Meta-analysis confirmed that vitamin D and calcium prevents breast cancer – June 2010](/posts/meta-analysis-confirmed-that-vitamin-d-and-calcium-prevents-breast-cancer)
 
-* <a href="/posts/breast-cancer-reduced-by-45-percent-for-women-with-the-most-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 631">Breast cancer reduced by 45 percent for women with the most vitamin D – July 2010</a>
+* [Breast cancer reduced by 45 percent for women with the most vitamin D – July 2010](/posts/breast-cancer-reduced-by-45-percent-for-women-with-the-most-vitamin-d)
 
-* <a href="/posts/breast-cancer-association-with-low-vitamin-d-suggested-by-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 246">Breast cancer association with low vitamin D suggested by Meta-analysis -April 2010</a>
+* [Breast cancer association with low vitamin D suggested by Meta-analysis -April 2010](/posts/breast-cancer-association-with-low-vitamin-d-suggested-by-meta-analysis)
 
 * [Need lots of UV AND vitamin D to reduce risk of breast cancer – Jan 2011](/posts/need-lots-of-uv-and-vitamin-d-to-reduce-risk-of-breast-cancer)
 
@@ -105,9 +105,9 @@ PMID:     21868542
 
 * <a href="/posts/7000-iu-increased-vitamin-d-levels-in-breast-cancer-patients" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1467">7000 IU increased vitamin D levels in breast cancer patients – Mar 2011</a>
 
-* <a href="/posts/breast-cancer-survivors-should-take-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 821">Breast cancer survivors should take vitamin D – Mar 2010</a>
+* [Breast cancer survivors should take vitamin D – Mar 2010](/posts/breast-cancer-survivors-should-take-vitamin-d)
 
-* <a href="/posts/breast-tumor-1-inch-bigger-for-each-1-ng-decrease-in-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2284">Breast tumor 1 inch bigger for each 1 ng decrease in vitamin D – Dec 2011</a>
+* [Breast tumor 1 inch bigger for each 1 ng decrease in vitamin D – Dec 2011](/posts/breast-tumor-1-inch-bigger-for-each-1-ng-decrease-in-vitamin-d)
 
 # Chart from 2010
 

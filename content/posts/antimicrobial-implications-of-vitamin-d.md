@@ -56,6 +56,6 @@ A vitamin D replete state appears to benefit most infections, with the  **possib
 
 ## Figure 1 - Potential interactions of vitamin D
 
-{IMG(attId="1423" width="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/antimicrob-fig-1.jpg" alt="image" width="600">
 
  **<span style="color:#00F;">PDF is attached at the bottom of this page</span>**

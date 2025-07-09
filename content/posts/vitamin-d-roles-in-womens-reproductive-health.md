@@ -88,7 +88,7 @@
 
 ## by Magdalena Grundmann
 
-{IMG(fileId="2005")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 ## Background
 

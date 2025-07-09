@@ -44,8 +44,8 @@
 
 # See also ViataminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a>
+* [Overview Veterinary and Vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
 * [All items in Category Veterinary and D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=1&sort_mode=created_desc)
 
-* <a href="/posts/uv-for-is-for-the-birds" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 961">UV for is for the birds</a> reptiles, fish, ?? most of whom can see UVA
+* [UV for is for the birds](/posts/uv-for-is-for-the-birds) reptiles, fish, ?? most of whom can see UVA

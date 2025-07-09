@@ -68,7 +68,7 @@ Wonder how much stronger if  > 30 ng, >40 ng, etc.
 
    * UVB is another alternative to supplements, and perhaps better
 
-* <a href="/posts/olympic-athletes-and-vitamin-d-clippings-2009-10" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 349">Olympic Athletes and vitamin D - clippings 2009-10</a> 
+* [Olympic Athletes and vitamin D - clippings 2009-10](/posts/olympic-athletes-and-vitamin-d-clippings-2009-10) 
 
    * UV used by Olympic athletes since the 1930's, High UV in Mexico Olympics broke many records
 
@@ -78,11 +78,11 @@ Wonder how much stronger if  > 30 ng, >40 ng, etc.
 
 * <a href="/posts/overview-seniors-lack-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview Seniors lack Vitamin D</a>
 
-* <a href="/posts/vitamin-d-improves-muscle-strength-if-deficient-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1035">Vitamin D improves muscle strength if deficient – meta-analysis - Oct 2010</a>
+* [Vitamin D improves muscle strength if deficient – meta-analysis - Oct 2010](/posts/vitamin-d-improves-muscle-strength-if-deficient-meta-analysis)
 
-* <a href="/posts/sports-nutrition-conference-on-bone-health-calcium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 891">Sports Nutrition Conference on Bone health Calcium and vitamin D – Sept 2010</a>
+* [Sports Nutrition Conference on Bone health Calcium and vitamin D – Sept 2010](/posts/sports-nutrition-conference-on-bone-health-calcium-and-vitamin-d)
 
-* <a href="/posts/more-than-40-ng-vitamin-d-for-athletes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 595">More than 40 ng vitamin D for Athletes – July 2010</a> nice tables
+* [More than 40 ng vitamin D for Athletes – July 2010](/posts/more-than-40-ng-vitamin-d-for-athletes) nice tables
 
 * <a href="/posts/more-muscle-response-when-have-adequate-vit-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 278">More muscle response when have adequate vit D</a> nice graph
 

@@ -57,7 +57,6 @@
         "trauma surgery",
         "vision",
         "vitamin d",
-        "vitamin d binding",
         "vitamin d receptor",
         "vitamin k"
     ]
@@ -66,7 +65,7 @@
 
 <!-- ~tc~ start copy here ~/tc~ -->
 
-{IMG(fileId="1843"max="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
 #### <span style="color:#F33;">23 of the 40 reasons for Vitamin D deficiency are new</span>
 
@@ -76,7 +75,7 @@
 
 > air conditioning in home, auto/bus/train, and workplace <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 63">CLICK HERE</a>
 
-> <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Air Conditioning probably has decreased vitamin D</a>
+> [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d)
 
 > <a href="/posts/hypothesis-air-conditioning-disease-is-the-result-of-less-vitamin-d-china" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1547">Hypothesis – Air conditioning disease is the result of less vitamin D – China March 2011</a>
 
@@ -100,7 +99,7 @@
 
 1.  **More people living in cities - where there is less UV and they have less opportunity to be outdoors** 
 
-> <a href="/posts/air-pollution-reduces-uv-and-thus-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 818">Air pollution reduces UV and thus vitamin D</a>
+> [Air pollution reduces UV and thus vitamin D](/posts/air-pollution-reduces-uv-and-thus-vitamin-d)
 
 > UVB which produces vitamin D does not reflect off of buildings very well  *
 
@@ -108,13 +107,13 @@
 
 > [Here](http://innerreflectionstranscribed.wordpress.com/2007/04/25/fair-skin-desirable/) and [Here (Helen of Troy)](http://books.google.com/books?id=K8PCYtg1SocC&pg=PT81&lpg=PT81&dq=desirability+of+white+skin&source=bl&ots=CI7w34zn6X&sig=2ma4FM-zouS59Afbz4tggXdxUNI&hl=en&ei=eaTaTbniI4HGsAOz0dGFDA&sa=X&oi=book_result&ct=result&resnum=5&ved=0CDQQ6AEwBA#v=onepage&q=desirability%20of%20white%20skin&f=false) and [Being Fair-Skinned in Today's World](http://www.abcdlady.com/2005-07/art6.php)
 
-> <a href="/posts/suntan-popularity-is-fading" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 304">Suntan: Popularity is fading</a>
+> [Suntan: Popularity is fading](/posts/suntan-popularity-is-fading)
 
 > [Perhaps not burn from the sun if have enough vitamin D](/posts/perhaps-not-burn-from-the-sun-if-have-enough-vitamin-d)
 
 1.  **Fear skin cancer -** 
 
-> <a href="/posts/overview-suntans-and-melanoma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans and melanoma</a> &nbsp;<a href="/posts/tanning-from-wikipedia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 263">Tanning from Wikipedia</a>
+> <a href="/posts/overview-suntans-and-melanoma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans and melanoma</a> &nbsp;[Tanning from Wikipedia](/posts/tanning-from-wikipedia)
 
 > Actually you can get enough vitamin D <a href="/posts/without-getting-much-of-a-tan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1750">without getting much of a tan</a>, much less get skin cancer 
 
@@ -134,7 +133,7 @@
 
 > <a href="/posts/overview-of-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 754">Overview of Cholesterol and Vitamin D</a>
 
-> <a href="/posts/less-cholesterol-in-diet-resulted-in-less-vitamin-d-in-blood-in-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less cholesterol in diet resulted in less vitamin D in blood (in mice) – Feb 2016">Less cholesterol in diet resulted in less vitamin D in blood (in mice) – Feb 2016</a>
+> [Less cholesterol in diet resulted in less vitamin D in blood (in mice) – Feb 2016](/posts/less-cholesterol-in-diet-resulted-in-less-vitamin-d-in-blood-in-mice)
 
 1.  **More [Obesity](/categories/obesity)** 
 
@@ -150,15 +149,15 @@
 
 > [surfers in Hawaii](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=298) (PDF), who drank a large amount of cola soft drink, had low levels of vitamin D
 
-> <a href="/posts/too-much-fructose-reduced-both-serum-and-active-vitamin-d-in-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Too much fructose reduced both serum and active vitamin D in rats – April 2013">Too much fructose reduced both serum and active vitamin D in rats – April 2013</a>
+> [Too much fructose reduced both serum and active vitamin D in rats – April 2013](/posts/too-much-fructose-reduced-both-serum-and-active-vitamin-d-in-rats)
 
-> <a href="/posts/fructose-high-fructose-corn-syrup-consumes-2x-more-magnesium-than-sugar" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fructose (High Fructose Corn Syrup) consumes 2X more Magnesium than sugar – May 2014">HFCS consumes Magnesium needed by Vitamin D</a>
+> [HFCS consumes Magnesium needed by Vitamin D](/posts/fructose-high-fructose-corn-syrup-consumes-2x-more-magnesium-than-sugar)
 
-> &nbsp; &nbsp;note: <a href="/posts/fructose-reduces-blood-levels-of-active-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fructose reduces blood levels of active vitamin D">Fructose also reduces active vitamin D actually getting to cells - not seen by blood tests</a>
+> &nbsp; &nbsp;note: [Fructose also reduces active vitamin D actually getting to cells - not seen by blood tests](/posts/fructose-reduces-blood-levels-of-active-vitamin-d)
 
 1.  **Increased consumption of Ultra-processed foods** 
 
-> <a href="/posts/if-you-eat-ultra-processed-foods-you-need-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If you eat ultra-processed foods, you need Vitamin D – Dec 2023">If you eat ultra-processed foods, you need Vitamin D – Dec 2023</a>
+> [If you eat ultra-processed foods, you need Vitamin D – Dec 2023](/posts/if-you-eat-ultra-processed-foods-you-need-vitamin-d)
 
 1.  **[Meat from factory farms](http://articles.mercola.com/sites/articles/archive/2011/05/23/new-research-shows-factory-farms-are-not-the-way-to-feed-the-world.aspx) - has far less vitamin D than from free-range farms** 
 
@@ -170,7 +169,7 @@
 
 > Note: [Meat eaters haave 8 ng higher vitamin D levels than vegetarians](https://VitaminDWiki.com/Vitamin+D+from+animal+increases+6X+when+consider+that+already+processed+by+animal+livers#Previously_noted:_Meat_eaters_had_8_ng_higher_vitamin_D_levels_than_vegetarians)
 
-1.  **Drinking low-fat milk**  which provides only <a href="/posts/skim-fat-milk-provides-3-percent-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skim fat milk provides 3% less vitamin D – May 2016">40% of the vitamin D to the blood compared to whole milk</a>
+1.  **Drinking low-fat milk**  which provides only [40% of the vitamin D to the blood compared to whole milk](/posts/skim-fat-milk-provides-3-percent-less-vitamin-d)
 
 > 6X reduction in consumption of whole milk (1970 ==> 2010), thus 100 IU/glass ==> 40 IU/glass for most people
 
@@ -200,7 +199,7 @@
 
 1.  **<a href="/posts/roundup" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4061">Roundup</a>**  (glyphosate) decreases vitamin D]
 
-1.  **<a href="/posts/flame-retardants-might-also-be-active-vitamin-d-retardants" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Flame Retardants might also be active vitamin D retardants – Jan 2015">Flame Retardants also retard active vitamin D</a>** 
+1.  **[Flame Retardants also retard active vitamin D](/posts/flame-retardants-might-also-be-active-vitamin-d-retardants)** 
 
 > Flame Retardants were added to US clothing, mattresses, and cushions by 1980
 
@@ -214,11 +213,11 @@
 
 > <a href="/posts/a-way-to-get-40x-more-vitamin-d-from-beef-liver" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1801">A way to get 40X more vitamin D from beef liver</a> back were it used to be
 
-> <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>
+> [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
 
 1.  **Less Magnesium in foods and drink - Magnesium is needed to utilize vitamin D (as well as build bones)** 
 
-> <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Magnesium and vitamin D</a>
+> [Magnesium and vitamin D](/posts/magnesium-and-vitamin-d)
 
 > Magnesium deficiency epidemic is similar to the Vitamin D epidemic
 
@@ -274,7 +273,7 @@
 
 > Restrict how much Vitamin D is semi-activated by liver or tissues
 
-> <a href="/posts/vitamin-d-binding-protein" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Binding Protein">Restict how much semi-activated Vitamin D is carried to kidneys for full activation</a> - not seen by blood test
+> [Restict how much semi-activated Vitamin D is carried to kidneys for full activation](/posts/vitamin-d-binding-protein) - not seen by blood test
 
 > Restrict how much Vitamin D is activated by kidneys or tissues - not seen by blood test
 
@@ -308,7 +307,7 @@
 
 1. <a href="/posts/smoking-reduces-calcium-which-reduces-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 341">Smoking reduces Calcium, which reduces vitamin D</a>
 
-1. Winter births - <a href="/posts/if-born-in-the-winter-11-percent-more-likely-to-be-vitamin-d-deficient-as-an-adult" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If born in the winter, 11 percent more likely to be vitamin D deficient as an adult – Sept 2015">11% more likely for adult to be deficient</a>
+1. Winter births - [11% more likely for adult to be deficient](/posts/if-born-in-the-winter-11-percent-more-likely-to-be-vitamin-d-deficient-as-an-adult)
 
 > Need to take more vitamin D as an adult if born in winter
 
@@ -350,7 +349,7 @@
 
 >  **Myth**  Vitamin D2 is almost as good as vitamin D3 (several studies have shown that vitamin D2 DECREASES serum levels of D3) 
 
-> See also <a href="/posts/vitamin-d-facts-and-myths" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D - Facts and Myths">Vitamin D - Facts and Myths</a>
+> See also [Vitamin D - Facts and Myths](/posts/vitamin-d-facts-and-myths)
 
 <!-- ~tc~ end copy here ~/tc~ -->
 
@@ -392,13 +391,13 @@
 
 ##### Autism
 
-{IMG(fileId="1885" max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 ---
 
 ##### Diabetes
 
-{IMG(fileId="1884")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 ---
 
@@ -416,7 +415,7 @@
 
 ##### Decrease in cholesterol which the skin needs to make vitamin D in past 40 years
 
-{IMG(fileId="1522" max="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 
@@ -424,7 +423,7 @@
 
 ##### The perfect storm
 
-{IMG(fileId="2033" max ="700")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 700px;">
 
 ## ---
 
@@ -432,7 +431,7 @@
 
 1. <a href="/posts/many-statins-increase-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 444">Many  **statins**  increase vitamin D levels</a>
 
-1. <a href="/posts/oral-contraceptive-use-associated-with-higher-levels-of-vitamin-d-thesis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012">Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012</a> but this idea is contested.
+1. [Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012](/posts/oral-contraceptive-use-associated-with-higher-levels-of-vitamin-d-thesis) but this idea is contested.
 
 ---
 

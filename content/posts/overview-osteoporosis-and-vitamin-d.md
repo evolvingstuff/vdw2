@@ -63,19 +63,19 @@
 
 * <a href="/posts/overview-vitamin-d-and-falling" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Overview: Vitamin D and falling</a>
 
-* <a href="/posts/osteoporosis-treatment-with-denosumab-is-helped-by-vitamin-d-and-calcium-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis treatment with denosumab is helped by Vitamin D and Calcium – 2017">Osteoporosis treatment with denosumab is helped by Vitamin D and Calcium – 2017</a>
+* [Osteoporosis treatment with denosumab is helped by Vitamin D and Calcium – 2017](/posts/osteoporosis-treatment-with-denosumab-is-helped-by-vitamin-d-and-calcium-2017)
 
-* <a href="/posts/4x-increase-in-osteoporosis-visits-but-vitamin-d-information-is-still-not-available" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4X increase in osteoporosis visits, but vitamin D information is still not available – May 2013">4X increase in osteoporosis visits, but vitamin D information is still not available – May 2013</a>
+* [4X increase in osteoporosis visits, but vitamin D information is still not available – May 2013](/posts/4x-increase-in-osteoporosis-visits-but-vitamin-d-information-is-still-not-available)
 
-* <a href="/posts/vitamin-d-and-bone-health-uk-national-osteoporosis-society" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Bone Health – UK National Osteoporosis Society – April 2013">Vitamin D and Bone Health – UK National Osteoporosis Society – April 2013</a>
+* [Vitamin D and Bone Health – UK National Osteoporosis Society – April 2013](/posts/vitamin-d-and-bone-health-uk-national-osteoporosis-society)
 
-* <a href="/posts/high-selenium-intake-cuts-risk-of-osteoporosis-in-half-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High Selenium intake cuts risk of Osteoporosis in half - meta-analysis - July 2023">High Selenium intake cuts risk of Osteoporosis in half - meta-analysis - July 2023</a>
+* [High Selenium intake cuts risk of Osteoporosis in half - meta-analysis - July 2023](/posts/high-selenium-intake-cuts-risk-of-osteoporosis-in-half-meta-analysis)
 
-* <a href="/posts/world-osteoporosis-day-sponsored-by-big-pharma-does-not-give-good-sun-or-vitamin-d-info" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: World Osteoporosis Day sponsored by Big Pharma – does not give good sun or vitamin D info Oct 20 2013">World Osteoporosis Day sponsored by Big Pharma – does not give good sun or vitamin D info Oct 20 2013</a>
+* [World Osteoporosis Day sponsored by Big Pharma – does not give good sun or vitamin D info Oct 20 2013](/posts/world-osteoporosis-day-sponsored-by-big-pharma-does-not-give-good-sun-or-vitamin-d-info)
 
-* <a href="/posts/calcium-and-bone-disorders-in-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3122">Calcium and bone disorders in pregnancy – May 2012</a>
+* [Calcium and bone disorders in pregnancy – May 2012](/posts/calcium-and-bone-disorders-in-pregnancy)
 
-* <a href="/posts/osteoporosis-and-vitamin-d-are-important-in-men-too-10-years-after-women" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3099">Osteoporosis and vitamin D are important in men too – 10 years after women – Aug 2012</a>
+* [Osteoporosis and vitamin D are important in men too – 10 years after women – Aug 2012](/posts/osteoporosis-and-vitamin-d-are-important-in-men-too-10-years-after-women)
 
 * <a href="/posts/vitamin-d-k2-magnesium-etc-together-increase-bone-density" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2366">Vitamin D, K2, Magnesium, etc together increase bone density – Jan 2012</a>
 
@@ -85,13 +85,13 @@
 
 * <a href="/posts/overview-of-magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview of Magnesium</a>
 
-* <a href="/posts/fewer-falls-and-fractures-as-vitamin-d-is-increased-1800-to-4000-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1063">Fewer falls and fractures as vitamin D is increased – 1800 to 4000 IU July 2010</a> 2 abstracts with chart
+* [Fewer falls and fractures as vitamin D is increased – 1800 to 4000 IU July 2010](/posts/fewer-falls-and-fractures-as-vitamin-d-is-increased-1800-to-4000-iu) 2 abstracts with chart
 
-* <a href="/posts/osteoporosis-medicines-several-include-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 983">Osteoporosis medicines - several include vitamin D</a> from National Osteoporosis Foundation
+* [Osteoporosis medicines - several include vitamin D](/posts/osteoporosis-medicines-several-include-vitamin-d) from National Osteoporosis Foundation
 
 * <a href="/posts/vitamin-d-recommendations-by-osteoporosis-canada" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 969">Vitamin D recommendations by Osteoporosis Canada - Sept 2010</a> 800-2000 IU daily, 10,000 IU is probably safe
 
-* <a href="/posts/review-of-vitamin-d-pathways-to-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1000">Review of vitamin D pathways to bone health - July 2010</a> with many summaries of vitamin D INTERVENTIONS
+* [Review of vitamin D pathways to bone health - July 2010](/posts/review-of-vitamin-d-pathways-to-bone-health) with many summaries of vitamin D INTERVENTIONS
 
 * <a href="/posts/low-span-stylecolor30fcalcium-span-and-vitamin-d-makes-osteomalacia-but-either-makes-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 990">Low  **<span style="color:#30F;">Calcium </span>** and vitamin D makes osteomalacia but either makes osteoporosis – Sept 2010</a>
 
@@ -105,7 +105,7 @@
 
 * [Noticed bones heal faster when more than 60 ng of vitamin D](/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d)
 
-* <a href="/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1036">Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010</a>
+* [Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010](/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely)
 
    * suspect not just dark skin, but those also at risk of being low on vitamin D: sunlight, elderly, medical problems, etc.
 
@@ -129,9 +129,9 @@
 
 * [75 percent of hip fractures associated with vitamin D deficiency - Jan 2011](/posts/75-percent-of-hip-fractures-associated-with-vitamin-d-deficiency)
 
-* <a href="/posts/low-vitamin-d-may-account-for-half-of-the-reasons-for-osteomalacia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1073">Low vitamin D may account for half of the reasons for osteomalacia – Oct 2010</a>
+* [Low vitamin D may account for half of the reasons for osteomalacia – Oct 2010](/posts/low-vitamin-d-may-account-for-half-of-the-reasons-for-osteomalacia)
 
-* <a href="/posts/fewer-falls-and-fractures-as-vitamin-d-is-increased-1800-to-4000-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1063">Fewer falls and fractures as vitamin D is increased – 1800 to 4000 IU July 2010</a>
+* [Fewer falls and fractures as vitamin D is increased – 1800 to 4000 IU July 2010](/posts/fewer-falls-and-fractures-as-vitamin-d-is-increased-1800-to-4000-iu)
 
 * [ **<span style="color:#30F;">Calcium </span>** and Vit D reduce fractures but increase kidney stones - 2006](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=285) when take 2000 mg  **<span style="color:#30F;">Calcium </span>** 
 
@@ -147,13 +147,13 @@
 
 * <a href="/posts/very-few-people-have-an-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2433">Very few people have an allergic reaction to Vitamin D</a> start slowly so as to check for allergies
 
-* <a href="/posts/osteoporosis-medicine-teriparatide-increased-active-vitamin-d-by-25-pcnt-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3209">Osteoporosis medicine teriparatide increased active vitamin D by 25 pcnt– RCT June 2012</a>
+* [Osteoporosis medicine teriparatide increased active vitamin D by 25 pcnt– RCT June 2012](/posts/osteoporosis-medicine-teriparatide-increased-active-vitamin-d-by-25-pcnt-rct)
 
 * <a href="/posts/osteoporosis-is-reduced-by-vitamin-d-genes-determine-how-much-is-needed-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3353">Osteoporosis is reduced by vitamin D, genes determine how much is needed – meta-analysis Nov 2012</a>
 
-* <a href="/posts/osteoporosis-spot-therapies-vitamin-d-with-calcium-was-the-most-popular" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis spot therapies: vitamin D with Calcium was the most popular – Feb 2013">Osteoporosis spot therapies: vitamin D with Calcium was the most popular – Feb 2013</a>
+* [Osteoporosis spot therapies: vitamin D with Calcium was the most popular – Feb 2013](/posts/osteoporosis-spot-therapies-vitamin-d-with-calcium-was-the-most-popular)
 
-* <a href="/posts/safety-profile-of-osteoporosis-drugs-including-vitamin-d-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Safety profile of Osteoporosis drugs, including vitamin D – review Nov 2013">Safety profile of Osteoporosis drugs, including vitamin D – review Nov 2013</a>
+* [Safety profile of Osteoporosis drugs, including vitamin D – review Nov 2013](/posts/safety-profile-of-osteoporosis-drugs-including-vitamin-d-review)
 
 ^ **WHY Vitamin D can PREVENT both Osteopenia and osteoporosis** 
 
@@ -295,7 +295,7 @@ This was found decades ago – medicines which increased Bone Mass Density (BMD)
 
    * Dr. Susan Ott at the University of Washington
 
-{IMG(attId="479")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/strong-bones.gif" alt="image">
 
 * [The Myth of Osteoporosis](http://gilliansanson.wordpress.com/) Author's website of the June 2011 revised book
 
@@ -345,7 +345,7 @@ This was found decades ago – medicines which increased Bone Mass Density (BMD)
 
 > "Breast Cancer is 200% to 300% higher if high bone mineral density"
 
-{IMG(attId="1508")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/bmd-vs-age-2-.jpg" alt="image">
 
 ---
 
@@ -355,7 +355,7 @@ This was found decades ago – medicines which increased Bone Mass Density (BMD)
 
 "Like a diet rich in calcium and vitamin D, exercise helps strengthen bones at any age"
 
- **No mention was made of vitamin D supplements, Vitamin D co-factors, UV, Vitamin K, or [Whole Body Vibration](http://www.henrylahore.com/Health/WBV/index.html)** Did have the following nice graphic however **{IMG(attId="415")}{IMG}
+ **No mention was made of vitamin D supplements, Vitamin D co-factors, UV, Vitamin K, or [Whole Body Vibration](http://www.henrylahore.com/Health/WBV/index.html)** Did have the following nice graphic however **<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/bone-mass-timeline.jpg" alt="image">
 
 * [http://www.drdavidgrimes.com/2013/11/osteoporosis-forget-calcium-and-vitamin.htmlOsteoporosis : forget calcium and vitamin D - but what about HRT ?](http://www.drdavidgrimes.com/2013/11/osteoporosis-forget-calcium-and-vitamin.htmlOsteoporosis%20:%20forget%20calcium%20and%20vitamin%20D%20-%20but%20what%20about%20HRT%20?) Dr. Grimes blog post Nov 2013
 
@@ -367,7 +367,7 @@ This was found decades ago – medicines which increased Bone Mass Density (BMD)
 
 #### Vitamin D, with or without Fosamax, is highly rated to TREAT Osteoporosis at [Rate A Drug](http://www.rateadrug.com/vitamin-d-side-effects.aspx) July 2011
 
-{IMG(attId="644")}{IMG}** Note: Vitamin D does even better than Fosamax at PREVENTION **---
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/treatment---osteoporosis.png" alt="image">** Note: Vitamin D does even better than Fosamax at PREVENTION **---
 
 #### Hypothesis: Moderate osteoporosis itself is beneficial for bones - Oct 2019
 

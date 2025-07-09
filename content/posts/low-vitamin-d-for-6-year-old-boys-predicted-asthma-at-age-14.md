@@ -48,6 +48,6 @@ PMID:     21565922
 
 * <a href="/posts/overview-of-breathing-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1433">Overview of Breathing and vitamin D</a>
 
-* <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D Before, During, and After Pregnancy</a>
+* [Vitamin D Before, During, and After Pregnancy](/posts/vitamin-d-before-during-and-after-pregnancy)
 
    * note 5X reduction in childhood asthma if mother took 2,000 IU of vitamin D while pregnant

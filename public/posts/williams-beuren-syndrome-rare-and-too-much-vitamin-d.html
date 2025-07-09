@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Williams-Beuren Syndrome (rare) and too much Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030352"><link rel=stylesheet href="/css/pagination.css?v=1752030352"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030352"></script><script src="/js/search.js?v=1752030352"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Williams-Beuren Syndrome (rare) and too much Vitamin D</h1><time>February 24, 2014</time><div data-pagefind-body><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/williams-beuren-syndrome-2.jpg alt=image>
+<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/williams-syndrome.jpg alt=image><p><strong><span style=color:#00f>PDF is attached at the bottom of this page</span></strong></p><h3 id=importance-of-dietary-calcium-and-vitamin-d-in-treatment-of-hypercalcaemia-in-williams-beuren-syndrome>Importance of dietary calcium and vitamin D in treatment of hypercalcaemia in Williams-Beuren syndrome</h3><p>Anke L. Lameris1, Christel L.M. Geesing2, Joost G.J. Hoenderop1, Michiel F. Schreuder3</p><p>Radboud University Nijmegen Medical Centre, Departments of 1 Physiology and 3 Pediatric Nephrology, Nijmegen, The Netherlands Bernhoven Hospital, 2 Department of Pediatrics, Oss, The Netherlands</p><p>JPediatrEndocrinol Metab. (provisionally accepted), 2013</p><p>Chapter 7</p><p>Abstract</p><p>Williams-Beuren syndrome is a rare genetic disorder, caused by the deletion of 26-28 genes on chromosome 7. Fifteen percent of Williams-Beuren syndrome patients present with hypercalcaemia during infancy, which is generally mild and resolves spontaneously before the age of 4 years. The mechanisms underlying the transient hypercalcaemia in Williams-Beuren syndrome are poorly understood.</p><p>We report a case of severe symptomatic hypercalcaemia in a patient with Williams-Beuren syndrome, in which treatment with mild calcium restriction, hyperhydration and repeated bisphosphonate administration only resulted in short-lasting effects. Long-term lowering of serum calcium was only achieved after reducing calcium and vitamin D intake to the bare minimum.</p><p>This case illustrates the potential severity of hypercalcaemia in WBS, and demonstrates that both the cause as well as the solution of this problem may be found in the intestinal absorption of calcium. We hypothesize that the phenotypical resemblance between Williams-Beuren syndrome and transient idiopathic infantile hypercalcaemia can be explained by similarities in the underlying genetic defect. Patients suffering from transient infantile hypercalcaemia were recently described to have mutations in CYP24A1, the key enzyme in 1,25-dihydroxyvitamin D3 degradation. In the light of this new development we discuss the role of one of the deleted genes in WBS, Williams Syndrome Transcription Factor, in the etiology of hypercalcaemia in Williams-Beuren syndrome.</p><h3 id=hypercalcaemia-in-wbs>Hypercalcaemia in WBS</h3><p><strong>Introduction</strong></p><p>Williams-Beuren syndrome (WBS, OMIM 194050) is a rare genetic disorder, caused by a hemizygous deletion at 7qn.23 comprising approximately 26 to 28 genes <sup>[1]</sup>. WBS patients are generally characterized by distinctive facial dysmorphisms, mental retardation and cardiovascular abnormalities. In addition, approximately 15% of WBS patients present with hypercalcaemia during infancy, generally mild in nature. It resolves spontaneously before the age of 4 years, but sometimes reoccurs briefly during puberty <sup>[1]</sup>. The mechanisms explaining the transient hypercalcaemia are poorly understood. We report a case of severe symptomatic hypercalcaemia in a patient with WBS only resolving with a profound reduction of calcium and vitamin D intake, and present a potential mechanism for this metabolic abnormality.</p><p>Case report</p><p>An 18-months-old female patient was admitted to a local hospital to start tube feeding for treatment of failure to thrive due to feeding difficulties and persistent vomiting despite proton-pump inhibition. Three months earlier she was diagnosed with WBS with normal serum calcium levels (2.40 mmol/L), and was known with low birth weight, a cardiac murmur without a structural anomaly, and a developmental delay.</p><p>During her admission, her condition deteriorated, and she developed a hypercalcaemia (Table 1) and hypertension (up to 150/130 mmHg) for which she was transferred to the pediatric intensive care unit at the Radboud University Nijmegen Medical Centre. Her blood pressure was controlled with an intravenous calcium-antagonist, which was successfully switched to oral anti-hypertensive agents (amlodipine and labetalol). Extensive evaluation, excluding renal angiography, did not show an explanation for the hypertension, other than the hypercalcaemia and the underlying WBS.</p><p>The hypercalcaemia was treated with hyperhydration, furosemide and a reduced calcium intake. Laboratory tests ruled out other causes than the WBS for the hypercalcaemia (Table 1). To prevent nephrocalcinosis due to the subsequent hypercalciuria (urine calcium-creatinine ratio up to 3.0 mmol/mmol), potassium citrate was administered.</p><p>As this treatment just led to a small reduction in serum calcium (Figure 1), a bisphosphonate was administered, in a low dose to prevent hypocalcaemia. This resulted in only a short and mild reduction of the serum calcium, so repeated and increased doses of pamidronate were administered, all with only short-lasting effects (Figure 1). With every return of hypercalcaemia, the patient also showed</p><hr><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><a href=/posts/rare-diseases-hit-fewer-than-1-in-1500-people-but-1-in-12-people-have-a-rare-dis-in-might-d-help>Rare diseases hit fewer than 1 in 1500 people, but 1 in 12 people have a rare disease (vitamin might D help)</a></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>child</span>
+<span class=tag>CYPA</span>
+<span class=tag>genetics</span>
+<span class=tag>hypertension</span>
+<span class=tag>low birth weight</span>
+<span class=tag>pregnancy</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>child, CYPA, genetics, hypertension, low birth weight, pregnancy, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030352"></script><script src="/js/tiki-redirects.js?v=1752030352"></script><script src="/js/lightspa.js?v=1752030352"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030352",indexUrl:"/search/search_index.json.gz?v=1752030352"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030352"></script></body></html>

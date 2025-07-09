@@ -40,7 +40,7 @@
 
 ### There were many [deaths in Florida](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6026a1.htm?s_cid=mm6026a1_e&source=govdelivery) due prescription overdose and a some due to illicit drug overdose
 
-{IMG(attId="629")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/overdose-deaths.png" alt="image">
 
 Alternate Text: The figure above shows the annual drug overdose death rates for selected prescription and illicit drugs in Florida for 2003-2009. Among seven specific drugs examined, in 2003 the highest death rate was for cocaine (3.2 per 100,000 population), followed by methadone (2.2), oxycodone (1.7), heroin (1.4), morphine and alprazolam (1.3), and hydrocodone (1.1). In 2009, the number of deaths involving prescription drugs was four times the number involving illicit drugs, and the highest death rate was for oxycodone (6.4 per 100,00 population), followed by alprazolam (4.4), methadone (3.9), cocaine (2.8), morphine (1.6), hydrocodone (1.4), and heroin (0.5). 
 
@@ -76,4 +76,4 @@ the death rate due to overdose may be only 20,000 X more
 
 ### [Scientific American April 2010 on deaths due to prescription drugs](http://www.scientificamerican.com/article.cfm?id=prescription-drug-deaths)
 
-<a href="/posts/no-deaths-from-vitamins-absolutely-none" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No Deaths from Vitamins. Absolutely None – Jan 2015">No Deaths from Vitamins. Absolutely None – Jan 2015</a>
+[No Deaths from Vitamins. Absolutely None – Jan 2015](/posts/no-deaths-from-vitamins-absolutely-none)

@@ -33,7 +33,7 @@
 }
 
 
-{IMG(fileId="1410" max ="100")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 100px;">
 
 {{< toc >}}
 
@@ -119,7 +119,7 @@ Thru glass
 eye and window|   blocked by glass|   UVA passed by some glass  
 may destroy some vitamin D
 
-Birds can see|   nope| <a href="/posts/uv-for-is-for-the-birds" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV for is for the birds">Many birds can see UVA</a>
+Birds can see|   nope| [Many birds can see UVA](/posts/uv-for-is-for-the-birds)
 
 Reptile can see|   Yes reptile|  Yes reptile
 
@@ -145,9 +145,9 @@ Skin Cancer|   controversy|   controversy||
 
 #### Measure UV
 
-* <a href="/posts/uv-and-vitamin-d-calculators" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV and Vitamin D calculators">UV Calculators</a>
+* [UV Calculators](/posts/uv-and-vitamin-d-calculators)
 
-* <a href="/posts/uv-meters" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV Meters">UV Meters</a>
+* [UV Meters](/posts/uv-meters)
 
 * [UV Card](http://www.google.com/search?q=uv+cards&hl=en&tbs=shop%3A1&aq=f#sclient=psy&hl=en&tbs=shop:1&q=%22uv+card%22&aq=&aqi=&aql=&oq=&pbx=1&fp=1&bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&cad=b)
 
@@ -155,11 +155,11 @@ Skin Cancer|   controversy|   controversy||
 
 #### UV thru glass
 
-* <a href="/posts/vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from the sun without the heat (silver-coated plexiglass)">Vitamin D from the sun can get thru a special kind of window</a> Plexiglass G - UVT
+* [Vitamin D from the sun can get thru a special kind of window](/posts/vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass) Plexiglass G - UVT
 
 * [Wear glasses when getting vitamin D from the sun – June 2011](/posts/wear-glasses-when-getting-vitamin-d-from-the-sun)
 
-* <a href="/posts/hypothesis-uva-through-window-glass-decreases-vitamin-d-2009" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: UVA through window glass decreases vitamin D - 2009">UVA through window glass decreases vitamin D</a>
+* [UVA through window glass decreases vitamin D](/posts/hypothesis-uva-through-window-glass-decreases-vitamin-d-2009)
 
 ---
 
@@ -171,21 +171,21 @@ Skin Cancer|   controversy|   controversy||
 
 #### Sunscreens
 
-* <a href="/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Most sunscreens actually increase the growth of skin cancer - May 2010">Most sunscreens actually increase the growth of skin cancer - May 2010</a>
+* [Most sunscreens actually increase the growth of skin cancer - May 2010](/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer)
 
 ---
 
 #### Increased sunscreen ==> increased melanoma
 
-{IMG(fileId="1158" max ="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
-* <a href="/posts/uv-spectra-of-the-sun-and-sunscreens" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV spectra of the sun and sunscreens">UV spectra of the sun and sunscreens</a> which has the following graph
+* [UV spectra of the sun and sunscreens](/posts/uv-spectra-of-the-sun-and-sunscreens) which has the following graph
 
 ---
 
 #### Red = sunlight; other lines = amount of light filtered thru sunscreens
 
-{IMG(attId="247" max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/sun4.png" alt="image" style="max-width: 500px;">
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400px">
 
@@ -193,13 +193,13 @@ Skin Cancer|   controversy|   controversy||
 
 #### See also web
 
-* <a href="/posts/uv-and-vitamin-d-calculators" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV and Vitamin D calculators">CLICK HERE</a> for free UVB Calculators on the web
+* [CLICK HERE](/posts/uv-and-vitamin-d-calculators) for free UVB Calculators on the web
 
 * [Historical record of UVB in the US](http://uvb.nrel.colostate.edu/UVB/uvb_pubs.jsf) from Colorado State University
 
 * [UV index for the day in the US](http://www.epa.gov/sunwise/uvindex.html)
 
-* <a href="/posts/vitamin-d-from-sun-barely-increased-when-lower-half-of-body-was-also-exposed" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from sun barely increased when lower half of body was also exposed – Jan 2015">Vitamin D from sun barely increased when lower half of body was also exposed – Jan 2015</a>
+* [Vitamin D from sun barely increased when lower half of body was also exposed – Jan 2015](/posts/vitamin-d-from-sun-barely-increased-when-lower-half-of-body-was-also-exposed)
 
 * [207-nm UV Light - A Promising Tool for Safe Low-Cost Reduction of Surgical Site Infections. I: In Vitro Studies](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076968)
 

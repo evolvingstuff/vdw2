@@ -73,21 +73,21 @@ They found that those with diabetes at the outset were 35 percent more likely to
 
 * [Vitamin D might might reduce dementia – Mar 2011](/posts/vitamin-d-might-might-reduce-dementia)
 
-* <a href="/posts/elderly-often-trapped-in-vitamin-d-vicious-circles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 884">Elderly often trapped in vitamin D vicious circles</a>
+* [Elderly often trapped in vitamin D vicious circles](/posts/elderly-often-trapped-in-vitamin-d-vicious-circles)
 
-* <a href="/posts/do-vitamin-d-deficiency-and-cognitive-decline-go-hand-in-hand" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 379">Do Vitamin D Deficiency and Cognitive Decline Go Hand-in-Hand? – Jan 2010</a>
+* [Do Vitamin D Deficiency and Cognitive Decline Go Hand-in-Hand? – Jan 2010](/posts/do-vitamin-d-deficiency-and-cognitive-decline-go-hand-in-hand)
 
 * [Cognitive impairment 4X more likely when vitamin D less than 10 ng – Nov 2010](/posts/cognitive-impairment-4x-more-likely-when-vitamin-d-less-than-10-ng)
 
-* <a href="/posts/vitamin-d-less-than-10ng-associated-with-cognitive-decline" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 887">Vitamin D less than 10ng associated with cognitive decline – July 2010</a>
+* [Vitamin D less than 10ng associated with cognitive decline – July 2010](/posts/vitamin-d-less-than-10ng-associated-with-cognitive-decline)
 
 * [Risk of cognitive decline 50 percent higher if low amount of vitamin D – Aug 2011](/posts/risk-of-cognitive-decline-50-percent-higher-if-low-amount-of-vitamin-d)
 
-* <a href="/posts/low-vitamin-d-levels-associated-with-increased-risk-for-cognitive-impairment" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 598">Low Vitamin D Levels Associated With Increased Risk for Cognitive Impairment - July 2010</a>
+* [Low Vitamin D Levels Associated With Increased Risk for Cognitive Impairment - July 2010](/posts/low-vitamin-d-levels-associated-with-increased-risk-for-cognitive-impairment)
 
 * [Vitamin D and Risk of Cognitive Decline in Elderly Persons – June 2011](/posts/vitamin-d-and-risk-of-cognitive-decline-in-elderly-persons) 
 
-* <a href="/posts/influence-diagram-for-vitamin-d-and-cognition-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 855">Influence diagram for vitamin D and cognition - 2008</a>
+* [Influence diagram for vitamin D and cognition - 2008](/posts/influence-diagram-for-vitamin-d-and-cognition-2008)
 
 # <a href="/posts/toward-a-theory-of-vitamin-d-disease-associations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1817">Toward a Theory of Vitamin D Disease Associations</a> includes the following Sept 2011
 

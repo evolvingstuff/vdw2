@@ -21,6 +21,7 @@
         "health risk",
         "magnesium",
         "neurological",
+        "obesity",
         "pain",
         "sleep apnea",
         "vitamin d"
@@ -74,6 +75,9 @@ Pt. 5, http://www.youtube.com/watch?v=D8Jde_4ZK8M
 
 * She has a web site : http://drgominak.com/vitamin-d 
 
-{IMG(attId="425, 426, 427, 428" max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/g2-obesity.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/g3-seasonal-hormone.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/g4-hypothesis.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/g5.gif" alt="image" style="max-width: 400px;">
 
 ## <span>[tiki-download_file.php?fileId=1655]</span> for Dr. Gorminak PDF (Nov 2010?) - which appears to be the basis of the video

@@ -37,20 +37,20 @@
 | Use powder from capsule | Great | perhaps<br>water-soulable | Bio-Tech and several others |
 | <a href="/posts/span-stylecolor090bulkspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120"> **<span style="color:#090;">Bulk</span>** </a> | Great | no | Add it to juice, food, etc.  |
 
-<a href="/posts/getting-vitamin-d-into-your-blood-and-cells" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your blood and cells">Getting Vitamin D into your blood and cells</a> has the following chart
+[Getting Vitamin D into your blood and cells](/posts/getting-vitamin-d-into-your-blood-and-cells) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
 ## See also VitaminDWiki
 
-<a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">Vitamin D from low-cost UVB lamps</a>
+[Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps)
 
 [Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011](/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection)
 
-<a href="/posts/spray-vitamin-d-inside-cheek-in-case-of-emergency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spray vitamin D inside cheek in case of emergency - Nov 2012">Spray vitamin D inside cheek in case of emergency - Nov 2012</a>
+[Spray vitamin D inside cheek in case of emergency - Nov 2012](/posts/spray-vitamin-d-inside-cheek-in-case-of-emergency)
 
-<a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
+[Optimize vitamin D from the sun](/posts/optimize-vitamin-d-from-the-sun)
 
-<a href="/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014">Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014</a>
+[Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014](/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct)
 
-<a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+[Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)

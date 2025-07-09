@@ -22,7 +22,7 @@
 
 # Autism and Vitamin D – Emily’s Story
 
-{IMG(attId="592" max ="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/emily.jpg" alt="image" style="max-width: 500px;">
 
 ### 26 pages
 
@@ -51,4 +51,4 @@ The Kindle format on Amazon can be converted to MobiPocket for reading on small 
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview - Autism and vitamin D</a>
+* [Overview - Autism and vitamin D](/posts/overview-autism-and-vitamin-d)

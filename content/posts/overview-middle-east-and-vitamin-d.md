@@ -78,7 +78,7 @@ This week we have visitors – friends of my parents. We were supposed to go out
 
 #### Middle East: map and 2020 population
 
-{IMG(attId="576" width="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/middle-east-map.png" alt="image" width="500">
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/me-population-2020.jpg" alt="image" width="200">
 
@@ -142,7 +142,7 @@ population from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Middle_Eastern
 
 1. Lack vitamin D fortification of food and drinks** <span style="color:#F00;">ME</span> *** Details on above list are <a href="/posts/here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">HERE</a>
 
-1. Desalinated water (lacking <a href="/posts/magnesium-role-in-health-and-longevity-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies">Magnesium</a> ) - unique to Saudi Arabia (60%)
+1. Desalinated water (lacking [Magnesium](/posts/magnesium-role-in-health-and-longevity-many-studies) ) - unique to Saudi Arabia (60%)
 
 ---
 

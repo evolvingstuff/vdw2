@@ -13,8 +13,13 @@
 
 # From http://www.americashealthrankings.org/
 
-{IMG(attId="406,407,408")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/preterm-birth.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/premature-death.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/low-birth-weight.gif" alt="image">
 
 # Categories of plotable information
 
-{IMG(attId="412,409,410,411")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/measures1.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/measures2.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/measures3.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/measures4.gif" alt="image">

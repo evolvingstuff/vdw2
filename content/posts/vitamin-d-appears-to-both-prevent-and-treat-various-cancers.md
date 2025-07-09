@@ -46,4 +46,4 @@ Though not as a primary anticancer agent, this vitamin may be used for the  **pr
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)

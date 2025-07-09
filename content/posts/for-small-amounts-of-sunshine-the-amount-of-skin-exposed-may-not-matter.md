@@ -50,7 +50,7 @@ PMID:  21039402
 
 PDF is attached at the bottom of this page
 
-{IMG(attId="647")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ng-vs-uvb-for-different-amount-of-skin.png" alt="image">
 
 Fig 1. Relationship between the increase in vitamin D (25-hydroxyvitamin-D3; D25(OH)D) and the ultraviolet (UV) B dose of
 

@@ -110,4 +110,4 @@ PMID: 21327501
 
 ## Many researchers attending a conference in 2009 recommended vitamin D levels between 30 to 100 ng
 
-{IMG(attId="355"max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 400px;">

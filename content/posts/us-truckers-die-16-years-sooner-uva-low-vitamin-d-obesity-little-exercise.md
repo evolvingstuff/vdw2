@@ -70,7 +70,7 @@ than the general workforce and a higher prevalence of ailments, disease, and inj
 
 got 250,000 hits in Google and the following chart - from the paper attached below
 
-{IMG(attId="456")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/shiftwork-disease.gif" alt="image">
 
 ---
 

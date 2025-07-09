@@ -56,39 +56,39 @@ PMID:     21792214
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [All items in Obesity and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=19&sort_mode=created_desc)
 
 * [Women can lose weight with vitamin D - Nov 2010](/posts/women-can-lose-weight-with-vitamin-d) 2000 IU
 
-* <a href="/posts/vitamin-d-levels-at-birth-may-predict-obesity-risk-at-age-3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1065">Vitamin D Levels at Birth May Predict Obesity Risk at age 3 - Oct 2010</a>
+* [Vitamin D Levels at Birth May Predict Obesity Risk at age 3 - Oct 2010](/posts/vitamin-d-levels-at-birth-may-predict-obesity-risk-at-age-3)
 
 * [600 mg dairy resulted in 12 pound loss in 2 years – Nov 2010](/posts/600-mg-dairy-resulted-in-12-pound-loss-in-2-years) with graph
 
-* <a href="/posts/more-calcium-and-vitamin-d-resulted-in-weight-loss" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1002">More calcium and vitamin D resulted in weight loss – Sept 2010</a>
+* [More calcium and vitamin D resulted in weight loss – Sept 2010](/posts/more-calcium-and-vitamin-d-resulted-in-weight-loss)
 
-* <a href="/posts/how-calcium-might-help-reduce-obesity" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 991">How Calcium might help reduce obesity – June 2010</a> technical
+* [How Calcium might help reduce obesity – June 2010](/posts/how-calcium-might-help-reduce-obesity) technical
 
-* <a href="/posts/32-ng-vitamin-d-and-500-mg-of-calcium-helped-reduce-weight-by-56-kg" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 881">32 ng vitamin D and 500 mg of Calcium helped reduce weight by 5.6 kg – Sept 2010</a> intervention
+* [32 ng vitamin D and 500 mg of Calcium helped reduce weight by 5.6 kg – Sept 2010](/posts/32-ng-vitamin-d-and-500-mg-of-calcium-helped-reduce-weight-by-56-kg) intervention
 
-* <a href="/posts/if-fat-and-low-on-calcium-then-taking-calcium-and-vitamin-d-will-shed-body-fat-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 712">If fat and low on Calcium then taking Calcium and vitamin D will shed body fat 2009</a>
+* [If fat and low on Calcium then taking Calcium and vitamin D will shed body fat 2009](/posts/if-fat-and-low-on-calcium-then-taking-calcium-and-vitamin-d-will-shed-body-fat-2009)
 
-* <a href="/posts/low-vitamin-d-in-elderly-women-associated-with-being-heavier-and-less-active" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 936">Low vitamin D in elderly women associated with being heavier and less active – Jan 2010</a>
+* [Low vitamin D in elderly women associated with being heavier and less active – Jan 2010](/posts/low-vitamin-d-in-elderly-women-associated-with-being-heavier-and-less-active)
 
 * <a href="/posts/now-we-know-why-vitamin-d-is-not-advertised-for-weight-loss" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 914">Now we know why vitamin D is not advertised for weight loss</a> it was patented
 
 * <a href="/posts/metabolic-syndrome-and-vitamin-d-view-of-many-papers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 720">Metabolic Syndrome and vitamin D - view of many papers Aug 2010</a>
 
-* <a href="/posts/vitamin-d-deficiency-obesity-and-cardiometabolic-risk-is-there-any-relationship" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 717">Vitamin D Deficiency, Obesity and Cardiometabolic Risk: Is there any Relationship – Jan 2010</a> 
+* [Vitamin D Deficiency, Obesity and Cardiometabolic Risk: Is there any Relationship – Jan 2010](/posts/vitamin-d-deficiency-obesity-and-cardiometabolic-risk-is-there-any-relationship) 
 
    * author is scientific director of company providing vitamin D testing
 
 * [DAIRY vitamin D and weight loss - 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1787) PDF
 
-* <a href="/posts/vitamin-d-and-weight-loss-and-obesity" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 716">Vitamin D and Weight Loss and Obesity – March 2010</a>
+* [Vitamin D and Weight Loss and Obesity – March 2010](/posts/vitamin-d-and-weight-loss-and-obesity)
 
-* <a href="/posts/adequate-vitamin-d-levels-may-aid-weight-loss-in-obese-patients-minn-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 714">Adequate Vitamin D Levels May Aid Weight Loss in Obese Patients – Minn. 2009</a> widely reported on
+* [Adequate Vitamin D Levels May Aid Weight Loss in Obese Patients – Minn. 2009](/posts/adequate-vitamin-d-levels-may-aid-weight-loss-in-obese-patients-minn-2009) widely reported on
 
 * <a href="/posts/many-reasons-why-vitamin-d-deficiency-is-becoming-epidemic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">Many reasons why vitamin D deficiency is becoming epidemic</a> in the past 40-50 years
 

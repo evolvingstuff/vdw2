@@ -57,6 +57,50 @@
         }
     }
     
+    // NEW: Function to check and fix URLs without performing a redirect
+    // Can be used by other components like LightSPA
+    window.fixUrl = function(url) {
+        console.log('[fixUrl] Called with URL:', url);
+        
+        if (!url) {
+            console.error('[fixUrl] Received invalid URL');
+            return url;
+        }
+        
+        try {
+            const urlObj = new URL(url, window.location.origin);
+            const path = urlObj.pathname;
+            
+            console.log('[fixUrl] Checking path:', path);
+            console.log('[fixUrl] Conditions:', {
+                notEndsWithHtml: !path.endsWith('.html'),
+                notEndsWithSlash: !path.endsWith('/'),
+                includesPosts: path.includes('/posts/'),
+                notIncludesAttachments: !path.includes('/attachments/'),
+                lengthGreaterThan1: path.length > 1
+            });
+            
+            // Only add .html to post URLs, not to attachment or other resource URLs
+            if (!path.endsWith('.html') && 
+                !path.endsWith('/') && 
+                path.includes('/posts/') &&
+                !path.includes('/attachments/') &&
+                path.length > 1) {
+                
+                urlObj.pathname = path + '.html';
+                console.log('[fixUrl] Fixed URL:', url, 'to:', urlObj.toString());
+                return urlObj.toString();
+            }
+            
+            // Return the original URL if no changes needed
+            console.log('[fixUrl] No change needed for URL:', url);
+            return url;
+        } catch (error) {
+            console.error('[fixUrl] Error processing URL:', error);
+            return url; // Return original on error
+        }
+    }
+    
     // Immediately run the redirect logic
     if (isTikiWikiUrl()) {
         console.log('TikiWiki URL detected:', window.location.href);

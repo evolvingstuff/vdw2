@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Fracture risk reduced somewhat by 800 IU of vitamin D and Calcium – meta-analysis</title>
+<link rel=stylesheet href="/css/main.css?v=1752030345"><link rel=stylesheet href="/css/pagination.css?v=1752030345"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030345"></script><script src="/js/search.js?v=1752030345"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Fracture risk reduced somewhat by 800 IU of vitamin D and Calcium – meta-analysis</h1><time>November 2, 2015</time><div data-pagefind-body><h4 id=calcium-plus-vitamin-d-supplementation-and-risk-of-fractures-an-updated-meta-analysis-from-the-national-osteoporosis-foundation>Calcium plus vitamin D supplementation and risk of fractures: an updated meta-analysis from the National Osteoporosis Foundation</h4><p>Osteoporosis International DOI 10.1007/s00198-015-3386-5</p><p>C. M. Weaver • D. D. Alexander2 • C. J. Boushey3 • B. Dawson-Hughes4 •</p><p>J. M. Lappe5,6 • M. S. LeBoff7 • S. Liu8 • A. C. Looker9 • T. C. Wallace10,11 • D. D. Wang12</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:800px"><p>This study looked ONLY at trials using 700 - 800 IU of vitamin D (and Calcium)</p><p>There are many trials which use 2,000+ IU of vitamin D – which have found much better results.</p><p>Why did this study fail to consider those high vitamin D studies?</p><p>Are they afraid of a similar problem as in Australia?</p><p>   <a href=/posts/20x-increase-in-vitamin-d-sold-and-36-percent-decrease-in-osteoporosis-business-in-australia>Australia as a whole increased vitamin D consumption by 20X, then Osteoporosis visits in Australia declined by 36%</a></p><p><strong>See also VitaminDWiki</strong></p><ul><li><p><a href=/posts/hip-fractures-reduced-16-to-33-percent-by-any-amount-of-vitamin-d-and-calcium>Hip fractures reduced 16 to 33 percent by any amount of Vitamin D and Calcium – Oct 2019</a></p></li><li><p><a href=/posts/hip-fractures-reduced-2x-to-6x-with-just-10-minutes-of-sunlight-daily-rct-2003-2010>Hip fractures reduced 2X to 6X with just 10 minutes of sunlight daily – RCT 2003-2010</a></p><ul><li>Far more benefit from 10 minutes of sunshine than 800 IU of vitamin D</li></ul></li><li><p><a href=/posts/overview-fractures-and-falls-and-vitamin-d>Overview Fractures and Falls and Vitamin D</a> 2000 IU is far better than 800 IU</p></li><li><p><a href=/posts/vitamin-d-prevents-falls-majority-of-meta-analyses-conclude-meta-meta-analysis>Vitamin D prevents falls – majority of meta-analyses conclude – meta-meta analysis Feb 2015</a></p></li><li><p><a href=/posts/vitamin-d-and-fractures-24-meta-analyses-and-counting>Vitamin D and fractures – 24 meta-analyses and counting – Dec 2014</a></p></li><li><p><a href=/posts/vitamin-d-prescribed-for-fragility-fractures-by-66-percent-of-canadian-doctors-h-ge-in-dose-size>Vitamin D prescribed for fragility fractures by 66 percent of Canadian doctors, huge range in dose size – Sept 2015</a></p></li><li><p><a href=/posts/calcium-supplements-proven-to-not-reduce-fractures-but-are-proven-to-increase-heart-problems>Calcium supplements proven to NOT reduce fractures, but are proven to INCREASE heart problems – July 2015</a></p></li><li><p><a href=/posts/800-iu-of-vitamin-d-does-not-prevent-falls-nope-need-at-least-2000>800 IU of vitamin D does not prevent falls (nope, need at least 2,000) - March 2015</a></p></li><li><p><a href=/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d>17 reasons why are doctors reluctant to accept vitamin D</a> has the following quote from Upton Sinclair</p></li></ul><blockquote><p><strong>&ldquo;It is difficult to get a man to understand something<br>      when his salary is dependent upon his not understanding it”</strong></p></blockquote></div><p>Summary The aim was to meta-analyze randomized controlled trials of calcium plus vitamin D supplementation and fracture prevention. Meta-analysis showed a significant 15 % reduced risk of total fractures (summary relative risk estimate <span>[SRRE]</span>, 0.85; 95 % confidence interval <span>[CI]</span>, 0.73-0.98) and a <strong>30 % reduced risk of hip fractures</strong> (SRRE, 0.70; 95 % CI, 0.56-0.87).</p><p>Introduction Calcium plus vitamin D supplementation has been widely recommended to prevent osteoporosis and subsequent fractures; however, considerable controversy exists regarding the association of such supplementation and fracture risk. The aim was to conduct a meta-analysis of randomized controlled trials <span>[RCTs]</span> of calcium plus vitamin D supplementation and fracture prevention in adults.</p><p>Methods A PubMed literature search was conducted for the period from July 1, 2011 through July 31, 2015. RCTs reporting the effect of calcium plus vitamin D supplementation on fracture incidence were selected from English- language studies. Qualitative and quantitative information was extracted; random-effects meta-analyses were conducted to generate summary relative risk estimates (SRREs) for total and hip fractures. Statistical heterogeneity was assessed using Cochran’s Q test and the I2 statistic, and potential for publication bias was assessed.</p><p>Results Of the citations retrieved, eight studies including 30, 970 participants met criteria for inclusion in the primary analysis, reporting 195 hip fractures and 2231 total fractures. Meta-analysis of all studies showed that calcium plus vitamin D supplementation produced a statistically significant <strong>15 % reduced risk of total fractures</strong> (SRRE, 0.85; 95 % confidence interval <span>[CI]</span>, 0.73-0.98) and a 30 % reduced risk of hip fractures (SRRE, 0.70; 95 % CI, 0.56-0.87). Numerous sensitivity and subgroup analyses produced similar summary associations. A limitation is that this study utilized data from subgroup analysis of the Women’s Health Initiative.</p><p>Conclusions This meta-analysis of RCTs supports the use of calcium plus vitamin D supplements as an intervention for fracture risk reduction in both community-dwelling and institutionalized middle-aged to older adults.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bone</span>
+<span class=tag>dosage</span>
+<span class=tag>Falls and Fractures</span>
+<span class=tag>falls fractures</span>
+<span class=tag>hip fractures</span>
+<span class=tag>Meta-analysis of Vitamin D</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>bone, dosage, Falls and Fractures, falls fractures, hip fractures, Meta-analysis of Vitamin D, osteoporosis, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030345"></script><script src="/js/tiki-redirects.js?v=1752030345"></script><script src="/js/lightspa.js?v=1752030345"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030345",indexUrl:"/search/search_index.json.gz?v=1752030345"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030345"></script></body></html>

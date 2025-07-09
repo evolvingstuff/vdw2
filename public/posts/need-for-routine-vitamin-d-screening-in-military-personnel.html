@@ -1,0 +1,84 @@
+<!doctype html><html><head><meta charset=utf-8><title>Need for Routine Vitamin D Screening in Military Personnel</title>
+<link rel=stylesheet href="/css/main.css?v=1752030347"><link rel=stylesheet href="/css/pagination.css?v=1752030347"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030347"></script><script src="/js/search.js?v=1752030347"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Need for Routine Vitamin D Screening in Military Personnel</h1><time>September 10, 2016</time><div data-pagefind-body><p>Military Medicine Vol 181 Issue 9, September 2016, pp. 1163-1164</p><p>COL Albert F. DiNicola , MC USAR (Ret.)*; Peter J. DiNicola , BS†; Lucia Sanchez *</p><p>DOI: <a href=http://dx.doi.org/10.7205/MILMED-D-16-00115>http://dx.doi.org/10.7205/MILMED-D-16-00115</a></p><ul><li>Pinnacle Medical Group, 8110 Mango Avenue, Fontana, CA 92335.</li></ul><p>†University of California, Riverside, 900 University Avenue, Riverside, CA 92521.</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:750px"><ul><li><p><a href=/posts/trial-starting-for-vitamin-d-with-us-soldiers-2000-and-5000-iu-for-3-months>Trial starting for Vitamin D with US soldiers – 2,000 and 5,000 IU for 3 months – Nov 2016</a></p></li><li><p><a href=/posts/military-and-vitamin-d-many-studies>Military and Vitamin D - many studies</a></p></li><li><p><a href=/posts/vitamin-d-prescriptions-in-us-military-increased-5x-in-5-years>Vitamin D prescriptions in US Military increased 5X in 5 years – July 2015</a></p></li><li><p><a href=/posts/mild-traumatic-brain-injury-reduced-by-vitamin-d>Mild Traumatic Brain Injury reduced by Vitamin D – May 2014</a> by Wentz</p></li><li><p><a href=/posts/vitamin-d-aided-progesterone-in-reducing-traumatic-brain-injury-rct>Vitamin D aided progesterone in reducing traumatic brain injury – RCT Dec 2012</a></p></li><li><p><a href=/posts/traumatic-brain-injury-treated-by-vitamin-d-progesterone-omega-3-and-glutamine>Traumatic brain injury treated by Vitamin D Progesterone Omega-3 and glutamine – May 2013</a></p></li><li><p><a href=/posts/us-army-learning-about-benefits-of-vitamin-d-to-trauma-matthews>US Army learning about benefits of vitamin D to trauma – Matthews Dec 2013</a></p></li><li><p><a href=/posts/suicide-2x-more-likely-with-low-vitamin-d-in-military>Suicide 2X more likely with low vitamin D (in military) – Jan 2013</a></p></li><li><p><a href=/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd>Vitamin D might reduce military costs for UC and CD – June 2011</a></p></li><li><p><a href=/posts/military-in-hot-climates-and-vitamin-d-deficiency-2010>Military in hot climates and vitamin D deficiency - 2010</a></p></li><li><p><a href=/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs>VA found less testing for vitamin D resulted in increased health costs – Jan 2012</a></p></li><li><p><a href=/posts/muscle-inflammation-17x-more-probable-if-vitamin-d-deficient>Muscle inflammation 17X more probable if vitamin D deficient – Feb 2013</a></p></li><li><p><a href=/posts/increased-bone-strength-during-military-training-with-just-800-iu-of-vitamin-d-and-calcium-rct>Increased Bone strength during military training – with just 800 IU of vitamin D and Calcium – RCT April 2014</a></p></li><li><p><a href=/posts/stress-fractures-in-basic-training-associated-with-25-ng-less-vitamin-d-meta-analysis>Stress fractures in basic training associated with 2.5 ng less vitamin D – meta-analysis Nov 2014</a></p></li></ul><p><strong>Seems strange that the following letter to editor did not use any of the great Military and Vitamin D studies listed above</strong></p></div><p><strong>Dear Editor:</strong></p><p>Vitamin D is a necessary component in repairing bone damage, decreasing predisposition to bone injury, and strengthening the immune system. Vitamin D deficiency plays a key role in the etiology of bone pathologies such as rickets, osteoporosis, and osteomalacia. In military personnel, as noted by the Deployment Health Clinical Center, low vitamin D blood levels have been associated with musculoskeletal injuries and stress fractures as well as implicated in increased susceptibility to chronic musculoskeletal pain, autoimmune disease, cancer, immune system dysfunction, diabetes, and post-traumatic stress disorder–mild traumatic brain injury symptoms.</p><p>Deployed Operation Iraqi Freedom/Operation Enduring Freedom military personnel have a predisposition to low vitamin D levels as a result of</p><p>(lack of sun exposure due to uniform sleeve worn down,</p><ul><li><p>shade-cover-seeking behaviors,</p></li><li><p>nighttime operational requirements</p></li><li><p>use of sunblock, and</p></li><li><p>lack of fortified dairy products in MREs (Meals Ready to Eat).</p></li></ul><p>Heavy field loads, carried by Service Members and weighing 60–100 plus pounds, also increase the risk of musculoskeletal injuries.</p><p>The intent in our study is to demonstrate the suboptimal blood vitamin D levels in apparently well-appearing adolescents and thus support the need for the military to routinely screen for and treat vitamin D deficiency and insufficiency so as to optimize bone health, reduce the risk of musculoskeletal injuries, and enhance immune system function. In our study, 120 adolescents were randomly screened during routine adolescent well checks for vitamin D deficiency (25-hydroxy blood vitamin D levels 0–19.9 ng/mL) and vitamin D insufficiency (25-hydroxy blood vitamin D levels 20.0–29.9 ng/mL). Age ranges were 11–18 years with a mean age of 14.6 years with 53% males (63/120) and 47% females (57/120). Ethnicities, in this predominantly low middle-income class population, were 95% Hispanic, 4% Caucasian, and 1% Middle Eastern with vitamin D levels obtained from May 2015 to February 2016.</p><p>Results were as follows: total number of patients with vitamin D deficiency and insufficiency 80% (95/120), total number with vitamin D deficiency 32% (38/120), total number with vitamin D insufficiency 48% (57/120), total number of males with vitamin D insufficiency 56% (35/63) and deficiency 17% (11/63), and total number of females with vitamin D insufficiency 39% (22/57) and deficiency 47% (27/57). The average 25-hydroxy vitamin D deficiency and insufficiency levels were 14.7 ng/mL and 23.4 ng/mL, respectively. Our results demonstrate a high incidence of vitamin D deficiency and insufficiency levels in both adolescent males and females with the percentage of vitamin D deficiency and insufficiency in females (86%, 49/57) greater than in males (73%, 46/63).</p><p>In conclusion, more studies are needed to determine the prevalence of suboptimal vitamin D levels among military personnel and the general population, and possible links to other medical conditions, such as nonhealing fractures, chronic pain, anxiety, depression, and post-traumatic stress disorder–mild traumatic brain injury. Mandatory vitamin D levels should be routinely obtained on all military personnel especially those in pre- and postdeployment mobilization phases. Obtaining blood vitamin D levels are widely available, rapid, inexpensive, and reliable.</p><hr><h4 id=cbd-also-treats-ptsd---aug-2017>CBD also treats PTSD - Aug 2017</h4><p><strong><a href=http://www.greenmedinfo.com/blog/marijuana-future-ptsd-treatment>Marijuana: The Future of PTSD Treatment?</a> GreenMedInfo</strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>anxiety</span>
+<span class=tag>autoimmune</span>
+<span class=tag>blood levels</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>bone stress fractures</span>
+<span class=tag>brain</span>
+<span class=tag>cancer</span>
+<span class=tag>chronic pain</span>
+<span class=tag>cognitive</span>
+<span class=tag>depression</span>
+<span class=tag>diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>falls fractures</span>
+<span class=tag>high dose</span>
+<span class=tag>immunity</span>
+<span class=tag>intervention</span>
+<span class=tag>metabolic</span>
+<span class=tag>mood disorders</span>
+<span class=tag>omega 3</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>pain</span>
+<span class=tag>rickets</span>
+<span class=tag>TBI</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>trauma surgery</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>anxiety, autoimmune, blood levels, bone, bone cancer, bone stress fractures, brain, cancer, chronic pain, cognitive, depression, diabetes, dosage, falls fractures, high dose, immunity, intervention, metabolic, mood disorders, omega 3, osteoporosis, pain, rickets, TBI, therapeutic intervention, trauma surgery, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030347"></script><script src="/js/tiki-redirects.js?v=1752030347"></script><script src="/js/lightspa.js?v=1752030347"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030347",indexUrl:"/search/search_index.json.gz?v=1752030347"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030347"></script></body></html>

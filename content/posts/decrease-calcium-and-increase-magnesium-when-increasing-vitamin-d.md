@@ -45,19 +45,19 @@ The excess Calcium does not show up as a problem (for your cardiovascular system
 
 #### Calcium Controversy: Is > 500 mg is too much or is  <1000 mg is OK
 
-* <a href="/posts/little-change-in-calcium-absorption-when-taking-400-vs-4000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3259">Little change in Calcium absorption when taking 400 vs 4,000 IU of vitamin D – Oct 2012</a>
+* [Little change in Calcium absorption when taking 400 vs 4,000 IU of vitamin D – Oct 2012](/posts/little-change-in-calcium-absorption-when-taking-400-vs-4000-iu-of-vitamin-d)
 
 * [Controversy: Too much Calcium if increase Vitamin D](/posts/controversy-too-much-calcium-if-increase-vitamin-d)
 
-* <a href="/posts/calcium-absorption-increased-only-6-percent-for-high-amounts-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3070">Calcium absorption increased only 6 percent for high amounts of vitamin D – RCT Aug 2012</a>
+* [Calcium absorption increased only 6 percent for high amounts of vitamin D – RCT Aug 2012](/posts/calcium-absorption-increased-only-6-percent-for-high-amounts-of-vitamin-d-rct)
 
 > some say major problem with just 2,000 IU of vitamin D, others say no problem with 10,000 IU
 
-* <a href="/posts/1000-mg-of-calcium-resulted-in-some-problems-no-matter-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2950">1000 mg of Calcium resulted in some problems no matter how much vitamin D – June 2012</a> 1 year test
+* [1000 mg of Calcium resulted in some problems no matter how much vitamin D – June 2012](/posts/1000-mg-of-calcium-resulted-in-some-problems-no-matter-how-much-vitamin-d) 1 year test
 
 * [More than 800 mg of Calcium increases Cardiovascular events by 85 % – Nov 2011](/posts/more-than-800-mg-of-calcium-increases-cardiovascular-events-by-85-percent)
 
-* <a href="/posts/interaction-between-vitamin-d-and-calcium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2668">Interaction between Vitamin D and calcium – April 2012</a>
+* [Interaction between Vitamin D and calcium – April 2012](/posts/interaction-between-vitamin-d-and-calcium)
 
 Most people already get enough Calcium in the diet and supplements. In fact too much Calcium if they take a lot of vitamin D
 
@@ -71,7 +71,7 @@ Excess Calcium can cause such problems in the long term such as <a href="/posts/
 
 750 mg appears the be the right amount when taking lots of vitamin D when pregnant/breastfeeding
 
-<a href="/posts/less-than-750-mg-calcium-with-vitamin-d-to-improve-balance" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 171">Less than 750 mg Calcium with Vitamin D to improve balance - April 2010</a>
+[Less than 750 mg Calcium with Vitamin D to improve balance - April 2010](/posts/less-than-750-mg-calcium-with-vitamin-d-to-improve-balance)
 
 ### <a href="/posts/vitamin-k2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Vitamin K2</a>  controls where Calcium is deposited in the body
 
@@ -81,7 +81,7 @@ Perhaps the controversey about how much Calcium to have is due to:
 
 1. Studies did not measure/control for Vitamin K2
 
-{IMG(fileId="1596" max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 ### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">CLICK HERE</a> for more information on the graph
 

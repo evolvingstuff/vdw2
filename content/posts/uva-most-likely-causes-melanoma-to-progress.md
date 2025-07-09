@@ -42,7 +42,7 @@ The current state of knowledge strongly indicates that UVA, regardless of its so
 
 * <a href="/posts/overview-suntans-and-melanoma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans and melanoma</a>
 
-* <a href="/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 302">Most sunscreens actually increase the growth of skin cancer - May 2010</a>
+* [Most sunscreens actually increase the growth of skin cancer - May 2010](/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer)
 
 * [UV creates vitamin D and skin cancer - 2009.PDF](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1690)
 

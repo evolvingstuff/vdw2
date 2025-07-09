@@ -55,4 +55,4 @@ Frequent and excessive tanning persists despite a growing understanding of its a
 
 * [all items in UV and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=10&sort_mode=created_desc) 150 items Aug 2011
 
-* <a href="/posts/overview-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 803">Overview Skin and vitamin D</a>
+* [Overview Skin and vitamin D](/posts/overview-skin-and-vitamin-d)

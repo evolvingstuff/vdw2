@@ -64,7 +64,7 @@ PMID: 21455716
 
 * [400 IU of Vitamin D Magnesium and Calcium helped Twin bones – Feb 2011](/posts/400-iu-of-vitamin-d-magnesium-and-calcium-helped-twin-bones)
 
-* <a href="/posts/calcium-in-food-increased-much-more-than-magnesium-in-recent-decades" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 160">Calcium in food increased much more than Magnesium in recent decades April 2010</a>
+* [Calcium in food increased much more than Magnesium in recent decades April 2010](/posts/calcium-in-food-increased-much-more-than-magnesium-in-recent-decades)
 
 * <a href="/posts/overview1-of-magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1125">Overview1 of Magnesium</a>
 
@@ -74,7 +74,7 @@ PMID: 21455716
 
 * <a href="/posts/vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Vitamin K and Vitamin D</a>
 
-* <a href="/posts/even-400-iu-reduced-bone-loss-a-bit" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 780">Even 400 IU reduced bone loss a bit – Aug 2010</a>  no mention of Vitamin K nor Magnesium
+* [Even 400 IU reduced bone loss a bit – Aug 2010](/posts/even-400-iu-reduced-bone-loss-a-bit)  no mention of Vitamin K nor Magnesium
 
 * [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
@@ -88,23 +88,23 @@ PMID: 21455716
 
 * <a href="/posts/overview-seniors-lack-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview Seniors lack Vitamin D</a>
 
-* <a href="/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 984">National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010</a> 800 to 1000 IU daily for elderly
+* [National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010](/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010) 800 to 1000 IU daily for elderly
 
-* <a href="/posts/lowest-cost-osteoporosis-treatment-was-vitamin-d-and-calcium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1109">Lowest cost osteoporosis treatment was vitamin D and Calcium – Oct 2010</a>
+* [Lowest cost osteoporosis treatment was vitamin D and Calcium – Oct 2010](/posts/lowest-cost-osteoporosis-treatment-was-vitamin-d-and-calcium)
 
 * <a href="/posts/low-cost-co-factors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Low cost co-factors for vitamin D</a>  More than Calcium is needed for healthy bones
 
 * [Vitamin D and Fracture Prevention – June 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1173)
 
-* <a href="/posts/vitamin-d-and-calcium-for-the-prevention-of-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 99">Vitamin D and calcium for the prevention of fractures</a>
+* [Vitamin D and calcium for the prevention of fractures](/posts/vitamin-d-and-calcium-for-the-prevention-of-fractures)
 
 * [Osteoporosis reduced by 800 or more IU of vitamin D - July 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1333)
 
 * <a href="/posts/would-there-be-fewer-stress-and-bone-fractures-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 974">Would there be fewer stress and bone fractures with vitamin D?</a>
 
-* <a href="/posts/4000-iu-vitamin-d-intervention-helped-elderly-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1058">4000 IU Vitamin D intervention helped elderly bones – March 2010</a>
+* [4000 IU Vitamin D intervention helped elderly bones – March 2010](/posts/4000-iu-vitamin-d-intervention-helped-elderly-bones)
 
-* <a href="/posts/890-iu-of-vitamin-d-and-1200-mg-calcium-improved-bone-density" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 614">890 IU of vitamin D and 1200 mg Calcium improved bone density – July 2010</a>
+* [890 IU of vitamin D and 1200 mg Calcium improved bone density – July 2010](/posts/890-iu-of-vitamin-d-and-1200-mg-calcium-improved-bone-density)
 
 * <a href="/posts/calcium-and-just-900-iu-of-vitamin-d-can-improve-bone-density" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 591">Calcium and just 900 IU of vitamin D can improve Bone Density – July 2010</a>
 

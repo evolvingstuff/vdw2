@@ -59,7 +59,7 @@ To our knowledge, this is the first specific, reliable, reproducible and robust 
 
 ### Fairly accurate and consistent - when compared to the competition
 
-{IMG(attId="598")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/test-results-table-1.png" alt="image">
 
 - - - - - - - - - - - 
 

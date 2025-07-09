@@ -1,0 +1,79 @@
+{
+    "title": "Dopamine quickly increased by Calcitriol (fully activated vitamin D) \u2013 might be a way to treat ADHD",
+    "slug": "dopamine-quickly-increased-by-calcitriol-fully-activated-vitamin-d-might-be-a-way-to-treat-adhd",
+    "aliases": [
+        "/Dopamine+quickly+increased+by+Calcitriol+fully+activated+vitamin+D+\u2013+might+be+a+way+to+treat+ADHD+\u2013+Oct+2024",
+        "/15655"
+    ],
+    "tiki_page_id": 15655,
+    "date": "2024-11-06",
+    "tags": [
+        "alcohol",
+        "anxiety",
+        "brain",
+        "cognitive",
+        "genetics",
+        "health risk",
+        "mood disorders",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
+}
+
+
+{{< toc >}}
+
+---
+
+#### Vitamin D’s Capacity to Increase Amphetamine-Induced Dopamine Release in Healthy Humans: A Clinical Translational <span>[11C]</span>-PHNO Positron Emission Tomography Study
+
+Biological Psychiatry https://doi.org/10.1016/j.biopsych.2024.09.028 Full PDF is behind paywall
+
+Background
+
+Dopaminergic tone and phasic release have transdiagnostic relevance. Preclinical research suggests that the active form of vitamin D, calcitriol, increases subcortical tyrosine hydroxylase, D2/3 receptors, and amphetamine-stimulated dopamine release in rodents. Comparable studies have not been conducted in humans.
+
+Methods
+
+Healthy, vitamin-D-sufficient adults (N=18; 32.8 ±6.6 years; 33% female) participated in a randomized, double-blind, placebo-controlled within-subjects study involving four total scans over two visits consisting of same-day pre-amphetamine and post-amphetamine (0.3 mg/kg) 11C-PHNO positron emission tomography (PET) scanning to examine D2/3 receptor availability (BPND) following active calcitriol (1.5 μg night before experimental day and 1.5 μg morning of experimental day) or placebo at least six days apart. Parametric images of 11C-PHNO PET BPND were computed using a simplified reference tissue model with the cerebellum as reference. Blood samples were acquired to measure serum calcitriol, amphetamine, and calcium levels. Regions of interest examined were the dorsal caudate, dorsal putamen, ventral striatum, globus pallidus, and substantia nigra.
+
+Results
+
+For pre-amphetamine scans, there was a medication-by-region-of-interest interaction (F4,153=2.59, p=0.039) and a main effect of medication (F1,153=4.88, p=0.029) on BPND, with higher BPND values on calcitriol in the ventral striatum (t=2.89, p=0.004) and dorsal putamen (t=2.15, p=0.033). There was a main effect of medication on post-amphetamine change in BPND (F4,153=5.93, p=0.016), with greater decreases on calcitriol in the ventral striatum (t=3.00, p=0.003), substantia nigra (t=2.49, p=0.014), and dorsal caudate (t=2.29, p=0.023).
+
+Conclusions
+
+Results provide translational support for vitamin D to target dopaminergic tone, with implications for clinical disorders involving dysregulated dopamine function.
+
+Clinical Trial Registration: Vitamin D as a Therapeutic Adjunct in the Stimulant Treatment of ADHD; https://clinicaltrials.gov/study/NCT03103750; ClinicalTrials.gov ID: NCT03103750
+
+Introduction
+
+Dopaminergic tone and phasic dopamine release have transdiagnostic relevance. For instance, several positron emission tomography (PET) imaging studies have provided support for hypodopaminergic models of substance use disorders (SUDs) involving lower D2/3 receptor binding and decreased stimulant-induced dopamine release across multiple SUDs (i.e., involving nicotine, alcohol, cocaine, methamphetamines, and opioids) (1, 2, 3, 4, 5, 6, 7, 8). Furthermore, relationships have been reported between dopaminergic functioning and clinically relevant measures including sensitivity to positive effects of drugs, choice to self-administer drugs, impulsivity, and relapse likelihood (3, 9, 10, 11, 12).
+
+Dysregulation of the dopamine system has been implicated in other conditions characterized by poor impulse control (13, 14, 15, 16).
+
+Notwithstanding evidence of neurobiological alterations in dopamine systems, reservations exist for long-term prescription of stimulant agents and the potential therapeutic role for stimulants in SUDs. Such reservations may include potential adverse effects including drug diversion, insomnia, appetite suppression, anxiety, and elevation of blood pressure or heart rate, among others. These reservations are important to consider as some research suggests there could be a greater efficacy at higher doses that may be associated with increased likelihoods of adverse effects and/or lower retention rates (20, 21, 22). Thus, there is need for exploring non-stimulant and non-addictive therapies that could supplement or complement the clinical use of stimulants. One potential candidate is vitamin D.
+
+The vitamin D receptor (VDR) co-localizes with tyrosine hydroxylase (a rate-limiting enzyme in the production of dopamine) in mesolimbic structures including the ventral tegmental area and substantia nigra (SN) (23). Preclinically, a single acute 10 mcg/kg intraperitoneal pre-treatment with calcitriol in rodents led to transcriptional changes of dopamine-related genes (i.e., upregulation of the gene for tyrosine hydroxylase in the midbrain and dopamine type-2 receptors in the nucleus accumbens (NAcc)), enhanced stimulant-induced dopamine release, and was associated with less drug-seeking behavior (23). Preclinical research points to other important neurobiological roles for vitamin D with respect to DA function, including effects on neurodevelopment, neurotropism/neuroprotection, neurotransmission, and antioxidant properties. For example, 1) VDR expression in midbrain coincides with the birth/peak expansion of mesencephalic DA neurons at embryonic days 12-15 (24, 25, 26); 2) maternal vitamin D deprivation during this period leads to significant reductions in brain levels of genes essential for the early survival of DA neurons in vivo (27, 28, 29); 3) this transient developmental vitamin D deficiency leads to reductions in mRNA levels for tyrosine hydroxylase (TH)(30, 31); 4) calcitriol is neuroprotective with respect to several DA neurotoxic drugs/interventions, including 6-hydroxy dopamine (32) and methamphetamine (33); 5) calcitriol increases glia-derived neurotrophic factor mRNA (34, 35) which plays a critical role in the protection, repair, morphological differentiation, and survival of DA neurons (36, 37), and restoration of DA levels after administration of the dopaminergic neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (38); and finally, 6) preventing oxidative damage via regulating agents such as glutathione and glutamate and inhibiting nitric oxide synthase (39, 40, 41). These findings suggest potential mechanisms for calcitriol’s role in regulating DA neurotransmission in vivo.
+
+To our knowledge, this work is the first translational test of whether the active form of vitamin D (calcitriol) may have similar effects in humans (i.e., upregulation of dopamine receptors and increased stimulant-induced dopamine release). Healthy adults completed a randomized crossover, double-blind, amphetamine-challenge <span>[11C]</span>-(+)-PHNO PET study to investigate calcitriol-related effects on D2/3 receptors and amphetamine-induced dopamine release in striatal and midbrain regions. Consistent with preclinical evidence, we hypothesized that overnight pretreatment and subsequent scan-day dosing of calcitriol would be associated with greater D2/3 receptor availability (BPND) prior to amphetamine administration and greater change in BPND, reflecting greater dopamine release, following amphetamine dosing.
+
+ **Section snippets** 
+
+Participants
+
+Participants were 18 healthy adults (32.8 ± 6.6 years; 33% female; Table 1). Structured clinical interviews (42) and physical exams including medical history, routine laboratory studies, pregnancy tests (for women) and electrocardiograms were performed to assess eligibility. Exclusion criteria included the presence or history of a general medical or psychiatric illness, pregnancy or breast feeding, or any condition that would interfere with the ability to participate in PET or MRI protocols . . . . . .
+
+Results
+
+Following the overnight dose, serum calcitriol levels were higher for the active medication (119.2 ± 26.4 pg/mL) relative to placebo (69.4 ± 23.6 pg/mL) (t17=10.70, p<0.001). Relative to overnight levels and following the second dose, average serum calcitriol sampled during both PET scans was increased on active medication days (+23.9% ± 18.5%; t17=5.88, p<0.001) and was unchanged on placebo days (+6.5% ± 24.3%; t17=1.00, p=0.33). There were no differences between calcitriol and placebo days in  . . . . . 
+
+Discussion
+
+This translational study is the first to investigate the capacity of acute pre-treatment of calcitriol to enhance amphetamine-induced dopamine release in humans. Following overnight and scan-day calcitriol administrations, participants had higher <span>[11C]</span>-(+)-PHNO binding in the VS and DPU. Calcitriol administration was associated with higher amphetamine-induced <span>[11C]</span>-(+)-PHNO displacement in the VS, SN, and DCU. These results provide translational support for vitamin D, in its activated form, to . . . . . 
+
+---
+
+#### VitaminDWiki [ADHD and Vitamin D Deficiency](/posts/adhd-and-vitamin-d-deficiency)

@@ -162,7 +162,7 @@ Thus, vitamin D 25(OH)D  is  a  prohormone  that  serves  as  an  immediate prec
 
 Renewed interest in vitamin D has been stimulated by the discovery that vitamin D also acts through an autocrine pathway. In this system, 25(OH)D is converted to 1,25(OH)2D serves as a quick on-off switch, necessary for expression of certain cellular actions but also limiting their duration and extent. This well-worked out model illustrates the key role of vitamin D in mediating certain cellular responses to external signals (see Figure 1).
 
-{IMG(attId="844")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/paradigm-fig1.jpg" alt="image">
 
 Figure 1. Schematic depiction of the 2 faces of vitamin D function. The principal outputs of each are designated by the symbol Â«. In the case of the endocrine side, the stimulus to expression and action of the 1-a-hydroxylase is typically parathyroid hormone (PTH) and FGF23, and the principal output is calcitriol (1,25(OH)2D). On the autocrine side the stimulus to expression of the 1-a-hydroxylase will vary from tissue to tissue, and the principal output of the process (but not released from the cell) will be the proteins signaling, for example, cell differentiation and apoptosis. For the autocrine function the principal input variable will be serum 25(OH)D, as circulating calcitriol levels are not usually high enough to elicit the full autocrine response. Instead, each tissue controls its own autocrine activation independently of other  tissues but is dependent on an adequate circulating level of 25(OH)D. (Copyright 2006, Robert P. Heaney, MD)
 
@@ -822,4 +822,4 @@ Funding: The  author received  no  financial  support for  the  research and/or 
 
 * [Cardiovascular disease may be reduced by vitamin D – June 2011](/posts/cardiovascular-disease-may-be-reduced-by-vitamin-d) co-authored, has the following graph
 
-{IMG(attId="637")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cvd-figure-1.png" alt="image">

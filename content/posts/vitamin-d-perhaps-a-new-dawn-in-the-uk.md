@@ -1,0 +1,144 @@
+{
+    "title": "Vitamin D \u2013 perhaps a new dawn in the UK",
+    "slug": "vitamin-d-perhaps-a-new-dawn-in-the-uk",
+    "aliases": [
+        "/Vitamin+D+\u2013+perhaps+a+new+dawn+in+the+UK+\u2013+March+2016",
+        "/7339"
+    ],
+    "tiki_page_id": 7339,
+    "date": "2016-02-23",
+    "categories": [
+        "Vitamin D in Europe"
+    ],
+    "tags": [
+        "Vitamin D in Europe",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "cholesterol",
+        "dosage",
+        "genetics",
+        "health risk",
+        "high dose",
+        "intervention",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "pregnancy",
+        "rickets",
+        "statins",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+#### Vitamin D - has the new dawn for dietary recommendations arrived?
+
+Nutrition Bulletin: EDITORIAL	DOI: IO.IIII/nbu.12185
+
+S. A. Lanham-New Head, Nutritional Sciences Department, School of Biosciences and Medicine, University of Surrey, Guilford, Surrey, UK
+
+L. R. Wilson: BBSRC DRINC PhD Research Fellow, Nutritional Sciences Department, School of Biosciences and Medicine, University of Surrey, Guildford, Surrey, UK
+
+Correspondence: Professor Susan A. Lanham-New, Head, Nutritional Sciences Department, School of Biosciences and Medicine, Faculty of Health and Medical Sciences, University of Surrey, Guildford. GU2 7XH, Surrey, UK. E-mail: s.lanham-new@surrey.ac.uk
+
+<div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+
+Many UK scientists, such as this author, strongly feel that people in the UK do not get enough vitamin D
+
+However, UK regulators still consider 10 ng/mL to be enough
+
+&nbsp; &nbsp; Note: Aware of only 2 other countries in the world which consider 10 ng/mL to be OK
+
+Outside of the UK the debates typically range between 20ng and 50 ng 
+
+ **See also VitaminDWiki** 
+
+* [Vast majority of Europeans have less than 30 ng of Vitamin D – Aug 2016](/posts/vast-majority-of-europeans-have-less-than-30-ng-of-vitamin-d) - ODIN
+
+* [Only 1 in 10 UK parents had been told about vitamin D by their child’s doctor – April 2015](/posts/only-1-in-10-uk-parents-had-been-told-about-vitamin-d-by-their-childs-doctor)
+
+* [Vitamin D in Europe – status, policy, etc. – Jan 2015](/posts/vitamin-d-in-europe-status-policy-etc)
+
+* [Vitamin D levels in Europe – Sept 2014](/posts/vitamin-d-levels-in-europe)
+
+* [ODIN: Europeans study vitamin D fortification and testing](/posts/odin-europeans-study-vitamin-d-fortification-and-testing)
+
+* [Why the UK government ignores evidence for the benefits of Vitamin D - Nov 2013](/posts/why-the-uk-government-ignores-evidence-for-the-benefits-of-vitamin-d)
+
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
+
+</div>
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/lanham-new-et-al-2016-nutrition-bulletin.pdf">Download the PDF from VitaminDWiki</a>** 
+
+ **Since the beginning of our new millennium, vitamin D has been the absolute focus of attention: there can be no doubt about that! Whether it be the scientific, clinical or academic communities, government/regulatory organisations, industry, media or indeed the public, everyone has ‘woken up’ to the reality that the functions of this nutrient go far wider than that of the skeletal system.**  Concomitant with that, there is universal acceptance that we have a high prevalence of people with vitamin D levels lower than is good for their health.
+
+Vitamin D is a most unique nutrient - the term ‘vitamin’ is a misnomer since vitamin D is not a ‘vital-amine’ in the true sense of the word but rather it is a pro-hormone - with the main source not being diet but rather ultraviolet B-rays (UVB) from sunlight. This makes vitamin D such a challenging (but exciting!) nutrient to study as in areas of northern latitude, vitamin D can be made from UVB only during the months of April to September. Hence, randomised, controlled trials (RCTs) involving vitamin D should strictly be confined to the winter months when vitamin D is not made endogenously via the act of sunlight on skin, and all dietary vitamin D studies (cross-sectional and longitudinal) need to adjust for sunlight exposure in their analyses (Lanham-New et al. 2011).
+
+Vitamin D3 is formed as the direct effect of UV irradiation of the skin. The action of UVB converts 7-dehydrocholesterol to pre-vitamin D, which is then metabolised to vitamin D by a temperature-dependent isomerisation. We know that 7-dehydrocholesterol is a zoosterol, which functions in the serum as a cholesterol precursor, and is converted to vitamin D3 in the skin, therefore operating as pro-vitamin D3. This is particularly important since there is a growing recognition that people who take cholesterol-lowering statin drugs have a problem with vitamin D deficiency, although to date this has attracted relatively little focus. Cholesterol is required by the body to synthesise vitamin D and statin drugs are responsible for reducing cholesterol production and eliminating it, leading many to speculate that statin drug users do not have enough cholesterol to process vitamin D efficiently. Studies, albeit observational in nature, are beginning to show convincingly that statin users have a greater prevalence of vitamin D deficiency, with muscle pain being a common characteristic. This is an area that the clinical field must take forward as a genuine concern in their clinical practice and is a research area that warrants urgent attention.
+
+Once vitamin D is metabolised from pre-vitamin D to vitamin D, it is transported via the general circulation and, following enzymatic activity in the liver (by 25-hydroxylase), it is converted to 25-hydroxy vitamin D (25OHD), which is considered to be the best clinical indicator of vitamin D status. The concentration of 25OHD in the blood reflects the vitamin D supply from both the skin and the diet, and with a decent half-life (approximately 3 weeks), it is a good integrated marker of recent vitamin D supply and can thus be used to assess vitamin D adequacy. Using the vitamin D-binding protein, 25OHD is transported to the kidney where it undergoes a final hydroxylation step via the enzyme 1-alpha-hydroxylase to become 1-alpha, 25-dihydroxyvitamin D, also known as calcitriol, which is the active form of vitamin D.
+
+What has held the field back is the lack of standardised measurements of 25OHD status, with laboratories worldwide showing alarmingly poor consistency of measurement. Indeed, in the well-publicised paper by Binkley et al. (2004), remarkably different results were yielded from samples, which had been spiked with 20 ng/ml and processed by a number of top vitamin D measuring laboratories using their specific methodologies. This has had ramifications for the field of vitamin D research and is one clear reason why there are such inconsistencies and controversies, nationally and internationally, as to what level of 25OHD status defines vitamin D ‘deficiency’, ‘insufficiency’ and ‘optimum’ and which method should be used (Spiro & Buttriss 2014). However, what is very positive is that a gold standard reference vitamin D method (liquid chromatography-mass spectrometry; LC-MS) has been introduced in recent years and is now being actively used by a number of key organisations, including (but not limited to) the US Centres for Disease Control and Prevention (CDC) and the UK National Laboratories. Five years ago, the US National Institutes for Health (NIH) established the Vitamin D Standardization Program (VDSP) in an attempt to standardise the laboratory measurement of vitamin D across the globe, with key bodies signing up to it, including laboratories in the UK. In addition to this, there is now greater prominence than ever for the Vitamin D External Quality Assessment Scheme (DEQAS), which has been led by the UK. The DEQAS Advisory Panel performance targets call for 75% or more of the results falling within ± 25% of the Target Value [the National Institute of Standards and Technology (NIST) LC-MS/MS assigned value](the%20National%20Institute%20of%20Standards%20and%20Technology%20(NIST)%20LC-MS/MS%20assigned%20value). The international DEQAS has been monitoring the performance of 25OHD assays since 1989 and now has >1000 registered participants worldwide. In essence, DEQAS is an ongoing multicentre trial of the methods used by its participants and provides a unique opportunity to assess the accuracy and specificity of 25OHD methods, as well as the analytical performance of a large number of their users. These initiatives are extremely important and can only serve to be beneficial to the vitamin D field in the long-term.
+
+Low vitamin D status has been reported throughout the world - and there is, at last, recognition that this is a real problem in the 21st century. In the recent report by the International Osteoporosis Foundation (Mitchell et al. 2015), vitamin D insufficiency (25OHD status <50 nmol/l) has been identified as being prevalent in women of child-bearing age, pregnant women (see Toher et al. 2013), children and adolescents, as well as adults in general. Adults who are at particular risk of having low vitamin D status include individuals living at higher latitudes, such as in the UK and many parts of mainland Europe, with minimal exposure to sunlight; those who are overweight and obese; individuals with a darker skin tone; those who cannot expose their skin to the sun for medical or cultural reasons and populations who are institutionalised and spend very little time outdoors. Furthermore, individuals with diseases that reduce the uptake of vitamin D from the intestine are at an increased risk of low vitamin D status and require a special focus.
+
+For the UK, vitamin D deficiency (as defined as a 25OHD status <25 nmol/l) is a major public health problem, particularly in older people (>65 years) and in the UK South Asian population (including children). In the largest longitudinal study available in South Asian women, funded by the Food Standards Agency, 25OHD status was below 25 nmol/l for the entirety of the year in both pre-menopausal and post-menopausal groups (Macdonald et al. 2011; Darling et al. 2013). The UK National Diet and Nutrition Survey (NDNS) shows there to be a high prevalence of low vitamin D status in adolescents, particularly boys (see Prentice 2013). Data from the NDNS in older children show that 19.7% of boys and 24.4% of girls aged 1118 years had a vitamin D status below 25 nmol/l (Bates et al. 2014). It is of course well established that vitamin D deficiency is an issue in the growing child, particularly with respect to impairment of bone development and a reduced peak bone mass attainment. Severe vitamin D deficiency results in rickets in children (osteomalacia in adults) and must be avoided at all costs. In 2012, the Chief Medical Officer (CMO) for England, Professor Dame Sally Davies, called for a review of cost-effectiveness of making the Healthy Start programme universal and offering free vitamins to all children under the age of 5 years and this is currently under review by the National Institute for Health and Care Excellence (NICE) (Alderton 2014). Vitamin D deficiency in our ageing population is undeniably a huge problem and one which must be the target of focused public health attention in the future (Buttriss 2015).
+
+Vitamin D has many functions in addition to its key role in the regulation of calcium and phosphorus homoeostasis. The active hormone, 1,25-dihydroxy- vitamin D, binds to the vitamin D receptor (VDR) in a large number of cells to promote/suppress gene transcription and thus regulate cell function. The VDR is not just present in bone but in muscle, adipose tissue, immune systems, the central nervous and endocrine systems, and some cancer cells.
+
+The evidence for the role of vitamin D in skeletal health is robust but what we lack are strong RCTs or prospective studies to establish whether there is a role for vitamin D in relation to other health outcomes. Certainly, vitamin D plays a key role in muscle health, particularly in older adults. By helping to maintain muscle function and prevent falling and reducing the risk of falling, this will undoubtedly be of benefit to our (growing) ageing population (McCarthy & Kiely 2015). There are important RCT studies underway for other health outcomes, and we await their completion and publication with anticipation. One key project currently running is the European Commission-funded  **ODIN project**  (food-based solutions for optimal vitamin D nutrition and health throughout the life cycle), which commenced in November 2013 and is a multidisciplinary consortium of 31 partners from a total of 19 countries, and incorporates a 48-month programme of work. Further details of this exciting project, which will publish its final report in 2017, can be found at www.odin-vit- d.edu (see Kiely et al. 2015).
+
+Dietary vitamin D intake varies considerably worldwide and is directly associated with the extent of vitamin D fortification specific to the country. Vitamin D as cholecalciferol (vitamin D3) and ergocalciferol (vitamin D2) is legally permitted to be added to foods [only in cholecalciferol and ergocalciferol form as stated in Annex 1 of Regulation (EC) No 1925/2006, amended by the Commission Regulation (EC) No. 1170/2009](only%20in%20cholecalciferol%20and%20ergocalciferol%20form%20as%20stated%20in%20Annex%201%20of%20Regulation%20(EC)%20No%201925/2006,%20amended%20by%20the%20Commission%20Regulation%20(EC)%20No.%201170/2009). In the UK, dietary intakes of vitamin D are low, typically varying between 100 and 200 IU (2.5-5 ig) per day across different population groups. The recent update of the vitamin D content of fortified foods and supplements in the UK NDNS Nutrient Databank is very important and will ensure that dietary intake estimates of vitamin D in the UK are accurate and informative (Allen et al. 2014).
+
+Vitamin D is naturally present in foods in two forms, with vitamin D2 being present in plants and fungi whereas vitamin D3 is found in fish, meat and eggs. There has been controversy for many years as to whether it matters if vitamin D2 or vitamin D3 is used as the source for raising vitamin D status (either as supplements or through food fortification) (see Tripkovic 2013). Results from the D2-D3 study, which has been funded by the Biotechnology and Biological Sciences Research Council (BBSRC) - Diet and Health Research Industry Club (DRINC) programme and is the largest RCT to directly compare vitamin D2 with vitamin D3, has shown some exciting results in both Caucasian and South Asian populations (Wilson et al. 2015) and there are intriguing new leads on mechanisms of action (Professor C. P. Smith & L. R. Wilson, personal communication 2015).
+
+It is important to note that there are currently very few foods in the UK providing a valuable contribution to vitamin D intake, suggesting that food fortification with vitamin D could be an effective way of improving vitamin D status. This is a topic that requires urgent consideration from the consumer perspective - which foods would be most effective; and from a food industry perspective - to which foods can vitamin D be added in appropriate amounts.
+
+The setting of dietary requirements for vitamin D has proved just as controversial as defining the level of 25OHD status to signify vitamin D ‘sufficiency’ (see Cashman & Kiely 2014). The Scientific Advisory Committee on Nutrition’s Vitamin D and Health draft report released for consultation in July 2015 is a landmark for the vitamin D field in the UK (see Buttriss 2015). Whilst there are more questions than answers (as is the case for so many nutrients), a new era of vitamin D exploration is upon us - the future will be exciting, challenging and revealing!
+
+#### References
+
+1. Alderton S (2014) Do we need free vitamins for all babies and young children in the UK? Nutrition Bulletin 39: 187-94.
+
+1. Allen RE, Dangour AD & Tedstone A (2014) Update of the vitamin D content of fortified foods and supplements in the UK National Diet and Nutrition Survey Nutrient Databank. Nutrition Bulletin 39: 247-52.
+
+1. Bates B, Lennox A, Prentice A et al. (2014) National Diet and Nutrition Survey Results From Years 1, 2, 3 and 4 (Combined) of the Rolling Programme (2008/2009-2011/2012). Public Health England: London.
+
+1. Binkley N, Krueger D, Cowgill CS et al. (2004) Assay variation confounds the diagnosis of hypovitaminosis D: a call for standardization. Journal of Clinical Endocrinology and Metabolism 89: 3152-7.
+
+1. Buttriss JL (2015) Vitamin D: Sunshine vs. diet vs. pills. Nutrition Bulletin 40: 279-85.
+
+1. Cashman KD & Kiely M (2014) Recommended dietary intakes for vitamin D: where do they come from, what do they achieve and how can we meet them? Journal of Human Nutrition & Dietetics 27: 434-42.
+
+1. Darling AL, Hart KH, Macdonald HM et al. (2013) Vitamin D deficiency in UK South Asian women of childbearing age; a comparative longitudinal investigation with UK Caucasian women. Osteoporosis International 24: 477-88.
+
+1. Kiely M, Cashman KD & ODIN Consortium (2015) The ODIN project: development of food-based approaches for prevention of vitamin D deficiency throughout life. Nutrition Bulletin 40: 235-46. Lanham-New SA, Buttriss JL, Miles L et al. (2011) Proceedings of the rank forum on vitamin D. The British Journal of Nutrition 105: 144-56.
+
+1. McCarthy EK & Kiely M (2015) Vitamin D and muscle strength throughout the life course: A review of epidemiological and intervention studies. Journal of Human Nutrition and Dietetics 28: 636-45.
+
+1. Macdonald HM, Mavroeidi A, Fraser WD et al. (2011) Sunlight and dietary contributions to the seasonal vitamin D status of cohorts of healthy postmenopausal women living at northerly latitudes: a major cause for concern? Osteoporosis International 22: 2461-72.
+
+1. Mitchell PJ, Cooper C, Dawson-Hughes B et al. (2015) Life- course approach to Nutrition. Osteoporosis International 26: 2723-42.
+
+1. Prentice A (2013) Standing on the shoulders of giants: Understanding calcium and vitamin D requirements. Nutrition Bulletin 38: 323-31.
+
+1. Spiro A & Buttriss JL (2014) Vitamin D: An overview of vitamin D status and intake in Europe. Nutrition Bulletin 39: 322-50.
+
+1. Toher C, Lindsay K, McKenna M et al. (2013) Relationship between vitamin D knowledge and 25-hydroxyvitamin D levels amongst pregnant women. Journal of Human Nutrition & Dietetics 27: 261-9.
+
+1. Tripkovic L (2013) Vitamin D2 vs. vitamin D3: Are they one and the same? Nutrition Bulletin 38: 243-8.
+
+1. Wilson L, Hart K, Elliott R et al. (2015) The D2-D3 Study: comparing the efficacy of 15pg/d vitamin D2 vs. D3 in raising vitamin D status in both South Asian and Caucasian women, and the ethical implications

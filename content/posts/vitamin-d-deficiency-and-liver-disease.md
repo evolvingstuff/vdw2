@@ -158,4 +158,4 @@ SN It is likely that it was always a problem, but the data from the National Hea
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2177">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)

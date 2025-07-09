@@ -82,19 +82,19 @@ PMID: 21986034
 
 * [Asthma worse with low Vitamin D only at age 4 - cohort study Sept 2011](/posts/asthma-worse-with-low-vitamin-d-only-at-age-4-cohort-study)
 
-* <a href="/posts/the-role-of-vitamin-d-in-asthma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 823">The Role of Vitamin D in Asthma – Mar 2010</a>
+* [The Role of Vitamin D in Asthma – Mar 2010](/posts/the-role-of-vitamin-d-in-asthma)
 
-* <a href="/posts/low-vitamin-d-associated-with-asthma-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 135">Low Vitamin D associated with asthma - 2010</a>
+* [Low Vitamin D associated with asthma - 2010](/posts/low-vitamin-d-associated-with-asthma-2010)
 
 * <a href="/posts/1200-iu-d3-reduced-related-asthma-by-6x" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 331">1200 IU D3 reduced related asthma by 6X – May 2010</a>
 
-* <a href="/posts/decreased-vitamin-d-in-children-taking-asthma-drugs" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 134">Decreased vitamin D in children taking asthma drugs - April 2010</a>
+* [Decreased vitamin D in children taking asthma drugs - April 2010](/posts/decreased-vitamin-d-in-children-taking-asthma-drugs)
 
 * [Sun exposure protects children from asthma – May 2011](/posts/sun-exposure-protects-children-from-asthma)
 
-* <a href="/posts/asthma-eczema-and-vitamin-d-council-newsletter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1093">Asthma Eczema and Vitamin D - Council Newsletter Oct 2010</a>
+* [Asthma Eczema and Vitamin D - Council Newsletter Oct 2010](/posts/asthma-eczema-and-vitamin-d-council-newsletter)
 
-* <a href="/posts/severe-asthma-children-31x-more-likely-to-develop-chronic-obstructive-lung-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 264">Severe asthma children 31X more likely to develop chronic obstructive lung disease -May 2010</a>
+* [Severe asthma children 31X more likely to develop chronic obstructive lung disease -May 2010](/posts/severe-asthma-children-31x-more-likely-to-develop-chronic-obstructive-lung-disease)
 
 * [All items in Breathing and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&sort_mode=created_desc) 73 items Oct 2011
 
@@ -102,7 +102,7 @@ PMID: 21986034
 
    * Those younger than 18 were  **<span style="color:#00F;">14X</span>**  more likely to have less than 10 ng
 
-* <a href="/posts/children-with-severe-asthma-had-much-lower-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2386">Children with severe asthma had much lower levels of vitamin D – Dec 2011</a>
+* [Children with severe asthma had much lower levels of vitamin D – Dec 2011](/posts/children-with-severe-asthma-had-much-lower-levels-of-vitamin-d)
 
 * <a href="/posts/span-stylecolorf00magnesium-span-deficiency-reduces-vitamin-d-effectiveness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1977"> **<span style="color:#F00;">Magnesium </span>** Deficiency Reduces Vitamin D Effectiveness- Sept 2011</a>
 
@@ -110,4 +110,4 @@ PMID: 21986034
 
    * Deficiencies of  **<span style="color:#F00;">Magnesium </span>** and Vitamin D are both associated with asthma.
 
-{IMG(attId="731")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/venn-diagram-vit-d-and-mag.gif" alt="image">

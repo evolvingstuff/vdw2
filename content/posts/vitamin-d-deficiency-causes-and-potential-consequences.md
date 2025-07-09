@@ -16,24 +16,24 @@
 }
 
 
-{IMG(fileId="1161")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 ## by Dr. Michael F. Holick Feb 2011
 
 - - - - - - - - - - - - - - 
 
-{IMG(fileId="1337"max="900")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 900px;">
 
 ## by Henry Lahore - 2010
 
 - - - - - - - - - - - - - - 
 
-{IMG(fileId="1462" max="900")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 900px;">
 
 ## by Henry Lahore - 2010
 
 - - - - - - - - - - - - - 
 
-{IMG(fileId="1660"max="900")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 900px;">
 
 ## by <a href="/posts/dr-aw-norman-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1370">Dr. AW Norman - 2011</a>

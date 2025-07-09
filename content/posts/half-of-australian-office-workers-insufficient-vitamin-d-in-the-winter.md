@@ -60,4 +60,4 @@ High 25(OH)D levels in summer were associated with time spent outdoors in non-pe
 
 * <a href="/posts/73-percent-of-australians-had-too-little-vitamin-d-a-decade-ago" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2322">73 percent of Australians had too little vitamin D a decade ago – Dec 2011</a>
 
-* <a href="/posts/melanoma-is-a-disease-of-office-workers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melanoma Is a Disease of Office Workers - Dec 2018">Melanoma Is a Disease of Office Workers - Dec 2018</a>
+* [Melanoma Is a Disease of Office Workers - Dec 2018](/posts/melanoma-is-a-disease-of-office-workers)

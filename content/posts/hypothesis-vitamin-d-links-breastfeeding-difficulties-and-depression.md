@@ -46,7 +46,7 @@ The idea for the study, published online ahead of print by the journal Obstetric
 
 # The great consumption of vitamin D during pregnancy and breastfeeding could be one of the causes of Postpartum Depression
 
-* <a href="/posts/an-exploratory-study-of-postpartum-depression-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 838">An Exploratory Study of Postpartum Depression and Vitamin D - May 2010</a>
+* [An Exploratory Study of Postpartum Depression and Vitamin D - May 2010](/posts/an-exploratory-study-of-postpartum-depression-and-vitamin-d)
 
    * One of the authors: Carol L. Wagner
 
@@ -60,6 +60,6 @@ The idea for the study, published online ahead of print by the journal Obstetric
 
 * [Less than 20 ng vitamin D increases depression by 80 percent – Dec 2010](/posts/less-than-20-ng-vitamin-d-increases-depression-by-80-percent)
 
-* <a href="/posts/vitamin-d-and-help-prevent-depression" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 137">Vitamin D and help prevent depression - April 2010</a>
+* [Vitamin D and help prevent depression - April 2010](/posts/vitamin-d-and-help-prevent-depression)
 
 * <a href="/posts/overview-vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview: Vitamin D: Before, During, and After Pregnancy</a>

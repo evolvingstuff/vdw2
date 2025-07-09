@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D from low-cost UVB lamps</title>
+<link rel=stylesheet href="/css/main.css?v=1752030351"><link rel=stylesheet href="/css/pagination.css?v=1752030351"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030351"></script><script src="/js/search.js?v=1752030351"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D from low-cost UVB lamps</h1><time>August 20, 2012</time><div data-pagefind-body><h4 id=span-stylecolorf00must-wear-glasses-when-near-uvb---it-can-damage-your-eyes-perhaps-within-minutesspan><span style=color:red>Must wear glasses when near UVB - it can damage your eyes, perhaps within minutes.</span></h4><p>Plastic contact lenses might pass UVB unless you have paid for UV blocking feature</p><p>Without UV blocking contacts you must wear glasses/ski goggles/whatever if you might look at the bulb</p><p><strong>Light years2 - out of business - Update Jan 2019</strong></p><p>Founder of VitaminDWiki bought a GE lamp fixture Jan 2019 and used UVB bulk from previous Light Year 2 fixture</p><p>Bulb is said to last 4,000 hours, so UVB bulb would cost 1 cent per hour</p><p><a href="https://www.amazon.com/gp/product/B000HJ75PW/ref=ppx_yo_dt_b_asin_title_o01__o00_s00?ie=UTF8&amp;psc=1">GE 16466 Basic 18 Inch Fluorescent Under Cabinet Amazon $13</a></p><p><a href=https://www.replacementlightbulbs.com/lampg15t8euvbgermicidal.html>G15T8E 15W Germicidal UV-B Fluorescent Lamp $25 including USPS to Seattle</a></p><p>OR     <a href="https://www.amazon.com/Ushio-BC3286-G15T8E-Midrange-Fluorescent/dp/B003ZAQDTY/ref=sr_1_1?ie=UTF8&amp;qid=1548641731&amp;sr=8-1&amp;keywords=G15T8E">Ushio BC3286 USHIO G15T8E 14.7W Midrange UV Fluorescent Lamp Amazon $38</a></p><p>Put the bulb and fixture at top of a ladder (near the ceiling) and measured UVB at chest level 7 feet from bulb</p><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Reflector</td><td>Direct</td></tr><tr><td><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/uv-reflector-ladder.jpg alt=image width=150></td><td><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/uv-bulb-ladder.jpg alt=image width=150></td></tr></tbody></table><p>Similar reading with a direct view of the bulb and with reflector made with aluminim foil placed between the ceiling and the wall</p><p>8 IU per minute: UVB Meter calibrated for 20% of skin area for a 20 year-old (approximately face and hands)</p><p>500 IU per hour - 20 year-old</p><p>5,000 IU per 10-hour- 20-year-old</p><p>1200 IU per 10 hours for a senior (assumes 1/4 as much UVB created Vitamin D)</p><p>It appears that the celing paint, by itself, does not reflect any UVB</p><p>As expected, the plastic bulb cover on the GE fixture is opaque to UVB</p><p><strong>UVB intensity at 2 feet across countertop</strong></p><p>Countertop might reflect, so reading would be lower if no countertop</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/uvb-2-feet.jpg alt=image width=250><p><strong>Intensity 85 @ 2 feet with reflector</strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/uvb-al-2-feet.jpg alt=image width=250><p>5,300 IU per hour - 20-year-old, 1300 IU senior</p><p><strong>Warning: Start with very short durations</strong></p><p>Try one day at ~3 minutes, and see if get UV burn/pinking the following day</p><p>Double the time each day,until get slight burn/pinking the following day, then reduce the duration (perhaps by 1/3)</p><p>Note: Burning is more likely if:</p><ol><li><p>Low blood level of Vitamin D</p></li><li><p>Same portion of skin had had UVB dose in past few days</p></li></ol><p><strong>Closeup photo of Al foil reflector</strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/uvb-al-off.jpg alt=image width=300><hr><h4 id=1-3-psorasis-lamp>1. 3) Psorasis Lamp</h4><ul><li><a href="https://www.amazon.co.uk/Care-Lamps-Psoriasis-Narrowband-deficiencies/dp/B00IHMANTG/ref=sr_1_1_s_it?s=drugstore&amp;ie=UTF8&amp;qid=1484218261&amp;sr=1-1&amp;keywords=uv-b+lamp">Psorasis Lamp narrow band 311 nm</a> Amazon</li></ul><blockquote><ul><li>cannot ship to the US, only 11 watts, £127</li></ul></blockquote><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/psoriasis-lamp.jpg alt=image><hr><h3 id=1-4-androv-3000-uv-b-lamp-for-vitamin-d>1. 4) Androv 3000 UV-B Lamp for Vitamin D</h3><p><a href=http://www.androv-medical.com/vitamin-d-shop/3000-uvb-lamp-vitamin-d.html>http://www.androv-medical.com/vitamin-d-shop/3000-uvb-lamp-vitamin-d.html</a></p><p>£299 72 watts</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/androv-3000.jpg alt=image><hr><h4 id=ancient-uv-lamp-similar-to-the-one-used-by-the-founder-of-vitamindwiki-in-the-1950s>Ancient UV lamp, similar to the one used by the founder of VitaminDWiki in the 1950s</h4><p><strong>By Sun-Kraft</strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/uv-lamp-sunkraft.jpg alt=image width=300><p>It appeared to eliminate the growing pains in my legs</p><p><strong>See <a href=/posts/quick-free-self-test-for-vitamin-d-deficiency>Quick, FREE, self-test for Vitamin D deficiency</a> which has the following</strong></p><p>Press with about 10 lbs (4 kg) of force at the bottom of your sternum and your tibia</p><p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/sternum.jpg alt=image style=max-width:200px> <img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/tibia.jpg alt=image style=max-width:400px></p><hr><h4 id=uvb-bulb-supplier-discovered-2021>UVB bulb supplier discovered 2021</h4><p><strong>Example: <a href=https://www.sciencelighting.com/sankyo-denki-g6t5e-uvb-linear-lamp/>G6T5E</a></strong> $23 May 2023</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/ushio-g8tse.jpg alt=image width=500><p><span style=color:#090>short url for this page = <a href=http://is.gd/Dlamps>http://is.gd/Dlamps</a></span></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>child</span>
+<span class=tag>dermatology</span>
+<span class=tag>dosage</span>
+<span class=tag>growing pains</span>
+<span class=tag>psoriasis</span>
+<span class=tag>UV and Vitamin D</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>child, dermatology, dosage, growing pains, psoriasis, UV and Vitamin D, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030351"></script><script src="/js/tiki-redirects.js?v=1752030351"></script><script src="/js/lightspa.js?v=1752030351"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030351",indexUrl:"/search/search_index.json.gz?v=1752030351"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030351"></script></body></html>

@@ -98,7 +98,7 @@ Would be interesting to see if the additional costs for retirement benefits woul
 
 That is, the squaring of the curve: health vs years.  as following graphic shows
 
-{IMG(fileId="1648" max="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
 ## Companies which have to pay for substitutes when an employee is sick
 
@@ -178,7 +178,7 @@ Having to pay directly for health care is one of the main reasons that people do
 
 * from Gallop polls during 2011 made by calling 109,000 employees
 
-{IMG(attId="828")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/gallup-well-being-index.jpg" alt="image">
 
 # Economic Impact of Obesity in the United States - 2010
 
@@ -226,6 +226,6 @@ Hip fracture ==> lose independence, high cost of nursing home, etc.
 
 * [HMO Extra](/posts/hmo-extra)
 
-* <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">HMOs will save millions of dollars with vitamin D</a>
+* [HMOs will save millions of dollars with vitamin D](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d)
 
 * <a href="/posts/not-as-productive-at-work-if-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2351">Not as productive at work if have low vitamin D – Jan 2011</a>

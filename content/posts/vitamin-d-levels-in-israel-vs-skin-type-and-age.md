@@ -70,19 +70,19 @@ PMID: 21416123
 
 * <a href="/posts/arab-pre-term-infants-often-have-less-than-10-ng-of-vitamin-d-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 741">Arab pre-term infants often have less than 10 ng of vitamin D - 2010</a> also a very sunny climate
 
-* <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Air Conditioning probably has decreased vitamin D</a> from a book
+* [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d) from a book
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
-* <a href="/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 201">Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010</a>
+* [Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010](/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low)
 
-* <a href="/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 611">Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010</a>
+* [Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010](/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis)
 
-* <a href="/posts/teens-increasingly-indoors-especially-if-dark-skin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 545">Teens increasingly indoors - especially if dark skin - July 2010</a>
+* [Teens increasingly indoors - especially if dark skin - July 2010](/posts/teens-increasingly-indoors-especially-if-dark-skin)
 
 * [Red Alert – one in three pre-teens in Tehran had less than 5 ng of vitamin D – Feb 2011](/posts/red-alert-one-in-three-pre-teens-in-tehran-had-less-than-5-ng-of-vitamin-d)
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [Concealing clothing resulted in only 8 ng vitamin D – Feb 2011](/posts/concealing-clothing-resulted-in-only-8-ng-vitamin-d)
 
@@ -90,4 +90,4 @@ PMID: 21416123
 
 * [Depression in UAE peaks in the summer – probably due to sun avoidance – Feb 2011](/posts/depression-in-uae-peaks-in-the-summer-probably-due-to-sun-avoidance)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)

@@ -113,9 +113,9 @@ Exposure to ultraviolet radiation (UVR) is associated with both adverse and bene
 
 #### See also at VitaminDWiki
 
-* <a href="/posts/mouse-ms-uvb-but-not-vitamin-d-reduced-incidence" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 286">Mouse MS: UVB but not Vitamin D reduced incidence - April 2010</a>
+* [Mouse MS: UVB but not Vitamin D reduced incidence - April 2010](/posts/mouse-ms-uvb-but-not-vitamin-d-reduced-incidence)
 
-* <a href="/posts/hypothesis-sun-provides-more-than-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2967">Hypothesis: Sun provides more than vitamin D – June 2012</a>
+* [Hypothesis: Sun provides more than vitamin D – June 2012](/posts/hypothesis-sun-provides-more-than-vitamin-d)
 
  **Abstracts of other papers of interest co-authored by LUCAS - - - - - - - -** 
 

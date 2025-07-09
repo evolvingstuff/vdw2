@@ -57,4 +57,4 @@ Conclusion: In adults at risk of type 2 diabetes, short-term supplementation wit
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)

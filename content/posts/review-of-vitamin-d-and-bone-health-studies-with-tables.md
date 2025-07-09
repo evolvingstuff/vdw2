@@ -41,8 +41,8 @@ Abstract: Bone health is an important issue in aging. Calcium and vitamin D curr
 
 ## Samples of tables from the PDF file
 
-{IMG(attId="288"max="1000")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/food-interventions-table-1.gif" alt="image" style="max-width: 1000px;">
 
-{IMG(attId="289"max="1000")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/food-interventions-table-2.gif" alt="image" style="max-width: 1000px;">
 
-{IMG(attId="290"max="1000")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/food-interventions-table-3.gif" alt="image" style="max-width: 1000px;">

@@ -29,9 +29,9 @@
 
 ### (We were unable to extract the text from the PDF file, but here are a few interesting charts)
 
-{IMG(attId="658")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/nw6a.png" alt="image">
 
-{IMG(attId="659")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/nw6b.png" alt="image">
 
 ## Notes for translation - #6
 
@@ -39,7 +39,7 @@ Only half knew that Oily fish, dairy and eggs provide vitamin D
 
 Few knew that mushrooms, fortified foods, formula milk provide vitamin D
 
-{IMG(attId="660")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/nw8.png" alt="image">
 
 ## Notes for translation - #8
 
@@ -49,7 +49,7 @@ only 30% were aware that short time between pregnancies would reduce vitamin D l
 
 only 25% were aware that obesity decreased vitamin D levels
 
-{IMG(attId="661")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/nw12.png" alt="image">
 
 ## Notes for translation - #12
 

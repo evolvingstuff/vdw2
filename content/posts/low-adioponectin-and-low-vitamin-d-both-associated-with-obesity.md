@@ -53,11 +53,11 @@ PMID:     21760630
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Search VitaminDWiki for Adiponectin](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=Adiponectin&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 47 items as of Jan 2014
 
-* <a href="/posts/adiponectin-links-vitamin-d-to-obesity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Adiponectin links vitamin D to obesity – Jan 2014">Adiponectin links vitamin D to obesity – Jan 2014</a>
+* [Adiponectin links vitamin D to obesity – Jan 2014](/posts/adiponectin-links-vitamin-d-to-obesity)
 
 ## See also web
 

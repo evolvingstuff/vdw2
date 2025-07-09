@@ -118,7 +118,9 @@ Despite the numerous reports of the association of  vitamin D with a spectrum of
 
 # From the paper
 
-{IMG(attId="339,340,341"max="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/h-d-t3-1.gif" alt="image" style="max-width: 600px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/h-d-t3-2.gif" alt="image" style="max-width: 600px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/h-d-t3-3.gif" alt="image" style="max-width: 600px;">
 
 # The following is the text of the main body of the paper
 

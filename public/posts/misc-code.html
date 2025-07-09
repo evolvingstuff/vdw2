@@ -1,0 +1,111 @@
+<!doctype html><html><head><meta charset=utf-8><title>Misc Code</title>
+<link rel=stylesheet href="/css/main.css?v=1752030347"><link rel=stylesheet href="/css/pagination.css?v=1752030347"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030347"></script><script src="/js/search.js?v=1752030347"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Misc Code</h1><time>February 18, 2018</time><div data-pagefind-body><h2 id=most-of-this-code-had-been-on-home-page>Most of this code had been on home page</h2><p><strong><a href=/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic>Low-fat milk is one of the 21 recent reasons for the %%%Vitamin D deficiency epidemic</a></strong></p><p><strong><a href=/posts/health-problems-that-run-in-families-are-often-associated-with-low-vitamin-d>Health problems run in your family?</a></strong></p><p><strong>Sci-Hub provides many PDFs which are otherwise behind publisher paywalls. You just need to enter PMID# or DOI #. Current URL is <a href=http://sci-hub.tw>http://sci-hub.tw</a></strong> __#00F:by 30 % to 1,000 %<span style="color:__ %%%__~~BLACK;background-color:#d0fed2">Most genes</span> are missed by <span style=color:#000;background-color:#cecece>Vitamin D blood tests</span> **** <a href=/posts/vitamin-d-receptor-gene-problems-increase-the-risk-of-hs-hs-alzheimers-patients--eptor-gene-2012 style=color:red;text-decoration:underline title="This post/category does not exist yet: Vitamin D Receptor)) gene problems increase the risk of:__ ~hs~ ~hs~ ((Alzheimer’s patients 3X more likely to have a malfunctioning vitamin D receptor gene – 2012">Alzheimer’s</a>,     <a href=/posts/parkinsons-risk-increased-2-to-7-times-depending-on-vitamin-d-receptor>Parkinson&rsquo;s</a>,     <a href=/posts/sepsis-is-13-x-more-likely-if-poor-vitamin-d-receptor>Sepsis</a>,     <a href=/posts/coronary-artery-disease-without-diabetes-5-times-more-likely-if-vdr-gene-problems-meta-analysis>Coronary Artery Disease</a>,     <a href=/posts/breast-cancer-was-46-times-more-likely-if-have-a-poor-vitamin-d-receptor>Cancer - Breast</a>,     <a href=/posts/colon-cancer-survival-31-x-less-likely-if-poor-vitamin-d-receptor>Cancer- Colon</a>,     <a href=/posts/lung-cancer-patients-were-24-times-more-likely-to-have-a-poor-vitamin-d-receptor-gene>Cancer- Lung</a>,     <a href=/posts/gastric-cancer-27-x-more-likely-if-poor-vitamin-d-receptor-chinese-2015>Cancer- Gastric</a>,     <a href=/posts/prostate-cancer-in-black-men-is-16-times-more-likely-if-a-poor-vitamin-d-receptor>Cancer - Prostate - blacks</a>,     <a href=/posts/2x-more-thyroid-cancer-malignancy-if-less-than-15-ng-of-vitamin-d>Cancer - Thyroid</a>,     <a href=/posts/melanoma-risk-2x-to-4x-higher-if-vitamin-d-receptor-genes-had-morphed>Cancer - Melanoma</a>,     <a href=/posts/overview-suntan-melanoma-and-vitamin-d>Cancer - Non-melanoma</a>,     <a href=/posts/ulcerative-colitis-half-have-poor-level-of-vitamin-d-receptor-vs-only-one-in-ten-normally>Ulcerative Colitis</a>,     <a href=/posts/crohns-disease-associated-with-76x-deactivation-of-vitamin-d-receptor>Crohn&rsquo;s disease</a>,    <a href=/posts/pcos-polycystic-ovary-syndrome-4-times-more-likely-if-poor-vitamin-d-receptor>Polycystic ovary</a>,     <a href=/posts/preterm-birth-33-times-more-likely-if-vitamin-d-receptor-gene-problem>Pre-term birth</a>,     <a href=/posts/low-back-pain-in-athletes-6-times-more-likely-if-poor-vitamin-d-receptor>Low back pain</a>,    <a href=http://link.springer.com/article/10.1007/s10926-013-9472-7>Lumbar Disc Deg.</a>,     <a href=/posts/multiple-sclerosis-much-more-likely-if-poor-vitamin-d-receptor-several-studies>Multiple Sclerosis</a>,     <a href=/posts/vitamin-d-receptor-and-obesity-many-studies>Obesity</a>,     <a href=/posts/ischemic-stroke-3x-more-likely-if-vitamin-d-receptor-gene-change-fok-1>Stroke</a>,     <a href=/posts/osteoporosis-28-x-more-likely-if-vitamin-d-receptor-vdr-genes-altered>Osteoporosis</a>,     <a href=/posts/lupus-in-children-26-x-more-likely-if-they-had-poor-vitamin-d-receptor>Lupus</a>,     <a href=/posts/autism-much-more-likely-if-poor-vitamin-d-receptor-many-studies>Autism</a>,     <a href=/posts/myopia-2-times-more-likely-if-vitamin-d-receptor-problem>Myopia</a>,     <a href=/posts/uterine-fibroids-uterine-leiomyoma-hs-hs-need-hysterectomy-19-more-likely-if-a-v-eceptor-problem style=color:red;text-decoration:underline title="This post/category does not exist yet: Uterine Fibroids (uterine leiomyoma, ~hs~ ~hs~ need hysterectomy) 1.9 more likely if a Vitamin D receptor problem – Sept 2015">Uterine Fibroids</a>,    <a href=/posts/leprosy-low-vitamin-d-and-poor-vitamin-d-receptor-many-studies>Leprosy</a>     <a href=/posts/diabetic-nephropathy-kidney-problem-18-x-more-likely-if-poor-vitamin-d-receptor-meta-analysis>Diabetic nephropathy</a>,     <a href=/posts/diabetic-retinopathy-2-x-more-likely-if-poor-vitamin-d-receptor-meta-analysis>Diabetic Retinopathy</a>,    <a href=/posts/type-1-diabetes-16-times-more-likely-if-a-vitamin-d-receptor-problem>Diabetes - Type I</a>,     <a href=/posts/vitamin-d-receptor-gene-associated-with-50-percent-more-type-2-diabetes-meta-ana-2013-hs-hs-2016 style=color:red;text-decoration:underline title="This post/category does not exist yet: Vitamin D receptor gene associated with 50 percent more type 2 Diabetes – meta-analyses 2013, ~hs~ ~hs~ 2016">Diabetes -Type II</a> ,     <a href=/posts/severe-pertussis-is-15-times-more-likely-if-poor-vitamin-d-receptor>Pertusus</a>,     <a href=/categories/rheumatoid-arthritis>Rheumatoid arthritis</a>,     <a href=/posts/childhood-asthma-about-13-times-more-likely-if-poor-vitamin-d-receptor-meta-analysis>Asthma</a>,     <a href=/posts/2x-higher-risk-of-wheezing-and-asthma-if-modified-receptor-genes-even-if-vitamin-d-levels-ok>Wheezing</a>,     <a href=/posts/tuberculosis-13-times-more-likely-if-poor-vitamin-d-receptor-meta-analysis>Tuberculosis</a>,     <a href=/posts/chronic-periodontitis-96-times-more-likely-if-smoke-and-have-poor-vitamin-d-receptor>Periodontitis</a>,     <a href=/posts/early-tooth-decay-19-x-more-likely-if-a-poor-vitamin-d-receptor>Tooth decay</a>,    <a href=/posts/growth-hormone-problem-acromegaly-more-likely-if-vitamin-d-gene-problems>Acromegaly</a>,    <a href=/posts/weaker-hand-grip-if-poor-vitamin-d-receptor-15-percent>Strength</a>    </p><p><strong>- - - - - - - - - - - - - Options the top of every page - - - - - - - - - - - - - -</strong> ::</p><p>{SPLIT(fixedsize=&ldquo;y&rdquo; colsize=&ldquo;300px|300px|190px|190px&rdquo; customclass=&ldquo;customlist&rdquo;)}</p><p>               NEW                </p><ul><li><p><a href=/posts/new-pages style=color:red;text-decoration:underline title="This post/category does not exist yet: New pages">New pages</a></p></li><li><p><a href="https://www.VitaminDWiki.com/cat98%2098&amp;sort_mode=created_desc">Top News</a></p></li><li><p><a href=/posts/webnews style=color:red;text-decoration:underline title="This post/category does not exist yet: WebNews">WebNews</a> RSS</p></li><li><p><a href=/posts/changed-pages>Changed pages</a></p></li><li><p><a href=/posts/vitamindcharts style=color:red;text-decoration:underline title="This post/category does not exist yet: VitaminDCharts">VitaminDCharts</a> a fast view</p></li><li><p><a href=/posts/most-visited-pages-on-vitamindwiki>Most read pages</a></p></li><li><p><a href=/posts/does-less-sun-mean-more-disease>Does less sun mean more Disease?</a> video</p></li><li><p><a href=/posts/getting-vitamin-d-into-your-blood-and-cells>20 ways to get Vitamin D</a></p></li><li><p><a href=/posts/antibiotics-and-vitamin-d-are-associated-with-many-of-the-same-diseases>Antibiotics cause problems - vit D can fix</a></p></li></ul><hr><p>           About Vitamin D               <del>hs</del></p><ul><li><p><a href=/posts/health-problems-and-d>Health Problems and D</a></p></li><li><p><a href=/posts/vitamin-d-deficiency>Vitamin D Deficiency</a></p></li><li><p><a href=/posts/sun-and-uv>Sun and UV</a></p></li><li><p><a href=/posts/supplementing-vitamin-d>Supplementing Vitamin D</a></p></li><li><p><a href=/posts/proof-that-vitamin-d-works>Proof that Vitamin D Works</a>  50 (11/2014)</p></li><li><p><a href=/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade>2X increase in some problems in a decade</a></p></li><li><p><a href="https://www.VitaminDWiki.com/cat0&amp;sort_mode=created_desc">Categories - not just health</a></p></li><li><p><a href=/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d>Problems more likely with low Vit D</a></p></li><li><p><a href=/categories/overviews>Overviews</a></p></li><li><p><a href=/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials>50,000 IU - How Often?</a></p></li><li><p><a href=/posts/vitamin-d-facts-and-myths>Vitamin D - Facts and Myths</a></p></li><li><p>For medical processional</p></li><li><p><a href=/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d>Is a health problem due to low D?</a></p></li><li><p>World - low D ==></p></li><li><p>People who typically have low D ==></p></li></ul><hr><p>                SHARE               <del>hs</del></p><p>300 functions, such as:</p><p>Share with Facebook, etc</p><p>Email, Favorites bookmark,</p><p>Evernote,</p><p>PDFmyURL</p><hr><p>                SEARCH                </p><p>Google powered search</p><p>In English of</p><p>web pages, PDF, etc.</p><p>Has options for</p><p>    extended search</p><p>   Foreign language search</p><p>{SPLIT}</p><p><a href=http://info.flagcounter.com/58fm><img src=http://s11.flagcounter.com/count/58fm/bg_FBFF8F/txt_000000/border_CCCCCC/columns_7/maxflags_14/viewers_0/labels_1/pageviews_1/flags_0/ alt="Flag Counter" border=0></a></p><p><a href=http://www.flagcounter.com/>Flag Counter</a> for this home page added Nov 2014 - when total home page visitor count = 1,007,703</p><p>Note: There are many more visitors to entire website</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>Admin Only</span>
+<span class=tag>antibiotics</span>
+<span class=tag>asthma</span>
+<span class=tag>asthma receptor</span>
+<span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>back pain</span>
+<span class=tag>bacteria</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>breathing</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>childhood obesity</span>
+<span class=tag>crohns</span>
+<span class=tag>dental</span>
+<span class=tag>diabetes</span>
+<span class=tag>diabetes and vitamin d receptor</span>
+<span class=tag>diabetic retinopathy</span>
+<span class=tag>dosage</span>
+<span class=tag>genetics</span>
+<span class=tag>gut</span>
+<span class=tag>health risk</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>lupus</span>
+<span class=tag>melanoma</span>
+<span class=tag>metabolic</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>myopia</span>
+<span class=tag>obesity</span>
+<span class=tag>obesity and cancer</span>
+<span class=tag>obesity and vitamin d receptor</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>pain</span>
+<span class=tag>PCOS</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>periodontitis</span>
+<span class=tag>pregnancy</span>
+<span class=tag>retinopathy</span>
+<span class=tag>rheumatoid arthritis</span>
+<span class=tag>sepsis</span>
+<span class=tag>stroke</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>trauma surgery</span>
+<span class=tag>tuberculosis</span>
+<span class=tag>ulcerative colitis</span>
+<span class=tag>vision</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>Admin Only, antibiotics, asthma, asthma receptor, autoimmune, autoimmune and pregnancy, back pain, bacteria, bone, bone cancer, breathing, cancer, cancer in VDR, cardiovascular, child, childhood cancer, childhood obesity, crohns, dental, diabetes, diabetes and vitamin d receptor, diabetic retinopathy, dosage, genetics, gut, health risk, high dose, intervention, lupus, melanoma, metabolic, multiple sclerosis, multiple sclerosis and pregnancy, myopia, obesity, obesity and cancer, obesity and vitamin d receptor, osteoporosis, pain, PCOS, pediatric autoimmune, periodontitis, pregnancy, retinopathy, rheumatoid arthritis, sepsis, stroke, therapeutic intervention, trauma surgery, tuberculosis, ulcerative colitis, vision, vitamin d, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030347"></script><script src="/js/tiki-redirects.js?v=1752030347"></script><script src="/js/lightspa.js?v=1752030347"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030347",indexUrl:"/search/search_index.json.gz?v=1752030347"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030347"></script></body></html>

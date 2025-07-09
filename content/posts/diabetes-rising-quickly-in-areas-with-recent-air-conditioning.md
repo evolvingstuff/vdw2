@@ -57,11 +57,11 @@ Glucose and diabetes were also particularly high in
 
 #### [World map of diabetes from WHO](http://www.who.int/diabetes/facts/en/)
 
-{IMG(attId="578")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/world-map-of-diabetes.png" alt="image">
 
 ##### [Graph from Wall Street Journal](http://online.wsj.com/article/SB10001424052702304231204576405783420390772.html)
 
-{IMG(attId="583")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/diabetes-growing-risk.png" alt="image">
 
 #### Clipped from [Saudi Arabia Air Conditioning show 2009](http://ask.alibaba.com/Q/802697873-Saudi-Tenth-International-air-conditioning-Ventilation-HVAC-and-Refrigeration-Expo-show-briefing.html)
 
@@ -77,13 +77,13 @@ Glucose and diabetes were also particularly high in
 
 * Territory size shows the proportion of all people over 15 in the world living with diabetes who live there. 
 
-{IMG(attId="580")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/diabetes-distorted-map.png" alt="image">
 
-#### <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Air Conditioning probably has decreased vitamin D</a> 2010 book, etc.
+#### [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d) 2010 book, etc.
 
 #### One chapter title in the book: India: Where "A/C" means "VIP"
 
-{IMG(attId="581")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/diabetes-distorted-map-caption.png" alt="image">
 
 ---
 
@@ -139,20 +139,20 @@ Funding Bill & Melinda Gates Foundation and WHO.
 
 #### See also VitaminDWiki
 
-* <a href="/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 201">Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010</a>
+* [Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010](/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low)
 
 * <a href="/posts/a-person-describing-the-summer-in-duhai" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1758">A person describing the summer in Duhai</a>
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Air Conditioning probably has decreased vitamin D</a>
+* [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d)
 
-* <a href="/posts/perhaps-italians-have-air-conditioning-too-lower-latitudes-have-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps Italians have air conditioning too: lower latitudes have less vitamin D – July 2013">Perhaps Italians have air conditioning too: lower latitudes have less vitamin D – July 2013</a>
+* [Perhaps Italians have air conditioning too: lower latitudes have less vitamin D – July 2013](/posts/perhaps-italians-have-air-conditioning-too-lower-latitudes-have-less-vitamin-d)
 
 #### Also, map of Diabetes in the US
 
-{IMG(attId="579"max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/diabetes-us-2006.png" alt="image" style="max-width: 500px;">
 
 #### Map of hours of Air Conditioner use
 
-{IMG(fileId="1912")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">

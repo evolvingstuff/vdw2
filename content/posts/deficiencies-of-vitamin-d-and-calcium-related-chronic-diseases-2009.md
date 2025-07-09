@@ -77,9 +77,10 @@ Enrichment of cereal grain products with vitamin D and calcium would be a viable
 
 # Portions of tables for just the elderly
 
-{IMG(attId="667,668")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/table3-deficiencies-2009.png" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/table6-deficiencies-2009.png" alt="image">
 
-{IMG(attId="669")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/table1-deficiencies-2009.png" alt="image">
 
 # Extracted from Table 1. Rating of evidence for association of vitamin D and/or calcium insufficiency with frequent chronic diseases
 
@@ -121,7 +122,7 @@ Multiple Sclerosis
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * <a href="/posts/what-is-the-best-calcium-supplement" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1446">What is the best Calcium supplement</a>
 

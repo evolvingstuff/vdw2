@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Low vitamin D might be one of the causes of obesity – several studies</title>
+<link rel=stylesheet href="/css/main.css?v=1752030346"><link rel=stylesheet href="/css/pagination.css?v=1752030346"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030346"></script><script src="/js/search.js?v=1752030346"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Low vitamin D might be one of the causes of obesity – several studies</h1><time>November 28, 2023</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#interplay-between-vitamin-d-and-adipose-tissue-implications-for-adipogenesis-and-adipose-tissue-function--nov-2023>Interplay between Vitamin D and Adipose Tissue: Implications for Adipogenesis and Adipose Tissue Function – Nov 2023</a></li><li><a href=#vitamin-d-deficiency-consequence-or-cause-of-obesity---sept-2019>Vitamin D Deficiency: Consequence or Cause of Obesity? - Sept 2019</a></li></ul></li></ul></li></ul></nav><hr><h4 id=interplay-between-vitamin-d-and-adipose-tissue-implications-for-adipogenesis-and-adipose-tissue-function--nov-2023>Interplay between Vitamin D and Adipose Tissue: Implications for Adipogenesis and Adipose Tissue Function – Nov 2023</h4><p>Nutrients 2023, 15(22), 4832; <a href=https://doi.org/10.3390/nu15224832>https://doi.org/10.3390/nu15224832</a></p><p>by Shiqi Lu andZhen-Bo Cao School of Exercise and Health, Shanghai University of Sport, Shanghai 200438, China</p><p>Adipose tissue encompasses various types, including White Adipose Tissue (WAT), Brown Adipose Tissue (BAT), and beige adipose tissue, each having distinct roles in energy storage and thermogenesis. Vitamin D (VD), a fat-soluble vitamin, maintains a complex interplay with adipose tissue, exerting significant effects through its receptor (VDR) on the normal development and functioning of adipocytes. The VDR and associated metabolic enzymes are widely expressed in the adipocytes of both rodents and humans, and they partake in the regulation of fat metabolism and functionality through various pathways. These encompass adipocyte differentiation, adipogenesis, inflammatory responses, and adipokine synthesis and secretion. This review primarily appraises the role and mechanisms of VD in different adipocyte differentiation, lipid formation, and inflammatory responses, concentrating on the pivotal role of the VD/VDR pathway in adipogenesis. This insight furnishes new perspectives for the development of micronutrient-related intervention strategies in the prevention and treatment of obesity.</p><p><strong>Clipped from PDF</strong></p><ul><li><p>&ldquo;While the precise relationship between the VDR in VAT and serum 1,25(OH)2D3 has yet to be fully elucidated, the current findings provide support for a dose–response relationship between the severity of VDD and low VDR expression&rdquo;</p></li><li><p>&ldquo;In the absence of differences in food and energy intake, high-fat diet-fed VDD animals exhibited significantly higher epididymal fat deposition compared to high-fat diet-fed VD-sufficient animals,&mldr; "</p></li><li><p>&ldquo;In summary, there exists a strong association between VD levels and the onset and progression of obesity,&mldr;&rdquo;</p></li><li><p>&ldquo;The accumulation of VAT stands as the most sensitive and crucial indicative factor for identifying the presence of VDD high-risk individuals. "</p></li></ul><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vdr-and-adipose-tissue-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=vitamin-d-deficiency-consequence-or-cause-of-obesity---sept-2019>Vitamin D Deficiency: Consequence or Cause of Obesity? - Sept 2019</h4><p>Medicina (Kaunas). 2019 Sep; 55(9): 541. <a href=https://doi.org/10.3390/medicina55090541>doi: 10.3390/medicina55090541</a></p><p>Luka Vranić, Ivana Mikolašević, and Sandra Milić*</p><p>Obesity is defined as an excess amount of body fat and represents a significant health problem worldwide. High prevalence of vitamin D (VD) deficiency in obese subjects is a well-documented finding, most probably due to volumetric dilution into the greater volumes of fat, serum, liver, and muscle, even though other mechanisms could not completely be excluded, as they may contribute concurrently. Low VD could not yet be excluded as a cause of obesity, due to its still incompletely explored effects through VD receptors found in adipose tissue (AT). VD deficiency in obese people does not seem to have consequences for bone tissue, but may affect other organs, even though studies have shown inconsistent results and VD supplementation has not yet been clearly shown to benefit the dysmetabolic state. Hence, more studies are needed to determine the actual role of VD deficiency in development of those disorders. Thus, targeting lifestyle through healthy diet and exercise should be the first treatment option that will affect both obesity-related dysmetabolic state and vitamin D deficiency, killing two birds with one stone. However, VD supplementation remains a treatment option in individuals with residual VD deficiency after weight loss.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/consequence-or-cause-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h5 id=169-studies-citied-this-study-as-of-nov-2023>169 studies citied this study as of Nov 2023</h5><p><strong><a href="https://scholar.google.com/scholar?cites=2731548650168552904&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en">Google Scholar</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>genetics</span>
+<span class=tag>health risk</span>
+<span class=tag>obesity</span>
+<span class=tag>Obesity</span>
+<span class=tag>obesity and vitamin d receptor</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d receptor</span>
+<span class=tag>weight loss</span></div><div data-pagefind-meta=tags hidden>genetics, health risk, obesity, Obesity, obesity and vitamin d receptor, vitamin d, vitamin d receptor, weight loss</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030346"></script><script src="/js/tiki-redirects.js?v=1752030346"></script><script src="/js/lightspa.js?v=1752030346"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030346",indexUrl:"/search/search_index.json.gz?v=1752030346"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030346"></script></body></html>

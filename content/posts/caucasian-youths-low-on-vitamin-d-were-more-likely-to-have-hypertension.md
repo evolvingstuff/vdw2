@@ -79,7 +79,7 @@ PMID:     21753070
 
 * <a href="/posts/hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Hypertension and vitamin D</a>
 
-* <a href="/posts/does-vitamin-d-deficiency-cause-hypertension" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 262">Does vitamin D deficiency cause hypertension?</a> 2010 with PDF
+* [Does vitamin D deficiency cause hypertension?](/posts/does-vitamin-d-deficiency-cause-hypertension) 2010 with PDF
 
 * [Systolic hypertension 4X more likely if low on vitamin D 14 years before – Nov 2010](/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before)
 
@@ -93,7 +93,7 @@ PMID:     21753070
 
 * [Systolic hypertension 4X more likely if low on vitamin D 14 years before – Nov 2010](/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before)
 
-* <a href="/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 701">Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010</a>
+* [Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010](/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks)
 
 * [Metabolic syndrome 50 percent more likely if under 20 ng of vitamin D – May 2011](/posts/metabolic-syndrome-50-percent-more-likely-if-under-20-ng-of-vitamin-d)
 
@@ -101,8 +101,8 @@ PMID:     21753070
 
 * <a href="/posts/metabolic-syndrome-and-vitamin-d-view-of-many-papers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 720">Metabolic Syndrome and vitamin D - view of many papers Aug 2010</a>
 
-* <a href="/posts/is-osteoarthritis-a-metabolic-syndrome" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 540">Is Osteoarthritis a metabolic syndrome – June 2010</a>
+* [Is Osteoarthritis a metabolic syndrome – June 2010](/posts/is-osteoarthritis-a-metabolic-syndrome)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [70 percent increased chance of metabolic syndrome if low on vitamin D – May 2011](/posts/70-percent-increased-chance-of-metabolic-syndrome-if-low-on-vitamin-d)

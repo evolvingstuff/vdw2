@@ -50,7 +50,7 @@ Conclusions: Vitamin D deficiency is highly prevalent among heart and liver tran
 
 #### Chart from the paper
 
-{IMG(attId="621")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/live-and-heart-transplants.png" alt="image">
 
 - - - - - - - - - - - - - - - - - - - - 
 

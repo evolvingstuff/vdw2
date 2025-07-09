@@ -42,6 +42,6 @@ At the cellular level, UV radiation activates MAPK, AKT, and proinflammatory pat
 
 ### UV into eye is more intense in morning and afternoon than at noon in Sept in Japan
 
-{IMG(attId="574")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/uv-vs-time-of-day---sept---2011.png" alt="image">
 
 ## If Registered <span>[tiki-download_file.php?fileId=1907]</span> to see paper

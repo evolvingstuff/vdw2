@@ -31,7 +31,7 @@
 
 #### Some useful papers are attached to the bottom of this web page.
 
- **Update; <a href="/posts/silicon-vitamin-d-and-bone-health-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Silicon, Vitamin D and Bone Health - multiple studies">Silicon, Vitamin D and Bone Health - multiple studies</a>** 
+ **Update; [Silicon, Vitamin D and Bone Health - multiple studies](/posts/silicon-vitamin-d-and-bone-health-multiple-studies)** 
 
 ---
 

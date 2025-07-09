@@ -70,7 +70,7 @@ Pregnant women are generally not advised to obtain sufficient vitamin  D  during
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
 
-* <a href="/posts/preemies-have-increased-need-for-vitamin-d-and-calcium-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013">Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013</a>
+* [Preemies have increased need for vitamin D and Calcium (Rickets)– May 2013](/posts/preemies-have-increased-need-for-vitamin-d-and-calcium-rickets)
 
 * [Premature delivery associated with low vitamin D in Japanese women – Mar 2011](/posts/premature-delivery-associated-with-low-vitamin-d-in-japanese-women)
 
@@ -80,7 +80,7 @@ Pregnant women are generally not advised to obtain sufficient vitamin  D  during
 
 * [Vitamin D and Obstetrics Improving Pregnancy and Childbirth - presentations May 2011](/posts/vitamin-d-and-obstetrics-improving-pregnancy-and-childbirth-presentations)
 
-* <a href="/posts/7x-more-likely-to-have-low-birth-weight-babies-when-mother-very-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 467">7X more likely to have low birth weight babies when mother very low on vitamin D – March 2010</a>
+* [7X more likely to have low birth weight babies when mother very low on vitamin D – March 2010](/posts/7x-more-likely-to-have-low-birth-weight-babies-when-mother-very-low-on-vitamin-d)
 
 * [Premature delivery associated with low vitamin D in Japanese women – Mar 2011](/posts/premature-delivery-associated-with-low-vitamin-d-in-japanese-women)
 

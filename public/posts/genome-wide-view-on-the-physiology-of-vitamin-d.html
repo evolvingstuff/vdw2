@@ -1,0 +1,71 @@
+<!doctype html><html><head><meta charset=utf-8><title>Genome-wide view on the physiology of vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030345"><link rel=stylesheet href="/css/pagination.css?v=1752030345"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030345"></script><script src="/js/search.js?v=1752030345"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Genome-wide view on the physiology of vitamin D</h1><time>June 3, 2014</time><div data-pagefind-body><p>Frontiers In Physiology – Integrative Physiology</p><p>Topic Editors: Carsten Carlberg, University of Eastern Finland, Finland</p><p>The main physiological actions of the biologically most active metabolite of vitamin D, 1α,25-dihydroxyvitamin D3 (1α,25(OH)2D3), are calcium and phosphorus uptake and transport and thereby controlling bone formation. Other emergent areas of 1α,25(OH)2D3 action are in the control of immune functions, cellular growth and differentiation. This fits both with the widespread expression of the VDR and the above described consequences of vitamin D deficiency. Transcriptome-wide analysis indicated that per cell type between 200 and 600 genes are primary targets of vitamin D. Since most of these genes respond to vitamin D in a cell-specific fashion, the total number of vitamin D targets in the human genome is far higher than 1,000. This is supported by the genome-wide view on VDR binding sites in human lymphocytes, monocytes, colon and hepatic cells. All genomic actions of 1α,25(OH)2D3 are mediated by the transcription factor vitamin D receptor (VDR) that has been the subject of intense study since the 1980’s. Thus, vitamin D signaling primarily implies the molecular actions of the VDR. In this research topic, we present different perspectives on the action of vitamin D and its receptor, such as the</p><ul><li><p>impact of the genome-wide distribution of VDR binding loci,</p></li><li><p>ii) the transcriptome- and proteome-wide effects of vitamin D,</p></li><li><p>iii) the role of vitamin D in health,</p></li><li><p>iv) tissue-specific functions of vitamin D and</p></li><li><p>v) the involvement of vitamin D in different diseases,</p></li></ul><blockquote><p>such as infections, autoimmune diseases, diabetes and different types of cancer.</p></blockquote><p>Approximately 15 chapters will be provided by experts in the field.</p><p>For details please see the list of suggested titles.</p><h2 id=list-which-followshttpwwwfrontiersinorgintegrative_physiologyresearchtopicsgenome-wide_view_on_the_physiology_of_vitamin_d2090><a href=http://www.frontiersin.org/Integrative_Physiology/researchtopics/Genome-wide_view_on_the_physiology_of_vitamin_D/2090>List which follows</a></h2><h3 id=interaction-of-vitamin-d-with-membrane-based-signaling-pathways>Interaction of vitamin D with membrane-based signaling pathways</h3><p>María Jesús Larriba, José Manuel González-Sancho, Félix Bonilla and Alberto Muñoz; <a href=https://doi.org/10.3389/fphys.2014.00060>doi: 10.3389/fphys.2014.00060</a> ;Review Article, Published on 21 Apr 2014</p><h3 id=impact-of-vitamin-d-on-immune-function-lessons-learned-from-genome-wide-analysis>Impact of vitamin D on immune function: lessons learned from genome-wide analysis</h3><p>Rene F Chun, Philip T Liu, Robert L Modlin, John S Adams and Martin Hewison; <a href=https://doi.org/10.3389/fphys.2014.00151>doi: 10.3389/fphys.2014.00151</a></p><p>Review Article, Published on 09 Apr 2014 <strong><a href=/posts/impact-of-vitamin-d-on-immune-function-lessons-learned-from-genome-wide-analysis>On VitaminDWiki</a></strong></p><h3 id=vitamin-d-and-gene-networks-in-human-osteoblasts>Vitamin D and gene networks in human osteoblasts</h3><p>Jeroen van de Peppel and Johannes Van Leeuwen; <a href=https://doi.org/10.3389/fphys.2014.00137>doi: 10.3389/fphys.2014.00137</a>; Review Article, Published on 03 Apr 2014</p><h3 id=the-future-of-vitamin-d-analogs>The future of vitamin D analogs</h3><p>Carlien Leyssens, Lieve Verlinden and Annemieke Verstuyf; <a href=https://doi.org/10.3389/fphys.2014.00122>doi: 10.3389/fphys.2014.00122</a>; Review Article, Published on 29 Apr 2014</p><h3 id=vitamin-d-and-the-epigenome>Vitamin D and the epigenome</h3><p>Irfete S. Fetahu, Julia Höbaus and Enikö Kallay; <a href=https://doi.org/10.3389/fphys.2014.00164>doi: 10.3389/fphys.2014.00164</a>; Perspective Article, Published on 16 Apr 2014</p><h3 id=the-role-of-vitamin-d-in-skeletal-and-cardiac-muscle-functionhttpjournalfrontiersinorgjournal103389fphys201400145abstract20--full-text-online><a href=http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00145/abstract%20>The role of vitamin D in skeletal and cardiac muscle function</a> full text online</h3><p>Patsie Polly and Timothy Chiat-Choon Tan; <a href=https://doi.org/10.3389/fphys.2014.00145>doi: 10.3389/fphys.2014.00145</a>; Review Article, Published on 29 Apr 2014</p><h3 id=genome-wide-overview-on-the-actions-of-vitamin-dhttpjournalfrontiersinorgjournal103389fphys201400167abstract20-full-text-online><a href=http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00167/abstract%20>Genome-wide (over)view on the actions of vitamin D</a> full text online</h3><p>Carsten Carlberg; <a href=https://doi.org/10.3389/fphys.2014.00167>doi: 10.3389/fphys.2014.00167</a>; Review Article</p><h3 id=tumour-suppression-in-skin-and-other-tissues-via-cross-talk-between-vitamin-d--and-p53-signalling>Tumour suppression in skin and other tissues via cross-talk between vitamin D- and p53-signalling</h3><p>Joerg Reichrath, Sandra Reichrath, kristina Heyne, thomas vogt and klaus roemer; <a href=https://doi.org/10.3389/fphys.2014.00166>doi: 10.3389/fphys.2014.00166</a>; Review Article</p><h3 id=vitamin-d-intermediary-metabolism-and-prostate-cancer-tumor-progression>Vitamin D, intermediary metabolism and prostate cancer tumor progression</h3><p>Wei Lin Winnie Wang and Martin Tenniswood; <a href=https://doi.org/10.3389/fphys.2014.00183>doi: 10.3389/fphys.2014.00183</a>; Review Article</p><h3 id=21-structural-considerations-of-vitamin-d-signalinghttpjournalfrontiersinorgjournal103389fphys201400191abstract20><a href=http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00191/abstract%20>2.1. Structural considerations of vitamin D signaling</a></h3><p>Ferdinand Molnár ;<a href=https://doi.org/10.3389/fphys.2014.00191>doi: 10.3389/fphys.2014.00191</a>; Review Article</p><h3 id=vitamin-d-and-the-rna-transcriptome-more-than-mrna-regulation>Vitamin D and the RNA transcriptome: more than mRNA regulation</h3><p>Moray J Campbell; <a href=https://doi.org/10.3389/fphys.2014.00181>doi: 10.3389/fphys.2014.00181</a></p><hr><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li>((Molecular Approaches for Optimizing Vitamin D (one size does not fit all) – Carlberg Nov 2015)</li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>diabetes</span>
+<span class=tag>diabetes and vitamin d receptor</span>
+<span class=tag>genetics</span>
+<span class=tag>Genetics</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>metabolic</span>
+<span class=tag>prostate cancer</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>autoimmune, cancer, cancer in VDR, diabetes, diabetes and vitamin d receptor, genetics, Genetics, high dose, intervention, metabolic, prostate cancer, therapeutic intervention, vitamin d, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030345"></script><script src="/js/tiki-redirects.js?v=1752030345"></script><script src="/js/lightspa.js?v=1752030345"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030345",indexUrl:"/search/search_index.json.gz?v=1752030345"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030345"></script></body></html>

@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta charset=utf-8><title>The COVID Virus May Prompt the Body to Attack Itself</title>
+<link rel=stylesheet href="/css/main.css?v=1752030350"><link rel=stylesheet href="/css/pagination.css?v=1752030350"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030350"></script><script src="/js/search.js?v=1752030350"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>The COVID Virus May Prompt the Body to Attack Itself</h1><time>February 1, 2021</time><div data-pagefind-body><h4 id=copied-from-webmdhttpswwwwebmdcomlungnews20210129covid-virus-may-prompt-body-to-attack-itself>Copied from <a href=https://www.webmd.com/lung/news/20210129/covid-virus-may-prompt-body-to-attack-itself>WebMD</a></h4><p>An international team of researchers studying COVID-19 has made a startling and pivotal discovery: The virus appears to cause the body to make weapons to attack its own tissues.</p><p>The finding could unlock a number of COVID’s clinical mysteries. They include the puzzling collection of symptoms that can come with the infection; the persistence of symptoms in some people for months after they clear the virus, a phenomenon dubbed long COVID; and why some children and adults have a serious inflammatory syndrome, called MIS-C or MIS-A, after their infections.</p><p>“It suggests that the virus might be directly causing autoimmunity, which would be fascinating,” says lead study author Paul Utz, MD, who studies immunology and autoimmunity at Stanford University in Stanford, CA.</p><p><strong>COVID-19 Mutations Demand Immediate Action</strong></p><p>WebMD&rsquo;s Chief Medical Officer, John Whyte, MD, speaks with Ashish K. Jha, MD, Dean, School of Public Health, Brown University, about immediate actions needed to confront the COVID-19 mutations.</p><p>The <a href=https://www.medrxiv.org/content/10.1101/2021.01.27.21250559v1>study</a>, which has not yet been peer reviewed, also deepens the question of whether other respiratory viruses might also break the body’s tolerance to itself, setting people up for <a href=https://www.webmd.com/a-to-z-guides/autoimmune-diseases>autoimmune diseases</a> like <a href=https://www.webmd.com/multiple-sclerosis/default.htm>multiple sclerosis</a>, <a href=https://www.webmd.com/rheumatoid-arthritis/default.htm>rheumatoid arthritis</a>, and lupus later in life.</p><p>Utz says he and his team are next going to study <a href=https://www.webmd.com/cold-and-flu/default.htm>flu</a> patients to see if that virus might also cause this phenomenon.</p><p>“My prediction is that it isn’t going to be specific just to <a href=https://www.webmd.com/lung/lung-what-is-sars>SARS</a>-CoV-2. I’m willing to bet that we will find this with other respiratory viruses,” he says.</p><p>The study comes on the heels of a handful of <a href=https://www.medrxiv.org/content/10.1101/2021.01.21.21249176v1>smaller, detailed investigations</a> that have come to similar conclusions.</p><p>The study included data from more than 300 patients from four hospitals: two in California, one in Pennsylvania, and another in Germany.</p><p>Researchers used blood tests to study their immune responses as their infections progressed. Researchers looked for autoantibodies - weapons of the <a href=https://www.webmd.com/cold-and-flu/immune-system-function>immune system</a> that go rogue and launch an attack against the body’s own tissues. They compared these autoantibodies to those found in people who were not infected with the virus that causes COVID.</p><p>As previous studies have found, autoantibodies were more common after COVID - 50% of people hospitalized for their infections had autoantibodies, compared to less than 15% of those who were healthy and uninfected.</p><p>Some people with autoantibodies had little change in them as their infections progressed. That suggests the autoantibodies were there to begin with, possibly allowing the infection to burn out of control in the body.</p><p>“Their body is set up to get bad COVID, and it’s probably caused by the autoantibodies,” Utz says.</p><p>But in others, about 20% of people who had them, the autoantibodies became more common as the infection progressed, suggesting they were directly related to the <a href=https://www.webmd.com/a-to-z-guides/bacterial-and-viral-infections>viral infection</a>, instead of being a <a href=https://www.webmd.com/health-insurance/getting-insurance-when-you-have-health-problem>preexisting condition</a>.</p><p>Some of these were antibodies that attack key components of the immune system’s weapons against the virus, like interferon. Interferons are proteins that help infected cells call for reinforcements and can also interfere with a virus’s ability to copy itself. Taking them out is a powerful evasive tactic, and <a href=https://science.sciencemag.org/content/370/6515/eabd4585>previous studies</a> have shown that people who are born with genes that cause them to have lower interferon function, or who make autoantibodies against these proteins, appear to be at higher risk for life-threatening COVID infections.</p><p>“It seems to give the virus a powerful advantage,” says study author, John Wherry, PhD, who directs the Institute for Immunology at the University of Pennsylvania.</p><p>“Now your immune system, instead of having a tiny little hill to climb, is staring at Mount Everest. That really is devious.”</p><p>In addition to those that sabotage the immune system, some people in the study had autoantibodies against muscles and connective tissues that are seen in some rare disorders.</p><p>Utz says they started the study after seeing COVID patients with strange collections of symptoms that looked more like autoimmune diseases than viral infections - <a href=https://www.webmd.com/skin-problems-and-treatments/guide/common-rashes>skin rashes</a>, <a href=https://www.webmd.com/pain-management/guide/joint-pain>joint pain</a>, fatigue, aching muscles, <a href=https://www.webmd.com/brain/brain-swelling-brain-edema-intracranial-pressure>brain swelling</a>, dry eyes, blood that clots easily, and inflamed blood vessels.</p><p>“One thing that’s very important to note is that we don’t know if these patients are going to go on to develop autoimmune disease,” Utz says. “I think we’ll be able to answer that question in the next 6 to 12 months as we follow the long haulers and study their samples.”</p><p>Donna Farber, PhD, a professor of microbiology & immunology at Columbia University called the study&rsquo;s findings very interesting. She points out that most of the patients in the study appeared to be extremely ill and suffering from extensive organ damage from their infections.  She says one possible explanation for the autoantibodies could be that the body is producing them to try to check it&rsquo;s own raging immune responses to the virus.</p><p>&ldquo;Rather than driving the disease, these antibodies are formed in response to the high level of tissue and inflammatory molecules released due to the virus-associated and immune mediated damage,&rdquo; she says. &ldquo;Many types of infections can lead to transient autoimmunity or autoimmune disease - that is well established,&rdquo; she says.</p><p>Farber, who was not involved in the study, says long covid seem to be uncommon and for those affected, eventually goes away.  All this suggests that &ldquo;this virus can really hit the body, but doesn’t alter the immune system to lead to long-term autoimmune disease.&rdquo;</p><p>Utz says it will be important to study autoantibodies in long haulers to see if they can identify exactly which ones seem to be at work in the condition. If you can catch them early, it might be possible to treat those at risk for enduring symptoms with drugs that suppress the immune system.</p><p>And more study will be needed to find out whether this autoimmune attack persists. One thing is for sure, he says: COVID will be with us for a long, long time.</p><p>“We have to realize that there’s going to be long-term damage from this virus for the survivors. Not just the long haulers, but all the people who have lung damage and heart damage and everything else. We’re going to be studying this virus and it’s badness for decades,” Utz says.</p><p>WebMD Health News Reviewed by <a href=https://www.webmd.com/neha-pathak-md>Neha Pathak, MD</a> on January 29, 2021</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>Autoimmune</span>
+<span class=tag>brain</span>
+<span class=tag>child</span>
+<span class=tag>childhood viruses</span>
+<span class=tag>cognitive</span>
+<span class=tag>dry eye</span>
+<span class=tag>high dose</span>
+<span class=tag>immunity</span>
+<span class=tag>influenza</span>
+<span class=tag>intervention</span>
+<span class=tag>long covid</span>
+<span class=tag>lupus</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>pain</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>rheumatoid arthritis</span>
+<span class=tag>virus</span>
+<span class=tag>virus and cognitive</span>
+<span class=tag>vision</span></div><div data-pagefind-meta=tags hidden>autoimmune, Autoimmune, brain, child, childhood viruses, cognitive, dry eye, high dose, immunity, influenza, intervention, long covid, lupus, multiple sclerosis, pain, pediatric autoimmune, rheumatoid arthritis, virus, virus and cognitive, vision</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030350"></script><script src="/js/tiki-redirects.js?v=1752030350"></script><script src="/js/lightspa.js?v=1752030350"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030350",indexUrl:"/search/search_index.json.gz?v=1752030350"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030350"></script></body></html>

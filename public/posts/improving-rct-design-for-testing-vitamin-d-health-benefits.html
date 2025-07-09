@@ -1,0 +1,72 @@
+<!doctype html><html><head><meta charset=utf-8><title>Improving RCT design for testing Vitamin D health benefits</title>
+<link rel=stylesheet href="/css/main.css?v=1752030345"><link rel=stylesheet href="/css/pagination.css?v=1752030345"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030345"></script><script src="/js/search.js?v=1752030345"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Improving RCT design for testing Vitamin D health benefits</h1><time>April 25, 2019</time><div data-pagefind-body><h4 id=validating-the-effects-of-correcting-vitamin-d-deficiency-time-for-reappraisal-of-clinical-trial-design>Validating the effects of correcting vitamin D deficiency; time for reappraisal of clinical trial design</h4><p>QJM: An International Journal of Medicine, hcz086, <a href=https://doi.org/10.1093/qjmed/hcz086>https://doi.org/10.1093/qjmed/hcz086</a></p><p>Barbara J Boucher, MD, FRCP(Lond)</p><p>The Blizard Institute, (Barts & The London School of Medicine & Dentistry),</p><p>Queen Mary University of London, London, UK <a href=mailto:bboucher@doctors.org.uk>bboucher@doctors.org.uk</a></p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:700px"><ul><li><p><a href=/posts/vitamin-d-for-adults-and-elderly-review>Vitamin D for adults and elderly – review Oct 2018</a> also by Boucher</p></li><li><p><a href=/posts/vitamin-d-reduces-cancer-risk-why-scientists-accept-it-but-physicians-do-not>Vitamin D Reduces Cancer Risk - Why Scientists Accept It but Physicians Do Not - Feb 2019</a></p></li><li><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/trials-based-on-concentrations.pdf>See also attached</a></strong></p></li></ul><blockquote><p>Why vitamin D clinical trials should be based on 25-hydroxyvitamin D concentrations - 2017</p></blockquote><blockquote><p>Authors: William B. Grant, Barbara J. Boucher, Harjit P. Bhattoa, Henry Lahore</p></blockquote></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/boucher-rct.pdf>Download the PDF from Sci-Hub via VitaminDWiki</a></strong></p><p>Gorey et al.1 report many reasons for vitamin D <span>[VitD]</span> supplementation trials producing disparate results. Additionally, investigating causality for the inverse associations consistently seen between VitD status and health risks2, and suggested by many specific mechanistic effects, requires RCT designs suitable for nutrients, not pharmaceuticals. Rises in serum 25(OH)D concentrations and in the biological effectiveness of VitD when supplementing deficiency are both &lsquo;S-shaped&rsquo;. This means that failure to increase deficient 25(OH)D values up onto the steep part of these dose-response curves will have no noticeable health benefits and neither does the supplementation of replete subjects as increases in their serum 25(OH)D will usually be small as they will be on the flat upper part of the S shaped curves.&lsquo;3 The common practice of giving single doses of vitamin D3 without adjustment so as to achieve repletion perpetuates these effects, whilst very high dosages, often given at long intervals, frequently lead to detrimental health effects, as the authors point out.1 However, RCT data analyses for initially deficient subjects <span>[using &lsquo;Individual Participant Data&rsquo;]</span> overcomes these major problems and are revealing significant health benefits with reductions, for example, in upper respiratory tract infections <span>[by -70%]</span>,4 and significant reductions also in acute asthma exacerbations, in overall mortality <span>[by 25% when supplementing subjects with baseline vitamin D deficiency]</span>5 and often from meta analyses including many RCTs of vitamin D supplementation that had initially been reported as having produced no benefits.4</p><p>Target tissue Vitamin D3 activation is up regulated by serum 25(OH)D concentration, independent of parathyroid hormone, likely explaining the consistent associations of serum 25(OH)D with health-benefits.2,6 The 25(OH)D concentration thresholds at, and above which, benefits are found observationally and in RCTs also vary7 <a href=e.g.%20at%2050nmol/l%20for%20bone%20health%20and%2080nmol/L%20for%20reducing%20abnormal%20insulin%20resistance>e.g. at 50nmol/l for bone health and 80nmol/L for reducing abnormal insulin resistance</a>. Additionally, 25(OH)D measurements vary, despite widespread use of international quality control schemes while High Pressure Liquid Chromatography/Tandem Mass Spectroscopic <a href=HPLC/TMS>HPLC/TMS</a> technology produces higher 25(OH)D values than do immunoassays <a href=by%20amounts%20averaging%20+5nmol/l,%20but%20up%20to%2033nmol/l>by amounts averaging +5nmol/l, but up to 33nmol/l</a>. Thus, increasing use of the harmonization of immunoassay data to HPLC/TMS data on standards will raise both the thresholds for achieving various health effects and the cut-offs used to define various degrees of vitamin D deficiency and repletion. Clearly, these difficulties will require rationalisation of the criteria used in future studies at an International level.</p><p>Several other nutrients are known to affect Vitamin D efficacy, including excessive vitamin A intakes, <span>[common in affluent countries]</span>, which inhibit the gene modulating mechanistic effects of calcitriol at the vitamin D receptor <span>[VDR]</span> level. Inadequate provision of magnesium impairs overall enzyme activity, including those in the vitamin D activating cascade. Adequate calcium intakes facilitate vitamin D activity, and insufficiency prejudices the non-genetic actions of calcitriol which are induced through rapid increases in intracellular calcium ion concentrations. Furthermore, polymorphisms of the VDR, of vitamin D binding proteins and of the various vitamin D activating enzyme genes affect serum 25(OH)D concentrations. Ideally, therefore, RCTs designed allowing for all these factors are required to improve vitamin D RCT outcome reliability.</p><h4 id=references>References</h4><ol><li><p>Gorey M, Canavan M, Robinson S, O&rsquo;Keefe ST, Mulkerrin E. A review of vitamin D insufficiency and its management: a lack of evidence and consensus persists. QJM 2019;112:165-167</p></li><li><p>Hossein-Nezhad A, Holick MF. Vitamin D for health: a global perspective. Mayo Clin Proc.2013;88:720-55.</p></li><li><p>Lappe JM, Heaney RP. Why randomized controlled trials of calcium and vitamin D sometimes fail. Dermatoendocrinol. 2012;4:95-100.</p></li><li><p>Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF, Bergman P et al. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ. 2017;356: i6583</p></li><li><p>Brenner H, Jansen L, Saum KU, Holleczek B, Schottker B. Vitamin D Supplementation Trials Aimed at Reducing Mortality Have Much Higher Power When Focusing on People with Low Serum 25-Hydroxyvitamin D Concentrations. J Nutr. 2017;47:1325-1333.</p></li><li><p>Adams JS, Rafison B, Witzel S, Reyes RE, Shieh A, Chun R et al. Regulation of the extrarenal CYP27B1-hydroxylase. J Steroid Biochem Mol Biol. 2014;144 Pt A:22-7.</p></li><li><p>Scragg R, Emerging Evidence of Thresholds for Beneficial Effects from Vitamin D Supplementation (review). Nutrients 2018;10:561-571 8</p></li></ol></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>asthma</span>
+<span class=tag>asthma receptor</span>
+<span class=tag>blood levels</span>
+<span class=tag>breathing</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>CYPR</span>
+<span class=tag>genetics</span>
+<span class=tag>life span</span>
+<span class=tag>magnesium</span>
+<span class=tag>magnesium and cancer</span>
+<span class=tag>mortality</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>asthma, asthma receptor, blood levels, breathing, cancer, cancer in VDR, CYPR, genetics, life span, magnesium, magnesium and cancer, mortality, vitamin d, vitamin d blood test, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030345"></script><script src="/js/tiki-redirects.js?v=1752030345"></script><script src="/js/lightspa.js?v=1752030345"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030345",indexUrl:"/search/search_index.json.gz?v=1752030345"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030345"></script></body></html>

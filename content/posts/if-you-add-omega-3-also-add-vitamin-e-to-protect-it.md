@@ -1,0 +1,457 @@
+{
+    "title": "If you add Omega-3, also add Vitamin E to protect it",
+    "slug": "if-you-add-omega-3-also-add-vitamin-e-to-protect-it",
+    "aliases": [
+        "/If+you+add+Omega-3+also+add+Vitamin+E+to+protect+it+\u2013+Aug+2015",
+        "/6832"
+    ],
+    "tiki_page_id": 6832,
+    "date": "2015-08-21",
+    "categories": [
+        "Vitamin D and Omega-3"
+    ],
+    "tags": [
+        "IBD",
+        "Vitamin D and Omega-3",
+        "atherosclerosis",
+        "atrial fibrillation",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bone",
+        "bone cancer",
+        "brain",
+        "cancer",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood viruses",
+        "cholesterol",
+        "cognitive",
+        "depression",
+        "depression and pregnancy",
+        "falls fractures",
+        "gut",
+        "health risk",
+        "heart failure",
+        "high dose",
+        "intervention",
+        "life span",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "miscarriage",
+        "mononucleosis",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "omega 3 and viruses",
+        "pain",
+        "pediatric autoimmune",
+        "pregnancy",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "statins",
+        "therapeutic intervention",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses"
+    ]
+}
+
+
+**Vitamin E function and requirements in relation to PUFA** 
+
+British Journal of Nutrition [I take almonds with my Vitamin D](Online%20before%20print}
+Daniel%20Raederstorff%201%20Daniel.Raederstorff@dsm.com,%20Adrian%20Wyss%201,%20Philip%20C.%20Calder%202,%20Peter%20Weber%201%20and%20Manfred%20Eggersdorfer%201
+1DSM%20Nutritional%20Products,%20Basel%20CH-4002,%20Switzerland
+2%20Human%20Development%20and%20Health%20Academic%20Unit,%20Faculty%20of%20Medicine,%20University%20of%20Southampton,%20Southampton%20SO16%206YD,%20UK%20
+{BOX(title=>VitaminDWiki%20Summary%20based%20on%20a%20very%20quick%20read%20class="border"%20bg=>#FF9,width=%20"600px")}
+90%%20in%20the%20US%20do%20not%20get%20even%20bare%20minimum%20of%20Vitamin%20E%20-%20see%20chart%20below
+There%20are%20many%20forms%20of%20Vitamin%20E%20-%20be%20sure%20to%20get%20the%20right%20form
+Appears%20that%200.5%20mg%20needed%20per%20gram%20of%20PUFA
+__See%20also%20VitaminDWiki__
+*((Vitamin%20D%20Cofactors%20in%20a%20nutshell))
+*((Omega-3%20conference%20and%2012%20publications%20–%20Nov%202014))
+*((Vitamin%20D%20and%20Omega-3%20are%20the%20first%20focus%20of%20Global%20Nutrition%20and%20Health%20Alliance))
+*((Inflammation%20reduction%20through%20diet:%20Omega-3%20etc.%20Feb%202014))
+*((Overview:%20Omega-3%20many%20benefits%20include%20helping%20vitamin%20D))
+*((Atopic%20Dermatitis%20and%20Eczema%20-%20many%20studies))
+*((I%20use%20Vectomega%20brand%20of%20Omega-3%20–%20Admin%20of%20VitaminDWiki,%20May%202014))
+*((Most%20people%20not%20getting%20enough%20Vitamin%20D,%20Magnesium,%20and%20Vitamin%20E%20–%20Aug%202011))
+__The%20taller%20the%20bar,%20the%20more%20deficient%20for%20those%20older%20than%2019__
+{IMG(attId="722"%20wideth="500")}{IMG}
+
+__Note%20by%20VitaminDWiki%20admin:__
+Almonds%20are%20among%20the%20many%20foods%20which%20naturally%20have%20Vitamin%20E%20-%20to%20prevent%20oxidation
+1%20ounce%20of%20almonds%20=%207.4%20milligrams%20of%20vitamin%20E.​%20(3.8X%20as%20much%20as%201%20tablespoon%20of%20olive%20oli)
+It%20seems%20that%20this%20study%20says%20that%20one%20ounce%20of%20almonds%20provides%20enough%20Vitamin%20E%20to%20protect%20the%20Omega-3
+[https://www.VitaminDWiki.com/blogpost22-Almonds-with-Vitamin-D) - note: almonds have Magnesium too
+
+ **See also Web** 
+
+* [Vitamin E Fact Sheet for Health Professionals](https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/)
+
+* It appears that Vitamin E and Omega-3 both thin the blood
+
+{BOX}
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-e-needed-with-omega-3.pdf">Download the PDF from VitaminDWiki</a>** 
+
+PUFA, categorised into n-3 and n-6 fatty acids, are important cell membrane components and key elements in child development, brain and visual functioning and physical health and well-being throughout the life course. Dietary sources that are rich in PUFA include many vegetable oils, nuts, seeds and certain types of fish. As PUFA contain double bonds, they are highly sensitive to oxidative stress; consequently, the oxidation of PUFA and the resulting lipid peroxides can have detrimental effects on development, brain function and human health. Normal metabolic, cell-signalling and host defence activities result in the release of oxidants and free radicals. If there are low concentrations of antioxidants present to counter-balance excessive concentrations of oxidants and free radicals - a situation often termed ‘oxidative stress’ - detrimental effects on cell components can occur(1). The antioxidant defence system keeps the levels of oxidants and antioxidants balanced, and thus protects the body from the effects of oxidative stress(1). In the human body, a complex network of antioxidant defence systems (mainly endogenous enzymatic antioxidant systems) is supported by, and interacts with, small antioxidant molecules derived from the diet to protect the tissues from oxidative stress. Vitamin E, or more specifically its a-tocopherol isoform, is one of the essential antioxidants that humans derive from the diet.
+
+Similar to PUFA, vegetable oils, nuts and seeds are particularly rich sources of vitamin E. Many nutrient databases and nutrition labels do not distinguish between the different isoforms of vitamin E, and often include the contribution of all eight naturally occurring vitamin E isoforms, presented as a-tocopherol equivalent. However, RRR-a-tocopherol is the isoform that is preferentially absorbed and maintained in the human body(2,3). The Institute of Medicine (IoM), as well as other agencies that provide dietary intake recommendations - for example, the DACH-countries (Germany, Austria, Switzerland) - appreciate the role of vitamin E in protecting PUFA from being oxidised(3,4). In the IoM 2000 report(3), it is also noted that the amount of vitamin E needed to keep PUFA functional in cell membranes is obviously closely related to the intake of PUFA. As current vitamin E intakes are below the recommended intakes in more than 90 % of North Americans as well as in some European Countries(5), and at the same time people are being encouraged to increase their intake of PUFA, especially those with high degree of unsaturation, because of their reported health benefits, the ratio of vitamin E:PUFA in the human diet appears to become more critical and requires a deeper examination. The aim of this study was to review the published evidence on the function and requirements of vitamin E:a-tocopherol in relation to the PUFA content of the human diet.
+
+{{< toc >}}
+
+## Vitamin E
+
+### Molecular structure and function of vitamin E
+
+Vitamin E has eight isoforms; it can be categorised into tocopherol isoforms, which have a saturated side chain on the chromanol ring, and into tocotrienol isoforms, which have an unsaturated side chain. Each of these types is further categorised as a-, p-, y- or 5-forms, which are defined by the number and the location of the methyl groups on the chromanol ring. The 6-hydroxy group of the chromanol ring is the active site for scavenging radicals, whereas the side chain does not affect the reactivity towards free radicals. Thus, all the isoforms of vitamin E have some antioxidant activity. However, other factors play a key role in determining whether a molecule has in vivo bioactivity; RRR-a-tocopherol has the highest in vivo bioactivity of all vitamin E isomers. It is bound by a specific transport protein - the a-tocopherol transfer protein (a-TTP). Thereby, it is protected within the cell and does not undergo rapid degradation processes like other vitamin E isoforms. Furthermore, a-TTP enables binding to the ABCA1 transporter and the secretion of RRR-a-tocopherol from hepatocytes to the periphery.
+
+RRR-a-tocopherol is the only isoform of vitamin E that is essential for humans and it is considered the most important lipophilic antioxidant in vivo, in humans in particular, metabolising peroxyl radicals(3). The eight vitamin E forms are all absorbed by humans but their degradation rate and retention time in the body differs widely, which directly impact their relative biopotency(6,7). The bioactivity of the tocopherol and tocotrienol forms has been reviewed previously(8,9). In short, the vitamin E forms are discriminated by the liver and only a-tocopherol is preferentially accumulated in the cellular membranes of tissues, whereas the other isoforms are rapidly metabolised and excreted in a similar manner as other xenobiotics(6,9). y-Tocopherol is the other vitamin E form that is present in significant amounts in the human diet as it is contained in a number of widely consumed vegetable oils(9). y-Tocopherol is slightly less efficient than a-tocopherol as a scavenger of oxygen radicals, but it is an efficient scavenger of reactive nitrogen species due to the unsubstituted 5-position on the chromanol ring(9-11). However, y-tocopherol is efficiently metabolised by cytochrome P450 enzymes. This may be the reason why even after intake of high doses of y-tocopherol, its plasma concentration rarely exceeds 10 % of that of a-tocopherol, and much less is found in tissues*9,12-1®. a-Tocotrienol has been shown to have higher or similar antioxidant capacity in in vitro model systems than a-tocopherol, depending on the assays used(19-22). However, tocotrienols are present only in very low amounts in the human diet as relevant amounts are only found in palm oil, rice bran, oats and barley(9,23). Moreover, the tocotrienols are more rapidly metabolised than the corresponding tocopherol forms and levels of tocotrienols in cell membranes are very low(13,14,17,18). In the brain, which is very rich in highly unsaturated fatty acids, a-tocopherol represents 99-8 % of the vitamin E content and no tocotrienols are detected(18). Thus, the higher activity of a-tocopherol as an essential nutrient in vivo is related partially to its dietary intake and partially to its selective retention time in the body relative to the other vitamin E isoforms(9). Therefore, we will not discuss in detail the activity of vitamin E isoforms other than a-tocopherol, and we will use the term vitamin E to refer to a-tocopherol in the remainder of this article.
+
+Due to its structure and physical-chemical properties, vitamin E is one of the key antioxidants found in nature. After reaction with peroxyl radicals, an a-tocopheroxyl radical is formed.
+
+a-TOC + ROO' ! a-TO* + ROOH.
+
+Due to the stability of the a-tocopheroxyl radical, it is unable to react further and the chain of oxidation events is broken. The chromanol ring is essential for the antioxidant power and the stability of the tocopheroxyl radical(24,25).
+
+Vitamin E is the key essential lipophilic (fat-soluble) antioxidant located in human cell membranes protecting them from oxidative damage. The essential role of vitamin E in the human antioxidant defence system has been re-evaluated by the European Food Safety Authority expert panel, which concluded that the scientific evidence indicates that ‘Vitamin E contributes to the protection of cell constituents from oxidative damage’(26). In vivo and in vitro studies have shown that vitamin E functions as a chain-breaking antioxidant acting to protect unsaturated lipids from peroxidation by scavenging peroxyl radicals(27). Animals and humans with a low vitamin E status are sensitive to muscle, neurological and embryogenesis problems that have been related to the protective effects of vitamin E against damage to PUFA in cell membranes and confirms its role as an essential nutrient*7,28-3®. A recent study in pregnant women observed that the rate of miscarriages was significantly increased in women having a low concentration of a-tocopherol (<12 pmol/l) in plasma*3® These findings are in line with the numerous animal studies showing an essential role of a-tocopherol in embryonic development and clearly indicate the importance of an adequate intake of vitamin E in women of childbearing age. Clinical studies using pharmacological doses of vitamin E yielded conflicting results on the effects of vitamin E on CVD and optimal dosage and combination with other antioxidants still need to be determined*32-3®. However, epidemiological studies suggest a beneficial association between plasma vitamin E concentrations and CHD risk in individuals with an intake of vitamin E in the nutritional physiological range and a plasma a-tocopherol level >20 gmol/l with an optimum plasma level of about 30 gmol/l*36-3®
+
+### Interactions between vitamin E and PUFA
+
+The incorporation of vitamin E into the membrane leads to stabilisation, and thus to a decrease in membrane fluidity. Only a-tocopherol, and not p-, y- or 8-tocopherol, seems to have this effect. It was hypothesised for many years that a-tocopherol accumulates in lipid rafts where it stabilises the domain together with cholesterol. In recent years, a different theory was published*40) and supported by studies in model membranes; vitamin E accumulates in DHA-rich, rather unstructured domains, where it exerts its main functions: stabilisation of the membrane and protection of DHA from oxidative damage. a-Tocopherol may, therefore, have a similar function as cholesterol in raft domains and may stabilise the PUFA-rich non-raft domains. In this way, the functional and structural roles of a-tocopherol would be combined in the same membrane area.
+
+ **Fig. 1. a-Tocopherol localisation in a membrane lipid bilayer.** 
+
+Atkinson et al.(40) undertook a series of biophysical experiments to describe the position of 2H-labelled a-tocopherol in the cell membrane. They concluded that the a-tocopherol molecule stands upright in the membrane bilayer (Fig. 1). The non-a-tocopherol isoforms can also be incorporated into cellular membranes. Studies in lipid model membranes indicate that the localisation of the various vitamin E forms in the membranes can slightly differ and they might alter the membrane behaviour differently due to their structural differences(20,41). However, as mentioned previously, all non-a-tocopherol isoforms are rapidly metabolised and excreted and only a-tocopherol is present in significant amounts in cell membranes. Moreover, the biophysical studies assessing the localisation and the behaviour of vitamin E in membrane models have been carried out mainly with a-tocopherol(41). The label at the chromanol ring is placed in the neighbourhood of the phospholipid glycerol backbone. The second label at the C9' of the side chain is located in the centre of the membrane, where the label can be found in various positions. This points to the cis-conformations rather than the extended all-trans-isomer. This localisation in the membrane suggests that the a-tocopherol antioxidant activity occurs at the membrane surface(42). This location of vitamin E in the membrane would also allow vitamin C, which is placed at the hydrophilic/hydrophobic interphase, to interact with the a-tocopheroxyl radical and to bring it to the energetic ground state. This is the mechanism by which vitamin E is regenerated and is ready to interact with the next peroxyl radical(7). Thus, both lipophilicity and membrane localisation of vitamin E explain its antioxidant activity.
+
+The presence of vitamin E is of key importance in cellular membranes rich in highly unsaturated fatty acids such as DHA and arachidonic acid (AA), which are found in high concentrations in the brain, the retina and some other locations. Thus, in a-TTP-null mice fed a vitamin E-deficient diet, retinal structure is altered and lipid peroxidation is enhanced, whereas the concentration of DHA, the most abundant PUFA in the retina, is decreased(43). In zebrafish, a model organism for lipid metabolism, vitamin E deficiency led to a decrease in the content of highly unsaturated fatty acids(44), perhaps because of their consumption by peroxidative processes. The incorporation of a-tocopherol into membranes may be especially critical in early life, as DHA is required for optimal visual and brain development. Zebrafish embryos deficient in vitamin E develop morphologic abnormalities and have increased mortality, which is in line with a key role for vitamin E in fetal development(45). In a recent study, Lebold et al.(46) showed that in zebrafish embryos a-tocopherol deficiency induced a decrease in DHA and AA concentrations during embryogenesis. In the adult zebrafish model, low brain a-tocopherol levels were associated with the depletion of DHA-containing phospholipids(47). Those studies support the role of vitamin E in protecting PUFA in membranes in order to maintain optimal cellular function.
+
+### New function of vitamin E in the membrane
+
+Cellular membranes, especially those in muscle cells, are under constant physical stress. It has been elegantly demonstrated in vitro and in excised mouse muscle that a-tocopherol improves muscle membrane repair and rescues myocytes from necrosis(48). A recent study in rats showed that the plasma membrane repair capacity is impaired in skeletal muscle fibres when the animals are deprived of vitamin E(49). Thus, in myocyte plasma membranes, the presence of vitamin E promoted membrane repair. This is evidence that suggests a new function for a-tocopherol in membrane repair. The molecular basis of this effect is not clear yet, but it could be that the prevention of lipid peroxidation is involved. Membrane repair mechanisms involve many membrane fusion events. These processes might be much faster and more efficient in an antioxidant environment. Further, it was demonstrated in the same study that repair incompetent cells - that is, HeLa cells - could be rescued from laser-induced membrane damage by addition of a-tocopherol to the medium. These new findings may have an impact on future approaches against muscle pain - that is, concomitant after statin use - or support therapies for muscle injuries.
+
+### PUFA
+
+PUFA are involved in a wide range of processes that are related to physical and mental health. For example, n-3 PUFA play a role in cardiovascular health through multiple effects on the cardiovascular system, particularly on blood lipid concentrations, blood pressure and heart function(50). Recent studies, systemic reviews and meta-analysis have yielded conflicting results with regard to the effect of n-3 PUFA on CVD. Some meta-analyses showed little or no effect of n-3 PUFA on cardiovascular events or cardiac death(51-53), while others showed a benefit(54-56). The reasons for these inconsistencies have been discussed in several studies(57-61). It is to be noted that in most studies the background dietary intake of n-3 PUFA and the n-3 PUFA status at baseline were not taken into consideration. The outcome of meta-analyses investigating the same or a similar question can vary due to differences in methodology and the criteria used to select the relevant clinical studies for inclusion. Moreover, the selected studies are often very heterogeneous differing in sample size, design, population characteristics, type and dose of supplements used, end points measured and duration of the study, which may contribute to inconclusive and conflicting results. Thus, the results of such meta-analyses must be interpreted critically and have to be considered with caution. Overall, the risk benefit balance is still in favour of a benefit of n-3 PUFA(60,61). Moreover, population studies still consistently show that a low n-3 PUFA (EPA and DHA) status is associated with an increased risk of CVD and cardiac death(50,57,62). Finally, a number of cardiac societies, scientific and governmental organisations recommend the intake of n-3 PUFA for heart health(63-67). Collectively, the data from epidemiological studies and clinical interventions still indicate that diets high in n-3 PUFA (EPA and DHA) reduce the risk of cardiovascular morbidity and mortality.
+
+It has been suggested that adults with cardiac problems might benefit from n-3 PUFA, as they prevent atrial fibrillation recurrence and increase left ventricle systolic function and functional capacity(68,69). A dose-dependent benefit of n-3 PUFA, whereby a higher dose was more beneficial, was demonstrated in a small trial on patients with chronic heart failure(70). A systematic review showed that n-3 PUFA derived from oily fish were beneficial for patients with rheumatoid arthritis(71). PUFA intake during pregnancy is important for fetal development and longterm development of children(72). Furthermore, maternal n-3 PUFA intake during pregnancy may decrease the risk of allergies(73) and improve bone health(74) in early childhood. The involvement of n-3 and n-6 PUFA in mental health, particularly depressive moods, remains unclear but is of interest. A recent systematic review concluded that, although evidence is scarce, n-3 PUFA might be beneficial for those with diagnosed depression, whereas it has not been shown to be beneficial for those without diagnosed depressive illness(75).
+
+Finally, it is important to consider that the n-6:n-3 PUFA ratio is important, as a high ratio has been associated with higher risk of some diseases. For example, a high n-6:n-3 PUFA ratio has been associated with an increased risk of prostate cancer(76). A review article by Patterson et al.(77) also implicated an association between high n-6:n-3 PUFA ratios and increases in chronic inflammatory disease, CVD, obesity, inflammatory bowel disease, rheumatoid arthritis and Alzheimer’s disease. All these reported health benefits of n-3 PUFA have resulted in guidelines and recommendations to increase daily n-3 PUFA intakes.
+
+### Optimal balance between vitamin E and PUFA
+
+#### Animal studies
+
+Harris & Embree(78) reviewed a number of animal experiments, in which the animals were fed diets containing various vitamin E:PUFA ratios, which induced vitamin E deficiency or relieved it. Based on their analyses, which also included data on fat and a-tocopherol content in various food groups, they concluded that a vitamin E:PUFA ratio of 0-6 mg RRR-a-tocopherol for each gram of PUFA is necessary to protect against vitamin E deficiency. Following an experimental study in monkeys, Bieri & Poukka Evarts(79) estimated that the minimum requirement was slightly >0-36 mg RRR-a-tocopherol/g of linoleic acid consumed and that 0-72 mg RRR-a-tocopherol/g of linoleic acid was nutritionally adequate.
+
+The relationship between vitamin E requirements and the degree of unsaturation of PUFA was evaluated in young rats fed various fats with a constant total unsaturation but differing in the type of unsaturated fatty acid(80). The time of onset of creatinuria was measured. The authors concluded that the relative quantities of a-tocopherol required to protect one mole of mono-, di-, tri-, tetra-, penta- and hexaenoic fatty acids were to be approximately in the ratios of 0-3:2:3:4:5:6, respectively. The findings are consistent with the in vitro susceptibility of unsaturated fatty acids to oxidative damage(80).
+
+#### The Elgin project (1953-1967)
+
+Vitamin E:PUFA ratios derived from animal studies might not be necessarily directly applicable for humans. The Elgin project, conducted between 1953 and 1967, was pivotal to evaluate the vitamin E requirement of humans through a long-term dietary study(81-84). The adequacy of vitamin E intake was evaluated in the project by following plasma a-tocopherol levels over time. The susceptibility of erythrocytes to in vitro peroxide-induced haemolysis was considered a sign of vitamin E deficiency.
+
+Three groups of men received different diets during the longterm follow-up. The first group received a basal diet consisting of 9204-8 kJ (2200 kcal), 47 g protein and 60 g fat, which was low in vitamin E (3-4 mg) and PUFA (9 g) each day. The second group received the same basal diet, low in vitamin E and PUFA, but supplemented with 15 mg/d of RRR-a-tocopherol. The third group was a control group that received a standard hospital diet ad libitum. The main fat component of the basal diet was 30 g/d of stripped lard, which was replaced by 30 g/d of stripped maize oil after 30 months to increase the dietary PUFA intake, which was increased to 60 g/d of maize oil another 9 months later to further increase the amount of PUFA.
+
+The hospital diet providing 8-12 mg/d of a-tocopherol and 4-7 g/d of PUFA was considered as being on the borderline of adequacy over the 13 years of observation based on the plasma a-tocopherol levels and the data from the erythrocyte haemolysis test(83).
+
+The plasma a-tocopherol levels of the subjects in the basal diet group gradually decreased to around 12 pmol/l during the first 20 months. Moreover, the percentage of erythrocyte haemolysis was increased to levels above 20 % when the plasma a-tocopherol levels fell below 16 pmol/l after 7 months. These data show that a daily intake of 3-4 mg of a-tocopherol is inadequate(81). Depleted subjects, who had been on the basal diet for 54 months, were given an a-tocopherol supplement of 15 mg/d for 138 d. However, this was insufficient to bring the plasma a-tocopherol levels and the erythrocyte haemolysis test back to baseline levels. Subjects receiving a supplement of 15 mg/d a-tocopherol in addition to the basal diet maintained a plasma a-tocopherol level around 23 pmol/l in the first 30 months of the study. The increase up to 60 g/d maize oil at 39 months lowered the plasma a-tocopherol levels, and a supplementation of 15 mg/d a-tocopherol proved insufficient to counteract this decrease. Therefore, the a-tocopherol supplement was increased to 30 mg/d(82). Withdrawal of the a-tocopherol supplement led to an immediate drop in plasma a-tocopherol levels and a progressive increase in the erythrocyte haemolysis test. Finally, the a-tocopherol requirement in the absence of dietary PUFA was assessed by feeding subjects 60 g/d of beef tallow (a saturated fat) for 5 years. The diet provided about 2-4 g of PUFA and 3 mg of a-tocopherol daily. Plasma a-tocopherol levels decreased, whereas the sensitivity of erythrocytes to haemolysis increased. These data indicated that a minimal intake of 4-5 mg/d of a-tocopherol was needed in the basal state, even in the absence of dietary PUFA.
+
+Collectively, the data from the Elgin project suggest that individuals ingesting large amounts of linoleic acid (>30 g/d) require more than 30 mg/d of a-tocopherol, whereas 10 mg/d of a-tocopherol may be bordering on inadequacy in individuals ingesting about 4-7 g/d of linoleic acid(83). It was proposed that the a-tocopherol requirements in humans range from 10 to 30 mg/d depending on the amount of PUFA in the diet and the tissues(83).
+
+Horwitt(83) proposed a calculation to quantify the vitamin E requirement in humans. This calculation was based on the sum of a basal minimum of 4 mg/d of a-tocopherol for normal cellular synthesis and retention of PUFA in membranes to which a factor was added that depended on the percentage of dietary PUFA and the grams of PUFA consumed: mg a-TE (mg) =4 + 0-25 x (% PUFA + gPUFA).
+
+In another analysis, the vitamin E requirement in relation to PUFA was estimated as the sum of a basal requirement of 5 mg/d a-tocopherol to which 0-5 mg a-tocopherol for each gram of PUFA is to be added(84):
+
+mg a-TE (mg) =5 + (0-5 x g PUFA).
+
+Based on the evaluation of the human data from the Elgin project, the minimum vitamin E:PUFA ratio to avoid the development of vitamin E deficiency symptoms is between 0-5 and 0-8mg a-tocopherol/g of PUFA(78,85). However, the validity of the erythrocyte haemolysis test to define the vitamin E requirement in relation to PUFA intake, which was used as an early sign of vitamin E deficiency, has been questioned(85). Therefore, basing vitamin E:PUFA ratio only on data from the Elgin project may not be appropriate.
+
+#### Other human studies
+
+Using data from the Second National Health and Nutrition Examination Survey, Murphy et al. concluded that the dietary vitamin E:PUFA ratio decreased with increased PUFA intake from 0-94 for individuals with diets low in PUFA (<5 g/d) to 0-44 for individuals with PUFA intakes >25 g/d. Earlier studies reported a ratio of 0-43 based on the analysis of composite meals(86) and of 0-52 based on an experimental diet providing an adequate intake of vitamin E(87). A ratio of 0-4 has been found sufficient to maintain plasma vitamin E levels in growing children in another study(88). Similarly, Witting & Lee(89)
+
+reported that a ratio of approximately 0-4 mg RRR-a-tocopherol/ g of linoleic acid was sufficient in young women, following a 9-month study period. The above-mentioned human studies have mainly focused on the relationship between vitamin E and intake of linoleic acid, the major PUFA in western diets. However, only a few studies have evaluated the relation and interactions between vitamin E intake and the consumption of highly unsaturated fatty acids such as EPA and DHA in humans. In several studies, the effect of an increased intake of n-3 PUFA from fish on vitamin E status and lipid peroxidation was investigated with inconsistent results. In a few studies, the increase in lipid peroxidation induced by a high intake of n-3 PUFA could not be prevented by an increased intake of vitamin E(90,91). However, in other studies, the rise in lipid peroxidation after the intake of n-3 PUFA could be overcome by a higher intake of vitamin E(92-94). The different findings may be due to difference in the methodologies used to measure the oxidative stress markers or interactions with other dietary factors. Moreover, those studies that used pharmacological doses of both n-3 PUFA and vitamin E are difficult to extrapolate to the general population. Recently, an epidemiological study investigating the association between PUFA intake and C-reactive protein (CRP) concentration found potential interactions with vitamin E intake(95). However, these interactions were only significant for EPA and DPA, which are present in low amounts in tissues, whereas no significant interactions were found for the major n-6 and n-3 PUFA found in cell membranes such as linoleic acid, AA and DHA. Thus, it seems unlikely that this interaction is related to the PUFA-protective role of vitamin E in cellular membranes. Moreover, the associations found in this study need to be confirmed by additional studies. In some studies, vitamin E treatment has been suggested to decrease CRP levels in humans(96). Therefore, it may be that with an adequate intake of vitamin E no additional improvement may actually be observed by an increase in the PUFA intake. Interestingly, a low and moderate intake of DHA (200, 400 mg/d) in humans reduced oxidative stress and increased plasma and platelet vitamin E levels, whereas a high intake of DHA increased oxidative stress(97,98). The conflicting results obtained in previous studies clearly indicate that additional studies are needed, probably using novel methodology to measure the interactions between vitamin E and n-3 PUFA, in order to further clarify the relationship and interactions between vitamin E intake and the consumption of highly unsaturated fatty acids.
+
+### Estimating vitamin E:PUFA requirements
+
+The estimated optimal vitamin E:PUFA ratio seems to be relatively consistent across studies. Taking these studies together suggests an estimated additional vitamin E requirement ranging from 0-4 to 0-6 mg RRR-a-tocopherol/g of PUFA in the diet for a diet with a typical content of PUFA, mainly as linoleic acid. A ratio of 0-5 mg RRR-a-tocopherol/g of PUFA in the middle of this range may reasonably be used to calculate the vitamin E requirement. Thus, considering a basal requirement of at least 4 mg RRR-a-tocopherol as suggested by the human data from the Elgin project, the following formula can be used to calculate the vitamin E requirement: vitamin E requirement = 4 + (0-5 X amount of PUFA in the diet in grams). However, the vitamin E requirement also depends on the degree of unsaturation of PUFA in the diet(80), and most of the studies described so far have considered linoleic acid as the main dietary PUFA. Therefore, Muggli(99) proposed to estimate the dietary vitamin E requirement by taking the relative vitamin E requirement for individual PUFA into account. 
+
+ **Table 1. Vitamin E requirements for different unsaturated fatty acids found in human diets** 
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/omega-t1.jpg" alt="image">
+
+ **Table 2. Estimated vitamin E requirement for typical ranges of unsaturated fatty acid intake in western diets** 
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/omega-t2.jpg" alt="image">
+
+The vitamin E demand for individual PUFA found in the human diet can then be calculated based on the vitamin E:linoleic acid ratio (milli grams a-toco- pherol per gram of linoleic acid) extrapolated from human studies and the relative vitamin E requirement for individual PUFA (0-3:2:3:4:5:6 for, respectively, mono-, di-, tri-, tetra-, penta- and hexaenoic fatty acids) extrapolated from animal data. Table 1 shows the vitamin E requirement for individual PUFA using a vitamin E:linoleic acid ratio of 0-5 mg a-TE/g of linoleic acid in the diet.
+
+It should be noted that the studies that estimated the additional requirement of vitamin E in relation to dietary PUFA were conducted with diets that were very rich in PUFA or containing linoleic acid almost exclusively. Thus, the reported ratio of vitamin E:PUFA of 0-4-0-6 mg RRR-a-tocopherol/g of PUFA from these studies may not be relevant for ratios with other PUFA with more than two double bonds. Consequently, considering a basal requirement of 4 mg of RRR-a-tocopherol, the following formula could be used to calculate the vitamin E requirement, in which Mn is the amount of dietary PUFA with n double bonds in grams:
+
+ **Vitamin E requirement (mgTE) = 4 + 0 - 075 M1 + 0-5M2 + 0-75 M3 + 1M4+1-25M5 + 1-5M6.** 
+
+M1 to M6 are expressed in gram of the respective unsaturated fatty acids.
+
+Furthermore, in order to quantify the vitamin E requirement, one needs to estimate the typical intake range for PUFA with different degree of unsaturation (Table 2). The PUFA intake range indicated in Table 2 was estimated from reviews providing a global perspective on dietary fatty acid intake(100-102). The recent worldwide analysis of dietary fats and oils consumption from Micha et al.(101) indicates that there are large variations across regions and countries in the consumption of fats and oils, and therefore of fatty acids including PUFA. The mean global n-6 PUFA (mainly linoleic acid) intake was 5-9% energy ranging from 2-5 to 8-5 % energy across regions. The typical linoleic acid intake in a western population would range from about 12 to about 21 g/d, considering an energy intake ranging from 7531-2 to 13 455kJ/d (1800 to 3250kcal/d). The worldwide mean plant n-3 PUFA (mainly a-linolenic acid) intake was 1371 mg/d with a 10-fold variation from 302 to 3205 mg/d across regions. The worldwide ‘seafood’ n-3 PUFA (mainly EPA and DHA) intake was 163 mg/d, ranging widely from <50 to >700 mg/d between regions.
+
+### Vitamin E recommendations
+
+It is recommended that a baseline a-tocopherol requirement be estimated to which an additional vitamin E intake to compensate for dietary PUFA intake can be added in order to obtain the correct balance of dietary fatty acids with vitamin E. This baseline vitamin E requirement would allow for adequate synthesis and selective storage of PUFA in cell and tissue lipids, even with very low-PUFA diets. However, the optimal vitamin E requirement also depends on the amount and degree of unsaturation of PUFA in the diet. Increased dietary intake of PUFA has been shown to decrease vitamin E levels in plasma and tissues in both animals and humans. Moreover, high intake of PUFA with concomitant very low intake of vitamin E may lead to symptoms of vitamin E deficiency such as creatinuria, erythrocyte fragility and increased lipid peroxidation. However, it has been difficult to determine the precise vitamin E requirements in humans, as there are apparently no clear deficiency diseases. Furthermore, very long-term follow-up is needed to deplete the body stores of vitamin E to investigate any long-term deleterious consequences, which are often difficult to diagnose at an early stage. However, at present, it would not be feasible to conduct such long-term follow-up or depletion studies, such as the Elgin project, due to ethical considerations.
+
+#### Institute of Medicine and DACH recommendations
+
+In 2000, the IoM(3) published dietary reference intakes for vitamin E, based on previously reported research findings. The report suggested that there was no scientific basis to assume any difference in vitamin E requirements between men and women, or that ageing impairs vitamin E absorption or secretion. Therefore, no distinction was made between sexes or adult age categories in the IoM recommendations.
+
+In the same year, the DACH reference values(4) were published for Germany, Austria and Switzerland, using similar methodology as the IoM, but based on relevant German, Austrian and Swiss data. In contrast to the IoM reference values, the DACH values distinguish between sexes and adult age categories. Reference values from the IoM and DACH reports are shown in Table 3.
+
+ **Table 3. Estimated daily vitamin E intake (mg) as reported in the Institute of Medicine (IoM) and DACH recommendations** 
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/omega-t3.jpg" alt="image">
+
+Both reference value sets distinguish between pregnant and lactating women. The IoM found no evidence to believe that pregnant women require an increased vitamin E intake, compared with non-pregnant women of the same age, whereas the DACH values are slightly increased for pregnant women. Both reference sets suggest an increased vitamin E intake for lactating women, to account for the estimated 4 mg/d of vitamin E secreted via human milk.
+
+Although there are only slight differences between the IoM and DACH reference values, they used two different methodological approaches to propose these recommendations for dietary vitamin E intake. The IoM based their recommendation mainly on the prevention of deficiency symptoms, using the sensitivity of erythrocytes to haemolysis as a sign of deficiency. The available human data indicate that individuals with a plasma concentration of at least 12 gmol/l of a-tocopherol have a low per cent of erythrocyte haemolysis. It is of interest to note that this plasma level of vitamin E is in line with the recent findings, indicating an increased risk of miscarriage in women with a plasma vitamin E concentrations <12 gmol/l(31). A plasma a-tocopherol level of 12 gmol/l was estimated to correspond to an intake of about 12 mg/d. Thus, the estimated average requirement (EAR) for vitamin E was set to 12 mg/d of a-tocopherol to prevent erythrocyte haemolysis. A RDA of 15 mg/d of a-tocopherol for both men and women was calculated from the EAR plus twice the CV (10 %) to take into account the individual needs.
+
+The DACH recommendations considered the dietary PUFA intake to estimate the vitamin E requirement by taking into account a basal vitamin E requirement plus an additional requirement based on the dietary intake of PUFA. To calculate the vitamin E requirement, they used a basal vitamin E requirement of 4 mg/d and a ratio of 0-4 mg of a-tocopherol/g of dietary linoleic acid and the ratios between vitamin E and dietary PUFA with different degree of unsaturation proposed by Witting & Horwitt(80,83,89). The dietary vitamin E requirements for adult women and men were estimated to be respectively 12 and 15 mg/d based on a typical dietary intake of PUFA, which differ between women and men due to difference in energy intake. This is in line with the approach we have used in this review to estimate the requirement for vitamin E in relation to dietary PUFA. It is interesting to note that, despite using two different methods, both approaches lead to reference values that fall within the 10-30 mg/d range as suggested in a previous study.
+
+Several publications and reviews have discussed the quantification of the physiological requirement of vitamin E as a function of PUFA intake(85,86,99,103,104). The authors suggested various ratios of vitamin E to PUFA expressed as milligram tocopherol per gram to calculate the additional vitamin E requirement as a function of the amount of PUFA in the diet. Moreover, the data indicate that based on animal and human studies an attempt to quantify the vitamin E requirement should take two factors into account: (1) the minimum requirement to allow for basal metabolism, cellular synthesis and PUFA retention, even in low-PUFA diets, and (2) the additional vitamin E required to protect and metabolise dietary PUFA.
+
+#### Considerations for future recommendations
+
+From Table 3 and previously published studies, it becomes evident that recommendations for vitamin E and PUFA intake are developed and reported in various ways. The main differences are the categories and methods that are used to estimate vitamin E requirements. IoM did not distinguish between sexes, whereas DACH did. Furthermore, both reports used different age categories, which was likely the result of the age categories provided in the referenced studies. In order to allow for better comparison across studies and reports, we would like to suggest that future studies report their recommendations using standardised age categories when possible. In addition, we suggest the inclusion of an aggregate reference value for males and females combined. Finally, we recommend a standardised method for estimating vitamin E requirements.
+
+### Conclusions
+
+The main function of vitamin E is to protect lipids from oxidative damage, and a number of studies show that its requirement is related to the dietary intake of PUFA. Thus, to quantify the vitamin E requirement, a basal vitamin E requirement plus an additional vitamin E requirement for dietary PUFA is often considered. A precise vitamin E:PUFA ratio may not be applicable to all types of diet and health status. Therefore, there has been no consensus on the exact vitamin E:PUFA ratio to determine the vitamin requirement. However, the published human data for a diet with an average content of PUFA and containing mainly linoleic acid as the PUFA indicate that the additional vitamin E requirement ranges from 0-4 to 0-6 mg RRR-a-tocopherol/g of PUFA in the diet.  **We used a ratio of 0-5 mg RRR-a-tocopherol/g of linoleic acid in the diet**  and also considered the degree of unsaturation of the dietary fatty acids to evaluate the vitamin E required. 
+
+Thus, using the proposed equation, the estimated requirement for vitamin E varied from  **12 to 20 mg/d for a typical range of dietary PUFA intake** . Although more research is needed to precisely define the vitamin E requirement in humans, it is important in view of the critical interactions for health between vitamin E and PUFA to ensure an adequate intake of vitamin E in humans, particularly when the dietary PUFA intake is increased.
+
+ **Acknowledgements** 
+
+All authors contributed equally to the conception of the manuscript. D. R. drafted the manuscript. All authors gave their input and approved the final version of the manuscript.
+
+D. R., A. W., P. W. and M. E. are employees of DSM Nutritional Products Ltd, a producer of vitamin E and PUFA. P. C. C. serves on the Scientific Advisory Board of DSM.
+
+### References
+
+1. Birben E, Sahiner UM, Sackesen C, et al. (2012) Oxidative stress and antioxidant defense. World Allergy Organ J 5, 9-19.
+
+1. Niki E (2014) Role of vitamin E as a lipid-soluble peroxyl radical scavenger: in vitro and in vivo evidence. Free Radic Biol Med 66, 3-12.
+
+1. Food and Nutrition Board IoM (2000) Dietary Reference Intake for Vitamin C, Vitamin E, Selenium, and Carotenoids. Washington, DC: National Academies Press.
+
+1. DACH DGfE, Osterreichische gesellschaft fur Ernahrung, Schweizerische Gesellschaft fur Ernahrungsforschung, Schweizerische Vereinigung fur Ernahrung (2000) Referenzwerte fur die Nahrstoffzufuhr. Frankfurt am Main: DACH DGfE, Osterreichische gesellschaft fur Ernahrung, Schweizerische Gesellschaft fur Ernahrungsforschung, Schweizerische Vereinigung fur Ernahrung.
+
+1. Troesch B, Hoeft B, McBurney M, et al. (2012) Dietary surveys indicate vitamin intakes below recommendations are common in representative Western countries. Br J Nutr 108, 692-698.
+
+1. Traber MG & Atkinson J (2007) Vitamin E, antioxidant and nothing more. Free Radic Biol Med 43, 4-15.
+
+1. Traber MG & Stevens JF (2011) Vitamins C and E: beneficial effects from a mechanistic perspective. Free Radic Biol Med 51, 1000-1013.
+
+1. Pfluger P, Kluth D, Landes N, et al. (2004) Vitamin E: underestimated as an antioxidant. Redox Rep 9, 249-254.
+
+1. Brigelius-Flohe R (2006) Bioactivity of vitamin E. Nutr Res Rev 19, 174-186.
+
+1. Cooney RV, Franke AA, Harwood PJ, et al. (1993) Gamma- tocopherol detoxification of nitrogen dioxide: superiority to alpha-tocopherol. Proc Natl Acad Sci USA 90, 1771-1775.
+
+1. Dillard CJ, Gavino VC & Tappel AL (1983) Relative antioxidant effectiveness of alpha-tocopherol and gamma- tocopherol in iron-loaded rats. J Nutr 113, 2266-2273.
+
+1. Grebenstein N, Schumacher M, Graeve L, et al. (2014) a-Tocopherol transfer protein is not required for the discrimination against y-tocopherol in vivo but protects it from side-chain degradation in vitro. Mol Nutr Food Res 58, 1052-1060.
+
+1. Sontag TJ & Parker RS (2007) Influence of major structural features of tocopherols and tocotrienols on their omega- oxidation by tocopherol-omega-hydroxylase. J Lipid Res 48, 1090-1098.
+
+1. Parker RS, Sontag TJ, Swanson JE, et al. (2004) Discovery, characterization, and significance of the cytochrome P450 omega-hydroxylase pathway of vitamin E catabolism. Ann NY Acad Sci 1031, 13-21.
+
+1. Sontag TJ & Parker RS (2002) Cytochrome P450 omega-hydroxylase pathway of tocopherol catabolism. Novel mechanism of regulation of vitamin E status. J Biol Chem 277, 25290-25296.
+
+1. Swanson JE, Ben RN, Burton GW, et al. (1999) Urinary excretion of 2,7, 8-trimethyl-2-(beta-carboxyethyl)-6- hydroxychroman is a major route of elimination of gamma- tocopherol in humans. J Lipid Res 40, 665-671.
+
+1. Kramer JK, Fouchard RC & Kallury KM (1999) Determination of vitamin E forms in tissues and diets by high-performance liquid chromatography using normal-phase diol column. Methods Enzymol 299, 318-329.
+
+1. Podda M, Weber C, Traber MG, et al. (1996) Simultaneous determination of tissue tocopherols, tocotrienols, ubiquinols, and ubiquinones. J Lipid Res 37, 893-901.
+
+1. Serbinova EA & Packer L (1994) Antioxidant properties of alpha-tocopherol and alpha-tocotrienol. Methods Enzymol 234, 354-366.
+
+1. Suzuki YJ, Tsuchiya M, Wassall SR, et al. (1993) Structural and dynamic membrane properties of alpha-tocopherol and alpha-tocotrienol: implication to the molecular mechanism of their antioxidant potency. Biochemistry 32, 10692-10699.
+
+1. Yoshida Y, Niki E & Noguchi N (2003) Comparative study on the action of tocopherols and tocotrienols as antioxidant: chemical and physical effects. Chem Phys Lipids 123, 63-75.
+
+1. Muller L, Theile K & Bohm V (2010) In vitro antioxidant activity of tocopherols and tocotrienols and comparison of vitamin E concentration and lipophilic antioxidant capacity in human plasma. Mol Nutr Food Res 54, 731-742.
+
+1. Sookwong P, Nakagawa K, Yamaguchi Y, et al. (2010) Tocotrienol distribution in foods: estimation of daily tocotrienol intake of Japanese population. J Agric Food Chem 58, 3350-3355.
+
+1. Burton GW, Joyce A & Ingold KU (1982) First proof that vitamin E is major lipid-soluble, chain-breaking antioxidant in human blood plasma. Lancet ii, 327.
+
+1. Burton GW (1994) Vitamin E: molecular and biological function. Proc Nutr Soc 53, 251-262.
+
+1. EFSA Panel on Dietetic Products NaAN (2010) Scientific opinion on the substantiation of health claims related to vitamin E and protection of DNA, proteins and lipids from oxidative damage. EFSA J 8, 1816.
+
+1. Burton GW & Ingold KU (1989) Vitamin E as an in vitro and in vivo antioxidant. Ann NY Acad Sci 570, 7-22.
+
+1. Traber MG (2014) Vitamin E inadequacy in humans: causes and consequences. Adv Nutr 5, 503-514.
+
+1. Sokol RJ (1988) Vitamin E deficiency and neurologic disease. Annu Rev Nutr 8, 351-373.
+
+1. Gohil K, Vasu VT & Cross CE (2010) Dietary alpha- tocopherol and neuromuscular health: search for optimal dose and molecular mechanisms continues! Mol Nutr Food Res 54, 693-709.
+
+1. Shamim AA, Schulze K, Merrill RD, et al. (2015) First- trimester plasma tocopherols are associated with risk of miscarriage in rural Bangladesh. Am J Clin Nutr 101, 294-301.
+
+1. Bjelakovic G, Nikolova D & Gluud C (2013) Meta-regression analyses, meta-analyses, and trial sequential analyses of the effects of supplementation with beta-carotene, vitamin A, and vitamin E singly or in different combinations on all-cause mortality: do we have evidence for lack of harm? PLOS ONE 8, e74558.
+
+1. Curtis AJ, Bullen M, Piccenna L, et al. (2014) Vitamin E supplementation and mortality in healthy people: a metaanalysis of randomised controlled trials. Cardiovasc Drugs Ther 28, 563-573.
+
+1. Jiang S, Pan Z, Li H, et al. (2014) Meta-analysis: low-dose intake of vitamin E combined with other vitamins or minerals may decrease all-cause mortality. J Nutr Sci Vitaminol (Tokyo) 60, 194-205.
+
+1. Loffredo L, Perri L, Di Castelnuovo A, et al. (2015) Supplementation with vitamin E alone is associated with reduced myocardial infarction:	a meta-analysis. Nutr Metab Cardiovasc Dis 25, 354-363.
+
+1. Gey KF, Puska P, Jordan P, et al. (1991) Inverse correlation between plasma vitamin E and mortality from ischemic heart disease in cross-cultural epidemiology. Am J Clin Nutr 53, 326s-334s.
+
+1. Gey KF (1993) Prospects for the prevention of free radical disease, regarding cancer and cardiovascular disease. Br Med Bull 49, 679-699.
+
+1. Knekt P, Ritz J, Pereira MA, et al. (2004) Antioxidant vitamins and coronary heart disease risk: a pooled analysis of 9 cohorts. Am J Clin Nutr 80, 1508-1520.
+
+1. Peter S, Moser U, Pilz S, et al. (2013) The challenge of setting appropriate intake recommendations for vitamin E: considerations on status and functionality to define nutrient requirements. Int J Vitam Nutr Res 83, 129-136.
+
+1. Atkinson J, Harroun T, Wassall SR, et al. (2010) The location and behavior of alpha-tocopherol in membranes. Mol Nutr Food Res 54, 641-651.
+
+1. Atkinson J, Epand RF & Epand RM (2008) Tocopherols and tocotrienols in membranes: a critical review. Free Radic Biol Med 44, 739-764.
+
+1. Marquardt D, Williams JA, Kucerka N, et al. (2013) Tocopherol activity correlates with its location in a membrane: a new perspective on the antioxidant vitamin E. J Am Chem Soc 135, 7523-7533.
+
+1. Tanito M, Yoshida Y, Kaidzu S, et al. (2007) Acceleration of age-related changes in the retina in alpha-tocopherol transfer protein null mice fed a vitamin E-deficient diet. Invest Ophthalmol Vis Sci 48, 396-404.
+
+1. Lebold KM, Jump DB, Miller GW, et al. (2011) Vitamin E deficiency decreases long-chain PUFA in zebrafish (Danio rerio). J Nutr 141, 2113-2118.
+
+1. Miller GW, Labut EM, Lebold KM, et al. (2012) Zebrafish (Danio rerio) fed vitamin E-deficient diets produce embryos with increased morphologic abnormalities and mortality. J Nutr Biochem 23, 478-486.
+
+1. Lebold KM, Kirkwood JS, Taylor AW, et al. (2014) Novel liquid chromatography-mass spectrometry method shows that vitamin E deficiency depletes arachidonic and doc- osahexaenoic acids in zebrafish (Danio rerio) embryos. Redox Biol 2, 105-113.
+
+1. Choi J, Leonard SW, Kasper K, et al. (2015) Novel function of vitamin E in regulation of zebrafish (Danio rerio) brain lyso- phospholipids discovered using lipidomics. J Lipid Res 56, 1182-1190.
+
+1. Howard AC, McNeil AK & McNeil PL (2011) Promotion of plasma membrane repair by vitamin E. Nat Commun 2, article number 597.
+
+1. Labazi M, McNeil AK, Kurtz T, et al. (2015) The antioxidant requirement for plasma membrane repair in skeletal muscle. Free Radic Biol Med 84, 246-253.
+
+1. Mozaffarian D & Wu JH (2011) Omega-3 fatty acids and cardiovascular disease: effects on risk factors, molecular pathways, and clinical events. J Am Coll Cardiol 58, 2047-2067.
+
+1. Kwak SM, Myung SK, Lee YJ, et al. (2012) Efficacy of omega-3 fatty acid supplements (eicosapentaenoic acid and docosahexaenoic acid) in the secondary prevention of cardiovascular disease: a meta-analysis of randomized, double-blind, placebo-controlled trials. Arch Intern Med 172, 686-694.
+
+1. Kotwal S, Jun M, Sullivan D, et al. (2012) Omega 3 fatty acids and cardiovascular outcomes: systematic review and metaanalysis. Circ Cardiovasc Qual Outcomes 5, 808-818.
+
+1. Rizos EC, Ntzani EE, Bika E, et al. (2012) Association between omega-3 fatty acid supplementation and risk of major cardiovascular disease events: a systematic review and meta-analysis. JAMA 308, 1024-1033.
+
+1. Delgado-Lista J, Perez-Martinez P, Lopez-Miranda J, et al. (2012) Long chain omega-3 fatty acids and cardiovascular disease: a systematic review. Br J Nutr 107, Suppl. 2, S201-S213.
+
+1. Wen YT, Dai JH & Gao Q (2014) Effects of Omega-3 fatty acid on major cardiovascular events and mortality in patients with coronary heart disease: a meta-analysis of randomized controlled trials. Nutr Metab Cardiovasc Dis 24, 470-475.
+
+1. Miller PE, Van Elswyk M & Alexander DD (2014) Long-chain omega-3 fatty acids eicosapentaenoic acid and docosahex- aenoic acid and blood pressure: a meta-analysis of randomized controlled trials. Am J Hypertens 27, 885-896.
+
+1. von Schacky C (2015) Omega-3 fatty acids in cardiovascular disease-an uphill battle. Prostaglandins Leukot Essent Fatty Acids 92, 41-47.
+
+1. Calder PC (2014) Very long chain omega-3 (n-3) fatty acids and human health. Eur J Liprid Sci Technol 116, 1280-1300.
+
+1. DiNicolantonio JJ, Niazi AK, McCarty MF, et al. (2014) Omega-3s and cardiovascular health. OchsnerJ 14, 399-412.
+
+1. Mori TA (2014) Dietary n-3 PUFA and CVD: a review of the evidence. Proc Nutr Soc 73, 57-64.
+
+1. Harris WS (2013) Are n-3 fatty acids still cardioprotective? Curr Opin Clin Nutr Metab Care 16, 141-149.
+
+1. Skeaff CM & Miller J (2009) Dietary fat and coronary heart disease: summary of evidence from prospective cohort and randomised controlled trials. Ann Nutr Metab 55, 173-201.
+
+1. Smith SC Jr, Benjamin EJ, Bonow RO, et al. (2011) AHA,/ ACCF secondary prevention and risk reduction therapy for patients with coronary and other atherosclerotic vascular disease: 2011 update: a guideline from the American Heart Association and American College of Cardiology Foundation. Circulation 124, 2458-2473.
+
+1. Perk J, De Backer G, Gohlke H, et al. (2012) European Guidelines on cardiovascular disease prevention in clinical practice (version 2012). The fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts). Atherosclerosis 223, 1-68.
+
+1. Miller M, Stone NJ, Ballantyne C, et al. (2011) Triglycerides and cardiovascular disease: a scientific statement from the American Heart Association. Circulation 123, 2292-2333.
+
+1. Kris-Etherton PM & Innis S, American Dietician Association et al. (2007) Position of the American Dietetic Association and Dietitians of Canada: dietary fatty acids. J Am Diet Assoc 107, 1599-1611.
+
+1. EFSA Panel on Dietetic Products Nutrition and Allergies (NDA) (2010) Scientific opinion on dietary reference values for fats, including saturated fatty acids, polyunsaturated fatty acids, monounsaturated fatty acids, trans fatty acids, and cholesterol. EFSA J 8(3), 1461.
+
+1. Nodari S, Triggiani M, Campia U, et al. (2011) n-3 Polyunsaturated fatty acids in the prevention of atrial fibrillation recurrences after electrical cardioversion: a prospective, randomized study. Circulation 124, 1100-1106.
+
+1. Nodari S, Triggiani M, Manerba A, et al. (2011) Effects of supplementation with polyunsaturated fatty acids in patients with heart failure. Intern Emerg Med 6, 37-44.
+
+1. Moertl D, Hammer A, Steiner S, et al. (2011) Dose-dependent effects of omega-3-polyunsaturated fatty acids on systolic left ventricular function, endothelial function, and markers of inflammation in chronic heart failure of nonischemic origin: a double-blind, placebo-controlled, 3-arm study. Am Heart J 161, 915.e911-919.
+
+1. Miles EA & Calder PC (2012) Influence of marine n-3 polyunsaturated fatty acids on immune function and a systematic review of their effects on clinical outcomes in rheumatoid arthritis. Br JNutr 107, Suppl. 2, S171-S184.
+
+1. Koletzko B, Cetin I & Brenna JT (2007) Dietary fat intakes for pregnant and lactating women. Br J Nutr 98, 873-877.
+
+1. Palmer DJ, Sullivan T, Gold MS, et al. (2012) Effect of n-3 long chain polyunsaturated fatty acid supplementation in pregnancy on infants’ allergies in first year of life: randomised controlled trial. BMJ 344, e184.
+
+1. Harvey N, Dhanwal D, Robinson S, et al. (2012) Does maternal long chain polyunsaturated fatty acid status in pregnancy influence the bone health of children? The Southampton Women’s Survey. Osteoporos Int 23, 2359-2367.
+
+1. Appleton KM, Rogers PJ & Ness AR (2010) Updated systematic review and meta-analysis of the effects of n-3 long-chain polyunsaturated fatty acids on depressed mood. Am J Clin Nutr 91, 757-770.
+
+1. Williams CD, Whitley BM, Hoyo C, et al. (2011) A high ratio of dietary n-6/n-3 polyunsaturated fatty acids is associated with increased risk of prostate cancer. Nutr Res 31, 1-8.
+
+1. Patterson E, Wall R, Fitzgerald GF, et al. (2012) Health implications of high dietary omega-6 polyunsaturated fatty acids. J Nutr Metab 2012, 539426.
+
+1. Harris PL & Embree ND (1963) Quantitative consideration of the effect of polyunsaturated fatty acid content of the diet upon the requirements for vitamin E. Am J Clin Nutr 13, 385-392.
+
+1. Bieri JG & Poukka Evarts RH (1972) Vitamin E nutrition in the Rhesus monkey. Proc Soc Exp Biol Med 140, 1162-1165.
+
+1. Witting LA & Horwitt MK (1964) Effect of degree of fatty acid unsaturation in tocopherol deficiency-induced creatinuria. J Nutr 82, 19-33.
+
+1. Horwitt MK, Harvey CC, Duncan GD, et al. (1956) Effects of limited tocopherol intake in man with relationships to erythrocyte hemolysis and lipid oxidations. Am J Clin Nutr 4, 408-419.
+
+1. Horwitt MK (1960) Vitamin E and lipid metabolism in man. Am J Clin Nutr 8, 451-461.
+
+1. Horwitt MK (1974) Status of human requirements for vitamin E. Am J Clin Nutr 27, 1182-1193.
+
+1. Horwitt MK (1986) Interpretations of requirements for thiamin, riboflavin, niacin-tryptophan, and vitamin E plus comments on balance studies and vitamin B-6. Am J Clin Nutr 44, 973-985. 
+
+1. Valk EE & Hornstra G (2000) Relationship between vitamin E requirement and polyunsaturated fatty acid intake in man: a review. Int J Vitam Nutr Res 70, 31-42.
+
+1. Bieri JG & Evarts RP (1973) Tocopherols and fatty acids in American diets. The recommended allowance for vitamin E. J Am Diet Assoc 62, 147-151.
+
+1. Dayton S, Hashimoto S, Rosenblum D, et al. (1965) Vitamin E status of humans during prolonged feeding of unsaturated fats. J Lab Clin Med 65, 739-747.
+
+1. Lewis JS & Alfin-Slater R (1969) An E/PUFA ratio of 0.4 maintains normal plasma tocopherol levels in growing children. Fed Proc 28, 758.
+
+1. Witting LA & Lee L (1975) Dietary levels of vitamin E and polyunsaturated fatty acids and plasma vitamin E. Am J Clin Nutr 28, 571-576.
+
+1. Allard JP, Kurian R, Aghdassi E, et al. (1997) Lipid peroxidation during n-3 fatty acid and vitamin E supplementation in humans. Lipids 32, 535-541.
+
+1. Brown JE & Wahle KW (1990) Effect of fish-oil and vitamin E supplementation on lipid peroxidation and whole-blood aggregation in man. Clin Chim Acta 193, 147-156.
+
+1. Wander RC, Du SH, Ketchum SO et al. (1996) Effects of interaction of RRR-alpha-tocopheryl acetate and fish oil on low-density-lipoprotein oxidation in postmenopausal women with and without hormone-replacement therapy. Am J Clin Nutr 63, 184-193.
+
+1. Haglund O, Luostarinen R, Wallin R, et al. (1991) The effects of fish oil on triglycerides, cholesterol, fibrinogen and mal- ondialdehyde in humans supplemented with vitamin E. J Nutr 121, 165-169.
+
+1. Nair PP, Judd JT, Berlin E, et al. (1993) Dietary fish oil-induced changes in the distribution of alpha-tocopherol, retinol, and beta-carotene in plasma, red blood cells, and platelets: modulation by vitamin E. Am J Clin Nutr 58, 98-102.
+
+1. Julia C, Touvier M, Meunier N, et al. (2013) Intakes of PUFAs were inversely associated with plasma C-reactive protein 12 years later in a middle-aged population with vitamin E intake as an effect modifier. J Nutr 143, 1760-1766.
+
+1. Saboori S, Shab-Bidar S, Speakman JR, et al. (2015) Effect of vitamin E supplementation on serum C-reactive protein level: a meta-analysis of randomized controlled trials. Eur J Clin Nutr 69, 867-873.
+
+1. Guillot N, Caillet E, Laville M, et al. (2009) Increasing intakes of the long-chain omega-3 docosahexaenoic acid: effects on platelet functions and redox status in healthy men. FASEB J 23, 2909-2916.
+
+1. Vericel E, Colas R, Calzada C, et al. (2015) Moderate oral supplementation with docosahexaenoic acid improves platelet function and oxidative stress in type 2 diabetic patients. Thromb Haemost 114, 283-296.
+
+1. Muggli R (1994) Physiological requirements of vitamin E as a function of the amount and type of polyunsaturated fatty acid. World Rev Nutr Diet 75, 166-168.
+
+1. Elmadfa I & Kornsteiner M (2009) Dietary fat intake-a global perspective. Ann Nutr Metab 54, Suppl. 1, 8-14.
+
+1. Micha R, Khatibzadeh S, Shi P, et al. (2014) Global, regional, and national consumption levels of dietary fats and oils in 1990 and 2010: a systematic analysis including 266 country- specific nutrition surveys. BMJ 348, g2272.
+
+1. Linseisen J, Schulze MB, Saadatian-Elahi M, et al. (2003) Quantity and quality of dietary fat, carbohydrate, and fiber intake in the German EPIC cohorts. Ann Nutr Metab 47, 37-46.
+
+1. Witting LA (1974) Vitamin E-polyunsaturated lipid relationship in diet and tissues. Am J Clin Nutr 27, 952-959.
+
+1. Witting LA (1972) Recommended dietary allowance for vitamin E. Am J Clin Nutr 25, 257-261.

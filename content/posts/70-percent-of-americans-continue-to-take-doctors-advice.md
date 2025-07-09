@@ -23,7 +23,7 @@ by Frank Newport
 
 PRINCETON, NJ -- Despite the advent of health websites and other widely available sources providing medical research and information, 70% of Americans feel confident in the accuracy of their doctor's advice, and don't feel the need to check for a second opinion or do additional research. Americans' confidence in their doctor is up slightly from eight years ago.
 
-{IMG(attId="325")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/gallop1.gif" alt="image">
 
 November 2010: When Your Doctor Gives You Important Medical Advice, Which Comes Closer to Your View -- You Usually Feel Confident in the Accuracy of Your Doctor's Advice, or You Usually Feel It Is Necessary to Check for Second Opinions or Do Your Own Research on the Subject?
 
@@ -33,7 +33,7 @@ Older Americans are the most likely to be confident in their doctor's advice, wi
 
 While one might expect that interest in a second opinion and doing additional research would be higher among Americans with college degrees or postgraduate education, that is not the case. There is little difference in confidence in one's doctor across the educational spectrum.
 
-{IMG(attId="326")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/gallop2.gif" alt="image">
 
 November 2010: When Your Doctor Gives You Important Medical Advice, Which Comes Closer to Your View -- You Usually Feel Confident in the Accuracy of Your Doctor's Advice, or You Usually Feel It Is Necessary to Check for Second Opinions or Do Your Own Research on the Subject? By Education
 

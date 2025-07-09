@@ -32,23 +32,24 @@
 
 ## [Trimedica Just An Ounce](http://www.vitaminshoppe.com/store/en/browse/sku_detail.jsp?id=TP-2017&sourceType=cs&source=FG&cm_mmc=Shopping%20Engines-_-googleproduct-_-Just%20An%20Ounce%20Calcium%20Magnesium%20-%2016%20Ounces%20Liquid%20-%20Vitamin%20K-_-TP-2017&ci_src=14110944&ci_sku=TP-2017) Vitamin Shoppe
 
-{IMG(attId="381")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/trimedica.png" alt="image">
 
 ## [Source of Life Men Liquid](http://www.4allvitamins.com/product_info.php?products_id=1186&product_configuration_id=1544&referrer=google%20) $26 for 30 ounce  1 ounce per day, $0.81 per day
 
-{IMG(attId="379")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/mens.png" alt="image">
 
 ## [<span style="color:#090;">Osteo Density</span> – Swanson](http://www.swansonvitamins.com/LFT006/ItemDetail?n=0)  $9 for 16 ounces, 1/2 ounce per dose, so 32 doses for $9, $0.21 per day
 
 ### [Other suppliers of Osteo Density via Google Shopping](http://www.google.com/products/catalog?hl=en&biw=1103&bih=439&q=%22osteo+density%22+liquid&um=1&ie=UTF-8&cid=14284603075173101785&ei=I8kdTcjWFYy8sQP5naTcAg&sa=X&oi=product_catalog_result&ct=result&resnum=1&ved=0CDgQ8wIwAA#)
 
-{IMG(attId="380,383")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/osteodensity.png" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/osteo-density-2.png" alt="image">
 
 "The ultimate support formula for healthy bones, skin and hair,   **<span style="color:#090;">LifeTime's Osteo Density</span>**  Blend unites synergistic powerhouse nutrients for amazing results you can see and feel! Bursting with indulgent natural raspberry cream flavor, Osteo Density Blend is the luxury liquid supplement for supporting bone, skin and hair health! Osteo Density Blend features optimally balanced ratios of vitamin D, vitamin K, calcium, magnesium, manganese, boron, silica and collagen with a delectable raspberry cream flavor and natural stevia."
 
 ## [Osteo Calm Orange-Vanilla Flavor– Swanson](http://www.swansonvitamins.com/NVT009/ItemDetail?n=765+4294959867)  $23 for 30 ounce, 1 ounce per day, $0.72 per day
 
-{IMG(attId="382")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/osteo.png" alt="image">
 
 ## [Liquid Multi Vita-Mineral by Trace Minerals](http://www.911healthshop.com/vita-mineral-trace.html?mr:trackingCode=75CC9817-FA81-DE11-9973-0019B9C2BEFD&mr:referralID=NA) 32 fl oz. $23,
 
@@ -86,6 +87,6 @@ Vitamin A (as Palmitate) 5000 IU, Vitamin D3 (as Cholecalciferol) 2000 IU, Vitam
 
 ## [Ionic Fizz](http://www.swansonvitamins.com/PEL003/ItemDetail?n=765+4294959665) Swanson $25  15 oz  60 servings per package  **$0.42 per day** 
 
-{IMG(attId="378")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ionic-fizz.png" alt="image">
 
 # <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">CLICK HERE</a> for main Co-factor page

@@ -100,9 +100,9 @@ The Associated Press, Washington Post and Los Angeles Times contributed to this 
 
 * [All items in Category Noontime sun](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&sort_mode=created_desc)
 
-* <a href="/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 302">Most sunscreens actually increase the growth of skin cancer - May 2010</a>
+* [Most sunscreens actually increase the growth of skin cancer - May 2010](/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer)
 
-* <a href="/posts/tanning-from-wikipedia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 263">Tanning from Wikipedia</a>
+* [Tanning from Wikipedia](/posts/tanning-from-wikipedia)
 
 * <a href="/posts/overview-suntans-and-melanoma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans and melanoma</a>
 
@@ -118,7 +118,7 @@ The Associated Press, Washington Post and Los Angeles Times contributed to this 
 
 * [Skin Cancer Organization](http://www.skincancer.org/understanding-uva-and-uvb.html) good review of the science: UVA, UVB
 
-* <a href="/posts/uv-provides-2000-x-more-benefit-than-problem-2006" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 798">UV provides 2000 X more benefit than problem – 2006</a>
+* [UV provides 2000 X more benefit than problem – 2006](/posts/uv-provides-2000-x-more-benefit-than-problem-2006)
 
 ## [Mercola ](http://www.naturalnews.com/032815_sunscreen_chemicals.html)7 surprising things you're not supposed to know about sunscreen and sunlight exposure
 

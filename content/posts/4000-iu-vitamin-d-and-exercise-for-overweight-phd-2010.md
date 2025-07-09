@@ -59,8 +59,8 @@ Further, no differences within or between groups at 0 and 12 wks were detected f
 
 * [8500 IU average daily helped sports performance – Oct 2010](/posts/8500-iu-average-daily-helped-sports-performance)
 
-* <a href="/posts/more-than-40-ng-vitamin-d-for-athletes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 595">More than 40 ng vitamin D for Athletes – July 2010</a>
+* [More than 40 ng vitamin D for Athletes – July 2010](/posts/more-than-40-ng-vitamin-d-for-athletes)
 
-* <a href="/posts/professional-sports-team-takes-5000-iu-vitamin-d-and-wins-championship" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 293">professional sports team takes 5000 IU vitamin D and wins championship</a>
+* [professional sports team takes 5000 IU vitamin D and wins championship](/posts/professional-sports-team-takes-5000-iu-vitamin-d-and-wins-championship)
 
-* <a href="/posts/athletes-need-50-ngml-of-vitamin-d-cannell-and-hollis-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 261">Athletes need 50 ng/ml of Vitamin D – Cannell and Hollis – 2009</a>
+* [Athletes need 50 ng/ml of Vitamin D – Cannell and Hollis – 2009](/posts/athletes-need-50-ngml-of-vitamin-d-cannell-and-hollis-2009)

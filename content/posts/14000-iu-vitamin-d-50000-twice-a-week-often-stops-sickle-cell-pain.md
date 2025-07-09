@@ -112,13 +112,13 @@ Larger prospective studies with longer duration are needed to confirm these effe
 
 * [Search VitaminDWiki for "sickle cell"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22sickle+cell%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 112 items as of March 2015
 
-* <a href="/posts/sickle-cell-vitamin-d-deficiency-corrected-with-160-k-iu-loading-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sickle cell Vitamin D deficiency corrected with 160 K IU loading dose – July 2014">Sickle cell Vitamin D deficiency corrected with 160 K IU loading dose – July 2014</a>
+* [Sickle cell Vitamin D deficiency corrected with 160 K IU loading dose – July 2014](/posts/sickle-cell-vitamin-d-deficiency-corrected-with-160-k-iu-loading-dose)
 
 * <a href="/posts/hardly-any-sickle-cell-anemia-children-had-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2590">Hardly any Sickle Cell Anemia children had 30 ng of vitamin D – April 2012</a>
 
 * <a href="/posts/sickle-cell-anemia-64-percent-less-than-10ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2590">Sickle Cell Anemia 64 percent less than 10ng of vitamin D – April 2012</a>
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 326">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 > perhaps the author used 50,000 IU twice a week, after first checking that person does not have an <a href="/posts/allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2433">allergic reaction to vitamin D</a>
 

@@ -26,7 +26,7 @@ The first of a series of blogs on the topic
 
 # Contains the following graphic
 
-{IMG(attId="802")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/clinical-trial-timeline.png" alt="image">
 
 # See also VitaminDWiki
 

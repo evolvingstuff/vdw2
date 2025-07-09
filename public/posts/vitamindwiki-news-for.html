@@ -1,0 +1,125 @@
+<!doctype html><html><head><meta charset=utf-8><title>VitaminDWiki News for</title>
+<link rel=stylesheet href="/css/main.css?v=1752030352"><link rel=stylesheet href="/css/pagination.css?v=1752030352"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030352"></script><script src="/js/search.js?v=1752030352"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>VitaminDWiki News for</h1><time>June 2, 2013</time><div data-pagefind-body><p><strong>Top new VitaminDWiki pages in May 2013</strong></p><p><a href=http://is.gd/VitaminDMay2013>http://is.gd/VitaminDMay2013</a> is the home of this newsletter, were it can be read in 66+ languages</p><p><a href=/posts/group-is-giving-only-200-iu-of-vitamin-d-to-70-million-women-and-children-to-prevent-rickets>Group is giving only 200 IU of Vitamin D to 70 million women and children to prevent Rickets</a></p><p><a href=/posts/middle-ear-infection-otitis-media-and-vitamin-d-many-studies>Middle ear infection (Otitis Media) and Vitamin D – many studies</a></p><p><a href=/posts/6x-less-breast-cancer-if-have-even-minimal-vitamin-d>6X less Breast Cancer if have even minimal vitamin D – July 2013</a></p><p><a href=/posts/dark-skinned-adults-need-more-than-45-minutes-of-uk-summer-sun-daily>Dark Skinned adults need more than 45 minutes of UK summer sun daily – June 2013</a></p><p><a href=/posts/vitamin-d-benefits-matrix-examine>Vitamin D benefits Matrix - Examine May 2013</a></p><p><a href=/posts/investigation-on-roundup-glyphosate-at-vitamindwiki>Investigation on Roundup - glyphosate at VitaminDWiki</a></p><p><a href=/posts/no-longer-debating-vitamin-d-supplementation-now-debating-need-for-testing-first>No longer debating vitamin D supplementation, now debating need for testing first – April 2013</a></p><p><a href=/posts/obese-have-50-percent-less-of-two-enzymes-in-fatty-tissue-to-process-vitamin-d>Obese have 50 percent less of two enzymes in fatty tissue to process vitamin D – May 2013</a></p><p><a href=/posts/vitamin-d-might-be-able-to-slash-your-breast-cancer-risk-by-90-percent-baggerly-mercola>Vitamin D Might Be Able to Slash Your Breast Cancer Risk by 90 Percent - Baggerly, Mercola: May 2013</a></p><p><a href=/posts/magnesium-may-be-more-important-to-kids-bone-health-than-calcium>Magnesium may be more important to kids’ bone health than calcium – May 2013</a></p><p><a href=/posts/mri-fields-might-reduce-vitamin-d>MRI fields might reduce vitamin D – May 2013</a></p><p><a href=/posts/many-hints-that-vitamin-d-megadoses-cure-some-diseases>Many hints that vitamin D megadoses cure some diseases</a></p><p><a href=/posts/20-reasons-for-not-taking-vitamin-d-debunked>20 reasons for not taking Vitamin D debunked</a></p><p><a href=/posts/vitamin-d-facts-and-myths>Vitamin D - Facts and Myths</a></p><p><a href=/posts/third-study-found-that-infants-needed-1600-iu-of-vitamin-d-jama-rct>Third study found that Infants needed 1600 IU of vitamin D – JAMA RCT May 2013</a></p><p><a href=/posts/dr-cannell-on-autism-spring-2013>Dr. Cannell on Autism – Spring 2013</a></p><p><a href=/posts/near-the-end-of-pregnancy-50000-iu-vitamin-d-weekly-was-great-rct>Near the end of pregnancy 50,000 IU vitamin D weekly was great – RCT April 2013</a></p><p><a href=/posts/allergic-to-the-sun-polymorphic-light-eruption-you-may-need-uvb-or-vitamin-d>Allergic to the sun (Polymorphic light eruption) – you may need UVB or vitamin D</a></p><p><a href=/posts/lets-bring-back-vitamin-d>Let&rsquo;s bring back Vitamin D</a></p><p><a href=/posts/fewest-google-searches-for-mental-health-when-there-is-lots-of-vitamin-d-from-the-sun>Fewest Google searches for Mental Health when there is lots of vitamin D from the sun – May 2013</a></p><p><a href=/posts/nice-overview-of-vitamin-d-in-64-slides-glossmann-2013>Nice Overview of Vitamin D in 64 slides - Glossmann 2013</a></p><p><a href=/posts/needed-more-than-1600-iu-of-vitamin-d-during-pregnancy-rct>Needed more than 1600 IU of vitamin D during pregnancy – RCT May 2013</a></p><p><a href=/posts/vitamin-d-reduced-so-low-that-victorian-age-diseases-are-returning>Vitamin D reduced so low that Victorian age diseases are returning</a></p><img src=/attachments/d3.mock.jpg alt=image><h3 id=some-additional-new-images>Some additional new Images</h3><img src=/attachments/d3.mock.jpg alt=image width=500>
+<img src=/attachments/d3.mock.jpg alt=image width=500>
+<img src=/attachments/d3.mock.jpg alt=image width=500>
+<img src=/attachments/d3.mock.jpg alt=image width=500>
+<img src=/attachments/d3.mock.jpg alt=image width=500><p><strong>Update of <a href=/posts/vitamin-d-recommendations-around-the-world-iu-and-ng>Vitamin D Recommendations around the world - IU and ng</a>, the ng summary</strong></p><ul><li><p><a href=/posts/uk-spring-2013 style=color:red;text-decoration:underline title="This link has an unknown page_id: 3886">UK, Spring 2013</a> <strong><span style=color:#690>10ng/ml</span></strong></p></li><li><p><a href=/posts/institute-of-medicine-us style=color:red;text-decoration:underline title="This link has an unknown page_id: 1193">Institute of Medicine US Nov 2010</a> <strong><span style=color:#690>20ng/ml</span></strong></p></li><li><p><a href=/posts/osteoporosis-canada-sept-2010-span-stylecolor69030ngmlspan style=color:red;text-decoration:underline title="This link has an unknown page_id: 969">Osteoporosis Canada Sept 2010 <strong><span style=color:#690>>30ng/ml</span></strong></a></p></li><li><p><a href=/posts/usana-span-stylecolor69050-ngmlspan style=color:red;text-decoration:underline title="This link has an unknown page_id: 1197">USANA <strong><span style=color:#690>50 ng/ml</span></strong> </a>with graph</p></li><li><p><a href=/posts/need-span-stylecolor69030-60-ngspan-of-vitamin-d-for-good-health-grant style=color:red;text-decoration:underline title="This link has an unknown page_id: 1327">Need <strong><span style=color:#690>30-60 ng</span></strong> of vitamin D for good health – Grant Jan 2011</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1814">1800 to 4000 IU vitamin D to get <strong><span style=color:#690>30 to-44 ng</span></strong> no risk osteo - July 2010.pdf</a> file</p></li><li><p><a href=/posts/span-stylecolor690more-than-40-ngspan-vitamin-d-for-athletes style=color:red;text-decoration:underline title="This link has an unknown page_id: 595"><strong><span style=color:#690>More than 40 ng</span></strong> vitamin D for Athletes – July 2010</a></p></li><li><p><a href=/posts/poland-2009-span-stylecolor69020-ng-for-children-30-ng-for-adultsspan style=color:red;text-decoration:underline title="This link has an unknown page_id: 2719">Poland 2009 <strong><span style=color:#690>>20 ng for children, > 30 ng for adults</span></strong></a></p></li><li><p><a href=/posts/usda-vitamin-d-level-span-stylecolor690-30ngspan-and-600-mg-calcium style=color:red;text-decoration:underline title="This link has an unknown page_id: 559">USDA vitamin D level <strong><span style=color:#690>> 30ng</span></strong> and 600 mg Calcium - March 2010</a></p></li><li><p><a href=/posts/linus-pauling-institute-span-stylecolor69032-ngspan style=color:red;text-decoration:underline title="This link has an unknown page_id: 2221">Linus Pauling Institute <strong><span style=color:#690>>32 ng</span></strong> - Dec 2011</a></p></li><li><p><a href=/posts/hypothesis-span-stylecolor69040-ngspan-is-enough-vitamin-d-if-high-latitude-or-dark-skin style=color:red;text-decoration:underline title="This link has an unknown page_id: 1662">Hypothesis : <strong><span style=color:#690>40 ng</span></strong> is enough vitamin D if high latitude or dark skin</a></p></li><li><p><a href=/posts/dr-oz-recommends-span-stylecolor69050-ngmlspan-vitamin-d-blood-level style=color:red;text-decoration:underline title="This link has an unknown page_id: 442">Dr Oz recommends <strong><span style=color:#690>50 ng/ml</span></strong> vitamin D blood level</a> May 2010</p></li><li><p><a href=http://www.grassrootshealth.net/recommendation>GrassRootsHealth.net</a> 41 experts <strong><span style=color:#690>40-60 ng/ml</span></strong> after IoM report</p></li><li><p><a href=/posts/vitamin-d-should-be-span-stylecolor69048-ng-90-ngspan-heaney style=color:red;text-decoration:underline title="This link has an unknown page_id: 1947">Vitamin D should be <strong><span style=color:#690>48 ng-90 ng</span></strong> – Heaney Sept 2011</a></p></li><li><p><a href=/posts/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough style=color:red;text-decoration:underline title="This link has an unknown page_id: 2028">Is <strong><span style=color:#690>50 ng</span></strong> too high, just right, or not enough</a></p></li><li><p><a href=/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d>European Osteo group recommends 20-50 ng of vitamin D – Jan 2013</a></p></li><li><p><a href=/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng>25 experts recommend vitamin D level of min 30 ng – Nov 2009</a></p></li></ul><blockquote><p><strong>The MINIMUM recommendation = 30 ng was higher than the IoM = 20, or UK = 10</strong></p></blockquote><img src=/attachments/d3.mock.jpg alt=image><p><strong><a href=/posts/links-at-vitamindwiki>Links at VitaminDWiki</a> added in May</strong></p><ul><li><p><a href=http://www.netvibes.com/karlge#vitamin_d>Vitamin D news </a>- the last few days, from scores of sources</p></li><li><p><a href=http://www.vitaminddeficiency101.com/>Vitamin D Deficiency101</a> which had the following topics May 2013</p></li></ul><blockquote><p>Levels,Benefits, Dosage, Side Effects, and Calcium, Absorption, Metabolism, What is a Deficiency?, Deficiency Causes, Deficiency in Children, Deficiency in Women,</p></blockquote><blockquote><p>Deficiency in Men, Deficiency in Pregnancy, Deficiency Symptoms, Deficiency and Osteoporosis, Deficiency and Osteomalacia, Deficiency and Weight Gain,</p></blockquote><blockquote><p>Deficiency and Rickets, Deficiency and Multiple Sclerosis, Deficiency and Hair Loss, Deficiency and Depression, Deficiency and Fatigue,</p></blockquote><blockquote><p>Deficiency and Cancer, Deficiency and Diabetes, Deficiency and Psoriasis, Deficiency Treatment, Sun Exposure, Rich Foods,</p></blockquote><blockquote><p>Recipes - Rich Meals, Supplements, Recommended Supplements</p></blockquote><ul><li><a href="https://www.youtube.com/user/vitaminDaction?feature=watch">GrassRoots on YouTube</a> Many added in early 2013</li></ul><p><strong><a href=/posts/proof-that-vitamin-d-works>Proof that Vitamin D Works</a></strong></p><p><strong>Double-blind random-controlled-trials have proven that VITAMIN D reduces 28 health problems :</strong></p><p>Hypertension, Cardiovascular, Back Pain, Diabetes, Influenza, Falls, Hip Fractures, Breast Cancer,</p><p>Raynaud&rsquo;s pain, Menstrual Pain, C-section and pregnancy risks, Low Birth Weight, Chronic Kidney Disease,</p><p>Cystic Fibrosis, Rheumatoid Arthritis, TB, Rickets, Respiratory Tract Infection, Lupus, Sickle Cell pain,</p><p>leg ulcers, traumatic brain injury. Parkinson&rsquo;s Disease, Multiple Sclerosis, Congestive Heart Failure, Middle Ear Infection</p><p><strong>Some of the interesting studies behind paywalls this month</strong></p><p><a href=/posts/vitamin-d-statement-by-society-for-adolescent-health-and-medicine-behind-paywall>Vitamin D statement by Society for Adolescent Health and Medicine – behind paywall July 2013</a></p><p><a href=/posts/march-of-dimes-pays-for-study-of-vitamin-d>March of Dimes pays for study of Vitamin D - May 2013</a></p><p><a href=/posts/vitamin-d-protects-against-many-types-of-health-problems-review>Vitamin D protects against many types of health problems – review May 2013</a></p><p><strong>What&rsquo;s happening (or not happening)</strong></p><p>Attending <a href=/posts/16th-vitamin-d-workshop-and-vitamin-d-portion-of-endo>16th Vitamin D Workshop and Vitamin D portion of ENDO June 2013</a> in San Francisco</p><p>Creating a 5 minute animation to show people why and how they should get more vitamin D</p><p><a href=/posts/lets-bring-back-vitamin-d>Let&rsquo;s bring back Vitamin D</a> Hoped to collaborate on restoring vitamin D levels around the world, especially to those at risk</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/goal.jpg alt=image><p>no response</p><hr><h2 id=also-at-vitamindwiki>Also at VitaminDWiki</h2><ul><li><p><a href="https://www.VitaminDWiki.com/tiki-index.php?page=vdwnews">New web pages</a></p></li><li><p><a href=/posts/recently-changed-web-pages style=color:red;text-decoration:underline title="This link has an unknown page_id: 2536">Recently changed web pages</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=98%2098&amp;sort_mode=created_desc">Best/Top Vitamin D News</a> continuously updated</p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-newsletters.php?nlId=1&amp;info=1">Subscribe to this VitaminDWiki newsletter</a></p></li><li><p><a href=/posts/vitamindwiki-news-for>VitaminDWiki News for April 2013</a></p></li><li><p><a href=/posts/latest-vitamin-d-wiki-news>Latest Vitamin D Wiki News</a> June, etc.</p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-index.php?page=AboutUs">About us</a></p></li></ul><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/henry-sm.jpg alt=image></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>back pain</span>
+<span class=tag>bacteria</span>
+<span class=tag>blood levels</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>brain</span>
+<span class=tag>breast cancer</span>
+<span class=tag>breathing</span>
+<span class=tag>caesarean</span>
+<span class=tag>cancer</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>childhood viruses</span>
+<span class=tag>CKD</span>
+<span class=tag>cognitive</span>
+<span class=tag>cystic fibrosis</span>
+<span class=tag>depression</span>
+<span class=tag>depression and pregnancy</span>
+<span class=tag>dermatology</span>
+<span class=tag>diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>ear</span>
+<span class=tag>falls fractures</span>
+<span class=tag>hair</span>
+<span class=tag>heart failure</span>
+<span class=tag>high dose</span>
+<span class=tag>hip fractures</span>
+<span class=tag>hypertension</span>
+<span class=tag>influenza</span>
+<span class=tag>intervention</span>
+<span class=tag>kidney</span>
+<span class=tag>low birth weight</span>
+<span class=tag>lupus</span>
+<span class=tag>magnesium</span>
+<span class=tag>magnesium and cancer</span>
+<span class=tag>magnesium and pregnancy</span>
+<span class=tag>magnesium and viruses</span>
+<span class=tag>metabolic</span>
+<span class=tag>mood disorders</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>neurological</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>otitis media</span>
+<span class=tag>pain</span>
+<span class=tag>parkinsons</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>pregnancy</span>
+<span class=tag>psoriasis</span>
+<span class=tag>rheumatoid arthritis</span>
+<span class=tag>rickets</span>
+<span class=tag>TBI</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>trauma surgery</span>
+<span class=tag>tuberculosis</span>
+<span class=tag>virus</span>
+<span class=tag>virus and cardiovascular</span>
+<span class=tag>virus and cognitive</span>
+<span class=tag>viruses and pregnancy</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span></div><div data-pagefind-meta=tags hidden>autoimmune, autoimmune and pregnancy, back pain, bacteria, blood levels, bone, bone cancer, brain, breast cancer, breathing, caesarean, cancer, cardiovascular, child, childhood cancer, childhood viruses, CKD, cognitive, cystic fibrosis, depression, depression and pregnancy, dermatology, diabetes, dosage, ear, falls fractures, hair, heart failure, high dose, hip fractures, hypertension, influenza, intervention, kidney, low birth weight, lupus, magnesium, magnesium and cancer, magnesium and pregnancy, magnesium and viruses, metabolic, mood disorders, multiple sclerosis, multiple sclerosis and pregnancy, neurological, osteoporosis, otitis media, pain, parkinsons, pediatric autoimmune, pregnancy, psoriasis, rheumatoid arthritis, rickets, TBI, therapeutic intervention, trauma surgery, tuberculosis, virus, virus and cardiovascular, virus and cognitive, viruses and pregnancy, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030352"></script><script src="/js/tiki-redirects.js?v=1752030352"></script><script src="/js/lightspa.js?v=1752030352"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030352",indexUrl:"/search/search_index.json.gz?v=1752030352"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030352"></script></body></html>

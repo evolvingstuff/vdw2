@@ -28,7 +28,7 @@ There are so many things wrong with the IoM report.  <a href="/posts/click-here-
 
 * Here is an initial investigation into the idea that some panel members would have lost money if they said that vitamin D was good
 
-### <span style="color:#F00;">Update</span> <a href="/posts/institute-of-medicine-which-recommended-low-vitamin-d-has-many-conflicts-of-interest" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Institute of Medicine (which recommended low vitamin D) has many conflicts of interest – July 2014">Institute of Medicine (which recommended low vitamin D) has many conflicts of interest – July 2014</a>
+### <span style="color:#F00;">Update</span> [Institute of Medicine (which recommended low vitamin D) has many conflicts of interest – July 2014](/posts/institute-of-medicine-which-recommended-low-vitamin-d-has-many-conflicts-of-interest)
 
 ### [This link](http://www8.nationalacademies.org/cp/committeeview.aspx?key=49031) gives a long biography for each of the panel members
 
@@ -86,7 +86,7 @@ Dr. Sue A. Shapses, Rutgers, The State University of New Jersey, New Brunswick *
 
 The above do not cover US patent applications which the authors elected to not be public]
 
-See also <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972">Who said vitamin D could not be patented</a> at VitaminDWiki
+See also [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented) at VitaminDWiki
 
 ### Just started to search, and so far have found: **
 
@@ -132,7 +132,7 @@ Has a <a href="/posts/20-million-grant-to-study-vitamin-d-supplementation" style
 
 ## [Vitamin D Survivor](http://pandemicsurvivor.wordpress.com/) On Dec 8, 2010
 
-### See also <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972">Who said vitamin D could not be patented</a>  DeLuca  is the inventor of 101 vitamin D (analog) patents
+### See also [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)  DeLuca  is the inventor of 101 vitamin D (analog) patents
 
 ## [Life Extension Foundation found Conflict of Interest Among IOM Committee Members](http://www.lef.org/featured-articles/Federal-Government-Funded-Study-Fails-to-Recognize-Value-of-Vitamin-D_02.htm)
 
@@ -152,7 +152,7 @@ Has a <a href="/posts/20-million-grant-to-study-vitamin-d-supplementation" style
 
 ## Here is an example of the kinds of conflicts of interest that medical authors are supposed to report, but as mentioned above, fewer than 10% do
 
-{IMG(attId="331")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/conflict.gif" alt="image">
 
 ### Found an interesting web site which documents drug companies payments to doctors - just for public speaking
 
@@ -162,4 +162,4 @@ Has a <a href="/posts/20-million-grant-to-study-vitamin-d-supplementation" style
 
 #### Example
 
-{IMG(attId="413")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/dollars-to-docs.gif" alt="image">

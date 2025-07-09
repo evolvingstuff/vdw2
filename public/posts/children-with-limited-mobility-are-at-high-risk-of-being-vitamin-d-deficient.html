@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>Children with limited mobility are at high risk of being vitamin D deficient</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Children with limited mobility are at high risk of being vitamin D deficient</h1><time>June 5, 2012</time><div data-pagefind-body><h3 id=a-novel-pathway-to-reduce-vitamin-d-deficiency-in-a-high-risk-population>A novel pathway to reduce Vitamin D deficiency in a high risk population</h3><p>Arch Dis Child 2012;97:A64 doi:10.1136/archdischild-2012-301885.154</p><p>British Society of Paediatric Gastroenterology, Hepatology and Nutrition/Neonatal Nutrition Network</p><p>LC Winckworth, E Day, J Bailey, F Katz</p><p>Community Paediatrics, Camden MOSAIC CDC, London, UK</p><p>Aims – Design a screening and treatment pathway for vitamin D deficiency in a targeted high risk population of children with limited mobility</p><p>– Employ a continuous process of evaluating the steps and outcome measures resulting in ongoing service improvements</p><p>Methods Children with limited mobility attending a special school were considered “high risk” for vitamin D deficiency. The patient pathway was analysed, from initial individual identification through to sample collection, result interpretation and treatment thresholds. Steps which were more challenging to complete given local staffing and other logistical factors were highlighted. From this a new pathway algorithm, covering screening and treatment processes over a 6 month period, was implemented. The pathway was designed to continually “re-cycle”.</p><p>Clinically relevant process and outcome measures were established to monitor the success of pathway implementation. Continuous measurement was made integral to the process, allowing opportunities for improvements to the service at regular intervals.</p><p>Results 27 children were identified as “high-risk”. 74% had baseline insufficient (50-75 nmol/L) or deficient (&lt;50 nmol/L) vitamin D levels. All entered the pathway. Two cycles have been completed to date, covering 3 transition periods of doctor rotations.</p><p>After introducing the new pathway, there have been significant improvements in several clinically-relevant areas. A greater proportion of “high-risk” children are being appropriately screened (P 0.03) and started successfully on the correct vitamin D replacement therapy (P 0.02). After completing one cycle, significantly more had vitamin D levels in the acceptable range (P&lt;0.05) and underwent appropriate hip radiology screening (P &lt; 0.01).</p><p>Parents identified compliance-increasing aspects of the programme as:</p><p>the school-based screening and medication prescriptions being issued by post, rather than by appointment.</p><p>Conclusions High risk groups require robust vitamin D screening and treatment programmes. Using a school-based surveillance pathway with clear time-defined steps prevents delays caused by logistical factors, including potential disruptions from the six monthly rotations of doctors running the programme, and the difficulties faced by families in accessing hospital-based clinics. The process of continuous evaluation improves service planning, provision and patient care. All of these result in better standards of care for vulnerable children.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>child</span>
+<span class=tag>Infant-Child</span>
+<span class=tag>Shut-in</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>blood levels, child, Infant-Child, Shut-in, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

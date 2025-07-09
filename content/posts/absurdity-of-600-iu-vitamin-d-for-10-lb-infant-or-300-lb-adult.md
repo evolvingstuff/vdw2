@@ -35,7 +35,7 @@ Few nutrients or hormones (in fact, I can't think of a single one) are required 
 
 # Need to add vitamin D for each of the following reasons
 
-{IMG(fileId="1683"max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 ## Unhealthy people need even more vitamin D
 
@@ -45,19 +45,19 @@ Few nutrients or hormones (in fact, I can't think of a single one) are required 
 
 * <a href="/posts/overview-seniors-lack-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview Seniors lack Vitamin D</a>
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [All items tagged latitude](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=63&sort_mode=created_desc)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a> not even mentioned above
 
 * <a href="/posts/recommendations-of-vitamin-d-iu-and-ng-around-the-world" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Recommendations of vitamin D IU and ng around the world</a> US is NOT the worst!
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766">Overview - How much vitamin D</a>
+* [Overview - How much vitamin D](/posts/overview-how-much-vitamin-d)
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [An official reviewer of the IOM vitamin D report makes his opinion known – Jan 2011](/posts/an-official-reviewer-of-the-iom-vitamin-d-report-makes-his-opinion-known)
 
@@ -69,7 +69,7 @@ Few nutrients or hormones (in fact, I can't think of a single one) are required 
 
 # IU vs Age (and done poorly, at that) - by I o M
 
-{IMG(fileId="1637"max="300")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 300px;">
 
 # Vitamin D deficiency is a complex topic
 

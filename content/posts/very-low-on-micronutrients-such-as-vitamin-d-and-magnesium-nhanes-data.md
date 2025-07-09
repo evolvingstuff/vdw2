@@ -70,7 +70,7 @@ Manuscript received: March 31, 2011;     Initial review completed: May 2, 2011; 
 
 * <a href="/posts/13-percent-decrease-in-vitamin-d-levels-over-13-years-corrected-nhanes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2393">13 percent decrease in vitamin D levels over 13 years – corrected NHANES Feb 2012</a> lots of details
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a> which contains the following graph for vitamin D from the same NHANES data
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) which contains the following graph for vitamin D from the same NHANES data
 
 # Only a tiny number of Americans eat even the "minimum wage" of vitamin D
 
@@ -86,10 +86,10 @@ Note that this shows American Vitamin D intake deficiency:
 
 *  **<span style="color:#F00;">0% of seniors</span>**  (over age 71)
 
-{IMG(fileId="1208")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 # Only half as many people had >30 ng of vitamin D 16 years later
 
 ### Approximately 44% in 1988 and 22% by 2004
 
-{IMG(fileId="178")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">

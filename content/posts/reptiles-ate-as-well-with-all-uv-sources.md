@@ -49,7 +49,7 @@ Article mentions that perhaps none of the UV sources were been strong enough
 
 UV-B radiation levels were measured using a digital ultraviolet radiometer (ZooMed Laboratories, 3650 Sacramento Drive, San Luis Obispo, CA 93401; Digital Ultraviolet Radiometer Item # ST-6).
 
-{IMG(attId="429")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/bearded-dragon-uv-jan-2011.gif" alt="image">
 
 - - - - - - - - 
 

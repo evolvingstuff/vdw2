@@ -53,6 +53,6 @@ Our findings suggest that shade and protective clothing may be more effective th
 
 * <a href="/posts/overview-suntans-and-melanoma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans and melanoma</a>
 
-* <a href="/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 302">Most sunscreens actually increase the growth of skin cancer - May 2010</a>
+* [Most sunscreens actually increase the growth of skin cancer - May 2010](/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer)
 
-* <a href="/posts/shade-reduces-uv-by-3x-at-noon" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 110">Shade reduces UV by 3X at noon</a>
+* [Shade reduces UV by 3X at noon](/posts/shade-reduces-uv-by-3x-at-noon)

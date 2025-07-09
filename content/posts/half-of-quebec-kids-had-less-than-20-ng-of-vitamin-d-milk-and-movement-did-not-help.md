@@ -56,4 +56,4 @@ European Journal of Clinical Nutrition advance online publication, 2 March 2011;
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)

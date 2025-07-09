@@ -131,21 +131,21 @@ Plants are sessile organisms, and consequently cannot avoid exposure to stressfu
 
 * LED Grow Light Spectrum - added Nov 2011
 
-{IMG(attId="883")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/led-grow-lights-diy.jpg" alt="image">
 
 ---
 
 #### See also VitaminDWiki
 
-* <a href="/posts/get-active-vitamin-d-by-eating-solanum-glaucophyllum-leaves" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Get active vitamin D by eating Solanum Glaucophyllum leaves – Sept 2013">Get active vitamin D by eating Solanum Glaucophyllum leaves – Sept 2013</a>
+* [Get active vitamin D by eating Solanum Glaucophyllum leaves – Sept 2013](/posts/get-active-vitamin-d-by-eating-solanum-glaucophyllum-leaves)
 
 * [Overview UV and Vitamin D](/posts/overview-uv-and-vitamin-d)
 
-* <a href="/posts/various-plants-have-vitamin-d3-and-d2-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Various plants have vitamin D3 and D2 – review May 2013">Various plants have vitamin D3 and D2 – review May 2013</a>
+* [Various plants have vitamin D3 and D2 – review May 2013](/posts/various-plants-have-vitamin-d3-and-d2-review)
 
-* <a href="/posts/pre-cursor-of-active-vitamin-d-made-from-plants-is-better-than-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pre-cursor of active vitamin D made from plants is better than calcitriol – Sept 2012">Pre-cursor of active vitamin D made from plants is better than calcitriol – Sept 2012</a>
+* [Pre-cursor of active vitamin D made from plants is better than calcitriol – Sept 2012](/posts/pre-cursor-of-active-vitamin-d-made-from-plants-is-better-than-calcitriol)
 
-* <a href="/posts/some-plants-accumulate-vitamin-d3-or-active-vitamin-d3-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some plants accumulate Vitamin D3 or active Vitamin D3 (calcitriol) – Dec 2018">Some plants accumulate Vitamin D3 or active Vitamin D3 (calcitriol) – Dec 2018</a>
+* [Some plants accumulate Vitamin D3 or active Vitamin D3 (calcitriol) – Dec 2018](/posts/some-plants-accumulate-vitamin-d3-or-active-vitamin-d3-calcitriol)
 
 * [Vitamin D3 for Vegans - many studies](/posts/vitamin-d3-for-vegans-many-studies)
 

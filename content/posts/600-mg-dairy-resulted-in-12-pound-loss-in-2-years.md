@@ -66,7 +66,7 @@ The highest amount was between 2-3 cups dairy not just milk.
 
 ## Here is a graph of weight loss on the three diet plans previously reported
 
-{IMG(attId="295" max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/weight-loss-on-diets---2008.gif" alt="image" style="max-width: 500px;">
 
 # See also at VitaminDWiki
 

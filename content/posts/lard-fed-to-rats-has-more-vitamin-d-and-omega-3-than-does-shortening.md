@@ -1,0 +1,255 @@
+{
+    "title": "Lard fed to rats has more vitamin D and Omega-3 than does shortening",
+    "slug": "lard-fed-to-rats-has-more-vitamin-d-and-omega-3-than-does-shortening",
+    "aliases": [
+        "/Lard+fed+to+rats+has+more+vitamin+D+and+Omega-3+than+does+shortening+\u2013+Dec+2015",
+        "/7176"
+    ],
+    "tiki_page_id": 7176,
+    "date": "2015-12-14",
+    "categories": [
+        "Food sources for Vitamin D",
+        "Obesity"
+    ],
+    "tags": [
+        "Food sources for Vitamin D",
+        "Obesity",
+        "atherosclerosis",
+        "brain",
+        "cancer",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "cholesterol",
+        "cognitive",
+        "diabetes",
+        "dosage",
+        "health risk",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "obesity",
+        "obesity and cancer",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "pregnancy",
+        "stroke",
+        "vitamin d"
+    ]
+}
+
+
+**A comparison of effects of lard and hydrogenated vegetable shortening on the development of high-fat diet-induced obesity in rats** 
+
+Nutrition & Diabetes (2015) 5, e188; doi:10.1038/nutd.2015.40, Published online 14 December 2015
+
+R Kubant1, A N Poon1, D Sánchez-Hernández1, A F Domenichiello1, P S P Huot1, E Pannia1, C E Cho1, S Hunschede1, R P Bazinet1 and G H Anderson1,2
+
+1 Department of Nutritional Sciences, Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada
+
+2 Department of Physiology, Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada
+
+Correspondence: Professor GH Anderson, Department of Nutritional Sciences, Faculty of Medicine, University of Toronto, 150 College Street, Room 322, Toronto, Ontario, Canada M5S 3E2. E-mail: harvey.anderson@utoronto.ca
+
+Received 23 June 2015; Revised 6 November 2015; Accepted 15 November 2015
+
+<div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+
+Have not yet had a chance to fully read this study.
+
+Ii appears that Lard fed to rats have more Vitamin D than Lard for human 
+
+&nbsp; &nbsp; (For humans ZERO Vitamin D now that pigs are raised indoors)
+
+</div>
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/lard-rats.pdf">Download the PDF from VitaminDWiki</a>** 
+
+{{< toc >}}
+
+Background: Obesity is associated with increased consumption and preference for dietary fat. Experimental models of fat-induced obesity use either lard or vegetable shortening. Yet, there are no direct comparisons of these commonly used fat sources, or the influence of their fatty acid composition, on the development of diet-induced obesity.
+
+Objective: To compare the effects of lard and hydrogenated vegetable-shortening diets, which differ in their fatty acid composition, on weight gain and the development of obesity and insulin resistance in rats.
+
+Methods and design: Male Wistar rats were fed ad libitum for 14 weeks high-fat diets containing either (1) high vegetable fat (HVF, 60 kcal% from vegetable shortening) or (2) high lard fat (HLF, 60 kcal% from lard). Rats fed normal-fat (NF, 16 kcal% from vegetable shortening) diet served as control. Body weight, food intake, adipose tissue mass, serum  **25<span>[OH]</span>D3** , glucose, insulin and fatty acid composition of diets were measured.
+
+Results: Rats fed either of the two high-fat diets had higher energy intake, weight gain and fat accretion than rats fed normal-fat diet. However, rats fed the HLF diet consumed more calories and gained more weight and body fat with greater increases of 32% in total (158.5±8.2 vs 120.2±6.6 g, P<0.05), 30% in visceral (104.4±5.2 vs 80.3±4.2 g, P<0.05) and 36% in subcutaneous fat mass (54.1±3.6 vs 39.9±3.1 g, P<0.05), compared with rats fed the HVF diet. Higher visceral adiposity was positively correlated with serum insulin (r=0.376, P<0.05) and homeostatic model assessment insulin resistance (r=0.391, P<0.05).
+
+Conclusion: We conclude that lard-based high-fat diets accentuate the increase in weight gain and the development of obesity and insulin resistance more than hydrogenated vegetable-shortening diets. These results further point to the importance of standardizing fatty acid composition and type of fat used in determining outcomes of consuming high-fat diets.
+
+#### Introduction
+
+Obesity is associated with increased energy consumption and preference for dietary fat.1 In addition, the influence of the type of fat consumed on health has been debated for years and vegetable oil is recommended over animal fats for the reduction of cardiovascular disease and oxidative stress,2, 3, 4, 5 which has resulted in an increased intake of omega-6 fatty acids, especially linoleic acid (LA).6
+
+To investigate the role of high-fat diets in human obesity, animal models are often utilized.7 Many studies in rodents use either animal fat (lard) 8, 9 or hydrogenated vegetable oil (shortening).10, 11 In addition, at least two types of vegetable shortening are used to formulate animal high-fat diets (partially hydrogenated soybean/palm oils or partially hydrogenated soybean/cottonseed oils), which differ greatly in their fatty acid composition. Yet, there are almost no reports of a direct comparison of these commonly used fat sources on the development of diet-induced obesity. Only one study 12 directly compared growth-promoting properties of lard and vegetable shortening (Crisco) and found no differences in weight gain between these two groups, but neither the type of vegetable shortening nor the fatty acid composition was reported.
+
+Finally, the fatty acid composition of fats used in experimental diets is often based on the USDA tables 13 rather than being directly measured. A recent report 14 showed almost twice the amount of LA present in lard than is reported by USDA. Higher LA content in high-fat diets has been linked to hyperphagia, increased adiposity via activation of the brain’s endocannabinoid system,15, 16 and related insulin resistance,17 supporting the need to directly measure fatty acid composition including LA in fat sources to determine their role in the development of obesity.
+
+Therefore, to better understand the functional importance of the source and composition of fat in commonly used experimental high-fat diets, we compared the effects of lard- and vegetable-fat diets on energy intake, body composition and insulin resistance in rats. Adiposity and insulin resistance were the primary dependent measures. Moreover, because lard contains naturally high amounts of  **vitamin**  D (USDA nutrient database13),  **vitamin**  D in the diets and blood was also measured as low  **vitamin**  D status has been associated with obesity and characteristics of the metabolic syndrome.18, 19, 20
+
+#### Materials and methods
+
+Animals and diets
+
+Male Wistar rats at 21 days of age were purchased from Charles River Inc., (Senneville, Quebec, Canada). Upon arrival, animals were housed individually and maintained on a 12-h light–dark cycle (light on at 0700 h at 22±1 °C) and had ad libitum access to water via an automatic water-dispensing system (Allentown Inc., Allentown, NJ, USA). All the procedures were approved by the University of Toronto Institutional Animal Care and Use Committee. Our study was unblinded, randomized and used a sample size of 10 animals per group. A sample size of 10 was required to detect 10% differences in our primary outcome measures (adiposity and insulin resistance) among treatment groups based on a priori power analysis (power=0.80). Animals were allocated into three groups using an online randomization tool (www.graphpad.com/quickcalcs), and assigned to receive one of three custom-formulated AIN-93G-based pelleted diets (Dyets, Bethlehem, PA, USA) ad libitum for 14 weeks. Group 1 was fed a high-vegetable-fat diet (HVF, 60 kcal% from vegetable shortening); Group 2, a high-lard-fat diet (HLF, 60 kcal% from lard). Group 3, normal-fat (NF, 16 kcal% from vegetable shortening) diet served as ‘negative’ control and was primarily used to evaluate the magnitude of the effect(s) owing to the exposure to high-fat diets. The kilocalorie was used as a unit of energy.  **vitamin** s and minerals were added on the basis of the energy density of the diets consistent with that of the AIN93G diet.21  **vitamin**  D amounts in the diets were confirmed by an analytical testing laboratory (Maxxam Analytics, Mississauga, ON, Canada) and were as follows: NF (~22 IU per 100 kcal), HVF (~22 IU per 100 kcal) and HLF (~25 IU per 100 kcal). Diet compositions are presented in Supplementary Table 1. Primex pure vegetable shortening, a mixture of partially hydrogenated soybean and palm oil, was used by Dyets Inc. (Bethlehem, PA, USA) to formulate NF and HVF experimental diets.
+
+The fatty acid composition of each diet (Table 1) was measured by gas chromatography with flame ionization detection as described below. Pelleted diets were ground using a glass mortar and pestle. Approximately 0.3 g of diet was added to 4 ml chloroform and 2 ml methanol and stored at 3 °C overnight. To this, 1.75 ml of 0.88% KCl was added and the mixture was centrifuged and the chloroform was extracted. Another 4 ml of chloroform was added to the methanol and KCl and the chloroform was extracted again and added to the total lipid extract from the previous step. A portion of total lipid extract was transmethylated using 14% boron trifluoride in methanol and fatty acid methyl esters (FAME) were extracted with hexane and quantified using gas chromatography with flame ionization detection as previously described.22 Fatty acid methyl esters were analyzed using a Varian-430 gas chromatograph (Varian, Lake Forest, CA, USA) equipped with a Supelco capillary column (SP-2560; 100 m × 0.25 mm inner diameter × 0.20 μm film thickness) and a flame ionization detector. Samples were injected in splitless mode. The injector and detector ports were set at 250 °C. Fatty acid methyl esters were eluted using a temperature program set initially at 60 °C for 2 min, increasing at 10 °C min−1 to 170 °C, and held at 170 °C for 4 min, then increasing at 6.5 °C min−1 to 175 °C, 2.6 °C min−1 to 185 °C and 1.3 °C min−1 to 190 °C, increasing at 8 °C and held at 240 °C for 11 min to complete the run at 42.71 min. The carrier gas was helium, set to a constant flow rate of 3 ml min−1. Peaks were identified by retention times of authentic fatty acid methyl ester standards (Nu-Chek Prep, Inc., Elysian, MN, USA). The concentration of each fatty acid was expressed as percent of total energy.
+
+ **Table 1**  - Fatty acid composition of experimental diets.
+
+#### Body weight, energy intake, feed efficiency and LA intake
+
+Body weight was measured from 0900 h to 1000 h once a week for 14 weeks until termination. Food intake (g) was measured once a week and presented as energy intake (kcal per day). The feed efficiency was calculated as a ratio between total body weight gain and cumulative energy intake after 14 weeks on the respective diets.
+
+To better describe the relationship between obesity, insulin resistance and LA content, we calculated estimates of average daily LA intake from the diets; research has demonstrated a positive correlation between LA intake and increased fasting insulin, insulin resistance and adiposity.17 Average daily LA intake (mg) was calculated by multiplying average daily energy intake (kcal) by known concentrations of LA in the diets (mg kcal−1) and by 0.994 (99.4% is the digestion efficiency of LA in Wistar rats23).
+
+#### In vivo magnetic resonance imaging evaluation of adipose tissue mass
+
+In vivo magnetic resonance imaging (MRI) analysis was conducted before animals were killed to measure changes in the subcutaneous and visceral fat compartments. MRI images were acquired at the STTARR Imaging Centre (Toronto, ON, Canada) using a 7 Tesla BioSpec 70/30 USR (Bruker Corporation, Ettlingen, DE, USA), equipped with a B-GA20S gradient coil and 15.5 cm inner diameter quadrature volume coil. Rats were anesthetized and oriented centrally within the radiofrequency coil, and placed in the prone position upon padding. Isoflurane at 1.8% was delivered via nose cone. The slice package consisted of a set of 27 coronal two-dimensional T2-weighted rapid acquisition with relaxation enhancement slices, with 2 mm thickness (54 mm of anterior–posterior coverage). Nine data averages were acquired to reduce respiratory artifacts, resulting in an average acquisition time of 10 min 24 s per animal. MRI data were analyzed using three-dimensional MIPAV (medical image processing, analysis and visualization) software version 7.0.1 (NIH, Bethesda, MD, USA). Visceral and subcutaneous fat pads were segmented semiautomatically by an independent operator on each MR image by selecting a signal intensity threshold value for adipose tissue, followed by manual adjustment. Adipose volume was then converted to grams of fat mass on the assumption of a fat density of 0.9 g cm−3,24 and presented as a percentage of total body mass on the day of the scan.
+
+#### Tissue and serum collection
+
+At the end of week 14, rats were killed by decapitation using a small decapitator guillotine (Harvard Apparatus, Holliston, MA, USA) after a 10 h overnight fast. Blood was collected in serum collection tubes (BD, Franklin Lakes, NJ, USA) and serum was obtained by centrifugation at 1000 g for 15 min. Serum aliquots were immediately placed on dry ice and transferred to a −80 °C freezer for later analyses. Because MRI did not allow for accurate measurement of individual compartments of visceral fat, the epididymal, mesenteric and retroperitoneal fat pads were dissected post-mortem and weighed. Adipose mass (g) was further adjusted for total body weight and presented as percent body weight.
+
+#### Biochemical serum measurements
+
+Fasting glucose concentrations were determined using a one-touch glucometer (Accu-Chek Compact Plus, Roche Diagnostics, Indianapolis, IN, USA). Rat insulin (cat. #EZRMI-13 K, intra-CV: <3%; inter-CV: <8%) levels were measured with commercial ELISA kits (Millipore, Billerica, MA, USA). Insulin resistance and insulin sensitivity were evaluated via surrogate indexes: the homeostatic model assessment insulin resistance (HOMA-IR) and the quantitative insulin sensitivity check index (QUICKI). HOMA-IR and QUICKI were calculated from fasting serum glucose (FG, mg dl−1) and insulin (FI, μU ml−1) using the following formulae:25 <span>[HOMA-IR=(FG × FI)÷2430]</span> and QUICKI=1÷<span>[log (FG)+log (FG)]</span>.  **vitamin**  D status was assessed by measuring the 25-hydroxy **vitamin**  D3  **25<span>[OH]</span>D3**  levels in rat serum by electrochemiluminescence immunoassay at the Mount Sinai Hospital (Toronto, ON, Canada) on Roche Modular E170 Analyzer (Roche Diagnostics, Basel, Switzerland).
+
+#### Statistical analysis
+
+SAS statistical software (Version 9.3 SAS Institute Inc., Cary, NC, USA) was used for all analyses. Normality of distributions was confirmed by histogram and Kolmogorov–Smirnov test before statistical analysis. Changes in energy intake and body weight over time were analyzed using repeated-measures analysis of variance using Proc Mixed model procedure. When a significant interaction was found, one-way analysis of variance by Proc Glm followed by Tukey’s HSD post hoc test was used to determine if there were significant differences among treatment groups at each week of the experiment. One-way analysis of variance was also used to test the main effects of experimental diets on body weight, serum insulin,  **25<span>[OH]</span>D3**  and adipose mass. Pearson's correlation coefficients were used to evaluate the associations between adiposity measures and both serum insulin and HOMA-IR. A Bland–Altman analysis was conducted to compare the two experimental methods for determining visceral adiposity: the MRI to the necropsy method. All the data were expressed as mean±s.e.m. Statistical significance was declared at P<0.05.
+
+#### Results
+
+Body weight, energy intake, feed efficiency and LA intake
+
+A repeated-measures mixed model analysis of variance revealed significant main effects of diets (P<0.05), time (P<0.05) and a significant interaction (P<0.05) on body weight. As shown in Figure 1 throughout the 14-week period, the rats fed both high-fat diets, on average, gained more weight than those fed NF diet. Starting at week 7, body weight was significantly different between all the dietary groups where the pattern observed was as follows: NF<HVF<HLF. The HLF group (532.6±14.3 g) was ~9% heavier than the HVF group (490.4±8.9 g) and ~23% heavier than the NF group (432.9±6.5 g). This difference continued to increase until week 14 where the HLF group (775±19.2 g) had ~15% greater body weight than the HVF group (672.3±14.3, P<0.05) and ~31% greater body weight than the NF group (592.5±9.5 g, P<0.05).
+
+ **Figure 1.** 
+
+Body weight of rats fed experimental diets over 14 weeks. Different superscript letters identify significant differences between the groups and within each week (P<0.05). Values are mean±s.e.m, n=10 per group.
+
+Energy intake was affected by diet (P<0.05), time (P<0.05) and diet and time (P<0.05) interaction (Figure 2). Energy intake followed patterns similar to body weight, where energy intake was highest in rats fed the HLF diet compared with rats fed either the HVF or the NF diet. Furthermore, average energy intake (kcal per day) over the 14-week period also varied significantly between all the groups, where the rats fed the HLF group had the highest energy intake (125.3±2.2) compared with the rats fed both the HVF (115.5±2.2) and the NF diet (99.8±2.2). In addition, cumulative energy intake (kcal) after 14 weeks on diets was also significantly different between all three diet groups. However, rats fed the HLF diet had the highest cumulative caloric intake compared with animals fed either the HVF or the NF diet. Feed efficiency was not different between the NF and HVF groups. There was ~9% higher body weight gain per 100 kcal of diet consumed in the HLF group compared with the HVF group (P<0.05; Table 2).
+
+ **Figure 2.** 
+
+Energy intake of rats fed experimental diets over 14 weeks. Different superscript letters identify significant differences between the groups and within each week (P<0.05). Values are mean±s.e.m, n=10 per group.
+
+ **Table 2**  Effects of diets on body weight, energy intake, feed efficiency and adipose tissue mass dissected during necropsy at week 14 
+
+Last, rats in the HLF group consumed on average ~3.2-fold (P<0.05) more of LA than those in the HVF group (1556±33 vs 492±13 mg per day, respectively). Average LA intake in the NF group (136±2 mg per day) was significantly lower compared with either of the other two high-fat groups.
+
+#### Adiposity
+
+In vivo MRI analysis demonstrated differences in fat mass accretion between the groups. Representative MRI images of rats fed experimental diets, and total, visceral and subcutaneous adipose tissue mass are presented in (Figure 3). As expected, all animals on high-fat diets had greater fat mass than animals on the recommended fat diet. However, rats fed the high-lard-fat diet accumulated the most fat (g) and had ~32% (158.5±8.2 vs 120.2±6.6, P<0.05), 30% (104.4±5.2 vs 80.3±4.2, P<0.05) and 36% (54.1±3.6 vs 39.9±3.1, P<0.05) higher total, visceral and subcutaneous fat mass, respectively, compared with rats fed the high-vegetable-fat diet. There was a similar pattern of change in body composition in response to diets measured by weighing visceral fat pads dissected during necropsy (Table 2). The Bland–Altman analysis was used to compare the mass of adipose tissue (percent body weight) calculated from MRI analyses with the mass measured at necropsy (Supplementary Figure 1). The two methods delivered very similar results, and the bias (difference between the means) was only 0.8. The 95% limits of agreement were between −2.44 to 0.84.
+
+ **Figure 3** 
+
+Representative MRI images of rats fed experimental diets; 
+
+Total, visceral (VAT) and subcutaneous (SAT) fat mass (g); and (c) calculated as percentage of total BW. Different superscript letters identify significant differences between the groups at week 14 (P<0.05). Values are mean±s.e.m, n=10 per group. BW, body weight.
+
+Serum glucose, insulin and surrogate indices of insulin resistance
+
+Greater visceral adiposity observed in the HLF diet was accompanied by higher circulating insulin levels (Table 3). A positive correlation was found between visceral fat mass and serum insulin (r=0.376, P<0.05). Serum insulin levels in the HLF group were ~35% higher compared with the HVF group (93.4±6.2 vs 69.1±5.6 μU ml−1, P<0.05). Serum insulin levels in the HVF and the NF groups were similar even though the former were significantly fatter.
+
+ **Table 3**  - Serum parameters of rats fed experimental diets at week 14.
+
+Insulin resistance and insulin sensitivity were evaluated by calculating the HOMA-IR and QUICKI indices. The HLF rats had higher HOMA-IR (4.94±0.35 vs 3.56±0.27, P<0.05) and lower QUICKI (0.246±0.002 vs 0.255±0.002, P<0.05) than the HVF group; HVF and NF groups were not different. HOMA-IR was positively and significantly correlated with visceral adiposity (r=0.391, P<0.05).
+
+####  **vitamin**  D status
+
+As a secondary measure, we examined the effects of the experimental diets on  **vitamin**  D status. The HLF group had higher levels (44.1±2.9 nmol l−1) of  **25<span>[OH]</span>D3**  in serum compared with both the HVF (25.7±2.0 nmol l−1, P<0.05) and the NF (25.0±1.4 nmol l−1, P<0.05), respectively, consistent with the presence of  **vitamin**  D in lard. Serum  **25<span>[OH]</span>D3**  levels were positively and significantly (P<0.05) correlated with serum insulin (r=0.356) and HOMA-IR and (r=0.418), but not with serum glucose (r=0.191, P=0.32).
+
+#### Discussion
+
+This study shows that the fatty acid composition of a diet impacts energy intake and body weight as well as body composition over a prolonged period in rats. It also demonstrates the importance of elucidating the fatty acid composition in the fat source used in test diets aimed at examining the role of dietary fats as determinants of obesity. Rats fed the HLF diet consumed more calories, gained more weight and body fat than those fed the high-fat diet with vegetable shortening. Rats fed the high-lard-fat diet also developed insulin resistance associated with increased visceral adiposity.
+
+The lard diet was included as a test group for three reasons. First, high-fat diets are based most frequently on either lard or partially hydrogenated vegetable oils. Second, lard contains significant amounts of LA, dependent on the animal feed used to produce lard, which has been associated with hyperphagia and excessive adipose tissue development. 15, 16 Third, lard is naturally rich in  **vitamin**  D, which may act to reduce the metabolic consequences associated with obesity, as suggested by other investigators. 18, 19, 20
+
+All the animals fed high-fat diets exhibited increased weight gain consistent with higher energy intake. However, the HLF group consumed more calories than the HVF group. There are several possible reasons for this. First, overconsumption in the HLF diet may be owing to the rats’ strong preference for the taste of fat sources containing long-chain fatty acids (that is, oleic and linoleic)26 as the voluntary food intake was higher in rats fed the HLF diet despite being similar in caloric content to the HVF diet. Second, we found the polyunsaturated content (by weight) of the HLF diet to be 20.2%, 18.8% having been attributed by LA, which is much higher than the USDA database report of 11.2% polyunsaturated fatty acids (LA content was not reported).13 This discrepancy between the USDA database and our measured result is important, as it confirms the need to directly measure fatty acid composition in fat sources used in studies looking at the effect(s) of fat intake on obesity. Third, saturated fat in high-fat diets may have also contributed to the increased fat accretion observed in HLF group; however, because the HLF diet was only 3% higher in saturated fats than the HVF diet but threefold higher in LA, and high LA intake has been linked to overeating and obesity,15, 16 it is plausible that in our study LA was a greater contributor to the increase in energy intake and adiposity than saturated fats. In addition to greater energy intake, the HLF group had the highest feed efficiency, consistent with previous observations showing that lard is more easily absorbed than palm oil-based vegetable shortening.27 The HVF and NF groups had similar feed efficiencies, demonstrating that the greater weight and fat gain in the HVF group was owing to higher energy consumption from the more energy-dense diet.
+
+Difference in fat mass accumulation in response to diets was confirmed by in vivo MRI analysis and necropsy and supports other observations28 that MRI analysis is an accurate and valid method for monitoring the progression of adiposity in vivo. Increased visceral adiposity, particularly mesenteric fat, found in the HLF group was associated with hyperinsulinemia and insulin resistance, which is consistent with other research studies.29, 30 Likewise, lard ingestion has been previously shown to independently increase plasma insulin concentrations measured a few hours after ‘lights on’ and ‘the last meal of the night’ and to associate with increased abdominal adiposity in rats.31 Furthermore, we found that HLF group had higher LA intake and higher HOMA-IR, consistent with other reports showing that consumption of diets rich in LA is positively associated with increased fasting insulin, insulin resistance and adiposity.17 However, there was no difference in circulating insulin and HOMA-IR between rats that consumed the NF and the HVF diets. These results may suggest that the HVF group did not have sufficient time to accumulate enough visceral fat mass above the threshold at which insulin sensitivity is significantly reduced. This was not the case for the HLF group exhibiting enhanced visceral fat deposition associated with increased energy intake and higher energy retention.
+
+In contrast to previous studies in humans that have associated obesity with decreased bioavailability of  **vitamin**  D,32, 33 there were no differences in serum  **vitamin**  D levels between NF and HVF groups even though body fat was much higher in the HVF group. The latter may suggest that, at least in rats,  **vitamin**  D status does not deteriorate with obesity or with high-fat consumption per se if  **vitamin**  D intake is satisfactory. To provide a definite answer to this question, a measure of  **vitamin**  D levels in adipose tissue would be required and is recommended for all the studies assessing  **vitamin**  D status in obese subjects. Even though the HLF diet significantly increased  **vitamin**  D status in rats, there was no evidence suggesting that the  **vitamin**  D content of lard is protective against the development of high-fat diet-induced weight gain or insulin resistance, as shown by other investigators;18, 19, 20 it is also plausible that these effects, if any, may be overridden by the influence of lard. Similarly, no effect of  **vitamin**  D supplementation on weight reduction 34 or improvement in cardiovascular disease risk markers (that is, glucose tolerance, blood pressure and serum lipids)35 was found in obese and overweight adults. In addition, the HLF diet contained only 14% more of the  **vitamin**  D compared with the HVF diet, suggesting that the  **vitamin**  D content in lard is less likely to influence weight gain than the fatty acid composition of the diets.
+
+The present study design has some limitations that future research can address. For example, equalizing the LA content in the two test diets would help to further define the role of fatty acid composition. Moreover, even though we examined energy intake and energy retention, reduced energy expenditure may have further contributed to fat accumulation, but was not assessed in this study. In addition, the presence of high levels of trans fats in the HVF diet may have also been a factor that affected food intake. Trans-fat intake is shown to be associated with higher intra-abdominal adiposity and insulin resistance in monkeys fed trans fatty acids (TFAs) for 6 years under a controlled feeding regimen (restricted energy),36 possibly explaining increased adiposity in rats fed the HVF diet (containing ~15% of energy as TFAs), but not in the HLF group (containing <1% of supplied energy as TFAs). In contrast, a study in rats showed that dietary TFAs fed ad libitum did not influence food intake or body fat accumulation.37 Thus the role of TFAs in weight gain and body fat accumulation remains unclear.
+
+The strengths of this study reside in the comprehensive analysis of the fatty acid composition of high-fat diets, which allowed for the identification of the effect of fat source on food intake, body composition and insulin resistance. While the relevance of these findings to humans is uncertain at present, the results show that studies designed to examine the effects of high-fat diets on food intake control and obesity need to be more rigorous in defining the fat source and its composition, both for the purpose of better understanding the mechanism(s) of fat-induced obesity and for the application to dietary recommendation for humans.
+
+We conclude that lard-based high-fat diets accentuate the increase in weight gain and the development of obesity and insulin resistance more than hydrogenated vegetable shortening diets. These results further point to the importance of standardizing fatty acid composition and type of fat used in determining outcomes of consuming high-fat diets.
+
+#### References
+
+1. Drewnowski A. Why do we like fat? J Am Diet Assoc 1997; 97: S58–S62. | Article | PubMed |
+
+1. Covas MI. Bioactive effects of olive oil phenolic compounds in humans: reduction of heart disease factors and oxidative damage. Inflammopharmacology 2008; 16: 216–218. | Article | PubMed |
+
+1. Fito M, de la Torre R, Covas MI. Olive oil and oxidative stress. Mol Nutr Food Res 2007; 51: 1215–1224. | PubMed |
+
+1. Michas G, Micha R, Zampelas A. Dietary fats and cardiovascular disease: putting together the pieces of a complicated puzzle. Atherosclerosis 2014; 234: 320–328. | Article | PubMed |
+
+1. Krauss RM, Eckel RH, Howard B, Appel LJ, Daniels SR, Deckelbaum RJ et al. AHA Dietary Guidelines: revision 2000—A statement for healthcare professionals from the Nutrition Committee of the American Heart Association. Stroke 2000; 31: 2751–2766. | Article | PubMed | CAS |
+
+1. Blasbalg TL, Hibbeln JR, Ramsden CE, Majchrzak SF, Rawlings RR. Changes in consumption of omega-3 and omega-6 fatty acids in the United States during the 20th century. Am J Clin Nutr 2011; 93: 950–962. | Article | PubMed | ISI | CAS |
+
+1. Buettner R, Scholmerich J, Bollheimer LC. High-fat diets: modeling the metabolic disorders of human obesity in rodents. Obesity (Silver Spring) 2007; 15: 798–808. | Article | PubMed | CAS |
+
+1. Fujiwara M, Miyoshi M, Sakai S, Nishiokada A, Aoyama-Ishikawa M, Maeshige N et al. Lard-based high-fat diet increases secretory leukocyte protease inhibitor expression and attenuates the inflammatory response of acute lung injury in endotoxemic rats. Clin Nutr 2014; 34: 997–1009. | Article | PubMed |
+
+1. Lionetti L, Mollica MP, Donizzetti I, Gifuni G, Sica R, Pignalosa A et al. High-lard and high-fish-oil diets differ in their effects on function and dynamic behaviour of rat hepatic mitochondria. PLoS One 2014; 9: e92753. | Article | PubMed |
+
+1. Magri TP, Fernandes FS, Souza AS, Langhi LG, Barboza T, Misan V et al. Interesterified fat or palm oil as substitutes for partially hydrogenated fat in maternal diet can predispose obesity in adult male offspring. Clin Nutr 2014; 34: 904–910. | Article | PubMed |
+
+1. Silva AP, Guimaraes DE, Mizurini DM, Maia IC, Ortiz-Costa S, Sardinha FL et al. Dietary fatty acids early in life affect lipid metabolism and adiposity in young rats. Lipids 2006; 41: 535–541. | Article | PubMed | ISI | CAS |
+
+1. Barboriak JJ, Krehl WA, Cowgill GR, Whedon AD. Influence of high-fat diets on growth and development of obesity in the albino rat. J Nutr 1958; 64: 241–249. | PubMed |
+
+1. US Department of Agriculture ARSUSDA National Nutrient Database for Standard Reference, Release 26. US Department of Agriculture: Beltsville, MD, USA, 2013, p 1 (online resource).
+
+1. Masterjohn C. This Just In:  **The Infamous Lard-Based High-Fat Rodent Diet Is Twice as High in PUFA**  as Previously Reported <span>[Blog post]</span>, 2011. Available from http://blog.cholesterol-and-health.com/2011/11/this-just-in-infamous-lard-based-high.html.
+
+1. Alvheim AR, Malde MK, Osei-Hyiaman D, Lin YH, Pawlosky RJ, Madsen L et al. Dietary linoleic acid elevates endogenous 2-AG and anandamide and induces obesity. Obesity (Silver Spring) 2012; 20: 1984–1994. | Article | PubMed |
+
+1. Ailhaud G, Massiera F, Weill P, Legrand P, Alessandri JM, Guesnet P. Temporal changes in dietary fats: role of n-6 polyunsaturated fatty acids in excessive adipose tissue development and relationship to obesity. Prog Lipid Res 2006; 45: 203–236. | Article | PubMed | CAS |
+
+1. Simopoulos AP. Is insulin resistance influenced by dietary linoleic acid and trans fatty acids? Free Radic Biol Med 1994; 17: 367–372. | Article | PubMed | CAS |
+
+1. Ljunghall S, Lind L, Lithell H, Skarfors E, Selinus I, Sorensen OH et al. Treatment with one-alpha-hydroxycholecalciferol in middle-aged men with impaired glucose tolerance—a prospective randomized double-blind study. Acta Med Scand 1987; 222: 361–367. | Article | PubMed | ISI |
+
+1. Earthman CP, Beckman LM, Masodkar K, Sibley SD. The link between obesity and low circulating 25-hydroxy **vitamin**  D concentrations: considerations and implications. Int J Obes (Lond) 2012; 36: 387–396. | Article | PubMed | CAS |
+
+1. Ortega RM, Lopez-Sobaler AM, Aparicio A, Bermejo LM, Rodriguez-Rodriguez E, Perea JM et al.  **vitamin**  D status modification by two slightly hypocaloric diets in young overweight/obese women. Int J Vitam Nutr Res 2009; 79: 71–78. | Article | PubMed | ISI |
+
+1. Reeves PG, Nielsen FH, Fahey GC Jr. AIN-93 purified diets for laboratory rodents: final report of the American Institute of Nutrition ad hoc writing committee on the reformulation of the AIN-76A rodent diet. J Nutr 1993; 123: 1939–1951. | PubMed | ISI | CAS |
+
+1. Domenichiello AF, Chen CT, Trepanier MO, Stavro PM, Bazinet RP. Whole body synthesis rates of DHA from alpha-linolenic acid are greater than brain DHA accretion and uptake rates in adult rats. J Lipid Res 2014; 55: 62–74. | Article | PubMed | ISI | CAS |
+
+1. Plourde M, Sergiel JP, Chardigny JM, Gregoire S, Angers P, Sebedio JL. Absorption and metabolism of conjugated alpha-linolenic acid given as free fatty acids or triacylglycerols in rats. Nutr Metab (Lond) 2006; 3: 8. | Article | PubMed |
+
+1. Nadkarni NA, Chaumontet C, Azzout-Marniche D, Piedcoq J, Fromentin G, Tome D et al. The carbohydrate sensitive rat as a model of obesity. PLoS One 2013; 8: e68436. | Article | PubMed #Cacho J, Sevillano J, de Castro J, Herrera E, Ramos MP. Validation of simple indexes to assess insulin sensitivity during pregnancy in Wistar and Sprague-Dawley rats. Am J Physiol Endocrinol Metab 2008; 295: E1269–E1276. | Article | PubMed | ISI |
+
+1. Mizushige T, Inoue K, Fushiki T. Why is fat so tasty? Chemical reception of fatty acid on the tongue. J Nutr Sci  **vitamin** ol (Tokyo) 2007; 53: 1–4. | Article | PubMed |
+
+1. Renaud SC, Ruf JC, Petithory D. The positional distribution of fatty acids in palm oil and lard influences their biologic effects in rats. J Nutr 1995; 125: 229–237. | PubMed | CAS |
+
+1. Du H, Dardzinski BJ, O'Brien KJ, Donnelly LF. MRI of fat distribution in a mouse model of lysosomal acid lipase deficiency. AJR Am J Roentgenol 2005; 184: 658–662. | Article | PubMed #Bjorntorp P. ‘Portal’ adipose tissue as a generator of risk factors for cardiovascular disease and diabetes. Arteriosclerosis 1990; 10: 493–496. | Article | PubMed | ISI | CAS |
+
+1. Hsu IR, Kim SP, Kabir M, Bergman RN. Metabolic syndrome, hyperinsulinemia, and cancer. Am J Clin Nutr 2007; 86: s867–s871. | PubMed |
+
+1. la Fleur SE, Akana SF, Manalo SL, Dallman MF. Interaction between corticosterone and insulin in obesity: regulation of lard intake and fat stores. Endocrinology 2004; 145: 2174–2185. | Article | PubMed | ISI | CAS |
+
+1. Wortsman J, Matsuoka LY, Chen TC, Lu Z, Holick MF. Decreased bioavailability of  **vitamin**  D in obesity. Am J Clin Nutr 2000; 72: 690–693. | PubMed | ISI | CAS |
+
+1. Alemzadeh R, Kichler J, Babar G, Calhoun M. Hypo **vitamin** osis D in obese children and adolescents: relationship with adiposity, insulin sensitivity, ethnicity, and season. Metabolism 2008; 57: 183–191. | Article | PubMed | ISI | CAS |
+
+1. Sneve M, Figenschau Y, Jorde R. Supplementation with cholecalciferol does not result in weight reduction in overweight and obese subjects. Eur J Endocrinol 2008; 159: 675–684. | Article | PubMed | ISI | CAS 
+
+1. Jorde R, Sneve M, Torjesen P, Figenschau Y. No improvement in cardiovascular risk factors in overweight and obese subjects after supplementation with  **vitamin**  D3 for 1 year. J Intern Med 2010; 267: 462–472. | Article | PubMed | ISI |
+
+1. Kavanagh K, Jones KL, Sawyer J, Kelley K, Carr JJ, Wagner JD et al. Trans fat diet induces abdominal obesity and changes in insulin sensitivity in monkeys. Obesity (Silver Spring) 2007; 15: 1675–1684. | Article | PubMed | CAS |
+
+1. Ochiai M, Fujii K, Takeuchi H, Matsuo T. Effects of dietary trans fatty acids on fat accumulation and metabolic rate in rat. J Oleo Sci 2013; 62: 57–64. | Article | PubMed |
+
+This research was supported by the Natural Sciences and Engineering Research Council of Canada (NSERC), Reference RGPIN 18-11. We thank Sophie Hamr and Sanium Haque for their assistance in data collection. Special thanks to Warren Foltz from the STTARR Imaging Centre (Toronto, ON, Canada) for conducting the MRI scans.

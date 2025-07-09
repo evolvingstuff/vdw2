@@ -12,6 +12,8 @@
     ],
     "tags": [
         "Deficiency of Vitamin D",
+        "life span",
+        "mortality",
         "vitamin d"
     ]
 }
@@ -37,13 +39,13 @@ Would be nice to find a study of how much vitamin D levels decrease with hours o
 
 [Does watching TV really kill you?](http://scienceblogs.com/cognitivedaily/2010/01/does_tv-watching_really_kill_y.php) Jan 2010
 
-{IMG(attId="708")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/tv-hours-vs-mortality.png" alt="image">
 
 # See VitaminDWiki
 
 * [Disadvantaged get less sun and have poor health in the North– Aug 2011](/posts/disadvantaged-get-less-sun-and-have-poor-health-in-the-north)
 
-* <a href="/posts/study-quantified-the-problems-of-increased-tv-watching-by-toddlers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 928">Study quantified the problems of increased TV watching by toddlers – May 2010</a>
+* [Study quantified the problems of increased TV watching by toddlers – May 2010](/posts/study-quantified-the-problems-of-increased-tv-watching-by-toddlers)
 
 * <a href="/posts/teens-increasingly-indoors-especially-if-have-dark-skin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 545">Teens increasingly indoors - especially if have dark skin</a>
 

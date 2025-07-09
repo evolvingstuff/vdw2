@@ -41,9 +41,9 @@ Copyright Â© 2011 National Kidney Foundation, Inc. Published by Elsevier Inc. 
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
-* <a href="/posts/meta-analysis-finds-vitamin-d-helps-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1030">Meta-analysis finds vitamin D helps chronic kidney disease – Sept 2010</a>
+* [Meta-analysis finds vitamin D helps chronic kidney disease – Sept 2010](/posts/meta-analysis-finds-vitamin-d-helps-chronic-kidney-disease)
 
 * [Chronic Kidney disease and vitamin D deficiency – Jan 2011](/posts/chronic-kidney-disease-and-vitamin-d-deficiency)
 

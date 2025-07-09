@@ -23,9 +23,9 @@
 
 ## From First For Women Nov 2010
 
-{IMG(attId="302"max="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/first-for-women---2000-iu.gif" alt="image" style="max-width: 600px;">
 
-{IMG(attId="303"max="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/first-for-women-how.jpg" alt="image" style="max-width: 600px;">
 
 ## <span>[tiki-download_file.php?fileId=1586]</span>
 

@@ -36,4 +36,4 @@ How environmental factors combine with genetic risk at the molecular level to pr
 
 Our data suggest a molecular mechanism in MS whereby multiple environmental and genetic inputs lead to dysregulation of a final common pathway, namely N-glycosylation.
 
-{IMG(attId="550")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/4-genes.jpg" alt="image">

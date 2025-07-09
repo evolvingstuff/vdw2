@@ -35,7 +35,7 @@ Looking inside of the book finds 16 hits for "Vitamin D"
 
 Can read first chapter for free on any Kindle reader - including PC, MAC
 
-{IMG(attId="806")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/immortality-edge.png" alt="image">
 
 ---
 
@@ -43,10 +43,10 @@ Can read first chapter for free on any Kindle reader - including PC, MAC
 
 * [Telomeres improved when obese blacks took 2000 iu of vitamin D daily – Oct 2011](/posts/telomeres-improved-when-obese-blacks-took-2000-iu-of-vitamin-d-daily)
 
-* <a href="/posts/lupus-in-blacks-associated-with-low-vitamin-d-and-short-telomeres" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lupus in blacks associated with low vitamin D AND short telomeres – May 2013">Lupus in blacks associated with low vitamin D AND short telomeres – May 2013</a>
+* [Lupus in blacks associated with low vitamin D AND short telomeres – May 2013](/posts/lupus-in-blacks-associated-with-low-vitamin-d-and-short-telomeres)
 
-* <a href="/posts/telomeres-which-extend-life-appear-to-be-extended-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Telomeres (which extend life) appear to be extended by Vitamin D - March 2015">Telomeres (which extend life) appear to be extended by Vitamin D - March 2015</a>
+* [Telomeres (which extend life) appear to be extended by Vitamin D - March 2015](/posts/telomeres-which-extend-life-appear-to-be-extended-by-vitamin-d)
 
-* <a href="/posts/vitamin-d-appears-to-keep-telomeres-long-longer-life" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D appears to keep telomeres long (longer life) – Jan 2021">Vitamin D appears to keep telomeres long (longer life) – Jan 2021</a>
+* [Vitamin D appears to keep telomeres long (longer life) – Jan 2021](/posts/vitamin-d-appears-to-keep-telomeres-long-longer-life)
 
 <!-- ~tc~ (alias(Telomeres for a Longer, Healthier Life - book mentions vitamin D)) ~/tc~ -->

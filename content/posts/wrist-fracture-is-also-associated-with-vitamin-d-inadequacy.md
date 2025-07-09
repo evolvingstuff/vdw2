@@ -125,7 +125,7 @@ Differences in vitamin D levels are independent of BMD, BMI or smoking history.
 
 A distal radius fracture is a common bone fracture of the radius in the forearm. Because of its proximity to the wrist joint, this injury is often called a wrist fracture. 
 
-{IMG(attId="440")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/distal-fracture.gif" alt="image">
 
 # See also VitaminDWiki
 

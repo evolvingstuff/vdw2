@@ -54,6 +54,6 @@ PMID:     21930286
 
 # See Also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 691">Overview MS and Vitamin D</a>
+* [Overview MS and Vitamin D](/posts/overview-ms-and-vitamin-d)
 
-* <a href="/posts/higher-weight-and-blood-pressure-in-second-generation-from-mother-mouse-who-had-low-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Higher weight and blood pressure in second generation from mother mouse who had low vitamin D – 2012">Higher weight and blood pressure in second generation from mother mouse who had low vitamin D – 2012</a>
+* [Higher weight and blood pressure in second generation from mother mouse who had low vitamin D – 2012](/posts/higher-weight-and-blood-pressure-in-second-generation-from-mother-mouse-who-had-low-vitamin-d-2012)

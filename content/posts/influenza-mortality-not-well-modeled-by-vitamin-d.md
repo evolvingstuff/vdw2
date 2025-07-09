@@ -51,4 +51,4 @@ PDF is attached at bottom of page
 
 * [Overview Influenza and vitamin D](/posts/overview-influenza-and-vitamin-d)
 
-* <a href="/posts/major-interactions-between-vitamin-d-vitamin-a-and-influenza" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Major interactions between Vitamin D, Vitamin A, and Influenza – Sept 2013">Major interactions between Vitamin D, Vitamin A, and Influenza – Sept 2013</a>
+* [Major interactions between Vitamin D, Vitamin A, and Influenza – Sept 2013](/posts/major-interactions-between-vitamin-d-vitamin-a-and-influenza)

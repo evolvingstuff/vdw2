@@ -64,4 +64,4 @@ Conclusions: From this study, we conclude that there is a deregulation of the Vi
 
 Figure 2 from PDF attached at the bottom of this page
 
-{IMG(attId="763")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/breast-cancer-vitamin-d-receptors-etc.png" alt="image">

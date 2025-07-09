@@ -41,7 +41,7 @@ PMID:     21572875
 
 #### Original mortality chart
 
-{IMG(attId="608" max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/mortality-and-vitamin-d---2009.png" alt="image" style="max-width: 400px;">
 
 #### Mortality chart improved
 

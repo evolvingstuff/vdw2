@@ -1,4 +1,1003 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Optimum on VitaminDWiki</title><link>/categories/optimum.html</link><description>Recent content in Optimum on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2011 00:00:00 +0000</lastBuildDate><atom:link href="/categories/optimum/index.xml" rel="self" type="application/rss+xml"/><item><title>Is 50 ng of vitamin D too high, just right, or not enough</title><link>/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough.html</link><pubDate>Sat, 24 Sep 2011 00:00:00 +0000</pubDate><guid>/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough.html</guid><description>&lt;nav id="TableOfContents">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Optimum on VitaminDWiki</title><link>/categories/optimum.html</link><description>Recent content in Optimum on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/optimum/index.xml" rel="self" type="application/rss+xml"/><item><title>SciAm - No benefit from more than 20 ng of Vitamin D (nope)</title><link>/posts/sciam-no-benefit-from-more-than-20-ng-of-vitamin-d-nope.html</link><pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate><guid>/posts/sciam-no-benefit-from-more-than-20-ng-of-vitamin-d-nope.html</guid><description>&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/sci-am-vit-d-jan-2024-compresspdf.pdf">Download the Scientific American PDF from VitaminDWiki &lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&amp;ldquo;National population sampling showed that most people were already getting enough of the vitamin&amp;rdquo;&lt;/p>
+&lt;p>&amp;ldquo;&amp;hellip;most people probably don&amp;rsquo;t need supplements&amp;rdquo;&lt;/p>
+&lt;p>&amp;ldquo;&amp;hellip;noting that the majority of the population is just fine at 16 ng/ml.&amp;rdquo;&lt;/p>
+&lt;p>&amp;ldquo;&amp;hellip;Levels have actually risen since &lt;sup>[2010]&lt;/sup>&amp;rdquo; Actually, levels &lt;a href="/posts/4-reasons-why-vitamin-d-levels-are-crashing">have fallen&lt;/a>&lt;/p>
+&lt;p>Describes the failure of 4 trials that used too little vitamin D&lt;/p>
+&lt;p>Does not mention the &amp;gt;700 successful Vitamin D Randomized Controled Trials (see below)&lt;/p></description></item><item><title>Vitamin D Conference - 6th Minimum, Maximum, Optimum</title><link>/posts/vitamin-d-conference-6th-minimum-maximum-optimum.html</link><pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-conference-6th-minimum-maximum-optimum.html</guid><description>&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/6th.jpg" alt="image" width="400">
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#introductory-lecture-vitamin-d--for-health-of-the-individual-does-it-also-influence-the-public-health">Introductory lecture: Vitamin D – for health of the individual, does it also influence the public health?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#session-i-nutritional-rickets">Session I. Nutritional rickets&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#nutritional-rickets-an-overview">Nutritional rickets: an overview&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ukrainian-recommendations-on-preventing-and-treating-nutritional-rickets">Ukrainian recommendations on preventing and treating nutritional rickets&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#rickets-types-and-treatment-with-vitamin-d-and-analogues">Rickets types and treatment with vitamin D and analogues&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#session-ii-updated-guidelines-for-vitamin-d-in-poland-2023">Session II. Updated guidelines for Vitamin D in Poland, 2023&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#general-overview-and-introduction-to-the-main-recommendations">General overview and introduction to the main recommendations&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#guidelines-for-newborns-premature-neonates-infants-and-pregnant-women">Guidelines for newborns, premature neonates, infants and pregnant women&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#guidelines-for-children-and-adolescents">Guidelines for children and adolescents&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#guidelines-for-adult-population">Guidelines for adult population&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#guidelines-for-seniors-and-oldest-olds">Guidelines for seniors and oldest olds&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#special-lecture-why-is-germany-so-conservative-in-vitamin-d-recommendations">Special lecture: Why is Germany so conservative in vitamin D recommendations?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#session-iii-central-european-and-eastern-european-guidelines">Session III. Central European and Eastern European Guidelines&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#fragility-fractures-and-vitamin-d">Fragility, fractures and vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pleiotropic-actions-of-vitamin-d">Pleiotropic actions of vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#central-and-eastern-european-guidelines-ad-2022">Central and Eastern European Guidelines AD 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ukrainian-guidelines-in-2023">Ukrainian Guidelines in 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#special-lecture-sources-of-vitamin-d-and-calcifediol--natural-and-artificialman-made-a-celebration-of-the-last-day-of-skin-synthesis">Special lecture: Sources of vitamin D and calcifediol – natural and artificial/man-made: a celebration of the last day of skin synthesis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#special-lecture-epigenetic-and-genomic-view-on-vitamin-d-a-celebration-of-the-first-day-of-autumn--first-day-of-the-lack-of-skin-synthesis">Special lecture: Epigenetic and genomic view on vitamin D: a “celebration” of the first day of autumn / first day of the lack of skin synthesis&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#session-iv-pleiotropic-action-of-vitamin-d-part-1">Session IV. Pleiotropic action of vitamin D (Part 1)&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#periodontal-disease-as-the-canary-in-the-coal-mine">Periodontal disease as the canary in the coal mine&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-cardiovascular-disease-current-knowledge">Vitamin D deficiency and cardiovascular disease: current knowledge&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#25-hydroxyvitamin-d-serum-concentration-and-covid-19-severity-and-outcomes--a-romanian-experience">25 Hydroxyvitamin D serum concentration and COVID-19 severity and outcomes – a Romanian experience&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-in-endocrine-diseases">Vitamin D in endocrine diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effect-of-vitamin-d-deficiency-on-trabecular-and-cortical-bone-compartments--the-3d-dxa-modelling-approach">Effect of vitamin D deficiency on trabecular and cortical bone compartments – the 3D DXA modelling approach&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#relationship-of-vitamin-d-deficiency-with-insulin-resistance">Relationship of vitamin D deficiency with insulin resistance&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#risk-groups-for-low-vitamin-d-changing-the-paradigm-in-clinical-practice">Risk groups for low vitamin D: changing the paradigm in clinical practice&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#special-lecture-calcifediol-a-review-of-its-pharmacological-characteristics-and-clinical-use-in-correcting-vitamin-d-deficiency">Special Lecture: Calcifediol: a review of its pharmacological characteristics and clinical use in correcting vitamin D deficiency&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#session-v-pleiotropic-actions-of-vitamin-d-part-2">Session V. Pleiotropic actions of vitamin D (Part 2)&lt;/a>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-brain">Vitamin D and brain&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-in-overweight-and-obesity---trivial-or-significant-problem">Vitamin D in overweight and obesity - trivial or significant problem?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#assessment-of-vitamin-d-deficiency-in-patients-with-metabolic-syndrome-in-chronic-stress-conditions">Assessment of vitamin D deficiency in patients with metabolic syndrome in chronic stress conditions&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mitochondria-as-a-target-for-vitamin-d">Mitochondria as a target for vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-of-patients-with-diabetic-chronic-kidney-disease-and-prevention-of-its-progression">Vitamin D status of patients with diabetic chronic kidney disease and prevention of its progression&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#session-vi-pleiotropic-actions-of-vitamin-d-incl-young-investigators-session">Session VI. Pleiotropic actions of vitamin D (incl. Young Investigators Session)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#extending-the-vitamin-d-response-index-concept-based-on-cohorts-from-saudi-arabia">Extending the vitamin D response index concept based on cohorts from Saudi Arabia&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#could-vitamin-d-be-a-disease-modifying-antirheumatic-drug-dmard">Could vitamin D be a Disease-Modifying Antirheumatic Drug (DMARD)?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-markers-of-subclinical-inflammation-in-patients-with-chronic-coronary-syndrome">Vitamin D and markers of subclinical inflammation in patients with chronic coronary syndrome&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#in-vivo-changes-of-the-epigenome-of-human-immune-cells-after-vitamin-d-challenge">In vivo changes of the epigenome of human immune cells after vitamin D challenge&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-in-children-and-adolescents---data-from-the-childrens-memorial-health-institute-in-warsaw">Vitamin D status in children and adolescents - data from The Children’s Memorial Health Institute in Warsaw&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="introductory-lecture-vitamin-d--for-health-of-the-individual-does-it-also-influence-the-public-health">Introductory lecture: Vitamin D – for health of the individual, does it also influence the public health?&lt;/h4>
+&lt;p>Prof. Andrzej M. Fal (Dept of Allergy, Lung Diseases and Internal Medicine, Central Clinical Hospital, Ministry of Interior, Warsaw, Poland)&lt;/p></description></item><item><title>Increase vitamin D levels if they are low</title><link>/posts/increase-vitamin-d-levels-if-they-are-low.html</link><pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate><guid>/posts/increase-vitamin-d-levels-if-they-are-low.html</guid><description>&lt;h4 id="a-scoping-review-of-vitamin-d-for-nonskeletal-health-a-framework-for-evidence-based-clinical-practice">A Scoping Review of Vitamin D for Nonskeletal Health: A Framework for Evidence-Based Clinical Practice&lt;/h4>
+&lt;p>Clin Ther. 2023 Apr 18;S0149-2918(23)00127-3. &lt;a href="https://doi.org/10.1016/j.clinthera.2023.03.016">doi: 10.1016/j.clinthera.2023.03.016&lt;/a>   PDF is behind a paywall&lt;/p>
+&lt;p>Heitor O Santos 1, Carlos Eduardo E Martins 2, Scott C Forbes 3, Felipe M Delpino 4&lt;/p>
+&lt;p>Background: Low serum 25-hydroxy-vitamin D &lt;span>[25(OH)D]&lt;/span> levels are prevalent worldwide. Although the benefits of vitamin D supplementation have focused on skeletal disorders (eg, rickets, osteomalacia, osteoporosis), emerging evidence for nonskeletal health merits further discussion.&lt;/p></description></item><item><title>Reduce 4 health problems by a quarter if increase Vitamin D to 30 ng – Saudi Arabia, Grant</title><link>/posts/reduce-4-health-problems-by-a-quarter-if-increase-vitamin-d-to-30-ng-saudi-arabia-grant.html</link><pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate><guid>/posts/reduce-4-health-problems-by-a-quarter-if-increase-vitamin-d-to-30-ng-saudi-arabia-grant.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#evidence-that-increasing-serum-25ohd-concentrations-to-30-ngml-in-the-kingdom-of-saudi-arabia-and-the-united-arab-emirates-could-greatly-improve-health-outcomes">Evidence That Increasing Serum 25(OH)D Concentrations to 30 ng/mL in the Kingdom of Saudi Arabia and the United Arab Emirates Could Greatly Improve Health Outcomes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#getting-most-of-the-population-50-ng-would-provide-far-more-benefits">Getting most of the population &amp;gt;50 ng would provide far more benefits&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#saudi-arabia-needs-magnesium-most-of-their-water-has-been-desalinated">Saudi Arabia needs Magnesium (most of their water has been desalinated)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#can-get-more-vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass-postsvitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass">Can get more &lt;a href="/posts/vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass">Vitamin D from the sun without the heat (silver-coated plexiglass) &lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="evidence-that-increasing-serum-25ohd-concentrations-to-30-ngml-in-the-kingdom-of-saudi-arabia-and-the-united-arab-emirates-could-greatly-improve-health-outcomes">Evidence That Increasing Serum 25(OH)D Concentrations to 30 ng/mL in the Kingdom of Saudi Arabia and the United Arab Emirates Could Greatly Improve Health Outcomes&lt;/h4>
+&lt;p>Biomedicines 2023, 11(4), 994; &lt;a href="https://doi.org/10.3390/biomedicines11040994">https://doi.org/10.3390/biomedicines11040994&lt;/a>&lt;/p></description></item><item><title>Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith</title><link>/posts/vitamin-d-daily-evolution-4000-iu-government-800-iu-veith.html</link><pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-daily-evolution-4000-iu-government-800-iu-veith.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#critique-of-public-health-guidance-for-vitamin-d-and-sun-exposure-in-the-context-of-cancer-and-covid-19">Critique of Public Health Guidance for Vitamin D and Sun Exposure in the Context of Cancer and COVID-19&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#more-than-4000-iu-or-a-different-form-of-vitamin-d-is-need-if-have-poor-digestion">More than 4,000 IU or a different form of Vitamin D is need if have poor digestion&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#those-who-are-much-lower-weight-children-often-can-reach-30-ng-with-much-lower-doses">Those who are much lower weight (children) often can reach 30 ng with much lower doses&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#data-from-106-dosing-trials-indicates-that-7000-iu-is-needed-to-get-975--30-ng">Data from 106 dosing trials indicates that 7,000 IU is needed to get 97.5% &amp;gt;30 ng&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="critique-of-public-health-guidance-for-vitamin-d-and-sun-exposure-in-the-context-of-cancer-and-covid-19">Critique of Public Health Guidance for Vitamin D and Sun Exposure in the Context of Cancer and COVID-19&lt;/h4>
+&lt;p>Anticancer Research 42: 5027-5034 (2022) &lt;a href="https://doi.org/10.21873/anticanres">doi: 10.21873/anticanres&lt;/a> .16011&lt;/p></description></item><item><title>60,000 IU of vitamin D monthly is healthy and safe – RCT</title><link>/posts/60000-iu-of-vitamin-d-monthly-is-healthy-and-safe-rct.html</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>/posts/60000-iu-of-vitamin-d-monthly-is-healthy-and-safe-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#efficacy-and-safety-of-various-oral-regimens-three-oral-doses-and-schedules-daily-vs-monthly-of-cholecalciferol-in-north-indian-adults-with-low-vitamin-d-status-evidence-from-a-randomized-controlled-trial">Efficacy and safety of various oral regimens (three oral doses) and schedules (daily vs. monthly) of cholecalciferol in north Indian adults with low vitamin D status: Evidence from a randomized controlled trial&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitaminndwiki---is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughpostsis-50-ng-of-vitamin-d-too-high-just-right-or-not-enough">VitaminnDWiki - &lt;a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough">Is 50 ng of vitamin D too high, just right, or not enough&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="efficacy-and-safety-of-various-oral-regimens-three-oral-doses-and-schedules-daily-vs-monthly-of-cholecalciferol-in-north-indian-adults-with-low-vitamin-d-status-evidence-from-a-randomized-controlled-trial">Efficacy and safety of various oral regimens (three oral doses) and schedules (daily vs. monthly) of cholecalciferol in north Indian adults with low vitamin D status: Evidence from a randomized controlled trial&lt;/h4>
+&lt;p>Br J Nutr. 2022 Aug 19;1-22. &lt;a href="https://doi.org/10.1017/S0007114522002641">doi: 10.1017/S0007114522002641&lt;/a>&lt;/p></description></item><item><title>Optimal Vitamin D level: 50-90 ng - Dr. Vasquez</title><link>/posts/optimal-vitamin-d-level-50-90-ng-dr-vasquez.html</link><pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate><guid>/posts/optimal-vitamin-d-level-50-90-ng-dr-vasquez.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#image-described-in-3-minute-video">image described in 3 minute video&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="image-described-in-3-minute-video">image described in 3 minute video&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://healthythinking.substack.com/p/video-vitamin-d-supplementation-its?s=r">3 minute video&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/vasquez.jpg" alt="image" width="1000">
+&lt;p>&lt;strong>He also has a &lt;a href="https://vimeo.com/drvasquez/download/659472512/b5b1000752">20-minute video on Vitamin D against Viral Infections, especially COVID Dec 2021&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>More than 30 ng of vitamin D is needed for many diseases</title><link>/posts/more-than-30-ng-of-vitamin-d-is-needed-for-many-diseases.html</link><pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate><guid>/posts/more-than-30-ng-of-vitamin-d-is-needed-for-many-diseases.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#a-narrative-review-of-the-evidence-for-variations-in-serum-25-hydroxyvitamin-d-concentration-thresholds-for-optimal-health">A Narrative Review of the Evidence for Variations in Serum 25-Hydroxyvitamin D Concentration Thresholds for Optimal Health&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="a-narrative-review-of-the-evidence-for-variations-in-serum-25-hydroxyvitamin-d-concentration-thresholds-for-optimal-health">A Narrative Review of the Evidence for Variations in Serum 25-Hydroxyvitamin D Concentration Thresholds for Optimal Health&lt;/h4>
+&lt;p>Nutrients 2022, 14,639. https:// doi.org/10.3390/nu14030639&lt;/p>
+&lt;p>William B. Grant h* , Fatme Al Anouti 2 , Barbara J. Boucher 3©, Erding Dursun 4©, Duygu Gezen-Ak 4©, Edward B. Jude 5,6,7 , Tatiana Karonova 8 and Pawel Pludowski 9&lt;/p></description></item><item><title>4 X fewer visits to Dr. after getting high level of vitamin D (Interview with transcript)</title><link>/posts/4-x-fewer-visits-to-dr-after-getting-high-level-of-vitamin-d-interview-with-transcript.html</link><pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate><guid>/posts/4-x-fewer-visits-to-dr-after-getting-high-level-of-vitamin-d-interview-with-transcript.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#dr-dave-mccarthy-d-for-deficiencies-d-for-diseaseshttpsgolyprojectlibsyncom033-drdave-mccarthy-d-for-deficiencies-d-for-diseases">&lt;a href="https://golyproject.libsyn.com/033-drdave-mccarthy-d-for-deficiencies-d-for-diseases">Dr. Dave McCarthy: D for Deficiencies, D for Diseases&lt;/a>&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#transcript">Transcript&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#first-became-aware-of-vitamin-d-at-2006-national-meeting">first became aware of Vitamin D at 2006 national meeting&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#while-studing-for-his-medical-boards-he-decided-to-also-investigate-each-topic-and-vitamin-d">While studing for his medical boards, he decided to also investigate each topic and vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-has-a-panacea-paradox---something-this-good-cannot-be-true">Vitamin D has a &amp;ldquo;panacea paradox&amp;rdquo; - something this good cannot be true&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#patient-with-sickle-cell">Patient with sickle cell&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#aim-for-80-ng-oh-i-wish-i-could-feel-like-august-all-year">Aim for &amp;gt;80 ng (&amp;ldquo;Oh, I wish I could feel like August all year))&amp;rdquo;&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#125-lb-person-can-typically-get-to-80-ng-with-just-5000-iu-daily">125 lb person can typically get to 80 ng with just 5,000 IU daily&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-is-part-of-a-team--other-members-include-magnesium">Vitamin D is part of a team – other members include Magnesium&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#high-latitude-health-problems">High latitude health problems&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#magnesium-again">Magnesium again&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#thiamine">Thiamine&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#thiamine-vit-c-vit-d-magnesium-and-coq10--all-important-most-drop-with-heart-medications">Thiamine, Vit C, Vit D, magnesium and CoQ10 – all important, most drop with heart medications&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#end-of-transcript">End of Transcript&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-previous-page-on-the-dr-who-got-patients-to-vitamin-d-level-of-80-ngpostsdr-who-got-patients-to-vitamin-d-level-of-80-ng">Vitamin D previous page on the &lt;a href="/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng">Dr. who got patients to vitamin D level of 80 ng&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#93-health-problems-as-of-jan-2021--proof-that-vitamin-d-workspostsproof-that-vitamin-d-works">93 health problems as of Jan 2021 &lt;a href="/posts/proof-that-vitamin-d-works">Proof that Vitamin D Works&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h3 id="dr-dave-mccarthy-d-for-deficiencies-d-for-diseaseshttpsgolyprojectlibsyncom033-drdave-mccarthy-d-for-deficiencies-d-for-diseases">&lt;a href="https://golyproject.libsyn.com/033-drdave-mccarthy-d-for-deficiencies-d-for-diseases">Dr. Dave McCarthy: D for Deficiencies, D for Diseases&lt;/a>&lt;/h3>
+&lt;p>&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/gillian.jpg" alt="image" width="150">&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/dave-m.jpg" alt="image" width="150">&lt;/p></description></item><item><title>Vitamin D might a risk factor of insulin resistance, diabetes, obesity, etc. (50 ng)</title><link>/posts/vitamin-d-might-a-risk-factor-of-insulin-resistance-diabetes-obesity-etc-50-ng.html</link><pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-might-a-risk-factor-of-insulin-resistance-diabetes-obesity-etc-50-ng.html</guid><description/></item><item><title>Rheumatic Diseases often treated by Vitamin D, may need 40-60 ng</title><link>/posts/rheumatic-diseases-often-treated-by-vitamin-d-may-need-40-60-ng.html</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>/posts/rheumatic-diseases-often-treated-by-vitamin-d-may-need-40-60-ng.html</guid><description>&lt;h4 id="vitamin-d-and-rheumatic-diseases-a-review-of-clinical-evidence">Vitamin D and Rheumatic Diseases: A Review of Clinical Evidence&lt;/h4>
+&lt;p>Int. J. Mol. Sci. 2021, 22, 10659. &lt;a href="https://doi.org/10.3390/ijms221910659">https://doi.org/10.3390/ijms221910659&lt;/a>&lt;/p>
+&lt;p>Nipith Charoenngam 1,2,3&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Dept of Medicine, Mount Auburn Hospital, Harvard Medical School, Cambridge, MA 02138, USA;&lt;br>
+ ~  &lt;a href="mailto:nipith.charoenngam@gmail.com">nipith.charoenngam@gmail.com&lt;/a>   or perhaps &lt;a href="mailto:ncharoen@bu.edu">ncharoen@bu.edu&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Section Endocrinology, Diabetes, Nutrition and Weight Management, Dept of Medicine, Boston University School of Medicine, Boston, MA 02118, USA&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Department of Medicine, Faculty of Medicine SirirajHospital, Mahidol University, Bangkok 10700, Thailand&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Vitamin D plays an important role in maintaining a healthy mineralized skeleton. It is also considered an immunomodulatory agent that regulates innate and adaptive immune systems. The aim of this narrative review is to provide general concepts of vitamin D for the skeletal and immune health, and to summarize the mechanistic, epidemiological, and clinical evidence on the relationship between vitamin D and rheumatic diseases.&lt;/p></description></item><item><title>COVID-19 mortality extrapolates to zero at 50 ng of vitamin D – 18th Meta-analysis</title><link>/posts/covid-19-mortality-extrapolates-to-zero-at-50-ng-of-vitamin-d-18th-meta-analysis.html</link><pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate><guid>/posts/covid-19-mortality-extrapolates-to-zero-at-50-ng-of-vitamin-d-18th-meta-analysis.html</guid><description/></item><item><title>Vitamin D and COVID, review of evidence, loading dose if less than 50 ng - Masterjohn</title><link>/posts/vitamin-d-and-covid-review-of-evidence-loading-dose-if-less-than-50-ng-masterjohn.html</link><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-covid-review-of-evidence-loading-dose-if-less-than-50-ng-masterjohn.html</guid><description>&lt;p>&lt;strong>from web: &lt;a href="https://chrismasterjohnphd.com/blog/2021/08/28/vitamin-d-and-covid-19">Vitamin D and COVID-19: The Current State of the Evidence&lt;/a>&lt;br>
+Dr. Chris Masterjohn Sept 2, 2021&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#observational-studies-the-pooled-results">Observational Studies: The Pooled Results&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-association-is-similar-in-children">The Association Is Similar in Children&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#population-level-vitamin-d-status-explains-global-disparities-in-covid-19-outcomes">Population-Level Vitamin D Status Explains Global Disparities in COVID-19 Outcomes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#blood-levels-where-is-the-danger-zone">Blood Levels: Where is the Danger Zone?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-about-40-60-ngml-or-even-higher">What About 40-60 ng/mL or Even Higher?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-importance-of-measuring-parathyroid-hormone-pth-and-calcitriol">The Importance of Measuring Parathyroid Hormone (PTH) and Calcitriol&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#having-covid-19-depletes-vitamin-d-status">Having COVID-19 Depletes Vitamin D Status&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-two-most-important-rcts-entrenas-castillo-spain-and-murai-brazil">The Two Most Important RCTs: Entrenas-Castillo (Spain) and Murai (Brazil)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#four-more-rcts">Four More RCTs&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#interactions-with-other-nutrients">Interactions With Other Nutrients&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#span-stylecolorf00overall-conclusionsspan">&lt;span style="color:#F00;">Overall Conclusions&lt;/span>&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#a-detailed-look-at-the-pooled-observational-data">A Detailed Look at the Pooled Observational Data&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#a-primer-on-25ohd-calcitriol-and-pth">A Primer on 25(OH)D, Calcitriol, and PTH&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#notes">Notes&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="introduction">Introduction&lt;/h4>
+&lt;p>At the beginning of the COVID-19 pandemic, we already knew that vitamin D helps reduce the risk of respiratory infections, especially when given to people who are deficient.1 We also knew that it helps us make antimicrobial peptides, and that it simultaneously boosts our immune system’s ability to fight viruses and bacteria while dampening the excessive or dysfunctional activities of our immune system that can lead to autoimmune disease.2&lt;/p></description></item><item><title>Little risk of infection after surgery if have more than 50 ng of vitamin D - 2014</title><link>/posts/little-risk-of-infection-after-surgery-if-have-more-than-50-ng-of-vitamin-d-2014.html</link><pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate><guid>/posts/little-risk-of-infection-after-surgery-if-have-more-than-50-ng-of-vitamin-d-2014.html</guid><description>&lt;h4 id="study-was-cited-by-67--publications-as-of-nov-2022httpsscholargooglecomscholarcites2931628498175461900as_sdt548sciodt048hlen">&lt;a href="https://scholar.google.com/scholar?cites=2931628498175461900&amp;amp;as_sdt=5,48&amp;amp;sciodt=0,48&amp;amp;hl=en">Study was cited by 67 publications as of Nov 2022&lt;/a>&lt;/h4>
+&lt;ul>
+&lt;li>The Association of Serum Vitamin D Concentration with Serious Complications After Noncardiac Surgery- 2014   &lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/the-association-of-serum-vitamin-d-concentration-with-serious-complications-after-noncardiac-surgery.pdf">PDF&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/surgery-problmesy.jpg" alt="image" width="400">
+&lt;p>&lt;strong>&lt;span style="color:#F00;">20 X&lt;/span> less likely if very high vitamin D&lt;/strong>&lt;/p></description></item><item><title>50,000 IU of Vitamin D once every 2 weeks achieved 40 ng in 3 months – RCT</title><link>/posts/50000-iu-of-vitamin-d-once-every-2-weeks-achieved-40-ng-in-3-months-rct.html</link><pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate><guid>/posts/50000-iu-of-vitamin-d-once-every-2-weeks-achieved-40-ng-in-3-months-rct.html</guid><description/></item><item><title>Nutritional Rickets associated with vitamin D levels less than 19 or perhaps 26 ng</title><link>/posts/nutritional-rickets-associated-with-vitamin-d-levels-less-than-19-or-perhaps-26-ng.html</link><pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate><guid>/posts/nutritional-rickets-associated-with-vitamin-d-levels-less-than-19-or-perhaps-26-ng.html</guid><description>&lt;h4 id="nutritional-rickets-calcium-or-vitamin-d-deficiency--editorial">Nutritional rickets: calcium or vitamin D deficiency? – Editorial&lt;/h4>
+&lt;p>The American Journal of Clinical Nutrition, nqab121, &lt;a href="https://doi.org/10.1093/ajcn/nqab121">https://doi.org/10.1093/ajcn/nqab121&lt;/a>&lt;/p>
+&lt;p>Roger Bouillon&lt;/p>
+&lt;p>Sempos et al. (1) in the present issue of the American Journal of Clinical Nutrition studied the interaction between vitamin D status &lt;span>[defined by serum concentration of 25-hydroxyvitamin D or 25(OH)D]&lt;/span> and calcium intake in Nigerian children with rickets. They observed that a serum concentration of 25(OH)D below 47.5 (possibly even 65) nmol/l was associated with an increased risk of rickets in children with a very low calcium intake (about 200 mg/d). Indeed, the calcium intake of the ricketic children was similar to that of healthy controls, whereas serum 25(OH)D strongly discriminated between both groups. This 25(OH)D threshold is much higher than the one [25–30 nmol/L (2–4&amp;hellip;&lt;/p></description></item><item><title>Jaw joint (TMJ) needs 30-50 ng of Vitamin D and a good VDR</title><link>/posts/jaw-joint-tmj-needs-30-50-ng-of-vitamin-d-and-a-good-vdr.html</link><pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate><guid>/posts/jaw-joint-tmj-needs-30-50-ng-of-vitamin-d-and-a-good-vdr.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#tmds-might-be-be-associated-with-low-vitamin-d-more-studies-needed---review-oct-2022">TMDs might be be associated with low vitamin D, more studies needed - Review Oct 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-temporomandibular-disorders-what-do-we-know-so-far---2021">Vitamin D and Temporomandibular Disorders: What Do We Know So Far? - 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#jaw-joint-pain-temporomandibular-is-associated-with-low-vitamin-d-in-young-adults--nov-2017postsjaw-joint-pain-temporomandibular-is-associated-with-low-vitamin-d-in-young-adults">&lt;a href="/posts/jaw-joint-pain-temporomandibular-is-associated-with-low-vitamin-d-in-young-adults">Jaw joint pain (Temporomandibular) is associated with low vitamin D in young adults – Nov 2017&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="tmds-might-be-be-associated-with-low-vitamin-d-more-studies-needed---review-oct-2022">TMDs might be be associated with low vitamin D, more studies needed - Review Oct 2022&lt;/h4>
+&lt;p>&lt;strong>Temporomandibular Disorders and Vitamin D Deficiency: What Is the Linkage between These Conditions? A Systematic Review&lt;/strong>&lt;/p></description></item><item><title>Vitamin D levels needed and importance - meta-analysis</title><link>/posts/vitamin-d-levels-needed-and-importance-meta-analysis.html</link><pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-levels-needed-and-importance-meta-analysis.html</guid><description>&lt;h4 id="major-meta-analysis-randomized-clinical-studies-and-international-consensus-on-serum-levels">Major Meta-Analysis, Randomized Clinical Studies, and International Consensus on Serum Levels&lt;/h4>
+&lt;p>and Importance of Supplementing Vitamin D: State of the art&lt;/p>
+&lt;p>MedNEXT - Journal of Medical and Health Sciences DOI: &lt;a href="https://doi.org/10.34256/mdnt2129">https://doi.org/10.34256/mdnt2129&lt;/a>&lt;/p>
+&lt;p>Idiberto Jose Zotarelli Filho 1,2,3 &lt;a href="mailto:dr.idibertozotarelli@faceres.com.br">dr.idibertozotarelli@faceres.com.br&lt;/a>, Ana Valeria Garcia Ramirez 1,4, Durval Ribas Filho 1&lt;/p>
+&lt;p>Associagao Brasileira de Nutrologia (ABRAN)/Brazilian Association of Nutrology, Catanduva/SP, Brazil.&lt;/p>
+&lt;p>FACERES - Faculty of medicine of Sao Jose do Rio Preto/SP, Brazil.&lt;/p>
+&lt;p>Zotarelli-Filho Scientific Work- Scientific Consulting-LTDA, Sao Jose do Rio Preto/SP, Brazil.&lt;/p></description></item><item><title>Reduce COVID-19 risks with 50,000 IU Vitamin D doses</title><link>/posts/reduce-covid-19-risks-with-50000-iu-vitamin-d-doses.html</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>/posts/reduce-covid-19-risks-with-50000-iu-vitamin-d-doses.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#have-four-50000-iu-capsules-in-a-blister-pack">Have four 50,000 IU capsules in a blister pack&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#12-the-dose-for-children">1/2 the dose for children&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2x-the-dose-for-obese">2X the dose for obese&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-does-not-build-up-in-the-body-and-is-not-toxicpostsoverview-toxicity-of-vitamin-d">&lt;a href="/posts/overview-toxicity-of-vitamin-d">Vitamin D does not build up in the body and is not toxic&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#take-vitamin-d-before-taking-a-covid-19-vaccine">Take Vitamin D before taking a COVID-19 vaccine&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#bi-weekly-50k-vitamin-d-trials-have-proven-to-help-27-health-problemspostsone-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need">&lt;a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need">Bi-weekly 50K vitamin D trials have proven to help 27 health problems&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#weekly-50k-vitamin-d-trials-have-proven-to-help-17-health-problemspostsone-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need">&lt;a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need">Weekly 50k vitamin D trials have proven to help 17 health problems&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki-200-a-hrefpostspages-containing-50000-in-title-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-14122pages-containing-50000-in-titlea">VitaminDWiki 200+ &lt;a href="/posts/pages-containing-50000-in-title" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14122">pages containing &amp;ldquo;50,000&amp;rdquo; in title&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#how-to-get-24--50000-iu-capsules-in-blister-pack-to-distribute-to-others">How to get 24 50,000 IU capsules in blister pack to distribute to others&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#how-to-buy-50000-iu-capsules-in-a-bottle-50000-iu-vitamin-d-weekly-is-often-recommendedposts50000-iu-vitamin-d-weekly-is-often-recommended--if-you-can-only-get-smaller-capsules">How to buy 50,000 IU capsules in a bottle** &lt;a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended">50,000 IU Vitamin D weekly is often recommended&lt;/a> **#### If you can only get smaller capsules&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#a-weekly-50000-iu-tablespoon-of-vitamin-d-water-costs-1-cent">A weekly 50,000 IU tablespoon of Vitamin D water costs &amp;lt;1 cent&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h3 id="have-four-50000-iu-capsules-in-a-blister-pack">Have four 50,000 IU capsules in a blister pack&lt;/h3>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/four-50k-iu.jpg" alt="image" width="400">
+&lt;!-- ~tc~ As the virus seems to be ever encroaching on our St. Herman's family, Henry and I would like (again) to provide free Vitamin D to all parishioners who want it. We are not doctors, so we cannot recommend for or against it. But you may choose to take Vitamin D as an alternative to the vaccine, or in addition to reducing side effects and as an additional preventative against colds and flu as well.
+
+I am leaving a box of "emergency" 4-cap packets in the Parish Hall You may take a packet for yourself and more as needed for your family. Each adult should take all 4 caps in the packet right away if you experience Covid symptoms, or as a preventive over several days to build your immune system against Covid, flu, etc. Children should take less, obese adults more, according to body weight.
+
+Taking a whole packet of four 50,000 IU caps may seem like a very high dose of Vitamin D, but the studies show that it is a safe amount for almost all adults, and that less probably won't be effective against the virus. Henry has been taking that amount every 4 days for the last 3 years, and many people (including me) have taken an even larger dose of Vitamin D at one time without ill effects. Complete information on dosage, safety, study results, etc., are to be found at is.gd/covidpt. We urge you to check it out.
+
+We also have additional free Vitamin D for those who want prevention for longer than 3 weeks, just let me know. ~/tc~ -->
+&lt;h4 id="12-the-dose-for-children">1/2 the dose for children&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="/categories/infant-child">Infant-Child&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng)</title><link>/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng.html</link><pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate><guid>/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng.html</guid><description>&lt;h4 id="rationale-for-raising-current-clinical-practice-guideline-target-for-serum-25-hydroxyvitamin-d-in-chronic-kidney-disease">Rationale for Raising Current Clinical Practice Guideline Target for Serum 25-Hydroxyvitamin D in Chronic Kidney Disease.&lt;/h4>
+&lt;p>Am J Nephrol. 2019;49(4):284-293. &lt;a href="https://doi.org/10.1159/000499187">doi: 10.1159/000499187&lt;/a>&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;strong>Participants with Chronic Kidney Disease who had low vitamin D levels&lt;br>
+Gave extended release vitamin D (in the form of calcifediol)&lt;br>
+Those who achieved more than 50 ng/ml had much better outcomes&lt;br>
+It is not clear that the extended release type (patented and very expensive) is needed&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/1-in-10-have-chronic-kidney-disease-but-only-5-percent-are-aware-of-it-review">1 in 10 have Chronic Kidney Disease (but only 5% are aware of it) – review Sept 2019&lt;/a>&lt;/p></description></item><item><title>Nigerian albinos have vitamin D levels of 96 ng</title><link>/posts/nigerian-albinos-have-vitamin-d-levels-of-96-ng.html</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate><guid>/posts/nigerian-albinos-have-vitamin-d-levels-of-96-ng.html</guid><description>&lt;h4 id="see-also-web">See also web&lt;/h4>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/albino-foundation.jpg" alt="image" width="300">
+&lt;p>2 million Albinos in Nigeria (population of Nigeria = 191 million)&lt;/p>
+&lt;ul>
+&lt;li>An investigation into a possible relationship between vitamin D, parathyroid hormone, calcium and magnesium in a normally pigmented and an albino rural black population in the Northern Province of South Africa - 2000 DOI: 10.1002/biof.5520110110&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/albino.pdf">Download the PDF from Sci-Hub via VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/albino.jpg" alt="image" width="600">
+&lt;p>Enechukwu N1, Cockburn M2, Ogun G3, Ezejiofor OI1, George A4, Ogunbiyi A4.&lt;/p></description></item><item><title>Need 40 to 60 ng of Vitamin D – 48 scientists call for action – 2015</title><link>/posts/need-40-to-60-ng-of-vitamin-d-48-scientists-call-for-action-2015.html</link><pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate><guid>/posts/need-40-to-60-ng-of-vitamin-d-48-scientists-call-for-action-2015.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#scientists-call-to-daction---the-vitamin-d-deficiency-epidemic">Scientists&amp;rsquo; Call to D*action - The Vitamin D Deficiency Epidemic&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="scientists-call-to-daction---the-vitamin-d-deficiency-epidemic">Scientists&amp;rsquo; Call to D*action - The Vitamin D Deficiency Epidemic&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://grassrootshealth.net/project/our-scientists/">Grassroots Health&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>ent of US children had less than 40 ng of vitamin D a decade ago – Oct 2021))&lt;/p>
+&lt;p>&lt;strong>40-75% of the world&amp;rsquo;s population is vitamin D deficient.&lt;/strong>&lt;/p>
+&lt;p>The causal link between severe vitamin D deficiency and rickets or the bone disease of osteomalacia is overwhelming, while the link between vitamin D insuffiency and osteoporosis with associated decreased muscle strength and increased risk of falls in osteoporotic humans is well documented by evidence-based intervention studies.&lt;/p></description></item><item><title>Comparing High-dose vitamin D therapies</title><link>/posts/comparing-high-dose-vitamin-d-therapies.html</link><pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate><guid>/posts/comparing-high-dose-vitamin-d-therapies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#comparing-high-dose-protocols">Comparing high-dose protocols&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-cofactors-in-a-nutshellpostsvitamin-d-cofactors-in-a-nutshell-has-thefollowing">&lt;a href="/posts/vitamin-d-cofactors-in-a-nutshell">Vitamin D Cofactors in a nutshell&lt;/a> has the following&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#overview-toxicity-of-vitamin-dpostsoverview-toxicity-of-vitamin-d-has-thefollowing">&lt;a href="/posts/overview-toxicity-of-vitamin-d">Overview Toxicity of vitamin D&lt;/a> has the following&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-alsovitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="comparing-high-dose-protocols">Comparing high-dose protocols&lt;/h4>
+&lt;!-- ~tc~ start ~/tc~ -->
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>Dr. Coimbra&lt;br>books ((High-Dose Vitamin D Therapy – book July 2018&lt;/td>
+ &lt;td>2018)) ((Multiple Sclerosis and (lots of) Vitamin D - book by patient on Coimbra protocol - Feb 2016&lt;/td>
+ &lt;td>2016))&lt;/td>
+ &lt;td>Dr. Somerville&lt;br>&lt;a href="/posts/optimal-dose" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 10434">Optimal Dose&lt;/a>&lt;/td>
+ &lt;td>((Sleep problems cured by vitamin D, etc. – workshops and patient workbooks – Gominak 2018&lt;/td>
+ &lt;td>Dr. Gominak))&lt;/td>
+ &lt;td>((Cluster and Migraine headache treatment protocol - Sept 2023&lt;/td>
+ &lt;td>Mr. Batcheller))&lt;/td>
+ &lt;td>((The End of Alzheimer&amp;rsquo;s and Dementia if adjust Vitamin D, B-12, Iron, Omega-3, etc.&lt;/td>
+ &lt;td>Dr. Bredsen))&lt;br>End of Alz.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Health problem&lt;/td>
+ &lt;td>Multiple Sclerosis&lt;br>autoimmune, PD&lt;/td>
+ &lt;td>sleep, flu, pain, &lt;br>obesity, etc.&lt;/td>
+ &lt;td>Sleep&lt;/td>
+ &lt;td>Cluster, Migraine &lt;br>Headaches&lt;/td>
+ &lt;td>Alzheimer&amp;rsquo;s &lt;br>Park. being added&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Number of people&lt;br> (2019)&lt;/td>
+ &lt;td>30,000 &lt;br>&lt;a href="https://www.betterplace.org/en/projects/74058-coimba-protocol-vitamin-d-high-dose-therapy-stops-autoimmune-diseases#:~:text=since%202002%20this%20therapy%20has%20already%20helped%20more%20than%2030%2C000%20people%20worldwide%20to%20stop%20their%20disease%20and%20gain%20back%20quality%20of%20life">by 2022&lt;/a>&lt;/td>
+ &lt;td>5,000&lt;/td>
+ &lt;td>5,000&lt;/td>
+ &lt;td>9,000 &lt;br>(2024)&lt;/td>
+ &lt;td>&amp;gt;5,000 (2020)&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vitamin D target&lt;/td>
+ &lt;td>PTH is target &lt;br>typ: 150ng&lt;/td>
+ &lt;td>100-140+ ng&lt;/td>
+ &lt;td>60-80 ng&lt;/td>
+ &lt;td>PTH is target&lt;br>typ: 80 ng&lt;/td>
+ &lt;td>40-60 ng&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vitamin D daily dose&lt;br>(K = 1,000 IU)&lt;/td>
+ &lt;td>20K - 200K&lt;br> 1,000 IU/kg&lt;/td>
+ &lt;td>30K&lt;/td>
+ &lt;td>2K + monthly&lt;br> test increasing &lt;br>dose until goal&lt;/td>
+ &lt;td>4K - 40K&lt;br>110 IU/kg&lt;/td>
+ &lt;td>?&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Overview: Omega-3 many benefits include helping vitamin D&lt;/td>
+ &lt;td>Omega-3)) &lt;strong>&lt;span style="color:#F00;">✻&lt;/span>&lt;/strong>&lt;/td>
+ &lt;td>O-3&lt;/td>
+ &lt;td>O-3&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>O-3&lt;/td>
+ &lt;td>O-3&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Overview Magnesium and vitamin D&lt;/td>
+ &lt;td>Magnesium)) &lt;strong>&lt;span style="color:#F00;">✻&lt;/span>&lt;/strong>&lt;/td>
+ &lt;td>Mg&lt;/td>
+ &lt;td>Mg&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>Mg (400 mg)&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Overview Vitamin K and Vitamin D&lt;/td>
+ &lt;td>Vitamin K2))&lt;/td>
+ &lt;td>K2 (no longer?)&lt;/td>
+ &lt;td>K2&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>K2&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vitamin B&amp;hellip;&lt;/td>
+ &lt;td>B2, B9, ((Vitamin B12&lt;/td>
+ &lt;td>B12))&lt;/td>
+ &lt;td>B3&lt;/td>
+ &lt;td>B50-B100 &lt;br> 3 months&lt;/td>
+ &lt;td>B50&lt;/td>
+ &lt;td>B12&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Zinc and Vitamin D&lt;/td>
+ &lt;td>Zinc)) &lt;strong>&lt;span style="color:#F00;">✻&lt;/span>&lt;/strong>&lt;/td>
+ &lt;td>Zn&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>Zn&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Vitamin D and Boron&lt;/td>
+ &lt;td>Boron)) *** ?**&lt;/td>
+ &lt;td>B&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>B&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Calcium hazards and bioavailability&lt;/td>
+ &lt;td>Calcium))&lt;br>Minimize rock-based Ca&lt;/td>
+ &lt;td>Decrease Ca&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>Ca&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Vitamin D and Vitamin A&lt;/td>
+ &lt;td>Vitamin A))&lt;br> avoid extremes&lt;/td>
+ &lt;td>avoid A&lt;/td>
+ &lt;td>avoid A&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Other&lt;/td>
+ &lt;td>Choline&lt;br> Selenium&lt;br>Co-Q 10&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>Co-Q 10&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Loading dose&lt;br>Days instead of months&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>- - -&lt;/td>
+ &lt;td>Loading&lt;br>&amp;ldquo;Cluster Balm&amp;rdquo;&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;!-- ~tc~ end ~/tc~ -->
+&lt;p>&lt;strong>Most highly successful uses of high-dose Vitamin D have a lot in common&lt;/strong>&lt;/p></description></item><item><title>85 ng of vitamin D in soldiers deployed to sunny Afghanistan</title><link>/posts/85-ng-of-vitamin-d-in-soldiers-deployed-to-sunny-afghanistan.html</link><pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate><guid>/posts/85-ng-of-vitamin-d-in-soldiers-deployed-to-sunny-afghanistan.html</guid><description>&lt;h4 id="serum-25-hydroxyvitamin-d-fluctuations-in-military-personnel-during-6-month-summer-operational-deployments-in-afghanistan">Serum 25-hydroxyvitamin D fluctuations in military personnel during 6-month summer operational deployments in Afghanistan.&lt;/h4>
+&lt;p>Br J Nutr. 2019 Jan 3:1-9. &lt;a href="https://doi.org/10.1017/S000711451800346X.">doi: 10.1017/S000711451800346X.&lt;/a>&lt;/p>
+&lt;p>Fallowfield JL1, Delves SK1, Hill NE2, Lanham-New SA3, Shaw AM1, Brown PEH1, Bentley C4, Wilson DR2, Allsopp AJ1.&lt;/p>
+&lt;p>1 Applied Physiology Department,Institute of Naval Medicine,Alverstoke,Hampshire PO12 2DL,UK.&lt;/p>
+&lt;p>2 Royal Centre for Defence Medicine,Birmingham B15 2SQ,UK.&lt;/p>
+&lt;p>3 Nutritional Sciences Dept,Faculty of Health and Medical Sciences,School of Biosciences and Medicine,U. of Surrey,Guildford,SurreyGU2 7XH,UK.&lt;/p></description></item><item><title>Migraine headache 5X less likely if optimal level of vitamin D</title><link>/posts/migraine-headache-5x-less-likely-if-optimal-level-of-vitamin-d.html</link><pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate><guid>/posts/migraine-headache-5x-less-likely-if-optimal-level-of-vitamin-d.html</guid><description>&lt;p>&lt;strong>Optimal level: &amp;gt;50 ng?&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-sufficiency-10-to-30-ng-optimal-40-to-80-ng-no-consensus">Vitamin D sufficiency 10 to 30 ng, optimal 40 to 80 ng (no consensus)– May 2018&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/a-group-of-6000-people-have-vitamin-d-levels-higher-than-50-ng-grassrootshealth">A group of 6,000 people have vitamin D levels higher than 50 ng – GrassrootsHealth&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough">Is 50 ng of vitamin D too high, just right, or not enough&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>OBJECTIVE: The association between serum vitamin D and migraine is investigated in this research.s&lt;/p>
+&lt;p>BACKGROUND: Although the pathogenesis of migraine headache is not fully understood, the possible role of inflammation and disturbed immune system has been proposed; thus, higher levels of vitamin D might reduce the risk of migraine. However, the results of related studies have been inconclusive.&lt;/p></description></item><item><title>Falls reduced by a third if achieved 40 ng level vitamin D– RCT</title><link>/posts/falls-reduced-by-a-third-if-achieved-40-ng-level-vitamin-d-rct.html</link><pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate><guid>/posts/falls-reduced-by-a-third-if-achieved-40-ng-level-vitamin-d-rct.html</guid><description>&lt;h4 id="serum-25-hydroxyvitamin-d-levels-and-incident-falls-in-older-women">Serum 25-hydroxyvitamin D levels and incident falls in older women.&lt;/h4>
+&lt;p>Osteoporos Int. 2018 Sep 25. &lt;a href="https://doi.org/10.1007/s00198-018-4705-4.">doi: 10.1007/s00198-018-4705-4.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Uusi-Rasi K1, Patil R2,3, Karinkanta S2, Tokola K2, Kannus P2,4,5, Lamberg-Allardt C6, Sievänen H2.&lt;/p>
+&lt;p>1 The UKK Institute for Health Promotion Research, P.O. Box 30, 33501, Tampere, Finland. &lt;a href="mailto:kirsti.uusi-rasi@uta.fi">kirsti.uusi-rasi@uta.fi&lt;/a>.&lt;/p>
+&lt;p>2 The UKK Institute for Health Promotion Research, P.O. Box 30, 33501, Tampere, Finland.&lt;/p>
+&lt;p>3 Department of Physiotherapy, Jehangir Hospital, Pune, Maharashtra, 411001, India.&lt;/p></description></item><item><title>Vitamin D is needed for human fertility – goal is 50 ng</title><link>/posts/vitamin-d-is-needed-for-human-fertility-goal-is-50-ng.html</link><pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-is-needed-for-human-fertility-goal-is-50-ng.html</guid><description>&lt;h4 id="vitamin-d-in-human-reproduction-the-more-the-better-an-evidence-based-critical-appraisal">Vitamin D in human reproduction: the more, the better? An evidence-based critical appraisal.&lt;/h4>
+&lt;p>Eur Rev Med Pharmacol Sci. 2017 Sep;21(18):4243-4251.&lt;/p>
+&lt;p>Laganà AS1, Vitale SG, Ban Frangež H, Vrtačnik-Bokal E, D&amp;rsquo;Anna R.&lt;/p>
+&lt;p>Unit of Gynecology and Obstetrics, Department of Human Pathology in Adulthood and Childhood &amp;ldquo;G. Barresi&amp;rdquo;, University of Messina, Messina, Italy. &lt;a href="mailto:antlagana@unime.it">antlagana@unime.it&lt;/a>.&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/preconception-vitamin-d-is-great-every-extra-10-ng-associated-with-10-percent-mo-have-live-birth">Preconception vitamin D is great - every extra 10 ng associated with 10 percent more likely to have live birth – Aug 2018&lt;/a>&lt;/p></description></item><item><title>Vitamin D - at least 4,000 IU to achieve 40-60 ng and reduce risk of early death – Holick</title><link>/posts/vitamin-d-at-least-4000-iu-to-achieve-40-60-ng-and-reduce-risk-of-early-death-holick.html</link><pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-at-least-4000-iu-to-achieve-40-60-ng-and-reduce-risk-of-early-death-holick.html</guid><description/></item><item><title>Vitamin D sufficiency 10 to 30 ng, optimal 40 to 80 ng (no consensus)</title><link>/posts/vitamin-d-sufficiency-10-to-30-ng-optimal-40-to-80-ng-no-consensus.html</link><pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-sufficiency-10-to-30-ng-optimal-40-to-80-ng-no-consensus.html</guid><description/></item><item><title>Psoriasis reduced for those getting Vitamin D levels above 50 ng – RCT</title><link>/posts/psoriasis-reduced-for-those-getting-vitamin-d-levels-above-50-ng-rct.html</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/posts/psoriasis-reduced-for-those-getting-vitamin-d-levels-above-50-ng-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#oral-vitamin-d3-supplementation-for-chronic-plaque-psoriasis-a-randomized-double-blind-placebo-controlled-trial">Oral vitamin D3 supplementation for chronic plaque psoriasis: A randomized, double-blind, placebo-controlled trial.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cited-by-34-studies-in-google-scholar-as-of-march-2023">Cited by 34 studies in Google Scholar as of March 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="oral-vitamin-d3-supplementation-for-chronic-plaque-psoriasis-a-randomized-double-blind-placebo-controlled-trial">Oral vitamin D3 supplementation for chronic plaque psoriasis: A randomized, double-blind, placebo-controlled trial.&lt;/h4>
+&lt;p>J Dermatolog Treat. 2018 Feb 26:1-34. &lt;a href="https://doi.org/10.1080/09546634.2018.1444728">doi: 10.1080/09546634.2018.1444728&lt;/a>&lt;/p>
+&lt;p>Ingram MA1, Jones MB2, Stonehouse W3, Jarrett P4,5, Scragg R6, Mugridge O1, von Hurst PR1.&lt;/p>
+&lt;p>1 School of Sport, Exercise and Nutrition, Massey Univ., Albany Campus , Private Bag 102904 , North Shore City , Auckland 0745 , New Zealand.&lt;/p></description></item><item><title>Optimal level of vitamin D is 40 ng, 93 percent of Canadians do not have optimal levels</title><link>/posts/optimal-level-of-vitamin-d-is-40-ng-93-percent-of-canadians-do-not-have-optimal-levels.html</link><pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate><guid>/posts/optimal-level-of-vitamin-d-is-40-ng-93-percent-of-canadians-do-not-have-optimal-levels.html</guid><description/></item><item><title>Vitamin D supplementation guidelines (adults – 50,000 IU per week)</title><link>/posts/vitamin-d-supplementation-guidelines-adults-50000-iu-per-week.html</link><pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-supplementation-guidelines-adults-50000-iu-per-week.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-guidelines">Vitamin D supplementation guidelines&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamindwiki-getting-vitamin-d-into-your-blood-and-cellspostsgetting-vitamin-d-into-your-blood-and-cells-has-a-chart">VitaminDWiki &lt;a href="/posts/getting-vitamin-d-into-your-blood-and-cells">Getting Vitamin D into your blood and cells&lt;/a> has a chart&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-supplementation-guidelines">Vitamin D supplementation guidelines&lt;/h4>
+&lt;p>The Journal of steroid biochemistry and molecular biology · Feb 2017, DOI: 10.1016/j.jsbmb.2017.01.021&lt;/p>
+&lt;p>&lt;strong>Pawel Pludowski, Michael F. Holick, William B., Grant,&lt;/strong> Jerzy Konstantynowicz, Mario R. Mascarenhas, Afrozul Haq, Vladyslav Povoroznyuk, Nataliya Balatska, Ana Paula Barbosa, Tatiana Karonova, Ema Rudenka, Waldemar, Misiorowski, Irina Zakharova, Alena Rudenka, Jacek Łukaszkiewicz, Ewa Marcinowska-Suchowierska, Natalia Łaszcz, Pawel Abramowicz, Harjit P. Bhattoa, &lt;strong>Sunil J. Wimalawansa&lt;/strong>&lt;/p></description></item><item><title>6,000 IU needed for many to achieve 40 ng of Vitamin D</title><link>/posts/6000-iu-needed-for-many-to-achieve-40-ng-of-vitamin-d.html</link><pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate><guid>/posts/6000-iu-needed-for-many-to-achieve-40-ng-of-vitamin-d.html</guid><description/></item><item><title>Breast Cancer Mortality reduced 60 percent if more than 60 ng of Vitamin D – meta-analysis</title><link>/posts/breast-cancer-mortality-reduced-60-percent-if-more-than-60-ng-of-vitamin-d-meta-analysis.html</link><pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate><guid>/posts/breast-cancer-mortality-reduced-60-percent-if-more-than-60-ng-of-vitamin-d-meta-analysis.html</guid><description>&lt;p>&lt;strong>The risk of &lt;span style="color:#F00;">44 &lt;/span> diseases at least double with poor &lt;a href="/categories/vitamin-d-receptor">Vitamin D Receptor&lt;/a> as of Oct 2019&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="/posts/vitamin-d-receptor-activation-can-be-increased-by-any-of-resveratrol-hsoverview--lping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor)) activation can be increased by any of: ((Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D">Omega-3&lt;/a>,  &lt;a href="/posts/magnesium-and-vitamin-d">Magnesium&lt;/a>,  &lt;a href="/posts/zinc-and-vitamin-d">Zinc&lt;/a>,   &lt;a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin&lt;/a>,   &lt;a href="/categories/better-than-daily">non-daily Vit D&lt;/a>,  &lt;a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor">Curcumin&lt;/a>, intense exercise,   Ginger,   Essential oils, etc&lt;/strong>   &lt;strong>Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators&lt;/strong>&lt;/p></description></item><item><title>No Preeclampsia during pregnancy if more than 60 ng of vitamin D – RCT</title><link>/posts/no-preeclampsia-during-pregnancy-if-more-than-60-ng-of-vitamin-d-rct.html</link><pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/no-preeclampsia-during-pregnancy-if-more-than-60-ng-of-vitamin-d-rct.html</guid><description/></item><item><title>Vitamin D levels increased - even back in 2010</title><link>/posts/vitamin-d-levels-increased-even-back-in-2010.html</link><pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-levels-increased-even-back-in-2010.html</guid><description>&lt;h3 id="2x-increase-in--with--40-ngml-in-eight-years">2X increase in % with &amp;gt; 40 ng/ml in eight years&lt;/h3>
+&lt;p>&lt;strong>Update: &lt;a href="/posts/vitamin-d-levels-in-us-percent-having-more-than-40-ng-doubled-2001-2010">Vitamin D levels in US: percent having more than 40 ng doubled (2001-2010) - Dec 2016&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Vitamin D RCT using 100,000 IU monthly for a variety of health problems – results of ViDA due in 2016</title><link>/posts/vitamin-d-rct-using-100000-iu-monthly-for-a-variety-of-health-problems-results-of-vida-due-in-2016.html</link><pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-rct-using-100000-iu-monthly-for-a-variety-of-health-problems-results-of-vida-due-in-2016.html</guid><description>&lt;h4 id="update">Update&lt;/h4>
+&lt;p>&lt;a href="/posts/monthly-100000-iu-of-vitamin-d-is-safe-and-may-be-better-than-daily-rct">Monthly 100,000 IU of vitamin D is safe (and may be better than daily) – RCT Aug 2018&lt;/a>&lt;/p>
+&lt;h4 id="the-vitamin-dassessment-vida-study-design-of-a-randomized-controlled-trial-of-vitamin-d-supplementation-for-the-prevention-of-cardiovascular-disease-acute-respiratory-infection-falls-and-non-vertebral-fractures">The Vitamin DAssessment (ViDA) Study: design of a randomized controlled trial of vitamin D supplementation for the prevention of cardiovascular disease, acute respiratory infection, falls and non-vertebral fractures.&lt;/h4>
+&lt;p>J Steroid Biochem Mol Biol. 2015 Sep 10. pii: S0960-0760(15)30070-4. &lt;a href="https://doi.org/10.1016/j.jsbmb.2015.09.010.">doi: 10.1016/j.jsbmb.2015.09.010.&lt;/a>&lt;/p>
+&lt;p>Scragg R1, Waayer D2, Stewart AW2, Lawes CM2, Toop L3, Murphy J2, Khaw KT4, Camargo CA Jr5.&lt;/p></description></item><item><title>Vitamin D more than 40 ng: 1300 IU 50% chance: 5,000 IU 80% chance</title><link>/posts/vitamin-d-more-than-40-ng-1300-iu-50-percent-chance-5000-iu-80-percent-chance.html</link><pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-more-than-40-ng-1300-iu-50-percent-chance-5000-iu-80-percent-chance.html</guid><description>&lt;h3 id="spangrassrootshealthorgspan">&lt;span>[Grassrootshealth.org]&lt;/span>&lt;/h3>
+&lt;img src="/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;p>&lt;strong>Goal = 40 nanogram/ml&lt;/strong>&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Daily&lt;/td>
+ &lt;td>Response &lt;br>&amp;gt;40 ng&lt;/td>
+ &lt;td>How often to take&lt;br>50,000 IU capsule&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1,300 IU&lt;/td>
+ &lt;td>50%&lt;/td>
+ &lt;td>too long&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>5,000 IU&lt;/td>
+ &lt;td>83%&lt;/td>
+ &lt;td>once every 10 days&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10,000 IU&lt;/td>
+ &lt;td>96%&lt;/td>
+ &lt;td>once every 5 days&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="see-also-vitamindwiki">See also VitaminDWiki&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-dose-for-140-lb-woman">Vitamin D dose for 140 lb woman - Sept 2015&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-cofactors-in-a-nutshell">Vitamin D Cofactors in a nutshell&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/overview-toxicity-of-vitamin-d">Overview Toxicity of vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/too-much-vitamin-d">Too much Vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/overview-loading-of-vitamin-d">Overview Loading of vitamin D&lt;/a> get a good Vitamin D level in days, not months&lt;/p></description></item><item><title>Vitamin D supplementation improved quality of life</title><link>/posts/vitamin-d-supplementation-improved-quality-of-life.html</link><pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-supplementation-improved-quality-of-life.html</guid><description>&lt;h4 id="the-effectiveness-of-a-preventive-health-program-and-vitamin-d-status-in-improving-health-related-quality-of-life-of-older-canadians">The effectiveness of a preventive health program and vitamin D status in improving health-related quality of life of older Canadians.&lt;/h4>
+&lt;p>Qual Life Res. 2015 Aug 18. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Ekwaru JP1, Ohinmaa A, Veugelers PJ.&lt;/p>
+&lt;p>1School of Public Health, University of Alberta, 3-50 University Terrace, 8303 - 112 Street, Edmonton, AB, T6G 2T4, Canada.&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/qol.jpg" alt="image" width="900">
+&lt;p>PURPOSE: To assess the effectiveness of a preventive health program and vitamin D status in improving the health-related quality of life (HRQOL) of older residents of Canada.&lt;/p></description></item><item><title>Vitamin D average level was 33 ng after 400,000 IU in 2 months - RCT</title><link>/posts/vitamin-d-average-level-was-33-ng-after-400000-iu-in-2-months-rct.html</link><pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-average-level-was-33-ng-after-400000-iu-in-2-months-rct.html</guid><description>&lt;p>&lt;strong>A Randomized, Double-Blind, Parallel Study to Evaluate the Dose-Response of Three Different Vitamin D Treatment Schemes on the 25-Hydroxyvitamin D Serum Concentration in Patients with Vitamin D Deficiency&lt;/strong>&lt;/p>
+&lt;p>Nutrients 2015, 7(7), 5413-5422; doi:10.3390/nu7075227&lt;/p>
+&lt;p>Marie-Louise Schleck 1 &lt;a href="mailto:Etienne.cavalier@chu.ulg.ac.be">Etienne.cavalier@chu.ulg.ac.be&lt;/a> , Jean-Claude Souberbielle 2, Bernard Jandrain 3, Stéphanie Da Silva 4, Sophie De Niet 4, Francis Vanderbist 4, André Scheen 5 and Etienne Cavalier&lt;/p>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;p>1 Department of Clinical Chemistry, University of Liège, CHU Sart-Tilman, Liège B-4000, Belgium; E-Mail: &lt;a href="mailto:mlschleck@chu.ulg.ac.be">mlschleck@chu.ulg.ac.be&lt;/a>&lt;/p></description></item><item><title>Vitamin D supplementation in Ireland - big increase in people with 20-50 nanograms in 20 years</title><link>/posts/vitamin-d-supplementation-in-ireland-big-increase-in-people-with-20-50-nanograms-in-20-years.html</link><pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-supplementation-in-ireland-big-increase-in-people-with-20-50-nanograms-in-20-years.html</guid><description>&lt;h3 id="rising-trend-in-vitamin-d-status-from-1993-to-2013-dual-concerns-for-the-future">Rising Trend in Vitamin D status from 1993 to 2013: Dual Concerns for the Future&lt;/h3>
+&lt;p>Malachi J. McKenna1-3, Barbara F. Murray, Myra O’Keane 1, Mark T. Kilbane1&lt;/p>
+&lt;p>Metabolism Laboratory1, St. Vincent’s University Hospital; Department of Endocrinology, St.&lt;/p>
+&lt;p>Vincent’s University Hospital; School of Medicine and Medical Sciences, University College Dublin3; Dublin, Ireland.&lt;/p>
+&lt;p>Corresponding author and person to whom reprint requests should be addressed:&lt;/p>
+&lt;p>Dr. Malachi McKenna, Department of Endocrinology, St. Vincent’s University Hospital, Elm Park, Dublin 4, Ireland., mjmckenn@,iol.ie&lt;/p></description></item><item><title>4 more reasons to have more than 40 ng of vitamin D - 2015</title><link>/posts/4-more-reasons-to-have-more-than-40-ng-of-vitamin-d-2015.html</link><pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate><guid>/posts/4-more-reasons-to-have-more-than-40-ng-of-vitamin-d-2015.html</guid><description>&lt;h3 id="charts-by-httpwwwvitamindservicecom-originals-in-german">Charts by &lt;a href="http://www.vitamindservice.com/">http://www.vitamindservice.com/&lt;/a> (originals in German)&lt;/h3>
+&lt;p>&lt;a href="/posts/free-vitamin-d-evaluation-service">Free Vitamin D evaluation service&lt;/a> = description of vitamindservice on VitaminDWiki&lt;/p>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;h2 id="data-by-dr-grant">Data by Dr. Grant&lt;/h2>
+&lt;h3 id="pmid--25667506-grant-2015">PMID = 25667506 Grant 2015&lt;/h3>
+&lt;p>&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=25667506">25-hydroxyvitamin D and breast cancer, colorectal cancer, and colorectal adenomas: case-control versus nested case-control studies&lt;/a>&lt;/p>
+&lt;p>Anticancer Res. 2015 Feb;35(2):1153-60&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/anti-cancer-grant-2015.pdf">Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;h3 id="pmid--20570169-grant-2010">PMID = 20570169 Grant 2010&lt;/h3>
+&lt;p>&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=20570169">Relation between prediagnostic serum 25-hydroxyvitamin D level and incidence of breast, colorectal, and other cancers.&lt;/a>&lt;/p></description></item><item><title>Canadian foundation (Pure North) prevents chronic disease with 60 ng Vitamin D</title><link>/posts/canadian-foundation-pure-north-prevents-chronic-disease-with-60-ng-vitamin-d.html</link><pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/canadian-foundation-pure-north-prevents-chronic-disease-with-60-ng-vitamin-d.html</guid><description/></item><item><title>Pure North (Calgary) improves health by raising vitamin D to 60 ng</title><link>/posts/pure-north-calgary-improves-health-by-raising-vitamin-d-to-60-ng.html</link><pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/pure-north-calgary-improves-health-by-raising-vitamin-d-to-60-ng.html</guid><description/></item><item><title>Best Vitamin D- 40 to 52 ng, achieved with 4000 – 6000 IU daily – Heaney</title><link>/posts/best-vitamin-d-40-to-52-ng-achieved-with-4000-6000-iu-daily-heaney.html</link><pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/best-vitamin-d-40-to-52-ng-achieved-with-4000-6000-iu-daily-heaney.html</guid><description>&lt;h3 id="toward-a-physiological-referent-for-the-vitamin-d-requirement">Toward a physiological referent for the vitamin D requirement&lt;/h3>
+&lt;p>J Endocrinol Invest (2014) 37:1127–1130&lt;/p>
+&lt;p>R. P. Heaney &lt;a href="mailto:rpheaney@creighton.edu">rpheaney@creighton.edu&lt;/a> Creighton University, 2500 California Plaza, Omaha, NE 68132, USA&lt;/p>
+&lt;p>Received: 16 September 2014 / Accepted: 4 October 2014 / Published online: 12 October 2014 © Italian Society of Endocrinology (SIE) 2014&lt;/p>
+&lt;h4 id="figure-1">Figure 1&lt;/h4>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/heaney.jpg" alt="image">
+&lt;p>Current approaches to setting nutrient intake recommendations are based in a disease-prevention paradigm. The disease to be prevented is typically the disorder classically associated with the nutrient concerned: scurvy for vitamin C, polyneuritis for thiamine, bone disease for vitamin D (D). And the method used is the randomized, controlled trial. While there is growing recognition that nutrients affect many systems, the disease-prevention approach continues, in most cases, to focus on one, or at most two, body systems. For D (cholecalciferol), that system is the skeleton &lt;sup>[1]&lt;/sup>.&lt;/p></description></item><item><title>Optimum Vitamin D for bones might be 40 ng</title><link>/posts/optimum-vitamin-d-for-bones-might-be-40-ng.html</link><pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/optimum-vitamin-d-for-bones-might-be-40-ng.html</guid><description>&lt;h4 id="finding-the-optimum-scenario-in-risk-benefit-assessment-an-example-on-vitamin-d">Finding the Optimum Scenario in Risk-benefit Assessment: An Example on Vitamin D&lt;/h4>
+&lt;p>European Journal Of Nutrition And Food Safety 4, 2014, (4) page 558-576&lt;/p>
+&lt;p>Berjia, Firew Lemma, Technical University of Denmark,National Food Institute, Division of Microbiology and Risk Assessment&lt;/p>
+&lt;p>Hoekstra, J.RIVM, Verhagen, H. RIVM&lt;/p>
+&lt;p>Poulsen, Morten, Technical University of Denmark, National Food Institute&lt;/p>
+&lt;p>Andersen, Rikke, Technical University of Denmark, National Food Institute&lt;/p>
+&lt;p>Nauta, Maarten, Technical University of Denmark, National Food Institute&lt;/p></description></item><item><title>What is the optimal level of vitamin D:letter to Editor - more than 30 ng</title><link>/posts/what-is-the-optimal-level-of-vitamin-dletter-to-editor-more-than-30-ng.html</link><pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate><guid>/posts/what-is-the-optimal-level-of-vitamin-dletter-to-editor-more-than-30-ng.html</guid><description>&lt;p>&lt;a href="http://www.racgp.org.au/afp/2014/october/letters-to-the-editor/">Aust Fam Physician.2014;43(10):668, 670. &lt;/a>&lt;/p>
+&lt;p>Grant WB. What is the optimal level of vitamin D?&lt;/p>
+&lt;p>Dear Editor&lt;/p>
+&lt;p>The paper by Robyn Lucas and Rachel Neale addresses the question: What is the optimal level of vitamin D?27 Unfortunately, they seem to have chosen papers from the literature to support their idea that 50 nmol/L is adequate, ignoring other papers that support higher levels. The purpose of my letter is to point out some of the problems with the papers they cited and present some of the findings in papers they overlooked.&lt;/p></description></item><item><title>Vitamin D (40-70 ng) in Children’s Health – review</title><link>/posts/vitamin-d-40-70-ng-in-childrens-health-review.html</link><pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-40-70-ng-in-childrens-health-review.html</guid><description>&lt;p>Children 2014, 1(2), 208-226; doi:10.3390/children1020208, Published: 12 September 2014&lt;/p>
+&lt;p>Joy A. Weydert &lt;a href="mailto:jweydert@kumc.edu">jweydert@kumc.edu&lt;/a>&lt;/p>
+&lt;p>Department of Pediatrics, University of Kansas Medical Center, 3901 Rainbow Blvd., MS 4004 Kansas City, KS 66160, USA&lt;/p>
+&lt;p>(This article belongs to the Special Issue Pediatric Integrative Medicine: An Emerging Field of Pediatrics)&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:>70%">
+&lt;ul>
+&lt;li>
+&lt;p>infant formula has approximately only 270 to 677 IU/L&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>D3 is preferred over D2 for several reasons&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Many infants are in groups which are likely to be VERY vitamin D deficient, and need more 400 IU&lt;/p></description></item><item><title>South Australians: 88 percent had less than 40 ng of vitamin D (lots more statistics)</title><link>/posts/south-australians-88-percent-had-less-than-40-ng-of-vitamin-d-lots-more-statistics.html</link><pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/south-australians-88-percent-had-less-than-40-ng-of-vitamin-d-lots-more-statistics.html</guid><description>&lt;h4 id="span-stylecolor00fnote-40-ng-is-the-miniumum-agreed-upon-optimum-level-of-vitamin-dspan">&lt;span style="color:#00F;">Note: 40 ng is the miniumum agreed-upon optimum level of vitamin D&lt;/span>&lt;/h4>
+&lt;h3 id="vitamin-d-levels-in-an-australian-population">Vitamin D levels in an Australian population&lt;/h3>
+&lt;p>BMC Public Health 2014, 14:1001 doi:10.1186/1471-2458-14-1001&lt;/p>
+&lt;p>Tiffany K Gill, Catherine L Hill, E Michael Shanahan, Anne W Taylor, Sarah L Appleton, Janet F Grant, Zumin Shi, Eleonora Dal Grande, Kay Price and Robert J Adams&lt;/p>
+&lt;p>Background&lt;/p>
+&lt;p>Levels of vitamin D in the population have come under increasing scrutiny, however there are only a few studies in Australia which measure levels in the general population. The aim of this study was to measure the levels of vitamin D within a large population cohort and examine the association with seasons and selected demographic and health risk factors.&lt;/p></description></item><item><title>How much vitamin D editorial– Goldilocks Principle</title><link>/posts/how-much-vitamin-d-editorial-goldilocks-principle.html</link><pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate><guid>/posts/how-much-vitamin-d-editorial-goldilocks-principle.html</guid><description>&lt;h4 id="vitamin-d-and-the-goldilocks-principle-too-little-too-much-or-just-right">Vitamin D and the Goldilocks Principle: Too Little, Too Much, or Just Right?&lt;/h4>
+&lt;p>JCEM Editorial; DOI: &lt;a href="http://dx.doi.org/10.1210/jc.2014-1350">http://dx.doi.org/10.1210/jc.2014-1350&lt;/a>&lt;/p>
+&lt;p>Received: February 05, 2014, Accepted: February 10, 2014; Published Online: April 04, 2014&lt;/p>
+&lt;p>Matthew T. Drake&lt;/p>
+&lt;p>Vitamin D has long been recognized for its central role in calcium homeostasis and in the maintenance of skeletal health due to its effects on intestinal calcium absorption. More recently, however, an ever expanding array of studies have suggested that vitamin D may play a pivotal role across much of the human health and disease spectrum—including in such diverse conditions as cancer, cardiovascular disease, depression, dementia, diabetes, fall risk, immune disorders, infections, and pregnancy, among others (1).&lt;/p></description></item><item><title>Can get 50,000 IU Vitamin D anywhere on the globe</title><link>/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe.html</link><pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#international-shipping-from-the-us-of-vitamin-d-include">International Shipping from the US of vitamin D include:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#amazon--often-does-not-ship-health-products-out-of-the-country">Amazon often does not ship health products out of the country.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#many-amazon-products-can-be-sent-to-many-countries-unsure-about-health-products">Many Amazon products can be sent to many countries (unsure about health products)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#amazon-and-non-amazon-can-be-forwarded-to-many-countries">Amazon AND non-Amazon can be forwarded to many countries&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="international-shipping-from-the-us-of-vitamin-d-include">International Shipping from the US of vitamin D include:&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.biotechpharmacal.com/catalog/category/vitamin-d/">Bio-Tech Pharmacal&lt;/a> my trusted favorite for vitamin D&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.swansonvitamins.com/q?kw=%22vitamin+d%22%20">Swanson’s Vitamins&lt;/a> I often used them&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://search.puritan.com/search?view=grid&amp;amp;w=%22vitamin+d%22&amp;amp;x=0&amp;amp;y=0">Puritan Vitamin&lt;/a> often sells vitamin D at a loss, &lt;a href="http://www.puritan.com/house/helpcenter.asp?icid=ros-_-footer-_-IntlShipping#InternationalShipments">International Shipping information&lt;/a>&lt;/p></description></item><item><title>A group of 6,000 people have vitamin D levels higher than 50 ng – GrassrootsHealth</title><link>/posts/a-group-of-6000-people-have-vitamin-d-levels-higher-than-50-ng-grassrootshealth.html</link><pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/a-group-of-6000-people-have-vitamin-d-levels-higher-than-50-ng-grassrootshealth.html</guid><description>&lt;blockquote>
+&lt;p>6,000 as of March 2014.&lt;/p>
+&lt;/blockquote>
+&lt;p>Expect to soon announce an &amp;lsquo;open access&amp;rsquo; database&lt;/p>
+&lt;p>Dr. Mercola joined the D*action project in early 2013&lt;/p>
+&lt;h4 id="grassrootshealth-charts-include">GrassrootsHealth Charts include&lt;/h4>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;h4 id="a-hrefpostsdata-from-grassrootshealth-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-4210data-from-grassrootshealtha-was-reformated-by-vitamindwiki-to-make-the-following">&lt;a href="/posts/data-from-grassrootshealth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4210">Data from GrassrootsHealth&lt;/a> was reformated by VitaminDWiki to make the following&lt;/h4>
+&lt;img src="/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;h1 id="grassrootshttpswwwgrassrootshealthnetquestionnaire-welcomec1js1">&lt;a href="https://www.grassrootshealth.net/questionnaire-welcome?c=1&amp;amp;js=1">Grassroots&lt;/a>&lt;/h1>
+&lt;p>&lt;a href="http://www.facebook.com/pages/GrassrootsHealthnet-Vitamin-D-Action/198626816074">Facebook for Grassroots&lt;/a>&lt;/p>
+&lt;p>GrassrootsHealth is sponsoring the use of blood spot test kits (laboratory analysis done by ZRT Labs) for a $65.00 + $5 shipping.&lt;/p></description></item><item><title>Hypothesis by VitaminDWiki – Vitamin D levels are no longer limited by evolution</title><link>/posts/hypothesis-by-vitamindwiki-vitamin-d-levels-are-no-longer-limited-by-evolution.html</link><pubDate>Sun, 02 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/hypothesis-by-vitamindwiki-vitamin-d-levels-are-no-longer-limited-by-evolution.html</guid><description/></item><item><title>French uncertain as to acceptable vitamin D levels: 11, 20, 30, 46 ng ( 80 percent less than 30 ng)</title><link>/posts/french-uncertain-as-to-acceptable-vitamin-d-levels-11-20-30-46-ng-80-percent-less-than-30-ng.html</link><pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/french-uncertain-as-to-acceptable-vitamin-d-levels-11-20-30-46-ng-80-percent-less-than-30-ng.html</guid><description>&lt;h4 id="vitamin-d-insufficiency-in-adults-beware-of-vague-concepts-with-uncertain-clinical-relevance">Vitamin D &amp;ldquo;insufficiency&amp;rdquo; in adults. Beware of vague concepts with uncertain clinical relevance.&lt;/h4>
+&lt;p>Prescrire Int. 2013 Oct;22(142):245-8. &lt;span>[No authors listed]&lt;/span>&lt;/p>
+&lt;p>According to certain &amp;ldquo;reference ranges&amp;rdquo;, about a billion people worldwide, including &lt;strong>80% of the French population&lt;/strong> , have vitamin D insufficiency or deficiency. In France, serum vitamin D assay has become commonplace. Between 2010 and 2011, the number of tests performed increased by about 70%, the most rapid growth in any laboratory assay.&lt;/p></description></item><item><title>Dr. Oz recommends at least 50 ng of vitamin D</title><link>/posts/dr-oz-recommends-at-least-50-ng-of-vitamin-d.html</link><pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/dr-oz-recommends-at-least-50-ng-of-vitamin-d.html</guid><description/></item><item><title>Sports benefits from up to 50 ng of Vitamin – meta-analysis</title><link>/posts/sports-benefits-from-up-to-50-ng-of-vitamin-meta-analysis.html</link><pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/sports-benefits-from-up-to-50-ng-of-vitamin-meta-analysis.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#00F;">References in PDF attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Short url =&lt;/strong> &lt;a href="http://is.gd/Vitdsports">http://is.gd/Vitdsports&lt;/a>&lt;/p></description></item><item><title>At least 5,000 IU Vitamin D to get to optimal 50 ng - LEF</title><link>/posts/at-least-5000-iu-vitamin-d-to-get-to-optimal-50-ng-lef.html</link><pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/at-least-5000-iu-vitamin-d-to-get-to-optimal-50-ng-lef.html</guid><description>&lt;p>When trying to purchase another Vitamin D test at Life Extension Foundation I got the following pleasant message&lt;/p>
+&lt;p>Life Extension’s research has found that if a person is not taking at least &lt;strong>5000IU&lt;/strong> of vitamin D a day they will likely be below an &lt;strong>optimal blood value of 50ng/mL.&lt;/strong>&lt;/p>
+&lt;p>Life Extension suggests most people take this amount for at least 1 month before doing their vitamin D blood test.&lt;/p>
+&lt;p>Please see our January 2010 magazine article &amp;ldquo;Startling Findings About Vitamin D Levels in Life Extension Members&amp;rdquo; for more details.&lt;/p></description></item><item><title>90 percent of Canadians do not have optimal levels of vitamin D</title><link>/posts/90-percent-of-canadians-do-not-have-optimal-levels-of-vitamin-d.html</link><pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/90-percent-of-canadians-do-not-have-optimal-levels-of-vitamin-d.html</guid><description>&lt;h4 id="from-woodstock-on-prwebhttpwwwprwebcomreleases201311prweb11288007htm20-october-31-2013">From &lt;a href="http://www.prweb.com/releases/2013/11/prweb11288007.htm%20">Woodstock, ON (PRWEB)&lt;/a> October 31, 2013&lt;/h4>
+&lt;h4 id="vitamin-d-day-november-2nd--help-stop-vitamin-d-deficiency">Vitamin D Day November 2nd – Help Stop Vitamin D Deficiency&lt;/h4>
+&lt;p>November is the start of the season when most Canadians become vitamin D deficient due to lack of sunlight.&lt;/p>
+&lt;p>The Vitamin D Society is asking all Canadians to assess their vitamin D levels on Vitamin D Day November 2nd and to take action to prevent vitamin D deficiency.&lt;/p>
+&lt;p>It’s now quite clear that our ancestral vitamin D status was a lot higher than most citizens of the industrialized nations achieve today&lt;/p></description></item><item><title>Children in Australian Northern Territory have 38 ng of vitamin D</title><link>/posts/children-in-australian-northern-territory-have-38-ng-of-vitamin-d.html</link><pubDate>Tue, 22 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/children-in-australian-northern-territory-have-38-ng-of-vitamin-d.html</guid><description>&lt;h3 id="the-prevalence-of-vitamin-d-deficiency-in-children-in-the-northern-territory">The prevalence of vitamin D deficiency in children in the Northern Territory&lt;/h3>
+&lt;p>Journal of Paediatrics and Child Health 22 OCT 2013, DOI: 10.1111/jpc.12413&lt;/p>
+&lt;p>Amanda Dyson1,†,*, Susan J Pizzutto2, Carolyn MacLennan1, Monique Stone1, Anne B Chang2&lt;/p>
+&lt;p>Aims: The primary aim of this study was to determine the frequency of vitD deficiency/insufficiency in an opportunistic sample of Northern Territory (NT) children. The secondary aim was to evaluate whether: (i) 25(OH)vitD (25(OH)D) levels differ between Indigenous/non-Indigenous children; and (ii) VitD insufficiency is associated with increased acute/infective hospitalisations.&lt;/p></description></item><item><title>Sleep disorders cured by 60-80 ng of vitamin D and some B vitamins</title><link>/posts/sleep-disorders-cured-by-60-80-ng-of-vitamin-d-and-some-b-vitamins.html</link><pubDate>Sun, 06 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/sleep-disorders-cured-by-60-80-ng-of-vitamin-d-and-some-b-vitamins.html</guid><description>&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/gorminak.jpg" alt="image" width="300">
+&lt;h3 id="a-few-of-dr-gominaks-slides">A few of Dr. Gominak&amp;rsquo;s slides,&lt;/h3>
+&lt;p>all slides are attached at the bottom of this page&lt;/p>
+&lt;h3 id="updates">Updates:&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="/posts/sleep-vitamin-d-vitamin-b-12-ibs-fibromyalgia-gominak">Sleep, Vitamin D, Vitamin B-12, IBS, Fibromyalgia - Gominak March 2015&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="/posts/sleep-problems-cured-by-vitamin-d-etc-workshops-and-patient-workbooks-gominak-2018">Sleep problems cured by vitamin D, etc. – workshops and patient workbooks – Gominak 2018&lt;/a>&lt;/strong>&lt;/p>
+&lt;h3 id="whats-the-right-dose">What’s the right dose?&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>We make 20,000 IU of vitamin D on our skin in 1-6 hours in a bathing suit, middle of the day middle of the summer.&lt;/p></description></item><item><title>Optimum Vitamin D level: Evidence for 30 and 40 ng – Grant</title><link>/posts/optimum-vitamin-d-level-evidence-for-30-and-40-ng-grant.html</link><pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/optimum-vitamin-d-level-evidence-for-30-and-40-ng-grant.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#evidence-that-the-minimum-optimal-serum-25ohd-concentration-is-30-ngml-or-40-ngml">Evidence that the minimum optimal serum 25(OH)D concentration is 30 ng/ml (or 40 ng/ml)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="evidence-that-the-minimum-optimal-serum-25ohd-concentration-is-30-ngml-or-40-ngml">Evidence that the minimum optimal serum 25(OH)D concentration is 30 ng/ml (or 40 ng/ml)&lt;/h4>
+&lt;p>William B. Grant, Ph.D.&lt;/p>
+&lt;p>Sunlight, Nutrition, and Health Research Center, P.O. Box 641603&lt;/p>
+&lt;p>San Francisco, CA 94164-1603, USA		www.sunarc.org, &lt;a href="mailto:wbgrant@infionline.net">wbgrant@infionline.net&lt;/a>&lt;/p>
+&lt;p>From my review of the journal literature, 30 ng/ml is the minimum 25(OH)D concentration associated with optimal health. This value has been reported for pregnancy outcomes, breast cancer in case-control studies, colorectal cancer in case-control and cohort studies, cardiovascular disease, all-cause mortality rate, and agreed to in several reviews &lt;span>[Bischoff-Ferrari, 2006, 2008; Holick, 2011; Miller, 2011; Pérez-López, 2012; Souberbielle, 2010; Vieth, 2011]&lt;/span>.&lt;/p></description></item><item><title>Update on Treating Multiple Sclerosis with high dose vitamin D</title><link>/posts/update-on-treating-multiple-sclerosis-with-high-dose-vitamin-d.html</link><pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/update-on-treating-multiple-sclerosis-with-high-dose-vitamin-d.html</guid><description/></item><item><title>Cluster headaches virtually eliminated in 7,000 people with high-dose vitamin D and cofactors</title><link>/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors.html</link><pubDate>Tue, 24 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors.html</guid><description>&lt;h4 id="fda-approved-cluster-headache-drug-in-spring-2019">FDA approved Cluster Headache drug in Spring 2019&lt;/h4>
+&lt;ul>
+&lt;li>$550/mo only slightly better than placebo, major side effects, &lt;a href="https://dgalerts.docguide.com/first-treatment-approved-fda-episodic-cluster-headache?nl_ref=newsletter&amp;amp;pk_campaign=newsletter&amp;amp;nl_eventid=29908%20">News Release&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Emgality experienced 8.7 fewer weekly cluster headache attacks than they did at baseline, compared to 5.2 fewer attacks for patients on placebo. &amp;quot;&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Emgality is given by patient self-injection. It was first approved by the FDA in September 2018 for the preventive treatment of migraine in adults. The FDA granted the approval of Emgality to Eli Lilly. &amp;quot;&lt;/p></description></item><item><title>Need 40 to 80 ng of vitamin D to lose weight – Colgan</title><link>/posts/need-40-to-80-ng-of-vitamin-d-to-lose-weight-colgan.html</link><pubDate>Sat, 21 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/need-40-to-80-ng-of-vitamin-d-to-lose-weight-colgan.html</guid><description>&lt;h3 id="vitamin-d-against-overweight-dr-michael-colganhttpswwwfacebookcomcortexhypnosisposts70402531627773820-facebook-sept-2013">&lt;a href="https://www.facebook.com/cortexhypnosis/posts/704025316277738%20">Vitamin D against Overweight, Dr Michael Colgan&lt;/a> Facebook Sept 2013&lt;/h3>
+&lt;p>When I write about different nutrients and lifestyle factors that regulate body fat, I get a few folk writing back saying that overeating or processed carbs, or couch surfing, are the main causes. Of course they are. If you follow Miss Piggy’s advice to, “Never eat anything bigger than your head”, you’re going to be fat as a porker.&lt;/p>
+&lt;p>But we have hundreds of folk through the Colgan Institute who are trying their best to lose fat, sticking to good nutrition and exercise that would lean most of us down to a rail. &lt;strong>Yet the fat, especially belly fat, just hangs on&lt;/strong> . In these articles, I give you the factors backed by the most robust science, that we use to get them over the hump. I like to keep articles short, down to 5 or 6 main studies, but this time, just for once, I will cite a bit more of the latest evidence than usual, just to let folk know that we know what we are doing. It’s certainly the case with vitamin D.&lt;/p></description></item><item><title>Restoring vitamin D - ways to encourage</title><link>/posts/restoring-vitamin-d-ways-to-encourage.html</link><pubDate>Mon, 16 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/restoring-vitamin-d-ways-to-encourage.html</guid><description>&lt;h2 id="related---how-can-we-change-behavior-to-increase-health">Related - how can we change behavior to increase health&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://www.technologyreview.com/news/518901/esther-dyson-we-need-to-fix-health-behavior/">Esther Dyson: We Need to Fix Health Behavior&lt;/a> Fast Company, Sept 2013&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In March, Dyson(a health investment angel) released a &lt;a href="http://www.project-syndicate.org/commentary/how-communities-can-hold-down-health-care-costs-by-esther-dyson">manifesto&lt;/a> describing new idea:&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>create a challenge among small U.S. cities to see which can most improve its health, measured by factors like weight, blood pressure, and sick days.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>First paragraph in manifesto: It is hard to find anyone in health care who does not believe that spending $100 now on healthy behavior – exercise and proper nutrition, counseling for pre-diabetics, risk monitoring, and so on – could yield more than $200 in reduced costs and improved outcomes later.&lt;/p></description></item><item><title>Vitamin D provides many benefits and is cost-effective (need 32-40 ng) – Summer 2013</title><link>/posts/vitamin-d-provides-many-benefits-and-is-cost-effective-need-32-40-ng-summer-2013.html</link><pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-provides-many-benefits-and-is-cost-effective-need-32-40-ng-summer-2013.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effect-of-vitamin-d-status-on-pharmacological-treatment-efficacy">Effect of Vitamin D Status on Pharmacological Treatment Efficacy&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-and-infectious-diseases">Vitamin D supplementation and infectious diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-as-adjunctive-therapy-in-autoimmune-diseases">Vitamin D supplementation as adjunctive therapy in autoimmune diseases&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#table-2-2000-iu-of-vitamin-d-reduced-atopic-dermatitus-by-2x">Table 2: 2000 IU of vitamin D reduced atopic dermatitus by 2X&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-as-adjunctive-therapy-in-ckd">Vitamin D supplementation as adjunctive therapy in CKD&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-as-adjunctive-therapy-in-osteoporosis">Vitamin D supplementation as adjunctive therapy in osteoporosis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-as-adjunctive-therapy-in-neurological-disorders">Vitamin D supplementation as adjunctive therapy in neurological disorders&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#conclusions">Conclusions&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h1 id="effect-of-vitamin-d-status-on-pharmacological-treatment-efficiency-impact-on-cost-effective-management-in-medicine">Effect of vitamin D status on pharmacological treatment efficiency: Impact on cost-effective management in medicine&lt;/h1>
+&lt;p>Dermato-Endocrinology • Volume 5 • Issue 2&lt;/p></description></item><item><title>30 to 50 ng of vitamin D is optimal – Central Europe consensus</title><link>/posts/30-to-50-ng-of-vitamin-d-is-optimal-central-europe-consensus.html</link><pubDate>Thu, 05 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/30-to-50-ng-of-vitamin-d-is-optimal-central-europe-consensus.html</guid><description>&lt;p>&lt;strong>Short url =&lt;/strong> &lt;a href="http://is.gd/PolandVitD">http://is.gd/PolandVitD&lt;/a>&lt;/p></description></item><item><title>45 ng vitamin D may be enough (what about vitamin A)</title><link>/posts/45-ng-vitamin-d-may-be-enough-what-about-vitamin-a.html</link><pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/45-ng-vitamin-d-may-be-enough-what-about-vitamin-a.html</guid><description/></item><item><title>37 percent of globe under 20 ng of vitamin D (suspect 80 percent less than optimal )</title><link>/posts/37-percent-of-globe-under-20-ng-of-vitamin-d-suspect-80-percent-less-than-optimal.html</link><pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/37-percent-of-globe-under-20-ng-of-vitamin-d-suspect-80-percent-less-than-optimal.html</guid><description>&lt;h2 id="a-systematic-review-of-vitamin-d-status-in-populations-worldwide">A systematic review of vitamin D status in populations worldwide.&lt;/h2>
+&lt;p>Br J Nutr. 2013 Aug 9:1-23.&lt;/p>
+&lt;p>Hilger J, Friedel A, Herr R, Rausch T, Roos F, Wahl DA, Pierroz DD, Weber P, Hoffmann K.&lt;/p>
+&lt;p>Mannheim Institute of Public Health, Social and Preventive Medicine, Medical Faculty Mannheim, Heidelberg University, Ludolf-Krehl-Strasse 7-11, D-68167 Mannheim, Germany.&lt;/p>
+&lt;p>Vitamin D deficiency is associated with osteoporosis and is thought to increase the risk of cancer and CVD.&lt;/p></description></item><item><title>Elite outdoor athletes had 52 ng of vitamin D</title><link>/posts/elite-outdoor-athletes-had-52-ng-of-vitamin-d.html</link><pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/elite-outdoor-athletes-had-52-ng-of-vitamin-d.html</guid><description>&lt;h3 id="training-environment-and-vitamin-d-status-in-athletes">Training environment and Vitamin D status in athletes.&lt;/h3>
+&lt;p>Int J Sports Med. 2013 Mar;34(3):248-52. &lt;a href="https://doi.org/10.1055/s-0032-1321894.">doi: 10.1055/s-0032-1321894.&lt;/a> Epub 2012 Sep 12.&lt;/p>
+&lt;p>Peeling P, Fulton SK, Binnie M, Goodman C.&lt;/p>
+&lt;p>School of Sport Science, Exercise and Health, The University of Western Australia, Crawley, Australia. &lt;a href="mailto:ppeeling@wais.org.au">ppeeling@wais.org.au&lt;/a>&lt;/p>
+&lt;p>This study assessed the associations between gender, anthropometry, predominant training environment and Vitamin D status in 72 elite athletes. Additionally, any links between Vitamin D status and recent injury/health status, or sun protection practices were investigated. Athletes underwent an anthropometric assessment and provided venous blood samples for the determination of 25-hydroxyvitamin D (25(OH)D), the accepted biological marker of Vitamin D status. Finally, athletes completed a questionnaire relating to their recent training and injury history, and their sun protection practices. The athlete cohort were divided by predominant training environment as either indoor, outdoor, or mixed training environment athletes. The average ( ± SD) 25(OH)D levels of the group were 111 ± 37 nmol/L, with the indoor training group (90 ± 28 nmol/L) significantly lower than the outdoor (131 ± 35 nmol/L), and mixed (133 ± 29 nmol/L) training groups (p = 0.0001).&lt;/p></description></item><item><title>Populations with more than 50 ng of vitamin D</title><link>/posts/populations-with-more-than-50-ng-of-vitamin-d.html</link><pubDate>Sun, 04 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/populations-with-more-than-50-ng-of-vitamin-d.html</guid><description>&lt;h4 id="the-prevalence-of-vitamin-d-deficiency-and-effects-of-ultraviolet-light-on-vitamin-d-levels-in-elderly-turkish-populationhttpwwwaggjournalcomarticles0167-494328042900130-xabstract20">&lt;a href="http://www.aggjournal.com/article/S0167-4943%2804%2900130-X/abstract%20">The prevalence of Vitamin D deficiency and effects of ultraviolet light on Vitamin D levels in elderly Turkish population&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="http://www.aggjournal.com/article/S0167-4943%2804%2900130-X/abstract">Publisher wants $31.50 for PDF&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Archives of Gerontology and Geriatrics, Volume 40, Issue 1 , Pages 53-60, January 2005&lt;/p>
+&lt;p>24 senior woman, average age 73. 158 nmols/l ± 108 = &lt;strong>&lt;span style="color:#F00;">63 ng/ml ±43&lt;/span>&lt;/strong>&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/turkey-2005.jpg" alt="image">
+&lt;p>&lt;strong>It appears that some peoples around the world still get outdoors enough to get lots of vitamin D&lt;/strong>&lt;/p></description></item><item><title>If have BRCA1 breast cancer gene, instead of double mastectomy, get 40ng of vitamin D</title><link>/posts/if-have-brca1-breast-cancer-gene-instead-of-double-mastectomy-get-40ng-of-vitamin-d.html</link><pubDate>Sun, 07 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/if-have-brca1-breast-cancer-gene-instead-of-double-mastectomy-get-40ng-of-vitamin-d.html</guid><description>&lt;h3 id="note-in-may-2013-angela-jolie-had-a-double-mastectomy-after-learning-that-she-had-brca1-gene-which-results-in-breast-cancer-in-more-than-half-of-all-females">Note: In May 2013 Angela Jolie had a double mastectomy after learning that she had BRCA1 gene which results in breast cancer in more than half of all females&lt;/h3>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/jolie.jpg" alt="image">
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/jolie2.jpg" alt="image">
+&lt;h2 id="from-a-presentation-at-vitamin-d-workshop-in-june-2013">From a presentation at Vitamin D Workshop in June 2013&lt;/h2>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/brca-1.jpg" alt="image">
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/brca-2.jpg" alt="image">
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/brca-3.jpg" alt="image">
+&lt;h2 id="see-also-vitamindwiki">See also VitaminDWiki&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/overview-breast-cancer-and-vitamin-d">Overview Breast Cancer and Vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=brca1&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for BRCA1&lt;/a> 7 items as of Oct 2013&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/the-deadly-breast-cancer-gene-is-a-myth-lancet-study-confirms">The “Deadly Breast Cancer Gene” Is A Myth, Lancet Study Confirms – Jan 2018&lt;/a>&lt;/p></description></item><item><title>Chart of Vitamin D levels vs disease - Grassroots Health</title><link>/posts/chart-of-vitamin-d-levels-vs-disease-grassroots-health.html</link><pubDate>Thu, 20 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/chart-of-vitamin-d-levels-vs-disease-grassroots-health.html</guid><description>&lt;h4 id="graphed-by-vitamindwiki-from-grassroots-data">Graphed by VitaminDWiki from Grassroots Data&lt;/h4>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;hr>
+&lt;img src="/attachments/d3.mock.jpg" alt="image"> 
+&lt;h4 id="shown-at-vitamin-d-workshop">Shown at Vitamin D Workshop&lt;/h4>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;h3 id="here-is-a-previous-version">Here is a previous version&lt;/h3>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;hr>
+&lt;h3 id="see-also-vitamindwiki">See also VitaminDWiki&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/more-than-30-ng-of-vitamin-d-probably-needed-for-long-latency-diseases">More than 30 ng of vitamin D probably needed for long-latency diseases – Aug 2012&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/grassroots-health-participants-vitamin-d-vs-age-intake-and-resulting-level">Grassroots Health participants Vitamin D vs age, intake, and resulting level – Sept 2013&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-charts-from-grassrootshealth">Vitamin D charts from GrassrootsHealth - May 2016&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Short URL =&lt;/strong> &lt;a href="https://is.gd/GRH2013">https://is.gd/GRH2013&lt;/a>&lt;/p></description></item><item><title>Vitamin D repaired nerve in rat (50,000 IU daily dose equivalent for human)</title><link>/posts/vitamin-d-repaired-nerve-in-rat-50000-iu-daily-dose-equivalent-for-human.html</link><pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-repaired-nerve-in-rat-50000-iu-daily-dose-equivalent-for-human.html</guid><description>&lt;h2 id="cholecalciferol-vitamin-d3-improves-myelination-and-recovery-after-nerve-injury">Cholecalciferol (Vitamin D3) Improves Myelination and Recovery after Nerve Injury&lt;/h2>
+&lt;p>PLoS-ONE&lt;/p>
+&lt;p>Jean-Francois Chabas, Delphine Stephan, Tanguy Marqueste, Stephane Garcia, Marie-Noelle Lavaut, Catherine Nguyen, Regis Legre, Michel Khrestchatisky, Patrick Decherchi equal contributor mail, Francois Feron equal contributor mail&lt;/p>
+&lt;p>Previously, we demonstrated i) that ergocalciferol (vitamin D2) increases axon diameter and potentiates nerve regeneration in a rat model of transected peripheral nerve and ii) that cholecalciferol (vitamin D3) improves breathing and hyper-reflexia in a rat model of paraplegia. However, before bringing this molecule to the clinic, it was of prime importance i) to assess which form – ergocalciferol versus cholecalciferol – and which dose were the most efficient and ii) to identify the molecular pathways activated by this pleiotropic molecule.&lt;/p></description></item><item><title>Defining normal level of vitamin D (need 4000-5000 IU) - Heaney Spring 2013</title><link>/posts/defining-normal-level-of-vitamin-d-need-4000-5000-iu-heaney-spring-2013.html</link><pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/defining-normal-level-of-vitamin-d-need-4000-5000-iu-heaney-spring-2013.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#part-one-defining-normal--lessons-from-our-ancestors">PART ONE: Defining normal – lessons from our ancestors&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#lessons-from-our-ancestors">Lessons from our ancestors&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#part-two-defining-normal--thermostats-feedback-and-adaptation">PART TWO: Defining normal – thermostats, feedback and adaptation&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-relationship-between-pth-and-vitamin-d">The relationship between PTH and Vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#postscript">Postscript.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#part-three-yet-another-way-of-determining-a-nutrient-requirement---analogy-to-iron">Part Three yet another way of determining a nutrient requirement - analogy to Iron&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#part-four-defining-normal--origins-and-resiliency">PART FOUR: Defining normal – origins and resiliency&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="part-one-defining-normal--lessons-from-our-ancestors">PART ONE: Defining normal – lessons from our ancestors&lt;/h2>
+&lt;p>Posted on April 1, 2013 by Robert P. Heaney&lt;/p></description></item><item><title>80 ng vitamin D doctor - interview Jan 2013 - admin only</title><link>/posts/80-ng-vitamin-d-doctor-interview-jan-2013-admin-only.html</link><pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/80-ng-vitamin-d-doctor-interview-jan-2013-admin-only.html</guid><description>&lt;p>&lt;strong>This page is currently hidden on VitaminDWiki = only admins can see it&lt;/strong>&lt;/p>
+&lt;p>This is a rough draft. There will be extensive re-writing, deleting, re-arranging&lt;/p>
+&lt;p>&lt;strong>Recently retired Family Practice physician in Jan 2013 telephone interview by Henry Lahore of VitaminDWiki&lt;/strong>&lt;/p>
+&lt;p>He started a family practice which expanded to having 8,000 patients, most of whom now have vitamin D level 80 ng ± 10 ng.&lt;/p>
+&lt;p>&lt;a href="/posts/grassrootshealth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3614">Grassrootshealth&lt;/a> provided him with the target of 80 ng of vitamin D&lt;/p></description></item><item><title>Supra-Optimal Vitamin D Status – great phrase, no detail</title><link>/posts/supra-optimal-vitamin-d-status-great-phrase-no-detail.html</link><pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/supra-optimal-vitamin-d-status-great-phrase-no-detail.html</guid><description>&lt;h4 id="higher-serum-vitamin-d-concentration-is-associated-with-better-balance-in-older-adults-with-supra-optimal-vitamin-d-status--letter-to-the-editor">Higher Serum Vitamin D Concentration Is Associated with Better Balance in Older Adults with Supra-Optimal Vitamin D Status – Letter to the Editor&lt;/h4>
+&lt;p>Journal of the American Geriatrics Society Volume 61, Issue 1, pages 163–165, January 2013&lt;/p>
+&lt;p>Cedric Annweiler MD, PhD 1,2,3,&lt;/p>
+&lt;p>Susan W. Muir PhD 1,2,&lt;/p>
+&lt;p>Shamis Nabeel Bsc 1,2,&lt;/p>
+&lt;p>Karen Gopaul Msc 1,2,&lt;/p>
+&lt;p>Olivier Beauchet MD, PhD 3,&lt;/p>
+&lt;p>Manuel Montero-Odasso MD, PhD, AGSF 1,2&lt;/p>
+&lt;p>1 Division of Geriatric Medicine, Department of Medicine, Parkwood Hospital, St. Joseph&amp;rsquo;s Health Care London, London, Ontario, Canada&lt;/p></description></item><item><title>Vitamin D Insufficiency is less than 32 or 40 ng – Heaney 2012</title><link>/posts/vitamin-d-insufficiency-is-less-than-32-or-40-ng-heaney-2012.html</link><pubDate>Sun, 06 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-insufficiency-is-less-than-32-or-40-ng-heaney-2012.html</guid><description>&lt;h1 id="what-is-vitamin-d-insufficiency-and-does-it-matter">What Is Vitamin D Insufficiency? And Does It Matter?&lt;/h1>
+&lt;p>Calcif Tissue Int. 2012 May 15.&lt;/p>
+&lt;p>Heaney RP.&lt;/p>
+&lt;p>Creighton University, 601 N. 30th Street, Suite 4841, Omaha, NE, 68131, USA, &lt;a href="mailto:rheaney@creighton.edu">rheaney@creighton.edu&lt;/a>.&lt;/p>
+&lt;p>The term nutrient &amp;ldquo;insufficiency,&amp;rdquo; as commonly used, refers to a nutritional status intermediate between classical, severe deficiency, and full normal. As both &amp;ldquo;deficiency&amp;rdquo; and &amp;ldquo;insufficiency&amp;rdquo; are causes of dysfunction and disease, there is no biological basis for a distinction between them.&lt;/p></description></item><item><title>Vitamin D of 32 to 60 ng is needed before, during, and after pregnancy</title><link>/posts/vitamin-d-of-32-to-60-ng-is-needed-before-during-and-after-pregnancy.html</link><pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-of-32-to-60-ng-is-needed-before-during-and-after-pregnancy.html</guid><description>&lt;h4 id="implications-of-maternal-vitamin-d-deficiency-for-the-fetus-the-neonate-and-the-young-infant">Implications of maternal vitamin D deficiency for the fetus, the neonate and the young infant.&lt;/h4>
+&lt;p>Eur J Nutr. 2012 Dec 9.&lt;/p>
+&lt;p>Principi N, Bianchini S, Baggi E, Esposito S.&lt;/p>
+&lt;p>Pediatric Clinic 1, Department of Pathophysiology and Transplantation, Università degli Studi di Milano, Fondazione IRCCS Ca&amp;rsquo; Granda Ospedale Maggiore Policlinico, Via Commenda 9, 20122, Milan, Italy.&lt;/p>
+&lt;p>BACKGROUND: It has recently been demonstrated that vitamin D (VD) deficiency during pregnancy and lactation can give rise to problems in mothers and their children.&lt;/p></description></item><item><title>Polish conference recommended vitamin D levels from 30 to 60 ng</title><link>/posts/polish-conference-recommended-vitamin-d-levels-from-30-to-60-ng.html</link><pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/polish-conference-recommended-vitamin-d-levels-from-30-to-60-ng.html</guid><description>&lt;h4 id="vitamin-d----minimum-maximum-optimum-warsaw-poland-oct-19-20-2012">“Vitamin D &amp;ndash; Minimum, maximum, optimum” Warsaw, Poland, Oct. 19-20, 2012&lt;/h4>
+&lt;p>By William B. Grant, Ph.D., Sunlight, Nutrition, and Health Research Center, San Francisco, CA&lt;/p>
+&lt;p>A vitamin D conference, “Vitamin D &amp;ndash; Minimum, maximum, optimum” was held in Warsaw, Poland, Oct. 19-20, 2012, to develop guidelines for vitamin D for Central and Eastern Europe. It was organized by Pawel Plodowski and Elzbieta Karczmarewicz. There were 550 attendees from Poland and other countries.&lt;/p></description></item><item><title>Many sleep disorders cured with vitamin D levels of 60 to 80 nanograms</title><link>/posts/many-sleep-disorders-cured-with-vitamin-d-levels-of-60-to-80-nanograms.html</link><pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate><guid>/posts/many-sleep-disorders-cured-with-vitamin-d-levels-of-60-to-80-nanograms.html</guid><description>&lt;h3 id="the-world-epidemic-of-sleep-disorders-is-linked-to-vitamin-d-deficiency">The world epidemic of sleep disorders is linked to vitamin D deficiency.&lt;/h3>
+&lt;p>Med Hypotheses. 2012 May 12.&lt;/p>
+&lt;p>Gominak SC, Stumpf WE.&lt;/p>
+&lt;p>East Texas Medical Center, Neurologic Institute, Tyler, TX, USA.&lt;/p>
+&lt;p>An observation of sleep improvement with vitamin D supplementation led to a 2 year uncontrolled trial of vitamin D supplementation in 1500 patients with neurologic complaints who also had evidence of abnormal sleep.&lt;/p>
+&lt;p>Most patients had improvement in neurologic symptoms and sleep but only through maintaining a narrow range of 25(OH) vitamin D3 blood levels of 60-80ng/ml.&lt;/p></description></item><item><title>Need at least 80 ng of vitamin D if have chronic kidney disease</title><link>/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease.html</link><pubDate>Mon, 14 May 2012 00:00:00 +0000</pubDate><guid>/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease.html</guid><description>&lt;h4 id="ckd-patients-may-need-higher-25d-levelshttpwwwrenalandurologynewscomckd-patients-may-need-higher-25d-levelsarticle24070620">&lt;a href="http://www.renalandurologynews.com/ckd-patients-may-need-higher-25d-levels/article/240706/%20">CKD Patients May Need Higher 25D Levels&lt;/a>&lt;/h4>
+&lt;p>Jody A. Charnow May 11, 2012&lt;/p>
+&lt;p>NATIONAL HARBOR, Md.—Levels of 25-hydroxyvitamin D (25D) higher than 20 ng/mL would be required to normalize intact parathyroid hormone (iPTH) in patients with stages 3 and 4 chronic kidney disease (CKD) with vitamin D insufficiency and secondary hyperparathyroidism, researchers concluded in a study presented at the National Kidney Foundation 2012 Spring Clinical Meetings.&lt;/p>
+&lt;p>Researchers noted that the Institute of Medicine recently suggested 20 ng/mL as the lower limit of the normal range for 25D, but this limit may be significantly higher among individuals with reduced kidney function.&lt;/p></description></item><item><title>How 60 ng of vitamin D enabled pregnancy - a personal story</title><link>/posts/how-60-ng-of-vitamin-d-enabled-pregnancy-a-personal-story.html</link><pubDate>Sun, 29 Apr 2012 00:00:00 +0000</pubDate><guid>/posts/how-60-ng-of-vitamin-d-enabled-pregnancy-a-personal-story.html</guid><description/></item><item><title>Traditionally living Africans have 46 ng vitamin D levels</title><link>/posts/traditionally-living-africans-have-46-ng-vitamin-d-levels.html</link><pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate><guid>/posts/traditionally-living-africans-have-46-ng-vitamin-d-levels.html</guid><description>&lt;h3 id="43-nanograms-pregnant-maasai--59-nanograms">43 nanograms, Pregnant Maasai 59 nanograms&lt;/h3>
+&lt;p>&lt;strong>Vitamin D status indicators in indigenous populations in East Africa.&lt;/strong>&lt;/p>
+&lt;p>Eur J Nutr. 2012 Aug 10.&lt;/p>
+&lt;p>Luxwolda MF, Kuipers RS, Kema IP, van der Veer E, Dijck-Brouwer DA, Muskiet FA.&lt;/p>
+&lt;p>Laboratory Medicine, Room Y 3.181, University Medical Center Groningen (UMCG), P.O. Box 30.001, 9700 RB, Groningen, The Netherlands, &lt;a href="mailto:mfluxwolda@hotmail.com">mfluxwolda@hotmail.com&lt;/a>.&lt;/p>
+&lt;p>PURPOSE: Sufficient vitamin D status may be defined as the evolutionary established circulating 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> matching our Paleolithic genome.&lt;/p></description></item><item><title>40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis</title><link>/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis.html</link><pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate><guid>/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis.html</guid><description>&lt;h4 id="vitamin-d-deficiency-and-mortality-risk-in-the-general-population-a-meta-analysis-of-prospective-cohort-studies">Vitamin D deficiency and mortality risk in the general population: a meta-analysis of prospective cohort studies.&lt;/h4>
+&lt;p>Am J Clin Nutr. 2011 Dec 14.&lt;/p>
+&lt;p>Zittermann A, Iodice S, Pilz S, &lt;strong>Grant WB&lt;/strong> , Bagnardi V, Gandini S.&lt;/p>
+&lt;p>Clinic for Thoracic and Cardiovascular Surgery, Heart Centre North Rhine-Westphalia, Ruhr University Bochum, Bad Oeynhausen, Germany, San Francisco, CA.&lt;/p>
+&lt;p>Background: Low vitamin D status may increase mortality risk.&lt;/p>
+&lt;p>OBJECTIVE: We used nonparametric (&amp;ldquo;highest compared with lowest&amp;rdquo; categories) and parametric (&amp;gt;2 categories) statistical models to evaluate associations of 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> serum concentrations and mortality in observational studies among general populations.&lt;/p></description></item><item><title>Is 50 ng of vitamin D too high, just right, or not enough</title><link>/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough.html</link><pubDate>Sat, 24 Sep 2011 00:00:00 +0000</pubDate><guid>/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough.html</guid><description>&lt;nav id="TableOfContents">
  &lt;ul>
  &lt;li>
  &lt;ul>
@@ -6,9 +1005,9 @@
  &lt;ul>
  &lt;li>&lt;a href="#overview-of-the-controversy">Overview of the controversy&lt;/a>&lt;/li>
  &lt;li>&lt;a href="#vitamin-d-needed-to-treat-health-problems-30-ng-to-150-ng">Vitamin D needed to TREAT Health problems (30 ng to 150 ng)&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#may-a-hrefpostsvitamin-d-levels-vs-disease-and-best-practices-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-vitamin-d-levels-vs-disease-and-best-practices---may-20232023-study-30-60-nga">May &lt;a href="/posts/vitamin-d-levels-vs-disease-and-best-practices" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels vs disease and Best Practices - May 2023">2023 study 30-60 ng&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#may-2023-study-30-60-ngpostsvitamin-d-levels-vs-disease-and-best-practices">May &lt;a href="/posts/vitamin-d-levels-vs-disease-and-best-practices">2023 study 30-60 ng&lt;/a>&lt;/a>&lt;/li>
  &lt;li>&lt;a href="#u-shaped-curve-due-to-long-follow-up-time-not-latitude---by-dr-grant">U Shaped curve due to long follow-up time, not latitude - by Dr. Grant&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#a-hrefpostschart-of-vitamin-d-levels-vs-race-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-chart-of-vitamin-d-levels-vs-race---april-2013chart-of-vitamin-d-levels-vs-race---april-2013a">&lt;a href="/posts/chart-of-vitamin-d-levels-vs-race" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013">Chart of Vitamin D levels vs race - April 2013&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chart-of-vitamin-d-levels-vs-race---april-2013postschart-of-vitamin-d-levels-vs-race">&lt;a href="/posts/chart-of-vitamin-d-levels-vs-race">Chart of Vitamin D levels vs race - April 2013&lt;/a>&lt;/a>&lt;/li>
  &lt;li>&lt;a href="#see-also-google-scholar">See also Google Scholar&lt;/a>&lt;/li>
  &lt;li>&lt;a href="#see-also-web---vitamin-d-test-reference-range--20-100-ng">See also web - vitamin D test &amp;ldquo;reference range&amp;rdquo; = 20-100 ng&lt;/a>&lt;/li>
  &lt;li>&lt;a href="#grassroots-health-infographic-40-60-ng-2020">Grassroots Health infographic 40-60 ng (2020)&lt;/a>&lt;/li>
@@ -58,7 +1057,7 @@
 &lt;li>
 &lt;p>&lt;a href="https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1795">Dark skin need more vitamin D - Mar 2010.pdf&lt;/a>&lt;/p></description></item><item><title>25 experts recommend vitamin D level of min 30 ng</title><link>/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng.html</link><pubDate>Sun, 12 Dec 2010 00:00:00 +0000</pubDate><guid>/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng.html</guid><description>&lt;h4 id="publication-of-the-nov-2009-meeting-was-sept-2010">Publication of the Nov 2009 meeting was Sept 2010&lt;/h4>
 &lt;h4 id="minimum-recommended-vitamin-d-by-25-experts-was-higher-than-the-20-ngml-proclamation-of-the-institute-of-medicine">MINIMUM recommended vitamin D by 25 experts was higher than the 20 ng/ml proclamation of the Institute of Medicine&lt;/h4>
-&lt;p>{IMG(attId=&amp;ldquo;355&amp;quot;max=&amp;ldquo;500&amp;rdquo;)}{IMG}&lt;/p>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 500px;">
 &lt;h4 id="vitamin-d-and-musculoskeletal-health-cardiovascular-disease-autoimmunity-and-cancer-recommendations-for-clinical-practice">Vitamin D and musculoskeletal health, cardiovascular disease, autoimmunity and cancer: Recommendations for clinical practice&lt;/h4>
 &lt;p>Autoimmunity Reviews&lt;/p>
 &lt;p>Volume 9, Issue 11, September 2010, Pages 709-715; doi:10.1016/j.autrev.2010.06.009&lt;/p>
@@ -67,4 +1066,30 @@
 &lt;h3 id="started-in-1992-in-14-countries-in-2010-pricey-but-very-nice">Started in 1992, in 14 countries in 2010, pricey but very nice&lt;/h3>
 &lt;h3 id="they-do-not-appear-to-sell-5000-iu-capsules-yet-their-chart-shows-that-5000-is-how-much-many-people-need">They do not appear to sell 5,000 IU capsules, yet their chart shows that 5,000 is how much many people need&lt;/h3>
 &lt;h3 id="their-solid-tablet-has-2000-iu-and-30-mg-of-vitamin-k-does-not-say-k1-vs-k2">Their solid tablet has 2000 IU and 30 mg of vitamin K (does not say: K1 vs K2)&lt;/h3>
-&lt;p>There have been several reports of problems with vitamin D in solid tablets - about 1/3 the benefit as capsule form&lt;/p></description></item><item><title>Noticed bones heal faster when more than 60 ng of vitamin D</title><link>/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d.html</link><pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate><guid>/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d.html</guid><description/></item></channel></rss>
+&lt;p>There have been several reports of problems with vitamin D in solid tablets - about 1/3 the benefit as capsule form&lt;/p></description></item><item><title>Noticed bones heal faster when more than 60 ng of vitamin D</title><link>/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d.html</link><pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate><guid>/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d.html</guid><description/></item><item><title>Is there an optimal level of vitamin D to prevent cancer</title><link>/posts/is-there-an-optimal-level-of-vitamin-d-to-prevent-cancer.html</link><pubDate>Sat, 25 Sep 2010 00:00:00 +0000</pubDate><guid>/posts/is-there-an-optimal-level-of-vitamin-d-to-prevent-cancer.html</guid><description>&lt;h4 id="the-vitamin-d-and-cancer-conundrum-aiming-at-a-moving-target">The Vitamin D and Cancer Conundrum: Aiming at a Moving Target&lt;/h4>
+&lt;p>Journal of the American Dietetic Association&lt;/p>
+&lt;p>Volume 110, Issue 10, October 2010, Pages 1492-1500&lt;/p>
+&lt;p>doi:10.1016/j.jada.2010.07.007 | How to Cite or Link Using DOI&lt;/p>
+&lt;p>Cheryl D. Toner MS, RD, Cindy D. Davis PhD and John A. Milner PhD, &lt;a href="mailto:milnerj@mail.nih.gov">milnerj@mail.nih.gov&lt;/a>&lt;/p>
+&lt;p>J. A. Milner is chief, Nutritional Science Research Group, Division of Cancer Prevention, National Cancer Institute, National Institutes of Health, Department of Health and Human Services, Rockville, MD. Accepted 31 March 2010. Available online 24 September 2010.&lt;/p></description></item><item><title>600000 IU dose raised youth vitamin D level by 60 ng in 3 days</title><link>/posts/600000-iu-dose-raised-youth-vitamin-d-level-by-60-ng-in-3-days.html</link><pubDate>Thu, 29 Jul 2010 00:00:00 +0000</pubDate><guid>/posts/600000-iu-dose-raised-youth-vitamin-d-level-by-60-ng-in-3-days.html</guid><description>&lt;h4 id="effect-of-a-single-oral-dose-of-600000-iu-of-cholecalciferol-on-serum-calciotropic-hormones-in-young-subjects-with-vitamin-d-deficiency-a-prospective-intervention-study">Effect of a Single Oral Dose of 600,000 IU of Cholecalciferol on Serum Calciotropic Hormones in Young Subjects with Vitamin D Deficiency: A Prospective Intervention Study.&lt;/h4>
+&lt;p>J Clin Endocrinol Metab. 2010 Jul 21.&lt;/p>
+&lt;p>Cipriani C, Romagnoli E, Scillitani A, Chiodini I, Clerico R, Carnevale V, Mascia ML, Battista C, Viti R, Pileri M, Eller-Vainicher C, Minisola S.&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/effect-of-a-single-oral-dose-of-600-000-iu-of-cholecalciferol.pdf">Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Departments of Clinical Sciences (C.C., E.R., M.L.M., S.M.) and Dermatology (R.C.), University of Rome &amp;ldquo;Sapienza,&amp;rdquo; 00161 Rome, Italy; Units of Endocrinology (A.S., C.B., R.V.), Internal Medicine (V.C.), and Clinical Chemistry (M.P.), Instituto di Ricovero e Cura a Carattere Scientifico (IRCCS) &amp;ldquo;Casa Sollievo della Sofferenza&amp;rdquo; Hospital, 71013 San Giovanni Rotondo, Italy; and Department of Medical Sciences (I.C., C.E.-V.), University of Milan, Fondazione Policlinico IRCCS, 20122 Milan, Italy.&lt;/p></description></item><item><title>More than 40 ng vitamin D for Athletes</title><link>/posts/more-than-40-ng-vitamin-d-for-athletes.html</link><pubDate>Mon, 12 Jul 2010 00:00:00 +0000</pubDate><guid>/posts/more-than-40-ng-vitamin-d-for-athletes.html</guid><description>&lt;h1 id="vitamin-d-and-athletes">Vitamin D and Athletes&lt;/h1>
+&lt;p>Current Sports Medicine Reports:&lt;/p>
+&lt;p>July/August 2010 - Volume 9 - Issue 4 - pp 220-226&lt;/p>
+&lt;p>&lt;a href="https://doi.org/10.1249/JSR.0b013e3181e7dd45">doi: 10.1249/JSR.0b013e3181e7dd45&lt;/a>&lt;/p>
+&lt;p>Nutrition &amp;amp; Ergogenic Aids: Section Articles&lt;/p>
+&lt;p>Larson-Meyer, D. Enette; Willis, Kentz S.&lt;/p>
+&lt;p>1 Departments of Family and Consumer Sciences (Human Nutrition), University of Wyoming, Laramie, WY;&lt;/p>
+&lt;p>2 Cooperative Extension Service, Sheridan, WY&lt;/p>
+&lt;p>Address for correspondence: D. Enette Larson-Meyer, Ph.D., R.D., FACSM, Department 3354, 1000 E University Avenue, University of Wyoming, Laramie, WY 82071 (E-mail: &lt;a href="mailto:enette@uwyo.edu">enette@uwyo.edu&lt;/a>).&lt;/p></description></item><item><title>Dr Oz recommends 50 ng vitamin D blood level</title><link>/posts/dr-oz-recommends-50-ng-vitamin-d-blood-level.html</link><pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate><guid>/posts/dr-oz-recommends-50-ng-vitamin-d-blood-level.html</guid><description>&lt;h2 id="in-may-2010-issue-of-aarp--not-available-on-line">In May 2010 issue of AARP ( not available on-line)&lt;/h2>
+&lt;h2 id="click-here-for-abc-news-may-3-2010httpabcnewsgocomgmaoncallmonths-health-dr-oz-diet-exercise-key-longerstoryid10535786">&lt;a href="http://abcnews.go.com/GMA/OnCall/months-health-dr-oz-diet-exercise-key-longer/story?id=10535786">Click here for ABC News May 3 2010&lt;/a>&lt;/h2>
+&lt;h1 id="know-your-numbers---from-dr-oz-via-aarpabc">Know your numbers - From Dr. Oz via AARP/ABC&lt;/h1>
+&lt;img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/dr-oz-50-ng.gif" alt="image">
+&lt;ul>
+&lt;li>&lt;a href="https://www.VitaminDWiki.com/tiki-index.php?page=Dr+Oz%3A+50ng+of+vit+D+-+Nov+2009">Click here to see Dr. Oz recommending it Nov 2009&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="dr-oz-elsewhere-keeps-to-the-obsolete-government-edict-of-not-taking-more-than-2000-iu---which-make-is-virtually-impossible-for-a-person-to-achieve-50-ngml">Dr. Oz elsewhere keeps to the obsolete government edict of not taking more than 2000 IU - which make is virtually impossible for a person to achieve 50 ng/ml&lt;/h2>
+&lt;h2 id="many-people-require-3000-iu-to-achieve-50-ngml">many people require &amp;gt;3,000 IU to achieve 50 ng/ml&lt;/h2>
+&lt;p>&amp;ndash;&lt;/p></description></item></channel></rss>

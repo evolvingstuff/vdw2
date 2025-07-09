@@ -85,22 +85,22 @@ Computerised analysis of opponents, via the ProZone system, takes place in a roo
 
 * [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-improves-muscle-strength-if-deficient-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1035">Vitamin D improves muscle strength if deficient – meta-analysis - Oct 2010</a>
+* [Vitamin D improves muscle strength if deficient – meta-analysis - Oct 2010](/posts/vitamin-d-improves-muscle-strength-if-deficient-meta-analysis)
 
-* <a href="/posts/sports-nutrition-conference-on-bone-health-calcium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 891">Sports Nutrition Conference on Bone health Calcium and vitamin D – Sept 2010</a>
+* [Sports Nutrition Conference on Bone health Calcium and vitamin D – Sept 2010](/posts/sports-nutrition-conference-on-bone-health-calcium-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-improves-muscle-strength-if-deficient-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1035">Vitamin D improves muscle strength if deficient – meta-analysis - Oct 2010</a>
+* [Vitamin D improves muscle strength if deficient – meta-analysis - Oct 2010](/posts/vitamin-d-improves-muscle-strength-if-deficient-meta-analysis)
 
 * <a href="/posts/would-there-be-fewer-stress-and-bone-fractures-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 974">Would there be fewer stress and bone fractures with vitamin D</a>
 
-* <a href="/posts/sports-nutrition-conference-on-bone-health-calcium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 891">Sports Nutrition Conference on Bone health Calcium and vitamin D – Sept 2010</a>
+* [Sports Nutrition Conference on Bone health Calcium and vitamin D – Sept 2010](/posts/sports-nutrition-conference-on-bone-health-calcium-and-vitamin-d)
 
-* <a href="/posts/more-than-40-ng-vitamin-d-for-athletes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 595">More than 40 ng vitamin D for Athletes – July 2010</a> nice tables
+* [More than 40 ng vitamin D for Athletes – July 2010](/posts/more-than-40-ng-vitamin-d-for-athletes) nice tables
 
-* <a href="/posts/suggests-that-college-athletes-supplement-with-vitamin-d-in-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 479">Suggests that college athletes supplement with vitamin D in winter - June 2010</a>
+* [Suggests that college athletes supplement with vitamin D in winter - June 2010](/posts/suggests-that-college-athletes-supplement-with-vitamin-d-in-winter)
 
 * <a href="/posts/more-muscle-response-when-have-adequate-vit-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 278">More muscle response when have adequate vit D</a> nice graph
 
 * <a href="/posts/professional-sports-team-takes-5000-iu-and-wins-championship" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 293">professional sports team takes 5000 IU and wins championship</a>
 
-* <a href="/posts/olympic-athletes-and-vitamin-d-clippings-2009-10" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 349">Olympic Athletes and vitamin D - clippings 2009-10</a> UV used by Olympic athletes since the 1930's, High UV in Mexico Olympics broke many records
+* [Olympic Athletes and vitamin D - clippings 2009-10](/posts/olympic-athletes-and-vitamin-d-clippings-2009-10) UV used by Olympic athletes since the 1930's, High UV in Mexico Olympics broke many records

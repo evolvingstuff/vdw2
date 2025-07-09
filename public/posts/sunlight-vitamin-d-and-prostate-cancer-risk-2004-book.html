@@ -1,0 +1,80 @@
+<!doctype html><html><head><meta charset=utf-8><title>Sunlight, Vitamin D, and Prostate Cancer Risk - 2004 book</title>
+<link rel=stylesheet href="/css/main.css?v=1752030349"><link rel=stylesheet href="/css/pagination.css?v=1752030349"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030349"></script><script src="/js/search.js?v=1752030349"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Sunlight, Vitamin D, and Prostate Cancer Risk - 2004 book</h1><time>June 5, 2010</time><div data-pagefind-body><h2 id=with-references-to-omega-3-essential-fatty-acids-breast-cancer-and-colon-cancer>With References to Omega-3 Essential Fatty Acids, Breast Cancer and Colon Cancer</h2><p>2004 by Peter Hyde paperback $22 <a href="http://www.amazon.com/Sunlight-Vitamin-Prostate-Cancer-Risk/dp/1401082580/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1275750075&amp;sr=8-1">Amazon</a>   <a href=www.xlibris.com/SunlightVitaminDandProstateCancerRisk.html>Xlibris also has e-book version</a></p><p>This science-based book is the first to demonstrate that in prostate cancer, insufficient access to the sun&rsquo;s short wavelength ultraviolet-B irradiance, necessary for photosynthesis of vitamin D, increases the risk of progression.</p><p>The author surveys five populations with steeply elevated mortality from prostate cancer: African-North Americans, Norwegians, Swedes, Swiss and Danes. He finds that insufficient exposure to UV-B and inadequate photosynthesis of vitamin D is common to them all.</p><p>Based on data extracted from World Health Statistics Annuals published in hard copy by the World Health Organization (WHO) in the 1980s, graphs depicting age-specific rates of prostate cancer mortality in Western European countries show that the Swiss rates are anomalously high for the country&rsquo;s latitude and may even surpass the rates for Norway and Sweden.</p><p>Age-standardized (world) statistics published on-line by the WHO&rsquo;s International Agency for Research into Cancer (IARC) in its Globocan 2000 Cancer Epidemiology Database list identical rates for Norway, Sweden and Switzerland.</p><p>The age-specific and age-standardized rates of prostate cancer mortality reported for other northern alpine countries are normal for the latitudes. Their more extensive surface areas and dispersed populations, with the great majority of their citizens residing far from the Alps, are consistent with this.</p><p>In a population survey conducted by Swiss scientists from two institutions, blood levels of calcidiol (25-hydroxyvitamin D), the body&rsquo;s major circulating reservoir of the vitamin, were measured in a large representative sample of adults in all age groups. Subjects older than 65 were found to be spending less than 30 minutes a day outdoors in the summer.</p><p>This is significant, because the capacity of exposed skin to photosynthesize vitamin D declines with age. Moreover, its inverse correlation with the intensiveness of pigmentation means that African-North Americans in particular need to spend longer periods of time in direct sunlight than may be possible for a variety of reasons.</p><p>The book contends that many aging individuals residing far from the Equator can achieve year-round sufficiency in vitamin D through relatively frequent, brief periods of exposure to sunlight, reinforced in winter by adequate supplementation. Published research indicating how many international units of the vitamin may be needed daily is also discussed.</p><p>There is a detailed description of the mechanism whereby minute quantities of a powerful steroid hormone (calcitriol) metabolized from calcidiol, bind to the hormone&rsquo;s receptors (VDR) within the nuclei of the cells. By a signalling procedure involving &ldquo;cross talk&rdquo; between the hormone and the VDR, and resulting changes in the transcription of genes within the nuclei, proliferation of malignant cells can be inhibited.</p><p>Besides prostate cancer, several other common cancers are reported to be associated with deficiencies of vitamin D.</p><p>&ldquo;Recommended reading for anyone interested in lowering their risk of prostate cancer&rdquo;- Christopher Morash, MD, FRCSC, Chief of Urosurgical Oncology, Ottawa Regional Cancer Centre, Ottawa, Ontario. - This text refers to the Hardcover edition.</p><h2 id=from-the-publisher-what-people-are-saying>From the Publisher WHAT PEOPLE ARE SAYING</h2><p>Edward Napke, B.Sc., M.D., D.P.H., Queen Elizabeth&rsquo;s Anniversary Medal (QEAM) This is a remarkable book that could be helpful in lowering the risk of prostate cancer and its progression in individuals subject to deficient circulating concentrations of vitamin D3 and its biologically active metabolites. The deficiencies are mainly the result of insufficient exposure to solar short wavelength ultraviolet-B radiation, without which vitamin D3 cannot be photosynthesized. Reinforcing this are inadequate intakes of supplementary vitamin D3 and the foods that contain it.</p><p>After acknowledging that many factors are implicated in prostate cancer, the author cites approximately 100 studies reported in scientific journals and reproduces geographically significant disease-specific statistics of mortality extracted from publications of the WHO and its affiliate, the IARC (International Agency for Research into Cancer).</p><p>The information thus assembled indicates that in countries in the northern and southern hemispheres, vitamin D3 deficiency is an overlooked environmental risk factor of major importance, particularly in middle-aged and elderly men whose place of residence is in the middle and higher latitudes (40 degrees and higher). Bibliographic references are given for all of the sources cited.</p><p>Despite the importance of the work in drawing attention to the dangers of vitamin D3 deficiency, not only with respect to prostate cancer but also to breast cancer, colorectal cancer, multiple sclerosis, type 1 diabetes, a variety of bone diseases and a growing list of other disorders, little is said about the author&rsquo;s personal experience with prostate cancer and bladder cancer, diagnosed in 1984 and 1986.</p><p>We sense that a gripping story has been left untold and must remain in the dark until this is done. There is a &ldquo;hole in the narrative&rdquo; that lessens the human and personal appeal of the book. I have brought this to the attention of the author, who is willing to rectify the omission in any subsequent edition.</p><p>My main criticism, however, is that he fails to distinguish consistently between the so-called &ldquo;sunshine vitamin,&rdquo; namely vitamin D3 (cholecalciferol), the history of which is summarized, and vitamin D2 (ergocalciferol), a substance derived from yeasts and plants. All too often readers are expected to make do with the non-specific term vitamin D, when what is actually being discussed is D3.</p><p>It is from vitamin D3 that minute quantities of a short-lived, powerful steroid hormone, 1 alpha,25-dihydroxyvitamin D3 (calcitriol), are repeatedly metabolized from the body&rsquo;s limited store of calcidiol, (25-hydroxyvitamin D3), its major circulating reservoir of the vitamin. The book shows that when the blood supply of calcidiol begins to wane, which tends to occur in the elderly in the late winter and early spring, there is a corresponding decrease in the concentration of calcitriol.</p><p>That is why residents of countries in the middle and high latitudes, particularly those where the winters are long and cold, need to build up a supply of calcidiol during the warm season sufficient to last the whole of the coming winter.</p><p>When circumstances prevent this, ensuring adequate daily intakes of vitamin D3- rich foods and supplements can be crucial. Readers are informed that their daily requirement of vitamin D3, expressed in international units, may be greatly in excess of the quantities they are actually obtaining, from sun exposure and nutrition.</p><p>African-North Americans and Afro-Caribbeans are shown to be at exceptionally high risk of deficiency. It is in these populations that the incidence and mortality rates of prostate cancer are reported to be the highest in the world.</p><p>The benefits derivable from adequate circulating concentrations of calcitriol in another common cancer are strikingly apparent in the results of a six-months long in-hospital study of female breast cancer patients. Some of the findings of that study are included in the closing pages of the book (Appendix D). The information we are given is compelling. - Edward Napke, B.Sc., M.D., D.P.H., &ndash;This text refers to the Hardcover edition.</p><h2 id=sunarc-recommends-the-book>Sunarc recommends the book</h2></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>bladder cancer</span>
+<span class=tag>Books, videos on Vitamin D</span>
+<span class=tag>breast cancer</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>colon cancer</span>
+<span class=tag>diabetes</span>
+<span class=tag>diabetes and vitamin d receptor</span>
+<span class=tag>genetics</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>life span</span>
+<span class=tag>metabolic</span>
+<span class=tag>mortality</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>omega 3</span>
+<span class=tag>prostate cancer</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>type 1 diabetes</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>autoimmune, bladder cancer, Books, videos on Vitamin D, breast cancer, cancer, cancer in VDR, colon cancer, diabetes, diabetes and vitamin d receptor, genetics, high dose, intervention, life span, metabolic, mortality, multiple sclerosis, omega 3, prostate cancer, therapeutic intervention, type 1 diabetes, vitamin d, vitamin d blood test, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030349"></script><script src="/js/tiki-redirects.js?v=1752030349"></script><script src="/js/lightspa.js?v=1752030349"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030349",indexUrl:"/search/search_index.json.gz?v=1752030349"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030349"></script></body></html>

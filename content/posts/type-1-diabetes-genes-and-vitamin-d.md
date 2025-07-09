@@ -89,10 +89,10 @@ PMID:     22361322
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * <a href="/posts/response-to-vitamin-d-depended-on-folk-i-gene" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3442">Response to vitamin D depended on Folk-I gene – Nov 2012</a>
 
-* <a href="/posts/type-1-diabetes-associated-with-faulty-vitamin-d-receptor-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type 1 diabetes associated with faulty Vitamin D receptor genes – May 2013">Type 1 diabetes associated with faulty Vitamin D receptor genes – May 2013</a>
+* [Type 1 diabetes associated with faulty Vitamin D receptor genes – May 2013](/posts/type-1-diabetes-associated-with-faulty-vitamin-d-receptor-genes)
 
-* <a href="/posts/type-1-diabetes-association-with-poor-vitamin-d-receptor-39-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type 1 Diabetes association with poor Vitamin D Receptor: 39 studies – April 2017">Type 1 Diabetes association with poor Vitamin D Receptor: 39 studies – April 2017</a>
+* [Type 1 Diabetes association with poor Vitamin D Receptor: 39 studies – April 2017](/posts/type-1-diabetes-association-with-poor-vitamin-d-receptor-39-studies)

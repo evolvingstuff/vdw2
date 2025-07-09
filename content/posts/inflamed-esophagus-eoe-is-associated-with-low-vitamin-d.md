@@ -1,0 +1,98 @@
+{
+    "title": "Inflamed Esophagus (EoE) is associated with low Vitamin D",
+    "slug": "inflamed-esophagus-eoe-is-associated-with-low-vitamin-d",
+    "aliases": [
+        "/Inflamed+Esophagus+EoE+is+associated+with+low+Vitamin+D+\u2013+Jan+2024",
+        "/15021"
+    ],
+    "tiki_page_id": 15021,
+    "date": "2024-02-02",
+    "tags": [
+        "IBD",
+        "asthma",
+        "asthma receptor",
+        "atopic dermatitis",
+        "autoimmune",
+        "breathing",
+        "child",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "gut",
+        "hay fever",
+        "high dose",
+        "immunity",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+{{< toc >}}
+
+---
+
+#### EoE in the Sunlight: The Contribution of Vitamin D to Disease Presentation and Severity
+
+Digestive Diseases and Sciences https://doi.org/10.1007/s10620-023-08259-8
+
+Milli Gupta  • Albert J. Bredenoord
+
+Reduced vitamin D levels are frequently associated with type 2 inflammatory diseases, such as allergic rhinitis, asthma, and atopic dermatitis <sup>[1]</sup>. Nutritional deficien­cies and vitamin D deficiency are also present in patients with food allergies. Since EoE is a type of chronic type 2 immune-mediated (non-IgE) food allergy that has rapidly increased in incidence and prevalence globally for unknown reasons, identification of environmental or nutritional fac­tors that could be a cause or propagator is of intense interest. Given the relationship of vitamin D with food allergies and atopic disorders, as well as EoE sharing the same patho­physiology with other type 2 disorders, understanding the relationship between EoE and vitamin D could help under­stand disease pathogenesis.
+
+A systematic review from 2015 <sup>[2]</sup> reported the con­tribution of nutritional deficiencies to the pathogenesis of EoE, identifying a trend for vitamin D insufficiency or defi­ciency in EoE patients both pre- and post-supplementation. 
+
+Since the review was completed at a time when studies were sparse, the quality of these studies was not robust. Since then, efforts have been made to understand the way vitamin D may modulate the immune system and preserve the epithelial barrier. A 2018 study sought an association between 25(OH)D levels (a serum marker of clinically rel­evant vitamin D levels) and absolute blood eosinophil count, noting a trend of significance <sup>[3]</sup>, despite the observation that peripheral eosinophilia is not a good marker for EoE. Other studies have noted that 25(OH)D levels can influence several immune markers and cell types implicated in EoEpathogenesis, such as B and T cells and TGF-P <sup>[4]</sup>. A recent publication <sup>[4]</sup> reported that vitamin D is an endogenous IL-13 antagonist. IL-13 is implicated not only in the devel­opment of atopic conditions, such as EoE, but is also an effective target for management of EoE, as shown by the efficacy of the recently approved therapeutic monoclonal antibody dupilumab. Metagenomic analysis <sup>[4]</sup> identified a reversal in IL-13 dysregulation with vitamin D supplemen­tation in preclinical EoE models, confirming vitamin D can modulate the immune system and improve epithelial barrier function in EoE in a preclinical model, although the clinical implications of IL-13 modulation are thus far unclear.
+
+In this issue of DDS, Cameron et al. <sup>[5]</sup> aimed to estab­lish if there is a relative difference in vitamin D levels in newly diagnosed adult patients with EoE compared with controls (composed of GERD and non-GERD). Adjusting for age, sex, race, duration of symptoms, and vitamin D supplementation, EoE patients had significantly lower lev­els of vitamin D than did controls, although they were not vitamin D deficient. Since the subjects were not described as being nutritionally deficient, this factor was unlikely to contribute to the observed low levels of vitamin D. Though vitamin D levels are different between EoE and controls, it remains unclear whether vitamin D levels can be used to stratify patients, as there was no relationship between levels of vitamin D with endoscopic, histologic, or clinical markers of EoE disease activity. Though there was a sug­gestion of lower vitamin D levels in patients with fibrosis of the lamina propria and endoscopically observed furrows, of the 40 patients with EoE, only 11 patients had adequate lamina propria samples acquired during biopsy. It is possi­ble a larger number of patients would reveal an association for fibrosis in EoE with vitamin D levels, as documented in pulmonary fibrosis development. There is also the question of how to assess fibrosis clinically, since obtaining lamina propria is not always feasible. Serum biomarkers or EndoF- LIP™ might be useful, although these surrogate biomarkers have not yet been validated or confirmed by large studies.Regarding EndoFlip™, there is also the question whether it can distinguish between fibrosis and edema.
+
+Though IBD is another gastrointestinal disorder and asso­ciated with vitamin D, to draw such parallels is likely invalid since EoE, unliked IBD, is a disorder that mirrors type 2 inflammatory diseases. Therefore, it seems better fitted to consider vitamin D impact in type 2 inflammatory diseases and how it is used there, rather than to imitate the work completed in IBD where vitamin D supplementation has not, to date, produced clinically relevant mucosal healing and directly improved symptoms.
+
+Not only is Vitamin D deficiency associated with more severe state in Type 2 inflammatory disorders (asthma, atopic dermatitis, and atopic rhinitis), but supplementation improves the overall disease <sup>[6, 7]</sup>. Cameron et al.’s paper sought an association between atopy and EoE with vitamin D levels. Given the shared pathway for inflammation and epithelial barrier disruption in this collection of diseases, one may assume a higher number of atopic diseases may be linked with a greater likelihood of low vitamin D lev­els. Nevertheless, Cameron et al. were unable to show an association between EoE with atopy and vitamin D levels (2/3 of the study population had atopy). Though atopic EoE patients were not more likely to have lower vitamin D levels, it would be interesting to follow such patients with vitamin D supplementation to see if their disease severity improved. Due to this linked pathophysiology, it may be reasonable to suggest for patients with EoE take vitamin D as a means to reduce their potential risk of disease progression (Table 1).
+
+In 2020, a Brazilian study of 15 pediatric patients with EoE <sup>[8]</sup> noted a higher frequency of vitamin D insuffi­ciency compared with controls (n = 17). They described no association between serum 25 (OH) D levels or with self- reported consumption of vitamin D-rich foods between the groups (even after accounting for cow’s milk elimination in the EoE group). Despite patients with EoE reporting longer periods of time in the sun than did controls, they were noted to have vitamin D insufficiency. There wereno general nutritional deficiencies identified, with most of the study population of normal-high BMI. Follow-up levels over time were not published. Given Brazil’s equa­torial elevated sun exposure, the low levels of vitamin D specifically in EoE are perplexing. On review of factors that impact vitamin D levels, socioeconomic status, elderly age group, diet, and time spent indoors are usually noted as common reasons. Despite fortification of milk with vitamin D, a recent publication from Ireland <sup>[9]</sup> in 2022 noted this subset of the population continues to be highly affected. Another paper from 2015 reviewed 25(OH)D trends over 40 years, <sup>[10]</sup> identifying a small percentage (3.8%) of the population with hypervitaminosis despite the majority of the high-risk groups having low or inadequate levels. It may be necessary for public health experts to reassess the current methodology of increasing vitamin D levels in our communities and consider alternative options, such as oral supplementation in children of lower socio­economic status and in other high-risk populations. Per­haps a longitudinal population level study could then be undertaken to note if such intervention changes the onset and severity of the numerous currently implicated medi­cal disorders, such as diabetes, asthma, atopic dermatitis, multiple sclerosis, and cardiovascular disease.
+
+In summary, Cameron et al. are to be commended for searching for clinical, histologic, or endoscopic features in patients at the highest risk for vitamin D deficiency. Their paper has started the conversation on whether low levels of vitamin D earlier in life may be implicated in the pathogenesis of EoE.
+
+ **It may even be a factor in the soar­ing numbers of EoE observed globally.** 
+
+Though EoE and vitamin D may be linked, its exact nexus remains elusive. Though Cameron et al. (5) did not report an association with clinical endpoints, there is enough evidence of the impact of vitamin D on type 2 disorders to implicate EoE by association. Further research in combination with novel treatments may help answer how best to incorporate vita­min D
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/eoe-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+##### 10 References
+
+Lipinska-Opalka A, Tomaszewska A, Kubiak JZ, Kalicki B. Vitamin D and Immunological Patterns of Allergic Diseases in Children. Nutrients. 2021 Jan 8;13:177. https://doi.org/10.3390/ nu13010177. PMID: 33435598.
+
+1. Fissinger A, Mages KC, Solomon AB. Vitamin deficiencies in pediatric eosinophilic esophagitis: A systematic review. Pediatr Allergy Immunol. 2020 Oct;31:835-840. https://doi.org/10.1111/ pai. 13297. Epub 6/17/2020. PMID: 32474949.
+
+1. Souto FDTJ, Andrade SA, Ribeiro MF, Alves PAS, Simonini VRF. Impact of vitamin D deficiency on increased blood eosino­phil counts. Hematol Oncol Stem Cell Ther. 2018;11:25-9. PMID 28830802
+
+1. Brusilovsky M, Rochman M, Shoda T, Kotliar M, Caldwell JM, Mack LE, Besse JA, Chen X, Weirauch MT, Barski A, Rothenberg ME. Vitamin D receptor and STAT6 interactome governs oesoph­ageal epithelial barrier responses to IL-13 signalling. Gut. 2023
+
+1. May;72:834-845. https://doi.org/10.1136/gutjnl-2022-327276. Epub 8/2/2022. PMID: 35918104.
+
+1. Cameron et al., Vitamin D levels as a potential modifier of eosino­philic esophagitis severity in adults. Dig Dis Sci.. (Epub ahead of print). https://doi.org/10.1007/s10620-023-08264-x.
+
+1. Li Q, Zhou Q, Zhang G, Tian X, Li Y, Wang Z, Zhao Y, Chen Y, Luo Z. Vitamin D Supplementation and Allergic Diseases during Childhood: A Systematic Review and Meta-Analysis. Nutrients 2022 Sep 23;14:3947.
+
+1. Solidoro P, Bellocchia M, Aredano I, Mattei A, Pivetta E, Patrucco F, Boita M, de Blasio F, Brussino L, Rolla G, Bucca C. Asthmatic Patients with vitamin D Deficiency have Decreased Exacerba­tions after vitamin Replacement. Nutrients. 2017 Nov 11;9:1234. https://doi.org/10.3390/nu9111234.PMID:29137124.
+
+1. Teixeira TL, Linden MA, Lomazi EA, Saron MGL, Riccetto AL, Bellomo-BrandAo MA. CASE-CONTROL STUDY ON VITA­MIN D STATUS IN CHILDREN AND ADOLESCENTS WITH EOSINOPHILIC ESOPHAGITIS. Arq Gastroenterol. 2020 Oct- Dec;57:409-415. [doi: https](https://doi.org/https)://doi.org/10.1590/S0004-2803.20200 0000-75. PMID: 33331474
+
+1. Scully H, Laird E, Healy M, Crowley V, Walsh JB, McCarroll K. Low socioeconomic status predicts vitamin D status in a cross­section of Irish children. JNutr Sci. 2022 Jul;25:e61. https://doi. org/10.1017/jns.2022.57. PMID: 35912305.
+
+1. McKenna MJ, Murray BF, O’Keane M, Kilbane MT. Rising trend in vitamin D status from 1993 to 2013: dual concerns for the future. Endocr Connect. 2015 Sep;4:163-171. https://doi.org/10. 1530/EC-15-0037. Epub 2015 Jun 1. PMID: 26034120.
+
+---
+
+#### EoE incidence: 1 in 2,000 people

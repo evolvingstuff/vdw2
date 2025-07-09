@@ -39,6 +39,6 @@ However, more of the population had total usual intakes below the EAR for vitami
 
 ## The taller the bar, the more deficient for those older than 19 (one of many charts in the attached PDF)
 
-{IMG(attId="722")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/nutrients-2011-older-than-19.png" alt="image">
 
 PMID:     21865568

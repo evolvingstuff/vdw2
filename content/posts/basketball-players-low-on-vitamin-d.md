@@ -52,9 +52,9 @@
 
 * [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)
 
-* <a href="/posts/suggests-that-college-athletes-supplement-with-vitamin-d-in-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 479">Suggests that college athletes supplement with vitamin D in winter - June 2010</a>
+* [Suggests that college athletes supplement with vitamin D in winter - June 2010](/posts/suggests-that-college-athletes-supplement-with-vitamin-d-in-winter)
 
-* <a href="/posts/young-israeli-athletes-and-dancers-had-just-25-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 903">Young Israeli athletes and dancers had just 25 ng of vitamin D – Sept 2010</a>
+* [Young Israeli athletes and dancers had just 25 ng of vitamin D – Sept 2010](/posts/young-israeli-athletes-and-dancers-had-just-25-ng-of-vitamin-d)
 
 - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -124,7 +124,7 @@ Values of serum 25(OH)D in players who formed part of the team during both seaso
 
 ## (fig. 1)
 
-{IMG(attId="783")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/basketball--2011.png" alt="image">
 
 ## ~~#00F:Notes:
 

@@ -58,9 +58,9 @@ Therefore, the real impact of calcium and vitamin D on cardiovascular outcomes r
 
 ##  **<span style="color:#00F;">PDF is at bottom of this page</span>** 
 
-{IMG(attId="569")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/calcium-and-cvd---2011.png" alt="image">
 
-{IMG(attId="570")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-and-cvd---2011.png" alt="image">
 
 - - - - - -
 

@@ -209,7 +209,7 @@ Those were the only changes in supplements that I recall for the past 6 months
 
 Perplelexity AI indicates that each of them should increase hair growth <i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/hair---glutathione-protein-and-omega-3.pdf">PDF</a>
 
-<a href="/posts/supplements-taken-by-the-founder-of-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Supplements taken by the founder of VitaminDWiki">Supplements taken by the founder of VitaminDWiki</a>
+[Supplements taken by the founder of VitaminDWiki](/posts/supplements-taken-by-the-founder-of-vitamindwiki)
 
 #### Great hair regrowth June 2012: Henry Lahore, admin of VitaminDWiki
 
@@ -277,7 +277,7 @@ Google Search for Beard and Zinc ==> 400,000 web pages
 
 * Note: one non-hair study found that LLLT increased Vitamin D Levels
 
-   * <a href="/posts/low-level-laser-therapy-greatly-increased-vitamin-d-and-magnesium-for-diabetics-with-nephropathy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Level Laser Therapy greatly increased Vitamin D and Magnesium (for diabetics with nephropathy) – March 2019">Low Level Laser Therapy greatly increased Vitamin D and Magnesium (for diabetics with nephropathy) – March 2019</a>
+   * [Low Level Laser Therapy greatly increased Vitamin D and Magnesium (for diabetics with nephropathy) – March 2019](/posts/low-level-laser-therapy-greatly-increased-vitamin-d-and-magnesium-for-diabetics-with-nephropathy)
 
 * LLLT to scalp appears to increase clear thinking as well as hair growth
 
@@ -545,17 +545,17 @@ Conclusion: Oral vitamin D combination with topical minoxidil is recommended to 
 
 ### See also VitaminDWiki
 
-* <a href="/posts/chemotherapy-hair-loss-prevented-or-treated-by-vitamin-d-us-patent-application" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy hair loss – prevented or treated by Vitamin D, US patent application – Nov 2019">Chemotherapy hair loss – prevented or treated by Vitamin D, US patent application – Nov 2019</a>
+* [Chemotherapy hair loss – prevented or treated by Vitamin D, US patent application – Nov 2019](/posts/chemotherapy-hair-loss-prevented-or-treated-by-vitamin-d-us-patent-application)
 
-* <a href="/posts/hair-loss-strongly-associated-with-poor-vitamin-d-receptors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hair loss strongly associated with poor vitamin D receptors– Dec 2016">Hair loss strongly associated with poor vitamin D receptors– Dec 2016</a>
+* [Hair loss strongly associated with poor vitamin D receptors– Dec 2016](/posts/hair-loss-strongly-associated-with-poor-vitamin-d-receptors)
 
-* <a href="/posts/temporary-hair-loss-telogen-effluvium-is-15x-more-likely-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Temporary hair loss (Telogen Effluvium) is 15X more likely if poor Vitamin D Receptor – Oct 2019">Temporary hair loss (Telogen Effluvium) is 15X more likely if poor Vitamin D Receptor – Oct 2019</a>
+* [Temporary hair loss (Telogen Effluvium) is 15X more likely if poor Vitamin D Receptor – Oct 2019](/posts/temporary-hair-loss-telogen-effluvium-is-15x-more-likely-if-poor-vitamin-d-receptor)
 
-* <a href="/posts/temporary-hair-loss-telogen-effluvium-treated-by-vitamin-d-200000-iu-twice-a-month" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Temporary hair loss (Telogen Effluvium) treated by Vitamin D (200,000 IU, twice a month) - March 2021">Temporary hair loss (Telogen Effluvium) treated by Vitamin D (200,000 IU, twice a month) - March 2021</a>
+* [Temporary hair loss (Telogen Effluvium) treated by Vitamin D (200,000 IU, twice a month) - March 2021](/posts/temporary-hair-loss-telogen-effluvium-treated-by-vitamin-d-200000-iu-twice-a-month)
 
-* <a href="/posts/spot-baldness-alopecia-areata-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spot Baldness (Alopecia Areata) associated with low vitamin D – many studies">Spot Baldness (Alopecia Areata) associated with low vitamin D – many studies</a>
+* [Spot Baldness (Alopecia Areata) associated with low vitamin D – many studies](/posts/spot-baldness-alopecia-areata-associated-with-low-vitamin-d-many-studies)
 
-   * <a href="/posts/spot-baldness-alopecia-areata-41-x-more-likely-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020">Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020</a>
+   * [Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020](/posts/spot-baldness-alopecia-areata-41-x-more-likely-if-low-vitamin-d-meta-analysis)
 
 * [Diffuse hair loss - 2009.pdf](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1838) not just getting older
 
@@ -569,7 +569,7 @@ Conclusion: Oral vitamin D combination with topical minoxidil is recommended to 
 
    * Red hair apparently allows more production of vitamin D from the same amount of sunlight
 
-* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
+* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)
 
 ### See also web
 
@@ -887,17 +887,17 @@ CONCLUSIONS: This study indicated the correlation between the incidence of FPHL 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/chemotherapy-hair-loss-prevented-or-treated-by-vitamin-d-us-patent-application" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy hair loss – prevented or treated by Vitamin D, US patent application – Nov 2019">Chemotherapy hair loss – prevented or treated by Vitamin D, US patent application – Nov 2019</a>
+* [Chemotherapy hair loss – prevented or treated by Vitamin D, US patent application – Nov 2019](/posts/chemotherapy-hair-loss-prevented-or-treated-by-vitamin-d-us-patent-application)
 
-* <a href="/posts/hair-loss-strongly-associated-with-poor-vitamin-d-receptors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hair loss strongly associated with poor vitamin D receptors– Dec 2016">Hair loss strongly associated with poor vitamin D receptors– Dec 2016</a>
+* [Hair loss strongly associated with poor vitamin D receptors– Dec 2016](/posts/hair-loss-strongly-associated-with-poor-vitamin-d-receptors)
 
-* <a href="/posts/temporary-hair-loss-telogen-effluvium-is-15x-more-likely-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Temporary hair loss (Telogen Effluvium) is 15X more likely if poor Vitamin D Receptor – Oct 2019">Temporary hair loss (Telogen Effluvium) is 15X more likely if poor Vitamin D Receptor – Oct 2019</a>
+* [Temporary hair loss (Telogen Effluvium) is 15X more likely if poor Vitamin D Receptor – Oct 2019](/posts/temporary-hair-loss-telogen-effluvium-is-15x-more-likely-if-poor-vitamin-d-receptor)
 
-* <a href="/posts/temporary-hair-loss-telogen-effluvium-treated-by-vitamin-d-200000-iu-twice-a-month" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Temporary hair loss (Telogen Effluvium) treated by Vitamin D (200,000 IU, twice a month) - March 2021">Temporary hair loss (Telogen Effluvium) treated by Vitamin D (200,000 IU, twice a month) - March 2021</a>
+* [Temporary hair loss (Telogen Effluvium) treated by Vitamin D (200,000 IU, twice a month) - March 2021](/posts/temporary-hair-loss-telogen-effluvium-treated-by-vitamin-d-200000-iu-twice-a-month)
 
-* <a href="/posts/spot-baldness-alopecia-areata-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spot Baldness (Alopecia Areata) associated with low vitamin D – many studies">Spot Baldness (Alopecia Areata) associated with low vitamin D – many studies</a>
+* [Spot Baldness (Alopecia Areata) associated with low vitamin D – many studies](/posts/spot-baldness-alopecia-areata-associated-with-low-vitamin-d-many-studies)
 
-   * <a href="/posts/spot-baldness-alopecia-areata-41-x-more-likely-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020">Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020</a>
+   * [Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020](/posts/spot-baldness-alopecia-areata-41-x-more-likely-if-low-vitamin-d-meta-analysis)
 
 * [Diffuse hair loss - 2009.pdf](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1838) not just getting older
 
@@ -911,7 +911,7 @@ CONCLUSIONS: This study indicated the correlation between the incidence of FPHL 
 
    * Red hair apparently allows more production of vitamin D from the same amount of sunlight
 
-* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
+* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)
 
 ---
 

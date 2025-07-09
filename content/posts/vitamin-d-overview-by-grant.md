@@ -653,16 +653,16 @@ Zheng,   Y.,  Niyonsaba,  F.,  Ushio,  H.,  Nagaoka,  I.,   Ikeda,   S., Okumura
 
 * <a href="/posts/links-to-ws-grant-papers-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1825">Links to WS Grant papers in VitaminDWiki</a>
 
-* <a href="/posts/vitamin-d-video-53-minutes-with-text-and-pdfs-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Video 53 minutes with text and PDFs – Grant Oct 2017">Vitamin D Video 53 minutes with text and PDFs – Grant Oct 2017</a>
+* [Vitamin D Video 53 minutes with text and PDFs – Grant Oct 2017](/posts/vitamin-d-video-53-minutes-with-text-and-pdfs-grant)
 
 * [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
 
-* <a href="/posts/bibliography-of-black-white-health-disparities-linked-to-vitamin-d-dr-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bibliography of Black-White health disparities linked to vitamin D - Dr. Grant March 2017">Bibliography of Black-White health disparities linked to vitamin D - Dr. Grant March 2017</a>
+* [Bibliography of Black-White health disparities linked to vitamin D - Dr. Grant March 2017](/posts/bibliography-of-black-white-health-disparities-linked-to-vitamin-d-dr-grant)
 
-* <a href="/posts/pregnancy-and-vitamin-d-bibliography-dr-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pregnancy and Vitamin D bibliography - Dr. Grant - March 2017">Pregnancy and Vitamin D bibliography - Dr. Grant - March 2017</a>
+* [Pregnancy and Vitamin D bibliography - Dr. Grant - March 2017](/posts/pregnancy-and-vitamin-d-bibliography-dr-grant)
 
-* <a href="/posts/low-uvb-thus-low-vitamin-d-is-linked-to-many-diseases-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low UVB (thus low Vitamin D) is linked to many diseases – Grant Jan 2016">Low UVB (thus low Vitamin D) is linked to many diseases – Grant Jan 2016</a>
+* [Low UVB (thus low Vitamin D) is linked to many diseases – Grant Jan 2016](/posts/low-uvb-thus-low-vitamin-d-is-linked-to-many-diseases-grant)
 
-* <a href="/posts/autism-and-vitamin-d-cannell-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism and vitamin D: Cannell, Grant – March 2013">Autism and vitamin D: Cannell, Grant – March 2013</a>
+* [Autism and vitamin D: Cannell, Grant – March 2013](/posts/autism-and-vitamin-d-cannell-grant)
 
-* <a href="/posts/solar-uvb-reduces-cancer-risk-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Solar UVB reduces Cancer Risk – Grant, Jan 2013">Solar UVB reduces Cancer Risk – Grant, Jan 2013</a>
+* [Solar UVB reduces Cancer Risk – Grant, Jan 2013](/posts/solar-uvb-reduces-cancer-risk-grant)

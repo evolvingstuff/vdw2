@@ -65,7 +65,7 @@ CONCLUSION?Canadian physicians favour the use of calcium, vitamin D, potent oral
 
 #### Note: Recommendation for preventing ANOTHER hip fracture, not preventing the first one
 
-{IMG(attId="296"max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/survey-hip-fracture.gif" alt="image" style="max-width: 500px;">
 
 * <span>[tiki-download_file.php?fileId=1580]</span>
 
@@ -73,6 +73,6 @@ CONCLUSION?Canadian physicians favour the use of calcium, vitamin D, potent oral
 
 * <a href="/posts/overview-bone-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview Bone fractures and vitamin D</a>
 
-* <a href="/posts/hip-fractures-rates-have-been-increasing-since-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hip fractures rates have been increasing since 2012 – Feb 2018">Hip fractures rates have been increasing since 2012 – Feb 2018</a>
+* [Hip fractures rates have been increasing since 2012 – Feb 2018](/posts/hip-fractures-rates-have-been-increasing-since-2012)
 
 * [All items in category Falls or Fractures and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=111&sort_mode=created_desc)

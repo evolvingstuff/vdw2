@@ -42,7 +42,7 @@ CONCLUSION: These findings indicate a significant association between serum 25-O
 
 # See also at VitaminDWiki
 
-* <a href="/posts/is-osteoarthritis-a-metabolic-syndrome" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 540">Is Osteoarthritis a metabolic syndrome – June 2010</a>
+* [Is Osteoarthritis a metabolic syndrome – June 2010](/posts/is-osteoarthritis-a-metabolic-syndrome)
 
 * [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
@@ -52,4 +52,4 @@ CONCLUSION: These findings indicate a significant association between serum 25-O
 
 * See Osteoarthritis at [Vitamin D Council](http://www.vitamindcouncil.org/researchOsteoarthritis.shtml)
 
-* <a href="/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013">Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013</a>
+* [Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013](/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review)

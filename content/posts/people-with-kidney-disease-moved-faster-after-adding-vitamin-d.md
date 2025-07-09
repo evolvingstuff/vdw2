@@ -60,7 +60,7 @@ PMID:     21762642
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
 * [All Kidney and Vitamin D items in VitaminDWiki](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&sort_mode=created_desc) 63 items Aug 2011
 
@@ -68,12 +68,12 @@ PMID:     21762642
 
 * [Dialysis patients with low vitamin D were 2.7 X more likely to die of heart problems – Feb 2011](/posts/dialysis-patients-with-low-vitamin-d-were-27-x-more-likely-to-die-of-heart-problems)
 
-* <a href="/posts/virtually-all-black-dialysis-patients-with-low-albumin-are-vitamin-d-deficient-in-the-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 549">Virtually all black dialysis patients with low albumin are vitamin D deficient in the winter – Mar 2010</a>
+* [Virtually all black dialysis patients with low albumin are vitamin D deficient in the winter – Mar 2010](/posts/virtually-all-black-dialysis-patients-with-low-albumin-are-vitamin-d-deficient-in-the-winter)
 
-* <a href="/posts/low-vitamin-d-associated-with-hemodialysis-problems" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 464">Low vitamin D associated with hemodialysis problems – May 2010</a>
+* [Low vitamin D associated with hemodialysis problems – May 2010](/posts/low-vitamin-d-associated-with-hemodialysis-problems)
 
 * [Kidney failure and vitamin D deficiency vicious cycle – Jan 2011](/posts/kidney-failure-and-vitamin-d-deficiency-vicious-cycle)
 
 * [Each 10 ng increase in vitamin D decreased kidney disease death by 14 percent – May 2011](/posts/each-10-ng-increase-in-vitamin-d-decreased-kidney-disease-death-by-14-percent) Meta-analysis
 
-{IMG(attId="631")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ckd-and-vitamin-d.png" alt="image">

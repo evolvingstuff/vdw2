@@ -76,7 +76,7 @@ PMID:     21640757
 
 * <a href="/posts/hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Hypertension and vitamin D</a> many articles
 
-* <a href="/posts/vitamin-d-increases-hdl" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 791">Vitamin D increases HDL</a> several items
+* [Vitamin D increases HDL](/posts/vitamin-d-increases-hdl) several items
 
 * [All items in Cholesterol and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=71&sort_mode=created_desc)
 

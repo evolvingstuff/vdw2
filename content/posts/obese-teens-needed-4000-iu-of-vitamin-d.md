@@ -68,6 +68,6 @@ The paper, “ **Safety and efficacy of using high dose (4000 IU daily) vitamin 
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-* <a href="/posts/2000-iu-raised-vitamin-d-levels-of-thin-teens-by-10-ng-obese-teens-by-6-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3340">2000 IU raised vitamin D levels of thin teens by 10 ng, obese teens by 6 ng – Oct 2012</a>
+* [2000 IU raised vitamin D levels of thin teens by 10 ng, obese teens by 6 ng – Oct 2012](/posts/2000-iu-raised-vitamin-d-levels-of-thin-teens-by-10-ng-obese-teens-by-6-ng)

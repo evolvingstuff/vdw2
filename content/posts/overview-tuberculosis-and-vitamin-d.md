@@ -194,33 +194,33 @@ However, for reasons that are unclear, these treatments are no longer being used
 
 #### See also VitaminDWiki
 
-* <a href="/posts/tuberculosis-still-associated-with-low-vitamin-d-12th-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tuberculosis still associated with low vitamin D – 12th meta-analysis June 2021">Tuberculosis still associated with low vitamin D – 12th meta-analysis June 2021</a>
+* [Tuberculosis still associated with low vitamin D – 12th meta-analysis June 2021](/posts/tuberculosis-still-associated-with-low-vitamin-d-12th-meta-analysis)
 
-* <a href="/posts/tb-patients-had-low-vitamin-d-and-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: TB patients had low Vitamin D and poor Vitamin D receptor – June 2019">TB patients had low Vitamin D and poor Vitamin D receptor – June 2019</a>
+* [TB patients had low Vitamin D and poor Vitamin D receptor – June 2019](/posts/tb-patients-had-low-vitamin-d-and-poor-vitamin-d-receptor)
 
-* <a href="/posts/review-of-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of Tuberculosis and Vitamin D – May 2018">Review of Tuberculosis and Vitamin D – May 2018</a>
+* [Review of Tuberculosis and Vitamin D – May 2018](/posts/review-of-tuberculosis-and-vitamin-d)
 
-* <a href="/posts/tuberculosis-recovery-speeded-up-by-single-450000-iu-dose-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tuberculosis recovery speeded up by single 450,000 IU dose of vitamin D – RCT Jan 2017">Tuberculosis recovery speeded up by single 450,000 IU dose of vitamin D – RCT Jan 2017</a>
+* [Tuberculosis recovery speeded up by single 450,000 IU dose of vitamin D – RCT Jan 2017](/posts/tuberculosis-recovery-speeded-up-by-single-450000-iu-dose-of-vitamin-d-rct)
 
-* <a href="/posts/million-tb-deaths-annually-yet-proven-treatments-of-vitamin-d-sunshine-etc-are-not-used" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Million TB deaths annually, yet proven treatments of Vitamin D, sunshine, etc are not used – July 2017">Million TB deaths annually, yet proven treatments of Vitamin D, sunshine, etc are not used – July 2017</a>
+* [Million TB deaths annually, yet proven treatments of Vitamin D, sunshine, etc are not used – July 2017](/posts/million-tb-deaths-annually-yet-proven-treatments-of-vitamin-d-sunshine-etc-are-not-used)
 
-* <a href="/posts/vitamin-d-in-respiratory-diseases-spring-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D in respiratory diseases – Spring 2017">Vitamin D in respiratory diseases – Spring 2017</a>
+* [Vitamin D in respiratory diseases – Spring 2017](/posts/vitamin-d-in-respiratory-diseases-spring-2017)
 
-* <a href="/posts/tuberculosis-recovery-speeded-up-by-single-450000-iu-dose-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tuberculosis recovery speeded up by single 450,000 IU dose of vitamin D – RCT Jan 2017">Tuberculosis recovery speeded up by single 450,000 IU dose of vitamin D – RCT Jan 2017</a>
+* [Tuberculosis recovery speeded up by single 450,000 IU dose of vitamin D – RCT Jan 2017](/posts/tuberculosis-recovery-speeded-up-by-single-450000-iu-dose-of-vitamin-d-rct)
 
-* <a href="/posts/the-antibiotic-effects-of-vitamin-d-2014" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Antibiotic Effects of Vitamin D – 2014">The Antibiotic Effects of Vitamin D – 2014</a>
+* [The Antibiotic Effects of Vitamin D – 2014](/posts/the-antibiotic-effects-of-vitamin-d-2014)
 
-* <a href="/posts/every-tb-patient-benefited-from-2-doses-of-600000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013">Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013</a>
+* [Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013](/posts/every-tb-patient-benefited-from-2-doses-of-600000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/children-with-active-tb-were-46x-more-likely-to-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children with active TB were 4.6X more likely to have low vitamin D – Dec 2014">Children with active TB were 4.6X more likely to have low vitamin D – Dec 2014</a>
+* [Children with active TB were 4.6X more likely to have low vitamin D – Dec 2014](/posts/children-with-active-tb-were-46x-more-likely-to-have-low-vitamin-d)
 
-* <a href="/posts/tb-conversion-6-percent-less-likely-with-just-1-ng-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: TB conversion 6 percent less likely with just 1 ng more vitamin D – Oct 2014">TB conversion 6 percent less likely with just 1 ng more vitamin D – Oct 2014</a>
+* [TB conversion 6 percent less likely with just 1 ng more vitamin D – Oct 2014](/posts/tb-conversion-6-percent-less-likely-with-just-1-ng-more-vitamin-d)
 
-* <a href="/posts/tuberculosis-ethnic-differences-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tuberculosis, ethnic differences, and vitamin D – July 2013">Tuberculosis, ethnic differences, and vitamin D – July 2013</a>
+* [Tuberculosis, ethnic differences, and vitamin D – July 2013](/posts/tuberculosis-ethnic-differences-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-infectious-diseases-like-rti-tb-and-sepsis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and infectious diseases like RTI, TB and Sepsis – Nov 2014">Vitamin D and infectious diseases like RTI, TB and Sepsis – Nov 2014</a>
+* [Vitamin D and infectious diseases like RTI, TB and Sepsis – Nov 2014](/posts/vitamin-d-and-infectious-diseases-like-rti-tb-and-sepsis)
 
-* <a href="/posts/multidrug-resistant-tuberculosis-may-be-reduced-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3222">Multidrug-resistant tuberculosis may be reduced with vitamin D – Sept 2012</a>
+* [Multidrug-resistant tuberculosis may be reduced with vitamin D – Sept 2012](/posts/multidrug-resistant-tuberculosis-may-be-reduced-with-vitamin-d)
 
 * Study of TB seasonality over 28 years  **<span style="color:#00F;">PDF is attached at the bottom of this page</span>** 
 
@@ -228,11 +228,11 @@ However, for reasons that are unclear, these treatments are no longer being used
 
    * Vitamin D has been shown to prevent TB conversion
 
-* <a href="/posts/boron-and-granulomas-tb-rheumatoid-arthritis-crohns-rheumatic-fever-etc-2015" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boron and Granulomas (TB, Rheumatoid arthritis, Crohn's, Rheumatic Fever etc.) - 2015">Boron and Granulomas (TB, Rheumatoid arthritis, Crohn's, Rheumatic Fever etc.) - 2015</a>
+* [Boron and Granulomas (TB, Rheumatoid arthritis, Crohn's, Rheumatic Fever etc.) - 2015](/posts/boron-and-granulomas-tb-rheumatoid-arthritis-crohns-rheumatic-fever-etc-2015)
 
-* <a href="/posts/tb-in-wikipedia-from-a-vitamin-d-perspective" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 728">TB in Wikipedia from a vitamin D perspective – Aug 2010</a> - which has  the following graphic
+* [TB in Wikipedia from a vitamin D perspective – Aug 2010](/posts/tb-in-wikipedia-from-a-vitamin-d-perspective) - which has  the following graphic
 
-{IMG(fileId="1032" max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 ---
 
@@ -312,7 +312,7 @@ It's important to note that the actual cost can vary greatly depending on indivi
 
 ---
 
-#### 2022 Deaths: COVID = 7 million, TB = 1.3 million, <a href="/posts/vitamin-d-and-malaria-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and malaria – many studies">Malaria</a> =  0.6 million
+#### 2022 Deaths: COVID = 7 million, TB = 1.3 million, [Malaria](/posts/vitamin-d-and-malaria-many-studies) =  0.6 million
 
 ---
 
@@ -332,7 +332,7 @@ It's important to note that the actual cost can vary greatly depending on indivi
 
 > Vitamin D deficiency is common in patients with active TB,
 
-* A. Martineau organized the <a href="/posts/vitamin-d-conference-in-england-april-23-25-2014" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D conference in England - April 23-25 2014">Vitamin D conference in England - April 23-25 2014</a>
+* A. Martineau organized the [Vitamin D conference in England - April 23-25 2014](/posts/vitamin-d-conference-in-england-april-23-25-2014)
 
 * Vitamin D and tuberculosis: more effective in prevention than treatment?
 

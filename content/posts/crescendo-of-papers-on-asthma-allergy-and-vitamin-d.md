@@ -49,11 +49,11 @@ The recent discovery that every tissue in the human body has vitamin D receptors
 
 #### Increasing number of studies during past 12 years: Hypothesis that low vitamin D causes some breathing problems (graph from PDF)
 
-{IMG(attId="760" max="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-and-allergy-or-asthma-publications.png" alt="image" style="max-width: 600px;">
 
 #### Figure 2: Schematic diagram of vitamin D metabolism
 
-{IMG(attId="761")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/asthma-chart-sept-2011.gif" alt="image">
 
 During exposure to sunlight, 7-dehydrocholesterol in the skin absorbs solar UVB radiation and is converted into cholecalciferol (Vit D3). Together with vitamin D originating from the diet, it enters the circulation and is metabolized to 25 hydroxyvitamin D3 (25<span>[OH]</span>D3) in the liver by vitamin D 25-hydroxylase. This is the form that circulates in the highest concentrations and reflects solar and dietary exposure. 25(OH)D3 reenters the circulation and is converted into 1,25(OH)2D3 in the kidney by 25(OH)D3 1 hydroxylase. A variety of factors, including serum phosphorus (Pi) and PTH, regulate the renal production of 1,25(OH)2D, which governs calcium metabolism through interactions with its major target tissues, i.e. bone and intestine. 25(OH)D is also metabolized in other tissues to regulate cell growth (e.g. in the lung and skin) and its expression is controlled by immune signals instead of bone and calcium homeostasis mediators.
 

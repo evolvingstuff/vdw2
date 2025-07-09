@@ -37,7 +37,7 @@ Hospital for Children and Adolescents, Helsinki University Central Hospital, Tuk
 
 <div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/fetal-bones-helped-a-bit-by-1000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fetal bones helped a bit by 1,000 IU of vitamin D – RCT Feb 2019">Fetal bones helped a bit by 1,000 IU of vitamin D – RCT Feb 2019</a>
+* [Fetal bones helped a bit by 1,000 IU of vitamin D – RCT Feb 2019](/posts/fetal-bones-helped-a-bit-by-1000-iu-of-vitamin-d-rct)
 
 </div>
 

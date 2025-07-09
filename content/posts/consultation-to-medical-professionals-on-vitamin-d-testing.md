@@ -85,11 +85,11 @@ DOI: 10.1309/AJCPB50USETUOQDZ
 
 > Many on variation between tests: different days, different testing methods
 
-* <a href="/posts/one-vitamin-d-blood-test-said-toxic-the-other-said-normal" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 902">One vitamin D blood test said toxic the other said normal – Aug 2010</a>
+* [One vitamin D blood test said toxic the other said normal – Aug 2010](/posts/one-vitamin-d-blood-test-said-toxic-the-other-said-normal)
 
-* <a href="/posts/vitamin-d-blood-test-uncertainty-about-15-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 778">Vitamin D blood test uncertainty about 15 percent – Aug 2010</a>
+* [Vitamin D blood test uncertainty about 15 percent – Aug 2010](/posts/vitamin-d-blood-test-uncertainty-about-15-percent)
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 266">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
 * <a href="/posts/vitamin-d-measurements-of-individuals-vary-considerably-within-6-days" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1768">Vitamin D measurements of individuals vary considerably within 6 days – June 2011</a>
 
@@ -195,7 +195,7 @@ An alternative approach to vitamin D reference ranges is to define clinical deci
 
 # Table 1
 
-{IMG(attId="753")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/pathology-table1.png" alt="image">
 
 The lack of consensus on 25-hydroxyvitamin D target ranges results in substantial variation in the reference ranges or target values used by reference laboratories and manufacturers of 25-hydroxyvitamin D assays. Table 1 lists the ranges for 4 large reference laboratories in the United States and for 3 marketed immunoassays. Some of the ranges in Table 1 include a toxic concentration threshold that varies from 80 to 180 ng/mL (50-450 nmol/L). Combined with analytic variability in 25-hydroxyvitamin D concentrations across different laboratories and methods (discussed later), the lack of consistency of reference ranges makes it challenging for clinicians to assess multiple 25-hydroxyvitamin D concentrations for a given patient if performed at different laboratories. For example, a 25-hydroxyvitamin serum or plasma concentration of 26 ng/mL (65 nmol/L) could be interpreted as in the lower end of the "optimum" range in one laboratory but could result in the "insufficiency" range for another laboratory. The variety of Table 1 does not include reference ranges used by individual clinical laboratories that have developed their own method (eg, HPLC or LC/MS/MS) and set a reference range based on published literature or some other approach.
 

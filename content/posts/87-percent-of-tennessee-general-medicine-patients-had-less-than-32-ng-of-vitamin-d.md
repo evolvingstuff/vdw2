@@ -37,13 +37,13 @@ PMID: 21314063
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [All items on Vitamin D deficiency](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&sort_mode=created_desc)
 
-* <a href="/posts/90-percent-of-canadian-youth-less-than-30-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1090">90 percent of Canadian youth less than 30 ng vitamin D – Oct 2010</a>
+* [90 percent of Canadian youth less than 30 ng vitamin D – Oct 2010](/posts/90-percent-of-canadian-youth-less-than-30-ng-vitamin-d)
 
-* <a href="/posts/79-percent-of-middle-aged-americans-had-less-than-32-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 849">79 percent of middle aged Americans had less than 32 ng of vitamin D – July 2010</a>
+* [79 percent of middle aged Americans had less than 32 ng of vitamin D – July 2010](/posts/79-percent-of-middle-aged-americans-had-less-than-32-ng-of-vitamin-d)
 
 * [Groups associated with less than 20ng vitamin D – NHANES Jan 2011](/posts/groups-associated-with-less-than-20ng-vitamin-d-nhanes)
 

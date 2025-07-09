@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Death due to liver problems was 4X more probable with low levels of vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030344"><link rel=stylesheet href="/css/pagination.css?v=1752030344"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030344"></script><script src="/js/search.js?v=1752030344"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Death due to liver problems was 4X more probable with low levels of vitamin D</h1><time>August 11, 2012</time><div data-pagefind-body><h1 id=association-of-25-hydroxyvitamin-d-levels-with-liver-dysfunction-and-mortality-in-chronic-liver-disease>Association of 25-hydroxyvitamin D levels with liver dysfunction and mortality in chronic liver disease.</h1><p>Liver Int. 2012 May;32(5):845-51.</p><p>Putz-Bankuti C, Pilz S, Stojakovic T, Scharnagl H, Pieber TR, Trauner M, Obermayer-Pietsch B, Stauber RE.</p><p>Department of Internal Medicine, Division of Gastroenterology and Hepatology, Medical University of Graz,, Graz, Austria.</p><p>BACKGROUND:</p><p>Previous studies suggest that chronic liver disease may be related to vitamin D deficiency. It is, however, not known whether 25(OH)D levels are associated with incident hepatic decompensation and mortality in chronic liver failure.</p><p>AIMS:</p><p>We aimed to evaluate whether 25(OH)D serum levels are associated with Child-Pugh (CP) score, model for end-stage liver disease (MELD) score, occurrence of hepatic decompensation, and survival in patients with cirrhosis.</p><p>METHODS:</p><p>We enrolled 75 consecutive cirrhotic patients admitted to our outpatient liver clinic (32% females; age: 58 ± 11 years; aetiology alcohol in 61%). At baseline, 25(OH)D was determined and the degree of liver dysfunction was estimated by CP and MELD score. Thereafter patients were followed-up with respect to hepatic decompensation and mortality.</p><p>RESULTS:</p><p>25(OH)D levels averaged 16.0 ± 9.2 ng/ml and were inversely correlated with MELD score (r = -0.34, P = 0.003) and CP score (r = -0.21, P = 0.080).</p><p>Thirty-seven patients developed hepatic decompensation and 24 patients died during a median follow-up of 3.6 years.</p><p>Age- and gender-adjusted relative risk (with 95% confidence interval) was 6.37 (1.75-23.2; P = 0.005) for hepatic decompensation and <strong>4.31</strong> (1.38-13.5; P = 0.012) for mortality within the first vs the third 25(OH)D tertile but these associations were largely attenuated towards non-significant trends after additional adjustments for CP or MELD score.</p><p>CONCLUSIONS:</p><p>Our findings show a significant association of 25(OH)D with the degree of liver dysfunction and suggest that low 25(OH)D levels may predict hepatic decompensation and mortality in patients with chronic liver failure.</p><p>© 2012 John Wiley & Sons A/S. PMID: 22222013</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/overview-liver-and-vitamin-d>Overview Liver and vitamin D</a></p></li><li><p><a href=/posts/advanced-liver-cirrhosis-death-63x-more-likely-if-extremely-low-vitamin-d>Advanced liver cirrhosis death 6.3X more likely if extremely low vitamin D – Jan 2013</a></p></li><li><p><a href="http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&amp;ie=UTF-8&amp;q=Calcitriol&amp;sa=Search&amp;siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0&amp;ref=www.VitaminDWiki.com%2Ftiki-index.php%3Fpage%3DVitaminDSearch#gsc.tab=0&amp;gsc.q=Calcitriol&amp;gsc.page=1">Google Site search VitaminDWiki for <strong><span style=color:#390>Calcitriol</span></strong> </a>870 hits as of Nov 2012</p></li></ul><blockquote><p><strong><span style=color:#390>Calcitriol</span></strong> may be much better than unactivated vitamin D</p></blockquote><blockquote></blockquote></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>alcohol</span>
+<span class=tag>blood levels</span>
+<span class=tag>child</span>
+<span class=tag>health risk</span>
+<span class=tag>life span</span>
+<span class=tag>Liver</span>
+<span class=tag>mortality</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>alcohol, blood levels, child, health risk, life span, Liver, mortality, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030344"></script><script src="/js/tiki-redirects.js?v=1752030344"></script><script src="/js/lightspa.js?v=1752030344"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030344",indexUrl:"/search/search_index.json.gz?v=1752030344"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030344"></script></body></html>

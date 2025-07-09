@@ -128,7 +128,7 @@ Website: www.who.int/nutrition
 
 # Like all other govt organizations, they are ignoring
 
-* Interactions between supplements: example <a href="/posts/calcium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">Calcium and Vitamin D</a>
+* Interactions between supplements: example [Calcium and Vitamin D](/posts/calcium-and-vitamin-d)
 
 * [Interactions of supplements with drugs](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=59&sort_mode=created_desc)
 

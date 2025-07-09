@@ -23,15 +23,15 @@
 
 # A few of the charts from: Vitamin D Status: United States, 2001–2006
 
-{IMG(attId="519")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cdc1-march-2011.png" alt="image">
 
 ## <span style="color:#C00;">Note: Very few organizations consider levels > 50 ngram (125 nmol) to be "possibly harmful"</span>
 
-{IMG(attId="520")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cdc2-march-2011.png" alt="image">
 
 #  **<span style="color:#C00;">71% of blacks had less than 20 ng of vitamin D</span>** 
 
-{IMG(attId="521")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cdc4-march-2011.png" alt="image">
 
 # [CLICK HERE](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1827) for PDF
 
@@ -39,11 +39,11 @@
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/cdc-vitamin-d-grand-rounds" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 774">CDC Vitamin D Grand Rounds - Aug 2010</a> had similar charts 7 months before this 'announcement'
+* [CDC Vitamin D Grand Rounds - Aug 2010](/posts/cdc-vitamin-d-grand-rounds) had similar charts 7 months before this 'announcement'
 
 * [CDC confirms association between more vitamin D and less insulin – Jan 2011](/posts/cdc-confirms-association-between-more-vitamin-d-and-less-insulin) 24% less insulin if less than 20 ng of vitamin D
 
@@ -53,4 +53,4 @@
 
    * Example from above: The MINIMUM recommendation by 25 experts was 30 ng
 
-{IMG(attId="355"max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 400px;">

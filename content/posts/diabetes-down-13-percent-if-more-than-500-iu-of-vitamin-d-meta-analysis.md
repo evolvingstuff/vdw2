@@ -42,7 +42,7 @@ Conclusions:Vitamin D may play a role in type 2 diabetes; however, to better def
 
 PMID:     21731035
 
-{IMG(attId="635")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/diabetes-figure-2.png" alt="image">
 
 ## <span>[tiki-download_file.php?fileId=1927]</span> for PDF - must be registered (free)
 
@@ -50,4 +50,4 @@ PMID:     21731035
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)

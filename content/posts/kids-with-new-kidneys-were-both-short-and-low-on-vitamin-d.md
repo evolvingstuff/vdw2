@@ -48,6 +48,6 @@ PMID:     21643944
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
 * [All items in Kidney and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&sort_mode=created_desc)

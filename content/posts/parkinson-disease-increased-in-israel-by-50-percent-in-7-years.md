@@ -52,11 +52,11 @@ More information: The article is "Use of a refined drug tracer algorithm to esti
 
 * <a href="/posts/parkinson-disease-3x-less-likely-if-have-high-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 700">Parkinson disease 3X less likely if have high levels of vitamin D – July 2010</a>
 
-* <a href="/posts/low-vitamin-d-increases-parkinson-by-3x" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 795">Low Vitamin D increases Parkinson by 3X– July 2010</a>
+* [Low Vitamin D increases Parkinson by 3X– July 2010](/posts/low-vitamin-d-increases-parkinson-by-3x)
 
-* <a href="/posts/outdoor-trades-much-less-likely-to-get-parkinson-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1027">Outdoor trades much less likely to get Parkinson disease – Sept 2010</a>
+* [Outdoor trades much less likely to get Parkinson disease – Sept 2010](/posts/outdoor-trades-much-less-likely-to-get-parkinson-disease)
 
-* <a href="/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 201">Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010</a>
+* [Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010](/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low)
 
 * [23 ng of vitamin D in sunny Israel – Dec 2010](/posts/23-ng-of-vitamin-d-in-sunny-israel)
 
@@ -70,4 +70,4 @@ More information: The article is "Use of a refined drug tracer algorithm to esti
 
 * <a href="/posts/hypothesis-of-cause-and-affect-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 63">Hypothesis of cause and affect of vitamin D deficiency</a>
 
-* <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Air Conditioning probably has decreased vitamin D</a> perhaps the major cause
+* [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d) perhaps the major cause

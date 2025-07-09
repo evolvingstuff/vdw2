@@ -40,7 +40,7 @@ PMID:     21731038
 
 # Possible ways Calcium and Vitamin D might reduce obesity
 
-{IMG(attId="632")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-and-obesity-possibilities.png" alt="image">
 
 ## <span>[tiki-download_file.php?fileId=1924]</span> for PDF if registered (free)
 
@@ -50,6 +50,6 @@ PMID:     21731038
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-* <a href="/posts/the-influence-of-vitamin-d-and-calcium-on-fat-and-obesity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The influence of Vitamin D and Calcium on fat and obesity – March 2014">The influence of Vitamin D and Calcium on fat and obesity – March 2014</a> later publication
+* [The influence of Vitamin D and Calcium on fat and obesity – March 2014](/posts/the-influence-of-vitamin-d-and-calcium-on-fat-and-obesity) later publication

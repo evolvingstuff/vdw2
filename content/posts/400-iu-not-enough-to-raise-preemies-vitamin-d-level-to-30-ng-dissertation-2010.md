@@ -63,6 +63,6 @@ Formula fed, late preterm infants in the NICU require additional vitamin D suppl
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D: Before, During, and After Pregnancy</a>
+* [Vitamin D: Before, During, and After Pregnancy](/posts/vitamin-d-before-during-and-after-pregnancy)
 
-* <a href="/posts/many-preemies-need-at-least-800-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many preemies need at least 800 IU of vitamin D – RCT May 2013">Many preemies need at least 800 IU of vitamin D – RCT May 2013</a>
+* [Many preemies need at least 800 IU of vitamin D – RCT May 2013](/posts/many-preemies-need-at-least-800-iu-of-vitamin-d-rct)

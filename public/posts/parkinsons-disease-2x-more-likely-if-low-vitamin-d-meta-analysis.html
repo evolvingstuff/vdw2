@@ -1,0 +1,83 @@
+<!doctype html><html><head><meta charset=utf-8><title>Parkinson’s disease 2X more likely if low Vitamin D – meta-analysis</title>
+<link rel=stylesheet href="/css/main.css?v=1752030348"><link rel=stylesheet href="/css/pagination.css?v=1752030348"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030348"></script><script src="/js/search.js?v=1752030348"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Parkinson’s disease 2X more likely if low Vitamin D – meta-analysis</h1><time>May 22, 2014</time><div data-pagefind-body><h4 id=vitamin-d-status-and-parkinsons-disease-a-systematic-review-and-meta-analysis>Vitamin D status and Parkinson’s disease: a systematic review and meta-analysis</h4><p>Neurological Sciences, May 2014</p><p>Zheng Lv, Huiping Qi, Le Wang, Xiaoxue Fan, Fei Han, Hong Wang, Sheng Bi <a href=mailto:13224510036@163.com>13224510036@163.com</a></p><ol><li><p>Department of Rehabilitation, the First Affiliated Hospital, Harbin Medical University, Harbin, 150001, China</p></li><li><p>Department of Neurology, the Fourth Affiliated Hospital, Harbin Medical University, Harbin, 150001, China</p></li><li><p>Department of Neurology, the First Affiliated Hospital, Harbin Medical University, Harbin, 150001, China</p></li></ol><p>To estimate the associations between vitamin D status and Parkinson’s disease (PD). We searched electronic databases of the human literature in PubMed, EMBASE and the Cochrane Library up to February, 2014 using the following keywords: ‘vitamin D’ or ‘25(OH)D’ and ‘status’ or ‘deficiency’ or ‘insufficiency’ and ‘Parkinson’s disease’. A systematic review and meta-analysis were conducted on observational studies that reported the association between blood vitamin D levels and PD. Seven studies met the inclusion criteria. 1,008 patients and 4,536 controls were included.</p><p>Results of our meta-analysis show that PD patients had lower mean levels of 25-hydroxyvitamin D <span>[25(OH)D]</span> than healthy controls <span>[weighted mean difference (MD), −16.9, 95 % confidence interval (CI)]</span>, −33.5 to −0.2).</p><p>Patients with vitamin D insufficiency <a href=25(OH)D%20level%20%3C75%20nmol/l>25(OH)D level &lt;75 nmol/l</a> had an increased risk of PD (OR 1.5, 95 % CI 1.1–2.0).</p><p>Patients with vitamin D deficiency <a href=25(OH)D%20level%20%3C50%20nmol/l>25(OH)D level &lt;50 nmol/l</a> experienced a twofold increased risk of PD (OR 2.2, 95 % CI 1.5–3.4). Low vitamin D levels are associated with an increased risk of PD.</p><h3 id=references>References</h3><ol><li><p>Dick FD, De Palma G, Ahmadi A, Scott NW, Prescott GJ, Bennett J, Semple S, Dick S, Counsell C, Mozzoni P, Haites N, Wettinger SB, Mutti A, Otelea M, Seaton A, Söderkvist P, Felice A, Geoparkinson study group (2007) Environmental risk factors for Parkinson’s disease and parkinsonism: the Geoparkinson study. Occup Environ Med 64(10):666–672 CrossRef</p></li><li><p>Hancock DB, Martin ER, Mayhew GM, Stajich JM, Jewett R, Stacy MA, Scott BL, Vance JM, Scott WK (2008) Pesticide exposure and risk of Parkinson’s disease: a family-based case–control study. BMC Neurol 8(3):6 CrossRef</p></li><li><p>Henchcliffe C, Beal MF (2008) Mitochondrial biology and oxidative stress in Parkinson disease pathogenesis. Nat Clin Pract Neurol 4(11):600–609 CrossRef</p></li><li><p>DeLuca GC, Kimball SM, Kolasinski J, Ramagopalan SV, Ebers GC ( <strong>2013</strong> ) Review: the role of vitamin D in nervous system health and disease. Neuropathol Appl Neurobiol 39(5):458–484 CrossRef</p></li><li><p>Zittermann A, Schleithoff SS, Koerfer R (2006) Vitamin D insufficiency in congestive heart failure: why and what to do about it? Heart Fail Rev 11(1):25–33 CrossRef</p></li><li><p>Chaudhuri JR, Mridula KR, Alladi S, Anamika A, Umamahesh M, Balaraju B, Swath A, Bandaru VS ( <strong>2014</strong> ) Serum 25-hydroxyvitamin D deficiency in ischemic stroke and subtypes in Indian patients. J Stroke 16(1):44–50 CrossRef</p></li><li><p>Brøndum-Jacobsen P, Nordestgaard BG, Schnohr P, Benn M ( <strong>2013</strong> ) 25-hydroxyvitamin D and symptomatic ischemic stroke: an original study and meta-analysis. Ann Neurol 73(1):38–47 CrossRef</p></li><li><p>Martinelli V, Dalla Costa G, Colombo B, Dalla Libera D, Rubinacci A, Filippi M, Furlan R, Comi G ( <strong>2014</strong> ) Vitamin D levels and risk of multiple sclerosis in patients with clinically isolated syndromes. Mult Scler 20(2):147–155 CrossRef</p></li><li><p>Guzmán-Fulgencio M, García-Álvarez M, Berenguer J, Jiménez-Sousa MÁ, Cosín J, Pineda-Tenor D, Carrero A, Aldámiz T, Alvarez E, López JC, Resino S ( <strong>2014</strong> ) Vitamin D deficiency is associated with severity of liver disease in HIV/HCV coinfected patients. J Infect 68(2):176–184 CrossRef</p></li><li><p>Camargo CA Jr, Manson JE ( <strong>2014</strong> ) Vitamin D supplementation and risk of infectious disease: no easy answers. Am J Clin Nutr 99(1):3–4 CrossRef</p></li><li><p>Gorham ED, Garland CF, Garland FC, Grant WB, Mohr SB, Lipkin M, Newmark HL, Giovannucci E, Wei M, Holick MF (2007) Optimal vitamin D status for colorectal cancer prevention: a quantitative meta-analysis. Am J Prev Med 32(3):210–216 CrossRef</p></li><li><p>Evatt ML (2010) Beyond vitamin status: is there a role for vitamin D in Parkinson disease? Arch Neurol 67(7):795–797 CrossRef</p></li><li><p>Newmark HL, Newmark J (2007) Vitamin D and Parkinson’s disease––a hypothesis. Mov Disord 22(4):461–468 CrossRef</p></li><li><p>Evatt ML, DeLong MR, Kumari M, Auinger P, McDermott MP, Tangpricha V, Parkinson Study Group DATATOP Investigators (2011) High prevalence of hypovitaminosis D status in patients with early Parkinson disease. Arch Neurol 68(3):314–319 CrossRef</p></li><li><p>Eyles DW, Smith S, Kinobe R, Hewison M, McGrath JJ (2005) Distribution of the vitamin D receptor and 1 alpha-hydroxylase in human brain. J Chem Neuroanat 29(1):21–30 CrossRef</p></li><li><p>Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD, Rennie D, Moher D, Becker BJ, Sipe TA, Thacker SB (2000) Meta-analysis of observational studies in epidemiology: a proposal for reporting. Meta- analysis Of Observational Studies in Epidemiology (MOOSE) group. JAMA 283(15):2008–2012 CrossRef</p></li><li><p>Duckitt K, Harrington D (2005) Risk factors for pre-eclampsia at antenatal booking: systematic review of controlled studies. BMJ 330(7491):565 CrossRef</p></li><li><p>Holick MF (2007) Vitamin D deficiency. N Engl J Med 357(3):266–281 CrossRef</p></li><li><p>Abou-Raya S, Helmii M, Abou-Raya A (2009) Bone and mineral metabolism in older adults with Parkinson’s disease. Age Ageing 38(6):675–680 CrossRef</p></li><li><p>van den Bos F, Speelman AD, van Nimwegen M, van der Schouw YT, Backx FJ, Bloem BR, Munneke M, Verhaar HJ ( <strong>2013</strong> ) Bone mineral density and vitamin D status in Parkinson’s disease patients. J Neurol 260(3):754–760 CrossRef</p></li><li><p>Ding H, Dhima K, Lockhart KC, Locascio JJ, Hoesing AN, Duong K, Trisini-Lipsanopoulos A, Hayes MT, Sohur US, Wills AM, Mollenhauer B, Flaherty AW, Hung AY, Mejia N, Khurana V, Gomperts SN, Selkoe DJ, Schwarzschild MA, Schlossmacher MG, Hyman BT, Sudarsky LR, Growdon JH, Scherzer CR ( <strong>2013</strong> ) Unrecognized vitamin D3 deficiency is common in Parkinson disease: Harvard Biomarker Study. Neurology 81(17):1531–1537 CrossRef</p></li><li><p>Evatt ML, Delong MR, Khazai N, Rosen A, Triche S, Tangpricha V (2008) Prevalence of vitamin D insufficiency in patients with Parkinson disease and Alzheimer disease. Arch Neurol 65(10):1348–1352 CrossRef</p></li><li><p>Knekt P, Kilkkinen A, Rissanen H, Marniemi J, Sääksjärvi K, Heliövaara M (2010) Serum vitamin D and the risk of Parkinson disease. Arch Neurol 67(7):808–811 CrossRef</p></li><li><p>Sato Y, Honda Y, Kaji M, Asoh T, Hosokawa K, Kondo I, Satoh K (2002) Amelioration of osteoporosis by menatetrenone in elderly female Parkinson’s disease patients with vitamin D deficiency. Bone 31(1):114–118 CrossRef</p></li><li><p>Sato Y, Honda Y, Iwamoto J, Kanoko T, Satoh K (2005) Abnormal bone and calcium metabolism in immobilized Parkinson’s disease patients. Mov Disord 20(12):1598–1603 CrossRef</p></li><li><p>Egan KM, Signorello LB, Munro HM, Hargreaves MK, Hollis BW, Blot WJ (2008) Vitamin D insufficiency among African–Americans in the southeastern United States: implications for cancer disparities (United States). Cancer Causes Control 19(5):527–535 CrossRef</p></li><li><p>Tsiaras WG, Weinstock MA (2011) Factors influencing vitamin D status. Acta Derm Venereol 91(2):115–124</p></li><li><p>Zhao Y, Sun Y, Ji HF, Shen L ( <strong>2013</strong> ) Vitamin D levels in Alzheimer’s and Parkinson’s diseases: a meta-analysis. Nutrition 29(6):828–832 CrossRef</p></li><li><p>Lawson DE, Paul AA, Black AE, Cole TJ, Mandal AR, Davie M (1979) Relative contributions of diet and sunlight to vitamin D state in the elderly. Br Med J 2(6185):303–305 CrossRef</p></li><li><p>Eyles DW, Smith S, Kinobe R, Hewison M, McGrath JJ (2005) Distribution of the vitamin D receptor and 1 alpha-hydroxylase in human brain. J Chem Neuroanat 29(1):21–30 CrossRef</p></li><li><p>Buell JS, Dawson-Hughes B (2008) Vitamin D and neurocognitive dysfunction: preventing “D”ecline? Mol Aspects Med 29(6):415–422 CrossRef</p></li><li><p>Han X, Xue L, Li Y, Chen B, Xie A (2012) Vitamin D receptor gene polymorphism and its association with Parkinson’s disease in Chinese Han population. Neurosci Lett 525(1):29–33 CrossRef</p></li></ol></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>blood levels</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>bone mineral density</span>
+<span class=tag>brain</span>
+<span class=tag>breathing</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>cognitive</span>
+<span class=tag>colon cancer</span>
+<span class=tag>cystic fibrosis</span>
+<span class=tag>genetics</span>
+<span class=tag>heart failure</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>Meta-analysis of Vitamin D</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>Parkinson</span>
+<span class=tag>stroke</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>autoimmune, blood levels, bone, bone cancer, bone mineral density, brain, breathing, cancer, cancer in VDR, cardiovascular, cognitive, colon cancer, cystic fibrosis, genetics, heart failure, high dose, intervention, Meta-analysis of Vitamin D, multiple sclerosis, osteoporosis, Parkinson, stroke, therapeutic intervention, vitamin d, vitamin d blood test, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030348"></script><script src="/js/tiki-redirects.js?v=1752030348"></script><script src="/js/lightspa.js?v=1752030348"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030348",indexUrl:"/search/search_index.json.gz?v=1752030348"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030348"></script></body></html>

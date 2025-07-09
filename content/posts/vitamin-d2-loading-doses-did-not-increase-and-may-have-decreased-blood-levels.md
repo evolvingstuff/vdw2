@@ -66,7 +66,7 @@ PMID:     21689448
 
 # Vitamin D levels in blood 3 months after loading doses
 
-{IMG(attId="762")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-response-levels-sept-2011.gif" alt="image">
 
  **Red =  0 IU**  loading dose
 
@@ -108,7 +108,7 @@ PMID:     21689448
 
 * [All items Loading Dose or Megadose](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=73&sort_mode=created_desc)  28 items Feb 2012
 
-* <a href="/posts/hip-surgery-followed-by-100000-iu-then-1000-iu-of-vitamin-d-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 482">Hip surgery followed by 100,000 IU then 1,000 IU of vitamin D daily – June 2010</a>
+* [Hip surgery followed by 100,000 IU then 1,000 IU of vitamin D daily – June 2010](/posts/hip-surgery-followed-by-100000-iu-then-1000-iu-of-vitamin-d-daily)
 
 * [All items in the megadose/loading dose category](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=73&sort_mode=created_desc) 29 items March 2012
 
@@ -120,7 +120,7 @@ PMID:     21689448
 
 #  **<span style="color:#09C;">Blood test,</span>**  Injection (im) of 300,000 or 600,000 IU D2 , then 3 months later <span style="color:#6C0;">another blood test</span>
 
-{IMG(fileId="1558" max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 ## Note the X axis for Dr. Grimes charts = patients sorted in order of first blood test
 

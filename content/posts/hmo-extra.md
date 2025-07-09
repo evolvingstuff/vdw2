@@ -100,7 +100,7 @@ That an employee smokes is based on the honor system
 
 ### Stay healthy for longer time, and die quickly.
 
-{IMG(fileId="1648" max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -138,7 +138,7 @@ While it would be far better if people would take enough vitamin D so as to not 
 
 - - - - - - - 
 
-<a href="/posts/aetna-and-walgreens-and-united-way-continue-vitamin-d-giveaways" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 532">Aetna and Walgreens and United Way Continue Vitamin D Giveaways – May 2010</a> 
+[Aetna and Walgreens and United Way Continue Vitamin D Giveaways – May 2010](/posts/aetna-and-walgreens-and-united-way-continue-vitamin-d-giveaways) 
 
 * example of Health <span style="color:#00F;">Insurance company that at least wants the positive publicity</span>
 

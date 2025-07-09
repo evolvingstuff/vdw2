@@ -39,7 +39,7 @@
 
 #### <span style="color:#F00;">Cholecalciferol </span>(ko-ler-cal-'si ferol) = vitamin D3,  from diet or your skin (from cholesterol and UV)
 
-<a href="/posts/getting-vitamin-d-into-your-blood-and-cells" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your blood and cells">{img fileId="2696" width ="700"}</a>
+[{img fileId="2696" width ="700"}](/posts/getting-vitamin-d-into-your-blood-and-cells)
 
 &nbsp; &nbsp; &nbsp; &nbsp; **click on chart to see it larger, along with description** 
 
@@ -63,11 +63,11 @@
 
 * lasts only a few days in the body
 
-{IMG(fileId="1997")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 #### The above image is from <a href="/posts/this-page" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2108">This page</a>
 
-{IMG(fileId="1578")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 #### The above image is from <a href="/posts/this-page" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1140">This page</a>
 

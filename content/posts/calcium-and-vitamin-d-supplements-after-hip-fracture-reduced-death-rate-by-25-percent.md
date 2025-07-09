@@ -63,7 +63,7 @@ Copyright © 2011 American Society for Bone and Mineral Research. PMID: 21351147
 
 * [All items tagged Bone Health and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=6&sort_mode=created_desc) 93 items as of Nov 2011
 
-* <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">HMOs will save millions of dollars with vitamin D</a>
+* [HMOs will save millions of dollars with vitamin D](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d)
 
 * [All items in After Surgery or Trauma](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&sort_mode=created_desc) 47 items as of Nov 2011
 
@@ -73,9 +73,9 @@ Copyright © 2011 American Society for Bone and Mineral Research. PMID: 21351147
 
 * <a href="/posts/osteoporosis-medication-7x-better-when-more-than-33-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1702">Osteoporosis medication 7X better when more than 33 ng of vitamin D – June 2011</a>
 
-* <a href="/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1026">Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010</a>
+* [Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010](/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm)
 
-* <a href="/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1036">Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010</a>
+* [Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010](/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely)
 
 * [All items in Cost Savings and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=87&sort_mode=created_desc) 20 as of Nov 2011
 

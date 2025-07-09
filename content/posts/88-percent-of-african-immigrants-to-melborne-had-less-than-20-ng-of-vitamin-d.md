@@ -70,13 +70,13 @@ Latitude of Melbourne: 37 degrees from equator, similar to US or Spain
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [All items in Skin Color and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc) 177 items Dec 2011
 
 * <a href="/posts/the-darker-the-skin-the-less-the-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 645">The darker the skin the less the vitamin D – July 2010</a>
 
-* <a href="/posts/lack-of-vitamin-d-closely-associated-with-black-health-disparities" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1096">Lack of vitamin D closely associated with black health disparities – Nov 2010</a> - Great charts
+* [Lack of vitamin D closely associated with black health disparities – Nov 2010](/posts/lack-of-vitamin-d-closely-associated-with-black-health-disparities) - Great charts
 
 * <a href="/posts/perhaps-just-40-ng-of-vitamin-d-if-high-latitude-or-dark-skin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1662">Perhaps just 40 ng of vitamin D if high latitude or dark skin</a>
 
@@ -84,13 +84,13 @@ Latitude of Melbourne: 37 degrees from equator, similar to US or Spain
 
 * [Blacks may need less vitamin D than whites – PTH Aug 2010](/posts/blacks-may-need-less-vitamin-d-than-whites-pth)
 
-* <a href="/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2200">Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011</a>
+* [Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011](/posts/striking-ethnic-health-disparity-blacks-dying-due-to-lack-of-vitamin-d)
 
-* <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a>
+* [Do blacks have a 5 year life penalty due to low vitamin D](/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d)
 
 * <a href="/posts/blacks-may-not-need-as-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1099">Blacks may not need as much Vitamin D</a> many articles
 
-* <a href="/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 701">Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010</a>
+* [Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010](/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks)
 
 * [Vitamin D Council vs FDA concerning vitamin D deficiency in blacks and others - June 2011](/posts/vitamin-d-council-vs-fda-concerning-vitamin-d-deficiency-in-blacks-and-others)
 

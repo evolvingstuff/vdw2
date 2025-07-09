@@ -68,7 +68,7 @@ Two patients in the VITD group demonstrated either a  **small (7 ng/ml) or no (1
 
 In one patient, this may be attributable to gastrointestinal dysfunction after hypoxia related to near-drowning and resuscitation, and in the other to a history of sclerodermiform gastrointestinal graft-versus-host disease after allogeneic stem cell transplantation. Individual patient data are given in Table 3.
 
-{IMG(attId="1022",max="800")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/540000-table-3.jpg" alt="image" style="max-width: 800px;">
 
 The progressive increase in 25(OH)D levels may not only be explained by initial differences in intestinal absorption of vitamin D3, but also by limited capacity of the vitamin D binding protein transport system, or that of the liver to hydroxylate the precursor. Moreover, there may be interindividual differences applying to storage effects, whereby cholecalciferol is taken up or released by adipose and muscle tissues. However, most of the vitamin D that enters the body is catabolized and excreted without ever being stored in tissues, and without ever becoming 25(OH)D <sup>[27]</sup>. We thus cannot exclude that either a change towards smaller dosages or more frequent dosing intervals may also have yielded the desired effects and normalized 25(OH)D levels.
 

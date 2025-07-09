@@ -45,10 +45,10 @@ There is no clear definition of vitamin D deficiency in pregnancy and insufficie
 
 PMID:     21640968
 
-{IMG(attId="780")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-in-first-trimester-vs-latitude.png" alt="image">
 
 - - - - - - - - - 
 
 # See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D: Before, During, and After Pregnancy</a>
+* [Vitamin D: Before, During, and After Pregnancy](/posts/vitamin-d-before-during-and-after-pregnancy)

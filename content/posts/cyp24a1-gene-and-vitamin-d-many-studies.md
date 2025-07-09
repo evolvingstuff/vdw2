@@ -130,7 +130,7 @@ By understanding these mechanisms, the review provides insight into the potentia
 
 ---
 
-### <a href="/posts/glutathione-and-vitamin-d-synergism-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Glutathione and Vitamin D synergism - many studies">Antioxident Glutathione helps CYP24A1</a>
+### [Antioxident Glutathione helps CYP24A1](/posts/glutathione-and-vitamin-d-synergism-many-studies)
 
 ---
 

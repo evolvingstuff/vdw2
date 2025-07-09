@@ -46,7 +46,7 @@ In previous studies, the Mellanbys used dogs to define the dietary factors that 
 
 Once they had defined these factors, they set about testing their hypotheses in humans. They performed eight trials, each one in children in an institutionalized setting where diet could be completely controlled. The number of cavities in each child’s mouth was noted at the beginning and end of the period. I’ll only discuss the three most informative, and only the most successful in detail. First, the results:
 
-{IMG(attId="348")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cavities-in-dietary-groups.png" alt="image">
 
 I’ll start with diet 1. Children on this diet ate the typical fare, plus extra oatmeal. Oatmeal is typically eaten as an unsoaked whole grain (and soaking it isn’t very effective in any case), and so it is high in  **phytic acid, which effectively inhibits the absorption of a number of minerals including calcium** . These children formed 5.8 cavities each and healed virtually none– not good!
 

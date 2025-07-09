@@ -70,4 +70,4 @@ CONCLUSIONS: Serum 25(OH)D concentrations are highly heritable during the winter
 
 * Diabetes much higher
 
-{IMG(attId="299")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/twin-vitamin-d-levels.gif" alt="image">

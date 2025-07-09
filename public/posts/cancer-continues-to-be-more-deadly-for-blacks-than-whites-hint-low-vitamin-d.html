@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Cancer continues to be more deadly for Blacks than Whites (hint – low Vitamin D)</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Cancer continues to be more deadly for Blacks than Whites (hint – low Vitamin D)</h1><time>May 30, 2022</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#trends-in-cancer-mortality-among-black-individuals-in-the-us-from-1999-to-2019>Trends in Cancer Mortality Among Black Individuals in the US From 1999 to 2019</a></li><li><a href=#blacks-die-younger-than-whites---2021img-srchttpsd1bk1kqxc0symcloudfrontnetattachmentsjpegbw-mortalityjpg-altimage-width200>Blacks die younger than whites - 2021<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/bw-mortality.jpg alt=image width=200></a></li></ul></li></ul></li></ul></nav><hr><h4 id=trends-in-cancer-mortality-among-black-individuals-in-the-us-from-1999-to-2019>Trends in Cancer Mortality Among Black Individuals in the US From 1999 to 2019</h4><p>JAMA Oncol. Published online May 19, 2022. doi:10.1001/jamaoncol.2022.1472</p><p>Wayne R. Lawrence, DrPH1; Jennifer K. McGee-Avila, PhD1; Jacqueline B. Vo, PhD1; et alQianlai Luo, PhD1; Yingxi Chen, MD, PhD1; Maki Inoue-Choi, PhD1; Amy Berrington de González, DPhil1; Neal D. Freedman, PhD1; Meredith S. Shiels, PhD1</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/cancer-b-w.jpg alt=image width=800>
+<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/cancers-men.jpg alt=image width=400><p>Key Points</p><p>Questions How did cancer mortality among Black individuals change in the US from 1999 to 2019 by age, sex, and cancer site, and how did 2019 cancer mortality rates among Black individuals compare with rates in other racial and ethnic groups?</p><p>Findings In this cross-sectional study of 1 361 663 deaths from cancer among Black individuals, although cancer mortality decreased considerably among Black individuals from 1999 to 2019, the cancer mortality rate was higher among Black men and women than in other racial and ethnic groups in 2019.</p><p>Meaning The findings suggest that resources should be allocated toward eliminating social inequalities and barriers throughout the cancer control continuum that contribute to substantially higher cancer mortality rates among Black men and women.</p><p>Abstract</p><p>Importance Cancer is the second leading cause of mortality in the US. Despite national decreases in cancer mortality, Black individuals continue to have the highest cancer death rates.</p><p>Objective To examine national trends in cancer mortality from 1999 to 2019 among Black individuals by demographic characteristics and to compare cancer death rates in 2019 among Black individuals with rates in other racial and ethnic groups.</p><p>Design, Setting, and Participants This serial cross-sectional study used US national death certificate data obtained from the National Center for Health Statistics and included all cancer deaths among individuals aged 20 years or older from January 1999 to December 2019. Data were analyzed from June 2021 to January 2022.</p><p>Exposures Age, sex, and race and ethnicity.</p><p>Main Outcomes and Measures Trends in age-standardized mortality rates and average annual percent change (AAPC) in rates were estimated by cancer type, age, sex, and race and ethnicity.</p><p>Results From 1999 to 2019, 1 361 663 million deaths from cancer occurred among Black individuals. The overall cancer death rate significantly decreased among Black men (AAPC, −2.6%; 95% CI, −2.6% to −2.6%) and women (AAPC, −1.5%; 95% CI, −1.7% to −1.3%). Death rates decreased for most cancer types, with the greatest decreases observed for lung cancer among men (AAPC, −3.8%; 95% CI, −4.0% to −3.6%) and stomach cancer among women (AAPC, −3.4%; 95% CI, −3.6% to −3.2%). Lung cancer mortality also had the largest absolute decreases among men (−78.5 per 100 000 population) and women (−19.5 per 100 000 population). We observed a significant increase in deaths from liver cancer among men (AAPC, 3.8%; 95% CI, 3.0%-4.6%) and women (AAPC, 1.8%; 95% CI, 1.2%-2.3%) aged 65 to 79 years. There was also an increasing trend in uterus cancer mortality among women aged 35 to 49 years (2.9%; 95% CI, 2.3% to 2.6%), 50 to 64 years (2.3%; 95% CI, 2.0% to 2.6%), and 65 to 79 years (1.6%; 95% CI, 1.2% to 2.0%). In 2019, Black men and women had the highest cancer mortality rates compared with non-Hispanic American Indian/Alaska Native, Asian or Pacific Islander, and White individuals and Hispanic/Latino individuals.</p><p>Conclusions and Relevance In this cross-sectional study, there were substantial decreases in cancer death rates among Black individuals from 1999 to 2019, but higher cancer death rates among Black men and women compared with other racial and ethnic groups persisted in 2019. Targeted interventions appear to be needed to eliminate social inequalities that contribute to Black individuals having higher cancer mortality.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/blacks-continue-to-die-of-cancer-more-than-whites.pdf>Study PDF</a></strong></p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/cbr220009supp1-prod-1652382514.3696.pdf>Supplement PDF - men and women, not Black and White</a></strong></p><hr><h4 id=blacks-die-younger-than-whites---2021img-srchttpsd1bk1kqxc0symcloudfrontnetattachmentsjpegbw-mortalityjpg-altimage-width200>Blacks die younger than whites - 2021<img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/bw-mortality.jpg alt=image width=200></h4><p><strong><a href=https://flowingdata.com/2021/09/08/black-mortality-gap/>Flowingdata</a></strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/bw-mortality.jpg alt=image width=700></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>cancer</span>
+<span class=tag>gastric cancer</span>
+<span class=tag>life span</span>
+<span class=tag>liver cancer</span>
+<span class=tag>lung cancer</span>
+<span class=tag>mortality</span>
+<span class=tag>Skin - Dark</span></div><div data-pagefind-meta=tags hidden>cancer, gastric cancer, life span, liver cancer, lung cancer, mortality, Skin - Dark</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

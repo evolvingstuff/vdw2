@@ -52,6 +52,6 @@ Conclusion
 
  **The aging process and mortality are associated with low vitamin D levels** . Prospective controlled trials are warranted to determine whether vitamin D supplements can increase longevity and reduce the incidence of certain conditions.
 
-{IMG(attId="522")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-and-aging.png" alt="image">
 
 ## <span>[tiki-download_file.php?fileId=1828]</span>

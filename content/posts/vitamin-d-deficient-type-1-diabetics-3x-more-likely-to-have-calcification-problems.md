@@ -78,12 +78,12 @@ a marker of coronary artery plaque burden, in individuals with type 1 diabetes.
 
 * [Overview of Vitamin D and Insulin – 2010](/posts/overview-of-vitamin-d-and-insulin-2010)
 
-* <a href="/posts/reduced-chance-of-diabetes-46-percent-with-magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1087">Reduced chance of diabetes 46 percent with Magnesium - Oct 2010</a> no mention of Vitamin D
+* [Reduced chance of diabetes 46 percent with Magnesium - Oct 2010](/posts/reduced-chance-of-diabetes-46-percent-with-magnesium) no mention of Vitamin D
 
 * [Calcium without vitamin D increased heart risk by 30 percent - Jan 2011](/posts/calcium-without-vitamin-d-increased-heart-risk-by-30-percent)
 
-* <a href="/posts/heart-attacks-increased-by-30-percent-in-those-taking-500-mg-of-calcium-without-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 666">Heart attacks increased by 30% in those taking 500 mg of Calcium without vitamin D – July 2010</a>
+* [Heart attacks increased by 30% in those taking 500 mg of Calcium without vitamin D – July 2010](/posts/heart-attacks-increased-by-30-percent-in-those-taking-500-mg-of-calcium-without-vitamin-d)
 
-* <a href="/posts/strength-of-evidence-for-calcium-at-nlm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1042">Strength of evidence for Calcium at NLM – Oct 2010</a>  before IoM pronouncement of Nov 2010
+* [Strength of evidence for Calcium at NLM – Oct 2010](/posts/strength-of-evidence-for-calcium-at-nlm)  before IoM pronouncement of Nov 2010
 
-* <a href="/posts/vascular-calcification-in-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 225">Vascular calcification in chronic kidney disease April 2010</a> another disease associated with low vitamin D]
+* [Vascular calcification in chronic kidney disease April 2010](/posts/vascular-calcification-in-chronic-kidney-disease) another disease associated with low vitamin D]

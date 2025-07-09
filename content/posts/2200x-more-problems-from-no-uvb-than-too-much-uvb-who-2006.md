@@ -61,7 +61,7 @@ If get no UVB  **3,304 million DALYs**  would have been lost due to vitamin D de
 
 ### What the above chart should look like using the WHO data
 
-{IMG(attId="1642" max = "350")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/dalys.jpg" alt="image" style="max-width: 350px;">
 
 Figure 2.1 Schematic diagram of the relation between ultraviolet radiation (UVR) exposure and the burden of disease
 
@@ -103,7 +103,7 @@ Ocular melanoma
 
 ### Diseases CAUSED by UVB = too much
 
-{IMG(attId="556" width="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/diseases-caused-by-uv.jpg" alt="image" width="600">
 
 #### The WHO paper states that the 2200X did not even consider DALYs due to
 

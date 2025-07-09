@@ -62,15 +62,15 @@ The response to supplementation from suboptimal to optimal levels was greatest i
 
 ## A patient = responder if they got up to 32 ng/ml in 8 weeks
 
-{IMG(attId="304"max="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/response-to-8000-iu-vitamin-d-vs-cancer---nov-2010.gif" alt="image" style="max-width: 600px;">
 
 ## As would be expected, many (65%) of those with <12 ng did not respond/replete to 32 ng/ml in the 8 weeks
 
-{IMG(attId="305"max="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/response-to-8000-iu-vs-initial-blood-level.gif" alt="image" style="max-width: 600px;">
 
 ## It is interesting to see the vitamin D levels before and after the 8 week supplementation vs cancer type
 
-{IMG(attId="306"max="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-levels-vs-cancer-type---nov-2010.gif" alt="image" style="max-width: 600px;">
 
 * <span>[tiki-download_file.php?fileId=1587]</span>
 
@@ -84,23 +84,23 @@ The response to supplementation from suboptimal to optimal levels was greatest i
 
 ## See also at VitaminDWiki
 
-* <a href="/posts/restoring-vitamin-d-levels-to-pancreatic-patients-required-up-to-20000-iu-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2734">Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012</a>
+* [Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012](/posts/restoring-vitamin-d-levels-to-pancreatic-patients-required-up-to-20000-iu-daily)
 
-* <a href="/posts/how-i-treat-vitamin-d-deficiency-for-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 847">How I Treat Vitamin D Deficiency - for Cancer Mar 2010</a>
+* [How I Treat Vitamin D Deficiency - for Cancer Mar 2010](/posts/how-i-treat-vitamin-d-deficiency-for-cancer)
 
-* <a href="/posts/is-there-an-optimal-level-of-vitamin-d-to-prevent-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 981">Is there an optimal level of vitamin D to prevent cancer – Sept 2010</a>  not too little, and not too much
+* [Is there an optimal level of vitamin D to prevent cancer – Sept 2010](/posts/is-there-an-optimal-level-of-vitamin-d-to-prevent-cancer)  not too little, and not too much
 
 * <a href="/posts/mechanisms-of-the-anticancer-and-anti-inflammatory-actions-of-vitamin-d-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 923">Mechanisms of the Anticancer and Anti-Inflammatory Actions of Vitamin D – 2010</a>
 
 * <a href="/posts/meta-analysis-reduction-in-3-cancers-by-adding-10-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 528">Meta-analysis reduction in 3 cancers by adding 10 ng of vitamin D – May 2010</a>
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 * <a href="/posts/cancer-survivors-helped-with-lots-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 757">Cancer survivors helped with lots of Vitamin D – Aug 2010</a>
 
 * <a href="/posts/metastatic-cancer-is-maybe-reduced-by-vitamin-d-5-articles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 395">Metastatic Cancer is maybe reduced by vitamin D - 5 articles</a>
 
-* <a href="/posts/is-vitamin-d-the-only-supplement-which-consistently-helps-cancer-survivors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 739">Is vitamin D the only supplement which consistently helps cancer survivors – Aug 2010</a>
+* [Is vitamin D the only supplement which consistently helps cancer survivors – Aug 2010](/posts/is-vitamin-d-the-only-supplement-which-consistently-helps-cancer-survivors)
 
 ## Possible concern: Might get too much Chemotherapy if not adjust it down when increase vitamin D
 
@@ -110,11 +110,11 @@ The response to supplementation from suboptimal to optimal levels was greatest i
 
 ## See also at VitaminDWiki:  BREAST CANCER
 
-* <a href="/posts/women-with-breast-cancer-safely-take-10000-iu-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 833">Women with breast cancer safely take 10,000 IU daily – Jan 2010</a>
+* [Women with breast cancer safely take 10,000 IU daily – Jan 2010](/posts/women-with-breast-cancer-safely-take-10000-iu-daily)
 
-* <a href="/posts/breast-cancer-survivors-should-take-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 821">Breast cancer survivors should take vitamin D – Mar 2010</a>
+* [Breast cancer survivors should take vitamin D – Mar 2010](/posts/breast-cancer-survivors-should-take-vitamin-d)
 
-* <a href="/posts/vitamin-d3-sensitizes-breast-cancer-to-radiation-treatment-increasing-cancer-cell-death" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 481">Vitamin D3 sensitizes breast cancer to radiation treatment - increasing cancer cell death – May 2010</a>
+* [Vitamin D3 sensitizes breast cancer to radiation treatment - increasing cancer cell death – May 2010](/posts/vitamin-d3-sensitizes-breast-cancer-to-radiation-treatment-increasing-cancer-cell-death)
 
 ## See also at VitaminDWiki:  LUNG CANCER
 
@@ -146,7 +146,7 @@ The response to supplementation from suboptimal to optimal levels was greatest i
 
 Following graph from the CDC August 2010
 
-{IMG(fileId="1407")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 # Imagine how many fewer cancers there could have been if the vitamin D levels were 50 ng instead of 20 ng
 

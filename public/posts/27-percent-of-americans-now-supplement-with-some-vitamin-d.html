@@ -1,0 +1,69 @@
+<!doctype html><html><head><meta charset=utf-8><title>27 percent of Americans now supplement with some vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030342"><link rel=stylesheet href="/css/pagination.css?v=1752030342"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030342"></script><script src="/js/search.js?v=1752030342"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>27 percent of Americans now supplement with some vitamin D</h1><time>October 2, 2010</time><div data-pagefind-body><p>16% took (some amount of) vitamin D in 2008 and 2009.</p><p><a href=http://www.nutraingredients-usa.com/Consumer-Trends/More-Americans-taking-vitamin-D-supplements-finds-survey>CLICK HERE for report which was a summary of the CRN news release below</a></p><p>Annual on-line survey of 2,000 adults found that 66% of those surveyed took supplements</p><p>Of the supplement users, 74% classified themselves as regular users, 21% occasional, and 5% seasonal. <strong>Thus 49% of Americans regularly take supplements</strong></p><p>“Proportion of American consumers that believe that vitamin D plays a great role in maintaining or improving their health increased to 44 percent, up from 37 percent last year. “ Survey was conducted by <a href=http://www.ipsos.com>Ipsos</a> for the supplement group Council for Responsible Nutrition (CRN)</p><h1 id=crn-news-release>CRN news release</h1><p>SUPPLEMENT USAGE, CONSUMER CONFIDENCE REMAINS STEADY</p><p>WASHINGTON, D.C., September 30, 2010 — A consistent percentage of U.S. adults label themselves as supplement users, with 66 percent classifying themselves as such, according to a new survey conducted by Ipsos-Public Affairs for the Council for Responsible Nutrition (CRN). In 2009, 65 percent identified themselves as supplement users compared with 64 percent in 2008; 68 percent in 2007; and 66 percent in 2006.</p><p>According to the results from the 2010 CRN Consumer Survey on Dietary Supplements, regular supplement usage also remains steady—the on-line survey showed that nearly three-quarters of supplement users (74 percent) classify themselves as “regular” users, as opposed to occasional users (21 percent) or seasonal users (5 percent). In 2009, 73 percent of supplement users indicated they took supplements regularly; in 2008, 75 percent, and in 2007, 77 percent indicated similarly.</p><p>“It’s encouraging that during these tough economic times, consumers are maintaining their supplement regimens; it’s clear that year over year they still place value on these products,” said Judy Blatman, senior vice president, communications, CRN. “While we’d like to see these numbers grow over time, the fact that usage has remained steady reinforces the importance consumers place on dietary supplements.”</p><p>Notably, it seems that more consumers are taking <strong>vitamin D</strong> than in previous years. Findings from the 2010 survey indicated that 27 percent of supplement users take a vitamin D supplement—up from 19 percent and 16 percent in 2009 and 2008, respectively.</p><p>“The ever-growing body of research on the benefits of vitamin D has been widely circulated in scientific journals, among healthcare practitioners and within popular press, so it’s no surprise that we are seeing more consumers adding it to their existing supplement routines,” continued Ms. Blatman. “Given that optimal levels of vitamin D are difficult to get from diet and adequate sun exposure alone, a vitamin D supplement is the right option for many people.”</p><p>Consumer confidence in dietary supplements has also remained consistent in 2010, with 82 percent of American adults indicating that they are confident in the safety, quality and effectiveness of dietary supplements. Confidence in supplements has remained fairly consistent over the last several years with 84 percent of American adults indicating a favorable level of confidence in dietary supplements in 2009, 81 percent in 2008, and 80 percent in 2007.</p><p>The 2010 CRN Consumer Survey on Dietary Supplements was conducted August 17- September 22, 2010 by Ipsos Public Affairs and funded by CRN. The survey was conducted on-line and included a national sample of 1,989 adults aged 18 and older from Ipsos’ U.S. on-line panel. The survey has been conducted annually since 2000. Weighting was employed to balance demographics and ensure that the sample&rsquo;s composition reflects that of the U.S. adult population according to Census data and to provide results intended to approximate the sample universe. A survey with an unweighted probability sample of this size would have an estimated margin of error of +/- 2.2 percentage points.</p><p>Note to Editor: Ipsos Public Affairs is part of Ipsos, a leading global survey-based market research company, owned and managed by research professionals that helps interpret, simulate, and anticipate the needs and responses of consumers, customers, and citizens. Ipsos offers a full line of custom, syndicated, omnibus, panel, and on-line research products and services, guided by industry experts and bolstered by advanced analytics and methodologies.</p><p>Note to Editor: The Council for Responsible Nutrition (CRN), founded in 1973, is a Washington, D.C.-based trade association representing dietary supplement manufacturers and ingredient suppliers. In addition to complying with a host of federal and state regulations governing dietary supplements in the areas of manufacturing, marketing, quality control and safety, our 70+ manufacturer and supplier members also agree to adhere to additional voluntary guidelines as well as CRN’s Code of Ethics. Visit <a href=https://www.crnusa.org>www.crnusa.org</a>.</p><h1 id=clipped-from-national-institute-of-healthhttpnccamnihgovhealthsupplementswiseusehtm>Clipped from <a href=http://nccam.nih.gov/health/supplements/wiseuse.htm>National Institute of Health</a></h1><p>In another, earlier (before 2007) national survey covering all types of dietary supplements, approximately <strong>52 percent of adult respondents said they had used some type of supplement in the last 30 days</strong> ; the most commonly reported were multivitamins/multiminerals (35 percent), vitamins E and C (12–13 percent), calcium (10 percent), and B-complex vitamins (5 percent).</p><h1 id=reasons-for-taking-supplements>Reasons for taking supplements</h1><p><a href=http://altmedicine.about.com/cs/govtregulation/a/Intro_Supps.htm>About.com</a> summarized the reasons that people took supplements – from a 2002 survey which was published in <a href=http://jama.ama-assn.org/content/vol287/issue3/index.dtl>JAMA</a></p><ul><li><p>Health/good for you - 35%</p></li><li><p>Dietary supplement - 11%</p></li><li><p>Vitamin/mineral supplement - 8%</p></li><li><p>Prevent osteoporosis - 6%</p></li><li><p>Physician recommended - 6%</p></li><li><p>Prevent colds/influenza - 3%</p></li><li><p>Don&rsquo;t know/no reason specified - 3%</p></li><li><p>Immune booster - 2%</p></li><li><p>Recommended by friend/family/media - 2%</p></li><li><p>Energy - 2%</p></li><li><p>All others - 22%</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>bone</span>
+<span class=tag>high dose</span>
+<span class=tag>influenza</span>
+<span class=tag>intervention</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>Supplement</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>virus</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span></div><div data-pagefind-meta=tags hidden>autoimmune, bone, high dose, influenza, intervention, multiple sclerosis, osteoporosis, Supplement, therapeutic intervention, virus, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030342"></script><script src="/js/tiki-redirects.js?v=1752030342"></script><script src="/js/lightspa.js?v=1752030342"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030342",indexUrl:"/search/search_index.json.gz?v=1752030342"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030342"></script></body></html>

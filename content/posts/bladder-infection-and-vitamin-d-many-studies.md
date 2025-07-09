@@ -72,7 +72,7 @@ Systematic review registration: PROSPERO registration no. CRD42022351443.
 
 * [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d) 
 
-* <a href="/posts/uti-associated-with-low-vitamin-d-as-well-as-treated-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UTI associated with low Vitamin D as well as treated - many studies">UTI associated with low Vitamin D as well as treated - many studies</a>
+* [UTI associated with low Vitamin D as well as treated - many studies](/posts/uti-associated-with-low-vitamin-d-as-well-as-treated-many-studies)
 
 ---
 

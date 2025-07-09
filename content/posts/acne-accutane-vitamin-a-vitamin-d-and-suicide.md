@@ -62,7 +62,7 @@ which is in his <a href="/posts/may-2010-newsletter" style="color: red; text-dec
 
 I have had some reports that vitamin D cured acne but frankly, I didn't believe them. Then I ran across this 1938 paper entitled Vitamin D in Acne: A Comparison with X-Ray Treatment (PDF format). You can read the entire paper yourself and see what 5,000–14,000 IU per day did for these patients with severe acne. When I was a kid, I always wondered why my pimples got better in the summer and worse in the winter.
 
-* <a href="/posts/vitamin-a-may-thwart-the-ability-of-vitamin-d-to-reduce-risk-of-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 583">Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010</a>
+* [Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010](/posts/vitamin-a-may-thwart-the-ability-of-vitamin-d-to-reduce-risk-of-osteoporosis)
 
 This same concept was confirmed 3 days later on Nov 16 by [FoodConsumer](http://www.foodconsumer.org/newsite/Nutrition/Vitamins/acne_drug_may_boost_suicide_risk_1611101226.html)
 

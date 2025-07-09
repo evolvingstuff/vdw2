@@ -33,7 +33,7 @@
 
 ### Need to add vitamin D for each of the following reasons
 
-{IMG(fileId="1683"max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 ### Even within the same risk group the vitamin D needed will vary by 4X
 
@@ -85,4 +85,4 @@ Copyright © 2011 The Canadian Society of Clinical Chemists. Published by Elsevi
 
  **Test is very simple - but will have to guess conversion between units on the graph and turbidity** 
 
-{IMG(attId="545"max="550")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/calcium-test.jpg" alt="image" style="max-width: 550px;">

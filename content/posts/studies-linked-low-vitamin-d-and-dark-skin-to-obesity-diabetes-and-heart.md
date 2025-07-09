@@ -81,6 +81,6 @@ Copyright © 2011 Elsevier Inc. All rights reserved.
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * <a href="/posts/hypothesis-black-births-are-much-riskier-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Hypothesis – Black births are much riskier due to lack of vitamin D – April 2011</a>

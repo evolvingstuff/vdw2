@@ -40,13 +40,13 @@ This battle will only be enjoined when the attorneys finally realize how much mo
 
 * [Melanoma & sunscreen associated in 7 studies - chart 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1200)
 
-* <a href="/posts/china-has-documented-that-less-uv-results-in-more-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: China has documented that less UV results in more cancer – June 2010">China has documented that less UV results in more cancer – June 2010</a>
+* [China has documented that less UV results in more cancer – June 2010](/posts/china-has-documented-that-less-uv-results-in-more-cancer)
 
-* <a href="/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Most sunscreens actually increase the growth of skin cancer - May 2010">Most sunscreens actually increase the growth of skin cancer - May 2010</a>
+* [Most sunscreens actually increase the growth of skin cancer - May 2010](/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer)
 
-* <a href="/posts/dermatologists-should-not-tan" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dermatologists should not tan – June 2010">Dermatologists should not tan – June 2010</a>
+* [Dermatologists should not tan – June 2010](/posts/dermatologists-should-not-tan)
 
-* <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 982">Vitamin D bulb for use in the home - or perhaps office</a>
+* [Vitamin D bulb for use in the home - or perhaps office](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office)
 
 * [All items in Noontime Sun category](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&deep=off&type=) 106 items as of Feb 2012
 

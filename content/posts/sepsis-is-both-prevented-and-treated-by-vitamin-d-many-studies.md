@@ -94,7 +94,7 @@
 
 > &nbsp; &nbsp;Note: The fastest way (2 hours) to have a sublingual loading dose of Vitamin D nano-emulsion
 
-* <a href="/posts/sepsis-is-fought-by-vitamin-d-in-9-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is fought by Vitamin D in 9 ways – Feb 2023">Sepsis is fought by Vitamin D in 9 ways – Feb 2023</a>
+* [Sepsis is fought by Vitamin D in 9 ways – Feb 2023](/posts/sepsis-is-fought-by-vitamin-d-in-9-ways)
 
 * <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/sepsis-chart.jpg" alt="image" width="700">
 
@@ -104,7 +104,7 @@
 
 #### VitaminDWiki recommendations for Vitamin D treatment of sepsis in ICU
 
-1. Fortify the immune system as fast as possible with a <a href="/posts/loading-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D">Vitamin D Loading dose</a>
+1. Fortify the immune system as fast as possible with a [Vitamin D Loading dose](/posts/loading-dose-of-vitamin-d)
 
 > 200,000 to 350,000 IU loading doses are often successful
 
@@ -112,7 +112,7 @@
 
    * Note:  [Injection](/categories/injection) of Vitamin D into muscle provides a far slower, response
 
-1. Reduce the time to get Vitamin D t the cells by days with <a href="/posts/getting-vitamin-d-into-your-blood-and-cells" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your blood and cells">sublingual or topical vitamin D</a>
+1. Reduce the time to get Vitamin D t the cells by days with [sublingual or topical vitamin D](/posts/getting-vitamin-d-into-your-blood-and-cells)
 
    * The nanoemulsion form of Vitamin D seems particularly fast-acting (both topical and sublingual)
 
@@ -122,7 +122,7 @@
 
    * Note: Many studies incorrectly used no maintenance dosing, just one loading dose
 
-1. Consider reducing sepsis even more by adding <a href="/posts/sepsis-4-fewer-days-in-icu-if-add-omega-3-meta-analysis-of-12-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis: 4 fewer days in ICU if add Omega-3 – meta-analysis of 12 RCT – June 2017">Omega-3</a>    <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">magnesium</a> , and/or <a href="/posts/vitamin-d-and-glutamine-reduced-trauma-center-deaths-by-half-matthews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Glutamine reduced Trauma Center deaths by half – Matthews March 2017">Glutamine</a>
+1. Consider reducing sepsis even more by adding [Omega-3](/posts/sepsis-4-fewer-days-in-icu-if-add-omega-3-meta-analysis-of-12-rct)    [magnesium](/posts/magnesium-and-vitamin-d) , and/or [Glutamine](/posts/vitamin-d-and-glutamine-reduced-trauma-center-deaths-by-half-matthews)
 
 ---
 
@@ -472,7 +472,7 @@ Conclusions: High-dose cholecalciferol supplementation rapidly and safely improv
 
 1. [Injection](/categories/injection) should also be considered - as it totally skips over any digestion problems which might be associated with Sepsis
 
-1. See also: <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>, which is widely used to improve ICU outcomes
+1. See also: [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d), which is widely used to improve ICU outcomes
 
 ##### 201 citations of this study (as of July 2024)
 
@@ -488,9 +488,9 @@ Conclusions: High-dose cholecalciferol supplementation rapidly and safely improv
 
 * Importance of vitamin D in critically ill children with subgroup analyses of sepsis and respiratory tract infections: a systematic review and meta-analysis - Dec 2019 FREE PDF
 
-* <a href="/posts/18-fewer-hospital-days-if-given-500000-iu-of-vitamin-d-while-ventilated-in-icu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 18 fewer hospital days if given 500,000 IU of vitamin D while ventilated in ICU – RCT June 2016">18 fewer hospital days if given 500,000 IU of vitamin D while ventilated in ICU – RCT June 2016</a> in VitaminDWiki
+* [18 fewer hospital days if given 500,000 IU of vitamin D while ventilated in ICU – RCT June 2016](/posts/18-fewer-hospital-days-if-given-500000-iu-of-vitamin-d-while-ventilated-in-icu-rct) in VitaminDWiki
 
-* <a href="/posts/vitamin-d-loading-doses-reduce-icu-mortality-by-30-percent-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading doses reduce ICU mortality by 30 percent – meta-analysis April 2017">Vitamin D loading doses reduce ICU mortality by 30 percent – meta-analysis April 2017</a> in VitaminDWiki
+* [Vitamin D loading doses reduce ICU mortality by 30 percent – meta-analysis April 2017](/posts/vitamin-d-loading-doses-reduce-icu-mortality-by-30-percent-meta-analysis) in VitaminDWiki
 
 ---
 
@@ -554,7 +554,7 @@ The serum 25(OH)D3 level in ICU patients with sepsis was lower than that in heal
 
 #### Two Meta-analyses of ICU and Vitamin D - April and May 2017
 
-* <a href="/posts/vitamin-d-loading-doses-reduce-icu-mortality-by-30-percent-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading doses reduce ICU mortality by 30 percent – meta-analysis April 2017">Vitamin D loading doses reduce ICU mortality by 30 percent – meta-analysis April 2017</a>
+* [Vitamin D loading doses reduce ICU mortality by 30 percent – meta-analysis April 2017](/posts/vitamin-d-loading-doses-reduce-icu-mortality-by-30-percent-meta-analysis)
 
 > The two studies, which shared an analysis of 5 Randomized Controlled Trials, came up with different conclusions
 
@@ -703,17 +703,17 @@ Vitamin D supplementation may divert attention from relatively simple, natural, 
 
 #### VitaminDWiki
 
-* <a href="/posts/sepsis-in-infants-48-x-more-likely-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis in infants 4.8 X more likely if poor vitamin D receptor – March 2018">Sepsis in infants 4.8 X more likely if poor vitamin D receptor – March 2018</a>
+* [Sepsis in infants 4.8 X more likely if poor vitamin D receptor – March 2018](/posts/sepsis-in-infants-48-x-more-likely-if-poor-vitamin-d-receptor)
 
-* <a href="/posts/sepsis-in-first-year-of-life-is-much-more-likely-if-preterm-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis in first year of life is much more likely if preterm (low Vitamin D) – May 2017">Sepsis in first year of life is much more likely if preterm (low Vitamin D) – May 2017</a>
+* [Sepsis in first year of life is much more likely if preterm (low Vitamin D) – May 2017](/posts/sepsis-in-first-year-of-life-is-much-more-likely-if-preterm-low-vitamin-d)
 
-* <a href="/posts/treatment-of-neonate-sepsis-greatly-aided-by-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Treatment of neonate sepsis greatly aided by Vitamin D – RCT June 2019">Treatment of neonate sepsis greatly aided by Vitamin D – RCT June 2019</a>
+* [Treatment of neonate sepsis greatly aided by Vitamin D – RCT June 2019](/posts/treatment-of-neonate-sepsis-greatly-aided-by-vitamin-d-rct)
 
-* <a href="/posts/3x-less-septic-shock-in-children-with-sepsis-getting-150000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3X less Septic Shock in children with sepsis getting 150,000 IU of Vitamin D - RCT June 2020">3X less Septic Shock in children with sepsis getting 150,000 IU of Vitamin D - RCT June 2020</a>
+* [3X less Septic Shock in children with sepsis getting 150,000 IU of Vitamin D - RCT June 2020](/posts/3x-less-septic-shock-in-children-with-sepsis-getting-150000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/septic-children-have-low-vitamin-d-54-studies-ignored-vitamin-d-receptor-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Septic children have low Vitamin D (54 studies, ignored Vitamin D Receptor) – meta-analysis April 2019">Septic children have low Vitamin D (54 studies, ignored Vitamin D Receptor) – meta-analysis April 2019</a>
+* [Septic children have low Vitamin D (54 studies, ignored Vitamin D Receptor) – meta-analysis April 2019](/posts/septic-children-have-low-vitamin-d-54-studies-ignored-vitamin-d-receptor-meta-analysis)
 
-* <a href="/posts/infant-sepsis-strongly-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infant sepsis strongly associated with low vitamin D – Aug 2014">Infant sepsis strongly associated with low vitamin D – Aug 2014</a>
+* [Infant sepsis strongly associated with low vitamin D – Aug 2014](/posts/infant-sepsis-strongly-associated-with-low-vitamin-d)
 
 ---
 
@@ -869,7 +869,7 @@ CONCLUSION: Lower maternal and neonatal 25-OHD levels are associated with EOS. T
 
 #### Neonatal Sepsis 4.8 X more likely if poor Vitamin D receptor – June 2018
 
-* <a href="/posts/neonatal-sepsis-48-x-more-likely-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Neonatal Sepsis 4.8 X more likely if poor Vitamin D receptor – June 2018">Neonatal Sepsis 4.8 X more likely if poor Vitamin D receptor – June 2018</a>
+* [Neonatal Sepsis 4.8 X more likely if poor Vitamin D receptor – June 2018](/posts/neonatal-sepsis-48-x-more-likely-if-poor-vitamin-d-receptor)
 
 ---
 

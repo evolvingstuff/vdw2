@@ -106,10 +106,10 @@ PMID:     21193053
 
 #### See also VitaminDWiki
 
-* <a href="/posts/200-iu-vitamin-d-per-kg-is-not-enough-for-some-health-problems-example-bone-marrow-stem-cell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 200 IU vitamin D per kg is not enough for some health problems (example– bone marrow stem cell) – July 2016">200 IU vitamin D per kg is not enough for some health problems (example– bone marrow stem cell) – July 2016</a>
+* [200 IU vitamin D per kg is not enough for some health problems (example– bone marrow stem cell) – July 2016](/posts/200-iu-vitamin-d-per-kg-is-not-enough-for-some-health-problems-example-bone-marrow-stem-cell)
 
 * [Vitamin D and Hair disorders – Feb 2010](/posts/vitamin-d-and-hair-disorders)
 
-* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
+* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)
 
-* <a href="/posts/stem-cell-transplant-hsct-death-28-percent-less-likely-for-each-10ng-higher-vitamin-d-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stem cell transplant (HSCT). death 28 percent less likely for each 10ng higher vitamin D level – Oct 2019">Stem cell transplant (HSCT). death 28 percent less likely for each 10ng higher vitamin D level – Oct 2019</a>
+* [Stem cell transplant (HSCT). death 28 percent less likely for each 10ng higher vitamin D level – Oct 2019](/posts/stem-cell-transplant-hsct-death-28-percent-less-likely-for-each-10ng-higher-vitamin-d-level)

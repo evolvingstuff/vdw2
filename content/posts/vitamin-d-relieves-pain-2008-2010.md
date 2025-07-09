@@ -182,21 +182,21 @@ Posted by SB. Leavitt, MA, PhD at 3:19 PM
 
 * [Many kinds of pain relieved by vitamin D](https://www.VitaminDWiki.com/tiki-view_blog_post.php?postId=68)  **<span style="color:#690;">VitaminDWiki Blog Feb 2012</span>** 
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 383">Overview: Fibromyalgia or Chronic Fatigue and vitamin D</a>
+* [Overview: Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)
 
 * [All items in category Chronic Pain](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=20&sort_mode=created_desc)
 
 * <a href="/posts/vitamin-d-and-chronic-widespread-pain" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 93">Vitamin D and chronic widespread pain</a>
 
-* <a href="/posts/tenuous-link-between-vitamin-d-and-chronic-pain" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 94">Tenuous link between vitamin D and chronic pain - April 2009</a>
+* [Tenuous link between vitamin D and chronic pain - April 2009](/posts/tenuous-link-between-vitamin-d-and-chronic-pain)
 
 * [Back pain reduced for 95 percent of those who took vitamin D - 2003 ](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1348)
 
    * "only" 95% of the people with back pain were helped with vitamin D 5000 IU or 10000 IU daily
 
-* <a href="/posts/pain-linked-with-low-vitamin-d-bbc" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 95">Pain 'linked with low vitamin D' BBC Aug 2008</a>
+* [Pain 'linked with low vitamin D' BBC Aug 2008](/posts/pain-linked-with-low-vitamin-d-bbc)
 
-* <a href="/posts/discover-the-pain-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 638">Discover the Pain of Vitamin D Deficiency</a>
+* [Discover the Pain of Vitamin D Deficiency](/posts/discover-the-pain-of-vitamin-d-deficiency)
 
 * <a href="/posts/more-likely-to-have-chronic-widespread-pain-when-have-less-than-15-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 316">More likely to have Chronic Widespread Pain when have less than 15 ng – May 2010</a>
 
@@ -206,8 +206,8 @@ Posted by SB. Leavitt, MA, PhD at 3:19 PM
 
 * [Back pain gone and grew 3 inches with vitamin D - Dec 2010](/posts/back-pain-gone-and-grew-3-inches-with-vitamin-d)
 
-* <a href="/posts/more-arab-leg-pain-when-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 845">More Arab leg pain when less than 20 ng of vitamin D – Aug 2010</a>
+* [More Arab leg pain when less than 20 ng of vitamin D – Aug 2010](/posts/more-arab-leg-pain-when-less-than-20-ng-of-vitamin-d)
 
 * [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
-{IMG(fileId="1021")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">

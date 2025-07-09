@@ -53,9 +53,9 @@ Conclusions: VDD was high in a diverse group of women, greatest in those of dark
 
 # <span>[tiki-download_file.php?fileId=1625]</span>
 
-{IMG(attId="360")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/profound-vs-skin-color.gif" alt="image">
 
-{IMG(attId="361")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/profound-vs-diease.gif" alt="image">
 
 # Significant reduced disease for pregnant women with just 3 to 8 ng higher level of vitamin D
 

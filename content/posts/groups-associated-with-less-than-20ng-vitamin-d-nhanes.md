@@ -68,7 +68,7 @@ In summary, vitamin D deficiency was common in the US population, especially amo
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * <a href="/posts/13-percent-decrease-in-vitamin-d-levels-over-13-years-corrected-nhanes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2393">13 percent decrease in vitamin D levels over 13 years – corrected NHANES Feb 2012</a> lots of details
 
@@ -82,9 +82,9 @@ In summary, vitamin D deficiency was common in the US population, especially amo
 
 * [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)
 
-* <a href="/posts/medical-causes-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2353">Medical Causes of Vitamin D Deficiency</a>
+* [Medical Causes of Vitamin D Deficiency](/posts/medical-causes-of-vitamin-d-deficiency)
 
-* <a href="/posts/how-you-might-double-the-benefit-of-your-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918">How you might double the benefit of your vitamin D</a>
+* [How you might double the benefit of your vitamin D](/posts/how-you-might-double-the-benefit-of-your-vitamin-d)
 
 * <a href="/posts/ways-to-increase-the-amount-of-vitamin-d-you-get-from-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1051">Ways to increase the amount of vitamin D you get from the sun</a>
 

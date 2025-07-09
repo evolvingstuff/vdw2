@@ -21,12 +21,12 @@
 
 # <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 288">CLICK HERE</a> for main page on Evidence for Vitamin D]
 
-{IMG(attId="53", width = 1100)}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/ns1.jpg" alt="image" width="1100">
 
-{IMG(attId="54", width = 1100)}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/ns2.jpg" alt="image" width="1100">
 
-{IMG(attId="55", width = 1100)}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/ns3.jpg" alt="image" width="1100">
 
-{IMG(attId="56", width = 1100)}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/ns4.jpg" alt="image" width="1100">
 
-{IMG(attId="57", width = 1100)}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/ns5.jpg" alt="image" width="1100">

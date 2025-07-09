@@ -44,16 +44,16 @@ Conclusion VD and VDBP level in various asthma groups, did not differ significan
 
 # See also at VitaminDWiki asthma
 
-* <a href="/posts/asthma-should-be-reduced-by-vitamin-d-literature-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 912">Asthma should be reduced by vitamin D – literature review Sept 2010</a>  with a nice hypothesis chart
+* [Asthma should be reduced by vitamin D – literature review Sept 2010](/posts/asthma-should-be-reduced-by-vitamin-d-literature-review)  with a nice hypothesis chart
 
-* <a href="/posts/the-role-of-vitamin-d-in-asthma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 823">The Role of Vitamin D in Asthma – Mar 2010</a>
+* [The Role of Vitamin D in Asthma – Mar 2010](/posts/the-role-of-vitamin-d-in-asthma)
 
-* <a href="/posts/vitamin-d-deficiency-is-prevalent-among-asthmatic-african-americans" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 761">Vitamin D deficiency is prevalent among asthmatic African-Americans – Aug 2010</a>
+* [Vitamin D deficiency is prevalent among asthmatic African-Americans – Aug 2010](/posts/vitamin-d-deficiency-is-prevalent-among-asthmatic-african-americans)
 
 * <a href="/posts/vitamin-d-levels-lung-function-and-steroid-response-in-adult-asthma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 529">Vitamin D Levels Lung Function and Steroid Response in Adult Asthma – April 2010</a>
 
 * <a href="/posts/1200-iu-d3-reduced-related-asthma-by-6x" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 331">1200 IU D3 reduced related asthma by 6X – May 2010</a>
 
-* <a href="/posts/low-vitamin-d-associated-with-asthma-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 135">Low Vitamin D associated with asthma - 2010</a>
+* [Low Vitamin D associated with asthma - 2010](/posts/low-vitamin-d-associated-with-asthma-2010)
 
-* <a href="/posts/severity-of-difficult-asthma-not-proportional-to-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3446">Severity of difficult asthma not proportional to vitamin D levels – Nov 2012</a> same journal, 2 years later
+* [Severity of difficult asthma not proportional to vitamin D levels – Nov 2012](/posts/severity-of-difficult-asthma-not-proportional-to-vitamin-d-levels) same journal, 2 years later

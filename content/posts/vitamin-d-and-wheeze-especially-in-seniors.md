@@ -38,9 +38,9 @@ In their findings, the relationship between wheeze and lower vitamin D levels wa
 
 ## PDF is attached to bottom of this page
 
-{IMG(attId="690")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/wheeze1.png" alt="image">
 
-{IMG(attId="691")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/wheeze-3d.png" alt="image">
 
 # The following is the rough text extracted from the PDF - for translations, etc
 

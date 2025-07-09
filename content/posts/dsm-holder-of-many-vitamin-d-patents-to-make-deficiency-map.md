@@ -40,11 +40,11 @@ IOF is a non profit, nongovernmental umbrella organization dedicated to the worl
 
 * <a href="/posts/dsm-has-many-vitamin-d-patents" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1043">DSM has many vitamin D patents</a> A possible problem here
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972">Who said vitamin D could not be patented</a>
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)
 
 * [Search VitaminDWiki for DSM](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=dsm&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 492 hits April 2023
 
-* <a href="/posts/vitamin-d-levels-around-the-world-dsm-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels around the world - DSM review June 2014">Vitamin D levels around the world - DSM review June 2014</a> which has the following - which may be better than the proposed map
+* [Vitamin D levels around the world - DSM review June 2014](/posts/vitamin-d-levels-around-the-world-dsm-review) which has the following - which may be better than the proposed map
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="1000">
 

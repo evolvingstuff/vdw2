@@ -59,9 +59,9 @@ Vitamin D may suppress inflammatory pathways, and studies to determine whether v
 
 * [CLICK HERE](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=anemia&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26sanitize%3D0%26v%3D9ab9695bbca1bdde%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D434743524) to site search via Google: ANEMIA  112 items as of June 2012
 
-* <a href="/posts/anemia-19x-more-likely-in-white-children-having-lowish-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Anemia 1.9X more likely in white children having lowish vitamin D – Jan 2014">Anemia 1.9X more likely in white children having lowish vitamin D – Jan 2014</a>
+* [Anemia 1.9X more likely in white children having lowish vitamin D – Jan 2014](/posts/anemia-19x-more-likely-in-white-children-having-lowish-vitamin-d)
 
-* <a href="/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iron deficiency is a cause of Vitamin D deficiency">Iron deficiency is a cause of Vitamin D deficiency</a>
+* [Iron deficiency is a cause of Vitamin D deficiency](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
 
 ## See also web
 

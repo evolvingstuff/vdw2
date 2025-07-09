@@ -1,0 +1,76 @@
+<!doctype html><html><head><meta charset=utf-8><title>Hypothesis- Metabolic disease is due to Tissue Renin-Angiotensin Systems</title>
+<link rel=stylesheet href="/css/main.css?v=1752030345"><link rel=stylesheet href="/css/pagination.css?v=1752030345"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030345"></script><script src="/js/search.js?v=1752030345"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Hypothesis- Metabolic disease is due to Tissue Renin-Angiotensin Systems</h1><time>March 5, 2014</time><div data-pagefind-body><h3 id=tissue-renin-angiotensin-systems-a-unifying-hypothesis-of-metabolic-disease>Tissue Renin-Angiotensin Systems: A Unifying Hypothesis of Metabolic Disease.</h3><p>Front Endocrinol (Lausanne). 2014 Feb 28;5:23. eCollection 2014.</p><p>Skov J 1, Persson F 2, Frøkiær J 3, Christiansen JS 4.</p><p>1Department of Endocrinology and Internal Medicine, Aarhus University Hospital , Aarhus , Denmark ; Novo Nordisk A/S , Bagsvaerd , Denmark.</p><p>2Steno Diabetes Center , Gentofte , Denmark.</p><p>3Department of Clinical Physiology and Molecular Imaging, Aarhus University Hospital , Aarhus , Denmark ; Department of Clinical Medicine, Aarhus University , Aarhus , Denmark.</p><p>4Department of Endocrinology and Internal Medicine, Aarhus University Hospital , Aarhus , Denmark.</p><ul><li>Correspondence: Jeppe Skov, Department of Endocrinology and Internal Medicine, Aarhus University Hospital, Norrebrogade 44, Aarhus DK-8000, Denmark e-mail: <a href=mailto:jsk@dadlnet.dk>jsk@dadlnet.dk</a></li></ul><p>The actions of angiotensin peptides are diverse and locally acting tissue renin-angiotensin systems (RAS) are present in almost all tissues of the body. An activated RAS strongly correlates to metabolic disease (e.g., diabetes) and its complications and blockers of RAS have been demonstrated to prevent diabetes in humans. <strong>Hyperglycemia, obesity, hypertension, and cortisol</strong> are well-known risk factors of metabolic disease and all stimulate tissue RAS whereas glucagon-like peptide-1, <strong>vitamin D</strong> , and aerobic exercise are inhibitors of tissue RAS and to some extent can prevent metabolic disease.</p><p>Furthermore, an activated tissue RAS deteriorates the same risk factors creating a system with several positive feedback pathways. The primary effector hormone of the RAS, angiotensin II, stimulates reactive oxygen species, induces tissue damage, and can be associated to most diabetic complications.</p><p>Based on these observations, we hypothesize that an activated tissue RAS is the principle cause of metabolic syndrome and type 2 diabetes, and additionally is mediating the majority of the metabolic complications. The involvement of positive feedback pathways may create a self-reinforcing state and explain why metabolic disease initiate and progress. The hypothesis plausibly unifies the major predictors of metabolic disease and places tissue RAS regulation in the center of metabolic control.</p><p>PMID: 24592256</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/ras.jpg alt=image><p><strong><span style=color:#00f>PDF is attached at the bottom of this page</span></strong></p><hr><h4 id=lack-of-vitamin-d-receptor-causes-stress-induced-premature-senescence-in-vascular-smooth-muscle-cells-through-enhanced-local-angiotensin-ii-signals>Lack of vitamin D receptor causes stress-induced premature senescence in vascular smooth muscle cells through enhanced local angiotensin-II signals</h4><p>Petya Valcheva, Anna Cardus, Sara Panizo, Eva Parisi, Milica Bozic, Jose M. Lopez Novoa, Adriana Dusso, Elvira Fernandez1, Jose M. Valdivielso1email</p><p>1EF and JMV share senior authorship.</p><p>Received: February 17, 2014; Received in revised form: April 9, 2014; Accepted: May 1, 2014; Published Online: May 13, 2014</p><p>DOI: <a href=http://dx.doi.org/10.1016/j.atherosclerosis.2014.05.911>http://dx.doi.org/10.1016/j.atherosclerosis.2014.05.911</a></p><p>Publication stage: In Press Accepted Manuscript</p><p>Highlights</p><p>•Lacking vitamin D signaling induces premature senescence in vascular smooth muscle cells.</p><p>•The increase in senescence is mediated by an increase in cathepsin D mediated angiotensin II expression.</p><p>•The increase in angiotensin II induces an increase in NADPH oxidase-mediated free radical production.</p><p>•All these changes induce a decrease in proliferation of vascular smooth muscle cells.</p><p>Objectives</p><p>The inhibition of the renal renin-angiotensin system by the active form of vitamin D contributes to the cardiovascular health benefits of a normal vitamin D status. Local production of angiotensin-II in the vascular wall is a potent mediator of oxidative stress, prompting premature senescence. Herein, our objective was to examine the impact of defective vitamin D signalling on local angiotensin-II levels and arterial health.</p><p>Methods</p><p>Primary cultures of aortic vascular smooth muscle cells (VSMC) from wild-type and vitamin D receptor-knockout (VDRKO) mice were used for the assessment of cell growth, angiotensin-II and superoxide anion production and expression levels of cathepsin D, angiotensin-II type 1 receptor and p57Kip2. The in vitro findings were confirmed histologically in aortas from wild-type and VDRKO mice.</p><p>Results</p><p>VSMC from VDRKO mice produced more angiotensin-II in culture, and elicited higher levels of cathepsin D, an enzyme with renin-like activity, and angiotensin-II type 1 receptor, than wild-type mice. Accordingly, VDRKO VSMC showed higher intracellular superoxide anion production, which could be suppressed by cathepsin D, angiotensin-II type 1 receptor or NADPH oxidase antagonists. VDRKO cells presented higher levels of p57Kip2, impaired proliferation and premature senescence, all of them blunted upon inhibition of angiotensin-II signalling. In vivo studies confirmed higher levels of cathepsin D, angiotensin-II type 1 receptor and p57Kip2 in aortas from VDRKO mice.</p><p>Conclusion</p><p>The beneficial effects of active vitamin D in vascular health could be a result of the attenuation of local production of angiotensin-II and downstream free radicals, thus preventing the premature senescence of VSMC.</p><hr><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%22Renin-Angiotensin+%22&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for Renin-Angiotensin</a> 198 items as of March 2014</p></li><li><p><a href=/posts/overview-diabetes-and-vitamin-d>Overview Diabetes and vitamin D</a></p></li><li><p><a href=/posts/overview-metabolic-syndrome-and-vitamin-d>Overview Metabolic Syndrome and vitamin D</a></p></li><li><p><a href=/posts/hypothesis-vitamin-d-deficiency-is-due-to-malfunctioning-renin-angiotensin-system>Hypothesis: Vitamin D deficiency is due to malfunctioning renin angiotensin system – Jan 2013</a></p></li></ul><blockquote><p>Closely related hypothesis a year earlier postulated that Vitamin D deficiency was due to the Renin-Angiotensin System</p></blockquote><blockquote><p>It has the following Wikipedia chart</p></blockquote><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/ras-wikipedia.jpg alt=image></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>atherosclerosis</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>diabetes</span>
+<span class=tag>Diabetes</span>
+<span class=tag>diabetes and vitamin d receptor</span>
+<span class=tag>genetics</span>
+<span class=tag>health risk</span>
+<span class=tag>hypertension</span>
+<span class=tag>Hypertension</span>
+<span class=tag>metabolic</span>
+<span class=tag>metabolic conditions</span>
+<span class=tag>metabolic syndrome</span>
+<span class=tag>Metabolic Syndrome</span>
+<span class=tag>obesity</span>
+<span class=tag>Obesity</span>
+<span class=tag>obesity and vitamin d receptor</span>
+<span class=tag>Osteoporosis</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>atherosclerosis, cardiovascular, diabetes, Diabetes, diabetes and vitamin d receptor, genetics, health risk, hypertension, Hypertension, metabolic, metabolic conditions, metabolic syndrome, Metabolic Syndrome, obesity, Obesity, obesity and vitamin d receptor, Osteoporosis, vitamin d, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030345"></script><script src="/js/tiki-redirects.js?v=1752030345"></script><script src="/js/lightspa.js?v=1752030345"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030345",indexUrl:"/search/search_index.json.gz?v=1752030345"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030345"></script></body></html>

@@ -64,11 +64,11 @@ In early 2010 I had noticed that many diseases have seemed to increase during th
 
 #### See also VitaminDWiki
 
-* <a href="/posts/people-working-with-lead-have-8-ng-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People working with lead have 8 ng less Vitamin D – May 2020">People working with lead have 8 ng less Vitamin D – May 2020</a> 
+* [People working with lead have 8 ng less Vitamin D – May 2020](/posts/people-working-with-lead-have-8-ng-less-vitamin-d) 
 
-* <a href="/posts/lead-in-breastmilk-reduced-vitamin-d-levels-in-blood-by-a-third-in-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lead in breastmilk reduced vitamin D levels in blood by a third (in rats) – Feb 2018">Lead in breastmilk reduced vitamin D levels in blood by a third (in rats) – Feb 2018</a>
+* [Lead in breastmilk reduced vitamin D levels in blood by a third (in rats) – Feb 2018](/posts/lead-in-breastmilk-reduced-vitamin-d-levels-in-blood-by-a-third-in-rats)
 
-* <a href="/posts/vitamin-d-increases-mineral-availability-which-protect-against-toxic-elements" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D increases mineral availability which protect against toxic elements - July 2015">Vitamin D increases mineral availability which protect against toxic elements - July 2015</a>
+* [Vitamin D increases mineral availability which protect against toxic elements - July 2015](/posts/vitamin-d-increases-mineral-availability-which-protect-against-toxic-elements)
 
 ---
 
@@ -114,4 +114,4 @@ Elsewhere:
 
 * Previous WHO - 2003 document has the following
 
-{IMG(attId="282")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/lead-chart-who-2003.gif" alt="image">

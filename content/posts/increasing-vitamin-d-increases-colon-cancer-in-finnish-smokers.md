@@ -39,8 +39,8 @@ Colon cancer risks were significantly elevated for the highest season-specific a
 
 * [All items in Colon Cancer and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=41&sort_mode=created_desc)
 
-* <a href="/posts/colon-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 738">Colon cancer and vitamin D – Aug 2010</a>
+* [Colon cancer and vitamin D – Aug 2010](/posts/colon-cancer-and-vitamin-d)
 
-* <a href="/posts/will-increasing-vitamin-d-in-blood-to-100-ng-reduce-deaths-of-colon-cancer-patients" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 588">Will increasing vitamin D in blood to 100 ng reduce deaths of colon cancer patients- July 2010</a> Clinical Trial
+* [Will increasing vitamin D in blood to 100 ng reduce deaths of colon cancer patients- July 2010](/posts/will-increasing-vitamin-d-in-blood-to-100-ng-reduce-deaths-of-colon-cancer-patients) Clinical Trial
 
 * <a href="/posts/colon-cancer-vs-latitude" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 64">Colon Cancer vs latitude</a> from Gapminder

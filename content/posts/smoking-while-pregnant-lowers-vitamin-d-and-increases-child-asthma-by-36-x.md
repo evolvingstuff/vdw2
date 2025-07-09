@@ -58,9 +58,9 @@ Suggestion - if you must smoke while pregnant, take at least 6,000 IU of vitamin
 
 * <a href="/posts/speculation-on-vitamin-d-and-smoking-during-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 341">Speculation on vitamin D and smoking during pregnancy - June 2010</a>
 
-* <a href="/posts/decreased-vitamin-d-in-children-taking-asthma-drugs" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 134">Decreased vitamin D in children taking asthma drugs - April 2010</a>
+* [Decreased vitamin D in children taking asthma drugs - April 2010](/posts/decreased-vitamin-d-in-children-taking-asthma-drugs)
 
-* <a href="/posts/severe-asthma-children-31x-more-likely-to-develop-chronic-obstructive-lung-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 264">Severe asthma children 31X more likely to develop chronic obstructive lung disease -May 2010</a>
+* [Severe asthma children 31X more likely to develop chronic obstructive lung disease -May 2010](/posts/severe-asthma-children-31x-more-likely-to-develop-chronic-obstructive-lung-disease)
 
 * [All items in Breathing and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&sort_mode=created_desc)
 

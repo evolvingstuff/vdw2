@@ -1,0 +1,81 @@
+<!doctype html><html><head><meta charset=utf-8><title>Adaptive immunity (cancer, viruses, autoimmune) and vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030342"><link rel=stylesheet href="/css/pagination.css?v=1752030342"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030342"></script><script src="/js/search.js?v=1752030342"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Adaptive immunity (cancer, viruses, autoimmune) and vitamin D</h1><time>April 24, 2016</time><div data-pagefind-body><h4 id=role-of-vitamin-d-in-cytotoxic-t-lymphocyte-immunity-to-pathogens-and-cancer>Role of vitamin D in cytotoxic T lymphocyte immunity to pathogens and cancer.</h4><p>Crit Rev Clin Lab Sci. 2016 Apr;53(2):132-45. <a href=https://doi.org/10.3109/10408363.2015.1094443.>doi: 10.3109/10408363.2015.1094443.</a> Epub 2015 Oct 19.</p><p>Sarkar S1,2, Hewison M3, Studzinski GP4, Li YC5, Kalia V1,2.</p><p>1a Department of Pediatrics, Division of Hematology and Oncology , University of Washington School of Medicine , Seattle , WA , USA .</p><p>2b Seattle Children&rsquo;s Research Institute, Ben Towne Center for Childhood Cancer Research , Seattle , WA , USA .</p><p>3c Centre for Endocrinology, Diabetes and Metabolism (CEDAM), The University of Birmingham , Birmingham , UK .</p><p>4d Department of Pathology and Laboratory Medicine , Rutgers New Jersey Medical School , Newark , NJ , USA , and.</p><p>5e Department of Medicine, Division of Biological Sciences , The University of Chicago , Chicago , IL , USA.</p><p>The discovery of vitamin D receptor (VDR) expression in immune cells has opened up a new area of research into immunoregulation by vitamin D, a niche that is distinct from its classical role in skeletal health. Today, about three decades since this discovery, numerous cellular and molecular targets of vitamin D in the immune system have been delineated. Moreover, strong clinical associations between vitamin D status and the incidence/severity of many immune-regulated disorders (e.g. infectious diseases, cancers and autoimmunity) have prompted the idea of using vitamin D supplementation to manipulate disease outcome.</p><p>While much is known about the effects of vitamin D on innate immune responses and helper T (TH) cell immunity, there has been relatively limited progress on the frontier of cytotoxic T lymphocyte (CTL) immunity - an arm of host cellular adaptive immunity that is crucial for the control of such intracellular pathogens as</p><ul><li><p>human immunodeficiency virus (HIV),</p></li><li><p>tuberculosis (TB),</p></li><li><p>malaria, and</p></li><li><p>hepatitis C virus (HCV).</p></li></ul><p>In this review, we discuss the strong historical and clinical link between vitamin D and infectious diseases that involves cytotoxic T lymphocyte (CTL) immunity, present our current understanding as well as critical knowledge gaps in the realm of vitamin D regulation of host CTL responses, and highlight potential regulatory connections between vitamin D and effector and memory CD8 T cell differentiation events during infections.</p><p>PMID: 26479950</p><p><strong><a href=http://www.tandfonline.com/doi/pdf/10.3109/10408363.2015.1094443>Publisher wants $54 for the PDF</a></strong></p><p>Notes after purchase and quick read by VitaminDWiki</p><p>15 pages, Very technical</p><p>Great summary chart of adaptive immune system and vitamin D</p><ul><li>Summary table of 38 possible genes involved - including Vitamin D Receptor</li></ul><blockquote><p>VDR Reference: Sarkar S, Kalia V, Haining WN, et al. Functional and genomic profiling of effector CD8 T cell subsets with distinct memory fates. J Exp Med 2008;205:625–40.</p></blockquote><ul><li>&ldquo;In the case of dengue infections, VDR gene polymorphisms have been identified as predictors of hemorrhagic fever and shock&rdquo;</li></ul><blockquote><p>Reference: Alagarasu K, Honap T, Mulay AP, et al. Association of vitamin D receptor gene polymorphisms with clinical outcomes of dengue virus infection. Hum Immunol 2012;73:1194–9.</p></blockquote><blockquote><p>Abstract: Vitamin D is known to affect pathogenesis of dengue through modulation of immune responses. Vitamin D exerts its effects through vitamin D receptor (VDR). The functioning of VDR is affected by the gene polymorphisms in the coding (rs2228570) and 3&rsquo;untranslated region (UTR) (rs1544410, rs7975232 and rs731236).</p></blockquote><blockquote><p>In the present study, VDR gene polymorphisms were investigated in 112 dengue infected patients (83 dengue fever (DF) and 29 dengue hemorrhagic fever cases (DHF)) and 105 apparently healthy controls (HCs) using polymerase chain reaction based restriction fragment length polymorphisms methods. HCs had no documented evidence of symptomatic dengue. Results revealed significantly lower frequency of &lsquo;C&rsquo; allele of rs7975232 in all dengue patients (DEN) as compared to HCs <span>[(P corrected (Pc)=0.014, <strong>Odds ratio (OR) 0.51</strong>]</span>. The frequency of C/C genotype of rs7975232 was significantly lower in DEN and DF cases compared to HCs (DEN vs. HCs: Pc=0.0184, <strong>OR 0.24</strong> ; DF cases vs. HCs: Pc=0.028, OR 0.21). The frequency of T allele of rs2228570 in a dominant mode was significantly higher in DHF cases as compared to DF cases (P=0.034 OR 2.58). A significantly lower frequency of the haplotype G-C-T (Pc=0.0135) and higher frequency of the haplotype G-A-T (Pc=0.000085) was observed in DEN and DF cases as compared to HCs. The results suggest that the 3&rsquo;UTR haplotypes of VDR gene are differentially associated with risk of symptomatic dengue requiring hospitalization. The &lsquo;T&rsquo; allele of rs2228570 polymorphism in a dominant mode of inheritance is associated with DHF.</p></blockquote></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>Autoimmune</span>
+<span class=tag>bacteria</span>
+<span class=tag>cancer</span>
+<span class=tag>Cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>childhood viruses</span>
+<span class=tag>dengue</span>
+<span class=tag>diabetes</span>
+<span class=tag>diabetes and vitamin d receptor</span>
+<span class=tag>genetics</span>
+<span class=tag>hepatitis c</span>
+<span class=tag>immunity</span>
+<span class=tag>Immunity</span>
+<span class=tag>liver</span>
+<span class=tag>metabolic</span>
+<span class=tag>tuberculosis</span>
+<span class=tag>virus</span>
+<span class=tag>Virus</span>
+<span class=tag>viruses and vitamin d receptor</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>Autoimmune, bacteria, cancer, Cancer, cancer in VDR, child, childhood cancer, childhood viruses, dengue, diabetes, diabetes and vitamin d receptor, genetics, hepatitis c, immunity, Immunity, liver, metabolic, tuberculosis, virus, Virus, viruses and vitamin d receptor, vitamin d, vitamin d and viruses, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030342"></script><script src="/js/tiki-redirects.js?v=1752030342"></script><script src="/js/lightspa.js?v=1752030342"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030342",indexUrl:"/search/search_index.json.gz?v=1752030342"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030342"></script></body></html>

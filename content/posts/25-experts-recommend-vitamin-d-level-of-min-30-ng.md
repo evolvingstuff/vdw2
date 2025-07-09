@@ -38,7 +38,7 @@
 
 #### MINIMUM recommended vitamin D by 25 experts was higher than the 20 ng/ml proclamation of the Institute of Medicine
 
-{IMG(attId="355"max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 500px;">
 
 #### Vitamin D and musculoskeletal health, cardiovascular disease, autoimmunity and cancer: Recommendations for clinical practice
 
@@ -116,4 +116,4 @@ Recommendations were restricted to clinical practice and concern adult patients 
 
 A target range of at least  **30 to 40 ng/mL**  was recommended. As response to treatment varies by environmental factors and starting levels of 25(OH)D,  **testing may be warranted after at least 3 months of supplementation** . An assay measuring both 25(OH)D2 and 25(OH)D3 is recommended. Dark-skinned or veiled individuals not exposed much to the sun, elderly and institutionalized individuals may be supplemented (800 IU/day) without baseline testing.
 
-{IMG(attId="349")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/25-table1.gif" alt="image">

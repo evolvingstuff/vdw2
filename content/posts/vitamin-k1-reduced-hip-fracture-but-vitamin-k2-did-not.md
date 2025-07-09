@@ -71,7 +71,7 @@ A low intake of vitamin K1, but not K2, was associated with an increased risk of
 
 # About 60% less likely to get hip fracture when have the highest level of Vitamin K1
 
-{IMG(attId="697"max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/k1-fracture-aug-2011.png" alt="image" style="max-width: 500px;">
 
 - - - - - - - - 
 

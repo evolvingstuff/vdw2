@@ -51,6 +51,6 @@ Overall, 41 patients (31.5%) had severe vitamin D insufficiency (<10 ng/mL), 66 
 
 * [All items in Vitamin D after Cancer Diagnosis](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=74&sort_mode=created_desc) 20 items as of Nov 2011
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a> which has many graphs, such as the following one
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) which has many graphs, such as the following one
 
 <img src="/attachments/d3.mock.jpg" alt="image">

@@ -53,4 +53,4 @@ PMID:  21675912
 
 * <a href="/posts/cyp24a1-enzyme-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1447">CYP24A1 enzyme and Vitamin D</a> many studies
 
-* <a href="/posts/vitamin-d-accumulation-in-1-in-300-people-due-to-gene-cyp24a1-can-cause-calcium-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D accumulation in 1 in 300 people due to gene (CYP24A1) can cause Calcium problems – June 2018">Vitamin D accumulation in 1 in 300 people due to gene (CYP24A1) can cause Calcium problems – June 2018</a> by the same first author
+* [Vitamin D accumulation in 1 in 300 people due to gene (CYP24A1) can cause Calcium problems – June 2018](/posts/vitamin-d-accumulation-in-1-in-300-people-due-to-gene-cyp24a1-can-cause-calcium-problems) by the same first author

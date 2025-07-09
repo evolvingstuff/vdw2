@@ -42,6 +42,6 @@ Conclusion:? These results are consistent with the maternal vitamin D insufficie
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview Autism and vitamin D</a>
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d)
 
 © 2011 John Wiley & Sons A/S. PMID: 21219265

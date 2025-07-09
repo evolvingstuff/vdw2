@@ -267,7 +267,7 @@ Maternal exposure to doxycycline and HAs/PHAs during the first trimester increas
 
 #### ADHD 2 X more likely if Tylenol (which decreases Vitamin D) was used a lot during pregnancy
 
- **<a href="/posts/adhd-2-x-more-likely-if-tylenol-used-a-lot-during-pregnancy-autism-increased-too" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD 2 X more likely if Tylenol used a lot during pregnancy (Autism increased too) – Dec 2016">ADHD 2 X more likely if Tylenol used a lot during pregnancy (Autism increased too) – Dec 2016</a>** 
+ **[ADHD 2 X more likely if Tylenol used a lot during pregnancy (Autism increased too) – Dec 2016](/posts/adhd-2-x-more-likely-if-tylenol-used-a-lot-during-pregnancy-autism-increased-too)** 
 
 ---
 
@@ -335,7 +335,7 @@ CONCLUSION: An inverse association between cord 25(OH)D and attention deficit hy
 
  **Probably can reduce the risk of ADHD by getting lots of Vitamin D in early pregnancy or pre-conception.** 
 
- **<a href="/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ensure a healthy pregnancy and baby - take Vitamin D before conception">Ensure a healthy pregnancy and baby - take Vitamin D before conception</a>**  has the following.
+ **[Ensure a healthy pregnancy and baby - take Vitamin D before conception](/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception)**  has the following.
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="450">
 
@@ -523,7 +523,7 @@ Conclusions and Relevance This study’s findings suggest that among US children
 
 ---
 
-#### Poor Vitamin D Receptor is associated with <a href="/posts/autism-much-more-likely-if-poor-vitamin-d-receptor-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism much more likely if poor Vitamin D Receptor – many studies">Autism</a> [ADHD too](https://VitaminDWiki.com/ADHD%20and%20Vitamin%20D%20Deficiency#ADHD_associated_with_both_low_vitamin_D_and_poor_Vitamin_D_Receptor_-_Feb_2018)?
+#### Poor Vitamin D Receptor is associated with [Autism](/posts/autism-much-more-likely-if-poor-vitamin-d-receptor-many-studies) [ADHD too](https://VitaminDWiki.com/ADHD%20and%20Vitamin%20D%20Deficiency#ADHD_associated_with_both_low_vitamin_D_and_poor_Vitamin_D_Receptor_-_Feb_2018)?
 
 ---
 
@@ -537,9 +537,9 @@ Despite evidence linking prenatal acetaminophen (APAP) exposure and adverse neur
 
 Overall, detection of APAP in second trimester plasma was associated with higher odds for child ADHD diagnosis (** odds ratio of 3.15 **(95% confidence interval 1.20 to 8.29)). Prenatal APAP exposure and ADHD were associated with placental upregulation of immune system pathways in females and downregulation of oxidative phosphorylation in both sexes. In females only, prenatal APAP was associated with 5.22% higher odds (0.0456–13.1%) of ADHD statistically, mediated through increased immunoglobulin heavy constant gamma 1 (IGHG1) expression. These results highlight placental molecular mechanisms that may underlie developmental toxicity of prenatal APAP exposure.
 
-- - - -** Note:  *** <a href="/posts/acetaminophen-tylenol-increases-asthma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Acetaminophen (Tylenol) increases asthma">Acetaminophen (Tylenol) increases asthma</a>
+- - - -** Note:  *** [Acetaminophen (Tylenol) increases asthma](/posts/acetaminophen-tylenol-increases-asthma)
 
-* <a href="/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitamin-d-drops-15x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018">Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018</a>
+* [Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018](/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitamin-d-drops-15x)
 
 ---
 
@@ -565,7 +565,7 @@ Overall, detection of APAP in second trimester plasma was associated with higher
 
    * [CNN report  of the study](https://www.cnn.com/2025/01/23/health/adhd-shorter-life-expectancy-study-wellness/index.html)
 
-* Shared genetic architecture between attention-deficit/hyperactivity disorder and lifespan - March 2023 [FREE PDF](https://doi.org/10.1038/s41386-023-01555-x)** Note **<a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Do blacks have a 5 year life penalty due to low vitamin D">Do blacks have a 5 year life penalty due to low vitamin D</a>
+* Shared genetic architecture between attention-deficit/hyperactivity disorder and lifespan - March 2023 [FREE PDF](https://doi.org/10.1038/s41386-023-01555-x)** Note **[Do blacks have a 5 year life penalty due to low vitamin D](/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d)
 
 ---
 
@@ -627,7 +627,7 @@ The Groundbreaking Program for the 4-A Disorders," which has a chapter on supple
 
 #### Magnesium and mental illness chart
 
-<img src="/attachments/d3.mock.jpg" alt="image" width="600">** Which is in <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> **---
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">** Which is in [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) **---
 
 #### Brain plasticity software has shown nice improvement in some ADHD symptoms - 2016
 
@@ -635,7 +635,7 @@ The Groundbreaking Program for the 4-A Disorders," which has a chapter on supple
 
 > " The brain exercise group significantly improved, as compared to the control, on both the response inhibition measure and Stroop interference, a measure of executive function. A trend toward improvement, which did not reach significance, was noted on the two other secondary measures: sustained attention and short-term memory span."
 
-Note: The Founder of VitaminDWiki has been enjoying the great benefits of <a href="/posts/off-topic-brain-plasticity-best-way-to-exercise-your-brain-interview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic: Brain Plasticity (best way to exercise your brain) – Interview Dec 2012">BrainHQ since about 2005</a>
+Note: The Founder of VitaminDWiki has been enjoying the great benefits of [BrainHQ since about 2005](/posts/off-topic-brain-plasticity-best-way-to-exercise-your-brain-interview)
 
 ---
 

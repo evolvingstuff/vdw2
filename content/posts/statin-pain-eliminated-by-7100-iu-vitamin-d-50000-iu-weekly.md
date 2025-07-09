@@ -47,7 +47,7 @@ PMID:     21728907
 
 * <a href="/posts/statins-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 444">Statins and vitamin D</a>
 
-* <a href="/posts/statin-side-effects-are-reduced-by-vitamin-d-us-patent-application" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statin side-effects are reduced by Vitamin D – US patent Application – April 2019">Statin side-effects are reduced by Vitamin D – US patent Application – April 2019</a>
+* [Statin side-effects are reduced by Vitamin D – US patent Application – April 2019](/posts/statin-side-effects-are-reduced-by-vitamin-d-us-patent-application)
 
 * <a href="/posts/overview-how-often-to-take-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Overview How Often to take vitamin D</a> has the following notional chart
 

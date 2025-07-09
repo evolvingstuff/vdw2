@@ -112,15 +112,15 @@ From the Department of Medicine, Brigham and Women's Hospital, Harvard Medical S
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 * <a href="/posts/vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations</a> both IU and ng/ml
 
 * [Clinical Trials for Vitamin D - 2011](/posts/clinical-trials-for-vitamin-d-2011)
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766">Overview How Much vitamin D</a>
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d)
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [IoM again fails to look at interactions - Nov 2010](/posts/iom-again-fails-to-look-at-interactions) with lots of comments
 
@@ -258,7 +258,7 @@ Spreen A. Vitamin D conspiracy leads straight to Big Pharma.  02/19/2011 http://
 
 ### Example of letter - costs money to get a clean image, but this is what you can see for free
 
-{IMG(attId="498")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/letters-to-editor-phn.gif" alt="image">
 
 # Neutral
 

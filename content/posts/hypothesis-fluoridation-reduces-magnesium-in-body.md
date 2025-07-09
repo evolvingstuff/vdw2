@@ -21,7 +21,7 @@
 
 ### from Magnesium Miracle Carolyn Dean page 29
 
-{IMG(attId="724" width="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/magnesium-miracle-pg-29-floride.png" alt="image" width="500">
 
 ### Fluoride causes health problems
 

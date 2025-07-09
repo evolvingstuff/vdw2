@@ -129,7 +129,7 @@ Prostate cancer, Breast cancer, Bladder cancer, Skin Cancer, Osteoporosis, Ricke
 
 ---
 
-#### <a href="/posts/strong-association-to-other-vitamin-d-deficiency-diseases-12-years-in-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013">Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013</a>
+#### [Strong association to other vitamin D deficiency diseases - 12 years in UK July 2013](/posts/strong-association-to-other-vitamin-d-deficiency-diseases-12-years-in-uk)
 
 Addison's disease, ankylosing spondylitis, autoimmune hemolytic anemia, chronic active hepatitis, celiac disease, 
 
@@ -151,7 +151,7 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * <a href="/posts/parkinsons-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 484">Parkinson's ==> Osteoporosis</a>
 
-* <a href="/posts/osteoporosis-and-low-grip-strength-both-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis and low grip strength both associated with low vitamin D – Feb 2018">Low Grip Strength ==> Osteoporosis</a>
+* [Low Grip Strength ==> Osteoporosis](/posts/osteoporosis-and-low-grip-strength-both-associated-with-low-vitamin-d)
 
 * <a href="/posts/immune-system-disease-cvid-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2315">Immune System disease (CVID) ==> Osteoporosis</a>
 
@@ -171,7 +171,7 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * [Atopic Dermatitis ==> Osteopenia](https://www.dermatologyadvisor.com/dermatitis/atopic-dermatitis-risk-for-osteoporosis-elevated/article/774224/) 1.8 X
 
-* <a href="/posts/spot-baldness-alopecia-areata-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spot Baldness (Alopecia Areata) associated with low vitamin D – many studies">Alopecia Areata</a> spot baldness ==> 5X higher risk of Lupus, vitiligo, metabolic syndrome 
+* [Alopecia Areata](/posts/spot-baldness-alopecia-areata-associated-with-low-vitamin-d-many-studies) spot baldness ==> 5X higher risk of Lupus, vitiligo, metabolic syndrome 
 
 * <a href="/posts/skin-wrinkles-fragile-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1710">Skin wrinkles ==> Fragile bones</a>
 
@@ -179,7 +179,7 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * <a href="/posts/depression-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 15856">Depression ==> Osteoporosis</a>
 
-* <a href="/posts/no-longer-depressed-but-risk-of-stroke-is-still-17x-higher-did-not-consider-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No longer depressed, but risk of stroke is still 1.7X higher (did not consider low vitamin D) – May 2015">Depressed ==> Stroke</a> 1.7X 
+* [Depressed ==> Stroke](/posts/no-longer-depressed-but-risk-of-stroke-is-still-17x-higher-did-not-consider-low-vitamin-d) 1.7X 
 
 * [Depression ==> Heart Disease](http://www.forbes.com/sites/alicegwalton/2014/04/05/depression-may-seriously-increase-the-risk-of-heart-disease/)  1.4X
 
@@ -191,9 +191,9 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 > &nbsp; &nbsp;96% increase in premature birth if anti-depressants in late pregnancy
 
-* <a href="/posts/more-depression-associated-with-more-dementia-in-seniors-vitamin-d-not-mentioned" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More depression associated with more dementia in seniors (vitamin D not mentioned) – July 2014">Depression ==> Cognitive Decline</a>
+* [Depression ==> Cognitive Decline](/posts/more-depression-associated-with-more-dementia-in-seniors-vitamin-d-not-mentioned)
 
-* <a href="/posts/depression-2x-more-common-among-diabetics-both-associated-with-low-vitamin-d-2014" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Depression 2X more common among diabetics, both associated with low vitamin D – 2014">Depression <==> Diabetes</a>
+* [Depression <==> Diabetes](/posts/depression-2x-more-common-among-diabetics-both-associated-with-low-vitamin-d-2014)
 
 * <a href="/posts/acne" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Acne">Acne ==> Depression</a>
 
@@ -205,7 +205,7 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * [Diabetes ==> PCOS](http://www.ncbi.nlm.nih.gov/pubmed/25714787?dopt=Abstract) women 
 
-* <a href="/posts/women-with-pcos-4-x-more-likely-to-develop-t2-diabetes-no-surprise-both-associat-h-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Women with PCOS 4 X more likely to develop T2 Diabetes (no surprise, both associated with low vitamin D) - Aug 2017">PCOS ==> Diabetes</a>
+* [PCOS ==> Diabetes](/posts/women-with-pcos-4-x-more-likely-to-develop-t2-diabetes-no-surprise-both-associat-h-low-vitamin-d)
 
 * [Asthma ==> Diabetes](https://www.mdedge.com/endocrinology/article/265755/diabetes/respiratory-infections-asthma-rise-type-2-diabetes?ecd=WNL_EVE_231008_mdedge) 10X
 
@@ -217,25 +217,25 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * <a href="/posts/diabetes-pancreatic-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3579">Diabetes ==> Pancreatic Cancer</a>
 
-* <a href="/posts/women-with-diabetes-60-percent-more-likely-to-get-cancer-perhaps-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Women with diabetes 60 percent more likely to get Cancer (perhaps low vitamin D) – May 2019">Diabetes ==> Cancers</a>
+* [Diabetes ==> Cancers](/posts/women-with-diabetes-60-percent-more-likely-to-get-cancer-perhaps-low-vitamin-d)
 
 * <a href="/posts/diabetes-alzheimers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2021">Diabetes ==> Alzheimer's</a>
 
-* <a href="/posts/poor-tuberculosis-outcomes-if-low-vitamin-d-and-diabetic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor Tuberculosis outcomes if low vitamin D and diabetic – Dec 2019">Diabetes ==> TB?</a>
+* [Diabetes ==> TB?](/posts/poor-tuberculosis-outcomes-if-low-vitamin-d-and-diabetic)
 
 * [Diabetes (T1) ==> Multiple Sclerosis](http://www.ncbi.nlm.nih.gov/pubmed/25480016?dopt=Abstract)
 
-* <a href="/posts/young-diabetics-had-38-x-higher-risk-of-parkinsons-perhaps-low-mg-or-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Young Diabetics had 3.8 X higher risk of Parkinson’s (perhaps low Mg or low Vitamin D)– June 2018">Diabetes ==> Parkinson's</a>
+* [Diabetes ==> Parkinson's](/posts/young-diabetics-had-38-x-higher-risk-of-parkinsons-perhaps-low-mg-or-low-vitamin-d)
 
 * <a href="/posts/smoking-weak-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 341">Smoking ==> weak bones</a>
 
 * <a href="/posts/dental-problems-depression-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1384">Dental problems==> depression (pregnancy)</a>
 
-* <a href="/posts/coronary-heart-disease-3-times-more-likely-if-endometriosis-before-age-40-vitamin-d-not-mentioned" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Coronary Heart Disease 3 times more likely if endometriosis before age 40 (vitamin D not mentioned) – March 2016">Endometriosis ==> Coronary Heart Disease</a> 3X
+* [Endometriosis ==> Coronary Heart Disease](/posts/coronary-heart-disease-3-times-more-likely-if-endometriosis-before-age-40-vitamin-d-not-mentioned) 3X
 
 * <a href="/posts/pregnancy-dental-problems" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1384">Pregnancy ==> dental problems</a> 
 
-* <a href="/posts/restless-legs-syndrome-3x-more-likely-during-pregnancy-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Restless legs syndrome 3X more likely during pregnancy (low vitamin D) – Oct 2015">Pregnancy ==>Restless Legs</a>
+* [Pregnancy ==>Restless Legs](/posts/restless-legs-syndrome-3x-more-likely-during-pregnancy-low-vitamin-d)
 
 * <a href="/posts/no-molar-12x-increase-in-breast-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1832">No molar ==> 12X increase in Breast Cancer</a>
 
@@ -243,11 +243,11 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * [Obesity ==> Cognitive Decline](http://www.neurology.org/content/79/8/755)
 
-* <a href="/posts/obesity-increases-risk-of-psoriasis-vitamin-d-is-not-mentioned" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity increases risk of psoriasis (Vitamin D is not mentioned) – Jan 2019">Obesity ==> Psorasis</a>
+* [Obesity ==> Psorasis](/posts/obesity-increases-risk-of-psoriasis-vitamin-d-is-not-mentioned)
 
-* <a href="/posts/obesity-causes-20-percent-of-cancer-might-the-association-be-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity causes 20 percent of cancer, might the association be due to low vitamin D? – Sept 2014">Obesity ==> Cancer</a>
+* [Obesity ==> Cancer](/posts/obesity-causes-20-percent-of-cancer-might-the-association-be-due-to-low-vitamin-d)
 
-* <a href="/posts/headaches-3-x-as-often-if-obese" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Headaches 3 X as often if Obese – March 2018">Obesity ==> Migraine Headache</a> 3X
+* [Obesity ==> Migraine Headache](/posts/headaches-3-x-as-often-if-obese) 3X
 
 * <a href="/posts/aortic-calcification-vertebral-fracture" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3283">Aortic calcification==> Vertebral fracture</a>
 
@@ -259,7 +259,7 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * [Kidney Disease ==> Osteoporosis](http://www.ncbi.nlm.nih.gov/pubmed/25166044) 2014 
 
-* <a href="/posts/asthma-3x-more-likely-if-have-multiple-sclerosis-both-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma 3X more likely if have Multiple Sclerosis (both have low Vitamin D) – March 2019">Multiple Sclerosis ==> Asthma</a> 3X
+* [Multiple Sclerosis ==> Asthma](/posts/asthma-3x-more-likely-if-have-multiple-sclerosis-both-have-low-vitamin-d) 3X
 
 * [Multiple Sclerosis ==> 2.6X increased Migrane Headache,  web, full text online](http://www.ncbi.nlm.nih.gov/pubmed/23024814)
 
@@ -273,19 +273,19 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * [Psoriasis ==> Metabolic Syndrome](http://www.ncbi.nlm.nih.gov/pubmed/21747838)  on the web
 
-* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Metabolic Syndrome</a>
+* [Psoriasis ==> Metabolic Syndrome](/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc)
 
-* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Kidney Disease</a>
+* [Psoriasis ==> Kidney Disease](/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc)
 
-* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Heart problems</a>
+* [Psoriasis ==> Heart problems](/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc)
 
-* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Diabetes</a>
+* [Psoriasis ==> Diabetes](/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc)
 
 * [Psoriasis==> Osteoporosis](https://www.ncbi.nlm.nih.gov/pubmed/31151668?dopt=Abstract)
 
-* <a href="/posts/psoriasis-increases-risk-of-obstructive-sleep-apnea-by-14x-vitamin-d-not-mentioned" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis increases risk of Obstructive Sleep Apnea by 1.4X (vitamin D not mentioned) - Dec 2023">Psoriasis ==> Sleep Apnea</a>
+* [Psoriasis ==> Sleep Apnea](/posts/psoriasis-increases-risk-of-obstructive-sleep-apnea-by-14x-vitamin-d-not-mentioned)
 
-* <a href="/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013">Celiac Disease ==> Anemia, Psoriasis</a>
+* [Celiac Disease ==> Anemia, Psoriasis](/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia)
 
 * Celiac Disease ==> poor bones  Aug 2014
 
@@ -303,31 +303,31 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 * [Stroke ==> Parkinson's Disease](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068314) 2.4X
 
-* <a href="/posts/restless-legs-syndrome-and-adhd-strongly-associated-no-mention-of-vitamin-d-2005" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Restless Legs Syndrome and ADHD strongly associated (no mention of vitamin D) – 2005">Restless Legs <==> ADHD</a>
+* [Restless Legs <==> ADHD](/posts/restless-legs-syndrome-and-adhd-strongly-associated-no-mention-of-vitamin-d-2005)
 
-* <a href="/posts/schizophrenia-sometimes-associated-with-depression-both-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Schizophrenia sometimes associated with depression (both associated with low Vitamin D) – Dec 2015">Schizophrenia ==> Depression</a>
+* [Schizophrenia ==> Depression](/posts/schizophrenia-sometimes-associated-with-depression-both-associated-with-low-vitamin-d)
 
 * [Schizophrenia ==> Diabetes](http://dgnews.docguide.com/schizophrenia-could-directly-increase-risk-diabetes?overlay=2&nl_ref=newsletter&pk_campaign=newsletter) 3X
 
 * [Sleep Apnea ==>Fatty Liver disease](http://well.blogs.nytimes.com/2015/02/27/ask-well-are-fatty-liver-and-sleep-apnea-related/)
 
-* <a href="/posts/gout-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gout and Vitamin D - many studies">Sleep Apnea ==>Gout</a>
+* [Sleep Apnea ==>Gout](/posts/gout-and-vitamin-d-many-studies)
 
 * [Gout ==> Depression 3.8 X](https://www.ncbi.nlm.nih.gov/pubmed/30679908?dopt=Abstract)
 
-* <a href="/posts/vitamin-d-prevents-hepatitis-c-and-helps-treat-it-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D prevents Hepatitis-C and helps treat it (many studies)">Hepatitis-C ==> Cancers - liver, prostate, ?</a>
+* [Hepatitis-C ==> Cancers - liver, prostate, ?](/posts/vitamin-d-prevents-hepatitis-c-and-helps-treat-it-many-studies)
 
 * [Hepatitis -C ==> peripheral arterial disease](http://www.ncbi.nlm.nih.gov/pubmed/25263004) 12X increase if > 65 years old
 
 * [Vitiligo ==> thyroid problems](http://www.ncbi.nlm.nih.gov/pubmed/24107643) 2013
 
-* <a href="/posts/rickets-26-percent-had-autism-no-rickets-no-autism-both-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets – 26 percent had autism: no rickets, no autism (both associated with low vitamin D) – June 2015">Rickets ==> Autism</a>
+* [Rickets ==> Autism](/posts/rickets-26-percent-had-autism-no-rickets-no-autism-both-associated-with-low-vitamin-d)
 
 * [Autism ==> Poor Bones](https://www.ncbi.nlm.nih.gov/pubmed/28861640?dopt=Abstract)
 
 * [Epilepsy ==> Osteoporosis](https://www.ncbi.nlm.nih.gov/pubmed/31522076?dopt=Abstract)
 
-* <a href="/posts/rickets-history-re-occurrence-and-association-with-breathing-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets – history, re-occurrence and association with breathing problems – Nov 2016">Rickets ==> Breathing</a>
+* [Rickets ==> Breathing](/posts/rickets-history-re-occurrence-and-association-with-breathing-problems)
 
 * <a href="/posts/lupus-preterm-birth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 15575">Lupus ==>preterm birth</a>
 
@@ -353,10 +353,10 @@ Sjogren's syndrome, systemic lupus erythematosus, thyrotoxicosis, and significan
 
 #### See also VitaminDWiki
 
-* <a href="/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 597">Criteria to associate a health problem with low vitamin D</a>
+* [Criteria to associate a health problem with low vitamin D](/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d)
 
-* <a href="/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3 to 55 X more likely to have these health problems if low Vitamin D">3 to 55 X more likely to have these health problems if low Vitamin D</a>
+* [3 to 55 X more likely to have these health problems if low Vitamin D](/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d)
 
-* <a href="/posts/health-problems-that-run-in-families-are-often-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health problems that run in families are often associated with low vitamin D">Health problems that run in families are often associated with low vitamin D</a>
+* [Health problems that run in families are often associated with low vitamin D](/posts/health-problems-that-run-in-families-are-often-associated-with-low-vitamin-d)
 
-* <a href="/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Incidence of 22 health problems related to vitamin D have doubled in a decade">Incidence of 22 health problems related to vitamin D have doubled in a decade</a>
+* [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade)

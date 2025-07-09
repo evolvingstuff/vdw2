@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D Receptor</title>
+<link rel=stylesheet href="/css/main.css?v=1752030342"><link rel=stylesheet href="/css/pagination.css?v=1752030342"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030342"></script><script src="/js/search.js?v=1752030342"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts in "Vitamin D Receptor"</h1><article><h2><a href=/posts/after-lactation-vitamin-d-levels-are-low-increased-risk-of-breast-cancer-vitamin-d-decrease-risk.html>After lactation Vitamin D levels are low, increased risk of Breast Cancer, vitamin D should decrease risk</a></h2><time>August 20, 2021</time></article><article><h2><a href=/posts/poor-receptor-predicts-sepsis-death-restricts-vitamin-d-from-getting-to-cells.html>Poor Receptor predicts sepsis death (restricts Vitamin D from getting to cells)</a></h2><time>August 16, 2021</time></article><article><h2><a href=/posts/vitamin-d-levels-in-cells-not-blood-is-important-ivf-follicular-fluid-in-this-case.html>Vitamin D levels in cells, not blood, is important (IVF follicular fluid in this case)</a></h2><time>August 10, 2021</time></article><article><h2><a href=/posts/the-vitamin-d-receptor-and-t-cell-function.html>The vitamin d receptor and T cell function</a></h2><time>August 4, 2021</time></article><article><h2><a href=/posts/atopies-allergy-asthma-rhinitis-etc-variously-associated-with-low-vitamin-d-and--amin-d-receptor.html>Atopies (allergy, asthma, rhinitis, etc.) variously associated with low Vitamin D and poor Vitamin D Receptor</a></h2><time>August 3, 2021</time></article><article><h2><a href=/posts/covid-19-outpatients-getting-quercetin-nanoemulsion-had-excellent-outcomes-q-inc--d-in-cells-rct.html>COVID-19 outpatients getting Quercetin nanoemulsion had excellent outcomes (Q increased Vitamin D in cells) – RCT</a></h2><time>July 29, 2021</time></article><article><h2><a href=/posts/breasts-process-vitamin-d-and-change-gene-activation-might-prevent-breast-cancer-if-given-more-vit-d.html>Breasts process Vitamin D and change gene activation, might prevent breast cancer if given more Vit. D</a></h2><time>July 10, 2021</time></article><article><h2><a href=/posts/t2-diabetes-30-percent-more-likely-if-poor-vitamin-d-receptor-meta-analysis-of-47-studies.html>T2 Diabetes 30 percent more likely if poor Vitamin D Receptor – meta-analysis of 47 studies</a></h2><time>July 8, 2021</time></article><article><h2><a href=/posts/male-infertility-is-associated-with-poor-vitamin-d-receptor.html>Male Infertility is associated with poor Vitamin D Receptor</a></h2><time>July 3, 2021</time></article><article><h2><a href=/posts/poor-male-fertility-is-association-with-poor-vitamin-d-receptor-less-d-to-the-cells.html>Poor male fertility is association with poor Vitamin D Receptor (less D to the cells)</a></h2><time>July 1, 2021</time></article><nav class=pagination><a href=/categories/vitamin-d-receptor/page/10.html rel=prev>&#171; Previous</a>
+<a href=/categories/vitamin-d-receptor.html>1</a>
+<span>...</span>
+<a href=/categories/vitamin-d-receptor/page/8.html>8</a>
+<a href=/categories/vitamin-d-receptor/page/9.html>9</a>
+<a href=/categories/vitamin-d-receptor/page/10.html>10</a>
+<a href=/categories/vitamin-d-receptor/page/11.html class=active>11</a>
+<a href=/categories/vitamin-d-receptor/page/12.html>12</a>
+<a href=/categories/vitamin-d-receptor/page/13.html>13</a>
+<a href=/categories/vitamin-d-receptor/page/14.html>14</a>
+<span>...</span>
+<a href=/categories/vitamin-d-receptor/page/51.html>51</a>
+<a href=/categories/vitamin-d-receptor/page/12.html rel=next>Next &#187;</a></nav></div></div><script src="/js/toc-sanitizer.js?v=1752030342"></script><script src="/js/tiki-redirects.js?v=1752030342"></script><script src="/js/lightspa.js?v=1752030342"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030342",indexUrl:"/search/search_index.json.gz?v=1752030342"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030342"></script></body></html>

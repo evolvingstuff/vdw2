@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Response to a large dose of vitamin D (80,000 IU) typically varied by 2 X</title>
+<link rel=stylesheet href="/css/main.css?v=1752030349"><link rel=stylesheet href="/css/pagination.css?v=1752030349"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030349"></script><script src="/js/search.js?v=1752030349"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Response to a large dose of vitamin D (80,000 IU) typically varied by 2 X</h1><time>November 14, 2017</time><div data-pagefind-body><h4 id=molecular-evaluation-of-vitamin-d-responsiveness-of-healthy-young-adults>Molecular evaluation of vitamin D responsiveness of healthy young adults.</h4><p>J Steroid Biochem Mol Biol. 2017 Nov;174:314-321. <a href=https://doi.org/10.1016/j.jsbmb.2016.06.003.>doi: 10.1016/j.jsbmb.2016.06.003.</a> Epub 2016 Jun 6.</p><p>Seuter S1, Virtanen JK2, Nurmi T2, Pihlajamäki J2, Mursu J2, Voutilainen S2, Tuomainen TP2, Neme A1, Carlberg C3 <a href=mailto:carsten.carlberg@uef.fi>carsten.carlberg@uef.fi</a>.</p><p>1 School of Medicine, Institute of Biomedicine, University of Eastern Finland, Kuopio, Finland.</p><p>2 Institute of Public Health and Clinical Nutrition, University of Eastern Finland, Kuopio, Finland.</p><p>3 School of Medicine, Institute of Biomedicine, University of Eastern Finland, Kuopio, Finland.</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:800px"><p><strong>Many studies have found a 4X range in the response to Vitamin D supplementation</strong></p><p><strong>Especially have a large range when subjects vary in age, obesity, skin color, health, etc.</strong></p><ul><li><a href=/posts/overview-vitamin-d-dose-response>Overview Vitamin D Dose-Response</a> includes many graphs, such as the following</li></ul><blockquote><img src=/attachments/d3.mock.jpg alt=image></blockquote><ul><li><p><a href=/posts/reasons-for-low-response-to-vitamin-d>Reasons for low response to vitamin D</a></p></li><li><p><a href=/posts/how-you-might-double-your-response-to-vitamin-d>How you might double your response to vitamin D</a></p></li></ul><blockquote><p>Includes co-factors, different forms of Vitamin D. time of day it is taken, etc.</p></blockquote><ul><li><p><a href=/posts/vitamin-d-responses-to-as-much-as-15000-iu-per-day>Vitamin D responses to as much as 15,000 IU per day – Feb 2017</a></p></li><li><p><a href=/posts/response-to-vitamin-d-supplementation>Response to Vitamin D supplementation – July 2015</a></p></li><li><p><a href=/posts/how-to-predict-response-to-a-vitamin-d-dose-rct>How to predict response to a vitamin D dose – RCT April 2014</a></p></li><li><p><a href=/posts/vitamin-d-injection-helped-migrants-a-bit-but-some-had-poor-or-even-negative-responses>Vitamin D injection helped migrants a bit, but some had poor or even negative responses – Dec 2017</a></p></li><li><p>Note: There may be even larger variation in the amount of Vitamin D getting to cells due to poor <a href=/categories/genetics>Genetics</a></p></li><li><p><a href=/posts/response-by-obese-to-weekly-50000-iu-of-vitamin-d>Response by obese to weekly 50,000 IU of Vitamin D – May 2018</a></p></li></ul><blockquote><img src=/attachments/d3.mock.jpg alt=image width=400></blockquote></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/molecular-evaluation-of-vitamin-d-responsiveness-of-healthy-young-adults.pdf>Download the PDF from Researchgate via VitaminDWiki</a></strong></p><p><strong>3X difference in responses to a single dose of 80,000 IU of Vitamin D</strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/responders.jpg alt=image width=800><p>Vitamin D3 has via its metabolites 25-hydroxyvitamin D3 (25(OH)D3) and 1α,25-dihydroxyvitamin D3 (1,25(OH)2D3) direct effects on the transcriptome and the epigenome of most human cells. In the VitDbol study we exposed 35 healthy young adults to an oral vitamin D3 dose (2000μg) or placebo and took blood samples directly before the supplementation as well as at days 1, 2 and 30. Within 24h the vitamin D3 intake raised the average serum levels of both 25(OH)D3 and 1,25(OH)2D3 by approximately 20%.</p><p>However, we observed large inter-individual differences in these serum levels, reflected by the average ratios between 25(OH)D3 and 1,25(OH)2D3 concentrations ranging from 277 to 1365. Interestingly, average serum parathyroid hormone (PTH) levels increased at day 1 by some 10% but then decreased within the following four weeks to levels 5% below baseline. In peripheral blood mononuclear cells (PBMCs) that were isolated at the same time points we determined vitamin D-modulated chromatin accessibility by FAIRE-qPCR at selected genomic loci. This method is well suited to evaluate both short-term and long-term in vivo effects of vitamin D on the epigenome of human subjects. The differential vitamin D responsiveness of the VitDbol study participants was determined via individual changes in their PTH levels or chromatin accessibility in relation to alterations in 25(OH)D3 concentrations. This led to the segregation of the subjects into 14 high, 11 mid and 10 low responders. In summary, the vitamin D responsiveness classification provides additional information compared to a vitamin D status assessment based on single 25(OH)D3 serum measurements. The study was registered at Clinicaltrials.gov (NCT02063334).</p><p>PMID: 27282116 DOI: 10.1016/j.jsbmb.2016.06.003</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>dosage</span>
+<span class=tag>health risk</span>
+<span class=tag>How much Vitamin D</span>
+<span class=tag>obesity</span>
+<span class=tag>Predict Vitamin D</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>dosage, health risk, How much Vitamin D, obesity, Predict Vitamin D, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030349"></script><script src="/js/tiki-redirects.js?v=1752030349"></script><script src="/js/lightspa.js?v=1752030349"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030349",indexUrl:"/search/search_index.json.gz?v=1752030349"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030349"></script></body></html>

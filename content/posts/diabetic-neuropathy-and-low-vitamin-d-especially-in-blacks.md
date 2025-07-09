@@ -70,12 +70,12 @@ Conclusions:? Vitamin D insufficiency is associated with self-reported periphera
 
 #### See also VitaminDWiki
 
-* <a href="/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019">Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019</a>
+* [Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019](/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct)
 
-* <a href="/posts/all-autoimmune-peripheral-neuropathy-patients-had-low-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ALL autoimmune peripheral neuropathy patients had low vitamin D levels – Oct 2014">ALL autoimmune peripheral neuropathy patients had low vitamin D levels – Oct 2014</a>
+* [ALL autoimmune peripheral neuropathy patients had low vitamin D levels – Oct 2014](/posts/all-autoimmune-peripheral-neuropathy-patients-had-low-vitamin-d-levels)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/diabetic-neuropathy-sometimes-can-be-reversed-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic Neuropathy sometimes can be reversed by vitamin D">Diabetic Neuropathy sometimes can be reversed by vitamin D</a>
+* [Diabetic Neuropathy sometimes can be reversed by vitamin D](/posts/diabetic-neuropathy-sometimes-can-be-reversed-by-vitamin-d)

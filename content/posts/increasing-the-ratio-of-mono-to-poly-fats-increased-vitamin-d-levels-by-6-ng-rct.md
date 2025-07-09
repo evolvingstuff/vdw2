@@ -130,7 +130,10 @@ PMID:     21816779
 
 ## [WikiPedia](http://en.wikipedia.org/wiki/Monounsaturated_fat)  Good (more vitamin D into bloodstream)= much more  **<span style="color:#00F;">BLUE</span>**  than  **<span style="color:#096;">Green</span>** 
 
-{IMG(attId="681,682,1002, 684" max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/wikifats1.png" alt="image" style="max-width: 500px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/wikifats2.png" alt="image" style="max-width: 500px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/wikifats3.png" alt="image" style="max-width: 500px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/wikifats4.png" alt="image" style="max-width: 500px;">
 
 ## Monounsaturated Fatty Acid = Omega-9
 

@@ -50,7 +50,7 @@
 
 ### <span style="color:#00F;">Oct 2011</span>  by Warren L Mudd  [AMAZON](http://www.amazon.com/Vitamin-Miracle-Cure-Tales-ebook/dp/B005UHF9ZE/ref=sr_1_10?s=books&ie=UTF8&qid=1318388894&sr=1-10%20)  KINDLE &nbsp; &nbsp;[Barnes and Noble](http://www.barnesandnoble.com/w/vitamin-d-warren-mudd/1106580973?ean=2940013269729&itm=4&usri=vitamin%2bd) Nook   both $1.99
 
-{IMG(attId="821")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/vitamin-d-miracle-cure.jpg" alt="image">
 
 # TABLE OF CONTENTS
 

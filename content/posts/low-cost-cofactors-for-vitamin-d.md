@@ -30,7 +30,6 @@
         "Zinc",
         "dosage",
         "genetics",
-        "high dose",
         "iodine",
         "magnesium",
         "magnesium and pregnancy",
@@ -40,7 +39,6 @@
         "omega 3 and pregnancy",
         "omega 3 and viruses",
         "pregnancy",
-        "therapeutic intervention",
         "virus",
         "viruses and pregnancy",
         "viruses and vitamin d receptor",
@@ -84,7 +82,7 @@ per day
 
 <a href="/posts/overview-calcium-bioavailability-and-how-much-to-take" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Calcium bioavailability and how much to take">Calcium</a>|   <750mg| Yes   | [Is excess calcium harmful to health - 2010](/posts/is-excess-calcium-harmful-to-health-2010)| ~~#009:** 0* = None: get from healthy food **~~  |0 ¢ 
 
-<a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium</a>|   100mg (element)|   Yes|May increase response to Vitamin D by 30%   
+[Magnesium](/posts/overview-magnesium-and-vitamin-d)|   100mg (element)|   Yes|May increase response to Vitamin D by 30%   
  Many other health benefits as well| 1/2 teaspoon of Magnesium Chloride ever 3 days  
  Make it by adding hot water to bulk MgCl (1 to 1)  
  also use topically on both knees nightly| ~2 ¢ 
@@ -98,15 +96,15 @@ per day
 <a href="/posts/silica" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1506">Silica</a>| ?  |   Yes  |  | Daily - Horsetail - buy in bulk  
 Include in morning cereal |1 ¢ 
 
-<a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>|1 g or   
+[Omega-3](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)|1 g or   
 1 Vectomega tablet|By increasing   
 Vitamin D| <a href="/posts/helps-health-a-lot" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3467">helps health A LOT</a>  
-<a href="/posts/may-increase-active-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3171">May increase active D</a> |<a href="/posts/i-use-vectomega-brand-of-omega-3-admin-of-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: I use Vectomega brand of Omega-3 – Admin of VitaminDWiki, May 2014">1 Vectomega daily</a> - VERY bioavailable|75 ¢ 
+<a href="/posts/may-increase-active-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3171">May increase active D</a> |[1 Vectomega daily](/posts/i-use-vectomega-brand-of-omega-3-admin-of-vitamindwiki) - VERY bioavailable|75 ¢ 
 
-<a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a> | ?|?|Needed by <a href="/posts/vitamin-d-receptor-percent-percent-percentthus-results-vitamin-d-reduced-so-low--s-are-returning" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor))%%%Thus results ((Vitamin D reduced so low that Victorian age diseases are returning">not seen</a> in <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Vitamin D tests</a>  | take 30 mg tablet or liquid weekly|3 ¢** Following are NOT cofactors **[Poly fats](/posts/increasing-the-ratio-of-mono-to-poly-fats-increased-vitamin-d-levels-by-6-ng-rct)|Ratio of types of fat |no  |Almonds have the best fat ratio  
- and they have Magnesium| <a href="/posts/health-problems-prevented-by-eating-nuts-perhaps-due-to-magnesium-and-or-omega-3-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health problems prevented by eating nuts (perhaps due to Magnesium and or Omega-3) – meta-analysis Dec 2016">daily mixed nuts</a>|5
+[Zinc](/posts/zinc-and-vitamin-d) | ?|?|Needed by <a href="/posts/vitamin-d-receptor-percent-percent-percentthus-results-vitamin-d-reduced-so-low--s-are-returning" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor))%%%Thus results ((Vitamin D reduced so low that Victorian age diseases are returning">not seen</a> in [Vitamin D tests](/posts/low-cost-vitamin-d-blood-tests)  | take 30 mg tablet or liquid weekly|3 ¢** Following are NOT cofactors **[Poly fats](/posts/increasing-the-ratio-of-mono-to-poly-fats-increased-vitamin-d-levels-by-6-ng-rct)|Ratio of types of fat |no  |Almonds have the best fat ratio  
+ and they have Magnesium| [daily mixed nuts](/posts/health-problems-prevented-by-eating-nuts-perhaps-due-to-magnesium-and-or-omega-3-meta-analysis)|5
 
-Water| 2.5 liters/quarts|No|<a href="/posts/video-by-dr-coimbra-95-percent-of-auto-immune-cured-with-vitamin-d-in-high-doses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Video by Dr. Coimbra – 95 percent of auto-immune cured with vitamin D in high doses - April 2014">Help flush kidneys of any excess Calcium</a>   
+Water| 2.5 liters/quarts|No|[Help flush kidneys of any excess Calcium](/posts/video-by-dr-coimbra-95-percent-of-auto-immune-cured-with-vitamin-d-in-high-doses)   
  Perhaps only need this much  
 Water if >10,000 IU| >1 quart per day, filtered|0
 
@@ -124,15 +122,15 @@ Vitamin D|2,000-15,000|Yes |<a href="/posts/proven-to-preventtreat-76-diseases" 
 
 <!-- ~tc~ end ~/tc~ -->
 
-### Update 2015 - <a href="/posts/good-health-is-more-than-vitamin-d-and-cofactors-my-view" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Good Health is more than Vitamin D and cofactors – my view">Good Health is more than Vitamin D and cofactors – my view</a>
+### Update 2015 - [Good Health is more than Vitamin D and cofactors – my view](/posts/good-health-is-more-than-vitamin-d-and-cofactors-my-view)
 
 ---
 
 ### Magnesium is probably the most important cofactor
 
-* Virtually everyone around the world has become <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium deficient</a> in the past 50 years
+* Virtually everyone around the world has become [Magnesium deficient](/posts/overview-magnesium-and-vitamin-d) in the past 50 years
 
-> <a href="/posts/far-less-magnesium-available-in-the-body-now" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Far less Magnesium available in the body now">Magnesium is second</a> only to Vitamin D if the % of people who are deficient
+> [Magnesium is second](/posts/far-less-magnesium-available-in-the-body-now) only to Vitamin D if the % of people who are deficient
 
 * What appears to be an <a href="/posts/allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2433">allergic reaction to vitamin D</a> is often due to a lack of Magnesium
 
@@ -140,9 +138,9 @@ Vitamin D|2,000-15,000|Yes |<a href="/posts/proven-to-preventtreat-76-diseases" 
 
 * Magnesium comes in many forms - with a wide range of bioavailablity - Magnesium Chloride form seems to have the best bioavailability
 
-* <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Magnesium and vitamin D</a> - wide variety of information: test for Mg requires a $700 cell test
+* [Magnesium and vitamin D](/posts/magnesium-and-vitamin-d) - wide variety of information: test for Mg requires a $700 cell test
 
-* <a href="/posts/recommended-levels-of-vitamins-and-minerals-history-rda-dri" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1017">Recommended levels of vitamins and minerals - history RDA DRI</a> how much Vitamin A, D, Calcium, Magnesium, Boron, etc.
+* [Recommended levels of vitamins and minerals - history RDA DRI](/posts/recommended-levels-of-vitamins-and-minerals-history-rda-dri) how much Vitamin A, D, Calcium, Magnesium, Boron, etc.
 
 * <a href="/posts/vitamin-d3-and-many-co-factors-in-one-pill" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2448">Vitamin D3 and many co-factors in one pill</a>
 

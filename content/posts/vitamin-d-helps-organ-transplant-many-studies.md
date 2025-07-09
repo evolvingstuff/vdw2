@@ -109,7 +109,7 @@ But, the immune syetem is needed to avoid COVID-19
 
    * "Now in transplant patients, what we found is that  **only 17% have detectable antibody after dose one** . "
 
-* <a href="/posts/26-health-factors-increase-the-risk-of-covid-19-all-are-proxies-for-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D">26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D</a>
+* [26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D](/posts/26-health-factors-increase-the-risk-of-covid-19-all-are-proxies-for-low-vitamin-d)
 
    * Includes immunosuppression as a risk factor
 

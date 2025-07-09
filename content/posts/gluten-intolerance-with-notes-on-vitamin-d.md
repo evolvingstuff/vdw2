@@ -39,7 +39,7 @@
 
 ## [Gluten Intolerance Disease Chart](http://drmarkrussell.com/gluten-intolerance-lubbock-tx)
 
-{IMG(attId="584" max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/gluten-induced-disease-chart.png" alt="image" style="max-width: 400px;">
 
 ## [Natural News June 2011](http://www.naturalnews.com/032823_gluten_intolerance_celiac_disease.html) Gluten then and now
 
@@ -63,19 +63,19 @@
 
 ## 72 minute video with slides - 2009 - example
 
-{IMG(attId="337"max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/gluten-slide.gif" alt="image" style="max-width: 400px;">
 
-### <a href="/posts/huge-increases-in-health-problems-risk-factors-include-vitamin-d-antibiotics-and-roundup" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup">Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup</a>
+### [Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup](/posts/huge-increases-in-health-problems-risk-factors-include-vitamin-d-antibiotics-and-roundup)
 
-### <a href="/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Incidence of 22 health problems related to vitamin D have doubled in a decade">Incidence of 22 health problems related to vitamin D have doubled in a decade</a>
+### [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade)
 
 ### Decrease in cholesterol which the skin needs to make vitamin D
 
-{IMG(fileId="1522" max="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
 ### Decrease in vitamin D for <a href="/posts/13-new-reasons-in-past-40-years" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">13 new reasons in past 40 years</a> and many old reasons
 
-{IMG(fileId="1843" max="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
 # About 2X less Vitamin D in just 10 years (US)
 
@@ -93,7 +93,7 @@
 
 ## [Some think increased in Intolerance is due to increase in GMO crops in US](http://glutenfreerecipebox.com/)
 
-{IMG(attId="903")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/gmo-crops-in-us.jpg" alt="image">
 
 ---
 
@@ -127,15 +127,15 @@ for more research, many clinicians are now prescribing non-GMO diets to their gl
 
 ## See also VitaminDWiki
 
-* <a href="/posts/children-need-vitamin-d-etc-if-on-a-gluten-free-diet-just-like-other-kids" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 133">Children need Vitamin D etc if on a gluten-free diet just like other kids</a>
+* [Children need Vitamin D etc if on a gluten-free diet just like other kids](/posts/children-need-vitamin-d-etc-if-on-a-gluten-free-diet-just-like-other-kids)
 
 * [Google search for IBD OR crohn's OR "gluten intolerance"](http://www.google.com/custom?hl=en&client=google-coop&cof=FORID:13%3BAH:left%3BCX:Search%2520Vitamin%2520D%2520Wiki%3BL:http://www.google.com/intl/en/images/logos/custom_search_logo_sm.gif%3BLH:30%3BLP:1%3BVLC:%23551a8b%3BDIV:%23cccccc%3B&adkw=AELymgVHt3d0kV4JuxWVfTtfKZ2xZTbgmbYDZPnRlWyGr4ffaFBIm1T5JIIqwUH4JVTfBLCkVmKNPMswsWD55h7YL545-c40B8h-ldXj6fANeiie7Fgfcok&boostcse=0&cx=001215644404345293668:3di8vufs_m4&&sa=X&ei=8j39TN25LpKosAPChaT3DQ&ved=0CA0QBSgA&q=IBD+OR+crohn%27s+OR+%22gluten+intolerance%22&spell=1) 875 hits as of Dec 2017
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a> - includes vicious circles with gut absorption problems
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) - includes vicious circles with gut absorption problems
 
 * [Crohn’s disease deficient in vitamin K – IBD deficient in vitamins K and D – April 2011](/posts/crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d)
 
-* <a href="/posts/crohns-relapse-reduced-from-29-percent-to-13-percent-by-taking-1200-iu-of-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 305">Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010</a>
+* [Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010](/posts/crohns-relapse-reduced-from-29-percent-to-13-percent-by-taking-1200-iu-of-d3)
 
 * <a href="/posts/low-cost-vitamin-d-in-many-forms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">Low cost vitamin D in many forms</a> - following are good for those with gut problems
 
@@ -143,7 +143,7 @@ for more research, many clinicians are now prescribing non-GMO diets to their gl
 
    * sublingual  5000 IU vitamin D and 90 ug Vitamin K2
 
-* <a href="/posts/celiac-disease-54-times-more-likely-in-northern-vs-southern-states-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Celiac disease 5.4 times more likely in Northern vs Southern states (vitamin D) – Feb 2017">Celiac disease 5.4 times more likely in Northern vs Southern states (vitamin D) – Feb 2017</a>
+* [Celiac disease 5.4 times more likely in Northern vs Southern states (vitamin D) – Feb 2017](/posts/celiac-disease-54-times-more-likely-in-northern-vs-southern-states-vitamin-d)
 
 * <a href="/posts/magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Magnesium</a> consider getting Magnesium thru skin if have gut problems
 
@@ -153,4 +153,4 @@ for more research, many clinicians are now prescribing non-GMO diets to their gl
 
 * [Vitamin D deficiency is a risk factor for many diseases – Jan 2011](/posts/vitamin-d-deficiency-is-a-risk-factor-for-many-diseases) Special Issue
 
-* <a href="/posts/lack-of-vitamin-d-and-calcium-a-world-problem-strength-of-evidence-etc-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1038">Lack of vitamin D and Calcium a world problem – strength of evidence etc – 2009</a>
+* [Lack of vitamin D and Calcium a world problem – strength of evidence etc – 2009](/posts/lack-of-vitamin-d-and-calcium-a-world-problem-strength-of-evidence-etc-2009)

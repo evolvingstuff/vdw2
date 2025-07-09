@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>Stroke in young adult increases risk of death by 5X during next 15 years</title>
+<link rel=stylesheet href="/css/main.css?v=1752030349"><link rel=stylesheet href="/css/pagination.css?v=1752030349"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030349"></script><script src="/js/search.js?v=1752030349"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Stroke in young adult increases risk of death by 5X during next 15 years</h1><time>June 4, 2019</time><div data-pagefind-body><h4 id=association-of-stroke-among-adults-aged-18-to-49-years-with-long-term-mortality>Association of Stroke Among Adults Aged 18 to 49 Years With Long-term Mortality</h4><p>JAMA. 2019;321(21):2113-2123. doi:10.1001/jama.2019.6560</p><p>Merel Sanne Ekker, MD1; Jamie Inge Verhoeven, Bsc1; Ilonca Vaartjes, PhD2; et al Wilhelmus Martinus Tim Jolink, MD3; Catharina Johanna Maria Klijn, MD, PhD1,3; Frank-Erik de Leeuw, MD, PhD1</p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:750px"><p><strong>Vitamin D both PREVENTS and TREATS strokes</strong></p><ul><li><p><a href=/posts/overview-stroke-and-vitamin-d>Overview Stroke and vitamin D</a></p></li><li><p><a href=/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d>Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vitamin D – May 2019</a></p></li><li><p><a href=/posts/stroke-outcome-69-x-worse-if-black-and-overweight-all-three-related-via-low-vitamin-d>Stroke outcome 6.9 X worse if black and overweight (all three related via low vitamin D) – March 2018</a></p></li><li><p><a href=/posts/ischemic-stroke-17-x-more-likely-if-low-vitamin-d>Ischemic stroke 17 X more likely if low vitamin D – April 2017</a></p></li></ul><p><strong>Chart from the same journal</strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/stroke-rising-in-the-young.jpg alt=image width=400></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/jama-ekker-2019-oi-190049.pdf>Download the PDF from VitaminDWiki</a></strong></p><p><strong>Key Points</strong></p><ul><li><p>Question In young adults aged 18 to 49 years, what is the age- and sex-specific case fatality and long-term mortality associated with stroke?</p></li><li><p>Findings In this Dutch register-based cohort study that included 15 527 patients who in the years 1998-2010 had a first stroke at age 18 to 49 years, cumulative 15-year mortality among 30-day survivors was 13.3 per 1000 person-years compared with an expected mortality of 2.4 per 1000 person-years in the general population, an excess mortality of 10.9 per 1000 person-years.</p></li><li><p>Meaning Mortality risk 15 years after stroke among young adults aged 18 to 49 years who were 30-day survivors remained elevated.</p></li><li><p>Importance Stroke remains the second leading cause of death worldwide. Approximately 10% to 15% of all strokes occur in young adults. Information on prognosis and mortality specifically in young adults is limited.</p></li></ul><p>Objective To determine short- and long-term mortality risk after stroke in young adults, according to age, sex, and stroke subtype; time trends in mortality; and causes of death.</p><p>Design, Setting, and Participants Registry- and population-based study in the Netherlands of 15 527 patients aged 18 to 49 years with first stroke between 1998 and 2010, and follow-up until January 1, 2017. Patients and outcomes were identified through linkage of the national Hospital Discharge Registry, national Cause of Death Registry, and the Dutch Population Register.</p><p>Exposures First stroke occurring at age 18 to 49 years, documented using International Classification of Diseases, Ninth Revision, and International Statistical Classification of Diseases and Related Health Problems, Tenth Revision, codes for ischemic stroke, intracerebral hemorrhage, and stroke not otherwise specified.</p><p>Main Outcomes and Measures Primary outcome was all-cause cumulative mortality in 30-day survivors at end of follow-up, stratified by age, sex, and stroke subtype, and compared with all-cause cumulative mortality in the general population.</p><p>Results The study population included 15 527 patients with stroke (median age, 44 years <span>[interquartile range, 38-47 years]</span>; 53.3% women). At end of follow-up, a total of 3540 cumulative deaths had occurred, including 1776 deaths within 30 days after stroke and 1764 deaths (23.2%) during a median duration of follow-up of 9.3 years (interquartile range, 5.9-13.1 years). The 15-year mortality in 30-day survivors was 17.0% (95% CI, 16.2%-17.9%). The standardized mortality rate compared with the general population was 5.1 (95% CI, 4.7-5.4) for ischemic stroke (observed mortality rate 12.0/1000 person-years <a href=95%25%20CI,%2011.2-12.9/1000%20person-years>95% CI, 11.2-12.9/1000 person-years</a>; expected rate, 2.4/1000 person-years; excess rate, 9.6/1000 person-years) and the standardized mortality rate for intracerebral hemorrhage was 8.4 (95% CI, 7.4-9.3; observed rate, 18.7/1000 person-years <a href=95%25%20CI,%2016.7-21.0/1000%20person-years>95% CI, 16.7-21.0/1000 person-years</a>; expected rate, 2.2/1000 person-years; excess rate, 16.4/1000 person-years).</p><p>Conclusions and Relevance Among young adults aged 18 to 49 years in the Netherlands who were 30-day survivors of first stroke, mortality risk compared with the general population remained elevated up to 15 years later.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>cardiovascular</span>
+<span class=tag>life span</span>
+<span class=tag>mortality</span>
+<span class=tag>stroke</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>cardiovascular, life span, mortality, stroke, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030349"></script><script src="/js/tiki-redirects.js?v=1752030349"></script><script src="/js/lightspa.js?v=1752030349"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030349",indexUrl:"/search/search_index.json.gz?v=1752030349"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030349"></script></body></html>

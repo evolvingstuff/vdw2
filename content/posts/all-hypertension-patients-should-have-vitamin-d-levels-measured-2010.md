@@ -73,7 +73,7 @@ Therefore, to bring most of the adult population to levels of > 30 ng/ml, vitami
 
 * <a href="/posts/hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Hypertension and vitamin D</a> many papers
 
-* <a href="/posts/does-vitamin-d-deficiency-cause-hypertension" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 262">Does vitamin D deficiency cause hypertension?</a> 2010 with PDF
+* [Does vitamin D deficiency cause hypertension?](/posts/does-vitamin-d-deficiency-cause-hypertension) 2010 with PDF
 
 * [Systolic hypertension 4X more likely if low on vitamin D 14 years before – Nov 2010](/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before)
 
@@ -87,7 +87,7 @@ Therefore, to bring most of the adult population to levels of > 30 ng/ml, vitami
 
 * [Link between vitamin D and hypertension not yet completely understood – April 2011](/posts/link-between-vitamin-d-and-hypertension-not-yet-completely-understood)
 
-* <a href="/posts/arterial-stiffness-reduced-with-vitamin-d-intervention" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1787">Arterial stiffness reduced with vitamin D intervention – June 2011</a>
+* [Arterial stiffness reduced with vitamin D intervention – June 2011](/posts/arterial-stiffness-reduced-with-vitamin-d-intervention)
 
 - - - - - - 
 

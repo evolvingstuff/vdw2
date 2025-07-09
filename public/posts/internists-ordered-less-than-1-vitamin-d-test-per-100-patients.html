@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Internists ordered less than 1 vitamin D test per 100 patients</title>
+<link rel=stylesheet href="/css/main.css?v=1752030346"><link rel=stylesheet href="/css/pagination.css?v=1752030346"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030346"></script><script src="/js/search.js?v=1752030346"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Internists ordered less than 1 vitamin D test per 100 patients</h1><time>August 4, 2010</time><div data-pagefind-body><h1 id=the-effect-of-physician-workload-on-an-educational-intervention-to-increase-vitamin-d-screening>The effect of physician workload on an educational intervention to increase vitamin D screening.</h1><p>WMJ. 2010 Jun;109(3):136-41.</p><p>Kramm H, Gangnon R, Jones AN, Linzer M, Hansen KE.</p><p>Colorado Center for Arthritis & Osteoporosis, Longmont, USA.</p><p>RATIONALE, AIMS AND OBJECTIVE: Changes in physician behavior are difficult to accomplish. We hypothesized measuring physicians&rsquo; vitamin D levels would increase measurement of their patients&rsquo; levels.</p><p>METHODS: We recruited faculty via e-mail. We measured physicians&rsquo; serum 25(OH)D levels and asked them to complete a questionnaire created to assess the risk of vitamin D deficiency. Physicians received their vitamin D test results by mail. We monitored physicians&rsquo; vitamin D testing rate per 100 patient visits in the 12 weeks before and after receipt of their own vitamin D test result.</p><p>RESULTS: Twenty-eight (22%) of 126 primary care physicians participated in the study; all were Caucasian and 17 (61%) were women. Gender, practice type, and year of graduation from medical school were similar in participants and non-participants.</p><p><strong>Over half of participants took a multivitamin and a third took a vitamin D supplement.</strong> Although 6 (21%) reported a recent fracture, only 1 physician carried a diagnosis of osteopenia or osteoporosis.</p><p>At baseline, <strong>geriatricians ordered 14 vitamin D tests per 100 patient visits</strong> , while internists and family practitioners ordered substantially fewer tests (2 and &lt;1 tests per 100 visits, respectively). After study participation, vitamin D testing rates increased significantly among family practitioners (rate ratio 3.27, 95% CI 1.29-8.33) and internists (rate ratio 3.19, 95% CI 1.12-9.07).</p><p>Physicians with heavier clinic workloads were half as likely (rate ratio 0.50, 95% CI 0.32-0.76) as those with lighter clinic workloads to increase vitamin D testing rates. <strong>Surprisingly, physicians with hypovitaminosis D demonstrated no change in vitamin D testing rates</strong> .</p><p>CONCLUSIONS: Physicians with low vitamin D testing rates were receptive to a personal intervention involving measurement of their own vitamin D levels. High workload appeared to attenuate this effect. These novel but preliminary observations require confirmation in future studies. PMID: 20672553</p><ul><li><span>[tiki-download_file.php?fileId=1433]</span></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>About D - more info.</span>
+<span class=tag>bone</span>
+<span class=tag>falls fractures</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>Overview for doctors</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>About D - more info., bone, falls fractures, osteoporosis, Overview for doctors, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030346"></script><script src="/js/tiki-redirects.js?v=1752030346"></script><script src="/js/lightspa.js?v=1752030346"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030346",indexUrl:"/search/search_index.json.gz?v=1752030346"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030346"></script></body></html>

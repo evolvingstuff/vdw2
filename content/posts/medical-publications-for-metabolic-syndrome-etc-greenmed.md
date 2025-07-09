@@ -86,15 +86,15 @@ Mediterranean Diet
 
 * [Evidence based medical information - GreenMedinfo](/posts/evidence-based-medical-information-greenmedinfo)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 754">Overview Cholesterol and Vitamin D</a>
+* [Overview Cholesterol and Vitamin D](/posts/overview-cholesterol-and-vitamin-d)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
-* <a href="/posts/is-osteoarthritis-a-metabolic-syndrome" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 540">Is Osteoarthritis a metabolic syndrome – June 2010</a>
+* [Is Osteoarthritis a metabolic syndrome – June 2010](/posts/is-osteoarthritis-a-metabolic-syndrome)
 
 * <a href="/posts/metabolic-syndrome-and-vitamin-d-view-of-many-papers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 720">Metabolic Syndrome and vitamin D - view of many papers - Aug 2010</a>
 
@@ -106,4 +106,4 @@ Mediterranean Diet
 
 * [Metabolic Syndrome adults 4X more likely to have less than 20 ng of vitamin D – Jan 2011](/posts/metabolic-syndrome-adults-4x-more-likely-to-have-less-than-20-ng-of-vitamin-d)
 
-* <a href="/posts/vitamin-d-deficiency-obesity-and-cardiometabolic-risk-is-there-any-relationship" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 717">Vitamin D Deficiency, Obesity and Cardiometabolic Risk: Is there any Relationship – Jan 2010</a>
+* [Vitamin D Deficiency, Obesity and Cardiometabolic Risk: Is there any Relationship – Jan 2010](/posts/vitamin-d-deficiency-obesity-and-cardiometabolic-risk-is-there-any-relationship)

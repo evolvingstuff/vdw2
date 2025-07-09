@@ -334,4 +334,4 @@ Undereye circles, &nbsp; A nasal crease, &nbsp; Itching, tingling, or mild swell
 
    * One of their references is on VitaminDWiki
 
-      * <a href="/posts/hypothesis-allergic-diseases-have-increased-because-of-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Allergic diseases have increased because of decreased vitamin D – Oct 2014">Hypothesis: Allergic diseases have increased because of decreased vitamin D – Oct 2014</a>
+      * [Hypothesis: Allergic diseases have increased because of decreased vitamin D – Oct 2014](/posts/hypothesis-allergic-diseases-have-increased-because-of-decreased-vitamin-d)

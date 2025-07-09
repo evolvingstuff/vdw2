@@ -1,0 +1,60 @@
+<!doctype html><html><head><meta charset=utf-8><title>Abstract for presentation to Vitamin D Conference April 2014 – London</title>
+<link rel=stylesheet href="/css/main.css?v=1752030342"><link rel=stylesheet href="/css/pagination.css?v=1752030342"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030342"></script><script src="/js/search.js?v=1752030342"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Abstract for presentation to Vitamin D Conference April 2014 – London</h1><time>September 24, 2013</time><div data-pagefind-body><h4 id=vitamindwikicom--single-best-source-of-vitamin-d-info-on-the-web><strong>VitaminDWiki.com</strong> : Single best source of Vitamin D info. on the web</h4><p><strong>BACKGROUND</strong> : Got interested in vitamin D through the experience of a friend successfully treating back pain with Vitamin D. My investigations raised many questions: which diseases Vitamin D could prevent; which diseases it could treat; how much is needed in each case; what cofactors are needed; which diseases are strongly suspected to be related to Vitamin D deficiency; how much Vitamin D is needed to feel benefits quickly; which groups of people are particularly at risk for Vitamin D deficiency; when are Vitamin D tests needed before supplementation; what is the optimum blood level; why do 9 out of 10 people have sub-optimum levels; when during the day/week should it be taken; what are the alternate ways of getting Vitamin D?</p><p><strong>METHODS</strong> : Began researching the topic and discovered a wealth of material. Decided to share findings through a website, and developed VitaminDWiki to do this. It contains abstracts, full papers. podcasts, videos, summaries, charts, and links to related studies. Virtually all are instantly translated into more than 72 languages.</p><p><strong>RESULTS:</strong> After 3 years, VitaminDWiki has grown to contain over 5,000 studies in 100+ categories (half have 50+ entries), 60+ overviews, 100+ meta-analysis, 34+ proofs of diseases prevented/treated with Vitamin D intervention, and records of 5 previous Vitamin D conferences. Information is updated daily. The website receives over 1,000 visitors a day.</p><p><strong>CONCLUSIONS:</strong> All of the above questions have been answered. Access to the information has proved extremely useful to researchers, doctors, and the general public. A 5 minute animated video about Vitamin D was has been created and can be seen at this conference as well as on the web in 16 languages. This abstract and this some of this conference are at: <a href=http://is.gd/vitapril2014>http://is.gd/vitapril2014</a></p><p><strong>NEXT STEPS:</strong> Promote education thru information sharing of publications and material on the website and possible production and dissemination of additional videos and even on-line courses in Vitamin D.</p><hr><h2 id=update-feb-2014---not-going-to-the-conference>Update Feb 2014 - not going to the conference</h2><p>Conference was so overbooked with speakers that the abstract could only be a poster.</p><hr><h3 id=vitamin-d-conference-in-england---april-23-25-2014postsvitamin-d-conference-in-england-april-23-25-2014><a href=/posts/vitamin-d-conference-in-england-april-23-25-2014>Vitamin D conference in England - April 23-25 2014</a></h3></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>back pain</span>
+<span class=tag>pain</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>back pain, pain, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030342"></script><script src="/js/tiki-redirects.js?v=1752030342"></script><script src="/js/lightspa.js?v=1752030342"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030342",indexUrl:"/search/search_index.json.gz?v=1752030342"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030342"></script></body></html>

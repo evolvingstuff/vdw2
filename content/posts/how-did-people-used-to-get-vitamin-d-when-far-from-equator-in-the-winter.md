@@ -44,7 +44,7 @@
 
 ## Flame Spectrum from WikiPedia:  **<span style="color:#90F;">UV = purple area in lower left</span>** 
 
-{IMG(attId="654" max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/flame-spectrum-from-wikipedia.jpg" alt="image" style="max-width: 400px;">
 
 ## Wonder about animals in the Northern Winters
 

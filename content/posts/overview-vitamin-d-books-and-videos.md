@@ -41,17 +41,17 @@
 
    * <a href="/posts/power-of-vitamin-d-zaidi-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 29">Power Of Vitamin D - Zaidi 2010</a> - ebook is $3 and  **free** to Amazon Prime customers easy to read
 
-* <a href="/posts/healthy-in-seven-days-loading-dose-of-vitamin-d-book-2014" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy in Seven Days - Loading dose of Vitamin D – book 2014">Healthy in Seven Days - Loading dose of Vitamin D – book 2014</a>
+* [Healthy in Seven Days - Loading dose of Vitamin D – book 2014](/posts/healthy-in-seven-days-loading-dose-of-vitamin-d-book-2014)
 
 * <a href="/posts/vitamin-d-miracle-cure-mudd-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2076">Vitamin D- Miracle Cure - Mudd 2011</a> very low cost, easy read, edited by Henry Lahore (founder of VitaminDWiki)
 
-* <a href="/posts/prescribing-sunshine-book" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3226">Prescribing Sunshine - book Aug 2012</a>
+* [Prescribing Sunshine - book Aug 2012](/posts/prescribing-sunshine-book)
 
 > This is an excellent first book on vitamin D. It is well written, with memorable stories.
 
-* <a href="/posts/vitamin-d-is-this-the-miracle-vitamin-book" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3062">Vitamin D - Is This The Miracle Vitamin – book Aug 2012</a>  New Zealand, investigative reporter
+* [Vitamin D - Is This The Miracle Vitamin – book Aug 2012](/posts/vitamin-d-is-this-the-miracle-vitamin-book)  New Zealand, investigative reporter
 
-* <a href="/posts/vitamin-d-simplified-book" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3020">Vitamin D Simplified - book May 2012</a> author is a person who benefited from vitamin D $3
+* [Vitamin D Simplified - book May 2012](/posts/vitamin-d-simplified-book) author is a person who benefited from vitamin D $3
 
 * <a href="/posts/athletics-and-vitamin-d-cannell-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1907">Athletics and Vitamin D – Cannell 2011</a> excellent on Athletics, covers vitamin D concerns well.
 
@@ -65,11 +65,11 @@
 
    * [Dental](/categories/dental) a small section on vitamin D
 
-   * <a href="/posts/bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2312">Bone Health</a>
+   * [Bone Health](/posts/bone-health)
 
 * Reduce aches and pains
 
-   * <a href="/posts/back-pain-cured-with-vitamin-d-book" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Back pain cured with vitamin D – Book May 2014">Back pain cured with vitamin D – Book May 2014</a>
+   * [Back pain cured with vitamin D – Book May 2014](/posts/back-pain-cured-with-vitamin-d-book)
 
 * Focus on high-risk groups
 

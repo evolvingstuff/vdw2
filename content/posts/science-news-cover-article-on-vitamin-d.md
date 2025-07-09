@@ -84,7 +84,7 @@ By Nathan Seppa
 
 July 16th, 2011; Vol.180 #2 (p. 22)
 
-{IMG(attId="614")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/science-news-cover-july-16-2011.png" alt="image">
 
 A host of studies suggest vitamin D has value that goes beyond bone health, but scientists remain divided.
 
@@ -106,7 +106,7 @@ More randomized trials are needed to settle the question, says Patsy Brannon, a 
 
 People's vitamin D blood levels differ because of various factors, including skin color and sun exposure. Though scientists disagree on the level needed for good health, most peg the value between 20 and 40 nanograms per milliliter. Data below come from specific populations.
 
-{IMG(attId="610")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/science1.png" alt="image">
 
 That’s almost too much for nutritional biochemist Bruce Hollis to bear. A longtime vitamin D researcher at the Medical University of South Carolina in Charleston, Hollis recently oversaw a randomized controlled trial showing that low blood levels of vitamin D in pregnant women may lead to more preterm births. He has called for much higher doses. “These new IOM levels won’t accomplish anything,” Hollis says. “It’s just insane.”
 
@@ -126,7 +126,7 @@ It’s one thing to crunch numbers and notice such associations among population
 
 A fair-skinned person basking in the sun in a bathing suit could get 20,000 international units of vitamin D in half an hour. Natural and fortified foods offer much less (estimates below). Though an Institute of Medicine panel recently recommended that adults up to age 70 get 600 international units daily, guidelines from the Endocrine Society suggest 1,500 to 2,000 IU.
 
-{IMG(attId="611")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/science2.png" alt="image">
 
 ## Tenacious D
 
@@ -144,7 +144,7 @@ But taking extra vitamin D doesn’t exacerbate these immune overreactions. If a
 
 Allergy, an immune reaction to innocuous substances, offers an example. When researchers led by Michal Melamed of the Albert Einstein College of Medicine in New York City analyzed vitamin D levels of more than 3,000 children, allergies to peanut, oak and ragweed showed up more often in children with less than 15 nanograms of vitamin D per milliliter of blood than in kids with at least 30 ng/ml, a level many scientists consider the minimum for good health.
 
-{IMG(attId="612")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/science3.png" alt="image">
 
 Scientists who study vitamin D can't help but notice that a host of diseases seem to vary with latitude. Type 1 diabetes, multiple sclerosis and even some cancers appear to be more common in areas that get less sun -- meaning less opportunity for the body to produce vitamin D. The maps above illustrate the apparent link between solar radiation and breast cancer mortality rates.Source, from top: D. M. Harris and V.L.W. Go / /J. of Nutrition 2004; National Cancer Institute
 
@@ -164,7 +164,7 @@ Brainwork, babies, blood pressure
 
 Cancer, rogue immunity and infection are just three of the many ailments vitamin D may help ameliorate:
 
-{IMG(attId="613")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/science4.png" alt="image"> 
 
 Studies have shown a link between vitamin D blood levels and some age-related disorders. The chart below shows that Parkinson's patients more often have lower levels than healthy controls.Source: M.L. Evatt et al / Arch. Neurol. 2008
 

@@ -76,7 +76,7 @@ Columns = weeks 1, 2, 3, 4
 
 Rows = months: Jan, Feb, Mar, April, …
 
-{IMG(attId="547")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-weekly-blister-pack.gif" alt="image">
 
 Last row would have 4 extra pills to be taken for flus, colds, etc.
 
@@ -136,7 +136,7 @@ For the elderly 4,000 IU daily is good, so the weekly gel cap would be 28,000 IU
 
 # See also VitaminDWik
 
-* <a href="/posts/a-proposed-way-to-confirm-that-you-have-taken-your-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1112">A proposed way to confirm that you have taken your vitamin D</a> more on blister pack idea
+* [A proposed way to confirm that you have taken your vitamin D](/posts/a-proposed-way-to-confirm-that-you-have-taken-your-vitamin-d) more on blister pack idea
 
 * <a href="/posts/span-stylecolorf00just-mark-your-calendar-for-vitamin-d-daysspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3166"> **<span style="color:#F00;">Just mark your calendar for vitamin D days</span>** </a> which has the following graphic
 

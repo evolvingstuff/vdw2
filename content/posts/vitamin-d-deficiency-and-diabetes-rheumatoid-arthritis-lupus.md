@@ -92,7 +92,7 @@ PDF is attached at the bottom of this page
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
@@ -100,6 +100,6 @@ PDF is attached at the bottom of this page
 
 * [Rheumatoid Arthritis Lupus and vitamin D - Review- Nov 2010.pdf](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1743) file
 
-* <a href="/posts/lupus-in-vicious-circle-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1101">Lupus in vicious circle with vitamin D - Nov 2010</a>
+* [Lupus in vicious circle with vitamin D - Nov 2010](/posts/lupus-in-vicious-circle-with-vitamin-d)
 
 * [Lupus 8X more likely to not even have 20 ng of vitamin D – May 2011](/posts/lupus-8x-more-likely-to-not-even-have-20-ng-of-vitamin-d)

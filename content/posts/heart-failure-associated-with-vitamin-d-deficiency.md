@@ -60,27 +60,27 @@ PMID: 21304056
 
    * There are many indications that vitamin D can both PREVENT and TREAT many cardiovascular problems
 
-* <a href="/posts/lack-of-vitamin-d-is-a-predictor-of-heart-failure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 867">Lack of vitamin D is a predictor of heart failure – Sept 2010</a>
+* [Lack of vitamin D is a predictor of heart failure – Sept 2010](/posts/lack-of-vitamin-d-is-a-predictor-of-heart-failure)
 
-* <a href="/posts/review-of-vitamin-d-and-heart-failure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 808">Review of vitamin D and heart failure – Aug 2010</a>
+* [Review of vitamin D and heart failure – Aug 2010](/posts/review-of-vitamin-d-and-heart-failure)
 
-* <a href="/posts/vitamin-d-and-cardiovascular-disease-systematic-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 585">Vitamin D and cardiovascular disease - Systematic review June 2010</a>
+* [Vitamin D and cardiovascular disease - Systematic review June 2010](/posts/vitamin-d-and-cardiovascular-disease-systematic-review)
 
-* <a href="/posts/cardiovascular-systematic-review-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 572">Cardiovascular Systematic Review of Vitamin D- Mar 2010</a>
+* [Cardiovascular Systematic Review of Vitamin D- Mar 2010](/posts/cardiovascular-systematic-review-of-vitamin-d)
 
-* <a href="/posts/question-does-more-vitamin-d-make-veins-less-stiff" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 872">Question - Does more vitamin D make veins less stiff - Nov 2007</a>
+* [Question - Does more vitamin D make veins less stiff - Nov 2007](/posts/question-does-more-vitamin-d-make-veins-less-stiff)
 
-* <a href="/posts/vitamin-d-less-than-15-ng-did-not-predict-additional-cardiovascular-disease-events" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 461">Vitamin D less than 15 ng did not predict additional cardiovascular disease events – June 2010</a>
+* [Vitamin D less than 15 ng did not predict additional cardiovascular disease events – June 2010](/posts/vitamin-d-less-than-15-ng-did-not-predict-additional-cardiovascular-disease-events)
 
-* <a href="/posts/low-vitamin-d-associated-with-cardiovascular-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 492">Low Vitamin D associated with cardiovascular disease – June 2010</a>
+* [Low Vitamin D associated with cardiovascular disease – June 2010](/posts/low-vitamin-d-associated-with-cardiovascular-disease)
 
-* <a href="/posts/meta-analysis-unsure-if-vitamin-d-can-prevent-cardiovascular-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 944">Meta-analysis unsure if vitamin D can prevent cardiovascular disease – Sept 2010</a> levels not stated in abstract
+* [Meta-analysis unsure if vitamin D can prevent cardiovascular disease – Sept 2010](/posts/meta-analysis-unsure-if-vitamin-d-can-prevent-cardiovascular-disease) levels not stated in abstract
 
-* <a href="/posts/vitamin-d-reduces-both-death-rate-and-cardiovascular-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 945">Vitamin D reduces both death rate and cardiovascular disease – Sept 2010</a>
+* [Vitamin D reduces both death rate and cardiovascular disease – Sept 2010](/posts/vitamin-d-reduces-both-death-rate-and-cardiovascular-disease)
 
-* <a href="/posts/vitamin-d-is-important-for-cardiovascular-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 949">Vitamin D is important for cardiovascular health – Sept 2010</a> nice chart and tables
+* [Vitamin D is important for cardiovascular health – Sept 2010](/posts/vitamin-d-is-important-for-cardiovascular-health) nice chart and tables
 
-* <a href="/posts/cardiology-diseases-highly-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 965">Cardiology diseases highly associated with low vitamin D – Oct 2010</a> based on 41,000 patients
+* [Cardiology diseases highly associated with low vitamin D – Oct 2010](/posts/cardiology-diseases-highly-associated-with-low-vitamin-d) based on 41,000 patients
 
 * [Review of heart failure and vitamin D mechanisms – Jan 2011](/posts/review-of-heart-failure-and-vitamin-d-mechanisms)
 

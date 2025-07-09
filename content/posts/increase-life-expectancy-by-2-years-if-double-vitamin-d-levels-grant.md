@@ -106,7 +106,7 @@ Conclusions:Increasing serum 25(OH)D levels is the  **most cost-effective way to
 
 ##### Just one of the tables in the paper
 
-{IMG(attId="630"  max="900")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/grant-doubling-table3---2011.png" alt="image" style="max-width: 900px;">
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/grant-ejcn.pdf">Download the PDF from VitaminDWiki</a>** 
 

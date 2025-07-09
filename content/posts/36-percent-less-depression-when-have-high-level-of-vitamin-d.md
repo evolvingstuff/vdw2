@@ -78,13 +78,13 @@ Copyright © 2011 Elsevier Ltd. All rights reserved. PMID:     21784535
 
 * [Google site search of VitaminDWiki](http://www.google.com/custom?hl=en&client=google-coop&cof=FORID:13%3BAH:left%3BCX:Search%2520Vitamin%2520D%2520Wiki%3BL:http://www.google.com/intl/en/images/logos/custom_search_logo_sm.gif%3BLH:30%3BLP:1%3BVLC:%23551a8b%3BDIV:%23cccccc%3B&cx=001215644404345293668:3di8vufs_m4&adkw=AELymgXQ2vjR9pZ-RxfJtV6kjEgUFMdi_72rwTgDetH_xnTHrNk1XQ8rvB-BBTT2uONUuvVay3OAgGr-wEmbWiaV7JMDvZ5H77A0z6MVCiiSe7L1Z8kmEck&boostcse=0&ei=8qN3TfGzDo-0sAOs54XSBA&q=smoke+OR+smoking&start=0&sa=N) smoke OR smoking : 609 hits July 2012
 
-* <a href="/posts/pancreatic-cancer-vitamin-d-smoking-and-diabetes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 702">Pancreatic cancer vitamin D smoking and diabetes – Aug 2010</a>
+* [Pancreatic cancer vitamin D smoking and diabetes – Aug 2010](/posts/pancreatic-cancer-vitamin-d-smoking-and-diabetes)
 
 * <a href="/posts/speculation-on-vitamin-d-and-smoking-during-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 341">Speculation on vitamin D and smoking during pregnancy - June 2010</a>
 
 * [All items in Winter Blues/Depression and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&sort_mode=created_desc) 36 items as of Feb 2012
 
-* <a href="/posts/depressed-people-had-less-than-10-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 782">Depressed people had less than 10 ng of vitamin D – July 2010</a>
+* [Depressed people had less than 10 ng of vitamin D – July 2010](/posts/depressed-people-had-less-than-10-ng-of-vitamin-d)
 
 * <a href="/posts/vitamin-d-variations-and-mental-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 868">vitamin D variations and mental health - Aug 2010</a> nice charts
 
@@ -98,6 +98,6 @@ Copyright © 2011 Elsevier Ltd. All rights reserved. PMID:     21784535
 
 * [Depression 40 percent more likely if low vitamin D – Oct 2011](/posts/depression-40-percent-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2439">Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012</a>
+* [Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012](/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng)
 
 * <a href="/posts/depression-not-reduced-with-5700-iu-vitamin-d-daily-average" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3006">Depression not reduced with 5700 IU vitamin D daily average – July 2012</a>  later study, also by Kjærgaard

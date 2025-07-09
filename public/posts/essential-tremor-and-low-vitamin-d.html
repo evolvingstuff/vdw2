@@ -1,0 +1,76 @@
+<!doctype html><html><head><meta charset=utf-8><title>Essential Tremor and low Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030344"><link rel=stylesheet href="/css/pagination.css?v=1752030344"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030344"></script><script src="/js/search.js?v=1752030344"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Essential Tremor and low Vitamin D</h1><time>May 15, 2012</time><div data-pagefind-body><p><strong>Suggestions as to what to try for ET as of Nov 2023</strong></p><ol><li><p>High-dose vitamin D to get past likely poor Vitamin D Receptor genes</p><ul><li><p>Take at least 300,000 IU within a week and see if the ET greatly decreases</p></li><li><p><a href=/posts/topical-vitamin-d>Topical Vitamin D</a> would be the best form,</p></li><li><p>    as it bypasses the liver, kidney and any Vitamin D Binding protein problem</p></li></ul></li><li><p>B vitamins, especially B12, might also help</p></li><li><p>Activators of the <a href=/categories/vitamin-d-receptor>Vitamin D Receptor</a> might also help</p></li></ol><p><strong>Circa 2013</strong></p><p>Wondering about this topic after learning that <a href=/posts/raynauds-syndrome style=color:red;text-decoration:underline title="This link has an unknown page_id: 2729">Raynaud&rsquo;s Syndrome</a> was reduced with vitamin D</p><p>Just realized that after taking vitamin D both my Raynaud&rsquo;s pain and Essential Tremors have gone away</p><p>Henry Lahore - admin of VitaminDWiki</p><p>Search of the web with Google Nov 2013 for &ldquo;Essential Tremor&rdquo; and &ldquo;Vitamin D &ldquo;> 95,000 hits</p><hr><h4 id=et-associated-with-poor-vitamin-d-binding-gene---march-2022>ET associated with poor vitamin D binding gene - March 2022</h4><p><strong>Vitamin D Receptor and Binding Protein Gene Variants in Patients with Essential Tremor</strong></p><p>Mol Neurobiol . 2022 Mar 24. <a href=https://doi.org/10.1007/s12035-022-02804-8>doi: 10.1007/s12035-022-02804-8</a></p><p>José A G Agúndez 1, Elena García-Martín 1, Hortensia Alonso-Navarro 2, Christopher Rodríguez 1, Mónica Díez-Fairén 3 4, Ignacio Álvarez 3 4, Pau Pastor 3 4, Julián Benito-León 5 6, Tomás López-Alburquerque 7, Félix Javier Jiménez-Jiménez 8 9</p><p>Several studies have shown an association between some variants in the vitamin D receptor (VDR) and the GC vitamin D binding protein (GC) genes with the risk for Parkinson&rsquo;s disease or other neurological disorders. VDR rs2228570 has shown an association with essential tremor (ET) in a previous study. The aim of this study is to look for the association between several common variants in these genes and the risk for ET. We genotyped 272 patients diagnosed with familial ET and 272 age-matched controls using specific TaqMan assays for VDR rs2228570, VDR rs731236, VDR rs7975232, VDR rs739837, VDR rs78783628, GC rs7041, and GC rs4588 single nucleotide variants (SNVs). We found an association between GC rs7041 SNV and ET using recessive, codominant, and allelic models.</p><p>Despite our results <strong>did not find an association between VDR rs2228570 and ET</strong> , the pooled data with those by a previous report suggest this association under recessive, codominant, and allelic models. None of the SNVs studied was related to the age at onset of tremor in ET patients. Data from the current study suggest an association between GC rs7041 and VDR rs2228570 SNVs and ET risk.</p><hr><h4 id=vitamin-d-and-hyperkinetic-movement-disorders-a-systematic-review---aug-2020>Vitamin D and Hyperkinetic Movement Disorders: A Systematic Review - Aug 2020</h4><p>Tremor Other Hyperkinet Mov (N Y). 2020; 10: 32. <a href=https://doi.org/10.5334/tohm.74>doi: 10.5334/tohm.74</a></p><p>Carl N. Homann, MD, PhD,1,2 Gerd Ivanic, MD,3 Barbara Homann,1 and Tadeja Urbanic Purkart, MD1</p><p>Background:</p><p>The importance of vitamin D deficiency in Parkinson’s disease, its negative influence on bone health, and even disease pathogenesis has been studied intensively. However, despite its possible severe impact on health and quality of life, there is not a sufficient understanding of its role in other movement disorders. This systematic review aims at providing an overview of the prevalence of vitamin D deficiency, bone metabolism alterations, and fractures in each of the most common hyperkinetic movement disorders (HKMDs).</p><p>Methods:</p><p>The study search was conducted through PubMed with keywords or Medical Related Subjects (MeSH) of common HKMDs linked with the terms of vitamin D, osteoporosis, injuries, and fractures.</p><p>Results:</p><p>Out of 1585 studies screened 40 were included in our review.</p><p>They show that there is evidence that several HKMDs, including</p><ul><li><p>Huntington disease,</p></li><li><p>Restless Legs Syndrome, and</p></li><li><p>tremor,</p></li></ul><p>are associated with low vitamin D serum levels in up to 83% and 89% of patients. Reduced bone mineral density associated with vitamin D insufficiency was described in Huntington disease.</p><p>Discussion:</p><p>Our survey suggests that vitamin D deficiency, bone structure changes, and fractures are important but yet under-investigated issues in HKMDs. HKMDs-patients, particularly with a history of previous falls, should have their vitamin D-levels tested and supplemented where appropriate.</p><p>Highlights:</p><p>Contrary to Parkinson’s disease, vitamin D deficiency, and bone abnormalities are under-investigated in hyperkinetic movement disorders (HKMDs). Several HKMDs, including essential tremor, RLS, and Huntington disease, are associated with vitamin D deficiency in up to 89%, the latter also with reduced bone mineral density. Testing and where appropriate supplementation is recommended.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/hyperkinetic.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=et-2x-to-35-x-more-likely-if-poor-vitamin-d-receptor-gene---april-2019>ET 2X to 3.5 X more likely if poor Vitamin D Receptor gene - April 2019</h4><p><strong>The rs2228570 Variant of the Vitamin D Receptor Gene is Associated with Essential Tremor</strong></p><p>Neurosci Bull . 2019 Apr;35(2):362-364. <a href=https://doi.org/10.1007/s12264-018-0287-6>doi: 10.1007/s12264-018-0287-6</a></p><p>Ali Sazci 1, Nihal Uren 2, Halil Atilla Idrisoglu 3, Emel Ergul 2</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/et-vdr.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h3 id=examples-from-2013>Examples from 2013</h3><ul><li><a href=http://www.mdjunction.com/forums/essential-tremor-discussions/introductions-personal-stories/2218218-essential-tremor-and-vitamin-d>MD Junction</a></li></ul><blockquote><p>individual totally eliminated her ET with Vitamin D</p></blockquote><blockquote><p>Another person commented: Just remember that tremors are a side effect of low vit D. But it is truley a different illness than ET. If a large daily does of vit D resolves your tremors over time. you may not have ET. It may just be a Vit D issue. Alcoholics are most know for the low vit D do to the amount of alcohol they consume in a day. good luck all</p></blockquote><ul><li><a href=http://www.socialanxietysupport.com/forum/f26/shaking-essential-tremor-or-anxiety->2011</a> 4,000 IU</li></ul><hr><h4 id=related>Related</h4><ul><li><p><a href=/posts/overview-magnesium-and-vitamin-d>Overview Magnesium and vitamin D</a></p></li><li><p><a href=/posts/restless-legs-syndrome-vitamin-d-iron-etc-many-studies>Restless Legs Syndrome - Vitamin D, Iron, etc. - many studies</a></p></li><li><p><a href=/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level>13 reasons why many seniors need more vitamin D (both dose and level) - July 2023</a></p></li><li><p><a href=/posts/tic-disorders-associated-with-vitamin-d-several-studies>Tic disorders associated with Vitamin D - several studies</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>alcohol</span>
+<span class=tag>anxiety</span>
+<span class=tag>bone</span>
+<span class=tag>bone mineral density</span>
+<span class=tag>child</span>
+<span class=tag>dosage</span>
+<span class=tag>falls fractures</span>
+<span class=tag>genetics</span>
+<span class=tag>health risk</span>
+<span class=tag>magnesium</span>
+<span class=tag>mood disorders</span>
+<span class=tag>neurological</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>parkinsons</span>
+<span class=tag>restless legs</span>
+<span class=tag>tic disorders</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d binding</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>alcohol, anxiety, bone, bone mineral density, child, dosage, falls fractures, genetics, health risk, magnesium, mood disorders, neurological, osteoporosis, parkinsons, restless legs, tic disorders, vitamin d, vitamin d binding, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030344"></script><script src="/js/tiki-redirects.js?v=1752030344"></script><script src="/js/lightspa.js?v=1752030344"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030344",indexUrl:"/search/search_index.json.gz?v=1752030344"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030344"></script></body></html>

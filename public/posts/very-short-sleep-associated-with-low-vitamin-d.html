@@ -1,0 +1,80 @@
+<!doctype html><html><head><meta charset=utf-8><title>Very short sleep associated with low Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030350"><link rel=stylesheet href="/css/pagination.css?v=1752030350"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030350"></script><script src="/js/search.js?v=1752030350"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Very short sleep associated with low Vitamin D</h1><time>October 31, 2018</time><div data-pagefind-body><h4 id=serum-nutritional-biomarkers-and-their-associations-with-sleep-among-us-adults-in-recent-national-surveys>Serum nutritional biomarkers and their associations with sleep among US adults in recent national surveys.</h4><p>PLoS One. 2014 Aug 19;9(8):e103490. <a href=https://doi.org/10.1371/journal.pone.0103490.>doi: 10.1371/journal.pone.0103490.</a> eCollection 2014.</p><p>Beydoun MA1, Gamaldo AA1, Canas JA2, Beydoun HA3, Shah MT4, McNeely JM4, Zonderman AB1.</p><ul><li><p>1 National Institute on Aging, NIA/NIH/IRP, Baltimore, Maryland, United States of America.</p></li><li><p>2 Pediatric Endocrinology, Diabetes and Metabolism Nemours Children&rsquo;s Clinic, Jacksonville, Florida,</p></li><li><p>3 Graduate program in Public Health, Eastern Virginia Medical School, Norfolk, Virginia,</p></li><li><p>4 National Institute on Aging, NIA/NIH/IRP, Baltimore, Maryland; Department of Psychology, University of Maryland, Baltimore, Maryland,</p></li></ul><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:700px"><ul><li><p><a href=/posts/children-short-sleep-12-percent-more-likely-for-each-1-ng-lower-vitamin-d-at-birth>Children short sleep 12 percent more likely for each 1 ng lower vitamin D at birth – Oct 2018</a></p></li><li><p><a href=/posts/poor-sleep-15-x-more-likely-if-less-than-20-ng-of-vitamin-d-meta-analysis>Poor sleep 1.5 X more likely if less than 20 ng of Vitamin D – meta-analysis Oct 2018</a></p></li><li><p><a href=/posts/restless-legs-syndrome-vitamin-d-iron-etc-many-studies>Restless Legs Syndrome - Vitamin D, Iron, etc. - many studies</a></p></li></ul><hr><h4 id=see-also-web>See also web</h4><ul><li>Int J Cardiol. 2013 Oct 12;168(5):5074-5. <a href=https://doi.org/10.1016/j.ijcard.2013.07.195.>doi: 10.1016/j.ijcard.2013.07.195.</a> Epub 2013 Jul 27.</li></ul><blockquote><p>Low vitamin D levels in adults with longer time to fall asleep: US NHANES, 2005-2006.</p></blockquote></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/sleep-plos-2014.pdf>Download the PDF from VitaminDWiki</a></strong></p><h3 id=span-stylecolor00frisk-of-very-short-sleepspan><span style=color:#00f>Risk of very short sleep</span></h3><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/very-short-sleep-duration.jpg alt=image width=700><h3 id=span-stylecolor00frisk-of-insomiaspan><span style=color:#00f>Risk of Insomia</span></h3><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/insomnia-risks.jpg alt=image width=700><p>BACKGROUND: The associations between nutritional biomarkers and measures of sleep quantity and quality remain unclear.</p><p>METHODS:</p><p>Cross-sectional data from the National Health and Nutrition Examination Surveys (NHANES) 2005-2006 were used. We selected 2,459 adults aged 20-85, with complete data on key variables. Five sleep measures were constructed as primary outcomes:</p><ul><li><p>(A) Sleep duration;</p></li><li><p>(B) Sleep disorder;</p></li><li><p>(C) Three factors obtained from factor analysis of 15 items and labeled as</p><ul><li><p>&ldquo;Poor sleep-related daytime dysfunction&rdquo; (Factor 1),</p></li><li><p>&ldquo;Sleepiness&rdquo; (Factor 2) and</p></li><li><p>&ldquo;Sleep disturbance&rdquo; (Factor 3).</p></li></ul></li></ul><p>Main exposures were serum concentrations of key nutrients, namely</p><ul><li><p>retinol,</p></li><li><p>retinyl esters,</p></li><li><p>carotenoids (α-carotene, β-carotene, β-cryptoxanthin, lutein+zeaxanthin, lycopene),</p></li><li><p>folate,</p></li><li><p>vitamin B-12,</p></li><li><p>total homocysteine (tHcy),</p></li><li><p>vitamin C,</p></li><li><p><strong>25-hydroxyvitamin D (25(OH)D)</strong> and</p></li><li><p>vitamin E.</p></li></ul><p>Main analyses consisted of multiple linear, logistic and multinomial logit models.</p><p>RESULTS: Among key findings, independent inverse associations were found between</p><ul><li><p>serum vitamin B-12 and sleep duration,</p></li><li><p>25(OH)D and sleepiness (as well as insomnia), and between</p></li><li><p>folate and sleep disturbance.</p></li></ul><p>Serum total carotenoids concentration was linked to higher odds of short sleep duration (i.e. 5-6 h per night) compared to normal sleep duration (7-8 h per night).</p><p>CONCLUSIONS: A few of the selected serum nutritional biomarkers were associated with sleep quantity and quality. Longitudinal studies are needed to ascertain temporality and assess putative causal relationships.</p><p><strong>Clipped from PDF</strong></p><p><strong>There may be a narrow range</strong> of 25(OH) vitamin D3 blood levels that are necessary to produce normal sleep and clinical trials are needed to determine the effects of Vitamin D3 replacement in the prevention of sleep disorders such as insomnia, obstructive sleep apnea and rapid eye movement related apnea <span>[89 – <strong>Gominak</strong> SC, Stumpf WE (2012) The world epidemic of sleep disorders is linked to vitamin D deficiency. Med Hypotheses 79: 132–135.]</span></p><hr><h4 id=the-link-between-vitamin-d-metabolism-and-sleep-medicine---2014>The link between vitamin D metabolism and sleep medicine - 2014</h4><p>Sleep Med Rev. 2014 Aug;18(4):311-9. <a href=https://doi.org/10.1016/j.smrv.2013.07.001.>doi: 10.1016/j.smrv.2013.07.001.</a> Epub 2013 Sep 26.</p><p>McCarty DE1, Chesson AL Jr2, Jain SK3, Marino AA2.</p><p>Vitamin D is a hormone that interacts with intranuclear receptors to effect transcriptional changes in many cell types including those in gut, bone, breast, prostate, brain, skeletal muscle, and the immune system. Inadequacy of vitamin D is widely prevalent, and leads to the classic diseases of bone demineralization as well as to more recently recognized problems such as nonspecific pain and noninflammatory skeletal myopathy, which may disrupt sleep and directly cause daytime impairment.</p><p>Emerging lines of evidence suggest that low vitamin D levels increase the risk for autoimmune disease, chronic rhinitis, tonsillar hypertrophy, cardiovascular disease, and diabetes. These conditions are mediated by altered immunomodulation, increased propensity to infection, and increased levels of inflammatory substances, including those that regulate sleep, such as tumor necrosis factor alpha (TNF-α), interleukin (IL)-1, and prostaglandin D2 (PD2). Together, the recent reports suggest a role for inadequate vitamin D in the development of symptoms of wake impairment commonly associated with sleep disorders. Persistent inadequacy of vitamin D may also increase the risk for obstructive sleep apnea via promotion of adenotonsillar hypertrophy, airway muscle myopathy, and/or chronic rhinitis. Much remains to be learned concerning the complex relationship between chronically low levels of vitamin D, normal sleep, sleep disruption, and daytime neurocognitive impairment.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>brain</span>
+<span class=tag>cancer</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>cognitive</span>
+<span class=tag>diabetes</span>
+<span class=tag>falls fractures</span>
+<span class=tag>high dose</span>
+<span class=tag>immunity</span>
+<span class=tag>intervention</span>
+<span class=tag>metabolic</span>
+<span class=tag>neurological</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>restless legs</span>
+<span class=tag>sleep</span>
+<span class=tag>Sleep</span>
+<span class=tag>sleep apnea</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>autoimmune, bone, bone cancer, brain, cancer, child, childhood cancer, cognitive, diabetes, falls fractures, high dose, immunity, intervention, metabolic, neurological, pediatric autoimmune, restless legs, sleep, Sleep, sleep apnea, therapeutic intervention, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030350"></script><script src="/js/tiki-redirects.js?v=1752030350"></script><script src="/js/lightspa.js?v=1752030350"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030350",indexUrl:"/search/search_index.json.gz?v=1752030350"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030350"></script></body></html>

@@ -58,7 +58,7 @@ Both are synergistic and vitamin D
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * <a href="/posts/low-cost-co-factors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Low cost co-factors for vitamin D</a> which has the following table Nov 2011
 

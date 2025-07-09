@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D and Iron</title>
+<link rel=stylesheet href="/css/main.css?v=1752030342"><link rel=stylesheet href="/css/pagination.css?v=1752030342"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030342"></script><script src="/js/search.js?v=1752030342"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts in "Vitamin D and Iron"</h1><article><h2><a href=/posts/vitamin-d-deficiency-25-x-more-likely-in-iron-deficient-children.html>Vitamin D deficiency 2.5 X more likely in iron-deficient children</a></h2><time>November 21, 2018</time></article><article><h2><a href=/posts/red-blood-cell-association-with-vitamin-d.html>Red blood cell association with Vitamin D</a></h2><time>July 18, 2018</time></article><article><h2><a href=/posts/mineral-adsorption-and-vitamin-d-magnesium-calcium-etc-2011.html>Mineral adsorption and Vitamin D (Magnesium, Calcium, etc) - 2011</a></h2><time>March 16, 2018</time></article><article><h2><a href=/posts/anemia-in-children-35-x-more-likely-if-low-vitamin-d.html>Anemia in children 3.5 X more likely if low vitamin D</a></h2><time>February 14, 2018</time></article><article><h2><a href=/posts/autistic-children-have-lower-levels-of-iron-vitamin-d-magnesium-etc.html>Autistic children have lower levels of Iron, Vitamin D, Magnesium, etc</a></h2><time>October 21, 2017</time></article><article><h2><a href=/posts/drugs-which-create-deficiencies-in-vitamin-d-vitamin-k-magnesium-zinc-iron-etc.html>Drugs which create deficiencies in Vitamin D, Vitamin K, Magnesium, Zinc, Iron, etc.</a></h2><time>October 9, 2017</time></article><article><h2><a href=/posts/iron-in-blood-decreases-with-vitamin-d-in-males-increases-with-premenopausal-females-korea.html>Iron in blood decreases with vitamin D in males, increases with premenopausal females (Korea)</a></h2><time>September 22, 2017</time></article><article><h2><a href=/posts/the-end-of-alzheimers-and-dementia-if-adjust-vitamin-d-b-12-iron-omega-3-etc.html>The End of Alzheimer's and Dementia if adjust Vitamin D, B-12, Iron, Omega-3, etc.</a></h2><time>August 27, 2017</time></article><article><h2><a href=/posts/anemia-in-heart-failure-not-treated-by-vitamin-d-they-should-have-added-iron-rct.html>Anemia (in heart failure) not treated by Vitamin D (they should have added Iron) – RCT</a></h2><time>August 25, 2017</time></article><article><h2><a href=/posts/so-tell-me-what-are-you-doing-to-prevent-breast-cancer.html>So Tell Me . . . What Are You Doing to Prevent Breast Cancer</a></h2><time>June 2, 2017</time></article><nav class=pagination><a href=/categories/vitamin-d-and-iron/page/2.html rel=prev>&#171; Previous</a>
+<a href=/categories/vitamin-d-and-iron.html>1</a>
+<a href=/categories/vitamin-d-and-iron/page/2.html>2</a>
+<a href=/categories/vitamin-d-and-iron/page/3.html class=active>3</a>
+<a href=/categories/vitamin-d-and-iron/page/4.html>4</a>
+<a href=/categories/vitamin-d-and-iron/page/5.html>5</a>
+<a href=/categories/vitamin-d-and-iron/page/6.html>6</a>
+<a href=/categories/vitamin-d-and-iron/page/7.html>7</a>
+<a href=/categories/vitamin-d-and-iron/page/4.html rel=next>Next &#187;</a></nav></div></div><script src="/js/toc-sanitizer.js?v=1752030342"></script><script src="/js/tiki-redirects.js?v=1752030342"></script><script src="/js/lightspa.js?v=1752030342"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030342",indexUrl:"/search/search_index.json.gz?v=1752030342"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030342"></script></body></html>

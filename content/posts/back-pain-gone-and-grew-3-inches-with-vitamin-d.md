@@ -57,7 +57,7 @@ How could this board say that they considered bone health only and yet we are a 
 
 My heart aches for the masses as I am living easy in the sun!  You doctors with a moral conscious that have been given the responsibility for patient health, take heed – ‘the man does not have your back.’   A. Catherine Ross, I am sorry for the many nights of restless sleep that you will have over these decisions – how much vitamin D do you get each day?  You really looked ashen during the video presentation.  Have back pain?   Get some sun!  – [Pandemic Survivor](http://pandemicsurvivor.wordpress.com/)
 
-{IMG(attId="330")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/survivor.jpg" alt="image">
 
 ## Also by him:
 
@@ -65,7 +65,7 @@ My heart aches for the masses as I am living easy in the sun!  You doctors with 
 
 * <a href="/posts/his-comments-before-the-iom-report" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1105">His comments before the IoM report</a>
 
-* <a href="/posts/back-pain-cured-with-vitamin-d-book" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Back pain cured with vitamin D – Book May 2014">Back pain cured with vitamin D – Book May 2014</a>  he published a great book 4 years later
+* [Back pain cured with vitamin D – Book May 2014](/posts/back-pain-cured-with-vitamin-d-book)  he published a great book 4 years later
 
 ## <a href="/posts/bones-appear-to-heal-30-percent-faster-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1194">Bones appear to heal 30% faster with vitamin D</a>
 

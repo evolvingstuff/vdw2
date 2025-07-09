@@ -54,9 +54,9 @@ PMID:     21682758
 
 ## <span>[tiki-download_file.php?fileId=1928]</span> for PDF - if registered (free)
 
-{IMG(attId="636")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cvd-table-1.png" alt="image">
 
-{IMG(attId="637")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cvd-figure-1.png" alt="image">
 
 – – – – – – – – 
 

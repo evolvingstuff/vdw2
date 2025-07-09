@@ -11,4 +11,4 @@
 }
 
 
-{IMG(attId="529")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/dilbert-vitamin-d.png" alt="image">

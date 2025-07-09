@@ -72,7 +72,7 @@
 
 Feldman, Pike & Adams
 
-{IMG(attId="709")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-3rd-edition.png" alt="image">
 
 {{< toc >}}{DIV}
 

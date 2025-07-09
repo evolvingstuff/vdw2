@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>Locally Transmitted Zika Virus Infects 41 in Singapore</title>
+<link rel=stylesheet href="/css/main.css?v=1752030346"><link rel=stylesheet href="/css/pagination.css?v=1752030346"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030346"></script><script src="/js/search.js?v=1752030346"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Locally Transmitted Zika Virus Infects 41 in Singapore</h1><time>August 28, 2016</time><div data-pagefind-body><h3 id=sept-15--356-cases-in-signapore>Sept 15 356 cases in Signapore</h3><ul><li>{http://www.cidrap.umn.edu/news-perspective/2016/09/zika-strain-singapore-confounds-experts|Zika strain in Singapore confounds experts]</li></ul><blockquote><p><strong>&ldquo;Overall, we believe the risk of microcephaly would be similar.&rdquo;</strong></p></blockquote><hr><h3 id=sept-5-242-cases-in-singapore-strain-is-from-se-asia-perhaps-no-microcephaly>Sept 5: 242 cases in Singapore, strain is from SE Asia (perhaps no microcephaly)</h3><p><a href=http://fortune.com/2016/09/05/singapore-zika-virus-asia/>Singapore Says Its Zika Virus Likely Came From Southeast Asia</a> Fortune</p><ul><li>“I need to look at the data more closely. But given that it’s distanced from the Brazil virus, then certainly the likelihood of microcephaly here will be more distant,”</li></ul><hr><h3 id=sept-3-215-cases-in-singapore-zika-strain-is-not-from-brazil>Sept 3: 215 cases in Singapore, Zika strain is NOT from Brazil</h3><p><a href=http://www.abc.net.au/news/2016-09-03/singapore-reports-new-strain-of-zika-originating-in-asia/7812172>Zika virus: Singapore reports new strain originating in Asia; Malaysia detects first local case</a> ABC Australia</p><ul><li>&ldquo;&ldquo;The analysis found that the virus belongs to the Asian lineage and likely evolved from the strain that was already circulating in South-East Asia. The virus from these two patients was not imported from South America,&rdquo; the statement said.&rdquo;</li></ul><hr><h3 id=new-york-timeshttpwwwnytimescomaponline20160828worldasiaap-as-singapore-zikahtml_r0><a href="http://www.nytimes.com/aponline/2016/08/28/world/asia/ap-as-singapore-zika.html?_r=0">New York Times</a></h3><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/singapore.jpg alt=image width=590><hr><h4 id=singapore-confirms-41-cases-of-locally-transmitted-zika-virushttpfortunecom20160828singapore-41-zika-virus-cases-fortune-aug-28><a href=http://fortune.com/2016/08/28/singapore-41-zika-virus-cases/>Singapore Confirms 41 Cases of Locally-Transmitted Zika Virus</a> Fortune Aug 28</h4><ul><li><p>“Those infected include 36 foreign construction workers employed at a site near Aljunied in the southeast of the island, the health ministry and the National Environment Agency (NEA) said in a joint statement on Sunday.”</p></li><li><p>&ldquo;In Thailand, where close to 100 cases of Zika have been recorded across 10 provinces this year, the Department of Disease Control (DDC) was screening all athletes returning from the Olympic Games in Brazil, but was not otherwise changing its prevention measures.&rdquo;</p></li></ul><hr><h4 id=faqs-on-zika-virushttpswwwmohgovsgcontentmoh_webhomepressroomcurrent_issues2016zika-virusfaqshtml-singapore-govt-aug-29><a href=https://www.moh.gov.sg/content/moh_web/home/pressRoom/Current_Issues/2016/zika-virus/faqs.html>FAQs on Zika Virus</a> Singapore govt Aug 29</h4><ul><li>&ldquo;To prevent breeding of the Aedes mosquito, we need to frequently check and remove stagnant water in our homes.&rdquo;</li></ul><blockquote><p>Nope: Aedes eggs MUST dry out before hatching. Eggs are NOIT laid in water</p></blockquote><ul><li>&ldquo;, , sleeping under mosquito nets or in rooms with wire-mesh screens to keep out mosquitoes.&rdquo;</li></ul><blockquote><p>Nope: Aedes, unlike most other mosquitoes, do NOT bite at night</p></blockquote><ul><li>" . . While there is currently no evidence that pregnant women are more likely to get Zika virus infection"</li></ul><blockquote><p>However women ar 2X more likely to beocme infected than men</p></blockquote><ul><li>" . . consider abstinence for at least eight weeks after their return. "</li></ul><blockquote><p>Nope: it is at least 6 months - there cases of men who had no symptoms having Zika in sperm 6 months later</p></blockquote><ul><li>&ldquo;All confirmed cases will be admitted to a public hospital until they recover and test negative for the virus. Admitting them into hospital will also minimise their risk of being bitten by mosquitoes while they are carrying the virus, which may result in further local transmission.&rdquo;</li></ul><blockquote><p>Nice - however, Permethrin on their clothing might do as well, at far far less cost</p></blockquote><blockquote><p>Permethrin on clothing of patients close contacts would be a great way to stop the spread as well</p></blockquote><hr><h4 id=zika-fears-hit-asia-singapore-instructs-workers-to-apply-bug-repellent-hourly-take-vitamin-chttpswwwwashingtonpostcomnewsto-your-healthwp20160830zika-fears-hit-asia-singapore-instructs-workers-to-apply-bug-repellent-hourly-take-vitamin-c-washington-post-aug-30><a href=https://www.washingtonpost.com/news/to-your-health/wp/2016/08/30/zika-fears-hit-asia-singapore-instructs-workers-to-apply-bug-repellent-hourly-take-vitamin-c/>Zika fears hit Asia: Singapore instructs workers to apply bug repellent hourly, take vitamin C</a> Washington Post Aug 30</h4><ul><li>&ldquo;At the construction site where the Singapore cases were first seen, health authorities have set up a kind of informal quarantine. Work has been shut down, and those with Zika have been given their own rooms in a dormitory with “Wi-Fi and their three meals delivered to them,”&rdquo;</li></ul><hr><h4 id=singapore-confirms-zika-spread-us-and-other-countries-issue-travel-warningshttpwwwreuterscomarticleus-health-zika-singapore-iduskcn1150hm-reuters-aug-30><a href=http://www.reuters.com/article/us-health-zika-singapore-idUSKCN1150HM>Singapore confirms Zika spread; U.S. and other countries issue travel warnings</a> Reuters Aug 30</h4><ul><li>&ldquo;Confirmed cases of Zika virus in Singapore rose to <strong>82</strong> on Tuesday&rdquo;</li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>fertility sperm</span>
+<span class=tag>pregnancy</span>
+<span class=tag>virus</span>
+<span class=tag>Virus</span>
+<span class=tag>viruses and pregnancy</span></div><div data-pagefind-meta=tags hidden>fertility sperm, pregnancy, virus, Virus, viruses and pregnancy</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030346"></script><script src="/js/tiki-redirects.js?v=1752030346"></script><script src="/js/lightspa.js?v=1752030346"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030346",indexUrl:"/search/search_index.json.gz?v=1752030346"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030346"></script></body></html>

@@ -45,7 +45,7 @@ Conclusion: Lower (<20 ng/ml) and higher (?30 ng/ml) levels of 25(OH)D among old
 
 ## Image from the paper
 
-# {IMG(attId="338")}{IMG}
+# <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/fraility-u-shaped-curve.gif" alt="image">
 
 # Review of paper at MedpageToday [CLICK HERE](http://www.medpagetoday.com/Geriatrics/GeneralGeriatrics/23810) Dec 8, 2010
 

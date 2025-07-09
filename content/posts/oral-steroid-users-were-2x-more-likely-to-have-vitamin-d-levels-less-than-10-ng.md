@@ -106,7 +106,7 @@ The paper is titled "Association of Glucocorticoid Use and Low 25-Hydroxyvitamin
 
 #### See also VitaminDWiki
 
-* <a href="/posts/corticosteroid-decreased-vitamin-d-levels-in-children-with-asthma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 577">Corticosteroid decreased vitamin D levels in children with asthma – April 2010</a>
+* [Corticosteroid decreased vitamin D levels in children with asthma – April 2010](/posts/corticosteroid-decreased-vitamin-d-levels-in-children-with-asthma)
 
 * <a href="/posts/vitamin-d-levels-lung-function-and-steroid-response-in-adult-asthma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 529">Vitamin D Levels Lung Function and Steroid Response in Adult Asthma – April 2010</a>
 
@@ -116,15 +116,15 @@ The paper is titled "Association of Glucocorticoid Use and Low 25-Hydroxyvitamin
 
 * [Vitamin D and wheeze – especially in seniors – Aug 2011](/posts/vitamin-d-and-wheeze-especially-in-seniors)
 
-* <a href="/posts/the-role-of-vitamin-d-in-asthma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 823">The Role of Vitamin D in Asthma – Mar 2010</a>
+* [The Role of Vitamin D in Asthma – Mar 2010](/posts/the-role-of-vitamin-d-in-asthma)
 
 * [Lack of Vitamin D reduces lung volume – Feb 2011](/posts/lack-of-vitamin-d-reduces-lung-volume)
 
-* <a href="/posts/low-vitamin-d-associated-with-asthma-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 135">Low Vitamin D associated with asthma - 2010</a>
+* [Low Vitamin D associated with asthma - 2010](/posts/low-vitamin-d-associated-with-asthma-2010)
 
 * <a href="/posts/1200-iu-d3-reduced-related-asthma-by-6x" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 331">1200 IU D3 reduced related asthma by 6X – May 2010</a>
 
-* <a href="/posts/decreased-vitamin-d-in-children-taking-asthma-drugs" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 134">Decreased vitamin D in children taking asthma drugs - April 2010</a>
+* [Decreased vitamin D in children taking asthma drugs - April 2010](/posts/decreased-vitamin-d-in-children-taking-asthma-drugs)
 
 ##### See also on web: low vitamin D due to steroids causes bone problems
 

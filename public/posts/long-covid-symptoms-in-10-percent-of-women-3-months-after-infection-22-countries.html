@@ -1,0 +1,60 @@
+<!doctype html><html><head><meta charset=utf-8><title>Long-COVID symptoms in 10 Percent of women 3 months after infection (22 countries)</title>
+<link rel=stylesheet href="/css/main.css?v=1752030346"><link rel=stylesheet href="/css/pagination.css?v=1752030346"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030346"></script><script src="/js/search.js?v=1752030346"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Long-COVID symptoms in 10 Percent of women 3 months after infection (22 countries)</h1><time>October 29, 2022</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#estimated-global-proportions-of-individuals-with-persistent-fatigue-cognitive-and-respiratory-symptom-clusters-following-symptomatic-covid-19-in-2020-and-2021>Estimated Global Proportions of Individuals With Persistent Fatigue, Cognitive, and Respiratory Symptom Clusters Following Symptomatic COVID-19 in 2020 and 2021</a></li></ul></li></ul></li></ul></nav><hr><h4 id=estimated-global-proportions-of-individuals-with-persistent-fatigue-cognitive-and-respiratory-symptom-clusters-following-symptomatic-covid-19-in-2020-and-2021>Estimated Global Proportions of Individuals With Persistent Fatigue, Cognitive, and Respiratory Symptom Clusters Following Symptomatic COVID-19 in 2020 and 2021</h4><p>JAMA. 2022;328(16):1604-1615. doi:10.1001/jama.2022.18931</p><p>Global Burden of Disease Long COVID Collaborators</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/long-covid-22-countries.jpg alt=image width=600><p>Objective To estimate the proportion of males and females with COVID-19, younger or older than 20 years of age, who had Long COVID symptoms in 2020 and 2021 and their Long COVID symptom duration.</p><p>Design, Setting, and Participants Bayesian meta-regression and pooling of 54 studies and 2 medical record databases with data for 1.2 million individuals (from 22 countries) who had symptomatic SARS-CoV-2 infection. Of the 54 studies, 44 were published and 10 were collaborating cohorts (conducted in Austria, the Faroe Islands, Germany, Iran, Italy, the Netherlands, Russia, Sweden, Switzerland, and the US). The participant data were derived from the 44 published studies (10 501 hospitalized individuals and 42 891 nonhospitalized individuals), the 10 collaborating cohort studies (10 526 and 1906), and the 2 US electronic medical record databases (250 928 and 846 046). Data collection spanned March 2020 to January 2022.</p><p>Exposures Symptomatic SARS-CoV-2 infection.</p><p>Main Outcomes and Measures Proportion of individuals with at least 1 of the 3 self-reported Long COVID symptom clusters (persistent fatigue with bodily pain or mood swings; cognitive problems; or ongoing respiratory problems) 3 months after SARS-CoV-2 infection in 2020 and 2021, estimated separately for hospitalized and nonhospitalized individuals aged 20 years or older by sex and for both sexes of nonhospitalized individuals younger than 20 years of age.</p><p>Results A total of 1.2 million individuals who had symptomatic SARS-CoV-2 infection were included (mean age, 4-66 years; males, 26%-88%). In the modeled estimates, 6.2% (95% uncertainty interval <span>[UI]</span>, 2.4%-13.3%) of individuals who had symptomatic SARS-CoV-2 infection experienced at least 1 of the 3 Long COVID symptom clusters in 2020 and 2021, including</p><ul><li><p>3.2% (95% UI, 0.6%-10.0%) for persistent fatigue with bodily pain or mood swings,</p></li><li><p>3.7% (95% UI, 0.9%-9.6%) for ongoing respiratory problems, and</p></li><li><p>2.2% (95% UI, 0.3%-7.6%) for cognitive problems</p></li></ul><p>after adjusting for health status before COVID-19, comprising an estimated 51.0% (95% UI, 16.9%-92.4%), 60.4% (95% UI, 18.9%-89.1%), and 35.4% (95% UI, 9.4%-75.1%), respectively, of Long COVID cases.</p><p>The Long COVID symptom clusters were more common in women aged 20 years or older (10.6% <span>[95% UI, 4.3%-22.2%]</span>) 3 months after symptomatic SARS-CoV-2 infection than in men aged 20 years or older (5.4% <span>[95% UI, 2.2%-11.7%]</span>). Both sexes younger than 20 years of age were estimated to be affected in 2.8% (95% UI, 0.9%-7.0%) of symptomatic SARS-CoV-2 infections. The estimated mean Long COVID symptom cluster duration was 9.0 months (95% UI, 7.0-12.0 months) among hospitalized individuals and 4.0 months (95% UI, 3.6-4.6 months) among nonhospitalized individuals. Among individuals with Long COVID symptoms 3 months after symptomatic SARS-CoV-2 infection, an estimated 15.1% (95% UI, 10.3%-21.1%) continued to experience symptoms at 12 months.</p><p>Conclusions and Relevance This study presents modeled estimates of the proportion of individuals with at least 1 of 3 self-reported Long COVID symptom clusters (persistent fatigue with bodily pain or mood swings; cognitive problems; or ongoing respiratory problems) 3 months after symptomatic SARS-CoV-2 infection.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/long-covid-1.2-million-in-22-countries.pdf>Download the PDF from VitaminDWiki</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>long covid</span>
+<span class=tag>virus</span>
+<span class=tag>Virus</span></div><div data-pagefind-meta=tags hidden>long covid, virus, Virus</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030346"></script><script src="/js/tiki-redirects.js?v=1752030346"></script><script src="/js/lightspa.js?v=1752030346"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030346",indexUrl:"/search/search_index.json.gz?v=1752030346"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030346"></script></body></html>

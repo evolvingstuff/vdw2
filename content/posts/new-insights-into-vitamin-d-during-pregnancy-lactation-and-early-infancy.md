@@ -25,7 +25,7 @@ by Carol L., M.D. Wagner (Author), Sarah N., M.D. Taylor, Bruce W., Ph.D. Hollis
 
 $24 [Amazon](http://www.amazon.com/Insights-Vitamin-Pregnancy-Lactation-Infancy/dp/0982337965/ref=sr_1_1?ie=UTF8&qid=1319720528&sr=8-1&tag=acleint-20)
 
-{IMG(attId="833")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/pregnancy-book-cover.jpg" alt="image">
 
 ## Wagner and Hollis both had and both continue to write extensively on this topic
 

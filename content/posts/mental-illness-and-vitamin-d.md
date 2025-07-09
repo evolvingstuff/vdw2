@@ -43,11 +43,11 @@
 
 #### Low vitamin D when indoors most of the time - from VitaminDWiki
 
-* <a href="/posts/prisoners-have-very-low-vitamin-d-and-get-tb-influenza-and-depression" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prisoners have very low vitamin D and get TB, influenza, and depression">Prisoners have very low vitamin D and get TB, influenza, and depression</a>
+* [Prisoners have very low vitamin D and get TB, influenza, and depression](/posts/prisoners-have-very-low-vitamin-d-and-get-tb-influenza-and-depression)
 
-* <a href="/posts/prisoners-in-psychiatric-wards-have-very-low-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prisoners in psychiatric wards have very low levels of vitamin D – Oct 2012">Prisoners in psychiatric wards have very low levels of vitamin D – Oct 2012</a>
+* [Prisoners in psychiatric wards have very low levels of vitamin D – Oct 2012](/posts/prisoners-in-psychiatric-wards-have-very-low-levels-of-vitamin-d)
 
-* <a href="/posts/prison-doctor-on-lack-of-vitamin-d-in-solitary-confinement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prison doctor on lack of vitamin D in solitary confinement – July 2013">Prison doctor on lack of vitamin D in solitary confinement – July 2013</a>
+* [Prison doctor on lack of vitamin D in solitary confinement – July 2013](/posts/prison-doctor-on-lack-of-vitamin-d-in-solitary-confinement)
 
 * [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) - a few of the sun-related reasons are below
 
@@ -87,7 +87,7 @@
 
 ##### Hypothesis: smoking decreases vitamin D, which increases mental illness
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a> - one example: Low vitamin D was 1.8 X more likely among smokers – June 2012
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies) - one example: Low vitamin D was 1.8 X more likely among smokers – June 2012
 
 * [People With Mental Illness More Likely to Be Smokers, Study Finds](http://www.nytimes.com/2013/02/06/health/more-smoking-found-by-mentally-ill-people.html?_r=0) NY Times Feb 2013
 
@@ -99,7 +99,7 @@ The following graphic from the CDC shows that those who already have low vitamin
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/mental-illness-vs-smoke.jpg" alt="image">
 
- **see also on VitaminDWiki <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>** 
+ **see also on VitaminDWiki [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)** 
 
 ---
 

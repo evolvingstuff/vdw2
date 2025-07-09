@@ -62,7 +62,7 @@ During this inflammatory challenge, the peak isometric force increases after sur
 
 * [Inflammation or surgery or heart attack decreases measured vitamin D levels – Mar 2011](/posts/inflammation-or-surgery-or-heart-attack-decreases-measured-vitamin-d-levels)
 
-* <a href="/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1036">Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010</a>
+* [Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010](/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely)
 
 * [Stop - Read This Before You Have Orthopedic Surgery - Nov 2010](/posts/stop-read-this-before-you-have-orthopedic-surgery)
 

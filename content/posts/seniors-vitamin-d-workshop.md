@@ -61,7 +61,7 @@ This page provides an linear read of the importance of vitamin D and has many hy
 
 It can be read or printed out in 30 portrait pages in any of 64 languages.
 
-&nbsp; &nbsp; &nbsp;To have Google translate the text just touch the down-arrow{IMG(attId="733" max ="140")}{IMG}in the upper right.
+&nbsp; &nbsp; &nbsp;To have Google translate the text just touch the down-arrow<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/select-language.png" alt="image" style="max-width: 140px;">in the upper right.
 
 Workshop was held at the Evergreen Recreational Vehicle Park which is North West of Seattle, Washington
 
@@ -77,7 +77,7 @@ You can also download an audio recording of the first workshop at the end of thi
 
 - - - - - - - - - - - - - - - - - - - - - - - 
 
-{IMG(attId="820" max ="300")}{IMG} {IMG(attId="880" max ="400")}{IMG} 
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/sternum.jpg" alt="image" style="max-width: 300px;"> <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/tibia.jpg" alt="image" style="max-width: 400px;"> 
 
 This section was added after presentation: to get the audience engaged
 
@@ -91,7 +91,7 @@ If you feel pain from 10 lbs (4kg) of force you are very likely vitamin D defici
 
 <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2095">CLICK HERE</a> for details
 
-{IMG(fileId="1463"max="150")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 150px;">
 
 The amount of vitamin D which you need is so small that a week's supplement 
 
@@ -99,7 +99,7 @@ can be in a tiny gel-cap - the size of a pea or a kernel of corn
 
 Vitamin D supplements are very <a href="/posts/low-cost" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">low cost</a> and come in [many forms](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=52&sort_mode=created_desc) such as gel-caps
 
-{IMG(fileId="592" max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 ### Vitamin D is supported by a lot of strong proof - Vitamin D is not snake oil
 
@@ -127,7 +127,7 @@ Greg:"I got into Vitamin D because of another person, who told me how vitamin D 
 
 Henry: As a result of Greg I have spent 2,000 hours and $1500 on making <span>[www.VitaminDWiki.com]</span>, which is the largest in the world.
 
-{IMG(fileId="1358" max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 ### Studies have shown that various diseases, such as [Diabetes](/categories/diabetes), vary with latitude (sun)
 
@@ -141,13 +141,13 @@ Description of chart (especially for non-English readers)
 
 The center of the X axis is the equator. The left is far South, and the Right is far North. Each point represents a country: The top (furthest from equator) having about 30X more diabetes than those at the equator
 
-{IMG(fileId="1866" max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 ### Example: a study showed a 7X decrease in  Diabetes if take >2,000 IU of vitamin D
 
 That is a study of what happened 50 years ago. 
 
-There are very similar recent results for results for both TypeI and TypeII diabetes <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">CLICK HERE</a>.
+There are very similar recent results for results for both TypeI and TypeII diabetes [CLICK HERE](/posts/overview-diabetes-and-vitamin-d).
 
 Text of chart for non-English readers
 
@@ -181,7 +181,7 @@ The center of the X axis is the equator. The left is far South, and the Right is
 
 Each point represents a country: The top (furthest from equator) having about 20X more MS than those at the equator
 
-{IMG(fileId="1241" max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 It shows the mountain of evidence which has been accumulated during the past few decades. 
 
@@ -213,7 +213,7 @@ Then we are at the  **on-going phase I/II clinical trials**  - near the top of t
 
 This is from a 2009 publication
 
-{IMG(attId="254"max = "200")}{IMG}{IMG(attId="291" max = "200")}{IMG}  
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/uv-bulb-flukers.gif" alt="image" style="max-width: 200px;"><img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/sun-lamp.jpg" alt="image" style="max-width: 200px;">  
 
 Personally, I hedge my bets and get both sunshine and vitamin D.
 
@@ -247,7 +247,7 @@ The purchase cost and the cost to use the “super spectrum” bulb
 
 1. You can use the internet to get an estimate of the UV intensity expected in your area for the day LINK NEEDED
 
-1. You can purchase <a href="/posts/uv-meters" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 72">UV meters</a> – which start at $20 and go up to $150.
+1. You can purchase [UV meters](/posts/uv-meters) – which start at $20 and go up to $150.
 
 > The low cost meters do not distinguish between UVA and UVB, so cannot be used to estimate the amount of UVB from a UV lamp, or through a window. 
 
@@ -259,7 +259,7 @@ The purchase cost and the cost to use the “super spectrum” bulb
 
 Here is a very low cost way to determine if there is enough UV to generate vitamin D in your skin.  The little stripe on the card turns purple when it is exposed to UV – the deeper the purple, the stronger the ultraviolet light. I bought it to confirm that the UVB bulb which I use in the winter actually works. A zero cost way to determine if there is enough UV is to just look at the length of your shadow.  No shadow = virtually no UV, If your shadow is as long as you are tall then you will get about 1/2 of the UV that you would at noon on a sunny summer day. During the winter your shadow will be pretty long even at noon, indicating how little UV/vitamin D might get then. (Exception – you will get more UV with reflections from snow, water, and other reflective surfaces.  This is one of the reasons you can get a sunburn when skiing in the winter.  The other reason is that there is more UV at higher altitudes)  
 
-{IMG(fileId="1637"  max="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
 ### I suggest that EVERY senior in Western Washington supplement with at least  **<span style="color:#090;">4,000 IU</span>**   of vitamin D
 
@@ -273,7 +273,7 @@ By way of reference: people getting a good amount of sun in a day, without getti
 
 Go figure!
 
-{IMG(fileId="1337"  max="400")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
  **<span style="color:#090;">4,000 IU</span>**  will raise the level of vitamin D in the blood to 40, which we can see on this graph is the level beyond which the magic starts to happen.  
 

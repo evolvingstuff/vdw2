@@ -66,7 +66,7 @@ Personally,  I use the Algae Calcium powder from [Amazon](https://www.amazon.com
 
 I put the powder in a modified salt shaker, and shake in on my morning cereal
 
-* <a href="/posts/plant-based-calcium-probably-better-than-rock-based" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plant-based Calcium probably better than rock-based">Plant-based Calcium probably better than rock-based</a>
+* [Plant-based Calcium probably better than rock-based](/posts/plant-based-calcium-probably-better-than-rock-based)
 
 ---
 
@@ -78,11 +78,11 @@ I put the powder in a modified salt shaker, and shake in on my morning cereal
 
 #### See VitaminDWiki
 
-* <a href="/posts/10000-iu-of-vitamin-d-is-too-much-if-you-also-take-calcium-supplements-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 10,000 IU of Vitamin D is too much if you also take Calcium supplements – RCT Sept 2018">10,000 IU of Vitamin D is too much if you also take Calcium supplements – RCT Sept 2018</a>
+* [10,000 IU of Vitamin D is too much if you also take Calcium supplements – RCT Sept 2018](/posts/10000-iu-of-vitamin-d-is-too-much-if-you-also-take-calcium-supplements-rct)
 
-* <a href="/posts/calcium-supplements-are-harmful-a-reversal-of-recommendations-from-2000" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium supplements are HARMFUL – a reversal of recommendations from 2000 – Nov 2015">Calcium supplements are HARMFUL – a reversal of recommendations from 2000 – Nov 2015</a>
+* [Calcium supplements are HARMFUL – a reversal of recommendations from 2000 – Nov 2015](/posts/calcium-supplements-are-harmful-a-reversal-of-recommendations-from-2000)
 
-* <a href="/posts/calcium-supplements-proven-to-not-reduce-fractures-but-are-proven-to-increase-heart-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium supplements proven to NOT reduce fractures, but are proven to INCREASE heart problems – July 2015">Calcium supplements proven to NOT reduce fractures, but are proven to INCREASE heart problems – July 2015</a>
+* [Calcium supplements proven to NOT reduce fractures, but are proven to INCREASE heart problems – July 2015](/posts/calcium-supplements-proven-to-not-reduce-fractures-but-are-proven-to-increase-heart-problems)
 
 --
 

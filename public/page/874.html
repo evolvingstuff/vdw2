@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta name=generator content="Hugo 0.140.0"><meta charset=utf-8><title>VitaminDWiki</title>
+<link rel=stylesheet href="/css/main.css?v=1752030351"><link rel=stylesheet href="/css/pagination.css?v=1752030351"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030351"></script><script src="/js/search.js?v=1752030351"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>VitaminDWiki</h1><article><div class=post-header><h2 class=post-title><a href=/posts/overweight-and-obese-lost-12-lbs-with-vitamin-d-in-6-months-rct.html>Overweight and obese lost 12 lbs with vitamin D in 6 months– RCT</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/pneumonia-acquired-in-hospital-3x-more-likely-to-die-if-low-vitamin-d.html>Pneumonia acquired in hospital – 3X more likely to die if low vitamin D</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/chance-of-dying-of-various-conditions-reduced-by-higher-levels-of-vitamin-d.html>Chance of dying of various conditions reduced by higher levels of vitamin D</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/mobility-device-50-percent-increased-use-perhaps-decreased-vitamin-d-levels.html>Mobility device – 50 percent increased use (perhaps decreased vitamin D levels)</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/tuberculosis-45x-more-likely-if-vitamin-d-less-than-10-nanogram-meta-analysis.html>Tuberculosis 4.5X more likely if vitamin D less than 10 nanogram – meta-analysis</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/atrial-fibrillation-reduced-with-modest-vitamin-d-levels-did-not-consider-magnesium.html>Atrial fibrillation reduced with modest vitamin D levels (did not consider Magnesium)</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/96-percent-of-iranian-children-have-low-vitamin-d-and-markers-of-metabolic-syndrome.html>96 percent of Iranian children have low vitamin D and markers of metabolic syndrome</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/lung-cancer-less-likely-if-vitamin-d-higher-level-or-supplement-meta-analysis.html>Lung Cancer less likely if vitamin D (higher level or supplement) – meta-analysis</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/rate-of-injuries-from-falls-cut-in-half-by-just-800-iu-of-vitamin-d-and-exercise-rct.html>Rate of injuries from falls cut in half by just 800 IU of vitamin D and exercise – RCT</a></h2><span class=post-date>May 2015</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/routine-monitoring-of-vitamin-d-during-pregnancy-is-mandatory-engl-and-port.html>Routine monitoring of vitamin D during pregnancy is mandatory (Engl. and Port.)</a></h2><span class=post-date>May 2015</span></div></article><nav class=pagination><a href=/page/873.html rel=prev>&#171; Previous</a>
+<a href=/>1</a>
+<span>...</span>
+<a href=/page/871.html>871</a>
+<a href=/page/872.html>872</a>
+<a href=/page/873.html>873</a>
+<a href=/page/874.html class=active>874</a>
+<a href=/page/875.html>875</a>
+<a href=/page/876.html>876</a>
+<a href=/page/877.html>877</a>
+<span>...</span>
+<a href=/page/1442.html>1442</a>
+<a href=/page/875.html rel=next>Next &#187;</a></nav></div></div><script src="/js/toc-sanitizer.js?v=1752030351"></script><script src="/js/tiki-redirects.js?v=1752030351"></script><script src="/js/lightspa.js?v=1752030351"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030351",indexUrl:"/search/search_index.json.gz?v=1752030351"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030351"></script></body></html>

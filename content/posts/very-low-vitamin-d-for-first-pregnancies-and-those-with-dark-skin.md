@@ -56,6 +56,6 @@ This study demonstrates widespread vitamin D deficiency and insufficiency in pre
 
 # See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D: Before, During, and After Pregnancy</a>
+* [Vitamin D: Before, During, and After Pregnancy](/posts/vitamin-d-before-during-and-after-pregnancy)
 
 * <a href="/posts/dark-skin-births-are-much-riskier-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Dark skin births are much riskier due to lack of vitamin D</a>

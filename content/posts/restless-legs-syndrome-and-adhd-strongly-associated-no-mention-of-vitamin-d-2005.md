@@ -1,0 +1,61 @@
+{
+    "title": "Restless Legs Syndrome and ADHD strongly associated (no mention of vitamin D) \u2013 2005",
+    "slug": "restless-legs-syndrome-and-adhd-strongly-associated-no-mention-of-vitamin-d-2005",
+    "aliases": [
+        "/Restless+Legs+Syndrome+and+ADHD+strongly+associated+no+mention+of+vitamin+D+\u2013+2005",
+        "/5812"
+    ],
+    "tiki_page_id": 5812,
+    "date": "2014-09-29",
+    "categories": [
+        "ADHD"
+    ],
+    "tags": [
+        "ADHD",
+        "child",
+        "neurological",
+        "restless legs",
+        "vitamin d"
+    ]
+}
+
+
+#### Restless legs syndrome and attention-deficit/hyperactivity disorder: a review of the literature.
+
+Sleep. 2005 Aug 1;28(8):1007-13.
+
+Cortese S1, Konofal E, Lecendreux M, Arnulf I, Mouren MC, Darra F, Dalla Bernardina B.
+
+STUDY OBJECTIVE:
+
+To review evidence on the association between restless legs syndrome (RLS) and attention-deficit/hyperactivity disorder (ADHD), to discuss the hypothetical mechanisms underlying this association, and to consider the potential interest for common pharmacologic treatments of RLS and ADHD when co-occurring.
+
+METHOD:
+
+A PubMed search.
+
+RESULTS:
+
+In clinical samples, 
+
+* up to *44% of subjects with ADHD have been found to have RLS or RLS symptoms, and 
+
+* up to 26% of subjects with RLS have been found to have ADHD or ADHD symptoms. 
+
+Several mechanisms may explain this association. Sleep disruption associated with RLS might lead to inattentiveness, moodiness, and paradoxical overactivity. Diurnal manifestations of RLS, such as restlessness and inattention, might mimic ADHD symptoms. Alternatively, RLS might be comorbid with idiopathic ADHD. Subjects with RLS and a subset of subjects with ADHD might share a common dopamine dysfunction. Limited evidence suggests that some dopaminergic agents, such as levodopa/carbidopa, pergolide, and ropinirole, may be effective in children with RLS associated with ADHD symptoms.
+
+CONCLUSIONS:
+
+Although still limited, evidence from clinical studies demonstrates an association between RLS and ADHD or ADHD symptoms. Further clinical studies using standard criteria and procedures are needed to better estimate the degree of association. Epidemiologic studies are required to assess the relationship between ADHD and RLS symptoms in nonclinical samples. Further investigations should address the mechanisms underlying the relationship between RLS and ADHD. Several dopaminergic agents seem to be promising treatment for RLS associated with ADHD symptoms. To date, however, the absence of randomized and blinded controlled studies does not allow evidence-based recommendations.
+
+PMID: 16218085
+
+---
+
+## See also VitaminDWiki
+
+* [ADHD and Vitamin D Deficiency](/posts/adhd-and-vitamin-d-deficiency)
+
+* [Restless Legs Syndrome - Vitamin D, Iron, etc. - many studies](/posts/restless-legs-syndrome-vitamin-d-iron-etc-many-studies)
+
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)

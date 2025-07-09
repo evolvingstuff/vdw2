@@ -66,7 +66,7 @@ PMID:    21523392
 
 * Stability
 
-{IMG(attId="551")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/falls-etc-with-less-than-20-ng.jpg" alt="image">
 
 ## [registered users](https://www.VitaminDWiki.com/tiki-register.php) can [CLICK HERE](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1889) to see PDF
 

@@ -54,6 +54,6 @@ PMID: 21234699
 
 * [People with gut problems are low on vitamin D – April 2011](/posts/people-with-gut-problems-are-low-on-vitamin-d)
 
-* <a href="/posts/prior-to-bariatric-surgery-96-percent-were-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014">Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014</a>
+* [Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014](/posts/prior-to-bariatric-surgery-96-percent-were-vitamin-d-deficient)
 
-* <a href="/posts/vitamin-d-probably-important-for-bariatric-surgery" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D probably important for Bariatric Surgery – April 2018">Vitamin D probably important for Bariatric Surgery – April 2018</a>
+* [Vitamin D probably important for Bariatric Surgery – April 2018](/posts/vitamin-d-probably-important-for-bariatric-surgery)

@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D deficiency 4X more likely in Italian teens if: dark skin, winter, obese, little sun, or use sunscreen</title>
+<link rel=stylesheet href="/css/main.css?v=1752030351"><link rel=stylesheet href="/css/pagination.css?v=1752030351"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030351"></script><script src="/js/search.js?v=1752030351"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D deficiency 4X more likely in Italian teens if: dark skin, winter, obese, little sun, or use sunscreen</h1><time>June 6, 2014</time><div data-pagefind-body><h3 id=prevalence-of-hypovitaminosis-d-and-predictors-of-vitamin-d-status-in-italian-healthy-adolescents>Prevalence of hypovitaminosis D and predictors of vitamin D status in Italian healthy adolescents</h3><p>Italian Journal of Pediatrics 2014, 40:54 doi:10.1186/1824-7288-40-54</p><p>Francesco Vierucci, Marta Del Pistoia, Margherita Fanos, Paola Erba and Giuseppe Saggese</p><p>Background</p><p>Vitamin D plays an important role in health promotion during adolescence. Vitamin D deficiency and insufficiency are common in adolescents worldwide. Few data on vitamin D status and risk factors for hypovitaminosis D in Italian adolescents are currently available.</p><p>Methods</p><p>25-hydroxyvitamin D (25-OH-D) and parathyroid hormone (PTH) levels were evaluated in 427 Italian healthy adolescents (10.0-21.0 years). We used the following cut-off of 25-OH-D to define vitamin D status: deficiency &lt; 50 nmol/L; insufficiency 50-75 nmol/L; sufficiency >= 75 nmol/L. Hypovitaminosis D was defined as 25-OH-D levels &lt; 75.0 nmol/L and severe vitamin D deficiency as 25-OH-D levels &lt; 25.0 nmol/L. We evaluated gender, residence, season of blood withdrawal, ethnicity, weight status, sun exposure, use of sunscreens, outdoor physical activity, and history of fractures as predictors of vitamin D status.</p><p>Results</p><p>Enrolled adolescents had a median serum 25-OH-D level of 50.0 nmol/L, range 8.1-174.7, with 82.2% having hypovitaminosis D. Vitamin D deficiency and insufficiency were detected in 49.9% and 32.3% of adolescents, respectively. Among those with deficiency, 38 subjects were severely deficient (38/427, 8.9% of the entire sample). Non-white adolescents had a higher prevalence of severe vitamin D deficiency than white subjects (6/17-35.3% vs 32/410-7.8% respectively, p = 0.002). Logistic regression showed increased risk of hypovitaminosis D as follows:</p><ul><li><p>blood withdrawal taken in winter-spring (Odds ratio (OR) 5.64) compared to summer-fall period;</p></li><li><p>overweight-obese adolescents (OR 3.89) compared to subjects with normal body mass index (BMI);</p></li><li><p>low sun exposure (OR 5.94) compared to moderate-good exposure and</p></li><li><p>regular use of sunscreens (OR 5.89) compared to non regular use.</p></li><li><p>Adolescents who performed &lt; 3 hours/week of outdoor exercise had higher prevalence of hypovitaminosis D.</p></li></ul><p>Gender, residence, and history of fractures were not associated with vitamin D status. Serum 25-OH-D levels were inversely related to PTH (r = -0.387, p &lt; 0.0001) and BMI-SDS (r = -0.141, p = 0.007). 44/427 (10.3%) adolescents showed secondary hyperparathyroidism.</p><p>Conclusions</p><p>Italian adolescents have high prevalence of vitamin D deficiency and insufficiency. Pediatricians should tackle predictors of vitamin D status, favoring a healthier lifestyle and promoting supplementation in the groups at higher risk of hypovitaminosis D.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/italian.pdf>Download the PDF from VitaminDWiki</a></strong></p><p>&ndash;</p><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><a href=/posts/italian-youth-vitamin-d-deficiency-increased-likelihood-27x-if-winter-5x-if-obese-etc>Italian youth vitamin D deficiency increased likelihood: 27X if winter, 5X if obese, etc. – Aug 2013</a> same authors?</li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>bone</span>
+<span class=tag>falls fractures</span>
+<span class=tag>Obesity</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span>
+<span class=tag>Youth</span></div><div data-pagefind-meta=tags hidden>blood levels, bone, falls fractures, Obesity, vitamin d, vitamin d blood test, Youth</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030351"></script><script src="/js/tiki-redirects.js?v=1752030351"></script><script src="/js/lightspa.js?v=1752030351"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030351",indexUrl:"/search/search_index.json.gz?v=1752030351"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030351"></script></body></html>

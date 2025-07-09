@@ -21,4 +21,4 @@ Do not know the author(s)
 
 ## Here are the names of the sheets of information it contains
 
-{IMG(attId="317")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/google-docs-categories.gif" alt="image">

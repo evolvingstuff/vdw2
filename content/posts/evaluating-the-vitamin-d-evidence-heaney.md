@@ -34,7 +34,15 @@
 
 ## <span>[tiki-download_file.php?fileId=1628]</span> to see entire PDF file
 
-{IMG(attId="367,368,369,370,371,372,373,374,375" max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap01-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap02-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap03-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap04-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap05-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap06-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap07-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap08-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/snap09-dec.-25-2010.gif" alt="image" style="max-width: 400px;">
 
 ---
 

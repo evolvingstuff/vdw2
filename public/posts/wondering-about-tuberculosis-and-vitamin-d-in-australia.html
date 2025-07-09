@@ -1,0 +1,67 @@
+<!doctype html><html><head><meta charset=utf-8><title>Wondering about tuberculosis and Vitamin D in Australia</title>
+<link rel=stylesheet href="/css/main.css?v=1752030352"><link rel=stylesheet href="/css/pagination.css?v=1752030352"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030352"></script><script src="/js/search.js?v=1752030352"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Wondering about tuberculosis and Vitamin D in Australia</h1><time>November 17, 2013</time><div data-pagefind-body><h4 id=vitamin-d-and-vitamin-d-and-tuberculosis-hope-or-hype>Vitamin D and Vitamin D and tuberculosis: hope or hype?</h4><p>Med J Aust 2013; 199 (10): 648-649. Doi: 10.5694/mja13.11174</p><p>Anna P Ralph, MPH, FRACP, PhD, Clinical Research Fellow1</p><p>Robyn M Lucas, MB ChB, PhD, FAFPHM, Associate Professor2</p><p>1 Global and Tropical Health, Menzies School of Health Research, Darwin, NT.</p><p>2 National Centre for Epidemiology and Population Health, Australian National University, Canberra, ACT.</p><p><strong>It may be worthwhile to test for and treat vitamin D deficiency in latent infection, but not in active TB</strong></p><h3 id=no-abstract-outside-of-the-paywall>No abstract outside of the paywall</h3><h4 id=references>References:</h4><ul><li><ol><li>MacLachlan JH, Cowie BC. Epidemiology of tuberculosis and levels of vitamin D in Australia: person, place and time. Med J Aust 2013; 199: 655-656.</li></ol></li><li><ol start=2><li>MacLachlan JH, Lavender CJ, Cowie BC. Effect of latitude on seasonality of tuberculosis, Australia, 2002-2011. Emerg Infect Dis 2012; 18: 1879-1881.</li></ol></li><li><ol start=3><li>Ralph AP, Lucas RM, Norval M. Vitamin D and solar ultraviolet radiation in the risk and treatment of tuberculosis. Lancet Infect Dis 2013; 13: 77-88.</li></ol></li><li><ol start=4><li>Liu PT, Stenger S, Li H, et al. Toll-like receptor triggering of a vitamin D-mediated human antimicrobial response. Science 2006; 311: 1770-1773.</li></ol></li><li><ol start=5><li>Ralph AP, Kelly PM, Anstey NM. L-arginine and vitamin D: novel adjunctive immunotherapies in tuberculosis. Trends Microbiol 2008; 16: 336-344.</li></ol></li><li><ol start=6><li>Selvaraj P, Prabhu Anand S, Harishankar M, Algarasu K. Plasma 1,25 dihydroxy vitamin D3 level and expression of vitamin D receptor and cathelicidin in pulmonary tuberculosis. J Clin Immunol 2009; 29: 470-478.</li></ol></li><li><ol start=7><li>Conesa-Botella A, Meintjes G, Coussens AK, et al. Corticosteroid therapy, vitamin D status, and inflammatory cytokine profile in the HIV-tuberculosis immune reconstitution inflammatory syndrome. Clin Infect Dis 2012; 55: 1004-1011.</li></ol></li><li><ol start=8><li>Ralph AP, Waramori G, Pontororing GJ, et al. L-arginine and vitamin D adjunctive therapies in pulmonary tuberculosis: a randomised, double-blind, placebo-controlled trial. PLOS One 2013; 8: e70032.</li></ol></li><li><ol start=9><li>Wejse C, Gomes VF, Rabna P, et al. Vitamin D as supplementary treatment for tuberculosis: a double-blind, randomized, placebo-controlled trial. Am J Respir Crit Care Med 2009; 179: 843-850.</li></ol></li><li><ol start=10><li>Martineau AR, Timms PM, Bothamley GH, et al. High-dose vitamin D(3) during intensive-phase antimicrobial treatment of pulmonary tuberculosis: a double-blind randomised controlled trial. Lancet 2011; 377: 242-250.</li></ol></li><li><ol start=11><li>Lavender TW, Martineau AR, Quinton R, Schwab U. Severe hypercalcaemia following vitamin D replacement for tuberculosis-associated hypovitaminosis D. Int J Tuberc Lung Dis 2012; 16: 140.</li></ol></li><li><ol start=12><li>Coussens AK, Wilkinson RJ, Hanifa Y, et al. Vitamin D accelerates resolution of inflammatory responses during tuberculosis treatment. Proc Natl Acad Sci U S A 2012; 109: 15449-15454.</li></ol></li><li><ol start=13><li>Nursyam EW, Amin Z, Rumende CM. The effect of vitamin D as supplementary treatment in patients with moderately advanced pulmonary tuberculous lesion. Acta Med Indones 2006; 38: 3-5.</li></ol></li><li><ol start=14><li>Salahuddin N, Ali F, Hasan Z, et al. Vitamin D accelerates clinical recovery from tuberculosis: results of the SUCCINCT Study <span>[Supplementary Cholecalciferol in recovery from tuberculosis]</span>. A randomized, placebo-controlled, clinical trial of vitamin D supplementation in patients with pulmonary tuberculosis. BMC Infect Dis 2013; 13: 22.</li></ol></li><li><ol start=15><li>Talat N, Perry S, Parsonnet J, et al. Vitamin D deficiency and tuberculosis progression. Emerg Infect Dis 2010; 16: 853-855.</li></ol></li><li><ol start=16><li>Vieth R. Vitamin D nutrient to treat TB begs the prevention question. Lancet 2011; 377: 189-190.</li></ol></li><li><ol start=17><li>Royal College of Pathologists of Australasia. Use and interpretation of vitamin D testing. Position statement. May 2013. <a href=http://www.aims.org.au/documents/item/347>http://www.aims.org.au/documents/item/347</a> (accessed Sep 2013).</li></ol></li><li><ol start=18><li>Perterlik M. Vitamin D insufficiency and chronic diseases: hype and reality. Food Funct 2012; 3: 784-794.</li></ol></li><li><ol start=19><li>Michaëlsson K, Baron JA, Snellman G, et al. Plasma vitamin D and mortality in older men: a community-based prospective cohort study. Am J Clin Nutr 2010; 92: 841-848.</li></ol></li><li><ol start=20><li>Dror Y, Giveon SM, Hoshen M, et al. Vitamin D levels for preventing acute coronary syndrome and mortality: evidence of a nonlinear association. J Clin Endocrinol Metab 2013; 98: 2160-2167.</li></ol></li><li><ol start=21><li>Nielsen NO, Skifte T, Andersson M, et al. Both high and low serum vitamin D concentrations are associated with tuberculosis: a case-control study in Greenland. Br J Nutr 2010; 104: 1487-1491.</li></ol></li><li><ol start=22><li>Cannell J. Why should you keep your vitamin D level around 50 ng/ml? Vitamin D Council Newsletter 2011, 23 Sep.</li></ol></li></ul><hr><h4 id=see-alsovitamindwiki>See also VitaminDWiki</h4><ul><li><p><a href=/posts/overview-tuberculosis-and-vitamin-d>Overview Tuberculosis and Vitamin D</a></p></li><li><p><a href=/posts/tuberculosis-varies-with-uvb-in-australia>Tuberculosis varies with UVB in Australia - March 2013</a></p></li><li><p><a href=/posts/every-tb-patient-benefited-from-2-doses-of-600000-iu-of-vitamin-d-rct>Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013</a> <strong>Treatment, not just prevention</strong></p></li><li><p><a href=/posts/vitamin-d-probably-can-prevent-and-treat-tb-and-infectious-diseases-2012>Vitamin D probably can prevent and treat TB and infectious diseases – 2012</a></p></li><li><p><a href=/posts/tb-treatment-helped-with-vitamin-d-rct>TB treatment helped with Vitamin D – RCT Sept 2012</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bacteria</span>
+<span class=tag>blood levels</span>
+<span class=tag>dosage</span>
+<span class=tag>genetics</span>
+<span class=tag>life span</span>
+<span class=tag>mortality</span>
+<span class=tag>tuberculosis</span>
+<span class=tag>Tuberculosis</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>bacteria, blood levels, dosage, genetics, life span, mortality, tuberculosis, Tuberculosis, vitamin d, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030352"></script><script src="/js/tiki-redirects.js?v=1752030352"></script><script src="/js/lightspa.js?v=1752030352"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030352",indexUrl:"/search/search_index.json.gz?v=1752030352"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030352"></script></body></html>

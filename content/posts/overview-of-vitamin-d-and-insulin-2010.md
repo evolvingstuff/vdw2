@@ -43,11 +43,11 @@ Impaired vitamin D status has been linked to the development of type 2 diabetes.
 
 * [4000 IU vitamin D improved glycemic control for type 1 diabetes – Nov 2010](/posts/4000-iu-vitamin-d-improved-glycemic-control-for-type-1-diabetes)
 
-* <a href="/posts/low-vitamin-d-predicts-all-cause-mortality-in-type-2-diabetes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1003">Low vitamin D predicts all cause mortality in Type 2 Diabetes – Oct 2010</a>
+* [Low vitamin D predicts all cause mortality in Type 2 Diabetes – Oct 2010](/posts/low-vitamin-d-predicts-all-cause-mortality-in-type-2-diabetes)
 
-* <a href="/posts/review-of-vitamin-d-deficiency-and-diabetes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 805">Review of vitamin D deficiency and diabetes – Aug 2010</a>
+* [Review of vitamin D deficiency and diabetes – Aug 2010](/posts/review-of-vitamin-d-deficiency-and-diabetes)
 
-* <a href="/posts/type-2-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 709">Type 2 Diabetes and vitamin D – Aug 2010</a>
+* [Type 2 Diabetes and vitamin D – Aug 2010](/posts/type-2-diabetes-and-vitamin-d)
 
 * [CDC confirms association between more vitamin D and less insulin – Jan 2011](/posts/cdc-confirms-association-between-more-vitamin-d-and-less-insulin)
 
@@ -55,4 +55,8 @@ Impaired vitamin D status has been linked to the development of type 2 diabetes.
 
 # Tables from paper - notice much better results when >4,000 IU DAILY
 
-{IMG(attId="400, 401, 402, 403, 404")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/insulin-t1.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/insulin-t2a.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/insulin-t2b.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/insulin-t3.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/insulin-t4.gif" alt="image">

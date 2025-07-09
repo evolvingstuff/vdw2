@@ -74,18 +74,18 @@ You can get sun, radioactivity, poisons, etc, providing you do not get too much 
 
 ### See also VitaminDWiki
 
-* <a href="/posts/australian-dermatologists-had-lower-vitamin-d-levels-than-elderly-in-hospitals-2009" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Australian dermatologists had lower vitamin D levels than elderly in hospitals – 2009">Australian dermatologists had lower vitamin D levels than elderly in hospitals – 2009</a>
+* [Australian dermatologists had lower vitamin D levels than elderly in hospitals – 2009](/posts/australian-dermatologists-had-lower-vitamin-d-levels-than-elderly-in-hospitals-2009)
 
-* <a href="/posts/less-solar-radiation-was-associated-with-more-cancer-1941" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less Solar Radiation was associated with more Cancer - 1941">Less Solar Radiation was associated with more Cancer - 1941</a> 
+* [Less Solar Radiation was associated with more Cancer - 1941](/posts/less-solar-radiation-was-associated-with-more-cancer-1941) 
 
-* <a href="/posts/sunshine-dangerous-or-healthy-schachter-center-2009" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunshine: Dangerous or Healthy – Schachter Center 2009">Sunshine: Dangerous or Healthy – Schachter Center 2009</a>
+* [Sunshine: Dangerous or Healthy – Schachter Center 2009](/posts/sunshine-dangerous-or-healthy-schachter-center-2009)
 
-* <a href="/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013">Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013</a>
+* [Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013](/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013)
 
-* <a href="/posts/sunny-side-of-the-hill-is-the-healthiest-400bc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunny side of the hill is the healthiest – 400BC">Sunny side of the hill is the healthiest – 400BC</a>
+* [Sunny side of the hill is the healthiest – 400BC](/posts/sunny-side-of-the-hill-is-the-healthiest-400bc)
 
 * <a href="/posts/overview-suntans-and-melanoma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans and melanoma</a> contains the following graph
 
-{IMG(fileId="1158")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 <!-- ~tc~ (alias(Native American Indians mostly died of skin cancer)) ~/tc~ -->

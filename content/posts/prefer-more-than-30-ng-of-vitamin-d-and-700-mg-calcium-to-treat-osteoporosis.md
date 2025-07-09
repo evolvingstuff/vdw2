@@ -59,41 +59,41 @@ Inadequate serum 25-hydroxyvitamin D (25<span>[OH]</span>D) concentrations are a
 
 * [Wrist fracture is also associated with vitamin D inadequacy – Feb 2011](/posts/wrist-fracture-is-also-associated-with-vitamin-d-inadequacy)
 
-* <a href="/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 984">National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010</a> 800 to 1000 IU daily for elderly
+* [National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010](/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010) 800 to 1000 IU daily for elderly
 
-* <a href="/posts/vitamin-d-for-elderly-800-to-2000-iu-osteoporosis-canada" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 969">Vitamin D for elderly 800 to 2000 IU - Osteoporosis Canada - Sept 2010</a>
+* [Vitamin D for elderly 800 to 2000 IU - Osteoporosis Canada - Sept 2010](/posts/vitamin-d-for-elderly-800-to-2000-iu-osteoporosis-canada)
 
-* <a href="/posts/lowest-cost-osteoporosis-treatment-was-vitamin-d-and-calcium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1109">Lowest cost osteoporosis treatment was vitamin D and Calcium – Oct 2010</a>
+* [Lowest cost osteoporosis treatment was vitamin D and Calcium – Oct 2010](/posts/lowest-cost-osteoporosis-treatment-was-vitamin-d-and-calcium)
 
 * <a href="/posts/half-of-orthopedic-surgeries-had-vitamin-d-less-than-32-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1256">Half of orthopedic surgeries had vitamin D less than 32 ng – Dec 2010</a> 
 
 * [Noticed bones heal faster when more than 60 ng of vitamin D](/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d)
 
-* <a href="/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1036">Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010</a>
+* [Low vitamin D before orthopedic surgery – dark skin 5X more likely – Oct 2010](/posts/low-vitamin-d-before-orthopedic-surgery-dark-skin-5x-more-likely)
 
    * suspect not just dark skin, but those also at risk of being low on vitamin D: sunlight, elderly, medical problems, etc.
 
-* <a href="/posts/hip-surgery-followed-by-100000-iu-then-1000-iu-of-vitamin-d-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 482">Hip surgery followed by 100000 IU, then 1000 IU of vitamin D daily – June 2010</a>
+* [Hip surgery followed by 100000 IU, then 1000 IU of vitamin D daily – June 2010](/posts/hip-surgery-followed-by-100000-iu-then-1000-iu-of-vitamin-d-daily)
 
-* <a href="/posts/upper-body-bones-fractured-along-with-hip-when-extremely-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1025">Upper body bones fractured along with hip when extremely low on vitamin D – Sept 2010</a>
+* [Upper body bones fractured along with hip when extremely low on vitamin D – Sept 2010](/posts/upper-body-bones-fractured-along-with-hip-when-extremely-low-on-vitamin-d)
 
 * <a href="/posts/low-cost-co-factors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Low cost co-factors for vitamin D</a>  More than Calcium is needed for healthy bones
 
 * [Vitamin D and Fracture Prevention – June 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1173)
 
-* <a href="/posts/vitamin-d-and-calcium-for-the-prevention-of-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 99">Vitamin D and calcium for the prevention of fractures</a>
+* [Vitamin D and calcium for the prevention of fractures](/posts/vitamin-d-and-calcium-for-the-prevention-of-fractures)
 
 * [Cochrane review finds that Vitamin D helps prevent fractures– downloaded Feb 2010](https://www.VitaminDWiki.com/tiki-index.php?page=Cochrane+review+finds+that+Vitamin+D+helps+prevent+fractures%E2%80%93+downloaded+Feb+2010)
 
 * [Osteoporosis reduced by 800 or more IU of vitamin D - July 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1333)
 
-* <a href="/posts/both-calcium-and-vitamin-d-needed-to-prevent-elderly-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 995">Both Calcium AND vitamin D needed to prevent elderly fractures – Sept 2010</a>
+* [Both Calcium AND vitamin D needed to prevent elderly fractures – Sept 2010](/posts/both-calcium-and-vitamin-d-needed-to-prevent-elderly-fractures)
 
 * <a href="/posts/would-there-be-fewer-stress-and-bone-fractures-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 974">Would there be fewer stress and bone fractures with vitamin D?</a>
 
-* <a href="/posts/4000-iu-vitamin-d-intervention-helped-elderly-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1058">4000 IU Vitamin D intervention helped elderly bones – March 2010</a>
+* [4000 IU Vitamin D intervention helped elderly bones – March 2010](/posts/4000-iu-vitamin-d-intervention-helped-elderly-bones)
 
-* <a href="/posts/890-iu-of-vitamin-d-and-1200-mg-calcium-improved-bone-density" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 614">890 IU of vitamin D and 1200 mg Calcium improved bone density – July 2010</a>
+* [890 IU of vitamin D and 1200 mg Calcium improved bone density – July 2010](/posts/890-iu-of-vitamin-d-and-1200-mg-calcium-improved-bone-density)
 
 * <a href="/posts/calcium-and-just-900-iu-of-vitamin-d-can-improve-bone-density" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 591">Calcium and just 900 IU of vitamin D can improve Bone Density – July 2010</a>
 
@@ -101,6 +101,6 @@ Inadequate serum 25-hydroxyvitamin D (25<span>[OH]</span>D) concentrations are a
 
    * 400 IU is the least amount of vitamin D - wonder how low of vitamin D needed if take all of the co-factors
 
-* <a href="/posts/hip-fractures-in-india-editorial-with-recommendation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 905">Hip fractures in India - editorial with recommendation Sept 2010</a>
+* [Hip fractures in India - editorial with recommendation Sept 2010](/posts/hip-fractures-in-india-editorial-with-recommendation)
 
 * [75 percent of hip fractures associated with vitamin D deficiency - Jan 2011](/posts/75-percent-of-hip-fractures-associated-with-vitamin-d-deficiency)

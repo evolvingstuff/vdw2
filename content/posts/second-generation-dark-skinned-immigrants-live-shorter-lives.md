@@ -22,7 +22,7 @@
 
 A chart in by Dr. Grimes in the UK  [Video June 2011](http://www.youtube.com/watch?v=TIo9a56nOwI)
 
-{IMG(attId="861")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/second-generation-dark-skin.gif" alt="image">
 
 ## Note that children from Bangladesh do not die as much as those from Pakistan - with similar skin color
 
@@ -44,6 +44,6 @@ A chart in by Dr. Grimes in the UK  [Video June 2011](http://www.youtube.com/wat
 
 * [Graphs of diseases vs vitamin D levels - and D3 vs D2- April 2011](/posts/graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2)  same presentation
 
-* <a href="/posts/genes-affect-vitamin-d-processing-in-many-places-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 764">Genes affect vitamin D processing in many places - 2010</a>
+* [Genes affect vitamin D processing in many places - 2010](/posts/genes-affect-vitamin-d-processing-in-many-places-2010)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)

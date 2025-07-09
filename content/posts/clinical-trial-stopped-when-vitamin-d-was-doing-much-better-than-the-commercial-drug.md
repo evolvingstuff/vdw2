@@ -68,4 +68,4 @@ vs.
 
 # See also VitaminDWiki
 
-* <a href="/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1026">Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010</a>
+* [Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010](/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm)

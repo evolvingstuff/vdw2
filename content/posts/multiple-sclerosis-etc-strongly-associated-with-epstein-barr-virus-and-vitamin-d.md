@@ -138,11 +138,11 @@ High-dose vitamin D3 supplementation selectively reduces anti-EBNA-1 antibody le
 
 #### Epstein-Barr Virus and Mononucleosis
 
-* <a href="/posts/yet-another-virus-associated-with-low-vitamin-d-mononucleosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Yet another virus associated with low vitamin D – mononucleosis – Aug 2016">Yet another virus associated with low vitamin D – mononucleosis – Aug 2016</a>
+* [Yet another virus associated with low vitamin D – mononucleosis – Aug 2016](/posts/yet-another-virus-associated-with-low-vitamin-d-mononucleosis)
 
-* <a href="/posts/infectious-mononucleosis-virus-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infectious Mononucleosis (virus) and Vitamin D - many studies">Infectious Mononucleosis (virus) and Vitamin D - many studies</a>
+* [Infectious Mononucleosis (virus) and Vitamin D - many studies](/posts/infectious-mononucleosis-virus-and-vitamin-d-many-studies)
 
-* <a href="/posts/infectious-mononucleosis-and-lack-of-uv-linearly-linked-to-ms-in-england" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011">Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011</a>
+* [Infectious mononucleosis and lack of UV linearly linked to MS in England – April 2011](/posts/infectious-mononucleosis-and-lack-of-uv-linearly-linked-to-ms-in-england)
 
 ---
 

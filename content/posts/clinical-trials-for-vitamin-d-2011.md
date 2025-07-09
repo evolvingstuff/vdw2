@@ -460,15 +460,15 @@ Examples
 
 50 	Recruiting 	A Study of Pre-Operative Treatment of Newly-Diagnosed, Surgically-Resectable Osteosarcoma With Doxorubicin, Ifosfamide, Etoposide, and Cisplatin With Early Metabolic Assessment of Response
 
-# Map of the vitamin D clinical trials around the world - updated since Jan 2010{IMG(attId="416")}{IMG}
+# Map of the vitamin D clinical trials around the world - updated since Jan 2010<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/clinical-trial-interventions-since-jan-2010.gif" alt="image">
 
 # See also at VitaminDWiki
 
 * [Vitamin D trials, studies, and meta-analysis - Dec 2010](/posts/vitamin-d-trials-studies-and-meta-analysis)
 
-* <a href="/posts/clinical-trials-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 20">Clinical Trials Vitamin D - Feb 2010</a> - full list of names - which can be searched
+* [Clinical Trials Vitamin D - Feb 2010](/posts/clinical-trials-vitamin-d) - full list of names - which can be searched
 
-* <a href="/posts/clinical-trials-update" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 966">Clinical Trials update Sept 2010</a> includes grouping by some major diseases
+* [Clinical Trials update Sept 2010](/posts/clinical-trials-update) includes grouping by some major diseases
 
 * <a href="/posts/intervention-add-vitamin-d-and-see-what-happens" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">Intervention - add vitamin D and see what happens</a>
 

@@ -49,9 +49,9 @@
 
    * feeling more calm and peaceful, etc. - relative to the general population.
 
-{IMG(attId="594"max="800")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/7th-day-mental-quality-of-life.png" alt="image" style="max-width: 800px;">
 
-{IMG(attId="595"max="800")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/7th-day-physical-quality-of-life.png" alt="image" style="max-width: 800px;">
 
 graphics are in PDF file attached to the bottom of this page
 
@@ -65,7 +65,7 @@ A comment by them "In this study, there was nothing that linked any one nutrient
 
 ### More time in the sun
 
-{IMG(attId="596")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/7th-day-lifestyle.png" alt="image">
 
 #### [in June 2008 the Adventist Church](http://www.adventistreview.org/issue.php?issue=2008-1518&page=16) recommended <span style="color:#F00;">20 minutes a day of sun</span>
 

@@ -102,4 +102,4 @@ In  this  Perspective,  we  have  deliberately  avoided  a  mindnumbing laundry 
 
 * <a href="/posts/vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations</a> mainly since 2009  in both IU and ng
 
-* <a href="/posts/us-admits-math-mistake-was-made-in-2010-in-estimating-vitamin-d-but-will-not-change-recommendations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: US admits math mistake was made in 2010 in estimating Vitamin D, but will not change recommendations – Nov 2017">US admits math mistake was made in 2010 in estimating Vitamin D, but will not change recommendations – Nov 2017</a>
+* [US admits math mistake was made in 2010 in estimating Vitamin D, but will not change recommendations – Nov 2017](/posts/us-admits-math-mistake-was-made-in-2010-in-estimating-vitamin-d-but-will-not-change-recommendations)

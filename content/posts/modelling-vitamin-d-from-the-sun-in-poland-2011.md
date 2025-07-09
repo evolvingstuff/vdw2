@@ -83,7 +83,7 @@ The BE doses are expressed in hundreds of BE Joules per square meter. The standa
 
 ## Table 1
 
-{IMG(attId="766" max="900")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/modelingt1.png" alt="image" style="max-width: 900px;">
 
 Tables 1 and 2 include the monthly means of daily and fractional BE doses, corresponding to a hypothetical behavior of Polish indoor workers. The daily UV exposure are calculated from a 1 min series of the BE irradiances. The mean ratio of the vitamin D action spectrum weighed UV, and the erythemal weighted UV, reaches the late spring/summer plateau (May-August) of 1.7-1.8, and the winter (December-January) minimum of 0.8, that corresponds to the ratios found at mid-latitudinal Canadian stations <sup>[29]</sup>.
 
@@ -109,7 +109,7 @@ Month Mean daily dose in SDD
 
 ## Figure1
 
-{IMG(attId="767")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/modelingf1.png" alt="image">
 
 Fig. 1. Erythemally weighted fractional daily exposures based on the UV measurements at Belsk, central Poland, in 2010 for 1 h (2 h) outdoor activity symmetrical around noon in the cold (warm) subperiod of the year. A subject receives 15% of ambient exposures. The cold subperiod is for 16 October-14 April. The horizontal line shows the 1 MED threshold (2.5 SED) for the skin phototype II.
 
@@ -127,7 +127,7 @@ A(t) = 0.12.
 
 ## Figure 2
 
-{IMG(attId="768")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/modelingf2.png" alt="image">
 
 Fig. 2. Time series of the serum 25(OH)D concentration changes using the indoor experiment scenario <sup>[21]</sup>. The subjects had 12% of the whole body irradiated four times (in 1st day, 3rd, 6th, and 8th day) with 0.75,1.5, and 3.0 SED. The solid lines show the calculation with constant F =7.12, 5.41, and 3.24 nmol L-1 per SDD, respectively, to match the observed concentration at 10th day. Dashed lines represent the time series from Diffey model <sup>[17]</sup> assuming F= 13 nmol L-1 per SED for the whole body exposure.
 
@@ -143,7 +143,7 @@ An analytical form of AD, with u = 4 (Fig. 4), is arbitrarily selected. The func
 
 ## Figure 4
 
-{IMG(attId="771")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/modelingf4.png" alt="image">
 
 Fig. 4. The adjustment function (AD) parameterizing the photodegradation of vitamin D.
 
@@ -171,7 +171,7 @@ z
 
 ## Figure3
 
-{IMG(attId="769")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/modelingf3.png" alt="image">
 
 Fig. 3. F normalizing factor used in calculation of the 25(OH)D increase after single UV exposure of 12% of the whole body based on the experimental data <sup>[21]</sup> (points). Curve represents an approximation function describing the dependence of F on the effective exposures (in SDD).
 

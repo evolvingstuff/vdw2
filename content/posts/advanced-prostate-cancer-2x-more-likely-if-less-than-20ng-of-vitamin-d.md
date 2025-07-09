@@ -49,7 +49,7 @@ PMID: 22033893
 
 * [All items inn Prostate Cancer and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=43&sort_mode=created_desc) 31 items March 2012
 
-* <a href="/posts/epigenetics-of-prostate-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 592">Epigenetics of prostate cancer and vitamin D – June 2010</a>
+* [Epigenetics of prostate cancer and vitamin D – June 2010](/posts/epigenetics-of-prostate-cancer-and-vitamin-d)
 
 * <a href="/posts/16-percent-less-prostate-cancer-sometimes-for-each-10ng-vitamin-d-increase" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1290">16 percent less Prostate Cancer sometimes for each 10ng vitamin D increase - Jan 2011</a>
 

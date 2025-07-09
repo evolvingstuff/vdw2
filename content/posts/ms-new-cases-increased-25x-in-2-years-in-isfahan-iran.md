@@ -80,11 +80,11 @@ Received July 29, 2010;     Revision received November 18, 2010;     Revision re
 
 ## Everything on this map is North of the Equator
 
-{IMG(attId="576")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/middle-east-map.png" alt="image">
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 691">Overview MS and Vitamin D</a>
+* [Overview MS and Vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [23 ng of vitamin D in sunny Israel – Dec 2010](/posts/23-ng-of-vitamin-d-in-sunny-israel)
 
@@ -94,15 +94,15 @@ Received July 29, 2010;     Revision received November 18, 2010;     Revision re
 
 * <a href="/posts/arab-pre-term-infants-often-have-less-than-10-ng-of-vitamin-d-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 741">Arab pre-term infants often have less than 10 ng of vitamin D - 2010</a> 
 
-* <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Air Conditioning probably has decreased vitamin D</a> from a book
+* [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d) from a book
 
 * [Diabetes rising quickly in areas with recent air conditioning – June 2011](/posts/diabetes-rising-quickly-in-areas-with-recent-air-conditioning)
 
 * [Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011](/posts/hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d)
 
-* <a href="/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 201">Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010</a>
+* [Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010](/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low)
 
-* <a href="/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 611">Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010</a>
+* [Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010](/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis)
 
 * [Parkinson disease increased in Israel by 50 percent in 7 years – June 2011](/posts/parkinson-disease-increased-in-israel-by-50-percent-in-7-years)
 

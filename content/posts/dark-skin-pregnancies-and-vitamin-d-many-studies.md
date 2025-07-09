@@ -51,7 +51,7 @@
 
 * 2X more likely to be premature 
 
-* 2X more likely for infant to die in first year – <a href="/posts/african-american-medical-risks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 721">African-American medical risks</a> has chart
+* 2X more likely for infant to die in first year – [African-American medical risks](/posts/african-american-medical-risks) has chart
 
 * 4X higher maternal mortality rate 
 
@@ -61,7 +61,7 @@
 
 > live [far from equator](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=63&sort_mode=created_desc) 
 
-> have darker skin – <a href="/posts/vitamin-d-blood-levels-vary-with-estimated-amount-of-african-ancestry" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 910">Vitamin D blood levels vary with estimated amount of African Ancestry – Sept 2010</a>
+> have darker skin – [Vitamin D blood levels vary with estimated amount of African Ancestry – Sept 2010](/posts/vitamin-d-blood-levels-vary-with-estimated-amount-of-african-ancestry)
 
 > <a href="/posts/obese" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Obese</a>
 
@@ -95,7 +95,7 @@
 
 > [Fibroids - Vitamin D](https://www.google.com/search?num=20&rlz=1C1CHFX_enUS598US598&ei=1nFXWtv9BMbMjwPy2amwDw&q=Fibroids+%22vitamin+d%22&oq=Fibroids+%22vitamin+d%22&gs_l=psy-ab.3..0i7i30k1l2j0i30k1j0i5i30k1j0i7i5i30k1j0i8i30k1l5.55028.57388.0.57972.2.2.0.0.0.0.108.196.1j1.2.0....0...1c.1.64.psy-ab..0.2.194....0.oTGLx0SjZ5c)
 
-> Preeclampsia - vitamin D <a href="/posts/risk-of-preeclampsia-might-be-cut-in-half-if-take-an-amount-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017">Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017</a>
+> Preeclampsia - vitamin D [Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017](/posts/risk-of-preeclampsia-might-be-cut-in-half-if-take-an-amount-of-vitamin-d-meta-analysis)
 
 > [Uterine Rupture - vitamin D](https://www.google.com/search?num=20&rlz=1C1CHFX_enUS598US598&ei=k3BXWpuJB5e2jwPS36zIDA&q=%22Uterine+Rupture%2C%22+%22vitamin+d%22&oq=%22Uterine+Rupture%2C%22+%22vitamin+d%22&gs_l=psy-ab.3...146503.148573.0.149496.2.2.0.0.0.0.97.177.2.2.0....0...1c.1.64.psy-ab..0.1.96...0j0i67k1j0i7i30k1.0.JnCCi107JFw)
 
@@ -113,7 +113,7 @@
 
    * It is a big mystery.  Vitamin D is not mentioned. It has the following graphic
 
-{IMG(attId="817")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/racial-disparity-nyt.png" alt="image">
 
 * [Maternal mortality - Exceptionally deadly](https://www.economist.com/united-states/2015/07/16/exceptionally-deadly) Economist July 2015
 

@@ -21,7 +21,7 @@
 }
 
 
-#### Update <a href="/posts/alaska-recommends-more-vitamin-d-infancy-800-iu-pregnancy-1400-iu-avoid-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alaska recommends more vitamin D: Infancy 800 IU, Pregnancy 1400 IU (avoid rickets) Sept 2018">Alaska recommends more vitamin D: Infancy 800 IU, Pregnancy 1400 IU (avoid rickets) Sept 2018</a>
+#### Update [Alaska recommends more vitamin D: Infancy 800 IU, Pregnancy 1400 IU (avoid rickets) Sept 2018](/posts/alaska-recommends-more-vitamin-d-infancy-800-iu-pregnancy-1400-iu-avoid-rickets)
 
 ### [Update Feb 2013 Alaska House Bill 90](http://www.adn.com/2013/02/23/2799920/legislator-wants-to-test-alaska.html) Vitamin D newborn testing
 
@@ -41,7 +41,7 @@ HCR 5 calls upon the State of Alaska to  **adopt a prevention model of public he
 
 Seaton gave out a voucher for a free bottle of vitamin D and had  about 1/3 of the Alaska House members take him up on it 
 
-{IMG(attId="384")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/paul-seaton.png" alt="image">
 
 Representative.Paul.Seaton@akleg.gov
 
@@ -79,7 +79,7 @@ Cost to give Vitamin D free to every Alaskan for a year = $25 ($0.20/capsule, 25
 
 5% Reduction in medical care cost due to the extra vitamin D (extremely conservative)
 
-&nbsp; &nbsp; <a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Does Less Sun mean More Disease</a> video shows 3X fewer doctor after vitamin D levels were raised
+&nbsp; &nbsp; [Does Less Sun mean More Disease](/posts/does-less-sun-mean-more-disease) video shows 3X fewer doctor after vitamin D levels were raised
 
 So very conservative  cost savings would be 5% X $10,000 = $500
 

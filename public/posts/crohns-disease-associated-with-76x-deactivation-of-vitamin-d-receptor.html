@@ -1,0 +1,76 @@
+<!doctype html><html><head><meta charset=utf-8><title>Crohn's disease associated with 7.6X deactivation of Vitamin D receptor</title>
+<link rel=stylesheet href="/css/main.css?v=1752030344"><link rel=stylesheet href="/css/pagination.css?v=1752030344"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030344"></script><script src="/js/search.js?v=1752030344"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Crohn's disease associated with 7.6X deactivation of Vitamin D receptor</h1><time>September 12, 2015</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#spanan-analysis-of-vitamin-d-receptor-gene-polymorphisms-and-serum-25-hydroxyvitamin-d-levels-in-patients-with-crohns-diseasespan><span>[An analysis of vitamin D receptor gene polymorphisms and serum 25-hydroxyvitamin D levels in patients with Crohn&rsquo;s disease]</span></a></li></ul></li></ul></li></ul></nav><hr><h4 id=spanan-analysis-of-vitamin-d-receptor-gene-polymorphisms-and-serum-25-hydroxyvitamin-d-levels-in-patients-with-crohns-diseasespan><span>[An analysis of vitamin D receptor gene polymorphisms and serum 25-hydroxyvitamin D levels in patients with Crohn&rsquo;s disease]</span></h4><p><span>[Article in Chinese]</span></p><p>Zhonghua Nei Ke Za Zhi. 2015 Jul;54(7):601-6.</p><p>Xia S, Lin X, Guo M, Jiang L, Jin J, Lin X, Ding R, Li S, Jiang Y1.</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:700px"><ul><li><p><a href=/posts/28x-higher-risk-of-osteoporosis-if-copd-and-modified-vitamin-d-receptor-genes>2.8X higher risk of osteoporosis if COPD and modified vitamin D receptor genes – Sept 2015</a></p></li><li><p><a href=/posts/alzheimers-disease-is-associated-with-genes-which-restrict-vitamin-d>Alzheimer’s Disease is associated with genes which restrict vitamin D – Aug 2015</a></p></li><li><p><a href=/posts/benefits-of-vitamin-d-often-limited-by-genes>Benefits of Vitamin D often limited by genes</a></p></li><li><p><a href=/posts/crohns-disease-treated-by-2000-iu-vitamin-d-rct>Crohn&rsquo;s disease treated by 2000 IU Vitamin D - RCT June 2015</a></p></li><li><p><a href="https://VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=crohn%27s&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for Crohn&rsquo;s </a>1290 items as of Nov 2019</p></li></ul><p><strong>The risk of <span style=color:red>44 </span>diseases at least double with poor <a href=/categories/vitamin-d-receptor>Vitamin D Receptor</a> as of Oct 2019</strong></p><p><strong><a href=/posts/vitamin-d-receptor-activation-can-be-increased-by-any-of-resveratrol-overview-om-lping-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Vitamin D Receptor)) Activation can be increased by any of: ((Resveratrol)), ((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>, <a href=/posts/magnesium-and-vitamin-d>Magnesium</a>, <a href=/posts/zinc-and-vitamin-d>Zinc</a>, <a href=/categories/better-than-daily>non-daily Vitamin D dosing</a>, <a href=/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor>curcumin</a>, intense exercise, etc<br>    Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators</strong></p><hr><p><strong>Note: Crohn&rsquo;s is 2.7X more associated with poor Receptor than low Vitamin D in the blood<br>        (Odds Ratio = 7.580 vs 2.842)<br><a href=/posts/women-with-breast-cancer-were-169-times-more-likely-to-have-a-poor-vitamin-d-receptor>Breast Cancer</a> has learned how to deactivate the Vitamin D Receptor<br>Wonder if Crohn&rsquo;s Disease has learned the same trick?</strong></p></div><p>OBJECTIVE: To investigate the association of Crohn&rsquo;s disease (CD) with vitamin D receptor (VDR) gene polymorphisms and serum 25-hydroxyvitamin D <span>[25(OH)D]</span> level.</p><p>METHODS: A total of 297 CD patients and 446 healthy controls were enrolled in our study. Four single nucleosides of VDR (Fok I, Bsm I, Apa I and Taq I) were genotyped by SNaPshot. Serum 25(OH)D levels were tested by electro-chemiluminescence immunoassay in 124 CD patients and 188 matched random controls.</p><p>RESULTS:</p><p>By Chi-square test and Bonferroni correction, the frequencies of mutant allele (A) and mutant genotype (GA+AA) of Bsm I were significantly decreased in CD patients compared to controls <a href="3.70%25(22/594)%20vs%207.51%25(67/892),%2095%25%20CI%200.289-0.776,%20P=0.002;%207.41%25(22/297)%20vs%2014.80%25(66/446),%2095%25%20CI%200.277-0.765,%20P=0.002,%20respectively">3.70%(22/594) vs 7.51%(67/892), 95% CI 0.289-0.776, P=0.002; 7.41%(22/297) vs 14.80%(66/446), 95% CI 0.277-0.765, P=0.002, respectively</a>. The similar results were seen for the mutant allele (C) and mutant genotype (TC+CC) of Taq I <a href="4.21%25(25/594)%20vs%207.62%25(68/892),%2095%25%20CI%200.333-0.852,%20P=0.008;%208.42%25(25/297)%20vs%2014.57%25%20(65/446),%2095%25%20CI%200.331-0.877,%20P=0.012">4.21%(25/594) vs 7.62%(68/892), 95% CI 0.333-0.852, P=0.008; 8.42%(25/297) vs 14.57% (65/446), 95% CI 0.331-0.877, P=0.012</a>. The analyses of linkage disequilibrium (LD) and haplotype were performed by Haploview 4.2 and R software, respectively. The Bsm I, Apa I and Taq I polymorphic loci were found to be in a strong LD, and the AAC haplotype was significantly reduced in CD patients compared to controls <span>[3.14% vs 6.46%, 95% CI 0.273-0.815, P=0.004]</span>.</p><p>The further serological analysis showed that average serum 25(OH)D level in CD patients was significantly lower than that of controls <a href=(15.46%C2%B18.11)%20%C2%B5g/L%20vs%20(21.64%C2%B19.45)%20%C2%B5g/L,%20P%3C0.001>(15.46±8.11) µg/L vs (21.64±9.45) µg/L, P&lt;0.001</a>.</p><p>By linear regression analysis, serum 25(OH)D levels in CD patients were negatively correlated to Crohn&rsquo;s disease activity index (β=-0.829, P&lt;0.001), platelet count (β=-0.253, P&lt;0.001) and the ratio of neutrophils (β=-0.136, P=0.005) independently, whereas positively related to erythrocyte sedimentation rate (β=0.191, P=0.001).</p><p>Furthermore, logistic regression analysis was applied for establishing the models of gene-environment interaction. In result, both the mutant genotype (CA+AA) of Apa I and vitamin D deficiency (&lt;20 µg/L) were shown to be the independent risk factors for CD ( <strong>OR = 7.580</strong> , 95% CI 2.983-19.261, P&lt;0.001; <strong>OR=2.842</strong> , 95% CI 1.300-6.211, P=0.009, respectively). Besides, vitamin D deficiency in CD patients had multiplicative interactions with the mutant genotype (TC+CC) of Fok I, genotype (CA+AA) of Apa I and genotype (TC+CC) of Taq I, respectively (OR=0.419, 95% CI 0.194-0.906, P=0.027; OR=0.309, 95% CI 0.111-0.855, P=0.024; OR=5.841, 95% CI 1.082-31.538, P=0.040; respectively).</p><p>CONCLUSIONS:</p><p>VDR (Bsm I, Apa I and Taq I) polymorphisms and serum 25(OH)D levels are significantly related to CD. Both the mutant genotype (CA+AA) of Apa I and vitamin D deficiency are independent risk factors of CD. The mutations of VDR (Fok I, Apa I and Taq I) and vitamin D deficiency might have a synergistic effect on CD susceptibility.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>breast cancer</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>crohns</span>
+<span class=tag>dosage</span>
+<span class=tag>genetics</span>
+<span class=tag>gut</span>
+<span class=tag>Gut</span>
+<span class=tag>magnesium</span>
+<span class=tag>magnesium and cancer</span>
+<span class=tag>omega 3</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span>
+<span class=tag>vitamin d receptor</span>
+<span class=tag>Vitamin D Receptor</span>
+<span class=tag>zinc</span></div><div data-pagefind-meta=tags hidden>bone, bone cancer, breast cancer, cancer, cancer in VDR, crohns, dosage, genetics, gut, Gut, magnesium, magnesium and cancer, omega 3, osteoporosis, vitamin d, vitamin d blood test, vitamin d receptor, Vitamin D Receptor, zinc</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030344"></script><script src="/js/tiki-redirects.js?v=1752030344"></script><script src="/js/lightspa.js?v=1752030344"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030344",indexUrl:"/search/search_index.json.gz?v=1752030344"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030344"></script></body></html>

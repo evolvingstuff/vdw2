@@ -18,7 +18,7 @@
 
 http://www.who.int/uv/uv_and_health/en/index.html
 
-{IMG(attId="354")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/uv-at-who.jpg" alt="image">
 
 # Note: Press Ctrl and '+" concurrently to increase the size of any web page
 

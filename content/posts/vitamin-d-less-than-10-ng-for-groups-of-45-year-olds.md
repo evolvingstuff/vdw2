@@ -61,10 +61,12 @@ Conclusions:  Current vitamin D status was associated  with tPA concentrations, 
 
 * <span style="color:#F00;">10% of those who smoked 1-19 per day had < 10 ng of vitamin D</span>
 
-{IMG(attId="562,563,564")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cohort1.png" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cohort2.png" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cohort3.png" alt="image">
 
 # More obese have less vitamin D
 
-{IMG(attId="565")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-vs-bmi.png" alt="image">
 
 - - - - - -

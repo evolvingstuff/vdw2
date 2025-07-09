@@ -114,7 +114,7 @@ Conclusion: In conclusion, this study found that combining high 25(OH)D levels a
 
 ---
 
-#### <a href="/posts/stroke-mortality-3x-worse-among-seniors-with-less-than-26-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stroke mortality 3X worse among seniors with less than 26 ng of vitamin D – June 2014">Stroke mortality 3X worse among seniors with less than 26 ng of vitamin D – June 2014</a>
+#### [Stroke mortality 3X worse among seniors with less than 26 ng of vitamin D – June 2014](/posts/stroke-mortality-3x-worse-among-seniors-with-less-than-26-ng-of-vitamin-d)
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/stroke-mortality.jpg" alt="image" width="600">
 
@@ -134,19 +134,19 @@ Conclusion: In conclusion, this study found that combining high 25(OH)D levels a
 
 (VitaminDWiki notices that the principal author has published many other papers on cardiovascular problems and low vitamin D levels. Kathryn M. Rexrode krexrode@partners.org)
 
- **See in VitaminDWiki**  <a href="/posts/no-longer-depressed-but-risk-of-stroke-is-still-17x-higher-did-not-consider-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No longer depressed, but risk of stroke is still 1.7X higher (did not consider low vitamin D) – May 2015">No longer depressed, but risk of stroke is still 1.7X higher (did not consider low vitamin D) – May 2015</a>
+ **See in VitaminDWiki**  [No longer depressed, but risk of stroke is still 1.7X higher (did not consider low vitamin D) – May 2015](/posts/no-longer-depressed-but-risk-of-stroke-is-still-17x-higher-did-not-consider-low-vitamin-d)
 
 ---
 
 #### Stroke patients with low vitamin D were 10X more likely to become depressed – Aug 2014
 
-<a href="/posts/stroke-patients-with-low-vitamin-d-were-10x-more-likely-to-become-depressed" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stroke patients with low vitamin D were 10X more likely to become depressed – Aug 2014">Stroke patients with low vitamin D were 10X more likely to become depressed – Aug 2014</a>
+[Stroke patients with low vitamin D were 10X more likely to become depressed – Aug 2014](/posts/stroke-patients-with-low-vitamin-d-were-10x-more-likely-to-become-depressed)
 
 ---
 
 #### Magnesium in water also associated with a reduction in stroke - 2012
 
- **<a href="/posts/100-mg-more-magnesium-in-water-associated-with-8-percent-reduction-in-stroke" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2431">100 mg more Magnesium in water associated with 8 percent reduction in stroke – Feb 2012</a>** 
+ **[100 mg more Magnesium in water associated with 8 percent reduction in stroke – Feb 2012](/posts/100-mg-more-magnesium-in-water-associated-with-8-percent-reduction-in-stroke)** 
 
 Independent evidence shows that Vitamin D and Magnesium both reduce strokes.
 
@@ -162,7 +162,7 @@ Expect that they would do well together - perhaps more than 2X the benefit
 
 * [Rusting from the inside](https://www.youtube.com/watch?v=CGq9q00G48g&t=2s) - Mercola Video - 11 minutes
 
-   * See in VitaminDWiki <a href="/posts/overview-iron-supplements-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Iron Supplements and Vitamin D">Overview Iron Supplements and Vitamin D</a>
+   * See in VitaminDWiki [Overview Iron Supplements and Vitamin D](/posts/overview-iron-supplements-and-vitamin-d)
 
 ---
 
@@ -220,7 +220,7 @@ Neither the region (i.e., climate) nor the race of the patient substantially mod
 
 ### Ischemic Stroke
 
-#### VitaminDWiki <a href="/posts/ischemic-stroke-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ischemic Stroke and Vitamin D - many studies">Ischemic Stroke and Vitamin D - many studies</a>
+#### VitaminDWiki [Ischemic Stroke and Vitamin D - many studies](/posts/ischemic-stroke-and-vitamin-d-many-studies)
 
 ---
 

@@ -42,7 +42,7 @@ Talks about colon cancer, endometrial cancer
 
 * making the final active form in the Kidneys
 
-{IMG(attId="653")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/oz-skin.png" alt="image">
 
 ### Dr. Oz also has some simple table top examples/demos
 
@@ -56,6 +56,6 @@ Talks about colon cancer, endometrial cancer
 
 ## See also VitaminDWiki
 
-* <a href="/posts/dr-oz-recommends-at-least-50-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Oz recommends at least 50 ng of vitamin D">Dr. Oz recommends at least 50 ng of vitamin D</a>
+* [Dr. Oz recommends at least 50 ng of vitamin D](/posts/dr-oz-recommends-at-least-50-ng-of-vitamin-d)
 
 * [Overview Vitamin D books and videos](/posts/overview-vitamin-d-books-and-videos)

@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset=utf-8><title>Lots of Biotonin needed sometimes (excess protein, etc.) - Masterjohn</title>
+<link rel=stylesheet href="/css/main.css?v=1752030346"><link rel=stylesheet href="/css/pagination.css?v=1752030346"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030346"></script><script src="/js/search.js?v=1752030346"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Lots of Biotonin needed sometimes (excess protein, etc.) - Masterjohn</h1><time>January 20, 2023</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#biotonin--vitamin-b7>Biotonin = Vitamin B7</a></li><li><a href=#high-dose-biotin-is-used-for-treatment-of-diabetes-disorders-of-the-hair-skin-and-nails-multiple-sclerosis-and-more-are-the-high-doses-necessary>High-dose biotin is used for treatment of diabetes, disorders of the hair, skin, and nails, multiple sclerosis, and more. Are the high doses necessary?</a></li><li><a href=#biotonin-sections-behind-a-5month-paywall>Biotonin sections behind a $5/month paywall</a></li></ul></li></ul></li></ul></nav><hr><h4 id=biotonin--vitamin-b7>Biotonin = Vitamin B7</h4><hr><h4 id=high-dose-biotin-is-used-for-treatment-of-diabetes-disorders-of-the-hair-skin-and-nails-multiple-sclerosis-and-more-are-the-high-doses-necessary>High-dose biotin is used for treatment of diabetes, disorders of the hair, skin, and nails, multiple sclerosis, and more. Are the high doses necessary?</h4><p><a href=https://substack.com/profile/7110306-chris-masterjohn-phd>Chris Masterjohn, PhD</a>   Disclaimer: I am not a medical doctor and this is not medical advice.</p><p>The use of high-dose biotin supplements has increased almost 30-fold over the last twenty years for such problems as diabetes, smell and taste disorders, disorders of the hair, skin, and nails, and multiple sclerosis. But does anyone actually need them?</p><p>This article covers the safety and efficacy of high-dose biotin for all the conditions documented in the literature, its potential anti-fertility effects, and how and when to balance it with other vitamins.</p><p>In <a href=https://chrismasterjohnphd.substack.com/p/high-protein-you-need-more-biotin>High Protein? You Need More Biotin</a>, I made the case that the 30 micrograms used by the FDA as a Daily Value and set by the National Academy of Medicine as an Adequate Intake, is inadequate for nearly everyone. Most people, I argued, require between 150 and 300 micrograms per day, with the particular amount required dependent on how much protein they eat. Since the average biotin intake is likely in the area of 30-70 micrograms per day, most people need more biotin.</p><p>This suggests that there would be widespread benefit to improving biotin intake from food or from supplementing with between 100 and 250 micrograms per day.</p><p>Yet milligram levels are used for treatment of diabetes, smell and taste disorders, disorders of the hair, skin, and nails, and multiple sclerosis (MS). In fact, the doses used for MS are in the range of 100 to 300 milligrams, up to 1000 times more than I believe necessary for people on high-protein diets and 10,000 times the Daily Value.</p><p>In <a href=https://chrismasterjohnphd.substack.com/p/biotin-causes-false-lab-tests>Biotin Causes a Multitude of False Lab Tests</a>, I described how high-dose biotin supplements — those providing between one and three hundred milligrams per day — can cause wide-ranging errors in lab tests with the potential to mask recent heart attacks, pregnancies, or allergies; to misdiagnose thyroid conditions; to give false signals about the presence or progression of tumors; to falsely raise vitamin D, B12, and folate levels; to falsely alter many hormone levels; to generate false positives for HIV and hepatitis; and to lead to unnecessary surgery and possibly even death as a result of diagnostic errors.</p><p>This can be solved by stopping biotin supplementation for four days before most lab tests, and for seven days before tests for thyroid-related antibodies.</p><p>However, it should give one pause before using high doses of biotin. There is no clearly established toxicity of biotin, but that does not mean there are no adverse effects at any dose. We at least know that using it can cause diagnostic errors if supplementation around lab tests is not carefully managed. Therefore, we should at least ask the question:</p><p><strong>When is it</strong> <strong>better</strong> <strong>to use a high dose than a low dose, and when is it</strong> <strong>necessary</strong> <strong>to use the high dose?</strong></p><h4 id=biotonin-sections-behind-a-5month-paywall>Biotonin sections behind a $5/month paywall</h4><ul><li><p>How Do You Show a High Dose Is Necessary?</p></li><li><p>Biotin-Responsive Genetic Disorders</p></li><li><p>The Discovery of Biotin-Responsive Genetic Disorders</p></li><li><p>The Discovery of Multiple Carboxylase Deficiency</p></li><li><p>Isolated Deficiencies of Other Biotin Carboxylases</p></li><li><p>The Outlier: Biotin Treatment of a Thiamin Transporter Defect</p></li><li><p>What Dose of Biotin is Needed for Genetic Disorders?</p></li><li><p>Higher Doses Work Faster</p></li><li><p>Many Patients Need At Least 10 Milligrams</p></li><li><p>his minimal requirement was close to the 10 milligram dose.</p></li><li><p>5 Milligrams Can Be Tragically Inadequate</p></li><li><p>Different Patients Require Different Doses</p></li><li><p>Massive Doses Rescue “Non-Responsive” Lethal Mutations</p></li><li><p>Are There Any Biotin Non-Responsive Disorders?</p></li><li><p>Dose Conclusions For Genetic Disorders</p></li><li><p>Are These Genetic Disorders “Rare”?</p></li><li><p>Does High-Dose Biotin Have “Pharmacological” Effects?</p></li><li><p>High-Dose Biotin for Loss of Taste</p></li><li><p>High-Dose Biotin for Brittle Nails</p></li><li><p>Biotin and Blood Sugar</p></li><li><p>High-Dose Biotin For Multiple Sclerosis</p></li><li><p>MS and Many Other Neurological Problems The Potential Anti-Fertility Effect of Massive Biotin Doses</p></li><li><p>Do We Need to Balance Biotin With Other Vitamins?</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>cancer</span>
+<span class=tag>diabetes</span>
+<span class=tag>fertility sperm</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>metabolic</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>pregnancy</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>autoimmune, autoimmune and pregnancy, cancer, diabetes, fertility sperm, high dose, intervention, metabolic, multiple sclerosis, multiple sclerosis and pregnancy, pregnancy, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030346"></script><script src="/js/tiki-redirects.js?v=1752030346"></script><script src="/js/lightspa.js?v=1752030346"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030346",indexUrl:"/search/search_index.json.gz?v=1752030346"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030346"></script></body></html>

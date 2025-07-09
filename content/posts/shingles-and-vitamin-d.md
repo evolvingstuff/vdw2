@@ -76,7 +76,7 @@
 
  **2X increase in younger age-groups** 
 
- **see also: <a href="/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Incidence of 22 health problems related to vitamin D have doubled in a decade">Incidence of 22 health problems related to vitamin D have doubled in a decade</a>** 
+ **see also: [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade)** 
 
 all are associated with low Vitamin D
 
@@ -90,7 +90,7 @@ all are associated with low Vitamin D
 
 * [Use Google to search for (zoster OR shingles) magnesium](https://www.google.com/search?num=20&hl=en&site=webhp&q=(zoster%20OR%20shingles)%20magnesium&oq=(zoster%20OR%20shingles)%20magnesium&gs_l=serp.3...125218.135726.0.137918.17.10.2.0.0.0.143.844.9j1.10.0....0...1c.1.64.serp..8.6.382...35i39.DPrFySrK824) 7,180,000 as of Feb 2023
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Vitamin D can reduce the risk of Shingles](http://www.doctorzaidi.com/vitamin-d-shingles.html) Dr. Zaidi
 
@@ -100,7 +100,7 @@ all are associated with low Vitamin D
 
 >  **<span style="color:#00F;">50,000 IU of vitamin D, and shingles pain subsides in an hour or two</span>** 
 
-> VitaminDWiki suggests <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">sublingual pill, spray, powder -Bio-Tech</a> or <a href="/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014">topical</a> for fast action
+> VitaminDWiki suggests [sublingual pill, spray, powder -Bio-Tech](/posts/sublingual-vitamin-d) or [topical](/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct) for fast action
 
 * [Person applied Vitamin D directly on Shingles and also took 15,000 IU internally daily](https://www.vitamindcouncil.org/q-a-forum/topic/is-there-any-research-on-the-use-of-vit-d-on-shingles-a-month-ago-i-was-diagnosed-with-shingles-by-my-doctor-the-pain-was-extreme-on-the-left-side-where-the-lesions-were-but-also-in-the-underlying/) in May 2016
 
@@ -248,7 +248,7 @@ We concluded that prior statin use was associated with HZ occurrence.
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a>
+* [Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies)
 
 ---
 

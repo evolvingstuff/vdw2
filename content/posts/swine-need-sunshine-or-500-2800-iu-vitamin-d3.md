@@ -26,7 +26,7 @@
 
 ### 50 lb swine needs 200 to 1200 IU per day
 
-{IMG(attId="477")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d3-for-swine.gif" alt="image">
 
 ## [Nutrient Requirements of Swine: 10th Revised Edition (1998) ](http://www.nap.edu/openbook.php?record_id=6016&page=73)
 
@@ -44,7 +44,7 @@
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a>
+* [Overview Veterinary and Vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
 * <a href="/posts/piglets-not-improve-much-with-single-40000-iu-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2413">Piglets not improve much with single 40,000 IU dose of vitamin D - Feb 2012</a>
 
@@ -54,4 +54,4 @@
 
    * Having extra vitamin D in swine feed might provide extra vitamin D in human diet (via lard, pork chops, bacon) without FDA "food fortification" restrictions
 
-* <a href="/posts/free-range-bacon-has-2800-iu-of-vitamin-d-per-100-grams" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3048">Free-range bacon has 2800 IU of vitamin D per 100 grams</a>
+* [Free-range bacon has 2800 IU of vitamin D per 100 grams](/posts/free-range-bacon-has-2800-iu-of-vitamin-d-per-100-grams)

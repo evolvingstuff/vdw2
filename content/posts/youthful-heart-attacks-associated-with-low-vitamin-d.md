@@ -63,4 +63,4 @@ Copyright © 2010. Published by Elsevier Inc., PMID: 21078422
 
 ## See also VitaminDWiki
 
-* <a href="/posts/rare-diseases-hit-fewer-than-1-in-1500-people-but-1-in-12-people-have-a-rare-dis-in-might-d-help" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rare diseases hit fewer than 1 in 1500 people, but 1 in 12 people have a rare disease (vitamin might D help) ">Rare diseases hit fewer than 1 in 1500 people, but 1 in 12 people have a rare disease (vitamin might D help) </a>
+* [Rare diseases hit fewer than 1 in 1500 people, but 1 in 12 people have a rare disease (vitamin might D help) ](/posts/rare-diseases-hit-fewer-than-1-in-1500-people-but-1-in-12-people-have-a-rare-dis-in-might-d-help)

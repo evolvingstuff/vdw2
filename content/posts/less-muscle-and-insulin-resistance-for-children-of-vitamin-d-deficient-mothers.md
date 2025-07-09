@@ -49,4 +49,4 @@ CONCLUSION: Intrauterine exposure to low 25(OH)D concentrations is associated wi
 
 ## See also VitaminDWiki
 
-* <a href="/posts/low-vitamin-d-in-pregnancy-epigenetic-pancreas-problems-in-offspring-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D in pregnancy – epigenetic pancreas problems in offspring (mice) – May 2016">Low vitamin D in pregnancy – epigenetic pancreas problems in offspring (mice) – May 2016</a>
+* [Low vitamin D in pregnancy – epigenetic pancreas problems in offspring (mice) – May 2016](/posts/low-vitamin-d-in-pregnancy-epigenetic-pancreas-problems-in-offspring-mice)

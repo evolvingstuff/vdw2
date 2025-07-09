@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Colon cancer and vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Colon cancer and vitamin D</h1><time>August 12, 2010</time><div data-pagefind-body><h1 id=colon-cancer-patients-helped--vitamin-d-deficiency-see-worse-outcomes>Colon cancer patients helped vitamin D deficiency see worse outcomes</h1><p>Oncology NEWS International. Vol. 19 No. 8</p><p>Focus on Colon Cancer <a href=http://www.cancernetwork.com/colorectal-cancer/content/article/10165/1636781>http://www.cancernetwork.com/colorectal-cancer/content/article/10165/1636781</a></p><p>By SHALMALI PAL | August 10, 2010</p><p>Investigators at Memorial-Sloan Kettering plan to tease out exactly how much vitamin D is enough to improve survival prospects.</p><p>Numerous epidemiological studies have strongly suggested that vitamin D has a protective effect against cancer, including breast, prostate, and colon. But the data for these studies were gathered before the cancer diagnosis (see Related Reading below). Researchers at New York&rsquo;s Memorial-Sloan Kettering Cancer Center have, for the first time, documented levels at the time of cancer diagnosis.</p><p>Kathleen Wesa, MD, and colleagues conducted a retrospective study of baseline vitamin D levels in newly diagnosed, stage IV colorectal cancer (CRC) patients to determine if serum levels at diagnosis could predict survival. Dr. Wesa is a physician-scientist in the integrative medicine service at MSKCC. One of her co-authors is Barrie Cassileth, PhD, chief of the integrative medicine service.</p><p>&ldquo;Vitamin D levels of > 40 ng/ml are considered optimal for bone health, and recent data suggest that levels near 40 ng/mL may increase survival in patients with breast cancer. The optimal serum level of vitamin D for CRC patients is not known,&rdquo; wrote Dr. Wesa and colleagues (ASCO 2010 abstract 3615).</p><p>Frozen sera samples from the MSKCC sera bank were used for this analysis. The first 250 patients with serial plasma carcinoembryonic antigen (CEA) drawn within 30 days of a stage IV CRC diagnosis, and with survival data available, were included and vitamin D levels were measured. CEA measurements were obtained between 2005 and 2006.</p><p>According to the results, of the 250 patients, 153 had died as of April 2009. The median vitamin D level for all patients was 21.5 ng/mL, but the majority of patients (83%) were vitamin D deficient, which was defined as levels below 30 ng/mL. Only seven patients had serum vitamin D levels above 40 ng/mL.</p><h2 id=vitamin-d-has-a-moment-in-the-sun-which-was-a-sidebar>Vitamin D has a moment in the sun (which was a sidebar)</h2><ul><li>Two recent neurological studies found that high levels of vitamin D may protect against Parkinson&rsquo;s disease while low levels were associated with substantial cognitive decline in the elderly. This research builds on the body of literature that has also identified vitamin D as a protective agent in the heart—low levels seem to predispose people to hypertension and chronic vascular inflammation—and in the skeletal system (Arch Neurol 67:808-811, 2010; Arch Intern Med 170:1135-1141, 2010; Recenti Prog Med 101:202-211, 2010; Clin Biochem online, June 17, 2010).</li></ul><p>–––––––––––––––––––</p><p>In univariate analysis, vitamin D was significantly associated with survival (P = .036). Patients with low vitamin D levels had survival outcomes that were about 1.5 times worse than those with normal levels. The authors concluded that most patients with newly diagnosed stage IV CRC are vitamin D deficient at the time of diagnosis and that higher vitamin D levels are associated with better survival.</p><p>Whether aggressive vitamin D repletion would improve outcomes in deficient CRC patients is not known, the authors stated. Dr. Wesa pointed out that trials using other isolated vitamin supplementation, or in mega-doses have not necessarily shown benefit and in some cases have been detrimental, such as with beta-carotene supplementation in male smokers.</p><p>&ldquo;I don&rsquo;t know that it is necessarily appropriate for everyone to take high levels of vitamin D supplementation,&rdquo; she said. &ldquo;We do not yet know what optimal serum vitamin D levels are for the cancer patient. Certainly low levels are associated with worse outcomes in many cancers, but the only way to answer the question of whether normalizing low vitamin D levels improve cancer outcomes is with a clinical trial. What may be most beneficial is for people throughout their lifetime to maintain normal levels of vitamin D for promoting health and wellness.&rdquo;</p><p>Dr. Wesa&rsquo;s group is currently enrolling vitamin D-deficient CRC patients in an ongoing phase II clinical trial that will look at what dose of vitamin D is required to achieve and maintain adequate vitamin D levels. Dr. Wesa said that they anticipate having preliminary results in approximately the next 12 months.</p><h1 id=heading></h1><h1 id=new-european-study-reiterates-relationship-between-prediagnostic-vitamin-d-and-colon-cancer>New European study reiterates relationship between prediagnostic vitamin D and colon cancer</h1><p>The large-scale, long-term European Prospective Investigation into Cancer and Nutrition (EPIC) trial has collected data on prediagnostic vitamin D levels from more than 52,000 participants in several European countries, including Denmark, France, Greece, Germany, Italy, Spain, and the UK. A multinational group of researchers mined the EPIC database to take a closer look at the link between prediagnostic circulating vitamin D levels and the CRC risk (BMJ online, January 21, 2010).</p><p>For this nested case-control study, the authors focused on 1,248 cases of incident CRC that developed after enrollment into the cohort, and matched the cases to 1,248 healthy controls. Circulating vitamin D concentration was measured by enzyme immunoassay. Not surprisingly, the researchers came up with a strong inverse association between levels of prediagnostic vitamin D and CRC risk in this population. Lower levels (&lt; 25 nmol/l) were associated with higher CRC risk, and higher concentrations (? 100 nmol/l) were associated with a lower CRC risk.</p><p>However, the investigators also found that a <strong>higher consumption of dietary vitamin D was not associated with a reduced risk of colorectal cancer</strong> . The optimal level of vitamin D supplementation still needs to be established through randomized trials before any change is made to public health recommendations, they said.</p><p>Visit <a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2809840>www.ncbi.nlm.nih.gov/pmc/articles/PMC2809840</a> / to obtain a free copy of this study.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>breast cancer</span>
+<span class=tag>cancer</span>
+<span class=tag>Cancer - Colon</span>
+<span class=tag>colon cancer</span>
+<span class=tag>hypertension</span>
+<span class=tag>neurological</span>
+<span class=tag>parkinsons</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>blood levels, breast cancer, cancer, Cancer - Colon, colon cancer, hypertension, neurological, parkinsons, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

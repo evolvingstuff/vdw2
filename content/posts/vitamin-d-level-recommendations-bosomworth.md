@@ -34,7 +34,7 @@ Clinical Instructor in the Department of Family Practice at the University of Br
 
 Correspondence: Dr N.J. Bosomworth, 3413 Forsyth Dr, Penticton, BC V2A 8Z2; e-mail john.bosomworth@interiorhealth.ca
 
-{IMG(attId="419")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/bosomworth-jan-2011.gif" alt="image">
 
 ## <span>[tiki-download_file.php?fileId=1652]</span>
 
@@ -54,11 +54,11 @@ These recommendations can be safely made for individual patients.The Institute o
 
 * [All items in Deficiency of D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&sort_mode=created_desc)
 
-* <a href="/posts/90-percent-of-canadian-youth-less-than-30-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1090">90% of Canadian youth less than 30 ng vitamin D – Oct 2010</a>
+* [90% of Canadian youth less than 30 ng vitamin D – Oct 2010](/posts/90-percent-of-canadian-youth-less-than-30-ng-vitamin-d)
 
 * [Canadians losing yet another free medical test - vitamin D Nov 2010](/posts/canadians-losing-yet-another-free-medical-test-vitamin-d)
 
-* <a href="/posts/6th-canadian-province-may-stop-paying-for-vitamin-d-testing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1013">6th Canadian province may stop paying for vitamin D testing – Sept 2010</a> Ontario - and summarize others
+* [6th Canadian province may stop paying for vitamin D testing – Sept 2010](/posts/6th-canadian-province-may-stop-paying-for-vitamin-d-testing) Ontario - and summarize others
 
 * <a href="/posts/many-vitamin-d-articles-by-schwalfenberg-in-canada-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 950">Many vitamin D articles by Schwalfenberg in Canada - 2010</a> good charts and tables
 

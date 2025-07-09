@@ -45,17 +45,17 @@ Conclusions Our study supports the incorporation of routine Vitamin D screening 
 
 ## Examples:
 
-* <a href="/posts/tb-probability-increased-5x-when-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 727">TB probability increased 5X when have low vitamin D – April 2010</a>
+* [TB probability increased 5X when have low vitamin D – April 2010](/posts/tb-probability-increased-5x-when-have-low-vitamin-d)
 
-* <a href="/posts/tb-associated-with-low-vitamin-d-in-a-review-and-meta-analysis-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 725">TB associated with low vitamin D in a review and meta-analysis – 2008</a>
+* [TB associated with low vitamin D in a review and meta-analysis – 2008](/posts/tb-associated-with-low-vitamin-d-in-a-review-and-meta-analysis-2008)
 
-* <a href="/posts/tb-helped-by-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 724">TB helped by vitamin D – April 2010</a>
+* [TB helped by vitamin D – April 2010](/posts/tb-helped-by-vitamin-d)
 
-* <a href="/posts/tb-and-vitamin-d-updated-review-and-meta-analysis-plays-a-role" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 723">TB and vitamin D updated review and meta-analysis – plays a role Jan 2010</a>
+* [TB and vitamin D updated review and meta-analysis – plays a role Jan 2010](/posts/tb-and-vitamin-d-updated-review-and-meta-analysis-plays-a-role)
 
-* <a href="/posts/tb-associated-with-low-level-of-vitamin-d-in-pakistan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 662">TB associated with low level of vitamin D in Pakistan - July 2010</a>
+* [TB associated with low level of vitamin D in Pakistan - July 2010](/posts/tb-associated-with-low-level-of-vitamin-d-in-pakistan)
 
-* <a href="/posts/tb-reduced-by-vitamin-d-a-doubt" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 655">TB reduced by vitamin D – a doubt July 2010</a>
+* [TB reduced by vitamin D – a doubt July 2010](/posts/tb-reduced-by-vitamin-d-a-doubt)
 
 - - - - - - - 
 

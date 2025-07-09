@@ -30,7 +30,7 @@
 
 from an unknown study - perhaps in 2011
 
-{IMG(attId="638")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ms-and-vitamin-d-va---2011.png" alt="image">
 
 The horizontal axis shows the amount of vitamin D in the blood BEFORE getting MS
 
@@ -54,6 +54,6 @@ Vitamin D 84-99 nmol (34-40 ng Risk =0.74
 
 * [Decreased winter sun speeded up subsequent MS development 2X – VA Aug 2011](/posts/decreased-winter-sun-speeded-up-subsequent-ms-development-2x-va)
 
-* <a href="/posts/vitamin-d-prescriptions-in-us-military-increased-5x-in-5-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D prescriptions in US Military increased 5X in 5 years – July 2015">Vitamin D prescriptions in US Military increased 5X in 5 years – July 2015</a>
+* [Vitamin D prescriptions in US Military increased 5X in 5 years – July 2015](/posts/vitamin-d-prescriptions-in-us-military-increased-5x-in-5-years)
 
-* <a href="/posts/veterans-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Veterans and Vitamin D - many studies">Veterans and Vitamin D - many studies</a>
+* [Veterans and Vitamin D - many studies](/posts/veterans-and-vitamin-d-many-studies)

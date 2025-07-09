@@ -44,11 +44,11 @@ PMID:     19594303
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766">Overview How Much vitamin D</a>
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d)
 
 * <a href="/posts/vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations</a>
 
-* <a href="/posts/bone-health-and-vitamin-d-book-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2312">Bone Health and vitamin D book - 2011</a>
+* [Bone Health and vitamin D book - 2011](/posts/bone-health-and-vitamin-d-book-2011)
 
 * [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
@@ -62,16 +62,16 @@ PMID:     19594303
 
 * [Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010](/posts/cadavers-with-good-skeletons-had-30-ng-of-vitamin-d)
 
-* <a href="/posts/germany-increases-vitamin-d-to-800-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2304">Germany increases vitamin D to 800 IU - Jan 2012</a>
+* [Germany increases vitamin D to 800 IU - Jan 2012](/posts/germany-increases-vitamin-d-to-800-iu)
 
 * <a href="/posts/published-recommendations-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Recommendations of Vitamin D</a> which includes the following graph
 
-{IMG(fileId="1984" max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 * [Skeletal health needs at least 30 ng of vitamin D – German paper – March 2011](/posts/skeletal-health-needs-at-least-30-ng-of-vitamin-d-german-paper)
 
 # The MINIMUM recommendation by 25 experts was higher than the Institute of Medicine, but equal to that from cadavers
 
-{IMG(attId="355"max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 400px;">
 
 ## <a href="/posts/span-stylecolor093click-here-for-detailsspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1225"><span style="color:#093;">CLICK HERE for details</span></a>

@@ -1,0 +1,100 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D Workshop presentations and posters</title>
+<link rel=stylesheet href="/css/main.css?v=1752030352"><link rel=stylesheet href="/css/pagination.css?v=1752030352"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030352"></script><script src="/js/search.js?v=1752030352"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D Workshop presentations and posters</h1><time>September 10, 2022</time><div data-pagefind-body><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/program-for-web-081722.pdf>Full program PDF</a></strong></p><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#presentations>Presentations</a></li><li><a href=#plenary-posters>Plenary Posters</a></li></ul></li></ul></li></ul></nav><hr><h4 id=presentations>Presentations</h4><ul><li><p>George Georgiou (UT-Austin) - Molecular level decomposition of the identity, dynamics and function of the constituent antibodies comprising the serum antibody repertoire in response to infection or vaccination.</p></li><li><p>John White (McGill University) Recent updates on the role of vitamin D signaling in innate and adaptive immunity.</p></li><li><p>Lori Plum (University of Wisconsin, Madison) Antibody production does not require vitamin D or its receptor.</p></li><li><p>Juhi Arora (Pennsylvania State University) <strong>Vitamin D and the ability to produce 1,25(OH)2D are critical for protection from viral infection of the lungs.</strong></p></li><li><p>Isabelle Piec (University of East Anglia) <strong>Vitamin D status was associated with better immune response to SARS-COV-2 immunisation.</strong></p></li><li><p>Behdad Afzali (NIDDK) <strong>Regulation of T cells by complement activation of a vitamin D system.</strong></p></li><li><p>Nicole Froelich (Pennsylvania State University) <strong>Developmental control of the vitamin D receptor in T cells.</strong></p></li><li><p>Chin May Teoh (Texas State University) Methyl-donor nutrients supplemented to a high-fat diet during pregnancy and lactation alters colonic vitamin D signaling and inflammatory status among offspring rats.</p></li><li><p>Vanessa McGaughey (University of Miami) Mechanisms of vitamin D-dependent presentation of tumortargeting neoantigens in osteosarcoma.</p></li><li><p>Megan Rodgers (Medical University of South Carolina) Early vitamin D sufficiency is associated with long term <strong>neurodevelopmental improvements in 4-6 year old children.</strong></p></li><li><p>Yuko Nakamichi (Matsumoto Dental University) The vitamin D receptor in osteoblastic cells is crucial for the proresorptive activity, hypercalcemia, and soft tissue calcification induced by 1a,25(OH)2D3.</p></li><li><p>Margherita Cantorna (Pennsylvania State University) <strong>The role of the VDR and the effect of vitamin D deficiency on the development of immune cells.</strong></p></li><li><p>Carol Wagner (Medical University of South Carolina) The effect of maternal vitamin D status during lactation on the human milk proteome.</p></li><li><p>Sonya Ketchens (Medical University of South Carolina) Supplementation of vitamin D in black American pregnant to decrease adverse pregnancy outcomes.</p></li><li><p>Jane K. Cleal (University of South Hampton) Placental uptake and metabolism of 25(OH)vitamin D determines its activity within the fetoplacental unit.</p></li><li><p>Philip Atherton (University of Nottingham) The vitamin D receptor and skeletal muscle proteostasis.</p></li><li><p>Megan Knuth (University of North Carolina Chapel Hill) Developmental vitamin D deficiency alters adult liver energy metabolism pathways.</p></li><li><p>Jeffrey Roizen (Children&rsquo;s Hospital of Philadelphia) High dose dietary vitamin D enhances energy sensing and allocates surplus calories to build muscle and increase linear growth by decreasing myostatin and enhancing leptin signaling.</p></li><li><p>Shelby Bollen (University of Nottingham) Vitamin D receptor and vitamin D binding protein polymorphisms are associated with skeletal muscle function and physiology in <strong>elite master athletes</strong> .</p></li><li><p>Luke Peppone (University of Rochester Medical Center) High-dose vitamin D supplementation in patients with breast and prostate cancer to prevent cancer-treatment-induced bone loss.</p></li><li><p>Sakoto Kise (Toyama Prefectural University) Functional analysis of vitamin D receptor (VDR) using adenovirus vector and its application to gene therapy for VDR KO rats.</p></li><li><p>Dan Bikle (UCSF/VA Medical Center) Vitamin D receptor controls injury induced epidermal regeneration through cross-talk with P53/63 signaling.</p></li><li><p>Ayse Kilic (Brigham and Women&rsquo;s Hospital, Harvard) Vitamin D mitigates allergic airway inflammation by modulating the expression of key genes on CHR17Q12-21.1.</p></li><li><p>Morgan Ritter (North Carolina State University) Early disruption of vitamin D receptor signaling induces developmental behavior deficits in zebrafish.</p></li><li><p>Nicole Ball (University of East Anglia) 3&rsquo;UTR structural elements are associated with CYP24A1-mediated abnormal calcium handling.</p></li><li><p>Jim Fleet (University of Texas Austin) Integrating genomic and physiologic data to understand how vitamin D signaling regulates intestinal biology.</p></li><li><p>Natalie Watkins (University of Texas Austin) Intestinal epithelial cell-deletion of CYP24A1 reduces renal CYP27B1 mRNA and enhances TRPV6 mRNA induction by low dietary calcium.</p></li><li><p>Snehal Chaudhari (Harvard / UW-Madison) The role of vitamin D receptor in remodeling the gut-liver axis following bariatric surgery.</p></li><li><p>Thomas Lisse (University of Miami) Vitamin D inhibits the epithelial-mesenchymal transition (EMT) and migration of osteosarcoma cells via differential regulation of EMT and antioxidative genes and chromatin states.</p></li><li><p>Ganmaa Davaasambuu (Harvard School of Public Health) Maternal vitamin D intakes during pregnancy and child health outcomes.</p></li><li><p>Martyna Stachowicz-Suhs (Hirszfeld Institute) Crosstalk between macrophages and murine 4T1 breast cancer cells in the context of the vitamin D-induced metastasis: COX-2/ PGE-2/ IL-6 as the main factors driving this process.</p></li><li><p>Kirstin Krieger (University of Illinois Chicago) Vitamin D sufficiency enhances epithelial differentiation of mouse prostate organoids and cancer cell lines.</p></li><li><p>Steven Strugnell (OPKO Health) Extended-release calcifediol may accelerate resolution of respiratory symptoms and mitigate pneumonia risk in patients with mild-moderate COVID-19.</p></li><li><p>Mark B. Meyer (University of Wisconsin, Madison) The rapid genomic mechanisms controlling renal vitamin D metabolism.</p></li><li><p>Glenville Jones (Queen&rsquo;s University) R396W mutation of CYP24A1: a humanizedpreclinical model of infantile hypercalcemia Type I.</p></li><li><p>Etienne Sochett (Hospital for Sick Children, Toronto) Rifampin use in children with idiopathic infantile hypercalcemia.</p></li><li><p>Martin Kaufmann (Queen&rsquo;s University) Clinical Utility of measuring the serum vitamin D metabolome including 24,25(OH)2D3 by liquid chromatography-tandem mass spectrometry (LC-MS/MS).</p></li><li><p>Eva Liu (Brigham and Women&rsquo;s Hospital/Harvard) Role of 1,25 dihydroxyvitamin D in regulating enthesopathy development in the HYP mouse model of XLH.</p></li><li><p>Stefanie Doms (KU Leuven) The vitamin D3 analog, WY1048, affects cortical bone directly through VDR induced signaling in osteoblast precursors.</p></li><li><p>Seong Min Lee (University of Wisconsin, Madison) A complex genomic mechanism governs the regulation of fibroblast growth factor 23 expression in response to 1,25-dihydroxyvitamin D3, phosphate and inflammation.</p></li><li><p>Serra Ucer Ozgurel (University of Texas Austin) Male LRP5 A214V mutant mice with genetically programmed high bone mass have disruption of the vitamin D endocrine system.</p></li><li><p>Lieve Verlinden (KU Leuven) Osteoblast-specific deletion of neuropilin 2 results in trabecular and cortical bone loss in male mice.</p></li><li><p>Sudhaker Rao (Henry Ford Health) Effect of vitamin D metabolites on bone histomorphometry in health black and white women: an attempt to unravel the so-called Vitamin D Paradox in blacks.</p></li><li><p>Clayton Yates (Tuskegee University) <strong>Prostate cancer and vitamin D - GWAS, skin color and health disparities</strong></p></li><li><p>Madhu Biyani (Kanazawa University) A novel DNA aptamer for CYP24 inhibition exerts a therapeutic effect by enhancing anti-proliferative function of vitamin D in lung cancer cells.</p></li><li><p>Cydney Dennis (Virginia Commonwealth University) 24R,25(OH)2D3 induces its anti-apoptotic effect in laryngeal cancer cells through a PLD mediated mechanism.</p></li><li><p>Rocio Garcia-Becerra (Universidad Nacional Autonoma de Mexico) Re-establishment of the antitumoral effects of antiestrogens by calcitriol in triple-negative breast cancer models.</p></li><li><p>Susan A. Lanham-new (University of Surrey, UK) <strong>Differential effects of vitamin D2 and vitamin D3 on vitamin D metabolism in health and disease.</strong></p></li><li><p>Tom Thacher (Mayo Clinic) Serum 1,25-dihydroxyvitamin D and the pathogenesis of vitamin D/calcium deficiency rickets - a multivariable re-analysis.</p></li><li><p>Sue Shapses (Rutgers University) Vitamin D deficiency in older mice causes excess weight gain and compromises the biomechanical strength of bone without a decrease in BMD.</p></li><li><p>Sophie Davies (University of Bath) 25(OH)D3 expenditure does not differ meaningfully between active, lean and sedentary overweight adults.</p></li><li><p>Roger Bouillon (Leuven, Belgium) <strong>Calcifediol as a treatment option for hypovitamin D.</strong></p></li></ul><hr><h4 id=plenary-posters>Plenary Posters</h4><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/plenary-posters-2022-compresspdf.pdf>Full program PDF</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>bariatric surgery</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>bone loss</span>
+<span class=tag>bone mineral density</span>
+<span class=tag>breast cancer</span>
+<span class=tag>breathing</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>cancers after vaccination</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>childhood pneumonia</span>
+<span class=tag>childhood vaccination</span>
+<span class=tag>childhood viruses</span>
+<span class=tag>Conference</span>
+<span class=tag>CYPA</span>
+<span class=tag>CYPR</span>
+<span class=tag>genetics</span>
+<span class=tag>high dose</span>
+<span class=tag>immunity</span>
+<span class=tag>intervention</span>
+<span class=tag>lung cancer</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>pneumonia</span>
+<span class=tag>pregnancy</span>
+<span class=tag>prostate cancer</span>
+<span class=tag>rickets</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>trauma surgery</span>
+<span class=tag>vaccination</span>
+<span class=tag>vaccination and pregnancy</span>
+<span class=tag>virus</span>
+<span class=tag>viruses and pregnancy</span>
+<span class=tag>viruses and vitamin d receptor</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span>
+<span class=tag>vitamin d binding</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>autoimmune, autoimmune and pregnancy, bariatric surgery, bone, bone cancer, bone loss, bone mineral density, breast cancer, breathing, cancer, cancer in VDR, cancers after vaccination, child, childhood cancer, childhood pneumonia, childhood vaccination, childhood viruses, Conference, CYPA, CYPR, genetics, high dose, immunity, intervention, lung cancer, multiple sclerosis, multiple sclerosis and pregnancy, pediatric autoimmune, pneumonia, pregnancy, prostate cancer, rickets, therapeutic intervention, trauma surgery, vaccination, vaccination and pregnancy, virus, viruses and pregnancy, viruses and vitamin d receptor, vitamin d, vitamin d and viruses, vitamin d binding, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030352"></script><script src="/js/tiki-redirects.js?v=1752030352"></script><script src="/js/lightspa.js?v=1752030352"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030352",indexUrl:"/search/search_index.json.gz?v=1752030352"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030352"></script></body></html>

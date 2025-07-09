@@ -53,10 +53,10 @@ PMID:     21471466
 
 #### With high vitamin D > 30 ng: More regular stride,fewer falls per year, etc.
 
-{IMG(attId="540")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/gait-control.jpg" alt="image">
 
 - - - - - - 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/seniors-22-x-more-likely-to-walk-slowly-if-very-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors 2.2 X more likely to walk slowly if very low vitamin D – meta-analysis Dec 2017">Seniors 2.2 X more likely to walk slowly if very low vitamin D – meta-analysis Dec 2017</a>
+* [Seniors 2.2 X more likely to walk slowly if very low vitamin D – meta-analysis Dec 2017](/posts/seniors-22-x-more-likely-to-walk-slowly-if-very-low-vitamin-d-meta-analysis)

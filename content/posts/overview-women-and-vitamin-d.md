@@ -80,7 +80,7 @@ Type II [diabetes](/categories/diabetes)
 
 [Osteoporosis](/categories/osteoporosis)
 
-<a href="/posts/menopause-delayed-and-symptoms-decreased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Menopause delayed and symptoms decreased by Vitamin D - many studies">Menopause delayed and symptoms decreased by Vitamin D - many studies</a>
+[Menopause delayed and symptoms decreased by Vitamin D - many studies](/posts/menopause-delayed-and-symptoms-decreased-by-vitamin-d-many-studies)
 
 <a href="/posts/falls" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Falls</a>
 

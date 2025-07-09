@@ -1,0 +1,87 @@
+<!doctype html><html><head><meta charset=utf-8><title>3X fewer preterm deliveries if take 2,000 IU of Vitamin D daily (small study, 9% refused)</title>
+<link rel=stylesheet href="/css/main.css?v=1752030342"><link rel=stylesheet href="/css/pagination.css?v=1752030342"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030342"></script><script src="/js/search.js?v=1752030342"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>3X fewer preterm deliveries if take 2,000 IU of Vitamin D daily (small study, 9% refused)</h1><time>December 17, 2024</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#prevalence-of-hypovitaminosis-d-in-pregnancy-and-potential-benefits-of-oral-supplementation>Prevalence of hypovitaminosis D in pregnancy and potential benefits of oral supplementation</a></li><li><a href=#number-of-studies-in-pregnancy-category-in-vitamindwiki-as-of-dec-2024>Number of studies in Pregnancy category in VitaminDWiki as of Dec 2024</a></li><li><a href=#study-offering-just-1000-iu-daily-during-pregnancy-found-no-benefit---jan-2024>Study offering just 1,000 IU daily during pregnancy found no benefit - Jan 2024</a></li></ul></li></ul></li></ul></nav><hr><h4 id=prevalence-of-hypovitaminosis-d-in-pregnancy-and-potential-benefits-of-oral-supplementation>Prevalence of hypovitaminosis D in pregnancy and potential benefits of oral supplementation</h4><p>Am J Perinatol. 2024 Dec 16. <a href=https://doi.org/10.1055/a-2502-7295>doi: 10.1055/a-2502-7295</a> PDF behind paywall</p><p>Gabriele Saccone 1, Giorgia Buonomo 2, Serena Guerra 2, Doriana Gentile 2, Attilio Di Spiezio Sardo 2</p><p>Objective: To evaluate prevalence of hypovitaminosis D in a cohort of Italian pregnant women, and to evaluate potential benefits of oral supplementation Methods: Observational cohort of women with singleton gestations who were referred to our institution for first trimester prenatal visit. Screening for hypovitaminosis D was performed at the time of first trimester routine scan between 11 and 13 weeks of gestations. Women were offered measurement of serum 25-hydroxyvitamin D (25<span>[OH]</span>D). Levels of 25(OH)D are interpreted as follows: 12-&lt; 20 ng/mL: Vitamin D insufficiency; &lt; 12 ng/mL: Vitamin D deficiency. Women with Vitamin D insufficiency or deficiency were offered daily oral supplementation at the dose of 2,000 UI, along with folic acid. The primary outcome was the prevalence of hypovitaminosis D in our cohort.</p><p>Results: During the study period, between January 2023 to January 2024, 250 pregnant women were included in the study and screened for 25(OH)D. More than half of the screened women had 25(OH)D&lt;20 ng/mL, with a prevalence of &lt;12 ng/mL of 14%.</p><p>Out of the 140 (140/250 = 56%) women with 25(OH)D&lt;20 ng/mL, 127/140 (90%) accepted supplementation with Vitamin D, while <strong>13 refused the therapy for fear of teratogenic effects of the fetus</strong> . The overall rate of preterm delivery before 37 weeks was 8.4%, while the incidence of preeclampsia was 2.8%.</p><p>Rate of preterm delivery was higher in women who did not received supplementation <strong>(9.5% vs 30.8%)</strong> , but the study was not powered for such comparison.</p><p>Conclusion: Hypovitaminosis D has high prevalence in pregnant women. Universal screening in the first trimester with measurement of serum 25-hydroxyvitamin D (25<span>[OH]</span>D) can identify women at risk that may benefit of oral supplementation.</p><hr><h4 id=number-of-studies-in-pregnancy-category-in-vitamindwiki-as-of-dec-2024>Number of studies in Pregnancy category in VitaminDWiki as of Dec 2024</h4><p>&lt;a href="/posts/pregnancy-920-divtypespanclassoverviewbigoverview-pregnancy-and-vitamin-d" style=&ldquo;color: red; text-decoration: underline;&rdquo; title=&ldquo;This post/category does not exist yet: Pregnancy)) (920+) {DIV(type=&ldquo;span&rdquo;,class=&ldquo;overviewbig&rdquo;)}((Overview Pregnancy and vitamin D&rdquo;>Overview</a></p><p>{DIV(class=&ldquo;categorylink&rdquo;)}         <a href=/posts/breastfed style=color:red;text-decoration:underline title="This link has an unknown page_id: 14642">Breastfed</a> (38+)</p><p>        <a href=/posts/caesarean style=color:red;text-decoration:underline title="This link has an unknown page_id: 337">Caesarean </a>(15+)</p><p>        <a href=/categories/depression>Depression</a> (21+)</p><p>        <a href=/posts/dark-skin style=color:red;text-decoration:underline title="This link has an unknown page_id: 1566">Dark Skin</a> (30+)</p><p>        <a href=/posts/gestational-diabetes style=color:red;text-decoration:underline title="This link has an unknown page_id: 14350">Gestational Diabetes</a> (41+)</p><p>        <a href=/posts/in-vitro-fert style=color:red;text-decoration:underline title="This link has an unknown page_id: 3277">In Vitro Fert.</a> (18+)</p><p>        <a href=/categories/iodine>Iodine</a> (21+)</p><p>        <a href=/posts/low-birth-weight style=color:red;text-decoration:underline title="This link has an unknown page_id: 15392">Low Birth Weight</a> (23+)</p><p>        <a href=/posts/magnesium style=color:red;text-decoration:underline title="This link has an unknown page_id: 6868">Magnesium</a> (30+)</p><p>        <a href=/posts/miscarriage style=color:red;text-decoration:underline title="This link has an unknown page_id: 13211">Miscarriage</a> (31+)</p><p>        <a href=/categories/multiple-sclerosis>Multiple Sclerosis</a> (13+)</p><p>        <a href=/posts/omega-3-before-and-during style=color:red;text-decoration:underline title="This link has an unknown page_id: 9951">Omega-3 before and during</a> (49+)</p><p>        <a href=/posts/pcos style=color:red;text-decoration:underline title="This link has an unknown page_id: 3003">PCOS</a> (15+)</p><p>        <a href=/posts/preeclampsia style=color:red;text-decoration:underline title="This link has an unknown page_id: 13028">Preeclampsia</a> (55+)</p><p>        <a href=/posts/preterm style=color:red;text-decoration:underline title="This link has an unknown page_id: 15349"><strong>Preterm</strong> </a>(125+)</p><p>        <a href=/posts/preterm-omega-3 style=color:red;text-decoration:underline title="This link has an unknown page_id: 14030">Preterm - Omega-3</a> (13+)</p><p>        <a href=/posts/stillbirth style=color:red;text-decoration:underline title="This link has an unknown page_id: 14752">Stillbirth</a> (8+)</p><hr><h4 id=study-offering-just-1000-iu-daily-during-pregnancy-found-no-benefit---jan-2024>Study offering just 1,000 IU daily during pregnancy found no benefit - Jan 2024</h4><p><strong>Prospective cohort study of vitamin D deficiency in pregnancy: Prevalence and limited effectiveness of 1000 IU vitamin D supplementation</strong></p><p><a href=https://doi.org/10.1177/17455057231222404>https://doi.org/10.1177/17455057231222404</a></p><p>&ldquo;Overall, 90% reported taking their prescribed vitamin D 1000 IU more than three times per week.&rdquo;</p><p>Mean vitamin D level of 19 ng were raised to 21 ng in 16 weeks</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>blood levels</span>
+<span class=tag>breastfed</span>
+<span class=tag>caesarean</span>
+<span class=tag>depression</span>
+<span class=tag>depression and pregnancy</span>
+<span class=tag>diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>gestational diabetes</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>iodine</span>
+<span class=tag>low birth weight</span>
+<span class=tag>magnesium</span>
+<span class=tag>magnesium and pregnancy</span>
+<span class=tag>metabolic</span>
+<span class=tag>miscarriage</span>
+<span class=tag>mood disorders</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>omega 3</span>
+<span class=tag>omega 3 and pregnancy</span>
+<span class=tag>PCOS</span>
+<span class=tag>preeclampsia</span>
+<span class=tag>pregnancy</span>
+<span class=tag>stillbirth</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>autoimmune, autoimmune and pregnancy, blood levels, breastfed, caesarean, depression, depression and pregnancy, diabetes, dosage, gestational diabetes, high dose, intervention, iodine, low birth weight, magnesium, magnesium and pregnancy, metabolic, miscarriage, mood disorders, multiple sclerosis, multiple sclerosis and pregnancy, omega 3, omega 3 and pregnancy, PCOS, preeclampsia, pregnancy, stillbirth, therapeutic intervention, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030342"></script><script src="/js/tiki-redirects.js?v=1752030342"></script><script src="/js/lightspa.js?v=1752030342"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030342",indexUrl:"/search/search_index.json.gz?v=1752030342"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030342"></script></body></html>

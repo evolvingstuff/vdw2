@@ -17,7 +17,7 @@
 }
 
 
-{IMG(attId="755")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/drug-deaths-chart.png" alt="image">
 
 ### Big increase in deaths in America over the past decade in the middle line
 
@@ -43,11 +43,11 @@ The bottom line is deaths due to firearms
 
 - - - - - - - - 
 
-#### Compare this to <a href="/posts/no-deaths-from-vitamins-absolutely-none" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No Deaths from Vitamins. Absolutely None – Jan 2015">zero deaths due to Vitamin D or supplements</a>
+#### Compare this to [zero deaths due to Vitamin D or supplements](/posts/no-deaths-from-vitamins-absolutely-none)
 
 #### See also VitaminDWiki
 
-* <a href="/posts/deaths-due-to-drugs-nsaid-supplements-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 649">Deaths due to drugs -NSAID - Supplements - vitamin D</a>
+* [Deaths due to drugs -NSAID - Supplements - vitamin D](/posts/deaths-due-to-drugs-nsaid-supplements-vitamin-d)
 
    * Adverse Reactions to Prescription Drugs = 32,000
 

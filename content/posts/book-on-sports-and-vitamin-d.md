@@ -29,7 +29,7 @@
 #### Athlete's Edge: Faster, Quicker, Stronger With Vitamin D   
 by Dr. John Cannell, $23 including US shipping
 
-{IMG(attId="685")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cannell-sports-book.png" alt="image">
 
 [Amazon](https://www.amazon.com/Athletes-Edge-Quicker-Stronger-Vitamin/dp/0977427293/ref=sr_1_2?dchild=1&keywords=Athlete%27s+Edge%3A+Faster%2C+Quicker%2C+Stronger&qid=1596585017&sr=8-2) $4 used 2020.
 

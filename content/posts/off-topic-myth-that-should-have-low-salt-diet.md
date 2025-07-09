@@ -103,13 +103,13 @@ Rather than create drastic salt policies based on conflicting data, Alderman and
 
 #### See also VitaminDWiki
 
-* <a href="/posts/increased-salt-consumption-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2737">Increased salt consumption decreased vitamin D</a>
+* [Increased salt consumption decreased vitamin D](/posts/increased-salt-consumption-decreased-vitamin-d)
 
 > decreases effectiveness of vitamin D by depleting <a href="/posts/magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Magnesium</a> and <a href="/posts/calcium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1446">Calcium</a> <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactors</a>
 
-* <a href="/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Iodine are similar, and both are deficient and important to health">Vitamin D and Iodine are similar, and both are deficient and important to health</a>
+* [Vitamin D and Iodine are similar, and both are deficient and important to health](/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health)
 
-* <a href="/posts/off-topic-hypertension-in-42-percent-of-adults-new-definition-130-mm-hg" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic – Hypertension in 42 percent of adults (new definition: 130 mm Hg) – Feb 2018">Off Topic – Hypertension in 42 percent of adults (new definition: 130 mm Hg) – Feb 2018</a>
+* [Off Topic – Hypertension in 42 percent of adults (new definition: 130 mm Hg) – Feb 2018](/posts/off-topic-hypertension-in-42-percent-of-adults-new-definition-130-mm-hg)
 
 #### Comments on salt by admin of VitaminDWiki
 

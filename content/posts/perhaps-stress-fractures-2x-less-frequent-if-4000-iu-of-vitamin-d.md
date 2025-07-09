@@ -71,7 +71,7 @@ Young women with average 50 ng of vitamin D had 1/2 the fractures as those with 
 
 * [Vitamin D and Fracture Prevention – June 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1173)
 
-* <a href="/posts/vitamin-d-and-calcium-for-the-prevention-of-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 99">Vitamin D and calcium for the prevention of fractures</a>
+* [Vitamin D and calcium for the prevention of fractures](/posts/vitamin-d-and-calcium-for-the-prevention-of-fractures)
 
 * <a href="/posts/overview-athletes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1259">Overview: Athletes and vitamin D</a>
 
@@ -81,7 +81,7 @@ Young women with average 50 ng of vitamin D had 1/2 the fractures as those with 
 
 * [Injury-Prevention with Vitamin D – Feb 2010](/posts/injury-prevention-with-vitamin-d)
 
-* <a href="/posts/vitamin-d-levels-dropped-after-training-for-white-but-not-black-females" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 166">Vitamin D levels dropped after training for white, but not black females April 2010</a>
+* [Vitamin D levels dropped after training for white, but not black females April 2010](/posts/vitamin-d-levels-dropped-after-training-for-white-but-not-black-females)
 
 * [Military in hot climates and vitamin D deficiency - 2010](/posts/military-in-hot-climates-and-vitamin-d-deficiency-2010)
 

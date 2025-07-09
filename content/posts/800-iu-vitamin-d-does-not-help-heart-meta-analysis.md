@@ -54,7 +54,7 @@ Conclusions: Trial data available to date are unable to demonstrate a statistica
 
 Received February 14, 2011.     Accepted May 23, 2011.
 
-{IMG(attId="694")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-and-cardiovascular.png" alt="image">
 
 ## PDF is attached at bottom of page
 
@@ -74,23 +74,23 @@ Also, did not care Vitamin D2 vs Vitamin D3
 
 * [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/lack-of-vitamin-d-is-a-predictor-of-heart-failure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 867">Lack of vitamin D is a predictor of heart failure – Sept 2010</a>
+* [Lack of vitamin D is a predictor of heart failure – Sept 2010](/posts/lack-of-vitamin-d-is-a-predictor-of-heart-failure)
 
-* <a href="/posts/review-of-vitamin-d-and-heart-failure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 808">Review of vitamin D and heart failure – Aug 2010</a>
+* [Review of vitamin D and heart failure – Aug 2010](/posts/review-of-vitamin-d-and-heart-failure)
 
-* <a href="/posts/vitamin-d-and-cardiovascular-disease-systematic-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 585">Vitamin D and cardiovascular disease - Systematic review June 2010</a>
+* [Vitamin D and cardiovascular disease - Systematic review June 2010](/posts/vitamin-d-and-cardiovascular-disease-systematic-review)
 
-* <a href="/posts/cardiovascular-systematic-review-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 572">Cardiovascular Systematic Review of Vitamin D- Mar 2010</a>
+* [Cardiovascular Systematic Review of Vitamin D- Mar 2010](/posts/cardiovascular-systematic-review-of-vitamin-d)
 
-* <a href="/posts/vitamin-d-less-than-15-ng-did-not-predict-additional-cardiovascular-disease-events" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 461">Vitamin D less than 15 ng did not predict additional cardiovascular disease events – June 2010</a>
+* [Vitamin D less than 15 ng did not predict additional cardiovascular disease events – June 2010](/posts/vitamin-d-less-than-15-ng-did-not-predict-additional-cardiovascular-disease-events)
 
-* <a href="/posts/low-vitamin-d-associated-with-cardiovascular-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 492">Low Vitamin D associated with cardiovascular disease – June 2010</a>
+* [Low Vitamin D associated with cardiovascular disease – June 2010](/posts/low-vitamin-d-associated-with-cardiovascular-disease)
 
-* <a href="/posts/vitamin-d-reduces-both-death-rate-and-cardiovascular-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 945">Vitamin D reduces both death rate and cardiovascular disease – Sept 2010</a>
+* [Vitamin D reduces both death rate and cardiovascular disease – Sept 2010](/posts/vitamin-d-reduces-both-death-rate-and-cardiovascular-disease)
 
-* <a href="/posts/vitamin-d-is-important-for-cardiovascular-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 949">Vitamin D is important for cardiovascular health – Sept 2010</a> nice chart and tables
+* [Vitamin D is important for cardiovascular health – Sept 2010](/posts/vitamin-d-is-important-for-cardiovascular-health) nice chart and tables
 
-* <a href="/posts/cardiology-diseases-highly-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 965">Cardiology diseases highly associated with low vitamin D – Oct 2010</a> based on 41,000 patients
+* [Cardiology diseases highly associated with low vitamin D – Oct 2010](/posts/cardiology-diseases-highly-associated-with-low-vitamin-d) based on 41,000 patients
 
 * [Review of heart failure and vitamin D mechanisms – Jan 2011](/posts/review-of-heart-failure-and-vitamin-d-mechanisms)
 
@@ -100,4 +100,4 @@ Also, did not care Vitamin D2 vs Vitamin D3
 
    * Vitamin D, cardiovascular disease and mortality.
 
-* <a href="/posts/800-iu-of-vitamin-d-is-not-enough-to-help-cardiovascular-disease-found-again" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 800 IU of vitamin D is not enough to help Cardiovascular Disease (found again) – Oct 2016">800 IU of vitamin D is not enough to help Cardiovascular Disease (found again) – Oct 2016</a>
+* [800 IU of vitamin D is not enough to help Cardiovascular Disease (found again) – Oct 2016](/posts/800-iu-of-vitamin-d-is-not-enough-to-help-cardiovascular-disease-found-again)

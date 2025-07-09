@@ -49,4 +49,4 @@ Finally, we compare the potential for use of ?3-PUFAs, Vitamin D combinatorial s
 
 * <a href="/posts/omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3467">Omega-3: many benefits include helping vitamin D</a>
 
-* <a href="/posts/breast-cancer-cells-killed-synergistically-by-vitamin-d-plus-omega-3-lab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast cancer cells killed synergistically by Vitamin D plus Omega-3 (lab) – June 2017">Breast cancer cells killed synergistically by Vitamin D plus Omega-3 (lab) – June 2017</a>
+* [Breast cancer cells killed synergistically by Vitamin D plus Omega-3 (lab) – June 2017](/posts/breast-cancer-cells-killed-synergistically-by-vitamin-d-plus-omega-3-lab)

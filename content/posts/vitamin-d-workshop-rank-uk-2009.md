@@ -52,11 +52,11 @@ PMID: 21134331
 
 ## Notice the dark skin column at far right
 
-{IMG(attId="345")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/rank1---2009.gif" alt="image">
 
 # Vitamin D RDA around the world
 
-{IMG(attId="346")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/rank2--2009.gif" alt="image">
 
 ## Workshop attendees
 

@@ -101,9 +101,9 @@ PDF is attached at bottom of page
 
    * While vegetarians (Adventist) live longer, the blacks live got more of a longevity boost than the whites (blacks are more vitamin D deficient)
 
-* <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a> they appear to
+* [Do blacks have a 5 year life penalty due to low vitamin D](/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d) they appear to
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a> which has an influence diagram by Dr. Grant and a chart showing vicious circles such as obesity and diabetes
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) which has an influence diagram by Dr. Grant and a chart showing vicious circles such as obesity and diabetes
 
 # On the Web
 

@@ -156,4 +156,4 @@ Michael F. Holick, PhD, MD, is a professor of medicine, physiology, and biophysi
 
 * <a href="/posts/vitamin-d-evolutionary-physiological-and-health-perspectives" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1224">Vitamin D: evolutionary, physiological and health perspectives</a> Holick
 
-* <a href="/posts/professional-book-on-vitamin-d-editor-holick-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 542">Professional book on Vitamin D - Editor Holick 2010</a> includes abstracts of each chapter
+* [Professional book on Vitamin D - Editor Holick 2010](/posts/professional-book-on-vitamin-d-editor-holick-2010) includes abstracts of each chapter

@@ -1,0 +1,78 @@
+<!doctype html><html><head><meta charset=utf-8><title>International Conference on Controversies in Vitamin D (it helps)</title>
+<link rel=stylesheet href="/css/main.css?v=1752030346"><link rel=stylesheet href="/css/pagination.css?v=1752030346"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030346"></script><script src="/js/search.js?v=1752030346"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>International Conference on Controversies in Vitamin D (it helps)</h1><time>October 8, 2024</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#press-release>Press release:</a></li></ul></li></ul></li></ul></nav><hr><h4 id=press-release>Press release:</h4><p>The International Conference on Controversies in Vitamin D (Rome, 1-4 September 2024) converged on some preliminary expert findings in view of drafting a consensus statement on the extraskeletal role of vitamin D. The Consensus Conference gathered a panel of over thirty among the world&rsquo;s leading vitamin D experts and was chaired by John P. Bilezikian (Columbia University, New York) and Andrea Giustina (Università Vita-Salute and Ospedale San Raffaele, Milan).</p><p>ROME, Oct. 7, 2024 /PRNewswire</p><p>Vitamin D: how does it affect the muscles and the gastrointestinal and immune systems? Is Vitamin D deficiency correlated with diabetes, obesity or infections? These were the underlying questions of the eighth International Conference on Controversies in Vitamin D that was held in Rome last September. The event gathered over thirty specialists from Europe, America and Australia.</p><p><strong>Extraskeletal Vitamin D</strong> – The experts&rsquo; opinion on this point is unanimous: vitamin D is not just involved in the skeletal system, which is the current focus of most guidelines and consensus statements issued by the scientific community. «Vitamin D functions as a hormone: it is only partially taken in through food and is produced by our body mainly through the cutaneous synthesis of cholecalciferol in response to exposure to solar radiation. And it has a pleiotropic effect, i.e. it can act on multiple fronts», explained  <strong>Andrea Giustina</strong> , Professor of Endocrinology and Metabolic Diseases at Università Vita-Salute San Raffaele and Chief of the Department of Endocrinology at Ospedale San Raffaele, Milan, as well as coordinator of the Consensus Conference jointly with John P. Bilezikian from Columbia University, New York. «The meeting – professor Giustina continued – relied on the outstanding expertise of the world&rsquo;s leading experts and prompted discussion about the extraskeletal effects of vitamin D, i.e. about all the clinically important processes it promotes outside our bones».</p><p><strong>Themes discussed</strong> – The panel shared their clinical experiences and delved into the existing scientific literature; their work was organised into seven sessions, each moderated by two reputable specialists:</p><ul><li><strong>Vitamin D and muscles</strong> , Salvatore Minisola (IT) and René Rizzoli (CH);</li></ul><p>-  <strong>Vitamin D and cardiovascular health</strong> , Jens Bollerslev (NO) and Jyrki Virtanen (FI);</p><p>-  <strong>Vitamin D and diabetes</strong> , Maria Luisa Brandi (IT) and Marise Lazaretti Castro (BR);</p><p>-  <strong>Vitamin D and obesity</strong> , Annamaria Colao (IT) and Claudio Marcocci (IT);</p><p>-  <strong>Vitamin D and gastrointestinal system</strong> , Glenville Jones (US) and Giovanni Latella (IT);</p><p>-  <strong>Vitamin D and infections</strong> , Neil Binkley (US) and Angelo Fassio (IT);</p><p>-  <strong>Vitamin D and immunity</strong> , Antonio Bianchi (IT) and Daniel Bikle (US).</p><p>The panelists reviewed the effects of vitamin D on the</p><ul><li>muscles, with a focus on sarcopenia and osteosarcopenia.</li></ul><p>They analyzed the <strong>cardiovascular</strong> contexts where vitamin D can come into play, such as hypertension, heart failure, cardiosurgery and ischemic heart disease. <sup><sup>[1]</sup></sup></p><p>Additionally, they evaluated the impact of vitamin D on the progression from</p><ul><li>pre-diabetes to diabetes, <sup><sup>[2]</sup></sup> as well as on glucose control, adiposity and, in general, on the gastrointestinal system.</li></ul><p>The theme of COVID-19 was widely discussed in the sessions devoted to infections and immunity: from vitamin D deficiency as a risk factor for acute infection to the studies that investigate the correlation between vitamin D deficiency and Long COVID syndrome <sup><sup>[3]</sup></sup> on the one side, and impaired long-term antibody response to COVID-19 vaccination <sup><sup>[4]</sup></sup> on the other side.</p><p><strong>Conclusions of the Consensus Conference and outlook</strong>  – «The panel reached an important consensus on the role of vitamin D deficiency and of its supplementation in the progression from pre-diabetes to overt diabetes at least in patients affected by hypovitaminosis D», professor Giustina reported. «Also, special emphasis was placed on the role of vitamin D in cardiometabolic health, with special reference to its impact in obese individuals and to the need for them to be supplemented with higher doses of vitamin D than their normal-weight peers in order to achieve the desired hormone levels. Furthermore, regarding the impact of vitamin D deficiency on body composition, the role of sarcopenia as a risk factor for falls (and, consequently, for fractures) was highlighted especially in elderly vitamin D-deficient patients.</p><p>The role of vitamin D in autoimmune and infectious processes was reviewed with special focus on acute COVID-19, Long COVID and immune response to COVID vaccination», professor Giustina continued.</p><p>«Finally, the panel pointed out how vitamin D is a constantly evolving field and how its pleiotropic effects deserve further in-depth investigation in crucially important clinical areas including cardiosurgery and gastrointestinal diseases. Last but not least, the experience gained at the Bone Center of Ospedale San Raffaele was singled out to emphasize the potential role of registries as an additional and effective tool, alongside randomised clinical trials, to collect clinical data on the long-term effects of vitamin D supplementation», professor Giustina concluded.</p><p><sup>[1]</sup> <a href=https://doi.org/10.1136/bmj-2023-075230>https://doi.org/10.1136/bmj-2023-075230</a></p><p><sup>[2]</sup> <a href=https://doi.org/10.7326/M22-3018>https://doi.org/10.7326/M22-3018</a></p><p><sup>[3]</sup> <a href=https://doi.org/10.1210/clinem/dgad207>https://doi.org/10.1210/clinem/dgad207</a></p><p><sup>[4]</sup> <a href=https://doi.org/10.1007/s12020-023-03481-w>https://doi.org/10.1007/s12020-023-03481-w</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>bone</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>diabetes</span>
+<span class=tag>falls fractures</span>
+<span class=tag>health risk</span>
+<span class=tag>heart failure</span>
+<span class=tag>high dose</span>
+<span class=tag>hypertension</span>
+<span class=tag>immunity</span>
+<span class=tag>intervention</span>
+<span class=tag>long covid</span>
+<span class=tag>metabolic</span>
+<span class=tag>obesity</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vaccination</span>
+<span class=tag>virus</span>
+<span class=tag>virus and cardiovascular</span>
+<span class=tag>virus and obesity</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span></div><div data-pagefind-meta=tags hidden>autoimmune, bone, cardiovascular, diabetes, falls fractures, health risk, heart failure, high dose, hypertension, immunity, intervention, long covid, metabolic, obesity, therapeutic intervention, vaccination, virus, virus and cardiovascular, virus and obesity, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030346"></script><script src="/js/tiki-redirects.js?v=1752030346"></script><script src="/js/lightspa.js?v=1752030346"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030346",indexUrl:"/search/search_index.json.gz?v=1752030346"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030346"></script></body></html>

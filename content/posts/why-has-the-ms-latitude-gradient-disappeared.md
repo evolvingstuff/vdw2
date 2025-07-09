@@ -53,13 +53,13 @@ In addition, we observed in most regions a profound increase in female incidence
 
 Probably due to air conditioning being used in the  **<span style="color:#03F;">Southern</span>**  part of the US
 
-{IMG(fileId="1189")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 #### ~~[Previous MS vs latitude](http://vitamin.laguost.us/vitamin-d-and-ms/)
 
-{IMG(fileId="1240" max ="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
-{IMG(attId="816"max = "200")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/sunbathing.png" alt="image" style="max-width: 200px;">
 
 ### Possible reasons for women getting more MS recently
 
@@ -69,4 +69,4 @@ Probably due to air conditioning being used in the  **<span style="color:#03F;">
 
 > Following graph shows a large recent increase in Melanoma, which like MS, is associated with vitamin D deficiency
 
-{IMG(fileId="1199" max = "600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">

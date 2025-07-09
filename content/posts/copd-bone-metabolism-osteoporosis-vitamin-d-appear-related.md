@@ -47,7 +47,7 @@ Osteoporosis, in turn, may cause fragility fractures, which further impair mobil
 
 # See also VitaminDWiki
 
-* <a href="/posts/copd-and-osteoporosis-are-related-vitamin-d-is-one-possible-connection-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD and Osteoporosis are related – vitamin D is one possible connection – 2013">COPD and Osteoporosis are related – vitamin D is one possible connection – 2013</a>
+* [COPD and Osteoporosis are related – vitamin D is one possible connection – 2013](/posts/copd-and-osteoporosis-are-related-vitamin-d-is-one-possible-connection-2013)
 
 * [COPD related to vitamin D by a gene in China. - Aug 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1339)
 

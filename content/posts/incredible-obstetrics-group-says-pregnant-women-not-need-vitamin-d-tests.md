@@ -68,11 +68,11 @@ SOURCE: http://bit.ly/kbnKlF Obstetrics & Gynecology, July 2011.
 
    * <a href="/posts/hypothesis-black-births-are-much-riskier-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Hypothesis – Black births are much riskier due to lack of vitamin D – April 2011</a>
 
-   * <a href="/posts/97-percent-of-pregnant-blacks-had-less-than-32-ng-of-vitamin-d-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 919">97 percent of pregnant Blacks had less than 32 ng of vitamin D - 2010</a>
+   * [97 percent of pregnant Blacks had less than 32 ng of vitamin D - 2010](/posts/97-percent-of-pregnant-blacks-had-less-than-32-ng-of-vitamin-d-2010)
 
 * living in the North 
 
-   * or even the south<a href="/posts/82-percent-of-pregnant-in-southern-us-had-vitamin-d-less-than-32-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 886">82% of pregnant in Southern US had vitamin D less than 32 ng – Sept 2010</a>
+   * or even the south[82% of pregnant in Southern US had vitamin D less than 32 ng – Sept 2010](/posts/82-percent-of-pregnant-in-southern-us-had-vitamin-d-less-than-32-ng)
 
 * short time from previous pregnancy 
 

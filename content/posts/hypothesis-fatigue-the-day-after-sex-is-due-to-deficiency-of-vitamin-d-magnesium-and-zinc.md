@@ -83,7 +83,7 @@ Many risk factors which were listed above are associated with low vitamin D
 
 * <a href="/posts/magnesium-is-more-than-a-co-factor-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1125">Magnesium is more than a co-factor for vitamin D</a>
 
-* <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Magnesium and vitamin D</a>
+* [Magnesium and vitamin D](/posts/magnesium-and-vitamin-d)
 
    * which includes reasons for Magnesium deficiency
 
@@ -91,11 +91,11 @@ Many risk factors which were listed above are associated with low vitamin D
 
 * <a href="/posts/testosterone-increased-with-daily-3332-iu-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1237">Testosterone increased with daily 3332 IU vitamin D – Dec 2010</a>
 
-* <a href="/posts/higher-vitamin-d-and-2x-higher-testosterone-in-summer-than-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1032">Higher vitamin D and 2X higher testosterone in summer than winter – Aug 2010</a>
+* [Higher vitamin D and 2X higher testosterone in summer than winter – Aug 2010](/posts/higher-vitamin-d-and-2x-higher-testosterone-in-summer-than-winter)
 
 * [More vitamin D associated with better sperm – May 2011](/posts/more-vitamin-d-associated-with-better-sperm)
 
-* <a href="/posts/hypothesis-increased-vitamin-d-will-increase-erections-and-decrease-cvd" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2934">Hypothesis: increased vitamin D will increase erections and decrease CVD – June 2012</a> by Dr.  **<span style="color:#00F;">Sorenson</span>**  (above) and Dr. Grant
+* [Hypothesis: increased vitamin D will increase erections and decrease CVD – June 2012](/posts/hypothesis-increased-vitamin-d-will-increase-erections-and-decrease-cvd) by Dr.  **<span style="color:#00F;">Sorenson</span>**  (above) and Dr. Grant
 
 ### PubMed Search for ("vitamin D" (testosterone OR androgen))   
  got 1071 items Jan 2016

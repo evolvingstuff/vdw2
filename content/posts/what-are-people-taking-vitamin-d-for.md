@@ -53,23 +53,23 @@
 
 # [Rickets](http://www.ehealthme.com/cd/rickets/vitamin+d)
 
-{IMG(attId="472")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/ehealthme-rickets.gif" alt="image">
 
 # [Bone Density](http://www.ehealthme.com/cd/bone+density+decreased/vitamin+d)
 
-{IMG(attId="473")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/eahealthme-bone-density.gif" alt="image">
 
 # Osteoporosis
 
-{IMG(attId="469")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/ehealthme-osteoporosis.gif" alt="image">
 
 # Osteopania
 
-{IMG(attId="471")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/ehealthme-osteopenia.gif" alt="image">
 
 # [Side Effects](http://www.ehealthme.com/q/vitamin+d-side-effects-drug-interactions)
 
-{IMG(attId="470")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/ehealthme-side-effects.gif" alt="image">
 
 ---
 

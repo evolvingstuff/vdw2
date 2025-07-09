@@ -39,6 +39,6 @@ Disclosures: Dr. van de Luijtgaarden said that he and his associates had no disc
 
 * [All items After Surgery or Trauma](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&sort_mode=created_desc) 45 items as of Oct 2011
 
-* <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">HMOs will save millions of dollars with vitamin D</a>
+* [HMOs will save millions of dollars with vitamin D](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d)
 
    * Vitamin D before and after many kinds of surgeries will decrease time in hospital and decrease complications

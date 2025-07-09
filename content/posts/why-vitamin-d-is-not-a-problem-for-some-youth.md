@@ -65,4 +65,4 @@
 
 * [70 percent of Koreans in their twenties had less than 20ng of vitamin D – Dec 2010](/posts/70-percent-of-koreans-in-their-twenties-had-less-than-20ng-of-vitamin-d)
 
-* <a href="/posts/90-percent-of-canadian-youth-less-than-30-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1090">90 percent of Canadian youth less than 30 ng vitamin D – Oct 2010</a>
+* [90 percent of Canadian youth less than 30 ng vitamin D – Oct 2010](/posts/90-percent-of-canadian-youth-less-than-30-ng-vitamin-d)

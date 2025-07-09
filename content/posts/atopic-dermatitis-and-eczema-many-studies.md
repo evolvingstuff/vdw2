@@ -274,7 +274,7 @@ Karen Sánchez‐Armendáriz MD  Ana García‐Gil MD  Cesar A. Romero MD José 
 
 </div>
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1111/ijd.14220** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1111/ijd.14220** 
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/scorad-vit-d.jpg" alt="image" width="400">
 
@@ -344,7 +344,7 @@ Conclusions: The VDR SNP rs2238136 is a risk factor for AD and other SNPs in VDR
 
 #### Vitamin D fights many skin diseases, topical form might be best
 
-* <a href="/posts/topical-vitamin-d-might-be-more-bio-available-than-oral" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical vitamin D might be more bio-available than oral – Oct 2015">Topical vitamin D</a> is especially useful for Skin diseases 
+* [Topical vitamin D](/posts/topical-vitamin-d-might-be-more-bio-available-than-oral) is especially useful for Skin diseases 
 
 > &nbsp; &nbsp;- as vitamin D is focused on the skin problem, rather than the whole body
 

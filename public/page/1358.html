@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta name=generator content="Hugo 0.140.0"><meta charset=utf-8><title>VitaminDWiki</title>
+<link rel=stylesheet href="/css/main.css?v=1752030354"><link rel=stylesheet href="/css/pagination.css?v=1752030354"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030354"></script><script src="/js/search.js?v=1752030354"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>VitaminDWiki</h1><article><div class=post-header><h2 class=post-title><a href=/posts/breast-cancer-and-pregnancy-both-better-with-vitamin-d.html>Breast Cancer and pregnancy both better with vitamin D</a></h2><span class=post-date>October 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/myth-for-50-years-2000-iu-of-vitamin-d-is-toxic-still-taught-as-fact-in-2010.html>Myth for 50 years: 2000 IU of vitamin D is toxic - still taught as fact in 2010</a></h2><span class=post-date>October 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/recommended-levels-of-vitamins-and-minerals-history-rda-dri.html>Recommended levels of vitamins and minerals - history RDA DRI</a></h2><span class=post-date>October 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/27-percent-of-americans-now-supplement-with-some-vitamin-d.html>27 percent of Americans now supplement with some vitamin D</a></h2><span class=post-date>October 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/6th-canadian-province-may-stop-paying-for-vitamin-d-testing.html>6th Canadian province may stop paying for vitamin D testing</a></h2><span class=post-date>October 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/hypothesis-low-vitamin-d-causes-health-problems-during-pregnancy-and-for-infant.html>Hypothesis - low vitamin D causes health problems during pregnancy and for infant</a></h2><span class=post-date>September 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/less-bone-mass-at-age-9-if-low-vitamin-d-during-pregnancy-and-childhood-lancet-2006.html>Less bone mass at age 9 if low vitamin D during pregnancy and childhood – Lancet 2006</a></h2><span class=post-date>September 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/teeth-and-vitamin-d-from-book-sunlight-solution.html>Teeth and vitamin D - from Book - Sunlight Solution</a></h2><span class=post-date>September 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/vitamin-d-deficiency-and-pregnancy-from-preconception-to-birth.html>Vitamin D deficiency and pregnancy - from preconception to birth</a></h2><span class=post-date>September 2010</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/vitamin-d-levels-of-mothers-fell-significantly-due-to-pregnancy.html>Vitamin D levels of mothers fell significantly due to pregnancy</a></h2><span class=post-date>September 2010</span></div></article><nav class=pagination><a href=/page/1357.html rel=prev>&#171; Previous</a>
+<a href=/>1</a>
+<span>...</span>
+<a href=/page/1355.html>1355</a>
+<a href=/page/1356.html>1356</a>
+<a href=/page/1357.html>1357</a>
+<a href=/page/1358.html class=active>1358</a>
+<a href=/page/1359.html>1359</a>
+<a href=/page/1360.html>1360</a>
+<a href=/page/1361.html>1361</a>
+<span>...</span>
+<a href=/page/1442.html>1442</a>
+<a href=/page/1359.html rel=next>Next &#187;</a></nav></div></div><script src="/js/toc-sanitizer.js?v=1752030354"></script><script src="/js/tiki-redirects.js?v=1752030354"></script><script src="/js/lightspa.js?v=1752030354"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030354",indexUrl:"/search/search_index.json.gz?v=1752030354"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030354"></script></body></html>

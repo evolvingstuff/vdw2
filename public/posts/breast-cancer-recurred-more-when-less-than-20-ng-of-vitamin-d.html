@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Breast Cancer recurred more when less than 20 ng of vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Breast Cancer recurred more when less than 20 ng of vitamin D</h1><time>October 20, 2010</time><div data-pagefind-body><h1 id=vitamin-d-helps-prevent-breast-cancer-recurrence-death---new-study>Vitamin D helps prevent breast cancer recurrence, death - new study</h1><h1 id=note--unsure-of-the-percentage-article-seems-to-say-both-71--and-94>Note – unsure of the percentage. Article seems to say both 71 % and 94%</h1><p>18/10/2010 Clipped from article by Jimmy Downs</p><p><a href=http://www.foodconsumer.org/newsite/Nutrition/Vitamins/vitamin_d_prevents_breast_cancer_recurrence_and_death_1810101239.html>http://www.foodconsumer.org/newsite/Nutrition/Vitamins/vitamin_d_prevents_breast_cancer_recurrence_and_death_1810101239.html</a></p><p>The study led by Goodwin P.J. and colleagues from Mount Sinai Hospital in Ontario Canada showed that women with <strong>deficient</strong> vitamin D levels were <strong>94 percent</strong> more likely to have distant recurrence and 73 percent more likely to die from the disease compared to those with sufficient levels.</p><p>The study involved 512 patients with early breast cancer diagnosed between 1989 and 1996. Vitamin D levels were measured in stored blood. All clinical, pathological and dietary data were available for the researchers to examine the prognostic effects of vitamin D on the risk of recurrence and death from the disease.</p><p>Only 24 percent of patients had sufficient vitamin D compared to 37.5 percent deficient and 38.5 percent insufficient. During an average 11.6 years of follow-up, 116 women had distant recurrences and 106 died.</p><p>For the study, vitamin D deficiency was defined as having less than 50 nmol per L, insufficiency as having 50 to 72 nmol per L and sufficiency as having higher than 72 nmol per L.</p><p>The researchers also found that the reduction in recurrence and death from breast cancer was attenuated, but was still significant. Specifically, those with deficient vitamin D were <strong>71 percent</strong> more likely to have distant recurrence and 60 percent more likely to die compared to those with vitamin D sufficiency.</p><p>– – – – – – – – – –</p><p>A study presented in May at the 2008 American Society of Clinical Oncology annual meeting provides more evidence that Vitamin D may be a critical ally against breast cancer (Goodwin PJ et al. 2008). Three years ago, a group of leading American cancer researchers concluded that high levels of Vitamin D might help protect against breast cancer (Bertone-Johnson ER et al. 2005). The new study by researchers from the University of Toronto measured Vitamin D levels in the blood of 512 newly diagnosed breast cancer patients and tracked the progress of their disease over an average of about 12 years.</p><p>Only 24% of the women had Vitamin D levels deemed adequate. About 38% had Vitamin D levels low enough to be considered deficient, and 39% had levels considered insufficient. The analysis showed that the breast cancer patients with the lowest levels of Vitamin D had nearly double the risk of their disease progressing, and were 73% more likely to have died within 12 years, compared to women with adequate Vitamin D levels. The findings were not affected by factors including age, weight, and tumor stage or grade.</p><h1 id=the-following-is-a-previous-study>The following is a previous study</h1><h1 id=prospective-change-in-25-oh-vitamin-d-levels-over-long-term-follow-up-and-health-outcomes-in-breast-cancer-survivors>Prospective change in 25-OH vitamin D levels over long-term follow-up and health outcomes in breast cancer survivors.</h1><p>Journal of Clinical Oncology, 2010 ASCO Annual Meeting Proceedings (Post-Meeting Edition).</p><p>Vol 28, No 15_suppl (May 20 Supplement), 2010: 6111</p><p>S. K. Taylor, M. Ennis, N. S. Hood, M. Graham, K. I. Pritchard and P. J. Goodwin</p><p>Princess Margaret Hospital, University Health Network, Toronto, ON, Canada; Applied Statistician, Markham, ON, Canada; Mount Sinai Hospital, Toronto, ON, Canada; Mount Sinai Hospital, Cambridge, ON, Canada; Sunnybrook Health Sciences Centre, Toronto, ON, Canada</p><p>Background: 25 OH vitamin D (VitD) deficiency, common at breast cancer (BC) diagnosis, is associated with poor BC outcomes. Change in VitD after diagnosis of BC and associations with other health outcomes are unknown.</p><p>Methods: 535 patients with T1-3,N0-1,M0 newly diagnosed BC enrolled in a prospective cohort study (1989-1996) were candidates for a long-term follow-up (LTFU) study (2004-2007). 123 had died, 75 were ineligible (33 distant recurrence, 28 other invasive cancer, 14 moved > 1 hour away). Of the remaining 337, 29 (9%) refused participation, 23 (7%) could not be contacted, 285 were enrolled. Women reported medical status, diet and exercise, allowed anthropometric measurements, and completed questionnaires (EORTC QLQ C-30, SF36, POMS, Key Everyday Problems, and Ladder of Life). Fasting blood was analyzed for VitD (nmol/L) by radioimmunoassay (DIASORIN, Stillwater, MN). Associations of VitD with health outcomes were examined in 231 women with VitD levels at baseline and LTFU using standard statistical tests.</p><p>Results: Reflecting known prognostic effects, LTFU survivors had less aggressive tumors (lower T,N, and grade), lower BMI, and higher baseline VitD than the full cohort. Mean ages at diagnosis and LTFU of the 231 patients were 49.8 ± 8.9 and 62.2 ± 8.5 years respectively. VitD (proportion with adequate levels) increased from 61.3 ± 23.6 (27%) at baseline to 93.8 ± 32.3 at LTFU (71%) (p &lt; 0.0001). Vitamin supplement use also increased. VitD increased more in those reporting (vs. not reporting) osteoporosis at LTFU (46.9 ± 45.2 vs. 28.9 ± 29.0, p = 0.001). Lower VitD at both baseline and LTFU was significantly associated with LTFU cardiovascular risk factors (mainly hypercholesterolemia), but not with cardiac or kidney disease, diabetes, arthritis, asthma, Charlson comorbidity index, QOL, anthropometric measures, or self-reported physical activity; these findings persisted when adjusted for age.</p><p>Conclusions: VitD increased over time in BC survivors, notably in those with osteoporosis (likely reflecting treatment effects). Lower VitD at diagnosis and LTFU was associated with cardiovascular risk factors but not cardiovascular disease, and did not predict other health outcomes or QOL.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>asthma</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>breast cancer</span>
+<span class=tag>breathing</span>
+<span class=tag>cancer</span>
+<span class=tag>Cancer - Breast</span>
+<span class=tag>diabetes</span>
+<span class=tag>metabolic</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>asthma, bone, bone cancer, breast cancer, breathing, cancer, Cancer - Breast, diabetes, metabolic, osteoporosis, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

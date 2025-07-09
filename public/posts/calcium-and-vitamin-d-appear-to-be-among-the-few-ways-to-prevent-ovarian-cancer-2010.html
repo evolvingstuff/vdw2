@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Calcium and vitamin D appear to be among the few ways to prevent ovarian cancer – 2010</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Calcium and vitamin D appear to be among the few ways to prevent ovarian cancer – 2010</h1><time>June 26, 2010</time><div data-pagefind-body><h3 id=independent-and-joint-effects-of-serum-25-hydroxyvitamin-d-and-calcium-on-ovarian-cancer-risk-a-prospective-nested-casecontrol-study---june-2010>Independent and joint effects of serum 25-hydroxyvitamin D and calcium on ovarian cancer risk: A prospective nested case–control study - June 2010</h3><p>European Journal of Cancer</p><p>doi:10.1016/j.ejca.2010.05.019</p><p>Adetunji T. Toriolaa, b, Corresponding Author Contact Information, E-mail The Corresponding Author, E-mail The Corresponding Author, Helja-Marja Surcela, Agborsangaya Calypsea, b, Kjell Grankvistc, Tapio Luostarinend, Annekatrin Lukanovae, Eero Pukkalab, d and Matti Lehtinena, b</p><p>a National Institute for Health and Welfare, Finland</p><p>b Tampere School of Public Health, University of Tampere, Finland</p><p>c Department of Medical Biosciences, Umeå University, Umeå, Sweden</p><p>d Finnish Cancer Registry, Institute for Statistical and Epidemiological Cancer Research, Helsinki, Finland</p><p>e Department of Cancer Epidemiology, German Cancer Research Centre, Heidelberg, Germany</p><p>Received 1 April 2010; revised 12 May 2010; accepted 19 May 2010.</p><p>Introduction Ovarian cancer has very few known modifiable risk factors but dietary studies suggest a role for vitamin D and calcium in the prevention of ovarian cancer. Thus, we investigated the association between pre-diagnostic serum calcium and 25-hydroxyvitamin D (25-OHD) on the risk of later development of ovarian cancer.</p><p>Methods We conducted a population-based nested case–control study within the Finnish Maternity Cohort (FMC). The cohort subset comprised 172 ovarian cancer cases with 172 matched controls (age ± 1 year, parity and season of blood donation ± 2 weeks).</p><p>Results We observed a significant inverse association between calcium and ovarian cancer risk. Relative risk (estimated as odds ratio, OR) comparing the highest quartile to the lowest quartile was significantly decreased; 0.41 <span>[95% confidence interval (CI) 0.19–0.85, P-trend 0.004]</span>. Even though a comparable association between 25-OHD and ovarian cancer did not reach statistical significance (OR 0.57, 95% CI 0.26–1.24, P-trend 0.07), having sufficient (>75 nmol/L) serum 25-OHD levels compared to insufficient serum 25-OHD was associated with a significantly decreased risk of ovarian cancer (OR 0.32; 95% CI 0.12–0.91, p-value 0.03). No synergistic protective interaction between high levels of calcium and 25-OHD against ovarian cancer was observed, the joint effect being just multiplicative.</p><p>Conclusion <strong>Calcium and vitamin D act independently to reduce the risk of ovarian cancer</strong> . The decreased risk of ovarian cancer associated with pre-diagnostic serum calcium and vitamin D needs to be evaluated further for possible new insights into ovarian cancer prevention.</p><hr><h1 id=casting-light-on-25-hydroxyvitamin-d-deficiency-in-ovarian-cancer-a-study-from-the-nhanes---nov-2010>Casting light on 25-hydroxyvitamin D deficiency in ovarian cancer: A study from the NHANES - Nov 2010</h1><p>Gynecologic Oncology</p><p>Volume 119, Issue 2, November 2010, Pages 314-318</p><p>doi:10.1016/j.ygyno.2010.07.006 | How to Cite or Link Using DOI</p><p>Arvind Bakhrua, <a href=mailto:arvindba@med.umich.edu>arvindba@med.umich.edu</a>, Julie B. Mallingera, Ronald J. Buckanovicha, b, and Jennifer J. Griggsc,</p><p>a Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, University of Michigan Medical Center, 1500 East Medical Center Drive, L4500WH, Ann Arbor, MI 48109, USA</p><p>b Department of Internal Medicine, Division of Hematology Oncology, University of Michigan Medical Center, 1500 East Medical Center Drive, Ann Arbor, MI 48109, USA</p><p>c Department of Internal Medicine, Division of Hematology Oncology, Department of Health Management and Policy, University of Michigan Medical Center, 300 North Ingalls, Room 3A22, Ann Arbor, MI 48109, USA; Received 30 May 2010. , Available online 3 August 2010.</p><p>Objectives</p><p>Ecological studies have long described a higher incidence of ovarian cancer in more extreme latitudes, where sun exposure, and presumably vitamin D exposure, is lower. Basic science studies have also noted polymorphisms of the vitamin D receptor in ovarian cancers. The aim of this study is to examine the relationship of serum vitamin D to ovarian cancer.</p><p>Methods</p><p>A case–control study of 7273 subjects from the National Health and Nutrition Examination Surveys (NHANES) was performed. Serum 25-hydroxyvitamin D (25<span>[OH]</span>D) levels were examined in both ovarian cancer patients and a control population. Logistic regression examined the odds of ovarian cancer for those with vitamin D levels below the median of the U.S. population.</p><p>Results</p><p>Ovarian cancer cases were more than three times more likely to have low 25<span>[OH]</span>D levels (OR 3.68, 95% CI 1.03–13.21, p = 0.04). In the weighted multivariate model, the relationship persisted after adjusting for potential confounders, including age, body mass index, and diet. Adjusting for significant covariates, which included age and dietary calcium intake, ovarian cancer cases were nearly four times more likely to have low 25<span>[OH]</span>D levels (OR 3.92, 95% CI 1.11–13.85, p = 0.03).</p><p>Conclusions</p><p>Prevalent ovarian cancer cases have lower serum 25-hydroxyvitamin D (25<span>[OH]</span>D) than the general population. Deficiency in vitamin D may provide an etiologic link between the long-known ecologic findings regarding latitude and the basic science noting polymorphisms in the vitamin D receptor.</p><hr><p>The study included data from 7,273 participants, 28 of whom had ovarian cancer.</p><p>More ovarian cancer patients had low 25(OH)D levels:12.6 percent versus 1.6 percent</p><p>Seems like there are too few cases of ovarian cancer to be statistically significant, but p=0.03 says otherwise</p><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><a href=/posts/ovarian-cancer-58-x-more-likely-if-both-low-vitamin-d-and-fok1-gene-change>Ovarian Cancer 5.8 X more likely if both low vitamin D and Fok1 gene change – May 2013</a></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>cancer</span>
+<span class=tag>Cancer - Ovarian</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>genetics</span>
+<span class=tag>ovarian cancer</span>
+<span class=tag>vitamin d</span>
+<span class=tag>Vitamin D and Calcium</span>
+<span class=tag>vitamin d blood test</span>
+<span class=tag>vitamin d receptor</span>
+<span class=tag>Women</span></div><div data-pagefind-meta=tags hidden>blood levels, cancer, Cancer - Ovarian, cancer in VDR, genetics, ovarian cancer, vitamin d, Vitamin D and Calcium, vitamin d blood test, vitamin d receptor, Women</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

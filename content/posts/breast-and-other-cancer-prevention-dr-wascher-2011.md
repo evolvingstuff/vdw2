@@ -141,4 +141,4 @@ The first modern connection with cancer and vitamin D is due to an interesting o
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a> General Cancers and specifics - including Breast
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) General Cancers and specifics - including Breast

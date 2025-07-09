@@ -62,6 +62,6 @@ PMID:     21349488
 
 * <a href="/posts/overview-athletes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1259">Overview: Athletes and vitamin D</a>
 
-* <a href="/posts/exercise-capacity-vo2-25-percent-higher-if-high-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Exercise capacity (VO2) 25 percent higher if high level of vitamin D – Dec 2015">Exercise capacity (VO2) 25 percent higher if high level of vitamin D – Dec 2015</a>
+* [Exercise capacity (VO2) 25 percent higher if high level of vitamin D – Dec 2015](/posts/exercise-capacity-vo2-25-percent-higher-if-high-level-of-vitamin-d)
 
-* <a href="/posts/higher-cardiovascular-fitness-vo2-if-higher-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Higher Cardiovascular fitness (VO2) if higher Vitamin D – Oct 2018">Higher Cardiovascular fitness (VO2) if higher Vitamin D – Oct 2018</a>
+* [Higher Cardiovascular fitness (VO2) if higher Vitamin D – Oct 2018](/posts/higher-cardiovascular-fitness-vo2-if-higher-vitamin-d)

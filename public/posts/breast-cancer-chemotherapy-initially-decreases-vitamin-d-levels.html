@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Breast Cancer Chemotherapy initially decreases vitamin D levels</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Breast Cancer Chemotherapy initially decreases vitamin D levels</h1><time>May 4, 2012</time><div data-pagefind-body><p><strong>two articles on this page, both published May 2012</strong></p><h4 id=changes-of-serum-vitamin-d-according-to-the-breast-cancer-treatment>CHANGES OF SERUM VITAMIN D ACCORDING TO THE BREAST CANCER TREATMENT</h4><p>H.J. Kim? and S.H. Ahn</p><p>Ann Oncol (2012) 23 (suppl 2): ii46-ii50.; <a href=https://doi.org/10.1093/annonc/mds046>doi: 10.1093/annonc/mds046</a></p><p>This article appears in: IMPAKT Breast Cancer Conference, 3-5 May 2012, Brussels, Belgium</p><p>Department of Surgery, Asan Medical Center, Seoul, KOREA</p><p>Background Vitamin D deficiency is associated with increased breast cancer risk and decreased breast cancer survival. The purpose of this study was to determine the effect of breast cancer adjuvant treatment to the vitamin D status, as measured by the serum hydroxyvitamin D (25OHD) in breast cancer patients</p><p>Patients and methods For 589 patients who were diagnosed as a non-metastatic breast cancer in 2009 at the Asan medical center, blood was prospectively analyzed in batches for serum 25 OHD level at basal and at 6 and 12month. We excluded the patients who took a vitamin D supplementation and got a neoadjuvant chemotherapy. Vitamin D sufficiency was defined as serum as 30ng/ml or greater, insufficiency as 20 to 29 ng/ml and insufficiency as less than 20ng/ml.</p><p>Results At baseline, mean serum 25OHD was greater in summer (April to Oct) than winter (Nov to May) (28.2ng/ml vs 32.9ng/ml respectively, p = 0.000). The patients who did not get a chemotherapy and anti-hormonal therapy as baseline, the patient with chemotherapy showed decreased serum 25OHD level than who without chemotherapy in 6 month but not in 12 month (p = 0.003, vs p = 0.156 respectively). The patients who had taken anti-hormonal therapy showed significant increasing serum 25OHD in 6 month and 12 months (p = 0.000 both). For the patients who got both chemotherapy and anti-hormonal therapy, the changes of serum 25OHD level is smaller than the patients who got a chemotherapy only For the patients who got a chemotherapy, 57% of patients were vitamin D sufficient at baseline, but 27% of patients in 6 month and 49% in 12 month (p = 0.001).</p><p>Conclusion Vitamin D status was worse during chemotherapy but recovered after chemotherapy. Anti-hormonal therapy make the serum vitamin D level increased. The translational research about the effect of chemotherapy and anti-hormonal therapy to the vitamin D status should be warranted.</p><p>Disclosure All authors have declared no conflicts of interest.</p><hr><h3 id=span-stylecolor00fchemotherapy-before-advanced-breast-cancer-surgery-lowered-vitamin-d-levels--may-2012-span><span style=color:#00f>Chemotherapy before advanced breast cancer surgery lowered vitamin D levels – May 2012</span></h3><h3 id=increased-prevalence-of-vitamin-d-insufficiency-in-patients-with-breast-cancer-after-neoadjuvant-chemotherapy>Increased prevalence of vitamin D insufficiency in patients with breast cancer after neoadjuvant chemotherapy.</h3><p>Breast Cancer Res Treat. 2012 May 6.</p><p>Jacot W, Pouderoux S, Thezenas S, Chapelle A, Bleuse JP, Romieu G, Lamy PJ.</p><p>Département d&rsquo;Oncologie Médicale, CRLC Val d&rsquo;Aurelle-Paul Lamarque, 208, rue des Apothicaires, 34298, Montpellier, France.</p><p>Patients with locally advanced breast cancer treated with neoadjuvant chemotherapy are at risk of cancer treatment-induced bone loss and consequently of increased skeletal morbidity. In addition, this situation could be worsened by the fact that only a minority of patients with breast cancer have sufficient vitamin D. A comprehensive evaluation of bone homeostasis is critical in this context. We retrospectively evaluated the serum levels of calcium, vitamin D, TRAIL, RANK ligand (RANKL), Osteoprotegerin (OPG), Bone TRAP, CrossLaps and DKK1 in 77 patients (median age: 50 years; range 25-74), with locally advanced breast cancer treated in our institute with <strong>anthracyclines-taxane</strong> neoadjuvant chemotherapy (7 cycles of 21 days/each) between March 2007 and August 2008. Serum samples were collected before the first (baseline) and the last treatment cycle. Variations and correlations between biomarker levels were evaluated.</p><ul><li><p>At baseline, 79.5 % of patients had vitamin D insufficiency (&lt;30 ng/ml),</p></li><li><p>increasing to 97.4 % at the end of the neoadjuvant chemotherapy (p &lt; 0.0001).</p></li></ul><p>Calcium and RANKL serum concentrations were also significantly decreased, while OPG was significantly increased, resulting in lower RANKL/OPG ratio. Calcium and vitamin D, RANKL and vitamin D and RANKL and OPG levels were significantly correlated (Spearman&rsquo;s coefficient r = 0.2721, p = 0.0006; r = 0.1916, p = 0.002; and r = -0.179, p = 0.03, respectively).</p><p>Nearly all included patients suffered from vitamin D insufficiency by the end of the neoadjuvant chemotherapy with changes in the calcium/RANKL/OPG axis that are evocative of deregulation of a functional regulatory mechanism. Further studies are needed to determine how drugs modulate this regulatory mechanism to preserve bone homeostasis in patients with breast cancer.</p><p>PMID: 22562178</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>bone loss</span>
+<span class=tag>breast cancer</span>
+<span class=tag>cancer</span>
+<span class=tag>Cancer - after diagnosis</span>
+<span class=tag>Cancer - Breast</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>blood levels, bone, bone cancer, bone loss, breast cancer, cancer, Cancer - after diagnosis, Cancer - Breast, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

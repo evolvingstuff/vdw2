@@ -1,0 +1,111 @@
+<!doctype html><html><head><meta charset=utf-8><title>Poor absorption of Vitamin D is strongly related to type of gut bacteria</title>
+<link rel=stylesheet href="/css/main.css?v=1752030348"><link rel=stylesheet href="/css/pagination.css?v=1752030348"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030348"></script><script src="/js/search.js?v=1752030348"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Poor absorption of Vitamin D is strongly related to type of gut bacteria</h1><time>December 11, 2020</time><div data-pagefind-body><h4 id=the-potential-role-of-vitamin-d-supplementation-as-a-gut-microbiota-modifier-in-healthy-individuals>The potential role of vitamin D supplementation as a gut microbiota modifier in healthy individuals</h4><p>Sci Rep. 2020 Dec 10;10(1):21641. <a href=https://doi.org/10.1038/s41598-020-77806-4.>doi: 10.1038/s41598-020-77806-4.</a></p><p>Parul Singh 1, Arun Rawat 1, Mariam Alwakeel 2, Elham Sharif 3, Souhaila Al Khodor 4</p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:800px"><p>Gave 50,000 IU of Vitamin D for 12 weeks</p><p>Most had a good response</p><p>The people with a poor response had a poor Bacteroidetes to Firmicutes ratio</p><hr><p><strong>VitaminDWiki has been investigating why some have poor response to Vitamin D</strong></p><p><strong><a href=/posts/reasons-for-low-response-by-vitamin-d-level-in-the-blood style=color:red;text-decoration:underline title="This post/category does not exist yet: Reasons for low response by vitamin D level in the blood">Reasons for low response by vitamin D level in the blood</a> contained the following Dec 2020</strong></p><p><strong>~ 50% of all people have a low response to vitamin D3</strong></p><p><strong>~ 10% of all people have a ZERO response to a LOW dose</strong></p><table><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Occurence</td><td><strong>Reason for low response</strong></td><td>Typical %<br>extra Vit D<br>needed</td><td>Comments</td></tr><tr><td>Common</td><td>Excess BMI/weight</td><td>150%</td><td>((Obese need 2X to 3X more vitamin D - Nov 2014</td></tr><tr><td>Common</td><td>Vitamin D supplement was not<br>taken with/after large meal</td><td>40%</td><td>Take after large meal - provides more gut-time for vitamin D<br><a href=/posts/evening-meal style=color:red;text-decoration:underline title="This link has an unknown page_id: 876">evening meal</a> or <a href=/posts/largest-meal style=color:red;text-decoration:underline title="This link has an unknown page_id: 218">largest meal</a> Note: avoid <a href=/posts/late-in-the-evening style=color:red;text-decoration:underline title="This link has an unknown page_id: 2146">late in the evening</a></td></tr><tr><td>Common</td><td>Magnesium - low<br>(Gut needs Mg to absorb Vit. D)</td><td>30%</td><td>((Overview Magnesium and vitamin D</td></tr><tr><td>Common</td><td>Smoking</td><td>30%</td><td><a href=/posts/smoking-reduces-vitamin-d-many-studies>Smoking reduces vitamin D - many studies</a> -9 ng reduction</td></tr><tr><td>Common</td><td>mono-unsat fat ratio -low</td><td>20%</td><td>((Increasing the ratio of mono to poly fats increased Vitamin D levels by 6 ng – RCT Aug 2011</td></tr><tr><td>Common</td><td>Cola - soft drinks</td><td>20%</td><td><a href=/posts/cola-removes-calcium-vit-d-consumed-in-restoring-calcium style=color:red;text-decoration:underline title="This link has an unknown page_id: 1343">Cola removes Calcium, Vit D consumed in restoring Calcium</a></td></tr><tr><td>Common</td><td>Oil-based Vitamin D</td><td>20%</td><td>((Oil-based Vitamin D3 has the worst bioavailability – April 2014</td></tr><tr><td>Common</td><td>Vitamin K2 -low</td><td>10%</td><td><a href=/posts/overview-vitamin-k-and-vitamin-d>Overview Vitamin K and Vitamin D</a><br>perhaps 100 microgram/ 1000 IU of vitamin D</td></tr><tr><td>Common</td><td>Boron - low</td><td>15%</td><td><a href=/posts/boron-increases-vitamin-d-in-the-blood>Boron increases vitamin D in the blood</a> claims 6 mg ==> 24%<br>   -Boron is also known to build bone - perhaps by increasing vitamin D</td></tr><tr><td>Common</td><td>Cholesterol - reduced in diet</td><td>N.A.</td><td>((Overview Cholesterol and vitamin D</td></tr><tr><td><strong>- - - - -</strong></td><td></td><td></td><td></td></tr><tr><td>Sometimes</td><td>Extremely Vit D deficient</td><td>200%</td><td>Low dose can result in ((Pharmacology of vitamin D - April 2011</td></tr><tr><td>Sometimes</td><td>Health - low</td><td>200%</td><td>Unhealthy body consumes a lot of vitamin D - see extremely deficient<br>(Examples: ((Multiple Sclerosis patients need more vitamin D to get same blood level response – Aug 2015</td></tr><tr><td>Sometimes</td><td>Anemia</td><td>40%</td><td>((Iron deficiency is a cause of Vitamin D deficiency</td></tr><tr><td>Sometimes</td><td>Fatty Liver</td><td>40%</td><td>((Non-alcoholic Fatty Liver Disease (4 in 10 seniors) and Vitamin D</td></tr><tr><td>Sometimes</td><td>Drugs which consume<br>or block Vit D</td><td>50%</td><td><a href=/posts/taking-drugs style=color:red;text-decoration:underline title="This link has an unknown page_id: 784">Taking drugs</a> such as Statins, Antiseizure, Prednisone, AIDS drugs,<br>Orlistat, Questran, Dilatin, Phenobarbital, Rifampin, <a href="https://www.google.com/search?num=20&amp;rlz=1C2CHFX_enUS598US598&amp;q=methamphetamine+%22vitamin+d%22&amp;oq=methamphetamine+%22vitamin+d%22&amp;gs_l=serp.3..0j0i22i30.23786.30383.0.30612.18.17.1.0.0.0.103.1361.15j1.16.0.msedr...0...1c.1.60.serp..1.17.1383.iqWuvmaKSQ4">Methamphetamine</a>..</td></tr><tr><td>Sometimes</td><td>Genes</td><td>50%</td><td>Genes need to be functioning properly to process vitamin D<br>((Vitamin D levels are strongly associated with genes: overview of twin studies – Nov 2012</td></tr><tr><td>Sometimes</td><td>Taking D2 vs D3</td><td>30%</td><td><a href=/posts/sometimes-d2-will-actually-decrease-the-level-of-d3 style=color:red;text-decoration:underline title="This link has an unknown page_id: 2138">Sometimes D2 will actually DECREASE the level of D3</a></td></tr><tr><td>Sometimes</td><td>Too much UVA vs UVB</td><td>20%</td><td>UVA appears to actually DECREASE vitamin D levels<br>Avoid getting a lot of sun thru windows or very early/late in the day</td></tr><tr><td>Sometimes</td><td>Winter birth</td><td>11%</td><td>((If born in the winter, 11 percent more likely to be vitamin D deficient as an adult – Sept 2015</td></tr><tr><td>Sometimes</td><td>Oral contraceptives<br>INCREASE response</td><td>-20%</td><td>((Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012</td></tr><tr><td>Sometimes</td><td>Test results inaccurate</td><td>> 20% -20%</td><td>((Low cost vitamin D Blood Tests</td></tr><tr><td>Sometimes</td><td>Gut - poor</td><td>100%</td><td>((Gut-Friendly Vitamin D</td></tr><tr><td>Sometimes</td><td>Probiotic + -</td><td>> 20% -30%</td><td><a href=/posts/13-30-percent-increased-d-bioavailability-13-20-percent-decreases style=color:red;text-decoration:underline title="This link has an unknown page_id: 4522">1/3: 30% increased D bioavailability; 1/3: 20% decreases</a></td></tr><tr><td>Sometimes</td><td>DDT, pesticides</td><td>20%</td><td>((Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016</td></tr><tr><td>Sometimes</td><td>Plastics (phthalates and BPA)</td><td>10%</td><td>((BPA increased risk of vitamin D deficiency by 20 percent – Sept 2016</td></tr><tr><td>Sometimes</td><td>Vitamin A - excessive</td><td>30%</td><td>((Response to high dose vitamin D is limited by vitamin A - July 2013</td></tr><tr><td><a href=/posts/vitamin-a-misc>Many children in developing countries get excess Vit A doses every 6 months</a></a></td><td></td><td></td><td></td></tr><tr><td>Sometimes</td><td>Roundup/glyphosate</td><td>? %</td><td>((Investigation on Roundup - glyphosate at VitaminDWiki</td></tr><tr><td>Sometimes</td><td>Stress</td><td>? %</td><td>((Cholesterol is needed to produce both Vitamin D and Cortisol</td></tr><tr><td><strong>- - - - -</strong></td><td></td><td></td><td></td></tr><tr><td>Rare</td><td>Gallbladder removed<br><a href=https://en.wikipedia.org/wiki/Cholecystectomy>600,000/year in US</a></td><td>100%</td><td>((Gallbladder removal and vitamin D deficiency</td></tr><tr><td>Rare</td><td>Bariatric Surgery<br>which bypasses the small intstine</td><td>> 200%?</td><td>Vitamin D is ((When to take Vitamin D</td></tr><tr><td>Rare</td><td>Pancreatic Insufficiency</td><td>??</td><td>Fat soluble vitamins (A, D, E, K) are not absorbed as well</td></tr><tr><td>Rare</td><td>Liver problems</td><td>50%</td><td>Use Calcidiol or Calcitrol forms of vitamin D instead</td></tr><tr><td>Rare</td><td>Burned skin</td><td>70%</td><td>((Burns, ulcers, and wounds healed by Vitamin D - many studies</td></tr><tr><td><strong>- - - - -</strong></td><td></td><td></td><td></td></tr><tr><td>Sun/UV</td><td>Skin - Dark</td><td>250%</td><td>vitamin D produced varies with ((How many minutes of sun do I need – age, skin color, UV index – Nov 2014</td></tr><tr><td>Sun/UV</td><td>Skin - Elderly</td><td>100%</td><td>((How many minutes of sun do I need – age, skin color, UV index – Nov 2014</td></tr><tr><td>Sun/UV</td><td>Skin - Sunburned</td><td>30%</td><td>varies with % of skin which is burned<br>((Hypothesis: Extensive burns reduce vitamin D, which increase bone loss – Nov 2012</td></tr><tr><td><strong>- - - - -</strong></td><td><strong>Reduction in Vitamin D actually getting to cells - downstream from Vitamin D Testing</strong></td><td></td><td></td></tr><tr><td>Test invisible</td><td>Genes</td><td></td><td>((Genetics</td></tr><tr><td>Test invisible</td><td>Cells</td><td></td><td>Low Magnesium</td></tr><tr><td>Test invisible</td><td>Cells</td><td></td><td>((Omega 3 increases vitamin D in the blood – many studies</td></tr><tr><td>Test invisible</td><td>Kidney</td><td></td><td>((Kidney</td></tr></tbody></table><p><strong>Note:</strong></p><ul><li><p>Any study will rarely consider even 4 of the above factors</p></li><li><p>Factors are sometimes additive: example, 50% + 50% = 100% = 2X as much Vitamin D is needed</p></li></ul><hr><ul><li><p><a href=/posts/increased-vitamin-d-response-if-take-cofactors-etc>Increased Vitamin D response if take cofactors, etc</a></p></li><li><p><a href=/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders>Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019</a></p></li><li><p><a href=/posts/response-to-vitamin-d-grassroots>Response to Vitamin D - Grassroots</a></p><ul><li><p>following chart shows the huge variation between individuals</p></li><li><img src=/attachments/d3.mock.jpg alt=image width=400></li></ul></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>asthma</span>
+<span class=tag>asthma receptor</span>
+<span class=tag>autoimmune</span>
+<span class=tag>bacteria</span>
+<span class=tag>bariatric surgery</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>bone loss</span>
+<span class=tag>breathing</span>
+<span class=tag>cancer</span>
+<span class=tag>cancer in VDR</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>childhood viruses</span>
+<span class=tag>cholesterol</span>
+<span class=tag>CYPB</span>
+<span class=tag>CYPR</span>
+<span class=tag>depression</span>
+<span class=tag>diabetes</span>
+<span class=tag>diabetes and vitamin d receptor</span>
+<span class=tag>dosage</span>
+<span class=tag>genetics</span>
+<span class=tag>health risk</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>liver</span>
+<span class=tag>magnesium</span>
+<span class=tag>magnesium and cancer</span>
+<span class=tag>magnesium and viruses</span>
+<span class=tag>metabolic</span>
+<span class=tag>Microbiome</span>
+<span class=tag>mononucleosis</span>
+<span class=tag>mood disorders</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>NAFLD</span>
+<span class=tag>omega 3</span>
+<span class=tag>omega 3 and viruses</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>Predict Vitamin D</span>
+<span class=tag>probiotics</span>
+<span class=tag>smoking</span>
+<span class=tag>statins</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>trauma surgery</span>
+<span class=tag>virus</span>
+<span class=tag>virus and cardiovascular</span>
+<span class=tag>viruses and vitamin d receptor</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span>
+<span class=tag>vitamin d binding</span>
+<span class=tag>vitamin d receptor</span>
+<span class=tag>vitamin k</span>
+<span class=tag>vitamin k and viruses</span></div><div data-pagefind-meta=tags hidden>asthma, asthma receptor, autoimmune, bacteria, bariatric surgery, bone, bone cancer, bone loss, breathing, cancer, cancer in VDR, cardiovascular, child, childhood cancer, childhood viruses, cholesterol, CYPB, CYPR, depression, diabetes, diabetes and vitamin d receptor, dosage, genetics, health risk, high dose, intervention, liver, magnesium, magnesium and cancer, magnesium and viruses, metabolic, Microbiome, mononucleosis, mood disorders, multiple sclerosis, NAFLD, omega 3, omega 3 and viruses, pediatric autoimmune, Predict Vitamin D, probiotics, smoking, statins, therapeutic intervention, trauma surgery, virus, virus and cardiovascular, viruses and vitamin d receptor, vitamin d, vitamin d and viruses, vitamin d binding, vitamin d receptor, vitamin k, vitamin k and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030348"></script><script src="/js/tiki-redirects.js?v=1752030348"></script><script src="/js/lightspa.js?v=1752030348"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030348",indexUrl:"/search/search_index.json.gz?v=1752030348"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030348"></script></body></html>

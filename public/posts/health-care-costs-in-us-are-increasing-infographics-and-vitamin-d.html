@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Health Care Costs in US are increasing - infographics and Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030345"><link rel=stylesheet href="/css/pagination.css?v=1752030345"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030345"></script><script src="/js/search.js?v=1752030345"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Health Care Costs in US are increasing - infographics and Vitamin D</h1><time>December 29, 2016</time><div data-pagefind-body><h4 id=us-spending-on-personal-health-care-and-public-health-1996-2013httpjamanetworkcomjournalsjamafullarticle2594716><a href=http://jamanetwork.com/journals/jama/fullarticle/2594716>US Spending on Personal Health Care and Public Health, 1996-2013</a></h4><p><strong>JAMA</strong> . 2016;316(24):2627-2646. doi:10.1001/jama.2016.16885</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/us-health-care-spending.pdf>Download the JAMA PDF from VitaminDWiki</a></strong></p><p><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/jama-dec-2016-supplement.pdf>Download the 157 page Supplement PDF from VitaminDWiki</a></p><h4 id=here-are-some-of-the-charts-but-none-of-the-tables>Here are some of the charts but none of the tables</h4><h4 id=largest-cost-37--doctors-office-visits-general--specialists>Largest cost (37%) = Doctor&rsquo;s office visits (general + specialists)</h4><p>    <strong>37%= $706/$1929</strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/hc-spend-1.jpg alt=image><p><strong>Note: <a href=/posts/75-percent-reduction-in-clinic-visits-after-all-8000-patients-had-80-ng-of-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 5294">75% reduction in clinic visits after all (8,000) patients had > 80 ng of Vitamin D</a></strong></p><p>In addition to Vitamin D, the clinic also sometimes prescribed Magnesiuim, Iodine, or Vitamin C</p><p>No indication of associated cost reductions due to Vitamin D for hospitals, drugs, <a href=/categories/dental>dental</a>. <a href=/categories/trauma-and-surgery>Emergency</a>, etc,</p><p><strong><a href=http://jamanetwork.com/learning/interactive/13918598>Click Here</a> for interactive version of the above chart and 50 others</strong></p><hr><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/8.jpg alt=image width=600><h4 id=see-hiv-1-in-vitamindwiki>See HIV (#1) in VitaminDWiki</h4><ul><li><p><a href=/posts/treatment-of-hiv-in-youths-helped-by-7000-iu-of-vitamin-d-for-1-year-rct>Treatment of HIV in youths helped by 7,000 IU of vitamin D for 1 year – RCT July 2014</a></p></li><li><p><a href=/posts/hiv-children-in-uk-vitamin-d-recommendations>HIV children in UK – Vitamin D recommendations – Feb 2014</a></p></li><li><p><a href=/posts/those-with-hiv-who-doubled-their-vitamin-d-levels-reduced-their-chance-of-death-by-47-percent>Those with HIV who doubled their vitamin D levels reduced their chance of death by 47 percent – Oct 2013</a></p></li><li><p><a href=/posts/overview-hiv-and-vitamin-d>Overview HIV and vitamin D</a></p></li></ul><h4 id=see-rti-2-in-vitamindwiki>See RTI (#2) in VitaminDWiki</h4><ul><li><p><strong><a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%22Respiratory+Tract+Infection%22&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for &ldquo;Respiratory Tract Infection&rdquo;</a> 267 items as of Dec 2016</strong></p></li><li><p><a href=/posts/respiratory-tract-infection-visits-25-less-likely-with-vitamin-d-pregnancy-2000-iu-infant-800-iu-rct>Respiratory Tract Infection visits 2.5 less likely with vitamin D: Pregnancy 2000 IU, Infant 800 IU – RCT Oct 2014</a></p></li><li><p><a href=/posts/largest-cause-of-infant-deaths-is-respiratory-infections-which-is-associated-with-low-vitamin-d>Largest cause of infant deaths is respiratory infections, which is associated with low vitamin D – April 2011</a></p></li><li><p><a href=/posts/rti-feel-much-better-if-increase-vitamin-d-level-above-40-ng-4000-iu-rct>RTI – Feel much better if increase vitamin D level above 40 ng (4000 IU) – RCT Sept 2015</a></p></li><li><p><a href=/posts/acute-lower-respiratory-infection-5x-more-frequent-with-low-vitamin-d-intake>Acute lower respiratory infection 5X more frequent with low vitamin D intake – June 2012</a></p></li></ul><h4 id=see-diarrhea-3-in-vitamindwiki>See Diarrhea (#3) in VitaminDWiki</h4><ul><li><p><a href=/posts/diarrhea-more-common-in-children-having-low-vitamin-d>Diarrhea more common in children having low vitamin D - Nov 2014</a></p></li><li><p><a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=diarrhea&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for DIARRHEA</a> 262 items Dec 2016</p></li><li><p><a href=/posts/rotavirus-diarrhea-nearly-every-child-gets-it-is-strongly-associated-with-low-vitamin-d>Rotavirus diarrhea (nearly every child gets it) is strongly associated with low vitamin D – Aug 2015</a></p></li><li><p><a href=/posts/superbug-clostridium-difficile-infections-strongly-associated-with-low-vitamin-d-many-studies>Superbug (Clostridium difficile) Infections strongly associated with low vitamin D - many studies</a></p></li></ul><hr><h4 id=ages-45-64-and-65>Ages 45-64 and 65+</h4><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/45-and-up.jpg alt=image width=900><p><strong><a href=/posts/insulin-prices-and-usage-are-soaring>Insulin prices and usage are soaring</a></strong></p><hr><h4 id=what-the-study-did-not-include>What the study did not include</h4><ul><li>Costs of visits - they just used the # of visits</li></ul><blockquote><p>Dental example: 1 visit which could be for a low-cost fluoride treatment or for a high-cost root canal</p></blockquote><ul><li><p>Costs of home caregiving <a href=/posts/off-topic-caregiving-of-seniors-at-home-helpful-hints>44 million people in US provide free care-giving</a></p></li><li><p>Lost wages - short or long term - for self or family caregiver</p></li></ul><p>Short URL for this page = <a href=https://is.gd/HealthCostsVitD>https://is.gd/HealthCostsVitD</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>breathing</span>
+<span class=tag>child</span>
+<span class=tag>childhood respiratory</span>
+<span class=tag>clostridium difficile</span>
+<span class=tag>Cost savings with Vitamin D</span>
+<span class=tag>dosage</span>
+<span class=tag>gut</span>
+<span class=tag>iodine</span>
+<span class=tag>pregnancy</span>
+<span class=tag>respiratory</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>breathing, child, childhood respiratory, clostridium difficile, Cost savings with Vitamin D, dosage, gut, iodine, pregnancy, respiratory, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030345"></script><script src="/js/tiki-redirects.js?v=1752030345"></script><script src="/js/lightspa.js?v=1752030345"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030345",indexUrl:"/search/search_index.json.gz?v=1752030345"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030345"></script></body></html>

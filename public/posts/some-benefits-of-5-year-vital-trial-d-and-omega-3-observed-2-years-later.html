@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Some benefits of 5 year VITAL trial (D and Omega-3) observed 2 years later</title>
+<link rel=stylesheet href="/css/main.css?v=1752030349"><link rel=stylesheet href="/css/pagination.css?v=1752030349"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030349"></script><script src="/js/search.js?v=1752030349"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Some benefits of 5 year VITAL trial (D and Omega-3) observed 2 years later</h1><time>January 29, 2024</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#vitamin-d-and-marine-n-3-fatty-acids-for-autoimmune-disease-prevention-outcomes-at-two-years-after-vital-trial-completion>Vitamin D and Marine n-3 Fatty Acids for Autoimmune Disease Prevention: Outcomes at Two Years after VITAL Trial Completion</a></li><li><a href=#reasonable---many-health-problems-take-years-to-develop>Reasonable - Many health problems take years to develop.</a></li></ul></li></ul></li></ul></nav><hr><h4 id=vitamin-d-and-marine-n-3-fatty-acids-for-autoimmune-disease-prevention-outcomes-at-two-years-after-vital-trial-completion>Vitamin D and Marine n-3 Fatty Acids for Autoimmune Disease Prevention: Outcomes at Two Years after VITAL Trial Completion</h4><p>Arthritis Rheumatol 2024 Jan 25. <a href=https://doi.org/10.1002/art.42811>doi: 10.1002/art.42811</a> PDF is behind a paywall</p><p>Karen H Costenbader 1 2, Nancy R Cook 2 3 4, I-Min Lee 2 3 4, Jill Hahn 3, Joseph Walter 4, Vadim Bubes 4, Gregory Kotler 4, Nicole Yang 1 2, Sonia Friedman 2 5, Erik K Alexander 2 6, JoAnn E Manson 2 3 4</p><p>Objective: In the 5.3 year randomized, 2 x 2 factorial, double-blind, placebo-controlled VITamin D and OmegA-3 TriaL (VITAL), vitamin D supplementation reduced autoimmune disease (AD) incidence (hazard ratio <span>[HR]</span> 0.78, 95% confidence interval 0.61-0.99). Omega-3(n-3) fatty acid supplementation showed a statistically non-significant reduction (HR 0.85, 0.67-1.08). We aimed to confirm further AD cases arising during and after randomization and assess sustained effects with 2 years of post-intervention observation.</p><p>Methods: Of the 12,786 men ≥ age 50 and 13,085 women ≥ age 55 initially randomized, we followed surviving and willing participants for 2 more years. We continued to confirm annual participant-reported new AD by medical record review. Cox models calculated HRs for all confirmed AD, and for secondary endpoints, confirmed and probable cases, and individual ADs, including the observational period and during randomized time.</p><p>Results: 21,592 participants (83.5%) were followed observationally for two more years. 514 participants had incident confirmed AD (236 since prior report). 255 had been randomized to vitamin D vs. 259 to vitamin D placebo: HR 0.98 (0.83-1.17) at 7 years. AD was confirmed in 234 participants initially randomized to n-3 fatty acids vs. 280 randomized to its placebo: HR 0.83 (0.70-0.99) at 7 years. Of newly confirmed cases, 65 had onset during randomization; their inclusion changed randomized results to: HR 0.85 (0.70-1.04) for vitamin D and HR 0.87 (0.71-1.06) for n-3 fatty acids.</p><p>Conclusions: Two years after trial termination, vitamin D 2000 IU/day&rsquo;s protective effects dissipated, but 1000 mg/day n-3 fatty acids had a sustained effect in reducing AD incidence.</p><hr><h4 id=reasonable---many-health-problems-take-years-to-develop>Reasonable - Many health problems take years to develop.</h4><p>The final 4 years of the trial prevented many health problems from starting</p><p>It is conceivable that the benefits will be seen for 5 to 10 years.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>Autoimmune</span>
+<span class=tag>dosage</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>omega 3</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>Vitamin D and Omega-3</span></div><div data-pagefind-meta=tags hidden>autoimmune, Autoimmune, dosage, high dose, intervention, omega 3, therapeutic intervention, vitamin d, Vitamin D and Omega-3</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030349"></script><script src="/js/tiki-redirects.js?v=1752030349"></script><script src="/js/lightspa.js?v=1752030349"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030349",indexUrl:"/search/search_index.json.gz?v=1752030349"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030349"></script></body></html>

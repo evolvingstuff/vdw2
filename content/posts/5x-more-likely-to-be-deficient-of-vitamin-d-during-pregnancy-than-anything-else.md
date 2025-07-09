@@ -1,0 +1,131 @@
+{
+    "title": "5X more likely to be deficient of vitamin D during pregnancy than anything else",
+    "slug": "5x-more-likely-to-be-deficient-of-vitamin-d-during-pregnancy-than-anything-else",
+    "aliases": [
+        "/5X+more+likely+to+be+deficient+of+vitamin+D+during+pregnancy+than+anything+else",
+        "/142"
+    ],
+    "tiki_page_id": 142,
+    "date": "2010-04-24",
+    "categories": [
+        "Pregnancy"
+    ],
+    "tags": [
+        "Pregnancy",
+        "blood levels",
+        "brain",
+        "child",
+        "cognitive",
+        "health risk",
+        "high dose",
+        "low birth weight",
+        "pregnancy",
+        "smoking",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
+}
+
+
+&nbsp;
+
+# [NHS April 2010](http://www.nhs.uk/news/2010/04April/Pages/Vitamin-pills-during-pregnancy.aspx)
+
+“Providing vitamin supplements to poorly nourished women during pregnancy may reduce the risk of them giving birth to underweight babies,” The Independent reported.
+
+The news story is based on research in 405 pregnant women from a low-income area in East London, some of whom were deficient in key micronutrients, such as iron, folate and thiamin. The study found that women given supplements were less likely to have a small for gestational age baby than women given placebo.
+
+This is preliminary research, and as such there are some limitations to how its findings can be interpreted. Many of these women did not take their supplements for their entire pregnancy. When the researchers analysed the data from women who did complete the course of supplements only, the difference was of only borderline statistical significance.
+
+These findings indicate that further study in this area would be of merit. A larger study with more complete follow-up could investigate whether women from economically deprived areas and other groups of pregnant women would benefit from taking multi-micronutrient supplements. As it stands, this study highlights the need for further research into how pregnant women in economically deprived areas can be encouraged to have a healthier diet.
+
+Where did the story come from?
+
+The research was carried out by Dr Louise Brough from Massey University, New Zealand and colleagues from Plymouth University, London Metropolitan University and Homerton University Hospital. The study was funded by the Mother and Child Foundation, the vitamin supplements and placebo tablets were manufactured and provided by Vitabiotics, and funding for the vitamin D analysis was provided by Nutricia Research Foundation. The study was published in the (peer-reviewed) medical journal British Journal of Nutrition.
+
+## What kind of research was this?
+
+This was a double-blind, randomised and placebo-controlled trial. It aimed to investigate the effect of taking nutrient and vitamin supplements in low income, multi-ethnic, pregnant women. The supplementation began within the first three months of pregnancy, and included iron, folate, thiamin and vitamin D. The researchers examined the effects of supplementation on infant birth weight and gestational age at birth.
+
+The researchers said that social deprivation in large cities throughout the world is associated with low birth weight babies, premature babies and growth restriction in the womb, and that poor intake of micronutrients such as iron, folate and thiamin has been associated with such adverse pregnancy outcomes. The researchers were particularly interested to observe the effect of micronutrient deficiency in a population of women from a socially deprived area in East London.
+
+What did the research involve?
+
+The researchers recruited 402 women between June 2002 and May 2004, when they attended their first pregnancy appointment at an antenatal clinic at a hospital in Hackney, East London. Participants had to be over 16 years old and at fewer than 13 weeks’ gestation. Women were excluded if they had a chronic disease or they already used micronutrient supplements.
+
+Participants either received a multiple-micronutrient supplement known as Pregnacare or a placebo tablet that looked the same. Each woman was instructed to take one tablet daily with food until her baby was delivered. Women who were not already using folic acid were also given folic acid to take daily until 12 weeks of gestation.
+
+The women’s height and weight were recorded, as was an estimated delivery date, their stage of pregnancy and obstetric and medical information from their hospital notes. The participants reported over 50 different ethnicities, which were reduced to five ethnic groups: African, Asian, Caucasian, West Indian and other.
+
+Most of the women had available data on their nutritional status and a blood sample taken on the day that they were recruited and at their 26-week and 34-week visits. The blood sample was used to take measurements of their red blood cell count, haemoglobin, the iron-carrying protein ferritin, folate and vitamin D levels. Thiamin levels were also measured in some of the participants at 34 weeks. At 20, 26 and 34 weeks into their pregnancy the women were asked how frequently they had been taking the pills that they had been given (either micronutrient supplements or placebo), whether they had stopped taking them and, if so, when and why.
+
+The researchers recorded the babies’ birth weight and their head circumference from hospital notes.
+
+The researchers analysed the data according to the groups that women were originally randomised to, and also separately analysed just the women who had continued to take their medication.
+
+## What were the basic results?
+
+Only 39% (157) of the participants completed the study. The proportion of women who continued to take their tablets for the duration of the study was similar in both treated and placebo groups. The women’s reasons for stopping supplementation included a lack of motivation (20%), forgetting to take their tablets (17%), moving away from the area (5%) and medical reasons, such as high-risk pregnancy (14%).
+
+Of the 149 women who did take their supplements, those in the placebo group were more likely to have a small for gestational age baby (with a weight in the bottom 10% of weight for gestational age) than women taking the micronutrient supplement (13 mothers versus 8 mothers <span>[P=0.042]</span>). Thirteen women out of the compliant group receiving supplements or placebo were found to be more advanced in pregnancy following a late ultrasound scan than originally thought. When the birth weight analysis was repeated without the data from the 13 women who were more advanced in pregnancy at recruitment, there was no difference in birth weight of babies in the placebo or treatment group.
+
+The women’s vitamin and nutrient deficiencies at recruitment were:
+
+* 13% had anaemia
+
+* 16% had low red blood cell count
+
+* 11% had low iron levels
+
+* 3 women out of the 405 had severe folate deficiency
+
+* 5% had marginal folate deficiency
+
+* 12% had thiamin deficiency
+
+* <span style="color:#C00;">72% had suboptimal vitamin D concentrations</span>
+
+   * (The suboptimal level of 25-hydroxyvitamin D concentration in the blood was defined as less than 50nmol/l).
+
+At 26 and 34 weeks the haemoglobin levels (the number of red blood cells in the blood) and the red cell folate concentrations were significantly less in the placebo group than in the treatment group. Vitamin D concentrations were significantly lower in the placebo group than the treatment group at 26 weeks.
+
+How did the researchers interpret the results?
+
+The researchers said: “multiple-micronutrient supplementation from the first trimester improved micronutrient status in later pregnancy, in this low-income, multi-ethnic population”.
+
+They suggest that low-dose iron supplements may be preferable to high doses to improve iron status during pregnancy. They suggest that “supplementation may improve fetal growth but further larger studies are required to corroborate these results, especially amongst disadvantaged populations within developed countries”.
+
+## Conclusion
+
+This preliminary study suggests that multiple micronutrient supplements are associated with a decreased incidence of small for gestational weight babies in mothers who continue to take them for the duration of their pregnancy.
+
+This is early research and, as such, there are limitations to how it can be interpreted.
+
+* This study looked at the nutritional status of pregnant women from a low income, multi-ethnic population from East London. It found that a high proportion of these women were deficient in micronutrients such as iron, folate, thiamin and vitamin D. It is unclear how representative of the general population these women are.
+
+* A high number of the women did not take the supplements for the length of their pregnancy, meaning there was only a relatively small amount of data for analysis. The researchers recognise this and suggest that larger studies are needed to corroborate these findings. They also say that, because of the small numbers, they could not analyse which micronutrients or deficiencies were particularly important in determining birth weight.
+
+* The findings are also limited in that the women’s other lifestyle factors that may have affected their babies’ birth weight were not taken into account. These factors include their diet, exercise patterns and smoking status. This would have allowed the researchers to adjust for confounding factors that might also have influenced the results.
+
+A larger study with more complete follow-up could investigate whether other groups of pregnant women would benefit from taking multi-micronutrient supplements. As it stands, this research highlights the need for further research into how pregnant women in economically deprived areas can be encouraged to have a healthier diet.
+
+ ****  ****  ****  ****  ****  ****  ****  ****  ****  ****  ****  ****  ****  **_
+
+# Effect of multiple-micronutrient supplementation on maternal nutrient status, infant birth weight and gestational age at birth in a low-income, multi-ethnic population.
+
+British Journal of Nutrition  doi:10.1017/S0007114510000747 (About doi)
+
+Louise Brough a1 c1, Gail A. Reesa2, Michael A. Crawforda3, R. Hugh Mortona1 and Edgar K. Dormana4
+
+a1 Institute of Food Nutrition and Human Health, Massey University, Palmerston North, New Zealand, Massey University, Private Bag 11222, Palmerston North, New Zealand
+
+a2 School of Biological Sciences, University of Plymouth, Drake Circus, Plymouth PL4 8AA, UK
+
+a3 Institute of Brain Chemistry and Human Nutrition, London Metropolitan University, 166-220 Holloway Road, London N7 8DB, UK
+
+a4 Homerton University Hospital, Homerton Row, London E9 6SR, UK
+
+Poor nutrient intake during pregnancy can adversely affect both infant and maternal health. The aim was to investigate the efficacy of multiple-micronutrient supplementation during pregnancy in a socially deprived population in the developed world. We conducted a randomised, double-blind, placebo-controlled trial of multiple-micronutrient supplementation including 20 mg Fe and 400 ?g folic acid, from the first trimester of pregnancy in 402 mothers, in East London, UK. Nutrient status was measured at recruitment, and at 26 and 34 weeks of gestation. Infants were weighed at birth. 
+
+At recruitment the prevalence of anaemia was 13 %,** vitamin D insufficiency 72 %__, thiamin deficiency 12 % and folate deficiency 5 %, with no differences between groups. Only 39 % of women completed the study; rates of non-compliance were similar in both groups. Intention-to-treat analysis showed that participants receiving treatment had higher mean Hb at 26 weeks of gestation (110 (sd 10) v.108 (sd 10) g/l; P = 0·041) and 34 weeks of gestation (113 (sd 12) v.109 (sd 10) g/l; P = 0·003) and packed cell volume concentrations at 26 weeks of gestation (0·330 (sd 0·025) v. 0·323 (sd 0·026) l/l; P = 0·011) and 34 weeks of gestation (0·338 (sd 0·029) v. 0·330 (sd 0·028) l/l; P = 0·014) compared with controls. Analysis of compliant women showed supplemented women had higher median concentrations of serum ferritin, erythrocyte folate and 25-hydroxyvitamin D later in gestation than controls. In the compliant subset (n 149), placebo mothers had more small-for-gestational age (SGA) infants (eight SGA v. thirteen; P = 0·042) than treatment mothers. Baseline micronutrient deficiencies were common; the multiple-micronutrient supplement was well-tolerated and improved nutrient status. Multiple-micronutrient supplements from early pregnancy may be beneficial and larger studies are required to assess impact on birth outcomes and infant development.

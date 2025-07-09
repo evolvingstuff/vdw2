@@ -1,0 +1,436 @@
+{
+    "title": "Sunlight and Vitamin D: Necessary for Public Health",
+    "slug": "sunlight-and-vitamin-d-necessary-for-public-health",
+    "aliases": [
+        "/Sunlight+and+Vitamin+D+Necessary+for+Public+Health+\u2013+June+2015",
+        "/6644"
+    ],
+    "tiki_page_id": 6644,
+    "date": "2015-06-23",
+    "categories": [
+        "Top news"
+    ],
+    "tags": [
+        "IBD",
+        "RSV",
+        "SAD",
+        "Top news",
+        "antibiotics",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bladder cancer",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "brain",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood pneumonia",
+        "childhood viruses",
+        "cognitive",
+        "colon cancer",
+        "cystic fibrosis",
+        "dementia",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "gestational diabetes",
+        "gut",
+        "health risk",
+        "high dose",
+        "hip fractures",
+        "hypertension",
+        "immunity",
+        "influenza",
+        "intervention",
+        "life span",
+        "low birth weight",
+        "lupus",
+        "melanoma",
+        "metabolic",
+        "mood disorders",
+        "mortality",
+        "multiple myeloma",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "neurological",
+        "ovarian cancer",
+        "pain",
+        "pancreatic cancer",
+        "pediatric autoimmune",
+        "pneumonia",
+        "pollution",
+        "preeclampsia",
+        "pregnancy",
+        "preterm",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "rickets",
+        "skin cancer",
+        "stroke",
+        "therapeutic intervention",
+        "tuberculosis",
+        "type 1 diabetes",
+        "ultraviolet light",
+        "vertigo",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+**J Am Coll Nutr. 2015 Jun 22:1-7. <span>[Epub ahead of print]</span>** 
+
+Carole A. Baggerly, BA, Raphael E. Cuomo, MPH, Christine B. French, MS, Cedric F. Garland, DrPH, FACE, Edward D. Gorham, PhD, William B. Grant, PhD, Robert P. Heaney, MD, Michael F. Holick, MD, PhD, Bruce W. Hollis, PhD, Sharon L. McDonnell, MPH, Mary Pittaway, MA, RD, Paul Seaton, MS, Carol L. Wagner, MD, Alexander Wunsch, MD
+
+GrassrootsHealth, Encinitas, California (C.A.B., C.B.F., S.L.M.); 
+
+Department of Family and Preventive Medicine, University of California San Diego, La Jolla, California (R.E.C., C.F.G., E.D.G.); 
+
+Sunlight, Nutrition, and Health Research Center, San Francisco, California (W.B.G.); 
+
+Creighton University, Omaha, Nebraska (R.P.H.); 
+
+Department of Medicine, Boston University Medical Center, Boston, Massachusetts (M.F.H.); 
+
+Medical University South Carolina, Charleston, South Carolina (B.W.H., C.L.W.); 
+
+Special Olympics International, Washington, DC (M.P.); 
+
+Alaska State House of Representatives, Juneau, Alaska (P.S.); 
+
+Wismar University of Applied Science, Wismar, GERMANY (A.W.)
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/sunlight-and-vitamin-d-necessary-for-public-health-june15.pdf">Download the PDF from VitaminDWiki</a>** 
+
+{{< toc >}}
+
+### INTRODUCTION
+
+The World Health Organization’s International Agency for Research on Cancer recommends avoiding outdoor activities at midday, wearing clothing to cover the whole body, and daily use of sunscreen on usually exposed skin <sup>[1]</sup>. The American Cancer Society advocates Slip! Slop! Slap! and Wrap! to make sure skin is covered in clothing or sunscreen and to avoid exposure to the sun between 10 am and 4 pm <sup>[2]</sup>. The U.S. Surgeon General has issued a Call to Action focused on reducing ultraviolet (UV) exposure, whether from indoor UV or from the sun <sup>[3]</sup>. Though these recommendations, all focused on reduction of skin cancer, are accompanied by brief acknowledgement of the importance of vitamin D for health, they persist in urging avoidance of the sun at the precise times when vitamin D can be synthesized in the skin—the hours between 10 am and 3 pm—and suggest that all necessary vitamin D can be obtained through food and dietary supplements.
+
+These recommendations are understandable from the viewpoint of preventing the 3.5 million new cases of and 2000 deaths from nonmelanoma skin cancer in the United States each year <sup>[4]</sup>, but they neglect the fact that we have a long cultural history of appreciation of the sun and use of UV radiation for healing purposes. Moreover, they neglect that we have evolved with physiological adaptations to help protect the skin from the sun <sup>[5]</sup> when we are mindful of our exposure and do not burn. They neglect the fact that increased sun exposure, based on latitude, has been associated with protection from several different types of cancer <span>[6-15]</span>, type 1 diabetes <sup>[16]</sup>, multiple sclerosis <sup>[17,18]</sup>, and other diseases <span>[19-23]</span>. They also neglect the fact that exposure to the sun induces beneficial physiological changes beyond the production of vitamin D. Though adherence to the current sun-protective recommendations would likely result in the reduction of nonmelanoma skin cancer, that reduction would likely be overshadowed by the potential reduction in deaths from other cancers and from cardiovascular disease, which could be achieved by doubling average blood concentrations of 25-hydroxyvitamin D (25 (OH)D) to 40 ng/mL through a combination of sun exposure and supplements <sup>[24]</sup>.
+
+The potential harm of sun avoidance and the neglect of its positive effects on human health led to a seminar, Vitamin D for Public Health: Integrating Sunshine, Supplements and Measurement for Optimal Health, presented by GrassrootsHealth at the University of California San Diego to inform and to help initiate an action plan to restore a more balanced approach to solar radiation based on input by the conference speakers.
+
+### HELIOTHERAPY
+
+The healing power of the sun and its use in medical treatment (heliotherapy) have roots extending back into antiquity. In the modern era, particularly the first half of the 20th century, heliotherapy was widely used in both Europe and North America, particularly for the treatment of cutaneous tuberculosis, for which Niels Finsen garnered the Nobel Prize for Medicine in 1903. Much of this work was done prior to the discovery of vitamin D and of its synthesis in the skin by UV radiation, which would have been a principal factor in the recovery from disease reported a century ago. However, with the discovery of antibiotics, the era of drug treatment of tuberculosis began in the 1950s, and heliotherapy fell into disuse and is today virtually forgotten. A major advantage of antibiotics was the ability to avoid prolonged hospitalization with its associated expense and disruption of individual lives. But that was a matter of efficiency, not efficacy.
+
+Tuberculosis currently afflicts 30% of the world’s population. The effects—and perhaps the benefits—of heliotherapy in this disorder, though much less well studied today, extend beyond the synthesis of vitamin D <sup>[25]</sup>. We do not know (1) the relative efficacy of antibiotic treatment and heliotherapy for various manifestations of tuberculosis and (2) whether vitamin D, by itself, is sufficient to explain the therapeutic efficacy of heliotherapy in this disease.
+
+#### Physiological Responses to Sun Exposure
+
+The best recognized response to sun exposure is elevation of vitamin D status. Two African tribes, the pastoral Masai and the hunter-gatherer Hadza, have been shown to have serum 25 (OH)D concentrations averaging 46 ng/mL <sup>[26]</sup>. Both tribes live in equatorial East Africa, where humans are thought to have originated, and have daily sun exposure approximating that of ancestral humans.
+
+Physiological responses go beyond production of vitamin D. When the skin is stimulated with UVA radiation, nitric oxide is released, stimulating vasodilation and lowering of blood pressure. During active exposure to UVA, diastolic blood pressure in one study fell by roughly 5 mmHg and remained lower for 30 minutes after exposure <sup>[27]</sup>. A reduction of diastolic blood pressure by 5 mmHg decreases risk for stroke by 34% and coronary heart disease by 21% <sup>[28]</sup>.
+
+Another physiological response of skin exposure to sunlight is the thickening of the stratum corneum (the outermost layer of the epidermis) and increased skin pigmentation through production of melanin. This paired response actually protects the skin and deeper tissues from the deeper penetrating and damaging UVA rays while retaining benefits from UVB exposure
+
+. Though both UVA and UVB exposure result in increased skin pigmentation, the mechanisms are different, with UVB being responsible for the up-regulation of melanin synthesis and thus the protective effects against UV damage to DNA <sup>[30]</sup>. The best time for creating this response coincides with the time of maximal UVB availability (10 AM-3 PM).
+
+Additionally, human skin produces beta-endorphin in response to UVB exposure <sup>[31]</sup>; these opioid peptides have the result of increasing a feeling of well-being, boosting the immune system, relieving pain, promoting relaxation, wound healing, and cellular differentiation <span>[31-33]</span>. Light signals received through the eye regulate production of melatonin and serotonin for circadian rhythm control and also play a role in seasonal affective disorder <sup>[34]</sup>.
+
+### Impact of Sunlight and/or Vitamin D on Specific Health Conditions
+
+#### Cancer
+
+Studies of the relationship between cancer, sun exposure, and vitamin D began decades ago with geographic associations with cancer mortality. In 1941, Apperly reported an association between latitude and cancer mortality based on sun exposure although vitamin D was not yet explicitly implicated <sup>[6]</sup>. In 1980, Garland and Garland reported the association between latitude and colon cancer using sun exposure as a proxy for vitamin D status <sup>[7]</sup>. By 1990 it had been hypothesized that deficiency of vitamin D was the main cause of breast cancer <span>[35-37]</span>.
+
+In the last decade, analyses of UVB irradiance and cancer incidence in countries worldwide have shown a regular pattern of higher rates for countries that are further away from the equator compared to those near the equator. This pattern has held true for cancers of the colon <sup>[8]</sup>, breast <sup>[9]</sup>, pancreas <sup>[10]</sup>, ovary <sup>[11]</sup>, brain <sup>[12]</sup>, bladder <sup>[13]</sup>, kidney <sup>[14]</sup>, and multiple myeloma <sup>[15]</sup>.
+
+In the United States, mortality rates for 15 types of cancer for white Americans are highest in the northeast and lowest in the southwest; these rates are inversely correlated with solar UVB irradiance <sup>[38]</sup>. Similar findings have been reported for Australia, China, Japan, and Spain <sup>[39]</sup>.
+
+In addition to these epidemiological studies, other studies using serum concentrations of 25(OH)D have found strong inverse associations for cancer risk and vitamin D status. A 2011 study in 10 European countries reported that individuals with the lowest concentrations of 25(OH)D (averaging 8 ng/ mL) had almost 3 times the risk of colon cancer as those with the highest (averaging 50 ng/mL) <sup>[40]</sup>. For breast cancer, Lowe et al. found a 50% lower incidence for women who had 25(OH)D concentrations at 48 ng/mL compared to those at 10 ng/mL <sup>[41]</sup>. Similar findings from Mohr et al. in 2011 showed a 50% reduction in short-term incidence at 45 ng/mL versus 12 ng/mL <sup>[42]</sup>. A more recent meta-analysis of 11 case-control studies of breast cancer incidence rate versus 25 (OH)D concentration near time of diagnosis found a 70% lower incidence rate for 45 ng/mL compared to 5 ng/mL <sup>[43]</sup>.
+
+Though higher latitudes and greater cloud cover predictably decrease vitamin D status, the inverse association is also true: lower vitamin D status is a marker for reduced sun exposure. This distinction is important because it is not possible in the epidemiological studies cited to distinguish the effects, if any, due to reduced vitamin D status and those due to other actions possibly produced by sun exposure. The mechanism of heliotherapy action must be recognized as increased vitamin D synthesis plus other, inadequately characterized spectral effects.
+
+Two intervention studies have reported vitamin D effects on cancer. Lappe et al., using a randomized controlled trial (RCT) design, showed an approximate 70% reduction in all-cancer risk in postmenopausal women given calcium and vitamin D in a dose sufficient to raise serum 25(OH)D from 29 to 38 ng/mL, whereas those given only calcium showed an approximate 40% reduction in all-cancer risk <sup>[44]</sup>. In another study, men with low-risk, biopsy-proven early-stage prostate cancer were given 4000 IU/day of vitamin D3 <sup>[45]</sup>. Over the year of treatment, mean circulating concentrations of 25(OH)D rose from 33 to 66 ng/mL. A second biopsy showed that the number of cores positive for malignancy was reduced for more than half of those enrolled in the study. Patients from the same practice who did not receive supplementation showed an increase in positive cores over the same period of time. There were no adverse events as a result of vitamin D supplementation in either study.
+
+A proposed model for how vitamin D deficiency is related to a wide array of cancers is the DINOMIT model of cancer progression, which outlines a mechanism whereby vitamin D might restrain cancer development and spread <sup>[46]</sup>.
+
+#### Type 1 Diabetes
+
+Improved vitamin D status has been associated with a lower risk of type 1 diabetes. Just as vitamin D status varies by season and latitude because of availability of sun exposure <sup>[47]</sup>, type 1 diabetes incidence rates peak annually in the winter/spring <sup>[48]</sup> and risk varies directly with distance from the equator (just as with many cancers) <sup>[16]</sup>. In Finland, with one of the highest rates of type 1 diabetes, the frequency and dosage of vitamin D supplementation during the first year of life have been associated with type 1 diabetes rates. Specifically, there is an almost 90% lower risk of type 1 diabetes by age 31 for individuals regularly given vitamin D supplements in infancy, versus those who were not given supplements. Among those who received supplements, those who received at least 2000 IU/day had an 80% lower risk than those who received less than 2000 IU/day <sup>[49]</sup>. From 1965 to 2005, Finland had a dramatic increase in the incidence of type 1 diabetes; over that same period of time, the recommended vitamin D intake decreased from 4500 IU/ day to 400 IU/day <sup>[50]</sup>. Though association does not equal causation, this phenomenon is difficult to explain in any other way. A qualitatively similar difference in diabetes risk is reported from the EURODIAB study <sup>[51]</sup> in which countries recommending vitamin D supplementation in infancy had lower type I diabetes incidence rates by age 15 than those countries not recommending vitamin D.
+
+In a nested case-control study of U.S. service members, those with 25(OH)D concentrations <14 ng/mL had 3.5 times the risk of type 1 diabetes compared to those at 40 ng/mL or higher <sup>[52]</sup>. In a large cohort study, both insulin resistance and fasting insulin levels were inversely associated with serum 25 (OH)D concentration, providing biological plausibility for a contributory role of vitamin D in diabetes <sup>[53]</sup>. Evidence suggests that improving the vitamin D status of the population could lead to a marked decrease in type 1 diabetes incidence.
+
+#### Pregnancy
+
+Only recently have we started to understand the developmental origins of disease and how the perinatal environment affects lifelong health. Worldwide there is profound vitamin D deficiency among pregnant women, yet the role of vitamin D in pregnancy has largely been ignored <sup>[54]</sup>. Epidemiological data have shown that deficiency during pregnancy causes higher risk of maternal preeclampsia <span>[55-58]</span>, gingivitis, and periodontal disease in the mother <sup>[59,60]</sup> and impaired fetal growth <sup>[61,62]</sup>, impaired dentition <sup>[63,64]</sup>, and increased risk of respiratory syncytial virus infection <sup>[65]</sup> in the infant. A recent RCT in India showed that women who were given vitamin D supplementation during pregnancy had a 61% lower risk of preterm labor and a 47% lower risk of hypertensive complications compared to participants who were not given supplementation <sup>[66]</sup>. In another RCT, vitamin D supplementation of 4000 IU/day was shown to be safe and effective in achieving sufficiency (>32 ng/mL) for pregnant women and their infants, whereas 400 IU/day was ineffective <span>[67-69]</span>. In fact, women who achieved at least 32 ng/mL had a lower risk of gestational diabetes, preterm birth, preterm labor, preeclampsia, hypertensive disorders of pregnancy, and infection <sup>[69]</sup>. Overall, there is approximately a 50% reduction in preterm birth when 25(OH)D serum concentrations of 40 ng/mL are attained <sup>[70]</sup>. With a preterm birth rate in the United States of 11.4% and an associated cost of $26 billion per year <sup>[71]</sup>, achieving an optimal 25(OH)D concentration of 40 ng/mL in pregnant women would greatly reduce this human and financial burden.
+
+### Vitamin D for Optimal Health
+
+In common with many other micronutrients, vitamin D is a necessary but not sufficient factor for key cell-biologic processes. That is, it is an enabler; it must be present for those processes to occur, but it does not, itself, stimulate or cause them. In brief, low vitamin D status does not so much cause disease or dysfunction as it impairs cellular response to both internal and external signals. It is now recognized that essentially every tissue and cell in the body has vitamin D receptors. Furthermore, most cells also have the capability of converting 25(OH) D to its active form, 1,25-dihydroxyvitamin D <span>[1,25(OH)2D]</span>, and most of our daily vitamin D consumption occurs in this way <sup>[72]</sup>. This conversion in the cell allows each tissue to use vitamin D as it is needed. It also follows that, in the absence of vitamin D, none of our body systems can work at their optimal potential. Thus, it becomes clear that low vitamin D status would inevitably be involved in a wide range of dysfunctions and diseases.
+
+To address the issue of how much vitamin D is needed for optimal health, it is necessary first to consider the desired endpoint. If the goal is to avoid a known disease, such as rickets, the amount required will be less than if the goal is to optimize bone health. Moreover, shifting focus to the physiological need for vitamin D offers several criteria for determining need <sup>[73]</sup>, including (1) the intake that minimizes the need for functional adaptation or compensation; (2) the status found in our hominid ancestors; or (3) the amount necessary to support a critical life function. These criteria are elaborated below:
+
+1. One manifestation of adaptive compensation is the elevated parathyroid production that occurs when vitamin D status is low. Vitamin D-mediated intestinal calcium absorption reduces parathyroid activity, and the point at which vitamin D ceases to be a limiting factor in calcium absorption is the point at which parathyroid hormone concentrations are lowest. That occurs when serum concentrations of 25(OH)D are in the range of 48-52 ng/mL <sup>[74]</sup>.
+
+1. Approximating the vitamin D status of ancestral humans, as noted above, has been done for 2 African tribes. Their average 25(OH)D concentrations (around 46 ng/mL) <sup>[26]</sup> provide the best available estimate of the level to which human physiology has been fine-tuned by natural selection over the millennia of human evolution.
+
+1. A critical function of vitamin D is passage of the nutrient from mother to child in breast milk. In order to fully support the infant’s need for vitamin D, the mother must have a blood concentration of cholecalciferol (vitamin D3) above 10 ng/mL, which happens only when serum 25(OH)D is above 48 ng/mL <sup>[75]</sup>. At today’s prevailing vitamin D status values, no D3 is transferred into breast milk. Hence, currently recommended 25(OH)D concentrations are not adequate to support this critical physiological function.
+
+In brief, all 3 physiological criteria converge on blood concentrations around 48 ng/mL. Though a 25(OH)D concentration of 20 ng/mL may be sufficient to avoid clinically evident rickets, it is not sufficient to sustain physiological functions and promote optimal health.
+
+Vitamin D may come from UV exposure, dietary intake, or supplements. The input from all sources required each day to meet physiological needs and to support optimal health is estimated to be roughly 6000 IU/day <sup>[76,77]</sup>. However, because of variations in individual ability to produce vitamin D from UV exposure or to absorb it from dietary sources, as well as variations in individual requirements, testing serum concentrations of 25(OH)D remains important.
+
+### Cost-Benefit Analysis
+
+Of the 30 leading causes of death in the United States in 2010, 19 have been linked to low vitamin D status, including various forms of cardiovascular disease, various cancers, diabetes mellitus, Alzheimer’s disease, and falls and fractures in the elderly <sup>[78]</sup>. If the population of the United States were to increase their vitamin D status to 40 ng/mL, we could expect to see a potential reduction of as much as 336,000 deaths each year (out of 2.1 million deaths attributed to the diseases concerned) <sup>[24]</sup>. This includes estimated reductions of 180,000 deaths from cardiovascular disease, 20,000 from colorectal cancer, 12,000 from breast cancer, 70,000 from other cancers, and 15,000 from Alzheimer’s disease. In addition to this annual reduction in deaths, the direct costs of care for the associated diseases would be reduced by roughly $130 billion each year. Raising 25(OH)D concentrations appears to be the most efficient and cost-effective way to reduce the burden of disease and increase life expectancy in the United States <sup>[24]</sup>.
+
+Among the reasons vitamin D deficiency is so widespread are the public health messages from the U.S. Surgeon General, the Institute of Medicine, and the World Health Organization, all of whom promote avoidance of sun exposure and covering the skin with clothing or sunscreen when out in the sun. It should be noted that these messages focus mainly on reducing nonmelanoma skin cancer. With a total of 5 million cases of skin cancer treated each year at an annual cost of $8.1 billion, skin cancers result in 13,000 deaths annually. Melanoma, by far the most deadly form of skin cancer, accounts for 70%-75% of those deaths <sup>[2,3]</sup> and 40% of the costs <sup>[3]</sup>. Despite public health messages to the contrary, not all skin cancers, particularly melanomas, are directly attributable to moderate sun exposure. Though painful sunburns before the age of 20 seem to be a strong predictor of all types of skin cancer, chronic or lifetime sun exposure is associated with an increased risk of nonmelanoma skin cancers but a decreased risk of malignant melanoma <sup>[79]</sup>.
+
+### CONCLUSIONS AND RECOMMENDATIONS
+
+The full solar spectrum is essential to optimal health and well-being. Humans are physiologically adapted to produce vitamin D in response to sun exposure, specifically UVB radiation; other regions of the spectrum seem to confer benefit as well. Though some vitamin D comes from our diet (and more recently from supplements), we should not ignore the natural capacity that we possess to produce our own. We are of the opinion that moderate sun exposure (less than the time required to burn) to the arms, shoulders, trunk, and legs should be sought rather than avoided. Once that limited time has been achieved, we agree that covering the skin or seeking shade may be appropriate. The benefits of such exposure go beyond production of vitamin D and include other physiological responses to sunlight, still inadequately explored, including release of nitric oxide, production of beta-endorphin, and regulation of circadian rhythms—all important components of lifelong health and well-being.
+
+The current policy of sun avoidance is creating probable harm for the general population. Ignorance of the effects of portions of the solar spectrum at wavelengths longer than the ultraviolet is due mainly to lack of suitable measurement tools for cutaneous and systemic responses to those regions. We propose therefore that the U.S. Surgeon General’s office, the World Health Organization, the Institute of Medicine, and other health entities, together or separately, engage in an immediate effort both to define and quantify comprehensively the benefits and harms of sun exposure and to develop the measurement methods needed for their detection and quantification. Following this effort, concrete recommendations for exposure at an individual level that are both safe and beneficial should be created. We also recommend, as an interim strategy, that both sun exposure and vitamin D supplementation be concomitants of drug therapy for tuberculosis so as to garner both whatever benefits may be due to vitamin D and those of heliotherapy that extend beyond its effect on vitamin D status.
+
+#### AUTHORS’ NOTE (video)
+
+Videos of all presentations from the seminar upon which this article are based can be accessed at [http://ucsd.tv/vitamin-d-public-health](http://ucsd.tv/vitamin-d-public-health).
+
+### REFERENCES
+
+1. International Agency for Research on Cancer: “IARC Handbook on Cancer Prevention. Vol. 5: Sunscreens.” Lyon, France: International Agency for Research on Cancer, World Health Organization, 2001.
+
+1. American Cancer Society: Skin cancer facts. Accessed at: http://www.cancer.org/cancer/cancercauses/sunanduvexposure/skin-cancer-facts (last revision 4 April 2015).
+
+1. US Department of Health and Human Services: “The Surgeon General’s Call to Action to Prevent Skin Cancer.” Washington, DC: US Department of Health and Human Services, Office of the Surgeon General, 2014.
+
+1. American Cancer Society: “Skin Cancer: Basal and Squamous Cell.” 2013. (last revision 3 April 2015).
+
+1. Garland CF, Garland FC, Gorham ED: Epidemiologic evidence for different roles of ultraviolet A and B radiation in melanoma mortality rates. Ann Epidemiol 13:395-404, 2003.
+
+1. Apperly FL: The relation of solar radiation to cancer mortality in North America. Cancer Res 1:191-195, 1941.
+
+1. Garland CF, Garland FC: Do sunlight and vitamin D reduce the likelihood of colon cancer? Int J Epidemiol 9:227-231, 1980.
+
+1. Cuomo RE, Mohr SB, Gorham ED, Garland CF: What is the relationship between ultraviolet B and global incidence rates of colorectal cancer? Dermatoendocrinol 5:181-185, 2013.
+
+1. Mohr SB, Garland CF, Gorham ED, Grant WB, Garland FC: Relationship between low ultraviolet B irradiance and higher breast cancerriskin 107 countries. BreastJ 14:255-260, 2008.
+
+1. Mohr SB, Garland CF, Gorham ED, Grant WB, Garland FC: Ultraviolet B irradiance and vitamin D status are inversely associated with incidence rates of pancreatic cancer worldwide. Pancreas 39:669-674, 2010.
+
+1. Garland CF, Mohr SB, Gorham ED, Grant WB, Garland FC: Role of ultraviolet B irradiance and vitamin D in prevention of ovarian cancer. AmJPrev Med 31:512-514, 2006.
+
+1. Mohr SB, Gorham ED, Garland CF, Grant WB, Garland FC: Low ultraviolet B and increased risk of brain cancer: an ecological study of 175 countries. Neuroepidemiology 35:281-290, 2010.
+
+1. Mohr SB, Garland CF, Gorham ED, Grant WB, Garland FC: Ultraviolet B irradiance and incidence rates of bladder cancer in 174 countries. Am J Prev Med 38:296-302, 2010.
+
+1. Mohr SB, Gorham ED, Garland CF, Grant WB, Garland FC: Are low ultraviolet B and high animal protein intake associated with risk of renal cancer? Int J Cancer 119:2705-2709, 2006.
+
+1. Mohr SB, Gorham ED, Garland CF, Grant WB, Garland FC, Cuomo RE: Are low ultraviolet B and vitamin D associated with higher incidence of multiple myeloma? J Steroid Biochem Mol Biol 148:245-52, 2015.
+
+1. Mohr SB, Garland CF, Gorham ED, Garland FC: Incidence rates of type 1 diabetes in 51 regions worldwide. Diabetologia 51:1391-1398, 2008.
+
+1. Simpson S Jr, Blizzard L, Otahal P, Van der Mei I, Taylor B: Latitude is significantly associated with the prevalence of multiple sclerosis: a meta-analysis. J Neurol Neurosurg Psychiatry 82:1132-1141,2011.
+
+1. Grant WB, Garland CF, Holick MF: Comparisons of estimated economic burdens due to insufficient solar ultraviolet radiance and vitamin D and excess solar UV irradiance for the United States. Photochem Phobiol 81:1276-1286, 2005.
+
+1. Rostand SG: Ultraviolet light may contribute to geographic and racial blood pressure differences. Hypertension 30:150156, 1997.
+
+1. Krause R, Biihring M, Hopfenmuller W, Holick MF, Sharma AM: Ultraviolet B and blood pressure. Lancet 352:709-710, 1998.
+
+1. Kinney DK, Teixeira P, Hsu D, Napoleon SC, Crowley DJ, Miller A, Hyman W, Huang E: Relation of schizophrenia prevalence to latitude, climate, fish consumption, infant mortality, and skin color: a role for prenatal vitamin D deficiency and infections? Schizophr Bull 35:582-595, 2009.
+
+1. Vieira VM, Hart JE, Webster TF, Weinberg J, Puett R, Laden F, Costenbader KH, Karlson EW: Association between residences in U.S. northern latitudes and rheumatoid arthritis: a spatial analysis of the Nurses’ Health Study. Environ Health Perspect 118:957961,2010.
+
+1. Schultz M, Butt AG: Is the north to south gradient in inflammatory bowel disease a global phenomenon. Expert Rev Gastroenterol Hepatol 6:445-447, 2012.
+
+1. Grant WB: An estimate of the global reduction in mortality rates through doubling vitamin D levels. Eur J Clin Nutr 65:10161026, 2011.
+
+1. Wunsch A: Lichtbiologie und lichtpathologie. Erfahrungsheil- kunde 55:361-369, 2006.
+
+1. Luxwolda MF, Kuipers RS, Kema IP, Dijck-Brouwer DA, Musk- iet FA: Traditionally living populations in East Africa have a mean serum 25-hydroxyvitamin D concentration of 115 nmol/l. Br J Nutr 108:1557-1561, 2012.
+
+1. Liu D, Fernandez BO, Hamilton A, Lang NN, Gallagher JMC, Newby DE, Feelisch M, Weller RB: UVA irradiation of human skin vasodilates arterial vasculature and lowers blood pressure independently of nitric oxide synthase. J Invest Dermatol 134:1839-1846, 2014.
+
+1. MacMahon S, Peto R, Cutler J, Collins R, Sorlie P, Neaton J, Abbott R, Godwin J, Dyer A, Stamler J: Blood pressure, stroke, and coronary heart disease. Part 1, prolonged differences in blood pressure: prospective observational studies corrected for the regression dilution bias. Lancet 335:765-774, 1990.
+
+1. Brenner M, Hearing VJ: The protective role of melanin against UV damage in human skin. Photochem Photobiol 84:539-549, 2008.
+
+1. Miyamura Y, Coelho SG, Schlenz K, Batzer J, Smuda C, Choi W, Brenner M, Passeron T, Zhang G, Kolbe L, Wolber R, Hearing VJ: The deceptive nature of UVA tanning versus the modest protective effects of UVB tanning on human skin. Pigment Cell Melanoma Res 24:136-147, 2011.
+
+1. Slominski AT, Zmijewski MA, Skobowiat C, Zbytek B, Slominski RM, Steketee JD: Sensing the environment: regulation of local and global homeostasis by the skin’s neuroendocrine system. Adv Anat Embryol Cell Biol 212;v, vii, 1-115, 2012.
+
+1. Dalayeun JF, Nores JM, Bergal S: Physiology of beta-endorphins. A close-up view and a review of the literature. Biomed Pharmac- other 47:311-320, 1993.
+
+1. Sprouse-Blum AS, Smith G, Sugai D, Parsa FD: Understanding endorphins and their importance in pain management. Hawaii Med J 69:70-71, 2010.
+
+1. Paul KN, Saafir TB, Tosini G. The role of retinal photoreceptors in the regulation of circadian rhythms. Rev Endocr Metab Disord 10:271-278, 2009.
+
+1. Gorham ED, Garland CF and Garland FC: Acid haze air pollution and breast and colon cancer mortality in 20 Canadian cities. Can J Public Health 80:96-100, 1989.
+
+1. Garland FC, Garland CF, Gorham ED, and Young JF: Geographic variation in breast cancer mortality in the United States: a hypothesis involvingexposuretosolarradiation. PrevMed 19:614-622, 1990.
+
+1. Gorham ED, Garland FC, Garland CF: Sunlight and breast cancer incidence in the USSR. Int J Epidemiol 19:820-824, 1990.
+
+1. Grant WB, Garland CF: The association of solar ultraviolet B (UVB) with reducing risk of cancer: multifactorial ecologic analysis of geographic variation in age-adjusted cancer mortality rates. Anticancer Res 26:2687-2699, 2006.
+
+1. Grant WB: Ecological studies of the UVB-vitamin D-cancer hypothesis; review. AnticancerRes 32:223-236, 2012.
+
+1. Jenab M, Bueno-de-Mesquita HB, Ferrari P, van Duijnhoven FJ, Norat T, Pischon T, Jansen EH, Slimani N, Byrnes G, Rinaldi S, Tjonneland A, Olsen A, Overvad K, Boutron-Ruault MC, Clavel-Chapelon F, Morois S, Kaaks R, Linseisen J, Boeing H, Bergmann MM, Trichopoulou A, Misirli G, Trichopoulos D, Berrino F, Vineis P, Panico S, Palli D, Tumino R, Ros MM, van Gils CH, Peeters PH, Brustad M, Lund E, Tormo MJ, Ardanaz E, Rodriguez L, Sanchez MJ, Dorronsoro M, Gonzalez CA, Hallmans G, Palmqvist R, Roddam A, Key TJ, Khaw KT, Autier P, Hainaut P, Riboli E: Association between pre-diagnostic circulating vitamin D concentration and risk of colorectal cancer in European populations: a nested case-control study. BMJ 340:b5500, 2011.
+
+1. Lowe LC, Guy M, Mansi JL, Peckitt C, Bliss J, Wilson RG, Colston KW: Plasma 25-hydroxy vitamin D concentrations, vitamin D receptor genotype and breast cancer risk in a UK Caucasian population. Eru J Cancer 41:1164—1169, 2005.
+
+1. Mohr SB, Gorham ED, Alcaraz JE, Kane CJ, Macera CA, Parsons JK, Wingard DL, Garland CF: Serum 25-hydroxyvitamin D and prevention of breast cancer: pooled analysis. Anticancer Res 31:2939-2948,2011.
+
+1. Grant WB: 25-Hydroxyvitamin D and breast cancer, colorectal cancer, and colorectal adenomas: case-control versus nested case-control studies. Anticancer Res 35:1153-1160, 2015.
+
+1. Lappe JM, Travers-Gustafson D, Davies KM, Recker RR, Heaney RP: Vitamin D and calcium supplementation reduces cancer risk: results of a randomized trial. Am J Clin Nutr 85:1586-1591, 2007.
+
+1. Marshall DT, Savage SJ, Garrett-Mayer E, Keane TE, Hollis BW, Horst RL, Ambrose LH, Kindy MS, Gattoni-Celli S: Vitamin D3 Supplementation at 4000 International Units per day for one year results in a decrease of positive cores at repeat biopsy in subjects with low-risk prostate cancer under active surveillance. J Clin Endocrinol Metab. 97:2315-2324, 2012.
+
+1. Garland CF, Gorham ED, Mohr SB, Garland FC: Vitamin D for cancer prevention: global perspective. Ann Epidemiol 19:468483, 2009.
+
+1. Wacker M, Holick MF: Sunlight and Vitamin D: A global perspective for health. Dermatoendocrinol 5:51-108, 2013.
+
+1. Gorham ED, Barrett-Connor E, Highfill-McRoy RM, Mohr SB, Garland CF, Garland FC, Ricordi C: Incidence of insulin-requiring diabetes in the US military. Diabetologia 52:2087-2091, 2009.
+
+1. Hypponen E, Laara E, Reunanen A, Jarvelin MR, Virtanen SM: Intake of vitamin D and risk of type 1 diabetes: a birth-cohort study. Lancet 358:1500-1503, 2001.
+
+1. Mohr SB, Garland FC, Garland CF, Gorham ED, Ricordi C: Is there a role of vitamin D deficiency in type 1 diabetes of children? Am J Prev Med 39:189-190, 2010.
+
+1. EURODIAB ACE Study Group: Variation and trends in incidence of childhood diabetes in Europe. Lancet 355:873-876, 2000.
+
+1. Gorham ED, Garland CF, Burgi AA, Mohr SB, Zeng K, Hofflich H, Kim JJ, Ricordi C: Lower prediagnostic serum 25-hydroxyvita- min D concentration is associated with higher risk of insulin- requiring diabetes: a nested case-control study. Diabetologia 55:3224-3227,2012.
+
+1. Heaney RP, French CB, Nguyen S, Ferreira M, Baggerly LL, Bru- nel L, Veugelers P: A novel approach localized the association of vitamin D status with insulin resistance to one region of the 25- hydroxyvitamin D continuum. Adv Nutr 4:303-310, 2013.
+
+1. Dawodu A, Wagner CL: Prevention of vitamin D deficiency in mothers and infants worldwide—a paradigm shift. Paediatr Int Child Health 32:3-13, 2012.
+
+1. Halhali A, Tovar AR, Torres N, Bourges H, Garabedian M, Larrea F: Preeclampsia is associated with low circulating levels of insulin-like growth factor 1 and 1,25-dihydroxyvitamin D in maternal and umbilical cord compartments. J Clin Endocrinol 85:18281833,2000.
+
+1. Hypponen E: Vitamin D for the prevention of preeclampsia? A hypothesis. Nutr Rev 63:225-232, 2005.
+
+1. Bodnar LM, Catov JM, Simhan HN, Holick MF, Powers RW, Roberts JM: Maternal vitamin D deficiency increases the risk of preeclampsia. J Clin Endocrinol Metab 92:3517-3522, 2007.
+
+1. Robinson CJ, Alanis MC, Wagner CL, Hollis BW, Johnson DD: Plasma 25-hydroxyvitamin D levels in early-onset severe preeclampsia. Am J Obstet Gynecol 203:366.e1-6, 2010.
+
+1. Dietrich T, Nunn M, Dawson-Hughes B, Bischoff-Ferrari HA: Association between serum concentrations of 25-hydroxyvita- min D and gingival inflammation. Am J Clin Nutr 82:575580, 2005.
+
+1. Dietrich T, Joshipura KJ, Dawson-Hughes B, Bischoff-Ferrari HA: Association between serum concentrations of 25-hydroxyvi- tamin D3 and periodontal disease in the US population. Am J Clin Nutr 80:108-113,2004.
+
+1. Brooke OG, Brown IR, Bone CD, Carter ND, Cleeve HJ, Maxwell JD, Robinson VP, Winder SM: Vitamin D supplements in pregnant Asian women: effects on calcium status and fetal growth. Br Med J 280:751-754, 1980.
+
+1. Brunvand L, Quigstad E, Urdal P, Haug E: Vitamin D deficiency and fetal growth. Early Hum Dev 45:27-33, 1996.
+
+1. Purvis RJ, Barrie WJ, MacKay GS, Wilkinson EM, Cockburn F, Belton NR: Enamel hypoplasia of the teeth associated with neonatal tetany: a manifestation of maternal vitamin-D deficiency. Lancet 2:811-814, 1973.
+
+1. Reed SG, King LA, Wingate JS, Murali M, Husley T, Ebeling MD, Hollis BW, Wagner CL: Prenatal vitamin D exposure and developmental defects of enamel and/or early childhood caries. PAS abstract 4516.248, 2011.
+
+1. Belderbos ME, Houben ML, Wilbrink B, Lentjes E, Bloemen EM, Limpen JLL, Rovers M, Bont L: Cord blood vitamin D deficiency is associated with respiratory syncytial virus bronchiolitis. Pediatrics 127:e1513-e1520, 2011.
+
+1. Sablok A, Batra A, Thariani K, Batra A, Bharti R, Aggarwal AR, Kabi BC, Chellani H: Supplementation of vitamin D in pregnancy and its correlation with feto-maternal outcome. Clin Endocrinol (Oxf). 2015. doi:10.1111/cen.12751
+
+1. Hollis BW, Johnson D, Hulsey TC, Ebeling M, Wagner CL: Vitamin D supplementation during pregnancy: double-blind, randomized clinical trial of safety and effectiveness. J Bone Miner Res 26:2341-2357, 2011.
+
+1. Wagner CL, McNeil R, Hamilton SA, Winkler J, Rodriguez Cook C, Warner G, Bivens B, Davis DJ, Smith PG, Murphy M, Shary JR, Hollis BW: A randomized trial of vitamin D supplementation in 2 community health center networks in South Carolina. Am J Obstet Gynecol 208:137e1-e13, 2013.
+
+1. Wagner CL, McNeil RB, Johnson DD, Hulsey TC, Ebeling M, Robinson C, Hamilton SA, Hollis BW: Health characteristics and outcomes of two randomized vitamin D supplementation trials during pregnancy: a combined analysis. J Steroid Biochem Mol Biol 136:313-320, 2013.
+
+1. Wagner CL, Baggerly C, McDonnell SL, Baggerly L, Hamilton SA, Winkler J, Warner G, Rodriguez C, Shary J, Smith PG, Hollis BW: Post-hoc comparison of vitamin D status at three timepoints during pregnancy demonstrates lower risk of preterm birth with higher vitamin D closer to delivery. J Steroid Biochem Mol Biol 148:256-60, 2015.
+
+1. March of Dimes: Accessed at: http://www.marchofdimes.org/mis sion/prematurity-campaign.aspx (Prematurity Campaign Overview, last updatefor overall campaign November 2014).
+
+1. Heaney RP, Armas LAG: Quantifying the vitamin D economy. Nutr Rev 73:51-67,2015.
+
+1. Heaney RP: The nutrient problem. Nut Rev 70:165-169, 2012.
+
+1. Ginde AA, Wolfe P, Camargo CA Jr, Schwartz RS: Defining vitamin D status by secondary hyperparathyroidism in the US population. J Endocrinol Invest 35:42-48, 2012.
+
+1. Hollis BW, Pittard WB III, Reinhardt TA: Relationships among vitamin D, 25-hydroxyvitaminD, and vitamin D-binding protein concentrations in the plasma and milk of human subjects. J Clin Endocrinol Metab 62:41-44, 1986.
+
+1. Veugelers PJ, Ekwaru JP: A statistical error in the estimation of the recommended dietary allowance for vitamin D. Nutrients 6:4472-4475, 2014.
+
+1. Heaney RP, Garland CF, Baggerly CA, French CB, Gorham ED: Letter to Veugelers, P.J. and Ekwaru, J.P., A Statistical Error in the Estimation of the Recommended Dietary Allowance for Vitamin D. Nutrients 2014, 6, 4472-4475; doi:10.3390/nu6104472. Nutrients7:1688-1690, 2015.
+
+1. US Burden of Disease Collaborators: The state of US health. 1990-2010: burden of diseases, injuries, and risk factors. JAMA 310:591-608,2013.
+
+1. Kennedy C, Bajdik CD, Willemze R, De Gruijl FR, Bouwes Bavinck JN, and the Leiden Skin Cancer Study: The influence of painful sunburns and lifetime sun exposure on the risk of actinic keratoses, seborrheic warts, melanocytic nevi, atypical nevi, and skin cancer. J Invest Dermatol 120:1087-1093, 2003.
+
+Received March 11, 2015; accepted April 8, 2015.
+
+---
+
+### Press Release
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/public-health-press-release.pdf">Download the Press Release from VitaminDWiki</a>** 
+
+<a href="/posts/overly-restrictive-sun-exposure-warnings-pose-health-risk-july-2015-press-releas-s-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overly restrictive sun exposure warnings pose health risk - July 2015)) Press release by Vitamin D Society (Canada)
+---
+!!!Helioterapy was also used for TB
+The only mistake I see in this document is the statement that heliotherapy was only used for lupus vulgaris.
+This is not true. Heliotherapy was used in all forms of TB:
+http://jama.jamanetwork.com/article.aspx?articleid=244983
+http://jama.jamanetwork.com/article.aspx?articleid=233058
+http://jama.jamanetwork.com/article.aspx?articleid=256626
+
+John J Cannell, MD; Vitamin D Council Inc.; 1411 Marsh Street, Suite 203; San Luis Obispo, CA 93401; www.vitamindcouncil.org
+
+__((Overview Tuberculosis and Vitamin D">VitaminDWiki overview on TB</a> has the following image **<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
+
+---
+
+### See also VitaminDWiki
+
+* [Does Less Sun mean More Disease](/posts/does-less-sun-mean-more-disease) 5 minute video in many languages
+
+* [A short history of phototherapy, vitamin D and skin disease – Nov 2016](/posts/a-short-history-of-phototherapy-vitamin-d-and-skin-disease)
+
+* [Sunlight and Vitamin D: Necessary for Public Health – June 2015](/posts/sunlight-and-vitamin-d-necessary-for-public-health)
+
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 71 health problems prevented or treated as of Nov 2016
+
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) whcih has the following chart
+
+> <img src="/attachments/d3.mock.jpg" alt="image" width="500"> 
+
+* [Getting Vitamin D into your blood and cells](/posts/getting-vitamin-d-into-your-blood-and-cells) which has the following chart
+
+> <img src="/attachments/d3.mock.jpg" alt="image" width="700">** [3 to 55 X more likely to have these health problems if low Vitamin D](/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d) such as: **[tiki-index.php?page_id=2415|25 X more likely to have** <span style="color:#00F;">senior moment</span> **]
+
+[tiki-index.php?page_id=3460|23 X more likely to have** <span style="color:#00F;">vertigo</span> **]
+
+[tiki-index.php?page_id=2333|19 X more likely to get** <span style="color:#00F;">dementia</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=3841|17 X more likely to** <span style="color:#00F;">have muscle inflammation</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=3461|14 X more likely to** <span style="color:#00F;">die after first cardiovascular event</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=1324|12 X more likely to** <span style="color:#00F;">die from elderly pneumonia</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=3860|11 X more likely to** <span style="color:#00F;">be allergic to peanuts</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=1234|10 X more reactions to** <span style="color:#00F;">flu vaccine</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=467|7 X more likely to have** <span style="color:#00F;">low birth weight infant</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=1281|7 X more likely to have** <span style="color:#00F;">leg pain</span> **]
+
+((7X increased chance of death if coronary artery disease and low vitamin D – Oct 2013|7 X increased chance of** <span style="color:#00F;">death if coronary artery disease </span> **))
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=1637|8 X more likely to get** <span style="color:#00F;">lupus</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=4389|6 X more likely to get** <span style="color:#00F;">hip fracture after stroke</span> **]
+
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=3691|6 X more likely to** <span style="color:#00F;">die after coronary bypass</span> **]
+
+~~#090:** Short url =__~~ http://is.gd/publichealth

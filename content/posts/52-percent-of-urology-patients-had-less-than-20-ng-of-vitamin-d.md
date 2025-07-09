@@ -58,4 +58,4 @@ PMID:     21855943
 
 # See also VitaminDWiki
 
-* <a href="/posts/possible-reduction-in-nocturia-nighttime-urination-or-bph-after-taking-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 221">Possible reduction in nocturia, nighttime urination, or BPH after taking vitamin D</a>
+* [Possible reduction in nocturia, nighttime urination, or BPH after taking vitamin D](/posts/possible-reduction-in-nocturia-nighttime-urination-or-bph-after-taking-vitamin-d)

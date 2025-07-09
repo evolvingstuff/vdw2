@@ -54,7 +54,7 @@ Over the past 5 years, there has been a rapid resurgence of interest in vitamin 
 
 # See also VitaminDWiki
 
-* <a href="/posts/extra-vitamin-d-needed-for-crohns" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 80">Extra Vitamin D needed for Crohns</a> 
+* [Extra Vitamin D needed for Crohns](/posts/extra-vitamin-d-needed-for-crohns) 
 
    * with lots of links, including a <a href="/posts/vitamin-d-product" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1252">Vitamin D product</a> which is easy to absorb, even with gut problems
 

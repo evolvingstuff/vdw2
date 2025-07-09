@@ -78,7 +78,7 @@ Higher 25(OH)D levels are associated with significantly improved survival in pat
 
 ## Reduced risk by 14% due to 10 ng/ml increase in vitamin D
 
-{IMG(attId="631")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ckd-and-vitamin-d.png" alt="image">
 
 ## <span>[tiki-download_file.php?fileId=1923]</span> for PDF if registered (free)
 
@@ -86,7 +86,7 @@ Higher 25(OH)D levels are associated with significantly improved survival in pat
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
 * <a href="/posts/links-to-ws-grant-papers-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1825">Links to WS Grant papers in VitaminDWiki</a>
 

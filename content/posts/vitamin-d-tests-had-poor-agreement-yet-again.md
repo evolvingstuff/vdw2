@@ -43,4 +43,4 @@ The lack of agreement between the two assays is a concern. Few doctors are aware
 
 * <span>[One vitamin D blood test said toxic the other said normal – Aug 2010]</span>
 
-* <a href="/posts/vitamin-d-blood-test-uncertainty-about-15-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 778">Vitamin D blood test uncertainty about 15 percent – Aug 2010</a>
+* [Vitamin D blood test uncertainty about 15 percent – Aug 2010](/posts/vitamin-d-blood-test-uncertainty-about-15-percent)

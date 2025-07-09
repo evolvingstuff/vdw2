@@ -60,9 +60,9 @@ Results from both model and experimental data show that relatively short exposur
 
 * <a href="/posts/ways-to-increase-the-amount-of-vitamin-d-you-get-from-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1051">Ways to increase the amount of vitamin D you get from the sun</a>
 
-* <a href="/posts/overweight-and-elderly-both-sunbathe-less-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 973">Overweight and elderly both sunbathe less - 2009</a>
+* [Overweight and elderly both sunbathe less - 2009](/posts/overweight-and-elderly-both-sunbathe-less-2009)
 
-* <a href="/posts/overview-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 803">Overview Skin and vitamin D</a>
+* [Overview Skin and vitamin D](/posts/overview-skin-and-vitamin-d)
 
 * [Weekly UV almost doubled elderly Vitamin D levels – Dec 2010](/posts/weekly-uv-almost-doubled-elderly-vitamin-d-levels)  with graph
 

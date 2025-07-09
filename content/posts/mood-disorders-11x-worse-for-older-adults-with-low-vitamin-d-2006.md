@@ -120,7 +120,7 @@ Wilkins CH.  full text online
 
 * [Less than 20 ng vitamin D increases depression by 80 percent – Dec 2010](/posts/less-than-20-ng-vitamin-d-increases-depression-by-80-percent)
 
-* <a href="/posts/many-articles-on-senior-depression-35-percent-with-less-than-10-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 989">Many articles on Senior depression - 35 percent with less than 10 ng – Sept 2010</a>
+* [Many articles on Senior depression - 35 percent with less than 10 ng – Sept 2010](/posts/many-articles-on-senior-depression-35-percent-with-less-than-10-ng)
 
 * <a href="/posts/overview-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Overview Cognition and vitamin D</a>
 
@@ -140,13 +140,13 @@ Wilkins CH.  full text online
 
 * <a href="/posts/overview-of-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview of Seniors and Vitamin D</a>
 
-* <a href="/posts/elderly-often-trapped-in-vitamin-d-vicious-circles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 884">Elderly often trapped in vitamin D vicious circles</a>
+* [Elderly often trapped in vitamin D vicious circles](/posts/elderly-often-trapped-in-vitamin-d-vicious-circles)
 
-* <a href="/posts/do-vitamin-d-deficiency-and-cognitive-decline-go-hand-in-hand" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 379">Do Vitamin D Deficiency and Cognitive Decline Go Hand-in-Hand? – Jan 2010</a>
+* [Do Vitamin D Deficiency and Cognitive Decline Go Hand-in-Hand? – Jan 2010](/posts/do-vitamin-d-deficiency-and-cognitive-decline-go-hand-in-hand)
 
 * [Cognitive impairment 4X more likely when vitamin D less than 10 ng – Nov 2010](/posts/cognitive-impairment-4x-more-likely-when-vitamin-d-less-than-10-ng) 
 
-* <a href="/posts/vitamin-d-less-than-10ng-associated-with-cognitive-decline" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 887">Vitamin D less than 10ng associated with cognitive decline – July 2010</a> 
+* [Vitamin D less than 10ng associated with cognitive decline – July 2010](/posts/vitamin-d-less-than-10ng-associated-with-cognitive-decline) 
 
 * [Risk of cognitive decline 50 percent higher if low amount of vitamin D – Aug 2011](/posts/risk-of-cognitive-decline-50-percent-higher-if-low-amount-of-vitamin-d)
 
@@ -154,4 +154,4 @@ Wilkins CH.  full text online
 
 * [Link between diabetes and Alzheimers is probably low vitamin D](/posts/link-between-diabetes-and-alzheimers-is-probably-low-vitamin-d)
 
-* <a href="/posts/influence-diagram-for-vitamin-d-and-cognition-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 855">Influence diagram for vitamin D and cognition - 2008</a>
+* [Influence diagram for vitamin D and cognition - 2008](/posts/influence-diagram-for-vitamin-d-and-cognition-2008)

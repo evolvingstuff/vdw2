@@ -44,4 +44,4 @@ In combination with many other ingredients
 
 * [All items in Cardiovascular and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&sort_mode=created_desc)
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972">Who said vitamin D could not be patented</a>
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)

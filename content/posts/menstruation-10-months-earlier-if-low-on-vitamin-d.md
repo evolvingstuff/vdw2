@@ -28,7 +28,7 @@
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
 
-* <a href="/posts/early-puberty-if-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early Puberty if low vitamin D - many studies">Early Puberty if low vitamin D - many studies</a>
+* [Early Puberty if low vitamin D - many studies](/posts/early-puberty-if-low-vitamin-d-many-studies)
 
 * [depression category in VitaminDWiki](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&deep=off&type=)
 
@@ -38,7 +38,7 @@
 
 > Huge number of disease pairs, but does not include early menstruation and depression as of June 2016
 
-* <a href="/posts/early-puberty-in-girls-60-percent-more-likely-if-less-than-32-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early puberty in girls 60 percent more likely if less than 32 ng of vitamin D – Aug 2017">Early puberty in girls 60 percent more likely if less than 32 ng of vitamin D – Aug 2017</a>
+* [Early puberty in girls 60 percent more likely if less than 32 ng of vitamin D – Aug 2017](/posts/early-puberty-in-girls-60-percent-more-likely-if-less-than-32-ng-of-vitamin-d)
 
 </div>
 

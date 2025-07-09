@@ -60,6 +60,6 @@ Charts from [Vitamin D3 better than D2](/posts/vitamin-d3-better-than-d2)
 
 ### Response to 20,000 IU vitamin  **<span style="color:#00F;">D3</span>**  extra per week
 
-{IMG(attId="746" max="350")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/response-to-20000-iu-weekly.png" alt="image" style="max-width: 350px;">
 
 ### Most > 20ng and some > 40ng

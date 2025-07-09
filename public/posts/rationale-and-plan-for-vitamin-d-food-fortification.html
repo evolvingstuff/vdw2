@@ -1,0 +1,83 @@
+<!doctype html><html><head><meta charset=utf-8><title>Rationale and Plan for Vitamin D Food Fortification</title>
+<link rel=stylesheet href="/css/main.css?v=1752030348"><link rel=stylesheet href="/css/pagination.css?v=1752030348"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030348"></script><script src="/js/search.js?v=1752030348"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Rationale and Plan for Vitamin D Food Fortification</h1><time>June 30, 2018</time><div data-pagefind-body><h4 id=rationale-and-plan-for-vitamin-d-food-fortification-a-review-and-guidance-paper>Rationale and Plan for Vitamin D Food Fortification: A Review and Guidance Paper</h4><p><strong>published: 17 July 2018 <a href=https://doi.org/10.3389/fendo.2018.00373>doi: 10.3389/fendo.2018.00373</a></strong></p><h3 id=risk-of-death-for-any-reason>Risk of Death (for any reason)</h3><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/hr-fortification.jpg alt=image width=700><p>      Chart adapted from <a href=/posts/much-more-likely-to-live-longer-if-higher-vitamin-d-27000-seniors-feb-2017-chart-s-in-a-nutshell style=color:red;text-decoration:underline title="This post/category does not exist yet: Much more likely to live longer if higher vitamin D – 27,000 seniors Feb 2017))
+__Chart fails to consider increased deaths if raise vitamin D but not adjust ((Vitamin D Cofactors in a nutshell">cofactors</a><br>such as too much <a href=/posts/calcium-and-vitamin-d>Calcium</a> and to little <a href=/posts/magnesium-and-vitamin-d>Magnesium</a> due to increased Vitamin D,<br>The excess Calcium is then deposited in arteries, muscles, <a href=/posts/calcium-supplementation-associated-with-39x-increase-risk-of-atrial-fibrillation>heart</a> organs, etc.<br><span style=color:#00f>There might be no increased death rate for higher vitamin D levels if the cofactors were also adjusted</span> *** <a href=/posts/more-than-800-mg-of-calcium-increases-cardiovascular-events-by-85-percent>More than 800 mg of Calcium increases Cardiovascular events by 85 percent– Nov 2011</a></p><ul><li><p><a href=/posts/drinking-3-glasses-of-milk-daily-associated-with-doubling-the-death-rate>Drinking 3 glasses of milk daily associated with doubling the death rate – Oct 2014</a></p></li><li><p><a href=/posts/risk-of-ischemic-stroke-doubles-if-take-more-than-1-gram-of-calcium-daily-for-years>Risk of Ischemic Stroke doubles if take more than 1 gram of Calcium daily for years – May 2017</a></p><ul><li><a href=/posts/is-a-health-problem-associated-with-low-vitamin-d-low-magnesium-or-too-much-calcium>Is a health problem associated with Low vitamin D, Low Magnesium, or too much Calcium – Jan 2016</a></li></ul></li></ul><p>Authors:** Piiz S, Marz W <strong>, Cashman KD, KieiyME, Whiting SJ, Hoick MF, Grant WB, Piudowski P Hiiigsmann M, Trummer C, Schwetz V, Lerchbaum E, Pandis M, Tomaschitz A, Grubier MR, Gaksch M, Verheyen N, Hoiiis BW, Rejnmark L, Karras SN, Hahn A, Bischoff-Ferrari HA, Reichrath J, Jorde R, Eimadfa I, Vieth R, Scragg R, Caivo MS, van Schoor NM, Bouiiion R, Lips P, Itkonen ST, Martineau AR, Lamberg-Aiiardt C and</strong> Zittermann A <strong>  Draft authors are</strong> bolded **Vitamin D deficiency can lead to musculoskeletal diseases such as rickets and osteomalacia, but vitamin D supplementation may also prevent extraskeletal diseases such as respiratory tract infections, asthma exacerbations, pregnancy complications and premature deaths. Vitamin D has a unique metabolism as it is mainly obtained through synthesis in the skin under the influence of sunlight (i.e., ultraviolet-B radiation) whereas intake by nutrition traditionally plays a relatively minor role. Dietary guidelines for vitamin D are based on a consensus that serum 25-hydroxyvitamin D (25<span>[OH]</span>D) concentrations are used to assess vitamin D status, with the recommended target concentrations ranging from >25 to >50 nmol/L (>10->20ng/mL), corresponding to a daily vitamin D intake of 10 to 20 microgram (400-800 international units). Most populations fail to meet these recommended dietary vitamin D requirements. In Europe, 25(OH)D concentrations &lt;30 nmol/L (12ng/mL) and &lt;50 nmol/L (20ng/mL) are present in 13.0 and 40.4% of the general population, respectively. This substantial gap between officially recommended dietary reference intakes for vitamin D and the high prevalence of vitamin D deficiency in the general population requires action from health authorities. Promotion of a healthier lifestyle with more outdoor activities and optimal nutrition are definitely warranted but will not erase vitamin D deficiency and must, in the case of sunlight exposure, be well balanced with regard to potential adverse effects such as skin cancer. Intake of vitamin D supplements is limited by relatively poor adherence (in particular in individuals with low-socioeconomic status) and potential for overdosing. Systematic vitamin D food fortification is, however, an effective approach to improve vitamin D status in the general population, and this has already been introduced by countries such as the US, Canada, India, and Finland. Recent advances in our knowledge on the safety of vitamin D treatment, the dose-response relationship of vitamin D intake and 25(OH)D levels, as well as data on the effectiveness of vitamin D fortification in countries such as Finland provide a solid basis to introduce and modify vitamin D food fortification in order to improve public health with this likewise cost-effective approach.</p><p>{BOX(title=>VitaminDWiki class=&ldquo;border&rdquo; bg=>#FFFAE2,width= &ldquo;700px&rdquo;)}</p><p>Seems like there is very little room for fortification.</p><p>1,000 IU/day helps a few people get to 30 ng</p><p>However, governments continue to wrongly believe that 4,000 IU can be toxic</p><p>A person could easily consume 4X of the consumed fortified food</p><p>Finland, for one, had decided on fortification with 2,000 IU</p><p>This study has not even started to choose a dose range nor what food to fortify</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>asthma</span>
+<span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>blood levels</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>breathing</span>
+<span class=tag>cancer</span>
+<span class=tag>cardiovascular</span>
+<span class=tag>dosage</span>
+<span class=tag>Fortification with Vitamin D</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>magnesium</span>
+<span class=tag>magnesium and cancer</span>
+<span class=tag>magnesium and pregnancy</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>pregnancy</span>
+<span class=tag>rickets</span>
+<span class=tag>skin cancer</span>
+<span class=tag>stroke</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>asthma, autoimmune, autoimmune and pregnancy, blood levels, bone, bone cancer, breathing, cancer, cardiovascular, dosage, Fortification with Vitamin D, high dose, intervention, magnesium, magnesium and cancer, magnesium and pregnancy, multiple sclerosis, multiple sclerosis and pregnancy, pregnancy, rickets, skin cancer, stroke, therapeutic intervention, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030348"></script><script src="/js/tiki-redirects.js?v=1752030348"></script><script src="/js/lightspa.js?v=1752030348"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030348",indexUrl:"/search/search_index.json.gz?v=1752030348"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030348"></script></body></html>

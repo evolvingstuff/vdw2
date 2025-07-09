@@ -71,7 +71,7 @@ Vitamin D is generally safe, but in high doses scientists say it can pull calciu
 
 * <a href="/posts/more-on-influenza-from-vitamin-d-council-late-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1234">More on Influenza from Vitamin D council - late 2010</a>
 
-* <a href="/posts/review-of-vitamin-d-and-immune-system-abstract" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 906">Review of vitamin D and immune system – abstract Sept 2010</a>
+* [Review of vitamin D and immune system – abstract Sept 2010](/posts/review-of-vitamin-d-and-immune-system-abstract)
 
 * <a href="/posts/vitamin-d-3x-better-than-placebo-or-vaccine-at-preventing-flu-in-kids" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 429">Vitamin D 3X better than placebo or vaccine at preventing flu in kids – March 2010</a>
 
@@ -79,6 +79,6 @@ Vitamin D is generally safe, but in high doses scientists say it can pull calciu
 
 * <a href="/posts/kids-with-1200-iu-vit-d-were-12-as-likely-to-get-influenza-a" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 139">Kids with 1200 IU vit D were 1/2 as likely to get influenza A</a>
 
-* <a href="/posts/influenza-of-1918-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 802">Influenza of 1918 and vitamin D - July 2010</a>
+* [Influenza of 1918 and vitamin D - July 2010](/posts/influenza-of-1918-and-vitamin-d)
 
 * [Sunlight used to treat influenza - 1918](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1423) file

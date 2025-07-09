@@ -49,4 +49,4 @@ PMID: 20204652
 
 #### See also VitaminDWiki
 
-<a href="/posts/obese-need-2x-to-3x-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014">Obese need 2X to 3X more vitamin D - Nov 2014</a>
+[Obese need 2X to 3X more vitamin D - Nov 2014](/posts/obese-need-2x-to-3x-more-vitamin-d)

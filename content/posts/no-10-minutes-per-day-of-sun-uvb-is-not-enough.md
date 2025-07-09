@@ -27,7 +27,7 @@
 }
 
 
-### <span style="color:#F00;">VitaminDWiki video</span> <a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Does Less Sun mean More Disease</a>
+### <span style="color:#F00;">VitaminDWiki video</span> [Does Less Sun mean More Disease](/posts/does-less-sun-mean-more-disease)
 
 ### Time in the sun to get 4000 IU
 
@@ -81,7 +81,7 @@ Does not include
 
 *
 
-   * <a href="/posts/air-pollution-reduces-uv-and-thus-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 818">Air pollution reduces UV and thus vitamin D - Aug 2010</a>
+   * [Air pollution reduces UV and thus vitamin D - Aug 2010](/posts/air-pollution-reduces-uv-and-thus-vitamin-d)
 
 * Got sun/UV 3 times per week for 6 weeks
 
@@ -215,6 +215,6 @@ Results from both model and experimental data show that relatively short exposur
 
 *  **[1300 publications mentioning McKenzie and Vitamin D](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&as_ylo=2016&q=RL%20McKenzie%20"vitamin%20d"&btnG=) 2016-2020 Google Scholar** 
 
-* <a href="/posts/vitamin-d-produced-by-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D produced by UVB – June 2013">Vitamin D produced by UVB – June 2013</a>
+* [Vitamin D produced by UVB – June 2013](/posts/vitamin-d-produced-by-uvb)
 
-* <a href="/posts/even-small-amounts-of-uvb-result-in-increased-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Even small amounts of UVB result in increased vitamin D levels – March 2012">Even small amounts of UVB result in increased vitamin D levels – March 2012</a>
+* [Even small amounts of UVB result in increased vitamin D levels – March 2012](/posts/even-small-amounts-of-uvb-result-in-increased-vitamin-d-levels)

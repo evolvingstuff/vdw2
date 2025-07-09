@@ -238,8 +238,8 @@ Extensive data from animal models clearly show that the VDR, independent of vita
 
    * Red hair apparently allows more production of vitamin D from the same amount of sunlight 
 
-* <a href="/posts/hypothesis-stem-cells-need-vitamin-d-too" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2345">Hypothesis: Stem cells need vitamin D too – Jan 2012</a>
+* [Hypothesis: Stem cells need vitamin D too – Jan 2012](/posts/hypothesis-stem-cells-need-vitamin-d-too)
 
 * [Stem Cell Transplants consume vitamin D – July 2011](/posts/stem-cell-transplants-consume-vitamin-d)
 
-* <a href="/posts/vitamin-d-shows-promise-in-curing-baldness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Vitamin D Shows Promise in Curing Baldness – July 2012</a>
+* [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness)

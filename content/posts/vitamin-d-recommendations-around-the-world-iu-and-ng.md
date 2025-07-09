@@ -71,19 +71,19 @@
 
 * [EU RDA of Sept 2011](http://www.vitamin-contract-suppliers.co.uk/rda.pl) includes Magnesium 375 mg, Vitamin K (not K2) 75 mg, no Boron, 
 
-* <a href="/posts/nordic-countries-upping-vitamin-d-to-400-iu-daily-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nordic countries upping vitamin D to 400 IU daily (not enough) - Nov 2014">Nordic countries upping vitamin D to 400 IU daily (not enough) - Nov 2014</a> adults
+* [Nordic countries upping vitamin D to 400 IU daily (not enough) - Nov 2014](/posts/nordic-countries-upping-vitamin-d-to-400-iu-daily-not-enough) adults
 
-* <a href="/posts/vitamin-d-supplementation-guidelines-adults-50000-iu-per-week" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D supplementation guidelines (adults – 50,000 IU per week) – Feb 2017">Vitamin D supplementation guidelines (adults – 50,000 IU per week) – Feb 2017</a>
+* [Vitamin D supplementation guidelines (adults – 50,000 IU per week) – Feb 2017](/posts/vitamin-d-supplementation-guidelines-adults-50000-iu-per-week)
 
 #### More on <span style="color:#00F;">IU</span> at VitaminDWiki
 
 * <a href="/posts/span-stylecolor00f200-iuspan-dri-for-korean-children" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3738"> **<span style="color:#00F;">200 IU</span>**  DRI for Korean children</a> lowered from 400 IU
 
-* <a href="/posts/vitamin-d-levels-in-europe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels in Europe – Sept 2014">__~~#00F: 200 IU~~__ France   Germany 800, Switzerland 800, Spain 600</a>
+* [__~~#00F: 200 IU~~__ France   Germany 800, Switzerland 800, Spain 600](/posts/vitamin-d-levels-in-europe)
 
 * <a href="/posts/finland-hopes-to-double-vitamin-d-dose-for-elderly-from-span-stylecolor00f400-to-800-iuspan-in-2012" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 412">Finland hopes to double Vitamin D dose for elderly from  **<span style="color:#00F;">400 to 800 IU</span>**  in 2012</a>
 
-* <a href="/posts/warning-in-norway-2000-iu-vitamin-d-being-sold-800-iu-is-their-upper-limit" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Warning in Norway – 2,000 IU Vitamin D being sold (800 IU is their upper limit) – Feb 2015">Warning in Norway – 2,000 IU Vitamin D being sold (800 IU is their upper limit) – Feb 2015</a>
+* [Warning in Norway – 2,000 IU Vitamin D being sold (800 IU is their upper limit) – Feb 2015](/posts/warning-in-norway-2000-iu-vitamin-d-being-sold-800-iu-is-their-upper-limit)
 
 * <a href="/posts/poland-2009-span-stylecolor00f400-800-iuspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2719">Poland 2009:  **<span style="color:#00F;">400-800  IU</span>** </a>
 
@@ -119,17 +119,17 @@
 
 * <a href="/posts/dr-garland-and-heaney-span-stylecolor00f4000-iuspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1425">Dr. Garland and Heaney  **<span style="color:#00F;">4000 IU</span>** </a>
 
-* <a href="/posts/seniors-need-at-least-4000-iu-vitamin-d-no-test-needed-consensus" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors need at least 4,000 IU vitamin D, no test needed – Consensus Jan 2014">Seniors need __~~#00F:at least 4,000 IU~~__ , no test needed – Consensus Jan 2014</a>
+* [Seniors need __~~#00F:at least 4,000 IU~~__ , no test needed – Consensus Jan 2014](/posts/seniors-need-at-least-4000-iu-vitamin-d-no-test-needed-consensus)
 
 * <a href="/posts/patients-older-than-65-needed-span-stylecolor00f5000-iuspan-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 271">Patients older than 65 needed  **<span style="color:#00F;">5,000 IU</span>**   vitamin D – May 2010</a>
 
-* <a href="/posts/5000-iu-recommended-by-vitamin-d-council" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5,000 IU recommended by Vitamin D Council - Dec 2013">5,000 IU recommended by Vitamin D Council - Dec 2013</a>
+* [5,000 IU recommended by Vitamin D Council - Dec 2013](/posts/5000-iu-recommended-by-vitamin-d-council)
 
 * <a href="/posts/span-stylecolor00f7100-iuspan-50000-weekly-got-most-women-to-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3139"> **<span style="color:#00F;">7100 IU</span>**  (50000 weekly) got most women to 30 ng of vitamin D - Aug 2012</a>
 
 * <a href="/posts/span-stylecolor00f100-iu-per-kg-of-infantspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1757"> **<span style="color:#00F;">100 IU per kg of infant</span>** </a> July 2011, Poland etc.
 
-* <a href="/posts/4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4,000 IU of Vitamin D is OK - 19 organizations agree - 2018">4,000 IU of Vitamin D is OK - 19 organizations agree - 2018</a>
+* [4,000 IU of Vitamin D is OK - 19 organizations agree - 2018](/posts/4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018)
 
 * <a href="/posts/australia-and-nz-conservative-position-vitamin-d-position-statement" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2960">Australia and NZ conservative position vitamin D position statement – June 2012</a> not official govt statement
 
@@ -155,7 +155,7 @@
 
 * <a href="/posts/poland-2009-span-stylecolor69020-ng-for-children-30-ng-for-adultsspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2719">Poland 2009   **<span style="color:#690;">>20 ng for children, > 30 ng for adults</span>** </a>
 
-* <a href="/posts/30-to-50-ng-of-vitamin-d-is-optimal-central-europe-consensus" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 30 to 50 ng of vitamin D is optimal – Central Europe consensus Sept 2013">30 to 50 ng of vitamin D is optimal – Central Europe consensus Sept 2013</a>
+* [30 to 50 ng of vitamin D is optimal – Central Europe consensus Sept 2013](/posts/30-to-50-ng-of-vitamin-d-is-optimal-central-europe-consensus)
 
 * <a href="/posts/usda-vitamin-d-level-span-stylecolor690-30ngspan-and-600-mg-calcium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 559">USDA vitamin D level  **<span style="color:#690;">> 30ng</span>**   and 600 mg Calcium - March 2010</a>
 
@@ -171,7 +171,7 @@
 
 * <a href="/posts/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough</a>
 
-* <a href="/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: European Osteo group recommends 20-50 ng of vitamin D – Jan 2013">European Osteo group recommends 20-50 ng of vitamin D – Jan 2013</a>
+* [European Osteo group recommends 20-50 ng of vitamin D – Jan 2013](/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d)
 
 * [25 experts recommend vitamin D level of min 30 ng – Nov 2009](/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng)
 
@@ -183,7 +183,7 @@
 
 Click on image for more details
 
-{IMG(fileId="2041"  max="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 ### Consensus: **<span style="color:#F00;">0 ng is bad</span>**  and  **<span style="color:#090;">30 ng is good/ok</span>** 
 
@@ -207,6 +207,6 @@ Click on image for more details
 Less than 10% of males  
 None of the seniors (over age 71)
 
-{IMG(fileId="1208")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 short URL for this page = http://tinyurl.com/vitDrec

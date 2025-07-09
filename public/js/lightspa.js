@@ -138,13 +138,49 @@ class LightSPA {
      * @param {string} url - The URL to navigate to
      */
     async navigateTo(url, pushState = true) {
+        console.log('navigateTo: Check point 1')
         // Prevent duplicate navigation to the same URL
         if (url === window.location.href && !pushState) {
             console.log('Preventing duplicate navigation to:', url);
             return;
         }
+        console.log('check point 2')
 
-        console.log('Navigating to:', url, 'pushState:', pushState, 'currentIndex:', this.currentIndex);
+        debugger;
+        console.log('[navigateTo] Starting navigation to:', url, 'pushState:', pushState);
+        
+        // Check for URL fixer function - FAIL EXPLICITLY if missing
+        if (typeof window.fixUrl !== 'function') {
+            const errorMsg = 'CRITICAL ERROR: window.fixUrl function not found. ' +
+                'Check that tiki-redirects.js is loaded before lightspa.js or navigation will fail.';
+            console.error(errorMsg);
+            
+            // Display error to user and stop navigation
+            const mainContent = document.querySelector('[role="main"]');
+            if (mainContent) {
+                const errorDiv = document.createElement('div');
+                errorDiv.style.color = 'red';
+                errorDiv.style.padding = '20px';
+                errorDiv.style.margin = '20px';
+                errorDiv.style.border = '2px solid red';
+                errorDiv.innerHTML = `<h2>Navigation Error</h2><p>${errorMsg}</p>`;
+                mainContent.prepend(errorDiv);
+            }
+            
+            throw new Error(errorMsg);
+        }
+        
+        // Fix URL before navigation
+        const originalUrl = url;
+        const fixedUrl = window.fixUrl(url);
+        console.log('[navigateTo] fixUrl returned:', fixedUrl, 'original was:', url);
+        if (fixedUrl !== url) {
+            console.log('[navigateTo] URL was modified by fixUrl');
+            url = fixedUrl;
+        }
+
+        console.log('[navigateTo] Final URL for navigation:', url, 'original was:', originalUrl);
+        console.log('[navigateTo] pushState:', pushState, 'currentIndex:', this.currentIndex);
         
         // Extract hash fragment if present
         const urlObj = new URL(url);
@@ -249,13 +285,13 @@ class LightSPA {
     /**
      * Handle browser back/forward navigation
      */
-    handlePopState(event) {
+    async handlePopState(event) {
         console.log('PopState event:', event.state);
         
         // If no state, use current URL
         if (!event.state) {
             console.log('No state, using current URL:', window.location.href);
-            this.navigateTo(window.location.href, false);
+            await this.navigateTo(window.location.href, false);
             return;
         }
 
@@ -265,12 +301,10 @@ class LightSPA {
         
         // Update content directly from state if available
         if (event.state.content) {
-            console.log('Restoring content from state:', event.state.url);
-            this.mainContent.innerHTML = event.state.content;
             document.title = event.state.title;
-            this.mainContent.style.opacity = '1';
-
-            // Restore scroll position
+            this.mainContent.innerHTML = event.state.content;
+            
+            // Restore scroll position if available
             if (event.state.scrollPosition) {
                 console.log('Restoring scroll position:', event.state.scrollPosition);
                 window.scrollTo(event.state.scrollPosition.x, event.state.scrollPosition.y);
@@ -280,7 +314,7 @@ class LightSPA {
 
         // Otherwise fetch the page
         console.log('Fetching content for:', event.state.url);
-        this.navigateTo(event.state.url, false);
+        await this.navigateTo(event.state.url, false);
     }
 
     // Helper to get initial state

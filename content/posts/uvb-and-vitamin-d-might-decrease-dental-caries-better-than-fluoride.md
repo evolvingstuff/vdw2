@@ -77,7 +77,7 @@ Serum 25-hydroxyvitamin D concentrations at or above 30-40 ng/ml should signific
 
 It is unfortunate that the UVB and vitamin D findings were not given more consideration in the 1950s as a way to reduce the risk of dental caries when water fluoridation was being proposed.
 
-{IMG(attId="793")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/dental---grant-2011.png" alt="image">
 
 ### Note: the units in this chart are NOT the same as the [UV index](http://www.epa.gov/sunwise/uvicalc.html)
 

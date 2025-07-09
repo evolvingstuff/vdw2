@@ -50,4 +50,4 @@ The hyperglycemic clamp, which requires maintaining a high blood sugar level by 
 
 # See many studies which disagree in VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)

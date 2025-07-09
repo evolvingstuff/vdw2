@@ -37,7 +37,7 @@ PMID:     21697621
 
 # Individuals A, B, C, D
 
-{IMG(attId="590")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-variation-within-6-days.png" alt="image">
 
 - - - - - - - - - - 
 
@@ -45,6 +45,6 @@ PMID:     21697621
 
 * [All items in Testing Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=24&sort_mode=created_desc)
 
-* <a href="/posts/vitamin-d-blood-testing-within-plus-or-minus-7-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 607">Vitamin D blood testing within plus or minus 7 percent – Mar 2010</a> variation between labs
+* [Vitamin D blood testing within plus or minus 7 percent – Mar 2010](/posts/vitamin-d-blood-testing-within-plus-or-minus-7-percent) variation between labs
 
-* <a href="/posts/comparison-of-vitamin-d-blood-tests-worse-case-off-by-15-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 763">Comparison of vitamin D blood tests – worse case off by 15% – Aug 2010</a> variation between labs
+* [Comparison of vitamin D blood tests – worse case off by 15% – Aug 2010](/posts/comparison-of-vitamin-d-blood-tests-worse-case-off-by-15-percent) variation between labs

@@ -265,7 +265,7 @@ A =Assoc. = associated effects of low vitamin D due to comorbid diseases or trea
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-evidence-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 288">Overview Evidence for vitamin D</a>
+* [Overview Evidence for vitamin D](/posts/overview-evidence-for-vitamin-d)
 
 * [All items in category Evidence for Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=86&sort_mode=created_desc) 18 items as of Nov 2011
 

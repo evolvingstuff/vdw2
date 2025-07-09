@@ -65,9 +65,9 @@ PMID:     21735411
 
 #### See how a majority of the RCT considered used only 800 IU of vitamin D - samples
 
-{IMG(attId="633")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/table3-1.png" alt="image">
 
-{IMG(attId="634")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/table3-2.png" alt="image">
 
 ## <span>[tiki-download_file.php?fileId=1926]</span> for PDF - you must be registered (free)
 

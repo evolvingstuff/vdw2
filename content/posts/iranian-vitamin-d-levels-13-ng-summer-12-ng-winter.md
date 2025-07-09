@@ -72,13 +72,13 @@ PMID:     21717408
 
 * <a href="/posts/arab-pre-term-infants-often-have-less-than-10-ng-of-vitamin-d-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 741">Arab pre-term infants often have less than 10 ng of vitamin D - 2010</a> 
 
-* <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Air Conditioning probably has decreased vitamin D</a> from a book
+* [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d) from a book
 
 * <a href="/posts/doubling-of-people-less-than-30-ng-of-vitamin-d-75-percent-of-whites-and-90-percent-of-blacks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 259">Doubling of people less than 30 ng of vitamin D - 75% of whites and 90% of blacks – Feb 2010</a>
 
-* <a href="/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 201">Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010</a>
+* [Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010](/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low)
 
-* <a href="/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 611">Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010</a>
+* [Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010](/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis)
 
 * [Parkinson disease increased in Israel by 50 percent in 7 years – June 2011](/posts/parkinson-disease-increased-in-israel-by-50-percent-in-7-years)
 

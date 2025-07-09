@@ -26,7 +26,7 @@
 }
 
 
-**<a href="/posts/arterial-stiffness-reduced-by-omega-3-vitamin-d-vitamin-k2-magnesium-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.">Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.</a>** 
+**[Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.](/posts/arterial-stiffness-reduced-by-omega-3-vitamin-d-vitamin-k2-magnesium-etc)** 
 
 {{< toc >}}
 

@@ -41,7 +41,7 @@ Conclusions: Vitamin D deficiency is common in Japanese workers during seasons w
 
  **<span style="color:#222;">MEN</span>** &nbsp; &nbsp; **<span style="color:#999;">WOMEN</span>** 
 
-{IMG(attId="645")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-japan-nov.png" alt="image">
 
 PMID:     21747209
 
@@ -53,7 +53,7 @@ PMID:     21747209
 
 1. <a href="/posts/most-groups-recommend" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Most groups recommend</a> a 30 ng/ml level, not 20 ng/ml level of vitamin D
 
-{IMG(attId="355"max="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 400px;">
 
 ## <a href="/posts/span-stylecolor093click-here-for-detailsspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1225"><span style="color:#093;">CLICK HERE for details</span></a>
 

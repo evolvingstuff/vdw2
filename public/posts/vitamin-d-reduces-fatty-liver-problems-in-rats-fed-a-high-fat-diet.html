@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D reduces fatty liver problems in rats fed a high fat diet</title>
+<link rel=stylesheet href="/css/main.css?v=1752030351"><link rel=stylesheet href="/css/pagination.css?v=1752030351"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030351"></script><script src="/js/search.js?v=1752030351"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D reduces fatty liver problems in rats fed a high fat diet</h1><time>June 2, 2018</time><div data-pagefind-body><h4 id=early-effects-of-high-fat-diet-extra-virgin-olive-oil-and-vitamin-d-in-a-sedentary-rat-model-of-non-alcoholic-fatty-liver-disease>Early effects of high-fat diet, extra-virgin olive oil and vitamin D in a sedentary rat model of non-alcoholic fatty liver disease.</h4><p>Histol Histopathol. 2018 Jun 1:18008. <a href=https://doi.org/10.14670/HH-18-008.>doi: 10.14670/HH-18-008.</a> <span>[Epub ahead of print]</span></p><p>Trovato FM1, Castrogiovanni P2, Szychlinska MA2, Purrello F1, Musumeci G3.</p><p>1 Dept of Clinical and Experimental Medicine, Internal Medicine Unit, University of Catania, Catania, Italy.</p><p>2 Dept of Biomedical and Biotechnological Sciences, Human Anatomy and Histology Section, University of Catania, Catania, Italy.</p><p>3 Dept of Biomedical and Biotechnological Sciences, Human Anatomy and Histology Section, University of Catania, Catania, Italy. <a href=mailto:g.musumeci@unict.it>g.musumeci@unict.it</a>.</p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:700px"><ul><li><p><a href=/posts/nafld-in-children-nicely-treated-by-combination-of-vitamin-d-and-omega-3-rct>NAFLD in children nicely treated by combination of Vitamin D and Omega-3 – RCT Dec 2016</a></p></li><li><p><a href=/posts/non-alcoholic-fatty-liver-disease-nafld-treated-by-vitamin-d-20000-iu-weekly-after-loading-dose-rct>Non-Alcoholic Fatty Liver Disease (NAFLD) treated by Vitamin D (20,000 IU weekly after loading dose) – RCT June 2016</a></p></li><li><p><a href=/posts/non-alcoholic-fatty-liver-disease-treated-by-omega-3-three-meta-analysis-2016-2017>Non-Alcoholic Fatty Liver Disease treated by Omega-3 – three meta-analysis 2016-2017</a></p></li><li><p><a href=/posts/non-alcoholic-fatty-liver-disease-nafld-reduced-somewhat-by-50000-iu-vitamin-d-every-2-weeks-rct>Non-alcoholic fatty liver disease (NAFLD) reduced somewhat by 50,000 IU vitamin D every 2 weeks – RCT Sept 2014</a></p></li><li><p><a href=/posts/liver-inflammation-nafld-is-prevented-by-vitamin-d-review>Liver Inflammation (NAFLD) is prevented by Vitamin D – review May 2015</a></p></li><li><p><a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%22fatty+liver%22&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search for Fatty Liver in VitaminDWiki</a> 627 items June 2018</p></li><li><p><a href=/posts/overview-liver-and-vitamin-d>Overview Liver and vitamin D</a></p></li><li><p><a href=/posts/non-alcoholic-fatty-liver-disease-4-in-10-seniors-and-vitamin-d>Non-alcoholic Fatty Liver Disease (4 in 10 seniors) and Vitamin D</a></p><ul><li>Note: Many doctors and seniors are unaware of NAFLD</li></ul></li></ul></div><p>BACKGROUND AND AIM:</p><p>Western high-fat diet is related to metabolic syndrome and non-alcoholic fatty liver disease (NAFLD). Decreased levels of Vitamin D (VitD) and IGF-1 and their mutual relationship were also reported. We aimed to evaluate whether different dietary profiles, containing or not VitD, may exert different effects on liver tissue.</p><p>METHODS:</p><p>Twenty-eight male rats were fed for 10 weeks by different dietary regimens:</p><ul><li><p>R, regular diet;</p></li><li><p>R-DS and R-DR, regular diet with respectively VitD supplementation (DS) and restriction (DR);</p></li><li><p>HFB-DS and HFB-DR (41% energy from fat), high fat (butter) diet;</p></li><li><p>HFEVO-DS and HFEVO-DR (41% energy from fat), high fat (Extra-virgin olive oil-EVO) diet.</p></li></ul><p>Severity of NAFLD was assessed by NAFLD Activity Score. Collagen type I, IL-1beta, VitD-receptor, DKK-1 and IGF1 expressions were evaluated by immunohistochemistry.</p><p>RESULTS:</p><p>All samples showed a NAS between 0 and 2 considered not diagnostic of steatohepatitis. Collagen I, although weakly expressed, was statistically greater in HFB-DS and HFB-DR groups.</p><p>IL-1 was mostly expressed in rats fed with HFBs and HFEVOs and R-DR, and almost absent in R and R-DS diets. IGF-1 and DKK-1 were reduced in HFBs and HFEVOs diets and in particular in DR groups.</p><p>CONCLUSIONS:</p><p>A short-term high-fat diet could damage liver tissue in terms of inflammation and collagen I deposition, setting the basis for the subsequent steatohepatitis, still not identifiable anatomopathologically.</p><p>Vitamin D restriction increases inflammation and reduces the expression of IGF-1 in the liver, worsening the fat-induced changing. EVOO seems be protective against the collagen I production.</p><p>PMID: 29855033 DOI: 10.14670/HH-18-008</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>child</span>
+<span class=tag>dosage</span>
+<span class=tag>high dose</span>
+<span class=tag>liver</span>
+<span class=tag>Liver</span>
+<span class=tag>metabolic</span>
+<span class=tag>metabolic conditions</span>
+<span class=tag>metabolic syndrome</span>
+<span class=tag>Metabolic Syndrome</span>
+<span class=tag>NAFLD</span>
+<span class=tag>omega 3</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>child, dosage, high dose, liver, Liver, metabolic, metabolic conditions, metabolic syndrome, Metabolic Syndrome, NAFLD, omega 3, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030351"></script><script src="/js/tiki-redirects.js?v=1752030351"></script><script src="/js/lightspa.js?v=1752030351"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030351",indexUrl:"/search/search_index.json.gz?v=1752030351"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030351"></script></body></html>

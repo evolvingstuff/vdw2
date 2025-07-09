@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Emergency treatments if get COVID-19 symptoms</title>
+<link rel=stylesheet href="/css/main.css?v=1752030344"><link rel=stylesheet href="/css/pagination.css?v=1752030344"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030344"></script><script src="/js/search.js?v=1752030344"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Emergency treatments if get COVID-19 symptoms</h1><time>October 1, 2021</time><div data-pagefind-body><h4 id=take-at-home-within-5-days-of-getting-covid-19-symptoms>Take at home within 5 days of getting COVID-19 symptoms</h4><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>Vitamin D</td><td>molnupiravir (Merck)</td></tr><tr><td>Cost</td><td>$1</td><td>$700</td></tr><tr><td>Availability</td><td>Over the counter</td><td>Prescription (if approved)</td></tr><tr><td>Experience<br>with medication</td><td>>100,000,000 people<br>over 70 years</td><td>400 people in an RCT<br>over a few months</td></tr><tr><td>Experience<br>with the compound</td><td>((History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019</td><td>500 million years))</td></tr><tr><td>How often to take</td><td>once</td><td>twice a day for 5 days</td></tr><tr><td>Reduced risk<br>of hospitalization</td><td>>2X</td><td>2X</td></tr><tr><td>Vaccinated?</td><td>does not matter</td><td>trial participants<br>were UNvaccinated</td></tr><tr><td>FYI on names</td><td>Sometimes called<br>Vitamin D <strong><a href=/posts/hammer style=color:red;text-decoration:underline title="This link has an unknown page_id: 6630">Hammer</a></strong></td><td>Name <a href="https://www.theatlantic.com/health/archive/2021/10/mercks-experimental-covid-pill-cant-fix-everything/620320/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+TheAtlantic+%28The+Atlantic+-+Master+Feed%29">derived from</a><br>Thor&rsquo;s Hammer -Mjölnir</td></tr><tr><td>Health problems<br>fought</td><td>COVID-19<br>coronavirus,<br>enveloped virus,<br>colds, flu, etc</td><td>COVID-19</td></tr></tbody></table><p><strong>Vitamin D: 200,000 IU (4 capsules of 50,000 IU each)</strong></p><p>page is under construction in VitaminDWiki</p><p><strong><a href=https://www.nytimes.com/2021/10/01/us/merck-antiviral-pill-covid.html>Merck says a trial shows it has produced the first effective antiviral pill for Covid</a> NYT Oct 1, 2021 <i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/molnupiravir-nyt-oct-1.pdf>PDF</a></strong></p><p><strong><a href=https://www.washingtonpost.com/health/2021/10/01/pill-to-treat-covid/?>Merck’s experimental pill to treat covid-19 cuts risk of hospitalization and death in half, the pharmaceutical company reports</a> Washington Post, Oct 1. 2021</strong></p><ul><li><p>trial participants &ldquo;had to start the drug regimen within five days of symptom onset and be <strong>un</strong> vaccinated.&rdquo;</p></li><li><p>" &mldr; molnupiravir works by introducing genetic errors that garble the coronavirus’s genetic code. That means it may be more resistant to mutation, and may even work on other coronaviruses or RNA viruses."</p></li><li><p><a href=https://www.pfizer.com/news/press-release/press-release-detail/pfizer-starts-global-phase-23-epic-pep-study-novel-covid-19>Pfizer</a> is also developing an oral antiviral drug, and announced this week it was initiating a later-stage clinical trial testing the drug’s ability to prevent illness in people exposed to the coronavirus."</p></li></ul><p><strong><a href="https://theintercept.com/2021/10/05/covid-pill-drug-pricing-merck-ridgeback/?utm_medium=email&amp;utm_source=The%20Intercept%20Newsletter">MERCK SELLS FEDERALLY FINANCED COVID PILL TO U.S. FOR 40 TIMES WHAT IT COSTS TO MAKE</a> The Intercept Oct 5, 2021</strong></p><ul><li><p>&ldquo;The Covid-19 treatment molnupiravir was developed using funding from the National Institutes of Health and the Department of Defense.&rdquo;</p></li><li><p>&ldquo;Like the vast majority of medicines on the market, molnupiravir — which was originally investigated as a possible treatment for Venezuelan equine encephalitis — was developed using government funds&rdquo;</p></li><li><p>&ldquo;Indian companies are planning to price the drug at less than $12 for a five-day course&rdquo;</p></li></ul><p><strong>DoctorMurray.com email Oct 7, 2021 on Quercetin being better than molnupiravir</strong></p><ul><li><p>&ldquo;Quercetin is something else that I have highlighted as a treatment for COVID based on not only detailed studies showing an antiviral effect, but also clinical results from two trials.&rdquo;</p></li><li><p>&ldquo;These two published human clinical studies with an enhanced form of quercetin for improved absorption both produced better results than molnupiravir.&rdquo;</p></li><li><p>&ldquo;Quercetin cut hospitalization by 68%. And when patients did have to be hospitalized, the average stay was 6.77 days in the standard care group but only 1.57 days in the quercetin group. Quercetin not only reduced mortality by 100%, but also had a 100% success rate in preventing patients from entering the ICU.&rdquo;</p><ul><li><p><a href=https://doctormurray.com/is-quercetin-natures-magic-bullet-against-covid-19/>Details at his website, including type to take</a></p></li><li><p><a href=https://www.iherb.com/pr/natural-factors-quercetin-lipomicel-matrix-60-liquid-softgels/101704>his opinion of Best</a></p></li></ul></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>dosage</span>
+<span class=tag>influenza</span>
+<span class=tag>life span</span>
+<span class=tag>mortality</span>
+<span class=tag>pfizer</span>
+<span class=tag>virus</span>
+<span class=tag>Virus</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d and viruses</span></div><div data-pagefind-meta=tags hidden>dosage, influenza, life span, mortality, pfizer, virus, Virus, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030344"></script><script src="/js/tiki-redirects.js?v=1752030344"></script><script src="/js/lightspa.js?v=1752030344"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030344",indexUrl:"/search/search_index.json.gz?v=1752030344"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030344"></script></body></html>

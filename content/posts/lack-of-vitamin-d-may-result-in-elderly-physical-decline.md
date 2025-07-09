@@ -43,6 +43,6 @@ Limitations of available scientific evidence on the topic are also discussed. Ge
 
 # <span>[tiki-download_file.php?fileId=1617]</span>
 
-{IMG(attId="352")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/lack-1.gif" alt="image">
 
-{IMG(attId="353")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/lack-table-2.gif" alt="image">

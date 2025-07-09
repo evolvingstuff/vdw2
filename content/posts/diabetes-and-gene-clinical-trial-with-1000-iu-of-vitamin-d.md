@@ -74,13 +74,13 @@ Trial Registration [ClinicalTrials.gov: NCT01236846](http://clinicaltrials.gov/c
 
 * <a href="/posts/response-to-vitamin-d-depended-on-folk-i-gene" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3442">Response to vitamin D depended on Folk-I gene – Nov 2012</a>
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/reduced-chance-of-diabetes-46-percent-with-magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1087">Reduced chance of diabetes 46 percent with Magnesium - Oct 2010</a> no mention of vitamin D
+* [Reduced chance of diabetes 46 percent with Magnesium - Oct 2010](/posts/reduced-chance-of-diabetes-46-percent-with-magnesium) no mention of vitamin D
 
 * [Metabolic Syndrome adults 4X more likely to have less than 20 ng of vitamin D – Jan 2011](/posts/metabolic-syndrome-adults-4x-more-likely-to-have-less-than-20-ng-of-vitamin-d)
 
-* <a href="/posts/possible-reasons-that-vitamin-d-deals-with-diabetes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 810">Possible reasons that vitamin D deals with diabetes – Aug 2010</a>
+* [Possible reasons that vitamin D deals with diabetes – Aug 2010](/posts/possible-reasons-that-vitamin-d-deals-with-diabetes)
 
 * [5 Reasons Why Type One Diabetes is on the Rise (file)](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1007) 
 
@@ -90,19 +90,19 @@ Trial Registration [ClinicalTrials.gov: NCT01236846](http://clinicaltrials.gov/c
 
 * [Vitamin D with or without Calcium helped glycemic status – Feb 2011](/posts/vitamin-d-with-or-without-calcium-helped-glycemic-status)
 
-* <a href="/posts/take-charge-of-your-diabetes-2007-book-with-lots-of-vitamin-d-information" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 685">Take Charge of Your Diabetes 2007 book with lots of vitamin D information</a>  $5 PDF from author
+* [Take Charge of Your Diabetes 2007 book with lots of vitamin D information](/posts/take-charge-of-your-diabetes-2007-book-with-lots-of-vitamin-d-information)  $5 PDF from author
 
 * <a href="/posts/metabolic-syndrome-and-vitamin-d-view-of-many-papers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 720">Metabolic Syndrome and vitamin D - view of many papers Aug 2010</a>
 
-* <a href="/posts/review-of-vitamin-d-deficiency-and-diabetes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 805">Review of vitamin D deficiency and diabetes – Aug 2010</a>
+* [Review of vitamin D deficiency and diabetes – Aug 2010](/posts/review-of-vitamin-d-deficiency-and-diabetes)
 
-* <a href="/posts/type-2-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 709">Type 2 Diabetes and vitamin D – Aug 2010</a>
+* [Type 2 Diabetes and vitamin D – Aug 2010](/posts/type-2-diabetes-and-vitamin-d)
 
 * [Less than 30 ng vitamin D greatly increased hazard of dying and diabetes – Nov 2010](/posts/less-than-30-ng-vitamin-d-greatly-increased-hazard-of-dying-and-diabetes)
 
 * [4000 IU vitamin D improved glycemic control for type 1 diabetes – Nov 2010](/posts/4000-iu-vitamin-d-improved-glycemic-control-for-type-1-diabetes)
 
-* <a href="/posts/low-vitamin-d-predicts-all-cause-mortality-in-type-2-diabetes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1003">Low vitamin D predicts all cause mortality in Type 2 Diabetes – Oct 2010</a>
+* [Low vitamin D predicts all cause mortality in Type 2 Diabetes – Oct 2010](/posts/low-vitamin-d-predicts-all-cause-mortality-in-type-2-diabetes)
 
 * [Can Vitamin D TREAT Diabetes - many articles](/posts/can-vitamin-d-treat-diabetes-many-articles) not just prevent
 

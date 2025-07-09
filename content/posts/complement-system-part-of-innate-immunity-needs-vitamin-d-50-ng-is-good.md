@@ -1,0 +1,195 @@
+{
+    "title": "Complement system (part of innate immunity) needs Vitamin D (50 ng is good)",
+    "slug": "complement-system-part-of-innate-immunity-needs-vitamin-d-50-ng-is-good",
+    "aliases": [
+        "/Complement+system+part+of+innate+immunity+needs+Vitamin+D+50+ng+is+good+\u2013+Sept+2022",
+        "/13959"
+    ],
+    "tiki_page_id": 13959,
+    "date": "2022-09-30",
+    "categories": [
+        "Immunity"
+    ],
+    "tags": [
+        "Immunity",
+        "PCOS",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "breathing",
+        "child",
+        "cystic fibrosis",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "genetics",
+        "gut",
+        "high dose",
+        "immunity",
+        "intervention",
+        "macular degeneration",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "pain",
+        "pediatric autoimmune",
+        "pregnancy",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "tuberculosis",
+        "ulcerative colitis",
+        "vision",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+{{< toc >}} 
+
+---
+
+#### Vitamin D deficiency leads to the abnormal activation of the complement system
+
+Immunol Res. 2022 Sep 30. [doi: 10.1007/s12026-022-09324-6](https://doi.org/10.1007/s12026-022-09324-6)
+
+Huan Li #  1 , Xiaomin Xie #  2 , Guirong Bai  1 , Dan Qiang  1 , Li Zhang  1 , Huili Liu  1 , Yanting He  1 , Yanpan Tang  1 , Ling Li  1
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/complement-table.jpg" alt="image" width="700">
+
+Vitamin D deficiency can damage the human immune system, and the complement system is a key component of the immune system. This study aimed to elucidate the mechanism by which vitamin D affects the immune system by analyzing the changes in the protein expression of the complement system under different vitamin D levels. We selected 40 participants and divided them into three groups according to their serum levels of 25-hydroxyvitamin D (25(OH)VD): 
+
+* group A, 25(OH)VD ≥ 40 ng/mL; 
+
+* group B, 30 ng/mL ≤ 25(OH)VD < 40 ng/mL; and 
+
+* group C, 25(OH)VD < 30 ng/mL. 
+
+Serum samples were subjected to biochemical analysis, followed by proteomic analysis using high-throughput untargeted proteomic techniques. Vitamin D deficiency increased the levels of fasting blood sugar, fasting serum insulin, and homeostasis model assessment (HOMA) of insulin resistance and decreased the secretion of HOMA of β-cell function, which led to insulin resistance and glucose metabolism disorder. Moreover, vitamin D deficiency resulted in the abnormal expression of 56 differential proteins, among which the expression levels of complement factor B, complement component C9, inducible co-stimulator ligand, and peptidase inhibitor 16 significantly changed with the decrease in vitamin D content. Functional enrichment analysis of these differential proteins showed that they were mainly concentrated in functions and pathways related to insulin secretion and inflammation. 
+
+In conclusion, vitamin D deficiency not only contributes to insulin resistance and glucose metabolism disorder but also causes abnormal protein expression, resulting in the abnormal activation of the complement system. This study provides a novel theoretical basis for further studies on the relationship between vitamin D and the immune system.
+
+ **Clipped from PDF** 
+
+In conclusion, the main findings of this study were as follows: 
+
+* (1) vitamin D deficiency caused insulin resistance and glucose metabolism disorder,
+
+* (2) vitamin D deficiency led to the abnormal expression of complement proteins and the activation of the complement system, and 
+
+* (3) functional enrichment analysis revealed that dysregulated complement proteins were involved in cellular functions related to insulin `secretion and glucose metabolism regulation. 
+
+This study provides a novel reference for further studies on the regulatory effect of vitamin D on the immune system.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/complement-system-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
+
+---
+
+#### Complement system [Wikipedia Sept 2022](https://en.wikipedia.org/wiki/Complement_system%20)
+
+The complement system, also known as complement cascade, is a part of the immune system that enhances (complements) the ability of antibodies and phagocytic cells to clear microbes and damaged cells from an organism, promote inflammation, and attack the pathogen's cell membrane. It is part of the innate immune system,<sup>[1]</sup> which is not adaptable and does not change during an individual's lifetime. 
+
+The complement system can, however, be recruited and brought into action by antibodies generated by the adaptive immune system.
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/complement-wikipedia.png" alt="image" width="400">
+
+---
+
+#### Web
+
+Complement system part I – molecular mechanisms of activation and regulation - 2015  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/complement-2015-compresspdf.pdf">PDF</a>** 
+
+Complement system part II - 2015  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/compii-compresspdf.pdf">PDF</a>** 
+
+&nbsp; &nbsp; No mention of vitamin in either one
+
+---
+
+#### PDF References
+
+1. Holick MF, Chen TC. Vitamin D deficiency: a worldwide problem with health consequences. Am J Clin Nutr. 2008;87(4):1080S-S1086.
+
+1. Grad R. Cod and the consumptive: a brief history of cod-liver oil in the treatment of pulmonary tuberculosis. Pharm Hist. 2004;46(3):106-20.
+
+1. Wang TT, Nestel FP, Bourdeau V, Nagai Y, Wang Q, Liao J, Tavera- Mendoza L, Lin R, Hanrahan JW, Mader S, White JH. Cutting edge: 25-dihydroxyvitamin D3 is a direct inducer of antimicrobial peptide gene expression. J Immunol. 2004;173(10):2909-12.
+
+1. Dai X, Sayama K, Tohyama M, Shirakata Y, Hanakawa Y, Toku- maru S, Yang L, Hirakawa S, Hashimoto K. PPARy mediates innate immunity by regulating the 1a,25-dihydroxyvitamin D3 induced hBD-3 and cathelicidin in human keratinocytes. J Dermatol Sci. 2010;60(3):179-86.
+
+1. Sly LM, Lopez M, Nauseef WM, Reiner NE. 1alpha,25-Dihy- droxyvitamin D3-induced monocyte antimycobacterial activity is regulated by phosphatidylinositol 3-kinase and mediated by the NADPH-dependent phagocyte oxidase. J Biol Chem. 2001;276(38):35482-93.
+
+1. Shin DM, Yuk JM, Lee HM, Lee SH, Son JW, Harding CV, Kim JM, Modlin RL, Jo EK. Mycobacterial lipoprotein activates autophagy via TLR2/1/CD14 and a functional vitamin D receptor signalling. Cell Microbiol. 2010;12(11):1648-65.
+
+1. Fakhoury HMA, Kvietys PR, AlKattan W, Anouti FA, Elahi MA, Karras SN, Grant WB. Vitamin D and intestinal homeostasis: barrier, microbiota, and immune modulation. J Steroid Biochem Mol Biol. 2020;200:105663.
+
+1. Prietl B, Treiber G, Pieber TR, Amrein K. Vitamin D and immune function. Nutrients. 2013;5(7):2502-21.
+
+1. Cyprian F, Lefkou E, Varoudi K, Girardi G. Immunomodulatory effects of vitamin D in pregnancy and beyond. Front Immunol. 2019;10:2739.
+
+1. Blanck S, Aberra F. Vitamin d deficiency is associated with ulcerative colitis disease activity. Dig Dis Sci. 2013;58(6):1698-702.
+
+1. Vijayendra Chary A, Hemalatha R, Seshacharyulu M, Vasudeva Murali M, Jayaprakash D, Dinesh KB. Vitamin D deficiency in pregnant women impairs regulatory T cell function. J Steroid Bio- chem Mol Biol. 2015;147:48-55.
+
+1. Bakshi S, Cunningham F, Nichols EM, Biedzka-Sarek M, Neisen J,	Petit-Frere S, Bessant C, Bansal L, Peletier LA, Zamuner S, van der Graaf PH. Mathematical modelling of alternative pathway of complement system. Bull Math Biol. 2020;82(2):33.
+
+1. Alper CA, Rosen FS. Alper CA, Rosen FS: Studies of the in vivo behavior of human C'3 in normal subjects and patients. J Clin Invest. 1967;46(12):2021-34.
+
+1. Scholl HP, Charbel Issa P, Walier M, Janzer S, Pollok-Kopp B, Börncke F, Fritsche LG, Chong NV, Fimmers R, Wienker T, Holz FG, Weber BH, Oppermann M. Systemic complement activation in age-related macular degeneration. PLoS One. 2008;3(7):e2593.
+
+1. Korotaevskiy AA, Hanin LG, Khanin MA. Non-linear dynamics of the complement system activation. Math Biosci. 2009;222(2):127-43.
+
+1. Chen M, Daha MR, Kallenberg CG. The complement system in systemic autoimmune disease. J Autoimmun. 2010;34(3):J276-86.
+
+1. Kirschfink M, Mollnes TE. Modern complement analysis. Clin Diagn Lab Immunol. 2003;10(6):982-9.
+
+1. Melis JP, Strumane K, Ruuls SR, Beurskens FJ, Schuurman J, Parren PW. Complement in therapy and disease: regulating the complement system with antibody-based therapeutics. Mol Immunol. 2015;67(2 Pt A):117-30.
+
+1. Li XQ, Chang DY, Chen M, Zhao MH. Complement activation in patients with diabetic nephropathy. Diabetes Metab. 2019;45(3):248-53.
+
+1. Zhang C, Fu S, Zhao M, Liu D, Zhao Y, Yao Y. Associations between complement components and vitamin D and the physical activities of daily living among a longevous population in Hainan. China Front Immunol. 2020;11:1543.
+
+1. Small AG, Harvey S, Kaur J, Putty T, Quach A, Munawara U, Perveen K, McPhee A, Hii CS, Ferrante A. Vitamin D upregu- lates the macrophage complement receptor immunoglobulin in innate immunity to microbial pathogens. Commun Biol. 2021;4(1):401.
+
+1. American Diabetes Association. 2. Classification and diagnosis of diabetes: standards of medical care in diabetes-2019. Diabetes Care. 2019;42(Suppl 1):S13-S28.
+
+1. Bradford MM. A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein- dye binding. Anal Biochem. 1976;72:248-54.
+
+1. Mailhot G, White JH. Vitamin D and immunity in infants and children. Nutrients. 2020;12(5):1233.
+
+1. Conigliaro P, Triggianese P, Ballanti E, Perricone C, Perricone R, Chimenti MS. Complement, infection, and autoimmunity. Curr Opin Rheumatol. 2019;31(5):532-41.
+
+1. Szymczak-Pajor I, Drzewoski J, Sliwinska A. The molecular mechanisms by which vitamin D prevents insulin resistance and associated disorders. Int J Mol Sci. 2020;21(18):6644.
+
+1. Lagowska K, Bajerska J, Jamka M. The role of vitamin D oral supplementation in insulin resistance in women with polycystic ovary syndrome: a systematic review and meta-analysis of randomized controlled trials. Nutrients. 2018;10(11):1637.
+
+1. Laakso M, Kuusisto J. Insulin resistance and hyperglycaemia in cardiovascular disease development. Nat Rev Endocrinol. 2014;10(5):293-302.
+
+1. Mitri J, Pittas AG. Vitamin D and diabetes. Endocrinol Metab Clin North Am. 2014;43(1):205-32.
+
+1. Harrison SR, Li D, Jeffery LE, Raza K, Hewison M. Vitamin D, autoimmune disease and rheumatoid arthritis. Calcif Tissue Int. 2020;106(1):58-75.
+
+1. Lubbers R, van Essen MF, van Kooten C, Trouw LA. Production of complement components by cells of the immune system. Clin Exp Immunol. 2017;188(2):183-94.
+
+1. Lesavre PH, Hugli TE, Esser AF, Müller-Eberhard HJ. The alternative pathway C3/C5 convertase: chemical basis of factor B activation. J Immunol. 1979;123(2):529-34.
+
+1. Rawal N, Pangburn MK. Formation of high affinity C5 convertase of the classical pathway of complement. J Biol Chem. 2003;278(40):38476-83.
+
+1. Horiuchi T, Tsukamoto H, Sawabe T, Harashima S, Morita C, Kashiwagi Y, Himeji D, Masumoto K, Otsuka T, Kusaba T, Nagasawa K. Behçet’s disease associated with complement component 9 (C9) deficiency. Mod Rheumatol. 2000;10(4):276-8.
+
+1. Franc V, Yang Y, Heck AJ. Proteoform profile mapping of the human serum complement component C9 revealing unexpected new features of N-, O-, and C-glycosylation. Anal Chem. 2017;89(6):3483-91.
+
+1. Dudkina NV, Spicer BA, Reboul CF, Conroy PJ, Lukoyanova N, Elmlund H, Law RH, Ekkel SM, Kondos SC, Goode RJ, Ramm G, Whisstock JC, Saibil HR, Dunstone MA. Structure of the poly- C9 component of the complement membrane attack complex. Nat Commun. 2016;7:10588.
+
+1. Menny A, Serna M, Boyd CM, Gardner S, Joseph AP, Morgan BP, Topf M, Brooks NJ, Bubeck D. CryoEM reveals how the complement membrane attack complex ruptures lipid bilayers. Nat Commun. 2018;9(1):5316.
+
+1. Roussel L, Landekic M, Golizeh M, Gavino C, Zhong MC, Chen J, Faubert D, Blanchet-Cohen A, Dansereau L, Parent MA, Marin S, Luo J, Le C, Ford BR, Langelier M, King IL, Divangahi M, Foulkes WD, Veillette A, Vinh DC. Loss of human ICOSL results in combined immunodeficiency. J Exp Med. 2018;215:3151-64.
+
+1. Engel P, Boumsell L, Balderas R, Bensussan A, Gattei V, Hore- jsi V, Jin BQ, Malavasi F, Mortari F, Schwartz-Albiez R, Stock- inger H, van Zelm MC, Zola H, Clark G. CD nomenclature 2015: human leukocyte differentiation antigen workshops as a driving force in immunology. J Immunol. 2015;195(10):4555-63.
+
+1. Dalmas E. Innate immune priming of insulin secretion. Curr Opin Immunol. 2019;56:44-9.
+
+1. Vlaicu SI, Tatomir A, Boodhoo D, Vesa S, Mircea PA, Rus H. The role of complement system in adipose tissue-related inflammation. Immunol Res. 2016;64(3):653-64.
+
+<!-- ~tc~ (alias(Complement system (part of innate immunity) needs Vitamin D – Sept 2022)) ~/tc~ -->
+
+<!-- ~tc~ (alias(Complement system (part of innate immunity) needs Vitamin D (40 ng is good) – Sept 2022)) ~/tc~ -->

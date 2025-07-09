@@ -68,9 +68,9 @@
 
 #### Note: <a href="/posts/magnesium-is-more-than-a-cofactor-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1125">Magnesium is more than a cofactor for vitamin D</a>
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
-* <a href="/posts/headache-with-vitamin-d-may-mean-you-need-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Headache with vitamin D may mean you need Magnesium">Headache with vitamin D may mean you need Magnesium</a>
+* [Headache with vitamin D may mean you need Magnesium](/posts/headache-with-vitamin-d-may-mean-you-need-magnesium)
 
 * [Google Scholar had 28,200 studies of Magnesium and Migraine as of Jan 2022](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&q=magnesium%20migraine&btnG=)
 

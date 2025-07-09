@@ -63,11 +63,11 @@ Results: Serum 25(OH)D  rose  as  a  function  of  self-reported  vitamin  D sup
 
  **Other interesting graphs in the paper include** 
 
-{IMG(fileId="3396" width="500")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
 &nbsp; &nbsp; **Note: None of the responses to 50,000 IU are within the 97% range of the equation.** 
 
-{IMG(fileId="1910")}{IMG}{IMG(fileId="1911")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image"><img src="/attachments/d3.mock.jpg" alt="image">
 
 ---
 
@@ -81,12 +81,12 @@ Results: Serum 25(OH)D  rose  as  a  function  of  self-reported  vitamin  D sup
 
  **<span style="color:#F00;">RED square = reduction in serum level</span>** 
 
-{IMG(fileId="2125")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 from slide presentation: https://www.VitaminDWiki.com/tiki-index.php?page_id=2269
 
 ---
 
-#### <a href="/posts/graph-of-weekly-response-to-monthly-vitamin-d-supplementation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Graph of weekly response to monthly vitamin D supplementation – Aug 2015">Graph of weekly response to monthly vitamin D supplementation – Aug 2015</a>
+#### [Graph of weekly response to monthly vitamin D supplementation – Aug 2015](/posts/graph-of-weekly-response-to-monthly-vitamin-d-supplementation)
 
 <img src="/attachments/d3.mock.jpg" alt="image">

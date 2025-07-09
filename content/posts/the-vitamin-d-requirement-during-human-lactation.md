@@ -58,13 +58,13 @@
 
 ### Letter by Hollis and Wagner - you can buy a clean image, but this is what you can see for free
 
-{IMG(attId="502")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/phn2.gif" alt="image">
 
-{IMG(attId="499")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/phn3.gif" alt="image">
 
-{IMG(attId="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/phn4.gif" alt="image">
 
-{IMG(attId="501")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/phn5.gif" alt="image">
 
 ### References and other letters are [on-line](http://journals.cambridge.org/action/displayIssue?decade=2010&jid=PHN&volumeId=14&issueId=04&iid=8225288)
 

@@ -20,7 +20,7 @@
 }
 
 
-### <a href="/posts/vitamin-d-video-53-minutes-with-text-and-pdfs-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Video 53 minutes with text and PDFs – Grant Oct 2017">Vitamin D Video 53 minutes with text and PDFs – Grant Oct 2017</a>
+### [Vitamin D Video 53 minutes with text and PDFs – Grant Oct 2017](/posts/vitamin-d-video-53-minutes-with-text-and-pdfs-grant)
 
 ---
 

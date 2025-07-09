@@ -49,7 +49,7 @@
 
 * Sprint internal training improves cognition [March 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/sms.14349?campaign=wolearlyview%20), ~!hs~ [Jan 2022](https://www.mdpi.com/1660-4601/19/1/613%20)
 
-* <a href="/posts/olympic-athletes-and-vitamin-d-clippings-2009-10" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 349">Olympic Athletes and vitamin D - clippings 2009-10</a> 
+* [Olympic Athletes and vitamin D - clippings 2009-10](/posts/olympic-athletes-and-vitamin-d-clippings-2009-10) 
 
    * UV used by Olympic athletes since the 1930's, High UV in Mexico Olympics broke many records
 
@@ -73,7 +73,7 @@
 
 * [Shin splints decrease with vitamin D](/posts/shin-splints-decrease-with-vitamin-d)
 
-* <a href="/posts/half-as-many-fractures-for-girls-with-high-vitamin-d-intake" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2455">Half as many fractures for girls with high vitamin D intake – March 2012 </a>
+* [Half as many fractures for girls with high vitamin D intake – March 2012 ](/posts/half-as-many-fractures-for-girls-with-high-vitamin-d-intake)
 
 > Vitamin D supplementation: 540 IU, 825 IU, 1100 IU, 1400 IU, 1900 IU 
 
@@ -89,21 +89,21 @@
 
 * [Ballet Dancers with low D had 50 percent more injuries – pilot study Sept 2011](/posts/ballet-dancers-with-low-d-had-50-percent-more-injuries-pilot-study) male
 
-* <a href="/posts/ballet-dancers-in-the-winter-had-more-injuries-and-only-15-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ballet dancers in the winter had more injuries and only 15 ng of vitamin D – Feb 2013">Ballet dancers in the winter had more injuries and only 15 ng of vitamin D – Feb 2013</a> female
+* [Ballet dancers in the winter had more injuries and only 15 ng of vitamin D – Feb 2013](/posts/ballet-dancers-in-the-winter-had-more-injuries-and-only-15-ng-of-vitamin-d) female
 
-* <a href="/posts/dark-skinned-ncaa-basketball-players-were-15x-more-likely-to-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skinned NCAA basketball players were 15X more likely to have low vitamin D – Feb 2014">Dark skinned NCAA basketball players were 15X more likely to have low vitamin D – Feb 2014</a>
+* [Dark skinned NCAA basketball players were 15X more likely to have low vitamin D – Feb 2014](/posts/dark-skinned-ncaa-basketball-players-were-15x-more-likely-to-have-low-vitamin-d)
 
 ---
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">Vitamin D from low-cost UVB lamps</a>
+* [Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps)
 
 * [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a>
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk)
 
 * [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)
 
@@ -111,11 +111,11 @@
 
 * [How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
-* <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
+* [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 ---
 
@@ -181,7 +181,7 @@ His research led to development of indoor tanning equipment and lamp technology.
 
 ##### Most likely that they have short hair due to being easier to move around quickly on the basketball court
 
-{IMG(attId="365"max="200")}{IMG}{IMG(attId="366")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/corn.gif" alt="image" style="max-width: 200px;"><img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/shave.gif" alt="image">
 
 ##### However, if that were the only reason, the white players would also have very short hair, and they do not seem to.
 
@@ -209,7 +209,7 @@ His research led to development of indoor tanning equipment and lamp technology.
 
 One of the referenced publications by the author [Athletic performance and vitamin D](http://www.ncbi.nlm.nih.gov/pubmed/19346976) May 2009
 
-{IMG(attId="685")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cannell-sports-book.png" alt="image">
 
 ---
 
@@ -217,10 +217,10 @@ One of the referenced publications by the author [Athletic performance and vitam
 
  **<span style="color:#090;">2X less likely to have stress fracture if have 38 nanograms of vitamin D</span>** 
 
-{IMG(fileId="2122" max = "600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 ---
 
 #### Increasing vitamin D helps those who are not fit  <a href="/posts/glossmann-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2269">Glossmann 2011</a>
 
-{IMG(fileId="2123" max = "600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">

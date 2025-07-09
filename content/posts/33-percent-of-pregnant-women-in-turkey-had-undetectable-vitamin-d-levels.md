@@ -58,4 +58,4 @@ PMID:     21543150
 
 * <a href="/posts/overview-moms-babies-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Moms babies and vitamin D</a>
 
-* <a href="/posts/turkey-has-yet-not-learned-to-give-vitamin-d-during-pregnancy-5-ng-average" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Turkey has yet not learned to GIVE vitamin D DURING pregnancy (5 ng average) – May 2014">Turkey has yet not learned to GIVE vitamin D DURING pregnancy (5 ng average) – May 2014</a>
+* [Turkey has yet not learned to GIVE vitamin D DURING pregnancy (5 ng average) – May 2014](/posts/turkey-has-yet-not-learned-to-give-vitamin-d-during-pregnancy-5-ng-average)

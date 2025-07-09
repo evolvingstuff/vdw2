@@ -69,6 +69,6 @@ Conclusions—We found that late AMD is strongly associated with intracerebral h
 
 * [All items in vision and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=70&sort_mode=created_desc)
 
-* <a href="/posts/several-vision-problems-may-be-the-result-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 670">Several Vision problems may be the result of vitamin D deficiency</a>
+* [Several Vision problems may be the result of vitamin D deficiency](/posts/several-vision-problems-may-be-the-result-of-vitamin-d-deficiency)
 
 * <a href="/posts/macular-degeneration-twin-study-vitamin-d-and-smoking-make-a-difference" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1685">Macular Degeneration Twin Study – vitamin D and smoking make a difference – May 2011</a>

@@ -72,4 +72,4 @@ Virginia trained at Oxford and Addenbrooke's. Research into food intolerance and
 
 in the following categories
 
-{IMG(attId="318")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/bupa-hits.gif" alt="image">

@@ -44,8 +44,8 @@ It appears that you could then get 600 IU of vitamin D ( the RDA recommended in 
 
 * [Vegan vitamin D levels are only 22 ng – Feb 2011](/posts/vegan-vitamin-d-levels-are-only-22-ng)
 
-* <a href="/posts/spinach-adds-vitamins-c-d-e-and-k-in-a-few-days-under-supermarket-light" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 426">Spinach adds Vitamins C D E and K in a few days under supermarket light - Mar 2010</a> seems strange - no UVB
+* [Spinach adds Vitamins C D E and K in a few days under supermarket light - Mar 2010](/posts/spinach-adds-vitamins-c-d-e-and-k-in-a-few-days-under-supermarket-light) seems strange - no UVB
 
-* <a href="/posts/vitamin-d-from-mushrooms-a-review-on-optimisation-of-the-process" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 327">Vitamin D from mushrooms: a review on optimisation of the process</a>
+* [Vitamin D from mushrooms: a review on optimisation of the process](/posts/vitamin-d-from-mushrooms-a-review-on-optimisation-of-the-process)
 
 * <a href="/posts/uv-strobes-to-beef-up-mushrooms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 324">UV strobes to beef up mushrooms – May 2010</a>

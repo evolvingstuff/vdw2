@@ -84,4 +84,4 @@ Some of the dietary vitamin D is degraded in the rumen by bacteria to inactive m
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a>
+* [Overview Veterinary and Vitamin D](/posts/overview-veterinary-and-vitamin-d)

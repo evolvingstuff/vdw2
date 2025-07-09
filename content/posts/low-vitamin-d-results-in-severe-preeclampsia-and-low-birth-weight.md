@@ -51,7 +51,7 @@ Vitamin D is lower among patients with SGA in EOSPE than those without growth re
 
 # See also VitaminDWiki
 
-* <a href="/posts/risk-of-preeclampsia-might-be-cut-in-half-if-take-an-amount-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017">Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017</a>
+* [Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017](/posts/risk-of-preeclampsia-might-be-cut-in-half-if-take-an-amount-of-vitamin-d-meta-analysis)
 
 * [How to reduce preeclampsia - May 2011](/posts/how-to-reduce-preeclampsia)
 

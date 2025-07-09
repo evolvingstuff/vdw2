@@ -73,4 +73,4 @@ PMCID: PMC3127524
 
 * [All items in Obesity and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=19&sort_mode=created_desc) 94 as of Aug 2011
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)

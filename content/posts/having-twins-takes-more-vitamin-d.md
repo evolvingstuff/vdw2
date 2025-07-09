@@ -44,10 +44,10 @@ Early and large increases in bone turnover markers allow women with twin pregnan
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/premature-birth-25x-more-likely-if-mother-had-low-vitamin-d-and-was-having-twins" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Premature birth 2.5X more likely if mother had low vitamin D and was having twins – July 2013">Premature birth 2.5X more likely if mother had low vitamin D and was having twins – July 2013</a>
+* [Premature birth 2.5X more likely if mother had low vitamin D and was having twins – July 2013](/posts/premature-birth-25x-more-likely-if-mother-had-low-vitamin-d-and-was-having-twins)
 
-* <a href="/posts/if-having-twins-need-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If having twins, need more vitamin D">If having twins, need more vitamin D</a>
+* [If having twins, need more vitamin D](/posts/if-having-twins-need-more-vitamin-d)
 
-* <a href="/posts/after-lactation-vitamin-d-levels-are-low-increased-risk-of-breast-cancer-vitamin-d-decrease-risk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: After lactation Vitamin D levels are low, increased risk of Breast Cancer, vitamin D should decrease risk – Aug 2021">After lactation Vitamin D levels are low, increased risk of Breast Cancer, vitamin D should decrease risk – Aug 2021</a>
+* [After lactation Vitamin D levels are low, increased risk of Breast Cancer, vitamin D should decrease risk – Aug 2021](/posts/after-lactation-vitamin-d-levels-are-low-increased-risk-of-breast-cancer-vitamin-d-decrease-risk)

@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Lower back pain 3X more likely if low vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1752030346"><link rel=stylesheet href="/css/pagination.css?v=1752030346"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030346"></script><script src="/js/search.js?v=1752030346"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Lower back pain 3X more likely if low vitamin D</h1><time>November 10, 2015</time><div data-pagefind-body><h4 id=association-of-low-back-pain-with-vitamin-d-deficiency-and-other-common-risk-factors-a-hospital-based-case-control-study>Association of low back pain with vitamin D deficiency and other common risk factors: A hospital based case-control study</h4><p>European Journal of Preventive Medicine, 2015; 3(1): 1-5</p><p>Ahmed M. S. Hegazy1, Basem M. M. Salama2, Ahmed M. M. Elgaml3, Ahmed Ramzy Alzyat4</p><p>1Anatomy Department, Benha Faculty of Medicine, Benha University, Benha, Egypt 2Community Medicine Department, Damietta Faculty of Medicine, Al-Azhar University, Damietta, Egypt 3Clinical Pathology Department, Cairo Faculty of Medicine, Al-Azhar University, Cairo, Egypt 4Rheumatology Department, Cairo Faculty of Medicine, Al-Azhar University, Cairo, Egypt</p><p>Email address:</p><p><a href=mailto:ahmed0562301954@yahoo.com>ahmed0562301954@yahoo.com</a> (A. M. S. Hegazy), <a href=mailto:DrBasemsalama@yahoo.com>DrBasemsalama@yahoo.com</a> (B. M. M. Salama),</p><p><a href=mailto:Lecturest@yahoo.com>Lecturest@yahoo.com</a> (A. M. M. Elgaml), <a href=mailto:Ysalama2005@yahoo.com>Ysalama2005@yahoo.com</a> (A. R. Alzyat)</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:400px"><p><a href=/categories/back-pain>Back Pain</a></p><p><a href=/posts/back-pain-cured-with-vitamin-d-book>Back pain cured with vitamin D – Book May 2014</a></p></div><p><strong>Table 3. Logistic regression analysis of the risk factors for LBP</strong></p><h4 id=variables-adjusted-or-ci-95-p-value>||Variables |Adjusted OR |CI (95%) |P value</h4><p>BMI >25 kg/m2|5.6 |2.4 -17.6| 0.01</p><p>Vitamin D | <strong>3.2</strong> | 1.9 - 21.2 |0.047||</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/back-pain-jan-2015.pdf>Download the PDF from VitaminDWiki</a></strong></p><p>Background: low back pain (LBP) is an extremely common health Problem in Asian communities. It is a major cause of activity limitation. Aim of this study was to identify the association of vitamin D and modifiable risk factors of low back pain among female patients in the childbearing period.</p><p>Subject and methods: It was a hospital based case-control approach done at rheumatology and rehabilitation outpatient clinic of Arar hospital in Saudi Arabia during a period of 10 months from September 2010 to June 2011. The study population comprised Saudi female in the childbearing period (20- 45 years) (to exclude rickets in younger females and post menopausal osteoporosis in older ones). Cases were patients who had the complaints of chronic LBP (lasting more than three months) at the time of data collection. For each case, one control was selected from the same age group from patients with no LBP but attend the same units for other reasons. Data were collected with a semi-structured Check list and 174 participants were interviewed from which 87 had back pain (cases). Venous sampling 5 ml was done for both cases and control for serum calcium, phosphate, alkaline phosphatase, PTH and 25- hydroxy cholecalciferol (vitamin D3).</p><p>Results: Univariate analysis showed that low back pain was significantly associated with age of the patients, low physical activity, body mass index (BMI) >25kg/m, prolonged sitting, history of back trauma (p &lt; 0.05). Logistic regression revealed BMI >25kg/m and hypovitaminosis D as an independent risk factors for low back pain.</p><p>Conclusion: Low back pain among Saudi female was associated with BMI, physical activity, sitting posture and hypovitaminosis D. All these risk factors could be regarded as the indicators of low back pain, and some relevant preventive measures should be taken to reduce low back pain risk.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>back pain</span>
+<span class=tag>Back pain</span>
+<span class=tag>bone</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>pain</span>
+<span class=tag>rickets</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>back pain, Back pain, bone, osteoporosis, pain, rickets, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030346"></script><script src="/js/tiki-redirects.js?v=1752030346"></script><script src="/js/lightspa.js?v=1752030346"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030346",indexUrl:"/search/search_index.json.gz?v=1752030346"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030346"></script></body></html>

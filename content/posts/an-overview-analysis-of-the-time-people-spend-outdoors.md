@@ -39,8 +39,8 @@ Copyright © 2010 British Association of Dermatologists. PMID: 21128911
 
 # See also VitaminDWiki
 
-* <a href="/posts/teens-increasingly-indoors-especially-if-dark-skin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 545">Teens increasingly indoors - especially if dark skin - July 2010</a>
+* [Teens increasingly indoors - especially if dark skin - July 2010](/posts/teens-increasingly-indoors-especially-if-dark-skin)
 
-* <a href="/posts/vitamin-d-is-essential-to-the-modern-indoor-lifestyle-interview-holick" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1040">Vitamin D is essential to the modern indoor lifestyle – interview Holick Oct 2010</a>
+* [Vitamin D is essential to the modern indoor lifestyle – interview Holick Oct 2010](/posts/vitamin-d-is-essential-to-the-modern-indoor-lifestyle-interview-holick)
 
-* <a href="/posts/study-quantified-the-problems-of-increased-tv-watching-by-toddlers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 928">Study quantified the problems of increased TV watching by toddlers – May 2010</a>
+* [Study quantified the problems of increased TV watching by toddlers – May 2010](/posts/study-quantified-the-problems-of-increased-tv-watching-by-toddlers)

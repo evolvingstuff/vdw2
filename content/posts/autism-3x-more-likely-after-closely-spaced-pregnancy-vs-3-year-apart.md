@@ -60,4 +60,4 @@ In the study, researchers took into account maternal and paternal ages, parental
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview - Autism and vitamin D</a>
+* [Overview - Autism and vitamin D](/posts/overview-autism-and-vitamin-d)

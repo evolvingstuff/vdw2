@@ -57,15 +57,15 @@ Using bioequivalence as the basis for approving generic copies of drug products 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
    * Regular and active vitamin D has been used for Kidney problems for a very long time - amazing that a single company could apply for an ANDA
 
 * <a href="/posts/vitamin-d3-vs-serum-d3-calcitriol" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2572">Vitamin D3 vs serum D3 (Calcitriol) – Jan 2012</a>
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972">Who said vitamin D could not be patented</a> - this does not appear to be a patent, however
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented) - this does not appear to be a patent, however
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">Low Cost vitamin D - including liquid and bulk</a>
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk)
 
    * In case you want to stockpile vitamin D:- 1.2 cents per 5,000 IU in bulk with a 5 year shelf life
 
@@ -73,7 +73,7 @@ Using bioequivalence as the basis for approving generic copies of drug products 
 
    * If you want to very long stockpile life you should probably also minimize Oxygen
 
-* <a href="/posts/rare-diseases-hit-fewer-than-1-in-1500-people-but-1-in-12-people-have-a-rare-dis-in-might-d-help" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rare diseases hit fewer than 1 in 1500 people, but 1 in 12 people have a rare disease (vitamin might D help) ">Rare diseases hit fewer than 1 in 1500 people, but 1 in 12 people have a rare disease (vitamin might D help) </a>
+* [Rare diseases hit fewer than 1 in 1500 people, but 1 in 12 people have a rare disease (vitamin might D help) ](/posts/rare-diseases-hit-fewer-than-1-in-1500-people-but-1-in-12-people-have-a-rare-dis-in-might-d-help)
 
 ## [Nice comparison of "New Drug Application" and "Abbreviated New Drug Application"](http://www.slideshare.net/vamsikrishnareddy57/new-drug-applicationnda-vs-abbreviated-new-drug-application-anda) 2010
 

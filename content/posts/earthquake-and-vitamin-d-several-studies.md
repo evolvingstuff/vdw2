@@ -64,13 +64,13 @@ CONCLUSION: The study findings indicated that the dietary structure was seriousl
 
 * <a href="/posts/vitamin-d-is-number-one-stress-buster-huntington-post" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 224">Vitamin D is number one stress buster – Huntington Post May 2010</a>
 
-* <a href="/posts/psychiatric-distress-24x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psychiatric distress 2.4X more likely if low vitamin D – July 2015">Psychiatric distress 2.4X more likely if low vitamin D – July 2015</a>
+* [Psychiatric distress 2.4X more likely if low vitamin D – July 2015](/posts/psychiatric-distress-24x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/low-vitamin-d-is-associated-with-risk-of-depression-5x-stress-48-x-and-anxiety-3-ollege-students" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Vitamin D is associated with risk of Depression 5X, Stress 4.8 X, and Anxiety 3.9 X (Saudi Arabia college students) – July 2023">Low Vitamin D is associated with risk of Depression 5X, Stress 4.8 X, and Anxiety 3.9 X (Saudi Arabia college students) – July 2023</a>
+* [Low Vitamin D is associated with risk of Depression 5X, Stress 4.8 X, and Anxiety 3.9 X (Saudi Arabia college students) – July 2023](/posts/low-vitamin-d-is-associated-with-risk-of-depression-5x-stress-48-x-and-anxiety-3-ollege-students)
 
-* <a href="/posts/mental-and-physical-stress-associations-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental and physical stress associations with low vitamin D">Mental and physical stress associations with low vitamin D</a>
+* [Mental and physical stress associations with low vitamin D](/posts/mental-and-physical-stress-associations-with-low-vitamin-d)
 
-* <a href="/posts/stress-after-natural-disaster-reduced-by-just-1000-iu-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stress after natural disaster reduced by just 1000 IU Vitamin D – RCT Aug 2015">Stress after natural disaster reduced by just 1000 IU Vitamin D – RCT Aug 2015</a>
+* [Stress after natural disaster reduced by just 1000 IU Vitamin D – RCT Aug 2015](/posts/stress-after-natural-disaster-reduced-by-just-1000-iu-vitamin-d-rct)
 
 ---
 

@@ -24,6 +24,7 @@ http://colganinstitute.com/index.php?main_page=product_info&cPath=1&products_id=
 
 # Here are the titles of the sections along with a teaser of the first page
 
-{IMG(attId="334,336")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/colgan-section-titles.gif" alt="image">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/colgan-page-1.gif" alt="image">
 
 ## [CLICK HERE for more books - including some free ones](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=28&deep=off)

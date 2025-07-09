@@ -59,12 +59,12 @@ Note: Perioperative: Literally, around (the time of) surgery.
 
 * [All items tagged Bone Health and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=6&sort_mode=created_desc) 93 items as of Nov 2011
 
-* <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">HMOs will save millions of dollars with vitamin D</a>
+* [HMOs will save millions of dollars with vitamin D](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d)
 
 * [Hardly any children had enough vitamin D before bone surgery – April 2011](/posts/hardly-any-children-had-enough-vitamin-d-before-bone-surgery)
 
 * <a href="/posts/osteoporosis-medication-7x-better-when-more-than-33-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1702">Osteoporosis medication 7X better when more than 33 ng of vitamin D – June 2011</a>
 
-* <a href="/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1026">Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010</a>
+* [Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010](/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm)
 
 * <a href="/posts/calcium-and-vitamin-d-after-hip-fracture-reduced-death-rate-by-25-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1439">Calcium and vitamin D after hip fracture reduced death rate by 25% – Feb 2011</a>

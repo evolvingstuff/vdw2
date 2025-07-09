@@ -301,7 +301,7 @@ Conclusion: Patients with PHPT present with a number of distinct biochemical pro
 
  **Example normogram** 
 
-{IMG(attId="414" max="600")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/pth-normoogram.gif" alt="image" style="max-width: 600px;">
 
 ---
 
@@ -329,7 +329,7 @@ Conclusions: This population-based study showed that high vitamin D status in yo
 
  **has the following graphic** 
 
-{IMG(attId="1583" width="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/thyroid-system.png" alt="image" width="400">
 
 ---
 
@@ -373,7 +373,7 @@ Conclusions: This population-based study showed that high vitamin D status in yo
 
 #### Fix Thyroid then increase vitamin D - Oct 2013
 
- **<a href="/posts/fix-thyroid-then-increase-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fix Thyroid then increase vitamin D - Oct 2013">Fix Thyroid then increase vitamin D - Oct 2013</a>** 
+ **[Fix Thyroid then increase vitamin D - Oct 2013](/posts/fix-thyroid-then-increase-vitamin-d)** 
 
 Includes PDF. PPT, and audio of the presentation
 

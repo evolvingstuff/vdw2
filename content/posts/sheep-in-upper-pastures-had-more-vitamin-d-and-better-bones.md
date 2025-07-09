@@ -43,6 +43,6 @@ For every 1,000 feet above sea level, there is a  **compounded** 4 percent incre
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a>
+* [Overview Veterinary and Vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
 * [All items in Vet and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=1&deep=off&type=) 38 items as of Oct 2011

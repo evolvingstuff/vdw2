@@ -48,4 +48,4 @@ This places them at risk of osteomalacia and their infants at risk of rickets, o
 
 # See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D: Before, During, and After Pregnancy</a>
+* [Vitamin D: Before, During, and After Pregnancy](/posts/vitamin-d-before-during-and-after-pregnancy)

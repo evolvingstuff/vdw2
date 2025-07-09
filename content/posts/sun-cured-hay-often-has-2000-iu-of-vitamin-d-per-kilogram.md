@@ -51,7 +51,7 @@ Excerpted from an article by Christine Barakat in EQUUS Magazine, Issue 263 (Sep
 
  **Note: 2000 IU/kg = 910 IU/lb** 
 
-{IMG(attId="655")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/vitamin-d-in-sun-cured-hay.png" alt="image">
 
  **[1933 reference](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=516)** 
 
@@ -59,4 +59,4 @@ Excerpted from an article by Christine Barakat in EQUUS Magazine, Issue 263 (Sep
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a>
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d)

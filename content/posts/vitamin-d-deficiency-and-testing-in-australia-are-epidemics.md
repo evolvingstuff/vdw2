@@ -43,12 +43,12 @@
 
 * [Australia is considering cutting vitamin D testing – March 2011](/posts/australia-is-considering-cutting-vitamin-d-testing)
 
-* <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D: Before, During, and After Pregnancy</a>
+* [Vitamin D: Before, During, and After Pregnancy](/posts/vitamin-d-before-during-and-after-pregnancy)
 
 * <a href="/posts/hypothesis-black-births-are-much-riskier-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Hypothesis – Black births are much riskier due to lack of vitamin D – April 2011</a>  Especially dark skin pregnancies
 
 * [Canadians losing yet another free medical test - vitamin D Nov 2010](/posts/canadians-losing-yet-another-free-medical-test-vitamin-d)
 
-* <a href="/posts/6th-canadian-province-may-stop-paying-for-vitamin-d-testing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1013">6th Canadian province may stop paying for vitamin D testing – Sept 2010</a> Ontario - and summarize others
+* [6th Canadian province may stop paying for vitamin D testing – Sept 2010](/posts/6th-canadian-province-may-stop-paying-for-vitamin-d-testing) Ontario - and summarize others
 
 * <a href="/posts/73-percent-of-australians-had-too-little-vitamin-d-a-decade-ago" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2322">73 percent of Australians had too little vitamin D a decade ago – Dec 2011</a>

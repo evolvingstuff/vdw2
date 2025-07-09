@@ -56,6 +56,6 @@ PMID:     21733837
 
 * [Calcium with vitamin D decreased risk of subsequent skin cancer by 2X – June 2011](/posts/calcium-with-vitamin-d-decreased-risk-of-subsequent-skin-cancer-by-2x)
 
-* <a href="/posts/possible-association-between-nonmelanoma-skin-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 493">Possible association between Nonmelanoma Skin Cancer and vitamin D – June 2010</a>
+* [Possible association between Nonmelanoma Skin Cancer and vitamin D – June 2010](/posts/possible-association-between-nonmelanoma-skin-cancer-and-vitamin-d)
 
    * Nonmelanoma Skin Cancer and the Risk of Second Primary Cancers: a Systematic Review.

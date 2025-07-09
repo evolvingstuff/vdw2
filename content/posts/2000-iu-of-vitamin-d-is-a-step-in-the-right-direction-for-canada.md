@@ -80,7 +80,7 @@ Should we not be looking at using 2000 IU for all Canadians since the authors su
 
 * [Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010](/posts/cadavers-with-good-skeletons-had-30-ng-of-vitamin-d)
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766">Overview How Much vitamin D</a> which includes the following
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d) which includes the following
 
 Everyone older than 11 years should be taking AT LEAST 2000 IU of vitamin D daily everywhere around the world
 

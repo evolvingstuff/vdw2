@@ -44,7 +44,8 @@ PMID: 21470084
 
 # <span style="color:#090;">UVI <3 = GREEN</span>
 
-{IMG(fileId="1650, 1635")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 # See also VitaminDWiki
 
@@ -54,13 +55,13 @@ PMID: 21470084
 
 * [Melanoma & sunscreen associated in 7 studies - chart 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1200)
 
-* <a href="/posts/china-has-documented-that-less-uv-results-in-more-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: China has documented that less UV results in more cancer – June 2010">China has documented that less UV results in more cancer – June 2010</a>
+* [China has documented that less UV results in more cancer – June 2010](/posts/china-has-documented-that-less-uv-results-in-more-cancer)
 
-* <a href="/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Most sunscreens actually increase the growth of skin cancer - May 2010">Most sunscreens actually increase the growth of skin cancer - May 2010</a>
+* [Most sunscreens actually increase the growth of skin cancer - May 2010](/posts/most-sunscreens-actually-increase-the-growth-of-skin-cancer)
 
-* <a href="/posts/dermatologists-should-not-tan" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dermatologists should not tan – June 2010">Dermatologists should not tan – June 2010</a>
+* [Dermatologists should not tan – June 2010](/posts/dermatologists-should-not-tan)
 
-* <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 982">Vitamin D bulb for use in the home - or perhaps office</a>
+* [Vitamin D bulb for use in the home - or perhaps office](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office)
 
 * [All items in Noontime Sun category](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&deep=off&type=)
 
@@ -70,7 +71,7 @@ PMID: 21470084
 
 * [Introduction to Vitamin D](www.VitaminDWiki.com/tiki-download_file.php?fileId=709) page 6 If shadow TALLER than you are tall, you CANNOT make vitamin D, also UV Index 3
 
-* <a href="/posts/minutes-in-the-sun-for-1000-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 39">Minutes in the Sun for 1000 IU</a>
+* [Minutes in the Sun for 1000 IU](/posts/minutes-in-the-sun-for-1000-iu)
 
 * [UV Index guide by US Weather Bureau - 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1645) 6 pages with lots of graphics
 
@@ -78,7 +79,7 @@ PMID: 21470084
 
 * [UV: The original Source! How to use it April 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1128) 58 slides, 2 of which are in this File Gallery. Video is on web at http://www.grassrootshealth.net/ and YouTube 
 
-* <a href="/posts/increased-uvb-intensity-did-not-increase-vitamin-d-generated" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1108">Increased UVB intensity did not increase vitamin D generated – Nov 2010</a>
+* [Increased UVB intensity did not increase vitamin D generated – Nov 2010](/posts/increased-uvb-intensity-did-not-increase-vitamin-d-generated)
 
 * <a href="/posts/ways-to-increase-the-amount-of-vitamin-d-you-get-from-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1051">Ways to increase the amount of vitamin D you get from the sun</a>
 
@@ -88,4 +89,4 @@ PMID: 21470084
 
 ## UV Index less than 3 = Blue and Purple on this map
 
-{IMG(fileId="1250")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image">

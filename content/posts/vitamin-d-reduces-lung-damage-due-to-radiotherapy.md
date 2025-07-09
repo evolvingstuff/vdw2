@@ -66,15 +66,15 @@ Group 4 got 10 IU per kg/day = 22 IU per pound per day = 3300 IU for 150 lb “r
 
 # See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-and-breast-cancer-radiation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 737">Vitamin D and breast cancer radiation</a>
+* [Vitamin D and breast cancer radiation](/posts/vitamin-d-and-breast-cancer-radiation)
 
    * Vitamin D3 sensitizes breast cancer to radiation treatment, increasing cancer cell death
 
-* <a href="/posts/vitamin-d3-sensitizes-breast-cancer-to-radiation-treatment-increasing-cancer-cell-death" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 481">Vitamin D3 sensitizes breast cancer to radiation treatment - increasing cancer cell death – May 2010</a>
+* [Vitamin D3 sensitizes breast cancer to radiation treatment - increasing cancer cell death – May 2010](/posts/vitamin-d3-sensitizes-breast-cancer-to-radiation-treatment-increasing-cancer-cell-death)
 
 * [Vitamin D prevents low-level radiation damage - 2008](/posts/vitamin-d-prevents-low-level-radiation-damage-2008)
 
-* <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">HMOs will save millions of dollars with vitamin D</a>
+* [HMOs will save millions of dollars with vitamin D](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d)
 
    * Vitamin D might prove to be useful to reduce Cancer Radiotherapy damage
 

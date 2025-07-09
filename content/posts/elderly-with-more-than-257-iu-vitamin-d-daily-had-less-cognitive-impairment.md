@@ -45,12 +45,12 @@ CONCLUSIONS: Weekly dietary intake of vitamin D was associated with cognitive pe
 
 * <a href="/posts/cognitive-impairment-4x-more-likely-with-severe-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1114">Cognitive impairment 4X more likely with severe Vitamin D deficient – Nov 2010</a>
 
-* <a href="/posts/vitamin-d-less-than-10ng-associated-with-cognitive-decline" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 887">Vitamin D less than 10ng associated with cognitive decline – July 2010</a>
+* [Vitamin D less than 10ng associated with cognitive decline – July 2010](/posts/vitamin-d-less-than-10ng-associated-with-cognitive-decline)
 
-* <a href="/posts/elderly-often-trapped-in-vitamin-d-vicious-circles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 884">Elderly often trapped in vitamin D vicious circles</a>
+* [Elderly often trapped in vitamin D vicious circles](/posts/elderly-often-trapped-in-vitamin-d-vicious-circles)
 
-* <a href="/posts/influence-diagram-for-vitamin-d-and-cognition-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 855">Influence diagram for vitamin D and cognition - 2008</a>
+* [Influence diagram for vitamin D and cognition - 2008](/posts/influence-diagram-for-vitamin-d-and-cognition-2008)
 
-* <a href="/posts/do-vitamin-d-deficiency-and-cognitive-decline-go-hand-in-hand" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 379">Do Vitamin D Deficiency and Cognitive Decline Go Hand-in-Hand? – Jan 2010</a>
+* [Do Vitamin D Deficiency and Cognitive Decline Go Hand-in-Hand? – Jan 2010](/posts/do-vitamin-d-deficiency-and-cognitive-decline-go-hand-in-hand)
 
 # Imagine how much better they would have been with 2000 IU vitamin D daily

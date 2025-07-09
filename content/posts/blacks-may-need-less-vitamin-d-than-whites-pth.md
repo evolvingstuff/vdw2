@@ -56,13 +56,13 @@ Conclusions: Black women have an increase in serum PTH at a lower 25(OH)D level 
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [All items in Dark Skin and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc) 173 items as of Nov 2011
 
 * <a href="/posts/blacks-may-not-need-as-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1099">Blacks may not need as much Vitamin D</a>
 
-* <a href="/posts/20-ng-of-vitamin-d-is-enough-for-african-american-pth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2265">20 ng of vitamin D is enough for African American PTH – Dec 2011</a>
+* [20 ng of vitamin D is enough for African American PTH – Dec 2011](/posts/20-ng-of-vitamin-d-is-enough-for-african-american-pth)
 
 - - - - - -  
 

@@ -73,8 +73,8 @@ CONCLUSIONS: Severe vitamin-D deficiency is extremely prevalent in ultra-Orthodo
 
 * [Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011](/posts/excessive-clothes-and-being-indoors-results-in-very-low-vitamin-d-levels) update 1 year later by same author
 
-* <a href="/posts/ultra-orthodox-jews-have-concealing-clothing-high-levels-of-covid-19-and-ultra-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultra-Orthodox Jews have concealing clothing, high levels of COVID-19, and ultra low Vitamin D - Feb 2021">Ultra-Orthodox Jews have concealing clothing, high levels of COVID-19, and ultra low Vitamin D - Feb 2021</a>
+* [Ultra-Orthodox Jews have concealing clothing, high levels of COVID-19, and ultra low Vitamin D - Feb 2021](/posts/ultra-orthodox-jews-have-concealing-clothing-high-levels-of-covid-19-and-ultra-low-vitamin-d)
 
-* <a href="/posts/concealing-clothing-worn-by-christian-orthodox-monks-result-in-low-vitamin-d-9-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concealing clothing worn by Christian Orthodox monks result in low vitamin D (9 ng) – Nov 2018">Concealing clothing worn by Christian Orthodox monks result in low vitamin D (9 ng) – Nov 2018</a> - similar concealing clothing
+* [Concealing clothing worn by Christian Orthodox monks result in low vitamin D (9 ng) – Nov 2018](/posts/concealing-clothing-worn-by-christian-orthodox-monks-result-in-low-vitamin-d-9-ng) - similar concealing clothing
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/uo2.jpg" alt="image" width="400">

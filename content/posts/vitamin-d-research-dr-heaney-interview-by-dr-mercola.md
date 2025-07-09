@@ -1,0 +1,292 @@
+{
+    "title": "Vitamin D research Dr. Heaney interview by Dr. Mercola",
+    "slug": "vitamin-d-research-dr-heaney-interview-by-dr-mercola",
+    "aliases": [
+        "/Vitamin+D+research+Dr+Heaney+interview+by+Dr+Mercola+-+Jan+2015",
+        "/6209"
+    ],
+    "tiki_page_id": 6209,
+    "date": "2015-02-01",
+    "tags": [
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "genetics",
+        "hypertension",
+        "magnesium",
+        "magnesium and cancer",
+        "melanoma",
+        "osteoporosis",
+        "prostate cancer",
+        "rickets",
+        "skin cancer",
+        "stroke",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d receptor",
+        "vitamin k"
+    ]
+}
+
+
+### [Do You Need a Vitamin D Supplement to Maintain Ideal Levels?](http://articles.mercola.com/sites/articles/archive/2015/02/01/daily-vitamin-d.aspx?e_cid=20150201Z1_SNL_RTL_C_art_1&utm_source=snl&utm_medium=email&utm_content=art1&utm_campaign=20150201Z1_RTL_C&et_cid=DM68190&et_rid=826688484)
+
+Video with lots of summary text and transcript
+
+<div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+
+ **Other Mercola Interviews** 
+
+* [If You're Low in This Nutrient, It Doubles Your Odds of Many Cancers– Interview Dr. Holick Oct 2013](/posts/if-youre-low-in-this-nutrient-it-doubles-your-odds-of-many-cancers-interview-dr-holick)
+
+* [Vitamin D from the sun while minimizing skin cancer - Interview by Dr. Mercolla of Dr. Cannell - Nov 2014](/posts/vitamin-d-from-the-sun-while-minimizing-skin-cancer-interview-by-dr-mercolla-of-dr-cannell)
+
+* [Interview of Vitamin K2 and Calcium Paradox author by Dr. Mercola – Dec 2012](/posts/interview-of-vitamin-k2-and-calcium-paradox-author-by-dr-mercola)
+
+* [The Magnesium Miracle: Carolyn Dean – Mercola Jan 2015](/posts/the-magnesium-miracle-carolyn-dean-mercola)
+
+ **Other Heaney items on VitaminDWiki** 
+
+* [Search VitaminDWiki forf HEANEY](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=heaney&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1520 items Feb 2015
+
+* [Interview of Dr. Robert Heaney, MD – March 2013](/posts/interview-of-dr-robert-heaney-md)
+
+* [Quantifying the vitamin D economy in the body - Heaney Jan 2015](/posts/quantifying-the-vitamin-d-economy-in-the-body-heaney) in Nutrition Reviews
+
+</div>
+
+Follow-on article by Mercola at the end of Feb had the email title of:
+
+&nbsp; &nbsp; Experts Estimate That a Simple Vitamin Could Save 1 Million Lives Per Year – Feb 2015
+
+[articles.mercola.com/sites/articles/archive/2015/02/23/childhood-vitamin-d-deficiency.aspx?e_cid=20150223Z1_DNL_NB_art_1&utm_source=dnl&utm_medium=email&utm_content=art1&utm_campaign=20150223Z1_DNL_NB&et_cid=DM68331&et_rid=852554830| Low Vitamin D in Childhood Linked to Heart Risks Later in Life, and Raises Adults’ Risk of Severe Stroke and Cancer](http://articles.mercola.com/sites/articles/archive/2015/02/23/childhood-vitamin-d-deficiency.aspx?e_cid=20150223Z1_DNL_NB_art_1&utm_source=dnl&utm_medium=email&utm_content=art1&utm_campaign=20150223Z1_DNL_NB&et_cid=DM68331&et_rid=852554830%20)
+
+ **VitaminDWiki:Transcript ==> text for Google Translation, etc** 
+
+## Transcript: Optimal Vitamin D Levels:
+
+A Special Interview with Dr. Robert Heaney =  **RH:**  
+
+By Dr. Joseph Mercola  =  **DM:** 
+
+ **DM:**  Vitamin D is a profoundly important nutrient that provides us with so many health benefits. Do we need to supplement and if we do, what are the proper levels? Hi, I’m Dr. Mercola, helping you take control of your health. Today we are joined by Dr. Robert Heaney, who is a professor and researcher, and who has worked for over 50 years in the study of osteoporosis, vitamin D, and calcium physiology. He is clearly one of the most well-respected researchers in this field, and it’s just such a major privilege to be able to dialogue with him today about this really important topic. Thank you so much for joining us today, Dr. Heaney.
+
+ **RH:**  <span>[It’s]</span> my pleasure.
+
+ **DM:**  We’ve talked before, but it’s been a while. I’m just wondering if you could briefly review some of your background to give our viewers an understanding of your perspective, how you got into this area, and what you’re doing now.
+
+ **RH:**  I’m a physician trained as an endocrinologist and have been working here in Creighton University’s Osteoporosis Research Center since the late 1960s. Our focus has been bone biology - what makes the bone strong, what the various treatments do, etc. Well, inevitably when you deal with bones, sooner or later, your paths cross with vitamin D, which is a vital and important for a whole host of functions. The most obvious of which is the promotion of calcium absorption, because you need calcium for bone health. That’s kind of how I got from where I started to where I am right now.
+
+In the last several years, probably 20 plus now, I’ve been focusing almost exclusively on vitamin D. Probably the best way to describe my focus is in terms of your bank account. It’s important to know you have one. It’s important to have some money in it. But it’s also important to know how much is in it, how much you’re depositing every month, how much you’re withdrawing, how the balance is changing over time, and if you ever get below certain minimum levels, etc.
+
+Well, the same thing is true for the vitamin D economy. We need to know much we need every day. We need to know where to get it. We need to know how much the body uses every day, via what pathway and for what purposes, and how do you know whether you’re getting enough. That’s been my focus as I approached this vitamin D problem.
+
+And as you probably know quite well, most of the work in the vitamin D field (and some of it’s just tremendously astounding work) has been focused more on mechanisms - what does it do, how does it do it, etc. - and has completely ignored the how much question.
+
+For instance, when I first got involved with the measurement of calcium absorption, I assumed that it had all been worked out. But I found that there was not a single paper in the medical literature up to the time I got to work on it that had measured how much vitamin D you needed and for how much absorption. It’s just strange. We seem to have been satisfied with the mechanisms, but not with the how much question. So, I’ve been focusing on how much.
+
+ **DM:**  Well, terrific. That certainly is a key essential question. But then of course, the devil’s in the details. There’s a whole variety of variables that factor into answering that question. Actually maybe if we have a little bit of perspective, because you’re a long-standing researcher, you were in this field well before vitamin D became popular.
+
+But it seems that one of the events that catalyzed the interest in vitamin D was the creation of a relatively inexpensive lab test to actually measure it, which is going to answer, I believe, your question. Maybe you can discuss the time around that. I think that was in the last century, late last century, when that occurred. Because prior to that, you really couldn’t measure vitamin D easily. Maybe you can share with us your perspective of that event.
+
+ **RH:**  You’re absolutely right. Science advances when you can make measurements. When you can’t make measurements, you can’t relate information very, very strongly. Now, there were research methods for measuring vitamin D that go back into the 1970s, but they weren’t clinically available. It wasn’t until somewhere in the 1990s that it began to be accessible to the average physician.
+
+In the 1997 edition of the Dietary Reference Intakes of the Institute of Medicine, we summarized what was known at that time, and I was on the panel that did that, about vitamin D. The only thing we could be very certain about was that the right way to tell what the vitamin D status was to measure serum 25- hydroxy vitamin D concentration. That’s the measurement you were referring to coming into this last century or the end of the last century.
+
+That has stimulated a tremendous growth in interest in research involving vitamin D. Physicians started to order it in what they thought were completely healthy patients, lo and behold, they got values back that were low or even undetectable in some cases. That surprised everybody and that stimulated a great deal of interest in supplementation with vitamin D.
+
+ **DM:**  Terrific. Prior to that, vitamin D didn’t get much notoriety because it was thought that its primary and probably only use at that time was for the prevention or treatment of rickets, which of course, it’s important for. But since that time, we’ve learned quite a bit more. I’m wondering if you can summarize some of the highlights of the benefits of vitamin D.
+
+ **RH:**  Vitamin D, like many of the micronutrients, is involved in the biochemical cellular machinery of all the tissues and all the cells in our body. As with any of those micronutrients, if we don’t have enough, the machinery doesn’t work as well as it ought to. That means your total body has problems. Now, we recognize some of them such as, as you mentioned, rickets in children and osteomalacia. But they are only the tip of the iceberg basically. In order to get a good feel for this, I think it’s useful to call to mind our dependents on cell biology.
+
+When I was in medical school, we knew that the nucleus of all the cells of our body contained DNA and that DNA was enough for the plants to make a whole new human being, a whole new organism. We never really quite knew why that was so because our skin cell was never going to be anything other than a skin cell, and our muscle cell was going to be a muscle cell. Why did it need all of the DNA for a whole human being? A part of it made sense. For instance, if you cut yourself, you had to heal the cut, so you had to make new skin cells and at least you have to have the plants for skin cells. That much made sense.
+
+But what we didn’t know (and it’s now been maybe 10 or 15 years that we’ve gotten a good feel for this) was that every minute of every day, the cellular machinery in our respective tissues is constantly renewing itself. In order to do that, it has to go into its nucleus, find the plants for the proteins it needs to synthesize, and then transcribe those plants, so that you now make the biochemical machinery that may be necessary.
+
+For example, if you’re a macrophage and you encounter a tuberculosis bug, the important thing is to synthesize some of the defenses that are built into your DNA to allow you to attack that bug. Well, in order to do that, you’ve got to get the plants out of the nucleus and then you have to synthesize the needed cellular equipment.
+
+Or if you’re a mammary ductal cell, you’ve got to respond to estrogen. That’s a perfectly normal signal, but it won’t happen unless you have the right biochemical machinery. The presence of estrogens stimulates the nucleus to release the information needed to make the proteins that will allow the cell to respond. That’s all background.
+
+What we didn’t know until very recently is that a part of the apparatus that opens up the genome is the active form of vitamin D. In the absence of that active form of vitamin D in that cellular environment, the cell cannot access the information in its own plants, its own DNA library as it were. Under those circumstances, nothing works right. The lower your vitamin D status gets, the worse t he problem. That’s why there are reports related, for instance, to immune competence, calcium absorption efficiency, bone strength, balance, and all kinds of outcomes, because every tissue in our body effectively needs to have vitamin D.
+
+And in the absence of adequate vitamin D, it just doesn’t function very well. It’s kind of like sending a fighter into the ring with one hand tied behind its back. You’re not going to do a very good job of dealing with the adversary under those circumstances. That’s the role that vitamin D plays and it’s absolutely vital.
+
+ **DM:**  Okay. Thank you for that review. Let’s get to the central role or question, which is, how much vitamin D do we need? And before we can answer that question, of course, we have to know what the optimum levels of vitamin D are. That is somewhat of a controversial question. I’m wondering if you could review the answer to that from your perspective and what the science shows.
+
+<span>[-— 10:00 -—]</span>
+
+ **RH:**  Well, the embarrassing secret about the whole field of nutrition is that we don’t have any a priori idea about what normal is. Absolutely no idea at all. If you look at the book, the Dietary Reference Intakes issued by the Institute of Medicine, the general reference book on four specific nutrients, but it’s just simply about requirements per se, you’ll find the diagram in there, which relates the effects of nutrients in terms of risk, from little increases of risk of deficiency to much increases of risk of toxicity. There’s nowhere any reference to benefit. I mean, it’s all minimization of risk.
+
+The Institute of Medicine in approaching most nutrients, and certainly this is true for calcium and vitamin D, for example, defines the requirement as the least you can get by on without developing a certain disease. It’s not in terms of how much is optimal or how much produces the maximum amount of health that you ought to have; it’s how much you need not to get rickets or osteomalacia, for example. Now, if you take that approach, you end up with a requirement that’s pretty low. On the other hand, if you take an approach that’s based in physiology, you end up with completely different numbers.
+
+For example, if you want to know how much vitamin D you ought to have in order to minimize the body’s need to compensate for the amount you’re getting - “compensate,” that is to adapt or makeup for what you’re not giving - the way to measure that is to make certain that the parathyroid hormone levels are at a functional minimum. You’re not constantly having to ramp up your bone reabsorption in order to get the calcium you need because you’re not absorbing it, because you don’t have enough vitamin D.
+
+When you do that, you end up with a vitamin D requirement that is in the range of 40 to 60 nanograms per milliliter of 25-hydroxy vitamin D. The question is, how much vitamin D do you have to get into your skin or mouth in order to maintain that kind of a blood level? I’ll come back to that in a minute. But let’s go back to another approach.
+
+You can ask yourself, for instance, “How much vitamin D a nursing mother has to take in every day in order to ensure that her milk will contain the vitamin D her nursing infant needs?” Very recent work coming out of the Medical University of South Carolina has shown definitively that that woman needs 6,000 international units (IU) of vitamin D per day, every day, in order for her infant to have an adequate nutritional status as far as vitamin D is concerned.
+
+ **DM:**  Is that Dr. Bruce Hollis’ work?
+
+ **RH:**  Bruce Hollis and Carol Wagner.
+
+ **DM:**  Okay.
+
+ **RH:**  They’ve done absolutely pathbreaking work in that regard. Now, it turns out that the blood level the mother has in order to support that is just about the same range, which I mentioned a moment ago, the range that minimizes the need for the parathyroid hormone adaptation. That’s 40 to 60 nanograms per milliliter.
+
+Now, a third approach would be to say, well, what would we have had when we were evolving as human beings on the equatorial planes of East Africa? We don’t have a time machine, so we can’t go back there and get a blood sample from some of those folks. But we do have various tribal groups living in East Africa right now following something close to ancestral lifestyles, and they have had their blood 25 - hydroxy D measured by Dutch investigators. You won’t be surprised. The number they find is between 40 and 60 nanograms per milliliter of 25-hydroxy vitamin D. That takes just as it does for the nursing mother, about 5,000 to 6,000 international units of vitamin D per day coming in from all sources.
+
+It’s not just my viewpoint. I take the viewpoint that nutrients produce benefits. What I want to know is, what is the status that we would have obtained when human physiology was evolving? Because natural selection tunes us into what the environment provides. If the environment didn’t provide enough vitamin D to maintain that kind of a level, we would have found some other way to adapt to it during the course of evolution. But we didn’t.
+
+It’s very useful to look at what those ancestral-living humans today actually have, exposing a lot of skin and living in equatorial East Africa, where the sun shines all the time and where you can make vitamin D every day. That’s the best evidence I know of about what is optimal for our physiology.
+
+I find it very compelling that those three distinct approaches -1) what’s the minimum compensation required, 2) what’s the ancestral value, 3) and how much do you need for a critical function just as lactation - they all converge on the same numbers, somewhere in the range of 40 to 60 nanograms per milliliter of 25-hydroxy D and the corresponding oral dose of somewhere in the range of 5,000 to 6,000 international units from all sources combined. Not supplements per se. We do need supplements, but that’s the total input every day needed to sustain a blood level of 40 to 60.
+
+ **DM:**  Thank you for explaining that so well. The big leap though appears to be the... You know it’s fairly easy to establish the reference ranges or what appears to be optimal, which as you said, is 40 to 60 nanograms. But the big challenge that we have is to convert the oral equivalent to reach those levels I guess, because our ancestors didn’t really have access to oral vitamin D supplements. That’s a relatively recent innovation. It was really almost exclusively through exposure to sunshine.
+
+ **RH:**  That’s true, or I should say, almost completely true. It turns out, and again, we didn’t know this until we really dug into the vitamin D story more deeply, all members of the dog and cat family - wools, tigers, lions, wildcats, or whatever - none of them can make vitamin D in the skin. They are totally dependent on meat. That’s where they get their vitamin D, from the prey animals that they live on. We had simply ignored the fact that we were getting vitamin D in meat as well, that is when we eat meat.
+
+The reason we ignored it was when it was too hard to measure. Most of the assays that have been published up until very recently listed no vitamin D content for beef, pork, poultry, etc. Things are changing in lots of ways: 1) we have a much better way of measuring vitamin D than we did back then. We’re now finding vitamin D present in the quantities that are biologically meaningful.
+
+2) Manufacturers that are food producers are now making that the food chain they feed their animals contain adequate vitamin D, and sometimes they use a little bit more than perhaps is minimally necessary. That gets some vitamin D into our food chain. We don’t know exactly how much. But my best guess - and I’m going to qualify that by saying “guess,” because this is a moving target and we don’t have all the data we need yet - is that the average adult today living in the central part of the US is getting 1,500 to 2,000 international units from food, unrecognized sources of food.
+
+ **DM:**  Interesting.
+
+ **RH:**  They get less than we use to think from the sun, not because they couldn’t get at all, but look, it’s 1:30 in the afternoon (2:00 p.m. my time) and I’m indoors in front of a computer getting no sunshine. I’m not making any vitamin D. Most of us - professionals, wage slaves, workers of one kind or another - we’re indoors. Not very many of us work outdoors and not very many of us get sun exposure in mid-day, and that’s when you make your vitamin D.
+
+ **DM:**  Well, even if you could, which as I mentioned, is the exception, you’re in Nebraska. As we’re recording this, you’re sort of in a week or two of the winter solstice. Even if you’re outside with just your briefs on all day, I don’t think you’d be generating much vitamin D.
+
+ **RH:**  I’ ve been making zero. Mike Hollis in Boston showed that. I have just about the same latitude. Mike was out there on the roof in his briefs, as you say, and he made no vitamin D.
+
+ **DM:**  Yeah. This is really interesting information about the quantity of vitamin D and food or meat specifically. I was not aware of that. That certainly seems to provide us with a fairly compelling argument for the use of oral supplements.
+
+<span>[-— 20:00 -—]</span>
+
+ **RH:**  Yes. It’s entirely natural. I think the important thing to understand is that it’s not that we’re a lot better off than we thought we were because we’re getting this unrecognized vitamin D; it’s that we need a lot more than we thought we needed. We’ve still got the same gap between the total amount we’re getting in everyday and the amount needed in order to sustain a level of 40 to 60 nanograms.
+
+ **DM:**  Now, do you think there’s any additional benefit from getting the majority of your vitamin D from solar radiation as opposed to swallowing it orally? I mean, there’s the vitamin D component but perhaps there are other variables that we may not yet appreciate fully.
+
+ **RH:**  I think you’re absolutely right. There is a UVA component, which does not produce vitamin D but does produce nitric oxide (NO), and that has a blood-pressure lowering effect. The full solar spectrum’s important for us. We’re not dependent just solely on a narrowband wavelengths about 295 nanometers, which is where vitamin D is made. Total sunlight is beneficial. Some of that benefit is due to vitamin D, and some of it is due to other mechanisms I’m sure we don’t fully understand.
+
+ **DM:**  Terrific. I’m wondering if you could address the issue of toxicity because that’s a concern. And early on, like last century, there was really quite a serious concern for taking doses of more than a thousand or 2,000 units. So, there’s the question of the dosage, but then there’s also the question of the level. You’ve mentioned the ideal range somewhere between 40 and 60 nanograms. Is there a danger in going to 70, 80, or even 100?
+
+ **RH:**  Well, the important thing is to be clear about what we mean as toxicity. The Institute of Medicine and various other experts have defined toxicity as hypervitaminosis D or vitamin D toxicity, which consists of excess serum calcium, kidney stones, calcification of the kidney, and all the other problems that could go along with excess serum calcium under those circumstances.
+
+If we’ll focus on that, the good news is we have a very wide margin of safety. There are no reported cases of any elevation of serum calcium below 30,000 international units per day, and for the most part, there are none below 50,000 international units, but there’s a gray zone between 30 and 50.But there’s no reason to go above 30. I mean, there’s a good margin of safety.
+
+Furthermore, if you look at the blood levels of 25-hydroxy vitamin D, there are no recorded cases of vitamin D intoxication at levels below 200 nanograms per milliliter. We’re talking about 40 to 60 here as the optimal range. There’s no real concern about toxicity until you get up into doses you shouldn’t be taking. Those are almost always associated with either sloppy manufacturing practices or deliberate poisoning with people. Both kinds of cases have been reported.
+
+You mentioned last century. Back in the ‘30s and ‘40s, we were using vitamin D in doses of mill ions of international units per person per day, and we did produce some toxicity. No doubt at all about that in some cases, it’s fatal. Fortunately, most of the recorded cases recovered I presume reasonably well. But there is a problem. It’s a fat-soluble vitamin. And fat-soluble vitamins when taken in large quantities are stored in the body. They can exert their toxicity for a long period of time. It’s a powerful compound, but it’s a relatively safe compound if we stick within reasonable intake levels.
+
+ **DM:**  Okay. Thank you for that answer. I’m wondering if you could comment on the reasons why some of the agencies that make recommendations like the US Preventive Services Task Force (USPSTF) and the Institute of Medicine (IOM) haven’t seem to caught up with the research that you’ve just been describing with respect to the higher intakes and the higher blood levels that seem to be associated with more health benefits.
+
+ **RH:**  There are two reasons for that:
+
+The first I’ve already alluded to. They’re looking for disease prevention rather than health promotion, and the endpoints are very different. That’s number one. That’s not inappropriate if you look at the title of the agencies. The US Preventive Services Task Force is concerned with the prevention of discreet diseases. They focus much of their effort, as you know, on various testings such as prostate-specific antigen (PSA), mammograms, and things of that sort. But the focus is always what do you need in order to minimize your risk of coming down with prostate cancer, breast cancer, or whatever.
+
+The focus of prevention is not inappropriate for an agency that’s concerned with prevention. But that’s not the same thing as promotion of nutrition. There are only two reports the US Preventive Services Task Force has ever put out with respect to nutrients. Most of the rest of it, as I say, has been concerned with various screening tests, etc. That’s one of the reasons. The questions are different, so the answers are bound to be different if you’re looking at disease prevention versus health promotion.
+
+There have been no standards by which you decide how to do a study on whether vitamin D lowers blood pressure, reduces the risk of hypertension, or reduces the risk of cancer.
+
+About 12 months ago, I published a set of guidelines in the journal of Nutrition Reviews, which simply set forth a group of five conditions that a clinical study of a nutrient should meet if it’s going to answer the question of whether it does any good. I added to that a set of six criteria for systemic reviews and metaanalyses. Now, the US Preventive Services Task Force, the Institute of Medicine, and several other authoritative bodies have relied on these systematic reviews and meta-analyses in order to see if the evidence supported the proposition that vitamin D may reduce the risk of hypertension, cancer, or whatever.
+
+The problem was if you look at the criteria that were published, as I say, a year ago in the systematic reviews, the best of them failed on four of the six criteria. They simply had not met the criteria needed in order to have an informative study. That’s the second reason why they get null answers because they combine studies, which if adequately understood, at the time of their design, it would have been said to be nulled. I mean, you could say this is not going to show anything because they didn’t do it right.
+
+ **DM:**  Yeah. They could have saved themselves some trouble. Do you perceive an increase in the adoption of the standards that you recommended, that the studies now are being done with these new standards, so we’ll have an answer to these questions, which can actually be more definitive and actually allow the US Preventive Services Task Force to recommend something more useful than a mammogram for the prevention of breast cancer?
+
+ **RH:**  Well, I don’t perceive it but I hope it. I’m told by the journal editor or the journal staff that that article is in the top 10 percentile of all articles ever cited in that journal by anybody. That’s an indication that somebody’s reading it. If somebody reads it, maybe somebody will apply it. However, a leading nutrition journal just sent me a manuscript to review a couple of days ago, which I have not quite finished a review on, but it looks to me that it met none of the criteria that we were talking about. It’s going to take a while for it to catch on.
+
+I think it’s worth reassuring ourselves that the criteria I’ve listed are not difficult. They’re what any animal nutritionist would have done automatically. You couldn’t get your Ph.D. doing one of these animal studies if you didn’t follow all of these rules. The animal care committee wouldn’t have us do it in the first place. The problem is that as clinical investigators, we think we don’t have to pay attention to those common sense rules about how you evaluate nutrients.
+
+Sooner or later, I think we’ll get it straight but it’s going to be a painful uphill battle I think because people have invested a lot of time and effort in this. They come from prestigious places, so therefore they can’t be wrong, right?
+
+ **DM:**  I couldn’t agree more. There really is a pressing need for this because some of the epidemiological work, as I’m sure you’re well familiar with, suggests that there are hundreds of thousands of people who are dying prematurely every year in the US alone from not paying careful enough attention and in applying what is known from the preliminary studies.
+
+<span>[-— 30:00 -—]</span>
+
+ **RH:**  I think that’s right. A perfectly good example not quite so pertinent for the United States but for our neighbors in the North is what’s happening to the first nation’s people in the Northern territories. Until very recently, they subsisted mostly on traditional foods, which would have been from the sea. That would have been whale and sea products. They were very rich in vitamin D. But they’re now more and more dependent on their commissaries that fly in the kind of bulk-produced food that we eat in the Southern part of Canada and, of course, throughout the United States. They’re now facing an epidemic of rickets.
+
+The Government of Canada has to rely on the Institute of Medicine’s report in order to know what to do about that. Well, it’s going to come up and say, “We need to be sure everybody has 600 international units per day, because that’s what the Institute of Medicine’s recommendation is to prevent rickets in the South.” It won’t work in the North. That’s not enough. And that’s a real problem.
+
+ **DM:**  You’ve been in this field quite a long time, and as you mentioned earlier, you’re a physician. I’m wondering if you’re noticing with your colleagues a wider adoption of this information even though the proper research hasn’t been definitively done, because of their reluctance to apply the animal research standards to the clinical standards. Do you see a wider embracing of this, more testing being done, and physicians, even though they don’t have the definitive studies under their belt, recommending higher doses of vitamin D?
+
+ **RH:**  I see a lot of acceptance. It comes about principally because they’ve all had positive experience s at giving adequate vitamin D to somebody who tested low and had whatever kind of a problem. They’ve seen a relatively miraculous response. Now, I want to stress that for most nutrients, and this includes vitamin D, you’re not going to see miraculous responses. It’s going to pay off in the long run.
+
+I like to think about nutrition as the analog of preventive maintenance. If you don’t change the oil in your car, it’s still going to drive perfectly well tomorrow and the next day and the next month. What’s g oing to happen is that the engine’s going to break down sooner than it otherwise would. That’s how nutrients work as well. Every now and then you’ll find somebody who gets a very dramatic response to normalizing his or her vitamin D status, but they’re the exception.
+
+However, if you’re in the practice of medicine and you have one or two of these cases, you become a believer. So, you’re recommending it for all your patients under the circumstances and you’re testing it in all your patients in order to know whether you’re giving them enough.
+
+We spoke about a need in the range of 5,000 to 6,000 international units per day from all sources - sun, supplement, food - in order to maintain a healthy blood level. But we didn’t stress the fact that people vary widely in their ability to respond. Some people may get almost no increase at all with 2,000-or 3,000-<span>[milligram]</span> supplement every day, whereas others may get all the way up to where they need to be with that. There’s a huge range of sensitivity there.
+
+There’s no easy way to handle that for a physician except to measure. That’s hardly surprising. We use measurements for other things as well. If you measure you can tell whether you’re giving enough. The right amount is not some nominal number like 5,000, 2,000, or 8,000; the right amount is the amount you need in order to get your patient between 40 and 60. Whatever that is, it’s not only the right amount, but it’s the safe amount as well.
+
+ **DM:**  Do you feel that the inability of some people to reach those levels at higher doses might be related to some of the other accessory micronutrients like magnesium and vitamin K2?
+
+ **RH:**  I don’t know what the interactions are. I’m convinced there are interactions and there is that kind of dependency. One of the things that this quantitative study of the vitamin D economy that I mentioned taught us or at least it raised as a possibility, is that it looks very much as if some of the vitamin D we use every day goes straight into our cells before it gets 25-hydroxylated. That never shows up in the serum. It appears that some people prefer that pathway and not others.
+
+Although in 1997, the Institute of Medicine declared 25-hydroxy D as the functional indicator of vitamin D status, I think we have reasons not to believe that in some people, it may not be as good as we thought that we need to measure their D itself, ordinary native parent D, vitamin D, cholecalciferol. That may be have to be measured as well. That’s not clinically available so far002E
+
+ **DM:**  Interesting.
+
+ **RH:**  We can kind of look ahead of that. You see, that was the key part with respect to the work of Hollis and Wagner. Vitamin D doesn’t go into mother’s milk unless it’s in the serum, not 25-hydroxy D, Vitamin D itself. 25-hydroxy D doesn’t go into milk from the mother’s serum. She can have perfectly healthy 25-hydroxy D levels and yet put out vitamin D-free milk for her child, unless she’s got D in her serum as well.
+
+As I said, one of the side effects of this study of the quantitative part of the vitamin D economy is that it’s raised some questions we never had any reason to suspect might even be interesting. For that reason, I think it may be worth referring your readers or your audience to the fact that the current issue of  **Nutrition Reviews**  has this big comprehensive summary of the quantification of the vitamin D economy. It’s got all the numbers - how much we get from the sun, how much we get from food, the difference between vitamin D2 and vitamin D3, how it’s handled in the body, etc. That’s all laid out there. I would recommend people to take a look at it if they’re interested in going further.
+
+&nbsp; &nbsp; &nbsp; **[Nutrition Reviews publication in VitaminDWiki](/posts/quantifying-the-vitamin-d-economy-in-the-body-heaney)**  
+
+ **DM:**  Is that the January issue?
+
+ **RH:**  January 2015.
+
+ **DM:**  Okay. Terrific. Apparently, Dr. Hollis and Dr. Wagner had access to a clinical assay that would allow them to actually measure vitamin D and it’s not commercially available.
+
+ **RH:**  No, it was not a clinical assay. Hollis is an analytical chemist.
+
+ **DM:**  Oh.
+
+ **RH:**  He’s been measuring vitamin D all of his life. He’s been behind the assays used by some of the major laboratories today. But the important thing is he could measure it. It’s a very difficult assay still. He’s measured it in milk. He’s measured it in serum. He’s measured it I think in some foods. But we have a lot more to learn as we could measure more things.
+
+ **DM:**  That’s fascinating. I wasn’t aware of that. Hopefully that assay will be available commercially at some point.
+
+ **RH:**  I hope so, too. There’s so much resistance from the third-party payers, because as you know, 25- hydroxy D assay became the single most popular endocrine assay in the United States and Canada five years ago. Various third-party payers have clapped out and said, “I’m not going to pay for this anymore,” which I find reprehensible.
+
+ **DM:**  Well, that’s a whole other discussion. It seems like the vitamin D level itself might be even more accurate or more beneficial than the 1,25-dihydroxy vitamin D, which is at a very tiny level and doesn’t seem to have much clinical utility. I’m wondering if you can comment on that.
+
+ **RH:**  Now, that’s a good point. I’m glad you brought that up. 1,25-dihydroxy D, as it circulates in the body, serves an endocrine function. It communicates between the parathyroid gland and the intestines saying, “Hey, we need more calcium,” and the 1,25-dihydroxy D stimulates the intestinal mucosa to make the transport apparatus, which absorbs calcium out of the food. That’s what that’s doing. The blood 1,25- dihydroxy D level is really a measured calcium status. If you have a high calcium intake even with not very much vitamin D and you’re absorbing all the calcium your body needs, your 1,25-dihydroxy D level’s going to be pretty low.
+
+ **DM:**  Okay.
+
+ **RH:**  That’s normal. I mean, the idea of having a reference range for 1,25-dihydroxy D doesn’t make a lot of sense to me, because you expect it to go all the way down, you know, almost to the floor if you’re getting enough calcium, and you expect it to be high if you’re not getting enough calcium. It’s really a marker for how your body’s responding.
+
+ **DM:**  Interesting. Because there are some individuals who promote it as a useful test. But from your perspective, really the only benefit of it is an assay in calcium metabolism.
+
+<span>[-— 40:00 -—]</span>
+
+ **RH:**  Well, it’s also useful in terms of working out difficult cases, where you don’t know what’s really going on and you need all the information you can get. Because there are a variety of inborn errors of vitamin D metabolism just as there are in all other fields. You need to know whether there’s a block in making 1,25-dihydroxy D. You need to know whether there’s a block in breaking it down when it’s done its job. But these are research endeavors; these aren’t useful for ordinary clinical management and diagnosis. I think there is use for it, but not clinically.
+
+ **DM:**  What about vitamin D receptor defects? Is that a significant issue or something that’s being looked at?
+
+ **RH:**  It is being looked at. It can be a very significant issue. I think the jury’s still out on how that’s going to play out. But I think it’s a good question.
+
+ **DM:**  Okay. Well, this is great. I really thank you for everything, some research that you provided and your perspective especially on the vitamin D content of meat, which seems to be of highly powerful piece of information to support and substantiate the use of oral vitamin D. I’ve always recommended that people get it from sunlight if they can in any way, shape, or form, or a relatively safe tanning exposure, sensible exposure. But it does provide a good perspective from oral supplementation.
+
+ **RH:**  Yeah. I don’t think it’s a matter of either or; I think it’s a matter of both ends. I think the sun is beneficial on balance.
+
+ **DM:**  Terrific. Do you have any other closing comments you’d like to make?
+
+ **RH:**  I think this is a strangely important nutrient. I think that the bulk of the population of the industrialized nations is vitamin-D deficient. That’s contributing to the host of chronic diseases that are filling the doctors’ offices and using up our healthcare dollars. We need to do something about that. The problem with vitamin D is that it’s cheap and not patentable. It’s very hard to get the kind of saturation promotion that you get with a new anti-hypertensive drug, for example. I mean, nobody can pay to have the advertisements in the journals. I mean, it just costs too much.
+
+Vitamin D is very inexpensive but very powerful. We need to keep in mind that under more primitive circumstances, we were getting a lot more from the sun than we do today. I think if any of you can think back to your own grandparents, you’d realize they spent a lot more time outdoors. They hung their wash out on the line to dry. They walk to the bus stop or street car stop and they got fresh air. They worked out in the gardens. There was just a lot more outdoor time and sun exposure. People are scared to death now of skin cancer, but nobody was dying of melanoma back in those days. I fear we have a problem that’s been created by the cosmetic industry rather than a real problem for cancer prevention.
+
+ **DM:**  All right. I can’t thank you enough for all the pioneering research you have done and continue to do and all the efforts you’ve made in really helping educate us about this important topic.
+
+ **RH:**  Thank you for the opportunity.
+
+<span>[END]</span>
+
+ **Short url =**  http://is.gd/Heaney2015

@@ -1,0 +1,69 @@
+<!doctype html><html><head><meta charset=utf-8><title>Yes, Vitamin D can be a magic bullet - Grant</title>
+<link rel=stylesheet href="/css/main.css?v=1752030352"><link rel=stylesheet href="/css/pagination.css?v=1752030352"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030352"></script><script src="/js/search.js?v=1752030352"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Yes, Vitamin D can be a magic bullet - Grant</h1><time>August 1, 2023</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#letter-to-the-editor-yes-vitamin-d-can-be-a-magic-bullet>Letter to the Editor: Yes, vitamin D can be a magic bullet</a></li><li><a href=#240-targets-of-the-magic-bullethttpsvitamindwikicomhealthproblemsandd>240+ <a href=https://VitaminDWiki.com/Health+Problems+and+D>targets of the magic bullet</a></a></li></ul></li></ul></li></ul></nav><hr><h4 id=letter-to-the-editor-yes-vitamin-d-can-be-a-magic-bullet>Letter to the Editor: Yes, vitamin D can be a magic bullet</h4><p>Clinical Nutrition VOLUME 39, ISSUE 5, P1627,</p><p><a href=https://doi.org/10.1016Zj.dnu.2020.03.023>https://doi.org/10.1016Zj.dnu.2020.03.023</a>. <a href=https://doi.org/10.1016Zj.dnu.2020.03.021>https://doi.org/10.1016Zj.dnu.2020.03.021</a></p><p>Dear Editor:</p><p>Reijven and Soeters <sup>[1]</sup> recently reviewed evidence from obser­vational studies and RCTs on vitamin D and various health out­comes and concluded: “The high incidence of low vit D levels in disease related inflammatory states is predominantly based on reversed causality. Inflammation causes a decrease in total plasma Vit D due to a decrease of its binding protein, but active Vit D does not change. In practice the assessment of Vit D status is especially indi­cated in patients with symptoms of malabsorption, renal failure, he­patic failure, patients with low bone mineral density, patients prone to malnutrition and patients who lack sun exposure."</p><p>Evidently these authors are not considering mechanistic evi­dence. One review notes, “The bone-centric guidelines recommend a target 25(OH)D concentration of 20 ng/mL (50 nmol/L), and age- dependent daily vitamin D doses of400-800IU. The guidelines focused on pleiotropic effects of vitamin D recommend a target 25(OH)D con­centration of 30 ng/mL (75 nmol/L), and age-, body weight-, disease- status, and ethnicity dependent vitamin D doses ranging between 400 and 2000IU/day." <sup>[2]</sup></p><p>Regarding inflammatory disorders, meta-analysis of 28 studies showed that supplementation reduced serum hs-CRP by -0.20 ± 0.07 (95% Cl -0.34 to -0.06; p = 0.006) ng/mL <sup>[3]</sup>, and vitamin D suppresses pro-inflammatory and increases anti­inflammatory cytokine secretion <sup>[4]</sup>.</p><p>RCT health outcomes depend on raising deficient circulating 25(OH)D concentrations to levels adequate to allow target tissue activation rather than on the dose given or on the tightly regulated circulating calcitriol levels which do not reflect deficiency. Vitamin D RCTs should be based on baseline and achieved circulating 25(OH)D concentrations since Western populations commonly include many non-deficient participants, reducing or abolishing the apparent benefits of supplementation. Significant benefits are commonly seen in deficient study subgroups as recently reported in two major recent RCTs, where cancer and type 2 diabetes melli­tus development in pre-diabetes fell in subjects with deficiency or with low BMIs <sup>[5]</sup>, as also reported in populations where deficiency is common.</p><p>Evidence for health benefits of better vitamin D status also comes from ecological studies where geographical variation of risk follows solar UVB doses, and health risks rise following low so­lar winter UVB and fall following high-summer sunshine; from Mendelian randomization demonstrations of health risk variation with gene variants relevant to vitamin-D3 production and activation, as supported by the many mechanistic benefits of acti­vated hormonal vitamin D. Overall, the available evidence is compelling for increasing numbers of beneficial health outcomes with correction of deficiency <span>[e.g. acute upper respiratory tract in­fections, cancer, insulin resistance, type 2 diabetes mellitus and many pregnancy and birth outcomes]</span>. Furthermore, the authors would need a better hypothesis for the evolution of variations in human skin pigmentation than a balance between vitamin D pro­duction and protection against solar tissue damage if their conten­tion were correct.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/magic-bullet-grant-boucher.pdf>Download the PDF from Sci-Hub via VitaminDWiki</a></strong></p><h5 id=references>References</h5><ol><li><p>Reijven PLM, Soeters PB. Vitamin D: a magic bullet or a myth? Clin Nutr 2020 Jan 10. <a href=https://doi.org/10.1016/j.clnu.2019.12.028>https://doi.org/10.1016/j.clnu.2019.12.028</a>. pii: S0261-5614(20)30004-2. <span>[Epub ahead of print]</span>.</p></li><li><p>Pludowski P, Holick MF, Grant WB, KonstantynowiczJ, Mascarenhas MR, Haq A, et al. Vitamin D supplementation guidelines. J Steroid Biochem Mol Biol 2018;175:125-35.</p></li><li><p>Mirhosseini N, Vatanparast H, Kimball SM. The association between serum 25(OH)D status and blood pressure in participants of a community-based pro­gram taking vitamin D supplements. Nutrients 2017;9:E1244.</p></li><li><p>Chun RF, Liu PT, Modlin RL, Adams JS, Hewison M. Impact of vitamin D on im­mune function: lessons learned from genome-wide analysis. Front Physiol 2014;5:151.</p></li><li><p>Grant WB, Boucher BJ. Why secondary analyses in vitamin D clinical trials are important and how to improve vitamin D clinical trial outcome analyses-A comment on &ldquo;Extra-Skeletal effects of vitamin D. Nutrients 2019;11:E2182.</p></li></ol><p>William B. Grant* Sunlight, Nutrition, and Health Research Center, P.O. Box 641603, San Francisco, CA, 94164-1603, USA</p><p>Barbara J. Boucher The Blizard Institute Barts, The London School of Medicine and Dentistry, Queen Mary University of London, London, United Kingdom</p><hr><h4 id=240-targets-of-the-magic-bullethttpsvitamindwikicomhealthproblemsandd>240+ <a href=https://VitaminDWiki.com/Health+Problems+and+D>targets of the magic bullet</a></h4></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>bone mineral density</span>
+<span class=tag>cancer</span>
+<span class=tag>diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>falls fractures</span>
+<span class=tag>metabolic</span>
+<span class=tag>pregnancy</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>blood levels, bone, bone cancer, bone mineral density, cancer, diabetes, dosage, falls fractures, metabolic, pregnancy, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030352"></script><script src="/js/tiki-redirects.js?v=1752030352"></script><script src="/js/lightspa.js?v=1752030352"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030352",indexUrl:"/search/search_index.json.gz?v=1752030352"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030352"></script></body></html>

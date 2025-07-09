@@ -46,4 +46,4 @@ PMID: 21300969
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview MS and Vitamin D</a>
+* [Overview MS and Vitamin D](/posts/overview-ms-and-vitamin-d)

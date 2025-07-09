@@ -51,7 +51,7 @@ PMID:     21695580
 
 ### 2X more inpatient MRSA costs when <20 ng of vitamin D
 
-{IMG(attId="601")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/mrsa-costs.png" alt="image">
 
 ## Extracted from a table in the paper (for ease of translation)
 

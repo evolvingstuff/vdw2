@@ -1,0 +1,103 @@
+<!doctype html><html><head><meta charset=utf-8><title>Changes to status quo (like increasing vitamin D) are often opposed</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Changes to status quo (like increasing vitamin D) are often opposed</h1><time>March 12, 2016</time><div data-pagefind-body><h4 id=virtually-every-change-to-the-status-quo-is-opposed>Virtually every change to the status quo is opposed</h4><p>Changes which can considered to be potential threats (e.g. loss of job) are strongly opposed</p><p>Changes which upset paradigms are opposed</p><p>Change examples: equal opportunity (race, women, immigrants), taxes, minimum wage</p><p>Changes which seem to be too good to be true or not understood are typically ignored</p><p>Changes typically need to provide 3 times more benefit to be even considered</p><p><strong>Change is more likely to be accepted if others have successfully made the change</strong></p><p>If others have changed without problems there is less unknown to be afraid of.</p><h4 id=my-history-with-change-and-vitamin-d>My history with change and Vitamin D</h4><ul><li><p>I have <a href=/posts/seniors-vitamin-d-workshop>personally informed many people of benefits of vitamin D</a>. They then increased their vitamin D (4,000 to 10,000 IU of vitamin D) and got benefits within weeks, However, every time they then told their doctor he said that much vitamin D could be toxic and had them decrease to 2,000 IU of vitamin D, and the benefits disappeared.</p></li><li><p>I have personally also described the benefits of vitamin D to friends with Multiple Sclerosis, Diabetes, and Parkinson’s, They ignored my recommendation, as I am not a doctor and it seemed too good to be true.</p></li><li><p>Back in 2010 I (mistakenly) thought that doctors would change once that randomized controlled trials had proven that vitamin D works. Now, in 2016, there have been over 500 trials proving that Vitamin D works – <a href=/posts/proof-that-vitamin-d-works>for 68+ health problems</a>, but doctors have not changed and they now say that they do not yet understand why vitamin D works, so are not ready to recommend it.</p></li></ul><blockquote><p>I now realize that there are <a href=/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d>at least 10 reasons that doctors are reluctant</a>.</p></blockquote><ul><li><p>Doctors correctly fear possible loss of jobs. One doctor went out of business in 2012 after he got all 2,000 of the patients in his clinic to a vitamin D level of 80 nanograms. They, on average, dropped the number of visits from 4 per year to only one per year – they were excessively healthy with that much vitamin D. Our <a href=/posts/does-less-sun-mean-more-disease>5 minute video mentions the job loss problem of vitamin D</a>.</p></li><li><p>I have decided to focus on those organizations which will benefit from increased vitamin D, One example is a <a href=/posts/hmos-will-save-millions-of-dollars-with-vitamin-d>Health Maintenance Organization</a> – where profit is made when people are healthier, increased health (due to vitamin D) attracts more customers.</p></li></ul><h4 id=which-health-problems-to-focus-on>Which health problems to focus on?</h4><p><strong>| | |
+| &mdash; | &mdash; |
+| Consideration | Examples |
+| Most impressive results – prevention and/or treatment | Multiple Sclerosis, Pregnancy |
+| Most studies – a proxy for best results and most interest | Pregnancy |
+| Most cost savings – to Health Maintenance Organization | Pregnancy, Multiple Sclerosis |
+| Most cost savings – to Hospital | |
+| Most cost savings – to Health Insurance | Aetna |
+| Most cost savings – to Individuals (with/without health insurance) | |
+| Most benefit to individuals – short term | Pain relief |
+| Most benefit to individuals – prevention | |
+| Most benefit to individuals – treatment | Multiple Sclerosis |
+| Least change to doctors – augment conventional therapy | |
+| Likelihood that success in that area<br>will spread use of vitamin D to other areas | |
+| Likely to be adopted by doctors | Pregnancy |
+| Likely to be adopted by patients | |
+| Fastest results | Pregnancy, pain relief |</strong></p><h4 id=vitamindwiki-categories-having-lots-of-items>VitaminDWiki Categories having lots of items</h4><p><strong>| | | |
+| &mdash; | &mdash; | &mdash; |
+| 1. of items | Topic | Interventions<br>(many are RCT) |
+| 234 | Breathing | 24 |
+| 292 | Cardiovascular | 12 |
+| 294 | Diabetes | 26 |
+| 270 | Infant-Child | 24 |
+| 223 | Multiple Sclerosis | 10 |
+| 232 | Obesity | 10 |
+| 426 | Pregnancy | 30 |
+| 230 | Seniors | 7 |
+| 319 | Skin - Dark | 8 |
+| 289 | Intervention |
+| 220 | Meta-analysis |</strong></p><p>As of March 2016</p><h4 id=methods-to-encourage-vitamin-d-change-include>Methods to encourage Vitamin D change include</h4><ul><li><p>VitaminDWiki</p></li><li><p>Google Adwords of some VitaminDWiki pages – in various languages</p></li><li><p>Facebook, other social media</p></li><li><p>Publish in Amazon - example <a href=/posts/multiple-sclerosis-and-lots-of-vitamin-d-book-by-patient-on-coimbra-protocol>Multiple Sclerosis</a></p></li><li><p>Contact Health Maintenance Organizations</p></li><li><p>Contact Health Insurance companies</p></li><li><p>Seminars for people</p></li><li><p>Seminars for health professionals</p></li><li><p>Videos</p></li><li><p>Instructional material for people</p></li><li><p>Instructional material for health professionals</p></li><li><p>Create a Vitamin D dosing equation (accurate, web-based)</p></li><li><p>Create a Vitamin D story:</p></li></ul><blockquote><p>Why people have become deficient.</p></blockquote><blockquote><p>How vitamin D helps.</p></blockquote><blockquote><p>Why does vitamin helps so many health problems,</p></blockquote><blockquote><p>One size does not fit all,</p></blockquote><blockquote><p>Problems if lots of vitamin D without lots of co-factors</p></blockquote><h3 id=truth-passes-thru-3-phases-comment-by-dr-grant>Truth passes thru 3 phases (comment by Dr. Grant)</h3><p><strong>All truth passes through three stages</strong></p><ul><li><p>First, it is ridiculed.</p></li><li><p>Second, it is violently opposed.</p></li><li><p>Third, it is accepted as being self-evident.</p></li></ul><blockquote><p><a href=http://www.brainyquote.com/quotes/authors/a/arthur_schopenhauer.html>Arthur Schopenhauer</a></p></blockquote><blockquote><p><strong>Vitamin D is now in stage two.</strong></p></blockquote><h3 id=initial-thoughts-of-strategy-for-mulitiple-sclerosis-and-hmos>Initial thoughts of strategy for Mulitiple Sclerosis and HMOs</h3><ul><li><p>HMOs stand to reduce losses of about $10,000 per MS patient per year by adding vitamin D</p></li><li><p>HMOs (as well as doctors elsewhere) do not see any RCT proof that MS can be totally treated by Vitamin D</p></li><li><p>Perhaps if an HMO experiences the benefits of adding high dose vitamin D to conventional MS therapy they will change</p></li></ul><blockquote><p>Consider ways to encourage that experiment/trial: via patients?, via doctors?</p></blockquote><h3 id=rough-comparison-of-hmo-net-cost-savings>Rough comparison of HMO net cost savings</h3><table><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>((Vitamin D is being used to prevent premature births – Baggerly interview – Dec 2015</td><td>Pregnancy))</td><td><a href=/categories/multiple-sclerosis>Multiple Sclerosis</a></td></tr><tr><td>Proof that vitamin D will help</td><td>Extensive</td><td>Minimal</td><td></td></tr><tr><td>Cost savings for 1 year</td><td>$1,000 per pregnancy<br>(50% fewer premature births)</td><td>$10,000<br>(MS drugs are VERY expensive)</td><td></td></tr></tbody></table><p><strong><span style=color:#00f>Summary: Multiple Sclerosis provides 10 times the cost savings, but has far less proof</span></strong></p><p><strong>Note: Insurance Companies such as Blue Cross and <a href=/posts/aetna style=color:red;text-decoration:underline title="This link has an unknown page_id: 532">Aetna</a> may also be interested</strong></p><ul><li><a href=http://www.chicagotribune.com/business/ct-blue-cross-obamacare-insurance-0313-biz-20160311-story.html>Blue Cross parent lost $1.5 billion on individual health plans last year</a> March 2016</li></ul><blockquote><p>Being forced to insure people who are not healthy (MS is an example) is very very expensive</p></blockquote></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>autoimmune and pregnancy</span>
+<span class=tag>child</span>
+<span class=tag>childhood obesity</span>
+<span class=tag>diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>health risk</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>metabolic</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>multiple sclerosis and pregnancy</span>
+<span class=tag>obesity</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>pregnancy</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>autoimmune, autoimmune and pregnancy, child, childhood obesity, diabetes, dosage, health risk, high dose, intervention, metabolic, multiple sclerosis, multiple sclerosis and pregnancy, obesity, pediatric autoimmune, pregnancy, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

@@ -1,0 +1,89 @@
+<!doctype html><html><head><meta charset=utf-8><title>Sun is needed, but as with ice cream, getting too much can cause problems</title>
+<link rel=stylesheet href="/css/main.css?v=1752030349"><link rel=stylesheet href="/css/pagination.css?v=1752030349"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030349"></script><script src="/js/search.js?v=1752030349"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Sun is needed, but as with ice cream, getting too much can cause problems</h1><time>August 17, 2015</time><div data-pagefind-body><h4 id=dr-gerry-schwalfenberg-we-need-some-sun-exposure-to-be-healthyhttpblogstheprovincecom20150815dr-gerry-schwalfenberg-we-need-some-sun-exposure-to-be-healthy20><a href=http://blogs.theprovince.com/2015/08/15/dr-gerry-schwalfenberg-we-need-some-sun-exposure-to-be-healthy/%20>Dr. Gerry Schwalfenberg: We need some sun exposure to be healthy</a></h4><p><strong>The Province (Canadian Newspaper)</strong></p><p>A glass of wine with dinner is enjoyable and some studies suggest it will benefit your health. Draining a bottle a night? You may have a problem.</p><p>Indulging in an <strong>ice-cream</strong> cone while out for an evening walk is a nice treat. Sitting on the couch and devouring an entire gallon of ice cream will put you on a path to obesity and diabetes.</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/schwalfenberg200.jpg alt=image><p>Dr. Gerry Schwalfenberg: We need some sun exposure to be healthy</p><p>The same can be said for sun exposure.</p><p>There is no question that getting too much sun, burning exposure, can increase your risk of developing skin cancer.</p><p>But the answer is not abstinence. In fact, keeping yourself out of the sun entirely raises as many health risks as getting too much sun.</p><p>The simple reality — scientifically proven — is that people need exposure to the sun’s UV radiation to facilitate the synthesizing of Vitamin D, essential for bone health at all ages.</p><p>Vitamin D deficiency in children can lead to rickets, a condition where the long bones in the legs soften and bend as the child begins to walk, resulting in bow legs.</p><p>In adults, Vitamin D deficiency may cause osteomalacia, a softening of the bones that results in back pain, muscle weakness or osteoporosis with increased risk of bone breaks.</p><p>The risk is particularly acute in Canada, which gets relatively little sun exposure compared to most places in the world that host human populations. Due to our higher latitude, there is small window when Canadians can have Vitamin D synthesized by the sun — typically from late spring to early fall, around midday from 10 a.m. to 2 p.m. It’s at this time that the UV index is likely to be above three and your shadow is shorter than your height.</p><p>Consider the challenges that tight window poses. More and more, Canadians are working indoors and spending less time outside than ever before. And even when we do venture outside, we are heeding the warning and slathering on UV protection sunscreen, which actually inhibits the synthesizing of Vitamin D, with SPF 30 reducing it by 97 per cent.</p><p>I’m not saying don’t use sunscreen. You should never allow your skin to burn. But try and make some vitamin D first.</p><p>Fifteen to 30 minutes of sun exposure, depending on your skin type, is sufficient and then either apply sunscreen, cover up with clothing or get out of the sun.</p><p>It’s not surprising that Statistics Canada reports that 12 million Canadians, 35 per cent of the population, have insufficient vitamin D levels, including 10 per cent who are severely deficient, which sets them up for higher disease risk.</p><p>But it’s not just a Canadian problem. Vitamin D deficiency is growing globally.</p><p>While studies continue, the evidence is increasing that Vitamin D may play a pivotal role in protecting against cancer, heart disease, type 1 and 2 diabetes, multiple sclerosis, depression, dementia, colon and breast cancer and a host of other chronic diseases.</p><p>While protecting ourselves from skin cancer, we are opening our risk to other types of cancer and disease.</p><p>A recently published study, <a href=/posts/sunlight-and-vitamin-d-necessary-for-public-health>Sunlight and Vitamin D: Necessary for Public Health</a>, by Carole Beggarly and several academic researchers, examines how organizations such as the World Health Organization’s International Agency for Research on Cancer and the U.S. Surgeon General call for sun avoidance, but ignore the fact that cutting out sunshine will reduce vitamin D, an essential vitamin for bone health, and will create probable harm for the general population.</p><p>As Baggerly points out, the human body has evolved over thousands of years and part of that process has adapted to sun exposure. We derive several physiological benefits from UV rays in addition to vitamin D and these cannot be replaced by vitamin D supplements. To preach sun abstinence is to put Canadian lives unnecessarily at risk.</p><p>If organizations warn people to stay out of the sun, then they should also advise of the risks associated with Vitamin D deficiency. In the best interest of human health, we need to address both the risks and benefits of UV exposure. Unfortunately, the message Canadians keep hearing lately is that there is no benefit to being in the sun.</p><p>Canadians need to be better educated about enjoying the sun safely, taking care not to burn, so that they may get their required Vitamin D without raising the risk of skin cancer.</p><p><strong>Like that glass of wine or an ice cream cone, it’s about enjoying the sun in moderation.</strong></p><p>Dr. Gerry Schwalfenberg is a family doctor and an assistant clinical professor in the department of family practice at the University of Alberta in Edmonton, AB.</p><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href=/posts/canadians-have-a-hard-time-getting-1000-iu-of-vitamin-d-from-the-sun>Canadians have a hard time getting 1,000 IU of vitamin D from the sun – July 2015</a></p></li><li><p><a href=/posts/could-canada-cause-multiple-sclerosis-ms-increased-2x-in-5-years>Could Canada cause multiple sclerosis (MS increased 2X in 5 years) - April 2015</a></p></li><li><p><a href=/posts/3x-increase-in-vitamin-d-sales-in-quebec-canada-in-5-years>3X increase in Vitamin D sales in Quebec Canada in 5 years - Nov 2014</a></p></li><li><p><a href=/posts/vitamin-d-blood-levels-of-canadians>Vitamin D blood levels of Canadians – Jan 2013</a></p></li><li><p><a href=/posts/many-vitamin-d-articles-and-videos-by-schwalfenberg-in-canada>Many vitamin D articles and videos by Schwalfenberg in Canada</a></p></li><li><p><a href=/posts/sun-how-to-maximize style=color:red;text-decoration:underline title="This link has an unknown page_id: 1051">Sun - how to maximize</a> 14 ways to maximize the sun (as of Aug 2015)</p></li><li><p><a href=/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough>No – 10 minutes per day of sun-UVB is NOT enough</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>back pain</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>breast cancer</span>
+<span class=tag>cancer</span>
+<span class=tag>child</span>
+<span class=tag>childhood cancer</span>
+<span class=tag>childhood obesity</span>
+<span class=tag>cognitive</span>
+<span class=tag>dementia</span>
+<span class=tag>depression</span>
+<span class=tag>diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>falls fractures</span>
+<span class=tag>health risk</span>
+<span class=tag>high dose</span>
+<span class=tag>intervention</span>
+<span class=tag>metabolic</span>
+<span class=tag>mood disorders</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>Noontime sun and D</span>
+<span class=tag>obesity</span>
+<span class=tag>obesity and cancer</span>
+<span class=tag>osteoporosis</span>
+<span class=tag>pain</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>rickets</span>
+<span class=tag>skin cancer</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span>
+<span class=tag>Vitamin D in Canada</span></div><div data-pagefind-meta=tags hidden>autoimmune, back pain, bone, bone cancer, breast cancer, cancer, child, childhood cancer, childhood obesity, cognitive, dementia, depression, diabetes, dosage, falls fractures, health risk, high dose, intervention, metabolic, mood disorders, multiple sclerosis, Noontime sun and D, obesity, obesity and cancer, osteoporosis, pain, pediatric autoimmune, rickets, skin cancer, therapeutic intervention, vitamin d, Vitamin D in Canada</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030349"></script><script src="/js/tiki-redirects.js?v=1752030349"></script><script src="/js/lightspa.js?v=1752030349"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030349",indexUrl:"/search/search_index.json.gz?v=1752030349"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030349"></script></body></html>

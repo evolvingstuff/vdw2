@@ -55,8 +55,8 @@ Conclusion: A community-based multi-component exercise program successfully impr
 
 * [Review of vitamin D and bone health studies – with tables Nov 2010](/posts/review-of-vitamin-d-and-bone-health-studies-with-tables) 800 IU not enough
 
-* <a href="/posts/average-of-less-than-2000-iu-of-vitamin-d2-did-not-help-bone-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 613">Average of less than 2000 IU of vitamin D2 did not help bone health – July 2010</a>
+* [Average of less than 2000 IU of vitamin D2 did not help bone health – July 2010](/posts/average-of-less-than-2000-iu-of-vitamin-d2-did-not-help-bone-health)
 
-* <a href="/posts/effectiveness-and-safety-of-vitamin-d-in-relation-to-bone-health-2007" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 573">Effectiveness and Safety of Vitamin D in Relation to Bone Health - 2007</a>
+* [Effectiveness and Safety of Vitamin D in Relation to Bone Health - 2007](/posts/effectiveness-and-safety-of-vitamin-d-in-relation-to-bone-health-2007)
 
-* <a href="/posts/bone-health-and-vit-d-evidence-based-review-2007" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 248">Bone Health and Vit D: Evidence Based Review 2007</a>
+* [Bone Health and Vit D: Evidence Based Review 2007](/posts/bone-health-and-vit-d-evidence-based-review-2007)

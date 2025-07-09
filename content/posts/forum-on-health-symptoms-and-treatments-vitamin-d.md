@@ -14,12 +14,14 @@
         "SAD",
         "Treatment by Vitamin D",
         "autoimmune",
+        "bone",
         "chronic fatigue",
         "high dose",
         "intervention",
         "mood disorders",
         "multiple sclerosis",
         "neurological",
+        "osteoporosis",
         "therapeutic intervention",
         "vitamin d"
     ]
@@ -32,23 +34,23 @@
 
 # The following are vitamin D related charts as of Oct 2011
 
-{IMG(attId="852" max = "450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-symptoms.png" alt="image" style="max-width: 450px;">
 
 ## Above chart: Symptoms which people treat with vitamin D
 
-{IMG(attId="853" max = "450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-treatment-by-popularity.png" alt="image" style="max-width: 450px;">
 
 ## Above chart: Ways that people get vitamin D - in order of popularity
 
-{IMG(attId="854" max = "450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-treatment-by-most-improvement.png" alt="image" style="max-width: 450px;">
 
 ## Above chart: The forms of vitamin D which gave the most improvement
 
-{IMG(attId="855" max = "450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-cause.png" alt="image" style="max-width: 450px;">
 
 ## Above chart: Their opinion as to why they had a vitamin D deficiency
 
-{IMG(attId="856" max = "450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-cause-osteoporosis.png" alt="image" style="max-width: 450px;">
 
 ## Above chart: Cause of Osteoprosis - Vitamin D is fairly low
 
@@ -56,14 +58,14 @@
 
 ## Above chart: SAD treatment - vitamin D and sunlight
 
-{IMG(attId="858" max = "450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-ms-treat.png" alt="image" style="max-width: 450px;">
 
 ## Above chart: MS treatment - vitamin D
 
-{IMG(attId="859" max = "450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-chronic-fatigue-syndrome.png" alt="image" style="max-width: 450px;">
 
 ## Above chart: Chronic Fatigue Syndrome - vitamin D is fairly low
 
-{IMG(attId="860" max = "450")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/ct-dandriff.png" alt="image" style="max-width: 450px;">
 
 ## Above chart: Dandriff - vitamin D and sunlight

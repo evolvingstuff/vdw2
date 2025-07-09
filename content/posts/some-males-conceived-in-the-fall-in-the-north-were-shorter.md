@@ -43,11 +43,11 @@ Copyright © 2010 Wiley-Liss, Inc. PMID: 21319248
 
 # See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-before-during-and-after-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Vitamin D: Before, During, and After Pregnancy</a>  Overview
+* [Vitamin D: Before, During, and After Pregnancy](/posts/vitamin-d-before-during-and-after-pregnancy)  Overview
 
-* <a href="/posts/pre-birth-vitamin-d-levels-determine-your-health-for-life" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 640">Pre-Birth Vitamin D Levels Determine Your Health for Life</a>
+* [Pre-Birth Vitamin D Levels Determine Your Health for Life](/posts/pre-birth-vitamin-d-levels-determine-your-health-for-life)
 
-* <a href="/posts/is-the-variation-in-winter-babies-due-to-vitamin-d-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 625">Is the variation in winter babies due to vitamin D – 2009</a> Wall Street Journal - nice graphs
+* [Is the variation in winter babies due to vitamin D – 2009](/posts/is-the-variation-in-winter-babies-due-to-vitamin-d-2009) Wall Street Journal - nice graphs
 
 * <a href="/posts/7x-more-likely-to-have-babies-with-low-birth-weight-when-mother-very-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 467">7X more likely to have babies with low birth weight when mother very low on vitamin D – March 2010</a>
 
@@ -55,4 +55,4 @@ Copyright © 2010 Wiley-Liss, Inc. PMID: 21319248
 
 * [Less child bone if mother lacked vitamin D – Dec 2010](/posts/less-child-bone-if-mother-lacked-vitamin-d)
 
-* <a href="/posts/2x-more-allergies-if-11th-womb-week-was-in-spring-vitamin-d-or-pollen" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1068">2X more allergies if 11th womb week was in Spring – Vitamin D or pollen? Oct 2010</a>
+* [2X more allergies if 11th womb week was in Spring – Vitamin D or pollen? Oct 2010](/posts/2x-more-allergies-if-11th-womb-week-was-in-spring-vitamin-d-or-pollen)

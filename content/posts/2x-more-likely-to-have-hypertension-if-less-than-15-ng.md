@@ -104,11 +104,11 @@ Vitamin D has been suggested to have an effect on erythropoiesis. We sought to e
 
 * [Systolic hypertension 4X more likely if low on vitamin D 14 years before – Nov 2010](/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before)
 
-* <a href="/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 701">Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010</a>
+* [Hypothesis that lack of vitamin D increases blood pressure in blacks – July 2010](/posts/hypothesis-that-lack-of-vitamin-d-increases-blood-pressure-in-blacks)
 
 * <a href="/posts/hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Hypertension and vitamin D</a> many papers
 
-* <a href="/posts/does-vitamin-d-deficiency-cause-hypertension" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 262">Does vitamin D deficiency cause hypertension?</a> 2010 with PDF
+* [Does vitamin D deficiency cause hypertension?](/posts/does-vitamin-d-deficiency-cause-hypertension) 2010 with PDF
 
 * [Systolic hypertension 4X more likely if low on vitamin D 14 years before – Nov 2010](/posts/systolic-hypertension-4x-more-likely-if-low-on-vitamin-d-14-years-before)
 
@@ -116,6 +116,6 @@ Vitamin D has been suggested to have an effect on erythropoiesis. We sought to e
 
 * [Review of heart failure and vitamin D mechanisms – Jan 2011](/posts/review-of-heart-failure-and-vitamin-d-mechanisms)
 
-* <a href="/posts/vitamin-d-and-cardiovascular-disease-systematic-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 585">Vitamin D and cardiovascular disease - Systematic review June 2010</a>
+* [Vitamin D and cardiovascular disease - Systematic review June 2010](/posts/vitamin-d-and-cardiovascular-disease-systematic-review)
 
 * [All items in category Hypertension and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=101&sort_mode=created_desc)

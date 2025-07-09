@@ -48,7 +48,7 @@
 
 ### 421 clinical trials updated since Jan 1, 2010
 
-{IMG(attId="333"max="500")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/clinical-trials-2010.gif" alt="image" style="max-width: 500px;">
 
 ### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 966">CLICK HERE</a> to see just how much vitamin D is being considered in recent Clinical Trials
 

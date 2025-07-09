@@ -77,13 +77,13 @@ Ethnic adults 45%, White adults 17%
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark skin and vitamin D</a>
+* [Overview Dark skin and vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 720">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [All items in category Obesity](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=19&sort_mode=created_desc) 103 items as of Nov 2011
 
@@ -103,13 +103,14 @@ Ethnic adults 45%, White adults 17%
 
    * While vegetarians (Adventist) live longer, the blacks live got more of a longevity boost than the whites (blacks are more vitamin D deficient)
 
-* <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a> they appear to
+* [Do blacks have a 5 year life penalty due to low vitamin D](/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d) they appear to
 
 * [Graphs of diseases vs vitamin D levels - and D3 vs D2- April 2011](/posts/graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2) has the following graphs
 
 ### Can see that the patients with East Asian Names have significantly lower vitamin D levels than those with British Names
 
-{IMG(attId="735,734" max ="400")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/asian-names.png" alt="image" style="max-width: 400px;">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/british-names.png" alt="image" style="max-width: 400px;">
 
 ### Median East Asian = 9 ng  &nbsp; &nbsp;Median British = 19 ng
 

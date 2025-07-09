@@ -84,4 +84,4 @@ If registered <span>[tiki-download_file.php?fileId=1960]</span> for PDF
 
 * [All items Diabetes and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=17&sort_mode=created_desc)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)

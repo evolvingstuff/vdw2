@@ -44,4 +44,4 @@ includes other nutrients as well
 
 * ["Free range" lard has 500 IU vitamin D per teaspoon](/posts/free-range-lard-has-500-iu-vitamin-d-per-teaspoon)
 
-* <a href="/posts/uvb-on-legs-of-chickens-resulted-in-70-iu-vitamin-d-per-egg-yoke" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UVB on legs of chickens resulted in 70 IU vitamin D per egg yoke – July 2013">UVB on legs of chickens resulted in 70 IU vitamin D per egg yoke – July 2013</a>
+* [UVB on legs of chickens resulted in 70 IU vitamin D per egg yoke – July 2013](/posts/uvb-on-legs-of-chickens-resulted-in-70-iu-vitamin-d-per-egg-yoke)

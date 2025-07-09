@@ -50,14 +50,14 @@ Conclusions:? Our data demonstrate that VDD may increase the risk of FS among in
 
 * [3X more allergy to peanuts if child born with low UV – Feb 2011](/posts/3x-more-allergy-to-peanuts-if-child-born-with-low-uv)
 
-* <a href="/posts/2x-more-allergies-if-11th-womb-week-was-in-spring-vitamin-d-or-pollen" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1068">2X more allergies if 11th womb week was in Spring – Vitamin D or pollen Oct 2010</a>
+* [2X more allergies if 11th womb week was in Spring – Vitamin D or pollen Oct 2010](/posts/2x-more-allergies-if-11th-womb-week-was-in-spring-vitamin-d-or-pollen)
 
-* <a href="/posts/review-of-vitamin-d-asthma-and-allergic-diseases-abstract-lacks-details" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 672">Review of vitamin D asthma and allergic diseases – abstract lacks details July 2010</a>
+* [Review of vitamin D asthma and allergic diseases – abstract lacks details July 2010](/posts/review-of-vitamin-d-asthma-and-allergic-diseases-abstract-lacks-details)
 
-* <a href="/posts/vitamin-d-may-be-linked-to-food-allergies-by-intestinal-flora" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 624">Vitamin D may be linked to food allergies by intestinal flora – July 2010</a>
+* [Vitamin D may be linked to food allergies by intestinal flora – July 2010](/posts/vitamin-d-may-be-linked-to-food-allergies-by-intestinal-flora)
 
 * [All items in  **Genetics**  and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=72&sort_mode=created_desc)
 
-* <a href="/posts/229-genes-related-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 794"> **229 Genes**  related to vitamin D - Aug 2010</a> which contains the following graph 
+* [ **229 Genes**  related to vitamin D - Aug 2010](/posts/229-genes-related-to-vitamin-d) which contains the following graph 
 
 <img src="/attachments/d3.mock.jpg" alt="image">

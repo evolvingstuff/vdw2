@@ -52,4 +52,4 @@ PMID:    21525191
 
 * <a href="/posts/iom-in-2011-failed-to-notice-interaction-between-calcium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">IoM in 2011 failed to notice interaction between Calcium and Vitamin D</a>
 
-{IMG(fileId="1596" max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">

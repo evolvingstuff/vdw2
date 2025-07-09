@@ -1,0 +1,61 @@
+<!doctype html><html><head><meta charset=utf-8><title>Australians paying for most Vitamin D tests, 40 percent deficient in winter</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Australians paying for most Vitamin D tests, 40 percent deficient in winter</h1><time>March 9, 2019</time><div data-pagefind-body><ul><li><p><a href=/posts/uk-considers-vitamin-d-tests-appropriate-for-only-4-existing-health-problems>UK considers Vitamin D tests appropriate for only 4 existing health problems, – June 2018</a></p></li><li><p><a href=/posts/mandatory-vitamin-d-screening-for-all-patients-vitamin-d-conference-in-middle-east>Mandatory Vitamin D screening for all patients – vitamin D conference in Middle East – March 2017</a></p><ul><li>Hmm - Middle East wants ALL patients tested, Austrialia wants to reduce testing</li></ul></li><li><p><a href=/posts/japanese-need-at-least-30-ng-of-vitamin-d-test-costs-are-now-reimbursed>Japanese need at least 30 ng of Vitamin D, test costs are now reimbursed – Nov 2016</a></p><ul><li><p>Japan pays for all Vitamin D tests</p></li><li><p>Australia only pays if person already has a vitamin D deficiency health problem</p></li></ul></li></ul></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/aust-test-after-stop-paying.pdf>Download the PDF from VitaminDWiki</a></strong></p><h4 id=span-stylecolorf0040span-of-australians-who-had-to-pay-for-their-own-vitamin-d-test><span style=color:red>40%</span> of Australians who had to pay for their own Vitamin D test</h4><p>    (no medical reason/justification)   were found to have<span style=color:red>&lt;20 ng</span> of vitamin D in the winter</p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/less-than-20-ng.jpg alt=image width=600><h4 id=lots-of-vitamin-d-deficiency-far-from-the-equator>Lots of Vitamin D deficiency far from the equator</h4><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/vic-tas.jpg alt=image width=500><p><strong>Note: Melborne latitude = 38 degrees = San Francisco</strong></p><img src=https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/vic-tas-table.jpg alt=image width=700><p>Objectives To assess changes in the frequency of vitamin D testing and detection of moderate/severe vitamin D deficiency (&lt;30 nmol/L) among adults after the introduction of new Medicare Benefits Schedule (MBS) rebate criteria (November 2014), and their relationship to sociodemographic and clinical characteristics.</p><p>Design Dynamic (open) cohort study</p><p>Setting Primary care</p><p>Participants About 1.5 million ‘active’ patients aged 18+ years visiting a general practitioner and included in the National Prescribing Service Medicine Insight database.</p><p>Outcome measures The frequency of vitamin D testing (per 1000 consultations) and moderate/severe vitamin D deficiency (%) recorded between October 2013 and March 2016, stratified by the release of the new MBS criteria for rebate.</p><p>Results More patients were female (57.7%) and 30.2% were aged 60+ years. Vitamin D testing decreased 47% (from 40.3 to 21.4 tests per 1000 consultations) after the new MBS criteria, while the proportion of tests with no indication for being performed increased from 71.3% to 76.5%. The proportion of patients identified as moderate/severe vitamin D deficient among those tested increased from 5.4% to 6.5%. Practices located in high socioeconomic areas continued to have the highest rates of testing, but moderate/severe vitamin D deficiency detection remained 90% more frequent in practices from low socioeconomic areas after the rebate change. Furthermore, the frequency of individuals being tested was reduced independent of the patients’ sociodemographic or clinical condition, and the gap in the prevalence of vitamin D deficiency detection between those meeting or not meeting the criteria for being tested remained the same. Moderate/severe vitamin D deficiency detection decreased slightly among patients with hyperparathyroidism or chronic renal failure.</p><p>Conclusions Although the new criteria for rebate almost halved the frequency of vitamin D testing, it also lessened the frequency of testing among those at higher risk of deficiency, with only a small improvement in vitamin D deficiency detection.</p><h4 id=conclusions-from-pdf>Conclusions (from PDF)</h4><p>Although the new criteria for rebate almost halved the frequency of vitamin D testing, it also</p><ul><li><p>lessened the frequency of testing among those at highest risk of deficiency,</p></li><li><p>increased the proportion of tests with no indication for being performed, and</p></li><li><p>resulted in only a small improvement in the detection of vitamin D deficiency.</p></li></ul><p>Therefore, despite a marked reduction in healthcare(testing) costs,</p><p>the introduction of the new MBS criteria for rebate resulted in some <strong>unintended consequences</strong> : the changes</p><ul><li><p>did not improve the appropriateness of vitamin D testing,</p></li><li><p>did not provide additional benefits for those at a higher risk of vitamin D deficiency and</p></li><li><p>did not reduce health disparities in Australian general practice.</p></li></ul><p>Further studies could explore the ongoing, non-financial, health costs of these changes and develop practice, GP and patient-centric interventions to improve the appropriateness of vitamin D testing.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>Tests for Vitamin D</span>
+<span class=tag>vitamin d</span>
+<span class=tag>Vitamin D in Australia and New Zealand</span></div><div data-pagefind-meta=tags hidden>blood levels, Tests for Vitamin D, vitamin d, Vitamin D in Australia and New Zealand</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

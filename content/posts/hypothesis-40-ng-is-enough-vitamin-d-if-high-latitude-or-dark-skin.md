@@ -80,19 +80,19 @@
 
 * <a href="/posts/blacks-may-not-need-as-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1099">Blacks may not need as much Vitamin D</a> - many articles
 
-* <a href="/posts/blacks-and-whites-may-need-different-levels-of-vitamin-d-etc" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 952">Blacks and whites may need different levels of vitamin D etc – Sept 2010</a>
+* [Blacks and whites may need different levels of vitamin D etc – Sept 2010](/posts/blacks-and-whites-may-need-different-levels-of-vitamin-d-etc)
 
-* <a href="/posts/vitamin-d-blood-levels-vary-with-estimated-amount-of-african-ancestry" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 910">Vitamin D blood levels vary with estimated amount of African Ancestry – Sept 2010</a>
+* [Vitamin D blood levels vary with estimated amount of African Ancestry – Sept 2010](/posts/vitamin-d-blood-levels-vary-with-estimated-amount-of-african-ancestry)
 
 * [Improved blood flow in blacks with just 2000 IU of vitamin D – Feb 2011](/posts/improved-blood-flow-in-blacks-with-just-2000-iu-of-vitamin-d)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [All items in Category Far from equator ](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=63&sort_mode=created_desc)
 
 * [Dark skinned Caribbean seniors have enough vitamin D – April 2011](/posts/dark-skinned-caribbean-seniors-have-enough-vitamin-d)
 
-* <a href="/posts/vitamin-d-blood-levels-vary-with-estimated-amount-of-african-ancestry" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 910">Vitamin D blood levels vary with estimated amount of African Ancestry – Sept 2010</a>
+* [Vitamin D blood levels vary with estimated amount of African Ancestry – Sept 2010](/posts/vitamin-d-blood-levels-vary-with-estimated-amount-of-african-ancestry)
 
 * <a href="/posts/the-darker-the-skin-the-less-the-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 645">The darker the skin the less the vitamin D – July 2010</a>
 

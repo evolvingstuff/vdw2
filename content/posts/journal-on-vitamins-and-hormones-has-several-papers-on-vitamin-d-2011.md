@@ -161,7 +161,7 @@ Our understanding of vitamin D metabolism and biological effects has grown expon
 
 Copyright © 2011 Elsevier Inc. All rights reserved. PMID: 21419273 
 
- **See full study in VitaminDWiki <a href="/posts/vitamin-d-effects-on-lung-immunity-and-respiratory-diseases-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D effects on lung immunity and respiratory diseases – 2011">Vitamin D effects on lung immunity and respiratory diseases – 2011</a>** 
+ **See full study in VitaminDWiki [Vitamin D effects on lung immunity and respiratory diseases – 2011](/posts/vitamin-d-effects-on-lung-immunity-and-respiratory-diseases-2011)** 
 
 ---
 

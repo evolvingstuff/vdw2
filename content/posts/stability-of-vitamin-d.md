@@ -25,6 +25,6 @@ One publication, from USAID, had the following graph of stability of many differ
 
 publication is attached to the bottom of this page - unknown date of publication
 
-{IMG(attId="536")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/stability-of-vitamins.jpg" alt="image">
 
 ## It appears that you can extend the nominal shelf life by keeping vitamin D away from bright light and cool

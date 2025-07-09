@@ -1,0 +1,292 @@
+{
+    "title": "Vitamin D and fertility \u2013 Lerchbaum 2012, 2014",
+    "slug": "vitamin-d-and-fertility-lerchbaum-2012-2014",
+    "aliases": [
+        "/Vitamin+D+and+fertility+\u2013+Lerchbaum+2012+2014",
+        "/6482"
+    ],
+    "tiki_page_id": 6482,
+    "date": "2015-05-03",
+    "categories": [
+        "Pregnancy",
+        "Fertility and sperm"
+    ],
+    "tags": [
+        "CYPB",
+        "CYPR",
+        "Fertility and sperm",
+        "PCOS",
+        "Pregnancy",
+        "acne",
+        "alcohol",
+        "asthma",
+        "asthma receptor",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "brain",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "cholesterol",
+        "cognitive",
+        "depression",
+        "depression and pregnancy",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "endometriosis",
+        "falls fractures",
+        "fertility sperm",
+        "genetics",
+        "gestational diabetes",
+        "hair",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "in vitro fertilization",
+        "intervention",
+        "life span",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mood disorders",
+        "mortality",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "pediatric autoimmune",
+        "placenta",
+        "preeclampsia",
+        "pregnancy",
+        "rickets",
+        "smoking",
+        "statins",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+The 2012 study was referenced by the book  **[Mommy, Me & Vitamin D](http://smile.amazon.com/Mommy-Me-Vitamin-Eugene-Heyden/dp/0982827636/ref=sr_1_2?ie=UTF8&qid=1430676754&sr=8-2&keywords=mommy%2Cme+and+vitamin+d)**  - Heyden 2014
+
+{{< toc >}}
+
+## Vitamin D and fertility: a systematic review – May 2012
+
+Eur J Endocrinol May 1, 2012 166 765-778 
+
+Elisabeth Lerchbaum elisabeth.lerchbaum@medunigraz.at  and Barbara Obermayer-Pietsch
+
+Division of Endocrinology and Metabolism,
+
+Department of Internal Medicine, Medical University of Graz, Auenbruggerplatz 15, 8036 Graz, Austria
+
+### Abstract
+
+Background Vitamin D has been well-known for its function in maintaining calcium and phosphorus homeostasis and promoting bone mineralization. There is some evidence that in addition to sex steroid hormones, the classic regulators of human reproduction, vitamin D also modulates reproductive processes in women and men.
+
+Aim The aim of this review was to assess the studies that evaluated the relationship between vitamin D and fertility in women and men as well as in animals.
+
+Methods We performed a systematic literature search in Pubmed for relevant English language publications published until October 2011.
+
+Results and discussion The vitamin D receptor (VDR) and vitamin D metabolizing enzymes are found in reproductive tissues of women and men. Vdr knockout mice have significant gonadal insufficiency, decreased sperm count and motility, and histological abnormalities of testis, ovary and uterus. Moreover, we present evidence that vitamin D is involved in female reproduction including IVF outcome (clinical pregnancy rates) and polycystic ovary syndrome (PCOS). In PCOS women, low 25-hydroxyvitamin D (25(OH)D) levels are associated with obesity, metabolic, and endocrine disturbances and vitamin D supplementation might improve menstrual frequency and metabolic disturbances in those women. Moreover, vitamin D might influence steroidogenesis of sex hormones (estradiol and progesterone) in healthy women and high 25(OH)D levels might be associated with endometriosis. In men, vitamin D is positively associated with semen quality and androgen status. Moreover, vitamin D treatment might increase testosterone levels. Testiculopathic men show low CYP21R expression, low 25(OH)D levels, and osteoporosis despite normal testosterone levels.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-and-fertility-2012.pdf">Download the PDF from VitaminDWiki</a>** 
+
+### Introduction
+
+Vitamin D has been well-known for its function in maintaining calcium and phosphorus homeostasis and promoting bone mineralization (1). Mounting evidence suggests that hypovitaminosis D is linked to an increased risk for cancer (2), autoimmune diseases, diabetes, and cardiovascular diseases (1, 2, 3), indicating the importance of sufficient vitamin D levels. There is some evidence that in addition to sex steroid hormones, the classic regulators of reproduction, vitamin D also modulates reproductive processes in women and men.
+
+Infertility is a complex disorder with significant medical, psychosocial, and economic aspects (4), which affects about 15% of couples (5). One major cause of female infertility is polycystic ovary syndrome (PCOS). Women affected by PCOS frequently suffer from oligo- or anovulation as well as obesity and insulin resistance. Population-based studies found that in 30–40% of infertile couples the underlying cause is the male factor (6). In this context it should be mentioned that the overall semen quality of men is decreasing, which might partly be explained by environmental factors (7). Indeed, as much as 20% of young men have sperm concentration below the WHO recommendation level and 40% present with sperm concentrations below a level that is considered optimal for fertility (8). Moreover, many adverse aspects of male aging have been attributed to the decrease in testosterone levels (9) and some evidence suggests an association of androgen and vitamin D metabolism (10, 11).
+
+The focus of this review is the examination of research evidence relating to vitamin D status and fertility as well as endocrine disturbances in women including IVF outcome, PCOS, and endometriosis as well as androgen levels and semen quality in men. Due to the relative paucity of data obtained from humans, this review includes discussion of animal data on the role of vitamin D in reproduction. The role of vitamin D in pregnancy, the perinatal period, and lactation has been comprehensively reviewed elsewhere (12, 13) and is not included in detail here.
+
+We performed a systematic literature search in Pubmed for relevant English language publications published until October 2011. We used the following search terms: ‘vitamin D’ and ‘fertility’, ‘vitamin D’ and ‘reproduction’, ‘vitamin D’ and ‘PCOS’. In addition, we also used the search terms ‘25-hydroxyvitamin D (25(OH)D)’, ‘1,25-dihydroxyvitamin D’, and ‘calcitriol’ instead of vitamin D. We also used listed references from selected articles to expand the search.
+
+### Vitamin D metabolism
+
+Vitamin D is a steroid hormone. The vitamin D precursor 7-dehydrocholesterol is a normal intermediary in the cholesterol pathway and is present in the skin (1). u.v.-B radiation induces the conversion of 7-dehydrocholesterol to provitamin D3, which spontaneously isomerizes to cholecalciferol (vitamin D3) (1). Vitamin D3 is released into circulation and transported by the vitamin D-binding protein (VDBP). Approximately 80–90% derives from sunlight-induced production in the skin. A small amount of the body's total vitamin D is also derived from diet and/or supplements. This may derive from plants or fungi containing ergolcalciferol (vitamin D2) or fatty fish or cod-liver oil containing vitamin D3 (1). Vitamin D from the skin and diet is metabolized in the liver by the enzyme 25-hydroxylase (encoded by CYP2R1) to 25(OH)D, which is used to determine a patient's vitamin D status into vitamin D sufficient (25(OH)D ≥30 ng/ml; multiply by 2.496 to convert nanograms per milliliter to nanomoles per liter), vitamin D insufficient (25(OH)D 20–29 ng/ml), and vitamin D deficient (25(OH)D <20 ng/ml) (1). However, the 2011 report from the Institute of Medicine (IOM) recommends a 25(OH)D level of at least 20 ng/ml (50 nmol/l) based on positive vitamin D effects on bone health (14). 25(OH)D is metabolized in the kidneys by the enzyme 1α-hydroxylase to its active form, 1,25-dihydroxyvitamin D3 (1,25(OH)2D3). The enzyme 1α-hydroxylase is also found in many other tissues allowing the local conversion of 25(OH)D to the active 1,25(OH)2D3 (1).
+
+Biological actions of vitamin D are mediated through the vitamin D receptor (VDR) that is distributed across various tissues including skeleton and parathyroid glands as well as reproductive tissues (1, 15) (see Fig. 1a for classical vitamin D effects). Vitamin D binds to the nuclear VDR, which then heterodimerizes with the retinoid X receptor. This in turn binds to the vitamin D responsive element located in the promoter regions of the target genes (16). The VDR interacts with other transcription factors such as coactivator proteins and transcription integrators such as calcium-binding proteins (17). This genomic pathway leading to changes in gene transcription takes hours to days (18). Another pathway is the interaction with a cell surface receptor and second messengers, leading to a more rapid response taking seconds to minutes (1, 18). Catabolization of 1,25(OH)2D3 and 25(OH)D to biologically inactive calcitroic acid is catalyzed by 24-hydroxylase (1).
+
+#### Figure 1 Vitamin D Effects
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/fer-f1a.jpg" alt="image" width="400">
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/fer-f1b.jpg" alt="image" width="400">
+
+(a) Classical vitamin D effects.
+
+(b) Nonclassical vitamin D effects on various tissues (related to human fertility). 1,25(OH)2D3, 1,25-dihydroxyvitamin D3.
+
+### VDR expression in reproductive tissues
+
+ **Females** 
+
+The VDR is distributed across various tissues suggesting an active role of vitamin D in those tissues (see also Fig. 1b for nonclassical vitamin D effects). In women, VDR mRNA has been shown to be expressed in the ovaries (19), in mixed ovarian cells, and in purified granulosa cell cultures indicating a role in steroidogenesis of sex hormones (20). Likewise, the human placenta expresses CYP27B1 (encoding 1α-hydroxylase) and VDR (21, 22). Moreover, VDR has been found in the human pituitary gland (23) as well as in human endometrium (19). Viganò et al. (24) demonstrated by the measurement of 1,25(OH)2D3 levels in the supernatant of endometrial cells treated with vitamin D that endometrium is capable of extrarenal synthesis of the active form of vitamin D. The authors also showed that the active form of the 1α-hydroxylase gene was expressed in human endometrial stromal cells independent of the cycle phase but with a significant increase in early pregnant decidua (24).
+
+ **Males** 
+
+In the genital tract of male rodents, VDR has been found in the smooth muscles of the epididymis, spermatogonia, and Sertoli cells, indicating a role of vitamin D in spermatogenesis and sperm maturation in rats (25, 26). Moreover, the VDR was detected in human testicular tissue homogenates using titrated vitamin D (27). More recently, the VDR was detected in human sperm, with binding sites in the nucleus and the mid-piece of the sperm (28). An ultrastructural localization of VDR in human sperm showed that the VDR is largely located in the sperm nucleus (29). Recently, it was reported that VDR and vitamin D metabolizing enzymes are concomitantly expressed in spermatids, vesicles within the caput epididymis, and glandular epithelium of cauda epididymis, seminal vesicle, and prostate (30).
+
+ **Females** 
+
+Vitamin D has a biologically plausible role in female reproduction. In human ovarian tissue, 1,25(OH)2D3 stimulated progesterone production by 13%, estradiol production by 9%, and estrone production by 21% (20). Likewise, it was demonstrated in a choriocarcinoma cell line that P450 aromatase activity (catalyzing the biosynthesis of estrogens) and expression are stimulated by calcitriol and that an atypical vitamin D response element is located in CYP19 (CYP19A1) (encoding P450 aromatase) promoter (31). 1,25(OH)2D3 regulates human chorionic gonadotropin expression and secretion in human syncytiotrophoblasts (32) and increases placental sex steroid production (33). Previous studies have demonstrated that calcitriol promotes calcium transport in the placenta (34), stimulates placenta lactogen expression (35), and regulates HOXA10 expression in human endometrial stroma cells (36). HOXA10 expression is important for the development of the uterus and essential for endometrial development, allowing uterine receptivity to implantation (37).
+
+ **Males** 
+
+The specific mechanisms by which vitamin D influences male reproduction remain unclear. Recently, it has been shown that vitamin D treatment upregulates certain testis-specific genes in mouse testis (38), whereby 19 out of 2483 testis-specific genes showed upregulation by 1,25(OH)2D3 treatment. Of these genes, the regulator of cellular cholesterol homeostasis ATP-binding cassette transporter 1 (ABCA1) was expressed mainly in Sertoli cells and might influence male fertility. Abca1 knockout mice have significantly reduced intratesticular testosterone levels as well as reduced sperm counts compared with wild-type animals (39). Absence of Abca1 results in depletion of lipids, including HDL-C from Leydig cells, and HDL-C is the primary source of cholesterol for steroidogenic tissues. Thus, Leydig cell function is partially compromised in the absence of Abca1 resulting in less testosterone production and fewer spermatozoa generation in Abca1 knockout mice (39).
+
+Moreover, Zanatta et al. (40) reported that 1,25(OH)2D3 triggers plasma membrane-initiated actions by modulating calcium uptake and by altering gamma-glutamyl transpeptidase (GGTP) activity in immature rat testis. GGTP is involved in the synthesis of specific proteins known to be secreted by Sertoli cells. For more details, the genomic and nongenomic vitamin D effects on rat testis have been reviewed elsewhere (41).
+
+It has been shown that testosterone downregulates the VDR in testis cells (42). In cultured human osteoblasts, androgens increase 1α-hydroxylase, a key enzyme in vitamin D metabolism which converts 25(OH)D to the biologically more active form 1,25(OH)2D (43).
+
+In rats, vitamin D showed a potent stimulatory effect on amino acid accumulation in 11-day old rat testis that can be blocked by cycloheximide. The authors' conclusion from this study was that vitamin D plays an important role in the testis by genomic effects that can be triggered by protein kinase A as well as by rapid responses involving Ca2+/K+ channels on the plasma membrane (44). In addition, Akerstrom & Walters (45) showed an increased calcium uptake in TM4 Sertoli cells shared by a nuclear receptor activity mediated through 1,25(OH)2D3, indicating that vitamin D influences testis function via dual response pathways.
+
+In a study investigating human sperms at the molecular level, 1,25(OH)2D3 has an effect on cholesterol efflux, protein phosphorylation, and increased sperm survival (29). Thus, vitamin D might play an important role in the extratesticular maturation of sperm by influencing capacitation and might modulate sperm survival. More recently, Aquila et al. (46) demonstrated that 1,25(OH)2D3 through VDR increased intracellular Ca2+ levels, motility, and acrosin activity revealing an effect of vitamin D in the acquisition of fertilizing ability in human sperm. Moreover, 1,25(OH)2D3 reduces triglyceride content concomitantly to the increase of lipase activity (46) through the VDR. The authors speculate that lipid metabolism increases to meet the energetic demands during the process of capacitation by reducing energy storage and increasing energy expenditure.
+
+### Vitamin D and fertility in animal studies
+
+In the following, we summarize evidence on the effect of vitamin D status on reproductive outcomes in animals.
+
+With respect to the important role of vitamin D in calcium metabolism, it should be mentioned that animal investigations have established a role of calcium in oocyte activation and maturation, resulting in the resumption and progression of follicular development (47). Results from an in vivo study showed that 1,25(OH)2D3 significantly increases uterine weight and induces decidual reaction (48), suggesting a physiological role in endometrial cell differentiation into decidual cells, a crucial step in the process of blastocyst implantation. However, very high doses of 1,25(OH)2D3 result in a reduced corpus luteum, reduced progesterone, and alterations in the estrous cycle in rats (49). In diabetic rats, 1,25(OH)2D3 treatment has a protective effect on alloxan-induced damage in the reproductive system by enhancing testosterone and 17β-estradiol levels, consequently protecting from oxidative stress, cellular toxicity, and maintaining the number and motility of spermatozoids (50).
+
+### Vitamin D-deficient animals
+
+ **Female rats** 
+
+It has been shown that vitamin D deficiency reduces mating success and fertility in female rats. In detail, female rats fed a vitamin D-deficient diet are capable of reproduction, but overall fertility is reduced including the probability of impregnation as well as an increased risk of pregnancy complications. This is not corrected by normalizing the hypocalcemia in vitamin D-deficient female rats, but requires 1,25(OH)2D3 (51).
+
+ **Male rats** 
+
+In vitamin D-deficient male rats, it has been shown that although capable of reproducing, animals have a 45% reduction in successful matings as well as a decreased overall fertility rate that is reduced by 73% when compared with controls (52). The testes of vitamin D-deficient rats showed incomplete spermatogenesis and degenerative changes (53). Uhland et al. (54) demonstrated that the replacement of calcium alone in vitamin D-depleted animals was enough to restore fertility in male rats.
+
+ **Vdr and 1α-hydroxylase knockout animals** 
+
+The development of Vdr and 1α-hydroxylase knockout animals contributed much to the current knowledge about vitamin D and its role in reproductive function. With respect to steroidogenesis of sex hormones, in Vdr knockout mice, the aromatase activity in the ovary, testis, and epididymis is 24, 58, and 35% of the wild-type values respectively, and the gene expression of aromatase is also reduced. Moreover, elevated LH and FSH levels indicate hypergonadotropic hypogonadism. Supplementation of estradiol normalizes histological abnormality in the male and female gonads, whereas calcium supplementation increases aromatase activity and partially corrects hypogonadism (15). Interestingly, estrogen supplementation increased the uterine weight of female Vdr knockout mice indicating that vitamin D plays an important role in estrogen production in the ovary (55).
+
+Both Vdr and 1α-hydroxylase knockout female mice conceive infrequently, have significantly fewer viable fetuses in utero that are also of lower body weight, and present with uterine hypoplasia, impaired folliculogenesis, anovulation, and absent corpora lutea (36, 55, 56, 57). In Vdr null mutant mice, feeding high calcium diets partly restores fertility (15, 56, 58) and increases the rate of conception but does not normalize the number or weight of viable fetuses. Thus, not only the lack of a direct effect of 1,25(OH)2D3 on reproductive function causes infertility, but also hypocalcemia has a role to play. Likewise, 1α-hydroxylase knockout female mice develop infertility accompanied by decreased estrogen and progesterone levels, elevated FSH and LH levels, defects in follicular development and corpus luteum formation as well as uterine hypoplasia (59). Again, the defective reproductive phenotype was normalized when the mice were fed a rescue diet (containing high calcium, phosphate, and lactose). The authors concluded that the infertility seen in 1,25(OH)2D3-deficient mice is not a direct effect of active vitamin D deficiency on the reproductive system but rather an indirect effect mediated by extracellular calcium and phosphorus.
+
+In male animals, Vdr null mutant mice present with significant gonadal insufficiency, with decreased sperm count and motility, and histological abnormalities of the testis (15). Interestingly, the reproductive organs of male 1α-hydroxylase null mutant mice appeared grossly normal (57).
+
+### Vitamin D and fertility in humans
+
+Correlations between season and light with reproduction have been extensively investigated. Whereas nearly all focus on effects of visible light through retinohypothalamic connections or through melatonin secreted during the absence of visible light, the role of vitamin D in the explanation has been hardly recognized. Indeed, several studies suggest an association of vitamin D with fertility in humans.
+
+Serum levels of 25(OH)D show a seasonal variation with high levels in summer and autumn and lower levels in winter and spring. In northern countries, where a strong seasonal contrast in luminosity exists, the conception rate is decreased during the dark winter months, whereas a peak in conception rate during summer leading to a maximum in birth rate in spring has been observed (60). Moreover, ovulation rates and endometrial receptivity seem to be reduced during long dark winters in northern countries (61). There are several possible explanations for these findings including altered hypothalamic–pituitary axis, brain neurotransmitters such as serotonin, dopamine, and endogenous opioids (60). Melatonin has long been investigated for this purpose with no direct effects. However, this fact might also be partly explained by the seasonal variation of vitamin D levels, which might influence several pathways including altered endometrial development and altered oocyte development.
+
+### Women
+
+There is evidence that vitamin D exerts some effects on female reproduction including IVF outcome, PCOS, and endometriosis as well as on steroidogenesis in healthy women (see also Fig. 2). We discuss these vitamin D effects in the following section.
+
+#### Figure 2: The proposed associations of vitamin D status with female reproduction.
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/fer-f2.jpg" alt="image">
+
+ **IVF** 
+
+Studies investigating the association of vitamin D status with IVF outcome revealed inconsistent results. In a study among 84 infertile women undergoing IVF, women with higher levels of 25(OH)D in serum and follicular fluid were significantly more likely to achieve clinical pregnancy following IVF, and high vitamin D levels were significantly associated with improved parameters of controlled ovarian hyperstimulation (62). In contrast, Aleyasin et al. (63) found no significant associations of 25(OH)D levels in serum and follicular fluid with IVF outcomes in a study including 82 infertile women undergoing assisted reproductive technology. Anifandis et al. (64) investigated 101 consecutive women who underwent 101 IVF–intracytoplasmatic sperm injection (ICSI) ovarian stimulation cycles. In this study, women with a sufficient vitamin D status (25(OH)D >30 ng/ml in follicular fluid) had a lower quality of embryos and were less likely to achieve clinical pregnancy when compared with women with insufficient (follicular fluid 25(OH)D 20.1–30 ng/ml) or deficient vitamin D status (follicular fluid 25(OH)D <20 ng/ml). Altogether, to date, there is insufficient data to accurately evaluate the effects of vitamin D in women undergoing IVF.
+
+ **Polycystic ovary syndrome** 
+
+PCOS is the most common female endocrine disorder with a prevalence of ∼5–10% in women of reproductive age (65, 66, 67). PCOS is characterized by increased ovarian and adrenal androgen secretion, hyperandrogenic symptoms such as hirsutism, acne and/or alopecia, menstrual irregularity, and polycystic ovaries. In addition, insulin resistance is common in PCOS women (68), who are therefore at an increased risk of type 2 diabetes (69). Overall, PCOS is the most common cause of anovulatory infertility in women.
+
+There is some evidence suggesting that vitamin D deficiency might be involved in the pathogenesis of insulin resistance and the metabolic syndrome in PCOS (70, 71), whether vitamin D is also related to endocrine parameters and fertility in PCOS is less clear. There are, however, several studies (70, 72, 73) correlating low 25(OH)D status with features of PCOS. In detail, in a study among 100 women with PCOS from Turkey, the authors observed a correlation of 25(OH)D levels with testosterone and DHEAS levels and the LH/FSH ratio (72). In contrast, in a study among 120 PCOS patients, Hahn et al. (73) found an association of 25(OH)D levels with free androgen index and SHBG but not with total testosterone, androstenedione, DHEAS, estradiol, or LH/FSH ratio. Of note, no adjustments for obesity or BMI were performed in that study (73). Another study among 206 women with PCOS revealed similar results showing an association of vitamin D with SHBG and hirsutism score but not with testosterone and free testosterone (70); the association of vitamin D with hirsutism score remained significant after adjusting for BMI but was attenuated when analyzing SHBG. Moreover, vitamin D deficiency was (BMI) independently associated with low insulin sensitivity assessed by quantitative insulin sensitivity check index in a study including 27 PCOS and 20 control women (71). In addition, vitamin D deficiency was found to be more common in PCOS women than in controls in an Iranian cohort including 85 PCOS and 115 control women (74), as well as in a smaller observational study including 52 women (25 PCOS women and 27 controls) from Edinburgh (75). In the latter study, controls had a significantly lower BMI than PCOS women, which might explain the differences in 25(OH)D levels between PCOS and control women. However, the authors found that vitamin D deficiency was independently associated with lower insulin sensitivity and lower HDL-C levels (independent of BMI and waist-to-hip ratio) (75). Moreover, Panidis et al. (76) found an inverse association of 25(OH)D with obesity as well as a BMI-dependent association with insulin resistance in a cohort of 291 PCOS and 109 control women. In contrast, vitamin D intake was not associated with reported anovulatory infertility in the Nurses' Health Study II, a study prospectively following 18 555 married, premenopausal women without a history of infertility who attempted a pregnancy or became pregnant during an 8-year period, but there was no data on actual 25(OH)D levels (77).
+
+The mechanisms underlying the association of low 25(OH)D levels and insulin resistance are not fully understood. As obesity is related to insulin resistance in PCOS (68) as well as in healthy subjects, the association of obesity with vitamin D deficiency deserves further discussion. So far, it is not clear whether vitamin D insufficiency results from obesity and/or if obesity is a consequence of vitamin D insufficiency. On the one hand, obesity may contribute to low circulating vitamin D levels by trapping vitamin D in fat tissues. Wortsman et al. (78) demonstrated that the increase of 25(OH)D levels 24 h after whole-body u.v.-light exposure was 57% lower in obese than in nonobese subjects. On the other hand, obese patients may avoid sunlight, which is necessary for the synthesis of vitamin D in the skin (79). This might be especially the case in hirsute PCOS women, who might tend to hide from the public due to their appearance.
+
+There is evidence that low vitamin D levels are associated with obesity (73) and vice versa low vitamin D intake might be an independent predictor of obesity (80). The association of low vitamin D levels with insulin resistance might at least in part be mediated by obesity. Of note, some studies reported an association of low vitamin D status with insulin resistance only in obese PCOS women (72, 73, 76). Moreover, 25(OH)D levels have been reported to be lower in obese PCOS women when compared with normal weight PCOS women (73, 74, 76). Thus, proper studies should account for the role of obesity when investigating the association of vitamin D with insulin resistance.
+
+There are, however, mechanisms beyond obesity that might explain the association of vitamin D deficiency with insulin resistance. First, vitamin D may have a beneficial effect on insulin action by stimulating the expression of insulin receptors and thereby enhancing insulin responsiveness for glucose transport (81). The vitamin D responsive element is present in the promoter of the human insulin gene (82) and the transcription of the human insulin gene is activated by 1,25(OH)2D3 (83). Second, vitamin D regulates extracellular and intracellular calcium which is essential for insulin-mediated intracellular processes in insulin-responsive tissues such as skeletal muscle and adipose tissue (81). Moreover, alterations in calcium flux can have adverse effects on insulin secretion, which is a calcium-dependent process (84). Finally, as vitamin D has a modulating effect on the immune system (85), hypovitaminosis D might induce a higher inflammatory response, which is again associated with insulin resistance (86).
+
+The use of statins in PCOS might improve not only lipids but also hyperandrogenemia (87). Interestingly, it has been shown in a randomized controlled trial (RCT) in 40 PCOS patients that 12-week treatment with atorvastatin at a dose of 20 mg daily resulted in a significant increase in serum 25(OH)D concentrations that was independent of the lipid-lowering effect of atorvastatin (88). Moreover, there was a significant correlation between the increases in 25(OH)D concentrations and the reduction of high-sensitive C-reactive protein.
+
+The notion that vitamin D is involved in metabolic and endocrine parameters in PCOS is supported by the fact that the VDR regulates more than 3% of the human genome, including genes that are crucial for glucose metabolism (1, 81). In this context it has been shown that VDR-related polymorphisms (Cdx2, Bsm-I, Fok-I, Apa-I, and Taq-I) are related to vitamin D metabolism and might contribute to PCOS susceptibility (89). In detail, Mahmoudi (89) found an association of VDR Apa-I polymorphism with PCOS susceptibility in a cohort including 162 PCOS and 162 control women from Tehran.
+
+In an Austrian cohort including 545 PCOS and 145 control women, the authors found an association of VDR Cdx2 with insulin metabolism whereas the VDR Apa-I variant was associated with hyperandrogenemia (90). No association was found between VDR-related polymorphisms and PCOS susceptibility. Moreover, a smaller study including 56 PCOS women from Iran found an association of VDR Taq-I with elevated serum levels of LH as well as associations between decreased levels of SHBG and VDR Bsm-I (91). Recently, results from a genome-wide association study of 25(OH)D levels in 33 996 individuals of European descent from 15 cohorts established a role for common genetic variants in the regulation of 25(OH)D levels (92). Variants near genes involved in cholesterol synthesis (DHCR7), hydroxylation (CYP2R1), and vitamin D transport (GC) have been shown to affect vitamin D status, which has also been shown in PCOS women (90).
+
+The evidence on the effects of vitamin D supplementation in PCOS women is sparse. There are, however, some small intervention trials showing promising results. In a small-scale intervention study including 13 premenopausal women with chronic anovulation and hyperandrogenism, vitamin D repletion with ergocalciferol 50 000 U weekly or biweekly combined with administration of 1500 mg calcium daily resulted in normalization of menstrual cycles in seven women and two became pregnant (93). In addition, clinical improvements of acne vulgaris were observed in all three women affected by this condition (93). Of note, it is not possible to distinguish between calcium and vitamin D effects in that study. In contrast, in a pilot study among 13 obese women with PCOS, the administration of the single dose of 300 000 U vitamin D3 orally did not significantly change BMI or the levels of DHEAS, total testosterone, free testosterone, and androstenedione levels but had a beneficial impact on insulin resistance assessed by homeostasis model assessment index (94). Similarly, in a small study including 15 obese PCOS women treated with 1 μg αcalcidol daily over 3 months, vitamin D treatment improved insulin secretion and had a beneficial effect on lipid status whereas BMI did not significantly change (95). In another study including 57 women who received 50 000 IU vitamin D3 weekly over 24 weeks, vitamin D supplementation resulted in improved glucose metabolism as well in an improvement of menstrual frequency without a significant change of BMI (96). Likewise, in a study among 60 infertile PCOS women, metformin treatment combined with calcium and vitamin D supplementation resulted in a higher number of dominant follicles when compared with metformin alone and placebo, which might indicate a beneficial effect on fertility (97). Although these are very promising data derived from uncontrolled intervention studies, to date, there is no RCT to evaluate the effects of vitamin D treatment on endocrine and metabolic parameters in PCOS women. Considering the association of vitamin D deficiency with insulin resistance and type 2 diabetes in PCOS as well as in other cohorts (1, 81) and the association of poor vitamin D status with cardiovascular disease and fatal events (3), further research including large RCTs are highly warranted in this high-risk cohort. Moreover, the association of 25(OH)D levels with metabolic and endocrine parameters in PCOS women as well as the promising results from intervention studies in PCOS women might lead to a recommendation for measuring 25(OH)D and for vitamin D supplementation to improve fertility as well as metabolic disturbances.
+
+ **Healthy women** 
+
+Evidence on the effects of vitamin D on fertility in healthy women is sparse. A study among 101 young volunteer women showed an inverse association between 25(OH)D levels and progesterone as well as estradiol (98). Likewise, in a study among 37 young volunteer women, four weekly doses of 28 000 IU vitamin D3 resulted in a small decrease in estradiol and progesterone levels, although neither change reached significance (98). As high 25(OH)D levels are associated with a reduced risk for breast cancer (99), the potential lowering effect of vitamin D on estradiol and progesterone levels might partly explain this association and deserves further investigation.
+
+ **Endometriosis** 
+
+The pathogenesis of endometriosis is related to an impairment of immunologic mechanisms and inflammatory responses. Evidence on the association of endometriosis with vitamin D metabolism is sparse, but there are two points in favor for an association: i) it has been shown that the VDR and 1α-hydroxylase are expressed in the endometrium (24), suggesting that endometrium is an extrarenal site of vitamin D synthesis and vitamin D action; and ii) vitamin D is involved in the regulation of the immune system (1). Given that vitamin D is an effective regulator of the immune system and endometriosis has been shown to be associated with significant immune derangements, one might speculate about an influence of vitamin D in the local immune suppression and development of endometriosis. Of note, Agic et al. (19) found a significantly higher VDR and 1α-hydroxylase expression in the endometrium of women with endometriosis compared with healthy controls, which was also demonstrated at the protein level. However, 25(OH)D levels were similar in cases and controls. In a study among 87 women with endometriosis and 53 controls, Somigliana et al. (100) observed an association of high 25(OH)D levels with a significantly increased risk for endometriosis as well as a biological gradient showing higher levels of 25(OH)D in women with advanced stages of the disease. In contrast, in a study among 42 women with endometriosis and 113 control women, Hartwell et al. (101) found significantly higher 1,25(OH)D levels in women with endometriosis, whereas 25(OH)D levels were similar in both groups. More recently, Vilarino et al. (102) investigated the association of VDR polymorphisms with endometriosis and infertility in a cross-sectional study including 132 women with endometriosis-related infertility, 62 women with idiopathic infertility, and 133 controls. The authors found no association of VDR polymorphisms with endometriosis or infertility. In addition to 25(OH)D levels, VDBP was also found to be associated with endometriosis. Faserl et al. (103) found that the abundance of VDBP was higher in all endometriosis pools by a factor of ∼3 compared with the control pool. Moreover, a polymorphism in the VDBP (GC-2) might be involved in the pathogenesis of endometriosis. Borkowski et al. (104) compared total concentrations of VDBP in serum and peritoneal fluid of women with and without endometriosis and found no differences. Another study investigating VDBP reported that one isoform of VDBP was significantly lower in the peritoneal fluid, but not in plasma, of women with endometriosis compared with controls (105).
+
+### Men
+
+In men, vitamin D status might be related to spermatogenesis, semen quality, and testiculopathies as well as male hypogonadism (see also Fig. 3).
+
+#### Figure 3: The proposed associations of vitamin D deficiency with male reproduction.
+
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/fer-f3.jpg" alt="image">
+
+ **Semen and testiculopathy** 
+
+There is ample evidence showing that calcium is important in the male reproductive tract, where it is essential for spermatogenesis, sperm motility, hyperactivation, and acrosome reaction (106). However, the role of vitamin D, which is known as an important regulator of calcium metabolism, in semen quality and spermatogenesis is less clear and was the focus of several studies conducted in recent years. In detail, Blomberg Jensen et al. (107) studied the association of semen quality and vitamin D status in a cross-sectional study including 300 men from the general population. The authors found a positive correlation of 25(OH)D serum levels with sperm motility and progressive motility. Moreover, men with vitamin D deficiency (<10 ng/ml) had a lower proportion of motile, progressive motile, and morphologically normal spermatozoa compared with men with sufficient vitamin D status (>30 ng/ml). In addition to the cross-sectional analysis, Blomberg Jensen et al. (107) investigated the effect of 1,25(OH)2D3 on human sperm in vitro and found that 1,25(OH)2D3 increased intracellular calcium concentration in human spermatozoa through VDR-mediated calcium release from an intracellular calcium storage, increased sperm motility, and induced the acrosome reaction in vitro. In contrast, another study investigating the association of vitamin D status with semen quality in 307 young healthy men found a trend toward an association of high vitamin D levels with lower total sperm count and percentage of normal morphology sperm (108). However, those trends totally disappeared in the multivariate model adjusting for season, history of diseases of the reproductive organs, smoking of the young men, maternal smoking during pregnancy, maternal alcohol during pregnancy, abstinence time, and spillage during collection of the sample.
+
+Moreover, Foresta et al. (109) examined CYP2R1 (encoding 25-hydroxylase) expression in 57 patients with testiculopathy (Sertoli cell only syndrome or severe hypospermatogenesis) and 41 controls. The authors found a significantly lower CYP2R1 gene and protein expression as well as significantly lower serum 25(OH)D levels in men with testiculopathy when compared with control subjects. Interestingly, testiculopathic patients showed osteopenia and osteoporosis including increased-bone marker levels and altered bone mineral density despite normal testosterone levels compared with controls. While there is some evidence from observational studies showing an association of vitamin D with semen quality, to date, there is no data from RCTs investigating the effects of vitamin D treatment on semen quality. However, in a phase II, randomized, double-blind, placebo-controlled trial, elocalcitol, a synthetic derivate of vitamin D3, was administered for 3 months to 121 male patients with chronic prostatitis/chronic pelvic pain syndrome. Treatment with elocalcitol significantly reduced levels of IL8 in semen, suggesting an improved semen quality and forward motility of sperm (110). Unfortunately, further developments of elocalcitol, primarily designed for treatment of benign prostatic hyperplasia and overactive bladder, were terminated due to disappointing results regarding irritative urinary symptoms.
+
+However, the discovery that 1,25(OH)2D3 influences sperm function may be useful for the development of novel therapeutic approaches to the treatment of male reproductive disorders.
+
+ **Testosterone** 
+
+Low levels of vitamin D and androgens are both associated with increased mortality in men (3, 111, 112). Considering the fact that both low vitamin D and low testosterone levels are associated with obesity (1, 113), obesity might be a confounding factor when analyzing the association of low vitamin D or androgen status with mortality. However, in the above-mentioned studies (3, 111, 112), the association of vitamin D and androgens with increased mortality remained significant after adjustment for BMI. Interestingly, accumulating evidence exists for a complex interplay of vitamin D and androgen metabolism. It has been shown that androgens increase 1α-hydroxylase (43). Furthermore, it was demonstrated that the regulation of gene expression by vitamin D metabolites is modified according to androgen levels (114). These data may suggest that androgen deficiency could hypothetically amplify the adverse health consequences of vitamin D deficiency.
+
+Among 2299 men referred for coronary angiography, androgen levels and 25(OH)D level were independently associated and revealed a concordant seasonal variation (10). Likewise, results from the European Male Aging Study (EMAS) suggest an independent association of vitamin D status with compensated as well as secondary hypogonadism (115). Moreover, previous data indicate that vitamin D therapy might increase testosterone levels (11) by yet largely unclear mechanisms. In detail, men undergoing a weight reduction program received either 83 μg (3332 IU) vitamin D daily for 1 year (n=31) or placebo (n=23). Compared with baseline values, a significant increase in total testosterone levels, bioactive testosterone, and free testosterone levels was observed in the vitamin D supplemented group. By contrast, there was no significant change in androgen levels in the placebo group. In view of the clinical significance of low testosterone and 25(OH)D levels we want to stress that further studies are needed to investigate the impact of vitamin D supplementation on androgen status in men and to evaluate the effect of testosterone replacement in men with respect to vitamin D status.
+
+### Pregnancy
+
+The role of vitamin D is reviewed in detail elsewhere (13). In brief, it is well-known that vitamin D deficiency is prevalent among pregnant women (116) and pregnant women have significantly lower levels of 25(OH)D than nonpregnant control women (117). Approximately two in three pregnant women in the United States have suboptimal vitamin D status, with an even higher prevalence among black and Mexican-American women (118). Reduction of plasma 25(OH)D could contribute to the fall in plasma calcium during pregnancy, and may result from enhanced maternal metabolism or increased utilization of vitamin D by the fetus (117). Moreover, maternal vitamin D deficiency might be independently associated with an elevated risk for gestational diabetes mellitus (GDM) (119) and serum concentrations of 25(OH)D levels have been shown to be significantly lower in women with GDM than in pregnant women without GDM (120). In addition, vitamin D deficiency among pregnant women has been associated with elevated risk for other pregnancy complications such as preeclampsia (121) and bacterial vaginosis (122). In the Norwegian Mother and Child Cohort Study investigating 23 423 nulliparous pregnant women, low vitamin D intake was associated with an increased risk for the development of preeclampsia (123). Maternal serum 25(OH)D concentrations are associated with small-for-gestational age births in women (124, 125) as well as with offspring rickets (126), reduced bone density (127), asthma, (128) and schizophrenia (129). Recently, Hollis et al. (130) assessed the safety and effectiveness of vitamin D supplementation during pregnancy. In an RCT, women with a singleton pregnancy at 12–16 weeks' gestation received 400, 2000, or 4000 IU of vitamin D3 per day until delivery. Not a single adverse event was attributed to vitamin D supplementation or circulating 25(OH)D levels. The authors concluded that vitamin D supplementation of 4000 IU/day for pregnant women is safe and most effective in achieving sufficiency in all women and their neonates. Moreover, vitamin D supplementation resulted in a 50% reduction in preterm delivery, 25% reduction in infections of the mother, and 30% reduction in comorbidities (DM, hypertension, and preeclampsia) (131).
+
+### Vitamin D supplementation
+
+To date, there are no specific guidelines regarding vitamin D supplementation for women or men affected by endocrine disturbances including infertility or hypogonadism. Thus, we will briefly discuss recent recommendations by the IOM (14) and the Endocrine Society (132).
+
+The 2011 report from the IOM recommends a 25(OH)D level of at least 50 nmol/l (20 ng/ml) based on positive vitamin D effects on bone health (14). The report asserts that the daily vitamin D intake should be 600 IU for individuals up to the age of 70 years and 800 IU for older adults of the general population corresponding to the Recommended Daily Allowance (RDA, covering requirements of ≥97.5% of the population). The tolerable upper intake level (UL) is defined as 4000 IU/day. The Endocrine Practice Guidelines Committee (132) suggests a daily intake of 1500–2000 IU vitamin D3 daily for adults >18 years up to 70 years in order to raise the blood level of 25(OH)D consistently above 30 ng/ml; the UL was defined as 10 000 IU/day. The same daily intake and UL were suggested for adult pregnant and lactating women.
+
+In general, vitamin D supplementation with 1000 IU/day increases 25(OH)D levels per 10 ng/ml (133). However, some authors recommend higher loading doses (e.g. 50 000 IU weekly for up to 8 weeks) in severely vitamin D-deficient subjects and those have been shown to be safe. Importantly, vitamin D intoxication resulting in hypercalcemia, renal damage, and vascular calcification is not observed until 25(OH)D levels >150 ng/ml (1).
+
+Considering the multiple adverse effects of vitamin D deficiency on various health aspects, vitamin D supplementation in order to achieve a sufficient vitamin D status is of high importance.
+
+### Clinical consequences and summary
+
+We presented evidence that vitamin D deficiency might be important for endocrine disturbances including fertility in women as well as in men. To date, the evidence is based largely on animal work and observational studies rather than on intervention trials. Nevertheless, there are some promising findings deserving further investigation.
+
+Given the high prevalence of infertility as well as vitamin D insufficiency in otherwise healthy young women (70) and men (134) and the possible role of vitamin D in human reproduction, research might lead to new therapeutic approaches such as vitamin D supplementation in the treatment of female and male reproductive disorders. Recognizing the fact that sperm quality is decreasing and infertility is a problem affecting about 10–15% of couples, this review might provide a rationale for further research in this area. We want to emphasize the fact that in infertility cases drastic improvements in reproductive failure may not be achieved by vitamin D treatment alone; however, vitamin D supplementation is a safe and cheap treatment, which might have some beneficial effects on human reproduction. Moreover, the impact of vitamin D supplementation on androgen levels deserves further investigation with respect to the adverse consequences of both vitamin D deficiency and male hypogonadism.
+
+High-quality RCTs with a large sample size are required to determine the optimal 25(OH)D levels and to evaluate the effect of vitamin D supplementation on fertility.
+
+ **References are in PDF** 
+
+---
+
+## Vitamin D and menopause--a narrative review – Sept 2014
+
+Maturitas. 2014 Sep;79(1):3-7. [doi: 10.1016/j.maturitas.2014.06.003.](https://doi.org/10.1016/j.maturitas.2014.06.003.) Epub 2014 Jun 13.
+
+Lerchbaum E1.
+
+1Department of Internal Medicine, Division of Endocrinology and Metabolism, Medical University of Graz, Auenbruggerplatz 15, 8036 Graz, Austria. Electronic address: elisabeth.lerchbaum@medunigraz.at.
+
+There is accumulating evidence that vitamin D (VD) has important effects besides its well-known role in calcium and bone metabolism. Hypovitaminosis D is associated with cardiovascular disease, the metabolic syndrome, type 2 diabetes mellitus, cancer as well as with increased mortality. Further, VD deficiency is related to depression and impaired cognitive function. Increasing age and elevated body fat mass contribute to an increased risk of VD deficiency. Further, some studies report a relationship between VD and estrogen metabolism. During menopause, the decline of estrogens results in increased bone turnover, a decrease in bone mineral density and elevated fracture risk. Musculoskeletal discomfort might impair quality of life, mood disturbances do frequently occur and the risk of metabolic and cardiovascular disease increases. Moreover, body composition changes including increased fat mass and decreased lean mass, which results in an increased risk of VD deficiency. Conversely, VD deficiency might aggravate discomfort as well as diseases that occur during menopause. There are precise recommendations regarding a sufficient VD intake in order to prevent bone loss in peri- and postmenopausal women. Considering the fact that VD deficiency and menopause share risk factors beyond bone health such as cardiovascular, metabolic, cognitive and affective disorders, a sufficient VD status should be obtained in all peri- and postmenopausal women. This might be beneficial not only considering bone health but also regarding cognitive, affective, metabolic and cardiovascular health of women.
+
+PMID: 24993517
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vitamin-d-and-menopause-a-narrative-review-2014.pdf">Download the PDF from VitaminDWiki</a>**

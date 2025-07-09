@@ -275,15 +275,15 @@ Conclusion: This study found a statistically significant association between vit
 
 ### Omega-3, Magnesium and Coenzyme Q10 may each be better than Vitamin D at controlling HT
 
-* <a href="/posts/hypertension-reduced-by-omega-3-especially-if-previously-untreated-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension reduced by Omega-3, especially if previously untreated – meta-analysis July 2014">Hypertension reduced by Omega-3, especially if previously untreated – meta-analysis July 2014</a>
+* [Hypertension reduced by Omega-3, especially if previously untreated – meta-analysis July 2014](/posts/hypertension-reduced-by-omega-3-especially-if-previously-untreated-meta-analysis)
 
-* <a href="/posts/hypertension-15x-more-likely-if-low-level-of-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension 1.5X more likely if low level of Magnesium - Oct 2014">Hypertension 1.5X more likely if low level of Magnesium - Oct 2014</a>
+* [Hypertension 1.5X more likely if low level of Magnesium - Oct 2014](/posts/hypertension-15x-more-likely-if-low-level-of-magnesium)
 
 * [Oral magnesium supplements decrease high blood pressure (SBP>155 mmHg) in hypertensive subjects on anti-hypertensive medications: a targeted meta-analysis.](http://www.ncbi.nlm.nih.gov/pubmed/24134861) July 2013
 
 > 7 studies of 6+ months. Start  systolic > 155 mm ==> reduce by 19 mm
 
-* <a href="/posts/off-topic-hypertension-and-statin-pain-reduced-by-coenzyme-q10-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic – Hypertension and statin pain reduced by Coenzyme Q10 – 2010">Off topic – Hypertension and statin pain reduced by Coenzyme Q10 – 2010</a>
+* [Off topic – Hypertension and statin pain reduced by Coenzyme Q10 – 2010](/posts/off-topic-hypertension-and-statin-pain-reduced-by-coenzyme-q10-2010)
 
 * [WebMD analysis of 74 supplements for Hypertension](http://www.webmd.com/vitamins-supplements/condition-1280-Hypertension.aspx?print=true)
 
@@ -297,29 +297,29 @@ Conclusion: This study found a statistically significant association between vit
 
 ### See also VitaminDWiki
 
-* <a href="/posts/diabetic-hypertension-reduced-with-vitamin-d-and-calcium-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic hypertension reduced with Vitamin D and Calcium – RCT March 2015">Diabetic hypertension reduced with Vitamin D and Calcium – RCT March 2015</a>
+* [Diabetic hypertension reduced with Vitamin D and Calcium – RCT March 2015](/posts/diabetic-hypertension-reduced-with-vitamin-d-and-calcium-rct)
 
-* <a href="/posts/8-percent-less-chance-of-hypertension-with-10-percent-increase-in-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 8 percent less chance of hypertension with 10 percent increase in Vitamin D - June 2013">8 percent less chance of hypertension with 10 percent increase in Vitamin D - June 2013</a>
+* [8 percent less chance of hypertension with 10 percent increase in Vitamin D - June 2013](/posts/8-percent-less-chance-of-hypertension-with-10-percent-increase-in-vitamin-d)
 
-* <a href="/posts/hypertension-reduced-in-mice-on-high-fat-diet-by-adding-vitamin-d-for-6-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension reduced in mice on high fat diet by adding vitamin D for 6 weeks– Jan 2013">Hypertension reduced in mice on high fat diet by adding vitamin D for 6 weeks– Jan 2013</a>
+* [Hypertension reduced in mice on high fat diet by adding vitamin D for 6 weeks– Jan 2013](/posts/hypertension-reduced-in-mice-on-high-fat-diet-by-adding-vitamin-d-for-6-weeks)
 
-* <a href="/posts/vitamin-d-and-arterial-hypertension-treat-the-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Arterial Hypertension: Treat the Deficiency - Feb 2013">Vitamin D and Arterial Hypertension: Treat the Deficiency - Feb 2013</a>
+* [Vitamin D and Arterial Hypertension: Treat the Deficiency - Feb 2013](/posts/vitamin-d-and-arterial-hypertension-treat-the-deficiency)
 
-* <a href="/posts/reduce-blood-pressure-by-9-mm-with-triple-hypertensive-drug-or-19-mm-with-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduce blood pressure by 9 mm with triple hypertensive drug or 19 mm with Magnesium – April 2018">Reduce blood pressure by 9 mm with triple hypertensive drug or 19 mm with Magnesium – April 2018</a>
+* [Reduce blood pressure by 9 mm with triple hypertensive drug or 19 mm with Magnesium – April 2018](/posts/reduce-blood-pressure-by-9-mm-with-triple-hypertensive-drug-or-19-mm-with-magnesium)
 
    * Includes chart of hypertension reduction by 4 diets
 
-* <a href="/posts/hypertension-30-percent-more-likely-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension 30 percent more likely if low vitamin D – meta-analysis March 2013">Hypertension 30 percent more likely if low vitamin D – meta-analysis March 2013</a>
+* [Hypertension 30 percent more likely if low vitamin D – meta-analysis March 2013](/posts/hypertension-30-percent-more-likely-if-low-vitamin-d-meta-analysis)
 
-* <a href="/posts/resistant-hypertension-incidence-increased-2x-in-20-years-vitamin-d-might-help" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resistant Hypertension incidence increased 2X in 20 years – vitamin D might help">Resistant Hypertension incidence increased 2X in 20 years – vitamin D might help</a>
+* [Resistant Hypertension incidence increased 2X in 20 years – vitamin D might help](/posts/resistant-hypertension-incidence-increased-2x-in-20-years-vitamin-d-might-help)
 
-* <a href="/posts/hypertension-experts-want-still-more-vitamin-d-proof" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3264">Hypertension experts want still more vitamin D proof – Oct 2012</a>
+* [Hypertension experts want still more vitamin D proof – Oct 2012](/posts/hypertension-experts-want-still-more-vitamin-d-proof)
 
-* <a href="/posts/hypertension-associated-with-low-calcium-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2388">Hypertension associated with low Calcium levels– Oct 2011</a>
+* [Hypertension associated with low Calcium levels– Oct 2011](/posts/hypertension-associated-with-low-calcium-levels)
 
 * <a href="/posts/hypertension-more-likely-with-less-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1254">Hypertension more likely with less vitamin D - Dec 2010</a> all work at Kaiser Permanente
 
-* <a href="/posts/more-sunlight-more-vitamin-d-less-hypertension" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2418">More sunlight, more vitamin D, less hypertension - Feb 2012</a>
+* [More sunlight, more vitamin D, less hypertension - Feb 2012](/posts/more-sunlight-more-vitamin-d-less-hypertension)
 
 * [Search  VitaminDWiki for "blood pressure"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22blood+pressure%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 972 as of Jan 2015
 
@@ -329,15 +329,15 @@ Conclusion: This study found a statistically significant association between vit
 
 * <a href="/posts/span-stylecolor00fprehypertensionspan-48-percent-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2283"> **<span style="color:#00F;">Prehypertension</span>**  48 % more likely with low vitamin D – Sept 2011</a>
 
-* <a href="/posts/daily-average-of-3600-iu-vitamin-d-helped-hypertensives" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Daily average of 3600 IU Vitamin D helped hypertensives – Jan 2013">Daily average of 3600 IU Vitamin D helped hypertensives – Jan 2013</a>
+* [Daily average of 3600 IU Vitamin D helped hypertensives – Jan 2013](/posts/daily-average-of-3600-iu-vitamin-d-helped-hypertensives)
 
-* <a href="/posts/postmenopausal-vitamin-d-benefits-to-blood-pressure-and-kidney-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Postmenopausal vitamin D benefits to blood pressure and kidney – Review July 2013">Postmenopausal vitamin D benefits to blood pressure and kidney – Review July 2013</a>
+* [Postmenopausal vitamin D benefits to blood pressure and kidney – Review July 2013](/posts/postmenopausal-vitamin-d-benefits-to-blood-pressure-and-kidney-review)
 
-* <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cholesterol and vitamin D">Overview Cholesterol and vitamin D</a>
+* [Overview Cholesterol and vitamin D](/posts/overview-cholesterol-and-vitamin-d)
 
 ### Far fewer heart problems for those with hypertension if they have > 15 ng of vitamin D
 
-{IMG(fileId="1903" max="800")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 800px;">
 
 ---
 
@@ -352,7 +352,7 @@ Conclusion: This study found a statistically significant association between vit
 
  **Hypertension reduction needs more than 4,000 IU of vitamin D for 6 months – RCT Oct 2014** 
 
-<a href="/posts/hypertension-reduction-sometimes-needs-more-than-4000-iu-of-vitamin-d-for-6-months-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension reduction sometimes needs more than 4,000 IU of vitamin D for 6 months – RCT Oct 2014">Hypertension reduction sometimes needs more than 4,000 IU of vitamin D for 6 months – RCT Oct 2014</a> in VitaminDWiki
+[Hypertension reduction sometimes needs more than 4,000 IU of vitamin D for 6 months – RCT Oct 2014](/posts/hypertension-reduction-sometimes-needs-more-than-4000-iu-of-vitamin-d-for-6-months-rct) in VitaminDWiki
 
  **Clinical Trials: Hypertension and Vitamin D** 
 
@@ -430,7 +430,7 @@ Our results suggest that vitamin D deficiency has a positive correlation with bl
 
 Ambulatory blood pressure monitoring allows blood pressure to be intermittently monitored during sleep, and is useful to determine whether the patient is a dipper or non-dipper- - that is to say whether or not blood pressure falls at night compared to daytime values. A nighttime fall is normal. It correlates with relationship depth but other factors such as sleep quality, age, hypertensive status, marital status, and social network support.<sup>[2]</sup> Absence of a night time dip is associated with poorer health outcomes, including increased mortality in one recent study.<sup>[3]</sup>  **In addition, nocturnal hypertension is associated with end organ damage<sup>[4]</sup> and is a much better indicator than the daytime blood pressure reading.** 
 
- **See also VitaminDWiki <a href="/posts/hypertension-which-remains-high-nondipper-is-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension which remains high (nondipper) is associated with low vitamin D – Sept 2017">Hypertension which remains high (nondipper) is associated with low vitamin D – Sept 2017</a>** 
+ **See also VitaminDWiki [Hypertension which remains high (nondipper) is associated with low vitamin D – Sept 2017](/posts/hypertension-which-remains-high-nondipper-is-associated-with-low-vitamin-d)** 
 
 ---
 
@@ -496,15 +496,15 @@ Still -  **4,000 IU daily reduced systolic pressure −4.0 mm Hg in Blacks**
 
 * [Search VitaminDWiki for PREECLAMPSIA](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=preclampsia&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 309 items as of Jan 2015
 
-* <a href="/posts/preeclampsia-27x-more-frequent-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia 2.7X more frequent if low vitamin D – meta-analysis Sept 2013">Preeclampsia 2.7X more frequent if low vitamin D – meta-analysis Sept 2013</a>
+* [Preeclampsia 2.7X more frequent if low vitamin D – meta-analysis Sept 2013](/posts/preeclampsia-27x-more-frequent-if-low-vitamin-d-meta-analysis)
 
-* <a href="/posts/high-blood-pressure-during-pregnancy-preeclampsia-associated-with-low-vitamin-d-c-section" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High blood pressure during pregnancy (preeclampsia) associated with low vitamin D, c-section – Jan 2015">High blood pressure during pregnancy (preeclampsia) associated with low vitamin D, c-section – Jan 2015</a>
+* [High blood pressure during pregnancy (preeclampsia) associated with low vitamin D, c-section – Jan 2015](/posts/high-blood-pressure-during-pregnancy-preeclampsia-associated-with-low-vitamin-d-c-section)
 
-* <a href="/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013">2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013</a>
+* [2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013](/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis)
 
-* <a href="/posts/7x-increase-in-early-severe-preeclampsia-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 7X increase in early severe preeclampsia associated with low vitamin D – Aug 2012">7X increase in early severe preeclampsia associated with low vitamin D – Aug 2012</a>
+* [7X increase in early severe preeclampsia associated with low vitamin D – Aug 2012](/posts/7x-increase-in-early-severe-preeclampsia-associated-with-low-vitamin-d)
 
-* <a href="/posts/dark-skined-mothers-preeclampsia-12x-more-likely-if-gestational-hypertension" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark-skined mothers: preeclampsia 12X more likely if gestational hypertension – May 2014">Dark-skined mothers: preeclampsia 12X more likely if gestational hypertension – May 2014</a>
+* [Dark-skined mothers: preeclampsia 12X more likely if gestational hypertension – May 2014](/posts/dark-skined-mothers-preeclampsia-12x-more-likely-if-gestational-hypertension)
 
 * [Magnesium supplementation to prevent high blood pressure in pregnancy: an RCT](http://www.ncbi.nlm.nih.gov/pubmed/23715924) Dec 2013
 
@@ -522,19 +522,19 @@ Still -  **4,000 IU daily reduced systolic pressure −4.0 mm Hg in Blacks**
 
  **See also VitaminDWiki** 
 
-<a href="/posts/huge-increases-in-health-problems-risk-factors-include-vitamin-d-antibiotics-and-roundup" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup">Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup</a>
+[Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup](/posts/huge-increases-in-health-problems-risk-factors-include-vitamin-d-antibiotics-and-roundup)
 
-<a href="/posts/investigation-on-roundup-glyphosate-at-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Investigation on Roundup - glyphosate at VitaminDWiki">Investigation on Roundup - glyphosate at VitaminDWiki</a> many charts
+[Investigation on Roundup - glyphosate at VitaminDWiki](/posts/investigation-on-roundup-glyphosate-at-vitamindwiki) many charts
 
 ---
 
 ### Hypertension genetic association with Vitamin D is < 10%
 
-* <a href="/posts/hypertension-associated-with-genes-which-reduce-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension associated with genes which reduce vitamin D – meta-analysis June 2014">Hypertension associated with genes which reduce vitamin D – meta-analysis June 2014</a> in VitaminDWiki
+* [Hypertension associated with genes which reduce vitamin D – meta-analysis June 2014](/posts/hypertension-associated-with-genes-which-reduce-vitamin-d-meta-analysis) in VitaminDWiki
 
 > Good genes which increase vitamin D by 10% result in decreased risk of hypertension by 8%
 
-* <a href="/posts/what-do-we-know-and-do-not-know-about-vitamin-d-and-hypertension" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: What Do We Know and Do Not Know About Vitamin D and hypertension – Sept 2014">What Do We Know and Do Not Know About Vitamin D and hypertension – Sept 2014</a>
+* [What Do We Know and Do Not Know About Vitamin D and hypertension – Sept 2014](/posts/what-do-we-know-and-do-not-know-about-vitamin-d-and-hypertension)
 
 > Genes play a small role
 
@@ -542,11 +542,11 @@ Still -  **4,000 IU daily reduced systolic pressure −4.0 mm Hg in Blacks**
 
 ### Probiotics - Hypertension
 
-* <a href="/posts/probiotics-reduces-blood-pressure-but-not-as-much-as-vitamin-d-does-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probiotics reduces blood pressure, but not as much as vitamin D does – meta-analysis July 2014">Probiotics reduces blood pressure, but not as much as vitamin D does – meta-analysis July 2014</a>
+* [Probiotics reduces blood pressure, but not as much as vitamin D does – meta-analysis July 2014](/posts/probiotics-reduces-blood-pressure-but-not-as-much-as-vitamin-d-does-meta-analysis)
 
 * [Can Probiotics Lower Blood Pressure?](http://blog.lef.org/2014/08/can-probiotics-lower-blood-pressure.html?utm_campaign=normal&utm_source=twitter&utm_medium=social) LEF Feb 2015
 
-* <a href="/posts/probiotiocs-yogurt-etc-reduce-hypertension-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probiotiocs (yogurt, etc) reduce hypertension – 2017">Probiotiocs (yogurt, etc) reduce hypertension – 2017</a>
+* [Probiotiocs (yogurt, etc) reduce hypertension – 2017](/posts/probiotiocs-yogurt-etc-reduce-hypertension-2017)
 
 ---
 
@@ -582,7 +582,7 @@ Author is also the author of “Less Medicine, More Health: 7 Assumptions That D
 
 Note: Pre-hypertension = 120-139 / 80-89))
 
-<a href="/posts/prehypertension-48-percent-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prehypertension 48 percent more likely with low vitamin D – Sept 2011">Prehypertension 48 percent more likely with low vitamin D – Sept 2011</a>
+[Prehypertension 48 percent more likely with low vitamin D – Sept 2011](/posts/prehypertension-48-percent-more-likely-with-low-vitamin-d)
 
  **Hypertension goals of ADA and  ACC/AHA  differ - March 2018** 
 
@@ -641,9 +641,9 @@ Note: Pre-hypertension = 120-139 / 80-89))
 
 * [Arterial stiffness reduced by vitamin D](/posts/arterial-stiffness-reduced-by-vitamin-d) many studies
 
-* <a href="/posts/arterial-stiffness-reduced-by-omega-3-vitamin-d-vitamin-k2-magnesium-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.">Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.</a> many studies
+* [Arterial stiffness reduced by Omega-3, Vitamin D, Vitamin K2, Magnesium, etc.](/posts/arterial-stiffness-reduced-by-omega-3-vitamin-d-vitamin-k2-magnesium-etc) many studies
 
-* <a href="/posts/fast-blood-flow-68-x-more-likely-if-high-vitamin-d-and-high-vitamin-k" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fast blood flow 6.8 X more likely if high vitamin D AND high vitamin K – Aug 2017">Fast blood flow 6.8 X more likely if high vitamin D AND high vitamin K – Aug 2017</a>
+* [Fast blood flow 6.8 X more likely if high vitamin D AND high vitamin K – Aug 2017](/posts/fast-blood-flow-68-x-more-likely-if-high-vitamin-d-and-high-vitamin-k)
 
 ---
 

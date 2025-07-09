@@ -63,17 +63,17 @@ PMID:     21670690
 
 * [All items on Vision and vitamin d](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=70&sort_mode=created_desc)
 
-* <a href="/posts/wondering-about-sad-vitamin-d-deficiency-and-lack-of-uv-when-no-snow" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 273">Wondering about SAD, Vitamin D deficiency and lack of UV when no snow</a>
+* [Wondering about SAD, Vitamin D deficiency and lack of UV when no snow](/posts/wondering-about-sad-vitamin-d-deficiency-and-lack-of-uv-when-no-snow)
 
    * "People have experienced SAD following the development of cataracts or after wearing sunglasses for an extended period of time. . . . " 
 
-* <a href="/posts/most-cataract-surgery-intraocular-lenses-block-uv" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 896">Most cataract surgery intraocular lenses block UV</a>
+* [Most cataract surgery intraocular lenses block UV](/posts/most-cataract-surgery-intraocular-lenses-block-uv)
 
    * Not mentioned in abstract: replacement corneas should probably not be clear, but instead slightly yellow – like standard corneas.
 
 * [Perhaps more benefits from UV than just vitamin D - 2006](/posts/perhaps-more-benefits-from-uv-than-just-vitamin-d-2006) includes 2008 paper on Global Disease burden of UVR - with the following graph
 
-{IMG(attId="572")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/png/cataracts-are-major-portion-of-burden-of-uvr-.png" alt="image">
 
 # See also on web
 

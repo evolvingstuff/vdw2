@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Type II Diabetes is not prevented by a small amount of vitamin D (proven again)</title>
+<link rel=stylesheet href="/css/main.css?v=1752030350"><link rel=stylesheet href="/css/pagination.css?v=1752030350"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030350"></script><script src="/js/search.js?v=1752030350"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Type II Diabetes is not prevented by a small amount of vitamin D (proven again)</h1><time>May 16, 2017</time><div data-pagefind-body><h4 id=vitamin-d-supplementation-has-no-effect-on-insulin-sensitivity-or-secretion-in-vitamin-ddeficient-overweight-or-obese-adults-a-randomized-placebo-controlled-trial1>Vitamin D supplementation has no effect on insulin sensitivity or secretion in vitamin D–deficient, overweight or obese adults: a randomized placebo-controlled trial1</h4><p>Am J Clin Nutr ajcn152736 , May 10, 2017, <a href=https://doi.org/10.3945/>doi: 10.3945/</a>​ajcn.117.152736</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:600px"><ul><li><p>Cannot expect any benefit from Vitamin D until the levels exceed at least 30 ng/mL (40, 50, 60 is much better)</p></li><li><p>Abstract fails to say, but we suspect than less than 30% of the obese participants go above 30 ng/ml</p></li><li><p><a href=/posts/obese-need-2x-to-3x-more-vitamin-d>Obese need 2X to 3X more vitamin D - Nov 2014</a></p></li><li><p>Suspect that doses of 10,000 IU would have reduced Tii Diabetes in the obese</p></li></ul><blockquote><p>Even larger doses would be needed if dark skin, avoid the sun, have a disease which consumes Vitamin D, etc.</p></blockquote><h4 id=see-also-vitamindwiki>See also VitaminDWiki</h4><ul><li><p><a href=/posts/overview-diabetes-and-vitamin-d>Overview Diabetes and vitamin D</a> Note: (enough) Vitamin D appears to both PREVENT and TREAT diabetes</p></li><li><p><a href=/posts/4-percent-less-type-2-diabetes-for-every-4-ng-more-vitamin-d-meta-analysis>4 percent less type 2 diabetes for every 4 ng more vitamin D – meta-analysis May 2013</a></p></li><li><p><a href=/posts/diabetes-35x-less-likely-if-more-than-25-ng-vitamin-d>Diabetes 3.5X less likely if more than 25 ng Vitamin D – Sept 2012</a></p></li><li><p><a href=/posts/diabetes-treated-by-vitamin-d-when-levels-exceeded-61-ng>Diabetes treated by vitamin D when levels exceeded 61 ng – Sept 2015</a></p></li><li><p><a href=/posts/obese-diabetics-with-dark-skins-not-benefit-from-6000-iu-of-vitamin-d-daily-no-surprise-rct>Obese diabetics with dark skins not benefit from 6,000 IU of vitamin D daily (no surprise) – RCT March 2015</a></p></li><li><p><a href=/posts/magnesium-is-associated-with-prevention-and-treatment-of-diabetes-meta-analysis><strong>Magnesium</strong> is associated with prevention and treatment of Diabetes – Meta-analysis Aug 2016</a></p></li></ul></div><p>Aya Mousa2,7, Negar Naderpoor2,4,7, Maximilian PJ de Courten5, Helena Teede2,4, Nicole Kellow3, Karen Walker3, Robert Scragg6, and Barbora de Courten2,4, <a href=mailto:barbora.decourten@monash.edu>barbora.decourten@monash.edu</a></p><p>2 Monash Center for Health Research and Implementation, School of Public Health and Preventive Medicine, and</p><p>3 Department of Nutrition and Dietetics, Be Active Sleep and Eat Facility, Monash University, Melbourne, Australia;</p><p>4 Diabetes and Vascular Medicine Unit, Monash Health, Melbourne, Australia;</p><p>5 Center for Chronic Disease, Victoria University, Melbourne, Australia; and</p><p>6 School of Population Health, University of Auckland, Auckland, New Zealand</p><p>↵1 Supported by Monash University (Australian postgraduate award scholarships; to AM and NN), the National Heart Foundation (future leader fellowship 100864; to BdC), and the National Health and Medical Research Council (NHMRC) (grant application 1047897 to BdC for the current trial). HT is an NHMRC practitioner fellow.</p><p>↵7 These authors contributed equally to this work.</p><p>Background: Vitamin D supplementation has been proposed as a potential strategy to prevent type 2 diabetes. Existing clinical trials have been limited by short duration, low doses of vitamin D, variability in participants’ vitamin D–deficiency status, and the use of surrogate measures of body composition, insulin sensitivity, and insulin secretion.</p><p>Objective: To address existing knowledge gaps, we conducted a double-blind, randomized, placebo-controlled trial to investigate whether vitamin D supplementation that is provided in a sufficient dose and duration to vitamin D–deficient individuals would improve insulin sensitivity or secretion as measured with the use of gold-standard methods. We hypothesized that vitamin D supplementation would improve insulin sensitivity and secretion compared with placebo.</p><p>Design: Sixty-five overweight or obese, vitamin D–deficient (25-hydroxyvitamin D <span>[25(OH)D]</span> concentration ≤50 nmol/L) adults were randomly assigned to receive either a bolus oral dose of 100,000 IU cholecalciferol followed by 4000 IU cholecalciferol/d or a matching placebo for 16 wk. Before and after the intervention, participants received gold-standard assessments of body composition (via dual X-ray absorptiometry), insulin sensitivity (via hyperinsulinemic-euglycemic clamps), and insulin secretion <span>[via an intravenous-glucose-tolerance tests (IVGTTs)]</span>.</p><p>Results: Fifty-four participants completed the study <a href=35%20men%20and%2019%20women;%20mean%20%C2%B1%20SD%20age:%2031.9%20%C2%B1%208.5%20y;%20body%20mass%20index%20(in%20kg/m2):%2030.9%20%C2%B1%204.4>35 men and 19 women; mean ± SD age: 31.9 ± 8.5 y; body mass index (in kg/m2): 30.9 ± 4.4</a>. 25(OH)D increased with vitamin D supplementation compared with placebo (57.0 ± 21.3 compared with 1.9 ± 15.1 nmol/L, respectively; P = 0.02). Vitamin D and placebo groups did not differ in change in insulin sensitivity (0.02 ± 2.0 compared with −0.03 ± 2.8 mg · kg−1 · min−1, respectively; P = 0.9) or first-phase insulin secretion (−21 ± 212 compared with 24 ± 184 mU/L, respectively; P = 0.9). Results remained nonsignificant after adjustment for age, sex, percentage of body fat, sun exposure, physical activity, and dietary vitamin D intake (P > 0.1).</p><p>Conclusions: Vitamin D supplementation does not improve insulin sensitivity or secretion in vitamin D–deficient, overweight or obese adults, despite using high-dose vitamin D supplementation and robust endpoint measures. Therefore, it is unlikely that vitamin D supplementation would be an effective strategy for reducing diabetes risk even in vitamin D–deficient populations. This trial was registered at clinicaltrials.gov as NCT02112721.</p><p><strong><a href=http://ajcn.nutrition.org/content/early/2017/05/10/ajcn.117.152736.full.pdf+html>Publisher will rent all of their studies for a week for $25</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>blood levels</span>
+<span class=tag>diabetes</span>
+<span class=tag>Diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>magnesium</span>
+<span class=tag>metabolic</span>
+<span class=tag>Obesity</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>blood levels, diabetes, Diabetes, dosage, magnesium, metabolic, Obesity, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030350"></script><script src="/js/tiki-redirects.js?v=1752030350"></script><script src="/js/lightspa.js?v=1752030350"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030350",indexUrl:"/search/search_index.json.gz?v=1752030350"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030350"></script></body></html>

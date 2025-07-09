@@ -1,0 +1,71 @@
+<!doctype html><html><head><meta charset=utf-8><title>FDA warns against over 400 IU vitamin D for infants, especially with droppers</title>
+<link rel=stylesheet href="/css/main.css?v=1752030344"><link rel=stylesheet href="/css/pagination.css?v=1752030344"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030344"></script><script src="/js/search.js?v=1752030344"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>FDA warns against over 400 IU vitamin D for infants, especially with droppers</h1><time>June 16, 2010</time><div data-pagefind-body><h1 id=fda-warns-against-overdosing-infants-with-vitamin-d-june-15-2010>FDA warns against overdosing infants with vitamin D June 15, 2010</h1><p><a href=http://latimesblogs.latimes.com/booster_shots/2010/06/the-fda-warns-against-overdosing-infants-with-vitamin-d.html>http://latimesblogs.latimes.com/booster_shots/2010/06/the-fda-warns-against-overdosing-infants-with-vitamin-d.html</a></p><p>The Food and Drug Administration on Tuesday warned parents about the dangers of giving infants more than 400 international units (IU) of vitamin D, a risk that is exacerbated by the spread of supplement containers with droppers that hold larger amounts of the vitamin. At the same time, the agency sent a letter to manufacturers urging them to mark droppers more clearly and to use droppers that hold only the recommended amount of the vitamin.</p><p>Vitamin D promotes calcium absorption in the gut and plays a key role in the development of strong bones. Supplementation is recommended for some infants, especially those being breast-fed, because a deficiency can lead to bone problems such as thinning, soft and misshapen bones, such as those found in rickets. Overdoses of the vitamin, however, can cause nausea and vomiting, loss of appetite, excessive thirst, frequent urination, constipation, abdominal pain, muscle weakness, muscle and joint aches, confusion and fatigue, as well as more serious consequences such as kidney disease. The American Academy of Pediatrics thus recommends that infants receive no more than 400 IU of vitamin D per day.</p><p>The problem, the agency said, is that many droppers in supplement bottles are not clearly marked with the correct amount, or are excessively large, increasing the likelihood that a parent can inadvertantly give an overdose. If a parent is unable to determine the dose of vitamin delivered by the dropper, he or she should contact their pediatrician or pharmacist for guidance.</p><hr><h1 id=fda-warning-on-infant-vitamin-d-drops>FDA Warning on Infant Vitamin D Drops</h1><p>from: <a href=http://www.naturalproductsmarketplace.com/news/2010/06/fda-warns-on-infant-vitamin-d-drops.aspx>http://www.naturalproductsmarketplace.com/news/2010/06/fda-warns-on-infant-vitamin-d-drops.aspx</a></p><p>WASHINGTON—FDA held a teleconference and issued a warning on some liquid vitamin D supplements with droppers that may lead to excessive dosing of the vitamin to infants. While the agency issued a caution to parents and other involved in caring for infants, it asked manufacturers of liquid vitamin D supplements to take care to ensure such products have consistent, clear wording on the label that specifies its recommended use.</p><p>On the conference call, Linda M. Katz, M.D., M.P.H., Interim Chief Medical Officer, Center for Food Safety and Applied Nutrition (CFSAN), confirmed the agency considers the American Academy of Pediatrics’ (AAP) guidelines for 400 IU per day vitamin D for breast-fed and partially breast-fed infants. In response to questions clarifying this dosage recommendation, Katz explained FDA considers this dosage appropriate for children aged one and under; for children older than one year, she said the upper level recommendation is 2,000 IU.</p><p>In its warning to parents and caregivers, FDA advised signs of excessive vitamin D in infants include nausea, vomiting, loss of appetite, excessive thirst, frequent urination, constipation, abdominal pain, muscle weakness, muscle and joint aches, confusion, fatigue and, in more serious cases, kidney damage.</p><p>Renowned vitamin D researcher Reinhold Vieth, Ph.D., professor at University of Toronto, <strong>voiced concerns FDA’s warning would scare all users from vitamin D, which has many researched health benefits, from immune to bone health</strong> (which Katz said is consumers’ primary goal , in the agency’s view). Katz responded FDA is most concerned about the delivery system and the consistency and accuracy of instructing consumers on how to use the vitamin D drops, not on what the benefits are or if consumers, including infants, should take vitamin D.</p><p>Andrew Shao, vice president of scientific and regulatory affairs for the Council for Responsible Nutrition (CRN), asked FDA if this warning was prompted by specific adverse event reports (AERs) and if the agency had further details, including dosages given and if 15-hydroxy vitamin D levels were tested. Katz replied the <strong>agency had no specific AERs in this area</strong> , but relied on cases it found in the literature.</p><hr><h1 id=sigh--the-fda-continues-to-ignore-the-fact-that-some-infants-need-more>Sigh – The FDA continues to ignore the fact that some infants need more</h1><ul><li>dark skin, medical problems, overweight, live in a culture which requires extra clothing, lives in Alaska, etc.</li></ul><p>The FDA seems to also ignore the research results which show increased vitamin D for infants</p><p>decreases broken bones, allergies, autism, diabetes, and MS relapse</p><p>40% of infants were vitamin D deficient – March 2010</p><p>Many infants are not getting even 200 IU per day</p><p>Having more vitamin D is NOT A PROBLEM. 1200 IU of vitamin D for infants caused no problems in Canada – April 2010.</p><p>It was thought to be a problem 60 years ago in the UK – but that was found to be a mis-diagnosis 50 years ago.</p><p><strong>See the category Moms & babies D for details and more information</strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>autoimmune</span>
+<span class=tag>bone</span>
+<span class=tag>child</span>
+<span class=tag>diabetes</span>
+<span class=tag>dosage</span>
+<span class=tag>high dose</span>
+<span class=tag>Infant-Child</span>
+<span class=tag>intervention</span>
+<span class=tag>metabolic</span>
+<span class=tag>multiple sclerosis</span>
+<span class=tag>pediatric autoimmune</span>
+<span class=tag>rickets</span>
+<span class=tag>therapeutic intervention</span>
+<span class=tag>vitamin d</span></div><div data-pagefind-meta=tags hidden>autoimmune, bone, child, diabetes, dosage, high dose, Infant-Child, intervention, metabolic, multiple sclerosis, pediatric autoimmune, rickets, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030344"></script><script src="/js/tiki-redirects.js?v=1752030344"></script><script src="/js/lightspa.js?v=1752030344"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030344",indexUrl:"/search/search_index.json.gz?v=1752030344"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030344"></script></body></html>

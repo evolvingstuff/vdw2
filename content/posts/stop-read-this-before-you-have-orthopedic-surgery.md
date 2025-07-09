@@ -63,7 +63,7 @@ Most patients will probably need 50,000 IU several times per week to get to 50ng
 
 ### See also
 
-* <a href="/posts/orthopaedic-surgeries-need-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Orthopaedic surgeries need Vitamin D – many studies">Orthopaedic surgeries need Vitamin D – many studies</a>
+* [Orthopaedic surgeries need Vitamin D – many studies](/posts/orthopaedic-surgeries-need-vitamin-d-many-studies)
 
 #### Number of weeks a daily dose of vitamin D can be taken before it becomes toxic
 

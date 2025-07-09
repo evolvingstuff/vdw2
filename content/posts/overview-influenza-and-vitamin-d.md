@@ -69,7 +69,7 @@
 
 * [Higher BMI need more vitamin D – Oct 2010](/posts/higher-bmi-need-more-vitamin-d)
 
-* <a href="/posts/3x-more-colds-by-overweight-who-were-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2685">3X more colds by overweight who were low on vitamin D - April 2012</a>
+* [3X more colds by overweight who were low on vitamin D - April 2012](/posts/3x-more-colds-by-overweight-who-were-low-on-vitamin-d)
 
 * More than half afflicted with H1N1 in 2009 were  **<span style="color:#00F;">obese </span>** – Jan 2011
 
@@ -103,7 +103,7 @@
 
 * [10X reactions to flu vaccine when vitamin D deficient](/posts/10x-reactions-to-flu-vaccine-when-vitamin-d-deficient)
 
-* <a href="/posts/major-interactions-between-vitamin-d-vitamin-a-and-influenza" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Major interactions between Vitamin D, Vitamin A, and Influenza – Sept 2013">Major interactions between Vitamin D, Vitamin A, and Influenza – Sept 2013</a>
+* [Major interactions between Vitamin D, Vitamin A, and Influenza – Sept 2013](/posts/major-interactions-between-vitamin-d-vitamin-a-and-influenza)
 
 * [Avoid Flu Shots, Take Vitamin D Instead](http://lewrockwell.com/miller/miller27.html) Dr. Miller 2008
 

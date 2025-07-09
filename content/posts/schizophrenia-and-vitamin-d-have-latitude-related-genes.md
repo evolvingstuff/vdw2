@@ -47,10 +47,10 @@ Our results suggest a latitude-driven adaptation for both schizophrenia and vita
 
 * <span>[tiki-download_file.php?fileId=1575]</span>
 
-{IMG(attId="293")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/latitude-related-genes1.gif" alt="image">
 
 ## See also VitaminDWiki categories: [Genetics](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=72&sort_mode=created_desc)&nbsp; &nbsp;[Far from Equator](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=63&sort_mode=created_desc)
 
-* <a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Overview Schizophrenia and Vitamin D</a>
+* [Overview Schizophrenia and Vitamin D](/posts/overview-schizophrenia-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-varies-with-latitude-map-of-chile" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D varies with latitude - map of Chile">Vitamin D varies with latitude - map of Chile</a>
+* [Vitamin D varies with latitude - map of Chile](/posts/vitamin-d-varies-with-latitude-map-of-chile)

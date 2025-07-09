@@ -65,7 +65,7 @@ PMID:    21593696
 
 # Many vets realize that animals, including mammals need lots of vitamin D
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview Veterinary and Vitamin D</a>
+* [Overview Veterinary and Vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
    * Vets are paid for healthy animals, but doctors are not paidfor healthy humans
 

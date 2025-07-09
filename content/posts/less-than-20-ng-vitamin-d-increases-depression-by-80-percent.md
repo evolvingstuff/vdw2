@@ -76,7 +76,7 @@ In this large population based study, likelihood of having depression in persons
 
 * [36 percent less depression when have high level of vitamin D – July 2011](/posts/36-percent-less-depression-when-have-high-level-of-vitamin-d)
 
-* <a href="/posts/depressed-people-had-less-than-10-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 782">Depressed people had less than 10 ng of vitamin D – July 2010</a>
+* [Depressed people had less than 10 ng of vitamin D – July 2010](/posts/depressed-people-had-less-than-10-ng-of-vitamin-d)
 
 * <a href="/posts/vitamin-d-variations-and-mental-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 868">vitamin D variations and mental health - Aug 2010</a> nice charts
 
@@ -86,4 +86,4 @@ In this large population based study, likelihood of having depression in persons
 
 * [Depression 40 percent more likely if low vitamin D – Oct 2011](/posts/depression-40-percent-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2439">Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012</a>
+* [Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012](/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng)

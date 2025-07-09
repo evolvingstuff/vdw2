@@ -1,0 +1,67 @@
+<!doctype html><html><head><meta charset=utf-8><title>Chronic Periodontitis reduced by Omega-3 – RCT</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Chronic Periodontitis reduced by Omega-3 – RCT</h1><time>September 8, 2018</time><div data-pagefind-body><h4 id=effect-of-omega-3-fatty-acids-on-chronic-periodontitis-patients-in-postmenopausal-women-a-randomised-controlled-clinical-study>Effect of Omega-3 Fatty Acids on Chronic Periodontitis Patients in Postmenopausal Women: A Randomised Controlled Clinical Study</h4><p>Oral Health Prev Dent 16 (2018), No. 4 (07.09.2018), Page 327-332, doi:10.3290/j.ohpd.a40957, PubMed:30175329</p><p>Elgendy, Enas Ahmed / Kazem, Hazem Hussein</p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:700px"><p><strong>Abstract fails to mention:<span style=color:#00f>(but previous RCTs have details)</span></strong></p><ul><li><p>trial duration</p></li><li><p>how long before the teeth scaling that the Omega-3 was given</p></li><li><p>dose size</p></li><li><p>how much benefit</p></li></ul><hr><h4 id=see-also-vitamindwiki>See also VitaminDWiki</h4><ul><li><p><a href=/posts/periodontitis-probably-related-to-low-vitamin-d-review>Periodontitis probably related to low Vitamin D – review June 2018</a></p></li><li><p><a href=/posts/chronic-periodontitis-96-times-more-likely-if-smoke-and-have-poor-vitamin-d-receptor>Chronic Periodontitis 9.6 times more likely if smoke and have poor Vitamin D Receptor – Aug 2016</a></p></li><li><p><a href=/posts/generalized-aggressive-periodontitis-is-3x-more-likely-if-too-much-vitamin-d-binding-protein>Generalized Aggressive Periodontitis is 3X more likely if too much Vitamin D-Binding Protein – Nov 2016</a></p></li></ul><hr><h4 id=see-also-pubmed>See also PubMed</h4><ul><li><a href=https://www.ncbi.nlm.nih.gov/pubmed/24970858>Docosahexaenoic Acid and Periodontitis in Adults: A Randomized Controlled Trial</a> Aug 2014</li></ul><p>Periodontitis is a common chronic inflammatory disease initiated by bacteria, resulting in bone resorption, tooth loss, and systemic inflammation. Long-chain omega-3 fatty acids such as docosahexaenoic acid (DHA) reduce periodontitis in animals. We aimed to determine whether DHA supplementation with low-dose aspirin would reduce periodontitis in humans. We conducted a double-blind placebo-controlled parallel trial lasting <strong>3 mo</strong> . Fifty-five adults with moderate periodontitis were randomized to <strong>2,000 mg</strong> of DHA or identical soy/corn oil capsules. All participants received <strong>81 mg of aspirin</strong> but received no other treatments. We analyzed the primary outcome of per-pocket change in pocket depth using mixed models among teeth with pocket depth ≥5 mm. Secondary outcomes assessed with generalized estimating equations included gingival index, plaque index, and bleeding on probing. Gingival crevicular fluid samples were analyzed for changes in high-sensitivity C-reactive protein (hsCRP) and interleukins 6 and 1β (IL-6 and IL-1β). Plasma was analyzed for changes in systemic inflammatory markers, including hsCRP. We confirmed adherence with erythrocyte fatty acid measurement. Forty-six participants completed the trial. While similar at baseline, the proportion of DHA in red blood cell plasma membranes increased from 3.6% ± 0.9% to 6.2% ± 1.6% in the intervention group but did not change among controls. DHA supplementation</p><ul><li><p>decreased mean pocket depth (-0.29 ± 0.13; p = .03) and</p></li><li><p>gingival index (-0.26 ± 0.13; p = .04).</p></li></ul><p>Plaque index and bleeding on probing did not change. Significant adjusted differences were found between DHA and control for both</p><ul><li><p>gingival crevicular fluid hsCRP (-5.3 ng/mL, standard error <span>[SE]</span> = 2.4, p = .03) and</p></li><li><p>IL-1β (-20.1 pg/mL, SE = 8.2, p = .02)</p></li></ul><p>but not</p><ul><li><p>IL-6 (0.02 pg/mL, SE = 0.71, p = .98) or</p></li><li><p>systemic hsCRP (-1.19 mg/L, SE = 0.90, p = .20).</p></li></ul><p>In this randomized controlled trial, aspirin-triggered DHA supplementation significantly improved periodontal outcomes in people with periodontitis, indicating its potential therapeutic efficacy (clinicaltrials.gov NCT01976806).</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/docosahexaenoic-acid-and-periodontitis-in-adults.pdf>Download the PDF from VitaminDWiki</a></strong></p><ul><li><a href=https://www.ncbi.nlm.nih.gov/pubmed/24616831>Omega 3 fatty acids as a host modulator in chronic periodontitis patients: a randomised, double-blind, palcebo-controlled, clinical trial</a> Feb 2014</li></ul><blockquote><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/omega-3-fatty-acids-as-a-host-modulator.pdf>Download the PDF from VitaminDWiki</a></strong></p></blockquote></div><p>Purpose: To investigate changes in periodontal parameters and superoxide dismutase activity after root surface debridement with and without omega-3 fatty acid (omega-3 FA) supplementation in postmenopausal women.</p><p>Materials and Methods: Fifty postmenopausal women with chronic periodontitis were divided randomly into two groups. Group 1 (control group, n = 25) patients were provided with periodontal treatment in the form of scaling and root planing (SRP) plus soft gelatinous capsules containing only some olive oil, while group 2 (n = 25) received SRP along with systemic administration of omega-3 FAs in the same soft gelatinous capsules. Clinical parameters and superoxide dismutase (SOD) activity in the gingival crevicular fluid were recorded at baseline, 3 and 6 months after therapy.</p><p>Results: By the end of the study period, the omega-3-treated group achieved a greater mean</p><ul><li><p>probing pocket depth reduction, a mean gain in</p></li><li><p>clinical attachment level especially in deep periodontal pockets, as well as a</p></li><li><p>greater increase in SOD activity (p &lt; 0.01) compared to SRP alone.</p></li></ul><p>Conclusions: Adjunctive omega-3 FAs supplements with SRP reduce periodontal inflammation and improve the status of systemic enzymatic antioxidants in postmenopausal women.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>bacteria</span>
+<span class=tag>blood levels</span>
+<span class=tag>dental</span>
+<span class=tag>Dental</span>
+<span class=tag>genetics</span>
+<span class=tag>omega 3</span>
+<span class=tag>periodontitis</span>
+<span class=tag>vitamin d</span>
+<span class=tag>Vitamin D and Omega-3</span>
+<span class=tag>vitamin d receptor</span></div><div data-pagefind-meta=tags hidden>bacteria, blood levels, dental, Dental, genetics, omega 3, periodontitis, vitamin d, Vitamin D and Omega-3, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>

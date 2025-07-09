@@ -62,7 +62,7 @@ Conclusions Concentrations of vitamin D were weakly and inversely related to all
 
 ## etc, etc, and got it down to 'only' 28% more likely to die
 
-{IMG(attId="432")}{IMG}
+<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/gif/all-cause-table2.gif" alt="image">
 
 # See also in VitaminDWiki
 
@@ -70,14 +70,14 @@ Conclusions Concentrations of vitamin D were weakly and inversely related to all
 
 * [Critically ill 70 percent more likely to die if vitamin D less than 15ng – Jan 2011](/posts/critically-ill-70-percent-more-likely-to-die-if-vitamin-d-less-than-15ng)
 
-* <a href="/posts/50-percent-more-elderly-deaths-when-vitamin-d-under-18-ng-or-over-40-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 779">50 percent more elderly deaths when vitamin D under 18 ng or over 40 ng – Aug 2010</a>
+* [50 percent more elderly deaths when vitamin D under 18 ng or over 40 ng – Aug 2010](/posts/50-percent-more-elderly-deaths-when-vitamin-d-under-18-ng-or-over-40-ng)
 
-* <a href="/posts/vitamin-d-and-mortality-a-meta-analysis-of-rct-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 574">Vitamin D and mortality a meta-analysis of RCT - 2008</a> review of 18 studies
+* [Vitamin D and mortality a meta-analysis of RCT - 2008](/posts/vitamin-d-and-mortality-a-meta-analysis-of-rct-2008) review of 18 studies
 
    * "There appears to be a positive association between the intake of ordinary doses of vitamin D supplements and reductions in total mortality rates."
 
-* <a href="/posts/vitamin-d-deficiency-was-the-best-predictor-of-older-patient-death-in-hospital" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 270">Vitamin D deficiency was the best predictor of older patient death in hospital – May 2010</a>
+* [Vitamin D deficiency was the best predictor of older patient death in hospital – May 2010](/posts/vitamin-d-deficiency-was-the-best-predictor-of-older-patient-death-in-hospital)
 
 ## All Cause Mortality big improvement from 15 to 27 ng - Heaney chart 2010
 
-{IMG(fileId="1024"max="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">

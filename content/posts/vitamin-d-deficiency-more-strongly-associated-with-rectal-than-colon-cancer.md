@@ -53,24 +53,24 @@ PMID: 21430073
 
 * [Vitamin D and Colon Cancer - Dec 2010](/posts/vitamin-d-and-colon-cancer) from About.com
 
-* <a href="/posts/low-vitamin-d-in-blacks-increases-colorectal-cancer-deaths-40-percent-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1080">Low vitamin D in blacks increases colorectal cancer deaths 40 percent – Cancer Oct 2010</a>
+* [Low vitamin D in blacks increases colorectal cancer deaths 40 percent – Cancer Oct 2010](/posts/low-vitamin-d-in-blacks-increases-colorectal-cancer-deaths-40-percent-cancer)
 
    * Appears that 40% of the reason that blacks have increased colorectal cancer is due to lack of vitamin D
 
-* <a href="/posts/colon-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 738">Colon cancer and vitamin D – Aug 2010</a> full text is available
+* [Colon cancer and vitamin D – Aug 2010](/posts/colon-cancer-and-vitamin-d) full text is available
 
-* <a href="/posts/overview-of-vitamin-d-and-colon-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 531">Overview of vitamin D and Colon Cancer – Oct 2009</a>
+* [Overview of vitamin D and Colon Cancer – Oct 2009](/posts/overview-of-vitamin-d-and-colon-cancer)
 
    * Special issue selected article from the 14th Vitamin D Workshop held at Brugge, Belgium on October 4–8, 2009.
 
 * <a href="/posts/colon-cancer-vs-latitude" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 64">Colon Cancer vs latitude</a> from Gapminder
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 * [Increasing vitamin D increases colon cancer in Finnish smokers – Jan 2011](/posts/increasing-vitamin-d-increases-colon-cancer-in-finnish-smokers)
 
-* <a href="/posts/nhanes-shows-increased-colon-cancer-deaths-for-men-having-more-than-40-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 953">NHANES shows increased colon cancer deaths for men having more than 40 ng – Sept 2010</a>
+* [NHANES shows increased colon cancer deaths for men having more than 40 ng – Sept 2010](/posts/nhanes-shows-increased-colon-cancer-deaths-for-men-having-more-than-40-ng)
 
-* <a href="/posts/will-increasing-vitamin-d-in-blood-to-100-ng-reduce-deaths-of-colon-cancer-patients" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 588">Will increasing vitamin D in blood to 100 ng reduce deaths of colon cancer patients- July 2010</a> Clinical Trial
+* [Will increasing vitamin D in blood to 100 ng reduce deaths of colon cancer patients- July 2010](/posts/will-increasing-vitamin-d-in-blood-to-100-ng-reduce-deaths-of-colon-cancer-patients) Clinical Trial
 
-* <a href="/posts/reduce-colorectal-cancer-with-1000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 90">Reduce colorectal cancer with 1000 IU of vitamin D - April 2010</a>
+* [Reduce colorectal cancer with 1000 IU of vitamin D - April 2010](/posts/reduce-colorectal-cancer-with-1000-iu-of-vitamin-d)

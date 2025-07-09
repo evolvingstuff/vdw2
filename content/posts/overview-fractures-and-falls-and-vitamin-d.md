@@ -38,7 +38,7 @@
 
 ##### It has been known since year 2000 that nerve conduction velocity speeds up with increased vitamin D - see following graph
 
-{IMG(fileId="420" max ="600")}{IMG}
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">
 
 ---
 

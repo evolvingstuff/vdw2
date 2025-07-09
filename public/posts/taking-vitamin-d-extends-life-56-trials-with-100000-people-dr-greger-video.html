@@ -1,0 +1,75 @@
+<!doctype html><html><head><meta charset=utf-8><title>Taking vitamin D extends life - 56 trials with 100,000 people - Dr. Greger video</title>
+<link rel=stylesheet href="/css/main.css?v=1752030349"><link rel=stylesheet href="/css/pagination.css?v=1752030349"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030349"></script><script src="/js/search.js?v=1752030349"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Taking vitamin D extends life - 56 trials with 100,000 people - Dr. Greger video</h1><time>July 2, 2016</time><div data-pagefind-body><h4 id=great-general-vitamin-d-video-4-minuteshttpnutritionfactsorgvideowill-you-live-longer-if-you-take-vitamin-d-supplements><a href=http://nutritionfacts.org/video/will-you-live-longer-if-you-take-vitamin-d-supplements/>Great general Vitamin D video (4 minutes)</a></h4><p><strong>Transcript and list of sources are further down on this page</strong></p><hr><h3 id=video-transcript>Video transcript</h3><p>In 1822, a Polish physician was the first to publish that sunlight could cure the vitamin D deficiency disease rickets. His work was ignored by mainstream medicine for a century, not coming into widespread use until the 20th century, when wire cages were affixed to tenement buildings so babies could benefit from the sun. Are we in a similar situation now, where the medical profession has just not caught up with the science?</p><p>Researchers have documented correlations between all sorts of good things and higher vitamin D levels—even to the point of seeing whether vitamin D supplementation might reduce the adverse effects of earthquakes. Seems to help with everything else, so why not? It’s actually not as silly as it sounds. Traumatic events like natural disasters can have a significant psychological impact, which may be affected by vitamin D status.</p><p>But when researchers put supplements to the test, the purported links often didn’t pan out. This lack of effect may exist, in part, because low vitamin D levels may just be a marker for things like aging, obesity, smoking, and inactivity. Or maybe low vitamin D didn’t lead to disease, but maybe disease led to low vitamin D. Inflammation can drop D levels within the body. So, just because low D levels and disease seem to be correlated doesn’t mean that vitamin D deficiency is the cause.</p><p>While the majority of observational studies may show a link, where you just measure vitamin D levels and disease rates, in only a handful of conditions have interventional studies proven vitamin D to be effective—where you give people D supplements or placebos, and see what happens. But one of those conditions for which vitamin D supplements appear to genuinely work is helping to prevent mortality.</p><p>56 randomized clinical trials, involving nearly 100,000 people between the ages of 18 and 107, mostly women, randomized to four years of vitamin D supplements or sugar pills. Put all the studies together, and those given vitamin D supplements lived longer, also specifically lowering the risk of dying from cancer. Note this effect appeared limited to vitamin D3, though, the type derived from plants and animals—not vitamin D2, the type derived from yeast and mushrooms.</p><p>How large an effect was it? <strong>It would take 150 people taking vitamin D supplements for five years to save one life</strong> , and so if we were talking about a drug, you’d have to weigh that against the cost and side effects of dosing so many people. But when we’re talking about something as safe and cheap as vitamin D supplements, it seems like a bargain to me. A similar analysis pegged the benefit at 11% in terms of reduction of total mortality—which is pretty substantial, potentially offering a life extension benefit on par with exercise. Though no, it does not seem to reduce the adverse effects of earthquakes.</p><p>The only concern that was raised is that it may give people license to, like, order an extra doughnut or something. We still have to eat healthy—any longevity benefit from vitamin D would just be a small adjunct to a healthy lifestyle. But for those of us who want all the help they can get, the question then becomes okay, how much should we take? The question I’ll address next.</p><hr><h4 id=video-sources>Video Sources</h4><p>S Slow, C M Florkowski, S T Chambers, P C Priest, A W Stewart, L C Jennings, J H Livesey, C A Camargo Jr, R Scragg, D R Murdoch. Effect of monthly vitamin D3 supplementation in healthy adults on adverse effects of earthquakes: randomised controlled trial. BMJ. 2014 Dec 15;349:g7260.</p><p>J P Ekwaru, J D Zwicker, M F Holick, E Giovannucci, P J Veugelers. The importance of body weight for the dose response relationship of oral vitamin D supplementation and serum 25-hydroxyvitamin D in healthy volunteers. PLoS One. 2014 Nov 5;9(11):e111265.</p><p>G Bjelakovic, L L Gluud, D Nikolova, K Whitfield, J Wetterslev, R G Simonetti, M Bjelakovic, C Gluud. Vitamin D supplementation for prevention of mortality in adults. Cochrane Database Syst Rev. 2014 Jan 10;1:CD007470.</p><p>P Welsh, N Sattar. Vitamin D and chronic disease prevention. BMJ. 2014 Apr 1;348:g2280.</p><p>E Theodoratou, I TzoulakI, L Zgaga, J P Ioannidis. Vitamin D and multiple health outcomes: umbrella review of systematic reviews and meta-analyses of observational studies and randomised trials. BMJ. 2014 Apr 1;348:g2035.</p><p>J C Seida, J Mitri, I N Colmers, S R Majumdar, M B Davidson, A L Edwards, D A Hanley, A G Pittas, L Tjosvold, J A Johnson. Clinical review: Effect of vitamin D3 supplementation on improving glucose homeostasis and preventing diabetes: a systematic review and meta-analysis. J Clin Endocrinol Metab. 2014 Oct;99(10):3551-60.</p><p>L A Beveridge, A D Struthers, F Khan, R Jorde, R Scragg, H M Macdonald, J A Alvarez, R S Boxer, A Dalbeni, A D Gepner, N M Isbel, T Larsen, J Nagpal, W G Petchey, H Stricker, F Strobel, V S Tangpricha, L Toxqui, M P Vaquero, L Wamberg, A Zittermann, M D Witham; D-PRESSURE Collaboration. Effect of Vitamin D Supplementation on Blood Pressure: A Systematic Review and Meta-analysis Incorporating Individual Patient Data. JAMA Intern Med. 2015 May;175(5):745-54.</p><p>J Wierzbicka, A Piotrowska, M A Żmijewski. The renaissance of vitamin D. Acta Biochim Pol. 2014;61(4):679-86.</p><p>R Chowdhury, S Kunutsor, A Vitezova, C Oliver-Williams, S Chowdhury, J C Kiefte-de-Jong, H Khan, C P Baena, D Prabhakaran, M B Hoshen, B S Feldman, A Pan, L Johnson, F Crowe, F B Hu, O H Franco. Vitamin D and risk of cause specific death: systematic review and meta-analysis of observational cohort and randomised intervention studies. BMJ. 2014 Apr 1;348:g1903.</p><p>W B Grant. An estimate of the global reduction in mortality rates through doubling vitamin D levels. Eur J Clin Nutr. 2011 Sep;65(9):1016-26.</p><p>P Autier, M Boniol, C Pizot, P Mullie. Vitamin D status and ill health: a systematic review. Lancet Diabetes Endocrinol. 2014 Jan;2(1):76-89.</p><p>W. Mozolowski. Jędrzej Sniadecki (1768-1838) on the Cure of Rickets. Article in Nature 143:121 · December 1938 with 32 Reads.</p><p>A F Hess. The Prevention and Cure of Rickets by Sunlight. Am J Public Health (N Y). 1922 Feb;12(2):104-7.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>About D - introduction</span>
+<span class=tag>bone</span>
+<span class=tag>bone cancer</span>
+<span class=tag>Books, videos on Vitamin D</span>
+<span class=tag>cancer</span>
+<span class=tag>diabetes</span>
+<span class=tag>Greger</span>
+<span class=tag>health risk</span>
+<span class=tag>life span</span>
+<span class=tag>metabolic</span>
+<span class=tag>mortality</span>
+<span class=tag>Mortality and D</span>
+<span class=tag>obesity</span>
+<span class=tag>obesity and cancer</span>
+<span class=tag>rickets</span>
+<span class=tag>smoking</span>
+<span class=tag>vitamin d</span>
+<span class=tag>vitamin d blood test</span></div><div data-pagefind-meta=tags hidden>About D - introduction, bone, bone cancer, Books, videos on Vitamin D, cancer, diabetes, Greger, health risk, life span, metabolic, mortality, Mortality and D, obesity, obesity and cancer, rickets, smoking, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030349"></script><script src="/js/tiki-redirects.js?v=1752030349"></script><script src="/js/lightspa.js?v=1752030349"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030349",indexUrl:"/search/search_index.json.gz?v=1752030349"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030349"></script></body></html>

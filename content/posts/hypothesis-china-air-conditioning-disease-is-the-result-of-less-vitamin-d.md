@@ -30,7 +30,7 @@
 
 ### Hypothesis: People living in sunny climates who can afford air conditioning get less vitamin D
 
-* <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Air Conditioning probably has decreased vitamin D</a> 
+* [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d) 
 
 * [Depression in UAE peaks in the summer – probably due to sun avoidance – Feb 2011](/posts/depression-in-uae-peaks-in-the-summer-probably-due-to-sun-avoidance)
 

@@ -90,7 +90,7 @@ After controlling for demographic and biochemical factors, the association reach
 
 Conclusion: These findings indicate a possible contributive role for serum 25‐OHD deficiency in the development of pain and tenderness over the tibial bone.
 
- **See study in VitaminDWikki <a href="/posts/tibia-pain-long-term-is-20x-more-likely-if-low-vitamin-d-under-10-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tibia pain (long term) is 20X more likely if low vitamin D (under 10 ng) – Jan 2018">Tibia pain (long term) is 20X more likely if low vitamin D (under 10 ng) – Jan 2018</a>** 
+ **See study in VitaminDWikki [Tibia pain (long term) is 20X more likely if low vitamin D (under 10 ng) – Jan 2018](/posts/tibia-pain-long-term-is-20x-more-likely-if-low-vitamin-d-under-10-ng)** 
 
 ---
 
@@ -106,7 +106,7 @@ Conclusion: These findings indicate a possible contributive role for serum 25‐
 
 <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/self-test-f1.jpg" alt="image"><img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/self-test-f5.jpg" alt="image">
 
-#### <a href="/posts/free-vitamin-d-evaluation-service" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Free Vitamin D evaluation service">Free Vitamin D evaluation service</a> same German Doctor
+#### [Free Vitamin D evaluation service](/posts/free-vitamin-d-evaluation-service) same German Doctor
 
  **The online free tests ofr vitamin D deficiency asks about the frequency of the following:** 
 
@@ -144,20 +144,20 @@ Conclusions: Anterior tibial tenderness is a valid clinical diagnostic tool for 
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/tibial-tenderness.pdf">Download the PDF from VitaminDWiki.</a>** 
 
-* in VitaminDWiki <a href="/posts/vitamin-d-injections-of-a-total-of-1800000-iu-reduced-shinbone-tenderness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013">Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013</a>
+* in VitaminDWiki [Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013](/posts/vitamin-d-injections-of-a-total-of-1800000-iu-reduced-shinbone-tenderness)
 
 ---
 
 #### See also VitaminDWiki
 
-* <a href="/posts/low-cost-vitamin-d-testers-two-yes-no-tests-for-11-dollars-2024" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024">Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024</a>
+* [Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024](/posts/low-cost-vitamin-d-testers-two-yes-no-tests-for-11-dollars-2024)
 
-* <a href="/posts/vitamin-d-deficiency-4x-more-likely-if-illiterate-or-have-bone-pain-lahore-pakistan" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D deficiency 4X more likely if illiterate or have bone pain – Lahore Pakistan – Oct 2015">Vitamin D deficiency 4X more likely if illiterate or have bone pain – Lahore Pakistan – Oct 2015</a>
+* [Vitamin D deficiency 4X more likely if illiterate or have bone pain – Lahore Pakistan – Oct 2015](/posts/vitamin-d-deficiency-4x-more-likely-if-illiterate-or-have-bone-pain-lahore-pakistan)
 
-* <a href="/posts/shin-pain-in-elderly-men-36-x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shin pain in elderly men 36 X more likely if low vitamin D – March 2017">Shin pain in elderly men 36 X more likely if low vitamin D – March 2017</a>
+* [Shin pain in elderly men 36 X more likely if low vitamin D – March 2017](/posts/shin-pain-in-elderly-men-36-x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/leg-bone-tibia-grew-thicker-with-4000-iu-of-vitamin-d-and-calcium-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Leg bone (tibia) grew thicker with 4,000 IU of vitamin D and Calcium – RCT Aug 2016">Leg bone (tibia) grew thicker with 4,000 IU of vitamin D and Calcium – RCT Aug 2016</a>
+* [Leg bone (tibia) grew thicker with 4,000 IU of vitamin D and Calcium – RCT Aug 2016](/posts/leg-bone-tibia-grew-thicker-with-4000-iu-of-vitamin-d-and-calcium-rct)
 
-* <a href="/posts/vitamin-d-deficiency-an-unrecognized-cause-of-flank-pain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D deficiency: an unrecognized cause of flank pain – Nov 2017">Vitamin D deficiency: an unrecognized cause of flank pain – Nov 2017</a>
+* [Vitamin D deficiency: an unrecognized cause of flank pain – Nov 2017](/posts/vitamin-d-deficiency-an-unrecognized-cause-of-flank-pain)
 
 * <img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/flank.jpg" alt="image" width="200">

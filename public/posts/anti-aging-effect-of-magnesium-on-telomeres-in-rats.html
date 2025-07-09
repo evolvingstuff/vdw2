@@ -1,0 +1,60 @@
+<!doctype html><html><head><meta charset=utf-8><title>Anti-aging Effect of Magnesium on Telomeres (in rats)</title>
+<link rel=stylesheet href="/css/main.css?v=1752030343"><link rel=stylesheet href="/css/pagination.css?v=1752030343"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1752030343"></script><script src="/js/search.js?v=1752030343"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Anti-aging Effect of Magnesium on Telomeres (in rats)</h1><time>April 12, 2016</time><div data-pagefind-body><h4 id=short-term-magnesium-deficiency-downregulates-telomerase-upregulates-neutral-sphingomyelinase-and-induces-oxidative-dna-damage-in-cardiovascular-tissues-relevance-to-atherogenesis-cardiovascular-diseases-and-aging>Short-term magnesium deficiency downregulates telomerase, upregulates neutral sphingomyelinase and induces oxidative DNA damage in cardiovascular tissues: relevance to atherogenesis, cardiovascular diseases and aging.</h4><p>Int J Clin Exp Med. 2014 Mar 15;7(3):497-514. eCollection 2014.</p><p>Shah NC1, Shah GJ1, Li Z2, Jiang XC3, Altura BT4, Altura BM5.</p><p>1Department of Physiology and Pharmacology, State University of New York Downstate Medical Center Brooklyn, NY 11203.</p><p>2Department of Anatomy and Cell Biology, State University of New York Downstate Medical Center Brooklyn, NY 11203.</p><p>3Department of Anatomy and Cell Biology, State University of New York Downstate Medical Center Brooklyn, NY 11203 ; The Center for Cardiovascular and Muscle Research, State University of New York Downstate Medical Center Brooklyn, NY 11203.</p><p>4Department of Physiology and Pharmacology, State University of New York Downstate Medical Center Brooklyn, NY 11203 ; The Center for Cardiovascular and Muscle Research, State University of New York Downstate Medical Center Brooklyn, NY 11203 ; Bio-Defense Systems, Inc. Rockville Centre, NY 11570.</p><p>5Department of Physiology and Pharmacology, State University of New York Downstate Medical Center Brooklyn, NY 11203 ; The Center for Cardiovascular and Muscle Research, State University of New York Downstate Medical Center Brooklyn, NY 11203 ; Department of Medicine, State University of New York Downstate Medical Center Brooklyn, NY 11203 ; Bio-Defense Systems, Inc. Rockville Centre, NY 11570.</p><p>THE PRESENT WORK TESTED THE HYPOTHESES THAT:</p><ul><li><ol><li>short-term dietary deficiency of magnesium (Mg; 21 days) in rats (MgD) would result in a downregulation of telomerase in cardiac and aortic smooth muscle cells,</li></ol></li><li><ol start=2><li>low levels of Mg(2+) added to drinking water (DW) would either prevent or greatly reduce the downregulation of telomerase in MgD,</li></ol></li><li><ol start=3><li>MgD in rats would cause an upregulation of neutral-sphingomyelinase (N-SMAse) and p53,</li></ol></li><li><ol start=4><li>short-term MgD would result in oxidation of DNA in diverse cardiac muscle and aortic smooth muscle cells as exemplified by measurement of 8-hydroxydeoxyguanosine (8-OH-dG), and</li></ol></li><li><ol start=5><li>cross-talk between telomerase, N-SMase, p53, and 8- OH-dG would be evident in left ventricular (LV), right ventricular (RV), atrial and aortic smooth muscle obtained from rats subjected to short-term MgD.</li></ol></li></ul><p>The data indicated that short-term MgD (10% normal dietary intake) resulted in downregulation of telomerase in LV, RV, atrial and aortic muscle cells; even very low levels of water-bourne Mg(2+) (e.g., 15-40 mg/lday) either prevented or ameliorated the downregulation of telomerase.</p><p>Our experiments also showed that MgD resulted in a 7-10 fold increased formation of 8- OH-d G in the cardiac and aortic muscle cells. The experiments also confirmed that short-term dietary deficiency of Mg resulted in greatly increased upregulation of N-SMAse and p53 in the cardiac and aortic muscle tissues. These new experiments point to a sizeable cross-talk among telomerase, N-SMAse, and p53 in rat cardiac and peripheral vascular muscle exposed to a short-term MgD. These studies would be compatible with the idea that even short-term MgD could cause alterations of the genome in diverse cell types leading to mutations of cardiac, vascular, and endothelial cells seen in aging and atherogenesis. Since we have shown, previously, that activation of N-SMAse in MgD leads to synthesis and release of ceramide in cardiovascular tissues and cells, we believe this pathway, most likely, helps to result in downregulation of telomerase, upregulation of transcription factors (e.g., p53; NF-kB), cytokine release, mutations, transformations, and dysfunctional growth seen in the cardiac and vascular cells observed in the normal aging process, atherogenesis, hypertension, and cardiac failure. Lastly, we suggest ways in which this hypothesis can be tested.</p><p>PMID: 24753742</p><h4 id=i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd1bk1kqxc0symcloudfrontnetattachmentspdfmg-2014pdfdownload-the-pdf-from-vitamindwikia><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/mg-2014.pdf>Download the PDF from VitaminDWiki</a></h4></div><hr class=tag-separator><div class=tags><span>Tags: </span><span class=tag>hypertension</span>
+<span class=tag>magnesium</span>
+<span class=tag>Vitamin D and Magnesium</span></div><div data-pagefind-meta=tags hidden>hypertension, magnesium, Vitamin D and Magnesium</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1752030343"></script><script src="/js/tiki-redirects.js?v=1752030343"></script><script src="/js/lightspa.js?v=1752030343"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1752030343",indexUrl:"/search/search_index.json.gz?v=1752030343"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1752030343"></script></body></html>
